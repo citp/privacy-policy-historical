@@ -1,270 +1,2046 @@
-<!--The following is the downloaded HTML source of the talentzoo.com privacy policy that was archived on 2002-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021203022840id_/http%3A//www.talentzoo.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the talentzoo.com privacy policy that was archived on 2008-04-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080413032220id_/http%3A//www.talentzoo.com/website/Content/ContentPage.aspx%3FPageId%3D64) for the most accurate reproduction.-->
 
-<html><head>
-
-<title>Advertising Jobs at Talent Zoo: </title>
-
-<script language="JavaScript" type="text/javascript">
-<!--
-if(window.event + "" == "undefined") event = null;
-function HM_f_PopUp(){return false};
-function HM_f_PopDown(){return false};
-popUp = HM_f_PopUp;
-popDown = HM_f_PopDown;
-cP="issues";
-
-
-if (navigator.platform == "MacPPC") {
-   clientOS = "mac";
-   } else { clientOS = "win";
-}
-if (document.layers) {
-   clientBrowser = "ns4";
-   } else { clientBrowser = "standard";
-}
-
-stylesheetURL = '<LINK REL="stylesheet" HREF="http://www.talentzoo.com/common/' + clientOS + clientBrowser + '.css"' + ' TYPE="text/css">';
-
-document.write(stylesheetURL);
-
-
-function valLD(form) {
-if (form.UserName.value.length==0)
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="shortcut icon" href="http://www.talentzoo.com/images/star.ico"><link href="../css/Default.css" rel="stylesheet" type="text/css"><link href="../css/Treeview.css" rel="stylesheet" type="text/css"><link href="../css/menu.css" rel="stylesheet" type="text/css"><link href="../css/ContentMng.css" rel="stylesheet" type="text/css"><script type="text/javascript">
+//<![CDATA[
+// position of the tooltip relative to the mouse in pixel //
+var offsetx = 12;
+var offsety = 12;
+function newelement(newid)
 {
-alert("Please enter your User Name");
-form.UserName.focus();
-return (false);
+    if(document.createElement)
+    {
+        var el = document.createElement('div');
+        el.id = newid;
+        with(el.style)
+        {
+            display = 'none';
+            position = 'absolute';
+        }
+        el.innerHTML = '&nbsp;';
+        document.body.appendChild(el);
+    }
 }
-if (form.PassWord.value.length==0)
+
+function tooltip(tip)
 {
-alert("Please enter your password");
-form.PassWord.focus();
-return (false);
+    if(!document.getElementById('tooltip')) newelement('tooltip');
+    var lixlpixel_tooltip = document.getElementById('tooltip');
+    //can't use word wrap with 'titles' being passed, since thats factored into part of the line count
+    lixlpixel_tooltip.innerHTML = tip;
+    lixlpixel_tooltip.style.display = 'block';
+
+    document.onmousemove = getMouseXY;
 }
-else return true;
+function exit()
+{
+    document.getElementById('tooltip').style.display = 'none';
 }
-function setCookie(cookieName, cookieValue, cookiePath, cookieExpires) 
-{ 
-cookieValue = escape(cookieValue); 
-if (cookieExpires == "") 
-{ 
-var nowDate = new Date(); 
-nowDate.setMonth(nowDate.getMonth() + 6); 
-cookieExpires = nowDate.toGMTString(); 
-} 
 
-if (cookiePath != "") 
-{ 
-cookiePath = ";Path=" + cookiePath; 
-} 
+// Detect if the browser is IE or not.
+// If it is not IE, we assume that the browser is NS.
+var IE = document.all?true:false
 
-document.cookie = cookieName + "=" + cookieValue + ";expires=" + cookieExpires + cookiePath; 
-} 
-//-->
-</script><link rel="stylesheet" href="http://www.talentzoo.com/common/winstandard.css" type="text/css">
-<script language="Javascript1.2" src="http://www.talentzoo.com/common/numval.js"></script>
+// If NS -- that is, !IE -- then set up for mouse capture
+if (!IE) document.captureEvents(Event.MOUSEMOVE)
 
-<meta name="Description" content="North America’s premier recruitment firm for advertising jobs, Talent Zoo assists leading agencies and advertisers in finding and recruiting top advertising talent.">
-<meta name="Keywords" content="headhunters recruiters advertising jobs careers headhunter recruiter job media plan buy account executive creative copywriting art direction traffic  management marketing public relations broadcast production graphic designer">
-<meta name="Author" content="Plexus Web Creations and Talent Zoo">
-<meta http-equiv="Content-Language" content="en">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta name="Copyright" content="2000">
-<meta name="Generator" content="Allaire HomeSite 4.5">
-<meta name="Robots" content="ALL">
-<meta name="DC.Contributor" content="Buck Sharp, Stephanie Burr, Adam Parrott">
-<meta name="DC.Creator" content="Buck Sharp">
-<meta name="DC.Description" content="Web advertising jobs available from Talentzoo.com. Post your advertising employment resume post your web advertising job listing.  ">
-<meta name="DC.Format" content="text/html, text/css">
-<meta name="DC.Identifier" content="http://www.talentzoo.com">
-<meta name="DC.Language" content="en">
-<meta name="DC.Publisher" content="Talent Zop">
-<meta name="DC.Title" content="Talent Zoo">
-<meta name="DC.Type" content="Advertising Recruiting Firm">
-<meta http-equiv="Language" content="en">
+// Temporary variables to hold mouse x-y pos.s
+var tempX = 0
+var tempY = 0
 
-</head>
-<body bgcolor="#FFFFFF" link="#336699" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="setCookie('jscripttest', 'true', '/', '')" top="0" side="0">
-<table width="719" border="0" cellspacing="0" cellpadding="1" style="border: 1px solid Black;">
+// Main function to retrieve mouse x-y pos.s
+function getMouseXY(e) {
+  if (IE) { // grab the x-y pos.s if browser is IE
+    tempX = event.clientX + document.body.scrollLeft
+    tempY = event.clientY + document.body.scrollTop
+  } else {  // grab the x-y pos.s if browser is NS
+    tempX = e.pageX
+    tempY = e.pageY
+  }
+  // catch possible negative values in NS4
+  if (tempX < 0){tempX = 0}
+  if (tempY < 0){tempY = 0}
+
+  var lixlpixel_tooltip = document.getElementById('tooltip');
+
+  lixlpixel_tooltip.style.left = (tempX-offsetx) + 'px';
+  lixlpixel_tooltip.style.top = (tempY+offsety) + 'px';
+
+  return true
+}
+
+String.prototype.wordWrap = function(m, b, c){
+    var i, j, s, r = this.split("\n");
+    if(m > 0) for(i in r){
+        for(s = r[i], r[i] = ""; s.length > m;
+            j = c ? m : (j = s.substr(0, m).match(/\S*$/)).input.length - j[0].length
+            || m,
+            r[i] += s.substr(0, j) + ((s = s.substr(j)).length ? b : "")
+        );
+        r[i] += s;
+    }
+    return r.join("\n");
+};
+//]]>
+</script>
+<script language="javascript">
+function OpenWindow(URL,W,H)
+{
+    var WindowName = "MyPopup";
+    var Features = "width=" + W + ",height=" + H + ",location=no,toolbar=no, menubar=no, resizable";
+    window.open(URL, WindowName, Features);
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1044227-5";
+urchinTracker();
+</script>
+
+
+<meta name="WT.cg_n" content="Content">
+<meta name="WT.cg_n" content="Privacy Policy">
+<meta name="description" content="Talent Zoo is committed to protecting your privacy on our job board and with all information given to job recruiters on talentzoo.com.">
+<meta name="keywords" content="Job Board, Job Recruiters, Advertising Jobs, Marketing Jobs, Marketing Communications Jobs, Careers in Advertising, Public Relations Jobs, Advertising Agency Jobs, Jobs in Public Relations, Executive Recruiters, Creative Director, Post Resume, Jobs in Adv">
+<title>
+	Talent Zoo - Privacy Policy
+</title></head>
+<body style="background-color: #464646; padding: 0px; margin: 0px; text-align: center;">
+    <form name="aspnetForm" method="post" action="ContentPage.aspx?PageId=64" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIMTkyMTY5ODcPZBYCZg9kFgYCAg9kFgICBw9kFgICAQ9kFgYCAg8WBB4EVGV4dAVXPE1FVEEgTkFNRT0iV1QuY2dfbiIgQ09OVEVOVD0iQ29udGVudCI+DQo8TUVUQSBOQU1FPSJXVC5jZ19uIiBDT05URU5UPSJQcml2YWN5IFBvbGljeSI+HgdWaXNpYmxlZ2QCBA8WAh8ABasBPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IlRhbGVudCBab28gaXMgY29tbWl0dGVkIHRvIHByb3RlY3RpbmcgeW91ciBwcml2YWN5IG9uIG91ciBqb2IgYm9hcmQgYW5kIHdpdGggYWxsIGluZm9ybWF0aW9uIGdpdmVuIHRvIGpvYiByZWNydWl0ZXJzIG9uIHRhbGVudHpvby5jb20uIiA+ZAIGDxYCHwAFoQI8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0iSm9iIEJvYXJkLCBKb2IgUmVjcnVpdGVycywgQWR2ZXJ0aXNpbmcgSm9icywgTWFya2V0aW5nIEpvYnMsIE1hcmtldGluZyBDb21tdW5pY2F0aW9ucyBKb2JzLCBDYXJlZXJzIGluIEFkdmVydGlzaW5nLCBQdWJsaWMgUmVsYXRpb25zIEpvYnMsIEFkdmVydGlzaW5nIEFnZW5jeSBKb2JzLCBKb2JzIGluIFB1YmxpYyBSZWxhdGlvbnMsIEV4ZWN1dGl2ZSBSZWNydWl0ZXJzLCBDcmVhdGl2ZSBEaXJlY3RvciwgUG9zdCBSZXN1bWUsIEpvYnMgaW4gQWR2IiA+ZAIED2QWDgIDD2QWBAIDD2QWAgIBD2QWAmYPZBYIAgEPD2QWAh4Kb25rZXlwcmVzcwUbVXNlckxvZ2luTm9FbnRlcktleShldmVudCk7ZAIFDw9kFgIfAgUZVXNlckxvZ2luRW50ZXJLZXkoZXZlbnQpO2QCCw8WAh4Hb25jbGljawUZVXNlckxvZ2luRW50ZXJLZXkoZXZlbnQpO2QCDQ9kFgJmDw8WCB8AZR4NQW50aGVtVmlzaWJsZWgeCENzc0NsYXNzBQ1NZXNzYWdlLVNtYWxsHgRfIVNCAgJkZAIFDzwrAA0CAA8WAh4LXyFEYXRhQm91bmRnZAwUKwAKBSMwOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3LDA6OBQrAAIWDB8ABQRIb21lHgtOYXZpZ2F0ZVVybAUoL3dlYnNpdGUvY29udGVudC9kZWZhdWx0LmFzcHg/UGFnZUlkPTEwNh4HRW5hYmxlZGceClNlbGVjdGFibGVnHghEYXRhUGF0aAUoL3dlYnNpdGUvY29udGVudC9kZWZhdWx0LmFzcHg/cGFnZWlkPTEwNh4JRGF0YUJvdW5kZ2QUKwACFgwfAAUJSm9iIEJvYXJkHwgFPS93ZWJzaXRlL0pvYnMvSm9iU2VhcmNoLmFzcHg/U2VhcmNoVHlwZT1TaW1wbGUmUmVjb3JkQ291bnQ9MjAfCWcfCmcfCwU9L3dlYnNpdGUvam9icy9qb2JzZWFyY2guYXNweD9zZWFyY2h0eXBlPXNpbXBsZSZyZWNvcmRjb3VudD0yMB8MZ2QUKwACFgwfAAUJUG9zdCBKb2JzHwgFKi93ZWJzaXRlL0NvbnRlbnQvQ29udGVudFBhZ2UuYXNweD9QYWdlSWQ9NB8JZx8KZx8LBSovd2Vic2l0ZS9jb250ZW50L2NvbnRlbnRwYWdlLmFzcHg/cGFnZWlkPTQfDGcUKwADBQcwOjAsMDoxFCsAAhYMHwAFE1Bvc3RpbmcgSW5mb3JtYXRpb24fCAU0L3dlYnNpdGUvQ29udGVudC9Db250ZW50UGFnZS5hc3B4P1BhZ2VJZD00JnByaWNpbmc9MR8JZx8KZx8LBTQvd2Vic2l0ZS9jb250ZW50L2NvbnRlbnRwYWdlLmFzcHg/cGFnZWlkPTQmcHJpY2luZz0xHwxnZBQrAAIWDB8ABQdQcmljaW5nHwgFIS93ZWJzaXRlL2VtcGxveWVycy9wcmljZWxpc3QuYXNweB8JZx8KZx8LBSEvd2Vic2l0ZS9lbXBsb3llcnMvcHJpY2VsaXN0LmFzcHgfDGdkFCsAAhYMHwAFDlVwbG9hZCBSZXN1bWVzHwgFKi93ZWJzaXRlL0NvbnRlbnQvQ29udGVudFBhZ2UuYXNweD9QYWdlSWQ9Nx8JZx8KZx8LBSovd2Vic2l0ZS9jb250ZW50L2NvbnRlbnRwYWdlLmFzcHg/cGFnZWlkPTcfDGdkFCsAAhYMHwAFBlRhbGVudB8IBSwvd2Vic2l0ZS9jb250ZW50L0xhbmRpbmdNYWluLmFzcHg/UGFnZUlkPTMwMB8JZx8KZx8LBSwvd2Vic2l0ZS9jb250ZW50L2xhbmRpbmdtYWluLmFzcHg/cGFnZWlkPTMwMB8MZxQrAAYFEzA6MCwwOjEsMDoyLDA6MywwOjQUKwACFgwfAAUPVXBsb2FkIGEgUmVzdW1lHwgFMC93ZWJzaXRlL0NvbnRlbnQvQ29udGVudFBhZ2UuYXNweD9QYWdlSWQ9NyZUb3A9MR8JZx8KZx8LBTAvd2Vic2l0ZS9jb250ZW50L2NvbnRlbnRwYWdlLmFzcHg/cGFnZWlkPTcmdG9wPTEfDGdkFCsAAhYMHwAFC1NlYXJjaCBKb2JzHwgFRi93ZWJzaXRlL0pvYnMvSm9iU2VhcmNoLmFzcHg/UGFnZUlkPTUmU2VhcmNoVHlwZT1TaW1wbGUmUmVjb3JkQ291bnQ9MjAfCWcfCmcfCwVGL3dlYnNpdGUvam9icy9qb2JzZWFyY2guYXNweD9wYWdlaWQ9NSZzZWFyY2h0eXBlPXNpbXBsZSZyZWNvcmRjb3VudD0yMB8MZ2QUKwACFgwfAAUQUm9va2llIERpcmVjdG9yeR8IBSovd2Vic2l0ZS9Db250ZW50L0NvbnRlbnRQYWdlLmFzcHg/UGFnZUlkPTYfCWcfCmcfCwUqL3dlYnNpdGUvY29udGVudC9jb250ZW50cGFnZS5hc3B4P3BhZ2VpZD02HwxnZBQrAAIWDB8ABQ5TYWxhcnkgTW9uaXRvch8IBTkvd2Vic2l0ZS9UYWxlbnQvU2FsYXJ5TW9uaXRvci5hc3B4P1BhZ2VJZD01MzImdHlwZT10YWxlbnQfCWcfCmcfCwU5L3dlYnNpdGUvdGFsZW50L3NhbGFyeW1vbml0b3IuYXNweD9wYWdlaWQ9NTMyJnR5cGU9dGFsZW50HwxnZBQrAAIWDh8ABRJXaXJlZCAmIEhpcmVkIEJsb2cfCAU9amF2YXNjcmlwdDpPcGVuV2luZG93KCdodHRwOi8vd3d3LndpcmVkYW5kaGlyZWQuY29tJyw3NzUsNjAwKR8JZx8KZx8LBRxodHRwOi8vd3d3LndpcmVkYW5kaGlyZWQuY29tHwxnHgZUYXJnZXRkZBQrAAIWDB8ABQlFbXBsb3llcnMfCAUsL3dlYnNpdGUvY29udGVudC9MYW5kaW5nTWFpbi5hc3B4P1BhZ2VJZD00MDAfCWcfCmcfCwUsL3dlYnNpdGUvY29udGVudC9sYW5kaW5nbWFpbi5hc3B4P3BhZ2VpZD00MDAfDGcUKwAJBR8wOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3FCsAAhYMHwAFC0pvYiBQb3N0aW5nHwgFMC93ZWJzaXRlL0NvbnRlbnQvQ29udGVudFBhZ2UuYXNweD9QYWdlSWQ9NCZlbXA9MR8JZx8KZx8LBTAvd2Vic2l0ZS9jb250ZW50L2NvbnRlbnRwYWdlLmFzcHg/cGFnZWlkPTQmZW1wPTEfDGdkFCsAAhYMHwAFDVJlc3VtZSBBY2Nlc3MfCAUrL3dlYnNpdGUvQ29udGVudC9Db250ZW50UGFnZS5hc3B4P1BhZ2VJZD0xMR8JZx8KZx8LBSsvd2Vic2l0ZS9jb250ZW50L2NvbnRlbnRwYWdlLmFzcHg/cGFnZWlkPTExHwxnZBQrAAIWDB8ABRBSb29raWUgRGlyZWN0b3J5HwgFKy93ZWJzaXRlL0NvbnRlbnQvQ29udGVudFBhZ2UuYXNweD9QYWdlSWQ9MTMfCWcfCmcfCwUrL3dlYnNpdGUvY29udGVudC9jb250ZW50cGFnZS5hc3B4P3BhZ2VpZD0xMx8MZ2QUKwACFgwfAAUOU2FsYXJ5IE1vbml0b3IfCAU2L3dlYnNpdGUvVGFsZW50L1NhbGFyeU1vbml0b3IuYXNweD9QYWdlSWQ9NTMxJnR5cGU9ZW1wHwlnHwpnHwsFNi93ZWJzaXRlL3RhbGVudC9zYWxhcnltb25pdG9yLmFzcHg/cGFnZWlkPTUzMSZ0eXBlPWVtcB8MZ2QUKwACFgwfAAUYQ3VzdG9taXplZCBTYWxhcnkgUmVwb3J0HwgFKy93ZWJzaXRlL0NvbnRlbnQvQ29udGVudFBhZ2UuYXNweD9QYWdlSWQ9MTUfCWcfCmcfCwUrL3dlYnNpdGUvY29udGVudC9jb250ZW50cGFnZS5hc3B4P3BhZ2VpZD0xNR8MZ2QUKwACFgwfAAUTUGFydGlhbCBDbGllbnQgTGlzdB8IBSsvd2Vic2l0ZS9Db250ZW50L0NvbnRlbnRQYWdlLmFzcHg/UGFnZUlkPTkzHwlnHwpnHwsFKy93ZWJzaXRlL2NvbnRlbnQvY29udGVudHBhZ2UuYXNweD9wYWdlaWQ9OTMfDGdkFCsAAhYMHwAFDFRlc3RpbW9uaWFscx8IBSsvd2Vic2l0ZS9Db250ZW50L0NvbnRlbnRQYWdlLmFzcHg/UGFnZUlkPTg4HwlnHwpnHwsFKy93ZWJzaXRlL2NvbnRlbnQvY29udGVudHBhZ2UuYXNweD9wYWdlaWQ9ODgfDGdkFCsAAhYOHwAFFkhpcmluZyBSZXZvbHV0aW9uIEJsb2cfCAVBamF2YXNjcmlwdDpPcGVuV2luZG93KCdodHRwOi8vd3d3LmhpcmluZy1yZXZvbHV0aW9uLmNvbScsNzc1LDYwMCkfCWcfCmcfCwUgaHR0cDovL3d3dy5oaXJpbmctcmV2b2x1dGlvbi5jb20fDGcfDWRkFCsAAhYMHwAFCEFSVElDTEVTHwgFLi93ZWJzaXRlL2NvbnRlbnQvTGFuZGluZ0xvdW5nZS5hc3B4P1BhZ2VJZD01MTMfCWcfCmcfCwUuL3dlYnNpdGUvY29udGVudC9sYW5kaW5nbG91bmdlLmFzcHg/cGFnZWlkPTUxMx8MZxQrAAoFIzA6MCwwOjEsMDoyLDA6MywwOjQsMDo1LDA6NiwwOjcsMDo4FCsAAhYMHwAFDEd1ZXN0IENvbHVtbh8IBTcvd2Vic2l0ZS9jb2x1bW5zL0FyY2hpdmVkRGV0YWlsZWQuYXNweD9Db250ZW50VHlwZUlkPTM1HwlnHwpnHwsFNy93ZWJzaXRlL2NvbHVtbnMvYXJjaGl2ZWRkZXRhaWxlZC5hc3B4P2NvbnRlbnR0eXBlaWQ9MzUfDGdkFCsAAhYMHwAFE0FkcyBXaXRob3V0IEJvcmRlcnMfCAU3L3dlYnNpdGUvY29sdW1ucy9BcmNoaXZlZERldGFpbGVkLmFzcHg/Q29udGVudFR5cGVJZD04MR8JZx8KZx8LBTcvd2Vic2l0ZS9jb2x1bW5zL2FyY2hpdmVkZGV0YWlsZWQuYXNweD9jb250ZW50dHlwZWlkPTgxHwxnZBQrAAIWDB8ABQtDaGVhcCBTZWF0cx8IBS8vd2Vic2l0ZS9jb2x1bW5zL0FyY2hpdmVkLmFzcHg/Q29udGVudFR5cGVJZD00MB8JZx8KZx8LBS8vd2Vic2l0ZS9jb2x1bW5zL2FyY2hpdmVkLmFzcHg/Y29udGVudHR5cGVpZD00MB8MZ2QUKwACFgwfAAUMRGV2aWwgdG8gUGF5HwgFLy93ZWJzaXRlL2NvbHVtbnMvQXJjaGl2ZWQuYXNweD9Db250ZW50VHlwZUlkPTQyHwlnHwpnHwsFLy93ZWJzaXRlL2NvbHVtbnMvYXJjaGl2ZWQuYXNweD9jb250ZW50dHlwZWlkPTQyHwxnZBQrAAIWDB8ABQ9NYXJrZXRpbmcgTW94aWUfCAU3L3dlYnNpdGUvY29sdW1ucy9BcmNoaXZlZERldGFpbGVkLmFzcHg/Q29udGVudFR5cGVJZD03OB8JZx8KZx8LBTcvd2Vic2l0ZS9jb2x1bW5zL2FyY2hpdmVkZGV0YWlsZWQuYXNweD9jb250ZW50dHlwZWlkPTc4HwxnZBQrAAIWDB8ABQ5OZXcgTWVkaWEgRWRnZR8IBTcvd2Vic2l0ZS9jb2x1bW5zL0FyY2hpdmVkRGV0YWlsZWQuYXNweD9Db250ZW50VHlwZUlkPTc5HwlnHwpnHwsFNy93ZWJzaXRlL2NvbHVtbnMvYXJjaGl2ZWRkZXRhaWxlZC5hc3B4P2NvbnRlbnR0eXBlaWQ9NzkfDGdkFCsAAhYMHwAFClNFTSBTa2lubnkfCAU3L3dlYnNpdGUvY29sdW1ucy9BcmNoaXZlZERldGFpbGVkLmFzcHg/Q29udGVudFR5cGVJZD03Nx8JZx8KZx8LBTcvd2Vic2l0ZS9jb2x1bW5zL2FyY2hpdmVkZGV0YWlsZWQuYXNweD9jb250ZW50dHlwZWlkPTc3HwxnZBQrAAIWDB8ABRVWZXJ5IFB1YmxpYyBSZWxhdGlvbnMfCAU3L3dlYnNpdGUvY29sdW1ucy9BcmNoaXZlZERldGFpbGVkLmFzcHg/Q29udGVudFR5cGVJZD04MB8JZx8KZx8LBTcvd2Vic2l0ZS9jb2x1bW5zL2FyY2hpdmVkZGV0YWlsZWQuYXNweD9jb250ZW50dHlwZWlkPTgwHwxnZBQrAAIWDB8ABQlVbmNoYWluZWQfCAU0L3dlYnNpdGUvQ29sdW1ucy9Db2x1bW5Db250ZW50LmFzcHg/Q29udGVudFR5cGVJZD02Mx8JZx8KZx8LBTQvd2Vic2l0ZS9jb2x1bW5zL2NvbHVtbmNvbnRlbnQuYXNweD9jb250ZW50dHlwZWlkPTYzHwxnZBQrAAIWDB8ABQRGQVFTHwgFKC93ZWJzaXRlL2Fib3V0L2NvbnRhY3Rmb3JtLmFzcHg/SXNIZWxwPTEfCWcfCmcfCwUoL3dlYnNpdGUvYWJvdXQvY29udGFjdGZvcm0uYXNweD9pc2hlbHA9MR8MZxQrAAMFBzA6MCwwOjEUKwACFgwfAAUGVGFsZW50HwgFKy93ZWJzaXRlL0NvbnRlbnQvQ29udGVudFBhZ2UuYXNweD9QYWdlSWQ9NTgfCWcfCmcfCwUrL3dlYnNpdGUvY29udGVudC9jb250ZW50cGFnZS5hc3B4P3BhZ2VpZD01OB8MZ2QUKwACFgwfAAUJRW1wbG95ZXJzHwgFKy93ZWJzaXRlL0NvbnRlbnQvQ29udGVudFBhZ2UuYXNweD9QYWdlSWQ9NTkfCWcfCmcfCwUrL3dlYnNpdGUvY29udGVudC9jb250ZW50cGFnZS5hc3B4P3BhZ2VpZD01OR8MZ2QUKwACFgwfAAUIQWJvdXQgVXMfCAUsL3dlYnNpdGUvY29udGVudC9MYW5kaW5nTWFpbi5hc3B4P1BhZ2VJZD0xMDEfCWcfCmcfCwUsL3dlYnNpdGUvY29udGVudC9sYW5kaW5nbWFpbi5hc3B4P3BhZ2VpZD0xMDEfDGcUKwAKBSMwOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3LDA6OBQrAAIWDB8ABRRDYXJlZXJzIGF0IFRhbGVudFpvbx8IBSovd2Vic2l0ZS9Db250ZW50L0NvbnRlbnRQYWdlLmFzcHg/UGFnZUlkPTIfCWcfCmcfCwUqL3dlYnNpdGUvY29udGVudC9jb250ZW50cGFnZS5hc3B4P3BhZ2VpZD0yHwxnZBQrAAIWDB8ABQVQcmVzcx8IBTMvd2Vic2l0ZS9jb2x1bW5zL2FyY2hpdmVkbWFpbi5hc3B4P0NvbnRlbnRUeXBlSWQ9NjkfCWcfCmcfCwUzL3dlYnNpdGUvY29sdW1ucy9hcmNoaXZlZG1haW4uYXNweD9jb250ZW50dHlwZWlkPTY5HwxnZBQrAAIWDB8ABQpDb250YWN0IFVzHwgFHy93ZWJzaXRlL2Fib3V0L2NvbnRhY3Rmb3JtLmFzcHgfCWcfCmcfCwUfL3dlYnNpdGUvYWJvdXQvY29udGFjdGZvcm0uYXNweB8MZ2QUKwACFgwfAAURVGFsZW50Wm9vIEpvdXJuYWwfCAUcaHR0cDovL3RhbGVudHpvb2pvdXJuYWwuY29tLx8JZx8KZx8LBRxodHRwOi8vdGFsZW50em9vam91cm5hbC5jb20vHwxnZBQrAAIWDB8ABRFBZHZlcnRpc2Ugd2l0aCBVcx8IBSsvd2Vic2l0ZS9Db250ZW50L0NvbnRlbnRQYWdlLmFzcHg/UGFnZUlkPTIwHwlnHwpnHwsFKy93ZWJzaXRlL2NvbnRlbnQvY29udGVudHBhZ2UuYXNweD9wYWdlaWQ9MjAfDGdkFCsAAhYMHwAFCk1hbmFnZW1lbnQfCAUqL3dlYnNpdGUvQ29udGVudC9Db250ZW50UGFnZS5hc3B4P1BhZ2VJZD0xHwlnHwpnHwsFKi93ZWJzaXRlL2NvbnRlbnQvY29udGVudHBhZ2UuYXNweD9wYWdlaWQ9MR8MZ2QUKwACFgwfAAUSQWZmaWxpYXRlIFByb2dyYW1zHwgFKy93ZWJzaXRlL0NvbnRlbnQvQ29udGVudFBhZ2UuYXNweD9QYWdlSWQ9MjIfCWcfCmcfCwUrL3dlYnNpdGUvY29udGVudC9jb250ZW50cGFnZS5hc3B4P3BhZ2VpZD0yMh8MZ2QUKwACFgwfAAUUSW52ZXN0b3IgSW5mb3JtYXRpb24fCAUrL3dlYnNpdGUvQ29udGVudC9Db250ZW50UGFnZS5hc3B4P1BhZ2VJZD0yNB8JZx8KZx8LBSsvd2Vic2l0ZS9jb250ZW50L2NvbnRlbnRwYWdlLmFzcHg/cGFnZWlkPTI0HwxnZBQrAAIWDh8ABQ1NYWlsaW5nIExpc3RzHwgFQWphdmFzY3JpcHQ6T3BlbldpbmRvdygnLi4vdG9vbHMvZW1haWxub3RpZmljYXRpb25zLmFzcHgnLDQyNSw1NTApHwlnHwpnHwsFJi93ZWJzaXRlL3Rvb2xzL2VtYWlsbm90aWZpY2F0aW9ucy5hc3B4HwxnHw1kZGQCBQ9kFgICAQ9kFgJmDw8WAh8ABWQ8c3BhbiBjbGFzcz0nTWFzdGVyUGFnZV9UaXRsZUZpcnN0Jz5Qcml2YWN5PC9zcGFuPjxzcGFuIGNsYXNzPSdNYXN0ZXJQYWdlX1RpdGxlU2Vjb25kJz5Qb2xpY3k8L3NwYW4+ZGQCBw9kFgJmD2QWAgIBD2QWAgIBD2QWAmYPFgIeBXN0eWxlBV9CQUNLR1JPVU5ELUlNQUdFOiB1cmwoLi4vLi4vaW1hZ2VzL0ludHJvSW1hZ2VzL3BpeGVsX3doaXRlLnBuZyk7IGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7IBYCZg9kFgJmDxYEHgV3aWR0aAUEMTAwJR4GaGVpZ2h0BQEwZAIJDxYCHwFoZAILD2QWBAIBD2QWAmYPDxYCHwFoZGQCAw9kFgICAQ8WAh8ABbIZPHNwYW4gY2xhc3M9IkNvbnRlbnRCb2R5Q29weSI+DQpUaGlzIGlzIHRoZSB3ZWIgc2l0ZSBvZiBUYWxlbnQgWm9vIEluYy4uDQo8cD4NCk91ciBwb3N0YWwgYWRkcmVzcyBpcyANCjE3MzYgRGVmb29yIFBsYWNlLA0KQXRsYW50YSwgR0EsIDMwMzE4DQo8L3A+DQo8cD4NCldlIGNhbiBiZSByZWFjaGVkIHZpYSBlLW1haWwgYXQgPGEgaHJlZj0ibWFpbHRvOnN1cHBvcnRAdGFsZW50em9vLmNvbSI+c3VwcG9ydEB0YWxlbnR6b28uY29tPC9hPjxicj4NCm9yIHlvdSBjYW4gcmVhY2ggdXMgYnkgdGVsZXBob25lIGF0IDQwNC02MDctMTk1NS4NCjwvcD4NCjxwPg0KRm9yIGVhY2ggdmlzaXRvciB0byBvdXIgV2ViIHBhZ2UsIG91ciBXZWIgc2VydmVyIGF1dG9tYXRpY2FsbHkgcmVjb2duaXplcyBvbmx5IHRoZSBjb25zdW1lcidzIGRvbWFpbiBuYW1lLCBidXQgbm90IHRoZSBlLW1haWwgYWRkcmVzcyAod2hlcmUgcG9zc2libGUpLg0KPC9wPg0KPHA+DQpXZSBjb2xsZWN0IHRoZSBkb21haW4gbmFtZSBhbmQgZS1tYWlsIGFkZHJlc3MgKHdoZXJlIHBvc3NpYmxlKSBvZiB2aXNpdG9ycyB0byBvdXIgV2ViIHBhZ2UsIHRoZSBlLW1haWwgYWRkcmVzc2VzIG9mIHRob3NlIHdobyBjb21tdW5pY2F0ZSB3aXRoIHVzIHZpYSBlLW1haWwsIGluZm9ybWF0aW9uIHZvbHVudGVlcmVkIGJ5IHRoZSBjb25zdW1lciwgc3VjaCBhcyBzdXJ2ZXkgaW5mb3JtYXRpb24gYW5kL29yIHNpdGUgcmVnaXN0cmF0aW9ucy4NCjwvcD4NCjxwPg0KVGhlIGluZm9ybWF0aW9uIHdlIGNvbGxlY3QgaXMgdXNlZCB0byBjdXN0b21pemUgdGhlIGNvbnRlbnQgYW5kL29yIGxheW91dCBvZiBvdXIgcGFnZSBmb3IgZWFjaCBpbmRpdmlkdWFsIHZpc2l0b3IsIHVzZWQgYnkgdXMgdG8gY29udGFjdCBjb25zdW1lcnMgZm9yIG1hcmtldGluZyBwdXJwb3NlcyBhbmQgLg0KPC9wPg0KPHA+DQpXaXRoIHJlc3BlY3QgdG8gY29va2llczogV2UgdXNlIGNvb2tpZXMgdG8gc3RvcmUgdmlzaXRvcnMgcHJlZmVyZW5jZXMsIHJlY29yZCBwYXN0IGFjdGl2aXR5IGF0IGEgc2l0ZSBpbiBvcmRlciB0byBwcm92aWRlIGJldHRlciBzZXJ2aWNlIHdoZW4gdmlzaXRvcnMgcmV0dXJuIHRvIG91ciBzaXRlIC4NCjwvcD4NCjxwPg0KSWYgeW91IGRvIG5vdCB3YW50IHRvIHJlY2VpdmUgZS1tYWlsIGZyb20gdXMgaW4gdGhlIGZ1dHVyZSwgcGxlYXNlIGxldCB1cyBrbm93IGJ5IHNlbmRpbmcgdXMgZS1tYWlsIGF0IHRoZSBhYm92ZSBhZGRyZXNzLg0KPC9wPg0KPHA+DQpJZiB5b3Ugc3VwcGx5IHVzIHdpdGggeW91ciBwb3N0YWwgYWRkcmVzcyBvbi1saW5lIHlvdSBtYXkgcmVjZWl2ZSBwZXJpb2RpYyBtYWlsaW5ncyBmcm9tIHVzIHdpdGggaW5mb3JtYXRpb24gb24gbmV3IHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyBvciB1cGNvbWluZyBldmVudHMuIElmIHlvdSBkbyBub3Qgd2lzaCB0byByZWNlaXZlIHN1Y2ggbWFpbGluZ3MsIHBsZWFzZSBsZXQgdXMga25vdyBieSBjYWxsaW5nIHVzIGF0IHRoZSBudW1iZXIgcHJvdmlkZWQgYWJvdmUuDQo8L3A+DQo8cD4NClBsZWFzZSBwcm92aWRlIHVzIHdpdGggeW91ciBleGFjdCBuYW1lIGFuZCBhZGRyZXNzLiBXZSB3aWxsIGJlIHN1cmUgeW91ciBuYW1lIGlzIHJlbW92ZWQgZnJvbSB0aGUgbGlzdCB3ZSBzaGFyZSB3aXRoIG90aGVyIG9yZ2FuaXphdGlvbnMgDQo8L3A+DQo8cD4NClBlcnNvbnMgd2hvIHN1cHBseSB1cyB3aXRoIHRoZWlyIHRlbGVwaG9uZSBudW1iZXJzIG9uLWxpbmUgbWF5IHJlY2VpdmUgdGVsZXBob25lIGNvbnRhY3QgZnJvbSB1cyB3aXRoIGluZm9ybWF0aW9uIHJlZ2FyZGluZyBuZXcgcHJvZHVjdHMgYW5kIHNlcnZpY2VzIG9yIHVwY29taW5nIGV2ZW50cy4gSWYgeW91IGRvIG5vdCB3aXNoIHRvIHJlY2VpdmUgc3VjaCB0ZWxlcGhvbmUgY2FsbHMsIHBsZWFzZSBsZXQgdXMga25vdyBieSBzZW5kaW5nIHVzIGUtbWFpbCBhdCB0aGUgYWJvdmUgYWRkcmVzcy4NCjwvcD4NCjxwPg0KUGxlYXNlIHByb3ZpZGUgdXMgd2l0aCB5b3VyIG5hbWUgYW5kIHBob25lIG51bWJlci4gV2Ugd2lsbCBiZSBzdXJlIHlvdXIgbmFtZSBpcyByZW1vdmVkIGZyb20gdGhlIGxpc3Qgd2Ugc2hhcmUgd2l0aCBvdGhlciBvcmdhbml6YXRpb25zIA0KPC9wPg0KPHA+DQpXaXRoIHJlc3BlY3QgdG8gQWQgU2VydmVyczogV2UgZG8gbm90IHBhcnRuZXIgd2l0aCBvciBoYXZlIHNwZWNpYWwgcmVsYXRpb25zaGlwcyB3aXRoIGFueSBhZCBzZXJ2ZXIgY29tcGFuaWVzLiANCjwvcD4NCjxwPg0KRnJvbSB0aW1lIHRvIHRpbWUsIHdlIG1heSB1c2UgY3VzdG9tZXIgaW5mb3JtYXRpb24gZm9yIG5ldywgdW5hbnRpY2lwYXRlZCB1c2VzIG5vdCBwcmV2aW91c2x5IGRpc2Nsb3NlZCBpbiBvdXIgcHJpdmFjeSBub3RpY2UuIElmIG91ciBpbmZvcm1hdGlvbiBwcmFjdGljZXMgY2hhbmdlIGF0IHNvbWUgdGltZSBpbiB0aGUgZnV0dXJlIHdlIHdpbGwgcG9zdCB0aGUgcG9saWN5IGNoYW5nZXMgdG8gb3VyIFdlYiBzaXRlIHRvIG5vdGlmeSB5b3Ugb2YgdGhlc2UgY2hhbmdlcyBhbmQgd2Ugd2lsbCB1c2UgZm9yIHRoZXNlIG5ldyBwdXJwb3NlcyBvbmx5IGRhdGEgY29sbGVjdGVkIGZyb20gdGhlIHRpbWUgb2YgdGhlIHBvbGljeSBjaGFuZ2UgZm9yd2FyZC4gSWYgeW91IGFyZSBjb25jZXJuZWQgYWJvdXQgaG93IHlvdXIgaW5mb3JtYXRpb24gaXMgdXNlZCwgeW91IHNob3VsZCBjaGVjayBiYWNrIGF0IG91ciBXZWIgc2l0ZSBwZXJpb2RpY2FsbHkuDQo8L3A+DQo8cD4NClVwb24gcmVxdWVzdCB3ZSBvZmZlciB2aXNpdG9ycyBubyBhYmlsaXR5IHRvIGhhdmUgZmFjdHVhbCBpbmFjY3VyYWNpZXMgY29ycmVjdGVkIGluIGluZm9ybWF0aW9uIHRoYXQgd2UgbWFpbnRhaW4gYWJvdXQgdGhlbSANCjwvcD4NCjxwPg0KV2l0aCByZXNwZWN0IHRvIHNlY3VyaXR5OiBXZSBoYXZlIGFwcHJvcHJpYXRlIHNlY3VyaXR5IG1lYXN1cmVzIGluIHBsYWNlIGluIG91ciBwaHlzaWNhbCBmYWNpbGl0aWVzIHRvIHByb3RlY3QgYWdhaW5zdCB0aGUgbG9zcywgbWlzdXNlIG9yIGFsdGVyYXRpb24gb2YgaW5mb3JtYXRpb24gdGhhdCB3ZSBoYXZlIGNvbGxlY3RlZCBmcm9tIHlvdSBhdCBvdXIgc2l0ZS4NCjwvcD4NCjxwPg0KSWYgeW91IGZlZWwgdGhhdCB0aGlzIHNpdGUgaXMgbm90IGZvbGxvd2luZyBpdHMgc3RhdGVkIGluZm9ybWF0aW9uIHBvbGljeSwgeW91IG1heSBjb250YWN0IHVzIGF0IHRoZSBhYm92ZSBhZGRyZXNzZXMgb3IgcGhvbmUgbnVtYmVyLg0KPC9wPg0KPC9zcGFuPmQCDQ8PFgIeBUpvYklkZmQWAgIBDxYCHwFoZAIPD2QWAgIBDxYCHw8FATAWAgIBD2QWAmYPZBYCAgEPFgIeC18hSXRlbUNvdW50AhEWIgIBD2QWAgIBDxYCHgVjbGFzcwUeUmVjZW50bHlQb3N0ZWRKb2JzSXRlbVRhYmxlUm93FgJmD2QWAgIBD2QWBmYPZBYCZg9kFgJmDxUCBTY5NjU1MUdvb2dsZTogVGVhbSBNYW5hZ2VyLCBBZ2VuY3kgUmVsYXRpb25zIC0gTmV3IFlvcmtkAgEPZBYCZg9kFgJmDxUBC0dvb2dsZSBJbmMuZAICD2QWAmYPZBYCZg8VARNOZXcgWW9yayAtIE5ldyBZb3JrZAICD2QWAgIBDxYCHxMFI1JlY2VudGx5UG9zdGVkSm9ic0FsdGVybmF0ZVRhYmxlUm93FgJmD2QWAgIBD2QWBmYPZBYCZg9kFgJmDxUCBTY3NzAzG01hcmtldGluZyBDcmVhdGl2ZSBEaXJlY3RvcmQCAQ9kFgJmD2QWAmYPFQEMVmVyYSBCcmFkbGV5ZAICD2QWAmYPZBYCZg8VARRJbmRpYW5hIC0gRm9ydCBXYXluZWQCAw9kFgICAQ8WAh8TBR5SZWNlbnRseVBvc3RlZEpvYnNJdGVtVGFibGVSb3cWAmYPZBYCAgEPZBYGZg9kFgJmD2QWAmYPFQIFNjk2NjQRUHJvZHVjdGlvbiBBcnRpc3RkAgEPZBYCZg9kFgJmDxUBDklEIFNvY2lldHkgSW5jZAICD2QWAmYPZBYCZg8VARNOZXcgWW9yayAtIE5ldyBZb3JrZAIED2QWAgIBDxYCHxMFI1JlY2VudGx5UG9zdGVkSm9ic0FsdGVybmF0ZVRhYmxlUm93FgJmD2QWAgIBD2QWBmYPZBYCZg9kFgJmDxUCBTY5NjQ5K1Zpc2l0aW5nIEFzc2lzdGFudCBQcm9mZXNzb3IgaW4gQWR2ZXJ0aXNpbmdkAgEPZBYCZg9kFgJmDxUBNldlc3QgVmlyZ2luaWEgVW5pdmVyc2l0eSwgUEkgUmVlZCBTY2hvb2wgb2YgSm91cm5hbGlzbWQCAg9kFgJmD2QWAmYPFQESV2VzdCBWaXJnaW5pYSAtIFdWZAIFD2QWAgIBDxYCHxMFHlJlY2VudGx5UG9zdGVkSm9ic0l0ZW1UYWJsZVJvdxYCZg9kFgICAQ9kFgZmD2QWAmYPZBYCZg8VAgU2OTY2MRdFbWFpbCBNYXJrZXRpbmcgTWFuYWdlcmQCAQ9kFgJmD2QWAmYPFQEOSUQgU29jaWV0eSBJbmNkAgIPZBYCZg9kFgJmDxUBE05ldyBZb3JrIC0gTmV3IFlvcmtkAgYPZBYCAgEPFgIfEwUjUmVjZW50bHlQb3N0ZWRKb2JzQWx0ZXJuYXRlVGFibGVSb3cWAmYPZBYCAgEPZBYGZg9kFgJmD2QWAmYPFQIFNjk2NzgzR29vZ2xlOiBBc3NvY2lhdGUgTWFya2V0aW5nIE1hbmFnZXIgLSBNb3VudGFpbiBWaWV3ZAIBD2QWAmYPZBYCZg8VAQtHb29nbGUgSW5jLmQCAg9kFgJmD2QWAmYPFQEaQ2FsaWZvcm5pYSAtIFNhbiBGcmFuY2lzY29kAgcPZBYCAgEPFgIfEwUeUmVjZW50bHlQb3N0ZWRKb2JzSXRlbVRhYmxlUm93FgJmD2QWAgIBD2QWBmYPZBYCZg9kFgJmDxUCBTY5NDkyFldlYiBEZXNpZ25lciAoMjAwODA5MylkAgEPZBYCZg9kFgJmDxUBDFZlcmEgQnJhZGxleWQCAg9kFgJmD2QWAmYPFQEUSW5kaWFuYSAtIEZvcnQgV2F5bmVkAggPZBYCAgEPFgIfEwUjUmVjZW50bHlQb3N0ZWRKb2JzQWx0ZXJuYXRlVGFibGVSb3cWAmYPZBYCAgEPZBYGZg9kFgJmD2QWAmYPFQIFNjk2NTYmR29vZ2xlIEFkdmVydGlzaW5nIFNhbGVzIE9wcG9ydHVuaXRpZXNkAgEPZBYCZg9kFgJmDxUBC0dvb2dsZSBJbmMuZAICD2QWAmYPZBYCZg8VARpDYWxpZm9ybmlhIC0gU2FuIEZyYW5jaXNjb2QCCQ9kFgICAQ8WAh8TBR5SZWNlbnRseVBvc3RlZEpvYnNJdGVtVGFibGVSb3cWAmYPZBYCAgEPZBYGZg9kFgJmD2QWAmYPFQIFNjk2NTMcU2VuaW9yIEFFL0FjY291bnQgU3VwZXJ2aXNvcmQCAQ9kFgJmD2QWAmYPFQEPVGhlIFBvaW50IEdyb3VwZAICD2QWAmYPZBYCZg8VARtUZXhhcyAtIERhbGxhcyAvIEZvcnQgV29ydGhkAgoPZBYCAgEPFgIfEwUjUmVjZW50bHlQb3N0ZWRKb2JzQWx0ZXJuYXRlVGFibGVSb3cWAmYPZBYCAgEPZBYGZg9kFgJmD2QWAmYPFQIFNjk2NTkmR29vZ2xlIEFkdmVydGlzaW5nIFNhbGVzIE9wcG9ydHVuaXRpZXNkAgEPZBYCZg9kFgJmDxUBC0dvb2dsZSBJbmMuZAICD2QWAmYPZBYCZg8VARhDYWxpZm9ybmlhIC0gTG9zIEFuZ2VsZXNkAgsPZBYCAgEPFgIfEwUeUmVjZW50bHlQb3N0ZWRKb2JzSXRlbVRhYmxlUm93FgJmD2QWAgIBD2QWBmYPZBYCZg9kFgJmDxUCBTY5Njc2EU1hcmtldGluZyBNYW5hZ2VyZAIBD2QWAmYPZBYCZg8VAR5BZHZhbnN0YXIgQ29tbXVuaWNhdGlvbnMsIEluYy5kAgIPZBYCZg9kFgJmDxUBEk1hc3NhY2h1c2V0dHMgLSBNQWQCDA9kFgICAQ8WAh8TBSNSZWNlbnRseVBvc3RlZEpvYnNBbHRlcm5hdGVUYWJsZVJvdxYCZg9kFgICAQ9kFgZmD2QWAmYPZBYCZg8VAgU2ODEzMwxBcnQgRGlyZWN0b3JkAgEPZBYCZg9kFgJmDxUBDFZlcmEgQnJhZGxleWQCAg9kFgJmD2QWAmYPFQEUSW5kaWFuYSAtIEZvcnQgV2F5bmVkAg0PZBYCAgEPFgIfEwUeUmVjZW50bHlQb3N0ZWRKb2JzSXRlbVRhYmxlUm93FgJmD2QWAgIBD2QWBmYPZBYCZg9kFgJmDxUCBTY5NjQ3EVNlbmlvciBDb3B5d3JpdGVyZAIBD2QWAmYPZBYCZg8VAQhoZWlucmljaGQCAg9kFgJmD2QWAmYPFQEaQ2FsaWZvcm5pYSAtIFNhbiBGcmFuY2lzY29kAg4PZBYCAgEPFgIfEwUjUmVjZW50bHlQb3N0ZWRKb2JzQWx0ZXJuYXRlVGFibGVSb3cWAmYPZBYCAgEPZBYGZg9kFgJmD2QWAmYPFQIFNjk2NjMeU2VuaW9yIEFjY291bnQvUHJvamVjdCBNYW5hZ2VyZAIBD2QWAmYPZBYCZg8VAQ5JRCBTb2NpZXR5IEluY2QCAg9kFgJmD2QWAmYPFQETTmV3IFlvcmsgLSBOZXcgWW9ya2QCDw9kFgICAQ8WAh8TBR5SZWNlbnRseVBvc3RlZEpvYnNJdGVtVGFibGVSb3cWAmYPZBYCAgEPZBYGZg9kFgJmD2QWAmYPFQIFNjk2NDYjQWNjb3VudCBFeGVjdXRpdmUgLSBBY2NvdW50IFNlcnZpY2VkAgEPZBYCZg9kFgJmDxUBFVN0ZXBoYW4gJiBCcmFkeSwgSW5jLmQCAg9kFgJmD2QWAmYPFQETV2lzY29uc2luIC0gTWFkaXNvbmQCEA9kFgICAQ8WAh8TBSNSZWNlbnRseVBvc3RlZEpvYnNBbHRlcm5hdGVUYWJsZVJvdxYCZg9kFgICAQ9kFgZmD2QWAmYPZBYCZg8VAgU2OTY1NBhTZW5pb3IgQWNjb3VudCBFeGVjdXRpdmVkAgEPZBYCZg9kFgJmDxUBEFBlYXJzb24gUGFydG5lcnNkAgIPZBYCZg9kFgJmDxUBFkluZGlhbmEgLSBJbmRpYW5hcG9saXNkAhEPZBYCAgEPFgIfEwUeUmVjZW50bHlQb3N0ZWRKb2JzSXRlbVRhYmxlUm93FgJmD2QWAgIBD2QWBmYPZBYCZg9kFgJmDxUCBTY5NjQ4E1NlbmlvciBBcnQgRGlyZWN0b3JkAgEPZBYCZg9kFgJmDxUBCGhlaW5yaWNoZAICD2QWAmYPZBYCZg8VARpDYWxpZm9ybmlhIC0gU2FuIEZyYW5jaXNjb2QCBg9kFgICAQ9kFgRmDw9kDxAWAWYWARYCHg5QYXJhbWV0ZXJWYWx1ZWQWAQIDZGQCAg8WAh8SZmQYAgUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFGmN0bDAwJE1lbnVUb3AxJExvZ2luMSRwYkdvBSNjdGwwMCRNZW51VG9wMSRMb2dpbjEkY2tiUmVtZW1iZXJNZQUbY3RsMDAkTWVudVRvcDEkTG9naW4xJFZpZXdzDw9kZmQ=">
+
+<script type="text/javascript">
+//<![CDATA[
+var Anthem_FormID = "aspnetForm";
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+// Anthem.js
+// Updated Mar 13, 2007
+// Anthem.Manager.GetScripts: false
+
+function Anthem_Encode(s){
+	if (typeof encodeURIComponent == "function") {
+		// Use JavaScript built-in function
+		// IE 5.5+ and Netscape 6+ and Mozilla
+		return encodeURIComponent(s);
+	} else {
+		// Need to mimic the JavaScript version
+		// Netscape 4 and IE 4 and IE 5.0
+		return encodeURIComponentNew(s);
+	}
+}
+
+// Primarily used by Anthem.Manager to add an onsubmit event handler
+// when validators are added to a page during a callback.
+function Anthem_AddEvent(control, eventType, functionPrefix) {
+    var ev;
+    eval("ev = control." + eventType + ";");
+    if (typeof(ev) == "function") {
+        ev = ev.toString();
+        ev = ev.substring(ev.indexOf("{") + 1, ev.lastIndexOf("}"));
+    }
+    else {
+        ev = "";
+    }
+    var func;
+    if (navigator.appName.toLowerCase().indexOf('explorer') > -1) {
+        func = new Function(functionPrefix + " " + ev);
+    }
+    else {
+        func = new Function("event", functionPrefix + " " + ev);
+    }
+    eval("control." + eventType + " = func;");
+}
+
+function Anthem_GetXMLHttpRequest() {
+	if (window.XMLHttpRequest) {
+		return new XMLHttpRequest();
+	} else {
+		if (window.Anthem_XMLHttpRequestProgID) {
+			return new ActiveXObject(window.Anthem_XMLHttpRequestProgID);
+		} else {
+			var progIDs = ["Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0", "Msxml2.XMLHTTP.4.0", "MSXML2.XMLHTTP.3.0", "MSXML2.XMLHTTP", "Microsoft.XMLHTTP"];
+			for (var i = 0; i < progIDs.length; ++i) {
+				var progID = progIDs[i];
+				try {
+					var x = new ActiveXObject(progID);
+					window.Anthem_XMLHttpRequestProgID = progID;
+					return x;
+				} catch (e) {
+				}
+			}
+		}
+	}
+	return null;
+}
+
+// This array is used to keep track of clientCallBack functions when using
+// an IOFrame to handle callbacks.
+var callbackFrames = new Array();
+
+// This function is called by the onload event of the IOFrame after the
+// callback response is received. The function parses the response, updates
+// the page, and invokes the clientCallBack function.
+function Anthem_HandleIOFrameResponse(frameid) {
+    var iframe = document.getElementById(frameid);
+    if (iframe != null) {
+        var doc = Anthem_ExtractIFrameDocument(iframe);
+        if (doc.getElementsByTagName("textarea").length > 0) {
+            // Extract the response
+            var response = { responseText: doc.getElementById("response").value };
+            if (typeof(Anthem_DebugResponseText) == "function") {
+                Anthem_DebugResponseText(response.responseText); 
+            }
+            // Parse the response
+            var result = Anthem_GetResult(response); 
+            if (result.error) { 
+                if (typeof(Anthem_DebugError) == "function") {
+                    Anthem_DebugError(result.error); 
+                }
+                if (typeof(window.Anthem_Error) == "function") { 
+                    Anthem_Error(result); 
+                } 
+            } 
+            // Update the page 
+            Anthem_UpdatePage(result); 
+            // Run the client scripts
+            Anthem_EvalClientSideScript(result); 
+            // Run the custom post callback function
+            for (var index in callbackFrames) {
+                var frame = callbackFrames[index];
+                if (frame != null && frame.id == frameid) {
+                    callbackFrames.splice(index, 1);
+                    frame.clientCallBack(result, frame.clientCallBackArg);
+                    break;
+                }
+            }
+            // Run the common post callback function
+            if (typeof(window.Anthem_PostCallBack) == "function") { 
+                Anthem_PostCallBack(); 
+            } 
+        }
+        setTimeout("document.body.removeChild(document.getElementById(\"" + frameid + "\"))", 10);
+    }
+}
+
+// Returns the iframe document
+function Anthem_ExtractIFrameDocument(iFrameEl) {
+  var doc = null;
+  if (iFrameEl.contentDocument) { // For NS6
+    doc = iFrameEl.contentDocument;
+  } else if (iFrameEl.contentWindow) { // For IE5.5 and IE6
+    doc = iFrameEl.contentWindow.document;
+  } else if (iFrameEl.document) { // For IE5
+    doc = iFrameEl.document;
+  } else {
+    //alert("Error: could not find iFrame document");
+    return null;
+  }
+  return doc;
+}
+
+// Returns the form that is posted back using AJAX
+function Anthem_GetForm() {
+    var form = document.getElementById(Anthem_FormID);
+    return form;
+}
+
+// Returns the URL for callbacks
+function Anthem_GetCallBackUrl() {
+    var form = Anthem_GetForm();
+    var action = form.action + (form.action.indexOf('?') == -1 ? "?" : "&") + "Anthem_CallBack=true";
+    return action;
+}
+
+function Anthem_CallBack(url, target, id, method, args, clientCallBack, clientCallBackArg, includeControlValuesWithCallBack, updatePageAfterCallBack) {
+	if (typeof(window.Anthem_PreCallBack) == "function") {
+		var preCallBackResult = Anthem_PreCallBack();
+		if (!(typeof preCallBackResult == "undefined" || preCallBackResult)) {
+			if (typeof(window.Anthem_CallBackCancelled) == "function") {
+				Anthem_CallBackCancelled();
+			}
+			return null;
+		}
+	}
+    var encodedData = "";
+    if (target == "Page") {
+        encodedData += "&Anthem_PageMethod=" + method;
+    } else if (target == "MasterPage") {
+        encodedData += "&Anthem_MasterPageMethod=" + method;
+    } else if (target == "Control") {
+        encodedData += "&Anthem_ControlID=" + id.split(":").join("_");
+        encodedData += "&Anthem_ControlMethod=" + method;
+    }
+	if (args) {
+		for (var argsIndex = 0; argsIndex < args.length; ++argsIndex) {
+			if (args[argsIndex] instanceof Array) {
+				for (var i = 0; i < args[argsIndex].length; ++i) {
+					encodedData += "&Anthem_CallBackArgument" + argsIndex + "=" + Anthem_Encode(args[argsIndex][i]);
+				}
+			} else {
+				encodedData += "&Anthem_CallBackArgument" + argsIndex + "=" + Anthem_Encode(args[argsIndex]);
+			}
+		}
+	}
+	
+	if (updatePageAfterCallBack) {
+		encodedData += "&Anthem_UpdatePage=true";
+	}
+	
+	// Anthem will normally use an XmlHttpRequest to communicate with the server. 
+	// But if an Anthem.FileUpload control is discovered on the page, then Anthem
+	// will use a hidden IFRAME instead. This hidden IFRAME is often called an IOFrame
+	// by AJAX library authors, so that is the name we use here.
+	var useIOFrame = false;
+	
+	// Scan the controls on the form and extract their values.
+	if (includeControlValuesWithCallBack) {
+		var form = Anthem_GetForm();
+		if (form != null) {
+			for (var elementIndex = 0; elementIndex < form.length; ++elementIndex) {
+				var element = form.elements[elementIndex];
+				if (element.name) {
+					var elementValue = null;
+					if (element.nodeName.toUpperCase() == "INPUT") {
+						var inputType = element.getAttribute("type").toUpperCase();
+						if (inputType == "TEXT" || inputType == "PASSWORD" || inputType == "HIDDEN") {
+							elementValue = element.value;
+						} else if (inputType == "CHECKBOX" || inputType == "RADIO") {
+							if (element.checked) {
+								elementValue = element.value;
+							}
+						} else if (inputType == "FILE") {
+						    // If the FILE element has a value (the path to the file), then an
+						    // IOFrame will be used to handle the callback.
+						    useIOFrame = useIOFrame | !(element.value == null || element.value.length == 0);
+						}
+					} else if (element.nodeName.toUpperCase() == "SELECT") {
+						if (element.multiple) {
+							elementValue = [];
+							for (var i = 0; i < element.length; ++i) {
+								if (element.options[i].selected) {
+									elementValue.push(element.options[i].value);
+								}
+							}
+						} else if (element.length == 0) {
+						    elementValue = null;
+						} else {
+							elementValue = element.value;
+						}
+					} else if (element.nodeName.toUpperCase() == "TEXTAREA") {
+						elementValue = element.value;
+					}
+					if (elementValue instanceof Array) {
+						for (var i = 0; i < elementValue.length; ++i) {
+							encodedData += "&" + element.name + "=" + Anthem_Encode(elementValue[i]);
+						}
+					} else if (elementValue != null) {
+						encodedData += "&" + element.name + "=" + Anthem_Encode(elementValue);
+					}
+				}
+			}
+			// ASP.NET 1.1 won't fire any events if neither of the following
+			// two parameters are not in the request so make sure they're
+			// always in the request.
+			if (typeof form.__VIEWSTATE == "undefined") {
+				encodedData += "&__VIEWSTATE=";
+			}
+			if (typeof form.__EVENTTARGET == "undefined") {
+				encodedData += "&__EVENTTARGET=";
+			}
+		}
+	}
+	
+	if (encodedData.length > 0) {
+	    encodedData = encodedData.substring(1);
+	}
+	if (typeof(Anthem_DebugRequestText) == "function") {
+	    Anthem_DebugRequestText(encodedData.split("&").join("\n&"));
+	}
+
+    // Send the callback request to the server. Use an IOFrame if there is a file upload,
+    // otherwise use an XmlHttpRequest.
+    if (useIOFrame) {
+        // To allow multiple requests at the same time, all of the Anthem parameters are 
+        // passed to the server via the querystring
+        var action = Anthem_GetCallBackUrl();
+        action = action + "&Anthem_IOFrame=true";
+        if (updatePageAfterCallBack) {
+            action = action + "&Anthem_UpdatePage=true";
+        }
+        
+        // We could generate an anonymous function on the fly to handle the clientCallBack
+        // and assign that to the iframe onload event (in fact this is how XmlHttpRequests are
+        // handled). But that makes it very hard to debug the callback response. Instead
+        // we will stuff the clientCallBack function and args into an array and then hard code
+        // the onload event handler. The handler will find the appropriate callback info in
+        // the array and handle the clientCallBack.
+        var id = "f" + new String(Math.floor(9999 * Math.random())); // Generate frame number
+        if (typeof(clientCallBack) == "function") {
+            var frame = { "id":id, "clientCallBack":clientCallBack, "clientCallBackArg":clientCallBackArg };
+            callbackFrames.push(frame);
+        }
+        
+        // Create a new, invisible iframe to handle the io.
+        var ioframe = null;
+        if (window.ActiveXObject) {
+            ioframe = document.createElement("<iframe name=\"" + id + "\" id=\"" + id + "\" onload=\"Anthem_HandleIOFrameResponse('" + id + "');\"/>");
+        } else {
+            ioframe = document.createElement("iframe");
+            ioframe.id = id;
+            ioframe.name = id;
+            ioframe.onload = function (){ Anthem_HandleIOFrameResponse(id); }
+        }
+        ioframe.style.visibility = "hidden";
+        ioframe.style.height = "1px";
+        document.body.appendChild(ioframe);
+
+        // Submit this form in the hidden iframe
+        var theForm = Anthem_GetForm(); 
+        var tempActionUri = theForm.action; 
+        theForm.action = action; 
+        theForm.target = id;
+        try { 
+            theForm.submit(); 
+        } catch (e) {
+            result = { "value": null, "error": e.message };
+		    if (typeof(Anthem_DebugError) == "function") {
+		        Anthem_DebugError(e.name + ": " + e.message + " (" + e.number + ")");
+		    }
+		    if (typeof(window.Anthem_Error) == "function") {
+			    Anthem_Error(result);
+		    }            
+        }
+
+        // Restore the form 
+        theForm.target = ""; 
+        theForm.action = tempActionUri;
+        
+    } else {
+    
+	    var x = Anthem_GetXMLHttpRequest();
+	    var result = null;
+	    if (!x) {
+		    result = { "value": null, "error": "NOXMLHTTP" };
+		    if (typeof(Anthem_DebugError) == "function") {
+		        Anthem_DebugError(result.error);
+		    }
+		    if (typeof(window.Anthem_Error) == "function") {
+			    Anthem_Error(result);
+		    }
+		    if (typeof(clientCallBack) == "function") {
+			    clientCallBack(result, clientCallBackArg);
+		    }
+		    return result;
+	    }
+	    var action = Anthem_GetCallBackUrl();
+	    x.open("POST", url ? url : action, clientCallBack ? true : false);
+	    x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=utf-8");
+	    x.setRequestHeader("Accept-Encoding", "gzip, deflate");
+	    if (typeof(clientCallBack) == "function") {
+		    x.onreadystatechange = function() {
+			    if (x.readyState != 4) {
+				    return;
+			    }
+			    if (typeof(Anthem_DebugResponseText) == "function") {
+			        Anthem_DebugResponseText(x.responseText);
+			    }
+			    result = Anthem_GetResult(x);
+			    if (result.error) {
+			        if (typeof(Anthem_DebugError) == "function") {
+				        Anthem_DebugError(result.error);
+				    }
+				    if (typeof(window.Anthem_Error) == "function") {
+					    Anthem_Error(result);
+				    }
+			    }
+			    if (updatePageAfterCallBack) {
+				    Anthem_UpdatePage(result);
+			    }
+			    Anthem_EvalClientSideScript(result);
+			    clientCallBack(result, clientCallBackArg);
+			    x = null;
+			    if (typeof(window.Anthem_PostCallBack) == "function") {
+				    Anthem_PostCallBack();
+			    }
+		    }
+	    }
+	    x.send(encodedData);
+	    if (typeof(clientCallBack) != "function") {
+	        if (typeof(Anthem_DebugResponseText) == "function") {
+		        Anthem_DebugResponseText(x.responseText);
+		    }
+		    result = Anthem_GetResult(x);
+		    if (result.error) {
+		        if (typeof(Anthem_DebugError) == "function") {
+			        Anthem_DebugError(result.error);
+			    }
+			    if (typeof(window.Anthem_Error) == "function") {
+				    Anthem_Error(result);
+			    }
+		    }
+		    if (updatePageAfterCallBack) {
+			    Anthem_UpdatePage(result);
+		    }
+		    Anthem_EvalClientSideScript(result);
+		    if (typeof(window.Anthem_PostCallBack) == "function") {
+			    Anthem_PostCallBack();
+		    }
+	    }
+    }	
+	return result;
+}
+
+function Anthem_GetResult(x) {
+	var result = { "value": null, "error": null };
+	var responseText = x.responseText;
+	try {
+		result = eval("(" + responseText + ")");
+	} catch (e) {
+		if (responseText.length == 0) {
+			result.error = "NORESPONSE";
+		} else {
+			result.error = "BADRESPONSE";
+			result.responseText = responseText;
+		}
+	}
+	return result;
+}
+
+function Anthem_SetHiddenInputValue(form, name, value) {
+    var input = null;
+    if (form[name]) {
+        input = form[name];
+    } else {
+        input = document.createElement("input");
+        input.setAttribute("name", name);
+        input.setAttribute("type", "hidden");
+    }
+    input.setAttribute("value", value);
+    var parentElement = input.parentElement ? input.parentElement : input.parentNode;
+    if (parentElement == null) {
+        form.appendChild(input);
+        form[name] = input;
+    }
+}
+
+function Anthem_RemoveHiddenInput(form, name) {
+    var input = form[name];
+    if (input != null && typeof(input) != "undefined") {
+      var parentElement = input.parentElement ? input.parentElement : input.parentNode;
+      if (parentElement != null) {
+          form[name] = null;
+          parentElement.removeChild(input);
+      }
+    }
+}
+
+function Anthem_FireEvent(eventTarget, eventArgument, clientCallBack, clientCallBackArg, includeControlValuesWithCallBack, updatePageAfterCallBack) {
+	var form = Anthem_GetForm();
+	Anthem_SetHiddenInputValue(form, "__EVENTTARGET", eventTarget);
+	Anthem_SetHiddenInputValue(form, "__EVENTARGUMENT", eventArgument);
+	Anthem_CallBack(null, null, null, null, null, clientCallBack, clientCallBackArg, includeControlValuesWithCallBack, updatePageAfterCallBack);
+	form.__EVENTTARGET.value = "";
+	form.__EVENTARGUMENT.value = "";
+}
+
+function Anthem_UpdatePage(result) {
+	var form = Anthem_GetForm();
+	if (result.viewState) {
+		Anthem_SetHiddenInputValue(form, "__VIEWSTATE", result.viewState);
+	}
+	if (result.viewStateEncrypted) {
+		Anthem_SetHiddenInputValue(form, "__VIEWSTATEENCRYPTED", result.viewStateEncrypted);
+	}
+	if (result.eventValidation) {
+		Anthem_SetHiddenInputValue(form, "__EVENTVALIDATION", result.eventValidation);
+	}
+	if (result.controls) {
+		for (var controlID in result.controls) {
+			var containerID = "Anthem_" + controlID.split("$").join("_") + "__";
+			var control = document.getElementById(containerID);
+			if (control) {
+				control.innerHTML = result.controls[controlID];
+				if (result.controls[controlID] == "") {
+					control.style.display = "none";
+				} else {
+					control.style.display = "";
+				}
+			}
+		}
+	}
+	if (result.pagescript) {
+	    Anthem_LoadPageScript(result, 0);
+	}
+}
+
+// Load each script in order and wait for each one to load before proceeding
+function Anthem_LoadPageScript(result, index) {
+    if (index < result.pagescript.length) {
+		try {
+		    var script = document.createElement('script');
+		    script.type = 'text/javascript';
+		    if (result.pagescript[index].indexOf('src=') == 0) {
+		        script.src = result.pagescript[index].substring(4);
+		    } else {
+		        if (script.canHaveChildren ) {
+		            script.appendChild(document.createTextNode(result.pagescript[index]));
+		        } else {
+		            script.text = result.pagescript[index];
+		        }
+		    }
+		    var heads = document.getElementsByTagName('head');
+		    if (heads != null && typeof(heads) != "undefined" && heads.length > 0) {
+		        var head = heads[0];
+
+		        // The order that scripts appear is important since later scripts can
+		        // redefine a function. Therefore it is important to add every script
+		        // to the page and in the same order that they were added on the server.
+		        // On the other hand, if we just keep adding scripts the DOM will grow
+		        // unnecessarily. This code scans the <head> element block and removes 
+		        // previous instances of the identical script.
+		        var found = false;
+		        for (var child = 0; child < head.childNodes.length; child++) {
+		            var control = head.childNodes[child];
+		            if (typeof(control.tagName) == "string") {
+		                if (control.tagName.toUpperCase() == "SCRIPT") {
+		                    if (script.src.length > 0) {
+		                        if (script.src == control.src) {
+		                            found = true;
+		                            break;
+		                        }
+		                    } else if (script.innerHTML.length > 0) {
+		                        if (script.innerHTML == control.innerHTML) {
+		                            found = true;
+		                            break;
+		                        }
+		                    }
+		                }
+		            }
+		        }
+		        if (found) {
+		            head.removeChild(control);
+		        }
+		        
+		        // Now we append the new script and move on to the next script.
+		        // Note that this is a recursive function. It stops when the
+		        // index grows larger than the number of scripts.
+                document.getElementsByTagName('head')[0].appendChild(script);
+                if (typeof script.readyState != "undefined") {
+                    script.onreadystatechange = function() {
+                        if (script.readyState != "complete" && script.readyState != "loaded") {
+                            return;
+                        } else {
+                            Anthem_LoadPageScript(result, index + 1);
+                        }
+                    }
+                } else {
+                    Anthem_LoadPageScript(result, index + 1);
+                }
+	        }
+		} catch (e) {
+		    if (typeof(Anthem_DebugError) == "function") {
+		        Anthem_DebugError("Error adding page script to head. " + e.name + ": " + e.message);
+		    }
+		}
+	}
+}
+
+function Anthem_EvalClientSideScript(result) {
+	if (result.script) {
+		for (var i = 0; i < result.script.length; ++i) {
+			try {
+				eval(result.script[i]);
+			} catch (e) {
+				alert("Error evaluating client-side script!\n\nScript: " + result.script[i] + "\n\nException: " + e);
+			}
+		}
+	}
+}
+
+//Fix for bug #1429412, "Reponse callback returns previous response after file push".
+//see http://sourceforge.net/tracker/index.php?func=detail&aid=1429412&group_id=151897&atid=782464
+function Anthem_Clear__EVENTTARGET() {
+	var form = Anthem_GetForm();
+	Anthem_SetHiddenInputValue(form, "__EVENTTARGET", "");
+}
+
+function Anthem_InvokePageMethod(methodName, args, clientCallBack, clientCallBackArg) {
+	Anthem_Clear__EVENTTARGET(); // fix for bug #1429412
+    return Anthem_CallBack(null, "Page", null, methodName, args, clientCallBack, clientCallBackArg, true, true);
+}
+
+function Anthem_InvokeMasterPageMethod(methodName, args, clientCallBack, clientCallBackArg) {
+	Anthem_Clear__EVENTTARGET(); // fix for bug #1429412
+    return Anthem_CallBack(null, "MasterPage", null, methodName, args, clientCallBack, clientCallBackArg, true, true);
+}
+
+function Anthem_InvokeControlMethod(id, methodName, args, clientCallBack, clientCallBackArg) {
+	Anthem_Clear__EVENTTARGET(); // fix for bug #1429412
+    return Anthem_CallBack(null, "Control", id, methodName, args, clientCallBack, clientCallBackArg, true, true);
+}
+
+function Anthem_PreProcessCallBack(
+    control,
+    e,
+    eventTarget,
+    causesValidation, 
+    validationGroup, 
+    imageUrlDuringCallBack, 
+    textDuringCallBack, 
+    enabledDuringCallBack,
+    preCallBackFunction,
+    callBackCancelledFunction,
+    preProcessOut
+) {
+	var valid = true;
+	if (causesValidation && typeof(Page_ClientValidate) == "function") {
+		valid = Page_ClientValidate(validationGroup);
+	}
+	if (typeof(WebForm_OnSubmit) == "function") {
+	    valid = WebForm_OnSubmit();
+	}
+	if (valid) {
+        var preCallBackResult = true;
+        if (typeof(preCallBackFunction) == "function") {
+	        preCallBackResult = preCallBackFunction(control, e);
+        }
+        if (typeof(preCallBackResult) == "undefined" || preCallBackResult) {
+		    var inputType = control.getAttribute("type");
+		    inputType = (inputType == null) ? '' : inputType.toUpperCase();
+		    if (inputType == "IMAGE" && e != null) {
+                var form = Anthem_GetForm();
+                if (e.offsetX) { // IE
+                    Anthem_SetHiddenInputValue(form, eventTarget + ".x", e.offsetX);
+                    Anthem_SetHiddenInputValue(form, eventTarget + ".y", e.offsetY);
+                } else { // FireFox + ???
+                    var offset = GetControlLocation(control);
+                    Anthem_SetHiddenInputValue(form, eventTarget + ".x", e.clientX - offset.x + 1 + window.pageXOffset);
+                    Anthem_SetHiddenInputValue(form, eventTarget + ".y", e.clientY - offset.y + 1 + window.pageYOffset);
+                }
+		    }
+		    if (imageUrlDuringCallBack || textDuringCallBack) {
+		        if (control.nodeName.toUpperCase() == "INPUT") {
+		            if (inputType == "CHECKBOX" || inputType == "RADIO" || inputType == "TEXT") {
+		                preProcessOut.OriginalText = GetLabelText(control.id);
+		                SetLabelText(control.id, textDuringCallBack);
+		            } else if (inputType == "IMAGE") {
+		                if (imageUrlDuringCallBack) {
+		                    preProcessOut.OriginalText = control.src;
+		                    control.src = imageUrlDuringCallBack;
+		                } else {
+		                    preProcessOut.ParentElement = control.parentElement ? control.parentElement : control.parentNode;
+		                    if (preProcessOut.ParentElement) {
+		                        preProcessOut.OriginalText = preProcessOut.ParentElement.innerHTML;
+		                        preProcessOut.ParentElement.innerHTML = textDuringCallBack;
+		                    }
+		                }
+		            } else if (inputType == "SUBMIT") {
+		                preProcessOut.OriginalText = control.value;
+		                control.value = textDuringCallBack;
+		            }
+		        } else if (control.nodeName.toUpperCase() == "SELECT") {
+		            preProcessOut.OriginalText = GetLabelText(control.id);
+		            SetLabelText(control.id, textDuringCallBack);
+		        } else {
+		            preProcessOut.OriginalText = control.innerHTML;
+			        control.innerHTML = textDuringCallBack;
+			    }
+		    }
+		    // Disable the control during callback if required
+		    control.disabled = (typeof(enabledDuringCallBack) == "undefined") ? false : !enabledDuringCallBack;
+		    return true;
+		} else {
+		    // Callback cancelled
+            if (typeof(callBackCancelledFunction) == "function") {
+	            callBackCancelledFunction(control, e);
+	        }
+	        return false;
+		}
+    } else {
+        // Validation failed
+        return false;
+    }
+}
+
+function Anthem_PreProcessCallBackOut() {
+    // Fields
+    this.ParentElement = null;
+    this.OriginalText = '';
+}
+
+function Anthem_PostProcessCallBack(
+    result, 
+    control,
+    e,
+    eventTarget, 
+    clientCallBack, 
+    clientCallBackArg, 
+    imageUrlDuringCallBack, 
+    textDuringCallBack, 
+    postCallBackFunction, 
+    preProcessOut
+) {
+    if (typeof(postCallBackFunction) == "function") {
+        postCallBackFunction(control, e);
+    }
+    // Re-enable the control if it was disabled during callback
+	control.disabled = false;
+    var inputType = control.getAttribute("type");
+    inputType = (inputType == null) ? '' : inputType.toUpperCase();
+	if (inputType == "IMAGE") {
+	    var form = Anthem_GetForm();
+        Anthem_RemoveHiddenInput(form, eventTarget + ".x");
+        Anthem_RemoveHiddenInput(form, eventTarget + ".y");
+	}
+	if (imageUrlDuringCallBack || textDuringCallBack) {
+	    if (control.nodeName.toUpperCase() == "INPUT") {
+	        if (inputType == "CHECKBOX" || inputType == "RADIO" || inputType == "TEXT") {
+	            SetLabelText(control.id, preProcessOut.OriginalText);
+	        } else if (inputType == "IMAGE") {
+	            if (imageUrlDuringCallBack) {
+	                control.src = preProcessOut.OriginalText;
+	            } else {
+	                preProcessOut.ParentElement.innerHTML = preProcessOut.OriginalText;
+	            }
+	        } else if (inputType == "SUBMIT") {
+	            control.value = preProcessOut.OriginalText;
+	        }
+	    } else if (control.nodeName.toUpperCase() == "SELECT") {
+	        SetLabelText(control.id, preProcessOut.OriginalText);
+	    } else {
+	        control.innerHTML = preProcessOut.OriginalText;
+	    }
+	}
+	if (typeof(clientCallBack) == "function") {
+	    clientCallBack(result, clientCallBackArg);
+	}
+}
+
+function Anthem_FireCallBackEvent(
+	control,
+	e,
+	eventTarget,
+	eventArgument,
+	causesValidation,
+	validationGroup,
+	imageUrlDuringCallBack,
+	textDuringCallBack,
+	enabledDuringCallBack,
+	preCallBackFunction,
+	postCallBackFunction,
+	callBackCancelledFunction,
+	includeControlValuesWithCallBack,
+	updatePageAfterCallBack
+) {
+    // Cancel the callback if the control is disabled. Although most controls will
+    // not raise their callback event if they are disabled, the LinkButton will.
+    // This check is for the LinkButton. See SourceForge Patch 1639700.
+    if (control.disabled) return;
+	var preProcessOut = new Anthem_PreProcessCallBackOut();
+	var preProcessResult = Anthem_PreProcessCallBack(
+	    control, 
+	    e, 
+	    eventTarget,
+	    causesValidation, 
+	    validationGroup, 
+	    imageUrlDuringCallBack, 
+	    textDuringCallBack, 
+	    enabledDuringCallBack, 
+	    preCallBackFunction, 
+	    callBackCancelledFunction, 
+	    preProcessOut
+	);
+    if (preProcessResult) {
+        var eventType = e.type;
+	    Anthem_FireEvent(
+		    eventTarget,
+		    eventArgument,
+		    function(result) {
+                Anthem_PostProcessCallBack(
+                    result, 
+                    control, 
+                    eventType,
+                    eventTarget,
+                    null, 
+                    null, 
+                    imageUrlDuringCallBack, 
+                    textDuringCallBack, 
+                    postCallBackFunction, 
+                    preProcessOut
+                );
+		    },
+		    null,
+		    includeControlValuesWithCallBack,
+		    updatePageAfterCallBack
+	    );
+    }
+}
+
+function AnthemListControl_OnClick(
+    e,
+	causesValidation,
+	validationGroup,
+	textDuringCallBack,
+	enabledDuringCallBack,
+	preCallBackFunction,
+	postCallBackFunction,
+	callBackCancelledFunction,
+	includeControlValuesWithCallBack,
+	updatePageAfterCallBack
+) {
+	var target = e.target || e.srcElement;
+	if (target.nodeName.toUpperCase() == "LABEL" && target.htmlFor != '')
+	    return;
+	var eventTarget = target.id.split("_").join("$");
+	Anthem_FireCallBackEvent(
+	    target, 
+	    e,
+	    eventTarget, 
+	    '', 
+	    causesValidation, 
+	    validationGroup, 
+	    '',
+	    textDuringCallBack, 
+	    enabledDuringCallBack, 
+	    preCallBackFunction, 
+	    postCallBackFunction, 
+	    callBackCancelledFunction, 
+	    true, 
+	    true
+	);
+}
+
+// Returns the top, left control location in FireFox
+function GetControlLocation(control) {
+    var offsetX = 0;
+    var offsetY = 0;
+    var parent;
+    
+    for (parent = control; parent; parent = parent.offsetParent) {
+        if (parent.offsetLeft) {
+            offsetX += parent.offsetLeft;
+        }
+        if (parent.offsetTop) {
+            offsetY += parent.offsetTop;
+        }
+    }
+    
+    return { x: offsetX, y: offsetY };
+}
+
+function GetLabelText(id) {
+    var labels = document.getElementsByTagName('label');
+    for (var i = 0; i < labels.length; i++) {
+        if (labels[i].htmlFor == id) {
+            return labels[i].innerHTML;
+        }
+    }
+    return null;
+}
+
+function SetLabelText(id, text) {
+    var labels = document.getElementsByTagName('label');
+    for (var i = 0; i < labels.length; i++) {
+        if (labels[i].htmlFor == id) {
+            labels[i].innerHTML = text;
+            return;
+        }
+    }
+}
+
+// Used by encodeURIComponentNew to mimic function encodeURIComponent in 
+// IE 5.5+, Netscape 6+, and Mozilla
+function utf8(wide) {
+  var c, s;
+  var enc = "";
+  var i = 0;
+  while(i<wide.length) {
+    c= wide.charCodeAt(i++);
+    // handle UTF-16 surrogates
+    if (c>=0xDC00 && c<0xE000) continue;
+    if (c>=0xD800 && c<0xDC00) {
+      if (i>=wide.length) continue;
+      s= wide.charCodeAt(i++);
+      if (s<0xDC00 || c>=0xDE00) continue;
+      c= ((c-0xD800)<<10)+(s-0xDC00)+0x10000;
+    }
+    // output value
+    if (c<0x80) enc += String.fromCharCode(c);
+    else if (c<0x800) enc += String.fromCharCode(0xC0+(c>>6),0x80+(c&0x3F));
+    else if (c<0x10000) enc += String.fromCharCode(0xE0+(c>>12),0x80+(c>>6&0x3F),0x80+(c&0x3F));
+    else enc += String.fromCharCode(0xF0+(c>>18),0x80+(c>>12&0x3F),0x80+(c>>6&0x3F),0x80+(c&0x3F));
+  }
+  return enc;
+}
+
+var hexchars = "0123456789ABCDEF";
+
+function toHex(n) {
+  return hexchars.charAt(n>>4)+hexchars.charAt(n & 0xF);
+}
+
+var okURIchars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789_-";
+
+// Mimics function encodeURIComponent in IE 5.5+, Netscape 6+, and Mozilla
+function encodeURIComponentNew(s) {
+  var s = utf8(s);
+  var c;
+  var enc = "";
+  for (var i= 0; i<s.length; i++) {
+    if (okURIchars.indexOf(s.charAt(i))==-1)
+      enc += "%"+toHex(s.charCodeAt(i));
+    else
+      enc += s.charAt(i);
+  }
+  return enc;
+}
+
+//]]>
+</script>
+<script src="/WebResource.axd?d=EjTgQyfDgYwKY-lRh9v55A2&amp;t=633208428769062500" type="text/javascript"></script>
+        <table border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr valign="top">
+                <td align="left" style="padding-right: 10px; padding-top: 0px;">
+                    <table border="0" cellpadding="0" cellspacing="0" id="tblMaster">
+						
+                        <!--google_ad_section_start-->
+                        <!-- Top Menu and logo -->
+                        <tbody><tr valign="top">
+                            <td valign="top" align="left" colspan="3" style="background-color: #ffffff; padding-top: 0px;">
+                                
+
+<table cellpadding="0" width="1032px" cellspacing="0" border="0">
+    <tbody><tr>
+        <td style="width: 956px">
+            <table cellpadding="0" width="956px" cellspacing="0" border="0">
+                <tbody><tr valign="bottom">
+                    <td style="width: 445px; background-color: #ffffff;" align="left">
+                        <table cellpadding="0" cellspacing="0" border="0">
+                            <tbody><tr>
+                                <td style="padding-top: 8px; padding-bottom: 0px;">
+                                    <div>
+                                        <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="224" height="39" id="Logo" align="middle" border="0">
+                                            <param name="allowScriptAccess" value="sameDomain">
+                                            <param name="movie" value="http://www.talentzoo.com/images/TZ_Logo_bouncein.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><embed src="http://www.talentzoo.com/images/TZ_Logo_bouncein.swf" quality="high" bgcolor="#ffffff" width="224" height="39" name="Logo" align="middle" border="0" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+                                        </object>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                    <td valign="bottom" align="right" style="width: 511px;">
+                        <table cellpadding="0" cellspacing="0" border="0" width="511px" style="background-image: url(http://www.talentzoo.com/images/mytzback.gif); background-repeat: no-repeat; width: 511px; height: 42px;">
+                            <tbody><tr valign="top">
+                                <td>
+<script language="javascript">
+function UserLoginEnterKey(e)
+{
+if (e.keyCode == 13) 
+   {
+    e.cancelBubble = true;
+    e.returnValue = false;
+    var ctrl = document.getElementById("ctl00_MenuTop1_Login_pbGo");
+    ctrl.click();
+   }
+}
+function UserLoginNoEnterKey(e)
+{
+   if (e.keyCode == 13) 
+   {
+        e.returnValue = false;
+        e.cancel = true;
+        return false;
+   }    
+}
+</script>
+<div id="Anthem_ctl00_MenuTop1_Login1_Views__">
+<div style="padding-top: 3px;">
+<table cellpadding="0" cellspacing="0" border="0" width="511px">
+    <tbody><tr valign="top">
+        <td align="left" style="width: 180px; padding-left: 12px;">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr valign="top">
+                    <td align="left"><span class="LoginText">username</span></td>
+                </tr>    
+                <tr valign="top">
+                    <td><input name="ctl00$MenuTop1$Login1$txtLogin" type="text" id="ctl00_MenuTop1_Login1_txtLogin" tabindex="1" class="LoginTextBox" onkeypress="UserLoginNoEnterKey(event);"></td>
+                </tr>                   
+            </tbody></table>
+        </td>
+        <td align="left" style="width: 145px;">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr valign="top">
+                    <td align="left"><span class="LoginText" style="padding-right: 11px;">password</span><a id="ctl00_MenuTop1_Login1_lbForgotIt" class="ForgotPassword" href="javascript:__doPostBack('ctl00$MenuTop1$Login1$lbForgotIt','')">Forgot it?</a></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><input name="ctl00$MenuTop1$Login1$txtPassword" type="password" id="ctl00_MenuTop1_Login1_txtPassword" tabindex="2" class="PasswordTextBox" onkeypress="UserLoginEnterKey(event);"></td>
+                </tr>                   
+            </tbody></table>
+        </td>
+        <td align="left" style="width: 125px;">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr valign="top">
+                    <td style="padding-top: 12px;"><input type="image" name="ctl00$MenuTop1$Login1$pbGo" id="ctl00_MenuTop1_Login1_pbGo" tabindex="3" src="../../images/go.gif" border="0"></td>
+                </tr>                   
+            </tbody></table>
+        </td>
+        <td align="left" style="width: 275px; padding-left: 30px; padding-right: 12px;">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr valign="top"><td align="left"><a id="ctl00_MenuTop1_Login1_lbCreateAccount" class="CreateAccount" href="javascript:__doPostBack('ctl00$MenuTop1$Login1$lbCreateAccount','')">Create Account</a></td></tr>
+                <tr valign="top"><td align="left"><input name="ctl00$MenuTop1$Login1$ckbRememberMe" type="checkbox" id="ctl00_MenuTop1_Login1_ckbRememberMe" onclick="UserLoginEnterKey(event);">&nbsp;<span class="LoginText">remember me</span></td></tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr><td align="left" style="padding-left: 15px;"><span id="Anthem_ctl00_MenuTop1_Login1_message_lblMessage__"></span></td></tr>
+</tbody></table>
+</div>
+</div></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr style="height: 3px;">
+                    <td style="width: 445px; background-image: url(http://www.talentzoo.com/images/topmenushadow.gif)"></td>
+                    <td style="width: 511px; background-image:url(http://www.talentzoo.com/images/topmenushadowred.gif);"></td>
+                </tr>
+                <tr valign="top">
+                    <td align="left" colspan="2" style="background-color: #cc3333; height: 18px;">
+                        <a href="#ctl00_MenuTop1_Menu1_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=kBi26e_DhQHSISeduxJ4Vg2&amp;t=633208428769062500" width="0" height="0" border="0"></a><table id="ctl00_MenuTop1_Menu1" class="topmenu" cellpadding="0" cellspacing="0" border="0" width="956">
 	<tbody><tr>
-		<td align="center">
-			<table width="719" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFBEF">
+		<td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n0"><table class="TopMenuItems" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="TopMenuItems" href="/website/content/default.aspx?PageId=106">Home</a></td>
+			</tr>
+		</tbody></table></td><td width="3"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n1"><table class="TopMenuItems" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="TopMenuItems" href="/website/Jobs/JobSearch.aspx?SearchType=Simple&amp;RecordCount=20">Job Board</a></td>
+			</tr>
+		</tbody></table></td><td width="3"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n2"><table class="TopMenuItems" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="TopMenuItems" href="/website/Content/ContentPage.aspx?PageId=4">Post Jobs</a></td>
+			</tr>
+		</tbody></table></td><td width="3"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n3"><table class="TopMenuItems" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="TopMenuItems" href="/website/Content/ContentPage.aspx?PageId=7">Upload Resumes</a></td>
+			</tr>
+		</tbody></table></td><td width="3"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n4"><table class="TopMenuItems" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="TopMenuItems" href="/website/content/LandingMain.aspx?PageId=300">Talent</a></td>
+			</tr>
+		</tbody></table></td><td width="3"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n5"><table class="TopMenuItems" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="TopMenuItems" href="/website/content/LandingMain.aspx?PageId=400">Employers</a></td>
+			</tr>
+		</tbody></table></td><td width="3"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n6"><table class="TopMenuItems" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="TopMenuItems" href="/website/content/LandingLounge.aspx?PageId=513">ARTICLES</a></td>
+			</tr>
+		</tbody></table></td><td width="3"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n7"><table class="TopMenuItems" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="TopMenuItems" href="/website/about/contactform.aspx?IsHelp=1">FAQS</a></td>
+			</tr>
+		</tbody></table></td><td width="3"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n8"><table class="TopMenuItems" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="TopMenuItems" href="/website/content/LandingMain.aspx?PageId=101">About Us</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table><div id="ctl00_MenuTop1_Menu1n2Items" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n9">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
 				<tbody><tr>
-					<td align="center">
-						<img src="/images/logo.gif" width="338" height="75" alt="Advertising Jobs at Talent Zoo - North America's Premiere Advertising Recruitment Firm"><br>
-					</td>
-					<td align="right">
-						<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash4/cabs/swflash.cab#version=4,0,0,0" id="headerquotes" width="381" height="75" viewastext="">
-						  <param name="movie" value="/images/headerquotes.swf">
-						  <param name="quality" value="high">
-						  <param name="bgcolor" value="#FFFFFF">
-						  <embed name="headerquotes" src="/images/headerquotes.swf" quality="high" bgcolor="#FFFFFF" width="381" height="75" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
-						</object>
-					</td>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=4&amp;pricing=1">Posting Information</a></td>
 				</tr>
-
-
-				
-	
-	<tr>
-		<td colspan="2">
-			</td></tr><tr>
-		<td colspan="2"><a href="/default.asp"><img src="/newheaderimages/nav.home.on.gif" alt="Talent Zoo Home" border="0"></a><a href="/employee/" onmouseover="popUp('HM_Menu1',event)" onmouseout="popDown('HM_Menu1')"><img src="/newheaderimages/nav.jobseekers.off.gif" alt="Job Seekers Section" border="0"></a><a href="/employer/" onmouseover="popUp('HM_Menu2',event)" onmouseout="popDown('HM_Menu2')"><img src="/newheaderimages/nav.employers.off.gif" alt="Employers Section" border="0"></a><a href="/employer/postjobs.asp"><img src="/newheaderimages/nav.postjob.off.gif" alt="Employers Post Jobs Here" border="0"></a><a href="/about/" onmouseover="popUp('HM_Menu3',event)" onmouseout="popDown('HM_Menu3')"><img src="/newheaderimages/nav.aboutus.off.gif" alt="About Talent Zoo" border="0"></a><br>
-		
-			<table cellpadding="0" cellspacing="0" border="0" width="719">
-<tbody><tr bgcolor="#CCCC9A"><form action="http://search.freefind.com/find.html" method="GET" target="_self"></form>
-<td align="right" bgcolor="#CCCC9A">
-<input type="HIDDEN" name="id" size="-1" value="1460554">
-<input type="HIDDEN" name="pageid" size="-1" value="r">
-<input type="HIDDEN" name="mode" size="-1" value="ALL">
-<input type="HIDDEN" name="n" value="0">
-<img src="http://www.talentzoo.com/newheaderimages/searchtalentzoo.gif" align="top">&nbsp;<input style="font-family: MS sans serif; font-size: 8px; width:120px; height: 17px; border: 1px inset #000099; TYPE=" text"="" name="query" size="15">
-<input type="image" src="http://www.talentzoo.com/newheaderimages/button.search.gif" align="middle" alt="Go" border="0">&nbsp; 
-</td>
-</tr><tr>
-	<td bgcolor="000000">
-	<img src="http://www.talentzoo.com/newheaderimages/line.gif" height="1" width="1"><br>
-	</td>
-	</tr>
-</tbody></table>
-		</td>
-	</tr>
-	
-	
-	
-</tbody></table>
-<script language="JavaScript1.2" src="/common/HM_Loader.js" type="text/javascript"></script>
-
-
-<table background="/images/background.gif" width="719" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td>
-<table background="" width="719" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr valign="top">
-		<td width="150">
-			
-<table background="" width="140" cellpadding="4" bgcolor="#9C0000">
-<tbody><tr>
-<td><img src="/newheaderimages/aboutus.gif" alt="About Talent Zoo" border="0">
-</td>
-</tr>
-
-	<tr>
-		<td class="sectionintro" width="100%"><a href="http://www.talentzoo.com/about/" class="sectionintro">About Us</a>
-</td>
-</tr>
-<tr>
-			<td class="sectionintro" width="100%"><a href="http://www.talentzoo.com/contact.asp" class="sectionintro">Contact Us</a>
-			</td>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n10">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/employers/pricelist.aspx">Pricing</a></td>
+				</tr>
+			</tbody></table></td>
 		</tr>
-	<tr>
-		<td class="sectionintro" width="100%"><a href="http://www.talentzoo.com/about/people.asp" class="sectionintro">The People</a>
-		</td>
+	</tbody></table><div class="level1" id="ctl00_MenuTop1_Menu1n2ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=u9Dz1Ern8SWpAALs3lEBxilcx3hVGn7efx5kqaQhU7M1&amp;t=633208428769062500" alt="Scroll up">
+	</div><div class="level1" id="ctl00_MenuTop1_Menu1n2ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=ih0kbTzR1XafLE4KF7-NXOZvb6vB8SXBNdEmxqlFHCQ1&amp;t=633208428769062500" alt="Scroll down">
+	</div>
+</div><div id="ctl00_MenuTop1_Menu1n4Items" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n11">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=7&amp;Top=1">Upload a Resume</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n12">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Jobs/JobSearch.aspx?PageId=5&amp;SearchType=Simple&amp;RecordCount=20">Search Jobs</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n13">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=6">Rookie Directory</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n14">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Talent/SalaryMonitor.aspx?PageId=532&amp;type=talent">Salary Monitor</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n15">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="javascript:OpenWindow('http://www.wiredandhired.com',775,600)">Wired &amp; Hired Blog</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="level1" id="ctl00_MenuTop1_Menu1n4ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=u9Dz1Ern8SWpAALs3lEBxilcx3hVGn7efx5kqaQhU7M1&amp;t=633208428769062500" alt="Scroll up">
+	</div><div class="level1" id="ctl00_MenuTop1_Menu1n4ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=ih0kbTzR1XafLE4KF7-NXOZvb6vB8SXBNdEmxqlFHCQ1&amp;t=633208428769062500" alt="Scroll down">
+	</div>
+</div><div id="ctl00_MenuTop1_Menu1n5Items" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n16">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=4&amp;emp=1">Job Posting</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n17">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=11">Resume Access</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n18">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=13">Rookie Directory</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n19">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Talent/SalaryMonitor.aspx?PageId=531&amp;type=emp">Salary Monitor</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n20">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=15">Customized Salary Report</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n21">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=93">Partial Client List</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n22">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=88">Testimonials</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n23">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="javascript:OpenWindow('http://www.hiring-revolution.com',775,600)">Hiring Revolution Blog</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="level1" id="ctl00_MenuTop1_Menu1n5ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=u9Dz1Ern8SWpAALs3lEBxilcx3hVGn7efx5kqaQhU7M1&amp;t=633208428769062500" alt="Scroll up">
+	</div><div class="level1" id="ctl00_MenuTop1_Menu1n5ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=ih0kbTzR1XafLE4KF7-NXOZvb6vB8SXBNdEmxqlFHCQ1&amp;t=633208428769062500" alt="Scroll down">
+	</div>
+</div><div id="ctl00_MenuTop1_Menu1n6Items" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n24">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/columns/ArchivedDetailed.aspx?ContentTypeId=35">Guest Column</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n25">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/columns/ArchivedDetailed.aspx?ContentTypeId=81">Ads Without Borders</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n26">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/columns/Archived.aspx?ContentTypeId=40">Cheap Seats</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n27">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/columns/Archived.aspx?ContentTypeId=42">Devil to Pay</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n28">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/columns/ArchivedDetailed.aspx?ContentTypeId=78">Marketing Moxie</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n29">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/columns/ArchivedDetailed.aspx?ContentTypeId=79">New Media Edge</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n30">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/columns/ArchivedDetailed.aspx?ContentTypeId=77">SEM Skinny</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n31">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/columns/ArchivedDetailed.aspx?ContentTypeId=80">Very Public Relations</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n32">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Columns/ColumnContent.aspx?ContentTypeId=63">Unchained</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="level1" id="ctl00_MenuTop1_Menu1n6ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=u9Dz1Ern8SWpAALs3lEBxilcx3hVGn7efx5kqaQhU7M1&amp;t=633208428769062500" alt="Scroll up">
+	</div><div class="level1" id="ctl00_MenuTop1_Menu1n6ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=ih0kbTzR1XafLE4KF7-NXOZvb6vB8SXBNdEmxqlFHCQ1&amp;t=633208428769062500" alt="Scroll down">
+	</div>
+</div><div id="ctl00_MenuTop1_Menu1n7Items" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n33">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=58">Talent</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n34">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=59">Employers</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="level1" id="ctl00_MenuTop1_Menu1n7ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=u9Dz1Ern8SWpAALs3lEBxilcx3hVGn7efx5kqaQhU7M1&amp;t=633208428769062500" alt="Scroll up">
+	</div><div class="level1" id="ctl00_MenuTop1_Menu1n7ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=ih0kbTzR1XafLE4KF7-NXOZvb6vB8SXBNdEmxqlFHCQ1&amp;t=633208428769062500" alt="Scroll down">
+	</div>
+</div><div id="ctl00_MenuTop1_Menu1n8Items" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n35">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=2">Careers at TalentZoo</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n36">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/columns/archivedmain.aspx?ContentTypeId=69">Press</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n37">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/about/contactform.aspx">Contact Us</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n38">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="http://talentzoojournal.com/">TalentZoo Journal</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n39">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=20">Advertise with Us</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n40">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=1">Management</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n41">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=22">Affiliate Programs</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n42">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="/website/Content/ContentPage.aspx?PageId=24">Investor Information</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_MenuTop1_Menu1n43">
+			<td><table class="level1" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="level1" href="javascript:OpenWindow('../tools/emailnotifications.aspx',425,550)">Mailing Lists</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="level1" id="ctl00_MenuTop1_Menu1n8ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=u9Dz1Ern8SWpAALs3lEBxilcx3hVGn7efx5kqaQhU7M1&amp;t=633208428769062500" alt="Scroll up">
+	</div><div class="level1" id="ctl00_MenuTop1_Menu1n8ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=ih0kbTzR1XafLE4KF7-NXOZvb6vB8SXBNdEmxqlFHCQ1&amp;t=633208428769062500" alt="Scroll down">
+	</div>
+</div><a id="ctl00_MenuTop1_Menu1_SkipLink"></a>                                                    
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+        <td style="width: 76px; height: 21px;" valign="bottom">
+            <table cellpadding="0" width="76px" cellspacing="0" border="0">
+                <tbody><tr style="height: 3px;">
+                    <td style="width: 76px; background-image:url(http://www.talentzoo.com/images/topmenushadow.gif);"></td>
+                </tr>
+                <tr valign="bottom"><td style="width: 76px;"><img src="http://www.talentzoo.com/images/topmenugradrt.gif" height="18px" alt="none"></td></tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 622px; padding-top: 10px; vertical-align: top; background-color: White; border-right: #b8b8b8 1px solid;" align="left">
+                                <table border="0" cellpadding="0" cellspacing="0" width="622px">
+                                    <tbody><tr valign="top">
+                                        <td valign="top" align="left" style="">
+                                            <!-- Top Menu and logo -->
+                                            <table cellpadding="0" width="622px" cellspacing="0" border="0">
+                                                <tbody><tr valign="top">
+                                                    <td align="center">
+                                                        <!-- Page Title Image -->
+                                                        
+
+<table width="622px" border="0" style="background-position:center; background-image: url(http://www.talentzoo.com/images/header.gif); background-repeat: no-repeat; height: 35px; width:100%; vertical-align:top">
+    <tbody><tr>
+        <td align="left" style="padding-left: 10px; padding-top: 3px;"><span id="ctl00_PageTitlePlaceHolder_PageTitle1_lblTitle" style="display:inline-block;"><span class="MasterPage_TitleFirst">Privacy</span><span class="MasterPage_TitleSecond">Policy</span></span></td>
+    </tr>
+</tbody></table>
+
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    <tr id="ctl00_trPageIntroImageplaceholder" valign="top">
+	<td>
+                                            
+<table id="ctl00_PageIntroImageplaceholder_PageIntro1_tblintro" width="622px" border="0" cellpadding="0" cellspacing="0" style="BACKGROUND-IMAGE: url(../../images/IntroImages/pixel_white.png); background-repeat: no-repeat; ">
+		<tbody><tr valign="top">
+			<td id="ctl00_PageIntroImageplaceholder_PageIntro1_tdleft" width="100%" height="0"></td>
+			<td id="ctl00_PageIntroImageplaceholder_PageIntro1_tdRight"></td>
+		</tr>
+	</tbody></table>
+	
+
+                                        </td>
+</tr>
+
+                                    
+                                    <tr valign="top" style="height: 400px;">
+                                        <td id="AHC">
+                                           
+<!--google_ad_section_start-->
+<div id="ctl00_HorizontalContentPlaceHolder_divFeatureBox" class="BioBox"></div>
+<div style="padding-left: 10px; padding-top: 0px; padding-right: 10px;">
+<div style="padding-top: 8px"><span class="ContentBodyCopy">
+This is the web site of Talent Zoo Inc..
+<p>
+Our postal address is 
+1736 Defoor Place,
+Atlanta, GA, 30318
+</p>
+<p>
+We can be reached via e-mail at <a href="mailto:support@talentzoo.com">support@talentzoo.com</a><br>
+or you can reach us by telephone at 404-607-1955.
+</p>
+<p>
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+</p>
+<p>
+We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations.
+</p>
+<p>
+The information we collect is used to customize the content and/or layout of our page for each individual visitor, used by us to contact consumers for marketing purposes and .
+</p>
+<p>
+With respect to cookies: We use cookies to store visitors preferences, record past activity at a site in order to provide better service when visitors return to our site .
+</p>
+<p>
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+</p>
+<p>
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above.
+</p>
+<p>
+Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
+</p>
+<p>
+Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address.
+</p>
+<p>
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+</p>
+<p>
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+</p>
+<p>
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+</p>
+<p>
+Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them 
+</p>
+<p>
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+</p>
+<p>
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+</p>
+</span></div>
+</div>
+<!--google_ad_section_end-->
+
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td style="vertical-align: top; padding-top: 0px; padding-left: 10px; padding-right: 0px; background-color: White; width: 225px;" align="left">
+                                <table border="0" cellpadding="0" cellspacing="0" width="225px">
+                                    <tbody><tr valign="top">
+                                        <td align="left" style="padding-top: 10px; padding-left: 5px; padding-right: 0px;">
+                                            <table border="0" cellpadding="0" cellspacing="0" width="208px">
+												<tbody><tr><td style="padding-bottom: 10px; padding-left:6px;"><a href="../../website/employers/pricelist.aspx"><img src="http://www.talentzoo.com/images/hmfeaturesmall.gif" alt="Feature" border="0"></a></td></tr>
+                                                <tr>
+                                                    <td align="left">
+                                                        <table border="0" cellpadding="0" cellspacing="0" width="213px">
+                                                            <tbody><tr>
+                                                                <td style="padding-bottom: 5px; padding-left:6px;">
+                                                                    <div>
+                                                                        <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="175" height="52" id="Logo" align="middle" border="0">
+                                                                            <param name="allowScriptAccess" value="sameDomain">
+																            <param name="wmode" value="transparent">
+                                                                            <param name="movie" value="http://www.talentzoo.com/images/featemployers.swf">
+																            <param name="quality" value="high">
+																            <embed src="http://www.talentzoo.com/images/featemployers.swf" quality="high" bgcolor="#ffffff" width="175" height="52" name="Logos" align="middle" border="0" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent">
+                                                                        </object>
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+
+							<tr><td style="padding-top:3px; padding-bottom:5px; padding-left:8px;"><a href="mailto:feedback@talentzoo.com"><img border="0" src="http://www.talentzoo.com/images/feedback.gif"></a></td></tr>
+
+
+                                                            <tr><td style="padding-bottom: 7px;"></td></tr>
+												            <tr><td style="padding-bottom: 7px;">
+<div>
+    <table id="ctl00_MostRecent1_tblMain" cellpadding="0" cellspacing="0" width="0" border="0">
+	<tbody><tr>
+		<td><img id="ctl00_MostRecent1_imgHeader" src="http://www.talentzoo.com/images/jobsHeadNewest.gif" border="0"></td>
 	</tr>
 	<tr>
-		<td class="sectionintro" width="100%"><a href="http://www.talentzoo.com/about/opps.asp" class="sectionintro">Talent Zoo Opportunities</a>
-		</td>
+		<td colspan="2" style="padding-left: 4px; padding-right: 4px; background-color: #d9d9d9;">
+	        
+			        <table cellpadding="0" cellspacing="0" width="100%">
+			            <tbody><tr><td align="left" style="padding-bottom: 0px;"></td></tr>
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl01_trItem" class="RecentlyPostedJobsItemTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl01_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69655"><b>Google: Team Manager, Agency Relations - New York</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Google Inc.</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">New York - New York</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl02_trItem" class="RecentlyPostedJobsAlternateTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl02_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=67703"><b>Marketing Creative Director</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Vera Bradley</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Indiana - Fort Wayne</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl03_trItem" class="RecentlyPostedJobsItemTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl03_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69664"><b>Production Artist</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">ID Society Inc</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">New York - New York</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl04_trItem" class="RecentlyPostedJobsAlternateTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl04_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69649"><b>Visiting Assistant Professor in Advertising</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">West Virginia University, PI Reed School of Journalism</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">West Virginia - WV</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl05_trItem" class="RecentlyPostedJobsItemTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl05_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69661"><b>Email Marketing Manager</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">ID Society Inc</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">New York - New York</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl06_trItem" class="RecentlyPostedJobsAlternateTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl06_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69678"><b>Google: Associate Marketing Manager - Mountain View</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Google Inc.</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">California - San Francisco</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl07_trItem" class="RecentlyPostedJobsItemTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl07_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69492"><b>Web Designer (2008093)</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Vera Bradley</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Indiana - Fort Wayne</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl08_trItem" class="RecentlyPostedJobsAlternateTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl08_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69656"><b>Google Advertising Sales Opportunities</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Google Inc.</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">California - San Francisco</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl09_trItem" class="RecentlyPostedJobsItemTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl09_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69653"><b>Senior AE/Account Supervisor</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">The Point Group</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Texas - Dallas / Fort Worth</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl10_trItem" class="RecentlyPostedJobsAlternateTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl10_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69659"><b>Google Advertising Sales Opportunities</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Google Inc.</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">California - Los Angeles</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl11_trItem" class="RecentlyPostedJobsItemTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl11_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69676"><b>Marketing Manager</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Advanstar Communications, Inc.</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Massachusetts - MA</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl12_trItem" class="RecentlyPostedJobsAlternateTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl12_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=68133"><b>Art Director</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Vera Bradley</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Indiana - Fort Wayne</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl13_trItem" class="RecentlyPostedJobsItemTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl13_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69647"><b>Senior Copywriter</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">heinrich</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">California - San Francisco</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl14_trItem" class="RecentlyPostedJobsAlternateTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl14_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69663"><b>Senior Account/Project Manager</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">ID Society Inc</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">New York - New York</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl15_trItem" class="RecentlyPostedJobsItemTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl15_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69646"><b>Account Executive - Account Service</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Stephan &amp; Brady, Inc.</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Wisconsin - Madison</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl16_trItem" class="RecentlyPostedJobsAlternateTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl16_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69654"><b>Senior Account Executive</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Pearson Partners</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">Indiana - Indianapolis</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+		            <tr id="ctl00_MostRecent1_rptJobList_ctl17_trItem" class="RecentlyPostedJobsItemTableRow">
+			<td colspan="3" align="left" style="padding-top: 5px; padding-left: 3px; padding-right: 3px; padding-bottom: 5px;">
+		                    <table id="ctl00_MostRecent1_rptJobList_ctl17_tblInner" cellpadding="0" cellspacing="0" style="padding-left: 0px;" width="179px">
+				<tbody><tr>
+					<td align="left"><div class="Job-FeaturedTitle"><a href="../jobs/JobDetail.aspx?JobId=69648"><b>Senior Art Director</b></a></div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">heinrich</div></td>
+				</tr>
+				<tr>
+					<td align="left"><div class="Job-FeaturedTitle">California - San Francisco</div></td>
+				</tr>
+			</tbody></table>
+					                
+		                </td>
+		</tr>
+		
+		        
+			        </tbody></table>
+		        
+        </td>
 	</tr>
 	<tr>
-		<td class="sectionintro" width="100%"><a href="http://www.talentzoo.com/about/clienttestimonials.asp" class="sectionintro">Employer Testimonials</a>
-		</td>
-	</tr>
-	<tr>
-		<td class="sectionintro" width="100%"><a href="http://www.talentzoo.com/about/qa.asp" class="sectionintro">Employer FAQ</a>
-		</td>
-	</tr>
-	<tr>
-		<td class="sectionintro" width="100%"><a href="http://www.talentzoo.com/about/candidatetestimonials.asp" class="sectionintro">Job Seeker Testimonials</a>
-		</td>
-	</tr>
-	<tr>
-		<td class="sectionintro" width="100%"><a href="http://www.talentzoo.com/about/candidateqa.asp" class="sectionintro">Job Seeker FAQ</a>
-		</td>
-	</tr>
-	<tr>
-		<td class="sectionintro" width="100%"><a href="http://www.talentzoo.com/about/press.asp" class="sectionintro">TZ In The News</a>
-		</td>
+		<td><img id="ctl00_MostRecent1_imgFooter" src="http://www.talentzoo.com/images/jobsfoot.gif" border="0"></td>
 	</tr>
 </tbody></table>
 
-<br><br>
-
-
-<!-- <div align="center"><img src="/newheaderimages/tempbannerad.gif" alt="Add a banner to this site" border="1"></div> -->
-		</td>
-		<td width="369">
-			
-			<table background="" border="0" cellpadding="0" cellspacing="0" width="379">
-				<tbody><tr valign="top">
-					<td width="379">
-					<br><img src="/images/header.privacypolicy.gif" alt="Privacy Policy" width="368" height="31"><br>
-					<!--<span class="sectionbody"><b>Hit us with your best shot</b><br><br>-->
+</div></td></tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>                                                
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <!-- Banner Column -->
+                            <td align="right" valign="top" style="padding-top: 5px; background-color: #262626;">
+                                <table border="0" cellpadding="0" cellspacing="0" width="174px">
+                                <tbody><tr valign="top"><td align="center">
+<!-- Banner Right Start -->
+    <table id="tblSideAD" style="padding-left: 2px; padding-right: 2px;">
+	<tbody><tr valign="top"><td><iframe src="http://www.talentzoo.com/absolutebm/abmw.aspx?z=2&amp;isframe=true" width="160" height="430" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></td></tr>
+    <tr>
+        <td align="left" style="display: none;">
+        <div id="Div2">
+            <script type="text/javascript"><!--
+    google_ad_client = "pub-0502966086709367";
+    google_ad_width = 160;
+    google_ad_height = 600;
+    google_ad_format = "160x600_as";
+    google_ad_type = "text";
+    google_ad_channel ="";
+    google_color_border = "666666";
+    google_color_bg = "white";
+    google_color_link = "CC0000";
+    google_color_url = "CC0000";
+    google_color_text = "EFEFEF";
+    //--></script>
+            <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+            </script>
+            </div>
+        </td>
+    </tr>
+</tbody></table>
+<!-- Banner Right End --></td></tr>
 				
-					<table cellpadding="8">
-					<tbody><tr>
-					<td>
-					As a user of TalentZoo.com, you can be certain your privacy will be respected
-					and your confidentiality maintained.  Talent Zoo understands the need
-					for privacy and employs a strict privacy policy.
-					<p>
-					Talent Zoo does NOT collect information, except when you voluntarily provide
-					information to us, and once information is provided to Talent Zoo, that
-					information is NOT shared with anyone without your prior consent.  The
-					only information Talent Zoo permits you to share via our web site is your
-					contact information and your resume.
-					</p><p>
-					Talent Zoo reserves the right to analyze the activity and characteristics
-					of its members and to distribute aggregated information to Talent Zoo's
-					members, advertisers, and other third parties. Talent Zoo reserves the
-					right to contact its members regarding alterations and additions to the
-					substance of the site and data contained in the site, and other issues
-					relevant to Talent Zoo and/or information collected by it  
-					</p><p>
-					This privacy statement is for information only, and is not intended to
-					and does not create any contractual or other legal rights in or on behalf
-					of any party.
-					</p></td>
-					</tr>
-					</tbody></table>
-					</td>
-		
-			
-				</tr>
-			</tbody></table>
-							</td>			
-				</tr>
-			</tbody></table>
-		</td>
-	
-	</tr>
-	
+				<tr><td align="center" style="padding-top:10px"><a style="color:#e4e4e4; font-family:Verdana; font-size:9px; line-height:12px;" href="http://www.talentzoo.com/website/Content/ContentPage.aspx?PageId=20">Interested in advertising on TalentZoo.com?</a></td></tr>
+				
+				<tr><td align="center" style="padding-top: 25px;"><a href="http://diversitycareerexpos.com/redirects/DiA-Talentzoo.htm" target="_blank"><img src="http://www.talentzoo.com/images/bannerads/diacd-web-160-x-100.jpg" alt="DIA Day" border="0"></a></td></tr>
 
-	<tr>
-		<td width="140">
-			<img src="/images/blank.gif" width="10" height="1"><a href="http://www.plexusweb.com" target="_new"><img src="/images/home.plexbrand.gif" width="113" height="46" border="0"></a>
-		</td>
-		
-	</tr>
+				<tr><td align="center" style="padding-top: 25px;"><img src="http://www.talentzoo.com/images/rtbloghead.gif" alt="Blog Header"></td></tr>
+                                    <tr><td align="center" style="padding-top: 5px;"><a href="http://www.beneaththebrand.com" target="_blank"><img src="http://www.talentzoo.com/images/rtbtb.gif" alt="Beneath The Brand" border="0"></a></td></tr>
+                                    <tr><td align="center" style="padding-top: 8px;"><a href="http://www.beyondmadisonavenue.com" target="_blank"><img src="http://www.talentzoo.com/images/rtbma.gif" alt="Beyond Madison Avenue" border="0"></a></td></tr>
+                                    <tr><td align="center" style="padding-top: 8px;"><a href="http://www.hiring-revolution.com" target="_blank"><img src="http://www.talentzoo.com/images/rthr.gif" alt="Hiring Revolution" border="0"></a></td></tr>
+                                    <tr><td align="center" style="padding-top: 8px;"><a href="http://www.wiredandhired.com" target="_blank"><img src="http://www.talentzoo.com/images/rtwh.gif" alt="Wire And Hired" border="0"></a></td></tr>
+                                    <tr><td align="center" style="padding-top: 30px;"><div><img src="http://www.talentzoo.com/images/awards.gif" alt="Awards" style="border-top-style:none;border-right-style:none;border-left-style:none;border-bottom-style:none"></div></td>
+					</tr>    
+
+					<tr><td align="center" style="padding-top: 30px;"><a href="http://www.rlmpr.com" target="_blank"><img src="http://www.talentzoo.com/images/ads/rlmad.gif" alt="RLMpr" style="border-top-style:none;border-right-style:none;border-left-style:none;border-bottom-style:none"></a></td>
+					</tr> 
+
+
+                                    <tr><td align="center"><div style="padding-bottom: 2px; padding-top: 2px; display: none;" id="Div1"><iframe src="http://www.talentzoo.com/absolutebm/abmw.aspx?z=2&amp;isframe=true" width="160px" height="600px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div></td></tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3">
+                                <table width="1032px" cellpadding="0" cellspacing="0" border="0">
+                                    <tbody><tr>
+                                        <td style="width: 9px;"><img src="http://www.talentzoo.com/images/footleft.gif"></td>
+                                        <td style="width: 849px; background-image: url(http://www.talentzoo.com/images/footmidwhite.gif)"></td>
+                                        <td style="width: 165px; background-image: url(http://www.talentzoo.com/images/footmidgray.gif)"></td>
+                                        <td align="right" style="width: 9px;"><img src="http://www.talentzoo.com/images/footright.gif"></td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                        <!-- FOOTER start -->
+                        <tr>
+                            <td colspan="3" style="height: 10px;width: 655px" align="center">
+                                <!-- Footer AD PlaceHolder -->
+                                
+<!-- Banner Footer Start -->
+<table border="0" id="tblFooterAD">
+    <tbody><tr style="display:none">
+        <td>
+            <a href="http://www.forbes.com/bow/b2c/category.jhtml?id=260" target="_blank" rel="nofollow">
+                <img src="http://www.talentzoo.com/images/ForbesNew.gif" alt="Forbes Best of the Web Award Winner" style="border-top-style: none; border-right-style: none; border-left-style: none; border-bottom-style: none"></a>
+        </td>
+        <td style="padding-left: 20px; padding-right: 20px;">
+            <a href="http://www.employmentwebsites.org" target="_blank" rel="nofollow">
+                <img src="http://www.talentzoo.com/images/iaew.gif" alt="International Association of Employment Web Sites" style="border-top-style: none; border-right-style: none; border-left-style: none; border-bottom-style: none"></a>
+        </td>
+        <td>
+            <a href="http://www.weddles.com/awards/index.htm" target="_blank" rel="nofollow">
+                <img src="http://www.talentzoo.com/images/WDL_UserChoice2006_K.gif" alt="2006 Weddle's User's Choice Awards Winner" style="border-top-style: none; border-right-style: none; border-left-style: none; border-bottom-style: none"></a>
+        </td>
+    </tr>
 </tbody></table>
 
+                            </td>
+                        </tr>
+                        <!-- FOOTER end -->
+                        <!-- LINKS start -->
+                        <tr>
+                            <td colspan="2" style="height: 10px;width: 600px" align="center">
+                                <!-- Footer AD PlaceHolder -->
+                                
+<!-- Links Footer Start -->
+<table border="0" id="tblFooterAD" class="SiteMap">
+    <tbody><tr align="center" valign="top">
+        <td align="center"><a href="../about/contactform.aspx">Questions/Comments</a>&nbsp;|&nbsp;<a href="../tools/feedbuilder.aspx"><img border="0" style="padding-right: 3px;" alt="" src="http://www.talentzoo.com/images/xml.gif">Subscribe to RSS</a>&nbsp;|&nbsp;<a href="../content/default.aspx">Home</a>&nbsp;|&nbsp;<a href="javascript:OpenWindow('../tools/emailnotifications.aspx',425,550)">Subscribe to Mailing Lists</a>&nbsp;|&nbsp;<a href="../Jobs/JobSearch.aspx?all=1">Job Board</a></td>
+    </tr>
+    <tr><td align="center"></td></tr>
+    <tr>
+        <td align="center"><a href="../Content/ContentPage.aspx?PageId=2">Careers at TalentZoo</a>&nbsp;|&nbsp;<a href="../Content/ContentPage.aspx?PageId=20">Advertise with Us</a>&nbsp;|&nbsp;<a href="../../sitemap.html">Site Map</a>
+
+&nbsp;|&nbsp;<a href="../Content/ContentPage.aspx?PageId=64">Privacy Policy &amp; Terms of Service</a>
 
 
-
-<table width="719" border="0" cellpadding="0" cellspacing="0" background="" bgcolor="666666">
-	<tbody><tr valign="top">
-		<td align="center">
-			<br>
-			<span class="smallwhite"><a href="/default.asp" class="smallwhite">HOME</a> &nbsp;|&nbsp; <a href="/employee/" class="smallwhite">ADVERTISING JOB SEEKERS</a> &nbsp;|&nbsp; <a href="/employer/" class="smallwhite">EMPLOYERS</a> &nbsp;|&nbsp; <a href="/employer/postjobs.asp" class="smallwhite">POST AN ADVERTISING JOB</a> &nbsp;|&nbsp; <a href="/about/" class="smallwhite">ABOUT US</a>  &nbsp;|&nbsp; <a href="/contact.asp" class="smallwhite">CONTACT US</a> 
-			<p>© 2001-2002 <a href="/advertisingjobs.htm" class="smallwhite">Talent Zoo</a>® All Rights Reserved<br>
-			<a href="/privacy.asp" class="smallwhite">View Privacy Statement</a>.
-			</p><p>
-		</p></span></td> 
-	</tr>
+</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="../Content/ContentPage.aspx?PageId=88">Employer Testimonials</a>&nbsp;|&nbsp;<a href="../Content/ContentPage.aspx?PageId=9">Talent Testimonials</a>&nbsp;|&nbsp;<a href="../Content/ContentPage.aspx?PageId=93">Partial Client List</a>&nbsp;|&nbsp;<a href="../columns/archivedmain.aspx?ContentTypeId=69">Press</a>&nbsp;|&nbsp;<a href="../Content/ContentPage.aspx?PageId=22">Affiliate Program</a></td>
+    </tr>
+    <tr><td align="center"><a href="../about/contactform.aspx?IsHelp=1">Help</a>&nbsp;|&nbsp;<a href="http://www.talentzoo.com/website/about/contactform.aspx?IsHelp=1">FAQs</a></td></tr>
+    <tr>
+        <td align="center"><a href="../joblistings/listing.aspx?industryId=3">Advertising Jobs</a>&nbsp;|&nbsp;<a href="../joblistings/listing.aspx?industryId=4">Marketing Jobs</a>&nbsp;|&nbsp;<a href="../joblistings/listing.aspx?industryId=5">PR Jobs</a></td>
+    </tr>
+    <tr><td align="center"><a href="http://www.beneaththebrand.com/">Beneath The Brand</a>&nbsp;|&nbsp;<a href="http://www.beyondmadisonavenue.com/">Beyond Madison Avenue</a>&nbsp;|&nbsp;<a href="http://www.hiring-revolution.com/">Hiring-Revolution</a>&nbsp;|&nbsp;<a href="http://wiredandhired.com/">Wired And Hired</a></td></tr>
+    <tr><td><center>©2008 Talent Zoo Inc. All Rights Reserved.</center></td></tr>
+	<tr><td><center><table border="0"><tbody><tr><td><h1>Advertising Jobs</h1></td><td><h1>Marketing Jobs</h1></td><td><h1>PR Jobs</h1></td></tr></tbody></table></center></td></tr>
 </tbody></table>
-		</td> 
-	</tr>
-</tbody></table>
+<!-- Links Footer Start -->
+                            </td>
+                        </tr>
+                        <!-- LINKS end -->
+                        <!--google_ad_section_end-->
+                    </tbody></table>
+                </td>
+            </tr>
+        </tbody></table>
+    
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwKxraiMBAKS7c2fBQKD6cGiBwKjy4kQApi4hrUOAo/q34cPAtr3yMkD">
+
+<script type="text/javascript">
+<!--
+var ctl00_MenuTop1_Menu1_Data = new Object();
+ctl00_MenuTop1_Menu1_Data.disappearAfter = 500;
+ctl00_MenuTop1_Menu1_Data.horizontalOffset = 0;
+ctl00_MenuTop1_Menu1_Data.verticalOffset = 0;
+ctl00_MenuTop1_Menu1_Data.hoverClass = ' level1Hover';
+// -->
+</script>
+</form>
+<!-- Featured Items -->
+
+    
+    
+<table width="100%" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF; border-color: #000000; border-style: solid; border-width: 1px;">
+    </table>
+
+
 
 
 </body></html>
