@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zhakkas.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219025050id_/http%3A//www.others.zhakkas.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zhakkas.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413072311id_/http%3A//www.others.zhakkas.com/privacypolicy.html) for the most accurate reproduction.*
 
-# ZHAKKAS.com - Everything you Desire!
+# ZHAKKAS.com - Itz Fun, Itz Cash... Itz Online!
 
 **Overview**
 
@@ -24,7 +24,7 @@ Specific uses of personal information that vary from this Privacy Statement (if 
 
 The Site contains links and advertisements to other sites. If you click-through a banner ad or link and submit your information to that advertiser or site, you will be subject to their own privacy practices. ZHAKKAS.com is not responsible for the privacy practices or the content of such other sites.
 
-The Site makes chat rooms, classifieds, jokes, shero shayari+++ much more!! and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and that if you disclose personal contact information in these areas, others may use it to send you unsolicited messages. We do not control the actions of our guests and registered members. ZHAKKAS.com encourages our users to be smart about choosing when, and to whom to release information online.
+The Site makes Classifieds, Yellow Pages, Jokes, Shero Shayari, Articles, Images, Food Recipes, Videos+++ much more!! and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and that if you disclose personal contact information in these areas, others may use it to send you unsolicited messages. We do not control the actions of our guests and registered members. ZHAKKAS.com encourages our users to be smart about choosing when, and to whom to release information online.
 
 Of course there are many other ways we conceivably could get information from or about you that are not described elsewhere in this Statement. For example, you might email us through one of our customer service email addresses, or we may get a complaint about you from a third party. Our practices with respect to such information are pretty much as you’d expect -- we use and disclose this information in a commercially reasonable business manner.
 
