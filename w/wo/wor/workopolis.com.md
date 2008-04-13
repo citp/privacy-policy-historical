@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workopolis.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213003726id_/http%3A//www.workopolis.com/Default.aspx%3Faction%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workopolis.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413064347id_/http%3A//www.workopolis.com/Default.aspx%3Faction%3DPrivacy) for the most accurate reproduction.*
 
 # workopolis.com - Privacy Policy - Canada's Biggest Job Site
 
@@ -8,7 +8,7 @@
 
 _Last Updated on May 18, 2006_
 
-p align="justify">At the Workopolis partnership ("Workopolis"), protecting your privacy is very important to us. We treat your personal information with the utmost respect and in accordance with this Privacy Policy. 
+At the Workopolis partnership ("Workopolis"), protecting your privacy is very important to us. We treat your personal information with the utmost respect and in accordance with this Privacy Policy.
 
 This Privacy Policy explains how personal information about you may be collected, used, or disclosed as a consequence of your activities on the Workopolis Web site. We urge you to read it carefully.
 
@@ -240,11 +240,12 @@ By registering on this site, by submitting your resume or any information throug
 
 **11\. Contact Us**
 
-  1. Workopolis will make information about its policies and practices relating to management of personal information readily available. Please direct any questions about our privacy policies and procedures, any requests for access to our records of your personal information and any other privacy related concerns or complaints to our Chief Privacy Officer, Mr. Gabe Mazzarolo. All privacy related complaints will be acknowledged, recorded, investigated and responded to in accordance with applicable law.
+  1. Workopolis will make information about its policies and practices relating to management of personal information readily available. Please direct any questions about our privacy policies and procedures, any requests for access to our records of your personal information and any other privacy related concerns or complaints to [privacy@workopolis.com](mailto:privacy@workopolis.com). All privacy related complaints will be acknowledged, recorded, investigated and responded to in accordance with applicable law.
 
-  2. You can contact Mr. Mazzarolo by e-mail at [privacy@workopolis.com](mailto:privacy@workopolis.com), through our toll-free line at 1-888-641-4047 or by postal mail at:
+  2. You can contact us by e-mail at [privacy@workopolis.com](mailto:privacy@workopolis.com), through our toll-free line at 1-888-641-4047 or by postal mail at:
 
-  720 King Street West  
+  Privacy, Workopolis  
+720 King Street West  
 10th Floor  
 Toronto ON M5V 2T3
 
