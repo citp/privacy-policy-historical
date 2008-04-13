@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kesinenitravels.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024193823id_/http%3A//www.kesinenitravels.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kesinenitravels.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413151104id_/http%3A//www.kesinenitravels.com/privacy.html) for the most accurate reproduction.*
 
 # Kesineni
 
