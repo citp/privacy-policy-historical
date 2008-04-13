@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011053402id_/http%3A//scholarshipamerica.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413104339id_/http%3A//scholarshipamerica.org/privacy_policy.php) for the most accurate reproduction.*
 
-# Scholarship America
+# Scholarship Programs - College Scholarships from Scholarship America .
+
+## Donate Now!
+
+Over 1.5 million students have depended on Scholarship America. We depend on you. [Learn more](https://scholarshipamerica.org/donate.php)
+
+.......................
+
+  
+Enjoy stories from some of our students and their families as they describe how Scholarship America helped them achieve their goals. [Take a look](https://web.archive.org/web/20080413104339id_/http%3A//scholarshipamerica.org/scholar_stories.php)
+
+.......................
+
+##   
+Scholarship Blogosphere
+
+Communicate with an inspirational group of students, families, and volunteers as we share stories about the importance of this organization. [Read more](https://web.archive.org/web/20080413104339id_/http%3A//sa_blog/index.php)
+
+| 
 
 Scholarship America is committed to responsible information handling practices. You can visit most pages on our site without giving us any information about yourself, but sometimes we need information to provide services that you request. This privacy statement explains data collection and use in those situations. By visiting our Web site, you consent to the information practices described in this policy. Below are listed the answers to questions you may have.
 
@@ -45,7 +63,7 @@ Scholarship America wants your information and preferences to be accurate and co
 >  Advancement Depatment  
 >  7703 Normandale Rd, Suite 110  
 >  Minneapolis, MN 55435  
->  Or email: [development@scholarshipamerica.org](mailto:development@scholarshipamerica.org)
+>  Or email: [**development@scholarshipamerica.org**](mailto:development@scholarshipamerica.org)
 
 **How does Scholarship America SECURE my personal information?**  
 We are committed to properly securing the information we collect online. To help us accomplish this, we take the following steps: 
@@ -60,8 +78,26 @@ We are committed to properly securing the information we collect online. To help
 
 
 **Whom can I CONTACT if I have questions, concerns or want to correct errors?**  
-If you have questions about our Privacy Policy, e-mail us at [development@scholarshipamerica.org](mailto:development@scholarshipamerica.org)
+If you have questions about our Privacy Policy, e-mail us at [**development@scholarshipamerica.org**](mailto:development@scholarshipamerica.org)
 
 **Will this Privacy Policy CHANGE?**  
 Because our Web sites and businesses will continue to implement new technologies and improve the services and features we provide, this policy is subject to change. If there are changes or additions to this Privacy Policy, we will post those changes here or in other formats we deem acceptable, so that you will always know what information we collect online, how we use it and what choices you have.   
 
+
+| 
+
+## Upcoming Events
+
+Our national and regional offices have plenty of events coming up to celebrate students this spring. [Click here to find out more.](https://web.archive.org/web/20080413104339id_/http%3A//upcoming_events.php)
+
+................
+
+##   
+Families of Freedom Scholarship Fund 
+
+has helped hundreds of families affected by 9/11. Find out about this program and other special scholarship initiatives. [Learn more](https://web.archive.org/web/20080413104339id_/http%3A//scholarshipamerica.org/special-initiatives.php)
+
+................
+
+[](http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3512)  
+Scholarship America has received the highest rating for sound fiscal management from Charity Navigator for six straight years. [Learn more ](http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3512)
