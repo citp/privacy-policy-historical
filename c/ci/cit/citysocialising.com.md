@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213183957id_/http%3A//london.citysocialising.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413095517id_/http%3A//london.citysocialising.com/privacy.asp) for the most accurate reproduction.*
 
 # CitySocialising.com - Privacy
+
+Privacy
 
 In this Data Protection and Privacy Policy, references to "we" and "us" are to CitySocialising Limited, herein referred to as “CitySocialising.com”. CitySocialising.com considers it important that our members and website visitors fully understand their rights, privileges and obligations and therefore we ask you to please read the following Data Protection and Privacy Policy, as well as the Terms & Conditions and Code of Conduct before completing your registration. CitySocialising.com is registered with the UK Office of Data Protection Registrar. CitySocialising.com will use your information in order to provide the Service to you and any other services which we may offer from time to time. We may also use your information to adapt the Website to your individual requirements so that it offers the most appropriate and effective level and range of services for our customers and visitors. We may disclose your information to our agents and service providers for these purposes. 
 
@@ -24,5 +26,3 @@ Other Websites
 This privacy policy only covers this website and information collected for event reservation and membership purposes. Any other websites, which may be linked to by our website are subject to their own policy, which may differ from ours. Please do not proceed if you do not accept the conditions of citysocialising.com Data Protection Policy.
 
 CitySocialising Ltd is a company registered in England and Wales with company number 5005271. Registered address at 5 Wormwood Street, London, EC2M 1RQ
-
-. 
