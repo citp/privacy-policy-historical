@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hooqy.com privacy policy that was archived on 2007-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071021114729id_/http%3A//www.hooqy.com/blogsection/internet-advertising-media-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hooqy.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413062314id_/http%3A//www.hooqy.com/internet_marketing/internet-advertising-media-privacy-policy) for the most accurate reproduction.*
 
-# Hooqy Toronto Online Marketing and Internet Advertising Media - Privacy Policy
+# Hooqy Canada Online Marketing and Internet Advertising Media - Privacy Policy
 
 It is our policy to treat all information you provide to us in confidence and in accordance with the purposes set out below. We will not disclose information about you to any third parties other than those persons/organizations specified in this statement. 
 
