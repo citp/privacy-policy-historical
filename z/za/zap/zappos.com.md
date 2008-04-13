@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zappos.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205093802id_/http%3A//www.zappos.com/privacy.zhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zappos.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414003711id_/http%3A//www.zappos.com/privacy.zhtml) for the most accurate reproduction.*
 
 # Zappos.com Privacy Policy
 
@@ -104,4 +104,4 @@ If we change or update this Privacy Policy, we will post changes and updates on 
 
 
 Effective November 30, 2007.  
-Privacy Policy copyright © 2006-2007 Zappos.com, Inc.
+Privacy Policy copyright © 2007 Zappos.com, Inc.
