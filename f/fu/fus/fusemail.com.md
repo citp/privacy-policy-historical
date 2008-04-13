@@ -1,16 +1,9 @@
-> *The following text is extracted and transformed from the fusemail.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214070449id_/http%3A//www.fusemail.com/about/legal_stuff.html%3Fdisplay%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusemail.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413135512id_/http%3A//www.fusemail.com/about/legal_stuff.html%3Fdisplay%3Dprivacy_policy) for the most accurate reproduction.*
 
-# FuseMail Email Hosting | Business Email Hosting Services - Legal Stuff
+# FuseMail Email Hosting: About: Legal Stuff
 
   
-  
-
-
-|   
----  
-  
-  
-
+| 
 
 [**View Other Documents**](https://web.archive.org/about/legal_stuff.html)
 
