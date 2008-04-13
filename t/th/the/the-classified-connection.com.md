@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-classified-connection.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220211731id_/http%3A//www.the-classified-connection.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-classified-connection.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414002901id_/http%3A//www.the-classified-connection.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy – We take Your Privacy Seriously
 
