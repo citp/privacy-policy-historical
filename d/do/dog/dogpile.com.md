@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogpile.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215161249id_/http%3A//www.dogpile.com/info.dogpl/search/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogpile.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413134036id_/http%3A//www.dogpile.com/dogpile/ws/privacy/_iceUrlFlag%3D11%3F_IceUrl%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ InfoSpace offers certain personalization services within its directory services 
 
 Yellow Pages listings are supplied by Verizon SuperPages. To add or update your existing free basic Yellow Pages listing, please go to the following web site: https://snap.superpages.com/NASApp/Listing/control/ViewListing. To delete your listing, please call the customer service department at 1-800-428-8722, stay on the line without pushing any prompts, and a representative will assist you. 
 
-You may update or delete your White Pages listing by [searching the White Pages](http://www.dogpile.com/info.dogpl/white-pages) or [email search](http://www.dogpile.com/info.dogpl/wp/email/index.htm) to find your listing. Once you have located it, simply click the update or remove link. To verify your request, InfoSpace will send an e-mail message to the address that you provide. Once you confirm the request, your listing will be updated or deleted. Please allow approximately 24 hours for the update to become active after we receive your confirmation.
+You may update or delete your White Pages listing by [searching the White Pages](http://www.dogpile.com/info.dogpl/white-pages) to find your listing. Once you have located it, simply click the update or remove link. To verify your request, InfoSpace will send an e-mail message to the address that you provide. Once you confirm the request, your listing will be updated or deleted. Please allow approximately 24 hours for the update to become active after we receive your confirmation.
 
 ######  User Groups
 
@@ -64,9 +64,9 @@ In the event InfoSpace goes through a business transition, such as a merger, bei
 
 ######  Choice/Opt-out
 
-We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please email us at [ privacy@infospace.com](mailto:privacy@infospace.com). 
+We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please [contact us](http://www.dogpile.com/dogpile/ws/contactUs/_iceUrlFlag=11?_IceUrl=true). 
 
-If you have questions about public record information available through the Public Records service, please go to the following web site for additional information: <http://www.dogpile.com/dogpile/ws/contactUs/_iceUrlFlag=11?_IceUrl=true>
+If you have questions about public record information available through the Public Records service, please [contact us](http://www.dogpile.com/dogpile/ws/contactUs/_iceUrlFlag=11?_IceUrl=true). 
 
 ######  Notification of Changes
 
@@ -91,6 +91,6 @@ InfoSpace, Inc.
 Bellevue, Washington 98004 USA   
 \+ (1) 425.201.6100 phone   
 \+ (1) 425.201.6150 fax   
-E-mail: [kidsprivacy@infospace.com](mailto:kidsprivacy@infospace.com)
+[Contact Us](http://www.dogpile.com/dogpile/ws/contactUs/_iceUrlFlag=11?_IceUrl=true)
 
 Policy effective Oct 11, 2007 
