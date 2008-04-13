@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ses.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213151512id_/http%3A//www.ses.com/ses/footerPages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ses.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413164058id_/http%3A//www.ses.com/ses/footerPages/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
