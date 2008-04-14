@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birdsandblooms.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202103149id_/http%3A//www.reimanpub.com/Revise/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdsandblooms.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414223606id_/http%3A//www.reimanpub.com/Revise/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Reiman Publications Privacy Policy
 
