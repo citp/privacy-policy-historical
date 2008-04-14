@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216010955id_/http%3A//www.xtend-life.com/info/security-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414161056id_/http%3A//www.xtend-life.com/info/security-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Xtend-Life - Security and Privacy Policy
 
@@ -31,4 +31,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 Or alternatively 
 
-[_click through to our contact us section._](https://web.archive.org/web/20071216010955id_/http%3A//www.xtend-life.com/contactus.aspx)
+[_click through to our contact us section._](https://web.archive.org/web/20080414161056id_/http%3A//www.xtend-life.com/contactus.aspx)
