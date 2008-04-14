@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listhub.net privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215222524id_/http%3A//www.listhub.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listhub.net privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414204609id_/http%3A//www.listhub.net/privacy.html) for the most accurate reproduction.*
 
 # ListHub.net
 
