@@ -1,17 +1,13 @@
-> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215140217id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414212411id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
 
 # TamiyaUSA.com Privacy Statement
 
-|   
+| Use **GOOGLE** to search the site  
 ---  
-| 12/12 [New TamTech Gear Page](https://web.archive.org/product/ttg_page.php) |   
-| 12/7 [2008 TCS Rules Posted!](http://www.tamiyausa.com/tcs_races/rules.php) |   
-| 12/6 [Box Stock Photo Winners](https://web.archive.org/articles/feature.php?article-id=337) |   
-| 12/4 [Builders Showcase #27](https://web.archive.org/articles/feature.php?article-id=336) |   
-| 12/4 [Builders Showcase #26 Winner](https://web.archive.org/articles/feature.php?article-id=332) |   
-| 12/3 [December Calendars](https://web.archive.org/product/stuff.php) |   
-| 11/29 [Tamiya Fair 2007](https://web.archive.org/articles/feature.php?article-id=335) |   
-| 11/21 [TRF 416 wins JMRCA](http://www.tamiyausa.com/articles/feature.php?article-id=334) |   
+  
+---  
+| 4/1 [Builders Showcase #31](https://web.archive.org/articles/feature.php?article-id=348) |   
+| 3/4 [Builders Showcase #30 Winner](https://web.archive.org/articles/feature.php?article-id=347) |   
 [More News...](https://web.archive.org/news/index.php) |   
 |  |   
 ---|---  
