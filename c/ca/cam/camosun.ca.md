@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camosun.ca privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215073817id_/http%3A//camosun.ca/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camosun.ca privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414190607id_/http%3A//camosun.ca/privacy-statement.html) for the most accurate reproduction.*
 
 # Website Privacy Statement - Camosun College
 
@@ -15,8 +15,7 @@ Victoria BC, V9E 2C1
 **Information & Registration**  
 **Phone:** 250–370–3550  
 **Toll free:** 1–877–554–7555  
-**Email:**[info@camosun.bc.ca](mailto:info@camosun.bc.ca)  
-**Online:**[Information & Registration ](https://web.archive.org/about/contact/index.html)
+**Email:**[info@camosun.bc.ca](mailto:info@camosun.bc.ca)
 
 ## Hours
 
@@ -29,6 +28,7 @@ Academic Advising Hours
 Cashiers Hours
 Financial Aid and Awards Hours
 Disability Resources Hours
+Library Hours
 
 Camosun College respects the privacy of personal information and strives to maintain the public’s trust through transparency and accountability in its use of personal information.  Personal information is information which can be used to distinguish, identify, or contact an individual specifically and which is not publicly available.
 
