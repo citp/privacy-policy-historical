@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogfreehere.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029131104id_/http%3A//blogfreehere.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogfreehere.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414212426id_/http%3A//blogfreehere.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Blogfreehere.com
 
