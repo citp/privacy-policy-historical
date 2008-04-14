@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinydeal.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215170216id_/http%3A//tinydeal.com/catalog/privacy.php%3FosCsid%3Ddfce6372c9a15c519039afcf8505b229) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinydeal.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414083754id_/http%3A//www.tinydeal.com/catalog/privacy.php%3FosCsid%3D739b6c719aa8394d06a412a140e9043f) for the most accurate reproduction.*
 
 # TinyDeal Direct Online Store, MP4/MP3 Player, Memory Cards, Accessories
 
