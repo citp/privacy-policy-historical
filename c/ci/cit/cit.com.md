@@ -1,21 +1,15 @@
-> *The following text is extracted and transformed from the cit.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215013839id_/http%3A//www.cit.com/main/utility/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cit.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414101112id_/http%3A//www.cit.com/main/utility/privacy-policy.htm) for the most accurate reproduction.*
 
 # 
 
 ---  
 |     | 
 
-|  CIT Privacy Policies  |   
+|  cit.com Privacy Policy |   
 ---|---  
 | 
 
-### [CIT Canada (CIT Financial Ltd.) Privacy Policy](http://www.cit.com/main/cit-worldwide/canada/z-canada-privacy-policy.htm) 
-
-###  
-
-### Cit.com Privacy Policy 
-
-Last Updated: September 27, 2004  
+### Last Updated: September 27, 2004  
    
   
 ---  
@@ -101,7 +95,4 @@ This site may have hyperlinks to or pop-up windows from other websites. CIT is n
   
 ### **12.  NOTICES AND REVISIONS**  
   
-CIT may revise this privacy policy from time to time. You should periodically check the revision date at the top of the webpage to learn of any revisions. Your use of the website at any time is deemed acceptance of the privacy policy then in effect. If you have questions about this privacy policy, please send e-mail to [US.Privacy@cit.com](mailto:US.Privacy@cit.com).  
-  
-  
-
+CIT may revise this privacy policy from time to time. You should periodically check the revision date at the top of the webpage to learn of any revisions. Your use of the website at any time is deemed acceptance of the privacy policy then in effect. If you have questions about this privacy policy, please send e-mail to [US.Privacy@cit.com](mailto:US.Privacy@cit.com).
