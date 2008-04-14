@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the draft.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215141505id_/http%3A//www.draft.com/modules/wfchannel/index.php%3Fpagenum%3D292) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draft.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414205709id_/http%3A//www.draft.com/modules/wfchannel/index.php%3Fpagenum%3D292) for the most accurate reproduction.*
 
 # Draft.com - Content
 
@@ -96,3 +96,8 @@ Wichita Falls, TX 76308
 
 
 | 
+
+COUNTDOWN TO DRAFT
+
+87 days 9 hrs 27 mins 7 secs  
+till the 2008 NFL draft
