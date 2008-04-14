@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wsaz.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216011806id_/http%3A//www.wsaz.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsaz.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414213054id_/http%3A//www.wsaz.com/unclassified/647.html) for the most accurate reproduction.*
 
-# WSAZ - HomePage Local News, Severe Weather and Breaking News Coverage for West Virginia, Ohio and Kentucky
+# GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
 This Privacy Policy does not cover the “Ask the Experts” advertising feature that may be included on this website.  Please see the separate privacy policy on the [Ask the Experts homepage](http://www.asktheexperts.org/).
 
@@ -139,6 +139,6 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
 
 
 
-This Privacy Policy was last updated on Jan. 1, 2007 and is effective immediately.
+This Privacy Policy was last updated on Jan. 8, 2008 and is effective immediately.
 
-Copyright © 2007 Gray Television Group, Inc. All rights reserved.
+Copyright © 2008 Gray Television Group, Inc. All rights reserved.
