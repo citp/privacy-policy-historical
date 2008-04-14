@@ -1,48 +1,71 @@
-> *The following text is extracted and transformed from the fijirugby.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621144127id_/http%3A//fijilive.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fijirugby.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414231231id_/http%3A//www.fijirugby.com/pages.cfm/about-union/privacy-policy.html) for the most accurate reproduction.*
 
-# Fijilive Policy
+# Welcome to Fiji Rugby Union - Privacy Policy
 
-|   | 
+The Fiji Rugby Union (hereinafter the “FRU”) has created this privacy statement to demonstrate its firm commitment to privacy. The following is a full description of our information gathering and dissemination practices for the website, www.fijirugby.com.
 
-**Fijilive Privacy Policy**
+Collection of Information
 
-Fijilive collects personal information such as your name, address, date of birth, occupation, email address and phone number when you register or when you use fijilive products or services. We also collect information about your transactions with us as well as your IP address, Yahoo! cookie information, and the web pages you request. This information will be used to customise advertising and content, fulfill your requests for products and services, improve services, research, and provide reports for clients. If a child under age 15 tries to register, we advise that they should seek parental permission. 
+In general, you can visit the site without providing personal information. However, there may be times when we will request personal information in order that you may participate in our site's activities. Information is typically requested when you wish to enter contests, contact us, join the forum section or subscribe to our newsletter or other subscription services.
 
-fijilive does not sell or share personal information about you with other people or companies. Fijilive may, however, release such information if legally bound to do so or if we believe it will help prevent an illegal activity including threatening a person’s life. Access of such information to staff is limited. Fijilive may also set cookies on your computer. We will also send you fijilive related announcements from time to time. In the event that fijilive is sold, all such information will be transferred to the acquiring company. 
+In common with many other website operators, we may use standard technology called 'cookies' on this site. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. We currenly use cookies for one purpose: to tell us in what language the site should be presented to you. Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored.
 
-Overall your information is password protected and in e-commerce and other areas, fijilive uses industry-standard SSLencryption to protect data transmission. If you have any questions or suggestions about our privacy policy, please contact us on (679) 3300591 or info@fijilive.com 
+When you submit personal information to the FRU through our site, you agree that your information may be stored and processed by the FRU.  
+The FRU reserves the right to perform statistical analysis of user behaviour and characteristics in order to measure interest in and use of the various areas of the site and to ascertain the number of users that have visited particular web pages. FRU will provide only aggregated data from these analyses to third parties. FRU confirms that in general it will only use the information you provide within the FRU. Where we want to pass the information on to someone else we will tell you - refer to the notices on particular web pages that let you know why we are requesting the information and to whom it will be made available. The option will then be yours to submit the information or not.
 
-  
+How We Use the Information
 
+We collect and use your information in order to give you better service, to provide you with information on the Fiji Rugby Union and its events and on Rugby Union and to make our site more useful to you. The contact information we collect is used to deliver the information you request from us. Your personal information is also used to contact you when necessary (e.g. winners of competitions or games).
 
-|   | 
+You have the right to prevent marketing information being sent direct to you. If you prefer not to receive information from us or from any other organisation to which we may disclose your personal information, or if you wish, at any time, to be removed from our newsletter list, please send an email with "unsubscribe" in the Subject line to administrator@fijirugby.com.
 
-| 
+The organisations to which, with your permission, we will release your personal information are limited to our official sponsors, partners, tournament sponsors and official suppliers, FRU and/or its associated companies, the International Rugby Board, and/or the Member Unions thereof. FRU will only disclose your personal information without notice when it believes disclosure to be required by law or regulation, or necessary to protect or defend the rights or property of FRU, the safety of the public or the users of its site.
 
-**THE REVIEW**  
-  
----  
-  
-****  
-[](http://www.hellofiji.com/archive/)   
-_**June 1st 2003** issue one **[NOW Online](http://www.hellofiji.com/archive/)**_.Click [here](https://web.archive.org/web/20030621144127id_/http%3A//images/subs4.pdf) to download subscription form for print edition.  
-****  
-  
-****  
-****  
-[RT0223](https://web.archive.org/mobiles/) \- Saathiya - Title Song   
----  
-[RT0222](https://web.archive.org/mobiles/) \- Saathiya - Chupkay Se  
-[RT0202](https://web.archive.org/mobiles/) \- Kaante - Ishq Samunder   
-[RT0169](https://web.archive.org/mobiles/) \- Shakti - Ishq Kamina   
-[RT0189](https://web.archive.org/mobiles/) \- Adnan Sami - Bhigi Bhigi   
-[RT0111](https://web.archive.org/mobiles/) \- Get Your Freak On - Missy Elliot   
----  
-[RT0078](https://web.archive.org/mobiles/) \- Scooby Doo   
-[RT0080](https://web.archive.org/mobiles/) \- Whos That Girl - Eve   
-[RT0092](https://web.archive.org/mobiles/) \- Shape Of My Heart - Backstreet Boys   
-[RT0075](https://web.archive.org/mobiles/) \- I Love Rock n Roll - Britney Spears  
-****  
-[](https://web.archive.org/classifieds/)****[](https://web.archive.org/archive/)   
-  
+Electronic CommunicationsWe at FRU abide by ethical standards and practices and will not send you unnecessary communications and, in particular:  
+•    We will not send you unsolicited communications unless you have consented to receiving them;  
+•    Communications we do send you will always give you an address which you may contact to opt out of receiving further communications.  
+Please understand that where you have opted out of receiving further communications, it may take us a few days to process your request.
 
+Children under 18
+
+If you are under 18, you must obtain the approval of a parent or guardian before you send us any of your personal information (such as your name, e-mail address, home address, date of birth etc).
+
+Changes to this Privacy Policy
+
+We reserve the right to change our security and privacy policies at any time. Accordingly, we recommend that you check this page periodically in order to review our current policies.
+
+Links to Other Sites
+
+FRU's site may contain links to other websites whose privacy and information practices may be different to ours. You should consult the other websites' privacy notices. FRU is not responsible for the content or privacy policies of other websites.
+
+Security
+
+We use physical, electronic, and managerial procedures to help safeguard the information we collect from you online. We urge you to take precautions to protect your personal data when you are on the Internet. Keep any passwords safe and make sure you use a secure browser.
+
+Use of your information
+
+Some of the organisations to which we may disclose your personal information may be situated outside of Fiji. In order to provide you with the products and services you require, we may need to transfer your personal information to these countries, some of which do not protect privacy and personal data rights as extensively as set out above. If you do not consent to your personal data being sent or used by the FRU outside of Fiji, please do not send it to us.
+
+Your rights to access your personal information
+
+You have the right to receive a copy of the personal information that we hold about you. We may charge a small fee towards the cost of administering any request you make.
+
+Correcting Information/ Contacting the Website
+
+If you wish to correct any information you have provided to us or if you have any questions about this privacy statement, the practices of this site, or your dealings with the site, you can contact us by emailing us at administrator@fijirugby.com or writing to us at the address below.
+
+If there is any information you think is incorrect or misleading, please email us at administrator@fijirugby.com and advise us of this. We will look into the matter concerned and reply to you. 
+
+Disclaimer 
+
+ALL rights of the FRU are reserved. FRU does not accept liability in connection with the integrity of or errors in the communication, computer virus, data corruption, interference or delay arising from or in respect of your usage of the website.
+
+This privacy policy is subject to change without notice. Last updated 01 March 2008.
+
+Fiji Rugby Union   
+Rugby House,   
+35 Gordon Street,   
+Suva,   
+Fiji Islands.
+
+All Rights Reserved. 
