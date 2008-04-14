@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panasianbiz.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213231848id_/http%3A//www.panasianbiz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasianbiz.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414212135id_/http%3A//www.panasianbiz.com/privacy.html) for the most accurate reproduction.*
 
 # PanAsianBiz: Privacy Policy
 
