@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lehren.tv privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214005056id_/http%3A//www.lehren.tv/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehren.tv privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415195920id_/http%3A//www.lehren.tv/policy.asp) for the most accurate reproduction.*
 
 # :: Lehren.tv - Bollywood Comes home
 
@@ -8,7 +8,7 @@ Lehren Entertainment Private Limited manages various Media contents Online which
 
 Lehren respects the privacy of its users and is committed to protect it in all respects. 
 
-With a view to offer most enriching and holistic internet experience to its users Lehren offers a vast repository of Online videos, Sites, links and variety of community services. Kindly take time to read [About us](https://web.archive.org/web/20071214005056id_/http%3A//www.lehren.tv/about.asp) to know more about Lehren at [www.lehren.tv](https://web.archive.org/web/20071214005056id_/http%3A//www.lehren.tv/index.asp). Most of the Online Community Services are offered for free but you need a Universal Mandatory Registration to surf Lehren online videos. The information about the user is collected by Lehren as (i) information supplied by users and (ii) information automatically tracked while User's navigation on the Lehren website. 
+With a view to offer most enriching and holistic internet experience to its users Lehren offers a vast repository of Online videos, Sites, links and variety of community services. Kindly take time to read [About us](https://web.archive.org/web/20080415195920id_/http%3A//www.lehren.tv/about.asp) to know more about Lehren at [www.lehren.tv](https://web.archive.org/web/20080415195920id_/http%3A//www.lehren.tv/index.asp). Most of the Online Community Services are offered for free but you need a Universal Mandatory Registration to surf Lehren online videos. The information about the user is collected by Lehren as (i) information supplied by users and (ii) information automatically tracked while User's navigation on the Lehren website. 
 
 To avail certain sites / services on our websites, users would be required to provide certain information for the registration process namely: a) Lehren ID, b) Password, c) Email address. All required information is specific and based on the kind of service needed. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly video experience. 
 
@@ -26,13 +26,15 @@ Lehren also believes that the internet is an ever-evolving medium. We may period
 
 We use third-party advertisers to serve ads when you visit our Web sites. These advertisers may use information (excluding your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services which might interest you. 
 
-Any questions or clarifications with respect to this Policy can be sent to Lehren at: [ policy@lehren.tv ](mailto:policy@lehren.tv?subject=Queries%20and%20Clarifications%20with%20respect%20to%20policy)or by normal/physical mail addressed to:  
-Lehren Entertainment Private Limited   
-Kilfire House  
-1st Floor, C-17 Dalia Industrial Area,  
-Off New Link Road, Andheri (West),  
-Mumbai- 400053,  
-India,  
-Tel: +91-22-2673 2333/4/5  
-Fax: +91-22-2674 4650  
+Any questions or clarifications with respect to this Policy can be sent to Lehren at: [ info@lehren.tv ](mailto:info@lehren.tv?subject=Queries%20and%20Clarifications%20with%20respect%20to%20policy)or by normal/physical mail addressed to:  
 
+
+****Lehren Entertainment Private Limited
+
+110, Silver House,  
+Road No 13,  
+MIDC Marol,  
+Andheri(East),  
+Mumbai- 400093,  
+India.Tel : +91 22 4040 8080  
+Fax : +91 22 4040 8000
