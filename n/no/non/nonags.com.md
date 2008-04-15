@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonags.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216042353id_/http%3A//www.nonags.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonags.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415034021id_/http%3A//www.nonags.com/privacy.htm) for the most accurate reproduction.*
 
 # NONAGS.COM. Privacy Policy
 
@@ -29,4 +29,4 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 This site gives children under the age of 18 the ability to publicly post or distribute personally identifiable contact information without prior parental consent. Please take proper measures if you do not wish your child to have access to public forums and message boards. As always, exercise caution when deciding to disclose personal information in a public forum.
 
- **Contacting the Web Site**
+ **Contacting the Web Site:**   [_Contacts Link_](http://www.nonags.com/mail.asp)
