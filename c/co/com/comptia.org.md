@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the comptia.org privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204060154id_/http%3A//www.comptia.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comptia.org privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415123503id_/http%3A//www.comptia.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # The Computing Technology Industry Association
 
-  
-
-
-**CompTIA's Commitment To Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. We never collect or maintain information at our Web site from those we actually know are under the age of 13, and no part of our Web site is structured to attract anyone under the age of 13.   
 **  
 How To Access or Update Your Information**  
@@ -61,6 +57,3 @@ CompTIA may amend this Privacy Statement from time to time. Any such amendments 
 
 **Inquiries or Complaints**  
 If you have any inquiries or complaints regarding this Privacy Statement, [contact us](mailto:webmaster@comptia.org). 
-
-  
-
