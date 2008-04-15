@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scoreslive.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213201959id_/http%3A//www.scoreslive.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoreslive.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415101256id_/http%3A//www.scoreslive.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Scores Live
 
-As always, the privacy, discretion and security of your personal information is AYA Entertainment, Inc.’s, and Scores Media Group LLC’s (collectively, “ScoresLive”) top priority, and we want you to be aware of how we collect and handle information on our site.
+As always, the privacy, discretion and security of your personal information is AYA Entertainment, Inc.â€™s, and Scores Media Group LLCâ€™s (collectively, â€œScoresLiveâ€) top priority, and we want you to be aware of how we collect and handle information on our site.
 
 ScoresLive collects personal information such as your name, address, and email address, when you knowingly provide it to us. Our site uses cookies to deliver content specific to your interests, and for tracking website navigation. In addition, ScoresLive may collect other information provided by you, such as your credit card number, billing address, and date of birth, when you set up an online account. Our servers automatically collect statistical information about IP addresses, e-mail addresses and which browsers are used to visit our site. None of this information is associated with you as an individual. We use these statistics to monitor our site's performance and to make it easier for you to use. Children under eighteen years of age are not eligible to use our services. We request that children do not submit information to us or navigate our website.
 
