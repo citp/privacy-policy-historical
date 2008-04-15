@@ -1,29 +1,64 @@
-> *The following text is extracted and transformed from the ffwd.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206141101id_/http%3A//www.campaigner.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffwd.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415044817id_/http%3A//www.ffwd.com/privacy) for the most accurate reproduction.*
 
-# GOT Corporation - GOT Privacy Policy
+# ffwd | privacy
 
-|  Overview
+ffwd privacy policy
 
-At GOT Corporation, we respect the privacy needs of our valued customers. If your specific questions about our Privacy Policy are not answered below, please contact us via email at [privacy@gotcorp.com](mailto:privacy@gotcorp.com). 
+Please read the following to learn more about our privacy policy and how we protect you.
 
-**Collection and Use of Information by GOT Corporation**  
-GOT Corporation operates a Website, [http://www.campaigner.com](http://www.campaigner.cim/), and Web-based tools such as Campaigner and CampaignerPro. On the Website, GOT Corporation tracks non-personally identifiable information to help us understand our visitors' needs, as related to our web site design. While cookies are used to track a user's session, a visitors' identity is anonymous. Tracking with cookies gives GOT Corporation information about which parts of our site are used most often and what information is viewed. Cookies are not linked to anything that can personally identify a visitor, until a visitor becomes a registered user. Visitors who have provided us with registration information can be tracked during their sessions.
+what this privacy policy covers
 
-**Collection and Use of Customer Information**  
-Through its Web-based tools, GOT Corporation explicitly asks when information that personally identifies you ('Personal Information') is needed. Your personal information is used to facilitate your access to products, and may be used by GOT Corporation to contact you while you are subscribed as a customer. Financial information that is collected is used to verify identity, and to bill either you or your company for products and services, as applicable. Profile data collected by GOT Corporation may be used to display information that is more relevant to you. GOT Corporation also compiles product use information, but in the aggregate only, and may make that aggregate information publicly available.
+This policy covers how ffwd treats personal information that ffwd collect and receive, including information related to your past use of ffwd products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that ffwd does not own or control, or to people that ffwd does not employ or manage.
 
-GOT Corporation only uses your email address to send information that you have requested. As part of your use of any GOT Corporation product, GOT Corporation allows you to elect to receive, or not receive, any information from GOT Corporation or its partners. GOT Corporation adheres strictly to its permission-based email policy. GOT Corporation will not send you commercial offers or advertisements, except as noted above.
+information collection and use
 
-GOT Corporation may scan the content of customers' campaigns to ensure they comply with our [Terms of Use](http://www.campaigner.com/company/termsofuse.php) \- to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. Only a select number of GOT Corporation employees are authorized to view customer data.
+  1. **General**
+    * ffwd collects personal information when you register with ffwd, when you use ffwd products or services, when you visit ffwd pages or the pages of certain ffwd partners. ffwd may combine information about you that we have with information we obtain from business partners or other companies.
+    * When you register we may ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with ffwd and sign in to our services, you are not anonymous to us.
+    * ffwd automatically receives and records information on our server logs from your browser, including your IP address, ffwd cookie information, and the pages and products you requested. All browser activity reporting is done anonymously.
+    * ffwd uses information for the following general purposes: to customize the content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+    * When a new person attempts to register with ffwd, we verify that the person is over the age of 13, in compliance with the Children's Online Privacy Protection Act (COPPA) of 1998
+  2. **Information Sharing and Disclosure**
 
-**Collection and Use of Contacts' Information**  
-GOT Corporation will not sell, rent, or loan our contact lists or our customer's contact lists (including customer data) to any outside firms nor will GOT Corporation use customer contact lists for its own marketing purposes. All emails that a contact has requested will have an option to unsubscribe. Unsubscribe requests are fulfilled within minutes and no further communications will be sent to contacts who have stated that they do not wish to receive the specified information. All GOT Corporation partners who offer you information via email must adhere to this unsubscribe policy.  
-**  
-Information Use by Third Parties**  
-GOT Corporation is compliant with Canada's _Personal Information Protection and Electronic Documents Act_ , the European Commission's _Directive on Data Protection_ , and the United States of America's _Safe Harbor_ program. GOT Corporation will only provide a customer's personal information to third parties with the customer's express written consent or in instances where such disclosure is necessary to process transactions or provide services that the customer has requested. There are two exceptions to this policy. One - if GOT Corporation is compelled to do so by an appropriately empowered governmental authority. Two - if GOT Corporation makes its technology or services available to its customers through its business partners. GOT Corporation will not share with them any more information than is necessary to perform the transaction the customer has requested. Where the customer has purchased GOT Corporation's services through a partner, GOT Corporation may provide customer name and business volume information to the partner. Such partners have agreed to use the information only in regard to analyzing the success of the partnership arrangement. GOT Corporation only does business with partners who agree to respect its Privacy Policy.   
-**  
-Credit Card Information**   
-GOT Corporation allows customers to purchase email marketing services. Financial information is transferred to GOT Corporation through an accredited clearing house partner using SSL.
+ffwd does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you have requested, when we have your permission, or under the following circumstances:
 
-  
-| 
+    * We provide the information to trusted partners who work on behalf of or with ffwd under confidentiality agreements. These companies may use your personal information to help ffwd communicate with you about offers from ffwd and our marketing partners. However, unless you have granted permission, these companies do not have any independent right to share this information.
+    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of ffwd's Terms and Conditions of Use, or as otherwise required by law.
+    * We will transfer information about you if ffwd is acquired by or merged with another company. We will post a notice on our site before this occurs and/or if a new privacy policy will be applicable as a result.
+    * ffwd works with vendors, partners, advertisers, and other service providers. In order to bring you the products and services you have requested, we may share your personal information with them. We will not authorize these service providers to share your information other than as necessary to provide the services you have requested or beyond the extent to which you have granted us permission to do so.
+    * ffwd may display targeted advertisements based on personal information.
+
+
+
+cookies, web beacons, and shared objects
+
+  * ffwd may set and access cookies on your computer. A cookie is a small text file containing a unique identification number that is transferred from a website to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the website. This unique number identifies your web browser to our computer system. A cookie will not allow a website to learn any personally identifiable information (such as your real name and address) that you have not otherwise disclosed. Cookies allow us to automatically remember your web browser when you visit our sites or Service. The use of cookies is an industry standard, and they are currently used on most major websites. It is possible to adjust your Web browser preferences to alert you when a cookie is sent to your hard drive, or to refuse cookies altogether. While we do not require you to use cookies, keep in mind that certain sites and services will not function properly if you set your browser to refuse all cookies.
+  * Web beacons, also known as clear GIFs or single-pixel GIFs, are small image files that we may place on Web pages and within certain email. Working in conjunction with cookies, Web beacons allow us to accurately count the number of unique users who have visited a specific page and the number of times those pages are displayed. We can also use Web beacons to let us know how many people opened certain types of email. This information is only collected in aggregate form and will not be linked to your personally identifiable information. Keep in mind that any image file on a Web page can act as a Web beacon. Third-party advertisers may use Web beacons in their advertisements.
+  * Shared Objects are used to store data on your computer in much the same way that data is stored in a cookie created through a web browser. Various uses of Shared Objects include remembering a user's favorite color, or the last frame of a movie watched. The data can only be read by movies originating from the same domain that created the Shared Object. Shared Objects can not remember a user's e-mail address or other personal information unless they willingly provide such information.
+  * Without cookies, Web beacons, and Shared Objects, it would be difficult for us to know which services have a larger audience than others, or to offer you all the services and functionality that we do. Tracking audience size helps us to better understand when to launch new services and enhance the current offerings.
+  * ffwd lets other companies that show advertisements on some of our pages or offer you products and services in connection with the ffwd service set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to ffwd's cookies.
+
+
+
+your ability to edit and delete your account information and preferences
+
+  1. **General**
+    * You can edit your ffwd account information, including your e-mail notification preferences, at any time by viewing your [User Profile Preferences](https://web.archive.org/profile). New categories of e-mail announcements and marketing messages may be added to the User Profile Preferences page from time to time. Users who visit this page can opt out of receiving future communications from us, and they can unsubscribe by following instructions contained in the messages they receive. We reserve the right to send you certain communications relating to the ffwd service, such as service announcements or administrative messages, without offering you the opportunity to opt-out of receiving them.
+    * You can request to permanently delete your ffwd account by contacting ffwd technical support: [support@ffwd.com](mailto:support@ffwd.com).
+  2. **Confidentiality and Security at ffwd**
+    * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+    * We have physical, electronic, and procedural safeguards that protect personal information about you.
+  3. **Changes to this Privacy Policy**
+    * ffwd may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your ffwd account or by placing a prominent notice on our site.
+
+
+
+contact us
+
+if you have any questions, comments or concerns about our privacy policy, please contact us:
+
+**ffwd privacy**  
+580 Howard St. Suite 302  
+San Francisco, CA 94105  
+[privacy@ffwd.com](mailto:privacy@ffwd.com)
