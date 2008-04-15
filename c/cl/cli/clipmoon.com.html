@@ -1,7 +1,61 @@
-<!--The following is the downloaded HTML source of the clipmoon.com privacy policy that was archived on 2007-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071206092644id_/http%3A//www.clipmoon.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clipmoon.com privacy policy that was archived on 2008-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080415140056id_/http%3A//www.clipmoon.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><script language="JavaScript">
+<!--
+var message="Function Disabled!";
+function clickIE4(){
+if (event.button==2){
+alert(message);
+return false;
+}
+}
+
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+alert(message);
+return false;
+}
+}
+}
+
+
+function disableselect(e){
+return false
+}
+
+function reEnable(){
+return true
+}
+
+//if IE4+
+document.onselectstart=new Function ("return false")
+
+//if NS6
+if (window.sidebar){
+document.onmousedown=disableselect
+document.onclick=reEnable
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+
+document.oncontextmenu=new Function("alert(message);return false")
+
+
+
+
+
+// --> 
+</script>
+
+
 <title>ClipMoon - Share your videos with the world</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="Keywords" content="videos, upload, share, watch, sharing, community">
@@ -452,6 +506,17 @@ However, ClipMoon has no control whatsoever over the content of linked pages aft
 		&nbsp;</p></td>
 
         <td align="right" width="264" valign="top">
+        <table width="80%" border="0" cellspacing="0" cellpadding="0" id="table1">
+
+                                <tbody><tr>
+
+                                        <td align="left">
+										<p align="center"></p></td>
+
+                                </tr>
+
+                                </tbody></table><br>
+
         
                                 <table width="80%" border="0" cellspacing="0" cellpadding="0" id="table1">
 
@@ -514,15 +579,18 @@ google_color_url = "008000";
 
                 <a href="http://www.clipmoon.com/contact/">Contact</a>&nbsp;&nbsp; |&nbsp;&nbsp;
 
-                <a href="http://www.clipmoon.com/rss/">RSS Syndication</a>&nbsp;                </td>
+                <a href="http://www.clipmoon.com/link-us/">Link us</a>&nbsp;&nbsp; |&nbsp;&nbsp;
+                
+                <a href="http://www.clipmoon.com/rss/">RSS Syndication</a>&nbsp;
+                
+                                </td>
 
         </tr>
-
         
 
         <tr>
 
-                <td height="25" align="center"><span class="deep_gray_ragular">Copyright © 2007 Powered By <a href="http://www.clipmoon.com/">ClipMoon</a>. All rights reserved.
+                <td height="25" align="center"><span class="deep_gray_ragular">Copyright © 2007-2008 Powered By <a href="http://www.clipmoon.com/">ClipMoon</a>. All rights reserved.
                 <!-- etracker PLUGIN DETECTION 2.4 -->
 <script type="text/javascript" src="http://www.etracker.de/et_mmedetect.js"></script>
 <!-- etracker PLUGIN DETECTION END -->
@@ -611,7 +679,7 @@ et_sc  =  (   (   screen.pixelDepth  )   ?   screen.pixelDepth
 'lientWidth;et_ih=document.documentElement.clientHeight;}els'+
 'e if(document.body){et_iw = document.body.clientWidth; et_i'+
 'h = document.body.clientHeight; }' ) ; } //--></script>
-<script type="text/javascript"> et_eC( 'o9sHFx' );</script><a target="_blank" href="http://www.etracker.de/app?et=o9sHFx"><img border="0" alt="" src="http://www.etracker.de/cnt.php?v=2.4&amp;java=y&amp;tc=1580474225313&amp;et=o9sHFx&amp;et_ilevel=0&amp;swidth=800&amp;sheight=600&amp;siwidth=1366&amp;siheight=768&amp;scookie=1&amp;scolor=24&amp;p=undefined&amp;et_target=,0,0,0,0&amp;et_url=https%3A//web.archive.org/web/20071206092644id_/http%3A//www.clipmoon.com/privacy/&amp;slang=en-US"></a>
+<script type="text/javascript"> et_eC( 'o9sHFx' );</script><a target="_blank" href="http://www.etracker.de/app?et=o9sHFx"><img border="0" alt="" src="http://www.etracker.de/cnt.php?v=2.4&amp;java=y&amp;tc=1580474232503&amp;et=o9sHFx&amp;et_ilevel=0&amp;swidth=800&amp;sheight=600&amp;siwidth=1366&amp;siheight=768&amp;scookie=1&amp;scolor=24&amp;p=undefined&amp;et_target=,0,0,0,0&amp;et_url=https%3A//web.archive.org/web/20080415140056id_/http%3A//www.clipmoon.com/privacy/&amp;slang=en-US"></a>
 
 <!-- etracker CODE NOSCRIPT -->
 <noscript>
@@ -632,7 +700,7 @@ var color = Math.pow(2,screen.pixelDepth);
 var cookie = (navigator.cookieEnabled == true) ? "on" : "off";
 var java = (navigator.javaEnabled() == true) ? "on" : "off";
 document.write('<script src="http://www.clipmoon.com/cgi-bin/counter/count.cgi?action=index&cookie=' + cookie + '&java=' + java + '&location=' + escape(document.location) + '&ref=' + escape(document.referrer) + '&ref2=' + escape(top.document.referrer) + '&farbe=' + color + '&bit=' + screen.colorDepth + '&width=' + screen.width + '&height=' + screen.height + '"><\/script>');
-//--></script><script src="http://www.clipmoon.com/cgi-bin/counter/count.cgi?action=index&amp;cookie=on&amp;java=off&amp;location=https%3A//web.archive.org/web/20071206092644id_/http%3A//www.clipmoon.com/privacy/&amp;ref=&amp;ref2=&amp;farbe=16777216&amp;bit=24&amp;width=800&amp;height=600"></script>
+//--></script><script src="http://www.clipmoon.com/cgi-bin/counter/count.cgi?action=index&amp;cookie=on&amp;java=off&amp;location=https%3A//web.archive.org/web/20080415140056id_/http%3A//www.clipmoon.com/privacy/&amp;ref=&amp;ref2=&amp;farbe=16777216&amp;bit=24&amp;width=800&amp;height=600"></script>
 </span>
 		
 				</td>
