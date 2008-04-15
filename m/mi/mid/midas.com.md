@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midas.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215144126id_/http%3A//midas.com/LinkClick.aspx%3Flink%3D168%26tabid%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midas.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415052344id_/http%3A//www.midas.com/LinkClick.aspx%3Flink%3D168%26tabid%3D36) for the most accurate reproduction.*
 
 # Your Privacy Rights - Midas
 
@@ -21,7 +21,7 @@ To better meet your needs, we may supplement the information we collect with dat
 Midas will not trade, sell, or share the personal information you have voluntarily submitted with any third party without your consent, unless required by law or as disclosed to you when the information is collected, except that personal information you provide may be used by Midas, its franchisee dealers, or third-party business partners who may need to use such information to help Midas administer certain promotions, provide technical services for this website, analyze your opinion of Midas, address a question or concern about our products and services, etc. If you do provide us with your consent, we may also share your personal information with third parties so that they may send you product offers, personalized offers and tips, or ask for your feedback on how to make their products and programs better for yourself and others. 
 
 **UPDATE YOUR PERSONAL INFORMATION  
-** If you want to update any personal information you previously provided to Midas, or if you want to start receiving or stop receiving email promotions, please do any one of the following: (1) send an email to [MidasCustomerCare@midas.com](mailto:MidasCustomerCare@midas.com) with an explanation of your specific request; (2) call 1-800-278-2206 and speak to one of our Midas Customer Care representatives about your specific request; or (3) write to: Midas International Corporation, Attn: Marketing Department; Website Request; 1300 Arlington Heights Road, Itasca, Illinois 60143 with an explanation of your specific request.
+** If you want to update any personal information you previously provided to Midas, or if you want to start receiving or stop receiving email promotions, please do any one of the following: (1) send an email to [bmidas@midas.com](mailto:MidasCustomerCare@midas.com) with an explanation of your specific request; (2) call 1-800-278-2206 and speak to one of our Midas Customer Care representatives about your specific request; or (3) write to: Midas International Corporation, Attn: Marketing Department; Website Request; 1300 Arlington Heights Road, Itasca, Illinois 60143 with an explanation of your specific request.
 
  **COOKIES**   
 Cookies help us make your visit to our website more enjoyable and meaningful to you. A cookie is a small text information file that your web browser places on your computer when you visit a website. This helps us to recognize you when you return to our site. We may use such technology to obtain non-personal information from you as an online visitor. 
@@ -36,7 +36,7 @@ This website may contain links to other websites. Midas does not control the pri
 By using this website or any other Midas website or interactive banner ads, you signify your acceptance of our privacy statement and conditions posted on the website. We reserve the right to update, change, modify or remove portions of this policy at any time. Please check back for updates to our Privacy Statement. 
 
 **CONTACT US  
-** If you have any questions about this website or our On-line Privacy Policy, you can contact Midas by email at: [mben@midas.com](mailto:mben@midas.com), by telephone at (630) 438-3000, by fax at (630) 438-3700, or by regular mail at Midas International Corporation, Attention: Monica Ben, 1300 Arlington Heights Road, Itasca, Illinois 60143.  
+** If you have any questions about this website or our On-line Privacy Policy, you can contact Midas by email at: [bmidas@midas.com](mailto:MidasCustomerCare@midas.com), by telephone at (630) 438-3000, by fax at (630) 438-3700, or by regular mail at Midas International Corporation, Attention: Monica Ben, 1300 Arlington Heights Road, Itasca, Illinois 60143.  
 Top
 
  Canadian Consumer Privacy Statement
