@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipmoon.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206092644id_/http%3A//www.clipmoon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipmoon.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415140056id_/http%3A//www.clipmoon.com/privacy) for the most accurate reproduction.*
 
 # ClipMoon - Share your videos with the world
 
@@ -15,5 +15,6 @@ Your personal data will be kept confidential to the extent required by law and, 
 ClipMoon makes no representations or warranties whatsoever regarding the accuracy, correctness, completeness or quality of information offered via User Content. ClipMoon shall not be liable for any damage or injury caused by the use of, or reliance on, incorrect or incomplete information provided by sources other than ClipMoon, unless the damage or injury is the result of intentional or gross negligence on the part of ClipMoon. All offers are non-committal and without engagement. ClipMoon specifically reserves the right to alter, amend, or occasionally and/or permanently delete in whole or part any User Content.  
 ClipMonn shall not be liable for the content of any information available through direct and indirect links to external websites ("Hyperlinks"), unless Clipmoon has actual knowledge of illegal content and has the technological capability to block or delete such information and fails to do so. However, ClipMoon has no control whatsoever over the content of linked pages after their initial creation and disclaims any liability for the content of linked pages which are altered after their initial creation. The third party who has created any Hyperlink shall be solely responsible for illegal, faulty or incomplete content thereon and especially for any damages which arise from reliance on, or use of, information referred to therein. 
 
-|   
+|    
+  
 ---|---|---
