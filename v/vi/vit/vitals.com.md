@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitals.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216132216id_/http%3A//www.vitals.com/ctl/pg_privacy.ctl.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitals.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415050346id_/http%3A//vitals.com/ctl/pg_privacy.ctl.php) for the most accurate reproduction.*
 
 # Vitals - Privacy Policy.
 
@@ -10,7 +10,7 @@ To protect Your privacy, Vitals does not associate Your website navigation activ
 
 Aggregated Non-Personal Information is information about some or all of the users of Vitals, but unlike the Personal Information, does not reflect or reference an individually identifiable user. The Aggregated Non-Personal Information may be formed from the Personal or Excluded Information, but any of the Personal or Excluded Information used to form the Aggregated Non-Personal Information has been processed to no longer reflect or reference an individually identifiable user. 
 
-Vitals (or "we") may obtain, collect, retain, store or otherwise maintain the Personal Information from the following sources. Notwithstanding this, we may give you the opportunity to (i) opt out from allowing us to obtain, collect, retain, store or otherwise maintain some or all of the Personal information, and/or (ii) request that You masquerade the information You provide to prevent such information from personally identifying You. If you opt out or otherwise decline to submit Personal Information, Vitals may not be able to or may choose not to provide to You some or all of our Products and Services. 
+Vitals (or "we") may obtain, collect, retain, store or otherwise maintain the Personal Information from the following sources. If you decline to submit Personal Information, Vitals may not be able to or may choose not to provide to You some or all of our Products and Services. 
 
 _**Information You provide to Vitals.com**_
 
