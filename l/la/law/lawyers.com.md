@@ -1,72 +1,61 @@
-> *The following text is extracted and transformed from the lawyers.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630123108id_/http%3A//www.lawyers.com/utility/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyers.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416081414id_/http%3A//research.lawyers.com/news-headline/Privacy-notices-are-worth-reading-to-keep-your-information-secure-l%3A768019882.html) for the most accurate reproduction.*
 
-# None
+# Home Page
 
-**Martindale-Hubbell Privacy Policy**
+**BODY:  **
 
- **Privacy Policy Table of Contents:**  
-Our Commitment To Privacy | The Information We Collect | How We Use Information | Public Forums | Our Commitment To Data Security | How To Access Or Correct Your Information | How To Contact Us
+Mar. 31--They come as envelope stuffers in your bank statement, your credit-card or insurance bill -- those privacy notices that companies must send to customers each year.
 
- **Our Commitment To Privacy**
+Most consumers throw them away without reading them. But because personal privacy is so highly valued, you should read them to know how companies use your personal information and how you can prevent its widespread release.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
+"They do provide some value in that they will notify you of certain rights that you have to opt out of information sharing," said Paul Stephens, director of policy and advocacy at the Privacy Rights Clearinghouse in San Diego. "Unfortunately, the law is riddled with a lot of exceptions." 
 
-This notice applies to all information collected from or submitted to the Martindale-Hubbell ("Martindale") Web sites located at [www.lawyers.com](http://www.lawyers.com/), [www.martindale.com](http://www.martindale.com/), collectively referred to here as "our Web site." Other Martindale Web sites may operate under their own privacy notices. Our Web site contains links to other Web sites operated by third parties. Martindale is not responsible for the privacy practices or policies of such third-party Web sites.
+Federal law gives you the right to protect your personal financial information from being released or sold by banks and other financial services companies you do business with.
 
- **The Information We Collect**
+You do this by "opting out" -- which means that your bank, credit-card company, insurance company or brokerage firm is free to sell your customer data to or share it with other companies unless you specifically tell them not to.
 
-Our Web site is not set up to automatically collect personally-identifiable information from visitors to our Web site. It does recognize the home server of visitors, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our Web site. The server information is used only for internal purposes by our technical support staff.
+The law requires companies to send privacy notices to customers once a year telling them how the company collects and uses their information and how they can limit the use and disclosure of that data.
 
-Our Web site does track certain non-personally-identifiable information about the visits to our Web site. For example, we compile aggregate statistics that show the numbers and frequency of visitors to our Web site and its individual pages. These aggregated statistics are used internally to improve our Web site and for product development and marketing purposes generally. The aggregated non-personal statistics may also be provided to advertisers and other third parties for certain purposes, but again, the statistics contain no personally-identifiable information and cannot be used to gather such information.
+"Privacy notices are not privacy rights," said Ed Mierzwinski, consumer program director for the U.S. Public Interest Research Group. "The notices tell you basically that the bank can do whatever it wants with your information, even if you don't want it to.
 
-In a few areas on our Web site, we may ask you to provide personally-identifiable information that will enable us to verify whether you are entitled to access and use certain information, materials and services available from our Web site; to enable us to enhance your site visit; to assist you with customer service or technical support issues; to follow up with you after your visit; or to otherwise support your customer relationship with Martindale. Your provision of this information and participation in the areas that require it is completely optional. You may decide not to provide the information and not to visit or access the areas that require it.
+"You have a limited right to opt out of their sharing with third-party telemarketers, but the law gives financial firms the right to share your information with their affiliates and many other third-party companies they do business with, regardless of your choice," he added.
 
-For example, we may request such information from you when you:
+"If the bank offers any opt-outs, it is in your interest to take them, but understand that it won't stop most sharing."
 
-1\. Log-on to certain areas of our Web site that require your user name and password as a condition to gaining access to the information, materials or services in that area.
+Bankers say consumers do have power.
 
-2\. Register or sign-up to subscribe to a service.
+"You're able to opt out," said John Hall, spokesman for the American Bankers Association. "It puts the consumer in the driver's seat."
 
-3\. Subscribe to a newsletter or ask to be added to our mailing lists for other products or services.
+Consumer and privacy advocates said the best privacy policies are ones that allow you to "opt in," which prohibits a financial institution from sharing or selling your data if you don't give your affirmative consent.
 
-4\. Place an order for a product or service.
+Under current law, it's important that you respond to the privacy notice if you don't want your information shared. Otherwise, you're giving your implied consent for the financial institution to share your data.
 
-5\. Participate in a sweepstakes or other promotional offer.
+"If you say nothing, it means, 'Yes, you can share my data,' " the Privacy Rights Clearinghouse said. "The default for the opt-out approach is that your data is shared until and unless you notify the company otherwise."
 
-6\. Provide feedback in an online survey.
+You must respond using the exact method that the company provides you, be it online or through a toll-free number.
 
-In each of the instances above, we typically ask for some or all of the following information: your name, e-mail address, phone number, mailing address, the type of business you are in, product preference information, any applicable identification number or password that we may require, as well as other similar information that is needed to register or subscribe you to services or offers. On occasion, we may ask for additional information to enable us to provide you with access to and use of certain other information, materials and services. In the case of mailed materials, you will be able to "unsubscribe" to these mailings at any time.
+"If you utilize another method for opting out, they may not honor that request," Mr. Stephens said.
 
- **How We Use Information**
+Opting out allows you to prevent a company from sharing "personally identifiable financial information" with nonaffiliated third parties -- companies, individuals and organizations that aren't affiliated with the firm you're doing business with.
 
- **Martindale uses your personal information only for specific purposes.** The personal information you provide to us when using our Web site -- such as your name, postal or e-mail address or telephone number -- will be kept confidential and used to support your customer relationship with Martindale. It also may be used to notify you of special offers, updated information and new products and services from Martindale, or offers from third parties that we think may be of interest to you. Agents or contractors of Martindale who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for Martindale.
+That information includes your Social Security number, bank account numbers and credit-card numbers.
 
-Martindale may merge your information collected at our Web site with similar data from third parties for purposes of marketing products or services to you.
+But the law has many exceptions:
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you on this site. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. For more information about DoubleClick, cookies, and how to opt-out of this service, please [click here](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&).
+\-- You can't prevent a company from sharing information about you with a company owned or controlled by the same people or parent company as the one sending the privacy notice to you.
 
-Other unique circumstances may arise where we are required to disclose your personal information to third parties, such as in connection with a corporate divestiture or dissolution where all or a portion of our business or assets (including our associated customer lists containing your personal information) are sold, or if disclosure is required by law or is pertinent to judicial or governmental investigations or proceedings.
+However, under the federal Fair Credit Reporting Act, you can opt out of having information about your creditworthiness shared with company affiliates.
 
- **You can opt-out of receiving further marketing materials from Martindale at any time.** We may send you information about our various products and services, or other products and services we feel may be of interest to you. Only Martindale (or agents or contractors working on behalf of Martindale and under confidentiality agreements) are authorized to send you these direct mailings. If you do not want to receive such mailings, you can tell us when you give us your personal information. Or, at any time, you can opt-out of receiving further marketing materials from Martindale by [clicking here](mailto:opt_out@martindale.com?subject=Opt%20Out).
+\-- You can't opt out of the sale or sharing of your customer data with joint marketers. Those are third parties that have contracted with the company you do business with to sell you products.
 
- **Public Forums**
+An example would be if your credit-card company enters into an agreement with another company to sell you insurance against loss on your credit-card account.
 
-Our Web site may make chat rooms, forums, message boards and other interactive features available to you. Please remember that any information that is disclosed in these areas is not protected as confidential and becomes public information. You are solely responsible and should exercise caution when deciding to disclose any personal information in these areas.
+\-- You can't prevent a company from sharing "publicly available information," such as your telephone number, unless you have an unlisted number.
 
- **Our Commitment To Data Security**
+\-- You can't prevent a company from sharing with its affiliates transactional information that may include such things as the charges you make on your credit card or the checks you write. However, you can opt-out of the sharing or sale of this information to a nonaffiliated third party.
 
-To prevent unauthorized access to your personal information, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+"What you want to look at," Mr. Stephens said, "is, do they disclose nonpublic personal information, do they disclose it to affiliates and do they disclose it to third-party nonaffiliates?"
 
- **How You Can Access Or Correct Your Information** You can request a copy of the personally-identifiable information that Martindale has collected about you via the Internet by contacting our Information Privacy Manager at the address below. You can also have factual inaccuracies in this information corrected by contacting this same person.
+The answers to those questions are critical to protecting your privacy and identity. The more sources that have your information, the greater the chance that one of them could experience a breach of that sensitive data.
 
- **How To Contact Us** If you would like to contact us for any reason regarding our privacy practices, please write or e-mail us at the following address:
-
- _Martindale-Hubbell  
-Information Privacy Manager  
-121 Chanlon Road  
-New Providence, NJ 07974  
-E-mail: [terms@martindale.com](mailto:terms@martindale.com?subject=Privacy%20Practices)_
-
-July 15, 2002
-
-Back To Top
+To see more of The Dallas Morning News, or to subscribe to the newspaper, go to [http://www.dallasnews.com](http://www.dallasnews.com/). Copyright (c) 2008, The Dallas Morning News Distributed by McClatchy-Tribune Information Services. For reprints, email [tmsreprints@permissionsgroup.com](mailto:tmsreprints@permissionsgroup.com), call 800-374-7985 or 847-635-6550, send a fax to 847-635-6968, or write to The Permissions Group Inc., 1247 Milwaukee Ave., Suite 303, Glenview, IL 60025, USA. 
