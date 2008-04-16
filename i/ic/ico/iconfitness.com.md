@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the iconfitness.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218192138id_/http%3A//www.iconservice.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconfitness.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416044228id_/http%3A//www.iconservice.com/privacy.html) for the most accurate reproduction.*
 
 # ICON Health & Fitness, Inc. Customer Service - Privacy Policy
 
   
 [Manuals](https://web.archive.org/manuals.html)  
 [Replacement Parts](https://web.archive.org/parts.html)  
-[Check Order Status](https://web.archive.org/serviceapps/ControllerServlet?action=O)  
+Check Order Status  
 [FAQ](https://web.archive.org/faq.html)  
 [Contact Us](https://web.archive.org/contact.html)  
 [Product Feedback](https://web.archive.org/feedback/index.html)  
