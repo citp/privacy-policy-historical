@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hertfordshiremercury.co.uk privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214202958id_/http%3A//www.hertfordshiremercury.co.uk/hertfordshiremercury-aboutus/DisplayArticle.asp%3FID%3D79375) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertfordshiremercury.co.uk privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416051220id_/http%3A//www.hertfordshiremercury.co.uk/hertfordshiremercury-aboutus/DisplayArticle.asp%3FID%3D79375) for the most accurate reproduction.*
 
 # Privacy Policy - About Us - Hertfordshire Mercury
 
@@ -46,9 +46,6 @@ The Media Centre
 Hertford  
 Hertfordshire  
 SG13
-
-  
-
 
 Story First Published: 24/04/2007 13:43:06
 
