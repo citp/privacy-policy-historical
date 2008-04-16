@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datingsitebuilder.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225211722id_/http%3A//www.datingsitebuilder.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingsitebuilder.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416021711id_/http%3A//www.datingsitebuilder.com/privacy.asp) for the most accurate reproduction.*
 
-# Dating script, dating site, dating software by Datingsite Builder
+# Dating Software Script by Datingsite Builder
 
 Datingsite Builder is committed to respecting and protecting the privacy of visitors to our web sites as well as the privacy of our actual customers. 
 
