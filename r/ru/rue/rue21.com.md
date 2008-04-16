@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the rue21.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606055343id_/http%3A//www.rue21.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rue21.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416224147id_/http%3A//www.rue21.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # rue21: hot fashions @ cool prices
+
+  
+
 
 Welcome to rue21's ("rue21") website, owned and produced by rue21. rue21 owns and operates the domain name and website rue21.com (collectively, including rue21, referred to as "rue21"). rue21 Products and Services are offered by rue21 through the www.rue21.com website ("rue21 Website" or "Website") and are made available subject to this Privacy Policy. This statement discloses the privacy practices of rue21. By using the rue21 Website, the user agrees, without limitation or qualification, to be bound by this Privacy Policy. This policy may be updated from time to time so please check back periodically.
 
