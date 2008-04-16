@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mastermindpros.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011092855id_/http%3A//www.mastermindpros.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastermindpros.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416064249id_/http%3A//www.mastermindpros.com/content/view/106/117) for the most accurate reproduction.*
 
-# Privacy Policy
+# Mastermind Pros - Privacy Policy
 
 ### WEBSITE PRIVACY POLICY
 
