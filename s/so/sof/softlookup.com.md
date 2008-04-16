@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softlookup.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224073658id_/http%3A//www.softlookup.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softlookup.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416123227id_/http%3A//www.softlookup.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy statement
 
@@ -14,12 +14,6 @@ The information we collect is used for internal review and is then discarded.
 With respect to cookies: We use cookies to store visitors preferences.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
-
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by contacting us at the mail provided above.
-
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by contacting us at the mail provided above.
-
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
