@@ -1,59 +1,80 @@
-> *The following text is extracted and transformed from the elicense.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014231830id_/http%3A//www.elicense.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elicense.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416131034id_/http%3A//www.elicense.com/privacy-note.html) for the most accurate reproduction.*
 
-# ViaTech Technologies, Inc. - Privacy Policy
+# eLicense - Helping your Business Grow
 
-|   
----  
-[](https://web.archive.org/default.asp) |   
-[](https://web.archive.org/who/default.asp) |   
-[](https://web.archive.org/how/default.asp) |   
-[](https://web.archive.org/what/default.asp) |   
-[](https://web.archive.org/why/default.asp) |   
-[](https://web.archive.org/contact.asp) |   
-  
-The Internet has changed the way we all communicate and interact with each other. While the Internet allows each of us access to a greater array of information and services than has ever been available; these new online activities do raise new challenges and privacy issues. ViaTech Technologies, Inc. is committed to enforcing your electronic privacy. Most importantly, having a relationship with our customers that is based on trust is extremely important to our business operations and philosophy. We welcome any feedback you may have to help us better meet your privacy concerns. Send your feedback to: [privacy@elicense.com](mailto:privacy@elicense.com)
+**Privacy Note**
 
-**Our Commitment to You:**   
-ViaTech Technologies, Inc. wants to make your online experience satisfying and safe. We pledge that ViaTech will not release your personal data to anyone else without your consent - period.   
-You may change the status of whether you wish to receive offers and communications at any time from ViaTech.   
-When we do present information to our advertisers, unless you tell us otherwise, it is in the form of aggregate statistics compiled among all of our visitors' data collected.   
-ViaTech collects information online primarily to make it easier and more rewarding for you to use our site and services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address, or information about what you like and do not like. On other occasions such as when we provide items for purchase online, we may request your credit card number to conclude the transaction and your mailing address to ensure proper delivery. We request this information to provide our strongest value to you - outstanding customer service.   
-Information collected online is often defined as being either anonymous or personally identifiable:  
+elicense.com, Inc. is committed to protecting your personal information and respecting your privacy.  
+In general, you can visit elicense.com, Inc. on the Web without telling us who you are or revealing any information about yourself. 
 
+elicense.com, Inc. will never sell, rent or disclose your personally identifiable information to outside parties without your consent unless compelled by law or court order to do so. With your permission, elicense.com, Inc. may send you e-mail regarding our new products, upgrades, or select third party products. In any case, we do not disclose your personally identifiable information to such third parties. Please see below regarding how our privacy policy applies when you purchase third party products on our Web site.
 
-  1. **Anonymous Information** refers to information that cannot be tied back to a specific individual. For instance, we may know that 10,000 people visit this Privacy Policy today, but we do not necessarily know their names, where they live, or their date of birth. What we collect from transactions such as this constitutes anonymous information, much like how your hometown's bus service knows how many people take a given route - but doesn't necessarily know who those people are. Many of the individuals who access our services decline to use the option to receive email from us in the registration page, and therefore those individuals are anonymous to us and the data we collect is similarly anonymous information.
-  2. **Personally Identifiable Information** refers to information that tells us specifically who you are, such as your name, phone number, or billing/shipping address, and possibly credit card information. In many cases we need this information to process an order that you have requested, or email information to you per your request. Those requests may include, but are not limited to, support questions, product updates, or future promotions.
+**What Information We Gather and Track**
 
+There are times when we may need to collect information from you through our Web site. This generally involves filling out forms so you can download or order a elicense.com, Inc. or third party product from our Web site. When you download the products we require you to fill out a form with your name and email address. elicense.com, Inc. uses various methods to collect certain other kinds of information, including: 
 
+Cookies   
+Referers   
+IP addresses   
+System information
 
-**How the Information is Used:**   
-When you surf the Internet, your Internet browser (such as Netscape Navigator® or Microsoft Internet Explorer) automatically transmits information to ViaTech every time you access content on our site. Examples of such information include the visitor's domain name (e.g., whether the user is logged on from ibm.com or yale.edu), URL of the Web page you were just on (known as the "Refer"), the IP (or Internet Protocol) address of the computer you are using, or the browser version and platform type (e.g. Netscape on a Windows platform) you are using to access our site. All of this information is collected by ViaTech and is used to help improve our offerings to you.   
-In addition to collecting these types of information, our search engine, collects aggregate search terms for internal reporting and targeted advertising. The ViaTech Web site collects visitor information for purposes of product monitoring, product improvement, and targeted advertising.   
-We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the ViaTech properties, etc.). To these ends, we may merge information about you into group data, which may then be shared, on an aggregated basis with our advertisers; but ViaTech will not disclose your individual identity or personal data without your permission. When ViaTech does present aggregated information to outside companies, no one will be able to identify you or contact you. 
+None of these methods can be personally identified with you with the exception of cookies, which can optionally store information that you may enter in forms on our Web site, as described below. elicense.com, Inc. may use Globally Unique Identifiers (GUIDs) to notify us of the installation of one of elicense.com, Inc.' products. 
 
-**With Whom is This Information Shared?**   
-ViaTech does not share personally identifiable information except during the processing of some requests for information or services. In this case, information may (but will not necessarily) be referred to one of ViaTech's service partners who will be able to assist in the processing of that request. Any partner or off-site assistant will be required not to disclose personally identifiable information to others and not to share that information with marketers. Site users can opt out of having their request referred to an outside partner by checking a box on the order confirmation form.   
-ViaTech is a supporter of the TRUSTe program (a global initiative for establishing consumer trust and confidence in electronic transactions by protecting on line privacy via industry-standard online privacy policy disclosure.) Under no circumstances does ViaTech compile "audit trails" of which users are browsing what pages, and under no circumstances will ViaTech sell, rent, loan or give personally identifiable user information to marketers.   
-ViaTech does not monitor private communications (e.g. email) at all, much less make any use of such communications. ViaTech does not display or make available users' or members' personal information, such as contact information, even if it is already publicly available. 
+A "cookie" is an element of data that a Web site can send to your browser, which may then store it on your system. It can be used to provide you with a tailored user experience. Some elicense.com, Inc. pages use cookies. Cookies are used to better personalize the content, banners and promotions that you and other users will see. We may use the information to research and understand how our users' habits in the aggregate are similar or different so that we can enhance your experience on elicense.com, Inc. sites and with our products. With your consent, cookies can optionally store information from forms that you fill out on our site so that next time you visit, you do not have to re-enter this information. For example, this would allow you to enter your zip code so that next time you visit, you can automatically see local content from your area. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. elicense.com, Inc. does not require that you accept cookies. 
 
-**Security**   
-ViaTech uses all available security measures to protect both personally identifiable information & anonymous information collected from this web site. 
+A "referer" is the information passed along by a web browser that references the Web URL you linked from, and is automatically collected by our Web server. This information is collected and used by elicense.com, Inc. to understand the web sites referring traffic to our download pages and to present appropriate content to our potential customers. Referer information is tabulated by elicense.com, Inc. on an aggregated basis to identify general trends and traffic patterns. 
 
-**Opt-out Policy**   
-ViaTech allows users to opt-out of receiving further communications by "unchecking" a check-box on the Registration Page, or by replying to e-mail and putting "unsubscribe" in the subject field. Alternatively, any user who wishes to opt-out of receiving further communications can send an email to privacy@elicense.com and request that they be removed from our mailing list. 
+From time to time, elicense.com, Inc. may enter into agreements with content partners that require elicense.com, Inc. to count the number of product downloads and/or product sales stemming from a referral from a content partner site. This information is collected, used and aggregated by elicense.com, Inc. to fulfill the reporting requirements of those agreements. This information may also be combined with the referer information described above and tabulated on an aggregated basis to identify general trends and traffic patterns. At the time of product download and/or purchase, information you provide to elicense.com, Inc., including personal information and referring URL's, is collected in our web server logs and customer database and is kept strictly confidential and not shared with third parties. 
 
-**Correct/Update Policy**   
-ViaTech allows users to correct or update their information by contacting their account representative. Alternatively, any user who wishes to update their information can send an email to [privacy@elicense.com](mailto:privacy@elicense.com) and provide their corrected information. 
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer so that data (such as the Web pages you request) can be sent to you. They are automatically gathered by our Web server. elicense.com, Inc. will not use your IP address to attempt to identify your personal information. 
 
-**Delete/Deactivate Policy**   
-This site does not offer a way to delete your information from our database. If you request that your information is no longer be used, your request will be processed & honored. 
+System information we gather includes time, type of Web browser being used, the operating system/platform, and CPU speed. This information is sent automatically by your Web browser when you are connected to a Web site and is used by elicense.com, Inc. only for broad demographic statistics. This information is used by elicense.com, Inc. in identifying broad demographic trends and may be used to provide information appropriate for your computer system. You will not be personally identified from this information. 
 
-**Links to other sites**   
-This site contains links to other sites. ViaTech is not responsible for the privacy practices or the content of such Web sites. We encourage you to read the privacy statements of these linked sites, as their Privacy Policy may differ from ours. 
+**What We Do With the Information We Gather and Track**
 
-ViaTech Technologies, Inc.  
-[Contact Us](https://web.archive.org/contact.asp)
+The personally identifiable information gathered from the forms you fill out on our Web site is used in one of three ways: 
 
-* * *
+To provide you with information or to ask you to participate in surveys about products, services, news and events, to allow you to purchase and download products; and to aggregate broad demographic information in order to understand general user trends. elicense.com, Inc. retains the services of certain outside contractors to perform services on our behalf. At times, we must disclose relevant information about our customers to our contractors so they may provide specific services for elicense.com, Inc.. elicense.com, Inc. requires such contractors to keep your information strictly confidential and to use the information solely on behalf of elicense.com, Inc.. For purposes of this Privacy Statement, such contractors are not considered "third parties" and elicense.com, Inc. may disclose personally identifiable information to such contractors without additional notice. 
 
-© 2006 ViaTech Technologies, Inc. [Privacy Policy.](https://web.archive.org/privacy.asp)
+In addition, the elicense.com, Inc. Web sites contain links to other Web sites. However, elicense.com, Inc. is not responsible for the privacy practices or the content of such Web sites. 
+
+**What We Do with Information Gathered When You Acquire Third Party Products**
+
+elicense.com, Inc. will never sell, rent or disclose to third parties our users' personally identifiable information collected from the distribution of elicense.com, Inc. products or gathered on a elicense.com, Inc. Web site. If you purchase a product or service developed or owned by a third party, elicense.com, Inc. may provide to the product owner or licensor the same information you provide to us. 
+
+Special Third Party Relationships 
+
+On occasion, elicense.com, Inc. will offer our product users and web site visitors the opportunity to participate in third party or co-branded promotions, sweepstakes or special programs. The use of any information provided by a user in entering such a third party promotion will be specified prior to the user providing such information. We will also specify the manner in which such information is to be used. If your personal information is to be shared with a third party, it will only be done so with your advance informed consent. 
+
+These relationships will be clearly identified by elicense.com, Inc. 
+
+The privacy policy or policies governing such third party promotions and/or co-branded programs will be specified. 
+
+**Communications to our Consumers**
+
+In addition to product update, promotional and informational e-mails that elicense.com, Inc. sends to its users from time to time, we may, on occasion, invite you to participate in a focus group, phone survey or send you postal mail. You may always opt-out of receiving such mail by clicking on the link provided at the bottom of our e-mail to you. Once you supply us with personal information, such as an e-mail address, elicense.com, Inc. does not change the manner of usage of such information from its original purpose, unless we first obtain your informed consent. 
+
+**Security of Personal and Payment Information**
+
+elicense.com, Inc. maintains controls to provide security over certain financial information you provide us, including credit card details, during the purchase process. This is evidenced through the use of secure connections using SSL to safeguard information when transmitted from the customer's web browser to Rocket the logical authentication security within the databases that store customer's credit card numbers use of encryption of credit card numbers. elicense.com, Inc. employees are required to acknowledge that they understand and will strictly abide by our corporate policies with respect to the confidentiality of user personal information. 
+
+elicense.com, Inc. only gives access to databases containing personal information to employees on a need to know basis. Passwords are regularly changed pursuant to security protocols. Our security procedures are reviewed on at least a quarterly basis. 
+
+**Changes to our Privacy Policies**
+
+We revise our Web Site Privacy policy to keep it up to date with elicense.com, Inc. products, services and web pages. We also post FAQ's from time to time on specific products. 
+
+**What Sites This Covers**
+
+elicense.com, Inc. owns and maintains a variety of Web sites. Each of these sites may have their own mailing lists or other methods of contacting customers. All of the sites follow this privacy statement for gathering information or sharing personally identifiable information with third parties. 
+
+elicense.com, Inc. will use reasonable efforts to comply with this privacy statement and will take prompt corrective action when it learns of any failure to comply with its privacy statement. Because of the complex and constantly changing nature of our technology and business, elicense.com, Inc. does not guarantee error-free performance under this privacy statement. elicense.com, Inc. shall not be liable for any incidental, consequential or punitive damages relating to this privacy statement. 
+
+**Contacting Us about Privacy**
+
+If you have any questions about this privacy statement, the practices of our software or Web sites, you may contact:   
+Privacy Policy Group   
+elicense.com, Inc.   
+2847 Grey Oaks Blvd.   
+Tarpon Springs, Fl 34689   
+USA 
