@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packardbell.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215030222id_/http%3A//www.packardbell.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packardbell.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416225639id_/http%3A//www.packardbell.com/terms.html) for the most accurate reproduction.*
 
 # Packard Bell - terms and conditions, personal privacy, data protection
 
