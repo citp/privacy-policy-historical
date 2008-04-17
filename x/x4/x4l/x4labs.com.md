@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the x4labs.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225144757id_/http%3A//www.x4labs.com/privacy-shipping.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x4labs.com privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418001945id_/http%3A//www.x4labs.com/privacy-shipping.htm) for the most accurate reproduction.*
 
 # Privacy and Shipping Information
 
-**Security and Privacy Policy**
+## **Security and Privacy Policy**
 
 As each patients privacy is greatly important to us, X4 Labs will never disclose any personal information to any third-parties. Your name, e-mail address and all other personal information will not be sold or used for any other purpose than processing your order. Information such as your telephone number and e-mail address are optional and only assist us in providing order confirmations and tracking information. 
 
@@ -10,9 +10,9 @@ Required information such as credit card numbers, names and address, are kept by
 
 Using a 256-Bit Secure Sockets Layer (SSL) encryption, any orders processed online are safe and secure. No personal or financial information is stored on internal servers and are processed through our secure server, in order to protect each of our clients’ security and privacy. 
 
-X4 Labs will never solicit via telephone, fax, e-mail or direct mail, this is strictly against our policy and we adhere strictly to them. Each client’s safety, security and privacy is of great importance to us, and our policies are designed to protect each patient. If you have any questions or concerns pertaining to our Privacy Policy please feel free to contact us using our [Contact form](https://web.archive.org/web/20071225144757id_/http%3A//www.x4labs.com/contact.php). 
+X4 Labs will never solicit via telephone, fax, e-mail or direct mail, this is strictly against our policy and we adhere strictly to them. Each client’s safety, security and privacy is of great importance to us, and our policies are designed to protect each patient. If you have any questions or concerns pertaining to our Privacy Policy please feel free to contact us using our [Contact form](https://web.archive.org/web/20080418001945id_/http%3A//www.x4labs.com/contact.php). 
 
-**Shipping Policy**
+## **Shipping Policy**
 
 All orders are processed immediately once payment has been made and are shipped within one business day.
 
@@ -26,6 +26,6 @@ Tracking information is sent to the e-mail address provided, directly from the m
 
 Please note that shipping times may vary with bank and national holidays.
 
-**Discreet Billing, Packaging, and Shipping**
+## **Discreet Billing, Packaging, and Shipping**
 
 All of our products are packaged in a discreet envelope and box, in order to protect our patients. All orders are processed immediately and are discreetly shipped the following day. Shipping labels are also discreet and make no mention of any terms relating to penis enlargement or treatment of penile curvature.
