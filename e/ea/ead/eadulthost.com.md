@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eadulthost.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619025854id_/http%3A//eadulthost.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eadulthost.com privacy policy that was archived on 2008-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080417032925id_/http%3A//www.eadulthost.com/privacy_policy.php) for the most accurate reproduction.*
 
 # LiveAdultHost.com - Free adult web site hosting
 
