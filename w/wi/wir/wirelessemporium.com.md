@@ -1,22 +1,19 @@
-> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213121856id_/http%3A//www.wirelessemporium.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418015050id_/http%3A//www.wirelessemporium.com/privacy.asp) for the most accurate reproduction.*
 
 # Cell Phone Accessories, Discount Nokia Motorola LG Samsung Mobile Phone Headsets, Holsters & Chargers, Faceplates, Batteries & Accessories
+
+[](http://www.wirelessemporium.com/choose.asp?typeid=15 "Shop & Buy the Top Discount Cell Phones")
 
 |  |  |    
 ---  
 Enter your e-mail address:      
-      
-    
+      
 
 Click Here for complete  
 terms and conditions.  
   
-#### Enterprise discounts for business, government, education & wholesale
-
-### [Click Here](http://www.wirelessemporium.com/atwork.asp)
-
   
-[](http://www.dpbolvw.net/click-2700557-5338102)
+[](http://www.jdoqocy.com/click-2700557-10509556)
 
 | 
 
@@ -58,11 +55,11 @@ Attn: Privacy Policy Compliance
 4040 N. Palm St., Suite 401  
 Fullerton, CA 92835   
   
-[](https://www.bbbonline.org/cks.asp?id=10310111381735436) | [](https://web.archive.org/privacy.asp) |  |  [](https://www.shopzilla.com/6B--Wireless_Emporium_-_mid--32536) | [](https://www.ebillme.com/index.php/learnmore2/wirelessemporium) | [](http://www.shopwiki.com/wiki/Approved+Store)  
+[](https://www.bbbonline.org/cks.asp?id=10310111381735436) | [](http://www.wirelessemporium.com/privacy.asp) |  |  [](https://www.shopzilla.com/6B--Wireless_Emporium_-_mid--32536) | [](https://www.ebillme.com/index.php/learnmore2/wirelessemporium) | [](http://www.shopwiki.com/wiki/Approved+Store)  
 ---|---|---|---|---|---  
   
-**[Home](https://web.archive.org/index.asp "Home") | [About Us](https://web.archive.org/aboutus.asp "About Us") | [Press](https://web.archive.org/press.asp "Press") | [FAQs](https://web.archive.org/faq.asp "FAQs") | [Order Status](https://web.archive.org/orderstatus.asp "Order Status") | [Store/Return Policy](https://web.archive.org/store.asp "Store/Return Policy") | [Shipping Information](https://web.archive.org/shipping.asp "Shipping Information") | [Affiliate Program](https://web.archive.org/affiliate.asp "Affiliate Program")   
-[Site Map](https://web.archive.org/sitemap.asp "Site Map") | [Links](https://web.archive.org/links.asp "Links") | [Contact Us](https://web.archive.org/contactus.asp "Contact Us") | [External Directory](https://web.archive.org/directory.html "External Directory") | [Cell Phone Accessories References](https://web.archive.org/cell-phone-accessories-references.html "Cell Phone Accessories References") | [Privacy Policy](https://web.archive.org/privacy.asp "Privacy Policy") **  
+**[Home](http://www.wirelessemporium.com/index.asp "Home") | [About Us](http://www.wirelessemporium.com/aboutus.asp "About Us") | [Press](http://www.wirelessemporium.com/press.asp "Press") | [FAQs](http://www.wirelessemporium.com/faq.asp "FAQs") | [Order Status](http://www.wirelessemporium.com/orderstatus.asp "Order Status") | [Store/Return Policy](http://www.wirelessemporium.com/store.asp "Store/Return Policy") | [Shipping Information](http://www.wirelessemporium.com/shipping.asp "Shipping Information") | [Affiliate Program](http://www.wirelessemporium.com/affiliate.asp "Affiliate Program")   
+[Site Map](http://www.wirelessemporium.com/sitemap.asp "Site Map") | [Links](http://www.wirelessemporium.com/links.asp "Links") | [Contact Us](http://www.wirelessemporium.com/contactus.asp "Contact Us") | [External Directory](http://www.wirelessemporium.com/directory.html "External Directory") | [Cell Phone Accessories References](http://www.wirelessemporium.com/cell-phone-accessories-references.html "Cell Phone Accessories References") | [Privacy Policy](http://www.wirelessemporium.com/privacy.asp "Privacy Policy") **  
   
 ®™ Registered Trade Marks/Trade Marks shown here are owned by or licensed to Wireless Emporium Inc.  
-All contents ©2002-2007 Wireless Emporium Inc. All rights reserved.
+All contents ©2002-2008 Wireless Emporium Inc. All rights reserved.
