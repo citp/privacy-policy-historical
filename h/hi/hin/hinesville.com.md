@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hinesville.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214202938id_/http%3A//www.hinesville.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hinesville.com privacy policy that was archived on 2008-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080417232726id_/http%3A//hinesville.com/privacy.html) for the most accurate reproduction.*
 
 # Hinesville.com
 
