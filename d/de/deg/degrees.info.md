@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degrees.info privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215111347id_/http%3A//www.degrees.info/emc/privacy_01354.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degrees.info privacy policy that was archived on 2008-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080417074343id_/http%3A//www.degrees.info/emc/privacy_01354.html) for the most accurate reproduction.*
 
 # Degrees.info - Privacy Policy
 
