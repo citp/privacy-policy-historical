@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecenglish.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216061733id_/http%3A//www.ecenglish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecenglish.com privacy policy that was archived on 2008-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080417072457id_/http%3A//www.ecenglish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EC English
 
