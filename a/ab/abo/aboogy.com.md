@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboogy.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214034932id_/http%3A//www.aboogy.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboogy.com privacy policy that was archived on 2008-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080417063443id_/http%3A//www.aboogy.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Aboogy - Free bookmark manager | Startpage for everyone
 
