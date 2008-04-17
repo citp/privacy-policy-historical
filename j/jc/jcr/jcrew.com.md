@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jcrew.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201113434id_/http%3A//www.jcrew.com/help.sniplets/privacynew.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcrew.com privacy policy that was archived on 2008-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080417070405id_/http%3A//www.jcrew.com/help.sniplets/privacynew.jhtml) for the most accurate reproduction.*
 
-# jcrew.com
+# Privacy policy - jcrew.com
 
-| [](https://web.archive.org/help.sniplets/helpdesk.jhtml;jsessionid=GYF2NCE1COPMCCTFEELRXCQKMUQRMGUG)   
+| [](https://web.archive.org/help.sniplets/helpdesk.jhtml)   
 |  |  |  |  |   
 ---|---|---  
 |    
