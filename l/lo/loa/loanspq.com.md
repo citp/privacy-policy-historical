@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loanspq.com privacy policy that was archived on 2007-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070807070217id_/http%3A//www.loanspq.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loanspq.com privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418094335id_/http%3A//www.loanspq.com/privacy.asp) for the most accurate reproduction.*
 
 # LoansPQ by MeridianLink
 
