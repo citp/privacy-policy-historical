@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registrydefender.com privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207220409id_/http%3A//www.registrydefender.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registrydefender.com privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418093233id_/http%3A//www.registrydefender.com/privacy.asp) for the most accurate reproduction.*
 
 # Registry Defender: Privacy Policy
 
@@ -75,8 +75,8 @@ Registry Defender is presented by Angle Interactive (AI).
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Registry Defender  
-122 West 26th Street  
-Suite 900  
+802 6th Avenue  
+Suite 14  
 New York, NY 10001  
 info@registrydefender.com
 
