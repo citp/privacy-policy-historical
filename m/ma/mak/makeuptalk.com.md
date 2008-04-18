@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeuptalk.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220002148id_/http%3A//www.makeuptalk.com/forums/view.php%3Fpg%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeuptalk.com privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418155527id_/http%3A//www.makeuptalk.com/forums/view.php%3Fpg%3Dprivacy_policy) for the most accurate reproduction.*
 
 # MakeupTalk.com: makeup, beauty, skin care, beauty product reviews, beauty products, eyemakeup, eye makeup, hair care, talk and gossip for women
 
