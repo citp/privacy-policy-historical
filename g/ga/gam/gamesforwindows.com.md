@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamesforwindows.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205092638id_/http%3A//www.gamesforwindows.com/en-US/globals/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesforwindows.com privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418095527id_/http%3A//www.gamesforwindows.com/en-US/Support/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# Games for Windows
+# Privacy
 
 GamesforWindows.com Privacy Statement
 
@@ -34,7 +34,7 @@ Control of Your Personal Information
 
 Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission. 
 
-You can update your contact preferences by logging on to [www.gamesforwindows.com](http://www.gamesforwindows.com/) and selecting Register for Updates / My Profile.You will be prompted to provide your Windows Live ID Credentials and then you can update your preferences. You will also be able to opt-out of marketing emails by clicking the opt-out link at the bottom of the email. 
+You can update your contact preferences by logging on to [www.gamesforwindows.com](https://web.archive.org/) and selecting Register for Updates / My Profile.You will be prompted to provide your Windows Live ID Credentials and then you can update your preferences. You will also be able to opt-out of marketing emails by clicking the opt-out link at the bottom of the email. 
 
 Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft products or services. 
 
