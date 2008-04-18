@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bukbuddies.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215072111id_/http%3A//bukbuddies.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bukbuddies.com privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418125339id_/http%3A//www.bukbuddies.com/privacypolicy.html) for the most accurate reproduction.*
 
 # BukBuddies.Com Privacy Policy
 
