@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redlioneducation.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219142040id_/http%3A//redlioneducation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redlioneducation.com privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418064917id_/http%3A//redlioneducation.com/privacy.htm) for the most accurate reproduction.*
 
 # Redlioneducation.com
 
