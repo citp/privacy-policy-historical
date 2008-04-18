@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insync.co.in privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208174806id_/http%3A//www.insync.co.in/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insync.co.in privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418030300id_/http%3A//www.insync.co.in/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
