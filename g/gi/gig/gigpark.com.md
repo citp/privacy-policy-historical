@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gigpark.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219195240id_/http%3A//www.gigpark.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigpark.com privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418152330id_/http%3A//www.gigpark.com/privacy_policy) for the most accurate reproduction.*
 
 # GigPark: Privacy policy
 
-####  Last Updated: 11 July, 2007 
+Last Updated: 11 July, 2007 
 
 GigPark knows you care how information about you is used and shared, and we appreciate your trust that we'll do so carefully and sensibly. This notice describes our privacy policy. By visiting GigPark, you're accepting the practices described in this Privacy Policy. 
 
