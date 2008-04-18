@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ktmb.com.my privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213195615id_/http%3A//www.ktmb.com.my/page.asp%3Fname%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktmb.com.my privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418062257id_/http%3A//www.ktmb.com.my/page.cfm%3Fname%3Dprivacy) for the most accurate reproduction.*
 
-# Keretapi Tanah Melayu Berhad
+# KERETAPI TANAH MELAYU
 
 **Effect of Policy**
 
