@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nc-educationlottery.org privacy policy that was archived on 2007-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071223192434id_/http%3A//www.nc-educationlottery.org/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nc-educationlottery.org privacy policy that was archived on 2008-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080418203700id_/http%3A//www.nc-educationlottery.org/privacy_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -8,8 +8,8 @@
 <link href="resources/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-		<form name="Form1" method="post" action="privacy_policy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxMDEzNjA5OTc0Ozs+">
+		<form name="Form1" method="post" action="/privacy_policy.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODA5MzIxMjA5ZGQ=">
 
 		
 <script language="javascript" src="/resources/menu.js"></script>
@@ -110,159 +110,91 @@ var myMenu2 = new ypSlideOutMenu("menu2", "down", -1000, 105, 120, 124, 101)
           </td>
       </tr>
       <tr>
-        <td valign="top"><script language="javascript">
-/****
-* Banner Ad Rotater v3.02
-* Anarchos > anarchos3@hotmail.com
-* http://anarchos.xs.mw/bannerad.phtml
-**/
-
-function Banner(refreshTime, width, height, altText, start, random){
-	this.objName = "bannerAd" + (Banner.count++);
-	eval(this.objName + "=this");
-	if (!refreshTime) this.refreshTime = 5000; else this.refreshTime = refreshTime*1000;
-	if (!width) this.width = 460; else this.width = width;
-	if (!height) this.height = 68; else this.height = height;
-	if (random == null) this.random = 1; else this.random = random;
-	this.altText = altText;
-	this.ads = [];
-	if (start) this.currentAd = start-1; else start = null;
-	this.mySize = 0;
-
-	this.Ad = function(src, href, target, mouseover) {
-		var tempImage = new Image();
-		tempImage.src = src;
-		this.ads[this.mySize] = new Object();
-		var ad = this.ads[this.mySize];
-		ad.src = src;
-		if (typeof(target) == "undefined" || target == null) ad.target = "_self"; else ad.target = target;
-		ad.href = href;
-		ad.mouseover = mouseover;
-		this.mySize++;
-	}
-
-	this.link = function(){
-		var	ad = this.ads[this.currentAd];
-		if (ad.target == "_self"){
-			location.href = ad.href;
-		}
-		else if (ad.target == "_blank" || ad.target == "_new"){
-			open(ad.href,this.objName + "Win");
-		}
-		else top.frames[ad.target].location.href = ad.href;
-	}
-
-	this.showStatus = function(){
-		var ad = this.ads[this.currentAd];
-		if (ad.mouseover) status = ad.mouseover;
-		else status = ad.href;
-	}
-
-	this.randomAd = function(){
-		var n;
-		do { n = Math.floor(Math.random() * (this.mySize)); } 
-		while(n == this.currentAd);
-		this.currentAd = n;
-	}
-
-	this.output = function(){
-		var tempCode = "";
-		if (this.mySize > 1){
-			if (this.currentAd == null) this.randomAd();
-			if (this.currentAd >= this.mySize) this.currentAd = this.mySize - 1;
-			tempCode = '<a href="javascript:'+this.objName+'.link();"';
-			tempCode += ' onMouseOver="' + this.objName + '.showStatus(); return true"';
-			tempCode += ' onMouseOut="status=\'\';return true">';
-			tempCode += '<img src="' + this.ads[this.currentAd].src + '" width="' + this.width;
-			tempCode += '" name="' + this.objName + 'Img" height="' + this.height + '" ';
-			if (this.altText) tempCode += 'alt="'+this.altText + '" ';
-			tempCode += 'border="0" /></a>';
-			document.write(tempCode);
-			this.nextAd();
-		} else document.write("Error: two banners must be defined for the script to work.");
-	}
-
-	this.newAd = function(){
-		if (!this.random){	
-			this.currentAd++;
-			if (this.currentAd >= this.mySize)
-			   this.currentAd = 0;
-		}
-		else {
-			this.randomAd();
-		}
-		this.nextAd();
-	}
-
-	this.nextAd = function(){
-		document.images[this.objName+ 'Img'].src = this.ads[this.currentAd].src;
-		setTimeout(this.objName+'.newAd()',this.refreshTime)
-	}
-}
-Banner.count = 0;
-</script>
-<table width="155" border="0" cellpadding="0" cellspacing="0" background="/images/img_rcolumn-middle.gif">
-	<tbody><tr>
-		
-		<form id="frmRetailers" action="/retailer_locations.aspx" method="get"></form>
-		<td>
-			<div id="retailerRight">
-		    	<span class="zipText">Zip Code</span>&nbsp;&nbsp;<input type="text" id="zipBox" name="zip" size="6" maxlength="5">
-            	<br>
-            	<input name="btnLocate" type="submit" id="btnLocate" value="Locate" class="rightButton">  	
-			</div>		</td>
-		
+        <td valign="top"><table width="155" border="0" cellpadding="0" cellspacing="0" background="/images/img_rcolumn-middle.gif">
+	
+	<!-- <tr>
+		<td><a href="/pick3_survey_daytimedraw.aspx" title="Take the Pick 3 Daytime Draw Survey!"><img src="/images/sidebar_pick3_survey_anim_2.gif" alt="Take the Pick 3 Daytime Draw Survey!" border="0" /></a></td>
 	</tr>
+	 -->
+	
+	
+	<tbody><tr>
+		<td><a href="" onclick="window.open('videodraws_popup.aspx','DailyDraws','width=490,height=480,toolbar=no,menubar=no,location=no')"><img src="/images/sidebar/sidebar_video_v2.gif" alt="Watch the latest drawing" border="0"></a></td>
+	</tr>
+	
 	<tr>
 		<td><img src="/images/img_rcolumn-middle-star.gif" width="155" height="10"></td>
 	</tr>
+	
 	<tr>
-		<td><a href="https://northcarolina.secondchancebonuszone.com/nascar/home.php"><img src="/images/secondChanceRight.gif" alt="Enter the Second Chance Drawing!" width="155" height="80" border="0"></a></td>
-	</tr>	
-	<tr>
-		<td class="side-right-middle">&nbsp;</td>
-	</tr>
-	<tr>
-		<td><a href="/email_signup.aspx"><img src="/images/email_updates_right.gif" alt="Receive Lottery Updates by Email or Text Message" width="155" height="54" border="0"></a></td>
-	</tr>
-	<tr>
-		<td class="side-right-middle">&nbsp;</td>
-	</tr>	
-
-		<tr>
+		
+		<form id="frmRetailers" action="/retailer_locations.aspx" method="get"></form>
 		<td>
-			<div id="bannerDiv">
-				<script type="text/javascript">
-					<!--
-					myAd = new Banner( 7, 155, 80, "Caution! Lottery Scams", 1, 0 );
-					myAd.Ad( "/images/img_lottery_scams.gif", "/lottery_scams.aspx", null, "Caution! Lottery Scams" );
-					myAd.Ad( "/images/img_website_alert.gif", "/official_website_alert.aspx", null, "Official Lottery Website Alert" );
-					myAd.output();
-					// -->
-				</script><a href="javascript:bannerAd0.link();" onmouseover="bannerAd0.showStatus(); return true" onmouseout="status='';return true"><img src="/images/img_lottery_scams.gif" width="155" name="bannerAd0Img" height="80" alt="Caution! Lottery Scams" border="0"></a>
-				<noscript>
-					<a href="/lottery_scams.aspx"><img src="/images/img_lottery_scams.gif" alt="Caution!  Lottery Scams" width="155" height="80" border="0" /></a>
-				</noscript>
+			<div id="XXXretailerRight" style="text-align:center;line-height:0px;background:transparent url(/images/sidebar/sidebar_findretailer_v2.gif) no-repeat;overflow:hidden;height:73px;width:155px;">
+				<!-- <span style="font:8pt/1em Arial, sans-serif; color:#fff; ">Find Retailer<br /></span> -->
+				<span style="font:bold 7pt/1em Arial, sans-serif; color:#fff; text-transform:uppercase;padding-right:4px;">Zip Code:</span><input type="text" id="zipBox" name="zip" size="6" maxlength="5">
+				<br>
+				<input name="btnLocate" type="submit" id="btnLocate" value="Go" class="XrightButton">		
 			</div>
-    	</td>
+		</td>
+		
+	</tr>
+	
+	<tr>
+		<td class="side-right-middle">&nbsp;</td>
+	</tr>
+	<tr>
+		<td><a href="https://northcarolina.secondchancebonuszone.com/harley/"><img src="/images/sidebar/sidebar_harley2.gif" alt="Harley Davidson Second Chance Drawing" border="0"></a></td>
+	</tr>
+	
+	<tr>
+		<td class="side-right-middle">&nbsp;</td>
+	</tr>
+
+	<tr>
+		<td><a href="https://northcarolina.secondchancebonuszone.com/nascar/home.php"><img src="/images/sidebar/sidebar_nascar3.gif" alt="NASCAR Second Chance Drawing" border="0"></a></td>
+	</tr>
+	
+	<tr>
+		<td class="side-right-middle">&nbsp;</td>
+	</tr>
+		
+	<tr>
+		<td><a href="/email_signup.aspx"><img src="/images/sidebar/sidebar_email_v2.gif" alt="Receive Lottery Updates by Email or Text Message" border="0"></a></td>
 	</tr>
 	<tr>
 		<td class="side-right-middle">&nbsp;</td>
-	</tr>	
+	</tr>
 	<tr>
-		<form id="frmSearch" action="/search_results.aspx" method="get"></form>
+		<td>
+			<a href="/lottery_scams.aspx"><img src="/images/sidebar/sidebar_cautionscams_v2.gif" alt="Caution!	Lottery Scams" border="0"></a>
+		</td>
+	</tr>
+	<!-- <tr>
+		<td class="side-right-middle">&nbsp;</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="http://www.npgaw.org/"><img src="/images/sidebar/sidebar_npgaw.gif" alt="National Problem Gambling Awareness Week" border="0" /></a>
+		</td>
+	</tr> -->
+	<!-- <tr>
+		<td class="side-right-middle">&nbsp;</td>
+	</tr>
+	<tr>
+		<form id="frmSearch" action="/search_results.aspx" method="get">
 		<td>
 			<div id="searchRight">
-				<input name="search" type="text" id="searchBox" value="" size="12" maxlength="50">
-				<br>
-				<input name="btnSearch" type="submit" id="btnSearch" value="Search" class="rightButton">			
-			</div>		
+				<input name="search" type="text" id="searchBox" value="" size="12" MaxLength="50" />
+				<br />
+				<input name="btnSearch" type="submit" id="btnSearch" value="Search" class="rightButton" />			
+			</div>
 		</td>
-			
-	</tr>	
+		</form>	
+	</tr>
 	<tr>
 		<td class="side-right-middle">&nbsp;</td>
-	</tr>	
+	</tr> -->
 </tbody></table>
 
         </td>
