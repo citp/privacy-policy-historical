@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9rules.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211044845id_/http%3A//9rules.com/about/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9rules.com privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419053551id_/http%3A//9rules.com/tos) for the most accurate reproduction.*
 
 # 9rules - Terms of Service
 
