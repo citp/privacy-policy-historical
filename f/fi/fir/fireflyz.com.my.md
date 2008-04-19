@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fireflyz.com.my privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216215521id_/http%3A//www.fireflyz.com.my/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireflyz.com.my privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419020736id_/http%3A//www.fireflyz.com.my/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Firefly
 
