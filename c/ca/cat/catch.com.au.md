@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catch.com.au privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227220609id_/http%3A//www.reedbusiness.com.au/default.asp%3Fsect%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catch.com.au privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419063400id_/http%3A//www.reedbusiness.com.au/default.asp%3Fsect%3D9) for the most accurate reproduction.*
 
 # Reed Business Information
 
@@ -44,11 +44,9 @@ This policy is available upon request. It will be reviewed from time to time and
 **Privacy inquiries**  
 If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact:
 
-Mary Alice Bannister   
+The Privacy Officer   
 Reed Elsevier Australia Pty Limited   
 Tower 2, 475 Victoria Avenue or Locked Bag 2999 Chatswood DC   
 CHATSWOOD NSW 2067   
 AUSTRALIA  
-Phone 02 9422 2002   
-Fax 02 9422 2682  
 
