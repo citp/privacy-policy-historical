@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heat.co.za privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228023645id_/http%3A//www.heat.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heat.co.za privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419064952id_/http%3A//www.heat.co.za/privacy-policy) for the most accurate reproduction.*
 
 # heat - This Week's hottest celebrity news
 
@@ -55,6 +55,6 @@ Last update: **1 June 2007**
 
 [ ](http://www.heat.co.za/horoscopes)
 
-David Beckham and Snoop Dogg are buddies! Click here to watch the proof.
+Kate Moss is the UK's best dressed woman (again!).
 
-Are you glad Jody won Idols?
+If Heidi Klum offered to give my wardrobe a make-over. . .
