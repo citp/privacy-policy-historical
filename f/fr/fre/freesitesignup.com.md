@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the freesitesignup.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618081804id_/http%3A//www.freesitesignup.com/public/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesitesignup.com privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419051251id_/http%3A//www.freesitesignup.com/privacy.php) for the most accurate reproduction.*
 
-# Free Site Signup Websites - Privacy Policy
-
-Privacy Policy
+# Make Money Online - Internet Money Making - Privacy Policy
 
 This website agrees to share with you the details of the privacy policy to ensure your understanding of how your information is protected. When the website guarantees a 100% privacy guaranteed, the details of this privacy guarantee are detailed on this page.
 
-If you have any questions or concerns after reading through this information, you should first contact us by [clicking here](http://freesitesignup.helpserve.com/?group=sales). 
+If you have any questions or concerns after reading through this information, you should first contact us by [clicking here](https://web.archive.org/support.php?group=joinsite). 
 
 **Information Retained**
 
@@ -48,11 +46,11 @@ The minimum age for use of this This website is 18 years old. If you are not at 
 
 You can contact the company by mail at: 
 
-Free Site Signup Websites c/o LLM   
+Make Money Online - Internet Money Making Websites c/o LLM   
 269 S. Beverly Dr. Suite 500  
 Beverly Hills, California 90210 
 
-Or via email by [clicking here](http://freesitesignup.helpserve.com/?group=sales).   
+Or via email by [clicking here](https://web.archive.org/support.php?group=joinsite).   
 
 
 **Modifications To Privacy Policy**
