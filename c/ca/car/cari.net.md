@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cari.net privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217005706id_/http%3A//www.cari.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cari.net privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419052214id_/http%3A//www.cari.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy policy for CariNet's dedicated server customers
 
 ## Privacy Policy
 
