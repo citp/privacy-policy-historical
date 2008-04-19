@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026140917id_/http%3A//www.pure-mac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419130250id_/http%3A//www.pure-mac.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Pure-Mac.com
 
@@ -27,4 +27,4 @@ If you have any questions about this privacy statement, the practices of this si
 [pristine@pure-mac.com](mailto:pristine@pure-mac.com)
 
   
-Pure Mac © 1996-2007
+Pure Mac © 1996-2008
