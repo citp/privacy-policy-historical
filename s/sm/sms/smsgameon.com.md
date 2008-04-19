@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsgameon.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013045712id_/http%3A//www.smsgameon.com/usprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsgameon.com privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419071552id_/http%3A//www.smsgameon.com/usprivacypolicy.html) for the most accurate reproduction.*
 
 # Game On
 
