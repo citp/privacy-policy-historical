@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findashemalelover.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220144054id_/http%3A//www.findashemalelover.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findashemalelover.com privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419223015id_/http%3A//www.findashemalelover.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Find A Shemale Lover - Shemales Looking For YOU! (NEW!)
 
@@ -38,7 +38,7 @@
 > 
 > Use of Personal Subscriber Information.
 > 
-> By the subscriber's use of the Site, the subscriber expressly agrees that the Site may use any personal information that has been provided by the subscriber or that has been collected by the Site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, trading in Personal Data, age verification, promotional and advertising use by the Site or third parties authorized to use the information by the Site. 
+> The subscriber expressly agrees that the Site may use any personal information that has been provided by the subscriber or that has been collected by the Site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, age verification, promotional and advertising use by the Site or third parties authorized to use the information by the Site. We do not rent, sell, or share your email address with outside parties. 
 > 
 > By the subscriber's use of the Site, the subscriber expressly agrees that the Site may use any of the personal information about subscribers that it has gathered or collected to provide them with offers to other sites or products that may or may not be of interest. 
 > 
@@ -64,11 +64,11 @@
 > 
 > "OPT-OUT" Revocation Procedure.
 > 
-> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](http://www.findashemalelover.com/?=settings&p=2) and following the instructions that follow.
+> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](http://www.findashemalelover.com/?s=settings&p=2) and following the instructions that follow.
 > 
 > Terms and Conditions of Membership.
 > 
 > Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
 > 
-> In the event of any conflicts between the [Membership Terms the Conditions](http://www.findashemalelover.com/?s=terms) and this [Privacy Policy Statement](http://www.findashemalelover.com/?s=privacy_policy), the provisions of this Privacy Policy shall control.  
+> In the event of any conflicts between the [Membership Terms and Conditions](http://www.findashemalelover.com/?s=terms) and this [Privacy Policy Statement](http://www.findashemalelover.com/?s=privacy_policy), the provisions of this Privacy Policy shall control.  
 > 
