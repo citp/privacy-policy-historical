@@ -1,96 +1,43 @@
-> *The following text is extracted and transformed from the organize.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630212450id_/http%3A//www.organize.com/faqcompany.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organize.com privacy policy that was archived on 2008-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080419145050id_/http%3A//www.organize.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Company Information - Frequently Asked Questions
+# Privacy Policy
 
-  
-Company Information / FAQ'S  
----  
-  
-  
-Why should I buy from Organize.com?  
-Where are your store locations?  
-Do you have a gift registry?  
-Do you have a guarantee?  
-What is your privacy policy?  
-Do you offer any coupons or promotions?  
-Do you have a first time buyer promotion?  
-How do I use an online coupon?  
-I have a new product idea, where do I send it?  
-Publications, Public Relations and Media Requests  
-Terms of Use
+**Privacy Policy for Organize.com, Inc.  
+**Organize.com is committed to providing our customers with quality goods and services, value and most importantly respecting their privacy. The following privacy policy discloses how we collect, protect, use, and share information gathered from our visitors on our web page. 
 
-|   
-  
-* * *
+**Notification of Changes and Your Acceptance of the Privacy Policy  
+**Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted before they go into effect. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. We hope that this disclosure will help increase your confidence in our site and enhance your experience on the Internet. 
 
-**  
-**Why should I buy from Organize.com?  
-We would like to thank you for visiting Organize.com. If you are reading this, you are obviously interested in the company and learning more about us...
+**Security Statement**   
+Organize.com takes every precaution to protect our users' information. When you submit sensitive information via the website, your information is protected both online and off-line. When you enter sensitive information (such as credit card number) on our registration or order forms, that information is encrypted and is protected with Secure Sockets Layer (SSL) encryption technology. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just "surfing." While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Our employees are regularly notified and reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers on which we store personally identifiable information are kept in a secure environment. If you have questions about the security of our website, send us an email. 
 
-Organize.com was founded as Organize Everything in 1997 for the purpose of providing one convenient place to shop for storage and organization solutions. You'll choose to shop with us because you'll find the products you want all the time at Organize.com. We listen to our customers every day, adding new items when they request and discontinuing products which don't match our customer's expectations. We continually update and improve our website, our content, our services and the site's functionality based on the suggestions of our customers. We strive to offer every organizing and storage product and all the information about these products and brands for online shoppers like you. It's a goal that our customers are helping us achieve through their suggestions and comments.
+**Types of Information that May Be Collected**   
+The Organize.com website is operated by Organize.com, Inc. and is the sole owner of all information collected on this site. Organize.com requests information from the Customer on an ordering form. The information that is collected to process and ship the order may include Contact information (including but not limited to: name, shipping address, telephone number, cell phone number, fax number and/or e-mail address) and financial information (including but not limited to: credit card number, name on account, billing address, and expiration date). This information is used for billing purposes and to fill customer’s orders. This Contact information is used to contact the Customer. Other than as discussed above and below, the personal information you provide us and information about your order will never be shared with third parties unless we are required to do so by law. This information may, however, be combined with other information (such as demographic information and past purchase information) and used to make our future marketing efforts more efficient. In addition, Organize.com uses cookies and data collection pixels to gather anonymous information about our users and their interactions with our website. This data is used on an aggregate level to analyze our website's effectiveness and help us improve our services. A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. A cookie can't read data off your hard disk or read cookie files created by other sites. This random number lets us keep track of "how many" times customers are doing specific things - like visiting our site each month - without really knowing who those customers are. We may use cookies to deliver content specific to your interests and to save your member ID. Additionally, after you've entered your member ID and password during a session on our service, we save that information so you don't have to reenter it repeatedly during that session. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature. The Web Site and any e-mails sent by the Web Site may contain electronic images (generally, single-pixel ".gif" images) called "web beacons." These web beacons allow Organize.com and third parties to monitor and collect certain information about the viewer of the web page, web-based document or e-mail message, such as the type of browser requesting the web beacon, the IP address of the computer that the web beacon is sent to and the time the web beacon was viewed. Company's use of web beacons on its Web Sites, include, without limitation, the following: 
 
-Our team is working hard to meet your needs, as we continue to evolve our website and our company every day to address your storage and organization challenges, your suggestions and comments are always welcome.
+• Counting unique users (actually, unique web browsers), visits and page views.   
+• Monitoring traffic and conversion patterns through our various product and service offerings on the Web Sites. For example, web beacons may be integrated into a merchandise product page as well as the subsequent shopping cart, transaction and verification pages.   
+• Personalizing your experience when you visit the Web Sites, including the advertising and content you see.   
+• Determining whether or not e-mail messages were opened, links were clicked or notifications/offers were acted upon. 
 
-  
-  
-****Where are your store locations?  
-Organize.com is an online and catalog retailer. Our website is updated on a regular basis with new innovative products. By visiting our website frequently, you will see the most up-to-date information on our available products. If you prefer to place a phone order please call 1-800-600-9817.   
-  
-****Do you have a gift registry?  
-Yes, we have a registry for gifts of all types where you can share your gift requests with anyone. For information on our Wishlist Registry, [click here](http://gre.wishlist.com/gre/start/welcome.htm?wlid=3FF856A9BA364A04838253CD7D99E0A1)
+**Opt-Out Provision**   
+Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. Users who register with us, but don't want any marketing material, can keep their email address off of our lists. If you no longer wish to receive our promotional materials you may opt-out of receiving these communications by either visiting our My Account information page or by sending us an email. 
 
-  
-  
-  
-****Do you have a guarantee?  
-Yes, we guarantee all of our products for 30 days and you can return those products at any time within this period ([click here for return information](https://web.archive.org/web/20070630212450id_/http%3A//www.organize.com/faqreturns.html#top)). Some manufacturers warrant their products beyond this 30 day period, if you have a question and would like to contact them directly beyond our 30 day period we'd be happy to help, just call us at 1-800-600-9817 or [email](mailto:info@organize-everything.com) us. 
+**Information from Third Parties**   
+We may receive information about you from other sources; for example, we may obtain geographic or demographic information, or information regarding your possible interests, from third parties, or we may receive information from a marketing partner in connection with a co-branded web site or promotion. We may combine the information we receive from those other sources with information we collect through the Web Sites. In those cases, we will apply this Privacy Policy to any personal information received, unless otherwise specifically disclosed by us at the time you provide your personal information. We use a third-party service provider to send ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our site and your interaction with our products. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. No personally identifiable information is collected or used in this process. 
 
-  
-  
-  
-****What is your Privacy Policy?  
-We never share or sell any personal, mail or phone information with any other companies. All information is for the exclusive use of Organize.com, Inc. and is kept private at all times.
+**Third Party Content and Links to Other Web Sites**   
+When you are on our Web Sites you may be directed to other sites that are operated and controlled by third parties that are beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Web Sites onto a different web site. This includes links from advertisers, sponsors and partners that may use the Web Sites' logo as part of a co-branding agreement. These other web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a web site that is linked from our Web Sites, you should consult that web site's privacy policy before providing any personal information. 
 
-Please note: This site is hosted by Yahoo!. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy ](http://privacy.yahoo.com/privacy/us/)for more information about how Yahoo! uses this information.  
-  
-****Do you offer any coupons or promotions?  
-Occasionally we offer promotions on our website. Only one coupon or promotion can be used for your order and is only for orders placed online. These offers are listed prominently on the front page of our site and typically only run for one or two days. Most offers customers receive through e-mail, by subscribing to our exclusive e-mail list. Click Here to subscribe.
+**Purchase or Sale of Business**   
+From time to time, we may purchase a business or sell one or more of our businesses and your personally identifiable information may be transferred as a part of the purchase or sale. In the event that we purchase a business, the personally identifiable information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so. In the event that we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same manner required by this Privacy Policy (including any amendments to this Privacy Policy). 
 
-Please note: **We do not sell or rent our e-mail address list to anyone. All e-mail addresses are kept confidential.**  
-  
-****Do you have a first time buyer promotion?  
-Yes, currently we provide a $2.00 discount coupon for all first time online shoppers of our website, use coupon code F7777 at the time you place your order. 
+**Your California Privacy Rights**   
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information Organize.com, Inc. shares with third parties for direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to:
 
-Please note: Use of this coupon acknowledges you will be added to our e-mail list for special offers we send approximately every three to four weeks. ****We do not sell or rent our e-mail address list to anyone. All e-mail addresses are kept confidential.****
+Organize.com, Inc. Privacy Rights  
+6727 Columbus Street  
+Riverside, CA 92504 
 
-  
-  
-  
-****How do I use an online coupon?  
-All coupons are a series of letters and numbers. Coupons are for orders placed online only. Before completing the order process you will be prompted to enter any coupon or promotional codes which will be calculated in your final total (see example below). Only one coupon or promotion can be used with each online order.  
-  
-****I have a new product idea, where do I send it?  
-We review and select many new products each month. If you are a manufacturer or distributor and would like your product considered, please send product samples along with a catalog, sales information and pricing to: 
+Or send an e-mail to: [info@organize.com](mailto:info@organize.com)
 
-Organize.com, Inc.   
-Attn: New Product Submissions   
-6727 Columbus Avenue   
-Riverside, CA 92504-1107 
-
-If you are mailing literature only please send to: 
-
-Organize.com, Inc.   
-Attn: New Product Submissions   
-P.O. Box 2348   
-Riverside, CA 92516   
-  
-****Publications, Public Relations and Media Requests  
-We are always interested in helping members of the media with stories. If you'd like to know more about our company or need product information and photos for a publication, please contact our Marketing Department at 1-800-600-9817, ext. 227 and we'll be happy to help you. 
-
-Organize.com has appeared in publications and productions, such as:
-
-  
-  
-  
-****Terms of Use  
-All content on our website, including, for example, all of the pages, images, illustrations, graphics, and text, are subject to trademark, service mark, copyright and/or other intellectual property rights or licenses held by Organize.com and affiliates or by third parties who have licensed the materials. The entire content of the Organize.com website is copyrighted. All content of the Organize.com website, and the site as a whole, are intended solely for personal, noncommercial use by website users and visitors. You may download, print and store selected portions of the content, provided you (1) only use these copies of the content for your own personal, non-commercial use, (2) you do not copy or post the content on any network computer or broadcast the content in any media, and (3) do not modify or alter the content in any way, or delete or change any copyright or trademarked material. Organize.com reserves complete title and full intellectual property rights in any content you download from this website. Except as noted above, you may not copy, download, reproduce, modify, publish, distribute, transmit, transfer or create derivative works from the content without first obtaining written permission from Organize.com. 
+In your request, please specify that you want a "Your Organize.com, Inc. California Privacy Rights Notice". Please allow 30 days for a response.
