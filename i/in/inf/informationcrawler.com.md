@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informationcrawler.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226151510id_/http%3A//www.informationcrawler.com/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informationcrawler.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420054600id_/http%3A//www.informationcrawler.com/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # Information Crawler
 
