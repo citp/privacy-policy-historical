@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209210339id_/http%3A//www.theesa.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420121152id_/http%3A//www.theesa.com/privacy/index.php) for the most accurate reproduction.*
 
 # ESA
 
@@ -8,7 +8,7 @@ _[](https://www.esrb.org/confirm/esa-confirmation.jsp)
 _
 
 _  
-Last updated on January 25, 2006_
+Last updated on January 16, 2008_
 
 **ESA ONLINE PRIVACY STATEMENT**
 
@@ -129,6 +129,17 @@ The security and confidentiality of your information is extremely important to u
 **How can you update your personal information and profile?**
 
 You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by emailing us at [privacy@theesa.com](mailto:privacy@theesa.com). 
+
+**_Your California Privacy Rights_**  
+
+Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquires regarding our disclosure policy, please write us: 
+
+ESA  
+Attn.: Privacy Policy Administrator   
+575 7th Street, NW #300  
+Washington, DC 20004  
+202-223-2400   
+[privacy@theesa.com](mailto:privacy@theesa.com)
 
 **How can you ask questions, or send us comments, about this Privacy Policy?**
 
