@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuscore.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213231811id_/http%3A//accuscore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuscore.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420181436id_/http%3A//accuscore.com/privacy-policy) for the most accurate reproduction.*
 
 # AccuScore - Privacy Policy
 
