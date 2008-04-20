@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spiralfrog.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013010826id_/http%3A//spiralfrog.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiralfrog.com privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420152837id_/http%3A//www.spiralfrog.com/pages/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy on SpiralFrog.com
+# Free Music Downloads at SpiralFrog
 
 #### PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.
 
