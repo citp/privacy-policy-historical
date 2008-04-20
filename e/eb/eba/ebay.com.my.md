@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.com.my privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215202134id_/http%3A//pages.ebay.com.my/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.com.my privacy policy that was archived on 2008-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080420024124id_/http%3A//pages.ebay.com.my/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
@@ -16,11 +16,11 @@ This Privacy Policy contains a number of references to other information pages o
 
 **Table of Contents**
 
-### 1.  An Important Note About Children.
+### 1\. An Important Note About Children.
 
 Children (persons under the age of 18 years) are not eligible to use our services unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18 years, you can use this service only in conjunction with and under the supervision of your parents or guardians. 
 
-### 2.  Information We Collect
+### 2\. Information We Collect
 
 Our primary purpose in collecting personal information is to provide you with a smooth, efficient, safer and customised trading experience. This allows us to provide services and features that most likely meet your needs, and to customise our services to make your experience safer and easier. We only collect personal information about you that we consider necessary for this purpose and to achieve this goal. 
 
@@ -44,7 +44,7 @@ If you register for eBay on another Web site or use a Web site providing a servi
 
 For a chart showing what information we collect from or about you, and for who has access to that information, please see the [Appendix](http://pages.ebay.com.my/help/policies/privacy-appendix.html).
 
-### 3.  Our Use of Your Information
+### 3\. Our Use of Your Information
 
 We use personal information about you (including but not limited to the information in the file we maintain about you, and other information we obtain from your current and past activities on the Site) to resolve disputes, troubleshoot problems, help ensure safe trading on our Site, and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your information to identify users using multiple User IDs or aliases. 
 
@@ -54,7 +54,7 @@ You agree that we may use personal information about you to improve our marketin
 
 You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt-out of the receipt of certain communications on the notification preferences page. You may make changes to your [notification preferences](http://cgi4.ebay.com.my/ws/eBayISAPI.dll?OptinLoginShow) page at any time. You can remove yourself from receiving some of this information by changing the appropriate option on the preferences page. 
 
-### 4.  Our Disclosure of Your Information
+### 4\. Our Disclosure of Your Information
 
 Although eBay uses industry standard practices to protect your personal information, due to technical limitations, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances (further details of which are set out below in the "Legal Requests" section), or third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we use industry standard practices to protect your privacy, we cannot and do not guarantee, and you should not expect, that your personal information or private communications will always remain private. 
 
@@ -74,7 +74,7 @@ As a matter of policy, we **do not** sell or rent any personal information about
 
 For a chart showing what information we collect from or about you, and who has access to that information, please see the [Appendix](http://pages.ebay.com.my/help/policies/privacy-appendix.html). 
 
-### 5.  Your Use of Other Users' Information
+### 5\. Your Use of Other Users' Information
 
 In order to facilitate interaction among all eBay community members, our service allows you limited access other users' contact information. As a seller you have access to the User ID, email address and other contact information of the buyer or winning bidder(s), and as a buyer or winning bidder you have access to the User ID, email address and other contact information of the seller. 
 
@@ -93,17 +93,17 @@ In all cases, you must give users an opportunity to remove themselves from your 
 
 We and our users do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add an eBay user, even a user who has purchased an item from you, to your mail list (email or physical mail) without their express consent after adequate disclosure. To report spam from other eBay users, please send an email to the Trust and Safety team via the [Web form.](http://pages.ebay.com.my/help/contact_inline/index.html) [](http://pages.ebay.com.my/help/contact_inline/index.html)
 
-### 6.  Use of Email Tools
+### 6\. Use of Email Tools
 
 You may not use the Mail This Auction to a Friend service or other email forwarding services that we offer to send spam or otherwise send content that would violate our User Agreement or Privacy Policy. 
 
 If you send an email using the Mail This Auction to a Friend service to an email address that is not registered in our community, we do not use that email address for any purpose other than to send your email. We do not rent or sell these email addresses. We do not permanently store the email messages or the email addresses. 
 
-### 7.  Control of Your Password
+### 7\. Control of Your Password
 
 You are responsible for all actions taken with your User ID and password, including fees. Therefore we do not recommend that you disclose your eBay password to any third parties. If you choose to share your User ID and password or your information with third parties to provide you additional services, you agree that you are responsible for all actions taken with your User ID and password and therefore you should review that third party's privacy policy. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password as detailed in Section 8. 
 
-### 8.  Accessing, Reviewing and Changing Your Personal Information
+### 8\. Accessing, Reviewing and Changing Your Personal Information
 
 Following registration, you can review and change the information you submitted during registration including: 
 
@@ -124,17 +124,17 @@ Upon your request, we will deactivate your account, contact information, and fin
 
 We will retain in our files information you have requested to remove in some circumstances, such as to prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, and enforce our User Agreement, and to comply with legal requirements. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such information will be deactivated from public viewing and usage by other members of eBay and will only be available to select eBay personnel. 
 
-### 9.  Other Information Collectors
+### 9\. Other Information Collectors
 
 Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are bidders, buyers or sellers on our Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy customs and policies. Since eBay does not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your personal information to others. 
 
-### 10.  Security
+### 10\. Security
 
 Your Information is stored on eBay Inc.'s server located in the United States. We use industry standard efforts to safeguard the confidentiality of your personal information, such as firewalls and Secure Socket Layers. However, "perfect security" does not exist on the Internet. As stated elsewhere in this Privacy Policy, eBay Inc. is subject to similar privacy rules as eBay and eBay is a related body corporate of eBay Inc (which is located at 2145 Hamilton Ave., San Jose, CA 95125, USA). 
 
 ### 11\. Notice
 
-We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least thirty (30) days' notice of the changes by posting the changes on the announcements board and sending email to users who select such [notification preference](http://cgi4.ebay.com.my/ws/eBayISAPI.dll?OptinLoginShow).  We provide you with thirty (30) days notice to allow you the opportunity to notify eBay if you do not agree to such changes as described in [Section 8](http://pages.ebay.com.my/help/policies/privacy-policy.html#change_info). 
+We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least thirty (30) days' notice of the changes by posting the changes on the announcements board and sending email to users who select such [notification preference](http://cgi4.ebay.com.my/ws/eBayISAPI.dll?OptinLoginShow). We provide you with thirty (30) days notice to allow you the opportunity to notify eBay if you do not agree to such changes as described in [Section 8](http://pages.ebay.com.my/help/policies/privacy-policy.html#change_info). 
 
   
 **Related Help topics**  
