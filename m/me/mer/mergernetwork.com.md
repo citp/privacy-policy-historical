@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mergernetwork.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210142930id_/http%3A//www.mergernetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mergernetwork.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421140606id_/http%3A//www.mergernetwork.com/privacy) for the most accurate reproduction.*
 
 # Businesses for sale | Business For Sale | Buy a business at MergerNetwork.com
 
@@ -86,5 +86,5 @@ If you choose to visit the Site your visit and any dispute over privacy is subje
 
 If you have any questions about our privacy policy, send us a message using the contact form at <http://www.mergernetwork.com/help/writetous>.
 
-©2007 Brauns Online Media, Inc.  
+©2008 Brauns Online Media, Inc.  
 Effective Date: July 1, 2007 
