@@ -1,49 +1,71 @@
-> *The following text is extracted and transformed from the gamerevolution.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221172647id_/http%3A//www.gamerevolution.com/static/index.php%3Fsection%3Dlegal%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerevolution.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421102256id_/http%3A//www.gamerevolution.com/static/index.php%3Fsection%3Dlegal%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Game Revolution Privacy Policy
 
-**Advertisers**  
-We use third-party advertising companies to serve our ads on the Internet. These third-party advertising companies employ cookie and 1x1 pixel .gif technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.
+**Crave Online's Commitment To Privacy**   
+This policy governs the domain gamerevolution.com.  
+If you catch one of our interns peeking in your windows, that's an entirely separate situation.  
+That sort of thing would be handled by their parents. Or the authorities.   
+Crave is firmly committed to protecting the privacy of Internet users and fostering consumer confidence in the Internet, Internet advertising and direct marketing. We invite all users to [contact us](http://www.craveonline.com/contact/) with any questions or concerns.  
+**What Crave Does**   
+We operate a content portal that combines the best of entertainment and other interests in one place. We sell advertisements throughout out site on behalf of advertisers.  
+Crave Promotions: We develop customized online promotional campaigns such as sweepstakes and other incentive-style marketing campaigns.  
+Crave Mail: Crave operates an e-mail newsletter that it sends to users that have registered to receive it.  
+**How Crave Products and Services Enhance User Privacy and Protect the Property of Advertisers and Web Publishers**   
+Crave serves ads throughout our site and those of our partners. The cookies that are employed across our represented websites serve a quantitative function and are not designed to collect and store data profiles on users. They are used to:  
+• Report to advertisers and Web site clients the estimated total reach of an ad campaign;  
+• Report the frequency with which an ad was shown to a user, and other measurement statistics;  
+• Ensure that an advertisement displayed to a user corresponds to the correct click-through destination;  
+• Deliver a series of advertisements in the proper sequence;   
+• Limit the number of times a browser is delivered the same advertisement;  
+• Login registered Crave user accounts  
+• Log anonymous visitors to our site for the purposes of identifying whether a visitor is a unique.   
+Destruction timetable:  
+user cookies ("users_uid") expire one year after the last time the user successfully logged in to their Crave account.  
+anonymous cookies ("tracking_anonid") expire 6 months from the date of the last visit to Crave.  
+Crave does not use any of the data collected via cookies for purposes other than those described above, nor do we merge personally identifiable information with non-personally identifiable information, or otherwise parse, sort, gather, or aggregate user data for use elsewhere. Non-PII is collected by Crave through session cookies that terminate when the browser is closed.  
+Crave Online Media thus has no reason to offer users the choice to "opt-out" of anything that pertains to ad serving.  
+**What User Information Is Collected by Email and Promotions**   
+Crave Online Media collects two types personally identifiable information only through its Email and Promotions business lines.  
+**Personally Identifiable Information ("PII")**   
+PII is personal information classified as personal to the online consumer, such as name, address, phone number and email address. PII also includes other personal information such as birthdate, zip code, gender, or lifestyle information.  
+Crave's Email and Promotions divisions collect PII on an opt-in basis only. Crave Online Media will not collect any PII unless that user voluntarily provides it to us. If you do not want your personal information collected online, please do not submit it to surveys, promotions, sweepstakes, or subscriptions.PII is collected by Crave Online Media when online users respond to a survey and provide it, when they register for an email newsletter, register for a product or service online, or enter a sweepstakes promoted by Crave, its subsidiaries or its partners. Selected partners of Crave Online Media will share information with Crave Online Media about only their online consumers who have consented to the sharing of their information with third parties.  
+Furthermore, each individual in the Crave Email database has answered positively to an "opt in" question, or they have voluntarily filled out an Internet survey card to receive email solicitation about products of interest. Crave Online Media and its partners communicate with these users frequently to verify their "opt in" status. Crave Online Media also provides users with an explicit opportunity to opt-out every time an email promotion is sent.  
+In all instances, prior to providing PII information to Crave's Email or Promotions divisions, each online user is given meaningful notice regarding the collection practice and a choice regarding the dissemination of such information. All users are informed about how Crave Online Media and its partners may use such information, including whether it will be shared with marketing partners or combined with other information available to Crave. Users will always be offered the choice not to provide PII or not to have such PII shared with others. Crave Online Media will not share this PII information with any partner company if the user indicates on the registration form the preference to limit the use of such information.  
+Crave Online Media does not collect personal medical information or credit information, or information related to children, except in compliance with the Children's Online Privacy Protection Act.  
+**How Crave Online Media Uses Collected Information**   
+Personally Identifiable Information (PII) is used by Crave Online Media in several ways, as follows:  
+Promotions and Email divisions use the PII to deliver permission-based direct marketing messages based on a user's expressed interests.  
+If an online user voluntarily submits its email address to Crave, or one of its partners, online, he or she may receive periodic emails from Crave Online Media with information on new services or products being offered by our company or by one of our partners.  
+Opting Out From Crave's List of Permissioned Email Addresses  
+If you are a member of our database and do not wish to receive such mailings, send an email to [info@craveonline.com](mailto:info@craveonline.com).  
+**With Whom Collected Information Is Shared**   
+Crave Online Media shares the collected information only as set forth below. Crave Online Media does not sell or transfer the ownership of its PII or Non-PII. Crave Online Media provides its partners only with access to such information on a limited basis. Before any access is shared with a partner, Crave Online Media ensures that such partner publishes and adheres to strict privacy principles regarding the use of such information. Any such use is disclosed to the online user at the time such user submits information.  
+Personally Identifiable Information (PII): in cases where an online consumer has consented to have their information shared with third parties, Crave Online Media will make access to the information available to selected third party partners in accordance with clearly stated guidelines.  
+Non-Personally Identifiable Information (Non-PII): Access to Non-PII is shared, in aggregated format, with Crave's Web site and advertiser clients who use the aggregated data to determine the reach, effectiveness, future campaign plans, and success of their advertising campaigns. At no time is this non-PII merged with PII. It is useless to any and all parties except as quantifiable data to our advertisers and clients who wish to measure the effectiveness of their campaigns.   
+Opting Out From GNM Promotions Database  
+An online user may request removal of his or her PII information from GNM's Promotions database by sending an email to [info@craveonline.com](mailto:info@craveonline.com).  
+Any consumer who prefers not to provide this information online, can send regular mail to the following address:
 
-If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. Click here for the NAI gateway opt-out site. This site will also allow you to review many of the the third-party advertising companies� privacy policies.
+Privacy @ Crave Online  
+5140 W Goldleaf Circle, 1st Floor  
+Los Angeles, CA 90056 
 
-**Third Party Advertising**  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here
+Once a request to opt-out has been received, Crave Online Media will deliver a confirming email message to the user that the user's PII has been successfully opted out of our database. If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed.   
+**Security and Access to Collected Information**   
+Collection from reliable sources: Crave Online Media collects information only from reliable third party partners that have strict and clearly stated privacy and data collection practices in place.  
+Protection of collected data: Crave Online Media maintains strict data security systems that ensure specific information will not be made available to any unauthorized person. All collected information is stored on our Web server or database but is not publicly accessible from our Web site. Crave Online Media uses a password protected security system to control access to information stored about its users. Crave Online Media also provides stringent physical security and only provides access to authorized personal.  
+Dissemination restrictions: Crave Online Media will provide access to collected PII data only to those partners that adhere to fair information practices for lawful, non-discriminatory purposes.  
+**Disclosure and Changes to Our Privacy Policy**   
+Crave Online Media makes available all of its information practices at [www.craveonline.com/privacy](http://www.craveonline.com/privacy/). In addition, Crave Online Media provides users with the option to contact it at [info@craveonline.com](mailto:info@craveonline.com) with any further questions or concerns.  
+All email or media companies that provide Crave Online Media with opt-in email names are required to post their privacy policies clearly.  
+**Third Party Ad Servers**   
+Crave Online Media and some of our advertisers use third-party advertising companies to serve their ads on our sites. These third-party advertising companies employ cookie technology to measure ad effectiveness. To do so, these companies may use information about your visits to our sites and other Web sites. Unless you are otherwise notified, these advertising companies do not use names, addresses, email addresses, or telephone numbers, and they do not link any online actions or cookies to an identifiable person. Use of their cookies is subject to their own privacy policies.  
+These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit their respective web sites.  
+**Linked Web Sites**   
+This Web site contains links to other Web sites. Crave Online Media is not responsible for the privacy practices or the content of such Web sites. Crave Online Media encourages you to read the privacy statements of these linked Web sites, as their privacy policy may differ from ours.  
+**For More Information**   
+For more information about Crave, please contact us at [info@craveonline.com](mailto:info@craveonline.com).
 
-http://www.maxonline.com/privacy_policy/index.php
+  
 
-**Newsletter**  
-The subscribers of the GR weekly newsletter, Spam Revolution, are kept as a list of email addresses only. No other information is tied to or contained in this list and we have no idea who these maniacs are. Occasionally, third parties may send special offers or advertisements to newsletter subscribers, but not very often.
-
-**Contest**  
-GR has periodic contests giving away video and computer game oriented prizes. The demographic data collected by this contest for internal use only. It is used to assess our audience and to assist in the sale of advertising.
-
-**IP Address**  
-Your IP address is a number that is assigned by your ISP to your computer to identify it on the internet. GR uses your IP address to determine total site traffic, help diagnose problems with our server, and to administer our website. We also sometimes use IP addresses to contact users and occasionally ban those users who are not complying with our Terms of Use.
-
-**Public Forums**  
-This site provides chat rooms, forums, message boards, and email discussion groups to its users. Use of these boards, and the entire site, is governed by GR's Terms of Use. Data collected from the bulletin boards is used for verification purposes only and is not used in any other way. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-**Other sites**  
-GR contains links to other websites. We cannot be responsible for their content or for private information that they collect. Please note: Information you release directly to parties who provide services to Game Revolution, such as any services or vendors in the SmartShop or other sites you encounter on the Internet (even sites that are co-branded with Game Revolution) may be subject to different rules of use or disclosure. We encourage you to investigate and ask questions before disclosing personal information to third parties.
-
-**Protection**  
-Game Revolution uses industry standard protections, such as firewalls, to make sure that your data remains confidential. While we will not disclose all our security measures, they may also include machine gun towers, zombies, a moat, Lee Majors, pungee stakes, vicious guard monkeys, and a surly elf who will not relinquish the blue key.
-
-**No Warrantee**  
-Nobody is perfect. We cannot completely ensure that your private communications and other personal information will not be disclosed to others. By way of example, without limiting the foregoing, under certain circumstances we may be forced to disclose information to the government, or hackers may unlawfully intercept or access transmissions or private communications, or we might disclose your information to other parties as part of providing additional services to you. Plus, our wives and girlfriends are extremely nosy. Therefore, although we try, we can not promise that your personal information or private communications will remain entirely private.
-
-**COPPA Compliance**  
-Game Revolution is not subject to the terms of COPPA because the site is not targeted at children under 13. Parts of the site contain depictions of violence, references to the consumption of alcohol and drugs, Taoist philosophy, nude video game characters, strong language, and the Spice Girls. The Game Revolution website is restricted by both Cyberpatrol and AOL Parental Controls. We urge concerned parents to get involved in their children's online experiences, rather than using those flawed tools as a crutch.
-
-Game Revolution is committed to protecting the privacy of children online. Children should not reveal their addresses, phone numbers or any other personal information to strangers on the Internet. Children under the age of 13 are prohibited from supplying Game Revolution with any personal information, through the above services or by any means, without first providing parental consent. This consent, in the form of a signed letter, must be submitted by mail to Game Revolution, 740 Gilman St., Berkeley, CA 94710.
-
-**Third Party Advertising Part Deux**  
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
-
-**GR Cookies**  
-The GR message boards place cookies on your computer to make them function better. The data in these cookies is not used for any other purpose.
-
-**Third Party Cookies**
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
