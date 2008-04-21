@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moonraymarketing.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223030527id_/http%3A//moonraymarketing.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moonraymarketing.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421190434id_/http%3A//moonraymarketing.com/policy.php) for the most accurate reproduction.*
 
 # MoonRay Marketing
 
-[](https://web.archive.org/web/20071223030527id_/http%3A//moonraymarketing.com/live_demo.php)
+[](https://web.archive.org/web/20080421190434id_/http%3A//moonraymarketing.com/live_demo.php)
 
 Moon-Ray Privacy Policy
 
