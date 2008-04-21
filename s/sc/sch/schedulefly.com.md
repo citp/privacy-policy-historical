@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schedulefly.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221164514id_/http%3A//www.schedulefly.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedulefly.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421211223id_/http%3A//www.schedulefly.com/privacy.htm) for the most accurate reproduction.*
 
 # Schedulefly Privacy Policy
 
@@ -25,6 +25,6 @@ As Schedulefly evolves, this privacy policy is likely to evolve with it. We will
 
 **Your Feedback**   
 Schedulefly.com welcomes your questions and comments regarding our privacy policy.   
-Please [send us your comments](https://web.archive.org/web/20071221164514id_/http%3A//www.schedulefly.com/contact.aspx) or write to us at 809 Blenheim Dr Raleigh NC 27612. 
+Please [send us your comments](https://web.archive.org/web/20080421211223id_/http%3A//www.schedulefly.com/contact.aspx) or write to us at 809 Blenheim Dr Raleigh NC 27612. 
 
 **This Privacy Policy was last updated July 19th, 2007.**
