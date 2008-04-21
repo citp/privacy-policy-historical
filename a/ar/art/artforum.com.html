@@ -1,0 +1,300 @@
+<!--The following is the downloaded HTML source of the artforum.com privacy policy that was archived on 2008-04-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080421184232id_/http%3A//www.artforum.com/index.php%3Fpn%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>artforum.com / PRIVACY POLICY</title><meta http-equiv="content-type" content="text/html;charset=iso-8859-15"><link rel="stylesheet" type="text/css" href="/wide_small.css"><script type="text/javascript" language="JavaScript" src="http://www.artforum.com/ads_js.php?sid=122n466a3r7kop2nkncdu7a8s1&amp;uid=480ce017f287f"></script>  <script src="/script/swfobject.js" type="text/javascript"></script>
+
+  <script language="JavaScript" type="text/javascript">
+  <!--
+  
+    var timeout = 3000;
+    var timeout_count = 0;
+    var timeout_lastcall = 0;
+    var timeout_jobs = []; // register further jobs
+
+    function img_act(imgName) {
+      if (document.images != null) {
+        imgOn = eval(imgName + "on.src");
+        document[imgName].src = imgOn;
+      }
+    }
+
+    function img_inact(imgName) {
+      if (document.images != null) {
+        imgOff = eval(imgName + "off.src");
+        document[imgName].src = imgOff;
+      }
+    }
+
+    var ads_top_offset = 0;
+    var ads_topright_offset = 0;
+    var ads_offset = 0;
+    var ads_numdisplay = 0;
+
+    function Ad(id, ext, url)
+    {
+      this.id = id; 
+      this.ext = ext;
+      this.url = url;
+      this.image = null;
+    }
+
+    var ads_top = null;
+    var ads_topright = null;
+    var ads = null;
+
+    function ads_open_top (pos) {
+      if(ads_top != null) {
+        var ad = ads_top[ads_top_offset % ads_top.length];
+        if(ad.url != '')
+          open('/ads.php?url=' + escape(ad.url) + (null != ad.id ? '&id=' + ad.id : ''), '_blank');
+      }
+    }
+
+    function ads_open_topright (pos) {
+      if(ads_topright != null) {
+        var ad = ads_topright[ads_topright_offset % ads_topright.length];
+        if(ad.url != '')
+          open('/ads.php?url=' + escape(ad.url) + (null != ad.id ? '&id=' + ad.id : ''), '_blank');
+      }
+    }
+
+    function ads_open (pos) {
+      if(ads != null) {
+        var ad = ads[(pos + ads_offset) % ads.length];
+        if(ad.url != '')
+          open('/ads.php?url=' + escape(ad.url) + (null != ad.id ? '&id=' + ad.id : ''), '_blank');
+      }
+    }
+
+    function ads_change () {
+      var now = new Date();
+      if((now.getTime() - timeout_lastcall) * 2 < timeout)
+        return;
+
+      timeout_lastcall = now.getTime();
+      timeout_count++;
+
+      if(ads_top != null && (timeout_count % 3) == 0) {
+        if(++ads_top_offset >= ads_top.length)
+          ads_top_offset = 0;
+        if(document['ad_top'] != null)
+          document['ad_top'].src = ads_top[ads_top_offset].image.src;
+      }
+
+      if(ads_topright != null && (timeout_count % 4) == 0) {
+        if(++ads_topright_offset >= ads_topright.length)
+          ads_topright_offset = 0;
+        if(document['ad_topright'] != null)
+          document['ad_topright'].src = ads_topright[ads_topright_offset].image.src;
+      }
+
+      if(ads != null && (timeout_count % 3) == 0) {
+        if(++ads_offset >= ads.length)
+          ads_offset = 0;
+        for(var i=0; i < ads_numdisplay; i++) {
+          if(document['ad'+i] != null)
+            document['ad'+i].src = ads[(i + ads_offset) % ads.length].image.src;
+        }
+      }
+      
+      for(var i = 0; i < timeout_jobs.length; i++)
+        if(0 == (timeout_count % timeout_jobs[i].period)) {
+            timeout_jobs[i].action(timeout_jobs[i]);
+        }
+    }
+
+    function print_open (url) {
+      if(url != '')
+        open(url, '_blank', 'width=530,resizable=yes,scrollbars=yes');
+    }
+
+    function create_image(src) {
+		  rslt = new Image();
+		  rslt.src = src;
+		  return rslt;
+    }
+    
+    var preload_hooks = new Array();
+    var preload_flag  = false;
+
+    function loaded() {
+      if(document.images != null) {
+        for(var i=0; ads_top != null && i < ads_top.length; i++) {
+          ads_top[i].image = create_image(ads_top[i].ext == null ? ads_top[i].id : '/uploads/ads/ads' + ads_top[i].id + ads_top[i].ext);
+          if(i == 0 && document['ad_top'] != null)
+            document['ad_top'].src = ads_top[i].image.src;
+        }
+        for(var i=0; ads_topright != null && i < ads_topright.length; i++) {
+          ads_topright[i].image = create_image('/uploads/ads/ads' + ads_topright[i].id + ads_topright[i].ext);
+          if(i == 0 && document['ad_topright'] != null)
+            document['ad_topright'].src = ads_topright[i].image.src;
+        }
+        if(ads != null) {
+          for(var i=0; i < ads.length; i++) {
+            ads[i].image = create_image('/uploads/ads/ads' + ads[i].id + ads[i].ext);
+            if(i < ads_numdisplay && document['ad' + i] != null)
+              document['ad'+i].src = ads[i].image.src;
+          }
+          for(var i=ads.length; i < ads_numdisplay; i++) {
+            if(document['ad'+i] != null)
+              document['ad'+i].src = ads[i % ads.length].image.src;
+          }
+        }
+        if(preload_hooks.length > 0) {
+          for(var i=0; i < preload_hooks.length; i++)
+            preload_hooks[i]();
+        }
+        preload_flag = true;
+        window.setInterval('ads_change()', timeout);
+      }
+    }
+  var ad_topright = new Image(110, 110);
+ads_topright = new Array(new Ad(16, '.gif', 'http://www.gagosian.com/'),new Ad(159, '.jpg', 'http://www.PatrickPainter.com/'),new Ad(13, '.jpg', 'http://www.lissongallery.com/'));
+ads_numdisplay = 15;var ads0 = new Image(80, 80);
+var ads1 = new Image(80, 80);
+var ads2 = new Image(80, 80);
+var ads3 = new Image(80, 80);
+var ads4 = new Image(80, 80);
+var ads5 = new Image(80, 80);
+var ads6 = new Image(80, 80);
+var ads7 = new Image(80, 80);
+var ads8 = new Image(80, 80);
+var ads9 = new Image(80, 80);
+var ads10 = new Image(80, 80);
+var ads11 = new Image(80, 80);
+var ads12 = new Image(80, 80);
+var ads13 = new Image(80, 80);
+var ads14 = new Image(80, 80);
+ads = new Array(new Ad(74, '.gif', 'http://www.connercontemporary.com/'),new Ad(90, '.gif', 'http://www.wps1.org/'),new Ad(109, '.gif', 'http://www.rosegallery.net/'),new Ad(65, '.jpg', 'http://www.gladstonegallery.com'),new Ad(64, '.gif', 'http://www.lehmannmaupin.com'),new Ad(59, '.gif', 'http://www.levygallery.com'),new Ad(36, '.gif', 'http://www.damelioterras.com'),new Ad(160, '.gif', 'http://www.maxhetzler.com/'),new Ad(366, '.gif', 'http://www.bettycuninghamgallery.com/'),new Ad(32, '.gif', 'http://www.davidzwirner.com'),new Ad(341, '.jpg', 'http://www.gavinbrown.biz'),new Ad(1, '.gif', 'http://www.i-20.com/'),new Ad(94, '.gif', 'http://www.flcart.org/'),new Ad(33, '.gif', 'http://www.zwirnerandwirth.com'),new Ad(274, '.jpg', 'http://www.sarameltzergallery.com/'),new Ad(54, '.gif', 'http://www.studiolacitta.it/'));
+menu0on = new Image;
+menu0on.src="/media/menu/guide_t.gif";
+menu0off = new Image;
+menu0off.src="/media/menu/guide_f.gif";
+menu1on = new Image;
+menu1on.src="/media/menu/diary_t.gif";
+menu1off = new Image;
+menu1off.src="/media/menu/diary_f.gif";
+menu2on = new Image;
+menu2on.src="/media/menu/inprint_t.gif";
+menu2off = new Image;
+menu2off.src="/media/menu/inprint_f.gif";
+menu3on = new Image;
+menu3on.src="/media/menu/museums_t.gif";
+menu3off = new Image;
+menu3off.src="/media/menu/museums_f.gif";
+menu4on = new Image;
+menu4on.src="/media/menu/picks_t.gif";
+menu4off = new Image;
+menu4off.src="/media/menu/picks_f.gif";
+menu5on = new Image;
+menu5on.src="/media/menu/news_t.gif";
+menu5off = new Image;
+menu5off.src="/media/menu/news_f.gif";
+menu6on = new Image;
+menu6on.src="/media/menu/talkback_t.gif";
+menu6off = new Image;
+menu6off.src="/media/menu/talkback_f.gif";
+menu7on = new Image;
+menu7on.src="/media/menu/bookforum_t.gif";
+menu7off = new Image;
+menu7off.src="/media/menu/bookforum_f.gif";
+menu8on = new Image;
+menu8on.src="/media/menu/af_cn_t.gif";
+menu8off = new Image;
+menu8off.src="/media/menu/af_cn_f.gif";
+
+  // -->
+  </script>
+  </head>
+<body style="margin: 0px; background-color:#f6f6f6" bgcolor="#f6f6f6" marginwidth="0" marginheight="0" onload="loaded()">
+<div align="center" style="margin-left: auto; margin-right: auto;"><table border="0" cellspacing="0" cellpadding="0" width="937" bgcolor="#ffffff"><tbody><tr>
+  <td width="27"><img src="http://www.artforum.com/media/gen_gifs/spacer.gif" width="1" hspace="13" height="1" vspace="0" alt="" border="0"></td>
+  <td align="left" valign="top">    <table border="0" cellspacing="0" cellpadding="0" width="760" style="margin-top: 9px;">
+    <tbody><tr>
+      <td align="left" valign="middle">  <a href="javascript:ads_open_top()" target="_self"><img src="/media/gen_gifs/spacer.gif" width="234" height="60" alt="" border="0" name="ad_top"></a></td>
+      <td align="right" valign="middle"><a href="/"><img src="/media/logos_large/logo_register.gif" border="0" width="221" height="51" vspace="12" alt="ARTFORUM"></a></td>
+    </tr>
+    <tr><td colspan="2"><img src="/media/gen_gifs/spacer.gif" width="1" height="1" vspace="4" alt=""></td></tr>
+    <form action="/search/" method="post"></form>
+    <tr><td colspan="2" valign="bottom"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td><a href="/guide/" onmouseover="img_act('menu0')" onmouseout="img_inact('menu0')"><img src="/media/menu/guide_f.gif" alt="guide" name="menu0" border="0" vspace="0" hspace="0" width="58" height="11"></a><a href="/diary/" onmouseover="img_act('menu1')" onmouseout="img_inact('menu1')"><img src="/media/menu/diary_f.gif" alt="diary" name="menu1" border="0" vspace="0" hspace="0" width="38" height="11"></a><a href="/inprint/" onmouseover="img_act('menu2')" onmouseout="img_inact('menu2')"><img src="/media/menu/inprint_f.gif" alt="inprint" name="menu2" border="0" vspace="0" hspace="0" width="50" height="11"></a><a href="/museums/" onmouseover="img_act('menu3')" onmouseout="img_inact('menu3')"><img src="/media/menu/museums_f.gif" alt="museums" name="menu3" border="0" vspace="0" hspace="0" width="58" height="11"></a><a href="/picks/" onmouseover="img_act('menu4')" onmouseout="img_inact('menu4')"><img src="/media/menu/picks_f.gif" alt="picks" name="menu4" border="0" vspace="0" hspace="0" width="38" height="11"></a><a href="/news/" onmouseover="img_act('menu5')" onmouseout="img_inact('menu5')"><img src="/media/menu/news_f.gif" alt="news" name="menu5" border="0" vspace="0" hspace="0" width="37" height="11"></a><a href="/talkback/" onmouseover="img_act('menu6')" onmouseout="img_inact('menu6')"><img src="/media/menu/talkback_f.gif" alt="talkback" name="menu6" border="0" vspace="0" hspace="0" width="61" height="11"></a><a href="http://www.bookforum.com/" target="_blank" onmouseover="img_act('menu7')" onmouseout="img_inact('menu7')"><img src="/media/menu/bookforum_f.gif" alt="bookforum" name="menu7" border="0" vspace="0" hspace="0" width="66" height="11"></a><a href="http://artforum.com.cn/" target="_blank" onmouseover="img_act('menu8')" onmouseout="img_inact('menu8')"><img src="/media/menu/af_cn_f.gif" alt="af_cn" name="menu8" border="0" vspace="0" hspace="0" width="40" height="12"></a></td><td align="right"><input name="search" type="text" size="16" style="font-size:9px; border: #999999 1px solid;margin-bottom:3px; ">&nbsp;<input type="image" src="/media/menu/search.gif" width="35" height="11" border="0" alt="search"></td></tr></tbody></table></td></tr>
+    
+    <tr><td colspan="2"><img src="/media/gen_gifs/spacer.gif" width="1" height="2" vspace="0" alt=""></td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
+      <td align="left" class="login"><a style="text-decoration: underline;" href="/index.php?pn=privacy&amp;do_login=1">log in</a></td>
+      <td valign="bottom" align="right"><a href="https://artforum.com/subscribe/" target="_self" class="subMenu"> &nbsp; subscribe</a><a href="/html/advertise" class="subMenu"> &nbsp; advertise</a><a href="/back_issues/" class="subMenu"> &nbsp; back issues</a><a href="/contact/" class="subMenu"> &nbsp; contact us</a><a href="/register/" class="subMenu"> &nbsp; register</a></td></tr></tbody></table></td></tr>
+    </tbody></table>
+    </td>
+  <td bgcolor="#ebebeb" width="3"><img src="http://www.artforum.com/media/gen_gifs/spacer.gif" width="1" hspace="1" height="1" vspace="66" alt="" border="0"></td>
+  <td width="134">  <a href="javascript:ads_open_topright()"><img name="ad_topright" src="https://web.archive.org/uploads/ads/ads16.gif" width="110" height="110" alt="" border="0" hspace="12" vspace="12"></a>
+</td>
+</tr>
+<tr>
+  <td colspan="4" bgcolor="#ebebeb"><img src="http://www.artforum.com/media/gen_gifs/spacer.gif" width="1" hspace="0" height="1" vspace="1" alt="" border="0"></td>
+</tr>
+<tr>
+  <td width="27"></td>
+  <td valign="top" align="left" width="760">
+    <table border="0" width="735" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+        <td width="120" valign="top"><img src="http://www.artforum.com/media/gen_gifs/spacer.gif" width="1" hspace="34" height="1" vspace="0" alt="" border="0"></td>
+        <td width="40" height="90">&nbsp;</td>
+        <td colspan="2" valign="top"><div style="padding-top: 37px; padding-bottom: 20px;"><img src="/media/headers/head_privacy.gif" width="168" height="33" alt="privacy policy" style="margin-left: 0;"></div><div style="width:570px"><p class="content">This privacy policy governs the use of all of the web sites owned or operated by <i>Artforum International Magazine</i>, Inc. including artforum.com, and bookforum.com.</p>
+
+<p class="content">artforum.com, and bookforum.com collect information from users through voluntary submissions, traffic data, and cookie technology. We ask you for contact information for access to certain parts of our sites, including on-line symposia and the bulletin boards, and to subscribe to our free e-mail newsletter. Each time a user visits our sites, we count, track, and aggregate the user's activity into our analysis of general traffic flows. Our Web server recognizes no information regarding the individual identity or e-mail addresses of our users. We maintain a user profile in our databases based on the passwords of a user and the preferences the user has chosen in relation to their use of our site.</p>
+
+<p class="content">The use of cookies is standard on the Internet. Cookies are a software technology that helps to enhance browsing and to customize our sites to your preferences. Passwords are saved in cookies to avoid users having to repeatedly log in when they want to enter artforum.com, and bookforum.com. Our system also automatically gathers information about the areas you visit on our sites and about the links you select from within our sites to other areas of the World Wide Web or elsewhere on-line. You may choose to set up your browser to refuse cookies or alert you when cookies are sent. However, this may limit some features of our sites.</p>
+
+<p class="content">The information you provide helps us to make our sites better and more responsive to our users. We do not target advertising or sponsorships at the current time, though we may occasionally wish to send you a promotional offer via e-mail if you so choose. artforum.com, and bookforum.com also track the number of visitors to our sites in aggregate form to allow us to update and improve them, and to tell others something about the people who come to artforum.com, and bookforum.com. We do not share any detailed individual member information with other companies. At our discretion, we may make the information about artforum.com, and bookforum.com's users available in aggregate form, with no personal identifiers, to help describe and identify our users to business partners, co-branded sites, the industry, the public, as well as our advertisers.</p>
+
+<p class="content">We do not sell, share, rent, or intentionally make publicly available users' personal information, including e-mail addresses, except as provided herein. This information is used by artforum.com, and bookforum.com only for internal purposes. The information will be secured to prevent unauthorized use. We have the following exceptions to these policies: We will release specific information about you or your account to comply with any valid legal process, such as a search warrant, subpoena, statute, or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of the sites, or a physical threat to you or others.</p>
+
+<p class="content">artforum.com, and bookforum.com may, from time to time, send e-mail messages to you containing advertisements, promotions, etc. artforum.com, and bookforum.com make no representation or warranty with respect to the content of any e-mail messages that may be sent from third parties, who have obtained your e-mail address without the permission of <i>Artforum International</i> Inc., and you agree that neither artforum.com, and bookforum.com shall have any liability with respect thereto.</p>
+
+<p class="content">Please remember that whenever you voluntarily disclose personal information in public areas of artforum.com, and bookforum.com your information can be viewed and possibly used by others. We advise you not to disclose information that can be used to contact you directly if you don't want others to obtain that information, like your full name, home address, or phone number.</p>
+
+<p class="content">By using artforum.com, and bookforum.com, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the sites following the posting of changes to these terms will mean that you accept those changes.</p>
+
+<p class="content">All questions regarding this privacy statement should be addressed to: <br>
+<br>
+Attn.: Privacy Policy<br>
+<br>
+Artforum International<br>
+350 Seventh Avenue, 19th floor<br>
+New York, New York 10001<br>
+<br>
+(212) 475-4000</p>
+&nbsp;</div>
+</td>
+    </tr>
+    </tbody></table>
+  </td>
+  <td bgcolor="#ebebeb" width="3"><img src="http://www.artforum.com/media/gen_gifs/spacer.gif" width="1" hspace="1" height="1" vspace="0" alt="" border="0"></td>
+  <td valign="top"><img src="http://www.artforum.com/media/gen_gifs/spacer.gif" width="1" hspace="0" height="2" vspace="2" alt="" border="0"><br>
+      <img src="/media/gen_gifs/spacer.gif" width="1" height="1" vspace="3" alt=""><br>
+  <a href="#" onclick="javascript:window.open('/galleries.php', 'galleries', 'width=320,height=480,resizable=yes,scrollbars')"><img src="/media/buttons/links.gif" width="63" height="11" border="0" alt="click for links" hspace="20" vspace="2"></a><br>
+  <a href="javascript:ads_open(0)"><img name="ad0" src="https://web.archive.org/uploads/ads/ads74.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+  <a href="javascript:ads_open(1)"><img name="ad1" src="https://web.archive.org/uploads/ads/ads90.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+  <a href="javascript:ads_open(2)"><img name="ad2" src="https://web.archive.org/uploads/ads/ads109.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+  <a href="javascript:ads_open(3)"><img name="ad3" src="https://web.archive.org/uploads/ads/ads65.jpg" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+  <a href="javascript:ads_open(4)"><img name="ad4" src="https://web.archive.org/uploads/ads/ads64.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+  <a href="javascript:ads_open(5)"><img name="ad5" src="https://web.archive.org/uploads/ads/ads59.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+  <a href="javascript:ads_open(6)"><img name="ad6" src="https://web.archive.org/uploads/ads/ads36.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+  <a href="javascript:ads_open(7)"><img name="ad7" src="https://web.archive.org/uploads/ads/ads160.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+  <a href="javascript:ads_open(8)"><img name="ad8" src="https://web.archive.org/uploads/ads/ads366.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+  <a href="javascript:ads_open(9)"><img name="ad9" src="https://web.archive.org/uploads/ads/ads32.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+  <a href="javascript:ads_open(10)"><img name="ad10" src="https://web.archive.org/uploads/ads/ads341.jpg" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+  <a href="javascript:ads_open(11)"><img name="ad11" src="https://web.archive.org/uploads/ads/ads1.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+  <a href="javascript:ads_open(12)"><img name="ad12" src="https://web.archive.org/uploads/ads/ads94.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+  <a href="javascript:ads_open(13)"><img name="ad13" src="https://web.archive.org/uploads/ads/ads33.gif" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+  <a href="javascript:ads_open(14)"><img name="ad14" src="https://web.archive.org/uploads/ads/ads274.jpg" width="80" height="80" alt="" border="0" hspace="12" vspace="6"></a><br>
+</td>
+</tr>
+<tr>
+  <td colspan="4" align="center" style="text-align: center;"><img src="http://www.artforum.com/media/gen_gifs/spacer.gif" width="1" hspace="0" height="1" vspace="6" alt="" border="0"><br><p class="footer"><a href="https://artforum.com/subscribe/" target="_self" class="subMenu">subscribe</a> &nbsp; <a href="/html/advertise" class="subMenu">advertise</a> &nbsp; <a href="/back_issues/" class="subMenu">back issues</a> &nbsp; <a href="/contact/" class="subMenu">contact us</a> &nbsp; <a href="/register/" class="subMenu">register</a><br><br><a href="/" class="subMenu">home</a> &nbsp; <a href="/guide/" class="subMenu">guide</a> &nbsp; <a href="/diary/" class="subMenu">diary</a> &nbsp; <a href="/inprint/" class="subMenu">in print</a> &nbsp; <a href="/museums/" class="subMenu">museums</a> &nbsp; <a href="/picks/" class="subMenu">picks</a> &nbsp; <a href="/news/" class="subMenu">news</a> &nbsp; <a href="/talkback/" class="subMenu">talkback</a> &nbsp; <a href="http://www.bookforum.com/" target="_blank" class="subMenu">bookforum</a> &nbsp; <a href="http://artforum.com.cn/" target="_blank" class="subMenu">af_cn</a></p><p><a href="/ads.php?url=http%3A%2F%2Fwww.sohogrand.com%2F&amp;id=25" target="_blank"><img src="/uploads/ads/ads25.gif" width="90" height="36" alt="" border="0" hspace="3" vspace="6"></a><a href="/ads.php?url=http%3A%2F%2Fwww.astorwines.com%2F&amp;id=100" target="_blank"><img src="/uploads/ads/ads100.gif" width="90" height="36" alt="" border="0" hspace="3" vspace="6"></a><a href="/ads.php?url=http%3A%2F%2Fwww.bookforum.net%2F&amp;id=24" target="_blank"><img src="/uploads/ads/ads24.gif" width="90" height="36" alt="" border="0" hspace="3" vspace="6"></a></p>  <p class="rootCopyright">All rights reserved. artforum.com is a registered trademark of Artforum International Magazine, New York, NY<br><a href="/index.php?pn=privacy">Privacy Policy</a></p></td>
+</tr></tbody></table></div><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-80108-1";
+_udn="artforum.com"; 
+urchinTracker();
+</script></body></html>
