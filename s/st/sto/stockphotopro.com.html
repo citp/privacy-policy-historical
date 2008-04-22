@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stockphotopro.com privacy policy that was archived on 2007-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071206195101id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockphotopro.com privacy policy that was archived on 2008-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080422092844id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
  
@@ -10,7 +10,7 @@
 <meta name="description" content="StockphotoPro is your resource for the best most high quality stockphoto.">
 <meta name="rating" content="general">
 <meta name="author" content="StockphotoPro">
-<meta name="copyright" content="Copyright © 2001-2007">
+<meta name="copyright" content="Copyright © 2001-2008">
 <title>StockphotoPro - The Stock Photo Community.</title>
 <link href="http://www.stockphotopro.com/favicon.ico" rel="SHORTCUT ICON">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.stockphotopro.com/spp.css">
@@ -19,14 +19,13 @@
 
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Style-Type" content="text/css">
-<script type="text/javascript" src="http://www.stockphotopro.com/include/xoops.js">
-</script>
 
 <script type="text/javascript">
 <!--
 
 //-->
 </script>
+<script language="javascript" src="http://www.stockphotopro.com/include/sppmain.js"></script>
 <script language="javascript" src="http://www.stockphotopro.com/include/expand/highslide.js"></script>
 <script language="javascript" src="http://www.stockphotopro.com/include/expand/highslide-html.js"></script>
 <script language="javascript" src="http://www.stockphotopro.com/include/filesearchhover.js" type="text/javascript"></script>
@@ -39,7 +38,7 @@
     hs.outlineWhileAnimating = true;
 </script>
 </head>
-<body onload="recoverInputs(document.forms.search,retrieveCookie('inpVal'),true);loadXMLDoc('istock/index.php_files/js_rotate2.xml');">
+<body onload="recoverInputs(document.forms.search,retrieveCookie('inpVal'),true);">
 <table id="wraper" cellspacing="0" cellpadding="0">
   <tbody><tr>
    <td>
@@ -54,7 +53,7 @@
       <tbody><tr>
     <td style="text-align: left;">
 Welcome to StockphotoPro - high quality stock photography         </td>
-         <td class="time">Thursday, December  6, 2007  <a href="?language=en"><img src="modules/osC/includes/languages/english/images/icon.gif" border="0" alt="English" title=" English " \=""></a>  <a href="?language=de"><img src="modules/osC/includes/languages/german/images/icon.gif" border="0" alt="Deutsch" title=" Deutsch " \=""></a>  <a href="?language=ja"><img src="modules/osC/includes/languages/japanese/images/icon.gif" border="0" alt="Japanese" title=" Japanese " \=""></a>  <a href="?language=es"><img src="modules/osC/includes/languages/espanol/images/icon.gif" border="0" alt="Español" title=" Español " \=""></a>  <a href="?language=fr"><img src="modules/osC/includes/languages/french/images/icon.gif" border="0" alt="French" title=" French " \=""></a> </td>
+         <td class="time">  <a href="?language=en"><img src="/modules/osC/includes/languages/english/images/icon.gif" border="0" alt="English" title=" English " \=""></a>  <a href="?language=de"><img src="/modules/osC/includes/languages/german/images/icon.gif" border="0" alt="Deutsch" title=" Deutsch " \=""></a>  <a href="?language=ja"><img src="/modules/osC/includes/languages/japanese/images/icon.gif" border="0" alt="Japanese" title=" Japanese " \=""></a>  <a href="?language=es"><img src="/modules/osC/includes/languages/espanol/images/icon.gif" border="0" alt="Español" title=" Español " \=""></a>  <a href="?language=fr"><img src="/modules/osC/includes/languages/french/images/icon.gif" border="0" alt="French" title=" French " \=""></a> </td>
         </tr>
       </tbody></table>
 	  <table cellspacing="0" cellpadding="0" width="100%" id="menuHeadNavTable">
@@ -77,7 +76,7 @@ Welcome to StockphotoPro - high quality stock photography         </td>
 						<div class="blockTitle">Search</div>
 						<div class="blockContent">
        						<form name="search" style="margin: 5px;" action="http://www.stockphotopro.com/searchphoto.php" onsubmit="setCookie('inpVal',getFormString(this,true));" method="post">
-							Enter Keywords<input type="text" name="keywd" value="" style="border:1px inset #fff; background:#fff; width:95%;" maxlength="25"><br>
+							Enter Keywords<input type="text" name="keywd" value="" style="border:1px inset #fff; background:#fff; width:95%;" maxlength="60"><br>
 							<h5 style="" onclick="ToggleSearchOptionGroup('searchOptionGroupSort', 'searchOptionGroupSortOpener', false);">
 								<img id="searchOptionGroupSortOpener" src="http://www.stockphotopro.com/images/arrowrightgrey.gif">Sort Order</h5>
 								<div id="searchOptionGroupSort" class="searchOptionGroup">	
@@ -123,19 +122,20 @@ Welcome to StockphotoPro - high quality stock photography         </td>
 		<!-- Start left blocks loop -->
                         <div class="block">
                  <div class="blockTitle">Login</div>
-                 <div class="blockContent"><form style="margin:10px 5px 5px 5px;" action="http://www.stockphotopro.com/user.php" method="post">Username: <br>
+                 <div class="blockContent"><form style="margin: 5px;" action="http://www.stockphotopro.com/user.php" method="post">
+    Username: <br>
     <input type="text" name="uname" size="20" value="" maxlength="25"><br>
     Password: <br>
     <input type="password" name="pass" size="20" maxlength="32"><br>
     <!-- <input type="checkbox" name="rememberme" value="On" class ="formButton" /><br /> //-->
-    <input type="hidden" name="xoops_redirect" value="/sppprivacy.php">
+    <input type="hidden" name="url_redirect" value="/sppprivacy.php">
     <input type="hidden" name="op" value="login">
     <input type="submit" value="Sign In"><br>
     
 </form>
-<a style="margin:10px 5px 5px 5px; " href="http://www.stockphotopro.com/user.php#lost">Lost Password?</a>
+<a style="margin:5px;" href="http://www.stockphotopro.com/user.php#lost">Lost Password?</a>
 <br>
-<a style="margin:10px 5px 5px 5px;" href="http://www.stockphotopro.com/register.php">Register now!</a></div>
+<a style="margin:5px;" href="http://www.stockphotopro.com/register.php">Register now!</a></div>
               </div>
            
           <!-- End left blocks loop -->
@@ -148,6 +148,7 @@ Welcome to StockphotoPro - high quality stock photography         </td>
 				 <a href="http://www.stockphotopro.com/image_myimages.php" class="menuTop">My images</a>
 				 <a href="http://www.stockphotopro.com/imageupload.php" class="menuTop">Upload</a>
 				 <a href="http://www.stockphotopro.com/sppftaf.php" class="menuTop">Send a Friend</a>
+				 <a href="http://www.stockphotopro.com/affiliate.php" class="menuTop">Affiliate Program</a>
 				 <a href="http://www.stockphotopro.com/sppsupport.php" class="menuTop">Support</a>
 				 <a href="http://www.stockphotopro.com/modules/smartfaq/index.php" class="menuTop">FAQ</a>
 				<br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -214,16 +215,14 @@ Consumers can have this information corrected by sending us e-mail at the above 
   </tr>
 </tbody></table>
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-1145496-1";
-_uccn="camp";
-_ucsr="adver";
-_ucmd="type";
-_uctr="kwd";
-_ucct="version"; 
-urchinTracker();
-</script>
 
-</body></html>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1145496-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script> </body></html>
