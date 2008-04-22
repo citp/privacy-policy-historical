@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wis.dm privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212225431id_/http%3A//wis.dm/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wis.dm privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422072318id_/http%3A//wis.dm/corp/privacy) for the most accurate reproduction.*
 
 # wis.dm
 
@@ -24,7 +24,7 @@ When you register to become a member of wis.dm, you submit certain personal info
 
 ### Age Limitation 
 
-Anyone under the age of seventeen (17) is not eligible to use the wis.dm Service and must not submit any personal information to us. 
+Anyone under the age of fourteen (14) is not eligible to use the wis.dm Service and must not submit any personal information to us. 
 
 ### Use of Information 
 
