@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the imdb.es privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220154611id_/http%3A//www.imdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imdb.es privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422211756id_/http%3A//www.imdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Database (IMDb)
 
   
-|  [](https://web.archive.org/search)  
----  
----  
+|   
 ---  
 [](https://web.archive.org/interfaces) |  [accessing the IMDb](https://web.archive.org/interfaces)  
 [](https://web.archive.org/marketing) |  [marketing](https://web.archive.org/marketing)  
@@ -23,6 +21,8 @@
    
 |   
 
+
+**Last Updated July 27th, 2007**. To see what has changed click here. 
 
 IMDb knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **By visiting IMDb, you are accepting the practices described in this Privacy Notice.**
 
@@ -53,7 +53,7 @@ We share user information with our parent corporation (Amazon.com, Inc.), the su
   * **Affiliated Businesses We Do Not Control** : We work closely with our affiliated businesses. In some cases, we will include offerings from these businesses on IMDb. In other cases, we may include joint offerings from IMDb and these businesses on IMDb. You can tell when another business is involved in the offering, and we share user information related to those offerings with that business. 
   * **Agents** : We employ other companies and individuals to perform functions on our behalf. Examples include sending e-mail, removing repetitive information from user lists, analyzing data, and providing marketing assistance. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
   * **Promotional Offers** : Sometimes we send offers to selected groups of IMDb users on behalf of other businesses. When we do this, we do not give that business your name and e-mail address. If you do not want to receive such offers, please use our [User Administration](https://web.archive.org/register/) pages to adjust your preferences. 
-  * **Business Transfers** : As we continue to develop our business, we might sell or buy additional services or business units. In such transactions, user information generally is transferred along with the rest of the service or business unit. Also, in the event that The Internet Movie Database Ltd., or substantially all of its assets are acquired, user information will of course be included in the transaction. 
+  * **Business Transfers** : As we continue to develop our business, we might sell or buy additional services or business units. In such transactions, user information generally is transferred along with the rest of the service or business unit. Also, in the event that IMDb, Inc., or substantially all of its assets are acquired, user information will of course be included in the transaction. 
   * **Protection of IMDb and Others** : We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our [Terms and Conditions of Use](https://web.archive.org/terms) and other agreements; or protect the rights, property, or safety of IMDb, our users, or others. This includes exchanging information with other companies and organizations for fraud protection. 
 
 
@@ -62,7 +62,11 @@ Other than as set out above, you will always receive notice when information abo
 
 **What About Third-Party Advertisers?**
 
-Our site includes third-party advertising, and some of our advertisers use third-party companies to serve their advertisements that appear on our site.Often, these third-party advertising companies, called "ad networks" or "network advertisers", employ cookie and other technologies to measure the effectiveness of their ads and to show you ads that are more relevant and interesting to you. We do not provide any user information to them, and we do not have access to or control cookies that may be placed by the ad networks. If you would like more information about the ad networks, including information about how to opt-out of their information collection, the [National Advertising Initiative](http://www.networkadvertising.org/) offers useful information on its Web site.
+Our site includes third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites.
+
+These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the [National Advertising Initiative](http://www.networkadvertising.org/) offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection.
+
+IMDb may also display targeted advertising based on personal information about users. Although IMDb does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a targeted advertisement meet the targeting criteria used to display the ad (for example, users in the northwestern United States who like romantic comedies).
 
 **How Secure Is Information About Me?**
 
@@ -89,6 +93,14 @@ IMDb is not intended for use by children under the age of 13\. If you are under 
 If you choose to visit IMDb, your visit and any dispute over privacy is subject to this Notice and our [Terms and Conditions of Use](https://web.archive.org/terms), including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at IMDb, please send us a thorough description to [our help desk](https://web.archive.org/help/feedback/contact?target=1), and we will try to resolve it. Our business changes constantly. This Notice and the [Terms and Conditions of Use](https://web.archive.org/terms) will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. 
 
 Related Practices and Information 
+
+**_Changes to Privacy Policy: July 27th, 2007: Update text for "Third Party Advertisers"_**
+
+**Added**  
+Our site includes third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites. These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the Network Advertising Initiative offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection. IMDb may also display targeted advertising based on personal information about users. Although IMDb does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a targeted advertisement meet the targeting criteria used to display the ad (for example, users in the northwestern United States who like romantic comedies).
+
+**Deleted**  
+Our site includes third-party advertising, and some of our advertisers use third-party companies to serve their advertisements that appear on our site.Often, these third-party advertising companies, called "ad networks" or "network advertisers", employ cookie and other technologies to measure the effectiveness of their ads and to show you ads that are more relevant and interesting to you. We do not provide any user information to them, and we do not have access to or control cookies that may be placed by the ad networks. If you would like more information about the ad networks, including information about how to opt-out of their information collection, the [National Advertising Initiative](http://www.networkadvertising.org/) offers useful information on its Web site. 
 
   * [Terms and Conditions of Use](https://web.archive.org/terms)
 
