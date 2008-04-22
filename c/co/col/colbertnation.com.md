@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colbertnation.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028065356id_/http%3A//www.colbertnation.com%3Fpage_id%3D890) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colbertnation.com privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422233433id_/http%3A//www.colbertnation.com%3Fpage_id%3D890) for the most accurate reproduction.*
 
 # ColbertNation.com » PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS
 
