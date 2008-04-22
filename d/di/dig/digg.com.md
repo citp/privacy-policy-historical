@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digg.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212105502id_/http%3A//www.digg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digg.com privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422213610id_/http%3A//digg.com/privacy) for the most accurate reproduction.*
 
 # Digg / Privacy Policy
 
-Digg is founded on the principals of helping people to discover new information by enabling them to share what they find interesting with one another. Digg knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the Digg website, you are accepting the practices outlined in this Privacy Policy. 
+Digg is founded on the principles of helping people to discover new information by enabling them to share what they find interesting with one another. Digg knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the Digg website, you are accepting the practices outlined in this Privacy Policy. 
 
 This Privacy Policy covers Digg's treatment of personal information that Digg gathers when you are on the Digg website and when you use Digg services. This policy does not apply to the practices of third parties that Digg does not own or control, or to individuals that Digg does not employ or manage.
 
@@ -28,7 +28,7 @@ Digg is very concerned about your privacy and we will never provide your email a
 
 ### Cookies
 
-  * Cookies are alphanumeric identifiers that we tranfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Digg cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is. 
+  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Digg cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is. 
   * The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Digg's coolest features. 
   * Some of our business partners, like our advertisers, may use cookies on our website. We have no access to, or control over, these cookies.
 
@@ -62,7 +62,7 @@ Because Digg enables people to discover and share information with one another, 
 
   * As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new links.
   * By visiting your User Profile, you can correct, amend, add or delete personal information on our website. When you update information, however, we often maintain a copy of the unrevised information in our records.
-  * You may request deletion of your Digg account by e-mailing us at [support@digg.com](https://web.archive.org/web/20071212105502id_/http%3A//www.digg.com/support@digg.com).
+  * You may request deletion of your Digg account by e-mailing us at [support@digg.com](mailto:support@digg.com).
   * If you do not wish to receive e-mail from us or other Digg users, please visit the [Email Preferences](https://web.archive.org/settings/email) section of your User Profile and/or follow the instructions contained in the unwanted e-mail message.
   * However, please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
   * If you do not wish to have people who know you by your email address find you via the Member Directory service, please visit the [Privacy Settings](https://web.archive.org/settings) section of your User Profile to opt out of this feature.
