@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydish.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217025743id_/http%3A//mydish.com/privacy.php%3Fkbid%3D1673) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydish.com privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422180058id_/http%3A//mydish.com/privacy.php%3F%3D1673) for the most accurate reproduction.*
 
 # AllSat Privacy Policy - DISH Network Satellite TV by AllSat
 
