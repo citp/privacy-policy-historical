@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224123029id_/http%3A//www.vouchercodes.co.uk/Content/Privacy-C7.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422214901id_/http%3A//www.vouchercodes.co.uk/Content/Privacy-C7.html) for the most accurate reproduction.*
 
 # Discount Codes | Privacy
 
