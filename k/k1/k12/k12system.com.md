@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k12system.com privacy policy that was archived on 2007-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070803095114id_/http%3A//www.k12system.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12system.com privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422163557id_/http%3A//www.k12system.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # K12 Systems - Privacy Policy
 
