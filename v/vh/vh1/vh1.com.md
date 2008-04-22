@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vh1.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212183039id_/http%3A//www.vh1.com/interact/terms/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vh1.com privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422225611id_/http%3A//www.vh1.com/interact/terms/privacy.jhtml) for the most accurate reproduction.*
 
 # VH1.com : Terms - Privacy Policy and Your Rights, Personal Information, Member Registration
 
@@ -16,7 +16,7 @@ This is the official privacy policy ("Privacy Policy") for VH1.com ("Site," "we,
 
 
 
-This Site is offered and made available only to users 13 years of age or older who reside in the United States of America, its territories and possessions ("U.S"). **If you are not yet 13 years old, or do not reside in the U.S., please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information**. This Privacy Policy is a part of the terms and conditions which are set forth in our [**Terms of Use Agreement**](https://web.archive.org/web/20071212183039id_/http%3A//www.vh1.com/interact/terms/index.jhtml). Both the Privacy Policy and Terms of Use Agreement are legally binding on all users. 
+This Site is offered and made available only to users 13 years of age or older who reside in the United States of America, its territories and possessions ("U.S"). **If you are not yet 13 years old, or do not reside in the U.S., please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information**. This Privacy Policy is a part of the terms and conditions which are set forth in our [**Terms of Use Agreement**](https://web.archive.org/web/20080422225611id_/http%3A//www.vh1.com/interact/terms/index.jhtml). Both the Privacy Policy and Terms of Use Agreement are legally binding on all users. 
 
 We reserve the right to revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective to you immediately upon posting. Notice of material changes to either document will be posted on the Site's homepage. However, we encourage you to check this Privacy Policy and Terms of Use Agreement often for updates. We may also e-mail you about these changes.
 
