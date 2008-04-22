@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardlife.ca privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219225423id_/http%3A//www.standardlife.ca/en/corporate/customer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardlife.ca privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422054552id_/http%3A//standardlife.ca/en/corporate/customer/privacy.html) for the most accurate reproduction.*
 
 # Standard Life Canada
 
@@ -11,15 +11,17 @@ Customer Information & Protection
 
 [Customer Complaint Filing Process](https://web.archive.org/en/corporate/customer/filing.html)
 
-[Ombudsman](https://web.archive.org/cgi-bin/ombudsman.pl?en)
-
 [CLHIA Consumer Information](https://web.archive.org/en/corporate/customer/consumer_info.html)
 
-[Participating Policyholders](https://web.archive.org/en/corporate/customer/policyholders.html)
+[Important information for participating policyholders](https://web.archive.org/en/corporate/customer/policyholders.html)
 
 [Unclaimed Property](http://www.standardlife.ca/PublicUnclaimedProperty/searchfrominternet.do?language=en)
 
+[Standard Life Structured Settlement Arrangements - Notice to Parties](https://web.archive.org/en/pdf/corporate/customer/6135.pdf)
+
 [Privacy Policy](https://web.archive.org/en/corporate/customer/privacy.html)
+
+Fraud Warning
 
 |   
 |   
