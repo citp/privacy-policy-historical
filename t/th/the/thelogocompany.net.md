@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelogocompany.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213044142id_/http%3A//thelogocompany.net/forum/privacy-policy-t2160.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelogocompany.net privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422221626id_/http%3A//thelogocompany.net/forum/privacy-policy-t2160.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
