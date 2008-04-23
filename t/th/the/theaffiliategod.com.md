@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaffiliategod.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221055851id_/http%3A//www.theaffiliategod.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaffiliategod.com privacy policy that was archived on 2008-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080423093420id_/http%3A//www.theaffiliategod.com/privacy.html) for the most accurate reproduction.*
 
 # The Affiliate God - Privacy
 
@@ -8,7 +8,7 @@ The Affiliate God's Privacy Policy  (last updated November 13, 2006)
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services") those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members") what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such info. We request that you read this Privacy Policy carefully. 
 
-If you have questions or concerns regarding this statement, you should first contact us on our [FAQ page](https://web.archive.org/web/20071221055851id_/http%3A//www.theaffiliategod.com/faq.html) after you have read through the FAQ questions.
+If you have questions or concerns regarding this statement, you should first contact us on our [FAQ page](https://web.archive.org/web/20080423093420id_/http%3A//www.theaffiliategod.com/faq.html) after you have read through the FAQ questions.
 
 **Personal Information Our Company Collects and How It Is Used**
 
