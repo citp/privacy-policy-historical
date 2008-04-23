@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the flightschedulepro.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211033813id_/http%3A//www.flightschedulepro.com/front_endv2/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightschedulepro.com privacy policy that was archived on 2008-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080423020756id_/http%3A//www.flightschedulepro.com/front_endv2/privacypolicy.html) for the most accurate reproduction.*
 
 # Flight Schedule Pro - Privacy Policy
+
+**Flight Schedule Pro  
+PRIVACY POLICY  
+**
 
 **We Respect Your Rights.** **Your information is safe with Flight Schedule Pro.**
 
