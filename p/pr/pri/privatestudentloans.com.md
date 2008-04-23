@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privatestudentloans.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026113214id_/http%3A//www.privatestudentloans.com/private-student-loans-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatestudentloans.com privacy policy that was archived on 2008-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080423025541id_/http%3A//www.privatestudentloans.com/private-student-loans-privacy-policy.php) for the most accurate reproduction.*
 
 # Private Student Loans from the Student Loan Network
 
@@ -17,7 +17,7 @@ We invite you to contact us if you have questions about this policy. You may con
     United States of America
     
 
-You may contact us at "privacy  AT edvisors DOT com" or call us at 617-328-1565. 
+You may contact us by [email](mailto:privacy@edvisors.com) or call us at 617-328-1565. 
 
 ## Dispute Resolution and Privacy Seals
 
@@ -32,6 +32,8 @@ We have the following privacy seals and/or dispute resolution mechanisms. If you
 This policy is valid until 1 Sep, 2008 at 12:00:00 EST. 
 
 ## Data Collection
+
+We utilize third-party services that provide data analyses and audience segmentation services and allow them and other third parties to place cookies onto your computer when you visit our websites. These companies may use information about the search terms you use and your visits to this and other websites in order to provide advertisements about goods and services of interest to you. In order to maintain your privacy we do not allow companies to use personally identifiable information (such as name, address, email address or telephone numbers) and we do not allow any collection or analysis of data from any secure application pages. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 1 data group. 
 
@@ -147,5 +149,3 @@ Microsoft Internet Explorer 6 will evaluate this policy's compact policy wheneve
 ## Fraud and Identity Theft Deterrence
 
 For the safety and security of our valued customers, information including visitor data and any application data is recorded and stored, and will be provided to law enforcement officials upon request. Customers may not opt out of information collection for the purposes of providing law enforcement with relevant data for investigation. 
-
-Congratulations on reading this far. The plain English version of our privacy policy is that we don't sell, rent, or share your stuff unless you tell us to, but you probably will get one or more of our free newsletters. You can unsubscribe from them any time. 
