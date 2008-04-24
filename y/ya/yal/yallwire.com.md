@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the yallwire.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211024045id_/http%3A//www.yallwire.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yallwire.com privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424071925id_/http%3A//www.yallwire.com/policy.html) for the most accurate reproduction.*
 
 # Yallwire Privacy Policy
 
 **Privacy Policy**   
-Yallwire.com is a BLASTRO, INC. media site. All terms and policies for BLASTRO apply to Yallwire.com. At Yallwire, we are committed to you and to protecting your privacy. The information we collect about you is used to provide you with a more personalized and richer experience while visiting our site. Please read further for details. 
+Yallwire.com is a BLASTRO, INC. media site. All terms and policies for BLASTRO apply to Yallwire.com. At Yallwire, we are committed to protecting your privacy. The information we collect about you is used to provide you with a more personalized and richer experience while visiting our site. Please read further for details. 
 
 **How Does Yallwire Collect Information?**  
 Your IP Address   
@@ -16,7 +16,7 @@ Yallwire uses a feature on your Internet Web browser called a "cookie." A cookie
 Yallwire does not house or collect any personal information about you unless you knowingly and willingly provide it. 
 
 **Membership Registration**   
-Yallwire has a registration process through which you voluntarily sign up to access the members-only features of our Website. During the registration process, we ask for your name and email address. Also, to make sure that nobody else can access our members-only features using your name or identity, we ask that you create a unique username with a password. 
+Yallwire has a registration process through which you voluntarily sign up to access the members-only features of our Website. During the registration process, we ask for your name, email address, and other personal information. To make sure that nobody else can access our members-only features using your name or identity, we ask that you create a unique username with a password. 
 
 **Newsletter Subscription**   
 When you subscribe to our FREE newsletters, we ask for an email address to send them to. You may opt out of receiving future mailings or cancel your subscription(s) at any time. (See the subscribe/unsubscribe section below.) 
@@ -26,7 +26,7 @@ When you enter a contest or take part in a promotion, we may ask for your name, 
 
 **Does Yallwire Ever Share Information with Other Parties?**  
 Disclosure of Information to Outside Parties   
-Yallwire may provide your email information to select partners, reputable companies or organizations whose products and services may interest you. If you prefer not to receive online marketing from Blastro, Inc., please contact us at contact@blastro.com or call us at 1.512.485.3148. We do collect demographic and profile data, which is aggregated and shared with advertisers. Here's an example of what our advertisers would receive. "Of the 25,371 clicks your banner received, 38% of the those were by users between the ages of 25-34." 
+Yallwire may provide your email information to select partners, reputable companies or organizations whose products and services may interest you. If you prefer not to receive online marketing from Yallwire, Inc., please contact us at contact@blastro.com or call us at 1.512.485.3148. We do collect demographic and profile data, which is aggregated and shared with advertisers. Here's an example of what our advertisers would receive. "Of the 25,371 clicks your banner received, 38% of the those were by users between the ages of 25-34." 
 
 **Links to Outside Third Parties**   
 Yallwire may establish relationships with reputable business partners by creating a link between our sites. Yallwire chooses its business partners carefully. We are not, however, responsible for the content, maintenance or privacy policies of those sites. Once you click over to a third-party site, we encourage you to check their privacy policy. Users who click over to a third-party site from a link on Yallwire must be aware that Yallwire makes no warranties with regard to that site's policies or business practices. Yallwire is not responsible for any transactions that occur between the user and the third-party site. Should a user purchase any products or services from that third-party site, the user must contact the third-party site directly regarding any disputes that might occur, including, but not limited to: delayed shipping, missing products, damaged goods, or pricing or billing discrepancies. Yallwire is not responsible for the actions of any third-party site. 
@@ -40,7 +40,7 @@ Yallwire has on-demand streaming music videos, live streaming video programming,
 **Subscribe/unsubscribe**  
 Should you choose to in the future, Yallwire provides its users the opportunity to opt out of receiving communications from us and our partners. 
 
-If you would like to cancel your registered membership, remove your information from our database and not receive future communications from us, please utilize one of the following options: Email your request to [support@yallwire.com](mailto:info@yallwire.com)
+If you would like to cancel your registered membership, remove your information from our database and not receive future communications from us, please utilize one of the following options: Email your request to [support@yallwire.com](mailto:support@yallwire.com)
 
 Send your request via post to: 609 W. 18th #C, Austin, Tx 78701 
 
