@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abovetheinfluence.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221091325id_/http%3A//www.abovetheinfluence.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abovetheinfluence.com privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424070730id_/http%3A//www.abovetheinfluence.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | AboveTheInfluence.com
 
@@ -54,7 +54,7 @@ On certain Web pages, we may use a certain type of "cookie" - what is known as a
 To protect your privacy, be sure to close your browser completely after you have finished conducting business with a Web site that uses cookies. If you are concerned about the potential use of information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. Most Internet browsers have settings that let you identify and/or reject cookies. These settings are usually located under "Tools" on your browser toolbar.
 
 **How to Change or Modify Your Permission at Any Time**  
-If you wish to remove your online submission from our Web site, you may e-mail us at [contactus@AbovetheInfluence.com](mailto:contactus@freevibe.com) or write to AbovetheInfluence Coordinator: 1615 L Street NW, Suite 1000 Washington, DC 20036. Be sure to clearly indicate your screen name, and a brief description of your submission. We will retain your e-mail address and any other information you provide only until we've removed your submission. If we have questions about your correspondence to our "remove submissions" mailbox, we may write back to you one time for further clarification. 
+If you wish to remove your online submission from our Web site, you may e-mail us at [contactus@AbovetheInfluenceMail.com](mailto:contactus@abovetheinfluencemail.com) or write to AbovetheInfluence Coordinator: 1615 L Street NW, Suite 1000 Washington, DC 20036. Be sure to clearly indicate your screen name, and a brief description of your submission. We will retain your e-mail address and any other information you provide only until we've removed your submission. If we have questions about your correspondence to our "remove submissions" mailbox, we may write back to you one time for further clarification. 
 
 **Internet Security Policy**  
 For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
@@ -68,7 +68,7 @@ You should be aware that AbovetheInfluence.com links to other Web sites that are
 If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 **Contact Information**  
-If you have questions about our Privacy Policy or are interested in sending us your suggestions, comments or concerns, please contact us at [contactus@AbovetheInfluence.com](mailto:contactus@AbovetheInfluence.com).
+If you have questions about our Privacy Policy or are interested in sending us your suggestions, comments or concerns, please contact us at [contactus@AbovetheInfluenceMail.com](mailto:contactus@AbovetheInfluenceMail.com).
 
 For more information about online privacy, please review the tips provided on the [GetNetWise](http://www.getnetwise.org/safetyguide/tips/kids.shtml) Web site or the [Federal Trade Commission's kid's privacy](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) page: 
 
