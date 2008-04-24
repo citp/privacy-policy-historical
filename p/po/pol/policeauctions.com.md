@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the policeauctions.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205142000id_/http%3A//www.policeauctions.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policeauctions.com privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424042621id_/http%3A//www.policeauctions.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,4 +76,4 @@ For any questions about this privacy statement, the practices of this site, or y
 
 2\. By Phone 1-714-963-4900
 
-3\. By snail mail: 10061 Talbert Ave., #204, Fountain Valley, CA 92708
+3\. By snail mail: 10061 Talbert Ave., #204, Fountain Valley, CA 92708 
