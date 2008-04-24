@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225162318id_/http%3A//www.newcars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424094218id_/http%3A//www.newcars.com/privacy.php) for the most accurate reproduction.*
 
 # NewCars.com Privacy Policy
 
@@ -54,7 +54,7 @@ Although we take steps to help prevent the misuse of your information, after any
 
 Accessing or Changing Information
 
-If you wish to access, verify the accuracy of, correct, or change the personally identifiable information you have submitted via the Site, please contact us via [e-mail](https://web.archive.org/web/20071225162318id_/http%3A//www.newcars.com/mailer.php). To protect your privacy, we may take reasonable steps to verify your identity before granting access or making corrections.
+If you wish to access, verify the accuracy of, correct, or change the personally identifiable information you have submitted via the Site, please contact us via [e-mail](https://web.archive.org/web/20080424094218id_/http%3A//www.newcars.com/mailer.php). To protect your privacy, we may take reasonable steps to verify your identity before granting access or making corrections.
 
 Security
 
@@ -74,4 +74,4 @@ If this privacy statement materially changes, the new privacy statement will be 
 
 Questions
 
-If you have any questions about this privacy statement, please [e-mail us](https://web.archive.org/web/20071225162318id_/http%3A//www.newcars.com/mailer.php).
+If you have any questions about this privacy statement, please [e-mail us](https://web.archive.org/web/20080424094218id_/http%3A//www.newcars.com/mailer.php).
