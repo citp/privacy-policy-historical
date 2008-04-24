@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaicosmeticsurgery.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224105312id_/http%3A//www.dubaicosmeticsurgery.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaicosmeticsurgery.com privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424040751id_/http%3A//www.dubaicosmeticsurgery.com/privacy.htm) for the most accurate reproduction.*
 
 # Dubai Cosmetic Surgery - Privacy Policy Statement
 
