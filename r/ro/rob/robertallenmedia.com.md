@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the robertallenmedia.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224041119id_/http%3A//www.robertallenmedia.com/campaigns/rga/common/privacy.php%3Foffer%3Drga) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robertallenmedia.com privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424082249id_/http%3A//www.robertallenmedia.com/campaigns/rga/common/privacy.php%3Foffer%3Drga) for the most accurate reproduction.*
 
 # Multiple Streams of Income Privacy Policy
 
 ## Privacy Policy
 
-Last updated July 2007
+Accurate as of April 2008
 
 OUR PRIVACY POLICY CHANGES FROM TIME TO TIME. PLEASE CHECK BACK FREQUENTLY
 
