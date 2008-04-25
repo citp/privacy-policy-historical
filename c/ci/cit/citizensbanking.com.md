@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensbanking.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225232636id_/http%3A//citizensbanking.com/privacyStatement.aspx%3Fid%3D598) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensbanking.com privacy policy that was archived on 2008-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080425144048id_/http%3A//www.citizensbanking.com/privacyStatement.aspx%3Fid%3D598) for the most accurate reproduction.*
 
 # Citizens Bank: Privacy Statement
 
