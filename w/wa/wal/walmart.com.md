@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the walmart.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226190608id_/http%3A//www.walmart.com/catalog/catalog.gsp%3Fcat%3D121240) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmart.com privacy policy that was archived on 2008-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080425212215id_/http%3A//www.walmart.com/catalog/catalog.gsp%3Fcat%3D121240) for the most accurate reproduction.*
 
-# Our Privacy Policy - Security & Privacy - Help - Wal-Mart
+# Walmart.com: Help: Our Privacy Policy
 
 | 
 
