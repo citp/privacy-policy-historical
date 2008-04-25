@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ataglance.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225235118id_/http%3A//www.ataglance.com/webapp/wcs/stores/servlet/MWPrivacyView%3FlangId%3D-1%26storeId%3D10052%26catalogId%3D10002%26portfolio%3Dfalse%26mainnav%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ataglance.com privacy policy that was archived on 2008-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080425102440id_/http%3A//www.ataglance.com/webapp/wcs/stores/servlet/MWPrivacyView%3FlangId%3D-1%26storeId%3D10052%26catalogId%3D10002%26portfolio%3Dfalse%26mainnav%3DY) for the most accurate reproduction.*
 
 # Customer Service
 
@@ -32,7 +32,7 @@ We appreciate the trust you place in us, and we are committed to respecting your
 
 We always welcome your questions and feedback. For privacy-related issues, please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/MWContactView?langId=-1&storeId=10052&shopStoreID=10052&catalogId=10002) at:
 
-> MeadWestvaco Consumer & Office Products  
+> MWV Consumer & Office Products  
 >  Consumer Affairs  
 >  4751 Hempstead Station Road  
 >  Kettering, OH 45429  
@@ -139,6 +139,6 @@ From time to time, we may use customer information for unanticipated uses not pr
 
 For questions, comments or assistance, we invite you to [contact us](https://web.archive.org/webapp/wcs/stores/servlet/MWContactView?langId=-1&storeId=10052&shopStoreID=10052&catalogId=10002).
 
-For additional information regarding the privacy policy of our parent company, MeadWestvaco, [click here](https://web.archive.org/webapp/wcs/stores/servlet/MWMeadwestvacoView?langId=-1&storeId=10052&catalogId=10002).
+For additional information regarding the privacy policy of our parent company, MWV, [click here](https://web.archive.org/webapp/wcs/stores/servlet/MWMeadwestvacoView?langId=-1&storeId=10052&catalogId=10002).
 
 We hope to answer any questions to your satisfaction, but should you ever want to contact a third party regarding our privacy practices, you can email the Direct Marketing Association's Committee on Ethical Business Practices at privacypromise@the-dma.org. The DMA is the oldest and largest association for consumers and companies with interest in direct marketing.
