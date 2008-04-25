@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the link2gov.com privacy policy that was archived on 2007-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071031005102id_/http%3A//www.link2gov.com/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the link2gov.com privacy policy that was archived on 2008-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080425203347id_/http%3A//www.link2gov.com/policy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
