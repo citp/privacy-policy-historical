@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomicblogging.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224062405id_/http%3A//www.atomicblogging.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomicblogging.com privacy policy that was archived on 2008-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080425114222id_/http%3A//www.atomicblogging.com/privacy.html) for the most accurate reproduction.*
 
 # Atomic Blogging Secrets Revealed
 
