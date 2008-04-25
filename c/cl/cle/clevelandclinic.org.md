@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevelandclinic.org privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226162825id_/http%3A//cms.clevelandclinic.org/body.cfm%3Fid%3D20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevelandclinic.org privacy policy that was archived on 2008-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080425220429id_/http%3A//cms.clevelandclinic.org/body.cfm%3Fid%3D20) for the most accurate reproduction.*
 
 # Privacy
 
