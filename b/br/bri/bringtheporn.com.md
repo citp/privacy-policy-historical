@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bringtheporn.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227014135id_/http%3A//www.bringtheporn.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bringtheporn.com privacy policy that was archived on 2008-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080426010354id_/http%3A//bringtheporn.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Bring the Porn
 
@@ -45,4 +45,7 @@ We have made an effort to protect the personal information of all Members and ot
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [privacy@bringtheporn.com](mailto:privacy@bringtheporn.com)
 
- 
+  
+
+
+* * *
