@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vinvesting.com privacy policy that was archived on 2007-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071228011744id_/http%3A//vinvesting.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vinvesting.com privacy policy that was archived on 2008-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080427015117id_/http%3A//vinvesting.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head>
 <title>Privacy Policy | VInvesting.com</title>
@@ -26,6 +26,7 @@
 <style type="text/css" media="all">@import "/modules/system/system.css";</style>
 <style type="text/css" media="all">@import "/modules/tagadelic/tagadelic.css";</style>
 <style type="text/css" media="all">@import "/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/modules/openid/openid.css";</style>
 <style type="text/css" media="all">@import "/themes/litejazz/style.css";</style>
 <style type="text/css" media="all">@import "/themes/litejazz/css/blue.css";</style>
 <style type="text/css" media="all">@import "/themes/litejazz/content.css";</style>
@@ -41,7 +42,8 @@
 <script type="text/javascript" src="/modules/jstools/tabs/tabs.js"></script>
 <script type="text/javascript" src="/modules/jstools/collapsiblock/collapsiblock.js"></script>
 <script type="text/javascript" src="/modules/jstools/jquery.cookie.js"></script>
-<script type="text/javascript">Drupal.extend({ settings: { "jstools": { "cleanurls": true, "basePath": "/" }, "activemenu": { "#block-menu-1": "activemenu/menu", "#block-menu-2": "activemenu/menu", "#block-menu-57": "activemenu/menu", "#block-menu-66": "activemenu/menu", "#block-user-1": "activemenu/menu" }, "tabs": { "slide": false, "fade": false, "speed": "slow", "auto_height": false }, "collapsiblock": { "blocks": { "block-views-comments_recent": "2", "block-advpoll-mostrecent": "2", "block-menu-57": "2", "block-block-3": "3" }, "default_state": 1 } } });</script>
+<script type="text/javascript" src="/modules/openid/openid.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "jstools": { "cleanurls": true, "basePath": "/" }, "activemenu": { "#block-menu-1": "activemenu/menu", "#block-menu-2": "activemenu/menu", "#block-menu-57": "activemenu/menu", "#block-menu-66": "activemenu/menu", "#block-user-1": "activemenu/menu" }, "tabs": { "slide": false, "fade": false, "speed": "slow", "auto_height": false }, "collapsiblock": { "blocks": { "block-views-comments_recent": "2", "block-advpoll-mostrecent": "2", "block-menu-57": "2", "block-block-3": "3", "block-block-7": "2", "block-ad-0": "2" }, "default_state": 1 } } });</script>
 <script type="text/javascript">function rating_postsubmit(nid){return true;}</script>
 <script type="text/javascript"> </script>
 <style type="text/css">
@@ -110,16 +112,22 @@
                 <td id="sidebar-left"><div class="block block-user" id="block-user-0">
   <h2 class="title">User login</h2>
   <div class="content"><form action="/privacy_policy?destination=node%2F1224" method="post" id="user-login-form">
-<div><div class="form-item">
+<div><div id="edit-openid-identifier-wrapper"><div class="form-item">
+ <label for="edit-openid-identifier">Log in using OpenID: </label>
+ <input type="text" maxlength="255" name="openid_identifier" id="edit-openid-identifier" size="13" value="" class="form-text">
+ <div class="description"><a href="http://openid.net/">What is OpenID?</a></div>
+</div>
+</div><div id="edit-name-wrapper"><div class="form-item">
  <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
  <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required">
 </div>
-<div class="form-item">
+</div><div id="edit-pass-wrapper"><div class="form-item">
  <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
  <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" class="form-text required">
 </div>
-<input type="submit" name="op" id="edit-submit" value="Log in" class="form-submit">
+</div><input type="submit" name="op" id="edit-submit" value="Log in" class="form-submit">
 <div class="item-list"><ul><li><a href="/user/register" title="Create a new user account.">Create new account</a></li><li><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block">
+<a href="/%2523" class="openid-link">Log in using OpenID</a><a href="/%2523" class="user-link">Cancel OpenID login</a><input type="hidden" name="openid.return_to" id="edit-openid.return-to" value="http://vinvesting.com/openid/authenticate?destination=node%2F1224">
 
 </div></form>
 </div>
@@ -133,6 +141,7 @@
 <li class="leaf"><a href="/node/add">Create Content</a></li>
 <li class="leaf"><a href="/feedback">Feedback</a></li>
 <li class="leaf"><a href="/invite">Invite your friends and colleagues</a></li>
+<li class="collapsed"><a href="/ad">My ads</a></li>
 <li class="leaf"><a href="/tracker">Recent posts</a></li>
 
 </ul>
@@ -202,16 +211,16 @@
 </div>
 <div class="block block-views" id="block-views-comments_recent">
   <h2 class="title">Recent Comments</h2>
-  <div class="content"><div class="view view-comments-recent"><div class="view-content view-content-comments-recent"><div class="item-list"><ul><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/the_berkshire_hathaway_portfolio#comment-2960">Steady Eddy</a></div><div class="view-field view-data-comments-name">Anonymous</div><div class="view-field view-data-comments-timestamp">12/21/2007 - 12:35</div></div>
-</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/consume-consume-and-consume-more-billytickets#comment-2951">Billytickets interview PART 2 with legendary student</a></div><div class="view-field view-data-comments-name">billytickets</div><div class="view-field view-data-comments-timestamp">12/21/2007 - 06:33</div></div>
-</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/death-berkshire-hathaway#comment-2922">Buffett Article Free</a></div><div class="view-field view-data-comments-name">Anonymous</div><div class="view-field view-data-comments-timestamp">12/17/2007 - 23:57</div></div>
-</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/fairholme-buys-wellcare-health-plans#comment-2921">The privatization of</a></div><div class="view-field view-data-comments-name">Anonymous</div><div class="view-field view-data-comments-timestamp">12/17/2007 - 23:49</div></div>
-</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/whitney-tilson-look-beyond-generalisations#comment-2906">FT needs people like Tilson</a></div><div class="view-field view-data-comments-name">borisp</div><div class="view-field view-data-comments-timestamp">12/10/2007 - 12:38</div></div>
-</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/whitney-tilson-look-beyond-generalisations#comment-2905">FT and Tilson</a></div><div class="view-field view-data-comments-name">Anonymous</div><div class="view-field view-data-comments-timestamp">12/10/2007 - 11:29</div></div>
-</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/warren-buffetts-video-tour-berkshire-hathaway-headquarters#comment-2900">Nice site</a></div><div class="view-field view-data-comments-name">Anonymous</div><div class="view-field view-data-comments-timestamp">12/09/2007 - 19:46</div></div>
-</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/warren-buffetts-video-tour-berkshire-hathaway-headquarters#comment-2886">Thank you for this</a></div><div class="view-field view-data-comments-name">Anonymous</div><div class="view-field view-data-comments-timestamp">12/06/2007 - 10:21</div></div>
-</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/warren-buffetts-video-tour-berkshire-hathaway-headquarters#comment-2877">The artcile is available at</a></div><div class="view-field view-data-comments-name">admin</div><div class="view-field view-data-comments-timestamp">12/05/2007 - 12:18</div></div>
-</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/warren-buffetts-video-tour-berkshire-hathaway-headquarters#comment-2876">Northern Pacific Corner</a></div><div class="view-field view-data-comments-name">Anonymous</div><div class="view-field view-data-comments-timestamp">12/03/2007 - 13:12</div></div>
+  <div class="content"><div class="view view-comments-recent"><div class="view-content view-content-comments-recent"><div class="item-list"><ul><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/we_made_some_mistakes_miller_says_of_streaks_end#comment-3020">reply</a></div><div class="view-field view-data-comments-name">dotnet uitbesteden (not verified)</div><div class="view-field view-data-comments-timestamp">04/06/2008 - 14:00</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/we_made_some_mistakes_miller_says_of_streaks_end#comment-3019">One important difference</a></div><div class="view-field view-data-comments-name">tranzactii imobiliare (not verified)</div><div class="view-field view-data-comments-timestamp">04/06/2008 - 10:53</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/top-managers-value-stocks-look-promising#comment-3017">Lenny Dykstra Interview - hilarious</a></div><div class="view-field view-data-comments-name">Anonymous (not verified)</div><div class="view-field view-data-comments-timestamp">03/25/2008 - 11:19</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/katsenelson-predicts#comment-3014">First Marblehead - Nuclear Meltdown</a></div><div class="view-field view-data-comments-name">Orcboy (not verified)</div><div class="view-field view-data-comments-timestamp">03/16/2008 - 03:06</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/fairholme-portfolio-warren-buffett-would-love#comment-3012">correct link</a></div><div class="view-field view-data-comments-name">Anonymous (not verified)</div><div class="view-field view-data-comments-timestamp">03/05/2008 - 14:48</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/berkshire-hathaway-annual-report-letter-out#comment-3010">Bill Gross's outlook</a></div><div class="view-field view-data-comments-name">James (not verified)</div><div class="view-field view-data-comments-timestamp">03/01/2008 - 01:12</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/notes-buffett-meeting-feb-2008#comment-3008">The worst US depression of all time?</a></div><div class="view-field view-data-comments-name">Anonymous (not verified)</div><div class="view-field view-data-comments-timestamp">02/25/2008 - 15:26</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/heebners-world-view-manger-cgm-focus-fund-shares-his-outlook-2008#comment-3007">CGMFX verses FLVCX</a></div><div class="view-field view-data-comments-name">Ed (not verified)</div><div class="view-field view-data-comments-timestamp">02/23/2008 - 14:23</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/we_made_some_mistakes_miller_says_of_streaks_end#comment-3006">safety</a></div><div class="view-field view-data-comments-name">incaltaminte de lucru (not verified)</div><div class="view-field view-data-comments-timestamp">02/19/2008 - 15:55</div></div>
+</li><li><div class="view-item view-item-comments-recent"><div class="view-field view-data-comments-subject"><a href="/buffett-takes-big-bite-kraft-glaxo#comment-3004">Good Article on credit crisis</a></div><div class="view-field view-data-comments-name">james (not verified)</div><div class="view-field view-data-comments-timestamp">02/17/2008 - 23:45</div></div>
 </li></ul></div></div></div>
 </div>
 </div>
@@ -220,11 +229,11 @@
   <div class="content"><a href="/tags/berkshire_hathaway" class="tagadelic level4">Berkshire Hathaway</a> 
 <a href="/tags/bill_miller" class="tagadelic level3">Bill Miller</a> 
 <a href="/tags/david_dreman" class="tagadelic level2">David Dreman</a> 
-<a href="/tags/edward_lampert" class="tagadelic level1">Edward Lampert</a> 
-<a href="/tags/legg_mason" class="tagadelic level1">Legg Mason</a> 
+<a href="/tags/edward_lampert" class="tagadelic level2">Edward Lampert</a> 
+<a href="/tags/jean_marie_eveillard" class="tagadelic level1">Jean-Marie Eveillard</a> 
 <a href="/tags/martin_whitman" class="tagadelic level1">Martin Whitman</a> 
 <a href="/tags/mohnish_pabrai" class="tagadelic level2">Mohnish Pabrai</a> 
-<a href="/tags/value_fund" class="tagadelic level3">Value Fund</a> 
+<a href="/tags/value_fund" class="tagadelic level2">Value Fund</a> 
 <a href="/tags/value-investing-congress" class="tagadelic level1">Value Investing Congress</a> 
 <a href="/tags/warren_buffett" class="tagadelic level6">Warren Buffett</a> 
 <a href="/tags/whitney_tilson" class="tagadelic level2">Whitney Tilson</a> 
@@ -235,14 +244,13 @@
   <h2 class="title">Archives</h2>
   <div class="content"><table>
 <tbody>
- <tr class="odd"><td colspan="7" style="text-align:center"><a href="/archive/all/2007/12" title="57 posts">December 2007</a></td> </tr>
+ <tr class="odd"><td colspan="7" style="text-align:center"><a href="/archive/all/2008/4" title="40 posts">April 2008</a></td> </tr>
  <tr class="even"><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td> </tr>
- <tr class="odd"><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td> </tr>
- <tr class="even"><td>2</td><td><a href="/archive/all/2007/12/3" title="2 posts">3</a></td><td><a href="/archive/all/2007/12/4" title="1 post">4</a></td><td><a href="/archive/all/2007/12/5" title="4 posts">5</a></td><td>6</td><td><a href="/archive/all/2007/12/7" title="2 posts">7</a></td><td>8</td> </tr>
- <tr class="odd"><td><a href="/archive/all/2007/12/9" title="2 posts">9</a></td><td><a href="/archive/all/2007/12/10" title="1 post">10</a></td><td><a href="/archive/all/2007/12/11" title="3 posts">11</a></td><td><a href="/archive/all/2007/12/12" title="2 posts">12</a></td><td><a href="/archive/all/2007/12/13" title="3 posts">13</a></td><td><a href="/archive/all/2007/12/14" title="3 posts">14</a></td><td>15</td> </tr>
- <tr class="even"><td><a href="/archive/all/2007/12/16" title="6 posts">16</a></td><td><a href="/archive/all/2007/12/17" title="7 posts">17</a></td><td>18</td><td><a href="/archive/all/2007/12/19" title="2 posts">19</a></td><td><a href="/archive/all/2007/12/20" title="1 post">20</a></td><td><a href="/archive/all/2007/12/21" title="2 posts">21</a></td><td>22</td> </tr>
- <tr class="odd"><td>23</td><td><a href="/archive/all/2007/12/24" title="7 posts">24</a></td><td>25</td><td><a href="/archive/all/2007/12/26" title="8 posts">26</a></td><td><a href="/archive/all/2007/12/27" title="1 post">27</a></td><td>28</td><td>29</td> </tr>
- <tr class="even"><td>30</td><td>31</td><td></td><td></td><td></td><td></td><td></td> </tr>
+ <tr class="odd"><td></td><td></td><td>1</td><td><a href="/archive/all/2008/4/2" title="4 posts">2</a></td><td><a href="/archive/all/2008/4/3" title="1 post">3</a></td><td><a href="/archive/all/2008/4/4" title="4 posts">4</a></td><td>5</td> </tr>
+ <tr class="even"><td>6</td><td><a href="/archive/all/2008/4/7" title="2 posts">7</a></td><td>8</td><td>9</td><td><a href="/archive/all/2008/4/10" title="7 posts">10</a></td><td>11</td><td>12</td> </tr>
+ <tr class="odd"><td>13</td><td>14</td><td>15</td><td><a href="/archive/all/2008/4/16" title="6 posts">16</a></td><td>17</td><td><a href="/archive/all/2008/4/18" title="2 posts">18</a></td><td><a href="/archive/all/2008/4/19" title="5 posts">19</a></td> </tr>
+ <tr class="even"><td>20</td><td>21</td><td><a href="/archive/all/2008/4/22" title="3 posts">22</a></td><td>23</td><td><a href="/archive/all/2008/4/24" title="6 posts">24</a></td><td>25</td><td>26</td> </tr>
+ <tr class="odd"><td>27</td><td>28</td><td>29</td><td>30</td><td></td><td></td><td></td> </tr>
 </tbody></table>
 </div>
 </div>
@@ -271,7 +279,7 @@
     </tbody></table>
   </div>
   <!-- /section2 -->
-    <div id="footer"> 2007 (c) vinvesting.com
+    <div id="footer"> 2008 (c) vinvesting.com
  <br>
    </div>
   <div id="footer-wrapper" class="clear-block">
@@ -288,19 +296,6 @@ _uacct = "UA-145389-2";urchinTracker();
 // --></script><noscript></noscript>
 
 <noscript><style type="text/css">form.rating{ display: block; }</style></noscript> </div>
-  <div class="visponser" align="center">
-<table style="border: 1px solid rgb(0, 102, 153); width: 468px; height: 60px;" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="468" width="60">
-<tbody><tr>
-<td valign="top" style="padding: 3px;" align="center" width="145">
-<a href="http://www.finweb.com"><img src="/themes/litejazz/images/finweb_logo_145x43.gif" width="145" height="43" alt="Financial Web - The Independent Financial Portal" border="0"></a></td>
-<td style="padding: 3px; font-family: Verdana, Arial, Geneva, sans-serif; font-size: 11px;">
-<p>
-FinWeb gives you in depth information on 
-<a style="font-size: 11px; color: rgb(0, 102, 153); font-family: Verdana; text-decoration: none;" href="http://www.finweb.com/debt-consolidation/">debt consolidation</a>, techniques for 
-<a style="font-size: 11px; color: rgb(0, 102, 153); font-family: Verdana; text-decoration: none;" href="http://www.finweb.com/debt-settlement/">debt settlement</a>, tips on <a style="font-size: 11px; color: rgb(0, 102, 153); font-family: Verdana; text-decoration: none;" href="http://www.finweb.com/refinance-mortgage/">refinancing your mortgage</a> and much more... 
-</p></td></tr>
-</tbody></table>
-</div>
 
 
 </body></html>
