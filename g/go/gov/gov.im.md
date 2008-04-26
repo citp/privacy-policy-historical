@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.im privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216181926id_/http%3A//www.gov.im/terms.gov%3Fkeyname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.im privacy policy that was archived on 2008-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080426140423id_/http%3A//www.gov.im/terms.gov%3Fkeyname%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy, Data Protection and sharing of information - Isle of Man Government -
 
@@ -37,7 +37,6 @@ Isle of Man
 British Isles  
   
 Post Code: | IM1 1EW  
-Email Address: | [dpc@gov.im](mailto:dpc@gov.im)  
 Isle of Man Government may charge a fee of up to a maximum of £10 to process a personal data request.
 
 For your convenience the Isle of Man Government has included links on this Site to other websites that the Isle of Man Government believes you may find useful. These websites will each have their own privacy statement, which may differ from that of the Isle of Man Government. Therefore please ensure, when you click on any of these links, that you read the privacy statement located on the website you have selected. Any websites connected with this Site are not within the control of the Isle of Man Government. 
