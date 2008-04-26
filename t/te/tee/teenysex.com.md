@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenysex.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227080158id_/http%3A//www.fuckthebabysitter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenysex.com privacy policy that was archived on 2008-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080426032231id_/http%3A//fuckthebabysitter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Internet Media Productions websites
 
