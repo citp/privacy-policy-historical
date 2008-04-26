@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2007-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070808102829id_/http%3A//www.momswhothink.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D537%26Itemid%3D10068) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2008-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080426043528id_/http%3A//www.momswhothink.com/privacy-policy.html) for the most accurate reproduction.*
 
-# - Privacy Statement
+# Privacy Policy
+
+**MomsWhoThink.com Privacy Policy**
 
 MomsWhoThink.com respects your right to the privacy of the personal information you provide us on our web sites. To that end, unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide to MomsWhoThink.com will be known only to two parties: you and MomsWhoThink.com. The following policy is intended to explain how your personal information will be treated as you make use of our site. Personal information includes your name, e-mail addresses, click-through activity and any other personal information you may provide here. 
 
