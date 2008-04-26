@@ -1,330 +1,233 @@
-<!--The following is the downloaded HTML source of the harness.org.au privacy policy that was archived on 2007-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071116121713id_/http%3A//www.harness.org.au/index.cfm%3Fp%3Dp%26id%3D/privacy.cfm) for the most accurate reproduction.-->
-
-<html><head>
-
-<title>Harness Racing in Australia - Official Site</title>
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-<script language="JavaScript">
-
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-
-}
-
-MM_reloadPage(true);
-
-var menuT = '<a class=flyoutLink href=index.cfm?p=p&id=/';
-
-var trackMenu = menuT+'tracks_nsw.cfm>New South Wales &amp; ACT</a><br>';
-
-trackMenu = trackMenu + menuT+'tracks_qld.cfm>Queensland<br>';
-
-trackMenu = trackMenu + menuT+'tracks_sa.cfm>South Australia<br>';
-
-trackMenu = trackMenu + menuT+'tracks_tas.cfm>Tasmania<br>';
-
-trackMenu = trackMenu + menuT+'tracks_vic.cfm>Victoria<br>';
-
-trackMenu = trackMenu + menuT+'tracks_wa.cfm>Western Australia';
-
-
-
-menuT = '<a class=flyoutLink href=/CALENDAR/Progframe1.cfm?state=';
-
-var rpMenu = menuT+'nsw>New South Wales &amp; ACT</a><br>';
-
-rpMenu = rpMenu + menuT+'qld>Queensland<br>';
-
-rpMenu = rpMenu + menuT+'sa>South Australia<br>';
-
-rpMenu = rpMenu + menuT+'tas>Tasmania<br>';
-
-rpMenu = rpMenu + menuT+'vic>Victoria<br>';
-
-rpMenu = rpMenu + menuT+'wa>Western Australia';
-
-
-
-function MM_swapImgRestore() { //v3.0
-
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-
-}
-
-
-
-function MM_preloadImages() { //v3.0
-
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-
-}
-
-
-
-function MM_findObj(n, d) { //v4.01
-
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-
-}
-
-
-
-function MM_swapImage() { //v3.0
-
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-
-}
-
-// returns value of cookie or null if cookie does not exist
-
-function GetCookie(name) {
-
-	var result = null;
-
-	var myCookie = " " + document.cookie + ";";
-
-	var searchName = " " + name + "=";
-
-	var startOfCookie = myCookie.indexOf(searchName);
-
-	var endOfCookie;
-
-	if (startOfCookie != -1) {
-
-		startOfCookie += searchName.length; // skip past name of cookie
-
-		endOfCookie = myCookie.indexOf(";", startOfCookie);
-
-		result = unescape(myCookie.substring(startOfCookie, endOfCookie));
-
-	}
-
-	return result;
-
-}
-
-function setWelcome() {
-
-	var user_name = GetCookie("user_name");
-
-	if (user_name != null)     {
-
-		 document.all.welcomemsg.innerHTML="Welcome back " + user_name + ".";
-
-	}
-
-}
-
-//-->
-
-</script>
-
-<script type="text/javascript" src="/js/swfobject.js"></script>
-
-<link href="harness.css" rel="stylesheet" type="text/css">
-<link href="stoppress.css" rel="stylesheet" type="text/css">
-
-<meta name="description" content="Harness Racing in Australia - Official Site">
-
-<meta name="keywords" content="Harness,Racing,Horse,Australia,Council,Trot,Trotter,Pace,Pacer,Harold Park,Albion Park,Top 20,Field,Form,Form Guide,Tracks, InterDominion, Inter Dominion,HRC,Steward,Breeding,Breed, Trade,HarnessWeb">
-
+<!--The following is the downloaded HTML source of the harness.org.au privacy policy that was archived on 2008-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080426200419id_/http%3A//www.harness.org.au/national-content.cfm%3Fpagename%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+	<title>Privacy Policy - Australian Harness Racing</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="Content-Language" content="en-au">
+	<meta name="description" content="Australian Harness Racing - Official Site">
+	<meta name="keywords" content="Harness Racing, Harness,Racing,Horse,Horse Racing,Australia,Harness Racing Council,Harness Racing in Australia, Harness Racing Australia,Trots,Trot,Trotter,Pace,Pacer,Harold Park,Albion Park,Moonee Valley, Gloucester Park, Globe Derby,Fields,Form,Form Guide,Tracks, InterDominion, Inter Dominion,AHRC,HRA,Stewards Reports,Breeding,Breed,HarnessWeb, Standardbred">
+	
+	<link rel="stylesheet" type="text/css" href="/css/default-1.css" media="all">
+
+	<link rel="stylesheet" type="text/css" href="/css/additions-5.css" media="all">
+
+	<link rel="shortcut icon" href="favicon.ico">
+	<!-- Dependencies -->
+<script type="text/javascript" src="/yui/2.4.1/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+
+<script language="JavaScript" type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="/js/swfobject.js"></script>	
+
+	<script language="Javascript" type="text/javascript" src="js/mm-scripts.js"></script>	
 </head>
+<body>
+	<div id="wrapper" class="noHeaderGraphic">
+		<div id="header">
+	<a href="index.cfm"><img src="images/header-logo.gif" id="headerLogo" width="218" height="64" alt="Australian Harness Racing logo"></a>
+	
+<a href="/banners/banner_redirect.cfm?banner_id=97" target="_blank"><img src="/banners/CV-468x60-20080421.gif" width="468" height="60" border="0" align="right" id="headerBanner"></a>
+	<div class="clearContent"></div>
+</div> 
+		<div id="changeMenuHome">
+			
+<div id="menu">
+	<ul>
+		<li id="menuItemHome"><a href="index.cfm"><div><span>home</span></div></a></li>
+		<li id="menuItemNewsRoom"><a href="news-room.cfm"><div><span>news room</span></div></a>		
+			<ul>
+				<li><a href="top-stories.cfm">Lead Stories</a></li>
+		        <li><a href="licencees-corner.cfm">The Racing Office</a></li>				
+				<li><a href="industry-news.cfm">Industry News</a></li>
+		        <li><a href="/news-archive.cfm?period=30d&amp;pCategoryId=ei&amp;limitToState=AUS">Equine Influenza</a></li>
+		        <li><a href="stewards-wrap.cfm">Stewards Wrap</a></li>			        
+		        <li><a href="promotions.cfm">Promotions</a></li>
+				<li><a href="careers.cfm">Careers</a></li>				
+				<li><a href="news-archive.cfm">News Archive</a></li>			        
+		    </ul>
+		</li>
+		<li id="menuItemAhrc"><a href="hra-menu-tab.cfm"><div><span>hra</span></div></a>
+			<ul>
+				<li><a href="hra.cfm">HRA <br>(formerly AHRC)</a></li>
+				<li class="menuSepHeader">International Links</li>
+				<li><a href="http://www.hrnz.co.nz" target="_blank">New Zealand</a></li>
+				<li><a href="http://www.ustrotting.com" target="_blank">United States</a></li>
+				<li><a href="http://www.standardbredcanada.ca" target="_blank">Canada</a></li>
+				<li><a href="/ausbreed/int_org.htm" target="_blank">Others</a></li>
+			</ul>
+		
+		</li>
+		<li id="menuItemStates"><a href="states.cfm"><div><span>states</span></div></a>
+			<ul>
+				    <li><a href="vic.cfm">VIC</a></li>
+				    <li><a href="nsw.cfm">NSW</a></li>
+			        <li><a href="qld.cfm">QLD</a></li>
+			        <li><a href="sa.cfm">SA</a></li>
+			        <li><a href="wa.cfm">WA</a></li>
+			        <li><a href="tas.cfm">TAS</a></li>
+		        </ul>
+		</li>
+		<li id="menuItemWagering"><a href="wagering.cfm"><div><span>wagering</span></div></a>
+			<ul>
+				<li><a href="punters-corner.cfm">Punters Corner</a></li>
+				<li><a href="http://www.tabracing.com.au" target="_blank">TAB Racing (VIC)</a></li>
+				<li><a href="http://www.racetab.com.au" target="_blank">TAB Racing (NSW)</a></li>				
+			    <li><a href="http://www.tabonline.com.au" target="_blank">TabOnline (QLD &amp; SA)</a></li>
+			    <li><a href="http://www.ozbet.com.au" target="_blank">TABOzbet (WA)</a></li>
+			    <li><a href="http://www.thetote.com.au" target="_blank">The Tote (TAS)</a></li>
+		    </ul>
+		</li>
+		<li id="menuItemRacing"><a href="racing.cfm"><div><span>racing</span></div></a>
+			<ul>
+				<li><a href="fields-index.cfm">Fields</a></li>
+			    <li><a href="form-index.cfm">Form Guides</a></li>
+			    <li><a href="/results/index.cfm?event=resultsIndex&amp;search_type=daily">Results</a></li>
+			    <li><a href="/index.cfm?p=f&amp;id=/ausbreed/reports/ahrconline.htm">Horse Search<br>(HRA Online)</a></li>
+			    <li><a href="stewards-reports-index.cfm">Stewards Reports</a></li>
+			    <li><a href="meeting-calendar.cfm">Meeting Calendar</a></li>
+   			    <li><a href="clubs-and-tracks-index.cfm">Clubs &amp; Tracks</a></li>
+			    <li><a href="/index.cfm?p=f&amp;id=/ausbreed/reports/top20.htm">National Top 20</a></li>	
+		        <li><a href="/premierships">State Premierships</a></li>		    
+		        <li><a href="/trial-results.cfm">Trial Results</a></li>						        		       				
+				<li><a href="/index.cfm?p=f&amp;id=/ahrc/feature/index.htm">Feature Races</a></li>
+				<li><a href="/index.cfm?p=f&amp;id=/inter/id.htm">Inter Dominion</a></li>
+				<li><a href="/index.cfm?p=f&amp;id=/grandcirc/grandcirc.htm">Grand Circuit</a></li>								
+		    </ul>
+		</li>
+		<li id="menuItemOwnersBreeders"><a href="owners-breeders.cfm"><div><span>owners &amp; breeders</span></div></a>
+			<ul style="width: 168px;">
+				<li><a href="/index.cfm?p=f&amp;id=/ausbreed/index.htm">Australian Breeding</a></li>
+		        <li><a href="/ausbreed/studs.htm">Studs &amp; Sires</a></li>
+		        <li><a href="http://www.hroa.com.au" target="_blank">Harness Racing Owners Association</a></li>
+		        <li><a href="http://www.raceapacer.com.au" target="_blank">Race A Pacer</a></li>
+		        <li><a href="http://www.vicbred.com.au" target="_blank">Vicbred</a></li>
+	        </ul>
+		</li>
+		<li id="menuItemServices"><a href="services.cfm"><div><span>services</span></div></a>
+			<ul>
+				<li><a href="http://harnessweb.harness.org.au/harnessweb/index.do" target="_blank">HarnessWeb</a></li>       			        
+			        <li><a href="/index.cfm?p=f&amp;id=/rules/index.htm">Rules</a></li>			        
+			        <li><a href="/blackbook/index.cfm?event=listHorses">Blackbook</a></li>
+			        <li><a href="/tradingring">Trading Ring</a></li>
+			        <li><a href="poll-results.cfm">Voting Polls</a></li>
+			        
+		        </ul>
+		</li>
+		<li id="menuItemLearnMore"><a href="learn-more.cfm"><div><span>learn more</span></div></a>
+			<ul>
+			    <li><a href="links.cfm">Links</a></li>
+			    <li><a href="contact-us.cfm">Contact Us</a></li>
+		    </ul>
+		</li>
+		<li id="menuItemSearch"><a href="/vsearch.cfm"><div><span>search</span></div></a>
+			<ul>
+				<li><a href="/vsearch.cfm">Entire Site</a></li>
+				<li><a href="/vsearch.cfm?search_what=pdf">PDFs</a></li>
+				<li><a href="/vsearch.cfm?search_what=rules">Rules</a></li>
+				<li><a href="/vsearch.cfm?search_what=ausbreed">Studs &amp; Sires</a></li>
+				<li><a href="/index.cfm?p=f&amp;id=/ausbreed/reports/ahrconline.htm">Horse Search<br>(HRA Online)</a></li>					
+			</ul>
+		</li>
+	</ul>
+</div>
+<div class="clearContent"></div>
 
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('images/tnav_nsw2.gif');setWelcome();">
-<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div><script language="JavaScript" src="js/overlib.js"><!-- overLIB (c) Erik Bosrup --></script> 
-<table border="0" width="100%" cellpadding="0" cellspacing="0" height="100%"> 
-<tbody><tr> <td valign="top" width="302" bgcolor="#000000" height="98"><img src="images/hra_logo.jpg" alt="Harness Racing In Australia - Official Site" width="302" height="98"></td><td bgcolor="#000000" width="95%"> 
-<table width="100%" border="0" cellspacing="2" cellpadding="0" align="right"> 
-<tbody><tr> <td> <div align="right" id="bannerad"> 	
-<a href="/banners/banner_redirect.cfm?banner_id=48" target="_blank"><img src="/banners/stallion_guide.gif" width="468" height="60" border="0" align="right"></a>
-</div></td></tr> 
-<tr valign="top"> <td> <div align="right"> <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
-<tbody><tr> <td width="100%" height="5" colspan="3"></td></tr> <tr> <td width="70%"><table width="100%" border="0" cellpadding="0" cellspacing="0"> 
-<tbody><tr> <td><div class="welcome" id="welcomemsg"></div></td><td><div align="right"><img src="images/search.gif" alt="Search" width="56" height="22"></div></td></tr> 
-</tbody></table></td><form method="post" action="/vsearch.cfm"></form> <input type="hidden" name="NS-search-type" value="NS-boolean-query"> 
-<input type="hidden" name="NS-max-records" value="20"> <input type="hidden" name="NS-collection" value="www-harness"> 
-<td width="25%" valign="top"> <div align="right"> <input type="text" name="q" value=""> 
-</div></td><td width="5%"> <div align="right"> <input type="image" src="images/go.gif" width="22" height="22" hspace="4"> 
-</div></td></tr> </tbody></table></div></td></tr> </tbody></table></td></tr> <tr bgcolor="#006633" height="10"> 
-<td colspan="2" nowrap=""> <table width="100%" border="0" cellpadding="0" cellspacing="0"> 
-<tbody><tr> <td nowrap=""><a href="index.cfm"><img src="images/home.gif" height="16" width="16" alt="Home" border="0"></a><img src="images/nav_vlines.gif" width="6" height="16"></td><td> 
-<a href="index.cfm?p=s&amp;id=nsw" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nsw','','images/tnav_nsw2.gif',1)"><img src="images/tnav_nsw.gif" alt="New South Wales" name="nsw" width="89" height="16" border="0"></a><img src="images/nav_vlines.gif" width="6" height="16"></td><td> 
-<a href="index.cfm?p=s&amp;id=qld" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('qld','','images/tnav_qld2.gif',1)"><img src="images/tnav_qld.gif" alt="Queensland" name="qld" width="62" height="16" hspace="2" border="0"></a><img src="images/nav_vlines.gif" width="6" height="16"></td><td> 
-<a href="index.cfm?p=s&amp;id=sa" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sa','','images/tnav_sa2.gif',1)"><img src="images/tnav_sa.gif" alt="South Australia" name="sa" width="78" height="16" hspace="2" border="0"></a><img src="images/nav_vlines.gif" width="6" height="16"></td><td> 
-<a href="index.cfm?p=s&amp;id=tas" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tas','','images/tnav_tas2.gif',1)"><img src="images/tnav_tas.gif" alt="Tasmania" name="tas" width="49" height="16" hspace="2" border="0"></a><img src="images/nav_vlines.gif" width="6" height="16"></td><td> 
-<a href="index.cfm?p=s&amp;id=vic" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('vic','','images/tnav_vic2.gif',1)"><img src="images/tnav_vic.gif" alt="Victoria" name="vic" width="40" height="16" hspace="2" border="0"></a><img src="images/nav_vlines.gif" width="6" height="16"></td><td> 
-<a href="index.cfm?p=s&amp;id=wa" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('wa','','images/tnav_wa2.gif',1)"><img src="images/tnav_wa.gif" alt="Western Australia" name="wa" width="90" height="16" hspace="2" border="0"></a><img src="images/nav_vlines.gif" width="6" height="16"></td><td> 
-<a href="index.cfm?p=f&amp;id=/ahrc/ahrc.htm"><img src="images/tnav_ahrc.gif" alt="AHR Council" width="66" height="16" hspace="2" border="0"></a><img src="images/nav_vlines.gif" width="6" height="16"></td><td> 
-<a href="http://www.harness.org.au/index.cfm?p=f&amp;id=/idhrc/idhrc.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('inter','','images/tnav_interdom2.gif',1)"><img src="images/tnav_interdom.gif" alt="Inter Dominion HRC" name="inter" width="77" height="16" hspace="2" border="0"></a><img src="images/nav_vlines.gif" width="6" height="16"></td><td> 
-<a href="http://www.hrnz.co.nz" target="_blank"><img src="images/tnav_nz.gif" alt="New Zealand" width="67" height="16" hspace="2" border="0"></a><img src="images/nav_vlines.gif" width="6" height="16"></td><td width="70%"></td></tr> 
-</tbody></table></td></tr> <tr valign="top"> <td colspan="2"> <table border="0" width="100%" cellpadding="0" cellspacing="0" height="100%"> 
-<tbody><tr> <td width="110" valign="top" height="741" background="images/harness_silk.gif"> <table width="110" border="0" cellspacing="0" cellpadding="0" height="100%"> 
-<tbody><tr valign="top"> <td height="8" width="5"></td><td height="8" width="110"><img src="images/space.gif" width="110" height="1"></td></tr> 
-<tr valign="top"> <td height="529" width="5">&nbsp;</td><td height="529" width="110" nowrap=""><table width="100%" border="0" cellpadding="0" cellspacing="0"> 
-<tbody><tr> <td> <div class="menuLink"><a href="index.cfm?p=p&amp;id=/begin.cfm" class="menuLink">Introduction</a><br> 
-<a href="index.cfm?p=f&amp;id=/news/news_archive.cfm" class="menuLink">News</a><br> 
-<a href="index.cfm?p=f&amp;id=/ahrc/feature/index.htm" class="menuLink">Feature Races</a><br> 
-<a href="index.cfm?p=f&amp;id=/inter/id.htm" class="menuLink" onmouseover="return nd();">Inter 
-Dominion</a> <table width="100%" border="0" cellpadding="0" cellspacing="0"> <tbody><tr> 
-<td><a href="http://www.harness.org.au/index.cfm?p=f&amp;id=/CALENDAR.HTM" class="menuLink" onmouseover="return overlib(rpMenu,STICKY,TIMEOUT,5000,CAPTION,'Select State...',OFFSETY, -10);" onmouseout="return nd();">Race 
-Programmes</a></td><td><img src="images/mnuarrow.gif"></td></tr> <tr> <td><a href="index.cfm?p=p&amp;id=/tracks_nsw.cfm" class="menuLink" onmouseover="return overlib(trackMenu,STICKY,TIMEOUT,5000,CAPTION,'Select State...',OFFSETY, -10);" onmouseout="return nd();">Tracks</a></td><td><img src="images/mnuarrow.gif"></td></tr> 
-</tbody></table><a href="index.cfm?p=f&amp;id=/ausbreed/reports/top20.htm" class="menuLink" onmouseover="return nd();">Australian 
-Top 20</a><br> <a href="index.cfm?p=f&amp;id=/grandcirc/grandcirc.htm" class="menuLink">Grand 
-Circuit</a><br> <a href="index.cfm?p=f&amp;id=/links.cfm" class="menuLink">Links</a> 
- 
-</div></td></tr> <tr> <td height="5"></td></tr> <tr> <td> <div><a href="/fields/index.cfm" class="menuLinkY">Fields</a><br> 
-<a href="/formframe1.htm" class="menuLinkY">Form Guides</a><br> <a href="/stewardsframe1.htm" class="menuLinkY">Stewards 
-Reports</a><br> <a href="/resultsframe1.cfm" class="menuLinkY">Results</a><br> 
-
-<a href="/premierships/index.cfm" class="menuLinkY">Premierships</a><br>
-
-<a href="index.cfm?p=f&amp;id=/ausbreed/reports/ahrconline.htm" class="menuLinkY">AHRC 
-On-line</a></div></td></tr> <tr> <td height="5"></td></tr> <tr> <td> <div>  
-<a href="http://www.harness.org.au/index.cfm?p=f&amp;id=/ausbreed/" class="menuLink">Australian 
-Breeding</a><br> <a href="index.cfm?p=p&amp;id=/hw.cfm" class="menuLink">HarnessWeb</a><br> 
-<a href="/tradingring" class="menuLink">Trading Ring</a><br> <a href="index.cfm?p=f&amp;id=/rules" class="menuLink">Rules</a><br> 
-<a href="index.cfm?p=p&amp;id=/services.cfm" class="menuLink">Services</a><br> <a href="index.cfm?p=p&amp;id=/education.cfm" class="menuLink">Education</a><br> 
-<a href="index.cfm?p=f&amp;id=/fields/personalise.cfm" class="menuLink">Personalise</a><br> 
-<a href="index.cfm?p=p&amp;id=/moreinfo.cfm" class="menuLink">Feedback</a><br> <a href="/vsearch.cfm" class="menuLink">Search</a><br> 
-<a href="index.cfm?p=p&amp;id=/contacts.cfm" class="menuLink">Contacts</a><br> <a href="index.cfm?p=p&amp;id=/privacy.cfm" class="menuLink">Privacy 
-Policy</a><br> <a href="/index.cfm?p=p&amp;id=/advertise_with_us.cfm" class="menuLink">Advertising</a></div></td></tr> </tbody></table><br> <script>
-
-<!--
-
-var bName = navigator.appName;
-
-var bVer = parseInt(navigator.appVersion);
-
-var ver;
-
-if (bName == "Netscape" && bVer >= 4) {
-
-ver = 4;
-
-} else if (bName == "Microsoft Internet Explorer" && bVer >= 4) {
-
-ver = 4;
-
-} else {
-
-ver = 0;
-
-}
-
-if (ver >= 4) {
-
-document.write('<img src="/wusage_screen_properties.gif?' +
-
-'width=' + screen.width+ '&' +
-
-'height=' + screen.height + '&' +
-
-'depth=' + screen.colorDepth + '">');
-
-document.writeln();
-
-}
-
-// -->
-
-</script><img src="/wusage_screen_properties.gif?width=800&amp;height=600&amp;depth=24">
- </td></tr> </tbody></table></td><td width="95%" bgcolor="#E9F0D8" height="100%" valign="top" background="images/background.gif"> <div> 
-<table width="100%" border="0" cellpadding="2" cellspacing="0"> <tbody><tr> <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
-  <tbody><tr>
-    <td bgcolor="#006633"><font face="Arial, Helvetica, sans-serif" color="#FFFFFF"><b><font size="4">Privacy 
-      on this site</font></b></font></td>
-  </tr>
-</tbody></table><br>
-<p><b><font face="Arial, Helvetica, sans-serif" size="2">What personally identifiable 
-  information is collected on this site?</font></b><font face="Arial, Helvetica, sans-serif" size="2"><br>
-  For visitors who request to&nbsp;participate in some of the pages on this site 
-  we may collect name, address, phone, e-mail ID and, optionally, company information. 
-  </font>
-</p><p><font face="Arial, Helvetica, sans-serif" size="2"><b>How is it used?</b><br>
-  This data may be used solely for internal marketing efforts; it is never shared 
-  with third party organisations (other than official Harness Racing bodies) or 
-  made available to the general public. The names of contributors to the Fan's 
-  Forum will be displayed along with postings in the Forum.</font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2"><b>Security</b><br>
-  The information is stored on our web server but is not publicly accessible from 
-  our web site - except for Forum members names as stated above.</font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2">Any visitor who prefers 
-  not to provide this information online, or who would like to make corrections, 
-  can contact our&nbsp;coordinator directly at <a href="mailto:onlinecoord@harness.org.au">onlinecoord@harness.org.au</a>.</font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2"><b>Choice/Opt-out</b><br>
-  If you have registered to receive e-mail communications about services from 
-  us and later change your mind, you may contact us to have your name removed 
-  from our distribution lists. You have the following options to do this:</font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2">You can send and e-mail 
-  to <a href="mailto:onlinecoord@harness.org.au.">onlinecoord@harness.org.au</a>&nbsp;. 
-  You can send mail to the following address:</font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2">Web Administrator - Harness Racing in Australia<br>
-  C/- Harness Racing Victoria<br>
-  PO BOX 184<br>
-  MOONEE PONDS VIC 3039<br>
-  AUSTRALIA</font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2"><b>Web user statistics</b><br>
-  When you look at this web site, our hosting service (Fujitsu Australia Ltd) 
-  makes a record of your visit and logs the following information for statistical 
-  purposes:</font></p>
+		</div>
+		<div id="subMenuBlank">
+		</div>
+		<div id="content">
+			<div id="homeLeft2Col">
+				<h5 class="pageHeader">Privacy Policy</h5>				
+				<div id="mainContent">	
+					<h1>Privacy Policy</h1>
+					<div id="cmsContent">		
+						<h3>What personally identifiable information is collected on this site?</h3>
+<p>For visitors who request to&nbsp;participate in some of the pages on this site we may collect name, address, phone, e-mail ID and, optionally, company information. </p>
+<h3>How is it used?</h3>
+<p>This data may be used solely for internal marketing efforts; it is never shared with third party organisations (other than official Harness Racing bodies) or made available to the general public. The names of contributors to the Trading Ring will be displayed along with postings.</p>
+<h3>Security</h3>
+<p>The information is stored on our web server but is not publicly accessible from our web site - except for Trading Ring members names as stated above.</p>
+<p>Any visitor who prefers not to provide this information online, or who would like to make corrections, can contact our&nbsp;coordinator directly at <a href="mailto:onlinecoord@harness.org.au">onlinecoord@harness.org.au</a>.</p>
+<h3>Choice/Opt-out</h3>
+<p>If you have registered to receive e-mail communications about services from us and later change your mind, you may contact us to have your name removed from our distribution lists. You have the following options to do this:</p>
+<p>You can send and e-mail to <a href="mailto:onlinecoord@harness.org.au.">onlinecoord@harness.org.au</a>&nbsp;. You can send mail to the following address:</p>
+<p>National Website Administrator<br>
+C/- RISE<br>
+PO BOX 184<br>
+MOONEE PONDS VIC 3039<br>
+AUSTRALIA</p>
+<h3>Web user statistics</h3>
+<p>When you look at this web site, our hosting service (Fujitsu Australia Ltd) makes a record of your visit and logs the following information for statistical purposes:</p>
 <ul>
-  <li><font face="Arial, Helvetica, sans-serif" size="2">your server address</font></li>
-  <li><font face="Arial, Helvetica, sans-serif" size="2">your top level domain 
-    name (for example .com, .gov, .au, .uk etc) </font>
-  </li><li><font face="Arial, Helvetica, sans-serif" size="2">the date and time of 
-    your visit to the site </font>
-  </li><li><font face="Arial, Helvetica, sans-serif" size="2">the pages you accessed 
-    and documents downloaded </font>
-  </li><li><font face="Arial, Helvetica, sans-serif" size="2">the previous site you 
-    have visited </font>
-  </li><li><font face="Arial, Helvetica, sans-serif" size="2">the type of browser you 
-    are using</font></li>
+    <li>your server address </li>
+    <li>your top level domain name (for example .com, .gov, .au, .uk etc) </li>
+    <li>the date and time of your visit to the site </li>
+    <li>the pages you accessed and documents downloaded </li>
+    <li>the previous site you have visited </li>
+    <li>the type of browser you are using </li>
 </ul>
-<p><font face="Arial, Helvetica, sans-serif" size="2">your personal name is not 
-  collected.</font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2"><strong>Cookies<br>
-  </strong>If you choose to use some parts of the site, cookies may be stored 
-  on your own computer to facilitate your future use of those pages.</font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="2"><strong>Banner ads<br>
-  </strong>This site, Harness Racing in Australia, may from time to time use the 
-  services of&nbsp; a banner advertising firm for the serving and/or targeting 
-  of ads, promotions and other marketing messages. To do this, the firm may collect 
-  anonymous data through the use of cookies.&nbsp;</font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="1">© Copyright 2007 Racing 
-  Information Services Enterprise. <br>
-  This Web site is a shared facility of the State controlling bodies, Australian 
-  Harness Racing Council, Inter Dominion Harness Racing Council and the Clubs 
-  around Australia. All material on this website is the intellectual properties 
-  of one or more of these bodies. It may not be copied or re-transmitted except 
-  with express approval. To apply for approval to use any material email: <a href="mailto:onlinecoord@harness.org.au">onlinecoord@harness.org.au 
-  </a></font><font face="Arial, Helvetica, sans-serif"><br>
-  </font> </p>
+<h3>Cookies</h3>
+<p>If you choose to use some parts of the site, cookies may be stored on your own computer to facilitate your future use of those pages.</p>
+<h3>Banner ads</h3>
+<p>This site, Australian Harness Racing, may from time to time use the services of&nbsp; a banner advertising firm for the serving and/or targeting of ads, promotions and other marketing messages. To do this, the firm may collect anonymous data through the use of cookies. <br>
+</p>
+					</div> 
+				</div>
+			</div>
+			<div id="homeAds"><!--			
+		--><a href="/banners/banner_redirect.cfm?banner_id=109" target="_blank"><!--
+			--><img src="/banners/alabarjobad.gif" width="120px" height="240px" alt=""><!--
+		--></a><!--
+				
+		--><a href="/banners/banner_redirect.cfm?banner_id=103" target="_blank"><!--
+			--><img src="/banners/pepper-tree-farm-20080402.gif" width="120px" height="240px" alt="" id="adImgPad"><!--
+		--></a><!--
+				
+		--><a href="/banners/banner_redirect.cfm?banner_id=104" target="_blank"><!--
+			--><img src="/banners/ranbuildBanner_120x240.jpg" width="120px" height="240px" alt=""><!--
+		--></a><!--
+	--></div>
+			<div class="clearContent"></div>									
+		</div>
+		<div id="organisationsRibbon">
+	&nbsp;
+<img name="organisationsribbon" src="images/organisations-ribbon-2.jpg" width="940" height="59" border="0" id="organisationsribbon" usemap="#m_organisationsribbon" alt=""><map name="m_organisationsribbon" id="m_organisationsribbon">
+<area shape="rect" coords="92,0,204,59" href="nsw.cfm" title="Greyhound and Harness Racing Regulatory Authority" alt="Greyhound and Harness Racing Regulatory Authority">
+<area shape="rect" coords="742,0,940,59" href="wa.cfm" title="Racing and Wagering Western Australia" alt="Racing and Wagering Western Australia">
+<area shape="rect" coords="659,0,729,59" href="vic.cfm" title="Harness Racing Victoria" alt="Harness Racing Victoria">
+<area shape="rect" coords="585,0,646,59" href="tas.cfm" title="Harness Racing Tasmania" alt="Harness Racing Tasmania">
+<area shape="rect" coords="490,0,579,59" href="sa.cfm" title="Harness Racing South Australia" alt="Harness Racing South Australia">
+<area shape="rect" coords="345,0,485,59" href="qld.cfm" title="Queensland Harness Racing" alt="Queensland Harness Racing">
+<area shape="rect" coords="211,0,335,58" href="nsw.cfm" title="Harness Racing NSW" alt="Harness Racing NSW">
+<area shape="rect" coords="108,0,177,59" href="idhrc.cfm" title="Inter Dominion Harness Racing Council" alt="Inter Dominion Harness Racing Council">
+<area shape="rect" coords="22,0,87,59" href="ahrc.cfm" title="Australian Harness Racing Council" alt="Australian Harness Racing Council">
+</map>
+</div>
 
-</td></tr> 
-</tbody></table></div>  
-</td></tr> </tbody></table></td></tr> </tbody></table>    
+<div id="footer">
+	<ul>
+		
+		<li><a href="national-content.cfm?pagename=help">help</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+		<li><a href="national-content.cfm?pagename=advertising">advertise with us</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+		<li><a href="national-content.cfm?pagename=privacy">privacy policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+		<li><a href="national-content.cfm?pagename=terms-of-use">terms of use</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+		<li><a href="national-content.cfm?pagename=contact-us">contact us</a></li>
+	</ul>
+	<p>
+		© copyright 2008 racing information services enterprise
+	</p>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-356924-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+	</div>
 
 
 
