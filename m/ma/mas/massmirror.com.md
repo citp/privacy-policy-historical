@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massmirror.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229045425id_/http%3A//massmirror.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massmirror.com privacy policy that was archived on 2008-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080427230304id_/http%3A//s1.massmirror.com/privacy.php) for the most accurate reproduction.*
 
 # MassMirror.com - Free File Hosting And Mirroring
 
