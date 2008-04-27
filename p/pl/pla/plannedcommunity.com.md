@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the plannedcommunity.com privacy policy that was archived on 2005-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050421022215id_/http%3A//www.reals.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plannedcommunity.com privacy policy that was archived on 2008-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080427023214id_/http%3A//www.plannedcommunity.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement - REALS.COM
+# Privacy Policy, Planned Community Directory, Developer and Senior Living
 
-[_Home_](http://www.reals.com/) > Privacy  
-Privacy Statement
+**Plannedcommunity.com Privacy Statement**  
+We respect your privacy and we are committed to safeguarding your privacy while online at our site www.plannedcommunity.com The following discloses the information gathering and dissemination practices for this Web site. 
 
-We at REALS.com are concerned about and are committed to protecting the privacy of you, our web site visitors. To that end, we have established this Privacy Policy as our commitment to maintain the privacy of your personal information in connection with all our online and Internet activities.
+**Log Files**  
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-  
-Use of Personal Information
+**Newsletter**  
+If a user wishes to subscribe to our newsletter (powered by Feedburner), we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications.
 
-We may gather information about you through our web site in three ways. First, we may collect and store some personally identifiable information (such as your name, telephone number, and e-mail address) that you provide to us through surveys, job applications, contests, service orders, or inquiries on this site. Second, we may collect and store information about your visit to this site in collective or aggregated data that does not identify you specifically. Third, we may collect and store information through the use of "cookies." The term "cookies" refers to lines of text that are transmitted to your web browser when you click on a site, providing a way for a server to recall a previous request or previous registration, or keep track of a transaction as it progresses, so that information does not have to be repeated. We use all of this information to help maintain accurate accounts, to provide and to change services, to provide accurate billing and shipping, to answer your inquiries, to market services and products, and to help make our web site useful to you. 
+**Cookies**  
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site don’t use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options.
 
-Sharing Information 
+**Links**  
+This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-The information that we obtain from you is generally necessary for us to provide your services and to design new services for your future use. As a general rule, REALS.com will not sell, trade, or disclose to third parties personal information gathered online about you.
+**Advertisers**  
+We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Axill etc. Please check their websites for respective privacy policies.
 
-Modifications
-
-REALS.com reserves the right to modify this Privacy Policy from time to time without notice in REALS.com's sole discretion. Such modifications shall be effective when posted.  
-
+**Contact Information**  
+If users have any questions or suggestions regarding our privacy policy, please contact us at: staff@plannedcommunity.com
