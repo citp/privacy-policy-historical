@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendars.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229005340id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendars.com privacy policy that was archived on 2008-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080427230405id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.*
 
 # Item Detail
 
