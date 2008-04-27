@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anothergamesite.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629020551id_/http%3A//www.anothergamesite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anothergamesite.com privacy policy that was archived on 2008-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080427102357id_/http%3A//www.anothergamesite.com/privacy.html) for the most accurate reproduction.*
 
 # Games, Computer Games, Games Play
 
