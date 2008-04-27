@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.in privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211152504id_/http%3A//pages.ebay.in/help/policies/privacy-policy.html%3FssPageName%3Df%3Af%3AIN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.in privacy policy that was archived on 2008-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080428011741id_/http%3A//pages.ebay.in/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
