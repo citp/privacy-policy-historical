@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tuningnews.net privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205100323id_/http%3A//www.tuningnews.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuningnews.net privacy policy that was archived on 2008-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080427140334id_/http%3A//www.tuningnews.net/privacy) for the most accurate reproduction.*
 
-# privacy policy - tuningnews.net
+# Privacy Policy - tuningnews.net
+
+[](http://www.tuningnews.net/)
 
 **Privacy Policy**
 
@@ -16,7 +18,7 @@ tuningnews.net may provide third parties with aggregate statistics about our cus
 
 **Third Party Advertising**
 
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 **Third Party Cookies**
 
@@ -32,4 +34,4 @@ By using our Web site, you give tuningnews.net permission to collect information
 
 **Questions?**
 
-If you wish to change any information you have given us, or have any questions on our Privacy Policy, you can contact us at [info@tuningnews.net](mailto:info@tuningnews.net)
+If you wish to change any information you have given us, or have any questions on our Privacy Policy, you can contact us at info [at] "our domain name" 
