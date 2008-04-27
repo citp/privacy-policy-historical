@@ -1,98 +1,79 @@
-> *The following text is extracted and transformed from the citysports.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228062051id_/http%3A//www.citysports.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysports.com privacy policy that was archived on 2008-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080427104407id_/http%3A//www.citysports.com/citysports/text_3.asp) for the most accurate reproduction.*
 
-# City Sports Helpdesk
+# City Sports Privacy Policy
 
-Our Privacy Policy
+Privacy Policy
 
-GSI Commerce, Inc. has created this privacy policy to inform you of the information gathering and dissemination practices for this Web site, www.citysports.com. Because we want to demonstrate our commitment to your privacy, by notifying you of:
+****
 
-  1. What personally identifiable information of yours is collected through this Web site;
-  2. The organization collecting the information;
-  3. How the information is used;
-  4. With whom the information may be shared;
-  5. What choices are available to you regarding collection, use and distribution of the information;
-  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under Global Sport Interactive's control; and
-  7. How you can correct any inaccuracies in the information.
+## City Sports Privacy and Security Policy
+
+We have created this privacy policy, updated on January 1, 2008, to inform you of the information gathering and dissemination practices for this Web site, [www.citysports.com](http://www.citysports.com/). We want to demonstrate our commitment to your privacy, by notifying you of:
+
+  * What personally identifiable information of yours is collected through this Web site; 
+  * The organization collecting the information; 
+  * How the information is used; 
+  * With whom the information may be shared; 
+  * What choices are available to you regarding collection, use and distribution of the information; and
+  * The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under City Sports' control
 
 
 
-If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email at [customersupport@citysports.com](mailto:customersupport@citysports.com?%20subject=Privacy%20Policy%20Questions) or by phone at 1-877-262-8980.
+We welcome your questions and feedback on this policy. For privacy-related issues, please contact us at:
 
-**  Visiting www.citysports.com**
+City Sports  
+64 Industrial Way   
+Wilmington, MA 01887-3434  
+877-988-2580  
+[onlinecustomersupport@citysports.com](mailto:onlinecustomersupport@citysports.com)
 
-Your IP address, browser and reference site domain name are logged every time you visit our site. This data is used strictly for the analysis of load information and maximizing the efficiency of our servers. Except as provided in this privacy policy, we will not share this data with anyone in any way.
+## Security 
 
-Subject to the terms and conditions of this Privacy Policy, any communication or material you transmit or post to this Web Site by email or otherwise, including any data, questions, comments, or suggestions (other than personally identifiable information which will be treated in accordance with this privacy policy), is and will be treated as non-confidential and non-proprietary and anything you transmit or post may be used by us and our affiliates for any purpose, including without limitation, reproduction, disclosure, transmission, publication, broadcast, and posting. We are free to use any ideas, concepts, know-how, or techniques contained in any communication or material that you send to this Web Site for any purpose whatsoever including, but not limited to, developing, manufacturing and marketing products using such information. 
+When you place orders or access your account information, know that City Sports uses a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access. 
 
-"Cookies" are files stored on your computer's hard drive by your browser. These cookies help us identify our account holders and optimize their shopping experience. They do not include any data that will identify you personally. They will, however, allow you to use some specialized www.citysports.com features. Cookies also allow us to hold selections in your shopping cart when you leave our site without checking out. Most browsers accept cookies automatically, but allow you to disable them if you wish.
-
-**  External Links / Framed Web Pages **
-
-Our store locator functionality links to a third party web site. Any data provided through this functionality is not governed by this privacy policy. The privacy policy of the third party web site governs the information collection and dissemination practices occurring on such web site. 
-
-If you have accessed this Web Site through a link from certain of our advertising and marketing partners our Site may include a frame of the applicable advertising and marketing partner. The information you provide to us through these framed web pages is collected by us and its use is governed by this privacy policy. 
-
-**  Ordering from www.citysports.com, Inc.**
-
-When you order from www.citysports.com, we need your name, email address, shipping address, phone number and credit card number/expiration date. We use this data to process your order, ship it and send you order and shipping confirmations via email. Except as provided in this privacy policy, we will not sell, rent, or disclose this data to any third party without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.)
-
-From time to time, we may use the purchases you make to customize our product recommendations. We also track customer traffic patterns and site usage. Traffic and usage data is used only to improve our site's design and provide our customers with a fulfilling shopping experience.
+## Ordering from www.citysports.com
 
   
+We track customer traffic patterns and site usage, and collect the domain name of e-mail addresses of visitors to our site and aggregate (not personally identifiable) information on what pages visitors access. We use this information to monitor the use of the site and to improve its performance and usefulness. We also collect information you volunteer, such as survey responses, comments, purchasing and billing information, and your requests. 
 
+When you order from City Sports, we need to know your name, e-mail address, mailing address, billing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. 
 
-**  Opening a City Sports, Inc. account**
+We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new services, and special offers we think you'll find valuable.
 
-We require your name, billing address, shipping address, email address and telephone number to open an account for you. We may also ask some additional optional questions to help us better serve you. Except as provided in this privacy policy, this account data is never shared with anyone in any way without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.) 
+## Using Cookies
 
-**  Corrections/Updates to your Account **
+"Cookies" are removable files stored on your computer's hard drive by your browser. We use cookies to enhance your shopping and browsing experience. The text in a cookie, by itself, only tells us that you have visited our site before. It does not store any personal information such as your name, e-mail address, street address, or phone number. Cookies are also used to maintain your shopping basket. All data contained in the shopping basked is kept on our server and not in the cookie your machine is assigned. If your computer has certain types of Virus Protection software, you may be prompted to accept cookies from www.citysports.com. It is safe to do so. 
 
-You can correct account data by clicking on "Manage My Account" within the Help Desk area of the site. If you have any questions or concerns about correcting or updating your Account, please contact our customer service department. 
+## Our Third Party Relationships
 
-**  Receiving Promotions/Opt-Out **
+We have established several relationships with third parties vendors to best serve our customers. 
 
-From time to time, we will contact you about sales, special offers and new site features if you agreed to be included in our email lists when you completed a purchase transaction with us. To customize the information you want to receive from us, simply sign on and select the specific information you wish to receive. To cancel our free emails, you can unclick the "I would like to receive emails about special promotions" box each time you make a purchase. You can also respond to any promotional email we send you, placing "REMOVE" in your subject line to discontinue email service. You can also send an email to [customersupport@citysports.com](mailto:customersupport@citysports.com?%20subject=Privacy%20Policy%20Questions) or call us toll-free at1-877-262-8980 and inform us that you want to unsubscribe to our email list. 
-
-In addition to being able to call our customer service department, you may also email us at [customersupport@citysports.com](mailto:customersupport@citysports.com?%20subject=Privacy%20Policy%20Questions). When you email us, your emails are stored within our system so that we may refer to previous emails from you as needed so that we may properly address your questions and concerns. Except as provided in this privacy policy, the information you provide to our customer service department is not shared with anyone without your consent.
-
-**  Entering contests/sweepstakes**
-
-Whenever we run a contest or sweepstakes relating to our site, it will be accompanied with the rules of the contest/sweepstakes. The rules for each contest/sweepstakes will also detail how the information gathered from you for entry into the contest/sweepstakes will be used. You will find the rules for each contest/sweepstakes by clicking the "rules" link accompanying each contest/sweepstakes. Additionally, we will post if this information will be shared with anyone in addition to those persons and entities provided for in this Privacy Policy, such as a third party sponsoring or managing the contest/sweepstakes. 
-
-We may also contact you with promotional offers if you have entered one of our contests or sweepstakes. If you choose not to receive this free service when you enter a contest or sweepstakes, it will not affect your chances of winning. You can also opt out of this free service by unclicking the "I would like to receive emails about special promotions" box associated with each contest or sweepstakes, replying to any email and placing "REMOVE" in your subject line or notifying us that you want to unsubscribe to our free email services via email [customersupport@citysports.com](mailto:customersupport@citysports.com?%20subject=Privacy%20Policy%20Questions) or telephone 1-877-262-8980.
-
-Users of this web site have the opportunity to e-mail product pages to their friends. In order to accomplish this, you must provide to us your friend's names and e-mails addresses. We only use your friend's information to send them the product pages you requested that they receive. 
-
-**  On-Line Gift Certificates and Gift Cards **
-
-If you send an on-line gift certificate or gift card to a third party you must provide us with the recipient's name and e-mail address. We only use this information to deliver such gift certificate or gift card. 
-
-You can use this form to give us any input which we will use to improve our site. The only required data is your name and email address. The remainder of the data is optional. We only use this data to make improvements on our site. Except as provided in this privacy policy, this data is not shared with anyone in any way.
-
-**  Our Third Party Relationships**
-
-We have established several relationships with third parties vendors to best serve our customers.
-
-    
-
-  * **Retailer:** GSI Commerce, Inc operates this Web site pursuant to agreements with City Sports, Inc. Pursuant to such agreements, City Sports is entitled to access and use the information collected through this Web site to the same extent and in the same manner as GSI Commerce, Inc. Additionally, City Sports may contact those customers who have agreed to receive promotional offers about offers in its land-based stores. City Sports has agreed to abide by this Privacy Policy and the same restrictions and limitations applicable to GSI Commerce, Inc hereunder.
-  * **Affiliates:** From time to time we may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to our site from their sites. These affiliates can only access data about the number of transactions and their resulting earnings. They cannot access our customers' personal data. If you choose to apply to any of our affiliate programs, we use the data you give us strictly for conducting business with you. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information if you are an affiliate of the web site but is restricted to only use such information in connection with its administration of the affiliate programs.
-  * **Order Fulfillment:** Certain vendors of ours provide customer order fulfillment and shipping services on our behalf. These vendors have access only to information needed to accurately fulfill and ship orders, which are processed through such vendors. These vendors have agreed to not use any personally identifiable information of customers for any other purpose.
-  * **Credit Card Processing:** We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes.
-  * **Web Site Evaluation:** From time to time, we engage certain third parties to observe, track and report on the behavior of the users of this Web Site in order to evaluate the performance and features of this Web Site. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose.
-  * **Marketing and Promotions:** From time to time, we engage certain third parties to assist in the dissemination of marketing and promotional offers (i.e. e-mails) to those customers who have agreed to receive such offers. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose.
-  * **Additional Third Party Relationships:** From time to time, we engage other third parties to assist in providing marketing, order processing, fulfillment and shipping services. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services.
+  * **Credit Card Processing** : We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes. 
+  * **Web Site Evaluation** : From time to time, we may engage certain third parties to observe, track and report on the behavior of the users of this Web Site in order to evaluate the performance and features of this Web Site. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose. 
+  * **Marketing and Promotions** : From time to time, we may engage certain third parties to assist in the dissemination of marketing and promotional offers (i.e., e-mails) to those customers who have agreed to receive such offers. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose. 
+  * **Hosting** : www.citysports.com is hosted by UniteU Connected Commerce, Inc. which maintains the servers and databases on which your information is stored. They make this information available to City Sports, and are restricted from using this data for any other purpose.
+  * **Additional Third Party Relationships** : From time to time, we may engage other third parties to assist in providing marketing, order processing, fulfillment and shipping services. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services. 
 
 
 
-Additionally, From time to time, we share non-personal, non-individual statistical information with our marketing partners, advertisers or other third parties for research purposes. That is, we will not tell our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.
+Additionally, from time to time, we may share non-personal, non-individual statistical information with our marketing partners, advertisers or other third parties for research purposes. That is, we will not tell our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.
 
-We use Secure Socket Layer (SSL) encryption technology to protect your personal information. The only time you are required to sign on our site is when you are making a purchase. On the Checkout page, you will be asked to access your existing account or create a new one. Existing account holders are prompted for their ID (your email address) and password. This password is for your protection. If you don't have your password, there is a link that reads "Lost your password?" Click on this for instructions on how to get your password. 
+## Opening a City Sports Account
 
-**  Changes to Privacy Policy**
+We require your name, billing address, shipping address, email address, and telephone number to open an account for you. We may also ask some additional optional questions to help us better serve you. Except as provided in this privacy policy, this account data is never shared with anyone in any way without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.) 
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+## Correcting or Updating Account Information
 
-**  Questions about our Policies**
+You may update or change information related to your account by updating your profile, accessible via the home page once you are logged in, or by sending an email to [onlinecustomersupport@citysports.com](mailto:onlinecustomersupport@citysports.com)
 
-If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email at [customersupport@citysports.com](mailto:customersupport@citysports.com?%20subject=Privacy%20Policy%20Questions) or by phone at 1-877-262-8980.
+## Receiving Promotions/Opt-Out
+
+From time to time, we may contact you about sales, special offers and/or new site features if you agreed to be included in our email lists when you created an account with us. To customize the type of information you want to receive from us, you may sign on and select the specific information you wish to receive. To cancel receipt of our free emails, you can unclick the "I would like to receive emails about special promotions" box associated with your account. You can also respond to any promotional email we send you, placing "REMOVE" in your subject line to discontinue email service. You can also send an email to [onlinecustomersupport@citysports.com](mailto:onlinecustomersupport@citysports.com) or call us 877-988-2580 and inform us that you want to unsubscribe to our email lists. 
+
+## Your Consent
+
+By using our website, you consent to the collection and use of this information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+## Contact Us Form
+
+You can use the contact us form to communicate with us on a variety of topics. The only required data is your name and email address or phone number. Except as provided in this privacy policy, this data is not shared with anyone in any way. 
