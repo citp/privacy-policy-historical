@@ -1,604 +1,1080 @@
-<!--The following is the downloaded HTML source of the citysports.com privacy policy that was archived on 2007-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071228062051id_/http%3A//www.citysports.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citysports.com privacy policy that was archived on 2008-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080427104407id_/http%3A//www.citysports.com/citysports/text_3.asp) for the most accurate reproduction.-->
 
-<html><head><meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+	<title>City Sports Privacy Policy</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	
+<!-- Date: 4/27/2008   //-->
 
+<script type="text/javascript" language="javascript" src="assets/includes/uu_shop.js"></script>
+<script type="text/javascript" language="javascript">
 
-	<title>City Sports Helpdesk</title>
-		<script language="Javascript">
-function trimString (str) {
-  while (str.charAt(0) == ' ')
-    str = str.substring(1);
-  while (str.charAt(str.length - 1) == ' ')
-    str = str.substring(0, str.length - 1);
-  return str;
-}
-
-
-function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
-{
- var email = trimString(document.emailForm.emailAddress.value);
-
-    if (!validEmail(email))
-	{
-        alert('Please enter a valid e-mail address.');
-        return false;
-    }
-	if(type == 1)
-	{
-        document.emailForm.submit();
-	}
-}
-
-function validEmail(email)
-{
-    var vAtSym    = email.indexOf('@')
-    var vPeriod   = email.lastIndexOf('.')
-    var vSpace    = email.indexOf(' ')
-    var vLength   = email.length - 1   // Array is from 0 to length-1
-
-    if (vAtSym < 1 ||                     // '@' cannot be in first position
-    	vPeriod <= vAtSym + 1 ||          // Must be atleast one valid char btwn '@' and '.'
-    	vPeriod == vLength  ||            // Must be atleast one valid char after '.'
-    	vSpace  != -1)                    // No empty spaces permitted
-	{
-        return false;
-    }
-	return true;
-}
+shopping_basket =new basket_struct();
 
 
 
+var user_firstname= "";
+var user_lastname= "";
+var user_guid= ' ';
+var user_name= "";
+var user_email= "";
+var user_orders_value="0";
+var user_orders="0";
+var Memberstatus="";
+var Memberpointbalance="";
 
+</script>
 
-function showCustomPopUp(thisUrl,thisName,theseParams)
-{
-	remote = open(thisUrl, thisName, theseParams);
-}
+<script type="text/javascript" language="javascript">
+	shopping_basket.no_items = '0' ;
+	shopping_basket.sub_total = '0';
+	shopping_basket.shipping_total= '0';
+	shopping_basket.shipping_method ="";
+	shopping_basket.ship_award ='';
+	shopping_basket.tax_total='';
+	shopping_basket.total_total='';
+	shopping_basket.comment='';
+	shopping_basket.discount_code='';
+	shopping_basket.ebay_id='';
+	shopping_basket.ship_to_zip = '';
+	shopping_basket.shipping_methods=new Array();
+	shopping_basket.items=new Array();
+	var basket_items= '0';
+</script>
 
+<script type="text/javascript" language="javascript">
+var gen_msg = "";
+var addto = "";
+var i_jscript_uu_invmode="3";
+var i_jscript_uu_sid=0;
+var i_jscript_uu_rootURL="http://www.citysports.com/citysports/";
+var i_jscript_uu_rootSURL="https://www.citysports.com/citysports/";
+var i_jscript_uu_ext_image_URL_1="";
+var i_jscript_uu_ext_image_SURL_1="";
+var i_jscript_uu_ext_image_URL_2="";
+var i_jscript_uu_ext_image_SURL_2="";
+var UUWT_SDC="RPT1.uniteu.net/dcsq59lm110000w0yjlaj8do4_9i2h";
+</script>
 
-//	verisign POP-UP WINDOW
-function popUp(url)
-{
-	sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
-	self.name = "mainWin";
-}
-
-function jump(url)
-{
-	if (url != "" && url != null)
-	{
-		self.location.href = url;
-	}
+<script type="text/javascript" language="javascript">
+function deptdropdownsel(label) {
+	document.write('<select class="qjump" name ="q_jump" onChange="visit(this.options[selectedIndex].value)">');
+	document.write('<option value = "" >' + label + '</option>');
+	
+	document.write('</select>');
 }
 </script>
 
-    <link rel="stylesheet" type="text/css" href="../include/store.css">
-</head>
-<body bgcolor="#000000" topmargin="10" leftmargin="10" marginheight="10" marginwidth="10">
-<a name="pageTop()"><!-- --></a>
-<div style="display:none">Thank you for visiting City Sports. If you need assistance with shopping on our site, please call us at 877-262-8980 and a customer care representative will be happy to assist you. Please inform the Customer Service representative that you require assistance.</div>
-<table width="100%" bgcolor="#303473" cellpadding="0" cellspacing="0" border="0" style="background-image: url('http://CTY.imageg.net/images/CTY_holiday_2.jpg'); background-repeat:no-repeat;">
-<tbody><tr>
-	<td><a href="/home/index.jsp?clickid=topnav_logo_img"><img src="http://CTY.imageg.net/images/CTY_holiday.jpg" width="119" height="61" border="0"></a></td>
-	<td><img src="http://CTY.imageg.net/images/pixel.gif" width="20" border="0"></td>
-	<td>
-		<a href="/home/index.jsp?clickid=topnav_home_txt" class="headerlink">HOME</a>
-	</td>	
-	<td><img src="http://CTY.imageg.net/images/pixel.gif" width="20" border="0"></td>
-	<td valign="middle">
-		<table cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<form action="/searchHandler/index.jsp" method="get"></form>
-				
-						<td><input type="text" size="14" name="keywords" align="middle" style="font-size:11px;"></td>
-				
-				<td><img src="http://CTY.imageg.net/images/pixel.gif" width="2" border="0"></td>
-				<td valign="bottom"><input type="image" src="http://CTY.imageg.net/images/searchbutton.gif" border="0" name="" value="Search" width="56" height="20" style="margin:0px;padding:0px;"></td>
-			
-		</tr>
-		</tbody></table>
-	</td>	
-	<td><img src="http://CTY.imageg.net/images/pixel.gif" width="30" border="0"></td>
-	<td align="center">
-		<img src="http://CTY.imageg.net/images/help_icon.gif" width="20" height="20" border="0">
-		<br>
-		<a href="/helpdesk/index.jsp?clickid=topnav_help_txt" class="headerlink">HELP</a>
-	</td>
-	<td><img src="http://CTY.imageg.net/images/pixel.gif" width="20" border="0"></td>
-	<td align="center">
-		<img src="http://CTY.imageg.net/images/cart_icon.gif" border="0" height="20" width="20">
-		<br>
-		<a href="/cart/index.jsp?clickid=topnav_cart_txt" class="headerlink">CART</a>
-	</td>
-	<td><img src="http://CTY.imageg.net/images/pixel.gif" width="20" border="0"></td>
-	<td align="left">
-		<a href="https://www.citysports.com/coreg/index.jsp?step=ot&amp;clickid=topnav_trackorder_txt" class="headerlink">TRACK&nbsp;YOUR&nbsp;ORDER</a>
-		<br>
-		<a href="https://www.citysports.com/coreg/index.jsp?step=register&amp;clickid=topnav_myaccount_txt" class="headerlink">MY&nbsp;ACCOUNT</a>&nbsp;&nbsp;&nbsp;&nbsp;<span class="lighttext"><b>1-877-262-8980</b></span>
-	</td>
-	<td><img src="http://CTY.imageg.net/images/pixel.gif" width="10" border="0"></td>
-</tr>
-</tbody></table>
-<span class="pagetext"><br></span>
-<table cellpadding="0" cellspacing="5" border="0" bgcolor="#000000">
-<tbody><tr>
-	<td class="breadcrumb"><table cellpadding="6" border="0" width="100%">
-    <tbody><tr><td>
-        <a href="/home/index.jsp" class="breadcrumb">
-       Return to shopping</a>&nbsp;
+<link rel="stylesheet" type="text/css" href="assets/images/includes/citysports.css">
+<base href="http://www.citysports.com/citysports/">
+<style type="text/css">.imcm ul,.imcm li,.imcm div,.imcm span,.imcm a{text-align:left;vertical-align:top;padding:0px;margin:0;list-style:none outside none;border-style:none;background-image:none;clear:none;float:none;display:block;position:static;overflow:visible;line-height:normal;}.imcm li a img{display:inline;border-width:0px;}.imcm span{display:inline;}.imcm .imclear,.imclear{clear:both;height:0px;visibility:hidden;line-height:0px;font-size:1px;}.imcm .imsc{position:relative;}.imcm .imsubc{position:absolute;visibility:hidden;}.imcm li{list-style:none;font-size:1px;float:left;}.imcm ul ul li{width:100%;float:none !important;}.imcm a{display:block;position:relative;}.imcm ul .imsc,.imcm ul .imsubc {z-index:10;}.imcm ul ul .imsc,.imcm ul ul .imsubc{z-index:20;}.imcm ul ul ul .imsc,.imcm ul ul ul .imsubc{z-index:30;}.imde ul li:hover .imsubc{visibility:visible;}.imde ul ul li:hover  .imsubc{visibility:visible;}.imde ul ul ul li:hover  .imsubc{visibility:visible;}.imde li:hover ul  .imsubc{visibility:hidden;}.imde li:hover ul ul .imsubc{visibility:hidden;}.imde li:hover ul ul ul  .imsubc{visibility:hidden;}.imcm .imea{display:block;position:relative;left:0px;font-size:1px;line-height:1px;height:0px;width:1px;float:right;}.imcm .imea span{display:block;position:relative;font-size:1px;line-height:0px;}.dvs,.dvm{border-width:0px}/*\*//*/.imcm .imea{visibility:hidden;}/**/</style><style type="text/css">.imgl .imcsdd{visibility:inherit !important;top:0px !important;left:0px !important;width:100% !important;}.imgl .imctitlea{display:none;}.imgl .imctitleli{position:absolute;}.imgl .imctitle{cursor:default;}.imgl .imncc{height:100%;}</style><script language="javascript" src="assets/images/includes/cookie.js"></script></head>
+<!--— SITE TEMPLATE BEGIN ---->
 
-        <font color="#FFFFFF">|</font>&nbsp;
+<!-- IMENU CSS DO NOT MOVE -->
+<!--[imcss] *** Infinite Menus Core CSS: Keep this section in the document head for full validation. -->
+<!--[if IE]><style type="text/css">.imcm .imea span{position:absolute;}.imcm .imclear,.imclear{display:none;}.imcm{zoom:1;} .imcm li{curosr:hand;} .imcm ul{zoom:1}.imcm a{zoom:1;}</style><![endif]--><!--[if gte IE 7]><style type="text/css">.imcm .imsubc{background-image:url(assets/images/ie_css_fix.gif);}</style><![endif]--><!--[if lte IE 6]><style type="text/css">.imgl .imctitle{curosr:pointer;}</style><![endif]--><!--end-->
 
-    <a class="breadcrumb" href="/helpdesk/index.jsp">Help Desk</a>
 
-    </td></tr>
-</tbody></table>
+<body><div id="border_div"><div id="border_div2"><div id="container">
+<!-- begin feature: quickview -->
+<iframe id="qv_iframe" style="height:550px;width:400px;z-index:9999979;position:absolute;top:150px;left:200px; display:none;" src="assets/images/blank.html"></iframe>
+<div id="qv_window" style="width:380px;height:525px;position:absolute;background:#FFFFFF;padding:15px;z-index:9999980;visibility:hidden; border:4px solid #cccccc">
+<a id="closebtn" href="javascript:void(0)" onclick="closeProd(this);" style="font-weight: bold; float: right;"><img src="assets/images/btnclose.gif" border="0" alt="Close" title="Close"></a>
 <br>
+<div id="qv_error" class="ErrorMsg"></div>
+<div id="qv_action" style="visibility: visible;"></div>
+</div>
+ <script type="text/javascript" language="javascript" src="assets/images/includes/quickview.js"></script>
+<script src="assets/images/includes/quickview.js"></script>
+<!-- end feature: quickview -->
+<div class="headercity"><div class="headercitybox" id="headerbox" style="display:none;z-index:999999;">
+<table width="100%"><tbody><tr valign="top"><td width="50%">
+<span class="headercity_header">Boston, MA</span><br>
+<div class="headercity_text"><a href="#" onclick="return(makeCookie('BOSTON,boston_university'))">Boston University</a><br>
+  <a href="#" onclick="return(makeCookie('BOSTON,back_bay'))">Back Bay</a><br>
+  <a href="#" onclick="return(makeCookie('BOSTON,downtown_crossing'))">Downtown Crossing</a><br>
+  <a href="#" onclick="return(makeCookie('CAMBRIDGE,harvard_square'))">Harvard Square</a><br>
+  <a href="#" onclick="return(makeCookie('CAMBRIDGE,porter_square'))">Porter Square</a><br>
+  <a href="#" onclick="return(makeCookie('CHESTNUT HILL,chestnut_hill'))">Chestnut Hill</a>
+  </div><br>
+<span class="headercity_header">Washington DC</span><br>
+<div class="headercity_text"><a href="#" onclick="return(makeCookie('WASHINGTON DC,19th_street'))">19th Street</a><br>
+  <a href="#" onclick="return(makeCookie('WASHINGTON DC,gallery_place'))">Gallery Place</a></div><br>
+<span class="headercity_header">Atlanta, GA</span><br>
+<div class="headercity_text"><a href="#" onclick="return(makeCookie('ATLANTA,atlantic_station'))">Atlantic Station</a></div>
+</td><td width="50%" class="headercity_text" style="padding-left:18px">
+<span class="headercity_header">Baltimore, MD</span><br>
+<div class="headercity_text"><a href="#" onclick="return(makeCookie('BALTIMORE,harbor_east'))">Harbor East</a></div><br>
+<span class="headercity_header">New York, NY</span><br>
+<div class="headercity_text"><a href="#" onclick="return(makeCookie('NEW YORK,5th_avenue'))">5th Avenue</a></div><br>
+<span class="headercity_header">Philadelphia, PA</span><br>
+<div class="headercity_text"><a href="#" onclick="return(makeCookie('PHILADELPHIA,center_city'))">Center City</a><br>
+<a href="#" onclick="return(makeCookie('ARDMORE,suburban_square'))">Suburban Square</a>
+</div><br>
+<span class="headercity_header">Providence, RI</span><br>
+<div class="headercity_text"><a href="#" onclick="return(makeCookie('PROVIDENCE,thayer_street'))">Thayer Street</a></div>
+</td></tr></tbody></table>
+</div>
+<table cellpadding="0" cellspacing="0" width="1000" id="main_table" class="main_table"><tbody><tr><td>
 
+<table border="0" cellpadding="0" cellspacing="0" width="910"> <tbody><tr> <td colspan="3">
+<table border="0" cellpadding="0" cellspacing="0" width="910" height="0">
+<tbody><tr>
 
+<td width="910" valign="TOP" align="LEFT">
+			
+	<script type="text/javascript" language="javascript">focname = 0;focname1 = 0;focname2 = 0;</script>
+<script type="text/javascript" language="javascript">
+// jas 9.OCT.2007
+function draw_leaf_tree(){
+	var base_dept="10";
+	var passed_base=false;
+	var leaf_text = "";
+	// If the leaf_tree array exists and it has elements...
+	if ((typeof(leaf_tree)!="nothing")&&(leaf_tree.length>0)){
+	
+		// Loop through the array backwards
+		for (i=leaf_tree.length-1;i>=0;i--){
+		
+			// If we're past the base department...
+			if (passed_base){
 
-
-</td>
-</tr>
-</tbody></table>
-<table bgcolor="#000000" cellpadding="0" border="0" cellspacing="0" width="100%">
-		<tbody><tr>
-		    <td bgcolor="#FFFFFF">
-				<table width="100%" border="0" cellpadding="0">
-						<tbody><tr><td>
-<!-- *********************************** STOREMAN HELPDESK STARTS************************************** -->
-				 
-
+				//seperator - getting here only after 2 levels deep to created bullet
+				leaf_text+="&nbsp;&gt;&nbsp;";
+				//link and name
+				leaf_text+="<a href=\"" + leaf_tree[i].dept_link + "\" CLASS=\"leaftree\">" + leaf_tree[i].dept_name.toLowerCase() + "<\/a>";
 				
-							
-
-<table width="100%" border="0">
-	<tbody><tr>
-		<td width="200" valign="top">
-<!-- navigation -->
-			<table width="200" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td bgcolor="#888888" height="20" valign="middle" colspan="2" align="left">
-					<font class="subnavHeader">Safety, Security, and Privacy</font></td>
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
+			}else{
+			
+				// If we're on the base department...
+				if (leaf_tree[i].dept_id==base_dept){
 				
-				<tr>
-					<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td>
-					<td valign="top">
-						
-							<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="hd_pagelink">Secure Shopping Guarantee</a>
-						 
-					</td>
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				<tr>
-					<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td>
-					<td valign="top">
-						
-							<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="hd_pagelink">Privacy Policy</a>
-						 
-					</td>
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				<tr>
-					<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td>
-					<td valign="top">
-						
-							<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="hd_pagelink">Terms &amp; Conditions</a>
-						 
-					</td>
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				<tr>
-					<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td>
-					<td valign="top">
-						
-							<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=warranty" class="hd_pagelink">Service Plan</a>
-						 
-					</td>
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				<tr>
-					<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td>
-					<td valign="top">
-						
-							<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard" class="hd_pagelink">MasterCard SecureCode</a>
-						 
-					</td>
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				<tr>
-					<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td>
-					<td valign="top">
-						
-							<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=vbv" class="hd_pagelink">Verified by Visa</a>
-						 
-					</td>
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-			</tbody></table>
-		</td>
-		<td>
-			<img src="/images/pixel.gif" width="10" height="1">
-		</td>
-		<td valign="top">
-			<table border="0">
-				<tbody><tr>
-					<td><a href="/helpdesk/index.jsp"><img src="../images/hd/help_desk.gif" border="0"></a></td>	
-				</tr>
-				<tr>
-				<td>
-						<img src="/images/pixel.gif" height="3">
-				</td>
-				</tr>
-				<tr>
-					<td valign="top">
+					passed_base=true;
+					//HOME link and HOME name
+					leaf_text+="<a href=\"default.asp\" class=\"leaftree\" onClick=\"return(visitargs('default.asp','','URL'));\">home<\/a>";
 					
-					<!-- panel -->
-						<!--here is panelId::1969120-->
-<!--here is pd::null-->
-<!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 1969120 with pd:null-->
-<!--STOREMAN PANEL: helpdesk/CTY_safetySecurityAndPrivacy_9-2.21087.jsp-->
-
-								<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
-
-<smpanel xmlns:sm="http://engineering.gspt.net/storeman/sm-DTDinfo.html">
-<table width="98%" border="0" cellpadding="0" cellspacing="0">
-   <tbody><tr>
-           <td valign="top">
-<p class="header">Our Privacy Policy</p>
-
-<p>	GSI Commerce, Inc. has created this privacy policy to inform you of the information gathering and dissemination practices for this Web site, www.citysports.com.  Because we want to demonstrate our commitment to your privacy, by notifying you of:</p>
-	<ol>
-		<li>What personally identifiable information of yours is collected through this Web site;</li>
-		<li>The organization collecting the information;</li>
-		<li>How the information is used;</li>
-		<li>With whom the information may be shared;</li>
-		<li>What choices are available to you regarding collection, use and distribution of the information;</li>
-		<li>The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under Global Sport Interactive's control; and</li>
-		<li>How you can correct any inaccuracies in the information.</li>
-	</ol>
-	<p>If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email at <a href="mailto:customersupport@citysports.com? subject=Privacy Policy Questions" class="pagelink">customersupport@citysports.com</a> or by phone at 1-877-262-8980.</p>
-
-<table border="0" width="100%"><tbody><tr><td align="left" class="hd_TD" style="background-color:#FFFFFF;"><a name="2"></a><p><b>&nbsp;Visiting www.citysports.com</b></p></td></tr></tbody></table>
-	<p>Your IP address, browser and reference site domain name are logged every time you visit our site.  This data is used strictly for the analysis of load information and maximizing the efficiency of our servers. Except as provided in this privacy policy, we will not share this data with anyone in any way.</p>
-
-<p>
-Subject to the terms and conditions of this Privacy Policy, any communication or material you transmit or post to this Web Site by email or otherwise, including any data, questions, comments, or suggestions (other than personally identifiable information which will be treated in accordance with this privacy policy), is and will be treated as non-confidential and non-proprietary and anything you transmit or post may be used by us and our affiliates for any purpose, including without limitation, reproduction, disclosure, transmission, publication, broadcast, and posting. We are free to use any ideas, concepts, know-how, or techniques contained in any communication or material that you send to this Web Site for any purpose whatsoever including, but not limited to, developing, manufacturing and marketing products using such information.
-</p>	
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			<a name="3"></a>
-				<p><b>&nbsp;Using Cookies</b>
-					</p>
-		</td>
-	</tr>
-</tbody></table>
-
-<p>"Cookies" are files stored on your computer's hard drive by your browser.  These cookies help us identify our account holders and optimize their shopping experience.  They do not include any data that will identify you personally.  They will, however, allow you to use some specialized www.citysports.com features.  Cookies also allow us to hold selections in your shopping cart when you leave our site without checking out.  Most browsers accept cookies automatically, but allow you to disable them if you wish.</p>
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			<a name="3"></a>
-				<p><b>&nbsp;External Links / Framed Web Pages </b>
-					</p>
-		</td>
-	</tr>
-</tbody></table>
-<p>
-Our store locator functionality links to a third party web site. Any data provided through this functionality is not governed by this privacy policy. The privacy policy of the third party web site governs the information collection and dissemination practices occurring on such web site.
-</p><p>
-If you have accessed this Web Site through a link from certain of our advertising and marketing partners our Site may include a frame of the applicable advertising and marketing partner. The information you provide to us through these framed web pages is collected by us and its use is governed by this privacy policy.
-</p>
-
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			<a name="4"></a>
-				
-					<p><b>&nbsp;Ordering from www.citysports.com, Inc.</b></p>
-		</td>
-	</tr>
-</tbody></table>
-
-<p>When you order from www.citysports.com, we need your name, email address, shipping address, phone number and credit card number/expiration date.  We use this data to process your order, ship it and send you order and shipping confirmations via email.  Except as provided in this privacy policy, we will not sell, rent, or disclose this data to any third party without your consent.  (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.)</p>
-
-<p>From time to time, we may use the purchases you make to customize our product recommendations.  We also track customer traffic patterns and site usage.  Traffic and usage data is used only to improve our site's design and provide our customers with a fulfilling shopping experience.</p> <br>
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			<a name="5"></a>
-				<p><b>&nbsp;Opening a 
-				 City Sports, Inc. account</b></p>
-		</td>
-	</tr>
-</tbody></table>
-
-<p>	We require your name, billing address, shipping address, email address and telephone number to open an account for you.  We may also ask some additional optional questions to help us better serve you.  Except as provided in this privacy policy, this account data is never shared with anyone in any way without your consent.  (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.)  
-</p>
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			<a name="3"></a>
-				<p><b>&nbsp;Corrections/Updates to your Account </b>
-					</p>
-		</td>
-	</tr>
-</tbody></table>
-<p>
-You can correct account data by clicking on "Manage My Account" within the Help Desk area of the site. If you have any questions or concerns about correcting or updating your Account, please contact our customer service department.
-
-</p>
-
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			<a name="3"></a>
-				<p><b>&nbsp;Receiving Promotions/Opt-Out </b>
-					</p>
-		</td>
-	</tr>
-</tbody></table>
-
-<p>From time to time, we will contact you about sales, special offers and new site features if you agreed to be included in our email lists when you completed a purchase transaction with us.  To customize the information you want to receive from us, simply sign on and select the specific information you wish to receive.  To cancel our free emails, you can unclick the "I would like to receive emails about special promotions" box each time you make a purchase.  You can also respond to any promotional email we send you, placing "REMOVE" in your subject line to discontinue email service.  You can also send an email to <a href="mailto:customersupport@citysports.com? subject=Privacy Policy Questions" class="pagelink">customersupport@citysports.com</a> or call us toll-free at1-877-262-8980  and inform us that you want to unsubscribe to our email list. </p>
-
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			
-				<p><b>&nbsp;Customer Service</b></p>
-		</td>
-	</tr>
-</tbody></table>
-
-<p>	In addition to being able to call our customer service department, you may also email us at <a href="mailto:customersupport@citysports.com? subject=Privacy Policy Questions" class="pagelink">customersupport@citysports.com</a>.  When you email us, your emails are stored within our system so that we may refer to previous emails from you as needed so that we may properly address your questions and concerns.  Except as provided in this privacy policy, the information you provide to our customer service department is not shared with anyone without your consent.</p>
-
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			<a name="6"></a>
-				
-					<p><b>&nbsp;Entering contests/sweepstakes</b></p>
-		</td>
-	</tr>
-</tbody></table>
-
-<p>	Whenever we run a contest or sweepstakes relating to our site, it will be accompanied with the rules of the contest/sweepstakes. The rules for each contest/sweepstakes will also detail how the information gathered from you for entry into the contest/sweepstakes will be used. You will find the rules for each contest/sweepstakes by clicking the "rules" link accompanying each contest/sweepstakes. Additionally, we will post if this information will be shared with anyone in addition to those persons and entities provided for in this Privacy Policy, such as a third party sponsoring or managing the contest/sweepstakes.
-</p>
-
-<p>	We may also contact you with promotional offers if you have entered one of our contests or sweepstakes. If you choose not to receive this free service when you enter a contest or sweepstakes, it will not affect your chances of winning.  You can also opt out of this free service by unclicking the "I would like to receive emails about special promotions" box associated with each contest or sweepstakes, replying to any email and placing "REMOVE" in your subject line or notifying us that you want to unsubscribe to our free email services via email <a href="mailto:customersupport@citysports.com? subject=Privacy Policy Questions" class="pagelink">customersupport@citysports.com</a> or telephone 1-877-262-8980.</p>
-
-
-
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			<a name="7"></a>
-				
-					<p><b>&nbsp;E-mail to a Friend </b></p>
-	   </td>
-	</tr>
-</tbody></table>
-
-<p>
-
-
-Users of this web site have the opportunity to e-mail product pages to their friends. In order to accomplish this, you must provide to us your friend's names and e-mails addresses. We only use your friend's information to send them the product pages you requested that they receive.
-</p>
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			<a name="7"></a>
-				
-					<p><b>&nbsp;On-Line Gift Certificates and Gift Cards </b></p>
-	   </td>
-	</tr>
-</tbody></table>
-
-<p>
-If you send an on-line gift certificate or gift card to a third party you must provide us with the recipient's name and e-mail address. We only use this information to deliver such gift certificate or gift card.
-
-</p>
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			<a name="7"></a>
-				
-					<p><b>&nbsp;Customer Feedback Form</b></p>
-	   </td>
-	</tr>
-</tbody></table>
-
-<p>	You can use this form to give us any input which we will use to improve our site.  The only required data is your name and email address.  The remainder of the data is optional. We only use this data to make improvements on our site.  Except as provided in this privacy policy, this data is not shared with anyone in any way.</p>
-
-
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			<a name="8"></a>
-			
-				<p><b>&nbsp;Our Third Party Relationships</b></p>
-		</td>
-	</tr>
-</tbody></table>
-
-<p>	We have established several relationships with third parties vendors to best serve our customers.</p>
-<dl><dd>
-<ul>		<li>
-			<b>Retailer:</b> GSI Commerce, Inc operates this Web site pursuant to agreements with 
-			City Sports, Inc. Pursuant to such agreements, City Sports is entitled to access and use the information collected through this Web site to the same extent and in the same manner as GSI Commerce, Inc.  Additionally, City Sports may contact those customers who have agreed to receive promotional offers about offers in its land-based stores.  City Sports has agreed to abide by this Privacy Policy and the same restrictions and limitations applicable to GSI Commerce, Inc hereunder.</li>
-		<li><b>Affiliates:</b> From time to time we may establish an affiliate program.  An affiliate program allows other Web sites to earn money by linking customers to our site from their sites.  These affiliates can only access data about the number of transactions and their resulting earnings.  They cannot access our customers' personal data. If you choose to apply to any of our affiliate programs, we use the data you give us strictly for conducting business with you.  We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs.  Such third parties may have access to certain of your information if you are an affiliate of the web site but is restricted to only use such information in connection with its administration of the affiliate programs.</li>
-		<li><b>Order Fulfillment:</b> Certain vendors of ours provide customer order fulfillment and shipping services on our behalf.  These vendors have access only to information needed to accurately fulfill and ship orders, which are processed through such vendors.  These vendors have agreed to not use any personally identifiable information of customers for any other purpose.</li>
-		<li><b>Credit Card Processing:</b> We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes.</li>
-		
-
-		<li><b>Web Site Evaluation:</b>  From time to time, we engage certain third parties to observe, track and report on the behavior of the users of this Web Site in order to evaluate the performance and features of this Web Site. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose.</li> 
-				
-        <li><b>Marketing and Promotions:</b> From time to time, we engage certain third parties to assist in the dissemination of marketing and promotional offers (i.e. e-mails) to those customers who have agreed to receive such offers.  These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose.</li>
-        
-        <li><b>Additional Third Party Relationships:</b> From time to time, we engage other third parties to assist in providing marketing, order processing, fulfillment and shipping services.  These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services.</li>
-</ul>
-</dd></dl>	
-
-    <p>	Additionally, From time to time, we share non-personal, non-individual statistical information with our marketing partners, advertisers or other third parties for research purposes.  That is, we will not tell our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.</p>
-
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			<a name="9"></a>
-									<p><b>
-&nbsp;Security Policy</b></p>
-				
-		</td>
-	</tr>
-</tbody></table>
-
-<p>	We use Secure Socket Layer (SSL) encryption technology to protect your personal information.  The only time you are required to sign on our site is when you are making a purchase.  On the Checkout page, you will be asked to access your existing account or create a new one.  Existing account holders are prompted for their ID (your email address) and password.  This password is for your protection. If you don't have your password, there is a link that reads "Lost your password?"  Click on this for instructions on how to get your password. </p>
-
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			<a name="10"></a>
-									<p><b>
-&nbsp;Changes to Privacy Policy</b></p>
-		</td>
-	</tr>
-</tbody></table>
-
-<p>	If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email.  You will have a choice as to whether or not we use your information in this different manner.  In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.</p>
-
-
-
-<table border="0" width="100%">
-	<tbody><tr>
-		<td align="left" class="hd_TD" style="background-color:#FFFFFF;">
-			<a name="11"></a>
-				
-					<p><b>&nbsp; Questions about our Policies</b></p>
-		</td>
-	</tr>
-</tbody></table>
-
-<p>	If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email at <a href="mailto:customersupport@citysports.com? subject=Privacy Policy Questions" class="pagelink">customersupport@citysports.com</a> or by phone at 1-877-262-8980.</p>
-
-
-<br><br></td>
-</tr>
-</tbody></table>
- </smpanel>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--END STOREMAN PANEL helpdesk/CTY_safetySecurityAndPrivacy_9-2.21087.jsp-->
-<!--END STOREMAN GENERATION-->
-
-							
+				} //end if
+			} //end if
+		} // end for
+	return leaf_text;
+	}// end if
+} // end function
+</script>
+<!-- FEATURE END: Leaftree navigation -->
+	<table width="910" height="0" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td width="910" valign="TOP" align="CENTER">
+	 <table width="910" border="0" cellspacing="0" cellpadding="0"> 
+	<tbody><tr valign="top"> 
+		<td background="assets/images/headerbig01.gif" align="right" height="98" id="header_image">
+			<table width="910" border="0" cellspacing="0" cellpadding="0" height="98"> 
+				<tbody><tr valign="top">
+					<td align="left" style="padding: 20px 0px 0px 20px">
+						<a href="default.asp" onclick="return(visitargs('default.asp','','URL'));"><img src="assets/images/header01.gif" border="0"></a>
+					</td>
+					<td align="right" width="100%"><div id="city_image"></div></td>
+					<td align="right">
+						<table border="0" cellspacing="0" cellpadding="0" width="236" height="98">
+							<tbody><tr valign="top">
+								<td>
+									<table border="0" cellspacing="0" cellpadding="0" width="236">
+										<tbody><tr valign="top">
+											<td align="left">
+												<table border="0" cellspacing="0" cellpadding="0" width="236" class="shopping_header">
+													<tbody><tr valign="top">
+														
+															<script language="JAVASCRIPT">
+															if(user_firstname!="")
+															{
+																document.write('<td class=headertext>');
+																document.write('WELCOME ' + user_firstname); 
+																document.write("<br><a href=\"logout.asp\" class=headerlink>SIGN OUT</a>");
+																document.write("</td><td nowrap><a href=\"shopper_update.asp\" onclick=\"return(visitargs('shopper_lookup.asp','target=shopper_update.asp','URL'));\" class=headerlink>MY ACCOUNT</a><BR><a href=\"receipts.asp\" onclick=\"return(visitargs('shopper_lookup.asp','target=receipts.asp','URL'));\" class=headerlink>ORDER STATUS</a></td>");
+															}else	if(user_email.indexOf("@") >0)
+															{
+																document.write('<td class=headertext>');
+																document.write('WELCOME BACK'); 
+																document.write('<br><a href=\"shopper_lookup.asp\" class=headerlink>SIGN IN</a>');
+																document.write("</td><td></td>");
+															}else{
+																document.write('<td colspan=2 class=headertext>');
+																document.write('WELCOME TO CITY SPORTS');
+																document.write('<br><a href=\"shopper_lookup.asp\" class=headerlink>SIGN IN</a>');
+																document.write("</td>");
+															}
+															</script><td colspan="2" class="headertext">WELCOME TO CITY SPORTS<br><a href="shopper_lookup.asp" class="headerlink">SIGN IN</a></td>
+														
+													</tr>
+													<tr valign="top">
+														<td style="padding-top:2px">
+															<table border="0" cellspacing="0" cellpadding="0">
+																<tbody><tr valign="top">
+																	<td nowrap=""><a href="shopper_lookup.asp?target=wish_basket.asp" onclick="return(visitargs('shopper_lookup.asp','target=wish_basket.asp',''))" class="headerlink">MY WISH LIST</a><br>
+																		<a href="basket.asp" onclick="return(visitargs('basket.asp','','URL'));" class="headerlink2">
+																		<script language="javascript" type="text/javascript">
+																		document.write(shopping_basket.no_items + " ITEM(S) IN MY BAG");
+																		</script>0 ITEM(S) IN MY BAG
+																	</a></td>
+																	<td style="padding-left:5px;vertical-align:bottom;"><img src="assets/images/headercart.gif" border="0"></td>
+																</tr>
+																<!--<tr valign=top>
+																	<td colspan=2>
+																		<a href="wish_basket.asp" onclick="return(visitargs('wish_basket.asp','','URL'));" class=headerlink3>
+																		<script language="javascript" type="text/javascript">
+																		document.write(shopping_basket.no_items + " ITEMS IN MY WISHLIST");
+																		</script>
+																	</td>
+																</tr>-->
+															</tbody></table>
+														</td>
+														<td style="padding-top:0px;vertical-align:bottom;"><a href="basket.asp" onclick="return(visitargs('basket.asp','','URL'));"><img src="assets/images/headercheckout.gif" border="0"></a></td>
+													</tr>
+												</tbody></table>
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<tr valign="bottom">
+								<td align="right">
+									<table border="0" cellspacing="0" cellpadding="0" width="236" style="padding:0px 1px 7px 0px">
+										<tbody><tr valign="bottom">
+											<form method="get" action="search.asp" name="quick_search" id="quick_search"></form>
+												<td align="right">
+								<script type="text/javascript" language="javascript">
+								if(user_guid.length>5){document.write('<input type=HIDDEN name="mscssid" value="' + user_guid + '"> ');} 
+								document.write('<input type=HIDDEN name="s_id" value="' + i_jscript_uu_sid + '"> ');
+								</script><input type="HIDDEN" name="s_id" value="0">  
+												<input type="HIDDEN" name="search_submitted" value="yes"> 
+												<input type="HIDDEN" name="q_list" value=""> 
+												<input type="HIDDEN" name="q_count" value="0"> 
+												<input type="HIDDEN" name="move" value="none"> 
+												<input type="TEXT" class="search" name="search_freetext" value="" size="20" onfocus="if (focname == 0) { this.value=''; focname=1; }" onblur="if (!this.value) { this.value=''; focname=0; }"> 
+												</td><td align="left" style="padding-left:4px"><input type="Image" value="Find" src="assets/images/headersearch.gif" alt="Search" align="top" border="0"></td>
+											
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
 					</td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
+	<tr valign="top">
+		<td background="assets/images/headerbig02.gif" height="34" align="left">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%" height="30">
+				<tbody><tr valign="top">
+					<td class="headernav_td" width="100%">
+					
+<!--  FEATURE BEGIN: Infinite Menus, editor:jas and cls, date:31.JAN.2008  ***** -->					
+<div class="imrcmain0 imgl" style="width:100%;z-index:999998;position:relative;">
+<div class="imcm imde" id="imouter0">
+<ul id="imenus0">
+							
+							
+<!-- MAIN ITEM 0 MENS  -->
+<li style="width:52px;" class="imatm"><a href="dept.asp?dept_id=82" onclick="return(visitargs('dept.asp','dept_id=82','URL'));"><span class="imea imeam"><span></span></span><img src="assets/images/mens.gif" border="0" onmouseover="this.src='assets/images/mens_on_2.gif';return true;" onmouseout="this.src='assets/images/mens.gif';return true;" id="mens"></a> 
+
+<!-- >>>> MENS  canvas start id="canvas" sets background image in style sheet  -->
+<div class="imsc"><div class="imsubc" style="width:162px;height:230px;top:5px;left:0px;" id="canvas">
+<ul class="imncc" style="">
+
+<!--  MENS  > apparel column 1 start left:4px -->
+<li class="imctitleli" style="width:130px;top:0px;left:4px;"><a class="imctitlea" href="#"><span class="imea imeas"><span></span></span></a>
+<div class="imctitle" style="visibility:hidden;"></div>
+<div class="imsc">
+<div class="imsubc imcsdd" style="width:122px;top:-23px;left:130px;">
+<!-- canvas start -->
+<ul class="imcanvassubc" style="padding:4px 5px 4px 10px;margin:0px;">
+	<li><a href="dept.asp?dept_id=820" onclick="return(visitargs('dept.asp','dept_id=820','URL'));">Apparel</a></li>
+	<li><a href="dept.asp?dept_id=822" onclick="return(visitargs('dept.asp','dept_id=822','URL'));">Footwear</a></li>
+	<li><a href="dept.asp?dept_id=824" onclick="return(visitargs('dept.asp','dept_id=824','URL'));">Equipment</a></li>
+
+</ul></div></div></li>
+</ul></div></div></li>
+
+
+<!-- MAIN ITEM 1 WOMENS  -->  
+<li style="width:70px;" class="imatm"><a href="dept.asp?dept_id=80" onclick="return(visitargs('dept.asp','dept_id=80','URL'));"><span class="imea imeam"><span></span></span><img src="assets/images/womens.gif" border="0" onmouseover="this.src='assets/images/womens_on_2.gif';return true;" onmouseout="this.src='assets/images/womens.gif';return true;" id="womens"></a>
+
+<!-- >>>> WOMENS  canvas start  id="canvas" sets background image in style sheet  -->
+<div class="imsc">
+<div class="imsubc" style="width:162px;height:230px;top:5px;left:0px;" id="canvas">
+<ul class="imncc" style="">
+
+<!--  WOMENS  > apparel column 1 start left:4px -->
+<li class="imctitleli" style="width:130px;top:0px;left:4px;"><a class="imctitlea" href="#"><span class="imea imeas"><span></span></span></a>
+<div class="imctitle" style="visibility:hidden;"></div>
+<div class="imsc">
+
+<div class="imsubc imcsdd" style="width:122px;top:-23px;left:132px;">
+<!-- canvas start -->
+<ul class="imcanvassubc" style="padding:4px 5px 4px 10px;margin:0px;">
+	<li><a href="dept.asp?dept_id=800" onclick="return(visitargs('dept.asp','dept_id=800','URL'));">Apparel</a></li>
+	<li><a href="dept.asp?dept_id=802" onclick="return(visitargs('dept.asp','dept_id=802','URL'));">Footwear</a></li>
+	<li><a href="dept.asp?dept_id=808" onclick="return(visitargs('dept.asp','dept_id=808','URL'));">Bras</a></li>
+	<li><a href="dept.asp?dept_id=804" onclick="return(visitargs('dept.asp','dept_id=804','URL'));">Equipment</a></li>
+
+</ul></div></div></li>
+</ul></div></div></li>
+
+
+<!-- MAIN ITEM 2 FOOTWEAR  -->  
+<li class="imatm" style="width:85px;"><a href="dept.asp?dept_id=86" onclick="return(visitargs('dept.asp','dept_id=86','URL'));"><span class="imea imeam"><span></span></span>
+<img src="assets/images/footwear.gif" border="0" onmouseover="this.src='assets/images/footwear_on_2.gif';return true;" onmouseout="this.src='assets/images/footwear.gif';return true;" id="footwear"></a>
+
+<!-- >>>> FOOTWEAR  canvas start  id="canvas" sets background image in style sheet  -->
+<div class="imsc">
+<div class="imsubc" style="width:324px;height:230px;top:5px;left:0px;" id="canvas2">
+<ul class="imncc" style="">
+
+<!--  FOOTWEAR  > apparel column 1 start left:4px -->
+<li class="imctitleli" style="width:150px;top:0px;left:4px;"><a class="imctitlea" href="#"><span class="imea imeas"><span></span></span></a>
+<div class="imctitle" style="visibility:hidden;"></div>
+<div class="imsc">
+
+<div class="imsubc imcsdd" style="width:150px;top:-23px;left:132px;">
+<!-- canvas start -->
+<ul class="imcanvassubc" style="padding:4px 0px 4px 4px;margin:0px;">
+<li><a href="dept.asp?dept_id=860" onclick="return(visitargs('dept.asp','dept_id=860','URL'));"><b>WOMEN'S FOOTWEAR</b></a></li>
+
+<!-- FOOTWEAR > apparel submenu still col 1 -->
+	<li><a href="dept.asp?dept_id=8600" onclick="return(visitargs('dept.asp','dept_id=8600','URL'));">Running</a></li>
+             
+              <li><a href="dept.asp?dept_id=8601" onclick="return(visitargs('dept.asp','dept_id=8601','URL'));">Gym</a></li>
+             
+              <li><a href="dept.asp?dept_id=8602" onclick="return(visitargs('dept.asp','dept_id=8602','URL'));">Casual  Lifestyle</a></li>
+             
+              <li><a href="dept.asp?dept_id=8607" onclick="return(visitargs('dept.asp','dept_id=8607','URL'));">Flip Flops</a></li>
+              <li><a href="dept.asp?dept_id=8603" onclick="return(visitargs('dept.asp','dept_id=8603','URL'));">Outdoor</a></li>
+
+             
+              <li><a href="dept.asp?dept_id=8604" onclick="return(visitargs('dept.asp','dept_id=8604','URL'));">Tennis/Racquet Sports</a></li>
+             
+              <li><a href="dept.asp?dept_id=8605" onclick="return(visitargs('dept.asp','dept_id=8605','URL'));">Cycling</a></li>
+             
+              <li><a href="dept.asp?dept_id=8606" onclick="return(visitargs('dept.asp','dept_id=8606','URL'));">Walking</a></li>
+
+	</ul></div></div></li>
+
+<!-- FOOTWEAR >  footware column 2 start left:155px -->
+<li class="imctitleli" style="width:150px;top:0px;left:155px;"><a class="imctitlea" href="#"><span class="imea imeas"><span></span></span></a>
+<div class="imctitle" style="visibility:hidden;"></div>
+<div class="imsc">
+<div class="imsubc imcsdd" style="width:150px;top:-23px;left:132px;">
+<ul class="imcanvassubc" style="padding:4px 0px 4px 10px;margin:0px;">
+<li><a href="dept.asp?dept_id=862" onclick="return(visitargs('dept.asp','dept_id=862','URL'));"><b>MEN'S FOOTWEAR</b></a></li>
+
+<!-- FOOTWEAR > footwear submenu still col 2 -->
+    <li><a href="dept.asp?dept_id=8620" onclick="return(visitargs('dept.asp','dept_id=8620','URL'));">Running</a></li>
+
+             
+              <li><a href="dept.asp?dept_id=8621" onclick="return(visitargs('dept.asp','dept_id=8621','URL'));">Gym</a></li>
+             
+              <li><a href="dept.asp?dept_id=8622" onclick="return(visitargs('dept.asp','dept_id=8622','URL'));">Casual  Lifestyle</a></li>
+             
+              <li><a href="dept.asp?dept_id=8626" onclick="return(visitargs('dept.asp','dept_id=8626','URL'));">Flip Flops</a></li>
+              <li><a href="dept.asp?dept_id=8623" onclick="return(visitargs('dept.asp','dept_id=8623','URL'));">Outdoor</a></li>
+             
+              <li><a href="dept.asp?dept_id=8624" onclick="return(visitargs('dept.asp','dept_id=8624','URL'));">Tennis/Racquet Sports</a></li>
+             
+              <li><a href="dept.asp?dept_id=8625" onclick="return(visitargs('dept.asp','dept_id=8625','URL'));">Cycling</a></li>
+
+	</ul></div></div></li>
+</ul></div></div></li>
+
+
+
+<!-- MAIN ITEM 3 APPAREL  -->  
+<li class="imatm" style="width:74px;"><a href="dept.asp?dept_id=84" onclick="return(visitargs('dept.asp','dept_id=84','URL'));"><span class="imea imeam"><span></span></span>
+<img src="assets/images/apparel.gif" border="0" onmouseover="this.src='assets/images/apparel_on_2.gif';return true;" onmouseout="this.src='assets/images/apparel.gif';return true;" id="apparel"></a>
+
+<!-- >>>> APPAREL  canvas start  id="canvas" sets background image in style sheet  -->
+<div class="imsc">
+<div class="imsubc" style="width:324px;height:230px;top:5px;left:0px;" id="canvas2">
+<ul class="imncc" style="">
+
+<!--  APPAREL  > apparel column 1 start left:4px -->
+<li class="imctitleli" style="width:150px;top:0px;left:4px;"><a class="imctitlea" href="#"><span class="imea imeas"><span></span></span></a>
+<div class="imctitle" style="visibility:hidden;"></div>
+<div class="imsc">
+
+<div class="imsubc imcsdd" style="width:150px;top:-23px;left:132px;">
+<!-- canvas start -->
+<ul class="imcanvassubc" style="padding:4px 0px 4px 8px;margin:0px;">
+<li><a href="dept.asp?dept_id=840" onclick="return(visitargs('dept.asp','dept_id=840','URL'));"><b>WOMEN'S APPAREL</b></a></li>
+
+<!-- APPAREL > apparel submenu still col 1 -->
+	<li><a href="dept.asp?dept_id=8400" onclick="return(visitargs('dept.asp','dept_id=8400','URL'));">Performance Tops</a></li>
+
+             
+              <li><a href="dept.asp?dept_id=8401" onclick="return(visitargs('dept.asp','dept_id=8401','URL'));">Lifestyle/Casual Tops</a></li>
+             
+              <li><a href="dept.asp?dept_id=8402" onclick="return(visitargs('dept.asp','dept_id=8402','URL'));">Pants</a></li>
+             
+              <li><a href="dept.asp?dept_id=8403" onclick="return(visitargs('dept.asp','dept_id=8403','URL'));">Shorts</a></li>
+             
+              <li><a href="dept.asp?dept_id=8404" onclick="return(visitargs('dept.asp','dept_id=8404','URL'));">Swim</a></li>
+             
+              <li><a href="dept.asp?dept_id=8405" onclick="return(visitargs('dept.asp','dept_id=8405','URL'));">Fleece</a></li>
+             
+              <li><a href="dept.asp?dept_id=8406" onclick="return(visitargs('dept.asp','dept_id=8406','URL'));">Outerwear</a></li>
+
+             
+              <li><a href="dept.asp?dept_id=8407" onclick="return(visitargs('dept.asp','dept_id=8407','URL'));">Underwear</a></li>
+             
+              <li><a href="dept.asp?dept_id=8408" onclick="return(visitargs('dept.asp','dept_id=8408','URL'));">Headwear</a></li>
+             
+              <li><a href="dept.asp?dept_id=8409" onclick="return(visitargs('dept.asp','dept_id=8409','URL'));">Gloves</a></li>
+             
+              <li><a href="dept.asp?dept_id=8410" onclick="return(visitargs('dept.asp','dept_id=8410','URL'));">Socks</a></li>
+	      
+	      <li><a href="dept.asp?dept_id=8411" onclick="return(visitargs('dept.asp','dept_id=8411','URL'));">Bras</a></li>
+
+	</ul></div></div></li>
+
+<!-- APPAREL >  footware column 2 start left:155px -->
+<li class="imctitleli" style="width:150px;top:0px;left:155px;"><a class="imctitlea" href="#"><span class="imea imeas"><span></span></span></a>
+<div class="imctitle" style="visibility:hidden;"></div>
+<div class="imsc">
+<div class="imsubc imcsdd" style="width:150px;top:-23px;left:132px;">
+<ul class="imcanvassubc" style="padding:4px 0px 4px 10px;margin:0px;">
+<li><a href="dept.asp?dept_id=842" onclick="return(visitargs('dept.asp','dept_id=842','URL'));"><b>MEN'S APPAREL</b></a> </li>
+
+<!-- APPAREL > footwear submenu still col 2 -->
+    <li><a href="dept.asp?dept_id=8420" onclick="return(visitargs('dept.asp','dept_id=8420','URL'));">Performance Tops</a></li>
+
+             
+              <li><a href="dept.asp?dept_id=8421" onclick="return(visitargs('dept.asp','dept_id=8421','URL'));">Lifestyle/Casual Tops</a></li>
+             
+              <li><a href="dept.asp?dept_id=8422" onclick="return(visitargs('dept.asp','dept_id=8422','URL'));">Pants</a></li>
+             
+              <li><a href="dept.asp?dept_id=8423" onclick="return(visitargs('dept.asp','dept_id=8423','URL'));">Shorts</a></li>
+             
+              <li><a href="dept.asp?dept_id=8425" onclick="return(visitargs('dept.asp','dept_id=8425','URL'));">Fleece</a></li>
+             
+              <li><a href="dept.asp?dept_id=8424" onclick="return(visitargs('dept.asp','dept_id=8424','URL'));">Outerwear</a></li>
+             
+              <li><a href="dept.asp?dept_id=8426" onclick="return(visitargs('dept.asp','dept_id=8426','URL'));">Underwear</a></li>
+
+             
+              <li><a href="dept.asp?dept_id=8427" onclick="return(visitargs('dept.asp','dept_id=8427','URL'));">Headwear</a></li>
+             
+              <li><a href="dept.asp?dept_id=8428" onclick="return(visitargs('dept.asp','dept_id=8428','URL'));">Gloves</a></li>
+             
+              <li><a href="dept.asp?dept_id=8429" onclick="return(visitargs('dept.asp','dept_id=8429','URL'));">Socks</a></li>
+
+	</ul></div></div></li>
+</ul></div></div></li>
+
+
+
+<!-- MAIN ITEM 4 EQUIPMENT  -->  
+<li class="imatm" style="width:89px;"><a href="dept.asp?dept_id=88" onclick="return(visitargs('dept.asp','dept_id=88','URL'));"><span class="imea imeam"><span></span></span>
+<img src="assets/images/equipment.gif" border="0" onmouseover="this.src='assets/images/equipment_on_2.gif';return true;" onmouseout="this.src='assets/images/equipment.gif';return true;" id="equipment"></a>
+
+<!-- >>>> EQUIPMENT  canvas start  id="canvas" sets background image in style sheet  -->
+<div class="imsc">
+<div class="imsubc" style="width:162px;height:230px;top:5px;left:0px;" id="canvas3">
+<ul class="imncc" style="">
+
+<!--  EQUIPMENT  > apparel column 1 start left:4px -->
+<li class="imctitleli" style="width:150px;top:0px;left:4px;"><a class="imctitlea" href="#"><span class="imea imeas"><span></span></span></a>
+<div class="imctitle" style="visibility:hidden;"></div>
+<div class="imsc">
+
+<div class="imsubc imcsdd" style="width:150px;top:-23px;left:132px;">
+<!-- canvas start -->
+<ul class="imcanvassubc" style="padding:4px 0px 4px 4px;margin:0px;">
+	<li><a href="dept.asp?dept_id=54" onclick="return(visitargs('dept.asp','dept_id=54','URL'));">Bags</a>
+	
+	</li>
+	
+	<li><a href="dept.asp?dept_id=880" onclick="return(visitargs('dept.asp','dept_id=880','URL'));">Tennis</a>
+	
+	</li>
+	
+	<li><a href="dept.asp?dept_id=881" onclick="return(visitargs('dept.asp','dept_id=881','URL'));">Racquet Sports</a> 
+	
+	</li>
+	
+	<li><a href="dept.asp?dept_id=882" onclick="return(visitargs('dept.asp','dept_id=882','URL'));">Sunglasses</a>
+	
+	</li>
+	
+	<li><a href="dept.asp?dept_id=883" onclick="return(visitargs('dept.asp','dept_id=883','URL'));">Speed &amp; Dist. Monitors</a>
+	
+	</li>
+	
+	<li><a href="dept.asp?dept_id=884" onclick="return(visitargs('dept.asp','dept_id=884','URL'));">Heart Rate Monitors</a> 
+	
+	</li>
+	
+	<li><a href="dept.asp?dept_id=885" onclick="return(visitargs('dept.asp','dept_id=885','URL'));">Watches</a> 
+	
+	</li>
+	
+	<li><a href="dept.asp?dept_id=886" onclick="return(visitargs('dept.asp','dept_id=886','URL'));">Cycling</a> 
+	
+	</li>
+	
+	<li><a href="dept.asp?dept_id=887" onclick="return(visitargs('dept.asp','dept_id=887','URL'));">Swim</a> 
+	
+	</li>
+	
+	<li><a href="dept.asp?dept_id=890" onclick="return(visitargs('dept.asp','dept_id=890','URL'));">Yoga / Pilates</a> 
+	
+	</li>
+	
+	
+	<li><a href="dept.asp?dept_id=891" onclick="return(visitargs('dept.asp','dept_id=891','URL'));">Resistance/Core Trng.</a> 
+	
+	</li>
+	
+	<li><a href="dept.asp?dept_id=892" onclick="return(visitargs('dept.asp','dept_id=892','URL'));">Boxing</a> 
+	
+	</li>
+
+</ul></div></div></li>
+</ul></div></div></li>
+
+
+
+<!-- MAIN ITEM 5 RUNNING  -->  
+<li class="imatm" style="width:76px;"><a href="dept.asp?dept_id=30" onclick="return(visitargs('dept.asp','dept_id=30','URL'));"><span class="imea imeam"><span></span></span>
+<img src="assets/images/running.gif" border="0" onmouseover="this.src='assets/images/running_on_2.gif';return true;" onmouseout="this.src='assets/images/running.gif';return true;" id="running"></a>
+
+<!-- >>>> RUNNING  canvas start  id="canvas" sets background image in style sheet  -->
+<div class="imsc">
+<div class="imsubc" style="width:162px;height:230px;top:5px;left:0px;" id="canvas">
+<ul class="imncc" style="">
+
+<!--  RUNNING  > apparel column 1 start left:4px -->
+<li class="imctitleli" style="width:150px;top:0px;left:4px;"><a class="imctitlea" href="#"><span class="imea imeas"><span></span></span></a>
+<div class="imctitle" style="visibility:hidden;"></div>
+<div class="imsc">
+
+<div class="imsubc imcsdd" style="width:150px;top:-23px;left:132px;">
+<!-- canvas start -->
+<ul class="imcanvassubc" style="padding:4px 0px 4px 4px;margin:0px;">
+<li><a href="dept.asp?dept_id=300" onclick="return(visitargs('dept.asp','dept_id=300','URL'));">Women's Apparel</a></li>
+
+<!-- RUNNING > apparel submenu still col 1 -->
+	<li><a href="dept.asp?dept_id=301" onclick="return(visitargs('dept.asp','dept_id=301','URL'));">Men's Apparel</a></li>
+
+	<li><a href="dept.asp?dept_id=302" onclick="return(visitargs('dept.asp','dept_id=302','URL'));">Women's Running Shoes</a></li>
+         
+        <li><a href="dept.asp?dept_id=303" onclick="return(visitargs('dept.asp','dept_id=303','URL'));">Men's Running Shoes</a></li>
+
+	<li><a href="dept.asp?dept_id=305" onclick="return(visitargs('dept.asp','dept_id=305','URL'));">Timing and Distance</a></li>
+         
+        <li><a href="dept.asp?dept_id=306" onclick="return(visitargs('dept.asp','dept_id=306','URL'));">Accessories</a></li>
+
+	</ul></div></div></li>
+</ul></div></div></li>
+
+
+<!-- MAIN ITEM 6 THE CITY SPORTS  -->  
+<li class="imatm" style="width:120px;"><a href="dept.asp?dept_id=90" onclick="return(visitargs('dept.asp','dept_id=90','URL'));"><span class="imea imeam"><span></span></span>
+<img src="assets/images/thecitysports.gif" border="0" onmouseover="this.src='assets/images/thecitysports_on_2.gif';return true;" onmouseout="this.src='assets/images/thecitysports.gif';return true;" id="thecitysports"></a>
+
+<!-- >>>> THE CITY SPORTS  canvas start  id="canvas" sets background image in style sheet  -->
+<div class="imsc">
+<div class="imsubc" style="width:162px;height:230px;top:5px;left:0px;" id="canvas">
+<ul class="imncc" style="">
+
+<!--  THE CITY SPORTS  > apparel column 1 start left:4px -->
+<li class="imctitleli" style="width:130px;top:0px;left:4px;"><a class="imctitlea" href="#"><span class="imea imeas"><span></span></span></a>
+<div class="imctitle" style="visibility:hidden;"></div>
+<div class="imsc">
+
+<div class="imsubc imcsdd" style="width:122px;top:-23px;left:132px;">
+<!-- canvas start -->
+<ul class="imcanvassubc" style="padding:4px 5px 4px 10px;margin:0px;">
+<li><a href="dept.asp?dept_id=30" onclick="return(visitargs('dept.asp','dept_id=30','URL'));">Running</a></li>
+
+<!-- THE CITY SPORTS > apparel submenu still col 1 -->
+
+          <li><a href="dept.asp?dept_id=32" onclick="return(visitargs('dept.asp','dept_id=32','URL'));">Fitness</a> 
+          </li>
+         
+          <li><a href="dept.asp?dept_id=36" onclick="return(visitargs('dept.asp','dept_id=36','URL'));">Tennis</a> 
+          </li>
+         
+          <li><a href="dept.asp?dept_id=38" onclick="return(visitargs('dept.asp','dept_id=38','URL'));">Racquet Sports</a> 
+          </li>
+         
+          <li><a href="dept.asp?dept_id=40" onclick="return(visitargs('dept.asp','dept_id=40','URL'));">Yoga</a> 
+          </li>
+         
+          <li><a href="dept.asp?dept_id=42" onclick="return(visitargs('dept.asp','dept_id=42','URL'));">Swimming</a> 
+          </li>
+         
+          <li><a href="dept.asp?dept_id=44" onclick="return(visitargs('dept.asp','dept_id=44','URL'));">Cycling</a> 
+          </li>
+         
+
+
+
+         <!--removed triathlon from drop down nav 022908 andy<li><a href="dept.asp?dept_id=46" onClick="return(visitargs('dept.asp','dept_id=46','URL'));">Triathlon</a>
+	  </li>--> 
+	  
+	  <li><a href="dept.asp?dept_id=58" onclick="return(visitargs('dept.asp','dept_id=58','URL'));">City Sports Ts</a>
+	  </li>
+
+</ul></div></div></li>
+</ul></div></div></li>
+
+
+<!-- MAIN ITEM 7 BRANDS  -->  
+<li class="imatm" style="width:69px;"><a href="dept.asp?dept_id=60" onclick="return(visitargs('dept.asp','dept_id=60','URL'));"><span class="imea imeam"><span></span></span>
+<img src="assets/images/brands.gif" border="0" onmouseover="this.src='assets/images/brands_on_2.gif';return true;" onmouseout="this.src='assets/images/brands.gif';return true;" id="brands"></a>
+
+<!-- >>>> Brands  canvas start  id="canvas" sets background image in style sheet  -->
+<div class="imsc">
+<div class="imsubc" style="width:324px;height:230px;top:5px;left:0px;" id="canvas2">
+<ul class="imncc" style="">
+
+<!--  Brands  > First column 1 start left:4px -->
+<li class="imctitleli" style="width:150px;top:0px;left:4px;"><a class="imctitlea" href="#"><span class="imea imeas"><span></span></span></a>
+<div class="imctitle" style="visibility:hidden;"></div>
+<div class="imsc">
+
+<div class="imsubc imcsdd" style="width:150px;top:-23px;left:132px;">
+<!-- canvas start -->
+<ul class="imcanvassubc" style="padding:4px 0px 4px 4px;margin:0px;">
+<!-- FOOTWEAR > apparel submenu still col 1 -->
+	<li><a href="dept.asp?dept_id=34" onclick="return(visitargs('dept.asp','dept_id=34','URL'));">CS By City Sports</a></li>
+    <li><a href="dept.asp?dept_id=58" onclick="return(visitargs('dept.asp','dept_id=58','URL'));">City Sports Ts</a></li>
+	<li><a href="dept.asp?dept_id=600" onclick="return(visitargs('dept.asp','dept_id=600','URL'));">adidas</a></li>
+    <li><a href="dept.asp?dept_id=612" onclick="return(visitargs('dept.asp','dept_id=612','URL'));">Asics</a></li>
+	<li><a href="dept.asp?dept_id=614" onclick="return(visitargs('dept.asp','dept_id=614','URL'));">Babolat</a></li>
+	<li><a href="dept.asp?dept_id=618" onclick="return(visitargs('dept.asp','dept_id=618','URL'));">Brooks</a></li>
+	<li><a href="dept.asp?dept_id=634" onclick="return(visitargs('dept.asp','dept_id=634','URL'));">CW-X</a></li>
+	<li><a href="dept.asp?dept_id=637" onclick="return(visitargs('dept.asp','dept_id=637','URL'));">Danskin</a></li>
+	<li><a href="dept.asp?dept_id=682" onclick="return(visitargs('dept.asp','dept_id=682','URL'));">Mizuno</a></li>
+	<li><a href="dept.asp?dept_id=696" onclick="return(visitargs('dept.asp','dept_id=696','URL'));">New Balance</a></li>
+	<li><a href="dept.asp?dept_id=700" onclick="return(visitargs('dept.asp','dept_id=700','URL'));">Oakley</a></li>
+	<li><a href="dept.asp?dept_id=704" onclick="return(visitargs('dept.asp','dept_id=704','URL'));">Pearl Izumi</a></li>
+    <li><a href="dept.asp?dept_id=706" onclick="return(visitargs('dept.asp','dept_id=706','URL'));">Polar</a></li>
+
+	</ul></div></div></li>
+
+<!-- Brands >  2nd column 2 start left:155px -->
+<li class="imctitleli" style="width:150px;top:0px;left:155px;"><a class="imctitlea" href="#"><span class="imea imeas"><span></span></span></a>
+<div class="imctitle" style="visibility:hidden;"></div>
+<div class="imsc">
+<div class="imsubc imcsdd" style="width:150px;top:-23px;left:132px;">
+<ul class="imcanvassubc" style="padding:4px 0px 4px 10px;margin:0px;">
+<!-- FOOTWEAR > footwear submenu still col 2 -->
+    <li><a href="dept.asp?dept_id=716" onclick="return(visitargs('dept.asp','dept_id=716','URL'));">Quiksilver</a></li>
+	<li><a href="dept.asp?dept_id=722" onclick="return(visitargs('dept.asp','dept_id=722','URL'));">Reef</a></li>
+	<li><a href="dept.asp?dept_id=725" onclick="return(visitargs('dept.asp','dept_id=725','URL'));">Roxy</a></li>
+	<li><a href="dept.asp?dept_id=732" onclick="return(visitargs('dept.asp','dept_id=732','URL'));">Sigg</a></li>
+	<li><a href="dept.asp?dept_id=744" onclick="return(visitargs('dept.asp','dept_id=744','URL'));">Speedo</a></li>
+	<li><a href="dept.asp?dept_id=602" onclick="return(visitargs('dept.asp','dept_id=602','URL'));">The North Face</a></li>
+	<li><a href="dept.asp?dept_id=768" onclick="return(visitargs('dept.asp','dept_id=768','URL'));">Tyr</a></li>
+	<li><a href="dept.asp?dept_id=770" onclick="return(visitargs('dept.asp','dept_id=770','URL'));">Ugg</a></li>
+	<li><a href="dept.asp?dept_id=604" onclick="return(visitargs('dept.asp','dept_id=604','URL'));">Under Armour</a></li>
+	<li><a href="dept.asp?dept_id=791" onclick="return(visitargs('dept.asp','dept_id=791','URL'));">Vibram</a></li>
+	<li><a href="dept.asp?dept_id=778" onclick="return(visitargs('dept.asp','dept_id=778','URL'));">Wilson</a></li>
+    <li><a href="dept.asp?dept_id=782" onclick="return(visitargs('dept.asp','dept_id=782','URL'));">Zoot Sports</a></li>
+    <li><a href="dept.asp?dept_id=61" onclick="return(visitargs('dept.asp','dept_id=61','URL'));">See All Brands</a></li>
+
+	</ul></div></div></li>
+</ul></div></div></li>
+
+
+<!-- closes horizontal menu -  -->
+</ul></div></div>
+<!-- FEATURE END:Infinite Menus DESCR:see also include citySport_imenu.js in style close -->	
+<!-- end JS menu code -->								
+								
+					</td>
+					<td align="right"><table border="0" cellspacing="0" cellpadding="0" width="100%" class="headercity_table"><tbody><tr><td align="right"><div id="city_div" class="headercity_text">Store Locator</div></td><td align="right" class="headercitybutton"><a href="#" onclick="return(toggle_city())"><img src="assets/images/headercity.gif" border="0" id="city_button"></a></td></tr></tbody></table></td>
+				</tr>
+			</tbody></table>		
+		</td>
+	</tr>
+	<tr valign="top">
+		<td background="assets/images/headerbig03.gif" align="left" style="background-repeat:no-repeat;">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%" height="32" id="leaftreetable">
+				<tbody><tr valign="top">
+					<td class="leaftree_td1" id="leaftreeheader">
+					</td>
+					<td class="leaftree_td2" id="leaftreediv">
+					</td>
+				</tr>
+			</tbody></table>	
+		</td>
+	</tr>
 </tbody></table>
 
-				
+
+ </td></tr>
+	</tbody></table>
+</td>
+	 
+ 
+<td width="0" valign="TOP" align="LEFT">
+
+	  
+	<table width="0" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td valign="TOP" align="LEFT">
+	
+      
+	 
+	</td>
+	
+	<td valign="TOP" align="LEFT">
+	 
+    	
+	</td> </tr></tbody></table>
+	     
+	</td>
+	
+
+<td width="0" valign="TOP" align="LEFT">
+
+ 
+	<table width="0" height="0" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td width="0" valign="TOP" align="LEFT">
+
+	 
+	</td></tr> </tbody></table>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
 
 
-				<!-- display is safety -->
-				<!-- section is privacy -->
-			 	
+<table border="0" cellpadding="0" cellspacing="0" width="910"> <tbody><tr> <td colspan="3">
+<table border="0" cellpadding="0" cellspacing="0" width="910" height="0">
+<tbody><tr>
 
-<!-- *********************************** STOREMAN HELPDESK ENDS************************************** --> <br><br></td>
-					</tr>
-			</tbody></table>
-		</td>
+<!--Left Column-->
+<td width="151" valign="TOP" align="LEFT">
+ 
+	<script type="text/javascript" language="javascript" src="assets/includes/uu_deptlink.js"></script>
+	<script type="text/javascript" language="javascript">
+	function leaf_struct(){
+		this.dept_id
+		this.dept_name
+		this.dept_link
+	}
+	leaf_tree=new Array();
+	</script>
+<strong><script src="assets/images/includes/citysports_deptlink.js"></script>
+<table border="0" cellpadding="0" cellspacing="0" id="tablelinks"><tbody><tr valign="top"><td><div id="dept_sub_links"><div class="nav_outer"><div class="nav_inner"><table border="0" cellpadding="0" cellspacing="0" width="140"> <tbody><tr valign="middle"><td><div class="nav_level1"><div class="nav_level1_inner"><a href="http://www.citysports.com/citysports/dept.asp?dept_name=COLLECTIONS&amp;dept_id=28&amp;s_id=0&amp;WT.svl=deptnav1" class="deptbarlink" target="_top" onclick="return visitargs('dept.asp','dept_name=COLLECTIONS&amp;dept_id=28&amp;WT.svl=deptnav1');">COLLECTIONS</a></div></div></td></tr><tr valign="middle"><td><div class="nav_level1"><div class="nav_level1_inner"><a href="http://www.citysports.com/citysports/dept.asp?dept_name=RUNNING&amp;dept_id=30&amp;s_id=0&amp;WT.svl=deptnav1" class="deptbarlink" target="_top" onclick="return visitargs('dept.asp','dept_name=RUNNING&amp;dept_id=30&amp;WT.svl=deptnav1');">RUNNING</a></div></div></td></tr><tr valign="middle"><td><div class="nav_level1"><div class="nav_level1_inner"><a href="http://www.citysports.com/citysports/dept.asp?dept_name=Gift+Cards&amp;dept_id=59&amp;s_id=0&amp;WT.svl=deptnav1" class="deptbarlink" target="_top" onclick="return visitargs('dept.asp','dept_name=Gift+Cards&amp;dept_id=59&amp;WT.svl=deptnav1');">Gift Cards</a></div></div></td></tr><tr valign="middle"><td><div class="nav_level1"><div class="nav_level1_inner"><a href="http://www.citysports.com/citysports/dept.asp?dept_name=Womens&amp;dept_id=80&amp;s_id=0&amp;WT.svl=deptnav1" class="deptbarlink" target="_top" onclick="return visitargs('dept.asp','dept_name=Womens&amp;dept_id=80&amp;WT.svl=deptnav1');">Womens</a></div></div></td></tr><tr valign="middle"><td><div class="nav_level1"><div class="nav_level1_inner"><a href="http://www.citysports.com/citysports/dept.asp?dept_name=Mens&amp;dept_id=82&amp;s_id=0&amp;WT.svl=deptnav1" class="deptbarlink" target="_top" onclick="return visitargs('dept.asp','dept_name=Mens&amp;dept_id=82&amp;WT.svl=deptnav1');">Mens</a></div></div></td></tr><tr valign="middle"><td><div class="nav_level1"><div class="nav_level1_inner"><a href="http://www.citysports.com/citysports/dept.asp?dept_name=Apparel&amp;dept_id=84&amp;s_id=0&amp;WT.svl=deptnav1" class="deptbarlink" target="_top" onclick="return visitargs('dept.asp','dept_name=Apparel&amp;dept_id=84&amp;WT.svl=deptnav1');">Apparel</a></div></div></td></tr><tr valign="middle"><td><div class="nav_level1"><div class="nav_level1_inner"><a href="http://www.citysports.com/citysports/dept.asp?dept_name=Footwear&amp;dept_id=86&amp;s_id=0&amp;WT.svl=deptnav1" class="deptbarlink" target="_top" onclick="return visitargs('dept.asp','dept_name=Footwear&amp;dept_id=86&amp;WT.svl=deptnav1');">Footwear</a></div></div></td></tr><tr valign="middle"><td><div class="nav_level1"><div class="nav_level1_inner"><a href="http://www.citysports.com/citysports/dept.asp?dept_name=Equipment&amp;dept_id=88&amp;s_id=0&amp;WT.svl=deptnav1" class="deptbarlink" target="_top" onclick="return visitargs('dept.asp','dept_name=Equipment&amp;dept_id=88&amp;WT.svl=deptnav1');">Equipment</a></div></div></td></tr><tr valign="middle"><td><div class="nav_level1"><div class="nav_level1_inner"><a href="http://www.citysports.com/citysports/dept.asp?dept_name=The+City+Sports&amp;dept_id=90&amp;s_id=0&amp;WT.svl=deptnav1" class="deptbarlink" target="_top" onclick="return visitargs('dept.asp','dept_name=The+City+Sports&amp;dept_id=90&amp;WT.svl=deptnav1');">The City Sports</a></div></div></td></tr><tr valign="middle"><td><div class="nav_level1"><div class="nav_level1_inner"><a href="http://www.citysports.com/citysports/dept.asp?dept_name=BRANDS&amp;dept_id=60&amp;s_id=0&amp;WT.svl=deptnav1" class="deptbarlink" target="_top" onclick="return visitargs('dept.asp','dept_name=BRANDS&amp;dept_id=60&amp;WT.svl=deptnav1');">BRANDS</a></div></div></td></tr></tbody></table></div></div></div></td></tr></tbody></table>
+<script type="text/javascript" language="javascript">
+	hideLinks();
+</script> 
+	
+		 
+	<!--Left Sub Column-->
+	<table width="151" height="0" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td width="151" valign="TOP" align="CENTER">
+	  </td></tr>
+	</tbody></table>
+ 	</strong></td>
+	 
+ <!--Middle Main Column-->
+<td width="100%" valign="TOP" align="CENTER">
+
+	 <div class="PageContent">
+ 
+	 <!--Middle Sub Column-->
+	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td width="100%" valign="TOP" align="LEFT">
+
+ <div class="PageTitle">Privacy Policy</div>
+<!--<H1>About citysports.com</H1>-->
+
+<strong></strong>
+<p></p><h2>City Sports Privacy and Security Policy</h2><p></p>
+<p>We have created this privacy policy, updated on January 1, 2008, to inform you of the information gathering and dissemination practices for this Web site, <a href="http://www.citysports.com/">www.citysports.com</a>.  We want to demonstrate our commitment to your privacy, by notifying you of:</p>
+<ul type="disc">
+  <li>What personally identifiable information of yours is collected through this Web site; </li>
+  <li>The organization collecting the information; </li>
+  <li>How the information is used; </li>
+  <li>With whom the information may be shared; </li>
+  <li>What choices are available to you regarding collection, use and distribution of the information; and</li>
+  <li>The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under City Sports' control</li>
+</ul>
+<p>We welcome your questions and feedback on this policy.  For privacy-related issues, please contact us at:</p>
+<p>City Sports<br>
+  64 Industrial Way <br>
+  Wilmington, MA   01887-3434<br>
+  877-988-2580<br>
+  <a href="mailto:onlinecustomersupport@citysports.com">onlinecustomersupport@citysports.com</a> </p>
+<p></p><h2>Security </h2>
+  When you  place orders or access your account information, know that City Sports uses a secure server. The secure server software (SSL) encrypts all information you input  before it is sent to us. Furthermore, all of the customer data we collect is  protected against unauthorized access.  <p></p>
+<p></p><h2>Ordering from www.citysports.com</h2><br>
+We track customer traffic patterns and site usage, and collect the domain name of e-mail addresses of visitors to our site and aggregate (not personally identifiable) information on what pages visitors access. We use this information to monitor the use of the site and to improve its performance and usefulness. We also collect information you volunteer, such as survey responses, comments, purchasing and billing information, and your requests.<p></p>
+<p>When you  order from City Sports, we need to know your name, e-mail address, mailing  address, billing address, credit card number, and expiration date. This allows us to process and  fulfill your order and to notify you of your order status. </p>
+<p>We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new services, and special offers we think you'll find valuable.</p>
+<p></p><h2>Using Cookies</h2>
+  "Cookies"  are removable files stored on your computer's hard drive by your browser. We use cookies to enhance your shopping and  browsing experience. The text in a cookie, by itself, only tells us that you  have visited our site before. It does not store any personal information such  as your name, e-mail address, street address, or phone number. Cookies are also  used to maintain your shopping basket. All data contained in the shopping  basked is kept on our server and not in the cookie your machine is assigned.  If your computer has certain types of Virus Protection software, you may be prompted to accept cookies from www.citysports.com. It is safe to do so.<p></p>
+<p></p><h2>Our Third Party Relationships</h2>
+  We have established several relationships with third parties vendors to best serve our customers.<p></p>
+<ul type="disc">
+  <li><strong>Credit Card Processing</strong>: We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes. </li>
+  <li><strong>Web Site Evaluation</strong>: From time to time, we may engage certain third parties to observe, track and report on the behavior of the users of this Web Site in order to evaluate the performance and features of this Web Site. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose. </li>
+  <li><strong>Marketing and Promotions</strong>: From time to time, we may engage certain third parties to assist in the dissemination of marketing and promotional offers (i.e., e-mails) to those customers who have agreed to receive such offers. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose. </li>
+  <li><strong>Hosting</strong>: www.citysports.com is hosted by UniteU Connected Commerce, Inc. which maintains the servers and databases on which your information is stored.  They make this information available to City Sports, and are restricted from using this data for any other purpose.</li>
+  <li><strong>Additional Third Party Relationships</strong>: From time to time, we may engage other third parties to assist in providing marketing, order processing, fulfillment and shipping services. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services. </li>
+</ul>
+<p>Additionally, from time to time, we may share non-personal, non-individual statistical information with our marketing partners, advertisers or other third parties for research purposes. That is, we will not tell our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.</p>
+<p></p><h2>Opening a City Sports Account</h2>
+  We require your name, billing address, shipping address, email address, and telephone number to open an account for you. We may also ask some additional optional questions to help us better serve you. Except as provided in this privacy policy, this account data is never shared with anyone in any way without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.)<p></p>
+<p></p><h2>Correcting or Updating Account Information</h2>
+  You may update or change information related to your account by updating your profile, accessible via the home page once you are logged in, or by sending an email to <a href="mailto:onlinecustomersupport@citysports.com">onlinecustomersupport@citysports.com</a><p></p>
+<p></p><h2>Receiving Promotions/Opt-Out</h2>
+  From time to time, we may contact you about sales, special offers and/or new site features if you agreed to be included in our email lists when you created an account with us. To customize the type of information you want to receive from us, you may sign on and select the specific information you wish to receive. To cancel receipt of our free emails, you can unclick the "I would like to receive emails about special promotions" box associated with your account. You can also respond to any promotional email we send you, placing "REMOVE" in your subject line to discontinue email service. You can also send an email to <a href="mailto:onlinecustomersupport@citysports.com">onlinecustomersupport@citysports.com</a> or call us 877-988-2580 and inform us that you want to unsubscribe to our email lists.<p></p>
+<p></p><h2>Your Consent</h2>
+  By using our website, you consent to the collection and use of this information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.<p></p>
+<p></p><h2>Contact Us Form</h2>
+  You can use the contact us form to communicate with us on a variety of topics. The only required data is your name and email address or phone number. Except as provided in this privacy policy, this data is not shared with anyone in any way.<p></p>
+
+      
+</td></tr>
+
+</tbody></table>
+</div></td>
+	
+<!--Right Column-->
+<td width="0" valign="TOP" align="CENTER">
+ 
+
+	
+ <!--Right Sub Column-->
+	<table width="0" height="0" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td width="0" valign="TOP" align="CENTER">
+
+	</td></tr> </tbody></table>
+ 	</td>
+	
 </tr>
 </tbody></table>
-
-<span class="pagetext"><br><br><br></span><table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#303473">
-	<tbody><tr valign="center">
-		<td width="15" align="left" rowspan="2"><img src="http://CTY.imageg.net/images/pixel.gif" width="15"></td>
-		<td width="130" align="left" height="23"><nobr><a href="/corp/index.jsp?page=coupon&amp;clickid=footer_coupon_txt" class="footer">EXPRESS COUPON</a></nobr></td>
-		<td>&nbsp;</td>
-		<td width="60" align="center" height="23"><nobr><a href="/corp/index.jsp?clickid=footer_aboutus_txt" class="footer">ABOUT US</a></nobr></td>
-		<td>&nbsp;</td>
-		<td width="50" align="center" height="23"><a href="/helpdesk/index.jsp?clickid=footer_help_txt" class="footer">HELP</a></td>
-		<td>&nbsp;</td>
-		<td width="110" align="center" height="23"><nobr><a href="/corp/index.jsp?page=storeLocator&amp;clickid=footer_locator_txt" class="footer">STORE LOCATIONS</a></nobr></td>
-		<td>&nbsp;</td>
-		<td width="135" align="center" nowrap="" height="23"><nobr><a href="/affiliate/index.jsp?clickid=footer_affiliate_txt" class="footer">BECOME AN AFFILIATE</a></nobr></td>
-		<td>&nbsp;</td>
-		<td width="113" align="right" nowrap="" height="23"><nobr><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footer_privacy_txt" class="footer">PRIVACY POLICY</a></nobr></td>
-		<td>&nbsp;</td>
-		<td width="113" align="right" nowrap="" height="23">
-		
-				<nobr>
-				<a href="/pwr/product-reviews/c/index.html" class="footer">PRODUCT REVIEWS</a>&nbsp;</nobr>			
-		
-		</td>
-		<td width="17" align="left" rowspan="2"><img src="http://CTY.imageg.net/images/pixel.gif" width="17"></td>
-	</tr>
-	<tr>
-		<td align="left" nowrap="" height="23" width="120" class="lighttext">Copyright © 2001-2007</td>
-		<td width="120" class="lighttext" colspan="1" nowrap=""></td>
-		<td align="right" colspan="13" nowrap="" height="23" class="lighttext">&nbsp;*List price is for reference only. No sales may have occurred at this price.&nbsp;&nbsp;&nbsp;**See product page for details.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-	</tr>
-	<tr>
-	<td height="25" colspan="15" valign="top" align="right"><a href="javascript:void(window.open('../helpdesk/availabilityPop.jsp','promo','width=350,height=170,scrollbars=yes,resizable=no'))" class="lighttext">Product Availability and Price</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-	</tr>
+</td></tr>
 </tbody></table>
 
 
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="910"> <tbody><tr> <td colspan="3">
+<table border="0" cellpadding="0" cellspacing="0" width="910" height="0">
+<tbody><tr>
+
+<td width="100%" valign="TOP" align="LEFT">
+			
+	<div id="footerContainer">
+ <table width="910" class="FooterBack" id="footerTable" align="center">
+  <tbody><tr valign="top">
+   <!-- <th class="leftTH"><a onclick="return visitargs('dept.asp','dept_id=200','URL')" href="dept.asp?dept_id=200" class=footer_head1>Help</a></th>-->
+   <th class="leftTH">Help</th>
+   <!-- <th class="leftTH"><a onclick="return visitargs('dept.asp','dept_id=101','URL')" href="dept.asp?dept_id=101" class=footer_head1>About Us</a></th>-->
+   <th class="leftTH">About Us</th>
+   <th width="5"></th>
+   <th class="rightTH" nowrap=""><a onclick="return visitargs('dept.asp','dept_id=80','URL')" href="dept.asp?dept_id=80" class="footer_head2">Women's Apparel</a></th>
+   <th class="rightTH" nowrap=""><a onclick="return visitargs('dept.asp','dept_id=82','URL')" href="dept.asp?dept_id=82" class="footer_head2">Men's Apparel</a></th>
+   <th class="rightTH" nowrap=""><a onclick="return visitargs('dept.asp','dept_id=86','URL')" href="dept.asp?dept_id=802" class="footer_head2">Women's Footwear</a></th>
+   <th class="rightTH" nowrap=""><a onclick="return visitargs('dept.asp','dept_id=84','URL')" href="dept.asp?dept_id=822" class="footer_head2">Men's Footwear</a></th>
+   <th class="rightTH" nowrap=""><a onclick="return visitargs('dept.asp','dept_id=88','URL')" href="dept.asp?dept_id=88" class="footer_head2">Equipment</a></th>
+   <th class="rightTH" nowrap=""><a onclick="return visitargs('dept.asp','dept_id=90','URL')" href="dept.asp?dept_id=90" class="footer_head2">The City Sports</a></th>
+   <th class="rightTH2" nowrap=""><a onclick="return visitargs('dept.asp','dept_id=60','URL')" href="dept.asp?dept_id=60" class="footer_head2">Brands</a></th>
+  </tr>
+  <tr valign="top">
+   <td class="leftList">
+    <!-- help -->
+    <a class="FooterLink" onclick="return visitargs('receipts.asp','','URL')" href="receipts.asp">Order Status</a>
+    <img src="assets/images/footer_left_spacer.gif" class="leftspacer">
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=201','URL')" href="dept.asp?dept_id=201">Returns/Exchanges</a>
+    <img src="assets/images/footer_left_spacer.gif" class="leftspacer">
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=202','URL')" href="dept.asp?dept_id=202">Shipping &amp; Billing</a>
+    <img src="assets/images/footer_left_spacer.gif" class="leftspacer">
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=203','URL')" href="dept.asp?dept_id=203">Contact Us</a>
+    <img src="assets/images/footer_left_spacer.gif" class="leftspacer">
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=204','URL')" href="dept.asp?dept_id=204">FAQs</a>
+    <img src="assets/images/footer_left_spacer.gif" class="leftspacer">
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=205','URL')" href="dept.asp?dept_id=205">Free In Store Pick-Up</a>    
+    <!--<img src="assets/images/footer_left_spacer.gif" class="leftspacer"/>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=10','URL')" href="dept.asp?dept_id=10">Site Map</a>-->
+   </td>
+   <td class="leftList">
+    <!-- about us -->
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=101','URL')" href="dept.asp?dept_id=101">Our History</a>
+    <img src="assets/images/footer_left_spacer.gif" class="leftspacer">
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=102','URL')" href="dept.asp?dept_id=102">Work at City Sports</a>
+    <img src="assets/images/footer_left_spacer.gif" class="leftspacer">
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=103','URL')" href="dept.asp?dept_id=103">Find a Store</a>
+    <img src="assets/images/footer_left_spacer.gif" class="leftspacer">
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=105','URL')" href="dept.asp?dept_id=105">Get e-mail Updates</a>
+    <img src="assets/images/footer_left_spacer.gif" class="leftspacer">
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=106','URL')" href="dept.asp?dept_id=106">In-Store Offers</a>
+   </td>
+   <td width="5">&nbsp;</td>
+   <td class="rightList">
+    <!-- women's apparel -->
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=808','URL')" href="dept.asp?dept_id=808">Bras</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8000','URL')" href="dept.asp?dept_id=8000">Performance Tops</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8001','URL')" href="dept.asp?dept_id=8001">Lifestyle/Casual Tops</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8002','URL')" href="dept.asp?dept_id=8002">Pants</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8003','URL')" href="dept.asp?dept_id=8003">Shorts</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8004','URL')" href="dept.asp?dept_id=8004">Swim</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8005','URL')" href="dept.asp?dept_id=8005">Fleece</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8006','URL')" href="dept.asp?dept_id=8006">Outerwear</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8007','URL')" href="dept.asp?dept_id=8007">Underwear</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8060','URL')" href="dept.asp?dept_id=8060">Headwear</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8061','URL')" href="dept.asp?dept_id=8061">Gloves</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8062','URL')" href="dept.asp?dept_id=8062">Socks</a>
+   </td>
+   <td class="rightList">
+    <!-- mens' apparel -->
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8200','URL')" href="dept.asp?dept_id=8200">Performance Tops</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8201','URL')" href="dept.asp?dept_id=8201">Lifestyle/Casual Tops</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8202','URL')" href="dept.asp?dept_id=8202">Pants</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8203','URL')" href="dept.asp?dept_id=8203">Shorts</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8204','URL')" href="dept.asp?dept_id=8204">Fleece</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8205','URL')" href="dept.asp?dept_id=8205">Outerwear</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8206','URL')" href="dept.asp?dept_id=8206">Underwear</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8260','URL')" href="dept.asp?dept_id=8260">Headwear</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8261','URL')" href="dept.asp?dept_id=8261">Gloves</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8262','URL')" href="dept.asp?dept_id=8262">Socks</a>
+   </td>
+   <td class="rightList">
+    <!-- women's footwear -->
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8600','URL')" href="dept.asp?dept_id=8600">Running</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8601','URL')" href="dept.asp?dept_id=8601">Gym</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8602','URL')" href="dept.asp?dept_id=8602">Casual Lifestyle</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8603','URL')" href="dept.asp?dept_id=8603">Outdoor</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8604','URL')" href="dept.asp?dept_id=8604">Tennis/Racquet Sports</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8605','URL')" href="dept.asp?dept_id=8605">Cycling</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8606','URL')" href="dept.asp?dept_id=8606">Walking</a>
+   </td>
+   <td class="rightList"> 
+    <!-- men's footwear -->
+     <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8620','URL')" href="dept.asp?dept_id=8620">Running</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8621','URL')" href="dept.asp?dept_id=8621">Gym</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8622','URL')" href="dept.asp?dept_id=8622">Casual Lifestyle</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8623','URL')" href="dept.asp?dept_id=8623">Outdoor</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8624','URL')" href="dept.asp?dept_id=8624">Tennis/Racquet Sports</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=8625','URL')" href="dept.asp?dept_id=8625">Cycling</a>
+   </td>
+   <td class="rightList">
+    <!-- equipment -->
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=880','URL')" href="dept.asp?dept_id=880">Tennis</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=881','URL')" href="dept.asp?dept_id=881">Racquet</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=882','URL')" href="dept.asp?dept_id=882">Sunglasses</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=883','URL')" href="dept.asp?dept_id=883">Speed and Distance Monitors</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=884','URL')" href="dept.asp?dept_id=884">Heart Rate Monitors</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=885','URL')" href="dept.asp?dept_id=885">Watches</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=886','URL')" href="dept.asp?dept_id=886">Cycling</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=887','URL')" href="dept.asp?dept_id=887">Swim</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=46','URL')" href="dept.asp?dept_id=46">Triathlon</a>
+    <!--<a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=889','URL')" href="dept.asp?dept_id=889">Soccer</a>-->
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=890','URL')" href="dept.asp?dept_id=890">Yoga / Pilates</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=891','URL')" href="dept.asp?dept_id=891">Resistance / Core Training</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=892','URL')" href="dept.asp?dept_id=892">Boxing</a>
+   </td>
+   <td class="rightList">
+    <!-- the city sports -->
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=30','URL')" href="dept.asp?dept_id=30">Running</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=32','URL')" href="dept.asp?dept_id=32">Fitness</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=36','URL')" href="dept.asp?dept_id=36">Tennis</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=38','URL')" href="dept.asp?dept_id=38">Racquet</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=40','URL')" href="dept.asp?dept_id=40">Yoga</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=42','URL')" href="dept.asp?dept_id=42">Swim</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=886','URL')" href="dept.asp?dept_id=886">Cycling</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=46','URL')" href="dept.asp?dept_id=46">Triathlon</a>
+    <!--<a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=52','URL')" href="dept.asp?dept_id=52">Soccer</a>-->
+   </td>
+   <td class="rightList2"> 
+    <!-- apparel -->
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=602','URL')" href="dept.asp?dept_id=602">The North Face</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=6027','URL')" href="dept.asp?dept_id=6027">The North Face on sale</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=604','URL')" href="dept.asp?dept_id=604">Under Armour</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=600','URL')" href="dept.asp?dept_id=600">adidas</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=612','URL')" href="dept.asp?dept_id=612">Asics</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=618','URL')" href="dept.asp?dept_id=618">Brooks</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=722','URL')" href="dept.asp?dept_id=722">Reef</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=783','URL')" href="dept.asp?dept_id=783">Bendon Sport</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=744','URL')" href="dept.asp?dept_id=744">Speedo</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=768','URL')" href="dept.asp?dept_id=768">TYR</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=778','URL')" href="dept.asp?dept_id=778">Wilson</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=656','URL')" href="dept.asp?dept_id=656">Head</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=700','URL')" href="dept.asp?dept_id=700">Oakley</a>
+    <a class="FooterLink" onclick="return visitargs('dept.asp','dept_id=61','URL')" href="dept.asp?dept_id=61">All Brands</a>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="10" align="center" style="padding-left:0px;"><img src="assets/images/footer_spacer.gif"></td>
+  </tr>
+  <tr>
+   <td colspan="10" align="left">
+    <div class="FooterText">
+     <a href="text_3.asp" onclick="return(visitargs('text_3.asp','','URL'));" class="FooterLink">Privacy Policy</a> | <a href="text_2.asp" onclick="return(visitargs('text_2.asp','','URL'));" class="FooterLink">Terms &amp; Conditions</a>
+     <br>© CitySports 2008<br><!--Site Powered by <a class="FooterLink" href="http://www.uniteu.com" target="_BLANK">UniteU E-commerce</a><br>-->
+    </div>
+   </td>
+  </tr>
+ </tbody></table>
+</div>
+<script src="assets/images/includes/fill_leaftree.js"></script>
+	<table width="100%" height="0" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td width="100%" valign="TOP" align="CENTER">
+	   </td></tr>
+	</tbody></table>
+</td>
+	 
+ 
+<td width="0" valign="TOP" align="LEFT">
+
+	 <div class="PageTitle"></div> 
+	<table width="0" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td width="0" valign="BOTTOM" align="LEFT">
+	
+	  
+    	
+	</td></tr> </tbody></table>
+</td>	
+
+<td width="0" valign="TOP" align="CENTER">
+
+
+ 
+	<table width="0" height="0" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td width="0" valign="TOP" align="CENTER">
+
+	 
+	</td></tr> </tbody></table>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+
+
+
+<script type="text/javascript" language="javascript">
+var UUWTSTR= "&WT.si_n=ShoppingCart&WT.si_p=Home&&UU.page_tts=0.2031&";
+</script>
+<script type="text/javascript" language="javascript" src="assets/includes/uu_dcs_tag.js"></script>
+
+</td></tr></tbody></table></div><br>
+<script language="javascript">
+if(document.URL.indexOf("receipt.asp")==-1)
+{
+set_city();
+}
+</script>
+</div></div><div id="bottom_border_div"></div></div>
+<script language="JavaScript" src="assets/images/includes/citySport_imenu.js" type="text/javascript"></script>
+
+<!--— SITE TEMPLATE END ---->
+
+<!-- Copyright (c) 1999-2004 UniteU Technologies Inc.  All rights reserved.   //-->
 
 </body></html>
