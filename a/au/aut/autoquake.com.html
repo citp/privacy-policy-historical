@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the autoquake.com privacy policy that was archived on 2007-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071228123312id_/http%3A//www.autoquake.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autoquake.com privacy policy that was archived on 2008-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080428093757id_/http%3A//www.autoquake.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">		
@@ -13,13 +13,22 @@
 		<script src="/js/scriptaculous_js/prototype.js" type="text/javascript"></script>
 		<script src="/js/scriptaculous_js/scriptaculous.js" type="text/javascript"></script>
 		<script src="/js/scriptaculous_js/unittest.js" type="text/javascript"></script>
+
 		<script src="/js/dw_scrollObj.js" type="text/javascript"></script>
 		<script src="/js/dw_hoverscroll.js" type="text/javascript"></script>
 		<script type="text/javascript" src="/dwr/engine.js"></script>
+
 		<script type="text/javascript" src="/dwr/interface/DeliveryCostCalculator.js"></script>
 		<script type="text/javascript" src="/dwr/interface/Models.js"></script>
 		<script type="text/javascript" src="/dwr/util.js"></script>
 		<script type="text/javascript" src="/js/scriptaculous_js/AC_RunActiveContent.js"></script>
+			<!-- jquery -->
+				 <script src="/js/jquery/jquery-1.2.1.pack.js" type="text/javascript"></script>
+			<!-- jquery -->
+<script language="JavaScript">
+var J = jQuery.noConflict();
+</script>
+
 		<script type="text/javascript">
 		function initScrollLayer() {
 		  var wndo = new dw_scrollObj('wn', 'lyr1', 't1');
@@ -32,7 +41,6 @@
 
 		
 	</head>
-
 	<body onload=""><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: 0px; left: 0px; top: 0px;"></div>
 	    <script type="text/javascript" src="/js/wz_tooltip.js"></script>
 		<script type="text/javascript" src="/js/tip_balloon.js"></script>
@@ -42,9 +50,12 @@
     <div id="header_float">
       <div>
         <div id="logo">
-          <div class="tagline"><a href="/"><img src="/images/autoquake.png" alt="Autoquake" width="227" height="74" border="0" class="valgn" title="Autoquake"></a> Simply a better way to buy a used car </div>
+          <div class="tagline"> <a href="/"><img src="/images/autoquake.png" alt="Autoquake" width="227" height="74" border="0" class="valgn" title="Autoquake"></a>
+            <h1 class="etc46"> Simply a better way to buy a used car </h1>
+          </div>
         </div>
-        <!-- If not logged in show this div -->
+
+		<!-- If not logged in show this div -->
         
         
 			
@@ -108,7 +119,6 @@
     </div>
     <img src="/images/bg_header.png" width="990" height="135" alt=""> 
 </div>
-
 			
 			<div id="main_contents_bg">
 				<div id="main_contents" class="clearfix">
@@ -117,14 +127,54 @@
 
 <div id="left_col">
     <div id="search_options" class="clearfix">        
-        <div>
-        	<img src="/images/box02_top.png" width="190" height="6" alt="" title="">
-        </div>
+        <div><img src="/images/box02_top.png" width="190" height="6" alt="" title=""></div>
         <div class="pad02">         
             <div id="quick_search">
                 <h3 class="mrg05 clr03">Quick search</h3>
                 <div class="q_search">
                     
+<!-- jquery intialisation for accordion -->
+<script type="text/javascript">
+var currentChnageText = true;
+
+J(document).ready(function() {
+
+ // hides the slickbox as soon as the DOM is ready (a little sooner that page load)
+   
+	  
+
+	  
+	    J('#advance').hide();
+	  
+  
+  
+
+  J('#advanced_search').click(function() {
+    J('#advance').slideToggle(400);
+    return false;
+  });
+
+});
+</script>
+
+<script language="JavaScript">
+function changeText(){
+	if(currentChnageText == true){
+		 document.getElementById("qSearchMoreOption").innerHTML = "Close options";
+		  document.getElementById("searchMode").value = "advance";
+		 currentChnageText = false;
+	}
+	else{
+		 document.getElementById("qSearchMoreOption").innerHTML = "More options";
+		  document.getElementById("searchMode").value = "show";
+		 currentChnageText = true;
+	}
+}
+</script>
+
+<!-- end jquery intialisation for accordion -->
+
+
 <style>
 .hideCls {display:none;}
 </style>
@@ -134,10 +184,44 @@ function getModelsForMake(make)
 {
         Models.getModelsForMake(make, createList);
 }
+//&&&&&&&&&&&&&&&&&&&SHORTING CODE&&&&&&&&&&&&&&&&&&&&&&&&
+function addOptionCarModel(selectbox,text,value ){
+		var optn = document.createElement("OPTION");
+			optn.text =text;
+			optn.value = value;
+			document.getElementById(selectbox).options.add(optn);
+}
+//&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
 
 function createList(data) {
   dwr.util.removeAllOptions(document.ListingType.model);
   dwr.util.addOptions(document.ListingType.model, data);
+
+//Model data is getting shorted from the script given below
+	var carTotalLength = document.getElementById("carModel").length;
+		var car_model = new Array();
+
+		for(i=0;i<carTotalLength;i++){
+				car_model[i] =  new Array();
+				car_model[i][0] =   document.getElementById("carModel").options[i].value;
+				car_model[i][1] =    document.getElementById("carModel").options[i].text;
+		}
+		car_model.sort();
+		document.getElementById("carModel").options.length=0;
+		var optn = document.createElement("OPTION");
+			optn.text ="Any Model";
+			optn.value = "any";
+			document.getElementById("carModel").options.add(optn);
+
+		for(i=0;i<carTotalLength;i++){
+			if(car_model[i][1]=="Any Model"){
+			}
+			else{
+				addOptionCarModel("carModel", car_model[i][1], car_model[i][0]);
+			}
+		}
+
 }
 
 function submitform(order, pageNo)
@@ -182,7 +266,6 @@ function submitform(order, pageNo)
 	
 	var yearTo = (document.ListingType.yearTo.value == "-1") ? 'any' : document.ListingType.yearTo.value;
 	
-	
 		// Form URL....
 	if(make != "any"){
 		url = url + "/make-" + make;
@@ -216,17 +299,17 @@ function showAdvance(value)
 {   var adv = document.getElementById("advanced_search");   
 	if(value == 'true')
 	{
-	    document.getElementById("advanced_search").className="hideCls";
-		document.getElementById("basic_search").className="fntsz04";
+	    //document.getElementById("advanced_search").className="hideCls";
+		//document.getElementById("basic_search").className="fntsz04";
 		document.ListingType.searchMode.value = 'advance';
 	}
 	else
 	{  
-	    document.getElementById("advanced_search").className="fntsz04";
-		document.getElementById("basic_search").className="hideCls";
+	    //document.getElementById("advanced_search").className="fntsz04";
+		//document.getElementById("basic_search").className="hideCls";
 		document.ListingType.searchMode.value = 'basic';
  	}
- 	Effect.toggle('advance','BLIND'); 	
+ 	//Effect.toggle('advance','BLIND'); 	
 }
 
 function advanceSearchCheck()
@@ -237,7 +320,7 @@ function advanceSearchCheck()
 	}
 }
 </script>
-
+    
      <form name="ListingType" action="/" method="post">
       <div>       
         <input type="hidden" name="getModels" value="false">	
@@ -248,6 +331,7 @@ function advanceSearchCheck()
 		<input type="hidden" name="availableOnly" value="n">
 		
         <select name="Makes" class="mrg04 select" onchange="getModelsForMake(this.value)">
+		
         
           <option value="any" selected="selected">Any Make</option>
           
@@ -259,6 +343,8 @@ function advanceSearchCheck()
 			           		<option value="alfaromeo">Alfa Romeo</option>
 			           
 	           		
+	           
+           
 	           
            
 	           
@@ -282,13 +368,6 @@ function advanceSearchCheck()
 	           
            
 	           
-	          	 
-			           
-			           
-			           		<option value="chrysler">Chrysler</option>
-			           
-	           		
-	           
            
 	           
 	          	 
@@ -303,6 +382,13 @@ function advanceSearchCheck()
            
 	           
            
+	           
+	          	 
+			           
+			           
+			           		<option value="fiat">Fiat</option>
+			           
+	           		
 	           
            
 	           
@@ -326,6 +412,8 @@ function advanceSearchCheck()
 	           
            
 	           
+           
+	           
 	          	 
 			           
 			           
@@ -335,7 +423,21 @@ function advanceSearchCheck()
 	           
            
 	           
+	          	 
+			           
+			           
+			           		<option value="jeep">Jeep</option>
+			           
+	           		
+	           
            
+	           
+	          	 
+			           
+			           
+			           		<option value="kia">Kia</option>
+			           
+	           		
 	           
            
 	           
@@ -374,6 +476,13 @@ function advanceSearchCheck()
 	           		
 	           
            
+	           
+	          	 
+			           
+			           
+			           		<option value="mg">MG</option>
+			           
+	           		
 	           
            
 	           
@@ -423,13 +532,6 @@ function advanceSearchCheck()
 	           		
 	           
            
-	           
-	          	 
-			           
-			           
-			           		<option value="rover">Rover</option>
-			           
-	           		
 	           
            
 	           
@@ -512,7 +614,7 @@ function advanceSearchCheck()
            
         </select>
         &nbsp;<a href="#" onmouseover="Tip('<b>What the Search Options mean</b><br /><br /><b>• Make:</b> E.g. Vauxhall, BMW or Ford. Only the Makes available are listed.<br /><b>• Model:</b> E.g. Astra, M3 or Mondeo. Only the available Models are shown, relevant to &quot;Make&quot;.<br /><b>• Location:</b> Cars are held at one of our Processing Centres (Bradford or Birmingham). Cars can be delivered to your home for a fee.<br /><b>• Year from and Year to:</b> Use these options to set the date range for the car\'s age.<br /><b>• Min Price and Max Price:</b> If you have a budget in mind, please use these fields to set the price range.<br /><b>• Max Mileage:</b> If you are looking for a car with less than a certain mileage on the clock, use this field.<br /><b>• Transmission:</b> Are you searching for a Manual or Automatic gearbox, specifically? If so, please use this field.<br /><b>• Fuel:</b> Petrol or diesel? Use this field to limit your results.<br /><b>• Listing Type:</b> Ex-fleet company cars are among the best buys on the market. They come with  excellent service histories and get plenty of use.', PADDING, 10, FONTCOLOR, '#000000', BALLOON, true, ABOVE, true, DELAY, 0, FONTFACE, 'Arial, Helvetica, sans-serif', FONTSIZE, '11px', OFFSETX, -10, OFFSETY, 25, WIDTH, 375)"><img src="/images/information.png" alt="" width="13" height="13" border="0"></a><br>
-        <select name="model" class="mrg03 select">
+       <select name="model" class="mrg03 select" id="carModel">
           <option value="any" selected="selected">Any Model</option>
           
 	          
@@ -521,9 +623,12 @@ function advanceSearchCheck()
 	          
                     
         </select>
-        <div class="clearfix mrg03">
+
+
+        <div class="clearfix">
          <div id="advance" style="display:none;">
-            <div class="search_options">
+
+		<div class="search_options  mrg03">
               <div class="float_l"> Year from: <br>
                 <select name="yearFrom" class="select2">
                    
@@ -716,154 +821,154 @@ function advanceSearchCheck()
                   	
 				           
 				           
-				           		 <option value="0">0</option>
+				           		 <option value="0">£0</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="1000">1,000</option>
+				           		 <option value="1000">£1,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="2000">2,000</option>
+				           		 <option value="2000">£2,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="3000">3,000</option>
+				           		 <option value="3000">£3,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="4000">4,000</option>
+				           		 <option value="4000">£4,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="5000">5,000</option>
+				           		 <option value="5000">£5,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="6000">6,000</option>
+				           		 <option value="6000">£6,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="7000">7,000</option>
+				           		 <option value="7000">£7,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="8000">8,000</option>
+				           		 <option value="8000">£8,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="9000">9,000</option>
+				           		 <option value="9000">£9,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="10000">10,000</option>
+				           		 <option value="10000">£10,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="12000">12,000</option>
+				           		 <option value="12000">£12,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="14000">14,000</option>
+				           		 <option value="14000">£14,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="15000">15,000</option>
+				           		 <option value="15000">£15,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="16000">16,000</option>
+				           		 <option value="16000">£16,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="18000">18,000</option>
+				           		 <option value="18000">£18,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="20000">20,000</option>
+				           		 <option value="20000">£20,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="25000">25,000</option>
+				           		 <option value="25000">£25,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="30000">30,000</option>
+				           		 <option value="30000">£30,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="35000">35,000</option>
+				           		 <option value="35000">£35,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="40000">40,000</option>
+				           		 <option value="40000">£40,000</option>
 				           
 	           	 	 
                     
                   	
 				           
 				           
-				           		 <option value="50000">50,000</option>
+				           		 <option value="50000">£50,000</option>
 				           
 	           	 	 
                   
@@ -883,154 +988,154 @@ function advanceSearchCheck()
 	                
 				           
 				           
-				           		 <option value="1000">1,000</option>
+				           		 <option value="1000">£1,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="2000">2,000</option>
+				           		 <option value="2000">£2,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="3000">3,000</option>
+				           		 <option value="3000">£3,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="4000">4,000</option>
+				           		 <option value="4000">£4,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="5000">5,000</option>
+				           		 <option value="5000">£5,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="6000">6,000</option>
+				           		 <option value="6000">£6,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="7000">7,000</option>
+				           		 <option value="7000">£7,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="8000">8,000</option>
+				           		 <option value="8000">£8,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="9000">9,000</option>
+				           		 <option value="9000">£9,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="10000">10,000</option>
+				           		 <option value="10000">£10,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="12000">12,000</option>
+				           		 <option value="12000">£12,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="14000">14,000</option>
+				           		 <option value="14000">£14,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="15000">15,000</option>
+				           		 <option value="15000">£15,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="16000">16,000</option>
+				           		 <option value="16000">£16,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="18000">18,000</option>
+				           		 <option value="18000">£18,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="20000">20,000</option>
+				           		 <option value="20000">£20,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="25000">25,000</option>
+				           		 <option value="25000">£25,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="30000">30,000</option>
+				           		 <option value="30000">£30,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="35000">35,000</option>
+				           		 <option value="35000">£35,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="40000">40,000</option>
+				           		 <option value="40000">£40,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="50000">50,000</option>
+				           		 <option value="50000">£50,000</option>
 				           
 	           	 	 
                     
 	                
 				           
 				           
-				           		 <option value="1000000">50,000+</option>
+				           		 <option value="1000000">£50,000+</option>
 				           
 	           	 	 
                   
@@ -1060,18 +1165,10 @@ function advanceSearchCheck()
 	                
                 </select>
               </div>
-              <div class="float_r"> Mileage:<br>
+              <div class="float_r">Max mileage:<br>
                 <select name="maxMileage" class="select2">
                   <option value="-1" selected="selected"></option>
                     
-                       
-	                       
-	                       
-	                       
-	                        		<option value="-1">Max Mileage</option>
-	                       
-                       
-                   
                        
 	                       
 	                       
@@ -1197,16 +1294,28 @@ function advanceSearchCheck()
           </div>
           <div class="clearfix mrg03">
 	          <div id="go"><a href="javascript:submitform('','-1')"><img src="/images/button_go.png" alt="Go" width="50" height="22" border="0" title="Go"></a></div>
-	          <div id="advanced_search" class="fntsz04"><a href="javascript:showAdvance('true');" onfocus="this.blur()">More options</a></div>
-	         <div id="basic_search" class="hideCls"><a href="javascript:showAdvance('false');" onfocus="this.blur()">Close options</a></div>
+	          <div id="advanced_search" class="fntsz04" onclick="changeText()"><a href="#" onfocus="this.blur()"><span id="qSearchMoreOption">More options</span></a></div>
+	         <!-- <div id="basic_search" class="hideCls"><a href="javascript:showAdvance('false');"  onfocus="this.blur()">Close options</a></div> -->
 	     </div>
-        </div>                
+        </div>
       </div> 
      </form>         
                 </div>               
             </div>
              
-<h3 class="search_links"><a href="#" onclick="Effect.toggle('make','BLIND'); return false;" onfocus="this.blur()">Search cars by make</a></h3>
+<script type="text/javascript">
+J(document).ready(function() {
+ // hides the slickbox as soon as the DOM is ready (a little sooner that page load)
+  J('#make').show();
+
+  J('#carByMake').click(function() {
+    J('#make').slideToggle(400);
+    return false;
+  });
+
+});
+</script>
+<h3 class="search_links mrg07"><a href="#" id="carByMake" onfocus="this.blur()">Search cars by make</a></h3>
             <div id="make" style="display:block;">
               <div class="search_options pad03 make_list">
                 <ul class="car_list">
@@ -1215,6 +1324,14 @@ function advanceSearchCheck()
                      
                      <li><a href="/cars/make-alfaromeo">Alfa Romeo</a></li> 
                      
+                     
+                                       
+                                         
+                    
+                     
+                     
+                     
+                     <li><a href="/findcar">Aston Martin</a></li> 
                      
                                        
                                          
@@ -1245,8 +1362,8 @@ function advanceSearchCheck()
                     
                      
                      
-                     <li><a href="/cars/make-chrysler">Chrysler</a></li> 
                      
+                     <li><a href="/findcar">Chrysler</a></li> 
                      
                                        
                                          
@@ -1277,8 +1394,8 @@ function advanceSearchCheck()
                     
                      
                      
+                     <li><a href="/cars/make-fiat">Fiat</a></li> 
                      
-                     <li><a href="/findcar">Fiat</a></li> 
                      
                                        
                                          
@@ -1309,6 +1426,14 @@ function advanceSearchCheck()
                     
                      
                      
+                     
+                     <li><a href="/findcar">Isuzu</a></li> 
+                     
+                                       
+                                         
+                    
+                     
+                     
                      <li><a href="/cars/make-jaguar">Jaguar</a></li> 
                      
                      
@@ -1317,16 +1442,16 @@ function advanceSearchCheck()
                     
                      
                      
+                     <li><a href="/cars/make-jeep">Jeep</a></li> 
                      
-                     <li><a href="/findcar">Jeep</a></li> 
                      
                                        
                                          
                     
                      
                      
+                     <li><a href="/cars/make-kia">Kia</a></li> 
                      
-                     <li><a href="/findcar">Kia</a></li> 
                      
                                        
                                          
@@ -1365,8 +1490,8 @@ function advanceSearchCheck()
                     
                      
                      
+                     <li><a href="/cars/make-mg">MG</a></li> 
                      
-                     <li><a href="/findcar">MG</a></li> 
                      
                                        
                                          
@@ -1421,8 +1546,8 @@ function advanceSearchCheck()
                     
                      
                      
-                     <li><a href="/cars/make-rover">Rover</a></li> 
                      
+                     <li><a href="/findcar">Rover</a></li> 
                      
                                        
                                          
@@ -1521,6 +1646,24 @@ function advanceSearchCheck()
                   
             
 
+<script type="text/javascript">
+J(document).ready(function() {
+ // hides the slickbox as soon as the DOM is ready (a little sooner that page load)
+    
+    
+    
+        J('#type').hide();
+    
+  
+  
+
+  J('#searchCarByTypes').click(function() {
+    J('#type').slideToggle(400);
+    return false;
+  });
+
+});
+</script>
 
 <script language="javascript">
 
@@ -1531,170 +1674,180 @@ var len = document.searchTypeForm.searchType.length;
 
 for (var i=0; i < len; i++)
    {
-	   if (document.searchTypeForm.searchType[i].checked)
-	      { 
-	     	   searchtypevalue = searchtypevalue + document.searchTypeForm.searchType[i].value + "," ;
-	      }
+       if (document.searchTypeForm.searchType[i].checked)
+          { 
+               searchtypevalue = searchtypevalue + document.searchTypeForm.searchType[i].value + "," ;
+          }
    }
    searchtypevalue = searchtypevalue.substring(0,searchtypevalue.lastIndexOf(","));
    var typeURL ="";
   
    if(searchtypevalue == ""){
- 		  typeURL = "/cars";
+          typeURL = "/cars";
    }else{
-   		  typeURL = "/cars/cartypes-"+ searchtypevalue;
+          typeURL = "/cars/cartypes-"+ searchtypevalue;
    }   
-	document.searchTypeForm.action = typeURL;
-  	document.searchTypeForm.submit();
-  	
-	return false;
+    document.searchTypeForm.action = typeURL;
+    document.searchTypeForm.submit();
+    
+    return false;
 }
 </script>
 
-<h3 class="search_links">
-	<a href="#" onclick="Effect.toggle('type','BLIND'); return false;" onfocus="this.blur()">Search cars by type</a>
-</h3>
+<h3 class="search_links"><a href="#" id="searchCarByTypes" onfocus="this.blur()">Search cars by type</a></h3>
      <form name="searchTypeForm" action="/" method="POST">
         
             
             
                 <div id="type" style="display:none;">
             
-        		        
-	        <div class="search_options pad03">	
-	                <div class="float_l">
-		                 
-				         <div class="car_types">
-				            <label>
-		                        
-			                        
-			                        
-			                        <input name="searchType" type="checkbox" value="5">
-				                			  4x4
-			                        
-		                        
-				            </label>
-				          </div>
-			        	 
-				         <div class="car_types">
-				            <label>
-		                        
-			                        
-			                        
-			                        <input name="searchType" type="checkbox" value="8">
-				                			  Coupe
-			                        
-		                        
-				            </label>
-				          </div>
-			        	 
-				         <div class="car_types">
-				            <label>
-		                        
-			                        
-			                        
-			                        <input name="searchType" type="checkbox" value="2">
-				                			  Hatchback
-			                        
-		                        
-				            </label>
-				          </div>
-			        	 
-				         <div class="car_types">
-				            <label>
-		                        
-			                        
-			                        
-			                        <input name="searchType" type="checkbox" value="6">
-				                			  MPV
-			                        
-		                        
-				            </label>
-				          </div>
-			        	 
-				         <div class="car_types">
-				            <label>
-		                        
-			                        
-			                        
-			                        <input name="searchType" type="checkbox" value="1">
-				                			  Saloon
-			                        
-		                        
-				            </label>
-				          </div>
-			        	 
-		        	 </div>                        
-	               
-	                 <div class="float_r">                 
-		                 
-					         <div class="car_types">
-					            <label>
-					            
-			                        
-			                        
-			                        <input name="searchType" type="checkbox" value="3">
-				                			  Convertible
-			                        
-		                        
-					            </label>
-					          </div>
-			         	 
-					         <div class="car_types">
-					            <label>
-					            
-			                        
-			                        
-			                        <input name="searchType" type="checkbox" value="4">
-				                			  Estate
-			                        
-		                        
-					            </label>
-					          </div>
-			         	 
-					         <div class="car_types">
-					            <label>
-					            
-			                        
-			                        
-			                        <input name="searchType" type="checkbox" value="7">
-				                			  Mini MPV
-			                        
-		                        
-					            </label>
-					          </div>
-			         	 
-					         <div class="car_types">
-					            <label>
-					            
-			                        
-			                        
-			                        <input name="searchType" type="checkbox" value="10">
-				                			  Prestige
-			                        
-		                        
-					            </label>
-					          </div>
-			         	 
-					         <div class="car_types">
-					            <label>
-					            
-			                        
-			                        
-			                        <input name="searchType" type="checkbox" value="9">
-				                			  Sports
-			                        
-		                        
-					            </label>
-					          </div>
-			         	 
-		            </div>
-	         </div>	         
-	         <div><a href="javascript:submitTypeform();"><img src="/images/button_go.png" alt="Go" width="50" height="22" border="0" title="Go"></a></div>	                         
+                     
+            <div class="search_options pad03">  
+                    <div class="float_l">
+                         
+                         <div class="car_types">
+                            <label for="type_3">
+                                
+                                    
+                                    
+                                    <input name="searchType" type="checkbox" id="type_3" value="3">
+                                              Convertible
+                                    
+                                
+                            </label>
+                          </div>
+                         
+                         <div class="car_types">
+                            <label for="type_4">
+                                
+                                    
+                                    
+                                    <input name="searchType" type="checkbox" id="type_4" value="4">
+                                              Estate
+                                    
+                                
+                            </label>
+                          </div>
+                         
+                         <div class="car_types">
+                            <label for="type_10">
+                                
+                                    
+                                    
+                                    <input name="searchType" type="checkbox" id="type_10" value="10">
+                                              Midsize car
+                                    
+                                
+                            </label>
+                          </div>
+                         
+                         <div class="car_types">
+                            <label for="type_1">
+                                
+                                    
+                                    
+                                    <input name="searchType" type="checkbox" id="type_1" value="1">
+                                              Saloon
+                                    
+                                
+                            </label>
+                          </div>
+                         
+                         <div class="car_types">
+                            <label for="type_9">
+                                
+                                    
+                                    
+                                    <input name="searchType" type="checkbox" id="type_9" value="9">
+                                              Sports
+                                    
+                                
+                            </label>
+                          </div>
+                         
+                     </div>                        
+                   
+                     <div class="float_r">                 
+                         
+                             <div class="car_types">
+                                <label for="type_8">
+                                
+                                    
+                                    
+                                    <input name="searchType" type="checkbox" id="type_8" value="8">
+                                              Coupe
+                                    
+                                
+                                </label>
+                              </div>
+                         
+                             <div class="car_types">
+                                <label for="type_2">
+                                
+                                    
+                                    
+                                    <input name="searchType" type="checkbox" id="type_2" value="2">
+                                              Family cars
+                                    
+                                
+                                </label>
+                              </div>
+                         
+                             <div class="car_types">
+                                <label for="type_6">
+                                
+                                    
+                                    
+                                    <input name="searchType" type="checkbox" id="type_6" value="6">
+                                              MPV
+                                    
+                                
+                                </label>
+                              </div>
+                         
+                             <div class="car_types">
+                                <label for="type_7">
+                                
+                                    
+                                    
+                                    <input name="searchType" type="checkbox" id="type_7" value="7">
+                                              Small Cars
+                                    
+                                
+                                </label>
+                              </div>
+                         
+                             <div class="car_types">
+                                <label for="type_5">
+                                
+                                    
+                                    
+                                    <input name="searchType" type="checkbox" id="type_5" value="5">
+                                              SUV - 4x4
+                                    
+                                
+                                </label>
+                              </div>
+                         
+                    </div>
+             </div>          
+             <div><a href="javascript:submitTypeform();"><img src="/images/button_go.png" alt="Go" width="50" height="22" border="0" title="Go"></a></div>                          
             </div>
            </form>
-             
- <h3 class="search_links "><a href="#" onclick="Effect.toggle('price','BLIND'); return false;" onfocus="this.blur()">Search cars by price</a></h3>
+            <script type="text/javascript">
+J(document).ready(function() {
+ // hides the slickbox as soon as the DOM is ready (a little sooner that page load)
+  J('#price').hide();
+
+  J('#carByPrice').click(function() {
+    J('#price').slideToggle(400);
+    return false;
+  });
+
+});
+</script>
+ 
+ <h3 class="search_links"><a href="#" id="carByPrice" onfocus="this.blur()">Search cars by price</a></h3>
  <form name="searchByprice" method="GET">
       <div id="price" style="display:none;">
         <div class="search_options pad03">
@@ -1708,15 +1861,28 @@ for (var i=0; i < len; i++)
         </div>
   
 </div></form>
-      	    <h3 class="search_links mrg07"><a href="#" onclick="Effect.toggle('year','BLIND'); return false;" onfocus="this.blur()">Search cars by year</a></h3>
+      	    
+<script type="text/javascript">
+J(document).ready(function() {
+ // hides the slickbox as soon as the DOM is ready (a little sooner that page load)
+  J('#year').hide();
+
+  J('#carByYear').click(function() {
+    J('#year').slideToggle(400);
+    return false;
+  });
+
+});
+</script>
+<h3 class="search_links mrg07"><a href="#" id="carByYear" onfocus="this.blur()">Search cars by year</a></h3>
    <div id="year" style="display:none;">
      <div class="search_options pad03">
        <ul class="car_list mrg06">
-         <li><a href="/cars/fromyear-2005/toyear-2007">Up to 2 years old</a></li>
-         <li><a href="/cars/fromyear-2004/toyear-2005">2 to 3 years old</a></li>
-         <li><a href="/cars/fromyear-2003/toyear-2004">3 to 4 years old</a></li>
-         <li><a href="/cars/fromyear-2002/toyear-2003">4 to 5 years old</a></li>
-         <li><a href="/cars/fromyear-any/toyear-2002">5+ years old</a></li>
+         <li><a href="/cars/fromyear-2006/toyear-2008">Up to 2 years old</a></li>
+         <li><a href="/cars/fromyear-2005/toyear-2006">2 to 3 years old</a></li>
+         <li><a href="/cars/fromyear-2004/toyear-2005">3 to 4 years old</a></li>
+         <li><a href="/cars/fromyear-2003/toyear-2004">4 to 5 years old</a></li>
+         <li><a href="/cars/fromyear-any/toyear-2003">5+ years old</a></li>
        </ul>
      </div>
    </div>   
@@ -1730,18 +1896,11 @@ for (var i=0; i < len; i++)
                     </p>
                 </div>
             
-            <div id="find_me" class="" title="Find me a car">
-            	<a href="/findcar"></a>
-            </div>
-        </div>
-        <img src="/images/box02_bottom.png" width="190" height="6" alt="" title="">
-    </div>
-    
+            <div id="find_me" class="" title="Find me a car"><a href="/findcar"></a></div>
+        </div><img src="/images/box02_bottom.png" width="190" height="6" alt="" title=""></div>
 </div>
-					
 					<div id="mid_col">
-					    <div style="position:absolute; top:86px; margin-left:-41px;"><img src="/images/cap.gif"></div>
-	                     <h1>Privacy Policy</h1>
+					     <h1>Privacy Policy</h1>
         <div id="pg_contents">
           <p>Welcome to the privacy policy ("Privacy Policy")  for Autoquake. Your privacy is very important to us. Please read this Privacy  Policy to learn about the ways in which we use and protect your personal  information. This Privacy Policy applies to the www.autoquake.com website (the  "Site").</p>
 
@@ -1796,12 +1955,12 @@ for (var i=0; i < len; i++)
 
         </div>
 					</div>
-	
 					
-					        <div id="right_col">
+					
+<div id="right_col">
 
-        
-		
+	
+	
 
 	
 	
@@ -1810,65 +1969,80 @@ for (var i=0; i < len; i++)
 
 
 
-          <div id="phone">
-            <div><img src="/images/box08_top.gif" width="180" height="6" alt="" title=""></div>
-            <div class="pad01">
-              <h6 class="clr03">Call: 0844 800 9406</h6>
-            </div>
-            <img src="/images/box08_bottom.gif" alt="" width="180" height="6" title=""></div>
-          <div id="whats_autoquake">
-            <div><img src="/images/box01_top.png" width="180" height="6" alt="" title=""></div>
-            <div class="pad01">
-              <h3 class="mrg05">What’s Autoquake?</h3>
-              Autoquake is a better way to buy your used car. We'll help you find the right car for less <a href="/about_autoquake"><img src="/images/arrow01.gif" alt="More ..." width="19" height="12" border="0" title="More ..."></a> </div>
-            <img src="/images/box01_bottom.png" alt="" width="180" height="6" title=""></div>
-          <div id="why_autoquake">
-            <div><img src="/images/box01_top.png" width="180" height="6" alt="" title=""></div>
-            <div class="pad01">
-              <h3 class="mrg05">Why Autoquake?</h3>
-              <p>Because low prices go hand-in-hand with good old-fashioned customer service:</p>
-              <ul class="why_aq mrg01">
-                <li><a href="/philosophy">Low prices</a> </li>
-                <li><a href="/our_cars">Quality ex- fleet cars</a> </li>
-                <li><a href="/how_autoquake_works">Stress-free experience</a> </li>
-                <li><a href="/delivery">Home delivery</a></li>
-                <li><a href="/money_back_guarantee">Money-back guarantee</a></li>
-                <li><a href="/autoquake_inspected">120 point inspection</a></li>
-              </ul>
-            </div>
-            <img src="/images/box01_bottom.png" alt="" width="180" height="6" title=""></div>
-          <div id="menu">
-            <div class="testimonial" title="See what our customers saying"><a href="/customer_feedback"><span>See what our <br>
-              customers saying</span></a></div>
-            <div class="email" title="Recommend this site to a friend"><a href="/referafriend"><span>Recommend this <br>
-              site to a friend</span></a></div>
-          </div>
-        </div>
+	<div id="phone">
+		<div><img src="/images/box08_top.gif" width="180" height="6" alt="" title=""></div>
+		<div class="pad01">
+			<h6 class="clr03">Call: 0844 800 9406</h6>
+		</div>
+		<img src="/images/box08_bottom.gif" alt="" width="180" height="6" title=""></div>
+	<div id="whats_autoquake">
+		<div><img src="/images/box01_top.png" width="180" height="6" alt="" title=""></div>
+		<div class="pad01">
+			<h3 class="mrg05">	What’s Autoquake?	</h3>
+			Autoquake is a better way to buy your used car. We'll help you find the right car for less <a href="/about_autoquake"><img src="/images/arrow01.gif" alt="More ..." width="19" height="12" border="0" title="More ..."></a></div>
+		<img src="/images/box01_bottom.png" alt="" width="180" height="6" title=""></div>
+	<div id="why_autoquake">
+		<div><img src="/images/box01_top.png" width="180" height="6" alt="" title=""></div>
+		<div class="pad01">
+			<h3 class="mrg05">Why Autoquake?</h3>
+			<p>Because low prices go hand-in-hand with good old-fashioned customer service:</p>
+			<ul class="why_aq mrg01">
+				<li><a href="/philosophy">Low prices</a></li>
+				<li><a href="/our_cars">Quality cars</a></li>
+				<li><a href="/how_autoquake_works">Stress-free experience</a></li>
+				<li><a href="/delivery">Home delivery</a></li>
+				<li><a href="/money_back_guarantee">Money-back guarantee</a></li>
+				<li><a href="/autoquake_inspected">120 point inspection</a></li>
+			</ul>
+		</div>
+		<img src="/images/box01_bottom.png" alt="" width="180" height="6" title=""></div>
+	<div id="menu" class="clearfix">
+		<div class="testimonial" title="See what our customers saying"><a href="/customer_feedback"><span>See what our <br>customers saying</span></a></div>
+		<div class="email" title="Recommend this site to a friend"><a href="/referafriend"><span>Recommend this <br> site to a friend</span></a></div>
+	</div>
+	
+</div>
+
 
 				</div>
 			</div>
 			
-			  <div id="footer">
+			
+  <div id="footer">
     <div class="footer_align">
       <div id="footer_logos"><img src="/images/logo_hpi.png" width="37" height="35" border="0" alt="HPI" title="HPI"></div>
       <div id="footer_links"><a href="/press">Press</a>&nbsp;|&nbsp;<a href="/jobs">Jobs</a>&nbsp;|&nbsp;<a href="/faqs">FAQs</a>&nbsp;|&nbsp;<a href="/feedback">Feedback</a>&nbsp;|&nbsp;<a href="/remarketing">Car Remarketing</a>&nbsp;|&nbsp;<a href="/glossary">Glossary</a>&nbsp;|&nbsp;<a href="/sitemap">Sitemap</a><br>
         <script language="JavaScript" type="text/javascript"> document.write('&copy; ' + (new Date()).getFullYear()); </script>© 2020
-        Autoquake Ltd. All Rights Reserved.&nbsp;&nbsp;<a href="/visitor_agreement">Visitors' agreement</a>&nbsp;|&nbsp;<a href="/privacy">Privacy policy</a></div>
+        Autoquake All Rights Reserved.&nbsp;&nbsp;<a href="/visitor_agreement">Visitors' agreement</a>&nbsp;|&nbsp;<a href="/privacy">Privacy policy</a></div>
     </div>
   </div>
-  <!-- Google Analytics Code  -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+    <!-- Google Analytics Code  -->
+
+
 <script type="text/javascript">
-_uacct = "UA-718193-1";
-urchinTracker();
-</script>
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/urchin.js' type='text/javascript'%3E%3C/script%3E"));
+    //alert(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/urchin.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+<!--
+    _uacct="UA-718193-1";
+    urchinTracker();
+//-->
+</script>    
+
 
 <!-- Google Analytics Code Ends -->
+<script type="text/javascript">
+function googleAnalyticsCall(pageURL){
+	urchinTracker(pageURL);
+}
+</script>
+  
+
 
 		</div>
-		
-		
 	
 
 	</body></html>
