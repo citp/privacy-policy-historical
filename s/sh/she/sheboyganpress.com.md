@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheboyganpress.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229122801id_/http%3A//www.sheboygan-press.com/apps/pbcs.dll/section%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheboyganpress.com privacy policy that was archived on 2008-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080428053726id_/http%3A//www.sheboygan-press.com/apps/pbcs.dll/section%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
 # None
 
