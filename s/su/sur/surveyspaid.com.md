@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyspaid.com privacy policy that was archived on 2007-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070915051401id_/http%3A//www.surveyspaid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyspaid.com privacy policy that was archived on 2008-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080428113444id_/http%3A//www.surveyspaid.com/privacy.php) for the most accurate reproduction.*
 
 # SurveysPaid.com - Earn money by filling out online surveys!
 
