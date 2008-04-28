@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230154757id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2008-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080428115316id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
 
 # The University of Texas at Austin Web Privacy Policy
 
@@ -14,7 +14,7 @@ Last Reviewed: September 9, 2007
 
 Last Edited: September 9, 2007
 
-See the [change log](https://web.archive.org/web/20071230154757id_/http%3A//www.utexas.edu/policies/privacychglog.html) for a list of significant changes made to this document.
+See the [change log](https://web.archive.org/web/20080428115316id_/http://www.utexas.edu/policies/privacy/privacychglog.html) for a list of significant changes made to this document.
 
 ## Purpose
 
