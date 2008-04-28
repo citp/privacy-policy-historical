@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bglad.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226232629id_/http%3A//www.bglad.com/page.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bglad.com privacy policy that was archived on 2008-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080428164336id_/http%3A//www.bglad.com/page.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # BGLAD - Directory of Gay - Lesbian - Bisexual - Transgender Web Sites
 
