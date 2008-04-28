@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addondashboard.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218052929id_/http%3A//www.addondashboard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addondashboard.com privacy policy that was archived on 2008-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080428140444id_/http%3A//www.addondashboard.com/privacy.php) for the most accurate reproduction.*
 
 # AddonDashboard|Article Dashboard Directory | Submit Articles | Author Submission
 
