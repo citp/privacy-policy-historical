@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.ie privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212184753id_/http%3A//pages.ebay.ie/help/policies/privacy-policy.html%3FssPageName%3Df%3Af%3AIE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ie privacy policy that was archived on 2008-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080428030119id_/http%3A//pages.ebay.ie/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
@@ -41,7 +41,7 @@ This Privacy Policy describes how eBay International A.G (" **we** ", " **us** "
 
 Other eBay websites worldwide operate under similar privacy practices and, subject to the requirements of applicable local law, we strive to provide a consistent set of privacy practices throughout the global eBay trading community.
 
-By accepting the [User Agreement](http://pages.ebay.ie/help/policies/user-agreement.html?ssPageName=f:f:UK) during the process for registering an eBay account or by using the Site, you expressly consent to the collection, storage, use and disclosure of your personal information by eBay International A.G. as described in this Privacy Policy.
+By accepting the [User Agreement](http://pages.ebay.ie/help/policies/user-agreement.html?ssPageName=f:f:UK) during the process for registering an eBay account or by using the Site, you expressly consent to the collection, storage, use and disclosure of your personal information by eBay International A.G. as described in this Privacy Policy.
 
 This Privacy Policy is valid from 1 March 2007 and is effective upon acceptance for new users.
 
