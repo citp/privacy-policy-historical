@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footballpools.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230154942id_/http%3A//www.footballpools.com/cust%3Faction%3DGoHelp%26help_page%3Dprivpol%26tab%3Dfootball) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballpools.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429192831id_/http%3A//www.footballpools.com/cust%3Faction%3DGoHelp%26help_page%3Dprivpol%26tab%3Dfootball) for the most accurate reproduction.*
 
-# Littlewoods Football Pools - the home of the original and best £2.5 Million Football Pools, Lotteries and Instant Win Games
+# FootballPools.com home of Premier 10, Classic Pools and Online Football games
 
 **Privacy Policy**
 
