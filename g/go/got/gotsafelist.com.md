@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotsafelist.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626050042id_/http%3A//gotsafelist.com/privacypolicy_V2.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotsafelist.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429184217id_/http%3A//www.gotsafelist.com/privacypolicy_V2.php) for the most accurate reproduction.*
 
 # Got Safelist? - Privacy Policy
 
@@ -30,21 +30,11 @@ If you feel that this site is not following its stated information policy, you m
 ---  
    
   
-**[Is Your Pet Food Safe?](http://www.gotsafelist.com/GSLAds2.0.11/adclick.php?bannerid=72&zoneid=1&source=&dest=http%3A%2F%2FIsYourPetFoodSafe.com%2F%3Fgottxt)  
-ASPCA says use U.S. protein sources only. Feed your pets natural pet food from reliable companies. Order online, ship fast to your home. Don't take chances with your pets! **
-
-**[The Best of Both Worlds](http://www.gotsafelist.com/GSLAds2.0.11/adclick.php?bannerid=76&zoneid=1&source=&dest=http%3A%2F%2Fwww.paysforever.com%2FAS6198.htm)  
-YOU are a click away from Discovering how a single page website will generate YOU a lifetime stream of 20 Dollar Bills. **
-
-**[((( AMAZING INCOME OPPORTUNITY )))](http://www.gotsafelist.com/GSLAds2.0.11/adclick.php?bannerid=75&zoneid=1&source=&dest=http%3A%2F%2Ftinyurl.com%2F35r65k)  
-"Who Else Would Like To Use My Personal System That  
-Makes Me $100,000+ Per Year...Working Part Time ?  
-Design With Newbies in Mind, see Full Details At:**
-
-| » Total Members : | **13,636**  
+| » Total Members : | **23,537**  
 ---|---  
-» Active Members : | **6,242**  
-» Ads View by Members: | **7,125,065**  
+» Active Safelist Members : | **12,748**  
+» Active Desktop Members : | **2,304**  
+» Ads View by Members: | **8,430,941**  
   
 "This is by far the most effective safelist around. I started out as a free member and immediately started to receive a few sales to the program I was promoting the same week I sent out my ads on GOT Safelist. I was so impressed with the response rate I decided to upgrade my membership and I have not looked back since. It's so hard to find a good safelist these days I am sticking with this one!"  
 \- **Audrey Fogbrono - Texas**
@@ -64,10 +54,10 @@ Design With Newbies in Mind, see Full Details At:**
 "I belong to a lot of safelists because it’s essential for marketing my business. But this is the only safelist that I have seen that will actually give you credits month after month and then give you the opportunity to turn them back into cash. All the other safelists I belong to just let me use them to send out ads and that’s it. Thanks for helping out the little guy GOTSafelist PLUS!" "  
 \- **Juan De La Paz - Tennessee**
 
-###  Google friendly page  
+###  Podcasting Made Easy  
   
   
 ---  
-[](https://web.archive.org/web/20070626050042id_/http%3A//gotsafelist.com/memberfreeresources_V2.php)  
-Added: June 23, 12:00 AM   
+[](https://web.archive.org/web/20080429184217id_/http%3A//www.gotsafelist.com/memberfreeresources_V2.php)  
+Added: January 29, 12:00 AM   
 
