@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airgundepot.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229093518id_/http%3A//www.airgundepot.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgundepot.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429202817id_/http%3A//www.airgundepot.com/privacypolicy.html) for the most accurate reproduction.*
 
 # View Privacy Policy
 
@@ -44,11 +44,10 @@ Notification of Changes-- If we decide to change our privacy policy, we will pos
 
 
 Mailing Address:  
-Echo Commerce, LLC  
-8731 Sandy Pkwy   
-Ste 106  
-Sandy, UT 84070
+Echo Commerce LLC  
+12453 S 265 W Ste F  
+Draper, UT 84020
 
-[Customer Service](https://web.archive.org/web/20071229093518id_/http%3A//www.airgundepot.com/contactus1.html)
+[Customer Service](https://web.archive.org/web/20080429202817id_/http%3A//www.airgundepot.com/contactus1.html)
 
 [](http://smallbusiness.yahoo.com/ecommerce/)
