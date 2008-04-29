@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustyfever.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229021409id_/http%3A//bustyfever.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustyfever.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429173105id_/http%3A//bustyfever.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
