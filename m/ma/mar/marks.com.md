@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213022636id_/http%3A//www.marks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429171910id_/http%3A//www2.marks.com/privacy.asp) for the most accurate reproduction.*
 
 # Mark's Work Wearhouse
 
 E-CAST OFFERS  
-Sign up now >
+[Sign up now >](https://web.archive.org/web/20080429171910id_/http%3A//www2.marks.com/rewardsClub.asp)
 
-[](https://web.archive.org/web/20071213022636id_/http%3A//www.marks.com/ourguarantee.asp)
+[](https://web.archive.org/web/20080429171910id_/http%3A//www2.marks.com/ourguarantee.asp)
 
 [](http://www2.marks.com/category.asp?categoryID=231)  
 Clothes that make a difference  
