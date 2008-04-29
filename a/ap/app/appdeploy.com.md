@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appdeploy.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230144509id_/http%3A//www.appdeploy.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appdeploy.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429200014id_/http%3A//www.appdeploy.com/privacy.asp) for the most accurate reproduction.*
 
 # AppDeploy > Privacy
 
-The following statement describes the privacy policy relating to the AppDeploy.com web site (the "Site") operated by KACE Networks, Inc. ("KACE" or "we").  KACE is committed to user privacy in all of its communications regarding its products and services.  If you provide KACE with information, it will be treated according to this policy.  KACE encourages you to read this policy before interacting with the website.  By providing any personal information to KACE via KACE Web sites or e-mail addresses, you agree to these terms.  This policy covers all KACE Web sites and customer communications.
+The following statement describes the privacy policy relating to the AppDeploySM web site (the "Site") operated by KACE Networks, Inc. ("KACE" or "we").  KACE is committed to user privacy in all of its communications regarding its products and services.  If you provide KACE with information, it will be treated according to this policy.  KACE encourages you to read this policy before interacting with the website.  By providing any personal information to KACE via KACE Web sites or e-mail addresses, you agree to these terms.  This policy covers all KACE Web sites and customer communications.
 
 The purpose of this privacy policy is to inform you of the following: 
 
