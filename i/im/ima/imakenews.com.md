@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017000114id_/http%3A//www.imakenews.com/imn_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429045324id_/http%3A//www.imakenews.com/imn_site/privacypolicy.htm) for the most accurate reproduction.*
 
-# iMakeNews - Create HTML email marketing newsletters, manage lists, track results.
+# IMN
 
-|  **Privacy Policy**  
 IMN is committed to your privacy and your rights as our customer. Any information gathered by IMN will be kept strictly confidential and will only be used or shared in ways for which you have specifically consented. The following statement discloses our standard practice regarding the information we collect and the information we hold on behalf of our customers. 
 
-This privacy policy only applies to the IMN website, related micro sites and IMN Incorporated. The privacy policy applies to information that is given offline as well as on the IMN website. The policy does not pertain to third party web sites that are accessible through IMN's website. IMN proposes that you read the privacy policies of any third party site to learn how they collect and use information that is gathered.
+This privacy policy only applies to the IMN website, related micro sites and iMakeNews, Inc. The privacy policy applies to information that is given offline as well as on the IMN website. The policy does not pertain to third party web sites that are accessible through IMN's website. IMN proposes that you read the privacy policies of any third party site to learn how they collect and use information that is gathered.
 
 **Information gathered online**  
 
@@ -33,9 +32,12 @@ Technical Information - Upon visiting the website, IMN may collect log file data
 
 When you enter a sweepstakes or other promotional event, we may ask for your name, address, telephone number and e-mail address so we can administer the sweepstakes and notify winners.
 
-**Information gathered offline**  
-Service Agreements - The primary vehicle for data collected offline are our service agreements. Information such as name, title, physical address, billing address (if different from physical), phone number and Email address as well as company related information might be requested. IMN may also collect a valid credit card number and expiration date for billing purposes. **Customer Data**  
-Through the various services provided by our software we also collect and store information in a secure and private manner on behalf of our customers. This information includes, but is not limited to, email address lists, articles, survey answers, letters, and usage statistics. This information is owned by our customers and is not accessible to our partners or other customers unless the customer grants permission.
+**Information gathered offline**
+
+Service Agreements - The primary vehicle for data collected offline are our service agreements. Information such as name, title, physical address, billing address (if different from physical), phone number and Email address as well as company related information might be requested. IMN may also collect a valid credit card number and expiration date for billing purposes. 
+
+**Customer Data**  
+Through the various services provided by our software we also collect and store information in a secure and private manner on behalf of our customers. This information includes, but is not limited to, email address lists, articles, survey answers, letters, and usage statistics. This information is owned by our customers and is not accessible to our partners or other customers unless the customer grants permission. 
 
 **Micro site**  
 A micro site is essentially a mini web site. IMN uses micro sites to store and display content that customer's reference in their emails. A unique URL (Uniform Resource Locator) is created and is used to connect the email with the micro site.  
@@ -46,19 +48,22 @@ Our sites use cookies to authenticate the user and keep track of the user sessio
 
 
 **Use of Web Beacons**  
-Web beacons are used in combination with cookies. A web beacon is an often-transparent graphic image, which is placed in an email or on a website. IMN uses web beacons to aggregate data that is used to analyze the performance of an email and related micro sites. The information collected can be correlated to individual subscribers. This data is used for internal IMN marketing purposes only. Open rates and click through rates for email content are examples of the metrics that are calculated using web beacons.    
+Web beacons are used in combination with cookies. A web beacon is an often-transparent graphic image, which is placed in an email or on a website. IMN uses web beacons to aggregate data that is used to analyze the performance of an email and related micro sites. The information collected can be correlated to individual subscribers. This data is used for internal IMN marketing purposes only. Open rates and click through rates for email content are examples of the metrics that are calculated using web beacons.   
 
 
 **Our Partners and Third Parties**  
-IMN does not share personal information regarding its customers with any of its partners or third parties without the prior and explicit consent of the customer.
+IMN does not share personal information regarding its customers with any of its partners or third parties without the prior and explicit consent of the customer.  
 
- **Control and Modification of Third Parties**  
-You remain in control of your information. When you provide your information you can select whether you want to receive further communications about our products and services or other marketing information. When you opt-in to receive marketing communications from IMN, you can opt-out whenever you want. There is an opt-out feature located in the footer of all IMN email communications. IMN wants your personal data to be accurate and complete. If you want to change any of the personal data or preferences you can email us at [support@imninc.com](mailto:support@imninc.com) or call 781-890-4700
 
- **Data Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Customer accounts are password-protected so that only the customer has access to his/her personal information. It is incumbent on the customer not to divulge their password to anyone. We will never ask for a customer's password in an unsolicited phone call or in an unsolicited email. Although we make every effort to ensure security of customer information, no data transmission can be guaranteed to be 100% secure over the Internet. [Click here for more information.](https://web.archive.org/web/20061017000114id_/http%3A//www.imakenews.com/imn_security.asp)
+**Control and Modification of Third Parties**  
+You remain in control of your information. When you provide your information you can select whether you want to receive further communications about our products and services or other marketing information. When you opt-in to receive marketing communications from IMN, you can opt-out whenever you want. There is an opt-out feature located in the footer of all IMN email communications. IMN wants your personal data to be accurate and complete. If you want to change any of the personal data or preferences you can email us at [support@imninc.com](mailto:support@imninc.com) or call 781-890-4700  
 
- **Questions and Contact Information**  
+
+**Data Security**  
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Customer accounts are password-protected so that only the customer has access to his/her personal information. It is incumbent on the customer not to divulge their password to anyone. We will never ask for a customer's password in an unsolicited phone call or in an unsolicited email. Although we make every effort to ensure security of customer information, no data transmission can be guaranteed to be 100% secure over the Internet. [Click here for more information.](https://web.archive.org/web/20080429045324id_/http%3A//www.imakenews.com/imn_site/imn_security.asp)  
+
+
+**Questions and Contact Information**  
 If you have any questions about this privacy Policy, you can email us at [support@imninc.com](mailto:support@imninc.com). Or, send correspondence to the following address:
 
 > iMakeNews, Inc.  
@@ -67,6 +72,3 @@ If you have any questions about this privacy Policy, you can email us at [suppor
 
 **Changes to Privacy Policy**  
 Changes to the privacy policy will be posted in this section. This way you will always have a clear understanding of what information is collected online and offline, how it is used, and the choices you have. Your personal information will only be used in accordance with the version of the Policy that is in place at the time that you provided your information, unless you provide your consent to do otherwise.
-
-  
-|  |  | 
