@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beforward.jp privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229142132id_/http%3A//www.beforward.jp/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beforward.jp privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429040452id_/http%3A//www.beforward.jp/privacy_policy.php) for the most accurate reproduction.*
 
 # Japanese Used Car Exporter, Used Sports Cars, Drift Cars, Sedan, Coupe, Hatchback
 
