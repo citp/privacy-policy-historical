@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beenverified.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220191111id_/http%3A//www.beenverified.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beenverified.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429062143id_/http%3A//www.beenverified.com/home/privacy) for the most accurate reproduction.*
 
-# BeenVerified- The Leader in Online Identity Verification
+# BeenVerified - Privacy Policy
 
 ### Effective Date: November 17th, 2007
 
@@ -17,7 +17,7 @@ Thank you for visiting the website located at www.BeenVerified.com (“Site”).
 
 ### I. Non-Registered Users
 
-**Information Collected/Tracked by** **BeenVerified™**
+#### Information Collected/Tracked by **BeenVerified™**
 
 As a general rule, BeenVerified™ does not request or collect any personally identifiable information directly from Non-Registered Users.
 
@@ -25,28 +25,28 @@ We gather Non-Registered Users’ server, IP address and browser-type related in
 
 When a Non-Registered User visits the Site, we send a cookie and/or gif file (“Cookie”) to assign an anonymous, unique identifier to the applicable Non-Registered User’s Internet browser. A Cookie is a piece of data stored on your hard drive containing non-personally identifiable information about you. Cookies have many benefits to enhance your experience at the Site. To find out more about Cookies, please visit [www.cookiecentral.com](http://www.cookiecentral.com/). To disable and reject certain Cookies, please reference above website for specific browser disabling information. Even in the case where a user rejects a Cookie, he or she may still use the Site. BeenVerified™ reserves the right to retain Cookie data indefinitely.
 
-**Use of Information Obtained by** **BeenVerified™**
+#### Use of Information Obtained by **BeenVerified™**
 
 As a general rule, BeenVerified™ does not collect any personally identifiable information from Non-Registered Users. BeenVerified™ reserves the right to release current or past Site Data: (a) in the event that we believe that the Site is being or has been used in violation of this Privacy Policy, the Terms and Conditions, the VM Agreement or to commit unlawful acts; (b) if the information is subpoenaed; or (c) if BeenVerified™ is sold or acquired. While BeenVerified™ strongly encourages clients, affiliates and partners to adopt responsible approaches to online marketing, BeenVerified™ is not responsible for the information practices of its clients, affiliates and/or partners. The collection, use and disclosure of information by clients, affiliates and/or partners is subject to their respective privacy policies, which may differ from the Privacy Policy. BeenVerified™ reserves the right to use all Site Data associated with Non-Registered Users to investigate fraudulent or other claims made against BeenVerified™.
 
 If you use a bulletin board, blog,or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-**Changes in our Privacy Policy**
+#### Changes in our Privacy Policy
 
 If we change our Privacy Policy, we will prominently post a link to those changes on our Site’s homepage so that our Non-Registered Users are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.  
 The Non-Registered User’s continued use of the Site after posting of the Privacy Policy change on the Site, or receipt of a Privacy Policy change notification e-mail, as applicable, constitutes an affirmative acknowledgement and acceptance by the Non-Registered User of the modified Privacy Policy.
 
 ### II. Registered Users
 
-**Information Collected/Tracked by** **BeenVerified™**
+#### Information Collected/Tracked by **BeenVerified™**
 
 BeenVerified™ gathers two types of information from Registered Users: information that Registered Users submit to us and information that is not directly submitted to us.
 
-**Information Submitted to** **BeenVerified™**
+#### Information Submitted to **BeenVerified™**
 
 To accomplish our goal of bringing Registered Browsers and Verified Members together, we must gather personal information from all Registered Browsers and Verified Members through the applicable Registration Forms. The Browser Registration may or may not require submission of the following information: (a) e-mail address; (b) full name; (c) company name; (d) date of birth; (e) a Verified Member-specified password; (f) mailing address; and (g) telephone number. The Member Registration may or may not require submission of the following information: (i) e-mail address; (ii) full name; (iii) company name; (iv) date of birth; (v) credit card information; (vi) mailing address; (vii) telephone number; (viii) employment history; (ix) employment status; (x) industry of employment; (xi) salary; (xii) credit score; (xiii) education level/degrees; (xiv) schools attended/years; (xv) professional licenses; (xvi) Social Security Number; and (xvii) any additional information required by the applicable Credential Profile or Identity Profile (as those terms are defined in the Terms and Conditions). Further, where the prospective Verified Member resides outside of the United States, the Member Registration may require “International Identity Verification” which requires the submission of a copy of one (1) of the following primary identification documents: (1) passport with photo and signature; (2) driver’s license with photo and signature; (3) state identification issued by a qualifying motor vehicle agency with photo and signature; (4) qualifying national identification card with photo and signature; or (5) qualifying military identification card with photo and signature; and one of the following secondary identification documents: (A) qualifying telephone bill; (B) qualifying utility bill; (C) qualifying cable or television bill; (D) bank statement; or (E) mortgage statement.
 
-**Information not Directly Submitted by** **Registered User** **s to** **BeenVerified™**
+#### Information not Directly Submitted by **Registered User** **s to** **BeenVerified™**
 
 We gather Registered Users’ server, IP address, browser-type, clicks, impressions and other traffic and/or consumer action related information in connection with the general administration of the Site (“Site Data”). BeenVerified™ reserves the right to transfer and/or sell Site Data about Registered Users for lawful purposes. The Site Data is comprised of the demographic, usage and/or other characteristics of Registered Users as a group. BeenVerified™ uses third party software for the purpose of tracking, aggregating, storing said registered user data. By using the Site you agree to allow BeenVerified™ to transfer and/or sell such aggregate data to third parties.
 
@@ -54,9 +54,9 @@ When a Registered User visits the Site, we send a cookie and/or gif file (“Coo
 
 If you use a bulletin board, blog,or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-**Use of Information Obtained by** **BeenVerified™**
+#### Use of Information Obtained by **BeenVerified™**
 
-**Sharing of the Information Gathered/Tracked by the Site**
+#### Sharing of the Information Gathered/Tracked by the Site
 
 Any personal information that you submit at the Site remains your property. However, by submitting that information to us, you grant to us the right to use your personal information, subject to applicable state and federal law, in the ways set forth herein. Other than as set forth herein to the contrary, all personally identifiable information that BeenVerified™ collects from Registered Users is intended for administrative needs (e.g., billing, communication of account information), for which purpose such data is required.
 
@@ -76,15 +76,15 @@ Notwithstanding the foregoing, BeenVerified™ may share personally identifiable
 
 To the extent that BeenVerified™ collects your credit card-specific information, if ever, we will use the information to process and complete any transaction that you request. By submitting your credit card information to us, you authorize BeenVerified™ to periodically verify that your credit card account continues to be a valid and active one by charging, and thereafter immediately crediting, a small sum to the card. Such verification may be conducted through a third-party and, in that case, BeenVerified™ would share your specific credit card information with this third-party for verification purposes. Apart from said uses, we will not share your credit card information with any third parties without your prior informed consent. Notwithstanding the foregoing, BeenVerified™ reserves the right to share with third parties the fact that we have credit card information on file for specific users, but we will not share your specific credit card information with third-parties without your prior informed consent.
 
-**Correcting/Updating or Removing Information**
+#### Correcting/Updating or Removing Information
 
 BeenVerified™ provides Registered Users with several options for modifying or removing their information from our database. Verified Members may remove any Verified Profiles appearing on the Site at any time, or revoke any Profile Display Privileges (as that term is defined in the Terms and Conditions) upon prior written notice to BeenVerified™. Please visit the link <http://www.beenverified.com/user/personal_info> or contact us at [help@beenverified.com](https://mail.google.com/mail?view=cm&tf=0&to=help@beenverified.com) for an explanation.
 
-**Changes in Our Privacy Policy**
+#### Changes in Our Privacy Policy
 
 If we change our Privacy Policy, we will prominently post a link to those changes on our Site’s homepage so that our Registered Users are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. The Registered User’s continued use of the applicable BeenVerified™ service, Site and/or continued receipt of BeenVerified™ e-mails after posting of the Privacy Policy change on the Site, or receipt of a Privacy Policy change notification e-mail, as applicable, constitutes an affirmative acknowledgment and acceptance by the Registered User of the modified Privacy Policy.
 
-**Security** ****
+#### Security
 
 BeenVerified™ takes every precaution to protect our Registered Users’ and non-Registered Users’ information. BeenVerified™ regularly reviews, at least once per year, its security practices to identify security threats or opportunities for improvement. When Registered Users submit sensitive information via the Site, we endeavor to keep this information protected both online and off-line. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk.
 
@@ -92,21 +92,21 @@ When we ask Registered Users to enter sensitive information (such as a credit ca
 
 If you have any questions about the security related to the Site, please contact us at [help@beenverified.com](https://mail.google.com/mail?view=cm&tf=0&to=help@beenverified.com).
 
-**E-mail Choice/Opt-out**
+#### E-mail Choice/Opt-out
 
 Registered Users who no longer wish to receive our notification e-mails or newsletters may opt-out of receiving these communications by contacting us at _[admin@beenverified.com](https://mail.google.com/mail?view=cm&tf=0&to=admin@beenverified.com)_
 
 ### III. General Provisions
 
-**Links**
+#### Links
 
 The Site contains links to other websites. Please be aware that BeenVerified™ is not responsible for the privacy practices of other websites. We encourage our Registered and Non-Registered Users to be aware when they leave the Site and to read the privacy policies of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by the Site.
 
-**Children’s Privacy**
+#### Children’s Privacy
 
 BeenVerified™ is very sensitive to the issue of children’s privacy and, therefore, we endeavor to protect the privacy of children using the Internet. The Site, as well as its products and services, are not developed for or directed at children. Visitors under eighteen (18) years of age are not eligible to do business with us and we do not knowingly solicit or collect personal information from any person that we actually know is under the age of eighteen (18). BeenVerified™ encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. If you believe that your child has provided BeenVerified™ with any personally identifiable information, please e-mail [admin@BeenVerified.com](https://mail.google.com/mail?view=cm&tf=0&to=admin@BeenVerified.com) to have this information removed.
 
-**Contacting the Site**
+#### Contacting the Site
 
 **** If you have any questions about this Privacy Policy, the practices of the Site, or your dealings with the Site, please contact us at [admin@beenverified.com,](https://mail.google.com/mail?view=cm&tf=0&to=admin@beenverified.com)
 
