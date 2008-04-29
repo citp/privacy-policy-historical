@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raveaboutit.com.au privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229183626id_/http%3A//www.raveaboutit.com.au/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raveaboutit.com.au privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430013753id_/http%3A//www.raveaboutit.com.au/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Local Business Reviews - Rave About It - Privacy Statement
 
