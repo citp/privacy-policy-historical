@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketupdatenetwork.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230133023id_/http%3A//www.marketupdatenetwork.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketupdatenetwork.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429201526id_/http%3A//www.marketupdatenetwork.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Market Update Network: Investor Communications Privacy Statement
 
