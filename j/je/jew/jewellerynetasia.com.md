@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230030251id_/http%3A//www.jewellerynetasia.com/privacy.aspx%3Flang%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429222822id_/http%3A//www.jewellerynetasia.com/privacy.aspx%3Flang%3D0) for the most accurate reproduction.*
 
 # JewelleryNetAsia.com - Asia's Leading On-line Network for the Jewellery and Gem Industries
 
@@ -49,7 +49,7 @@ Our general policy is to retain records of your visits and online dealings witho
 When you browse the Website, cookies may be stored in your computer's hard drive. We use cookies to personalise your use of the Website and to operate the service areas. You have a choice not to accept cookies, but if you do certain functionality may not be available. 
 
 **Security Measures**   
-We employ commercially reasonable security methods to prevent unauthorised access, maintain data accuracy and ensure correct use of information. However, we are enable to ensure that all your Personal and Business Data will never be disclosed or used in ways contrary to this Privacy Policy and are not liable in such circumstances. 
+We employ commercially reasonable security methods to prevent unauthorised access, maintain data accuracy and ensure correct use of information. However, we are unable to ensure that all your Personal and Business Data will never be disclosed or used in ways contrary to this Privacy Policy and are not liable in such circumstances. 
 
 In general, your Personal and Business Data is kept confidential and is only accessible by authorised personnel. We recommend that you do not divulge your User Login Name and Password to anyone. Our personnel will never ask you for your User Login Name and Password in an unsolicited phone call or in an unsolicited e-mail. Remember to sign out of your Account and close your browser window when you have finished your session with the Website. You are responsible for all activities that occur under your User Account and Password. 
 
