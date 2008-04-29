@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the nfoservers.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211033604id_/http%3A//www.nfoservers.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nfoservers.com privacy policy that was archived on 2008-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080430013149id_/http%3A//www.nfoservers.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta content="NuclearFallout Enterprises, Inc. rents high-quality game servers, Ventrilo servers, HLTV servers, and SourceTV servers to individuals and clans. We host Counter-strike 1.6 and Counter-strike Source servers, Day of Defeat (DoD), Team Fortress Classic (TFC), Call of Duty (CoD) and Call of Duty 2 (CoD2), BattleField 1942 and Vietnam (BF1942 and BFV), Battlefield 2 (BF2), Quake 3 (Q3 / Quake3) and Quake 4 (Q4 / Quake4), and Wolfenstein ET servers, among others. We offer unrivalled service and support, and our high-end server hardware is on some of the fastest bandwidth available, including InterNAP. Our game server rentals come with a host of features, including a powerful control panel, a free website and free email, and full FTP access." name="description">
 <meta content="nuclear fallout, nuclearfallout, game servers, server rentals, game server hosting, server hosting, counter-strike, counter strike, cs, counter-strike source, counter strike source, css, condition zero, cz, day of defeat, dod, team fortress classic, tfc, call of duty, unreal tournament 2004, ut2k4, ut2004, united offensive, wolfenstein et, hl2dm, natural selection, battlefield 2, bf2, quake 3, quake3, halo, desert combat, rtcw, hltv, sourcetv, srctv, mohaa" name="keywords">
-<title>NuclearFallout Enterprises :: Game Server Rentals and Hosting :: Privacy policy</title>
+<title>Game Server Rentals and Hosting :: Privacy policy :: Nuclearfallout Enterprises, Inc.</title>
 <style type="text/css">
 <!--
 body {
@@ -283,13 +283,20 @@ function faqindex(number, text) {
   document.write("<tr onmouseover=\"className='faqrowhl'\" onmouseout=\"className='faqrow'\"><td class=\"faqcell\"><a href=\"#"+number+"\"><span class=\"faq\">"+text+"</span></a></td></tr>");
   }
 
-//--><!]]></script>
 
-<script>
 function clearText(thefield){
 if (thefield.defaultValue==thefield.value)
 thefield.value = ""
 } 
+
+function flip(toflip) {
+  if (document.getElementById(toflip).style.display=="none") {
+    document.getElementById(toflip).style.display="";
+  }
+  else document.getElementById(toflip).style.display="none";
+}
+
+//--><!]]>
 </script>
 
 
@@ -308,12 +315,18 @@ thefield.value = ""
         <td><ul id="nav">
       <li><a href="index.php"><img src="nav/1.png" width="146" height="34" border="0" alt="NuclearFallout server rental main page, where we also post specials and the benefits of renting a top-quality game server from us"></a></li>
       <li><a href="newsandupdates.php"><img src="nav/2.png" width="146" height="34" border="0" alt="The latest news on Nuclear Fallout's game servers"></a></li>
-	  <li><a href="order.php"><img src="nav/7.png" width="146" height="34" border="0" alt="Rent one of the finest game, Ventrilo, HLTV, or SourceTV servers available here"></a></li>
+      <li><a href="#"><img src="nav/7.png" width="146" height="34" border="0" alt="Rent one of the finest dedicated, game, Ventrilo, HLTV, or SourceTV servers available here"></a>
+          <ul>
+            <li><a href="https://www.nfoservers.com/order.php">+ Game/Ventrilo</a></li>
+            <li><a href="https://www.nfoservers.com/order-dedicated-server.php">+ Full machine</a></li>
+          </ul>
+      </li>
+
       <li><a href="#"><img src="nav/3.png" width="146" height="34" border="0" alt="In this menu, you'll find pages that contain more information on the nine locations where we offer fast game servers"></a>
           <ul>
             <li><a href="features.php">+ Features</a></li>
             <li><a href="networklocations.php">+ Network/sites</a></li>
-			      <li><a href="gameservertypes.php">+ Game types</a></li>
+			      <li><a href="servertypes.php">+ Server types</a></li>
             <li><a href="clientserverlisting.php">+ Server Listing</a></li>
           </ul>
       </li>
@@ -331,16 +344,16 @@ thefield.value = ""
 
       <li><a href="#"><img src="nav/5.png" width="146" height="34" border="0" alt="In this menu, you'll find pages that will help to answer questions you may have about NFo."></a>
 	  		<ul>
-            <li><a href="http://rentalforums.nuclearfallout.net" target="_blank">+ Forums</a></li>
+            <li><a href="http://www.nfoservers.com/forums" target="_blank">+ Forums</a></li>
             <li><a href="faqs.php">+ FAQs</a></li>
-			<li><a href="http://rentalforums.nuclearfallout.net/viewforum.php?f=8" target="_blank">+ Tutorials</a></li>
+			<li><a href="http://www.nfoservers.com/forums/viewforum.php?f=8" target="_blank">+ Tutorials</a></li>
             <li><a href="http://files.nfoe.net" target="_blank">+ Files</a></li>
             <li><a href="irc://NuclearFallout.WA.US.GameSurge.net/nfo-support">+ IRC</a></li>
             <li><a href="contactus.php">+ Contact Us</a></li>
           </ul>
       </li>
 	
-      <li><a href="#" onclick="window.open('http://control.nuclearfallout.net','_blank','scrollbars=yes,width=790,height=600,resizable=no,status=yes');"><img src="nav/6.png" alt="Our control panel" width="146" height="34" border="0"></a></li>
+      <li><a href="#" onclick="window.open('https://www.nfoservers.com/control','_blank','scrollbars=yes,width=790,height=600,resizable=no,status=yes');"><img src="nav/6.png" alt="Our control panel" width="146" height="34" border="0"></a></li>
 
     </ul>   </td>
       </tr>
@@ -478,7 +491,7 @@ The effective date of the current privacy policy is June 28, 2004.
       </tr>
       <tr>
       <td height="25" id="small"><h3><a href="partnersandreselling.php">+ Reseller Program</a></h3>
-          Know a lot about gameservers and have some spare time on your hands that you'd like to convert to money? Start your own GSP through our reseller program!</td>
+          Know a lot about game servers and have some spare time on your hands that you'd like to convert to money? Start your own GSP through our reseller program!</td>
         
       </tr>
     </tbody></table></td>
