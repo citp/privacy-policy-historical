@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229153543id_/http%3A//www.cablewholesale.com/index.php%3Fbody%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429212336id_/http%3A//www.cablewholesale.com/index.php%3Fbody%3DPrivacy) for the most accurate reproduction.*
 
 # video splitter,cat 5 cable,computer cable,switch box,vga splitter,usb cable,usb adaptor, custom cable,category 5 cable,network cable,cat 5 cable,kvm switch,svga cable,usb converter,cooling fan
 
@@ -47,4 +47,4 @@ Postal Code:
   
 [ [Terms & Conditions](https://web.archive.org/index.php?body=Terms) ] [ [Employment](https://web.archive.org/index.php?body=Employment) ] [ [About Us](https://web.archive.org/index.php?body=About%20Us) ] [ [OEM](https://web.archive.org/index.php?body=OEM) ]   
 [ [© Copyright CableWholesale.com / National Technology](https://web.archive.org/index.php?body=Copyright) ]   
-_Last Updated: December 28, 2007_
+_Last Updated: April 28, 2008_
