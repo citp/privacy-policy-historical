@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the mindtouch.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223012153id_/http%3A//wiki.mindtouch.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtouch.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429193413id_/http%3A//wiki.mindtouch.com/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy - MindTouch
+# Privacy Policy - MindTouch Deki Wiki
+
+## Privacy Policy
 
 This web site (the "Web Site") provides a variety of information and services, for investors, customers, prospective customers, resellers and others. Because the success of this Web Site is dependent on building and maintaining goodwill with our users, we are committed to implementing measures designed to protect the privacy of those using our website and services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
 Although we respect the privacy of all those who visit the Web Site and use our online services, we do collect information from our Web Site's members and visitors. This Privacy Policy governs your interaction with the Web Site, and your registration for and use of this Web Site's online services where available. Except as set forth within this Privacy Policy and this Web Site's Terms of Service and/or other published guidelines, we do not release personally identifiable information about this Web Site's visitors without their permission.
 
-Please note that we review these privacy practices from time to time, and that these practices are therefore subject to change. We ask that you periodically review this page to ensure continuing familiarity with the most current version of this Web Site's Privacy Policy. To contact us about privacy issues, to report a violation of this Web Site's Privacy Policy, or to raise any other issue regarding the Web Site, please email us at [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com "mailto:webmaster@mindtouch.com").   
-
+Please note that we review these privacy practices from time to time, and that these practices are therefore subject to change. We ask that you periodically review this page to ensure continuing familiarity with the most current version of this Web Site's Privacy Policy. To contact us about privacy issues, to report a violation of this Web Site's Privacy Policy, or to raise any other issue regarding the Web Site, please email us at [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com "mailto:webmaster@mindtouch.com").
 
 ### The information we gather
 
@@ -25,8 +26,7 @@ Essentially, cookies are your identification cards for our computers, or servers
 
 We do not knowingly collect personally identifiable information from children (defined herein as minors younger than 13 years of age) without obtaining parental consent. Before registering for an account to use the Services of the Web Site, we ask that all minors have their parents read our Privacy Policy. Before and during the registration process, we encourage all minors to include a parent or guardian in the process.
 
-We do not control the acts of this Web Site's members or visitors. All members and visitors should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guest book, or other forum, the information may be collected and used by others to send that person unsolicited email from other parties. In the event that you encounter any user on this Web Site who is improperly collecting or using information about you or other users, please contact [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com "mailto:webmaster@mindtouch.com").   
-
+We do not control the acts of this Web Site's members or visitors. All members and visitors should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guest book, or other forum, the information may be collected and used by others to send that person unsolicited email from other parties. In the event that you encounter any user on this Web Site who is improperly collecting or using information about you or other users, please contact [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com "mailto:webmaster@mindtouch.com").
 
 ### How we use (and do not use) the information we gather
 
@@ -44,15 +44,12 @@ Finally, we may use individual members' data to "pre-populate" forms which are d
 
 We reserve the right to release any and all information contained within our access logs concerning any visitor when that visitor is in violation of our Terms of Service or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, even without a subpoena, warrant, or other court order, and to release such information in response to discovery requests, or in response to any circumstance which we, in our sole discretion, deem an emergency. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution.
 
-If and when we sponsor promotions, we will post relevant privacy information in the official rules and/or registration area for the promotion. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular promotion.   
-
+If and when we sponsor promotions, we will post relevant privacy information in the official rules and/or registration area for the promotion. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular promotion.
 
 ### Security
 
-All information gathered on the Web Site is stored within a controlled database accessible only to us to protect the loss, misuse, or alteration of the information under our control. However, as effective as any security measure implemented by us may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Questions regarding this Privacy Policy should be directed to us at [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com "mailto:webmaster@mindtouch.com").   
-
+All information gathered on the Web Site is stored within a controlled database accessible only to us to protect the loss, misuse, or alteration of the information under our control. However, as effective as any security measure implemented by us may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Questions regarding this Privacy Policy should be directed to us at [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com "mailto:webmaster@mindtouch.com").
 
 ### Changing/deleting personal information
 
-If you would like to have your personally identifiable information changed or removed from our database, please contact us at [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com "mailto:webmaster@mindtouch.com"), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to re-contact former customers or users of this Web Site.   
-
+If you would like to have your personally identifiable information changed or removed from our database, please contact us at [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com "mailto:webmaster@mindtouch.com"), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to re-contact former customers or users of this Web Site.
