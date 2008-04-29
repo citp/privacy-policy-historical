@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisd.us privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229223221id_/http%3A//www.wisd.us/WISD_Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisd.us privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429171759id_/http%3A//www.wisd.us/WISD_Privacy_Statement.html) for the most accurate reproduction.*
 
 # WISD Privacy Statement
 
