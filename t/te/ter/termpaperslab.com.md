@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the termpaperslab.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226192359id_/http%3A//www.termpaperslab.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termpaperslab.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430005152id_/http%3A//www.termpaperslab.com/privacy.php) for the most accurate reproduction.*
 
 # Term Papers Lab : Privacy Policy
+
+## Term Papers Lab - A concoction of college term papers and research papers
+
+### 
 
 TermPapersLab.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: 
 
@@ -36,7 +40,6 @@ By using TermPapersLab.com, you agree to this Privacy Policy. If you do not agre
 
 Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at privacy @ termpaperslab.com.   
-  
-Search Term Papers Lab:   
-Search our database of college term papers and written research papers. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at privacy @ termpaperslab.com. 
+
+### 
