@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nandosperiperi.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225234835id_/http%3A//www.nandosperiperi.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nandosperiperi.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429234241id_/http%3A//www.nandosperiperi.com/privacy.asp) for the most accurate reproduction.*
 
 # Nando’s marinades and sauces Privacy Policy
 
-  **Privacy Policy**
+**Privacy Policy**
 
 **Security and Privacy at Nando’s Chickenland**
 
