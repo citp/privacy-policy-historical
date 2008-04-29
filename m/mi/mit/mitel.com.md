@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mitel.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229011837id_/http%3A//www.mitel.com/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitel.com privacy policy that was archived on 2008-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080429215826id_/http%3A//www.mitel.com/jsp/privacy.jsp) for the most accurate reproduction.*
 
 # Mitel Networks: Public Privacy Policy
+
+| | 
 
 **Mitel Networks Corporation**
 
@@ -92,3 +94,6 @@ Mitel Networks will not respond to repetitious or vexatious requests for access.
 **AMENDMENT OF MITEL NETWORKS’ PRACTICES AND THIS POLICY**
 
 This statement is in effect as of January 1, 2004.  Mitel Networks will from time to time review and revise its privacy practices and this Privacy Policy.  In the event of any amendment, an appropriate notice will be posted on Mitel Networks’ web site. Other means may also be used to provide notice of any change in policy and practices.  Policy changes will apply to the information collected from the date of posting of the revised Policy Statement to Mitel Networks’ web site as well as to existing information held by Mitel Networks. 
+
+|   
+---|---|---
