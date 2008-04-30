@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astro.com.my privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211132220id_/http%3A//www.astro.com.my/footer/privacy_policy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astro.com.my privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430042516id_/http%3A//www.astro.com.my/footer/privacy_policy/default.asp) for the most accurate reproduction.*
 
 # Astro :: Making Your Life Richer
 
