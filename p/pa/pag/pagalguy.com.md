@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229064318id_/http%3A//www.pagalguy.com/index.php%3Fcategoryid%3D89) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430084633id_/http%3A//www.pagalguy.com/index.php%3Fcategoryid%3D89) for the most accurate reproduction.*
 
-# PaGaLGuY.com - The Everything of MBA, CAT 2007, GMAT, XAT, CAT 2008, SNAP, IIM - Privacy Policy
+# PaGaLGuY.com - The Everything of MBA, CAT 2008, GMAT, XAT, IIM - Privacy Policy
 
 Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Web pages created or maintained by **Inzane Labs Pvt. Ltd.** without telling us who you are or revealing any Personal Information about yourself.
 
