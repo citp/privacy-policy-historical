@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anytimeproperty.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230153129id_/http%3A//www.anytimeproperty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimeproperty.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430173642id_/http%3A//anytimeproperty.com/privacy.php) for the most accurate reproduction.*
 
 # Any time Property
 
