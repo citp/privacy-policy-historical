@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.com.sg privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225162031id_/http%3A//pages.ebay.com.sg/help/policies/privacy-policy.html%3FssPageName%3Df%3Af%3ASG) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.com.sg privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430143153id_/http%3A//pages.ebay.com.sg/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
@@ -113,7 +113,7 @@ Following registration, you can review and change the information you submitted 
 
   * [Your password](http://signin.ebay.com.sg/ws/eBayISAPI.dll?ChangePasswordAndCreateHint) (if you have supplied such information).
 
-  * [ Your credit card number and expiration date, and other financial information](https://arribada.ebay.com.sg/saw-cgi/eBayISAPI.dll?PlaceCCInfo). 
+  * [ Your credit card number and expiration date, and other financial information](https://arbd.ebay.com.sg/ws/eBayISAPI.dll?SetupCCPayment). 
 
 
 
@@ -134,7 +134,7 @@ Your Information is stored on eBay Inc.'s server located in the United States. W
 
 ###  Notice
 
-We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least thirty (30) days' notice of the changes by posting the changes on the announcements board and sending email to users who select such [notification preference](http://cgi4.ebay.com.sg/ws/eBayISAPI.dll?OptinLoginShow).  We provide you with thirty (30) days notice to allow you the opportunity to notify eBay if you do not agree to such changes as described in [Section 8](http://pages.ebay.com.sg/help/policies/privacy-policy.html?ssPageName=f:f:SG#change_info). 
+We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least thirty (30) days' notice of the changes by posting the changes on the announcements board and sending email to users who select such [notification preference](http://cgi4.ebay.com.sg/ws/eBayISAPI.dll?OptinLoginShow). We provide you with thirty (30) days notice to allow you the opportunity to notify eBay if you do not agree to such changes as described in [Section 8](http://pages.ebay.com.sg/help/policies/privacy-policy.html?ssPageName=f:f:SG#change_info). 
 
   
 **Related Help topics**  
