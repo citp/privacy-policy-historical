@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bananarepublic.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224071658id_/http%3A//www.bananarepublic.com/customerService/info.do%3Fcid%3D1330) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bananarepublic.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430123436id_/http%3A//www.bananarepublic.com/customerService/info.do%3Fcid%3D1330) for the most accurate reproduction.*
 
 # Privacy Policy | Banana Republic
 
