@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shoutfile.com privacy policy that was archived on 2007-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070930191227id_/http%3A//www.shoutfile.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutfile.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430110858id_/http%3A//www.shoutfile.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The following information explains what we do with the information you give us. All information you give us is held on computers under the control of Shoutfile. If at any time you have a question about anything contained in this statement or a general query on privacy please do not hesitate to contact us at: [shoutfile@gmail.com](mailto:shoutfile@gmail.com). 
+###  The following information explains what we do with the information you give us. All information you give us is held on computers under the control of Shoutfile. If at any time you have a question about anything contained in this statement or a general query on privacy please do not hesitate to [contact us](https://web.archive.org/contact). 
 
 **How we collect information from you**
 
