@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theaterseatstore.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220020151id_/http%3A//www.theaterseatstore.com/1/1/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaterseatstore.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430095634id_/http%3A//www.theaterseatstore.com/1/1/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# Theater Seat Store - Your ticket to comfort!
+# Privacy Policy - Theater Seat Store
 
 **WE ARE COMMITTED TO YOUR PRIVACY!**
 
