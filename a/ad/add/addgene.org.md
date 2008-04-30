@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addgene.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225094906id_/http%3A//www.addgene.org/pgvec1%3Ff%3Da%26cmd%3Dshowfile%26file%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addgene.org privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430101737id_/http%3A//www.addgene.org/pgvec1%3Ff%3Da%26cmd%3Dshowfile%26file%3Dprivacy) for the most accurate reproduction.*
 
 # Addgene - Privacy Information
 
