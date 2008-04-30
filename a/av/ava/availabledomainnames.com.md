@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the availabledomainnames.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213094222id_/http%3A//availabledomainnames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the availabledomainnames.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430160125id_/http%3A//availabledomainnames.com/privacy-policy) for the most accurate reproduction.*
 
-# Available Domain Names » Privacy Policy
+# Privacy Policy
 
 This site is owned and operated by AvailableDomainNames.com. Your privacy on the Internet is of the utmost importance to us. At AvailableDomainNames.com, we want to make your experience online satisfying and safe.
 
