@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the asa.org.uk privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219212702id_/http%3A//www.asa.org.uk/asa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asa.org.uk privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430192538id_/http%3A//www.asa.org.uk/asa/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Skip Navigation
 
 ## Information on how we use your data and how we use cookies on our site
 
