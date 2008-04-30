@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoworkers.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225171335id_/http%3A//www.seoworkers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoworkers.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430022634id_/http%3A//www.seoworkers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SEO Workers Web Site Privacy Policy & Important Notices
 
@@ -142,7 +142,7 @@ A child under 13 years old may inadvertently provide personal information to one
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-You can send e-mail to: [Reveal the e-mail address](http://mailhide.recaptcha.net/d?k=01oHQdJ7ZoW_n_mXTdlxd7Ag==&c=Z19NDeFCsQ_5S2jn0CH5DSuBCAl7Agq8aVgosJrO_6M=).
+**You can send e-mail to:** info[at]seoworkers.com
 
 You can send mail to the following postal address:
 
@@ -161,7 +161,7 @@ You can call one of the following telephone/fax numbers:
 
 **Facsimile (fax):** +49-821-2594908
 
-**Office Phone Hours:** Mo-Fri: 4pm-11pm [(CET)](http://timeanddate.com/worldclock/city.html?n=970 " \[Opens in pop-up window\]").
+**Office Phone Hours:** Mo-Fri: 4pm-11pm [(CET)](https://web.archive.org/locate/?m=cet " \[Opens in pop-up window\]").
 
 ### Web Site Security Notice
 
@@ -218,7 +218,7 @@ Web Architect & Business Consultant
 
 **Telephone:** +49-821-2594908
 
-**E-mail:** [Reveal the e-mail address](http://mailhide.recaptcha.net/d?k=01oHQdJ7ZoW_n_mXTdlxd7Ag==&c=Z19NDeFCsQ_5S2jn0CH5DSuBCAl7Agq8aVgosJrO_6M=).
+**E-mail:** info[at]seoworkers.com
 
 **Date of publication:** October, 2006.
   *[CD]: Compact Disc
