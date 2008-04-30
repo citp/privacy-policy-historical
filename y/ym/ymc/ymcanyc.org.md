@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ymcanyc.org privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230021131id_/http%3A//www.ymcanyc.org/index.php%3Fid%3D924) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymcanyc.org privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430095532id_/http%3A//www.ymcanyc.org/index.php%3Fid%3D924) for the most accurate reproduction.*
 
 # Privacy Policy
 
