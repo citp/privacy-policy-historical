@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011031905id_/http%3A//www.hoboken411.com/archives/4346) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430161627id_/http%3A//www.hoboken411.com/archives/4346) for the most accurate reproduction.*
 
-# Privacy Policy - Hoboken411 » The NEW online guide for Hoboken, NJ
+# Privacy Policy - Hoboken 411 » Hoboken's Leading Web Community
 
 The following Privacy Policy summarizes the various ways that hoboken411.com (”Service Provider,” “we” or “our”) treats the information you provide while using www.hoboken411.com (”Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
@@ -34,5 +34,3 @@ If you’re worried about your children’s activities or their privacy on our s
 **V. PRIVACY POLICY CONTACT**  
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Contact:  
 Email: Hoboken411copyright@gmail.com
-
-_Related Link:_ [Xbox 360](http://www.forumla.de/f-microsoft-xbox-360-forum-34/) board. Discuss about the xbox360 console here. 
