@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the fleshjack.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210095628id_/http%3A//www.fleshjack.com/shop.php%3Fcid%3D156) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshjack.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501120927id_/http%3A//www.fleshjack.com/faq-privacy-policy) for the most accurate reproduction.*
 
 # Fleshjack
 
 ---  
-[Design Your Own](https://web.archive.org/dyo.php) [All-American Jack](https://web.archive.org/all-american-jack/) [Classic Jack Ass](https://web.archive.org/classic-jack-ass/) [Endurance Jack](https://web.archive.org/endurance-jack/) [Mr Limpy](https://web.archive.org/mr-limpy/) [Packages](https://web.archive.org/packages/) [Lubes](https://web.archive.org/lubes/) [Anal](https://web.archive.org/anal/) [Enhancers](https://web.archive.org/enhancers/) [Cases](https://web.archive.org/cases/) [Inserts](https://web.archive.org/inserts/)
-
-[](http://valleyaids.org/)
+[Design Your Own](https://web.archive.org/design-your-own/) [All-American Jack](https://web.archive.org/all-american-jack/) [Classic Jack Ass](https://web.archive.org/classic-jack-ass/) [Endurance Jack](https://web.archive.org/endurance-jack/) [Mr Limpy](https://web.archive.org/mr-limpy/) [Packages](https://web.archive.org/packages/) [Lubes](https://web.archive.org/lubes/) [Ice Jack](https://web.archive.org/ice-jack/) [Anal](https://web.archive.org/anal/) [Enhancers](https://web.archive.org/enhancers/) [Cases](https://web.archive.org/cases/) [Inserts](https://web.archive.org/inserts/)
 
 [](https://www.scanalert.com/RatingVerify?ref=www.fleshjack.com)
 
@@ -42,10 +40,12 @@ By registering with www.Fleshjack.com, purchasing products from www.Fleshjack.co
 If you have a privacy question about our website, please submit a Ticket here: [http://support.fleshlight.com/index.php?_m=tickets&_a=submit](http://support.fleshlight.com/index.php?_m=tickets&_a=submit)  
   
   
+  
 | 
 
-Email Specials!  
+Email Specials!   
   
 ---  
+Sign-up today to receive personalized product tips, feature articles, and latest specials on our products  |   
   
-Sign-up today to receive personalized product tips, feature articles, and latest specials on our products
+
