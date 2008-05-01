@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225155852id_/http%3A//www.digiguide.com/general/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501091814id_/http%3A//www.digiguide.com/general/privacy.shtml) for the most accurate reproduction.*
 
 # DigiGuide: The Best TV Guide - Privacy Statement
 
@@ -21,9 +21,11 @@ We ask for your address so we can auto-complete your credit card details when pu
 
 **We respect** your privacy and all data provided is protected under UK law by the Data Protection Act (1998).
 
-**We promise not to sell or share** any of your personal details obtained by our account system to any third party.
+**We promise not to sell or share any** of your personal details obtained by our account system to any third party.
 
 **We promise not to send any unsolicited e-mail.** The only e-mails you will receive from us are subscription reminders or security notices from this account system, the newsletters you have specifically asked to receive or an occasional e-mail from members of staff.
+
+**We promise not to call or send unsolicited SMS messages to your mobile phone.** The only messages you will receive will be by your request through the programme reminder systems.
 
   
 
@@ -65,6 +67,3 @@ If you've set your browser to warn you before accepting cookies, you will receiv
 ### Questions
 
 Miranda Wood is our appointed data controller. If you have any questions regarding our privacy statement, we are only too happy to answer them. In this regard, please contact [mirandaw@gipsymedia.com](mailto:mirandaw@gipsymedia.com).
-
-  
-
