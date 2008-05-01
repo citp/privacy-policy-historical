@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228043453id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501054224id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html) for the most accurate reproduction.*
 
 # Southwest Airlines Privacy Policy
 
@@ -133,7 +133,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 ### Log Files and Cookies
 
-We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site in aggregate  
+We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site in aggregate.  
 We do not link automatically-collected data to personally identifiable information. 
 
 _**Log Files**_
