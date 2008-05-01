@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the railwaygazette.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225161213id_/http%3A//www.railwaygazette.com/%3Fid%3D140) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railwaygazette.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501235936id_/http%3A//www.railwaygazette.com/%3Fid%3D140) for the most accurate reproduction.*
 
 # Railway Gazette: Railway Gazette's Privacy policy
 
@@ -44,3 +44,5 @@ Cookies are small pieces of information placed by us on your computer which enab
 You have the option to decline cookies, but if you decline you may not be able to access all the functionality of the site. We strongly recommend you accept any cookies used by this site. 
 
 In addition, the third party companies who sell and provide advertisements to the site make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: <http://www.adtech.info/privacy_en.php>   [www.webtrendslive.com](http://www.webtrendslive.com/)
+
+|  | 
