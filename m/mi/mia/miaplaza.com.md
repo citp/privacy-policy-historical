@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225235827id_/http%3A//www.miaplaza.com/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501184008id_/http%3A//www.miaplaza.com/help/Privacy.aspx) for the most accurate reproduction.*
 
 # miaplaza - Privacy Policy
+
+##  Privacy Policy 
 
 Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy: 
 
@@ -45,7 +47,7 @@ You may provide additional information about yourself in the Interests section, 
 
 _Information about your Contacts:_
 
-In order to invite others to connect with you directly in **mia** plaza, you will enter their names and email addresses. This information will be used by **mia** plaza to send your invitation including a message that you write. The names and email addresses of people that you invite will be used only to send the one invitation and any reminders you ask us to send either at the time of the first invitation or later; they will not be used by **mia** plaza to contact them for any other reason. Should the person you invite wish that their email information be removed from miaplaza files, the person wishing their information removed can contact us at [customer.service@miaplaza.com](mailto:customer.service@miaplaza.com). 
+In order to invite others to connect with you directly in **mia** plaza, you will enter their names and email addresses. This information will be used by **mia** plaza to send your invitation including a message that you write. The names and email addresses of people that you invite will be used only to send the one invitation and any reminders you ask us to send either at the time of the first invitation or later; they will not be used by **mia** plaza to contact them for any other reason. Should the person you invite wish that their email information be removed from miaplaza files, the person wishing their information removed can contact us at any time. 
 
 **Cookies & Log Files**
 
@@ -69,7 +71,7 @@ We transfer Information and Personally Identifiable Information outside of Europ
 
 **_mia_ plaza Communications**
 
-**mia** plaza will communicate with you through email and notices posted on this website. These includes occasional emails to inform you about various features of the service. Please note that you can opt out of any or all types emails from **mia** plaza by changing preferences on your Manage Communications Settings page, which you can get to using the link provided on the bottom of each email (login is required). If you have difficulties changing these settings, please contact [customer.service@miaplaza.com](mailto:customer.service@miaplaza.com).
+**mia** plaza will communicate with you through email and notices posted on this website. These includes occasional emails to inform you about various features of the service. Please note that you can opt out of any or all types emails from **mia** plaza by changing preferences on your Manage Communications Settings page, which you can get to using the link provided on the bottom of each email (login is required). If you have difficulties changing these settings, please contact us.
 
 **Customized Content**
 
@@ -93,11 +95,11 @@ It is possible that we may need to disclose personal information when required b
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our Web site, you can send email us at customer.service@miaplaza.com 
+If you have any questions about security on our Web site, you please contact us. 
 
 **Accessing and Changing Your Account Information**
 
-You can review the personal information you provided us and make any desired changes to the information, or to the settings for your **mia** plaza account, at any time by logging in to your account on the **mia** plaza website and editing the information on your Manage Account page. To request that we close your account and remove your information please send your request to [cancel@miaplaza.com](mailto:cancel@miaplaza.com). Please send your request using an email account that you have registered with **mia** plaza under your name. You will receive a response to requests sent to [customer.service@miaplaza.com](mailto:customer.service@miaplaza.com) within five business days of our receiving it.
+You can review the personal information you provided us and make any desired changes to the information, or to the settings for your **mia** plaza account, at any time by logging in to your account on the **mia** plaza website and editing the information on your Manage Account page. To request that we close your account and remove your information please send us your request and we will take care of it. Please send your request using an email account that you have registered with **mia** plaza under your name. You will receive a response to requests sent to us within five business days of our receiving it.
 
 **Changes to this Privacy Policy**
 
@@ -105,4 +107,4 @@ You can review the personal information you provided us and make any desired cha
 
 **Questions or Comments**
 
-If you have questions or comments about this privacy policy, please email us at [legal@miaplaza.com](mailto:legal@miaplaza.com). We can be reached by mail at 428 El Verano Ave.; Palo Alto, California 94306, USA.
+If you have questions or comments about this privacy policy, please contact us. We can be reached by mail at 428 El Verano Ave.; Palo Alto, California 94306, USA.
