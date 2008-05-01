@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the batteriesinaflash.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607154525id_/http%3A//www.batteriesinaflash.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteriesinaflash.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501190806id_/http%3A//www.batteriesinaflash.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : BatteriesInAFlash.Com, Batteries & Chargers for Camcorders, Laptops, iPods & more
+# Privacy Notice : BatteriesInAFlash.Com™, Batteries & Chargers for Camcorders, Laptops, iPods & more
 
 Effective 1/1/2004 
 
@@ -10,7 +10,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the BatteriesInAFlash.Com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the BatteriesInAFlash.Com™ website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
 Name  
 Address  
