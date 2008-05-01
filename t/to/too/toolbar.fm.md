@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolbar.fm privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222225224id_/http%3A//toolbar.fm/privacy/WebsitePrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolbar.fm privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501041921id_/http%3A//toolbar.fm/privacy/WebsitePrivacy.aspx) for the most accurate reproduction.*
 
 # Website Privacy
 
@@ -60,10 +60,8 @@ Conduit is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, n
 
 The TRUSTe program only covers information that is collected through this Website, and does not cover information that may be collected through any software downloaded from this Website. 
 
-**Conduit ltd.  
-5 Golda Meir Street   
-Park Ta’asiyot Hamada   
-Ness Ziona 74140   
-Israel**
+**Conduit  
+71 Stevenson Street, Suite 400  
+San Francisco, CA 94105**
 
 Let us show you how easy and quick it is to create your Conduit community toolbar
