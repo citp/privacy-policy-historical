@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpa2biz.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225121715id_/http%3A//www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Footer/General_Site_Information/Privacy_Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpa2biz.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501213753id_/http%3A//www.cpa2biz.com/AST/AICPA_CPA2BiZ_Nav/Footer/General_Site_Information/Privacy_Policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
