@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyassist.gov.au privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231053227id_/http%3A//www.familyassist.gov.au/Internet/FAO/fao1.nsf/content/about_us-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyassist.gov.au privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501035159id_/http%3A//www.familyassist.gov.au/Internet/FAO/fao1.nsf/content/about_us-privacy.htm) for the most accurate reproduction.*
 
 # Family Assistance Office | Your privacy
 
@@ -46,8 +46,8 @@ If you do not wish to contact FaHCSIA via the Internet, FaHCSIA provides alterna
 ##  **Contact Details**
 
 Department of Families, Housing, Community Services and Indigenous Affairs  
-Box 7788  
-Canberra Mail Centre ACT 2610  
+PO Box 7576  
+Canberra Business Centre ACT 2609  
 Telephone: 1300 653 227
 
 [ [Top](http://www.familyassist.gov.au/internet/fao/fao1.nsf/content/about_us-privacy.htm#top) ]
