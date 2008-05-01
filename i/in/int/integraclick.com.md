@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the integraclick.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221033106id_/http%3A//www.integraclick.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integraclick.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501185305id_/http%3A//www.integraclick.com/privacypolicy.html) for the most accurate reproduction.*
 
 # IntegraClick
 
@@ -6,8 +6,8 @@ This is the web site of IntegraClick inc..
 
 Our postal address is   
 IntegraClick inc.  
-342 S. Tamiami Trail, Suite 201   
-Nokomis, Florida 34275 
+301 N. Cattlement Road, Suite 300   
+Sarasota, Florida 34232 
 
 We can be reached via e-mail at john@integraclick.com  
 or you can reach us by telephone at 941.483.4188
