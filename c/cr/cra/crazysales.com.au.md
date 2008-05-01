@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crazysales.com.au privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102170814id_/http%3A//www.crazysales.com.au/index.php%3Fshow_aux_page%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazysales.com.au privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502002438id_/http%3A//www.crazysales.com.au/index.php%3Fshow_aux_page%3D6) for the most accurate reproduction.*
 
-# Privacy Statement - CrazySales.com.au
+# Privacy Statement - crazysales.com.au Australia
 
 |  Introduction   
 This web site is subject to the National Privacy Principles under the Australian Privacy Act 1988 (as amended by the Privacy Amendment (Private Sector) Act 2000). This Privacy Statement explains in general terms how we protect the privacy of your personal information under the National Privacy Principles. It will apply to any personal information you provide to us when registering with us.   
