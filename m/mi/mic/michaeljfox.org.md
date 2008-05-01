@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011060221id_/http%3A//www.michaeljfox.org/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501140319id_/http%3A//www.michaeljfox.org/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # The Michael J. Fox Foundation for Parkinson's Research - Privacy Policy
 
