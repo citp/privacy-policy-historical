@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the summitcreditunion.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229152545id_/http%3A//www.summitcreditunion.com/summit.php%3Fpage%3D109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summitcreditunion.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501084450id_/http%3A//www.summitcreditunion.com/summit.php%3Fpage%3D109) for the most accurate reproduction.*
 
 # Summit Credit Union - Do More. Start Here.
+
+**Summit Credit Union Privacy Policy**
 
 Summit Credit Union has always recognized our responsibility to protect your privacy. Working with you to safeguard your personal information is very important to us.
 
@@ -54,11 +56,18 @@ You may request that we not share personal information with certain non-affiliat
 
 Please note that while at this time, we have not established any relationship that this opt-out will apply toward, there may be an opportunity in the future that we feel is beneficial for you. An example would be special benefits for SCU members with travel clubs or retail stores.
 
-If you still choose to exercise an opt-out request, call 800-236-5560, or [click here](https://web.archive.org/summit.php?page=173&lnk=p) if you have received this electronically.
+**Joint/Multiple Accounts**
+
+  * If you have a joint account, your opt out applies to every person on the account.
+  * If you have multiple accounts with us, you must opt out separately for each account.
+
+
+
+If you still choose to exercise an opt-out request, call 800-236-5560, or [click here](https://web.archive.org/summit.php?page=173) if you have received this electronically.
 
 Once we receive your request, we have a reasonable amount of time to stop the disclosures. You can contact us any time to revoke your opt-out election.
 
-If you would like clarification of these conditions, please call or visit our Web site at www.summitcreditunion.com for a list of [Frequently Asked Questions](https://web.archive.org/summit.php?page=172&lnk=p).
+If you would like clarification of these conditions, please call or visit our Web site at www.summitcreditunion.com for a list of [Frequently Asked Questions](https://web.archive.org/summit.php?page=172).
 
 **Here's what you can do to protect your privacy**  
 While we have a large role in safeguarding your personal information, our efforts are futile if you don't take adequate measures to protect your privacy.
