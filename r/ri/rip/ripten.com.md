@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ripten.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219233553id_/http%3A//www.ripten.com/%3Fpage_id%3D113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripten.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501074918id_/http%3A//www.ripten.com/%3Fpage_id%3D113) for the most accurate reproduction.*
 
-# Privacy Policy | ripten
+# Privacy Policy |
 
 This is the web site of **ripten**.  
 Our postal address is:  
