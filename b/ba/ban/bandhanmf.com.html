@@ -1,0 +1,353 @@
+<!--The following is the downloaded HTML source of the bandhanmf.com privacy policy that was archived on 2008-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080501071239id_/http%3A//www.bandhanmf.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Site Map</title>
+<link href="css/bandhan.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+
+<!--
+
+
+-->
+a.link{margin:0;
+	   width:120px;
+	   padding:5px 8px 5px 8px;
+	   font-family:Verdana;
+       font-size:10px;
+	   font-weight:normal;
+	   text-decoration:none;
+	   background-color:#024941;
+   	   color:#FFFFFF;
+		}
+a.link:hover{
+	   text-decoration:none;
+	    background-color:#336600;
+		color:#FFFFFF;
+		}
+	   
+	   
+
+#dropmenudiv{
+position:absolute;
+border:1px solid black;
+border-bottom-width: 0;
+font:normal 10px Verdana;
+line-height:18px;
+z-index:100;
+}
+
+#dropmenudiv a{
+width: 100%;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid black;
+background-color:#336600;
+color:#FFFFFF;
+padding: 1px 0;
+text-decoration: none;
+font-weight: normal;
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+background-color:#B6E904;
+color:#000000;
+}
+
+.b_text1 {font-family:Verdana;
+             font-size:12px;
+			 font-weight:normal;
+			 vartical-align:top;
+			 color:#1f655b;
+			 text-align:justify;
+}
+.b_text2 {font-family:Verdana;
+             font-size:12px;
+			 font-weight:normal;
+			 vartical-align:top;
+			 color:#1f655b;
+			 text-align:justify;
+}
+.b_text21 {font-family:Verdana;
+             font-size:12px;
+			 font-weight:normal;
+			 vartical-align:top;
+			 color:#1f655b;
+			 text-align:justify;
+}
+.style6 {
+	color: #323210
+}
+
+</style>
+<script type="text/javascript">
+
+
+//Contents for menu 1
+var menu1=new Array()
+menu1[0]='<a href="micro_loan.html">MICRO LOAN PRODUCT</a>'
+menu1[1]='<a href="micro_enterprise.html">MICRO ENTERPRISE PROGRAM</a>'
+menu1[2]='<a href="health_loan.html">HEALTH LOAN</a>'
+
+
+//Contents for menu 2, and so on
+var menu2=new Array()
+menu2[0]='<a href="impact.html">IMPACT</a>'
+menu2[1]='<a href="reports.html">REPORTS</a>'
+menu2[2]='<a href="events.html">EVENTS</a>'
+
+var menu3=new Array()
+menu3[0]='<a href="cuf-thp.html">CUF-THP</a>'
+menu3[1]='<a href="mahp.html">MAHP</a>'
+menu3[2]='<a href="bep.html">BEP</a>'
+		
+
+var menu4=new Array()
+menu4[0]='<a href="careers.html">CAREERS </a>'
+menu4[1]='<a href="exposure.html">EXPOSURE VISIT</a>'
+menu4[2]='<a href="internship.html">INTERNSHIP</a>'
+
+
+var menu5=new Array()
+
+menu5[0]='<a href="ceo_speak.html">MESSAGE FROM CEO</a>'
+menu5[1]='<a href="governance.html">GOVERNANCE</a>'
+menu5[2]='<a href="team.html">SENIOR MANAGEMENT TEAM</a>'
+
+
+var menuwidth='165px' //default menu width
+var menubgcolor='lightyellow'  //menu bgcolor
+var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+/////No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+var ie8=document.all
+var ie10=document.all
+var ie12=document.all
+
+
+if (ie4||ns6||ie8||ie10||ie12)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6||ie8||ie10||ie12)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6||ie8||ie10||ie12)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6||ie8||ie10||ie12){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6||ie8||ie10||ie12) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+if (ie8&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+if (ie10&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+if (ie12&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6||ie8||ie10||ie12)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6||ie8||ie10||ie12)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+-->
+
+</script></head><body><div id="dropmenudiv" style="visibility:hidden;width:165px;background-color:lightyellow" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+<script type="text/javascript" src="Scripts/AC_RunActiveContent.js"></script>
+
+<script type="text/javascript">
+function winOpen(){
+window.open("simpleviewer/index.html",null,"height=700,width=700,status=yes,toolbar=no,menubar=no,location=no");
+}
+</script>
+
+
+
+
+<table width="770" align="center" border="0" cellspacing="0" cellpadding="0" bgcolor="#E6E6B7">
+  <tbody><tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="29%" valign="top"><img src="images/Bandhan_main_logo.jpg" alt="Home" width="227" height="120" border="0" usemap="#Map"></td>
+        <td width="71%" valign="top" bgcolor="#003501"><img src="images/bandhan_header_img.jpg" alt="Bandhan-India" width="543" height="120"></td>
+      </tr>
+      <tr>
+                <td height="25" align="center" colspan="2" bgcolor="#024941">
+                  <a href="about_us.html" class="link" onmouseover="dropdownmenu(this, event, menu5, '170px')" onmouseout="delayhidemenu()">ABOUT US</a>
+                  <a href="default.htm" class="link" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu1, '180px')" onmouseout="delayhidemenu()">PRODUCTS </a>
+                   <a href="default.htm" class="link" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu3, '130px')" onmouseout="delayhidemenu()">DEVELOPMENT PROGRAMS</a>
+                  <a href="partners.html" class="link">PARTNERS</a>
+                 <a href="news.html" class="link" onmouseover="dropdownmenu(this, event, menu2, '130px')" onmouseout="delayhidemenu()">NEWS ROOM </a>
+                  <a href="#" class="link">FAQs</a>
+               
+                
+                 <a href="default.htm" class="link" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu4, '116px')" onmouseout="delayhidemenu()">JOIN US</a></td>
+          </tr>
+      <tr>
+        <td colspan="2" valign="top" bgcolor="#E6E6B7"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td colspan="4" height="10px" bgcolor="#E6E6B7"></td>
+              </tr>
+          <tr>
+            <td width="1%" bgcolor="#E6E6B7">&nbsp;</td>
+              <td colspan="2" valign="top" bgcolor="#E6E6B7" class="main"><p class="title">Privacy Statement: </p>            </td>
+              <td valign="top" bgcolor="#E6E6B7"></td>
+              </tr>
+          <tr>
+            <td bgcolor="#E6E6B7">&nbsp;</td>
+              <td colspan="2" valign="top" bgcolor="#E6E6B7" class="main">&nbsp;</td>
+              <td valign="top" bgcolor="#E6E6B7"></td>
+            </tr>
+          <tr>
+            <td bgcolor="#E6E6B7">&nbsp;</td>
+                <td colspan="2" valign="top" bgcolor="#E6E6B7" class="main">Bandhan Microfinance (BFSPL) believes that the responsible use of personal information collected on its Website is critical to its business objectives and reputation. As part of our commitment to privacy, we have adopted this Online Privacy Statement.<br><br>
+                  The extent and type of information we receive from you on our Web site depends on the information you provide to us through our contact mailboxes and/or through the registration processes on our sites.<br><br>
+                  We only use your personally identifiable information to respond to your requests and to provide you with information about Bandhan services, unless we obtain your permission to use your personal information for other purposes. For example, if you send us an e-mail message requesting information about Bandhan, we will use your e-mail address and other information you supply to respond to your request.<br><br> 
+                 The personal information you provide to us will be retained only for as long as necessary to fulfill the purposes for which the information was collected or as required by law. We do not share personal information with third parties except as necessary to carry out our business or as required by law or other legal processes, and we never sell your personal information.  </td>
+                <td valign="top" bgcolor="#E6E6B7"></td>
+              </tr>
+          <tr>
+            <td bgcolor="#E6E6B7">&nbsp;</td>
+                <td colspan="2" valign="top" bgcolor="#E6E6B7" class="main">&nbsp;</td>
+                <td valign="top" bgcolor="#E6E6B7"></td>
+              </tr>
+          
+          
+          
+        </tbody></table></td>
+        </tr>
+      <tr>
+        <td colspan="2" bgcolor="#E6E6B7"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="84%">&nbsp;</td>
+            <td width="16%" align="center">&nbsp;</td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      
+      <tr>
+        <td height="30" bgcolor="#024941">&nbsp;</td>
+        <td height="30" bgcolor="#024941" class="text_A1">
+         <a href="home.html" class="footer">Home</a>
+         <a href="#" class="footer">Privacy Statement</a>
+         <a href="legal_disclaimer.html" class="footer">Legal Disclaimer</a>
+         <a href="site_map.html" class="footer">Site Map</a>
+         <a href="contact_us.html" class="footer">Contact Us</a>
+         Best viewed on 1024 X 768 </td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+
+<map name="Map" id="Map">
+<area shape="poly" coords="130,67" href="home.html">
+<area shape="poly" coords="74,68,86,69,93,61,102,45,106,37,103,30,107,18,117,14,123,25,124,41,131,53,137,66,140,68,151,67,157,78,163,89,161,98,149,102,134,103,120,109,107,110,92,105,84,99,75,100,69,98,65,90,67,85" href="home.html">
+</map>
+
+
+
+
+</body></html>
