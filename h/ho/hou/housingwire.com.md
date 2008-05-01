@@ -1,23 +1,20 @@
-> *The following text is extracted and transformed from the housingwire.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211080715id_/http%3A//www.housingwire.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housingwire.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502001503id_/http%3A//s34334.gridserver.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Housing Wire » Privacy policy
+# Privacy Policy : Housing Wire
 
-### [Privacy policy](http://www.housingwire.com/about/privacy-policy/)
+Privacy Policy
 
-Here at _Housing Wire_ , we like to keep things simple; and that goes for our privacy policy.
+_Housing Wire_ , a publication of HW Publishing LLC, respects the privacy of its customers and visitors. If you wish to be removed from our database, or have any questions about the operation of our website, please write to feedback@housingwire.com.
 
-So, here’s the information you need to know:
+_This policy effective February 1, 2008._
 
-  * We collect your email address, should you choose to provide it to us.
-  * We use your email to send you a daily news update, to send the occassional communication from the editor, to conduct semi-regular reader surveys, and to roughly take a look at who’s actually reading _HW_.
-  * We use cookies with minimal information in them. Sort of. See below for details.
-  * We use [Google Analytics](http://analytics.google.com/), which is covered by [Google’s Privacy Policy](http://www.google.com/intl/en/privacy.html).
-  * We use [Feedburner](http://www.feedburner.com/) to track feed stats and to process and send our daily emails
+### What information do we gather about you?
 
+The information we gather falls into two categories: 1) personal information you voluntarily supply when you subscribe, order, complete a survey, register for an online discussion, enter a contest or provide your e-mail address and 2) tracking information collected as you navigate through our sites.
 
+**Personally Identifiable Information**
 
-**Personal Information:** All of the personal information we collect is … are you ready? … your email address. Nothing more.
+_Registration for our Web site  
+_Anyone can view our site, but a free registration process may required to access the full range of information and services offered by HousingWire.com.
 
-**Cookies:** _HW_ uses a cookie on your computer in order to check whether you are logged in or not. This cookie doesn’t actually do anything, since you don’t have to log in — but if you did, aren’t you glad to know it’s there?
-
-If you need any clarification or further details on any part of this policy, please [contact us](emailto:editor@housingwire.com).
+HousingWire.com req
