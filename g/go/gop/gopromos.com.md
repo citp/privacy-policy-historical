@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gopromos.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102130537id_/http%3A//www.gopromos.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopromos.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501175027id_/http%3A//www.gopromos.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
 
-# GOpromos.com : Your source for Promotional Items, Promotional Products, and Imprinted Logo Products
+# Promotional Items, Promotional Products, and Imprinted Logo Products from GOpromos.com
 
 Go Promos is committed to protecting the privacy of our customers and visitors to GOpromos.com. We recognize that any personal information must be maintained and used responsibly.
 
