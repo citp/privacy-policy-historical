@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macosforge.org privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024022952id_/http%3A//www.apple.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macosforge.org privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501060010id_/http%3A//www.apple.com/legal/privacy) for the most accurate reproduction.*
 
 # Apple - Apple Customer Privacy Policy
 
@@ -80,7 +80,7 @@ In some of our email messages we use a “click-through URL” linked to content
 
 In addition we use pixel tags — tiny graphic images — to tell us what parts of our website customers have visited or to measure the effectiveness of searches customers perform on our site.
 
-Pixel tags also enable us to send email messages in a format customers can read. And they tell us whether emails have been opened to ensure that we’re sending only messages that are of interest to our customers. We store all of this information in a secure database located in Cupertino, California, in the United States.
+Pixel tags also enable us to send email messages in a format customers can read. And they tell us whether emails have been opened to ensure that we’re sending only messages that are of interest to our customers. We may use this information to reduce or eliminate messages sent to a customer. We store all of this information in a secure database located in Cupertino, California, in the United States.
 
 ## Our companywide commitment to your privacy
 
