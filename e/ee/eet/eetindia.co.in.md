@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eetindia.co.in privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208135154id_/http%3A//www.eetindia.com/STATIC/SITE/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eetindia.co.in privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502121509id_/http%3A//www.eetindia.co.in/STATIC/SITE/PRIVACY.HTM) for the most accurate reproduction.*
 
-# eetindia.com is your single, 24/7 source for electronics design solutions (IC, PCB, LCD, DSP)
+# Privacy Policy - eetindia.com
 
 **Collection of information.**
 
