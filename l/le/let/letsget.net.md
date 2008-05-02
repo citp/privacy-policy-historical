@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsget.net privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214105809id_/http%3A//letsget.net/Public/Content.aspx%3FKey%3DPrivacyPolicy%26Title%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsget.net privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502132315id_/http%3A//www.letsget.net/Public/Content.aspx%3FKey%3DPrivacyPolicy%26Title%3D) for the most accurate reproduction.*
 
 # LetsGet.Net
 
