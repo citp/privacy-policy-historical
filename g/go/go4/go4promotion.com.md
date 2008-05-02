@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4promotion.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102202827id_/http%3A//www.go4promotion.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4promotion.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502191856id_/http%3A//www.go4promotion.com/privacy.htm) for the most accurate reproduction.*
 
 # Outsourcing SEO Services,SEO India,SEO Services India
 
