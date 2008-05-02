@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airsoftmegastore.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102234920id_/http%3A//www.airsoftmegastore.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airsoftmegastore.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502175638id_/http%3A//www.airsoftmegastore.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Airsoft Megastore - Bringing Airsoft To The Masses
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20071102234920id_/http%3A//www.airsoftmegastore.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20080502175638id_/http%3A//www.airsoftmegastore.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
