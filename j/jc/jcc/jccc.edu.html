@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jccc.edu privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630231719id_/http%3A//www.jccc.edu/home/depts/003100/site/website/tocindex/siteprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jccc.edu privacy policy that was archived on 2008-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080502102406id_/http%3A//www.jccc.edu/home/depts/003100/site/website/tocindex/siteprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<meta http-equiv="Content-Language" content="en-us">
@@ -21,9 +21,21 @@
 	<script type="text/javascript">
 		function clearField(searchField)
 		{
-			if (searchField.value == "Search")
+			if (searchField.value == " Search JCCC")
 			{
 				searchField.value = "";
+			}
+		}
+
+		function jumptoURL(index,url)
+		{
+			if (index != 0)
+			{
+				location.href = url;
+			}
+			else
+			{
+				alert("Please choose one of the options listed under \"How Do I ...\" in the dropdown menu.");
 			}
 		}
 		
@@ -31,7 +43,7 @@
 		{
 			if (document.getElementById('center_content-middle-left') && document.getElementById('center_content-middle-right'))
 			{
-				if (document.getElementById('center_content').offsetWidth < 629)
+				if (document.getElementById('center_content').offsetWidth < 629 && location.href.indexOf('widget/employeeList') == -1)
 				{
 					document.getElementById('center_content-middle-right').style.display = 'block';
 				}
@@ -43,27 +55,23 @@
 <body onload="checkContentWidth();">
 <map name="jccc-map" id="jccc-map">
 	<area shape="rect" coords="0,0,1,1" href="#skipto" alt="skip navigation links" title="skip navigation links">
-	<area shape="rect" coords="0,0,185,40" href="/" alt="JCCC Home" title="JCCC Home">
+	<area shape="rect" coords="0,0,146,40" href="/" alt="JCCC Home" title="JCCC Home">
 </map>
 <div id="header">
 	<div id="header-left-logo">
-		<img src="/img/secondary/jccc.gif" width="185" height="40" id="jccc" alt="JCCC logo" usemap="#jccc-map">
+		<img src="/img/secondary/jccc.gif" width="146" height="40" id="jccc" alt="JCCC logo" usemap="#jccc-map">
 	</div>
+
 	<div id="header-left">
-		<div id="header-left-gap">
-		</div>
-		<a href="/home/depts" title="A-Z Index">A-Z Index</a>
-		<br>
-		<a href="/home/site/welcome/maps" title="Maps &amp; Directories">Maps &amp; Directories</a>
-		<br>
-		<a href="/home/site/contacts" title="Contacts">Contacts</a>
+		<img src="/img/home/information-for.gif" width="105" height="40" id="information-for" alt="Information for:">
 	</div>
+
 	<div id="header-right">
 		<span id="header-right-links">
-			<a href="/home/jump.php/header/visit" title="Arrange a campus visit and view calendar and news." class="">Visit</a>&nbsp;&nbsp;&nbsp;<a href="/home/jump.php/header/enroll" title="Enrollment information for credit and continuing education classes" class="">Enroll</a>&nbsp;&nbsp;&nbsp;<a href="/home/jump.php/header/classes" title="Credit and continuing education class schedules" class="">Classes</a>
+			<a href="/home/jump.php/header/visit" title="Arrange a campus visit and view calendar and news." class="">Visit</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/home/jump.php/header/enroll" title="Enrollment information for credit and continuing education classes" class="">Enroll</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/home/jump.php/header/classes" title="Credit and continuing education class schedules" class="">Classes</a><br><a href="/home/jump.php/header/contacts" title="Contacts" class="">Contacts</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/home/jump.php/header/azindex" title="A-Z Index" class="">A-Z Index</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/home/jump.php/header/maps" title="Maps" class="">Maps</a>
 		</span>
 		
-		<a href="http://luminis.jccc.net/" title="MyJCCC (formerly Pipeline)"><img src="/img/home/myjccc.gif" width="129" height="40" id="myjccc" alt="My JCCC (formerly Pipeline)" onmouseover="this.src=&quot;/img/home/myjccc_over.gif&quot;" onmouseout="this.src=&quot;/img/home/myjccc.gif&quot;"></a>
+		<a href="http://luminis.jccc.net/" title="MyJCCC"><img src="/img/home/myjccc.gif" width="129" height="40" id="myjccc" alt="MyJCCC" onmouseover="this.src=&quot;/img/home/myjccc_over.gif&quot;" onmouseout="this.src=&quot;/img/home/myjccc.gif&quot;"></a>
 		
 	</div>
 </div>
@@ -71,26 +79,35 @@
 </div>
 <table id="content-wrapper" cellpadding="0" cellspacing="0">
 	<tbody><tr><td id="left_sidebar">
-		<map name="jcccinfo-map" id="jcccinfo-map">
-			<area shape="rect" coords="101,33,146,53" href="/" alt="JCCC Home" title="JCCC Home">
-			<area shape="rect" coords="0,0,146,53" href="/home/site/contacts" alt="Contacts" title="Contacts">
-		</map>
-		<img src="/img/secondary/jccc-info.gif" width="146" height="53" id="jcccinfo-image" alt="Johnson County Community College, 12345 College Blvd., Overland Park, KS 66210-1299, 913-469-8500" usemap="#jcccinfo-map">
-		<div id="jccc-info">
-			Johnson County Community College<br>12345 College Blvd.<br>Overland Park, KS 66210-1299<br>913-469-8500
-			<br>
-		</div>
 		<div id="left_sidebar-links">
 			<br>
 			<img border="0" src="/img/secondary/parent.gif" alt="Previous Section">
-			<a href="/home/depts/003100/site/website/tocindex">Previous Section</a>
+			<a href="/home/depts.php/003100/site/website/tocindex">Previous Section</a>
 			<br>
 			<br>
 			<form id="qf_form" action="/home/search.php" method="post">
-				<input type="text" name="keywords" id="qf_text" size="11" maxlength="2047" value="Search" onfocus="clearField(this);">
-				<input name="searchForm" id="qf_submit" type="submit" value="go">
+				<input type="text" name="keywords" id="qf_text" size="11" maxlength="2047" value=" Search JCCC" onfocus="clearField(this);"><input class="searchimage" type="image" src="/img/search-glass.jpg" width="20" height="16" value="go" alt="Search JCCC.edu">
 				
 			</form>
+<!--
+			<br />
+			<select id="howdoi" onchange="jumptoURL(this.selectedIndex,this.options[this.selectedIndex].value);">
+<option value='/home/jump.php/howdoi/how_do_i'>How Do I ...</option>
+<option value='http://www.jccc.net/home/depts/001310/site/add_drop'>Add/Drop Class</option>
+<option value='/home/jump.php/howdoi/apply'>Apply</option>
+<option value='http://www.jccc.edu/home/howdoi/HDI-AccessBlackboard'>Blackboard Access</option>
+<option value='/home/jump.php/howdoi/degrees'>Degrees</option>
+<option value='/home/jump.php/howdoi/financialaid'>Financial Aid</option>
+<option value='http://www.jccc.edu/home/howdoi/HDI-IDPasswordPin'>ID/Password/PIN</option>
+<option value='/home/jump.php/howdoi/onlinecourses'>Online Courses</option>
+<option value='/home/jump.php/howdoi/scholarships'>Scholarships</option>
+<option value='/home/jump.php/howdoi/requesttranscripts'>Transcript Requests</option>
+<option value='/home/jump.php/howdoi/technical_support'>Technical Support</option>
+<option value='/home/jump.php/howdoi/transferclasses'>Transfer Credits</option>
+</select>
+
+-->
+			<br>
 			
 			<div class="basicBox">
 				<h2>
@@ -102,13 +119,14 @@
 <br><a href="/home/print/pdf/930/1?attached=false" class="" target="printer">Print as PDF</a>
 <br><br><a title="How does the Print Option work?" class="minor" href="/home/search.php?keywords=print&amp;qid=710">Printing Tip</a><br><br></div>
 
+
 		</div><div class="basicBox">
-<div class="left_sidebar-divider"></div><a href="/home/depts/003100/site/website/tocindex/siteprivacy/info_privacy-security">Information Privacy and Security</a>
+<div class="left_sidebar-divider"></div><a href="/home/depts.php/003100/site/website/tocindex/siteprivacy/info_privacy-security">Information Privacy and Security</a>
 			<div class="menu_links_gap"></div>
 
 
 		</div><div class="basicBox"><h2>More Information</h2>
-<div class="left_sidebar-divider"></div><a href="/home/depts/003100/widget/employeeList">Employee Listing</a>
+<div class="left_sidebar-divider"></div><a href="/home/depts.php/003100/widget/employeeList">Employee Listing</a>
 			<div class="menu_links_gap"></div>
 
 
@@ -214,7 +232,7 @@ policy.
 
 </p>
 
-<h3 id="h_1"><a href="/home/depts/003100/site/website/tocindex/siteprivacy/info_privacy-security">Information Privacy and Security</a></h3>
+<h3 id="h_1"><a href="/home/depts.php/003100/site/website/tocindex/siteprivacy/info_privacy-security">Information Privacy and Security</a></h3>
 
 
 			</div>
@@ -226,10 +244,14 @@ policy.
 </tbody></table>
 <div id="footer-wrapper">
 	<div id="footer">
-		<span id="footer-left">
-			<a href="/" title="JCCC Home">Home</a> | <a href="mailto:webmaster@jccc.net?subject=Request for Website Assistance" title="Help">Help</a> | <a href="/home/depts/003100/site/desk_ref_toc/copyright_toc" title="Copyright">Copyright</a> | <a href="/home/accessibility" title="Accessibility">Accessibility</a> | <a href="/home/depts/003100/site/website/tocindex/siteprivacy" title="Privacy">Privacy</a> | <a href="/home/depts/003100/site/website/tocindex/siteuse" title="Terms of Use">Terms of Use</a>
-		</span>
-		Copyright 2007 © Johnson County Community College
+		<div id="footer-left">
+			<a href="/" title="JCCC Home">Home</a> | <a href="mailto:webmaster@jccc.edu?subject=Request for Website Assistance" title="Help">Help</a> | <a href="/home/accessibility" title="Accessibility">Accessibility</a>
+			<br>
+			<a href="/home/depts/003100/site/website/tocindex/siteprivacy" title="Privacy">Privacy</a> | <a href="/home/depts/003100/site/website/tocindex/siteuse" title="Terms of Use">Terms of Use</a> | <a href="/home/depts/003100/site/desk_ref_toc/copyright_toc" title="Copyright">Copyright</a>
+		</div>
+		Copyright 2008 © Johnson County Community College
+		<br>
+		12345 College Blvd., Overland Park, KS 66210-1299, 913-469-8500
 	</div>
 </div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
@@ -237,5 +259,6 @@ policy.
 	_uacct = "UA-395939-1";
 	urchinTracker();
 </script>
+
 
 </body></html>
