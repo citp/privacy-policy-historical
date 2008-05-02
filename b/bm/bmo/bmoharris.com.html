@@ -1,294 +1,648 @@
-<!--The following is the downloaded HTML source of the bmoharris.com privacy policy that was archived on 2007-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071124034944id_/http%3A//www.bmoharris.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bmoharris.com privacy policy that was archived on 2008-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080502075241id_/http%3A//www4.bmo.com/popup/0%2C4442%2C35649_49258%2C00.html%3FpChannelId%3D74876) for the most accurate reproduction.-->
 
 <html><head>
-	<meta name="description" content="BMO Harris Private Banking Privacy statement. Link to Bank of Montreal Private Policy">
-	<meta name="keywords" content="estates, estate planning, estate administration, trusts, trustees, BMO Trust Company, wills, executor, executors, BMO Harris Private Banking, Private Banking, privatebanking, private clients, bank of montreal private banking, portfolio management, asset management, investment management, investment advisors, wealth management, succession">
-	<meta name="abstract" content="BMO Harris Private Banking Privacy statement. Link to Bank of Montreal Private Policy">
-	<title>BMO Harris Private Banking - Privacy Statement</title>
-	<link rel="stylesheet" type="text/css" href="/main_includes/style.css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="">
+<meta name="keywords" content="">
 
-<script language="Javascript">
-		<!--
-		// in this section all variables are passed to Javascript
+<!-- Popup Header -->
+		
+		
 
-		// path to page
-		var appPath = '/';
-				
-		// file name
-		var appFileName 	= 'legal.asp';
 
-		// makes bold the section currently being viewed. Set to an integer between 1 and number of tabs.
-		var thisPage 		= '';
 
-		// random variables for if-else examples
-		var userType = 'user';
-		var booleanSwitch = false;
 
-		//-->
-</script>
-<script src="/main_includes/menu.js" type="text/javascript"></script>
-<script>
-// Assigns the names of the top level menu items
-	var menuItems = new Array();
 
-	menuItems[1] = "Who We Are";
-	menuItems[2] = "What We Do";
-	menuItems[3] = "Commentary";
 
+<!-- End of Header-->
+
+<title>BMO Financial Group - Privacy</title>
 	
-// Assign the links associated with the menu items
-	var menuItemsLink = new Array();
-
-	menuItemsLink[1] = appPath + 'Who_We_Are/Who_We_Are.asp';
-	menuItemsLink[2] = appPath + 'What_We_Do/Solutions.asp';
-	menuItemsLink[3] = appPath + 'Commentary.asp';
+	
+		<link href="/bmo/portal/views/PFstyle" type="text/css" rel="StyleSheet">
+	
 	
 
-// Assigns the number of the sublayer of the top level menu items
-	var menuItemsSubLayer = new Array();
-
-	menuItemsSubLayer[1] = '1';
-	menuItemsSubLayer[2] = '2';
-	menuItemsSubLayer[3] = '3';
-
-
-//Assigns width of top level menu items - adds up to 775 with 41 pixels for folder tabs
-	var menuItemsWidth = new Array();
-
-	menuItemsWidth[1] = 170;
-	menuItemsWidth[2] = 170;
-	menuItemsWidth[3] = 170;
-
-
-//Assigns left position of top level menu items
-	var menuItemsLeft = new Array();
-
-	menuItemsLeft[1] = 0;
-	menuItemsLeft[2] = menuItemsLeft[1] + menuItemsWidth[1]+6;
-	menuItemsLeft[3] = menuItemsLeft[2] + menuItemsWidth[2]+5;
-
-
-/*	Create Your layers below by typing:
-	 Layer[incrementing number] = new LayerSpecs(Left Position, Top Row Position, Width, Unique Identifier, List of Links Seperated by Commas)
-	 If a layer has a sublayer, add onMouseOver="Show(Layer Number to Open, Current Layer, Any Layers Opened before the current layer (seperated by commas)
-*/
-
-Layer = new Array();
-var layerCounter = 1;
-var theSubMenu = new Array();
-var dependsOn = new Array();
-var theSubMenuCounter = 0;
-
-
-// Menu 1
-Layer[layerCounter] =     new LayerSpecs(menuItemsLeft[1],1,175,'1',
-	appPath+'Who_We_Are/Client_Experience.asp', 'Show(1)', "The Client Experience"
-);
-
-// Menu 2
-Layer[layerCounter] =     new LayerSpecs(menuItemsLeft[2],1,175,'2',
-	appPath+'What_We_Do/Building.asp', 'Show(2)', "Building",
-	appPath+'What_We_Do/Growing.asp', 'Show(2)',"Growing",
-	appPath+'What_We_Do/Preserving.asp', 'Show(2)', "Preserving",
-	appPath+'What_We_Do/Giving.asp', 'Show(2)', "Giving",
-	appPath+'InvestmentManagement/im_1.asp', 'Show(2)', "Investment Management",
-	appPath+'EstateAndTrust/estate_and_trust.asp', 'Show(2)', "Estate and Trust",
-	appPath+'PlatinumBanking/pb_1.asp', 'Show(2)', "Platinum Banking",
-	appPath+'SuccessionPlanning/sp_1.asp', 'Show(2)', "Succession Planning",
-	appPath+'Philanthropy/philanthropy.asp', 'Show(2)', "Philanthropic Services",
-	appPath+'enCircle/encircle_home.asp', 'Show(2)', "enCircle"	
-);
-
-// Menu 3
-Layer[layerCounter] =     new LayerSpecs(menuItemsLeft[3],1,175,'3',
-	//appPath+'webcast.asp', 'Show(3)', "Webcast Library",
-	appPath+'newsletter.asp', 'Show(3)', "Newsletter Archive",
-	appPath+'Market_Commentary.asp', 'Show(3)', "Market Commentary",
-	appPath+'Podcasts.asp', 'Show(3)', "Retirement Your Way podcasts"
-);
-
-
-
-
-//open window for Retirement Tool 
-
-function vbdiPopup(myUrl,myWidth,myHeight) 
-{
-	vbdiPopupExt(myUrl,myWidth,myHeight,'yes');
-}
-
-function vbdiPopupExt(myUrl,myWidth,myHeight, scrollbars) 
-{
-	if (navigator.userAgent.indexOf("MSIE") && (navigator.appVersion.substring(0,1) == '2')) {
-		popup = window.open(myUrl,'thenewWin','top=50,left=50,toolbar=yes,location=no,directories=no,status=no,resizable=yes,copyhistory=no,width=' + myWidth + ',height=' + myHeight + ',scrollbars=' + scrollbars);
-	} else {
-		popup = window.open(myUrl,'thenewWin','top=50,left=50,toolbar=yes,location=no,directories=no,status=no,resizable=yes,copyhistory=no,width=' + myWidth + ',height=' + myHeight + ',scrollbars=' + scrollbars);
-		popup.focus();
+<script language="JavaScript1.2">
+function openPopup(myUrl) {
+	top.name = "mainWindow";
+	if (myUrl == "advise") {
+		openPopup2(myUrl);
+		return;
 	}
+    myPopup=window.open( 'http://' + 'www.bmo.com' + '/cgi-bin/mortgage/' + myUrl + '.cgi','myPopup',' toolbar=no,location=no,directories=no,status=no,scrollbars=no,resizable=no,copyhistory=no,width=640,height=550');
+    if (navigator.appVersion.substring(0,1) >= '3'){
+        myPopup.focus();
+    }
+}
+
+function openPopup2(myUrl) {
+	top.name = "mainWindow";
+    myPopup2=window.open( 'http://' + 'www.bmo.com' + '/cgi-bin/t3bmo.cgi/mortgage/resources/' + myUrl + '.taf', 'myPopup2', ' toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=no,copyhistory=no,width=640,height=550');
+    if (navigator.appVersion.substring(0,1) >= '3'){
+        myPopup2.focus();
+    }
+}
+</script>
+
+	
+	<script language="javascript" type="text/javascript">
+	<!--- hide script from old browsers
+	function english() {
+			setCookie('homePage', 'english', '/',"");
+			document.location = '/';
+	}
+	-->
+	</script>
+	
+
+<script language="javascript">
+<!--- hide script from old browsers
+//*************************new edit for transition mloc 1c***********************//
+function getCookieValue(cookieName){
+	var cookieValue = document.cookie;
+	var cookieStartsAt = cookieValue.indexOf(" " + cookieName + "=");
+	
+	// check if cookie exists.  If cookie does not exist, do a second check at the beginning of the string
+	if (cookieStartsAt == -1){
+		cookieStartsAt = cookieValue.indexOf(cookieName + "=");
+	}
+	
+	if (cookieStartsAt == -1){
+		// coookie really does not exist
+		cookieValue = null;
+	}else{
+		cookieStartsAt = cookieValue.indexOf("=", cookieStartsAt) + 1;
+		var cookieEndsAt = cookieValue.indexOf(";", cookieStartsAt);
+		if (cookieEndsAt == -1){
+			// cookie is the last one in the string
+			cookieEndsAt = cookieValue.length;
+		}
+		cookieValue = unescape(cookieValue.substring(cookieStartsAt, cookieEndsAt));
+	}
+	return cookieValue;
 }
 
 
+function setCookie(cookieName, cookieValue, cookiePath, cookieDomain){
+	cookieExpires = new Date();
+	today = cookieExpires;
+	cookieExpires.setYear(cookieExpires.getYear() + 1);
+
+	cookieValue = escape(cookieValue);
+	
+	if (cookieExpires == "" || cookieExpires == null){
+		var nowDate = new Date();
+		nowDate.setMonth(nowDate.getMonth() + 1);
+		cookieExpires = nowDate.toGMTString();
+	}
+	
+	if (cookiePath == "" || cookiePath == null){
+		cookiePath = "";
+	}else{
+		cookiePath = "; path=" + cookiePath;
+	}
+	
+	if (cookieDomain == "" || cookieDomain == null){
+		cookieDomain = "";
+	}else{
+		cookieDomain = "; domain=" + cookieDomain;
+	}
+	document.cookie = cookieName + "=" + cookieValue + "; expires=" + cookieExpires + cookiePath + cookieDomain;
+}
+
+		homePgValue = getCookieValue('homePage');
+
+
+function validateAppNum(){
+var appString = document.form1.AppNumber.value;
+var tmp = appString.charAt(appString.length - 1);
+
+	if(document.form1.AppNumber.value == ""){
+		alert("Application Number is required.");
+		return;
+	}
+	else if(document.form1.AppNumber.value.length != 14){
+		alert("Application Number must be 14 characters in length.");
+		return;
+	}
+	else if (tmp == "D"  ||  tmp == "d"){
+		document.form1.action = "https://www.bmolending.com/b2c/english/ApplicationCentre.html";
+		document.form1.submit();
+	}
+	else if(tmp =="f" || tmp =="F" || tmp=="w" || tmp=="W"){
+		document.form1.action="https://mortgageapply.bmo.com/webmortgage/mortgage/english/jsp/Mortgage.jsp";
+		document.form1.submit();
+	}
+	else {
+		alert("Application number is not valid. Please re-enter.");
+		document.form1.AppNumber.focus();
+	}
+
+}
+//*************************new edit for transition mloc 1c***********************//
+//-->
 </script>
-<script src="/main_includes/pop_up.js" type="text/javascript"></script>		
-</head>
 
-<body leftmargin="0" rightmargin="0" topmargin="0" marginheight="0" marginwidth="0">
-<script language="Javascript">
-		<!--
-			createMenu();
-		//-->
-</script><div onmouseover="clearTimeout(timer)" onmouseout="Hide()" id="L1" style="position:absolute; visibility:hidden; top:95; left:0; width:175;border:1px solid #0066CC;border-right-width:1px;border-bottom-width:1px;background-color:#0066CC"><div id="layer_1_1" class="IEmenu" style="width:174; position:relative; top:0px; left:0px; background:#CCDDEE;color:#003366" onmouseover="Show(1); this.style.background=&quot;#FFFFFF&quot;;" onmouseout="this.style.background=&quot;#CCDDEE&quot;;this.style.color=&quot;#003366&quot;" onclick="top.location.href='/Who_We_Are/Client_Experience.asp';Hide()">&nbsp;The Client Experience</div></div><div onmouseover="clearTimeout(timer)" onmouseout="Hide()" id="L2" style="position:absolute; visibility:hidden; top:95; left:175; width:175;border:1px solid #0066CC;border-right-width:1px;border-bottom-width:1px;background-color:#0066CC"><div id="layer_2_1" class="IEmenu" style="width:174; position:relative; top:0px; left:0px; background:#CCDDEE;color:#003366" onmouseover="Show(2); this.style.background=&quot;#FFFFFF&quot;;" onmouseout="this.style.background=&quot;#CCDDEE&quot;;this.style.color=&quot;#003366&quot;" onclick="top.location.href='/What_We_Do/Building.asp';Hide()">&nbsp;Building</div><div id="layer_2_2" class="IEmenu" style="width:174; position:relative; top:0px; left:0px; background:#CCDDEE;color:#003366" onmouseover="Show(2); this.style.background=&quot;#FFFFFF&quot;;" onmouseout="this.style.background=&quot;#CCDDEE&quot;;this.style.color=&quot;#003366&quot;" onclick="top.location.href='/What_We_Do/Growing.asp';Hide()">&nbsp;Growing</div><div id="layer_2_3" class="IEmenu" style="width:174; position:relative; top:0px; left:0px; background:#CCDDEE;color:#003366" onmouseover="Show(2); this.style.background=&quot;#FFFFFF&quot;;" onmouseout="this.style.background=&quot;#CCDDEE&quot;;this.style.color=&quot;#003366&quot;" onclick="top.location.href='/What_We_Do/Preserving.asp';Hide()">&nbsp;Preserving</div><div id="layer_2_4" class="IEmenu" style="width:174; position:relative; top:0px; left:0px; background:#CCDDEE;color:#003366" onmouseover="Show(2); this.style.background=&quot;#FFFFFF&quot;;" onmouseout="this.style.background=&quot;#CCDDEE&quot;;this.style.color=&quot;#003366&quot;" onclick="top.location.href='/What_We_Do/Giving.asp';Hide()">&nbsp;Giving</div><div id="layer_2_5" class="IEmenu" style="width:174; position:relative; top:0px; left:0px; background:#CCDDEE;color:#003366" onmouseover="Show(2); this.style.background=&quot;#FFFFFF&quot;;" onmouseout="this.style.background=&quot;#CCDDEE&quot;;this.style.color=&quot;#003366&quot;" onclick="top.location.href='/InvestmentManagement/im_1.asp';Hide()">&nbsp;Investment Management</div><div id="layer_2_6" class="IEmenu" style="width:174; position:relative; top:0px; left:0px; background:#CCDDEE;color:#003366" onmouseover="Show(2); this.style.background=&quot;#FFFFFF&quot;;" onmouseout="this.style.background=&quot;#CCDDEE&quot;;this.style.color=&quot;#003366&quot;" onclick="top.location.href='/EstateAndTrust/estate_and_trust.asp';Hide()">&nbsp;Estate and Trust</div><div id="layer_2_7" class="IEmenu" style="width:174; position:relative; top:0px; left:0px; background:#CCDDEE;color:#003366" onmouseover="Show(2); this.style.background=&quot;#FFFFFF&quot;;" onmouseout="this.style.background=&quot;#CCDDEE&quot;;this.style.color=&quot;#003366&quot;" onclick="top.location.href='/PlatinumBanking/pb_1.asp';Hide()">&nbsp;Platinum Banking</div><div id="layer_2_8" class="IEmenu" style="width:174; position:relative; top:0px; left:0px; background:#CCDDEE;color:#003366" onmouseover="Show(2); this.style.background=&quot;#FFFFFF&quot;;" onmouseout="this.style.background=&quot;#CCDDEE&quot;;this.style.color=&quot;#003366&quot;" onclick="top.location.href='/SuccessionPlanning/sp_1.asp';Hide()">&nbsp;Succession Planning</div><div id="layer_2_9" class="IEmenu" style="width:174; position:relative; top:0px; left:0px; background:#CCDDEE;color:#003366" onmouseover="Show(2); this.style.background=&quot;#FFFFFF&quot;;" onmouseout="this.style.background=&quot;#CCDDEE&quot;;this.style.color=&quot;#003366&quot;" onclick="top.location.href='/Philanthropy/philanthropy.asp';Hide()">&nbsp;Philanthropic Services</div><div id="layer_2_10" class="IEmenu" style="width:174; position:relative; top:0px; left:0px; background:#CCDDEE;color:#003366" onmouseover="Show(2); this.style.background=&quot;#FFFFFF&quot;;" onmouseout="this.style.background=&quot;#CCDDEE&quot;;this.style.color=&quot;#003366&quot;" onclick="top.location.href='/enCircle/encircle_home.asp';Hide()">&nbsp;enCircle</div></div><div onmouseover="clearTimeout(timer)" onmouseout="Hide()" id="L3" style="position:absolute; visibility:hidden; top:95; left:350; width:175;border:1px solid #0066CC;border-right-width:1px;border-bottom-width:1px;background-color:#0066CC"><div id="layer_3_1" class="IEmenu" style="width:174; position:relative; top:0px; left:0px; background:#CCDDEE;color:#003366" onmouseover="Show(3); this.style.background=&quot;#FFFFFF&quot;;" onmouseout="this.style.background=&quot;#CCDDEE&quot;;this.style.color=&quot;#003366&quot;" onclick="top.location.href='/newsletter.asp';Hide()">&nbsp;Newsletter Archive</div><div id="layer_3_2" class="IEmenu" style="width:174; position:relative; top:0px; left:0px; background:#CCDDEE;color:#003366" onmouseover="Show(3); this.style.background=&quot;#FFFFFF&quot;;" onmouseout="this.style.background=&quot;#CCDDEE&quot;;this.style.color=&quot;#003366&quot;" onclick="top.location.href='/Market_Commentary.asp';Hide()">&nbsp;Market Commentary</div><div id="layer_3_3" class="IEmenu" style="width:174; position:relative; top:0px; left:0px; background:#CCDDEE;color:#003366" onmouseover="Show(3); this.style.background=&quot;#FFFFFF&quot;;" onmouseout="this.style.background=&quot;#CCDDEE&quot;;this.style.color=&quot;#003366&quot;" onclick="top.location.href='/Podcasts.asp';Hide()">&nbsp;Retirement Your Way podcasts</div></div>
+<script language="JavaScript">
+<!--- hide script from old browsers
+        function imgOn(imgName) {
+                if (document.images) {
+                document.images[imgName].src = eval(imgName + "on.src");
+                }
+        }
 
-<!-- display menu //-->
-<script language="Javascript">
-<!--
-		//create top level menus
-		for(i=1;i<menuItems.length;i++)
-		{
-			createBaseItem(i,menuItems[i],menuItemsWidth[i],menuItemsLeft[i],menuItemsLink[i],menuItemsSubLayer[i]);
+        function imgOff(imgName) {
+                if (document.images) {
+                document.images[imgName].src = eval(imgName + "off.src");
+                }
+        }
+
+		function loadFramesBS(form) {
+                myPick=form.bsSelect.options[form.bsSelect.selectedIndex].value;
+                        if (myPick != "default") {
+                        window.parent.location=myPick;
+                }
+        }
+
+        function loadFramesIS(form) {
+                myPick=form.isSelect.options[form.isSelect.selectedIndex].value;
+                        if (myPick != "default") {
+                        window.parent.location=myPick;
+                }
+        }
+
+        function loadFramesSB(form) {
+                myPick=form.sbSelect.options[form.sbSelect.selectedIndex].value;
+                        if (myPick != "default") {
+                        window.parent.location=myPick;
+                }
+        }
+
+        function loadFramesCO(form) {
+                myPick=form.coSelect.options[form.coSelect.selectedIndex].value;
+                        if (myPick != "default") {
+                        window.parent.location=myPick;
+                }
+        }
+
+        function openSitemap() {
+        top.name="mainWindow";
+                popup=window.open('site_map.html','popup','toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=yes,copyhistory=no,width=518,height=318');
+                        if (navigator.appVersion.substring(0,1) != '2'){
+                        popup.focus()}
+        }
+
+		function new_window_count(new_url) {
+        	window.parent.location="http://www.bmo.com/cgi-bin/count/counter?count_url="+new_url+"&action=plus";
 		}
 
-		setMenuHover(thisPage);
-	//-->
-</script><div id="layer1" onmouseover="setMenuHover(&quot;1&quot;);" class="menuButton" style="position:absolute; left:0; top:75"><table width="176" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/main_includes/images/leftside.gif"></td><td width="170" class="menuButton">Who We Are</td><td><img src="/main_includes/images/dividerright.gif"></td></tr><tr><td colspan="3" bgcolor="#000000" height="1"><img src="/main_includes/images/spacer.gif" height="1"></td></tr></tbody></table></div><div id="layer1on" onmouseover="Show(1); hideLayer();" onmouseout="Hide();" onclick="top.location.href='/Who_We_Are/Who_We_Are.asp';Hide()" class="menuButtonHover" style="position:absolute; visibility:hidden; left:0; top:75"><table width="176" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/main_includes/images/leftsidelite.gif"></td><td width="170" class="menuButtonHover">Who We Are</td><td><img src="/main_includes/images/dividerrightlite.gif"></td></tr><tr><td colspan="3" bgcolor="#000000" height="1"><img src="/main_includes/images/spacer.gif" height="1"></td></tr></tbody></table></div><div id="layer2" onmouseover="setMenuHover(&quot;2&quot;);" class="menuButton" style="position:absolute; left:176; top:75"><table width="175" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/main_includes/images/dividerleft.gif"></td><td width="170" class="menuButton">What We Do</td><td><img src="/main_includes/images/dividerright.gif"></td></tr><tr><td colspan="3" bgcolor="#000000" height="1"><img src="/main_includes/images/spacer.gif" height="1"></td></tr></tbody></table></div><div id="layer2on" onmouseover="Show(2); hideLayer();" onmouseout="Hide();" onclick="top.location.href='/What_We_Do/Solutions.asp';Hide()" class="menuButtonHover" style="position:absolute; visibility:hidden; left:176; top:75"><table width="175" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/main_includes/images/dividerleftlite.gif"></td><td width="170" class="menuButtonHover">What We Do</td><td><img src="/main_includes/images/dividerrightlite.gif"></td></tr><tr><td colspan="3" bgcolor="#000000" height="1"><img src="/main_includes/images/spacer.gif" height="1"></td></tr></tbody></table></div><div id="layer3" onmouseover="setMenuHover(&quot;3&quot;);" class="menuButton" style="position:absolute; left:351; top:75"><table width="175" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/main_includes/images/dividerleft.gif"></td><td width="170" class="menuButton">Commentary</td><td><img src="/main_includes/images/dividerright.gif"></td></tr><tr><td colspan="3" bgcolor="#000000" height="1"><img src="/main_includes/images/spacer.gif" height="1"></td></tr></tbody></table></div><div id="layer3on" onmouseover="Show(3); hideLayer();" onmouseout="Hide();" onclick="top.location.href='/Commentary.asp';Hide()" class="menuButtonHover" style="position:absolute; visibility:hidden; left:351; top:75"><table width="175" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/main_includes/images/dividerleftlite.gif"></td><td width="170" class="menuButtonHover">Commentary</td><td><img src="/main_includes/images/dividerrightlite.gif"></td></tr><tr><td colspan="3" bgcolor="#000000" height="1"><img src="/main_includes/images/spacer.gif" height="1"></td></tr></tbody></table></div>
+function create() {
+        this.width = ''
+        this.height = ''
+        this.src = ''
+        this.href = ''
+        this.border = ''
+
+}
+
+// The maximum valid index for the array of banners.
+// If a banner is added, the value of this variable
+// must be increased by one.
+
+var maxIndex=1;
+
+// Create the array
+ads = new Array()
+for(var i=0; i<=maxIndex; i++) { ads[i] = new create() }
+
+// Insert values into the array.
+
+ads[0].width = "468"
+ads[0].height = "60"
+ads[0].src = "/vgn/images/portal/SYSTEM (Site)_84/BMO (Site)_3102/PCCG (Site)_3201/Mortgages (Site)_3550/Mortgages Files_14811/18727mortgage_1b.gif"
+ads[0].href = "http://www.bmo.com/mortgage/products/four_percent.html"
+ads[0].border = "0"
 
 
-<script src="/main_includes/toggleLanguage.js"></script>
+ads[1].width = "468"
+ads[1].height = "60"
+ads[1].src = "/vgn/images/portal/SYSTEM (Site)_84/BMO (Site)_3102/PCCG (Site)_3201/Mortgages (Site)_3550/Mortgages Files_14811/18742mortgage_dude.gif"
+ads[1].href = "http://www.bmo.com/mortgage/products/six_year.html"
+ads[1].border = "0"
 
-<table width="775" border="0" cellpadding="0" cellspacing="0">
+// Get a random integer between 0 and maxIndex.
+var n = Math.round(Math.random()*maxIndex)
+
+//  Use randomly generated n to create an image in the page
+var image = ads[n]
+var ad = ""
+ad += '<a href="' + image.href + '" \n'
+ad += 'onMouseOut="self.status=\'\'"> \n'
+ad += '<img src="' + image.src + '" width=' + image.width
+ad += '\n height=' + image.height + ' border=' + image.border
+ad += '\n></a>'
+
+//-->
+</script>
+
+<script language="javascript">
+<!--
+function vbiPopup(myUrl) {
+        window.open(myUrl,'vbiPopup',' toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=yes,copyhistory=no,width=775,height=480');
+}
+
+function customPopup(url, features) {
+	window.open(url, '', features);
+}
+
+function openWindow(whereto, whoami) {
+                top.name = "mainwindow";
+                self.name="spawningWindow";
+                popup = window.open(whereto, whoami, "width=790,height=550,top=30,left=100,scrollbars=1,toolbar=1,status=1,resizable=1,menubar=1,location=1,directories=1");
+                }
+// -->
+</script>
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+<script language="javascript">
+<!--- hide script from old browsers
+function openContact(path)
+{
+     top.name = "mainWindow"
+     myPopup=window.open(path+"contactus/selfserv.html",'myPopup',' toolbar=no,location=no,directories=no,status=no,scrollbars=no,resizable=yes,copyhistory=no,width=772,height=450');
+     if (navigator.appVersion.substring(0,1) >= '3')
+     {
+           myPopup.focus()
+     }
+}
+//-->
+</script>
+
+<script language="JavaScript">
+
+        <!--
+        function uSubmit(mortType) {
+				// no such frame right now/mortgage/.
+                //parent.bottomnav.location="/mortgage/analyzer/analyzer_help.html";
+                document.COM.mortTypeOne.value = mortType;
+                document.COM.submit();
+        }
+        // -->
+        
+
+</script>
+
+<script language="JavaScript">
+  image1 = new Image;
+  image2 = new Image;  
+  image1.src = "/bmo/portal/images/chinesehover.gif";
+  image2.src = "/bmo/portal/images/chinese.gif";
+
+  function siteOpen(myURL) {
+		window.opener.parent.location=myURL;
+		window.close();
+  }
+</script>
+
+
+</head>
+
+<body leftmargin="0" topmargin="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	<!--td><img src="/vgn/images/ccb/white_space.gif" width="1" height="54" border="0" alt=""></td-->
+	<td width="100%" valign="top">
+<!-- Popup Branding Bar -->
+		
+		
+
+
+
+
+
+<table height="49" cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td width="290" height="47"><img height="47" alt="BMO Financial Group" src="/vgn/images/portal/SYSTEM%20%28Site%29_81/BMO%20FG%20%28Site%29_35330/PCCG%20%28Site%29_35383/2147903bmofg_eng.gif" width="290" border="0"></td>
+<td>&nbsp;</td>
+<td valign="center" align="right" width="40"><a href="javascript:window.self.close();"><u>close</u></a>&nbsp;&nbsp;</td>
+</tr>
+
+<tr>
+<td background="/vgn/images/portal/SYSTEM%20%28Site%29_81/BMO%20FG%20%28Site%29_35330/PCCG%20%28Site%29_35383/Corporate%20Images_40920/62206003366.gif" colspan="3" height="1"><img height="1" alt="" src="/vgn/images/portal/SYSTEM%20%28Site%29_81/BMO%20FG%20%28Site%29_35330/PCCG%20%28Site%29_35383/Corporate%20Images_40920/62194spacer.gif" width="1"></td>
+</tr>
+</tbody>
+</table>
+<!-- End of Popup Branding Bar-->
+	</td>
+	</tr>
+</tbody></table>
+<table height="25" width="100%" border="0" cellspacing="0" cellpadding="0">	
+	<tbody><tr><td><img src="/vgn/images/ccb/white_space.gif" width="1" height="25" border="0" alt=""></td></tr>
+</tbody></table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	<td width="10"><img src="/vgn/images/ccb/white_space.gif" width="10" height="1" border="0" alt=""></td>
+	<td width="100%" valign="top" align="left">
+<!-- Popup White Space-->
+		<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="100%" align="left" valign="top" class="maintext">
+		
+		
+
+
+
+
+
+<p><span class="title">BMO Privacy Code</span></p>
+
+<p><span class="majorsub">Your Privacy is our Priority: Our Commitment to You</span><br>
+BMO Financial Group appreciates the opportunity to help you meet your financial needs. From the day Bank of Montreal was founded in 1817, earning and keeping your trust has been at the very core of our business. We are committed to respecting and protecting the privacy and confidentiality of the <a href="javascript:customPopup('/popup/0,2284,35649_13897849,00.html#Personal', 'scrollbars=1,resizable=1,width=500,height=530,left=125,top=-25,');">personal information</a> you have entrusted to us. It is important for you to understand what information we will collect, how we will use it, and who may see it.</p>
+
+<p>This Privacy Code outlines our commitment to you, and is designed to comply with applicable Privacy legislation in Canada, which incorporates the following ten principles:</p>
+
+<table width="420" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td height="6" colspan="3" width="775"><img src="/en/images/spacer.gif" width="775" height="6"></td>
+    <td width="24"><div align="left">1.</div></td>
+    <td width="396"><p><a href="#01">Accountability</a></p></td>
   </tr>
-  <tr> 
-    <td width="10" height="39"><img src="/en/images/spacer.gif" width="10" height="39"></td>
-    <td width="326" height="39" valign="top"><a href="/default.asp"><img src="/en/images/logo_topnav.gif" height="38" border="0"></a></td>
-    <td align="right" height="39" valign="top" width="439"><font color="#0066CC"><a href="/default.asp" class="navlink">home</a> | <a href="/site_map.asp" class="navlink">site map</a> | <a href="/contact_us/contact_us.asp" class="navlink">contact us</a> | <a href="/locations.asp" class="navlink">locate us</a> | <a href="javascript:toggleLanguage()" class="navlink">français</a> | <a href="http://www4.bmo.com" class="navlink" target="_blank">bmo.com</a></font></td>
+  <tr>
+    <td><div align="left">2.</div></td>
+    <td><p><a href="#02">Identifying Purpose</a></p></td>
   </tr>
+  <tr>
+    <td><div align="left">3.</div></td>
+    <td><p><a href="#03">Obtain Consent</a></p></td>
+  </tr>
+  <tr>
+    <td><div align="left">4.</div></td>
+    <td><p><a href="#04">Limit Collection</a></p></td>
+  </tr>
+  <tr>
+    <td><div align="left">5.</div></td>
+    <td><p><a href="#05">Limit Use, Disclosure and Retention</a></p></td>
+  </tr>
+  <tr>
+    <td><div align="left">6.</div></td>
+    <td><p><a href="#06">Be Accurate</a></p></td>
+  </tr>
+  <tr>
+    <td><div align="left">7.</div></td>
+    <td><p><a href="#07">Use Appropriate Safeguards</a></p></td>
+  </tr>
+  <tr>
+    <td><div align="left">8.</div></td>
+    <td><p><a href="#08">Be Open</a></p></td>
+  </tr>
+  <tr>
+    <td><div align="left">9.</div></td>
+    <td><p><a href="#09">Give Individuals Access</a></p></td>
+  </tr>
+  <tr>
+    <td><div align="left">10.</div></td>
+    <td><p><a href="#10">Provide Recourse</a></p></td>
+  </tr>
+</tbody></table>
+
+<p>Other important information:</p>
+
+<ul>
+
+<li><a href="#Respecting">Respecting Your Privacy Preferences</a>
+
+</li><li><a href="#Scope">Scope</a></li>
+</ul>
+
+<p><a id="01" name="01"></a><span class="majorsub">1. Accountability</span><br>
+Each and every one of our employees is responsible for maintaining and protecting the <a href="javascript:customPopup('/popup/0,2284,35649_13897849,00.html#Personal', 'scrollbars=1,resizable=1,width=500,height=530,left=125,top=-25,');">personal information</a> to which they have access. We have strict policies and procedures for protecting personal information and designated individuals within BMO Financial Group who are responsible for monitoring our compliance.</p>
+
+<p>BMO Financial Group’s Chief Privacy Officer is a member of our executive management team and
+oversees privacy governance including policy, dispute resolution, education, communications activities and reporting to our Board of Directors and Senior Management on enterprise-wide privacy matters. See the <a href="#10">Provide Recourse</a> principle for contact information.</p>
+
+<p><a href="#top">back to top</a></p>
+
+<p><a id="02" name="02"></a><span class="majorsub">2. Identifying Purpose</span><br>
+When you become a BMO Financial Group customer, or apply for additional products and services, we ask you for your personal information
+for the following purposes:</p>
+<ul>
+<li>to verify your identity and protect against fraud 
   
-<form method="get" id="form1" name="form1" onsubmit="window.open(select1.options[select1.selectedIndex].value,'_blank');return false;"></form>
-  <tr> 
-    <td width="10" height="39"><img src="/en/images/spacer.gif" width="10" height="29"></td>
-    <td width="290" valign="top"><img src="/en/images/spacer.gif" width="1" height="6"><br><a href="/default.asp" style="text-decoration:none;"><font color="#0066CC"><b>Private Banking</b></font></a></td>
-    <td align="right" valign="top" width="475" height="29">		
-		Sign in
-		<select name="select1" size="1" onchange="window.open(this.options[this.selectedIndex].value,'_blank')" style="font-family: ms sans serif, verdana, arial, helvetica">
-			<option selected="" value="http://www.bmoharrisprivatebankingonline.com/clientlogin">Investments Online</option>
-			<option value="http://www.bmo.com/login/index.html">On-line Banking</option>
-			<option value="https://www3.bmo.com/mosaik/selfserve/SignOn">Mosaik MasterCard</option>			
-			<option value="https://www.bmoinvestorline.com/cgi-bin/t3i.1.cgi/e/online/ilenter.taf">BMO InvestorLine</option>
-			<option value="https://gateway.bmonesbittburns.com/en/SignIn.html">BMO Nesbitt Burns</option>
-			<option value="https://www.bmomutualfunds.com/">BMO Mutual Funds</option>
-			
-		</select>
-		&nbsp;<input type="image" name="Submit" value="submit" src="/en/images/goButton.gif" align="absmiddle" border="0">
-      </td>
-  </tr>
+</li><li>to understand your financial service requirements 
+  
+</li><li>to determine suitability of products and services for 
+  you 
+  
+</li><li>to determine your eligibility for certain of our 
+  products and services, or those of others, and offer them to you 
+  
+</li><li>to set up and manage products and services you have 
+  requested, and 
+  
+</li><li>to comply with federal and provincial legal or
+regulatory requirements</li>
 
-<tr> 
-    <td height="11" colspan="3"><img src="/en/images/spacer.gif" width="10" height="11"></td>
- </tr>
-<tr> 
-    <td height="1" colspan="3" width="775"><img src="/en/images/keyline.gif" width="775" height="1"></td>
- </tr>
- <tr> 
-    <td height="20" colspan="3" width="775"><img src="/en/images/spacer.gif" width="2" height="20"></td>
- </tr>
-</tbody></table>
 
-<table width="775" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td width="7"><img src="/en/images/spacer.gif" width="7" height="4" border="0"></td>
-		<td width="586" align="left" valign="top">
-<!-- Central content start-->
-			<span class="page-title">Privacy Statement</span><br><br>
-			<b>Internet:</b><br>
-Absent the use of encryption, the Internet is not a secure medium and privacy cannot be ensured.  Internet e-mail is vulnerable to interception and forging.  BMO Harris Private Banking cannot ensure the privacy and authenticity of any information or instructions you send to us or that we send to you over the Internet.  BMO Harris Private Banking will not be responsible for any damages you may incur if you communicate confidential information to us over the Internet or if we communicate such information to you at your request.
-<br><br>
-<b>BMO Harris Private Banking Client Information:</b><br>
-BMO Harris Private Banking takes the confidentiality of client information very seriously.  This is a short summary of the unique features of BMO Harris Private Banking.
-<br><br>
-The BMO Harris Private Banking organization consists of three legal entities: Bank of Montreal, delivering banking services; BMO Trust Company, trust and estate services; and BMO Harris Investment Management Inc., investment management services.  In addition, BMO Nesbitt Burns Inc. provides some custodial services to these companies.
-<br><br>
-In order to provide integrated services to accounts, these entities share personal client information with each other.
-<br><br>
-For new clients, personal client information will be shared among the BMO Harris Private Banking entities and within the Bank of Montreal Group of Companies for the purpose of identifying and providing information on products or services offered by any of those entities, solely with the consent of the new client.
-<br><br>
-Wills clients require special mention.  BMO Harris Private Banking takes the confidentiality of the detailed personal information provided by will and estate planning clients very seriously.  This information is kept in strict confidence and is shared with the solicitor drafting estate plan documentation further to a client’s consent.
-<br><br>
-Below is the link to Bank of Montreal’s privacy policy, which explains in more detail how client information is dealt with, subject to the uniquely integrated  features of BMO Harris Private Banking that have been described above.
-<br><br>
-<a href="/pdf/PrivacyGuide.pdf">BMO Privacy Code</a> (brochure format)
-<br><a href="/pdf/Commitment.pdf">Our Commitment to Client Satisfaction</a>
-<!-- Central Content end. To replace delete all upto next comment -->
-		</td>
-		<td width="12" align="left" valign="top"><img src="/en/images/spacer.gif" width="12" height="4" border="0"></td>
-		<td width="170" align="left" valign="top">
-<!-- Right Navigation start -->
-			
-<table width="170" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-	<form id="" name="search" action="/search/Search.asp" method="POST"></form>
-	<tbody><tr>
-		<td width="1" class="title-menu-blue-search"><img src="/en/images/spacer.gif" width="1" height="1" border="0"></td>
-		<td height="18" class="title-menu-blue-search" width="5"><img src="/en/images/spacer.gif" width="5" height="1" border="0"></td>
-		<td height="18" class="title-menu-blue-search" width="163">Search</td>
-		<td width="1" class="title-menu-blue-search"><img src="/en/images/spacer.gif" width="1" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td width="1" class="title-menu-blue-search"><img src="/en/images/spacer.gif" width="1" height="1" border="0"></td>
-		<td colspan="2"><img src="/en/images/spacer.gif" width="1" height="10" border="0"></td>
-		<td width="1" class="title-menu-blue-search"><img src="/en/images/spacer.gif" width="1" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td width="1" class="title-menu-blue-search"><img src="/en/images/spacer.gif" width="1" height="1" border="0"></td>
-		<td width="5"><img src="/en/images/spacer.gif" width="5" height="1" border="0"></td>
-		<td width="163" align="left"><input name="SearchString" id="SearchString" type="text" size="15">&nbsp;<input type="image" name="Action" src="/en/images/goButton.gif" align="absmiddle" border="0"></td>
-		<td width="1" class="title-menu-blue-search"><img src="/en/images/spacer.gif" width="1" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td width="1" class="title-menu-blue-search"><img src="/en/images/spacer.gif" width="1" height="1" border="0"></td>
-		<td height="5" width="168" colspan="2"><img src="/en//images/spacer.gif" width="2" height="10" border="0"></td>
-		<td width="1" class="title-menu-blue-search"><img src="/en/images/spacer.gif" width="1" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td height="1" class="title-menu-blue-search" colspan="4"><img src="/en/images/spacer.gif" width="1" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td height="10" colspan="4"><img src="/en/images/spacer.gif" width="1" height="10" border="0"></td>
-	</tr>
-	
-</tbody></table>
-<table width="170" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="title-menu-blue" width="170">Contact Us</td>
-	</tr>
-	<tr>
-		<td height="2" width="170"><img src="/en//images/spacer.gif" width="2" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td width="170" class="grey">Discover if Private Banking is right for you by contacting one of our <a href="/contact_us/contact_us.asp">professional advisors in your area</a>.</td>
-	</tr>
-	<tr>
-		<td height="10"><img src="/en/images/spacer.gif" width="1" height="10" border="0"></td>
-	</tr>
-</tbody></table>		
-<!-- Right Navigation end-->				
-		</td>
-	</tr>
-</tbody></table>
-<table width="775" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-	<td colspan="3"><img src="/en/images/spacer.gif" width="2" height="35"></td>
-  </tr>
-  <tr> 
-    <td height="19" colspan="3"><hr size="1"></td>
-  </tr>
-  <tr> 
-    <td width="12" height="45" valign="top"><img src="/en/images/spacer.gif" width="12" height="12"></td>
-    <td width="514" valign="top"><font color="#0066CC"><a href="/privacy.asp" class="navlink">privacy</a> | <a href="/legal.asp" class="navlink">legal</a> | <a href="/security.asp" class="navlink">security</a></font></td>
-	<td width="249" align="right" valign="top"><img src="/en/images/member_of_bmo.gif" border="0"></td>
-  </tr>
-</tbody></table>
+</ul>
+<p>Your personal information may be verified with credit bureau, credit insurers, registries, your employer, personal references and other lenders.</p>
 
+<p><a href="#top">back to top</a></p>
+
+<p><a id="03" name="03"></a><span class="majorsub">3. Obtain Consent</span><br>
+When you apply for a new product or service, we ask you for your consent to collect, use or disclose your personal information. You may, at any time, withdraw your consent as long as:</p>
+<ul>
+<li>you provide reasonable notice 
+  
+</li><li>we are not legally required to collect, use or 
+  disclose your information 
+  
+</li><li>withdrawing your consent does not impede our ability 
+  to fulfill your contract with us 
+  
+</li><li>it does not relate to a credit product we have granted you where we are required to collect and exchange your personal information on an ongoing basis with credit bureaux, credit insurers and other lenders</li>
+</ul>
+
+<p><a href="#top">back to top</a></p>
+
+<p><a id="04" name="04"></a><span class="majorsub">4. Limit Collection</span><br>
+We only collect the information we need. We may ask you to provide the following
+information:
+</p><ul>
+<li><b>Social Insurance Number (SIN)</b> for tax reporting purposes as well as other income related government purposes such as when opening an income generating account or a registered retirement investment. We do this in order to comply with the Canada Revenue Agency’s income reporting requirements. We may also collect and use your SIN for administration purposes, such as to ensure an
+accurate match between your personal information and your credit bureau information, or as an internal identification
+number to accurately identify customers having same or similar names.</li>
+</ul>
+<ul>
+<li><b>Financial Information</b> to ensure that the advice we give is appropriate for you and/or the investments you purchase are suitable for your circumstances.</li>
+</ul>
+<ul>
+<li><b>Health Information</b> is required for some of our insurance products to ensure that you are eligible for coverage.</li>
+</ul>
+<p>You can choose not to provide us with certain information in some situations. However, if you make this choice, we may not be able to provide you with the product, service, or information you request. We may monitor or record our telephone calls with you for our mutual
+protection (e.g. to ensure that your instructions are carried out, to document that we have made required disclosures to you, and to ensure that customer service levels are maintained).</p>
+
+<p>We will make certain that you are informed of the purposes listed above when you apply for any of our products or services. If a new purpose for using your personal information develops, we will ask you for your consent.</p>
+
+<p><a href="#top">back to top</a></p>
+
+<p><a id="05" name="05"></a><span class="majorsub">5. Limit Use, Disclosure and Retention</span><br>
+BMO Financial Group will only use or disclose your personal information for the reason(s) it was collected. Under no circumstances do we
+sell or give lists of our clients to other companies for their own use, and if we obtain client lists from other organizations, we require the organizations to confirm their compliance with all relevant privacy legislation.</p>
+
+<p>To ensure that you benefit from our full range of products and services, we will, with your consent, share your personal information (other than health information) to the extent permitted by law, amongst BMO Financial Group.</p>
+
+<p>Over time, we may buy new businesses or sell some of our businesses. Accordingly, personal information associated with any accounts,
+products or services of the business being purchased or sold will be transferred as a business asset to the new business owner.</p>
+
+<p>We may use other companies to provide services to you on our behalf and they will be given only the information needed to perform those services. We have contracts in place holding these companies to the same high standards of confidentiality by which we are governed.</p>
+
+<p>Your information may be transferred across country borders for the purposes of data processing. We may be required to provide
+information to a government agency under a lawful order made in that country.</p>
+
+<p>Personal information may be released to legal authorities in cases of suspected money laundering or other criminal activity, for the detection and prevention of fraud, or when required to satisfy the legal or regulatory requirements of federal or provincial governments and/or other regulatory authorities. Other reasons for the release of personal information include when we are legally required to do so (e.g. by court order) or to protect our assets (e.g. collection of overdue accounts). If we release information for any of these reasons,
+we keep a record of what, when, why and to whom such information was released.</p>
+
+<p>BMO Financial Group has policies in place that govern the retention of your personal information so it will be kept only for as long as it fulfills its intended purpose or as legally required.</p>
+
+<p><a href="#top">back to top</a></p>
+
+
+
+
+<p><a id="06" name="06"></a><span class="majorsub">6. Be Accurate</span><br>
+We are committed to maintaining the accuracy of your personal information and ensuring that it is complete and up-to-date. If you discover inaccuracies in our data, or your personal information changes, please notify the branch or office where you do business immediately, so that we can make the necessary changes. As well, we will make our best efforts to advise others of any
+important amendments to your personal information that we may have released to them. If we do not agree to make the amendments that you
+request, you may challenge our decision. Recourse is described in the <a href="#10">Provide Recourse</a> principle.</p>
+
+<p><a href="#top">back to top</a></p>
+
+<p><a id="07" name="07"></a><span class="majorsub">7. Use Appropriate Safeguards</span><br>
+Your personal information is secure within BMO Financial Group, regardless of the format in which it is held. We have comprehensive security controls to protect against unauthorized use, access, alteration, duplication, destruction, disclosure, loss or theft of your personal information.</p>
+
+<p>We maintain physical, electronic and procedural safeguards to protect your personal information. Examples of safeguards include restricted access to our information processing and storage areas, limited access to relevant information by authorized employees only, use of passwords, <a href="javascript:customPopup('/popup/0,2284,35649_13897849,00.html#Pin', 'scrollbars=1,resizable=1,width=500,height=530,left=125,top=-25,');">PINs</a> and pass keys, firewalls and <a href="javascript:customPopup('/popup/0,2284,35649_13897849,00.html#Encryption', 'scrollbars=1,resizable=1,width=500,height=530,left=125,top=-25,');">encryption</a> of electronically transmitted information, and the use of secure locks on filing cabinets and doors.</p>
+
+<p>We have agreements and controls in place with credit bureaux, credit insurers, other lenders and third party service providers requiring that any information provided by us must be safeguarded and used only for the sole purpose of providing the service we have requested the company to perform.</p>
+
+<p>Within BMO Financial Group web sites, <a href="javascript:customPopup('/bmo/portal/cda/popup_template/0,2284,35649_41718008,00.html', 'scrollbars=1,resizable=1,width=700,height=550,left=125,top=-25,');">cookies</a> or other information-tracking technologies may be used to improve the functionality or security of web sites, or to provide you with a more customized online experience. Please note that cookies cannot
+capture files or data stored on your computer.</p>
+
+<p><a href="#top">back to top</a></p>
+
+<p><a id="08" name="08"></a><span class="majorsub">8. Be Open</span><br>
+BMO Financial Group’s Privacy Code is also available in our branches and offices as a printed brochure. Our Privacy Code outlines why we ask for your personal information, how it is used and who it may be shared or disclosed to. Contact information is also provided, so that you know who and where to address your questions or concerns.</p>
+
+<p><a href="#top">back to top</a></p>
+
+<p><a id="09" name="09"></a><span class="majorsub">9. Give Individuals Access</span><br>
+If you want to review or verify your personal information, or find out to whom we have disclosed it, please request this by contacting the branch or office where you do business. We may need specific information from you to enable us to search for, and provide you with, the personal information we hold about you. We may charge you a nominal fee depending on the nature of your request. However, we will advise you of the fee prior to proceeding with your request. There may be instances where we are unable to provide some of the personal
+information we hold about you and if we are unable, we will let you know the reason(s) why.</p>
+
+<p>In most provinces you have the right to access and verify the personal information held about you by credit bureaux. We will provide you with the name and location of any credit bureau that has provided us with a report on you.</p>
+
+<p><a href="#top">back to top</a></p>
+
+<p><a id="10" name="10"></a><span class="majorsub">10. Provide Recourse</span><br>
+The branch or office where you do business is well equipped to handle any questions you may have about our Privacy Code. However, we want to hear from you if you have any further concerns. Please contact us at one of the following offices:</p>
+
+<p>President and Chief Executive Officer<br>
+Personal and Commercial Client Group<br>
+BMO Financial Group<br>
+P.O. Box 1<br>
+First Canadian Place<br>
+Toronto, ON M5X 1A1<br>
+Call: 1 800 372-5111</p>
+
+<p>Or</p>
+<p>President and Chief Executive Officer<br>
+Private Client Group<br>
+BMO Financial Group<br>
+P.O. Box 150<br>
+First Canadian Place<br>
+Toronto, ON M5X 1H3</p>
+
+<p>Or</p>
+
+<p>Chief Privacy Officer<br>
+BMO Financial Group<br>
+P.O. Box 150<br>
+First Canadian Place<br>
+Toronto, ON M5X 1H3<br>
+<a href="mailto:privacy.matters@bmo.com">privacy.matters@bmo.com</a></p>
+
+<p><span class="majorsub">Independent Oversight</span></p>
+
+<p>Office of the Ombudsman<br>
+BMO Financial Group<br>
+55 Bloor Street West, 8th Floor<br>
+Toronto, ON M4W 3N5<br>
+Call: 1 800 371-2541<br>
+Fax: 1 800 766-8029</p>
+
+<p>Or</p>
+
+<p>Office of the Privacy Commissioner of Canada<br>
+Place de Ville, Tower B, 3rd Floor<br>
+112 Kent Street<br>
+Ottawa, ON K1A 1H3<br>
+Call: 1 800 282-1376<br>
+Fax: 613 947-6850</p>
+
+<p><a href="#top">back to top</a></p>
+
+<p><a id="Respecting" name="Respecting"></a><span class="majorsub">Respecting Your Privacy Preferences</span><br>
+BMO Financial Group fully respects your privacy preferences. Simply contact the branch or office
+where you do business to discuss the following options that are available to you:</p>
+<ul>
+<li><b>Direct Marketing</b> – If you 
+  don’t want to receive <a href="javascript:customPopup('/popup/0,2284,35649_13897849,00.html#Directmarketing', 'scrollbars=1,resizable=1,width=500,height=530,left=125,top=-25,');">direct marketing</a>, request that we remove the personal 
+  information about you from our marketing lists. 
+  
+</li><li><b>Sharing</b> – If you don’t want us to share personal information about you among BMO Financial Group members(see <a href="#Scope">Scope</a> section for list of members), request to opt out of this type of sharing. Please note that you cannot opt out of sharing your personal information where you have requested a product or service that is jointly offered by more than one member of BMO Financial Group. 
+  
+
+</li><li><b>Social Insurance Number (SIN)</b> – If you don’t want us to use your SIN for administration purposes as described in the <a href="#02">Identifying Purpose</a> principle, with the exception of income tax reporting purposes, request to opt out.</li>
+</ul>
+
+<p><a href="#top">back to top</a></p>
+
+<p><a id="Scope" name="Scope"></a><span class="majorsub">Scope</span><br>
+This Code applies to the operations of BMO Financial Group in Canada, regardless of how you choose to do business with us – in our branch or office, at an ATM, online, or by telephone. Reference throughout this Code to “we”, “our” and “us” means BMO Financial Group and its members which include: Bank of Montreal, Bank of Montreal Mortgage Corporation, BMO Investments Inc., BMO Trust Company, BMO Nesbitt Burns Inc., BMO InvestorLine Inc., BMO Harris Investment Management Inc., BMO Life Insurance Company, BMO Nesbitt Burns Financial Services Inc., Jones Heward Investment Counsel Inc. and Guardian Group of Funds Ltd.</p>
+
+<p><a href="#top">back to top</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+        </td></tr></tbody></table>
+<!-- End of Popup White Space-->
+	</td>
+
+	</tr>
+</tbody></table>
 
 </body></html>
