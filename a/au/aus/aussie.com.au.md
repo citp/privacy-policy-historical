@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226112108id_/http%3A//www.aussie.com.au/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502174019id_/http%3A//www.aussie.com.au/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -69,7 +69,7 @@ Aussie
 Sydney NSW 2000
 
 or email the Privacy Officer at   
-[privacy@eAUSSIE.com.au](mailto:privacy@eAUSSIE.com.au)
+[privacy@aussie.com.au](mailto:privacy@aussie.com.au)
 
 **How long do we keep information about you?**  
 By law, we are required to hold certain information about you, even after you are no longer an Aussie customer. However, after such time you can be assured we will destroy your personal information thoroughly and safely.
@@ -114,7 +114,7 @@ Aussie
 Sydney NSW 2000
 
 or email the Privacy Officer at   
-[privacy@eAUSSIE.com.au](mailto:privacy@eAUSSIE.com.au)
+[privacy@aussie.com.au](mailto:privacy@aussie.com.au)
 
 We will make all efforts possible to investigate your complaint, and advise you of the outcome as soon as possible.
 
@@ -134,7 +134,7 @@ Aussie
 Sydney NSW 2000
 
 or email the Privacy Officer at   
-[privacy@eAUSSIE.com.au](mailto:privacy@eAUSSIE.com.au)
+[privacy@aussie.com.au](mailto:privacy@aussie.com.au)
 
 **Direct marketing offers and information**  
 The details you give us may be used to inform you about any special offers we think will be of interest to you, and to update you on new products and services or changes to our website.
