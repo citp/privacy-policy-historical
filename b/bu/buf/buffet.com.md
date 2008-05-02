@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffet.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227022440id_/http%3A//www.buffet.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffet.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502202848id_/http%3A//www.buffet.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Old Country Buffet, Hometown Buffet & Country Buffet - Privacy Policy
 
