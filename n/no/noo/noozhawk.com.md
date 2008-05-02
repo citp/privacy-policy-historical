@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noozhawk.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225211245id_/http%3A//www.noozhawk.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noozhawk.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502195907id_/http%3A//www.noozhawk.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Noozhawk - Terms of Use
 
@@ -24,7 +24,7 @@ A cookie is a small amount of data that is sent to your browser from a Web serve
 
 ### Children's Privacy
 
-Noozhawk will not directly solicit personal information from children age 13 years old or younger without first obtaining a [Parental Consent Form](https://web.archive.org/web/20071225211245id_/http%3A//www.noozhawk.com/images/pdf/parental_consent_form.pdf) signed by a parent or legal guardian. The sole exception to this is our mailing lists. If a child under 13 signs up for our e-letters or any of our mailing lists, he or she will remain subscribed unless a parent or legal guardian asks us to remove the name, or the child elects to opt out. At no time will we provide personal information from children age 13 years old or younger for other companies' use without first obtaining the consent of a parent or guardian.
+Noozhawk will not directly solicit personal information from children age 13 years old or younger without first obtaining a [Parental Consent Form](https://web.archive.org/web/20080502195907id_/http%3A//www.noozhawk.com/images/pdf/parental_consent_form.pdf) signed by a parent or legal guardian. The sole exception to this is our mailing lists. If a child under 13 signs up for our e-letters or any of our mailing lists, he or she will remain subscribed unless a parent or legal guardian asks us to remove the name, or the child elects to opt out. At no time will we provide personal information from children age 13 years old or younger for other companies' use without first obtaining the consent of a parent or guardian.
 
 Noozhawk strongly recommends parental supervision when a child uses the Internet, particularly when a child enters a forum or uses e-mail. We also encourage parents to instruct their children not to give out personal information in these areas.
 
@@ -46,7 +46,7 @@ Noozhawk takes commercially reasonable precautions to protect our users' persona
 
 ### Unsubscribe and Data Removal Policies
 
-To unsubscribe from any Noozhawk mailing list, please follow the instructions at the bottom of the e-mail itself or send an e-mail requesting removal to [webser-vices@noozhawk.com](mailto:webser-vices@noozhawk.com). Please include the list from which you are asking to be removed.
+To unsubscribe from any Noozhawk mailing list, [click here](http://www.noozhawk.com/subscribe.html) or send an e-mail requesting removal to [wmacfadyen@noozhawk.com](mailto:wmacfadyen@noozhawk.com). Please include the list from which you are asking to be removed.
 
 ### Further Questions?
 
