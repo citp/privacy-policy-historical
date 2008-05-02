@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the irishexaminer.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425033043id_/http%3A//www.irishexaminer.com/pport/web/Privacy_Policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishexaminer.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502151147id_/http%3A//irishexaminer.com/irishexaminer/pages/flat.aspx-qqqincludename%3Dprivacypolicy-qqqg%3Dhome-qqqm%3Dprivacypolicy-qqqa%3Dgeneral-qqqx%3D1.asp) for the most accurate reproduction.*
 
-# Examiner
+# Irish Examiner | Irish News | News from Ireland
 
 |  **  
 Privacy Policy** Irish Examiner has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.irishexaminer.com](http://www.examiner.ie/). 
@@ -10,31 +10,12 @@ Privacy Policy** Irish Examiner has created this privacy statement in order to d
   
 **IP address**
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address may also be used to help identify you and to gather broad demographic information. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. **
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address may also be used to help identify you and to gather broad demographic information. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
 
 * * *
 
   
-Registration Form**
-
-Irishexaminer.com and its sister company Thomas Crosbie Media (TCM) respects your right to privacy. 
-
-By providing the registration data for the purpose of completing the registration process you are providing TCM with personal information. HOWEVER, PLEASE NOTE YOUR EMAIL ADDRESS WILL NOT BE DISTRIBUTED TO ANY THIRD PARTIES.
-
-This information will be used by TCM for the purpose for which it was provided by you and for verification purposes and statistical analysis.
-
-Please note that when you tick the relevant "opt-in" box under the registration heading "Special Offers and Free Gifts Categories", your personal information will be used to provide you with details of products, services, competitions or promotions being provided by 
-
-  * Irishexaminer.com 
-  * Thomas Crosbie Media or any other of its associated companies 
-  * Other third parties/selected partners. 
-
-Users may at any stage "opt -out" of receiving future mailings; see the choice/opt out section below. 
-
-* * *
-
-  
-Other Sites 
+**Other Sites**
 
 This site contains links to other sites. 
 
@@ -59,14 +40,8 @@ We may run competitions and promotions on our site in which we ask visitors for 
   
 Advertising**
 
-We may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. **
-
-* * *
-
-  
-Public Forums**
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  **
+We may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. **  
+****
 
 * * *
 
@@ -80,7 +55,7 @@ This site has security measures in place to protect the loss, misuse and alterat
   
 Children's Guidelines**
 
-By its nature, this site can collect online contact information from children without prior parental consent or parental notification. To that end, we recommend that this service is not used unsupervised by children.  **
+By its nature, this site can collect edfull contact information from children without prior parental consent or parental notification. To that end, we recommend that this service is not used unsupervised by children.  **
 
 * * *
 
