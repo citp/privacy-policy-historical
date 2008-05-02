@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelalerts.ca privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202074515id_/http%3A//www.travelalerts.ca/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1517%26Itemid%3D185) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelalerts.ca privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502120141id_/http%3A//www.travelalerts.ca/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1517%26Itemid%3D185) for the most accurate reproduction.*
 
-# Travelalerts.ca - Privacy
+# Travelalerts.ca - Privacy Policy
 
 Travelalerts.ca is committed to safeguarding your privacy online. Please read the following policy to understand how Travelalerts.ca gathers and uses personal information that you provide. Please note that this policy may change at any time without notice.
 
@@ -62,6 +62,5 @@ Travelalerts.ca contains many links to other websites. Please note that we are n
 
 If you have any questions about this Privacy Policy, Please contact us via email at administrator @ travelalerts.ca.
 
-  
-  
+[](http://www.addthis.com/bookmark.php)   
 
