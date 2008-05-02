@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the torridart.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226120835id_/http%3A//www.torridart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torridart.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503013214id_/http%3A//www.torridart.com/privacy) for the most accurate reproduction.*
 
-# TorridArt.com - The erotic photography of Ryder Aedan Perry
+# TorridArt.com Privacy Statement
 
 ### Privacy Policy
 
