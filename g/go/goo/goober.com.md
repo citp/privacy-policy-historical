@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goober.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011230300id_/http%3A//www.goober.com/privacy_en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goober.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502221400id_/http%3A//www.goober.com/en/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy for the Protection of Your Privacy
+# goober
 
 The protection of your privacy is our highest priority. Therefor, goober sets a high value on the protection and security of your data and feels obliged to handle your individual-related data as well as your communication data as confidential as possible.  
 Below, we inform you about how your individual-related data is generated in goober and with which accuracy and diligence we deal with it.  
@@ -34,7 +34,7 @@ Despite of some information, like username and goober ID, you decide yourself wh
 
 **3\. Right of access to personal data**
 
-You can always get access to your data you saved in goober, its origin and function. Furthermore, you have the right to correct, delete and lock wrong data. Please send an e-mail with your questions to support@goobernetworks.com.
+You can always get access to your data you saved in goober, its origin and function. Furthermore, you have the right to correct, delete and lock wrong data. Please send an e-mail with your questions to [privacy@goobernetworks.com](mailto:privacy@goobernetworks.com).
 
 **4\. Registration information**
 
