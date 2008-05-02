@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103034436id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502032642id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.*
 
 # www.usacycling.org -- CHILDREN'S ONLINE PRIVACY PROTECTION ACT
 
@@ -53,6 +53,6 @@ Parents may opt to delete or remove personal information obtained on-line relati
 
 Parents are advised that should they opt to delete or remove personal information obtained on-line pertaining to their child, all licenses held by the child may be expired as personal information is integral to USA Cycling's licensing program. In addition, information relating to your child will be removed from all e-mail or mailing lists including, but not limited to, lists relating to racing opportunities, your child's ranking in the Results and Ranking program, and Member Benefits available to your child.
 
- Parents are advised the use of a credit card in an on-line transaction to purchase of junior license constitutes implied consent for USAC to collect and retain personal information regarding your child.
+Parents are advised the use of a credit card in an on-line transaction to purchase a junior license constitutes implied consent for USAC to collect and retain personal information regarding your child.
 
 This Article Published 2007-09-13 13:38:12 For more information contact: [membership@usacycling.org](mailto:membership@usacycling.org)
