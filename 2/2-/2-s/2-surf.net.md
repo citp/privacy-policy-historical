@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-surf.net privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225172000id_/http%3A//www.2-surf.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-surf.net privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502151910id_/http%3A//www.2-surf.net/privacy.php) for the most accurate reproduction.*
 
 # Cosmetics,Fragrance,Handbags,Jewelry,Shoes,Music,Art,Music,Automotive,WebTools
 
@@ -15,42 +15,41 @@
 |  Recent Listings  
 ---  
   
-  [ ** _Stas_**](http://www.2-surf.net/Business/Business-To-Business/5-18-0-6547-0-0.html) \- USA, 
+  [ ** _1º TV FOR RICH & FAMOUS_**](http://www.2-surf.net/Family/Entertainment/12-47-0-18454-0-0.html) \- Other, New York 
 
-  http://www.juggernauth.net/
+  Theresa Bernabe TV, the first international luxury television on internet dedica
 
-  (10-20-2006)
+  (12-11-2006)
 
-  [ ** _San Antonio Texas Divorce Attorney_**](http://www.2-surf.net/Legal/Services/20-88-0-12428-0-0.html) \- Australia, Alabama 
+  [ ** _Clean Spam_**](http://www.2-surf.net/Computer-&-Electronics/Computer-Support/9-36-0-21257-0-0.html) \- Australia, Alabama 
 
-  San Antonio Texas Family Law Attorney, Divorce, Probate  
-Court Lawyer, Wills, 
+  Clean Spam provides spam removal service for all businesses. We are specialists 
 
-  (10-20-2006)
+  (01-28-2007)
 
-  [ ** _Sisdatapr_**](http://www.2-surf.net/Business/Business-To-Business/5-18-0-12014-0-0.html) \- USA, Other 
+  [ ** _French abroad_**](http://www.2-surf.net/Education/Languages/10-42-0-14348-0-0.html) \- Other, Other 
 
-  SisdataPR Survey Listing become a member and Rate Programs share your opinions
-
-  (10-20-2006)
-
-  [ ** _posh pleasure_**](http://www.2-surf.net/ClothingApparel/Women's/7-28-0-2897-0-0.html) \- United Kingdom, 
-
-  great range of high quality lingerie
+  Intensive French for non-speakers school in Paris, France. Various courses &
 
   (10-20-2006)
 
-  [ ** _Evolve incorporation_**](http://www.2-surf.net/Web-Services/Web-Design/28-119-0-2956-0-0.html) \- India, 
+  [ ** _Pocono Earth_**](http://www.2-surf.net/Recreation-&-Leisure/Outdoors/24-99-0-23526-0-0.html) \- USA, Pennsylvania 
 
-  we specialize in offshore ecommerce and website design, web application developm
+  Free recreational locations in the Pocono Mountains PA. Hiking, Hunting, fishing
 
-  (10-20-2006)
+  (03-06-2007)
 
-  [ ** _Alex_**](http://www.2-surf.net/Food-&-Drinks/Gourmet/14-56-0-1757-0-0.html) \- United Kingdom, 
+  [ ** _gts_**](http://www.2-surf.net/ArtPhotoMusic/Music/2-5-0-16213-0-0.html) \- Other, Other 
 
-  Only the best of Steakhouse cuisine. Delicious meat and wine. Play our online ga
+  Dedicated to Ludwig van Beethoven, the site offers the reader detailed informati
 
-  (10-19-2006)  
+  (11-05-2006)
+
+  [ ** _Sabamasoft_**](http://www.2-surf.net/Home-&-Garden/Kitchen/18-82-0-8357-0-0.html) \- USA, 
+
+  This BathroomAccesories common description appears at the end of every Category 
+
+  (10-20-2006)  
   
   
   
@@ -168,78 +167,76 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 Featured Listings  
 ---  
   
+  [ ** _Insurance Broker Finder UK_**](http://www.2-surf.net/Insurance/Car-Insurance/19-137-0-29558-0-0.html) \- United Kingdom, Idaho 
+
+  This website has listed every uk insurance broker from scotland and ireland to w
+
+  [ ** _SafeGuard World International Managed Payroll_**](http://www.2-surf.net/Business/Business-To-Business/5-18-0-29510-0-0.html) \- United Kingdom, Alabama 
+
+  SafeGuard World provide managed payroll and HR solutions to a range of industrie
+
+  [ ** _The Cellular One_**](http://www.2-surf.net/Commerce/Telephone-Services/8-33-0-14132-0-0.html) \- USA, Kansas 
+
+  Compare Cell Phones, Research Cellular phones, Free cell phones, Compare Cell Ph
+
+  [ ** _Felix-Enterprises_**](http://www.2-surf.net/ClothingApparel/Women's/7-28-0-15764-0-0.html) \- USA, Oregon 
+
+  We carry hot lingerie and sexy intimate. FREE shipping on all orders over $50.00
+
   [ ** _Phone Shop Finder_**](http://www.2-surf.net/Commerce/Telephone-Services/8-33-0-29559-0-0.html) \- United Kingdom, Arkansas 
 
   This website is a large directory of all UK phone shops and mobile phone shops. 
 
-  [ ** _Cleaner Finder_**](http://www.2-surf.net/Health-&-Beauty/Wellness/17-76-0-29555-0-0.html) \- United Kingdom, Kentucky 
+  [ ** _Photographer Erik Hagman_**](http://www.2-surf.net/ArtPhotoMusic/Photo/2-6-0-29529-0-0.html) \- USA, New York 
 
-  This website has listed every UK cleaner and UK cleaning firms. They offer cheap
-
-  [ ** _Car hire Finder_**](http://www.2-surf.net/Travel/Car/27-108-0-29553-0-0.html) \- United Kingdom, Arkansas 
-
-  This website has listed every car hire firm in the uk. the listings provide chea
-
-  [ ** _Presentation Folder Printing_**](http://www.2-surf.net/Business/Office/5-20-0-29552-0-0.html) \- Australia, Alabama 
-
-  Nothing adds a bit of professionalism to a presentation than a quality presentat
-
-  [ ** _Flowers by 1-800-FLORALS_**](http://www.2-surf.net/Gifts-&-Flowers/Flowers/16-66-0-29527-0-0.html) \- USA, Illinois 
-
-  Send flowers online with 1-800-FLORALS florists. Award-winning same day and next
-
-  [ ** _Foreign Currency Mortgages - Tokyo Capital One_**](http://www.2-surf.net/Financial-services/Loans/13-54-0-29534-0-0.html) \- Other, California 
-
-  Maximize cash flow with the lowest interest rates in the world! Foreign currency  
+  Photographer Erik Hagman, Cars, Still-Life and Landscape Photography.  
   
   
 Top Listings  
 ---  
   
-  [ ** _BestgenericPharmacy_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-9799-0-0.html) \- USA, 
-
-  generic pharmacy online offers you the finest quality generic drugs for a very c
-
-  ( **14692** Hits since 10-20-2006)
-
   [ ** _drugstores4u.com_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-2222-0-0.html) \- Canada, 
 
   FDA approval drugs online, the cheapest prescription Tramadol, fioricet, ultram,
 
-  ( **13480** Hits since 10-19-2006)
+  ( **16767** Hits since 10-19-2006)
+
+  [ ** _BestgenericPharmacy_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-9799-0-0.html) \- USA, 
+
+  generic pharmacy online offers you the finest quality generic drugs for a very c
+
+  ( **16467** Hits since 10-20-2006)
 
   [ ** _bestgenericpharmacy_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-2809-0-0.html) \- USA, 
 
   Order generic Viagra and other prescription drugs online, online generic pharmac
 
-  ( **11376** Hits since 10-20-2006)
+  ( **12809** Hits since 10-20-2006)
 
   [ ** _PillHunt_**](http://www.2-surf.net/Sports-&-Fitness/Exercise-&-Health/26-102-0-2305-0-0.html) \- USA, 
 
   Weightloss comparison and general fitness information at Pillhunt.com
 
-  ( **6103** Hits since 10-20-2006)
+  ( **6826** Hits since 10-20-2006)
 
   [ ** _genericsmed_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-15787-0-0.html) \- United Kingdom, Other 
 
   Buy Generic Viagra, Cialis, Propecia, Levitra online. Guaranteed Cheap,Confident
 
-  ( **4042** Hits since 10-29-2006)
+  ( **5834** Hits since 10-29-2006)
 
-  [ ** _Cariboo Blades Fine Art,Traditional Tools and Knives_**](http://www.2-surf.net/ArtPhotoMusic/Art/2-4-0-11594-0-0.html) \- Canada, Washington 
+  [ ** _Cheap Web Design_**](http://www.2-surf.net/Web-Services/Web-Design/28-119-0-19105-0-0.html) \- United Kingdom, Alabama 
 
-   Aki's holiday card catalogue is ready on the site.
+  Cheap inexpensive website design, SEO and Marketing based in scotland UK. Low pr
 
-Traditional to
-
-  ( **3071** Hits since 10-20-2006)  
+  ( **3950** Hits since 12-21-2006)  
   
   
   
   
   
   
-© 2001-2007 [ 2-surf.net ](http://www.2-surf.net/) All Rights Reserved. 
+© 2001-2008 [ 2-surf.net ](http://www.2-surf.net/) All Rights Reserved. 
 
 All logos and trademarks in this site are property of their respective owners. 
 
