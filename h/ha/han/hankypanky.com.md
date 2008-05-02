@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hankypanky.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230192026id_/http%3A//www.hankypanky.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hankypanky.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502050919id_/http%3A//www.hankypanky.com/privacy/index.php) for the most accurate reproduction.*
 
 # Hanky Panky
 
