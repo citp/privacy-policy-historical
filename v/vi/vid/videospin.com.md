@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videospin.com privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103141813id_/http%3A//apps.pinnaclesys.com/cdb/register/privacy_policy.aspx%3FLangue_ID%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videospin.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502113430id_/http%3A//apps.pinnaclesys.com/cdb/register/privacy_policy.aspx%3FLangue_ID%3D7) for the most accurate reproduction.*
 
 # Pinnacle Systems is the Leader in Digital Video
 
@@ -89,5 +89,3 @@ Article 26 of the European Union's Data Protection Directive allows for transfer
 By agreeing to the [Terms of Service](https://web.archive.org/PublicSite/us/About+Us/Company+Info/Terms+of+Service.htm) and this privacy policy, you consent to the transfer of all such information to the United States and other countries which may not offer an equivalent level of protection to that required in the European Union and to the processing of that information as described in this privacy policy. 
 
 Helpful Links
-
-©2006 Pinnacle Systems, Inc. All Rights Reserved. All trademarks and registered trademarks are the property of their respective owners. Website content and product specifications are subject to change. 
