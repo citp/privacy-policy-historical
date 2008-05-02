@@ -1,26 +1,6 @@
-> *The following text is extracted and transformed from the musicrooms.net privacy policy that was archived on 2007-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070808015820id_/http%3A//www.musicrooms.net/online/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicrooms.net privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502220409id_/http%3A//www.musicrooms.net/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy - Musicrooms.net
-
-  **[Musicrooms.net](http://www.musicrooms.net/) / Privacy & Disclaimer**  
-  
-| 
-
-[](http://www.musicrooms.net/)
-
-|   
----|---  
-  
-|  |  | 
-
-**Related** :   
-[Terms Of Use](https://web.archive.org/web/20070808015820id_/http%3A//www.musicrooms.net/online/terms.htm)  
-[Privacy Policy](https://web.archive.org/web/20070808015820id_/http%3A//www.musicrooms.net/online/privacy.htm)   
-[Disclaimer](https://web.archive.org/web/20070808015820id_/http%3A//www.musicrooms.net/online/privacy.htm)   
-[Copyrights](https://web.archive.org/web/20070808015820id_/http%3A//www.musicrooms.net/online/copyrights.htm)
-
-**Privacy Policy  
-**
+# Musicrooms.net - Privacy Policy
 
 **The Information We Collect**
 
@@ -52,7 +32,7 @@ Personally Identifiable Information—When visiting Musicrooms.net and signing u
 
  Should you have other questions or concerns about this privacy policy, please contact us by , email (
 
-[click here](https://web.archive.org/web/20070808015820id_/http%3A//www.musicrooms.net/online/uk-flavacontact.htm)).
+[click here](http://www.musicrooms.net/online/uk-flavacontact.htm)).
 
    **Advertising Sales Specific Terms and Conditions**
 
@@ -78,8 +58,4 @@ Any unauthorized modification, tampering or change of any information, or any in
 We reserve the right to modify the content of this website in any way, at any time, and for any reason without prior notification, and will not be liable in any way for possible consequences of such changes. 
 
 Musicrooms.net reserves all legal rights and remedies available.  
-  
-  
----|---  
-  
-© 2020 Musicrooms.net.  No part of this site may be reproduced or used for commercial purposes without prior permission. 
+
