@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the streetprices.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206155712id_/http%3A//www.streetprices.com/Info/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetprices.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502130101id_/http%3A//www.streetprices.com/Info/Privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - StreetPrices.com
-
-## StreetPrices.com Privacy Policy
+# Privacy Policy
 
 StreetPrices.com, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
 
@@ -14,4 +12,6 @@ In some cases, you may voluntarily provide personal information in response to a
 
 ### Cookies
 
-StreetPrices.com, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. StreetPrices.com cannot use these cookies to personally identify you in any way. What are cookies and why do we use them? A cookie is a unique number that is provided to you the first time StreetPrices.com serves you an ad. This unique number, which is stored in a cookie file on your computer, helps StreetPrices.com target ads to you. This cookie can help StreetPrices.com ensure that we don't serve you the same ad multiple times, and help our advertisers understand what you like and don't like about their offerings so that they can cater better to your needs the next time you are interested in their products or services. While we believe that cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you, they are not required for StreetPrices.com to deliver you an ad. If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
+StreetPrices.com, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. StreetPrices.com cannot use these cookies to personally identify you in any way. What are cookies and why do we use them? A cookie is a unique number that is provided to you the first time StreetPrices.com serves you an ad. This unique number, which is stored in a cookie file on your computer, helps StreetPrices.com target ads to you. This cookie can help StreetPrices.com ensure that we don't serve you the same ad multiple times, and help our advertisers understand what you like and don't like about their offerings so that they can cater better to your needs the next time you are interested in their products or services. While we believe that cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you, they are not required for StreetPrices.com to deliver you an ad. 
+
+If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
