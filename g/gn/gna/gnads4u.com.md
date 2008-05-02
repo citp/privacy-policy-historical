@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnads4u.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102192715id_/http%3A//www.gnads4u.com/staticpages.html%3F_a%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnads4u.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502045616id_/http%3A//www.gnads4u.com/staticpages.html%3F_a%3Dprivacy) for the most accurate reproduction.*
 
 # GNAds4U.com - Privacy policy
 
@@ -6,7 +6,7 @@
 
 Join gnads4u.com NOW for FREE. You will be able to save your search queries and get free email alerts whenever new ads matching your requirements become available. 
 
-[ ](https://web.archive.org/web/20071102192715id_/http%3A//www.gnads4u.com/personal.html "go")
+[ ](https://web.archive.org/web/20080502045616id_/http%3A//www.gnads4u.com/personal.html "go")
 
 ## 
 
@@ -52,7 +52,8 @@ The Owner may access a registered user's Personal Information and disclose such 
 
 
 
-Use of Cookies The Site uses of "cookies" which refers to a small text file sent from a server to your hard disk by a website browser. Cookies contain a unique identification number that identifies your browser, but not you, to our computers each time you visit the Site. Cookies allow the Site to authenticate users, customize the Site experience, track user preferences, and receive information on the volume and characteristics of website traffic. Certain Site services are only available through the use of cookies. Some browsers may allow you to decline cookies; doing so, however, will interfere with the functionality of the Site. 
+**Use of Cookies**  
+The Site uses "cookies" which refers to a small text file sent from a server to your hard disk by a website browser. Cookies contain a unique identification number that identifies your browser, but not you, to our computers each time you visit the Site. Cookies allow the Site to authenticate users, customize the Site experience, track user preferences, and receive information on the volume and characteristics of website traffic. Certain Site services are only available through the use of cookies. Some browsers may allow you to decline cookies; doing so, however, will interfere with the functionality of the Site. 
 
 **Log Files**  
 We use IP addresses to analyze trends, administer the Site, track user movement, and collect general demographic information for non-individualised use. IP addresses are not linked to personally identifiable information. 
