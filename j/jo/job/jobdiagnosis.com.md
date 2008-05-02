@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobdiagnosis.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211155010id_/http%3A//www.jobdiagnosis.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D12%26Itemid%3D28) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobdiagnosis.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502142810id_/http%3A//www.jobdiagnosis.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D12%26Itemid%3D28) for the most accurate reproduction.*
 
 # Privacy Policy - JobDiagnosis
 
