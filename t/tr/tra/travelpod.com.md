@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelpod.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227110622id_/http%3A//www.travelpod.com/cgi-bin/help.pl%3Ftweb_helpID%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpod.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502132207id_/http%3A//www.travelpod.com/cgi-bin/help.pl%3Ftweb_helpID%3Dprivacypolicy) for the most accurate reproduction.*
 
-# 0
+# Privacy Policy
 
 **Privacy Policy**   
 This privacy policy ("Privacy Policy") applies to collection and use of personal information by means of this Web site (the "Web site"). The use of the Web site is also governed by the Terms of Use, of which this Privacy Policy forms a part. 
@@ -11,7 +11,7 @@ BY USING THE WEB SITE, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY.
 
 Use Of Personal Information 
 
-TravelPod Corporation and/or its affiliates ("TravelPod") owns and operates the Web site and is committed to protecting the privacy of its users. TravelPod does not collect personal information about individual users except when such personal information is provided to TravelPod on a voluntary basis and when monitoring traffic to the Web site. TravelPod uses your personal information to help it create and deliver content most relevant to you and to provide you with information about TravelPod and its products and services. 
+TripAdvisor LLC and/or its affiliates ("TravelPod") owns and operates the Web site and is committed to protecting the privacy of its users. TravelPod does not collect personal information about individual users except when such personal information is provided to TravelPod on a voluntary basis and when monitoring traffic to the Web site. TravelPod uses your personal information to help it create and deliver content most relevant to you and to provide you with information about TravelPod and its products and services. 
 
 If you choose to provide information via the Web site though site registration, surveys, forms or any other means, that information becomes the property of TravelPod (the foregoing does not apply to Member Content, as defined in the Terms of Use). Subject to the Terms of Use, personal information about users will not be sold or otherwise transferred or disclosed to unaffiliated third parties without the user's approval except TravelPod reserves the right to disclose personal information: (a) to its affiliates and subsidiaries, (b) to third party service providers of TravelPod provided that such disclosure will be limited to information needed to deliver their service, and further provided that such third parties shall be prohibited from using the information for any other purpose; (c) to conform to the edicts of the law or comply with legal process served on TravelPod; (d) to protect and defend the rights or property of TravelPod; and, (e) to act in urgent circumstances to protect the personal safety of users of TravelPod, its Web sites, or the public. In addition, TravelPod shall be entitled to disclose and transfer personal information as part of a sale of substantially all of its assets, or the assets related to a particular line of business, to a third party, provided that such third party agrees to protect the personal information with no less a degree of care as set out within this policy. 
 
