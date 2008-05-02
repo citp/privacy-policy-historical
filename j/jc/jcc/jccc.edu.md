@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the jccc.edu privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630231719id_/http%3A//www.jccc.edu/home/depts/003100/site/website/tocindex/siteprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jccc.edu privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502102406id_/http%3A//www.jccc.edu/home/depts/003100/site/website/tocindex/siteprivacy) for the most accurate reproduction.*
 
 # JCCC::Web Site Privacy Policy
-
-Johnson County Community College  
-12345 College Blvd.  
-Overland Park, KS 66210-1299  
-913-469-8500   
-
-
-| 
-
-Web Site Privacy Policy 
 
 **B. PRIVACY POLICY**
 
@@ -36,4 +26,4 @@ JCCC reserves the right to contact site visitors regarding account status and ch
 
 JCCC reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy. 
 
-### [Information Privacy and Security](https://web.archive.org/home/depts/003100/site/website/tocindex/siteprivacy/info_privacy-security)
+### [Information Privacy and Security](https://web.archive.org/home/depts.php/003100/site/website/tocindex/siteprivacy/info_privacy-security)
