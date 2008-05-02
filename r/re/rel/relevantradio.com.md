@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relevantradio.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210175258id_/http%3A//www.relevantradio.com/NETCOMMUNITY/Page.aspx%3F%26pid%3D378%26srcid%3D534) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantradio.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502060850id_/http%3A//www.relevantradio.com/NETCOMMUNITY/Page.aspx%3Fpid%3D378%26srcid%3D534) for the most accurate reproduction.*
 
 # Relevant Radio®
 
@@ -50,5 +50,5 @@ Relevant Radio
 Green Bay, WI 54311  
 (800) 342-0306
 
-[Click here](http://www.relevantradio.com/NETCOMMUNITY/Page.aspx?&pid=365&srcid=378) to send e-mail.  
+[Click here](http://www.relevantradio.com/NETCOMMUNITY/Page.aspx?pid=365&srcid=378) to send e-mail.  
 
