@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eigroup.co.uk privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011063536id_/http%3A//www.eigroup.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eigroup.co.uk privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502234637id_/http%3A//www.eigroup.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# Essential Information Group - UK Property Auctions
+# Essential Information Group - Privacy Policy
 
 ## Privacy Policy
 
@@ -22,7 +22,7 @@ We may ask for further information about you as part of online surveys or if you
 
 **Contact details**
 
-Contact details provided by you (such as your name, job title, telephone and fax number and your e-mail and postal addresses) may be used occasionally to tell you about important changes to the service or Website and its functionality. They may also be used by us and other businesses related to EIG to provide you with information about their services and products and disclosed to third party businesses and advertisers for the same purpose. If you do not wish us to use this information in this way, please send an e-mail to: [admin@eigroup.co.uk](mailto:admin@eigroup.co.uk)
+Contact details provided by you (such as your name, job title, telephone and fax number and your e-mail and postal addresses) may be used occasionally to tell you about important changes to the service or Website and its functionality. They may also be used by us and other businesses related to EIG to provide you with information about their services and products and disclosed to third party businesses and advertisers for the same purpose. If you do not wish us to use this information in this way, please send an e-mail to: admin@eigroup.co.uk 
 
 **Cookies**
 
