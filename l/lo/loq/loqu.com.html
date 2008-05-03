@@ -1,0 +1,184 @@
+<!--The following is the downloaded HTML source of the loqu.com privacy policy that was archived on 2008-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080503220438id_/http%3A//www.loqu.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Carcaar - Privacy Policy</title>
+<meta name="description" content="Privacy Policy - Carcaar is a place for people to discover and share cars on the web - Online Car Social Network.">
+<meta name="keywords" content="privacy, carcaar, car social network, auto news, auto events, car pictures, automotive forums, car videos">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+<link href="http://www.loqu.com/templates/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://www.loqu.com/js/global.js"></script>
+<script type="text/javascript" src="http://www.loqu.com/js/base.js"></script>
+<script type="text/javascript" src="http://www.loqu.com/js/cars.php"></script>
+</head>
+<body id="about_us_body">
+<div id="header">
+	<div class="inner">
+		<ul>
+			<li class="on"><a href="http://www.loqu.com"><span>Home</span></a></li>
+<li><a href="http://www.loqu.com/news"><span>News</span></a></li>
+<li><a href="http://www.loqu.com/blogs"><span>Blogs</span></a></li>
+<li><a href="http://www.loqu.com/photos"><span>Photos</span></a></li>
+<li><a href="http://www.loqu.com/videos"><span>Videos</span></a></li>
+<li><a href="http://www.loqu.com/members"><span>Members</span></a></li>
+<li><a href="http://www.loqu.com/groups"><span>Groups</span></a></li>
+		</ul>
+		<p id="login_info"><a href="http://www.loqu.com/login">Login</a> | <a href="http://www.loqu.com/signup">Sign up</a></p>
+		<form action="" method="post" onsubmit="Search(this); return false;">
+			<input type="text" name="str" maxlength="100">
+			<select name="selector">
+		<option value="">Everything</option>
+		<option value="news">News</option>
+                <option value="mycars">My Cars</option>
+		<option value="photos">Photos</option>
+		<option value="videos">Videos</option>
+                <option value="blogs">Blogs</option>
+		<option value="groups">Groups</option>
+                <option value="members">Members</option>
+                <option value="events">Events</option>
+			</select>
+			<input type="submit" value="Search" class="btn">
+		</form>
+		<a href="http://www.loqu.com/"><img src="http://www.loqu.com/images/logo.gif" alt="Loqu.com"></a>
+	</div><!--inner end-->
+</div><!--header end-->
+<script type="text/javascript">
+function CodeCookie(str){
+		var strRtn="";
+		for (var i=str.length-1;i>=0;i--) {
+			strRtn+=str.charCodeAt(i);
+			if (i) strRtn+="O";
+		}
+		return strRtn;
+}
+function DecodeCookie(str){
+		/*@cc_on @*/
+		var strArr;
+		var strRtn="";
+		strArr=str.split("O");
+		for (var i=strArr.length-1;i>=0;i--) 
+			strRtn+=String.fromCharCode(eval(strArr[i]));
+	return strRtn;
+}
+var status = '';
+function checkCookie(){
+	var allcookie = document.cookie.split('; ');
+	//	var isautologin = false;
+	var islogon = false;
+	for(var i=0;i<allcookie.length;i++){
+		var cookiename = allcookie[i].split('=')[0];
+		if(cookiename=='mnm_user'){
+			islogon = true;
+		}
+		if(cookiename == 'mnm_status'){
+			var tmpString = unescape(allcookie[i].split('=')[1]);
+			status = tmpString;
+		}
+	}
+	if(islogon == true){
+		return true;
+	}else{
+		return false;
+	}
+}
+</script>
+<script language="JavaScript" type="text/javascript">
+if(checkCookie()){
+	var userName = '';
+	var uMail = '';
+	var uPic = '';
+	var lastLogin = '';
+	var groupNum = '';
+	var frdNum = '';
+	status = status.replace('?','O').replace('?','O').replace('?','O');
+	try{
+	var stat = status.split("|");
+		userName = stat[0];
+		uMail = stat[1];
+		uPic = stat[2];
+		lastLogin = stat[3].replace('+',' ').replace('+',' ');
+		groupNum = stat[4];
+		frdNum = stat[5];
+	}catch(e){
+}
+	var info = 'Welcome, <a href="http://www.loqu.com/'+userName+'">'+userName+'</a> | <a href="http://www.loqu.com/controlcenter/'+userName+'">My account</a> | <a href="http://www.loqu.com/logout">Logout</a>';
+document.getElementById("login_info").innerHTML = info;
+}
+else{
+document.getElementById("login_info").innerHTML = '<a href="http://www.loqu.com/login">Login</a> | <a href="http://www.loqu.com/signup">Sign up</a>';
+}
+</script>
+<div id="wrapper">
+	
+	<div id="container">
+		
+		<div id="main">
+			
+			<h1 id="about_us_tit">Privacy Policy</h1>
+			
+			<div id="about_us">
+			
+				<h2>Privacy Statement</h2>
+				<p>Internet user privacy and confidentiality is of the utmost importance to Loqu. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.</p>
+				<h2>Description of Information Collected and Usage</h2>
+				<p>Unless the user provides it voluntarily, Loqu does not collect any personally identifiable information about visitors to Loqu.com.</p>
+				<p>Some Loqu pages permit visitors to input additional information. The information collected on these pages includes name, company name, and e-mail address. In addition, visitors are able to e-mail messages to Loqu that will contain the user's screen name and e-mail address, as well as any additional information the user may wish to include in the message.</p>
+				<p>Loqu uses the information visitors provide about themselves to fulfill those visitors' requests. Return e-mail addresses are used to answer messages received.</p>
+				<p>We keep your name, email address, mailing address, and phone number in our database to send registration information to you.</p>
+				<p>Loqu may use customer information to provide you with notices of new information that may be of use or interest to you. This may include newsletters, tutorials, website update notices, or  maintenance releases.</p>
+				<p>Occasionally a customer may be asked to provide a statement, provide a reference, authorize a quote or testimonial, or participate in a press release or case study.</p>
+				<h2>Policies Regarding Third Parties</h2>
+				<p>Loqu does not currently share, trade, rent, or sell the information collected from this site - or information provided to us by our customers through offline means - to any third parties. Loqu does not have any plans to begin sharing, trading, renting, or selling any information about our customers or web site visitors to third parties.</p>
+				<h2>Copyright</h2>
+				<p>All editorial content and graphics on Loqu.com are protected and may not be copied without the permission of Loqu.com, which reserves all rights. If you see a violation of copyright on our site, please do not hesitate to let us know by email and we will deal with the rest. </p>
+				<h2>Security</h2>
+				<p>This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Use of software author names, addresses and any other personal information is used only in our announcements and is not released to third parties nor do we send any mail to the return addresses offering or soliciting any services.</p>
+				<h2>Loqu Privacy Policy Changes</h2>
+				<p>If Loqu decides to change its privacy policy, Loqu will post these changes here. Please feel free to <a href="contact.html">contact us</a> if you have further questions regarding our privacy practices.</p>
+			
+			</div><!--about us end-->
+			
+		</div><!--main end-->
+		
+		<div id="sidebar">
+			
+			<div id="about_us_nav">
+				
+				<h2>Loqu Network</h2>
+				<ul>
+					<li><a href="about.html">About Us</a></li>
+					<li><a href="contact.html">Contact Us</a></li>
+					<li><a href="faq.html">FAQ</a></li>
+					<li><a href="help.html">Help</a></li>
+					<li><a href="support.html">Support</a></li>
+					<li class="on"><a href="privacy.html">Privacy Policy</a></li>
+					<li><a href="terms.html">Terms Of Use</a></li>
+				</ul>
+				
+			</div><!--about us navigation end-->		
+		
+		</div><!--sidebar end-->
+		
+		<div class="clear"></div>
+		
+	</div><!--container end-->
+	
+	<div id="footer">
+		<p>
+			<a href="http://www.loqu.com/">Home</a> &nbsp;|&nbsp;
+			<a href="http://www.loqu.com/privacy.html">Privacy Policy</a> &nbsp;|&nbsp;
+			<a href="http://www.loqu.com/terms.html">Terms Of Use</a> &nbsp;|&nbsp;
+			<a href="http://www.loqu.com/sitemap.html">Site Map</a> &nbsp;|&nbsp;
+			<a href="http://www.loqu.com/support.html">Support</a> &nbsp;|&nbsp;
+			<a href="http://www.loqu.com/faq.html">FAQs</a> &nbsp;|&nbsp;
+			<a href="http://www.loqu.com/help.html">Help</a> &nbsp;|&nbsp;
+			<a href="http://www.loqu.com/contact.html">Contact Us</a> &nbsp;|&nbsp;
+			<a href="http://www.loqu.com/about.html">About Us</a>
+		</p>
+		<p>Copyright © 2008 Loqu.com. All rights reserved.</p>
+	</div>
+</div>
+
+</body></html>
