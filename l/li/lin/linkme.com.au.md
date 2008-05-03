@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkme.com.au privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214233041id_/http%3A//www.linkme.com.au/ui/unregistered/common/PrivacyStatement.aspx%3Fgglsrc%3DFooterPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkme.com.au privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503081228id_/http%3A//www.linkme.com.au/privacystatement.aspx) for the most accurate reproduction.*
 
-# LinkMe Privacy Statement
+# Privacy Statement | LinkMe
 
 Protecting your information and maintaining your privacy are of the utmost importance to LINKME. 
 
@@ -29,7 +29,7 @@ Profile information is compiled by submitting your CV. No other data or time com
 
 _Information about your Contacts and other third parties_
 
-In order to invite others to connect with you directly via the LINKME Website, you can enter their names and email addresses. Before sending an invitation, you must ensure that the account holder for each email address you enter agrees that you can give the address to us and that we can send them your invitation including a message composed by you. LINKME will not use this information until they provide their information personally to LINKME other than as a means for you to manage your contacts. If you otherwise provide any personal information about other individuals to LINKME (eg in your CV), you must tell those individuals why you are providing their personal information to LINKME and that they can contact us for further information (see 'Questions or Comments' below). You must not provide us with information about anyone who objects to you providing it. 
+In order to invite others to connect with you directly via the LINKME Website, you can enter their names and email addresses. Before sending an invitation, you must ensure that the account holder for each email address you enter agrees that you can give the address to us and that we can send them your invitation including a message composed by you. LINKME will not use this information until they provide their information personally to LINKME other than as a means for you to manage your contacts. If you otherwise provide any personal information about other individuals to LINKME (e.g. in your CV), you must tell those individuals why you are providing their personal information to LINKME and that they can contact us for further information (see 'Questions or Comments' below). You must not provide us with information about anyone who objects to you providing it. 
 
 _Cookies & Log Files_
 
@@ -97,8 +97,6 @@ LINKME may update this privacy statement at anytime. In the event there are sign
 
 ### Questions or Comments 
 
-If you have questions or comments about privacy, please contact us at: 
-
-[customerservice@linkme.com.au](mailto:customerservice@linkme.com.au)
+If you have questions or comments about privacy, please [contact us](http://www.linkme.com.au/ui/unregistered/common/ContactUsForm.aspx). 
 
 LinkMe Privacy Statement, Version 3.0. Last Updated: 13th November 2006
