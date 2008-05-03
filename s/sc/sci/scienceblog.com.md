@@ -1,55 +1,89 @@
-> *The following text is extracted and transformed from the scienceblog.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205055056id_/http%3A//www.scienceblog.com/community/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceblog.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503115514id_/http%3A//www.scienceblog.com/cms/privacy-15554.html) for the most accurate reproduction.*
 
-# 
+# Privacy | Science Blog
 
-**Privacy Policy**
+PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY
 
-**Information Collection and Use**  
-Science Blog is the sole owner of the information collected on this site. This policy describes the ways we collect and use this information. We reserve the right to change this policy.
+This site is owned and operated by ScienceBlog.com. Your privacy on the Internet is of the utmost importance to us. At ScienceBlog.com, we want to make your experience online satisfying and safe.
 
-**Registration**  
-To access certain areas of this website a user must first complete the registration form. During registration a user is required to give contact information (such as name and e-mail address). This information is used to contact users about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as occupation and interests), but this is encouraged so we can provide a better experience on our site.   
-user. 
+Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-**Cookies**  
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. If a user rejects the cookie, they will be unable to login to our site to access premium content. We do not use cookies to store sensitive information.   
-Some of our business partners, including advertisers, use cookies on our site. However, we have no access to or control over these cookies.
+INFORMATION SCIENCEBLOG.COM GATHERS AND TRACKS
 
-**Log Files**  
-We use Internet Protocol (IP) computer addresses to analyze trends, administer the site, track users' movement on our site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+ScienceBlog.com gathers two types of information about users:
 
-**Sharing**  
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.   
-We may partner with another party to provide specific services. When the user signs up for these services, we will share names or other contact information that is necessary for the third party to provide these services. 
+* Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards, forums or blogs, to email a friend, and from participation in polls and surveys:
 
-**Links**  
-This web site contains links to other sites. Please be aware that Science Blog is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+* Information ScienceBlog.com gathers through tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because ScienceBlog.com derives its revenue mainly from sponsorships and advertising, providing such demographic data is essential to keeping our service free to users.
 
-**Newsletter**  
-If a user wishes to subscribe to our newsletter, we ask for contact information such as e-mail address. 
+ScienceBlog.com Gathers User Information In The Following Processes:
 
-**Surveys and Contests**  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code and age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site, and may be shared in aggregate with our partners.
+Optional Voluntary Information
 
-**Tell a Friend**  
-If a user elects to use our referral service for informing a friend about content on our site, we ask them for the friend’s name and e-mail address. Science Blog will automatically send the friend a one-time e-mail inviting them to visit the site. Science Blog stores the message, the message header, and the sender’s IP address for the sole purpose of preventing inappropriate use of this service, such as spamming or flaming. 
+We offer the following free services, which require some type of voluntary submission of personal information by users:
 
-**Security**  
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.   
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with SSL encryption software. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked (as opposed to un-locked, or open, when you are just ‘surfing’).   
-If you have any questions about the security at our website, you can send an e-mail to webmaster@scienceblog.com.
+1\. Electronic newsletters policy (Dispatches)
 
-**Special Offers**  
-We may send new members a welcoming e-mail to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. We present the option to not receive the newsletter. 
+We will offer a free electronic newsletter to users. ScienceBlog.com gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
 
-**Site and Service Updates**  
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via e-mail or phone. 
+2\. Message boards/forums/blog policy
 
-**Correcting/Updating Personal Information**  
-If a user’s personally identifiable information changes (such as zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us.
+Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
 
-**Choice/Opt-out**  
-Users who no longer wish to receive our newsletter may opt-out by replying with unsubscribe in the subject line in the e-mail or using the Newsletter Subscribe/Unsubscribe page. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
+3\. "E-mail this to a friend" policy
 
-**Notification of Changes**  
-Science Blog reserves the right to change its privacy policy. If we decide to change our privacy policy, we will post those changes prominently so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. 
+Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
+
+4\. Polling
+
+We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. ScienceBlog.com may use a system to "tag" users after they have voted, so they can vote only once on a particular question. 
+
+5\. Surveys
+
+ScienceBlog.com may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. 
+
+Usage tracking
+
+ScienceBlog.com tracks user traffic patterns throughout all of our sites. ScienceBlog.com does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
+
+ScienceBlog.com sometimes tracks and catalogs the search terms that users enter in our Search function. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. This helps us continue to build a better service for you.
+
+Cookies
+
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. ScienceBlog.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
+
+You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
+
+Privacy Policy Use
+
+How the information you gather is used if relevent.
+
+USE OF INFORMATION
+
+ScienceBlog.com uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
+
+As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. ScienceBlog.com may share newsletter mailing lists with third parties, including advertisers, sponsors or partners.
+
+When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We may track what individual users read, and how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. 
+
+ScienceBlog.com creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. 
+
+SHARING OF THE INFORMATION
+
+ScienceBlog.com uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+
+SECURITY
+
+ScienceBlog.com operates on secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
+
+OPT-OUT POLICY
+
+We give users options wherever necessary and practical. Such choices include:
+
+* Opting not to register to receive our electronic newsletters.
+
+* Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users
+
+YOUR CONSENT
+
+By using this site, you consent to the collection and use of this information by ScienceBlog.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
