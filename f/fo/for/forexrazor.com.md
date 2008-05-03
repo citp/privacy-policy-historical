@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexrazor.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222022703id_/http%3A//www.forexrazor.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexrazor.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503020155id_/http%3A//forexrazor.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # FOREXRAZOR.COM > Home
 
@@ -44,4 +44,4 @@ FOREXRAZOR.COM will occasionally update this Statement of Privacy to reflect com
 
 Contact Information
 
-FOREXRAZOR.COM welcomes your comments regarding this Statement of Privacy. If you believe that FOREXRAZOR.COM has not adhered to this Statement, please contact FOREXRAZOR.COM at [admin@forexrazor.com](mailto:admin@forexrazor.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+FOREXRAZOR.COM welcomes your comments regarding this Statement of Privacy. If you believe that FOREXRAZOR.COM has not adhered to this Statement, please contact FOREXRAZOR.COM at admin@forexrazor.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
