@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229130822id_/http%3A//www.modernhealthcare.com/apps/pbcs.dll/section%3Fcategory%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503060113id_/http%3A//www.modernhealthcare.com/apps/pbcs.dll/section%3Fcategory%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Modern Healthcare Online
 
 | 
 
-[](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/privacypolicy/index/15620892959@Top1,Right1,Left1,Middle1,TopLeft,x21,x22,x23,x24,x05!Left1?)
+[](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/privacypolicy/index/15620892959@TopLeft,Top1,Left1,Right1,Right2,x21,x22,x23,x24!Left1?)
 
 SEARCH
 
@@ -46,8 +46,8 @@ If you have any questions or concerns about the substance or implementation of t
 Policy Last Updated: January 1, 2005 
 
 |  |    
-[](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/privacypolicy/index/15620892959@Top1,Right1,Left1,Middle1,TopLeft,x21,x22,x23,x24,x05!Right1?)
+[](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/privacypolicy/index/15620892959@TopLeft,Top1,Left1,Right1,Right2,x21,x22,x23,x24!Right1?)
 
-[](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/privacypolicy/index/15620892959@Top1,Right1,Left1,Middle1,TopLeft,x21,x22,x23,x24,x05!Right2?)  
+[](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/privacypolicy/index/15620892959@TopLeft,Top1,Left1,Right1,Right2,x21,x22,x23,x24!Right2?)  
   
 ---|---|---|---|---
