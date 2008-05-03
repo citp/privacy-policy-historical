@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the kemba.org privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103200834id_/http%3A//www.kemba.org/privacy-notice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemba.org privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503064809id_/http%3A//www.kemba.org/privacy-notice.htm) for the most accurate reproduction.*
 
 # KEMBA: Privacy Notice
 
-[](https://cuonline.kemba.org/rates/Rates.aspx) [](https://cuonline.kemba.org/olla/default.aspx) [](http://www.mycumortgage.com/default.asp?siteId=27C6BB32-ACB4-4C39-BB0F-67EB9376AC98) | 
+[](https://cuonline.kemba.org/rates/Rates.aspx) [](https://cuonline.kemba.org/olla/default.aspx) [](http://www.mycumortgage.com/default.asp?siteId=27C6BB32-ACB4-4C39-BB0F-67EB9376AC98)
+
+Quick Fact
+
+  
+Here's a way to have money for large things in the future, money for smaller things now, and money to share with others. All it takes is three jars. They can be plastic or glass and don't even have to be the same size. But remember to always keep them in a safe place. When you have a large amount saved, deposit it into a savings account and earn interest.
+
+| 
 
 Our Privacy Notice is an important part of our commitment to provide you with the best financial and client service possible. We believe it is essential to clarify how KEMBA uses collected information, the benefits of such use and the way information is protected against unauthorized access and use. Your concern about the security of information relating to you and your accounts is understandable and we want to assure you that we are continuously taking steps to safeguard your personal information. It is also essential that you know that we do not sell customer lists or individual customer information to any third parties.
 
@@ -64,8 +71,7 @@ Information on the KEMBA website is intended for general adult audiences, not fo
 
 These privacy guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models and procedures are constantly being challenged and modified. Accordingly, this notice is subject to change. Any such changes will be posted on this page as appropriate.
 
-|  [](https://web.archive.org/platinumrewards.htm)   
-  
+|    
   
   
 ---|---|---
