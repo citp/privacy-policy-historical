@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the purecostumes.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228065310id_/http%3A//www.purecostumes.com/costumes/store/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purecostumes.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503172603id_/http%3A//www.purecostumes.com/costumes/store/policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy Commitment - Costume Store
-
-**Our Privacy Commitment**
+# Pure Costumes Privacy Policy Commitment - Costume Store
 
 We have created this privacy statement in order to demonstrate our firm commitment to your privacy. We recognize our obligation to you to maintain confidentially certain information you provide on this website and to use responsibly any information provided.
 
