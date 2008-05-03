@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uasc.net privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103171409id_/http%3A//www.uasc.net/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uasc.net privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503161047id_/http%3A//www.uasc.net/policy.asp) for the most accurate reproduction.*
 
 # United Arab Shipping Co.(S.A.G)
 
@@ -47,5 +47,5 @@ The above information will be used to :
 
 
 
-[<< Back](https://web.archive.org/web/20071103171409id_/http%3A//www.uasc.net/index.asp)   
+[<< Back](https://web.archive.org/web/20080503161047id_/http%3A//www.uasc.net/index.asp)   
 
