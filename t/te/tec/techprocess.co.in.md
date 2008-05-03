@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techprocess.co.in privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102153109id_/http%3A//www.techprocess.co.in/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techprocess.co.in privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503201349id_/http%3A//www.techprocess.co.in/privacy_policy.asp) for the most accurate reproduction.*
 
 # 
 
