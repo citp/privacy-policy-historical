@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasenza.com privacy policy that was archived on 2007-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071104150152id_/http%3A//www.lasenza.com/eng/customerCare/privacyPolicy.cfm%3Fd%3D1%26link_id%3D20%26var%3Dd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasenza.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503155607id_/http%3A//www.lasenza.com/eng/customerCare/privacyPolicy.cfm%3Fd%3D1%26link_id%3D20%26var%3Dd) for the most accurate reproduction.*
 
 # La Senza Online Lingerie Store: Sexy women's lingerie - sleepwear, activewear, underwear, bras and panties
 
