@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emptees.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215154706id_/http%3A//www.emptees.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emptees.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503105158id_/http%3A//www.emptees.com/privacy) for the most accurate reproduction.*
 
 # Emptees - Privacy Policy
 
