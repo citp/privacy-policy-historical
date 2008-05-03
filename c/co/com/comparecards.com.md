@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparecards.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011061558id_/http%3A//www.comparecards.com/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparecards.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503201808id_/http%3A//www.comparecards.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CompareCards.com
 
