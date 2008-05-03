@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the lasenza.com privacy policy that was archived on 2007-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071104150152id_/http%3A//www.lasenza.com/eng/customerCare/privacyPolicy.cfm%3Fd%3D1%26link_id%3D20%26var%3Dd) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lasenza.com privacy policy that was archived on 2008-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080503155607id_/http%3A//www.lasenza.com/eng/customerCare/privacyPolicy.cfm%3Fd%3D1%26link_id%3D20%26var%3Dd) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>La Senza Online Lingerie Store: Sexy women's lingerie - sleepwear, activewear, underwear, bras and panties </title>
-<meta name="keywords" content="La Senza, LaSenza, La Senza Lingerie, La Senza Canada, sexy lingerie, lingerie Store, women's lingerie, bra, bras, underwear, women's underwear, panties, g-string, thongs, activewear, women's activewear, pajamas, pyjamas, loungewear, sleepwear, satin underwear, lace lingerie, sheer lingerie">
-<meta name="description" content="Find sexy lingerie at La Senza's online store.  La Senza offers women outstanding lingerie from bras &amp; panties, to comfortable sleepwear, activewear or sexy swimwear. Buy underwear online and enjoy free regular shipping for orders delivered in Canada or find a store near you with our Canadian and International store locator.">
+<title>La Senza Online Lingerie Store: Sexy women's lingerie - sleepwear, activewear, underwear, bras and panties</title>
+<meta name="keywords" content="La Senza, LaSenza, La Senza Lingerie, La Senza Canada, sexy lingerie,la senza spirit, la senza express,  lingerie Store, women's lingerie, bra, bras, underwear, women's underwear, panties, g-string, thongs, activewear, women's activewear, pajamas, pyjamas, loungewear, sleepwear, satin underwear, lace lingerie, sheer lingerie">
+<meta name="description" content="Find sexy lingerie at La Senza's online store.  La Senza offers women outstanding lingerie from bras &amp; panties, to comfortable sleepwear or activewear. Buy underwear online or find a store near you with our Canadian and International store locator.">
 <meta name="author" content="iCongo, Inc.">
 <meta name="robots" content="Index,Follow">
 
@@ -24,7 +24,7 @@
 </head>
 
 <body>
-<div id="container">
+<div id="wrapper">
 <table border="0" cellpadding="0" cellspacing="0" class="maintable">
 		<tbody><tr>
 			<td>
@@ -32,65 +32,75 @@
 				<div id="header">
 						
 					
+<script type="text/javascript">
+	siteUrl = 'http://www.lasenza.com';
+</script>
+<script type="text/javascript" src="http://www.lasenza.com/cfajax/core/engine.js"></script>
+<script type="text/javascript" src="http://www.lasenza.com/cfajax/core/util.js"></script>
+<script type="text/javascript" src="http://www.lasenza.com/cfajax/core/settings.js"></script>
 	<script>
-		
+
 		function retrieveCartInfo(){
-			
+			DWREngine._execute(_cfCatLevelsLocation, null,'refreshShoppingCart','eng',refreshShoppingCart_Result);
+		}
+
+		function refreshShoppingCart_Result(){
+
 				errorFound = checkErrorPage();
-				
+
 				 if(!errorFound)
-				 { 
+				 {
 				 	if(!document.getElementById('SmartMessage'))
 				 	{
-				 		new ShoppingCart().get({position:'fixed',posX:570,posY:35,messageTimeout:15000,scrollTop:true,onError:'center', lang: 'eng', parameters:false, onSuccess : _ShoppingCart_action_productDetails_OnSuccess});	
-				 	
+				 		new ShoppingCart().get({position:'fixed',posX:570,posY:35,messageTimeout:15000,scrollTop:true,onError:'center', lang: 'eng', parameters:false, onSuccess : _ShoppingCart_action_productDetails_OnSuccess});
+
 				 	}
 				 }
 				 else
 				 {
-				 	new ShoppingCart().get({position:'fixed',posX:570,posY:35,messageTimeout:15000,scrollTop:true,onError:'center', lang: 'eng', parameters:false, onSuccess : _ShoppingCart_action_productDetails_OnSuccess});	
+				 	new ShoppingCart().get({position:'fixed',posX:570,posY:35,messageTimeout:15000,scrollTop:true,onError:'center', lang: 'eng', parameters:false, onSuccess : _ShoppingCart_action_productDetails_OnSuccess});
 				 }
 		}
-		function _ShoppingCart_action_productDetails_OnSuccess(request){ 
-			
-			//_ShoppingCart_action_OnSuccess(request);		
+		function _ShoppingCart_action_productDetails_OnSuccess(request){
+
+			//_ShoppingCart_action_OnSuccess(request);
 			document.getElementById('JSBFMOVEDIV').innerHTML = request.responseText;
-			obj_flydown = document.getElementById('JSBFMAINDIV');										
-						
+			obj_flydown = document.getElementById('JSBFMAINDIV');
+
 			if(obj_flydown.style.display != 'block')
 			{
 				obj_flydown.style.display = 'block';
-				callPopUp('JSBFN_REFTBL');	
-				var timer;			
-				timer=setTimeout("hideflydown()", 11000);	
+				callPopUp('JSBFN_REFTBL');
+				var timer;
+				timer=setTimeout("hideflydown()", 11000);
 			}
-			
-		}		
+
+		}
 		/*function _ShoppingCart_action_productDetails_OnSuccess(request){
-			
-			//_ShoppingCart_action_OnSuccess(request);		
+
+			//_ShoppingCart_action_OnSuccess(request);
 			document.getElementById('JSBFMOVEDIV').innerHTML = request.responseText;
-			obj_flydown = document.getElementById('JSBFMAINDIV');	
-										
+			obj_flydown = document.getElementById('JSBFMAINDIV');
+
 			if(obj_flydown.style.visibility != 'visible')
 			{
 				obj_flydown.style.visibility = 'visible';
-				callPopUp('JSBFN_REFTBL');	
+				callPopUp('JSBFN_REFTBL');
 				var t;
-				t=setTimeout("hideflydown()", 50000);	
-				//5000			
-			}			
-			
+				t=setTimeout("hideflydown()", 50000);
+				//5000
+			}
+
 		}*/
-		
-		
+
+
 		function checkErrorPage()
 		{
 			ret_er = false;
 			if(document.getElementById('SmartMessage'))
 			{
 				findError = document.getElementById('SmartMessageContent').innerHTML;
-				
+
 				if(findError.toLowerCase().indexOf("<error>") != -1){
 		  			ret_er = true;
 			  	}
@@ -101,7 +111,7 @@
 				{
 				  	getToken += findError.charAt(str);
 				}
-				  
+
 				  if(getToken=='<error>'||getToken=='<ERROR>')
 				  {
 				  	ret_er = true;
@@ -113,14 +123,14 @@
 			}
 			return ret_er;
 		}
-		
+
 		function openPopUp(url,params)
 		{
 			newwin = window.open(url,'newWin',params);
 		}
 
 
-	
+
 </script>
 
 
@@ -132,7 +142,7 @@
 	<div id="nav_top_top">
 		  <ul>
 			      
-						<li class="language"><a href="http://www.lasenza.com/fre/customerCare/privacyPolicy.cfm?d=1&amp;link_id=20&amp;var=d">Français</a></li>			
+						<li class="language"><a href="http://www.lasenza.com/fre/customerCare/privacyPolicy.cfm?d=1&amp;link_id=20&amp;var=d">Français</a></li>
 					
 				<li><a href="https://www.lasenza.com/eng/noSideNavigation/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d">Sign In</a></li>
 				<li>|</li>
@@ -146,7 +156,7 @@
 				<li>|</li>
 				<li><a href="http://www.lasenza.com/eng/customerCare/redirect.cfm?sectionid=contact/contact.cfm&amp;var=d">Customer Care</a></li>
 				<li>|</li>
-		  	
+		  		
 				<li id="ShoppingCartItemCount">
 					
 		<span class="Gray11">
@@ -154,15 +164,16 @@
 		</span>
 		<script>
 			var shoppingCartItems = 0;
-		</script>		
-		
-	<div id="JSBFN_REFTBL" style="position:relative;left:75;"></div>
+		</script>
+	
+	
+	<span id="JSBFN_REFTBL" style="position:relative;left:75;"></span>
 	<div id="JSBFMAINDIV" style="position:absolute; top:155px; left:500px; width:600px; height:380px; overflow:hidden; display:none; text-align:left;">
 		<div id="JSBFMOVEDIV" style="position:relative; top:-200px; left:175px; width:400px; z-index:3000;" valign="top"></div>
 	</div>
 	
 	<script type="text/javascript">
-		siteUrl = 'http://www.lasenza.com';	 		
+		siteUrl = 'http://www.lasenza.com';
 	</script>
 	<script>
 
@@ -382,14 +393,14 @@ function hidecountdown(){
 		clearInterval(bf_int);
 		callPopUp('JSBFN_REFTBL');
 		obj_flydown.style.display = 'none';
-		
-	}		
+
+	}
 	</script>
-	
+
 
 				</li>
 			
-				
+
 		  </ul>
 	</div>
 
@@ -553,7 +564,7 @@ function hidecountdown(){
 							
 							
 							
-							<a href="http://www.lasenza.com/frontEndComponents/genericComponents/bannerTracking.cfm?6=6&amp;bannerID=45&amp;goto=www.lasenza.com/eng/customerCare/shipPromotion.cfm^~var=d&amp;var=d&amp;type=2"><img src="/_static/webUpload/33/45_1.gif" border="0" alt="Shipping Promotion" width="124" height="104" vspace="1" style="cursor:pointer"></a>
+							<a href="http://www.lasenza.com/frontEndComponents/genericComponents/bannerTracking.cfm?6=6&amp;bannerID=45&amp;goto=www.lasenza.com/eng/customerCare/shipPromotion.cfm^~var=d&amp;var=d&amp;type=2"><img src="/_static/webUpload/33/45_1.gif" border="0" alt="Free Regular Shipping on orders over $89!" width="124" height="104" vspace="1" style="cursor:pointer"></a>
 						
 	</td>
 	</tr>
@@ -623,8 +634,8 @@ function hidecountdown(){
 	<tbody><tr>
 	<td width="249" align="center">
 	
-							<a href="http://www.lasenza.com/frontEndComponents/genericComponents/bannerTracking.cfm?1=1&amp;bannerID=42&amp;goto= ^~var=d&amp;var=d&amp;type=2"><img src="/_static/webUpload/33/42_1.gif" border="0" alt="Number of Stores" width="244" height="17" vspace="1" style="cursor:pointer"></a>
-						
+						<img src="/_static/webUpload/33/42_1.gif" border="0" alt="Number of Stores" width="244" height="17">
+					
 	</td>
 	</tr>
 	</tbody></table>
@@ -656,20 +667,20 @@ function hidecountdown(){
 <div id="customer_care">
 <ul>
 <li class="title">Customer Care 
-</li><li><a class="A" href="/eng/giftShop/giftCardInfo.cfm?C target=" ?="">Gift Cards</a> 
-</li><li><a class="A" href="/eng/noSideNavigation/redirect.cfm?sectionID=b2c/prestige/displayPrestigeCardItem.cfm&amp;var=d" target="">Loyalty Program</a> 
-</li><li><a href="/eng/customerCare/shipPromotion.cfm?&amp;var=d">Shipping Promotion</a> 
-</li><li><a class="A" href="/eng/customerCare/shipFees.cfm?&amp;var=d" target="">International Shipping</a> 
-</li><li><a class="A" href="/eng/lingerieGuide/sizeCharts.cfm?&amp;var=d" target="">Size Charts</a> 
-</li><li><a href="/eng/customerCare/redirect.cfm?sectionid=contact/contact.cfm&amp;var=d">Contact Us</a> 
+</li><li><a class="A" href="http://www.lasenza.com/eng/giftShop/giftCardInfo.cfm?C target=" ?="">Gift Cards</a> 
+</li><li><a class="A" href="http://www.lasenza.com/eng/noSideNavigation/redirect.cfm?sectionID=b2c/prestige/displayPrestigeCardItem.cfm&amp;var=d" target="">Loyalty Program</a> 
+</li><li><a href="http://www.lasenza.com/eng/customerCare/shipPromotion.cfm?&amp;var=d">Shipping Promotion</a> 
+</li><li><a class="A" href="http://www.lasenza.com/eng/customerCare/shipFees.cfm?&amp;var=d" target="">International Shipping</a> 
+</li><li><a class="A" href="http://www.lasenza.com/eng/lingerieGuide/sizeCharts.cfm?&amp;var=d" target="">Size Charts</a> 
+</li><li><a href="http://www.lasenza.com/eng/customerCare/redirect.cfm?sectionid=contact/contact.cfm&amp;var=d">Contact Us</a> 
 <ul></ul></li></ul></div>
 <div id="our_company">
 <ul>
 <li class="title">Our Company 
-</li><li><a href="/eng/ourCompany/aboutLaSenza.cfm?&amp;var=d">About La Senza</a> 
+</li><li><a href="http://www.lasenza.com/eng/ourCompany/aboutLaSenza.cfm?&amp;var=d">About La Senza</a> 
 </li><li><a href="http://www.limitedbrands.com/investor/">Investor Relations</a> 
 </li><li><a href="http://jobs.lasenza.com">Job Opportunities</a> 
-</li><li><a href="http://www.lasenzaspirit.com/eng/lasenzaSpiritIndex.cfm?&amp;var=d">La Senza Spirit</a> 
+</li><li><a href="http://www.lasenza.com/eng/lasenzaSpiritIndex.cfm?&amp;var=d">La Senza Spirit</a> 
 </li><li><a href="http://lasenzaexpress.com">La Senza Express</a> 
 </li><li><a href="http://www.lasenzagirl.com">La Senza Girl</a></li></ul></div> 
 				</div>
@@ -677,17 +688,17 @@ function hidecountdown(){
 	<div id="footerAll">
 		<div id="footer_nav1">
 			
-			 <a href="http://www.lasenza.com/eng/customerCare/security.cfm?d=1&amp;link_id=20&amp;var=d">Security</a> 
-			| <a href="http://www.lasenza.com/eng/customerCare/privacyPolicy.cfm?d=1&amp;link_id=20&amp;var=d">Privacy</a> 
-			| <a href="http://www.lasenza.com/eng/customerCare/shipFees.cfm?d=1&amp;link_id=14&amp;var=d">Shipping Information</a>   
-			| <a href="http://www.lasenza.com/eng/customerCare/returns.cfm?d=1&amp;link_id=16&amp;var=d">Return Policy</a> 
-			| <a href="http://www.lasenza.com/eng/noSideNavigation/siteMap.cfm?d=1&amp;var=d">Site Map</a> 
-			| <a href="http://www.lasenza.com/eng/customerCare/orderStatus.cfm?d=1&amp;link_id=1&amp;var=d">Order Status</a> 
+			 <a href="http://www.lasenza.com/eng/customerCare/security.cfm?d=1&amp;link_id=20&amp;var=d">Security</a>
+			| <a href="http://www.lasenza.com/eng/customerCare/privacyPolicy.cfm?d=1&amp;link_id=20&amp;var=d">Privacy</a>
+			| <a href="http://www.lasenza.com/eng/customerCare/shipFees.cfm?d=1&amp;link_id=14&amp;var=d">Shipping Information</a>
+			| <a href="http://www.lasenza.com/eng/customerCare/returns.cfm?d=1&amp;link_id=16&amp;var=d">Return Policy</a>
+			| <a href="http://www.lasenza.com/eng/noSideNavigation/siteMap.cfm?d=1&amp;var=d">Site Map</a>
+			| <a href="http://www.lasenza.com/eng/customerCare/orderStatus.cfm?d=1&amp;link_id=1&amp;var=d">Order Status</a>
 			
 		</div>
 		<div id="footer_nav2">
-			<a href="http://www.lasenza.com/eng/categorysearch/redirect.cfm?sectionID=b2c/search/itemCategories/level1Homepage.cfm&amp;itemCategoryLevel1=100&amp;var=d">Bra Lounge</a> 
-			| <a href="http://www.lasenza.com/eng/categorysearch/redirect.cfm?sectionID=b2c/search/itemCategories/level1Homepage.cfm&amp;itemCategoryLevel1=101&amp;var=d">Panty Bar</a> 
+			<a href="http://www.lasenza.com/eng/categorysearch/redirect.cfm?sectionID=b2c/search/itemCategories/level1Homepage.cfm&amp;itemCategoryLevel1=100&amp;var=d">Bra Lounge</a>
+			| <a href="http://www.lasenza.com/eng/categorysearch/redirect.cfm?sectionID=b2c/search/itemCategories/level1Homepage.cfm&amp;itemCategoryLevel1=101&amp;var=d">Panty Bar</a>
 			| <a href="http://www.lasenza.com/eng/categorysearch/redirect.cfm?sectionID=b2c/search/itemCategories/level1Homepage.cfm&amp;itemCategoryLevel1=102&amp;var=d">Sexy Lingerie</a>
 			| <a href="http://www.lasenza.com/eng/categorysearch/redirect.cfm?sectionID=b2c/search/itemCategories/level1Homepage.cfm&amp;itemCategoryLevel1=103&amp;var=d">Sleepwear</a>
 			| <a href="http://www.lasenza.com/eng/categorysearch/redirect.cfm?sectionID=b2c/search/itemCategories/level1Homepage.cfm&amp;itemCategoryLevel1=104&amp;var=d">Loungewear</a>
@@ -698,61 +709,15 @@ function hidecountdown(){
 			
 			| <a href="http://www.lasenza.com/eng/noSideNavigation/redirect.cfm?sectionID=b2c/search/itemCategories/level1Homepage.cfm&amp;itemCategoryLevel1=107&amp;var=d">Shop by Brand</a>
 	</div>
-		
+
 	</div>
 
-	<div id="LogoFarm">
-		<div id="hackersSafe">
-			
-		
-			
-		
-		
-		
-		
-		
-			<!-- START SCANALERT CODE -->
-			<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.lasenza.com&amp;lang=EN">
-					<img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.lasenza.com/31.gif?lang=EN" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;">
-			</a>
-			<!-- END SCANALERT CODE -->
-		
-	
-			
-	 	</div>		
-		<div id="atw">	
-			
-			   <script src="http://sealserver.trustkeeper.net/compliance/seal_js.php?code=w6ox8flmFVRIByuyxZTROFWOZidgvC"></script>
-				<noscript>
-					<a href="https://sealserver.trustkeeper.net/compliance/cert.php?code=w6ox8flmFVRIByuyxZTROFWOZidgvC" target="hATW">
-						<img src="http://sealserver.trustkeeper.net/compliance/seal.php?code=w6ox8flmFVRIByuyxZTROFWOZidgvC" border="0" alt="TrustedCommerce"/>
-					</a>
-				</noscript>
-			
-		</div>
-		
-		<div id="verisign">
-			
-              <script src="https://seal.verisign.com/getseal?host_name=www.lasenza.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
-			  <a href="http://www.verisign.com/ssl/ssl-information-center/" target="_blank"></a>
-			
-		</div>
-		<div id="visa">
-			
-				<a href="http://www.visa.ca/verified/card_vbvworks.cfm" target="hATW"><img src="/_static/images/www/eng/logoHP_verifiedVisa.gif" alt="VISA" border="0"></a>
-		    
-		</div>
-   		<div id="interact">
-		  
-		 	 <a href="http://www.interaconline.com/learn/" target="hATW"><img src="/_static/images/www/eng/logoHP_Interact.png" alt="interact Logo" border="0"></a>
-		  
-		</div>
-		<div id="footer">© 2007 La Senza Corporation. All rights reserved.</div>
-		
+     
+	<div>
+	     
+		<iframe id="footerFrame" scrolling="no" frameborder="0" width="100%" marginwidth="0" marginheight="0" height="120px" src="http://www.lasenza.com/eng/checkout/redirect.cfm?sectionID=b2c/shoppingCart/shoppingCartDetails.cfm&amp;footeronly=Y"></iframe>
 	</div>
-	
-	
-	
+     
 			<iframe id="frRegions" style="display:block;width:0px;height:0px;position:absolute;left-500px;top;-500;border:0px;" src="/frontEndComponents/specificComponents/b2c/presentationLayer/blank.html"></iframe>
 			<iframe id="frStates" style="display:block;width:0px;height:0px;position:absolute;left-500px;top;-500;border:0px;" src="/frontEndComponents/specificComponents/b2c/presentationLayer/blank.html"></iframe>
 			<iframe id="frShipMethods" style="display:block;width:0px;height:0px;position:absolute;left-500px;top;-500;border:0px;" src="/frontEndComponents/specificComponents/b2c/presentationLayer/blank.html"></iframe>
@@ -851,7 +816,7 @@ function dcsVar(){
 			WT.ct=document.body.connectionType;
 		}
 		document.body.addBehavior("#default#homePage");
-		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+		//WT.hp=document.body.isHomePage(location.href)?"1":"0";
 	}
 	if (parseInt(navigator.appVersion)>3){
 		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
