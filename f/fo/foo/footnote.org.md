@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footnote.org privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215195433id_/http%3A//www.footnote.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footnote.org privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503052605id_/http%3A//www.footnote.com/privacy) for the most accurate reproduction.*
 
 # Footnote Privay Policy
 
