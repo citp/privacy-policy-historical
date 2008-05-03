@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmaceuticalonline.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212042028id_/http%3A//www.pharmaceuticalonline.com/content/Membership/privacy.asp%3FReturn%3Dhttp%3A//www.pharmaceuticalonline.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmaceuticalonline.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503044247id_/http%3A//www.pharmaceuticalonline.com/content/Membership/privacy.asp) for the most accurate reproduction.*
 
 # M E M B E R S H I P R E G I S T R A T I O N
 
