@@ -1,23 +1,7 @@
-> *The following text is extracted and transformed from the embroiderydesigns.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112020653id_/http%3A//www.embroiderydesigns.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embroiderydesigns.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503235556id_/http%3A//www.embroiderydesigns.com/privacypolicy.aspx%3FMSCSProfile%3DA03AEAA06F0359226D5569F67A2DCC1253556274AE0F80371A1DB71496AC42036E528305E98240937EB1AA93C5860A48B5B2D29CDBC9BE96FB08D37C6B22BF5B449BA1A8D0480A0C3B3EFEA22301BB5912A99861B4C2BDFB5045A46ED18EA4B70DE2D29E50638C72A6270EF24A1BFD9BCFFFF7EBE9B63C32F4B47A7AFC92513BB48CA41C0297BD6F) for the most accurate reproduction.*
 
 # Privacy Policy :: EmbroideryDesigns.com
 
-|  |  |   
----  
-|  |  | Privacy Policy   
----  
-  
-* * *  
-  
-[Home](http://www.embroiderydesigns.com//) > Privacy Policy   
-| 
-
-**PRIVACY POLICY**
-
-|   
-  
----|---|---  
-  
 At EmbroideryDesigns.com, your privacy is a top priority. Please read our Privacy Policy.
 
 Overview   
@@ -219,13 +203,4 @@ Northbrook, IL 60062
 [top of page](http://www.embroiderydesigns.com/#)
 
 12\. Privacy Policy changes    
-If EmbroideryDesigns.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise.   
-  
-|   
----  
-|   
----  
-  
-* * *
-
-©2005-2006 Embroidery Designs 
+If EmbroideryDesigns.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
