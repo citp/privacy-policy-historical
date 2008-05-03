@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneer.eu privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229005319id_/http%3A//www.pioneer.eu/eur/content/company/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneer.eu privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503121223id_/http%3A//www.pioneer.eu/eur/content/company/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pioneer Europe
 
