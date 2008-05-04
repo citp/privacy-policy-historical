@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the 4siteinsurance.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225222145id_/http%3A//www.4siteinsurance.co.uk/Support/4site-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4siteinsurance.co.uk privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504030649id_/http%3A//www.4siteinsurance.co.uk/Support/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Caravan insurance, 4site has the best caravan insurance, for cheap caravan insurance visit 4site now
 
-4site Privacy Policy provides information regarding accuracy, access, security and how it manages visitor, supplier and client information collected from its Website(s).
+Our Privacy Policy provides information regarding accuracy, access, security and how it manages visitor, supplier and client information collected from its Website(s).
 
-## 4site Website mission
+## Our Website Mission
 
-The mission of the 4site website is to furnish visitors, suppliers and clients with the most current product and company information and present it in a manner that best benefits their needs. 4site Insurance Website may be accessed by all Internet users on a 24 hours a day, 7 days a week.
+The mission of our website is to furnish visitors, suppliers and clients with the most current product and company information and present it in a manner that best benefits their needs. Our website may be accessed by all Internet users on a 24 hours a day, 7 days a week.
 
 ## Interruptions and Omissions in Service
 
@@ -40,9 +40,9 @@ The use of this Website and any agreements entered into through this Website are
 
 **Personal data** \- data which relates to a living individual who can be identified from those data, or from those data and other information which is in the possession of, or is likely to come into the possession of, 4site.
 
-**Privacy policy** \- this is a statement by 4site which explains the ways that we try to protect our users' privacy. 
+**Privacy policy** \- this is a statement by us which explains the ways that we try to protect our users’ privacy. 
 
-**Third Parties** \- these are companies and people other than 4site and the group of companies of which it is part. 
+**Third Parties** \- these are the companies and people other than us and associated companies. 
 
 **Users** \- people who use our Website and register their details with us for the purposes of commenting about our site, gain more information and general business use.
 
