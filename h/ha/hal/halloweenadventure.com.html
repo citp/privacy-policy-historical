@@ -1,0 +1,584 @@
+<!--The following is the downloaded HTML source of the halloweenadventure.com privacy policy that was archived on 2008-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080504024139id_/http%3A//halloweenadventure.com/security-and-privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>Security And Privacy</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="Description" content="Halloween Adventure - Halloween Stores nationwide - Shop online for Halloween costumes, for adults and children. Get great costume ideas, Halloween decorations for the home, accessories and more.">
+	<meta name="Keywords" content="Halloween Stores, Halloween costumes, adult Halloween costumes, childrens halloween costumes, Halloween decorations, Pet Halloween Costumes">
+	<meta http-equiv="content-language" content="en">
+	<meta name="abstract" content="Halloween Adventure - Halloween Costumes - Childrens &amp; Adult Halloween costume ideas available online">
+	<meta name="allow-search" content="YES">
+	<meta name="distribution" content="Global">
+	<meta name="rating" content="General">
+	<meta name="reply-to" content="customerservice@halloweenadventure.com">
+	<meta http-equiv="imagetoolbar" content="no">
+	<meta name="MSSmartTagsPreventParsing" content="TRUE">
+	<meta name="verify-v1" content="fqSG/elBnmDsaSeY/TKIrfnb6xwZMU5KalR/EnVrpNU=">
+	<meta name="googlebot" content="noodp">
+	<meta name="robots" content="noydir">
+<!--    <link rel="stylesheet" type="text/css" media="screen" href="http://www.halloweenadventure.com/css/uni.css" /> --><link rel="stylesheet" type="text/css" media="screen,print" href="./css/uni.css">	
+    <link rel="Shortcut Icon" type="image/x-icon" href="http://www.halloweenadventure.com/img/hafavicon.ico">
+<script type="text/javascript">
+<!--
+// usage:
+// <form id="form1" name="form1" method="post"
+//     onsubmit="form2window('form1', 300, 300, 0, 1); return true;" action="ziplocator.php">
+//
+// f_id         = form element id
+// w_width      = width of window in pixels
+// w_height     = height of window in pixels
+// w_scrollbars = 0 / 1
+// w_resizable  = 0 / 1
+function form2window(f_id, w_width, w_height, w_scrollbars, w_resizable)
+{
+	var my_window;
+	var my_form;
+
+	my_window = window.open("", "zipLocator","width="+w_width+",height="+w_height+",status=no,toolbar=no,menubar=no,resizable="+w_resizable+",scrollbars="+w_scrollbars+"");
+	my_form = document.getElementById(f_id);
+	my_form.target = "zipLocator";
+
+	// my_window.moveTo(0,0);
+
+	my_window.focus();
+}
+
+var st = 0;
+
+function Trim(TRIM_VALUE)
+{
+	if(TRIM_VALUE.length < 1)
+	{
+		return "";
+	}
+	TRIM_VALUE = RTrim(TRIM_VALUE);
+	TRIM_VALUE = LTrim(TRIM_VALUE);
+	if (TRIM_VALUE == "")
+	{
+		return "";
+	}
+	else
+	{
+		return TRIM_VALUE;
+	}
+} 
+
+function RTrim(VALUE)
+{
+	var w_space = String.fromCharCode(32);
+	var v_length = VALUE.length;
+	var strTemp = "";
+	if (v_length < 0)
+	{
+		return "";
+	}
+
+	var iTemp = v_length -1;
+
+	while (iTemp > -1)
+	{
+		if (VALUE.charAt(iTemp) == w_space)
+		{
+		}
+		else
+		{
+			strTemp = VALUE.substring(0,iTemp +1);
+			break;
+		}
+
+		iTemp = iTemp-1;
+	} 
+
+	return strTemp;
+}
+
+function LTrim(VALUE)
+{
+	var w_space = String.fromCharCode(32);
+	if (v_length < 1)
+	{
+		return "";
+	}
+
+	var v_length = VALUE.length;
+	var strTemp = "";
+	var iTemp = 0;
+	
+	while(iTemp < v_length)
+	{
+		if (VALUE.charAt(iTemp) == w_space)
+		{
+		}
+		else
+		{
+			strTemp = VALUE.substring(iTemp,v_length);
+			break;
+		}
+		
+		iTemp = iTemp + 1;
+	} 
+
+	return strTemp;
+} 
+
+function setAction()
+{
+
+	var zipdigit = /^\d{5}$/;
+
+	document.storeSearch.action = "http://www.halloweenadventure.com/ziplocator/sfDisplayResultsUSA1.php";
+	// document.storeSearch.action = "ziplocator/sfresults.php?hash=<?echo"$hash";?>";
+}
+
+function checkValues()
+{
+	document.storeSearch.searchValue.value = Trim(document.storeSearch.searchValue.value);
+
+	var len = document.storeSearch.searchValue.value.length
+	var valid = "0123456789";
+
+	if (len != 5)
+	{
+		alert("Please enter a 5 digit Zip Code");
+		return false;
+	}
+
+	var count = 0
+	for (count; count < len; count++)
+	{
+
+		temp = "" + document.storeSearch.searchValue.value.substring(count, count+1);
+		if (valid.indexOf(temp) == "-1")
+		{
+			alert("Invalid characters in your zip code. Please try again.");
+			return false;
+		}
+	}
+
+	setAction();
+	
+	form2window('storeSearch', 400, 400, 1, 1);
+}
+//-->
+</script>
+  </head>
+  <body>
+  <div id="container">
+
+<!-- HEADER -->    <div id="header">      
+       <h1 id="ha_logo"><a href="./index.html"><span>Halloween Adventure, The Masters of Maquerade</span></a></h1>
+      
+    <div id="header_block">      
+       <h2>Buy Secure On Line <small>or</small> Call 877-U-Boo-Too<small>&nbsp;(826-6866)&nbsp;(Monday-Friday 11AM to 7PM)</small></h2>
+      <ul>
+        <li class="fchild"><a href="./faq.html">FAQ</a></li>
+        <li><a href="./how-to-shop.html">How to shop</a></li>
+        <li><a href="./shipping.html">Shipping</a></li>
+        <li><a href="./payment.html">Payment</a></li>
+        <li><a href="./international-customers.html">International Customers</a></li>
+        <li><a href="./returns.html">Returns</a></li>
+        <li><a href="./holiday-delivery.html">Holiday Delivery</a></li>
+        <li><a href="./contact-us.html">Contact Us</a></li>   
+      </ul>
+      
+      <div id="UPSbox">
+        <a href="./shipping.html"><span>Shipping And Delivery!</span></a>  
+      </div>	    <div id="Findbox">
+        <form method="post" action="" name="storeSearch" id="storeSearch" onsubmit="return checkValues()">
+		      <input type="hidden" name="radius" value="50">
+          <label class="nd">Find a store near you</label>
+          <fieldset>
+            <input class="SLIB" size="12" type="text" name="searchValue" value="Enter Zip Here" onclick="this.value=''">
+            <input type="image" value="BOO" src="./img/boobutton.png">
+          </fieldset>
+        </form>  
+      </div>
+</div>      <h2 class="nd">Main menu</h2>
+	  <div id="topmenu">
+        <ul>
+          <li>
+            <a href="http://www.halloweenadventure.com/catalog/adult-costumes.htm">Adult<br>Costumes</a>
+            <ul>
+              <li><a href="http://www.halloweenadventure.com/catalog/mens-costumes.htm">Men's Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/womens-costumes.htm">Women's Costumes</a></li>
+			  <li><a href="http://www.halloweenadventure.com/catalog/teen-costumes.htm">Teens Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-plus-size-costumes.htm">Adult Plus Size Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-historical-costumes.htm">Adult Historical Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-medieval-costumes.htm">Adult Medieval Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-gothic-costumes.htm">Adult Gothic Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-renaissance-costumes.htm">Adult Renaissance Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-20s-costumes.htm">Adult 20's Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-50s-60s-70s-costumes.htm">Adult 50's 60's 70's Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-international-costumes.htm">Adult International Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-jester-and-clown-costumes.htm">Adult Jester and Clown Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-couples-costumes.htm">Adult Couples Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-fantasy-costumes.htm">Adult Fantasy Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-superhero-costumes.htm">Adult Superhero Costumes</a></li>
+			  <li><a href="http://www.halloweenadventure.com/catalog/adult-tv-and-movie-costumes.htm">Adult TV And Movie Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-classic-costumes.htm">Adult Classic Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-holiday-costumes.htm">Adult Holiday Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-funny-costumes.htm">Adult Funny Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-mascot-costumes.htm">Adult Mascot Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-miscellaneous-costumes.htm">Adult Miscellaneous Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/adult-costume-ideas.htm">Adult Costume Ideas</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="http://www.halloweenadventure.com/catalog/childrens-costumes.htm">Children's<br>Costumes</a>
+            <ul>
+              <li><a href="http://www.halloweenadventure.com/catalog/boys-costumes.htm">Boy's Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/girls-costumes.htm">Girl's Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-superhero-costumes.htm">Children's Superhero Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-historical-costumes.htm">Children's Historical Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-medieval-costumes.htm">Children's Medieval Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-gothic-costumes.htm">Children's Gothic Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-renaissance-costumes.htm">Children's Renaissance Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-20s-costumes.htm">Children's 20's Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-50s-60s-70s-costumes.htm">Children's 50's 60's 70's Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-international-costumes.htm">Children's International Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-jester-and-clown-costumes.htm">Children's Jester and Clown Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-disney-costumes.htm">Children's Disney Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-fantasy-costumes.htm">Children's Fantasy Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-fairy-costumes.htm">Children's Fairy Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-holiday-costumes.htm">Children's Holiday Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-funny-costumes.htm">Children's Funny Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/infant-and-toddler-costumes.htm">Infant And Toddler Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/miscellaneous-kids-costumes.htm">Miscellaneous Kid's Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/childrens-costume-ideas.htm">Children's Costume Ideas</a></li>
+            </ul>
+          </li>
+          <li><a href="http://www.halloweenadventure.com/catalog/sexy-costumes.htm">Sexy<br>Costumes</a>
+            <ul>
+              <li><a href="http://www.halloweenadventure.com/catalog/sexy-mans-costumes.htm">Sexy Man's Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/sexy-womans-costumes.htm">Sexy Woman's Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/sexy-fairytale-costumes.htm">Sexy Fairytale Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/sexy-pirate-costumes.htm">Sexy Pirate Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/sexy-historical-costumes.htm">Sexy Historical Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/sexy-holiday-costumes.htm">Sexy Holiday Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/sexy-horrorgothic-costumes.htm">Sexy Horror/Gothic Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/sexy-witches-costumes.htm">Sexy Witches Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/tv-and-movie-sexy-costumes.htm">TV &amp; Movie Sexy Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/classic-sexy-costumes.htm">Classic Sexy Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/sexy-superhero-costumes.htm">Sexy Superhero Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/secret-wishes-costumes.htm">Secret Wishes Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/sexy-uniform-costumes.htm">Sexy Uniform Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/sexy-period-costumes.htm">Sexy Period Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/licensed-sexy-costumes.htm">Licensed Sexy Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/funny-sexy-costumes.htm">Funny Sexy Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/miscellaneous-sexy-costumes.htm">Miscellaneous Sexy Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/sexy-costume-ideas.htm">Sexy Costume Ideas</a></li>
+            </ul>
+          </li>
+          <li><a href="http://www.halloweenadventure.com/catalog/pet-costumes.htm">Pet<br>Costumes</a>
+            <ul>
+              <li><a href="http://www.halloweenadventure.com/catalog/classic-pet-costumes.htm">Classic Pet Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/holiday-pet-costumes.htm">Holiday Pet Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/tv-and-movie-pet-costumes.htm">TV &amp; Movie Pet Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/hats-and-collars-for-pets.htm">Hats &amp; Collars For Pets</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/miscellaneous-pet-costumes.htm">Miscellaneous Pet Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/pet-costume-ideas.htm">Pet Costume Ideas</a></li>
+            </ul>
+          </li>
+          <li><a href="http://www.halloweenadventure.com/catalog/holiday-costumes.htm">Holiday<br>Costumes</a>
+            <ul>
+              <li><a href="http://shop.halloweenadventure.com/Category186">Halloween Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/christmas-costumes.htm">Christmas Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/4th-of-july-costumes.htm">4th Of July Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/easter-costumes.htm">Easter Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/hanukkah-costumes.htm">Hanukkah Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/st-patricks-day-costumes.htm">St. Patrick's Day Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/thanksgiving-costumes.htm">Thanksgiving Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/valentines-day-costumes.htm">Valentine's Day Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/mardi-gras-costumes.htm">Mardi Gras Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/purim-costumes.htm">Purim Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/luau-costumes.htm">Luau Costumes</a></li>
+			  <li><a href="http://www.halloweenadventure.com/catalog/cinco-de-mayo-costumes.htm">Cinco De Mayo Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/labor-day-costumes.htm">Labor Day Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/memorial-day-costumes.htm">Memorial Day Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/presidents-day-costumes.htm">Presidents Day Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/veterans-day-costumes.htm">Veterans Day Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/miscellaneous-holiday-costumes.htm">Miscellaneous Holiday Costumes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/holiday-costume-ideas.htm">Holiday Costume Ideas</a></li>
+            </ul>
+          </li>
+          <li><a href="http://www.halloweenadventure.com/catalog/accessories-and-makeup.htm">Accessories<br>And Makeup</a>
+            <ul>
+              <li><a href="http://www.halloweenadventure.com/catalog/armorweapons.htm">Armor And Weapons</a></li>
+			  <li><a href="http://www.halloweenadventure.com/catalog/blood-and-gore.htm">Blood And Gore</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/capes-coats-and-vests.htm">Capes, Coats &amp; Vests</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/clown-accessories.htm">Clown Accessories</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/costume-kits-cat-0.htm">Costume Kits</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/eye-wear-and-glasses.htm">Eye wear &amp; Glasses</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/facial-hair-and-beards.htm">Facial Hair &amp; Beards</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/fangs-and-teeth.htm">Fangs &amp; Teeth</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/feet-and-foot-covers.htm">Feet &amp; Foot covers</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/gloves-and-hands.htm">Gloves &amp; Hands</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/holiday-accessories.htm">Holiday Accessories</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/costume-shoes-and-boots.htm">Costume Shoes &amp; Boots</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/makeup-basics.htm">Makeup Basics</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/costume-jewelry-and-boas.htm">Costume Jewelry &amp; Boas</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/ties-canes-and-sashes.htm">Ties, Canes &amp; Sashes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/tv-and-movie-accessories.htm">TV &amp; Movie Accessories</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/theatrical-makeup.htm">Theatrical Makeup</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/prosthetics.htm">Prosthetics</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/tails-ears-and-noses.htm">Tails, Ears &amp; Noses</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/miscellaneous-accessories.htm">Miscellaneous Accessories</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/costume-accessories-ideas.htm">Costume Accessories Ideas</a></li>
+            </ul>
+          </li>
+          <li><a href="http://www.halloweenadventure.com/catalog/hats-wigs-and-masks.htm">Hats, Wigs<br>And Masks</a>
+            <ul>
+              <li><a href="http://www.halloweenadventure.com/catalog/costume-hats.htm">Costume Hats</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/clown-wigs-and-hats.htm">Clown Wigs &amp; Hats</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/halloween-masks.htm">Halloween Masks</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/venetian-masks.htm">Venetian Masks</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/half-masks.htm">Half Masks</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/holiday-masks-and-hats.htm">Holiday Masks &amp; Hats</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/pirate-hats-and-wigs.htm">Pirate Hats &amp; Wigs</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/tiaras-and-crowns.htm">Tiaras &amp; Crowns</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/tv-and-movie-items.htm">TV &amp; Movie Items</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/costume-kits-cat-1.htm">Costume Kits</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/costume-wigs.htm">Wigs</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/miscellaenous-hats-wigs-and-masks.htm">Miscellaenous Hats, Wigs &amp; Masks</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/hats-wigs-and-masks-ideas.htm">Hats, Wigs &amp; Masks Ideas</a></li>
+            </ul>
+          </li>
+          <li><a href="http://www.halloweenadventure.com/catalog/decorations-and-props.htm">Decorations<br>And Props</a>
+            <ul>
+              <li><a href="http://www.halloweenadventure.com/catalog/party-themes.htm">Party Themes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/balloons-and-accessories.htm">Balloons &amp; Accessories</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/signs-door-and-wall-hangings.htm">Signs, Door &amp; Wall Hangings</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/scenes.htm">Scenes</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/decorative-lights.htm">Decorative Lights</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/lawn-and-yard.htm">Lawn &amp; Yard</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/special-effects.htm">Special Effects</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/shop-of-horrors.htm">Shop Of Horrors</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/miscellaneous-decorations-and-props.htm">Miscellaneous Decorations &amp; Props</a></li>
+              <li><a href="http://www.halloweenadventure.com/catalog/decorations-and-props-ideas.htm">Decorations &amp; Props Ideas</a></li>           
+        	</ul>
+       	  </li>
+			  <li id="but3"><a href="http://www.halloweenadventure.com/catalog/on-sale-costumes.htm">On Sale<br>Costumes</a></li>
+			  <li id="but4"><a href="./haunted-attractions.html">Haunted<br>Attractions</a></li>
+			  <li id="but5"><a href="./promotions-and-coupons.html">Promotions<br>And Coupons</a></li>
+		</ul>
+        <br class="kliner">
+</div>
+
+
+      
+    </div>
+  
+<!-- SIDEBLOCK -->
+  
+  <div id="sideblock">    
+<div id="Searchbox" style="background-image: url(./img/main_url/ps_theme.jpg);">
+      <form action="http://www.nexternal.com/masquerade/" method="get" target="_top">
+      <fieldset>
+      <label class="nd">Product search</label>
+      <input id="sb_input" name="Keyword" value="Search here" onclick="this.value=''" type="text">
+      <input name="image" type="image" id="sb_submit" src="./img/gobutton.png">
+      </fieldset>
+    </form>
+    <a href="http://www.nexternal.com/masquerade/?Target=search.asp">Advanced Search</a></div>
+
+<div id="sidemenu">
+      <ul id="list1">
+        <li class="fchild"><a href="./halloween-costumes.html">Halloween Costumes</a></li>
+        <li><a href="./harry-potter-costumes.html">Harry Potter Costumes</a></li>
+        <li><a href="./spiderman-costumes.html">Spiderman Costumes</a></li>
+        <li><a href="./pirate-costumes.html">Pirate Costumes</a></li>
+        <li><a href="./sexy-costumes.html">Sexy Costumes</a></li>
+        <li><a href="./superhero-costumes.html">Superhero Costumes</a></li>
+        <li><a href="./movie-costumes.html">Movie Costumes</a></li>
+        <li><a href="./period-costumes.html">Period Costumes</a></li>
+        <li><a href="./christmas-costumes.html">Christmas Costumes</a></li>
+      </ul>
+
+    <div id="hackersafe">
+<!--[if IE 6]>
+    <table width="178" border="0" summary="hackersafe">
+      <tr>
+      <td>
+<![endif]-->
+    <a href="http://shop.halloweenadventure.com/shared/HelpDesk"><img src="img/kb.jpg" alt="Customer Service Center Of Halloween Adventure. Costumes for every occasion!" width="88" height="75" border="0"></a>         
+<!--[if IE 6]>      
+      </td>
+      <td>
+<![endif]-->      
+     <!-- (c) 2006. Authorize.Net is a registered trademark of Lightbridge, Inc.    -->
+      <div class="AuthorizeNetSeal">
+        <script type="text/javascript" language="javascript">
+          var ANS_customer_id="e35dbe4f-f8b0-48f0-9eea-a3de03bc147a";
+        </script> 
+        <script type="text/javascript" language="javascript" src="http://VERIFY.AUTHORIZE.NET/anetseal/seal.js"></script>
+        <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Payment Processing</a>
+      </div> 
+<!--[if IE 6]>      
+      </td>
+      </tr>
+    </table>
+<![endif]-->    
+    </div>
+
+    <div id="signupbox">
+    <h2 class="magentacolor"><small>Get Valuable Coupons By Email!</small></h2>
+      <form name="signup" method="post" action="https://www.nexternal.com/masquerade/default.asp" onsubmit="return ValidateForm()">
+      <fieldset>
+        <input id="su_input" size="10" type="text" value="Enter Email here" name="EMAIL" onclick="this.value=''">
+        <input id="su_submit" type="image" src="./img/gobutton2.png">
+				<input type="hidden" name="LAST_NAME" value="Consumer">
+				<input type="hidden" name="FIRST_NAME" value="valued">
+				<input type="hidden" name="ADDRESS1" value="Please Log In to your Account!">
+				<input type="hidden" name="CITY" value="Default City">
+				<input type="hidden" name="POSTAL_CODE" value="00000">
+				<input type="hidden" name="COUNTRY" value="US">
+				<input type="hidden" name="ADDRESS_TYPE" value="0">
+				<input type="hidden" name="PHONE_NUM" value="800-000-0000">
+				<input type="hidden" name="CUST_TYPE" value="Consumer">
+				<input type="hidden" name="PASSWORD" value="000000">
+				<input type="hidden" name="ReplyURL" value="http://www.halloweenadventure.com">
+				<input type="hidden" name="Mode" value="Redirect-Only">
+      </fieldset>
+      </form>      
+    </div>
+  
+      <h2 class="greencolor">Customer Service</h2> 
+      <ul>
+        <li class="fchild"><a href="./shipping.html">Shipping</a></li>	  
+        <li><a href="./payment.html">Payment</a></li>
+        <li><a href="./returns.html">Return Policy</a></li>		
+        <li><a href="./how-to-shop.html">How To Shop</a></li>
+        <li><a href="./holiday-delivery.html">Holiday Delivery</a></li>
+        <li><a href="./international-customers.html">International Customers</a></li>
+        <li><a href="./testimonials.html">Testimonials</a></li>
+        <li><a href="./security-and-privacy.html">Security And Privacy</a></li>										
+        <li><a href="./faq.html">FAQ</a></li>
+        <li><a href="./contact-us.html">Contact Us</a></li>
+      </ul>
+
+      <h2 class="yellowcolor">Corporate Directory</h2>      
+      <ul>
+        <li class="fchild"><a href="./about-us.html">About Us</a></li>
+        <li><a href="./job-opportunities.html">Job Opportunities</a></li>
+        <li><a href="./haunted-attractions.html">Haunted Attractions</a></li>
+        <li><a href="./owner-operator-program.html">Owner Operator Program</a></li>
+        <li><a href="./links.html">Links</a></li>
+        <li><a href="./halloween-costume-store-locator.html">Costume Store Locator</a></li>
+        <li><a href="./suggest-store-location.html">Suggest Store Location</a></li>
+        <li><a href="./contact-masquerade.html">Corporate Contact</a></li>
+      </ul> </div>
+  
+  </div>
+
+  
+<!-- MAIN -->
+
+  <div id="mainblockwide">
+<a name="top"></a>
+    <img src="./img/security-and-privacy/security-and-privacy.jpg" alt="dummy" title="dummy">
+	<div class="floatbox">
+    <h2>Customer Service Center</h2>
+    <ul>
+      <li><a href="shipping.html">Shipping</a></li>
+      <li><a href="payment.html">Payment</a></li>
+      <li><a href="returns.html">Return Policy</a></li>
+      <li><a href="how-to-shop.html">How To Shop</a></li>
+      <li><a href="holiday-delivery.html">Holiday Delivery</a></li>
+      <li><a href="international-customers.html">International Customers</a></li>
+      <li><a href="testimonials.html">Testimonials</a></li>
+      <li><a href="security-and-privacy.html">Security And Privacy</a></li>      
+	  <li><a href="faq.html">Frequently Asked Questions</a></li>
+      <li><a href="contact-us.html">Contact Us</a></li>
+   </ul> 
+  </div>  
+  <div id="mainblockcontent">
+    <h3>OUR SECURITY FAQ'S </h3>
+      <p><a href="#Security1">Do I have a Security Guarantee? </a></p>
+    <h3>PRIVACY POLICY FAQ'S </h3>
+      <p><a href="#Privacy1">How Is My Privacy Protected at BuyCostumes.com? </a></p>
+    <a name="Security1" id="Security1"></a>
+	<h3>Do I have a Security Guarantee? </h3>
+  <p>
+  We take your business seriously and will use every precaution necessary to ensure that your shopping experience is safe and exciting! HalloweenAdventure.com uses the best technology available, Secure Socket Layer encrypting, to keep your private information and credit card information as secure as possible. Also remember that we do not sell any of your information to any third parties. </p>
+    
+	<br>
+	<div class="bttop1"><a class="bttop" href="#top">back to top </a></div>
+    
+	
+	<a name="Privacy1" id="Privacy1"></a>
+	<h3>How Is My Privacy Protected at HalloweenAdventure.com? </h3>
+  <p>HalloweenAdventure.com is a wholly owned subsidiary of Masquerade LLC,. We at HalloweenAdventure.com value your business, and your trust. Therefore, we will not sell nor give away any  customers' e-mail address (or any other personal information) to other businesses. </p>
+    <p>The reason we request your e-mail address is so we will be able to send you information regarding your order, (order confirmation, order processing, and tracking number). We may e-mail you coupons or discount offers in the future. Additionally, we may share information we collect at our Web site with other members of the MASQUERADE Halloween Adventure family. They may use this information to offer you products and services that may be of interest to you. </p>
+    <p>&nbsp;</p>
+    <a href="http://shop.halloweenadventure.com/shared/HelpDesk"><img src="img/kb.jpg" alt="Customer Service Center Of Halloween Adventure. Costumes for every occasion!" width="88" height="75" border="0"></a>  <!--[if IE 6]>      
+      </td>
+      <td>
+<![endif]-->      
+     <!-- (c) 2006. Authorize.Net is a registered trademark of Lightbridge, Inc.    -->
+      <div class="AuthorizeNetSeal">
+        <script type="text/javascript" language="javascript">
+          var ANS_customer_id="e35dbe4f-f8b0-48f0-9eea-a3de03bc147a";
+        </script> 
+        <script type="text/javascript" language="javascript" src="http://VERIFY.AUTHORIZE.NET/anetseal/seal.js"></script>
+        <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Payment Processing</a>
+      </div>
+    <p> To help protect you from identity theft and credit card fraud, HalloweenAdventure.com has choosen a shoping cart that has teamed up with ScanAlert and is now tested and certified daily to pass the FBI/SANS Internet Security Test. The "live" HACKER SAFE® mark appears only when a web site's security meets the highest security scanning standards of the U.S. government, Visa, MasterCard, American Express, Discover. </p>
+<div class="bttop1"><a class="bttop" href="#top">back to top </a></div>	
+    
+	<div class="f">
+	<h3>If you cannot find what you need to know, please contact us using any of the following ways: </h3>
+    
+    <table summary="contact" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td width="56" class="subheader"><strong>E-Mail: </strong></td>
+        <td width="292"><a href="http://www.buycostumes.com/Pages/Email/Emailcustserv.aspx">Contact Customer Service </a></td>
+      </tr>
+      <tr>
+        <td><strong>Phone: </strong></td>
+        <td> 1-877-U-Boo-Too (826-6866)</td>
+      </tr>
+      <tr>
+        <td><strong>Hours: </strong></td>
+        <td>  Monday-Friday (EST) 11AM - 7PM<br>
+           Saturday-Sunday (EST) 12PM - 5PM </td>
+      </tr>
+      <tr>
+        <td><strong>Fax: </strong></td>
+        <td>212-673-0927 </td>
+      </tr>
+      <tr>
+        <td><strong>Mail: </strong></td>
+        <td> HalloweenAdventure.com <br>
+      104 4th Avenue<br>
+      New York City, NY 10003 </td>
+      </tr>
+    </tbody></table>
+</div>  
+  <br>
+  </div>
+  </div>
+
+    <!-- FOOTER -->
+      <div id="footer">
+      <ul>
+        <li class="fchild"><a href="#">Return To Top</a></li>
+        <li><a href="./security-and-privacy.html">Security And Privacy</a></li>
+        <li><a href="http://catalog.halloweenadventure.com">Sitemap</a></li>
+        <li><a href="./disclaimer-and-copyrights.html">Disclaimer &amp; Copyrights</a></li>
+        <li><a href="./contact-webmaster.html">Contact Webmaster</a></li>
+      </ul>
+     
+     © 2007 HalloweenAdventure.com | All rights reserved. No part of this website can be reproduced without prior consent. Taking or use of images is <b>Breach of Copyright</b>.
+        
+  </div>  
+</div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-656916-4";
+	urchinTracker();
+  </script>
+  
+
+</body></html>
