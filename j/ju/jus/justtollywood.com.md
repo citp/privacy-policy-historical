@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justtollywood.com privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103012642id_/http%3A//justtollywood.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justtollywood.com privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504032454id_/http%3A//www.justtollywood.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Just Tollywood - Complete Telugu Movie Database
 
