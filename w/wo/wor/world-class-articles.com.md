@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the world-class-articles.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231180838id_/http%3A//www.world-class-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-class-articles.com privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504051941id_/http%3A//www.world-class-articles.com/privacy.php) for the most accurate reproduction.*
 
 # World Class Articles | Privacy Statement
 
