@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the greatnonprofits.org privacy policy that was archived on 2007-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071105003031id_/http%3A//www.greatnonprofits.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greatnonprofits.org privacy policy that was archived on 2008-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080505001513id_/http%3A//www.greatnonprofits.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="copyright" content="Great Nonprofits 2007">
-<meta name="keywords" content="nonprofit, impact, effective, philanthropy, pittsburgh, review, donate, volunteer, find, charities, giving, guidestar, fundraising">
-<meta name="description" content="Great Nonprofits is a place to find, review, and talk about great—and perhaps also not so great—nonprofits. Members witness and share their personal stories about nonprofits that make a real difference.">
+<meta name="copyright" content="Great Nonprofits 2007-2008">
+   <meta name="description" content="Great Nonprofits is a place to find, review, and talk about great—and perhaps also not so great—nonprofits. Members witness and share their personal stories about nonprofits that make a real difference.">
+   <meta name="keywords" content="nonprofit, impact, effective, philanthropy, pittsburgh, review, donate, volunteer, find, charities, giving, guidestar, fundraising">
 
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.greatnonprofits.org/rss_2.0/">
 <link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.greatnonprofits.org/atom/">
@@ -13,10 +13,11 @@
 
 <!-- Core Javascripts -->
 <script type="text/javascript" src="http://www.greatnonprofits.org/.src/default.js"></script>
-<script type="text/javascript" src="http://www.greatnonprofits.org/.src/prototype.js?v=1511"></script>
+<script type="text/javascript" src="http://www.greatnonprofits.org/.src/prototype.js?v=150"></script>
 <script type="text/javascript" src="http://www.greatnonprofits.org/.src/submit_form.js"></script>
 <script type="text/javascript" src="http://www.greatnonprofits.org/.src/scriptaculous.js?load=effects"></script>
 <script type="text/javascript" src="http://www.greatnonprofits.org/.src/lightbox.js"></script>
+
 <!--[if IE]>
 <script type="text/javascript" src="http://www.greatnonprofits.org/.src/swfobject.js"></script>
 <![endif]-->
@@ -46,6 +47,20 @@
 <!-- END Contextual Metadata -->
 </head>
 <body id="body-global">
+    
+        <link rel="stylesheet" type="text/css" href="http://www.greatnonprofits.org/.src/autocompletion.css">
+        <script type="text/javascript" src="http://www.greatnonprofits.org/.src/autocomplete-3-2.js"></script>
+        <script type="text/javascript">
+           window.onload = function()
+           {
+                  initAutoComplete(document.getElementById('advanced-search-form'),
+                  document.getElementById('keywords'),document.getElementById('submit'));
+                  initAutoComplete(document.getElementById('form-search2'),
+                  document.getElementById('keywords2'),document.getElementById('submit2'));
+           };
+        </script>
+    
+    
  <div id="header">
   <h1><a href="http://www.greatnonprofits.org/">Great Nonprofits</a></h1>
    <ul id="global">
@@ -74,7 +89,7 @@
 			<fieldset style="padding:10px;">
 				<input type="hidden" name="search_in" value="everywhere">
 				<label for="keywords">Keywords</label>
-				<input type="text" name="keywords" class="textfield">
+				<input type="text" name="keywords" id="keywords" class="textfield">
 				<br>
 				<label for="site-sections">Site Sections</label>
 				<input type="checkbox" name="weblog_id[]" value="3" checked="checked" class="checkbox"> Organizations 
@@ -101,7 +116,7 @@
 				<option value="365">One Year</option>
 				</select>
 				<br>
-				<input type="submit" name="submit" value="Submit" class="button submit">
+				<input type="submit" name="submit" id="submit" value="Submit" class="button submit">
 			</fieldset>
 		</form>
 	</div> <!-- advanced search slider -->
@@ -109,21 +124,23 @@
   <li id="nav1"><a href="http://www.greatnonprofits.org/home/">Home</a></li>
   <li id="nav2"><a href="http://www.greatnonprofits.org/user/">My Page</a></li>
   <li id="nav3"><a href="http://www.greatnonprofits.org/needs/">Needs &amp; Offers</a></li>
-  <li id="nav4"><a href="http://www.greatnonprofits.org/reviews/">Nonprofits</a></li>
-  <li id="nav5"><a href="http://www.greatnonprofits.org/forum/">Forum</a></li>
-  <li id="nav6">
+  <li id="nav4"><a href="http://www.greatnonprofits.org/forum/">Forum</a></li>
+  <li id="nav5"><a href="http://www.greatnonprofits.org/reviews/">Read Reviews</a></li>
+  <li id="nav6"><a href="http://www.greatnonprofits.org/reviews/write/">Write a Review</a></li>
+  <li id="nav7">
 	<a id="advanced-search-link-on" href="" onclick="new Effect.SlideDown('advanced-search-form', {duration:1}); ['advanced-search-link-on', 'advanced-search-link-off'].each(Element.toggle); return false;">Advanced Search</a>
 	<a id="advanced-search-link-off" style="display:none" href="" onclick="new Effect.SlideUp('advanced-search-form', {duration:1}); ['advanced-search-link-on', 'advanced-search-link-off'].each(Element.toggle); return false;">Advanced Search</a>
-  <form id="form-search" name="form-search" method="post" action="http://www.greatnonprofits.org/">
+  
+  <form id="form-search" name="form-search2" method="post" action="http://www.greatnonprofits.org/">
 <div>
 <input type="hidden" name="ACT" value="19">
-<input type="hidden" name="XID" value="3c17b4d1c755eeb7a3109e9fb0dc33d3be28b363">
+<input type="hidden" name="XID" value="9e93d12a24fb850fd79b74c9e8a6388c4aee6a0c">
 <input type="hidden" name="RP" value="search/results">
 <input type="hidden" name="NRP" value="search/no_results">
 <input type="hidden" name="RES" value="40">
 <input type="hidden" name="status" value="not closed">
 <input type="hidden" name="search_in" value="everywhere">
-<input type="hidden" name="weblog" value="not general">
+<input type="hidden" name="weblog" value="reviews">
 <input type="hidden" name="show_future_entries" value="yes">
 <input type="hidden" name="site_id" value="1">
 </div>
@@ -177,66 +194,6 @@ function changemenu(index)
   
 	with (theSearchForm.elements['cat_id[]'])
 	{			
-		if (blogs == "9")
-		{	
-            categories[i] = new Option("-------", ""); i++; 
-            categories[i] = new Option("Pittsburgh", "8"); i++; 
-            categories[i] = new Option("Regions", "10"); i++; 
-            categories[i] = new Option("San Francisco", "9"); i++; 
-
-		} // END if blogs
-			
-				
-		if (blogs == "1")
-		{	
-
-		} // END if blogs
-			
-				
-		if (blogs == "4")
-		{	
-            categories[i] = new Option("-------", ""); i++; 
-            categories[i] = new Option("Computer Hardware and Software", "5"); i++; 
-            categories[i] = new Option("Fundraising", "7"); i++; 
-            categories[i] = new Option("Office and Stationery Supplies", "6"); i++; 
-            categories[i] = new Option("Office Equipment and Furniture", "4"); i++; 
-            categories[i] = new Option("-------", ""); i++; 
-            categories[i] = new Option("Pittsburgh", "8"); i++; 
-            categories[i] = new Option("Regions", "10"); i++; 
-            categories[i] = new Option("San Francisco", "9"); i++; 
-            categories[i] = new Option("-------", ""); i++; 
-            categories[i] = new Option("Volunteer", "11"); i++; 
-
-		} // END if blogs
-			
-				
-		if (blogs == "2")
-		{	
-            categories[i] = new Option("-------", ""); i++; 
-            categories[i] = new Option("Pittsburgh", "8"); i++; 
-            categories[i] = new Option("Regions", "10"); i++; 
-            categories[i] = new Option("San Francisco", "9"); i++; 
-
-		} // END if blogs
-			
-				
-		if (blogs == "5")
-		{	
-            categories[i] = new Option("-------", ""); i++; 
-            categories[i] = new Option("Computer Hardware and Software", "5"); i++; 
-            categories[i] = new Option("Fundraising", "7"); i++; 
-            categories[i] = new Option("Office and Stationery Supplies", "6"); i++; 
-            categories[i] = new Option("Office Equipment and Furniture", "4"); i++; 
-            categories[i] = new Option("-------", ""); i++; 
-            categories[i] = new Option("Pittsburgh", "8"); i++; 
-            categories[i] = new Option("Regions", "10"); i++; 
-            categories[i] = new Option("San Francisco", "9"); i++; 
-            categories[i] = new Option("-------", ""); i++; 
-            categories[i] = new Option("Volunteer", "11"); i++; 
-
-		} // END if blogs
-			
-				
 		if (blogs == "3")
 		{	
             categories[i] = new Option("-------", ""); i++; 
@@ -284,26 +241,21 @@ function changemenu(index)
 	
 		
 <input type="hidden" name="where" value="all">
-    <input type="submit" value="Search" class="button"><input type="text" name="keywords" id="keywords" class="textfield">
+<input type="hidden" name="orderby" value="title">
+<input type="hidden" name="sort_order" value="asc">
+    <input type="submit" id="submit2" value="Search" class="button"><input type="text" name="keywords" id="keywords2" class="textfield">
   </form>
   </li>
  </ul> <!-- nav -->
  <div id="subheader" class="clearfix">
  <ul id="subnav" class="clearfix">
-  <li class="last" style="display:none"></li>
  </ul>  <!-- subnav -->
   <script type="text/javascript">
    //<![CDATA[
    Element.cleanWhitespace($('subnav'));
    //]]>
   </script>
- 
- <ul id="regions">
-   <li class="first">Great Nonprofits in:</li>
-   <li><a href="http://www.greatnonprofits.org/privacy/" class="selected">All</a></li>
-   <li><a href="http://pittsburgh.greatnonprofits.org/privacy/">Pittsburgh</a></li>
-   <li class="last"><a href="http://sf.greatnonprofits.org/privacy/">San Francisco</a></li>
-   </ul>
+
 
    <script type="text/javascript">
    //<![CDATA[
@@ -329,24 +281,19 @@ function changemenu(index)
 
 <h3>How We Use Information</h3>
 
-<p>Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation, or when sharing a review). We may also use your email address to send you updates or news regarding our site, but you may choose not to receive email of this type by accessing the “Account” tab of the web site and updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message).</p>
+<p>Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation, or when sharing a review). We may also use your email address to send you updates or news regarding our site. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message).</p>
 
 <p>Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer GreatNonprofits, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners.</p>
 
 <p>We use return email addresses to answer the email we receive. We do not, however, sell, rent or trade our volunteer, administrator, nonprofit, or general newsletter email addresses to outside parties.</p>
 
-<p>Please be aware that, to the extent required to provide our services, we share your Information with volunteers, nonprofit organizations, or our Partners, as applicable:</p>
-
 <h3>For Newsletter Subscribers</h3>
 
 <p>We may use our email lists for sending out our newsletter and other GreatNonprofits outbound communications, such as product enhancements, tool upgrades, or membership news.</p>
 
-<p>Additionally, for volunteers with a personal account who have accessed GreatNonprofits through www.greatnonprofits.org or a Partner’s Web site: 
-If you indicate to us that you are interested in creating a personalized account, the information we gather from you will be used to permit you to: access the account, customize outbound email services, review your referral history and/or post a resume that can be sent as an attachment to inquiries you make using the VolunteerMatch service.</p>
-
 <h3>For Nonprofit Organizations</h3>
 
-<p>If you submit Information to us as a nonprofit organization, then, subject to the terms and conditions as a nonprofit member of GreatNonprofits, your Information (excluding your EIN number) will be accessible by anyone who accesses GreatNonprofits. In addition, we may share your Information, including your EIN number, with selected Partners in order to verify your organization’s identity and tax status.</p>
+<p>If you submit Information to us as a nonprofit organization, then, subject to the terms and conditions as a nonprofit member of GreatNonprofits, your Information will be accessible by anyone who accesses GreatNonprofits. In addition, we may share your Information with selected Partners in order to verify your organization’s identity and tax status.</p>
 
 <h3>Children’s Privacy</h3>
 
@@ -360,7 +307,7 @@ If you indicate to us that you are interested in creating a personalized account
 
 <p>Occasionally, we or our Partners hire third-party service providers to help provide or improve the services we offer you. Sometimes it is necessary for these providers to have access to the Information we collect about you. In those cases, we take reasonable steps to ensure that these providers do not use or otherwise disclose any Information we collect about you except for the purpose of fulfilling their service obligations to us and our Partners.</p>
 
-<p>In the unlikely event that GreatNonprofits undergoes a sale or transfer of all or substantially all of its assets, the acquiring entity will be subject to this Privacy Policy in its use of your personally identifiable Information. In addition, in the further unlikely event that VolunteerMatch is adjudicated bankrupt or insolvent (a) there will be no further use or disclosure of your personally identifiable Information by GreatNonprofits and (b) your personally identifiable Information will be destroyed. In addition, there will be no use or disclosure of your personally identifiable Information by any entity that acquires assets of VolunteerMatch pursuant to such bankruptcy or insolvency proceedings.</p>
+<p>In the unlikely event that GreatNonprofits undergoes a sale or transfer of all or substantially all of its assets, the acquiring entity will be subject to this Privacy Policy in its use of your personally identifiable Information. In addition, in the further unlikely event that GreatNonprofits is adjudicated bankrupt or insolvent (a) there will be no further use or disclosure of your personally identifiable Information by GreatNonprofits and (b) your personally identifiable Information will be destroyed. In addition, there will be no use or disclosure of your personally identifiable Information by any entity that acquires assets of GreatNonprofits pursuant to such bankruptcy or insolvency proceedings.</p>
 
 <p>Your privacy is very important to us. Due to factors beyond our control, however, we cannot fully ensure that your Information will not be disclosed to third parties. For example, we may be legally obligated to disclose Information to the government or third parties under certain circumstances, or third parties may circumvent our security measures to unlawfully intercept or access your Personal Information.</p>
 
@@ -384,7 +331,7 @@ If you indicate to us that you are interested in creating a personalized account
 
 <p>Subscriptions to GreatNonprofits newsletters are optional and GreatNonprofits allows nonprofit organizations, volunteers, subscribers or other users to unsubscribe from newsletters at any time. In each newsletter we provide instructions regarding how to opt-out from receiving future newsletter mailings. You can also email us at support@greatnonprofits.org to remove your name from our newsletter subscription data base and ensure that you will cease receiving future newsletters from us.</p>
 
-<p>We reserve the right to send you certain communications relating to the VolunteerMatch service, such as the occasional service and product announcement or administrative message, that are considered part of your VolunteerMatch account without offering you the opportunity to opt out of receiving them.</p>
+<p>We reserve the right to send you certain communications relating to the GreatNonprofits service, such as the occasional service and product announcement or administrative message, that are considered part of your GreatNonprofits account without offering you the opportunity to opt out of receiving them.</p>
 
 <h3>Our Commitment To Data Security</h3>
 
@@ -416,7 +363,7 @@ If you indicate to us that you are interested in creating a personalized account
     dc:identifier="http://www.greatnonprofits.org/63/" 
     dc:subject=""
     dc:description=""
-    dc:creator="mitchell"
+    dc:creator="Mitchell Kimbrough (Solspace)"
     dc:date="2007-02-27 06:02:00 AM GMT" />
 </rdf:RDF>
 -->
@@ -424,10 +371,12 @@ If you indicate to us that you are interested in creating a personalized account
  </div> <!-- container -->
  <div id="footer">
   <ul>
-   <li>© 2007 Great Nonprofits</li>
+   <li>© 2006-2008 Great Nonprofits</li>
    <li><a href="http://www.greatnonprofits.org/nonprofits/">Nonprofits</a></li>
    <li><a href="http://www.greatnonprofits.org/about/">About Us</a></li>
+   <li><a href="http://www.greatnonprofits.org/gnpblog/">Blog</a></li>
    <li><a href="http://www.greatnonprofits.org/contact/">Contact Us</a></li>
+   <li><a href="http://www.greatnonprofits.org/news/">News &amp; Events</a></li>
    <li><a href="http://www.greatnonprofits.org/privacy/">Privacy</a></li>
    <li class="last"><a href="http://www.greatnonprofits.org/terms/">Terms of Use</a></li>
   </ul>
