@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wildearth.com.au privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220222852id_/http%3A//www.wildearth.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildearth.com.au privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504174312id_/http%3A//www.wildearth.com.au/privacy.php) for the most accurate reproduction.*
 
-# Camping Gear, Hiking Tents, Swags & Australian Hats!
+# Camping Gear, Hiking Tents, Boots, Swags, Packs & Australian Hats!
 
 **1\. Privacy is important.**  
 We recognize that privacy of personal information is important to individuals. Any personal information you provide to us will be used for business purposes only. Except where otherwise legally appropriate, we will treat your personal information as private.   
