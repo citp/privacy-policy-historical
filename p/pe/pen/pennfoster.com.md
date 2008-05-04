@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennfoster.com privacy policy that was archived on 2007-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071104140552id_/http%3A//www.pennfoster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennfoster.com privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504075027id_/http%3A//www.pennfoster.com/privacy.html) for the most accurate reproduction.*
 
 # Penn Foster Career School | Privacy Policy
 
@@ -6,11 +6,11 @@ At Penn Foster, we want your visit to be both satisfying and comfortable. Our pr
 
 **Collection and Storage of Information**
 
-When you communicate with Penn Foster we will collect and store certain personal information in our customer database. This information could include any of the contact or demographic information you provide us, including your name, address, phone number, e-mail address, or your zip code or your age. In addition, we may collect certain financial information such as your credit card number, or your mother's maiden name, in order to process your order and collect payment. "Cookies" may also be used to recognize you and give you access to our site. And if you enroll in one or more of our programs, your student records and correspondence with our company are maintained by us as required by law and good business practices.
+When you communicate with Penn Foster we will collect and store certain personal information in our customer database. This information could include any of the contact or demographic information you provide us, including your name, address, phone number, email address, or your zip code or your age. In addition, we may collect certain financial information such as your credit card number, or your mother's maiden name, in order to process your order and collect payment. "Cookies" may also be used to recognize you and give you access to our site. And if you enroll in one or more of our programs, your student records and correspondence with our company are maintained by us as required by law and good business practices.
 
 **Use of Information**
 
-We will not disclose your credit card number and other personal financial information except as necessary to collect payment. Penn Foster will use the information you provide us to help us better provide our services to you, and to tell you about other products and services that may be of interest. In addition, Penn Foster may share personal contact information and demographic information about our students and inquirers with reputable business partners such as advertisers and other third parties. We do not share your private student records or your grades, except as may be required by law.
+We will not disclose your credit card number and other personal financial information except as necessary to collect payment. Penn Foster will use the information you provide us to help us better provide our services to you, and to tell you about other products and services that may be of interest. In addition, Penn Foster may share personal contact information and demographic information about our students and inquirers with reputable business partners such as advertisers and other third parties. However, we do not share our email addresses. We also do not share your private student records or your grades, except as may be required by law.
 
 **Your Rights**
 
