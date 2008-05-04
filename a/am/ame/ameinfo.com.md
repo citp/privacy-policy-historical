@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226224154id_/http%3A//www.ameinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504183637id_/http%3A//www.ameinfo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AME Info
 
@@ -8,7 +8,7 @@
 
 ## Introduction
 
-AME Info FZ LLC / Emap Communications is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.ameinfo.com
+AME Info FZ LLC / Emap Limited is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.ameinfo.com
 
 Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -18,16 +18,16 @@ AME Info keeps log files that include your IP address for statistic and logging 
 
 By signing up to the AME Info newsletter, updating and adding your company details to the database or other subscriptions on the AME Info Site, you agree that:
 
-  1. AME Info FZ LLC / Emap Communications stores your contact details and personal information if provided including: full name, e-mail, gender, company name and address, city, country, IP address, phone number, fax number, birth date, nationality, primary role, corporate website, number of employees and industry in a database;
-  2. AME Info FZ LLC / Emap Communications may use your personal information to send you information about issues AME Info finds relevant, including third party information however the sender will always be AME Info for easy identification;
+  1. AME Info FZ LLC / Emap Limited stores your contact details and personal information if provided including: full name, e-mail, gender, company name and address, city, country, IP address, phone number, fax number, birth date, nationality, primary role, corporate website, number of employees and industry in a database;
+  2. AME Info FZ LLC / Emap Limited may use your personal information to send you information about issues AME Info finds relevant, including third party information however the sender will always be AME Info for easy identification;
   3. we may contact you via email if our terms changes, if authorities demands it, when services are added, updated or modified;
-  4. you can [manually request](https://web.archive.org/cgi-bin/cms/feedback.cgi?g=Report;deleteacc=1) to be deleted from our database and all information held about you by AME Info FZ LLC / Emap Communications will be removed;
-  5. AME Info FZ LLC / Emap Communications may use, store, transfer and process your personal information; and
-  6. if you choose to contact a company or organisation through AME Info or the Site, AME Info FZ LLC / Emap Communications is entitled to disclose any of your information or details that it holds (including your IP address) to that company or organization.
+  4. you can [manually request](https://web.archive.org/cgi-bin/cms/feedback.cgi?g=Report;deleteacc=1) to be deleted from our database and all information held about you by AME Info FZ LLC / Emap Limited will be removed;
+  5. AME Info FZ LLC / Emap Limited may use, store, transfer and process your personal information; and
+  6. if you choose to contact a company or organisation through AME Info or the Site, AME Info FZ LLC / Emap Limited is entitled to disclose any of your information or details that it holds (including your IP address) to that company or organization.
 
 
 
-You can however, remove yourself from any of the AME Info mailing lists, commercial messages or info messages by following the instructions at the end of each email sent to you by AME Info FZ LLC / Emap Communications. Any mailing lists on the site will in no way be shared, sold or any other way be revealed to any third parties other than as specifically provided in these TOS or if required by law or court order by a competent court.
+You can however, remove yourself from any of the AME Info mailing lists, commercial messages or info messages by following the instructions at the end of each email sent to you by AME Info FZ LLC / Emap Limited. Any mailing lists on the site will in no way be shared, sold or any other way be revealed to any third parties other than as specifically provided in these TOS or if required by law or court order by a competent court.
 
 ### Cookies
 
@@ -53,7 +53,7 @@ If you use the discussion forum on this site, you should be aware that any perso
 
 ### Third party websites
 
-This Web site contains links to other sites that are not owned or controlled by AME Info FZ LLC / Emap Communications. Please be aware that we, AME Info FZ LLC / Emap Communications, are not responsible for the privacy practices of such other sites.
+This Web site contains links to other sites that are not owned or controlled by AME Info FZ LLC / Emap Limited. Please be aware that we, AME Info FZ LLC / Emap Limited, are not responsible for the privacy practices of such other sites.
 
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site
 
@@ -71,7 +71,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 ### Send content to a colleague
 
-If you choose to use our referral service to tell a colleague about our site or a specific article, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. AME Info FZ LLC / Emap Communications does not store this information.
+If you choose to use our referral service to tell a colleague about our site or a specific article, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. AME Info FZ LLC / Emap Limited does not store this information.
 
 If you have any questions about security or privacy on our website, please [contact us](https://web.archive.org/contact/) individually or as per the below contact details:
 
