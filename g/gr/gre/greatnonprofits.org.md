@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatnonprofits.org privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105003031id_/http%3A//www.greatnonprofits.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatnonprofits.org privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505001513id_/http%3A//www.greatnonprofits.org/privacy) for the most accurate reproduction.*
 
 # Great Nonprofits | Privacy
 
@@ -18,23 +18,19 @@ Some information collected is not explicitly submitted by the user; we log your 
 
 ### How We Use Information
 
-Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation, or when sharing a review). We may also use your email address to send you updates or news regarding our site, but you may choose not to receive email of this type by accessing the “Account” tab of the web site and updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message).
+Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation, or when sharing a review). We may also use your email address to send you updates or news regarding our site. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message).
 
 Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer GreatNonprofits, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners.
 
 We use return email addresses to answer the email we receive. We do not, however, sell, rent or trade our volunteer, administrator, nonprofit, or general newsletter email addresses to outside parties.
 
-Please be aware that, to the extent required to provide our services, we share your Information with volunteers, nonprofit organizations, or our Partners, as applicable:
-
 ### For Newsletter Subscribers
 
 We may use our email lists for sending out our newsletter and other GreatNonprofits outbound communications, such as product enhancements, tool upgrades, or membership news.
 
-Additionally, for volunteers with a personal account who have accessed GreatNonprofits through www.greatnonprofits.org or a Partner’s Web site: If you indicate to us that you are interested in creating a personalized account, the information we gather from you will be used to permit you to: access the account, customize outbound email services, review your referral history and/or post a resume that can be sent as an attachment to inquiries you make using the VolunteerMatch service.
-
 ### For Nonprofit Organizations
 
-If you submit Information to us as a nonprofit organization, then, subject to the terms and conditions as a nonprofit member of GreatNonprofits, your Information (excluding your EIN number) will be accessible by anyone who accesses GreatNonprofits. In addition, we may share your Information, including your EIN number, with selected Partners in order to verify your organization’s identity and tax status.
+If you submit Information to us as a nonprofit organization, then, subject to the terms and conditions as a nonprofit member of GreatNonprofits, your Information will be accessible by anyone who accesses GreatNonprofits. In addition, we may share your Information with selected Partners in order to verify your organization’s identity and tax status.
 
 ### Children’s Privacy
 
@@ -48,7 +44,7 @@ Cookies are tiny data files that Web sites commonly write to your hard drive whe
 
 Occasionally, we or our Partners hire third-party service providers to help provide or improve the services we offer you. Sometimes it is necessary for these providers to have access to the Information we collect about you. In those cases, we take reasonable steps to ensure that these providers do not use or otherwise disclose any Information we collect about you except for the purpose of fulfilling their service obligations to us and our Partners.
 
-In the unlikely event that GreatNonprofits undergoes a sale or transfer of all or substantially all of its assets, the acquiring entity will be subject to this Privacy Policy in its use of your personally identifiable Information. In addition, in the further unlikely event that VolunteerMatch is adjudicated bankrupt or insolvent (a) there will be no further use or disclosure of your personally identifiable Information by GreatNonprofits and (b) your personally identifiable Information will be destroyed. In addition, there will be no use or disclosure of your personally identifiable Information by any entity that acquires assets of VolunteerMatch pursuant to such bankruptcy or insolvency proceedings.
+In the unlikely event that GreatNonprofits undergoes a sale or transfer of all or substantially all of its assets, the acquiring entity will be subject to this Privacy Policy in its use of your personally identifiable Information. In addition, in the further unlikely event that GreatNonprofits is adjudicated bankrupt or insolvent (a) there will be no further use or disclosure of your personally identifiable Information by GreatNonprofits and (b) your personally identifiable Information will be destroyed. In addition, there will be no use or disclosure of your personally identifiable Information by any entity that acquires assets of GreatNonprofits pursuant to such bankruptcy or insolvency proceedings.
 
 Your privacy is very important to us. Due to factors beyond our control, however, we cannot fully ensure that your Information will not be disclosed to third parties. For example, we may be legally obligated to disclose Information to the government or third parties under certain circumstances, or third parties may circumvent our security measures to unlawfully intercept or access your Personal Information.
 
@@ -72,7 +68,7 @@ If you are a nonprofit member or volunteer with an account and would like to hav
 
 Subscriptions to GreatNonprofits newsletters are optional and GreatNonprofits allows nonprofit organizations, volunteers, subscribers or other users to unsubscribe from newsletters at any time. In each newsletter we provide instructions regarding how to opt-out from receiving future newsletter mailings. You can also email us at support@greatnonprofits.org to remove your name from our newsletter subscription data base and ensure that you will cease receiving future newsletters from us.
 
-We reserve the right to send you certain communications relating to the VolunteerMatch service, such as the occasional service and product announcement or administrative message, that are considered part of your VolunteerMatch account without offering you the opportunity to opt out of receiving them.
+We reserve the right to send you certain communications relating to the GreatNonprofits service, such as the occasional service and product announcement or administrative message, that are considered part of your GreatNonprofits account without offering you the opportunity to opt out of receiving them.
 
 ### Our Commitment To Data Security
 
