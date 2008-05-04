@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globe.com.ph privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030173723id_/http%3A//www1.globe.com.ph/others.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globe.com.ph privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504084715id_/http%3A//www1.globe.com.ph/others.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Security And Privacy : Globe Corporate
 
