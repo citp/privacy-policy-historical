@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastladder.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203020147id_/http%3A//fastladder.com/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastladder.com privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504173929id_/http%3A//fastladder.com/help/privacy_policy.html) for the most accurate reproduction.*
 
 # Fastladder : Privacy Policy
 
