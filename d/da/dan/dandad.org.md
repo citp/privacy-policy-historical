@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dandad.org privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224145034id_/http%3A//www.dandad.org/terms.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dandad.org privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504053516id_/http%3A//www.dandad.org/terms.asp%23privacy) for the most accurate reproduction.*
 
 # D&AD: Terms and Conditions
 
