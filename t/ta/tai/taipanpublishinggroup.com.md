@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taipanpublishinggroup.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225164046id_/http%3A//www.taipanpublishinggroup.com/taipan_publishing_group_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taipanpublishinggroup.com privacy policy that was archived on 2008-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080504030137id_/http%3A//www.taipanpublishinggroup.com/taipan_publishing_group_privacy_policy.html) for the most accurate reproduction.*
 
 # Welcome to Taipan Publishing Group
 
