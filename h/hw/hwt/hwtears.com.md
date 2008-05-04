@@ -1,0 +1,21 @@
+> *The following text is extracted and transformed from the hwtears.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505002850id_/http%3A//www.hwtears.com/privacypolicy) for the most accurate reproduction.*
+
+# Privacy Policy | Handwriting Without Tears
+
+The following Privacy Policy summarizes the ways that Handwriting Without Tears® treats the information you provide while using this Website. Our goal is to protect your privacy. Please read this policy carefully. Your use of the Website will constitute your agreement to this Privacy Policy.
+
+This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you constitutes your acceptance of changes or revisions to the Privacy Policy.
+
+We automatically collect and store: the name of the domain and host from which you access the Internet; the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our sites; and the Internet address of the site from which you linked directly to our sites. We use this information only as anonymous aggregate data to determine the number of visitors to different sections of our site, to ensure the site is working properly, and to help us make our site more useful. We do not use it to track or record information about individuals.
+
+Handwriting Without Tears is especially concerned about protecting children’s privacy. We do not collect any personally identifiable information from children as defined under the Children’s Online Privacy Protection Act. There may be some areas of the Website where children can play games, but no information is required to participate in these games.
+
+If you are an adult user of our Website, we use personally identifying information supplied by you to provide you with the service you have requested. For example, if you order products, we may use your e-mail address to send you a confirmation notice and your mailing address to send you the products. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs.
+
+We take reasonable precautions to ensure that all credit card transactions that occur on the Website are secure. When you submit your credit card for a purchase, that transaction is encrypted using “Secure Socket Layer” (SSL) encryption to prevent your credit card information from being seen as it travels over the Internet to our servers. We monitor network traffic to ensure that our site remains available to all users and to identify unauthorized attempts to access, upload or change information or otherwise cause damage.
+
+We also allow access to our database by third parties that provide us with services, such as technical maintenance or e-commerce search software, but only for the purpose of and to the extent necessary to provide those services. If you choose to purchase items through features on the Website, we may forward your information to third parties for services such as credit card processing and order fulfillment. While we will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Service Provider does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose.
+
+We may use cookies to track usage patterns on the site, and to record registration for a user account. For example, if you register for a user account and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer.
+
+If you don’t want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly.
