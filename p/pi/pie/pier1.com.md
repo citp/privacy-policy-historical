@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231152548id_/http%3A//www.pier1.com/SideMenu/CustomerRelations/PrivacyPolicy/tabid/111/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506014608id_/http%3A//www.pier1.com/SideMenu/CustomerRelations/PrivacyPolicy/tabid/111/Default.aspx) for the most accurate reproduction.*
 
 # Pier 1 Imports® - Privacy Policy
 
