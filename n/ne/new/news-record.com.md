@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-record.com privacy policy that was archived on 2007-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071106000657id_/http%3A//www.news-record.com/nr/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-record.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505053947id_/http%3A//www.news-record.com/nr/help/privacy) for the most accurate reproduction.*
 
 # Unified Registration: News-Record.com & GoTriad.com
 
@@ -79,4 +79,4 @@ by email: [feedback@news-record.com](mailto:feedback@news-record.com)
 by phone: (336) 373-7000 or (800) 553-6880   
 by mail: News & Record Interactive, PO Box 20848, Greensboro, NC 27420-0848 
 
-Published: November 05. 2007 3:00AM
+Published: May 04. 2008 3:00AM
