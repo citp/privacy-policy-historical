@@ -1,0 +1,457 @@
+<!--The following is the downloaded HTML source of the mvpspot.com privacy policy that was archived on 2008-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080505075901id_/http%3A//www.mvpspot.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    	<title>Sports Social Network: Privacy Policy</title>
+		<meta name="keywords" content="sports social network, social network, professional athletes, amateur athletes, athletes, baseball, football, action sports, basketball, hockey, soccer">
+		<meta name="description" content="MVPSPOT#1 Sports social network, view amazing amateur and professional Athlete profiles. Connect with old or new teammates. Meet others with similar hobbies.">
+    <!--meta name="description" content="MVPSpot.com is your place to show the world your highlights and bloopers of your favorite pastime. MVPSpot is a sports social network. Put all your old athletic pictures in one place and reconnect with old teammates.  MVPSpot.com is for everyone, friends, athletes, fans, coaches and scouts. Show us Your Stuff!" />
+ 
+<meta name="keywords" content="sports social network, social network, sports network, free video, sports video, post videos, sports highlights, football videos, nfl videos, baseball videos, basketball video, college football video, fantasy football, tony gonzalez, mvpspot videos, sports videos, sports clips, video clips, US Open highlights, US Open video, boxing video, showtime boxing video, nhl highlights, nhl video, golf, pro football, hockey video, basketball video sports news" /-->
+
+ 
+
+ 
+<meta name="robots" content="all">
+<meta name="revisit-after" content="30 days">
+<meta name="title" content="Create your profile and show the world your highlights. Show Us Your Stuff! - MVPSpot.com - Your Sport. Your Spotlight.
+<META NAME=" rating"="">
+<meta name="category" content="Sports Social Network">
+<meta name="author" content="MVPSpot.com">
+
+     <link href="/user/style.css" rel="stylesheet" type="text/css">
+    <title>Create your profile and show the world your highlights. Show Us Your Stuff! - MVPSpot.com - Your Sport. Your Spotlight.</title>
+    <script language="javascript" src="/js/main.js"></script>    <script language="javascript">
+
+
+
+		function ChangeItem(newitem)
+		{
+			if(newitem == 'image')
+			{
+				document.getElementById('image_box').style.display = 'block';
+				document.getElementById('video_box').style.display = 'none';
+			}
+			else
+			{
+				document.getElementById('image_box').style.display = 'none';
+				document.getElementById('video_box').style.display = 'block';
+			}
+		}
+
+
+		function InsertVideo(mediaId, categoryId, userId)
+		{
+			url = "http://mvpspot.com/user/output.swf";
+			if(mediaId > 0)
+				url = url + "?autoplay=0&mediaId=" + mediaId;
+			else
+				url = url + "?autoplay=0";
+			if(categoryId > 0)
+				url = url + "&categoryId=" + categoryId;
+			if(userId > 0)
+				url = url + "&userId=" + userId;
+			if(categoryId == -1)
+				url = url + "&categoryId=-1";
+			var so = new SWFObject(url, "MVPPlayer", "520", "420", "8", "#FFFFFF");
+			so.addParam("wmode", "transparent");
+			so.write("MVPPlayerContainer");
+		}
+
+		function trackPlayerMedia(id)
+		{
+			if(!id)
+				return;
+			onreadystatechange = function(result, errors) {
+				top.document.getElementById('RatingContainer').innerHTML = result.html;
+			}
+			JsHttpRequest.query('/ajax/rate.php?action=refresh&id=' + id, {'media_id' : id, 'media_type' : 'video'}, onreadystatechange, true);
+
+			onreadystatechange = function(result, errors) {
+				top.document.getElementById('VideoTitle').innerHTML = result.title;
+				top.document.getElementById('VideoDate').innerHTML = 'Posted: ' + result.date;
+			}
+			JsHttpRequest.query('/ajax/rate.php?action=getinfo', {'media_id' : id, 'media_type' : 'video'}, onreadystatechange, true);
+
+		}
+	
+	</script>
+</head>
+
+<body>
+
+<div id="global_container" class="global_container">
+
+ <script language="javascript">
+
+		function PostComment()
+		{
+			            //document.getElementById('post_comment').style.display="block";
+				document.location.href='/signup.php';
+					}
+        prev='';
+        function hide_prev(id)
+        {
+
+        if (prev!='')
+            {document.getElementById(prev).style.display='none';
+
+            }
+        document.getElementById(id).style.display='block';
+        prev=id;
+        }
+
+		function menu_hide()
+
+		{
+		document.getElementById('HomeSubmenu').style.display='none';
+		document.getElementById('DiscussSubmenu').style.display='none';
+		document.getElementById('MediaSubmenu').style.display='none';
+		document.getElementById('PeopleSubmenu').style.display='none';
+	
+		}
+</script>
+<div class="header_container">
+
+	<a href="/"><div class="logo_block">
+		<div class="logo_beta_title" style="color:#FFFFFF !important;text-decoration:none !important;">Beta</div>
+	</div> </a>
+
+			<div class="header_right_part_container">
+
+<div class="header_top_right_part">
+
+	<div class="header_top_right_part_left">
+
+	<div class="header_sign_or_reg">
+     <strong>Already a Member? <a href="/signin.php">Login</a></strong>    </div>
+	<div><img src="images/slogan.gif" alt=""></div>
+
+	</div>
+
+<div class="header_top_right_part_right">
+	<table class="header_menu_table">
+		<tbody><tr>
+			<td class="header_menu_top_left" onmouseout="menu_hide()"></td>
+				<td class="header_menu_top_center">
+    <a href="/" class="header_home" onmouseover="hide_prev('HomeSubmenu');"><img src="/user/images/home.gif" alt=""></a>
+
+<a href="#" class="header_line"><img src="/user/images/topmenu_line.png" alt=""></a><a href="/user/people.php" class="header_people" onmouseover="hide_prev('PeopleSubmenu');"><img src="/user/images/people.gif" alt=""></a>
+
+<a href="#" class="header_line"><img src="/user/images/topmenu_line.png" alt=""></a><a href="/user/news.php" class="header_discuss" onmouseover="hide_prev('DiscussSubmenu');"><img src="/user/images/discuss.gif" alt=""></a>
+
+<a href="#" class="header_line"><img src="/user/images/topmenu_line.png" alt=""></a><a href="/user/media.php" class="header_media" onmouseover="hide_prev('MediaSubmenu');"><img src="/user/images/media.gif" alt=""></a>
+
+
+
+				</td>
+			<td class="header_menu_top_right" onmouseout="menu_hide()"></td>
+		</tr>
+		<tr>
+			<td class="header_menu_bottom_left"></td>
+				<td class="header_menu_bottom_center"></td>
+			<td class="header_menu_bottom_right"></td>
+		</tr>
+	</tbody></table>
+
+
+<div class="absolute_submenu_container" style="margin-top: -8px; display: none;" id="HomeSubmenu" onmouseout="document.getElementById('HomeSubmenu').style.display='none'" onmouseover="document.getElementById('HomeSubmenu').style.display='block';">
+<div class="absolute_submenu_bg"><!-- --></div>
+	<div class="absolute_submenu_container_inside" onmouseover="hide_prev('HomeSubmenu');">
+
+        <div class="absolute_submenu_link_container">
+			        <a href="/signup.php?profile">Edit Profile</a>
+		            </div><div class="absolute_submenu_link_container">
+			        <a href="/signup.php?inbox">Inbox</a>
+		            </div><div class="absolute_submenu_link_container">
+			        <a href="/signup.php?account">Account Settings</a>
+		            </div><div class="absolute_submenu_link_container">
+			        <a href="/signup.php?view">View Profile</a>
+		            </div>
+
+	</div>
+
+</div>
+
+
+<div class="absolute_submenu_container" style="margin-top: -8px; display: none; margin-left: 66px;" id="PeopleSubmenu" onmouseout="document.getElementById('PeopleSubmenu').style.display='none'" onmouseover="document.getElementById('PeopleSubmenu').style.display='block';">
+<div class="absolute_submenu_bg"><!-- --></div>
+	<div class="absolute_submenu_container_inside" onmouseover="hide_prev('PeopleSubmenu');">
+
+        <div class="absolute_submenu_link_container">
+			        <a href="/user/network.php">Friends</a>
+		            </div><div class="absolute_submenu_link_container">
+			        <a href="/user/people.php">Search People</a>
+		            </div><div class="absolute_submenu_link_container">
+			        <a href="/user/groups.php">Groups</a>
+		            </div><div class="absolute_submenu_link_container">
+			        <a href="/user/quickinvite.php">Quick Invite</a>
+		            </div>
+
+	</div>
+
+</div>
+
+
+
+<div class="absolute_submenu_container" style="margin-top: -8px; display: none; margin-left: 132px;" id="DiscussSubmenu" onmouseout="document.getElementById('DiscussSubmenu').style.display='none'" onmouseover="document.getElementById('DiscussSubmenu').style.display='block';">
+ <div class="absolute_submenu_bg"><!-- --></div>
+	<div class="absolute_submenu_container_inside" onmouseover="hide_prev('DiscussSubmenu');">
+
+         <div class="absolute_submenu_link_container">
+			        <a href="/user/team_give.php">Team Give</a>
+		            </div><div class="absolute_submenu_link_container">
+			        <a href="/user/news.php">Latest News</a>
+		            </div><div class="absolute_submenu_link_container">
+			        <a href="/signup.php"><nobr>My Playbook</nobr></a>
+		            </div>
+	</div>
+
+</div>
+
+
+
+<div class="absolute_submenu_container" style="margin-top: -8px; display: none; margin-left: 198px;" id="MediaSubmenu" onmouseout="document.getElementById('MediaSubmenu').style.display='none'" onmouseover="document.getElementById('MediaSubmenu').style.display='block';">
+<div class="absolute_submenu_bg"><!-- --></div>
+	<div class="absolute_submenu_container_inside" onmouseover="hide_prev('MediaSubmenu');">
+
+
+          <div class="absolute_submenu_link_container">
+			        <a href="/user/images.php">Photos</a>
+		            </div><div class="absolute_submenu_link_container">
+			        <a href="/signup.php?photos">Add/Edit Photos</a>
+		            </div><div class="absolute_submenu_link_container">
+			        <a href="/user/video.php">Videos</a>
+		            </div><div class="absolute_submenu_link_container">
+			        <a href="/signup.php?videos">Add Videos</a>
+		            </div>
+	</div>
+
+</div>
+
+
+
+</div>
+
+<div class="header_top_menu_separator"><!-- --></div>
+
+</div>
+
+
+
+		<div class="header_search_container">
+			  <form name="globalSearch" action="/user/search.php" method="get"> <div class="header_search_input"><input name="search_string" type="text" alt=""></div>
+				<div class="header_search_button" onmouseover="this.style.display='none'; document.getElementById('SearchOver').style.display='block';" id="SearchNormal">
+                </div>
+
+                <div class="header_search_button_over" onclick="document.forms['globalSearch'].submit();return false;" id="SearchOver" style="display: none;" onmouseout="this.style.display='none'; document.getElementById('SearchNormal').style.display='block';"></div>
+
+    			<!--div class="header_search_right">By
+                
+    		<select size="1" name="search_type" style="z-index: -100;width: 90px; height: 22px; text-align:right;">
+    			<option value="user" >&nbsp;Name&nbsp;&nbsp;</option>
+    			<option value="image" >&nbsp;Photos&nbsp;&nbsp;</option>
+    			<option value="video" selected="selected">&nbsp;Videos&nbsp;&nbsp;</option>
+    			<option value="school" >&nbsp;Schools&nbsp;&nbsp;</option>
+            </select>
+
+                </div--> </form>
+	    </div>
+
+</div>
+
+</div>
+<div class="content_container">
+
+<div class="left_side_container">
+
+<div class="left_side_banner_top_title"><strong>Advertisement</strong></div>
+	<div class="left_side_banner_itself"><a href="#"><img src="user/images/espn_banner.png" alt=""></a></div>
+
+</div>
+
+<div class="center_container_account_settings">
+
+
+<div class="acc_set_options_top_center" style="visibility: hidden;">VIEW My:<a href="#">Profile</a>|<a href="#">photos</a>|<a href="#">Videos</a>|<a href="#">friends</a>|<a href="#">BLOG</a>|<a href="#">Groups</a></div>
+
+
+<div class="all_stats_header">
+	<div class="all_stats_username_left"><h1><strong>MVPSpot Privacy Policy</strong></h1></div>
+
+</div>
+
+
+<div class="all_stats_content_container" style="padding-top: 11px;">
+
+<div>
+
+<div class="help_inline_container">
+<strong class="help_inline_title">Privacy Policy</strong><br>
+<strong class="help_inline_text">The use of the MVPSpot website(s) and/or MVPSpot software and any MVPSpot services and products (collectively, the "Website") provided by MVPSpot, LLC., ("MVPSpot") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the MVPSpot Terms &amp; Conditions. If you do not agree to this Privacy Policy, please do not use the Website. Your use of the Website constitutes your acceptable of the terms in this Privacy Policy.</strong>
+</div>
+
+<div class="help_inline_container">
+<strong class="help_inline_title">General</strong><br>
+<strong class="help_inline_text">MVPSpot takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information.
+
+<p>BY USING, ACCESSING OR DOWNLOADING THE WEBSITE), YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. MVPSpot reserves the right to amend this Privacy Policy at any time and without notice, and it is your responsibility to check back, from time to time, for any changes. Your use of the Website following any amendment of this Privacy Policy will signify your assent to and acceptance of its revised terms.</p>
+
+If you are under the age of 13, you are not eligible to use the Website, and we ask you not to submit any personal information to us.
+
+<p>Please note that any video, photo, or other content posted at the direction of users onto the MVPSpot website becomes published content and is not considered personally identifiable information subject to this Privacy Policy.</p></strong>
+</div>
+
+<div class="help_inline_container">
+<strong class="help_inline_title">Collection of Personal Information.</strong><br>
+<strong class="help_inline_text">When you register to become a member of MVPSpot.com, you submit information such as your name and email address. As part of your personal profile, you may choose to submit additional information such as age, hobbies, and interests and other content, such as photos.
+
+<p>We also collect other non-personally identifiable data, which may include your IP address and what browser you are using.</p></strong>
+</div>
+
+<div class="help_inline_container">
+<strong class="help_inline_title">Non personally-identifiable Information.</strong><br>
+<strong class="help_inline_text">MVPSpot may also collect or receive additional non-personally identifiable usage information specifically related to the use of a particular feature or offering on the Website, and responses to the offerings and advertisements presented on the Website.
+
+<p>MVPSpot may also collect or receive (in some cases as part of the Internet communication protocol) certain non-personally identifiable technical information, when the Website and pages are visited or when a MVPSpot client is used.</p></strong>
+</div>
+
+<div class="help_inline_container">
+<strong class="help_inline_title">How is the information being used?</strong><br>
+<strong class="help_inline_text">
+The information is used to operate and improve the features, offerings and content presented to you by MVPSpot, to personalize the content and advertisements provided to you; to fulfill your requests for products, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Website; and to help offer you other products, programs, or services that may be of interest.
+
+<p>Please note that MVPSpot may use your personally identifiable information to present offers to you on behalf of business partners and advertisers. However, while MVPSpot's business partners and advertisers may receive aggregate data about MVPSpot users, any personally identifiable information of yours will not be shared with third parties unless you have consented to the sharing of this information.</p>
+
+Notwithstanding the foregoing, your information may be accessed and disclosed if and as required by legal procedures, as determined by MVPSpot in good faith. Furthermore, MVPSpot may transfer personally identifiable information in the event of a transfer of ownership of MVPSpot or any of its websites or products, in which case the information could become subject to a different privacy policy.
+</strong>
+</div>
+
+<div class="help_inline_container">
+<strong class="help_inline_title">Cookies and Similar Technology</strong><br>
+<strong class="help_inline_text">
+A "cookie" is a small text file that a Web site can place on your computer's hard drive to, for example, collect information about your activity on that site, or simply to "remember" your preferences on the site. The "cookie" transmits this information back to the Web site's computer. Many uses do not know that "cookies" are being place on their computers when they visit Web sites.
+
+<p>MVPSpot may use cookies or similar technologies to enhance and personalize your experience of the Website, including to operate and improve offerings through the Website; to help authenticate your identity when you visit and transact with the Website; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you.</p>
+
+MVPSpot does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Website may be impaired if you decline to accept cookies. You can also set your Web browser settings to notify you whenever a Web site seeks to place a "cookie" on your system, As technology evolves, MVPSpot reserves the right to employ other information collection technologies similar to "cookies."
+</strong>
+</div>
+
+<div class="help_inline_container">
+<strong class="help_inline_title">Third Party Ad Servers</strong><br>
+<strong class="help_inline_text">
+MVPSpot or its advertisers may use other companies known as third party ad servers to help present advertisements online in connection with the Website. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not MVPSpot's.
+</strong>
+</div>
+
+<div class="help_inline_container">
+<strong class="help_inline_title">Security</strong><br>
+<strong class="help_inline_text">
+ MVPSpot has implemented security policies, rules and technical measures to protect and safeguard the personally identifiable information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our personnel that have access to, and are associated with the processing of your personally identifiable information, are obligated to respect the confidentiality of the information.
+
+<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, SSL and managerial procedures to safeguard and secure the information we collect online. </p>
+</strong>
+</div>
+
+<div class="help_inline_container">
+<strong class="help_inline_title">Data Collection and Sharing Policy</strong><br>
+<strong class="help_inline_text">
+ MVPSpot's Privacy Policy is to share personal information only with the owner's informed consent. If you register with us, we may collect your personal information and send you communications from time to time. With your consent, from time-to-time, MVPSpot may also provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know. If you have further inquires regarding MVPSpot's information sharing practices, please let us know. The designated contact for these queries is <a href="mailto:legal@MVPSpot.com">legal@MVPSpot.com</a>.
+
+<p>Note: In certain rare instances, we may be ordered by a court or other government entity to share your information. In such instances, we will share your personal information without your consent as required to do so by law enforcement, a court, or other government agency, or to protect our legal rights or the legal rights of others.</p>
+</strong>
+</div>
+
+<div class="help_inline_container">
+<strong class="help_inline_title">Other Information Automatically Collected</strong><br>
+<strong class="help_inline_text">
+Our servers automatically collect certain non-personally identifying information, such as your computer's IP address, the type of browser in use and pages viewed as you visit our Web site. We use this information to understand how visitors navigate our site, to enhance your experiences while using our site and to make the materials we post as valuable to visitors as possible.
+</strong>
+</div>
+
+<div class="help_inline_container">
+<strong class="help_inline_title">Special Note for Parents</strong><br>
+<strong class="help_inline_text">
+Protecting the privacy of young children is especially important. For that reason, MVPSpot does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If MVPSpot learns that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then MVPSpot will take the appropriate steps to delete this information.
+</strong>
+</div>
+
+<div class="help_inline_container">
+<strong class="help_inline_title">Third Parties' Practices.</strong><br>
+<strong class="help_inline_text">
+This Privacy Policy does not cover the information practices exercised by other providers of products or services, advertisers or other web sites, or companies/people that MVPSpot does not own or control, or does not employ or manage. See also, "Third Party Ad Servers."
+</strong>
+</div>
+
+<div class="help_inline_container">
+<strong class="help_inline_title">Non-U.S. Users</strong><br>
+<strong class="help_inline_text">
+The Website is hosted in the United States. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer.
+</strong>
+</div>
+
+<div class="help_inline_container">
+<strong class="help_inline_title">Assignment of Information</strong><br>
+<strong class="help_inline_text">
+MVPSpot reserves the right to transfer, sell or assign the information we collect to any entity that purchases all or part of our assets, or which otherwise should obtain the information in connection with a merger, consolidation, change in control, reorganization, or liquidation of all or part of our business.
+</strong>
+</div>
+
+<div class="help_go_back_link_container"><a href="#" onclick="history.go(-1);return false;" class="help_go_back_link">← Go back</a></div>
+
+</div>
+
+
+<div class="all_stats_inside_cleaner"><!-- --></div>
+
+
+</div>
+
+
+
+</div>
+
+
+<div class="acc_set_right_main_container">
+
+	<div class="acc_set_bottom_right_banner">
+		<div class="left_side_banner_top_title">
+		<strong>Advertisement</strong>
+		</div>
+	
+			<a href="#"><img src="user/images/index_right_banner.png" alt="" class="index_right_forms_bottom_banner_itself"></a>
+	</div>
+
+</div>
+
+
+
+<div class="footer_main_container">
+	<a href="/about.php" class="footer_menu_link">About MVPSpot</a>|<a href="/contact.php" class="footer_menu_link">Contact Information</a>|<a href="/privacy.php" class="footer_menu_link">Privacy Policy</a>|<a href="/terms.php" class="footer_menu_link">Terms &amp; Conditions</a>|<a href="/help.php" class="footer_menu_link">HELP!</a><!--a href="" class="footer_menu_link">Submit a Video</a-->
+
+	<strong class="footer_copyright">© 2008 MVPSpot, INC.</strong>
+
+	<a href="/user/rss.php"><img src="/user/images/rss_icon.png" alt="" class="footer_rss_icon"></a>
+</div>
+
+
+
+
+</div>
+	</div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js" ;=""></script>
+<script type="text/javascript">_qacct="p-c3dJ1YYWL1WIU";quantserve();</script>
+<noscript>
+<a href=" http://www.quantcast.com/p-c3dJ1YYWL1WIU"; target="_blank"><img src=" http://pixel.quantserve.com/pixel/p-c3dJ1YYWL1WIU.gif"; style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">_uacct = "UA-2869392-1";urchinTracker();</script>
+
+
+</body></html>
