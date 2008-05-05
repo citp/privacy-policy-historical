@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the meetyourmessenger.co.uk privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011010354id_/http%3A//www.meetyourmessenger.co.uk/outsite.aspx%3Ft%3Dp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetyourmessenger.co.uk privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505030639id_/http%3A//www.meetyourmessenger.co.uk/outsite.aspx%3FEgWQut6U9zw%253d) for the most accurate reproduction.*
 
 # MeetYourMessenger.co.uk
 
 **Art. 1 – About.**
 
-(1)   This privacy statement is incorporated into and subject to “MeetYourMessenger’s terms of use.” MeetYourMessenger is dedicated to online privacy, so in case you have any questions concerning this privacy statement, please contact us at our support center: [http://www.MeetYourMessenger.co.uk/faq.aspx](http://www.meetyourmessenger.co.uk/faq.aspx)
+(1)   This privacy statement is incorporated into and subject to “MeetYourMessenger’s terms of use.” MeetYourMessenger is dedicated to online privacy, so in case you have any questions concerning this privacy statement, please contact us at our support center: [http://www.MeetYourMessenger.co.uk/faq.aspxx](http://www.meetyourmessenger.co.uk/faq.aspxx)
 
 (2)   MeetYourMessenger is a virtual map of Messenger users. We connect you to anyone who is connected to MeetYourMessenger and you will be able to track back how you know these people in real life. MeetYourMessenger makes it possible for you to seek and find other Messenger users in your country, in your area or even in your city. You can see their picture, see who they are, see who their friends are, ask them what they work with, what their education is and much more.
 
@@ -42,7 +42,7 @@
 
 (1)     We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy statement, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. 
 
-(2)     MeetYourMessenger may transfer information to other corporate entities, that are wholly owned by MeetYourMessenger or a part of the MeetYourMessenger concern.
+(2)     MeetYourMessenger may transfer information to other corporate entities, that are wholly owned by MeetYourMessenger or a part of the Meet group or Shared group.
 
 (3)     We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
 
@@ -50,9 +50,29 @@
 
 (5)     We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with the laws of a country (such as UK or German Copyright Law) or respond to a court order, subpoena, or search warrant. 
 
-(6)     MeetYourMessenger also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that MeetYourMessenger believes, in good faith, is appropriate or necessary to enforce our Terms, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our website, and to protect the rights, property, or personal safety of MeetYourMessenger, our Users or others. 
+(6)     MeetYourMessenger also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that MeetYourMessenger believes, in good faith, is appropriate or necessary to enforce our Terms, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our website, and to protect the rights, property, or personal safety of MeetYourMessenger, our Users or others.
 
-**Art. 5. – Where is the information kept?**
+**Art. 5. – Emails.**
+
+So which emails can you expect to get from us?
+
+(1)   Types of E-mails
+
+§         Invitation emails
+
+§         User initiated emails
+
+§         Newsletters
+
+§         Updates
+
+§         Surveys
+
+§         Special offers
+
+(2)   Emails will always be sent from a meetyourmessenger domain and will come from either MeetYourMessenger itself or an entity from the Meet group or Shared group.
+
+**Art. 6. – Where is the information kept?**
 
 The MeetYourMessenger sites are hosted in Denmark and the information collected on the MeetYourMessenger websites are kept on the MeetYourMessenger servers, which are placed in Copenhagen, Denmark. Users of the MeetYourMessenger websites accept that the collected information is stored on these servers, thereby transferred across any boarders between their residing country and Denmark. Please be advised that through your continued use of MeetYourMessenger, which are governed by Danish law, this Privacy Statement and our Terms, you are transferring your personal information to Denmark and you consent to that transfer.
 
@@ -64,9 +84,36 @@ You may, of course, decline to submit personally identifiable information throug
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-You have the right at all times to obtain the information saved by MeetYourMessenger. Requests for information must be written, contain your email and a copy of your drivers license or other ID including a picture and information that confirms your address. Requests must be sent to: MeetYourMessenger, John F. Kennedys Plads 1E, 9000 Aalborg, Denmark. MeetYourMessenger will then return the information, which is not available online, to you by mail or email.
+Opt-Out and information:  
+With regard to personal information that you have provided under this Privacy Policy, there are several opt-out choices available to you. These opt-out choices are the means by which you give us, or decline to give us, your consent to use your personal information for the purposes covered by these opt-out choices.
 
-Please contact MeetYourMessenger with any questions or comments about this Privacy Statement, your personal information, your consent, or your opt-in or opt-out choices using our support center.
+Your choices are:
+
+Option 1: You may choose to opt out of receiving promotional materials from third parties. MeetYourMessenger may not share nonpublic personal information with nonaffiliated third parties, except as permitted by law. If you do not choose this opt-out, MeetYourMessenger may share your personal information so that third parties can send you promotional materials.
+
+Option 2: You may choose to opt-out of receiving promotional materials from any of the Meet group or Shared group companies, including MeetYourMessenger. MeetYourMessenger may not share certain nonpublic personal information among its affiliates, except as permitted by law. In doing so, You may choose to opt out of all promotional materials from all entities or specify which types of material You would like to accept and from whom. This can be done partly under “my profile” on the MeetYourMessenger webpage.
+
+Option 3: You may choose to opt-out of receiving promotional materials from all of the Meet group and Shared group companies and third parties.
+
+Option 4: You have the right at all times to obtain the information saved by MeetYourMessenger.
+
+NOTE: None of these opt-out choices applies in the following situations:  
+a) You at a later time specifically accept or request for information from MeetYourMessenger.  
+b) The information is being used by MeetYourMessenger for either operational or fulfillment purposes.  
+c) If required by Law.  
+d) If required to help Protect the Security and Safety of Our Web Site
+
+Request regarding opt-out options must be addressed to:
+
+MeetYourMessenger A/S  
+Att.: Privacy Statement  
+Postboks 68  
+7100  Vejle  
+Denmark
+
+Requests must be written, contain your email and a copy of your driver’s license or other ID including a picture and information that confirms your address. 
+
+Please also feel free to contact MeetYourMessenger with any questions or comments about this Privacy Statement, your personal information, your consent, or your opt-in or opt-out choices using our support center.
 
 **Art. 7 - Security.**
 
@@ -82,4 +129,4 @@ This Privacy Statement may be revised from time to time. This will be reflected 
 
 The users of the MeetYourMessenger websites acknowledge their acceptance to this privacy statement by visiting one of the MeetYourMessenger websites. 
 
-This Privacy Statement is effective as of the 24th April 2007.
+This Privacy Statement is effective as of the 24th January 2008.
