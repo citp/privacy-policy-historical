@@ -1,8 +1,21 @@
-> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2007-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070828112750id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505063820id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Classifieds Directory Australia | Free Directory Listings Australia
+# Privacy Policy | Classifieds Directory Australia | Business Directory Listings Australia
+
+|   
+---  
+  
+  
+|    
+  
+  
+|    
+  
+| 
 
 AussiePages Privacy Policy   
+  
+---  
   
   
 AussiePages.com.au operates an online business and entertainment directory for Australian and international businesses and or websites. Your inclusion of your business and or website to the directory is conditional upon your acceptance and compliance with these terms and any other specific conditions, notices and disclaimers contained in the website including the " _Privacy Policy_ " and the " _Terms and Condition_ " Please read the Privacy Policy carefully.  
@@ -82,4 +95,59 @@ We limit the information that our staff have access to, to help protect your pri
    
    
 **You may correct your personal information**  
-We regularly monitor the quality and accuracy of Personal Information that we maintain and, where practicable, update that information. In addition, you may request that your Personal information be updated at any time
+We regularly monitor the quality and accuracy of Personal Information that we maintain and, where practicable, update that information. In addition, you may request that your Personal information be updated at any time  
+  
+  
+| 
+
+**Recent Listings**  
+  
+---  
+  
+| 
+
+[**Medical equipment sales and service**](http://www.aussiepages.com.au/Medical-equipment-sales-and-service.html)  
+Hightech Laboratories offer medical sales and service support to the Western Australia area.  
+  
+  
+---  
+  
+[**HomeAirPurifiers**](http://www.aussiepages.com.au/HomeAirPurifiers.html)  
+Air Purifiers, Humidifiers and Breathalysers.  
+  
+  
+[**Australian Earthmover Tyres Wholesaler - Truck tyre, Tractor tyre, Earthmoving tyres**](http://www.aussiepages.com.au/Australian-Earthmover-Tyres-Wholesaler---Truck-tyre-Tractor-tyre-Earthmoving-tyres.html)  
+Centrac Wholesale Tyres supply quality tyres for earth movers, and other industrial earthmoving applications  
+  
+  
+[**Spot Forex Trading Alerts**](http://www.aussiepages.com.au/Spot-Forex-Trading-Alerts.html)  
+Spot forex trading plans across 17 currency pairs delivered 10 times per week for $19.95 per month.  
+  
+  
+[**FREE Market Appraisals!!**](http://www.aussiepages.com.au/FREE-Market-Appraisals--.html)  
+R & R Real Estate Narre Warren. 100% No Sale No Charge! R&R Real Estate Narre Warren Website  
+  
+  
+[**Valley Green Tea - Premium Chinese Tea**](http://www.aussiepages.com.au/Valley-Green-Tea---Premium-Chinese-Tea.html)  
+Valley Green Tea is an Australia online store specialising in authentic Chinese teas. All our teas are seasonally produced, including: Green, White, Oolong/Wulong, Jasmine and Pu-erh tea.  
+  
+  
+[**Oz Classifieds BUY, SELL & TRADE**](http://www.aussiepages.com.au/Oz-Classifieds-BUY-SELL-TRADE.html)  
+Australia`s NEWEST FREE Classifieds / Advertising site is here, PLACE A FREE AD Today!  
+  
+  
+[**OfferMe**](http://www.aussiepages.com.au/OfferMe.html)  
+OfferMe is a new approach to the online selling environment.  
+  
+  
+[**Creative Allure**](http://www.aussiepages.com.au/Creative-Allure.html)  
+Creative Allure provide quality graphic and website design services at competitive prices. We are a small, flexible agency with a strong customer focus.  
+  
+  
+[**Website Hosting Service Provider**](http://www.aussiepages.com.au/Website-Hosting-Service-Provider.html)  
+Linux web host Provides Linux Hosting, Linux web hosting, business web hosting, small business web hosting, web hosting solution, asp web hosting, mysql web hosting in Sydney and all other major citie  
+  
+  
+   
+  
+
