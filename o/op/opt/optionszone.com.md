@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the optionszone.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211225452id_/http%3A//www.optionszone.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionszone.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505051816id_/http%3A//www.optionszone.com/privacy.html) for the most accurate reproduction.*
 
-# The Options Zone
+# Privacy Policy
 
-  
-This is the Options Zone Web site. 
+Privacy Policy
+
+This is the OptionsZone Web site. 
 
 Our postal address is: 
 
@@ -12,7 +13,7 @@ c/o OptionsZone.com
 9420 Key West Ave.  
 Rockville, MD 20850
 
-We can be reached via e-mail at service@optionszone.com. 
+We can be reached via e-mail at [service@optionszone.com](mailto:service@optionszone.com). 
 
 This Privacy Policy is applicable to Registered Users and Subscribers of OptionsZone.com.
 
@@ -23,7 +24,7 @@ Our data collection and privacy practices are described below. This policy tells
 **What information do we gather?**
 
 OptionsZone.com may obtain three types of information from its Registered Users and Subscribers:  
-1\. egistration, subscription, or application data,   
+1\. Registration, subscription, or application data,   
 2\. site usage data, and  
 3\. voluntary postings. 
 
@@ -49,7 +50,7 @@ We may also occasionally provide the names and postal mailing addresses (but not
 
 Registered Users and Subscribers who have not been receiving information from OptionsZone, InvestorPlace Media LLC or third parties but now wish to receive such information may "opt in" by sending an email stating such to service@optionszone.com.
 
- **How do ChangeWave's service providers use personally identifiable information?**
+ **How do OptionsZone's service providers use personally identifiable information?**
 
 We have partnered with Strategy.com to provide portfolio tracking and registration services. When a Registered User or Subscriber signs up for their services, we will share names or other contact information necessary for Strategy.com to provide their services. Strategy.com has agreed not to use personally identifiable information except for the purpose of providing their services.
 
@@ -81,6 +82,6 @@ Please remember that voluntary postings voluntary postings submitted through our
 
 **USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY AND APPLICABLE USAGE AGREEMENT.**
 
-InvestorPlace media reserves the right to change this policy at any time by posting a revised privacy policy on this web page. 
+InvestorPlace Media reserves the right to change this policy at any time by posting a revised privacy policy on this web page. 
 
 You can send e-mail to us with any further questions at service@options
