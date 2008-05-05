@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotnetcurry.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102075149id_/http%3A//www.dotnetcurry.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetcurry.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505034339id_/http%3A//www.dotnetcurry.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # .NET Curry - Privacy Policy
 
@@ -101,7 +101,3 @@ If you have any questions about this privacy policy or our treatment of your per
 This privacy policy is based on a template
 
 created and distributed by [www.website-law.co.uk](http://www.website-law.co.uk/).
-
-[ ](http://www.google.com/) |   
----|---  
-  | 
