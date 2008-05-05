@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226135751id_/http%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505034711id_/http%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Payday Loans: Cash Advances & Payday Loans @ www.quickquid.co.uk
 
-Due to the upcoming banking holiday, all requests to make changes for loans due on December 27, 2007 must be received by 15:00 GMT on December 21, 2007.  
-All loans approved on December 24, 2007 will be funded on December 27, 2007.
+Due to the upcoming banking holiday, all requests to make changes for loans due on May 06, 2008 must be received by 15:00 GMT on May 01, 2008.  
+All loans approved on May 02, 2008 will be funded on May 06, 2008.
 
 ## CashEuroNetUK, LLC Privacy Policy
 
