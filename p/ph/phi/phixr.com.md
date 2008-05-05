@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phixr.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217104637id_/http%3A//www.phixr.com/about/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phixr.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505093836id_/http%3A//www.phixr.com/about/terms) for the most accurate reproduction.*
 
 # Phixr - Online Photo Editor
 
@@ -22,7 +22,7 @@ Violation of any of these terms will result in the termination of your account.
 
 General Conditions
 
-  * We do not claim, nor gain any right with regard to data you upload to our servers. It's your data, and it remains your data.
+  * **We do not claim, nor gain any right with regard to data you upload to our servers. It's your data, and it remains your data.**
   * We reserve the right to modify or terminate the free service the Site provides for any reason, without notice at any time.
   * We reserve the right to alter these Terms of Use at any time. If the alterations constitute a material change to the Terms of Use, we will notify you via e-mail if you specified an e-mail address in your profile. What constitutes a "material change" will be determined at our sole discretion, in good faith and using common sense and reasonable judgement.
   * We reserve the right to refuse service to anyone for any reason at any time.
