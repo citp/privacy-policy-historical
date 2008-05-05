@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the courant.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406071038id_/http%3A//www.courant.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courant.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505094010id_/http%3A//www.courant.com/go/privacy) for the most accurate reproduction.*
 
-# Connecticut News from The Hartford Courant ::: State, National, & World News On courant.com
+# courant.com Privacy Policy -- Courant.com
 
-## courant.com Privacy Policy  
+## Last Updated: May 2006
 
-
-**Last Updated: May 2006**   
 COURANT.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by COURANT.com online and does not impact information collected or used by COURANT.com or its affiliates through other means. 
 
 **How we gather information from users**. 
@@ -61,17 +59,3 @@ COURANT.com reserves the right to change this policy at any time. Please check t
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of COURANT.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. COURANT.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer. 
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
-
-**Interact with The Courant:**
-
-> [**Email** ](https://web.archive.org/news/local/hc-news-correx-cf,0,3980565.customform) Reader Rep. Karen Hunter with comments.   
-> [**Visit** ](http://www.courant.com/talkback) Karen's daily Blog.   
-> [**View** ](http://www.courant.com/news/corrections/)today's corrections.   
-> [ **Contact** ](https://web.archive.org/about/custom/thc/thc-newsroom,0,7611631.htmlstory) a reporter.   
-> [ **Subscribe** ](http://www.courant.com/offer)to The Courant.   
-> [ **Buy** ](http://pictopia.com/perl/gal?provider_id=429)Courant photos.   
-> [**Request** ](http://www.tmsreprints.com/forms/reprints/hartford.html)reprints/permissions.  
-> [**Search** ](http://pqasb.pqarchiver.com/courant/advancedsearch.html)our archives from 1764-1949 and 1992-2006. 
-
-  
-
