@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony-asia.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222124502id_/http%3A//www.sony-asia.com/section/privacypolicy%3Fsite%3Dhp_en_AP_i) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony-asia.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505191458id_/http%3A//www.sony-asia.com/section/privacypolicy%3Fsite%3Dhp_en_AP_i) for the most accurate reproduction.*
 
 # Sony Asia Pacific : Privacy Policy :
 
