@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the alliedwallet.com privacy policy that was archived on 2007-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070912141627id_/http%3A//www.alliedwallet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliedwallet.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505054823id_/http%3A//www.alliedwallet.com/privacy.aspx) for the most accurate reproduction.*
 
-# AlliedWallet - Privacy
+# AlliedWallet
 
-**[](http://www.truste.org/ivalidate.php?url=www.alliedwallet.com&sealid=101)
-
-A. Overview
-
-**
+**A. Overview**
 
 In order to operate the AlliedWallet service and to reduce the risk of fraud, AlliedWallet ("AlliedWallet" or "we") must ask you to provide us information about yourself and your credit card and/or bank account. This Privacy Policy describes the information we collect and how we use that information. 
 
@@ -141,16 +137,11 @@ ________________________________________
 Information Security  
 AlliedWallet is committed to handling your customer information with high standards of information security. Your credit card and bank account information are stored only in encrypted form on computers that are not connected to the Internet. We restrict access to your personally identifiable information to employees who need to know that information in order to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information. We test our security systems regularly and also contract with outside companies to audit our security systems and processes.
 
-The security of your AlliedWallet account also relies on your protection of your AlliedWallet password. You may not share your AlliedWallet password with anyone. AlliedWallet will never ask you to send your password or other sensitive information to us in an e-mail, though we may ask you to enter this type of information on the AlliedWallet website, which will always have a URL beginning with https://www.alliedwallet.com/. 
+The security of your AlliedWallet account also relies on your protection of your AlliedWallet password. You may not share your AlliedWallet password with anyone. AlliedWallet will never ask you to send your password or other sensitive information to us in an e-mail, though we may ask you to enter this type of information on the AlliedWallet website, which will always have a URL beginning with https://www.AlliedWallet.com/. 
 
 Any e-mail or other communication requesting your password, asking you to provide sensitive account information via email, or linking to a website with a URL that does not begin with https://www.AlliedWallet.com/ should be treated as unauthorized and suspicious and should be reported to AlliedWallet immediately. If you do share your AlliedWallet password with a third party for any reason, including because the third party has promised to provide you additional services such as account aggregation, the third party will have access to your account and your personal information, and you may be responsible for actions taken using your password. If you believe someone else has obtained access to your password, please change it immediately by logging in to your account at www.AlliedWallet.com/ and changing your Profile settings, and also contact us right away as described in Section F below. 
 
-**About SSL**
-
-A n SSL Certificate consists of a public key and a private key. The public key is used to encrypt information and the private key is used to decipher it. When a browser points to a secured domain, a secure sockets layer handshake authenticates the server and the client establishes an encryption method and a unique session key. They can then begin a secure session that guarantees message privacy and message integrity.  
-Every SSL Certificate is created for a particular server in a specific domain for a verified business entity. Like a passport or a driver’s license, an SSL Certificate is issued by a trusted authority. When the SSL handshake occurs, the browser requires authentication from the server. If the information does not match or the certificate has expired, the browser displays an error message. 
-
-_______________________________________
+________________________________________
 
 **E. Accessing and Changing Your Information**
 
@@ -158,21 +149,6 @@ You can review the personal information you provided us and make any desired cha
 
 ________________________________________
 
-**F. Ceasing E-mail Communication From Allied Wallet**
+**F. Contacting Us**
 
-All e-mail sent to you from Allied Wallet are service related (ie. confirmation emails, critical service updates, password retrieval, funds transfer and deposit e-mails). If you wish to cease e-mails being sent to you from Allied Wallet you are required to deactivate your account.
-
-________________________________________
-
-**G. Contacting Us**
-
-If you have any questions about this privacy statement, AlliedWallet's information practices, or your dealings with AlliedWallet, call (888) 255-1137 Monday through Friday between the hours of 10am and 6pm PST, or write us at AlliedWallet, 468 N. Camden Dr, Beverly Hills, CA. 90210.
-
-________________________________________
-
-**H. TRUSTe Privacy Program**
-
-Allied Wallet is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site www.alliedwallet.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Jarod Lo at support@alliedwallet.com or +1 (888) 255-1137.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at: http://www.truste.org/consumers/watchdog_complaint.php  
-TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have any questions about this privacy statement, AlliedWallet's information practices, or your dealings with AlliedWallet, call ,(888) 255-1137 Monday through Friday between the hours of 10am and 6pm PST, or write us at Allied Wallet. 1 Northumberland Avenue, Trafalgar Square. London, WC2N 5BW. United Kingdom.
