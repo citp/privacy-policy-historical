@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepra.com.au privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105232416id_/http%3A//www.thepra.com.au/Content.aspx%3Fp%3D87) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepra.com.au privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505095626id_/http%3A//www.thepra.com.au/Content.aspx%3Fp%3D87) for the most accurate reproduction.*
 
 # The People's Republic of Animation - Film, Television, Advertising, Video Games and Mobile - Privacy
 
