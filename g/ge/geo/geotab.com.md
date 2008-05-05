@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geotab.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231032236id_/http%3A//geotab.com/DealerMenu/tabid/62/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geotab.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505022425id_/http%3A//www.geotab.com/DealerMenu/tabid/62/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Dealer Support Page
 
@@ -44,4 +44,4 @@ Geotab Inc. will occasionally update this Statement of Privacy to reflect compan
 
 Contact Information
 
-Geotab Inc. welcomes your comments regarding this Statement of Privacy. If you believe that Geotab Inc. has not adhered to this Statement, please contact Geotab Inc. at [geosupport@geotab.com](mailto:geosupport@geotab.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Geotab Inc. welcomes your comments regarding this Statement of Privacy. If you believe that Geotab Inc. has not adhered to this Statement, please [Contact Us](https://web.archive.org/ContactUs/tabid/55/Default.aspx). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
