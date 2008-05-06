@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamcity.com privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105184727id_/http%3A//www.hamcity.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamcity.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506033634id_/http%3A//www.hamcity.com/privacy.aspx) for the most accurate reproduction.*
 
 # Hamcity.com - Ham City
 
@@ -6,12 +6,12 @@
 ---  
   
    
- [ **Amateur Radio Equipment**](https://web.archive.org/web/20071105184727id_/http%3A//www.hamcity.com/SearchResult.aspx?CategoryID=3)  
+ [ **Amateur Radio Equipment**](https://web.archive.org/web/20080506033634id_/http%3A//www.hamcity.com/SearchResult.aspx?CategoryID=3)  
 
+
+ * Amateur Radios Refurbished *
 
  * Bargain Box *
-
- * Hamcity Gift Certificates *
 
  Amplifiers
 
@@ -57,6 +57,8 @@
 
  Cable, Rope, & Wire By Length
 
+ Gift Certificates
+
  Handheld Accessories
 
  Handheld Radios
@@ -94,7 +96,7 @@
  West Mountain Radio  
   
    
- [ **Receiver/Scanner Equipment**](https://web.archive.org/web/20071105184727id_/http%3A//www.hamcity.com/SearchResult.aspx?CategoryID=28)  
+ [ **Receiver/Scanner Equipment**](https://web.archive.org/web/20080506033634id_/http%3A//www.hamcity.com/SearchResult.aspx?CategoryID=28)  
 
 
  Antenna Mobile Mounts
@@ -134,7 +136,7 @@
  Power Supplies  
   
    
- [ **Avionics/Marine Equipment**](https://web.archive.org/web/20071105184727id_/http%3A//www.hamcity.com/SearchResult.aspx?CategoryID=33)  
+ [ **Avionics/Marine Equipment**](https://web.archive.org/web/20080506033634id_/http%3A//www.hamcity.com/SearchResult.aspx?CategoryID=33)  
 
 
  Antenna Mobile Mounts
