@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2007-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071107060421id_/http%3A//www.oztix.com.au/Home/Privacy/tabid/397/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506025324id_/http%3A//www.oztix.com.au/Home/Privacy/tabid/397/Default.aspx) for the most accurate reproduction.*
 
 # Oztix Privacy
 
 Your right to privacy and the protection of Your private information is protected by law in the Privacy Act 1988 and this policy outlines how We manage and protect Your personal information. If You use Our website We will collect and hold Your personal information for the purposes of providing the ticket/s You have ordered and for verifying that You are who You say You are for the prevention of fraud.
 
-We also collect and hold Your personal information for the purpose of marketing information back to You about Our products and services (but only if You have agreed to do so by selecting the relevant option button on Our website) or so that We can analyse and improve upon Our systems or services. We also collect and provide Your personal information to Our clients for the purpose of marketing information back to You about Our clients' products and services (but only if You have agreed to do so by selecting the relevant option button on Our website). If you have become a member or joined a mailing list at Oztix or Ticket Solutions you can opt out at anytime by emailing us at [_info@oztix.com.au_](mailto:info@oztix.com.au).
+We also collect and hold Your personal information for the purpose of marketing information back to You about Our products and services (but only if You have agreed to do so by selecting the relevant option button on Our website) or so that We can analyse and improve upon Our systems or services. We also collect and provide Your personal information to Our clients for the purpose of marketing information back to You about Our clients' products and services (but only if You have agreed to do so by selecting the relevant option button on Our website). If you have become a member or joined a mailing list at Oztix or Ticket Solutions you can opt out at anytime by emailing us via the ["contact us"](http://www.oztix.com.au/Home/Support/tabid/390/Default.aspx) section of the Oztix homepage.
 
 The type of information collected may include Your name, address, email, Your DOB, credit card or financial details. This information will be collected when You complete an application or order form.
 
@@ -22,4 +22,4 @@ We will allow You to deal with Us anonymously if and when it is lawful and pract
 
 Without Your consent We will not collect information about You that reveals Your racial or ethnic origin, political opinions, religious or philosophical beliefs or affiliations, membership of a professional or trade association or union, or health, disability, sexual orientation, or criminal record unless required to by law.
 
-Anytime You have a query or issue about privacy of Your information please contact Us.
+Anytime You have a query or issue about privacy of Your information please ["contact us"](http://www.oztix.com.au/Home/Support/tabid/390/Default.aspx%3E%20).
