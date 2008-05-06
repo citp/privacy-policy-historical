@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveme.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213043749id_/http%3A//www.loveme.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveme.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506055608id_/http%3A//www.loveme.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # A Little About A Foreign Affair
 
@@ -50,4 +50,4 @@ fax (602) 468-1119
 
 * * *
 
-Copyright © 1996-2007
+Copyright © 1996-2008
