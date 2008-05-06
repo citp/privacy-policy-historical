@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vzam.net privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218153101id_/http%3A//www.verizonwireless.com/b2c/globalText%3FcontentType%3DglobalContent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vzam.net privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506211313id_/http%3A//www.verizonwireless.com/b2c/globalText%3FcontentType%3DglobalContent) for the most accurate reproduction.*
 
 # Privacy
 
@@ -18,7 +18,7 @@ Verizon Wireless strives to maintain high standards for the protection of privac
 
 ### Verizon Wireless as a licensee of the TRUSTe privacy program
 
-The TRUSTe seal confirms that Verizon Wireless is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/b2c/vzwfly?go=/ContactUsControllerServlet&navigationLinkOptions=GLOBAL_HEADER). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
+The TRUSTe seal confirms that Verizon Wireless is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/b2c/footer/privacypolicypopup.jsp). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
 ### Information we collect
 
@@ -74,4 +74,4 @@ Verizon Wireless will provide 30 days notice on our web site of any material cha
 
 ### Contacting us
 
-For inquiries regarding our privacy statement, [contact us](https://web.archive.org/b2c/vzwfly?go=/ContactUsControllerServlet&navigationLinkOptions=GLOBAL_HEADER).
+For inquiries regarding our privacy statement, [contact us](https://web.archive.org/b2c/footer/privacypolicypopup.jsp).
