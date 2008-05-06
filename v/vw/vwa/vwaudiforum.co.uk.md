@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vwaudiforum.co.uk privacy policy that was archived on 2007-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071107070227id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php%3Fp%3D42%23post42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwaudiforum.co.uk privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506020046id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php%3Fp%3D42%23post42) for the most accurate reproduction.*
 
 # Privacy Policy - VWAUDI Forum
 
@@ -6,7 +6,7 @@
 
  
 
-[](https://web.archive.org/web/20071107070227id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?u=1)
+[](https://web.archive.org/web/20080506020046id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?u=1)
 
 | 
 
@@ -59,3 +59,24 @@ By using this Web Site, you agree to the terms of this Privacy Policy. VWAudi Fo
 If you have any questions, comments or concerns about our Privacy Policy, please contact us at [admin@vwaudiforum.co.uk](mailto:admin@vwaudiforum.co.uk)
 
 This Privacy Policy was last updated on April 23rd 2004. © 2004 VWAudi Forum. All rights reserved.
+
+__________________
+
+ ** _Stuart - Website Administrator & Owner_**
+
+  
+
+
+_**Visit the[Gallery](http://www.vwaudiforum.co.uk/photopost/?) and post your pictures**_
+
+  
+
+
+_**Details of the VWAudi Forum Insurance Scheme,[See Here](http://www.vwaudiforum.co.uk/forum/showthread.php?t=24937)**_
+
+  
+
+
+Please **DO NOT** email or PM me with any vehicle related questions.
+
+I do not have the experience or time to answer them, so they will be deleted! **PLEASE** use the correct forum section to ask!
