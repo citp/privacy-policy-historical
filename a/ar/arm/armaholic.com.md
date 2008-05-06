@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the armaholic.com privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105031202id_/http%3A//www.armaholic.com/page.php%3Fid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armaholic.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506060935id_/http%3A//www.armaholic.com/page.php%3Fid%3D37) for the most accurate reproduction.*
 
-# Privacy statement - Armaholic: Armed Assault & Arma 2 - Files, News, Reviews, Addons, Mods, Missions, Scripts, Videos and more.
-
- 
+# Privacy statement - Files, News, Reviews, Addons, Mods, Missions, Scripts, Videos and more.
 
 **Privacy Statement**
 
 **Third Party Sites.**  
-If you click on a link to a third party site, including links to an advertisement or an Ad company, you will leave the Armaholic site and go to the site you selected. Because we cannot control the activities of third parties, including service providers, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as Armaholic. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to the Armaholic site, you should consult that site�s privacy policy before providing any personal information.
+If you click on a link to a third party site, including links to an advertisement or an Ad company, you will leave the Armaholic site and go to the site you selected. Because we cannot control the activities of third parties, including service providers, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as Armaholic. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to the Armaholic site, you should consult that site’s privacy policy before providing any personal information.
 
 **What personal information is collected?**  
 Personal information is information that identifies you and may be used to contact you on-line or off-line. Armaholic only collects personal information from our online visitors on a voluntary basis and only during registration. Information collected may include your name, e-mail address, location and birth date. We do not require personal information to obtain access to any of our sites; however, you will not be able to access areas that require registration.
