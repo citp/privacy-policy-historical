@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the jysk.ca privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228190258id_/http%3A//www.jysk.ca/pages.aspx%3Fid%3D%26docid%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jysk.ca privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506041351id_/http%3A//jysk.ca/pages.aspx%3Fid%3D%26docid%3D159) for the most accurate reproduction.*
 
 # Jysk Retail - Legal Information
 
-|  |  |  |   
----|---|---|---|---  
-|  |  |  |   
----|---|---|---|---  
 |    
   
   
