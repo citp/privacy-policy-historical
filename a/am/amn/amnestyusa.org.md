@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnestyusa.org privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504235858id_/http%3A//www.amnestyusa.org/page.do%3Fn%3D90) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnestyusa.org privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506065851id_/http%3A//www.amnestyusa.org/page.do%3Fn%3D90) for the most accurate reproduction.*
 
 # Privacy Policy
 
