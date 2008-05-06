@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224175219id_/http%3A//www.gigmasters.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506110030id_/http%3A//www.gigmasters.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for Gigmasters.com
 
@@ -23,8 +23,12 @@ Are you a professional [event planner](https://web.archive.org/bookings/eventpla
 [Live Music](https://web.archive.org/liveband/ "Live Music")  
 [Special Event Planning](https://web.archive.org/events/ "Special Event Planning")  
 [Musician Resource](https://web.archive.org/membership.asp "Musician Resource") |    
-|  |    
+|  | 
+
 Returning user? **[Login here](https://www.gigmasters.com/modify.asp)**. Don't know your password? **[Click here](https://web.archive.org/forgotpassword.asp)**. First time visitor? **[Take a tour!](https://web.archive.org/demo/)**
+
+  
+
 
 [](http://server.iad.liveperson.net/hc/59276654/?cmd=file&file=visitorWantsToChat&site=59276654&byhref=1&imageUrl=http://www.gigmasters.com/images)
 
