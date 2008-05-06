@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k12albemarle.org privacy policy that was archived on 2007-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071104023317id_/http%3A//schoolcenter.k12albemarle.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12albemarle.org privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506022745id_/http%3A//schoolcenter.k12albemarle.org/privacy) for the most accurate reproduction.*
 
 # Communications - Privacy Statement
 
