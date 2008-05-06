@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitsoe.com privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022161730id_/http%3A//www.vitsoe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitsoe.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507011839id_/http%3A//www.vitsoe.com/privacy.php) for the most accurate reproduction.*
 
 # Vitsœ | Privacy
 
@@ -42,7 +42,7 @@ Information you provide to us remains confidential. The internal procedures of V
 **Your details and how to update them**  
 You have the right at any time to request a copy of the personal data we hold on you.
 
-If any of the information that you have provided to us changes, for example, if you change your email address or if you wish to cancel your registration, please let us know the correct details by contacting us by [fax](https://web.archive.org/web/20071022161730id_/http%3A//www.vitsoe.com/contact.php), [telephone](https://web.archive.org/web/20071022161730id_/http%3A//www.vitsoe.com/contact.php) or [email](https://web.archive.org/web/20071022161730id_/http%3A//www.vitsoe.com/general_inquiry.php). 
+If any of the information that you have provided to us changes, for example, if you change your email address or if you wish to cancel your registration, please let us know the correct details by contacting us by [fax](https://web.archive.org/web/20080507011839id_/http%3A//www.vitsoe.com/contact.php), [telephone](https://web.archive.org/web/20080507011839id_/http%3A//www.vitsoe.com/contact.php) or [email](https://web.archive.org/web/20080507011839id_/http%3A//www.vitsoe.com/general_inquiry.php). 
 
 |  | 
 
@@ -50,7 +50,7 @@ If any of the information that you have provided to us changes, for example, if 
 By submitting your information you consent to the use of that information as set out in this Privacy Policy. If we change our Privacy Policy we will post the changes on this section of the website, so that you may be aware of the information we collect and how we use it at all times. Your continued use of the website constitutes your agreement to any such changes. 
 
 **How to contact us**  
-We welcome your views about our website and our Privacy Policy. Should you wish to [contact us](https://web.archive.org/web/20071022161730id_/http%3A//www.vitsoe.com/contact.php) regarding our website or Privacy Policy please do so. 
+We welcome your views about our website and our Privacy Policy. Should you wish to [contact us](https://web.archive.org/web/20080507011839id_/http%3A//www.vitsoe.com/contact.php) regarding our website or Privacy Policy please do so. 
 
 Vitsœ Limited is a company registered in England and Wales.  
 Registered Office 72 Wigmore Street, London W1U 2SG  
