@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egg2.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218084005id_/http%3A//www.egg2.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egg2.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506105935id_/http%3A//www.egg2.com/privacy.htm) for the most accurate reproduction.*
 
 # Egg2 Free Online Games - Privacy Policy
 
@@ -16,6 +16,3 @@ The site fully agrees and complies to [COPPA](http://www.ftc.gov/bcp/conline/pub
 Please [](mailto:fetchfido@gmail.com) if you have any questions.
 
 \---------------------------------------------------------------------
-
-Note.  
-All server costs have to be paid for by this site. Any illegal 'BANDWIDTH STEALING' by unorthorized sites or persons linking directly to files will be charged at $15/mb used.
