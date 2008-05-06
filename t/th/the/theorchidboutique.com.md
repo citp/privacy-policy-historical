@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theorchidboutique.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230123017id_/http%3A//www.theorchidboutique.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theorchidboutique.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506135341id_/http%3A//www.theorchidboutique.com/privacy.php) for the most accurate reproduction.*
 
 # The Orchid Boutique
 
@@ -6,7 +6,7 @@
 ---|---|---|---|---  
 |  |  |  |  |   
 ---|---  
-|  | [](https://web.archive.org/web/20071230123017id_/http%3A//www.theorchidboutique.com/index.php) |  | [](https://web.archive.org/web/20071230123017id_/http%3A//www.theorchidboutique.com/category_root.php?html_hdnid=1) |  | [](https://web.archive.org/web/20071230123017id_/http%3A//www.theorchidboutique.com/category_root.php?html_hdnid=3) |  | [](https://web.archive.org/web/20071230123017id_/http%3A//www.theorchidboutique.com/category.php?html_hdnid=25) |  | [](https://web.archive.org/web/20071230123017id_/http%3A//www.theorchidboutique.com/clearence.php?html_hdnid=29) |  | [](https://web.archive.org/web/20071230123017id_/http%3A//www.theorchidboutique.com/news.php) |  | [](https://web.archive.org/web/20071230123017id_/http%3A//www.theorchidboutique.com/customer_service.php) |   
+|  |  [](http://www.theorchidboutique.com/index.html) |  |  [](http://www.theorchidboutique.com/jewelry/trendy-jewelry.php) |  |  [](http://www.theorchidboutique.com/swimwear/designer-swimwear.php) |  |  [](http://www.theorchidboutique.com/handbags/designer-trendy-fashion-handbags.php) |  |  [](http://www.theorchidboutique.com/clearence/clearence-items.php) |  |  [](http://www.theorchidboutique.com/news.php) |  |  [](http://www.theorchidboutique.com/customer_service.php) |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |   
 ---  
