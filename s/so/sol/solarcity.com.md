@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarcity.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213061114id_/http%3A//solarcity.com/tabid/75/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarcity.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506221549id_/http%3A//solarcity.com/tabid/75/Default.aspx) for the most accurate reproduction.*
 
 # SolarCity - Privacy
 
