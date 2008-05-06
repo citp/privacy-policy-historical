@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221052739id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506113832id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-[
-
-Guaranteed Christmas Delivery & 33% Off Next Day Air
-
-for all in-stock orders shipped today via **Next Day Air**. Details
-
-](https://web.archive.org/service/shipping-options.html)
-
-[](https://web.archive.org/emailpage.php?link=%2Fservice%2Fprivacy-statement.html&title=Privacy+Statement)
+[](https://web.archive.org/emailpage.php?link=/service/privacy-statement.html&title=Privacy+Statement)
 
 Your Electronic Warehouse has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **[4ElectronicWarehouse.com](http://www.4electronicwarehouse.com/)**. 
 
@@ -83,18 +75,16 @@ Questions? Call us toll-free 1-866-224-6171.
   
 
 
-Sign Up For the Hottest Deals
-
-  * [Optoma HD73 High Definition Home Theater Projector](http://www.4electronicwarehouse.com/products/optoma/hd73.html)
-  * [Optoma HD70 High Definition Home Theater Projector](http://www.4electronicwarehouse.com/products/optoma/hd70.html)
-  * [Niles Audio SI-2125](http://www.4electronicwarehouse.com/products/niles/si-2125.html)
-  * [Niles Audio SI-1230](http://www.4electronicwarehouse.com/products/niles/si-1230.html)
-  * [Monster MCL MXFST](http://www.4electronicwarehouse.com/products/monster/mcl-mxfst.html)
-  * [Monster CableLinks™ Single Adapters](http://www.4electronicwarehouse.com/products/monster/mcl-mfst.html)
-  * [Monster M850 High Performance Subwoofer Cable](http://www.4electronicwarehouse.com/products/monster/m850-sw.html)
-  * [Breathe Audio BA-200 Pulse 200 Watt Auxilary Amplifier](http://www.4electronicwarehouse.com/products/breatheaudio/ba-200.html)
-  * [Bose FreeSpace 51](http://www.4electronicwarehouse.com/products/bose/freespace51.html)
-  * [Bose 251](http://www.4electronicwarehouse.com/products/bose/251.html)
-  * [BES B.E.S 3/8" Carbide/Masonry Bellhanger's Bit](http://www.4electronicwarehouse.com/products/bes-manufacturering/bellc3836.html)
+  * [Toshiba 46RF350U 46'' Super Narrow Bezel Regza Lcd](http://www.4electronicwarehouse.com/products/toshiba/46rf350u.html)
+  * [Toshiba 40RF350U 40'' Super Narrow Bezel Regza Lcd](http://www.4electronicwarehouse.com/products/toshiba/40rf350u.html)
+  * [Sanus NFV49](http://www.4electronicwarehouse.com/products/sanus/nfv49-stand.html)
+  * [Pro Brand Pbi Dual Lnb For Dss](http://www.4electronicwarehouse.com/products/pro-brand-international/pro-brand-dtv32.html)
+  * [Pioneer PDP-5010FD 50" Plasma Television](http://www.4electronicwarehouse.com/products/pioneer/pdp-5010fd-plasma.html)
+  * [Monster Standard 14 Gauge 4 Conductor UL CL3-Rated](http://www.4electronicwarehouse.com/products/monster/s14-4.html)
+  * [Monster Video MV-Quad RG-6 CL3-Rated Video Cable](http://www.4electronicwarehouse.com/products/monster/mvquad.html)
+  * [Monster MonsterBass 300 Subwoofer Cable](http://www.4electronicwarehouse.com/products/monster/mb300.html)
+  * [Monster CI Pro S14-4](http://www.4electronicwarehouse.com/products/monster/cp14-4.html)
+  * [Boston Acoustics TVee Two Soundbar and Wireless Bass Speaker](http://www.4electronicwarehouse.com/products/boston-acoustics/tvee-two-midnight.html)
+  * [Bose Acoustimass 5 Series III Spekaer System](http://www.4electronicwarehouse.com/products/bose/am-5.html)
 
 
