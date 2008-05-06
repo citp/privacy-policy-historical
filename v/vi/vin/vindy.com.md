@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627092447id_/http%3A//www.vindy.com/legal/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506113148id_/http%3A//www.vindy.com/privacy) for the most accurate reproduction.*
 
-# Vindy.com - Privacy Statement
+# Vindy.com News – Youngstown, Warren, Columbiana Ohio - Vindy.com - Privacy Policy
 
 **Please read this entire notice.**   The purpose of our privacy policy is to inform you that we do collect certain kinds of information about your use of Vindy.com and Vindicator.com (for purposes of this Policy, these shall be called “the Sites”); what kinds of information we gather; how we may use that information; whether we disclose it to anyone; and the choices you have regarding our use of, and your ability to correct, the information.   The Vindicator Printing Company (referred to as “The Vindicator” in this policy) owns and operates the Sites.
 
