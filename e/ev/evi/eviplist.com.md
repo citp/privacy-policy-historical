@@ -1,54 +1,87 @@
-> *The following text is extracted and transformed from the eviplist.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205070257id_/http%3A//64.176.242.234/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eviplist.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507153502id_/http%3A//www.eviplist.com/policy/en) for the most accurate reproduction.*
 
-# eVIPlist.com - Your exclusive VIP pass to the hottest parties & events
+# 
 
-eVIPlist.com is committed to protecting the personal privacy rights of all our members and consider all personal information as private and confidential. 
+eVIPlist is founded on the principals of helping people to discover new information by enabling them to share what they find interesting with one another. eVIPlist knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the eVIPlist website, you are accepting the practices outlined in this Privacy Policy. 
 
-eVIPlist.com has created this privacy statement in order to demonstrate our firm commitment to privacy. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. The following discloses our information gathering and dissemination practices for our website. 
+This Privacy Policy covers eVIPlist's treatment of personal information that eVIPlist gathers when you are on the eVIPlist website and when you use eVIPlist services. This policy does not apply to the practices of third parties that eVIPlist does not own or control, or to individuals that eVIPlist does not employ or manage.
 
-**Information Collected**   
-We use your IP address to help diagnose problems with our server, and to administer our website. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. In addition, our web servers track information about the visits to our website. For example, we compile statistics that show the daily number of visitors to our site, the daily requests we receive for particular files on our website, and what countries those requests come from. These aggregated statistics are used internally to better provide services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information. 
+Information Collected by eVIPlist  
+We only collect personal information that is relevant to the purpose of our website, which is to enable users to discover and share information with one another. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our eVIPlist users:
 
-Our site's registration form requires users to give us contact information (like their name and email address), and demographic information (like their zip code, age group, or income level). We use members contact information from the registration form to send the user information about our company and promotional material from some of our partners. The member's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of the sharing of their information with other companies, as well as opt-out of receiving future mailings from us; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+1\. Information You Provide to Us:   
+We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. Registration: In order for you to use eVIPlist services, such as submitting new links to the website, you must complete a registration form. As part of this registration form, we require select personal information (including your full name, city, state and e-mail address). 
 
-We will not disclose customer name, addresses, or account information to unaffiliated parties, other than: 
+User Profile: To allow you to express yourself beyond just the information collected during registration, we enable you to provide additional information, such as a bio, favorite URLs, and instant messaging IDs. In addition, you may choose to include photos of yourself in your profile. As indicated below, in the section titled "Sharing Your Information", you can control how your information is displayed and used. 
 
-  * where the customer requests or consents to disclosure 
-  * where we are legally required to do so (e.g. in response to a subpoena or fraud investigation) 
-  * where we have agreed to provide information under negotiated contracts and where the customer has been informed about the possibility of sharing information for marketing or other similar purposes through a prior direct communication and the customer has been given the reasonable opportunity and time to decline. 
+2\. Automatic Information:   
+We receive and store certain types of information whenever you interact with us. eVIPlist and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, eVIPlist cookie information, and the page you requested. eVIPlist uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website. 
 
+eVIPlist may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages. 
 
+Many companies offer programs that help you to visit websites anonymously. While eVIPlist will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
 
-**
+E-mail Communications  
+eVIPlist is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. eVIPlist may send out e-mails with eVIPlist-related news, products, offers, surveys or promotions. You may also receive notification e-mails from eVIPlist, which inform you of actions (e.g. friend requests) that have been performed on the site. If you do not want to receive e-mail from us, please visit the Email Preferences section of your User Profile and/or follow the instructions contained in the unwanted e-mail message. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
 
-Other Sites
+Cookies  
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. eVIPlist cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is. 
 
-**   
-This site contains links to other sites. eVIPlist.com is not responsible for the privacy practices or the content of such websites. 
+The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of eVIPlist's coolest features. 
 
-**Public Forums**   
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. These features require users to register with the site, and enter their personal user names and passwords before entering those areas.   
-Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+Some of our business partners, like our advertisers, may use cookies on our website. We have no access to, or control over, these cookies. 
 
-**Security**   
-To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+Sharing Your Information  
+Because eVIPlist enables people to discover and share information with one another, information about the people who use eVIPlist is an integral part of the eVIPlist experience. Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
 
-**Children's Guidelines**   
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our Website is structured to attract anyone under 13\. 
+eVIPlist Personnel: eVIPlist personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of eVIPlist business.
 
-**Choice/Opt-Out**   
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. Users may opt-out of the sharing of their information with other companies, as well as opt-out of receiving future mailings from us.   
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if eVIPlist, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
 
-  1. You can send email to unsubscribe@eVIPlist.com 
+Protection of eVIPlist and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of eVIPlist, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
+User Profile information: Information collected during registration and subsequent visits, such as your full name and location, may be displayed to other eVIPlist users in your User Profile. The User Profile is the area on EVIPlist where we allow you to tell other eVIPlist users about yourself and your interests. You may control what personal information is displayed in your User Profile by visiting the Privacy Settings section of your User Profile. 
 
+Member Directory: The e-mail address that you submit upon registration will be searchable by other eVIPlist users who know you by your email address, unless you choose to opt out of this feature. This is primarily so that other users can find you to establish friendship through eVIPlist. You may opt-out of this feature by visiting the Privacy Settings section of your User Profile. 
 
-**Contacting Us**  
-eVIPlist believes that protecting each person's right to privacy is fundamental to the quality of customer relationships. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+Social sharing of data: eVIPlist allows other users to browse stories that you have Dugg, submitted, blogged, or commented on. This information is made available via your User Profile, on the EVIPlist spy page (eVIPlist.com/spy) or within the permalink URL of the story on which you performed the action. eVIPlist may choose to post this data on other site features. 
 
-eVIPlist.com, Inc.  
-4401-A Connecticut Ave. NW  
-Suite 349  
-Washington, DC 20008-2322  
-E-mail: info@eVIPlist.com
+Friends' Activity: Much like other online social networks, eVIPlist allows non-friends to browse your friends' activity ( eVIPlist.com/users/usersname/friends). 
+
+API: eVIPlist will allow third parties access to all eVIPlist data this is already publicly available through the eVIPlist website. eVIPlist will keep private any passwords and blog settings.
+
+Syndication: eVIPlist allows for the RSS syndication of all of its public content within the eVIPlist website. 
+
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
+
+Keeping Information Secure  
+Your eVIPlist account information is protected by a password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. 
+
+Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices. 
+
+Ways to Control Display and Use of Your Information  
+As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new links.
+
+By visiting your User Profile, you can correct, amend, add or delete personal information on our website. When you update information, however, we often maintain a copy of the unrevised information in our records. 
+
+You may request deletion of your eVIPlist account by e-mailing us at support@eVIPlist.com. 
+
+If you do not wish to receive e-mail from us or other eVIPlist users, please visit the Email Preferences section of your User Profile and/or follow the instructions contained in the unwanted e-mail message. 
+
+However, please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us. 
+
+If you do not wish to have people who know you by your email address find you via the Member Directory service, please visit the Privacy Settings section of your User Profile to opt out of this feature. 
+
+As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features. 
+
+Children Under 18 Years of Age  
+You must be 13 years and older to register to use the eVIPlist website. As a result, eVIPlist does not specifically collect information about children. If we learn that eVIPlist has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using eVIPlist or sending information about themselves or anyone else over the Internet.
+
+Changes to this Privacy Policy  
+eVIPlist may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the eVIPlist website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+
+Conditions of Use  
+If you decide to visit eVIPlist website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+
+Effective Date of this Privacy Policy  
+This Privacy Policy is effective as of January 1, 2008.
