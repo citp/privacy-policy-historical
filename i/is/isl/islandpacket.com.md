@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the islandpacket.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216005832id_/http%3A//www.islandpacket.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandpacket.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507074957id_/http%3A//www.islandpacket.com/services/privacy) for the most accurate reproduction.*
 
 # islandpacket.com | Privacy Policy
 
-Search **Everything** in the Lowcountry and the Coastal Empire.
+  * [Archive Search](http://dwb.islandpacket.com/services/search/)
+
+
+
+Search **Everything** in the Lowcountry and the Coastal Empire. 
 
 ## The Island Packet Privacy Policy
 
