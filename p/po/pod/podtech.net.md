@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the podtech.net privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221114708id_/http%3A//www.podtech.net/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podtech.net privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507111409id_/http%3A//www.podtech.net/home/privacy_podtech) for the most accurate reproduction.*
 
-# Privacy Policy | PodTech.net: Technology and Entertainment Video Network
+# Podtech.net Privacy Policy | PodTech.net
+
+### Podtech Privacy Policy
 
 _Effective May 7, 2007_
 
@@ -16,11 +18,11 @@ Our primary goals in collecting information from users are to provide and improv
 
 #### Personally Identifiable Information
 
-  * When you post a response to content on the Site (“Comment”) or send a video by email (“Email”) we will ask you for personally identifiable information. This is information about you that when on its own, or in combination with other identifiers, can be used to contact or identify you (“Personal Information”). Personal Information includes, but is not limited to, your name and email address. We use your Personal Information mainly to provide the Service and administer your inquiries. Your Comments are visible to all viewers of our Site.
-  * We also collect other non-identifying information through your use of the PodTech Player (e.g. user activity, the pages of the site that you visit, time spent on these pages and other statistics) (“Non-Identifying Information”).
-  * We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service and administer your inquiries.
+When you post a response to content on the Site (“Comment”) or send a video by email (“Email”) we will ask you for personally identifiable information. This is information about you that when on its own, or in combination with other identifiers, can be used to contact or identify you (“Personal Information”). Personal Information includes, but is not limited to, your name and email address. We use your Personal Information mainly to provide the Service and administer your inquiries. Your Comments are visible to all viewers of our Site.
 
+We also collect other non-identifying information through your use of the PodTech Player (e.g. user activity, the pages of the site that you visit, time spent on these pages and other statistics) (“Non-Identifying Information”).
 
+We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service and administer your inquiries.
 
 ### Cookies
 
@@ -66,9 +68,9 @@ Our Site contains links to other websites. If you choose to visit an advertiser 
 
 This Site is not directed to children under age 18. We do not knowingly collect personally identifiable information from children under age 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at Privacy AT podtech DOT net. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
 
-## Contacting Us
+### Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at Privacy AT podtech DOT net or at: 
+If you have any questions about this Privacy Policy, please contact us at Privacy AT podtech DOT net or at:
 
 1801 Page Mill Rd - Suite 400  
 Palo Alto, CA 94304  
