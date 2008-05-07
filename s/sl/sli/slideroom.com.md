@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025095813id_/http%3A//www.slideroom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507111923id_/http%3A//www.slideroom.com/%3Fpage_id%3D35) for the most accurate reproduction.*
 
-# SlideRoom - Privacy Policy
+# SlideRoom - Privacy
 
-SlideRoom.com ("Company") is committed to protecting the privacy of our customer's personal information. This statement applies with respect to the information that we collect from the Company Web site, located at www.SlideRoom.com. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
+SlideRoom.com ("Company") is committed to protecting the privacy of our customer’s personal information. This statement applies with respect to the information that we collect from the Company Web site, located at www.SlideRoom.com. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
 I. INFORMATION COLLECTED
 
@@ -10,7 +10,7 @@ We collect non-personally identifiable information about you in a number of ways
 
 II. USE OF INFORMATION
 
-In general, we will only use the information you provide to us for the purpose for which such information was provided. We may also use this information to deliver to you information about our company and promotional material from some of our partners, trend analysis, pattern detection, and site administration. Your information may also be used to contact you when necessary and may be shared with other companies that may want to contact you with offers consistent with your stated preferences. Users may opt-out of receiving future mailings from Company and other entities by following the instructions set forth in the opt-out section below. 
+In general, we will only use the information you provide to us for the purpose for which such information was provided. We may also use this information to deliver to you information about our company and promotional material from some of our partners, trend analysis, pattern detection, and site administration. Your information may also be used to contact you when necessary and may be shared with other companies that may want to contact you with offers consistent with your stated preferences. Users may opt-out of receiving future mailings from Company and other entities by following the instructions set forth in the opt-out section below.
 
 III. USE OF IP ADDRESSES
 
@@ -30,7 +30,7 @@ Our Web site contains links to other Web sites. SlideRoom is not responsible for
 
 VII. CORRECT; UPDATE
 
-SlideRoom allows its users the option to change or modify information previously provided. This may be done through accessing your user account in the “my account” section of the Website. 
+SlideRoom allows its users the option to change or modify information previously provided. This may be done through accessing your user account in the ‘my account’ section of the Website. 
 
 VIII. CHOICE; OPT OUT
 
@@ -46,23 +46,4 @@ This site may make chat rooms, forums, message boards, and/or news groups availa
 
 Contacting us:
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20071025095813id_/http://www.slideroom.com/contact/).  
-
-
-#### Sign up for our newsletter
-
-Your email   
-
-
-#### Tell a friend
-
-Let's get everyone online! Tell a friend about SlideRoom.
-
-Your email   
-
-
-Recipient email   
-
-
-Message   
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20080507111923id_/http%3A//www.slideroom.com/%3Fpage_id%3D35?page_id=29).
