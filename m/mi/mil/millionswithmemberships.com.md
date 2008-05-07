@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the millionswithmemberships.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216114146id_/http%3A//millionswithmemberships.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionswithmemberships.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507154436id_/http%3A//www.nolimitsnoexcuses.com/privacy_policy.html) for the most accurate reproduction.*
 
-# MillionaireOfTheMonth.com PRIVACY POLICY
+# No Limits No Excuses, LLC. PRIVACY POLICY
 
 Close Window
 
@@ -94,9 +94,9 @@ This website takes measures to protect its data that contains information relate
 
 You may direct questions, comments or reports to:
 
-MillionaireOfTheMonth.com 
+No Limits No Excuses, LLC. 
 
-www.contactsupportnow.com
+www.nolimitssupport.com
 
 1218 N. Bridge St. #105
 
@@ -132,4 +132,4 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 
 **COPYRIGHT AND LICENSE**
 
-This "Privacy Policy" is copyrighted 2004 by MillionaireOfTheMonth.com 
+This "Privacy Policy" is copyrighted 2004 by No Limits No Excuses, LLC. 
