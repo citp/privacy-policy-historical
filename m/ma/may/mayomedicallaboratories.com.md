@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mayomedicallaboratories.com privacy policy that was archived on 2007-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071107030517id_/http%3A//www.mayomedicallaboratories.com/customer-service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayomedicallaboratories.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507084346id_/http%3A//www.mayomedicallaboratories.com/customer-service/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Mayo Medical Laboratories
-
-[](mailto:\[Type%20recipient%20address\]?subject=Mayo%20Medical%20Laboratories&body=\[Type%20your%20message%20here\]%0D%0A%0D%0APage%20address:%20)
 
 MayoMedicalLaboratories.com is committed to protecting your online privacy. We feel it is important for you to know how we handle the information we receive from you via the Internet. In general, you can visit www.MayoMedicalLaboratories.com without revealing any personal information. However, you may be required to provide information to gain access to some of our content and services, as explained below. 
 
