@@ -1,13 +1,45 @@
-<!--The following is the downloaded HTML source of the hitched.co.uk privacy policy that was archived on 2007-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071219151337id_/http%3A//www.hitched.co.uk/admin/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hitched.co.uk privacy policy that was archived on 2008-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080508000423id_/http%3A//www.hitched.co.uk/admin/privacy.aspx) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><title>
 	hitched.co.uk - privacy policy
-</title><link href="/templates/css/template_green.css" rel="stylesheet" type="text/css"><meta name="keywords" content="hitched.co.uk"><meta name="description" content="hitched.co.uk"></head>
+</title>
+
+<script language="javascript" type="text/javascript" src="/js/commons.js"></script>
+<script language="javascript" type="text/javascript" src="/js/coreajax.js"></script>
+<script language="javascript" type="text/javascript" src="/js/ajax-dynamic-content.js"></script>
+<script language="javascript" type="text/javascript" src="/js/ajax_tip.js"></script>
+<script language="javascript" type="text/javascript" src="/js/ajax-tooltip.js"></script>  
+   
+<link href="/templates/css/template_green.css" rel="stylesheet" type="text/css"><link href="../css/css.css" rel="stylesheet" type="text/css"><link href="../css/txt.css" rel="stylesheet" type="text/css"><link href="../css/css1.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="../css/epoch_styles.css">
+
+<script type="text/javascript" src="../js/commons.js"></script>
+<script type="text/javascript" src="../js/coreajax.js"></script>
+<script type="text/javascript" src="../js/ajax-dynamic-content.js"></script>
+<script type="text/javascript" src="../js/ajax_tip.js"></script>
+<script type="text/javascript" src="../js/ajax-tooltip.js"></script>
+
+<script language="javascript" type="text/javascript">
+        function showrenewalalert()
+        {
+
+            document.getElementById("alertbox").style.display="block";
+        }
+        function hiderenewalalert()
+        {
+
+            document.getElementById("alertbox").style.display="none";
+        }
+</script>
+
+<meta name="keywords" content="hitched.co.uk"><meta name="description" content="hitched.co.uk"></head>
 <body bgcolor="white" topmargin="0" marginwidth="0" marginheight="0" class="footer">
+<div id="preloader" style="position:absolute; visibility:hidden; left:40%; top:180px;" align="center"><img src="../images/loader.gif" alt="Loading..."></div>
+<script language="javascript">is_Loaded_delayed();</script>
+<script language="javascript" type="text/javascript">//is_loaded();</script>
 <center>
     <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTg1MzUyNDU1NmRkvizq7+Syuro9sI3nuLfcFM+jCIU=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTg1MzUyNDU1NmRkTlZzONDpfqHEExfCsCdP1Wy9eDc=">
 
     
     <input id="ProductCount" name="ProductCount" value="5" type="hidden">
@@ -63,12 +95,28 @@ function setOASFromSection(section)
             OAS_sitepage = 'www.hitched.co.uk/shop';
             break;
 
+        case 'BOTTOM':
+            OAS_sitepage = 'www.hitched.co.uk/wedgifts/bottom';
+            break;
+
+        case 'WRAPIT':
+            OAS_sitepage = 'www.hitched.co.uk/wedgifts/wrap';
+            break;
+
+        case 'LEWIS':
+            OAS_sitepage = 'www.hitched.co.uk/wedgifts/johnlewis';
+            break;
+
         case 'FASHION':
             OAS_sitepage = 'www.hitched.co.uk/fashion';
             break;
 
         case 'SUPPLIER':
             OAS_sitepage = 'www.hitched.co.uk/supplier';
+            break;
+
+        case 'B2B':
+            OAS_sitepage = 'www.hitched.co.uk/B2B';
             break;
 
         default:
@@ -78,7 +126,13 @@ function setOASFromSection(section)
 }
 
 //configuration
-OAS_url ='http://oas.hitched.co.uk/RealMedia/ads/';
+
+var currentURL = window.location.href
+if(currentURL.indexOf("https")>-1)
+    OAS_url ='https://oas.hitched.co.uk/RealMedia/ads/';
+else
+    OAS_url ='http://oas.hitched.co.uk/RealMedia/ads/';
+    
 OAS_listpos = 'Bottom,Top';
 OAS_query = '?';
 
@@ -137,6 +191,15 @@ if(BannerSectionOverride == "")
     if(location.pathname.indexOf('gift') > -1)
         setOASFromSection("WEDGIFTS");
 
+    if(location.pathname.indexOf('wrapit.aspx') > -1)
+        setOASFromSection("WRAPIT");
+
+    if(location.pathname.indexOf('bottomdrawer.aspx') > -1)
+        setOASFromSection("BOTTOM");
+
+    if(location.pathname.indexOf('johnlewis.aspx') > -1)
+        setOASFromSection("LEWIS");
+
     if(location.pathname.indexOf('register') > -1)
         setOASFromSection("REGISTER");
 
@@ -151,6 +214,16 @@ if(BannerSectionOverride == "")
 
     if(location.pathname.indexOf('suppliers') > -1)
         setOASFromSection("SUPPLIERS");
+
+    if(location.pathname.indexOf('admin') > -1)
+        setOASFromSection("B2B");
+
+    if(location.pathname.indexOf('supplier/') > -1)
+        setOASFromSection("B2B");
+
+    if(location.pathname.indexOf('admin/thanks.aspx') > -1)
+        setOASFromSection("VENUES");
+
 }
 else
 {
@@ -182,6 +255,10 @@ document.write('<SC'+'RIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_m
  <!-- 
  document.write('');
 function OAS_AD(pos) {
+var thisURL = window.location.href
+if(thisURL.indexOf("https")>-1)
+    return;
+
 if (OAS_version >= 11 && typeof(OAS_RICH)!='undefined')
   OAS_RICH(pos);
 else
@@ -213,7 +290,7 @@ else
                                             <!--
                                             OAS_AD('Top');
                                             //-->
-                                            </script><a href="http://oas.hitched.co.uk/RealMedia/ads/click_nx.ads/www.hitched.co.uk/ros/1999969714@Bottom,Top,x01,x02,x03,x04,x05!Top?" target="_top"><img src="http://oas.hitched.co.uk/RealMedia/ads/adstream_nx.ads/www.hitched.co.uk/ros/1999969714@Bottom,Top,x01,x02,x03,x04,x05!Top?" border="0" alt="Click!"></a>
+                                            </script>
                                     </p>
                                 </td>
                                 <td width="5px">
@@ -295,14 +372,14 @@ else
 	<li id="ulitem0z1z0"><a href="/wedstore/erol.html?13291x0" id="ulaitem0z1z0">Albums &amp; guestbooks</a></li>
 	<li id="ulitem0z1z1"><a href="/wedstore/erol.html?13319x0" id="ulaitem0z1z1">Cones &amp; petals</a></li>
 	<li id="ulitem0z1z2"><a href="/wedstore/erol.html?13462x0" id="ulaitem0z1z2">Cufflinks</a></li>
-	<li id="ulitem0z1z3"><a href="/wedstore/erol.html?13505x0" id="ulaitem0z1z3">Diamante words</a></li>
-	<li id="ulitem0z1z4"><a href="/wedstore/erol.html?13530x0" id="ulaitem0z1z4">Favour boxes, bags and ribbon</a></li>
+	<li id="ulitem0z1z3"><a href="/wedstore/erol.html?13530x0" id="ulaitem0z1z3">Favour boxes, bags and ribbon</a></li>
+	<li id="ulitem0z1z4"><a href="/wedstore/erol.html?15730x0" id="ulaitem0z1z4">Invitations &amp; Stationery</a></li>
 	<li id="ulitem0z1z5"><a href="/wedstore/erol.html?13774x0" id="ulaitem0z1z5">Place cards &amp; table help</a></li>
 	<li id="ulitem0z1z6"><a href="/wedstore/erol.html?13820x0" id="ulaitem0z1z6">Sparklers</a></li>
 	<li id="ulitem0z1z7"><a href="/wedstore/erol.html?13861x0" id="ulaitem0z1z7">Stag &amp; hen props</a></li>
 	<li id="ulitem0z1z8"><a href="/wedstore/erol.html?14573x0" id="ulaitem0z1z8">Thank you gifts</a></li>
-	<li id="ulitem0z1z9"><a href="/wedstore/erol.html?14001x0" id="ulaitem0z1z9">Wax seals</a></li>
-	<li id="ulitem0z1z10"><a href="/wedstore/erol.html?1x0" id="ulaitem0z1z10">More Products</a></li>
+	<li id="ulitem0z1z9"><a href="/wedstore/erol.html?14001x0" id="ulaitem0z1z9">Wax seals &amp; Calligraphy</a></li>
+	<li id="ulitem0z1z10"><a href="/wedstore/erol.html?1x0" id="ulaitem0z1z10">More Products...</a></li>
 	<li id="ulitem0z1z11"><a href="/wedstore/erol.html?1x0" id="ulaitem0z1z11">SPECIAL OFFERS</a></li>
 	</ul></div></div></li>
 
@@ -322,18 +399,18 @@ else
 	<div class="imsc"><div class="imsubc" style="width:150px;top:0px;left:0px;"><ul style="" id="x1ub0z3">
 	<li id="ulitem0z3z0"><a href="/suppliers/supplierhome.aspx#category" id="ulaitem0z3z0">Search by Category ...</a></li>
 	<li id="ulitem0z3z1"><a href="/suppliers/supplierhome.aspx#county" id="ulaitem0z3z1">Search by County ...</a></li>
-	<li id="ulitem0z3z2"><a href="/suppliers/results_svc.asp?svc=18" id="ulaitem0z3z2">Beauty, Hair &amp; Make Up</a></li>
-	<li id="ulitem0z3z3"><a href="/suppliers/results_svc.asp?svc=27" id="ulaitem0z3z3">Catering</a></li>
-	<li id="ulitem0z3z4"><a href="/suppliers/results_svc.asp?svc=46" id="ulaitem0z3z4">Chocolate fountains</a></li>
+	<li id="ulitem0z3z2"><a href="/weddingsuppliers_Category-Beauty, Hair &amp; Make Up-4" id="ulaitem0z3z2">Beauty, Hair &amp; Make Up</a></li>
+	<li id="ulitem0z3z3"><a href="/weddingsuppliers_Category-Catering Services-11" id="ulaitem0z3z3">Catering</a></li>
+	<li id="ulitem0z3z4"><a href="/weddingsuppliers_Category-Chocolate Fountains-14" id="ulaitem0z3z4">Chocolate fountains</a></li>
 	<li id="ulitem0z3z5"><a href="/fireworks/" id="ulaitem0z3z5">Fireworks</a></li>
-	<li id="ulitem0z3z6"><a href="/suppliers/results_svc.asp?svc=17" id="ulaitem0z3z6">Florists</a></li>
-	<li id="ulitem0z3z7"><a href="/suppliers/results_svc.asp?svc=10" id="ulaitem0z3z7">Music and DJ's</a></li>
-	<li id="ulitem0z3z8"><a href="/suppliers/results_svc.asp?svc=3" id="ulaitem0z3z8">Photography</a></li>
-	<li id="ulitem0z3z9"><a href="/suppliers/results_svc.asp?svc=9" id="ulaitem0z3z9">Transport</a></li>
-	<li id="ulitem0z3z10"><a href="/suppliers/results_svc.asp?svc=13" id="ulaitem0z3z10">Videography</a></li>
-	<li id="ulitem0z3z11"><a href="/suppliers/results_svc.asp?svc=52" id="ulaitem0z3z11">Video Guestbooks</a></li>
+	<li id="ulitem0z3z6"><a href="/weddingsuppliers_Category-Florists-22" id="ulaitem0z3z6">Florists</a></li>
+	<li id="ulitem0z3z7"><a href="/weddingsuppliers_Category-Music and DJs-31" id="ulaitem0z3z7">Music and DJ's</a></li>
+	<li id="ulitem0z3z8"><a href="/weddingsuppliers_Category-Photographers-33" id="ulaitem0z3z8">Photography</a></li>
+	<li id="ulitem0z3z9"><a href="/weddingsuppliers_Category-Transportation-39" id="ulaitem0z3z9">Transport</a></li>
+	<li id="ulitem0z3z10"><a href="/weddingsuppliers_Category-Video Services-42" id="ulaitem0z3z10">Videography</a></li>
+	<li id="ulitem0z3z11"><a href="/weddingsuppliers_Category-Video Guestbooks-41" id="ulaitem0z3z11">Video Guestbooks</a></li>
 	<li id="ulitem0z3z12"><a href="/suppliers/supplierhome.aspx" id="ulaitem0z3z12"><strong>More categories ...</strong></a></li>
-	<li id="ulitem0z3z13"><a href="/directory/add/index.asp" id="ulaitem0z3z13">I want to be listed!</a></li>
+	<li id="ulitem0z3z13"><a href="/suppliers/index.asp" id="ulaitem0z3z13">I want to be listed!</a></li>
 	</ul></div></div></li>
 
 <li class="imatm" style="width:89px;" id="ulitem0z4"><a href="/fashion/fashionhome.aspx" id="ulaitem0z4"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z4"></span></span>fashion</a>
@@ -405,18 +482,20 @@ else
 <li class="imatm" style="width:89px;" id="ulitem0z9"><a href="/giftlist/giftlisthome.aspx" id="ulaitem0z9"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z9"></span></span>gift list</a>
 
 	<div class="imsc"><div class="imsubc" style="width:150px;top:0px;left:0px;"><ul style="" id="x1ub0z9">
-	<li id="ulitem0z9z0"><a href="/giftlist/wrapit.aspx" id="ulaitem0z9z0">Wrapit</a></li>
-	<li id="ulitem0z9z1"><a href="/giftlist/bottomdrawer.aspx" id="ulaitem0z9z1">Bottom Drawer</a></li>
+	<li id="ulitem0z9z0"><a href="/giftlist/bottomdrawer.aspx" id="ulaitem0z9z0">Bottom Drawer</a></li>
+	<li id="ulitem0z9z1"><a href="/giftlist/denby.aspx" id="ulaitem0z9z1">Denby</a></li>
+	<li id="ulitem0z9z2"><a href="/giftlist/johnlewis.aspx" id="ulaitem0z9z2">John Lewis</a></li>
+	<li id="ulitem0z9z3"><a href="/giftlist/wrapit.aspx" id="ulaitem0z9z3">Wrapit</a></li>
 	</ul></div></div></li>
 
 
-<li class="imatm" style="width:89px;" id="ulitem0z10"><a href="/register/index.asp" id="ulaitem0z10"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z10"></span></span>member area</a>
+<li class="imatm" style="width:89px;" id="ulitem0z10"><a href="/admin/register.aspx" id="ulaitem0z10"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z10"></span></span>member area</a>
 
 	<div class="imsc"><div class="imsubc" style="width:150px;top:0px;left:-60px;"><ul style="" id="x1ub0z10">
-	<li id="ulitem0z10z0"><a href="/register/index.asp" id="ulaitem0z10z0">Register</a></li>
+	<li id="ulitem0z10z0"><a href="/admin/register.aspx" id="ulaitem0z10z0">Register</a></li>
 	<li id="ulitem0z10z1"><a href="/register/justlogin.asp" id="ulaitem0z10z1">Login</a></li>
 	<li id="ulitem0z10z2"><a href="/sbforum/default.asp" id="ulaitem0z10z2">Discussion forum</a></li>
-	<li id="ulitem0z10z3"><a href="/register/index.asp" id="ulaitem0z10z3">My profile</a></li>
+	<li id="ulitem0z10z3"><a href="/admin/register.aspx" id="ulaitem0z10z3">My profile</a></li>
 	<li id="ulitem0z10z4"><a href="/register/change_username.asp" id="ulaitem0z10z4">Change username</a></li>
 	<li id="ulitem0z10z5"><a href="/weddings/personalwedsite.asp" id="ulaitem0z10z5">My wedding site</a></li>
 	<li id="ulitem0z10z6"><a href="/register/photos/upload.asp" id="ulaitem0z10z6">Member photo</a></li>
@@ -521,7 +600,7 @@ function OpenFullPopup(url)
             <p align="center">
                 
 <font color="#380061" face="Trebuchet MS" size="1">
-    19 December 2007
+    08 May 2008
 </font>
               <table style="width:140px;">
                     <tbody><tr align="center">
@@ -579,7 +658,7 @@ function clicked()
                     </td>
                 </tr>
                 <tr><td align="left">
-                    <font color="#684d79" face="Trebuchet MS" size="1"><a class="lhnavInfo" href="/register/index.asp" title="Register Now" target="_top">&gt;&gt;Register now</a></font><br>
+                    <font color="#684d79" face="Trebuchet MS" size="1"><a class="lhnavInfo" href="/admin/register.aspx" title="Register Now" target="_top">&gt;&gt;Register now</a></font><br>
                     <font color="#684d79" face="Trebuchet MS" size="1"><a class="lhnavInfo" href="/planning/13steps.aspx" title="Whats next guide" target="_top">&gt;&gt;What's next guide</a></font> <font color="#684d79" face="Trebuchet MS" size="1">
                             <br>
                             <a class="lhnavInfo" href="/admin/sitemap.aspx" title="Site map" target="_top">&gt;&gt;Site map</a></font>
@@ -613,7 +692,7 @@ function clicked()
                 </tr>
                 <tr>
 		<td align="left">
-                    <font color="#2a0e3e" face="Trebuchet MS" size="1"><a class="lhnavInfo" href="/register/index.asp" title="Sign up to my hitched now!" target="_top">&gt;&gt;Simply sign up now!</a></font>
+                    <font color="#2a0e3e" face="Trebuchet MS" size="1"><a class="lhnavInfo" href="/admin/register.aspx" title="Sign up to my hitched now!" target="_top">&gt;&gt;Simply sign up now!</a></font>
                 </td>
                 </tr>
                 <tr>
@@ -679,7 +758,7 @@ function clicked()
                         <tbody><tr><td><img border="0" src="/templates/images/spacer2.gif" width="15" height="3" alt=""></td></tr>
                         <tr>
                             <td style="width: 640px" align="left" valign="top">
-                            <span id="ctl00_ctl00_sitemap" class="tblfgpurple"><a href="#ctl00_ctl00_sitemap_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=A2_TqGNKYzhBmC1blP_xDg2&amp;t=633205721242279287" border="0"></a><span><a title="Home page" href="/default.aspx">Home</a></span><span> &gt; </span><span>privacy</span><a id="ctl00_ctl00_sitemap_SkipLink"></a></span>
+                            <span id="ctl00_ctl00_sitemap" class="tblfgpurple"><a href="#ctl00_ctl00_sitemap_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=sjZHGdnse4vce4657crGPA2&amp;t=633300545865259439" border="0"></a><span><a title="Home page" href="/default.aspx">Home</a></span><span> &gt; </span><span>privacy</span><a id="ctl00_ctl00_sitemap_SkipLink"></a></span>
                             
                                 <br>
                                 
@@ -793,31 +872,31 @@ function clicked()
 <td width="10px" valign="top">&nbsp;</td>
 <td width="100%" valign="top">
 <p align="center">
-<a href="http://oas.hitched.co.uk/RealMedia/ads/click_nx.ads/www.hitched.co.uk/ros/1999969714@Bottom,Top,x01,x02,x03,x04,x05!x01?" target="_top"><img src="http://oas.hitched.co.uk/RealMedia/ads/adstream_nx.ads/www.hitched.co.uk/ros/1999969714@Bottom,Top,x01,x02,x03,x04,x05!x01?" border="0" alt="Click!"></a></p></td><td width="10px" valign="top">&nbsp;
+</p></td><td width="10px" valign="top">&nbsp;
 </td></tr><tr><td colspan="3" style="height: 10px"></td></tr>
 <tr>
 <td width="10px" valign="top">&nbsp;</td>
 <td width="100%" valign="top">
 <p align="center">
-<a href="http://oas.hitched.co.uk/RealMedia/ads/click_nx.ads/www.hitched.co.uk/ros/1999969714@Bottom,Top,x01,x02,x03,x04,x05!x02?" target="_top"><img src="http://oas.hitched.co.uk/RealMedia/ads/adstream_nx.ads/www.hitched.co.uk/ros/1999969714@Bottom,Top,x01,x02,x03,x04,x05!x02?" border="0" alt="Click!"></a></p></td><td width="10px" valign="top">&nbsp;
+</p></td><td width="10px" valign="top">&nbsp;
 </td></tr><tr><td colspan="3" style="height: 10px"></td></tr>
 <tr>
 <td width="10px" valign="top">&nbsp;</td>
 <td width="100%" valign="top">
 <p align="center">
-<a href="http://oas.hitched.co.uk/RealMedia/ads/click_nx.ads/www.hitched.co.uk/ros/1999969714@Bottom,Top,x01,x02,x03,x04,x05!x03?" target="_top"><img src="http://oas.hitched.co.uk/RealMedia/ads/adstream_nx.ads/www.hitched.co.uk/ros/1999969714@Bottom,Top,x01,x02,x03,x04,x05!x03?" border="0" alt="Click!"></a></p></td><td width="10px" valign="top">&nbsp;
+</p></td><td width="10px" valign="top">&nbsp;
 </td></tr><tr><td colspan="3" style="height: 10px"></td></tr>
 <tr>
 <td width="10px" valign="top">&nbsp;</td>
 <td width="100%" valign="top">
 <p align="center">
-<a href="http://oas.hitched.co.uk/RealMedia/ads/click_nx.ads/www.hitched.co.uk/ros/1999969714@Bottom,Top,x01,x02,x03,x04,x05!x04?" target="_top"><img src="http://oas.hitched.co.uk/RealMedia/ads/adstream_nx.ads/www.hitched.co.uk/ros/1999969714@Bottom,Top,x01,x02,x03,x04,x05!x04?" border="0" alt="Click!"></a></p></td><td width="10px" valign="top">&nbsp;
+</p></td><td width="10px" valign="top">&nbsp;
 </td></tr><tr><td colspan="3" style="height: 10px"></td></tr>
 <tr>
 <td width="10px" valign="top">&nbsp;</td>
 <td width="100%" valign="top">
 <p align="center">
-<a href="http://oas.hitched.co.uk/RealMedia/ads/click_nx.ads/www.hitched.co.uk/ros/1999969714@Bottom,Top,x01,x02,x03,x04,x05!x05?" target="_top"><img src="http://oas.hitched.co.uk/RealMedia/ads/adstream_nx.ads/www.hitched.co.uk/ros/1999969714@Bottom,Top,x01,x02,x03,x04,x05!x05?" border="0" alt="Click!"></a></p></td><td width="10px" valign="top">&nbsp;
+</p></td><td width="10px" valign="top">&nbsp;
 </td></tr><tr><td colspan="3" style="height: 10px"></td></tr>
 </tbody></table>
 
@@ -842,7 +921,7 @@ function clicked()
                     | <a href="http://press.hitched.co.uk" class="footer">Press</a> | <a href="/admin/cou.aspx" class="footer">Conditions of use</a>| <a href="/admin/privacy.aspx" class="footer">Privacy
                             policy</a> | <strong><a href="/admin/feedback.aspx" class="footer">Contact us</a></strong><br>
                     <span class="footer">Copyright © 1997 -
-                        2007
+                        2008
                         Hitched Ltd All rights reserved. </span>
                 </div>
                 
@@ -867,7 +946,7 @@ function clicked()
                     <!--
                     OAS_AD('Bottom');
                     //-->
-                </script><a href="http://oas.hitched.co.uk/RealMedia/ads/click_nx.ads/www.hitched.co.uk/ros/1999969714@Bottom,Top,x01,x02,x03,x04,x05!Bottom?" target="_top"><img src="http://oas.hitched.co.uk/RealMedia/ads/adstream_nx.ads/www.hitched.co.uk/ros/1999969714@Bottom,Top,x01,x02,x03,x04,x05!Bottom?" border="0" alt="Click!"></a>
+                </script>
                 <!-- OAS AD 'Bottom' end -->
                 </div>
 
@@ -915,8 +994,8 @@ function clicked()
             </tr>
         </tbody></table>
     
-<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="px1veNqIt-eml5yr7nZAFmXYqCMTBF5xMUVCRDopZms1">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgL5hsLNDgL3o/OmAWdoy0+dyw0X02FlJrwwLWIxML2O"></form>
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="dfotNuujlkxYeciRPh-YAHIcYTcCIMeEeBRs8EzNPYw1">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLp7KD5BQL3o/OmAWy6zMwuiFGqK7oA+ArOwwv0n2H1"></form>
     </center>
     <script type="text/javascript" src="/templates/javascript/chrisdomroll.js">
         /****************************************************
@@ -935,8 +1014,12 @@ function clicked()
     _uacct = "UA-470321-2";
     urchinTracker();
     </script>
-    <script language="javascript" src="/templates/javascript/bannersubsite.js" type="text/javascript"></script><script language="JavaScript" src="http://mediauk.247realmedia.com/RealMedia/ads/adstream_jx.ads/hitched.co.uk/1438294273@Position1"></script>
+    <script language="javascript" src="/templates/javascript/bannersubsite.js" type="text/javascript"></script><script language="JavaScript" src="http://mediauk.247realmedia.com/RealMedia/ads/adstream_jx.ads/hitched.co.uk/1500335286@Position1"></script>
 
+    <script type="text/javascript" language="javascript">
+        flag=1;
+        testLoaded();
+    </script>  
     
 
 
