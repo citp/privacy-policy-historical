@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-onsoftware.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214183013id_/http%3A//www.e-onsoftware.com/about/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-onsoftware.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507131526id_/http%3A//www.e-onsoftware.com/about/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # e-on software - E-on Software
 
