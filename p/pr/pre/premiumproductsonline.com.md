@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumproductsonline.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202064550id_/http%3A//www.premiumproductsonline.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D848name) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumproductsonline.com privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507141034id_/http%3A//premiumproductsonline.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D848name) for the most accurate reproduction.*
 
 # Help Desk
 
