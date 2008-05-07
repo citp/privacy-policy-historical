@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insightexpress.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221041527id_/http%3A//www.insightexpress.com/main.asp%3FpageID%3D143) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightexpress.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508012452id_/http%3A//www.insightexpress.com/main.asp%3FpageID%3D143) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -7,7 +7,7 @@ InsightExpress, LLC (http://www.InsightExpress.com) abides by the principles set
 [](http://www.truste.org/ivalidate.php?url=www.insightexpress.com&sealid=102)
 
 Privacy Overview  
-InsightExpress (http://www.InsightExpress.com) believes in and respects your privacy and the sanctity of information that may be provided. Further, as members of the ARF, CASRO, and ESOMAR, the US and International associations of market research professionals, we believe the use of information should be outlined for you as we have done so below. Additionally, InsightExpress is in compliance with HIPPA and COPPA privacy guidelines. InsightExpress is committed to respecting your privacy.
+InsightExpress (http://www.InsightExpress.com) believes in and respects your privacy and the sanctity of information that may be provided. Further, as members of the ARF and CASRO, the North America associations of market research professionals, we believe the use of information should be outlined for you as we have done so below. Additionally, InsightExpress is in compliance with HIPPA and COPPA privacy guidelines. InsightExpress is committed to respecting your privacy.
 
 The information we collect is typically used in aggregate form to help companies understand marketplace needs as well as to create and deliver better products and services. We do not sell or rent any personally identifiable information.
 
