@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tigerdirect.ca privacy policy that was archived on 2007-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071228231717id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tigerdirect.ca privacy policy that was archived on 2008-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080507062027id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy at TigerDirect.ca</title>
@@ -24,10 +24,22 @@ table.helpHeader td {
 }
 -->
 </style>
-
+<script language="javascript">
+	<!-- 
+		function optpop() {
+		    var href='http://www.tigerdirect.ca/sectors/privacy/cmopt.asp';
+			var cmopt=window.open(href,
+			'anim',
+			'toolbar=no,location=no,directories=no,' + 
+			'menubar=no,scrollbars=yes,resizable=yes,toolbar=no,' + 
+			'copyhistory=no,width=620,height=350,screenX=4,screenY=4,top=4,left=4');
+			cmopt.focus();
+		}
+	// -->
+</script>
 
 </head>
-<body bgcolor="#FFFFFF">
+<body>
  
 
 <script language="JavaScript" type="text/JavaScript">
@@ -44,57 +56,98 @@ function setParentCartTotal(total){
    if(document.getElementById("cart_total"))
       document.getElementById("cart_total").innerHTML = total;
 }
+function chkSrch(fld){
+  if (fld.value == 'Keyword or Item #' || fld.value == '')
+  {
+      alert('Please enter search keyword(s) and try again.'); 
+      fld.focus();
+      return false;
+  } else {
+  return true;
+  }
+}
+function chkEml(fld){
+  var filter=/^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([\w-]+(?:\.[\w-]+)*)$/i
+  if (fld.value == 'Deal Alerts: Enter Your Email' || fld.value == '' )
+  {
+      alert('Please enter your e-mail address in the Box'); 
+      fld.focus();
+      return false;
+  } else if (filter.test(fld.value) == false)  { 
+      alert('Sorry, please enter a valid e-mail address, for example, johnsmith@gmail.com'); 
+      fld.focus(); 
+      return false;
+  } else {
+  return true;
+  }
+}
 </script>
 
 <style type="text/css">
 BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/mastheadBG3x2400ca3.gif'); background-repeat:repeat }
-.divMH { background-color: #184584}
-.divNav { background-color: #D4D4D4}
+.divNav {
+	background-color: #D4D4D4;
+}
 .divSearch { background-image: url('http://images.tigerdirect.ca/mastheadClean/searchBG.gif');background-repeat: repeat}
 .b2bmsgs {font-family: Arial, Helvetica, sans-serif; font-size: 10px; margin-top:4px;}
+.divMH {
+	margin-bottom: -1px;
+}
+.caBanners {
+	float: right;
+	padding-right: 157px;
+}
+#divEmail {
+	float: left;
+	padding-left: 20px;
+	padding-right: 10px;
+}
 </style>
 <!-- Masthead Container 1 -->
+<div id="MH" style="height:67px; width:940px;" class="divMH">
 
-<div id="MH" style="height:66px; width:940px;" class="divMH">
+
   <div style="float:left"><a href="http://www.tigerdirect.ca"><img src="http://images.tigerdirect.ca/masthead-ca/logo2.gif" alt="TigerDirect.ca Home Page" width="236" height="46" border="0" align="absmiddle"></a><img src="http://images.tigerdirect.ca/mastheadus/phone.gif" width="133" height="32" align="absmiddle" style="margin-left: 5px;"><br>
     <span class="font_size2" style="margin-left:11px;"><font color="#FFFFFF">Shop for Computers, Electronics, LCDs, Plasmas, Parts and Accessories!</font></span></div>
-  
-  <div style="float:left; padding-left:88px; padding-top:3px"><a href="/applications/campaigns/campaigntemplate.asp?CampaignID=424"><img src="http://images.tigerdirect.ca/siteBanners/boxweek_300x60.jpg" alt="Boxing Week 2007" width="300" height="60" border="0"></a> 
+<div class="caBanners" style="padding-top:2px; padding-left:88px;">
+<a href="/sectors/shipping/index.asp"><img src="http://images.tigerdirect.ca/sitebanners/freeshipping_300x60.jpg" width="300" height="60" border="0"></a>
   </div>
-  
+			
+
+
 </div>
 <!-- Masthead Container 2 -->
 
-<div id="Nav" style="height:32px; width:945px;" class="divNav"><a href="/sectors/computers/index.asp"><img src="http://images.tigerdirect.ca/mastheadClean/masthead_06.gif" alt="Computers" width="81" height="33" border="0"></a><a href="/sectors/electronics/index.asp"><img src="http://images.tigerdirect.ca/mastheadClean/masthead_07.gif" alt="Electronics" width="79" height="33" border="0"></a><a href="/sectors/pccomponents/index.asp"><img src="http://images.tigerdirect.ca/mastheadClean/masthead_08.gif" alt="PC Components" width="105" height="33" border="0"></a><a href="/sectors/accessories/index.asp"><img src="http://images.tigerdirect.ca/mastheadClean/masthead_09.gif" alt="Accessories" width="83" height="33" border="0"></a><a href="/applications/campaigns/campaigntemplate.asp?CampaignID=390"><img src="http://images.tigerdirect.ca/mastheadClean/masthead_sweeps.gif" alt="Sweepstakes" width="83" height="33" border="0"></a><a href="/applications/campaigns/campaigntemplate.asp?CampaignID=253"><img src="http://images.tigerdirect.ca/mastheadClean/masthead_11a.jpg" alt="Specials" width="70" height="33" border="0"></a><a href="https://www.tigerdirect.ca/secure/orderlogin.asp?PG=1"><img src="http://images.tigerdirect.ca/mastheadClean/myAccount.gif" alt="My Account" width="81" height="33" border="0"></a><a href="https://www.tigerdirect.ca/cgisec/orderTrack.asp"><img src="http://images.tigerdirect.ca/mastheadClean/trackMyOrder.gif" alt="Track My Order" width="100" height="33" border="0"></a><a href="/sectors/help/index.asp"><img src="http://images.tigerdirect.ca/mastheadClean/help.gif" alt="Help" width="40" height="33" border="0"></a><a href="/sectors/Rebates/index.asp"><img src="http://images.tigerdirect.ca/mastheadClean/rebate.gif" width="60" height="33" border="0"></a><a href="https://www.tigerdirect.ca/secure/b2blogin.asp"><img src="http://images.tigerdirect.ca/mastheadClean/masthead_12.gif" alt="Business, Government and Educational Sales" width="163" height="33" border="0"></a></div>
+<div id="Nav" style="height:32px; width:945px;" class="divNav"><a href="/sectors/computers/index.asp"><img src="http://images.tigerdirect.ca/mastheadClean/masthead_06.gif" alt="Computers" width="81" height="33" border="0"></a><a href="/sectors/electronics/index.asp"><img src="http://images.tigerdirect.ca/mastheadClean/masthead_07.gif" alt="Electronics" width="79" height="33" border="0"></a><a href="/sectors/pccomponents/index.asp"><img src="http://images.tigerdirect.ca/mastheadClean/masthead_08.gif" alt="PC Components" width="105" height="33" border="0"></a><a href="/sectors/accessories/index.asp"><img src="http://images.tigerdirect.ca/mastheadClean/masthead_09.gif" alt="Accessories" width="83" height="33" border="0"></a><a href="/applications/campaigns/campaigntemplate.asp?CampaignID=271"><img src="http://images.tigerdirect.ca/mastheadClean/masthead_whatsnew.gif" alt="What's New" width="83" height="33" border="0"></a><a href="/applications/campaigns/campaigntemplate.asp?CampaignID=253"><img src="http://images.tigerdirect.ca/mastheadClean/masthead_11a.jpg" alt="Specials" width="70" height="33" border="0"></a><a href="https://www.tigerdirect.ca/secure/orderlogin.asp?PG=1"><img src="http://images.tigerdirect.ca/mastheadClean/myAccount.gif" alt="My Account" width="81" height="33" border="0"></a><a href="https://www.tigerdirect.ca/cgisec/orderTrack.asp"><img src="http://images.tigerdirect.ca/mastheadClean/trackMyOrder.gif" alt="Track My Order" width="100" height="33" border="0"></a><a href="/sectors/help/index.asp"><img src="http://images.tigerdirect.ca/mastheadClean/help.gif" alt="Help" width="40" height="33" border="0"></a><a href="/sectors/Rebates/index.asp"><img src="http://images.tigerdirect.ca/mastheadClean/rebate.gif" width="60" height="33" border="0"></a><a href="https://www.tigerdirect.ca/secure/b2blogin.asp"><img src="http://images.tigerdirect.ca/mastheadClean/masthead_12.gif" alt="Business, Government and Educational Sales" width="163" height="33" border="0"></a></div>
 <!-- ClearPixel -->
 <img src="http://images.tigerdirect.ca/main/pixel-clr.gif" height="2" width="1"><img src="http://images.tigerdirect.ca/main/pixel-clr.gif" height="2" width="1"><br>
 <!-- Masthead Container 3 -->
 <div id="Sub" style="height:39px; width:1175px; padding-top:1px;" class="divSub">
-  <div style="width:64px; float:left"><img src="http://images.tigerdirect.ca/mastheadClean/searchIcon.gif" width="64" height="38"></div>
+  <div style="width:90px; float:left; padding-left:3px"><span class="font_size2"><img src="http://images.tigerdirect.ca/mastheadClean/searchIconNew.gif" width="90" height="38"></span></div>
 <!-- SearchBox -->
 <div style="float:left">
-<form action="http://www.tigerdirect.ca/applications/SearchTools/search.asp" name="searchFRM">
-<div style="width:153px; height:37px; float:left" class="divSearch"><div style="padding-top:9px; padding-left:2px;">
+<form action="http://www.tigerdirect.ca/applications/SearchTools/search.asp" name="searchFRM" onsubmit="return chkSrch(this.keywords)">
+<div style="width:130px; height:37px; float:left" class="divSearch"><div style="padding-top:10px; padding-left:2px;">
 		<script language="javascript">
-		 if (navigator.appName == "Netscape") {
-								 document.write("<input type=\"text\" name=\"keywords\" style=\"border: 0px; padding-left: 2px; padding-right: 2px; font: 8pt Arial; height: 19px;\" size=\"23\"")
-								 document.write(" onfocus=\"if(this.value=='Enter Your Keyword Search')this.value='';\" onblur=\"if(this.value=='')this.value='Enter Your Keyword Search';\"")
-								 document.write(" value=\"Enter Your Keyword Search\">")
+							 if (navigator.appName == "Netscape") {
+								 document.write("<input type=\"text\" name=\"keywords\" style=\"border: 0px; padding-left: 2px; padding-right: 2px; font: 8pt Arial; height: 19px;\" size=\"18\"")
+								 document.write(" onfocus=\"if(this.value=='Keyword or Item #')this.value='';\" onblur=\"if(this.value=='')this.value='Keyword or Item #';\"")
+								 document.write(" value=\"Keyword or Item #\">")
 							 } 
 							 else {
-								 document.write("<input type=\"text\" name=\"keywords\" style=\"border: 0px; padding-left: 2px; padding-right: 2px; font: 8pt Arial; height: 19px;\" size=\"23\"")
-				                 document.write(" onfocus=\"if(this.value=='Enter Your Keyword Search')this.value='';\" onblur=\"if(this.value=='')this.value='Enter Your Keyword Search';\"")
-								 document.write(" value=\"Enter Your Keyword Search\">")		
+								 document.write("<input type=\"text\" name=\"keywords\" style=\"border: 0px; padding-left: 2px; padding-right: 2px; font: 8pt Arial; height: 19px;\" size=\"18\"")
+				                 document.write(" onfocus=\"if(this.value=='Keyword or Item #')this.value='';\" onblur=\"if(this.value=='')this.value='Keyword or Item #';\"")
+								 document.write(" value=\"Keyword or Item #\">")		
 							 }
-		</script><input type="text" name="keywords" style="border: 0px; padding-left: 2px; padding-right: 2px; font: 8pt Arial; height: 19px;" size="23" onfocus="if(this.value=='Enter Your Keyword Search')this.value='';" onblur="if(this.value=='')this.value='Enter Your Keyword Search';" value="Enter Your Keyword Search"></div></div>
+							</script><input type="text" name="keywords" style="border: 0px; padding-left: 2px; padding-right: 2px; font: 8pt Arial; height: 19px;" size="18" onfocus="if(this.value=='Keyword or Item #')this.value='';" onblur="if(this.value=='')this.value='Keyword or Item #';" value="Keyword or Item #"></div></div>
 <div style="width:34px; height:39px; float:left">
         <input name="image12" type="image" id="image12" style="border: 0" src="http://images.tigerdirect.ca/mastheadClean/goSearch.gif" alt="Search" align="absmiddle" width="34" height="38" border="0" alt:"search"="">
       </div></form></div>
   <!-- Deal Alerts -->
-  <div style="float:left">
-<form name="subscribe" method="post" action="http://www.tigerdirect.ca/applications/email/d_subscribe.asp">
-      <div style="width:37px; height:38px; float:left"><img src="http://images.tigerdirect.ca/mastheadClean/tagIcon1.gif" width="37" height="38"></div> 
-<div style="width:150px; height:39px; float:left" class="divSearch">
+  <div id="divEmail">
+<form name="subscribe" method="post" action="http://www.tigerdirect.ca/applications/email/d_subscribe.asp" onsubmit="return chkEml(this.email)">
+      <div style="width:37px; height:37px; float:left"><img src="http://images.tigerdirect.ca/mastheadClean/tagIcon1.gif" width="37" height="38"></div> 
+<div style="width:150px; height:38px; float:left" class="divSearch">
 <div style="padding-top:10px; padding-left:2px; float:left">
         <script language="javascript">
 		if (navigator.appName == "Netscape") {
@@ -113,7 +166,7 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
         <input type="hidden" name="listcode2" value="MH"><input type="hidden" name="LyrisType2" value="SUBSCRIBE"></div></form>
 </div>
 <!-- Cart Count -->
-  <div style="width:120px; height:39px; float:left"><a href="/applications/MyAccount/subscribe.asp?pg=/Specials/index.asp"><img src="http://images.tigerdirect.ca/mastheadClean/freeCatButton.gif" alt="Free Catalog" width="98" height="38" border="0"></a></div>
+  <div style="width:120px; height:39px; float:left; padding-left:10px"><a href="/applications/MyAccount/subscribe.asp?pg=/Specials/index.asp"><img src="http://images.tigerdirect.ca/mastheadClean/freeCatButton.gif" alt="Free Catalog" width="98" height="38" border="0"></a></div>
   <div style="width:32px; height:39px; float:left"><a href="http://www.tigerdirect.ca/cgi-bin/ShoppingCart.asp"><img src="http://images.tigerdirect.ca/mastheadClean/cart2.gif" width="22" height="17" border="0" style="margin-top:2px;"></a></div>
   <div style="width:110px; height:39px; float:left"><div style="padding-top:5px; padding-bottom:2px; float:left" class="font_size2"><font color="#FFFFFF"> 
         <strong><a href="http://www.tigerdirect.ca/cgi-bin/ShoppingCart.asp"><font color="#FFFFFF">My 
@@ -129,7 +182,7 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
         </strong></font></div></div>
 <!-- Account Login --> 
 <div style="height:39px; float:left">
-<div class="b2bmsgs" style="float:left;margin: 4px 0px 0px 10px;">
+<div class="b2bmsgs" style="float:left;margin: 4px 0px 0px 5px;">
 
 </div>
 <!-- Account Login --> 
@@ -145,148 +198,135 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
   <tbody><tr> 
     <td width="140" align="left" valign="top"> 
       
-		<!--- START SCANALERT CODE --->
-		<div align="center">
-		<a target="_blank" href="//www.scanalert.com/RatingVerify?ref=www.tigerdirect.ca">
-		<img width="115" height="32" vspace="3" border="0" src="//images.scanalert.com/meter/www.tigerdirect.ca/12.gif" alt="HACKER SAFE certified sites prevent over 99% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;">
-		</a><br>
-					
-		
-		</div>
-		<!--- END   SCANALERT CODE --->
-		
-		
-		
-		
-		<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#DCE6FB">
-		   <tbody><tr>
-			  
-			<td width="137" nowrap="" class="sidenav_grey" style="padding-left: 4px; padding-right: 4px;"> 
-			  
-				<a title="PC &amp; Computer Accessories" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=1&amp;name=Accessories" class="sidenav_grey">Accessories</a><br>
-				
-				<a title="PC &amp; Computer Barebone Systems" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=31&amp;name=Barebone-Kits" class="sidenav_grey">Barebone 
-				Kits</a><br>
-				<a title="PC &amp; Computer Cables" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=3&amp;name=Cables" class="sidenav_grey">Cables</a><br>
-				<a title="PC &amp; Computer Cases" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=32&amp;name=Computer-Cases" class="sidenav_grey">Computer 
-				Cases</a><br>
-				<a title="Digital Cameras &amp; Digital Video Cameras" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=129&amp;name=Camcorders" class="sidenav_grey">Camcorders</a><br>
-				<a title="CD Burners &amp; DVD Burners" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=4&amp;name=CD-DVD-Burners" class="sidenav_grey">CD 
-				/ DVD Burners</a><br>
-				
-				<a title="Cellular Phones, Prepaid Phones, Ringtones" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=1807" class="sidenav_grey">Cellular 
-				Phones</a><br>
-				
-				<a title="Cellular Accessories, Teleconferencing, VoIP" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=1625&amp;name=Communications" class="sidenav_grey">Communications</a><br>
-				<a title="Computer Parts &amp; Components" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=5&amp;name=Computer-Parts-Components" class="sidenav_grey">Components</a><br>
-				<a title="PC &amp; Computer Cooling" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=99&amp;name=Cooling-Products" class="sidenav_grey">Cooling 
-				Products</a><br>
-				<a title="Intel CPUs, AMD CPUs" href="http://www.tigerdirect.ca/applications/Category/category_cpu.asp?name=CPUs" class="sidenav_grey">CPUs 
-				(Processors)</a><br>
-				<a title="Gaming PCs, Media Center PCs, Mini PCs, Workstations" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=6&amp;name=Desktop-PCs" class="sidenav_grey">Desktop 
-				PCs</a><br>
-				
-				<a title="Digital Cameras &amp; Digital Video Cameras" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=7&amp;name=Digital-Cameras" class="sidenav_grey">Digital 
-				Cameras</a><br>
-				
-				<a title="Digital Photo Frames" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=1623&amp;name=Digital-Photo-Frames" class="sidenav_grey">Digital 
-				Photo Frames</a><br>
-				
-				<a title="Consumer Electronics" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=34&amp;name=Electronics" class="sidenav_grey">Electronics</a><br>
-				<a title="Camera Memory, Compact Flash, Memory Stick, Multimedia Cards" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=36&amp;name=Flash-Memory-Cards" class="sidenav_grey">Flash 
-				Memory Cards</a><br>
-				<a title="PC &amp; Computer Furniture" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=221&amp;name=Furniture" class="sidenav_grey">Furniture</a><br>
-				<a title="PC &amp; Computer Gaming Accessories" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=1373&amp;name=Gaming-Hardware" class="sidenav_grey">Gaming 
-				Hardware</a><br>
-				<a title="Car GPS, Handheld GPS, Marine GPS" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=2372&amp;name=GPS-Navigation" class="sidenav_grey">GPS 
-				/ Navigation</a><br>
-				<a title="PC &amp; Computer Hard Drives" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=8&amp;name=Hard-Drives" class="sidenav_grey">Hard 
-				Drives</a><br>
-				<a title="Hard Drive Enclosure" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=2777&amp;name=Hard-Drive-Enclosure" class="sidenav_grey">Hard 
-				Drive Enclosure</a><br>
-				<a title="InkJet Cartridges, Laser Toner, Fax Toner, Printer Paper" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=29&amp;name=Ink-Toner" class="sidenav_grey">Ink 
-				&amp; Toner</a><br>
-				<a title="Keyboards, Mice, Joysticks, Keypads" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=9&amp;name=Keyboard-Mice-Input" class="sidenav_grey">Keyboard 
-				/ Mice / Input</a><br>
-				<a title="Notebook Computers, Widescreen Laptops, Accessories" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=17&amp;name=Laptops-Notebooks" class="sidenav_grey">Laptops 
-				/ Notebooks</a><br>
-				<a title="LCD TVs, Plasma TVs, Rear Projection TVs" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=37&amp;name=LCD-TVs-HDTV-TV-Plasma-TVs-DLP-TV" class="sidenav_grey">LCD 
-				TV / HDTV / Plasma</a><br>
-				
-				<a title="CD-R Discs, CD-RW Discs, DVD Media, Tape Cartridges" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=2&amp;name=Media-CD-DVD-Tape" class="sidenav_grey">Media 
-				(CD DVD Tape)</a><br>
-				<a title="PC Memory, Memory Configurator, DDR RAM, SDRAM" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=10&amp;name=Memory-RAM" class="sidenav_grey">Memory 
-				/ RAM</a><br>
-				<a title="PC &amp; Computer Modems, Fax Modems" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=11&amp;name=Modems" class="sidenav_grey">Modems</a><br>
-				<a title="LCD Displays, CRT Displays, Touchscreen Displays" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=12&amp;name=Monitor-LCDs" class="sidenav_grey">Monitors 
-				&amp; LCDs</a><br>
-				&nbsp;&nbsp;<font color="#CC0000"></font><a title="22 Inch LCD Displays &amp; Monitors" href="http://www.tigerdirect.ca/applications/category/category_slc.asp?CatId=2775&amp;name=22-Inch-Widescreen-LCDs" class="sidenav_grey">22" 
-				Widescreen LCDs</a><br>
-				<a title="Intel, Asus, EVGA, MSI Motherboards" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=13&amp;name=Motherboards" class="sidenav_grey">Motherboards</a><br>
-				<a title="Motherboard &amp; CPU Combos" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=14&amp;name=Motherboard-CPUs" class="sidenav_grey">Motherboard 
-				&amp; CPUs</a><br>
-				<a title="MP3 Players, Apple iPods, Video Players" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=15&amp;name=MP3-Audio" class="sidenav_grey">MP3 
-				Audio 
-				
-				</a><br>
-				<a title="Network Cables, Routers, Switches, Starter Kits" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=16&amp;name=Networking" class="sidenav_grey">Networking</a><br>
-				<a title="UPS Battery Backup, Surge Protectors, Power Strips" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=20&amp;name=Power-Protection" class="sidenav_grey">Power 
-				Protection</a><br>
-				<a title="Power Supply Units, SLI PSUs, PSU Testers" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=106&amp;name=Power-Supplies" class="sidenav_grey">Power 
-				Supplies</a><br>
-				<a title="InkJet Printers, Laser Printers, Digital Photo Printers" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=21&amp;name=Printers" class="sidenav_grey">Printers</a><br>
-				<a title="Intel Processors, AMD Processors" href="http://www.tigerdirect.ca/applications/Category/category_cpu.asp?name=Processors" class="sidenav_grey">Processors 
-				(CPUs)</a><br>
-				<a title="SVGA Projectors, XGA Projectors, Projector Screens" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=23&amp;name=Projectors" class="sidenav_grey">Projectors</a><br>
-				<a title="Disk Controllers, Enclosures, DVD Burners, Tape Drives" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=24&amp;name=Removable-Storage" class="sidenav_grey">Removable 
-				Storage</a><br>
-				<a title="Computer Scanners, Flatbed Scanners, Handheld Scanners" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=25&amp;name=Scanners" class="sidenav_grey">Scanners</a><br>
-				<a title="Security, Surveillance" href="http://www.tigerdirect.ca/applications/category/category_slc.asp?CatId=1322&amp;name=Security &amp; Surveillance" class="sidenav_grey">Security &amp; Surveillance</a><br>
-				<a title="PC &amp; Computer Servers, Systemax Servers" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=30&amp;name=Servers" class="sidenav_grey">Servers</a><br>
-				<a title="Business Software, Educational Software, Security Software" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=26&amp;name=Software" class="sidenav_grey">Software</a><br>
-				
-				<a title="PC &amp; Computer Sound Cards" href="http://www.tigerdirect.ca/applications/Category/category_slc.asp?CatId=107&amp;name=Sound-Cards" class="sidenav_grey">Sound 
-				Cards</a><br>
-				<a title="Multimedia Speakers, Surround Speakers, Headphones" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=98&amp;name=Speakers" class="sidenav_grey">Speakers</a><br>
-				<a title="LCD Televisions, Plasma Televisions, HDTV" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=37&amp;name=LCD-TVs-HDTV-TV-Plasma-TVs-DLP-TV" class="sidenav_grey" "="">Televisions 
-				/ HDTV</a><br>
-				<a title="USB Drives, USB Disk Drives, USB Memory Drives" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=379&amp;name=USB-Flash-Drives" class="sidenav_grey">USB 
-				Flash Drives</a><br>
-				<a title="Video Capture Cards, Digital Video Capture Cards" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=1423&amp;name=Video-Capture" class="sidenav_grey">Video 
-				Capture</a><br>
-				<a title="ATI Store, NVIDIA Store, AGP, PCIE, SLI GPUs" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=28&amp;name=Video-Cards" class="sidenav_grey">Video 
-				Cards</a><br>
-				<a title="Wireless Network, Wireless Routers, Wireless Access Points" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=35&amp;name=Wireless-Networking" class="sidenav_grey">Wireless 
-				Networking</a><br>
-				
-				<img src="http://images.tigerdirect.ca/frontpage/gfx-grayline1.gif" width="125" height="9"><br>
-				<a href="http://www.tigerdirect.ca/applications/category/category_slc.asp?CatId=2217&amp;name=Classic-DVD-Movies" class="sidenav_grey">Classic 
-				DVD Movies</a><br>
-				
-				<a href="http://www.tigerdirect.ca/rss/indexca.asp" class="sidenav_grey">Deal 
-				Alerts via<img src="http://images.tigerdirect.ca/main/icon_rss.gif" hspace="2" border="0" align="absmiddle"></a> <br>
-				<a href="/applications/campaigns/campaigntemplate.asp?CampaignID=271&amp;name=Whats-New" class="sidenav_grey">What's New</a><br>
-				
-				</td>
-		   </tr>
-		</tbody></table>
-		
-		
-		
-		<br>
+	<!--- START SCANALERT CODE --->
+	<div align="center">
+	<a target="_blank" href="//www.scanalert.com/RatingVerify?ref=www.tigerdirect.ca">
+	<img width="115" height="32" vspace="3" border="0" src="//images.scanalert.com/meter/www.tigerdirect.ca/12.gif" alt="HACKER SAFE certified sites prevent over 99% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;">
+	</a><br>
 			
+	</div>
+	<!--- END   SCANALERT CODE --->
+
+		
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#DCE6FB">
+   <tbody><tr>			  
+	<td width="137" nowrap="" class="sidenav_grey" style="padding-left: 4px; padding-right: 4px;"> 
+	  
+		<a title="PC &amp; Computer Accessories" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=1&amp;name=Accessories" class="sidenav_grey">Accessories</a><br>
+		<a title="PC &amp; Computer Barebone Systems" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=31&amp;name=Barebone-Kits" class="sidenav_grey">Barebone 
+		Kits</a><br>
+		<a title="PC &amp; Computer Cables" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=3&amp;name=Cables" class="sidenav_grey">Cables</a><br>
+		<a title="PC &amp; Computer Cases" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=32&amp;name=Computer-Cases" class="sidenav_grey">Computer 
+		Cases</a><br>
+        <a title="Computers" href="http://www.tigerdirect.ca/applications/Category/category_tlcNEW.asp?CatId=6" class="sidenav_grey">Computers</a><br>
+		<a title="Digital Cameras &amp; Digital Video Cameras" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=129&amp;name=Camcorders" class="sidenav_grey">Camcorders</a><br>
+		<a title="CD Burners &amp; DVD Burners" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=4&amp;name=CD-DVD-Burners" class="sidenav_grey">CD 
+		/ DVD Burners</a><br>
+		
+		<a title="Cellular Phones, Prepaid Phones, Ringtones" href="http://www.tigerdirect.ca/wireless/index.asp" class="sidenav_grey">Cellular 
+		Phones</a><br>
+		
+		<a title="Cellular Accessories, Teleconferencing, VoIP" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=1625&amp;name=Communications" class="sidenav_grey">Communications</a><br>
+		<a title="Computer Parts &amp; Components" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=5&amp;name=Computer-Parts-Components" class="sidenav_grey">Components</a><br>
+		<a title="PC &amp; Computer Cooling" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=99&amp;name=Cooling-Products" class="sidenav_grey">Cooling 
+		Products</a><br>
+		<a title="Intel CPUs, AMD CPUs" href="http://www.tigerdirect.ca/applications/Category/category_cpu.asp?name=CPUs" class="sidenav_grey">CPUs 
+		(Processors)</a><br>
+		<a title="Gaming PCs, Media Center PCs, Mini PCs, Workstations" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=6&amp;name=Desktop-PCs" class="sidenav_grey">Desktop 
+		PCs</a><br>
+		
+		<a title="Digital Cameras &amp; Digital Video Cameras" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=7&amp;name=Digital-Cameras" class="sidenav_grey">Digital 
+		Cameras</a><br>
+		
+		<a title="Digital Photo Frames" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=1623&amp;name=Digital-Photo-Frames" class="sidenav_grey">Digital 
+		Photo Frames</a><br>
+		
+		<a title="Consumer Electronics" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=34&amp;name=Electronics" class="sidenav_grey">Electronics</a><br>
+		<a title="Camera Memory, Compact Flash, Memory Stick, Multimedia Cards" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=36&amp;name=Flash-Memory-Cards" class="sidenav_grey">Flash 
+		Memory Cards</a><br>
+		<a title="PC &amp; Computer Furniture" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=221&amp;name=Furniture" class="sidenav_grey">Furniture</a><br>
+		<a title="Gaming" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=2900" class="sidenav_grey">Gaming</a><br>
+		<a title="Car GPS, Handheld GPS, Marine GPS" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=2372&amp;name=GPS-Navigation" class="sidenav_grey">GPS Navigation</a><br>
+		<a title="PC &amp; Computer Hard Drives" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=8&amp;name=Hard-Drives" class="sidenav_grey">Hard 
+		Drives</a><br>
+		<a title="Hard Drive Enclosure" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=2777&amp;name=Hard-Drive-Enclosure" class="sidenav_grey">Hard 
+		Drive Enclosure</a><br>
+        <a title="Home Theater" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=353" class="sidenav_grey">Home Theater</a><br>
+		<a title="InkJet Cartridges, Laser Toner, Fax Toner, Printer Paper" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=29&amp;name=Ink-Toner" class="sidenav_grey">Ink 
+		&amp; Toner</a><br>
+		<a title="Keyboards, Mice, Joysticks, Keypads" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=9&amp;name=Keyboard-Mice-Input" class="sidenav_grey">Keyboard 
+		/ Mice / Input</a><br>
+		<a title="Notebook Computers, Widescreen Laptops, Accessories" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=17&amp;name=Laptops-Notebooks" class="sidenav_grey">Laptops 
+		/ Notebooks</a><br>
+		<a title="LCD TVs, Plasma TVs, Rear Projection TVs" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=37&amp;name=LCD-TVs-HDTV-TV-Plasma-TVs-DLP-TV" class="sidenav_grey">LCD 
+		TV / HDTV / Plasma</a><br>
+		
+		<a title="CD-R Discs, CD-RW Discs, DVD Media, Tape Cartridges" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=2&amp;name=Media-CD-DVD-Tape" class="sidenav_grey">Media 
+		(CD DVD Tape)</a><br>
+		<a title="PC Memory, Memory Configurator, DDR RAM, SDRAM" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=10&amp;name=Memory-RAM" class="sidenav_grey">Memory 
+		/ RAM</a><br>
+		<a title="LCD Displays, CRT Displays, Touchscreen Displays" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=12&amp;name=Monitor-LCDs" class="sidenav_grey">Monitors 
+		&amp; LCDs</a><br>
+		&nbsp;&nbsp;<font color="#CC0000"></font><a title="22 Inch LCD Displays &amp; Monitors" href="http://www.tigerdirect.ca/applications/category/category_slc.asp?CatId=2775&amp;name=22-Inch-Widescreen-LCDs" class="sidenav_grey">22" 
+		Widescreen LCDs</a><br>
+		<a title="Intel, Asus, EVGA, MSI Motherboards" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=13&amp;name=Motherboards" class="sidenav_grey">Motherboards</a><br>
+		<a title="Motherboard &amp; CPU Combos" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=14&amp;name=Motherboard-CPUs" class="sidenav_grey">Motherboard 
+		&amp; CPUs</a><br>
+		<a title="MP3 Players, Apple iPods, Video Players" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=15&amp;name=MP3-Audio" class="sidenav_grey">MP3 
+		Audio 
+		
+		</a><br>
+		<a title="Network Cables, Routers, Switches, Starter Kits" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=16&amp;name=Networking" class="sidenav_grey">Networking</a><br>
+		<a title="UPS Battery Backup, Surge Protectors, Power Strips" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=20&amp;name=Power-Protection" class="sidenav_grey">Power 
+		Protection</a><br>
+		<a title="Power Supply Units, SLI PSUs, PSU Testers" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=106&amp;name=Power-Supplies" class="sidenav_grey">Power 
+		Supplies</a><br>
+		<a title="InkJet Printers, Laser Printers, Digital Photo Printers" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=21&amp;name=Printers" class="sidenav_grey">Printers</a><br>
+		<a title="SVGA Projectors, XGA Projectors, Projector Screens" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=23&amp;name=Projectors" class="sidenav_grey">Projectors</a><br>
+		<a title="Disk Controllers, Enclosures, DVD Burners, Tape Drives" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=24&amp;name=Removable-Storage" class="sidenav_grey">Removable 
+		Storage</a><br>
+		<a title="Computer Scanners, Flatbed Scanners, Handheld Scanners" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=25&amp;name=Scanners" class="sidenav_grey">Scanners</a><br>
+		<a title="Security, Surveillance" href="http://www.tigerdirect.ca/applications/category/category_slc.asp?CatId=1322&amp;name=Security &amp; Surveillance" class="sidenav_grey">Security &amp; Surveillance</a><br>
+		<a title="PC &amp; Computer Servers, Systemax Servers" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=30&amp;name=Servers" class="sidenav_grey">Servers</a><br>
+		<a title="Business Software, Educational Software, Security Software" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=26&amp;name=Software" class="sidenav_grey">Software</a><br>
+		
+		<a title="Multimedia Speakers, Surround Speakers, Headphones" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=98&amp;name=Speakers" class="sidenav_grey">Speakers</a><br>
+		<a title="LCD Televisions, Plasma Televisions, HDTV" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=37&amp;name=LCD-TVs-HDTV-TV-Plasma-TVs-DLP-TV" class="sidenav_grey" "="">Televisions</a><br>
+		<a title="USB Drives, USB Disk Drives, USB Memory Drives" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=379&amp;name=USB-Flash-Drives" class="sidenav_grey">USB 
+		Flash Drives</a><br>
+		<a title="Video Capture Cards, Digital Video Capture Cards" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=1423&amp;name=Video-Capture" class="sidenav_grey">Video 
+		Capture</a><br>
+		<a title="ATI Store, NVIDIA Store, AGP, PCIE, SLI GPUs" href="http://www.tigerdirect.ca/applications/Category/category_tlc.asp?CatId=28&amp;name=Video-Cards" class="sidenav_grey">Video 
+		Cards</a><br>
+		<a title="Wireless Network, Wireless Routers, Wireless Access Points" href="http://www.tigerdirect.ca/applications/category/category_tlc.asp?CatId=35&amp;name=Wireless-Networking" class="sidenav_grey">Wireless 
+		Networking</a><br>
+		
+		<img src="http://images.tigerdirect.ca/frontpage/gfx-grayline1.gif" width="125" height="9"><br>
+		
+		<a href="http://www.tigerdirect.ca/rss/indexca.asp" class="sidenav_grey">Deal 
+		Alerts via<img src="http://images.tigerdirect.ca/main/icon_rss.gif" hspace="2" border="0" align="absmiddle"></a> <br>
+		<a href="/applications/campaigns/campaigntemplate.asp?CampaignID=271&amp;name=Whats-New" class="sidenav_grey">What's New</a><br>
+		
+	 </td>
+   </tr>
+</tbody></table>		
+		
+
+
+<br>
+
     </td>
     <td width="5" valign="top"><img src="http://images.tigerdirect.ca/spacer.gif" width="5" height="5"></td>
-    <td valign="top">
+    <td valign="top"> 
       <table width="628" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
-          <td><img src="http://images.tigerdirect.ca/titleimages/helpcenter.gif" width="320" height="60"></td>
+          <td><img src="http://images.tigerdirect.ca/titleimages/privacyrights.gif" width="367" height="92"></td>
         </tr>
         <tr> 
           <td>&nbsp;</td>
         </tr>
         <tr> 
-          <td>
+          <td> 
             <table width="339" border="0" cellspacing="0" cellpadding="0" class="helpHeader">
               <tbody><tr> 
                 <td width="19" height="22" bgcolor="#0D68C2">&nbsp;</td>
@@ -296,7 +336,7 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
             <table width="339" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr> 
                 <td width="1" bgcolor="#979797"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="1" height="1"></td>
-                <td style="padding: 5px;">
+                <td style="padding: 5px;"> 
                   <table width="100%" border="0" cellpadding="1" cellspacing="4" class="font_size2">
                     <tbody><tr> 
                       <td width="4%"><img src="http://images.tigerdirect.ca/greybubblearrow.gif" width="12" height="13"></td>
@@ -341,11 +381,16 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                   <table width="100%" border="0" cellspacing="0" cellpadding="5">
                     <!-- content section -->
                     <tbody><tr> 
-                      <td class="BODYstyle"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"> 
-                        <strong><a name="general"></a></strong> </font>Our website 
-                        security is unmatched anywhere on the Internet. Your name, 
+                      <td class="BODYstyle">
+					  <p>TigerDirect.ca Privacy Notice </p>
+                      <p>By visiting the TigerDirect.ca website 
+                          you agree to accept the practices described in this 
+                          Privacy Notice. </p>
+						  
+                        <font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"> 
+                        <strong><a name="general"></a></strong> </font>Your name, 
                         your personal information and especially your credit card 
-                        number are NEVER stored on the Internet with our system. 
+                        number are not stored on the Internet with our system. 
                         Once you type your information, it is sent instantly, 
                         encrypted, directly to our order processing system, which 
                         is on a server separate from the internet. We employ the 
@@ -355,16 +400,20 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                         catalog request and sweepstakes forms. This is done to 
                         protect you from unauthorized use of the information you 
                         are sending to our server.<br>
-                        <span class="arial2bold"><br>
-                        </span></td>
+                      </td>
                     </tr>
                     <tr> 
-                      <td> <a name="policy"></a><span class="BodyHEADERS"><strong>Privacy 
-                        Policy Statement</strong></span> <span class="BODYstyle"><br>
-                        This is the privacy policy for all web sites operated 
-                        by TigerDirect.ca, Inc.<br>
-                        </span> </td>
-                    </tr>
+                      <td> 
+                        <p><a name="policy"></a><span class="BodyHEADERS"><strong>Privacy 
+                          Policy Statement</strong></span> <span class="BODYstyle"><br>
+                          
+                          This is the privacy policy for all web sites operated 
+                          by TigerDirect.ca. 
+                          
+                          </span></p>
+                        <p><span class="BODYstyle"> 
+                          
+                    </span></p></td></tr>
                     <tr> 
                       <td class="BODYstyle"><strong>Contact Information</strong><br>
                         Our postal address is:<br>
@@ -392,11 +441,13 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                           integrity. We're aware of the trust and confidence you 
                           demonstrate when you visit our website and provide us 
                           with information. The Privacy Notice below is posted 
-                          to demonstrate our adherence to the practices you'll 
-                          find common to the best websites online. We promise 
-                          that we will treat your information with the same honesty 
-                          and sensitivity that we have displayed throughout our 
-                          company's history. </p>
+                          to demonstrate our leadership in online security and 
+                          customer service practices. We treat your personal information 
+                          with the same honesty and sensitivity that we have displayed 
+                          throughout our company's history. <br>
+                          <br>
+                          
+                        </p>
                         <p>We will never share your email address , phone number 
                           or credit card information with any unrelated 3rd party 
                           except as necessary to fulfill transactions that you 
@@ -408,10 +459,8 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                           <a href="mailto:privacy@tigerdirect.ca" class="infobutton">privacy@tigerdirect.ca</a> 
                           
                         </p>
-                        <p>TigerDirect.ca Privacy Notice </p>
-                        <p>By visiting the TigerDirect.ca website 
-                          you agree to accept the practices described in this 
-                          Privacy Notice. </p>
+                       
+                        
                         <p><b>Changes to this Privacy Notice, Conditions of Use 
                           and Notices:</b><br>
                           This Privacy Notice and our Terms of Use will change 
@@ -419,20 +468,26 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                           now is subject to these Notices and Terms as modified. 
                           Please check this page periodically as you continue 
                           to use our site to see if any changes have been made. 
-                          This privacy notice was most recently changed on March 
-                          19, 2004. If you visit our Web site your visit and any 
+                          This privacy notice was most recently changed on January 
+                          10, 2008. If you visit our Web site your visit and any 
                           dispute over privacy is subject to this Notice and our 
                           Legal Notices, including the application of the laws 
                           of 
                           
                           Canada 
                           
-                          .</p>
+                        </p>
                         <p><b>Children</b><br>
-                          TigerDirect.ca does not sell products 
-                          to persons under the age of 18. If you are under the 
-                          age of 18, you are required seek the approval of your 
-                          parent or guardian to purchase products from this site.</p>
+                          TigerDirect.ca is a general audience 
+                          site and does not knowingly collect personal identifiable 
+                          information from children under the age of 13 without 
+                          verifiable parental consent. If you are under the age 
+                          of 13, please do not provide personally identifiable 
+                          information of any kind whatsoever. TigerDirect.ca 
+                          does not sell products to persons under the age of 18. 
+                          If you are under the age of 18, you are required seek 
+                          the consent of your parent or guardian to purchase products 
+                          from this site.</p>
                         <p><b>Personal Information Collected By TigerDirect.ca:</b><br>
                           TigerDirect.ca uses information that 
                           we collect from our visitors to personalize and improve 
@@ -449,12 +504,12 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                           with us. Examples of the type of information you may 
                           supply us with include your name, address, telephone 
                           number, credit card information, e-mail addresses, and 
-                          financial information such as your Social Security number. 
-                          In some instances, we ask you for other people’s 
-                          names and email addresses for the sole purpose of fulfilling 
-                          your specific request to email certain specific information 
-                          as part of our “email a friend” feature. 
-                        </p>
+                          information such as the last four of your Social Security 
+                          number for fraud prevention. In some instances, we ask 
+                          you for other people’s names and email addresses 
+                          for the sole purpose of fulfilling your specific request 
+                          to email certain specific information as part of our 
+                          “email a friend” feature. </p>
                         <p><b>Automatic Information collected by us:</b> We (or 
                           agents on our behalf) collect anonymous information 
                           from visits to our sites through the use of “Web 
@@ -473,26 +528,27 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                           version; operating system and platform; purchase history; 
                           confirmation when you open e-mail that we send you; 
                           and the URLs which lead you to and around our Web site 
-                          including the date and time. Your browser allows you 
-                          to reject cookies and software is available from third 
-                          parties which will allow you to visit our Web site without 
-                          providing this information. You are welcomed at our 
-                          Web site if you use this software but we will not be 
-                          able to offer you our personalized services and we will 
-                          be unable to accept any online orders from you. </p>
+                          including the date and time. You can generally set your browser to reject cookies or to notify you when you are sent a cookie.  There is also software available from third parties which will allow you to visit our Web site without providing this information. You are welcomed at our Web site if you use this software but we will not be able to offer you our personalized services and we will be unable to accept any online orders from you.<br>
+
+<br>
+Third parties who are contracted with us who may use cookies and collect information on our behalf are prohibited by our contract with them from sharing that information with anyone other than us or our Service Providers. However, we respect your right to choose whether to be included in such services. If you would like to opt out of these services, please <a href="javascript:optpop()">click here.</a>
+
+</p>
                         <p><b>Orders:</b> If you place an order we use a secure 
                           order form which requires you to provide contact, billing, 
-                          and financial information. This information is transmitted 
+                          and payment information. This information is transmitted 
                           to your credit card company to authorize your purchase. 
-                          At certain times we may offer financing options with 
+                          
+						  At certain times we may offer financing options with 
                           or without third party participation. If you use a financing 
                           option, information provided by you (such as your address, 
                           birth date, social security number, and credit card 
                           number) may be used to request a credit report from 
                           third parties or may be sent to a third party for processing. 
                           You will always be informed of this at the time you 
-                          select any available financing option. All information 
-                          obtained from you in the course of transacting orders 
+                          select any available financing option.
+						  
+						  All information obtained from you in the course of transacting orders 
                           is used for the purpose of fulfilling your order in 
                           a timely manner and for communicating the status of 
                           your order with you. Additionally, upon placing an order, 
@@ -506,11 +562,12 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                           allows you to unsubscribe if you changed your mind and 
                           decided not to join the list. Furthermore, the confirmation 
                           email will alert you if someone else had entered your 
-                          email address into our email newsletter.In order to 
+                          email address into our email newsletter. In order to 
                           make our emails more relevant and useful to you, our 
                           servers may receive a confirmation when you open email 
-                          from TigerDirect.ca.</p>
-                        <p><b>Sweepstakes Entrants:</b> If you enter a TigerDirect.ca 
+                          from TigerDirect.ca.<br>
+                          <br>
+                          <b>Sweepstakes Entrants:</b> If you enter a TigerDirect.ca 
                           sponsored sweepstakes, we employ a double opt-in subscription 
                           program. Upon registration, you will receive a confirmation 
                           email to the email address you gave us with a link contained 
@@ -530,12 +587,18 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                           companies or individuals to provide certain services 
                           to us such as analyzing customer lists and data, providing 
                           marketing assistance, or consulting services. These 
-                          third parties will have access to the information needed 
-                          to perform their functions but cannot use that information 
-                          for any other purpose. Any 3rd parties who use our data 
-                          will be fully bound by this privacy policy. In no event 
-                          will the data being used by any unrelated third party 
-                          include your email address.</p>
+                          third parties will have access to only the information 
+                          needed to perform these limited functions and are required 
+                          to provide your personal information with at least the 
+                          same level of protection and security as TigerDirect.ca. 
+                          Such third parties are prohibited from using your personal 
+                          information for any other purpose. 
+                          
+                          Any 3rd parties who use our data will be fully bound 
+                          by this privacy policy. 
+                          
+                          In no event will the data being used by any unrelated 
+                          third party include your email address.</p>
                         <p><b>Orders:</b> We will never share any telephone number(s), 
                           e-mail addresses, or credit card information which you 
                           have given us with any marketing partner(s) or any unrelated 
@@ -547,8 +610,7 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                           
                         </p><p><b>Aggregate information:</b> We provide aggregate 
                           information to some of our business partners. This information 
-                          does not allow them to identify you individually in 
-                          any way. </p>
+                          does not identify you individually in any way. </p>
                         <p><b>Credit card companies and shippers:</b> When you 
                           buy something from us we send your credit card information, 
                           name, billing address and the amount of your purchase 
@@ -587,8 +649,8 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                           certain links to third party sites, such as our vendors. 
                           TigerDirect.ca is not responsible or 
                           liable for the privacy practices or content found on 
-                          these sites. We suggest that you check the Privacy Notice 
-                          of each site you visit. </p>
+                          these sites. We recommend that you check the Privacy 
+                          Notice of each site you visit. </p>
                         <p><b>Catalog Requests:</b> When you request a catalog 
                           from TigerDirect.ca we share your name 
                           and postal address with a 3rd party fulfillment company 
@@ -599,7 +661,7 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                         <p><b>Information about Third Parties:</b><br>
                           TigerDirect.ca maintains relationships 
                           with other websites that operate as its affiliates, 
-                          however, TigerDirect.ca has not control 
+                          however, TigerDirect.ca has no control 
                           over their activities. TigerDirect.ca 
                           will immediately cease doing business with any affiliate 
                           that abuses the terms of the affiliate agreement. This 
@@ -607,16 +669,17 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                           predatory means of attracting visitors, or unlawful 
                           activities. To report abuse by an affiliate, please 
                           contact our Affiliate Manager at 305-415-2313 or email 
-                          affiliates@TigerDirect.ca. </p>
+                          
+                        </p>
                         <p><b>Law Enforcement and Protection of Users:</b><br>
-                          We will release personally identifiable information 
-                          to third parties and organizations when we believe it 
-                          is appropriate for us to do so to comply with the law. 
-                          We will also do so to cooperate with law enforcement 
-                          investigations, comply with court orders or subpoenas, 
-                          protect the legal rights of us and our users, or when 
-                          we believe it is needed for fraud protection and/ or 
-                          credit risk reduction. </p>
+                          To the extent permitted by law, we will disclose personally 
+                          identifiable information to government authorities or 
+                          third parties pursuant to a legal request, subpoena 
+                          or other legal process. We may also use or disclose 
+                          you information as permitted by law to perform charge 
+                          verifications, report or collect debts owed, fight fraud 
+                          or protect the rights or property of TigerDirect.ca, 
+                          our customers, our website or its users.</p>
                         <p><b>Business Transfer:</b><br>
                           TigerDirect.ca has been in business 
                           for over 
@@ -632,7 +695,9 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                           with any other division, individual or entity, any customer 
                           information owned or under the control of TigerDirect.ca 
                           may be one of the transferred assets. </p>
-                        <p><b>Security:</b><br>
+                        
+						 
+						<p><b>Security:</b><br>
                           We employ the latest 128-bit encryption technology in 
                           all areas of the site which require you to provide your 
                           personal or account information, including online ordering, 
@@ -642,15 +707,17 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                           systems behind our firewall. Once you type your personal 
                           information, it is sent instantly, encrypted, directly 
                           to our order processing system which is on a server 
-                          separate from our internet server. To make sure you 
+                          separate from our Internet server. To make sure you 
                           have the latest security features on your browser, you 
                           may want to download the most recent version of your 
                           favorite browser, which should have full SSL support.</p>
+						  
                         <p><b>Choice/Opt-Out:</b><br>
                           Our Web site gives you the opportunity to opt-out of 
                           receiving marketing communications from us. If you no 
                           longer wish to receive communications from us you may 
-                          opt-out by calling <b>800-800-8300</b>.</p>
+                          opt-out by calling <b>800-800-8300</b> 
+                          or or email <a href="mailto:privacy@TigerDirect.ca">privacy@TigerDirect.ca</a>.</p>
                       </td>
                     </tr>
                     <tr> 
@@ -677,12 +744,18 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
                         technology to allow for the encryption of: potentially 
                         sensitive information such as your name and address and 
                         other critically sensitive information like your credit 
-                        card number. Standing behind our security technology, 
+                        card number. 
+						 
+						Standing behind our security technology, 
                         we also provide our Website Security Guarantee, further 
                         ensuring that you are protected every time you buy online 
-                        with us. For more details, take a look at this guarantee.<br>
+                        with us. For more details, take a look at this guarantee.
+						
+						<br>
                         <br>
-                      </td>
+                        <span class="BODYstyle"> 
+                        
+                        </span></td>
                     </tr>
                     <!--content section -->
                   </tbody></table>
@@ -699,6 +772,7 @@ BODY { background-image:url('http://images.tigerdirect.ca/mastheadClean/masthead
     </td>
   </tr>
 </tbody></table>
+
 <!-- Beginning of footer -->
 <script language="JavaScript" type="text/JavaScript">
 <!--
@@ -751,31 +825,30 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 		 
       <table width="630" border="0" cellspacing="0" cellpadding="0" class="font_size2bold" style="text-align: center; color: #043E7F;" align="center">
         <tbody><tr> 
-          <td width="156" valign="top"> 2GB SD Card<br>
-            <a href="/applications/searchtools/item-Details.asp?EdpNo=2315933&amp;sku=T555-1006&amp;CMP=ILC-FOT01"><img src="http://images.tigerdirect.ca/dealday/Spot1_T555-1006rb.jpg" alt="Transcend 2GB Secure Digital Card" width="117" height="66" border="0"></a><br>
-            <span class="price">$24.99</span>&nbsp;&nbsp;<a href="/applications/searchtools/item-Details.asp?EdpNo=2315933&amp;sku=T555-1006&amp;CMP=ILC-FOT01" class="info">MORE 
+          <td width="156" valign="top"> 4GB Flash Drive<br>
+            <a href="/applications/searchtools/item-Details.asp?EdpNo=1747688&amp;sku=P56-2314&amp;CMP=ILC-FOT01"><img src="http://images.tigerdirect.ca/dealday/footer1_P56-2314bs.jpg" alt="PNY 4GB Attache USB Flash Drive" width="117" height="66" border="0"></a><br>
+            <span class="price">$15.99</span>&nbsp;&nbsp;<a href="/applications/searchtools/item-Details.asp?EdpNo=1747688&amp;sku=P56-2314&amp;CMP=ILC-FOT01" class="info">MORE 
             INFO<img src="http://images.tigerdirect.ca/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a></td>
           <td width="1" bgcolor="#BDBEBD"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="1" height="1"></td>
-          <td width="156" valign="top">2048MB Memory<br>
-            <a href="/applications/searchtools/item-Details.asp?EdpNo=3089875&amp;sku=C13-6076&amp;CMP=ILC-FOT02"><img src="http://images.tigerdirect.ca/dealday/Footer_C13-6076rb.jpg" alt="Corsair XMS2 DHX 2048MB Dual Channel PC6400 DDR2 800MHz Memory (2 x 1024MB)" width="117" height="66" border="0"></a><br>
-            <span class="price">$39.97*</span>&nbsp;&nbsp;<a href="/applications/searchtools/item-Details.asp?EdpNo=3089875&amp;sku=C13-6076&amp;CMP=ILC-FOT02" class="info">MORE 
+          <td width="156" valign="top">2GB Digital Card<br>
+            <a href="/applications/searchtools/item-Details.asp?EdpNo=1585392&amp;sku=P56-9336&amp;CMP=ILC-FOT02"><img src="http://images.tigerdirect.ca/dealday/Footer2_P56-9336.jpg" alt="PNY 2GB Secure Digital Card" width="117" height="66" border="0"></a><br>
+            <span class="price">$9.97</span>&nbsp;&nbsp;<a href="/applications/searchtools/item-Details.asp?EdpNo=1585392&amp;sku=P56-9336&amp;CMP=ILC-FOT02" class="info">MORE 
             INFO<img src="http://images.tigerdirect.ca/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a> 
           </td>
           <td width="1" bgcolor="#BDBEBD"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="1" height="1"></td>
-          <td width="156" valign="top"> Intel PD 925 CPU<br>
-            <a href="/applications/searchtools/item-Details.asp?EdpNo=2525999&amp;sku=CP2-PD-925%20C&amp;CMP=ILC-FOT03"><img src="http://images.tigerdirect.ca/dealday/Footer_CP2-PD-925rb.jpg" alt="Intel Pentium D 925 Processor HH80553PG0804MN - 3.0GHz, 4MB Cache, 800MHz FSB, Presler, Dual-Core, OEM, Socket 775, Processor" width="117" height="66" border="0"></a><br>
-            <span class="price">$49.97*</span>&nbsp;&nbsp;<a href="/applications/searchtools/item-Details.asp?EdpNo=2525999&amp;sku=CP2-PD-925%20C&amp;CMP=ILC-FOT03" class="info">MORE 
-            INFO<img src="http://images.tigerdirect.ca/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a> 
-          </td>
+          <td width="156" valign="top">2GB Memory<br>
+            <a href="/applications/searchtools/item-Details.asp?EdpNo=1558870&amp;sku=C19-4332&amp;CMP=ILC-FOT03"><img src="http://images.tigerdirect.ca/dealday/footer2_C19-4332bs.jpg" alt="Crucial Ballistix Dual Channel 2048MB PC6400 DDR2 800MHz EPP Memory (2x 1024MB)" width="117" height="66" border="0"></a><br>
+            <span class="price">$49.99</span>&nbsp;&nbsp;<a href="/applications/searchtools/item-Details.asp?EdpNo=1558870&amp;sku=C19-4332&amp;CMP=ILC-FOT03" class="info">MORE 
+            INFO<img src="http://images.tigerdirect.ca/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>          </td>
           <td width="1" bgcolor="#BDBEBD"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="1" height="1"></td>
-          <td width="156" valign="top">3.2MP Digital Cam<br>
-            <a href="/applications/searchtools/item-Details.asp?EdpNo=1959817&amp;sku=A65-QC3185&amp;CMP=ILC-FOT04"><img src="http://images.tigerdirect.ca/dealday/Spot4_A65-QC3185.jpg" alt="Argus QC-3185 Digital Camera - 3.2 Megapixel, 1.1&quot; LCD Screen, 16MB Internal Storage" width="117" height="66" border="0"></a><br>
-            <span class="price">$29.97</span> &nbsp;&nbsp;<a href="/applications/searchtools/item-Details.asp?EdpNo=1959817&amp;sku=A65-QC3185&amp;CMP=ILC-FOT04" class="info">MORE 
+          <td width="156" valign="top">Photo Key Chain<br>
+            <a href="/applications/searchtools/item-Details.asp?EdpNo=3517154&amp;sku=Z13-1000&amp;CMP=ILC-FOT04"><img src="http://images.tigerdirect.ca/dealday/footer3_Z13-1000bs.jpg" alt="ZINA Z13-1000 Digital 56 Photo Viewer Key chain w/ 1-Inch Color LCD Screen" width="117" height="66" border="0"></a><br>
+            <span class="price">$6.99</span> &nbsp;&nbsp;<a href="/applications/searchtools/item-Details.asp?EdpNo=3517154&amp;sku=Z13-1000&amp;CMP=ILC-FOT04" class="info">MORE 
             INFO<img src="http://images.tigerdirect.ca/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a></td>
           <td width="1" bgcolor="#BDBEBD"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="1" height="1"></td>
-          <td width="156" valign="top">5.6" Digital Frame<br>
-            <a href="/applications/searchtools/item-Details.asp?EdpNo=3280431&amp;sku=M135-1002&amp;CMP=ILC-FOT05"><img src="http://images.tigerdirect.ca/dealday/Footer_M135-1002rb.jpg" alt="Photoblitz PF5E 5.6&quot; Digital Picture Frame" width="117" height="66" border="0"></a><br>
-            <span class="price">$49.97</span> &nbsp;&nbsp;<a href="/applications/searchtools/item-Details.asp?EdpNo=3280431&amp;sku=M135-1002&amp;CMP=ILC-FOT05" class="info">MORE 
+          <td width="156" valign="top">500GB Hard Drive<br>
+            <a href="/applications/searchtools/item-Details.asp?EdpNo=3796148&amp;sku=B800-1408&amp;CMP=ILC-FOT05"><img src="http://images.tigerdirect.ca/dealday/footer5_B800-1408bs.jpg" alt="Beyond Micro 500GB External Hard Drive - 7200RPM, 16MB, USB 2.0" width="117" height="66" border="0"></a><br>
+            <span class="price">$89.97</span> &nbsp;&nbsp;<a href="/applications/searchtools/item-Details.asp?EdpNo=3796148&amp;sku=B800-1408&amp;CMP=ILC-FOT05" class="info">MORE 
             INFO<img src="http://images.tigerdirect.ca/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a></td>
         </tr>
       </tbody></table>
@@ -869,10 +942,10 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
          <table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tbody><tr> 
                
-          <td width="200" class="font_size1">Copyright © 2007<br>
+          <td width="200" class="font_size1">Copyright © 2008<br>
 <b>TigerDirect.ca</b> is headquartered at: <br>55 East Beaver Creek Rd. Unit G<br>Richmond Hill, ON<br>Canada, L4B 1E5<br><br>
          
-      <span class="priority1">YOUR PRIORITY CODE IS:</span>&nbsp;<span class="priority2">&nbsp;CANW&nbsp;</span><br>            
+      <span class="priority1">YOUR PRIORITY CODE IS:</span>&nbsp;<span class="priority2">&nbsp;CANEM1030&nbsp;</span><br>            
             </td>
                <td valign="top"><span class="font_size2"><b>All prices in Canadian dollars. No additional duties or fees.</b><br>
                   *Price after manufacturer mail-in rebate.&nbsp;&nbsp;Restrictions apply. Click <span class="info">MORE INFO</span> for details.<br>
@@ -886,16 +959,16 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
    </tr>
 </tbody></table>
 
-<div align="right"><font color="#DDDDDD">WEBX61</font></div>
+<div align="right"><font color="#DDDDDD">WEBX57</font></div>
 		<style type="text/css">
 		
 		.dod_spot{
-			background: #184684;
+			background: #333399;
 			height: 288px;
 		}
 		
 		.dod_spotPink{
-			background: #184684;
+			background: #931519;
 			height: 288px;
 		}
 		
@@ -921,7 +994,26 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 		 height:135px;
 		 z-index: 100;
 		}
+		.leftNavTitle{
+			background-color:#CCCCCC;
+			font-size:8pt;
+			color: #CC0000;
+			font-weight:bold;
+			text-indent: 3px;
+			border-bottom: solid 2px #CC0000;
+		}
 		
+		a.leftNavTitle:link{
+		color: #CC0000;
+		}
+		
+		a.leftNavTitle:hover{
+		text-decoration:underline;
+		}
+		
+		a.leftNavTitle:active{
+		color: #CC0000;
+		}
 		</style>
 		<!-- Timer Starts-->
 		<script language="JavaScript" src="//www.tigerdirect.ca/javascript/ps.js"></script>
@@ -1086,151 +1178,6 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 		}
 		</script><div id="layer1" style="position: absolute; left:780; top:144px; width:166px; height:300px; z-index:1">
 		
-		<!-- Bookmark -->
-		<script>
-			function popBookmarkLinks(whatToDo) {
-				if (whatToDo == "show") {
-					document.getElementById('bookmarkContainer').style.visibility = 'visible';
-				} else {
-					document.getElementById('bookmarkContainer').style.visibility = 'hidden';
-				}
-			}
-		
-			function bookmarksite(title,url){
-				if (window.sidebar) {
-					window.sidebar.addPanel(title, url, "");
-		
-				} else if(window.opera && window.print) {
-					var elem = document.createElement('a');
-					elem.setAttribute('href',url);
-					elem.setAttribute('title',title);
-					elem.setAttribute('rel','sidebar');
-					elem.click();
-		
-				} else if(document.all) {
-					window.external.AddFavorite(url, title);
-				}
-			}
-		
-			function loadPage(site, pageTitle, pageDescription) {
-				var rawURL = window.location.href;
-				rawURL = rawURL.replace("#", "");
-		
-				if (rawURL.indexOf("SRCCODE=") > 0) {
-					rawURL = rawURL.replace("SRCCODE=", "SRCCODE=WEBDIGG&OLDSRC=");
-				} else if (rawURL.indexOf("?") > 0) {
-					rawURL = rawURL + "&SRCCODE=WEBDIGG";
-				} else {
-					rawURL = rawURL + "?SRCCODE=WEBDIGG";
-				}
-		
-				var currentURL = encodeURIComponent(rawURL);
-				var title = encodeURIComponent(pageTitle);
-		
-				var bodytext = encodeURIComponent(pageDescription);
-		
-				var newURL;
-				var go = true;
-		
-				switch (site) {
-					case "del.icio.us":
-						newURL = "http://del.icio.us/post?v=4"
-						+ ";url=" + currentURL
-						+ ";title=" + title;
-					break;
-					case "digg":
-						newURL = "http://digg.com/submit?phase=2&"
-		
-						+ "url=" + currentURL
-		
-						+ "&title=" + title
-		
-						+ "&bodytext=" + bodytext
-		
-						+ "&topic=tech_deals";
-		
-					break;
-					case "reddit":
-						newURL = "http://reddit.com/submit?"
-						+ "url=" + currentURL
-						+ "&title=" + title;
-					break;
-					case "furl":
-						newURL = "http://www.furl.net/savedialog.jsp?"
-						+ "t=" + title
-						+ "&u=" + currentURL;
-					break;
-					case "rawsugar":
-						newURL = "http://www.rawsugar.com/home/extensiontagit/?turl=" + currentURL
-						+ "&tttl=" + title;
-					break;
-					case "stumbleupon":
-						newURL= "http://www.stumbleupon.com/submit?url=" + currentURL
-						+ "&title=" + title;
-					break;
-					case "blogmarks":
-						
-					break;
-					case "facebook":
-						newURL = "http://www.facebook.com/share.php?src=bm&v=4" 
-						+ "&u=" + currentURL
-						+ "&t=" + title;
-					break;
-					case "technorati":
-						newURL = "http://technorati.com/faves?sub=favthis&add=" + currentURL;
-					break;
-					case "spurl":
-						newURL = "http://www.spurl.net/spurl.php?v=3"
-						+ "&title=" + title
-						+ "&url=" + currentURL;
-					break;
-					case "simpy":
-						newURL= "http://www.simpy.com/simpy/LinkAdd.do?title=" + title
-						+"&href=" + currentURL;
-					break;
-					case "ask":
-						
-					break;
-					case "google":
-						newURL = "http://www.google.com/bookmarks/mark?op=edit&output=popup"
-						+ "&bkmk=" + currentURL
-						+ "&title=" + title;
-					break;
-					case "netscape":
-						newURL = "http://www.netscape.com/submit/?U=" + currentURL
-						+ "&T=" + title + "&C=" + bodytext;
-					break;
-					case "fark":
-						
-					break;
-					case "slashdot":
-						newURL = "http://slashdot.org/bookmark.pl?url=" + rawURL + "&title=" + title;
-					break;
-					case "backflip":
-						newURL= "http://www.backflip.com/add_page_pop.ihtml?" 
-						+ "title=" + title
-						+ "&url=" + currentURL;
-					break;
-					case "wink":
-						
-					break;
-					case "bluedot":
-						newURL = "http://bluedot.us/Authoring.aspx?"
-						+ "u=" + currentURL
-						+ "&t=" + title;
-					break;
-					case "browser":
-						bookmarksite(pageTitle, rawURL);
-						go = false;
-					break;
-				}
-		
-				if (go == true) {
-					window.open(newURL, "bookmarkWindow");
-				}
-			}
-			</script>
-		<!-- Bookmark End -->
 		
 		
 		<style type="text/css">
@@ -1248,19 +1195,25 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 			font-size: 12px;
 			text-decoration: none;
 			}
-		</style>
+        .style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+}
+        </style>
 		
 		
 		<center>
 		<script language="JavaScript" type="text/JavaScript">
-			dodLinkCA="/applications/searchtools/item-Details.asp?EdpNo=3521364&sku=G48-1044";
+		// CA DOD Link
+			dodLinkCA="/applications/searchtools/item-Details.asp?EdpNo=156&sku=P56-5122";
 			dodLinkCA+="&CMP=ILC-RNV-DOD";
 			function getDODpopCA(){
 					 dodPop=window.open("/sectors/dodPop/indexCA.asp","dodPop","width=414,height=400,left=50,top=50,screenX=0,screenY=0");
 					 window.location=dodLinkCA
 			}
-	
-			dodLink="/applications/searchtools/item-Details.asp?EdpNo=3521364&sku=G48-1044";
+		// US DOD link
+			dodLink="/applications/searchtools/item-Details.asp?EdpNo=2867970&sku=P56-9362";
 			dodLink+="&CMP=ILC-RNV-DOD"
 			
 			function getDODpop(){
@@ -1270,24 +1223,21 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 		</script>		
 		  <!-- Deal Of the Day Video -->
 		  
-		  <table width="161" border="0" cellspacing="0" cellpadding="0" class="dod_spotPink">
+		  <table width="161" border="0" cellspacing="0" cellpadding="0" class="dod_spot" bgcolor="184684">
 			<tbody><tr> 
 			  <td> <a href="javascript:getDODpageCA()"> 
 				<!-- DOD_topBlue2.jpg // DOD_topWeekEndBlueB.jpg // DOD_topBlue2Holiday.jpg-->
 				</a></td>
 			</tr><tr> 
-			  <td class="video" id="video"><!--<a href="javascript:getMovieCA('video');">-->
-				<a href="javascript:getDODpopCA()">
-				<img src="http://images.tigerdirect.ca/dealday/dodWeekend_G48-1044.jpg" width="161" height="331" border="0"></a></td>
+			  
+      <td class="video" id="video"> 
+        <!--<a href="javascript:getMovieCA('video');">
+        <a href="javascript:getDODpopCA()">--><a href="/applications/searchtools/item-Details.asp?EdpNo=2795126&amp;sku=TSD-500AAKS&amp;CMP=ILC-RNV-DOD"><img src="http://images.tigerdirect.ca/dealday/TTopDealsTSD-500AAKSbs.jpg" width="160" height="331" border="0" usemap="#Map_ttdMap">
+        <map name="Map_ttdMap" id="Map_ttdMap">
+          <area shape="rect" coords="8,201,48,234" href="http://www.tigerdirect.ca/email/ca/retro/dod.xml" target="_blank" alt="Today's Top Deal RSS Feed">
+          <area shape="poly" coords="150,318,6,318,8,240,51,238,51,218,51,196,11,193,10,16,151,16,150,317" href="/applications/searchtools/item-Details.asp?EdpNo=2795126&amp;sku=TSD-500AAKS&amp;CMP=ILC-RNV-DOD" target="_self" alt="Click Here"></map></a></td>
 			</tr>
-			  <tr><td> 
-				<div style="background-color:#184684; padding-top:4px; padding-left:2px; padding-right:2px; width:161px;" align="center"><font color="#FFFFFF"><strong><span id="countdown" class="font_size2"> 
-				<script language="JavaScript">CountdownTimer2(12, 21, 2007, 12, 0);</script>
-				</span></strong></font></div>
-			  </td>
-			</tr>
-			<tr> 
-			  <td><a href="/applications/campaigns/campaigntemplate.asp?CampaignID=390"><img src="http://images.tigerdirect.ca/sitebanners/160x60_Canada.gif" width="160" height="60" border="0"></a></td>
+			  <tr><td>			  </td>
 			</tr>
 		  </tbody></table>
 		  <!--------------------------------------------US DOD Ends Here------------------------------------------>
@@ -1296,13 +1246,14 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 		<!-- Pink rightNav Start -->
 		
 		<table width="161" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="E5F0F8">
+		
 		  <tbody><tr> 
 			<td> 
 			  <table width="161" border="0" cellspacing="0" cellpadding="0" class="font_size2">
 				<tbody><tr> 
-				  <td height="22" colspan="3" bgcolor="#184684" style="padding-left: 8px;"><a href="http://www.tigerdirect.ca/cgisec/modifyaccount.asp" class="navHDR"><font color="#FFFFFF">My 
-					Account</font></a><br>
-				  </td>
+				  <td height="22" colspan="3" bgcolor="#184684" style="padding-left: 8px;">
+				  <a href="http://www.tigerdirect.ca/cgisec/modifyaccount.asp" class="navHDR"><font color="#FFFFFF">My 
+					Account</font></a><br>				  </td>
 				</tr>
 				
 				<tr> 
@@ -1311,10 +1262,9 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 				<tr> 
 				  <td width="10"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="10" height="10"></td>
 				  <td class="font_size2">Welcome!<br>
-					<a href="https://www.tigerdirect.ca/secure/orderlogin.asp?PG=1"><u>Log 
-					in</u></a> or <a href="http://www.tigerdirect.ca/applications/MyAccount/subscribe2.asp"><u>Create 
-					Account</u></a><br>
-					<a href="http://www.tigerdirect.ca/applications/email/invoice.asp"><u>Invoice 
+                    <a href="https://www.tigerdirect.ca/secure/orderlogin.asp?PG=1"><u>Log 
+					in</u></a> or <a href="https://www.tigerdirect.ca/secure/subscribe2.asp"><u>Create 
+					Account</u></a><br><a href="http://www.tigerdirect.ca/applications/email/invoice.asp"><u>Invoice 
 					Copies</u></a></td>
 				  <td width="10"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="10" height="10"></td>
 				</tr>
@@ -1332,18 +1282,17 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 				</tr>
 				<tr> 
 				  <td width="10"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="10" height="10"></td>
-				  <td class="font_size2">B2B customers, <a href="https://www.tigerdirect.ca/secure/b2blogin.asp"><u>log 
+				  <td class="font_size2">Corporate customers, <a href="https://www.tigerdirect.ca/secure/b2blogin.asp"><u>log 
 					in</u></a> or<br>
 					request an <a href="https://www.tigerdirect.ca/applications/b2b/request.asp"> 
 					<u>extranet</u></a>. 
 					
 					<br>
 					<br>
-					Non-B2B customers <a href="https://www.tigerdirect.ca/secure/orderlogin.asp?PG=1"><u>log 
+					Consumers <a href="https://www.tigerdirect.ca/secure/orderlogin.asp?PG=1"><u>log 
 					in</u></a> or <a href="http://www.tigerdirect.ca/applications/MyAccount/subscribe2.asp"><u>create</u></a> 
 					an account. 
-					
-				  </td>
+									  </td>
 				  <td width="10"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="10" height="6"></td>
 				</tr>
 				<tr> 
@@ -1353,8 +1302,9 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 				<tr> 
 				  <td colspan="3"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="10" height="6"></td>
 				</tr>
-				<tr> 
-				  <td height="22" colspan="3" bgcolor="#184684" style="padding-left: 8px;"> <a href="http://www.tigerdirect.ca/cgi-bin/ShoppingCart.asp" class="navHDR"> 
+				<tr>       
+				  <td height="22" colspan="3" bgcolor="#184684" style="padding-left: 8px;">
+				   <a href="http://www.tigerdirect.ca/cgi-bin/ShoppingCart.asp" class="navHDR"> 
 					<font color="#FFFFFF">Your Shopping Cart</font></a></td>
 				</tr>
 				<tr> 
@@ -1369,12 +1319,11 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 						  0&nbsp;Items&nbsp;<br>
 						  Total:&nbsp; $0.00 
 						  </font></a><br>
-						  
-						</td>
+						  						</td>
 						<td width="25" valign="top"><a href="http://www.tigerdirect.ca/cgi-bin/ShoppingCart.asp"><img src="http://images.tigerdirect.ca/rightnav/btn_cart3.gif" width="20" height="28" hspace="5" border="0" alt="View your Shopping Cart"></a></td>
 					  </tr>
 					</tbody></table>
-				  </td>
+                    				  </td>
 				</tr>
 				<tr> 
 				  <td colspan="3"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="10" height="6"></td>
@@ -1389,6 +1338,8 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 				<!-- Search Start -->
 				
 				<!-- Search End -->
+				
+                
 				<!-- <table width="161" border="0" cellpadding="0" cellspacing="0" bgcolor="#F0F0F0" class="navHDR"> -->
   <tr> 
     <td colspan="3" bgcolor="#184684" style="padding-left: 8px;" height="20"><strong><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">3 Hot Deals!</font></strong></td>
@@ -1399,10 +1350,10 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
   <tr> 
     <td width="10" valign="top"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="10" height="10"></td>
     
-  <td width="141"><strong>10.4" Digital Frame<br>
-    </strong> <a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=3500016&amp;sku=W222-1012&amp;CMP=ILC-RNV01"><img src="http://images.tigerdirect.ca/dealday/rightNav_W222-1012rb.jpg" width="140" height="95" border="0"></a> 
-    <span class="price"><strong>$159.97</strong></span> <a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=3500016&amp;sku=W222-1012&amp;CMP=ILC-RNV01" class="info">INFO</a> 
-    | <a href="http://www.tigerdirect.ca/cgi-bin/order.asp?EdpNo=3500016&amp;qty=1&amp;CMP=ILC-RNV01" class="info"><font color="#CC0000">BUY</font><img src="http://images.tigerdirect.ca/frontproducts/greybubblearrowbl.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a> 
+  <td width="141"><strong>4GB USB Flash Drive<br>
+    </strong><a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=2315952&amp;sku=T555-1044&amp;CMP=ILC-RNV01"><img src="http://images.tigerdirect.ca/dealday/right1_T555-1044bs.gif" width="140" height="95" border="0"></a><a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=3402958&amp;sku=S153-7012&amp;CMP=ILC-RNV01"></a>
+    <span class="price"><strong>$15.99 </strong></span> <a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=2315952&amp;sku=T555-1044&amp;CMP=ILC-RNV01" class="info">INFO</a> 
+    | <a href="http://www.tigerdirect.ca/cgi-bin/order.asp?EdpNo=2315952&amp;qty=1&amp;CMP=ILC-RNV01" class="info"><font color="#CC0000">BUY</font><img src="http://images.tigerdirect.ca/frontproducts/greybubblearrowbl.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a> 
   </td>
     <td width="10" valign="top"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="10" height="6"></td>
   </tr>
@@ -1420,10 +1371,10 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
   <tr> 
     <td valign="top">&nbsp;</td>
     
-  <td><strong>500GB Hard Drive<br>
-    </strong> <a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=2273393&amp;sku=TSD-500AS2&amp;CMP=ILC-RNV02"><img src="http://images.tigerdirect.ca/dealday/rightNav_TSD-500AS2rba.jpg" width="140" height="95" border="0"></a> 
-    <span class="price"><strong>$119.97</strong></span>&nbsp;&nbsp;<a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=2273393&amp;sku=TSD-500AS2&amp;CMP=ILC-RNV02" class="info">INFO</a> 
-    | <a href="http://www.tigerdirect.ca/cgi-bin/order.asp?EdpNo=2273393&amp;qty=1&amp;CMP=ILC-RNV02" class="info"><font color="#CC0000">BUY</font><img src="http://images.tigerdirect.ca/frontproducts/greybubblearrowbl.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a></td>
+  <td><strong>Maxtor 500GB Hard Drive<br>
+    </strong> <a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=3167558&amp;sku=THD-500M3&amp;CMP=ILC-RNV02"><img src="http://images.tigerdirect.ca/dealday/right2_THD-500M3.gif" width="140" height="95" border="0"></a> 
+    <span class="price"><strong>$79.99</strong></span>&nbsp;&nbsp;<a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=3167558&amp;sku=THD-500M3&amp;CMP=ILC-RNV02" class="info">INFO</a> 
+    | <a href="http://www.tigerdirect.ca/cgi-bin/order.asp?EdpNo=3167558&amp;qty=1&amp;CMP=ILC-RNV02" class="info"><font color="#CC0000">BUY</font><img src="http://images.tigerdirect.ca/frontproducts/greybubblearrowbl.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a></td>
     <td valign="top">&nbsp;</td>
   </tr>
   <tr>
@@ -1440,34 +1391,38 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
   <tr>
     <td valign="top">&nbsp;</td>
     
-  <td><strong> nüvi 360 Personal GPS<br>
-    </strong> <a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=2323328&amp;sku=G145-0090&amp;CMP=ILC-RNV03"><img src="http://images.tigerdirect.ca/dealday/rightNav_G145-0090rba.jpg" width="140" height="95" border="0"></a> 
-    <span class="price"><strong>$349.97</strong></span>&nbsp;&nbsp;<a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=2323328&amp;sku=G145-0090&amp;CMP=ILC-RNV03" class="info">INFO</a> 
-    | <a href="http://www.tigerdirect.ca/cgi-bin/order.asp?EdpNo=2323328&amp;qty=1&amp;CMP=ILC-RNV03" class="info"><font color="#CC0000">BUY</font><img src="http://images.tigerdirect.ca/frontproducts/greybubblearrowbl.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a></td>
+  <td><strong>Nokia Internet Tablet<br>
+    </strong><a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=2817195&amp;sku=N529-1086&amp;CMP=ILC-RNV03"><img src="http://images.tigerdirect.ca/dealday/right3_N529-1086.gif" width="140" height="95" border="0"></a><a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=2315953&amp;sku=T555-1046&amp;CMP=ILC-RNV03"></a><span class="price"><strong> $219.99</strong></span>&nbsp;&nbsp;<a href="http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo=2817195&amp;sku=N529-1086&amp;CMP=ILC-RNV03" class="info">INFO</a> 
+    | <a href="http://www.tigerdirect.ca/cgi-bin/order.asp?EdpNo=2817195&amp;qty=1&amp;CMP=ILC-RNV03" class="info"><font color="#CC0000">BUY</font><img src="http://images.tigerdirect.ca/frontproducts/greybubblearrowbl.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a></td>
     <td valign="top">&nbsp;</td>
   </tr>
 
 <!-- </table> -->
 
 
+                
 				<tr> 
 				  <td colspan="3"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="10" height="6"></td>
 				</tr>
-				<tr> 
+				<tr>
+               
 				  
 				</tr><tr> 
 				  <td colspan="3"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="10" height="6"></td>
 				</tr>
 				<tr> 
-				  <td height="22" colspan="3" style="padding-left: 8px;" bgcolor="#184684"> 
-					<a href="http://www.tigerdirect.ca/applications/reviews/sitereviews/main.asp" class="navHDR"><font color="#FFFFFF">Testimonials</font></a> 
-				</td></tr>
+				  <td height="22" colspan="3" style="padding-left: 8px;" bgcolor="#184684">
+				<a href="http://www.tigerdirect.ca/applications/reviews/sitereviews/main.asp" class="navHDR"><font color="#FFFFFF">Testimonials</font></a>				</td></tr>
 				<tr> 
 				  <td colspan="3"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="10" height="6"></td>
 				</tr>
 				<tr> 
 				  <td width="10"><img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="10" height="6"></td>
 				  <td> 
+					
+					<b>Fast Processing and Quick Delivery! Very Satisfied</b><br>
+					This is my first time using Tiger Direct. I placed an order for some fairly rare and hard to find audio cables through Tiger Direct. The processing speed and delivery time was simply fantastic! The online shipment tracking tool and account/order details were readily accessible and easy to use. I am very pleased with Tiger Direct and will definitely be using them in the future.
+<br>
 					
 					<br>
 					<a href="http://www.tigerdirect.ca/applications/reviews/sitereviews/main.asp"><font color="#0050AA">See 
@@ -1485,9 +1440,9 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 		
 		<img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" width="10" height="3"><br>
 		
-		<div class="font_size3" align="center"><a href="http://www.tigerdirect.ca/applications/partners/index.asp">Shop 
+        <div class="font_size3" align="center"><a href="http://www.tigerdirect.ca/applications/partners/index.asp">Shop 
 		  By Brand</a></div>
-		  
+		
 		<center>
 		  
 		  <!-- begin ad tag-->
@@ -1496,7 +1451,7 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 		</center>
 		
 		<center>
-		  <a href="http://www.tigerdirect.ca/applications/partners/partner.asp?mfrid=2159"><img src="http://images.tigerdirect.ca/rightnav/hp.gif" width="160" height="40" border="0" vspace="2" alt="HP"></a><br>
+		  <a href="http://www.tigerdirect.ca/applications/campaigns/campaigntemplate.asp?CampaignID=471"><img src="http://images.tigerdirect.ca/rightnav/hp.gif" width="160" height="40" border="0" vspace="2" alt="HP"></a><br>
 		  <a href="http://www.tigerdirect.ca/applications/partners/partner.asp?mfrid=12"><img src="http://images.tigerdirect.ca/sitebanners/acer.gif" width="160" height="40" border="0" vspace="2" alt="Acer"></a> 
 		</center>
 		
@@ -1504,7 +1459,9 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 		
 		<img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" height="2" width="1"><br>
 		<center>
+
 		  
+
 		</center>
 		<br>
 		<img src="http://images.tigerdirect.ca/misc/pixel-clr.gif" height="2" width="1"><br>
@@ -1514,7 +1471,28 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 		<script for="window" event="onresize">
 				RefreshNav();
 			</script>
-		<!-- hb2 -->
+		
+		
+
+<map name="Map_ttd" id="Map_ttd">
+  <area shape="rect" coords="8,201,48,234" href="http://feeds.feedburner.com/CarlsDealOfTheDay-Tigerdirectcom" target="_blank" alt="Today's Top Deal RSS Feed">
+<area shape="poly" coords="4,5" href="#"><area shape="poly" coords="6,8" href="#"><area shape="poly" coords="152,10" href="#"><area shape="poly" coords="149,318,6,322,7,240,50,238,50,218,50,196,10,193,9,16,150,16,149,317" href="/applications/searchtools/item-Details.asp?EdpNo=2795126&amp;sku=TSD-500AAKS&amp;CMP=ILC-RNV-DOD" target="_self" alt="Click Here">
+</map>
+<script language="javascript" type="text/javascript">
+<!--
+ var cmCId = '90215357', cmDmn = 'tigerdirect.ca';
+-->
+</script>
+<script language="javascript" type="text/javascript" src="/javascript/cm/eluminate.js"></script>
+<script language="javascript" type="text/javascript" src="/javascript/cm/cmdatatagutils.js"></script> 
+<script language="javascript" type="text/javascript">
+<!--
+cmSetProduction();
+cmCreatePageviewTag('Legal : Privacy Rights','LEGAL',null,null);
+
+-->
+</script>
+<!-- hb2 -->
 
 <!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
 <!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
@@ -1603,13 +1581,15 @@ if(typeof _ar!="undefined"){
 function _stripParam(a,b,c,d,e){d=a.indexOf(b);e=a.indexOf(c,d+1);if(d>=0&&e>=0)return a.substring(0,d)+a.substring(e,a.length);return a}
 function _sendCheckout(){ if (typeof _i!="undefined" && typeof _ar!="undefined") { _i.src=_checkout; } }
 </script>
-<!--Cart(rNavEdpDesc)   :^D>>Cenomax 7" Digital Photo Frame with 4 Borders>>EdpNo=3265212^D>>Logitech Audio Station>>EdpNo=2487787^D>>Acer AL2216WBD 22" Widescreen LCD Monitor>>-->
+<!--Cart(PHRoutine)     :45-->
+<!--Cart(rNavEdpDesc)   :^D>>Ultra 1024MB PC3200 DDR>>EdpNo=1071020^D>>Transcend 2GB SD Card-->
 <!--Cart(rNavLastVisit) :-->
-<!--Cart(rNavCatId)     :^D>>Desktop Computers>>category_tlc.asp?CatId=6^D>>Monitors>>category_tlc.asp?CatId=12^D>>Laptops>>category_tlc.asp?CatId=17-->
-<!--Cart(rNavSearch)    :^D>>Top Product: >>^D>>Top Product: >>^D>>Top Product: >>-->
-<!--pop_check           :active-->
-<!--SessionId           :18846342007122818171164208172178-->
-<!--SRCCODE             :CANW-->
+<!--Cart(rNavCatId)     :^C>>Removable Data Storage>>category_tlc.asp?CatId=24^C>>Motherboards>>category_tlc.asp?CatId=13^C>>TV Tuner Devices>>category_slc.asp?CatId=1427-->
+<!--Cart(rNavSearch)    :^S>>jawbone>>/applications/SearchTools/search.asp?keywords=jawbone^S>>geforce 8800 gt>>/applications/SearchTo-->
+<!--SessionId           :369911562008050701160020923417142-->
+<!--SRCCODE             :CANEM1030-->
+<!--hitbox_search       :Search+for+keywords+[jawbone]-->
+<!--Warranty            :POPPED-->
 
 
 
