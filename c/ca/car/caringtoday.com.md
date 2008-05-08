@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caringtoday.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028194611id_/http%3A//www.caringtoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caringtoday.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508041245id_/http%3A//www.caringtoday.com/caring-today-magazine-llc-online-privacy-policy) for the most accurate reproduction.*
 
 # Caring Today Magazine, LLC Online Privacy Policy | Caring Today
 
@@ -69,6 +69,3 @@ Copyright 2004, Caring Today Magazine, LLC
 All rights reserved. 
 
 _Effective date: November 1, 2004_
-
-  
-
