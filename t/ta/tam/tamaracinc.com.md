@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629044750id_/http%3A//www.tamaracinc.com/Public/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508041551id_/http%3A//www.tamaracinc.com/Privacy-Policy.asp) for the most accurate reproduction.*
 
-# Tamarac Inc.
+# Tamarac Inc. | Privacy Policy
 
-|   
-Tamarac Inc. (“Tamarac”) has created this privacy policy to demonstrate our commitment to privacy. 
+  
+Privacy Policy
+
+Tamarac Inc. ("Tamarac") has created this privacy policy to demonstrate our commitment to privacy. 
 
 As a general proposition, we do not sell, rent or otherwise disclose any personally identifiable information about you to any third party. We do aggregate personally identifiable information and disclose such information in the aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you, your clients, or your client’s investments. 
 
-We collect and use personally identifiable information from you to statistically analyze Web site usage, to improve our content, and to assist your clients in reaching their investment goals. Once you subscribe to our services, we shall collect and maintain data for each portfolio you establish that tracks trades recommended by our products and services to assist you in optimizing your client’s portfolio holdings (e.g., to comply with “Wash Sales Rules”). 
+We collect and use personally identifiable information from you to statistically analyze Web site usage, to improve our content, and to assist your clients in reaching their investment goals. Once you subscribe to our services, we shall collect and maintain data for each portfolio you establish that tracks trades recommended by our products and services to assist you in optimizing your client’s portfolio holdings (e.g., to comply with "Wash Sales Rules"). 
 
 Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this privacy policy. By way of example and without limiting the foregoing, we may be forced to disclose information to the government or third parties under certain circumstances. Also, we may disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of intellectual property infringement or other activity that is illegal or may expose us to legal liability. 
 
@@ -17,7 +19,4 @@ Tamarac uses security measures on this Web site to protect the loss, misuse and 
 
 Tamarac reserves the right to change or update this privacy policy at any time without notice by updating this page. All updates to this privacy policy will be posted at this location. You should visit this page from time to time to review the then-current terms because they are binding on you. 
 
-If you have any questions about this privacy policy, the practices of this Web site, or your dealings with this Web site, you may contact us at: [info@tamaracinc.com](mailto:info@tamarcinc.com).   
-  
-  
----|---
+If you have any questions about this privacy policy, the practices of this Web site, or your dealings with this Web site, you may contact us at: [info@tamaracinc.com](mailto:info@tamaracinc.com)
