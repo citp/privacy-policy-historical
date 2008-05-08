@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the octro.com privacy policy that was archived on 2007-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070922024809id_/http%3A//www.octro.com/inner.php%3FlnkId%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octro.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508055114id_/http%3A//octro.com/inner.php%3FlnkId%3D4) for the most accurate reproduction.*
 
 # Octro
 
