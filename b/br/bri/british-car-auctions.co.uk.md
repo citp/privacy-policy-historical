@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the british-car-auctions.co.uk privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025155505id_/http%3A//www.british-car-auctions.co.uk/Default.aspx%3Fpage%3D1670) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the british-car-auctions.co.uk privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508232804id_/http%3A//www.british-car-auctions.co.uk/Default.aspx%3Fpage%3D1670) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ Protecting the security of all personally-identifiable information associated wi
 BCA does not knowingly collect information from children. If you are under 13, please do not provide any personal information to us.
 
 **The List Owner (the Data Controller)**  
-The List Owner and Data Controller is British Car Auctions Ltd, Expedier House, Portsmouth Road, Hindhead, Surrey GU26 6TJ. www.bca-europe.com
+The List Owner and Data Controller is British Car Auctions Ltd, Headway House, Crosby Way, Farnham, Surrey  GU9 7XG. www.bca-europe.com
 
 **Access to your own data**  
 To be provided with a copy of your own personal data that we collect online and maintain in our database, and to contest and correct inaccuracies, or request that your personal data be deleted, please send an e-mail and we will action your request. To unsubscribe BCA email communications please email us at [news@bca-group.com](mailto:news@bca-group.com) with "Unsubscribe" in the subject, and we will take you off the list.
