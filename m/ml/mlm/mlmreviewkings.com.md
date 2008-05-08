@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mlmreviewkings.com privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109064022id_/http%3A//www.mlmreviewkings.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmreviewkings.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508040839id_/http%3A//www.mlmreviewkings.com/privacy_policy.html) for the most accurate reproduction.*
 
-# JoinBrianAndJeff.com
+# MLMreviewKings.com
 
 **This Privacy Policy describes the terms of our commitment to your privacy.
 
