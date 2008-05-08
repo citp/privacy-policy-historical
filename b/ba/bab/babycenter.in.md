@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the babycenter.in privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223062938id_/http%3A//www.babycenter.in/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.in privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508023519id_/http%3A//www.babycenter.in/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### The big decision
-
-[ ](https://web.archive.org/babyname/)
-
-Can't decide on a name? Our baby namer has 11,000 ideas to choose from.   
-[Start looking now!](https://web.archive.org/babyname/)
 
 |  | 
 
