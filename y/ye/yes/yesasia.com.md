@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesasia.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225165311id_/http%3A//us.yesasia.com/help/Section.aspx%3FsectionId%3D571%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesasia.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508223930id_/http%3A//us.yesasia.com/help/Section.aspx%3FsectionId%3D571%26lang%3Den) for the most accurate reproduction.*
 
 # YesAsia.com: Customer Support
 
