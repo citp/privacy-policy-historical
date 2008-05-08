@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviva.com privacy policy that was archived on 2007-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071106015658id_/http%3A//www.aviva.com/index.asp%3Fpageid%3D637) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviva.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508221756id_/http%3A//www.aviva.com/index.asp%3Fpageid%3D637) for the most accurate reproduction.*
 
 # Aviva plc : Site functions : Privacy
 
@@ -8,7 +8,7 @@ Aviva plc is a member of the Aviva Group. We will use your personal details and 
 
 We use cookies to collect information about how this site is used. We use this information to improve how the site caters for your needs and to identify any technical problems.
 
-Cookies are small bits of data that are stored by your browser. You can accept or decline cookies by modifying the settings of your web browser. Further details are available in our [Aviva cookie policy](https://web.archive.org/web/20071106015658id_/http%3A//www.aviva.com/index.asp?pageid=857) or for further information about how to disable cookies in your browser please visit the [About cookies website](https://web.archive.org/web/20071106015658id_/http%3A//www.aviva.com/index.asp?pageident=disclaimer&site=http://www.aboutcookies.org/Default.aspx?page=1).
+Cookies are small bits of data that are stored by your browser. You can accept or decline cookies by modifying the settings of your web browser. Further details are available in our [Aviva cookie policy](https://web.archive.org/web/20080508221756id_/http%3A//www.aviva.com/index.asp?pageid=857) or for further information about how to disable cookies in your browser please visit the [About cookies website](https://web.archive.org/web/20080508221756id_/http%3A//www.aviva.com/index.asp?pageident=disclaimer&site=http://www.aboutcookies.org/Default.aspx?page=1).
 
 When you visit our site, we may also log your IP address, a unique identifier for your computer or other access device. 
 
