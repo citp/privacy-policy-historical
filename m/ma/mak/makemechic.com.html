@@ -1,0 +1,1171 @@
+<!--The following is the downloaded HTML source of the makemechic.com privacy policy that was archived on 2008-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080508191402id_/http%3A//fashion.makemechic.com/privacy.htm) for the most accurate reproduction.-->
+
+<html><head></head><body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#3366FF" vlink="#3366FF" alink="#3366FF"><div style="position: absolute; width: 100%; height: 100px; z-index: 1; left:0px" id="layer1">
+
+<title>Privacy</title>
+<meta name="ROBOTS" content="INDEX,FOLLOW">
+
+	<script language="javascript">
+	
+	</script>
+
+
+	<form method="post" action="Home.aspx?accountId=53000126&amp;storeId=53000025&amp;storeURL=www.makemechic.com&amp;catId=3627" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjA3OTA1MzU0ZGQ=">
+</div>
+
+	<style type="text/css">
+<!--
+A:link    { color: #116C05 }
+A:active  { color: #116C05 }
+A:visited { color: #116C05 }
+A:hover { color: #000000 }
+
+body {
+	font-family: tahoma;
+    color: #000000;
+    font-size: x-small;
+}
+
+td {
+	font-family: tahoma;
+    color: #000000;
+    font-size: x-small;
+}
+
+.headerbg { background-color: #48933E }
+.headerbg:link { color: #116C05 }
+.headerbg:active { color: #116C05 }
+.headerbg:visited { color: #116C05 }
+.headerbg:hover { color: #000000 }
+
+.topbar { background-color: #116C05 }
+
+.mainnavon { color: #FFFFFF; background-color: #000000 }
+.mainnavontxt { color: #FFFFFF; text-decoration: none }
+.mainnavontxt:link { color: #FFFFFF }
+.mainnavontxt:active { color: #FFFFFF }
+.mainnavontxt:visited { color: #FFFFFF }
+.mainnavontxt:hover { color: #FFFFFF; text-decoration: underline }
+
+.mainnavdiv { color: #48933E }
+
+.mainnavoff { }
+.mainnavoff:hover { color: #FFFFFF; background-color: #116C05 }
+.mainnavofftxt { color: #FFFFFF; text-decoration: none }
+.mainnavofftxt:link { color: #FFFFFF }
+.mainnavofftxt:active { color: #FFFFFF }
+.mainnavofftxt:visited { color: #FFFFFF }
+.mainnavofftxt:hover { color: #FFFFFF; text-decoration: underline }
+
+.framebghorizontal { background-color: #000000 }
+
+.framebgvertical {  background-color: #000000 }
+
+.sidebar { background-color: #9ECA97 }
+
+.searchtxt { font-weight: bold; color: #000000 }
+.searchtxt:link { font-weight: normal; color: #000000 }
+.searchtxt:hover  { font-weight: normal; color: #000000 }
+.searchtxt:visited  { font-weight: normal; color: #000000 }
+.searchtxt:active  { font-weight: normal; color: #000000 }
+.searchboxbg { background-color: #9ECA97 }
+
+.catdiv { background-color: #000000 }
+.catalogtitle { font-weight: bold; color: #8F3CC0 }
+.cattitlebg { background-color: #116C05 }
+.catoff { color: #116C05; font-weight: bold; text-decoration: none; background-color: #9ECA97; }
+.catoff:link { color: #116C05; font-weight: bold; text-decoration: none }
+.catoff:active { color: #116C05; font-weight: bold; text-decoration: none }
+.catoff:visited { color: #116C05; font-weight: bold; text-decoration: none }
+.catoff:hover { color: #000000; font-weight: bold; text-decoration: none }
+.catsub { font-weight: normal; text-decoration: none }
+.catsub:link { font-weight: normal; text-decoration: none }
+.catsub:active { font-weight: normal; text-decoration: none }
+.catsub:visited { font-weight: normal; text-decoration: none }
+.catsub:hover { font-weight: normal; text-decoration: none }
+
+.caton { background-color: #116C05; }
+.caton:link { color: #9ECA97; font-weight: bold; text-decoration: none }
+.caton:active { color: #9ECA97; font-weight: bold; text-decoration: none }
+.caton:visited { color: #9ECA97; font-weight: bold; text-decoration: none }
+.caton:hover { color: #9ECA97; font-weight: bold; text-decoration: none }
+
+.categorybg { background-color: #9ECA97 }
+
+.history { font-weight: bold; color: #000000 }
+.history:link { color: #116C05 }
+.history:active { color: #116C05 }
+.history:visited { color: #116C05 }
+.history:hover { color: #000000 }
+.historybg { background-color: #D2F2CD }
+
+.bottombar { background-color: #ffffff; font-size: xx-small; COLOR: #9ECA97 }
+.bottombar:link { font-weight: bold; color: #FFFFFF }
+.bottombar:active { font-weight: bold; color: #FFFFFF }
+.bottombar:visited { font-weight: bold; color: #FFFFFF }
+.bottombar:hover { font-weight: bold; color: #FFFFFF }
+
+-->
+</style>
+	<script language="javascript">
+	
+
+		function AddToCart( itemToAdd ){
+			var oForm = document.forms[0];
+			var oQuantity;
+			var ValidatorResult;
+			
+			if (window.location.search.indexOf("apid=") != -1)
+			{
+				var oLink = SearchControlTree(oForm, "StoreLink", 1);
+				// Only Cross Sells will have a value in itemToAdd
+				if( itemToAdd == 0 )
+				{			
+					// This is an actual add of the itme on the item detail page
+					// StoreCartHelper.AddToCart will get itemid from the form	
+					oQuantity = SearchControlTree(oForm, "quantity", 1);
+					if( oQuantity )
+					{
+						//if (!(validatePositive(oQuantity, "quantity"))){
+						//	return;
+						//}
+						
+						ValidatorResult = validatePositive(oQuantity, "quantity");
+						if( ValidatorResult < 1 )
+						{
+							switch(ValidatorResult)
+							{
+								case -2:
+									alert('\u0054\u0068\u0065\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u0020\u006D\u0075\u0073\u0074\u0020\u0062\u0065\u0020\u0061\u0020\u006E\u0075\u006D\u0062\u0065\u0072\u002E\u0020\u0020\u0044\u006F\u0020\u006E\u006F\u0074\u0020\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0065\u0020\u0074\u0068\u006F\u0075\u0073\u0061\u006E\u0064\u0073\u0020\u0073\u0065\u0070\u0061\u0072\u0061\u0074\u006F\u0072\u0020\u0077\u0068\u0065\u006E\u0020\u0065\u006E\u0074\u0065\u0072\u0069\u006E\u0067\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u002E\u0020\u0020\u0050\u006C\u0065\u0061\u0073\u0065\u0020\u0072\u0065\u002D\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0069\u0073\u0020\u0066\u0069\u0065\u006C\u0064\u002E');
+									return;
+								case -3:
+									alert ('\u0054\u0068\u0065\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u0020\u006D\u0075\u0073\u0074\u0020\u0062\u0065\u0020\u0061\u0020\u0077\u0068\u006F\u006C\u0065\u0020\u006E\u0075\u006D\u0062\u0065\u0072\u002C\u0020\u0077\u0069\u0074\u0068\u0020\u006E\u006F\u0020\u0064\u0065\u0063\u0069\u006D\u0061\u006C\u002E\u0020\u0020\u0050\u006C\u0065\u0061\u0073\u0065\u0020\u0072\u0065\u002D\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0069\u0073\u0020\u0066\u0069\u0065\u006C\u0064\u002E');
+									return;
+								case -4:
+									alert ('\u0054\u0068\u0065\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u0020\u006D\u0075\u0073\u0074\u0020\u0062\u0065\u0020\u0067\u0072\u0065\u0061\u0074\u0065\u0072\u0020\u0074\u0068\u0061\u006E\u0020\u0030\u002E\u0020\u0020\u0050\u006C\u0065\u0061\u0073\u0065\u0020\u0072\u0065\u002D\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0069\u0073\u0020\u0066\u0069\u0065\u006C\u0064\u002E');
+									return;
+							}
+						}
+						DoStoreLink(oLink.value + "&AddToCart=1&quantity=" + oQuantity.value);
+					}
+					else
+					{
+						DoStoreLink(oLink.value + "&AddToCart=1&quantity=1");
+					}
+				}
+				else
+				{
+					// This adding a crossell item
+					
+					// This is an actual add of the itme on the item detail page
+					// StoreCartHelper.AddToCart will get itemid from the form	
+					oQuantity = SearchControlTree(oForm, "quantity", 1);
+					if( oQuantity )
+					{					
+						ValidatorResult = validatePositive(oQuantity, "quantity");
+						if( ValidatorResult < 1 )
+						{
+							switch(ValidatorResult)
+							{
+								case -2:
+									alert('\u0054\u0068\u0065\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u0020\u006D\u0075\u0073\u0074\u0020\u0062\u0065\u0020\u0061\u0020\u006E\u0075\u006D\u0062\u0065\u0072\u002E\u0020\u0020\u0044\u006F\u0020\u006E\u006F\u0074\u0020\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0065\u0020\u0074\u0068\u006F\u0075\u0073\u0061\u006E\u0064\u0073\u0020\u0073\u0065\u0070\u0061\u0072\u0061\u0074\u006F\u0072\u0020\u0077\u0068\u0065\u006E\u0020\u0065\u006E\u0074\u0065\u0072\u0069\u006E\u0067\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u002E\u0020\u0020\u0050\u006C\u0065\u0061\u0073\u0065\u0020\u0072\u0065\u002D\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0069\u0073\u0020\u0066\u0069\u0065\u006C\u0064\u002E');
+									return;
+								case -3:
+									alert ('\u0054\u0068\u0065\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u0020\u006D\u0075\u0073\u0074\u0020\u0062\u0065\u0020\u0061\u0020\u0077\u0068\u006F\u006C\u0065\u0020\u006E\u0075\u006D\u0062\u0065\u0072\u002C\u0020\u0077\u0069\u0074\u0068\u0020\u006E\u006F\u0020\u0064\u0065\u0063\u0069\u006D\u0061\u006C\u002E\u0020\u0020\u0050\u006C\u0065\u0061\u0073\u0065\u0020\u0072\u0065\u002D\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0069\u0073\u0020\u0066\u0069\u0065\u006C\u0064\u002E');
+									return;
+								case -4:
+									alert ('\u0054\u0068\u0065\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u0020\u006D\u0075\u0073\u0074\u0020\u0062\u0065\u0020\u0067\u0072\u0065\u0061\u0074\u0065\u0072\u0020\u0074\u0068\u0061\u006E\u0020\u0030\u002E\u0020\u0020\u0050\u006C\u0065\u0061\u0073\u0065\u0020\u0072\u0065\u002D\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0069\u0073\u0020\u0066\u0069\u0065\u006C\u0064\u002E');
+									return;
+							}
+						}
+						// StoreCartHelper.AddToCart will get itemid from the querystring
+						if (oLink.value.indexOf("&itemid=") != -1) {
+						    var start = oLink.value.indexOf("&itemid=");
+						    oLink.value = oLink.value.substr(0,start);
+						}
+				        DoStoreLink(oLink.value + "&AddToCart=1&quantity=" + oQuantity.value + "&itemid=" + itemToAdd);
+					}
+					else
+					{
+				        // StoreCartHelper.AddToCart will get itemid from the querystring
+						if (oLink.value.indexOf("&itemid=") != -1)
+						    DoStoreLink(oLink.value + "&AddToCart=1&quantity=1");
+					    else
+					        DoStoreLink(oLink.value + "&AddToCart=1&quantity=1&itemid=" + itemToAdd);
+					}
+				}		
+				return;
+			}
+			
+			// Only Cross Sells will have a value in itemToAdd
+			if( itemToAdd == 0 )
+			{
+				oQuantity = SearchControlTree(oForm, "quantity", 1);
+				if( oQuantity )
+				{
+					ValidatorResult = validatePositive(oQuantity, "quantity");
+					if( ValidatorResult < 1 )
+					{
+						switch(ValidatorResult)
+						{
+							case -2:
+								alert('\u0054\u0068\u0065\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u0020\u006D\u0075\u0073\u0074\u0020\u0062\u0065\u0020\u0061\u0020\u006E\u0075\u006D\u0062\u0065\u0072\u002E\u0020\u0020\u0044\u006F\u0020\u006E\u006F\u0074\u0020\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0065\u0020\u0074\u0068\u006F\u0075\u0073\u0061\u006E\u0064\u0073\u0020\u0073\u0065\u0070\u0061\u0072\u0061\u0074\u006F\u0072\u0020\u0077\u0068\u0065\u006E\u0020\u0065\u006E\u0074\u0065\u0072\u0069\u006E\u0067\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u002E\u0020\u0020\u0050\u006C\u0065\u0061\u0073\u0065\u0020\u0072\u0065\u002D\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0069\u0073\u0020\u0066\u0069\u0065\u006C\u0064\u002E');
+								return;
+							case -3:
+								alert ('\u0054\u0068\u0065\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u0020\u006D\u0075\u0073\u0074\u0020\u0062\u0065\u0020\u0061\u0020\u0077\u0068\u006F\u006C\u0065\u0020\u006E\u0075\u006D\u0062\u0065\u0072\u002C\u0020\u0077\u0069\u0074\u0068\u0020\u006E\u006F\u0020\u0064\u0065\u0063\u0069\u006D\u0061\u006C\u002E\u0020\u0020\u0050\u006C\u0065\u0061\u0073\u0065\u0020\u0072\u0065\u002D\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0069\u0073\u0020\u0066\u0069\u0065\u006C\u0064\u002E');
+								return;
+							case -4:
+								alert ('\u0054\u0068\u0065\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u0020\u006D\u0075\u0073\u0074\u0020\u0062\u0065\u0020\u0067\u0072\u0065\u0061\u0074\u0065\u0072\u0020\u0074\u0068\u0061\u006E\u0020\u0030\u002E\u0020\u0020\u0050\u006C\u0065\u0061\u0073\u0065\u0020\u0072\u0065\u002D\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0069\u0073\u0020\u0066\u0069\u0065\u006C\u0064\u002E');
+								return;
+						}
+					}
+				}
+				oForm.action = document.location;
+			}
+			else
+			{
+			    //need to allow for qty here because of matrix items
+			    oQuantity = SearchControlTree(oForm, "quantity", 1);
+				if( oQuantity )
+				{
+					ValidatorResult = validatePositive(oQuantity, "quantity");
+					if( ValidatorResult < 1 )
+					{
+						switch(ValidatorResult)
+						{
+							case -2:
+								alert('\u0054\u0068\u0065\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u0020\u006D\u0075\u0073\u0074\u0020\u0062\u0065\u0020\u0061\u0020\u006E\u0075\u006D\u0062\u0065\u0072\u002E\u0020\u0020\u0044\u006F\u0020\u006E\u006F\u0074\u0020\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0065\u0020\u0074\u0068\u006F\u0075\u0073\u0061\u006E\u0064\u0073\u0020\u0073\u0065\u0070\u0061\u0072\u0061\u0074\u006F\u0072\u0020\u0077\u0068\u0065\u006E\u0020\u0065\u006E\u0074\u0065\u0072\u0069\u006E\u0067\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u002E\u0020\u0020\u0050\u006C\u0065\u0061\u0073\u0065\u0020\u0072\u0065\u002D\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0069\u0073\u0020\u0066\u0069\u0065\u006C\u0064\u002E');
+								return;
+							case -3:
+								alert ('\u0054\u0068\u0065\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u0020\u006D\u0075\u0073\u0074\u0020\u0062\u0065\u0020\u0061\u0020\u0077\u0068\u006F\u006C\u0065\u0020\u006E\u0075\u006D\u0062\u0065\u0072\u002C\u0020\u0077\u0069\u0074\u0068\u0020\u006E\u006F\u0020\u0064\u0065\u0063\u0069\u006D\u0061\u006C\u002E\u0020\u0020\u0050\u006C\u0065\u0061\u0073\u0065\u0020\u0072\u0065\u002D\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0069\u0073\u0020\u0066\u0069\u0065\u006C\u0064\u002E');
+								return;
+							case -4:
+								alert ('\u0054\u0068\u0065\u0020\u0071\u0075\u0061\u006E\u0074\u0069\u0074\u0079\u0020\u006D\u0075\u0073\u0074\u0020\u0062\u0065\u0020\u0067\u0072\u0065\u0061\u0074\u0065\u0072\u0020\u0074\u0068\u0061\u006E\u0020\u0030\u002E\u0020\u0020\u0050\u006C\u0065\u0061\u0073\u0065\u0020\u0072\u0065\u002D\u0065\u006E\u0074\u0065\u0072\u0020\u0074\u0068\u0069\u0073\u0020\u0066\u0069\u0065\u006C\u0064\u002E');
+								return;
+						}
+					}
+				}
+			
+				if( window.location.search.length == 0 )
+				{
+				    if( oQuantity ) {
+					    oForm.action = document.location + "?quantity=" + oQuantity.value + "&itemid=" + itemToAdd + "&AddToCart=1";
+					}
+					else {
+					    oForm.action = document.location + "?quantity=1&itemid=" + itemToAdd + "&AddToCart=1";
+					}
+				}
+				else
+				{
+					// if there is already an itemid in the search we need to strip it out
+					// or the storekey will get hosed.
+					var sLocation = document.location.href;
+					var sLocationSearch = window.location.search.substring(1);
+					var sStoreKey = "";
+					var aLocationSearch = sLocationSearch.split( "&" );
+					for( i = 0; i < aLocationSearch.length; i++ )
+					{
+						if( aLocationSearch[i].substring(0,4) == "sck=" )
+						{
+							sStoreKey = aLocationSearch[i].substring(4);
+						}
+					}
+
+					if( sLocation.indexOf("?") != -1 )
+					{
+						sLocation = sLocation.substring(0, sLocation.indexOf("?") );
+					}
+
+					sLocation = sLocation + "?";
+					if( sStoreKey != "" )
+					{
+						sLocation = sLocation + "sck=" + sStoreKey + "&";
+					}
+					
+					if( oQuantity ) {
+					    sLocation = sLocation + "quantity=" + oQuantity.value + "&itemid=" + itemToAdd + "&AddToCart=1";
+					}
+					else {
+					    sLocation = sLocation + "quantity=1&itemid=" + itemToAdd + "&AddToCart=1";
+					}
+					oForm.action = sLocation;
+				}
+			}
+			oForm.submit();
+		}
+		
+		function SearchControlTree(oForm, sId) {
+			var oControl = null;
+			if (oForm) {
+				for (var i=0; oForm[i]; i++) {
+					var sControlId = oForm[i].name;
+					// next two lines chop off the names of parents in the control tree hierarchy
+					if (sControlId.indexOf('$') != -1)
+						sControlId = sControlId.substr(sControlId.lastIndexOf('$') + 1);
+					if (sControlId == sId) {
+						oControl = oForm[i];
+						break;
+					}
+				}
+			}
+			return (oControl);
+		}
+		
+		function DoSimpleSearch()
+		{
+			var oForm = document.forms[0];
+			
+			if (window.location.search.indexOf("apid=") != -1)
+			{
+				DoStoreLink('http://www.makemechic.com/store/search.aspx');
+				return;
+			}
+			else
+			{
+				oForm.action = 'http://www.makemechic.com/store/search.aspx';
+				oForm.submit();		
+			}
+		}
+		
+		function DoSearch()
+		{
+			var oForm = document.forms[0];
+			
+			if (window.location.search.indexOf("apid=") != -1)
+			{
+				var keywords,sku,pricelow, pricehigh, category, qs;
+			
+				keywords = SearchControlTree(oForm, "txtKeywords");
+				sku = SearchControlTree(oForm, "txtSKU");
+				pricelow = SearchControlTree(oForm,"txtStartPrice");
+				pricehigh = SearchControlTree(oForm,"txtEndPrice");
+				category = SearchControlTree(oForm,"ddCategories");
+				
+				qs = "";
+				if (keywords.value != "")
+					qs = "&key=" + keywords.value;
+				if (sku.value != "")
+					qs = qs + "&sku=" + sku.value;	
+				if (pricelow.value  >= 0)
+					qs = qs + "&sp=" + pricelow.value;
+				if (pricehigh.value > 0)
+					qs = qs + "&ep=" + pricehigh.value;
+				if (category.value > 0)
+					qs = qs + "&scat=" + category.value;						
+			
+				var oLink = SearchControlTree(oForm, "StoreLink", 1);
+				
+				//need to remove existing search parameters
+				if (oLink.value.indexOf('?') != -1)
+				    oLink.value = oLink.value.substr(0,oLink.value.lastIndexOf('?'));	
+				
+				DoStoreLink(oLink.value + '?nocache=1' + qs);
+				return;
+			}
+			else
+			{
+				oForm.action = '/store/search.aspx';
+				oForm.submit();	
+			}
+		}
+		
+		function NoReturn(evt, oSearch)
+		{
+			if ((evt.which) && (evt.which == 13))
+			{
+				DoSimpleSearch();
+				return false;
+			}
+			if ((evt.keyCode) && (evt.keyCode == 13))
+			{
+				DoSimpleSearch();
+				evt.keyCode = 0;
+				return;
+			}
+		}
+		
+		function SortBy()
+		{
+			var oForm = document.forms[0];
+			sortby = SearchControlTree(oForm, "ddSortBy");
+			
+			var sSelectedSortOption=sortby.value;
+			
+			sSortByLink=ReplaceSortParam(sSortByLink, sSelectedSortOption);
+			this.location.href=sSortByLink;
+		}
+		
+		// replaces the sort querystring param in url with "sort=" + newSortIndex value
+		function ReplaceSortParam(url, newSortIndex)
+		{
+			var splitUrl = url.split("&");
+			
+			for (var i=0;i<splitUrl.length;i++)
+			{
+				if (splitUrl[i].slice(0,5).toUpperCase()=="SORT=")
+				{
+					splitUrl[i] = "sort=" + newSortIndex;
+				}
+			}
+			
+			return splitUrl.join("&");
+		}
+
+		var DSL = 0;
+	</script>
+	
+    <script type="text/javascript">
+        var _CA_GA_ACCTID = "UA-2542208-1";
+    </script>
+    
+        <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">  
+        </script> 
+        <script type="text/javascript"> 
+            _uacct=_CA_GA_ACCTID; 
+            if( document.location.href.toLowerCase().indexOf('channeladvisor.com') > -1 ) 
+            { 
+                _udn="channeladvisor.com"; 
+            } 
+            else 
+            { 
+                _udn="none"; 
+                _ulink=1; 
+                _uhash="off"; 
+            } 
+            urchinTracker(); 
+            
+            function _CA__utmLinker( sURL )
+            {
+                if( document.location.href.toLowerCase().indexOf('channeladvisor.com') > -1 ) 
+                {
+                    document.location = sURL;
+                }
+                else
+                {
+                    __utmLinker( sURL );
+                }
+            }
+        </script> 
+    
+	
+	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tbody><tr>
+			<td colspan="3" class="headerbg"><!-- Hide Nav -->
+<script language="javascript">
+<!--
+function OpenWin(sPageUrl)
+{
+	if (navigator.appName == "Netscape")
+		newwindow = window.open(sPageUrl,"Help","toolbar=0,menubar=0,width=550,height=400,scrollbars=1,resizable=0");
+	else
+		newwindow = window.open(sPageUrl,"Help","height=400, width=550, toolbar=0, menubar=0, scrollbars=1, resizable=1");
+
+	newwindow.focus();
+}
+
+
+//-->
+</script>
+<link rel="stylesheet" href="http://chic-space.com/style.css" type="text/css">
+<style type="text/css">
+<!--
+A:link    { color: #877070; font-size:11px}
+A:active  { color: #877070; font-size:11px }
+A:visited { color: #877070; font-size:11px }	
+A:hover { color: #000000; font-size:11px }
+body {
+	font-family: tahoma;
+    color: #f1f1f1;
+size: 12px;
+    }
+
+td {
+	font-family: tahoma;
+    color: #000000;
+    size: 12px;
+}
+
+
+.headerbg { background-color: #000000; background:url(http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/pattern.gif); }
+.headerbg:link { color: #605563 }
+.headerbg:active { color: #605563 }
+.headerbg:visited { color: #605563 }
+.headerbg:hover { color: #990066 }
+
+.topbar { background-color: #9B9B9B;display:none;}
+
+.mainnavon { color: #877070;}
+.mainnavontxt { color: #877070; text-decoration: none }
+.mainnavontxt:link { color: #877070 ;display:none}
+.mainnavontxt:active { color: #877070;display:none }
+.mainnavontxt:visited { color: #877070 ;display:none}
+.mainnavontxt:hover { color: #877070; text-decoration: underline ;display:none}
+
+.mainnavdiv { color: #605563;}
+
+.mainnavoff {display:none }
+.mainnavoff:hover { color: #FFFFFF; background-color: #9B9B9B ;display:none}
+.mainnavofftxt { color: #FFFFFF; text-decoration: none;display:none }
+.mainnavofftxt:link { color: #FFFFFF ;display:none}
+.mainnavofftxt:active { color: #FFFFFF ;display:none}
+.mainnavofftxt:visited { color: #FFFFFF ;display:none}
+.mainnavofftxt:hover { color: #FFFFFF; text-decoration: underline }
+
+.framebghorizontal { background-color: #000000; size: 3px;display:none}
+
+.framebgvertical {  background-color: #000000;display:none}
+
+.sidebar { background-color: #FFD9FF; margin-left: 1000px;top-margin: 2000px}
+
+.searchtxt { ; color: #000000 }
+.searchtxt:link { font-weight: normal; color: #8F3CC0 }
+.searchtxt:hover  { font-weight: normal; color: #8F3CC0}
+.searchtxt:visited  { font-weight: normal; color: #8F3CC0 }
+.searchtxt:active  { font-weight: normal; color: #8F3CC0}
+.searchboxbg {background-color:#FFD9FF; color: #8F3CC0}
+
+.catdiv { background-color: #4448FF ;}
+.catalogtitle {color: #FFFFFF }
+.cattitlebg { background-color: #545454 }
+.catoff { color: #FFFFFF; ; text-decoration: none; background-color: #383BBE; }
+.catoff:link { color: #FFFFFF; ; text-decoration: none; font-size: 6px }
+.catoff:active { color: #FFFFFF; ; text-decoration: none; font-size: 6px }
+.catoff:visited { color: #FFFFFF; ; text-decoration: none; font-size: 6px }
+.catoff:hover { color: #FDF518; ; text-decoration: none; font-size: 6px }
+.catsub { font-weight: normal; text-decoration: none; font-size: 6px }
+.catsub:link { font-weight: normal; text-decoration: none; font-size: 6px }
+.catsub:active { font-weight: normal; text-decoration: none; font-size: 6px }
+.catsub:visited { font-weight: normal; text-decoration: none; font-size: 6px }
+.catsub:hover { font-weight: normal; text-decoration: none; font-size: 6px }
+
+.caton { background-color: #9B9B9B; font-size: 6px; display:none}
+.caton:link { color: #000000; ; text-decoration: none; font-size: 6px }
+.caton:active { color: #000000; ; text-decoration: none; font-size: 6px }
+.caton:visited { color: #000000; ; text-decoration: none; font-size: 6px }
+.caton:hover { color: #000000; ; text-decoration: none; font-size: 6px }
+
+.categorybg { background-color: #ffffff; width: 2000px;display:none;}
+
+.history {color: #545454;font-size:11px;display:none}
+.history:link { color: #2E2F5F ;font-size:11px;}
+.history:active { color: #2E2F5F;font-size:11px;}
+.history:visited { color: #2E2F5F;font-size:11px;}
+.history:hover { color: #990066;font-size:11px;}
+.historybg { background-color: #ffffff}
+
+.bottombar {width: 10000px: display:none}
+.bottombar:link { ; color: #FFFFFF }
+.bottombar:active { ; color: #FFFFFF }
+.bottombar:visited { ; color: #FFFFFF }
+.bottombar:hover { ; color: #FFFFFF }
+
+-->
+</style><script language="JavaScript1.2" src="http://fashion.makemechic.com/dropdown.js"></script>
+<script language="JavaScript1.2" src="http://fashion.makemechic.com/mm_menu.js"></script>
+
+
+
+<div align="center"> 
+<table width="849" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="center" valign="top">
+	<table width="944" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+      <tbody><tr>
+        <td align="center" valign="top">
+	<table width="944" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+      <tbody><tr>
+        <td height="114" valign="top" bgcolor="#FFFFFF">
+		<map name="FPMap0">
+		<area href="http://www.makemechic.com/" shape="rect" coords="23, 15, 473, 92">
+		<area href="http://fashion.makemechic.com/free-shipping-page.htm" shape="rect" coords="772, 8, 942, 107">
+		</map>
+		<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/makemechic-old.jpg" alt="Welcome to Makemechic" usemap="#FPMap0"></td>
+      </tr>
+      <tr>
+        <td valign="top">
+		<table width="948" border="0" cellspacing="0" cellpadding="0" height="35" background="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/back-buttons.jpg" id="table2">
+          <tbody><tr>
+            <td width="18" height="35" style="font-family: tahoma; color: #3C3137; size: 12px"><img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/spacer.gif" width="1" height="1"></td>
+            <td width="82" height="35" align="center" style="font-family: tahoma; color: #3C3137; size: 12px">
+			<a href="http://www.makemechic.com" style="color:#EC6654" class="menu">
+			Home page</a></td>
+            <td width="62" height="35" align="center" style="font-family: tahoma; color: #3C3137; size: 12px">
+			<a href="http://www.makemechic.com/Store/Search.aspx?Page=1&amp;Sort=5" class="menu">
+			<font color="#877070">Search</font></a></td>
+            <td width="106" height="35" align="center" style="font-family: tahoma; color: #3C3137; size: 12px">
+			<a href="http://www.makemechic.com/makemechic/store/ShoppingCart.aspx" class="menu">
+			<font color="#877070">Shopping Cart</font></a></td>
+            <td width="80" height="35" align="center" style="font-family: tahoma; color: #3C3137; size: 12px">
+			<a href="http://fashion.makemechic.com/contact_us.htm" class="menu">
+			<font color="#877070">Contact Us</font></a></td>
+            <td width="94" height="35" align="center" style="font-family: tahoma; color: #3C3137; size: 12px">			
+			<strong>			
+			<a href="http://checkout.channeladvisor.com/checkout/1252/CheckoutLookup.asp" class="menu">
+			<font color="#877070">Order Status</font></a></strong></td>
+            <td width="68" height="35" align="center" style="font-family: tahoma; color: #3C3137; size: 12px">			
+			<a href="http://fashion.makemechic.com/about_us.htm" class="menu">
+			<font color="#877070">About Us</font></a></td>
+            <td width="70" height="35" align="center" style="font-family: tahoma; color: #3C3137; size: 12px">
+			<a href="http://fashion.makemechic.com/policies.htm" class="menu">
+			<font color="#877070">Policies</font></a></td>
+            <td width="58" height="35" align="center" style="font-family: tahoma; color: #3C3137; size: 12px">
+			<a class="menu" href="http://fashion.makemechic.com/shipping.htm">
+			<font color="#877070">Shipping</font></a></td>
+            <td width="54" height="35" align="center" style="font-family: tahoma; color: #3C3137; size: 12px"> 
+			<a class="menu" href="http://fashion.makemechic.com/faq.htm">
+			<font color="#877070">FAQ</font></a></td>
+            <td height="35" align="center" width="86" style="font-family: tahoma; color: #3C3137; size: 12px">
+			<p align="left">
+			<a class="menu" target="_blank" href="http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&amp;userid=makemechic&amp;ftab=AllFeedback&amp;myworld=true&amp;seeallfeedback=See All Feedback">
+			<font color="#877070">Testimonials</font></a></p></td>
+            <td height="35" align="center" width="70" style="font-family: tahoma; color: #3C3137; size: 12px">
+			<p align="left"> 
+			<a class="menu" href="javascript:OpenWin('http://fashion.makemechic.com/size-chart.htm')">
+			<font color="#877070">Size Charts</font></a></p></td>
+            <td height="35" align="center" style="font-family: tahoma; color: #3C3137; size: 12px">
+			<a class="menu" href="http://fashion.makemechic.com/news.htm">
+			<font color="#877070">Useful Info</font></a></td>
+          </tr>
+ </tbody></table></td>
+      </tr><tr><td colspan="11" bgcolor="FF84AB"><script language="JavaScript1.2">mmLoadMenus();</script>
+		<img name="dropdown5" src="http://fashion.makemechic.com/dropdown5.gif" border="0" usemap="#m_dropdown5" alt=""><map name="m_dropdown5">
+<area shape="rect" coords="819, 0, 936, 20" href="#" alt="" onmouseout="MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0109165113_0,820,20,null,'dropdown5');">
+<area shape="rect" coords="682, 0, 810, 20" href="#" alt="" onmouseout="MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0310121130_0,690,20,null,'dropdown5');">
+<area href="http://fashion.makemechic.com/shoes.htm" shape="rect" coords="5, 2, 61, 17">
+<area href="http://fashion.makemechic.com/dresses.htm" shape="rect" coords="67, 1, 131, 17">
+<area href="http://www.makemechic.com/swimsuits" shape="rect" coords="137, 3, 218, 17">
+<area href="http://fashion.makemechic.com/shirts_tops.htm" shape="rect" coords="224, 3, 331, 17">
+<area href="http://www.makemechic.com/bottoms_skirts" shape="rect" coords="349, 4, 466, 17">
+<area href="http://fashion.makemechic.com/handbags.htm" shape="rect" coords="493, 2, 665, 17">
+</map></td></tr>
+    </tbody></table>
+    <center>
+
+
+		
+		</center><table cellpadding="0" cellspacing="0" border="1" width="949" bordercolor="eeeeee" bgcolor="#FFEAF3"><tbody><tr>
+	        <td colspan="3" width="1" valign="top" class="framebghorizontal"><img src="/images/1p.gif" height="1" width="1"></td>
+		</tr>
+		<tr>
+	        <td colspan="3" width="1" valign="top" class="framebghorizontal"><img src="/images/1p.gif" height="1" width="1"></td>
+		</tr>
+		<tr>
+			<td width="150" valign="top">
+				
+            <table width="100%" border="0" cellspacing="0" cellpadding="12" class="searchboxbg" style="background-color: #FFEAF3">
+              <tbody><tr> 
+                <td nowrap=""><span class="searchtxt">Search Makemechic</span><br>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr valign="middle"> 
+                      <td width="1"> 
+                        <input name="Surround$ctl00$Surround$ctl00$Layout$ctl00$Search$ctl00$SearchTerm" type="text" id="Surround_ctl00_Surround_ctl00_Layout_ctl00_Search_ctl00_SearchTerm" size="10" onkeypress="NoReturn(event, this);">
+                      </td>
+                      <td><a href="javascript:DoSimpleSearch();">
+						<img src="http://www.makemechic.com/images/surround/bttn_search.gif" width="20" height="21" align="middle" hspace="2" border="0"></a></td>
+                    </tr>
+                  </tbody></table>
+                  <a class="searchtxt" href="http://www.makemechic.com/Store/Search.aspx?">
+				Advanced Search</a>
+                  <br>
+                </td>
+              </tr>
+            </tbody></table>
+
+				<table width="224" border="0" cellpadding="5" cellspacing="0" bgcolor="#FFEAF3">
+				<tbody><tr>
+                <td bgcolor="#FFEAF3">
+
+				<table bgcolor="white" valign="middle" width="211"><tbody><tr><td><!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.makemechic.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.makemechic.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+<!-- END SCANALERT CODE --> &nbsp;&nbsp;
+	<a href="http://www.labbb.org/BBBWeb/Forms/Business/CompanyReportPage_Expository.aspx?CompanyID=100057265" target="_blank">
+	<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/14/ReliabilitySeal.gif" alt="BBB Logo" align="absmiddle" width="106" height="49"></a></td></tr></tbody></table><br><table>
+<!-- END SCANALERT CODE --> 
+</table><table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFEAF3">
+              <tbody><tr>
+                <td valign="top" bgcolor="#FF84AB" width="100%">
+				
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/browse-size.gif" style="margin-left:2px "></td>
+              </tr>
+				<tr>
+                <td valign="top" width="100%">
+				<p align="center">
+				<map name="FPMap1">
+								<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=10" shape="rect" coords="37, 77, 63, 101">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=5" shape="rect" coords="11, 0, 39, 25">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=5.5" shape="rect" coords="36, 0, 65, 28">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=6" shape="rect" coords="63, 0, 90, 25">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=6.5" shape="rect" coords="88, 0, 112, 27">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=7" shape="rect" coords="111, 2, 135, 24">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=7.5" shape="rect" coords="136, 2, 160, 26">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=8" shape="rect" coords="9, 24, 37, 52">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=8.5" shape="rect" coords="37, 29, 63, 52">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=9" shape="rect" coords="63, 28, 84, 50">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=10" shape="rect" coords="86, 27, 110, 52">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=11" shape="rect" coords="112, 27, 135, 51">
+				<area href="http://www.makemechic.com/Store/Search.aspx?Page=1&amp;Sort=5&amp;scat=3840" shape="rect" coords="139, 27, 162, 52">
+				</map>
+								<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/sizes.gif" style="margin-left:2px " alt="Browse by Size" usemap="#FPMap1" border="0"></p></td>
+              </tr>
+              <tr>
+                <td valign="top" bgcolor="#FF84AB" width="100%">
+			
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/browse-color.gif" style="margin-left:2px "></td>
+              </tr>
+				<tr>
+                <td valign="top" width="100%">
+				<p align="center"><map name="FPMap2">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=black" shape="rect" coords="3, 1, 15, 9">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=blue" shape="rect" coords="19, 2, 34, 10">
+				<area coords="35, 7, 49, 14" shape="rect" href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=brown">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=fuchsia" shape="rect" coords="50, 1, 66, 11">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=olive" shape="rect" coords="69, 2, 81, 9">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=green" shape="rect" coords="82, 1, 100, 11">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=beige" shape="rect" coords="103, 2, 119, 13">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=Turquoise" shape="rect" coords="117, 1, 135, 12">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=purple" shape="rect" coords="138, 1, 149, 11">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=gray" shape="rect" coords="158, 1, 160, 11">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=camel" shape="rect" coords="1, 13, 14, 22">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=tan" shape="rect" coords="17, 13, 32, 22">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=pink" shape="rect" coords="33, 13, 50, 23">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=red" shape="rect" coords="48, 13, 63, 23">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=white" shape="rect" coords="67, 13, 80, 23">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=yellow" shape="rect" coords="83, 13, 96, 23">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=multi" shape="rect" coords="99, 12, 115, 22">
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=Denim" shape="rect" coords="135, 13, 153, 23">
+
+				
+				<area href="http://www.makemechic.com/makemechic/Store/Search.aspx?Page=1&amp;Sort=5&amp;key=orange" shape="rect" coords="115, 14, 135, 23">
+
+				
+				</map>
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/colors.gif" usemap="#FPMap2"></p></td>
+              </tr>
+				<tr>
+                <td valign="top" bgcolor="#FF84AB" width="100%">
+			
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/browse-price.gif" style="margin-left:2px " width="187" height="19"></td>
+              </tr>
+				<tr>
+                <td valign="top" width="100%">
+				<div align="center">
+					<table bordercolor="#111111" cellpadding="0" width="100%" border="0">
+						<tbody><tr>
+							<td width="38%" align="center">
+							<font face="Verdana" color="#3C3137">
+							<a style="color: #3C3137; text-decoration:none" href="http://www.makemechic.com/Store/Search.aspx?&amp;Page=1&amp;Sort=5&amp;sp=0.00&amp;ep=10.00">
+							<font style="font-size: 8pt; font-weight:700">under 
+							$10</font></a></font></td>
+							<td width="37%" align="center">
+							<font face="Verdana" color="#3C3137">
+							<a style="color: #3C3137; text-decoration:none" href="http://www.makemechic.com/Store/Search.aspx?&amp;Page=1&amp;Sort=5&amp;sp=10.00&amp;ep=20.00">
+							<font style="font-size: 8pt; font-weight:700">$10 to 
+							$20</font></a></font></td>
+						</tr>
+						<tr>
+							<td width="38%" align="center">
+							<font face="Verdana" color="#3C3137">
+							<a style="color: #3C3137; text-decoration:none" href="http://www.makemechic.com/Store/Search.aspx?&amp;Page=1&amp;Sort=5&amp;sp=20.00&amp;ep=30.00">
+							<font style="font-size: 8pt; font-weight:700">$20 to 
+							$30</font></a></font></td>
+							<td width="37%" align="center">
+							<font face="Verdana" color="#3C3137">
+							<a style="color: #3C3137; text-decoration:none" href="http://www.makemechic.com/Store/Search.aspx?&amp;Page=1&amp;Sort=5&amp;sp=30.00&amp;ep=40.00">
+							<font style="font-size: 8pt; font-weight:700">$30 to 
+							$40</font></a></font></td>
+						</tr>
+						<tr>
+							<td width="38%" align="center">
+							<font face="Verdana" color="#3C3137">
+							<a style="color: #3C3137; text-decoration:none" href="http://www.makemechic.com/Store/Search.aspx?&amp;Page=1&amp;Sort=5&amp;sp=40.00&amp;ep=50.00">
+							<font style="font-size: 8pt; font-weight:700">$40 to 
+							$50</font></a></font></td>
+							<td width="37%" align="center">
+							<font face="Verdana" color="#3C3137">
+							<a style="color: #3C3137; text-decoration:none" href="http://www.makemechic.com/Store/Search.aspx?&amp;Page=1&amp;Sort=5&amp;sp=50.00&amp;ep=100.00">
+							<font style="font-size: 8pt; font-weight:700">$50 
+							and up</font></a></font></td>
+						</tr>
+						</tbody></table>
+				</div>
+				</td>
+              </tr>
+              <tr>
+                <td bgcolor="#FF84AB" width="100%">
+								<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/tit_2.gif" style="margin-left:2px "></td>
+              </tr>
+				<tr>
+                <td valign="top" bgcolor="#FFEAF3">
+				<font color="#750075" size="3" face="tahoma">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle">&nbsp;</font><font color="#750075" face="tahoma" style="font-size: 9pt"> 
+								</font> 
+				<a style="text-decoration: none; font-weight: 700" href="http://fashion.makemechic.com/shoes.htm">
+								<font color="#3C3137" size="2">Shoes</font></a><a style="color: #3C3137" href="http://fashion.makemechic.com/shoes.htm"><span style="font-size: 13pt"></span></a><span style="font-size: 13pt"></span><font size="2" color="#3C3137"><br>
+				
+				</font>
+				<font color="#3C3137" face="tahoma" style="font-size: 10pt">
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				&nbsp;&nbsp;&nbsp;&nbsp;  
+								<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle"></font><font size="2" face="tahoma" color="#3C3137">&nbsp; 
+								</font> <a href="http://www.makemechic.com/shoes/flats" style="text-decoration: none">
+								<font color="#3C3137" size="2">Flats</font></a><font size="2" color="#3C3137"><br>
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				&nbsp;&nbsp;&nbsp;&nbsp;  
+								</font>
+				
+				<font color="#3C3137" face="tahoma" style="font-size: 10pt">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle"></font><font size="2" face="tahoma" color="#3C3137">&nbsp; 
+								</font> <a href="http://www.makemechic.com/shoes/mary_janes" style="text-decoration: none">
+								<font color="#3C3137" size="2">Mary Janes</font></a><font size="2" color="#3C3137"><br>
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				&nbsp;&nbsp;&nbsp;&nbsp;  
+								</font>
+				
+				<font color="#3C3137" face="tahoma" style="font-size: 10pt">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle"></font><font size="2" face="tahoma" color="#3C3137">&nbsp; 
+								</font> <a href="http://www.makemechic.com/shoes/boots" style="text-decoration: none">
+								<font color="#3C3137" size="2">Boots</font></a><font size="2" color="#3C3137"><br>
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				&nbsp;&nbsp;&nbsp;&nbsp;  
+								</font>
+				
+				<font color="#3C3137" face="tahoma" style="font-size: 10pt">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle"></font><font size="2" face="tahoma" color="#3C3137">&nbsp; 
+								</font> <a href="http://www.makemechic.com/shoes/casual_shoes" style="text-decoration: none">
+								<font color="#3C3137" size="2">Casual Shoes</font></a><font size="2" color="#3C3137"><br>
+				
+				
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+&nbsp;&nbsp;&nbsp;&nbsp; </font>
+				
+				<font color="#3C3137" face="tahoma" style="font-size: 10pt">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle"></font><font size="2" face="tahoma" color="#3C3137">&nbsp; 
+				</font><a href="http://www.makemechic.com/shoes/pumps" style="text-decoration: none">
+				<font color="#3C3137" size="2">Pumps</font></a><font size="2" color="#3C3137"><br>
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;
+				</font>
+				
+				<font color="#3C3137" face="tahoma" style="font-size: 10pt">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle"></font><font size="2" face="tahoma" color="#3C3137">&nbsp; 
+				</font><a href="http://www.makemechic.com/shoes/evening_shoes" style="text-decoration: none">
+				<font color="#3C3137" size="2">Evening Shoes</font></a><font size="2" color="#3C3137"><br>
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				&nbsp;&nbsp;&nbsp; &nbsp;</font><font color="#3C3137" face="tahoma" style="font-size: 10pt"><img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle"></font><font size="2" face="tahoma" color="#3C3137">&nbsp; 
+								</font> <a style="color: #3C3137" href="http://www.makemechic.com/Store/Search.aspx?Page=1&amp;Sort=1&amp;key=platform">
+								<font size="2"> Platform/wedge</font></a><font size="2" color="#3C3137"><br>
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				&nbsp;&nbsp;&nbsp;&nbsp;  
+								</font>
+				
+				<font color="#3C3137" face="tahoma" style="font-size: 10pt">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle"></font><font size="2" face="tahoma" color="#3C3137">&nbsp; 
+								</font> <a style="color: #3C3137" href="http://www.makemechic.com/shoes/sandals">
+								<font size="2"> Sandals</font></a><font size="2" color="#3C3137"><br>
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+&nbsp;&nbsp;&nbsp; &nbsp;</font><font color="#3C3137" face="tahoma" style="font-size: 10pt"><img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle"></font><font size="2" face="tahoma" color="#3C3137">&nbsp; 
+								</font> <a style="color: #3C3137" href="http://www.makemechic.com/shoes/high_heels">
+								<font size="2"> High Heels</font></a><br>
+				
+				
+				<font color="#3C3137" face="tahoma" style="font-size: 10pt">
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle">&nbsp;</font><font color="#3C3137" face="tahoma" size="3"> 
+								</font>
+				<a style="text-decoration: none; font-weight: 700" href="http://www.makemechic.com/swimsuits">
+								<font color="#3C3137" size="2">Swimwear</font></a>				<font color="#3C3137" face="tahoma" style="font-size: 10pt">
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle">&nbsp;</font><font color="#3C3137" face="tahoma" size="3"> 
+								</font>
+				<a style="text-decoration: none; font-weight: 700" href="http://fashion.makemechic.com/dresses.htm">
+								<font color="#3C3137" size="2">Dresses</font></a><a style="color: #3C3137" href="http://fashion.makemechic.com/shoes.htm"><span style="font-size: 13pt"></span></a><span style="font-size: 13pt"></span><br>
+									
+									
+									<font color="#3C3137" face="tahoma" style="font-size: 10pt">
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+&nbsp;&nbsp;&nbsp;&nbsp; 
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle"></font><font size="2" face="tahoma" color="#3C3137">&nbsp; 
+				</font><a style="color: #3C3137" href="http://www.makemechic.com/dresses/casual_dresses">
+				<font size="2">Casual Dresses</font></a><font size="2" color="#3C3137"><br>
+				
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				&nbsp;&nbsp;&nbsp;&nbsp; </font>
+				
+				<font color="#3C3137" face="tahoma" style="font-size: 10pt">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle"></font><font size="2" face="tahoma" color="#3C3137">&nbsp; 
+				</font>
+				<a style="color: #3C3137" href="http://www.makemechic.com/dresses/cocktail_dresses">
+				<font size="2">
+				Cocktail Dresses</font></a><br>
+				
+				
+				<font color="#3C3137" face="tahoma" style="font-size: 10pt">
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle">&nbsp; </font>
+				<a style="text-decoration: none; font-weight: 700" href="http://www.makemechic.com/outerwear">
+								<font color="#3C3137" size="2">Outerwear</font></a><b><font color="#3C3137" style="font-size: 12pt"><br>
+				
+				
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				</font><span style="font-size: 12pt"></span></b>
+				<font color="#3C3137" face="tahoma" style="font-size: 12pt">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle">&nbsp; 
+								</font>
+				<a style="text-decoration: none; font-weight: 700" href="http://fashion.makemechic.com/Shirts_tops.htm">
+								<font color="#3C3137" size="2">Shirts and Tops</font></a><b><span style="font-size: 12pt"><a style="color: #3C3137" href="http://www.makemechic.com/shirts_tops"></a></span><br>
+				<font color="#3C3137" style="font-size: 12pt">
+				
+				
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"></font><br>
+				</b>
+				<font color="#3C3137" face="tahoma" style="font-size: 12pt">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle">&nbsp; 
+								</font>
+				<a style="text-decoration: none; font-weight: 700" href="http://fashion.makemechic.com/handbags.htm">
+								<font color="#3C3137" size="2">Handbags/Accessories</font></a><b><a style="color: #3C3137" href="http://www.makemechic.com/shirts_tops"><span style="font-size: 12pt"></span></a><font color="#3C3137" style="font-size: 12pt"><br>
+				
+				
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				</font><span style="font-size: 12pt"></span></b>
+				<font color="#3C3137" face="tahoma" style="font-size: 12pt">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle">&nbsp; 
+								</font>
+				<a style="text-decoration: none; font-weight: 700" href="http://www.makemechic.com/bottoms_skirts">
+								<font color="#3C3137" size="2">Bottoms and 
+				Skirts</font></a><br>
+				
+				
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				<span style="font-size: 12pt"></span>
+				<font color="#3C3137" face="tahoma" style="font-size: 12pt">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle">&nbsp; 
+								</font>
+				<a style="text-decoration: none; font-weight: 700" href="http://www.makemechic.com/Store/Search.aspx?Page=1&amp;Sort=1&amp;key=05/25/08">
+								<font color="#3C3137" size="2">New Arrivals for 
+				This Week</font></a><b><font color="#3C3137" style="font-size: 12pt"><br>
+				
+				
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				</font><span style="font-size: 12pt"></span></b>
+				<font color="#3C3137" face="tahoma" style="font-size: 12pt">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle">&nbsp; 
+								</font>
+				<a style="text-decoration: none; font-weight: 700" href="http://www.makemechic.com/store/search.aspx?Page=1&amp;sort=1&amp;key=extreme style">
+								<font color="#3C3137" size="2">Trend Alerts</font></a><b><font color="#3C3137" style="font-size: 12pt"><br>
+				
+				
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"><br>
+				</font><span style="font-size: 12pt"></span></b>
+				<font color="#3C3137" face="tahoma" style="font-size: 12pt">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/1/arr_3.gif" width="4" height="7" align="absmiddle">&nbsp; 
+								</font>
+				<a style="text-decoration: none; font-weight: 700" href="http://www.makemechic.com/store/search.aspx?Page=1&amp;sort=1&amp;key=steals and deals">
+								<font color="#3C3137" size="2">On Sale Items</font></a><br>
+				<font color="#750075" size="3" face="tahoma">
+				<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/21/divider.gif" width="197" height="1"></font><p>&nbsp;</p></td>
+              </tr>
+				
+              <tr>
+                <td height="10" valign="top">
+				<p align="center">
+			<a style="color: #3C3137" href="http://fashion.makemechic.com/policies.htm">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/3/low-price-guarantee.gif" alt="Low Price Guaranteed!" border="0"></a></p>
+				<p align="center">
+				<a target="_blank" style="color: #3C3137" href="http://fashion.makemechic.com/email-signup.htm">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/3/email-list.gif" alt="Makemechic Email List" border="0"></a></p><p>&nbsp;</p></td>
+              </tr>
+              </tbody></table>
+          		</td>
+              </tr>
+				</tbody></table>
+			</td>
+	        <td width="1" valign="top" class="framebgvertical"><img src="/images/1p.gif" height="400" width="1"></td>
+			<td width="100%" valign="top">
+			    <table cellpadding="12" cellspacing="0" border="0" width="100%">
+					<tbody><tr class="historybg">
+						<td width="100%">
+							<table id="Surround_ctl00_Surround_Content_tblTop" cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td>
+		<table width="100%">
+			<tbody><tr>
+				<td width="100%">
+				<table border="0" width="100%" id="table1" cellspacing="8">
+		<tbody><tr>
+			<td align="center" valign="bottom">
+			<p align="left"><b>PRIVACY POLICY</b><br>
+			<br>
+			When accessing our Website, Makemechic&nbsp; will gain certain 
+			information about you during your visit. How we will handle 
+			information we obtain depends upon what you do when visiting our 
+			site. If you visit our site to read or download information on our 
+			pages, we collect and store only the following information: The name 
+			of the domain and/or IP address from where you access the Internet; 
+			the date and time you access our site and the Internet address of 
+			the website you used to link directly to our site. If you identify 
+			yourself by sending us e-mail contains personal information, then 
+			the collected information will be solely used to respond to your 
+			message. The collected information is for statistical purposes 
+			Makemechic&nbsp; uses software programs to create summary 
+			statistics, which are used for such purposes as assessing the number 
+			of visitors to the different sections of our site, what information 
+			is of most and least interest, determining technical design 
+			specifications, and identifying system performance or problem areas. 
+			For site security purposes and to ensure this service remains 
+			available to all users, Makemechic&nbsp; uses software programs to 
+			monitor network traffic to identify unauthorized attempts such as 
+			uploading or changing information or other causes that damage the 
+			web site. Makemechic&nbsp; will not obtain personally-identifying 
+			information about you when you visit our site, unless you choose to 
+			provide such information to us, nor will such information be sold or 
+			transferred to unaffiliated third parties without the approval of 
+			the user at the time of collection. <br>
+			<br>
+			<br>
+			<b>Member's Personal Information </b><br>
+			WE TAKE SPAM EMAILS, FRAUD, AND PRIVACY ISSUES VERY SERIOUSLY, 
+			therefore, we are highly protective of our customer’s personal 
+			information and do not share our customer’s personal information 
+			with anyone. Our web site uses customer contact information from the 
+			registration form to send our customer information about their 
+			order, saving coupons and promotional material from our company 
+			only. Users may opt-out of our email list or mailings at any time by 
+			sending us an email to request to be removed from our email list.<br>
+			<br>
+			<br>
+			<b>Links To Other Sites </b><br>
+			This site contains links to other internet sites. Makemechic&nbsp; 
+			is not responsible for the privacy practices or the content of any 
+			such web sites. If you find objectionable material on a linked site 
+			or if there is a problem linking to another site from Makemechic , 
+			please contact the webmaster at webmaster@Makemechic.com.<br>
+			<br>
+			<b>Security </b><br>
+			Makemechic has security measures in place to protect the loss, 
+			misuse and alteration of the information under our control. All 
+			credit card information utilizes state-of-the-art Secure Socket 
+			Layer (SSL) encryption technology and is SET compliant. <br>
+			<br>
+			<br>
+			<b>Contacting The Website </b><br>
+			If you have any question about the privacy and security statement or 
+			have experienced any technical difficulties, please contact us at 
+			<a href="mailto:webmaster@Makemechic.com">webmaster@Makemechic.com</a>. </p>
+			<p align="left">&nbsp;</p>
+			<p align="left">&nbsp;</p>
+			<p align="left">&nbsp;</p>
+			<p align="left">&nbsp;</p>
+			<p align="left">&nbsp;</p>
+			<p align="left">&nbsp;</p>
+			<p class="text_4" align="left">
+<br>
+&nbsp;</p></td>
+		</tr>
+		</tbody></table>
+	</td></tr></tbody></table></td>
+	</tr>
+</tbody></table>
+
+		
+<!-- No Featured Items Displayed -->
+		
+	<div align="center">
+
+	</div>
+
+		
+	
+						</td>
+					</tr>
+			    </tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
+	
+	<table border="1" width="100%" id="table5" bordercolor="#F4F4F4" cellspacing="0" cellpadding="5">
+	<tbody><tr>
+		<td>
+		<table border="1" width="100%" id="table6" cellspacing="0" cellpadding="5" bordercolor="#FFFFFF" bgcolor="#FFEAF3" style="border-style: solid; border-width: 3px">
+			<tbody><tr>
+				<td valign="top" style="font-family: tahoma; color: #000000; size: 12px; font-size: x-small"><font face="Arial" size="2"><b>Browse By 
+				Categories<br>
+				</b>
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/shoes.htm">
+				<font color="#000000">Shoes</font></a><font color="#000000">&nbsp;
+				</font>
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://www.makemechic.com/swimsuits"><font color="#000000">Swimwear</font></a>
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/dresses.htm">
+				<font color="#000000">Dresses</font></a>
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://www.makemechic.com/outerwear">
+				<font color="#000000">Outerwear</font></a><br>
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/Shirts_tops.htm">
+				<font color="#000000">Shirts and Tops</font></a>&nbsp;
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/handbags.htm">
+				<font color="#000000">Handbag/Accessories</font></a>&nbsp;
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://www.makemechic.com/bottoms_skirts">
+				<font color="#000000">Bottoms &amp; Skirts</font></a></font></td>
+				<td valign="top" style="font-family: tahoma; color: #000000; size: 12px; font-size: x-small"><font face="Arial" size="2"><b>Browse by Brand<br>
+				</b> </font>
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/wild-diva-shoes.htm">
+				<font face="Arial" style="font-size: 9pt" color="#000000">Wild 
+				Diva</font></a><font face="Arial" size="2">&nbsp; </font>
+				<font face="Arial" style="font-size: 9pt">
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/delicious-shoes.htm">
+				<font color="#000000">Delicious</font></a>&nbsp; <a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/classified-shoes.htm"><font color="#000000">Classified</font></a><font color="#000000">&nbsp; 
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/soda-shoes.htm">
+				<font color="#000000">Soda</font></a></font><font face="Arial" size="2"><b><br>
+&nbsp;</b></font></font></td>
+				<td valign="top" style="font-family: tahoma; color: #000000; size: 12px; font-size: x-small"><font face="Arial" size="2">
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/contact_us.htm">
+				<font color="#000000">Contact Us</font></a>&nbsp;
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/about_us.htm">
+				<font color="#000000">About&nbsp; Us</font></a><font color="#000000">&nbsp;
+				</font>
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/policies.htm"><font color="#000000">Policies</font></a><font color="#000000">&nbsp;
+				</font>
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/shipping.htm"><font color="#000000">Shipping</font></a><font color="#000000">&nbsp;
+				</font>
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/faq.htm"><font color="#000000">FAQ</font></a><br>
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&amp;userid=makemechic&amp;ftab=AllFeedback&amp;myworld=true&amp;seeallfeedback=See All Feedback">
+				<font color="#000000">Testimonials</font></a><font color="#000000">&nbsp;
+				</font>
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="javascript:OpenWin('http://fashion.makemechic.com/size-chart.htm')"><font color="#000000">Size Charts</font></a>
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/news.htm">
+				<font color="#000000">Useful Info</font></a><font color="#000000">
+				</font></font>
+				<a style="font-size: 9pt; background-color:#FFEAF3" href="http://fashion.makemechic.com/site-map.htm">
+				<font face="Arial" style="font-size: 9pt" color="#000000">
+				Site-Map</font></a></td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+	
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDQKNu57WCAK8sbeQBgKj7d22DwK47Ji/CQLcrfCXAQKPkbb1BALblauDBwLCvu61DgKSzMzODQLI4J6iBAKvqYqoDAKdpMHpBAKjz7yLCA==">
+</div><!-- sCheckoutLoggedInPixel -->
+</td></tr></tbody></table>
+				<p align="center">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/3/credit-cards.gif" align="absmiddle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://myworld.ebay.com/makemechic/" target="_blank">
+<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/11/ebay-power-seller.gif" border="0" alt="Ebay Approved Power Seller with 99.9% positive feed back" align="absmiddle"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bbbonline.org/cks.asp?id=107100111814" target="_blank"><img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/14/bbb.gif" alt="BBB Online Seal" align="middle" border="0"></a></p>
+<p align="center">
+			<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.makemechic.com">
+			<!-- START SCANALERT CODE -->
+			<img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.makemechic.com/23.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+<!-- END SCANALERT CODE --> &nbsp;
+			<a href="http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&amp;userid=makemechic&amp;ftab=AllFeedback&amp;myworld=true&amp;seeallfeedback=See All Feedback">
+				<img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/3/testimonials.jpg" alt="Testimonials" align="absmiddle" border="0"></a><a href="http://fashion.makemechic.com/faq.htm"><img src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/17/faq.jpg" alt="FAQ" border="0" align="middle"></a>&nbsp;&nbsp;
+			<a target="_blank" href="http://www.labbb.org/BBBWeb/Forms/Business/CompanyReportPage_Expository.aspx?CompanyID=100057265">
+	<img border="0" src="http://images.channeladvisor.com/Sell/SSProfiles/53000126/Images/14/ReliabilitySeal.gif" alt="BBB Logo" align="absmiddle"></a></p>
+&nbsp;<p align="center"><font face="tahoma" size="1" color="black">Copyright Makemechic.com 2007
+<a href="http://fashion.makemechic.com/privacy.htm">Privacy Policy</a></font></p>
+<p>&nbsp;
+
+</p></td></tr></tbody></table><!-- adsok -->
+<script language="javascript" src="https://a12.alphagodaddy.com/hosting_ads/gd01.js"></script></div></td></tr></tbody></table></form></div></body></html>
