@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215042649id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508024536id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
 
-# iLounge | iPod News
+# Privacy Policy | iLounge
 
 The policies below are applicable to iLounge. Any questions or comments you may have regarding this privacy policy, email [info@iLounge.com](mailto:info@ilounge.com).
 
