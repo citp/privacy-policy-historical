@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedthepig.org privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012094523id_/http%3A//www.feedthepig.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedthepig.org privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509121112id_/http%3A//www.feedthepig.org/Privacy.aspx) for the most accurate reproduction.*
 
 # Feed the Pig
 
