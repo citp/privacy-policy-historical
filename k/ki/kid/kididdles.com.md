@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kididdles.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630132156id_/http%3A//www.kididdles.com/about2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kididdles.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509145527id_/http%3A//www.kididdles.com/about2/privacy.html) for the most accurate reproduction.*
 
 # KIDiddles: Privacy Policy
 
