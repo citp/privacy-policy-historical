@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betseyjohnson.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218072806id_/http%3A//www.betseyjohnson.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betseyjohnson.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509164025id_/http%3A//www.betseyjohnson.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Betsey Johnson Official Store
 
@@ -49,8 +49,8 @@ You will have an opportunity to change these selections by clicking on an "unsub
 
 or write to us at:
 
-Betseyjohnson.com Online, Customer Service  
-2652 Long Beach Avenue, Los Angeles, CA 90058. 
+Betsey Johnson, Online Customer Service  
+2346 E. Pacifica Place, Rancho Dominguez, CA 90220. 
 
 Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order.
 
