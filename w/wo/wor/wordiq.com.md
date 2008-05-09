@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordiq.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028131851id_/http%3A//www.wordiq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordiq.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509170404id_/http%3A//www.wordiq.com/privacy.html) for the most accurate reproduction.*
 
 # WordIQ - Privacy Policy
 
