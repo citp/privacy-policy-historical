@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ariasystems.net privacy policy that was archived on 2007-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070713223341id_/http%3A//www.ariasystems.net/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariasystems.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509054726id_/http%3A//www.ariasystems.net/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Aria Systems
 
@@ -19,6 +19,10 @@ We occasionally hire other companies to provide limited services on our behalf, 
 Aria may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Aria or the site; (b) protect and defend the rights or property of Aria and its family of web sites, and, (c) act in urgent circumstances to protect the personal safety of users of Aria, its web sites, or the public. 
 
 Personally identifiable information collected by Aria may be stored and processed in the United States or any other country in which Aria maintains facilities. 
+
+### U.S. - EU Safe Harbor Privacy Statement
+
+For personal information of employees, consumers, healthcare professionals, medical research subjects and investigators, customers, investors, and government officials that Aria receives from the European Economic Area, Aria has committed to handling such personal information in accordance with the Safe Harbor Principles. Aria's Safe Harbor certification can be found on the [Safe Harbor Lists](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list). For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website at <http://www.export.gov/safeharbor/sh_overview.html>.
 
 ### Controlling and Accessing Your Personal Information
 
