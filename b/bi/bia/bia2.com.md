@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bia2.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227012448id_/http%3A//www.bia2.com/Privacy%2520Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bia2.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509084536id_/http%3A//www.bia2.com/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
