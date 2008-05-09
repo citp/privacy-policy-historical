@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdf-convert.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229063202id_/http%3A//www.pdf-convert.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdf-convert.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509071500id_/http%3A//www.pdf-convert.com/privacy.htm) for the most accurate reproduction.*
 
 # PDF-Convert - Privacy Policy
 
