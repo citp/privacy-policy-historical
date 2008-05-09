@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virgingames.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622145746id_/http%3A//www.virgingames.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virgingames.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509105032id_/http%3A//www.virgingames.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Virgin Games
 
@@ -8,7 +8,7 @@ You also have complete control over the information stored about you and what ty
 
 **Staying in touch**
 
-We'd love to hear from you. You can get in touch by visiting the [Contact us](http://www.virgingames.com/contactus.aspx) section, by [ clicking here](http://www.virgingames.com/contactus.aspx) We'll give you contact information for all the Products that make up Virgin Games, including the Virgin casino, Virgin poker, Virgin bingo and Virgin skill. Visit the [ Contact us](http://www.virgingames.com/contactus.aspx) section if you have a general enquiry, customer service related enquiry or if you just want to say hi. 
+We'd love to hear from you. You can get in touch by visiting the [Contact us](http://www.virgingames.com/contactus.aspx) section, by [clicking here](http://www.virgingames.com/contactus.aspx) We'll give you contact information for all the Products that make up Virgin Games, including the Virgin casino, Virgin poker and Virgin bingo. Visit the [Contact us](http://www.virgingames.com/contactus.aspx) section if you have a general enquiry, customer service related enquiry or if you just want to say hi. 
 
 For enquiries directly relating to the [www.virgingames.com](http://www.virgingames.com/) website, you can contact us by email or post using the following addresses: 
 
@@ -30,7 +30,7 @@ We collect personal details, such as your email address, your friend's email add
 
 We'll only use your data to complete the task you have given us permission to do. For example if you enter your details into our refer-a-friend system then we will only use the information to facilitate contact between you and your friend. 
 
-In the case of refer-a-friend we will only ever contact your friend directly if they chose to sign up with one of the Virgin Games products and opt in to receiving marketing communication. All of the Virgin Games product suite (Casino, Poker, Bingo, Skill) give customers the option to either receive or not to receive marketing communications. 
+In the case of refer-a-friend we will only ever contact your friend directly if they chose to sign up with one of the Virgin Games products and opt in to receiving marketing communication. All of the Virgin Games product suite (Casino, Poker, Bingo) give customers the option to either receive or not to receive marketing communications. 
 
 **Why we're interested**
 
