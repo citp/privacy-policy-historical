@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recolorado.com privacy policy that was archived on 2005-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051208015133id_/http%3A//www.recolorado.com/Public/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recolorado.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509062030id_/http%3A//www.recolorado.com/Public/privacy_policy.asp) for the most accurate reproduction.*
 
 # REcolorado.com - brought to you by Metrolist Inc.
 
@@ -56,5 +56,5 @@ Your visit to this site is subject to both this notice and our Terms of Use, inc
 
 If you have any questions about our privacy practices or procedures, please feel free to email us at [privacy@metrolist.com](mailto:privacy@metrolist.com). We will promptly address your inquiry.
 
-[Terms of Use](http://www.recolorado.com/Public/terms_of_use.asp)   [Privacy Policy](http://www.recolorado.com/Public/privacy_policy.asp)   [Fair Housing](http://www.recolorado.com/Public/fair_housing.asp)  
-© 1998-2005 Metrolist, Inc. All rights reserved. 
+[Terms of Use](https://web.archive.org/Public/terms_of_use.asp)   [Privacy Policy](https://web.archive.org/Public/privacy_policy.asp)   [Fair Housing](https://web.archive.org/Public/fair_housing.asp)  
+© 1998-2008 Metrolist, Inc. All rights reserved. 
