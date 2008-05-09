@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsfordevices.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222212435id_/http%3A//www.ziffdavisenterprise.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsfordevices.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509121549id_/http%3A//www.ziffdavisenterprise.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -140,6 +140,12 @@ Ziff Davis Enterprise publications and Web sites periodically conduct contests a
 ###### **Co-Branded Sites and Services**
 
 When you use a co-branded service within our network of sites, or register or otherwise provide information on a co-branded site, you grant us permission to pass the information collected back to that service or site partner. Their use of your information is subject to their applicable privacy policies.
+
+**International**   Privacy Notice          
+
+Ziff Davis Enterprise is a United States-based company and information you provide may be transferred to entities in countries outside the European Economic Area (EEA) that do not have similar protections in place regarding your data and its use as set out in this policy. By submitting your information, you consent to these transfers.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  The information that you provide is stored on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure.  In addition, Ziff Davis Enterprise may enter into data transfer agreements with third-party recipients of information which are located outside of the EEAfor the protection of your personal information. 
+
+We have put in place various security procedures as set out in this policy. However, the transmission of information via the Internet is not completely secure.  Although we follow the policies described herein, we cannot guarantee the security of your personal data transmitted to our websites; any transmission is at your own risk.  Once we receive your personal data, we will take all steps reasonably necessary to prevent unauthorized access, use or disclosure.
 
 ###### ** **
 
