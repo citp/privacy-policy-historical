@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theengineer.co.uk privacy policy that was archived on 2007-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070820063124id_/http%3A//www.theengineer.co.uk/StaticPages/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theengineer.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509194314id_/http%3A//www.theengineer.co.uk/StaticPages/Privacy.htm) for the most accurate reproduction.*
 
 # The Engineer Online - [Technology & innovation: engineering, engineering news, engineering info, engineering jobs, engineer jobs, latest technology, mechanical engineering, technology news]
 
