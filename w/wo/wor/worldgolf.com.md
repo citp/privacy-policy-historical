@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldgolf.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012130820id_/http%3A//www.worldgolf.com/contact/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldgolf.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509133602id_/http%3A//www.worldgolf.com/contact/privacy.htm) for the most accurate reproduction.*
 
 # WorldGolf.com - Privacy Policy Statement
 
@@ -12,7 +12,7 @@ PO Box 1228
 Myrtle Beach, SC, 29578  
 
 
-We can be reached via e-mail at privacy@worldgolf.com or you can reach us by telephone at 1-888-656-1335
+We can be reached via e-mail at privacy@worldgolf.com or you can reach us by telephone at 1-866-470-3167
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
