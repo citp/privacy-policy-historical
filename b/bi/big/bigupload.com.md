@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigupload.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629043338id_/http%3A//www.bigupload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigupload.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509063559id_/http%3A//bigupload.com/privacy.php) for the most accurate reproduction.*
 
 # Bigupload — Privacy Policy
 
@@ -20,7 +20,7 @@ Bigupload collects personal information upon registration. When upgrading to a p
 
 In addition to registration we may ask you for personal information at other times, including immediately following the registration process, when you enter a contest or promotion sponsored by Bigupload, and when you report a problem with the service or with your account. If you contact Bigupload we will keep a record of that correspondence. In addition, Bigupload occasionally asks registered users to complete surveys that we use for research purposes. A link is included to this Privacy Policy wherever Bigupload collects personal information.
 
-Bigupload customers use our service to store files and folders (data). Bigupload will not review, share, distribute, print, or reference any such data except as outlined in the [Terms of Service](http://www.bigupload.com/terms.php) or as may be required by law.
+Bigupload customers use our service to store files and folders (data). Bigupload will not review, share, distribute, print, or reference any such data except as outlined in the [Terms of Service](https://web.archive.org/web/20080509063559id_/http%3A//bigupload.com/terms.php?sid=fca09904c85a3a3304713603e1cb8586) or as may be required by law.
 
 **What are cookies and how does Bigupload use them?**
 
@@ -45,7 +45,7 @@ Bigupload does research on customer demographics and behavior based on the infor
 
 **With whom does Bigupload share my information?**
 
-Bigupload will not disclose any of your personal information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see our [Terms of Service](http://www.bigupload.com/terms.php) for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed.
+Bigupload will not disclose any of your personal information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see our [Terms of Service](https://web.archive.org/web/20080509063559id_/http%3A//bigupload.com/terms.php?sid=fca09904c85a3a3304713603e1cb8586) for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed.
 
   * **Data in the Aggregate** : Bigupload may disclose aggregated statistics in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
   * **Special Circumstances:** Bigupload may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Bigupload's Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally) Bigupload's rights or property, other Bigupload users, or anyone else that could be harmed by such activities. Bigupload may disclose or access account information when we believe in good faith that the law requires it.
