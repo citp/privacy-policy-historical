@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3d-savers.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214064601id_/http%3A//www.3d-savers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3d-savers.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509125028id_/http%3A//www.3d-savers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 3D-Savers.com - Privacy Policy
 
@@ -7,7 +7,6 @@
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |  | 
 
-  
 |  Privacy Policy   
 ---  
 3D Savers  
@@ -31,21 +30,19 @@ If you have any questions or concerns about this 3D Savers Privacy Policy or its
 |  |   
 |   
 ---  
-  
-[Winter 3D Screensaver](http://www.3d-savers.com/3d-winter-screensaver.html)  
 |  | 3D-Savers News |   
 ---|---|---  
 | 
 
-**12.12.2007.**   Free Fireplace 3D Screensaver has been released. [**more**](https://web.archive.org/fireplace-3d-screensaver.html)
+**05.05.2008.**   Around the World: London has come out! [**more**](https://web.archive.org/around-the-world.html)
 
-**04.12.2007.**   Free Christmas Tree 3D Screensaver has been released. [**more**](https://web.archive.org/free-christmas-tree.html)
+**03.04.2008.**   Free 3D Marine Screensaver has come out! [**more**](https://web.archive.org/free-3d-marine-screensaver.html)
 
-**22.11.2007.**   Free 3D Santa Screensaver has come out! Absolutely at no charge! No Adware/No Spyware. [**more**](https://web.archive.org/free-santa-screensaver.html)
+**06.03.2008.**   Easter 3D Screensaver added to our collection! [**more**](https://web.archive.org/easter3d-screensaver.html)
 
-**15.11.2007.**   Thanksgiving 3D Screensaver added to our collection! [**more**](https://web.archive.org/thanksgiving-screensaver.html)
+**14.02.2008.**   Windmill 3D Screensaver has come out! [**more**](https://web.archive.org/windmill-3d.html)
 
-**02.11.2007.**   Free Christmas 3D Screensaver has come out! [**more**](https://web.archive.org/night-christmas-screensaver.html)
+**11.02.2008.**   Free 3D Castle Screensaver has been released. [**more**](https://web.archive.org/free-castle-screensaver.html)
 
 |   
 |  |   
