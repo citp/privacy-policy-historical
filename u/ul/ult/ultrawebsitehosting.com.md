@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ultrawebsitehosting.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017042204id_/http%3A//www.ultrawebsitehosting.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrawebsitehosting.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509123133id_/http%3A//www.ultrawebsitehosting.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Ultra Website Hosting
 
-We can be reached via [e-mail](https://web.archive.org/web/20071017042204id_/http%3A//www.ultrawebsitehosting.com/contact.php).
+We can be reached via [e-mail](https://web.archive.org/web/20080509123133id_/http%3A//www.ultrawebsitehosting.com/contact.php).
 
 For each visitor to our website, our web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
