@@ -1,169 +1,130 @@
-> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215005656id_/http%3A//www.insurance.com/quotes/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509064429id_/http%3A//www.insurance.com/quotes/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Insurance.com - Privacy Policy
 
-**Your privacy is important to us. We will NOT sell or trade your personal information under any circumstances. Please read below to learn how your privacy is protected. [](http://www.bbbonline.org/cks.asp?id=10412057111647038) |  As part of our commitment to your privacy and security, we adhere to the Online Business Code Practices of the Better Business Bureau Online Reliability Program. Click on the logo to verify.   
+Last Updated  
+November 8, 2007
+
+**1\. GENERAL MATTERS**
+
+**Overview**  
+Welcome to the Insurance.com and ComparisonMarket.com web sites each (collectively the “Sites”) owned by ComparisonMarket Company. Protecting our visitors’ privacy and security is a top priority. For this reason, we have adopted the following Privacy Policy (“Policy”) to advise you of your choices regarding the use of your personal information online. By accessing and using these Sites, you agree to this Policy and the [Terms of Service](https://web.archive.org/web/20080509064429id_/http%3A//www.insurance.com/quotes/termsofservice.aspx).
+
+If we decide to change our privacy policy or email practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+**Scope of Policy**  
+This Policy only applies to the following sites: [www.insurance.com](http://www.insurance.com/) and [www.comparisonmarket.com](http://www.comparisonmarket.com/) and does not apply to other companies' or organizations' web sites to which we link. You should carefully review the privacy policies of those web sites in order to determine how they treat your personal information.
+
+**2\. WHAT INFORMATION WE COLLECT FROM VISITORS AND HOW WE USE SUCH INFORMATION**
+
+We do not collect any personally identifiable information from you unless you voluntarily choose to disclose such information while taking advantage of the services on our Sites.
+
+Personal Information includes your name, street and e-mail address, phone number, credit card number, social security number, marital status, date of birth, gender, occupation, education level, driver’s license number, prior insurance coverage, the Vehicle Identification Number, make, model and number of vehicles in your household (“Personal Information”). Examples of when we collect some Personal Information include the following:
+
+  * **Online Interview.** In order to take advantage of the services on our Sites you must provide certain Personal Information to us during the online client interview process (“Interview”). Personal Information is used to facilitate your requests for insurance quotes or applications.
+  * **Offline Interview.** If you take advantage of our services through our call center with one of our licensed insurance agents, your Personal Information will be collected during such interview and incorporated into our electronic system so we can fulfill the products/services selected by you.
+  * **Post-Interview Information.** Additional Personal Information, such as method of payment and social security numbers will be collected from you during the post Interview process in order to fulfill any orders for services or products made by you.
+  * **Transaction Information.** Your Personal Information may be collected and used by us to track transactions conducted on our Sites including which products/services you selected and information we require for payment.
+  * **Sweepstakes and Surveys.** You will be asked to disclose Personal Information if you elect to participate in any sweepstakes or surveys we offer on the Sites from time to time.
+
+
+
+**3\. OPT-IN / OPT-OUT**
+
+**Opt-In.** When you take advantage of the services offered on our Sites, you will automatically receive commercial and promotional email messages from us to let you know about new products, services, features offered by us and participating insurance companies. We will not share your Personal Information with third parties who will send commercial email to you unless you **Opt-In** to receive email from them. A consumer may opt-in by visiting those third parties’ sites. Any email sent by us or one of our partners will always include an opportunity to **Opt-Out** from receiving future email.
+
+**Opt-Out.** If you do not wish to receive email from us, or our partners, you may **Opt-Out** by checking the opt-out box, during the Interview process. You may also opt-out by clicking on the “contact us” link in our application. Please be aware that each Interview is considered a new visitor session. This means that if you **Opt-Out** during the Interview you will not receive any email from Insurance.com or ComparisonMarket.com. However, if you begin a new Interview at a later time, unless you **Opt-Out** during that session, you will receive email from us.
+
+**How to Opt-Out.** Every communication we send you will contain a clearly worded **"Opt-Out"** or **"Unsubscribe"** link allowing you to withdraw your permission for future e-mails. Alternatively, you can send a blank e-mail to [feedback@insurance.com](mailto:feedback@insurance.com) and type **"Remove"** in the subject field. This system is automated and must be contacted from the email address you wish to have removed.
+
+Permission changes will be honored as soon as possible after receipt. Please allow seven to ten business days for processing. Permission changes will not effect any information which you previously provided to us and which we previously shared with our business partners.
+
+**4\. COLLECTION OF NON-PERSONAL AGGREGATE DATA**
+
+We gather non personally identifiable information (“Aggregate Data”) with respect to our visitors’ use of the Sites to determine the extent to which our visitors use certain parts of the Sites, which, in turn, enables us to make the Sites as useful as possible. We may provide Aggregate Data about the use of our Sites with quoting aggregators, participating insurance carriers and our business partners.
+
+**5\. COOKIES, BEACONS, SESSION ID AND IP ADDRESSES**
+
+**Cookies.** We use a technology called "cookies" on the Sites. Cookies are pieces of information that are sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes. Cookies collect technical data and identify your operating system and session ID. They can also save information you may have previously provided and help us recognize your computer when you return to the Sites. Cookies are not linked to your Personal Information and do not identify anything personal about you.
+
+**How Can One Disable Cookies?** Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser to notify you when you've received a cookie or, alternatively, to refuse to accept cookies; however, this may limit your ability to take full advantage of the features offered on the sites.
+
+**Web Beacons.** We use web beacons, which allow our partners to place a cookie onto an end user’s computer when they visit one of our partner sites so that when the end-user visits our Sites, that cookie data is tracked by our partner and our partner can identify that the end-user achieved a certain milestone. This is a tracking concept used commonly on the Internet, also referred to as "pixel tracking."
+
+**Session ID.** We collect all end-user data based off of a session ID. This is how we organize answers to our questions. This in-house convention allows us to use an end-user’s session ID to see all of the end-user input for one quote.
+
+**IP Addresses.** We collect and analyze traffic on our Sites by keeping track of the IP addresses of our visitors. IP addresses are unique numeric identifiers that are assigned to each computer browser accessing the Internet. An IP address, by itself, cannot identify you personally. However, when combined with other information provided by your Internet Service Provider (ISP), your IP address can be used to identify the computer originating a message.
+
+Some of our business partners (e.g., advertisers) use cookies on our Sites. We have no access to or control over these cookies.
+
+This Policy covers the use of cookies by Insurance.com and Comparisonmarket.com only and does not cover the use of cookies by any advertisers.
+
+We do not use cookies in conjunction with emails.
+
+**6\. WHEN WE SHARE PERSONAL INFORMATION**
+
+**Insurance Carriers.** An insurance carrier and/or an independent insurance agency appointed by an insurance carrier will use your Personal Information in combination with other information you provide about your insurance needs to create an insurance premium estimate. Ratings criteria vary between participating providers, with each carrier placing emphasis on particular items of information you provide. **Please Note:** Third party insurance carriers have their own privacy policies and we are not responsible for these policies nor the products and/or services offered by third party providers so please make sure to review the privacy policy of any third party carrier from whom you may purchase a policy.
+
+**Financial, Credit and Government Agencies.** In order to provide you with our services, and only where permitted by law, we share your Personal Information with: (1) financial service providers who provide comparative rates; (2) certified credit bureaus to verify information about your credit report; (3) Department of Motor Vehicles to verify your driving record, previous claims history, vehicles and VIN and other relevant information. Your Personal Information is maintained by credit agencies and disclosed by them to others as permitted by law.
+
+**Service Providers.** Sometimes third party service providers are retained or utilized by us and may have access to our visitors’ Personal Information. This information is required in order to generate accurate and bindable rates. Please be aware, while we take steps to protect third party use of Personal Information through confidentiality agreements and restrictions on access to and use of such information, there is no means for us to police the activities of third parties’ use of Personal Information disclosed to them.
+
+**7\. DISCLOSURE EXCEPTIONS**
+
+We reserve the right to disclose your Personal Information if we are required to do so by law or we believe that such action is necessary including, without limitation:
+
+  * To comply with a legal process, such as a search warrant, subpoena or court order, state or federal law;
+  * To protect our company rights and property;
+  * To investigate reports of visitors providing false or misleading information;
+  * To protect against misuse or unauthorized use of our Sites and/or service;
+  * To prevent or investigate reports of credit card fraud or unauthorized use; or
+  * During emergencies, such as when we believe someone's physical safety is at risk.
+
+
+
+**8\. SECURITY**
+
+**Electronic Security.** The security of your Personal Information and email address are important to us. When you provide Personal Information including, without limitation, your payment information and/or social security number during the Interview or purchase process, we encrypt the information by using advanced encryption technology known as Secure Socket Layer (SSL) to protect the transfer and storage of your Personal Information. In addition, during the Interview process, you are on secure pages of our Sites and a lock or key icon appears on the bottom of your web browser screen.
+
+**Physical Security.** All Personal Information is restricted in our offices. Employees are granted access on a need-to-know basis. In addition, the servers on which we store Personal Information are kept in a secure environment. Our main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24x7 secured access, as well as video camera surveillance and security breach alarms.
+
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, while we follow accepted industry standards and implement reasonable security practices to protect Personal Information, we cannot guarantee its absolute security. If you have any questions about the security of our Sites, you can send an email to [privacyconcerns@Insurance.com](mailto:privacyconcerns@Insurance.com) or call the Privacy Sites phone number at 888-740-4328.
+
+**9\. ACCESS TO YOUR PERSONAL INFORMATION**
+
+**How to Correct or Change Your Quote Information.** You can access the quote information you provided and update it at any point during the Interview by navigating to previous pages and making the necessary changes. Upon completing the Interview, you may review and/or modify your Personal Information and/or email address by selecting the “modify” button on the rates page and get a revised quote reflecting the changes you have made. When you save your quote information, you can return to the Sites and change your information at anytime as long as you have not yet purchased a policy. Simply log onto the Sites, select the applicable insurance for which you requested a quote, and select Retrieve My Quote. To change your information type the new data and click the Continue button.
+
+**Editing Your Personal Information.** If your Personal Information or email address changes or you want to edit or update your information you can do so by emailing our Customer Support, or by contacting us by telephone or postal mail at the contact information listed below.
+
+Customer Support E-mail: | [feedback@Insurance.com](mailto:feedback@Insurance.com)  
 ---|---  
-|  We provide a secure environment for your personal data and transactions on every page of our application, which is approved by Verisign. Click on the logo to verify.   
-This Privacy Statement was last updated on April 15, 2005.**
+Customer Support Phone: | 1-866-801-2529  
+Customer Support Address: |  Insurance.com Inc., Corporate Headquarters  
+Privacy Customer Support  
+29000 Aurora Road  
+Solon, Ohio 44139   
+  
+**Implementing Change Request.** We will use reasonable efforts to make the changes you requested but it is not always possible to modify database information. In addition, if your Personal Information and email address has been provided to third parties, we will not be able to make changes to it. Further, such information is never completely removed from our database due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your Personal Information would be removed from our database in response to your request.
 
-We may collect the following nonpublic personal financial information (but NOT health information): 
+**Live Chat.** We provide a live chat feature on our Sites. When used during business hours, this feature does not collect any personally identifiable information. When used after business hours to send us a message, this feature collects your name and email address. We use this information to communicate with you regarding your inquiry.
 
-  * Information that you submit when you register with our site in order to receive newsletters or other announcements by e-mail or to request an insurance application; 
+**California Residents.** As of January 1, 2005, California Civil Code Section 1798.83 permits visitors of these Sites who are California residents to request certain information regarding disclosure of their Personal Information to third parties for direct marketing purposes. To make such a request, please send an e-mail, or contact us by telephone or send a letter to the numbers and addresses included above.
 
+**10\. OTHER MATTERS**
 
-  * Information that you submit on our online form when you request an insurance application, such as your name, address and, depending on the coverage you seek, auto ownership, income or asset information; 
+**Third Party Links.** In some states, or for certain lines of coverage (including, but not limited to, homeowners or renters coverage, pet health coverage, auto coverage) we may provide direct links to insurance company or agency web sites if we cannot obtain comparative quote information. If you purchase insurance from these third party carriers as a result of visiting our Sites ([www.insurance.com](http://www.insurance.com/) or [www.comparisonmarket.com](http://www.comparisonmarket.com/)) the carrier may share your Personal Information with us ([www.insurance.com](http://www.insurance.com/) or [www.comparisonmarket.com](http://www.comparisonmarket.com/)) regarding the policy which is purchased and related information but we will not share the information with unaffiliated third parties. **Please Note:** when you purchase third party products and/or services from third party web sites, you become their customer and are subject to their privacy policies. We encourage you to review these companies' privacy policies and only do business with those who adhere to personal information practices with which you are comfortable.
 
+**Do Not Share Disclosure.** We do not share, sell, rent or trade your Personal Information or email address with third parties for their promotional purposes. However, we may use the information to direct traffic to approved partner sites.
 
-  * Information collected by the insurance agencies or insurance companies that respond to your online or telephone requests, including application information described above, credit information if requested, and information about the insurance policies you purchase; and 
+**Sale of Assets.** If we are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our databases, together with any Personal Information or email address contained therein, to a third-party acquiring our company assets. If we do so, we will place a prominent notice of the sale on the homepage of our Sites, with links to information as to how you can change your privacy preferences.
 
+Please remember that your use of these Sites is always subject to this Privacy Policy and our [Terms of Service](https://web.archive.org/web/20080509064429id_/http%3A//www.insurance.com/quotes/termsofservice.aspx). Please take a moment to read the [Terms of Service](https://web.archive.org/web/20080509064429id_/http%3A//www.insurance.com/quotes/termsofservice.aspx). If you have any questions or comments regarding these Sites or any of our policies, please send an e-mail to Customer Support at [privacyconcerns@Insurance.com](mailto:privacyconcerns@Insurance.com), call 888-740-4328, or write to Privacy Policy- 29000 Aurora Road, Solon, OH 44139.
 
-  * Information about your transactions with us or with insurance agencies and insurance companies accessible through this site. 
+**TRUSTe**  
+Insurance.com and ComparisonMarket.com are both owned by ComparisonMarket, Inc. which is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the ComparisonMarket, Inc. and the following sites: [www.insurance.com](http://www.insurance.com/) and [www.comparisonmarket.com](http://www.comparisonmarket.com/). Because these web sites want to demonstrate its commitment to your privacy, ComparisonMarket, Inc. has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-
-
-We may disclose the information described above to: 
-
-  * Insurance agents or insurance companies as needed to fulfill your rate requests;
-
-
-  * Companies that perform technology or marketing services for us, and are prohibited to share that information with others; 
-
-
-  * To others only if you consent or as permitted by law.
-
-
-
-We restrict access to nonpublic personal information about you to employees of Insurance.com or of our service providers that have agreed to maintain its confidentiality. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information. 
-
-View the Privacy Policy for each insurance product below.
-
-[ Life Insurance](http://www.insure.com/privacy_statement.html "Life Insurance Privacy Policy"), developed by Quotesmith.com, Inc.  
-[Small Business Health Insurance](http://www.ehealthinsurance.com/ehealthinsurance/PrivacyPolicy/DirectPrivacyPolicy.html "Small Business Health Insurance Privacy Policy"), developed by eHealthInsurance Services, Inc.  
-[Dental Insurance](http://www.dentalinsurance.com/di/_privacyPolicy.aspx "Dental Insurance Privacy Policy"), developed by Kelsey National Corporation  
-Auto Insurance, developed by ComparisonMarket Insurance Agency. ComparisonMarket Insurance Agency does not service residents of Alaska, Hawaii, or Massachusetts. Please reference the Privacy Policies shown on each insurance carrier’s website for those states. If you are directed to Geico Direct, please refer to the privacy policy on their site.  
-[Travel Insurance](http://www.worldtravelcenter.com/eng/cobrands/inscom/privacy.cfm "Travel Insurance Privacy Policy"), jointly developed by Insurance.com and Insuractive, Inc.  
-
-
-For more detailed information, please see Privacy Statement and Q & A below. 
-
-PRIVACY STATEMENT AND Q & A 
-
-Insurance.com has created this Privacy Statement and Q & A in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website (insurance.com). The statement also discloses how your information is used by other companies we do business with. 
-
-**Q:** What organizations have access to my nonpublic personally identifiable information? Read answer  
-**Q:** How is my nonpublic personally identifiable information used? Read answer  
-**Q:** What choices are available to me regarding the collection, use and distribution of my nonpublic personally identifiable information? Read answer  
-**Q:** What security measures are in place to protect my nonpublic personally identifiable information? Read answer  
-**Q:** How can I correct any inaccuracies in my nonpublic personally identifiable information? Read answer   
-**Q:** How will I know if this privacy statement changes? Read answer  
-**Q:** How can I “opt out” of receiving any email from you? Read answer  
-**Q:** How can I contact you regarding the privacy of my information? Read answer
-
-* * *
-
-**Q:What organizations have access to my nonpublic personally identifiable information? **
-
-**A** : The following organizations have access to your nonpublic personally identifiable information: 
-
-  1. **Insurance.com**
-
-On the Insurance.com website, we have a variety of areas where you can input information: for storage, to calculate insurance premiums or quotes, and to process insurance purchase requests. We also gather information about your Internet address to help understand site usage. In addition, we receive information collected by the insurance agencies or insurance companies that respond to your online requests, including application information and information about the insurance policies you purchase. Insurance.com and its technology or marketing service providers may have access to this information, and Insurance.com shares this information.
-
-  2. **Quoting Providers**
-
-For most products, the quoting process is anonymous; that is, you do not have to identify yourself or provide information by which you could be identified in order to obtain quote information. Auto insurance quotes require some personal information in order to provide accurate rates. Auto insurance rates are based on you – who you are, where you live, your driving record, etc. in addition to vehicle information (See 7, regarding quotes obtained through ComparisonMarket Insurance Agency.) Should you wish to gain quotes for a particular line of insurance, information will be collected (for example car model, coverage amount, etc.) that is shared by Insurance.com with a third-party insurance quoting provider in order to match your information to a list of quotes. Each quoting provider has agreed with us that this information will be used by them only in connection with services **you specifically request**. 
-
-  3. **Insurance Agencies and Insurance Carriers – In General**
-
-Should you decide to apply for a particular insurance policy after obtaining a quote through one of our quoting providers, you will be asked to provide additional information needed to complete an insurance application. With your authorization, this information will be forwarded either (1) to an independent insurance agency which has been appointed by the insurance carrier you select and which has agreed to use the information only for the purposes of completing your transaction with the carrier, or (2) directly to the carrier that you have chosen or its affiliated insurance agency. Carriers use personally identifiable information (such as name and address) in combination with other information you provide about your insurance needs to provide an insurance premium estimate. However, the criteria for ratings may vary between participating insurance companies, with each carrier placing a different emphasis on particular items of information you provide. Where permitted by law, your personally identifiable information may be used to verify information that you have provided, to request a credit report or review your claims history from a third party. As your application proceeds, Insurance.com may be updated of your progress. PLEASE NOTE: The insurance carriers are required by law to have their own privacy policies, which likely differ from those of Insurance.com. You may wish to obtain and review the carriers' policies. 
-
-  4. **Life Insurance**  
-
-  5. **Health Insurance**  
-
-  6. **Dental Insurance**  
-
-  7. **Auto Insurance – ComparisonMarket Insurance Agency (ComparisonMarket)**
-
-ComparisonMarket Insurance Agency provides auto insurance quotes and other services in all states except for Alaska, Hawaii and Massachusetts. In situations where ComparisonMarket Insurance Agency is available, ComparisonMarket Insurance Agency requests certain required personal information during the quote process in an effort to provide more accurate quote information. Residents of those states are encouraged to see the ComparisonMarket Privacy Policy In situations where you are referred to a single insurance carrier, please refer to the privacy policy listed on that insurance carrier’s site.
-
-  8. **Travel Insurance**
-
-If you are interested in travel insurance, please see the [Travel Insurance Privacy Policy](http://www.worldtravelcenter.com/eng/cobrands/inscom/privacy.cfm "Travel Insurance Privacy Policy") of Insurance.com and Insuractive, Inc. 
-
-  9. **Links to Third Party Insurance Sites**
-
-In some states, or for some lines of coverage (e.g., homeowners or renters coverage; pet health coverage; auto coverage in MA, HI, AK), we may provide direct links to insurance company or insurance agency sites, usually because we cannot obtain comparative quote information. If you provide information on a carrier website or purchase insurance from a carrier as a result of visiting Insurance.com, the carrier may share that information with Insurance.com, but Insurance.com will not share it with any unaffiliated third parties. Insurance.com is not responsible for the privacy practices of these third party insurance companies or the content of their websites. We recommend that you read the privacy statements on the sites of each insurance company or third party agent with which you interact. 
-
-
-
-
-**Q:How is my nonpublic personally identifiable information used?**
-
-**A** : Your nonpublic personally identifiable information is used in the following ways: 
-
-  1. **Providing Services You Request**  
-Information that you provide during the quoting process is used to fulfill your requests for insurance quotes or applications. Information you provide during the registration or application process is: 
-    1. used to facilitate your requests for insurance quotes or applications; 
-    2. used to distribute newsletters, optional user experience surveys or other marketing and promotional materials to you, unless you opt not to receive this information ; and 
-    3. stored by our service providers or within the Insurance.com site in order to enable you to re-access the information at your convenience. 
-  2. **Site Usage – Cookies**  
-
-
-Insurance.com also gathers **anonymous** information and aggregate demographic information (such as age, zip code, etc.), which does **not** personally identify you. We use this information to better understand our site usage patterns, and we may share this information with third parties for marketing or technology purposes. Generally this information is collected through "traffic data" and the use of "Cookies," "Internet Protocol" addresses or other numeric codes or tags used to identify a computer. Again, any disclosure of anonymous information and/or aggregate demographic information will not reveal any personally identifiable information about specific users. 
-
-A 'cookie' is a message given to a web browser by a web server. The browser stores the message in a small text file on the same drive that the browser is installed on. The message is then sent back to the server each time the browser requests a page from the server. It will not be used to help track user's aggregate data from sites other than our own. The only cookie-based data that we track is activity on our own site concerning demographics and site usage analysis. The user needs to have cookies enabled in order to use restricted features of the site, including the auto quoting process. 
-
-  3. **Quoting**
-
-There is no requirement to register or login prior to requesting a quote. As noted above, we share this information with third party quote providers in order to obtain the quote information you request. ComparisonMarket Insurance Agency provides auto insurance quotes and other services for residents of all states except for Alaska, Hawaii and Massachusetts. Residents of those states serviced by ComparisonMarket will be asked for certain personal information, including a credit report authorization. This additional information is requested in an effort to provide you with more accurate quote information. 
-
-  4. **No Other Disclosure to Unaffiliated Third Parties**
-
-Unless you expressly give us permission to do so, or unless required by law, we do not willfully disclose your personally identifiable information to unaffiliated third parties, other than the above-described parties with which we contract to make certain services available through our website and which have agreed that they will keep your information confidential. However, we may share aggregated statistical information about the use of our website with quoting aggregators, participating insurance companies or other companies we do business with; in this case, your personally identifiable information is not disclosed. 
-
-
-
-
-**Q:What choices are available to me regarding the collection, use and distribution of my nonpublic personally identifiable information? **
-
-**A:** You may decide to opt-out of communications from Insurance.com. Users registering during the health insurance application process will automatically be placed on the email distribution list that provides you with information concerning promotions and updates to the Insurance.com site and all communications regarding your health insurance request. 
-
-Except as noted in the next paragraph, during the quoting process on Insurance.com you will always retain complete control over what information you disclose in the quoting / application processes and to which insurance carriers, if any, it is sent. You will be asked for your name, contact details and other information only if you decide to proceed with coverage from a company that has offered an online quote. 
-
-ComparisonMarket provides auto insurance quotes and other services for residents of all states except Alaska, Hawaii, and Massachusetts. Residents of those states serviced by ComparisonMarket will be asked for certain personal information, including a credit report authorization, in order to return accurate rates. This additional information is a standard request in the auto insurance industry. 
-
-With respect to third party sites to which you may link through Insurance.com, any choices regarding the handling of your personal information will be described on such parties' websites. You should refer to the privacy statements for those sites for more information. 
-
-During the health application process you will automatically opt-in to an email distribution list that will provide you with information concerning promotions and updates concerning the Insurance.com site. Upon receipt of an email communication you will have the option to opt-out of receiving any further communications. 
-
-**Q:What security measures are in place to protect my nonpublic personally identifiable information? **
-
-**A:** This site uses strong security measures to protect the personal data you provide. Your personal data is stored on a system not directly connected to the Internet. We use a variety of security systems and control measures to restrict access to your data. We use authentication methods to confirm the identity of trusted parties. We support encryption technologies to protect the transmission of your data when you are supplying it, or if we are passing it to other companies we do business with. 
-
-**Q:How can I correct any inaccuracies in my nonpublic personally identifiable information? **
-
-**A:** Within the quoting process, you are able to change your information by returning to the previous page via the back button of the browser, or by verifying and editing the information prior to submission. 
-
-**Q:How will I know if this privacy statement changes?**
-
-**A:** Insurance.com may change its privacy practices in the future. If we change the way we treat any nonpublic personally identifiable information, we will: 
-
-  * Post a revised privacy policy at this location; and 
-  * In the event the change could affect your nonpublic personally identifiable information already in our database, we will email you to notify you of the change and include an option for you to opt-out of the process. 
-
-
-
-**Q:How can I “opt out” of receiving any email from you? **
-
-Occasionally, we may email you our quarterly insurance newsletter or to let you know about new products, features, or insurance companies that we’ve added. [Click here](https://www.comparisonmarket.com/Optout.aspx?visit=115732268&machine=119181609&opt=all) to have your email removed from our email marketing lists. 
-
-**Q:How can I contact you regarding the privacy of my information?**
-
-**A:** If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [ email us](mailto:feedback@insurance.com?subject=Privacy%20Policy "Email us") or contact our corporate headquarters at:   
-Insurance.com   
-29001 Solon Rd.   
-Solon, OH 44139 
+If you have questions or concerns regarding this statement, you should first contact us at 888-740-4328 or write to Privacy Policy- 29000 Aurora Road, Solon, OH 44139, or send email to [privacyconcerns@Insurance.com](mailto:privacyconcerns@Insurance.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with ComparisonMarket, Inc. to resolve your problems.
 
 .
