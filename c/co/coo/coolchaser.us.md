@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolchaser.us privacy policy that was archived on 2007-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071031000122id_/http%3A//www.coolchaser.us/message/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolchaser.us privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509161507id_/http%3A//www.coolchaser.us/l/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - CoolChaser
+# My Coolchaser: MySpace Layouts, Cool Layouts for MySpace, MySpace Backgrounds, Yuwie Layouts, Hi5 Layouts, My Year Book Layouts
 
 ## What This Privacy Policy Covers
 
