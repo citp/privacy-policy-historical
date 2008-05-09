@@ -1,26 +1,9 @@
-> *The following text is extracted and transformed from the hostsearch.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208123131id_/http%3A//hostsearch.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostsearch.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509161219id_/http%3A//www.hostsearch.com/policy.asp) for the most accurate reproduction.*
 
 # Web Hosting Search & Web Host Directory - HostSearch.com
 
-|   
----  
-|  | [**EBOUNDHOST.com**](http://www.hostsearch.com/adtop/go/redirect.asp?D=2/8/2007&File=5387&timestamp=063126)  
-24/7 Supp, UNLIMITED domains, 300G HD, 3,000G BW   
----  
-[**Fast Servers! $5.95/m**](http://www.hostsearch.com/adtop/go/redirect.asp?D=2/8/2007&File=5395&timestamp=063126)  
-40 GB, NO-LIMIT Bandwidth, Double Disk Space!!   
-[**HostForWeb – $8.32!**](http://www.hostsearch.com/adtop/go/redirect.asp?D=2/8/2007&File=5241&timestamp=063126)  
-All features! FREE scripts 3GB WS / 125GB BW   
-[**HostDepartment Hosting**](http://www.hostsearch.com/adtop/go/redirect.asp?D=2/8/2007&File=5328&timestamp=063126)  
-NOLIMIT Plan, Free Domain 4 LIFE, 6 Mo.Free!   
-[**Apollo Hosting**](http://www.hostsearch.com/adtop/go/redirect.asp?D=2/8/2007&File=4933&timestamp=063126)  
-Award-Winning Hosting since 1999 - Plesk 8, Unlimited Database!   
-[**Hostgator - $9.95/m**](http://www.hostsearch.com/adtop/go/redirect.asp?D=2/8/2007&File=4961&timestamp=063126)  
-Host UNLIMITED domains from a single account!   
-[**$9.95 Hostway Hosting**](http://www.hostsearch.com/adtop/go/redirect.asp?D=2/8/2007&File=4999&timestamp=063126)  
-150G Disk Space, 3000 E-mails, Free Setup + Free Domain!   
   
-|   
+|  |   
 ---  
 **HostSearch.com Privacy Policy**  
 ---  
