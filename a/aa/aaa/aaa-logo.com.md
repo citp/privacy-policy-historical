@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the aaa-logo.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017204116id_/http%3A//www.aaa-logo.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaa-logo.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509060758id_/http%3A//www.aaa-logo.com/ppolicy.php) for the most accurate reproduction.*
 
 # Privacy statement - aaa-logo.com
 
  
+
+PRIVACY POLICY
 
 **Everyone’s and anyone’s privacy must be respected!**
 
@@ -32,6 +34,6 @@ By using our Web site, you consent to the collection and use of this information
 
 In the event that you desire to purchase our products, the software, you agree not to use the software in any manner that is illegal, unethical, harassing, threatening, intimidating, abusive, obscene, profane, defamatory, hateful or a nuisance.
 
-Should you have any question concerning this Policy , you may [contact us](http://www.aaa-logo.com/contact.php).
+Should you have any question concerning this Policy , you may [contact us](http://www.swgsoft.com/cnt.php?to=logo).
 
 **Hope you enjoy your visit at our Web site!**
