@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015080450id_/http%3A//www.myfantasyleague.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509071305id_/http%3A//myfantasyleague.com/privacy.php) for the most accurate reproduction.*
 
 # My Fantasy League - Fantasy Football League Management
 
 **Our Commitment To Privacy:**  
 ---  
-| Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.  
+| Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.  
 **
 
 The Information We Collect:
@@ -21,9 +21,9 @@ Credit/Debit Card Information
 On your league page, you may voluntarily enter contact information that makes it easier for league members to contact you, including:   
 | Name   
 Email address   
-Daytime Phone Number   
-Evening Phone Number   
-Fax Number   
+Phone numbers (daytime, evening, fax, cell)   
+Personal web site URL   
+Instant messaging IDs   
 ---|---  
 **
 
@@ -32,7 +32,7 @@ The Way We Use Information:
 **  
 |  We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-We do not, in any manner, use the information voluntarily entered on your league page. It is important to realize that anyone (not just your league members) may view the contact information you enter on your league page. 
+We do not, in any manner, use the information voluntarily entered on your league page. It is important to realize that anyone (not just your league members) may view your personal (non-MFL) web site if defined, but the contact information you enter on your league page is only seen by league members while they are logged in. 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
@@ -55,11 +55,10 @@ Our Commitment To Children's Privacy:
 How You Can Correct Your Information:
 
 **  
-| You can correct factual errors in your personally identifiable information by sending us a request that credibly shows an error.   
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.   
+| You can correct factual errors in your personally identifiable information by sending us a request that credibly shows an error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.   
 **
 
 How To Contact Us:
 
 **  
-| Should you have other questions or concerns about these privacy policies, please fill our our [support form](http://football8.myfantasyleague.com/2007/support).
+| Should you have other questions or concerns about these privacy policies, please fill our our [support form](http://football.myfantasyleague.com/2008/support).
