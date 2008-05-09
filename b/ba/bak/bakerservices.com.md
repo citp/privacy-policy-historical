@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakerservices.com privacy policy that was archived on 2007-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070709092015id_/http%3A//www.bakerservices.com/policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakerservices.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509075131id_/http%3A//www.bakerservices.com/policies.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Accommodations in Western Canada
 
@@ -19,22 +19,14 @@ This site has security measures in place to protect the loss, misuse and alterat
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.   
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  1. You can call the following telephone number: 604-261-3197
-
-
-
 ## Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided.
-
-  1. call the following telephone number: 604-261-3197
-
-
 
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
-Baker Services info@bakerservices.com
+Baker Services
 
-[Return to Main Page.](https://web.archive.org/web/20070709092015id_/http%3A//www.bakerservices.com/index.html)
+[Return to Main Page.](https://web.archive.org/web/20080509075131id_/http%3A//www.bakerservices.com/index.html)
