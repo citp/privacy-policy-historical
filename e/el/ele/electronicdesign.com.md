@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the electronicdesign.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215180756id_/http%3A//www.penton.com/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicdesign.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509194748id_/http%3A//www.penton.com/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **Scope**  
-Penton Media, Inc. considers your privacy important. We are committed to protecting the privacy of all those who provide us with their contact information while using our information, products, events, or services. This policy describes the ways that personally identifiable and anonymous information about our publication subscribers, online media product users, and event registrants is collected, how that information might be shared, and how someone can request changes to the way their personal information is used or shared.
+Penton Media, Inc. considers your privacy important. We are committed to protecting the privacy of all those who provide us with their contact information while using our information, products, events, or services. This policy describes the ways that personally identifiable and anonymous information about our publication subscribers, online media product users, and event registrants is collected, how that information might be shared, and how someone can request changes to the way their personal information is used or shared. 
 
 This privacy statement applies to websites operated by or on behalf of Penton Media, Inc., its divisions, and subsidiaries.
 
@@ -85,9 +85,9 @@ Penton Media reserves the right to access and disclose personally identifiable i
 If we decide to change our privacy statement, we will post the changes on this page. Users are encouraged to review this page for any changes. Your continued use of this site constitutes your acceptance of this entire privacy statement.
 
  **How to Reach Us**  
-If you wish to update your print magazine subscription contact information, please go to [http://subscribe.penton.com](http://subscribe.penton.com/) or to the magazine's home page.
+If you wish to update your print magazine subscription contact information, please go to the magazine's home page.
 
-If you wish to opt out of receiving email, faxes, or phone calls from any Penton Media, Inc. business, please go to[ http://privacy.penton.com](http://privacy.penton.com/) or send an email to privacy@penton.com.
+If you wish to opt out of receiving email, faxes, or phone calls from any Penton Media, Inc. business, please send an email to privacy@penton.com.
 
 If you wish to contact Penton Media, Inc.'s Corporate Privacy Manager, please send your specific questions to: [privacy@penton.com](mailto:privacy@penton.com) .
 
