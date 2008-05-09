@@ -1,72 +1,8 @@
-> *The following text is extracted and transformed from the zazachat.com privacy policy that was archived on 2007-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071101013819id_/http%3A//www.zazachat.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazachat.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509125133id_/http%3A//zazachat.com/privacy.aspx) for the most accurate reproduction.*
 
 # Live Chat Software, Live Support, ZaZaCHAT - Privacy policy
 
-|  **Account**  
-[Create Account](https://www.zazachat.com/newaccount/)  
-[Take a Tour](https://web.archive.org/zazachat_online_tour/)  
-[Operator Panel Overview](https://web.archive.org/zazachat_online_tour/ChatAssistance_OperatorPanel.aspx)  
-[ Client Login](https://www.zazachat.com/livechatclient/livechatoperator/chatoperator.aspx)  
-
-
-* * *
-
-**Features**  
-[Features, Tools, Prices](https://web.archive.org/about_zazachat.aspx)  
-[Download ZaZaAlerter](https://web.archive.org/zazaAlerter/)  
-[About ZaZaKnowledge](https://web.archive.org/zazaknowledge/zazaknowledge_faq_management_system.aspx)  
-[ZaZaCHAT .NET control](https://web.archive.org/zazachat_control/livechat_vbnet_control.aspx)  
-[Hosted Solution](https://web.archive.org/HostedorMaintained.aspx)  
-[Partner with ZaZa](https://web.archive.org/partnershipopportunities.aspx)  
-[Support Outsourcing](https://web.archive.org/OutsorcingCustomerSupport.aspx)  
-[F.A.Q.](http://faq.zazachat.com/)  
-[ZaZaCHAT Forum](http://discuss.zazasoftware.com/)  
-[ZaZaCHAT News](https://web.archive.org/news.aspx)  
-[Why "ZaZa"?](https://web.archive.org/whyzaza.aspx)  
-
-
-* * *
-
-**About Live Chat**  
-[Why Live Chat Software?](https://web.archive.org/zazachat_online_tour/Why_Live_Chat_Assistance.aspx)  
-
-
-* * *
-
-**Solutions**  
-[Online Store](https://web.archive.org/articles/live-chat-ecommerce-online-store.aspx)  
-[Auto Sales](https://web.archive.org/articles/live-chat-auto-dealership.aspx)  
-[Travel Industry](https://web.archive.org/articles/live-chat-help-for-travel-website.aspx)  
-[Higher Education](https://web.archive.org/articles/live-chat-help-support-college-school-higher-education.aspx)  
-[Health Care](https://web.archive.org/articles/live-chat-help-support-medical-healthcare-hospital.aspx)  
-[Veterinary](https://web.archive.org/articles/live-help-chat-support-veterinary.aspx)  
-[Real Estate](https://web.archive.org/articles/live-chat-help-support-real-estate-mortgage-agency.aspx)  
-[Financial](https://web.archive.org/articles/live-chat-help-support-banking-financial-industry.aspx)  
-[Why ZaZaCHAT?](https://web.archive.org/articles/ZaZaCHAT_Brochure.pdf)  
-
-
-* * *
-
-**Support**  
-[Contacts](https://web.archive.org/contact.aspx)  
-877-570-2328 
-
-* * *
-
-**In the News**  
-
-
-[](https://web.archive.org/news.aspx?newsid=19)10/10/2007: Proactive chat invitations and ticket system generate results for National Pool Wholesalers, Inc...[more](https://web.archive.org/news.aspx?newsid=19)
-
-[](https://web.archive.org/news.aspx?newsid=18)8/16/2007: ZaZaChat - Help Desk Software - What's new?...[more](https://web.archive.org/news.aspx?newsid=18)
-
-[](https://web.archive.org/news.aspx?newsid=17)8/4/2007: ZaZaChat Help Desk Software to offer 100% Uptime Guarantee...[more](https://web.archive.org/news.aspx?newsid=17)
-
-[](https://web.archive.org/news.aspx?newsid=16)6/11/2007: Live Chat Software: New Release/New Feature: Ticket Management System...[more](https://web.archive.org/news.aspx?newsid=16)
-
-[](https://web.archive.org/news.aspx?newsid=15)3/27/2007: Live Chat Software benefits explained...[more](https://web.archive.org/news.aspx?newsid=15)
-
-| 
+|  | 
 
 **Individually Identifiable Information**  
 ZaZa Network, Inc recognizes that the growth of online services, including Internet services, has created many privacy concerns, particularly for consumers.   
