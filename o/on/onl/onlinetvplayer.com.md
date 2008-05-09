@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the onlinetvplayer.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209112557id_/http%3A//www.onlinetvplayer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetvplayer.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509194526id_/http%3A//www.onlinetvplayer.com/privacy) for the most accurate reproduction.*
 
 # OnlineTVPlayer.com Privacy Policy
 
 |  |  |  |    
+---|---|---  
+|  |   |    
 ---|---|---  
  
 
@@ -60,4 +62,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 #### Contacting the Web Site
 
 If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please [contact us](http://www.onlinetvplayer.com/contact/) .   
-
+| 
