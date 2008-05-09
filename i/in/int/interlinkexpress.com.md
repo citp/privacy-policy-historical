@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interlinkexpress.com privacy policy that was archived on 2007-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070817081224id_/http%3A//www.interlinkexpress.com/index/aboutus/about_us_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interlinkexpress.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509064947id_/http%3A//www.interlinkexpress.com/index/aboutus/about_us_privacy.htm) for the most accurate reproduction.*
 
 # About Us - Privacy
 
@@ -56,3 +56,7 @@ Interlink Express understands that privacy is important to you. We will take all
 
 
 Customer Information is handled on a ‘Need to Know’ basis and access is only provided to those employees who have a legitimate need for that information for the purposes of our business. 
+
+**Telephone Call Recording**
+
+To help us continually improve our service and in the interests of security, we may monitor and/or record your telephone calls with us.
