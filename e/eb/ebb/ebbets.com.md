@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebbets.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504001516id_/http%3A//www.ebbets.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebbets.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509160649id_/http%3A//www.ebbets.com/privacy.aspx) for the most accurate reproduction.*
 
-# Throwback Jerseys, Vintage Flannels, Baseball Caps | Ebbets Field
+# Throwbacks, Throwback Jerseys, Vintage Flannels, Baseball Caps | Ebbets Field
 
 We are deeply committed to protecting your privacy and take all reasonable steps to protect all data and information supplied to ebbets.com. We protect your privacy in a variety of ways including using industry accepted security measures to protect against the loss, misuse and alteration of data used by our system.
 
