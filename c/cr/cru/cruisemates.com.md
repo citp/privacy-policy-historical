@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the cruisemates.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218161125id_/http%3A//www.cruisemates.com/articles/about/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisemates.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509080615id_/http%3A//cruisemates.com/articles/about/privacy_policy.cfm) for the most accurate reproduction.*
 
 # About CruiseMates.com
+
+CRUISE GUIDE:  
+Sail with us and your friends 
+
+|  | 
 
   
   
@@ -54,3 +59,12 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Cruisemates.com
 
 Effective: January 23, 2007
+
+|  | 
+
+| [](https://web.archive.org/CF/bow.htm) [CRUISE BARGAINS](https://web.archive.org/CF/bargains/index.cfm)  
+---  
+Online Cruise Shopping mall  
+CruiseMates Cruise Bargains - Hot deals from the Cruise Lines & Web's best Discount Agencies  
+  
+
