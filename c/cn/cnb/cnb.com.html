@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cnb.com privacy policy that was archived on 2007-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225151028id_/http%3A//www.cnb.com/aboutus/terms/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cnb.com privacy policy that was archived on 2008-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509185403id_/http%3A//www.cnb.com/aboutus/terms/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><link type="text/css" rel="stylesheet" href="/style/cnb.css">
 	<script type="text/javascript" src="/scripts/noerror.js"></script>
@@ -7,6 +7,7 @@
 	<script type="text/javascript" src="/scripts/subnav.js"></script>
 	<script type="text/javascript" src="/scripts/survey.js"></script>
 	<script type="text/javascript" src="/scripts/external.js"></script>
+	<script type="text/javascript" src="/scripts/global.js"></script>
 <link href="/style/cnb.css" rel="stylesheet" type="text/css">
 
 <!-- InstanceBegin template="/Templates/subpage1.dwt.asp" codeOutsideHTMLIsLocked="false" -->
@@ -80,7 +81,8 @@ menu1[1]='<table class="dropMenuTbl"><tr><td><a href="/personal/checkingsavings/
 menu1[2]='<table class="dropMenuTbl"><tr><td><a href="/personal/international/" class="dropMenuItem">International Banking</a></td></tr><table>'
 menu1[3]='<table class="dropMenuTbl"><tr><td><a href="/personal/investment/" class="dropMenuItem">Investments & Trusts</a></td></tr><table>'
 menu1[4]='<table class="dropMenuTbl"><tr><td><a href="/personal/lending/" class="dropMenuItem">Personal Lending</a></td></tr><table>'
-menu1[5]='<table class="dropMenuTbl"><tr><td><a href="/orp/retireplan.asp" class="dropMenuItem">Retirement Planning Tool</a></td></tr><table>'
+menu1[5]='<table class="dropMenuTbl"><tr><td><a href="/preferred-banking/index.asp" class="dropMenuItem">Preferred Banking</a></td></tr><table>'
+//menu1[5]='<table class="dropMenuTbl"><tr><td><a href="/orp/retireplan.asp" class="dropMenuItem">Retirement Planning Tool</a></td></tr><table>'
 menu1[6]='<table class="dropMenuTbl"><tr><td><a href="/personal/onlineservices/" class="dropMenuItem">Online Services</a></td></tr><table>'
 
 //Contents for menu 2, and so on
@@ -333,47 +335,26 @@ document.onclick=hidemenu
 			  <!-- InstanceEndEditable -->
 				<p></p>
 				<!-- InstanceBeginEditable name="locator" -->
-				  <!---start : locator---><table class="locatorBox">
-	<tbody><tr>
-	<td class="leftnavHeaderTD"><span class="leftnavHeader">Office Locator</span></td>
-		<!-- 		previous version
-		td class="homeColumn3HDTd"><p><strong>Office Locator </strong></p></td 
-		-->
-	</tr>
-	<tr>
-	<form action="http://clients.mapquest.com/citynational/mqinterconnect?link=cnb1find$GEO_PGM_PATH" method="POST"></form>
-	<input type="HIDDEN" name="screen" value="find">
-	<input type="HIDDEN" name="link" value="cnb2results">
-	<input type="HIDDEN" name="smap" value="cnb2map">
-	<input type="HIDDEN" name="linktype" value="results">
-	<input type="HIDDEN" name="closestprox" value="1">
-	<input type="HIDDEN" name="closestn" value="10">
-	<input type="HIDDEN" name="miles" value="450">
-	<input type="HIDDEN" name="country" value="US">
-	<input type="HIDDEN" name="MW" value="400">
-	<input type="HIDDEN" name="MH" value="250">
-	<input type="HIDDEN" name="clientPOI1" value="1">
-	<td nowrap=""><p>Zip Code:
-		<input name="zip" type="text" maxlength="5" size="5">&nbsp;
-		<input class="button" type="submit" onfocus="this.blur()" value="Find" name="Find">
-		</p>
-	</td>
-	
-	</tr>
-    <!--
-<tr>
-<td>The La Jolla banking office will close early today at 1:00 PM <strong>Wednesday October 24, 2007</strong> due to the San Diego wildfires.</td>
-</tr>
--->
+				  <!---start : locator---><div id="office-locator">
+	<h2><a href="/locations/">Office Locator</a></h2>
+
+	<form id="office-locator-form" action="http://www.cnb.com/locations/searchsort.asp" method="get">
+		<fieldset>
+			<label for="address">Zip Code</label>
+
+			<input type="text" name="address" id="address" size="8">
+
+			<input type="submit" name="office-locator-form-submit" id="office-locator-form-submit" value="Find">
+		</fieldset>
+
+		<fieldset>
+			<input type="hidden" name="state" value="CA">
+		</fieldset>
+	</form>
 
 
 
-	
-
-
-
-</tbody></table>
-<!---end : locator--->
+</div> <!-- end of office-locator --><!---end : locator--->
 				  <!-- InstanceEndEditable -->
 				</td>
 				<td>
@@ -411,7 +392,7 @@ if (VERSION > 3) {
 	var sBody    = escape('The following page is from the City National Bank website:\n\n'+location.href);
 	var sItemURL = "mailto:?subject="+sSubject+"&body="+sBody;
 	document.write('<a href="' + sItemURL + '"><img src="/images/icons/email.gif" border="0"></a>');
-</script><a href="mailto:?subject=City National Bank Web Page&amp;body=The%20following%20page%20is%20from%20the%20City%20National%20Bank%20website%3A%0A%0Ahttps%3A//web.archive.org/web/20071225151028id_/http%253A//www.cnb.com/aboutus/terms/privacy.asp"><img src="/images/icons/email.gif" border="0"></a></td>
+</script><a href="mailto:?subject=City National Bank Web Page&amp;body=The%20following%20page%20is%20from%20the%20City%20National%20Bank%20website%3A%0A%0Ahttps%3A//web.archive.org/web/20080509185403id_/http%253A//www.cnb.com/aboutus/terms/privacy.asp"><img src="/images/icons/email.gif" border="0"></a></td>
 							</tr>
 						</tbody></table>
 							<!-- ENDISPLAY -->
@@ -537,71 +518,46 @@ if (VERSION > 3) {
 					  		
 					  		
 					  <!-- InstanceBeginEditable name="onlineServices" -->
-				<!---start : onlineServices---><script language="JavaScript" type="text/JavaScript">
-<!--
-function oslaunch() {
-				selDropVal = document.fsvcs.elsvcs.options[document.fsvcs.elsvcs.selectedIndex].value;
-				if (selDropVal != 0) location = selDropVal;
-}
-function MM_callJS(jsStr) { //v2.0
-  return eval(jsStr)
-}
-//-->
-</script>
+				<!---start : onlineServices--->
 
-<!--table cellpadding="0" cellspacing="0" width="100%">
-<tr><td align="right">
-<font color="#617BA9" size="3"><strong>Online Services</strong></font>&nbsp;</td></tr></table-->
-<table cellspacing="0" class="onlineServicesBox">
-	<tbody><tr>
-		<td>
-			<table cellpadding="2" cellspacing="0" width="100%">
-				<tbody><tr>
-				<td align="center">
-				<img src="/images/access-header.gif">
-				<form name="fsvcs">
-				  <select class="hmOSDrop" name="elsvcs" size="1">
-                    <option value="0" selected="">Select a service...</option>
-                    <option value="/elink/olb/">Online Banking</option>
-                    <option value="/elink/obs/">Brokerage</option>
-                    <option value="/elink/billpay/">Business Bill Pay</option>
-                    <option value="/elink/CM/index2.asp">Cash Management</option>
-                    <option value="/elink/citytax/">CityTaxSM</option>
-                    <option value="/centresuite/">Commercial Card Online</option>
-                    <option value="/elink/ecityrec/">eCityRec</option>
-                    <option value="/elink/fx/">Foreign Exchange</option>
-                    <option value="/elink/fs/">Foundation Source</option>
-                    <option value="/elink/ida/">IDA Sign-On</option>
-                    <option value="/elink/inv_view/">Investment Account View</option>
-                    <option value="/elink/loc/">Letters of Credit</option>
-                    <option value="/elink/mmt">Money Market Transfer</option>
-                    <option value="/elink/ops/">Plan Sponsor Services</option>
-                    <option value="/elink/opr/">Portfolio Review</option>
-                    <option value="/elink/ors/">Retirement Services</option>
-					<option value="/elink/stuckynet-link/">StuckyNet-Link </option>
-                    <option value="/elink/tnet/">Treasury NetSM</option>
-                    <option value="/elink/owlb/">Wholesale Lockbox</option>
-                  </select>
-				</form>
-				</td>
-				</tr>
-				<tr>
-				  <td align="right" nowrap="" class="hmTopNavLn"><div align="right">
-		            <input name="Online" type="image" src="/images/icons/logonbutton.gif" onclick="MM_callJS('oslaunch();')" value="Log on now" alt=" Log on now "> </div></td>
-		      </tr>
-				<tr>
-				  <td height="20" align="right" valign="bottom" nowrap="" class="hmTopNavLn"><span class="copy">			      <img src="/images/icons/dark-blue-arrow.gif" border="0" align="absmiddle"><a class="learnmorelink" href="/demos/">Learn More</a></span></td>
-			  </tr>
+<div id="onlineservicesbox">
 
-		  </tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<!--table cellpadding="0" cellspacing="0" width="100%">
-<tr><td class="copy" align="left"><img src="/images/icons/dark-blue-arrow.gif" border="0" align="absmiddle"><a href="/demos/">Learn More about online services </a></td>
-</tr></table-->
+<form id="onlineservicesform" method="post" action="/aboutus/terms/privacy.asp">
+	<fieldset>
+		<div class="selectgroup">
+			<label for="onlineservicesdropdown"><img src="/images/access-header.gif" vspace="4" alt="Access Your Accounts:"></label>
+			<select name="onlineservicesdropdown" id="onlineservicesdropdown">
+				<option value="/">Select a service...</option>
+				<option value="/elink/olb/">Online Banking</option>
+				<option value="/elink/obs/">Brokerage</option>
+				<option value="/elink/billpay/">Business Bill Pay</option>
+				<option value="/elink/CM/">Cash Management</option>
+				<option value="/elink/citytax/">CityTax</option>
+				<option value="/centresuite/">Commercial Card Online</option>
+				<option value="/elink/easi/">EASI Link</option>
+				<option value="/elink/ecityrec/">eCityRec</option>
+				<option value="/elink/fs/">Foundation Source</option>
+				<option value="/elink/ida/">IDA Sign-On</option>
+				<option value="/elink/inv_view/">Investment Account View</option>
+				<option value="/elink/loc/">Letters of Credit</option>
+				<option value="/elink/mmt">Money Market Transfer</option>
+				<option value="/elink/ops/">Plan Sponsor Services</option>
+				<option value="/elink/opr/">Portfolio Review</option>
+                <option value="/elink/remit/">Remit Advantage</option>
+				<option value="/elink/ors/">Retirement Services</option>
+				<option value="/elink/stuckynet-link/">StuckyNet-Link </option>
+				<option value="/elink/tnet/">Treasury Net</option>
+				<option value="/elink/owlb/">Wholesale Lockbox</option>
+			</select>
+		</div>
 
-<!---end : onlineServices--->
+		<input type="image" name="onlineservicessubmit" id="onlineservicessubmit" src="/images/icons/logonbutton.gif" value="Log on now">
+	</fieldset>
+</form>
+
+<p><a href="/demos/"><img src="/images/icons/dark-blue-arrow.gif" alt=""> Learn More</a></p>
+
+</div> <!-- end of onlineservicesbox --><!---end : onlineServices--->
 				<!-- InstanceEndEditable -->
 							<p></p>
 							<!-- InstanceBeginEditable name="resources" --><!-- InstanceEndEditable -->
@@ -625,7 +581,7 @@ function MM_callJS(jsStr) { //v2.0
 			<td><table border="0" cellpadding="2" cellspacing="0" width="100%" summary="City National copyright information table">
 				<tbody><tr>
 
-				  <td nowrap="" width="100%" class="copy" valign="top">Copyright © 2007&nbsp;
+				  <td nowrap="" width="100%" class="copy" valign="top">Copyright © 2008&nbsp;
 					  <a href="/">City National Bank</a> | All Rights Reserved.<br> 
 					<img src="/images/icons/eq_housng_bug.gif" border="0" alt="Equal Housing Lender"> Equal Housing Lender | Member FDIC</td>
 					<td class="copy" valign="top" align="right"><a href="/aboutus/sitemap.asp">Site Map</a> | <a href="/aboutus/fraud/">Fraud Prevention</a> | <a href="/aboutus/terms/privacy.asp">Privacy &amp; Security</a> | <a href="/aboutus/terms/terms.asp">Terms &amp; Conditions</a> | <strong>Subscribe to</strong> <a href="/rss/index.asp"><img src="/images/icons/xml.gif" border="0" align="absmiddle"></a> <a href="/rss/podcast.asp"><img src="/images/icons/pod.gif" border="0" align="absmiddle"></a></td>
