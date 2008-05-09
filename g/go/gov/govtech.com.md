@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtech.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226193625id_/http%3A//www.govtech.com/gt/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtech.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509194319id_/http%3A//www.govtech.com/gt/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Government Technology
 
@@ -14,13 +14,13 @@ e.Republic is comprised of five divisions:
 
 
 
-### Our Overall Privacy Statement
+## Our Overall Privacy Statement
 
 We believe personal privacy is a serious issue. Because we gather certain types of information about the users of our web sites, subscribers to our magazines or attendees of events we organize, we think it is important that you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather and how we use it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, as well as all other e.Republic Inc. sites and activities.
 
 We feel you should understand what personally identifiable information we collect when you visit our web sites, how we gather this information, how this information is used, instances when this information is shared and what choices are available to users regarding the collection, use and distribution of data. This statement also outlines what security procedures are in place to protect the loss, misuse or alteration of information under e.Republic's control.
 
-### What Information Does e.Republic Collect?
+## What Information Does e.Republic Collect?
 
 Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our web sites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, subscriptions to print magazines and email newsletters, access to sponsored parts of our site and participation in any message boards and databases we may establish.
 
@@ -28,13 +28,13 @@ We collect personally identifiable information, such as your name, email address
 
 Once you register with one of our web sites you are no longer anonymous to us.
 
-### How Does e.Republic Use Cookies?
+## How Does e.Republic Use Cookies?
 
 Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.
 
 We also use technologies, including electronic images known as Web bugs—sometimes called transparent GIFs, clear GIFs, or beacons—that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you.
 
-We use cookies and tracking technologies in a variety of ways, including:
+### We use cookies and tracking technologies in a variety of ways, including:
 
   * Keeping count of return visits to our site or our advertisers' or partners' sites;
   * Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage;
@@ -57,7 +57,7 @@ We use the information we gather for four general purposes:
 
 
 
-### Does e.Republic Share This Information?
+## Does e.Republic Share This Information?
 
 _For personally identifiable information:_
 
@@ -74,17 +74,17 @@ We will make your personally identifiable information available to other compani
 
 
 
-### Magazine Subscriptions
+## Magazine Subscriptions
 
 Visitors to our Web site are invited to subscribe to our various hard-copy magazines and e-mail newsletter services. Hard-copy subscribers are asked to include their email address, which is used for internal informational and promotional purposes only.
 
 We hire third-party vendors to handle subscription fulfillment. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use.
 
-### E-mail Newsletter Subscribers
+## E-mail Newsletter Subscribers
 
-Subscribers to our e-mail news service are asked to enter e-mail addresses only. We do not capture your name or any other information about you when you subscribe to a newsletter. This e-mail address is not shared with any other outside organization. Subscribers to our eNewsletters can unsubscribe at any time online: <http://www.govtech.com/enews>
+Subscribers to our e-mail news service are asked to enter e-mail addresses only. We do not capture your name or any other information about you when you subscribe to a newsletter. This e-mail address is not shared with any other outside organization. Subscribers to our eNewsletters can unsubscribe at any time online: <http://www.govtech.com/gt/enl_subscribe.php>
 
-### Logging Traffic Data
+## Logging Traffic Data
 
 In order to better service the needs of those who visit our site, we also keep track of certain traffic data. These include the platform you are using (such as a Macintosh or PC), browser type (such as Netscape or Microsoft Internet Explorer), IP address (or Internet Protocol address, which identifies your service provider, but not you personally) and the previous URL (Uniform Resource Location, or Web address) visited by you before clicking through to [www.govtech.com](http://www.govtech.com/). None of these disclose personal information about you, and what information they do reveal is used exclusively for internal administration purposes.
 
@@ -106,7 +106,7 @@ e.Republic also makes use of the Web to promote research papers and research ser
 
 Conference attendees are asked to supply certain personal information, including name, contact information and credit card number. The contact information is used for communicating with you regarding the conference, while your billing information will only be used to bill you for that service. Other than the financial data, this information might be shared with our event co-sponsors, but will not be disclosed to any other outside third parties without the consent of the individual or organization concerned. Again, e.Republic urges these co-sponsors to respect the privacy of those who entrust information to us.
 
-### Security
+## Security
 
 When you place an order online, we scramble your personal information and credit card information using SSL encryption technology before any information is sent over the Internet. This makes it virtually impossible for your information to be stolen or intercepted while being transferred across the Internet. When we receive your order, it is encrypted until we are ready to process it. Once the order is processed we erase your credit card information from our Web site.
 
