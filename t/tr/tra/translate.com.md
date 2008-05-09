@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translate.com privacy policy that was archived on 2007-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070817022202id_/http%3A//translate.com/company/privacy_pledge.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translate.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509144330id_/http%3A//www.translate.com/company/privacy_pledge.html) for the most accurate reproduction.*
 
 # ENLASO Website Privacy Statement
 
@@ -29,4 +29,4 @@ Offline Security
 Client information and data is stored in a secure facility within the ENLASO Corporation offices. Only ENLASO Corporation employees who need the information to perform a specific job are granted access to personally identifiable information. All employees are trained on our security and privacy practices.
 
 Contact Us  
-If you have any questions about this Privacy Statement or about ENLASO Corporation, please contact us directly at: phone (415-512-441) or email (kcaraska@translate.com)
+If you have any questions about this Privacy Statement or about ENLASO Corporation, please contact us directly at: phone (303-516-0857) or email (marketing@translate.com)
