@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessinternetdirectory.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222013831id_/http%3A//www.businessinternetdirectory.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinternetdirectory.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509095307id_/http%3A//www.businessinternetdirectory.com/privacy-policy) for the most accurate reproduction.*
 
-# Business Internet Directory
+# Privacy Policy - Business Internet Directory
 
 Privacy Policy - www.businessinternetdirectory.com 
 
@@ -79,8 +79,6 @@ If you request to remove your personal information from our database or you wish
 **8 Data quality**  
 You may change and modify the information you have previously provided to us, as follows: 
 
-| 
-
 8.1 Send an e-mail to us at:
 
 | 
@@ -93,7 +91,7 @@ You may change and modify the information you have previously provided to us, as
 
 | 
 
-0870 240 9419  
+01904 601011  
   
 8.3 Send a letter to:
 
@@ -111,3 +109,6 @@ Except as otherwise expressly included in this Privacy Policy, this document onl
 
 **10 Contact us**  
 If you have any questions about this Privacy Policy, how we run the Website or your dealing with our Website, please send an e-mail to us at [mail@businessinternetdirectory.com](mailto:mail@businessinternetdirectory.com)
+
+  
+
