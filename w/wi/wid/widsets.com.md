@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the widsets.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225130744id_/http%3A//www.widsets.com/info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widsets.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509093310id_/http%3A//www.widsets.com/info/privacypolicy.html) for the most accurate reproduction.*
 
 # WidSets
 
@@ -70,4 +70,4 @@ The Controller of the database of your personal data shall be Nokia Corporation 
 
 We may from time to time change this Policy or change, modify or withdraw access to this site at any time with or without notice. However, if this Policy is changed in a material, adverse way, we will post a notice advising of such change at the beginning of this Policy and on this site's home page for 30 days. We recommend that you re-visit this Policy from time to time to learn of any such changes to this Policy. 
 
-Copyright © Nokia 2005. All rights reserved. 
+Copyright © Nokia 2008. All rights reserved. 
