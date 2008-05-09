@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the weathertech.com privacy policy that was archived on 2007-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070717144654id_/http%3A//www.weathertech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weathertech.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509132200id_/http%3A//www.weathertech.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 [](https://web.archive.org/store/mvp.aspx)  
 | 
 
-| **Privacy Policy**  
+| **Privacy Policy [US REVISIONS]**  
 ---  
   
   
@@ -32,10 +32,10 @@ We collect and use information we believe is necessary to administer our busines
 Our site uses cookies. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and connection capabilities so that our site can provide you with the optimal user experience. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you are to receive a new cookie, or how to disable cookies altogether. However, as cookies allow us to enhance your user experience, we recommend that you leave them turned on. 
 
 **HOW WE USE INFORMATION ABOUT YOU:**  
-We use customer information to provide accurate services and to advise our valued customers of promotions that may be of interest to them. We receive and store any information you enter on our Site or give us in any other way. However, we do not collect any personal information about you unless you voluntarily submit such information to us. Our Site uses an order form for you to request information, products, and services. Contact information (like your e-mail address) from the order form is collected and used to send you information about our company or otherwise get in touch with you. Of course, you can choose not to provide certain information, but then you might not be able to take advantage of many of our features. You may also choose not to receive e-mail or other mail from us. 
+We use customer information to provide accurate services and to advise our valued customers of promotions that may be of interest to them. We receive and store any information you enter on our Site or give us in any other way. However, we do not collect any personal information about you unless you voluntarily submit such information to us. Our Site uses an order form for you to request information, products, and services. Contact information (like your e-mail address) from the order form is collected and used to send you information about our company or otherwise get in touch with you. Of course, you can choose not to provide certain information, but then you might not be able to take advantage of many of our features. You may also choose not to receive e-mail or other mail from us.
 
 **ACCESS TO PERSONAL INFORMATION ABOUT YOU:**  
-We do not provide customer information on-line or by telephone. 
+We do not provide customer information on-line or by telephone to others. However, you may telephone or email us to request access to your own personal information. 
 
 **YOUR CHOICE:**  
 If you prefer that we not maintain certain customer information, please make your choice known when placing your order. 
