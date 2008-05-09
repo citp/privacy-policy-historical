@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028085119id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509064350id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
 
 # DVD Talk Privacy Policy
 
@@ -54,13 +54,11 @@ The DVD Talk Nutshell Toolbar is designed for utility and as such does not requi
 
 ## Correct/Update
 
-This site gives users the following options for changing and modifying information previously provided. 
+To change and/or modify information previously provided, please email [privacy@dvdtalk.com](mailto:privacy@dvdtalk.com).
 
-  1. email [talk@dvdtalk.com](mailto:talk@dvdtalk.com)
-
-
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Geoffrey Kleinman DVD Talk 8872 SW 82nd Ave Portland, OR 97223 310-341-4809 talk@dvdtalk.com   
+  
 | 
+
+**Subscribe to DVDTalk's Newsletters**
+
+ ****
