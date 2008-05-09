@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625064358id_/http%3A//dictionary.reference.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509101107id_/http%3A//dictionary.reference.com/help/privacy.html) for the most accurate reproduction.*
 
 # Dictionary.com
 
@@ -51,6 +51,7 @@ We use outside ad companies to display ads on our site. Ads may contain cookies,
   * [Commission Junction](https://web.archive.org/go/http://www.commissionjunction.com/)
   * [Fastclick](https://web.archive.org/go/http://www.fastclick.com/)
   * [Google](https://web.archive.org/go/http://www.google.com/)
+  * [OTPmedia](https://web.archive.org/go/http://www.otpmedia.com/privacy/)
   * [Revenue Science](https://web.archive.org/go/http://www.revenuescience.com/)
   * [Tacoda](https://web.archive.org/go/http://www.tacoda.com/)
   * [Tribal Fusion](https://web.archive.org/go/http://www.tribalfusion.com/)
