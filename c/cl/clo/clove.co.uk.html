@@ -1,544 +1,867 @@
-<!--The following is the downloaded HTML source of the clove.co.uk privacy policy that was archived on 2005-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212210948id_/http%3A//clove.co.uk/generic/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clove.co.uk privacy policy that was archived on 2008-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509081103id_/http%3A//www.clove.co.uk/privacy.aspx) for the most accurate reproduction.-->
 
 <html><head>
-<title>Clove Technology - Privacy Statement</title>
-<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
-<meta name="description" content="metatag_description">
-<meta name="keywords" content="keyword,keyword,keyword">
-<meta name="version" content="metatag_date">
-<link rel="stylesheet" href="../includes/styles.css" type="text/css">
-<script language="JavaScript">
-
-      today=new Date();
-      jran=today.getTime();
-
-      // ------------------------------------------------------------------------
-      // Flash popup or Gif banner - Banner:
-      // Attributes - Width, height, flash and gif file locations and target href
-      // "bannerTarget" should be the same as the target specified in the flash
-      // ------------------------------------------------------------------------
-
-      var bannerWidth  = "468";
-      var bannerHeight = "60";
-      var bannerFlash  = "../flash/best_practice_banner.swf";
-      var bannerGif    = "../images/best_practice_banner.gif";
-      var bannerTarget = "../multimedia/multimedia.asp";
-
-      // ------------------------------------------------------------------------
-      // Flash popup or Gif banner - Cookie:
-      // Attributes - Cookie name, cookie path
-      // ------------------------------------------------------------------------
-
-      var cookieName   = "redPopupCookie";
-      var cookiePath   = "/bestpractice";
-
-      // ------------------------------------------------------------------------
-      // Flash popup or Gif banner - Popup:
-      // Attributes - Popup page URL, width, height and popup window attributes
-      // ------------------------------------------------------------------------
-
-      var popupPage    = ""; // If this is an empty string, popup will not be shown
-      var popupWidth   = "350";
-      var popupHeight  = "275";
-      var popupAttributes = "toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=" + popupWidth + ",height=" + popupHeight;
-
-      // ------------------------------------------------------------------------
-      // Flash popup or Gif banner - STOP:
-      // You probably won't need to edit any of the code below this point.
-      // ------------------------------------------------------------------------
-
-      var today = new Date();
-      var jran  = today.getTime();
-      var requiredVersion = 5;
-
-      var flash2Installed = false;    // boolean. true if flash 2 is installed
-      var flash3Installed = false;    // boolean. true if flash 3 is installed
-      var flash4Installed = false;    // boolean. true if flash 4 is installed
-      var flash5Installed = false;    // boolean. true if flash 5 is installed
-      var flash6Installed = false;    // boolean. true if flash 6 is installed
-      var maxVersion = 6;             // highest version we can actually detect
-      var actualVersion = 0;          // version the user really has
-      var hasRightVersion = false;    // boolean. true if it's safe to embed the flash movie in the page
-      var jsVersion = 1.0;            // the version of javascript supported
-
-      var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;    // true if we're on ie
-      var isWin = (navigator.appVersion.indexOf("Windows") != -1) ? true : false; // true if we're on windows
-      var isMac = (navigator.appVersion.indexOf("Mac") != -1) ? true : false; // true if we're on windows
-      var isMc5 = (navigator.appVersion.indexOf("MSIE 5") != -1) ? true : false; // false if we're not using version 5 - for Mac only
-      var isMc6 = (navigator.appVersion.indexOf("MSIE 6") != -1) ? true : false; // false if we're not using version 5 - for Mac only
-
-      var jsVersion = 1.1;
-
-      // ------------------------------------------------------------------------
-      // GetCookie script - gets the value of the cookie passed to it
-      // ------------------------------------------------------------------------
-
-      function getCookie(name) {
-
-        // returns the value of the cookie
-
-        var dc = document.cookie
-        var prefix = name + "=";
-        var begin = dc.indexOf("; " + prefix);
-        if (begin == -1) {
-          begin = dc.indexOf(prefix);
-          if (begin != 0) {return null;}
-        } else {
-          begin += 2;
-        }
-        var end = document.cookie.indexOf(";", begin);
-        if (end == -1) {end = dc.length;}
-        return unescape(dc.substring(begin + prefix.length, end));
-      }
-
-      // ------------------------------------------------------------------------
-      // Writes out the HTML for the banner ad, whether its flash or gif
-      // ------------------------------------------------------------------------
-
-      function writeBannerAd() {
-
-        var outputstring = "";
-        if (hasRightVersion) {
-
-          // Write out the flash banner
-          document.write ("  <OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0' WIDTH='" + bannerWidth + "' HEIGHT='" + bannerHeight + "' id='flashbanner' ALIGN=''>");
-          document.write ("    <PARAM NAME=movie VALUE='" + bannerFlash + "'>");
-          document.write ("    <PARAM NAME=quality VALUE=high>");
-          document.write ("    <PARAM NAME=bgcolor VALUE=#FFFFFF>");
-          document.write ("    <EMBED src='" + bannerFlash + "' quality=high bgcolor=#FFFFFF WIDTH='" + bannerWidth + "' HEIGHT='" + bannerHeight + "' NAME='flashbanner' ALIGN='' TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/go/getflashplayer' swLiveConnect='true'></EMBED>");
-          document.write ("  </OBJECT>");
-
-        } else {
-
-          // Write out the gif banner.
-          document.write ("  <A HREF='" + bannerTarget + "'><IMG SRC='" + bannerGif + "' width='" + bannerWidth + "' height='" + bannerHeight + "' border='0'></a>");
-
-        }
-      }
-
-      // ------------------------------------------------------------------------
-      // End Flash Popup of Gif Banner Functions
-      // ------------------------------------------------------------------------
-
-      function ExplorerFix() {
-        for (a in document.links) document.links[a].onfocus = document.links[a].blur;
-      }
-
-      function MM_openBrWindow(theURL,winName,features) { //v2.0
-        window.open(theURL,winName,features);
-      }
-
-      function MM_jumpMenu(targ,selObj,restore){ //v3.0
-        eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-        if (restore) selObj.selectedIndex=0;
-      }
-
-      function writeDate() {
-        // Written by Phil Collins of redweb, v1.0
-        // Outputs date as :: Monday 11th March 2002
-        var isNetscape = (navigator.appName.substring(0,8) == "Netscape") ? true : false;
-        var today = new Date();
-        var day = today.getDate();
-        var year = today.getYear();
-        var endDay = "th";
-        var arrDayofWeek = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
-        var arrMonthNames = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
-
-        if (isNetscape) {year = (year - 1) + 1901;}
-        if ((day == "1") || (day == "21") || (day == "31")) {endDay = "st";}
-        if ((day == "2") || (day == "22")) {endDay = "nd";}
-        if ((day == "3") || (day == "23")) {endDay = "rd";}
-        document.write(arrDayofWeek[today.getDay()] + " " + day + endDay + " " + arrMonthNames[today.getMonth()] + " " + year);
-      }
-
-      function addfavourite() {
-       var myurl, mytitle;
-       myurl = "http://www.clove.co.uk";
-       mytitle = "Clove Technology";
-       if (document.all) {
-         window.external.AddFavorite(myurl, mytitle);
-       }
-      }
-
-      function rnd() {
-        ia=9301;
-        ic=49297;
-        im=233280;
-        jran = (jran*ia+ic) % im;
-        return jran/(im*1.0);
-      }
-
-      function rand(number) {
-        return Math.ceil(rnd()*number);
-      }
-
-      function changeImage() {
-        var dimg = document.images;
-        maxNum = 4;                        // the total number of images the script can pick from:
-        myNum=(rand(maxNum));              // ie; image1.jpg; image2.jpg; image3.jpg; image4.jpg
-
-        // Ensure this name .randomimage. is the same as the name given to the image above.
-
-        dimg.randomimage.src = ("../images/random/image" + myNum + ".jpg");
-      }
-
-      // ------------------------------------------------------------------------
-      // Script to confirm user knows that exiting site will clear auto login
-      // ------------------------------------------------------------------------
-
-        function signOut(){
-          var agree=confirm("Signing out will stop automatic login. Are you sure you wish to continue?");
-          if (agree){window.location = "../generic/signin.asp?straction=signout";}
-        }
-
-      // ------------------------------------------------------------------------
-      // Checks the value of the search box when a user clicks into the box
-      // ------------------------------------------------------------------------
-
-        function checkValue() {
-          if (document.forms['search'].strsearch.value == '') {
-            document.forms['search'].strsearch.value='Keyword Search';
-          } else if (document.forms['search'].strsearch.value == 'Keyword Search') {
-            document.forms['search'].strsearch.value='';
-          }
-        }
-
-      // ------------------------------------------------------------------------
-      // Checks the value of the search box when a user clicks the search button
-      // ------------------------------------------------------------------------
-
-    		function checksubmit() {
-    			if (document.forms['search'].strsearch.value != 'Search by keyword') {
-    				document.search.submit();
-    			}
-    		}
-
-      // ------------------------------------------------------------------------
-      // Opens a popup window for images viewed from the Clear CM system
-      // ------------------------------------------------------------------------
-
-        function showImage(strImage, intX, intY) {
-          window.open ("../includes/viewimage.asp?image=" + strImage, "NewWin", "resizable=1,width=" + (intX + 3) + ",height=" + (intY + 40));
-        }
-
-      // ------------------------------------------------------------------------
-      // Flash Popup of Gif Banner actual script
-      // ------------------------------------------------------------------------
-
-      if (popupPage.length != 0) {
-        if (isIE && isWin) {
-          document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n');
-          document.write('on error resume next \n');
-          document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
-          document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
-          document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
-          document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');
-          document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');
-          document.write('</SCR' + 'IPT\> \n'); // break up end tag so it doesn't end our script
-        }
-
-        if (navigator.plugins) {
-          if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
-
-            var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-            var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
-            var flashVersion = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1));
-
-            flash2Installed = flashVersion == 2;
-            flash3Installed = flashVersion == 3;
-            flash4Installed = flashVersion == 4;
-            flash5Installed = flashVersion == 5;
-            flash6Installed = flashVersion >= 6;
-          }
-        }
-
-        for (var i = 2; i <= maxVersion; i++) {
-          if (eval("flash" + i + "Installed") == true) {actualVersion = i};
-        }
-
-        if (navigator.userAgent.indexOf("WebTV") != -1) {actualVersion = 3};
-
-        if (actualVersion >= requiredVersion) {
-
-          var PopupCookie = getCookie(cookieName);
-          hasRightVersion = true;
-
-          if (PopupCookie != '1') {
-
-            var hour = today.getHours();
-
-            for (hi=1; hour<24; hi++) {
-              hour = hour + 1;
-            }
-
-            if (document.layers) {hi = hi - 1;}
-            today.setTime(today.getTime() + hi * 60 * 60 * 1000);
-
-            var curCookie = (cookieName + "=1; expires=" + today.toGMTString() + "; path=" + cookiePath);
-            document.cookie = curCookie;
-            window.open(popupPage,'popup',popupAttributes);
-
-          }
-        }
-      }
-
-      if (document.all) { document.onmousedown = ExplorerFix; }
-
-      NS4    = (document.layers);
-      IE4    = (document.all);
-      ver4   = (NS4 || IE4);
-      IE5    = (IE4 && navigator.appVersion.indexOf("5.")!=-1);
-      NS6    = false;
-
-      var strAlert = "";
-      if (strAlert!="") { alert(strAlert); }
-
-      var formfnt1 = "<font face='Verdana, Arial' size='1'>";
-      var formfnt2 = "<font face='Verdana, Arial' size='2'>";
-      var formfnt3 = "<font face='Verdana, Arial' size='3'>";
-
-      if (document.getElementById) {NS6 = true;}
-
-      function MM_swapImgRestore() { //v3.0
-        var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-      }
-
-      function MM_preloadImages() { //v3.0
-        var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-          var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-          if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-      }
-
-      function MM_findObj(n, d) { //v4.0
-        var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-          d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-        if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-        for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-        if(!x && document.getElementById) x=document.getElementById(n); return x;
-      }
-
-      function MM_swapImage() { //v3.0
-        var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-         if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-      }
-    </script>
-
-</head>
-<body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" onload="MM_preloadImages('../images/tlRo_03.gif','../images/tlRo_06.gif','../images/tlRo_02.gif','../images/tlRo_05.gif','../images/tlRo_07.gif','../images/tlRo_04.gif','../images/tlRo_01.gif')">
-
-<table width="780" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="200"><a href="../index/index.asp"><img src="../images/logo.gif" width="200" height="67" border="0" alt="Clove Technology"></a></td>
-    <td width="580">
-      <table width="580" border="0" cellspacing="0" cellpadding="0" background="../images/tt_01.gif">
-        <tbody><tr>
-          <td width="20" class="dateheader"><img src="../images/tt_01.gif" width="20" height="20"></td>
-          <td width="*" class="dateheader">
-            <script language="Javascript">writeDate();</script>Wednesday 19th February 2020
+    <title>Clove Technology - Privacy Policy</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <link rel="stylesheet" href="styles.css" type="text/css">
+  </head>
+
+  <body bgcolor="#FFFFFF" text="#000000">
+  <table width="923" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr> 
+
+
+    <td width="201" valign="top"> 
+      <table width="201" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td><a href="/index.aspx"><img src="/images/template/clove_logo.gif" alt="Clove Technology. Fujitsu Loox, HP IPAQ, GPS, Mio, Acer, Oregon Scientific, I-Mate, Palm, Psion - Home" width="201" height="79" border="0"></a></td>
+        </tr>
+        <tr> 
+          <td bgcolor="#CCD2DC"> 
+            <table width="201" border="0" cellspacing="11" cellpadding="0">
+              <tbody><tr> 
+                <td> 
+
+
+
+                  <table width="179" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr> 
+                      <td colspan="3"><img name="basketHeader" id="basketHeader" src="/images/basket/basket_header.gif" alt="MyBasket" width="179" height="55"></td>
+                    </tr>
+                    <tr> 
+                      <td name="basketLeft" id="basketLeft" background="/images/template/basket_window_l-repeater.gif" width="11"><img src="/images/template/spacer.gif" width="15" height="15"></td>
+                      <td width="148" bgcolor="#FFFFFF" align="center" class="blueText">
+                        <div id="divBasket" style="width : 148;">
+                          Loading Basket...
+                        </div>
+                      </td>
+                      <td name="basketRight" id="basketRight" background="/images/template/basket_window_r-repeater.gif" width="11"><img src="/images/template/spacer.gif" width="15" height="15"></td>
+                    </tr>
+                    <tr> 
+                      <td colspan="3"><img name="basketEdge" id="basketEdge" src="/images/template/basket_window_btm-edge.gif" width="179" height="15"></td>
+                    </tr>
+                    <tr name="basketColour" id="basketColour" bgcolor="#6382B9" align="center"> 
+                      <td colspan="3"> 
+                        <table border="0" cellspacing="3" cellpadding="0">
+                          <tbody><tr> 
+                            <td class="whiteText">Total:</td>
+                            <td class="whiteText"><b>£<span id="divTotal">0.00</span></b></td>
+
+                            <td class="whiteText"><img src="/images/template/arrow-bullet_sml.gif" width="10" height="11"></td>
+                            <td class="whiteText"><a href="/checkout.aspx" class="whiteText">Check out</a></td>
+
+                          </tr>
+                        </tbody></table>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td colspan="3"><img name="basketBottom" id="basketBottom" src="/images/template/bluebox_btm-edge.gif" width="179" height="5"></td>
+                    </tr>
+                  </tbody></table>
+
+
+                </td>
+              </tr>
+              <tr> 
+                <td> 
+                  <table width="179" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr> 
+                      <td><img src="/images/template/bluebox_top-edge.gif" width="179" height="5"></td>
+                    </tr>
+                    <tr> 
+                      <td bgcolor="#6382B9" align="center"> 
+                        <table width="170" border="0" cellspacing="1" cellpadding="5">
+                          <tbody><tr>
+                            <td><a href="/category.aspx?department=PDA / Smartphones&amp;category=AA8618D9-A7F2-4178-B02C-DA2BE7D96C3B"><img src="/images/template/arrow-bullet.gif" alt="PDA / Smartphones" width="14" height="14" border="0"></a></td>
+                            <td align="left" onclick="Javascript:window.location='/category.aspx?department=PDA / Smartphones&amp;category=AA8618D9-A7F2-4178-B02C-DA2BE7D96C3B';" onmouseover="this.className='categoryCellin'" onmouseout="this.className='categoryCellout'" width="140" class="categoryCellout"><a href="category.aspx?department=PDA / Smartphones&amp;category=AA8618D9-A7F2-4178-B02C-DA2BE7D96C3B" class="whiteText">PDA / Smartphones</a></td>
+                          </tr>
+                          <tr>
+                            <td><a href="/category.aspx?department=PDA Accessories&amp;category=6930BE89-5232-4F7E-8063-59310F4EE276"><img src="/images/template/arrow-bullet.gif" alt="PDA Accessories" width="14" height="14" border="0"></a></td>
+                            <td align="left" onclick="Javascript:window.location='/category.aspx?department=PDA Accessories&amp;category=6930BE89-5232-4F7E-8063-59310F4EE276';" onmouseover="this.className='categoryCellin'" onmouseout="this.className='categoryCellout'" width="140" class="categoryCellout"><a href="category.aspx?department=PDA Accessories&amp;category=6930BE89-5232-4F7E-8063-59310F4EE276" class="whiteText">PDA Accessories</a></td>
+                          </tr>
+                          <tr>
+                            <td><a href="/category.aspx?department=Ultra Portables&amp;category=DDCFA00F-7469-4EA2-BECB-AAECD7EAD4F9"><img src="/images/template/arrow-bullet.gif" alt="Ultra Portables" width="14" height="14" border="0"></a></td>
+                            <td align="left" onclick="Javascript:window.location='/category.aspx?department=Ultra Portables&amp;category=DDCFA00F-7469-4EA2-BECB-AAECD7EAD4F9';" onmouseover="this.className='categoryCellin'" onmouseout="this.className='categoryCellout'" width="140" class="categoryCellout"><a href="category.aspx?department=Ultra Portables&amp;category=DDCFA00F-7469-4EA2-BECB-AAECD7EAD4F9" class="whiteText">Ultra Portables</a></td>
+                          </tr>
+                          <tr>
+                            <td><a href="/category.aspx?department=GPS&amp;category=86EB6DC3-D7C2-42F9-B458-50653CB15BDD"><img src="/images/template/arrow-bullet.gif" alt="GPS" width="14" height="14" border="0"></a></td>
+                            <td align="left" onclick="Javascript:window.location='/category.aspx?department=GPS&amp;category=86EB6DC3-D7C2-42F9-B458-50653CB15BDD';" onmouseover="this.className='categoryCellin'" onmouseout="this.className='categoryCellout'" width="140" class="categoryCellout"><a href="category.aspx?department=GPS&amp;category=86EB6DC3-D7C2-42F9-B458-50653CB15BDD" class="whiteText">GPS</a></td>
+                          </tr>
+                          <tr>
+                            <td><a href="/category.aspx?department=Data Cards&amp;category=EABDE49D-6E62-409C-86FE-F852A6AF6D57"><img src="/images/template/arrow-bullet.gif" alt="Data Cards" width="14" height="14" border="0"></a></td>
+                            <td align="left" onclick="Javascript:window.location='/category.aspx?department=Data Cards&amp;category=EABDE49D-6E62-409C-86FE-F852A6AF6D57';" onmouseover="this.className='categoryCellin'" onmouseout="this.className='categoryCellout'" width="140" class="categoryCellout"><a href="category.aspx?department=Data Cards&amp;category=EABDE49D-6E62-409C-86FE-F852A6AF6D57" class="whiteText">Data Cards</a></td>
+                          </tr>
+                          <tr>
+                            <td><a href="/category.aspx?department=Memory&amp;category=3EC67A21-92BE-4A82-9801-909633C4A691"><img src="/images/template/arrow-bullet.gif" alt="Memory" width="14" height="14" border="0"></a></td>
+                            <td align="left" onclick="Javascript:window.location='/category.aspx?department=Memory&amp;category=3EC67A21-92BE-4A82-9801-909633C4A691';" onmouseover="this.className='categoryCellin'" onmouseout="this.className='categoryCellout'" width="140" class="categoryCellout"><a href="category.aspx?department=Memory&amp;category=3EC67A21-92BE-4A82-9801-909633C4A691" class="whiteText">Memory</a></td>
+                          </tr>
+                          <tr>
+                            <td><a href="/category.aspx?department=Wireless &amp; Bluetooth&amp;category=40B6245C-A9D4-4B05-B3CA-819BDA54937C"><img src="/images/template/arrow-bullet.gif" alt="Wireless &amp; Bluetooth" width="14" height="14" border="0"></a></td>
+                            <td align="left" onclick="Javascript:window.location='/category.aspx?department=Wireless &amp; Bluetooth&amp;category=40B6245C-A9D4-4B05-B3CA-819BDA54937C';" onmouseover="this.className='categoryCellin'" onmouseout="this.className='categoryCellout'" width="140" class="categoryCellout"><a href="category.aspx?department=Wireless &amp; Bluetooth&amp;category=40B6245C-A9D4-4B05-B3CA-819BDA54937C" class="whiteText">Wireless &amp; Bluetooth</a></td>
+                          </tr>
+                          <tr>
+                            <td><a href="/category.aspx?department=Oregon Scientific&amp;category=CF13D2E8-F5BB-42ED-A402-41D859CA7E1C"><img src="/images/template/arrow-bullet.gif" alt="Oregon Scientific" width="14" height="14" border="0"></a></td>
+                            <td align="left" onclick="Javascript:window.location='/category.aspx?department=Oregon Scientific&amp;category=CF13D2E8-F5BB-42ED-A402-41D859CA7E1C';" onmouseover="this.className='categoryCellin'" onmouseout="this.className='categoryCellout'" width="140" class="categoryCellout"><a href="category.aspx?department=Oregon Scientific&amp;category=CF13D2E8-F5BB-42ED-A402-41D859CA7E1C" class="whiteText">Oregon Scientific</a></td>
+                          </tr>
+                          <tr>
+                            <td><a href="/category.aspx?department=Clearance / Special Offers&amp;category=80B3C740-A7AC-47B8-AAFA-D5D9048545F8"><img src="/images/template/arrow-bullet.gif" alt="Clearance / Special Offers" width="14" height="14" border="0"></a></td>
+                            <td align="left" onclick="Javascript:window.location='/category.aspx?department=Clearance / Special Offers&amp;category=80B3C740-A7AC-47B8-AAFA-D5D9048545F8';" onmouseover="this.className='categoryCellin'" onmouseout="this.className='categoryCellout'" width="140" class="categoryCellout"><a href="category.aspx?department=Clearance / Special Offers&amp;category=80B3C740-A7AC-47B8-AAFA-D5D9048545F8" class="whiteText">Clearance / Special Offers</a></td>
+                          </tr>
+
+                          <tr>
+                            <td><a href="softwarestore.aspx"><img src="/images/template/arrow-bullet.gif" width="14" height="14" border="0"></a></td>
+                            <td align="left" onclick="Javascript:window.location='softwarestore.aspx';" onmouseover="this.className='categoryCellin'" onmouseout="this.className='categoryCellout'" width="140" class="categoryCellout"><a href="softwarestore.aspx" class="whiteText">Software Store</a></td>
+                          </tr>
+                        </tbody></table>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td><img src="/images/template/bluebox_btm-edge.gif" width="179" height="5"></td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+              <tr> 
+                <td>
+                  <table width="179" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr> 
+                      <td colspan="3"><img src="/images/template/shop-by-brand_header.gif" alt="Shop By Brand" width="179"></td>
+                    </tr>
+                    <tr> 
+                      <td background="/images/template/basket_window_l-repeater.gif" width="11"><img src="/images/template/spacer.gif" width="15" height="15"></td>
+                      <td style="width : 155px;" bgcolor="#FFFFFF" class="blueText">
+                        <center>
+                        <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                        <tbody><tr>
+                          <td><a href="category.aspx?department=HTC&amp;category=591602F7-C32B-44D8-859D-F9230F032E7E"><img src="images/logos/htc.gif" alt="HTC products from Clove Technology" border="0"></a></td>
+                          <td><a href="category.aspx?department=HP%20iPAQ&amp;category=0FC5C9DF-2205-4C79-A636-E345F3D0120A"><img src="images/logos/hp.gif" alt="HP products from Clove Technology" border="0"></a></td>
+                        </tr>
+                        <tr>
+                          <td><a href="category.aspx?department=Mio%20Digiwalker&amp;category=96185C16-1DCF-4913-BA19-691B1F06228E"><img src="images/logos/mio.gif" alt="Mio products from Clove Technology" border="0"></a></td>
+                          <td><a href="category.aspx?department=TomTom&amp;category=DA2A8A28-1B4A-427D-8CB3-CC066DD86355"><img src="images/logos/tomtom.gif" alt="TomTom products from Clove Technology" border="0"></a></td>
+                        </tr>
+                        <tr>
+                          <td><a href="category.aspx?department=Navman&amp;category=46644720-5BF0-47CA-AE33-104842D05B37"><img src="images/logos/navman.gif" alt="Navman products from Clove Technology" border="0"></a></td>
+                          <td><a href="brodit-holders.aspx"><img src="images/logos/brodit.gif" alt="Brodit products from Clove Technology" border="0"></a></td>
+                        </tr>
+                        <tr>
+                          <td><a href="category.aspx?department=ASUS&amp;category=7750C8AA-FDD5-4E67-A5B3-A739F68BADE1"><img src="images/logos/asus.gif" alt="ASUS products from Clove Technology" border="0"></a></td>
+                          <td><a href="category.aspx?department=Co-Pilot&amp;category=3A0F601D-DAF6-4A91-B215-82BCBCC13649"><img src="images/logos/copilot.gif" alt="CoPilot products from Clove Technology" border="0"></a></td>
+                        </tr>
+                        <tr>
+                          <td><a href="category.aspx?department=E-TEN&amp;category=53CBB673-7691-4262-9F5A-789D88147983"><img src="images/logos/eten.gif" alt="ETEN products from Clove Technology" border="0"></a></td>
+                          <td><a href="category.aspx?department=Nokia&amp;category=5114EB0F-4EC3-4FF9-B422-AE298BA32E3D"><img src="images/logos/nokia.gif" alt="Nokia products from Clove Technology" border="0"></a></td>                          
+                        </tr>
+                        </tbody></table>
+                        </center>
+                      </td>
+                      <td background="/images/template/basket_window_r-repeater.gif" width="11"><img src="/images/template/spacer.gif" width="15" height="15"></td>
+                    </tr>
+                    <tr> 
+                      <td colspan="3"><img src="/images/template/basket_window_btm-edge.gif" width="179" height="15"></td>
+                    </tr>
+
+                    <tr> 
+                      <td colspan="3"><img src="/images/template/bluebox_btm-edge.gif" width="179" height="5"></td>
+                    </tr>
+                  </tbody></table>
+
+                </td>
+              </tr>
+              <tr> 
+                <td style="cursor : hand;" onclick="Javascript:window.location='/news.aspx';">
+                  <table width="179" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr> 
+                      <td colspan="3"><img src="/images/template/latestnews_header.gif" alt="Latest PDA, Ultra Portables and GPS News" width="179"></td>
+                    </tr>
+                    <tr> 
+                      <td background="/images/template/basket_window_l-repeater.gif" width="11"><img src="/images/template/spacer.gif" width="15" height="15"></td>
+                      <td style="width : 155px;" bgcolor="#FFFFFF" class="blueText">
+<a class="linkstyle1" href="/viewnews.aspx?content=68320E61-028C-4516-BD15-BC7CE498F406&amp;category=CATEGORY2"><center><strong>New Toshiba arrives in Stock</strong></center></a><br> We has just heard that the first stock of the Toshiba G710 and Toshiba G910 will arrive this week. Both of these devices were due late May, so it is pleasing to see our stock arrive early. The Toshiba G910 should be a strong seller with an excellent...<br><br>
+                       <strong><center><a class="linkstyle1" href="/news.aspx">More news...</a></center></strong>
+                      </td>
+                      <td background="/images/template/basket_window_r-repeater.gif" width="11"><img src="/images/template/spacer.gif" width="15" height="15"></td>
+                    </tr>
+                    <tr> 
+                      <td colspan="3"><img src="/images/template/basket_window_btm-edge.gif" width="179" height="15"></td>
+                    </tr>
+
+                    <tr> 
+                      <td colspan="3"><img src="/images/template/bluebox_btm-edge.gif" width="179" height="5"></td>
+                    </tr>
+                  </tbody></table>
+
+                </td>
+              </tr>
+              <tr> 
+                <td>
+                  <table width="179" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr> 
+                      <td><img src="/images/template/newsletter_header.gif" alt="The latest PDA, Ultra Portables and GPS news in our newsletter" width="179" height="27"></td>
+                    </tr>
+                    <tr> 
+                      <td bgcolor="#93A0B7" align="center"> 
+                        <table width="170" border="0" cellspacing="5" cellpadding="0">
+                          <tbody><tr> 
+                            <td class="whiteText"><a class="newslink" href="/emailnewsletter.aspx">Register to receive the<br>
+                              latest product news direct<br>to your Inbox.</a></td>
+                          </tr>
+                        </tbody></table>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td><img src="/images/template/greybox_btm-edge.gif" width="179" height="5"></td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
           </td>
-          <td width="*" align="right" class="dateheader">
-            <b><a href="../shop/basket.asp" class="dateheader">Shopping Basket</a></b> | Current Total: £0.00
-          </td>
-          <td width="20"><img src="../images/spacer.gif" width="20" height="20"></td>
+        </tr>
+        <tr> 
+          <td><img src="/images/template/sidepanel_btmedge.gif" width="201" height="12"></td>
         </tr>
       </tbody></table>
-      <table width="580" border="0" cellspacing="0" cellpadding="0" background="../images/tb_02.gif">
-        <tbody><tr>
-          <td><img src="../images/tt_03.gif" width="20" height="25"></td>
-        </tr>
-      </tbody></table>
-      <table width="580" border="0" cellspacing="0" cellpadding="0" background="../images/tb_02.gif">
-        <tbody><tr>
-          <td>
-            
-          <!-- Primary navigation starts -->
-<script language="JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
+    </td>
 
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
+    <td width="722" valign="top">
 
-function MM_findObj(n, d) { //v4.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && document.getElementById) x=document.getElementById(n); return x;
-}
+<script type="text/javascript" src="/dojo/dojo.js"></script><script type="text/javascript" src="/dojo/src/bootstrap1.js"></script><script type="text/javascript" src="/dojo/src/hostenv_browser.js"></script><script type="text/javascript" src="/dojo/src/bootstrap2.js"></script>
+<script language="JavaScript" type="text/javascript">
+	dojo.require("dojo.io.*");
+	dojo.require("dojo.dnd.*");
 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
+        dojo.require("dojo.json"); 
+	dojo.hostenv.writeIncludes();
 </script>
 
-<table border="0" cellspacing="0" cellpadding="0" height="22">
-  <tbody><tr>
-    <td><a href="../products/products.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="primary_2" id="primary_2" onmouseover="if (window.mmWroteMenu){MM_showMenu(window.mm_menu_0513122902_0,-1,21,null,'primary_2');MM_swapImage('tl02','','../images/tlRo_02.gif',1)}"><img name="tl02" border="0" src="../images/tl_02.gif" width="71" height="22" alt="Products"></a></td>
-    <td><a href="../products/accessories.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="accessories" id="accessories" onmouseover="if (window.mmWroteMenu){MM_showMenu(window.mm_menu_0513122903_0,-1,21,null,'accessories');MM_swapImage('tl09','','../images/tlRo_09.gif',1)}"><img name="tl09" border="0" src="../images/tl_09.gif" width="84" height="22" alt="Accessories"></a></td>
-    <td><a href="../products/special.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="primary_5" id="primary_5" onmouseover="if (window.mmWroteMenu){MM_showMenu(window.mm_menu_0513122905_0,-1,21,null,'primary_5');MM_swapImage('tl051','','../images/tlRo_05.gif',1)}"><img name="tl051" border="0" src="../images/tl_05.gif" width="99" height="22" alt="Special Offers"></a></td>
-    <td><a href="../news/news.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="primary_3" id="primary_3" onmouseover="if (window.mmWroteMenu){MM_swapImage('tl03','','../images/tlRo_03.gif',1)}"><img name="tl03" border="0" src="../images/tl_03.gif" width="48" height="22" alt="News"></a><a href="../downloads/downloads.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="primary_6" id="primary_6" onmouseover="if (window.mmWroteMenu){MM_showMenu(window.mm_menu_0513122906_0,-1,21,null,'primary_6');MM_swapImage('tl06','','../images/tlRo_06.gif',1)}"><img name="tl06" border="0" src="../images/tl_06.gif" width="79" height="22" alt="Downloads"></a></td>
-    <td><a href="../faqs/faq.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="primary_7" id="primary_7" onmouseover="if (window.mmWroteMenu){MM_showMenu(window.mm_menu_0513122907_0,-1,21,null,'primary_7');MM_swapImage('tl07','','../images/tlRo_07.gif',1)}"><img name="tl07" border="0" src="../images/tl_07.gif" width="40" height="22" alt="FAQs"></a></td>
-    <td><a href="../ordering/hub.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="primary_4" id="primary_4" onmouseover="if (window.mmWroteMenu){MM_showMenu(window.mm_menu_0513122904_0,-1,21,null,'primary_4');MM_swapImage('tl04','','../images/tlRo_04.gif',1)}"><img name="tl04" border="0" src="../images/tl_04.gif" width="69" height="22" alt="Ordering"></a></td>
-    <td><a href="../aboutUs/hub.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="primary_1" id="primary_1" onmouseover="if (window.mmWroteMenu){MM_showMenu(window.mm_menu_0513122901_0,0,21,null,'primary_1');MM_swapImage('tl01','','../images/tlRo_01.gif',1)}"><img name="tl01" border="0" src="../images/tl_01.gif" width="65" height="22" alt="About Us"></a></td>
-  </tr>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+
+
+</script>
+
+<script type="text/javascript">
+
+_uacct = "UA-2644218-1";
+
+urchinTracker();
+
+</script>
+<script language="Javascript">
+<!--
+
+  var searchTime;
+
+  function pressKey(e){
+    clearTimeout(searchTime);
+    
+    var characterCode
+    if(e && e.which){
+      e = e
+      characterCode = e.which
+    }else{
+      e = event
+      characterCode = e.keyCode //character code is contained in IE's keyCode property
+    }
+
+    if(characterCode == 13){
+      doSearchResults("keyword");
+    }else{
+      searchTime = setTimeout("doSearchResults('keyword')",2000);
+    }
+
+  }
+
+  function gotoTheme(form) {
+    var index=form.formSearch_strtheme.selectedIndex
+    if (form.formSearch_strtheme.options[index].value != "") {
+      window.location = "category.aspx?category=" + form.formSearch_strtheme.options[index].value;
+    }
+  }
+
+  function closeSearch(){ 
+    document.getElementById("divSearchResults").innerHTML = "";
+    document.getElementById("divSearch").style.visibility = "hidden";
+    showSearchPosition();
+  }
+
+  function showSearchPosition(){
+    var strReturn = ""
+    var keyword = getCookie("Search");
+    if(keyword==null||keyword.length<1){}else{    
+      strReturn = strReturn + "<div id=\"divSearchBar\" style=\"visibility : visible; position : relative; top : 4px; left : 7px; width : 714px; height : 30px; border: 2px solid #6699cc; y-overflow : auto;\">";
+      strReturn = strReturn + "  <div style=\"position : absolute; top : 0px; left : 0px; width : 710px; height : 26px; background : #748ec1; filter:alpha(opacity=90);\">&nbsp;</div>";
+      strReturn = strReturn + "  <div style=\"position : absolute; top : 8px; left : 10px;\"><span class=\"bodyText\" style=\"color : white;\"><strong>Your most recent search was on keyword '" + keyword + "'</strong></div>";  
+      strReturn = strReturn + "  <div style=\"position : absolute; top : 3px; right : 10px;\">";
+      strReturn = strReturn + "    <input class=\"bodyText\" type=button value=\" View search results \" onclick=\"Javascript:showSearch();\">";
+      strReturn = strReturn + "  </div>";
+      strReturn = strReturn + "</div>";
+    }
+    document.getElementById("divSearchBarPosition").innerHTML = strReturn;    
+  }
+
+
+  function hideSearchPosition(){
+    var strReturn = ""    
+    document.getElementById("divSearchBarPosition").innerHTML = strReturn;    
+  }
+
+  function showSearch(){    
+    doSearchResults("keyword");
+  }
+
+  function doSearchResults(doSearchResults_element){   
+
+
+    if(document.formSearch.formSearch_strkeyword.value.length>0){
+
+      document.getElementById("divSearchResults").innerHTML = "<br><br><br><br><table border=0 width=\"100%\" class=\"bodyText\"><tr><td><center><span class=\"headerText\" style=\"color : white;\">Searching for products, please wait...</span></center></td></tr></table>"; 
+      document.getElementById("divSearch_intTotal").innerHTML = ""   
+      document.getElementById("divSearch").style.visibility = "visible";
+
+      document.formSearch.formSearch_inttotal.value = 0;
+      document.formSearch.formSearch_intpage.value = 1;
+
+      dojo.io.bind({
+      url: "doSearchResults.aspx",
+           formNode: document.formSearch,
+           load: function(type, data, evt){
+              var j=dojo.json.evalJSON(data);          
+              
+              var strReturn = "";
+              var column = 1;
+              var total = 0;
+
+              for (var i = 0 ; i < j.length ; i++) { 
+                
+                total = j[i]["Total"];
+                document.formSearch.formSearch_inttotal.value = total;
+
+                if(column==1){
+                  strReturn = strReturn + "<tr>\n"
+                }
+                if(j[i]["Image"].length > 0){
+                  strReturn = strReturn + "  <td width=75 align=middle style=\"background : white; width : 75px; height : 90px;\"><img id=\"BASKET" + j[i]["Id"] + "\" src=\"productimages/thumb/" + j[i]["Image"] + ".png\" border=0 style=\"cursor : hand;\" alt=\"" + j[i]["Title"] + "\" onclick=\"window.location='viewProduct.aspx?product=" + j[i]["Id"] + "';\"></td>"
+                }else{
+                  strReturn = strReturn + "  <td width=75 align=middle style=\"background : white; width : 75px; height : 90px;\" valign=center><img src=\"images/comingsoon.jpg\" width=75 height=75 alt=\"Photo coming soon\"></td>"
+                }
+        
+                strReturn = strReturn + "  <td width=95 valign=top><a href=\"viewProduct.aspx?product=" + j[i]["Id"] + "\" class=\"searchLink\">" + j[i]["Title"] + "</a><br><span class=\"searchPrice\">&pound;"+ j[i]["Price"] + "<span style=\"font-size : 6pt;\">+VAT</span></span></td>\n"
+
+                column = column + 1;
+                if(column==4){
+                  strReturn = strReturn + "</tr>\n"
+                  column = 1;
+                }
+
+              }
+              if(column==2){strReturn = strReturn + "<td width=75></td><td width=95></td><td width=75></td><td width=95></td><td width=75></td><td width=95></td>";}
+              if(column==3){strReturn = strReturn + "<td width=75></td><td width=95></td><td width=75></td><td width=95></td>";}
+              if(column==4){strReturn = strReturn + "<td width=75></td><td width=95></td>";}
+
+              if(strReturn.length > 0){strReturn = "<table width=710 border=0 cellspacing=5 cellpadding=0 class=\"bodyText\">" + strReturn + "</table>\n"}
+
+
+              if(total > document.formSearch.formSearch_intproductsperpage.value){
+                document.getElementById("divSearch_Next").disabled = false;
+              }else{
+                document.getElementById("divSearch_Next").disabled = true;
+              }
+
+              document.getElementById("divSearch_Back").disabled = true;
+
+
+
+              if(strReturn.length < 1){
+                strReturn = "<br><br><br><br><table border=0 width=\"100%\" class=\"bodyText\"><tr><td><center><span class=\"headerText\" style=\"color : white;\">Sorry, no match could be found.<br><br>Feel free to call us on (01202) 552936<br>and we shall try to help you further.</span></center></td></tr></table>"; 
+                document.getElementById("divSearch_intTotal").innerHTML = "";
+              }else{
+                document.getElementById("divSearch_intTotal").innerHTML = "<strong>Search Results - " + total + "&nbsp;products found</strong>";
+              }
+
+              hideSearchPosition();
+              document.getElementById("divSearchResults").innerHTML = strReturn;                  
+              document.getElementById("divSearch").style.visibility = "visible";
+              document.getElementById("divSearchResults").style.zIndex = "50000";
+
+              setCookie("Search", document.formSearch.formSearch_strkeyword.value );
+           },
+           error: errorHandler
+      });
+    }else{
+      hideSearchPosition();
+      document.getElementById("divSearchResults").innerHTML = "";
+      document.getElementById("divSearch").style.visibility = "hidden";
+      setCookie("Search", "");
+    }
+  }
+
+  function doSearchPage(doSearchPage_direction){
+
+    var intpage            = parseInt($("formSearch_intpage").value);
+    var inttotal           = parseInt($("formSearch_inttotal").value);
+    var intproductsperpage = parseInt($("formSearch_intproductsperpage").value);
+
+    if(doSearchPage_direction=="BACK"){
+      intpage = intpage - 1;
+    }else{
+      intpage = intpage + 1;
+    }
+
+    $("formSearch_intpage").value = intpage;
+
+    if(intpage==1){$("divSearch_Back").disabled = true;}else{$("divSearch_Back").disabled = false;}
+    if(inttotal > (intproductsperpage*intpage)){$("divSearch_Next").disabled = false;}else{$("divSearch_Next").disabled = true;}
+
+      dojo.io.bind({
+      url: "doSearchResults.aspx",
+           formNode: document.getElementById("formSearch"),
+           load: function(type, data, evt){
+              var j=dojo.json.evalJSON(data);          
+              
+              var strReturn = "";
+              var column = 1;
+              var total = 0;
+
+              for (var i = 0 ; i < j.length ; i++) { 
+                
+                total = j[i]["Total"];
+                document.formSearch.formSearch_inttotal.value = total;
+
+                if(column==1){
+                  strReturn = strReturn + "<tr>\n"
+                }
+                if(j[i]["Image"].length > 0){
+                  strReturn = strReturn + "  <td width=75 align=middle style=\"background : white; width : 75px; height : 90px;\"><img id=\"BASKET" + j[i]["Id"] + "\" src=\"productimages/thumb/" + j[i]["Image"] + ".png\" border=0 style=\"cursor : hand;\" alt=\"" + j[i]["Title"] + "\" onclick=\"window.location='viewProduct.aspx?product=" + j[i]["Id"] + "';\"></td>"
+                }else{
+                  strReturn = strReturn + "  <td width=75 align=middle style=\"background : white; width : 75px; height : 90px;\" valign=center><img src=\"images/comingsoon.jpg\" width=75 height=75 alt=\"Photo coming soon\"></td>"
+                }
+        
+                strReturn = strReturn + "  <td width=95 valign=top><a href=\"viewProduct.aspx?product=" + j[i]["Id"] + "\" class=\"searchLink\">" + j[i]["Title"] + "</a><br><span class=\"searchPrice\">&pound;"+ j[i]["Price"] + "<span style=\"font-size : 6pt;\">+VAT</span></span></td>\n"
+
+                column = column + 1;
+                if(column==4){
+                  strReturn = strReturn + "</tr>\n"
+                  column = 1;
+                }
+
+              }
+              if(column==2){strReturn = strReturn + "<td width=75></td><td width=95></td><td width=75></td><td width=95></td><td width=75></td><td width=95></td>";}
+              if(column==3){strReturn = strReturn + "<td width=75></td><td width=95></td><td width=75></td><td width=95></td>";}
+              if(column==4){strReturn = strReturn + "<td width=75></td><td width=95></td>";}
+
+              if(strReturn.length > 0){strReturn = "<table width=710 border=0 cellspacing=5 cellpadding=0 class=\"bodyText\">" + strReturn + "</table>\n"}
+
+              document.getElementById("divSearchResults").innerHTML = strReturn;   
+                          
+           },
+           error: errorHandler
+      });
+  }
+
+
+// -->
+</script>
+      <table width="722" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td background="/images/template/topbar_bg-repeater.gif"> 
+            <table border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td><a href="/about.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topnav_about1','','/images/template/topnav_about_ro.gif',1)"><img name="topnav_about1" border="0" alt="About Clove Technology - PDA, Ultra Portable and GPS specialists" src="/images/template/topnav_about.gif" width="98" height="34"></a></td>
+<!--
+                <td><a href="/news.aspx" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('topnav_news1','','/images/template/topnav_news_ro.gif',1)"><img name="topnav_news1" border="0" src="/images/template/topnav_news.gif" width="56" height="34"></a></td>
+// -->
+                <td><a href="/account.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topnav_account1','','/images/template/topnav_account_ro.gif',1)"><img name="topnav_account1" border="0" alt="My Account" src="/images/template/topnav_account.gif" width="85" height="34"></a></td>
+                <td><a href="/links.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topnav_links1','','/images/template/topnav_links_ro.gif',1)"><img name="topnav_links1" border="0" alt="Links" src="/images/template/topnav_links.gif" width="49" height="34"></a></td>
+<!--
+                <td><a href="/faq.aspx" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('topnav_faq1','','/images/template/topnav_faq_ro.gif',1)"><img name="topnav_faq1" border="0" src="/images/template/topnav_faq.gif" width="49" height="34"></a></td>
+// -->
+                <td><a href="/ordering.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topnav_ordering1','','/images/template/topnav_ordering_ro.gif',1)"><img name="topnav_ordering1" alt="Ordering with Clove Technology" border="0" src="/images/template/topnav_ordering.gif" width="73" height="34"></a></td>
+                <td><a href="/reviews.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topnav_reviews1','','/images/template/topnav_reviews_ro.gif',1)"><img name="topnav_reviews1" border="0" alt="Technical information and hardware reviews" src="/images/template/topnav_reviews.gif" width="73" height="34"></a></td>
+
+                <td><a href="/emailnewsletter.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topnav_register1','','/images/template/topnav_register_ro.gif',1)"><img name="topnav_register1" border="0" alt="Register for the Clove Technology email newsletter" src="/images/template/topnav_register.gif" width="73" height="34"></a></td>
+
+                <td><a href="/contact.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topnav_contact1','','/images/template/topnav_contact_ro.gif',1)"><img name="topnav_contact1" border="0" alt="Contact Clove Technology" src="/images/template/topnav_contact.gif" width="73" height="34"></a></td>
+
+              </tr>
+            </tbody></table>
+          </td>
+          <td background="/images/template/topbar_bg-repeater.gif" colspan="2" align="right"><img src="/images/template/topbar_tel.gif" alt="Contact Clove Technology on 01202 552936" width="179" height="34"></td>
+<!--
+          <td background="/images/template/topbar_bg-repeater.gif"><img src="/images/blank.gif" width="75" height="34"></td>
+// -->
+          <td width="13"><img src="/images/template/topbar_r-end.gif" width="13" height="46"></td>
+        </tr>
+      </tbody></table>
+      <table width="722" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td rowspan="2" width="35"><img src="/images/template/searchbar_l-end.gif" width="35" height="36"></td>
+          <td colspan="2"><img src="/images/template/spacer.gif" width="7" height="7"></td>
+        </tr>
+        <tr> 
+          <td background="/images/template/searchbar_bg-repeater.gif"> 
+            <table border="0" cellspacing="2" cellpadding="0">	
+              <tbody><tr> 
+                <form method="post" id="formSearch" name="formSearch" onsubmit="Javascript:return false;"></form>
+                <input type="hidden" id="formSearch_intpage" name="formSearch_intpage" value="1">
+                <input type="hidden" id="formSearch_inttotal" name="formSearch_inttotal" value="0">
+                <input type="hidden" id="formSearch_intproductsperpage" name="formSearch_intproductsperpage" value="12">
+                <td class="whiteText">Search:</td>
+                <td> 
+                  <input type="text" name="formSearch_strkeyword" style="width : 120px;" onkeyup="Javascript:pressKey(event);">
+                </td>
+                
+                <td></td>
+                <td class="whiteText"><img src="/images/template/spacer.gif" width="10" height="10"></td>
+                <td class="whiteText">Products by brand:</td>
+                <form name="search" method="post" action="/search.aspx"></form>
+                <td> 
+                  <select onchange="document.search.submit()" name="BRAND" class="formElement" style="width:200px">
+                    <option value="">Please select</option>
+                    <option value="24149">24149</option>
+                    <option value="Acer">Acer</option>
+                    <option value="ALK">ALK</option>
+                    <option value="Arkon">Arkon</option>
+                    <option value="ASUS">ASUS</option>
+                    <option value="Atek">Atek</option>
+                    <option value="Belkin">Belkin</option>
+                    <option value="Brando">Brando</option>
+                    <option value="Brodit">Brodit</option>
+                    <option value="Cameron Sino">Cameron Sino</option>
+                    <option value="Dynmo">Dynmo</option>
+                    <option value="E-TEN">E-TEN</option>
+                    <option value="ECS">ECS</option>
+                    <option value="Everex">Everex</option>
+                    <option value="Freedom">Freedom</option>
+                    <option value="Fujitsu">Fujitsu</option>
+                    <option value="Garmin">Garmin</option>
+                    <option value="GETAC">GETAC</option>
+                    <option value="GlobalSat">GlobalSat</option>
+                    <option value="Herbert Richter">Herbert Richter</option>
+                    <option value="Holux">Holux</option>
+                    <option value="HP">HP</option>
+                    <option value="HTC">HTC</option>
+                    <option value="i-Mate">i-Mate</option>
+                    <option value="INOV8">INOV8</option>
+                    <option value="JCB">JCB</option>
+                    <option value="Memory Map">Memory Map</option>
+                    <option value="Mio">Mio</option>
+                    <option value="Mio Digiwalker">Mio Digiwalker</option>
+                    <option value="Motorola - Symbol">Motorola - Symbol</option>
+                    <option value="Navigon">Navigon</option>
+                    <option value="Navman">Navman</option>
+                    <option value="Nokia">Nokia</option>
+                    <option value="Novatel Wireless">Novatel Wireless</option>
+                    <option value="Option">Option</option>
+                    <option value="OQO">OQO</option>
+                    <option value="ORA">ORA</option>
+                    <option value="Oregon Scientific">Oregon Scientific</option>
+                    <option value="Otterbox">Otterbox</option>
+                    <option value="Palm">Palm</option>
+                    <option value="PDair">PDair</option>
+                    <option value="POD">POD</option>
+                    <option value="Portix">Portix</option>
+                    <option value="POS Ltd">POS Ltd</option>
+                    <option value="Pretec">Pretec</option>
+                    <option value="Proporta">Proporta</option>
+                    <option value="Psion">Psion</option>
+                    <option value="RIM">RIM</option>
+                    <option value="Ring">Ring</option>
+                    <option value="Samsung">Samsung</option>
+                    <option value="SanDisk">SanDisk</option>
+                    <option value="Sierra Wireless ">Sierra Wireless </option>
+                    <option value="Simple Technology">Simple Technology</option>
+                    <option value="Socket">Socket</option>
+                    <option value="SonyEricsson">SonyEricsson</option>
+                    <option value="Spectec">Spectec</option>
+                    <option value="ThinkOutside">ThinkOutside</option>
+                    <option value="Tom Tom">Tom Tom</option>
+                    <option value="TomTom">TomTom</option>
+                    <option value="Toshiba">Toshiba</option>
+                    <option value="Transcend">Transcend</option>
+                    <option value="Various">Various</option>
+                    <option value="Velocity">Velocity</option>
+                    <option value="Western Digital">Western Digital</option>
+                    <option value="ZipLinq">ZipLinq</option>
+
+                  </select>
+                </td>
+                
+              </tr>
+            </tbody></table>
+          </td>
+          <td width="84"><img src="/images/template/searchbar_r-end.gif" width="89" height="29"></td>
+        </tr>
+      </tbody></table>
+
+      <div id="divSearchBarPosition"></div>
+
+<div style="z-index : 20000; position: relative; margin: auto; width : 714px;">
+<div id="divSearch" style="z-index : 20000; visibility : hidden; position : absolute; top : 7px; left : 7px; width : 714px; height : 520px; border: 4px solid #6699cc; y-overflow : auto;">
+  <div style="z-index : 20001; position : absolute; top : 0px; left : 0px; width : 706px; height : 512px; background : #748ec1; filter:alpha(opacity=90);">&nbsp;</div>
+  <div style="z-index : 20002; position : absolute; top : 10px; left : 10px;"><span class="headerText" style="color : white;"><span class="bodyText" id="divSearch_intTotal"></span></span></div>
+
+  <div style="z-index : 20002; position : absolute; top : 50px; left : 10px;">
+    <input type="button" id="divSearch_Back" name="divSearch_Back" disabled="" value="< Previous" style="width : 120px;" onclick="Javascript:doSearchPage('BACK');">
+  </div>
+
+  <div style="z-index : 20002; position : absolute; top : 50px; right : 10px;">
+    <input type="button" id="divSearch_Next" name="divSearch_Next" disabled="" value=" Next >" style="width : 120px;" onclick="Javascript:doSearchPage('NEXT');">
+  </div>
+
+  <div style="z-index : 20002; position : absolute; top : 10px; right : 10px;">
+    <input type="button" value=" Hide " style="width : 120px;" onclick="Javascript:closeSearch();">
+  </div>
+
+  <div id="divSearchResults" style="position : absolute; top : 100px; left : 10px; z-index : 20003;">
+
+  </div>
+</div>
+</div>      <table border="0" cellspacing="7" cellpadding="0">
+        <tbody><tr> 
+
+<td><a href="http://www.clove.co.uk/viewProduct.aspx?product=65DE749F-F55A-4D83-A904-848EC1C5F622&amp;category=96185C16-1DCF-4913-BA19-691B1F06228E"><img src="/images/promos/Mio_A702.jpg" width="234" height="103" alt="Mio A702" border="0"></a></td>
+<td><a href="http://www.clove.co.uk/category.aspx?department=ASUS%20EEE%20PC&amp;category=7EBD4177-A577-49BA-BF32-C1AF6098EE6F"><img src="/images/promos/eeePC900.jpg" width="234" height="103" alt="Asus eeePC900" border="0"></a></td> 
+<td><a href="http://www.clove.co.uk/viewProduct.aspx?product=2346B9C1-2A90-4F9A-B350-6672F8A62F08"><img src="/images/promos/i-mate_9502.jpg" width="234" height="103" alt="i-mate Ultimate 9502" border="0"></a></td> 
+
+
+               
+        </tr>
+      </tbody></table>
+
+      <table width="722" border="0" cellspacing="0" cellpadding="0" class="bodyText">
+        <tbody><tr> 
+          <td valign="top" align="center"> 
+            <table width="100%" border="0" cellspacing="11" cellpadding="0" class="bodyText">
+
+              <tbody><tr> 
+                <td valign="top" class="blueText"><a href="index.aspx" class="blueText">Homepage</a> 
+                  <img src="images/template/crumb-arrow.gif" width="10" height="10"> Privacy policy
+                </td>
+              </tr>
+
+              <tr> 
+                <td valign="top" class="pageTitle">Privacy policy</td>
+              </tr>
+
+              <tr bgcolor="#6382B9"> 
+                <td valign="top" class="pageTitle"><img src="images/template/spacer.gif" width="10" height="1"></td>
+              </tr>
+              
+              <tr> 
+                <td valign="top">
+   
+                <p>This policy sets out our policy on the privacy of the individual. Clove Technology takes your privacy seriously and information will be used in accordance with the Data Protection Act 1998.</p>
+
+<p><span class="titletext">1.0 - Your consent</span><br>
+
+<font class="bodytext">Your use of this website signifies your consent to us collecting
+and using personal data about you as specified below in accordance with this policy
+statement. Should we choose to change these terms for any reason, the changes
+will be posted here so that you are always kept informed about the collection
+and use of your personal information, and when we disclose it.</font></p>
+
+<p><b><span class="titletext">2.0 - How do we collect personal information about you and how is it used?<br> </span></b></p>
+
+<table border="0" cellspacing="2" cellpadding="0" span="" class="bodytext">
+<tbody><tr align="left" valign="top">
+  <td width="25"><font class="bodytext">2.1</font></td>
+  <td><font class="bodytext">You may provide personal information when communicating with us.</font></td>
+</tr>
+<tr align="left" valign="top">
+  <td><font class="bodytext">2.2</font></td>
+  <td><font class="bodytext">You may use our services and give your name and e-mail address to make a comment about our services or Web site.</font></td>
+</tr>
+<tr align="left" valign="top">
+  <td><font class="bodytext">2.3</font></td>
+  <td><font class="bodytext">If you enter a competition or promotion we will ask your name, address and e-mail address.</font></td></tr>
+<tr align="left" valign="top">
+  <td><font class="bodytext">2.4</font></td>
+  <td><font class="bodytext">We will collect information about your tastes and preferences, both when you tell us and by analysis of customer traffic, including using "cookies".</font></td>
+</tr>
+<tr align="left" valign="top">
+  <td><font class="bodytext">2.5</font></td>
+  <td><font class="bodytext">It may be that some of the personal information you give us (for example, about your
+health and age) is sensitive personal data within the meaning of the Data Protection
+Act 1998. Such information ("sensitive information") will only be disclosed
+with your express consent.</font></td>
+</tr>
+<tr align="left" valign="top">
+  <td><font class="bodytext">2.6</font></td>
+  <td><p><font class="bodytext">It may be that you provide us details of credit or debit
+cards or bank accounts in making payment to us. Any such information (confidential
+financial information) will be disclosed only in accordance with the disclosure
+policy below.</font></p></td>
+</tr>
+<tr align="left" valign="top">
+  <td><font class="bodytext">2.7</font></td>
+  <td><p><font class="bodytext">We may use personal information collected about you
+to help us develop the layout of our website to ensure that our site is as useful
+and enjoyable as possible.</font></p></td>
+</tr>
+<tr align="left" valign="top">
+  <td><font class="bodytext">2.8</font></td>
+  <td><font class="bodytext">We may use personal information collected about you to let you know about functions on our
+Web site or changes to our <a href="terms.aspx">terms and conditions</a> of use.</font></td>
+</tr>
 </tbody></table>
 
-          <!-- Primary navigation ends -->
+<p><span class="titletext">3.0 - Traffic data</span><br> <font class="bodytext">We may provide aggregate statistics about sales, customers, traffic patterns and
+information to third parties, but these statistics will not include any information
+that identifies you.</font> </p>
 
-        
+<p><span class="titletext">4.0 - Disclosure policy</span><br>
+<font class="bodytext">We reserve the right to access and disclose individually
+identifiable information to enable us to comply with applicable laws and lawful
+government requests to operate its systems and to protect itself or its users.</font>
+</p>
+
+<p><span class="titletext">5.0 - How do we protect your information?</span><br>
+<font class="bodytext">We have strict security procedures covering the storage
+of your information in order to prevent unauthorised access and to comply with
+the terms of the Data Protection Act 1998. This means that sometimes we may ask
+you for proof of identity or for other personal information before we can process
+your call or enquiry further.</font> </p>
+
+<p><span class="titletext">6.0 - What
+are cookies and how do we deal with them?</span><br> <font class="bodytext">A
+cookie is a piece of information that is stored on your computer's hard drive.
+It is normally sent by a web server to you and enables the server to collect information
+back from your site visit.</font> </p>
+
+<p><b><span class="titletext">7.0 - How
+to contact us</span></b><br> <font class="bodytext">If you have any questions
+or concerns about this policy, please call us on <span class="title"><b>0870 7270037</b></span> or email to <a href="mailto:sales@clove.co.uk" class="linktext">sales@clove.co.uk</a></font></p><br>
+<br> 
+              </td>
+            </tr>
+           </tbody></table>
+
+          </td>
+          <td width="179" valign="top"> 
+            <br>
+            <table width="179" border="0" cellspacing="0" cellpadding="0" class="bodyText">
+            <tbody><tr> 
+              <td colspan="3"><img src="images/relateditems/contact_header.gif" width="179" height="50"></td>
+            </tr>
+            <tr> 
+              <td background="images/relateditems/bluebox_window_l-edge.gif" width="11"><img src="images/template/spacer.gif" width="15" height="15"></td>
+              <td width="157" bgcolor="#FFFFFF">
+                <p>Clove Technology<br>
+                   PO BOX 4367<br>
+                   Bournemouth<br>
+                   BH3 7YS<br>
+                   UK<br><br>
+
+                   Tel: 0870 7270037<br>
+                   Fax: 0870 7280037<br><br>
+
+                   Email: <a class="bluetext" href="mailto:sales@clove.co.uk">sales@clove.co.uk</a>
+
+              </p></td>
+              <td background="images/relateditems/bluebox_window_r-edge.gif" width="11"><img src="images/template/spacer.gif" width="15" height="15"></td>
+            </tr>
+            <tr> 
+              <td colspan="3"><img src="images/relateditems/bluebox_footer.gif" width="179" height="28"></td>
+            </tr>
+          </tbody></table>
+
           </td>
         </tr>
       </tbody></table>
     </td>
   </tr>
 </tbody></table>
-<!--Central page area starts --> <table width="780" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> <td width="200"> <table width="200" border="0" cellpadding="0" cellspacing="0"> <tbody><tr>
-<td width="20"><img src="../images/tb_01.gif" width="20" height="25"></td><td background="../images/tb_02.gif" width="170">
 
-                      <!--
-                      Searchbox.asp feeds into header.asp
-                      *****************
-                      Search Top 
-                      *****************
-                      -->
-<table border="0" cellspacing="0" cellpadding="0">
+<center>
+<table border="0" cellspacing="5" cellpadding="0" align="center">
   <tbody><tr> 
-    <form name="search" method="post" action="../includes/search.asp"></form>
-      <td> 
-        &nbsp;<input type="text" size="13" name="strsearch" value="Keyword Search" style="width:140px" class="bodytext" onfocus="checkValue();" onblur="checkValue();">
-      		<input type="Hidden" name="strReferer" value="english">
-	  </td>
-      <td> <a href="javascript:checksubmit();"><img src="../images/bttnSearch.gif" width="25" height="22" alt="Go" border="0"></a></td>
-    
+    <td class="footerText">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td class="footerText" align="center"><a href="/about.aspx" class="footerText">About Clove</a>
+      | <a href="/account.aspx" class="footerText">Account</a> | <a href="/news.aspx" class="footerText">News</a> | <a href="/links.aspx" class="footerText">Links</a> |<a href="/ordering.aspx" class="footerText">Ordering</a> | <a href="/reviews.aspx" class="footerText">Reviews</a> | <a href="/emailnewsletter.aspx" class="footerText">Register</a> |<a href="/contact.aspx" class="footerText">Contact</a> |<a href="/sitemap.aspx" class="footerText">Sitemap</a></td>
+  </tr>
+  <tr> 
+    <td class="footerText" align="center">
+        <a href="/privacy.aspx" class="footerText">Privacy policy</a>
+      | <a href="/terms.aspx" class="footerText">Terms and conditions</a>
+    </td>
+  </tr>
+  <tr> 
+    <td class="footerText" align="center">
+     <img src="/images/BarclayCardMerchantServicesLogo.jpg" alt="Barclay Card Merchant"><br>©2008 Clove Technology. All rights reserved. All 
+      trademarks acknowledged. Website by <a class="footerText" target="_blank" href="http://www.genesis-software.co.uk">Genesis Software</a></td>
   </tr>
 </tbody></table>
-<!-- 
-                      *****************
-                      Search End 
-                      *****************
-                      -->
- </td><td width="10"><img src="../images/tb_03.gif" width="10" height="25"></td></tr>
-</tbody></table></td><td bgcolor="#FFFFFF" width="580" valign="middle" align="left"> <table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr> <td><img src="../images/spacer.gif" width="8" height="25"></td><td class="breadcrumb" align="left"><font color="#999999">Location:</font>
-<a href="../index/index.asp" class="breadcrumb">Homepage</a> <img src="../images/breadcrumb.gif" width="8" height="8" alt="Next level">
-Privacy Statement</td></tr> </tbody></table></td></tr> </tbody></table><table border="0" cellspacing="0" cellpadding="0" width="780">
-<!--Width of left nav column --> <tbody><tr> <td width="200" valign="top"> <table border="0" cellpadding="0" cellspacing="0" width="200" bgcolor="#336699">
-<tbody><tr> <td><img src="../images/st_01.gif" width="30" height="45"></td><td><img src="../images/stPrivacyStatement.gif" width="160" height="45" alt="E-Newsletter"></td><td><img src="../images/st_03.gif" width="10" height="45"></td></tr>
-<tr> <td background="../images/st_04.gif" valign="top"><img src="../images/st_04.gif" width="30" height="1"></td><td background="../images/st_05.gif" class="sbtext" valign="top">
-<p>This policy sets out our policy on the privacy of the individual. Clove Technology
-takes your privacy seriously and information will be used in accordance with the
-Data Protection Act 1998.</p></td><td background="../images/st_06.gif" valign="top"><img src="../images/st_06.gif" width="10" height="1"></td></tr>
-<tr> <td><img src="../images/st_07.gif" width="30" height="10"></td><td><img src="../images/st_08.gif" width="160" height="10"></td><td><img src="../images/st_09.gif" width="10" height="10"></td></tr>
-</tbody></table></td><td><img src="../images/blank.gif" width="10" height="10" alt="spacer"></td><td align="top" valign="top">
-<!--Width of content area --> <table width="550" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> <td valign="top"> <p><span class="titletext"><br> <br> Privacy statement
-for Clove Technology</span></p><p><span class="titletext">1.0 - Your consent</span><br>
-<font class="bodytext">Your use of this website signifies your consent to us collecting
-and using personal data about you as specified below in accordance with this policy
-statement. Should we choose to change these terms for any reason, the changes
-will be posted here so that you are always kept informed about the collection
-and use of your personal information, and when we disclose it.</font></p><p><b><span class="titletext">2.0
-- How do we collect personal information about you and how is it used?<br> </span></b></p><table border="0" cellspacing="2" cellpadding="0" span="" class="bodytext">
-<tbody><tr align="left" valign="top"> <td width="25"><font class="bodytext">2.1</font></td><td><font class="bodytext">You
-may provide personal information when communicating with us.</font></td></tr>
-<tr align="left" valign="top"> <td><font class="bodytext">2.2</font></td><td><font class="bodytext">You
-may use our services and give your name and e-mail address to make a comment about
-our services or Web site.</font></td></tr> <tr align="left" valign="top"> <td><font class="bodytext">2.3</font></td><td><font class="bodytext">If
-you enter a competition or promotion we will ask your name, address and e-mail
-address.</font></td></tr> <tr align="left" valign="top"> <td><font class="bodytext">2.4</font></td><td><font class="bodytext">We
-will collect information about your tastes and preferences, both when you tell
-us and by analysis of customer traffic, including using "cookies".</font></td></tr>
-<tr align="left" valign="top"> <td><font class="bodytext">2.5</font></td><td><font class="bodytext">It
-may be that some of the personal information you give us (for example, about your
-health and age) is sensitive personal data within the meaning of the Data Protection
-Act 1998. Such information ("sensitive information") will only be disclosed
-with your express consent.</font></td></tr> <tr align="left" valign="top"> <td><font class="bodytext">2.6</font></td><td>
-<p><font class="bodytext">It may be that you provide us details of credit or debit
-cards or bank accounts in making payment to us. Any such information (confidential
-financial information) will be disclosed only in accordance with the disclosure
-policy below.</font></p></td></tr> <tr align="left" valign="top"> <td><font class="bodytext">2.7</font></td><td>
-<p><font class="bodytext">We may use personal information collected about you
-to help us develop the layout of our website to ensure that our site is as useful
-and enjoyable as possible.</font></p></td></tr> <tr align="left" valign="top">
-<td><font class="bodytext">2.8</font></td><td><font class="bodytext">We may use
-personal information collected about you to let you know about functions on our
-Web site or changes to our <a href="terms.asp">terms and conditions</a> of use.</font></td></tr>
-</tbody></table><p><span class="titletext">3.0 - Traffic data</span><br> <font class="bodytext">We
-may provide aggregate statistics about sales, customers, traffic patterns and
-information to third parties, but these statistics will not include any information
-that identifies you.</font> </p><p><span class="titletext">4.0 - Disclosure policy</span><br>
-<font class="bodytext">We reserve the right to access and disclose individually
-identifiable information to enable us to comply with applicable laws and lawful
-government requests to operate its systems and to protect itself or its users.</font>
-</p><p><span class="titletext">5.0 - How do we protect your information?</span><br>
-<font class="bodytext">We have strict security procedures covering the storage
-of your information in order to prevent unauthorised access and to comply with
-the terms of the Data Protection Act 1998. This means that sometimes we may ask
-you for proof of identity or for other personal information before we can process
-your call or enquiry further.</font> </p><p><span class="titletext">6.0 - What
-are cookies and how do we deal with them?</span><br> <font class="bodytext">A
-cookie is a piece of information that is stored on your computer's hard drive.
-It is normally sent by a web server to you and enables the server to collect information
-back from your site visit.</font> </p><p><b><span class="titletext">7.0 - How
-to contact us</span></b><br> <font class="bodytext">If you have any questions
-or concerns about this policy, please call us on <span class="title"><b>0870 7270037</b></span> or email to <a href="mailto:sales@clove.co.uk" class="linktext">sales@clove.co.uk</a></font></p><br>
-<br> </td></tr> </tbody></table></td><td align="top"><img src="../images/blank.gif" width="20" height="10" alt="spacer"></td></tr>
-</tbody></table><!--Central page area ends --> 
+</center>
+<p>&nbsp;</p>
+  <form name="formBasket" id="formBasket" method="post">
+    <input type="hidden" name="formBasket_strBasket" id="formBasket_strBasket" value="">
+  </form>
 
-  
-	 <title></title>
-  
-  
-	 <table width="770" border="0" cellspacing="0" cellpadding="0"> 
-		<tbody><tr align="center"> 
-		  <td class="footertext" colspan="6" valign="top"> 
-			 <p><br> <br>
-				<a href="../index/index.asp" class="footertext" title="Home (Access key = h)" accesskey="h">HOME</a> |
-				<a href="../aboutUs/hub.asp" class="footertext" title="ABOUT US (Access key = 1)" accesskey="1">ABOUT US</a> |
-				<a href="../products/products.asp" class="footertext" title="PRODUCTS (Access key = 2)" accesskey="2">PRODUCTS</a> |
-				<a href="../news/news.asp" class="footertext" title="NEWS (Access key = 3)" accesskey="3">NEWS</a> |
-				<a href="../ordering/hub.asp" class="footertext" title="ORDERING (Access key = 4)" accesskey="4">ORDERING </a> |
-				<a href="../products/special.asp" class="footertext" title="SPECIAL OFFERS (Access key = 5)" accesskey="5">SPECIAL OFFERS</a> |
-				<a href="../downloads/downloads.asp" class="footertext" title="DOWNLOADS (Access key = 6)" accesskey="6">DOWNLOADS</a> |
-				<a href="../faqs/faq.asp" class="footertext" title="FAQs (Access key = 7)" accesskey="7">FAQs</a> |
-				<a href="../generic/contact.asp" class="footertext" title="Contact (Access key = 8)" accesskey="8">CONTACT</a><br> </p> 
-			 <p><a href="../generic/privacy.asp" class="footertext">Privacy
-				policy</a> | <a href="../generic/terms.asp" class="footertext">Terms &amp;
-				conditions</a> | 
-				<a href="../links/index.asp" class="footertext">Links</a><br>
-				 <script language="Javascript1.2">
-                  <!--
-                  //if the user is using IE 4+
-                  if (document.all) {
-                    document.write('Bookmark this site - <a href="javascript:addfavourite();" class="footertext">click here</a>');
-                  } else {
-                    // The user is not using IE so don't display the link.
-                  }
-                  // -->
-                </script> <br> <br>
-				© 2003 Clove Technology<br> All rights reserved. All trademarks
-				acknowledged<br> Web site designed and developed by
-				<a href="http://www.redweb.co.uk" target="_blank" class="footertext">redweb
-				Ltd</a></p> 
-			 <p><br> </p> </td> 
-		</tr> 
-	 </tbody></table> 
+<script language="JavaScript" type="text/javascript" src="/wz_tooltip.aspx"></script>  
+<script language="JavaScript" type="text/javascript" src="/cookies.aspx"></script>  
+<script language="JavaScript" type="text/javascript" src="/_basket.aspx"></script> 
 
-<!-- ******** BEGIN ALLWEBMENUS CODE FOR dropmenu ******** -->
-<img name="awmMenuPathImg-dropmenu" id="awmMenuPathImg-dropmenu" src="../includes/awmmenupath.gif" alt="">
-<script type="text/javascript">var MenuLinkedBy='AllWebMenus [2]', awmBN='502'; awmAltUrl='';</script>
-<script src="../includes/dropmenudyn.js" language="JavaScript1.2" type="text/javascript"></script><script src="https://web.archive.org/web/20051212210948id_/http%3A//clove.co.uk/includes/awmData-dropmenu/awmlib2.js"></script>
-<script type="text/javascript">awmBuildMenu();</script>
-<!-- ******** END ALLWEBMENUS CODE FOR dropmenu ******** -->
+<script language="Javascript">
+  var bolCheckout = false;
 
-</body></html>
+	dojo.addOnLoad(function(){
+
+          initAd();
+
+
+          //window.setInterval("oChasermain()", 10);
+
+
+          var keyword = getCookie("Search");
+          if(keyword==null||keyword.length<1){}else{
+            showSearchPosition();
+            document.formSearch.formSearch_strkeyword.value = keyword;
+          }
+
+          strBasket = getCookie("Basket"); 
+
+          if(strBasket==null||strBasket.length<1){
+            $("formBasket_strBasket").value = "";
+          }else{
+            $("formBasket_strBasket").value = "[" + strBasket + "]";
+          }
+
+          getBasket();
+
+          var basket = new dojo.dnd.HtmlDropTarget(document.getElementById("divBasket"), ["PRODUCT"]);
+          basket.onDrop = handlerdropBasket;          
+
+
+          //DND
+      
+
+	});
+
+  function openImage(strImage){
+    var load = window.open("/openImage.aspx?strImage=" + strImage, "IMAGE", "scrollbars=yes,menubar=no,height=600,width=800,resizable=yes,toolbar=no,location=no,status=no");
+  }
+
+</script>
+<div id="sponsorAdDiv" style="visibility:hidden">
+<table width="500px" height="250px" bgcolor="#6382B9"><tbody><tr><td>
+<table width="495px" height="245px" bgcolor="#CCD2DC" class="bodyText"><tbody><tr><td align="center" valign="middle">
+
+<!--*****EDIT THIS MESSAGE*****-->
+<p style="color : #6382B9;"><span style="font-size : 14pt;">This product has been added into your basket.</span><br>(Basket can be viewed in the top left of every web page)</p>
+
+<p>(This message will close in 3 seconds)
+<br>
+
+<!--*****EDIT THE ABOVE MESSAGE*****-->
+</p></td></tr></tbody></table></td></tr></tbody></table>
+</div>
+
+
+
+
+<div>FATAL: Could not load 'dojo.dnd.HtmlDragManager'; last tried '__package__.js'</div><div>FATAL: Could not load 'dojo.json'; last tried '__package__.js'</div></body></html>
