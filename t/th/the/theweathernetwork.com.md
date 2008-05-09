@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213224156id_/http%3A//www.theweathernetwork.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509105011id_/http%3A//www.theweathernetwork.com/privacypolicy) for the most accurate reproduction.*
 
-# The Weather Network - Help - Privacy Policy
+# The Weather Network - Privacy Policy
 
-  * [Privacy Policy](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#privacy)
-  * [The Ten Privacy Principles](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#ten_principals)
-  * [Where and Why We Collect Personal Information Online](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#whereandwhy)
-  * [Cookies](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#cookies)
-  * [Employee Confidentiality ](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#employee_conf)
-  * [Limitation of Liability](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#limitation)
-  * [Contact Us](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#contact)
-  * [Updates](http://www.theweathernetwork.com/index.php?product=help&pagecontent=privacy_policy#updates)
+  * [Privacy Policy](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#privacy)
+  * [The Ten Privacy Principles](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#ten_principals)
+  * [Where and Why We Collect Personal Information Online](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#whereandwhy)
+  * [Cookies](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#cookies)
+  * [Employee Confidentiality ](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#employee_conf)
+  * [Limitation of Liability](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#limitation)
+  * [Contact Us](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#contact)
+  * [Updates](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#updates)
 
 
 
-Privacy Policy 
+**Privacy Policy**
 
 Pelmorex Media Inc. ("PMI") is committed to respecting and safeguarding the privacy of our stakeholders and to ensure the protection of personal information of our employees, customers, clients and users of this web site. It has always been fundamental to the way we do business at Pelmorex in all our relationships, either on or off the Internet: we are committed to keeping personal information accurate, confidential, secure and private.
 
@@ -21,46 +21,49 @@ PMI's policy is simple: we collect personal information about you only when you 
 
 Our practices conform with the Canadian Standards Association (CSA) Model Code for the Protection of Personal Information (CAN/CSA - Q830-06) and the Canadian Association of Broadcasters Privacy Policy Guidelines. The code consists of ten inter-related principles which are outlined below.
 
-The Ten Privacy Principles   
-Principle 1 - Accountability   
-Principle 2 - Identifying Purposes   
-Principle 3 - Consent   
-Principle 4 - Limiting Collection   
-Principle 5 - Limiting Use, Disclosure and Retention   
-Principle 6 - Accuracy   
-Principle 7 - Safeguarding Customer Information   
-Principle 8 - Openness   
-Principle 9 - Customer Access   
-Principle 10 - Handling Customer Complaints and Suggestions 
+**The Ten Privacy Principles**
 
-Principle 1 - Accountability   
+  * [Principle 1](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#1) \- Accountability
+  * [Principle 2](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#2) \- Identifying Purposes
+  * [Principle 3](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#3) \- Consent
+  * [Principle 4](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#4) \- Limiting Collection
+  * [Principle 5](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#5) \- Limiting Use, Disclosure and Retention
+  * [Principle 6](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#6) \- Accuracy
+  * [Principle 7](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#7) \- Safeguarding Customer Information
+  * [Principle 8](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#8) \- Openness
+  * [Principle 9](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#9) \- Customer Access
+  * [Principle 10](http://www.theweathernetwork.com/index.php?product=privacypolicy&pagecontent=index#10) \- Handling Customer Complaints and Suggestions
+
+
+
+Principle 1 - **Accountability**   
 PMI is responsible for all personal information under its control including any personal information disclosed to third parties for processing. Pelmorex has established policies and procedures to comply with its own privacy code, and has designated one or more persons to be accountable for compliance.
 
-Principle 2 - Identifying Purposes   
+Principle 2 - **Identifying Purposes**   
 PMI will identify the purposes for collecting personal information, prior to or at the time it is being provided. Personal information will not be used for a purpose not previously identified without further individual consent, unless the new purpose is required by law.
 
-Principle 3 - Consent   
+Principle 3 - **Consent**   
 The knowledge and consent of the customer are required for the collection, use or disclosure of customer information, except where inappropriate.
 
-Principle 4 - Limiting Collection   
+Principle 4 - **Limiting Collection**   
 The collection of personal information shall be limited to that which is necessary for the purposes identified by PMI.
 
-Principle 5 - Limiting Use, Disclosure and Retention   
+Principle 5 - **Limiting Use, Disclosure and Retention**   
 Personal information will not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of those purposes.
 
-Principle 6 - Accuracy   
+Principle 6 - **Accuracy**   
 Personal information shall be as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be used. 
 
-Principle 7 - Safeguarding Customer Information   
+Principle 7 - **Safeguarding Customer Information**   
 Pelmorex protects personal information with safeguards appropriate to the sensitivity of the information.
 
-Principle 8 - Openness   
+Principle 8 - **Openness**   
 Pelmorex will make specific information about its personal information management policies and practices readily available to individuals.
 
-Principle 9 - Customer Access   
+Principle 9 - **Customer Access**   
 Upon request, Pelmorex will inform individuals of the existence, use, and disclosure of their personal information and provide access to that information. An individual shall be able to verify the accuracy and completeness of their information, and may request that it be amended, as appropriate.
 
-Principle 10 - Handling Customer Complaints and Suggestions   
+Principle 10 - **Handling Customer Complaints and Suggestions**   
 Pelmorex will provide procedures to receive and respond to complaints or inquiries about policies and practices relating to the handling of personal information. These procedures will be easily accessible and simple to use.
 
 Where and Why We Collect Personal Information Online   
