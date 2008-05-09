@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the mtvu.com privacy policy that was archived on 2007-10-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071019035448id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mtvu.com privacy policy that was archived on 2008-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509105010id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<html><head>
 
 <title>mtvU.com</title>
 <meta name="description" content="mtvU">
 <meta name="keywords" content="mtvU, mtvu">
 <meta name="URL" content="www.mtvu.com">
 <meta name="author" content="mtvU / www.mtvu.com">
-<meta name="copyright" content="Copyright (c) 2006 MTV Networks On Campus Inc."> 
+<meta name="copyright" content="Copyright (c) 2008 MTV Networks On Campus Inc."> 
 <meta name="robots" content="index,follow">
 <meta name="revisit-after" content="2 days">
 <meta name="distribution" content="global">
@@ -17,6 +17,9 @@
 <script language="JavaScript" src="/sitewide/scripts/detect_flash.js"></script>
 
 <script language="JavaScript">var sections="&gateway=about&section_1=privacy_policy";</script>
+
+<!-- <setvalue bean="/mtvi/ads/AdPlacer.defaultKeyValues" value="test=test">
+<droplet bean="/mtvi/ads/AdPlacer"><param name="size" value="default"></droplet> -->
 
 <script language="JavaScript">
 var if_clientCode = "Not-Signed-In";
@@ -103,11 +106,47 @@ omniCall.channel = null;
 <script type="text/javascript" src="/sitewide/scripts/gen.js"></script>
 <script type="text/javascript" src="/sitewide/scripts/genoutsourcedev.js"></script>
 
-<!-- droplet src="/sitewide/droplets/sectionsetup.jhtml"></droplet -->
-<!--droplet src="/sitewide/scripts/launchvideo.jhtml"></droplet-->
-<!-- droplet src="/sitewide/scripts/flipbooks.js"></droplet -->
+<script language="javascript">
+var additionalVals="";
+
+function launchVideo(clipy) {
+
+clipyNew = clipy
+
+clipy = clipyNew
+
+if(clipyNew.indexOf('channelID=')<0 && window.channelID)
+clipy = clipy + "&" + "channelID=" + channelID
+if(clipyNew.indexOf('orgID=')<0 && window.orgID)
+clipy = clipy + "&" + "orgID=" + orgID	
+if(clipyNew.indexOf('gateway=')<0 && window.gateway)
+clipy = clipy + "&" + "gateway=" + gateway 
+if(clipyNew.indexOf('paid=')<0 && window.paid)
+clipy = clipy + "&" + "paid=" + paid
+if(clipyNew.indexOf('seriesID=')<0 && window.seriesID)
+clipy = clipy + "&" + "seriesID=" + seriesID
+if(clipyNew.indexOf('episodeID=')<0 && window.episodeID)
+clipy = clipy + "&" + "episodeID=" + episodeID
+if(clipyNew.indexOf('albumid=')<0 && window.albumid)
+clipy = clipy + "&" + "albumid=" + albumid
+
+ap = "&adPth=" + escape("");
+
+ap = ap + "&adPN=" + escape("");
+s1 = escape("");
+s2 = escape("");
+orgID = escape("");
+ss = "&s1=" + s1 + "&s2=" + orgID + "&orgID=" + orgID;
+
+clipy = clipy.replace(/'/g,'\\\'');
+
+var url = '/sitewide/apps/mediaplayer/index.jhtml?' + clipy + ss + ap + additionalVals;
+objWin = this.window.open(url,'mtvUmediaplayer','toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=720,height=540,left=25,top=25');
+objWin.focus();
+}
+</script>
 <link rel="stylesheet" href="/sitewide/styles/site.css" type="text/css">
-<link rel="stylesheet" href="/sitewide/styles/new_site.css" type="text/css">
+<link rel="stylesheet" href="/sitewide/styles/new_site.css" type="text/css"> 
 <script src="/sitewide/scripts/common.js" type="text/javascript"></script>
 <script type="text/javascript" language="javascript" src="/sitewide/scripts/broadband_detect_config.js"></script>
 <script type="text/javascript" language="javascript" src="/global/apps/broadband/scripts/broadband_detect.js"></script>
@@ -128,92 +167,6 @@ window.location.replace(path);
 <script language="javascript" src="/shared/scripts/flash_detect.js"></script>
 <script type="text/JavaScript" src="/sitewide/scripts/gen.js"></script>
 
-<script type="text/javascript" language="javascript">
-
-if (typeof additionalVals == "undefined") {
-additionalVals="";
-}
-
-function launchVideo(clipy){
-
-prependDomain = "";	
-
-players = new Array();
-player = "defaultPlayer";
-players['defaultPlayer'] = new Array("mtvmediaplayer","720","540");
-
-clipyNew = clipy
-clipy = clipyNew
-
-if(clipyNew.indexOf('channelID=')<0 && window.channelID)
-clipy = clipy + "&" + "channelID=" + channelID
-if(clipyNew.indexOf('orgID=')<0 && window.orgID)
-clipy = clipy + "&" + "orgID=" + orgID	
-if(clipyNew.indexOf('gateway=')<0 && window.gateway)
-clipy = clipy + "&" + "gateway=" + gateway 
-if(clipyNew.indexOf('portal=')<0 && window.portal)
-clipy = clipy + "&" + "portal=" + portal; 
-if(clipyNew.indexOf('paid=')<0 && window.paid)
-clipy = clipy + "&" + "paid=" + paid
-if(clipyNew.indexOf('seriesID=')<0 && window.seriesID)
-clipy = clipy + "&" + "seriesID=" + seriesID
-if(clipyNew.indexOf('episodeID=')<0 && window.episodeID)
-clipy = clipy + "&" + "episodeID=" + episodeID
-if(clipyNew.indexOf('albumid=')<0 && window.albumid)
-clipy = clipy + "&" + "albumid=" + albumid
-
-ap = "&adPth=" + escape("/adsetup/home/adplacement.jhtml");
-ap = ap.substring(0,ap.length-17);
-ap = ap + "&adPN=" + escape("index");
-
-refURL = document.location.pathname;
-pieces = refURL.split("/");
-if (pieces.length == 2) pieces[1] = "home";
-var ss = '';
-for (var i = 1; i < pieces.length; i++) {
-sIndex = i - 1;
-ss = ss + "&section_" + sIndex + "=" + pieces[i];
-}
-ss = ss + "&refURL=" + refURL;
-
-clipy = clipy.replace(/'/g,'\\\'')
-
-attSw = 'no';
-
-if(document.referrer.indexOf("yahoo")>=0)
-additionalVals += '&partner=yahoo';
-
-sUrl = prependDomain + "/sitewide/apps/mediaplayer/index.jhtml?" + clipy + ss + ap + additionalVals;
-
-attrs = 'width=' + players[player][1] + ',';
-attrs += 'height=' + players[player][2] + ',';
-attrs += 'left=25,top=25,';
-attrs += 
-'scrollbars=' + attSw + 
-',resizable=' + attSw + 
-',toolbar=' + attSw + 
-',location=' + attSw + 
-',directories=' + attSw + 
-',status=' + attSw + 
-',menubar=' + attSw;
-
-var pWin = false;
-pWin = window.open(sUrl, players[player][0], attrs);	
-// popCheck(pWin);
-// pWin.focus();
-
-}
-
-{
-function launchTrailer(stuff){
-launchVideo(stuff)
-}
-}
-
-</script>
-
-
-
 </head>
 
 <body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" bgcolor="#291929" onload="MM_preloadImages('/navbar_woodies_global/nav_home.gif','/navbar_woodies_global/nav_home-hover.gif','/navbar_woodies_global/nav_videos.gif','/navbar_woodies_global/nav_videos-hover.gif','/navbar_woodies_global/nav_music.gif','/navbar_woodies_global/nav_music-hover.gif','/navbar_woodies_global/nav_shows.gif','/navbar_woodies_global/nav_shows-hover.gif','/navbar_woodies_global/mtvu_nav_b9_over.gif','/navbar_woodies_global/mtvu_nav_b10_over.gif','/navbar_woodies_global/mtvu_nav_b11_over.gif')">
@@ -223,13 +176,11 @@ launchVideo(stuff)
 <!-- Omniture Call -->
 <div style="display:none;">
 
-<script type="text/javascript" language="javascript" src="/global/reporting/scripts/s_code_remote.js"></script><img name="s_i_mtvu" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/mtvu/1/G.7-PD-R/s92608636175633?[AQB]&amp;ndh=1&amp;t=24/1/2020%204%3A0%3A8%201%200&amp;pageName=/undefined&amp;g=https%3A//web.archive.org/web/20071019035448id_/http%3A//www.mtvu.com/about/privacy_policy/&amp;cc=USD&amp;h2=undefined&amp;c4=not_logged_in&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script type="text/javascript" language="javascript" src="/global/reporting/scripts/s_code_remote.js"></script><img name="s_i_mtvu" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/mtvu/1/G.7-PD-R/s74587277663239?[AQB]&amp;ndh=1&amp;t=31/0/2020%204%3A3%3A1%205%200&amp;pageName=/undefined&amp;g=https%3A//web.archive.org/web/20080509105010id_/http%3A//www.mtvu.com/about/privacy_policy/&amp;cc=USD&amp;c4=not_logged_in&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 
 </div>	
 
 <!-- /body_element.jhtml -->
-
-<img src="/images/spacer.gif" width="1" height="15" alt="" border="0" vspace="0"><br>
 
 <div style="text-align:center">
 
@@ -239,7 +190,7 @@ launchVideo(stuff)
 <style>
 #navHolder {position:relative;z-index:100; width:770px; top:116px; text-align:left; margin: 0px auto 0px auto;}
 
-#nav2Holder { position:absolute; width:770px; margin:0px auto 0px auto; text-align:left; z-index:125; background:url(/navbar_woodies_global/woodies_site-header.jpg) top center no-repeat;}
+#nav2Holder { position:absolute; width:770px; margin:0px auto 0px auto; text-align:left; z-index:125; background:url(/navbar_global/search-back-default.jpg) top center no-repeat;}
 
 .logo {padding:3px;}
 
@@ -296,17 +247,17 @@ m.showMedia();
 
 </div>
 
-<div style="position:absolute;left:200px;top:40px;height:40px;width:325px;z-index:100;">
+<div style="position:absolute;left:225px;top:40px;height:40px;width:325px;z-index:100;">
 <style>
 .formInputSearch
 {
-border: none;
-background: url(/music/woodie_awards/2007/images/323X26_search-back.gif) no-repeat top left;
-background-color: transparent;
-height: 26px;
+border: solid black 1px; 
+background-color: white;
+height: 24px;
+width:261px;
 padding: 4px 0px 0px 6px;
-color: #000000;
-font: bold 16px Verdana, Geneva, Arial, Helvetica, sans-serif;
+color: #333333;
+font: 12px Arial, Helvetica, sans-serif;
 }
 .fromSearch
 {
@@ -333,14 +284,21 @@ background-repeat: repeat;
 <table width="300" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td colspan="2">
-<form method="get" action="/searchResults/">
-<input type="hidden" name="searchtype" value="site">
-<input type="hidden" name="pagesize" value="20">
-</form></td>
+
+</td>
 </tr>
 <tr>
-<td width="350" valign="middle"><input type="text" name="searchterm" size="27" maxlength="30" class="formInputSearch"></td>
-<td width="71" valign="middle"><input type="image" value="Search" src="/music/woodie_awards/2007/images/88X26_search-btn.gif" alt="Search" class="fromSearch" border="0"></td>
+<td width="271" valign="top">
+<form method="get" action="/searchResults/">
+
+
+
+<input name="searchterm" class="formInputSearch" type="text" tabindex="1" style="width: 271px;color: gray;" value="Search for music videos, artists and shows" onfocus="if(this.value=='Search for music videos, artists and shows'){this.value='';this.style.color='black'}">
+
+</form></td>
+<td width="71" valign="top"><div style="padding-left:5px;padding-top:0px; _padding-top:1px;"> 
+<input type="hidden" name="searchtype" value="site">
+<input type="hidden" name="pagesize" value="20"><input type="image" value="Search" src="/navbar_global/btn-search.gif" alt="Search" class="fromSearch" border="0"> </div></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -350,19 +308,14 @@ background-repeat: repeat;
 </tbody></table>
 </div>
 
-<a href="/music/woodie_awards/2007/" title="mtvU Woodie Awards 2007" id="woodieLogo">&nbsp;</a>
-
 </td>
 </tr>
 <tr>
 <td align="left">
 <div style="padding-left:2px;">
 
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Untitled Document</title>
-<script src="/navbar_woodies_global/SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
-<link href="/navbar_woodies_global/SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
+<script src="/navbar_global/SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<link href="/navbar_global/SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 <!--
 function MM_preloadImages() { //v3.0
@@ -405,17 +358,15 @@ if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src;
 <li><a href="/music/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_music.gif" alt="MUSIC" name="nav2" width="73" height="32" border="0" id="nav2" onmouseover="MM_swapImage('nav2','','/navbar_woodies_global/nav_music-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a>
 <ul>
 <li><a href="/music/" style="padding:5px; color:#FFFFFF; ">Music Main</a></li>
-<li><a href="/music/woodie_awards/2007/" style="padding:5px; color:#FFFFFF; ">mtvU Woodie Awards 2007</a></li>
+<li><a href="/music/the_leak/turnitup/" style="padding:5px; color:#FFFFFF; ">Turn It Up!</a></li>
+<li><a href="/on_mtvu/spring_break/2008/" style="padding:5px; color:#FFFFFF; ">Spring Break 2008</a></li>
 <li><a href="/music/playlist/" style="padding:5px; color:#FFFFFF; ">Music Videos</a></li>
-<li><a href="/music/video_premiere/band_of_horses/" style="padding:5px; color:#FFFFFF; ">Video Premiere: Band of Horses</a></li>
-<li><a href="/music/the_leak/little_brother/" style="padding:5px; color:#FFFFFF; ">The Leak: Little Brother</a></li>
-<li><a href="http://www.mtv.com/music/the_leak/serj_tankian/elect_the_dead/" style="padding:5px; color:#FFFFFF; ">The Leak: Serj Tankian</a></li>
-<li><a href="/music/the_leak/the_thrills/" style="padding:5px; color:#FFFFFF; ">The Leak: The Thrills</a></li>
+<li><a href="/music/video_premiere/tapes_n_tapes/" style="padding:5px; color:#FFFFFF; ">Video Premiere: Tapes 'n Tapes</a></li>
 <li><a href="/music/ahead_of_the_curve/" style="padding:5px; color:#FFFFFF; ">Ahead of the Curve</a></li>
 <li><a href="/music/backstage_pass/" style="padding:5px; color:#FFFFFF; ">Backstage Pass</a></li>
 <li><a href="http://www.bestmusiconcampus.com/" style="padding:5px; color:#FFFFFF; ">Best Music On Campus</a></li>
-<li><a href="/music/breaking_the_video/" style="padding:5px; color:#FFFFFF; ">Breaking the Video</a></li>
-<li><a href="/uconnect/campus_invasion_tour/" style="padding:5px; color:#FFFFFF; ">Campus Invasion Tour 2007</a></li>
+<!--<li><a href="/music/breaking_the_video/" style="padding:5px; color:#FFFFFF; ">Breaking the Video</a></li>//-->
+<li><a href="/uconnect/campus_invasion_tour/2008/" style="padding:5px; color:#FFFFFF; ">Campus Invasion Tour 2008</a></li>
 <li><a href="/music/radio/" style="padding:5px; color:#FFFFFF; ">College Radio</a></li>
 <li><a href="/music/deans_list/" style="padding:5px; color:#FFFFFF; ">Dean's List</a></li>
 <li><a href="/music/discover_and_download/" style="padding:5px; color:#FFFFFF; ">Discover &amp; Download</a></li>
@@ -423,14 +374,16 @@ if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src;
 <li><a href="/music/freshmen/" style="padding:5px; color:#FFFFFF; ">The Freshmen</a></li>
 <li><a href="/music/the_hot_seat/" style="padding:5px; color:#FFFFFF; ">The Hot Seat</a></li>
 <li><a href="/music/house_band/" style="padding:5px; color:#FFFFFF; ">House Band</a></li>
-<li><a href="/music/tours/the_academy_is/" style="padding:5px; color:#FFFFFF; ">mtvU Presents: The Academy Is... </a></li>
+<li><a href="/music/tours/say_anything/" style="padding:5px; color:#FFFFFF; ">mtvU Presents: Say Anything</a></li>
+<!--<li><a href="/music/tours/the_academy_is/" style="padding:5px; color:#FFFFFF; ">mtvU Presents: The Academy Is... </a></li>
 <li><a href="/music/tours/annie_lennox/" style="padding:5px; color:#FFFFFF; ">mtvU Presents: Annie Lennox</a></li>
 <li><a href="/music/tours/motion_city_soundtrack/" style="padding:5px; color:#FFFFFF; ">mtvU Presents: Motion City Soundtrack</a></li>
-<li><a href="/music/tours/talib_kweli/" style="padding:5px; color:#FFFFFF; ">mtvU Presents: Talib Kweli</a></li>
-<li><a href="/music/ronnie_day_project/" style="padding:5px; color:#FFFFFF; ">The Ronnie Day Project</a></li>
+<li><a href="/music/tours/talib_kweli/" style="padding:5px; color:#FFFFFF; ">mtvU Presents: Talib Kweli</a></li>//-->
+
 <li><a href="/music/six_flags/2007/" style="padding:5px; color:#FFFFFF; ">Summer Concerts at Six Flags</a></li>
 <li><a href="/music/tours/" style="padding:5px; color:#FFFFFF; ">Tours on mtvU.com</a></li>
-<li><a href="/music/v-log/" style="padding:5px; color:#FFFFFF; ">Video Log</a></li>
+<li><a href="http://vjkimblog.mtvu.com/" style="padding:5px; color:#FFFFFF; ">VJ Kim's Blog</a></li>
+<li><a href="/music/woodie_awards/2007/" style="padding:5px; color:#FFFFFF; ">mtvU Woodie Awards 2007</a></li>
 </ul>
 </li>
 </ul>
@@ -439,24 +392,30 @@ if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src;
 <ul>
 <li><a href="/on_mtvu/" style="padding:5px; color:#FFFFFF; ">Shows Main</a></li>
 <li><a href="/music/backstage_pass/" style="padding:5px; color:#FFFFFF; ">Backstage Pass</a></li>
+<!--<li><a href="/on_mtvu/black_history/2008/" style="padding:5px; color:#FFFFFF; ">Black History Month</a></li>//-->
 <li><a href="http://www.bestfilmoncampus.com" style="padding:5px; color:#FFFFFF; ">Best Film on Campus</a></li>
 <li><a href="/on_mtvu/casting_call/" style="padding:5px; color:#FFFFFF; ">Casting Call</a></li>
+<!--<li><a href="/on_mtvu/cause_effect/" style="padding:5px; color:#FFFFFF; ">Cause Effect</a></li>//-->
 <li><a href="/on_mtvu/college_television_awards/" style="padding:5px; color:#FFFFFF; ">College Television Awards</a></li>
 <li><a href="/music/deans_list/" style="padding:5px; color:#FFFFFF; ">Dean's List</a></li>	
-<li><a href="/on_mtvu/does_this_look_infected/" style="padding:5px; color:#FFFFFF; ">Does This Look Infected?</a></li>
+<!--<li><a href="/on_mtvu/does_this_look_infected/" style="padding:5px; color:#FFFFFF; ">Does This Look Infected?</a></li>//-->
+<li><a href="/on_mtvu/editorial_board/" style="padding:5px; color:#FFFFFF; ">Editorial Board</a></li>
 <li><a href="/music/freshmen/" style="padding:5px; color:#FFFFFF; ">The Freshmen</a></li>
-<li><a href="/on_mtvu/fresh_produce/" style="padding:5px; color:#FFFFFF; ">Fresh Produce</a></li>
+<li><a href="/on_mtvu/fresh_produce/archive.jhtml" style="padding:5px; color:#FFFFFF; ">Fresh Produce</a></li>
+<li><a href="/on_mtvu/howdoisaythis/" style="padding:5px; color:#FFFFFF; ">How Do I Say This?</a></li>
+<li><a href="/uconnect/lessonslearned/" style="padding:5px; color:#FFFFFF; ">Lessons Learned</a></li>
 <li><a href="http://www.meetordelete.com/" style="padding:5px; color:#FFFFFF; ">Meet or Delete</a></li>
 <li><a href="/on_mtvu/ashbery/" style="padding:5px; color:#FFFFFF; ">mtvU Poet Laureate John Ashbery</a></li>
 <li><a href="/promos/" style="padding:5px; color:#FFFFFF; ">mtvU Promos</a></li>
 <li><a href="/on_mtvu/my_shot/" style="padding:5px; color:#FFFFFF; ">My Shot With...</a></li>
-<li><a href="/professors_strike_back/" style="padding:5px; color:#FFFFFF; ">Professors Strike Back</a></li>
-<li><a href="/on_mtvu/quad_squads/" style="padding:5px; color:#FFFFFF; ">Quad Squads</a></li>
-<li><a href="/on_mtvu/sexcred/" style="padding:5px; color:#FFFFFF; ">Sex Cred with Dr. Ruth</a></li>
-<li><a href="/on_mtvu/spring_break/2007/" style="padding:5px; color:#FFFFFF; ">Spring Break 2007</a></li>
+<!--<li><a href="/jobs/" style="padding:5px; color:#FFFFFF; ">The Opening</a></li>//-->
+<li><a href="http://professorsstrikeback.mtvu.com" style="padding:5px; color:#FFFFFF; ">Professors Strike Back</a></li>
+<!--<li><a href="/on_mtvu/quad_squads/" style="padding:5px; color:#FFFFFF; ">Quad Squads</a></li>//-->
+<!--<li><a href="/on_mtvu/sexcred/" style="padding:5px; color:#FFFFFF; ">Sex Cred with Dr. Ruth</a></li>//-->
 <li><a href="/on_mtvu/stand_in/" style="padding:5px; color:#FFFFFF; ">Stand In</a></li>
-<li><a href="/on_mtvu/student_bodies/" style="padding:5px; color:#FFFFFF; ">Student Bodies</a></li>
-<li><a href="/on_mtvu/sucks_less/" style="padding:5px; color:#FFFFFF; ">Sucks Less with Kevin Smith</a></li>	
+<!-- <li><a href="/on_mtvu/student_bodies/" style="padding:5px; color:#FFFFFF; ">Student Bodies</a></li>//-->
+<!--<li><a href="/on_mtvu/sucks_less/" style="padding:5px; color:#FFFFFF; ">Sucks Less with Kevin Smith</a></li>//-->
+<li><a href="/on_mtvu/the_feed/" style="padding:5px; color:#FFFFFF; ">The Feed</a></li>	
 <li><a href="/on_mtvu/schedule/" style="padding:5px; color:#FFFFFF; ">TV Schedule</a></li>
 <li><a href="/on_mtvu/vjs/" style="padding:5px; color:#FFFFFF; ">VJs</a></li>
 </ul>
@@ -468,18 +427,19 @@ if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src;
 <li><a href="/uconnect/" style="padding:5px; color:#FFFFFF; ">On Campus Main</a></li>
 <li><a href="http://www.halfofus.com/" style="padding:5px; color:#FFFFFF; ">Half of Us</a></li>
 <li><a href="http://www.bestmusiconcampus.com/" style="padding:5px; color:#FFFFFF; ">Best Music On Campus</a></li>
-<li><a href="/uconnect/campus_invasion_tour/" style="padding:5px; color:#FFFFFF; ">Campus Invasion Tour 2007</a></li>
+<li><a href="/uconnect/campus_invasion_tour/2008/" style="padding:5px; color:#FFFFFF; ">Campus Invasion Tour 2008</a></li>
 <li><a href="/creditcard/" style="padding:5px; color:#FFFFFF; ">Citi mtvU Card for College Students</a></li>
-<li><a href="/uconnect/devilcameonhorseback/" style="padding:5px; color:#FFFFFF; ">The Devil Came on Horseback Screenings</a></li>
-<li><a href="/uconnect/fulbright/" style="padding:5px; color:#FFFFFF; ">Fulbright-mtvU Fellowships</a></li>
+<!--<li><a href="/uconnect/darfur_now/" style="padding:5px; color:#FFFFFF; ">Darfur Now Screenings</a></li>//-->
+<!--<li><a href="/uconnect/devilcameonhorseback/" style="padding:5px; color:#FFFFFF; ">The Devil Came on Horseback Screenings</a></li>//-->
+<!--<li><a href="/uconnect/fulbright/" style="padding:5px; color:#FFFFFF; ">Fulbright-mtvU Fellowships</a></li>//-->
 <li><a href="/uconnect/request_mtvu/" style="padding:5px; color:#FFFFFF; ">Get mtvU on Campus</a></li>
-<li><a href="/uconnect/goodluckchuck/" style="padding:5px; color:#FFFFFF; ">Good Luck Chuck Screenings</a></li>
+<!--<li><a href="/uconnect/goodluckchuck/" style="padding:5px; color:#FFFFFF; ">Good Luck Chuck Screenings</a></li>//-->
 <!--<li><a href="/studentloan/" style="padding:5px; color:#FFFFFF; ">HigherEdLoans with mtvU Rewards</a></li>//-->
-<li><a href="/uconnect/lessonslearned/" style="padding:5px; color:#FFFFFF; ">Lessons Learned</a></li>	
-<li><a href="http://ebm.cheetahmail.com/r/regf2?aid=768004404&amp;n=1&amp;a=0" style="padding:5px; color:#FFFFFF; ">Newsletter Sign-Up</a></li>
+<li><a href="http://ebm.cheetahmail.com/r/regf2?aid=768004404&amp;n=1&amp;a=0" style="padding:5px; color:#FFFFFF; ">Procastinator Newsletter</a></li>
 <li><a href="/professors_strike_back/" style="padding:5px; color:#FFFFFF; ">Professors Strike Back</a></li>	
-<li><a href="/uconnect/roadtrip/" style="padding:5px; color:#FFFFFF; ">mtvU's Road Trip</a></li>	
-<li><a href="/on_mtvu/student_bodies/" style="padding:5px; color:#FFFFFF; ">Student Bodies</a></li>	
+<li><a href="http://www.mtvufulbright.com" style="padding:5px; color:#FFFFFF; ">Fulbright mtvU Blog</a></li>	
+<!--<li><a href="/uconnect/roadtrip/" style="padding:5px; color:#FFFFFF; ">mtvU's Road Trip</a></li>	//-->
+<!--<li><a href="/on_mtvu/student_bodies/" style="padding:5px; color:#FFFFFF; ">Student Bodies</a></li>	//-->
 <li><a href="/uconnect/what_is_mtvu/" style="padding:5px; color:#FFFFFF; ">What is mtvU?</a></li>	
 <li><a href="/uconnect/where_to_watch/" style="padding:5px; color:#FFFFFF; ">Where To Watch</a></li>	
 </ul>
@@ -489,19 +449,17 @@ if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src;
 <li><a href="/contests/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_win.gif" alt="WIN" name="nav5" width="54" height="32" border="0" id="nav5" onmouseover="MM_swapImage('nav5','','/navbar_woodies_global/nav_win-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a>
 <ul>
 <li><a href="/contests/" style="padding:5px; color:#FFFFFF; ">Win Main</a></li>
+<li><a href="/contests/summer_festival/" style="padding:5px; color:#FFFFFF; ">Summer Festival FlyAway </a></li>
 <li><a href="http://www.bestfilmoncampus.com" style="padding:5px; color:#FFFFFF; ">Best Film on Campus</a></li>
-<li><a href="http://www.bestmusiconcampus.com/" style="padding:5px; color:#FFFFFF; ">Best Music On Campus</a></li>
+<!--<li><a href="http://www.bestmusiconcampus.com/" style="padding:5px; color:#FFFFFF; ">Best Music On Campus</a></li>/-->
+<!--<li><a href="/contests/citi/warm_your_winter/" style="padding:5px; color:#FFFFFF; ">Citi Warm Your Winter Sweepstakes</a></li>/-->
 <li><a href="/contests/contest_winners/" style="padding:5px; color:#FFFFFF; ">Contest Winners</a></li>
-<li><a href="http://www.digitalincubator.net" style="padding:5px; color:#FFFFFF; ">Digital Incubator</a></li>
-<li><a href="http://www.yourticket2drive.com" target="new" style="padding:5px; color:#FFFFFF; ">Ford Your Ticket 2 Drive</a></li>
+<!--<li><a href="http://www.digitalincubator.net" style="padding:5px; color:#FFFFFF; ">Digital Incubator</a></li>/-->
 <li><a href="/on_mtvu/fresh_produce/" target="new" style="padding:5px; color:#FFFFFF; ">Fresh Produce</a></li>
-<li><a href="/uconnect/fulbright/" style="padding:5px; color:#FFFFFF; ">Fulbright-mtvU Fellowships</a></li>
-<li><a href="/music/woodie_awards/2007/sweeps/garnier.jhtml" style="padding:5px; color:#FFFFFF; ">Garnier Fructis "Rock Your Style" Sweepstakes</a></li>
+<!--<li><a href="/uconnect/fulbright/" style="padding:5px; color:#FFFFFF; ">Fulbright-mtvU Fellowships</a></li>/-->
 <li><a href="/contests/mtvu_grants/" style="padding:5px; color:#FFFFFF; ">mtvU Grants</a></li>
-<li><a href="/music/woodie_awards/2007/sweeps/eligible.jhtml" style="padding:5px; color:#FFFFFF; ">mtvU Vote Your Way To The Woodies Sweepstakes</a></li>
-<li><a href="/contests/hp/" style="padding:5px; color:#FFFFFF; ">mtvU and HP's Back to School Sweeps</a></li>
-<li><a href="/contests/nyt_essay/" style="padding:5px; color:#FFFFFF; ">The New York Times College Essay Contest</a></li>
-<!--<li><a href="http://neutrogena.mtvu.com" style="padding:5px; color:#FFFFFF; ">VMA Correspondent Search</a></li>//-->
+
+<!--<li><a href="/contests/nationalpoetryseries/2007/" style="padding:5px; color:#FFFFFF; ">The National Poetry Series mtvU Prize</a></li>/-->
 </ul>
 </li>
 </ul>
@@ -509,14 +467,14 @@ if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src;
 <li><a href="/on_mtvu/video_submissions/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_submit.gif" alt="SUBMIT" name="nav6" width="79" height="32" border="0" id="nav6" onmouseover="MM_swapImage('nav6','','/navbar_woodies_global/nav_submit-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a>
 <ul>
 <li><a href="/on_mtvu/video_submissions/" style="padding:5px; color:#FFFFFF; ">Submit Main</a></li>
-<li><a href="/music/backstage_pass/" style="padding:5px; color:#FFFFFF; ">Ask The Band</a></li>
+<li><a href="/music/backstage_pass/questions.jhtml" style="padding:5px; color:#FFFFFF; ">Ask The Band</a></li>
 <li><a href="http://www.bestfilmoncampus.com" style="padding:5px; color:#FFFFFF; ">Best Film on Campus</a></li>
 <li><a href="http://www.bestmusiconcampus.com/" style="padding:5px; color:#FFFFFF; ">Best Music On Campus</a></li>
 <li><a href="/on_mtvu/casting_call/" style="padding:5px; color:#FFFFFF; ">Casting Calls</a></li>
-<li><a href="http://www.digitalincubator.net" style="padding:5px; color:#FFFFFF; ">Digital Incubator</a></li>
+<!--<li><a href="http://www.digitalincubator.net" style="padding:5px; color:#FFFFFF; ">Digital Incubator</a></li>/-->
 <li><a href="/uconnect/what_is_mtvu/" style="padding:5px; color:#FFFFFF; ">Feedback</a></li>
 <li><a href="/on_mtvu/fresh_produce/" style="padding:5px; color:#FFFFFF; ">Fresh Produce</a></li>
-<li><a href="/uconnect/fulbright/" style="padding:5px; color:#FFFFFF; ">Fulbright-mtvU Fellowships</a></li>
+<!-- <li><a href="/uconnect/fulbright/" style="padding:5px; color:#FFFFFF; ">Fulbright-mtvU Fellowships</a></li>/-->
 <li><a href="/on_mtvu/video_submissions/" style="padding:5px; color:#FFFFFF; ">Submissions</a></li>	
 </ul>
 </li>
@@ -525,6 +483,9 @@ if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src;
 <li><a href="/on_mtvu/activism/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_activism.gif" alt="ACTIVISM" name="nav7" width="92" height="32" border="0" id="nav7" onmouseover="MM_swapImage('nav7','','/navbar_woodies_global/nav_activism-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a>
 <ul>
 <li><a href="/on_mtvu/activism/" style="padding:5px; color:#FFFFFF; ">Activism Main</a></li>
+<li><a href="http://www.posornot.com" style="padding:5px; color:#FFFFFF; ">Pos or Not</a></li>
+<li><a href="/uconnect/darfur_now/" style="padding:5px; color:#FFFFFF; ">Darfur Now Screenings</a></li>
+
 <li><a href="http://ecocollegechallenge.com/" target="new" style="padding:5px; color:#FFFFFF; ">Ecomagination Challenge</a></li>
 <li><a href="/uconnect/fulbright/" style="padding:5px; color:#FFFFFF; ">Fulbright-mtvU Fellowships</a></li>
 <li><a href="/music/instant_karma/" style="padding:5px; color:#FFFFFF; ">Instant Karma</a></li>
@@ -536,14 +497,14 @@ if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src;
 <li><a href="/on_mtvu/activism/divestment.jhtml" style="padding:5px; color:#FFFFFF; ">Sudan: Divestment</a></li>
 <li><a href="/on_mtvu/activism/stand/search.jhtml" style="padding:5px; color:#FFFFFF; ">Sudan: <i>Translating Genocide</i></a></li>	
 <li><a href="/on_mtvu/activism/resources.jhtml" style="padding:5px; color:#FFFFFF; ">Sudan: Resources</a></li>
-<li><a href="/on_mtvu/activism/nick_kristof/2007/" style="padding:5px; color:#FFFFFF; ">Win a Trip with Nick Kristof</a></li>	
+<!-- <li><a href="/on_mtvu/activism/nick_kristof/2007/" style="padding:5px; color:#FFFFFF; ">Win a Trip with Nick Kristof</a></li>	/-->
 </ul>
 </li>
 </ul>
 <ul id="MenuBar8" class="MenuBarHorizontal">
-<li><a href="/on_mtvu/the_opening/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_jobs.gif" alt="JOBS" name="nav8" width="64" height="32" border="0" id="nav8" onmouseover="MM_swapImage('nav8','','/navbar_woodies_global/nav_jobs-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a>
+<li><a href="http://jobs.mtvu.com/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_jobs.gif" alt="JOBS" name="nav8" width="64" height="32" border="0" id="nav8" onmouseover="MM_swapImage('nav8','','/navbar_woodies_global/nav_jobs-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a>
 <ul>
-<li><a href="/on_mtvu/the_opening/" style="padding:5px; color:#FFFFFF; ">The Opening</a></li>
+<li><a href="http://jobs.mtvu.com/" style="padding:5px; color:#FFFFFF; ">Jobs Main</a></li>
 <li><a href="/jobs/campus_reps/" style="padding:5px; color:#FFFFFF; ">Campus Reps</a></li>
 <li><a href="/uconnect/work_at_mtvu/" style="padding:5px; color:#FFFFFF; ">mtvU Internships</a></li>
 <li><a href="/uconnect/work_at_mtvu/" style="padding:5px; color:#FFFFFF; ">Work at mtvU</a></li>
@@ -586,22 +547,10 @@ var MenuBar11 = new Spry.Widget.MenuBar("MenuBar11", {imgDown:"/navbar_woodies_g
 
 </div>
 
-</div> 
+</div>
 
-<div style="position:absolute; top:14px; width:100%;">
+<div style="position:absolute; top:1px; width:100%;">
 <table width="766" border="0" cellspacing="0" cellpadding="0" align="center">
-
-<!-- old rounded top
-<tr>
-<td width="16" valign="top" align="left"><img src="/images/cornerLT.gif" width="16" height="16" alt="" border="0"></td>
-<td width="161" valign="top" align="left" bgcolor="#ffffff"></td>
-<td width="15" valign="top" align="left" bgcolor="#ffffff"></td>
-<td width="384" valign="top" align="left" bgcolor="#ffffff"></td>
-<td width="15" valign="top" align="left" bgcolor="#ffffff"></td>	
-<td width="161" valign="top" align="left" bgcolor="#ffffff"></td>	
-<td width="16" valign="top" align="left"><img src="/images/cornerRT.gif" width="16" height="16" alt="" border="0"></td>	
-</tr>
-//-->
 
 <tbody><tr>
 <td width="16" height="1" valign="top" align="left"></td>
@@ -620,14 +569,14 @@ var MenuBar11 = new Spry.Widget.MenuBar("MenuBar11", {imgDown:"/navbar_woodies_g
 
 <div id="topad">
 <script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
-var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;dcopt=ist;!category=video;homepage=takeover;node=survey;u=|page-home|dcopt-ist|!category-video|homepage-takeover|node-survey;sz=728x90;tile=1;ord=' + ord + '?"><\/SCR' + 'IPT>';
+var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;dcopt=ist;!category=video;homepage=takeover;u=|page-home|dcopt-ist|!category-video|homepage-takeover;sz=728x90;tile=1;ord=' + ord + '?"><\/SCR' + 'IPT>';
 document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;dcopt=ist;!category=video;homepage=takeover;node=survey;u=|page-home|dcopt-ist|!category-video|homepage-takeover|node-survey;sz=728x90;tile=1;ord=760568021195475500?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;dcopt=ist;!category=video;homepage=takeover;u=|page-home|dcopt-ist|!category-video|homepage-takeover;sz=728x90;tile=1;ord=897854799170421800?"></script>
 </div>
 
 </div>
 </div>
-<img src="/images/spacer.gif" width="1" height="149" alt="" border="0">	
+<img src="/images/spacer.gif" width="1" height="147" alt="" border="0">	
 
 </td>
 </tr>
@@ -652,7 +601,7 @@ document.write(ad);
 <td valign="top" align="left" colspan="2" bgcolor="#ffffff">
 <div id="leftColumn">
 <div class="sideNav">
-<img src="/images/spacer.gif" width="1" height="180" align="right" border="0">
+<img src="/images/spacer.gif" width="1" height="10" align="right" border="0">
 
 <!--googleoff: index-->
 
@@ -671,9 +620,10 @@ document.write(ad);
 
 </div><br clear="all">
 
-<a href="/music/woodie_awards/2007/"><img src="/music/woodie_awards/2007/images/woodiebubble_vote_now.gif" width="176" height="271" alt="" border="0"></a>
+<a href="http://www.bestmusiconcampus.com"><img src="/sitewide/promoimages/home/bmoc_2006_join.gif" width="176" height="271" alt="" border="0"></a>
 
-<!--<a href="http://www.bestmusiconcampus.com"><img src="/sitewide/promoimages/home/bmoc_2006_join.gif" width="176" height="271" alt="" border="0"></a>//-->
+<!--<a href="/music/woodie_awards/2007/"><img src="/music/woodie_awards/2007/images/bubble_watch_176X271.gif" width="176" height="271" alt="" border="0"></a>//-->
+
 </div>
 <br>&nbsp;	
 </td>
@@ -879,13 +829,14 @@ This document is the sole statement of the Site's Privacy Policy with respect to
 <td valign="top" align="left" colspan="2" bgcolor="#ffffff">
 <!-- sponsored links //-->
 
-<br>
+<a href="https://www.citicards.com/cards/acq/Apply.do?app=COLLEGE&amp;sc=4C7CW357&amp;m=D0MT000006W&amp;langId=EN&amp;siteId=CB&amp;B=V&amp;screenID=3002" target="new"><img src="/sitewide/promoimages/credit_card/citi/2008/v2/citibanners160x100z1.jpg" width="160" height="100" border="0" alt="Click here to get the card that can get you backstage!"></a><br><br>
+
 <!-- ad banner //-->
 
 <script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
-var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;!category=video;homepage=takeover;node=survey;u=|page-home|!category-video|homepage-takeover|node-survey;sz=160x600;tile=2;ord=' + ord + '?"><\/SCR' + 'IPT>';
+var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;!category=video;homepage=takeover;u=|page-home|!category-video|homepage-takeover;sz=160x600;tile=2;ord=' + ord + '?"><\/SCR' + 'IPT>';
 document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;!category=video;homepage=takeover;node=survey;u=|page-home|!category-video|homepage-takeover|node-survey;sz=160x600;tile=2;ord=760568021195475500?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;!category=video;homepage=takeover;u=|page-home|!category-video|homepage-takeover;sz=160x600;tile=2;ord=897854799170421800?"></script>
 
 <br>&nbsp;
 </td>	
@@ -899,49 +850,53 @@ document.write(ad);
 <tr>
 <td valign="top" align="center" colspan="7">
 
+<script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
+var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;!category=video;homepage=takeover;node=survey;u=|page-home|!category-video|homepage-takeover|node-survey;sz=1x2;tile=3;ord=' + ord + '?"><\/SCR' + 'IPT>';
+document.write(ad);
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;!category=video;homepage=takeover;node=survey;u=|page-home|!category-video|homepage-takeover|node-survey;sz=1x2;tile=3;ord=897854799170421800?"></script>
+
 <div class="footer">
-<table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" valign="top">
+<table align="left" width="100%" cellpadding="0" cellspacing="0" border="0" valign="top">
 <tbody><tr bgcolor="#ffffff">
-<td valign="top" align="center">
+<td valign="top" width="628" style="padding-left:10px; padding-top:4px; padding-bottom:7px; ">
 <a href="/about/">About mtvU</a>&nbsp;&nbsp;
 <a href="/about/terms_of_use/">Terms of Use</a>&nbsp;&nbsp;
-<a href="/about/privacy_policy/" class="strongLink">Privacy Policy/Your CA Privacy Policy</a>&nbsp;&nbsp;
+<a href="/about/privacy_policy/"><strong>Privacy Policy/Your CA Privacy Policy</strong></a>&nbsp;&nbsp;
 <a href="/about/copyright/">Copyright Compliance Policy</a>
+<br>© 2008 MTV Networks On Campus Inc.
 </td>
+<td valign="top" width="138" align="right" style="padding-right:7px; padding-top:4px; padding-bottom:7px; "><img src="/images/logo_mtvn_white.gif" width="131" height="26"></td>
 </tr>
-<tr bgcolor="#ffffff">
-<td valign="top" align="center">© 2007 MTV Networks On Campus Inc.<br><br></td>
-</tr>
-<tr><td>&nbsp;</td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
 <tr>
-<td align="center">
+<td align="center" colspan="2">
 
 <div id="topad">
 <script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
-var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/btm_banner;page=home;!category=video;homepage=takeover;node=survey;!category=btm;u=|page-home|!category-video|homepage-takeover|node-survey|!category-btm;sz=728x90;tile=3;ord=' + ord + '?"><\/SCR' + 'IPT>';
+var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/btm_banner;page=home;!category=video;homepage=takeover;node=survey;!category=btm;pos=btm;u=|page-home|!category-video|homepage-takeover|node-survey|!category-btm|pos-btm;sz=728x90;tile=4;ord=' + ord + '?"><\/SCR' + 'IPT>';
 document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/btm_banner;page=home;!category=video;homepage=takeover;node=survey;!category=btm;u=|page-home|!category-video|homepage-takeover|node-survey|!category-btm;sz=728x90;tile=3;ord=760568021195475500?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/btm_banner;page=home;!category=video;homepage=takeover;node=survey;!category=btm;pos=btm;u=|page-home|!category-video|homepage-takeover|node-survey|!category-btm|pos-btm;sz=728x90;tile=4;ord=897854799170421800?"></script>
 </div>
 
 </td>
 </tr>
 </tbody></table>
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-
-</script>
-
+<!-- google analytics //-->
 <script type="text/javascript">
-
-_uacct = "UA-1064236-1";
-
-urchinTracker();
-
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1064236-1");
+pageTracker._initData();
+pageTracker._trackPageview();
 </script>
 
 </div>
 
-<script language="javascript"> 
+<script language="javascript">
 var orgID="5"
 var gateway="about"
 
@@ -949,14 +904,6 @@ var gateway="about"
 
 </td>
 </tr>	
-
-<!-- old rounded edge footer
-<tr width="766px">
-<td valign="top" align="left"><img src="/images/cornerLB.gif" width="16" height="16" alt="" border="0"></td>
-<td colspan="5" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
-<td valign="top" align="left"><img src="/images/cornerRB.gif" width="16" height="16" alt="" border="0"></td>	
-</tr>	
-//-->
 
 <tr width="766px">
 <td valign="top" align="left"></td>
@@ -969,11 +916,6 @@ var gateway="about"
 &nbsp;<br>&nbsp;<br>&nbsp;
 
 </div>
-<script type="text/javascript">
-function popMacPlayer(args) {
-window.open("/sitewide/flash/video/flvplayer.jhtml?" + args, "macPlayer", 'width=360,height=300,status=no,resizable=no');
-}
-</script>
 
 
 
