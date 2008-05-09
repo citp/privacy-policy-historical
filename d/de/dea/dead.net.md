@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dead.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210143302id_/http%3A//www.dead.net/online-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dead.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509185435id_/http%3A//www.dead.net/online-privacy-notice) for the most accurate reproduction.*
 
 # Online Privacy Notice | Grateful Dead
 
@@ -25,48 +25,4 @@ The information we collect in connection with our online forums and communities 
 
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
 
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request.
-
-Agents and contractors of The Warner Music Group who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for The Warner Music Group. 
-
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
-
-If a Warner Music Group site discloses personally identifiable information to companies not owned by The Warner Music Group who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. [Instructions](/personal-info) on how to opt out from such disclosures. 
-
-The Warner Music Group may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [instructions](/stop) on how to make your request.
-
-Finally, Warner Music Group sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.  
-
-
-### Collection of Information by Third-Party Sites and Sponsors
-
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
-
-Warner Music Group sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. The Warner Music Group has no control over the third-party sponsors' use of this information. The Warner Music Group site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information. 
-
-[ Our advertisting policy.](/advertising)
-
-### Cookies
-
-To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
-
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.  
-
-
-### Our Commitment to Security
-
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
-
-### How You can Access or Correct Information
-
-[Instructions](/personal-info) on how you can access the personally identifiable information that this Warner Music Group site has collected about you online, or how to correct factual errors in such information.
-
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
-
-### Special Note for Parents
-
-The site you are visiting is one of the Warner Music Group general audience sites. For more information about our online privacy practices for children’s sites, consult the privacy notice at the children’s site in which you are interested.
-
-### How to Contact Us
-
-If you have any questions or concerns about the Warner Music Group online policy for this site or its implementation you may contact us at [webmaster@dead.net](mailto:webmaster@dead.net)
+We will disc
