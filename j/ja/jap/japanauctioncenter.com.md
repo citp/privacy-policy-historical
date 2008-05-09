@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the japanauctioncenter.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507164623id_/http%3A//japanauctioncenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanauctioncenter.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509024127id_/http%3A//www.japanauctioncenter.com/privacy.php) for the most accurate reproduction.*
 
-# Japan Auction Center
+# Japan Auctions with 1 click!
 
 At **japanauctioncenter.com** , we collect information necessary to process your purchase. That information is delivered directly to our order department. We may use your order information to send you notices regarding the products and services we believe may be of interest to you.
 
