@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesup.net privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225234045id_/http%3A//www.yesup.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesup.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509052125id_/http%3A//www.yesup.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Private Policy
 
