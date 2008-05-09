@@ -1,108 +1,54 @@
-> *The following text is extracted and transformed from the standard-freeholder.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221013416id_/http%3A//www.standard-freeholder.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standard-freeholder.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509161955id_/http%3A//www.americanhomeguides.com/privacy-policy.html) for the most accurate reproduction.*
 
-# The Cornwall Standard Freeholder - Ontario, CA
+# American Home Guides Homebuyers Privacy Statement
 
-## Osprey Media.
+|  |  | [New Home Search](http://www.americanhomeguides.com/) | **PRIVACY POLICY**  
+---  
+**WE TAKE YOUR PRIVACY VERY SERIOUSLY**  
+  
+| The information we collect from you is used to improve your experience in using our sites, products and services, to aid in communication and to notify you of homes, services and other information we think may be of interest to you.  
+**1\. Information Collection and Use**  
+  
+| American Home Guides collects information from our users at several different points on our website including when you register with us, request information, schedule a sales center appointment, purchase listing space, and enter sweepstakes or sign up for our newsletter. The information collected includes, but is not limited to, personal information such as name, mailing address, email address, phone, income, age, occupation, financing needs, price and type of home you are seeking, reasons for moving, current housing situation, size of family, your home shopping experience, etc. American Home Guides is the sole owner of the information collected on our websites. We share this information with our advertisers that you have requested information from, or with any advertiser we feel offers a product or service you might be interested in learning about. Such advertisers may include builders, real estate agents, mortgage companies, home furnishing companies and other companies offering products or services connected with home buying, relocation, home maintenance and living in a home. Once you have completed a form, your information will be sent to one or more of our participating advertisers who will contact you by phone, U.S. postal mail service and/or by email. By submitting a form you are consenting to receive telephone calls and/or emails from our participating advertisers even if you have previously listed yourself on any Do-Not-Call Registry.  
+| We request information from the user on several different forms including our registration forms, Rapid Request, brochure request, information request, VIP tour request, sweepstakes entry and newsletter sign up forms. Here a user must provide contact information (like name, address, and phone number). This information is used for our advertisers to contact the user, sign up for newsletter and/or sweepstakes, and receive information. You may receive emails from time to time. Users who no longer wish to receive our information may opt-out of receiving these communications by emailing us. It may take several days to completely remove a user from all of our lists.  
+| Like many Web sites on the Internet, we automatically track certain information about you as you visit and use our Sites to help us to better understand how the Sites are being used and how we can enhance your overall experience on each Site and improve the information, Site functionality, products and services that we (and our advertisers and partners) provide to you. This information may include, for example, your computer's Internet Protocol ("IP") address, the URLs and Site pages you've visited, the number of times you visit each Site page, what downloads and/or search queries you have made, how long you spent on particular sections of each Site and on each Site generally, and your browser type. This automatically gathered data includes information provided through the use of "cookies" (which is described in more detail below). Through the cookies, we are able to track your visit through our Sites and we report all details, including all the personal information you previously provided to us to our advertisers whose information you reviewed while visiting our Sites.   
+| As you visit the Sites, be aware that third parties may at times be able to gather information from and about you. For example, third party advertiser servers, companies that place advertisements on the Sites, our partners and affiliates, and other companies offering products or services through one or more of the Sites may use cookies to collect, store and use information about you and may collect information that you submit. American Home Guides' affiliates, partners, service providers and other entities that have links on one or more of the Sites may also collect information about you when you visit their Web sites or otherwise communicate with them. Although we may encourage such third parties to adopt and follow their own consumer privacy policies, we are not responsible for their collection and use of user information. The information practices of those Web sites linked to one or more of the Sites are not covered by this Privacy Policy. You should refer to the privacy policies and statements of other Web sites or contact the respective Webmasters of those Web sites to obtain information regarding their information collection, use and disclosure policies.  
+| We may link information collected from you through various means, including information collected automatically and through the use of cookies and purchase information, or other Personal Information you provide to help us (or our service providers and listing providers, partners or affiliates) offer content (including, without limitation, listing recommendations), advertisements, products and services that we believe will be of interest to you, pre-populate certain data-fields (to assist in your registration or subsequent use of the tools and/or services available on the Sites), and share such information among the Sites. In addition, we may share this information, in aggregate form, with our current and potential advertisers and service providers so they can present advertisements more effectively.  
+| The Personal Information you provide when you become a registered user or customer of one of the Sites is used primarily to help us customize your online experience, increase the convenience of accessing new tools, products and services, and, if applicable, provide the products and/or services you purchase. This Personal Information may also be shared among the Sites to make your use of the Sites more convenient by, for example, limiting the number of times you have to register with us. Your email address serves as a unique identifier in our record system, and it is used together with your password to prevent unauthorized access to any information you choose to store on the Sites. The data you give us about your personal preferences and demographics (e.g., your age, ZIP code, occupation or the like) may be used to help us offer content, advertisements, products, and services that we believe will be of interest to you. In addition, we may share this information, in aggregate form, with our current and potential advertisers so that they can present advertisements more effectively.  
+| American Home Guides has a data sharing relationship with www.BeHomeWise.Com, a contact management service used by several builder advertisers. If you contact a builder who is a BeHomeWise client, American Home Guides will forward your information to that builder through BeHomeWise saving you the time and effort of providing your information directly to the builder.   
+| We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp).   
+| In the event we are required by law or by governmental authority through a lawfully issued subpoena or otherwise to provide any of your information, we will comply to their requests.  
+**2\. Security**  
+  
+| This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about SSL, follow this link [www.verisign.com ](http://www.verisign.com/)  
+| While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. ALL employees are kept up-to-date on our security and privacy practices. If you have any questions about the security at our website, you can send an email to [info@americanhomeguides.com](mailto:info@americanhomeguides.com)  
+**3\. Cookies**  
+  
+| A cookie is a piece of data stored on the user's hard drive containing information about the user. Unless you register with us, or complete an information or brochure request from, usage of a cookie is in no way linked to any personally identifiable information while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.  
+**4\. Log Files**  
+  
+| We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. No outside parties have access to this information.  
+**5\. Links**  
+  
+| This web site contains links to our advertisers' websites. Please be aware that American Home Guides is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.  
+**6\. Newsletter**  
+  
+| If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. To unsubscribe from our newsletter, please email us at [unsubscribe@americanhomebuyernews.com](mailto:unsubscribe@americanhomebuyernews.com). It may take several days to completely remove a user from all of our lists.   
+**7\. Surveys & Contests**  
+  
+| From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.  
+**8\. Notification of Changes**  
+  
+| We reserve the right to change our privacy policy at any time without notice. We will use information in accordance with the privacy policy under which the information was collected.   
+**9\. Questions or Concerns**  
+  
+| If you have any concerns about our privacy practices, please contact us at:
 
-### WEB-SITE PRIVACY POLICY
+Privacy Administrator  
+American Home Guides  
+9000 Sheridan Street - Suite 140  
+Pembroke Pines, Florida 33024
 
-Welcome to www.standard-freeholder.com (the "Site"). 
+Phone: (813) 282-3535  
+Email: [sales@americanhomeguides.com](mailto:sales@americanhomeguides.com)  
 
-> We understand that privacy online is important to users of our Site, especially when conducting business.  
->  This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without  
->  transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.standard-freeholder.com (collectively, "Services") ("Authorized Customers").  
-> 
-
-"Personally Identifiable Information" 
-
-> refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.  
-> 
-
-What Personally Identifiable Information is collected? 
-
-> We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.  
-> 
-
-What organizations are collecting the information? 
-
-> In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.  
-> 
-
-How does the Site use Personally Identifiable Information? 
-
-> We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.  
-> 
-
-With whom may the information may be shared? 
-
-> Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf.  
-> 
-
-How is Personally Identifiable Information stored? 
-
-> Personally Identifiable Information collected by www.standard-freeholder.com is securely stored and is not accessible to third parties or employees of www.standard-freeholder.com except for use as indicated above.   
-> 
-
-What choices are available to Visitors regarding collection, use and distribution of the information? 
-
-> Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)  
-> 
-
-Are Cookies Used on the Site? 
-
-> Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.  
-> 
-
-How does www.standard-freeholder.com use login information? 
-
-> www.standard-freeholder.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.  
-> 
-
-What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site? 
-
-> www.standard-freeholder.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
->  Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.  
->  Our privacy policy does not cover their collection or use of this information.  
->  Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.  
-> 
-
-How does the Site keep Personally Identifiable Information secure? 
-
-> All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.  
-> 
-
-How can Visitors correct any inaccuracies in Personally Identifiable Information? 
-
-> Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)  
-> 
-
-Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site? 
-
-> We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.  
-> 
-
-What happens if the Privacy Policy Changes? 
-
-> We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.  
-> 
-
-Links: 
-
-> This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.  
-> 
-
-_Contacting the Privacy Manager_  
-The Privacy Manager  
-Osprey Media  
-100 Renfrew Drive, Suite 110  
-Markham,Ontario  
-L3R 9R6  
-905-752-1132 Ext 251  
-[privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)
-
-Any rights not expressly granted herein are reserved.  
-© 2007 www.standard-freeholder.com, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
-
-* * *
-
-COPYRIGHT NOTICE.© 1999-2007 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.standard-freeholder.com ,All rights reserved. 
