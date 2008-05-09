@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rdmag.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011153850id_/http%3A//www.rdmag.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdmag.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509191437id_/http%3A//www.rdmag.com/privacy.html) for the most accurate reproduction.*
 
-# R & D Magazine
+# Privacy Policy - R & D
 
 **Overview** [www.rdmag.com](http://www.rdmag.com/) appreciates your visiting this web site. Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.
 
