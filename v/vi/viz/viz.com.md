@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viz.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226223459id_/http%3A//www.viz.com/termsofuse/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viz.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509134434id_/http%3A//www.viz.com/termsofuse/privacy.php) for the most accurate reproduction.*
 
 # VIZ, LLC . privacy policy
 
