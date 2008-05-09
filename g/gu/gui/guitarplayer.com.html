@@ -1,261 +1,458 @@
-<!--The following is the downloaded HTML source of the guitarplayer.com privacy policy that was archived on 2007-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225151734id_/http%3A//www.guitarplayer.com/privacy-policy-revised) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guitarplayer.com privacy policy that was archived on 2008-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509140906id_/http%3A//www.guitarplayer.com/privacy-policy-revised) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<!-- mhybrid.master -->
-
-<title>Guitar Player : Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- home.master --><head><title>Guitar Player : The Complete Electric Guitar Package</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Guitar Player's  Page in the Privacy Policy section is the Musician’s source of information relating to Privacy Policy, guitar player magazine, instrument news">
-<meta name="keywords" content="Privacy Policy, guitar player magazine, instrument news, acoustic guitar, electric guitar lessons, music tutorials, rock videos, amplifiers, slide guitar, prize giveaways, product reviews, bass player gear, beginner musician tips, musicians, blues guitarists, jazz, heavy metal licks, guitar enthusiast tabs, tab sheets, newbay media, guitar artists information, entertainment news, music links, folk artist, demos">
+<meta name="description" content="Guitar Player magazine is the complete acoustic and electric guitar package. Featuring free online acoustic and electric guitar lessons, tutorials and videos for both beginner and professional.">
+<meta name="keywords" content="guitar player magazine, instrument news, acoustic guitar, electric guitar lessons, music tutorials, rock videos, amplifiers, slide guitar, prize giveaways, product reviews, bass player gear, beginner musician tips, musicians, blues guitarists, jazz, heavy metal licks, guitar enthusiast tabs, tab sheets, newbay media, guitar artists information, entertainment news, music links, folk artist, demos">
 <meta name="robots" content="index,follow">
 <base href="http://www.guitarplayer.com/">
+<meta name="verify-v1" content="YEJjWaku69DZHyzFvWH7xLU64xL6INt5X+pFLNIyiN8=">
 <link rel="icon" href="graphics/favicon.ico">
 <link rel="shortcut icon" href="graphics/favicon.ico">
-<script language="JavaScript" type="text/javascript">
-<!--
-function init(){
-	if (document.getElementsByTagName && document.getElementById){
-		var spans=document.getElementsByTagName("span")
-		for (var i=0; i<spans.length; i++){
-			var cur=spans[i];
-			if (cur.className=="ad"){
-				if (cur.offsetWidth<500){
-					cur.parentNode.className="inner2";
-					document.getElementById("rightsideadvert").style.top="13px";
-				}
-				else {
-					cur.parentNode.className="inner1";
-					document.getElementById("rightsideadvert").style.top="42px";
-				}
-			}
-			else if (cur.className=="imgwidth" && cur.parentNode.className=="inlineadvert"){
-				if (cur.offsetWidth>300){
-					cur.parentNode.className="inlineadvertfull";
-				}
-			}
-			else if (cur.className=="imgwidth" && cur.parentNode.className=="text") {
-				if (cur.offsetWidth<300){
-					cur.parentNode.style.width=cur.offsetWidth+"px";
-				}
-				else {
-					cur.parentNode.style.width="390px";
-				}
-			}
-		}
-	}
+
+<script language="JavaScript" type="text/javascript" src="/includes/stylesheetyes.js"></script>
+<link rel="stylesheet" media="print" href="/includes/print.css">
+<link rel="stylesheet" media="all" href="/includes/colours.css">
+
+<script type="text/javascript" language="javascript">
+
+function check() {
+       // alert("asD");
+    if (document.getElementById('search').value ==" " || document.getElementById('search').value =="keyword")
+    {
+        alert("asdf");
+        document.getElementById('search').focus();
+    }
+    else
+    {
+        window.location.href="searchdf15.html?mnu_id=364";
+
+    }
 }
 
-window.onload=init
-//-->
+
+
+// sniff for browser
+
+	ie	= (document.all && !window.opera);
+	dom 	= (document.getElementById && !window.opera);
+	opera 	= (window.opera);
+
+// this will dynamically create an iframe
+// needs to be called at the onload event and target the id value of the layer we want to appear on top of active content
+// it will track the layers position automatically and size and position the iframe automatically to fit the layer
+
+function activecontentHider(id) {
+	if (ie) {
+		el = document.getElementById(id);
+		ifrm = document.createElement("IFRAME");
+		ifrm.setAttribute("id", "dummyFRM");
+		ifrm.setAttribute("src", "#");
+		ifrm.setAttribute("scroll", "no");
+		ifrm.setAttribute("frameborder", "0");
+		ifrm.style.setAttribute("position", "absolute");
+		ifrm.style.setAttribute("visibility", "hidden");
+		// better for IE5.5 to use old filter...
+		ifrm.style.filter='Alpha(opacity=0)';
+		ifrm.style.width = el.offsetWidth + "px";
+		ifrm.style.height = el.offsetHeight + "px";
+		ifrm.style.left = el.offsetLeft + "px";
+		ifrm.style.top = el.offsetTop + "px";
+		ifrm.style.zIndex = el.style.zIndex-1;
+		document.body.appendChild(ifrm);
+ }
+}
+
+// this hides elements
+// for opera we resize the flash movie back to original size
+// arguments for the loadflash() function are id of layer, url of flash movie, width and height.
+
+function hideDiv(id){
+if (ie) {
+	document.getElementById(id).style.visibility = "hidden";
+	ifrm.style.visibility = "hidden";
+ }
+else if (dom) {
+	document.getElementById(id).style.visibility="hidden";
+ }
+ else if (opera) {
+	document.getElementById(id).style.visibility="hidden";
+	loadFlash('flashLYR','http://guitarplayer.com/matrix.swf',500,300);
+ }
+}
+
+// this shows elements
+// for opera we resize the flash movie to a smaller size so as to allow the layer to show.
+// arguments for the loadflash() function are id of layer, url of flash movie, width and height.
+
+function showDiv(id){
+if (ie) {
+	document.getElementById(id).style.visibility="visible";
+	ifrm.style.visibility = "visible";
+}
+else if (dom) {
+	document.getElementById(id).style.visibility="visible";
+}
+else if (opera) {
+	document.getElementById(id).style.visibility="visible";
+	loadFlash('flashLYR','http://guitarplayer.com/matrix.swf',500,161);
+ }
+}
+
+// dynamically write in a flash movie to replace the one in the document body.
+// you should keep a normal object / embed tag in the document body in case javascript is turned off.
+
+function loadFlash(id,theurl,width,height) {
+	document.getElementById(id).innerHTML ='<embed src="'+ theurl + '" width="'+ width + '" height="'+ height + '" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" scale="exactfit" /><\/embed>';
+}
+
+
+
+//24/7 setup
+var currUrl = document.location.href;
+var currUrlLen = currUrl.length;
+var currKeyword = "";
+var j = currUrlLen - 1;
+var numArray = new Array();
+var _version;
+var website = "www.guitarplayer.com";
+
+var urlVal = currUrl.substring(0, 27);
+
+var i=0;
+while(currUrl.charAt(j) != "/") {
+
+        //alert(currUrl.charAt(j));
+        numArray[i] = currUrl.charAt(j);
+        i++;
+        j--;
+
+}//end while
+
+i=0;
+var keywordVal = "";
+while(numArray[i]) {
+
+        keywordVal = "" + numArray[i] + "" + keywordVal;
+        i++;
+
+}//end while
+
+
+
+function advsubmitform()
+{
+    //document.advsearch.action = "search.aspx?mnu_id=8"
+    document.advsearch.submit();
+}
+
+
 </script>
 
-<script language="JavaScript" type="text/javascript" src="stylesheetyes.js"></script>
 
-<link rel="stylesheet" media="print" href="print.css">
-<link rel="stylesheet" media="all" href="colours.css">
+<!-- GP - Overlay Ad -->
+
+<!---1st Section: Delivery Attempt via JX tag.--->
+
+<script language="JavaScript1.1" src="http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@x42">
+</script>
+<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
+<script language="JavaScript"> <!--
+_version=10; //--> </script>
+<script language="JavaScript1.1"> <!--
+_version=11; // --> </script>
+<script language="JavaScript">
+<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
+<!--
+if (navigator.appVersion.indexOf('MSIE 3') != -1){
+document.write('<IFRAME WIDTH=425 HEIGHT=341 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://oasc08011.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@x42"></iframe>');
+} else if (_version < 11) {
+document.write ('<A HREF="http://oasc08011.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@x42"><IMG SRC="http://oasc08011.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@x42"></a>');
+}
+// -->
+</script>
+
+<!-- GP - Overlay Ad -->
+
+
+
+
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+
 </head>
-
-
 <body>
-<div id="story">
 
-<!-- start top -->
-<div class="top">
-<div class="hide">
-	<h1>Welcome to Guitar Player magazine - The complete acoustic and electric guitar package</h1>
-	<p>Guitar Player magazine is the complete acoustic and electric guitar package. Featuring free online acoustic and electric guitar lessons, tutorials and videos for both beginner and professional.</p>
-</div><div class="hide">Skip to [ <a href="#search" accesskey="s">Search Facility</a> ]</div>
 
-<div class="hide">Skip to [ <a href="#content">Page Content</a> ]</div>
-<div class="hide">Skip to [ <a href="#skip11">End of Main Navigation</a> ]</div>
-<div class="topadvert">
-	<div class="inside">
+
+<div style="text-align: center; margin-top: 0px;">
+
+	<table align="center" style="border: 4px solid #ffffff; width: 925px; margin-bottom: 1px; margin-top: 0px;" bgcolor="#ffffff">
+		<tbody><tr>
+			<td bgcolor="#ffffff" valign="top">
 
 	<!-- Guitarplayer - Leaderboard -->
 
-	<script language="JavaScript1.1" src="https://oasc08.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@Top">
-	</script>
-	<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
 
-	<script language="JavaScript"> <!--
-	_version=10; //--> </script>
-	<script language="JavaScript1.1"> <!--
-	_version=11; // --> </script>
-	<script language="JavaScript">
-	<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
-	<!--
-	if (navigator.appVersion.indexOf('MSIE 3') != -1){
-	document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@Top"></iframe>');
-	} else if (_version < 11) {
-	document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@Top"><IMG SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@Top"></a>');
-	}
-	// -->
-	</script>
+<script type="text/javascript">
+
+var position = "Top";
+
+var adstream_jx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/" + website + "/index@" + position + "";
+
+if(currKeyword == "articleid")
+        adstream_jx_Url = adstream_jx_Url + "?articleid=" + keywordVal;
+
+if(currKeyword == "section")
+        adstream_jx_Url = adstream_jx_Url + "?section=" + keywordVal;
+
+
+var adstream_sx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_sx.ads/" + website + "/index@" + position + "";
+
+if(currKeyword == "articleid")
+        adstream_sx_Url = adstream_sx_Url + "?articleid=" + keywordVal;
+
+if(currKeyword == "section")
+        adstream_sx_Url = adstream_sx_Url + "?section=" + keywordVal;
+
+
+var adclick_nx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/click_nx.ads/" + website + "/index@" + position + "";
+
+if(currKeyword == "articleid")
+        adclick_nx_Url = adclick_nx_Url + "?articleid=" + keywordVal;
+
+if(currKeyword == "section")
+        adclick_nx_Url = adclick_nx_Url + "?section=" + keywordVal;
+
+
+var adstream_nx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_nx.ads/" + website + "/index@" + position + "";
+
+if(currKeyword == "articleid")
+        adstream_nx_Url = adstream_nx_Url + "?articleid=" + keywordVal;
+
+if(currKeyword == "section")
+        adstream_nx_Url = adstream_nx_Url + "?section=" + keywordVal;
+
+</script>
+
+<!---1st Section: Delivery Attempt via JX tag.--->
+<script language="JavaScript" type="text/javascript">
+<!--
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write (adstream_jx_Url);
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@Top"></script>
+<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
+<script language="JavaScript"> <!-- _version=10; //--> </script>
+
+<script language="JavaScript1.1"> <!-- _version=11; // --> </script>
+
+<script language="JavaScript">
+<!-- 3rd Section: Acts on results of Browser test with delivery via SX code -->
+<!--
+if (navigator.appVersion.indexOf('MSIE 3') != -1){
+document.write('<IFRAME WIDTH=728 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC=' + adstream_sx_Url + '></iframe>');
+} else if (_version < 11) {
+document.write ('<A HREF=' + adclick_nx_Url + '><IMG SRC=' + adstream_nx_Url + '></a>');
+}
+// -->
+</script>
+
 
 	<!-- Guitarplayer - Top Leaderboard -->
 
-	</div>
+			</td>
+		</tr>
+	</tbody></table>
 
 </div>
-<script language="JavaScript" type="text/javascript">
-function validateKeyWord(f,inp) {
-var sFind = Trim(inp.value)
-var spattern = /  /;
-	while (sFind.search(spattern) != -1) {
- 		sFind = sFind.replace('  ',' ')
-	}
-	if (sFind == 'Keyword') {
-		alert("No valid keyword entered")
-		return false
-	}
-	if (sFind == 'keyword') {
-		alert("No valid keyword entered")
-		return false
-	}
-	if (sFind == 'KEYWORD') {
-		alert("No valid keyword entered")
-		return false
-	}
 
-	if (sFind == 'Enter Keyword') {
-		alert("No valid keyword entered")
-		return false
-	}
-	if (sFind == 'Enter your Keyword') {
-		alert("No valid keyword entered")
-		return false
-	}
-	inp.value = sFind
-	return true
-}
-function Trim(s)
-{
-  // Remove leading spaces and carriage returns
-  while ((s.substring(0,1) == ' ') || (s.substring(0,1) == '\n') || (s.substring(0,1) == '\r'))
-  {
-    s = s.substring(1,s.length);
-  }
-  // Remove trailing spaces and carriage returns
-  while ((s.substring(s.length-1,s.length) == ' ') || (s.substring(s.length-1,s.length) == '\n') || (s.substring(s.length-1,s.length) == '\r'))
-  {
-    s = s.substring(0,s.length-1);
-  }
-  return s;
-}
-</script>
-<div class="sitesearch">
-  <form name="quicksearch" id="quicksearch" method="post" action="search.aspx?mnu_id=364">
-    <label for="search"><img src="graphics/search2.gif" alt="Search" width="59" height="10"></label>
-    <input name="search" type="text" id="search" style="width:98px;height:13px;font-size:smaller;" value="keyword" onfocus="if(this.value=='keyword' || this.value=='KEYWORD'){this.value=''}"><input name="imageField" type="image" src="graphics/search_go.gif" alt="Search" onclick="Javascript:return searchValidation();">
-  </form>
-</div><div class="mastnav"><ul><li><a onclick="javascript:return undourl();" href="subscribe">Subscribe</a></li></ul></div> <!-- Masthead Start -->
+
+
+<table width="928" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr>
+    <td background="graphics/shadow_left.jpg">&nbsp;</td>
+    <td width="900" bgcolor="#FFFFFF">
+    <div id="homepage">
+  <div class="top">
+	 <div class="hide">
+	<h1>Welcome to Guitar Player magazine - The complete acoustic and electric guitar package</h1>
+
+	<p>Guitar Player magazine is the complete acoustic and electric guitar package. Featuring free online acoustic and electric guitar lessons, tutorials and videos for both beginner and professional.</p>
+</div><div class="hide">Skip to [ <a href="#search" accesskey="s">Search Facility</a> ]</div>
+<div class="hide">Skip to [ <a href="#content">Page Content</a> ]</div>
+<div class="hide">Skip to [ <a href="#skip11">End of Main Navigation</a> ]</div>
 
 <div class="masthead">
+	<div class="logo"><a href="index.aspx"><img src="/graphics2/gp_logo_2.gif" alt="Guitar Player - Online Edition" width="199" height="62" border="0"></a></div>
 
-	<div class="logo"><a href="index.aspx"><img src="graphics/gplogo2.gif" alt="Guitar Player - Online Edition" title="Guitar Player - Online Edition" width="147" height="47" border="0"></a></div>
+
+<div class="newtest">
+  <form name="quicksearch" id="quicksearch" method="post" action="http://guitarplayer.com/search.aspx?mnu_id=364">
+   SEARCH&nbsp;<input name="search" type="text" id="search" style="width:98px;height:13px;font-size:smaller;" value="keyword" onfocus="if(this.value=='keyword' || this.value=='KEYWORD'){this.value=''}">
+   <input name="imageField" type="image" onclick="javascript:return searchValidation();" src="/graphics2/search_go.gif" alt="Search">
+  </form>
+</div>
+
+<div class="newtest1">
+
+
+<a onclick="javascript:return undourl();" href="/subscribe">Subscribe:</a>
+<select id="navcode" name="navcode">
+<option value="0" selected="1">choose one</option>
+<option value="1" onclick="javascript: document.location.href=&quot;http://www.guitarplayer.com/subscribe&quot;;">magazine</option>
+<option value="2" onclick="javascript: document.location.href=&quot;https://www.b2bmediaportal.com/register.aspx?fid=nbmn&amp;status=NEW&quot;;">newsletter</option>
+</select>
+
+
+</div>
+
 </div>
 <!-- Start top nav -->
 <div class="hide">Main Site Navigation</div>
 <div id="mainnav">
 	<div class="inner">
   <!-- navigation list-->
-<ul><li><a onclick="javascript:return dourl();" href="http://www.guitarplayer.com/this-month">THIS MONTH</a></li><li><a onclick="javascript:return dourl();" href="http://www.guitarplayer.com/artists">ARTISTS</a></li><li><a onclick="javascript:return dourl();" href="http://www.guitarplayer.com/gear">GEAR</a></li><li><a onclick="javascript:return dourl();" href="http://www.guitarplayer.com/lessons">LESSONS</a></li><li><a onclick="javascript:return dourl();" href="http://forums.musicplayer.com/ubbthreads.php?ubb=cfrm&amp;c=10">FORUM</a></li><li><a onclick="javascript:return dourl();" href="http://www.guitarplayer.com/giveaways">GIVEAWAYS</a></li><li><a onclick="javascript:return dourl();" href="http://www.guitarplayertv.com/">GUITAR PLAYER TV</a></li></ul><!-- end navigation list-->
+  <ul>
+  <li><a onclick="javascript:return dourl();" href="http://www.guitarplayer.com/this-month">THIS MONTH</a></li>
+  <li><a onclick="javascript:return dourl();" href="http://www.guitarplayer.com/artists">ARTISTS</a></li>
+  <li><a onclick="javascript:return dourl();" href="http://www.guitarplayer.com/gear">GEAR</a></li>
+  <li><a onclick="javascript:return dourl();" href="http://www.guitarplayer.com/lessons">LESSONS</a></li>
+  <li><a onclick="javascript:return dourl();" href="http://forums.musicplayer.com/ubbthreads.php?ubb=cfrm&amp;c=10">FORUM</a></li><li><a onclick="javascript:return dourl();" href="http://www.guitarplayer.com/giveaways">GIVEAWAYS</a></li><li></li>
+
+  </ul><!-- end navigation list-->
 
 
   <!-- end navigation list-->
-
   <!-- genre dropdown -->
-
-
-
-<form method="post" action="genre.aspx" name="genreform" id="genreform">
-<input type="hidden" name="genrename" value="">
-
-<select runat="server" id="navcode" name="navcode" onchange="javascript:return doGenre(this.value);"><option value="0" selected="1">YOUR STYLE</option><option value="http://www.guitarplayer.com/alternative">ALTERNATIVE</option><option value="http://www.guitarplayer.com/country">COUNTRY</option><option value="http://www.guitarplayer.com/blues">BLUES</option><option value="http://www.guitarplayer.com/experimental">EXPERIMENTAL</option><option value="http://www.guitarplayer.com/folk">FOLK</option><option value="http://www.guitarplayer.com/jazz">JAZZ</option><option value="http://www.guitarplayer.com/metal">METAL</option><option value="http://www.guitarplayer.com/rock">ROCK</option><option value="http://www.guitarplayer.com/world-music">WORLD MUSIC</option></select>
-<noscript>
-<input name="" type="submit" value="go" />
-</noscript>
-</form>
-
+   <select name="ctl00$navcode" id="ctl00_navcode" onchange="javascript:return doGenre(this.value);">
+	<option selected="selected" value="0">YOUR PLAYING STYLE</option>
+	<option value="/alternative">ALTERNATIVE</option>
+	<option value="/country">COUNTRY</option>
+	<option value="/blues">BLUES</option>
+	<option value="/experimental">EXPERIMENTAL</option>
+	<option value="/folk">FOLK</option>
+	<option value="/jazz">JAZZ</option>
+	<option value="/metal">METAL</option>
+	<option value="/rock">ROCK</option>
+	<option value="/world-music">WORLD MUSIC</option>
+</select>
  <!-- end genre dropdown -->
-  <div class="clear"><img src="graphics/spacer.gif" alt="" width="1" height="1"></div>
+  <div class="clear"><img src="/graphics2/spacer.gif" alt="" width="1" height="1"></div>
 	</div>
-
 </div>
 <div id="skip11"></div>
 <!-- end top nav -->
 
-</div>
-<!-- end top -->
-<!-- start main column containing div -->
-<div class="maincolumn" id="content">
+  </div>
 
-				<!-- start main layout table -->
-				<table cellpadding="0" cellspacing="0" border="0" class="maintable" summary="layout table">
-						<tbody><tr>
-								<td class="column1">
+  <div class="maincolumn" id="content">
 
-									<div class="hide">Skip to [ <a href="#subnavskip">End of Second Navigation</a> ]</div>
+
+  <div class="maintable" style="width: 165px;">
 
 
 
-<!--include file="mynav.asp" -->
+    	<table width="100%" border="0">
+          <tbody><tr>
+            <td width="200" valign="top">
 
-<div class="subnav">
-<h2>EXPERIMENTAL</h2><ul><li><a onclick="javascript:return urlsub();" href="http://www.guitarplayer.com/experimental/artists">ARTISTS</a></li><li><a onclick="javascript:return urlsub();" href="http://www.guitarplayer.com/experimental/lessons">LESSONS</a></li><li><a onclick="javascript:return urlsub();" href="http://www.guitarplayer.com/experimental/gear">GEAR</a></li></ul>
-</div>
+				<div class="column1">
 
+					<div class="subnav">
+					<h2>THIS MONTH</h2><ul><li><a onclick="javascript:return urlsub();" href="http://www.guitarplayer.com/this-month/artists">ARTISTS</a></li><li><a onclick="javascript:return urlsub();" href="http://www.guitarplayer.com/this-month/gear">GEAR</a></li><li><a onclick="javascript:return urlsub();" href="http://www.guitarplayer.com/this-month/lessons">LESSONS</a></li><li><a onclick="javascript:return urlsub();" href="http://www.guitarplayer.com/this-month/riffs">RIFFS</a></li><li><a onclick="javascript:return urlsub();" href="http://www.guitarplayer.com/this-month/buzz">BUZZ</a></li><li><a onclick="javascript:return urlsub();" href="http://www.guitarplayer.com/this-month/departments">DEPARTMENTS</a></li><li><a onclick="javascript:return urlsub();" href="http://www.guitarplayer.com/this-month/rants-and-raves">RANTS &amp; RAVES</a></li><li><a onclick="javascript:return urlsub();" href="http://www.guitarplayer.com/this-month/recording">RECORDING</a></li><li><a onclick="javascript:return urlsub();" href="http://www.guitarplayer.com/this-month/latest-news">LATEST NEWS</a></li></ul>
+					</div>
 
-<div class="sitenav">
-<ul><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/giveaways">GIVEAWAYS</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/subscribe">SUBSCRIBE</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/events">EVENTS</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/back-issues">BACK ISSUES</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/advertise">ADVERTISE</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/classifieds">CLASSIFIEDS</a></li><li><a onclick="javascript:return undourl();" href="https://www.b2bmediaportal.com/register.aspx?fid=nbmn&amp;status=NEW">NEWSLETTERS</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/product-spotlight">PRODUCT SPOTLIGHT</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/demo-room">DEMO ROOM</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/links">LINKS</a></li></ul>
+					<!--include file="mynav.asp" -->
 
-</div>
-
-
-<div id="subnavskip"></div><div class="hide">Skip to [ <a href="#networkskip">End of Music Player Network web site links</a> ]</div>
-
-<div class="mpnetwork"><a href="http://www.musicplayer.com"><img src="graphics/musicplayer.gif" alt="Music Player Network" title="Music Player Network" width="135" height="60" border="0"></a>
-  <ul class="storylist">
-    <li><a href="http://www.musicplayer.com">MusicPlayer.com</a></li>
-    <li><a href="http://www.mymusicplayertv.com">MyMusicPlayerTV.com</a></li>
-    <li><a href="http://www.guitarplayer.com">GuitarPlayer.com</a></li>
-    <li><a href="http://www.guitarplayertv.com">GuitarPlayerTV.com</a></li>
-    <li><a href="http://www.bassplayer.com">BassPlayer.com</a></li>
-
-    <li><a href="http://www.bassplayer.tv">BassPlayer.tv</a></li>
-    <li><a href="http://www.keyboardmag.com">KeyboardMag.com</a></li>
-    <li><a href="http://www.keyboardmag.tv">KeyboardMag.tv</a></li>
-    <li><a href="http://www.eqmag.com">EQmag.com</a></li>
+					<div class="sitenav">
+						<ul><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/giveaways">GIVEAWAYS</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/subscribe">SUBSCRIBE</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/events">EVENTS</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/back-issues">BACK ISSUES</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/advertise">ADVERTISE</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/classifieds">CLASSIFIEDS</a></li><li><a onclick="javascript:return undourl();" href="https://www.b2bmediaportal.com/register.aspx?fid=nbmn&amp;status=NEW">NEWSLETTERS</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/product-spotlight">PRODUCT SPOTLIGHT</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/demo-room">DEMO ROOM</a></li><li><a onclick="javascript:return undourl();" href="http://www.guitarplayer.com/links">LINKS</a></li></ul>
+					</div>
 
 
-  </ul>
-</div>
-<div id="networkskip"></div>
-<!-- Left Side Advert Start -->
-<div id="leftsideadvert">
+					<div id="subnavskip">
+					</div>
+
+					<div class="hide">
+						Skip to [ <a href="#networkskip">End of Music Player Network web site links</a> ]
+					</div>
+
+					<div class="mpnetwork"><a href="http://www.musicplayer.com"><img src="graphics/musicplayer.gif" alt="Music Player Network" title="Music Player Network" width="135" height="60" border="0"></a>
+					  <ul class="storylist">
+						<li><a href="http://www.musicplayer.com">MusicPlayer.com</a></li>
+						<li><a href="http://www.mymusicplayertv.com">MyMusicPlayerTV.com</a></li>
+						<li><a href="http://www.guitarplayer.com">GuitarPlayer.com</a></li>
+						<li><a href="http://www.guitarplayertv.com">GuitarPlayerTV.com</a></li>
+						<li><a href="http://www.bassplayer.com">BassPlayer.com</a></li>
+						<li><a href="http://www.bassplayer.tv">BassPlayer.tv</a></li>
+						<li><a href="http://www.keyboardmag.com">KeyboardMag.com</a></li>
+						<li><a href="http://www.keyboardmag.tv">KeyboardMag.tv</a></li>
+						<li><a href="http://www.eqmag.com">EQmag.com</a></li>
+					  </ul>
+					</div>
+
+
+				</div>
+
+				<div class="clear">
+					<p>&nbsp;</p>
+				</div>
+
+
+
+<div style="text-align: center; padding-right: 12px;">
 
 <!-- Guitarplayer - Left Tile 1 Ad -->
 <p>
 
-<script language="JavaScript1.1" src="https://oasc08.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@x11">
-</script>
-<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
-<script language="JavaScript"> <!--
-_version=10; //--> </script>
-<script language="JavaScript1.1"> <!--
-_version=11; // --> </script>
-<script language="JavaScript">
-<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
-<!--
-if (navigator.appVersion.indexOf('MSIE 3') != -1){
-document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@x11"></iframe>');
-} else if (_version < 11) {
-document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@x11"><IMG SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@x11"></a>');
-}
-// -->
+	<script type="text/javascript">
 
-</script>
+	var position = "x11";
+
+	var adstream_jx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/" + website + "/index@" + position + "";
+
+			adstream_jx_Url = adstream_jx_Url + "?section=" + keywordVal;
+
+	var adstream_sx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_sx.ads/" + website + "/index@" + position + "";
+
+			adstream_sx_Url = adstream_sx_Url + "?section=" + keywordVal;
+
+	var adclick_nx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/click_nx.ads/" + website + "/index@" + position + "";
+
+			adclick_nx_Url = adclick_nx_Url + "?section=" + keywordVal;
+
+	var adstream_nx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_nx.ads/" + website + "/index@" + position + "";
+
+			adstream_nx_Url = adstream_nx_Url + "?section=" + keywordVal;
+
+	</script>
+
+
+	<!---1st Section: Delivery Attempt via JX tag.--->
+	<script language="JavaScript" type="text/javascript">
+	<!--
+	   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+	   document.write (adstream_jx_Url);
+	   document.write ("'><" + "/script>");
+	//-->
+	</script><script language="JavaScript" type="text/javascript" src="http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@x11?section=privacy-policy-revised"></script>
+
+	<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
+	<script language="JavaScript"> <!-- _version=10; //--> </script>
+
+	<script language="JavaScript1.1"> <!-- _version=11; // --> </script>
+
+	<script language="JavaScript">
+	<!-- 3rd Section: Acts on results of Browser test with delivery via SX code -->
+	<!--
+	if (navigator.appVersion.indexOf('MSIE 3') != -1){
+	document.write('<IFRAME WIDTH=728 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC=' + adstream_sx_Url + '></iframe>');
+	} else if (_version < 11) {
+	document.write ('<A HREF=' + adclick_nx_Url + '><IMG SRC=' + adstream_nx_Url + '></a>');
+	}
+	// -->
+	</script>
 
 </p>
 <!-- Guitarplayer - Left Tile 1 Ad -->
@@ -265,51 +462,109 @@ document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx
 <!-- Guitarplayer - Left Tile 2 Ad -->
 <p>
 
-<script language="JavaScript1.1" src="https://oasc08.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@x12">
-</script>
-<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
-<script language="JavaScript"> <!--
-_version=10; //--> </script>
-<script language="JavaScript1.1"> <!--
-_version=11; // --> </script>
+	<script type="text/javascript">
 
-<script language="JavaScript">
-<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
-<!--
-if (navigator.appVersion.indexOf('MSIE 3') != -1){
-document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@x12"></iframe>');
-} else if (_version < 11) {
-document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@x12"><IMG SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@x12"></a>');
-}
-// -->
-</script>
+	var position = "x12";
+
+	var adstream_jx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/" + website + "/index@" + position + "";
+
+			adstream_jx_Url = adstream_jx_Url + "?section=" + keywordVal;
+
+	var adstream_sx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_sx.ads/" + website + "/index@" + position + "";
+
+			adstream_sx_Url = adstream_sx_Url + "?section=" + keywordVal;
+
+	var adclick_nx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/click_nx.ads/" + website + "/index@" + position + "";
+
+			adclick_nx_Url = adclick_nx_Url + "?section=" + keywordVal;
+
+	var adstream_nx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_nx.ads/" + website + "/index@" + position + "";
+
+			adstream_nx_Url = adstream_nx_Url + "?section=" + keywordVal;
+
+	</script>
+
+
+	<!---1st Section: Delivery Attempt via JX tag.--->
+	<script language="JavaScript" type="text/javascript">
+	<!--
+	   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+	   document.write (adstream_jx_Url);
+	   document.write ("'><" + "/script>");
+	//-->
+	</script><script language="JavaScript" type="text/javascript" src="http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@x12?section=privacy-policy-revised"></script>
+
+	<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
+	<script language="JavaScript"> <!-- _version=10; //--> </script>
+
+	<script language="JavaScript1.1"> <!-- _version=11; // --> </script>
+
+	<script language="JavaScript">
+	<!-- 3rd Section: Acts on results of Browser test with delivery via SX code -->
+	<!--
+	if (navigator.appVersion.indexOf('MSIE 3') != -1){
+	document.write('<IFRAME WIDTH=728 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC=' + adstream_sx_Url + '></iframe>');
+	} else if (_version < 11) {
+	document.write ('<A HREF=' + adclick_nx_Url + '><IMG SRC=' + adstream_nx_Url + '></a>');
+	}
+	// -->
+	</script>
 
 </p>
 <!-- Guitarplayer - Left Tile 2 Ad -->
-
 
 
 <!-- Guitarplayer - Left Tile 3 Ad -->
 <p>
 
-<script language="JavaScript1.1" src="https://oasc08.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@x13">
-</script>
-<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
-<script language="JavaScript"> <!--
-_version=10; //--> </script>
+	<script type="text/javascript">
 
-<script language="JavaScript1.1"> <!--
-_version=11; // --> </script>
-<script language="JavaScript">
-<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
-<!--
-if (navigator.appVersion.indexOf('MSIE 3') != -1){
-document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@x13"></iframe>');
-} else if (_version < 11) {
-document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@x13"><IMG SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@x13"></a>');
-}
-// -->
-</script>
+	var position = "x13";
+
+	var adstream_jx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/" + website + "/index@" + position + "";
+
+			adstream_jx_Url = adstream_jx_Url + "?section=" + keywordVal;
+
+	var adstream_sx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_sx.ads/" + website + "/index@" + position + "";
+
+			adstream_sx_Url = adstream_sx_Url + "?section=" + keywordVal;
+
+	var adclick_nx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/click_nx.ads/" + website + "/index@" + position + "";
+
+			adclick_nx_Url = adclick_nx_Url + "?section=" + keywordVal;
+
+	var adstream_nx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_nx.ads/" + website + "/index@" + position + "";
+
+			adstream_nx_Url = adstream_nx_Url + "?section=" + keywordVal;
+
+	</script>
+
+
+	<!---1st Section: Delivery Attempt via JX tag.--->
+	<script language="JavaScript" type="text/javascript">
+	<!--
+	   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+	   document.write (adstream_jx_Url);
+	   document.write ("'><" + "/script>");
+	//-->
+	</script><script language="JavaScript" type="text/javascript" src="http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@x13?section=privacy-policy-revised"></script>
+
+	<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
+
+	<script language="JavaScript"> <!-- _version=10; //--> </script>
+
+	<script language="JavaScript1.1"> <!-- _version=11; // --> </script>
+
+	<script language="JavaScript">
+	<!-- 3rd Section: Acts on results of Browser test with delivery via SX code -->
+	<!--
+	if (navigator.appVersion.indexOf('MSIE 3') != -1){
+	document.write('<IFRAME WIDTH=728 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC=' + adstream_sx_Url + '></iframe>');
+	} else if (_version < 11) {
+	document.write ('<A HREF=' + adclick_nx_Url + '><IMG SRC=' + adstream_nx_Url + '></a>');
+	}
+	// -->
+	</script>
 
 </p>
 <!-- Guitarplayer - Left Tile 3 Ad -->
@@ -319,24 +574,53 @@ document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx
 <!-- Guitarplayer - Left Tile 4 Ad -->
 <p>
 
-<script language="JavaScript1.1" src="https://oasc08.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@x14">
-</script>
-<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
+	<script type="text/javascript">
 
-<script language="JavaScript"> <!--
-_version=10; //--> </script>
-<script language="JavaScript1.1"> <!--
-_version=11; // --> </script>
-<script language="JavaScript">
-<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
-<!--
-if (navigator.appVersion.indexOf('MSIE 3') != -1){
-document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@x14"></iframe>');
-} else if (_version < 11) {
-document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@x14"><IMG SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@x14"></a>');
-}
-// -->
-</script>
+	var position = "x14";
+
+	var adstream_jx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/" + website + "/index@" + position + "";
+
+			adstream_jx_Url = adstream_jx_Url + "?section=" + keywordVal;
+
+	var adstream_sx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_sx.ads/" + website + "/index@" + position + "";
+
+			adstream_sx_Url = adstream_sx_Url + "?section=" + keywordVal;
+
+	var adclick_nx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/click_nx.ads/" + website + "/index@" + position + "";
+
+			adclick_nx_Url = adclick_nx_Url + "?section=" + keywordVal;
+
+	var adstream_nx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_nx.ads/" + website + "/index@" + position + "";
+
+			adstream_nx_Url = adstream_nx_Url + "?section=" + keywordVal;
+
+	</script>
+
+
+	<!---1st Section: Delivery Attempt via JX tag.--->
+	<script language="JavaScript" type="text/javascript">
+	<!--
+	   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+	   document.write (adstream_jx_Url);
+	   document.write ("'><" + "/script>");
+	//-->
+	</script><script language="JavaScript" type="text/javascript" src="http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@x14?section=privacy-policy-revised"></script>
+
+	<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
+	<script language="JavaScript"> <!-- _version=10; //--> </script>
+
+	<script language="JavaScript1.1"> <!-- _version=11; // --> </script>
+
+	<script language="JavaScript">
+	<!-- 3rd Section: Acts on results of Browser test with delivery via SX code -->
+	<!--
+	if (navigator.appVersion.indexOf('MSIE 3') != -1){
+	document.write('<IFRAME WIDTH=728 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC=' + adstream_sx_Url + '></iframe>');
+	} else if (_version < 11) {
+	document.write ('<A HREF=' + adclick_nx_Url + '><IMG SRC=' + adstream_nx_Url + '></a>');
+	}
+	// -->
+	</script>
 
 </p>
 <!-- Guitarplayer - Left Tile 4 Ad -->
@@ -346,24 +630,53 @@ document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx
 <!-- Guitarplayer - Left Tile 5 Ad -->
 <p>
 
-<script language="JavaScript1.1" src="https://oasc08.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@x15">
+	<script type="text/javascript">
 
-</script>
-<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
-<script language="JavaScript"> <!--
-_version=10; //--> </script>
-<script language="JavaScript1.1"> <!--
-_version=11; // --> </script>
-<script language="JavaScript">
-<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
-<!--
-if (navigator.appVersion.indexOf('MSIE 3') != -1){
-document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@x15"></iframe>');
-} else if (_version < 11) {
-document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@x15"><IMG SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@x15"></a>');
-}
-// -->
-</script>
+	var position = "x15";
+
+	var adstream_jx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/" + website + "/index@" + position + "";
+
+			adstream_jx_Url = adstream_jx_Url + "?section=" + keywordVal;
+
+	var adstream_sx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_sx.ads/" + website + "/index@" + position + "";
+
+			adstream_sx_Url = adstream_sx_Url + "?section=" + keywordVal;
+
+	var adclick_nx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/click_nx.ads/" + website + "/index@" + position + "";
+
+			adclick_nx_Url = adclick_nx_Url + "?section=" + keywordVal;
+
+	var adstream_nx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_nx.ads/" + website + "/index@" + position + "";
+
+			adstream_nx_Url = adstream_nx_Url + "?section=" + keywordVal;
+
+	</script>
+
+
+	<!---1st Section: Delivery Attempt via JX tag.--->
+	<script language="JavaScript" type="text/javascript">
+	<!--
+	   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+	   document.write (adstream_jx_Url);
+	   document.write ("'><" + "/script>");
+	//-->
+	</script><script language="JavaScript" type="text/javascript" src="http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@x15?section=privacy-policy-revised"></script>
+
+	<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
+	<script language="JavaScript"> <!-- _version=10; //--> </script>
+
+	<script language="JavaScript1.1"> <!-- _version=11; // --> </script>
+
+	<script language="JavaScript">
+	<!-- 3rd Section: Acts on results of Browser test with delivery via SX code -->
+	<!--
+	if (navigator.appVersion.indexOf('MSIE 3') != -1){
+	document.write('<IFRAME WIDTH=728 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC=' + adstream_sx_Url + '></iframe>');
+	} else if (_version < 11) {
+	document.write ('<A HREF=' + adclick_nx_Url + '><IMG SRC=' + adstream_nx_Url + '></a>');
+	}
+	// -->
+	</script>
 
 </p>
 <!-- Guitarplayer - Left Tile 5 Ad -->
@@ -373,72 +686,142 @@ document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx
 <!-- Guitarplayer - Left Tile 6 Ad -->
 <p>
 
-<script language="JavaScript1.1" src="https://oasc08.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@x16">
-</script>
-<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
-<script language="JavaScript"> <!--
-_version=10; //--> </script>
-<script language="JavaScript1.1"> <!--
-_version=11; // --> </script>
-<script language="JavaScript">
-<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
-<!--
-if (navigator.appVersion.indexOf('MSIE 3') != -1){
-document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@x16"></iframe>');
-} else if (_version < 11) {
-document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@x16"><IMG SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@x16"></a>');
-}
-// -->
-</script>
+	<script type="text/javascript">
+
+	var position = "x16";
+
+	var adstream_jx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/" + website + "/index@" + position + "";
+
+			adstream_jx_Url = adstream_jx_Url + "?section=" + keywordVal;
+
+	var adstream_sx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_sx.ads/" + website + "/index@" + position + "";
+
+			adstream_sx_Url = adstream_sx_Url + "?section=" + keywordVal;
+
+	var adclick_nx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/click_nx.ads/" + website + "/index@" + position + "";
+
+			adclick_nx_Url = adclick_nx_Url + "?section=" + keywordVal;
+
+	var adstream_nx_Url = "http://oasc08011.247realmedia.com/RealMedia/ads/adstream_nx.ads/" + website + "/index@" + position + "";
+
+			adstream_nx_Url = adstream_nx_Url + "?section=" + keywordVal;
+
+	</script>
+
+
+	<!---1st Section: Delivery Attempt via JX tag.--->
+	<script language="JavaScript" type="text/javascript">
+	<!--
+	   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+	   document.write (adstream_jx_Url);
+	   document.write ("'><" + "/script>");
+	//-->
+	</script><script language="JavaScript" type="text/javascript" src="http://oasc08011.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@x16?section=privacy-policy-revised"></script>
+
+	<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
+	<script language="JavaScript"> <!-- _version=10; //--> </script>
+
+	<script language="JavaScript1.1"> <!-- _version=11; // --> </script>
+
+	<script language="JavaScript">
+	<!-- 3rd Section: Acts on results of Browser test with delivery via SX code -->
+	<!--
+	if (navigator.appVersion.indexOf('MSIE 3') != -1){
+	document.write('<IFRAME WIDTH=728 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC=' + adstream_sx_Url + '></iframe>');
+	} else if (_version < 11) {
+	document.write ('<A HREF=' + adclick_nx_Url + '><IMG SRC=' + adstream_nx_Url + '></a>');
+	}
+	// -->
+	</script>
 
 </p>
 <!-- Guitarplayer - Left Tile 6 Ad -->
 
 </div>
 <!-- Side Advert End -->
-								</td>
-								<td class="gutter1"><img src="graphics/spacer.gif" alt=" "></td>
 
-								<td class="column2">
 
-<span class="hide">Your current location </span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </td>
+          </tr>
+        </tbody></table>
+
+    </div>
+
+
+	<!-- main right column-->
+
+    <div class="rightfloatcol" style="width:715px; margin-left:0px; float:right;">
+
+        <div class="columnz">
 
 
 	<div class="crumb"><span name="BreadCrumb1_span" id="BreadCrumb1_span">
 <a></a><a href="index">GuitarPlayer.com</a> &gt;&gt; Privacy Policy <br>
 </span></div>
 
-<!-- start color-->
-<div class="color1">
-<!-- Story Start -->
-		<div class="story">
 
+          <!-- start color-->
+          <div class="color1">
+            <!-- Story Start -->
+            <div class="story">
 
-				<!-- Right Column floating start -->
+<!-- Right Column floating start -->
+							<div class="hide" id="storyskip">Skip to [ <a href="#attach">Story Content and jump story attachments</a> ] </div>
+							<div id="storycolumn">
+							</div>
 
-		<div class="hide" id="storyskip">Skip to [ <a href="#attach">Story Content and jump story attachments</a> ] </div>
-			<div id="storycolumn">
-
-				<div class="inner">
-			
-
-				
-					<!-- Lright Side Advert Start -->
-<div id="rightsidepromo">
-<p></p>
-<p></p>
-<p></p>
+								<!-- Right Column floating end -->
+</div>
 </div>
 
-<!-- Side Advert End -->
-				</div>
-			</div>
-		<div id="attach"></div>
-		<!-- Right Column floating end -->
+
+								<div class="inner" id="attach">
 
 
-		<div class="inner">
-		<p>&nbsp;</p>
+									<div class="storytext">
+
+		<table style="margin-left: -12px;">
+			<tbody><tr>
+				<td valign="top">
+					<div class="leftcolumn" style="margin-top: -0px;">
+
+						<div class="story" style="width: 360px;">
+
+										<div class="color1">
+
+													<!-- Story Start -->
+													<div class="story">
+
+
+													<!-- Right Column floating start -->
+
+															<div class="hide" id="storyskip">Skip to [ <a href="#attach">Story Content and jump story attachments</a> ]
+															</div>
+
+															<style>
+																.inner h1 {  font-size: 20px; margin-bottom: -10px;}
+																.inner h2 {  font-size: 18px; clear: right; color: red; }
+																.inner p { clear: both; }
+															</style>
+
+															<div class="inner">
+															<p>&nbsp;</p>
 <h1>Privacy Policy</h1>
 <p>Last Updated: March 6, 2007</p>
 <p><b>NewBay Media LLC</b> (“NewBay”) has implemented this Privacy Policy governing the personally identifiable information (“Personal Consumer Information”) collected by this site. This Privacy Policy does not govern Personal Consumer Information collected from any other source or in any other manner.</p>
@@ -492,77 +875,346 @@ Attn: Privacy Coordinator<br><a href="mailto:Privacycoordinator@NBMedia.com">Pri
 <h3>Governing Law</h3>
 <p>This Privacy Policy shall be governed by the laws of the State of New York, without regard to its conflict of law provisions. Any dispute concerning this Privacy Policy or your use of this site shall be submitted to binding arbitration in New York within one (1) year from the date that the cause of action arose (or, if multiple cause of actions are involved, from the date that the first cause of action arose), with such arbitration conducted pursuant to the then prevailing rules of the American Arbitration Association. To the fullest extent permitted by law, no arbitration brought pursuant hereto shall be joined to any other action or any other arbitration initiated pursuant hereto. If any portion of this Privacy Policy is deemed unenforceable, unlawful or void by a Court of competent jurisdiction, then that portion of the Privacy Policy will be deemed severable and will not affect the enforceability or validity of the remaining portions of this Privacy Policy.</p>
 <p>TM and Copyright 2006 NewBay Media LLC. All rights reserved. &nbsp;</p>
-		</div>
+															</div>
 
-<div class="inner">
+															<div class="inner">
+															
 
 
+															</div>
+
+													</div>
+													<!-- Story End -->
+
+
+										</div>
+
+						</div>
+
+				</div>
+
+				</td>
+				<td valign="top" style="padding-left: 10px;">
+
+						<div class="rightcolumn">
+						<!-- 3rd col adverts-->
+
+
+						<!-- Right Side Advert Start -->
+						<div class="adverts" style="margin-top: -10px;">
+
+						<!-- Small Right Rectangle Ad 1 -->
+						<p>
+
+						<script language="JavaScript1.1" src="https://oasc08.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@Right1">
+						</script>
+						<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
+						<script language="JavaScript"> <!--
+						_version=10; //--> </script>
+						<script language="JavaScript1.1"> <!--
+						_version=11; // --> </script>
+						<script language="JavaScript">
+						<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
+						<!--
+						if (navigator.appVersion.indexOf('MSIE 3') != -1){
+						document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@Right1"></iframe>');
+						} else if (_version < 11) {
+						document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@Right1"><IMG SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@Right1"></a>');
+						}
+						// -->
+						</script>
+
+						</p>
+						<!-- Small Right Rectangle Ad 1 -->
+
+
+						<!-- Small Right Rectangle Ad 2 -->
+						<p>
+
+						<script language="JavaScript1.1" src="https://oasc08.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@Right2">
+						</script>
+						<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
+						<script language="JavaScript"> <!--
+						_version=10; //--> </script>
+						<script language="JavaScript1.1"> <!--
+						_version=11; // --> </script>
+						<script language="JavaScript">
+						<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
+						<!--
+						if (navigator.appVersion.indexOf('MSIE 3') != -1){
+						document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@Right2"></iframe>');
+						} else if (_version < 11) {
+						document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@Right2"><IMG SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@Right2"></a>');
+						}
+						// -->
+
+						</script>
+
+						</p>
+						<!-- Small Right Rectangle Ad 2 -->
+
+
+
+						<!-- Small Right Rectangle Ad 3 -->
+						<p>
+
+						<script language="JavaScript1.1" src="https://oasc08.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@Right3">
+						</script>
+						<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
+						<script language="JavaScript"> <!--
+						_version=10; //--> </script>
+						<script language="JavaScript1.1"> <!--
+						_version=11; // --> </script>
+
+						<script language="JavaScript">
+						<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
+						<!--
+						if (navigator.appVersion.indexOf('MSIE 3') != -1){
+						document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@Right3"></iframe>');
+						} else if (_version < 11) {
+						document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@Right3"><IMG SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@Right3"></a>');
+						}
+						// -->
+						</script>
+
+						</p>
+						<!-- Small Right Rectangle Ad 3 -->
+
+
+
+
+						</div>
+
+
+						</div>
+				</td>
+
+				<td valign="top" style="margin-top: -10px; padding-left: 10px;">
+
+					<!-- Guitar Player - Skyscraper Ad -->
+					<script language="JavaScript1.1" src="https://oasc08.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@Right">
+					</script>
+					<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
+					<script language="JavaScript"> <!--
+					_version=10; //--> </script>
+
+					<script language="JavaScript1.1"> <!--
+					_version=11; // --> </script>
+					<script language="JavaScript">
+					<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
+					<!--
+					if (navigator.appVersion.indexOf('MSIE 3') != -1){
+					document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@Right"></iframe>');
+					} else if (_version < 11) {
+					document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@Right"><IMG SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@Right"></a>');
+					}
+					// -->
+					</script>
+
+					<!-- Guitar Player - Skyscraper Ad -->
+
+				</td>
+
+			</tr>
+		</tbody></table>
+
+
+
+          <div class="clear">&nbsp;</div>
+
+
+
+
+									</div>
+
+
+                                </div>
+
+
+
+<div class="adverts">
 
 </div>
-		</div>
-		<!-- Story End -->
+
+		<script language="javascript" type="text/javascript" src="/backnext.js"></script>
+
+
+		<br clear="all">
+
+
+
+       </div>
+
+
+    </div>
+
+
+
+
+
+
+
+        <div class="clear">&nbsp;</div>
+        <div class="promobox">
+        <!-- start feature columns-->
+        <div class="promocolumns">
+
+
+
+<div class="color4">
+  <div class="block2" id="feature1">
+    <div class="picture2">
+
+      <a href="/artists" xmlns:z="#RowsetSchema">
+        <img alt="" border="0" src="/uploadedImages/guitarplayer/Home_Middle_Column/robertrandolph.jpg">
+      </a>
+    </div>
+    <div class="text2">
+      <span class="headline">
+        <a href="/artists" xmlns:z="#RowsetSchema">ARTISTS</a>
+      </span>
+
+      <p></p><p> The inside track on the stars, their music and the gear that helps make them great</p><p></p>
+    </div>
+    <div class="clear">
+    </div>
+  </div>
 </div>
-<!-- Color End -->
+<div class="color5">
+  <div class="block2" id="feature2">
+    <div class="picture2">
 
-<div class="clear">&nbsp;</div>
-<script language="javascript" type="text/javascript" src="backnext.js"></script>
+      <a href="lessons.html" xmlns:z="#RowsetSchema">
+        <img alt="" border="0" src="uploadedImages/guitarplayer/Home_Middle_Column/lessons.jpg">
+      </a>
+    </div>
+    <div class="text2">
+      <span class="headline">
+        <a href="/lessons" xmlns:z="#RowsetSchema">LESSONS</a>
+      </span>
 
-
-
-
-
-
-								</td>
-						</tr>
-				</tbody></table>
-			<!-- end main layout table -->
-
-
-
-<!-- end main column containing div -->
+      <p></p><p>Whether you're a novice or an expert we've got tutorials from some top pros that are guarnteed to improve your technique.</p><p></p>
+    </div>
+    <div class="clear">
+    </div>
+  </div>
 </div>
+<div class="color1">
+  <div class="block2" id="feature3">
+    <div class="picture2">
+
+      <a href="/gear" xmlns:z="#RowsetSchema">
+        <img alt="" border="0" src="uploadedImages/guitarplayer/Home_Middle_Column/marshall_amps.jpg">
+      </a>
+    </div>
+    <div class="text2">
+      <span class="headline">
+        <a href="/gear" xmlns:z="#RowsetSchema">GEAR</a>
+      </span>
+
+      <p></p><p>Get in depth views and reviews from our expert testers on a massive range of gear from all the top manufacturers</p><p></p>
+    </div>
+    <div class="clear">
+    </div>
+  </div>
+</div>
+<div class="color1">
+  <div class="block2" id="feature4">
+    <div class="picture2">
+
+      <a href="http://www.cafepress.com/musicplayernet/1986272" xmlns:z="#RowsetSchema">
+        <img alt="" border="0" src="uploadedImages/guitarplayer/Home_Middle_Column/home_bottom_col_swag.jpg">
+      </a>
+    </div>
+    <div class="text2">
+      <span class="headline">
+        <a href="http://www.cafepress.com/musicplayernet/1986272" xmlns:z="#RowsetSchema">Guitar Player Merch</a>
+      </span>
+
+      <p></p><p> Drape yourself in the finest T shirts, hoodies and caps a musician can wear. Check out the Guitar Player online merch store for clothing and more, all done up with the hot GP logo</p><p></p>
+    </div>
+    <div class="clear">
+    </div>
+  </div>
+</div>
+        </div>
+		<br clear="all">
+	</div>
+
+	    <!-- Advert -->
+	    <div class="clear">&nbsp;</div>
 
 
+	<!-- Bottom Large Leaderboard Ad -->
+	<div class="advert728">
 
+		<script language="JavaScript1.1" src="https://oasc08.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@Bottom1">
+		</script>
 
+		<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
 
-<!-- start bottom-->
-<div class="bottom">
-<!-- Start bottom nav -->
-
-
-	<!-- Guitarplayer - Google Leaderboard -->
-	<div class="googleads">
-
-	<script type="text/javascript"><!--
-	google_ad_client = "pub-5187778498539222";
-	google_ad_width = 728;
-	google_ad_height = 90;
-	google_ad_format = "728x90_as";
-	google_ad_type = "text";
-	//2007-08-01: Music Player Network
-	google_ad_channel = "2808801987";
-	google_color_border = "B4D0DC";
-	google_color_bg = "ECF8FF";
-	google_color_link = "336699";
-	google_color_text = "545454";
-	google_color_url = "0066CC";
-	//-->
-	</script>
-	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-	</script>
+		<script language="JavaScript"> <!--
+		_version=10; //--> </script>
+		<script language="JavaScript1.1"> <!--
+		_version=11; // --> </script>
+		<script language="JavaScript">
+		<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
+		<!--
+		if (navigator.appVersion.indexOf('MSIE 3') != -1){
+		document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@Bottom1"></iframe>');
+		} else if (_version < 11) {
+		document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@Bottom1"><IMG SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@Bottom1"></a>');
+		}
+		// -->
+		</script>
 
 	</div>
-	<!-- Guitarplayer - Google Leaderboard -->
+	<!-- Bottom Large Leaderboard Ad -->
 
 
+	<!-- Bottom Leaderboard Ad -->
+
+	<div class="advert728">
+
+		<script language="JavaScript1.1" src="https://oasc08.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@Bottom">
+		</script>
+		<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
+		<script language="JavaScript"> <!--
+		_version=10; //--> </script>
+		<script language="JavaScript1.1"> <!--
+		_version=11; // --> </script>
+		<script language="JavaScript">
+		<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
+		<!--
+		if (navigator.appVersion.indexOf('MSIE 3') != -1){
+		document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@Bottom"></iframe>');
+		} else if (_version < 11) {
+		document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@Bottom"><IMG SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@Bottom"></a>');
+		}
+		// -->
+		</script>
+
+	</div>
+	<!-- Bottom Leaderboard Ad -->
+
+
+  </div>
+  <!-- start bottom-->
+  <div class="bottom">
+    <!-- Start bottom nav -->
 <div id="bottomnav">
 	<div class="inner">
-	   <ul><li><a onclick="javascript:return urlbottom();" href="http://www.guitarplayer.com/contact-us">Contact Us</a></li><li><a onclick="javascript:return urlbottom();" href="http://www.guitarplayer.com/advertise">Advertise</a></li><li><a onclick="javascript:return urlbottom();" href="http://www.guitarplayer.com/privacy-policy-revised">Privacy Policy - REVISED</a></li><li><a onclick="javascript:return urlbottom();" href="http://www.guitarplayer.com/terms-and-conditions">Terms &amp; Conditions - REVISED</a></li><li><a onclick="javascript:return urlbottom();" href="http://www.guitarplayer.com/publication-index">Publication Index</a></li></ul>
-		
-	</div>
 
-	<div class="clear"><img src="graphics/spacer.gif" alt="" width="1" height="1"></div>
+	<ul>
+	<li><a onclick="javascript:return urlbottom();" href="http://www.guitarplayer.com/contact-us">Contact Us</a></li>
+	<li><a onclick="javascript:return urlbottom();" href="http://www.guitarplayer.com/advertise">Advertise</a></li>
+	<li><a onclick="javascript:return urlbottom();" href="http://www.guitarplayer.com/privacy-policy-revised">Privacy Policy - REVISED</a></li>
+	<li><a onclick="javascript:return urlbottom();" href="http://www.guitarplayer.com/terms-and-conditions">Terms &amp; Conditions - REVISED</a></li>
+	<li><a onclick="javascript:return urlbottom();" href="http://www.guitarplayer.com/publication-index">Publication Index</a></li>
+	</ul>
+
+	</div>
+	<div class="clear"><img src="/graphics2/spacer.gif" alt="" width="1" height="1"></div>
 </div>
 <!-- end bottom nav --><script language="JavaScript">
 function pulldown_menu()
@@ -576,71 +1228,53 @@ function pulldown_menu()
 }
 </script>
 <!-- start music player dropdown nav -->
+
 <div id="musicplayer">
-	<form action="" method="post" onsubmit="javascript:return pulldown_menu()" name="websites">
+	<form action="#" method="post" onsubmit="javascript:return pulldown_menu()" name="websites">
 		<label for="mpsites">Select another Site:</label>
 		<select id="mpsites" name="siteslist" onchange="Javascript:return doUrlRedirect(this.value);"><option value="#" selected="1">SELECT A SITE</option><option value="http://www.musicplayer.com/">MUSICPLAYER.COM</option><option value="http://www.guitarplayer.com/">GUITARPLAYER.COM</option><option value="http://www.guitarplayertv.com/">GUITARPLAYERTV.COM</option><option value="http://www.mygptv.com/">MYGPTVTV.COM</option><option value="http://www.bassplayer.com/">BASSPLAYER.COM</option><option value="http://www.bassplayer.tv/">BASSPLAYER.TV</option><option value="http://www.keyboardmag.com/">KEYBOARDMAG.COM</option><option value="http://www.keyboardmag.tv/">KEYBOARDMAG.TV</option><option value="http://www.eqmag.com/">EQMAG.COM</option><option value="http://www.fretsmag.com/">FRETSMAG.COM</option><option value="http://www.backstage-lounge.com/">BACKSTAGE-LOUNGE.COM</option><option value="http://www.musicyellowpages.com/">MUSICYELLOWPAGES.COM</option><option value="http://www.prosoundnews.com/">PROSOUNDNEWS.COM</option><option value="http://www.surroundpro.com/broadcast_07/">SURROUNDPRO.COM</option><option value="http://www.carsound.com/">CARSOUND.COM</option><option value="http://www.dv.com/">DV.COM</option><option value="http://www.videography.com/">VIDEOGRAPHY.COM</option><option value="http://www.2-pop.com/">2-POP.COM</option><option value="http://www.uemedia.net/CPC/digitalcinemamag/">DIGITALCINEMATOGRAPHY.COM</option><option value="http://www.digitalproductionbuzz.com/">DIGITALPRODUCTIONBUZZ.COM</option><option value="http://www.uemedia.net/CPC/directorsworld/">DIRECTORSWORLD.COM</option><option value="http://www.uemedia.net/CPC/editorsnet/">EDITORSNET.COM</option><option value="http://www.uemedia.net/CPC/designinmotion/">DESIGNINMOTION.COM</option></select>
-		
+
 		<noscript>
 			<input name="" type="submit" value="go" />
 		</noscript>
 	</form>
-
 	<p>Guitar Player is part of the Music Player Network.</p>
-	<div class="clear"><img src="graphics/spacer.gif" alt=" " width="1" height="1"></div>
+	<div class="clear"><img src="/graphics2/spacer.gif" alt=" " width="1" height="1"></div>
 </div>
 <!-- end music player dropdown nav -->
+
+<!-- taxonomy section -->
+
 <div id="taxonomy">  <a href="taxonomyresults.aspx?taxonomyId=37822">Gear</a>    <a href="taxonomyresults.aspx?taxonomyId=37824">Brands</a>    <a href="taxonomyresults.aspx?taxonomyId=37826">Artists</a>    <a href="taxonomyresults.aspx?keyword2=A">A</a>   <a href="taxonomyresults.aspx?keyword2=B">B</a>   <a href="taxonomyresults.aspx?keyword2=C">C</a>   <a href="taxonomyresults.aspx?keyword2=D">D</a>   <a href="taxonomyresults.aspx?keyword2=E">E</a>   <a href="taxonomyresults.aspx?keyword2=F">F</a>   <a href="taxonomyresults.aspx?keyword2=G">G</a>   <a href="taxonomyresults.aspx?keyword2=H">H</a>   <a href="taxonomyresults.aspx?keyword2=I">I</a>   <a href="taxonomyresults.aspx?keyword2=J">J</a>   <a href="taxonomyresults.aspx?keyword2=K">K</a>   <a href="taxonomyresults.aspx?keyword2=L">L</a>   <a href="taxonomyresults.aspx?keyword2=M">M</a>   <a href="taxonomyresults.aspx?keyword2=N">N</a>   <a href="taxonomyresults.aspx?keyword2=O">O</a>   <a href="taxonomyresults.aspx?keyword2=P">P</a>   <a href="taxonomyresults.aspx?keyword2=Q">Q</a>   <a href="taxonomyresults.aspx?keyword2=R">R</a>   <a href="taxonomyresults.aspx?keyword2=S">S</a>   <a href="taxonomyresults.aspx?keyword2=T">T</a>   <a href="taxonomyresults.aspx?keyword2=U">U</a>   <a href="taxonomyresults.aspx?keyword2=V">V</a>   <a href="taxonomyresults.aspx?keyword2=W">W</a>   <a href="taxonomyresults.aspx?keyword2=X">X</a>   <a href="taxonomyresults.aspx?keyword2=Y">Y</a>   <a href="taxonomyresults.aspx?keyword2=Z">Z</a>   <a href="taxonomyresults.aspx?keyword2=0-9">0-9</a>  <a href="LandingPages.aspx?folder_id=338"> Topics </a></div>
+
+<!-- taxonomy section -->
+
 <!-- footer and copyright -->
 <div id="footer">
-	<p>Guitar Player is a trademark of New Bay Media, LLC. All material published on www.guitarplayer.com is copyrighted Â© 2006 by New Bay Media, LLC. All rights reserved.</p>
+	<p>Guitar Player is a trademark of New Bay Media, LLC. All material published on www.guitarplayer.com is copyrighted Ãƒâ€šÃ‚Â© 2006 by New Bay Media, LLC. All rights reserved.</p>
 </div>
 <div id="footer2">
 	<p>&nbsp;</p>
-
 </div>
 
 <!-- end footer and copyright -->
-</div>
-<!-- side advert-->
-<!-- Side Advert Start -->
+  </div>
+  <!-- side advert-->
 
 <div id="rightsideadvert">
 	<span class="hide">|</span>
 
 
-	<!-- Guitarplayer - Skyscraper Ad -->
 
-	<script language="JavaScript1.1" src="https://oasc08.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.guitarplayer.com/index@Right">
-	</script>
-	<!---2nd Section: Browser test; "version" will be set to 10 or 11--->
-	<script language="JavaScript"> <!--
-	_version=10; //--> </script>
-	<script language="JavaScript1.1"> <!--
-	_version=11; // --> </script>
-	<script language="JavaScript">
-	<!---3rd Section: Acts on results of Browser test with delivery via SX code--->
-	<!--
-	if (navigator.appVersion.indexOf('MSIE 3') != -1){
-	document.write('<IFRAME WIDTH=160 HEIGHT=600 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_sx.ads/www.guitarplayer.com/index@Right"></iframe>');
-	} else if (_version < 11) {
-	document.write ('<A HREF="https://oasc08.247realmedia.com/RealMedia/ads/click_nx.ads/www.guitarplayer.com/index@Right"><IMG SRC="https://oasc08.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.guitarplayer.com/index@Right"></a>');
-	}
-	// -->
-	</script>
-
-	<!-- Guitarplayer - Skyscraper Ad -->
-
-
-	<span class="hide">|</span>
-</div>
+	<span class="hide">|</span></div>
 
 <div id="pagebottom" class="hide">This is the end of the page [ <a href="#skip0">Back to start of the page</a> ]</div>
-<!-- Side Advert Start -->
+
 </div>
 <!-- end bottom-->
 
-<script type="text/javascript" src="templates/tablefix.js"></script>
+
+
 <!-- Google Analytics -->
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -651,6 +1285,20 @@ urchinTracker();
 </script>
 
 <!-- Google Analytics -->
+
+    </td>
+    <td background="graphics/shadow.jpg">&nbsp;</td>
+  </tr>
+
+</tbody></table>
+
+
+
+
+
+
+
+
 
 
 </body></html>
