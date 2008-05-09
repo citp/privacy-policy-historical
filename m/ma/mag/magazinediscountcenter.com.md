@@ -1,9 +1,66 @@
-> *The following text is extracted and transformed from the magazinediscountcenter.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213200300id_/http%3A//www.magazinediscountcenter.com/privecypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazinediscountcenter.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509170409id_/http%3A//www.magazinediscountcenter.com/privecypolicy.html) for the most accurate reproduction.*
 
-# Discount Magazine Subscription | Cheap Magazines Subscriptions | Magazine Discounts : Magazine Discount Center
+# Discount Magazine Subscription | Cheap Magazines Subscriptions | Magazine Discounts: Magazine Discount Center
 
-|  | 
+|  |   
+---  
+| Great Gift Ideas  
+[All top subscriptions](http://www.magazinediscountcenter.com/price_search/all_top.html)  
+---  
+|  [$10 and less](http://www.magazinediscountcenter.com/price_search/$0-$10.html)  
+---  
+[$15 and less](http://www.magazinediscountcenter.com/price_search/$0-$15.html)  
+[$20 and less](http://www.magazinediscountcenter.com/price_search/$0-$20.html)  
+[$25 and less](http://www.magazinediscountcenter.com/price_search/$0-$25.html)  
+[$50 and less](http://www.magazinediscountcenter.com/price_search/$0-$50.html)  
+[Magazines A - Z](http://www.magazinediscountcenter.com/alphabetsearch/A.html)  
+Magazine   
+Search  
+|  |   
+---|---  
+Browse Magazines  
+  
+  * [ Arts & Crafts](http://www.magazinediscountcenter.com/category/Arts_and_Crafts.html)
+  * [ Auto & Cycles](http://www.magazinediscountcenter.com/category/Auto_and_Cycles.html)
+  * [ Bridal](http://www.magazinediscountcenter.com/category/Bridal.html)
+  * [ Business & Finance](http://www.magazinediscountcenter.com/category/Business_and_Finance.html)
+  * [ Celebrities & Gossip](http://www.magazinediscountcenter.com/category/Celebrities_and_Gossip.html)
+  * [ Computers & Internet](http://www.magazinediscountcenter.com/category/Computers_and_Internet.html)
+  * [ Education](http://www.magazinediscountcenter.com/category/Education.html)
+  * [ Electronics & Audio](http://www.magazinediscountcenter.com/category/Electronics_and_Audio.html)
+  * [ Entertainment](http://www.magazinediscountcenter.com/category/Entertainment.html)
+  * [ Fashion and Beauty](http://www.magazinediscountcenter.com/category/Fashion_and_Beauty.html)
+  * [ Food & Cooking](http://www.magazinediscountcenter.com/category/Food_and_Cooking.html)
+  * [ Games & Hobbies](http://www.magazinediscountcenter.com/category/Games_and_Hobbies.html)
+  * [ Health & Fitness](http://www.magazinediscountcenter.com/category/Health_and_Fitness.html)
+  * [ History](http://www.magazinediscountcenter.com/category/History.html)
+  * [ Home and Garden](http://www.magazinediscountcenter.com/category/Home_and_Garden.html)
+  * [ Hunting and Fishing](http://www.magazinediscountcenter.com/category/Hunting_and_Fishing.html)
+  * [ Men's Interest](http://www.magazinediscountcenter.com/category/Mens_Interest.html)
+  * [ Music](http://www.magazinediscountcenter.com/category/Music.html)
+  * [ News & Politics](http://www.magazinediscountcenter.com/category/News_and_Politics.html)
+  * [ Science & Nature](http://www.magazinediscountcenter.com/category/Science_and_Nature.html)
+  * [ Spanish](http://www.magazinediscountcenter.com/category/spanish.html)
+  * [ Sports & Recreation](http://www.magazinediscountcenter.com/category/sports_and_recreation.html)
+  * [ Teen's](http://www.magazinediscountcenter.com/category/Teens.html)
+  * [ Travel & Regional](http://www.magazinediscountcenter.com/category/Travel_and_Regional.html)
+  * [ Women's Interest](http://www.magazinediscountcenter.com/category/Womens_Interest.html)
 
+  
+**[All Magazine Categories](http://www.magazinediscountcenter.com/top_category.html) **  
+Information  
+|  [Affiliate Program](http://www.magazinediscountcenter.com/affiliate.php)  
+---  
+[Shipping &   
+Cancellation Policy](http://www.magazinediscountcenter.com/shipping.html)  
+[Customer Service ](http://www.magazinediscountcenter.com/request.html)  
+[Privacy Policy](http://www.magazinediscountcenter.com/privecypolicy.html)  
+[Terms of Use](http://www.magazinediscountcenter.com/terms_of_use.html)  
+[Check Order Status](http://www.magazinediscountcenter.com/cust_orderlist.html)  
+[Contact Us](http://www.magazinediscountcenter.com/contactus.html)  
+   
+[Learn more at wikipedia about magazines.](http://en.wikipedia.org/wiki/Magazine)  
+  
 |    
 ---  
 **Privacy Policy**  
@@ -71,9 +128,25 @@ If you have any questions about this privacy policy, please contact our Privacy 
  **  
 **  
   
+|  |  | 
+
+Shopping Cart
+
 |   
----  
+---|---|---  
+  |  |  My Cart is Empty! |  [ ](http://www.magazinediscountcenter.com/productcart/viewcart.html)  
+---|---  
+Latest Additions:  
+   
 [](https://www.scanalert.com/RatingVerify?ref=www.magazinediscountcenter.com)  
-   
-   
-  |  |  
+|  |  | Shop Confidently |   
+---|---|---  
+90 Day Risk Free Money Back Guarantee  
+No Sales Tax  
+SSL Encryption For Your Safety  
+Free Shipping  
+  |  | [Home](http://www.magazinediscountcenter.com/) | [Browse](http://www.magazinediscountcenter.com/alphabetsearch/A.html) | [Free Gift Cards](http://www.magazinediscountcenter.com/giftcard.html) | [Account](http://www.magazinediscountcenter.com/myaccount/myaccount.html) | [Cart](http://www.magazinediscountcenter.com/viewcart/viewcart.html) | [Help](http://www.magazinediscountcenter.com/help.html)  
+---  
+[About Us](http://www.magazinediscountcenter.com/aboutus.html) | [Contact Us](http://www.magazinediscountcenter.com/contactus.html) | [Privacy Policy](http://www.magazinediscountcenter.com/privecypolicy.html) | [Guarantee](http://www.magazinediscountcenter.com/guarantee.html) | [Affiliates](http://www.magazinediscountcenter.com/affiliate.php)  
+[Gift Center](http://www.magazinediscountcenter.com/giftcenter.html) | [Customer Testimonials](http://www.magazinediscountcenter.com/customer_testimonials.html) | [Site Map](http://www.magazinediscountcenter.com/sitemap.html) | [FAQ](http://www.magazinediscountcenter.com/faq.html)  
+ 
