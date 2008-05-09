@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pharmacy2u.co.uk privacy policy that was archived on 2007-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071230033756id_/http%3A//www.pharmacy2u.co.uk/Static/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pharmacy2u.co.uk privacy policy that was archived on 2008-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509092200id_/http%3A//www.pharmacy2u.co.uk/Static/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Pharmacy2U </title>
@@ -73,6 +73,70 @@
 	_uacct = "UA-394132-1";
 	urchinTracker();
 	</script>
+	
+	<!-- ATLAS Neutalize -->
+	<script language="javascript" src="https://track.roiservice.com/track/track.aspx?ROIID=939060307000018"></script>
+	<script language="javascript">
+		<!--
+			var strMsg = '';
+			var strSubTotal = '';
+
+			if (strSubTotal == '')
+				strSubTotal = "0";
+
+			if (strMsg == '')
+			{
+				//alert(typeof(ROIID) + '::::');
+				if (typeof(ROIID) + '' != 'undefined') {
+					TrackEvent('LandingPage', 0);
+				}
+			}
+			else
+			{
+				//alert(strMsg.substr(0,32));
+				if (strMsg.substr(0,32)  == 'Thank you for placing your order')
+				{
+					//alert('order placed');
+					if (typeof(ROIID) + '' != 'undefined') {
+						gt_cid="CustomerID";
+						TrackEvent('Sale', strSubTotal, '');
+					}
+				}
+				else if (strMsg  == 'Thank you for adding your email address to our mailing list.')
+				{
+					//alert('thankyou - newsletter signup');
+					//When a newsletter sign up has been completed
+					if (typeof(ROIID) + '' != 'undefined') {
+						TrackEvent('NewsConf', 0);
+					}
+				}
+				else if (strMsg  == 'Thank you for recommending one of our products to your friends.')
+				{
+					//alert('thankyou - email a friend');
+					//When an email to a friend has been completed
+					if (typeof(ROIID) + '' != 'undefined') {
+						TrackEvent('EmailConf', 0);
+					}
+				}
+				else if (strMsg  == 'Thank you, your comments have been forwarded to our customer care team and we will respond to you as soon as possible.')
+				{
+					//alert('thankyou - for your comment');
+					//When a Comments & Feedback form has been completed
+					if (typeof(ROIID) + '' != 'undefined') {
+						TrackEvent('CommtsConf', 0);
+					}
+				}
+				else
+				{
+					if (typeof(ROIID) + '' != 'undefined') {
+						TrackEvent('LandingPage', 0);
+					}
+				}
+			}
+
+		//-->
+	</script>
+
 	<!-- END PARTNER TRACKING -->
 
 
@@ -106,7 +170,7 @@
 <li><a href="category.asp?level=2&amp;ref=691728SK">Skin Care</a></li>
 <li><a href="category.asp?level=2&amp;ref=792234SL">Sleep &amp; Travel</a></li>
 <li><a href="category.asp?level=2&amp;ref=323443SM">Smoking Cessation</a></li>
-<li><a href="category.asp?level=2&amp;ref=288344IN">Stomach &amp; Digestion</a></li>
+<li><a href="category.asp?level=2&amp;ref=288344IN">Stomach &amp; Bowel</a></li>
 
 							<li class="bottom">&nbsp;</li>
 						</ul>
@@ -181,6 +245,7 @@
 						<ul class="sub-nav">
 							<li class="top"></li>
 							<li class="first"><a href="list.asp?page=1&amp;level=2&amp;ref=241312CH">Childrens</a></li>
+<li><a href="list.asp?page=1&amp;level=2&amp;ref=608942EY">Eye-Q Supplements</a></li>
 <li><a href="list.asp?page=1&amp;level=2&amp;ref=361514FI">Fish Oils</a></li>
 <li><a href="list.asp?page=1&amp;level=2&amp;ref=887429FO">Folic Acid</a></li>
 <li><a href="list.asp?page=1&amp;level=2&amp;ref=385137GA">Garlic</a></li>
@@ -189,7 +254,7 @@
 <li><a href="list.asp?page=1&amp;level=2&amp;ref=82114LI">Lifestyle Vitamins</a></li>
 <li><a href="list.asp?page=1&amp;level=2&amp;ref=686516MI">Minerals</a></li>
 <li><a href="list.asp?page=1&amp;level=2&amp;ref=331925MU">Multivitamins</a></li>
-<li><a href="list.asp?page=1&amp;level=2&amp;ref=796349P2">P2U Own Brand Vitamins &amp; Minerals</a></li>
+<li><a href="list.asp?page=1&amp;level=2&amp;ref=796349P2">P2U Own Brand Vitamins</a></li>
 <li><a href="list.asp?page=1&amp;level=2&amp;ref=56559PR">Probiotics &amp; Prebiotics</a></li>
 <li><a href="list.asp?page=1&amp;level=2&amp;ref=883658SL">Slimming</a></li>
 <li><a href="list.asp?page=1&amp;level=2&amp;ref=481721SO">Solgar</a></li>
@@ -836,20 +901,30 @@
 		</div>
 <div class="rhs-box">
 <div class="delivery"><h1 class="invisible">Free Delivery</h1></div>
-<p><strong>FREE DELIVERY</strong> on all UK orders over £45.<br><br>
+<p><strong>FREE DELIVERY</strong> on all UK orders over £45.<br>
 <!--<strong>Christmas Delivery</strong><br>
-We cannot guarantee delivery in time for Christmas if you order after these dates.<br><br>
+We cannot guarantee delivery in time for Christmas if you order after these dates.<br>
 Airmail - 10th Dec<br>
 BPFO - 19th Dec<br>
 First Class - 20th Dec<br>
 Special Delivery - 22nd Dec<br><br>-->
-<strong>Christmas Opening Hours</strong><br>
+<!--<strong>Christmas Opening Hours</strong><br>
 Thursday 27th – 9am – 5.30pm<br>
 Friday 28th – 9am – 5.30pm<br>
 Saturday 29th  - 9am – 1pm<br>
 Monday 31st  - 9am – 1pm<br>
-Tuesday 1st – Closed<br>
-
+Tuesday 1st – Closed<br>-->
+<!--<strong>Easter Opening Times</strong><BR>
+Friday 21st Mar - Closed<BR>
+Saturday 22nd Mar - 9am - 2pm<BR>
+Monday 24th Mar - Closed<BR>
+Tuesday 25th Mar - 9am - 5:30pm<BR>-->
+<!--<BR><strong>Bank Holiday Opening Times </strong><br>
+Friday 2nd May - 9am - 5:30pm<br>
+Saturday 3rd May - 9am - 2pm<br>
+Sunday 4th May - Closed<br>
+Monday 5th May - Closed<br>
+Tuesday 6th May - 9am - 5:30pm<br>-->
 </p>
 <p><a href="static/delivery.asp">View our delivery policy</a></p>
 <div class="bottom">&nbsp;</div>
@@ -862,7 +937,7 @@ Tuesday 1st – Closed<br>
 				<li><a href="Static/hc/CoughColds.asp">Coughs &amp; Colds</a></li>
 				<li><a href="acomplia_info.asp">Weightloss</a></li>
 				<li><a href="propecia_info.asp">Hair loss</a></li>
-				<li><a href="ed_info.asp">Erection Problems</a></li>
+				<li><a href="viagra_info.asp">Erection Problems</a></li>
 				<li><a href="Static/hc/Haemorrhoids.asp">Haemorrhoids</a></li>
 				<li><a href="Static/hc/AthletesFoot.asp">Athlete's Foot</a></li>
 				<li><a href="Static/hc/Pain.asp">Back Pain</a></li>
@@ -899,25 +974,25 @@ Tuesday 1st – Closed<br>
 			<div class="bestsellers"><h1 class="invisible">Pharmacy2U Bestsellers</h1></div>
 			<ol>
 
-				<li><a title="" href="details.asp?productid=FMREES360">Regaine Extra Strength For Men Triple Pack</a></li>
-
-				<li><a title="" href="details.asp?productid=NINS310">Nicorette Nasal Spray Triple Pack</a></li>
+				<li><a title="" href="details.asp?productid=LIBI60">Lipobind</a></li>
 
 				<li><a title="" href="details.asp?productid=NUPT32">Nurofen Plus Tablets</a></li>
 
-				<li><a title="" href="details.asp?productid=FMSOST323">Solpadeine Plus Soluble Tablets Triple Pack</a></li>
+				<li><a title="" href="details.asp?productid=QUEP1">Quies Wax Ear Plugs</a></li>
 
-				<li><a title="" href="details.asp?productid=SNDC2">Snug Denture Cushions</a></li>
+				<li><a title="" href="details.asp?productid=FMSOST32">Solpadeine Plus Soluble Tablets</a></li>
+
+				<li><a title="" href="details.asp?productid=FMCEN200">Cetaphil Non-Irritating Cleanser</a></li>
+
+				<li><a title="" href="details.asp?productid=FMPRGS3300">Pregaine Clear Gel Shampoo Triple Pack</a></li>
+
+				<li><a title="" href="details.asp?productid=NINS310">Nicorette Nasal Spray Triple Pack</a></li>
+
+				<li><a title="" href="details.asp?productid=FMRERS60">Regaine For Women Regular Strength</a></li>
+
+				<li><a title="" href="details.asp?productid=DECBC90">DenTek Crystal Breath Gel Capsules</a></li>
 
 				<li><a title="" href="details.asp?productid=BIMU30">Bi2muno</a></li>
-
-				<li><a title="" href="details.asp?productid=ISMH125">Issey Miyake L'eau D'Issey Pour Homme EDT Spray</a></li>
-
-				<li><a title="" href="details.asp?productid=IMRT32">Imigran Recovery Tablets Triple Pack</a></li>
-
-				<li><a title="" href="details.asp?productid=JPGFM125">Jean Paul Gaultier Fleur Du Male</a></li>
-
-				<li><a title="" href="details.asp?productid=KEFW50">Kenzo Flower for Women EDP Spray</a></li>
 
 			</ol>
 			<div class="bottom">&nbsp;</div>
