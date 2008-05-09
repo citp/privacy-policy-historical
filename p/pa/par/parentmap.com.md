@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parentmap.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214071419id_/http%3A//www.parentmap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentmap.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509081330id_/http%3A//www.parentmap.com/privacy) for the most accurate reproduction.*
 
 # Our Online Privacy Policy - ParentMap
 
-[](http://ads.parentmap.com/www/delivery/ck.php?n=a7b0187e&cb=495693474) [Home](http://www.parentmap.com/)  Our Online Privacy Policy
+[Home](http://www.parentmap.com/)  Our Online Privacy Policy
 
 Our Online Privacy Policy  |   
 ---|---  
@@ -58,7 +58,3 @@ Seattle, WA 98116-4553
 [admin@parentmap.com](mailto:admin@parentmap.com)
 
 [ ](http://www.parentmap.com/index.php?option=com_content&task=view&id=32&Itemid=151#contentTop)
-
-  * [](http://ads.parentmap.com/www/delivery/ck.php?n=a3467ada&cb=1978017928)
-
-
