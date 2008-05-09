@@ -1,415 +1,703 @@
-<!--The following is the downloaded HTML source of the ellusionist.com privacy policy that was archived on 2007-10-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071013155133id_/http%3A//www.ellusionist.com/Privacy-Policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ellusionist.com privacy policy that was archived on 2008-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509060813id_/http%3A//www.ellusionist.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<style type="text/css">
-<!--
-.backgroundcolor {	font-variant: normal;
-	text-transform: uppercase;
-	color: #993300;
-	padding-bottom: -5px;
-	font-weight: bold;
+<html><head><script language="JavaScript">
+// Disable edit cell tab.
+   parent.editCell.className    = "tab-button-dis";
+
+function saveForm() {
+    location.replace("/admin/displayeditcell.do?action=save");
 }
-.block {	padding-left: 25px;
-	text-align: justify;
-}
--->
-</style>
-<title>Ellusionist Privacy Policy</title>
-<link href="/store-styles.css" rel="stylesheet" type="text/css">
-<link href="/store-links-dark.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="/assets/css/ellusionist_global.css" type="text/css" media="all">
-<script type="text/javascript" language="javascript" src="/assets/javascript/common.js"></script><style type="text/css"><!--html, body {scrollbar-face-color:#272D3A;scrollbar-arrow-color:#A00B0B;scrollbar-track-color:#000000;scrollbar-shadow-color:#666666;scrollbar-highlight-color:#333333;scrollbar-3dlight-color:#0B0C0F;scrollbar-darkshadow-Color:#1B1C1F;}--></style>
-<script type="text/javascript" language="javascript" src="/assets/javascript/flashobject.js"></script>
-<meta name="Generator" content="Ellusionist - http://www.ellusionist.com/">
-<meta name="Description" content="">
-<meta name="Keywords" content="">
-<meta name="Copyright" content="Ellusionist">
-<meta name="Security" content="Public">
-<meta name="Robots" content="all">
-<meta name="MSSmartTagsPreventParsing" content="true">
-<link rel="Shortcut Icon" href="/assets/favicon.ico" type="image/x-icon">
-<style type="text/css">
-<!--
-.style1 {text-transform: uppercase; padding-bottom: -5px; font-weight: bold; font-variant: normal;}
--->
-</style>
-</head>
 
-<body>
+   function editCell(ruleID, itemID, slotID, itemType) {
+        parent.editDisplay.className     = "tab-button";
+        if(typeof(parent.displayRules)!="undefined") {
+            parent.displayRules.className = "tab-button";
+        }
+        parent.editCell.className    = "tab-button-on";
 
-<div align="center">
-<div id="container">
-<div id="inner_container">
-<div align="center"><div id="header" style="width:900px">
-		<table width="900" border="0" cellpadding="0" cellspacing="0" id="top_header">
-			<tbody><tr>
-			  <td style="padding-right:10px; padding-left:10px"><div id="storeBtn"><a href="http://www.ellusionist.com/cart/storefront.php">Store</a></div></td><td><div id="storeBtn" align="center"> <a href="http://www.ellusionist.com/Free-Magic-Card-Tricks-Guide.htm">Free Stuff</a></div></td>
-			  <td width="141" id="header_cart"></td>
-				<td width="222" id="header_cart">&nbsp;</td>
-				<td width="214" align="right" id="header_cart"><div id="cartBtn">
-				  <div align="right"><a href="http://www.ellusionist.com/cart/basket.php">View Cart</a></div>
-			  </div></td>
-				<td width="170" align="right" valign="middle"><table border="0" align="right" cellpadding="0" cellspacing="0" style="margin-right: 5px; display:none">
-							<tbody><tr>
-								<td>Search</td>
-								<td width="114" align="center"><input name="textfield" type="text" class="search"></td>
-								<td><a href="../search.htm"><img src="/assets/images/go-off.gif" name="GO" width="30" height="20" border="0" align="middle"></a></td>
-							</tr>
-				  </tbody></table>					
-				  <form name="search_form" method="GET" action="http://search.ellusionist.com/search">
-                    <table border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr>
-                        <td><table cellpadding="0" cellspacing="0">
-                            <tbody><tr>
-                              <td valign="middle"><font size="-1">
-                                <input name="q" type="text" class="search" onfocus="this.value=''" value="SEARCH HERE" size="26" maxlength="256">
-                              </font></td>
-                              <td valign="middle"><font size="-1">&nbsp;
-                                    <input type="image" border="0" name="search" src="/assets/images/go-off.gif">
-                              </font></td>
-                              <td nowrap="1">&nbsp;</td>
-                            </tr>
-                        </tbody></table></td>
-                      </tr>
-                    </tbody></table>
-				    <input type="hidden" name="sort" value="date:D:L:d1">
-                    <input type="hidden" name="output" value="xml_no_dtd">
-                    <input type="hidden" name="oe" value="UTF-8">
-                    <input type="hidden" name="ie" value="UTF-8">
-                    <input type="hidden" name="client" value="new_skin">
-                    <input type="hidden" name="proxystylesheet" value="new_skin">
-                    <input type="hidden" name="site" value="default_collection">
-                  </form></td>
-			</tr>
-		</tbody></table>
+        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
+//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
+    }
+      function clickIt()
+      {
+          if(window.event.srcElement.id != "good") {
+              window.event.returnValue = false;
+           }
+      }
+</script>
 
-		<!-- END top_header -->
-		<table id="header_nav" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td width="334"><div align="left"><a href="http://www.ellusionist.com/index.php"><img src="/assets/images/logo-wreath.gif" width="334" height="76" border="0"></a></div></td>
-				<td width="566" class="navbar" id="esupport"><a href="http://www.ellusionist.com/index.php" style="font-size:11px">Home</a>
-				 <img src="/assets/images/spacer.gif" width="15" height="1">
-				 <a href="http://www.elusionist.com/forums/">Forum</a> 
-				 <img src="/assets/images/spacer.gif" width="15" height="1"> 
-				 <a href="http://www.ellusionist.com/newsletter_signup.php">newsletter</a> 
-				 <img src="/assets/images/spacer.gif" width="15" height="1"> 
-				 <a href="http://www.ellusionist.com/cart/cmr_login.php">my account</a> 
-				 <img src="/assets/images/spacer.gif" width="15" height="1">
-				 <a href="http://esupport.elusionist.com/">Contact Us</a></td>
-			</tr>
-  </tbody></table>
-		<!-- END header_nav -->
-		<div id="header_products_wrap">
-			<table id="header_products" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td width="131"><img src="/assets/images/nav/nav-bg.gif" width="131" height="37"></td>
-					<td width="142"><a href="http://www.ellusionist.com/order/Playing-Cards.php"><img src="/assets/images/nav/nav_playingcards.gif" name="Image1" width="142" height="37" border="0" id="Image1" onmouseover="MM_swapImage('Image1','','/assets/images/nav/nav_playingcards-o.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-					<td width="95"><a href="http://www.ellusionist.com/order/Tricks.php"><img src="/assets/images/nav/nav_tricks.gif" width="95" height="37" border="0" id="Image2" onmouseover="MM_swapImage('Image2','','/assets/images/nav/nav_tricks-o.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-					<td width="131"><a href="http://www.ellusionist.com/order/Coin-Magic.php"><img src="/assets/images/nav/nav_coins.gif" width="131" height="37" border="0" id="Image3" onmouseover="MM_swapImage('Image3','','/assets/images/nav/nav_coins-o.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-					<td width="112"><a href="http://www.ellusionist.com/order/DVD.php"><img src="/assets/images/nav/nav_dvd.gif" width="112" height="37" border="0" id="Image4" onmouseover="MM_swapImage('Image4','','/assets/images/nav/nav_dvd-o.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-					<td width="85"><a href="http://www.ellusionist.com/order/Books.php"><img src="/assets/images/nav/nav_books.gif" width="85" height="37" border="0" id="Image5" onmouseover="MM_swapImage('Image5','','/assets/images/nav/nav_books-o.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-					<td width="129"><a href="http://www.ellusionist.com/order/Accessories.php"><img src="/assets/images/nav/nav_accessories.gif" width="129" height="37" border="0" id="Image6" onmouseover="MM_swapImage('Image6','','/assets/images/nav/nav_accessories-o.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-					<td width="75"><a href="http://www.ellusionist.com/order/Sales.php"><img src="/assets/images/nav/nav_sales.gif" width="75" height="37" border="0" id="Image7" onmouseover="MM_swapImage('Image7','','/assets/images/nav/nav_sales-o.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-				</tr>
-			</tbody></table>
-		</div>
-		<script type="text/javascript">
-		// <![CDATA[		
-		var nav = new FlashObject("/assets/flash/nav-2.swf", "nav", "900", "37", "7", "#0F1219");
-		<!-- TemplateBeginEditable name="flashNav_vars" -->
-		nav.addVariable("fv_url1", "http://www.ellusionist.com/order/Playing-Cards.php");
-		nav.addVariable("fv_url2", "http://www.ellusionist.com/order/Tricks.php");
-		nav.addVariable("fv_url3", "http://www.ellusionist.com/order/Coin-Magic.php");
-		nav.addVariable("fv_url4", "http://www.ellusionist.com/order/DVD.php");
-		nav.addVariable("fv_url5", "http://www.ellusionist.com/order/Books.php");
-		nav.addVariable("fv_url6", "http://www.ellusionist.com/order/Accessories.php");
-		nav.addVariable("fv_url7", "http://www.ellusionist.com/order/Sales.php");
-		<!-- TemplateEndEditable -->		
-		nav.write("header_products_wrap");
-		// ]]>
-		</script>
-		<!-- END header_products_wrap -->
+<link rel="stylesheet" href="/admin/include/styles/adminbrowser.css" type="text/css">
 
-	</div></div><div id="content">
-<table id="product_bulk" border="0" align="center" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-				<td width="169" valign="top" align="left" bgcolor="#12151C" id="product_col1">
-        <div id="mm_menu">
- <link rel="stylesheet" type="text/css" href="/cart/testing/menu.css">
-				  
 
-<img src="/assets/images/product/hdr_products.gif" width="160" height="40"> <div id="customer-care">
-  <div class="menu-root" style="padding-left:8px; padding-top:5px"><a href="http://www.ellusionist.com/Product-List.php">SEE ALL PRODUCTS </a><br>
 
-</div>
-  <div class="menu" style="padding-top:10px; padding-left:8px">        <div class="item-level1">
-                <span class="menu-icon"></span>
-        <span class="menu-root">        <a href="http://www.ellusionist.com/cart/category.php?cat=21">Playing Cards</a>
-        </span>        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=29">Custom Decks</a>
-        </div>
-    
-        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=28">Standard Decks</a>
-        </div>
-    
-        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=30">Card Magic DVD's</a>
-        </div>
-    
-        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=31">Card Magic Books</a>
-        </div>
-    
-        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=32">Card Tricks</a>
-        </div>
-    
-        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=33">Props &amp; Supplies</a>
-        </div>
-    
-</div>
-    
-        <div class="item-level1">
-                <span class="menu-icon"></span>
-        <span class="menu-root">        <a href="http://www.ellusionist.com/cart/category.php?cat=24">DVD Training</a>
-        </span>        <div class="item-level2"><!-- leaf node -->
-                <a href="http://www.ellusionist.com/cart/category.php?cat=95">Ellusionist DVDs</a>
-                </div>
-    
-        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=96">Not Ellusionist</a>
-        </div>
-    
-        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=97">Shop by Subject</a>
-        </div>
-    
-        <div class="item-level2"><!-- leaf node -->
-                <a href="http://www.ellusionist.com/cart/category.php?cat=113">Downloads</a>
-                </div>
-    
-</div>
-    
-        <div class="item-level1">
-                <span class="menu-icon"></span>
-        <span class="menu-root">        <a href="http://www.ellusionist.com/cart/category.php?cat=22">Tricks</a>
-        </span>        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=55">Shop by Subject</a>
-        </div>
-    
-        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=56">Single Tricks on DVD</a>
-        </div>
-    
-        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=58">Single Tricks</a>
-        </div>
-    
-        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=57">Books</a>
-        </div>
-    
-        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=59">Props/Supplies</a>
-        </div>
-    
-</div>
-    
-        <div class="item-level1">
-                <span class="menu-icon"></span>
-        <span class="menu-root">        <a href="http://www.ellusionist.com/cart/category.php?cat=23">Coins &amp; Money</a>
-        </span>        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=80">Coin Trick DVD's</a>
-        </div>
-    
-        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=81">Single Tricks</a>
-        </div>
-    
-        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=79">Books</a>
-        </div>
-    
-        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=82">Props &amp; Supplies</a>
-        </div>
-    
-</div>
-    
-        <div class="item-level1">
-                <span class="menu-icon"></span>
-        <span class="menu-root">        <a href="http://www.ellusionist.com/cart/category.php?cat=25">Books</a>
-        </span>        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=117">Shop By Subject</a>
-        </div>
-    
-</div>
-    
-        <div class="item-level1">
-                <span class="menu-icon"></span>
-        <span class="menu-root">        <a href="http://www.ellusionist.com/cart/category.php?cat=26">Accessories</a>
-        </span>        <div class="item-level2">
-                <span class="menu-icon"></span>
-                <a href="http://www.ellusionist.com/cart/category.php?cat=130">Shop by Subject</a>
-        </div>
-    
-</div>
-    
-        <div class="item-level1">
-                <span class="menu-icon"></span>
-        <span class="menu-root">        <a href="http://www.ellusionist.com/cart/category.php?cat=27">Sales</a>
-        </span>        <div class="item-level2"><!-- leaf node -->
-                <a href="http://www.ellusionist.com/cart/category.php?cat=141">DVD/Video</a>
-                </div>
-    
-        <div class="item-level2"><!-- leaf node -->
-                <a href="http://www.ellusionist.com/cart/category.php?cat=186">Playing Cards</a>
-                </div>
-    
-        <div class="item-level2"><!-- leaf node -->
-                <a href="http://www.ellusionist.com/cart/category.php?cat=142">Books</a>
-                </div>
-    
-        <div class="item-level2"><!-- leaf node -->
-                <a href="http://www.ellusionist.com/cart/category.php?cat=143">Tricks</a>
-                </div>
-    
-        <div class="item-level2"><!-- leaf node -->
-                <a href="http://www.ellusionist.com/cart/category.php?cat=144">Miscellaneous</a>
-                </div>
-    
-</div>
-    
-</div><div class="bodytext-normal" style="padding-left:8px"><br><strong><font color="#FFFFFF">CUSTOMER CARE</font></strong><br>
-    <div class="item-level2"> <font color="#FFFFFF"></font><a href="http://www.ellusionist.com/shipping-rates.htm" class="item-level3"><font color="#b2b2b2">Shipping Methods</font></a><br>
-        <a href="http://www.ellusionist.com/international.htm"><font color="#b2b2b2">International! YES</font></a><br>
-        <a href="http://www.ellusionist.com/payment-methods.htm"><font color="#b2b2b2">Payment Methods</font></a><br>
-        <a href="http://www.ellusionist.com/mail-payment.php"><font color="#b2b2b2">Mail a Payment</font></a> <br>
-        <a href="http://www.ellusionist.com/refund-policy.htm"><font color="#b2b2b2">Refund Policy</font></a><br>
-        <a href="http://www.ellusionist.com/eSupport"><font color="#b2b2b2">Contact Us</font></a><br>
-        <a href="http://www.ellusionist.com/about-us.htm"><font color="#b2b2b2">About Us</font> </a><br>
-        <a href="http://www.ellusionist.com/site-map.htm"><font color="#b2b2b2">Site Map</font></a>
-        <p><br>
-            <a href="http://www.ellusionist.com/payment-methods.htm"><img src="/images/store-images/credit-card-nopaypal.jpg" border="0"></a><br>
-            <br>
 
-	  </p><div>
-<!-- <script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/trustlogo.js" 
 
-type="text/javascript">
 
-</script>		-->	  <!--
-TrustLogo Html Builder Code:
-Shows the logo at URL http://www1.ellusionist.com/images/store-images/hacker-safe.gif
-Logo type is  ("HGLOGO")
-Not Floating
-//-->
-<!--<script type="text/javascript">TrustLogo("/images/store-images/hacker-safe.gif", "HGLOGO", "none"); 
-</script> --></div>
-      <p></p>
-    </div>
-</div>
 
-</div>
-<img src="/order/images/transparent.gif" alt="spacer" width="166" height="1">        </div></td>
-				<td id="product_col2"><div id="product_content"><table id="product_headerbar" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr>
-                      <td width="43" class="product_headerbar"><img src="/assets/images/product/headerbar-bullet.gif" width="43" height="50"></td>
-                      <td width="519" class="product_headerbar"><div align="left"><img src="/assets/images/hdr_privacy-policy.gif" width="350" height="50"></div></td>
-                      <td width="96" class="product_headerbar"><a href="http://www.ellusionist.com/order/giftcertificates.htm"><img src="/assets/images/product/headerbar-gc.gif" width="195" height="50" border="0"></a></td>
-                    </tr>
-                  </tbody></table>
-				  <div id="general_content">
-				    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="BodyText">
-				      <tbody><tr>
-				        <td><p align="justify"><img src="/images/we-respect-your.gif" width="233" height="18"><br>
-				          <br>
-				          We value your privacy, and promise never to sell or rent your email address or personal information for your lifetime.<br>
-				          <br>
-				          The Ellusionist Store uses industry-standard SSL (128-bit Secure Sockets Layer) encryption to protect the confidentiality of your personal and credit card information during transmission over the Internet. Our privacy policy insures that your information is fully secure and protected. <br>
-				          <br>
-				          Thank you for your interest in ellusionist.com (“ellusionist®”) and our website located at <a href="http://www.ellusionist.com/" class="order-link">http://www.ellusionist.com</a>.&nbsp; We are pleased to provide this privacy policy to inform you of our practices with respect to how we collect and use personally identifiable information about visitors to our website.&nbsp; By using this website, you consent to the following terms.<br>
-				          <br>
-				          <font color="#90929D" class="style1"><strong>Children's Online Privacy Policy </strong></font></p>
-                            <p align="justify" class="block">ellusionist® has adopted special procedures applicable to personal information from children under the age of 13 in compliance with the Children's Online Privacy Protection Act of 1998. <a href="/Childrens-Privacy-Policy.htm" class="order-link">Click to read the Children's Privacy Policy</a>. Any conflicting portions of our general Privacy Policy are superceded by this Policy. </p>
-                          <p align="justify" class="style1"><font color="#BCBDC9">What we collect</font></p>
-                          <p align="justify" class="block"> The only personally identifiable information we collect about you is what you voluntarily provide to us.&nbsp; If you do not choose to provide information to us, your visit to the Site will not provide us with information by which we could personally identify you.&nbsp; If provided to ellusionist®, we may collect your contact information (e.g., name or e-mail address), <strong><em>and if you buy products from us</em></strong>, we may collect your credit card number and expiration date.&nbsp; </p>
-                          <p align="justify" class="style1"><font color="#BCBDC9">How we collect it</font></p>
-                          <p align="justify" class="block"><b> </b>ellusionist® collects your personally identifiable information provided by you when you sign up for services or buy products.</p>
-                          <p align="justify" class="style1"><font color="#BCBDC9">Use of Information</font></p>
-                          <p align="justify" class="block">ellusionist® uses your personally identifiable information to fulfill your orders and to contact you when reasonably necessary.&nbsp; ellusionist® may also use any information you have entered into the website as reasonably necessary to administer or provide customer support for the website.&nbsp; In addition, ellusionist® may periodically send you electronic correspondence with magic information, news and tricks.&nbsp; You may opt-out of receiving this correspondence by clicking the link contained in the correspondence. </p>
-                          <p align="justify" class="style1"><font color="#BCBDC9">Disclosure</font></p>
-                          <p align="justify" class="block">ellusionist® uses certain third party vendors (e.g., data storage and processing facilities and order processing services) to assist ellusionist® in providing our products and services.&nbsp; ellusionist® may transfer your personally identifiable information to such vendors who have entered into an arrangement to with ellusionist® that protects the confidentiality of your information and permits the vendor to use it only as reasonably necessary to fulfill its contract with ellusionist®.&nbsp; ellusionist® may also disclose your personally identifiable information as it believes is reasonably necessary to comply with law, regulation or other governmental authority.&nbsp; Finally, ellusionist® may disclose your personally identifiable information upon a transfer or sale to another entity of all or substantially all of ellusionist®’s assets or stock in ellusionist®’s line of business to which this Privacy Policy relates or upon any other corporate reorganization.&nbsp; </p>
-                          <p align="justify" class="style1"><font color="#BCBDC9">Links</font></p>
-                          <p align="justify" class="block"> For your convenience, we may provide links to certain third party websites or referrals to certain third parties’ products or services.&nbsp; If you choose to visit a third party’s website or use its products or services, please be aware that the third party’s privacy policy, and not ellusionist®’s, will govern your activities and any information you disclose while interacting with the third party.</p>
-                          <p align="justify" class="style1"><font color="#AEAFBB">Security</font></p>
-                          <p align="justify" class="block">ellusionist® employs procedural and technological measures, consistent with the demands of customer service, reasonably designed to protect your personally identifiable information from loss or unauthorized access, disclosure, alteration or destruction.&nbsp; </p>
-                          <p align="justify" class="style1"><font color="#AEAFBB">Updating Your Information</font></p>
-                          <p align="justify" class="block">You may update your information by sending an email to <a href="mailto:general@ellusionist.com" class="order-link">general@ellusionist.com</a> or calling <b>415.459.4945</b>.</p>
-                          <p align="justify" class="style1"><font color="#AEAFBB">Policy Changes</font></p>
-                          <p align="justify" class="block">ellusionist® reserves the right to change this privacy policy, and will post any revisions on its website located at <a href="http://www.ellusionist.com/" class="order-link">http://www.ellusionist.com</a>.&nbsp; We encourage you to review this Privacy Policy regularly for any changes.&nbsp; Your continued use of this web site will be subject to the then-current privacy policy.</p>
-                          <p align="justify" class="style1"><font color="#AEAFBB">Questions?</font></p>
-                          <p align="justify" class="block">If you have any questions about our privacy practices, please feel free to contact us at<a href="http://www.ellusionist.com/eSupport" class="order-link"> http://www.ellusionist.com/eSupport</a> or by phone at 415.459.4945.</p></td>
-                      </tr>
-			        </tbody></table>
-			      </div>
-				</div>
-				<br></td>
-      </tr>
-		</tbody></table>		
-	</div>
-	<!-- END content -->
-</div>
-<table width="900" border="0" align="center" cellpadding="0" cellspacing="0" class="RegularText">
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <title>
+      
+        Privacy &amp; Security
+        -  
+      
+        Customer Service
+        
+      
+      - Ellusionist
+    </title>
+  
+
+
+
+    <meta name="description" content="Learn powerful, impossible street magic tricks that you can learn how to do. See magic trick videos and learn magic tricks today.">
+  
+
+
+
+    <meta name="keywords" content=" ">
+  
+
+        <link rel="stylesheet" type="text/css" href="/p2p/personalization/Personalization.css" title="style">
+        <link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
+		<!-- milonic menu start -->
+        <script type="text/javascript" src="/nav/menu/milonic_src.js"></script>
+        <script type="text/javascript">
+        <!--
+        if(ns4)_d.write("<scr"+"ipt language=JavaScript src=/nav/menu/mmenuns4.js><\/scr"+"ipt>");
+        else _d.write("<scr"+"ipt language=JavaScript src=/nav/menu/mmenudom.js><\/scr"+"ipt>");
+        -->
+        </script><script language="JavaScript" src="/nav/menu/mmenudom.js"></script>
+        <script src="/includes/common.js"></script>
+        <script src="/includes/flyopen.js"></script>
+        <script src="/includes/rollover.js"></script>
+        <script src="/includes/cleartext.js"></script>
+        
+    </head>
+<body class="main">
+
+<table width="900" border="0" cellpadding="0" cellspacing="0" class="mainLayoutTable">
+
   <tbody><tr>
-    <td><div id="footer" class="RegularText">
-        <p align="center"><a href="http://esupport.elusionist.com/"><br>
-            <strong>Contact Us</strong></a> | <a href="http://www.ellusionist.com/refund-policy.htm"><strong>Return Policy</strong></a> | <a href="http://www.ellusionist.com/shipping-rates.htm"><strong>Shipping Rates</strong></a> | <a href="http://www.ellusionist.com/about-us.htm"><strong>About Us</strong></a><br>
-            <br>
-          <a href="http://www.bbbonline.org/cks.asp?id=10401141615737989" target="_blank">BBB Approved</a> | <a href="http://www.ellusionist.com/Privacy-Policy.htm">Privacy Policy</a> | <a href="http://www.ellusionist.com/Terms-of-Use.htm">Terms of Use</a> | <a href="http://www.ellusionist.com/wholesale.htm">Wholesale</a> | <a href="http://www.ellusionist.com/online-application.php">Jobs</a><br>
-              <a href="http://www.ellusionist.com/payment-methods.htm">Payment Methods</a> | <a href="http://www.ellusionist.com/international.htm">International - Yes</a> | <a href="/site-map.htm">Site Map</a><br>
-              <br>
-        <a href="http://www.ellusionist.com/Review-Ellusionist-Feedback.php" target="_blank">Review Ellusionist</a> | <a href="http://www.ellusionist.com/Real-Stories-Real-Magic.php" target="_blank">Tell Us Your Story</a> | <a href="http://www.ellusionist.com/Report-a-Glitch.php" target="_blank">Report a Glitch</a> | <a href="http://www.myspace.com/ellusionist" target="_blank">  Ellusionist on MySpace</a><a href="http://www.ellusionist.com/david-blaine.html"><br>
-          David Blaine Info</a> | <a href="http://www.illusionist.com/index.html">Illusionist</a> | <a href="http://www.ellusionist.com/html/invent-magictricks-cardtricks.htm">Invent Tricks &amp; Submit </a><br>
-        </p>
-        <div class="hr" align="center">
-            <hr align="center" size="1" class="hr">
-        </div>
-        <p align="center">© 2001-2007 Ellusionist.com LLC. All Rights Reserved.<br>
-          Toll Free: 866.244.2426 or International 415.459.4945<br>
-          Questions, comments, suggestions? <a href="http://esupport.elusionist.com/" class="underline">Contact us</a>.<br>
-          <br>
-      </p>
-    </div></td>
+    <td colspan="3" class="navheaderbg">
+      <div><!--TopNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  function checkKeyword(keyword, defaultText) {
+    var minKeywordLength = 0;
+    var maxKeywordLength = 0;
+    minKeywordLength += 3;
+    maxKeywordLength += 30;
+    var errMsg = '';
+    //alert("minKeywordLength " + minKeywordLength);
+    var searchTerms = '';
+    searchTerms = keyword.value;
+    //alert("searchTerms.length " + searchTerms.length);
+
+    var noSearchTerm = 'Please enter a keyword or phrase.';
+    var shortSearchTerm = 'Your keyword must be at least 3 characters long.';
+
+    if (searchTerms == defaultText) {
+        alert(noSearchTerm);
+        return false;
+    }
+    if (searchTerms == '') {
+        alert(noSearchTerm);
+        return false;
+    } else if ( searchTerms.length < minKeywordLength ) {
+        alert(shortSearchTerm);
+        return false;
+    } else {
+      return true;
+    }
+  }
+</script>
+
+<table border="0" width="900" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td class="clearbg"><a href="http://www.ellusionist.com/home.do"><img src="/images/en_US/global/globalnav/logo01.gif" border="0" alt="Ellusionist"></a></td>
+	<td valign="top" align="right" class="clearbg"><table border="0" cellspacing="0" cellpadding="0">
+		
+		<tbody><tr>
+			<td><table border="0" cellspacing="0" cellpadding="0" align="right">
+			<tbody><tr><td colspan="5"><img src="/images/en_US/global/globalgraphics/spacer01.gif" border="0" class="spacer12h"></td></tr>
+			<tr>
+				<td><a href="/account.do?method=start" onmouseover="rollover('top_myaccount','/images/en_US/global/globalnav/myaccount_on.gif');" onmouseout="rollover('top_myaccount','/images/en_US/global/globalnav/myaccount_off.gif');"><img src="/images/en_US/global/globalnav/myaccount_off.gif" border="0" alt="My Ellusionist Account" name="top_myaccount"></a></td>
+				<td><a href="http://www.ellusionist.com/category/customer+service.do" onmouseover="rollover('top_customerserv','/images/en_US/global/globalnav/customerservice_on.gif');" onmouseout="rollover('top_customerserv','/images/en_US/global/globalnav/customerservice_off.gif');"><img src="/images/en_US/global/globalnav/customerservice_off.gif" border="0" alt="Customer Service" name="top_customerserv"></a></td>
+				<td><a href="http://www.ellusionist.com/ordertracking.do" onmouseover="rollover('top_ordertracking','/images/en_US/global/globalnav/orderstatus_on.gif');" onmouseout="rollover('top_ordertracking','/images/en_US/global/globalnav/orderstatus_off.gif');"><img src="/images/en_US/global/globalnav/orderstatus_off.gif" border="0" alt="Check Your Order" name="top_ordertracking"></a></td>
+				<td><a href="http://www.ellusionist.com/ancillary/emailsignup.do" onmouseover="rollover('top_emailsignup','/images/en_US/global/globalnav/emailsignup_on.gif');" onmouseout="rollover('top_emailsignup','/images/en_US/global/globalnav/emailsignup_off.gif');"><img src="/images/en_US/global/globalnav/emailsignup_off.gif" border="0" alt="Email Signup" name="top_emailsignup"></a></td>
+				<td>
+				<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<script type="text/javascript">
+/*
+Milonic DHTML Menu - JavaScript Website Navigation System.
+Copyright 2004 (c) Milonic Solutions Limited. All Rights Reserved.
+Version 5+ Data File structure is the property of Milonic Solutions Ltd and must only be used in Milonic DHTML Products
+This is a commercial software product, please visit http://www.milonic.com/ for more information.
+See http://www.milonic.com/license.php for Commercial License Agreement
+All Copyright statements must always remain in place in all files at all times
+*******  PLEASE NOTE: THIS IS NOT FREE SOFTWARE, IT MUST BE LICENSED FOR ALL USE  *******
+*/
+var sub1TopOffset = 1;
+var sub1LeftOffset = -76;
+_subOffsetTop=0       // Sub menu top offset
+_subOffsetLeft=0     // Sub menu left offset
+ fixMozillaZIndex=true; //Fixes Z-Index problem  with Mozilla browsers but causes odd scrolling problem, toggle to see if it helps
+_menuCloseDelay=80   // The time delay for menus to remain visible on mouse out
+_menuOpenDelay=80     // The time delay before menus open on mouse over
+_subOffsetTop=0       // Sub menu top offset
+_subOffsetLeft=0     // Sub menu left offset
+with(menuStyleTopCart=new mm_style()){
+  itemwidth="0";
+  onclass="GlobalCartOn";
+  offclass="GlobalCartOff";
+  bordercolor="#000000";
+  borderstyle="solid";
+  borderwidth="0";
+  ondecoration="underline";
+}
+with(menuStyleCart=new mm_style()){
+  itemwidth="180";
+  onclass="GlobalCartItemOn";
+  offclass="GlobalCartItemOff";
+  bordercolor="#999999";
+  borderstyle="solid";
+  borderwidth="0";
+  outfilter="Blinds(Bands=1,direction=up, duration=0.3)";overfilter="Blinds(bands=1, direction=down, duration=0.3)";              
+}
+with(milonic=new menuname('MenuCart')){
+top = "offset=" + sub1TopOffset;
+left = "offset=" + sub1LeftOffset; 
+style=menuStyleCart;
+
+  aI("text=`<table cellspacing=0 cellpadding=0><tr><td class=cartnoitems>Your shopping cart is empty.</td></tr></table>`;pointer=default;");
+
+}
+function changeStyle (divid, stylesheetclass){
+document.getElementById(divid).className=stylesheetclass;
+}
+</script>
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr valign="top">
+    <td align="center"><script type="text/javascript">
+          with(milonic=new menuname("MenuCartTop")){
+            style=menuStyleTopCart;
+            alwaysvisible=1;
+            position="relative";
+            orientation="horizontal";
+            horizontalMenuDelay = true;
+            
+           aI("showmenu=MenuCart;opendelay=80;closedelay=80;text=`<table cellspacing=0 cellpadding=0 border=0 align=right><tr><td class=GlobalCartLeft nowrap=nowrap><span class=cart_topnav><img src=/images/en_US/global/globalgraphics/basketicon.gif border=0 align=absmiddle>&nbsp;CART</td><td class=GlobalCartRight nowrap=nowrap><div><b>0</b> items</div></td></tr></table>`;url=http://www.ellusionist.com/basket.do?nav=%2Fcategory%2Fid%2F100981%2F100987; title='View Cart';");
+          
+       }
+      drawMenus();
+            </script>
+      </td>
   </tr>
 </tbody></table>
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</div>
+				</td>
+			</tr>
+			<tr><td colspan="5"><img src="/images/en_US/global/globalgraphics/spacer01.gif" border="0" class="spacer37h"></td></tr>
+			<form name="searchForm" action="http://www.ellusionist.com/p2p/basicSearch.do" onsubmit="return checkKeyword(this.keyword, 'SEARCH HERE');"></form>
+	
+            <tr>
+				<td align="right" colspan="3"><div style="padding-right:50px; margin:0px"><a href="http://www.elusionist.com/forums" target="_blank" onmouseover="rollover('top_forum','/images/en_US/global/globalnav/forum_on.gif');" onmouseout="rollover('top_forum','/images/en_US/global/globalnav/forum_off.gif');"><img src="/images/en_US/global/globalnav/forum_off.gif" border="0" alt="Forum" name="top_forum"></a><div></div></div></td>
+                <td align="right" colspan="2"><a href="http://www.ellusionist.com/p2p/advancedSearch.do?init=true" onmouseover="rollover('top_advancedsearch','/images/en_US/global/globalnav/advancedsearch_on.gif');" onmouseout="rollover('top_advancedsearch','/images/en_US/global/globalnav/advancedsearch_off.gif');"><img src="/images/en_US/global/globalnav/advancedsearch_off.gif" border="0" alt="Advanced Search" name="top_advancedsearch"></a></td>
+			</tr>
+        
+			</tbody></table></td>
+		</tr>
+		
+	</tbody></table></td>
+	
+</tr>
+</tbody></table>
+<!--TopNav End-->
+</div>
+      <div><!--CatNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  function checkKeyword(keyword, defaultText) {
+    var minKeywordLength = 0;
+    var maxKeywordLength = 0;
+    minKeywordLength += 3;
+    maxKeywordLength += 30;
+    var errMsg = '';
+    //alert("minKeywordLength " + minKeywordLength);
+    var searchTerms = '';
+    searchTerms = keyword.value;
+    //alert("searchTerms.length " + searchTerms.length);
+
+    var noSearchTerm = 'Please enter a keyword or phrase.';
+    var shortSearchTerm = 'Your keyword must be at least 3 characters long.';
+
+    if (searchTerms == defaultText) {
+        alert(noSearchTerm);
+        return false;
+    }
+    if (searchTerms == '') {
+        alert(noSearchTerm);
+        return false;
+    } else if ( searchTerms.length < minKeywordLength ) {
+        alert(shortSearchTerm);
+        return false;
+    } else {
+      return true;
+    }
+  }
 </script>
-<script type="text/javascript">
-_uacct = "UA-394810-1";
-urchinTracker();
+
+<script>
+  var aCatImgs = new Array();
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav01_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav01_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav02_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav02_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav03_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav03_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav04_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav04_on.gif";
+  
+  preload(aCatImgs);
 </script>
-</div></div>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="900">
+<tbody><tr>
+	<td>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+
+
+    
+        
+            
+                    <td><a href="http://www.ellusionist.com/category/tricks.do" onmouseover="rollover('category:6','/images/en_US/global/globalnav/globalnav01_on.gif');" onmouseout="rollover('category:6','/images/en_US/global/globalnav/globalnav01_off.gif');"><img border="0" name="category:6" src="/images/en_US/global/globalnav/globalnav01_off.gif" alt="Tricks"></a></td>
+                
+        
+            
+                    <td><a href="http://www.ellusionist.com/category/playing+cards.do" onmouseover="rollover('category:5','/images/en_US/global/globalnav/globalnav02_on.gif');" onmouseout="rollover('category:5','/images/en_US/global/globalnav/globalnav02_off.gif');"><img border="0" name="category:5" src="/images/en_US/global/globalnav/globalnav02_off.gif" alt="Playing Cards"></a></td>
+                
+        
+            
+                    <td><a href="http://www.ellusionist.com/category/dvd+training.do" onmouseover="rollover('category:4','/images/en_US/global/globalnav/globalnav03_on.gif');" onmouseout="rollover('category:4','/images/en_US/global/globalnav/globalnav03_off.gif');"><img border="0" name="category:4" src="/images/en_US/global/globalnav/globalnav03_off.gif" alt="DVD Training"></a></td>
+                
+        
+            
+                    <td><a href="http://www.ellusionist.com/category/accessories.do" onmouseover="rollover('category:100901','/images/en_US/global/globalnav/globalnav04_on.gif');" onmouseout="rollover('category:100901','/images/en_US/global/globalnav/globalnav04_off.gif');"><img border="0" name="category:100901" src="/images/en_US/global/globalnav/globalnav04_off.gif" alt="Accessories"></a></td>
+                
+        
+      
+
+  </tr>
+</tbody></table>
+
+<!--CatNav End-->
+</td>
+<td valign="top"><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+	<form name="searchForm" action="http://www.ellusionist.com/p2p/basicSearch.do" onsubmit="return checkKeyword(this.keyword, 'SEARCH HERE');"></form>
+	
+	<tbody><tr>
+			<td align="right"><input type="text" name="keyword" value="SEARCH HERE" size="10" maxlength="30" class="navsearchbox" onfocus="if(this.value=='SEARCH HERE')this.value='';"></td>
+			<td><input type="Image" name="Search" src="/images/en_US/global/globalgraphics/search_btn.gif" border="0" alt="Go"></td>
+        </tr>
+        
+		
+	</tbody></table></div></td>
+</tr>
+</tbody></table></div>
+    </td>
+  </tr>
+
+
+  <tr valign="top">
+    
+    <td width="15" class="contentbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="1" border="0"></td>
+    <td width="870" class="contentbg_middle">
+      <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="870" height="20" border="0"></div>
+      <div>
+        
+        
+
+
+
+
+        <table border="0" cellpadding="0" cellspacing="0" width="870">
+          <tbody><tr>
+            <td>
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                  <td><a href="/category/customer+service.do"><img src="/images/en_US/local/headers/main/customerservice_mhd.gif" border="0" alt="Customer Service"></a></td>
+                  <td valign="top">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  function changeCat(frm, thisbox) {
+     var optiontxt = thisbox.options[thisbox.selectedIndex].value;
+     if (optiontxt == "0") return;
+     else location.href = optiontxt
+  }
+</script>
+
+
+<select name="subCatdd" onchange="changeCat(this.form,this)">
+    
+    
+            <option value="/category/customer+service/about+us.do">About Us</option>
+        
+    
+    
+            <option value="/category/customer+service/contact+us.do">Contact Us</option>
+        
+    
+    
+            <option value="/category/customer+service/terms+of+use.do">Terms of Use</option>
+        
+    
+    
+            <option value="/category/customer+service/privacy+%26+security.do?sortby=ourPicks" selected="">Privacy &amp; Security</option>
+        
+    
+    
+            <option value="/category/customer+service/international+shipping.do">International Shipping</option>
+        
+    
+    
+            <option value="/category/customer+service/payment+methods.do">Payment Methods</option>
+        
+    
+    
+            <option value="/category/customer+service/return+policy.do">Return Policy</option>
+        
+    
+    
+            <option value="/category/customer+service/shipping+rates.do">Shipping Rates</option>
+        
+    
+</select>
+
+</td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          
+          <tr>
+            <td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="15" border="0"></td>
+          </tr>
+          <tr valign="top">
+            <td>
+              <div class="default"><style>.block {		padding-left: 25px;	text-align: justify;}.style1 {text-transform: uppercase; padding-bottom: -5px; font-weight: bold; font-variant: normal;}a:hover {	color: #990000;}a {	color: #000000;}</style><div style="padding:10px; font-size:12px">  <p align="justify"><img src="/images/custserv/we-respect-your.gif" width="233" height="18"><br>    <br>    We value your privacy, and promise never to sell or rent your email address or personal information for your lifetime.<br>    <br>    The Ellusionist Store uses industry-standard SSL (128-bit Secure Sockets Layer) encryption to protect the confidentiality of your personal and credit card information during transmission over the Internet. Our privacy policy insures that your information is fully secure and protected. <br>    <br>    Thank you for your interest in ellusionist.com (“ellusionist®”) and our website located at <a href="http://www.ellusionist.com/" class="order-link">http://www.ellusionist.com</a>.&nbsp; We are pleased to provide this privacy policy to inform you of our practices with respect to how we collect and use personally identifiable information about visitors to our website.&nbsp; By using this website, you consent to the following terms.<br>    <br>    <font color="#666666"><strong>Children's Online Privacy Policy </strong></font></p>  <p align="justify" class="block">ellusionist® has adopted special procedures applicable to personal information from children under the age of 13 in compliance with the Children's Online Privacy Protection Act of 1998. <a href="#Childrens" class="order-link">Click to read the Children's Privacy Policy</a>. Any conflicting portions of our general Privacy Policy are superceded by this Policy. </p>  <p align="justify" class="style1"><strong><font color="#666666">What we collect</font></strong></p>  <p align="justify" class="block"> The only personally identifiable information we collect about you is what you voluntarily provide to us.&nbsp; If you do not choose to provide information to us, your visit to the Site will not provide us with information by which we could personally identify you.&nbsp; If provided to ellusionist®, we may collect your contact information (e.g., name or e-mail address), <strong><em>and if you buy products from us</em></strong>, we may collect your credit card number and expiration date.&nbsp; </p>  <p align="justify" class="style1"><font color="#666666"><strong>How we collect it</strong></font></p>  <p align="justify" class="block"><b> </b>ellusionist® collects your personally identifiable information provided by you when you sign up for services or buy products.</p>  <p align="justify" class="style1"><strong><font color="#666666">Use of Information</font></strong></p>  <p align="justify" class="block">ellusionist® uses your personally identifiable information to fulfill your orders and to contact you when reasonably necessary.&nbsp; ellusionist® may also use any information you have entered into the website as reasonably necessary to administer or provide customer support for the website.&nbsp; In addition, ellusionist® may periodically send you electronic correspondence with magic information, news and tricks.&nbsp; You may opt-out of receiving this correspondence by clicking the link contained in the correspondence. </p>  <p align="justify" class="style1"><strong><font color="#666666">Disclosure</font></strong></p>  <p align="justify" class="block">ellusionist® uses certain third party vendors (e.g., data storage and processing facilities and order processing services) to assist ellusionist® in providing our products and services.&nbsp; ellusionist® may transfer your personally identifiable information to such vendors who have entered into an arrangement to with ellusionist® that protects the confidentiality of your information and permits the vendor to use it only as reasonably necessary to fulfill its contract with ellusionist®.&nbsp; ellusionist® may also disclose your personally identifiable information as it believes is reasonably necessary to comply with law, regulation or other governmental authority.&nbsp; Finally, ellusionist® may disclose your personally identifiable information upon a transfer or sale to another entity of all or substantially all of ellusionist®’s assets or stock in ellusionist®’s line of business to which this Privacy Policy relates or upon any other corporate reorganization.&nbsp; </p>  <p align="justify" class="style1"><strong><font color="#666666">Links</font></strong></p>  <p align="justify" class="block"> For your convenience, we may provide links to certain third party websites or referrals to certain third parties’ products or services.&nbsp; If you choose to visit a third party’s website or use its products or services, please be aware that the third party’s privacy policy, and not ellusionist®’s, will govern your activities and any information you disclose while interacting with the third party.</p>  <p align="justify" class="style1"><font color="#666666"><strong>Security</strong></font></p>  <p align="justify" class="block">ellusionist® employs procedural and technological measures, consistent with the demands of customer service, reasonably designed to protect your personally identifiable information from loss or unauthorized access, disclosure, alteration or destruction.&nbsp; </p>  <p align="justify" class="style1"><strong><font color="#666666">Updating Your Information</font></strong></p>  <p align="justify" class="block">You may update your information by sending an email to <a href="mailto:general@ellusionist.com" class="order-link">general@ellusionist.com</a> or calling <b>one of the phone numbers listed below</b>.</p>  <p align="justify" class="style1"><strong><font color="#666666">Policy Changes</font></strong></p>  <p align="justify" class="block">ellusionist® reserves the right to change this privacy policy, and will post any revisions on its website located at <a href="http://www.ellusionist.com/" class="order-link">http://www.ellusionist.com</a>.&nbsp; We encourage you to review this Privacy Policy regularly for any changes.&nbsp; Your continued use of this web site will be subject to the then-current privacy policy.</p>  <p align="justify" class="style1"><strong><font color="#666666">Questions?</font></strong></p>  <p align="justify" class="block">If you have any questions about our privacy practices, please feel free to contact us at<a href="http://www.ellusionist.com/eSupport" class="order-link"> http://www.ellusionist.com/eSupport</a> or by phone at one of the numbers listed below.</p>  <hr size="1" noshade="noshade" style="color:#990000"><p align="justify"><strong><font color="#666666" style="text-transform:uppercase">Children's Online Privacy Policy </font></strong></p><p align="justify" class="block">ellusionist® has adopted special procedures   applicable to personal information from children under the age of 13 in   compliance with the <a href="http://www.ftc.gov/ogc/coppa1.htm">Children's Online Privacy Protection   Act of 1998</a>. Any conflicting portions of our general Privacy Policy are   superceded by this Policy. </p><p align="justify"><strong><font color="#666666" style="text-transform:uppercase">Contact Information </font></strong></p><p align="justify" class="block">You may contact ellusionist at:<br>  440 Coloma Street<br>  Sausalito, CA<br>  94965-1483<br>  <br>US &amp; Canada Telephone (Toll Free): 1-866-244-2426  <br>International Telephone: 1-415-459-4945</p><p align="justify"><strong><font color="#666666" style="text-transform:uppercase">What personal information do we collect   from children? </font></strong></p><p align="justify" class="block">After ellusionist® receives, via mail or fax, a   consent form signed by a parent or guardian, we may collect contact information   (name and/or e-mail address<em>), </em>and if products are purchased, we may   collect a credit card number and expiration date. A visit to the Site will not   provide us with information by which we could personally identify a child. Uses   of personal information and disclosure practices are described further in our   general privacy policy and on the parental consent form. </p><p align="justify"><strong><font color="#666666" style="text-transform:uppercase">How do we protect information about   children? </font></strong></p><p align="justify" class="block">Registration information submitted by a child's   parent cannot be modified except through submission of a modified parental   consent form or other written request. All such information is contained behind   secured networks and is only accessible by a limited number of persons and   contractors who have special access rights to such systems. All contractors have   agreed to keep this information confidential.</p><p align="justify"><strong><font color="#666666" style="text-transform:uppercase">How can parents review their child's   personal information and prevent its use or disclosure?</font></strong></p><p align="justify" class="block">A parent or guardian who permits personal   information to be collected about their child may also submit a signed written   request to review or modify the information about their child. We will delete   personal information about a child upon receipt of a written request from the   parent or guardian who initially submitted such information. In the event of   such a request, we will retain only information necessary for record keeping and   customer service for past transactions. </p><div align="justify"><strong><a href="http://www.elusionist.com/Privacy-Consent-Form.htm" target="_blank">CLICK HERE TO PRINT</a></strong> the parental consent form.</div></div></div>
+            </td>
+          </tr>
+        </tbody></table>
+    </div>
+      <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="870" height="15" border="0"></div>
+    </td>
+    <td width="15" class="contentbg_middle"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="245" border="0"></td>
+  </tr>
+
+
+  <tr valign="bottom">
+    <td align="center" colspan="3" class="navfooterbg"><!--BottomNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="900" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td colspan="2" class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="900" height="9" border="0"></td>
+</tr>
+<tr>
+	<td class="clearbg" valign="top">
+		<table border="0" cellspacing="0" cellpadding="0">
+		  <tbody><tr>
+			<td><img src="/images/en_US/global/globalgraphics/spacer01.gif" class="spacer17w" border="0"></td>
+			<td>
+				<table border="0" cellspacing="0" cellpadding="0">
+		<form id="emailSignUp" method="post" action="http://www.ellusionist.com/ancillary/emailsignup.do"></form>
+		<tbody><tr>
+			<td><input name="emailAddress" type="text" value="YOUR EMAIL HERE" size="12" maxlength="100" class="navemailbox" onfocus="if(this.value=='YOUR EMAIL HERE')this.value='';" onfocusout="if(this.value=='')this.value='YOUR EMAIL HERE';"></td>
+			<td><input type="image" name="emailSubmit" src="/images/en_US/global/globalgraphics/emailsignup_btn.gif" border="0" alt="Signup"></td>
+		</tr>
+		<tr><td colspan="2" class="free_newsletter">Free Newsletter/Updates:</td></tr>
+		<tr><td colspan="2"><img src="/images/en_US/global/globalgraphics/emailsignup.gif" border="0" alt="Sign up for the FREE Ellusionist eNewsletter."></td></tr>
+		<tr><td colspan="2"><img src="/images/en_US/global/globalgraphics/spacer01.gif" border="0" class="spacer37h"></td></tr>
+		<tr><td class="footer" colspan="2">© 2001-2008 Ellusionist.com LLC. All Rights Reserved <br>Toll Free: 866.244.2426 or International 415.459.4945</td></tr>
+		
+	</tbody></table>
+			</td>
+		  </tr>
+		</tbody></table>
+	</td>
+	<td align="right" class="clearbg" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr><td align="right"><img src="/images/en_US/global/globalgraphics/spacer01.gif" border="0" class="spacer10h"></td></tr>
+		<tr>
+			<td class="footer" nowrap="" align="right" valign="top">
+	  <div>
+	  <span><a href="http://esupport.elusionist.com/" target="_blank">Contact Us</a>
+      |
+	  <a href="http://www.ellusionist.com/category/customer+service/return+policy.do">Return Policy</a>
+      |
+	  <a href="http://www.ellusionist.com/category/customer+service/shipping+rates.do">Shipping Rates</a>
+      |
+	  <a href="http://www.ellusionist.com/category/content+pages.do?content=AboutUs">About Us</a></span>
+	  </div>
+	  <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" border="0" class="spacer25h"></div>
+	  <div>
+      <a href="http://www.ellusionist.com/category/customer+service/privacy+%26+security.do">Privacy &amp; Security</a>
+      |
+      <a href="http://www.ellusionist.com/category/customer+service/terms+of+use.do">Terms of Use</a>
+      |
+	  <a href="http://www.ellusionist.com/category/content+pages.do?content=Wholesale">Wholesale</a>
+      |
+	  <a href="http://www.ellusionist.com/category/content+pages.do?content=Jobs">Jobs</a>
+      |
+	  <a href="http://www.bbbonline.org/cks.asp?id=10401141615737989" target="_blank">BBB Approved</a><br>
+	  <a href="/wishlist/friendfind.do">Locate a Wish List</a>
+	  |
+	  <a href="http://www.ellusionist.com/category/customer+service/payment+methods.do">Payment Methods</a>
+      |
+	  <a href="http://www.ellusionist.com/category/customer+service/international+shipping.do">International Yes</a>
+      |
+      
+      <a href="http://www.ellusionist.com/ancillary/sitemap.do">Site Map</a>
+      
+	  </div>
+	  <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" border="0" class="spacer25h"></div>
+	  <div>
+	  <a href="http://www.elusionist.com/Review-Ellusionist-Feedback.php" target="_blank">Review Ellusionist</a>
+      |
+	  <a href="http://www.elusionist.com/Real-Stories-Real-Magic.php" target="_blank">Tell Us Your Story</a>
+      |
+	  <a href="http://www.elusionist.com/Report-a-Glitch.php" target="_blank">Report a Glitch</a>
+      |
+  	  <a href="http://www.elusionist.com/Invent-Tricks.php" target="_blank">Invent Tricks &amp; Submit</a><br>
+  	  <a href="http://www.myspace.com/ellusionist">Ellusionist on MySpace</a>
+      |
+  	  <a href="http://www.ellusionist.com/category/content+pages.do?content=FREEStuff">FREE Stuff</a>
+      |
+  	  <a href="http://www.ellusionist.com/category/content+pages.do?content=DavidBlaine">David Blaine Info</a>
+      |
+  	  <a href="http://www.ellusionist.com/category/content+pages.do?content=Links">Links</a>	  
+	  </div>
+	  <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" border="0" class="spacer10h"></div>
+      
+      
+      
+			</td>
+			<td><img src="/images/en_US/global/globalgraphics/spacer01.gif" class="spacer19w" border="0"></td>
+		</tr>
+	</tbody></table></td>
+</tr>
+
+</tbody></table>
+<!--BottomNav End-->
+</td>
+  </tr>
+</tbody></table>
+
+
+ 
+   
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Omniture Reporting Support -->
+
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript">
+function getId() {
+  return "MLEllusionistprod"
+}
+</script>
+<script language="JavaScript" src="/omniture/s_code.js"></script><img name="s_i_MLEllusionistprod" height="1" width="1" border="0" alt="" src="https://marketlive.122.2O7.net/b/ss/MLEllusionistprod/1/H.1-Pdv-2/s75667591134209?[AQB]&amp;ndh=1&amp;t=31/0/2020%204%3A53%3A42%205%200&amp;ns=marketlive&amp;pageName=Product%20Groups/Customer%20Service/Privacy%20%26%20Security&amp;g=https%3A//web.archive.org/web/20080509060813id_/http%253A//www.ellusionist.com/category/customer%252Bservice/privacy%252B%252526%252Bsecurity.do&amp;cc=USD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript"><!--
+s.pageName='Product Groups/Customer Service/Privacy & Security';
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img
+src="http://marketliveglobaldev.122.2O7.net/b/ss/marketliveglobaldev/1/H.1--NS/0"
+height="1" width="1" border="0" alt="" /></noscript>
+<!-- End, Omniture Reporting Support -->
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
 </body></html>
