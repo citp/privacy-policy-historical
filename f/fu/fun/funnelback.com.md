@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funnelback.com privacy policy that was archived on 2007-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070706083104id_/http%3A//www.funnelback.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnelback.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509123222id_/http%3A//funnelback.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Funnelback - Internet and Enterprise Search
+# Funnelback - Internet and Enterprise Search - Privacy Policy
 
 ### Privacy Policy 
 
@@ -73,4 +73,4 @@ Your personal information will not be released unless the law requires or permit
 
 #### Who to contact
 
-To contact Funnelback about privacy matters, please use the details provided on the ['contact us'](https://web.archive.org/web/20070706083104id_/http%3A//www.funnelback.com/Contact_Us/Contacts.html) page.
+To contact Funnelback about privacy matters, please use the details provided on the ['contact us'](https://web.archive.org/web/20080509123222id_/http%3A//funnelback.com/Contact_Us/Contacts.html) page.
