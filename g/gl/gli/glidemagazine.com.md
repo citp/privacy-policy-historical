@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glidemagazine.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010013957id_/http%3A//www.glidemagazine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glidemagazine.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509143016id_/http%3A//www.glidemagazine.com/privacy.php) for the most accurate reproduction.*
 
-# Glide Magazine
+# Glide Magazine - Privacy Policy
 
 _Glide Magazine_ ("Glide") is committed to protecting the privacy of the personally identifiable information that we collect from you as you use this Web site. The scope of our commitment is detailed in this Privacy Policy. By submitting information, you agree to _Glide Magazine's_ use of such information as described below. 
 
