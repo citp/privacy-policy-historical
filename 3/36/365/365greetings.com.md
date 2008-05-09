@@ -1,41 +1,63 @@
-> *The following text is extracted and transformed from the 365greetings.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223141017id_/http%3A//www.365greetings.com/upcardme.php%3Fstep%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365greetings.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509084029id_/http%3A//www.365greetings.com/privacy.php) for the most accurate reproduction.*
 
-# Free Greetings and Free Ecards - 365greetings.com
+# Free greetings - Privacy ecards
 
-> Privacy Policy
-> 
-> We have created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for our Site **Membership Information**
-> 
-> Information that allows 365greetings.com to fulfill your request. Generally, the Operators will not share any personal information submitted by you without posting a notification that the Operators intend to do so. With your permission, the Operators may share information submitted by you with the Site’s business partners that provide promotional material or help to publish our Web site, maintain our database and/or fulfill orders you have made. You may opt out of receiving materials from such sources at any time requesting to do so at  **[admin@365greetings.com](mailto:admin@365greetings.com)**
-> 
-> Registration. You will be required to register to take advantage of some of the interactive activities on the Site . To register, you will need to submit your full name and e-mail address and to select a unique member name to be used as an identifier for the feature, and a password. 
-> 
-> Either you or the Operators may terminate your membership at any time, for any reason, effective upon sending written notice to the other party. The Operators reserve the right to immediately suspend or terminate your access to the ecard service, without any prior notice, upon any breach of this Agreement by you which is brought to the Operators attention.
-> 
-> In the course of using our site, we automatically track certain information such as your IP addresses and e-mail addresses. Many sites automatically collect this information. If you choose to post messages in our message areas (such as e-cards), we will only display such information about you as you choose to reveal. 
-> 
-> If you send us personal correspondence, such as emails, e-cards or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file which is only accessed by authorized personnel. We may also collect other users' comments about you in our complaints department. 
-> 
-> **Opting Out; Reviewing and Changing Your Information  
->  **  
->  Opting Out. When you sign up for any feature on the Site, you may choose to opt out of (a) receiving communications from the Site or about new features or services, and (b) receiving communications from third-party companies concerning their products or services. If you would like to stop such use of your personal information at any time and for any reason, you may notify that preference by emailing us at  **[admin@365greetings.com](mailto:admin@365greetings.com)** **Security Policies**
-> 
-> Please keep in mind that whatever you publicly disclose online - for example in an e-card, or through e-mail - can be collected and used by others or unlawfully intercepted by third parties. No data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information, the Operators cannot warrant the security of any information you transmit to us and you do so at your own risk. In addition, the Operators may disclose information to law enforcement or other government officials if we determine such disclosure to be necessary or appropriate, or if we are compelled to disclose it by court order or operation of law. 
-> 
-> Your 365greetings.com membership registration account is password protected so that only you can access it and view the member information relevant to your account. We recommend that you do not divulge your password to anyone. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or account information. Please be careful and responsible whenever you are online. 
-> 
-> **Use of Cookies  
->  **  
->  Cookies are pieces of information that a Web site transfers to a user's computer hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your preferences while you are at our site. We never save passwords or credit card information in cookies. Accepting a cookie does not give anyone access to your computer or to any personal information. It is simply a small file in which we keep information that identifies you as a unique user. For example, we may use a cookie to indicate when you have already voted for a particular site to prevent multiple voting and a distortion of results. 
-> 
-> The use of cookies is an industry standard - you'll find them at most major Web sites. Most browsers are initially configured to accept cookies. However, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. Although you will still be able to enjoy many of the features on the Site if you disable your browser from accepting cookies, some parts of the Site’s service will not function properly or may be considerably slower if you refuse cookies. 
-> 
-> About IP Addresses and Surveys Used for Research Purposes 
-> 
-> An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers - the computers that "serve up" Web pages - automatically identify your computer by its IP address. When users request pages on the site, our servers log their IP addresses. Some activities within the Site, such as posting a chat message, may display IP addresses along with the user's first name and message. Please review each activity prior to use and only participate in those that involve the disclosure of information you are comfortable with sharing. 
-> 
-> **Links from 365greetings.com to Other Web Sites  
->  **  
->  The Operators Privacy Policy addresses only the use and disclosure of information we collect from you on the Site. You may occasionally get cookies from businesses that advertise on the site which the Operators do not control and when you link to the Web sites of third party advertisers, for example through an advertising banner, your use of those sites will be subject to the privacy policies of such third parties, which may differ from the Operators’ Privacy Policy. **Your Acceptance of These Terms  
->  **  
->  By using the Site, you signify your consent to the collection and use of personal information by the Operators as outlined in this Privacy Policy. If you do not agree to this policy, please do not use our site. If we make any material changes to the Privacy Policy, those changes will be posted on this page so that you are always aware of what personal information the Operators collect, how that information is used, and under what circumstances the Operators disclose that information. Since this policy may change from time to time, you should check back periodically. Your continued use the Site following the posting of changes to these terms will mean you accept those changes. 
+  
+
+
+##### Free greetings Privacy Policy 
+
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Free greetings , (Free greetings includes all Web sites and certain other Internet media properties hyper linked from the Free greetings home page.) The following discloses our Privacy Policy. 
+
+##### What information are you collecting and how are you collecting it? 
+
+Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the Free greetings , our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the Free greetings , its users, or to cooperate with law enforcement. See also Will you disclose the information you collect to outside third parties? We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
+
+##### What are cookies? 
+
+From time to time, Free greetings or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of Free greetings you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
+
+##### How do you use single-pixel gifs? 
+
+Free greetings and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. Free greetings does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser. 
+
+##### What information do you collect when I register for something? 
+
+Free greetings offers access to some services that require registration. We may use your registration contact information to send notification to you of Free greetings products and services by e-mail and/or postal mail. We also may share that information with our clients. Our clients may send you promotional material that is related to the topic of the service for which you registered. We may also use your IP address internally and share it with third parties. See Will you disclose the information that you collect to outside third parties? 
+
+##### What other information do you request? 
+
+We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about conferences and trade shows). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy.
+
+We may from time to time send e-mail announcing new Free greetings products and services. Except as stated above, Free greetings will not send you e-mail that you have not agreed to receive. If you choose to supply your postal address in an online form, you may receive postal mailings from other third party companies. 
+
+When you sign up for an Free greetings discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the Free greetings . 
+
+When you register for a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. 
+
+When you use co-branded services, or those provided by a third party, within the Free greetings , your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. 
+
+##### Will you disclose the information you collect to outside third parties?
+
+Free greetings will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to: 
+
+  1. Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on Free greetings , 
+  2. Protect and defend the rights or property of the Free greetings of sites and related properties, or visitors to the Free greetings of sites and related properties, 
+  3. Identify persons who may be violating the law, the Free greetings legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the Free greetings or its related properties, 
+  4. Fulfill a user's order or request. 
+
+
+
+Free greetings uses reasonable precautions to keep the information disclosed to us secure. Free greetings reserves the right to transfer all such information in connection with the sale of all or part of Free greetings 's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users See below, What else should I know about my privacy when online? See What information do you collect when I register for something. 
+
+##### What else should I know about my privacy when online? 
+
+The Free greetings contains many hyperlinks to third party Web sites. The Free greetings also contains advertisements of third parties. Free greetings is not responsible for the privacy practices or the content of such third party Web sites or advertisers. Free greetings does not share any of the individual personal information you provide Free greetings with the third parties to which Free greetings links, except as stated elsewhere within this Privacy Policy, although Free greetings may share general, aggregate data with such third parties (such as how many people use our site). Please check with those Web sites to determine their privacy policy. 
+
+Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+
+Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
+
+##### Your Consent To This Agreement
+
+By using the Free greetings , you consent to the collection and use of information by Free greetings as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Please send any questions about Free greetings Privacy Policy to: admin(at )365greetings.com Please note that your use of the Free greetings of Web sites is governed by our Legal Notice. Copyright 2003 Free greetings All Rights Reserved. 
