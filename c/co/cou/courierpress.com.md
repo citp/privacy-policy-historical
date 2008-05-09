@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the courierpress.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014034554id_/http%3A//www.courierpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courierpress.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509164259id_/http%3A//www.courierpress.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy & User Agreement : News : Evansville Courier Press
+# Privacy Policy & User Agreement : : News : Evansville Courier Press
 
 Courierpress.com and TheGleaner.com Copyright and Privacy Policy
 
@@ -86,6 +86,9 @@ By uploading or otherwise posting any Content on the Site, you represent and war
 You agree not to upload, transmit, distribute or otherwise publish in these or any other Forums connected with the Company any Materials which are:
 
 libelous, defamatory, obscene, abusive, pornographic, threatening, or an invasion of privacy;   
+predominantly personal attacks on other users;  
+an infringement of the intellectual property rights, including, but not limited to, copyrights and trademarks, of any person or entity;   
+excessively repetitive or otherwise an attempt to circumvent character limits;  
 illegal in any way or which advocate illegal activity;   
 an advertisement or solicitation of funds, goods, or services.
 
