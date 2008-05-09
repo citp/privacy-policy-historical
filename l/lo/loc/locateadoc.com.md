@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218124503id_/http%3A//www.locateadoc.com/Site_Tools/Privacy_Notice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509141121id_/http%3A//www.locateadoc.com/Site_Tools/Privacy_Notice.cfm) for the most accurate reproduction.*
 
 # LocateADoc Disclaimer
 
@@ -64,6 +64,12 @@ We may disclose anonymous information about user habits, characteristics and use
 **In the event LocateADoc, LLC goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
 
 
+
+## **Advertising**
+
+LocateADoc.com uses technology provided by a third-party advertising company to serve ads when you visit this Web site. This technology may use information about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this Web site, such third-party advertising technology may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used to target ads to you, please visit <http://www.doubleclick.net/us/corporate/privacy>. In addition, you have the ability to accept or decline cookies by modifying the settings in your browser.
+
+LocateADoc.com may also use a third party ad network provider to help present advertisements on this Web site. Third-party ad serving enables LocateADoc.com to target advertisements to you for products and services you might be interested in. These third party network advertisers, along with other advertisers and sponsors on the Web site, may use cookies, web beacons (also called single pixel gifs or action tags) or similar technologies (and, in the case of cookies, access them on your computer if you choose to have cookies enabled in your browser) to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicated advertisements. In doing so, the provider collects non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed and other clickstream data. The use of third party cookies, web beacons and similar technologies by these ad network providers is governed by each third party's specific privacy policy, not this one. Please visit <http://www.networkadvertising.org/optout_nonppii.asp> to learn more about the information collection practices and "opt-out" procedures of third party ad networks we may use.
 
 ## **How Secure is my Personal Information?**
 
