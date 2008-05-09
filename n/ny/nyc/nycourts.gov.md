@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the nycourts.gov privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601174758id_/http%3A//nycourts.gov/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycourts.gov privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509082120id_/http%3A//www.nycourts.gov/privacy/index.shtml) for the most accurate reproduction.*
 
-# INTERNET WEB SITE PRIVACY POLICY
+# Internet Web Site Privacy Policy
 
-STATE OF NEW YORK  
-UNIFIED COURT SYSTEM 
-
-INTERNET WEB SITE PRIVACY POLICY
+Internet Web Site Privacy Policy
 
 * * *
 
@@ -65,7 +62,7 @@ back to top
 
 During your visit to this web site you may send an e-mail to the UCS. Your e-mail address and the contents of your message will be collected. The information collected is not limited to text characters and may include audio, video and graphic information formats included in the message. Your e-mail address and the information included in your message will be used to respond to you, to address issues you identify, to improve this web site, or, where appropriate, to forward your message to another public agency for follow-up. Your e-mail address is not collected for commercial purposes, and the UCS is not authorized to sell or otherwise disclose your e-mail address for commercial purposes.
 
-During your visit to this web site you may initiate a transaction such as a survey, registration or order. The information, including personal information, volunteered by you in initiating the transaction is used by the UCS to operate UCS programs, which may include the provision of goods, services and information. The information collected by the UCS may be disclosed by the UCS for those purposes that may be reasonably ascertained from the nature and terms of the transaction in connection with which the information was submitted. (For example, responses to a survey regarding the operation of the UCS web site may be used to improve services offered on the web site.) Except for ongoing voluntary transactions, the UCS does not store information that allows the web site to recognize users when they visit the web site again.
+During your visit to this web site you may initiate a transaction such as a survey, registration or order. The information, including personal information, volunteered by you in initiating the transaction is used by the UCS to operate UCS programs, which may include the provision of goods, services and information. The information collected by the UCS may be disclosed by the UCS for those purposes that may be reasonably ascertained from the nature and terms of the transaction in connection with which the information was submitted. (For example, responses to a survey regarding the operation of the UCS web site may be used to improve services offered on the web site.) Except for ongoing voluntary transactions, the UCS does not store information that allows the web site to recognize users when they visit the web site again. 
 
 The UCS, in general, does not knowingly collect personal information from children or create profiles of children through this web site. To the extent that UCS provides the opportunity for children to e-mail questions or comments, the UCS does not share the information received with third parties or create profiles of children using such information. Users are cautioned, however, that, other than in a special program directed at questions and comments by children, the collection of personal information submitted in an e-mail will be treated as though it was submitted by an adult, and may, unless exempted from access by federal or State law, be subject to public access. The UCS strongly encourages parents, guardians, and teachers to be involved in children’s Internet activities and to provide guidance whenever children are asked to provide personal information online.
 
@@ -143,6 +140,6 @@ New York State Unified Court System
 Office of Court Administration  
 25 Beaver Street  
 New York, NY 10004  
-Attention: Phillip Yow, Webmaster
+Attention: Phillip Yow, Website Systems Director
 
 back to top
