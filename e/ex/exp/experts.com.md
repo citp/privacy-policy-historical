@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228122517id_/http%3A//www.experts.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509121320id_/http%3A//www.experts.com/privacy.asp) for the most accurate reproduction.*
 
-# Experts.com - The Premiere Online Experts Directory
+# Experts.com - The Premiere Expert Witness Directory
 
   
 [](http://www.experts.com/testimonials.asp)
@@ -79,6 +79,6 @@
   
 
 
-©Copyright 1994-2006 Experts.com. All Rights Reserved. 
+©Copyright 1994-2008 Experts.com. All Rights Reserved. 
 
 | 
