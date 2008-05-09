@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phones4u.co.uk privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005131626id_/http%3A//www.phones4u.co.uk/Help/help_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phones4u.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509182530id_/http%3A//www.phones4u.co.uk/Help/help_privacy.asp) for the most accurate reproduction.*
 
 # Phones 4u - Privacy Policy
 
@@ -73,10 +73,14 @@ we use Persistent Cookies to help us recognise you as a unique visitor when you 
 
 We cannot identify you personally in this way and we do not collect or monitor your customer information in conjunction with your Cookie information][although we may collect and monitor your customer information in conjunction with your Cookie information.
 
-### Web Beacons :
+### Web Beacons:
 
 we use Web Beacons to collect only limited information including but not limited to, a Cookie number, which Web page you visited, the number of times you visited that Web page, the time and date you visited that Web page, the length of that visit and a description of the Web page which you visited and on which the Web Beacon resides. We use this information to compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure of our website. We can also use this information to recognise whether you have visited our Website before. Unless specifically deleted this information may be stored and accessed for an indefinite period of time.  
 
+
+### Third party Cookies:
+
+We use third-party advertising technology to serve our advertisements when you visit our website and sites upon which we advertise. This technology uses information about your visits to this website and the sites upon which we advertise, to serve our advertisements to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we use Web beacons, provided by our third-party ad server, to help manage and optimize our online advertising. These Web beacons enable our ads server, on our behalf or on behalf of our agent, to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our website. Our third-party ad server is performing its functions on our behalf or on behalf of our agent, and we may, directly or indirectly, instruct such ad server to enable other service providers to receive information about our site related to our online advertising.
 
 ### Disabling Cookies:
 
