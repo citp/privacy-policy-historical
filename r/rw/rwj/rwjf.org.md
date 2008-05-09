@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216100400id_/http%3A//www.rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509170209id_/http%3A//www.rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.*
 
 # RWJF - Web Policies - Privacy Statement
 
@@ -136,7 +136,7 @@ If, however, we are going to use users' personally identifiable information in a
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Phone (877) 843-RWJF  
+Phone (877) 843-RWJF (7953)  
 Fax: 609-627-6401, Attention RWJF Web Privacy   
 Email: [Contact Us](https://web.archive.org/global/contactus.jsp)  
 Postal Address
