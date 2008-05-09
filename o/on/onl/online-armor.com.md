@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-armor.com privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109123909id_/http%3A//online-armor.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-armor.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509190407id_/http%3A//online-armor.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,4 +50,4 @@ Your name name, telephone number and address and email details are stored in a 
 
 We will communicate with you via email. It will be for the purpose of service announcements and/or billing reminders only.  We also communicate with our customers in the public forums.
 
-For more information Please [contact us ](https://web.archive.org/web/20071109123909id_/http%3A//online-armor.com/contact_us.html)
+For more information Please [contact us ](https://web.archive.org/web/20080509190407id_/http%3A//online-armor.com/contact_us.html)
