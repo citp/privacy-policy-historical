@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentable.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211124450id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentable.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509055813id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Online Reservations Privacy Policy - OpenTable
 
@@ -59,19 +59,15 @@ You may also consent to receive marketing communications from the restaurant at 
 
 OpenTable may use your personal information for the following purposes: 
 
-1) to secure your reservation at the OpenTable restaurant you've selected, by providing your name and contact phone number to that restaurant, 
+  1. to secure your reservation at the OpenTable restaurant you've selected, by providing your name and contact phone number to that restaurant, 
+  2. to provide you with dining gift certificates and other products and services of the OpenTable Websites, 
+  3. to provide you with information about the services of the OpenTable Websites, 
+  4. to provide services which Registered Users are entitled to under applicable terms and conditions, 
+  5. to produce aggregate statistical data for the improvement of services offered by the OpenTable Websites, 
+  6. to provide you with restaurant recommendations based on your dining history, 
+  7. for any other purposes related to those above. 
 
-2) to provide you with dining gift certificates and other products and services of the OpenTable Websites, 
 
-3) to provide you with information about the services of the OpenTable Websites, 
-
-4) to provide services which Registered Users are entitled to under applicable terms and conditions, 
-
-5) to produce aggregate statistical data for the improvement of services offered by the OpenTable Websites, 
-
-6) to provide you with restaurant recommendations based on your dining history, 
-
-7) for any other purposes related to those above. 
 
 **Viewing your profile and changing your personal information:**
 
@@ -92,9 +88,9 @@ OpenTable will **never** sell, rent, loan or otherwise distribute any of your pe
 
 OpenTable does use aggregate data (based partly on IP addresses of website visitors) collected through its website to analyze website usability, system performance and usage trends. While this data, in its aggregate form only, may be shared with third parties with whom OpenTable works to analyze it, the data will only be shared under the strictest terms of confidentiality and will never contain any personally identifiable information pertaining to any user of the OpenTable Websites. 
 
-Specifically, through an association with a company named WebSideStory, Inc. ("WebSideStory"), OpenTable may use web beacons and the HBX Analytics auditing software to track page views and entry and exit points to and from OpenTable Websites. WebSideStory may place and analyze the cookies on your internet browser to help determine the effectiveness of OpenTable advertising and marketing campaigns. Again, the data collected will only be used in an aggregate form and will not contain any personally identifiable information, and only OpenTable and WebSideStory will have access to this aggregate data. WebSideStory is legally bound to OpenTable under strict confidentiality provisions and will never share any of this data with any third party or use this information for any other purpose not described herein. You may choose to opt-out of WebSideStory's analysis of your browsing behavior on the OpenTable Websites. To learn more about WebSideStory, the HBX Analytics software or to exercise your opt-out choices, please visit: http://www.websidestory.com/privacy/privacy-policy.html#7 
+Specifically, through an association with a company named WebSideStory, Inc. ("WebSideStory"), OpenTable may use web beacons and the HBX Analytics auditing software to track page views and entry and exit points to and from OpenTable Websites. WebSideStory may place and analyze the cookies on your internet browser to help determine the effectiveness of OpenTable advertising and marketing campaigns. Again, the data collected will only be used in an aggregate form and will not contain any personally identifiable information, and only OpenTable and WebSideStory will have access to this aggregate data. WebSideStory is legally bound to OpenTable under strict confidentiality provisions and will never share any of this data with any third party or use this information for any other purpose not described herein. You may choose to opt-out of WebSideStory's analysis of your browsing behavior on the OpenTable Websites. To learn more about WebSideStory, the HBX Analytics software or to exercise your opt-out choices, please visit: <http://www.websidestory.com/privacy/privacy-policy.html#7>
 
-In addition, through an association with a company named Epsilon Interactive (formerly known as DoubleClick), OpenTable uses web beacons and cookies to monitor behavior with respect to email sent by OpenTable to Registered Users who have opted to receive email from OpenTable. Again, the data collected will only be used in an aggregate form, and only OpenTable and Epsilon Interactive will have access to this data. Epsilon Interactive is legally bound to OpenTable under strict confidentiality provisions and will never share any of this data with any third party. You may also choose to opt out of Epsilon Interactive's data analysis. To learn more about Epsilon Interactive and how to exercise your opt-out rights, please visit: http://www.epsiloninteractive.com/eisite/privacy/privacy.htm 
+In addition, through an association with a company named Epsilon Interactive (formerly known as DoubleClick), OpenTable uses web beacons and cookies to monitor behavior with respect to email sent by OpenTable to Registered Users who have opted to receive email from OpenTable. Again, the data collected will only be used in an aggregate form, and only OpenTable and Epsilon Interactive will have access to this data. Epsilon Interactive is legally bound to OpenTable under strict confidentiality provisions and will never share any of this data with any third party. You may also choose to opt out of Epsilon Interactive's data analysis. To learn more about Epsilon Interactive and how to exercise your opt-out rights, please visit: <http://www.epsiloninteractive.com/eisite/privacy/privacy.htm>
 
 If you choose to provide feedback on your dining experience by completing a Diner Feedback Form (gFeedback Formh), any feedback you provide may be summarized with that of other diners to enhance information on the OpenTable websites and/or let restaurants know how they are doing. Your feedback will not be publicized in a way that is attributable to you by name, email address, or any other identifiable form. However there is the potential that a restaurant may associate a particular feedback with your dining reservation. 
 
@@ -134,9 +130,7 @@ For questions or opinions on OpenTable's privacy policy, contact OpenTable via e
 
 **_Japan_**
 
-For general inquiries regarding the website and how to access and change your personal information, contact OpenTable at [supportjapan@opentable.com](mailto:supportjapan@opentable.com). 
-
-For general questions regarding the handling of your personal information, contact OpenTable at [infojapan@opentable.com](mailto:infojapan@opentable.com). 
+For questions regarding Privacy Policy and information regarding Personal Information Protection Statement, visit <http://www.opentable.jp/info/pipstatement.aspx>. 
 
 **_BBB OnLine Privacy Program:_**
 
