@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrightslaw.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228011333id_/http%3A//www.wrightslaw.com/priv_plcy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrightslaw.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509125417id_/http%3A//www.wrightslaw.com/priv_plcy.htm) for the most accurate reproduction.*
 
 # Wrightslaw Privacy and Securities Policies
 
