@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowcontrolnetwork.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518083326id_/http%3A//www.gvmg.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowcontrolnetwork.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509182900id_/http%3A//www.gvmg.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Grandview Media Group, Inc.Website Privacy Policy
 
