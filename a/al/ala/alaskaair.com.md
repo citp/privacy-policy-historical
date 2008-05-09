@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015183722id_/http%3A//www.alaskaair.com/as/www2/help/faqs/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509122507id_/http%3A//www.alaskaair.com/as/www2/help/faqs/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # Alaska Airlines Privacy Policy
 
-Updated 04/30/2007
+Updated 01/30/2008
 
 ## Protecting your Privacy
 
@@ -31,12 +31,12 @@ We reserve the right to modify our Privacy Policy at any time. In the event that
 
 Alaska Airlines and Horizon Air will ask you to provide personal information in order to conduct transactions and allow you to take advantage of services provided on our Web sites. This information may include, but is not limited to, such items as your name, address, date of birth, phone number, e-mail address, Mileage Plan number, credit card number, as well as similar items.
 
-The collection of personal information will occur at the time: 
+The collection of personal information will occur at the time:
 
-  * You sign up for a My Account profile 
-  * You subscribe to the alaskaair.com Insider Newsletter 
-  * You register for a promotion /contest /sweepstakes /survey 
-  * You purchase a ticket or other goods or services through the Web sites 
+  * You sign up for a My Account profile
+  * You subscribe to the alaskaair.com Insider Newsletter
+  * You register for a promotion /contest /sweepstakes /survey
+  * You purchase a ticket or other goods or services through the Web sites
 
 
 
@@ -78,12 +78,12 @@ We make the My Account functionality available to you in order to expedite your 
 
 Except as specified in this Privacy Policy, Alaska Airlines will not sell or share your personal information with anybody outside Alaska Airlines/Horizon Air. For your protection, we do not include your e-mail address or credit card information when providing personal information to third parties for the purpose of promotional offers. However, we may disclose personal information to companies affiliated with Alaska and/or third parties to fulfill the products and services you have requested.
 
-  * We may share pertinent personal information (including billing information) with our business partners or vendors to enable us to perform routine business functions. 
-  * We routinely use email to communicate with you regarding the maintenance of memberships and services that you have enrolled in. This includes Mileage Plan member information, yearly Boardroom renewal notices, EasyBiz customer information, etc. 
-  * If you have a My Account profile and have opted-in to receive online subscriptions, from time to time, we may share information contained in your profile with our Mileage Plan partners in order to provide you with more opportunities to earn or redeem miles, or to advise you of other benefits associated with our Mileage Plan program. 
-  * Your information may also be used by Alaska Airlines, Horizon Air, or shared with third parties in order to complete surveys, sweepstakes, contests, or promotions in which you choose to participate. 
-  * We never share member information for members that we know or believe to be under the age of 18, with anyone outside of Alaska Airlines and Horizon Air. 
-  * We may disclose personal information in accordance with a lawful request or court order, to protect third-party rights, if we believe that the safety of a third-party would be jeopardized by not disclosing data. 
+  * We may share pertinent personal information (including billing information) with our business partners or vendors to enable us to perform routine business functions.
+  * We routinely use email to communicate with you regarding the maintenance of memberships and services that you have enrolled in. This includes Mileage Plan member information, yearly Boardroom renewal notices, EasyBiz customer information, etc.
+  * If you have a My Account profile and have opted-in to receive online subscriptions, from time to time, we may share information contained in your profile with our Mileage Plan partners in order to provide you with more opportunities to earn or redeem miles, or to advise you of other benefits associated with our Mileage Plan program.
+  * Your information may also be used by Alaska Airlines, Horizon Air, or shared with third parties in order to complete surveys, sweepstakes, contests, or promotions in which you choose to participate.
+  * We never share member information for members that we know or believe to be under the age of 18, with anyone outside of Alaska Airlines and Horizon Air.
+  * We may disclose personal information in accordance with a lawful request or court order, to protect third-party rights, if we believe that the safety of a third-party would be jeopardized by not disclosing data.
 
 
 
@@ -109,8 +109,8 @@ You can subscribe to or opt-out of Alaska's e-mail products, or update your pers
 
 Alaska Airlines and Horizon Air utilize e-mail to fulfill the following types of communications, if you have subscribed:
 
-  * **e-Statements** \- A monthly electronic statement of your current Mileage Plan account activity. Statement subscription may include occasional e-mail communication with special offers from Alaska Airlines and our partners. 
-  * **_Insider_ Newsletter** \- A single weekly e-mail featuring e-Certificates, Web Specials, fare sale information and other Alaska Airlines and Horizon Air, Mileage Plan, and Vacations news and promotions. 
+  * **e-Statements** \- A monthly electronic statement of your current Mileage Plan account activity. Statement subscription may include occasional e-mail communication with special offers from Alaska Airlines and our partners.
+  * **_Insider_ Newsletter** \- A single weekly e-mail featuring e-Certificates, Web Specials, fare sale information and other Alaska Airlines and Horizon Air, Mileage Plan, and Vacations news and promotions.
 
 
 
@@ -118,7 +118,7 @@ Alaska Airlines and Horizon Air utilize e-mail to fulfill the following types of
 
 Alaska Airlines Visa Card from Bank of America provides you with a means to earn miles faster. If you choose to apply for an Alaska Airlines Visa card, you will link from this Web site to Bank of America's Web site and will be required to enter certain personally identifiable information as part of the credit application process. You can refer to Bank of America's privacy statement posted on their Web site to understand how the information you supply will be used. Bank of America is the issuer of the credit card, and Bank of America Card Services dictates all terms and conditions of being a cardholder.
 
-When you create an Alaskaair.com My Account, we share a finite amount of information to Bank of America to "pre-qualify" you for the Alaska Airlines Visa Card. You can choose to stop "prescreened" offers of credit from Bank of America and other companies by calling toll free 1-888-5-OPT-OUT (1-888-567-8688) before you create a My Account profile. This "prescreened" offer of credit is based on information in your credit report indicating that you meet certain criteria. This offer is not guaranteed if you do not meet the credit bureau’s criteria.
+When you create or sign into an Alaskaair.com My Account, we share a finite amount of information to Bank of America to "pre-qualify" you for the Alaska Airlines Visa Card. You can choose to stop "prescreened" offers of credit from Bank of America and other companies by calling toll free 1-888-5-OPT-OUT (1-888-567-8688) before you create or sign into a My Account profile. This "prescreened" offer of credit is based on information in your credit report indicating that you meet certain criteria. This offer is not guaranteed if you do not meet the credit bureau’s criteria.
 
 ## Children Under 13
 
