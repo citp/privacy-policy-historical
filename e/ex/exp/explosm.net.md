@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the explosm.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211190450id_/http%3A//www.explosm.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explosm.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509120940id_/http%3A//www.explosm.net/privacy) for the most accurate reproduction.*
 
-# Explosm.net - Flash Animations, Daily Comics, and more!
+# Explosm! - Flash Animations, Daily Comics, and more! @ Explosm.net
+
+  
+
 
 ##  Privacy Statement for Explosm 
 
@@ -100,5 +103,4 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-matt (at) explosm.net    
-
+matt (at) explosm.net 
