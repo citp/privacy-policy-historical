@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the rachaelray.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208175253id_/http%3A//www.rachaelray.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rachaelray.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509090022id_/http%3A//www.rachaelray.com/privacy.php) for the most accurate reproduction.*
 
 # Rachael Ray's Official Website :: Privacy Policy
 
-_**Last modified on November 21, 2007**_
+_**Last modified on March 13, 2008  
+**_
 
   
 **Privacy Policy**
@@ -17,11 +18,7 @@ Overview
 This Privacy Policy is intended to provide you with information as to: (i) the type of information that is collected, (ii) how collected information is used and with whom it is shared; (ii) how we intend to protect the information; and (iii) how you can access, modify and/or delete such information. 
 
 California Privacy Rights  
-Under California law, California residents who have provided personal information to a company may have the right to request a list of all third parties to whom that company had disclosed such information for the third parties’ direct marketing purposes during the preceding calendar year, along with a list of the categories of personal information that had been so disclosed.  However if a company adopts and discloses a privacy policy that provides the ability to opt-out of such disclosures to third parties for the third parties’ direct marketing purposes, then the company is not required to maintain and provide such lists, and instead may provide you with information on how to exercise your right to prevent disclosure of your personal information.  Because the privacy policy as disclosed on this Site provides you with an opportunity to opt-out of disclosures by us of your Personal Consumer Information to third parties for their direct marketing purposes, we do not have to provide you with such lists.  If you are a California resident who would like information on how to exercise your rights concerning third party disclosures, you may send an email to _[**this address**](mailto:privacy@rachaelray.com) _or contact us via postal mail at:
-
-    California Privacy Rights Information  
-    Rachael Ray Digital LLC  
-    541 Second ave; Pelham, NY 10803
+Under California law, California residents who have provided personal information to a company may have the right to request a list of all third parties to whom that company had disclosed such information for the third parties’ direct marketing purposes during the preceding calendar year, along with a list of the categories of personal information that had been so disclosed.  However if a company adopts and discloses a privacy policy that provides the ability to opt-out of such disclosures to third parties for the third parties’ direct marketing purposes, then the company is not required to maintain and provide such lists, and instead may provide you with information on how to exercise your right to prevent disclosure of your personal information.  Because the privacy policy as disclosed on this Site provides you with an opportunity to opt-out of disclosures by us of your Personal Consumer Information to third parties for their direct marketing purposes, we do not have to provide you with such lists.  If you are a California resident who would like information on how to exercise your rights concerning third party disclosures, you may send an email to _[**this address**](mailto:privacy@rachaelray.com). _
 
       Attn:  California Privacy Rights Administrator
 
@@ -66,7 +63,7 @@ You may update and/or correct the Personal Consumer Information collected on the
 Linked Sites  
 From time to time, the RachaelRay.com website may contain links to other websites that are not controlled and/or maintained by RRD.  Please be aware that these other websites may have different privacy policies which may subject you to different privacy practices.  Please review the privacy policies of such other websites for information concerning what information is collected on such sites and how it is used.
 
-The Site that maintains Rachael Ray merchandise is www.rachaelraystore.com and is a completely separate Site, with its own shopping cart and method of obtaining customer information.  Accordingly, we can not resolve customer service or privacy policy concerns with transactions or activity on that Site.  To contact them directly, please refer to and click the customer service tab on that website. 
+The Site that maintains Rachael Ray merchandise is www.cooking.com and is a completely separate Site, with its own shopping cart and method of obtaining customer information.  Accordingly, we can not resolve customer service or privacy policy concerns with transactions or activity on that Site.  To contact them directly, please refer to and click the customer service tab on that website. 
 
 Changes in Policy  
 From time to time, this Privacy Policy may change.  We will post changes to the Privacy Policy at this Site.  Please review this Privacy Policy often so that you will remain abreast of RRD’s current policies, including our policies concerning the gathering and use of information that may be collected on our Site.  
@@ -74,14 +71,7 @@ This Privacy Policy was last updated on 9/27/07 and is effective immediately.
 
 Contact Us
 
-If you have any questions concerning this Privacy Policy other than with respect to California Privacy rights, please contact us at:
-
-    Rachael Ray Digital LLC   
-    541 Second Avenue; Pelham, NY 10803
-
-         Attn: Privacy coordinator
-
-            or send us an email [**here**](mailto:privacy@rachaelray.com)
+If you have any questions concerning this Privacy Policy other than with respect to California Privacy rights, please send us an email [**here**](mailto:privacy@rachaelray.com)
 
 Governing Law
 
