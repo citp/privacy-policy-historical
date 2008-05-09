@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westin.com privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018030143id_/http%3A//www.starwoodhotels.com/westin/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westin.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509163011id_/http%3A//www.starwoodhotels.com/westin/legal/privacy.html) for the most accurate reproduction.*
 
 # Starwood Hotels & Resorts
 
@@ -171,8 +171,8 @@ by fax:
 
 by writing to us at:  
 Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, Texas 78714-3986  
+P.O. Box 6020  
+Lancaster, California 93539-6020  
 USA
 
 If you would like to contact Starwood’s Customer Service Department, please choose the most convenient method from the following:
