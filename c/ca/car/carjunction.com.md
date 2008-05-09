@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the carjunction.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223151725id_/http%3A//www.carjunction.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carjunction.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509173152id_/http%3A//www.carjunction.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Japanese used vehicles, used cars for sale - Exporter of best Japanese vehicles and cars from Japan
-
-** PRIVACY POLICY”This site guarantees to protect your privacy”**
+# Japanese Used cars and vehicles Exporter - Buy online second hand budget used cars from Japan
 
   
 **Introduction**
@@ -68,25 +66,8 @@ We are committed to resolving disputed within 24 to 48 hours.
 If problem arise, users may contact us by
 
 • Email  
-• Telephone
+• Telephon
+
+e
 
 Thank you for your time to visit our website.
-
-**Click to select your regional stock**
-
-[](http://www.carjunction.com/stock.html) | [](http://www.carjunction.com/infoasp2/pakn.asp) | [](http://www.carjunction.com/infoasp2/durbanf3.asp) | [](http://www.carjunction.com/infoasp2/zambia.asp) | [](http://www.carjunction.com/infoasp2/hararef3.asp) | [](http://www.carjunction.com/infoasp2/tanzania.asp)  
----|---|---|---|---|---  
-  
-[Japan Stock](http://www.carjunction.com/stock.html) [ ](http://www.carjunction.com/infoasp2/pakn.asp)
-
-| 
-
-[Pakistan Stock](http://www.carjunction.com/infoasp2/pakn.asp)
-
-| 
-
-[Durban Stock](http://www.carjunction.com/infoasp2/durbanf3.asp)
-
-| [Lusaka Stock ](http://www.carjunction.com/infoasp2/zambia.asp) | [Harare Stock ](http://www.carjunction.com/infoasp2/hararef3.asp) | 
-
-[Dar Es Salaam Stock ](http://www.carjunction.com/infoasp2/tanzania.asp)
