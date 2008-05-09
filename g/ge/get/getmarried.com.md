@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmarried.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213061603id_/http%3A//www.getmarried.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmarried.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509120854id_/http%3A//www.getmarried.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Get Married - Wedding Planning, TV, Brides & More
 
