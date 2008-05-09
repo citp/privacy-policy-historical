@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the quia.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218151014id_/http%3A//www.quia.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quia.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509105726id_/http%3A//www.quia.com/company/privacy_policy.html) for the most accurate reproduction.*
 
 # Quia.com - Privacy Policy
 
-**About Quia > Privacy Policy**
-
-**Our Commitment To Privacy**  
+|  **Our Commitment To Privacy**  
 Quia Corporation knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy.
 
 This policy will answer the following questions:
