@@ -1,31 +1,29 @@
-> *The following text is extracted and transformed from the montereybayaquarium.org privacy policy that was archived on 2007-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070818163943id_/http%3A//www.montereybayaquarium.org/sg/sg_policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montereybayaquarium.org privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509162351id_/http%3A//www.montereybayaquarium.org/sg/sg_policies.asp) for the most accurate reproduction.*
 
-# Monterey Bay Aquarium: Web Site Info/Help - Privacy Policy
-
-|   
-[About Us Home](https://web.archive.org/aa/ "About Us Home")
-
-[Aquarium Facts & History](https://web.archive.org/aa/aa_history/aa_faq.aspx "Aquarium Facts & History")
-
-[Pressroom](https://web.archive.org/aa/pressroom.asp "Pressroom")
-
-[Job Opportunities](https://web.archive.org/aa/aa_jobs/aa_jobs_staff.asp "Job Opportunities")
-
-[Volunteer Opportunities](https://web.archive.org/aa/aa_jobs/aa_jobs_volunteer.asp "Volunteer Opportunities")
-
-[Web Site Info/Help](https://web.archive.org/sg/sg_about.asp "Web Site Info/Help")
-
-  * [Site Map](https://web.archive.org/sg/sg_help.asp "Site Map")
-  * [Search](https://web.archive.org/cgi-bin/texis.exe/Webinator/searchMBA "Search")
-  * [Mailroom/Contact Us](https://web.archive.org/sg/sg_fb_mailroom.asp "Mailroom/Contact Us")
-  * [Video/Cam Help](https://web.archive.org/sg/sg_qt_help.asp "Video/Cam Help")
-  * [Browsers & Plugins](https://web.archive.org/sg/sg_gear.asp "Browsers & Plugins")
-  * [Terms of Use](https://web.archive.org/sg/sg_copyright.asp "Terms of Use")
-  * Privacy Policy
+# Monterey Bay Aquarium: About Us - Web Site Info - Privacy Policy
 
   
-|  |  |   
-The Monterey Bay Aquarium is dedicated to protecting your privacy as you use our web site. Our policy is that no personal information will be collected about you unless you choose to provide it and that any personal information which you provide us will be safeguarded and not shared with others for any reason.
+  
+  
+  
+
+
+Regular Hours  
+10 a.m.-6 p.m. Daily  
+Closed Dec. 25  
+
+
+Holidays  
+9:30 a.m.-6 p.m. 
+
+  
+
+
+E-MAIL NEWSLETTER
+
+Stay connected by signing up for our e-mail newsletter. Example
+
+|  The Monterey Bay Aquarium is dedicated to protecting your privacy as you use our web site. Our policy is that no personal information will be collected about you unless you choose to provide it and that any personal information which you provide us will be safeguarded and not shared with others for any reason.
 
 If during your visit to our site you only browse, read pages or download material, we can not collect any information that will identify you personally, or determine your e-mail address. Our Web server automatically recognizes the domain name and Internet Protocol (IP) address of each visitor to our site. An IP address is a code that identifies a particular computer on the Internet. Every computer or network that's connected to the Internet has an IP address.
 
@@ -63,5 +61,4 @@ Please remember that no one can guarantee the complete security of information t
 
 If you have any questions about this privacy policy or your dealings with this site, please contact us at equarist@mbayaq.org.
 
-  
 | 
