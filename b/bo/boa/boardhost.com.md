@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boardhost.com privacy policy that was archived on 2007-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070705205246id_/http%3A//www.boardhost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardhost.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509162159id_/http%3A//www.boardhost.com/privacy) for the most accurate reproduction.*
 
 # Boardhost: Privacy Policy
 
 **BOARDHOST.COM, INC. PRIVACY POLICY**  
 ---  
-Last Revised March 9, 2006  
+Last Revised May 8, 2008  
   
 Boardhost.com, Inc. is a provider of customizable, interactive message boards, which are created and maintained by customers of our service. This document describes our policies regarding privacy, and the privacy expectations that you may have when using our customers’ message boards, or when corresponding with us. 
 
@@ -18,7 +18,7 @@ Boardhost may also preserve IP address and user-agent string information related
 
 **COOKIES**
 
-Our site uses cookies for various means, in order to enhance the experiences of users of our service. Advertisements appearing through our service may also use cookies, which may appear to be coming from us, although we do not ordinarily have access to the information contained in such cookies. If you do not wish to use cookies, you may be able to configure your web browser to not accept cookies, however, the functionality of certain features of our site may be reduced if you do so. 
+Our site uses cookies for various means, in order to enhance the experiences of users of our service. Advertisements appearing through our service from third parties may also use cookies to place and read information on your browser or use web beacons to collect information. Such cookies may appear to be coming from us, although we do not ordinarily have access to the information contained in such cookies. If you do not wish to use cookies, you may be able to configure your web browser to not accept cookies, however, the functionality of certain features of our site may be reduced if you do so. 
 
 **BOARDHOST CUSTOMERS**
 
@@ -42,5 +42,5 @@ This document and our policies may change from time to time. Any such modificati
 
 To the extent that anything within this privacy policy is inconsistent with Boardhost’s Usage Terms or Terms of Service, the Usage Terms or Terms of Service, as appropriate, shall prevail. 
 
-Copyright ©1998-2007 [Boardhost.com, Inc.](http://www.boardhost.com/contact/) All Rights Reserved.  
+Copyright ©1998-2008 [Boardhost.com, Inc.](http://www.boardhost.com/contact/) All Rights Reserved.  
 
