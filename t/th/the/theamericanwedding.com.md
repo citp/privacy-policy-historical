@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025013550id_/http%3A//www.theamericanwedding.com/customerService/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509063725id_/http%3A//www.theamericanwedding.com/customerService/privacy.asp) for the most accurate reproduction.*
 
 # Your Privacy Is Important | Customer Service | The American Wedding
 
@@ -47,7 +47,7 @@ In order to browse this web site, a user need not register. To use advanced web 
 
 Registration enables us to establish a user account for you, and enables the advanced features. We also use this information to provide a more personalized experience on our site.
 
-Once your user account has been inactive for a period of 12 months or more, we will remove it from our online database and you will need to re-register in order to use those features again. 
+Once your user account has been inactive for a period of 12 months or more or if it is 6 months after the wedding date, we may remove it from our online database and you will need to re-register in order to use those features again. Invalid email addresses will be removed. 
 
 **Order**  
 When ordering, we request additional information from the user. This includes contact information (such as phone number, and address) for billing and shipping, and financial information (such as credit card number, expiration date or checking account number and bank routing number). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user.
@@ -89,7 +89,7 @@ Business Transitions
 In the event the Company goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
 
 **Opt-in/out & Update**  
-By using our web site, our users agree to the uses of information described in this statement, and are "opting-in" to receive communications as herein described. Our users always have a choice. They are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site. Users who no longer wish to receive our promotional communications may opt-out of receiving these communications by following the opt-out instructions contained in the email. Our users may update their information in "My Account" at any time.
+By using our web site, our users agree to the uses of information described in this statement, and are "opting-in" to receive communications as herein described. Our users always have a choice. They are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site. Users who no longer wish to receive our promotional communications may opt-out of receiving these communications by following the opt-out instructions contained in the email or clicking [here](https://web.archive.org/optoutdb.asp). Our users may update their information in "My Account" at any time.
 
   
 **Links**  
