@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213002342id_/http%3A//www.caterer.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509074103id_/http%3A//www.caterer.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Caterer.com - Privacy Policy
 
@@ -6,7 +6,7 @@ At Caterer.com we make every effort to comply with our obligations under the 199
 
 You can remove any of the information that Caterer.com stores about you, at any time, by logging in to your 'My Caterer' account and choosing to close the account. 
 
-Privacy policy update (1 August, 2006) 
+Privacy policy update (1 February 2007) 
 
 ### Registration details
 
@@ -14,13 +14,13 @@ Contact and other details you supply as part of the registration process are sto
 
 ### Profile and CV information
 
-When you complete your Caterer.com profile, including your CV, it can be made available for searching, viewing over the Internet and downloading by Caterer.coms' customers. Customers who request CVs matching your profile to be sent to them, will receive your CV and profile via email or CD Rom. These may be direct recruiters, employment consultants or other organisations. 
+When you complete your Caterer.com profile, including your CV, it can be made available for searching, viewing over the Internet and downloading by any direct recruiter, employment consultant or other person or organisation who requests CVs matching your profile to be sent to them. Caterer.com does not verify the identity or the nature of the business of such organisations. 
 
 **IMPORTANT:** Your current employer may be a customer of Caterer.com, or a client of one of our customers. Caterer.com cannot restrict the customers who access profiles on our database and cannot be held responsible for any eventuality. As part of the registration process Caterer.com offers you the option of remaining anonymous. Caterer.com will also use the aggregate data to identify employment trends across different industries, such as salary averages. This information will not be capable of being linked to any personally identifying information about users. 
 
 Some of our customers may be located in countries outside the European Economic Area. 
 
-When you ‘apply online’, we store some information about you in your 'My Caterer' area, but it is protected by your password and may only be accessed by you. It does not form part of our Caterer.com candidate database and cannot be searched or accessed by Caterer.com customers. You can delete your 'My Caterer' account at any time. Your CV can only be viewed by a Caterer.com customer if you have consented to this within the profile section. 
+When you 'apply online', we store some information about you in your 'My Caterer' area, but it is protected by your password and may only be accessed by you. It does not form part of our Caterer.com candidate database and cannot be searched or accessed by Caterer.com customers. You can delete your 'My Caterer' account at any time. Your CV can only be viewed by a Caterer.com customer if you have consented to this within the profile section. 
 
 If you choose to create a profile and upload a CV to our database, we rely on you to ensure that your details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed. 
 
@@ -38,7 +38,7 @@ You have the option to decline or accept these cookies, but if you decline you w
 
 **We strongly recommend you accept cookies.**
 
-**Accept cookie        Decline cookie**
+**Accept cookie       Decline cookie**
 
 In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: [Adtech](http://www.adtech.info/en/cookie_opt-out.html), [Emediate](http://www.emediate.dk/privacy.html) and [DoubleClick](http://www.doubleclick.com/us/about_doubleclick/privacy/). 
 
