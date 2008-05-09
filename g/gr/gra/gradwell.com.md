@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradwell.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206210504id_/http%3A//www.gradwell.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradwell.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509162709id_/http%3A//www.gradwell.com/company/privacy) for the most accurate reproduction.*
 
 # Company - Gradwell Dot Com
 
@@ -37,7 +37,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   1. You can send email to [_announce-unsubscribe@gradwell.net_](mailto:announce-unsubscribe@gradwell.net)
-  2. You can visit the following URL: [_http://www.gradwell.com/help/_](http://www.gradwell.com/help/)
+  2. You can visit the following URL: <http://portal.gradwell.net/support.php>
 
 
 
