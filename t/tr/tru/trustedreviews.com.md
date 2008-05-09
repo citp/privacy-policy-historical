@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedreviews.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219224309id_/http%3A//www.trustedreviews.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedreviews.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509080040id_/http%3A//www.trustedreviews.com/privacy) for the most accurate reproduction.*
 
 # Privacy information - TrustedReviews
 
