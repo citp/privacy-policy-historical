@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectiblestoday.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228132726id_/http%3A//www.collectiblestoday.com/ct/cs/cs_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectiblestoday.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509082340id_/http%3A//www.collectiblestoday.com/ct/cs/cs_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Collectibles Today
 
