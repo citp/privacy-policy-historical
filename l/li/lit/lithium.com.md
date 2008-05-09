@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lithium.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225203500id_/http%3A//www.lithium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lithium.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509132754id_/http%3A//www.lithium.com/privacy) for the most accurate reproduction.*
 
 # Lithium - Privacy Policy
 
-**Privacy Policy**
+**Privacy Policy** [](http://www.truste.org/ivalidate.php?url=www.lithium.com&sealid=102)
 
-### Last Updated on 8/9/2004
+### Last Updated on 2/21/2008
 
 Lithium does not send Spam or sell any information we may have submitted to us though our web site.
 
@@ -14,7 +14,7 @@ Lithium Technologies provides online communities for its customers. For lead gen
 
 Lithium Technologies is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.lithium.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Greg Joy, Privacy Policy Administrator, by [greg@lithium.com](mailto:greg@lithium.com?subject=Privacy%20Policy), 510-653-6800 x112, Lithium Technologies, 6121 Hollis Street #4 Emeryville, CA 94608. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [www.truste.org/pvr.php?page=complaint](https://www.truste.org/pvr.php?page=complaint). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Greg Joy, Privacy Policy Administrator, by [greg@lithium.com](mailto:greg@lithium.com?subject=Privacy%20Policy), 510-653-6800 x112, Lithium Technologies, 6121 Hollis Street #4 Emeryville, CA 94608. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 This site complies EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union 
 
