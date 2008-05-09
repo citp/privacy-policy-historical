@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-classifieds.net privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215230417id_/http%3A//www.e-classifieds.net/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-classifieds.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509071110id_/http%3A//www.e-classifieds.net/about/privacy.html) for the most accurate reproduction.*
 
 # e-Classifieds: Classified ads software programs
 
@@ -137,4 +137,4 @@ Back to Top
 
 * * *
 
-Copyright © 1995-2007 Hagen Software Inc.
+Copyright © 1995-2008 Hagen Software Inc.
