@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the games2girls.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011041126id_/http%3A//www.games2girls.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2girls.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509081017id_/http%3A//www.games2girls.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Games2Girls.com privacy policy
 
 **Personal Information**  
-Games2Girls.com is committed to protecting your privacy online. Games2Girls.com does not collect any personal information. 
+[Games2Girls.com](http://www.games2girls.com/) is committed to protecting your privacy online. Games2Girls.com does not collect any personal information. 
 
 **IP address and logging**  
 Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc).
