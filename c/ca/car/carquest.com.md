@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020101647id_/http%3A//www.carquest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509091807id_/http%3A//www.carquest.com/privacy.html) for the most accurate reproduction.*
 
 # CARQUEST Auto Parts - Privacy Statement
 
-CARQUEST Auto Parts Privacy Statement  
-CARQUEST Auto Parts, TECH-NET Professional, CARQUEST Technical Institute
+Privacy Statement
 
 Thank you for visiting a CARQUEST Auto Parts affiliated website (CARQUEST.com, CARQUEST.ca, technetprofessional.com, CARQUESTCareers.com) and reviewing our privacy policy. Our privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us. Here is how we handle information about your visit to our website:
 
@@ -23,7 +22,7 @@ We use this information to help us make our site more useful to visitors \-- to 
 **If You Send Us Personal Information**  
 If you choose to provide us with personal information by sending an e-mail to our public e-mail address, or by filling out a form with your personal information and submitting it through our website, we use that information to respond to your message and to help us provide you with information that you request. If you submit your resume through our website, we use your personal identification information only in considering your application for employment. We do not collect personal information for any other purposes. The information you provide is not given to any private organizations or private persons. CARQUEST Auto Parts does not collect or use information for commercial marketing.
 
- We would share your e-mail with another CARQUEST department only if your inquiry related to that department. If you submit resume, this information will be shared only with CARQUEST associates involved in making hiring decisions.
+We would share your e-mail with another CARQUEST department only if your inquiry related to that department. If you submit resume, this information will be shared only with CARQUEST associates involved in making hiring decisions.
 
 **Links to Other Sites**  
 Our website has links to the websites of many CARQUEST vendors and business partners. Once you link to another site, you are subject to the privacy policy of the new site.
@@ -32,11 +31,11 @@ Our website has links to the websites of many CARQUEST vendors and business part
 If you have any questions or concerns about the CARQUEST online policy for this site or its implementation you may contact us at:
 
 CARQUEST Corporation  
-c/o Marketing Manager  
+c/o Marketing Department   
 P.O. Box 26929  
 Raleigh, NC 27611
 
 **Updates & Effective Date**  
 From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so you always know what information we collect, how we use it, and to whom we disclose it.
 
-_The above Privacy Statement was updated July 7, 2006_
+_The above Privacy Statement was updated December 26, 2007_
