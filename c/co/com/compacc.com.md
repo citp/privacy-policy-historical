@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the compacc.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225151859id_/http%3A//www.compacc.com/service/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compacc.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509160756id_/http%3A//www.compacc.com/service/privacy.cfm) for the most accurate reproduction.*
 
-# Competition Accessories
+# Competition Accessories: Privacy Statement
 
   
 Competition Accessories believes in your right to security and privacy. The document below is an outline of the information our site gathers and how it is used. 
