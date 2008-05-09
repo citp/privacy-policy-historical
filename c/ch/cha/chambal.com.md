@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the chambal.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211223635id_/http%3A//www.chambal.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chambal.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509071504id_/http%3A//www.chambal.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Chambal.com- Privacy Policy
 
 This privacy statement covers the site www.chambal.com.
 
-**_What personally identifiable information chambal.com, Inc. collects and how is it used._**  
+What personally identifiable information chambal.com, Inc. collects and how is it used.  
 We, at chambal.com, do not collect any personally identified information from our users. This includes names, addresses and personal email addresses.  
 We do not set any cookies and we do not maintain any sessions between Internet browser and our servers.
 
-**_Third Party Advertising_**  
+Third Party Advertising  
 Our Web advertising partners deliver the ads appearing on this Web site to users. Information about users’ visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site.
 
-**_Links_**  
+Links  
 This Web site contains links to other sites. Please be aware that we, chambal.com, Inc. , are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to our website, http://www.chambal.com.
 
-**_Buying books on chambal.com_**  
+Buying books on chambal.com  
 When a user clicks on 'buy' link to buy a book, we simply redirect them to the bookstore’s website and we do not keep track of any order and shipping information. Each bookseller’s privacy policy is different and we suggest our users to check the bookseller’s privacy policy on their website before placing an order.
 
-**_Notification of Changes_**  
+Notification of Changes  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate.
 
-**_Contact Information_**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at:  
-Email: info@chambal.com  
-Postal Address: chambal.com, Inc. P.O. Box 753, Pine Brook, NJ 07058 0753, USA
+Contact Information  
+If users have any questions or suggestions regarding our privacy policy, please contact us at :  
+  
+Postal Address : Chambal.com, Inc. 105 Osprey Court, Secaucus, NJ 07094, USA
