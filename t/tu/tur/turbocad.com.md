@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turbocad.com privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103223012id_/http%3A//www.turbocad.com/Home/tabid/63/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbocad.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509122720id_/http%3A//www.turbocad.com/TurboCAD/tabid/63/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# TurboCAD > Home
+# TurboCAD
 
 **IMSI/Design, LLC.** is committed to protecting your privacy and using technology that gives you a powerful and safe online experience. This Privacy Statement applies to the **IMSI/Design, LLC.** family of web sites and governs data collection and usage. By using the **IMSI/Design, LLC.** websites, you consent to the data practices described in this statement.
 
