@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2007-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070825203250id_/http%3A//www.parship.co.uk/docs/public/terms/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509163629id_/http%3A//www.parship.co.uk/docs/public/terms/privacy.xhtml) for the most accurate reproduction.*
 
-# PARSHIP: Find the love of your life
+# PARSHIP: Find someone really right for you
 
   
 |  |   
@@ -60,7 +60,7 @@ If ownership or operational control of all or part of this website is transferre
 
 **Security:** We have appropriate measures in place to ensure that personal information is protected against unauthorised access or use, alteration, unlawful or accidental destruction and accidental loss. However, we cannot guarantee the security of the information that you disclose to us. You accept the inherent risks of providing information and dealing on-line and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default. 
 
-**Right to see your personal information:** You have the right to see your personal information (as defined under the Data Protection Act 1988) that we keep about you, upon receipt of a written request and payment of a fee. If you wish to make such a request or are concerned that any of the information we hold on you is incorrect or please contact us by writing to the Data Protection Officer, PARSHIP.co.uk, Macmillan Building, 4 Crinan Street, N1 9XW. 
+**Right to see your personal information:** You have the right to see your personal information (as defined under the Data Protection Act 1988) that we keep about you, upon receipt of a written request and payment of a fee. If you wish to make such a request or are concerned that any of the information we hold on you is incorrect or please contact us by writing to the Data Protection Officer, PARSHIP.co.uk, 4 Crinan Street, N1 9XW. 
 
 **Changes:** Any changes to this Privacy Policy will be posted on this page so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it. 
 
