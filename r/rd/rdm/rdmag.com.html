@@ -1,481 +1,16 @@
-<!--The following is the downloaded HTML source of the rdmag.com privacy policy that was archived on 2007-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011153850id_/http%3A//www.rdmag.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rdmag.com privacy policy that was archived on 2008-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509191437id_/http%3A//www.rdmag.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head></head><body bgcolor="#ffffff" leftmargin="0" topmargin="0">
-
-<font face="Times New Roman" size="3"><span style="FONT-SIZE: 12pt">
-			<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> </script>
-			<script type="text/javascript"> _uacct = "UA-875281-1";
-urchinTracker(); </script>
-			<o:p></o:p>
-		</span></font>
-		<!-- START Web Trends Tracking script 6/6/2007 -->
-
-    
-<!-- START OF SDC Advanced Tracking Code -->
-<!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
-<!-- V8.0 -->
-<!-- $DateTime: 2007/02/16 11:44:56 $ -->
-<script type="text/javascript"><!--
-var gService = true;
-var gTimeZone = -5;
-// Code section for Enable First-Party Cookie Tracking
-function dcsCookie(){
-	if (typeof(dcsOther)=="function"){
-		dcsOther();
-	}
-	else if (typeof(dcsPlugin)=="function"){
-		dcsPlugin();
-	}
-	else if (typeof(dcsFPC)=="function"){
-		dcsFPC(gTimeZone);
-	}
-}
-function dcsGetCookie(name){
-	var pos=document.cookie.indexOf(name+"=");
-	if (pos!=-1){
-		var start=pos+name.length+1;
-		var end=document.cookie.indexOf(";",start);
-		if (end==-1){
-			end=document.cookie.length;
-		}
-		return unescape(document.cookie.substring(start,end));
-	}
-	return null;
-}
-function dcsGetCrumb(name,crumb){
-	var aCookie=dcsGetCookie(name).split(":");
-	for (var i=0;i<aCookie.length;i++){
-		var aCrumb=aCookie[i].split("=");
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsGetIdCrumb(name,crumb){
-	var cookie=dcsGetCookie(name);
-	var id=cookie.substring(0,cookie.indexOf(":lv="));
-	var aCrumb=id.split("=");
-	for (var i=0;i<aCrumb.length;i++){
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsIsFpcSet(name,id,lv,ss){
-	if (id==dcsGetIdCrumb(name,"id")){
-		if (lv==dcsGetCrumb(name,"lv")){
-		   	if (ss=dcsGetCrumb(name,"ss")){
-				return true;
-			}
-		}
-	}
-	return false;
-}
-function dcsFPC(offset){
-	if (typeof(offset)=="undefined"){
-		return;
-	}
-	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
-		return;
-	}
-	var name=gFpc;
-	var dCur=new Date();
-	var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
-	dCur.setTime(dCur.getTime()+adj);
-	var dExp=new Date(dCur.getTime()+315360000000);
-	var dSes=new Date(dCur.getTime());
-	WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
-	if (document.cookie.indexOf(name+"=")==-1){
-		if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
-			WT.co_f=gWtId;
-		}
-		else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
-			WT.co_f=gTempWtId;
-			WT.vt_f="1";
-		}
-		else{
-			WT.co_f="2";
-			var cur=dCur.getTime().toString();
-			for (var i=2;i<=(32-cur.length);i++){
-				WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
-			}
-			WT.co_f+=cur;
-			WT.vt_f="1";
-		}
-		if (typeof(gWtAccountRollup)=="undefined"){
-			WT.vt_f_a="1";
-		}
-		WT.vt_f_s=WT.vt_f_d="1";
-		WT.vt_f_tlh=WT.vt_f_tlv="0";
-	}
-	else{
-		var id=dcsGetIdCrumb(name,"id");
-		var lv=parseInt(dcsGetCrumb(name,"lv"));
-		var ss=parseInt(dcsGetCrumb(name,"ss"));
-		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
-			return;
-		}
-		WT.co_f=id;
-		var dLst=new Date(lv);
-		WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
-		dSes.setTime(ss);
-		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
-			WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
-			dSes.setTime(dCur.getTime());
-			WT.vt_f_s="1";
-		}
-		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
-			WT.vt_f_d="1";
-		}
-	}
-	WT.co_f=escape(WT.co_f);
-	WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
-	var expiry="; expires="+dExp.toGMTString();
-	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
-	if (!dcsIsFpcSet(name,WT.co_f,dCur.getTime().toString(),dSes.getTime().toString())){
-		WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
-		WT.vt_f=WT.vt_f_a="2";
-	}
-}
-
-// Code section for Use the new first-party cookie generated with this tag.
-var gFpc="WT_FPC";
-var gConvert=true;
-
-function dcsAdv(){
-	dcsFunc("dcsET");
-	dcsFunc("dcsCookie");
-	dcsFunc("dcsAdSearch");
-	dcsFunc("dcsTP");
-}
-
-//-->
-</script>
-<!-- END OF SDC Advanced Tracking Code -->
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
-<!-- V8.0 -->
-<!-- $DateTime: 2007/03/01 14:48:29 $ -->
-<script type="text/javascript"><!--
-var gDomain="statse.webtrendslive.com";
-var gDcsId="dcse9bxr21000004jlcc359kl_9k6r";
-
-
-if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
-	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
-}
-//-->
-</script>
-<script type="text/javascript"><!--
-var gImages=new Array;
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
-var gQP=new Array();
-var gI18n=false;
-if (window.RegExp){
-	var RE=gI18n?{"%25":/\%/g}:{"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g};
-	if (gI18n){
-		var EXRE=/dcs(uri)|(ref)|(aut)|(met)|(sta)|(sip)|(pro)|(byt)|(dat)|(p3p)|(cfg)|(redirect)|(cip)/i;
-	}
-}
-
-// Add customizations here
-
-function dcsVar(){
-	var dCurrent=new Date();
-	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-	if (WT.tz==0){
-		WT.tz="0";
-	}
-	WT.bh=dCurrent.getHours();
-	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-	if (typeof(screen)=="object"){
-		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
-		WT.sr=screen.width+"x"+screen.height;
-	}
-	if (typeof(navigator.javaEnabled())=="boolean"){
-		WT.jo=navigator.javaEnabled()?"Yes":"No";
-	}
-	if (document.title){
-		WT.ti=document.title;
-	}
-	WT.js="Yes";
-	WT.jv=dcsJV();
-	if (document.body&&document.body.addBehavior){
-		document.body.addBehavior("#default#clientCaps");
-		WT.ct=document.body.connectionType||"unknown";
-		document.body.addBehavior("#default#homePage");
-		WT.hp=document.body.isHomePage(location.href)?"1":"0";
-	}
-	else{
-		WT.ct="unknown";
-	}
-	if (parseInt(navigator.appVersion)>3){
-		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
-			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
-		}
-		else if (navigator.appName=="Netscape"){
-			WT.bs=window.innerWidth+"x"+window.innerHeight;
-		}
-	}
-	WT.fi="No";
-	if (window.ActiveXObject){
-		for(var i=10;i>0;i--){
-			try{
-				var flash = new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);
-				WT.fi="Yes";
-				WT.fv=i+".0";
-				break;
-			}
-			catch(e){
-			}
-		}
-	}
-	else if (navigator.plugins&&navigator.plugins.length){
-		for (var i=0;i<navigator.plugins.length;i++){
-			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
-				WT.fi="Yes";
-				WT.fv=navigator.plugins[i].description.split(" ")[2];
-				break;
-			}
-		}
-	}
-	if (gI18n){
-		WT.em=(typeof(encodeURIComponent)=="function")?"uri":"esc";
-		if (typeof(document.defaultCharset)=="string"){
-			WT.le=document.defaultCharset;
-		} 
-		else if (typeof(document.characterSet)=="string"){
-			WT.le=document.characterSet;
-		}
-	}
-	WT.tv="8.0.3";
-	WT.sp="@@SPLITVALUE@@";
-	DCS.dcsdat=dCurrent.getTime();
-	DCS.dcssip=window.location.hostname;
-	DCS.dcsuri=window.location.pathname;
-	if (window.location.search){
-		DCS.dcsqry=window.location.search;
-		if (gQP.length>0){
-			for (var i=0;i<gQP.length;i++){
-				var pos=DCS.dcsqry.indexOf(gQP[i]);
-				if (pos!=-1){
-					var front=DCS.dcsqry.substring(0,pos);
-					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
-					DCS.dcsqry=front+end;
-				}
-			}
-		}
-	}
-	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-			DCS.dcsref=window.document.referrer;
-		}
-	}
-}
-
-function dcsA(N,V){
-	if (gI18n&&!EXRE.test(N)){
-		if (N=="dcsqry"){
-			var newV="";
-			var params=V.substring(1).split("&");
-			for (var i=0;i<params.length;i++){
-				var pair=params[i];
-				var pos=pair.indexOf("=");
-				if (pos!=-1){
-					var key=pair.substring(0,pos);
-					var val=pair.substring(pos+1);
-					if (i!=0){
-						newV+="&";
-					}
-					newV+=key+"="+dcsEncode(val);
-				}
-			}
-			V=V.substring(0,1)+newV;
-		}
-		else{
-			V=dcsEncode(V);
-		}
-	}
-	return "&"+N+"="+dcsEscape(V, RE);
-}
-
-function dcsEscape(S, REL){
-	if (typeof(REL)!="undefined"){
-		var retStr = new String(S);
-		for (var R in REL){
-			retStr = retStr.replace(REL[R],R);
-		}
-		return retStr;
-	}
-	else{
-		return escape(S);
-	}
-}
-
-function dcsEncode(S){
-	return (typeof(encodeURIComponent)=="function")?encodeURIComponent(S):escape(S);
-}
-
-function dcsCreateImage(dcsSrc){
-	if (document.images){
-		gImages[gIndex]=new Image;
-		gImages[gIndex].src=dcsSrc;
-		gIndex++;
-	}
-	else{
-		document.write('<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-	}
-}
-
-function dcsMeta(){
-	var elems;
-	if (document.all){
-		elems=document.all.tags("meta");
-	}
-	else if (document.documentElement){
-		elems=document.getElementsByTagName("meta");
-	}
-	if (typeof(elems)!="undefined"){
-		var length=elems.length;
-		for (var i=0;i<length;i++){
-			var name=elems.item(i).name;
-			var content=elems.item(i).content;
-			var equiv=elems.item(i).httpEquiv;
-			if (name.length>0){
-				if (name.indexOf("WT.")==0){
-					WT[name.substring(3)]=content;
-				}
-				else if (name.indexOf("DCSext.")==0){
-					DCSext[name.substring(7)]=content;
-				}
-				else if (name.indexOf("DCS.")==0){
-					DCS[name.substring(4)]=content;
-				}
-			}
-			else if (gI18n&&(equiv=="Content-Type")){
-				var pos=content.toLowerCase().indexOf("charset=");
-				if (pos!=-1){
-					WT.mle=content.substring(pos+8);
-				}
-			}
-		}
-	}
-}
-
-function dcsTag(){
-	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
-		return;
-	}
-	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-	for (var N in DCS){
-		if (DCS[N]){
-			P+=dcsA(N,DCS[N]);
-		}
-	}
-	var keys=["co_f","vt_sid","vt_f_tlv"];
-	for (var i=0;i<keys.length;i++){
-		var key=keys[i];
-		if (WT[key]){
-			P+=dcsA("WT."+key,WT[key]);
-			delete WT[key];
-		}
-	}
-	for (N in WT){
-		if (WT[N]){
-			P+=dcsA("WT."+N,WT[N]);
-		}
-	}
-	for (N in DCSext){
-		if (DCSext[N]){
-			P+=dcsA(N,DCSext[N]);
-		}
-	}
-	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-		P=P.substring(0,2040)+"&WT.tu=1";
-	}
-	dcsCreateImage(P);
-}
-
-function dcsJV(){
-	var agt=navigator.userAgent.toLowerCase();
-	var major=parseInt(navigator.appVersion);
-	var mac=(agt.indexOf("mac")!=-1);
-	var ff=(agt.indexOf("firefox")!=-1);
-	var ff0=(agt.indexOf("firefox/0.")!=-1);
-	var ff10=(agt.indexOf("firefox/1.0")!=-1);
-	var ff15=(agt.indexOf("firefox/1.5")!=-1);
-	var ff2up=(ff&&!ff0&&!ff10&!ff15);
-	var nn=(!ff&&(agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
-	var nn4=(nn&&(major==4));
-	var nn6up=(nn&&(major>=5));
-	var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
-	var ie4=(ie&&(major==4)&&(agt.indexOf("msie 4")!=-1));
-	var ie5up=(ie&&!ie4);
-	var op=(agt.indexOf("opera")!=-1);
-	var op5=(agt.indexOf("opera 5")!=-1||agt.indexOf("opera/5")!=-1);
-	var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
-	var op7up=(op&&!op5&&!op6);
-	var jv="1.1";
-	if (ff2up){
-		jv="1.7";
-	}
-	else if (ff15){
-		jv="1.6";
-	}
-	else if (ff0||ff10||nn6up||op7up){
-		jv="1.5";
-	}
-	else if ((mac&&ie5up)||op6){
-		jv="1.4";
-	}
-	else if (ie5up||nn4||op5){
-		jv="1.3";
-	}
-	else if (ie4){
-		jv="1.2";
-	}
-	return jv;
-}
-
-function dcsFunc(func){
-	if (typeof(window[func])=="function"){
-		window[func]();
-	}
-}
-
-dcsVar();
-dcsMeta();
-dcsFunc("dcsAdv");
-dcsTag();
-//-->
-</script>
-
-<noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcse9bxr21000004jlcc359kl_9k6r/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2">
-</noscript>
-<!-- END OF SmartSource Data Collector  TAG -->	
-
-
-<!-- END Web Trends Tracking script -->
-
-
-
-	
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 		<title>
-			R &amp; D Magazine</title>
+			Privacy Policy - R &amp; D</title>
+		<meta name="verify-v1" content="rAywuyRUM+/Fb9OLLC89ckw+1jWrN4T7P94EBNsCwPQ=">
+		
+		<meta name="Description" content="R&amp;D's Privacy Policy">
+		<meta name="Keywords" content="privacy policy, R&amp;D Magazine, R&amp;D, research and development, R&amp;D 100 Awards, R&amp;D 100, Global R&amp;D Report, R&amp;D funding forecast, R&amp;D salary &amp; career survey, laboratory design newsletter, laboratory design conference, lab design conference, academic sourcebook, Scientist of the Year, Innovator of the Year, Laboratory of the Year, R&amp;D product, software, analytical instruments, lab equipment, materials science, nanotech, nanotechnology, microscopy, image anlaysis, photonics, optics, test, measurement, automation, Biotechnology, vacuum, thin films, Informatics">
 		<link href="Styles.css" type="text/css" rel="stylesheet">
-		<meta name="Keyword" content="">
-<meta name="Description" content="">
-
-	
-	
+	</head>
+	<body bgcolor="#ffffff" leftmargin="0" topmargin="0">
 		<!--For dropdown menu jscript -->
 		<script language="JavaScript" src="dropdown/menu_array.js" type="text/javascript"></script><script language="javascript"> menu1=menus[1]; menu2=menus[2]; menu3=menus[3]; menu4=menus[4];</script>
 		<script language="JavaScript" src="dropdown/mmenu.js" type="text/javascript"></script><div id="menu1" style="z-index: 21; visibility: visible; border: 1px solid rgb(135, 16, 50); position: absolute; background-color: rgb(135, 16, 50); width: 949px; left: 0px; top: 210px; height: 17px;"><div id="hel0" style="width: 94px; position: absolute; top: 0px; left: 0px; height: 17px;"><a href="default.aspx" style="text-decoration:none;"><div valign="top" align="center" id="el0" style="position:absolute;width:92px;padding:1px 1px 1px 1px ;font-weight:normal;font-style:normal;font-family:Arial;font-size:13px;color:#FFFFFF;background-color:#871032;" onmouseover="this.style.backgroundColor='#AF0636';style.color='YELLOW';this.style.cursor='pointer';ShM=1;; popi('default.aspx','menu1',0);;;return stch('R &amp; D home page');" onmouseout="rep_img(); popdn(this,0, 'menu1', 'default.aspx', '#871032', '#FFFFFF');;; return stch('');">Home Page</div></a></div><div id="hel1" style="width: 94px; position: absolute; top: 0px; left: 95px; height: 17px;"> <div valign="top" align="center" id="el1" style="position:absolute;width:92px;padding:1px 1px 1px 1px ;font-weight:normal;font-style:normal;font-family:Arial;font-size:13px;color:#FFFFFF;background-color:#871032;" onmouseover="this.style.backgroundColor='#AF0636';style.color='YELLOW';this.style.cursor='default';ShM=1;; popi('show-menu=crtissuemenu','menu1',1);;;return stch('');" onmouseout="rep_img(); popdn(this,1, 'menu1', 'show-menu=crtissuemenu', '#871032', '#FFFFFF');;; return stch('');">Current Issue</div></div><div id="hel2" style="width: 94px; position: absolute; top: 0px; left: 190px; height: 17px;"> <div valign="top" align="center" id="el2" style="position:absolute;width:92px;padding:1px 1px 1px 1px ;font-weight:normal;font-style:normal;font-family:Arial;font-size:13px;color:#FFFFFF;background-color:#871032;" onmouseover="this.style.backgroundColor='#AF0636';style.color='YELLOW';this.style.cursor='default';ShM=1;; popi('show-menu=newslettermenu','menu1',2);;;return stch('');" onmouseout="rep_img(); popdn(this,2, 'menu1', 'show-menu=newslettermenu', '#871032', '#FFFFFF');;; return stch('');">Newsletters</div></div><div id="hel3" style="width: 94px; position: absolute; top: 0px; left: 285px; height: 17px;"><a href="eventcalendar.aspx" style="text-decoration:none;"><div valign="top" align="center" id="el3" style="position:absolute;width:92px;padding:1px 1px 1px 1px ;font-weight:normal;font-style:normal;font-family:Arial;font-size:13px;color:#FFFFFF;background-color:#871032;" onmouseover="this.style.backgroundColor='#AF0636';style.color='YELLOW';this.style.cursor='pointer';ShM=1;; popi('eventcalendar.aspx','menu1',3);;;return stch('');" onmouseout="rep_img(); popdn(this,3, 'menu1', 'eventcalendar.aspx', '#871032', '#FFFFFF');;; return stch('');">Events</div></a></div><div id="hel4" style="width: 94px; position: absolute; top: 0px; left: 380px; height: 17px;"> <div valign="top" align="center" id="el4" style="position:absolute;width:92px;padding:1px 1px 1px 1px ;font-weight:normal;font-style:normal;font-family:Arial;font-size:13px;color:#FFFFFF;background-color:#871032;" onmouseover="this.style.backgroundColor='#AF0636';style.color='YELLOW';this.style.cursor='default';ShM=1;; popi('show-menu=awardsmenu','menu1',4);;;return stch('');" onmouseout="rep_img(); popdn(this,4, 'menu1', 'show-menu=awardsmenu', '#871032', '#FFFFFF');;; return stch('');">Awards</div></div><div id="hel5" style="width: 94px; position: absolute; top: 0px; left: 475px; height: 17px;"><a href="BuyersGuide.aspx" style="text-decoration:none;"><div valign="top" align="center" id="el5" style="position:absolute;width:92px;padding:1px 1px 1px 1px ;font-weight:normal;font-style:normal;font-family:Arial;font-size:13px;color:#FFFFFF;background-color:#871032;" onmouseover="this.style.backgroundColor='#AF0636';style.color='YELLOW';this.style.cursor='pointer';ShM=1;; popi('BuyersGuide.aspx','menu1',5);;;return stch('Buyers&nbsp;Guide');" onmouseout="rep_img(); popdn(this,5, 'menu1', 'BuyersGuide.aspx', '#871032', '#FFFFFF');;; return stch('');">Directory</div></a></div><div id="hel6" style="width: 94px; position: absolute; top: 0px; left: 570px; height: 17px;"><a href="EdInfo.aspx" style="text-decoration:none;"><div valign="top" align="center" id="el6" style="position:absolute;width:92px;padding:1px 1px 1px 1px ;font-weight:normal;font-style:normal;font-family:Arial;font-size:13px;color:#FFFFFF;background-color:#871032;" onmouseover="this.style.backgroundColor='#AF0636';style.color='YELLOW';this.style.cursor='pointer';ShM=1;; popi('EdInfo.aspx','menu1',6);;;return stch('');" onmouseout="rep_img(); popdn(this,6, 'menu1', 'EdInfo.aspx', '#871032', '#FFFFFF');;; return stch('');">Editorial Info</div></a></div><div id="hel7" style="width: 94px; position: absolute; top: 0px; left: 665px; height: 17px;"><a href="links.aspx" style="text-decoration:none;"><div valign="top" align="center" id="el7" style="position:absolute;width:92px;padding:1px 1px 1px 1px ;font-weight:normal;font-style:normal;font-family:Arial;font-size:13px;color:#FFFFFF;background-color:#871032;" onmouseover="this.style.backgroundColor='#AF0636';style.color='YELLOW';this.style.cursor='pointer';ShM=1;; popi('links.aspx','menu1',7);;;return stch('');" onmouseout="rep_img(); popdn(this,7, 'menu1', 'links.aspx', '#871032', '#FFFFFF');;; return stch('');">Resources</div></a></div><div id="hel8" style="width: 94px; position: absolute; top: 0px; left: 760px; height: 17px;"><a href="AdInfo.aspx" style="text-decoration:none;"><div valign="top" align="center" id="el8" style="position:absolute;width:92px;padding:1px 1px 1px 1px ;font-weight:normal;font-style:normal;font-family:Arial;font-size:13px;color:#FFFFFF;background-color:#871032;" onmouseover="this.style.backgroundColor='#AF0636';style.color='YELLOW';this.style.cursor='pointer';ShM=1;; popi('AdInfo.aspx','menu1',8);;;return stch('Advertising');" onmouseout="rep_img(); popdn(this,8, 'menu1', 'AdInfo.aspx', '#871032', '#FFFFFF');;; return stch('');">Advertising Info</div></a></div><div id="hel9" style="width: 94px; position: absolute; top: 0px; left: 855px; height: 17px;"><a href="Feedback.aspx" style="text-decoration:none;"><div valign="top" align="center" id="el9" style="position:absolute;width:92px;padding:1px 1px 1px 1px ;font-weight:normal;font-style:normal;font-family:Arial;font-size:13px;color:#FFFFFF;background-color:#871032;" onmouseover="this.style.backgroundColor='#AF0636';style.color='YELLOW';this.style.cursor='pointer';ShM=1;; popi('Feedback.aspx','menu1',9);;;return stch('Send us your feedback');" onmouseout="rep_img(); popdn(this,9, 'menu1', 'Feedback.aspx', '#871032', '#FFFFFF');;; return stch('');">Feedback</div></a></div></div>
@@ -487,112 +22,67 @@ dcsTag();
 		<script language="JavaScript" src="dropdown/FlashAd.js" type="text/javascript"></script>
 		<!--End Of dropdown menu jscript -->
 		
-<table width="100%">
-	<tbody><tr height="3"><td></td></tr>
-	<tr><td align="center">
-		<span id="_ctl0__ctl6_lblBanners"><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;dcopt=ist;abr=!webtv;pos=top;group=home;sz=728x90;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=top;group=home;sz=728x90;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=top;group=home;sz=728x90;ord=?" width="728" height="90" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=top;group=home;sz=728x90;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=top;group=home;sz=728x90;ord=?" width="728" height="90" border="0"></a></noscript></span>
+<table width="100%" border="0" cellpadding="0">
+	<tbody><tr><td>
+	<table align="left" width="1000" cellpadding="3" border="0">
+		<tbody><tr><td><center><span id="_ctl0__ctl6_lblBanners"><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;dcopt=ist;abr=!webtv;pos=top;group=home;sz=728x90;ord=733170347344906310?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=top;group=home;sz=728x90;ord=733170347344906310?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=top;group=home;sz=728x90;ord=733170347344906310?" width="728" height="90" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=top;group=home;sz=728x90;ord=733170347344906310?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=top;group=home;sz=728x90;ord=733170347344906310?" width="728" height="90" border="0"></a></noscript></span></center></td></tr>
+		<tr><td><hr color="#bfbfbf" align="center" noshade="noshade" size="1" width="100%"></td></tr>
+	</tbody></table>
 	</td></tr>
-	<tr height="3"><td></td></tr>
 </tbody></table>
+	
+	
+	
+
 
 		<table cellspacing="0" cellpadding="0" width="1000" border="0">
 			<tbody><tr valign="top">
-				<td valign="top" background="images/topback.gif" height="89">
+				<td valign="top" bgcolor="#ffffff">
 					<!--logo area-->
-					<table border="0" cellpadding="0" cellspacing="0">
+					<table border="0" cellpadding="0" cellspacing="0" height="94">
 						<tbody><tr>
-							<!--<td width="519">--><td width="450">
-								<img height="50" src="images/inv.gif" width="1" align="left"> <img height="1" src="images/inv.gif" width="1"><br>
-								<br>
-								<a href="http://www.advantagebusinessmedia.com"><img src="images/logo.gif" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-							</td>
-							<td valign="center" width="0"><a href="WhitePapers.aspx">
-			  <img src="images/starburst_rd.gif" alt="Free White Papers" border="0">
-			  </a></td>
-							<td width="481" align="right">
-<script language="javascript">
-			function StrTrim(s) {
-				var m = s.match(/^\s*(\S+(\s+\S+)*)\s*$/);
-				return (m == null) ? "" : m[1];
-			}
-			function fRedirect(frm)
-			{
-				var sSrchTxt;
-				sSrchTxt = StrTrim(frm.SEARCHTEXT.value);
-				
-				if (isISN(sSrchTxt)) return false;
-				if (sSrchTxt.length >= 3)
-				{
-					//if (frm.SEARCHMETHOD[1].checked == true)
-					//	frm.action = "FromSCIRUS.aspx";
-					//else
-						frm.action = "SearchResults.aspx";
-					return true;
-				}
-				else
-				{
-					alert("You must enter a minimum of 3 characters to begin your search");
-					return false;
-				}
-			}
-			
-			/* Put here by U. Moorehead 12/27/04
-			Check if the input is likely an InfoLink number,
-			and, if true, perform InfoLink search instead of the regular one.
-			Y. Xu added on 12/17/2004
-			*/
-			function isISN(str)
-			{
-				var re = /(\d{1}[a-l]\d{4})|(\d{3}-?\d{5}-?\d{3})/i;	
-				if (str.search(re) == -1) return false;
-				window.open("http://www.rbi-infolink.com/infolinksearch/aspx/resultsframe.aspx?Pub=RD&lead_source=search&isn=" + str);
-				return true;
-			}
-
-</script>
+							<td width="600" valign="middle">
+								<a href="default.html" style="margin-left: 7px;">
+								<img src="images/rd_logo-new.gif" border="0" alt="R&amp;D - Technologies &amp; Strategies for Research &amp; Development"></a></td>
+							<td width="380" align="right">
 <table cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr valign="top">
-		<td><img height="15" src="images/inv.gif" width="100"><br>
-			<font color="white">Search</font>
+		<td colspan="3">
+			<img height="10" src="images/inv.gif" width="100"><br>
+			<font color="#000000"><strong>Search R&amp;D</strong></font>
 		</td>
 	</tr>
-	<form name="frmSearch" onsubmit="return fRedirect(frmSearch)" action="SearchResults.aspx" method="post"></form>
+	<form action="search.html" id="searchbox_001778119024452946980:oxo41qqnrnq"></form>
 		<tr>
-			<td>
-				<input name="SEARCHTEXT" type="text" size="18" maxlength="200">&nbsp; <input type="image" src="images/find.gif" name="Image1" align="absBottom">
-				<a href="SearchTips.aspx"><span style="FONT-SIZE:8pt;COLOR:white;TEXT-DECORATION:underline">
-						Search Tips</span> </a>
+			<td class="text">
+				<input type="hidden" name="cx" value="001778119024452946980:oxo41qqnrnq"> 
+				<input type="hidden" name="cof" value="FORID:11">
+				<input type="hidden" name="safe" value="active"> 
+				<input type="text" name="q" size="20">
+			</td>
+			<td class="text">
+				&nbsp;<img src="images/inv.gif" height="5" width="2">
+			</td>
+			<td class="text">
+				<input type="image" src="images/find.gif" name="Image1" align="absBottom">
+			</td>
+		</tr>
+		<tr colspan="3">
+			<td align="right">
+				<a href="SearchTips.html"><span style="FONT-SIZE:8pt;COLOR:#000000;TEXT-DECORATION:underline">Search Tips</span> </a>
 			</td>
 		</tr>
 	
 </tbody></table>
-
-							</td>
-							<!--							<td vAlign="top" width="235" height="88" bgcolor="#5d0820">
-							<table height="100%" cellSpacing="0" cellPadding="0" width="100%">
-									<tr>
-										<td><iframe src="infolink.aspx" frameBorder="0" scrolling="no" height="86"></iframe>
-										</td>
-									</tr>
-								</table>							
-							</td>
--->
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001778119024452946980%3Aoxo41qqnrnq&amp;lang=en"></script>
+</td>
 						</tr>
 					</tbody></table>
 				</td>
 			</tr> <!--end logo area-->
 			<tr valign="top">
-				<td bgcolor="#871032" colspan="3" cellspacing="0" cellpadding="0">
-					<!--MenuBar for dynamic menus-->
-					<!-- End of Menu Bar -->
-					<table border="0" height="30" width="1000" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td>&nbsp;</td>
-						</tr>
-						<tr>
-							<td height="1"><img src="images/bline.gif"></td>
-						</tr>
-					</tbody></table>
+				<td colspan="3" cellspacing="0" cellpadding="0">
+					
 				</td>
 			</tr>
 			<tr valign="top">
@@ -601,81 +91,67 @@ dcsTag();
 						<tbody>
 							<tr valign="top">
 								<td width="143" background="images/rsidebar.gif" height="100%">
-<img height="1" src="images/inv.gif" width="133"><br>
+<img height="26" src="images/inv.gif" width="133"><br>
 <img height="1500" hspace="0" src="images/inv.gif" width="4" align="left" vspace="0">
-<span class="head">Customer Service</span><br>
+<span class="head"><u>SUBSCRIPTIONS</u></span><br>
 <img height="7" src="images/inv.gif" width="1"><br>
-<span class="sidebar"><img hspace="0" src="images/arrowg.gif" align="left" vspace="0">Magazine 
-	Subscription<br>
-	&nbsp;&nbsp;&nbsp;<a class="black" href="http://www.omeda.com/abrd">Print</a>
-	l <a class="black" href="digital.aspx">Digital</a> l <a class="black" href="http://www.omeda.com/abrd">
-		Renew</a><br>
+<span class="head">Magazine</span><br>
+	<span class="sidebar">
+	&nbsp;&nbsp;&nbsp;<a class="black" href="digital.html" target="_blank">Digital</a><br>
+	&nbsp;&nbsp;&nbsp;<a class="black" href="http://www.omeda.com/abrd" target="_blank">Print</a><br>
+	&nbsp;&nbsp;&nbsp;<a class="black" href="http://www.omeda.com/cgi-win/abrd.cgi?logind" target="_blank">Renew</a><br>
 	<img height="5" src="images/inv.gif" width="1"><br>
-	<img hspace="0" src="images/arrowg.gif" align="left" vspace="0"><a class="black" href="CheckRegStatus.aspx?lnk=UP">Update 
-		Profile</a><br>
+	</span>
+<span class="head">The R&amp;D Daily</span><br>
+	<span class="sidebar">
+		&nbsp;&nbsp;&nbsp;<a class="black" href="na_rd.html">Recent Newsletters</a><br>
+	&nbsp;&nbsp;&nbsp;<a class="black" href="http://www.omeda.com/cgi-win/abrd.cgi?mode=newsletter" target="_blank">Subscribe</a><br>
+	&nbsp;&nbsp;&nbsp;<a class="black" href="mailto:paul.livingstone@advantagemedia.com">Contact</a><br>
+	&nbsp;&nbsp;&nbsp;<a class="black" href="mailto:tim.studt@advantagemedia.com">Advertise</a><br>
 	<img height="5" src="images/inv.gif" width="1"><br>
-	<img height="5" src="images/inv.gif" width="1"><br>
-	<img hspace="0" src="images/arrowg.gif" align="left" vspace="0"><a class="black" href="feedback.aspx">Feedback</a></span>
-<p><br>
-  <a href="http://www.rdmag.com/freesub.aspx"><img src="images/freesub_stretch.jpg" border="0"></a><br>
-  <br>
-	<span class="head">Print Newsletters</span><br>
-	<img height="7" src="images/inv.gif" width="1"><br>
-	<a href="http://www.labdesignnews.com"><img src="images/labdesign.gif" border="0"></a><br>
-	<img height="10" src="images/inv.gif" width="1"><br>
-	<a href="micronano.aspx"><img src="images/micronano.gif" border="0"></a><br>
-</p><p><span class="head">Enewsletters</span><br>
-	<img height="7" src="images/inv.gif" width="1"><br>
-	<span class="sidebar"><img hspace="0" src="images/arrowl.gif" align="left" vspace="0">&nbsp;<a class="black" href="NA_rd.aspx">R&amp;D 
-			Enewsletter</a></span><span class="sidebar"><span class="sidebar"><img hspace="0" src="images/arrowl.gif" align="left" vspace="0"><br>
-			&nbsp;<a class="black" href="NA_daq.aspx">R&amp;D Data Acquisition</a>
-			<br>
-			<span class="sidebar"><img hspace="0" src="images/arrowl.gif" align="left" vspace="0">&nbsp;<a class="black" href="NA_LD.aspx">R&amp;D 
-					Laboratory Design News</a><br>
-			</span></span><span class="sidebar"><img hspace="0" src="images/arrowl.gif" align="left" vspace="0">&nbsp;<a class="black" href="NA_pho.aspx">R&amp;D 
-				Photonics</a><br>
-		</span><span class="sidebar"><span class="sidebar"><img hspace="0" src="images/arrowl.gif" align="left" vspace="0">&nbsp;<a class="black" href="NA_micro.aspx">R&amp;D 
-					Microscopy</a></span></span><br>
-		<span class="sidebar"><img hspace="0" src="images/arrowl.gif" align="left" vspace="0">&nbsp;<a class="black" href="NA_vac.aspx">R&amp;D 
-				Vacuum</a><br>
-			&nbsp;&nbsp;&nbsp;<a class="black" href="NA_vac.aspx">Technology</a> <img height="5" src="images/inv.gif" width="1"><br>
-			</span><br>
-			</span><span class="head">Awards</span><br>
-	<img height="7" src="images/inv.gif" width="1"><br>
-	<a href="awards.aspx"><img alt="R&amp;D 100 Awards" src="images/rd100.gif" border="0"></a><br>
-	<img height="10" src="images/inv.gif" width="1"><br>
-	<a href="loy.aspx"><img alt="Lab of the Year" src="images/loty.gif" border="0"></a><br>
-	<img height="10" src="images/inv.gif" width="1"><br>
-	<a href="soy.aspx"><img alt="Scientist of the Year" src="images/soty.gif" border="0"></a><br>
-	<img height="10" src="images/inv.gif" width="1"><br>
-	<a href="ioy.aspx"><img alt="Innovator of the Year" src="images/ioty.gif" border="0"></a><br>
-  
+	</span>
+<span class="head">Laboratory Design</span><br>
 <span class="sidebar">
-</span></p><p><span class="head">Supplements</span><br>
+	&nbsp;&nbsp;&nbsp;<a class="black" href="http://www.labdesignnews.com/LaboratoryDesign/index.asp" target="_blank">Newsletter Homepage</a><br>
+	&nbsp;&nbsp;&nbsp;<a class="black" href="pdf/SubscriptionForm.pdf" target="_blank">Subscribe</a><br>
+	<img height="5" src="images/inv.gif" width="1"><br>
+<a href="http://www.omeda.com/cgi-win/abrd.cgi?mode=newsletter"><img src="http://www.rdmag.com/images/rd-subscribe.gif" border="0" alt="FREE SUBSCRIPTIONS to R&amp;D Magazine and Newsletters"></a></span>
+<hr style="height: 1px; color: #000; width:100%;">
+<!--
+	<img hspace="0" src="images/arrowg.gif" align="left" vspace="0"><A class="black" href="CheckRegStatus~lnk~UP.html">Update 
+		Profile</A><br />
+	<img height="5" src="images/inv.gif" width="1"><br />
+	<img height="5" src="images/inv.gif" width="1"><br />
+	<img hspace="0" src="images/arrowg.gif" align="left" vspace="0"><A class="black" href="feedback.html">Feedback</A></span>
+<p><br />
+  <a href="http://www.rdmag.com/freesub.html"><img src="images/freesub_stretch.jpg" border="0"></a><br />
+  <br />
+-->
+<span id="_ctl0__ctl0_lblBannersAllL"><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=left;group=all;sz=125x125;tile=1;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=1;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=1;ord=733170348981109181?" width="125" height="125" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=1;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=1;ord=733170348981109181?" width="125" height="125" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=left;group=all;sz=125x125;tile=2;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=2;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=2;ord=733170348981109181?" width="125" height="125" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=2;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=2;ord=733170348981109181?" width="125" height="125" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=left;group=all;sz=125x125;tile=3;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=3;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=3;ord=733170348981109181?" width="125" height="125" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=3;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=3;ord=733170348981109181?" width="125" height="125" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=left;group=all;sz=125x125;tile=4;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=4;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=4;ord=733170348981109181?" width="125" height="125" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=4;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=4;ord=733170348981109181?" width="125" height="125" border="0"></a></noscript><br><br></span>
+<hr style="height: 1px; color: #000; width:100%;">
+	<br><span class="head">Awards</span><br><br>
+	<img height="7" src="images/inv.gif" width="1"><br>
+	<a href="awards.html"><img alt="R&amp;D 100 Awards" src="images/rd100.gif" border="0"></a><br>
+	<img height="10" src="images/inv.gif" width="1"><br>
+	<a href="loy.html"><img alt="Lab of the Year" src="images/loty.gif" border="0"></a><br>
+	<img height="10" src="images/inv.gif" width="1"><br>
+	<a href="soy.html"><img alt="Scientist of the Year" src="images/soty.gif" border="0"></a><br>
+	<img height="10" src="images/inv.gif" width="1"><br>
+	<a href="ioy.html"><img alt="Innovator of the Year" src="images/ioty.gif" border="0"></a><br>
+ <br> <hr style="height: 1px; color: #000; width:100%;">
+<br><span class="sidebar">
+	<span class="head">Product Solutions</span><br><br>
+	<img height="7" src="images/inv.gif" width="1"><br>
+			<a href="http://www.rdmag.com/esolutions/esolutions~d~15.asp"><img alt="R&amp;D E-solutions" src="images/esol.gif" border="0"></a><br>
 			<img height="7" src="images/inv.gif" width="1"><br>
-			<a href="Supplements.aspx?RELTYPE=ECT&amp;DISPTYPE2=NOCOMP"><img alt="R&amp;D Executive Supplement" src="images/eoty.gif" border="0"></a><br>
-			<a href="http://www.rdmag.com/PRHeadLines.aspx?RELTYPE=LoF" target="_blank">
-				<br>
-				<img height="133" src="http://www.rdmag.com/images/lof_cover.gif" width="100" border="0"></a>
-</p><div></div>
-			<span class="head">
-				<br>
-				<br>
-				Product Solutions</span><br>
-			<img height="7" src="images/inv.gif" width="1"><br>
-			<a href="http://www.rdmag.com/esolutions/esolutions.asp?d=15"><img alt="R&amp;D E-solutions" src="images/esol.gif" border="0"></a><br>
-			<img height="7" src="images/inv.gif" width="1"><br>
-			<a href="PRheadlines.aspx?RELTYPE=PRSH&amp;DISPTYPE=FULLARCH"><img alt="R&amp;D Product Showcase" src="images/pshow.gif" border="0"></a><br>
-		<p><span class="head">Exclusive Reports</span><br>
+			<a href="PRheadlines~RELTYPE~PRSH~DISPTYPE~FULLARCH.html    "><img alt="R&amp;D Product Showcase" src="images/pshow.gif" border="0"></a><br>
+		<!--<p><span class="head">Exclusive Reports</span><br />-->
 			<img height="7" src="images/inv.gif" width="1">
 			<br>
-			<span class="sidebar"></span>
-			<br>
-			<span id="_ctl0__ctl0_lblBannersAllL"><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=left;group=all;sz=125x125;tile=1;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=1;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=1;ord=?" width="125" height="125" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=1;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=1;ord=?" width="125" height="125" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=left;group=all;sz=125x125;tile=2;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=2;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=2;ord=?" width="125" height="125" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=2;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=2;ord=?" width="125" height="125" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=left;group=all;sz=125x125;tile=3;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=3;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=3;ord=?" width="125" height="125" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=3;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=3;ord=?" width="125" height="125" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=left;group=all;sz=125x125;tile=4;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=4;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=4;ord=?" width="125" height="125" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=4;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=left;group=all;sz=125x125;tile=4;ord=?" width="125" height="125" border="0"></a></noscript><br><br></span><br>
-		
 
+</span>
 
-									</p><div align="center">
+									<div align="center">
 										<span id="_ctl0__ctl3_lblGoogleAdLeft">
 <script type="text/javascript"><!--
 google_ad_client = "pub-7014613462394946";
@@ -696,6 +172,18 @@ google_color_url = "008000";
 									</div>
 								</td>
 								<td id="_ctl0_tdBody" width="514">
+									<script language="javascript" type="text/javascript">
+									<!--
+										//Body tags inside a user control create extra space in all browsers but Explorer
+										//Adjustment of menu vertical position inside menu_array.js took care of Firefox and Safary
+										//Menu bar in Opera is moved left, let's correct that
+										if (navigator.appName == "Opera")
+										{
+											//document.write("<div style='width: 250px;'>");
+											document.write("<img src='images/inv.gif' height='1' width='532' border='0'>");
+										}
+									//-->
+									</script>
 									<img height="15" src="images/inv.gif" width="494"><br>
 									<!--Top Banner start--><center>
 										<table cellspacing="0" cellpadding="10" border="0">
@@ -936,333 +424,72 @@ google_color_url = "008000";
 								</td>
 
 				
-				<td width="228"><img height="15" src="images/inv.gif" width="2"><br>
-					 
-<table width="156" cellspacing="0" cellpadding="0" border="0">
-  <tbody><tr> 
-    <td colspan="3"><img src="images/top.gif"></td>
-  </tr>
-  <tr> 
-    <td width="5" height="412" background="images/ll.gif"><img src="images/inv.gif" width="5" height="1"></td>
-    <td width="146" bgcolor="F0E3CD">
-<table width="90%" border="0" align="center">
-        <tbody><tr> 
-          <td><div align="center"><strong><font color="#990000">Probing the NanoWorld: <br>
-
-
-Trends in Microscopy<br>
-
-
-July 2007
-
-</font></strong> <br>
-              <a href="http://www.rdmag.com/pdf/NanoWorld.pdf"><img src="images/NanoWorld1.jpg" width="100" height="133" border="0"></a> 
-            </div>
-<br> <div align="center"><strong><font color="#990000"><br>
-  Exclusive <br>
-2008 Global R&amp;D Report</font></strong> <br>
-              <a href="http://www.rdmag.com/pdf/RD79GlobalReport.pdf"><img src="images/RD79GlobalReport-1.jpg" width="100" height="133" border="0"></a> 
-            </div>
+				<td width="228" valign="top"><img height="15" src="images/inv.gif" width="2"><br>
+					
 <br>
-<div align="center"><strong><font color="#990000"><br>
-  Advantage Science Group's Academic Sourcebook</font></strong><br>
-              <a href="http://redigitaleditions.com/ActiveMagazine/getBook.asp?Path=RRD/2006/11/15&amp;BookCollection=RRD&amp;ReaderStyle=WithPDF" target="_blank"><br>
-              <img src="images/RD6n_AcademicSourceBk.jpg" border="0"></a> <a href="http://redigitaleditions.com/ActiveMagazine/getBook.asp?Path=RRD/2006/11/15&amp;BookCollection=RRD&amp;ReaderStyle=WithPDF" target="_blank"><br>
-              click here for <br>
-              digital edition</a> 
-            </div></td>
-        </tr>
-      </tbody></table>
-      <img src="images/inv.gif" width="5" height="5"> </td>
-    <td width="5" background="images/lr.gif"><img src="images/inv.gif" width="5" height="1"></td>
-  </tr>
-  <tr> 
-    <td colspan="3"><img src="images/bott.gif"></td>
-  </tr>
+<table width="156" cellspacing="0" cellpadding="3" border="0" style="BORDER-RIGHT: #cc9900 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #cc9900 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #cc9900 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #cc9900 1px solid">
+	<tbody><tr>
+		<td><img src="images/ednt_hp.gif" alt="Editor's Take"></td>
+	</tr>
+	<tr>
+		<td>
+        <img src="http://www.rdmag.com/images/editor-take_tim.jpg">
+     <h5>Where are those robots?</h5>May 9, 2008
+There are roughly 78 million baby boomers in the U.S. and about 8,000 of them turn 60 every day. A small number still have parents, many of whom are in continuing care retirement facilities, which many of the baby boomers themselves will have need of in the future. A number of studies have revealed that, under current situations, there won’t be enough health care workers available in the future to properly take care of the residents in these facilities.<br><br>
+One of the solutions noted was the implementation of robotic systems for many of the routine chores, thereby freeing up the available health care providers to do the more personal and intensive jobs. Other robotic systems have been demonstrated for the in-home care and monitoring of elderly citizens. Health care robotic assistants’ duties include systems for delivery and disposal of materials, infirm patient guidance and tracking, rehabilitation assistants, and overall monitoring and analysis. But while many of these systems have been demonstrated, relatively few have been transitioned into actual products and integrated into health care facilities or available for in-home use.<br><br>
+Likely, the overall costs for the systems including their initial acquisition, maintenance, and monitoring and control networks are still beyond the payback range required by the care facility operators or individuals. Their reliability, especially in power outage situations, also has not been proven. Certainly, the looming volume of potential customers for these products is highly visible and without question, so as to create a marketplace with adequate revenue possibilities and high-volume cost reductions. Regardless, the manufacturers of such systems are not visibly increasing, and the integrations of systems into facilities is meager at best. Indeed, research in robotic health care appears to be increasing in the EU and Japan—who have their own rising levels of senior citizens—faster than it is in the U.S.<br><br>
+Is this going to become a situation where robotic systems needed to take care of our elderly are sourced from suppliers outside the U.S.? These are primarily high-technology products and not commodities, so that the cost advantage for foreign suppliers should not be an issue. It will become primarily a situation of who actually designs and builds these systems and offers them for sale. I sincerely hope that U.S. industry will take advantage of this opportunity to create a new market sector.
+<br>
+<br>
+<a href="mailto:tim.studt@advantagemedia.com">E-mail the editor
+<p></p>
+</a><br>
+
+
+
+</td>
+	</tr>
+	<tr>
+		<td align="center"><br>
+		<a href="PRArchive~RPTID~ARCHIVE~RELTYPE~EDNT~DISPTYPE~.html">More From the Editors</a>
+		<br>
+		</td>
+	</tr>
 </tbody></table>
-<br>
-<br>
-<table width="156" height="640" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td colspan="3"><img src="images/top.gif"></td>
-  </tr>
-  <tr> 
-    <td width="5" height="613" background="images/ll.gif"><img src="images/inv.gif" width="5" height="1"></td>
-    <td width="146" valign="top" bgcolor="F0E3CD"> 
-      <table width="90%" border="0" align="center">
-        <tbody><tr> 
-          <td height="299" valign="top"> 
-            
-<br> <a href="http://www.advantagebusinessmedia.com/ims/scripts/lfs_pittcon07.asp" target="_blank"><img src="http://www.rdmag.com/images/pit2007.gif" width="120" height="240" border="0"></a>
-
-              
-              <br>
-              <br>
-          <div align="center"></div></td>
-        </tr>
-      </tbody></table> 
-      <br>
-      
-      <br>
-      <br>
-      <img src="images/inv.gif" width="5" height="5"> </td>
-    <td width="5" background="images/lr.gif"><img src="images/inv.gif" width="5" height="1"></td>
-  </tr>
-  <tr> 
-    <td colspan="3"><img src="images/bott.gif"></td>
-  </tr>
-</tbody></table>
-<br>
-<img src="images/inv.gif" height="1300" width="5" hspace="0" vspace="0" align="left"> 
-<br>
 <table width="156" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
 		<td colspan="3"><img src="images/top.gif"></td>
 	</tr>
 	<tr>
-		<td width="5" background="images/ll.gif"><img src="images/inv.gif" width="5" height="1"></td>
-		<td width="146" bgcolor="F0E3CD"><br><br><img src="images/inv.gif" width="5" height="5"> 
-        <strong><font color="#990000">This Month in R&amp;D</font></strong> <img src="images/inv.gif" width="5" height="5"><img src="images/inv.gif" width="5" height="5">
-      <table width="90%" border="0" align="center">
-        <tbody><tr>
-          <td>• <strong>Oct 9 - Oct 11 
- 
-
- </strong><br>
-            <a href="http://www.biotechnica.de" target="_blank">Biotechnica 2007 
-
-
-
-
- </a><br>
-            Hanover, Germany
-            <br><br>
-
-            • <strong> Oct 23 - Oct 27
-   
-</strong><br>
-            <a href="http://www.ashg.org" target="_blank">American Society of Human Genetics  
- 
-
-</a><br>
-            San Diego, CA
- 
-<br> <br>
-            &nbsp;<a href="eventcalendar.aspx">More Events</a><br> </td>
-        </tr>
-      </tbody></table>
-      <br><br> &nbsp;&nbsp; <img src="images/inv.gif" width="5" height="5">  
-      
-	  </td>
-		<td width="5" background="images/lr.gif"><img src="images/inv.gif" width="5" height="1"></td>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="images/bott.gif"></td>
-	</tr>
-</tbody></table>
-   
-<br>
-<table width="156" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td colspan="3"><img src="images/top.gif"></td>
-  </tr>
-  <tr> 
-    <td width="5" background="images/ll.gif"><img src="images/inv.gif" width="5" height="1"></td>
-    <td width="146" valign="top" bgcolor="F0E3CD">
-<table width="66%" border="0" align="center">
-        <tbody><tr> 
-          <td valign="top"><div align="center"><strong><font color="#990000">Exclusive<br>
-              R &amp; D Asia<br>
-              <br>
-              </font></strong><a href="http://redigitaleditions.com/ActiveMagazine/getBook.asp?Path=RRD/2006/08/08&amp;BookCollection=RRD&amp;ReaderStyle=WithPDF"><img src="images/RD_asia.jpg" width="100" height="133" border="0"></a></div></td>
-        </tr>
-      </tbody></table>
-       <img src="images/inv.gif" width="5" height="5"> </td>
-    <td width="5" background="images/lr.gif"><img src="images/inv.gif" width="5" height="1"></td>
-  </tr>
-  <tr> 
-    <td colspan="3"><img src="images/bott.gif"></td>
-  </tr>
-</tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-<!-- <table width="156" cellspacing="0" cellpadding="0" border="0">
-	<tr>
-		<td colspan="3"><img src="images/top.gif"></td>
-	</tr>
-	<tr>
-		<td width="5" background="images/ll.gif"><img src="images/inv.gif" width="5" height="1"></td>
-		<td width="146" bgcolor="F0E3CD"><img src="images/inv.gif" width="5" height="5"><br>
-			<strong>&nbsp;&nbsp;<font color="#990000">Research Lab&nbsp;&nbsp;Expo</font></strong><Br>
-			<img src="images/inv.gif" width="5" height="5"><br>
-			<center>
-        <a href="http://www.ResearchlabExpo.com" target="_blank"><img src="images/researchlab120x240.gif" border="0"></a><br>
-				<img src="images/inv.gif" width="5" height="5">
-			</center>
-		</td>
-		<td width="5" background="images/lr.gif"><img src="images/inv.gif" width="5" height="1"></td>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="images/bott.gif"></td>
-	</tr>
-</table> 
-<br><table width="156" cellspacing="0" cellpadding="0" border="0">
-	<tr>
-		<td colspan="3"><img src="images/top.gif"></td>
-	</tr>
-	<tr>
-		<td width="5" background="images/ll.gif"><img src="images/inv.gif" width="5" height="1"></td>
-		
-  <td width="146" bgcolor="F0E3CD"><img src="images/inv.gif" width="5" height="5"><strong>&nbsp;&nbsp;</strong>
-<center>
-        <a href="http://www.dddmag.com/edweb05.aspx" target="_blank"><img src="images/lifesci.gif" border="0"></a><br>
-				<img src="images/inv.gif" width="5" height="5">
-	  </center>
-	  </td>
-		<td width="5" background="images/lr.gif"><img src="images/inv.gif" width="5" height="1"></td>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="images/bott.gif"></td>
-	</tr>
-</table> -->
-<!--<br>
-<table width="156" cellspacing="0" cellpadding="0" border="0">
-	<tr>
-		<td colspan="3"><img src="images/top.gif"></td>
-	</tr>
-	<tr>
-		<td width="5" background="images/ll.gif"><img src="images/inv.gif" width="5" height="1"></td>
-		<td width="146" bgcolor="F0E3CD"><img src="images/inv.gif" width="5" height="5"><br><table cellpadding="3"><tr><td>
-			<strong><font color="#990000">2004 R&D 100 WINNER’S IMAGE GALLERY</font></strong><Br>
-			<img src="images/inv.gif" width="5" height="5"><br>
-   Thank you again for attending the R&D 100 Awards. We at R&D Magazine hope you enjoyed yourselves and found the occasion to be a memorable one. <br>
-      If you haven’t already done so, please click on <a href="http://www.dotphoto.com/Go.asp?l=R%26D+100&P=R%26D+100&AID=1940896&GID=1107089&T=1">"See It Now"</a> for the complete album of photos and ordering instructions. Hope to see you next year!
-<br>
-
-				<img src="images/inv.gif" width="5" height="5"></td></tr></table>
-
-		</td>
-		<td width="5" background="images/lr.gif"><img src="images/inv.gif" width="5" height="1"></td>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="images/bott.gif"></td>
-	</tr>
-</table>
-<br>-->
-<!--<table width="156" cellspacing="0" cellpadding="0" border="0">
-	<tr>
-		<td colspan="3"><img src="images/top.gif"></td>
-	</tr>
-	<tr>
-		<td width="5" background="images/ll.gif"><img src="images/inv.gif" width="5" height="1"></td>
-		<td width="146" bgcolor="F0E3CD"><img src="images/inv.gif" width="5" height="5"><br>
-			<strong>&nbsp;&nbsp;<font color="#990000">Laboratory Design <br>&nbsp;&nbsp;Conference</font></strong><Br>
-			<img src="images/inv.gif" width="5" height="5"><br>
-			
-       <center> <a href="pdf/RD453_LabDeSpr05ProSgnup.pdf" target="_blank"><img src="images/rdlabdesign05.gif" border="0"></a><br>
-				<img src="images/inv.gif" width="5" height="5">
-			</center>
-		</td>
-		<td width="5" background="images/lr.gif"><img src="images/inv.gif" width="5" height="1"></td>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="images/bott.gif"></td>
-	</tr>
-</table>
-
-<br>-->
-<!--  <table width="156" cellspacing="0" cellpadding="0" border="0">
-	<tr>
-		<td colspan="3"><img src="images/top.gif"></td>
-	</tr>
-	<tr>
-		<td width="5" background="images/ll.gif"><img src="images/inv.gif" width="5" height="1"></td>
-		<td width="146" bgcolor="#F0E3CD"><img src="images/inv.gif" width="5" height="5"><br>
-			<strong>&nbsp;&nbsp;<font color="#990000">Live From Show</font></strong><Br>
-			<img src="images/inv.gif" width="5" height="5"><br>
-			<center>
-        <a href="http://www.reedbusinessinteractive.com/scripts/lfs_pittcon2005.asp" target="_blank"><img src="images/livepittcon2005.gif" border="0"></a><br>
-				<img src="images/inv.gif" width="5" height="5">
-			</center>
-		</td>
-		<td width="5" background="images/lr.gif"><img src="images/inv.gif" width="5" height="1"></td>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="images/bott.gif"></td>
-	</tr>
-</table>
-<br>
-<table width="156" cellspacing="0" cellpadding="0" border="0">
-	<tr>
-		<td colspan="3"><img src="images/top.gif"></td>
-	</tr>
-	<tr>
-		<td width="5" background="images/ll.gif"><img src="images/inv.gif" width="5" height="1"></td>
-		<td width="146" bgcolor="#fff4e1"><img src="images/inv.gif" width="5" height="5"><br>
-			<strong>&nbsp;&nbsp;Lab Design</strong><Br>
-			<img src="images/inv.gif" width="5" height="5"><br>
-			<center><img src="images/ld2004.gif"><br>
-				<img src="images/inv.gif" width="5" height="5">
-			</center>
-		</td>
-		<td width="5" background="images/lr.gif"><img src="images/inv.gif" width="5" height="1"></td>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="images/bott.gif"></td>
-	</tr>
-</table> -->
-<table width="156" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-		<td colspan="3"><img src="images/top.gif"></td>
-  </tr>
-	<tr>
-		<td width="5" background="images/ll.gif"><img src="images/inv.gif" width="5" height="1"></td>
-		<td width="146" bgcolor="F0E3CD"><img src="images/inv.gif" width="5" height="5"><br>
-			<strong>&nbsp;&nbsp;<font color="#990000">Webcasts:</font></strong><br>
-			<img src="images/inv.gif" width="5" height="5"><br>
-			<center>
-        <a href="http://www.scientificcomputing.com/compute" target="_blank"><img src="http://www.rdmag.com/images/SC_Compute125x137.gif" border="0"></a> 
-        <br>
-        <br><br>
-        <a href="http://www.scientificcomputing.com/linux/" target="_blank"><img src="http://www.rdmag.com/images/linux_125x137.gif" border="0"></a> 
-        <br>
-        <br><a href="http://www.scientificcomputing.com/km" target="_blank"><img src="http://www.rdmag.com/images/SC619_KM_125x137.gif" border="0"></a>  <br><br>
-        <a href="http://www.pharmpro.com/mark" target="_blank"><img src="images/PP652_Mark_125x137.gif" border="0"></a> 
-        <br>
-        <br>
-
-         <a href="http://www.scientificcomputing.com/cae" target="_blank"><img src="images/CI674_Megamagic_125x137.gif" border="0"></a> 
-        <br>
-        <br>
-        <a href=""><img src="images/SC615_CAE_125x137.gif" border="0"></a>  
-        <img src="images/inv.gif" width="5" height="5"> 
-      </center>
-			
+		<td width="5" height="412" background="images/ll.gif"><img src="images/inv.gif" width="5" height="1"></td>
+		<td width="146" bgcolor="#bfbfbf">
+			<table width="90%" border="0" align="center">
+				<tbody><tr>
+					<td><div align="center"><span class="subhead">
+								2008 R&amp;D Funding Forecast</span><br>
+							<a href="http://www.rdmag.com/pdf/RD0802_FundForecast.pdf" target="_blank"><img src="images/RD82FFcv.jpg" width="100" height="133" border="0" alt="2008 R&amp;D Funding Forecast"><br>
+								Download PDF</a>
+						</div>
+						<br><div align="center"><span class="subhead">
+								Lab 2015<br>
+ Shaping the Lab of Tomorrow</span><br>
+							<a href="http://www.rdmag.com/pdf/82Lab2015.pdf&#10;" target="_blank"><img src="images/82Lab20151.jpg" width="100" height="133" border="0" alt="Lab 2015"><br>
+								Download PDF</a>
+						</div>
+						<br><div align="center"><span class="subhead">Exclusive<br>
+								2008 Global R&amp;D Report</span><br>
+							<a href="http://www.rdmag.com/pdf/RD79GlobalReport.pdf" target="_blank"><img src="images/RD79GlobalReport-1.jpg" width="100" height="133" border="0" alt="2008 Global R&amp;D Report"><br>
+								Download PDF</a>
+						</div>
+						<br>
+						<div align="center"><span class="subhead">Advantage Science Group's Academic Sourcebook</span><br>
+							<a href="http://e-ditionsbyfry.com/activemagazine/welcome/rdd/ddd071102.asp?emailaddress=@%7bEmail%20Name%7d@" target="_blank"><img src="images/RD6n_AcademicSourceBk.jpg" border="0" alt="Advantage Science Group's Academic Sourcebook"><br>
+								Digital Edition</a>
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+			<img src="images/inv.gif" width="5" height="5">
 		</td>
 		<td width="5" background="images/lr.gif"><img src="images/inv.gif" width="5" height="1"></td>
 	</tr>
@@ -1270,30 +497,139 @@ July 2007
 		<td colspan="3"><img src="images/bott.gif"></td>
 	</tr>
 </tbody></table>
-
-<!--C7E0E0-->
-<br>
-
 </td>
 				<td width="143" background="images/lsidebar.gif"><img height="1" src="images/inv.gif" width="133"><br>
 					
-<!--<IMG height="1200" src="images/inv.gif" width="4" align="left" border="0">-->
-<center><span class="head">Sponsors</span>
+<img height="26" src="images/inv.gif" width="133"><br>
+<center>
+	<!-- house ad dart iframe code-->
+	<span id="_ctl0__ctl2_lblBanners"></span>
+	<!-- END ad dart iframe code-->
+</center>
+<hr style="WIDTH: 100%; COLOR: #000; HEIGHT: 1px">
+<table id="_ctl0__ctl2_dtlEvtCalendar" cellspacing="0" cellpadding="0" border="0" width="90%">
+	<tbody><tr>
+		<td>
+		<p class="head">Events Calendar</p>
+	</td>
+	</tr><tr>
+		<td>
+		<p class="cal_item">
+		<!--<p class="cal_date"><b>May 2008</b><br/></p>-->
+		</p><p class="link_cal">
+			<strong>
+				May 10-13                                         
+			</strong>
+			<br>
+			<a id="_ctl0__ctl2_dtlEvtCalendar__ctl1_Hyperlink1" href="ShowPR~PUBCODE~014~ACCT~1400000100~ISSUE~0802~RELTYPE~ca~PRODCODE~00000000~PRODLETT~MV.html                    ">SIAM Conference on Optimization</a>
+			<br>
+			<span class="cal_date">Boston, MA                                        </span> 
+		</p>
+		<p></p>
+	</td>
+	</tr><tr>
+		<td>
+		<p class="cal_item">
+		<!--<p class="cal_date"></p>-->
+		</p><p class="link_cal">
+			<strong>
+				May 12-15                                         
+			</strong>
+			<br>
+			<a id="_ctl0__ctl2_dtlEvtCalendar__ctl2_Hyperlink1" href="ShowPR~PUBCODE~014~ACCT~1400000100~ISSUE~0802~RELTYPE~ca~PRODCODE~00000000~PRODLETT~OS.html                    ">Industrial Research Institute's 2008 Annual Meeting: Macro Trends Creating Opportunities</a>
+			<br>
+			<span class="cal_date">Boca Raton, Fla                                   </span> 
+		</p>
+		<p></p>
+	</td>
+	</tr><tr>
+		<td>
+		<p class="cal_item">
+		<!--<p class="cal_date"></p>-->
+		</p><p class="link_cal">
+			<strong>
+				May 19-22                                         
+			</strong>
+			<br>
+			<a id="_ctl0__ctl2_dtlEvtCalendar__ctl3_Hyperlink1" href="ShowPR~PUBCODE~014~ACCT~1400000100~ISSUE~0802~RELTYPE~ca~PRODCODE~00000000~PRODLETT~MW.html                    ">21st Annual Technical Conference &amp; Exhibition</a>
+			<br>
+			<span class="cal_date">Valley Forge, PA                                  </span> 
+		</p>
+		<p></p>
+	</td>
+	</tr><tr>
+		<td>
+		<p class="cal_item">
+		<!--<p class="cal_date"></p>-->
+		</p><p class="link_cal">
+			<strong>
+				May 20-22                                         
+			</strong>
+			<br>
+			<a id="_ctl0__ctl2_dtlEvtCalendar__ctl4_Hyperlink1" href="ShowPR~PUBCODE~014~ACCT~1400000100~ISSUE~0802~RELTYPE~ca~PRODCODE~00000000~PRODLETT~OT.html                    ">10th Annual C21 BioVentures</a>
+			<br>
+			<span class="cal_date">Napa, Calif                                       </span> 
+		</p>
+		<p></p>
+	</td>
+	</tr><tr>
+		<td>
+		<p class="cal_item">
+		<!--<p class="cal_date"><b>June 2008</b><br/></p>-->
+		</p><p class="link_cal">
+			<strong>
+				 June 1-5                                         
+			</strong>
+			<br>
+			<a id="_ctl0__ctl2_dtlEvtCalendar__ctl5_Hyperlink1" href="ShowPR~PUBCODE~014~ACCT~1400000100~ISSUE~0712~RELTYPE~ca~PRODCODE~00000000~PRODLETT~CJ.html                    ">56th ASMS Conference on Mass Spectrometry</a>
+			<br>
+			<span class="cal_date">Denver, CO                                        </span> 
+		</p>
+		<p></p>
+	</td>
+	</tr><tr>
+		<td>
+		<p class="cal_item">
+		<!--<p class="cal_date"></p>-->
+		</p><p class="link_cal">
+			<strong>
+				June 2-5                                          
+			</strong>
+			<br>
+			<a id="_ctl0__ctl2_dtlEvtCalendar__ctl6_Hyperlink1" href="ShowPR~PUBCODE~014~ACCT~1400000100~ISSUE~0802~RELTYPE~ca~PRODCODE~00000000~PRODLETT~MX.html                    ">2008 Washington Conference</a>
+			<br>
+			<span class="cal_date">Arlington, VA                                     </span> 
+		</p>
+		<p></p>
+	</td>
+	</tr><tr>
+		<td>
+		<p class="morecal"><a class="link_morecal" href="EventCalendar.html">More Events</a></p>
+	</td>
+	</tr>
+</tbody></table>
+<br>
+<br>
+<!-- START Sponsors -->
+<center>
+	<span id="_ctl0__ctl2_lblBannersAll"><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=120x90;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=120x90;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=120x90;ord=733170348981109181?" width="120" height="90" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=120x90;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=120x90;ord=733170348981109181?" width="120" height="90" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=1;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=1;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=1;ord=733170348981109181?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=1;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=1;ord=733170348981109181?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=2;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=2;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=2;ord=733170348981109181?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=2;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=2;ord=733170348981109181?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=3;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=3;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=3;ord=733170348981109181?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=3;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=3;ord=733170348981109181?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=4;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=4;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=4;ord=733170348981109181?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=4;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=4;ord=733170348981109181?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=5;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=5;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=5;ord=733170348981109181?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=5;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=5;ord=733170348981109181?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=6;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=6;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=6;ord=733170348981109181?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=6;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=6;ord=733170348981109181?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=7;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=7;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=7;ord=733170348981109181?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=7;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=7;ord=733170348981109181?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=8;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=8;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=8;ord=733170348981109181?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=8;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=8;ord=733170348981109181?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=9;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=9;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=9;ord=733170348981109181?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=9;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=9;ord=733170348981109181?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=10;ord=733170348981109181?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=10;ord=733170348981109181?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=10;ord=733170348981109181?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=10;ord=733170348981109181?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=10;ord=733170348981109181?" width="121" height="30" border="0"></a></noscript><br><br></span>
 	<br>
-	<span id="_ctl0__ctl2_lblBannersAll"><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=120x90;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=120x90;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=120x90;ord=?" width="120" height="90" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=120x90;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=120x90;ord=?" width="120" height="90" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=1;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=1;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=1;ord=?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=1;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=1;ord=?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=2;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=2;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=2;ord=?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=2;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=2;ord=?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=3;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=3;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=3;ord=?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=3;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=3;ord=?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=4;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=4;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=4;ord=?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=4;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=4;ord=?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=5;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=5;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=5;ord=?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=5;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=5;ord=?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=6;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=6;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=6;ord=?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=6;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=6;ord=?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=7;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=7;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=7;ord=?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=7;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=7;ord=?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=8;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=8;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=8;ord=?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=8;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=8;ord=?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=9;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=9;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=9;ord=?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=9;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=9;ord=?" width="121" height="30" border="0"></a></noscript><br><br><script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/l.site165.tmus/;abr=!webtv;pos=right;group=all;sz=121x30;tile=10;ord=?"> </script><script type="text/javascript"><!--if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0)){document.write('<a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=10;ord=?">');document.write('<img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=10;ord=?" width="121" height="30" border="0"><\/a>');}//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=10;ord=?"><img src="http://ad.doubleclick.net/ad/l.site165.tmus/;pos=right;group=all;sz=121x30;tile=10;ord=?" width="121" height="30" border="0"></a></noscript><br><br></span><br>
 	<br>
-	<span id="_ctl0__ctl2_lblBanners"></span></center>
+</center>
 </td>
 			</tr>
 		</tbody></table>
 		<center>©
-			2007
+			2008
 			Advantage Business Media. All rights reserved.
 			<br>
-			Use of this website is subject to its <a href="TermsOfUse.aspx">terms of use.</a><br>
-			<a href="privacy.aspx">New Privacy Policy</a>
+			<a href="privacy.html">Privacy Policy</a> | <a href="TermsOfUse.html">Terms &amp; 
+				Conditions</a> | <a href="AdInfo.html">Advertise with Us</a>
 		</center>
-		</td></tr></tbody></table>
+		</td></tr></tbody></table> 
+		<!-- URCHIN TRACKER CODE -->
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+		<script type="text/javascript"> _uacct = "UA-875281-1"; urchinTracker(); </script>
 	
 
 </body></html>
