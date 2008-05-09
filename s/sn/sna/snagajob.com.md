@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snagajob.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231181506id_/http%3A//www.snagajob.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snagajob.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509091302id_/http%3A//www.snagajob.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for SnagAJob.com
+# SnagAJob.com privacy policy
 
 SnagAJob.com appreciates the sensitivity and privacy with which your job search should be handled. In addition to installing numerous privacy features on the SnagAJob.com website, SnagAJob.com has created this Privacy Policy to emphasize our firm commitment to your privacy. The Policy describes how we collect, protect and use information received and collected from you by means of our Website. It does not apply to information that we gather or collect using any other method. We urge you to read our Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
 
@@ -9,8 +9,8 @@ SnagAJob.com appreciates the sensitivity and privacy with which your job search 
 Our Website enables you to search for jobs in your area and register to receive emails about future job postings, or to permit employers to contact you directly regarding job offerings. You may search without registering, but in order to apply for a job, receive email communications or be contacted by an employer interested in you for a position, you will have to register with SnagAJob.com. The following personally identifiable information ("Personal Information") is required when you register:
 
   * Email address
-  * Password 
-  * Name 
+  * Password
+  * Name
   * Address
   * City
   * State
@@ -35,11 +35,11 @@ Yes. A cookie is a bit of electronic data that is stored on a user's hard drive 
 
 While your browser may accept cookies automatically, you can change the settings on your browser to prevent our cookies from being automatically downloaded, or to notify you that they are ready to be downloaded. The latter will give you the option of whether or not you want to accept our cookies. If you decide to decline our cookies, however, some of our Website's features or services may not function as well as they would have had you accepted our cookies.
 
-Our Website may contain very small, transparent, electronic images called "Web Beacons" that allow us to count users who have visited the Website pages on which they are located. Web Beacons are not used to access your Personal Information, but rather are a method for us to assemble aggregated statistics about the usage of our Website. While you cannot decline Web Beacons, you can decline all cookies and therefore render the Web Beacons ineffective. 
+Our Website may contain very small, transparent, electronic images called "Web Beacons" that allow us to count users who have visited the Website pages on which they are located. Web Beacons are not used to access your Personal Information, but rather are a method for us to assemble aggregated statistics about the usage of our Website. While you cannot decline Web Beacons, you can decline all cookies and therefore render the Web Beacons ineffective.
 
 **How We Use Information We Collect From You:**
 
-We use the email address you provide to us in order to communicate with you by email or other means, such as through Job Alerts, eNewsletters and account maintenance emails.   
+We use the email address you provide to us in order to communicate with you by email or other means, such as through Job Alerts, eNewsletters and account maintenance emails.  
 You may unsubscribe from SnagAJob.com emails at any time by either clicking on the "unsubscribe" link in the footer of the email or logging into your account and clicking on "edit subscriptions". Removing your name from the email list may take up to 10 days.
 
 We do not disclose your Personal Information to third parties except as follows:
@@ -63,7 +63,7 @@ You are responsible, however, for taking all reasonable steps to ensure that no 
 
 By using the Website, you grant SnagAJob.com and all other persons or entities involved in the operation of our Website the right to receive, transmit, monitor, retrieve, store and use your Personal Information, including information that may be privileged and confidential under applicable state and federal laws, in connection with the operation of our Website and our maintenance of your Personal Information.
 
-Although we have made reasonable efforts to safeguard the confidentiality of your Personal Information, we cannot promise, and you should not expect, that your Personal Information will always stay private. We cannot guarantee that unauthorized third parties will never be able to circumvent our security measures and obtain access to your Personal Information and use it for improper purposes. As a user of the Website, you agree that you assume all risks regarding your use of the Website, transmissions made over the Internet generally, and your sharing of your Personal Information. 
+Although we have made reasonable efforts to safeguard the confidentiality of your Personal Information, we cannot promise, and you should not expect, that your Personal Information will always stay private. We cannot guarantee that unauthorized third parties will never be able to circumvent our security measures and obtain access to your Personal Information and use it for improper purposes. As a user of the Website, you agree that you assume all risks regarding your use of the Website, transmissions made over the Internet generally, and your sharing of your Personal Information.
 
 **How You Can Access, Correct Or Delete Your Personal Information:**
 
@@ -79,7 +79,7 @@ We may retain historical records that include some of your Personal Information.
 
 Should you have other questions or concerns about this Policy, or any comments, concerns or general feedback, please do not hesitate to contact us by sending us an email at [info@snagajob.com](mailto:info@snagajob.com), or at the following:
 
-[www.SnagAJob.com](http://www.snagajob.com/)  
+[www.SnagAJob.com](https://web.archive.org/ "jobs")  
 1-877-461-SNAG  
 4880 Cox Road, Suite 200  
 Glen Allen, VA 23060
