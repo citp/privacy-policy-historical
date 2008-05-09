@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the videoegg.com privacy policy that was archived on 2007-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071014033024id_/http%3A//www.videoegg.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the videoegg.com privacy policy that was archived on 2008-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509084833id_/http%3A//www.videoegg.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,12 +9,13 @@
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="/themes/ve/favicon.ico" type="image/x-icon">
-	<style type="text/css" media="all">@import "/modules/aggregator/aggregator.css";</style>
-<style type="text/css" media="all">@import "/modules/node/node.css";</style>
-<style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
-<style type="text/css" media="all">@import "/modules/system/system.css";</style>
-<style type="text/css" media="all">@import "/modules/user/user.css";</style>
-<style type="text/css" media="all">@import "/themes/ve/style.css";</style>
+	<style type="text/css" media="all">@import "/modules/aggregator/aggregator.css?32735eeab198666b0bedea18fb3ced57";</style>
+<style type="text/css" media="all">@import "/modules/node/node.css?3b9a4ba54ff91b9ddd1fee98811dce9c";</style>
+<style type="text/css" media="all">@import "/modules/system/defaults.css?c3bd16b746d0d6fc4a6f78a3f489f864";</style>
+<style type="text/css" media="all">@import "/modules/system/system.css?2ff674d9e11d25a86e3a85ca79d3f192";</style>
+<style type="text/css" media="all">@import "/modules/user/user.css?0f633c2040191771f8cf722f67455e1d";</style>
+<style type="text/css" media="all">@import "/modules/comment/comment.css?ad3f489ba7a4f26f2af61bf6f7364e52";</style>
+<style type="text/css" media="all">@import "/themes/ve/style.css?b2ae5e2961a692849d5992b5d6f1bde1";</style>
 	
 	<script src="/themes/ve/js/sifr.js" type="text/javascript"></script>
  	<script type="text/javascript"></script>
@@ -28,6 +29,27 @@
 			sIFR.replaceElement(named({sSelector:"#bios h3", sFlashSrc:"/themes/ve/flash/URWTypewriterTMed.swf", sColor:"#000000", sWmode:"transparent"}));
                         sIFR.replaceElement(named({sSelector:"#jobDescription h1", sFlashSrc:"/themes/ve/flash/URWTypewriterTMed.swf", sColor:"#000000", sWmode:"transparent"}));
 		};
+
+
+var funnies = new Array();
+funnies[0] = '/themes/ve/flash/funnies/35x35_sunbathe_nobutton.swf';
+funnies[1] = '/themes/ve/flash/funnies/35x35_baseball_nobutton.swf';
+funnies[2] = '/themes/ve/flash/funnies/35x35_surf_nobutton.swf';
+
+
+function displayFunny() {
+        var funny = Math.floor(Math.random()*funnies.length);
+        var f = new SWFObject(funnies[funny], "nfunny", "50", "50", "8", "#000000");
+        f.addParam('wmode', 'opaque');
+        f.write("funny");
+
+        var position = Math.floor((Math.random()*350)+350);
+        document.getElementById('funny').style.left = position+'px';
+}
+
+
+
+
 	</script>
 	
 	<script type="text/javascript" src="/misc/swfobject.js"></script>
@@ -36,7 +58,7 @@
 
 <body id="privacy">
 
-<div id="userLogin" onclick="javascipt:window.location.href='http://my.videoegg.com';" style="cursor: hand;"><div><a href="http://my.videoegg.com"><img src="/themes/ve/images/button_user.gif"></a></div></div>
+<!--<div id="userLogin" onClick="javascipt:window.location.href='http://my.videoegg.com';" style="cursor: hand;"><div><a href="http://my.videoegg.com"><img src="/themes/ve/images/button_user.gif" /></a></div></div>-->
 
 <div id="container">
 	
@@ -49,22 +71,25 @@
 		// ]]>
 		</script>
 		</div>
+		<div id="funny" style="left: 468px;"></div>
 		<h1 id="logo"><a href="/">VideoEgg</a></h1>
 	</div>
 	
 	<div id="tabs">
 		<ul>
 			<li class="home"><a href="/" title="Home Page">Home</a></li>
-			<li class="adplatform"><a href="/adplatform/" title="Ad Platform">Ad Platform</a></li>
-			<li class="platform"><a href="/platform/" title="Video Platform">Video Platform</a></li>
-			<li class="adnetwork"><a href="/adnetwork" title="Ad Network">Ad Network</a></li>
+			<li class="adnetwork"><a href="/adnetwork" title="For Advertisers">For Advertisers</a></li>
+			<li class="adplatform"><a href="/adplatform/" title="For Publishers">For Publishers</a></li>
 			<li class="about"><a href="/about/" title="About us">About Us</a></li>
+			<li class="events"><a href="/events/" title="Events">Events</a></li>
 			<li class="press"><a href="/press/" title="Press">Press</a></li>
+			<li class="blog"><a href="/blog/" title="Blog">Blog</a></li>
 			<li class="contact"><a href="/contact/" title="Contact">Contact</a></li>
 		</ul>
 	</div>
 	
 	<div id="content">
+          
 		<div class="box">
         <h1>Privacy Policy</h1>
 
@@ -92,7 +117,32 @@ VideoEgg, Inc.<br>
 180 Townsend Street, Floor 3<br>
 San Francisco, CA 94107
 <br><br>
-February 21, 2006</p>		</div>
+February 21, 2006</p><div id="comments">  <div class="box">
+    <h2 class="title">Post new comment</h2>    <div class="content"><form action="/comment/reply/24" method="post" id="comment-form">
+<div><div class="form-item">
+ <label for="edit-subject">Subject: </label>
+ <input type="text" maxlength="64" name="subject" id="edit-subject" size="60" value="" class="form-text">
+</div>
+<div class="form-item">
+ <label for="edit-comment">Comment: <span class="form-required" title="This field is required.">*</span></label>
+ <textarea cols="60" rows="15" name="comment" id="edit-comment" class="form-textarea resizable required"></textarea>
+</div>
+<ul class="tips"><li>Allowed HTML tags: &lt;a&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt; &lt;code&gt; &lt;ul&gt; &lt;ol&gt; &lt;li&gt; &lt;dl&gt; &lt;dt&gt; &lt;dd&gt;</li><li>Lines and paragraphs break automatically.</li></ul><p><a href="/filter/tips">More information about formatting options</a></p><input type="hidden" name="form_id" id="edit-comment-form" value="comment_form">
+<fieldset class="captcha"><legend>CAPTCHA</legend><div class="description">This question is for testing whether you are a human visitor and to prevent automated spam submissions.</div><img src="/image_captcha/1962003246" alt="Image CAPTCHA" title="Image CAPTCHA"><div class="form-item">
+ <label for="edit-captcha-response">What code is in the image?: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="captcha_response" id="edit-captcha-response" size="15" value="" class="form-text required">
+ <div class="description">Copy the characters (respecting upper/lower case) from the image.</div>
+</div>
+<input type="hidden" name="captcha_token" id="edit-captcha-token" value="a031348d3c5a2bfa3c89669194c34976">
+</fieldset>
+<input type="submit" name="op" id="edit-preview" value="Preview comment" class="form-submit">
+<input type="submit" name="op" id="edit-submit" value="Post comment" class="form-submit">
+
+</div></form>
+</div>
+ </div>
+
+</div>		</div>
 	</div>
 
 	<div style="clear: both"></div>
@@ -102,11 +152,15 @@ February 21, 2006</p>		</div>
 <div id="footer">
 	<div class="links">
 		<a href="/terms">Terms of Service</a> | <a href="/privacy">Privacy Policy</a><br>
-		<a href="/">Home</a> | <a href="/about/">About</a> | <a href="/press/">Press</a> | <a href="http://partners.videoegg.com">Partners</a> | <a href="/adnetwork">Advertisers</a> | <a href="http://my.videoegg.com">User Account</a> | <a href="/contact/">Contact</a> | <a href="/about/jobs/">Jobs</a> 
+		<a href="/">Home</a> | <a href="/about/">About</a> | <a href="/press/">Press</a> | <a href="http://partners.videoegg.com">Partners</a> | <a href="/adnetwork">Advertisers</a> | <!--<a href="http://my.videoegg.com">User Account</a> | --><a href="/contact/">Contact</a> | <a href="/about/jobs/">Jobs</a> 
 	</div>
-	Copyright © 2007 VideoEgg, Inc.<br>All Rights Reserved
+	Copyright © 2008 VideoEgg, Inc.<br>All Rights Reserved
 </div>
 
+
+<script language="javascript">
+displayFunny();
+</script>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
   </script>
