@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the milonic.com privacy policy that was archived on 2007-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070815120307id_/http%3A//www.milonic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milonic.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509070821id_/http%3A//www.milonic.com/privacy.php) for the most accurate reproduction.*
 
 # Milonic Solutions Privacy Policy
 
 ### Milonic Solutions Privacy Policy
 
-  
 Milonic Solutions are registered with the UK's Data Protection Registrar.  
 Our Registration number is **PZ7648184**
 
 * * *
 
-  
 **_PURPOSE_**  
 Milonic Solutions is committed to protecting your privacy. The following discloses our information collection and use practices for our Website.
 
@@ -23,7 +21,8 @@ When you place an order, download any code, or join a discussion list, we ask fo
 
   * We will make every effort to secure the personal data we store 
 
-  
+
+
 **_CERTAIN EXCEPTIONAL DISCLOSURES_**  
 We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct. Disclosure may be required by law, or if we receive legal process.
 
