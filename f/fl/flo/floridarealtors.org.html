@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the floridarealtors.org privacy policy that was archived on 2007-08-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070808212008id_/http%3A//www.floridarealtors.org/Privacy-Policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the floridarealtors.org privacy policy that was archived on 2008-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509142157id_/http%3A//www.floridarealtors.org/Privacy-Policy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright Florida Association of Realtors --><!-- Page generated 2007-08-03 10:09:33 by CommonSpot CommonSpot v4.6.2.50 (2006-06-15 18:07:05) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>FAR - Privacy Policy</title> <meta name="Description" id="Description" content="FAR Privacy Policy.">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright Florida Association of Realtors --><!-- Page generated 2008-05-07 15:37:05 by CommonSpot CommonSpot v4.6.2.50 (2006-06-15 18:07:05) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>FAR - Privacy Policy</title> <meta name="Description" id="Description" content="FAR Privacy Policy.">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="Keywords" id="Keywords" content="">
 <meta name="Generator" id="Generator" content="CommonSpot Content Server CommonSpot v4.6.2.50">
@@ -33,6 +33,52 @@
 		var intLeft=200;
 		var intHeight=290;
 		var intWidth=480;
+			var cookieStr = document.cookie;
+			var cookieWinRegEx = /CSOFFSCREENPOPUPSALLOWED=\d/i;
+			var rxVal = /\d+/;
+			try
+			{
+				if (cookieStr && cookieStr.match(cookieWinRegEx))
+				{
+					var strVal=cookieStr.match(cookieWinRegEx);
+					if (strVal)
+						blnPopUpsOffScreen=strVal.toString().match(rxVal);
+					else
+						blnPopUpsOffScreen = 0;
+				}
+				else
+					blnPopUpsOffScreen=0;
+			}
+			catch (oErr)
+			{
+				blnPopUpsOffScreen=0;
+			}
+			if(blnPopUpsOffScreen==1)
+			{
+				intTop=window.screen.height - 9;
+				intLeft=window.screen.width - 9;
+				intHeight=1;
+				intWidth=1;
+			}
+			else
+			{
+				intTop=(window.screen.height / 2) - 109;
+				intLeft=(window.screen.width / 2) - 210;
+				intHeight=218;
+				intWidth=421;
+			}
+			if(!url.match(externalLinkRegEx) && url.indexOf('kurrentPageID') == -1)
+			{
+				try
+				{
+					if( url.indexOf ('?') == -1 )
+						url = url + '?kurrentPageID=' + kurrentPageID;
+					else
+						url = url + '&kurrentPageID=' + kurrentPageID;
+				}
+				catch (oErr)
+				{ /* Do Nothing */ }
+			}
 		var re = new RegExp();
 		re = /&amp;/gi;
 		url = url.replace(re,"&");
@@ -72,7 +118,7 @@
 			var strWinOptions = strOptions;
 		}
 		strWinOptions = strWinOptions + ',top='+ intTop + ',left=' + intLeft + ',height=' + intHeight + ',width=' + intWidth;
-			var winWindow=window.open(url,name);
+			var winWindow=window.open(url,name,strWinOptions);
 		if (!winWindow)
 			alert('Unable to open window - please make sure the pop-up blocker is disabled for this site');
 		if(arguments.length==4 && arguments[3]==1 && winWindow)
@@ -91,24 +137,184 @@
 	<link href="/style/authorMode.css" type="text/css" rel="stylesheet">
 	<script type="text/javascript" src="/scripts/main.js"></script>
 	
-<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"> 
-
-<script type="text/javascript">
-<!--
-
-var gShowKeywords = 0;
-var gHaveKeywords = 0;
-
-var js_userID=0;
-
-// -->
-</script>
-<!-- --> </head><body onload="onLoadFinished();" lang="en" class="CS_Document"><script type="text/javascript">
+<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"> </head><body lang="en" class="CS_Document"><script type="text/javascript">
 <!--
 document.CS_StaticURL = "http://author.FloridaRealtors.org/";
 document.CS_DynamicURL = "http://author.FloridaRealtors.org/";
 // -->
-</script><a name="__topdoc__"></a><script src="/commonspot/ns-resize.js" type="text/javascript"></script><!-- --><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script><script src="/commonspot/pagemode/always-include-ns.js" type="text/javascript"></script>
+</script><a name="__topdoc__"></a><!-- --><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+		// always-include-ie.js  Copyright 1998-2005 PaperThin, Inc. All rights reserved.
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0
+if (bName == "Netscape")
+{
+	if(bVer >= 3)
+		bCanRollover=1;
+}
+else if (bName == "Microsoft Internet Explorer")
+{
+	if(bVer >= 4)
+		bCanRollover=1;
+}
+function ImageSet(imgID,newTarget)
+{
+	if (bCanRollover)
+		document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+	window.status = "";
+}
+function setStatbar(statbar)
+{
+	var strStatbar=unescape(statbar);
+	window.status=strStatbar;
+}
+function onLoadComplete()
+{
+	if( menus_included == 1 )
+		document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link,displaylink) 
+{
+	// links are in one of the following formats:
+	// 		cpe_60_0,CP___PAGEID=100
+	// 		CPNEWWIN:WindowName^params@CP___
+	// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+	// displaylink is the server relative URL or fully qualified URL
+	if( jsPageAuthorMode == 0 )
+	{
+		windowname = "";
+		windowparams = "";
+		// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL; 
+		pos = link.indexOf("CPNEWWIN:");
+		if (pos != -1)
+		{
+			pos1 = link.indexOf ("^");
+			windowname = link.substring (pos+9, pos1);
+			pos2 = link.indexOf ("@");
+			windowparams = link.substring (pos1 + 1, pos2);
+			link = link.substring (pos2 + 1, link.length);
+		}
+		
+		if( displaylink && displaylink != "" )
+		{		
+			if (windowname == "")
+				window.location = displaylink;
+			else
+			{
+				windowparams = FormatWindowParams(windowparams);
+				window.open (displaylink, windowname, windowparams);
+			}
+		}
+		else
+		{
+			targetLink = link;
+			if (link.indexOf ("CP___") != -1)
+			{
+				httpPos = -1;
+				commaPos = link.indexOf(",");
+				if (commaPos != -1)
+				{
+					targetUrl = link.substr(commaPos + 1);
+					if (targetUrl.indexOf("://") != -1 || targetUrl.indexOf("/") == 0)
+					{
+							httpPos = commaPos + 1;
+					}		
+				}
+					
+				if (httpPos != -1)
+				{
+					targetLink = link.substr(httpPos);
+					commaPos = targetLink.indexOf(",");
+					if (commaPos != -1)
+						targetLink = targetLink.substr(0, commaPos);
+				}
+				else
+					targetLink = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+				
+				if (windowname == "")
+					window.location = targetLink;
+				else
+				{
+					windowparams = FormatWindowParams(windowparams);
+					window.open (targetLink, windowname, windowparams);
+				}
+			}
+			else
+			{
+				//commaPos = link.indexOf(",");
+				//if (commaPos != -1)
+				//	link = link.substr(0, commaPos);
+				if (windowname == "")
+					window.location = link;
+				else
+				{
+					windowparams = FormatWindowParams(windowparams);
+					window.open (link, windowname, windowparams);
+				}
+			}
+		}
+	}
+	else if( jsSessionPreviewON == 1 )
+	{
+		previewLink(link);
+	}
+	else
+	{
+		if( document.all[parentID] )
+			document.all[parentID].click();
+	}
+}
+function doWindowOpen(href,name,params)
+{
+	if (params != '')
+		window.open (href, name, params);
+	else
+		window.open (href, name);	
+}
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+function FormatWindowParams(windowparams)
+{
+	if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 || 
+	    windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+	{
+		windowparams = substringReplace(windowparams,':left=',',left=');
+		windowparams = substringReplace(windowparams,'left=','left=');
+		windowparams = substringReplace(windowparams,':ww=',',width=');
+		windowparams = substringReplace(windowparams,'ww=','width=');		
+		windowparams = substringReplace(windowparams,':hh=',',height=');
+		windowparams = substringReplace(windowparams,'hh=','height=');
+		windowparams = substringReplace(windowparams,':loc=',',location=');
+		windowparams = substringReplace(windowparams,'loc=','location=');
+		windowparams = substringReplace(windowparams,':dir=',',directories=');
+		windowparams = substringReplace(windowparams,'dir=','directories=');
+		windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+		windowparams = substringReplace(windowparams,'tb=','toolbar=');
+		windowparams = substringReplace(windowparams,':stat=',',status=');
+		windowparams = substringReplace(windowparams,':mb=',',menubar=');
+		windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+		windowparams = substringReplace(windowparams,':rs=',',resizable=');
+	}
+	return windowparams;
+}
+function substringReplace(source,pattern,replacement)
+{
+	var pos = 0;
+	var target="";
+	while ((pos = source.indexOf(pattern)) != (-1))
+	{
+		target = target + source.substring(0,pos) + replacement;
+		source = source.substring(pos+pattern.length);
+		pos = source.indexOf(pattern);
+	}
+	return (target + source);
+}
+// -->
+		</script>
 <script type="text/javascript">
 <!--
 	function glblLinkHandler(lobj, attr, val)
@@ -161,11 +367,13 @@ function ImageSet(imgID,newTarget)
 		<div id="search">
 			<ul>
 				
-				<li class="login">FAR Member?  <a href="/member_signin.cfm?target=/Privacy-Policy.cfm" onmouseover="swapImage('sign_in', '/far/templates/images/btn_sign_in_roll.png')" onmouseout="swapImage('sign_in', '/far/templates/images/btn_sign_in.png')" title="Sign In"><img src="/far/templates/images/btn_sign_in.png" alt="Sign In" id="sign_in"></a></li>
-				<!-- -->
+			
+			
+			<li class="login">FAR Member?  <a href="https://www.floridarealtors.org/member_signin.cfm?target=/Privacy-Policy.cfm" onmouseover="swapImage('sign_in', '/far/templates/images/btn_sign_in_roll.png')" onmouseout="swapImage('sign_in', '/far/templates/images/btn_sign_in.png')" title="Sign In"><img src="/far/templates/images/btn_sign_in.png" alt="Sign In" id="sign_in"></a></li>
+		<!-- -->
 				<li><a href="/Help.cfm" title="Help">Help</a></li>
 				<li><a href="/sitemap.cfm" title="Site Map">Site Map</a></li>
-				<li><a href="/member_signin.cfm" title="Please sign in to access My Membership">My Membership</a></li><!-- -->
+				<li><a href="https://www.floridarealtors.org/member_signin.cfm" title="Please sign in to access My Membership">My Membership</a></li><!-- -->
 				<li><a href="/Contact-Us.cfm" title="Contact us">Contact Us</a></li>
 			</ul>
 <form method="get" action="/search-results.cfm" id="search_far">
@@ -295,7 +503,7 @@ z-index:auto}
     <ul>
     
                 <li></li>
-                <li><a href="/member_signin.cfm?target=/Privacy-Policy.cfm">Sign in</a> to use the “My Favorites” feature.
+                <li><a href="https://www.floridarealtors.org/member_signin.cfm?target=/Privacy-Policy.cfm">Sign in</a> to use the “My Favorites” feature.
 </li>
                 <li></li>
     </ul>
@@ -305,6 +513,7 @@ z-index:auto}
 							
 						</div>
 						<!-- @END ELEMENT: favorites -->
+						<div align="center"><p><br><a href="http://www.realtor.org/eomag.nsf/pages/bestoftheweb07" target="_blank"><img alt="Winner - Outstanding Web Site" width="140" height="75" src="/templates/images/07RAEwebwinner.jpg"></a><br><a style=" color:#FFFFFF" href="http://www.realtor.org/eomag.nsf/pages/bestoftheweb07" target="_blank">National Association of REALTORS® 2007 Outstanding Design Winner</a></p></div>
 						
 					</td>
 					<td class="col2">
@@ -312,7 +521,7 @@ z-index:auto}
 
    		<form action="/Privacy-Policy.cfm" method="POST" id="dialog_emailForm">
 		<table width="100%">
-		<tbody><tr><td colspan="2"><h2><a href="javascript:dialogAction('dialog_email','close');" class="closebox"><img src="http://www.floridarealtors.org/images/btn_close_box.gif" width="13" height="13" alt="X" align="right"></a>
+		<tbody><tr><td colspan="2"><h2><a href="javascript:dialogAction('dialog_email','close');" class="closebox"><img src="/images/btn_close_box.gif" width="13" height="13" alt="X" align="right"></a>
 		Email this page:</h2></td></tr>
 		<tr>
 			<td width="125px"><p><label for="page_name">Your Email:</label></p> </td><td><input name="email_from" type="text" class="loginforminput" id="email_from" onfocus="clearField(this)" value="" size="20" maxlength="40">
@@ -326,8 +535,8 @@ z-index:auto}
 		<tr>
 			<td colspan="2">
 		<br>
-			<p class="center"><a href="javascript:dialogAction('dialog_email','ok2');" onmouseover="swapImage('ok_email', 'http://www.floridarealtors.org/images/btn_ok_roll.png');" onmouseout="swapImage('ok_email', '/images/btn_ok.png');"><img src="http://www.floridarealtors.org/images/btn_ok.png" alt="OK" width="61" height="20" id="ok_email" name="ok_email"></a>
-		<a href="javascript:dialogAction('dialog_email','cancel');" onmouseover="swapImage('cancel_email', 'http://www.floridarealtors.org/images/btn_cancel_roll.png');" onmouseout="swapImage('cancel_email', 'http://www.floridarealtors.org/images/btn_cancel.png');"><img src="http://www.floridarealtors.org/images/btn_cancel.png" alt="Cancel" width="61" height="20" id="cancel_email" name="cancel_email"></a></p>
+			<p class="center"><a href="javascript:dialogAction('dialog_email','ok2');" onmouseover="swapImage('ok_email', '/images/btn_ok_roll.png');" onmouseout="swapImage('ok_email', '/images/btn_ok.png');"><img src="/images/btn_ok.png" alt="OK" width="61" height="20" id="ok_email" name="ok_email"></a>
+		<a href="javascript:dialogAction('dialog_email','cancel');" onmouseover="swapImage('cancel_email', '/images/btn_cancel_roll.png');" onmouseout="swapImage('cancel_email', '/images/btn_cancel.png');"><img src="/images/btn_cancel.png" alt="Cancel" width="61" height="20" id="cancel_email" name="cancel_email"></a></p>
 			</td>
 		</tr>
 		</tbody></table>
@@ -342,7 +551,7 @@ z-index:auto}
 	<div id="footer">
 		<ul>
 			<li><a href="http://media.living.net/" title="Press Releases" target="_blank">Press Releases</a></li>
-			<li><a href="/Advertising.cfm" title="Advertising">Advertising</a></li>
+			<li><a href="/FLRealtorMagazine/Advertise.cfm" title="Advertising">Advertising</a></li>
 			<li><a href="/Privacy-Policy.cfm" title="Privacy Policy">Privacy Policy</a></li>
 			<li><a href="/Copyright-Notice.cfm" title="Copyright Notice">Copyright Notice</a></li>
 			<li><a href="/Terms-of-Use.cfm" title="Terms of Use">Terms of Use</a></li>
@@ -352,14 +561,17 @@ z-index:auto}
 		
 		<p><span class="bold">FAR Headquarters</span> - Orlando: (407) 438-1400<br>
 		<span class="bold">Office of Public Policy</span> - Tallahassee: (850) 224-1400</p>
-		<p class="center"><img align="left" src="/templates/images/realtorlogo.gif" width="21" height="25">© Copyright 2007 Florida Association of Realtors®</p>
+		<p class="center"><img align="left" src="/templates/images/realtorlogo.gif" width="21" height="25">© Copyright 2008 Florida Association of Realtors®</p>
 	</div>
 </div>
 <!-- FuseTalk Initiated --><!-- -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-1077155-1";
-urchinTracker();
-</script>
-	<!-- --><div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div></body></html>
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-1077155-1");
+    pageTracker._initData();
+    pageTracker._trackPageview();
+    </script>
+<div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div></body></html>
