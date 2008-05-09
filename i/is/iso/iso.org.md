@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iso.org privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004211314id_/http%3A//www.iso.org/iso/support/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iso.org privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509124933id_/http%3A//www.iso.org/iso/support/privacy_policy.htm) for the most accurate reproduction.*
 
 # ISO - Privacy Policy
 
@@ -50,7 +50,7 @@ ISO reserves the right to change or modify this Privacy Policy at any time. If w
 
 You can consult, revise and correct the personal data that you have provided to the ISO Web store via [www.iso.org/myaccount](http://www.iso.org/myaccount "My account").
 
-If you are receiving the IMS Alerts e-newsletter you can unsubscribe at [www.iso.org/IMSAlerts/unsubscribe.](http://www.iso.org/IMSAlerts/unsubscribe "www.iso.org/IMSAlerts/unsubscribe")
+If you are receiving the IMS Alerts e-newsletter you can unsubscribe at [www.iso.org/IMSAlerts/unsubscribe.](http://www.iso.org/iso/imsalert_form_leave.html "http://www.iso.org/iso/imsalert_form_leave.html")
 
 Alternatively, you can send an e-mail to the ISO Online [Webmaster.](mailto:webmaster@iso.org "Webmaster")
 
