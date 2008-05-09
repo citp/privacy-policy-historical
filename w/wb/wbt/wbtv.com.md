@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbtv.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226034407id_/http%3A//www.wbtv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbtv.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509145937id_/http%3A//www.wbtv.com/privacy) for the most accurate reproduction.*
 
 # WBTV | WBTV Privacy Policy
 
@@ -32,6 +32,6 @@ WBTV uses cookies on only a few pages where you are asked to login or register a
 
 We reserve the right to change our Privacy Policy. A revised Privacy Policy will only apply to data collected subsequent to its effective date. We reserve the right to modify or discontinue our web site and this Policy at any time.
 
-Story Created: May 24, 2006 at 3:26 PM EST 
+Story Created: May 24, 2006 at 3:26 PM EDT
 
-Story Updated: May 24, 2006 at 3:26 PM EST 
+Story Updated: May 24, 2006 at 3:26 PM EDT 
