@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spss.com privacy policy that was archived on 2007-07-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070716072046id_/http%3A//www.spss.com/privacy.htm%3Fsource%3Dhomepage%26hpzone%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spss.com privacy policy that was archived on 2008-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080510001857id_/http%3A//www.spss.com/privacy.htm%3Fsource%3Dhomepage%26hpzone%3Dfooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 	<title>SPSS Inc. - Privacy Policy</title>
@@ -8,9 +8,10 @@
 <body>
 <div id="TitleBar">
 	<div id="CompanyLogo"><a href="/"><img src="/images/SPSSlogo.gif" width="70" height="70" alt="SPSS Company Logo"></a></div>
+	<!--- INCREASE PAGE SIZE --->
 	<p id="SkipNav">[<a href="#PageStart">Skip Global Navigation</a>]</p>
 	<div id="SearchNav">
-		<form name="gs" method="GET" action="http://searching.spss.com/search">
+		<form name="gs" method="GET" action="http://search.spss.com/search">
 			<input type="hidden" name="ie" value="">
 			<input type="hidden" name="site" value="spss_www">
 			<input type="hidden" name="output" value="xml_no_dtd">
@@ -71,10 +72,18 @@ var nameEQ = name + "=";
 	}
 	return null;
 	}
-	
+
+// A COMMENT FOR SPACE
+
+
 	if (getCookie("RLNNAME") != null) {
 		var vRLNName = getCookie("RLNNAME");
-		document.write('<p><strong>Welcome, ' + vRLNName + '!<\/strong> Not ' + vRLNName + '? <a href="/registration/login/login.cfm">Login or register on SPSS.com<\/a> or <a href="/registration/maintenance/killcookie02.cfm">log out.<\/a><\/p>');
+		var vMYASSETS = getCookie("MYASSETS");
+		document.write('<p><strong>Welcome, ' + vRLNName + '!<\/strong> Not ' + vRLNName + '? <a href="/registration/login/login.cfm">Login or register on SPSS.com<\/a> or <a href="/registration/maintenance/killcookie02.cfm">log out.<\/a>');
+		if(vMYASSETS == 'True') {
+			document.write(" <a href='http://www.spss.com/my_assets'>My Assets Page</a>");
+		}
+		document.write('<\/p>');
 	}
 	else {
 		document.write('<p><strong>Welcome to SPSS.com.<\/strong> <a href="/registration/login/login.cfm">Click here to login or register on SPSS.com.<\/a><\/p>');
@@ -206,7 +215,7 @@ SPSS Privacy Policy
 <div id="footer">
 	<div id="redlogo"></div>
 	<p><a href="http://investor.spss.com/phoenix.zhtml?c=118415&amp;p=irol-irhome">Investor Relations</a> | <a href="/worldwide/index.cfm?source=homepage&amp;hpzone=footer">Worldwide Offices</a> | <a href="/sitemap/index.htm?source=homepage&amp;hpzone=footer">Site Map</a> | <a href="/contact_us/index.htm?source=homepage&amp;hpzone=footer">Contact Us</a> | <a href="/terms.htm?source=homepage&amp;hpzone=footer">Terms and Conditions</a> | <a href="/privacy.htm?source=homepage&amp;hpzone=footer">Privacy Policy</a></p>
-	<p>© 2007 SPSS Inc. All rights reserved.</p>
+	<p>© 2008 SPSS Inc. All rights reserved.</p>
 	<address>SPSS Inc. Headquarters, 233 S. Wacker Drive, 11th floor<br>Chicago, Illinois 60606</address>
 </div>
 
