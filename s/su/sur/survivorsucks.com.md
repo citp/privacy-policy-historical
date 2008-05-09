@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survivorsucks.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028160524id_/http%3A//www.yuku.com/homepage/privacy/t/Yuku-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivorsucks.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509145931id_/http%3A//www.yuku.com/homepage/privacy/t/Yuku-Privacy.html) for the most accurate reproduction.*
 
 # About Us - Privacy Policy
 
@@ -87,7 +87,7 @@ That being said, "perfect security" does not exist on the Internet. Unfortunatel
 
 Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-If Yuku learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Yuku may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the Yuku.com web site. Yuku may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should [notify us](mailto:legal@yukucorp.com).
+If Yuku learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Yuku may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the Yuku.com web site. Yuku may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should [notify us](http://www.yuku.com/help/ticket).
 
 ### Cookies, Web Beacons and Personalization
 
@@ -119,11 +119,13 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 
 ## Questions?
 
-If you have any questions about this privacy policy still unanswered after reviewing this policy, please do not hesitate to contact us. You can e-mail [Yuku's legal department](mailto:legal@yukucorp.com). Or you may mail us at the following address:
+If you have any questions about this privacy policy still unanswered after reviewing this policy, please do not hesitate to contact us. You can e-mail [Yuku's legal department](http://www.yuku.com/help/ticket). Or you may mail us at the following address:
 
-564 Market Street, Suite 705  
-San Francisco, CA 94104  
 Attn: Privacy Officer  
-(415) 773-0400 
+Yuku c/o KickApps, Inc.  
+607 Market St., Suite 5  
+San Francisco, CA 94105  
+USA  
+(415) 830-3910 
 
 Effective: January 4, 2006.
