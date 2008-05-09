@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the classyauto.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213163520id_/http%3A//classyauto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classyauto.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509080544id_/http%3A//www.classyauto.com/privacy.php) for the most accurate reproduction.*
 
-# ClassyAuto.com - Muscle Cars For Sale, Classic Cars For Sale, Used Cars, Street Rods, Hot Rods, Customs, Exotic Cars, Trucks, Imports, Antique Cars, Classifieds For Sale By Owner
+# Privacy Policy
 
-Effective as of May 1, 2004. 
+[Home](https://web.archive.org/) / Privacy Policy 
+
+#### Effective as of May 1, 2004
 
 ClassyAuto takes your privacy seriously. We understand that privacy concerns are extremely important to our customers. We would like to assure you that we are committed to protecting your personal privacy and for that reason ClassyAuto has created this privacy policy. Please read this Privacy Policy carefully so that you understand what information we collect through our website and what we do with that information
 
@@ -33,9 +35,12 @@ ClassyAuto.com
 Omaha NE 68105  
 Toll-free at 800-320-9557  
 Fax: 402-341-0264  
-Local Phone: 402-342-1570  
+Local Phone: 402-342-1570
 
+### Car Loan Resources
 
-Place your secure, on-line order today!
+[ ](http://www.dpbolvw.net/click-1485999-5033192)
 
-[](https://web.archive.org/web/20071213163520id_/http%3A//classyauto.com/order.php)
+## Capital One Auto Finance
+
+Hassle-free financing with great low rates. Get the flexibility to purchase your vehicle from an individual that currently has their vehicle financed, or from an individual that owns their vehicle outright.
