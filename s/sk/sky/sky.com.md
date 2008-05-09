@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sky.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016005525id_/http%3A//www.sky.com/portal/site/skycom/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sky.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509182055id_/http%3A//www1.sky.com/portal/site/skycom/privacy) for the most accurate reproduction.*
 
-# Sky.com - Home>Privacy Statement
+# Sky.com - Sky Help Centre>Sky.com Privacy Statement
 
 This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via this web site. This Policy is devised to help you feel more confident about the privacy and security of your personal details.
 
@@ -25,7 +25,7 @@ We shall also be entitled to use any of Your User Information for the following 
 3\. in order to enable Us to comply with any requirements imposed on Us by law or court order; and  
 4\. unless you have asked us not to, in order to send You periodic communications (this may be by post, telephone, SMS or e-mail), about features, products and services, events and special offers. Such communications from Us may carry advertising for third party companies or organisations.
 
-For your convenience you can withdraw consent by replying to the "unsubscribe" link in e-mails from Us.
+For your convenience you can withdraw consent by replying to the ‘’unsubscribe’’ link in marketing emails from us or by contacting us at the [DPoffice@bskyb.com](mailto:DPOFFICE@BSKYB.COM).
 
 Please also note that we do not disclose Your User Information to third parties to enable them to send You direct marketing without Your permission to do so.
 
@@ -33,7 +33,7 @@ Cookies
 
 You should be aware that by using the site, information and data may be automatically collected through the use of Cookies. "Cookies" are small text files that store basic information that a web site can use to recognise repeat site visits and, as an example, recall your name if this has been previously supplied. We may use this information to observe Your internet use and, where applicable, Your use of Your Sky Broadband e-mail account, to compile data in order to monitor and improve the Site, Sky Broadband e-mail services and target Our and third parties advertising and assess general effectiveness of such advertising.
 
-Cookies do not attach to Your system or damage Your files. If You do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookies feature. **Note, however, that there may be some deterioration in the service you receive and "personalised" services may be affected if the Cookies option is disabled**. In particular, if You deny the Cookies feature You will not be able to use the Site to access Your Sky Broadband e-mail account. You will still be able to access your Sky Broadband e-mails via a standard PC application. For more information about how to do this, [click here](http://www.sky.com/portal/site/skycom/support/broadband/article?contentid=843210).
+Cookies do not attach to Your system or damage Your files. If You do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookies feature. **Note, however, that there may be some deterioration in the service you receive and "personalised" services may be affected if the Cookies option is disabled**. In particular, if You deny the Cookies feature You will not be able to use the Site to access Your Sky Broadband e-mail account. You will still be able to access your Sky Broadband e-mails via a standard PC application. For more information about how to do this, [click here](https://web.archive.org/portal/site/skycom/skyhelpcentre/skyonline?nodeId=e029cc9c-6e22-4418-84bf-f57631d43f9c&articleId=11297903).
 
 If you wish to disable the setting of Cookies in your browser, please see the end of this page for instructions.
 
