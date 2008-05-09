@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wpi.edu privacy policy that was archived on 2007-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070718235036id_/http%3A//www.wpi.edu/About/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpi.edu privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509184758id_/http%3A//www.wpi.edu/About/privacy.html) for the most accurate reproduction.*
 
 # Worcester Polytechnic Institute (WPI) - about - Privacy Statement
 
 ## Student Information
 
-Student information is protected by the **Federal Family Educational Rights & Privacy Act (FERPA)**. Parents and students should read [WPI's FERPA Compliance Statement](http://www.wpi.edu/Admin/Registrar/ferpa.html).
+Student information is protected by the **Federal Family Educational Rights & Privacy Act (FERPA)**. Parents and students should read [WPI's FERPA Compliance Statement](http://www.wpi.edu/Pubs/Policies/ferpa.html "FERPA Compliance Statement"). 
 
 Worcester Polytechnic Institute (WPI) has created this privacy statement in order to demonstrate our firm commitment to the privacy of visitors to our Web site. The following discloses our information gathering and dissemination practices for this Web site ([www.wpi.edu](http://www.wpi.edu/)).
 
