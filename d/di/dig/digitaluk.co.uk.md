@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229090944id_/http%3A//www.digitaluk.co.uk/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509093521id_/http%3A//www.digitaluk.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
 Digital UK  Limited, the operator of this website ("Digital UK", "We", "Us" or "Our") respects the privacy of every individual who visits this [www.digitaluk.co.uk] site (the "Site"). This Privacy Policy governs the way in which We use and disclose any personal information (the "Personal Information") that you provide to Us whilst visiting the Site. Personal Information includes any information that identifies you personally, such as your name, address or email address.
 
