@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixcat.com privacy policy that was archived on 2007-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070820120535id_/http%3A//www.mixcat.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixcat.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509132405id_/http%3A//www.mixcat.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Mixcat Interactive Search Engine - Mixcat Directory - Internet Search Engine - Mixcat Web Search
 
