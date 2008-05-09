@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214083726id_/http%3A//www.hdrinc.com/5/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509194205id_/http%3A//www.hdrinc.com/5/default.aspx) for the most accurate reproduction.*
 
 # Terms/Privacy
 
 ******Copyright Statement**  
-The content provided by HDRInc.com unless otherwise noted, is copyrighted © 2007 HDR, Inc. All use of the HDRInc.com site is subject to the terms and conditions set forth below. 
+The content provided by HDRInc.com unless otherwise noted, is copyrighted © 2008 HDR, Inc. All use of the HDRInc.com site is subject to the terms and conditions set forth below. 
 
 **Legal Notice**  
 All materials used on this site, including all images, are copyrighted and are protected worldwide by copyright laws and treaty provisions. They may not be copied, reproduced, modified, published, uploaded, posted, transmitted, or distributed in any way, without HDR, Inc.'s prior written permission. 
