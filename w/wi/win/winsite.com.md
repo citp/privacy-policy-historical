@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winsite.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215214831id_/http%3A//www.winsite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsite.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509141544id_/http%3A//www.winsite.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to WinSite! The place for shareware, demoware, trialware, tips, and utilities for your computer
 
