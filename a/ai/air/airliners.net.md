@@ -1,44 +1,302 @@
-> *The following text is extracted and transformed from the airliners.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204082554id_/http%3A//www.airliners.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airliners.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509165443id_/http%3A//www.airliners.net/privacypolicy) for the most accurate reproduction.*
 
-# Airliners.net Privacy Statement
+# Airliners.net Privacy and Information Security Policy
 
-Airliners.net has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. 
+Airliners.net Privacy and Information Security Policy
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to deliver content specific to your interests. 
+Airliners.net Frontpage
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information. We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
+First Class Services
 
-This site contains links to other sites. Airliners.net is not responsible for the privacy practices or the content of such Web sites. 
+First Class Sign up!
 
-**Public Forums**  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+First Class Check-In
 
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+Ad Free Surfing
 
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service: 
+Industry News Section
 
-You can send email to admin@airliners.net 
+Daily Industry Newsletter
 
-**Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided:
+Daily Newsletter Online
 
-visit <http://www.airliners.net/discussions/editprofile.main>
+Discussion Forum
 
-**Third Party Advertising**  
-We send to your web browser many of the advertisements you see when you use our network of Web sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you. 
+First Class Support
 
-**Opting Out of Third-Party Ad Servers**  
-If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability). Currently, we have relationships with the following third-party ad networks (click to visit their Web site):   
-[24/7 Real Media, Inc.](http://www.247realmedia.com/privacy.html)
+Photo Search Engine
 
-Furthermore, we use Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+Send Us Your Photos!
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+Photo Index
 
-Johan Lundgren  
-Founding Editor Airliners.net  
-admin@airliners.net  
+Advanced Search
 
+Photo Usage Requirements
+
+User Created Photo Albums
+
+New photos Added Today
+
+Most Popular Of Today
+
+Photo Upload Page
+
+Your photos
+
+Photo Upload FAQ
+
+Photography Forum
+
+Photo Re-upload Page
+
+Photographer Store
+
+Our Photographers
+
+My Photos Section
+
+Your Upload Stats
+
+Your Photo Stats
+
+Sitewide search
+
+Search Discussion Forum
+
+Search Photo Database
+
+Photo Similarity Search
+
+Search News Headlines
+
+Search for Flights/Hotels
+
+Top Stories Last 48 Hours
+
+All Aviation Industry News
+
+Airliners.net News
+
+Site Related Forum
+
+Airline wants 30 sets of winglets to fit Boeing's 737...
+
+American canceling 1,800 flights
+
+Pan Am suspends passenger flights
+
+American cuts 1,800 flights at D / FW
+
+American to cancel hundreds of flights
+
+Small Planes Crash In Ohio After Midair Collision
+
+ATA Airlines Ends Flights From Chicago
+
+Latest Articles
+
+Article Index
+
+Publish your article!
+
+KAL 007 Revisited (Part 3)
+
+The Sikorsky VS 44 Flying Boat
+
+Kal 007 Revisited (Part 2)
+
+Young (and Not-So-Young) Eagles Needed in China
+
+KAL 007 Revisited (Part 1)
+
+Firebomber! (and some warbirds too)
+
+The Exploding Toilet (and Other Embarrassments)
+
+The Rise and Fall of PEOPLExpress
+
+Aircraft Data & History
+
+Updated Entries
+
+New Entries
+
+Convair 240/340/440/540/580/60...
+
+Diamond DA-42 Twin Star
+
+Pitts S-1/2 Special
+
+Slingsby T-67 Firefly
+
+Piper PA-44 Seminole
+
+Piper PA-60 Aerostar
+
+Embraer ERJ-145
+
+Embraer ERJ-170/175/190/195
+
+Antonov An-140
+
+Honda HA-420 HondaJet
+
+Antonov An-38
+
+Aviation Discussions
+
+Other Discussions
+
+Live Chat!
+
+User Services
+
+Rules
+
+Search Forum
+
+User List
+
+No Username? Join Us!
+
+Civil Aviation
+
+Aviation Polls & Prefs
+
+Technical / Operations
+
+Aviation Hobby
+
+Aviation Photography
+
+Trip Reports
+
+Military Aviation & Space
+
+Forum Help
+
+Your Profile
+
+Your Photo Albums
+
+Upgrade Your Username!
+
+Photo Albums
+
+Electronic Aviation Postcards
+
+Aviation Photo Quiz
+
+Live Chat
+
+Aviation Polls
+
+Aviation classifieds
+
+Airliners.net WAP
+
+Airliners.net on your homepage
+
+Become A Member!
+
+Buy Prints of Our Photos
+
+Commercial Photo Use
+
+Book Flights & Hotel Rooms
+
+Our Premium Collection
+
+Airliners.net Merchandise
+
+Advertise On Airliners.net
+
+About Airliners.net
+
+Our Photographers
+
+Awards & Reviews
+
+Contact Us
+
+Privacy Policy
+
+Disclaimer  
+  
+---  
+557 users checked-in.You are not [checked-in](https://web.archive.org/login/). No username? [Join us!](https://web.archive.org/login/signup.main)
+
+  
+  
+
+
+**Airliners.net Privacy and Information Security Policy**  
+---  
+  
+**Effective Date: March 5, 2008**
+
+Your privacy is important to Airliners.net (“Airliners.net”, “we” or “us”). This Privacy and Information Security Policy ("the Policy") discusses the personally identifying information (“PII”) that we collect about you when you use our website [http://www.Airliners.net](http://www.airliners.net/) (the “Site”) and the other services we provide on or through the Site (together with the Site, the “Service”). This Policy is part of and incorporated into the Airliners.net Terms of Use <http://www.airliners.net/termsofuse/> (collectively, the “Terms”).   
+Policy highlights:
+
+  * We will not collect PII about you through the Service unless you disclose such information to us;
+  * We will not knowingly disclose PII about you that we collect through the Service to third parties, except under the limited circumstances described in this Policy; and
+  * We will take reasonable steps to protect the security of the PII we collect from you through the Service.
+
+
+
+These Policy highlights are qualified by full reference to the terms and conditions described below.  
+**BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED IN THE POLICY.**
+
+  1. **_INFORMATION YOU GIVE US_**. 
+    1. _The Types of Information Airliners.net Collects_. We collect any information you enter on the Service or give us in any other way (such as through an email, survey, or letter). The information that we collect varies depending upon how you use our Service. Our account registration process requires that you provide us with your user name, birthday and email address, and that you create and provide us with a password. We may also request other information, such as but not limited to, your actual first and last name, gender, and zip code. You may access and update certain of your personal information or account settings by going to the “Profile” or “My Account” or a similar tab on the Site. 
+    2. _Information in Public Areas of the Site_. Please keep in mind that whenever you voluntarily provide information in public areas of the Service, such as the user profile pages or forums, that information can be viewed and possibly used by others. We therefore advise visitors not to disclose contact information, including phone number, email address, street address or instant messenger address (within these public areas) that they do not wish to share. We are not responsible for PII you choose to submit in these public areas. Also, we may highlight content you post to the public areas of the Service such as reviews or comments, such as by featuring your content on the Site’s home page.
+    3. _Minors_. We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, do not attempt to register for our Site or send any information about yourself to us. We recommend that prospective users between the ages of 13 and 17 ask their parents or other legal guardians for permission before sending any information about themselves to anyone over the Internet.
+  2. **_AUTOMATIC INFORMATION COLLECTION_**. 
+    1. _Cookies_. Like many websites, we use “cookies.” Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser. We use persistent, identifying cookies to remember your information and to link your activities to you. While you can take steps to warn off, block or disable cookies, if you do, the Service may not function and appear as we have designed it. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. Our cookies do not collect PII that you provide to us during the registration process, but they do collect other information such as the following: 
+      1. the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours; 
+      2. the date and time you access the Site and pages you visit; 
+      3. your computer's IP address and information about its operating system, platform and the Web browser type and version you use; 
+      4. demographic and other non-personally identifiable profile information about you; and 
+      5. information to combat fraud or misuse. 
+    2. _Pixel Tags_. In our email to you, we use “pixel tags” to determine if your email software or service can display html-formatted email (this helps us optimize the size of our email messages and conserve bandwith). 
+    3. _Collection of Information by Third Parties_. Our Site may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. We do not provide any PII to these advertisers, third-party websites, or other businesses, although on occasion we may mutually share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Policy but are covered by their respective privacy politices. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: http://www.networkadvertising.org/managing/opt_out.asp. 
+    4. _Promotions, Sweepstakes, and Contests_. From time to time, we may host a promotion, sweepstake, or contest on the Service. You may be asked to provide personal information or permit the transfer to a third party of your personal information in connection with such promotion, sweepstake or contest. It will be disclosed at the point of collection or transfer who is collecting or transferring the information and whose privacy statement applies, and it will be your choice whether or not you wish to permit such transfer or collection of personal information to a third party.
+  3. **_AIRLINERS.NET’S USE AND RETENTION OF YOUR INFORMATION_** **. __**
+    1. _Use of PII_. We use your PII for purposes such as responding to your requests, monitoring and providing the Service, maintaining your Airliners.net account, providing you with advertising and non-advertising content that we believe would be of interest to you, enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the Terms <http://www.airliners.net/privacypolicy/>. We also may use your PII to contact you regarding your account, such as to inform you that you have received an email from another Airliners.net member, or to forward user comments to you about the content that you have posted. We may also email Airliners.net newsletters, and similar communications about the Service. ****
+    2. _Opting-Out_. Subject to the exceptions noted below, at any time, you may modify the types of communications you wish to receive by changing your preferences as part of your profile on the Site. In addition, in our marketing or promotional e-mails to you, we will include instructions on how to unsubscribe and/or inform us of your preferences if you do not want to receive any marketing or promotional e-mails from us. We reserve the right to send you customary business communications such as acceptance/rejection notices regarding content submissions, general system and administrative messages regarding the Service, address confirmations, and transactional information about your account, and we may not offer you the opportunity to opt-out of receiving such communications so long as you are registered with the Site. 
+    3. _Use of Other Information_. We use non-PII about our users for purposes such as measuring the number of visitors to sections of our Site, making the Service more useful to visitors and delivering targeted advertising and non-advertising content. We use IP addresses to analyze trends, administer the Site, track a user’s movement, and gather broad demographic information for aggregate, non-personally identifiable use.
+    4. ___Retention of Information_. We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information. You must keep your own, separate back-up records. 
+  4. **_AIRLINERS.NET’S SHARING OF INFORMATION_**. Airliners.net shares information with third parties, but only as described in this Section 4. 
+    1. _Advertisers and Others_. We share non-personally identifiable information with advertisers, service providers, and other persons with whom we conduct business. Similarly, these advertisers, service providers, and other persons may share with us non-PII about you that they have independently gathered or acquired. 
+    2. _Third Party Services_. We contract with affiliated and non-affiliated third parties to provide services to us or to you on our behalf. Examples include providing marketing assistance, providing customer service, sending Airliners.net emails to you, removing repetitive information from customer lists, and analyzing data. These third parties may have access to your PII for use solely in connection with these authorized business activities.
+    3. _Business Transfer_. As we develop our business, we might sell or buy businesses or their assets, or engage in acquisitions, mergers, restructurings, changes of control, or similar transactions. In such transactions, customer information generally is one of the transferred business assets, and your PII may be subject to such a transfer. Also, in the unlikely event of a bankruptcy, customer information may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser.
+    4. _Affiliates_ **.** **We may share PII, non-PII and other information with our corporate affiliates.** **Some of our most significant affiliates are identified on the website of our parent company,[Demand Media, Inc.](http://www.demandmedia.com/)**. Corporate affiliates are those entities that we control, are controlled by us, or are under common control with us and any joint venture in which any of the controlled entities may participate from time to time. Any use of your information by our corporate affiliates is subject to this Policy or another policy no less protective of your privacy. Conversely, we may obtain information about you from our corporate affiliates or from your visits to other websites that we or our corporate affiliates control. Our affiliates are not permitted to use your PII to send you unsolicited marketing emails about their websites or their other products and services. 
+    5. _Compliance and Safety_ **.** We may release user information when we believe release is appropriate to: 
+      1. comply with applicable law, and to respond to legal process, including subpoenas, search warrants and court orders, and to respond to or otherwise address written complaints of copyright infringement;
+      2. make disclosures under programs intended to prevent potential crimes or investigate persons; 
+      3. enforce or apply agreements, including the Terms; or 
+      4. protect the rights, property, or safety of Airliners.net, our users, or others, including exchanging information with other companies for fraud protection and credit risk reduction. 
+  5. **_INFORMATION SECURITY_**
+    1. _Your Obligations_. You must protect against unauthorized access to your password and to your computer. Please sign off when finished using a shared computer. Your emails to us are not necessarily secure against interception so do not include sensitive information in them. We generally will not ask for passwords in an email and you should assume that if you get such a request, it might be fraudulent. **YOU MUST DO WHAT YOU REASONABLY CAN TO ENSURE THE SECURITY OF YOUR PERSONAL INFORMATION.**
+    2. _Our Security Measures_. We take reasonable precautions to protect the security of our users’ information. We have physical, electronic, and managerial procedures to help safeguard, prevent unauthorized access, maintain data security, and correctly use your information. However, neither people nor security systems are foolproof, including encryption systems. In addition, people can commit intentional crimes, make mistakes or fail to follow policies. Therefore, while we use reasonable efforts to protect your PII, we cannot guarantee its absolute security. If applicable law imposes any non-disclaimable duty to protect your PII, you agree that intentional misconduct will be the standards used to measure our compliance with that duty. 
+  6. **_LINKS_** **.** The Service contains links to other sites. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of every web site that collects your personally identifiable information. This Policy applies only to information collected by the Service. 
+  7. **_CONDITIONS OF USE, NOTICES, AND REVISIONS_** **.**
+    1. _Privacy Concerns_. Your use of the Service and any dispute over privacy is subject to the Terms <http://www.airliners.net/termsofuse/>. If you have any concern about privacy at Airliners.net, please send us a thorough description to [support@airliners.net](mailto:support@airliners.net), and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 8 below. 
+    2. _Notice Required by Law_. In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with Airliners.net at all times. 
+    3. _Identity Theft_. If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notice address (see the next section of this Policy) and we will let you know what additional information you must provide to us. After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses.
+    4. _Revisions_. We reserve the right to change our Policy at any time. Non-material changes and clarifications will take effect immediately. If we make non-material changes, we will indicate at the top of this page the revised Policy’s new effective date. If we make material changes, we will notify you by email or through notice on the home page of the Site, and will also indicate so at the top of this page. The material changes will take effect 30 days after such notice. We encourage you to refer to this Policy at least every 30 days to check for material changes to this Policy. 
+  8. **_CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY._** For customer service matters (including questions relating to this Policy), you may email us at **[support@airliners.net](mailto:support@airliners.net)**. To send us a legal notice, mail it by certified mail (return receipt requested) to: Airliners.net Legal Department, 15801 NE 24th St. Bellevue, WA 98008. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or to your Airliners.net email account, or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to your Airliners.net email account or to the non-Airliners.net email address that we have on record for you. 
+
+
+
+**NOTICE RE COPYRIGHT OWNERSHIP: © Demand Aviation U.S.A. All rights reserved.** ** __**  
+  
+[[Home](https://web.archive.org/)] [[Photos](https://web.archive.org/photos/)] [[Search](https://web.archive.org/sitewide/)] [[News](https://web.archive.org/aviation-news/index.main)] [[Articles](https://web.archive.org/aviation-articles/)] [[A/C Stats](https://web.archive.org/aircraft-data/)] [[Forum](https://web.archive.org/aviation-forums/)] [[Terms of Use](https://web.archive.org/termsofuse/)] [[Privacy Policy](https://web.archive.org/privacypolicy/)] [[About Airliners.net](https://web.archive.org/about/)]
+
+Partner Sites:  [[Aviation Videos](http://www.flightlevel350.com/)] [[Aviation Photo Gallery](http://www.myaviation.net/)] [[Answerbag](http://www.answerbag.com/)] [[How to Videos](http://www.expertvillage.com/)] [[How to Articles](http://www.ehow.com/)] 
+
+Copyright 2008 Demand Media, Inc. All Rights Reserved
+
+  
+33
