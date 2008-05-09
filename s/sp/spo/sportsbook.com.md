@@ -1,57 +1,53 @@
-> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225055226id_/http%3A//sportsbook.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509162655id_/http%3A//www.sportsbook.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
 |   
 ---|---  
   
-Sportsbook.com,where everybody bets, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.sportsbook.com.
+At Sportsbook.com, where Everybody Bets™, we have created this statement in order to demonstrate our firm commitment to privacy.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. When placing a wager, or logging onto our secure server, your IP address is tracked against your user id for the dual purposes of preventing fraud, and creating an audit trail. This information is not used or accessed for any other purpose. 
+**IP Address**
 
-We collect aggregate information site-wide, including anonymous site statistics (e.g.: The number of page views or visits a certain section of our web site will receive). This information is used to improve the user experience and analyze the effectiveness of our advertising.
+We use your IP address to help diagnose problems with our server and to administer our web site.  When placing a wager, or logging onto our secure server, your IP address is tracked against your user ID for the dual purposes of preventing fraud, and creating an audit trail.  This information is not used or accessed for any other purpose. 
 
-We review and discard the information in some cases (e.g. IP address logs for file transfers), while in others we may use the information to tailor our users’ Web experience, generate anonymous statistics, or to contact users via email SMS or postal mail (e.g. to send newsletters, action alerts, news of special offers, etc)
+We collect aggregate information site-wide, including anonymous site statistics (eg. the number of page views or visits a certain section of our web site has received).  We review and discard the information in some cases (eg. IP address logs for file transfers), while in others we may use the information to improve our users’ experience and analyze the effectiveness of our advertising.
 
-Our site’s registration form requires users to give us contact information (like their name, cell phone number and email address) and financial information (like their account or credit card numbers). We use customer contact information from the registration form to send the user information about our company. The customer’s contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings or SMS text messages; see the choice/opt-out section below. Financial information that is collected is used to check the users’ qualifications for registration and to bill the user for products and services. This personal information is not gathered by us without users’ knowing and active permission and participation. This personal information is only utilized by Sportsbook.com in the course of running the site, www.sportsbook.com, or during it’s own marketing mail-outs. User information is not sold or shared with any other entities. 
+**Registration Form, Contests, Surveys and Order Forms**
 
-This site contains links to other sites. www.sportsbook.com is not responsible for the privacy practices or the content of such Web sites.
+The online forms at Sportsbook.com request that you provide us with contact and/or financial information which may include some or all of the following: name, address, cell phone number, email address, credit card number(s).  We use the contact details provided to send you information about our company and to communicate with you when necessary.  You may opt-out of receiving future mailings or SMS text messages at any time; see the choice/opt-out section below.    
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor’s contact information (like their cell phone number and email address) and financial information (like their account or credit card numbers).  
-Contact information from the order form is used to send orders and information about our company to our customers. The customer’s contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings or SMS text messages; see the choice/opt-out section below. Financial information that is collected is used to check the users’ qualifications and bill the user for products and services. This personal information is not gathered by us without users’ knowing and active permission and participation. This personal information is only utilized by Sportsbook.com in the course of running the site, www.sportsbook.com, or during it’s own marketing, SMS and mail-outs. User information is not sold or shared with any other entities. 
 
-Our online surveys ask visitors for contact information (like their email address).
+This personal information is not gathered by us without your knowledge, permission and active participation and is only utilized by Sportsbook.com in the course of running the site or during its own marketing mail-outs.  Participants’ details are not sold or shared with any other entities.    
 
-We run contests on our site in which we ask visitors for contact information (like their email address).
+
+The financial information that is collected is used to check members’ qualifications for registration and/or to bill members for products and services.  
 
 ### Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+The Sportsbook.com site has stringent security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-Our user database is stored on a remote offsite server, in a secured database. It is protected with an industrial strength firewall. This database is monitored 24 hours a day, 7 days a week, to ensure that both the security of, and the integrity of our user’s data remains intact. Both skilled security specialists, and automated intruder detection mechanisms monitor the database. 
+Our member database is stored on a secure remote offsite server.  It is protected with an industrial strength firewall and monitored 24/7 by skilled security specialists and automated intruder detection mechanisms. 
 
-Personal information is submitted using high security 128bit encryption. Any wagers or transactions being performed on the database are done using high security 128bit encryption. 
+Personal information is submitted using high security 128bit encryption.  Any wagers or transactions are transmitted using high security 128bit encryption. 
 
-### Choice/Opt-Out  
-Sportsbook.com
+### Choice/Opt-Out of Sportsbook.com
 
-Only provides users the opportunity to opt-out of receiving communications from us.
+This function only provides members/visitors the opportunity to opt-out of receiving communications from us.
 
-Sportsbook.com gives users the following option for removing their information from our database to not receive future communications or to no longer receive our service. 
+  1. You can visit the following URL: [http://www.Sportsbook.com/list/](http://www.sportsbook.com/list/) and enter the e-mail address you want to remove from our list.
+  2. You can visit the following URL: [http://www.Sportsbook.com/unsubscribe ](http://www.sportsbook.com/unsubscribe/index.php "http://www.Sportsbook.com/unsubscribe/index.php")and enter the cell phone number that you want to remove from our list. 
 
-1\. You can visit the following URL: <http://www.sportsbook.com/list/> and enter the e-mail address you want to remove from our list
 
-2\. You can visit the following URL: [ ](http://www.sportsbook.com/list/sms_unsub.php "http://www.sportsbook.com/list/sms_unsub.php") [ http://www.sportsbook.com/unsubscribe ](http://www.sportsbook.com/unsubscribe/index.php "http://www.sportsbook.com/unsubscribe/index.php") and enter the cell phone number that you want to remove from our list. 
 
-### Correct/Update
+You may request the closure of your wagering account at any time as long as there is no balance and no pending wagers. 
 
-This site gives users the following options for changing and modifying information previously provided. 
+### Correcting or Updating Personal Information
 
-1\. Email [support@Sportsbook.com](mailto:support@Sportsbook.com)  
-2\. Call the following telephone number: 1.800.996.5152
+Sportsbook.com provides members with the secure ‘My Account’ area for changing and modifying information previously provided. 
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  
+If you have any questions about this privacy statement, the practices of this site or your dealings with this web site, you can contact:  
 [privacy@Sportsbook.com](mailto:privacy@Sportsbook.com)  
 1.800.632.6088 
