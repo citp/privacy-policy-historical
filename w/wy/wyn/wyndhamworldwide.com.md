@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyndhamworldwide.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024192204id_/http%3A//www.wyndhamworldwide.com/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamworldwide.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509130705id_/http%3A//www.wyndhamworldwide.com/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Wyndham Worldwide: Privacy Policy
 
@@ -78,16 +78,14 @@ Investor Center: This Web Site may allow you to subscribe to investor newsletter
 
 In the event that you decide that you want to opt out from Wyndham's use of any Personal Information that you previously provided to (and/or authorized for use by) Wyndham, or if any of your Personal Information (such as your zip code or e-mail address) changes, Wyndham will use reasonable efforts to provide you with a way to correct, update or remove such Personal Information. Wyndham makes repeated efforts to verify the accuracy of your Personal Information and to correct and update its databases based on the information available to Wyndham. In the event that you believe that any Personal Information held by Wyndham is inaccurate or outdated, Wyndham, upon notification and sufficient time for verification, will take all reasonable steps to correct any inaccuracy or update outdated Personal Information of which it is made aware. Wyndham also gives you the opportunity to control or opt out from the communications that Wyndham directs to you. If you wish to update or change your Personal Information or opt out from any use or communication described in this Privacy Policy for any reason, you may notify Wyndham of such update, change or opt out by contacting:
 
-###  Dawn Driscoll
+###  Alyson Johnson
 
-  
-Phone: 1-973-753-6116
+Phone: 973-753-6888
 
-Email: [dawn.driscoll@wyndhamworldwide.com](mailto:dawn.driscoll@wyndhamworldwide.com)
+Email: [alyson.johnson@wyndhamworldwide.com](mailto:alyson.johnson@wyndhamworldwide.com)
 
 Mailing:  
-Dawn Driscoll  
-Wyndham Worldwide Corporation  
+Alyson Johnson   
 7 Sylvan Way  
 Parsippany, NJ 07054
 
