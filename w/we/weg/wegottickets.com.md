@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211121301id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509140714id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
 
-# ** We Got Tickets Online Box Office. Buy tickets for events around the UK. **
-
-**Privacy Policy**
+# WeGotTickets - Your Online Box Office - Our privacy policy
 
 Internet Tickets Ltd of 9 Park End Street, Oxford.OX1 1HH UK and its group companies including WeGotTickets Ltd and SU Tickets Ltd ("We" "Us" or "Our") take your privacy seriously. This Privacy Policy explains the steps We take to ensure information about you is kept secure and confidential.
 
@@ -25,7 +23,7 @@ You must not use Our Website or any services available via it if you do not acce
 
 **2\. Passing On Your Details**  
 2.1 In processing your order, We will only pass on personal information about you to third parties such as is necessary to enable Us to process the payment for your order and to fulfil your order, restricted to those third parties such as the venues, promoters, or performers of any events for which you have bought a ticket.   
-2.2 With your prior consent, We will use your email address to keep you informed of forthcoming Events and Offers. You may withdraw you consent for this at any time either through the My Account page or by emailing us via the Contact page.  
+2.2 We will use your email address to keep you informed of forthcoming Events and Offers. You may withdraw you consent for this at any time either through the My Account page or by emailing us via the Contact page.  
 2.3 Furthermore, We may, only with your prior consent, pass on your personal details to third parties, who may contact you with marketing materials, restricted to those third parties such as the venues, promoters, performers of any events for which you have bought a ticket, and any referring website. A "referring website" is defined as a website that referred you to our website by means of a direct click-through link, and which resulted in you buying a ticket for an event through our website. The only website(s) to which we will pass details in this way is(are): [Time Out](http://www.timeout.com/). We will only provide your details to the operators of the specific website which referred you to the sale. Once you have given consent you can, at any time, ask Us to cease passing on your personal information, and you may ask any third parties to whom your information has been passed to cease using your personal information.  
 2.4 We may disclose information about you if you breach or if we suspect you may have breached this Privacy Policy or the Website Terms and Conditions. We may also disclose your details if required to do so by law or requested to do so by any Governmental or law enforcement agency.
 
