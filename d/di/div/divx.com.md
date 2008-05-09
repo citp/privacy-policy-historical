@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2007-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070820021202id_/http%3A//www.divx.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509121741id_/http%3A//www.divx.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Just Between Us
 
-Truth be told, we're kind of private people. We expect you are too, at least about, you know, that thing you asked us not to mention here. To hide these deep dark secrets, and to otherwise be nice people, we take privacy very seriously here. (Our lawyers have asked us to specify that by "us," "we," and similar terms we mean DivX, Inc. and other entities owned or controlled by it.) This document (which is included by reference in our [Terms of Use](http://www.divx.com/legal/terms.php) specifies what information of yours we collect and how we will use it. By using our web sites and services (meaning DivX.com, Stage6, and other web sites and applications owned or run by us), you are agreeing that this privacy policy is acceptable to you. If it isn't, don't use our web sites and services, and don't provide us with any information. No harm, no foul. We also reserve the right to change this policy at any time. We're not going to email you every time we make a change to this policy, but the last date we updated it will always be at the top of the page. So check back regularly to monitor when it changes.
+Truth be told, we're kind of private people. We expect you are too, at least about, you know, that thing you asked us not to mention here. To hide these deep dark secrets, and to otherwise be nice people, we take privacy very seriously here. (Our lawyers have asked us to specify that by "us," "we," and similar terms we mean DivX, Inc. and other entities owned or controlled by it.) This document (which is included by reference in our [Terms of Use](http://www.divx.com/legal/terms.php) specifies what information of yours we collect and how we will use it. By using our web sites and services (meaning DivX.com and other web sites and applications owned or run by us), you are agreeing that this privacy policy is acceptable to you. If it isn't, don't use our web sites and services, and don't provide us with any information. No harm, no foul. We also reserve the right to change this policy at any time. We're not going to email you every time we make a change to this policy, but the last date we updated it will always be at the top of the page. So check back regularly to monitor when it changes.
 
 With that said, let's get to the explaining:
 
@@ -37,6 +37,9 @@ There are also a few exceptions where information may be collected without your 
   
 
     * Third, some of our software products will automatically contact our servers to retrieve rotating interface images (including, in some cases, advertisements) that are displayed in the software -- no personally identifiable information is sent when this occurs.
+  
+
+    * Fourth, our software or hardware products may transmit non-personally identifiable information to our servers enabling us to aggregate statistics about how many unique products are in use at any time and how often an individual product is used. This transmission won't be traced back to you as a user.
   
 
   * If you download our software installers with bundled third-party software, you should know that as a rule we do our best not to include such software that we think will collect information inconsistent with this policy. But please read and understand the privacy policy distributed with that third party's product before agreeing to install any such bundled software.
@@ -126,7 +129,7 @@ We've been straight with you so far, and we ask that you are straight with us as
   * To change other personal information, such as social security number, tax ID, address, or stored credit card information, please send an email to [divx-support@divx.com](mailto:divx-support@divx.com) and we will assist you further.
   
 
-  * At your request directed to [divx-support@divx.com](https://web.archive.org/web/20070820021202id_/http%3A//www.divx.com/legal/divx-support@divx.com) and subject to the terms of any other applicable agreements between you and DivX, We will close your account and remove any personally identifiable information from your profile as soon as reasonably possible, based on your account activity, if any, and in accordance with applicable law. In such an event, while your account information will no longer be accessible to you, We will retain all personally identifiable information reasonably necessary to meet our reporting and auditing obligations, collect any fees owed, detect and prevent fraud or other misconduct, and/or enforce our [Terms of Use](http://www.divx.com/legal/terms.php).
+  * At your request directed to [divx-support@divx.com](https://web.archive.org/web/20080509121741id_/http%3A//www.divx.com/legal/divx-support@divx.com) and subject to the terms of any other applicable agreements between you and DivX, We will close your account and remove any personally identifiable information from your profile as soon as reasonably possible, based on your account activity, if any, and in accordance with applicable law. In such an event, while your account information will no longer be accessible to you, We will retain all personally identifiable information reasonably necessary to meet our reporting and auditing obligations, collect any fees owed, detect and prevent fraud or other misconduct, and/or enforce our [Terms of Use](http://www.divx.com/legal/terms.php).
 
 
 
@@ -135,4 +138,4 @@ Thanks for reading. If you have any questions about privacy or how your informat
 Hugs and Kisses,  
 The DivX Team 
 
-Last Updated: October 30, 2006
+Last Updated: February 28, 2008
