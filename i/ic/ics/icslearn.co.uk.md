@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icslearn.co.uk privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218073916id_/http%3A//www.icslearn.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icslearn.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509083530id_/http%3A//www.icslearn.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -21,8 +21,6 @@ Non-personally identifiable information we collect: Cookies/Web server logs: sim
 
 **How we use your information**  
 We would like to use this personal data to provide you with information about our products and services and those of other Cengage companies.  You will be asked to confirm your agreement to us when you enter your details.
-
- **We will not pass on your details to any third party.**
 
  **How to access and/or modify your information or choices**  
 If you visit our Web site and volunteer personally identifiable information, you may modify, update or delete such information at any time by visiting [www.icslearn.co.uk]() where you will have the opportunity to access and revise certain of your personally identifiable information and to update your preferences regarding what information you want to receive from us. You can do this by editing your profile through logging on and visiting <http://www.icslearn.co.uk/Profile>, or by visiting the Contact Us page and sending us an email.
