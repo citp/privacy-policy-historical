@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adwarealert.com privacy policy that was archived on 2007-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070715195924id_/http%3A//www.adwarealert.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adwarealert.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509134951id_/http%3A//www.adwarealert.com/privacy.html) for the most accurate reproduction.*
 
 # Adware Alert Respects Your Privacy
 
@@ -28,8 +28,13 @@ We may disclose and use personally identifiable information in special circumsta
 
 **What Information AdwareAlert Collects**   
 AdwareAlert Software does not collect any personal identifiable information from your computer. A log is created of items detected for removal on your computer abd remains on your harddrive for your referance. During a support situation this log may be requested for troubleshooting by a support tech but requires the user to manually send.  
-AdwareAlert application Does NOT send information about you or your computer to anyone.   
+AdwareAlert application Does NOT send information about you or your computer to anyone. 
 
+**AntiSpywareNet Threat Watch CONTRIBUTIONS and PRIVACY**
+
+If you choose to join the opt-in AntiSpyware Threat Watch community, our software will check areas in your computer where malware commonly runs against a master database in order to see if the file is recognized. In order to perform these checks, our software may query our servers during scheduled scans about these files to see if they are already identified. If a file is unrecognized and/or found to show malicious behavior it is anonymously uploaded to our servers to be analyzed by our team of researchers. When malware is found by this process it is added to our threat database. If no malware is found in an uploaded file, the file signature is added to an ignore list and deleted from our servers.
+
+The scope of the Threat Watch Scan is limited to running processes such as dll's and exe's and does not include personal files such as documents, images, ect. You can opt-out of the AntiSpywareNet Threat Watch community at any time by un-checking the "Upload Suspicious Files to AntiSpywareNet” in the settings menu
 
 **Updates**   
 Your copy of AdwareAlert, once installed, will check in with our server occasionally to receive threat database update. The only value transmitted to the server is the current version of the software.   
