@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stumblehere.com privacy policy that was archived on 2007-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070713202344id_/http%3A//www.stumblehere.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumblehere.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509165932id_/http%3A//www.stumblehere.com/privacy.php) for the most accurate reproduction.*
 
-# stumblehere - classifieds | blogs | Free Classifieds for local community. Buy, sell, trade, date, events... post anything.
+# stumblehere free classifieds | local community | free classified ads | Buy sell | classified ad
 
   
 Effective as of May 8, 2007
