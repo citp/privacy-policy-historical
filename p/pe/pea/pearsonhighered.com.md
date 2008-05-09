@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonhighered.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231160332id_/http%3A//www.pearsoned.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonhighered.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509070106id_/http%3A//www.pearsoned.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Pearson Education: Privacy Policy
 
