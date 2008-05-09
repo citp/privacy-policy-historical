@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepsakequilting.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210213725id_/http%3A//www.keepsakequilting.com/customerservice/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepsakequilting.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509125814id_/http%3A//www.keepsakequilting.com/customerservice/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy & Security - KeepsakeQuilting.com
 
