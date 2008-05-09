@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoot.co.uk privacy policy that was archived on 2006-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060925225552id_/http%3A//www.scoot.co.uk/assets/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoot.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509120930id_/http%3A//www.scoot.co.uk/assets/corporate/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy: Scoot, the UK Business Finder
 
