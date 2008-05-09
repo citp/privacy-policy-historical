@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrology-online.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222180411id_/http%3A//www.astrology-online.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrology-online.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509144505id_/http%3A//www.astrology-online.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,9 @@
 
 ####  Cookies 
 
-Our Site uses cookies to make sure you don't see the same ad repeatedly. _Our advertisers set cookies to prevent the same ad from always appearing._
+Our Site uses cookies to make sure you don't see the same ad repeatedly. _Our advertisers set cookies to prevent the same ad from always appearing._ **Third parties may be placing and reading cookies on your users’ browser, or using web beacons to collect information, in the course of ads being served on your website.**
+
+Please refer to your browser's options to learn more about cookies and how to disable them.
 
 ####  Advertisers 
 
