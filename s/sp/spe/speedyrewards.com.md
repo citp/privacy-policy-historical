@@ -1,27 +1,9 @@
-> *The following text is extracted and transformed from the speedyrewards.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305023830id_/http%3A//www.speedway.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedyrewards.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509164215id_/http%3A//www.speedway.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Speedway SuperAmerica: Privacy Statement
 
-|  |  |   
----|---  
-|  | [   About Us](https://web.archive.org/AboutUs/AboutUs.asp) |   
----|---|---  
-| [   Store Locator](https://web.archive.org/StoreLocator/StoreLocator.asp) |   
-| [   Special Offers](https://web.archive.org/Promotions/Promotions.asp) |   
-| [   PrePaid / Credit](https://web.archive.org/CreditCards/CreditCards.asp) |   
-| [   Career Options](https://web.archive.org/CareerOptions/CareerOptions.asp) |   
-| [   Online Store](http://store.yahoo.com/speedwaystore/index.html) |   
-| [   Truck Stops](https://web.archive.org/TruckStops/TruckStops.asp) |   
-| [   Food & Drink](https://web.archive.org/FoodService/FoodServices.asp) |   
-| [   Fund Raising](https://web.archive.org/FundRaising/FundRaising.asp) |   
-| [   Contact Us](https://web.archive.org/CustomerService/CustomerService.asp) |   
-  **Search our site:**  
-    
- [Search Gas Prices](https://web.archive.org/GasPriceSearch.asp)  
-  | [](http://www.speedway.com/CreditCards/EBPPSplash2.asp) |    
-|  |    
----  
-  |  | _PRIVACY STATEMENT_  
+## PRIVACY STATEMENT  
+  
 ---  
    
 Speedway SuperAmerica LLC, its affiliates and subsidiaries (“Company”) recognizes and respects the privacy of its customers and visitors to this Web site (the “Web Site”). It is our goal to help our customers retain their privacy when they visit our Web Site.   
@@ -42,14 +24,24 @@ When a visitor performs a search on Company's search engine, Company may record 
    
 (6) **Collection of Personal Data from Children**. Company will not collect or post information from children under the age of eighteen (children) without their parent’s or guardian’s consent. Company does not provide any personally identifying information collected from children, regardless of its source, to any third party for any purpose whatsoever. No information collected from children is used for any marketing or promotional purposes whatsoever, either inside or outside Company. Company encourages parents and guardians to spend time online with their children and to participate in any interactive activities offered on the sites.   
    
-(7) **Company’s Right to Contact User**. Company reserves the right to contact site visitors regarding account status and changes to the subscriber agreement, privacy policy, or any other policies or agreements relevant to site visitors.   
+(7) **Company’s Right to Contact User**. Company reserves the right to contact site visitors regarding account status and changes to the subscriber agreement, privacy statement, or any other policies or agreements relevant to site visitors.   
    
-(8) **Company’s Right to Change Privacy Policy**. Company reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy.   
+(8) **Company’s Right to Change Privacy Statement**. Company reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy statement.   
    
-(9) **Security**. Your security of your personal information is important and we honor your choices for its intended use. We protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. However, if we receive a subpoena or other enforceable order to disclose information, we will need to comply. In addition, if our company is sold, assigned, merged, etc., the successor company may receive and use your data subject to its own privacy policy.   
+(9) **Security**. Your security of your personal information is important and we honor your choices for its intended use. We protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. However, if we receive a subpoena or other enforceable order to disclose information, we will need to comply. In addition, if our company is sold, assigned, merged, etc., the successor company may receive and use your data subject to its own privacy statement.   
    
 (10) **Other Sites**. This privacy statement applies only to this Web Site. While this Web Site may contain links to other third party sites, Company is not responsible for the practices or contents of such third party sites.   
    
-(11) **Enforcement**. If for some reason you believe we have not adhered to these principles, please notify us through the [customer service section](https://web.archive.org/CustomerService/CustomerService.asp) and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.   
-|   
----
+(11) **Enforcement**. If for some reason you believe we have not adhered to these principles, please notify us through the [Contact Us Section](https://web.archive.org/web/20080509164215id_/http%3A//www.speedway.com/ContactUs/) and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Statement are in the Subject line.   
+  
+* * *
+
+5¢ Off Every Gallon  Plus Earn Points        With Every Purchase!
+
+[](https://web.archive.org/CreditAndPrepaid/)
+
+Introducing...        Gourmet Roast Coffee
+
+[](https://web.archive.org/FoodAndDrink/Default.aspx)
+
+* * *
