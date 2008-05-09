@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212072932id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509133753id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
 
 # Dickies® ~ Privacy Policy
 
@@ -98,27 +98,34 @@ All individuals submitting unsolicited ideas agree to the following:**
 PRIVACY SUPPORT   
 If you have any further inquires related to this privacy policy, please contact us with your request at [customerservice@dickies.com](mailto:customerservice@dickies.com)
 
-Return  |   What's New in December  
+Return  |   What's New in May  
 ---  
 | 
 
-2007 American  
-Worker of the  
-Year
+TOP STORIES
 
-Congratulations to Dean Deleersnyder...  
-[ [read more](https://web.archive.org/web/news/top_stories.asp#awoty) ]
+2008 Updated Dickies Mobile Tours...  
+[ [read more](https://web.archive.org/web/news/top_stories.asp#showcar) ]
+
+PRESS RELEASE
+
+Dickies acquires Kodiak Group Holdings Inc. . . .  
+[ [read more](https://web.archive.org/web/news/2008_04_Kodiak.asp) ]
 
 NEWS STAND
 
-Dickies on the pages of _Maxim_...  
-[ [read more](https://web.archive.org/web/news/magazines.asp) ]
+Dickies DuraBullfighters in _Sports Illustrated_! . . .  
+[ [read more](https://web.archive.org/web/news/top_stories.asp#si) ]
 
-Race for the  
-Riches
+TOP STORIES
 
-Congratulations Nikki Kelly from San Antonio, TX...  
-[ [read more](https://web.archive.org/web/news/top_stories.asp#race) ]
+Dickies Durabullfighters Sport New Jerseys . . .  
+[ [read more](https://web.archive.org/web/news/top_stories.asp#durabullfighters) ]
+
+NEWS STAND
+
+Dickies and NASCAR on the pages of _School Uniforms_ magazine! . . .  
+[ [read more](https://web.archive.org/web/news/magazines.asp#school) ]
 
 PauseResume **::** [More News](https://web.archive.org/web/news/default.asp)
 
