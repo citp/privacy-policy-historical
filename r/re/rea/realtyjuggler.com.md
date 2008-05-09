@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012162642id_/http%3A//www.realorganized.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509072838id_/http%3A//www.realorganized.com/privacy_policy.html) for the most accurate reproduction.*
 
 # RealOrganized, Inc. Privacy Policy
 
@@ -50,7 +50,7 @@ If a user elects to use our referral service for informing a friend about our si
 RealOrganized, Inc. may update this policy. If it does, it will post changes on its web site.
 
 **Security**  
-The security of your information is important to us. For this reason, we have created an extensive security program to ensure that your information is secure. You can read more about it [here](https://web.archive.org/web/20071012162642id_/http%3A//www.realorganized.com/security_statement.html).
+The security of your information is important to us. For this reason, we have created an extensive security program to ensure that your information is secure. You can read more about it [here](https://web.archive.org/web/20080509072838id_/http%3A//www.realorganized.com/security_statement.html).
 
 We invite you to contact us regarding this policy. You may contact us my mail at the following address:
 
