@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davematthewsband.com privacy policy that was archived on 2007-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070706100747id_/http%3A//www.davematthewsband.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davematthewsband.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509194418id_/http%3A//davematthewsband.com/privacy/index.html) for the most accurate reproduction.*
 
 # The Chopping Block: Dave Matthews Band
 
