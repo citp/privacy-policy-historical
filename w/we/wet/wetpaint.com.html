@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the wetpaint.com privacy policy that was archived on 2007-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071020034504id_/http%3A//www.wetpaint.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wetpaint.com privacy policy that was archived on 2008-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509122642id_/http%3A//www.wetpaint.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-		<meta name="description" content="Wetpaint powers free wiki website anyone can start in 3 easy steps. Wetpaint wikis are easy to edit so groups, classes, families, and more can share information.">
-		<meta name="keywords" content="wiki, website, free, wetpaint, wet, paint, collaboration, hosting, wysiwyg, click and type, easy, easyedit, password protected, group website, community">
 		<title> Privacy Policy for Wet Paint - Create a free wiki - Wetpaint</title>
-			<style type="text/css" media="screen,projection,print">/*<![CDATA[*/ @import "/css/styles.css?20071005152824"; /*]]>*/</style>
-			<script src="/js/prototype.js?20071005152824" type="text/javascript"></script>
-		<script src="/js/effects.js?20071005152824" type="text/javascript"></script>
+				<meta name="description" content="Wetpaint is the largest network of free wiki websites. Wetpaint wikis are great for groups, classes, and more; start your free website in 3 steps.">
+				<meta name="keywords" content="wiki, website, wetpaint, free website, collaboration, free hosting, group website, community website, social network">
+				<style type="text/css" media="screen,projection,print">/*<![CDATA[*/ @import "/css/styles.css?20080410153939"; /*]]>*/</style>
+			<script src="/js/prototype.js?20080410153939" type="text/javascript"></script>
+		<script src="/js/effects.js?20080410153939" type="text/javascript"></script>
 
 		
 	</head>
@@ -18,110 +18,57 @@
 			<ul>
 				<li class="first" id="credentials_login"><a href="#signin" id="loginOpen">Sign in to Wetpaint<span class="logo">&nbsp;</span></a>
 							<div id="loginDiv" style="display:none;">
-								<div style=" border:1px solid #ADADAD; border-width:0px 1px; background:#FFF url(/img/signonFormBG.png) repeat-x top left; padding:10px; clear:both; line-height:1.4em">
-									<table cellpadding="0" cellspacing="0" width="100%" style="padding-bottom:.5em;"><tbody><tr>
-									<td align="left">
-										<div style="background:transparent url(/img/signonFormLogo.png) no-repeat center left; padding-left:25px; font-weight:bold; color:#000;">
-											Sign in to Wetpaint
-										</div>
-									</td><td align="right">
-										<div style="cursor:hand; height:16px; width:16px; background:transparent url(/img/signonClose.png) left 50% no-repeat;" id="loginClose"></div>
-									</td>
-									</tr></tbody></table>
-									<form id="signOnForm" name="signOnForm" method="post" action="/login" target="sso">
-									<table cellpadding="1" cellspacing="0">
-										<tbody><tr>
-											<td class="label">Username</td>
-											<td class="input" align="left"><input type="text" class="text" name="userName" id="userName" maxlength="50" style="width:150px;"></td>
-										</tr>
-										<tr>
-											<td class="label">Password</td>
-											<td class="input" align="left"><input type="password" class="text" name="password" id="password" maxlength="255" style="width:150px;"></td>
-										</tr>
-										<tr>
-											<td>&nbsp;</td>
-											<td class="input" align="left" valign="middle"><input type="checkbox" class="checkbox" name="rememberMe" id="rememberMe"><label for="rememberMe">Keep me signed in</label></td>
-										</tr>
-										<tr>
-											<td colspan="2"><div class="response" id="loginResponse"></div></td>
-										</tr>
-										<tr>
-											<td colspan="2" class="input" valign="middle" style="padding-top:.5em;">
-												<input type="submit" class="button" id="loginSubmit" value="sign in" style="margin:0"><div class="buttonEnd"></div>&nbsp;&nbsp;&nbsp;<a href="#Cancel" class="cancel" id="loginCancel">cancel</a>
-											</td>
-										</tr>
-									</tbody></table>
-									<input type="hidden" name="referer" id="referer" value="http://www.wetpaint.com:80/singleSignOnResponse">
-										<input type="hidden" name="singleSignOnServer" id="singleSignOnServer" value="http://www.wetpaint.com/auth">
-									</form>
-								</div>
-								<div style="background:#fff url(/img/signonFormCorners.png) no-repeat bottom left;padding-top:9px;"></div>
-								<div id="loginError" style="display:none;">We could not find an account with the username and password you provided. Please try again.</div>
-								<div id="signingIn" style="display:none;">Signing in...</div>
-								<iframe style="display:none;" id="sso" name="sso"></iframe>
-							</div>
-						</li>
-						<script>
-							var login = {
-								signInTxt : '',
-								clear : function(){
-									$('loginResponse').innerHTML='';
-									$('userName').value='';
-									$('password').value='';
-								},
-								open : function(){
-									this.clear();
-									new Effect.SlideDown($('loginDiv'), {duration:.4})
-									new Effect.Appear($('loginDiv'), {
-										duration:.4,
-										afterFinish: function(){$('userName').focus();}
-									});
-									return false;
-								},
-								close : function(){
-									new Effect.Fade($('loginDiv'), {duration:.4})
-									new Effect.SlideUp($('loginDiv'), {duration:.4})
-									return false;
-								},
-								submit : function(){
-									login.signInTxt = $('loginSubmit').value;
-									$('loginSubmit').value=$('signingIn').innerHTML;
-									Event.observe(document.getElementById("sso"), 'load', login.ssoReturned );
-									if (/Konqueror|Safari|KHTML/.test(navigator.userAgent)) {
-										$('sso').style.display = 'inline';
-										$('sso').style.height='1px';
-										$('sso').style.width='1px';
-									}
-									$('signOnForm').submit();
-									return false;
-								},
-								ssoReturned : function(){
-								    var httpStatus = $('sso').contentWindow.window['httpStatus'];
-								    if( httpStatus=='200'){
-								    	login.close()
-										if ( $('signOnForm').elements['forwardURL'] ){
-											location.href = $('signOnForm').elements['forwardURL'].value;
-										} else {
-											location.href ='/mySites';
-										}
-								    } else {
-										$('loginSubmit').value=login.signInTxt;
-										$('loginResponse').innerHTML=$('loginError').innerHTML;
-										$('userName').focus();
-									}
-								}
-							};
-							if($('loginDiv')){
-								Event.observe($("loginClose"),"click",function(e) {return login.close(); });
-								Event.observe($("loginCancel"),"click",function(e) {return login.close(); });
-								Event.observe($("loginOpen"),"click",function(e) {return login.open(); });
-								Event.observe($("loginSubmit"),"click",function(e) {return login.submit(); });
-							}
-						</script>
+	<div style=" border:1px solid #ADADAD; border-width:0px 1px; background:#FFF url(/img/signonFormBG.png) repeat-x top left; padding:10px; clear:both; line-height:1.4em">
+		<table cellpadding="0" cellspacing="0" width="100%" style="padding-bottom:.5em;"><tbody><tr>
+		<td align="left">
+			<div style="background:transparent url(/img/signonFormLogo.png) no-repeat center left; padding-left:25px; font-weight:bold; color:#000;">
+				Sign in to Wetpaint
+			</div>
+		</td><td align="right">
+			<div style="cursor:hand; height:16px; width:16px; background:transparent url(/img/signonClose.png) left 50% no-repeat;" id="loginClose"></div>
+		</td>
+		</tr></tbody></table>
+		<form id="signOnForm" name="signOnForm" method="post" action="/login" target="sso">
+		<table cellpadding="1" cellspacing="0">
+			<tbody><tr>
+				<td class="label">Username</td>
+				<td class="input" align="left"><input type="text" class="text" name="userName" id="userName" maxlength="50" style="width:150px;"></td>
+			</tr>
+			<tr>
+				<td class="label">Password</td>
+				<td class="input" align="left"><input type="password" class="text" name="password" id="password" maxlength="255" style="width:150px;"></td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td class="input" align="left" valign="middle"><a href="http://www.wetpaintcentral.com/?action=lostPassword" tabindex="-1">Forgot your password?</a></td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td class="input" align="left" valign="middle"><input type="checkbox" class="checkbox" name="rememberMe" id="rememberMe"><label for="rememberMe">Keep me signed in</label></td>
+			</tr>
+			<tr>
+				<td colspan="2"><div class="response" id="loginResponse"></div></td>
+			</tr>
+			<tr>
+				<td colspan="2" class="input" valign="middle" style="padding-top:.5em;">
+					<input type="submit" class="button" id="loginSubmit" value="sign in" style="margin:0"><div class="buttonEnd"></div>&nbsp;&nbsp;&nbsp;<a href="#Cancel" class="cancel" id="loginCancel">cancel</a>
+				</td>
+			</tr>
+		</tbody></table>
+		<input type="hidden" name="referer" id="referer" value="http://www.wetpaint.com:80/singleSignOnResponse">
+		<input type="hidden" name="singleSignOnServer" id="singleSignOnServer" value="http://www.wetpaint.com/auth">
+		</form>
+	</div>
+	<div style="background:#fff url(/img/signonFormCorners.png) no-repeat bottom left;padding-top:9px;"></div>
+	<div id="loginError" style="display:none;">We could not find an account with the username and password you provided. Please try again.</div>
+	<div id="signingIn" style="display:none;">Signing in...</div>
+	<iframe style="display:none;" id="sso" name="sso"></iframe>
+</div>
+</li>
+						
 					</ul>
 			
 		</div>
-		
 		<div id="userActions">
 			
 			&nbsp;
@@ -129,6 +76,8 @@
 		</div>
 	</div>
 </div>
+
+<script src="/js/loginDropdown.js?20080410153939" type="text/javascript"></script>
 <div id="wrap">
 			<div class="row r_pageHeader">
 	<div class="row_tr">
@@ -140,12 +89,11 @@
 	</div>
 	<div class="row_tl">
 		<a href="/"><img src="/img/logoHome.png" alt="Wetpaint" title="Wetpaint" width="127" height="82" border="0"></a>
-		<h1 style="display:none;">Wetpaint</h1>
 	</div>
 	<div class="clear"></div>	
 </div>
-	
-<!-- Search Wetpaint Wikis --><div id="pageContent">
+<!-- Search Wetpaint Wikis -->
+<div id="pageContent">
 				<div class="breadcrumbs">
 	<a href="/">home</a> &gt; 
 	<h2>privacy policy</h2>
@@ -153,7 +101,7 @@
 <hr>
 <h1>Privacy Policy</h1>
 
-<div class="subHeading">Last Updated: 3/27/2007</div>
+<div class="subHeading">Last Updated: 10/26/2007</div>
 <br>
 <a name="privacy"></a>
 <p>At Wetpaint, we are committed to ensuring the privacy of our users.
@@ -341,7 +289,7 @@ this privacy policy, please <a href="/static/contact">contact&nbsp;us</a>.</p>
 </div>
 			
 			<div class="row r_footer">
-		<div class="row_tr">© 2007 <a href="http://www.wetpaint.com">wetpaint.com, inc.</a></div>
+		<div class="row_tr">© 2008 <a href="http://www.wetpaint.com">wetpaint.com, inc.</a></div>
 		<div class="row_tl">
 			<ul>
 				<li><a href="/static/about">about us</a></li>
@@ -371,15 +319,6 @@ this privacy policy, please <a href="/static/contact">contact&nbsp;us</a>.</p>
 		    <li><a href="/category/Technology">technology</a></li>
 		  </ul>
 		</div>
-		<div class="row_full">
-		  <h4>random sites we like:</h4>
-		  <ul>
-		    <li><a href="http://www.buddytv.com">buddy tv</a></li>
-		    <li><a href="http://www.newsvine.com">news</a></li>
-		    <li><a href="http://www.redfin.com">real estate</a></li>
-		    <li><a href="http://www.yelp.com/seattle">seattle reviews</a></li>
-		  </ul>
-		</div>
 	</div>
 	
 	<div class="clear"></div>
@@ -387,12 +326,12 @@ this privacy policy, please <a href="/static/contact">contact&nbsp;us</a>.</p>
 <script type="text/javascript">
 	var s_account='wetpaintglobal,wetpaintcom';
 </script>
-<script type="text/javascript" src="/js/omniture/s_w_code.js?20071005152824"></script>
+<script type="text/javascript" src="/js/omniture/s_w_code.js?20080410153939"></script>
 <script type="text/javascript">
-if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='www.wetpaint.com - Privacy Policy for Wet Paint';s_w.server='web7.wetpaint.com';s_w.channel='';s_w.pageType='';s_w.prop1='www.wetpaint.com';s_w.prop2='';s_w.prop3='';s_w.prop4=location.hostname;s_w.prop5='';s_w.prop6='';s_w.eVar1='www.wetpaint.com';s_w.eVar2='';s_w.eVar3='';s_w.eVar4=location.hostname;s_w.eVar5='';s_w.eVar6='';s_w.eVar7='anonymous';s_w.state='';s_w.zip='';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)
+if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='www.wetpaint.com - Privacy Policy for Wet Paint';s_w.server='web24.wetpaint.com';s_w.channel='';s_w.pageType='';s_w.prop1='www.wetpaint.com';s_w.prop2='';s_w.prop3='';s_w.prop4=location.hostname;s_w.prop5='';s_w.prop6='';s_w.eVar1='www.wetpaint.com';s_w.eVar2='';s_w.eVar3='';s_w.eVar4=location.hostname;s_w.eVar5='';s_w.eVar6='';s_w.eVar7='anonymous';s_w.state='';s_w.zip='';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)
 }
 </script>
-<!-- Server: web7.wetpaint.com Build Version: rel-26-11 Build Date: 20071005152824 -->
+<!-- Server: web24.wetpaint.com Build Version: rel-32-4 Build Date: 20080410153939 -->
 			
 </div>
 		
