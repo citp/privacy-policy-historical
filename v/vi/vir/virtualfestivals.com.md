@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the virtualfestivals.com privacy policy that was archived on 2007-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071111014523id_/http%3A//www.virtualfestivals.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualfestivals.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509161221id_/http%3A//www.virtualfestivals.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Statement -
 
-##  We will not collect any personal or business information, nor store or share that information with any third party without your express permission.
+## We will not collect any personal or business information, nor store or share that information with any third party without your express permission.
 
 **Why we need Information  
 **    
