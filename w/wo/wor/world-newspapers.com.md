@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the world-newspapers.com privacy policy that was archived on 2007-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071023173829id_/http%3A//www.world-newspapers.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-newspapers.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509093411id_/http%3A//www.world-newspapers.com/disclaimer.html) for the most accurate reproduction.*
 
 # World-Newspapers.com Privacy Policy
 
@@ -41,6 +41,6 @@ We cannot be responsible for the content of sites that world-newspapers.com link
 
 If you feel that this site is not following its stated information policy, please contact:
 
-Marius Kazokaitis  
+Marius Kaitis  
   
  **marius@world-newspapers.com**
