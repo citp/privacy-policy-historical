@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nfib.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229021355id_/http%3A//www.nfib.com/object/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfib.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509142004id_/http%3A//www.nfib.com/object/privacyPolicy) for the most accurate reproduction.*
 
-# NFIB.com - Privacy Policy
+# NFIB.com - NFIB | Privacy Policy
 
 _Revised March 2, 2006_
 
