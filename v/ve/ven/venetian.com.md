@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the venetian.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/PRIVACY.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venetian.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/PRIVACY.aspx) for the most accurate reproduction.*
 
 # PRIVACY POLICY, General Information – The Venetian Resort Hotel Casino, Las Vegas
 
 | 
 
-[ ](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/HomePage.aspx)  
+[ ](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/HomePage.aspx)  
   
 ---  
   
@@ -28,7 +28,7 @@ The Company is not responsible for the privacy policies of websites to which it 
   
 ---|---  
   
-Experience the romance of Italy in the heart of the Las Vegas Strip. Beauty and grace surround you at **The Venetian Resort Hotel Casino** , where every detail has been carefully designed to provide you with a memorable stay – from the world’s largest standard suites to the city’s most elegant casino. Immerse yourself in the enchanting atmosphere of this all-suite Las Vegas hotel resort. Choose from 19 remarkable [restaurants](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/Dining.aspx) – featuring an unprecedented six James Beard Award-winning chefs, including Wolfgang Puck, Emeril Lagasse, and Thomas Keller. Browse the 80 international boutiques of [The Grand Canal Shoppes](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/GCS.aspx), offering collectibles and couture from such renowned names as Jimmy Choo, Lladro, Dooney && Bourke, and Burberry. Rejuvenate at [Canyon Ranch SpaClub](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/CRS.aspx) – the very picture of rest and relaxation – where a full-service salon, fitness center, rock-climbing wall, and indulgent packages await. Discover the ideal Las Vegas resort vacation destination and business retreat – where exquisite all-suite [accommodations](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/ACCOMMODATIONS.aspx), attentive service, and endless attractions converge in a magnificent setting. 
+Experience the romance of Italy in the heart of the Las Vegas Strip. Beauty and grace surround you at **The Venetian Resort Hotel Casino** , where every detail has been carefully designed to provide you with a memorable stay – from the world’s largest standard suites to the city’s most elegant casino. Immerse yourself in the enchanting atmosphere of this all-suite Las Vegas hotel resort. Choose from 19 remarkable [restaurants](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/Dining.aspx) – featuring an unprecedented six James Beard Award-winning chefs, including Wolfgang Puck, Emeril Lagasse, and Thomas Keller. Browse the 80 international boutiques of [The Grand Canal Shoppes](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/GCS.aspx), offering collectibles and couture from such renowned names as Jimmy Choo, Lladro, Dooney && Bourke, and Burberry. Rejuvenate at [Canyon Ranch SpaClub](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/CRS.aspx) – the very picture of rest and relaxation – where a full-service salon, fitness center, rock-climbing wall, and indulgent packages await. Discover the ideal Las Vegas resort vacation destination and business retreat – where exquisite all-suite [accommodations](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/ACCOMMODATIONS.aspx), attentive service, and endless attractions converge in a magnificent setting. 
 
   * Located along the legendary Strip in Las Vegas, Nevada 
   * Steps away from the city’s most famous attractions, golf courses, and nightlife 
@@ -41,31 +41,31 @@ Experience the romance of Italy in the heart of the Las Vegas Strip. Beauty and 
 
 **Four-Diamond Luxury Throughout This Legendary All-Suite Las Vegas Resort**
 
-From the mesmerizing entertainment of the [Blue Man Group](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/BMG.aspx) to authentic [gondola rides](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/GONDOLA.aspx) along the quarter-mile Grand Canal, The Venetian offers the pinnacle of luxury in a city renowned for its extraordinary excitement. Indeed, there’s nothing standard about any of the accommodations at this all-suite resort hotel in Las Vegas, Nevada – which boast an average of 700 square feet of pure indulgence – approximately twice the size of the typical Las Vegas room. Rely on us to provide the perfect ambience, whether you’ve come for a day of [meeting](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/MEETINGS.aspx) with colleagues, a riveting evening of slots and [table games](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/TABLEGAMES.aspx), or a little of both. 
+From the mesmerizing entertainment of the [Blue Man Group](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/BMG.aspx) to authentic [gondola rides](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/GONDOLA.aspx) along the quarter-mile Grand Canal, The Venetian offers the pinnacle of luxury in a city renowned for its extraordinary excitement. Indeed, there’s nothing standard about any of the accommodations at this all-suite resort hotel in Las Vegas, Nevada – which boast an average of 700 square feet of pure indulgence – approximately twice the size of the typical Las Vegas room. Rely on us to provide the perfect ambience, whether you’ve come for a day of [meeting](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/MEETINGS.aspx) with colleagues, a riveting evening of slots and [table games](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/TABLEGAMES.aspx), or a little of both. 
 
-  * Now open, discover a whole different side to Las Vegas poker – trendy, luxurious, and exceptionally rewarding [The Venetian Poker Room](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/POKERROOM.aspx) will not only be among the city’s largest venues for this, but also its most exquisite. 
+  * Now open, discover a whole different side to Las Vegas poker – trendy, luxurious, and exceptionally rewarding [The Venetian Poker Room](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/POKERROOM.aspx) will not only be among the city’s largest venues for this, but also its most exquisite. 
 
 
 
 A landmark among Las Vegas resorts on the Strip, The Venetian offers a vast array of amenities and services, including: 
 
-  * 120,000- **square-foot** Doge’s Palace [Casino](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/GAMING.aspx), featuring an extensive variety of mega-jackpot slot machines, table games, and sports betting 
-  * **More than 4,000 all-suite luxury** [accommodations](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/ACCOMMODATIONS.aspx), averaging twice the size of a typical Las Vegas hotel room 
-  * **More than 1.9 million square feet of** [meeting space](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/MEETINGS.aspx), including 270 flexible function rooms and the exquisite 85,000-square-foot Venetian Ballroom 
-  * **Extensive** [convention, corporate, and catering services](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/MEETINGS.aspx), honored as one of five properties worldwide to receive Meetings & Conventions magazine’s Gold Key “Elite” and Gold Platter “Elite” awards in 2005 
-  * **19 extraordinary** [restaurants](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/DINING.aspx), providing a range of exquisite options, from fine to casual dining 
-  * **Four bars and lounges** , including [Tao Nightclub](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/TAONIGHTCLUB.aspx), [V Bar](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/VBAR.aspx), and [La Scena](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/LASCENA.aspx), maintaining our celebrity status as a Vegas hotspot for the nightlife-seeking crowd 
-  * [Canyon Ranch SpaClub®](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/CRS.aspx), featuring a full-service salon, fitness center, rock-climbing wall, and a wide range of soothing treatment packages 
-  * **The** [Grand Canal Shoppes](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/GCS.aspx), our indoor streetscape, boasting 80 international boutiques and brand-name outlets 
-  * [Guggenheim Hermitage Museum](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/GHM.aspx), featuring original art by the likes of Rubens, Picasso, van Gogh, Monet, and others 
-  * [Madame Tussaud’s](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/MT.aspx), with wax replicas of well-known celebrities 
-  * **Live performances by the world-famous** [Blue Man Group](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/BMG.aspx), hosted in our brand-new, 1,760-seat theatre 
-  * **[Phantom - The Las Vegas Spectacular](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/PHANTOM.aspx)** , an extraordinary, new production of the world-wide phenomenon, _The Phantom of the Opera_
+  * 120,000- **square-foot** Doge’s Palace [Casino](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/GAMING.aspx), featuring an extensive variety of mega-jackpot slot machines, table games, and sports betting 
+  * **More than 4,000 all-suite luxury** [accommodations](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/ACCOMMODATIONS.aspx), averaging twice the size of a typical Las Vegas hotel room 
+  * **More than 1.9 million square feet of** [meeting space](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/MEETINGS.aspx), including 270 flexible function rooms and the exquisite 85,000-square-foot Venetian Ballroom 
+  * **Extensive** [convention, corporate, and catering services](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/MEETINGS.aspx), honored as one of five properties worldwide to receive Meetings & Conventions magazine’s Gold Key “Elite” and Gold Platter “Elite” awards in 2005 
+  * **19 extraordinary** [restaurants](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/DINING.aspx), providing a range of exquisite options, from fine to casual dining 
+  * **Four bars and lounges** , including [Tao Nightclub](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/TAONIGHTCLUB.aspx), [V Bar](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/VBAR.aspx), and [La Scena](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/LASCENA.aspx), maintaining our celebrity status as a Vegas hotspot for the nightlife-seeking crowd 
+  * [Canyon Ranch SpaClub®](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/CRS.aspx), featuring a full-service salon, fitness center, rock-climbing wall, and a wide range of soothing treatment packages 
+  * **The** [Grand Canal Shoppes](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/GCS.aspx), our indoor streetscape, boasting 80 international boutiques and brand-name outlets 
+  * [Guggenheim Hermitage Museum](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/GHM.aspx), featuring original art by the likes of Rubens, Picasso, van Gogh, Monet, and others 
+  * [Madame Tussaud’s](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/MT.aspx), with wax replicas of well-known celebrities 
+  * **Live performances by the world-famous** [Blue Man Group](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/BMG.aspx), hosted in our brand-new, 1,760-seat theatre 
+  * **[Phantom - The Las Vegas Spectacular](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/PHANTOM.aspx)** , an extraordinary, new production of the world-wide phenomenon, _The Phantom of the Opera_
 
 
 
-[Click here for Additional Features & Services for Venezia at The Venetian Las Vegas Nevada Hotel & Casino.](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/VENEZIA.aspx)
+[Click here for Additional Features & Services for Venezia at The Venetian Las Vegas Nevada Hotel & Casino.](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/VENEZIA.aspx)
 
 Immerse yourself in the incomparable luxury of The Venetian Resort Hotel Casino – the Strip’s most complete all-suite resort and convention destination. Book your Las Vegas hotel [reservations](https://reservations.venetian.com/resnet/lansaweb?procfun+rn+resnet+net+funcparms+UP\(A2560\):;GNET;;01;01;00;000;;;;;;;;;;;;?) directly through this site for preferred rates.
 
-Click here for our Las Vegas Vacation [Packages & Hotel Specials](https://web.archive.org/web/20071210180441id_/http%3A//www.venetian.com/SPECIALS.aspx). 
+Click here for our Las Vegas Vacation [Packages & Hotel Specials](https://web.archive.org/web/20080509082602id_/http%3A//www.venetian.com/SPECIALS.aspx). 
