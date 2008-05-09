@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usmagazine.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211134113id_/http%3A//usmagazine.com/node/1802) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usmagazine.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509081111id_/http%3A//www.usmagazine.com/node/1802) for the most accurate reproduction.*
 
 # Usmagazine.com | Privacy Policy
 
