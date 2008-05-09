@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221033206id_/http%3A//www.wellness.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509135426id_/http%3A//www.wellness.com/privacy.asp) for the most accurate reproduction.*
 
 # Wellness - The pursuit of health and hapiness
 
@@ -84,4 +84,4 @@ It is not technologically reasonable to remove each and every record of the info
 
 Privacy as it applies to the Internet is a dynamic, rapidly developing area. In the future, the company may make significant changes to its privacy policy affecting the use of the Personal Information it collects. The company will notify users by email of any significant material changes to its privacy policy and obtain your "opt-in" consent to any significant new uses of your Personal Information, if it was collected from you prior to a significant change in this policy. The company may also make non-significant changes to our Privacy Policy that generally will not affect the use of your Personal Information. You should also check this posted Privacy Policy for any future changes. If you do not agree to the terms of this Privacy Policy or any revised policy, please exit the site immediately and terminate your membership in Wellness.com.
 
-Revised May 30, 2007 · Copyright © 2007 Wellness.com. · All rights reserved. 
+Revised May 30, 2007 · Copyright © 2008 Wellness.com. · All rights reserved. 
