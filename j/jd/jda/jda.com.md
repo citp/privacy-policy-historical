@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014121043id_/http%3A//www.jda.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509145241id_/http%3A//www.jda.com/privacy.html) for the most accurate reproduction.*
 
 # JDA Privacy/Legal Statement
 
+  
 |    
-|   |    
 
 
 **THE CONDITIONS OF USE OF THIS SITE**  
@@ -59,25 +59,8 @@ If you have any questions about this Privacy Policy, the practices of this Web S
 **OTHER JDA LEGAL LINKS    
 **[Click here](http://www.jda.com/intactixLegal.asp) to view standard Intactix Software License Agreements.
 
+|   
 |    
-| 
-
   
+|   
 
-
-[10/8/2007](https://web.archive.org/company/press-release-details.html?ID=1635 "JDA Software Group today announced the commercial release of a new revenue management system for tour operators called Tour Revenue Optimizer \(TRO\).") \- JDA Software Launches New Revenue Management Solution for Tour Operators Following Successful Implementation with TUI UK
-
-[10/2/2007](https://web.archive.org/company/press-release-details.html?ID=1634 "JDA has expanded its partnership with The Rainmaker Group, the world leader in automated revenue management software and services to the gaming hospitality industry. The new agreement extends The Rainmaker Group's right to market and sublicense JDA's hospitality revenue management software in the hospitality industry.") \- JDA Software Group and The Rainmaker Group Continue Partnership, Expand Relationship in Hospitality Market
-
-[10/17/2007](https://web.archive.org/company/EventDisplay.html?ID=640) \- MMS Upgrade & Educate Forum
-
-[10/21/2007](https://web.archive.org/company/EventDisplay.html?ID=634 "CSCMP- Council of Supply Chain Management Professionals ") \- CSCMP- Council of Supply Chain Management Professionals 
-
-[5/14/2007](http://www.jda.com/file_bin/CaseStudies/JDA-CS_Co-op.pdf "The Co-operative Group's largest division, Co-operative Food Retail, implemented JDA's Space & Category Management solutions to ensure delivery of a customer-driven range of products to the right store clusters, as well as to better align the retailer's product mix to boost profitability. Thanks to the JDA solutions, the company is realizing real results that inlcude increased sales, improved partnerships with suppliers and the ability to place products in the right stores to drive profits.") \- The Co-operative Group Enables Delivery of Customer-Driven Product Ranges with JDA's Space & Category Management Solutions
-
-[5/1/2007](http://www.jda.com/file_bin/casestudies/JDA-CS_Edcon_May2007.pdf "Edgars Consolidated Stores Ltd. \(Edcon\), a leading clothing, footwear and textiles group in South Africa, has realized a 12.9 percent improvement in stock balances across its Department Store Division and a 7.9 percent improvement across its Discount Division. The retailer attributes these results to JDA® Allocation software, which it has been using for six months following an accelerated implementation that was completed on time and on budget. ") \- Edgars Consolidated Stores Ltd. Optimises Product Mix to Boost Sales and Profits with JDA Allocation Software
-
-  
-  
-  
----|---|---|---|---
