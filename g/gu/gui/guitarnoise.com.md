@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211002113id_/http%3A//www.guitarnoise.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509072435id_/http%3A//www.guitarnoise.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Guitar Noise
+
+A terrible disaster is currently befalling the people of Burma/Myanmar. Let's show how quick and generous we can be in our response. Here's information on how you can help [International Aid to Burma](http://www.washingtonpost.com/wp-dyn/content/article/2008/05/05/AR2008050501869.html). Consider helping victims of the cyclone in Burma today. 
 
 ## Privacy Policy
 
@@ -10,7 +12,7 @@ Guitar Noise is committed to protecting your privacy. This "Privacy Statement" o
 
 When signing up for our newsletter you agree that Guitar Noise will use your email address to contact you with site updates, announcements, exclusive lessons and special offers. **We still never share your email address with anyone. Ever!**
 
-You can easily unsubscribe from our newsletter at any time! Every email we send includes simple instructions on how to unsubscribe. You can also unsubscribe on the [newsletter page](https://web.archive.org/web/20071211002113id_/http%3A//www.guitarnoise.com/newsletter.php).
+You can easily unsubscribe from our newsletter at any time! Every email we send includes simple instructions on how to unsubscribe. You can also unsubscribe on the [newsletter page](https://web.archive.org/web/20080509072435id_/http%3A//www.guitarnoise.com/newsletter.php).
 
 ### Collection of your personal data
 
