@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theatlantic.com privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004213021id_/http%3A//www.theatlantic.com/a/privprint.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatlantic.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509102339id_/http%3A//www.theatlantic.com/a/privprint.mhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
