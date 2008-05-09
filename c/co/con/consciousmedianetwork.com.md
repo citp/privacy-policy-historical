@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consciousmedianetwork.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231025116id_/http%3A//www.consciousmedianetwork.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consciousmedianetwork.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509065125id_/http%3A//www.consciousmedianetwork.com/privacy.htm) for the most accurate reproduction.*
 
 # The Conscious Media Network - Privacy Policy
 
