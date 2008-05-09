@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partstore.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230064735id_/http%3A//www.partstore.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstore.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509194937id_/http%3A//www.partstore.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PartStore.com's Privacy Policy
 
