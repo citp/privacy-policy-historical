@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examiner.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210182957id_/http%3A//www.examiner.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examiner.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509121231id_/http%3A//www.examiner.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Stay Current With Today's Top Breaking News Headlines - Examiner.com
 
