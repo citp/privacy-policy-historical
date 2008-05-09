@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.com privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814003054id_/http%3A//www.eharmony.com/singles/servlet/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509061920id_/http%3A//www.eharmony.com/singles/servlet/privacy/statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -34,7 +34,7 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
 
 7\. How you can correct any inaccuracies in the information. 
 
-If you have questions or concerns regarding this statement, you should first contact the Customer Service Department by sending email to [customerrelations@eHarmony.com](mailto:customerrelations@eHarmony.com), by calling (800)648-9548, or by writing **eHarmony** , P.O. Box 60157, Pasadena CA 91116 USA. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact the Company by writing eHarmony, P.O. Box 60157, Pasadena CA 91116 USA, or by sending an email to [privacy@eHarmony.com](mailto:privacy@eHarmony.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 This statement discloses the privacy practices for the **eHarmony** website, which may be accessed through [www.eharmony.com](http://www.eharmony.com/), or through related URLs such as [www.eharmony.com/singles/](http://www.eharmony.com/singles/), <http://marriage.eharmony.com/marriage/>, or bookstore.eharmony.com. The purpose of this statement is to notify you of what personally identifiable information of yours will be collected by the **eHarmony** site, how it will be used, and what options are available to you regarding the collection, correction and/or deletion of information. 
 
@@ -54,9 +54,9 @@ Demographic and profile data is also collected at our site. We use this data to 
 
 Advertisements, promotions and offers from third-party advertisers may be provided to you while you are visiting the eHarmony web site. If you choose to accept any such offers, eHarmony may provide your information, including billing information, to the advertiser. 
 
-When purchasing an eHarmony subscription, advertisements, promotions and offers from third-party advertisers may be provided to you.ï¿½ If you choose to accept any such offers, eHarmony will provide your information, including billing information, to the advertiser by pre-populating the offer registration forms.ï¿½ Your information will not be transferred until you actually accept the offer.ï¿½ You may opt-out of the offer at any time up until this point.ï¿½ Please refer to the third-party advertisers own privacy policy (provided on the offer pages) if you have any questions regarding how your information is used.
+When purchasing an eHarmony subscription, advertisements, promotions and offers from third-party advertisers may be provided to you. If you choose to accept any such offers, eHarmony will provide your information, including billing information, to the advertiser by pre-populating the offer registration forms. Your information will not be transferred until you actually accept the offer. You may opt-out of the offer at any time up until this point. Please refer to the third-party advertisers own privacy policy (provided on the offer pages) if you have any questions regarding how your information is used.
 
-Please be aware that these offers may be presented on pages framed by the eHarmony website.ï¿½ We do this to provide a seamless experience.ï¿½ Although these offer pages have the look and feel of our website, you will be submitting your information directly to the third-party advertiser.
+Please be aware that these offers may be presented on pages framed by the eHarmony website. We do this to provide a seamless experience. Although these offer pages have the look and feel of our website, you will be submitting your information directly to the third-party advertiser.
 
 As we develop our business, we may buy or sell assets and, depending on the transaction, your personally identifiable information may be one of the transferred assets. In the event that we are acquired by another company, your personal information may be part of the assets transferred to the acquiring party. If this occurs, you will be notified if there are any material changes to the way your personally identifiable information is collected or used.
 
@@ -80,7 +80,7 @@ Though we make every effort to preserve user privacy, we may disclose informatio
 
 **Age Restrictions**
 
-**eHarmony** will not create matches for anyone under the age of 20. All adults are welcome to explore the site, complete the Relationship Questionnaire and obtain a Personality Profile. As per the Children's Online Privacy Protection Act, any information we receive from people we believe to be minors will be purged from our database. 
+**eHarmony** will not create matches for anyone under the age of 18. All adults are welcome to explore the site, complete the Relationship Questionnaire and obtain a Personality Profile. As per the Children's Online Privacy Protection Act, any information we receive from people we believe to be minors will be purged from our database. 
 
 **Public Forums**
 
@@ -104,7 +104,7 @@ Though we make every effort to preserve user privacy, we may disclose informatio
 
 **eHarmony** users may use the following options for removing their information from our database if they do not wish to receive future communications. 
 
-1\. Send email to [usersupport@eHarmony.com](mailto:usersupport@eharmony.com) with the word "Remove" in the subject field; or
+1\. Go to our website [http://www.eharmony.com](http://www.eharmony.com/) and select our [help link](https://help-singles.eharmony.com/cgi-bin/eharmony_singles.cfg/php/enduser/guided_alp.php) at the bottom right portion of the page. You will then be able to search our [FAQ's](https://help-singles.eharmony.com/cgi-bin/eharmony_singles.cfg/php/enduser/guided_alp.php) to find the answer you are looking for or [send us an e-mail](https://help-singles.eharmony.com/cgi-bin/eharmony_singles.cfg/php/enduser/std_adp.php?p_faqid=378) and our Customer Care Agents will be happy to assist you; or
 
 2\. Send mail to the following postal address: 
 
@@ -120,7 +120,7 @@ You can also opt-out of receiving promotional emails and newsletters by clicking
 
 1\. Users may change their credit card, password and other information by going to My Matches page and selecting "My Account" link in the top navigation area; 
 
-2\. You can send email to [usersupport@eHarmony.com](mailto:usersupport@eharmony.com). 
+2\. You can go to our website [http://www.eharmony.com](http://www.eharmony.com/) and select our [help link](https://help-singles.eharmony.com/cgi-bin/eharmony_singles.cfg/php/enduser/guided_alp.php) at the bottom right portion of the page. You will then be able to search our [FAQ's](https://help-singles.eharmony.com/cgi-bin/eharmony_singles.cfg/php/enduser/guided_alp.php) to find the answer you are looking for or [send us an e-mail](https://help-singles.eharmony.com/cgi-bin/eharmony_singles.cfg/php/enduser/std_adp.php?p_faqid=378) and our Customer Care Agents will be happy to assist you; or
 
 3\. You can send mail to the following postal address: 
 
@@ -132,11 +132,10 @@ Pasadena, CA 91116 USA
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with the **eHarmony** website, you can contact: 
 
-Site Administrator   
-eHarmony   
-P.O. Box 60157   
-Pasadena, CA 91116 USA   
-[usersupport@eHarmony.com](mailto:usersupport@eharmony.com)
+Site Administrator  
+eHarmony  
+P.O. Box 60157  
+Pasadena, CA 91116 USA
 
 **Acceptance of Privacy Statement**
 
@@ -148,4 +147,4 @@ Your continued use of any portion of our website following posting of the update
 
 **Effective Date**
 
-This privacy policy was last revised on 05/09/2007.
+This privacy policy was last revised on 11/30/2007.
