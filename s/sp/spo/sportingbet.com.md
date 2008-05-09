@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingbet.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203152945id_/http%3A//www.sportingbet.com/t/info/faqs/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingbet.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509121655id_/http%3A//www.sportingbet.com/t/info/faqs/privacy.aspx) for the most accurate reproduction.*
 
 # Sportingbet.com - online sports betting, poker, casino and instant win games.
 
@@ -144,7 +144,7 @@ Close window
 Sportingbet no longer accepts any bets from the US. [Click here for more information.](https://web.archive.org/s/pdf/press_sbet.pdf)
 
 [Privacy Statement](http://www.sportingbet.com/t/info/faqs/privacy.aspx) | [Help](http://www.sportingbet.com/t/forms/contactUs.aspx)   
-© 2007 Internet Opportunity Entertainment (Sports) Limited and SB Alderney Limited. All rights reserved   
+© 2007 Internet Opportunity Entertainment (Sports) Limited and Interactive Sports (C.I.) Limited. All rights reserved   
 [Sportingbet](http://www.sportingbet.com/ "Sportingbet") Group - The World's Leading Online Gambling Company   
 [Sportingbet EU](http://www.sportingbet.com/t/sportingbet-eu.aspx "Sportingbet Europe sites")
 
@@ -152,5 +152,5 @@ Sportingbet no longer accepts any bets from the US. [Click here for more informa
 
 Warning: Gambling involves risk. By gambling on this website, you run the risk that you may lose money or suffer psychological injuries. You gamble at your own risk. 
 
-Minimum Browser requirements: [FireFox](http://www.mozilla.com/firefox/) v1 or IE Explorer v5.5, [Flash player 8](http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash) and JavaScript enabled   
+Minimum Browser requirements: [FireFox](http://www.mozilla.com/firefox/) v2 or IE Explorer v6.0, [Flash player 8](http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash) and JavaScript enabled   
 Sportsbook members must be 18 or over 
