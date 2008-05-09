@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylot.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219001105id_/http%3A//www.mylot.com/o/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylot.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509070636id_/http%3A//www.mylot.com/o/privacy.aspx) for the most accurate reproduction.*
 
 # myLot - Privacy Policy
 
@@ -72,13 +72,13 @@ Information we collect
   * Except for information sent through Toolbar for use with a separate myLot Account-based service, we do not associate any of the information that Toolbar sends with other personal information about you. However, it is possible that a URL or other page information sent to myLot may itself contain personal information. 
 
   
-Uses
+Uses 
 
   * We process your requests in order to operate the myLot Toolbar. 
   * In addition, we use log information about aggregate Toolbar usage to improve the quality of Toolbar and other myLot services. 
 
   
-Information security
+Information security 
 
   * Any information sent to myLot will be maintained in accordance with the myLot Privacy Policy
 
