@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingwire.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218192257id_/http%3A//www.weddingwire.com/shared/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingwire.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509135312id_/http%3A//www.weddingwire.com/shared/PrivacyPolicy) for the most accurate reproduction.*
 
 # WeddingWire - Privacy Policy - Wedding Venues, Wedding Cakes, Dresses, Invitations, Planning, Advice for Perfect Weddings!
 
@@ -9,7 +9,9 @@ WeddingWire, Inc. ("Company", "us" or "we") respects the privacy of the visitors
 
 This Privacy Policy applies to ALL users, including those just visiting this Site("Users"). 
 
-"Personal Information" is information about you that is personally identifiable to you, like your name, address, email address or phone number, as well as other non-public information that is associated with the foregoing. "Automatically Gathered Information" is information we collect as you visit our site. See "Automatically Gathered Information" below for more information. "Anonymous Information" means information that is not associated with or linked to your Personal Information. See "Anonymous Information" below for more information. **CONSENT**  
+"Personal Information" is information about you that is personally identifiable to you, like your name, address, email address or phone number, as well as other non-public information that is associated with the foregoing. "Automatically Gathered Information" is information we collect as you visit our site. See "Automatically Gathered Information" below for more information. "Anonymous Information" means information that is not associated with or linked to your Personal Information. See "Anonymous Information" below for more information. 
+
+**CONSENT**  
 **By using the Site, you agree to the terms of this Privacy Policy, and you expressly consent to the processing of your Personal Information according to this Privacy Policy by us or by third parties with whom we have a relationship. Your Personal Information may be processed by WeddingWire in the country where it was collected, as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.**
 
 **NOTIFICATION OF CHANGES**  
