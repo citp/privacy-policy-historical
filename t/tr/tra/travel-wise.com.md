@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travel-wise.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102051019id_/http%3A//www.travel-wise.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel-wise.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509190935id_/http%3A//www.travel-wise.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ TravelWise reserves the right to use this information provided by you for:
 
 
 
-Although, it is important to note that TravelWise reserves the right to change or modify this policy at any time with or without notice. If you have any questions regarding the use of your information or about this policy, please feel free to contact us at [contact us](mailto:info@travel-wise.com?subject=Policy%20inquiry%20on%20TravelWise).
+Although, it is important to note that TravelWise reserves the right to change or modify this policy at any time with or without notice. If you have any questions regarding the use of your information or about this policy, please feel free to contact us at [contact us](mailto:info@kidica.com?subject=Policy%20inquiry%20on%20TravelWise).
 
 TravelWise may also share your information with its affiliates, partners' advertisers, service providers, and any other entities that we believe are able to provide you with special opportunities and offers. TravelWise may in the future use your information for additional purposes not currently included in this policy.
 
@@ -45,14 +45,4 @@ TravelWise may contain links to other sites. We are not responsible for the priv
 
 You may opt-out of receiving communications from us, our affiliates, and/or third parties by not submitting your information. We also allow you to remove your information from our database by responding to any of our email communications with "remove" in the subject line. If you remove your information from our database, it will no longer be used by us for secondary purposes or disclosed to third parties. TravelWise takes your privacy seriously and we do not tolerate spam.
 
-### Transfer, Sale, or Assign: 
-
-At its sole discretion, TravelWise may transfer, sell, and/or assign information collected on and through this site, including but not limited to, the users personal information collected, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation of TravelWise.
-
-### Change in Policy:
-
-We reserve the right to change this policy at any time. Depending on the nature of the change, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site.
-
-### Effective September 25, 2007.
-
-Additionally, TravelWise may disclose your information if required to do so by law or in the good faith belief that such action is necessary to: (a) comply with the applicable laws; (b) protect and defend the rights and/or property of TravelWise and its family of websites; and (c) comply with the valid legal process.
+<
