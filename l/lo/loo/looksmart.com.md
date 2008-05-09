@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222222053id_/http%3A//www.looksmart.com/about-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509162703id_/http%3A//www.looksmart.com/about-privacy-policy.html) for the most accurate reproduction.*
 
 # LookSmart - About Us - Privacy Policy
 
 Privacy Policy
 
-LookSmart, a service of LookSmart, Ltd., has created this privacy statement to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the [www.LookSmart.com](https://web.archive.org/web/20071222222053id_/http%3A//www.looksmart.com/index.html) site.
+LookSmart, a service of LookSmart, Ltd., has created this privacy statement to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the [www.LookSmart.com](https://web.archive.org/web/20080509162703id_/http%3A//www.looksmart.com/index.html) site.
 
 The following questions are answered below:
 
