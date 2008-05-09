@@ -1,308 +1,183 @@
-<!--The following is the downloaded HTML source of the gortons.com privacy policy that was archived on 2007-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225010743id_/http%3A//www.gortons.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gortons.com privacy policy that was archived on 2008-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509062235id_/http%3A//gortons.com/privacy_policy.htm) for the most accurate reproduction.-->
 
-<html><head>
-<title>
-Gorton's Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="/includes/css/win_ie.css">
-<script language="javascript" src="/__utm.js"></script>
-<script language="JavaScript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+		<title>Gorton's, Trusted Since 1849&nbsp;:&nbsp;Privacy Policy&nbsp;:&nbsp;Privacy Policy</title>
+		<meta http-equiv="content-type" content="text/html;">
+		<meta name="description" content="Trust the Gorton's Fisherman : Product information, recipes, tips, and special offers - Trusted Since 1849 to deliver quick, delicious and healthy dinner solutions for your family.">
+		<meta name="keywords" content="Gortons,Fisherman,gorton's,frozen,fish,seafood,tilapia,fish sticks,grilled fillets,tenders,bowls,shrimp,,salmon,sticks,fillets,family,quick,healthy,recipes,feedback,products,recipe,tips,cookbook,log,gloucester">
+		<link rel="shortcut icon" href="favicon.ico">
+		<link rel="stylesheet" type="text/css" href="_styles/base.css">
+		<link rel="stylesheet" type="text/css" href="_styles/default.css">
+		<!--[if !IE 7]><link rel="stylesheet" type="text/css" href="_styles/ieWin.css"><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" type="text/css" href="_styles/ie7Win.css"><![endif]-->
+		<style type="text/css">@import("_styles/ieMac.css");</style>
+		<link rel="stylesheet" type="text/css" media="print" href="_styles/print.css">
+        <script language="javascript">
+			function checkPostcardForm() {
+				
+				var error = "";
+				
+				if (document.getElementById('mb-name').value.length < 1) {
+					error = error + "Please enter your name.\n";
+				} // end of if
+				if (document.getElementById('mb-ihkkl-ihkkl').value.length < 1) {
+					error = error + "Please enter your email address.\n";
+				} // end of if
+				else if (document.getElementById('mb-ihkkl-ihkkl').value.length > 0) {
+					validRegExp = /^[^@]+@[^@]+.[a-z]{2,}$/i;
+					strEmail = document.getElementById('mb-ihkkl-ihkkl').value;
+					// search email text for regular exp matches
+					if (strEmail.search(validRegExp) == -1) {
+						error = error + "The entered email address appears to be invalid.\n";
+					} // end of if 
+				} // end of else if - check for valid email address
+				
+				if (error.length > 0) {
+					error = "The following errors were found with your form:\n\n" + error;
+					alert (error);
+					return false;
+				} // end of if
+				
+			} // end of checkPostcardForm function
+			function checkSearchForm() {
+				if (document.getElementById('SearchKeyword').value == "") {
+					alert ('Please enter a term to search for.');
+					return false;
+				} // end of if
+				
+			} // end of checkSearchForm function
+		</script>
+								
+	</head>
+	
+	<body class="PrivacyPolicy">
+		<div id="wrapper">
+			<div id="left_col">
+				
+				<div id="logo_shadow">
+					<!--<div><a href="index.php"><img src="_images/logo.gif" id="logo" alt="Company" height="77" width="240" /></a></div>-->
+					<div><a href="index.php" class="logo_slide"></a></div>
+				</div>
+				
+				<div id="left_nav_shadow">
+					<ul id="left_nav">
+    <li><a href="our_products.htm" class="Products"><span>Products</span></a></li>
+    <li><a href="recipes.htm" class="Recipes"><span>Recipes</span></a></li>
+    <li><a href="fishermans_log.php" class="Fishermans"><span>Fisherman's Log</span></a></li>
+    <li><a href="why_eat_seafood.htm" class="Why"><span>Why Eat Seafood?</span></a></li>
+    <li><a href="glimpse_of_gloucester.php" class="Glimpse"><span>Glimpse of Gloucester</span></a></li>
+    <li><a href="coupons_promotions.htm" class="Coupons"><span>Coupons &amp; Promotions</span></a></li>
+</ul>				</div>
+				<div id="postcard_shadow">
+					<div id="postcard">
+					                    <form action="postcard_signup.php" method="post" onsubmit="return checkPostcardForm();">
+						<div><label for="mb-name">Name:</label><input type="text" name="mb-name" id="mb-name"></div>
+						<div><label for="mb-ihkkl-ihkkl">Email:</label><input type="text" name="mb-ihkkl-ihkkl" id="mb-ihkkl-ihkkl"></div>
+						<div><input type="image" src="_images/submit.gif" value="Submit" alt="Submit" class="SubmitButton"></div>
+					</form>
+					<img src="_images/postcard_text.gif" width="154" height="34" alt="Postcard Text" class="PostcardText">
+                    					</div>
+				</div>			
+			</div>
 
+			<div id="right_col">
+				<div id="sign_in">                    <a href="sign_up.php">sign up</a> or <a href="sign_up.php">log in</a>
+                </div>
+				<div id="search">
+					<form action="search_results.php" method="post" onsubmit="return checkSearchForm();">
+						<input name="SearchKeyword" id="SearchKeyword" value="" size="" maxlength="30" type="text" class="SearchInput">
+						<div class="SearchButton"><input type="image" src="_images/search.gif" value="Submit" alt="Search"></div>
+					</form>
+				</div>
+				<ul id="top_nav">
+					<li><a href="/" class="TopHome"><span>Home</span></a></li>
+					<li><a href="about_gortons.htm" class="TopAbout"><span>About Gorton's</span></a></li>
+					<li><a href="http://www.gortonsfreshseafood.com/?source=gortonsretail_topnav" target="_blank" class="TopBuy"><span>Buy Fresh Seafood</span></a></li>
+					<li><a href="quality_standards.htm" class="TopQuality"><span>Quality Standards</span></a></li>
+<!--				<li><a href="quality_standards.htm" class="TopRecall"><span>Product Recall</span></a></li>-->
+					<li><a href="contact.php" class="TopContact"><span>Contact us</span></a></li>
+				</ul>
+				
+<div id="content">
+	        <div id="template_header" style="background-image: url('_images/PrivacyPolicy_header.jpg');"></div>
+        <div id="template_page_content">
+            <p><a name="top"></a></p>
+<p>The web site you have entered is operated by Gorton's, Inc. Gorton's is committed to protecting your personal privacy. This Privacy Policy outlines the type of information that is collected by Gorton's on this web site and information collected by Gorton's offline, such as when you enter a Gorton's sweepstakes, contest or promotion, and how we use and protect that information. This Policy also tells you what to do if you do not want your Personal Information collected when you visit our web site, and how you can change information you have already provided to us. This Policy applies only to the Gorton's web site and to information Gorton's collects offline. For example, it does not apply to banners, sweepstakes and other advertisements or promotions we may sponsor or participate in on web sites owned by third parties. If you are shopping for fresh seafood, please visit www.gortonsfreshseafood.com <a href="http://www.gortonsfreshseafood.com">http://www.gortonsfreshseafood.com</a> and review their Privacy Policy.</p>
+<ul>
+    <li><a href="#consent">Your Consent</a></li>
+    <li><a href="#collection">Collection of Personal Information</a></li>
+    <li><a href="#use">How We Use Your Information</a></li>
+    <li><a href="#otherinfo">Other Information We May Collect On Our Site</a></li>
+    <li><a href="#children">Children</a></li>
+    <li><a href="#security">Security of Information</a></li>
+    <li><a href="#changes">Changes in Our Policy</a></li>
+    <li><a href="#contact">Who to Contact</a></li>
+</ul>
+<h4><a name="consent"></a>Your Consent to this Privacy Policy</h4>
+<p>By using our web site or entering into a Gorton's sweepstakes, contest or promotion, you signify that you agree with the terms of our current Privacy Policy as posted in this area of the site. If you do not agree with any term in this Policy, please do not provide any Personal Information (defined below) on this site or in any Gorton's sweepstakes, contest or promotion.</p>
+<p>If you choose not to provide Personal Information on this site or offline, you may not be able to do certain things, like access particular areas of the site, enter a sweepstakes or contest, or send us e-mail.</p>
+<p><a href="#top">^ back to top</a></p>
+<h4><a name="collection"></a>Collection of Personal Information</h4>
+<p>As used in this Privacy Policy, "Personal Information" means personally identifiable information such as your name, street address, telephone number, screen name and email address. The site you entered may collect some or all of these types of Personal Information. Please be assured that Gorton's will not collect any Personal Information from your visits to our sites, or otherwise, unless you provide this information voluntarily.</p>
+<p>When you provide us with Personal Information, you are authorizing us to use that information in accordance with the terms of this Privacy Policy, which includes your right to limit our use of the Personal Information as described in this Policy (see "Who to Contact" below). The site you entered may also collect Personal Information from you about a third party. Please note that we use such information only for the specified purpose and we will not contact the third party again by e-mail unless and until the third party contacts us.</p>
+<p><a href="#top">^ back to top</a></p>
+<h4><a name="use"></a>How We Use Your Information</h4>
+<p>When you supply Personal Information at this web site or offline, it will be used for the express purpose for which it was collected (e.g., to enter you in a sweepstakes). It may also be used, with your consent, to contact you regarding other products, or Gorton's related information, which may be of interest to you. At any time, however, you may opt out of such future contact. (See "Who to Contact" below.)</p>
+<p>In the course of doing business, we employ other companies and individuals to perform a variety of functions on our behalf. For example, we hire agencies to help administer consumer promotions, to analyze data, to fulfill orders you place, and to provide customer service. These agents may have access to personal information if it is needed to perform their functions for Gorton's; however, they are prohibited from using it for other purposes and they are required to maintain the information in confidence.</p>
+<p>We will not sell, trade, rent or give individually identifying information to third parties. At times we may provide Personal Information and aggregate statistics about our visitors, database entries, web traffic patterns, and related site information we collect on our web site to selected vendors or third parties to analyze solely to help us improve our products and our web sites. Finally, please note that we will release your Personal Information if required to do so by law, or by search warrant, subpoena or court order.</p>
+<p><a href="#top">^ back to top</a></p>
+<h4><a name="otherinfo"></a>Other Information We May Collect On Our Site</h4>
+<p>You may have heard of "cookies," which are files or pieces of information that are stored by your browser on your computer's hard drive. Gorton's may use cookies to collect other information during your visit to our web site, such as the particular site areas you visit and the products or services you buy through our web site. We collect this information to better tailor our site and our products to your interests and needs. Cookies may also be used to help speed up your future activities at our sites. For example, a site can recognize that you have provided Personal Information to us and refrain from requesting the same information a second time.</p>
+<p>Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. Refusal of cookies at the site you entered may result in an inability to visit certain areas of the site or to receive personalized information when you visit the site.</p>
+<p>In addition, we are constantly trying to improve how we promote our web sites. To help us do this, we may measure the effectiveness of our web presence by determining what you clicked on to get to our site.</p>
+<p>Site measurement statistics may be used to personalize your web site experience, as well as to evaluate - anonymously and in the aggregate - statistics about usage of the web site. Information about your computer, such as your IP address (a number assigned to your computer whenever you surf the Internet), the type of Internet browser you are using and the type of computer operating system you are using may also be collected and linked to your Personal Information. This is to ensure that our web sites present the best web experience for visitors, and that they are an effective information resource.</p>
+<p>Some of the pages you visit may also collect information through the use of pixel tags (also called clear gifs) that may be shared with third parties which directly support Gorton's promotional activities and web site development. The information collected through the use of these pixel tags is not, however, personally identifiable, although it could be linked to your Personal Information.</p>
+<p>Finally, we may supplement the information that you provide us with other information that we receive from third parties. We do this for marketing purposes in order to provide more targeted products and services to meet your needs.</p>
+<p><a href="#top">^ back to top</a></p>
+<h4><a name="children"></a>Children</h4>
+<p>At the Gorton's website, users are told that they must be 13 years or older before sending Personal Information. Users under age 13 should not submit any Personal Information to us.</p>
+<p><a href="#top">^ back to top</a></p>
+<h4><a name="security"></a>Security of Information</h4>
+<p>We take reasonable precautions to keep your Personal Information secure. All personally identifiable information is subject to restricted access to prevent unauthorized access, modification or misuse.</p>
+<p><a href="#top">^ back to top</a></p>
+<h4><a name="changes"></a>Changes in Our Policy</h4>
+<p>Gorton's reserves the right to change or remove this Privacy Policy at our discretion. We will post any new policy here and we encourage you to visit this area frequently to stay informed.</p>
+<p><a href="#top">^ back to top</a></p>
+<h4><a name="contact"></a>Who to Contact</h4>
+<p>Please write to us at <a href="mailto:info@gortons.com">info@gortons.com</a> or call us at 1-800-222-6846 if you have any comments or questions about this Privacy Policy or to report any violations of the Privacy Policy. We will respond to you within 24 to 48 hours in most cases.</p>
+<p>If you don't want to be contacted in the future or would like us to correct or update your Personal Information in our records, please email us with your request at <a href="mailto:info@gortons.com">info@gortons.com</a>.</p>
+<p><a href="#top">^ back to top</a></p>
 
-	<!--
+        </div>
+    </div>
 
-
-	function openWindow(windowURL,windowName,windowWidth,windowHeight) {
-
-
-	  window.name = 'parentWnd';
-
-	  newWindow = window.open(windowURL,windowName,'width='+windowWidth+',height='+windowHeight+',toolbar=0,location=0,directories=0,status=0,menuBar=0,scrollBars=1,resizable=1');
-
-	  newWindow.focus();
-
-	}
-
-
-	//-->
-
-
-	</script>
-</head>
-<body bgcolor="#FFEF00" background="/images/template/background.gif"><center>
-<table width="700" border="0" cellspacing="0" cellpadding="0">
-  <form method="post" action="/search/search.php"></form>
-    <tbody><tr>
-      <td width="250" rowspan="2" align="center" valign="bottom"><a href="/"><img src="/images/template/gortons2.gif" width="250" height="79" border="0" alt="Gorton's helping provide a healthy diet, with great fish products, fish cooking ideas, and easy to make fish recipes"></a></td>
-      <td align="center" valign="bottom"><table border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td><input type="text" class="input12" name="q" size="12" maxlength="500">
-            </td>
-            <td><input type="image" src="/images/buttons/search.gif" width="50" height="19" hspace="3" align="absbottom" value="search" name="search" border="0">
-            </td>
-          </tr>
-        </tbody></table>
-        <input type="hidden" name="ul" value="">
-        <input type="hidden" name="ps" value="20">
-        <input type="hidden" name="np" value="0">
-      </td>
-      <td rowspan="2" nowrap="" valign="bottom" width="214"><table width="280" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td align="left" valign="top" nowrap=""><a href="/about/sitemap.php" class="blacksmall">Site Map</a> | <a href="/about/" class="blacksmall">About Us</a> | <a href="/about/careers.php" class="blacksmall">Employment</a></td>
-            <td align="left" valign="top" nowrap=""><a href="http://www.gortonsfreshseafood.com/?source=gortonsretail=topnav"><img src="/images/template/gfs-logo-sm.gif" alt="Buy Fresh Seafood Online" width="82" height="44" vspace="5" border="0"></a></td>
-          </tr>
-        </tbody></table>
-        <img src="/images/template/nav-right.gif" width="279" height="41" border="0" usemap="#Map2"></td>
-    </tr>
-    <tr>
-      <td valign="bottom" align="right"><img src="/images/template/nav-left.gif" width="214" height="41" border="0" usemap="#Map"></td>
-    </tr>
-  
-</tbody></table>
-<table width="771" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-  <td width="13">&nbsp;</td>
-  <td bgcolor="#FFFEC8" background="/images/template/subnav_bg.gif" style="padding-left: 13px" width="182" valign="top" align="center"><br>
-    <br>
-    <p>
-            <br>
-                </p>
-    <p><br>
-    </p><form method="POST" action="/recipes/search_recipe.php" name="searchRecipe">
-      <img src="/images/template/subnav_recipesearch.gif" width="92" height="10" vspace="3"><br>
-      <input type="text" name="search" size="8" class="input8">
-      <input type="image" src="/images/buttons/go.gif" border="0" width="27" height="19" align="absmiddle" hspace="3" alt="search for recipes">
-    </form>
-    <p></p>
-       <p>
-    <table width="140" border="0" cellspacing="0" cellpadding="0" background="/images/template/subscribeto_bg.gif">
-      <form method="post" action="/email.php"></form>
-        <input type="hidden" name="sentfrom" value="side_sign">
-        <tbody><tr>
-          <td height="123" align="center" valign="bottom"><img src="/images/colors/clear.gif" width="130" height="33" vspace="5" alt="Subscribe to our email newsletter:"><br>
-            <input type="text" name="name" size="7" value="first name" class="input7" style="margin-bottom: 3px" onfocus="if(this.value=='first name')this.value='';" onblur="if(this.value=='')this.value='first name';">
-            <br>
-            <input type="text" name="email" size="7" value="email address" class="input7" onfocus="if(this.value=='email address')this.value='';" onblur="if(this.value=='')this.value='email address';">
-            <br>
-            <input type="image" src="/images/colors/clear.gif" width="90" height="22" vspace="5" border="0" alt="Subscribe to Gorton's Email Newsletter">
-          </td>
-        </tr>
-      
-    </tbody></table>
-        <br>
-    <a href="http://www.gortonsfreshseafood.com/?=gortonretail=leftnav" style="margin-top:3px "><img src="/images/template/buy-fresh-gfs.jpg" border="0" alt="Buy Fresh Seafood Online"></a> </p></td>
-  <td rowspan="2" bgcolor="#FFFEC8" valign="top" width="563" style="padding-right: 13px"><map name="Map">
-      <area shape="rect" coords="0,-8,52,34" href="/">
-      <area shape="rect" coords="51,-4,114,34" href="/recipes/">
-      <area shape="rect" coords="114,-4,183,34" href="/promotions/">
-      <area shape="rect" coords="184,-6,231,34" href="/cookbook/">
-    </map>
-    <map name="Map2">
-      <area shape="rect" coords="-10,-4,41,34" href="/cookbook/">
-      <area shape="rect" coords="40,-5,112,34" href="/products/">
-      <area shape="rect" coords="198,0,279,35" href="http://www.gortonsfreshseafood.com/?source=gortonsretail=topnav" target="_blank">
-      <area shape="rect" coords="112,-3,198,35" href="/contact/">
-    </map>
-<br>
-<br>
-	<h1>Gorton's Privacy Policy</h1>
-
-
-	<p>The web site you have entered is operated by Gorton's, Inc.
-	Gorton's is committed to protecting your personal privacy. This Privacy Policy outlines the type of information that is collected by Gorton's on this web site and information collected by Gorton's offline, such as when you enter a Gorton's sweepstakes, contest or promotion, and how we use and protect that information. This Policy also tells you what to do if you do not want your Personal Information collected when you visit our web site, and how you can change information you have already provided to us. This Policy applies only to the Gorton's web site and to information Gorton's collects offline. For example, it does not apply to banners, sweepstakes and other advertisements or promotions we may sponsor or participate in on web sites owned by third parties.
-	</p><p>
-	</p><ul>
-		<li><a href="#consent">Your Consent</a></li>
-		<li><a href="#collection">Collection of Personal Information</a></li>
-		<li><a href="#use">How We Use Your Information</a></li>
-		<li><a href="#other_info">Other Information We May Collect On Our Site</a></li>
-		<li><a href="#children">Children</a></li>
-		<li><a href="#security">Security of Information</a></li>
-		<li><a href="#changes">Changes in Our Policy</a></li>
-		<li><a href="#contact">Who to Contact</a></li>
-	</ul>
-
-	<a name="consent"></a>
-
-	<p>
-	<b>Your Consent to this Privacy Policy</b><br>
-	By using our web site or entering into a Gorton's sweepstakes, contest or promotion, you signify that you agree with the terms of our current Privacy Policy as posted in this area of the site. If you do not agree with any term in this Policy, please do not provide any Personal Information (defined below) on this site or in any Gorton's sweepstakes, contest or promotion.
-	</p><p>
-	If you choose not to provide Personal Information on this site or offline, you may not be able to do certain things, like access particular areas of the site, enter a sweepstakes or contest, or send us e-mail.
-	<a name="collection"></a>
-	</p><p align="right"><a href="#top">(back to top)</a></p>
-	<p>
-	<b>Collection of Personal Information</b><br>
-	As used in this Privacy Policy, "Personal Information" means personally identifiable information such as your name, street address, telephone number, screen name and email address. The site you entered may collect some or all of these types of Personal Information. Please be assured that Gorton's will not collect any Personal Information from your visits to our sites, or otherwise, unless you provide this information voluntarily.
-	</p><p>
-	When you provide us with Personal Information, you are authorizing us to use that information in accordance with the terms of this Privacy Policy, which includes your right to limit our use of the Personal Information as described in this Policy (see "Who to Contact" below).
-	The site you entered may also collect Personal Information from you about a third party. Please note that we use such information only for the specified purpose and we will not contact the third party again by e-mail unless and until the third party contacts us.
-	<a name="use"></a>
-	</p><p align="right"><a href="#top">(back to top)</a></p>
-	<p>
-	<b>How We Use Your Information</b><br>
-	When you supply Personal Information at this web site or offline, it will be used for the express purpose for which it was collected (e.g., to enter you in a sweepstakes). It may also be used, with your consent, to contact you regarding other products, or Gorton's related information, which may be of interest to you. At any time, however, you may opt out of such future contact. (See "<a href="#contact">Who to Contact</a>" below.)    
-	</p><p> In the course of doing business, we employ other companies and individuals to perform a variety of functions on our behalf. For example, we hire agencies to help administer consumer promotions, to analyze data, to fulfill orders you place, and to provide customer service. These agents may have access to personal information if it is needed to perform their functions for Gorton's; however, they are prohibited from using it for other purposes and they are required to maintain the information in confidence.	  </p><p>
-	We will not sell, trade, rent or give individually identifying information to third parties. At times we may provide Personal Information and aggregate statistics about our visitors, database entries, web traffic patterns, and related site information we collect on our web site to selected vendors or third parties to analyze solely to help us improve our products and our web sites. Finally, please note that we will release your Personal Information if required to do so by law, or by search warrant, subpoena or court order.
-	<a name="other_info"></a>
-	</p><p align="right"><a href="#top">(back to top)</a></p>
-	<p>
-	<b>Other Information We May Collect On Our Site</b><br>
-	You may have heard of "cookies," which are files or pieces of information that are stored by your browser on your computer's hard drive. Gorton's may use cookies to collect other information during your visit to our web site, such as the particular site areas you visit and the products or services you buy through our web site. We collect this information to better tailor our site and our products to your interests and needs. Cookies may also be used to help speed up your future activities at our sites. For example, a site can recognize that you have provided Personal Information to us and refrain from requesting the same information a second time.
-	</p><p>
-	Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. Refusal of cookies at the site you entered may result in an inability to visit certain areas of the site or to receive personalized information when you visit the site.
-	</p><p>
-	In addition, we are constantly trying to improve how we promote our web sites. To help us do this, we may measure the effectiveness of our web presence by determining what you clicked on to get to our site.
-	</p><p>
-	Site measurement statistics may be used to personalize your web site experience, as well as to evaluate - anonymously and in the aggregate - statistics about usage of the web site. Information about your computer, such as your IP address (a number assigned to your computer whenever you surf the Internet), the type of Internet browser you are using and the type of computer operating system you are using may also be collected and linked to your Personal Information. This is to ensure that our web sites present the best web experience for visitors, and that they are an effective information resource.
-	</p><p>
-	Some of the pages you visit may also collect information through the use of pixel tags (also called clear gifs) that may be shared with third parties which directly support Gorton's promotional activities and web site development. The information collected through the use of these pixel tags is not, however, personally identifiable, although it could be linked to your Personal Information.
-	</p><p>
-	Finally, we may supplement the information that you provide us with other information that we receive from third parties. We do this for marketing purposes in order to provide more targeted products and services to meet your needs.
-	<a name="children"></a>
-	</p><p align="right"><a href="#top">(back to top)</a></p>
-	<p>
-	<b>Children</b><br>
-	At the Gorton's website, users are told that they must be 13 years or older before sending Personal Information. Users under age 13 should not submit any Personal Information to us.
-	<a name="security"></a>
-	</p><p align="right"><a href="#top">(back to top)</a></p>
-	<p>
-	<b>Security of Information</b><br>
-	We take reasonable precautions to keep your Personal Information secure. All personally identifiable information is subject to restricted access to prevent unauthorized access, modification or misuse.
-	<a name="changes"></a>
-	</p><p align="right"><a href="#top">(back to top)</a></p>
-	<p>
-	<b>Changes in Our Policy</b><br>
-	Gorton's reserves the right to change or remove this Privacy Policy at our discretion. We will post any new policy here and we encourage you to visit this area frequently to stay informed.
-	<a name="contact"></a>
-	</p><p align="right"><a href="#top">(back to top)</a></p>
-	<p>
-	<b>Who to Contact</b><br>
-	Please write to us at gortons.info@gortons.com or call us at 1-800-222-6846 if you have any comments or questions about this Privacy Policy or to report any violations of the Privacy Policy. We will respond to you within 24 to 48 hours in most cases. For other requests, please choose among the following options:
-	</p><p>
-	If you don't want to be contacted in the future or would like us to correct or update your Personal Information in our records, please click the appropriate link below:<br>
-			<b>Email us:</b> <a href="mailto:info@gortons.com">info@gortons.com</a>
-
-	</p><p align="right"><a href="#top">(back to top)</a></p>
-
-</td>
-    <td width="13">&nbsp;</td>
-  </tr>
-  <tr>
-    <td width="13" valign="bottom" align="right">
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-    </td>
-    <td width="182" bgcolor="#FFFEC8" rowspan="2" background="/images/template/subnav_bg.gif" valign="bottom"><img src="/images/template/fisherman.gif" width="182" height="163"></td>
-    <td width="13" height="73">&nbsp;</td>
-  </tr>
-  <tr>
-    <td width="13" valign="bottom" align="right"><img src="/images/template/fisherman_hand.gif" width="13" height="37"></td>
-    <td width="563" valign="bottom" bgcolor="#FFFEC8">
-      <table width="563" border="0" cellspacing="0" cellpadding="0">
-      	<form name="selurl" method="post"></form>
-      	<tbody><tr>
-      		<td width="19"><img src="/images/template/fisherman_shoulder.gif" width="19" height="58"></td>
-            <td width="544">
-              <table width="97%" border="0" cellspacing="0" cellpadding="0" background="/images/template/dash_hor_bg.gif">
-                <tbody><tr>
-                  <td><img src="/images/colors/clear.gif" width="1" height="1"></td>
-                </tr>
-              </tbody></table>
-              	                &nbsp;&nbsp;&nbsp;
-                <select name="choice" size="1">
-                <option value="/products/">Choose a Product</option>
-                <option value="/products/">New Products:</option>
-				<option value="/products/shrimp_bowl.php">&nbsp;&nbsp;Shrimp Bowls:</option>
-				<option value="/products/shrimp_bowl_fried_rice.php">&nbsp;&nbsp;&nbsp;Fried Rice</option>
-				<option value="/products/shrimp_bowl_primavera.php">&nbsp;&nbsp;&nbsp;Primavera</option>
-				<option value="/products/shrimp_bowl_garlic.php">&nbsp;&nbsp;&nbsp;Garlic Butter</option>
-				<option value="/products/shrimp_bowl_alfredo.php">&nbsp;&nbsp;&nbsp;Alfredo</option>
-				<option value="/products/shrimp_bowl_teriyaki.php">&nbsp;&nbsp;&nbsp;Teriyaki</option>
-				<option value="/products/newindex.php">Tenders:</option>
-                <option value="/products/orig_batter_tnd.php">&nbsp;&nbsp;&nbsp;&nbsp;Original
-                Batter</option>
-                <option value="/products/xcrunch_tnd.php">&nbsp;&nbsp;&nbsp;&nbsp;Extra
-                Crunchy </option>
-
-				<option value="/products/grillindex.php">Grilled Fillets:
-                </option><option value="/products/cajun.php">&nbsp;&nbsp;Cajun Blackened
-                </option><option value="/products/caesar_grill.php">&nbsp;&nbsp;Caesar
-                Parmesan</option>
-                <option value="/products/classic_char.php">&nbsp;&nbsp;Classic
-                Char-Grill</option>
-                <option value="/products/gar_butter_fill.php">&nbsp;&nbsp;Garlic
-                Butter
-                </option><option value="/products/ital_herb_grill.php">&nbsp;&nbsp;Italian
-                Herb</option>
-                <option value="/products/lem_butter_grill.php">&nbsp;&nbsp;Lemon
-                Butter</option>
-                <option value="/products/lemon_pep_grill.php">&nbsp;&nbsp;Lemon
-                Pepper</option>
-                <option value="/products/grilledsalmon.php">&nbsp;&nbsp;Salmon:
-                Char Grilled</option>
-                <option value="/products/grilledsalmon.php">&nbsp;&nbsp;Salmon:
-                Lemon Butter</option>
-				<option value="/products/fsindex.php">Fish Sticks:
-                </option><option value="/products/12fishsticks.php">&nbsp;&nbsp;Fish Sticks
-                </option><option value="/products/minifishsticks.php">&nbsp;&nbsp;Mini
-                Fish Sticks</option>
-				<option value="/products/fillindex.php">Traditional Fillets:
-                </option><option value="/products/cgolden_batterfill.php">&nbsp;&nbsp;Crunchy
-                Golden</option>
-                <option value="/products/crisp_batter_fill.php">&nbsp;&nbsp;Crispy
-                Battered</option>
-				<option value="/products/flavorindex.php"> Flavor Fillets:
-                </option><option value="/products/garlic_herb.php">&nbsp;&nbsp;Garlic
-                Herb</option>
-                <option value="/products/lemon_pep.php">&nbsp;&nbsp;Lemon Pepper
-                </option><option value="/products/parmesan.php">&nbsp;&nbsp;Parmesan
-                </option><option value="/products/ranch.php">&nbsp;&nbsp;Ranch
-                </option><option value="/products/southern.php">&nbsp;&nbsp;Southern Fried
-				</option><option value="/products/shrimpindex.php">Popcorn Shrimp:
-                </option><option value="/products/popcorn.php">&nbsp;&nbsp;Popcorn Shrimp
-                </option><option value="/products/popcorn_gherb.php">&nbsp;&nbsp;Garlic
-                &amp; Herb</option>
-			</select>
-              <input type="button" onclick="location = '' +
-document.selurl.choice.options[document.selurl.choice.selectedIndex ].value;" value="Go">
-					</td>
-        </tr>
-        <tr>
-            <td colspan="2"><a href="/about/"><img src="/images/template/moreaboutgortons.gif" width="331" height="34" border="0" alt="More about the Gorton's Fisherman and Gloucester"></a></td>
-        </tr>
-        
-      </tbody></table>
-    </td>
-    <td width="13"><img src="/images/colors/clear.gif" width="13" height="13"></td>
-  </tr>
-</tbody></table>
-  <table width="745" border="0" cellspacing="0" cellpadding="0" bgcolor="#2776A5">
-  <tbody><tr>
-    <td><img src="/images/colors/clear.gif" width="1" height="1"></td>
-  </tr>
-</tbody></table>
-  <table width="745" border="0" cellspacing="0" cellpadding="0" bgcolor="#3092CC">
-    <tbody><tr>
-      <td width="12"><img src="/images/template/base_left.gif" width="2" height="24"></td>
-      <td class="whitesmall">© 2007 Gorton's. All rights reserved. </td>
-      <td align="right"><a href="/privacy.php" class="whitesmall">Privacy Policy</a><span class="whitesmall"> | </span><a href="/legal.php" class="whitesmall">Legal Statement</a><span class="whitesmall"> | </span><a href="http://www.netconcepts.com" target="_blank" class="whitesmall">Website Design by Netconcepts</a></td>
-      <td width="8" align="right"><img src="/images/template/base_right.gif" width="2" height="24"></td>
-    </tr>
-  </tbody></table><br>
-</center>
-<map name="MapNavLeft">
-  <area shape="rect" coords="0,0,61,28" href="/" alt="Home" title="Home">
-  <area shape="rect" coords="61,0,133,28" href="/recipes/" alt="Recipes - quick and easy fish receipes with Gorton's products" title="Recipes - quick and easy fish receipes with Gorton's products">
-  <area shape="rect" coords="133,0,241,28" href="/promotions/" alt="Promotions, Coupons &amp; Special Offers" title="Promotions, Coupons &amp; Special Offers">
-</map>
-<map name="MapNavRight">
-  <area shape="rect" coords="0,0,112,28" href="/cookbook/" alt="Seafood Tips" title="Seafood Tips">
-  <area shape="rect" coords="113,0,199,28" href="/products/">
-  <area shape="rect" coords="200,0,301,28" href="/contact/" alt="Contact Us" title="Contact Us">
-</map>
-
-
-
+				<div id="footer">
+					<ul>
+						<!--<li><a href="press.htm">Press</a></li>-->
+						<li><a href="/">Home</a></li>
+						<li><a href="privacy_policy.htm">Privacy Policy</a></li>
+						<li><a href="legal_statement.htm">Legal Statement</a></li>
+						<li><a href="site_map.php">Site Map</a></li>
+						<li><a href="contact.php">Contact Us</a></li>
+                        <li><a href="employment.htm">Careers</a></li>
+                        <!--<li><a href="http://www.gortonsfreshseafood.com/?source=gortonsretail_botnav" target="_blank">Buy Fresh Seafood</a></li>-->
+						<!--<li><a href="faq.htm">FAQ</a></li>-->
+						<li id="last"><a href="quality_standards.htm">Quality Standards</a></li>
+					</ul>
+				</div>
+				<p class="copyright">© 2008 Gorton's. All Rights Reserved.</p>
+			</div>
+		
+		</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-139064-14");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>		
+	 
 </body></html>
