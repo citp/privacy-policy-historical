@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxactonline.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227185214id_/http%3A//www.taxactonline.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxactonline.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509134515id_/http%3A//www.taxactonline.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # TaxACT Online Truste Privacy Policy Statement
 
@@ -38,7 +38,7 @@ Only information you have given us (including email address) is stored by us. We
 
 If you do not want to receive promotional e-mail from us in the future, please let us know by sending an email to us at the above address or calling us at the above telephone number or writing to us at the above address and telling us that you do not want to receive e-mail from our company.
 
-Some information, including name and email address is shared with [www.taxact.com](https://web.archive.org/web/20071227185214id_/http%3A//www.taxactonline.com/www.taxact.com) also owned by 2nd Story Software, Inc. for purposes of notifying you of the release of the next year's online program and potentially other products of interest. If you prefer not to be notified of next year's release or to receive any product information from TaxACT, please contact us via email, phone, fax, or mail to make your request to be removed from our email list. Please refer to the [Taxact.com privacy policy](http://www.taxact.com/privacy_policy.asp).
+Some information, including name and email address is shared with www.taxact.com also owned by 2nd Story Software, Inc. for purposes of notifying you of the release of the next year's online program and potentially other products of interest. If you prefer not to be notified of next year's release or to receive any product information from TaxACT, please contact us via email, phone, fax, or mail to make your request to be removed from our email list. Please refer to the [Taxact.com privacy policy](http://www.taxact.com/privacy_policy.asp).
 
 You also have the ability to post a testimonial on the website as public information. Personal information is required in order to post these testimonials. Personal information such as your name and email address is collected at the webpage. The webpage default is to keep your personal information private however you will have the ability to opt-in to post your personal information publicly.
 
