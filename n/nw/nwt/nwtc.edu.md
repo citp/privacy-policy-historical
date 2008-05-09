@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwtc.edu privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009024113id_/http%3A//www.nwtc.edu/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwtc.edu privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509063926id_/http%3A//www.nwtc.edu/Privacy.htm) for the most accurate reproduction.*
 
 # NWTC Privacy Statement~committed to protecting your privacy
 
@@ -28,7 +28,7 @@ Access to a Northeast Wisconsin Technical College student’s educational record
 
 FERPA is a law which protects the educational records of students. A student’s official educational records are all paper and electronic records kept about the student which relate to being a student. Under FERPA, students have the right to access or deny access to their records. In compliance with these laws, the College annually notifies students of their rights regarding student information. 
 
-A student’s official education record is confidential and shall not be released to anyone except the student (Under FERPA, parents are third parties, with no rights to the record.) E xcept under the following conditions: 
+A student’s official education record is confidential and shall not be released to anyone except the student (Under FERPA, parents are third parties, with no rights to the record.) Except under the following conditions: 
 
   1. [A Release of Student Records form](https://dynamicforms.nelnet.net/EsignDisplayForm.aspx?RequestedDynamicFormTemplate=e4ae2c51-c0f1-40a9-b57c-7e4861ce9d20) duly signed by the student or a parent/legal guardian, is received and on file with the Northeast Wisconsin Technical College Student Records Department. 
   2. A request for specific information is received from a court or in compliance with judicial order pursuant to any lawfully issued subpoena.  Only the specific information will be provided. 
