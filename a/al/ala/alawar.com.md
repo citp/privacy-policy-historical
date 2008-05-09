@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alawar.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627192000id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alawar.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509122958id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Alawar Online Privacy Policy - Alawar.com
+# Alawar Online Privacy Policy - Alawar
 
 **A. INTRODUCTION**
 
