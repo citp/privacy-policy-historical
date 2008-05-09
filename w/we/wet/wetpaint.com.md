@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wetpaint.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020034504id_/http%3A//www.wetpaint.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetpaint.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509122642id_/http%3A//www.wetpaint.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Wet Paint - Create a free wiki - Wetpaint
 
 * * *
 
-Last Updated: 3/27/2007
+Last Updated: 10/26/2007
 
 At Wetpaint, we are committed to ensuring the privacy of our users. This privacy policy explains Wetpaint's privacy practices for this Web site ("Site"), [http://www.wetpaint.com](http://www.wetpaint.com/), and any Wetpaint based Web site ("Sites"), for users of our services. By using the Site, you consent to the terms of this privacy policy.
 
