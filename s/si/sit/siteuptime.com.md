@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteuptime.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214064214id_/http%3A//www.siteuptime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteuptime.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509131359id_/http%3A//www.siteuptime.com/privacy.php) for the most accurate reproduction.*
 
 # SiteUptime - Website Monitoring Service
 
@@ -37,4 +37,4 @@ The SiteUptime registration form requires users to provide their e-mail address 
 
 SiteUptime occasionally uses "cookies", which allows us to recognize who you are at subsequent visits to our site and to your member control panel. You can change your browser settings to accept or reject cookies. 
 
-If you have any questions regarding this policy, please contact [info@siteuptime.com](mailto:info@siteuptime.com). 
+If you have any questions regarding this policy, please [contact us](http://www.siteuptime.com/contact.php). 
