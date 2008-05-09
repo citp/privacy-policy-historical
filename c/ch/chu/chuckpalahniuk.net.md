@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chuckpalahniuk.net privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227083601id_/http%3A//www.chuckpalahniuk.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chuckpalahniuk.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509192733id_/http%3A//www.chuckpalahniuk.net/privacy) for the most accurate reproduction.*
 
-# The Official Chuck Palahniuk Site - The Cult
+# Privacy Policy | The Cult
 
-We at The Cult website ("Site") have created this policy to explain why we collect particular information and how we will protect your personal privacy within the Site. The following discloses our information gathering and dissemination practices for the Site located at the URL www.ChuckPalahniuk.net or any successor site (the "Site"). We reserve the right to change this policy at any time by posting a new privacy policy at this location.
+We at The Cult website ("Site") have created this policy to explain why we collect particular information and how we will protect your personal privacy within the Site. The following discloses our information gathering and dissemination practices for the Site located at the URL [www.ChuckPalahniuk.net](http://www.chuckpalahniuk.net/ "www.ChuckPalahniuk.net") or any successor site (the "Site"). We reserve the right to change this policy at any time by posting a new privacy policy at this location.
 
 **What Information We Collect and How We Use That Information:**
 
