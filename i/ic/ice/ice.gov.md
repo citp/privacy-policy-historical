@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ice.gov privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701013537id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ice.gov privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509081110id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.*
 
 # ICE Website Legal Information
 
@@ -94,7 +94,7 @@ Follow these steps to make a request:
 >  Washington, DC 20536 
 
   5. Requests can also be faxed to (202) 732-0310
-  6. Requests or questions may also be e-mailed to the following address: [ice-foia@dhs.gov](mailto:ice-foia@dhs.gov)
+  6. Requests or questions may also be e-mailed to the following address: [ICE-FOIA.ice@dhs.gov](mailto:ICE-FOIA.ice@dhs.gov)
   7. Requests are deemed to constitute an agreement to pay any applicable fees that may be chargeable up to $25 without notice. Most requests do not require any fees; however, if fees exceed $25, we will notify you beforehand. 
 
 
@@ -176,4 +176,5 @@ If you do bring a court action, you may file your lawsuit in a federal district 
 
 Back to the Top
 
-  Last Modified: Wednesday, February 19, 2020
+  
+
