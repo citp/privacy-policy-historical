@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the poz.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218092032id_/http%3A//poz.com/your_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poz.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509133702id_/http%3A//www.poz.com/your_privacy.shtml) for the most accurate reproduction.*
 
 # POZ - POZ Magazine - POZ.com - HIV - AIDS - HIV AIDS
 
-  
 POZ.com Privacy Policy   
 
 
@@ -24,6 +23,6 @@ POZ uses reasonable precautions to keep secure all personally identifiable infor
 
 POZ uses "cookies," pieces of data stored on users' hard drives for record keeping purposes. Cookies can make the POZ.com Web site and the Service more useful by storing information about the Users preferences. 
 
-If you have questions about this Privacy Policy you can contact us at [personals@poz.com](mailto:personals@poz.com). 
+If you have questions about this Privacy Policy you can contact us at [personals@poz.com](mailto:personals@poz.com?subject=Question%20about%20POZ%20Privacy%20Policy). 
 
 [Click here to see the POZ.com Terms of Use](https://web.archive.org/termsofuse.shtml)
