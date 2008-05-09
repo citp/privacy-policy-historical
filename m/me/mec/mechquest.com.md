@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mechquest.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227002509id_/http%3A//www.mechquest.com/mq-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mechquest.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509142154id_/http%3A//www.mechquest.com/mq-privacy.asp) for the most accurate reproduction.*
 
 # MechQuest - Privacy Policy
 
