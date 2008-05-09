@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tix.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026060905id_/http%3A//www.tix.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tix.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509071403id_/http%3A//www.tix.com/Privacy.asp) for the most accurate reproduction.*
 
-# theaterland.com - Tickets
+# Tix - Box Office Software and Online Ticket Sales
 
 ### Privacy Policy
 
@@ -19,4 +19,4 @@ Children under the age of 13 are prohibited from submitting personal information
 
 **Changes** Tix may change this policy from time to time. Any changes will be posted on this Site.
 
-**Terms of Use** [Click here](https://web.archive.org/web/20071026060905id_/http%3A//www.tix.com/TermsOfUse.asp) for our Terms of Use.
+**Terms of Use** [Click here](https://web.archive.org/web/20080509071403id_/http%3A//www.tix.com/TermsOfUse.asp) for our Terms of Use.
