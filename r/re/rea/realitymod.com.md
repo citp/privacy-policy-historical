@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the realitymod.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013075651id_/http%3A//www.realitymod.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitymod.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509192143id_/http%3A//www.realitymod.com/privacy.html) for the most accurate reproduction.*
 
 # Project Reality : Battlefield 2 Mod - Privacy Statement
 
 We respect and are committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and used at Project Reality. We take extraordinary steps to use your personal information only in ways that are compatible with this Privacy Policy.
 
 Information Collection  
-Project Reality is the sole owner of the information collected from our website. We do not, or will not sell, share, or rent this information to others in ways different from what is disclosed in our privacy statement below. 
+Project Reality is the sole owner of the information collected from our website. We do not, or will not sell, share, or rent this information to others in ways different from what is disclosed in our privacy statement below.
 
 Cookies  
 A cookie is a piece of data stored on the visitor's hard drive containing information about the visitor. Advertisers connected to Project Reality at times require cookies to track statistics about products and locations, but at no time are these linked to any personal identification. At this time, Project Reality uses cookies only for login convenience.
