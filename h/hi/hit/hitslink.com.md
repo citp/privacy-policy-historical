@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231223151id_/http%3A//www.netapplications.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509094600id_/http%3A//www.netapplications.com/privacy.aspx) for the most accurate reproduction.*
 
-# website statistics, hit counter, search engine submission, banner exchange
+# website statistics, hit counter, search engine submission
 
 **Your Information is Private**  
 Subscribers are requested to enter limited personal information during signups. Under no circumstance will we sell, transfer or disseminate this personal information gathered by our products to any other entity. 
