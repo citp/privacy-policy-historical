@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ministryofsound.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219204457id_/http%3A//www.ministryofsound.com/misc/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ministryofsound.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509165833id_/http%3A//www.ministryofsound.com/misc/privacypolicy) for the most accurate reproduction.*
 
 # Ministry of Sound - Ministry of Sound Privacy Policy
 
