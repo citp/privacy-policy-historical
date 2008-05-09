@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windycitynovelties.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531194909id_/http%3A//www.windycitynovelties.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windycitynovelties.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509064037id_/http%3A//www.windycitynovelties.com/privacy.asp) for the most accurate reproduction.*
 
 # Windy City Novelties - Privacy Policy
 
