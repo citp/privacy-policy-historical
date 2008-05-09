@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guitarplayer.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225151734id_/http%3A//www.guitarplayer.com/privacy-policy-revised) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarplayer.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509140906id_/http%3A//www.guitarplayer.com/privacy-policy-revised) for the most accurate reproduction.*
 
-# Guitar Player : Privacy Policy
+# Guitar Player : The Complete Electric Guitar Package
 
 Last Updated: March 6, 2007
 
