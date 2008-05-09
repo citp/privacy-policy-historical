@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmotionhosting.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014175353id_/http%3A//www.inmotionhosting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmotionhosting.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509144941id_/http%3A//www.inmotionhosting.com/privacy.html) for the most accurate reproduction.*
 
 # InMotion Hosting - Privacy Policy
 
@@ -14,7 +14,7 @@ InMotion Hosting, Inc. may use personally identifiable information collected thr
 
 InMotion Hosting, Inc may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above. We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, we treat this information as property of InMotion Hosting, Inc. and thus can be transferred as an asset in the event of acquisition or merger.
 
-If you have any questions concerning the above policies, please feel free to [contact](https://web.archive.org/web/20071014175353id_/http%3A//www.inmotionhosting.com/contact.html) us.
+If you have any questions concerning the above policies, please feel free to [contact](https://web.archive.org/web/20080509144941id_/http%3A//www.inmotionhosting.com/contact.html) us.
 
 Back To Top
 
@@ -27,4 +27,4 @@ InMotion has given my growing company the reliability, flexibility and consisten
 Ajay Narain  
 Sunnyvale, CA
 
-[Read More](https://web.archive.org/web/20071014175353id_/http%3A//www.inmotionhosting.com/quotes.html)
+[Read More](https://web.archive.org/web/20080509144941id_/http%3A//www.inmotionhosting.com/quotes.html)
