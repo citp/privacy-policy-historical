@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011042236id_/http%3A//www.livechatinc.com/en/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509162942id_/http%3A//www.livechatinc.com/en/company/privacy_policy) for the most accurate reproduction.*
 
-# Live Chat, Live Help, Live Support Software - Livechatinc.com » Privacy Policy
+# LIVECHAT Software Privacy Policy | LIVECHAT Software- Live Help, Live Support Software, Enterprise and Corporate Instant Messenger
 
 **The users of the WWW website**  
-LIVECHAT, Inc., being the owner of the [www.livechatinc.com](http://www.livechatinc.com/ "LIVECHAT Software - main page") and [www.livechat.pl](http://www.livechat.pl/ "LIVECHAT Software - main page") websites, wants to assure its users that it fully respects their right to privacy and personal data protection. We vouch that the details collected during our cooperation with the users of the website will be fully protected. We would also like to remind you, that your safety depends on you too. Keep all your login names and passwords confidential. 
+LIVECHAT Software, Inc., being the owner of the [www.livechatinc.com](http://www.livechatinc.com/ "LIVECHAT Software - main page") and [www.livechat.pl](http://www.livechat.pl/ "LIVECHAT Software - main page") websites, wants to assure its users that it fully respects their right to privacy and personal data protection. We vouch that the details collected during our cooperation with the users of the website will be fully protected. We would also like to remind you, that your safety depends on you too. Keep all your login names and passwords confidential. 
 
 **Collecting details**  
 The [www.livechatinc.com](http://www.livechatinc.com/ "LIVECHAT Software - main page") and [www.livechat.pl](http://www.livechat.pl/ "LIVECHAT Software - main page") websites collects your details only to the extent necessary for a professional execution of the transactions. Personal details are stored and edited according to Polish law. Our database has been registered with the Main Inspector of Personal Details Protection (registry book nr 054711). 
