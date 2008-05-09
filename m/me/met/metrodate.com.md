@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210105010id_/http%3A//www.metrodate.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509164523id_/http%3A//www.metrodate.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for Metrodate.com
 
@@ -24,7 +24,7 @@ Only you can give another member your true name or contact information. Even you
 
 ## Cookies
 
-In order for a web site to be truly interactive, sessions are usually required. For example, once you log on to the site, a user can go from page to page while the site ?remembers? who you are until you log off. Cookies make this possible. 
+In order for a web site to be truly interactive, sessions are usually required. For example, once you log on to the site, a user can go from page to page while the site �remembers� who you are until you log off. Cookies make this possible. 
 
 Disabling cookies on your browser will mean you will not be able to utilize Metrodate.com, because you won't be able to log on. 
 
@@ -62,7 +62,7 @@ Metrodate does **not** do background checks on our members. When you meet people
 
 ## Updating Your Information
 
-At any time our members can update their member information by visiting the various sections under ?Member Services? such as ?Personal Info? or ?Public Profile?. We encourage our members to review their own profile (also available under ?Member Services?) to see what information is being provided to other members. If users wish to cancel service, they can do so at any time by going to ?Account Info? from the ?Member Services? menu. 
+At any time our members can update their member information by visiting the various sections under �Member Services� such as �Personal Info� or �Public Profile�. We encourage our members to review their own profile (also available under �Member Services�) to see what information is being provided to other members. If users wish to cancel service, they can do so at any time by going to �Account Info� from the �Member Services� menu. 
 
 ## Contacting Metrodate.com
 
