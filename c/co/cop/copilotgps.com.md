@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the copilotgps.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226164010id_/http%3A//www.alk.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copilotgps.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509155802id_/http%3A//www.alk.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement: ALK Technologies
+
+| 
 
 ## Privacy Statement
 
