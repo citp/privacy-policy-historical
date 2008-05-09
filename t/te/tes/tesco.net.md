@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tesco.net privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223122238id_/http%3A//www.tesco.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesco.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509085305id_/http%3A//www.tesco.net/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Tesco.net
 
