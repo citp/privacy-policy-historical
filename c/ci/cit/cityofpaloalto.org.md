@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the cityofpaloalto.org privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004140811id_/http%3A//www.cityofpaloalto.org/knowzone/web_site_help/default.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofpaloalto.org privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509163214id_/http%3A//www.cityofpaloalto.org/knowzone/web_site_help/default.asp%23privacy) for the most accurate reproduction.*
 
 # City of Palo Alto Website - Web Site Help
 
 Search is a crucial component of the City of Palo Alto web site. Search provides connectivity to all web site file types, News Details, Departmental PDFs, Minutes, Agendas and Reports, and Contacts for easy and quick aggregated searching of all web site documents. When a citizen, business, or municipality needs information or services that don't emerge through site navigation, search often provides the most efficient path to the desired result. 
 
 Our [Family Resources](https://web.archive.org/depts/csd/community_and_family_resources/default.asp) pages provide a traditional and indexed search of Palo Alto community resources. Traditional search offers many filters and lists to help you identify the type of resources you desire. Additionally Family Resources offers a categorical search based on the industry-standard InfoLine taxonomy.
-
-Our search engine is based on an underlying meta-data architecture based on the Dublin-Core taxonomy, enhanced by the City of Palo Alto staff librarians.
 
 Privacy Notice Information   
 The City of Palo Alto Administrative Services, Information Technology Division, developed and manages this web site. This web site is the gateway for providing direct government-to-citizen public service provision and interaction through the use of information technology. We are dedicated to protecting your privacy on-line. The following privacy statement outlines how individual information will be handled by the City of Palo Alto while using this site. 
