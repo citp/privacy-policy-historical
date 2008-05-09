@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duckworth-lewis.com privacy policy that was archived on 2007-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070329170618id_/http%3A//www.duckworth-lewis.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duckworth-lewis.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509101239id_/http%3A//www.duckworth-lewis.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Duckworth-Lewis.com > Home ( DNN 4.4.1 )
 
