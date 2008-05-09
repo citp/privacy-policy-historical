@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the anritsu.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223061917id_/http%3A//www.anritsu.com/Policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anritsu.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509142744id_/http%3A//www.anritsu.com/Policy/privacy.asp) for the most accurate reproduction.*
 
 # Anritsu Group Privacy Policy:Anritsu Corporation
 
 |   
-| [](https://web.archive.org/index.asp) | [](https://web.archive.org/About.asp) | [](http://www.anritsu.co.jp/E/IR/) | [](https://web.archive.org/NewsEvents.asp) | [](https://web.archive.org/Products.asp) | [](https://web.archive.org/Contact.asp)  
----|---|---|---|---|---  
+| [](https://web.archive.org/index.asp) | [](https://web.archive.org/About.asp) | [](https://web.archive.org/IR/) | [](https://web.archive.org/NewsEvents.asp) | [](https://web.archive.org/Products.asp) | [](https://web.archive.org/downloads/) | [](https://web.archive.org/Contact.asp)  
+---|---|---|---|---|---|---  
 | 
 
 [HOME](https://web.archive.org/) > Privacy Policy  
@@ -251,7 +251,7 @@ Inquiries
 ---|---  
   
   
-To inquire about your personal information or our personal information protection policy, please fill out this [inquiry form](https://web.archive.org/Contact.asp) or send an e-mail message to [ privacy@cc.anritsu.co.jp](mailto:privacy@cc.anritsu.co.jp).
+To inquire about your personal information or our personal information protection policy, please fill out this [inquiry form](https://web.archive.org/Contact/index.asp?id=privacy).
 
 All requests regarding personal information should be made in writing. Depending on the nature of your request, you may be asked to apply using our prescribed form. In such cases, instructions on how to fill it out and other information will be sent to you separately.  
   
@@ -260,4 +260,4 @@ All requests regarding personal information should be made in writing. Depending
 
 Page Top  
   
-[Privacy Policy](https://web.archive.org/Policy/privacy.asp) & [Copyright ©2003-2007](https://web.archive.org/Policy/SiteUse.asp)
+[Privacy Policy](https://web.archive.org/Policy/privacy.asp) & [Copyright ©2003-2008](https://web.archive.org/Policy/SiteUse.asp)
