@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230201333id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509131324id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for Soundboard.com
 
@@ -15,15 +15,20 @@ This site does not review everything immediately and the material is posted by t
 
 | 
 
-  
-Search by title, quote, keyword, name   
+search  
+By title, quote, keyword, name   
 
 
-Categories
+NEW! Soundboard Ringtones 
+
+Get the ringtone! Thousands of high quality sounds now available in our ringtone catalog. **Enter[Soundboard.com Ringtones](http://login.tracking101.com/ez/dbbyybchkhoy/&tid=67) here.**
 
 Featured Sites 
 
-Showcase: Holiday Edition
+Categories
 
-Share Soundboard.com  
-[ ](http://digg.com/submit?phase=2&url=http://www.soundboard.com&title=Soundboard.com "digg") [ ](http://del.icio.us/post?url=http://www.soundboard.com&title=Soundboard.com "del.icio.us") [ ](http://technorati.com/faves?add=http://www.soundboard.com "Soundboard.com") [ ](http://www.furl.net/storeIt.jsp?u=http://www.soundboard.com&t=Soundboard.com "Furl") [ ](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Description=&Url=http://www.soundboard.com&Title=Soundboard.com "BlinkList") [](http://www.facebook.com/sharer.php?src=bm&v=4&u=http://www.soundboard.com&t=Soundboard.com "Facebook") [ ](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.soundboard.com&=Soundboard.com "YahooMyWeb") [](http://www.stumbleupon.com/submit?url=http://www.soundboard.com&title=Soundboard "Stumble") [](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http://www.soundboard.com&title=Soundboard.com "Google") [](http://www.newsvine.com/_wine/save?u=http://www.soundboard.com&h=Soundboard.com "Newsvine")
+Soundboard Showcase 
+
+Most Rooted For
+
+[](http://www.addthis.com/bookmark.php)
