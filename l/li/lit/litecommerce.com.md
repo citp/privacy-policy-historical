@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the litecommerce.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213202458id_/http%3A//www.litecommerce.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litecommerce.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509135508id_/http%3A//www.litecommerce.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Ecommerce software & online store builder: LiteCommerce
-
-  
-
 
 We respect your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy. 
 
@@ -21,5 +18,4 @@ This website may contain links to other sites. We do not endorse or otherwise ac
 
 It may be necessary, if required by law or if pertinent to judicial or governmental investigations, to release your personally identifiable information. 
 
-We are reserving the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages.   
-
+We are reserving the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages.
