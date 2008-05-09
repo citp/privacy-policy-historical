@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwiferytoday.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213201506id_/http%3A//www.midwiferytoday.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwiferytoday.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509073909id_/http%3A//www.midwiferytoday.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ If at any time you feel that we are not following this stated information policy
 
 If we fail to resolve the problem to your satisfaction, you may also contact any of the following agencies and organizations:
 
-  * The Direct Marketing Association's Committee on Ethical Business Practices
+  * [The Direct Marketing Association](http://www.the-dma.org/aboutdma/contactthedma.shtml)
 
 
   * The Federal Trade Commission
