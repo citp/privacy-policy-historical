@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the darkstarllc.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219231429id_/http%3A//www.darkstarllc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkstarllc.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509024255id_/http%3A//www.darkstarllc.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DarkStar Communications
 
-**Revised:** Friday, July 21, 2006 AT 8:40 AM EST. 
+**Revised:** Friday, January 25, 2008 3:05 PM EST. 
 
 The DarkStar Communications privacy policy is designed to assist you in understanding what information we collect, why the information is collected, and it's purpose. DarkStar Communications ensures that all collection and storage methods are secure. This statement may be revised as needed. 
 
@@ -37,7 +37,7 @@ From time to time DarkStar may contact it's customers via e-mail or via telephon
 It is the duty of DarkStar to provide it's customers with the option of not receiving any e-mail communications in regards to new product announcements and non-technical information. Customers wishing to not receive promotional information or non-technical information from DarkStar may send an e-mail to sales@darkstarllc.com with the words "Opt Out" from the e-mail address on file with DarkStar. 
 
 **Disclosure of Information to Outside Parties**   
-DarkStar does not disclose personal information to outside parties unless required to do so by court order. At times, DarkStar reserves the right to disclose web site traffic trend data to reputable third-party organizations such as Google, Microsoft, and Yahoo for tracking purposes. 
+DarkStar does not disclose personal information to outside parties unless required to do so by court order. At times, DarkStar reserves the right to disclose web site traffic trend data to reputable third-party organizations such as Google, Microsoft, and Yahoo for tracking purposes. DarkStar is not responsible for disclosure of information that was unintended, including information that may be accidentally disclosed by staff members, or volunteer workers. 
 
 **How Can You Correct and Access Personal Information?**   
 Any personal information can be updated via DarkStar's secure billing portal which is accessable via URL provided to the customer upon signup. 
