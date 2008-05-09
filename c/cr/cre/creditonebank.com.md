@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creditonebank.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202033459id_/http%3A//www.creditonebank.com/SiteInfoPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditonebank.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509085757id_/http%3A//www.creditonebank.com/SiteInfoPrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Credit One Bank | Privacy Policy
+# Credit One Bank - Updated Privacy Policy
 
 (Effective July 2007) 
 
@@ -16,7 +16,7 @@ Credit One Bank values your trust and respects your expectation of privacy. As s
 > 
 
 
-**Our Disclosure of Information:**  We may disclose all of the information we collect, as described above, to third parties in certain circumstances. For example: 
+**Our Disclosure of Information:** We may disclose all of the information we collect, as described above, to third parties in certain circumstances. For example: 
 
 >   * We may share information: (a) where it is necessary or helpful to effect, process or confirm your transactions; (b) to verify the existence, history and condition of your account for credit reporting agencies; (c) to comply with legal process, such as subpoenas and court orders; (d) to law enforcement authorities if we believe a crime has been committed; (e) if you give us your consent; and (f) as otherwise permitted by law. 
 >   * We are part of the Sherman Financial Group LLC family of companies. We may share information regarding our experience and transactions with you with our parent company and other financial service providers in our corporate family, such as other financial institutions, so that they may offer or provide additional services to you. We also may share other information we obtain about you with those companies (e.g., information from applications and credit reports), unless you call us at   
