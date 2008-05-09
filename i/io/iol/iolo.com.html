@@ -1,86 +1,283 @@
-<!--The following is the downloaded HTML source of the iolo.com privacy policy that was archived on 2007-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071102092103id_/http%3A//www.iolo.com/company/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iolo.com privacy policy that was archived on 2008-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509093134id_/http%3A//www.iolo.com/company/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	iolo technologies Privacy Statement
-</title><link href="../app/css/global.css" rel="stylesheet" type="text/css"><link href="../app/css/Master.css" rel="stylesheet" type="text/css"></head>
+</title><link href="../app/css/Global.css" rel="stylesheet" type="text/css"><link href="../app/css/Master2.css" rel="stylesheet" type="text/css">
+  
+  
+</head>
 <body>
-  <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkGAEFFmN0bDAwJG12TXlBY2NvdW50TGlua3MPD2RmZA==">
+  <form name="aspnetForm" method="post" action="/company/privacy.aspx" id="aspnetForm" class="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZA==">
+</div>
 
-    <div style="background-color: white;">
-      
-      <div style="width: 100%; background-repeat: repeat-x; background-image: url(../images/master/header.gif);
-        padding-bottom: 0px; height: 92px;">
-        <table id="ctl00_tblHeader" cellspacing="0" cellpadding="0" align="Center" border="0" height="92" width="770" background="../images/master/logo.gif" style="background-repeat: repeat-x;">
-	<tbody><tr id="ctl00_TableRow1">
-		<td align="left" valign="top" colspan="2" height="63">
-            
-               <table cellpadding="0" cellspacing="0" width="100%">
-                <tbody><tr>
-                  <td>  
-                  <img id="ctl00_imgBlank" title="iolo technologies" onclick="window.location='/'" src="../images/master/blank.gif" alt="iolo technologies" border="0" style="cursor: pointer; position: absolute; top: 0px;">
-                  </td>
-                  <td style="text-align:right;padding-top:10px;">
-                   
-                  <span style="white-space: nowrap; padding: 0px; color: White;"><a href="/myaccount/SignIn.aspx" style="color: White;">Sign Up</a> | <a href="/myaccount/" style="color: White;">My
-                      Account</a> </span>
-                 
+
+<script src="../app/scripts/global.js" type="text/javascript"></script><script language="javascript">
+                        AddLoadEvent(SetNewsletterSignupLink);             
+                        function SetNewsletterSignupLink(){
+                          document.getElementById("hypSubscribeToNewsletter").href = "javascript:NL('divS2');Get('txtEmail').focus();";  
+                        }
+                        function NL(id){
+                           SetDisplay('divS1',false);
+                           SetDisplay('divS2',false);
+                           SetDisplay('divSuccess',false);
+                           SetDisplay('divProgress',false);
+                           SetDisplay('divS5',false);
+                           SetDisplay(id,true);
+                        }
+                        function validate_email(field,alerttxt){
+                          with (field)
+                          {apos=value.indexOf('@'); dotpos=value.lastIndexOf('.');
+                          if (apos<1||dotpos-apos<2){//alert(alerttxt);
+                          return false;}
+                          else {
+                            return true;}}
+                        }
+                        function handleKeyPress(e){ 
+                          if(e.keyCode == 13){
+                             e.returnValue=false;
+                             e.cancel = true; 
+                             SubmitEmail();}
+                          if(e.keyCode == 27) 
+                            NL('divS1');
+                        }
+                        function SubmitEmail(){
+                          if (validate_email(Get('txtEmail'),'Not a valid e-mail address.') == true)
+                          {
+                            NL('divProgress');
+                            jx.load('/customercare/newsletter.aspx?submit=add&ptype=2&email=' + Get('txtEmail').value + '&pg=http://www.iolo.com/company/privacy.aspx',
+                                     function(data){
+                                      Get('txtEmail').value = '';                                                                                                  
+                                      switch(data)
+                                      {
+                                        case '1':
+                                          NL('divSuccess');
+                                          break; 
+                                        case '2':                                          
+                                          Reset();   
+                                          break; 
+                                        case '3':
+                                          Reset();   
+                                          break; 
+                                        case '4':
+                                          NL('divSuccess');
+                                          break; 
+                                        case '5':
+                                          Reset();   
+                                          break;  
+                                        case '6':
+                                          Reset();   
+                                          break; 
+                                      }
+	                                    setTimeout('NL(\'divS1\')', 5000);
+                                     },'text','get');}
+                          else { 
+                            Reset();}
+                        }
+                        function ClearTextbox(){Get('txtEmail').value= ''; }                        
+                        function Reset(){NL('divS1');Get('txtEmail').value = '';}
+                        </script>
+                         
+    <div id="wrapper">
+      <div id="header">
+        <div class="branding">
+          <div class="div_iolo_logo">
+            <a href="http://www.iolo.com">
+              <img src="../images/master2/iolo_logo.gif" alt="iolo technologies" title="iolo technologies"></a></div>
+          <div id="divS1" class="top_navi">
+            <div id="iolosearchs">
               
-             
-                  </td>
-                </tr>
-              </tbody></table>
-             
-            </td>
-	</tr><tr id="ctl00_HeaderPanel">
-		<td id="ctl00_HeaderTabs" class="headerTableDataTabMenu" valign="bottom" nowrap=""><a href="/default.aspx" id="ctl00_tabDefault">
-                <img src="../images/master/menu-home-off.gif" id="ctl00_imgTabHome" alt="Home" title="Home">
-              </a><a href="/purchase.aspx" id="ctl00_tabPurchase">
-                <img src="../images/master/menu-purchase-off.gif" id="ctl00_imgTabPurchase" alt="Purchase" title="Purchase">
-              </a><a href="/downloads.aspx" id="ctl00_tabDownloads">
-                <img src="../images/master/menu-downloads-off.gif" id="ctl00_imgTabDownloads" alt="Downloads" title="Downloads">
-              </a><a href="/customercare/" id="ctl00_tabCustomerCare">
-                <img src="../images/master/menu-support-off.gif" id="ctl00_imgTabSupport" alt="Support" title="Support">
-              </a><a href="/threatcenter/" id="ctl00_tabThreatCenter">
-                <img src="../images/master/menu-threatcenter-off.gif" id="ctl00_imgTabThreatCenter" alt="Threat Center" title="Threat Center">
-              </a><a href="/company/" id="ctl00_tabCompany">
-                <img src="../images/master/menu-company-on.gif" id="ctl00_imgTabCompany" alt="Company" title="Company">
-              </a><a href="/myaccount/" id="ctl00_tabMyAccount">
-                <img src="../images/master/menu-myaccountbeta-off.gif" id="ctl00_imgTabMyAccount" alt="iolo My Account" title="iolo My Account">
-              </a></td><td id="ctl00_HeaderCartInfo" class="headerTableCartLabel" valign="middle"><a href="/shoppingcart.cfm" id="ctl00_hypShoppingCartUrl1" style="color: White;">
-                <img src="../images/master/cart.gif" id="ctl00_Img1" alt="Cart" align="absmiddle" title="Cart"></a>&nbsp;<a href="/shoppingcart.cfm" id="ctl00_hypShoppingCartUrl2" style="color: White;"><span class="headerTableCartLabelText">Cart
-                    <span id="ctl00_lblCartItemCount">(empty)</span></span></a></td>
-	</tr>
-</tbody></table>
+            </div>
+            
+            <a id="hypSubscribeToNewsletter" href="javascript:NL('divS2');Get('txtEmail').focus();">Subscribe to
+              Newsletter</a> | <a href="/sitemap.aspx">Site Map</a>&nbsp;| <a href="/myaccount/">My Account</a>
+            
+          </div>
+          <div id="divS2" style="display: none;" class="top_navi">
+            <a class="bt_cancel" href="javascript:NL('divS1');ClearTextbox();">Cancel</a> <a class="bt_subscribe" href="javascript:SubmitEmail()">Subscribe</a>
+            <table cellpadding="0" cellspacing="0" border="0" style="float: right; margin-right: 10px;">
+              <tbody><tr>
+                <td style="text-align: center;">
+                  <table cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                      <td>
+                        <span class="newsletterleft"></span>
+                      </td>
+                      <td style="width: 140px;">
+                        <input id="txtEmail" onkeypress="handleKeyPress(event);" class="newsletterinput" type="text"></td>
+                      <td style="width: 10px">
+                        <span class="newsletterright"></span>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+              <tr>
+                <td style="text-align: center;">
+                  <div style="font-size: 9px; text-align: center;">
+                    Please enter your email address</div>
+                </td>
+              </tr>
+            </tbody></table>
+          </div>
+          <div id="divSuccess" style="display: none;" class="top_navi">
+            Thank you for subscribing to the iolo newsletter
+            <br>
+            <br>
+            <div style="margin-right: 30px;">
+              A confirmation email will arrive shortly</div>
+          </div>
+          <div id="divProgress" style="display: none;" class="top_navi">
+            Please wait...
+          </div>
+          <div id="divS5" style="display: none;" class="top_navi">
+          </div>
+        </div>
+        <div id="mainnavibar">
+          <div class="mainnavibar_holder">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td align="left" valign="top" style="padding-top: 7px; width: 550px; height: 25px;">
+                  
+                    <ul id="mainnavi" class="mainnavi">
+                      <li id="categoryOne">
+                        <a href="http://www.iolo.com"><span>Home</span></a>
+                      </li>
+                      <li id="categoryTwo">
+                        <a href="/purchase.aspx">
+                          <span>Products</span></a>
+                        <h2>
+                          Products</h2>
+                        <ul>
+                          <li><a href="/purchase.aspx">All Products</a></li>
+                          <li><a href="/sm/7/pro/">System Mechanic Pro<i>®</i></a></li>
+                          <li><a href="/sm/7/std/">System Mechanic<i>®</i></a></li>
+                          <li><a href="/ss/3/">System Shield<i>®</i></a></li>
+                          <li><a href="/av/1/">iolo AntiVirus™</a></li>
+                          <li><a href="/fw/1/">iolo Personal Firewall™</a></li>
+                          <li><a href="/sr/4/">Search and Recover™</a></li>
+                          <li><a href="/ds/3/">DriveScrubber<i>®</i></a></li>
+                          <li><a href="/purchase/upgradehelpstart.aspx">Upgrades and Renewals</a></li>
+                        </ul>
+                      </li>
+                      <li id="categoryThree">
+                        <a href="/downloads.aspx">
+                          <span>Downloads</span></a>
+                        <ul>
+                          <li><a href="/downloads.aspx">All Trial Software</a></li>
+                          <li><a href="/sm/7/pro/download.aspx">System Mechanic Pro<i>®</i></a></li>
+                          <li><a href="/sm/7/std/download.aspx">System Mechanic<i>®</i></a></li>
+                          <li><a href="/ss/3/download.aspx">System Shield<i>®</i></a></li>
+                          <li><a href="/av/1/download.aspx">iolo AntiVirus™</a></li>
+                          <li><a href="/fw/1/download.aspx">iolo Personal Firewall™</a></li>
+                          <li><a href="/sr/4/download.aspx">Search and Recover™</a></li>
+                          <li><a href="/ds/3/download.aspx">DriveScrubber<i>®</i></a></li>
+                        </ul>
+                      </li>
+                      <li id="categoryFour">
+                        <a href="/threatcenter/">
+                          <span>Resources</span></a>
+                        <h2>
+                          Resources</h2>
+                        <ul>
+                          <li><a href="/threatcenter/">iolo Threat Center</a></li>
+                          <li><a href="/sm/freeapp/systemcheckup.aspx">Free System Checkup™</a></li>
+                          <li><a href="/threatcenter/programsearch.aspx">Search Program Database</a></li>
+                          <li><a href="/threatcenter/virussearch.aspx">Search Threat Database</a></li>
+                          <li><a href="/threatcenter/issues.aspx">PC Tune-up Glossary</a></li>
+                          <li><a href="/threatcenter/issues.aspx#SecurityAndPerformanceTermsDefined">
+                            Security Glossary</a></li>
+                        </ul>
+                      </li>
+                      <li id="categoryFive">
+                        <a href="/customercare/">
+                          <span>Support</span></a>
+                        <h2>
+                          Support</h2>
+                        <ul>
+                          <li><a href="/customercare/search.aspx">Knowledgebase</a></li>
+                          <li><a href="/myaccount/">My Account</a></li>
+                          <li><a href="/customercare/register.aspx">Product Registration</a></li>
+                          <li><a href="/customercare/technicalsupport.aspx">Support Ticket</a></li>
+                          <li><a href="/customercare/kbarticle.aspx?id=KBA-01366">Product
+                            Downloads</a></li>
+                          <li><a href="/customercare/survey.aspx">Become a Beta Tester</a></li>
+                        </ul>
+                      </li>
+                      <li id="categorySix">
+                        <a href="/company/pressreleases.aspx">
+                          <span>Press</span></a>
+                        <h2>
+                          Press</h2>
+                        <ul>
+                          <li><a href="/company/pressreleases.aspx">Press Releases</a></li>
+                          <li><a href="/company/awards.aspx">Product Awards</a></li>
+                          <li><a href="/company/downloads.aspx">Media Kits</a></li>
+                          <li><a href="/company/permissions.aspx">Permissions</a></li>
+                        </ul>
+                      </li>
+                      <li id="categorySeven">
+                        <b><a href="/company/aboutus.aspx">
+                          <span>Company</span></a></b>
+                        <h2>
+                          Company</h2>
+                        <ul>
+                          <li><a href="/company/aboutus.aspx">About iolo</a></li>
+                          
+                          <li><a href="/customercare/newsletter.aspx">Newsletter Sign Up</a></li>
+                          <li><a href="/purchase.aspx">Product Line</a></li>
+                          
+                        </ul>
+                      </li>
+                    </ul>
+                  
+                </td>
+                <td align="right" valign="middle">
+                  
+                    <div class="cartDivBackground">
+                      <a href="/shoppingcart.cfm" class="bt_cart">Cart
+                        <span id="ctl00_ctl00_lblCartItemCount">(empty)</span></a></div>
+                  
+                </td>
+              </tr>
+            </tbody></table>
+          </div>
+        </div>
       </div>
-      
-      <div id="ctl00_divcph" style="background-color: white; text-align: left;
-        padding-top: 15px; padding-bottom: 20px; width: 770px; margin: 0 auto;">
+      <div id="ctl00_ctl00_divContentMain" class="content">
         
-  <h1>
-    iolo technologies Privacy Statement
-  </h1>
-  iolo technologies, LLC may gather personal information about its visitors for internal
-  use only. This includes, but is not limited to, customer downloads, information
-  requests, and purchasing of software.
-  <p>
-  </p><h3>
-    USE OF INFORMATION
-  </h3>
-  Information gathered on our Web site is used for internal purposes related to accounting
-  and site demographics. Additionally, iolo may send announcements to our customers
-  via email. Customers include people who have purchased our products, downloaded
-  them, registered their copy of our product, or have joined our newsletters manually.
-  Announcements that you receive from iolo technologies, LLC via email will contain
-  information on how to unsubscribe from the newsletter.
-  <p>
-  </p><h3>
-    SHARING OF INFORMATION
-  </h3>
-  iolo technologies, LLC does not share your personal information in any way with
-  any third-party companies. You may receive announcements with special offers for
-  third party companies, but these offers originate from iolo technologies.
+  
+  <table cellpadding="0" cellspacing="0" class="tb_Global1_style" style="width: 100%;">
+    <tbody><tr>
+      <td>
+        <h1>
+          iolo technologies Privacy Statement
+        </h1>
+        iolo technologies, LLC may gather personal information about its visitors for internal
+        use only. This includes, but is not limited to, customer downloads, information
+        requests, and purchasing of software.
+        <p>
+        </p><h3>
+          USE OF INFORMATION
+        </h3>
+        Information gathered on our Web site is used for internal purposes related to accounting
+        and site demographics. Additionally, iolo may send announcements to our customers
+        via email. Customers include people who have purchased our products, downloaded
+        them, registered their copy of our product, or have joined our newsletters manually.
+        Announcements that you receive from iolo technologies, LLC via email will contain
+        information on how to unsubscribe from the newsletter.
+        <p>
+        </p><h3>
+          SHARING OF INFORMATION
+        </h3>
+        iolo technologies, LLC does not share your personal information in any way with
+        any third-party companies. You may receive announcements with special offers for
+        third party companies, but these offers originate from iolo technologies.
+      </td>
+    </tr>
+  </tbody></table>
   <br>
   <br>
   <br>
@@ -88,32 +285,28 @@
   <br>
   <br>
 
+
+      </div>
+      <div class="push">
       </div>
     </div>
-    
-    <center>
-      <div style="width: 100%; background-image: url(../images/master/footer.gif);
-        color: white; text-align: center;">
-        <table id="ctl00_FooterLinks" class="mstrtblfooter" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td id="ctl00_tdmstrfooter" align="center" style="text-align: center;">
-              <a href="/sitemap.aspx" id="ctl00_lnkSiteMap" style="color: white">Site map</a>
-              &nbsp;|&nbsp; <a href="/company/aboutus.aspx" id="ctl00_lnkAboutUs" style="color: white">
-                About iolo</a> &nbsp;|&nbsp; <a href="/company/pressreleases.aspx" id="ctl00_lnkPressReleases" style="color: white">Press</a> &nbsp;|&nbsp; <a href="/company/careers.aspx" id="ctl00_lnkCareers" style="color: white">Jobs</a> &nbsp;|&nbsp; <a href="/company/contactus.aspx" id="ctl00_lnkContactUs" style="color: white">Contact us</a> &nbsp;|&nbsp; <a href="/customercare/kbarticle.aspx?id=KBA-01364" id="ctl00_lnkSalesPolicy" style="color: white">Sales policy</a>&nbsp;|&nbsp;
-              <a href="/company/privacy.aspx" id="ctl00_lnkPrivacyPolicy" style="color: white">
-                Privacy policy</a>
-            </td>
-	</tr>
-</tbody></table>
+    <div id="footer">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td id="ctl00_ctl00_tdCopyright" align="left" valign="middle" style="width: 50%;">
+            <span class="copyright">©1998-2008
+              iolo technologies, LLC. All rights reserved.</span></td>
 
-      </div>
-      <div style="color: #9F9F9F; padding: 0px;">
-        © 1998-2007
-        iolo technologies, LLC. All rights reserved.
-      </div>
-    </center>
-    <br>
-    <br>
+          <td align="right" valign="middle">
+            <a href="/purchase.aspx">
+              Products</a> | <a href="/company/contactus.aspx">Contact Us</a>
+              | <a href="/company/privacy.aspx">Privacy Policy</a> | <a href="/customercare/kbarticle.aspx?id=KBA-01364">
+                Sales Policy</a> | <a href="/sitemap.aspx">Site Map</a>
+          </td>
+        </tr>
+      </tbody></table>
+      
+    </div>
   </form>
 
 
