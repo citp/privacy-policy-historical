@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the panpacific.com privacy policy that was archived on 2007-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071006081315id_/http%3A//www.panpacific.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panpacific.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509080539id_/http%3A//www.panpacific.com/privacy.html) for the most accurate reproduction.*
 
 # Pan Pacific Hotels - Privacy Policy
-
-#### Privacy
 
 Pan Pacific Hotels and Resorts (PPHR) is committed to ensuring your personal information is protected. PPHR understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. This privacy policy statement (“Privacy Policy Statement”) will explain how we go about using and safeguarding personal information collected from you, or that you provide to PPHR or its affiliates via this Pan Pacific Site and services. 
 
