@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsafehome.com privacy policy that was archived on 2007-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070702062912id_/http%3A//www.bsafehome.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsafehome.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509141715id_/http%3A//www.bsafehome.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
