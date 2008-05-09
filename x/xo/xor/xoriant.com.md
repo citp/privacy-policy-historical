@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the xoriant.com privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810043551id_/http%3A//www.xoriant.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoriant.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509140137id_/http%3A//www.xoriant.com/privacy_policy) for the most accurate reproduction.*
 
-# Xoriant Solutions
+# Xoriant - Privacy
 
-**PRIVACY POLICY**  
-Copyright © 2005 Xoriant, Inc. All Rights Reserved.
+PRIVACY POLICY
+
+Copyright © 2007 Xoriant, Inc. All Rights Reserved.
 
 Xoriant respects and is committed to protecting your privacy. You can view our web site without divulging any personal information about yourself, however certain content on our web site requires registration and the transmittal of personal information. We have created this Privacy Statement to disclose what happens with the personal information you provide to us through this process. At any time, you have the ability to visit the subscription center and deactivate any access you registered for or terminate receipt of communications from us.
 
