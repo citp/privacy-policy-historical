@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halowars.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222121713id_/http%3A//halowars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halowars.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509123729id_/http%3A//www.halowars.com/privacy.html) for the most accurate reproduction.*
 
 # Halo Wars Privacy Statement
 
