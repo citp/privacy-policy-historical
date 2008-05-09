@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalproductsinsider.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224053628id_/http%3A//www.vpico.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalproductsinsider.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509122751id_/http%3A//www.vpico.com/privacy.html) for the most accurate reproduction.*
 
 # Virgo Publishing - Privacy Policy
 
