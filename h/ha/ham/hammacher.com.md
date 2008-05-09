@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215080754id_/http%3A//www.hammacher.com/order/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509142520id_/http%3A//www.hammacher.com/order/privacy.asp) for the most accurate reproduction.*
 
 # Hammacher Schlemmer
 
@@ -23,9 +23,9 @@ Hammacher Schlemmer contracts with Coremetrics, a service partner, for data coll
 **Placing an Order Online**  
 When you place an order online at hammacher.com, we request the information we need to complete your order. This information includes your full name, billing address, shipping address, telephone number, email address, and credit card number. 
 
-The information you provide will be used to process your order and improve your shopping experience. Once you have placed an order with us, we will verify with your credit card company that your credit card is valid, and send you an email message that confirms your order was successfully received. We will also send you an email once your order has been shipped, or if it has been placed on backorder.
+The information you provide will be used to process your order and improve your shopping experience. Once you have placed an order with us, we will verify with your credit card company that your credit card is valid and send you an email message that confirms your order was successfully received. We will also send you an email once your order has been shipped, or if it has been placed on backorder.
 
-We will periodically send to you, via your street or email address, product news and updates that you may find of interest. We NEVER share or sell our customers' email addresses or telephone numbers for marketing purposes, but we do sometimes share other customer information with trusted third parties. 
+We will periodically send to your street or email address product news and updates that you may find of interest. We NEVER share or sell our customers' email addresses or telephone numbers for marketing purposes, but we do sometimes share other customer information with trusted third parties. 
 
 **How to Opt-out**  
 If you do not wish to receive promotional postal and/or email updates from Hammacher Schlemmer, or if you prefer that we not share your postal address with other merchants please: 
@@ -48,7 +48,7 @@ When you request a gift message with your order, we do not use the information c
 When you email a message to a friend from hammacher.com, you and your friend's email addresses are both required. This ensures that your friend will know that we have sent the email message at your request. Emails obtained for the Tell a Friend service are only used for this purpose, and then discarded.
 
 **Catalog Requests & Email Updates**  
-When you request a Hammacher Schlemmer catalog at hammacher.com, or ask to receive email updates, we request your name, address and email address in order to complete your request. We will respect your privacy and use your information in the same way described above under "Placing an Order Online".
+When you request a Hammacher Schlemmer catalog at hammacher.com or ask to receive email updates, we request your name, address and email address in order to complete your request. We will respect your privacy and use your information in the same way described above under "Placing an Order Online".
 
 _Last updated September 1, 2007_
 
