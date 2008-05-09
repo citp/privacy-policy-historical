@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coregistracion.com privacy policy that was archived on 2007-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070704031354id_/http%3A//coregistracion.com/en/politicadeprivacidad.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coregistracion.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509131956id_/http%3A//www.coregistracion.com/en/politicadeprivacidad.html) for the most accurate reproduction.*
 
 # Coregistros.com, recopilación de datos de mercado
 
@@ -83,5 +83,5 @@ Co-registracion.com may transfer, sell or assign information concerning your use
 
 Co-registracion.com or its successors and assigns may amend the terms and conditions of the Privacy Policy at any time, or substitute a different Agreement by posting a revised version, on the Co-registracion.com Sites. Please refer to our site periodically for updates. Amendments shall become effective upon posting. As we continue to develop our business, we might sell or buy certain assets. In such transactions, customer information generally is one of the transferred business assets. If Co-registracion.com or its assets are acquired, customer information will of course be one of the transferred assets.
 
-[](https://web.archive.org/web/20070704031354id_/http%3A//coregistracion.com/en/contactenos.html)  
+[](https://web.archive.org/web/20080509131956id_/http%3A//www.coregistracion.com/en/contactenos.html)  
 
