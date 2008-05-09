@@ -1,22 +1,15 @@
-> *The following text is extracted and transformed from the webhostingclue.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225100333id_/http%3A//www.webhostingclue.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingclue.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509105818id_/http%3A//www.webhostingclue.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Web Hosting Clue
+# Privacy Policy
 
-_**What is the purpose of this Privacy Policy?  
-**_
-
-Web Hosting Clue has created this privacy policy in order to demonstrate our firm commitment to our users. The following discloses our information gathering and dissemination practices for this website: 
-
-_[www.webhostingclue.com](http://www.webhostingclue.com/)_
-
-. Please continue reading for complete details on the Web Hosting Clue privacy policy. If you have any questions about the policy, you can [ Contact us](mailto:support@webhostingclue.com) and request more information. 
+**_What is the purpose of this Privacy Policy?_** Web Hosting Clue has created this privacy policy in order to demonstrate our firm commitment to our users. The following discloses our information gathering and dissemination practices for this website: [www.webhostingclue.com](http://www.webhostingclue.com/). Please continue reading for complete details on the Web Hosting Clue privacy policy. If you have any questions about the policy, you can [Contact us](http://www.webhostingclue.com/contact) and request more information. 
 
 _**What information do we collect from users and how is it used?**_
 
 Web Hosting Clue is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this policy. 
 
-**_Surveys & Contests _   
-**   
+**_Surveys & Contests _  
+**  
 From time-to-time, our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code and age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
 _**Referral Program**_
@@ -36,11 +29,11 @@ _**Does the Web Hosting Clue website use cookies? If so, how are cookies used on
 Cookies are pieces of information that a website transfers to a user's hard drive for record-keeping purposes while visiting a site. So far, Web Hosting Clue still haven't used any Cookies, we just provide the material of Web Hosting Knowledge.
 
  _ **  
-What are the policies of linked sites and other third parties? ** _
+What are the policies of linked sites and other third parties?**_
 
 This privacy policy only addresses the use and disclosure of information we collect from you. Although you may interact with hosting suppliers as a result of visiting our site, or link to other sites or third parties via our website, Web Hosting Clue is not responsible for the privacy practices of third parties or the content of linked sites. We encourage you to read the posted privacy policy whenever interacting with any website. 
 
-_**To whom does Web Hosting Clue release information?** _
+_**To whom does Web Hosting Clue release information?**_
 
 Web Hosting Clue only releases specific customer information to third parties, such as Hosting suppliers when you select a supplier. The information transfer is necessary in order to facilitate your transaction to the new supplier and complete account set-up. Please be aware that despite our best intentions and the guidelines outlined in this privacy policy, no data transmission over the Internet can be guaranteed to be 100% secure. Moreover, we may be legally obligated to disclose information to the government or to third parties under certain circumstances, such as illegal activity on our Site. Web Hosting Clue reserves the right to release personally identifiable information to law enforcement or other government officials, as Web Hosting Clue, in our sole and absolute discretion, deems necessary or appropriate. 
 
@@ -50,4 +43,4 @@ Web Hosting Clue reserves the right to update this privacy policy from time to t
 
 _**How to contact us?**_
 
-If you have any questions about this privacy policy or the practices of this website, you can [ Contact us](mailto:support@webhostingclue.com) and request more information.
+If you have any questions about this privacy policy or the practices of this website, you can [Contact us](http://www.webhostingclue.com/contact) and request more information. 
