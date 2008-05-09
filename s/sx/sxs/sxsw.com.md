@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216075106id_/http%3A//sxsw.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509163511id_/http%3A//sxsw.com/privacy_policy) for the most accurate reproduction.*
 
 # south by southwest festivals + conferences
 
 SXSW, Inc. has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for all of sxsw.com, including, but not limited to the following sites:
 
   * sxsw.com
-  * 2007.sxsw.com 
+  * 2008.sxsw.com 
   * www.sxsw.com
   * secure.sxsw.com
   * mgr.sxsw.com
