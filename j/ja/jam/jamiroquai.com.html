@@ -1,0 +1,466 @@
+<!--The following is the downloaded HTML source of the jamiroquai.com privacy policy that was archived on 2008-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509054023id_/http%3A//jamiroquai.com/home/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title>Jamiroquai - Official Website / Privacy</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="imagetoolbar" content="false">
+        <link href="http://www.jamiroquai.com/datafeed/?feed=General_news" rel="alternate" type="application/rss+xml" title="ABC Motors RSS">
+	<meta name="Author" content="Design and CMS: Modera - www.modera.net, Digital management: Million - www.1-000-000.com ">
+	<meta name="Keywords" content="">
+	<meta name="Description" content="">
+
+	<link rel="stylesheet" type="text/css" href="/img/styles.css" media="all">
+	<link rel="stylesheet" type="text/css" href="/img/styles_screen.css" media="screen, projection" title="Jamiroquai">
+
+	<link rel="shortcut icon" type="image/ico" href="/img/favicon.ico">
+
+	<script type="text/javascript" src="/js/scripts.js"></script>
+	<script type="text/javascript" src="/js/swfobject.js"></script>
+	<script type="text/javascript" src="/js/AC_RunActiveContent.js"></script>
+	<script type="text/javascript">/* <![CDATA[ */
+        // remote scripting library
+        // (c) copyright 2005 modernmethod, inc
+        var sajax_debug_mode = false;
+        var sajax_request_type = "GET";
+        var sajax_target_id = "";
+        var sajax_failure_redirect = "";
+
+        function sajax_debug(text) {
+            if (sajax_debug_mode)
+                alert(text);
+        }
+
+        function sajax_init_object() {
+            sajax_debug("sajax_init_object() called..")
+
+            var A;
+
+            var msxmlhttp = new Array(
+                'Msxml2.XMLHTTP.5.0',
+                'Msxml2.XMLHTTP.4.0',
+                'Msxml2.XMLHTTP.3.0',
+                'Msxml2.XMLHTTP',
+                'Microsoft.XMLHTTP');
+            for (var i = 0; i < msxmlhttp.length; i++) {
+                try {
+                    A = new ActiveXObject(msxmlhttp[i]);
+                } catch (e) {
+                    A = null;
+                }
+            }
+
+            if(!A && typeof XMLHttpRequest != "undefined")
+                A = new XMLHttpRequest();
+            if (!A)
+                sajax_debug("Could not create connection object.");
+            return A;
+        }
+
+        var sajax_requests = new Array();
+
+        function sajax_cancel() {
+            for (var i = 0; i < sajax_requests.length; i++)
+                sajax_requests[i].abort();
+        }
+
+        function sajax_do_call(func_name, args) {
+            var i, x, n;
+            var uri;
+            var post_data;
+            var target_id;
+
+            sajax_debug("in sajax_do_call().." + sajax_request_type + "/" + sajax_target_id);
+            target_id = sajax_target_id;
+            if (typeof(sajax_request_type) == "undefined" || sajax_request_type == "")
+                sajax_request_type = "GET";
+
+            uri = "http://www.jamiroquai.com/";
+            if (sajax_request_type == "GET") {
+
+                if (uri.indexOf("?") == -1)
+                    uri += "?rs=" + escape(func_name);
+                else
+                    uri += "&rs=" + escape(func_name);
+                uri += "&rst=" + escape(sajax_target_id);
+                uri += "&rsrnd=" + new Date().getTime();
+
+                for (i = 0; i < args.length-1; i++)
+                    uri += "&rsargs[]=" + escape(args[i]);
+
+                post_data = null;
+            }
+            else if (sajax_request_type == "POST") {
+                post_data = "rs=" + escape(func_name);
+                post_data += "&rst=" + escape(sajax_target_id);
+                post_data += "&rsrnd=" + new Date().getTime();
+
+                for (i = 0; i < args.length-1; i++)
+                    post_data = post_data + "&rsargs[]=" + escape(args[i]);
+            }
+            else {
+                alert("Illegal request type: " + sajax_request_type);
+            }
+
+            x = sajax_init_object();
+            if (x == null) {
+                if (sajax_failure_redirect != "") {
+                    location.href = sajax_failure_redirect;
+                    return false;
+                } else {
+                    sajax_debug("NULL sajax object for user agent:\n" + navigator.userAgent);
+                    return false;
+                }
+            } else {
+                x.open(sajax_request_type, uri, true);
+                // window.open(uri);
+
+                sajax_requests[sajax_requests.length] = x;
+
+                if (sajax_request_type == "POST") {
+                    x.setRequestHeader("Method", "POST " + uri + " HTTP/1.1");
+                    x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+                }
+
+                x.onreadystatechange = function() {
+                    if (x.readyState != 4)
+                        return;
+
+                    sajax_debug("received " + x.responseText);
+
+                    var status;
+                    var data;
+                    var txt = x.responseText.replace(/^\s*|\s*$/g,"");
+                    status = txt.charAt(0);
+                    data = txt.substring(2);
+
+                    if (status == "") {
+                        // let's just assume this is a pre-response bailout and let it slide for now
+                    } else if (status == "-")
+                        alert("Error: " + data);
+                    else {
+                        if (target_id != "")
+                            document.getElementById(target_id).innerHTML = eval(data);
+                        else {
+                            try {
+                                var callback;
+                                var extra_data = false;
+                                if (typeof args[args.length-1] == "object") {
+                                    callback = args[args.length-1].callback;
+                                    extra_data = args[args.length-1].extra_data;
+                                } else {
+                                    callback = args[args.length-1];
+                                }
+                                callback(eval(data), extra_data);
+                            } catch (e) {
+                                sajax_debug("Caught error " + e + ": Could not eval " + data );
+                            }
+                        }
+                    }
+                }
+            }
+
+            sajax_debug(func_name + " uri = " + uri + "/post = " + post_data);
+            x.send(post_data);
+            sajax_debug(func_name + " waiting..");
+            delete x;
+            return true;
+        }
+
+        
+        // wrapper for get_date
+        function x_get_date() {
+            sajax_do_call("get_date",
+                x_get_date.arguments);
+        }
+
+        /* ]]> */</script>
+</head>
+<body>
+
+<div id="box1">
+	<div id="flashcontent01"></div>
+	<script type="text/javascript">
+	var so = new SWFObject("/header.swf?playlist_file=http%3A%2F%2Fwww.jamiroquai.com%2Fmplaylist.php%3Fuid%3D261d998442aca2d6e0032bd8dd02b21b", "Header", "958", "217", "8");
+	so.addParam("wmode", "transparent");
+	so.write("flashcontent01");
+	</script>
+    <!--<script type="text/javascript">
+    AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','958','height','217','src','header','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','header' ); //end AC code
+    </script>-->
+
+
+	<ul id="menu1"><li><a href="/site/news" class="active">Home</a></li><li><a href="/jamiroquai">Jamiroquai</a></li><li><a href="/shop" target="_blank">Shop</a></li><li><a href="/forum">Forum</a></li><li><a href="/how-to">How to?</a></li><li><a href="/sign-in">Sign up</a></li></ul>
+
+	<div id="box2">
+        <ul id="menu2" class="clear"><li><a href="/?content=104"><span>Tour Dates</span></a></li></ul>
+
+        <ul id="menu4" class="clear"><li style="visible:none; line-height:0px; height:0px; font-size:0px;"></li></ul>
+
+        <div id="box3" class="content">
+            <div class="clear content">
+                <div id="col01">
+                    <h1>Privacy</h1>
+                    <h2>PRIVACY POLICY</h2>
+<br>
+Jamiroquai Limited will use the information provided by you in the
+course of our dealing with you to process your requests and orders and
+in order to provide a more personalised web-surfing and shopping
+experience. <br>
+<br>
+
+We may collect anonymous information about your use of this website
+from cookies and by the use of pixel tags. We may match this
+information with any other data you have given us for the purposes of
+fulfilling your orders and other requests, tailoring our site to help
+you, sending you appropriate marketing communications and maintaining
+our records. A cookie is a short piece of data which is sent from a web
+server to a web browser when that browser visits the server's site.
+Pixel tags are used to read cookies. Most browsers automatically accept
+cookies. You can set your browser options so that you will not receive
+cookies and you can also delete existing cookies from your browser.
+However some of the cookies sent to your browser will help us to save
+you time, for example by remembering your contact details when you are
+making an order for the second time – this means that you will not have
+to complete your contact details section again unless they have
+changed. In addition you may find that some parts of the site will not
+function properly if you refuse cookies.
+<br>
+<br>
+
+This website also contains various “opt-in” boxes on the relevant pages
+where you provide your personal information in the form of an email
+address. Jamiroquai Limited will not provide your email address to any
+third parties unless you specifically opt in to them by ticking a
+relevant box to hear from a specified third party. Similarly if you
+have not ticked the opt-in box we will not email you information as
+described.
+<br>
+<br>
+Please note that clicking on to links and banner
+advertisements may result in your transferral to another website, where
+data privacy practices may be different to that of Jamiroquai.
+Visitors should consult the other website’s privacy policies as we are
+not responsible for, and have no control over, information that is
+submitted to or collected by these third parties.
+<br>
+<br>
+This privacy policy may be changed by Jamiroquai Limited at any
+time. The revised policy will be posted to this page so that you are
+always aware of the information we collect, how we use it and under
+what circumstances we disclose it. Jamiroquai Limited will ensure that
+your personal information is treated with the utmost respect and in
+accordance with Directive 95/46/EC on the protection of individuals
+with regard to processing of personal data and on the free movement of
+such data.
+                </div>
+                <div id="col02">
+                    					<!-- Right column -->
+<div id="flashcontent02"></div>
+					<script type="text/javascript">
+					var so = new SWFObject("http://www.youtube.com/p/160F61DABFEA028C", "Youtube", "530", "370", "8");
+					so.addParam("wmode", "transparent");
+					so.write("flashcontent02");
+					</script>
+
+					<a name="subscribe_form">
+					<!-- module subscribe cached -->
+<script type="text/javascript">
+subscribe = function(act){
+    var email = document.forms['subscription'].email;
+    document.forms['subscription'].subscription_action.value = act;
+    document.forms['subscription'].submit();
+}
+</script>
+                    </a><form action="" method="post" name="subscription"><a name="subscribe_form">
+						</a><div class="subscribe clear"><a name="subscribe_form">
+							</a><div class="c1"><a name="subscribe_form">
+								</a><div class="pad clear"><a name="subscribe_form">
+								
+									<input type="text" name="email" class="default" value="Enter Your e-mail address" onfocus="if(this.value=='Enter Your e-mail address'){this.value=''}" onblur="if(this.value==''){this.value='Enter Your e-mail address'}">
+									<input type="submit" class="button" value="Subscribe">
+									</a><a href="javascript:void(0);" onclick="javascript: subscribe('unsubscribe'); return false;">Click to unsubscribe</a>
+								
+								
+								</div>
+							</div>
+						</div>
+						<input type="hidden" name="subscription_action" value="subscribe">
+					</form>
+					<iframe class="iframe01" frameborder="0" scrolling="no" src="http://spongecell.com/embed/view/jamiroquai/Jamiroquai?calendar_title=Jamiroquai&amp;weeks_displayed=4&amp;show_event_times=0&amp;cell_date_font_size=11px&amp;today_color=%23d3cadc&amp;event_background_color=%23e3dfe8&amp;title_background_color=%23765a8a&amp;title_text_color=%23ffffff&amp;container_background_color=%23ffffff&amp;cell_text_color=%234a4a4a"></iframe>
+
+					<!-- /Right column -->
+
+					<h2 class="type1">Music</h2>
+					<ul class="listing1 clear">
+						<li>
+							<div class="img"><a href="http://www.jamiroquai.com/?content=52"><img src="http://www.jamiroquai.com/upload/cover_art/dvd/montreux_dvd_75x75.jpg" border="0" alt="Live At Montreux"></a></div>
+							<div class="txt">
+								<h3><a href="http://www.jamiroquai.com/?content=52">Live In Montreux DVD</a></h3>
+								<p class="buy"><a href="http://www.recordstore.co.uk/jamiroquai/home.jsp?wherefrom=productdetail.jsp?productPK=unittest-cHzXQy7dhVIZGIuaqN3IEb-1"><span>Buy Now</span></a></p>
+							</div>
+						</li>
+						<li>
+							<div class="img"><a href="http://www.jamiroquai.com/?content=53"><img src="http://www.jamiroquai.com/upload/cover_art/hightimes/greatest_hits_75x75.jpg" alt="High Times - The Singles 1992 - 2006"></a></div>
+							<div class="txt">
+								<h3><a href="http://www.jamiroquai.com/?content=53">High Times - The Singles 1992 - 2006</a></h3>
+								<p class="buy"><a href="http://www.recordstore.co.uk/jamiroquai"><span>Buy Now</span></a></p>
+							</div>
+						</li>
+						<li>
+							<div class="img"><a href="#"><img src="img/tmp04.jpg" alt="Travelling Without Moving"></a></div>
+							<div class="txt">
+								<h3><a href="#">Travelling Without Moving</a></h3>
+								<p class="buy"><a href="#"><span>Buy Now</span></a></p>
+							</div>
+						</li>
+					</ul>
+					<h2 class="type1">Merchandise</h2>
+					<ul class="listing1 clear">
+						<li>
+							<div class="img"><a href="http://www.recordstore.co.uk/jamiroquai/home.jsp?wherefrom=productdetail.jsp?productPK=unittest-o6aSSBnK4cQTspA0qN3IEb-1"><img src="http://www.jamiroquai.com/upload/oakley/JK15OAKLEY-300_thumb.jpg" alt="Oakley JK15"></a></div>
+							<div class="txt">
+								<h3><a href="http://www.recordstore.co.uk/jamiroquai/home.jsp?wherefrom=productdetail.jsp?productPK=unittest-o6aSSBnK4cQTspA0qN3IEb-1">Oakley JK15</a></h3>
+								<p class="buy"><a href="http://www.recordstore.co.uk/jamiroquai/home.jsp?wherefrom=productdetail.jsp?productPK=unittest-o6aSSBnK4cQTspA0qN3IEb-1"><span>Buy Now</span></a></p>
+							</div>
+						</li>
+						<li>
+							<div class="img"><a href="http://www.recordstore.co.uk/jamiroquai"><img src="http://www.jamiroquai.com/upload/pictures/merchandise/JK2006-BYPNKHAT.jpg" height="75" width="75" alt="Pink Baby Hat"></a></div>
+							<div class="txt">
+								<h3><a href="http://www.recordstore.co.uk/jamiroquai">Pink Baby Hat</a></h3>
+								<p class="buy"><a href="http://www.recordstore.co.uk/jamiroquai"><span>Buy Now</span></a></p>
+							</div>
+						</li>
+						<li>
+							<div class="img"><a href="http://www.recordstore.co.uk/jamiroquai"><img src="http://www.jamiroquai.com/upload/pictures/merchandise/JKnavybag.jpg" height="75" width="75" alt="JK Navy Bag"></a></div>
+							<div class="txt">
+								<h3><a href="http://www.recordstore.co.uk/jamiroquai">Jamiroquai Navy Bag</a></h3>
+								<p class="buy"><a href="http://www.recordstore.co.uk/jamiroquai"><span>Buy Now</span></a></p>
+							</div>
+						</li>
+					</ul>
+					<h2 class="type1">Links</h2>
+					<ul class="links clear">
+						<li>
+							<h3>Fan Sites</h3>
+							<ul>
+								<li><a href="http://www.funkin.com">The Funkin Site</a></li>
+								<li><a href="http://www.jamirotalk.net/">Jamirotalk</a></li>
+								<li><a href="http://members.xoom.it/sekopiero">Jamirosite</a></li>
+								<li><a href="http://www.j-love.info/">J-Love</a></li>
+                                                                <li><a href="http://www.jamirolive.com/">Jamirolive</a></li>
+							</ul>
+						</li>
+						<li>
+							<h3>Official Sites</h3>
+							<ul>
+								<li><a href="http://www.myspace.com/jamiroquai">Jamiroquai MySpace Website</a></li>
+								<li><a href="http://bb.jamiroquai.com/">Jam Party People Forum</a></li>
+								<li><a href="http://www.recordstore.co.uk/jamiroquai/">Official Jamiroquai Shop</a></li>
+								<li><a href="http://www.youtube.com/jamiroquaivideo">Jamiroquai YouTube Channel</a></li>
+								<li><a href="http://www.7digital.com/stores/listing.aspx?shop=34&amp;masterartist=19310">Jamiroquai on 7 Digital</a></li>
+								<li><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=201716966&amp;s=143444">Jamiroquai on iTunes</a></li>
+
+							</ul>
+						</li>
+						<li>
+							<h3>Sites of Interest</h3>
+							<ul>
+								<li><a href="http://www.oxfam.org">Oxfam</a></li>
+								<li><a href="http://www.makepovertyhistory.org/">Make Poverty History</a></li>
+								<li><a href="http://en.wikipedia.org/wiki/Jamiroquai">Wikipedia Jamiroquai</a></li>
+								<li><a href="http://www.last.fm/music/Jamiroquai">Last.fm Jamiroquai</a></li>
+								<li><a href="http://musicmoz.org/Bands_and_Artists/J/Jamiroquai/">MusicMoz Jamiroquai</a></li>
+								<li><a href="/jamiroquai/links"><b>See All the Links</b></a></li>
+							</ul>
+						</li>
+					</ul>
+					<h2 class="type1">Profiles</h2>
+					<ul class="profiles clear">
+						<li><a href="http://www.myspace.com/jamiroquai" class="myspace">Myspace</a></li>
+						<li><a href="http://www.virb.com/jamiroquai" class="virb">Virb</a></li>
+						<li><a href="http://jamiroquai.imeem.com/" class="imeem">Imeem</a></li>
+						<li><a href="http://www.youtube.com/jamiroquaivideo" class="youtube">YouTube</a></li>
+						<li><a href="http://www.last.fm/music/Jamiroquai" class="lastfm">Last.fm</a></li>
+						<li><a href="http://www.netvibes.com/jamiroquai" class="netvibes">Netvibes</a></li>
+<li>
+<a style="background:transparent url(http://www.jamiroquai.com/upload/design/ilike_14x14.jpg) no-repeat scroll 0%; margin-left: 1px;" href="http://www.ilike.com/artist/Jamiroquai">iLike</a>
+</li>
+<li>
+<a style="background:transparent url(http://www.jamiroquai.com/upload/design/facebook_logo_14x14.jpg) no-repeat scroll 0%; margin-left: 1px;" href="http://www.facebook.com/profile.php?id=6220201117">Facebook</a>
+</li>
+					</ul>
+					<h2 class="type1">Latest forum activity</h2>
+
+					<table class="data">
+						<tbody><tr>
+							<th>Topics</th>
+							<th class="center">Replies</th>
+							<th class="center">Author</th>
+							<th class="center">Views</th>
+							<th class="center">Last Post</th>
+						</tr>
+						<!--<tr>
+							<td><a href="#">Announcement: Jay Kay quitting music - the truth</a></td>
+							<td class="center">23</td>
+							<td class="center">David</td>
+							<td class="center">2342</td>
+							<td class="center">12.12.2006</td>
+						</tr>
+						<tr>
+							<td><a href="#">Announcement: Jay Kay quitting music - the truth</a></td>
+							<td class="center">23</td>
+							<td class="center">David</td>
+							<td class="center">2342</td>
+							<td class="center">12.12.2006</td>
+						</tr>
+						<tr>
+							<td><a href="#">Announcement: Jay Kay quitting music - the truth</a></td>
+							<td class="center">23</td>
+							<td class="center">David</td>
+							<td class="center">2342</td>
+							<td class="center">12.12.2006</td>
+						</tr>
+						<tr>
+							<td><a href="#">Announcement: Jay Kay quitting music - the truth</a></td>
+							<td class="center">23</td>
+							<td class="center">David</td>
+							<td class="center">2342</td>
+							<td class="center">12.12.2006</td>
+						</tr>
+						<tr>
+							<td><a href="#">Announcement: Jay Kay quitting music - the truth</a></td>
+							<td class="center">23</td>
+							<td class="center">David</td>
+							<td class="center">2342</td>
+							<td class="center">12.12.2006</td>
+						</tr>-->
+					</tbody></table>
+
+					<div id="last_topics">
+                    <style type="text/css">
+                        #last_topics .topics{ border:10px solid white; display:block; }
+                        #last_topics .topics a{ text-decoration:underline; }
+                        #last_topics .topics br{ margin-bottom:17px; }
+                    </style>
+					<script language="JavaScript" type="text/javascript" src="http://bb.jamiroquai.com/topics_anywhere.php?mode=show&amp;f=uMSwzLDUsNiw3LDgsOQ&amp;n=10&amp;r=y&amp;b=non&amp;lpb=0&amp;lpd=0&amp;lpi=y&amp;cl=topics_link&amp;ct=topics"></script>
+					</div>
+                </div>
+            </div>
+        </div>
+    </div>
+	<p id="footer">
+	   <a href="/index.php/redirect/copy">2008 Jamiroquai - Official Website</a> <span>/</span>
+	   <a href="/index.php/redirect/contact">Contact</a> <span>/</span>
+	   <a href="/index.php/redirect/privacy">Privacy</a> <span>/</span>
+	   <a href="/index.php/redirect/sitemap">Sitemap</a> <span>/</span>
+	   Credits: <a href="http://www.1-000-000.com">Digital management</a> <span>/</span>
+           <a href="http://www.modera.net">Cms and Design</a> <span>/</span>
+           <a href="http://www.nasstar.co.uk">Hosting</a>
+	</p>
+</div>
+
+
+<!-- report: general cache not used (0.51778)  (module specific caching in use) -->
+<!-- full page: 0.38111 -->
+</body></html>
