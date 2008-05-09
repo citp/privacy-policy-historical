@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the developerfusion.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629232541id_/http%3A//www.developerfusion.co.uk/Extra/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developerfusion.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509082121id_/http%3A//www.developerfusion.co.uk/Extra/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Developer Fusion - Visual Basic, C# Programming, ASP.NET, .NET Framework and Java Tutorials
 
