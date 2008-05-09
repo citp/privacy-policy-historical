@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grammarbook.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209234123id_/http%3A//www.grammarbook.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarbook.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509070009id_/http%3A//www.grammarbook.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,10 +12,10 @@ If you have a complaint about [Grammarbook.com](http://grammarbook.com/)'s compl
 
 If you are having problems with quizzes, downloads, registration, or have any comments, please contact us by email at [support@grammarbook.com ](mailto:support@grammarbook.com) or by phone at 415-458-1900. 
 
-Feel free to [try an interactive quiz ](http://www.grammarbook.com/interactive_quizzes_exercises.asp) prior to purchasing a membership. 
+You may try a free [interactive quiz ](http://www.grammarbook.com/interactive_quizzes_exercises.asp) prior to purchasing. 
 
-We do not regulate the downloads once you are a member; therefore, no refunds or returns are offered. 
+We do not regulate the downloads; therefore, no refunds or returns are offered. 
 
-By becoming a member, you will receive the same quality quizzes as in the free interactive quiz section but with additional topics and in additional formats (HTML, PDF, or Interactive). The interactive format provides instant, automatic scoring. 
+You will receive the same quality quizzes as in the free interactive quiz section but with additional topics and in additional formats (HTML or PDF). Subscribers will also get access to an interactive format including automatic, instant scoring.
 
 Please contact us with any questions at [support@grammarbook.com ](mailto:support@grammarbook.com). 
