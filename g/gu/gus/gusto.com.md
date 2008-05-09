@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gusto.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215162938id_/http%3A//www.gusto.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gusto.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509093016id_/http%3A//www.gusto.com/privacy_policy) for the most accurate reproduction.*
 
 # gusto privacy policy
 
@@ -47,8 +47,8 @@ Gusto.com takes your privacy seriously. Please read the following to learn more 
         2. _Feedback._ **If you have questions or suggestions, please complete the "Contact Us" form** or you can contact us at:  
 Gusto.com Inc.  
 Customer Care - Privacy Policy Issues  
-1200 E. Woodhurst  
-Building J-Suite 220  
+1440 E. Lark  
+Suite G  
 Springfield, Missouri 65804
 
 
