@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miniusa.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212033353id_/http%3A//www.miniusa.com/footer-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniusa.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509185047id_/http%3A//www.miniusa.com/footer-privacy-policy.html) for the most accurate reproduction.*
 
 # MINI USA Privacy Policy at MINIUSA.com
 
