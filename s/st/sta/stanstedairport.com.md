@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanstedairport.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211053737id_/http%3A//www.stanstedairport.com/portal/page/STN%255EMisc%255EPrivacy%2BStatement/9ca16d35771a2010VgnVCM100000147e120a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanstedairport.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509133007id_/http%3A//www.stanstedairport.com/portal/page/STN%255EMisc%255EPrivacy%2BStatement/9ca16d35771a2010VgnVCM100000147e120a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
 
 # BAA Stansted: Privacy Statement
 
