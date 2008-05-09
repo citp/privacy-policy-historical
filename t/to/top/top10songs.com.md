@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10songs.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216012310id_/http%3A//top10songs.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10songs.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509145223id_/http%3A//www.top10songs.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Top 10 Songs - Privacy Policy
 
@@ -14,20 +14,4 @@ Top 10 Songs collects personally identifiable information only during voluntary 
 
  **Security**
 
-Although Top 10 Songs uses all reasonable efforts to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. Top 10 Songs will have no liability for disclosure of personally identifiable information due to errors in transmission or unauthorized acts of third parties.
-
- **Outside Links**
-
-Top 10 Songs contains links to other sites. Top 10 Songs is not responsible for the privacy practices or the content of other Web sites.
-
- **Advertising & Cookies**
-
-Top 10 Songs uses an outside ad company to display ads on our site. While we do not use cookies on our sites, ads from advertisers may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information. Users will be able to use all features of Top 10 Songs whether or not they have disabled cookies on their system.
-
- **Consent**
-
-By using this site, you signify your consent with the Top 10 Songs Privacy Policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-Back To Top    |   [Contact Us](mailto:Info@WhoDoesThatSong.com)    |    [Home](http://www.top10songs.com/)
-
-Copyright © 2007 Top 10 Songs. All rights reserved.
+Although Top 10 Songs uses all reasonable efforts to safeguard the confidentiality of your perso
