@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the parexel.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213220207id_/http%3A//www.parexel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parexel.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509072743id_/http%3A//www.parexel.com/privacy_policy.html) for the most accurate reproduction.*
 
 # PAREXEL International - Privacy Policy
 
 **Privacy Commitment**   
-Your privacy is important to PAREXEL. To protect your privacy while you use our websites and let you know what types of information we are collecting and how we are using it, we have developed this Privacy Policy. As we update our services and technologies and as we expand or change our offerings, this Privacy Policy may change from time to time, so please check it periodically. 
+Your privacy is important to PAREXEL. To protect your privacy while you use our websites and let you know what types of information we are collecting and how we are using it, we have developed this Privacy Policy. As we update our services and technologies and as we expand or change our offerings, this Privacy Policy may change from time to time, so please check it periodically.
 
 **Your Personal Information and How We Use It  
-**PAREXEL will collect information through its websites that can identify you (if provided by you), such as your name, address, phone number, e-mail address, company name and position. PAREXEL International may use this information to respond to your requests for information, products or services. PAREXEL may also collect non-identifying information, such as information gathered through our weblogs and “cookies” (see below). 
+**PAREXEL will collect information through its websites that can identify you (if provided by you), such as your name, address, phone number, e-mail address, company name and position. PAREXEL International may use this information to respond to your requests for information, products or services. PAREXEL may also collect non-identifying information, such as information gathered through our weblogs and “cookies” (see below).
 
 When you contact PAREXEL via its website to request or to access information, you are asked to provide personal information.  By providing your personal information to PAREXEL via its website, you agree to receive communications from PAREXEL.
 
@@ -14,12 +14,15 @@ The information collected will be shared with employees of PAREXEL to the extent
 
 PAREXEL reserves the right to disclose all information collected to the extent required by law or to respond to judicial process. PAREXEL may also provide any or all collected information to a third party in connection with the sale, assignment, or other transfer of the business of the particular website to which the information relates if such third party agrees to treat all such information in accordance with this Privacy Policy.
 
-Every effort is made to ensure that the information is accurate and up-to-date and all communications with individuals provide easy means of validating, correcting errors and updating information.  
+Every effort is made to ensure that the information is accurate and up-to-date and all communications with individuals provide easy means of validating, correcting errors and updating information.
+
 PAREXEL takes appropriate measures to maintain the confidentiality of your personal information regardless of the country where such information is stored or transferred.
 
 **Cookies And How We Use Them**   
-When you use our sites, PAREXEL may assign cookie files to you, which are a small amount of data we send to your web browser. Cookies enable the computers operating our websites to differentiate between visitors and to track the patterns of activities engaged in by different visitors. By tracking such activities, the computers operating our websites can recognize a visitor and customize certain features for that visitor. We may also use aggregated, non-identifiable data regarding persons who visit our site in order to learn more about the use of the site and how we can improve it.  
-You may be able to modify your browser preferences to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose not to accept cookies, you may not be able to use those functions of the websites that require registration, such as electronic commerce.  
+When you use our sites, PAREXEL may assign cookie files to you, which are a small amount of data we send to your web browser. Cookies enable the computers operating our websites to differentiate between visitors and to track the patterns of activities engaged in by different visitors. By tracking such activities, the computers operating our websites can recognize a visitor and customize certain features for that visitor. We may also use aggregated, non-identifiable data regarding persons who visit our site in order to learn more about the use of the site and how we can improve it.
+
+You may be able to modify your browser preferences to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose not to accept cookies, you may not be able to use those functions of the websites that require registration, such as electronic commerce.
+
 We may also receive IP addresses in the normal course of the operation of our website. An IP address is a number assigned to you by your Internet service provider so you can access the Internet. Although we do receive IP addresses, we do not use them to identify you personally or disclose them to others.
 
 **Data Security**   
