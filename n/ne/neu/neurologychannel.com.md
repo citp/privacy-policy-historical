@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neurologychannel.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228123227id_/http%3A//www.neurologychannel.com/common/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurologychannel.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509075751id_/http%3A//www.neurologychannel.com/common/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Healthcommunities.com
 
@@ -14,6 +14,7 @@ The information below discloses the privacy practices of Healthcommunities.com, 
   * [**cardiology** channel](http://www.cardiologychannel.com/)
   * [**dermatology** channel](http://www.dermatologychannel.net/)
   * [**flu** channel](http://www.fluchannel.com/)
+  * [**gi** channel](http://www.gichannel.com/)
   * [Healthcommunities.com](http://www.healthcommunities.com/)
   * [**healthinfo** channel](http://www.healthinfochannel.com/)
   * [**hiv** channel](http://www.hivchannel.com/)
