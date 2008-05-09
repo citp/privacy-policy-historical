@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2007-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071101193034id_/http%3A//www.genomeweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509123335id_/http%3A//www.genomeweb.com/privacy) for the most accurate reproduction.*
 
 # GenomeWeb Privacy Policy
 
@@ -25,7 +25,7 @@ The data we collect from cookies and IP addresses gives us demographic informati
 As part of his or her subscription request, each nonpaid subscriber to Genome Technology is asked to provide a valid workplace email address. Genome Technology reserves the right to suspend or cancel the subscription of any nonpaid subscriber who provides no email address, provides a personal email address (e.g., gmail.com, yahoo.com, comcast.net), provides an undeliverable email address, or requests that GenomeWeb or Genome Technology not contact him or her via email.
 
 **Application-Focus Newsletters**  
-This applies to the following websites: www.BioArrayNews.com, www.BioCommerceWeek.com, www.BioInform.com, www.BioRegionNews.com, www.BiotechTransferWeek.com, www.CBA-News.com, www.In-Sequence.com, www.PGxReporter.com, www.ProteoMonitor.com, and www.RNAiNews.com. 
+This applies to the following websites: www.BioArrayNews.com, www.BioInform.com, www.BioRegionNews.com, www.BiotechTransferWeek.com, www.CBA-News.com, www.In-Sequence.com, www.PGxReporter.com, www.ProteoMonitor.com, and www.RNAiNews.com. 
 
 When you purchase a subscription to an application-focus newsletter, we collect personal information (name, postal address, email address and other data) from you and we collect additional information through our use of cookie technology and IP-address logging as you browse our website.
 
