@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4wallpapers.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024193912id_/http%3A//www.go4wallpapers.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4wallpapers.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509123553id_/http%3A//www.go4wallpapers.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Go4wallpapers,Get latest Wallpapers Privacy Policy
 
