@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsight.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217171228id_/http%3A//www.transware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsight.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509165347id_/http%3A//transware.com/privacy.html) for the most accurate reproduction.*
 
 # Transware - Privacy Statement
 
@@ -74,10 +74,10 @@ To request a copy of the personally information you have sent to Transware, plea
 
 Where you contact us by telephone, please note that we may monitor or record telephone calls to make sure we follow your instructions correctly, to improve our service to you and to assist in training our staff. If you have any questions about this policy or any matter arising from it, or about Transware's collection and/or processing of personal information please contact Transware as follows:
 
-Andrea Kavanagh, Marketing Manager  
-Transware, Transware House, South County Business Park, Leopardstown, Dublin 18, Ireland.  
-Tel: +353 1 260 1997  
-Fax: +353 1 260 1947  
+Transware, Marketing Director  
+Transware, 7901 Stoneridge Drive, Suite 500, Pleasanton, California USA  
+Tel: +1 925 734-3000  
+Fax: +1 925 224-8642  
 E-Mail: [privacy@transware.com](mailto:privacy@transware.com)
 
 You may also use the above contact information if you think any information held by Transware about you is inaccurate, incomplete if you want to change the sort of information about you that Transware may have collected or if you wish to opt out from receiving information from Transware in the future.
