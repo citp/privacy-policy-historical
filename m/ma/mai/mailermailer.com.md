@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailermailer.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209221731id_/http%3A//www.mailermailer.com/privacypolicy.mlm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailermailer.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509081001id_/http%3A//www.mailermailer.com/privacypolicy.mlm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,11 +50,11 @@ When we transfer and receive certain types of sensitive information such as fina
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this Privacy Policy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site's Privacy Policy page to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site's Privacy Policy page periodically.
 
-Last Update: 19-May-2004
+Last Update: 26-March-2008
 
 [](http://www.cauce.org/)
 
-Copyright 2001-2007 MailerMailer LLC.   
+Copyright 2001-2008 MailerMailer LLC.   
 Email newsletter, newsletter templates, email marketing, list management, and email list hosting. 
 
 |  |  [About Us](https://web.archive.org/aboutus/index.mlm) | | |  [Privacy Policy](https://web.archive.org/privacypolicy.mlm) | | |  [Anti-Spam](https://web.archive.org/antispam.mlm)  
