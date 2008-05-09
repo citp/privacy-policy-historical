@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainroseherbs.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217042432id_/http%3A//www.mountainroseherbs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainroseherbs.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509143522id_/http%3A//www.mountainroseherbs.com/privacy.html) for the most accurate reproduction.*
 
 # Mountain Rose Herbs | Privacy and Security Policy
 
@@ -37,6 +37,6 @@ Since 1987 Mountain Rose Herbs has never sacrificed our customer's personal info
 
 **Our promise to you is that we will never sell, dissect, decimate, share, or trade your information. We do not research your buying habits, we do not sell your buying habits, and most of all we do not transfer your online purchasing and personal information onto any other machine. Everything you have given us stays with us......period.**  
   
-© Copyright Protected 2000-2007 Mountain Rose Inc.
+© Copyright Protected 2000-2008 Mountain Rose Inc.
 
-[](http://www.mountainroseherbs.com/windpower/wind.html)
+[](http://www.mountainroseherbs.com/about/zerowaste.html)
