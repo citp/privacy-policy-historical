@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.co.uk privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219130901id_/http%3A//www.expedia.co.uk/daily/service/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509085122id_/http%3A//www.expedia.co.uk/daily/service/privacy.asp) for the most accurate reproduction.*
 
 # Expedia.co.uk Travel > Expedia.co.uk Customer Support
 
@@ -96,6 +96,8 @@ As a member or visitor to Expedia.co.uk you will be assigned a permanent cookie 
 
 When you access the [ My Trips ](https://web.archive.org/pub/agent.dll?qscr=litn) or [ My Profile ](https://web.archive.org/pub/agent.dll?qscr=info) areas of the Expedia.co.uk Web site, reserve or purchase travel, or use selected travel planning tools, Expedia requires you to sign in as a member, using your Member ID and password. Once you sign in as an Expedia.co.uk member, we record the Member ID and the name on the member account in the cookie file on your computer. We may also record your password in this cookie file if you checked the box entitled "Save this password for automatic sign-in." Your Member ID, password, and the name on your member account is stored in the cookie file as encrypted data, so no one can view the information it contains by obtaining unauthorised access to your computer. Permanent cookie files remain on your computer's hard drive until you manually delete the file.
 
+We may rely on technology that tracks the use of our website and helps us to understand our customers’ choices in order to provide you with promotions about travel-related and other goods and service that you may be interested in.
+
 A cookie file may also be placed on your hard drive by Expedia.co.uk's third-party advertising companies or by Microsoft, Expedia.co.uk's Corporate Affiliate. These companies may use aggregated statistics about your visits to this and other Web sites in order to provide advertisements about travel-related goods and services that you may be interested in. The information they collect does **not** include your PII.
 
 The third-party advertising companies may also employ technology that is used to measure the effectiveness of ads. This is primarily accomplished through the use of an action tag (also known as an invisible gif), which the third party places on our site to collect anonymous information. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. **No** PII is collected during this process. The information is anonymous and does not link online actions to an identifiable person.
@@ -109,7 +111,8 @@ Information collected on Expedia.co.uk may be used to:
   * Register you as an Expedia.co.uk member 
   * Plan and purchase travel 
   * Notify you of travel changes through the Travel Alerts service 
-  * Send email notifications for special promotions and Fare Tracker service 
+  * Notify you of new or unique travel opportunities, special deals or promotions that are available on Expedia.co.uk 
+  * Send you promotional emails regarding other companies’ products or services
   * Respond to your questions or suggestions 
   * Improve the quality of your visit to our site
 
@@ -319,7 +322,7 @@ If you have questions about our Privacy Statement, please [email us](mailto:%20t
 **Contacting Expedia.co.uk**   
 We want to make sure you have control over your online travel experience as an Expedia.co.uk customer, from planning and purchasing your travel to protecting your personal information.
 
-Expedia.co.uk customer service travel agents are ready to help with your Expedia.co.uk travel concerns seven days a week. When you need help, use our [feedback form](https://web.archive.org/pub/Agent.dll?qscr=fbak&itid=0). All email receives a response within 24 hours. You may also call 0871 226 0808 (Call cost from 10p/min) **or from outside the UK on +44 (0) 28 90444609 (usual costs apply) from 8am - 10pm Monday to Friday, and 9am - 10pm at weekends to speak to a representative personally. Agents will address any questions or concerns you may have about your Expedia.co.uk travel planning or purchases. We will do our best to respond to your request for assistance or other questions about Expedia.co.uk within 24  hours.**
+Expedia.co.uk customer service travel agents are ready to help with your Expedia.co.uk travel concerns seven days a week. When you need help, use our [feedback form](https://web.archive.org/pub/Agent.dll?qscr=fbak&itid=0). All email receives a response within 24 hours. You may also call 0871 226 0808 (Call cost from 10p/min) **or from outside the UK on +44 (0) 28 90444609 (usual costs apply) from 8am \- 10pm Monday to Friday, and 9am - 10pm at weekends to speak to a representative personally. Agents will address any questions or concerns you may have about your Expedia.co.uk travel planning or purchases. We will do our best to respond to your request for assistance or other questions about Expedia.co.uk within 24  hours.**
 
  ****
 
