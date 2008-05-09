@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdonalds.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217230706id_/http%3A//mcdonalds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509073245id_/http%3A//www.mcdonalds.com./privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ Many McDonald's restaurants are owned and operated by franchisees, who are indep
 This privacy policy is effective as of June 8, 2004. From time to time, it may be necessary for McDonald's to change this privacy policy. If we change our policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our privacy policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information.
 
  **How to Contact Us**  
-If you have any [questions about our McDonald's Internet Privacy Policy](https://web.archive.org/contact.html), please contact us at: 
+If you have any [questions about our McDonald's Internet Privacy Policy](https://web.archive.org/contact/contact_us.html), please contact us at: 
 
 Privacy at McDonald's  
 Dept. 062  
