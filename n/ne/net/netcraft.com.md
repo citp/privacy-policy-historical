@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212232142id_/http%3A//news.netcraft.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509191332id_/http%3A//news.netcraft.com/privacy-statement) for the most accurate reproduction.*
 
-# Netcraft: Privacy Statement
+# Privacy Statement - Netcraft
 
 Netcraft has created this privacy statement covering its web sites in order to demonstrate our commitment to privacy. This Privacy Policy explains the information gathering and dissemination practices for our Web sites in the netcraft.com, netcraft.co.uk, and netcraft.net domains, and for people using the Netcraft Toolbar and how this information is used. If you have any queries or requests concerning your personal information, please contact us at [webmaster@netcraft.com](mailto:webmaster@netcraft.com). 
 
@@ -63,3 +63,7 @@ If you have any questions about this privacy statement, contact [webmaster@netcr
 
 
 
+
+Posted by at 1 January 2003 in [About Netcraft](http://news.netcraft.com/archives/about_netcraft.html) | Print this Page 
+
+Copyright © Netcraft Ltd 2008. All Rights Reserved. 
