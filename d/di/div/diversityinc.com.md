@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diversityinc.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218214927id_/http%3A//www.diversityinc.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversityinc.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510110133id_/http%3A//www.diversityinc.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
