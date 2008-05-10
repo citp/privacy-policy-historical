@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nuvox.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210110055id_/http%3A//www.nuvox.com/Legal/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuvox.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510150233id_/http%3A//www.nuvox.com/Legal/privacyPolicy.htm) for the most accurate reproduction.*
 
-# NuVox Communications :: Legal Notices :: Privacy Policy
+# NuVox :: Legal Notices :: Privacy Policy
 
-NuVox Communications is committed to your privacy. This Privacy Policy demonstrates our commitment to privacy and security, and informs you of the type of information we may gather about you, either as a visitor to NuVox’s website, or when you order NuVox services. This Privacy Policy also explains how NuVox may use that information, whether we disclose it to anyone, and your ability to control the use of that information. NuVox’s privacy policy governs data collection and usage for all NuVox services. NuVox requests that you read this Policy carefully. 
+NuVox is committed to your privacy. This Privacy Policy demonstrates our commitment to privacy and security, and informs you of the type of information we may gather about you, either as a visitor to NuVox’s website, or when you order NuVox services. This Privacy Policy also explains how NuVox may use that information, whether we disclose it to anyone, and your ability to control the use of that information. NuVox’s privacy policy governs data collection and usage for all NuVox services. NuVox requests that you read this Policy carefully. 
 
 **CUSTOMER PROPRIETARY NETWORK INFORMATION**  
 “Customer Proprietary Network Information,” or “CPNI” is a broad term that encompasses two main categories of information which carriers like NuVox collect and use in order to conduct business and offer telephone and data services. First, CPNI includes, among other things, individually identifiable information indicating to whom, where, and when a customer places a call, as well as the types of service offerings to which a customer subscribes and how much any particular service is used. Second, “aggregate customer” information, is collective data that relates to a group or category of service or customers from which individual customer characteristics have been removed. 
@@ -55,7 +55,7 @@ Customers also have the right to require NuVox to disclose their CPNI to any per
 **WHERE TO DIRECT QUESTIONS ABOUT NUVOX’S PRIVACY POLICY**  
 If you have any questions about this Privacy Policy or the practices described herein, you may contact: 
 
-NuVox Communications   
+NuVox   
 Attn: Customer Care   
 877-331-7808
 
