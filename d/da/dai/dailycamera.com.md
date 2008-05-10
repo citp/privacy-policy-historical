@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycamera.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221094039id_/http%3A//www.dailycamera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycamera.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510233724id_/http%3A//www.dailycamera.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Agreement : News : Boulder Daily Camera
 
