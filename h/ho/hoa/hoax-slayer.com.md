@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hoax-slayer.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213042908id_/http%3A//www.hoax-slayer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoax-slayer.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510150319id_/http%3A//www.hoax-slayer.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 I will never sell or give away your email address, or any other personal information, for any reason whatsoever. 
+
+©iStockphoto.com/Marco Volpi
 
   
 
@@ -28,10 +30,10 @@ Hoax-Slayer is totally anti-spam. I will never send unsolicited advertising emai
 
 In order to use some services provided on the Hoax-Slayer site it might be necessary to provide information such as your name and email address. These services include the newsletter subscription form, and the Hoax-Slayer Forums. None of the information you provide will be used for any purpose other than that for which it was originally intended. 
 
-Like many other webmasters, I use a service that records raw statistical information such as the number of visitors to the Hoax-Slayer site, what pages are the most popular and system information such as the operating system and browser used by visitors. The stats service I use on this site is provided by [StatCounter.com](http://www.statcounter.com/). In order to gather this information, StatCounter may send a cookie to your computer. I also use the RSS management service [FeedBurner](http://www.feedburner.com/ "FeedBurner") to manage Hoax-Slayer RSS feeds. FeedBurner is owned by Google. FeedBurner collects statistical information such as the number of subscribers to a given feed and what feed readers are being used. It may also send one or more cookies to your computer. Any information collected is solely for statistical purposes and is not used to identify individuals in any way.
+Hoax-Slayer records raw statistical information such as the number of visitors to the website, what pages are the most popular and system information such as the operating system and browser used by visitors. Any information collected is solely for statistical purposes and is not used to identify individuals in any way.
 
-The Hoax-Slayer website uses advertising to generate revenue. I would never knowingly include advertisements that promote fraudulent products or companies. However, it should be understood that I am in no way responsible for the conduct or reliability of advertisers.
+The Hoax-Slayer website uses advertising to generate revenue. While I would never knowingly include advertisements that promote fraudulent products or companies, I take no responsibility for the overall conduct or reliability of companies or services that advertise on the site. In the course of ads being served on this website, third party advertisements may place or read cookies on your browser or use web beacons to collect information. You can control the use of cookies via the privacy settings of your web browser. Browser privacy settings allow you to block or restrict cookies as desired. 
 
-I also participate in a limited number of affiliate marketing programs. The site may include reviews or recommendations for carefully chosen affiliate products. For more details, view the [Hoax-Slayer Affiliate Marketing Policy](http://www.hoax-slayer.com/affiliate-marketing-policy.html).
+I also participate in a limited number of affiliate marketing programs. Clicking on a link or banner for an affiliate product may cause a cookie to be sent to your browser. The site may include reviews or recommendations for carefully chosen affiliate products. For more details, view the [Hoax-Slayer Affiliate Marketing Policy](http://www.hoax-slayer.com/affiliate-marketing-policy.html).
 
 As an Internet user, online privacy is an important issue for me, in respect to both my privacy and yours. If you have any concerns, comments, or questions regarding this Privacy Policy, please [contact me](mailto:catch@hoax-slayer.com) and I'll do my best to help.
