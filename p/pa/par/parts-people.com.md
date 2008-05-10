@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parts-people.com privacy policy that was archived on 2007-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071108225520id_/http%3A//www.parts-people.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parts-people.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510145001id_/http%3A//www.parts-people.com/privacy.htm) for the most accurate reproduction.*
 
 # This confirms that (Company X) is a licensee of the TRUSTe Privacy Program
 
