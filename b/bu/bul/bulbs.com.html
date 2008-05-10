@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bulbs.com privacy policy that was archived on 2007-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011032005id_/http%3A//www.bulbs.com/yrprivacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bulbs.com privacy policy that was archived on 2008-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080510150914id_/http%3A//www.bulbs.com/yrprivacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 		<title>
@@ -41,6 +41,38 @@
 			<tbody><tr>
 				<td id="TopBannerCell" class="TopBanner" colspan="3" width="800">
 									<!-- Top Banner Start -->
+<!--[if lte IE 6]>
+<script type="text/javascript">
+function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
+{
+   var arVersion = navigator.appVersion.split("MSIE")
+   var version = parseFloat(arVersion[1])
+   if ((version >= 5.5) && (document.body.filters))
+   {
+         var img = document.getElementById('hot100');
+         var imgName = img.src.toUpperCase()
+         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+         {
+            var imgID = (img.id) ? "id='" + img.id + "' " : ""
+            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+            var imgStyle = "display:inline-block;" + img.style.cssText
+            if (img.align == "left") imgStyle = "float:left;" + imgStyle
+            if (img.align == "right") imgStyle = "float:right;" + imgStyle
+            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+            var strNewHTML = "<span " + imgID + imgClass + imgTitle
+            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>"
+            img.outerHTML = strNewHTML
+            i = i-1
+         }
+   }    
+}
+window.attachEvent("onload", correctPNG);
+</script>
+<![endif]-->
+<a href="http://www.bulbs.com/press.aspx"><img id="hot100" src="images/hot100.png" style="position: absolute; margin: 5px 0px 0px 735px; border: 0px solid white"></a>
 <table class="nav" width="857" border="0" cellpadding="0" cellspacing="0" align="center">
 	<tbody><tr>
 		<td width="100%">
@@ -70,7 +102,7 @@
 								</td>
 							</tr>
 							<tr align="right">
-								<td colspan="2" align="right"><br>
+								<td colspan="2" align="right" style="padding-right: 125px"><br>
 									<font size="4" color="#ffffff" face="ARIAL"><b>1.888.455.2800</b></font>
 									<br>
 									<font size="1" color="#ffffff" face="ARIAL">Monday-Friday 8am-6pm EST&nbsp;</font></td>
