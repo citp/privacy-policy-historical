@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onmylist.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212041206id_/http%3A//www.onmylist.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onmylist.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510215914id_/http%3A//www.onmylist.com/info/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - OnMyList
-
-_**PRIVACY POLICY**_
+# info | privacy policy - OnMyList
 
 On My List, LLC (“OML”) has created this privacy statement in order to demonstrate our firm commitment to your privacy. Please read the following about the information gathering and privacy practices for OnMyList.com. By registering for and/or using OnMyList.com, you consent to the collection, use, and storage of your personal information as described in this policy. We reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful. 
 
@@ -36,4 +34,4 @@ OML may update this policy from time to time. Please check this page periodicall
 
 **CONTACTING THE WEB SITE ADMINISTRATOR**
 
-We welcome comments and questions about any aspect of OnMyList.com, including this Privacy Policy. Please contact us by emailing us at [admin@onmylist.com](mailto:admin@onmylist.com); or by sending regular mail to OnMyList.com, PO BOX 225238, San Francisco, CA 94122, U.S.A. 
+We welcome comments and questions about any aspect of OnMyList.com, including this Privacy Policy. Please contact us by emailing us at [admin@onmylist.com](mailto:admin@onmylist.com); or by sending regular mail to OnMyList.com, PO BOX 225238, San Francisco, CA 94122, U.S.A.
