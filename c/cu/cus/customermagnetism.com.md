@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customermagnetism.com privacy policy that was archived on 2007-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070720024445id_/http%3A//www.customermagnetism.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customermagnetism.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510150902id_/http%3A//www.customermagnetism.com/privacy.htm) for the most accurate reproduction.*
 
 # Copywriting Sample from Customer Magnetism
 
