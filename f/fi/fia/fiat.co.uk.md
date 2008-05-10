@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fiat.co.uk privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109113413id_/http%3A//www.fiat.co.uk/Content/%3Fid%3D3024) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiat.co.uk privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510104317id_/http%3A//www.fiat.co.uk/Content/%3Fid%3D3024) for the most accurate reproduction.*
 
-# Fiat.co.uk | Privacy policy
+# Fiat.co.uk | Privacy Information for www.fiat.co.uk Fiat.co.uk
 
 This website is operated by Fiat Group Automobiles UK Ltd ("Fiat" or "Fiat Group Automobiles UK"). For more information about us and how you can contact us please see the [Contact Us](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=3046 "contact| us") section. The financial services available from the [Finance](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=2570 "fiat finance services") section of the Fiat website (within Tell me about Fiat) are provided by Fiat Consumer Services, a trading style of Fiat Auto Financial Services Limited. The contract hire services are provided by Fiat Auto Contracts Limited
 
