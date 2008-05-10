@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purenetworks.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204230538id_/http%3A//www.purenetworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purenetworks.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510125723id_/http%3A//www.purenetworks.com/privacy.php) for the most accurate reproduction.*
 
-# Pure Networks - Privacy Policy
+# Pure Networks Privacy Policy
 
 Last Updated October 5, 2007 
 
