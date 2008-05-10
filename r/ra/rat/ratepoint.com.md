@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ratepoint.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227031240id_/http%3A//www.ratepoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratepoint.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510151416id_/http%3A//www.ratepoint.com/privacy/index.html) for the most accurate reproduction.*
 
-# Business Reviews, Customer Feedback Management & Site Seal | RatePoint - Reseller Program
-
-##### Last Updated: December 13, 2006
+# RatePoint
 
 RatePoint, Inc. ("RatePoint") understands that your privacy is important to you, and we want you to be fully informed and as comfortable as possible visiting the ratepoint.com website ("Site") or using the RatePoint products and/or services ("Services"). Our privacy policy ("Privacy Policy") will tell you what information we collect about you and your use of the RatePoint Site and Services, how we use that information, and how we may share it with others. It will explain how we protect that information and what choices you have about how it is used or shared. Please read this Privacy Policy carefully so that you will understand how we protect your privacy and how we may collect, use, and share information. **By visiting the RatePoint Site or using the RatePoint Services, you agree to be bound by the terms of this Privacy Policy.**
 
