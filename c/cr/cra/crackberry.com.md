@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the crackberry.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215011706id_/http%3A//crackberry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackberry.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510101736id_/http%3A//www.crackberry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CrackBerry.com
 
-CrackBerry.com Privacy Policy
+CrackBerry.com Privacy Policy 
+
+**CrackBerry.com will not share your information with 3rd parties for any reason. Ever.  **
 
 CrackBerry.com respects your right to the privacy of the personal information you provide us on our Web sites. To that end, unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide to CrackBerry.com will be known only to two parties: you and CrackBerry.com. The following policy is intended to explain how your personal information will be treated as you make use of our sites and their features. Personal information includes your name, street and e-mail addresses, billing information, click-through activity and any other personal information you may provide here. This policy may change from time to time, so please check back periodically. 
+
+CrackBerry.com Membership
+
+In order to register to the site, registrants provide CrackBerry.com with personal information including name, address, and e-mail address, gender and device info. CrackBerry.com keeps all such information strictly confidential and does not reuse, resell or redistribute it in any way. 
+
+To become a member of CrackBerry.com you must agree to receive at least one issue of our bi-weekly CrackBerry.com newsletter. You can easily unsubscribe from this newsletter by clicking on the unsubscribe link located at the bottom of every newsletter. 
 
 Traffic data
 
@@ -19,12 +27,6 @@ A cookie is a small amount of data that is sent to your browser from a Web serve
 The information about readership and site usage that CrackBerry.com collects through cookies is aggregated into general reports about readership and not tied to individual identities. 
 
 Other companies which place advertising on our site also have the ability to assign their cookies to you in a process that CrackBerry.com does not control. However, cookies cannot be used to identify individuals, only machines, so these advertisers will not know who you are. 
-
-CrackBerry.com Membership
-
-In order to register to the site, registrants provide CrackBerry.com with personal information including name, address, and e-mail address, gender and device info. CrackBerry.com keeps all such information strictly confidential and does not reuse, resell or redistribute it in any way. 
-
-CrackBerry.com are asked whether they wish to receive e-mail from CrackBerry.com, such as notification of contests, product releases and special offers. CrackBerry.com does not reuse or resell the list of users who have "opted in" to such mailings. 
 
 CrackBerry.com Store
 
