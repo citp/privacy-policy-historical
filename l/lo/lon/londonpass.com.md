@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the londonpass.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011142603id_/http%3A//www.londonpass.com/contactPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonpass.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510143309id_/http%3A//www.londonpass.com/contactPrivacy.asp) for the most accurate reproduction.*
 
 # The London Pass
 
-[Home](https://web.archive.org/web/20071011142603id_/http%3A//www.londonpass.com/index.asp) > **Privacy Policy**
+[Home](https://web.archive.org/web/20080510143309id_/http%3A//www.londonpass.com/index.asp) > **Privacy Policy**
 
 Leisure Pass Group is committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998)
 
