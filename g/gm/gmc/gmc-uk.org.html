@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gmc-uk.org privacy policy that was archived on 2007-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210212513id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gmc-uk.org privacy policy that was archived on 2008-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080510133009id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><!-- InstanceBegin template="/Templates/standard-1column.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" --> 
@@ -121,7 +121,7 @@ function RunWebForm()
 	blnChkBrwr = fnCheckBrowser();
 
 	if (blnChkBrwr == 0){
-		var WinWebForm = window.open("https://webcache.gmc-uk.org/ecustomer_enu/start.swe?SWECmd=GotoView&SWEView=GMC+MyGMC+Standard+Web+Enquiry+View&SWEApplet=GMC+WEB+MyGMC+Standard+Web+Enquiry+Form+Applet","WinWebForm","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
+		var WinWebForm = window.open("https://webcache.gmc-uk.org/ecustomer_enu/start.swe?SWECmd=GotoView&SWEView=GMC+MyGMC+Standard+Web+Enquiry+View&SWEApplet=GMC+WEB+MyGMC+Standard+Web+Enquiry+Form+Applet","WinWebForm","top=0,left=0,status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
 		
 		WinWebForm.opener = null;
 		WinWebForm.focus;
@@ -129,13 +129,31 @@ function RunWebForm()
 	}
 }
 
+function RunPLAB() 
+
+{
+blnChkBrwr = fnCheckBrowser();
+
+if (blnChkBrwr == 0){
+
+var winSiebel = window.open("https://webcache.gmc-uk.org/gmcplab_enu/start.swe","_blank","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
+
+ 
+
+   winSiebel.opener = null;
+winSiebel.focus;
+   winSiebel = null;
+   }
+
+};
+
 
 function RunNewUser() 
 {
 	blnChkBrwr = fnCheckBrowser();
 
 	if (blnChkBrwr == 0){
-		var WinNewUser = window.open("https://webcache.gmc-uk.org/ecustomer_enu/start.swe?SWECmd=GotoView&SWEView=GMC+MyGMC+User+Registration+Initial+Form+View&SWEApplet=GMC+MyGMC+User+Registration+Initial+Form+Applet","WinNewUser","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
+		var WinNewUser = window.open("https://webcache.gmc-uk.org/ecustomer_enu/start.swe?SWECmd=GotoView&SWEView=GMC+MyGMC+User+Registration+Initial+Form+View&SWEApplet=GMC+MyGMC+User+Registration+Initial+Form+Applet","WinNewUser","top=0,left=0,status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
 
    		WinNewUser.opener = null;
 		WinNewUser.focus;
@@ -149,11 +167,25 @@ function RunLRMP()
 	blnChkBrwr = fnCheckBrowser();
 
 	if (blnChkBrwr == 0){
-		var winLRMP = window.open("http://webcache.gmc-uk.org/gmclrmp_enu/start.swe","_blank","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
+		var winLRMP = window.open("http://webcache.gmc-uk.org/gmclrmp_enu/start.swe","_blank","top=0,left=0,status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
 
    		winLRMP.opener = null;
 		winLRMP.focus;
    		winLRMP = null;
+	}
+}
+
+
+function RunCGS() 
+{
+	blnChkBrwr = fnCheckBrowser();
+
+	if (blnChkBrwr == 0){
+		var WinMyGMC = window.open("http://webcache.gmc-uk.org/gmccgs_enu","WinCGS","top=0,left=0,status=1,toolbar=no,resizable=no,dependent=yes,scrollbars=yes,width=838,height=600");
+	
+		WinMyGMC.opener = null;
+	   	WinMyGMC.focus;
+	   	WinMyGMC = null;	
 	}
 }
 
@@ -231,6 +263,73 @@ function RunTestLRMP()
   | <a href="#" onclick="RunMyGMC();" title="MyGMC open in a new window">MyGMC</a>  
   | <a href="/publications/right_to_know/index.asp">Freedom&nbsp;of&nbsp;information</a> | <a href="/about/contacts/" accesskey="C">Contact&nbsp;us</a></div>
   <a href="/index.asp"><img src="/images/logo_strapline.gif" alt="Regulating doctors Ensuring good medical practice - click for homepage" vspace="15" border="0"></a>
+
+<link rel="stylesheet" href="/test/windowfiles/dhtmlwindow.css" type="text/css">
+<script type="text/javascript" src="/test/windowfiles/dhtmlwindow.js"></script>
+
+
+<script language="Javascript">
+<!--
+// please keep these lines on when you copy the source
+// made by: Nicolas - http://www.javascript-page.com
+
+var your_message = "Do you really want to leave this page?";
+var times = 0;
+
+function onul() {
+if (times == 0) {
+  var leave = confirm(your_message);
+  if (!leave) location = self.location;
+  times++;
+}
+}
+
+//-->
+</script>
+
+<style>
+.survey {
+	background-image:url('bk.gif');
+	background-repeat: repeat;
+	z-index:1;
+	position:absolute; 
+	top:0; 
+	left:0; 	
+	width:104%;
+}
+
+divSurveyBox{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	z-index:1;
+}
+
+.p_survey{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.75em;
+	font-weight:normal;
+}
+
+.li_survey{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.75em;
+	font-weight:normal;
+}
+
+.li_link:active, .li_link:visited{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight:normal;
+	color:#0000ff;
+}
+
+
+
+</style>
+
+
 <div id="navigation">
   <table width="100%" border="0" cellpadding="0" cellspacing="0">
     <tbody><tr valign="bottom"> 
@@ -359,6 +458,8 @@ function RunTestLRMP()
   </div>
 </div>
 <div id="footer">
+
+
   <div id="footernav"><a href="/index.asp">GMC&nbsp;home</a> | <a href="/scotland/index.asp"></a>
   <a href="/register/">The&nbsp;medical&nbsp;register</a> | 
   <a href="/doctors/">Registration&nbsp;for&nbsp;doctors</a> |
@@ -369,11 +470,11 @@ function RunTestLRMP()
   <br>
   <a href="/about/">About&nbsp;us</a> | <a href="/about/contacts/">Contact&nbsp;us</a> 
   | <a href="/links.asp">Links</a> | <a href="/sitemap.asp" accesskey="S">Site&nbsp;map</a> 
-  | <a href="/disclaimer.asp">Disclaimer</a> | <a href="/privacy_policy.asp">Privacy policy</a> | <a href="/accessibility/">Web
+  | <a href="/disclaimer.asp">Disclaimer</a> | <a href="/privacy_policy.asp">Privacy policy</a> | <a href="../accessibility/index.asp">Web
   Accessibility</a> <br>
   <br>
  </div>
-  © Copyright General Medical Council 2006. All rights reserved. 
+  © Copyright General Medical Council 2008. All rights reserved. 
 
 <!-- START OF SDC Advanced Tracking Code -->
 <!-- Copyright (c) 1996-2007 WebTrends Inc. All rights reserved. -->
@@ -398,9 +499,10 @@ if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"="
 <IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://wtl.gmc-uk.org/dcsnj8v0t10000sx8zgiduecf_6c1b/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.3">
 </noscript>
 
+
+
+
 <!-- END OF SmartSource Data Collector TAG -->	
-
-
 </div>
 
 <!-- InstanceEnd -->
