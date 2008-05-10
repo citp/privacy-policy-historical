@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaltura.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222192431id_/http%3A//www.kaltura.com/index.php/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaltura.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510162706id_/http%3A//www.kaltura.com/index.php/corp/privacy) for the most accurate reproduction.*
 
 # Kaltura - Privacy Policy
 
