@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212235231id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510143450id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
 
 # Big Blue Interactive » BigBlueInteractive.com Privacy Policy
 
@@ -27,12 +27,14 @@ To find out more about how direct advertisers/advertising affiliates/third-party
 
   * [ADSDAQ by ContextWeb](http://www.contextweb.com/ppolicy.html)
   * [TribalFusion](http://www.tribalfusion.com/TribalFusion/privacy.html)
-  * [BurstMedia](http://www.burstmedia.com/release/privacy.asp)
-  * [ValueClickMedia](http://www.valueclickmedia.com/privacy.shtml)
+  * [BurstMedia  
+](http://www.burstmedia.com/isl/privacy.asp)
   * [Google](http://www.google.com/privacy.html)
+  * [ValueClick  
+](https://www.valueclickmedia.com/privacy.shtml)
   * [Amazon](http://www.amazon.com/gp/help/customer/display.html/105-0187941-1017254?ie=UTF8&nodeId=468496)
   * [TicketCity](http://www.ticketcity.com/Privacy-Policy.html)
-  * [National Football League/NFL Network](http://www.iwantmynflnetwork.com/privacy.php)
+  * [NFLShop.com](http://www.nflshop.com/helpdesk/index.jsp?display=safety&subdisplay=privacy&clickid=botnav_privacy_txt)
 
 
 
@@ -66,6 +68,6 @@ _BBI_ reserves the right to change its Privacy Policy at any time. Your continue
 
 If you have any questions or comments about our privacy policy, please contact us at [info@bigblueinteractive.com](mailto:info@bigblueinteractive.com). If you wish your communication to remain private, please label it as such.
 
-_This Document Was Last Updated on November 21, 2007_
+_This Document Was Last Updated on March 27, 2008_
 
 [](http://www.bigblueinteractive.com/information-pages/privacy-policy/printpage/ "Print This Page") [Print This Page](http://www.bigblueinteractive.com/information-pages/privacy-policy/printpage/ "Print This Page")
