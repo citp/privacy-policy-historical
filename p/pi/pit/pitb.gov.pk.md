@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the pitb.gov.pk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211185632id_/http%3A//www.pitb.gov.pk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitb.gov.pk privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510113558id_/http%3A//www.pitb.gov.pk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PITB Privacy Policy
 
 |  |  |  |   
   
 ---|---|---  
-[](http://stp.pitb.gov.pk/)  
 |  |   
   
 ---|---  
