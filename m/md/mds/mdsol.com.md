@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdsol.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423095652id_/http%3A//www.mdsol.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdsol.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510132902id_/http%3A//www.mdsol.com/privacy.htm) for the most accurate reproduction.*
 
 # Medidata Solutions Worldwide: EDC and Clinical Data Management
 
