@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chessclub.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215011325id_/http%3A//www.chessclub.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chessclub.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510152937id_/http%3A//www.chessclub.com/help/privacy) for the most accurate reproduction.*
 
 # ICC Help: privacy
 
@@ -12,7 +12,7 @@ In the rest of this document the term "Admin" refers to the set of ICC administr
 
 Registration Information
 
-The following information (which you may have specified when you registered) can be seen only by Admins: Your name, your email address, your password, your postal address, your phone number, your previous ICC handle, your USCF ID, expiration, and PIN number. Of course you are free to publicize your personal information.
+The following information (which you may have specified when you registered) can be seen only by Admins: Your name, your email address, your password, your postal address, your phone number, your previous ICC username, your USCF ID, expiration, and PIN number. Of course you are free to publicize your personal information.
 
 Your registration in ICC will also give you a subscription to our periodic email newsletter. Each newsletter will contain a link at the bottom to allow you to unsubscribe at any time.
 
@@ -20,7 +20,7 @@ The ICC may use your email address to sporadically send you important announceme
 
 The ICC may use your postal address (if you checked the box to allow its use) to mail you information about products and services available from 3rd parties. The ICC will not give your address to these 3rd parties.
 
-Naturally your Handle, your rating and title (after verification) are all publically visible. Your country is also public information. 
+Naturally your username, your rating, and title (after verification) are all publically visible. Your country is also public information. 
 
 If you want to know the identity, email address, or other information on an ICC member, please do not ask an Admin. Ask the member directly. It is his or her decision to tell you.
 
@@ -47,8 +47,8 @@ For each session on an ICC server, an entry is made in a permanent connection lo
 \- The time of the connection and disconnection   
 \- The name of the interface that was used   
 \- The IP number of the connection   
-\- The Handle name   
-\- The Machine ID of the computer from which the connection was made
+\- The username   
+\- The machine ID of the computer from which the connection was made
 
 The Machine ID is a string which uniquely identifies the computer on which this connection was made. This allows us to very reliably determine if two different sessions used the same computer.
 
