@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223171200id_/http%3A//www.snow-forecast.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510144048id_/http%3A//www.snow-forecast.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Statement for Snow-Forecast.com
+# Snow-Forecast.com - Weather, Webcams & Snow Reports
 
-## **Privacy Statement for snow-forecast.com**
+## **Privacy Statement for Snow-Forecast.com**
 
 **snow-forecast.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ snow-forecast.com ](http://www.snow-forecast.com/)
 
@@ -52,7 +52,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us . 
 
-  1. You can send email to [ help@snow-forecast.com ](mailto:help@snow-forecast.com)
+  1. You can send email to [our helpdesk](mailto:help@snow-forecast.com)
 
 
 
@@ -60,11 +60,10 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-  1. You can send email to [ help@snow-forecast.com ](mailto:help@snow-forecast.com)
+  1. You can send email to [our helpdesk](mailto:help@snow-forecast.com)
 
 
 
 ##  Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us via our helpdesk 
