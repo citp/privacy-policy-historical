@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the engineyard.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219055640id_/http%3A//www.engineyard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineyard.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511204217id_/http%3A//www.engineyard.com/privacy) for the most accurate reproduction.*
 
-# Engine Yard — privacy — Privacy
+# Engine Yard: Fully-Managed Ruby & Rails Hosting and Deployment | Privacy
 
 Engine Yard, Inc. has created this Privacy Statement to demonstrate our firm commitment to privacy. This statement sets forth our information gathering and dissemination practices for the sites.
 
