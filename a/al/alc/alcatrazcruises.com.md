@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alcatrazcruises.com privacy policy that was archived on 2007-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070821000634id_/http%3A//www.alcatrazcruises.com/website/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcatrazcruises.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511205152id_/http%3A//alcatrazcruises.com/website/privacy.aspx) for the most accurate reproduction.*
 
 # Alcatraz Cruises
 
