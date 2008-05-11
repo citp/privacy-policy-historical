@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the museglobal.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225160500id_/http%3A//www.museglobal.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museglobal.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511233330id_/http%3A//www.museglobal.com/company/privacy.html) for the most accurate reproduction.*
 
 # MuseGlobal -- Privacy Policy
-
-  |    |   | 
 
 At MuseGlobal Inc., we are committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this statement of privacy explains data collection and use in those situations. When you encounter a screen in this site that asks for information you do not want us to have or use, you should not proceed further with that screen. 
 
@@ -34,11 +32,5 @@ Your use of this site implies your consent to the collection of the information 
 
 ## Contact Information
 
-MuseGlobal Inc., welcomes your comments regarding this Statement of Privacy, please [contact us](https://web.archive.org/web/20071225160500id_/http%3A//www.museglobal.com/contact/). 
-
-Regards, 
-
-Webmaster  
-MuseGlobal Inc. 
-
-|  
+MuseGlobal Inc., welcomes your comments regarding this Statement of Privacy,  
+please [contact us](https://web.archive.org/web/20080511233330id_/http%3A//www.museglobal.com/contact/). 
