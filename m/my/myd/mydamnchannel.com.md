@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydamnchannel.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210074929id_/http%3A//www.mydamnchannel.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydamnchannel.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511205253id_/http%3A//www.mydamnchannel.com/privacy.aspx) for the most accurate reproduction.*
 
 # My Damn Channel » Privacy Policy
 
@@ -42,7 +42,7 @@ We endeavor to restrict access to personal information to My Damn Channel employ
 
 If My Damn Channel learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. My Damn Channel may post a notice on the My Damn Channel Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [privacy@MyDamnChannel.com](mailto:privacy@MyDamnChannel.com). 
 
-## What do I need to know about third party sites, co-branded sites, and MyDamnChannel’s business partners?
+## What do I need to know about third party sites, co-branded sites, and My Damn Channel’s business partners?
 
 My Damn Channel may establish relationships that allow visitors to the My Damn Channel Service to go directly to sites operated by third parties. Some of these sites may be co-branded with our logos; however, they are not operated or maintained by My Damn Channel. We are not responsible for the content or practices of web sites operated by third parties that are linked to the My Damn Channel Service. These links are meant for the user’s convenience only. Links to third party sites do not constitute our sponsorship, endorsement or approval of the content, policies or practices of such third party sites. Once you have left the My Damn Channel Service via such a link, you should check the applicable privacy policy of the third party site.
 
@@ -64,4 +64,4 @@ For revisions to this Privacy Policy that may be materially less restrictive on 
 
 ## Contacting My Damn Channel
 
-Please contact My Damn Channel with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices or your consent choices at: 630 Ninth Avenue, Suite 1012, New York, NY or by email: [privacy@MyDamnChannel.com](mailto:privacy@MyDamnChannel.com). We will respond to your inquiry within 30 days of its receipt. 
+Please contact My Damn Channel with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices or your consent choices at: 202 W. 40th St., 16th Floor, New York, NY 10018 or by email: [privacy@MyDamnChannel.com](mailto:privacy@MyDamnChannel.com). We will respond to your inquiry within 30 days of its receipt. 
