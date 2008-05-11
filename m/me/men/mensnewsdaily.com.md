@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211213638id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511225214id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# MND: News and Commentary Since 2001 » Privacy Policy
+# Privacy Policy | MND: News and Commentary Since 2001
+
+**MNDwire**
+
+December 9, 2007 at 1:26 pm · Filed under [Vox Populi](http://mensnewsdaily.com/category/vox-populi/ "View all posts in Vox Populi")
 
 ## Privacy Policy
 
@@ -10,11 +14,11 @@ NOTICE: [Click here](http://onguardonline.gov/) for practical tips from the fede
 
 MND collects personal information when you register with our site. MND may combine information about you that we have with information we obtain from business partners or other companies.
 
-MND does not rent or sell personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+MND does not rent or sell personal information about you with other people or non-affiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
   * We provide the information to trusted partners who work on behalf of or with MND . These companies may use your personal information to help communicate with you about matters we think may interest you.
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law.
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!’s terms of use, or as otherwise required by law.
   * We transfer information about you if MND is acquired by or merged with another company.
 
 
@@ -26,8 +30,8 @@ MND may update this policy. Please note [this page](http://mensnewsdaily.com/pri
 **Who can I ask if I have any additional questions?**  
 If you have questions or concerns regarding this statement, contact editor(at)MensNewsDaily.com.
 
-Filed under: [Vox Populi](http://mensnewsdaily.com/category/vox-populi/ "View all posts in Vox Populi") — admin @ 1:26 pm 
+[Permalink](http://mensnewsdaily.com/privacy-policy/ "Permanent link to Privacy Policy") | **[](http://mensnewsdaily.com/privacy-policy/printpage/ "Print This Page") [Print This Page](http://mensnewsdaily.com/privacy-policy/printpage/ "Print This Page") ** | **Other posts by[MNDwire](http://mensnewsdaily.com/author/MNDwire/ "Posts by MNDwire")**
 
-**  [Print This Page](http://mensnewsdaily.com/privacy-policy/printpage/ "Print This Page") | Other posts by [admin](http://mensnewsdaily.com/author/admin/ "Posts by admin")**
+[](http://del.icio.us/post?url=http://mensnewsdaily.com/privacy-policy/&title=Privacy%20Policy "bookmark Privacy Policy in del.icio.us") | [](http://slashdot.org/submit.pl "Submit Privacy Policy to Slashdot.com") | [](http://www.digg.com/submit "Submit Privacy Policy to Digg.com") | [](http://boingboing.net/suggest.html "Submit Privacy Policy to BoingBoing.net") | [](http://www.furl.net/storeIt.jsp?title=Privacy%20Policy&url=http://mensnewsdaily.com/privacy-policy/ "Bookmark Privacy Policy in Furl") | [](http://www.spurl.net/spurl.php?title=Privacy%20Policy&url=http://mensnewsdaily.com/privacy-policy/ "Bookmark Privacy Policy in Spurl") | [](http://reddit.com/submit?url=http://mensnewsdaily.com/privacy-policy/ "Bookmark Privacy Policy in Reddit") | [](http://tailrank.com/share/?text=&link_href=http://mensnewsdaily.com/privacy-policy/ "Bookmark Privacy Policy in Tailrank") | [](http://www.newsvine.com/_tools/seed&save?u=http://mensnewsdaily.com/privacy-policy/ "Bookmark Privacy Policy in Newsvine") | [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://mensnewsdaily.com/privacy-policy/ "Bookmark Privacy Policy to Yahoo!") | [](http://cgi.fark.com/cgi/fark/edit.pl?new_url=http://mensnewsdaily.com/privacy-policy/ "Bookmark Privacy Policy to Fark!")
 
 Comments are closed.
