@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhra.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319230132id_/http%3A//nhra.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhra.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511163125id_/http%3A//www.nhra.com/privacy.html) for the most accurate reproduction.*
 
 # NATIONAL HOT ROD ASSOCIATION PRIVACY POLICY
 
@@ -24,7 +24,7 @@ What is Personal Information?
 
 When Do We Collect Personal Information and What Kind of Information is Collected?
 
-If you request additional information about NHRA, register to become an NHRA member, make a purchase in the NHRA online store, or participate in other services NHRA may offer on its web site, we may request your name, mailing address, telephone number, e-mail address, birth date and credit card information in order to respond to your inquiries and requests. If you make a purchase in the online NHRA store, NHRA will collect necessary shipping and financial information. From time to time, we may request information from you via surveys, sweepstakes or contests. Participation in these survey, sweepstakes or contests is completely voluntary; you have a choice whether or not to disclose this information. Information requested may include personal contact information such as your name, address, age, and e-mail address. Information will be used to notify winners, award prizes and to contact users with further information about NHRA products and services, as well as the products and services of NHRA partners and third parties. Survey information will be used for the purposes of monitoring or improving use and satisfaction of the NHRA web site. 
+If you request additional information about NHRA, register to become an NHRA member, make a purchase in the NHRA online store including nhradvd.com, or participate in other services NHRA may offer on its web site, we may request your name, mailing address, telephone number, e-mail address, birth date and credit card information in order to respond to your inquiries and requests. If you make a purchase in the online NHRA store, NHRA will collect necessary shipping and financial information. From time to time, we may request information from you via surveys, sweepstakes or contests. Participation in these survey, sweepstakes or contests is completely voluntary; you have a choice whether or not to disclose this information. Information requested may include personal contact information such as your name, address, age, and e-mail address. Information will be used to notify winners, award prizes and to contact users with further information about NHRA products and services, as well as the products and services of NHRA partners and third parties. Survey information will be used for the purposes of monitoring or improving use and satisfaction of the NHRA web site. 
 
 What Do We Do With the Personal Information We Collect?
 
@@ -38,7 +38,7 @@ Of course, online purchases require us to disclose necessary payment information
 
 Agreements with third parties will provide that such third parties will not use or disclose the information for purposes other than those purposes contracted for, and will also require the third parties to maintain the confidentiality, security and integrity of such information. 
 
-You may choose not to provide NHRA with any contact information. However, if you opt out in this way, we will be unable to respond to your request for NHRA information, process your order, sign you up for NHRA membership, or allow you to participate in other NHRA web site services that require personal information. Additionally, your ability to navigate our site may be limited. You may opt-out of receiving this information by sending an email to [remove@nhra.com](mailto:remove@nhra.com). 
+You may choose not to provide NHRA with any contact information. However, if you opt out in this way, we will be unable to respond to your request for NHRA information, process your order, sign you up for NHRA membership, or allow you to participate in other NHRA web site services that require personal information. Additionally, your ability to navigate our site may be limited. You may opt-out of receiving this information by sending an email to [ remove@nhra.com](mailto:remove@nhra.com). 
 
 You have the option to agree to let us collect your personal information for activities on our website, but to not allow us to disclose the information to third parties. To prevent disclosure to third parties, please advise us. 
 
@@ -48,7 +48,7 @@ Yes. You can review personal information you have submitted online. To review pe
 
 Can You Delete Or Edit Or Update Your Personal Information? 
 
-Yes. You can delete or edit or update your personal information. To delete any information submitted to us, just e-mail us at [remove@nhra.com](mailto:remove@nhra.com) and advise us that you wish us to delete all or a specified portion of your information. Please be sure to give us your name and email address. 
+Yes. You can delete or edit or update your personal information. To delete any information submitted to us, just e-mail us at [ remove@nhra.com](mailto:remove@nhra.com) and advise us that you wish us to delete all or a specified portion of your information. Please be sure to give us your name and email address. 
 
 Can You Revoke Your Permission for Us to Collect or Disclose Personal Information You? 
 
@@ -72,11 +72,11 @@ Most browsers can be set to refuse to accept cookies. Doing so will not interfer
 
 Will This Policy Change? 
 
-We reserve the right to change this policy at any time, and will do so by providing notice of such changes on our home page and make changes in our online forms requesting personal information. If we make any material changes in the way we use or disclose information about you, we will notify you with an email message to you. If you do not wish us to use your personal information, then please go to [remove@nhra.com](mailto:remove@nhra.com) and ask us to delete, edit, update or remove any information at that time. 
+We reserve the right to change this policy at any time, and will do so by providing notice of such changes on our home page and make changes in our online forms requesting personal information. If we make any material changes in the way we use or disclose information about you, we will notify you with an email message to you. If you do not wish us to use your personal information, then please go to [ remove@nhra.com](mailto:remove@nhra.com) and ask us to delete, edit, update or remove any information at that time. 
 
 Questions?
 
-If you have any questions about this policy or about how personal information collected on our website is used, you can contact us by e-mail at [policyquestions@nhra.com](mailto:policyquestions@nhra.com), or by regular U.S. mail to: 
+If you have any questions about this policy or about how personal information collected on our website is used, you can contact us by e-mail at [ policyquestions@nhra.com](mailto:policyquestions@nhra.com), or by regular U.S. mail to: 
 
 NATIONAL HOT ROD ASSOCIATION  
 2035 Financial Way  
@@ -97,7 +97,7 @@ Children under the age of 13 are not authorized to submit personal information o
 
 We encourage parents to take an active interest in their children's use of the Internet. Parents should be aware that software tools are available online that permit them to screen objectionable content and to prevent children from disclosing their name, address, and other personal information without parental permission. However, the best protection for your child is for you to supervise your child's online activities. 
 
-If you have any questions about this policy or about how personal information collected on our website is used, you can contact us by e-mail at [policyquestions@nhra.com](mailto:policyquestions@nhra.com), or by regular U.S. mail to: 
+If you have any questions about this policy or about how personal information collected on our website is used, you can contact us by e-mail at [ policyquestions@nhra.com](mailto:policyquestions@nhra.com), or by regular U.S. mail to: 
 
 NATIONAL HOT ROD ASSOCIATION  
 2035 Financial Way  
@@ -170,11 +170,11 @@ Yes. You can review personal information your child has submitted online. To rev
 
 **Can You Delete Personal Information Your Child Submitted?**
 
-Yes. You can delete the personal information your child has submitted online. To delete any information your child has submitted to us, just e-mail us at [remove@nhra.com](mailto:remove@nhra.com) and advise us that you wish us to delete all or a specified portion of your child's information. Please be sure to give us his/her name and email address. 
+Yes. You can delete the personal information your child has submitted online. To delete any information your child has submitted to us, just e-mail us at [ remove@nhra.com](mailto:remove@nhra.com) and advise us that you wish us to delete all or a specified portion of your child's information. Please be sure to give us his/her name and email address. 
 
 **Can You Revoke Your Permission for Us to Collect or Disclose Personal Information About Your Child?**
 
-Yes. To revoke the permission you have given us to collect or disclose any personal information about your child, just e-mail us at our website at [remove@nhra.com](mailto:remove@nhra.com). Revoking your permission will result in the deletions of all your child's personal information. 
+Yes. To revoke the permission you have given us to collect or disclose any personal information about your child, just e-mail us at our website at [ remove@nhra.com](mailto:remove@nhra.com). Revoking your permission will result in the deletions of all your child's personal information. 
 
 **What About Links to Other Websites?**
 
@@ -194,6 +194,6 @@ Most browsers can be set to refuse to accept cookies. Doing so will not interfer
 
 **Will This Policy Change?**
 
-We reserve the right to change this policy at any time, and will do so by providing notice of such changes on our home page and make changes in our online forms requesting personal information. If we make any material changes in the way we use or disclose information about your child, we will notify you with an email message to you and your child. If you do not wish us to use your child's information then please go to [remove@nhra.com](mailto:remove@nhra.com) and ask us to delete, edit, update or remove any information at that time. 
+We reserve the right to change this policy at any time, and will do so by providing notice of such changes on our home page and make changes in our online forms requesting personal information. If we make any material changes in the way we use or disclose information about your child, we will notify you with an email message to you and your child. If you do not wish us to use your child's information then please go to [ remove@nhra.com](mailto:remove@nhra.com) and ask us to delete, edit, update or remove any information at that time. 
 
 Effective date: 3/21/2003 
