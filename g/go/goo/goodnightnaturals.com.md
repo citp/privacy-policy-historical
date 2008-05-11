@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodnightnaturals.com privacy policy that was archived on 2007-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071021012223id_/http%3A//www.goodnightnaturals.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodnightnaturals.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511052402id_/http%3A//www.goodnightnaturals.com/privacy.html) for the most accurate reproduction.*
 
 # Good Night Naturals is the source for eco and health conscious bed & bath products, natural & organic linens, towels and furniture
 
