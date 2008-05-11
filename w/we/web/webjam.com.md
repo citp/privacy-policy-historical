@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webjam.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218224150id_/http%3A//about.webjam.com/webjam/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjam.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511204053id_/http%3A//about.webjam.com/webjam/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy :: WEBJAM
-
-The Longer Version...
+# Privacy Policy
 
 Webjam Privacy Policy  
 Updated Oct. 16, 2006
@@ -94,6 +92,3 @@ You may amend your Registration Data which you have supplied to us by visiting y
 Please contact us at privacy@webjam.com in relation to the matters to which this point 9 relates, or if you have any questions or concerns regarding our privacy policy. 
 
 This Privacy Policy has been prepared to meet the requirements of the UK's Data Protection Act 1998, and it only relates to the collection, protection, disclosure and use of personal data belonging to living individuals. It does not relate to data which emanates from companies or other entities, although the general principles regarding our collection and use of data is broadly the same irrespective of  whoever is the user of our website, or our customer. 
-
-  
-
