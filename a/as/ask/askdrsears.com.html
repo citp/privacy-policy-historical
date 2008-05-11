@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the askdrsears.com privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213204453id_/http%3A//askdrsears.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the askdrsears.com privacy policy that was archived on 2008-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080511190233id_/http%3A//www.askdrsears.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <!-- #BeginEditable "doctitle" --> 
@@ -133,7 +133,7 @@ self.name = "mainWin";
 
 var bannerNow = 0;
 
-var bannerDelay = 14000;
+var bannerDelay = 10000;
 
 var banners = new Array();
 
@@ -143,36 +143,37 @@ var banners = new Array();
 
 banners[banners.length] = new Array();
 
-banners[banners.length-1].href = "Aquaphor";
-
-banners[banners.length-1].src = "/ads/iframe/aquaphor.asp";
-
-
-banners[banners.length] = new Array();
-
 banners[banners.length-1].href = "/amby.asp";
 
-banners[banners.length-1].src = "/ads/iframe/amby.asp";
+banners[banners.length-1].src = "http://www.askdrsears.com/ads/images/amby_260x168_natural.jpg";
 
- 
+banners[banners.length-1].click = "javascript:urchinTracker('/advertisers/amby/260x168')";
 
 banners[banners.length] = new Array();
 
 banners[banners.length-1].href = "http://www.playtexbaby.com/";
 
-banners[banners.length-1].src = "/ads/iframe/playtex.asp";
+banners[banners.length-1].src = "http://www.askdrsears.com/ads/images/playtexhome.JPG";
+
+banners[banners.length-1].click = "javascript:urchinTracker('/advertisers/playtex/260x168')";
+
+banners[banners.length] = new Array();
+
+banners[banners.length-1].href = "http://www.drsearsfamilyapproved.com/?utm_source=AskDrSears.com&utm_medium=homepage&utm_content=V2&utm_campaign=brainykids";
+
+banners[banners.length-1].src = "/ads/260-x-168_b.jpg";
+
+banners[banners.length-1].click = "javascript:urchinTracker('/advertisers/DRSFA/260x168')";
 
 
 
 
+/* Combine all varibales and HTML into one variable */
 
  
-
- 
-
 function banner() {
 
-      document.write('<iframe ID="zedo" src="'+banners[bannerNow].src+'" frameborder=0 marginheight=0 marginwidth=0 scrolling="no" allowTransparency="true" width=260 height=168></iframe>');
+      document.write('<a href="'+banners[bannerNow].href+'" id="bannerA" target="new" onclick="'+banners[bannerNow].click+'"><img src="'+banners[bannerNow].src+'" border="0" width="260" height="168" id="bannerImg" /></a>');
 
       setTimeout(bannerRotate, bannerDelay); 
 
@@ -188,7 +189,11 @@ function bannerRotate() {
 
       if(bannerNow > banners.length-1) bannerNow = 0;
 
-      document.getElementById('zedo').src = banners[bannerNow].src;
+ 
+
+      document.getElementById('bannerA').href = banners[bannerNow].href;
+
+      document.getElementById('bannerImg').src = banners[bannerNow].src;
 
       setTimeout(bannerRotate, bannerDelay); 
 
@@ -209,11 +214,6 @@ function bannerPreload() {
       }
 
 }
-
- 
-
- 
-
  
 
 //-->
@@ -642,11 +642,11 @@ end ZEDO for channel:  ADS1446_RS , publisher: DMS123_KS , Ad Dimension: Super B
        <table border="0" width="100%" cellpadding="0" cellspacing="5">
        <tbody><tr><td align="middle">
 
-       <a href="/ads/adclick.asp?id=140&amp;url=%2Fprivacypolicy%2Easp" target="sister" onclick="urchinTracker('/advertisers//martek/125x125_martek_big3.gif')"><img src="/ads/images//martek/125x125_martek_big3.gif" width="125" height="125" border="0"></a>
+       <a href="/ads/adclick.asp?id=133&amp;url=%2Fprivacypolicy%2Easp" target="sister" onclick="urchinTracker('/advertisers/armsreach125twins.jpg')"><img src="/ads/images/armsreach125twins.jpg" width="125" height="125" border="0"></a>
         </td></tr><tr><td align="middle">
-        <a href="/ads/adclick.asp?id=152&amp;url=%2Fprivacypolicy%2Easp" target="sister" onclick="urchinTracker('/advertisers/amby_125x125_blue.jpg')"><img src="/ads/images/amby_125x125_blue.jpg" width="125" height="125" border="0"></a>
+        <a href="/ads/adclick.asp?id=135&amp;url=%2Fprivacypolicy%2Easp" target="sister" onclick="urchinTracker('/advertisers//001/001-chalkboard-square.jpg')"><img src="/ads/images//001/001-chalkboard-square.jpg" width="125" height="125" border="0"></a>
         </td></tr><tr><td align="middle">
-        <a href="/ads/adclick.asp?id=133&amp;url=%2Fprivacypolicy%2Easp" target="sister" onclick="urchinTracker('/advertisers/armsreach125twins.jpg')"><img src="/ads/images/armsreach125twins.jpg" width="125" height="125" border="0"></a>
+        <a href="/ads/adclick.asp?id=136&amp;url=%2Fprivacypolicy%2Easp" target="sister" onclick="urchinTracker('/advertisers/meyenberg125.jpg')"><img src="/ads/images/meyenberg125.jpg" width="125" height="125" border="0"></a>
         </td></tr><tr><td align="middle"></td></tr></tbody></table>
 
 
@@ -859,6 +859,140 @@ ul.slidelist li {margin: 0; padding:0; padding-left:2px; padding-bottom:4px;}
 
 
 
+
+
+
+
+
+<!-- FIRST TEXT INSERT - HEADLINE--->
+<div id="fadeinbox" style="background-color:#a6c4ef; border-right:#000000 1px solid; padding:0px;width:370px;height:100%;">
+
+
+<script language="Javascript">
+	function formValidate_slidein(f) {
+	
+		if (f.n.value == '')
+		{
+			alert('Name is required');
+			return false;
+		}
+		
+		if (f.e.value == '')
+		{
+			alert('Email Address is required');
+			return false;
+		}
+		
+		var x = f.e.value;
+		var filter  = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+		if (!filter.test(x))
+		{	
+			alert('Invalid Email address');
+			return false;
+		}
+	
+		return true;
+	}
+</script>
+
+
+
+<div style="background-color:#ffffff; width:370px;padding:0px;" align="center">
+
+
+
+
+
+<img src="/images/slide-in/01/sign-up.jpg" width="370" height="97"><br>
+
+<img src="/images/slide-in/01/slide-in.gif" width="370" height="75">
+
+
+<!-- END FIRST TEXT INSERT --->
+
+
+<!--- SECOND INSERT - HEADLINE ID --->
+<input type="hidden" id="WebForm" name="user_WebForm" value="1102-01">
+<!--- HEADLINE TEXT --->
+
+
+
+<form name="" onsubmit="return formValidate_slidein(this)" action="/grabdata.asp" id="form1" method="Get">
+
+		  
+             <input type="hidden" value="S" name="s">
+                    <input type="hidden" value="html" name="f">
+                    <input type="hidden" value="8888" name="g">
+                    <input type="hidden" value="1742" name="c">
+                    <input type="hidden" value="575" name="sfID">
+                    <input type="Hidden" value="32" name="AdId">
+		    <input type="hidden" id="WebForm" name="user_WebForm" value="1103-%=session(" shownadid")%"="">
+          <p align="center">
+              <table id="Table2" width="270">
+                <tbody><tr>
+                  <td width="100"><div class="style4" style="margin:0;padding:0;">Name:&nbsp;</div></td>
+                  <td width="250" class="style2"><input name="n" id="FullName" type="text" class="style5" style="background:#FFFFA0;" size="25" height="11">
+                  </td>
+                </tr>
+                <tr>
+                  <td><div class="style4" style="margin:0;padding:0;">Email:&nbsp;</div></td>
+                  <td class="style2"><input name="e" id="EmailAddress" type="text" class="style5" style="background:#FFFFA0;" size="25" height="11">
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2" align="left" class="style4"><span class="style1">Would you also like to receive special promotions on Dr Sears Books and Products?</span><br>
+                    <div align="center">
+                      <input name="user_promo" type="radio" id="Radio1" value="Y" checked="">
+                      Yes&nbsp;
+                      <input type="radio" name="user_promo" value="N" id="Radio2">
+                      No <br>
+                      <br>
+                    </div></td>
+                </tr>
+                <tr align="right">
+
+                  <td height="22" colspan="2" class="style2" align="center"><input name="cmdSubmit" type="Submit" class="style5" value="Submit" id="Submit1"></td>
+                </tr>
+		<tr>
+		<td colspan="2">
+		
+<div class="style1" style="margin:0;padding:0;"><p> <br></p>Our Privacy Policy</div>
+            <span class="style10">Your privacy is a PRIMARY consideration of AskDrSears.com. Your e-mail address 
+            is used ONLY by AskDrSears.com for the purpose of announcing news, events and 
+            special offers available only AskDrSears.com registered users. </span>
+
+		</td>
+		</tr>
+              </tbody></table></p>
+            </form>
+
+
+
+<p>
+
+
+<img src="/images/slide-in/01/slide-in_footer.gif" width="370" height="21"></p></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    var slideinTimer = setTimeout(initSlideLeftPanel, 7000);
+</script>
+
+
+
 	<!-- End content -->
 	</div>
 </div>
@@ -869,4 +1003,4 @@ ul.slidelist li {margin: 0; padding:0; padding-left:2px; padding-bottom:4px;}
 
 <!-- #EndTemplate -->
    
-<!-- #EndEditable --></body></html>
+<!-- #EndEditable --></div></body></html>
