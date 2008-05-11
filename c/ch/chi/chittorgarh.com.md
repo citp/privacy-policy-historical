@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chittorgarh.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210222510id_/http%3A//www.chittorgarh.com/newportal/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chittorgarh.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511210552id_/http%3A//www.chittorgarh.com/newportal/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Chittorgarh.com | Portal | Privacy Policy
 
@@ -7,7 +7,5 @@ We respect your privacy. Any and all information collected at this site will be 
 **Resale or disclosure of information to third parties:** Chittorgarh.com does not sell, rent, loan, trade, or lease any personal information collected at our site, including membership forms or email lists.
 
 **Browser information collected on the website:** Chittorgarh.com analyzes its website logs to constantly improve the value of the materials available on website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.
-
-**Use of cookies:** Chittorgarh.com doesn't use any cookies.
 
 **Privacy of our email lists:** Chittorgarh.com maintains several email lists to keep our members informed about breaking events. Individuals must affirmatively ask to join our mailing lists by registering on the forums. We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, we configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized Chittorgarh.com staff.
