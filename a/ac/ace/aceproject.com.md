@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222133052id_/http%3A//www.aceproject.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511235010id_/http%3A//www.aceproject.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -130,7 +130,7 @@ If, however, we are going to use users' personally identifiable information in a
 
 Email: [ support@aceproject.com](mailto:support@aceproject.com)  
 **Phone (Toll free for US and Canada):**   
-1-866-259-2454 / +1-418-622-9659 (International) Fax: +1-418-907-8089  
+866.259.2454 / +1.418.907.5184 (International) Fax: +1.418.907.8089  
 We are available between 9 A.M. and 5 P.M. [GMT -5 Eastern Standard Time], Monday to Friday.  
   
    
