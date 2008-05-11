@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211013853id_/http%3A//www.sportsbikeshop.co.uk/motorcycle_parts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511164707id_/http%3A//www.sportsbikeshop.co.uk/motorcycle_parts/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - FREE UK DELIVERY
+# SPORTSBIKESHOP - Privacy Policy
 
 This page explains how SPORTSBIKESHOP, uses any information you give to us, and the ways in which we protect your privacy. 
 
@@ -18,11 +18,25 @@ We will never collect sensitive information about you without your consent. The 
 
 The personal information, which we hold, will be held securely in accordance with our internal security policy and the law. 
 
+## Use of Cookies on our site
+
+A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are.
+
+A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
+
+Two types of cookies are used on this website:
+
+  * Session Cookies which are temporary cookies that remain in the cookie file of your browser until you close the browser.
+  * Persistent Cookies which remain in the cookie file of your browser for much longer. These cookies are used for example to store the contents of your shopping basket and your login information in order to save you time during subsequent visits to this website.
+
+This website may not function properly if cookies are disabled by your browser.
+
 If you have any questions/comments about privacy, please contact us.   
 
 
-MCN AWARD WINNER
-
+  
+  
+  
   
 
 
@@ -39,9 +53,9 @@ GRAB YOURSELF A BARGAIN!
 
 CUSTOMER COMMENTS...
 
-"My helmet arrived today. Many thanks for your prompt service and reply. If I need anything else I will not hesitate to use you again. Thanks once again."
+"Not only did you have the best price, £50 cheaper than ********* for example, but the helmet was delivered very quickly and properly packaged. I would use you again."
 
- **Scott Timson - Wrexham**
+ **Duncan Welch - Essex**
 
 FREE UK DELIVERY OVER £25
 
