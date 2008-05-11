@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchmarketingstandard.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213050052id_/http%3A//www.searchmarketingstandard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmarketingstandard.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511184227id_/http%3A//www.searchmarketingstandard.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Search Marketing Standard Magazine
+# Search Marketing Standard Magazine | Privacy Policy
 
 Protecting the information of our visitors is of paramount importance to us. Therefore, Search Marketing Standard, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for Search Marketing Standard, Inc.
 
