@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ja.org privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230184711id_/http%3A//www.ja.org/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ja.org privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511223804id_/http%3A//www.ja.org/about/privacy.shtml) for the most accurate reproduction.*
 
-# About JA
+# About JA - Privacy Policy
 
 **JA Worldwide® Privacy Policy**
 
@@ -47,6 +47,6 @@ Any personal information you provide to JA Worldwide® is maintained and accessi
 
 
 
-Individuals may opt-out of communications, thereby terminating all existing information he or she may have registered with JA Worldwide® This is done by sending an email to [newmedia@ja.org](mailto:newmedia@ja.org) and requesting a removal from our database.
+[ ](https://web.archive.org/web/20080511223804id_/http%3A//www.ja.org/about/about_res_stan.shtml)Individuals may opt-out of communications, thereby terminating all existing information he or she may have registered with JA Worldwide® This is done by sending an email to [newmedia@ja.org](mailto:newmedia@ja.org) and requesting a removal from our database.
 
 Any modifications to this policy will be posted in this space. We welcome any questions or comments you have. 
