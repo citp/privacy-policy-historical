@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the too-blue.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213215037id_/http%3A//www.projectvoyeur.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the too-blue.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511171933id_/http%3A//www.projectvoyeur.com/privacy.php) for the most accurate reproduction.*
 
 # Project Voyeur
 
