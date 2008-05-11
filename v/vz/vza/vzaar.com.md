@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the vzaar.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210172216id_/http%3A//www.vzaar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vzaar.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511200857id_/http%3A//www.vzaar.com/privacy) for the most accurate reproduction.*
 
 # vzaar :: Privacy
-
-## Free video adverts for your eBay listings
-
-Use vzaar for free with your eBay ID
 
 We don’t want to misuse your data. We know how we like to be treated and we’ll respect your data (such as email address, name, address etc.).
 
