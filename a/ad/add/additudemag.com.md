@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the additudemag.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215053954id_/http%3A//www.additudemag.com/additude/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the additudemag.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511153951id_/http%3A//www.additudemag.com/adhd/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ADDitude - ADHD & LD Adults and Children
 
