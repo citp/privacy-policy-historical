@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ronherman.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220215332id_/http%3A//www.ronherman.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronherman.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511233739id_/http%3A//www.ronherman.com/privacy.aspx) for the most accurate reproduction.*
 
-# Ron Herman - Juicy Couture - Rebel Yell - DaNang - True Religion - Seven For All Mankind
+# Shop LA's Famous Ron Herman Boutique Online!
 
 RonHerman.com is committed to ensuring the privacy and security of your personal information collected through the Site. The personal information you provide while creating or updating an account and at checkout (i.e. name, address, email address, telephone number, billing address, ship-to address and credit card information) is maintained in private files on our secure web server and on our internal systems. The Site currently does NOT use cookies to collect product and purchase information from the pages you access.
 
@@ -10,10 +10,9 @@ RonHerman.com uses Secure Sockets Layer (SSL) technology to ensure the security 
 
 Please contact us if you have any questions or concerns about our privacy and security policy:
 
-| Email: | [info@ronherman.com](mailto:info@ronherman.com)  
----|---  
-Phone:   | (866) 654-4577  
-Fax: | (323) 654-4576  
-Mail: | Ron Herman  
-938 N. Fairfax  
+Email: [info@ronherman.com](mailto:info@ronherman.com)  
+Phone:  (866) 654-4577   
+Fax:(323) 654-4576  
+Mail: Ron Herman  
+8066 Melrose Avenue   
 Los Angeles, CA 90046 
