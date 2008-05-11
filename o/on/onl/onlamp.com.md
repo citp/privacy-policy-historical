@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlamp.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216013736id_/http%3A//www.onlamp.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlamp.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512010824id_/http%3A//www.onlamp.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
 # O'Reilly Network -- Privacy Policy
 
