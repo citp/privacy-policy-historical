@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the katu.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210190339id_/http%3A//www.katu.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katu.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511210427id_/http%3A//www.katu.com/about/privacy) for the most accurate reproduction.*
 
 # KATU.com - Portland, Oregon | KATU Privacy Policy
 
-Story Published: Aug 25, 2006 at 1:22 PM PST 
+Story Published: Aug 25, 2006 at 1:22 PM PDT 
 
-Story Updated: Sep 8, 2006 at 6:09 PM PST 
+Story Updated: Jan 8, 2008 at 10:37 PM PDT 
 
 This Privacy Policy governs the use and collection of information that katutv.com its affiliates, partners, advertisers, agents, related companies and service providers (collectively, "we," "our" or the "website") obtain from you while you are visiting our web site (the "Site"). 
 
@@ -64,7 +64,7 @@ Any information you provide to us is voluntary, and you are not required to shar
 
 _Fisher Interactive Network  
 Opt-Out Department  
-100 Fourth Avenue North, Suite 510  
+140 Fourth Avenue North, Suite 370  
 Seattle, WA 98109_
 
 Please be advised that opting out in any of the ways described above may limit your ability to visit and take advantage of certain services on our Site. You should also bear in mind that we do not have access to the databases of third parties to whom you may have submitted information through our Site in the past, and you should contact those parties directly if you also wish to opt out of their services and databases.
@@ -86,15 +86,15 @@ This Privacy Policy is effective as of August 1, 2006.
 
 | 
 
-Current Temp  38 °F 
+Current Temp  52 °F 
 
-Overcast 
+Mostly Cloudy 
 
-Wind : Variable at 3 MPH 
+Wind : From the Northwest at 14 MPH 
 
-Humidity : 93 % 
+Humidity : 57 % 
 
-Pressure : 30.35" (1027.7 mb) 
+Pressure : 30.19" (1022.2 mb) 
 
 [More Weather](https://web.archive.org/weather)
 
@@ -120,7 +120,5 @@ News on the go for your cell phones or PDA.
 [](http://www.katu.com/home/ondemand/3594581.html "RSS/XML")[](http://www.katu.com/home/ondemand/3594581.html)
 
 Get news and updates as soon as they're published.
-
-## Local Business Search
 
 | 
