@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228233312id_/http%3A//www.creditcards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511221602id_/http%3A//www.creditcards.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - CreditCards.com
 
 [](http://www.truste.org/ivalidate.php?url=www.creditcards.com&sealid=101)
 
-_Last Revised: 14th December 2007_
+_Last Revised: 30th April 2008_
 
 At CreditCards.com, we take great care in safeguarding the privacy of your personal information by following responsible information handling practices. 
 
@@ -47,7 +47,7 @@ We obtain personally identifiable information about you if you elect to send an 
 
 
 
-The CreditCards.com Blogs website at [http://blogs.creditcards.com](http://blogs.creditcards.com/) allows you to submit comments and feedback on blog posts. In order to comment on these posts, we require you to register by providing a username, display name, email address and creating a password and password recovery phrase. Blog comments are moderated by our team, and upon approval, your display name and comment will be visible on the Blogs website. Please note that you can read all blog posts and comments without needing to register. Registration is required only in order to post comments. 
+The CreditCards.com Blogs website at [http://blogs.creditcards.com](http://blogs.creditcards.com/) allows you to submit comments and feedback on blog posts. In order to comment on these posts, we ask for your name and email address, so we may contact you if needed. Blog comments are moderated by our team, and upon approval, your name and comment will be visible on the Blogs website. Your email address will not be displayed on the site. Please note that you can still comment on the blog posts without needing to enter your name or email address.
 
 _Choice/Opt-out_  
 If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter, or you may write to us at CreditCards.com, Attn: Newsletter Unsubscribe, 13809 Research Blvd. #906 Austin, TX 78750 to opt-out.
@@ -95,8 +95,8 @@ To report any known or suspected privacy or security breaches or if you do not f
   * By mail at  
 CreditCards.com  
 Attn: Privacy  
-13809 Research Blvd. Suite 906 ****  
-Austin TX 78750
+8920 Business Park Drive Suite 350  
+Austin TX 78759
 
 
 
@@ -111,4 +111,4 @@ You may ask us to make changes to the information provided by you and/or held ab
 You acknowledge that any information you provide to us will be held on our computers in the United States and may be accessed for the purposes outlined in this policy or for other purposes approved by you. 
 
 **TRUSTe Web Privacy Seal**   
-CreditCards.com is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web sites [www.creditcards.com](http://www.creditcards.com/) and [uk.creditcards.com](http://uk.creditcards.com/). Because we want to demonstrate their commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first us at [](mailto:privacy@creditcards.com)[](mailto:privacy@creditcards.com?subject=Access%20Request) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+CreditCards.com is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web sites [www.creditcards.com](http://www.creditcards.com/) and [uk.creditcards.com](http://uk.creditcards.com/). Because we want to demonstrate their commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact us at [](mailto:privacy@creditcards.com)[](mailto:privacy@creditcards.com?subject=Access%20Request) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
