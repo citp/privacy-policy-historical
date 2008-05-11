@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitwise.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202102928id_/http%3A//www.hitwise.com/other/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwise.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511170846id_/http%3A//www.hitwise.com/other/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ Contact our Privacy Office**
 **Customers and potential customers are not obliged to provide any personal data to Hitwise. However, if any person declines to provide personal data that Hitwise seeks, Hitwise may be unable to provide the services, goods or information that person seeks.
 
 **What personally identifiable information is collected?  
-**Hitwise collects information from its customers in a fair and lawful manner for the purposes of customer identification, providing services and billing and related administration. Hitwise collects customer data from newsletter subscribers and customers at the time of registration or subscription to the Hitwise service, such as name, address, e-mail address, fax and telephone numbers. Hitwise may collect other information about the newsletter subscriber's and customer's use of the website and their business or the company for whom they work, for the purpose of direct marketing campaigns, as permitted by law. Customers are not obliged to provide such information and newsletter subscribers and customers may choose to opt out of such direct marketing campaigns through contacting the Privacy Manager at [privacy@hitwise.com](mailto:privacy@hitwise.com). Hitwise will give you the option to opt out of each campaign in any related correspondence that we may send to you.
+**Hitwise collects information from its customers in a fair and lawful manner for the purposes of customer identification, providing services and billing and related administration. Hitwise collects customer data from newsletter subscribers and customers at the time of registration or subscription to the Hitwise service, such as name, address, e-mail address, fax and telephone numbers. Hitwise may collect other information about the newsletter subscriber's and customer's use of the website and their business or the company for whom they work, for the purpose of direct marketing campaigns, as permitted by law. Customers are not obliged to provide such information and newsletter subscribers and customers may choose to opt out of such direct marketing campaigns through contacting the [Privacy Manager](https://web.archive.org/contact-us/privacy-enquiry.php). Hitwise will give you the option to opt out of each campaign in any related correspondence that we may send to you.
 
 Hitwise may keep a record of any correspondence with customers and newsletter subscribers.
 
@@ -87,11 +87,11 @@ Hitwise may disclose your personal data to third parties:
 **The Hitwise website may from time to time contain links to external websites. Hitwise encourages its customers to review the privacy and security policies of any externally linked websites that may be accessed through the Hitwise website. Hitwise assumes no responsibility or liability for the information, collection and disclosure practices of any sites that a user can access through the Hitwise website. Please check the privacy policies of external websites before you submit any personal data to them.
 
 **Can I change or delete information secured?  
-**Hitwise does its utmost to ensure the quality and accuracy of the customer personal data in its possession, and as such invites newsletter subscribers and customers of the service to access or update their details as necessary. Hitwise is committed to providing reasonable and practical access to allow visitors the opportunity to identify and correct any inaccurate details we may hold. This can be done by clicking here or through contacting the Privacy Manager at [privacy@hitwise.com](mailto:privacy@hitwise.com).
+**Hitwise does its utmost to ensure the quality and accuracy of the customer personal data in its possession, and as such invites newsletter subscribers and customers of the service to access or update their details as necessary. Hitwise is committed to providing reasonable and practical access to allow visitors the opportunity to identify and correct any inaccurate details we may hold. This can be done by clicking here or through contacting the [Privacy Manager](https://web.archive.org/contact-us/privacy-enquiry.php).
 
 Hitwise shall respond to your data access request within 40 days of receiving your request. If Hitwise is unable to respond to your request within such period Hitwise shall notify you of the reason why Hitwise is so unable. Hitwise reserves the right to charge you a reasonable administrative fee for complying with any access request made by you.
 
-All newsletter subscribers and customers have the right to access or update personal data that they have submitted through the Hitwise website by clicking here or by contacting the Privacy Manager at [privacy@hitwise.com](mailto:privacy@hitwise.com). Should subscribers and customers subsequently choose to unsubscribe from mailing lists they can do so by following the instructions on how to unsubscribe provided in all Hitwise communications. On request, Hitwise will delete personally identifiable information that has been submitted from the current database, unless it is required to retain such information by law. As a general principle, Hitwise will retain customer records for 7 years.
+All newsletter subscribers and customers have the right to access or update personal data that they have submitted through the Hitwise website by clicking here or by contacting the [Privacy Manager](https://web.archive.org/contact-us/privacy-enquiry.php). Should subscribers and customers subsequently choose to unsubscribe from mailing lists they can do so by following the instructions on how to unsubscribe provided in all Hitwise communications. On request, Hitwise will delete personally identifiable information that has been submitted from the current database, unless it is required to retain such information by law. As a general principle, Hitwise will retain customer records for 7 years.
 
 **Children's Online Privacy Protection**  
 The Hitwise service is directed towards adult business users. Hitwise does not knowingly collect information from children under the age of 13. Children under the age of 13 should not use the Hitwise website or submit information to Hitwise.
@@ -103,7 +103,7 @@ Please note that this Privacy Statement is not intended to create a legally bind
 **Any changes that Hitwise makes to this Customer Privacy Policy shall be posted on the Hitwise website and where appropriate notified to you by email.
 
 **Contact our Privacy Office**  
-If you have any queries about the privacy statement or to report a privacy issue or wish to know more about our Complaint Handling Procedure please contact our Privacy Manager, who can be reached at [privacy@hitwise.com](mailto:privacy@hitwise.com).
+If you have any queries about the privacy statement or to report a privacy issue or wish to know more about our Complaint Handling Procedure please contact our [Privacy Manager](https://web.archive.org/contact-us/privacy-enquiry.php) .
 
 This privacy policy relates to the data collected by Hitwise from data partners in order to power the range of real-time competitive intelligence tools.
 
@@ -130,4 +130,4 @@ Hitwise is also able to collect demographic information about the visitors to a 
 At no time does Hitwise collect any personally identifiable data from any of its data partners.  
   
 **Contact our Privacy Office**  
-If you have any queries about the privacy statement or wish to know more about our Complaint Handling Procedure please contact our Privacy Manager, who can be reached at [privacy@hitwise.com](mailto:privacy@hitwise.com).
+If you have any queries about the privacy statement or wish to know more about our Complaint Handling Procedure please contact our [Privacy Manager](https://web.archive.org/contact-us/privacy-enquiry.php) .
