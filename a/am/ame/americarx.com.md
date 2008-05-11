@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americarx.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217030718id_/http%3A//www.americarx.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americarx.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511184029id_/http%3A//www.americarx.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# AmericaRx.com Shop Online Pharmacy for Health & Beauty, Home Health Care, Skin Care & Baby Care Products.
+# AmericaRx.com : Your Privacy respected. SSL secured, confidential data storage and committed to protect your personal information.
 
 **Information We Collect**  
 We recognize your right to confidentiality and are committed to protecting your privacy. We use the information that we collect on our site to provide you with a superior shopping experience. And also to Inform you about products, services, and promotions whenever we feel it is neccessary. We always respect your Privacy and time.
