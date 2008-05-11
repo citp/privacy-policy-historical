@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksalefinder.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221135835id_/http%3A//www.booksalefinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksalefinder.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512002717id_/http%3A//www.booksalefinder.com/privacy.html) for the most accurate reproduction.*
 
 # Book Sale Finder Privacy Policy
 
@@ -15,7 +15,7 @@ We would be happy to answer any questions you have about privacy. See below for 
   
 * * *
 
-©2007 BAYSYS Publishing, PO Box 452, Hudson, MA 01749  
+©2008 BAYSYS Publishing, PO Box 452, Hudson, MA 01749  
 Tel: 978-562-3400, Fax: 978-562-1233, [Editor@BookSaleFinder.com](mailto:editor@BookSaleFinder.com)  
 
 
