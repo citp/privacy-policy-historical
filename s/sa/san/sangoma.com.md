@@ -1,21 +1,31 @@
-> *The following text is extracted and transformed from the sangoma.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016203540id_/http%3A//www.sangoma.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sangoma.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512000708id_/http%3A//www.sangoma.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Sangoma - Privacy Policy
 
-### Information Automatically Collected and Stored 
+## This is the web site of Sangoma Technologies Corporation.
 
-For site management and statistical purposes, we collect information through standard Web logs (Urchin). These Web logs contain the domain name or IP address from which you connect to our site, the date and time you access the site, search terms, and the pages visited.  We make periodic checks of the types of browsers/operating systems used and of the pages from which you direct-link to our site. We regularly delete raw data logs from the system.  We create summary statistics  from the Web logs in order to measure the number of visitors to the various sections of our site and to help make the site more useful. 
+Our postal address is  
+50 McIntosh Drive, Suite 120  
+Markham, ON L3R 9T3, Canada  
+We can be reached via e-mail at   
+or you can reach us by telephone at **1 905 474 1990**
 
-**Cookie Disclaimer**  -  A "cookie" is information stored on your computer by a Web server and used to customize your web service in some way. 
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-You can choose not to accept cookies and still use the Sangoma web site.  However, you will be unable to use the cookie-dependent features (order forms).  Refer to the help information in your browser software for instructions on how to disable cookies. 
+We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-### Personally Provided Information 
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, shared with other reputable organizations to help them contact consumers for marketing purposes, used by us to contact consumers for marketing purposes.
 
-You do not have to give us personal information to visit our web sites. 
+With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart.
 
-If you choose to provide us with additional information about yourself through an e-mail message, form, survey, newsletter subscription etc., we will only maintain the information as long as needed to respond to your question or to fulfill the stated purpose of the communication. 
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above.
 
-### Disclosure 
+Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
-Except for authorized law enforcement investigations, no attempt is made to identify individual users or usage patterns. **We do not give, share, sell or transfer any personal information to a third party.**
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
