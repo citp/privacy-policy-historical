@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sirlinksalot.net privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216040347id_/http%3A//www.sirlinksalot.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirlinksalot.net privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511171901id_/http%3A//www.sirlinksalot.net/privacy.html) for the most accurate reproduction.*
 
 # SirLinksalot.net Privacy Policy
 
@@ -15,10 +15,6 @@ This site contains links to other sites. **SirLinksalot.net** and **Walker Marke
 This website collects statistical information using information provided by Counted.com.  The privacy policy for Counted.com 
 
 can be found [**by clicking here**](http://www.counted.com/information/privacy/).
-
-**Microsoft bCentral**
-
-Selected pages within this website collect email addresses on an opt-in basis for the sole purpose of providing access to information to the user about topics covered by the site. These addresses are used solely for the stated purpose and will not intentionally be sold, exchanged or otherwise revealed by SirLinksalot.net or Walker Marketing, Inc. to third parties.  The privacy policy for the Microsoft bCentral website can be found **[by clicking here](http://www.bcentral.com/help/policy/privacy.asp)**. 
 
 **Sitemeter.com**
 
@@ -64,4 +60,4 @@ Should you have any questions regarding this privacy policy please **[contact us
 [](http://bilbo.counted.com/7/30730/)  
     
 
-Copyright © 2000 - 2005 [Walker Marketing Inc.](http://www.walkermarketinginc.com/) All Rights Reserved
+Copyright © 2000 - 2008 [Walker Marketing Inc.](http://www.walkermarketinginc.com/) All Rights Reserved
