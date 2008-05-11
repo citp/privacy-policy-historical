@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sqlmanager.net privacy policy that was archived on 2007-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071007082342id_/http%3A//sqlmanager.net/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmanager.net privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511164015id_/http%3A//www.sqlmanager.net/en/privacy) for the most accurate reproduction.*
 
-# SQL Manager | Privacy Policy
+# EMS SQL Manager - Privacy Policy
 
 Protecting your privacy is important to EMS. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the EMS Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information. 
 
