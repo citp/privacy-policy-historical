@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219110331id_/http%3A//www.crash.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511235034id_/http%3A//www.crash.net/privacy.htm) for the most accurate reproduction.*
 
-# F1, formula one, motorsport news, results, features, teams, drivers, updates
+# Motorsport News, Results & Pictures | Motorsport | Crash.Net
 
 Crash.Net has a firm commitment to the privacy of our members' personal information. The following discloses our information gathering and dissemination practices for this website. 
 
