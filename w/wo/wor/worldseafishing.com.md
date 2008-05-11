@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212163910id_/http%3A//www.worldseafishing.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511155413id_/http%3A//www.worldseafishing.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # WSF Terms and Conditions
+
+| 
 
 Privacy Policy
 
@@ -26,6 +28,9 @@ Our web site uses third party advert servers (such as DoubleClick, ValueClick, G
 
 |  |   
 ---  
+  
+[](http://www.wsftackle.com/)   
+  
   
 WSF FAQ & Help
 
