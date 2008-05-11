@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimtrade.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222135225id_/http%3A//www.jimtrade.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimtrade.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511181928id_/http%3A//www.jimtrade.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
