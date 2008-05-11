@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pooltracker.com privacy policy that was archived on 2007-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070713185540id_/http%3A//www.pooltracker.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pooltracker.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511210328id_/http%3A//www.pooltracker.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Pooltracker: privacy policy
+# Privacy Policy for PoolTracker
 
  
 
@@ -21,15 +21,13 @@ When you visit the Pooltracker.com site, we collect some basic information that 
 
 On some pages (our Members Area), you can register and order services, make requests, and invite others to join. The types of personal information collected at these pages are: 
 
-  * Email address 
-  * Username 
-  * Password 
-  * Billing address 
-  * Phone number 
-  * Credit card account number 
-  * Titles of services you purchase from us 
-
-
+* Email address 
+* Username 
+* Password 
+* Billing address 
+* Phone number 
+* Credit card account number 
+* Titles of services you purchase from us 
 
 **The Way We Use Information**
 
@@ -49,7 +47,7 @@ All information you enter in the Authorize.net order form will be shared with Po
 
 **How You Can Access or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by sending us an email. The exception, as explained above or in the "Credit Card Processing and Security" section, is your credit information, since it is not kept. 
+You can access all your personally identifiable information that we collect online and maintain by logging in and clicking the "My Settings" link near the top of each "Members Area" page or by sending us an email. The exception, as explained above or in the "Credit Card Processing and Security" section, is your credit information, since it is not kept. **We will never ask for your Credit Card number.**
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
