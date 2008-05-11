@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newsweaver.co.uk privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213192554id_/http%3A//www.newsweaver.co.uk/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newsweaver.co.uk privacy policy that was archived on 2008-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080511220451id_/http%3A//www.newsweaver.co.uk/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta name="description" content="Online publishing system. 
@@ -28,8 +28,9 @@ templates, send, sending, mailing, template, CRM, increase revenue, customer loy
  <div id="header">
   <span id="logo"><a href="/"><img src="http://www.newsweaver.co.uk/includes/images/newsweaver-logo.gif" alt="logo" title="Newsweaver Logo" border="0"></a> </span> 
 	<div id="contacts">
-		<p><img src="http://www.newsweaver.co.uk/includes/images/flag-uk.gif" alt="Flag UK" title="Flag UK">UK - Freephone 0800 904 7955</p>
-		<p><img src="http://www.newsweaver.co.uk/includes/images/globe.gif" alt="Globe" title="Globe">All other countries - +353 23 29880</p>
+		<p><img src="http://www.newsweaver.co.uk/includes/images/flag-uk.gif" alt="Flag UK" title="Flag UK">UK Sales - 0800 904 79 55<br>
+		<img src="http://www.newsweaver.co.uk/includes/images/flag_blank.gif">UK Support - 0800 085 6388<br>
+		<img src="http://www.newsweaver.co.uk/includes/images/globe.gif" alt="Globe" title="Globe">All other countries - +353 23 29880</p>
 	</div>
  </div>
 <div id="menu">
@@ -130,7 +131,29 @@ If you wish to contact us to discuss any matter in relation to this Privacy Stat
 
 <div class="box-r">
    <div class="titlebox">OUR CLIENTS</div>
-    <a href="ourclients.php"><img id="clients" border="0" class="centered" src="/includes/images/uk_client_anim.gif" alt="Our email newsletter clients" title="Our email newsletter clients"></a>
+    <a href="ourclients.php">
+    <!--<img id="clients" border="0" class="centered" src="/includes/images/uk_client_anim.gif" alt="Our email newsletter clients" title="Our email newsletter clients" />-->
+    <!--rotating images from dir ---->
+<script src="../includes/php/getimages.php"></script>
+
+<script type="text/javascript">
+var curimg=0
+function rotateimages(){
+document.getElementById("slideshow").setAttribute("src", "../includes/images/uk_logos/"+galleryarray[curimg])
+curimg=(curimg<galleryarray.length-1)? curimg+1 : 0
+}
+
+window.onload=function(){
+setInterval("rotateimages()", 1000)
+}
+</script>
+<!--end image-->
+
+
+<img id="slideshow" src="../includes/images/uk_logos/3m.gif" alt="Our email newsletter clients" title="Our email newsletter clients" border="0" class="centered">    
+    
+
+    </a>
    </div>
 
  <div class="box-r">
@@ -142,7 +165,7 @@ If you wish to contact us to discuss any matter in relation to this Privacy Stat
 	<input type="hidden" name="log_id" value="0"> 
 	<input type="hidden" name="issue_id" value="0">
 	<p class="text">
-	Sign up for <a href="http://www.businessofemail.com" class="link" target="blank">The Business of Email</a>, our monthly email newsletter containing relevant news, articles and best-pratice tips for
+	Sign up for <a href="http://www.businessofemail.com" class="link" target="blank">The Business of Email</a>, our monthly email newsletter containing relevant news, articles and best-practice tips for
 	email marketing.
 	<br><br>
 	<input type="hidden" name="XXDESXXbackto" value="CALLER">
@@ -193,7 +216,7 @@ If you wish to contact us to discuss any matter in relation to this Privacy Stat
 </div>
 <div id="footer">
 <p><a href="/sitemap.php">Site Map</a> | <a href="/termsofservice.php">Terms of Service</a> | <a href="/privacypolicy.php">Privacy Policy</a> |  <a href="/emailpolicy.php">Email Policy</a></p>
-<p>Copyright © 2007 by E-Search Limited. All rights reserved.</p>
+<p>Copyright © 2008 by E-Search Limited. All rights reserved.</p>
 
 </div>
 
