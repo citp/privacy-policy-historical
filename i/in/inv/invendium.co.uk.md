@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the invendium.co.uk privacy policy that was archived on 2004-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040211160217id_/http%3A//www.invendium.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invendium.co.uk privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512000235id_/http%3A//www.invendium.co.uk/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Invendium Ltd: Privacy policy for Invedium Sites
 
-[Invendium Ltd and its web sites](https://web.archive.org/web/20040211160217id_/http%3A//www.invendium.co.uk/sites.htm) (together "Invendium) will track the domains from which people visit Invendium and analyze this data for trends and statistics. Subject to the provisions of this Privacy Policy, [different Invendium sites](https://web.archive.org/web/20040211160217id_/http%3A//www.invendium.co.uk/sites.htm) may use accumulated data for different purposes, including but not limited to marketing analysis, service evaluation and planning. 
+[Invendium Ltd and its web sites](https://web.archive.org/web/20080512000235id_/http%3A//www.invendium.co.uk/portfolio.php) (together "Invendium) will track the domains from which people visit Invendium and analyze this data for trends and statistics. Subject to the provisions of this Privacy Policy, [different Invendium sites](https://web.archive.org/web/20080512000235id_/http%3A//www.invendium.co.uk/portfolio.php) may use accumulated data for different purposes, including but not limited to marketing analysis, service evaluation and planning. 
 
 Invendium contains links to other websites, whether owned or controlled by Invendium, affiliates or unrelated third parties. Invendium is not responsible for the privacy policies and practices of any linked website outside its ownership. 
 
