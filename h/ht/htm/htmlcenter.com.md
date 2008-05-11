@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlcenter.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225183759id_/http%3A//www.htmlcenter.com/contacts/index.cfm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlcenter.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511221700id_/http%3A//htmlcenter.com/contacts/index.cfm/privacy) for the most accurate reproduction.*
 
 # HTMLCenter - Privacy Policy
 
