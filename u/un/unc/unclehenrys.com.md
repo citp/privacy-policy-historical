@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the unclehenrys.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211090757id_/http%3A//www.unclehenrys.com/Common/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unclehenrys.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511224007id_/http%3A//unclehenrys.com/Common/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Uncle Henry's - Classifieds : About Us : Privacy Policy
 
+| Classifieds : About Us : Privacy Policy|    |    |   
+---|---|---|---|---  
+|   
   
 Introduction 
 
@@ -17,7 +20,6 @@ We collect this information through registration forms and our survey (if you ch
 
 We do employ cookies. A cookie is a small text file that our Web server places on a user's computer hard drive to be a unique identifier. Cookies enable UNCLE HENRY'S to know who you are from page request to page request. This insures that information you request or give us goes to you and only you. Our cookies do not have an expiration date. Our cookies do not collect personally identifiable information. For more information on Cookies, see our FAQ's.
 
-  
 Part II. Information Usage. 
 
 The information collected by UNCLE HENRY'S will be used solely by Uncle Henry's for statistical purposes. Users who provide information will receive expiration notices, reminders and requested information from Uncle Henry's.
@@ -32,12 +34,10 @@ We may offer links to other Web sites. Please note: When you click on links to o
 
 Our Web site offers forums. Please be advised that information posted in this venue becomes public knowledge. 
 
-  
 Part III. Access to Information 
 
 UNCLE HENRY'S maintains the accuracy of our information by requiring an email activation for all new free accounts. Users may access their own personal information and change any inaccuracies they may find. 
 
-  
 Part IV. Data Storage and Security 
 
 UNCLE HENRY'S protects user information with the following security measures: secure servers, firewalls, SSL encryption and other technology and procedures used to protect consumer privacy. 
