@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the govisitcostarica.com privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213002347id_/http%3A//www.govisitcostarica.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the govisitcostarica.com privacy policy that was archived on 2008-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080511200320id_/http%3A//www.govisitcostarica.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -8,29 +8,34 @@
 	<meta name="description" content="Premier Costa Rica travel planning and vacation site where you can find detailed hotel descriptions with photos, make hotel reservations, find maps, and destination information about Costa Rican tourism.">
 	
 
-<meta http-equiv="Content-Type" content="text/html;">
-<link href="/css/gvcr.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" language="JavaScript" src="/includes/inc_js_general.js"></script>
-<script type="text/javascript" src="/includes/AjaxScripts/prototype.js"></script>
-<script type="text/javascript" src="/includes/AjaxScripts/rico.js"></script>
-<script type="text/javascript" src="/includes/AjaxScripts/suggest.js"></script>
-<script type="text/javascript">
-  var suggestOptions = {
-    matchAnywhere      : false,
-    ignoreCase         : true
-  };
 
-  function injectSuggestBehavior() {
-     suggest = new TextSuggest(
-  'kw',
-  '/includes/inc_hint_ajax.asp',
-  suggestOptions
-);
-  }
-</script>
+<link href="/css/gvcr.css" rel="stylesheet" type="text/css">
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <link rel="stylesheet" href="/css/Autocompleter.css" type="text/css" media="screen">
+    <script type="text/javascript" language="JavaScript" src="/includes/inc_js_general.js"></script>
+	<script type="text/javascript" language="JavaScript" src="/includes/AutoComplete/mootools-release-1-11.js"></script>
+	<script type="text/javascript" language="JavaScript" src="/includes/AutoComplete/Observer.js"></script>
+	<script type="text/javascript" language="JavaScript" src="/includes/AutoComplete/Autocompleter.js"></script>
+	<script type="text/javascript">
+		//<![CDATA[
+		window.addEvent('domready', function(){
+			var el = $$('input');
+			var indicator2 = new Element('div', {'class': 'autocompleter-loading', 'styles': {'display': 'none'}}).setHTML('').injectAfter($('kw'));
+			var completer2 = new Autocompleter.Ajax.Json($('kw'), '/includes/inc_hint_ajax.asp', {
+				'onRequest': function(el) {
+					indicator2.setStyle('display', '');
+				},
+				'onComplete': function(el) {
+					indicator2.setStyle('display', 'none');
+				}
+			});
+		});
+		//]]>
+	</script>
+
  
 </head>
-<body bgcolor="#ffffff" onload="injectSuggestBehavior()" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <table border="0" cellpadding="0" cellspacing="0" width="790" align="center">
   <tbody><tr>
    <td>
@@ -42,7 +47,7 @@
 <tbody><tr>
 <td>
 <table border="0" cellpadding="0" cellspacing="0" width="790">
-  <form name="frmKeywords" action="/listings/listings.asp?fs=1&amp;fm=keyword" method="post"></form>
+  <form name="frmKeywords" action="/search.asp" method="get"></form>
   <tbody><tr>
    <td width="20">&nbsp;</td>
 
@@ -59,19 +64,19 @@
 		<td width="205">
 			<table border="0" cellpadding="0" cellspacing="0" width="205">
 			  <tbody><tr>
-			    <td colspan="2" width="271" height="20" align="right" class="BodyTextSmBoldPurple"><a href="http://www.govisitcostarica.com/privacy.asp" rel="nofollow" class="BodyTextSmBoldPurple">English</a> | <a href="http://www.govisitcostarica.co.cr/privacy.asp" rel="nofollow" class="BodyTextSmBoldPurple">Español</a></td>
+			    <td colspan="2" width="205" height="20" align="right" class="BodyTextSmBoldPurple"><a href="http://www.govisitcostarica.com/privacy.asp" rel="nofollow" class="BodyTextSmBoldPurple">English</a> | <a href="http://www.govisitcostarica.co.cr/privacy.asp" rel="nofollow" class="BodyTextSmBoldPurple">Español</a></td>
 			  </tr>
 			  <tr>
-			    <td colspan="2" height="24" width="271">
+			    <td colspan="2" height="24" width="205">
 					&nbsp;
 			    </td>
 			  </tr>
 			  <tr>
  			 	<td height="23" width="207" valign="top" align="left" class="BodyTextSm">
-					<input type="text" value="" size="20" id="kw" name="kw">
- 			 	</td>
+					<input type="text" value="" size="20" id="kw" name="kw" tabindex="1" autocomplete="off">
+ 			 	<div class="autocompleter-loading" style="display: none;"></div></td>
 				<td>
-					<input type="image" name="go" src="/images/btn_search2.gif" alt="Search for Hotel, City, Attraction or Keyword" border="0" onclick="javascript:return submitForm()"></td>
+				    <input type="image" name="go" src="/images/btn_search2.gif" alt="Search for Hotel, City, Attraction or Keyword" border="0" tabindex="2" onclick="javascript:return submitForm()"></td>
 			  </tr>
 			  <tr>
  			 	<td colspan="2" class="BodyTextSm" width="271" height="5" valign="top" align="right">
@@ -154,6 +159,7 @@ google_color_bg = "FFFFFF";
 google_color_link = "B624B4";
 google_color_text = "000000";
 google_color_url = "CCCCCC";
+google_language = 'en';
 //--></script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
@@ -291,9 +297,10 @@ google_color_url = "CCCCCC";
     google_ad_channel = "3431949461";
     google_color_border = "FFFFFF";
     google_color_bg = "FFFFFF";
-    google_color_link = "0066CC";
+    google_color_link = "B624B4";
     google_color_text = "000000";
-    google_color_url = "000000";
+    google_color_url = "CCCCCC";
+    google_language = "en";
     //-->
     </script>
     <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
@@ -323,7 +330,6 @@ google_color_url = "CCCCCC";
   
 	<tr> 
 		<td align="center" height="5" class="BodyText">
-        
 		<a href="/photo-site-map.asp" class="LinkTextSmBlue">Costa Rica Photo Directory</a>
 		<span class="BodyTextSm">|</span> <a href="/Company-Directory.asp" class="LinkTextSmBlue">Costa Rica Company Directory</a>
 		<span class="BodyTextSm">|</span> <a href="/city-site-map.asp" class="LinkTextSmBlue">Costa Rica Cities</a>
@@ -365,6 +371,10 @@ google_color_url = "CCCCCC";
 		<span class="BodyTextSm">|</span> <a href="/region/puntarenas/SouthPuntarenas.asp" class="LinkTextSmBlue">South Puntarenas</a>
 		<span class="BodyTextSm">|</span> <a href="/region/puntarenas/NorthPuntarenas.asp" class="LinkTextSmBlue">North Puntarenas</a>
 		<span class="BodyTextSm">|</span> <a href="/region/guanacaste/guanacaste.asp" class="LinkTextSmBlue">Guanacaste</a>
+
+	    <br><br>
+	    Curious about going Down Under? Get away on a <a href="http://www.govisitnewzealand.com">New Zealand Holiday</a><br>
+        
 		
 		</td>
 	</tr>
@@ -376,7 +386,7 @@ google_color_url = "CCCCCC";
 
 	<tr> 
 		<td align="center" class="BodyTextSm" height="5">
-		Copyright © 2003 - 2007, <a href="/">www.GoVisitCostaRica.com</a> a subsidiary of Delfina Travel Group Inc. All rights reserved.</td>
+		Copyright © 2003 - 2008, <a href="/">www.GoVisitCostaRica.com</a> a subsidiary of Delfina Travel Group Inc. All rights reserved.</td>
 	</tr>
 	<tr> 
 		<td align="center" class="BodyTextSmGrey" height="5">
@@ -389,9 +399,7 @@ google_color_url = "CCCCCC";
   <tr> 
     <td height="5">&nbsp;</td>
   </tr>
-</tbody></table>
-
-<script language="JavaScript" src="http://www.govisitcostarica.com/astracker/ast.php"></script> 	
+</tbody></table> 	
 		</td>
 	  </tr>
 	</tbody></table>
@@ -406,4 +414,4 @@ google_color_url = "CCCCCC";
    		
 
 
-</body></html>
+<ul class="autocompleter-choices" style="z-index: 42; visibility: hidden; zoom: 1; opacity: 0;"></ul></body></html>
