@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backup.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210071735id_/http%3A//www.backup.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backup.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511145446id_/http%3A//www.backup.com/privacy.asp) for the most accurate reproduction.*
 
 # backup.com - Privacy Policy
 
