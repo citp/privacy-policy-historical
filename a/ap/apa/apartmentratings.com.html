@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the apartmentratings.com privacy policy that was archived on 2007-07-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070705111042id_/http%3A//www.apartmentratings.com/rate/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apartmentratings.com privacy policy that was archived on 2008-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080511171406id_/http%3A//www.apartmentratings.com/rate/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>ApartmentRatings.com Privacy Policy</title>
 <meta name="description" content="Ratings and reviews of apartments by renters and listings of housing for rent nationwide.">
 <meta name="keywords" content="APARTMENT RENTALS LISTINGS">
 <!-- external stylesheets -->
-<style type="text/css" media="all">@import url("/review/css/styles.css");</style><style type="text/css" media="all">@import url("/review/css/basic.css");</style><script src="/review/verify_inputs.js" type="text/javascript"></script>
+<style type="text/css" media="all">@import url("/review/css/styles.css");</style><style type="text/css" media="all">@import url("/review/css/basic.css");</style><style type="text/css" media="all">@import url("/review/css/GoogleAds.css");</style>
+<script src="/review/verify_inputs.js" type="text/javascript"></script>
 <script src="/review/docwriter.js" type="text/javascript"></script><meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 <meta http-equiv="pragma" content="no-cache">
 <meta name="robots" content="all">
@@ -26,11 +27,36 @@ urchinTracker();
 <script type="text/javascript">
 _qacct="p-ccQjAz8hqjCaA";quantserve();</script>
 <!-- End Quantcast tag -->
+
+<!--styling for google ads-->
+<style type="text/css" media="all">@import url("/review/css/GoogleAds.css");</style>
+<!--IB DOM libary, used to populate containers on the page with ads-->
+<script type="text/javascript" src="/review/js/ibdom.js"></script>
+<!--swf object libary, used to include flash ads in a standards-compliant fashion-->
+<script type="text/javascript" src="/review/js/swfobject.js"></script>
+<!--These are the helper functions used by google_ad_request_done()-->
+<script type="text/javascript">
+			//overrides IBDOM's setTextData() to use innerHTML method.
+			//HTML entities are automatically parsed using this method.
+			IBDOM.IBElement.methods.setTextData = function() {
+				this.innerHTML = arguments[0];
+				return this;
+			}
+			function goToGoogleUrl(gUrl) {
+				alert("here");
+				window.location.href=gUrl;
+			}
+</script>
+
 </head>
 <body bgcolor="#ffffff">
-
 <noscript>
 <img src="http://pixel.quantserve.com/pixel/p-ccQjAz8hqjCaA.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
+
+
+ 
+
+
 <div id="maincontainer"><div id="header">
 		<div id="topmenu">
 <a href="/" style="float: left; position: relative; left: -50px; top: -5px; margin-right: -74px; margin-bottom: -200px; "><img src="/review/i/clear.gif" style="height: 74px; width: 300px; border: 0;"></a>
@@ -39,6 +65,7 @@ _qacct="p-ccQjAz8hqjCaA";quantserve();</script>
 		<div id="tabs">
 		<ul><li><a href="/rate/Find-Apartments.html" title="Find Apartments"><span>Find Apartments</span></a></li>
 		<li><a href="/rate/movingcenter" title="Moving Center"><span>Moving Center</span></a></li></ul>
+		<li><a href="http://discussions.apartmentratings.com" title="Discussions"><span>Discussions<img src="/review/images/new1.gif"></span></a></li>
 		</div>
 		<div id="topsearch">
 			<form action="/rate/SearchResults" method="post">
@@ -54,49 +81,82 @@ _qacct="p-ccQjAz8hqjCaA";quantserve();</script>
 	</div>
 <!-- content column -->
 	<div id="wrapper">	
-		<div id="googleV"><br>
-<!-- google channel = null -->
-<!-- privacy -->
-
-				<!-- GOOGLE -->
-				<script type="text/javascript"><!--
-				google_ad_client = "pub-6003529163463668";
-				google_alternate_ad_url = "http://www.apartmentratings.com/review/alternate_ads.html";
-				google_ad_width = 160;
-				google_ad_height = 600;
-				google_ad_format = "160x600_as";
-				google_color_border = "FFFFFF";
-				google_color_bg = "FFFFFF";
-				google_color_link = "14516D";
-				google_color_text = "6EA4D0";
-				google_color_url = "14516D";
-
-				//--></script>
-				<font size="+2"><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-				</script></font>
+		<div class="templates">
+			<div class="GoogleAd" onmouseover="return true">
+				<a class="Link" href="about:data:url" onmouseover="window.status=this.innerHTML" onmouseout="window.status=''">data:line1</a>
+				<span>data:line2</span>
+				<span>data:line3</span>
+				<h5>data:visible_url</h5>
+			</div>
+			<div class="GoogleImgAd">
+			
+			</div>
+		</div>
+		<div id="googleV">
+	<div align="left">
+	
+<script type="text/javascript"><!--
+	
+		google_hints ="apartments";
+	
+		google_ad_channel ="Apt_Domain_AFC,Apt_ROS_Any_160,Apt_ROS_Exclude_Reviews_160";
 		
-
-
-</div>
-
-
-<div id="googleH">
-<script language="JavaScript" type="text/javascript" src="http://ads.apartmentratings.com/a/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
+//--></script>
+<script language="Javascript">
 <!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://ads.apartmentratings.com/a/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:4");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
+var axel = Math.random() + "";
+var ord = axel * 1000000000000000000;
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://ads.apartmentratings.com/a/adjs.php?n=212066367&amp;what=zone:4&amp;exclude=,"></script><noscript><a href='http://ads.apartmentratings.com/a/adclick.php?n=ac6fb818' target='_blank'><img src='http://ads.apartmentratings.com/a/adview.php?what=zone:4&amp;n=ac6fb818' border='0' alt=''></a></noscript>
+
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/apartmentratings.tmus/general;abr=!webtv;tile=1;sz=160x600;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/apartmentratings.tmus/general;abr=!webtv;tile=1;sz=160x600;ord=739708944919679400?" type="text/javascript"></script>
+<script>
+<!--
+if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) {
+document.write('<a href="http://ad.doubleclick.net/jump/apartmentratings.tmus/general;tile=1;sz=160x600;ord=' + ord + '?" target="_blank">');
+document.write('<img src="http://ad.doubleclick.net/ad/apartmentratings.tmus/general;tile=1;sz=160x600;ord=' + ord + '?" width="160" height="600" border="0" alt=""></a>');
+}
+//-->
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/apartmentratings.tmus/general;tile=1;sz=160x600;ord=123456789?" target="_blank">
+<img src="http://ad.doubleclick.net/ad/apartmentratings.tmus/general;tile=1;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a>
+</noscript>
+ 
+	</div>
+
 </div>
+
+
+<script type="text/javascript"><!--
+	
+		google_hints ="apartments";
+	
+		google_ad_channel ="Apt_Domain_AFC,Apt_ROS_Any_728,Apt_ROS_Exclude_Reviews_728";
+		
+//--></script>
+<script language="Javascript">
+<!--
+var axel = Math.random() + "";
+var ord = axel * 1000000000000000000;
+//-->
+</script>
+<script language="Javascript1.1" src="http://ad.doubleclick.net/adj/apartmentratings.tmus/general;abr=!webtv;tile=1;sz=728x90;ord=' + ord + '?"></script>
+<script>
+<!--
+if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) {
+document.write('<a href="http://ad.doubleclick.net/jump/apartmentratings.tmus/general;tile=1;sz=728x90;ord=' + ord + '?" target="_blank">');
+document.write('<img src="http://ad.doubleclick.net/ad/apartmentratings.tmus/general;tile=1;sz=728x90;ord=' + ord + '?" width="160" height="600" border="0" alt=""></a>');
+}
+//-->
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/apartmentratings.tmus/general;tile=1;sz=728x90;ord=123456789?" target="_blank">
+<img src="http://ad.doubleclick.net/ad/apartmentratings.tmus/general;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a>
+</noscript>
+
+
+		
 <div id="content">
  
 <table width="98%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="left">
@@ -108,7 +168,7 @@ _qacct="p-ccQjAz8hqjCaA";quantserve();</script>
 </tbody></table>
 
 <p>Amended &amp; Restated
-<br>Last Updated: May 24, 2007
+<br>Last Updated: January 18, 2008
 
 		</p><p>ApartmentRatings.com takes your privacy seriously. Please read this to learn about our policy regarding visitor and member privacy. 
 		
@@ -149,10 +209,12 @@ _qacct="p-ccQjAz8hqjCaA";quantserve();</script>
 		<p></p><blockquote>
 
 		Your Internet browser has a feature called "cookies" which may store small amounts of data on your computer about your visit to our site. ApartmentRatings.com may set and access ApartmentRatings.com cookies on your computer. However, cookies tell us nothing about who you are unless you specifically give us personally identifiable information. 
-		<p>ApartmentRatings.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to ApartmentRatings.com's cookies. 
-		</p><p>ApartmentRatings.com uses web beacons to access our cookies within our network of web sites and in connection with ApartmentRatings.com products and services. 
+	   <br><br>
+		ApartmentRatings.com uses third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://networkadvertising.org/consumer/opt_out.asp">click here</a>). Advertisers or other companies do not have access to ApartmentRatings.com's cookies. 
+		<br><br>
+		ApartmentRatings.com uses web beacons to access our cookies within our network of web sites and in connection with ApartmentRatings.com products and services. 
  
-		</p></blockquote>
+		</blockquote>
 
 		<p><b>Your Ability to Edit and Delete Your Account Information and 
 		Preferences</b>
@@ -207,22 +269,22 @@ _qacct="p-ccQjAz8hqjCaA";quantserve();</script>
 					<table border="0" cellspacing="0" cellpadding="3">
 						<tbody><tr>
 							<td><img src="/review/images/arrow.gif" alt="*"></td>
-							<td><a href="/rate/Roommates.html">Find a Roommate</a></td>
+							<td><a href="http://www.apartmentratings.com/review/redir.jsp?to=http%3A%2F%2Fwww.roommates.com%2Fsearch.rs%3Fadv_id%3D332%26radius%3D25&amp;id=partner_roommates.com&amp;addcid=F&amp;">Find a Roommate</a></td>
 						</tr>
 						<tr>
-							<td><img src="/review/images/arrow.gif" alt="*"></td>
-							<td><a href="/rate/MovingQuotes.html">Moving Quotes</a></td>
+							<td><img src="http://www.apartmentratings.com/review/images/arrow.gif" alt="*"></td>
+							<td><a href="http://www.apartmentratings.com/rate/movingcenter">Moving Quotes</a></td>
 						</tr>
 						<tr>
-							<td><img src="/review/images/arrow.gif" alt="*"></td>
-							<td><a href="/review/redir.jsp?to=http%3A//apartmentratings.moving.com/Moving_and_Planning/Department/Truck_rental/index.asp&amp;id=partner_moving_truck&amp;addcid=F">Truck Rentals</a></td>
+							<td><img src="http://www.apartmentratings.com/review/images/arrow.gif" alt="*"></td>
+							<td><a href="http://www.apartmentratings.com/review/redir.jsp?id=partner_relocation.com&amp;addcid=F&amp;to=http%3A//apartmentratings.vanlines.com/truck_rental.html?CAMP=truckrental">Truck Rentals</a></td>
 						</tr>
 						<tr>
-							<td><img src="/review/images/arrow.gif" alt="*"></td>
-							<td><a href="/rate/Find-Apartments.html">Rate an Apartment</a></td>
+							<td><img src="http://www.apartmentratings.com/review/images/arrow.gif" alt="*"></td>
+							<td><a href="http://www.apartmentratings.com/rate/Find-Apartments.html">Rate an Apartment</a></td>
 						</tr>
 						<tr>
-							<td><img src="/review/images/arrow.gif" alt="*"></td>
+							<td><img src="http://www.apartmentratings.com/review/images/arrow.gif" alt="*"></td>
 							<td><a href="http://www.thatrentalsite.com/ar/view?a=post">Advertise a Unit</a></td>
 						</tr>
 					</tbody></table>
@@ -236,20 +298,22 @@ _qacct="p-ccQjAz8hqjCaA";quantserve();</script>
 							<td><font color="#999999"><strong>Move Planner</strong></font></td>
 						</tr>
 						<tr>
-							<td><a href="/rate/finder">Free Locator Help</a></td>
+							<td><a href="http://www.apartmentratings.com/rate/finder">Free Locator Help</a></td>
 						</tr>
 						<tr>
-							<td><a href="/rate/MovingQuotes.html">Moving Quotes</a></td>
+							<td><a href="http://www.apartmentratings.com/rate/movingcenter">Moving Quotes</a></td>
 						</tr>
 						<tr>
-							<td><a href="/review/redir.jsp?to=http://apartmentratings.moving.com/moving_and_planning/quotes/self-service-contact-form.asp">Self-Service Move</a></td>
+							<td><a href="http://www.apartmentratings.com/rate/SelfServiceMove">Self-Service Move</a></td>
 						</tr>
 						<tr>
-							<td><a href="/review/redir.jsp?to=http%3A//apartmentratings.moving.com/Moving_and_Planning/Department/Truck_rental/index.asp&amp;id=partner_moving_truck&amp;addcid=F" rel="nofollow">Truck Rentals</a></td>
+							<td><a href="http://www.apartmentratings.com/review/redir.jsp?id=partner_relocation.com&amp;addcid=F&amp;to=http%3A//apartmentratings.vanlines.com/truck_rental.html?CAMP=truckrental">Truck Rentals</a></td>
 						</tr>
 
-							<tr><td><a href="/review/redir.jsp?to=http%3A%2F%2Fapartmentratings.moving.com%2FMoving_and_Planning%2FDepartment%2FStorage_center%2F&amp;id=partner_movingcom&amp;addcid=F" rel="nofollow">Self Storage</a></td>
+						<tr>
+							<td><a href="http://www.broadbandnational.com/index.asp?id=apartmentratings">High Speed Internet</a></td>
 						</tr>
+
 					</tbody></table>
 					<br>
 					<table border="0" cellspacing="0" cellpadding="3">
@@ -257,29 +321,30 @@ _qacct="p-ccQjAz8hqjCaA";quantserve();</script>
 							<td><font color="#999999"><strong>Finance Organizer</strong></font></td>
 						</tr>
 						<tr>
-							<td><a href="/review/redir.jsp?to=http://www.jdoqocy.com/click-1668004-10445516" target="_top" rel="nofollow">Free Credit Report</a></td>
+							<td><a href="http://www.apartmentratings.com/review/redir.jsp?to=http%3A//www.freecreditreport.com/pm/default.aspx%3Fsc%3D667770%26bcd%3DApartmentRate&amp;id=partner_experian&amp;addcid=F" target="_top" rel="nofollow">Free Credit Report</a></td>
 						</tr>
 						<tr>
-							<td><a href="/review/redir.jsp?to=http://www.jdoqocy.com/click-1668004-9838317" target="_top" rel="nofollow">Credit Repair</a></td>
+							<td><a href="/rate/Creditcards.html" rel="nofollow">Credit Cards $$</a></td>
+						</tr>						
+
+						<tr>
+							<td><a href="http://www.apartmentratings.com/rate/Renters-Insurance.html">Renters Insurance</a></td>
 						</tr>
 						<tr>
-							<td><a href="/rate/Renters-Insurance.html">Renters Insurance</a></td>
-						</tr>
-						<tr>
-							<td><a href="/rate/Car-Insurance.html">Car Insurance</a></td>
-						</tr>
-						<tr>
-							<td><a href="/review/redir.jsp?to=http://apartmentratings.salary.com/CostOfLivingWizard/layoutscripts/coll_start.asp">Cost of Living Wizard</a></td>
+							<td><a href="http://www.apartmentratings.com/rate/Car-Insurance.html">Car Insurance</a></td>
 						</tr>
 					</tbody></table>
-					<br><table border="0" cellspacing="0" cellpadding="3">
+						
+					<br>
+					<table border="0" cellspacing="0" cellpadding="3">
 						<tbody><tr>
 							<td><font color="#999999"><strong>Apartment Life</strong></font></td>
 						</tr>
 						<tr>
-							<td><a href="/rate/Roommates.html">Find a Roommate</a></td>
-						</tr><tr>
-							<td><a href="/review/redir.jsp?to=http%3A%2F%2Fwww.cort1.com%2Fcontact_us%2Frequest_info.cfm%3Fs%3Dt&amp;id=partner_cort1&amp;addcid=F" rel="nofollow">Furniture Rental</a></td>
+							<td><a href="http://www.apartmentratings.com/review/redir.jsp?to=http%3A%2F%2Fwww.roommates.com%2Fsearch.rs%3Fadv_id%3D332%26radius%3D25&amp;id=partner_roommates.com&amp;addcid=F">Find a Roommate</a></td>
+						</tr>
+						<tr>
+							<td><a href="http://www.apartmentratings.com/review/redir.jsp?to=http%3A%2F%2Fwww.cort1.com%2Fcontact_us%2Frequest_info.cfm%3Fs%3Dt&amp;id=partner_cort1&amp;addcid=F" rel="nofollow">Furniture Rental</a></td>
 						</tr>
 						<tr>
 							<td><a href="http://ohmyapt.apartmentratings.com/">OhMyApartment Blog</a></td>
@@ -292,28 +357,31 @@ _qacct="p-ccQjAz8hqjCaA";quantserve();</script>
 						</tr>
 					</tbody></table>
 				</div>
-			</div>
-</div>
+			</div></div>
 </div>
 <div id="thefooter">
+
+
+<script src="/review/docwriter.js" type="text/javascript"></script>
+
 <!-- footer -->
 <table id="footertable" width="985" border="0" align="center" cellpadding="0" cellspacing="0" summary="Footer links">
 
   <tbody><tr>
     <td id="footer"><p>	
-    <script type="text/javascript">docwrite('/rate/about','About Us');</script><a href="/rate/about">About Us</a> | 
-    <script type="text/javascript">docwrite('/rate/contact','Contact Us');</script><a href="/rate/contact">Contact Us</a> | 
-    <script type="text/javascript">docwrite('/rate/SuccessStories.html','Success Stories');</script><a href="/rate/SuccessStories.html">Success Stories</a> | 
-    <script type="text/javascript">docwrite('/rate/advertise','Advertise');</script><a href="/rate/advertise">Advertise</a> | 
-    <a href="http://www.apartmentratings.com/rate/newstuff">Latest</a> |
-    <script type="text/javascript">docwrite('/rate/tos','Terms of Service');</script><a href="/rate/tos">Terms of Service</a> | 
-    <script type="text/javascript">docwrite('/rate/privacy','Privacy Policy');</script><a href="/rate/privacy">Privacy Policy</a> (updated) | 
-    <script type="text/javascript">docwrite('/rate/landlords','Property Manager Info');</script><a href="/rate/landlords">Property Manager Info</a> | 
-    <script type="text/javascript">docwrite('/rate/dmca','DMCA Agent');</script><a href="/rate/dmca">DMCA Agent</a>
+	<a href="/rate/about">About Us</a> | 
+    <a href="/rate/contact">Contact Us</a> | 
+    <a href="/rate/SuccessStories.html">Success Stories</a> | 
+    <a href="/rate/advertise">Advertise</a> | 
+    <a href="/rate/newstuff">Latest</a> |
+    <a href="/rate/tos">Terms of Service</a> | 
+    <a href="/rate/privacy">Privacy Policy</a> (Updated) | 
+    <a href="/rate/landlords">Property Manager Info</a> | 
+    <a href="/rate/dmca">DMCA Agent</a>
 
 <br>
 		 
-	    <span class="copyright">Copyright (C) 2000 - 2007 Apartment Ratings, Inc. | <img src="/review/images/eqhous.gif" align="top" alt="Equal Opportunity Housing"> <script type="text/javascript">docwrite('/rate/fairhousing','Fair Housing');</script><a href="/rate/fairhousing">Fair Housing</a></span></p>
+	    <span class="copyright">Copyright (C) 2000 - 2008 ApartmentRatings.com | <img src="/review/images/eqhous.gif" align="top" alt="Equal Opportunity Housing"> <script type="text/javascript">docwrite('/rate/fairhousing','Fair Housing');</script><a href="/rate/fairhousing">Fair Housing</a></span></p>
 		
     </td>
   </tr>
@@ -387,7 +455,8 @@ _qacct="p-ccQjAz8hqjCaA";quantserve();</script>
 			<a href="http://www.apartmentratings.com/rate/FL-Tampa.html">Tampa apartments</a><br>
 			<a href="http://www.apartmentratings.com/rate/AZ-Tucson.html">Tucson apartments</a><br>
 			<a href="http://www.apartmentratings.com/rate/OK-Tulsa.html">Tulsa apartments</a><br>
-			<a href="http://www.apartmentratings.com/rate/DC-Washington.html">Washington DC apartments</a></p>
+			<a href="http://www.apartmentratings.com/rate/DC-Washington.html">Washington DC apartments</a><br>
+			<a href="http://www.thatrentalsite.com/">Homes For Rent</a></p>
 		</td>
       </tr>
 		</tbody></table>
@@ -401,7 +470,12 @@ _qacct="p-ccQjAz8hqjCaA";quantserve();</script>
 </div>
 </div>
 
-
+<img src="/rate/1p.gif">
+<!--Tacoda Insight Tags-->
+<script type="text/javascript">var tcdacmd="dt";</script>
+<script type="text/javascript" src="http://an.tacoda.net/an/17304/slf.js"></script>
+<!--page = privacy-->
+<script type="text/javascript" src="http://cetrk.com/pages/scripts/0008/1979.js"></script>
 
 
  
