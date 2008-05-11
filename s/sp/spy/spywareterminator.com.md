@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spywareterminator.com privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703092808id_/http%3A//www.spywareterminator.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spywareterminator.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511200621id_/http%3A//www.spywareterminator.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Spyware Terminator - Privacy Policy
 
@@ -30,7 +30,7 @@ Crawler may change this Privacy Policy at any time at its sole discretion. Notic
 
 ## Contact Information
 
-CRAWLER, LLC, 999 YAMATO RD STE 100, Boca Raton, Florida 33431 Telephone: 1-561-989-7400,  
+CRAWLER, LLC, 999 WEST YAMATO RD STE 100, Boca Raton, Florida 33431 Telephone: 1-561-989-7400,  
 Fax: 1-561-989-7401,  
 E-mail: [contact@crawler.com](mailto:contact@crawler.com)
 
