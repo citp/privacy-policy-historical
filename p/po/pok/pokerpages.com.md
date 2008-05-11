@@ -1,28 +1,8 @@
-> *The following text is extracted and transformed from the pokerpages.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213224126id_/http%3A//www.pokerpages.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerpages.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511171540id_/http%3A//www.pokerpages.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Poker Pages - Poker Articles, Tournaments, & Directory
 
-Resources 
-
-Basic Info
-
-Tournament Gallery
-
-Research
-
-Online Poker 
-
-Poker News 
-
-Blog Coverage
-
-Top News
-
-Top Tournaments
-
-| 
-
-**Privacy Policy**
+|  | 
 
 PokerPages is committed to respecting your choices regarding privacy. 
 
@@ -86,4 +66,16 @@ PokerPages is committed to respecting your choices regarding privacy.
 
 
 
-|  [](https://web.archive.org/download/)
+|  | 
+
+[](https://web.archive.org/download/)
+
+Blog Coverage
+
+[ ](http://news.pokerpages.com/index.php?option=com_simpleblog&task=userView&userid=122)
+
+Sat, May 10, 2008 - 08:51pm CDT
+
+Top News
+
+Top Tournaments
