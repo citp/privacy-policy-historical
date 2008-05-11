@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016063317id_/http%3A//www.thebudgetfashionista.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511200413id_/http%3A//www.thebudgetfashionista.com/main/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY and DISCLAIMER-The Budget Fashionista
+# PRIVACY POLICY and DISCLAIMER
 
-##  The Budget Fashionista PRIVACY POLICY and DISCLAIMER 
-
-Simply Good Media, a division TBF Group, LLC, maintains internet websites such as thebudgetfashionista.com for your personal entertainment, information, education, and communication. Like most web businesses, Simply Good Media captures both personal and aggregated information about visitors to our websites (collectively the “Simply Good Media Sites”). We explain here why we need that information and what we do (and won't do) with it. 
+Simply Good Media, a division TBF Group, LLC, maintains internet websites such as thebudgetfashionista.com for your personal entertainment, information, education, and communication. Like most web businesses, Simply Good Media captures both personal and aggregated information about visitors to our websites (collectively the ï¿½Simply Good Media Sitesï¿½). We explain here why we need that information and what we do (and won't do) with it. 
 
 Overview: We never disclose or sell personal information about you to third parties without your permission, unless compelled to do so by law. If you only read the articles, posts and comments on the Simply Good Media Sites, no more information is collected than is typically collected in server logs by websites in general. If you post comments or other material, you are publishing every word you post publicly. If you write something, assume that it will be retained forever.
 
