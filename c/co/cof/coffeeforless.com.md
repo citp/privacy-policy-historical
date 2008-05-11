@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103120813id_/http%3A//www.coffeeforless.com/privacy_and_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511164357id_/http%3A//www.coffeeforless.com/privacy_and_security.asp) for the most accurate reproduction.*
 
-# www.coffeeforless.com Coffee, Tea and Office Coffee Services
+# Coffee | Gourmet Coffee | Coffee Beans
 
 |   
 ---  
