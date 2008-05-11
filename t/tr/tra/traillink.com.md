@@ -1,39 +1,54 @@
-> *The following text is extracted and transformed from the traillink.com privacy policy that was archived on 2007-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070807123530id_/http%3A//www.traillink.com/TL_info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traillink.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511221435id_/http%3A//www.railstotrails.org/whoweare/privacy.html) for the most accurate reproduction.*
 
-# RTC: Privacy Statement
+# Rails-to-Trails Conservancy:: Privacy Policy::
 
-|    |     
+Privacy Policy
+
+Rails-to-Trails Conservancy (RTC) respects your right to privacy. Rails-to-Trails Conservancy has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web sites located at the URLs [www.railstotrails.org](http://www.railstotrails.org/), [www.traillink.com](http://www.traillink.com/), [www.trailsandgreenways.org](http://www.trailsandgreenways.org/) and [support.railstotrails.org](http://support.railstotrails.org/). 
+
+In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. Rails-to-Trails Conservancy reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
+
+Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of:
+
+  1. What personally identifiable information of yours is collected through the Site; 
+  2. How such information is used; 
+  3. With whom your information may be shared; 
+  4. What choices you have regarding collection, use and distribution of your information; and
+  5. How you can correct any inaccuracies in your information. 
 
 
-* * *
 
-  
-Rails-to-Trails Conservancy (RTC) respects your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy.  Rails-to-Trails Conservancy reserves the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages.  
+To learn about what kind of security procedures are in place to protect the loss, misuse or alteration of information under our control [read our security statement](https://web.archive.org/whoweare/security.html).
 
-**Information Collection**
+Questions regarding this statement should be directed to Rails-to-Trails Conservancy by sending an email to [webmanager@railstotrails.org](mailto:webmanager@railstotrails.org). Please reference this Privacy Policy in your subject line. 
 
-RTC collects personal information (such as name, title, company name, address, telephone number or e-mail address) that you voluntarily provide through our Web site, e-mail or other correspondence. We will collect general information (such as the type of browser you use, the files you request, and the domain name and country from which you request information) to improve our Web site and better meet your needs. 
+What Information We Collect and How We Use That Information:   
+Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers. To review your personal information and request corrections you may contact our membership department by emailing [membership@railtrails.org](mailto:membership@railtrails.org), calling 202-974-5105, faxing 202-331-9680 or writing to Rails-to-Trails Conservancy Membership Department, 1100 Seventeenth NW, 10th Floor, Washington, DC 20036.
 
-**Use of Information**
-
+Use of Information:  
 The information you supply will be used by RTC to respond to your inquiries or supply you with information on RTC. Authorized third parties may be used by RTC to collect, track and process such information.  It may be necessary, if required by law or if pertinent to judicial or governmental investigations, to release your personally identifiable information.  If you have submitted personal information to RTC and would like it removed or modified, please contact us. We will use reasonable efforts to comply with your request. 
 
-**Membership Information**
+Membership Information:  
+RTC maintains personal information on our members in order to fulfill membership benefits and meet state and federal disclosure regulations governing nonprofit, tax-exempt organizations. Some segments of the RTC mailing list are made available to outside organizations as part of RTC's membership recruitment program. You may request that RTC not trade your information by contacting [membership@railtrails.org](mailto:membership@railtrails.org), calling 202-974-5105, faxing 202-331-9680 or writing to Rails-to-Trails Conservancy Membership Department, 1100 Seventeenth NW, 10th Floor, Washington, DC 20036.
 
-RTC maintains personal information on our members in order to fulfill membership benefits and meet state and federal disclosure regulations governing nonprofit, tax-exempt organizations. Some segments of the RTC mailing list are made available to outside organizations as part of RTC’s membership recruitment program. You may request that RTC not trade your information by contacting [**membership@railtrails.org** ](mailto:membership@railtrails.org), calling 202-974-5105, faxing 202-466-3742 or writing to Rails-to-Trails Conservancy Membership Department, 1100 Seventeenth NW, 10th Floor, Washington, DC 20036. 
+Internet Protocol Address:   
+We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information. Use of "Cookies":   
+Our Site may use cookies to enhance your experience while using our Site. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular Web site and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard. 
 
-**Links**
+Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly when you view them. 
 
-The RTC Web site contains links to other sites. We do not endorse or otherwise accept responsibility for the content or privacy policies of those sites. 
+Security:   
+All information provided to Rails-to-Trails Conservancy is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our Site that is only accessible by certain qualified employees of Rails-to-Trails Conservancy. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information. Tell-A-Friend:   
+If a user elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and email address. Rails-to-Trails Conservancy will automatically send the friend a one-time email inviting them to visit the Site. Rails-to-Trails Conservancy stores this information for the sole purpose of sending this one-time email. Other Web Sites:   
+Our Site contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which Rails-to-Trails Conservancy has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours. Contacting the Web Site:   
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact: 
 
-**Online Refund Policy**
+Rails-to-Trails Conservancy   
+1100 17th Street, NW 10th Floor   
+Washington, D.C. 20036
 
-In the event that your purchase from Rails-to-Trails Conservancy (RTC) via TrailLink, was charged to your credit card or paid by check in error or without your permission, RTC will honor your request to cancel the original transaction and refund your payment in full, as long as the request is made within ninety days of the original transaction, and in the case of merchandise, the merchandise is returned. 
+You can also send an email to [webmanager@railstotrails.org](mailto:webmanager@railstotrails.org)
 
-If your original payment was made by credit card, the period of ninety days will begin from the transaction processing date. If payment was made by check, the period of ninety days will begin from the date the check was written. RTC reserves the right to revise this policy at any time. 
-
-**Online Advertising**
-
-In order to conform to IRS requirements for 501(c)(3) nonprofit corporations, and as necessary for compatibility with our mission and values, Rails-to-Trails Conservancy reserves the right to edit the content and format of any advertisement placed on our Web site, or purchased to be placed on our Web site. Fees paid for advertisements are non-refundable, and advertisements will run for 12 months from initial posting.   
-  
----|---
+[Read Our Security Statement](https://web.archive.org/whoweare/security.html)  
+[Read Our Other Web Policies](https://web.archive.org/whoweare/termsofuse.html)  
+ 
