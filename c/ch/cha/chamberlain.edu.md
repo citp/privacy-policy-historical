@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211210100id_/http%3A//www.chamberlain.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511194411id_/http%3A//www.chamberlain.edu/PrivacyStatement/tabid/76/Default.aspx) for the most accurate reproduction.*
 
-# Chamberlain College of Nursing
+# Chamberlain College of Nursing > Privacy Statement
+
+  
+
 
 **1) General**  
 CHAMBERLAIN College of Nursing and its subsidiaries ("CHAMBERLAIN College of Nursing" or "we") respect the privacy of every individual who visits our web sites or responds to our promotions. CHAMBERLAIN College of Nursing intends to act reasonably to protect your privacy, but obviously cannot guaranty security against "hackers" or other issues beyond our control. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on CHAMBERLAIN College of Nursing web sites, unless otherwise posted. 
