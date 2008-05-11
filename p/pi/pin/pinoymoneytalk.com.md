@@ -1,15 +1,31 @@
-> *The following text is extracted and transformed from the pinoymoneytalk.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229044954id_/http%3A//www.pinoymoneytalk.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoymoneytalk.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511195126id_/http%3A//www.pinoymoneytalk.com/privacy-policy) for the most accurate reproduction.*
 
-# Pinoy Money Talk: Helping Pinoys earn money quickly and easily!
+# Privacy Policy : Make Money Online, Stocks, Forex, Mutual Funds Philippines
 
-Pinoy Money Talk (PMT) created this e-mail privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.
+Browse >
 
-If you received a correspondence from us, either (a) your e-mail address is listed for the purpose of receiving information ("opt-in"); or (b) you registered in the PMT forum or otherwise have an existing relationship with us.
+[Home](http://www.pinoymoneytalk.com/ "Browse to: Home") / Privacy Policy 
 
-We will never share, sell, or rent your personal information with anyone without your permission or unless ordered by a court of law. Information submitted to us is used only for purposes of contacting you based on your request for information.
+Your privacy is of utmost importance to us here at Pinoy Money Talk. Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
-Each e-mail we send contains an easy way to cease future correspondences. Simply follow the instructions at the end of our e-mail should you wish to unsubscribe or remove your address from our mailing list.
+This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.
 
-If you have received unwanted and/or unsolicited e-mail sent from us or purporting to be sent from us, please forward a copy of that e-mail with your comments to [admin@pinoymoneytalk.com](mailto:admin@pinoymoneytalk.com) and we will implement an applicable action based on what you submitted to us.
+**Collection and Use of Information**
 
-This Email Privacy Policy was last updated on May 1, 2005.
+We collect personally identifiable information such as names and email addresses only when voluntarily submitted. These information are used merely to fulfill a specific request, for example, to post a comment on our blog, to create an account in our Forum, or to subscribe to our mailing list. All emails and newsletters from this site allow you to opt out of further communications.
+
+**Distribution of Information**
+
+We never use or share any of those information in ways unrelated to the ones described above. We do not send spam and we do not sell your information to any company for marketing purposes. We may, however, share information with government agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or (3) investigating fraud which has already taken place.
+
+**Cookies and Tracking Technology**
+
+Our site may place a small file, called a cookie, on your hard drive to provide you with a better website. A cookie does not, in any way, give us access to your computer or to any personally identifiable information about you, other than the data you choose to share with us. It only helps us analyze web traffic or lets web applications respond to you as an individual. Our authorized third-party advertisers, in the course of serving ads to you, may also place and read cookies on your browser or use tracking technology to collect information. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings section.
+
+**Links to other Websites**
+
+Our site may contain links to other websites of interest. However, once you use these links to leave our site, we do not anymore have control over that website. Such sites are not governed by this privacy statement and we cannot be responsible for the protection and privacy of any information you provide to those sites. Exercise caution and read the privacy statement applicable to the website in question.
+
+**Privacy Contact Information**
+
+Should you have any questions, concerns, or comments about our privacy policy, please contact us using our [Contact Form](http://www.pinoymoneytalk.com/contact-us/) or email us directly at **admin @ pinoymoneytalk.com**.
