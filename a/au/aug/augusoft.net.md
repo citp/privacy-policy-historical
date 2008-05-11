@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the augusoft.net privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703092236id_/http%3A//www.augusoft.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augusoft.net privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511163919id_/http%3A//augusoft.net/privacy.html) for the most accurate reproduction.*
 
 # Augusoft : Privacy Statement
 
 Privacy Statement 
 
-[Free Webcast Demos](http://u.augusoft.net/index.cfm?fuseaction=1011&CategoryID=6&SubCategoryID=14) [Augusoft U](http://u.augusoft.net/) [Meet Us](https://web.archive.org/web/20070703092236id_/http%3A//www.augusoft.net/news_events/conferences_tours.html) [Augusoft Forum](http://forum.augusoft.net/) | 
+[Free Webcast Demos](http://u.augusoft.net/index.cfm?fuseaction=1011&CategoryID=6&SubCategoryID=14) [Augusoft U](http://u.augusoft.net/) [Meet Us](https://web.archive.org/web/20080511163919id_/http%3A//augusoft.net/news_events/conferences_tours.html) [IT Tool Kit](https://web.archive.org/web/20080511163919id_/http%3A//information_request.html) | 
 
 Privacy Statement 
 
@@ -15,10 +15,6 @@ It is in our best interest to fully disclose our business policies regarding per
 ), Augusoft U, (
 
 [ _u.augusoft.net_](http://u.augusoft.net/)
-
-) and the Augusoft Forum (
-
-[ _forum.augusoft.net_](http://forum.augusoft.net/)
 
 ) site - hereafter referred to as “sites.”
 
@@ -35,16 +31,16 @@ By sending us your contact information, you agree to be contacted by Augusoft re
 
 Customers can opt out of being contacted by us, or receiving product, service or general lifelong learning information from us at any time by sending an email to [unsubscribe@augusoft.net](mailto:unsubscribe@augusoft.net). 
 
-Further [legal information](https://web.archive.org/web/20070703092236id_/http%3A//www.augusoft.net/about/legal_information.html) is available on this site.
+Further [legal information](https://web.archive.org/web/20080511163919id_/http%3A//augusoft.net/about/legal_information.html) is available on this site.
 
 | 
 
 Success Stories
 
-**ed2go**  
- **Jerry Weissberg**  
+**Riverside Community College**  
+ **Cyndi Pardee**  
   
-Augusoft Lumens is the leading Lifelong Learning Management System with a truly integrated offering of online courses and program management.  
-  
+In six months of going live on Lumens, our budget increased from $750,000 to $1 million. Augusoft Lumens assisted my staff and me to register 12,000 learners annually, manage and assign 150 instructors to classes on three different campuses with 12 on-site locations and produce 290,000 catalogs each year – all with a staff of three.  
+Read More >  
   
 ---|---|---
