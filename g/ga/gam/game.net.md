@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game.net privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027154039id_/http%3A//www.game.co.uk/Help/firsttime.aspx%23privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.net privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511185556id_/http%3A//www.game.co.uk/Help/firsttime.aspx%23privacystatement) for the most accurate reproduction.*
 
 # Help - First Time Users at GAME.co.uk
 
@@ -36,6 +36,9 @@ We use CyberSource for processing of security information and this data is passe
 We will share your details with companies directly involved in getting you the product you have ordered. In these cases GAME will ensure that there is no further use of your data other than to deliver you the product and arrange for that delivery, and to support guarantees or maintenance in the future. In the majority of cases they will have no right to market to you directly unless you specifically request it, and will be registered under UK data protection law, where they do have the right to market to you direct you will be specifically asked to opt-in.
 
 We currently partner with Mad4Games Ltd in order to supply mobile games, they are a UK company with DPA registration (DPA number 28873772 Company Registration number 5217746). If you opt-in to hear more about mobile games then Mad4Games and GAME Digital Ltd will have equal access to the data.
+
+We currently partner with Adfero Ltd. in order to supply News Content to the site.  
+
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. Should you wish to browse anonymously please contact us and request a link that we can send you to exclude you from web tracking. 
 
