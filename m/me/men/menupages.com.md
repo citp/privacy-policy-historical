@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menupages.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016143059id_/http%3A//www.menupages.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menupages.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511210111id_/http%3A//www.menupages.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # NYC Restaurants, NYC Menus, Ratings, Reviews, New York City
 
