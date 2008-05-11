@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentratings.com privacy policy that was archived on 2007-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070705111042id_/http%3A//www.apartmentratings.com/rate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentratings.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511171406id_/http%3A//www.apartmentratings.com/rate/privacy) for the most accurate reproduction.*
 
 # ApartmentRatings.com Privacy Policy
 
@@ -8,7 +8,7 @@
 **ApartmentRatings.com Privacy Policy**
 
 Amended & Restated   
-Last Updated: May 24, 2007 
+Last Updated: January 18, 2008 
 
 ApartmentRatings.com takes your privacy seriously. Please read this to learn about our policy regarding visitor and member privacy. 
 
@@ -45,7 +45,7 @@ ApartmentRatings.com takes your privacy seriously. Please read this to learn abo
 
 > Your Internet browser has a feature called "cookies" which may store small amounts of data on your computer about your visit to our site. ApartmentRatings.com may set and access ApartmentRatings.com cookies on your computer. However, cookies tell us nothing about who you are unless you specifically give us personally identifiable information. 
 > 
-> ApartmentRatings.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to ApartmentRatings.com's cookies. 
+> ApartmentRatings.com uses third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp)). Advertisers or other companies do not have access to ApartmentRatings.com's cookies. 
 > 
 > ApartmentRatings.com uses web beacons to access our cookies within our network of web sites and in connection with ApartmentRatings.com products and services. 
 
@@ -53,7 +53,7 @@ ApartmentRatings.com takes your privacy seriously. Please read this to learn abo
 
 > ApartmentRatings.com gives you the ability to edit your ApartmentRatings.com Account Information and preferences at any time. 
 > 
-> You may request deletion of your ApartmentRatings.com account by sending an email to [staff@aptratings.com](https://web.archive.org/web/20070705111042id_/http%3A//www.apartmentratings.com/rate/staff@aptratings.com). 
+> You may request deletion of your ApartmentRatings.com account by sending an email to [staff@aptratings.com](https://web.archive.org/web/20080511171406id_/http%3A//www.apartmentratings.com/rate/staff@aptratings.com). 
 
 **Security**
 
