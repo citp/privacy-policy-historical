@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abc15.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026071904id_/http%3A//www.abc15.com/legal/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc15.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511193626id_/http%3A//www.abc15.com/legal/default.aspx) for the most accurate reproduction.*
 
-# Terms & Conditions - ABC15.com: Phoenix, Arizona News, Weather, Radar, Breaking News, Traffic and Web Cams
+# Terms & Conditions - Phoenix Arizona news, breaking news, local news, weather radar, traffic from ABC15 News | ABC15.com
 
 **PRIVACY POLICY** All materials on this site © 2000 E.W. Scripps Co. or used with permission. All rights reserved. ABC15.com ® is a registered trademark of the Company. 
 
