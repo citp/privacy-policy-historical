@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226160405id_/http%3A//www.battleon.com/aq-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511233848id_/http%3A//www.battleon.com/aq-privacy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICY OVERVIEW
 
@@ -135,8 +135,7 @@ For Guardian Accounts, the receipt of payment is considered actual, verifiable c
   
    
 How can parents access, change or delete personally identifiable information about their kids?   
-  
-Once again, we would like to assure you that we do not keep any information other than what is listed above. However, parents are welcome to contact us about any personally identifiable information about their child by emailing aq.privacy@battleon.com. Parents can then request to purge either all or specific portions of that information by e-mailing aq.privacy@battleon.com.   
+Once again, we would like to assure you that we do not keep any information other than what is listed above. However, parents are welcome to contact us about any personally identifiable information about their child by email. Parents can request to purge either all or specific portions of that information by e-mailing:  
   
    
 Revision Information   
@@ -147,13 +146,16 @@ AdventureQuest reserves the right to change, modify, or revise this Privacy Poli
   
 Contacting AdventureQuest   
   
-If you need further assistance concerning our Privacy Policy or have any additional questions or comments about our Privacy Policy, please contact us at aq.privacy@battleon.com or write to us: 
+If you need further assistance concerning our Privacy Policy or have any additional questions or comments about our Privacy Policy, please email us at:  
+
+
+Or call or write to us at:
 
 **Member Services**  
 Artix Entertainment, LLC  
 P.O. Box 2005  
 Land O' Lakes, FL 34639  
-(813) 774-8493 
+(813) 774-8493
 
 **Please Note: This number is for Privacy Policy purposes only.** Only call this number if you are calling in reference to our Privacy Policy. We do not take [orders](http://www.battleon.com/help/aq-payments-othermethods.asp) over the phone, nor provide [Technical Support](http://www.battleon.com/help/aq-technical.asp) over the phone. For any issue other than the Privacy Policy, such as [Billing Questions](http://www.battleon.com/help/aq-payments.asp) and [Account Recovery](http://www.battleon.com/help/aq-cantlogin.asp) questions, please visit the [Help Pages](http://www.battleon.com/help).
 
