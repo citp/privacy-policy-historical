@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eskhosting.com privacy policy that was archived on 2007-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070828140159id_/http%3A//www.eskhosting.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eskhosting.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511164812id_/http%3A//www.eskhosting.com/policy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -8,7 +8,7 @@ The present privacy policy was designed in an effort to protect our clients' and
 
 **Collecting information. Privacy of your registration data**
 
-Eskhosting and its agents and representatives collect personal information in a number of circumstances in the course of providing web hosting and domainname registration services to customers. Eskhosting may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. Personal information we collect may include:
+Eskhosting and its agents and representatives collect personal information in a number of circumstances in the course of providing web hosting and domain name registration services to customers. Eskhosting may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. Personal information we collect may include:
 
   * Contact Information: Name, address, telephone number, email address and other contact information; 
   * Financial Information: Credit card numbers, bank name, billing address, transaction and purchase history with Eskhosting; 
