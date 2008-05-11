@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akvis.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013124329id_/http%3A//akvis.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akvis.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512004533id_/http%3A//akvis.com/en/privacy.php) for the most accurate reproduction.*
 
 # Image editing and photo restoration software by AKVIS LLC. Privacy Policy
 
