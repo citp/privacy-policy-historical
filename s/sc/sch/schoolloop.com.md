@@ -1,41 +1,134 @@
-> *The following text is extracted and transformed from the schoolloop.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204052758id_/http%3A//www.schoolloop.com/misc/file%3Ftitle%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolloop.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511073644id_/http%3A//www.schoolloop.com/privacy) for the most accurate reproduction.*
 
-# privacy_policy
+# School Loop - Integrated Communication Systems for K-12 Schools - Privacy Policy
 
-This statement discloses our privacy practices and is incorporated into, and subject to the terms of, our [**Terms of Service**](https://web.archive.org/misc/tos). All capitalized terms not otherwise defined shall have the same meaning as in the Terms of Service. 
+## Privacy Notice  
 
-**How We Collect Information**  
-In almost all cases, we do not obtain any personally identifiable information about you unless you choose to reveal it. You voluntarily submit such information when, for example, you fill out a registration page, enter sweepstakes or contests, send us email, respond to emails from us, or post messages or upload other Material to the Site. Thus, you are not required to disclose any personally identifiable information to us, although many parts of our site may not be available to you unless you do so. 
 
-When feasible, we do automatically collect your IP address. We also automatically collect and store statistics and other information about you and your online activities both on an aggregated, non-personally identifiable basis and in a manner that may allow us to associate such information with other personally identifiable information about you and your activities on our site.
+(last updated February 2007)  
 
-**How We Use and Disclose Your Information**  
-We use your information on an aggregated basis to do such things as operate our site and enhance our site. We also use this data, both aggregated and personally identifiable, to enhance your onsite experience. We may disclose aggregated information about our site to third parties.
 
-As a general practice, we do not sell your personally identifiable information to third parties. So, for example, we do not sell your email addresses to spammers or sell your name and personal demographic information to mass marketers. However, on particular pages where we ask for your personally identifiable information, we may explicitly tell you that the data we are collecting on that page will be provided to third parties, in which case those disclosures shall override anything to the contrary in this policy.
+### Welcome
 
-Note that some online activities you choose to do necessarily lead to disclosure of your personally identifiable information to third parties, such as when you include your name and email address in messages posted on our site or sent via our service (using current or future functionality. In these cases, again, your choice to disclose personally identifiable information is voluntary. However, as a necessary incident of our service, we will make your username available for all visitors to see.
+Welcome!  School Loop, Inc. (“School Loop” or “us” or “we”) welcomes you to our website at www.schoolloop.com (the “School Loop Site”).  We provide an online integrated communication service that is designed to help teachers, students, school staff, and parents (collectively or individually “Users”) share information about student homework assignments, grades, and other school-related information.  We refer to our online application and our website together as the “Service.”
 
-In some situations, we provide your personally identifiable information to third party service providers to enhance or expand the functionality available to you as part of your membership, but this will only be done when you specifically ask us to by signing up for the relevant services.
+This Privacy Notice details important information regarding the use and disclosure of information submitted by Users to the Service, as well as information collected by the Service.  This Privacy Notice is incorporated into and is subject to the School Loop Terms of Service. Your use of the School Loop Site and the Service and any information you provide on the School Loop Site or to the Service remains subject to the terms of this Privacy Notice and our Terms of Service. 
 
-In some cases we use your personally identifiable information to provide information to you, such as to send newsletters and email that you request or to personalize the site in accordance with your requests. We will provide you with directions in all emails and newsletters on how to be taken off our newsletter list.
+**If we decide to change our privacy practices, we will post those changes on this page and in the “News” section of the Service.   Please check this page for changes from time to time to make sure you are aware of our latest privacy practices.**  
 
-**Controlling or Changing Your Information**  
-You can access and update your contact information and preferences by going to **[http://www.knowspam.net/setup/edit](https://web.archive.org/setup/edit)** and following the instructions on that page. However, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will immediately reach the other databases.
 
-**Children**  
-We do not permit minors to become members without prior verifiable parental (or guardian) consent. In order to comply with the Children's Online Privacy Protection Act of 1998 (COPPA), children under 13 who wish to register are asked to have a parent or legal guardian do so for them. The parent must provide a credit card number for verification that he/she is an adult. This information needs to be faxed to the [business address](https://web.archive.org/misc/about) of knowspam.net. Minors should not provide us with any personal information without the consent of their parent or guardian. We do not distribute to third parties any personally identifiable information collected from children under 13.
+### Your Privacy
 
-**Cookies and Other Tracking Methods**  
-Cookies are small pieces of information stored on your hard drive, not on our site. We use cookies on our site for a number of reasons. First, cookies can help us provide information that is targeted to your interests. Second, cookies allow us to better understand how users use our site, which in turn helps us focus our resources on features that are most popular with our users. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly if you do so.
+School Loop recognizes that School Loop Users value their privacy.  School Loop understands that when a User chooses to submit information to the Service, that User trusts us to act in a responsible manner.  We provide this Privacy Notice to help you better understand how we protect the information submitted to the Service and who has access to the information posted by you or about you on the Service.    
 
-In addition to using cookies, in some circumstances we may track or collect information about your activities on our site by your IP address or by the URLs that you come from or leave to. However, these methods do not permit us to associate this information with any other personally identifiable information that you may have provided us.
 
-**Other Sites**  
-Please note that different rules may apply to the collection, use or disclosure of your information by third party service providers or vendors or any other sites you encounter on the Internet (even if these sites are branded with our branding or framed by our site). We encourage you to investigate and ask questions before disclosing information to third parties.
+### Who Has Access to the Service?
 
-**Limits on Our Abilities**  
-Although your privacy is very important to us, due to the existing legal and technical environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Additionally, we can (and you authorize us to) disclose any information about you to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate to investigate or resolve possible problems or inquiries.
+The Service is a closed community network that is accessible only by registered members who have valid ID’s.  Only members can communicate with other members.  One-to-one communication between adults and children is limited to school staff, and all communication is accessible by administrators.  In addition, any adult who wishes to view a student’s homework information must register with a valid ID number and have his or her membership reviewed by the affected student, who may challenge the registration.
 
-**Security**  
-We use industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers where appropriate. However, "perfect security" does not exist on the Internet. 
+Who Sets the Information Access Rules for the Service?  
+Each school or school district sets the rules for accessing the information on the Service by configuring the privacy settings for the Service.  In general, the principles outlined below apply.
+
+## What Kind of Personal Information is Stored in the Service?  Who has access to this information? 
+
+### The following personal information is stored in the Service with respect to Teachers:
+
+  * From the school district:  first and last name, ID number, schedule (such as course titles, course id’s, section id’s, term, and roster)
+  * From the school administrator:  email addresses
+  * •From the individual teacher:  edits to the first and last name submitted by the school district, login, password, and changes (if any) to the email address provided by the school administrator  
+
+
+
+
+School Loop staff has full access to all of the above information in order to provide the Service, including providing technical support.  Anyone with administrative rights to the Service has access to all of the above information except passwords, which are not viewable, but can be reset, by the administrator.  Individual teachers have access to their own information.  Students have access to the course name and the teacher name for their schedules.  
+
+
+### The following personal information is stored in the Service with respect to Students: 
+
+  * From the school district:  first, middle, and last name, id number, student id number(s), student schedules (course title, course id, section id, term, start dates)
+  * From the individual student:  login, password, email address (if applicable)  
+
+
+
+
+School Loop staff has full access to all of the above information in order to provide the Service, including providing technical support.  Anyone with administrative rights to the Service has access to all of the above information except passwords, which are not viewable, but can be reset, by the administrator or by a member of the school staff.  Teachers have access to student id’s, student schedules (including the names of each class, the period, and the teacher), logins and email addresses, and can reset passwords (but not view them).  
+
+
+### The following personal information is stored in the Service with respect to School Staff:  
+
+
+  * From the school administrator:  first and last names, email addresses 
+  * From the individual staff member:  edits to the first and last name submitted by the school administrator, login, password, changes (if any) to the email address provided by the school administrator, the staff member’s role when joining a student’s loop  
+
+
+
+
+School Loop staff has full access to all of the above information in order to provide the Service, including providing technical support.  Teachers and anyone with administrative rights to the Service has access to all of the above information except passwords, which are not viewable, but can be reset, by the administrator.  Individual staff have access to their own information.  
+
+
+### The following personal information is stored in the Service with respect to Parents:  
+
+
+  *  From the individual parent:  login, password, first and last name, telephone, email address  
+
+
+
+
+School Loop staff has full access to all of the above information in order to provide the Service, including providing technical support.  Anyone with administrative rights to the Service has access to all of the above information except passwords, which are not viewable, but can be reset, by the administrator.  Teachers can access name, telephone, and email address.  Individual parents have access to their own information.
+
+## What Kind of Content is Stored in the Service?  Who Has Access to this Content?
+
+•    From the school administrator:  LoopMail, news, discussions, and group messages  
+•    From teachers:  assignments, grades, LoopMail, news, discussions, and group messages  
+•    From staff:  LoopMail, news, discussions, and group messages  
+•    From student:  homework turned in, LoopMail, discussions, and group messages
+
+School Loop staff has full access to all of the above information in order to provide the Service, including providing technical support.  Anyone with administrative rights to the Service also has access to all of the above information.  The intended audience for news, discussions, and group messages has access to the applicable content.  Teachers and staff can view content posted for courses (like homework, notes, and locker contents) on course sites.  Teachers and staff can also view posted grades and student intervention files and discussions via a student’s record, provided that there is a setting at the school level that can turn off the grades access.  Students and parents can access posted content for their current or past courses if they are the targeted audience.  Access to a student’s grades by the student or the student’s parents depends on the policy set by the school or school district.  The Service allows a school’s system administrator to program the access settings in the Service accordingly.
+
+### What Information does the Service or the School Loop Site Collect? How do we Use It?
+
+When feasible, School Loop automatically collects your IP address. We also automatically collect and store statistics and other information about you and your online activities in an aggregated, non-personally identifiable basis.  This information helps school administrators assess and manage the School Loop system.  
+
+
+### When Will School Loop Disclose the Information it Collects to Outside Parties?
+
+School Loop may store and disclose personal information as allowed or required by applicable law, including making disclosures that are necessary or advisable to: (a) protect the rights, safety or property of users of the Service or the School Loop Site, the public, or School Loop or our web site suppliers; (b) conform to legal or regulatory requirements; (c) to deliver additional subcontracted services run by third parties.
+
+We do not otherwise disclose personal information collected by the Service to third parties.   
+
+
+### How does School Loop Protect Personal Information?
+
+We take reasonable steps to protect the data we collect from unauthorized access, disclosure, alteration, or destruction.  We do this by implementing industry-standard security procedures for storing and accessing information.  However, you should be aware that we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Notice.  By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances; third parties may unlawfully intercept or access transmissions or private communications; or users may abuse or misuse your information that they collect from our site.    
+
+
+### What about “cookies”?
+
+“Cookies” are small pieces of information that are transferred to your browser and stored on your computer’s hard drive.  Our cookies enable us to provide you with more personal service.  Cookies also allow us to track usage patterns, trends and other aggregate visitor information.  Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use.  Please be aware, however, that if you choose not to store a cookie, you will need to login repeatedly, because cookies are what we use to manage your sessions.  We may also collect certain technical and routing information about your computer to facilitate your use of the site and its services (such as browser type, operating system and the Internet Protocol (“IP”) address of your computer).  We do not match such information with any of your personal information without expressly informing you in each particular instance.   
+
+
+### Third-party Sites
+
+We may offer links to third party sites from our site.  Please note that we are not responsible for the content or privacy practices of any non-School Loop sites to which we may link.  You should review the privacy policy of such sites before using the sites or providing any personal information.  
+
+
+### Business Transitions
+
+In the event School Loop goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.  You will be notified via a notice on our Web site for 30 days from any such change in ownership or control.
+
+### Your Consent and Changes to this Privacy Policy
+
+By using the Service, you consent to the collection and use of this information by School Loop.  If we decide to change our privacy practices, we will post those changes on this page and in the “News” section of the Service.  Please check this page for changes from time to time to make sure you are aware of our latest privacy practices.  
+
+
+### Update your Information or Preferences
+
+You can access and update your contact information and preferences by going to the Account Management page on your home page and following the instructions on that page. However, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will immediately reach the other databases.
+
+As School Loop is a product for schools and school districts, access to student login and password information is made available to school staff.  This policy is in line with the rights and responsibilities afforded to schools under State and Federal statute.  All material published on School Loop by students is considered public.  For parents and other adults, access to specific passwords is denied.
+
+### Questions and Feedback
+
+If you have any questions about this Privacy Notice or to provide us with feedback to help us improve our policies, please contact us by email at [info@schoolloop.com](mailto:info@schoolloop.com).
+
+Last Update to this Privacy Policy:  February 8, 2007
