@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the blm.gov privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005163010id_/http%3A//www.blm.gov/blm_info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blm.gov privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511210522id_/http%3A//blm.gov/wo/st/en/national_page/Privacy_Statement_for_Footer.html) for the most accurate reproduction.*
 
-# BLM Information: Privacy Notice
-
-**U.S. Department of the Interior (USDOI) Privacy Policy for this Website **
-
-* * *
+# Privacy
 
 This is how we will handle information we learn about you from your visit to our website. The information we receive depends upon what you do when visiting our site. 
 
@@ -23,6 +19,6 @@ If you identify yourself by sending an E-mail or filling out a questionnaire or 
 If you have any questions or comments about the information presented here, please forward them to us: 
 
 > U.S. Department of Interior  
->  Bureau of Land Management  
->  FOIA and Privacy Officer  
->  Phone: 202-452-5013 
+> Bureau of Land Management  
+> FOIA and Privacy Officer  
+> Phone: 202-452-5013 
