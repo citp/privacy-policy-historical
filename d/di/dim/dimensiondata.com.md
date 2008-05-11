@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014102914id_/http%3A//www.dimensiondata.com/Legalities/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511234308id_/http%3A//www.dimensiondata.com/Legalities/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Dimension Data :: Privacy Policy
 
@@ -48,7 +48,7 @@ Dimension Data may amend this Privacy Policy from time to time, and will post an
 
 **9**           **Comments and Questions**
 
-If you have any questions or comments about this Privacy Policy, please contact Dimension Data by filling in the Contact Us form which can be found here: http://www.dimensiondata.com/contactus.htm. Dimension Data reserves the right to contact you at any time regarding any problems or questions as well as to notify you of changes to the Privacy Policy, or to other policies or terms that affect you and your use of the website, but it is not obliged to do so.
+If you have any questions or comments about this Privacy Policy, please contact Dimension Data by filling in the Contact Us form which can be found here: <http://www.dimensiondata.com/contactus.htm>. Dimension Data reserves the right to contact you at any time regarding any problems or questions as well as to notify you of changes to the Privacy Policy, or to other policies or terms that affect you and your use of the website, but it is not obliged to do so.
 
 **10**          **Terms and conditions**
 
