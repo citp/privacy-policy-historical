@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heavengames.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106172120id_/http%3A//www.heavengames.com/privacystatement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavengames.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511170643id_/http%3A//www.heavengames.com/privacystatement.shtml) for the most accurate reproduction.*
 
 # HeavenGames
 
