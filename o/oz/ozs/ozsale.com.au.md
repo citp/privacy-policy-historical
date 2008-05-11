@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozsale.com.au privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209224732id_/http%3A//www.ozsale.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozsale.com.au privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511045203id_/http%3A//ozsale.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # OZSALE - Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 ozsale.com.au, referred to below as Ozsale, is an online retailer of consumer goods.
 
-Ozsale values our relationship with you and the other users of this website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Web Site. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us at: [policy@ozsale.com.au](mailto:policy@ozsale.com.au)
+Ozsale values our relationship with you and the other users of this website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Web Site. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page 
 
 OZSALE's Commitment to Online Security
 
@@ -48,7 +48,7 @@ Ozsale also uses persistent cookies to personalise the user experience, to help 
 
 Membership Removal 
 
-If you wish to be removed from our database for any reason, simply send us an email requesting to be removed [unsubscribe@ozsale.com.au](mailto:unsubscribe@ozsale.com.au). 
+If you wish to be removed from our database for any reason, simply send us an email requesting to be removed via our contact us page. 
 
 Updates to our information practices 
 
