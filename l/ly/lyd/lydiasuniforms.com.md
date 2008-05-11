@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624163348id_/http%3A//www.lydiasuniforms.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511193456id_/http%3A//www.lydiasuniforms.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Scrubs Nursing Uniforms | Cheap Discount Nurse Scrubs
 
-| 
-
-[Privacy Policy](http://www.lydiasuniforms.com/privacy_policy.htm#PRIVACY%20POLICY)  
-[Security Statement](http://www.lydiasuniforms.com/privacy_policy.htm#SECURITY%20STATEMENT)  
-[General Browsing](http://www.lydiasuniforms.com/privacy_policy.htm#GENERAL%20BROWSING)  
-[Collection, Disclosure, and Usage of Personal Information](http://www.lydiasuniforms.com/privacy_policy.htm#COLLECTION)  
-[List Removal Instructions](http://www.lydiasuniforms.com/privacy_policy.htm#REMOVAL)  
-[Use of Cookies](http://www.lydiasuniforms.com/privacy_policy.htm#USE%20OF%20COOKIES)  
-[Links](http://www.lydiasuniforms.com/privacy_policy.htm#LINKS)
+[Privacy Policy](https://web.archive.org/privacy_policy.htm#PRIVACY%20POLICY)  
+[Security Statement](https://web.archive.org/privacy_policy.htm#SECURITY%20STATEMENT)  
+[General Browsing](https://web.archive.org/privacy_policy.htm#GENERAL%20BROWSING)  
+[Collection, Disclosure, and Usage of Personal Information](https://web.archive.org/privacy_policy.htm#COLLECTION)  
+[List Removal Instructions](https://web.archive.org/privacy_policy.htm#REMOVAL)  
+[Use of Cookies](https://web.archive.org/privacy_policy.htm#USE%20OF%20COOKIES)  
+[Links](https://web.archive.org/privacy_policy.htm#LINKS)
 
 **  
 ****PRIVACY POLICY** **  
@@ -66,7 +64,10 @@ You can refuse cookies by turning them off in your browser. If you turn off cook
 **LINKS   
 **For your convenience, our website may contain links to other sites. LydiasUniforms.com is not responsible for the privacy practices or the content of such Web sites. ****
 
-What our customers are saying about us:   
+**What our customers are saying about us:**   
 
 
-|  | 
+"I love the uniforms that I ordered and have received positive comments about them. I tell everyone who asks where they can get these wonderful uniforms. love the colors of the uniforms."
+
+  
+
