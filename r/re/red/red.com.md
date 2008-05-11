@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the red.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028090505id_/http%3A//www.red.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511171609id_/http%3A//www.red.com/privacy_policy) for the most accurate reproduction.*
 
-# RED / Privacy Policy
+# Privacy Policy
 
 ## RED will never sell any information about you to anyone
 
