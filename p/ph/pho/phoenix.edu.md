@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenix.edu privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015234457id_/http%3A//www.phoenix.edu/terms_conditions/privacy_policy/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenix.edu privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512001035id_/http%3A//www.phoenix.edu/terms_conditions/privacy_policy.aspx) for the most accurate reproduction.*
 
 # University of Phoenix - Terms & Conditions - Privacy Policy
 
@@ -66,7 +66,7 @@ Back to Top
 
 **How To Update Your Information**
 
-Our student and faculty services sites provide you with the option of changing and modifying information you have previously provided to us. To change or modify your student or faculty services account information, please call 877-832-4867. 
+Our student and faculty services sites provide you with the option of changing and modifying information you have previously provided to us. To change or modify your student or faculty services account information, please call 877.832.4867. 
 
 Back to Top
 
@@ -90,7 +90,7 @@ Back to Top
 
 **For More Information**
 
-If you have questions about our information practices, please [contact us](https://web.archive.org/web/20071015234457id_/http%3A//www.phoenix.edu/terms_conditions/contact_us/contact_us.aspx).
+If you have questions about our information practices, please [contact us](https://web.archive.org/web/20080512001035id_/http%3A//www.phoenix.edu/terms_conditions/contact_us.aspx).
 
 Back to Top
 
