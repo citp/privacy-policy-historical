@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mathsisfun.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226071301id_/http%3A//www.mathsisfun.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathsisfun.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512004933id_/http%3A//www.mathsisfun.com/Privacy.htm) for the most accurate reproduction.*
 
 # Maths is Fun - Privacy Statement
 
-Also Read: [Internet Safety Guide](https://web.archive.org/web/20071226071301id_/http%3A//www.mathsisfun.com/internet-safety.html)
+Also Read: [Internet Safety Guide](https://web.archive.org/web/20080512004933id_/http%3A//www.mathsisfun.com/internet-safety.html)
 
 _This privacy statement discloses the privacy practices for MathsIsFun.com This privacy statement advises you of what information may be collected via this website and what will happen to it._
 
@@ -15,7 +15,7 @@ _1\. What personally identifiable information of yours or third party personally
 7\. How you can correct any inaccuracies in the information. _
 
   
-**_If you feel that we are not abiding by our privacy policy, post a comment at our[forum](https://web.archive.org/web/20071226071301id_/http%3A//www.mathsisfun.com/forum/index.php) _**
+**_If you feel that we are not abiding by our privacy policy, post a comment at our[forum](https://web.archive.org/web/20080512004933id_/http%3A//www.mathsisfun.com/forum/index.php) _**
 
 **Information Collection and Use**
 
@@ -30,13 +30,11 @@ A cookie is a piece of data stored on the user's hard drive containing informati
 This web site contains links to other sites. Please be aware that MathsIsFun.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 **Newsletter**   
-We do not operate a newsletter.  **Send a Card**
+We do not operate a newsletter. 
 
-If a user elects to use our send a card service to send an online email to a friend, we ask them for their and their friend's name and email address. MathsIsFun.com will automatically send the friend a one-time email inviting them to visit the site to view the online card. MathsIsFun.com stores this information for the sole purposes of sending this one-time email and protecting individual safety. This information expires after a predetermined interval, and is not made public or disclosed to third parties other than to send the requested email. 
+**Membership**
 
-**Forum**
-
-If a user elects to join the forum we ask for a "username" (not a real name) and an email address. MathsIsFun.com stores this information for the sole purpose of responding to a specific request, protecting individual safety, or to protect the security or integrity of the website. This information is not made public or disclosed to third parties. 
+If a user elects to become a member (for example to save work between sessions) we ask for a "username" (not a real name) and an email address. Mathsisfun.com stores this information for the sole purpose of handling user-specific information, responding to a specific request, protecting individual safety, or to protect the security or integrity of the website. This information is not made public or disclosed to third parties. 
 
 **Security**
 
