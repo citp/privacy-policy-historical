@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121164939id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511204807id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
 
 # Job.com Jobs - Start your job search and find employment today!
 
@@ -10,15 +10,15 @@
 
 **Information About All Job.com Visitors**
 
-> We gather information about all of our users collectively, such as what areas users visit most frequently and what services users access the most. We only use such information in the aggregate and not on an individual basis. This information helps us determine what is most beneficial for our users, and how we can develop a better overall website for our users. This information may be shared with our partners, but only in the aggregate, so that they too may develop a better overall career website for you, as well. 
+> We gather information about all of our users collectively, such as what areas users visit most frequently and what services users access the most. We use such information in the aggregate and not on an individual basis. This information helps us determine what is most beneficial for our users, and how we can develop a better overall website for our users. This information may be shared with our partners, but only in the aggregate, so that they too may develop a better overall career website for you, as well. 
 
 **Information About You Specifically**
 
-> In some instances, such as when you sign up to use a service, enter into a contest, or purchase a product, we may need more specific information about you, such as name, address, e-mail address, telephone number, credit card number, etc. We may use that information to make you aware of additional products and services which may be of interest to you, or to contact you regarding site changes. We may also ask you for other information, such as feedback regarding the site, the types of jobs you are interested in, etc., Again, in an effort to develop for you and deliver to you the best possible career website. 
+> In some instances, such as when you sign up to use a service, enter into a contest, or purchase a product, we may need more specific personal information about you, such as name, address, e-mail address, telephone number, credit card number, etc. We may use that information to make you aware of additional products and services which may be of interest to you, or to contact you regarding site changes. We may also ask you for other information, such as feedback regarding the site, the types of jobs you are interested in, etc., Again, in an effort to develop for you and deliver to you the best possible career website. 
 
 **General Information Disclosure**
 
-> We do not disclose information about your individual visits to Job.com, or personal information that you provide, such as your name, address, e-mail address, telephone number, credit card number, etc., to any outside parties, except when we believe the law requires it. But, we may record and share aggregated information with our partners. 
+> We do not disclose information about your individual visits to Job.com, or personal information that you provide, such as your name, address, e-mail address, telephone number, credit card number, etc., to any outside parties, except when we believe the law requires it and otherwise as described in this Privacy Policy. But, we may record and share aggregated information with our partners. In addition, if we sell all or part of our business or make a sale or transfer of all or a material part of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer your personal information to the party or parties involved as part of that transaction. 
 
 **Resumes**
 
@@ -26,6 +26,6 @@
 
 **Privacy Commitment Changes**
 
-> If we decide to change our privacy commitment for Job.com, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about Job.com's privacy commitment, please feel free to email us at [Info@Job.com](mailto:info@job.com "Email us at Info@Job.com").
+> If we decide to change our privacy commitment for Job.com, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about Job.com's privacy commitment, please feel free to email us at [Privacy@Job.com](mailto:privacy@job.com "Email us at Privacy@Job.com").
 > 
 > Thank you for using Job.com. We'll continue working to make this your favorite website to manage your career. 
