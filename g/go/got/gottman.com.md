@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gottman.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217052355id_/http%3A//www.gottman.com/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottman.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512150707id_/http%3A//www.gottman.com/contact/privacy) for the most accurate reproduction.*
 
 # The Gottman Institute - Contact Us- Privacy Policy
 
@@ -12,9 +12,9 @@ These provisions may be changed from time to time and without notice, at Gottman
 
 ### What We Collect
 
-**You may see information collected about You via the Site, and delete or modify any personally identifiable information, such as Your name, e-mail address or home address or telephone number (“Personal Information”) by following our Correct/Update Procedure. [link]**
+**You may see information collected about You via the Site, and delete or modify any personally identifiable information, such as Your name, e-mail address or home address or telephone number (“Personal Information”) by following ourCorrect/Update Procedure.**
 
-**Information You Give Us:**   Gottman Institute receives and stores any information you enter on the Site (for example, when you register for one of our workshops, or purchase one of our products) or provide in any other manner, including via e-mail, including Personal Information. Of course, You can choose not to provide such information, but then You might not be able to register for a workshop or make a purchase on-line. Of course, You are always welcome to make such transactions by mail [address] or telephone [number]. Gottman Institute uses the information that You provide for such purposes as facilitating Your purchase or workshop registration, responding to Your requests for information, improving the products and services we offer, and communicating with You.
+**Information You Give Us:**   Gottman Institute receives and stores any information you enter on the Site (for example, when you register for one of our workshops, or purchase one of our products) or provide in any other manner, including via e-mail, including Personal Information. Of course, You can choose not to provide such information, but then You might not be able to register for a workshop or make a purchase on-line. Of course, you are always welcome to make such transactions by mail; The Gottman Institute, Inc., PO Box 15644, Seattle, WA 98115-0644 or telephone; (800) 523-6042 or (206) 523-9042. Gottman Institute uses the information that You provide for such purposes as facilitating Your purchase or workshop registration, responding to Your requests for information, improving the products and services we offer, and communicating with You.
 
 Gottman Institute may, but is not obligated to, retain the content of any E-mails You send or information or data You provide by other means, including Your E-mail address and other personally identifiable information, so that Gottman Institute may respond to Your requests for information or questions, and comply with any legal requirements. Gottman Institute does not share our visitors Personal Information with any third parties, except as necessary for operation of the Site and provision of our products and services.
 
@@ -72,7 +72,7 @@ Seattle, WA 98115-0644
 
 ### Conditions of Use
 
-Your access and use of the Site is subject to this Privacy Policy and Web Site Terms [link] including limitations on damages, and the applicability of the law of the State of Washington.
+Your access and use of the Site is subject to this Privacy Policy and [Web Site Terms](http://www.gottman.com/contact/legal/) including limitations on damages, and the applicability of the law of the State of Washington.
 
 ### Contacting the Site
 
