@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the sdtadvertising.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220144358id_/http%3A//sdtadvertising.com/new/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdtadvertising.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512225749id_/http%3A//sdtadvertising.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# SDTadvertising.com:: Classy Ad Blaster - Blast Your Ad To 5 Million Sites Every Week!
 
 **Privacy Policy**
 
-**Last Updated: December 19, 2003**
+ **Last Updated: December 19, 2003**
 
-_The following information has been added to this page as of 12/19/03 as an addition to our formal privacy policy:_   _We_ _will never sell or give away our visitors' or customers' personal information to third parties for purposes of building contact lists_ _, or anything of that nature._
+ _The following information has been added to this page as of 12/19/03 as an addition to our formal privacy policy:_   _We_ _will never sell or give away our visitors' or customers' personal information to third parties for purposes of building contact lists_ _, or anything of that nature._
 
-**Last Updated: May 28, 2002**
+ **Last Updated: May 28, 2002**
 
 SDTadvertising.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."  Also, We will never sell or give away our visitors' or customers' personal information to third parties for purposes of building contact lists, or anything of that nature. 
 
@@ -16,7 +16,7 @@ SDTadvertising.com strives to offer its visitors the many advantages of Internet
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, SDTadvertising.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
 
-**What we do with the information we collect**
+ **What we do with the information we collect**
 
 Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
 
@@ -26,7 +26,7 @@ We may use Personally Identifiable Information collected on SDTadvertising.com t
 
 Personally Identifiable Information collected by SDTadvertising.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
 
-**Affiliated sites, linked sites and advertisements**
+ **Affiliated sites, linked sites and advertisements**
 
 SDTadvertising.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a SDTadvertising.com page, certain content that is actually created or hosted by a third party. Also, through SDTadvertising.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. SDTadvertising.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
@@ -34,19 +34,21 @@ While on our site, our advertisers, promotional partners or other third parties 
 
 You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of SDTadvertising.com and this policy.
 
-**Children**
+ **Children**
 
 SDTadvertising.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe SDTadvertising.com has any information from or about anyone under 13, please contact us at the address listed below.
 
 Contacting Us.
 
-We can be reached by contacting:  Email: [privacy@sdtadvertising.com](mailto:privacy@sdtadvertising.com)
+We can be reached by contacting:  
+
+Email: [privacy@sdtadvertising.com](mailto:privacy@sdtadvertising.com)
 
 Changes to this Policy
 
 SDTadvertising.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
-**Governing law**
+ **Governing law**
 
 This policy and the use of this Site are governed by WV law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Harrison County. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
 
