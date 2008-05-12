@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtoncitypaper.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226140042id_/http%3A//www.washingtoncitypaper.com/citypaper/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtoncitypaper.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512044427id_/http%3A//www.washingtoncitypaper.com/citypaper/privacypolicy) for the most accurate reproduction.*
 
 # Washington City Paper: The City Paper: Privacy Policy
 
@@ -18,4 +18,4 @@ If you place a classified ad or make a purchase, we keep the information you giv
 
 Given the nature of Web publishing, our privacy policies may change from time to time; any changes will be posted here as soon as they go into effect.
 
-If you have any questions about our privacy policy, please write to [webmeister@washcp.com](mailto:webmeister@washcp.com).
+If you have any questions about o
