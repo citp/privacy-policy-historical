@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cas.org privacy policy that was archived on 2007-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070702215206id_/http%3A//www.cas.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cas.org privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512160133id_/http%3A//www.cas.org/legal/privacy.html) for the most accurate reproduction.*
 
 # CAS Privacy Statement
 
@@ -80,4 +80,4 @@ Columbus, Ohio 43210-0012
 
 _Policy Last Updated: 08/08/00_
 
-Updated 4/15/2007 11:15:08 AM
+Updated 9/13/2007 3:48:12 PM
