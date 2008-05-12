@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymangosteen.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225164559id_/http%3A//www.mymangosteen.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymangosteen.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513013651id_/http%3A//www.mymangosteen.com/privacy.asp) for the most accurate reproduction.*
 
 # mymangosteen.com - Buy XanGo Today!
 
