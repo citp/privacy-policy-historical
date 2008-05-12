@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strategicprofits.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013015225id_/http%3A//strategicprofits.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategicprofits.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512200038id_/http%3A//www.strategicprofits.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Strategic Profits Privacy Policy
 
