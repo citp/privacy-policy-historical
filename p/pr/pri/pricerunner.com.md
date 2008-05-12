@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the pricerunner.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011032636id_/http%3A//www.pricerunner.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricerunner.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512090906id_/http%3A//www.pricerunner.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PriceRunner.com
 
-**PRICERUNNER PRIVACY POLICY**
+[PriceRunner](https://web.archive.org/)
+
+ **PRICERUNNER PRIVACY POLICY**
 
 At Pricerunner.com ("we", "us", "Site") we respect your privacy and want to ensure that each and every member feels comfortable in sharing their personal data. We make every effort to keep your information confidential and protect your privacy when using our site and services. We take your privacy and our responsibility under the privacy laws very seriously. 
 
@@ -68,7 +70,9 @@ Pricerunner is very sensitive to the issue of children's privacy and makes every
 
 Pricerunner is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701). It is our policy to prohibit the sending of unsolicited or "Spam" email by Pricerunner or any of its marketing partners. 
 
-Please note that under the CAN-SPAM Act, an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails about the advertiser. Although not required to by law, many email marketers also include an opt-out mechanism to enable consumers to be removed from their mailing list. This has caused some confusion for consumers in opting out. The table below clarifies which opt-out mechanism you should use.  |  To receive no further emails . . . |  Opt-Out Mechanism to Use   
+Please note that under the CAN-SPAM Act, an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails about the advertiser. Although not required to by law, many email marketers also include an opt-out mechanism to enable consumers to be removed from their mailing list. This has caused some confusion for consumers in opting out. The table below clarifies which opt-out mechanism you should use. 
+
+To receive no further emails . . . |  Opt-Out Mechanism to Use   
 ---|---  
 about the advertiser  |  Advertiser's   
 from the email marketing company  |  Marketer's   
@@ -86,5 +90,4 @@ You also agree that you have provided notice to, and obtained consent from, any 
 
 **CONTACT US**
 
-For more information or if you have questions or concerns regarding the Pricerunner Privacy Policy, please send an email to [legal@pricerunner.com](mailto:legal@pricerunner.com), or you can send correspondence to the following address: Pricerunner, Attn: Privacy Officer, P.O. Box 5600, Westlake Village, CA 91361.   
- 
+For more information or if you have questions or concerns regarding the Pricerunner Privacy Policy, please send an email to [legal@pricerunner.com](mailto:legal@pricerunner.com), or you can send correspondence to the following address: Pricerunner, Attn: Privacy Officer, P.O. Box 5600, Westlake Village, CA 91361. 
