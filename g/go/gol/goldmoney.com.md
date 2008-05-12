@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldmoney.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231135406id_/http%3A//goldmoney.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmoney.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512151342id_/http%3A//goldmoney.com/en/privacy-policy.html) for the most accurate reproduction.*
 
-# GoldMoney - Privacy Policy
+# GoldMoney Privacy Policy
 
 GoldMoney will treat as confidential information it holds in relation to a User where that information is not in the public domain. Subject to this Clause GoldMoney will not disclose such confidential information to third-parties.
 
@@ -12,6 +12,6 @@ At any time you may access and change your personal information that is in the p
 
 GoldMoney does not sell, rent, loan, trade or lease any personal information collected, including application forms, financial data or email addresses. GoldMoney may ask for your permission by email to disclose your personal data to service providers not affiliated with GoldMoney, but you have the right to refuse.
 
-For security reasons, we do not recommend saving your Holding number and Passphrase in your computer's memory (do not allow your browser to remember your Passphrase). Consequently, we advise entering your Holding number and Passphrase each time you begin a new browser session and wish to view your Holding. Please read our [Security FAQ](https://web.archive.org/en/faqs/security.html) for important tips on accessing GoldMoney securely.
+For security reasons, we do not recommend saving your Holding number and Passphrase in your computer's memory (do not allow your browser to remember your Passphrase). Consequently, we advise entering your Holding number and Passphrase each time you begin a new browser session and wish to view your Holding. Please read our [Security FAQ](http://support.goldmoney.com/category.php?id=10) for important tips on accessing GoldMoney securely.
 
-Questions regarding the GoldMoney privacy policy should be directed to [Customer Support](https://web.archive.org/web/20071231135406id_/http%3A//goldmoney.com/en/support.php).
+Questions regarding the GoldMoney privacy policy should be directed to [Customer Support](https://web.archive.org/web/20080512151342id_/http%3A//goldmoney.com/en/support.php).
