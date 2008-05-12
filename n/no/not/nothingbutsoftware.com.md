@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the nothingbutsoftware.com privacy policy that was archived on 2007-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070802120615id_/http%3A//www.nothingbutsoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nothingbutsoftware.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512074536id_/http%3A//www.nothingbutsoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **SpaceBound, Inc.**. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: NothingButSoftware.com. 
 
-This site uses cookies to keep track of your shopping cart. NothingButSoftware.com uses cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit this site.
+This site uses cookies to keep track of your shopping cart and to deliver content specific to your interests.
 
-This site's registration form requires users to give us contact information (e.g. their name and email address). NothingButSoftware.com uses customer contact information from the registration form to send the user information about our Company. The customer's contact information is also used to contact the visitor or user when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+This site's registration form requires users to give us contact information (e.g. their name and email address). NothingButSoftware.com uses customer contact information from the registration form to send the user information about our Company. The customer's contact information is also used to contact the visitor or user when necessary.
+
+In order to best serve our customers, we may send updates that contain important information about NothingButSoftware.com's products and services. We may also communicate with a customer to provide requested services and for account-related issues via e-mail. All emails including but not limited to promotional emails will only be sent by NothingButSoftware.com. We do not sell subscriber e-mail addresses nor are they used by third-parties to send emails to our subscribers. 
+
+In addition to product or service related email messages, we also send our subscribers promotional emails two times per week that contain our current specials on products and other promotional offers at NothingButSoftware.com. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
 This site contains links to other sites. **NothingButSoftware.com** is not responsible for the privacy practices or the content of such Web sites.
 
@@ -27,14 +31,6 @@ This site gives users the option to remove their information from our database t
 This site gives users the following option for changing and modifying information previously provided. 
 
   * Please contact our [Change of Information Department](https://web.archive.org/customer/emaildepartment.asp?optDept=18)
-
-
-
-## Automatic Subscription
-
-When you place your first order with NothingButSoftware.com, this site will add your email address to our newsletter to receive upcoming specials and offers from our Company. You may change these options with the links below. 
-
-  * Click [here](https://web.archive.org/subscribe.asp#un) to unsubscribe or change your email options
 
 
 
