@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infor.com privacy policy that was archived on 2007-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070731231716id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infor.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512084732id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy
 
