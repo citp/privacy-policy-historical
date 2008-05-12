@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the etsy.com privacy policy that was archived on 2007-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214112339id_/http%3A//www.etsy.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the etsy.com privacy policy that was archived on 2008-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080512023332id_/http%3A//www.etsy.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head>
 	<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 	<meta http-equiv="Pragma" content="no-cache">
 	<meta http-equiv="Expires" content="-1">
-	<script type="text/javascript">
+		<script type="text/javascript">
 	<!--
-	var began_loading = (new Date()).getTime();
+	var began_loading = new Date().getTime();
 	//-->
 	</script>
-	<link rel="SHORTCUT ICON" href="images/favicon.ico">
-	<link href="styles.css" rel="stylesheet" type="text/css">
+	<link rel="SHORTCUT ICON" href="/images/favicon.ico">
+	<link href="/styles.css" rel="stylesheet" type="text/css">
 		<title>Etsy :: Privacy Policy</title>
 		<script type="text/javascript">
 	<!--
@@ -26,15 +26,21 @@
 	    document.cookie = "etsyload=" + uid + began_loading  + ";expires=" + expires_date.toGMTString() + ";path=/";
 	  }
 	  if(!(began_loading==null||began_loading=="")){ //Check to see if we got a start time
-	    t = (((new Date()).getTime() - began_loading)/ 1000);
-	  } 
-	  (new Image()).src = "/timer.php?u=" + self.location + "&t=" + t + "&ua=" + x.userAgent + "&s=" + "&uid=" + uid + "&ref=" + document.referrer + "&usid=0"; 	}
+            t = ((new Date().getTime() - began_loading)/ 1000);
+          }
+          if(document.location.protocol=="https:")
+	    (new Image()).src = "https://" + document.domain  + "/timer.php?u=" + escape(document.location) + "&t=" + t + "&ua=" + x.userAgent + "&s=" + "&uid=" + uid + "&ref=" + escape(document.referrer) + "&usid=0";
+          else
+	    (new Image()).src = "/timer.php?u=" + escape(document.location) + "&t=" + t + "&ua=" + x.userAgent + "&s=" + "&uid=" + uid + "&ref=" + escape(document.referrer) + "&usid=0";
+	}
 	//-->
 	</script>
 	<script src="/js/sha1.js" type="text/javascript"></script>
+	
+
 </head>
 
-<body onload="done_loading()">
+<body>
 	<table class="big_n_tall centered_text" style="vertical-align:top;">
 		<tbody><tr>
 			<td style="vertical-align:top;"><table class="centered_text" style="width:760px; text-align:left;">
@@ -51,20 +57,20 @@
 										<tbody><tr>
 																							<td class="left_align" style="vertical-align:middle; padding:0px 0px 0px 10px;"><table class="left_align">
 													<tbody><tr>
-														<td style="padding:0px 5px 0px 5px;"><a href="cart1.php"><img src="images/icon_headerCart.jpg" width="21" height="17" alt="cart"></a></td>
-														<td class="orange_text" style="vertical-align:middle; font-weight:bold;"><a href="cart1.php">Cart</a> 0 items</td>
+														<td style="padding:0px 5px 0px 5px;"><a href="/cart1.php" title="Cart"><img src="/images/icon_headerCart.jpg" width="21" height="17" alt="Cart"></a></td>
+														<td class="orange_text" style="vertical-align:middle; font-weight:bold;"><a href="/cart1.php" title="Cart">Cart</a> 0 items</td>
 													</tr>
 												</tbody></table></td>
 												<td style="text-align:right; vertical-align:middle;" class="right_align"><table class="right_align">
 													<tbody><tr>
-														<td style="font-weight:bold;"><a href="login.php?from_page=privacy_policy.php">Login</a></td>
+														<td style="font-weight:bold;"><a href="/login.php?from_page=privacy_policy.php" title="Login">Login</a></td>
 														<td style="color:#CCCCCC; padding:0px 7px 0px 7px;">|</td>
-														<td style="font-weight:bold;"><a href="register.php">Register</a></td>
+														<td style="font-weight:bold;"><a href="/register.php" title="Register">Register</a></td>
 														<td style="color:#CCCCCC; padding:0px 7px 0px 7px;">|</td>
-														<td style="font-weight:bold; padding:0px 5px 0px 0px;"><a href="faq.php">Help</a></td>
+														<td style="font-weight:bold; padding:0px 5px 0px 0px;"><a href="/faq.php" title="Help">Help</a></td>
 													</tr>
 												</tbody></table></td>
-																						<td style="width:11px;"><img src="images/top_roundedCorner2.gif" height="34" width="11" alt=""></td>
+																						<td style="width:11px;"><img src="/images/top_roundedCorner2.gif" height="34" width="11" alt=""></td>
 										</tr>
 									</tbody></table></td>
 								</tr>
@@ -72,7 +78,7 @@
 						</tr>
 						<!-- end login bar -->
 
-						<!-- begin spacer row -->
+						<!-- begin spacer row --> 
 						<tr>
 							<td style="height:10px"></td>
 						</tr>
@@ -82,23 +88,21 @@
 						<tr>
 							<td><table style="width:100%;">
 								<tbody><tr style="background-color:#666759; height:30px;">
-									<td rowspan="3" style="width:154px; height:80px; "><a href="index.php"><img src="images/logo.gif" alt="Etsy" width="154" height="80"></a></td>
-									<td rowspan="3" style="width:1px; height:80px; background-color:#FFF;"><img src="images/1x1.gif" width="1" alt=""></td>
+									<td rowspan="3" style="width:154px; height:80px; "><a href="/index.php" title="Etsy"><img src="/images/logo.gif" alt="Etsy" width="154" height="80"></a></td>
+									<td rowspan="3" style="width:1px; height:80px; background-color:#FFF;"><img src="/images/1x1.gif" width="1" alt=""></td>
 
-									<td style="height:30px; width:100%; vertical-align:middle; background-image:url('images/layout_logonav_bg.gif');"><table class="left_align" style="height:100%; vertical-align:middle;">
+									<td style="height:30px; width:100%; vertical-align:middle; background-image:url('/images/layout_logonav_bg.gif');"><table class="left_align" style="height:100%; vertical-align:middle;">
 										<tbody><tr>
-											<td class="logonav_button  white_border_right  white_text  white_link" style="padding:0px 15px 0px 15px;"><a href="buy.php">Buy</a></td>
-											<td class="logonav_button  white_border_right  white_text  white_link" style="padding:0px 15px 0px 15px;"><a href="how_selling_works.php">Sell</a></td>
-
-											<td class="logonav_button  white_border_right  white_text  white_link" style="padding:0px 15px 0px 15px;"><a href="/gift-guides/">Gift Guides</a></td>
-											<td class="logonav_button  white_border_right  white_text  white_link" style="padding:0px 15px 0px 15px;"><a href="forums_main.php">Forums</a></td>
-										
-                                       		<td class="logonav_button  white_border_right  white_text  white_link" style="padding:0px 15px 0px 15px;"><a href="/storque/">Storque</a></td>
-                                       		<td class="logonav_button  white_text  white_link" style="padding:0px 15px 0px 15px;"><a href="your_etsy.php">Your Etsy</a></td>
+											<td class="logonav_button  white_border_right  white_text  white_link" style="padding:0px 15px 0px 15px;"><a href="/buy.php" title="Buy">Buy</a></td>
+											<td class="logonav_button  white_border_right  white_text  white_link" style="padding:0px 15px 0px 15px;"><a href="/how_selling_works.php" title="Sell">Sell</a></td>
+                                            <td class="logonav_button  white_border_right  white_text  white_link" style="padding:0px 15px 0px 15px;"><a href="/alchemy/" title="Alchemy">Alchemy</a></td>
+											<td class="logonav_button  white_border_right  white_text  white_link" style="padding:0px 15px 0px 15px;"><a href="/community.php" title="Community">Community</a></td>
+                                       		<td class="logonav_button  white_border_right  white_text  white_link" style="padding:0px 15px 0px 15px;"><a href="/storque/" title="News">News</a></td>
+                                       		<td class="logonav_button  white_text  white_link" style="padding:0px 15px 0px 15px;"><a href="/your_etsy.php" title="Your Etsy">Your Etsy</a></td>
 
 										</tr>
 									</tbody></table></td>
-									<td style="width:14px; background-image:url('images/layout_logonav_bg.gif');" class="right_align"><img class="right_align" src="images/layout_logonav_corner_grad.gif" width="14" height="30" alt=""></td>
+									<td style="width:14px; background-image:url('/images/layout_logonav_bg.gif');" class="right_align"><img class="right_align" src="/images/layout_logonav_corner_grad.gif" width="14" height="30" alt=""></td>
 
 
 								</tr>
@@ -106,17 +110,23 @@
 									<td colspan="2" style="height:1px;"></td>
 								</tr>
 								<tr>
-									<td colspan="2" class="centered_text" style="background-color:#98968A; height:49px; vertical-align:middle;"><form action="search.php" method="GET"><table class="centered_text">
+									<td colspan="2" class="centered_text" style="background-color:#98968A; height:49px; vertical-align:middle;"><form action="/search.php" method="GET"><table class="centered_text">
 										<tbody><tr>
-											<td style="vertical-align:middle;"><input type="text" style="vertical-align:middle;" class="big_searchbar" name="search_query" value=""></td>
-											<td style="padding:0px 0px 0px 3px; vertical-align:middle;"><select style="vertical-align:middle;" class="big_search_dropbar" name="search_type">
-																								<option value="tag_title">items: tags, titles</option>
-												<option value="tag_title_description">items: tags, titles, descriptions</option>
-												<option value="seller_usernames">sellers: usernames</option>
-												<option value="tags">items: tags only</option>
-												<option value="materials">materials</option>
+											<td style="padding:0px 3px 0px 3px; vertical-align:middle;"><select style="vertical-align:middle;" class="big_search_dropbar" name="search_type">
+																								
+												
+												
+												<option value="tag_title">Handmade Items: tags, titles</option>
+												<option value="tag_title_description">Handmade Items: tags, titles, descriptions</option>
+												<option value="tag_title_supplies">Supplies: tags, titles</option>
+												<option value="tag_title_vintage">Vintage: tags, titles</option>
+												<option value="tag_title_all">All items: tags, titles</option>
+												<option value="seller_usernames">Sellers: usernames</option>
+												<option value="materials">Materials</option>
 											</select></td>
-											<td style="padding:0px 0px 0px 3px; vertical-align:middle;"><input style="vertical-align:middle;" type="image" value="Search" src="images/button_search.gif" alt="search" class="big_search_submit"></td>
+											<td style="vertical-align:middle;"><input type="text" style="vertical-align:middle;" class="big_searchbar" name="search_query" value=""></td>
+											
+											<td style="padding:0px 0px 0px 3px; vertical-align:middle;"><input style="vertical-align:middle;" type="image" value="Search" src="/images/button_search.gif" alt="search" class="big_search_submit"></td>
 										</tr>
 									</tbody></table></form></td>
 								</tr>
@@ -163,7 +173,7 @@
 												<tr>
 													<td class="row_grey grey_border" style="font-size:13px; padding:5px 3px 5px 10px;"><table style="width:100%;">
 														<tbody><tr>
-															<td style="font-weight:bold; font-size:14px;"><a href="help_guide_main.php">How-To Guides</a></td>
+															<td style="font-weight:bold; font-size:14px;"><a href="help_guide_main.php">Help Guides</a></td>
 															<td rowspan="2" class="orange_text right_align" style="font-size:18px; vertical-align:middle;"></td>
 														</tr>
 														<tr>
@@ -307,7 +317,7 @@
 
 										</tr>
 										<tr>
-											<td style="font-size:14px; font-weight:bold; padding:15px 10px 5px 10px;">Other places on Etsy</td>
+											<td style="font-size:14px; font-weight:bold; padding:15px 10px 5px 10px;">The Etsy Community</td>
 										</tr>
 										<tr>
 											<td><table style="width:100%;">
@@ -341,6 +351,17 @@
 														</tr>
 														<tr>
 															<td class="dark_grey_text">ground-up support</td>
+														</tr>
+													</tbody></table></td>
+												</tr>
+												<tr>
+													<td class="row_grey grey_border" style="font-size:13px; padding:5px 3px 5px 10px;"><table style="width:100%;">
+														<tbody><tr>
+															<td style="font-weight:bold; font-size:14px;"><a href="virtual_labs.php">Virtual Labs</a></td>
+															<td rowspan="2" class="orange_text right_align" style="font-size:18px; vertical-align:middle;"></td>
+														</tr>
+														<tr>
+															<td class="dark_grey_text">workshops for everyone</td>
 														</tr>
 													</tbody></table></td>
 												</tr>
@@ -424,10 +445,10 @@
 				<tr>
 					<td style="border-width:1px 0px 0px 0px; border-style:solid; border-color:#EAEAEA;"><table style="width:100%; margin:7px 0px 7px 0px;">
 						<tbody><tr>
-							<td style="width:116px; padding-right:10px;"><a href="http://www.truste.org/ivalidate.php?url=www.etsy.com&amp;sealid=102"><img src="images/truste_seal_eu.gif" alt="secure" width="105" height="30"></a></td>
-							<td class="dark_grey_text" style="font-size:11px;"><a href="about.php">About</a> | <a href="http://blog.etsy.com/?page_id=44">Press</a> | <a href="http://www.etsy.com/contact.php">Contact</a> | <a href="http://team.etsy.com">Team</a> | <a href="http://etsylabs.blogspot.com">Labs</a> | <a href="http://blog.etsy.com/jobs/index.html">Jobs</a> | <a href="http://www.etsy.com/shop.php?user_id=5029420">Merch</a><br>
-							<a href="terms_of_use.php">Terms of Use</a> | <a href="privacy_policy.php">Privacy Policy</a> | <a href="copyright_policy.php">Copyright Policy</a></td>
-							<td class="dark_grey_text" style="text-align:right; font-size:11px;">© 2007 Etsy Inc.</td>
+							<td style="width:116px; padding-right:10px;"><a href="http://www.truste.org/ivalidate.php?url=www.etsy.com&amp;sealid=102" title="Shopping on Etsy is Secure and Safe"><img src="/images/truste_seal_eu.gif" alt="Shopping on Etsy is Secure and Safe" width="105" height="30"></a></td>
+							<td class="dark_grey_text" style="font-size:11px;"><a href="/about.php" title="About Etsy">About</a> | <a href="http://blog.etsy.com/?page_id=44">Press</a> | <a href="http://www.etsy.com/contact.php" title="Contact Etsy">Contact</a> | <a href="http://team.etsy.com">Teams</a> | <a href="http://blog.etsy.com/jobs/index.html" title="Etsy Jobs">Jobs</a> | <a href="http://www.etsy.com/shop.php?user_id=5029420" title="Etsy Merch">Merch</a><br>
+							<a href="/terms_of_use.php" title="Terms of Use">Terms of Use</a> | <a href="/privacy_policy.php" title="Privacy Policy">Privacy Policy</a> | <a href="/copyright_policy.php" title="Copyright Policy">Copyright Policy</a></td>
+							<td class="dark_grey_text" style="text-align:right; font-size:11px;">© 2008 Etsy Inc.</td>
 						</tr>
 					</tbody></table></td>
 				</tr>
