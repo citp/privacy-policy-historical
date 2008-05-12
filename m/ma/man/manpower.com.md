@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manpower.com privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105035517id_/http%3A//www.manpower.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manpower.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512145026id_/http%3A//www.manpower.com/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Statement
+# Manpower | Privacy Statement
 
 **PRIVACY NOTICE for this MANPOWER GLOBAL WEB SITE AS OF 21 FEBRUARY 2006**
 
