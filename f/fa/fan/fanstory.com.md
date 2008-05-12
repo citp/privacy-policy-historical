@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fanstory.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305214747id_/http%3A//www.fanstory.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanstory.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512121932id_/http%3A//www.fanstory.com/privacy.jsp) for the most accurate reproduction.*
 
-# fanStory.com - Reviews, writing contests and fun!
+# FanStory.com - Write a story or poem, write poetry poems and publish short stories, book writing site
 
-Thank you for visiting fanstory.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site. 
+Thank you for visiting FanStory.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site. 
 
 ###  The Information We Collect
 
@@ -44,7 +44,7 @@ The sites covered by this Privacy Notice sometimes may offer content (e.g., cont
 
 We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
 
 ###  Cookies 
 
@@ -60,4 +60,4 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 ###  How to Contact Us 
 
-If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [info@fanstory.com](https://web.archive.org/web/20050305214747id_/http%3A//www.fanstory.com/formcontactfanstory.jsp). 
+If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [here](https://web.archive.org/web/20080512121932id_/http%3A//www.fanstory.com/formcontactfanstory.jsp). 
