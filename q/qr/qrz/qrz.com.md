@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210190536id_/http%3A//www.qrz.com/i/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512091728id_/http%3A//www.qrz.com/i/privacy.html) for the most accurate reproduction.*
 
 # QRZ.COM privacy
 
@@ -39,4 +39,4 @@
 > 
 > If you have any additional questions about QRZ's dedication to consumer privacy, please contact us at [editor@qrz.com](mailto:editor@qrz.com). 
 > 
-> [](https://web.archive.org/index.html)
+> [ QRZ Home Page ](http://www.qrz.com/index.html)
