@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raileurope.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209072810id_/http%3A//www.raileurope.com/us/about_us/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raileurope.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512093028id_/http%3A//www.raileurope.com/us/about_us/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,13 @@ We use IP addresses to analyze trends, administer the site, track user’s movem
 
 Links 
 
-This web site contains links to other sites. Please be aware that we, Rail Europe Group, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+Our website has links to other organizations. You should be aware that: 
+
+  * If you access another site through a link we provide, you are subject to the privacy policy of that site.
+  * Reference in this referred website to commercial products, services, manufacturers, or companies does not constitute an endorsement by Rail Europe.
+  * Rail Europe is not responsible for the contents to any linked sites. 
+
+
 
 Newsletter 
 
@@ -45,7 +51,7 @@ Choice/Opt-out
 
 Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [unsubscribe@raileurope.com](mailto:unsubscribe@raileurope.com).
 
-You may also opt-out of any email communications through our website by going to: [http://www.raileurope.com/us/about_us/opt_out.htm](https://web.archive.org/web/20071209072810id_/http%3A//www.raileurope.com/us/about_us/opt_out.htm)
+You may also opt-out of any email communications through our website by going to: [http://www.raileurope.com/us/about_us/opt_out.htm](https://web.archive.org/web/20080512093028id_/http%3A//www.raileurope.com/us/about_us/opt_out.htm)
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
