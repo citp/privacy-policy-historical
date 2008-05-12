@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atbatt.com privacy policy that was archived on 2007-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071118184528id_/http%3A//www.atbatt.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atbatt.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512075610id_/http%3A//www.atbatt.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # AtBatt.com - Privacy Policy
 
@@ -67,7 +67,7 @@ Choice/Opt-out: You may change any of your personal information in your account 
 
 **Surveys or Contests**. From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name, email address and/or shipping address), and demographic information (such as zip code). 
 
-We use this information collected to notify contest winners and award prizes. In addition, our monthly contests will require you to submit your email address and by giving us your email address you agree to receive 2 promotional emails a month in exchange for an opportunity to win that month’s particular prize. If you would like to be removed from the monthly contest and not receive our promotional emails, please follow the unsubscribe instructions included in each email. 
+We use this information collected to notify contest winners and award prizes. In addition, our monthly contests will require you to submit your email address and by giving us your email address you agree to receive 2 promotional emails a month in exchange for an opportunity to win that month�s particular prize. If you would like to be removed from the monthly contest and not receive our promotional emails, please follow the unsubscribe instructions included in each email. 
 
 **Linked Sites or Other Parties:** Atbatt.com's Site may contain links to other sites owned or operated by third parties. This Privacy Policy only addresses Atbatt.com's use and disclosure of your Personally Identifiable Information collected on our Site. While we try to link only to sites that share our standards and respect for privacy, we are not responsible for the privacy practices of any third parties or the content of linked sites, although we do encourage you to read the applicable privacy policies and terms and conditions of such parties or web sites. 
 
