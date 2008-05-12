@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216095110id_/http%3A//www.myfuture.edu.au/articles/redirect.asp%3FArticleID%3D197%26Location%3DHome%2520%5C%2520Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512161903id_/http%3A//www.myfuture.edu.au/Footer%2520Items/General/Privacy.aspx) for the most accurate reproduction.*
 
-# myfuture Privacy Statement
+# myfuture: Australia's career information service
 
 ## 1\. Introduction
 
@@ -28,10 +28,10 @@ You may decide to provide us with your email address. If you do have an email ad
 
 When you visit this Site our server makes a record of your visit and logs the following information:
 
-  * your server address
-  * your top level domain name (for example .com, .gov, .au, .net, .edu, etc)
-  * the time and date of your visit to the website
-  * the pages and documents you have accessed or viewed
+  * your server address 
+  * your top level domain name (for example .com, .gov, .au, .net, .edu, etc) 
+  * the time and date of your visit to the website 
+  * the pages and documents you have accessed or viewed 
   * the type of browser you are using
 
 
@@ -48,10 +48,10 @@ We may use, reproduce, adapt, or retrieve your personal information for statisti
 
 The reason we collect statistical information about the use of this Site (whether through cookies, or clickstream data, or through aggregating statistics about users) is that we need this information for:
 
-  * website and system administration, including monitoring to prevent security breaches;
-  * maintaining and improving the website;
-  * reporting purposes;
-  * research and development; and
+  * website and system administration, including monitoring to prevent security breaches; 
+  * maintaining and improving the website; 
+  * reporting purposes; 
+  * research and development; and 
   * to produce statistics about the traffic on the website.
 
 
@@ -72,7 +72,7 @@ We will only put your personal information on this Site if it has been collected
 
 ## 7\. Security of your Personal Information
 
-We take all reasonable steps to ensure that the information (including personal information) we hold in our servers is not subject to loss, misuse or unauthorised access or alteration. We will continue to hold your personal information but may delete your account and all personal information contained in this account if your account has been inactive for an extended period of time. If you wish us to destroy your personal information you can request us to remove your account [LINK].In accordance with the Terms and Conditions of Use of this Site, however, **_education.au limited_** cannot accept any liability for any loss suffered by you as a result of unauthorised access to this Site.
+We take all reasonable steps to ensure that the information (including personal information) we hold in our servers is not subject to loss, misuse or unauthorised access or alteration. We will continue to hold your personal information but may delete your account and all personal information contained in this account if your account has been inactive for an extended period of time. If you wish us to destroy your personal information you can request us to remove your account [LINK].In accordance with the [Terms and Conditions ](https://web.archive.org/Footer%20Items/General/Terms%20and%20Conditions.aspx)of Use of this Site, however, **_education.au limited_** cannot accept any liability for any loss suffered by you as a result of unauthorised access to this Site.
 
 This Site does not, however, provide facilities for the secure transmission of information across the Internet. You should be aware that there are inherent risks associated with the transmission of personal information via the Internet.
 
@@ -88,9 +88,9 @@ We will deal with all requests for access to personal information as quickly as 
 
 In some cases, consistently with the Privacy Act, we may refuse to give you access to personal information we hold about you. This includes circumstances where giving you access:
 
-  * would have an unreasonable impact on other people's privacy;
-  * would prejudice negotiations we are having with you;
-  * would prejudice an investigation of unlawful activity; or
+  * would have an unreasonable impact on other people's privacy; 
+  * would prejudice negotiations we are having with you; 
+  * would prejudice an investigation of unlawful activity; or 
   * would prejudice activities carried out by, or for, a law enforcement agency.
 
 
@@ -107,7 +107,7 @@ We may make changes to this privacy policy from time to time, so you should chec
 
 We want to develop a long and trusted relationship with you. If at any time you:
 
-  * have any questions regarding this Privacy Statement, the practices of this Site or dealings with this Site; or
+  * have any questions regarding this Privacy Statement, the practices of this Site or dealings with this Site; or 
   * if you are concerned that we have breached your privacy and wish to make a complaint,
 
 
@@ -117,8 +117,8 @@ please contact us at:
 (a) Contact Us; or
 
 (b) Career Services Manager  
-_**education.au limited  
-**_182 Fullarton Road  
+ _ **education.au limited  
+**_ 182 Fullarton Road  
 DULWICH SA 5065; or
 
 (c) Department of Education, Science and Training  
