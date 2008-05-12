@@ -1,78 +1,91 @@
-> *The following text is extracted and transformed from the kontera.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425081953id_/http%3A//kontera.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontera.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512052922id_/http%3A//www.kontera.com/kontera-privacy-policy) for the most accurate reproduction.*
 
-# Kontera Technologies - Privacy Policy
+# Privacy Policy
 
-Effective date: February 12, 2005 
+**_Kontera Privacy Notice_**
 
-Kontera Technologies, Inc. ("Kontera") respects the privacy of visitors to our web site. Please read this privacy policy carefully so that you understand the ways in which we use and protect the information that we collect through our Web site located at www.Kontera.com (the "Web Site"). 
+Welcome to the Kontera Technologies, Inc. ("Kontera") web site at <http://www.kontera.com/> (the "Site").  Kontera values the privacy of our other customers and visitors of the Site (referred to individually as "User" and collectively as "Users"). 
 
-If you have any questions, concerns or complaints regarding this privacy policy or the privacy practices applicable to Kontera's operation of this Web Site, please contact us at: 
+This Privacy Notice describes what information we gather from you, how we use that information, and what we do to protect it.  By using the Site, you expressly consent to the information handling practices described in this notice. 
 
-**Telephone: 415-558-7782**
+This Privacy Notice is incorporated into and is subject to the Kontera [**_Terms_** ** _of Service_**](http://www.kontera.com/kontera-terms-of-service/).  Your use of the Site and any personal information you provide on the Site are subject to the terms of this Privacy Notice and Kontera's [**_Terms of Service_**](http://www.kontera.com/kontera-terms-of-service/) **.** . 
 
-You may also write to:   
-**Attention: Privacy Policy  
-Kontera Technologies, Inc.   
-1550 Bryant St. Suite 975   
-San Francisco, U.S.A. **
+**The Information Kontera Collects** : 
 
-  * How does Kontera value online privacy?
-  * What types of information does the Kontera Web Site collect and how is it used?
-  * How is information shared with third parties?
-  * How does Kontera protect my personally-identifiable information?
-  * How can I review, change or delete my information?
-  * How does Kontera protect children's privacy?
-  * How will Kontera notify users of changes to this privacy policy?
+  * **         User-provided Information**:  You may provide to Kontera what is generally called "personally identifiable" information (such as your name, email address, postal mailing address, home/mobile telephone number, credit card number and billing information) when using the Site. For example, if you are an advertiser or web publisher and use the Site to request a contact from our sales or business development department, we will ask for your name, email address and other contact information so that a Kontera representative can respond to your inquiry.
+  * **         "Cookies" Information**:  When you visit the Site, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer.  Kontera may use both session cookies and persistent cookies. A session cookie disappears after you close your browser.  A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site.  Persistent cookies can be removed.  Please review your web browser "Help" file to learn the proper way to modify your cookie settings.
+  * **         "Automatically Collected" Information**:  When you visit the Site, we may automatically record certain information from your web browser by using different types of technology, including "clear gifs" or "web beacons."  This "automatically collected" information may include Internet Protocol address ("IP Address"), web browser type, the web pages or sites that you visit just before or just after the Site, the pages you view on the Site, and the dates and times that you visit the Site. 
 
 
 
-**How Does Kontera Value Online Privacy**   
-Online privacy is very important to us and to our business. Therefore, Kontera adheres to the following strict guidelines to protect your online privacy: 
+**The Way Kontera Uses Information** : 
 
-  * Kontera will NOT collect any personally-identifiable information about you except for information that you voluntarily provide through the contact us or feedback forms. 
-  * Kontera will NOT create any browsing profile for you or your individual machine. 
-  * Kontera will NOT engage in any sort of user profiling. 
-  * Kontera will NOT download and install software on you machine without your consent. 
+  *       Kontera uses the information you provide or that we collect to operate, maintain, enhance, and provide all of the features, information and services found on the Site.  We will use your email address, without further consent, for administrative purposes, for customer service purposes, to address intellectual property infringement, rights of privacy, or defamation issues.
+  *       Kontera uses all of the information that we collect to understand and analyze the usage trends and preferences of our Users, to improve the way the Site work and look, and to create new features and functionality. 
+  *       Kontera may use "automatically collected" information and "cookies" information to:  (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide customized third-party advertisements, content, and information; and (c) monitor aggregate site usage metrics such as total number of visitors and pages viewed. 
+  *       Kontera will not use your email address or other personally identifiable information to send promotional messages unless you have opted in or otherwise requested that Kontera contact you about the Kontera services or other information **.**
+
+******When Kontera Discloses Information** : 
 
 
 
-**The Type of Information Kontera Collects Through this Web Site and How is it Used**
+  * Kontera does not share your personally identifiable information with other organizations for their _marketing_ or _promotional_ uses without your express consent.  ****
 
-**Personally-Identifiable Information**   
-The only personally-identifiable information we collect is information that our visitors voluntarily provide to us when using our Web Site. For example, if you are an advertiser or web publisher and use our Web Site to request a contact from our sales or business development department, we will ask for your name, email address and other contact information so that a Kontera representative can respond to your inquiry. Consumers and partners can use our Web Site to request technical support or other information from Kontera or to comment about any aspect of our operations. We use the contact information they provide to respond to their inquiries. We will not sell or rent to third parties information you may choose to provide through our online information request forms or use such information for purposes unrelated to your request for information or comments. If you want to contact Kontera but do not wish to reveal information about yourself online, you can write to us at:   
-Kontera Technologies, Inc.   
-1550 Bryant St. Suite 975   
-San Francisco, CA 94103 
 
-**Browser Level Information and IP Addresses**   
-Our Web servers automatically collect limited information about your computer configuration when you visit our Web Site, including the type of browser software you use, the operating system you are running and your IP address. Your IP address is a numerical address that is used by all computers connected to the Internet to identify your computer so that data (such as the Web pages you request) can be sent to you. Your IP address does not tell us who you are. We use your IP address to deliver our Web pages to you on request. On occasion, we may also use your IP address for troubleshooting purposes to help diagnose problems with our server. The browser-level information we collect is stored in an anonymous form and is not linked to your personally-identifiable information. We use the browser level information we collect to make our Web Site as useful as we can for as many users as possible. 
+  * Kontera discloses automatically collected and other aggregate non-personally-identifiable information with interested third parties to assist such parties in understanding the usage, viewing, and demographic patterns for certain programs, content, services, advertisements, promotions, and/or functionality on the Site. 
 
-**Cookies**   
-A standard feature of browser software enables Web site publishers to place a small text file called a "cookie" on a visitor's hard drive. Our cookies don't reveal personal information; the only personal information a cookie can contain is information that you voluntarily supply. We use a cookie to remember the user name and login ID entered by advertisers and partners to access the external reporting system operated on a secure area of our Web Site. A cookie is inserted for this purpose only if the advertiser or partner has selected the "remember my password" feature when he or she entered a password and login ID. We also use a cookie to authenticate users' login information as they navigate the reporting system pages of our Web Site. We do not use cookies to collect any personally-identifiable information and we do not track any of your activity on the Internet outside of our Web Site. For example, we do not use cookies to track which Web sites our visitors come from when they enter our site or which sites they go to when they leave our site. 
 
-**Disclosure of Information to Third Parties**
+  * Kontera works with some authorized service providers to provide website hosting and maintenance as well as other services for us.  Kontera requires these services providers to safeguard personally identifiable information you provide to us. To the extent it is necessary for these service providers to complete their contractual obligations to Kontera, these third parties may have access to or process your personally identifiable information. Kontera generally limits their use of your personally identifiable information to the purpose for which it was shared. 
 
-**Sales Inquiries**   
-If you use our Web Site to request information about purchasing advertising services from Kontera, we may forward your inquiry and contact information to one of our third-party resellers if we believe that the reseller would be in the best position to assist you. Our resellers are not authorized to use your contact information for any reason other than to respond to your request for information about Kontera's services. 
 
-**Service Providers**   
-From time to time, Kontera may contract with third-party service providers to help us operate our site, conduct other aspects of our business, or improve the services that we provide to you. Some of these service providers may be given access to personally-identifiable information collected through this Web Site, but only if we deem such access to be necessary to perform the services that we request. In these circumstances, we will require our service providers to commit that they will not use the personally identifiable information they receive from Kontera for any purposes other than those dictated by us. 
+  * Kontera may also disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant.  In some cases, we may make such disclosures without first providing notice to Users. 
 
-**Other Disclosures**   
-We reserve the right to release any information about our visitors when we form a good faith belief that such a release is necessary to comply with the law, subpoenas or other valid legal process, to cooperate with law enforcement agencies, to report or collect debts owed, or to protect the rights, property or safety of Kontera, our Web Site visitors, or others. As our business grows, we may buy or sell various assets. In the event that Kontera or substantially all of our assets are acquired by another company, the information that we collect from our Web Site visitors may be included among the transferred assets. 
 
-**Security of Personally-Identifiable Information**   
-We have taken careful measures to prevent the loss, misuse or alteration of any personally identifiable information collected through this Web Site. Information gathered by Kontera through our Web Site is stored within Kontera-controlled databases on servers maintained in protected environments. However, no physical or electronic security system is perfect and we therefore cannot guarantee the security of our servers or databases or guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. 
+  * Kontera also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect Kontera from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Site; or to protect the rights, property, or personal safety of Kontera, our Users, or others. 
 
-**Reviewing, Updating and Deleting Your Information**
 
-If you provide any personally identifiable information to us through this Web Site, you will have the opportunity to review, update, or delete your information at any time (except, of course, with respect to information that we do not store). To exercise these choices, please email your request or instructions through our [contact us form](https://web.archive.org/web/20060425081953id_/http%3A//kontera.com/contact.asp). 
 
-**Protecting the Privacy of Children**   
-Children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses and phone numbers) over the Internet, to Kontera or to anyone else. Our Web Site is not directed to children under the age of 13 and Kontera will not knowingly collect personally-identifying information from anyone under the age of 13. If you are under 13, please don't provide any information about yourself while visiting this Web Site. 
+ 
 
-**Notification of Changes to This Privacy Policy**   
-Kontera reserves the right to make changes to this privacy policy at any time. If Kontera chooses to make material changes in the future, we will post a notice of these changes on our Web Site. If the changes include the addition of rights to use or disclose previously-collected personally-identifiable information in a manner that was not described in this privacy policy at the time of collection through this Web Site, we will notify you using the email address or other contact information you have provided. In these circumstances, you will have an opportunity to delete your information or otherwise exercise a choice as to whether we use or disclose your information in this different manner. By using our Web Site, you agree that your visit and any dispute over privacy is governed by this Privacy Policy. 
+**Your Choices**
 
-**Links to other Sites**   
-Our Web Site may contain links to other sites operated by third parties. Please be aware that we are not responsible for the content of those sites or for the privacy practices of their operators. We encourage you to read the privacy statements of each site that collects information from you. This privacy policy applies solely to information collected by Kontera on our Web Site, [http://www.Kontera.com](http://www.kontera.com/)
+You may, of course, decline to share your personally-identifiable information with Kontera, in which case Kontera will not be able to provide to you some of the features and functionality found on the Site.
+
+For publishers and advertisers, to protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information.  You are responsible for maintaining the secrecy of your unique password and account information at all times. 
+
+**Our Commitment to Children's Privacy:**  
+Protecting the privacy of young children is especially important.  For that reason, Kontera does not knowingly collect or maintain personally identifiable information on Site from persons under 13 years-of-age, and no part of Site is directed to persons under 13.  If you are under 13 years of age, then please do not use or access Site at any time or in any manner.  If Kontera learns that personally-identifiable information of persons less than 13-years-of-age has been collected on Kontera without verifiable parental consent, then Kontera will take the appropriate steps to delete this information.  If you are a parent or guardian and discover that your child under the age of 13 has obtained a Site account, then you may alert Kontera at [support@kontera.com](mailto:support@kontera.com) and request that Kontera delete that child's personal information from its systems. 
+
+Parents, the following are some resources that may help you in monitoring and limiting your children's access to certain types of material on the Internet.  While Kontera does not endorse these products, we provide information about them as a public service to our Users. 
+
+  *      "[ ** _OnGuard Online_**](http://onguardonline.gov/socialnetworking.html "OnGuard Online") ," maintained by the Federal Trade Commission.  <http://onguardonline.gov/socialnetworking.html>
+  *       Control Kids:    <http://www.controlkids.com/>
+  *       Cyber Sitter:     <http://www.solidoak.com/>
+  *       Net Nanny:       <http://www.netnanny.com/>
+
+
+
+**Our Commitment to Data Security** :  
+Kontera uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information.  We cannot, however, ensure or warrant the security of any information you transmit to Kontera, and you do so at your own risk.  Once we receive your transmission of information, Kontera makes commercially reasonable efforts to ensure the security of our systems.  However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+
+If Kontera learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Kontera may post a notice on the Site if a security breach occurs.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.  To receive a free written notice of a security breach you should notify us at [support@kontera.com](mailto:support@kontera.com). 
+
+**International Visitors** :  
+The Site is hosted in the United States and is intended solely for visitors located within the United States.  If you nonetheless choose to use the Site from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your personally identifiable information outside of those regions to the United States and by providing your personally identifiable information on the Site you consent to that transfer. 
+
+**In the Event of Merger or Sale** :  
+In the event that Kontera is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of such merger, acquisition, sale, or other change of control. 
+
+**Changes and Updates to this Privacy Notice** :  
+This Privacy Notice may be revised periodically without further notice to you and this will be reflected by a "last modified" date below.  Please revisit this page to stay aware of any changes.  In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received that personal information.  Your continued use of the Site constitutes your agreement to this Privacy Notice and any future revisions. 
+
+For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing such revisions with respect to such information. 
+
+**Effective Date, Date Last Modified** :  
+This Privacy Notice is effective as of December, 2007. 
+
+This Privacy Notice was last modified of December, 2007. 
+
+**Kontera Contact Information** : 
+
+Please contact Kontera with any questions or comments about this Privacy Notice, your personal information, our third-party disclosure practices, or your consent choices at:  1550 Bryant St. Suite 975, San Francisco, California 94103, U.S.A. and email: [support@kontera.com](mailto:support@kontera.com).   
