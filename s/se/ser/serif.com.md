@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208054900id_/http%3A//www.serif.com/company/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512020841id_/http%3A//www.serif.com/company/privacypolicy.asp) for the most accurate reproduction.*
 
 # Serif Privacy Policy
 
@@ -136,7 +136,7 @@ Contact Information
 
 Serif welcomes your comments regarding this Statement of Privacy, please [contact us](https://web.archive.org/contactus.asp) or send your request by postal mail.
 
-Data Protection Manager (SAR), Serif (Europe) Ltd, The Software Centre, 12 Wilford Ind Est, Nottingham NG11 7EP. 
+Data Protection Manager, Serif, Inc., The Software Center, 13 Columbia Drive, Suite 5, Amherst, NH 03031. 
 
 Thank you for your trust.
 
