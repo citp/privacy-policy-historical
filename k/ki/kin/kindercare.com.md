@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kindercare.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221081445id_/http%3A//www.kindercare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kindercare.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512092432id_/http%3A//www.kindercare.com/privacy) for the most accurate reproduction.*
 
 # KinderCare : Privacy Policy
 
@@ -52,5 +52,4 @@ If you have any further questions, comments, or concerns regarding this privacy 
 Webmaster  
 Knowledge Learning Corporation  
 650 NE Holladay Street, Suite 1400  
-PO Box 6760  
-Portland, Oregon 97228
+Portland, Oregon 97232
