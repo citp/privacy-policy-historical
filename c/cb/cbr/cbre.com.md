@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the cbre.com privacy policy that was archived on 2007-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070806100711id_/http%3A//www.cbre.com/Global/About%2BUs/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbre.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512021914id_/http%3A//www.cbre.com/en/about%2Bus/legal/privacypolicy) for the most accurate reproduction.*
 
 # CB Richard Ellis - Privacy Policy
 
-Effective Date:   January 10, 2006
-
+**Effective Date:    January 10, 2006**  
 Please Read Carefully
 
 This is the privacy policy (“Privacy Policy”), effective as of January 10, 2006, for the Web site available at [http://www.cbre.com](http://www.cbre.com/) (the “Site”) made available by CB Richard Ellis, Inc., the legal owner of the Site and its affiliated companies (“CB Richard Ellis”, “we”, “us” or “our”).  This Privacy Policy sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of the Site.  Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy. 
 
-This Privacy Policy is incorporated into, and part of, the Terms and Conditions located at <http://www.cbre.com/Global/About+Us/Disclaimer+-+Terms+of+Use.htm>, which govern your use of the Site in general.
+This Privacy Policy is incorporated into, and part of, the Terms and Conditions located at [http://www.cbre.com/en/About+Us/Legal/Disclaimer.htm](http://www.cbre.com/EN/About+Us/Legal/Disclaimer.htm), which govern your use of the Site in general.
 
 We recognize the importance of protecting your privacy and our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us, and to assist you in making informed decisions when using the Site.  This Privacy Policy will be continuously assessed against new technologies, business practices and our clients’ needs.  As we update and diversify our products and services, this Privacy Policy may evolve.  Please check this page for updates periodically.  We will try to post any changes to this Privacy Policy before they become effective.  If we make any material changes to this Privacy Policy, we will notify you here, by email or by means of a notice on our Site’s home page. 
 
-If you have questions or concerns regarding this Privacy Policy or wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at [WebMarketing@cbre.com](mailto:webmarketing@cbre.com) or by writing to us at Director of Web Marketing, CB Richard Ellis, Inc., 1420 Fifth Avenue, Suite 1700, Seattle, WA  98101.
+If you have questions or concerns regarding this Privacy Policy or wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at [WebMarketing@cbre.com](mailto:WebMarketing@cbre.com) or by writing to us at Director of Web Marketing, CB Richard Ellis, Inc., 1420 Fifth Avenue, Suite 1700, Seattle, WA  98101.
 
 Please note: by using or registering with our Site or by providing personal information, you agree to the terms of this Privacy Policy.
 
@@ -59,10 +58,10 @@ Although we will take (and require our third-party providers to take) commercial
 
   **Modification of your choices and preferences**
 
-**Opt-out right:**   If you would like to opt out of any of our marketing programs, or wish to withdraw your consent to us contacting you via your e-mail, fax or phone number, or if your personal details change, please contact us through one of the following: (i) by telephone, at (206) 328-6135 and ask for our Director of Web Marketing; (ii) by facsimile, at (206) 292-6033; (iii) by email, by following the Opt-Out instruction contained in the body of any marketing e-mail from us or by sending us an e-mail at [WebMarketing@cbre.com](mailto:wWebMarketing@cbre.com) by including a copy of the e-mail you have received and by typing “Remove” in the subject line of your e-mail; or (iv) by mail, care of Director of Web Marketing, CB Richard Ellis, Inc., 1420 Fifth Avenue, Suite 1700, Seattle, WA  98101.
+**Opt-out right:**   If you would like to opt out of any of our marketing programs, or wish to withdraw your consent to us contacting you via your e-mail, fax or phone number, or if your personal details change, please contact us through one of the following: (i) by telephone, at (206) 328-6135 and ask for our Director of Web Marketing; (ii) by facsimile, at (206) 292-6033; (iii) by email, by following the Opt-Out instruction contained in the body of any marketing e-mail from us or by sending us an e-mail at [WebMarketing@cbre.com](mailto:WebMarketing@cbre.com) by including a copy of the e-mail you have received and by typing “Remove” in the subject line of your e-mail; or (iv) by mail, care of Director of Web Marketing, CB Richard Ellis, Inc., 1420 Fifth Avenue, Suite 1700, Seattle, WA  98101.
 
 Your election not to receive newsletters or promotional and marketing correspondence from us will not: (a) preclude us from corresponding with you, by email or otherwise, regarding your existing or past relationship with us, and (b) preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the Site. 
 
 **Your Acceptance of this Privacy Policy:**   By using this Site, you signify your acceptance of our Privacy Policy.  If you do not agree to this Privacy Policy, please do not use our Site.  We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time so visitors are encouraged to review this Privacy Policy from time to time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
 
-© 2007 CB Richard Ellis, Inc. 
+© 2007 CB Richard Ellis, Inc.
