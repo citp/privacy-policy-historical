@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the infospaceinc.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009053215id_/http%3A//www.infospaceinc.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infospaceinc.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512093214id_/http%3A//www.infospaceinc.com/privacy.aspx) for the most accurate reproduction.*
 
 # InfoSpace: Privacy Policy
+
+## Privacy Policy (Updated June 2007)
 
 **As a diversified technology and services company, InfoSpace, Inc. and its subsidiaries (collectively, "InfoSpace") recognize privacy as an important issue and have prepared this Privacy Policy to inform you of our data collection and use practices and confirm our commitment to keep your personal information secure.**
 
@@ -35,7 +37,7 @@ In general, we collect and use both anonymous and personal user information and 
 
 ### Cookies
 
-Whe you visit an InfoSpace Site or use certain InfoSpace Properties, one or more cookies, web beacons or action tags may be sent to your computer or otherwise used in connection with your visit or use. A cookie is a small data file that is sent to your computer by a Web site when you visit. When stored on your computer, a cookie uniquely identifies your browser and records your preferences and other data about your visit. Cookies are also sometimes used to complete transactions requested by users. Web beacons, also known as web bugs, are small, graphic images that transparently reside on a Web site or other web-based service and are designed to allow the Web site or service owner to monitor who is visiting the Web site or using the service. Action tags assist in delivering cookies and embed a random identifying number on a user's browser. We use both session cookies and persistent cookies. For a session cookie, once you close your browser the cookie simply terminates. A persistent cookie stays stored on your hard drive for an extended period of time. You can change the settings on your browser to refuse or notify you prior to accepting cookies and to remove them from your computer. However, some features, products and services may not function properly without cookies. 
+When you visit an InfoSpace Site or use certain InfoSpace Properties, one or more cookies, web beacons or action tags may be sent to your computer or otherwise used in connection with your visit or use. A cookie is a small data file that is sent to your computer by a Web site when you visit. When stored on your computer, a cookie uniquely identifies your browser and records your preferences and other data about your visit. Cookies are also sometimes used to complete transactions requested by users. Web beacons, also known as web bugs, are small, graphic images that transparently reside on a Web site or other web-based service and are designed to allow the Web site or service owner to monitor who is visiting the Web site or using the service. Action tags assist in delivering cookies and embed a random identifying number on a user's browser. We use both session cookies and persistent cookies. For a session cookie, once you close your browser the cookie simply terminates. A persistent cookie stays stored on your hard drive for an extended period of time. You can change the settings on your browser to refuse or notify you prior to accepting cookies and to remove them from your computer. However, some features, products and services may not function properly without cookies. 
 
 ### InfoSpace Corporate Web site
 
@@ -121,4 +123,4 @@ You may update or delete your White Pages listing by following the instructions 
 
 ### VIA EMAIL CONTACT FORM:
 
-[Email contact form](https://web.archive.org/web/20071009053215id_/http%3A//www.infospaceinc.com/emailus.aspx)
+[Email contact form](https://infospaceinc.com/emailus.aspx)
