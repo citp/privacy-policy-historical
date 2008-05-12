@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gotvape.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012085626id_/http%3A//www.gotvape.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotvape.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512061435id_/http%3A//www.gotvape.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Marijuana Disclaimer @ GOTVAPE.com
+# Privacy Policy @ GOTVAPE.com
 
 | 
 
