@@ -1,0 +1,22 @@
+> *The following text is extracted and transformed from the downloadjunction.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512210745id_/http%3A//www.downloadjunction.com/privacy_policy) for the most accurate reproduction.*
+
+# Download Junction - Download Software, Freeware, Shareware, Games
+
+Privacy Policy of Download Junction
+
+ _ **Our Commitment To Privacy:**_ Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+
+_**Visitor Tracking:**_ Computer Tracking of Identifiable Information our computer is set up to track information about the visitors to Download Junction, our records will not distribute personal information about it's visitors. It does recognize the home server of visitors, ip address, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our sites. This information is used only for internal purposes by Download Junction technical support staff. Our computer also recognizes the site where a visitor "clicked-to-check" on the Download Junction, but we cannot identify the visitor or the visitor's address. In addition, our web sites track information about the visits to our web sites. For example, we compile statistics that show the daily number of visitors to our sites, the daily requests we receive for particular files on our web sites, and what countries those requests come from. These aggregated statistics are used internally to better provide services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information.
+
+_**Use of Cookies and Web Beacons:**_   We use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes.
+
+_**Basic Confidentiality Policy:**_ It is Download Junction policy that personal information, such as your name, postal and e-mail address or telephone number, is private and confidential. Accordingly, the personal information you provide is stored in a secure location, is accessible only by designated staff, and is used only for the purposes for which you provide the information (such as to reply to your request or to handle your complaint). For example, when you file a complaint about a software, online business, the personal information you provide will be used to process your complaint. If you also indicate on our site that you would like to receive information about other products and services, such as forum membership, developer account, your personal information will be added to appropriate Download Junction mailing lists. You can indicate your desire when you send us e-mail. If at any time you change your mind and would like to add or remove your name from any of mailing list, or correct your personal information, please contact us.
+
+_**No Release of Information to Third Parties:**_ Personal information will not be released to third parties except to further the purpose for which you provide the information, such as sending your complaint to the company for action, or if release is required by law or is pertinent to judicial or governmental investigations or proceedings. There are no other circumstances under which we will provide or sell personal information to third parties. 
+
+_**Modifications to Privacy Policy:**_   We reserve the right to change this policy statement at any time without prior notice.
+
+**_How To Contact Us:_** Should you have other questions or concerns about these privacy policies, please feel free to 
+
+[ contact us](http://www.downloadjunction.com/contact_us)  
+ 
