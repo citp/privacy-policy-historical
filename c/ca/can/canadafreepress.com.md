@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadafreepress.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214035842id_/http%3A//www.canadafreepress.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadafreepress.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512034843id_/http%3A//canadafreepress.com/privacy.htm) for the most accurate reproduction.*
 
 # CFP Privacy Statement
 
@@ -31,9 +31,3 @@ If you have questions about this privacy policy or an inquiry about any informat
 Privacy Officer
 
 Canada Free Press
-
-49 Elm St., Suite 200
-
-Toronto, Ontario, M5G 1H1
-
-Canada
