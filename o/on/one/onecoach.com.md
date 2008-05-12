@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the onecoach.com privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022110240id_/http%3A//www.onecoach.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecoach.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512080811id_/http%3A//onecoach.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D47%26Itemid%3D142) for the most accurate reproduction.*
 
-# OneCoach Privacy Policy - Executive Coaching
+# OneCoach | OneCoach Online Privacy Policy
 
-OneCoach Online Privacy Policy
-
+OneCoach Online Privacy Policy   
+  
 OneCoach has established this Privacy Policy to explain how it protects and manages the personal information that it collects from you online. 
 
 **1.  Consent for Collection, Use and Disclosure** 
