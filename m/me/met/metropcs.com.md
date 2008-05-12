@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2007-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071123160001id_/http%3A//www.metropcs.com/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513004309id_/http%3A//www.metropcs.com/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # MetroPCS | Privacy Policy
 
@@ -25,7 +25,7 @@ MetroPCS will not use or disclose Personal Information, other than as set forth 
 We may collect, use, and disclose your Personal Information for the following reasons: with your consent; 
 
   * to provide you access to the Service or to initiate, render, bill or collect for our products and services or to complete a transaction;
-  * to market or provide handsets, related equipment, additional services, or information services to you; 
+  * to market or provide phones, related equipment, additional services, or information services to you; 
   * to provide services necessary to, or used in, the provision of our services, including the publishing of directories; 
   * to protect our rights or property or to protect customers or other telecommunications carriers from fraudulent, abusive, or unlawful use of, or subscription to, our services;
   * to provide information regarding products or services, referrals, or administrative services to you when you contact us and approve of our use of the information during the course of the call; 
@@ -57,7 +57,7 @@ Should you choose to do so, you can opt-out of receiving third party marketing c
 
 
 
-by writing to: MetroPCS, P.O. Box 601119, Dallas, Texas, 75360-1119, Attention: Privacy Office. Your request to opt out of disclosure of such information will continue to apply until you notify us that you would like to revoke or limit it. Your decision to opt out will not affect our provision of Service to you. And, you will continue to receive invoices, customer service-related notifications, technical or network-related notifications, MetroPCS product and service offers (including those related to your Service, handsets, information services, or related equipment) that we believe would be of interest to you, and information from us related to the Service electronically or otherwise. 
+by writing to: MetroPCS, P.O. Box 601119, Dallas, Texas, 75360-1119, Attention: Privacy Office. Your request to opt out of disclosure of such information will continue to apply until you notify us that you would like to revoke or limit it. Your decision to opt out will not affect our provision of Service to you. And, you will continue to receive invoices, customer service-related notifications, technical or network-related notifications, MetroPCS product and service offers (including those related to your Service, phones, information services, or related equipment) that we believe would be of interest to you, and information from us related to the Service electronically or otherwise. 
 
 ### Additional Rights Regarding CPNI
 
