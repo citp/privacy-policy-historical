@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoprunner.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204191643id_/http%3A//www.shoprunner.com/privacystmt.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoprunner.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512145322id_/http%3A//www.shoprunner.com/privacystmt.jsp) for the most accurate reproduction.*
 
 # Shoprunner : Online trading easier than you ever imagined.
 
