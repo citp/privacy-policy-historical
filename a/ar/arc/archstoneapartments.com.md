@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the archstoneapartments.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020082106id_/http%3A//www.archstoneapartments.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archstoneapartments.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513001632id_/http%3A//www.archstoneapartments.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 **How Our Privacy Policy Applies  
-** This Privacy Policy explains how we collect, use, and disclose the Personal Information You may provide to us through this Site and all sites of Archstone-Smith (collectively, the “Site”), and other Personal Information that you provide to us offline or indirectly through third party advertiser sites. This statement may be revised from time to time, so please revisit this page to remain fully informed of our commitment (see “Consent” Section below).
+** This Privacy Policy explains how we collect, use, and disclose the Personal Information You may provide to us through this Site and all sites of Archstone (collectively, the “Site”), and other Personal Information that you provide to us offline or indirectly through third party advertiser sites. This statement may be revised from time to time, so please revisit this page to remain fully informed of our commitment (see “Consent” Section below).
 
 Your provision of Personal Information to us indicates Your consent to this Privacy Policy as modified from time to time. 
 
 **Types of Personal Information We Collect  
 ** In this Privacy Policy, "Personal Information" means any information by which You can be personally identified, and includes Your name and address, age or date of birth, Your electronic mail address, number of children, Your occupation, employment information, telephone number, education, the kind of service provided to You, Your social security number, real property purchased, leased, or rented, bank account number, debit card number, bank or investment account, debit card, or credit card balance, payment history, and information pertaining to Your creditworthiness, assets, income or liabilities.
 
-  If You are applying for employment at Archstone-Smith, these additional categories of information will also be deemed to be Personal Information:
+  If You are applying for employment at Archstone, these additional categories of information will also be deemed to be Personal Information:
 
   * Race 
   * Credit checks 
@@ -32,14 +32,14 @@ We intend to implement this Privacy Policy in a manner consistent with applicabl
   * To contact you otherwise when necessary; 
   * For the specific purpose for which it was volunteered (for example, to receive notice from us, etc.); 
   * To track our visitors' use of the Site for internal market research; 
-  * To improve the Site and the services Archstone-Smith promotes or provides through the Site or through other means; 
+  * To improve the Site and the services Archstone promotes or provides through the Site or through other means; 
   * For special promotions, contests or survey registrations; 
   * To customize the content and/or layout of our Site for each individual visitor; 
   * To ask for Your participation in brief surveys; 
   * To complete any purchases or other transactions you may perform at the Site; 
   * To notify visitors about updates to the Sites or services; 
   * To notify You about promotions, special offers, etc., regarding products and services provided by us or our affiliates or partners; 
-  * To be provided to third party service providers on behalf of Archstone-Smith; 
+  * To be provided to third party service providers on behalf of Archstone; 
   * As required by law or regulation, or as requested by government authorities; 
   * In connection with an acquisition, merger, sale or other transfer of all or any portion of our business; and 
   * For our internal business purposes.
@@ -63,13 +63,13 @@ While our security measures are intended to protect your Personal Information, t
 ** Our Site may offer links to other Web sites which may have information policies and practices different from ours. We do not control and are not responsible for the privacy policies or practices or the content of any third party Web sites.
 
 **How To Contact Us  
-** Should You have other questions or concerns about these privacy policies, please call us at 1-877-272-4786 or send us an email at [customers@archstonesmith.com](mailto:customers@archstonesmith.com).
+** Should You have other questions or concerns about these privacy policies, please send us an email at [privacy@archstonemail.com](mailto:privacy@archstonemail.com).  **Please note: Only inquires regarding Archstone's privacy can be answered via this address.**
 
 **Consent  
-** By using this Site, You consent to our collection and use of Personal Information. Archstone-Smith reserves the right, at its discretion, to change, modify, add or remove portions of this Privacy Policy from time to time. The amended Privacy Policy will be effective upon posting on the Site.  Your continued use of the Site and/or the services means that You agree to the revised Privacy Policy and our use of Your Personal Information in accordance with the revised policy.  Archstone-Smith may, but is under no obligation to, provide You notice of such modifications to this Privacy Policy via email or other communication.
+** By using this Site, You consent to our collection and use of Personal Information. Archstone reserves the right, at its discretion, to change, modify, add or remove portions of this Privacy Policy from time to time. The amended Privacy Policy will be effective upon posting on the Site.  Your continued use of the Site and/or the services means that You agree to the revised Privacy Policy and our use of Your Personal Information in accordance with the revised policy.  Archstone may, but is under no obligation to, provide You notice of such modifications to this Privacy Policy via email or other communication.
 
 **Email Consent and Opt-Out  
-** Your provision of Personal Information through any of our resident portal Sites (currently, myArchstone.com, mySmithAdvantage.com and other similar Sites) constitutes Your affirmative consent that we may contact you by email to provide you with information and notices relating to the property where you reside, and various services available to you at or through that property.
+** Your provision of Personal Information through any of our resident portal Sites (currently, myArchstone.com) constitutes Your affirmative consent that we may contact you by email to provide you with information and notices relating to the property where you reside, and various services available to you at or through that property.
 
 You may choose to opt out of receiving future commercial email messages from us.  Each mass commercial email sent by us contains a link with instructions on how to remove yourself from our email list. Please note that if you are a resident of an Archstone community and you opt out of receiving commercial email from us, you will continue to receive email from us regarding operational issues surrounding your apartment, your lease, and/or your community.
 
