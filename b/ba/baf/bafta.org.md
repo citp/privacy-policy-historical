@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bafta.org privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103012538id_/http%3A//www.bafta.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bafta.org privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512054636id_/http%3A//www.bafta.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Bafta Home - The BAFTA site
 
@@ -13,9 +13,9 @@ Welcome to The British Academy of Film and Television Arts. The British Academy 
 
 2\. We request that all users read and accept the [terms and conditions](https://web.archive.org/terms-of-use.html) and this privacy policy. If you do not agree to the terms and conditions or the privacy policy applicable to this Site you must cease using the Site, or the one linked from it that is within our control, immediately.
 
-3\. We are fully registered under the Data Protection Act 1998 ("the Act") and to ensure we comply with all protection the Act affords to you we have set out below how we intend to utilise the information provided by you if you register via the Site homepage or Members' Area. Further information on the Act is on the internet at [www.ico.gov.uk](http://www.ico.gov.uk/).
+3\. We are fully registered under the Data Protection Act 1998 ("the Act") and to ensure we comply with all protection the Act affords to you we have set out below how we intend to utilise the information provided by you if you register via the Site homepage or Members' Area. Further information on the Act is on the internet at [www.ico.gov.uk](http://www.ico.gov.uk/) .
 
-4\. We will not share your personal information for marketing or any other purposes without your consent unless where required by law. If you have registered your interest with bafta.org and/or any of our associated companies, and thereby given your consent, you may be contacted with relevant promotions, offers or information that you have expressed an interest in or that might be of interest to you. IF YOU DO NOT WISH TO RECEIVE FURTHER UPDATES PLEASE EMAIL [web@bafta.org](mailto:web@bafta.org). We will always respect your privacy and any personal communication between you and ourselves. We will always comply with any data protection legislation currently in force.
+4\. We will not share your personal information for marketing or any other purposes without your consent unless where required by law. If you have registered your interest with bafta.org and/or any of our associated companies, and thereby given your consent, you may be contacted with relevant promotions, offers or information that you have expressed an interest in or that might be of interest to you. IF YOU DO NOT WISH TO RECEIVE FURTHER UPDATES PLEASE EMAIL [web@bafta.org](mailto:web@bafta.org) . We will always respect your privacy and any personal communication between you and ourselves. We will always comply with any data protection legislation currently in force.
 
 5\. When you access the site, we may ask you to give us your name, email address and other personal information that will be needed to supply the services to you. You can 'unsubscribe' at any time. We may use your personal data for contacting you via the phone or e-mail for support, notification of new products or new versions, general correspondence regarding the Site and correspondence which may relate you. If you would rather not receive future marketing emails from us once you have registered please inform us by e-mail at [adminprivacy@bafta.org]
 
@@ -94,7 +94,7 @@ Welcome to The British Academy of Film and Television Arts. The British Academy 
 #### DISABLING/ENABLING COOKIES  
 
 
-14\. You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. Find out how to disable/enable cookies by clicking on the "Manage Cookies" section of the [Interactive Advertising Bureau UK website](http://www.allaboutcookies.org/). 
+14\. You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. Find out how to disable/enable cookies by clicking on the "Manage Cookies" section of the [Interactive Advertising Bureau UK website](http://www.allaboutcookies.org/) . 
 
 #### FURTHER INFORMATION ON DATA PROTECTION AND PERSONAL PRIVACY  
 
@@ -105,11 +105,11 @@ Welcome to The British Academy of Film and Television Arts. The British Academy 
 195 Piccadilly  
 London, W1J 9LN 
 
-Information on the Data Protection Act 1998 is also on the Information Commissioner's web site at [www.ico.gov.uk](http://www.ico.gov.uk/). 
+Information on the Data Protection Act 1998 is also on the Information Commissioner's web site at [www.ico.gov.uk](http://www.ico.gov.uk/) . 
 
 BAFTA Management Limited is a company registered in England. Registered number 01163351
 
-[View our Accessibility Standards](https://web.archive.org/accessibility.html)  
+[View our Accessibility Standards](https://web.archive.org/accessibility.html)   
 [View our Terms of Use](https://web.archive.org/terms-of-use.html)
 
-Print 
+[Printable Version](https://web.archive.org/print/privacy.html)
