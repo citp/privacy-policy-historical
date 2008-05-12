@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kl-hotels.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231124719id_/http%3A//www.kl-hotels.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kl-hotels.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512035642id_/http%3A//www.kl-hotels.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
