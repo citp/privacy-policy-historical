@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sacred-destinations.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025010157id_/http%3A//www.sacred-destinations.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacred-destinations.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512073144id_/http%3A//www.sacred-destinations.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,9 +10,9 @@ If you give us personal information, for example your e-mail address when writin
 
 This privacy policy covers www.sacred-destinations.com only. Other sites we link to have their own privacy policies. 
 
-[Home](http://www.sacred-destinations.com/)    [Contact](http://www.sacred-destinations.com/contact.htm)    [About Us](http://www.sacred-destinations.com/about.htm)    [About Images](http://www.sacred-destinations.com/about-images.htm)    [Buy Framed Prints](http://sacreddestinations.imagekind.com/)    [Advertise on This Site](http://www.sacred-destinations.com/advertise.htm)    [Privacy Policy](http://www.sacred-destinations.com/privacy-policy.htm)    [Blog](http://sacred-destinations.blogspot.com/)   
-Except where indicated otherwise, all content and images © 2005-07 Sacred Destinations. All rights reserved.  
-Free content for your homepage or website! Subscribe to our [RSS feed](http://www.sacred-destinations.com/feed-info.htm) or [Google photo gadget](http://www.sacred-destinations.com/google-gadget.htm).   
+[Sacred Destinations Home](http://www.sacred-destinations.com/)    [Contact Us](http://www.sacred-destinations.com/contact.htm)    [About Us](http://www.sacred-destinations.com/about.htm)    [About Images](http://www.sacred-destinations.com/about-images.htm)    [Photo Prints](http://sacreddestinations.imagekind.com/)    [Advertise on This Site](http://www.sacred-destinations.com/advertise.htm)    [Blog](http://sacred-destinations.blogspot.com/)    [Spiritual Tours](http://www.sacred-destinations.com/spiritual-tours.htm)    [Privacy Policy](http://www.sacred-destinations.com/privacy-policy.htm)  
+Except where indicated otherwise, all content and images © 2005-08 Sacred Destinations. All rights reserved.  
+Free content for your Google homepage or website! Get our [photo gadget](http://www.sacred-destinations.com/google-gadget.htm).   
 Sacred Destinations is an online travel guide to **sacred sites** , pilgrimages, holy places, religious history, sacred places, historical religious sites, archaeological sites,   
 religious festivals, sacred sites, spiritual retreats, religious travel and spiritual journeys. We are a [Yahoo Pick](http://picks.yahoo.com/picks/i/20060322.html)!  
 Popular categories: [Ancient Mysteries](http://www.sacred-destinations.com/sacred-sites/ancient-mysteries.htm), [Biblical Sites](http://www.sacred-destinations.com/sacred-sites/biblical-sites.htm), [Cathedrals](http://www.sacred-destinations.com/sacred-sites/cathedrals.htm), [Catholic Shrines](http://www.sacred-destinations.com/sacred-sites/catholic-shrines.htm), [Dead on Display](http://www.sacred-destinations.com/sacred-sites/dead-on-display.htm), [Footsteps of Jesus](http://www.sacred-destinations.com/israel/footsteps-of-jesus.htm), [Luther Sites](http://www.sacred-destinations.com/germany/luther-trail.htm)
