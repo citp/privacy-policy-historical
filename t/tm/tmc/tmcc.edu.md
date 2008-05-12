@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2007-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071113034427id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512023803id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
 
 # Online Privacy Statement
+
+### Online Privacy Statement
 
 Truckee Meadows Community College policy respects the privacy of all Web site visitors to the extent permitted by law. This online privacy statement is intended to inform you of the ways in which this Web site collects information, the uses to which that information will be put, and the ways in which we will protect any information you choose to provide us.
 
@@ -36,4 +38,4 @@ In the course of using this Web site, you may choose to provide us with informat
 
 Truckee Meadows Community College Web site provide links to other World Wide Web sites or resources. We do not control these sites and resources, do not endorse them, and are not responsible for their availability, content, or delivery of services. In particular, external sites are not bound by the college's online privacy policy; they may have their own policies or none at all. Often you can tell you are leaving a TMCC Web site by noting the URL of the destination site.
 
-If you have questions about this site, its collection of information, and its online privacy statement, contact [webmaster@tmcc.edu](mailto:webmaster@tmcc.edu).
+If you have questions about this site, its collection of information, and its online privacy statement, please contact [webmaster@tmcc.edu](https://web.archive.org/web/contact/).
