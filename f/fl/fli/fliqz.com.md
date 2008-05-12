@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fliqz.com privacy policy that was archived on 2007-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071101044957id_/http%3A//www.fliqz.com/public/htm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fliqz.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512050829id_/http%3A//www.fliqz.com/public/aspx/Privacy.aspx) for the most accurate reproduction.*
 
-# Fliqz - We power video
+# Privacy: Fliqz - We power video
 
 Fliqz, Inc. ("Fliqz") values the privacy of our users, members, and others who use www.fliqz.com and any other web sites or services owned or operated by Fliqz (the "Fliqz Sites") (collectively or individually, "Users"). 
 
-This Privacy Notice is incorporated into and is subject to the Fliqz [ Terms of Use](https://web.archive.org/web/20071101044957id_/http%3A//www.fliqz.com/public/htm/terms.htm). Your use of the Fliqz Sites and any personal information you provide on the Fliqz Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20071101044957id_/http%3A//www.fliqz.com/public/htm/terms.htm). 
+This Privacy Notice is incorporated into and is subject to the Fliqz [ Terms of Use](https://web.archive.org/web/20080512050829id_/http%3A//www.fliqz.com/public/aspx/terms.aspx). Your use of the Fliqz Sites and any personal information you provide on the Fliqz Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20080512050829id_/http%3A//www.fliqz.com/public/aspx/terms.aspx). 
 
 Please note that any video, image, blog entry, or other content posted at the direction of Users onto the Fliqz Sites becomes publicly-available content, is not considered personally identifiable information subject to this Privacy Notice, and may be collected and used by others.
 
@@ -12,17 +12,17 @@ NOTE TO KIDS: THE FLIQZ SITES ARE NOT FOR PERSONS UNDER THE AGE OF 13\. _If you 
 
 _The Information Fliqz Collects:_
 
-  * User Provided Information: You may provide to Fliqz what is generally called "personally identifiable" information (such as your name and email address) when you choose to participate in the various activities offered on the Fliqz Sites such as uploading videos, posting messages and blogging, reviewing and rating videos, entering surveys and contests, and subscribing to newsletters. 
-  * "Cookies" Information: When you visit the Fliqz Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer. Fliqz uses both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Fliqz Sites. Persistent cookies can be removed, but each web browser is a little different, so please look through your browser "Help" file to learn the correct way to modify your cookies set-up. 
+  * User Provided Information: You may provide to Fliqz what is generally called "personally identifiable" information (such as your name and email address) when you choose to participate in the various activities offered on the Fliqz Sites such as uploading videos, posting messages and blogging, reviewing and rating videos, entering surveys and contests, and subscribing to newsletters.
+  * "Cookies" Information: When you visit the Fliqz Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer. Fliqz uses both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Fliqz Sites. Persistent cookies can be removed, but each web browser is a little different, so please look through your browser "Help" file to learn the correct way to modify your cookies set-up.
   * "Automatically Collected" Information: When you visit the Fliqz Sites or open one of our HTML emails, we may automatically record certain information from your web browser by using different types of technology, including "clear gifs" or "web beacons". This "automatically collected" information may include your Internet Protocol address ("IP Address"), web browser type, the web pages or sites that you visit just before or just after the Fliqz Sites, the pages you view on our site, and the dates and times that you visit the Fliqz Sites. 
 
 
 
 _The Way Fliqz Uses Information:_
 
-  1. Fliqz uses the information that we collect to operate, maintain, enhance, and provide to you all of the features and services found on the Fliqz Sites. We will use your email address, without further consent, for administrative purposes such as notifying you of major Fliqz Sites updates, for customer service, or to contact you regarding a video that you have posted. 
-  2. Fliqz uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Fliqz Sites work and look, and to create new features and functionality. 
-  3. Fliqz uses "automatically collected" information and "cookies" information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the Fliqz Sites; (b) provide custom, personalized advertisements, content, and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate usage metrics such as total number of visitors and pages viewed; and (e) track your entries, submissions, and status in any promotions, sweepstakes, and contests that we might host. 
+  1. Fliqz uses the information that we collect to operate, maintain, enhance, and provide to you all of the features and services found on the Fliqz Sites. We will use your email address, without further consent, for administrative purposes such as notifying you of major Fliqz Sites updates, for customer service, or to contact you regarding a video that you have posted.
+  2. Fliqz uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Fliqz Sites work and look, and to create new features and functionality.
+  3. Fliqz uses "automatically collected" information and "cookies" information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the Fliqz Sites; (b) provide custom, personalized advertisements, content, and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate usage metrics such as total number of visitors and pages viewed; and (e) track your entries, submissions, and status in any promotions, sweepstakes, and contests that we might host.
   4. Fliqz will not use your email address or other personally identifiable information to send promotional or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in. 
 
 
@@ -30,10 +30,10 @@ _The Way Fliqz Uses Information:_
 _When Fliqz Discloses Information:_
 
   * **Fliqz does not share your personally identifiable information with other organizations for their _marketing_ or _promotional_ uses without your express consent.**
-  * To provide web site hosting, maintenance and security, fulfill orders, offer certain functionality, improve our site, and to create new site features, we may disclose User information to affiliated companies or other businesses or persons. We require that these parties process such information in compliance with this Privacy Notice, we authorize only a limited use of such information, and we require these parties to use appropriate confidentiality measures. 
-  * Fliqz may share automatically collected and other aggregate non-personally-identifiable information with interested third parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Fliqz Sites. 
-  * Fliqz may disclose User information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant. We may make such disclosures without providing Users notice, in some cases. 
-  * Fliqz reserves the right to disclose User information that is necessary to enforce our [Terms of Use](https://web.archive.org/web/20071101044957id_/http%3A//www.fliqz.com/public/htm/terms.htm); take precautions against liability; protect Users from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Fliqz Sites; and to protect the rights, property, or personal safety of Fliqz, our members, or others. 
+  * To provide web site hosting, maintenance and security, fulfill orders, offer certain functionality, improve our site, and to create new site features, we may disclose User information to affiliated companies or other businesses or persons. We require that these parties process such information in compliance with this Privacy Notice, we authorize only a limited use of such information, and we require these parties to use appropriate confidentiality measures.
+  * Fliqz may share automatically collected and other aggregate non-personally-identifiable information with interested third parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Fliqz Sites.
+  * Fliqz may disclose User information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant. We may make such disclosures without providing Users notice, in some cases.
+  * Fliqz reserves the right to disclose User information that is necessary to enforce our [Terms of Use](https://web.archive.org/web/20080512050829id_/http%3A//www.fliqz.com/public/aspx/Terms.aspx); take precautions against liability; protect Users from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Fliqz Sites; and to protect the rights, property, or personal safety of Fliqz, our members, or others. 
 
 
 
@@ -55,7 +55,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 Fliqz uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Fliqz and you do so at your own risk. Once we receive your transmission of information, Fliqz makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
 
-If Fliqz learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Fliqz may post a notice on the Fliqz Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [privacy@fliqz.com](mailto:privacy@fliqz.com). 
+If Fliqz learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Fliqz may post a notice on the Fliqz Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [privacy@fliqz.com](mailto:privacy@fliqz.com "Privacy"). 
 
 _Our Commitment to Children's Privacy:_
 
@@ -63,7 +63,7 @@ Protecting the privacy of young children is especially important. For that reaso
 
 _Special Note to International Users:_
 
-The Fliqz Sites are hosted in the United States and are only intended for and directed to Users in the United States. If you are a User accessing the Fliqz Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Fliqz Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use,](https://web.archive.org/web/20071101044957id_/http%3A//www.fliqz.com/public/htm/terms.htm) you are transferring your personal information to the United States and you consent to that transfer.
+The Fliqz Sites are hosted in the United States and are only intended for and directed to Users in the United States. If you are a User accessing the Fliqz Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Fliqz Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use,](https://web.archive.org/web/20080512050829id_/http%3A//www.fliqz.com/public/aspx/terms.aspx) you are transferring your personal information to the United States and you consent to that transfer.
 
 _In the Event of Merger or Sale:_
 
@@ -84,5 +84,4 @@ _Fliqz Contact Information:_
 Please contact Fliqz with any questions or comments about this Privacy Notice, your personal information, our third-party disclosure practices, or your consent choices at [privacy@fliqz.com](mailto:privacy@fliqz.com). We will respond to your inquiry within 30 days of its receipt.  
 
 
-  
-
+If you would like to learn more about Fliqz or other Fliqz video solutions for your site, please contact our [sales team](mailto:websales@fliqz.com) or call 1-888-32FLIQZ (1-888-323-5479). 
