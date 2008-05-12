@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartertools.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024172258id_/http%3A//www.smartertools.com/Company/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertools.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512145212id_/http%3A//smartertools.com/Company/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | SmarterTools Inc.
+# Privacy Policy - SmarterTools
 
 This privacy policy has been created to show the integrity of SmarterTools and its level of commitment to the privacy of customer and non-customer information.
 
