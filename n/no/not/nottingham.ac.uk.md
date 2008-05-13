@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nottingham.ac.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211131431id_/http%3A//www.nottingham.ac.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nottingham.ac.uk privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513141830id_/http%3A//www.nottingham.ac.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy - - The University of Nottingham
 
@@ -29,7 +29,7 @@ We may use personal data collected from you via our website to manage and monito
 
 There may be circumstances in which we will ask you to agree to us disclosing your personal data to certain third parties, or transferring it outside the United Kingdom. However, we will not do this without your permission. For example, if you use Nottingham Alumni Online, we may ask you to agree to us transferring your personal data to countries outside the United Kingdom, including those which do not have equivalent data protection legislation to the 1998 Act. This is because some alumni are likely to be located outside the United Kingdom, and the global nature of the Internet is such that making personal data available to others on our website is likely to involve the transfer of this personal data to other countries. However, before transferring your personal data in these circumstances, we will do our best to ensure that appropriate arrangements are in place to protect your privacy.
 
-If at any time you want to withdraw any permission you have given us to provide you with services, or to use your personal data in any other way, please inform us by e-mail at [data.protection@nottingham.ac.uk](mailto:data.protection@nottingham.ac.uk) .
+If at any time you want to withdraw any permission you have given us to provide you with services, or to use your personal data in any other way, please inform us by e-mail at [data-protection@nottingham.ac.uk](mailto:data-protection@nottingham.ac.uk) .
 
  **Cookies**
 
@@ -51,4 +51,4 @@ Our website may contain links to other websites which are outside our control an
 
  **Comments or questions**
 
-Please send any comments or questions relating to this privacy policy to Natalie Copeland our Data Protection Officer at [data.protection@nottingham.ac.uk](mailto:data.protection@nottingham.ac.uk)
+Please send any comments or questions relating to this privacy policy to our Data Protection Officer at [data-protection@nottingham.ac.uk](mailto:data-protection@nottingham.ac.uk)
