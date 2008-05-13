@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnessworld.com privacy policy that was archived on 2007-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070904005412id_/http%3A//www.fitnessworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessworld.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513052650id_/http%3A//fitnessworld.com/privacy) for the most accurate reproduction.*
 
 # Fitness Management Magazine - Issues & Solutions for Fitness Facilities
 
