@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the bluechillies.com privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018025659id_/http%3A//www.bluechillies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluechillies.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513082734id_/http%3A//www.bluechillies.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy : BlueChillies.com
+# Your Freeware and Shareware Download Destination! : BlueChillies.com
 
-**PRIVACY POLICY**
+PRIVACY POLICY
 
-* * *
-
-  
 **BlueChillies.com** is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our Web site. In order to enhance your experience at our site we gather certain personal information about you that helps us customize our content to your tastes and preferences. Please read the following policy to understand how your personal information will be treated as you make full use of our Web site. This policy may change from time to time so please check back periodically. 
 
 **BlueChillies.com** collects and use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you. Your IP address is also used to gather broad demographic information, and for other purposes. 
@@ -23,4 +20,4 @@
 
 By using our Web site, you consent to the collection and use of your personal information by **BlueChillies.com** as outlined in this Privacy Policy. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site you can [contact us](https://web.archive.org/web/20071018025659id_/http%3A//www.bluechillies.com/contact.html). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site you can [contact us](https://web.archive.org/contact.html). 
