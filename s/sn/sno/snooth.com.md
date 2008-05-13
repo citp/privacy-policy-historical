@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snooth.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226200919id_/http%3A//www.snooth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snooth.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513133426id_/http%3A//www.snooth.com/privacy) for the most accurate reproduction.*
 
-# Snooth | Buy Wine Online - Wine Ratings - Gift Wine - Wine Recommendations
+# Snooth | Privacy
 
 Last Updated: September 14, 2007
 
@@ -30,4 +30,4 @@ Registered users can review the personal information they provided to Snooth and
 
 **Questions or Comments**
 
-[Contact us](http://www.snooth.com/contact). 
+[Contact us](http://www.snooth.com/contact/). 
