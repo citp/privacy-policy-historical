@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the works.com privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526235015id_/http%3A//www.works.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the works.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513201956id_/http%3A//www.works.com/policy.html) for the most accurate reproduction.*
 
 # Works
 
@@ -26,9 +26,6 @@ Our Site may contain links to other Web sites. We try to link only to other Web 
 
   
 You may review and update the information that you provide to us through our Site by contacting us as described below.
-
-  
-If you have any questions or comments about Works' privacy policy, need to review or update information you provide to us through the Site, or wish to opt out of receiving information from us, please use the "Contact" page on our Site.
 
   
 We reserve the right to change this privacy policy at any time with or without prior notice. We encourage you to check this privacy policy periodically to inform yourself of any changes.
