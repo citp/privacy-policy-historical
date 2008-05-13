@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenfreeway.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229084549id_/http%3A//www.teenfreeway.com/newdesignfiles/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenfreeway.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514015953id_/http%3A//www.teenfreeway.com/newdesignfiles/privacy.htm) for the most accurate reproduction.*
 
 # TeenFreeway - Privacy Policy
 
@@ -13,3 +13,5 @@ TeenFreeway is by definition for teenagers (i.e. 13 and older) -- and older folk
 The United States Children's Online Privacy Protection Act went into effect on April 21st, 2000. In order to comply with that law, TeenFreeway will not knowingly process any data that was submitted to us by a visitor who is under 13 years of age.  TeenFreeway is all about providing the best freebies on the web for teenagers.
 
 Please [Visit http://www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy) for information from the Federal Trade Commission about protecting children's online privacy.
+
+****
