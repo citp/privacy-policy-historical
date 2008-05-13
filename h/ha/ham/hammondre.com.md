@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hammondre.com privacy policy that was archived on 2007-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070721035731id_/http%3A//www.hammondre.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammondre.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513215551id_/http%3A//www.hammondre.com/privacy) for the most accurate reproduction.*
 
-# Boston Real Estate - Hammond GMAC Real Estate
+# Privacy Policy Hammond GMAC Real Estate
 
-**GMAC Home Services Online Privacy Statement** **Overview**
+**Overview**
 
 You take online privacy seriously and so does GMAC Home Services. This statement is one way of sustaining your trust in our company, our products and our services. Our privacy statement describes how we collect, protect and use information about you during your visit on our web site.
 
