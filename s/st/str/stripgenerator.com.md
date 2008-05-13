@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the stripgenerator.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222024646id_/http%3A//stripgenerator.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripgenerator.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513022626id_/http%3A//stripgenerator.com/pp) for the most accurate reproduction.*
 
 # Stripgenerator v1.0.3
+
+### Striptistics
+
+No. bloggers:
+    16051
+No. strips:
+    128788
+
+Say hello to:  
+[dingdong5432](http://hamilton.stripgenerator.com/)
 
 #### Privacy policy
 
