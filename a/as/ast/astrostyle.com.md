@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrostyle.com privacy policy that was archived on 2007-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071113070850id_/http%3A//www.astrostyle.com/About_Us/about_copyright_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrostyle.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513142609id_/http%3A//www.astrostyle.com/About_Us/about_copyright_privacy.htm) for the most accurate reproduction.*
 
 # Copyright & Privacy Policy
 
@@ -29,4 +29,4 @@ Choice / Opt-out: Online visitors, including children under the age of 13 and/or
 
 New Notice for Consent: If there are material changes in the collection, use or disclosure practices to which a parent has already agreed, we will send a new notice and request the consent of the parents. 
 
-[NEXT PAGE >](https://web.archive.org/web/20071113070850id_/http%3A//www.astrostyle.com/About_Us/about_copyright_privacy2.htm)
+[NEXT PAGE >](https://web.archive.org/web/20080513142609id_/http%3A//www.astrostyle.com/About_Us/about_copyright_privacy2.htm)
