@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flashperfection.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011110104id_/http%3A//www.flashperfection.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashperfection.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514005117id_/http%3A//www.flashperfection.com/policy.html) for the most accurate reproduction.*
 
-# Flash Perfection Privacy Policy
+# Privacy Policy
 
 FlashPerfection.com (hereafter referred to as Company) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users. 
 
