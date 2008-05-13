@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defencetalk.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210140724id_/http%3A//www.defencetalk.com/about_defencetalk/defencetalk_website_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defencetalk.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513043954id_/http%3A//www.defencetalk.com/about_defencetalk/defencetalk_website_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy Defense News | Defence Forum | Military Pictures | Weapons - DefenceTalk
 
