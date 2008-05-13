@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the zoomrewards.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218105629id_/http%3A//www.zoompanel.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomrewards.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513185325id_/http%3A//www.zoompanel.com/privacy.asp) for the most accurate reproduction.*
 
 # ZoomPanel : Privacy Policy
 
 ## Privacy Policy Revised: August 2006
 
-[](https://www.truste.org/ivalidate.php?url=www.zoompanel.com)The ZoomPanel is operated by MarketTools, Inc. MarketTools is a professional online marketing research company, which adheres to all CASRO (Council of American Survey Research Organizations) guidelines to protect all respondent confidentiality. Your identity and the replies that you provide to the ZoomPanel are kept completely confidential. The data that we collect for our market research clients is reported to them in aggregate form only. We do not provide our clients with your personally identifiable information and we will not send you unsolicited email.
+The ZoomPanel is operated by MarketTools, Inc. MarketTools is a professional online marketing research company, which adheres to all CASRO (Council of American Survey Research Organizations) guidelines to protect all respondent confidentiality. Your identity and the replies that you provide to the ZoomPanel are kept completely confidential. The data that we collect for our market research clients is reported to them in aggregate form only. We do not provide our clients with your personally identifiable information and we will not send you unsolicited email.
 
-MarketTools, Inc is a licensee of the TRUSTe® Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
+MarketTools, Inc is a licensee of the TRUSTe® Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. [](http://www.truste.org/ivalidate.php?url=www.zoompanel.com&sealid=102)
 
 This ZoomPanel privacy policy contains the following sections:
 
@@ -21,7 +21,6 @@ This ZoomPanel privacy policy contains the following sections:
   * Notification of Changes
   * Security Measures
   * How to Contact Us
-  * Our Safe Harbor Participation
   * [Terms and Conditions](https://web.archive.org/termsZP.asp)
   * [ZoomRewards Privacy Statement](https://web.archive.org/privacyZR.asp)
   * [ZoomRewards Terms and Conditions](https://web.archive.org/termsZR.asp)
@@ -147,12 +146,6 @@ If you do not receive acknowledgment of your inquiry or it is not satisfactorily
 
 ^ back to top
 
-## OUR SAFE HARBOR PARTICIPATION
-
-We adhere to the principles set forth in the Safe Harbor framework as established by the U.S. Department of Commerce regarding the collection, use and retention of personally identifiable information provided to us from the European Union. As a participant in the Safe Harbor framework, we have agreed to TRUSTe dispute resolution for disputes relating or our compliance with the Safe Harbor framework. If you have a complaint concerning our Safe Harbor compliance, please first contact us. If after contacting us you believe we have not resolved your complaint, you may then refer your compliant to TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.
-
-^ back to top
-
 ## [ZOOMPANEL TERMS AND CONDITIONS](https://web.archive.org/termsZP.asp)
 
 ## [ZOOMREWARDS PRIVACY POLICY](https://web.archive.org/privacyZR.asp)
@@ -161,6 +154,6 @@ We adhere to the principles set forth in the Safe Harbor framework as establishe
 
 ^ back to top
 
-[Join Now](http://join.zoompanel.com/zoompanel?source=ZPOR&master_id=1&source_creative_id=9999&promo_id=9999) | [Privacy Policy](https://web.archive.org/privacy.asp) | [Terms of Service](https://web.archive.org/termsZP.asp) | [Cancel Account](http://deploy.ztelligence.com/start/survey/survey_taking.jsp?PIN=137NME7VMEQNG) | [Contact Us](https://web.archive.org/contact.asp)
+[Join Now](http://join.zoompanel.com/zoompanel/?source=ZPOR&master_id=130&source_creative_id=9999&promo_id=9999) | [Privacy Policy](https://web.archive.org/privacy.asp) | [Terms of Service](https://web.archive.org/termsZP.asp) | [Cancel Account](http://deploy.ztelligence.com/start/survey/survey_taking.jsp?PIN=137NME7VMEQNG)
 
-Copyright ©2002-2007 MarketTools, Inc. All rights reserved. MarketTools is a registered trademark of MarketTools, Inc. ZoomPanel and the corporate logo are trademarks of MarketTools, Inc. Other marks referenced herein are the property of their respective owners.
+Copyright ©2002-2008 MarketTools, Inc. All rights reserved. MarketTools is a registered trademark of MarketTools, Inc. ZoomPanel and the corporate logo are trademarks of MarketTools, Inc. Other marks referenced herein are the property of their respective owners.
