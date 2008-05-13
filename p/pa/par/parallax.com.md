@@ -1,45 +1,47 @@
-> *The following text is extracted and transformed from the parallax.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016105356id_/http%3A//www.parallax.com/html_pages/company/policies/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parallax.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513205341id_/http%3A//parallax.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Parallax Home
 
-Your privacy is important to us. We provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. Please take the time to read and understand our privacy policies so that you can understand how we treat your personal information.
+Parallax is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Parallax Web site and governs data collection and usage. By using the Parallax website, you consent to the data practices described in this statement.
 
-CUSTOMER INFORMATION
+Collection of your Personal Information
 
-**Postal Addresses:**  
-Once you make a purchase, request a catalog or other information from Parallax, your name, shipping/mailing addresses, and contact information are included in our customer file. Addresses and contact information are retained and used to insure a quick, efficient flow of product and services.
+Parallax collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Parallax also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-**Email Addresses:**  
-If you supply us with your email address, it will be included in our customer file. Email addresses are regularly used to contact customers regarding orders or other transactions. If you have subscribed to the Parallax Newsletter, Parallax will communicate information on new products and/or services via email. Subscribers to the Parallax Newsletter are provided with unsubscribe links in each newsletter and are maintained on the Parallax Newsletter link on [ www.parallax.com](http://www.parallax.com/). **
+There is also information about your computer hardware and software that is automatically collected by Parallax. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Parallax for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Parallax Web site.
 
-SHARING CUSTOMER INFORMATION
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Parallax public message boards, this information may be collected and used by others. Note: Parallax does not read any of your private online communications.
 
-**
+Parallax encourages you to review the privacy statements of Web sites you choose to link to from Parallax so that you can understand how those Web sites collect, use and share your information. Parallax is not responsible for the privacy statements or other content on Web sites outside of the Parallax and Parallax family of Web sites.
 
-**Postal Addresses** :  
-Postal addresses are never shared, rented, sold or traded to third parties.
+Use of your Personal Information
 
-**Email Addresses** :  
-Email addresses are never shared, rented, sold or traded to third parties.
+Parallax collects and uses your personal information to operate the Parallax Web site and deliver the services you have requested. Parallax also uses your personally identifiable information to inform you of other products or services available from Parallax and its affiliates. Parallax may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-**WEB SITE SECURITY**
+Parallax does not sell, rent or lease its customer lists to third parties. Parallax may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Parallax may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Parallax, and they are required to maintain the confidentiality of your information.
 
-Our Commitment to Security: We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security and correctly use the information we collect online.
+Parallax does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-**"COOKIES"**
+Parallax keeps track of the Web sites and pages our customers visit within Parallax, in order to determine what Parallax services are the most popular. This data is used to deliver customized content and advertising within Parallax to customers whose behavior indicates that they are interested in a particular subject area.
 
-To enhance your online experience with us, many of our web pages use "cookies." Cookies are text files we place on your hard disk by our web page server to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us. However, once you choose to provide the personally identifiable information, this information may be linked to the data stored in the cookie. Cookies cannot be used to run programs or deliver viruses to your computer.
+Parallax Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Parallax or the site; (b) protect and defend the rights or property of Parallax; and, (c) act under exigent circumstances to protect the personal safety of users of Parallax, or the public.
 
-We use cookies to provide a convenience feature to save you time; to understand how our sites are used; and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages or recall your specific information on subsequent visits (e.g. to recognize you by name when you return to our site). We also may use cookies to offer you products, programs or services. You can opt to have your browser reject cookies.
+Use of Cookies
 
-**CONTACT INFORMATION**
+The Parallax Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-**Please contact us if you have any questions, concerns or comments.**
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Parallax pages, or register with Parallax site or services, a cookie helps Parallax to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Parallax Web site, the information you previously provided can be retrieved, so you can easily use the Parallax features that you customized.
 
-Parallax  
-599 Menlo Drive, #100  
-Rocklin, CA 95765  
-USA
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Parallax services or Web sites you visit.
 
-Telephone: (916) 624-8333 or (888) 512-1024 (US only)  
-Fax: (916) 624-8003
+Security of your Personal Information
+
+Parallax secures your personal information from unauthorized access, use or disclosure. Parallax secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+Changes to this Statement
+
+Parallax will occasionally update this Statement of Privacy to reflect company and customer feedback. Parallax encourages you to periodically review this Statement to be informed of how Parallax is protecting your information.
+
+Contact Information
+
+Parallax welcomes your comments regarding this Statement of Privacy. If you believe that Parallax has not adhered to this Statement, please contact Parallax at [webmaster@parallax.com](mailto:webmaster@parallax.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
