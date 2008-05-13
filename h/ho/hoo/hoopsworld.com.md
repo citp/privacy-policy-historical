@@ -1,51 +1,61 @@
-> *The following text is extracted and transformed from the hoopsworld.com privacy policy that was archived on 2007-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071002044707id_/http%3A//www.hoopsworld.com/article_11.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoopsworld.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513190547id_/http%3A//www.hoopsworld.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# PRIVACY POLICY | HOOPSWORLD.com | NBA News and Information | powered by Basketball News Services
+# HOOPSWORLD | NBA News, Rumors and Information - Privacy Policy
 
-Privacy Statement for HOOPSWORLD.com  
-  
-HOOPSWORLD.com, a service of Basketball News Services, LLC. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: HOOPSWORLD.com
+**Our Privacy Policy:** **HOOPSWORLD** ("HOOPSWORLD", "we," "us," "our") respects your privacy and is committed to protecting your personally identifiable information. We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected through the web sites owned or operated by HOOPSWORLD, which are www.HOOPSWORLD.com and www.swishmagazine.com (collectively, the "Sites") and how such information may be used and/or shared with others. This Privacy Policy applies solely to information collected through the Sites and not through any other sources. This Privacy Policy is subject to the Terms of Use posted on the Sites. Please return to the Sites and review this Privacy Policy from time to time, as it may be amended without notice. Any changes to this Privacy Policy will be effective immediately upon the posting of the revised Privacy Policy on the Sites. Your use of the Sites constitutes your agreement to this Privacy Policy.
 
-Information Automatically Logged  
-We use your IP address to gather broad demographic information. Your IP information is used to collect information such as your browser type, screen size, log in location, and page viewing habits. This information is used to better design the site to your computer's needs, and to insure the pages you view most often are supported in the proper manner.
+**Children Under 13**  
+The Sites are not directed to children under 13. We do not knowingly collect personally identifiable information from anyone under 13 years of age, except for the limited circumstances described below. In the event a child under the age of 13 submits a question to us on the Sites and identifies his or her age, we may use the child's e-mail address for the sole purpose of responding to the child's question on a one-time-only basis. However, we will not use the child's e-mail address to re-contact the child and we will delete it from our records once we have responded. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
 
-Cookies  
-Our site uses cookies, which are small snippets of code given to your web browser to identify you, used mainly to make sure you don't see the same ad repeatedly (unless that's the goal of the advertiser). In addition cookies help our server identify you internally, so that in future upgrades we can utilize technologies that serve just the information you want to see.
+**Your Information and How We Use It**  
+The Sites collects two kinds of information: (1) information that personally identifies you (such as your name, e-mail address, and mailing address); and (2) information that does not personally identify you (such as the number of users who log on to the Sites on a daily basis).
 
-Advertisers  
-We use outside ad companies such as MAXWORLDWIDE, RealMedia 24/7, Fastclick, and Adtegrity to display ads on our site. These ads may also contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+As a general policy, no personally identifiable information is automatically collected from your visit to the Sites. However, in certain circumstances, you may be asked to provide us with some specific information about yourself in order to use certain features on the Sites or to take advantage of certain opportunities that we may offer through the Sites. For example:
 
-Ad companies may display ads which ask for your personal information, we are not collecting this data. It is collected by the ad company for use with the ad you are viewing.
+    *      Purchase Products or Services: If you wish to purchase any products or services on the Sites, you may be asked to provide, at a minimum, your name, mailing address, e-mail address, credit/debit card and billing information. This information will be used to process your purchase order.
 
-Broad viewer demographics are shared with advertising companies. 
+    *      Message Boards / Blogs / Chat Rooms: You will be required to register with us in order to participate in our message and bulletin boards, blogs and chat rooms. The personally identifiable information that we require during registration may include your name, e-mail address, and other information about you. This information will be used to protect the security and integrity of the Sites. It may also be used to provide you with the information or materials that you requested on the registration page. Please be advised that if you voluntarily disclose personally identifiable information on our message or bulletin boards, blogs or chat rooms, such information can also be collected and used by others and could result in unsolicited messages from other people.
 
-Third Party Advertising  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here:  
-<http://www.maxonline.com/privacy_policy/index.php> Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+    *       Newsletters: If you wish to receive our online newsletter, you will be asked to provide your e-mail address. This information will be used to subscribe you to the newsletter you requested.
 
-Personal Information  
-This Web site does not request any personal information for its regular use. In the future, we may require registration, but at this point we do not.
+    *      Promotions, Sweepstakes, and Contests: The Sites may, from time to time, offer special promotions, sweepstakes and/or contests. If you choose to participate, you will be required to provide your name, address, e-mail address, and/or date of birth, as well as other information about you that is relevant to the specific promotion, sweepstakes or contest. Such information will be used to select the winners, to notify you if you win one of the sweepstakes and/or contests, and otherwise in connection with the administration of the promotion, sweepstakes or contest. We also reserve the right to share this information with any of the promotion, sweepstakes or contest sponsors or partners and use the information for any other purpose disclosed to you in the applicable terms and conditions.
 
-We do offer a Mailing List which does collect basic demographic information from you in the sign up process. These pieces of information are used to understand who we are mailing, and to insure we can target the right types of information to you. 
+Please note that any information you submit on the Sites will be used (i) to carry out your requests and respond to your inquiries, (ii) in accordance with the terms set forth herein, and (iii) as otherwise disclosed at the point where such information is collected or in any additional terms and conditions applicable to the particular feature of the Sites. Please also note that in order to carry out your requests and respond to your inquiries, we may share your personally identifiable information with third parties that perform functions on our behalf (or on behalf of our partners), such as companies or individuals that deliver merchandise, participate in our promotions, administer our promotions, provide marketing or promotional assistance, analyze data or provide customer service (but such information will be shared only to the extent they need such information to perform their functions). Your personally identifiable information may also be used by us or shared with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties to provide you with product information and promotional and other offers. You may always direct us (by contacting us at the address listed below) not to share your personally identifiable information with these parties or not to use your personally identifiable information to provide you with such information or offers. Except as provided herein, your personally identifiable information will not be provided to any third parties without prior approval from you.
 
-Our Mailing List is operated internally. You are not required to enter any information beyond your name and e-mail address to join.
+From time to time, we may collect non-personally identifiable information from you through the standard operation of our servers. Such information can include the type of browser being used, the operating system you are using, IP addresses, and the number of users that visit a specific page on the Sites and the character and duration of such visits. This information may be used to help analyze site traffic and improve our services. We may also aggregate such information to create statistical data and share it with potential advertisers, partners, affiliates and other third parties. At no point, however, will the aggregated information personally identify you.
 
-We only collect information to determine who is using this site. We do not sell this information, nor do we store this information in a manner in which it can be stolen. We will provide the total site demographics to advertisers, but we will never single any one user out as an example.
+We reserve the right to disclose any personally identifiable or non-personally identifiable information if we are required to do so by law or if we reasonably believe that such action is necessary in order to: (a) fulfill a government request; (b) conform with the requirements of the law or to comply with legal process served on us; (c) to protect or defend our legal rights or property, the Sites, or its users; or (d) in an emergency to protect the health and safety of the users of the Sites or the general public.
 
-External Links  
-This site contains links to other sites. HOOPSWORLD.com is not responsible for the privacy practices or the content of such Web sites. 
+**Use of Cookies**  
+"Cookies" are small text files from a web site that are stored on your hard drive. These small text files make using a web site more convenient by saving your passwords and preferences for you. Cookies themselves do not contain any personally identifiable information. We may analyze the information derived from these cookies and match such information with data provided by you or another party. We may provide our analysis and certain non-personally identifiable information to potential partners, advertisers (who may use this information to provide advertisements tailored to your interests) or other third parties, but we will not disclose any personally identifiable information, except as provided in this Privacy Policy.
 
-Special Relationships  
-This site is associated with several other similar sites. In this relationship we do pool resources and information. At no time is any of your statistical data shared with another site host, unless it is in general terms. With our various ad partners, we do share information in broad terms without exposing individual habits or needs of our viewers.
+Also, we may allow third parties that serve advertisements on our Sites (including our promotion partners) to place and access cookies on your computer, but they will not be able to access our cookies. The use of cookies by such third parties is not subject to our Privacy Policy, but is subject to their own respective privacy policies.
 
-Public Forums  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+You can have the option of deciding whether or not to accept a cookie by resetting your browser to notify you whenever a cookie is being sent to your hard drive. You may also delete a cookie manually from your hard drive. Please note, however, that some parts of the Sites will not function properly or will be considerably slower if you refuse to accept a cookie or choose to disable your cookies settings.  
+Surveys
 
-This site makes every reasonable effort to police and remove unnecessary and harassing posts. If you are the subject or target of a harassing post. Please e-mail the site administration immediately. We do log all IP addresses of posts made to the message board system. 
+From time to time, we may conduct surveys on the Sites. If you decide to participate, you may be asked to provide certain demographic information (such as your sex, date of birth and zip code). We may use the information that you submit, including your responses to the survey questionnaires, for the purpose(s) identified to you prior to your participation in the survey. In some cases, we may publish the results of the survey, but only as aggregate information. As we may be conducting certain surveys with our advertisers, sponsors or other third parties, we may also share the results of such surveys with such third parties, but in no event will the results personally identify you.  
+Transfer of Assets
 
-We will also on a case by case basis, reserve a user name, so you can not be impersonated.
+As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all or substantially all of our assets, personally identifiable information, non-personally identifiable information, and any other information that we have collected about the users of the Sites will be transferred to such entity as one of the transferred assets. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
 
-Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-web@hoopsworld.com for more information or assistance. 
+**Opt Out**  
+You can choose not to receive any newsletter, e-mail or other communication from us by (i) following the removal instructions in the communication that you receive, or (ii) e-mailing us at: opt_out@HOOPSWORLD.com. If you choose to e-mail us, please be sure to attach a copy of the unwanted communication.
+
+**Keeping Your Information Secure**  
+We have reasonable and appropriate security measures in place to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information.
+
+Please keep in mind that whenever you give out personal information on a message board, blog or in a chat room, that information can be collected and used by people you do not know. If you choose to voluntarily disclose information on our message boards, blogs or in our chat rooms, this Privacy Policy will not cover such disclosure of information. We urge you to use caution when disclosing any personal information on our message boards and in our chat rooms.
+
+In order to take advantage of certain features and opportunities offered through the Sites, you will need to create an account. When creating an account, you will be asked to choose a password, in which case, access to your account shall be protected by your password. We recommend that you do not disclose your password to any other person, that you use a combination of letters and numbers for your password, and that you change your password often. You are responsible for maintaining the confidentiality of your password and account, and are fully responsible for all activities that occur under your password or account. You may view and update your account information at any time by logging into your account.
+
+**Other Sites**  
+The Sites may contain links to other web sites that we do not control or maintain. We are not responsible for the privacy practices employed by these other web sites. We encourage you to note when you leave the Sites and to read the privacy statements of such other web sites before submitting any personally identifiable information.
+
+**Contact Information**  
+If you have questions or comments about our privacy practices, or if you wish to review or amend any personally identifiable information you have provided, please send an e-mail to web@hoopsworld.com or by postal mail at:
+
+HOOPSWORLD  
+12157 W. Linebaugh Ave   
+Suite 329  
+Tampa FL 33626
