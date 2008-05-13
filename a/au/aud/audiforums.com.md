@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiforums.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102031040id_/http%3A//www.audiforums.com/includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiforums.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513165352id_/http%3A//www.audiforums.com/includes/privacy.asp) for the most accurate reproduction.*
 
 # Audi Forums
 
@@ -59,45 +59,50 @@ If you have any questions about this privacy policy, the practices of the AudiFo
 
 [Contact Form](https://web.archive.org/contact/)  
   
-| 
+[Today's Posts](http://www.audiforums.com/searchpro.asp?searchfor=today)  
+[Most Active Topics](http://www.audiforums.com/searchpro.asp?searchfor=active)  
+[Make A Donation](http://www.audiforums.com/contributors/)  
+[**Forum Rules**](http://www.audiforums.com/rules.asp) & [FAQ](http://www.audiforums.com/faq.asp)  
+[RSS Feeds](http://www.audiforums.com/rss/)  
 
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1027&url=http://www.visionbulbs.com/)  
+
+[Audi](http://www.carsdirect.com/audi) Prices  
+
+
+**Audi Cars**  
+[Audi A6](http://www.audiforums.com/models/a6/ "Audi A6") [Audi S3](http://www.audiforums.com/models/s3/ "Audi S3")  
+[Audi A4](http://www.audiforums.com/models/a4/ "Audi A4") [Audi S4](http://www.audiforums.com/models/s4/ "Audi S4")  
+[Audi TT](http://www.audiforums.com/models/tt/ "Audi TT") [Audi S6](http://www.audiforums.com/models/s6/ "Audi S6")  
+[Audi Dealers](http://audiforums.com/partners/2909.html "Audi Dealers")  
+[Audi Clubs](http://audiforums.com/partners/2756.html "Audi Clubs")   
+
+
   
----|---  
-  
-| Featured Vendors  
+|   
 ---  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=76&url=http://www.germanpartsonline.com)  
+Featured Sponsors  
   
+  
+[Advertising Info](https://web.archive.org/contact/?msg=Advertising+Information)
 
-
-  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=634&url=http://www.mattman-enterprises.com/)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=888&url=http://www.purems.com/)|   
-  
 Top 10 Posters  
 ---  
-| [pandaxpress](https://web.archive.org/showprofile.asp?memID=2372)| 12236  
+| [pandaxpress](https://web.archive.org/showprofile.asp?memID=2372)| 14377  
 ---|---  
-[jestnomen](https://web.archive.org/showprofile.asp?memID=784)| 10688  
-[redgoat](https://web.archive.org/showprofile.asp?memID=3967)| 7330  
-[bentframe](https://web.archive.org/showprofile.asp?memID=6332)| 6160  
-[badluckaudi](https://web.archive.org/showprofile.asp?memID=10526)| 6029  
-[awdaholic](https://web.archive.org/showprofile.asp?memID=4805)| 5907  
-[avant80@2.6](https://web.archive.org/showprofile.asp?memID=12092)| 5833  
-[apg96](https://web.archive.org/showprofile.asp?memID=3401)| 5565  
-[headshok2002](https://web.archive.org/showprofile.asp?memID=3695)| 5028  
-[onepoint8tee](https://web.archive.org/showprofile.asp?memID=10408)| 5002  
+[cincytt](https://web.archive.org/showprofile.asp?memID=28034)| 14108  
+[techbod](https://web.archive.org/showprofile.asp?memID=12092)| 12536  
+[onepoint8tee](https://web.archive.org/showprofile.asp?memID=10408)| 10806  
+[jestnomen](https://web.archive.org/showprofile.asp?memID=784)| 10682  
+[awdaholic](https://web.archive.org/showprofile.asp?memID=4805)| 10051  
+[badluckaudi](https://web.archive.org/showprofile.asp?memID=10526)| 9131  
+[redgoat™](https://web.archive.org/showprofile.asp?memID=3967)| 8952  
+[chaos92287](https://web.archive.org/showprofile.asp?memID=22767)| 8042  
+[i3uddha](https://web.archive.org/showprofile.asp?memID=9913)| 7178  
   
 New Vendors  
 ---  
-[Vision Bulbs](http://www.visionbulbs.com/)  
-[Hot Ridez](http://www.hotridez.net/)  
-[PURE Motorsport](http://www.purems.com/)  
-[Mattman Enterprises Co. LLC](http://www.mattman-enterprises.com/)  
-[GetCoolParts.com](http://www.getcoolparts.com/)  
-[K&N Engineering, Inc.](http://knfilters.com/ads/ad.aspx?ID=657)  
-[German Parts Online](http://www.germanpartsonline.com/)  
-[Autohaus Arizona, Inc](http://www.autohausaz.com/)
+[AMSOIL - Performance Oil Technology](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1134&url=http://www.hypertracker.com/go/perfoiltech/audi/)  
+[Penske Audi West Covina](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1043&url=http://www.penskeaudi.com)  
+[Royal Purple](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=785&url=http://www.royalpurple.com/)  
+[GetCoolParts.com](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=384&url=http://www.getcoolparts.com)  
+[K&N Engineering, Inc.](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=311&url=http://knfilters.com/ads/ad.aspx?ID=657)
