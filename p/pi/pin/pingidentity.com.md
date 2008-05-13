@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingidentity.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011091300id_/http%3A//pingidentity.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingidentity.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513231729id_/http%3A//pingidentity.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
