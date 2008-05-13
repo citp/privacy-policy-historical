@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spencersonline.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005020009id_/http%3A//www.spencersonline.com/index.cfm/fuseaction/content.page/nodeID/e2b9b7c4-48fe-4021-888e-5f1366e659be) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spencersonline.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513122020id_/http%3A//www.spencersonline.com/index.cfm/fuseaction/content.page/nodeID/e2b9b7c4-48fe-4021-888e-5f1366e659be) for the most accurate reproduction.*
 
 # Spencer's - Privacy Policy
 
