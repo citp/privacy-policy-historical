@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the sportinglife.com privacy policy that was archived on 2007-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071129144558id_/http%3A//www.sportinglife.com/info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportinglife.com privacy policy that was archived on 2008-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080513102445id_/http%3A//www.sportinglife.com/info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
 
 <title>
-Sporting Life - Sports News | Football Transfer News, UEFA Cup Scores, Live Cricket Scores, Racing Results. Nedbank Challenge Live,
+Sporting Life - Sports News | Football Transfer News, Live Football Scores, UEFA Cup final, Racing News and Results
 </title>
 
 <meta name="keywords" content="sport sports news live scores results headlines racing football horseracing fixtures world cup nfl cricket soccer rugby union league golf tennis snooker boxing f1 formula one greyhounds wayne rooney david beckham lewis hamilton premiership premier championship transfers test match sporting life sportinglife.com">
@@ -45,7 +45,7 @@ popupwin[popupwin.length] = window.open(page,name,options);
 
 function chooseSize () {
 
-	ShowPopup('/snooker/worldchampionships2007/live/','cruiblelive','resizable=yes,scrollbars=no,width=400,height=300');
+	ShowPopup('/snooker/worldchampionships2008/live/','cruiblelive','resizable=yes,scrollbars=no,width=400,height=300');
 }
 
 wcmatchcodes = new Array();
@@ -213,7 +213,136 @@ function addLoadEvent(func) {
 //-->
 </script>
 <script language="JavaScript" type="text/javascript" src="http://www.sportinglife.com/scripts/SWFObject.js"></script>
-<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
+
+
+
+<!--WEBSIDESTORY CODE HBX2.0 (Sportinglife.com Tweaked)-->
+<script type="text/javascript">
+function buildHbxMlc () {
+	// We need to build the MLC based upon the document url, but we need to tweak it a little.
+	var myHbxUrl = document.location.href;
+	//var myHbxUrl = "http://www.sportinglife.com/hitbox/story_get/";
+	
+	// 1. remove http://www.sportinglife.com
+	myHbxUrl = myHbxUrl.replace(/http:\/\/www.sportinglife.com/i,'');
+	myHbxUrl = myHbxUrl.replace(/http:\/\/www.sporting-life.com/i,'');
+	myHbxUrl = myHbxUrl.replace(/http:\/\/www.sportinglife.co.za/i,'');
+	myHbxUrl = myHbxUrl.replace(/http:\/\/www.sportinglife.co.uk/i,'');
+	myHbxUrl = myHbxUrl.replace(/http:\/\/livecricket.sportinglife.com/i,'/cricket');
+
+	// 2. check for a querystring and remove it
+	filePos = myHbxUrl.lastIndexOf("\?");
+
+	if (filePos > -1) {
+		myHbxUrl = myHbxUrl.substr(0,filePos);
+	}
+
+	// 3. check for a file extention and remove it
+	filePos = myHbxUrl.lastIndexOf("\.");
+
+	if (filePos > -1) {
+		myHbxUrl = myHbxUrl.substr(0,filePos);
+	}
+
+	// 4. prefix the reformed string with the site ref
+	myHbxUrl = '/SportingLife' + myHbxUrl;
+
+	// 5. get the naming of sports consistant with other sites for the roll up
+	myHbxUrl = myHbxUrl.replace(/'/g,"`");
+	myHbxUrl = myHbxUrl.replace(/\/rugbyleague/i,'/RugbyLeague');
+	myHbxUrl = myHbxUrl.replace(/\/rugbyunion/i,'/RugbyUnion');
+	myHbxUrl = myHbxUrl.replace(/\/live_match/i,'/match_day_live');
+	myHbxUrl = myHbxUrl.replace(/\/football\/popup1/i,'\/football\/score_centre');
+	myHbxUrl = myHbxUrl.replace(/\/football\/popup2/i,'\/football\/score_centre');
+	myHbxUrl = myHbxUrl.replace(/\/football\/popup3/i,'\/football\/score_centre');
+	myHbxUrl = myHbxUrl.replace(/\/football\/popup4/i,'\/football\/score_centre');
+	myHbxUrl = myHbxUrl.replace(/\/football\/popup5/i,'\/football\/score_centre');
+	myHbxUrl = myHbxUrl.replace(/\/football\/popup/i,'\/football\/score_centre');
+	myHbxUrl = myHbxUrl.replace(/football\/scoreboard/i,'football/live/latest_scores');
+	myHbxUrl = myHbxUrl.replace(/teamtalk/i,'/TEAMtalk');
+	myHbxUrl = myHbxUrl.replace(/latestscores/i,'/latest_scores');
+	myHbxUrl = myHbxUrl.replace(/liveshows/i,'/live_shows');
+	myHbxUrl = myHbxUrl.replace(/\/cricket\/scorecard/i,'/cricket/scorecard/full');
+	myHbxUrl = myHbxUrl.replace(/\/cricket\/int_scorecard/i,'/cricket/scorecard/desktop');
+	myHbxUrl = myHbxUrl.replace(/\/greyhounds\/liveshows/i,'/greyhounds/live_shows');
+	myHbxUrl = myHbxUrl.replace(/\/greyhounds\/greyhounds_centre/i,'/greyhounds/live_centre');
+	myHbxUrl = myHbxUrl.replace(/racing_tipping_centre/i,'/tipping_centre');
+	myHbxUrl = myHbxUrl.replace(/\/football\/cups\/facup\/draw/i,'/football/draws/FA_cup');
+	myHbxUrl = myHbxUrl.replace(/cc_/i,'');
+	myHbxUrl = myHbxUrl.replace(/snooker\/worldchamiponships2008/i,'snooker/world_championships_2008');
+	myHbxUrl = myHbxUrl.replace(/story_get/i,'story');
+	myHbxUrl = myHbxUrl.replace(/league1/i,'league_one');
+	myHbxUrl = myHbxUrl.replace(/league2/i,'league_two');
+	myHbxUrl = myHbxUrl.replace(/formula1/i,'formula_one');
+	myHbxUrl = myHbxUrl.replace(/formula_one\/popup1/i,'formula_one/live_centre');
+	myHbxUrl = myHbxUrl.replace(/formula_one\/popup2/i,'formula_one/live_centre');
+	myHbxUrl = myHbxUrl.replace(/formula_one\/popup3/i,'formula_one/live_centre');
+	myHbxUrl = myHbxUrl.replace(/formula_one\/popup/i,'formula_one/live_centre');
+	myHbxUrl = myHbxUrl.replace(/fanzine/i,'columns');
+	myHbxUrl = myHbxUrl.replace(/latest_news/i,'news');
+	myHbxUrl = myHbxUrl.replace(/racing\/pop/i,'racing/results/fast');
+	myHbxUrl = myHbxUrl.replace(/racing\/live_feed/i,'/acing/live_shows');
+	myHbxUrl = myHbxUrl.replace(/racing\/lifeshows/i,'racing/live_shows');
+	myHbxUrl = myHbxUrl.replace(/racing\/fastcards/i,'racing/racecards');
+	myHbxUrl = myHbxUrl.replace(/racing\/results/i,'racing/results/fast');
+	myHbxUrl = myHbxUrl.replace(/racing\/racing_centre\/briefings/i,'racing/racing_centre');
+	myHbxUrl = myHbxUrl.replace(/racing\/cgi-bin/i,'racing/results/search');
+	myHbxUrl = myHbxUrl.replace(/nonrunners1/i,'non_runners');
+	myHbxUrl = myHbxUrl.replace(/nonrunners/i,'non_runners');
+	myHbxUrl = myHbxUrl.replace(/engagements/i,'ABC_guide');
+	myHbxUrl = myHbxUrl.replace(/engagements\/trainer/i,'ABC_guide');
+	myHbxUrl = myHbxUrl.replace(/engagements\/jockey/i,'ABC_guide');
+	myHbxUrl = myHbxUrl.replace(/stabletours\/news/i,'stable_tours');
+	myHbxUrl = myHbxUrl.replace(/nfl\/popup\/popup_data1/i,'NFL/score_centre_1');
+	myHbxUrl = myHbxUrl.replace(/nfl\/popup\/popup_data2/i,'NFL/score_centre_2');
+	myHbxUrl = myHbxUrl.replace(/nw_feed/i,'news_wire');
+	myHbxUrl = myHbxUrl.replace(/nw_story/i,'story');
+
+	if (myHbxUrl.search(/\/racing\/results/i) > -1) {
+		myHbxUrl = "/SportingLife/racing/results/fast";
+	} else if (myHbxUrl.search(/\/football\/live_feed/i) > -1) {
+		myHbxUrl = "/SportingLife/football/desktop_news_wire";
+	} else if (myHbxUrl.search(/\/greyhounds\/racecards/i) > -1) {
+		myHbxUrl = "/SportingLife/greyhounds/racecards";
+	} else if (myHbxUrl.search(/desktop_fences/i) > -1) {
+		myHbxUrl = "/SportingLife/Racing/Fence-by-fence";
+	}
+
+	thisPage = myHbxUrl + "/";
+
+	var myArray = thisPage.split("/");
+
+	thisPage = "";
+
+	for (i = 0; i < myArray.length -1; i++) {
+		myArray[i] = myArray[i].substr(0,1).toUpperCase()+myArray[i].substr(1);
+		if (myArray[i] != "" && (myArray[i] != myArray[i-1])) {
+			if (myArray[i].search(/SL_/i) > -1) {
+				myArray[i] = myArray[i].replace(/SL_/i,'');
+			}
+
+			var findChar = -1;
+			var strStart = "";
+			var strEnd = "";
+
+			while (myArray[i].search(/_/i) > -1) {
+				findChar = myArray[i].indexOf('_');
+				strStart = myArray[i].substr(0,findChar);
+				strEnd = myArray[i].substr(findChar + 2,myArray[i].length);
+				myArray[i] = strStart + ' ' + myArray[i].charAt(findChar + 1).toUpperCase() + strEnd;
+			}
+
+			thisPage = thisPage + "/" + myArray[i];
+		}
+	}
+
+	if (thisPage == "" || thisPage == "/SportingLife") {
+		thisPage = "/SportingLife/Home";
+	}
+	
+	return thisPage;
+}
+</script>
 <!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
 <script language="javascript">
 var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
@@ -222,8 +351,39 @@ var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="peach.bskyb.com";
 //BEGIN EDITABLE SECTION
 //CONFIGURATION VARIABLES
 hbx.acct="DM57021769NA84EN3;DM53111942ZM";//ACCOUNT NUMBER(S)
-hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
-hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
+//hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
+//hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
+
+thisPage = buildHbxMlc();
+
+hbx.mlc=thisPage;//MULTI-LEVEL CONTENT CATEGORY
+
+if (thisPage.search(/story/i) > -1) {
+	var storyTitleArray = document.title.split("|");
+	ourTitle = storyTitleArray[0].replace(/\s/g,'_');
+
+	if (ourTitle.lastIndexOf("_") == ourTitle.length-1) {
+		ourTitle = ourTitle.substr(0,ourTitle.length-1);
+	}
+	
+	while (ourTitle.search(/_/i) > -1) {
+		findChar = ourTitle.indexOf('_');
+		strStart = ourTitle.substr(0,findChar);
+		strEnd = ourTitle.substr(findChar + 2,ourTitle.length);
+		ourTitle = strStart + ' ' + ourTitle.charAt(findChar + 1).toUpperCase() + strEnd;
+	}
+
+	thisPage = thisPage + "/" + ourTitle;
+}
+
+thisPage = thisPage.replace(/'/g,"`");
+thisPage = thisPage.replace(/\//i,'');
+thisPage = thisPage.replace(/\//g,' - ');
+
+hbx.pn=thisPage;//PAGE NAME(S)
+
+//alert("'" + hbx.mlc + "' '" + hbx.pn + "'");
+
 hbx.pndef="title";//DEFAULT PAGE NAME
 hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
 
@@ -268,12 +428,35 @@ hbx.hrf="";//CUSTOM REFERRER
 hbx.pec="";//ERROR CODES
 
 //INSERT CUSTOM EVENTS
-
 //END EDITABLE SECTION
-
 //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" src="http://www.sportinglife.com/scripts/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
+</script>
+<script language="javascript1.1" src="http://www.sportinglife.com/scripts/hbx.js"></script>
+
+<script>
+document.write('<!-- MLC = ' + hbx.mlc + ' PN = ' + hbx.pn + ' -->');
+</script><!-- MLC = /SportingLifehttps:/Web.archive.org/Web/20080513102445id /Http%3A/Www.sportinglife.com/Info/Privacy PN = SportingLifehttps: - Web.archive.org - Web - 20080513102445id  - Http%3A - Www.sportinglife.com - Info - Privacy -->
+
+
+<!-- REVENUE SCIENCE AD TAG CODE -->
+<script type="text/javascript" language="JavaScript" charset="utf-8">
+<!--
+var rsi_segs = [];
+var segs_beg=document.cookie.indexOf('rsi_segs=');
+if(segs_beg>=0){
+ segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+ if(segs_beg>0){
+  var segs_end=document.cookie.indexOf(';',segs_beg);
+  if(segs_end==-1)segs_end=document.cookie.length;
+  rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+}}
+var segLen=20
+var segQS="",segArr=new Array()
+if (rsi_segs.length<segLen){segLen=rsi_segs.length}
+for (var i=0;i<segLen;i++){
+    segArr=rsi_segs[i].split("_")
+    if (segArr.length>1) segQS+=("rsi"+"="+segArr[1]+"+") } //--> </script>
+<!-- END REVENUE SCIENCE AD TAG CODE -->
 </head>
 <body leftmargin="0" topmargin="0" rightmargin="0" marginheight="0" marginwidth="0" bgcolor="#ffffff">
 
@@ -288,12 +471,12 @@ hbx.pec="";//ERROR CODES
 if (window.adgroupid == undefined) {
         window.adgroupid = Math.round(Math.random() * 1000);
 }
-document.write('<scri'+'pt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|662|1246099|0|1|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+document.write('<scri'+'pt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|662|1246099|0|1|ADTECH;loc=100;target=_blank;key=key=key1+key2+key3+key4+'+segQS+';grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|662|1246099|0|1|ADTECH;loc=100;target=_blank;key=;grp=5554232;misc=1580518006343"></script>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|662|1246099|0|1|ADTECH;loc=100;target=_blank;key=key=key1+key2+key3+key4+;grp=5554232;misc=1580518006137"></script>
 <noscript>
-<a href="http://adserver.adtech.de/adlink|3.0|662|1246099|0|1|ADTECH;loc=300;key=" target="_blank">
-<img src="http://adserver.adtech.de/adserv|3.0|662|1246099|0|1|ADTECH;loc=300;key=" border="0" />
+<a href="http://adserver.adtech.de/adlink|3.0|662|1246099|0|1|ADTECH;loc=300;key=key=key1+key2+key3+key4+'+segQS+'" target="_blank">
+<img src="http://adserver.adtech.de/adserv|3.0|662|1246099|0|1|ADTECH;loc=300;key=+'+segQS+'" border="0" />
 </a>
 </noscript>
 <!-- END 468x60 banner -->
@@ -318,7 +501,8 @@ document.write('<scri'+'pt language="javascript1.1" src="http://adserver.adtech.
 		  <div style="position:relative; overflow:hidden; width:440; height:20; background-color:#FFFFFF; border:1px black solid;">
 		  <div align="left" id="scroll" style="position:relative; left:440; top:3;background-color:#FFFFFF;" onmouseover="pauseScroll(scroll1)" onmouseout="resumeScroll()">
 		  <script language="javascript" src="http://www.sportinglife.com/scripts/search_ticker.js"></script>
-		  </div></div>
+		  </div>		  
+		  </div>
 		  </center></td>
 		 </tr>
 		 <tr height="1"><td colspan="4"><img src="/images/spacer.gif" height="1"></td></tr>
@@ -341,14 +525,14 @@ document.write('<scri'+'pt language="javascript1.1" src="http://adserver.adtech.
 <td colspan="2" height="23" valign="middle" class="horinavbackground">
 <table height="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-<td class="horinavbackground" width="130"><div class="clock">&nbsp;29/11/07&nbsp;14:45&nbsp;GMT</div></td>
+<td class="horinavbackground" width="130"><div class="clock">&nbsp;13/05/08&nbsp;18:24&nbsp;BST</div></td>
 <td class="horinavbackground">&nbsp;</td>
 <td width="1" class="horinavline"><img src="/images/spacer.gif" width="1"></td>
 <td class="horinavbackground" align="center" width="93"><a href="http://www.oddschecker.com/?adid=008892" class="whitesmall" target="0">Odds</a></td>
 <td width="1" class="horinavline"><img src="/images/spacer.gif" width="1"></td>
 <td class="horinavbackground" align="center" width="93"><a href="http://www.skybet.com/skybet?aff=726" class="whitesmall" target="1">Bet Now</a></td>
 <td width="1" class="horinavline"><img src="/images/spacer.gif" width="1"></td>
-<td class="horinavbackground" align="center" width="93"><a href="http://www.skybetvegas.com/cust?aff=726" class="whitesmall" target="2">Casino</a></td>
+<td class="horinavbackground" align="center" width="93"><a href="https://www.skybet.com/secure/skybet?action=GoBingoHome&amp;aff=1805" class="whitesmall" target="2">Bingo</a></td>
 <td width="1" class="horinavline"><img src="/images/spacer.gif" width="1"></td>
 <td class="horinavbackground" align="center" width="93"><a href="http://www.skypoker.com/poker/sky_lobby" class="whitesmall" target="3">Poker</a></td>
 <td width="1" class="horinavline"><img src="/images/spacer.gif" width="1"></td>
@@ -356,7 +540,7 @@ document.write('<scri'+'pt language="javascript1.1" src="http://adserver.adtech.
 <td width="1" class="horinavline"><img src="/images/spacer.gif" width="1"></td>
 <td class="horinavbackground" align="center" width="93"><a href="http://www.24-7football.co.uk/" class="whitesmall" target="5">Mobile</a></td>
 <td width="1" class="horinavline"><img src="/images/spacer.gif" width="1"></td>
-<td class="horinavbackground" align="center" width="93"><a href="http://teamtalk.fantasyleague.com" class="whitesmall" target="6">Fantasy</a></td>
+<td class="horinavbackground" align="center" width="93"><a href="http://www.skysports.com/fantasycricket" class="whitesmall" target="6">Fantasy</a></td>
 <td width="1" class="horinavline"><img src="/images/spacer.gif" width="1"></td>
 <td class="horinavbackground" align="center" width="93"><a href="http://www.teamtalk.com/Competitions/0,10965,1067,00.html" class="whitesmall" target="7">Competitions</a></td>
 </tr>
@@ -488,10 +672,6 @@ option {color:#000000;}
 <tr><td class="menu_divide" height="1" colspan="2"><img src="http://www.sportinglife.com/images/spacer.gif" height="1"></td></tr>
 <tr><td class="menu_divide1" height="1" colspan="2"><img src="http://www.sportinglife.com/images/spacer.gif" height="1"></td></tr>
 <tr><td class="menu_divide" height="1" colspan="2"><img src="http://www.sportinglife.com/images/spacer.gif" height="1"></td></tr>
-<tr height="20"><td class="menu_background" align="left">&nbsp;<a href="http://poker.sportinglife.com" target="_blank" class="menu">Poker News</a></td><td align="center" width="15%" class="menu_background"><img src="http://www.sportinglife.com/images/white_arrow1.gif"></td></tr>
-<tr><td class="menu_divide" height="1" colspan="2"><img src="http://www.sportinglife.com/images/spacer.gif" height="1"></td></tr>
-<tr><td class="menu_divide1" height="1" colspan="2"><img src="http://www.sportinglife.com/images/spacer.gif" height="1"></td></tr>
-<tr><td class="menu_divide" height="1" colspan="2"><img src="http://www.sportinglife.com/images/spacer.gif" height="1"></td></tr>
 <tr height="20"><td class="menu_background" align="left">&nbsp;<a href="http://www.sportinglife.com/others/news/" class="menu">Other Sports</a></td><td align="center" width="15%" class="menu_background"><img src="http://www.sportinglife.com/images/white_arrow1.gif"></td></tr>
 <tr><td class="menu_divide" height="1" colspan="2"><img src="http://www.sportinglife.com/images/spacer.gif" height="1"></td></tr>
 <tr><td class="menu_divide1" height="1" colspan="2"><img src="http://www.sportinglife.com/images/spacer.gif" height="1"></td></tr>
@@ -601,6 +781,7 @@ option {color:#000000;}
 </tbody></table>
 </td>
 </tr>
+<!--
 <tr>
 <td colspan="2">
 <div style="background-color:#000099;">
@@ -608,7 +789,7 @@ option {color:#000000;}
 <div style="width:100%;height:120px;text-align:center;">
 <div style="width:120px;height:120px;margin-left:auto;margin-right:auto;">
 <div id="flashSkyPoker">
-	  <a href="http://www.skypoker.com/poker/sky_lobby" target="_blank"><img src="http://www.sportinglife.com/images/ads/SkyPok_120x120_070222.gif" border="0" alt="Sky Bet Poker"></a>
+	  <a href="http://www.skypoker.com/poker/sky_lobby" target="_blank"><img src="http://www.sportinglife.com/images/ads/SkyPok_120x120_070222.gif" border="0" alt="Sky Bet Poker" /></a>
 </div>
 <script type="text/javascript">
         var sbPoker = new SWFObject("http://www.sportinglife.com/images/ads/120x120_FL2.swf", "pokerFlash", "120", "120", "6", "#000000");
@@ -626,11 +807,10 @@ option {color:#000000;}
 </div>
 </td>
 </tr>
-<!-- ukbetting -->
 <tr>
 <td height="10" class="menu_background" colspan="2">
 <div id="flashSkyCasino">
-	  <a href="http://www.skybetvegas.com/cust?aff=822" target="_blank"><img src="http://www.sportinglife.com/images/ads/250_welcome_bonus.jpg" border="0" alt="Sky Bet Casino"></a>
+	  <a href="http://www.skybetvegas.com/cust?aff=822" target="_blank"><img src="http://www.sportinglife.com/images/ads/250_welcome_bonus.jpg" border="0" alt="Sky Bet Casino" /></a>
 </div>
 <script type="text/javascript">
         var sbCas = new SWFObject("http://www.sportinglife.com/images/ads/120x120_welcome_bonus.swf", "casinoFlash", "120", "120", "6", "#000000");
@@ -644,6 +824,7 @@ option {color:#000000;}
 </script>
 </td>
 </tr>
+-->
 <tr>
 <td height="10" class="menu_background" colspan="2"><img src="/images/spacer.gif" height="10"></td>
 </tr>
@@ -765,7 +946,8 @@ a.footer {whitespace:nowrap;font-family:arial,verdana,sans-serif;}
 <br>
 <a class="footer" href="http://www.skybet.com" target="oc">Sky Bet</a>
 | <a class="footer" href="http://www.skypoker.com" target="occ">Sky Poker</a>
-| <a class="footer" href="http://www.skybetvegas.com" target="opc">Sky Bet Vegas</a>
+| <a class="footer" href="http://www.skyvegas.com/vegas" target="opc">Sky Vegas</a>
+| <a class="footer" href="http://www.skybet.com/skybet?action=GoBingoHome" target="opc">Sky Bingo</a>
 | <a class="footer" href="http://www.freebet.co.uk" target="fb">Free Bets</a>
 <br>
 <br>
@@ -888,10 +1070,10 @@ Football Latest!
 </tr>
 <tr>
 <td class="rh_body">
-<img src="http://images.sportinglife.com/sportinglife/images/rh_pics/drogbaevertonjoy40.jpg" border="0" width="40" height="40" align="left">
-<a href="javascript:;" onclick="ShowPopup('/football/transfer_centre/','transfer_centre','resizable=yes,scrollbars=no,width=860,height=600');" class="rhcol">Transfer Centre!</a><br>
-<a href="javascript:;" onclick="ShowPopup('/football/live_feed/','ff','resizable=yes,scrollbars=yes,width=400,height=520');" class="rhcol">Desktop News Wire!</a><br>
-<a href="http://www.sportinglife.com/football/news" class="rhcol">Latest Headlines!</a>
+<img src="http://images.sportinglife.com/sportinglife/images/rh_pics/40hleb07.jpg" border="0" width="40" height="40" align="left">
+<a href="javascript:;" onclick="ShowPopup('/football/transfer_centre/','transfer_centre','resizable=yes,scrollbars=no,width=860,height=600');" class="rhcol">Transfer Centre!</a><br><a href="javascript:;" onclick="ShowPopup('/football/live_feed/','ff','resizable=yes,scrollbars=yes,width=400,height=520');" class="rhcol">Football News Wire!</a><br><a href="http://www.rivals.net/Forum/" target="newwin" class="rhcol">Message Boards!</a>
+
+
 </td></tr>
 </tbody></table>
 <center><img src="http://www.sportinglife.com/new/dots_h.gif"></center>
@@ -901,20 +1083,35 @@ Football Latest!
 <table width="100%" cellpadding="1" cellspacing="0" border="0" class="leftnav_border">
 <tbody><tr>
 <td class="rh_top">
-England Boss Latest!
+Photo Galleries!
 </td>
 </tr>
 <tr>
 <td class="rh_body">
-<img src="http://images.sportinglife.com/sportinglife/images/rh_pics/40josemourinhoMM2007.jpg" border="0" width="40" height="40" align="left">
-<a href="http://www.sportinglife.com/football/news/story_get.cgi?STORY_NAME=soccer/07/11/28/SOCCER_Mourinho.html" class="rhcol">Jose Plays It Cool!</a><br>
-<a href="http://www.bettingzone.co.uk/story_get.cgi?STORY_NAME=betting/07/11/28/manual_143123.html" target="newwin" class="rhcol">Redknapp Drifts!</a><br>
-<a href="http://www.sportinglife.com/football/international/england/news/" class="rhcol">England News Index!</a><br>
+<img src="http://images.sportinglife.com/sportinglife/images/rh_pics/40ryangiggspltrophy.jpg" border="0" width="40" height="40" align="left">
+<a href="http://gallery.sportinglife.com/Gallery_Detail/0,17732,13260_3552340,00.html" class="rhcol">United Champions!</a><br>
+<a href="http://gallery.sportinglife.com/Gallery_Detail/0,17732,13260_3551351,00.html" class="rhcol">Relegation Battle!</a><br>
+<a href="http://gallery.sportinglife.com/Gallery_Detail/0,17732,13260_3555272,00.html" class="rhcol">Turkish Grand Prix!</a>
 </td></tr>
 </tbody></table>
 <center><img src="http://www.sportinglife.com/new/dots_h.gif"></center>
 <!-- End of extra box -->
 
+<!-- Extra box to go above any automated links -->
+<table width="100%" cellpadding="1" cellspacing="0" border="0" class="leftnav_border">
+<tbody><tr>
+<td class="rh_top">
+Today's Top Tip!
+</td>
+</tr>
+<tr>
+<td class="rh_body">
+<img src="http://images.sportinglife.com/sportinglife/images/rh_pics/40newneilwarnocksheffu.jpg" border="0" width="40" height="40" align="left">
+<a href="http://www.bettingzone.co.uk/football/betting/story_get.cgi?STORY_NAME=betting/08/05/12/manual_194822.html" target="newwin" class="rhcol">Check Out Our Best Bets For the Midweek Play-Off Action!</a>
+</td></tr>
+</tbody></table>
+<center><img src="http://www.sportinglife.com/new/dots_h.gif"></center>
+<!-- End of extra box -->
 
 <!-- Editorial control for right hand latest scores -->
 
@@ -951,7 +1148,7 @@ Market Moves Centre!
 <tr>
 <td class="rh_body">
 <a href="javascript:;" onclick="ShowPopup('http://www.bettingzone.co.uk/market_moves/','bzmarket','resizable=yes,scrollbars=no,width=915,height=580');" class="rhcol">
-More Cash On Mourinho!
+Twice Over Evens For Dante!
 </a>
 </td></tr>
 </tbody></table>
@@ -961,6 +1158,43 @@ More Cash On Mourinho!
 
 <!-- ***************** End of Automated Right Hand Links *************************** -->
 
+<table width="100%" cellpadding="1" cellspacing="0" border="0" class="leftnav_border">
+<tbody><tr>
+<td class="rh_top">
+Tipster Challenge!
+</td>
+</tr>
+<tr>
+<td class="rh_body">
+<a href="http://horses.sportinglife.com/tipster/" class="rhcol">Win A VIP York Trip!</a><br>
+<a href="http://www.sportinglife.com/racing/news/story_get.cgi?STORY_NAME=racing/08/04/30/manual_163013.html" class="rhcol">Game Details!</a>
+</td></tr>
+</tbody></table>
+<center><img src="http://www.sportinglife.com/new/dots_h.gif"></center>
+<table width="100%" cellpadding="1" cellspacing="0" border="0" class="leftnav_border">
+<tbody><tr>
+<td class="rh_top">
+Bet Now With Sky Bet!
+</td>
+</tr>
+<tr>
+<td class="rh_body">
+<a href="http://www.skybet.com/skybet?offer=20&amp;aff=689" target="_blank" class="rhcol">Free Ł20 Matched Bet!</a>
+</td></tr>
+</tbody></table>
+<center><img src="http://www.sportinglife.com/new/dots_h.gif"></center>
+<table width="100%" cellpadding="1" cellspacing="0" border="0" class="leftnav_border">
+<tbody><tr>
+<td class="rh_top">
+Audio Sportscast!
+</td>
+</tr>
+<tr>
+<td class="rh_body">
+<a href="http://audio.teamtalk.com/Costar/4829BCA2.wma &#10;" class="rhcol">Tuesday PM Bulletin!</a><br>
+</td></tr>
+</tbody></table>
+<center><img src="http://www.sportinglife.com/new/dots_h.gif"></center>
 <table width="100%" cellpadding="1" cellspacing="0" border="0" class="leftnav_border">
 <tbody><tr>
 <td class="rh_top">
@@ -981,12 +1215,13 @@ Racing Live!
 <table width="100%" cellpadding="1" cellspacing="0" border="0" class="leftnav_border">
 <tbody><tr>
 <td class="rh_top">
-Golf Live!
+Cricket Live!
 </td>
 </tr>
 <tr>
 <td class="rh_body">
-<a href="javascript:void(window.open('http://www.teamtalk.com/SportingLife/Golf/Leaderboard_Popup','golfScores','width=555,height=400,scrollbars=yes,resize=yes'));" class="rhcol">Nedbank Challenge Latest!</a><br>
+<a href="http://www.sportinglife.com/cricket/scorecard/" class="rhcol">County Scorecards!</a><br>
+<a href="javascript:;" onclick="ShowPopup('http://live.cricket365.com/livescore/tracker2/index.phtml/c365','14968','resizable=yes,scrollbars=no,width=680,height=525');" class="rhcol">IPL: Kolkata v Delhi!</a>
 </td></tr>
 </tbody></table>
 <center><img src="http://www.sportinglife.com/new/dots_h.gif"></center>
@@ -1005,99 +1240,20 @@ Greyhounds Live!
 <table width="100%" cellpadding="1" cellspacing="0" border="0" class="leftnav_border">
 <tbody><tr>
 <td class="rh_top">
-Sky Bet Special!
-</td>
-</tr>
-<tr>
-<td class="rh_body">
-<a href="http://www.skybet.com/skybet?offer=20&amp;aff=693" target="newwin" class="rhcol">Ł20 Free Matched Bet!</a>
-
-</td></tr>
-</tbody></table>
-<center><img src="http://www.sportinglife.com/new/dots_h.gif"></center>
-<table width="100%" cellpadding="1" cellspacing="0" border="0" class="leftnav_border">
-<tbody><tr>
-<td class="rh_top">
-Audio Sportscast!
-</td>
-</tr>
-<tr>
-<td class="rh_body">
-<a href="http://audio.teamtalk.com/Costar/474E9247.wma" class="rhcol">Thursday AM Bulletin!</a>
-</td></tr>
-</tbody></table>
-<center><img src="http://www.sportinglife.com/new/dots_h.gif"></center>
-<table width="100%" cellpadding="1" cellspacing="0" border="0" class="leftnav_border">
-<tbody><tr>
-<td class="rh_top">
 Tonight's Football
 </td>
 </tr>
 <tr>
 <td class="rh_body">
-<a href="http://www.sportinglife.com/football/cups/uefacup/news/story_get.cgi?STORY_NAME=soccer/07/11/28/SOCCER_Tottenham.html" class="rhcol">Tottenham v Aalborg</a><br>
-<a href="http://www.sportinglife.com/football/cups/uefacup/news/story_get.cgi?STORY_NAME=soccer/07/11/28/SOCCER_Bolton.html" class="rhcol">Bolton v Aris Salonika</a><br>
-<a href="http://www.sportinglife.com/football/scottishpremier/news/story_get.cgi?STORY_NAME=soccer/07/11/28/SOCCER_Atletico_Madrid_Nightlead.html" class="rhcol">Atletico Madrid v Aberdeen</a><br>
-<a href="http://www.sportinglife.com/football/cups/uefacup/news/" class="rhcol">More Match Previews</a><br>
-<a href="http://www.bettingzone.co.uk/football/betting/story_get.cgi?STORY_NAME=betting/07/11/28/manual_120507.html" class="rhcol" target="newwin">Full Betting Analysis</a>
+<a href="http://www.sportinglife.com/football/cc_championship/news/story_get.cgi?STORY_NAME=nonwire_soccer/08/05/12/manual_223754.html&amp;TEAMHD=nationwide1" class="rhcol">Bristol City v Crystal Palace</a><br>
+<a href="http://www.sportinglife.com/football/scottishpremier/news/story_get.cgi?STORY_NAME=soccer/08/05/12/SOCCER_Gretna.html&amp;TEAMHD=scotspremiership" class="rhcol">Gretna v Hearts</a><br>
 </td></tr>
 </tbody></table>
 <center><img src="http://www.sportinglife.com/new/dots_h.gif"></center>
 <table width="100%" cellpadding="1" cellspacing="0" border="0" class="leftnav_border">
 <tbody><tr>
 <td class="rh_top">
-Wednesday Football
-</td>
-</tr>
-<tr>
-<td class="rh_body">
-<a href="/football/live/reports/story_get.cgi?STORY_NAME=soccer/07/11/28/SOCCER_Liverpool.html" class="rhcol">Liverpool 4 Porto 1</a><br>
-<a href="/football/live/reports/story_get.cgi?STORY_NAME=soccer/07/11/28/SOCCER_Chelsea.html" class="rhcol">Rosenborg 0 Chelsea 4</a><br>
-<a href="/football/live/reports/story_get.cgi?STORY_NAME=soccer/07/11/28/SOCCER_Celtic.html" class="rhcol">Celtic 2 Shakhtar 1</a><br>
-<a href="/football/live/reports/story_get.cgi?STORY_NAME=international_feed/07/11/28/SOCCER_Tur-Besiktas_Nightlead.html" class="rhcol">Besiktas 2 Marseille 1</a><br>
-<a href="/football/live/reports/story_get.cgi?STORY_NAME=international_feed/07/11/28/SOCCER_Spa-Valencia_Nightlead.html" class="rhcol">Valencia 0 Schalke 0</a><br>
-<a href="/football/live/reports/story_get.cgi?STORY_NAME=international_feed/07/11/28/SOCCER_Ger-Werder_Bremen_Nightlead.html" class="rhcol">W Bremen 3 Real Madrid 2</a><br>
-<a href="/football/live/reports/story_get.cgi?STORY_NAME=international_feed/07/11/28/SOCCER_Ita-Lazio_Nightlead.html" class="rhcol">Lazio 1 Olympiacos 2</a><br>
-<a href="/football/live/reports/story_get.cgi?STORY_NAME=international_feed/07/11/28/SOCCER_Por-Benfica_Nightlead.html" class="rhcol">Benfica 1 AC Milan 1</a><br>
-<a href="/football/live/reports/story_get.cgi?STORY_NAME=soccer/07/11/28/SOCCER_Blackburn.html" class="rhcol">Blackburn 0 Aston Villa 4</a><br>
-<a href="/football/live/reports/story_get.cgi?STORY_NAME=soccer/07/11/28/SOCCER_Plymouth.html" class="rhcol">Plymouth 1 West Brom 2</a><br>
-<a href="/football/live/reports/story_get.cgi?STORY_NAME=soccer/07/11/28/SOCCER_Wolves.html" class="rhcol">Wolves 1 Colchester 0</a><br>
-<a href="http://www.sportinglife.com/football/results/" class="rhcol">Scores/Scorers</a><br>
-<a href="http://www.sportinglife.com/football/live/teams" class="rhcol">Match Summaries</a><br>
-<a href="http://www.sportinglife.com/football/live/quotes/" class="rhcol">Post-Match Reaction</a><br>
-<a href="http://www.sportinglife.com/football/tables/table_index.html" class="rhcol">Updated League Tables</a><br>
-<a href="http://www.sportinglife.com/football/cups/championsleague/standings/index.html" class="rhcol">Champs League Standings</a>
-</td></tr>
-</tbody></table>
-<center><img src="http://www.sportinglife.com/new/dots_h.gif"></center>
-<table width="100%" cellpadding="1" cellspacing="0" border="0" class="leftnav_border">
-<tbody><tr>
-<td class="rh_top">
-Hatton v Mayweather!
-</td>
-</tr>
-<tr>
-<td class="rh_body">
-<a href="http://www.sportinglife.com/boxing/news/story_get.cgi?STORY_NAME=boxing/07/11/28/manual_095351.html" class="rhcol">Ricky - Why I'll Prevail!</a><br><a href="http://www.sportinglife.com/boxing/news/story_get.cgi?STORY_NAME=boxing/07/11/28/manual_091859.html" class="rhcol">Hitman Follows Duran Recipe!</a><br><a href="http://www.sportinglife.com/boxing/news/story_get.cgi?STORY_NAME=boxing/07/11/28/manual_085659.html" class="rhcol">Ricky/Billy A Perfect Team!</a><br><a href="http://www.sportinglife.com/boxing/news/story_get.cgi?STORY_NAME=boxing/07/11/28/manual_075201.html" class="rhcol">Golden Boy Tips Hatton Win!</a><br><a href="http://www.skybet.com/skybet?action=GoEvEv&amp;id=10873682&amp;aff=683" target="newwin" class="rhcol">Latest Big-Fight Odds!</a>
-</td></tr>
-</tbody></table>
-<center><img src="http://www.sportinglife.com/new/dots_h.gif"></center>
-<table width="100%" cellpadding="1" cellspacing="0" border="0" class="leftnav_border">
-<tbody><tr>
-<td class="rh_top">
-Racing Columns!
-</td>
-</tr>
-<tr>
-<td class="rh_body">
-<a href="http://www.sportinglife.com/racing/news/story_get.cgi?STORY_NAME=racing/07/11/27/manual_091127.html" class="rhcol">Dave Ord's UK Verdict!</a><br><a href="http://www.sportinglife.com/racing/news/story_get.cgi?STORY_NAME=racing/07/11/26/manual_084453.html" class="rhcol">Ryan McElligott's Irish Eye!</a>
-</td></tr>
-</tbody></table>
-<center><img src="http://www.sportinglife.com/new/dots_h.gif"></center>
-<table width="100%" cellpadding="1" cellspacing="0" border="0" class="leftnav_border">
-<tbody><tr>
-<td class="rh_top">
-Premier League Clubs
+Premier League Teams
 </td>
 </tr>
 <tr>
@@ -1133,14 +1289,16 @@ Free Betting Tips!
 </tr>
 <tr>
 <td class="rh_body">
-<a href="http://www.bettingzone.co.uk/daily_tips/index.html" class="rhcol" target="newwin">Thursday Racing Tips</a><br>
-<a href="http://www.bettingzone.co.uk/placepot/index.html" class="rhcol" target="newwin">Thursday Placepot Analysis</a><br>
-<a href="http://www.bettingzone.co.uk/football/betting/story_get.cgi?STORY_NAME=betting/07/11/28/manual_120507.html" class="rhcol" target="newwin">Thursday UEFA Cup</a><br>
-<a href="http://www.bettingzone.co.uk/us_sports/betting/story_get.cgi?STORY_NAME=betting/07/11/29/manual_082630.html" class="rhcol" target="newwin">Thursday NFL Preview</a><br>
-<a href="http://www.bettingzone.co.uk/story_get.cgi?STORY_NAME=racing/07/11/26/manual_185822.html" class="rhcol" target="newwin">The Insider: Hennessy</a><br>
-<a href="http://www.bettingzone.co.uk/story_get.cgi?STORY_NAME=betting/07/11/29/manual_072551.html" class="rhcol" target="newwin">Rally GB Preview</a><br>
-<a href="http://www.bettingzone.co.uk/story_get.cgi?STORY_NAME=betting/07/11/29/manual_085706.html" class="rhcol" target="newwin">Davis Cup Final Preview</a><br>
-<a href="http://www.bettingzone.co.uk/story_get.cgi?STORY_NAME=betting/07/11/29/manual_115818.html" class="rhcol" target="newwin">Weekend Boxing Preview</a><br>
+<a href="http://www.bettingzone.co.uk/daily_tips/index.html" class="rhcol" target="newwin">Tuesday Racing Tips</a><br>
+<a href="http://www.bettingzone.co.uk/placepot/index.html" class="rhcol" target="newwin">Tuesday Placepot Picks</a><br>
+<a href="http://www.bettingzone.co.uk/story_get.cgi?STORY_NAME=betting/08/05/13/manual_173948.html" class="rhcol" target="newwin">UEFA Cup Final</a><br>
+<a href="http://www.bettingzone.co.uk/football/betting/story_get.cgi?STORY_NAME=betting/08/05/12/manual_194822.html" class="rhcol" target="newwin">Championship Play-Offs</a><br>
+<a href="http://www.bettingzone.co.uk/racing/betting/story_get.cgi?STORY_NAME=racing/08/05/13/manual_133703.html" class="rhcol" target="newwin">Prophet: Musidora Stakes</a><br>
+<a href="http://www.bettingzone.co.uk/racing/betting/story_get.cgi?STORY_NAME=racing/08/05/13/manual_135847.html" class="rhcol" target="newwin">Holt: York Wednesday</a><br>
+<a href="http://www.bettingzone.co.uk/story_get.cgi?STORY_NAME=betting/08/05/13/manual_082950.html" class="rhcol" target="newwin">England v NZ Test Series</a><br>
+<a href="http://www.bettingzone.co.uk/cricket/betting/story_get.cgi?STORY_NAME=betting/08/05/13/manual_122638.html" class="rhcol" target="newwin">County Ch'ship Cricket</a><br>
+<a href="http://www.bettingzone.co.uk/story_get.cgi?STORY_NAME=betting/08/05/12/manual_185301.html" class="rhcol" target="newwin">Irish Open Golf</a><br>
+<a href="http://www.bettingzone.co.uk/golf/betting/story_get.cgi?STORY_NAME=betting/08/05/13/manual_120010.html" class="rhcol" target="newwin">AT&amp;T Classic Golf</a><br>
 
 </td></tr>
 </tbody></table>
@@ -1170,12 +1328,12 @@ Free Betting Tips!
 if (window.adgroupid == undefined) {
 	window.adgroupid = Math.round(Math.random() * 1000);
 }
-document.write('<scri'+'pt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|662|1241795|0|168|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+document.write('<scri'+'pt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|662|1241795|0|168|ADTECH;loc=100;target=_blank;key=key=key1+key2+key3+key4+'+segQS+';grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|662|1241795|0|168|ADTECH;loc=100;target=_blank;key=;grp=5554232;misc=1580518007023"></script>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|662|1241795|0|168|ADTECH;loc=100;target=_blank;key=key=key1+key2+key3+key4+;grp=5554232;misc=1580518006593"></script>
 <noscript>
-<a href="http://adserver.adtech.de/adlink|3.0|662|1241795|0|168|ADTECH;loc=300;key=" target="_blank">
-<img src="http://adserver.adtech.de/adserv|3.0|662|1241795|0|168|ADTECH;loc=300;key=" border="0" />
+<a href="http://adserver.adtech.de/adlink|3.0|662|1241795|0|168|ADTECH;loc=300;key=key=key1+key2+key3+key4+'+segQS+'" target="_blank">
+<img src="http://adserver.adtech.de/adserv|3.0|662|1241795|0|168|ADTECH;loc=300;key=+'+segQS+'" border="0" />
 </a>
 </noscript>
 <!-- END 120x600 skyscraper -->
@@ -1188,7 +1346,7 @@ document.write('<scri'+'pt language="javascript1.1" src="http://adserver.adtech.
         var txt;  
         txt= '<ifr' + 'ame width=' + width + ' height=' + height + 'style="border-style: none" frameborder=0 scrolling=no marginheight=0 marginwidth=0 src=http://msxml.infospace.com/uk.cntx.team2uk.sportl.a_/search/web/_/1/3?engineset=uk-only&url='+ ref_url +' ></iframe>';
         document.write(txt);
-	</script><iframe width="120" height="600style=&quot;border-style:" none"="" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://msxml.infospace.com/uk.cntx.team2uk.sportl.a_/search/web/_/1/3?engineset=uk-only&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20071129144558id_%2Fhttp%253A%2F%2Fwww.sportinglife.com%2Finfo%2Fprivacy.html"></iframe>
+	</script><iframe width="120" height="600style=&quot;border-style:" none"="" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://msxml.infospace.com/uk.cntx.team2uk.sportl.a_/search/web/_/1/3?engineset=uk-only&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20080513102445id_%2Fhttp%253A%2F%2Fwww.sportinglife.com%2Finfo%2Fprivacy.html"></iframe>
 </td></tr>
 </tbody></table>
 
@@ -1296,7 +1454,7 @@ function starts_scroll() {
  <tbody><tr>
   <td width="275" align="right">
    <div style="position:relative; background-color:white; overflow:hidden; width:273; height:17px; background-color:#FFFFFF; border:1px black solid;">
-   <div align="left" id="s_scroll" style="position: relative; top: 2px; background-color: white; font-weight: bold; font-size: 11px; color: rgb(0, 0, 0); left: 233px;" onmouseover="pauses_scroll(s_scroll1)" onmouseout="resumes_scroll()"><nobr><form style="display:inline;" method="get" id="infospaceSearchF1" name="infospaceSearchF1" action="http://search.teamtalk.com/Search"><input type="hidden" value="World cup football" name="searchParams"><input type="hidden" value="web" name="searchWithin"><a style="color:#000000;" href="javascript:void(document.getElementById('infospaceSearchF1').submit());">World cup football!</a></form>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<form style="display:inline;" method="get" id="infospaceSearchF2" name="infospaceSearchF2" action="http://search.teamtalk.com/Search"><input type="hidden" value="Football tickets" name="searchParams"><input type="hidden" value="web" name="searchWithin"><a style="color:#000000;" href="javascript:void(document.getElementById('infospaceSearchF2').submit());">Football tickets</a></form>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<form style="display:inline;" method="get" id="infospaceSearchF3" name="infospaceSearchF3" action="http://search.teamtalk.com/Search"><input type="hidden" value="Sportswear" name="searchParams"><input type="hidden" value="web" name="searchWithin"><a style="color:#000000;" href="javascript:void(document.getElementById('infospaceSearchF2').submit());">Sportswear</a></form>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<form style="display:inline;" method="get" id="infospaceSearchF4" name="infospaceSearchF4" action="http://search.teamtalk.com/Search"><input type="hidden" value="Screensavers name=" searchparams'=""><input type="hidden" value="web" name="searchWithin"><a style="color:#000000;" href="javascript:void(document.getElementById('infospaceSearchF2').submit());">Screensavers</a></form>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<form style="display:inline;" method="get" id="infospaceSearchF5" name="infospaceSearchF5" action="http://search.teamtalk.com/Search"><input type="hidden" value="Football Betting" name="searchParams"><input type="hidden" value="web" name="searchWithin"><a style="color:#000000;" href="javascript:void(document.getElementById('infospaceSearchF2').submit());">Football Betting</a></form>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<form style="display:inline;" method="get" id="infospaceSearchF6" name="infospaceSearchF6" action="http://search.teamtalk.com/Search"><input type="hidden" value="Football Shirts" name="searchParams"><input type="hidden" value="web" name="searchWithin"><a style="color:#000000;" href="javascript:void(document.getElementById('infospaceSearchF2').submit());">Football Shirts</a></form>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<form style="display:inline;" method="get" id="infospaceSearchF7" name="infospaceSearchF7" action="http://search.teamtalk.com/Search"><input type="hidden" value="broadband" name="searchParams"><input type="hidden" value="web" name="searchWithin"><a style="color:#000000;" href="javascript:void(document.getElementById('infospaceSearchF2').submit());">Broadband</a></form></nobr></div>
+   <div align="left" id="s_scroll" style="position: relative; top: 2px; background-color: white; font-weight: bold; font-size: 11px; color: rgb(0, 0, 0); left: 223px;" onmouseover="pauses_scroll(s_scroll1)" onmouseout="resumes_scroll()"><nobr><form style="display:inline;" method="get" id="infospaceSearchF1" name="infospaceSearchF1" action="http://search.teamtalk.com/Search"><input type="hidden" value="World cup football" name="searchParams"><input type="hidden" value="web" name="searchWithin"><a style="color:#000000;" href="javascript:void(document.getElementById('infospaceSearchF1').submit());">World cup football!</a></form>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<form style="display:inline;" method="get" id="infospaceSearchF2" name="infospaceSearchF2" action="http://search.teamtalk.com/Search"><input type="hidden" value="Football tickets" name="searchParams"><input type="hidden" value="web" name="searchWithin"><a style="color:#000000;" href="javascript:void(document.getElementById('infospaceSearchF2').submit());">Football tickets</a></form>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<form style="display:inline;" method="get" id="infospaceSearchF3" name="infospaceSearchF3" action="http://search.teamtalk.com/Search"><input type="hidden" value="Sportswear" name="searchParams"><input type="hidden" value="web" name="searchWithin"><a style="color:#000000;" href="javascript:void(document.getElementById('infospaceSearchF2').submit());">Sportswear</a></form>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<form style="display:inline;" method="get" id="infospaceSearchF4" name="infospaceSearchF4" action="http://search.teamtalk.com/Search"><input type="hidden" value="Screensavers name=" searchparams'=""><input type="hidden" value="web" name="searchWithin"><a style="color:#000000;" href="javascript:void(document.getElementById('infospaceSearchF2').submit());">Screensavers</a></form>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<form style="display:inline;" method="get" id="infospaceSearchF5" name="infospaceSearchF5" action="http://search.teamtalk.com/Search"><input type="hidden" value="Football Betting" name="searchParams"><input type="hidden" value="web" name="searchWithin"><a style="color:#000000;" href="javascript:void(document.getElementById('infospaceSearchF2').submit());">Football Betting</a></form>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<form style="display:inline;" method="get" id="infospaceSearchF6" name="infospaceSearchF6" action="http://search.teamtalk.com/Search"><input type="hidden" value="Football Shirts" name="searchParams"><input type="hidden" value="web" name="searchWithin"><a style="color:#000000;" href="javascript:void(document.getElementById('infospaceSearchF2').submit());">Football Shirts</a></form>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<form style="display:inline;" method="get" id="infospaceSearchF7" name="infospaceSearchF7" action="http://search.teamtalk.com/Search"><input type="hidden" value="broadband" name="searchParams"><input type="hidden" value="web" name="searchWithin"><a style="color:#000000;" href="javascript:void(document.getElementById('infospaceSearchF2').submit());">Broadband</a></form></nobr></div>
    </div>
   </td>
  </tr>
@@ -1328,6 +1486,14 @@ function initStoryLinks() {
 		addLoadEvent(initStoryLinks);
 		addLoadEvent(starts_scroll);
 </script>
+<!-- START REVENUE SCIENCE PIXELLING CODE -->
+         <script src="http://js.revsci.net/gateway/gw.js?csid=G07611"></script>
+         <script type="text/javascript" language="JavaScript" charset="utf-8">
+         <!--
+         DM_tag();
+         //-->
+         </script>
+<!-- END REVENUE SCIENCE PIXELLING CODE -->
 
 
 </body></html>
