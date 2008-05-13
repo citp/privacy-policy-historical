@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the freshcope.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516023622id_/http%3A//www.freshcope.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshcope.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513091641id_/http%3A//www.freshcope.com/privacy.aspx) for the most accurate reproduction.*
 
-# U.S. Smokeless Tobacco | Privacy Policy
+# Copenhagen® Smokeless Tobacco - Privacy Policy
 
-Last Updated on 1/5/05
+  
+**Last Updated on 1/5/05**
 
 General  
 U.S. Smokeless Tobacco Brands Inc. respects the privacy of every adult individual who visits our web sites. This Privacy Policy outlines the information USSTB may collect and how we may use that information.
