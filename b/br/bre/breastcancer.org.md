@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216011623id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513084630id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement.jsp) for the most accurate reproduction.*
 
 # Privacy Statement
+
+**Bloom** with Breastcancer.org this spring by supporting the care until the cure.
+
+[Learn more](http://www.breastcancer.org/about_us/donate/bloom2008.jsp)
 
 Last updated January 26, 2006
 
