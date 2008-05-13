@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamrankings.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214020006id_/http%3A//teamrankings.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamrankings.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513095707id_/http%3A//teamrankings.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : TeamRankings.com
 
@@ -62,4 +62,4 @@ If you have questions or suggestions regarding our privacy policy, please email 
 
 |   
   
-Copyright 2000-2007 Team Rankings, LLC. All rights reserved. All content on this site is produced for entertainment purposes only and is not intended to be used in direct or indirect violation of any local, state, federal, or international law(s). By using this site, you agree and consent to our [Terms of Service](http://teamrankings.com/tos.php) and [Privacy Policy](http://teamrankings.com/privacy.php). 
+Copyright 2000-2008 Team Rankings, LLC. All rights reserved. All content on this site is produced for entertainment purposes only and is not intended to be used in direct or indirect violation of any local, state, federal, or international law(s). By using this site, you agree and consent to our [Terms of Service](http://teamrankings.com/tos.php) and [Privacy Policy](http://teamrankings.com/privacy.php). 
