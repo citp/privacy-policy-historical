@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the jaspersoft.com privacy policy that was archived on 2007-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070704141253id_/http%3A//www.jaspersoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaspersoft.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513164954id_/http%3A//www.jaspersoft.com/privacy.html) for the most accurate reproduction.*
 
-# JasperSoft | Policies
+# JasperSoft - Policies
 
+  
 [](http://www.truste.org/ivalidate.php?url=www.jaspersoft.com&sealid=101)
-
-### Policies 
 
 JasperSoft is committed to protecting your personal information and respecting your privacy. Our goal is to give you as much control and information as possible regarding your personal data and the use we make of it in the course of our business. We want to be a leader in providing comprehensive privacy information to our customers. In general, you can visit JasperSoft on the Web without telling us who you are or revealing any information about yourself. 
 
-#### JasperSoft Web Site Privacy Statement 
+### JasperSoft Web Site Privacy Statement
 
 Effective March 13, 2007 , last updated March 13, 2007 
 
@@ -16,19 +15,21 @@ JasperSoft is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
 
-If you have questions or concerns regarding this statement, you should first contact Tom Vu at [tom@jaspersoft.com ](mailto:tom@jaspersoft.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.ph p ](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will then serve as a liaison with us to resolve your concerns.   
-
+If you have questions or concerns regarding this statement, you should first contact Tom Vu at [**tom@jaspersoft.com**](mailto:tom@jaspersoft.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [**http://www.truste.org/consumers/watchdog_complaint.php**](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 **What Information We Gather and Track**  
 There are times when we may need to collect information from you through our Web site. This generally involves filling out forms so you can download or order a JasperSoft or third party product from our Web site. When you download the JasperSoft's PDF files and other product information, we may require you to fill out a form with your name and e-mail address. If you register on our site or sign up for a Webinar, we will request your name, company name, address, email address, and phone number. If you choose to subscribe to our newsletter and promotional emails, we will ask for your email address. 
 
 JasperSoft uses various methods to collect certain other kinds of information, including: 
 
-• Cookies   
-• Referrers   
-• IP addresses   
-• System information 
+  * Cookies
+  * Referrers
+  * IP addresses
+  * System information
 
+
+
+  
 None of these methods can be personally identified with you with the exception of cookies, which can optionally store information that you may enter in forms on our Web site, as described below. 
 
 JasperSoft's software may use Globally Unique Identifiers (GUIDs) to notify us of the installation of one of JasperSoft's products. 
@@ -52,11 +53,11 @@ The personal information gathered from the forms you fill out on our Web site is
 
 JasperSoft, at times, must disclose relevant information about our customers to our contractors such as marketing services and Web analytics companies so they may provide specific services for JasperSoft. JasperSoft requires such contractors to keep your information strictly confidential and to use the information solely on behalf of JasperSoft and not for their own marketing purposes. For purposes of this Privacy Statement, such contractors are not considered "third parties" and JasperSoft may disclose personal information to such contractors without additional notice. 
 
-JasperSoft maintains a Company Directory that lists customers and customer quotes. Prior consent was obtained prior to the use of personally identifiable information, quotations, and company logos. If for any reason a Company chooses to not have information listed in the Company Directory, contact JasperSoft at [info@jaspersoft.com ](mailto:info@jaspersoft.com) with a request to be removed. 
+JasperSoft maintains a Company Directory that lists customers and customer quotes. Prior consent was obtained prior to the use of personally identifiable information, quotations, and company logos. If for any reason a Company chooses to not have information listed in the Company Directory, contact JasperSoft at [**info@jaspersoft.com**](mailto:info@jaspersoft.com) with a request to be removed. 
 
-JasperSoft maintains a Partner Directory with information about JasperSoft business partners. If for any reason a Partner would like to be removed from the directory they may do so by contacting [info@jaspersoft.com ](mailto:info@jaspersoft.com) with a request to be removed. 
+JasperSoft maintains a Partner Directory with information about JasperSoft business partners. If for any reason a Partner would like to be removed from the directory they may do so by contacting [**info@jaspersoft.com**](mailto:info@jaspersoft.com) with a request to be removed. 
 
-**Legal Disclaimer**
+### Legal Disclaimer 
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site 
 
@@ -83,22 +84,22 @@ JasperSoft assumes no obligations of any kind with respect to any feedback provi
 Although JasperSoft may from time to time monitor or review bulletin boards, forums, discussions, postings, transmissions, and the like on the site, JasperSoft is under no obligation to do so and assumes no liability or responsibility arising from the contents of any such communications or for any defamation, error, inaccuracy, libel, obscenity, or profanity contained in any such communication. Site users are prohibited from posting or transmitting any defamatory, libelous, obscene, pornographic, profane, threatening, or unlawful material or any material that could constitute or encourage conduct that would be considered a criminal offense or give rise to civil liability, or otherwise violate any law. JasperSoft may change, edit, or remove any user material or conversations that are illegal, indecent, obscene, or offensive, or that violate JasperSoft's policies in any way. JasperSoft will cooperate with any law enforcement authorities or court order requesting or directing JasperSoft to disclose the identity of anyone posting such materials. 
 
 **Communications to our Consumers**  
-In addition to product update, promotional and informational e-mails that JasperSoft sends to its users from time to time that they have opted to receive on our registration page, we may, on occasion, invite you to participate in a focus group or send you postal mail. If you register with JasperSoft on this site, we will send you a confirmation e-mail. We will also send you e-mail if you download products or white papers from this site, register to attend a JasperSoft Webinar, seminar, or other event, or request to become a JasperSoft Partner. If you would prefer to not receive any of these communications see “Choice/Opt-out”. 
+In addition to product update, promotional and informational e-mails that JasperSoft sends to its users from time to time that they have opted to receive on our registration page, we may, on occasion, invite you to participate in a focus group or send you postal mail. If you register with JasperSoft on this site, we will send you a confirmation e-mail. We will also send you e-mail if you download products or white papers from this site, register to attend a JasperSoft Webinar, seminar, or other event, or request to become a JasperSoft Partner. If you would prefer to not receive any of these communications see "Choice/Opt-out". 
 
 **Choice/Opt-out**  
-Once you supply us with personal information, such as an e-mail address, JasperSoft does not change the manner of usage of such information from its original purpose, unless we first obtain your informed consent. You may change your email preferences by contacting [info@jaspersoft.com ](mailto:info@jaspersoft.com). 
+Once you supply us with personal information, such as an e-mail address, JasperSoft does not change the manner of usage of such information from its original purpose, unless we first obtain your informed consent. You may change your email preferences by contacting [**info@jaspersoft.com**](mailto:info@jaspersoft.com). 
 
-## Service-related Announcements 
+### Service-related Announcements 
 
 We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email You may not opt-out of receiving these service related announcements that are not promotional in nature. 
 
 **Access to Personally Identifiable Information**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change by emailing our Customer Support at [info@jaspersoft.com](mailto:info@jaspersoft.com) or by contacting us by telephone or postal mail at the contact information listed below. 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change by emailing our Customer Support at [**info@jaspersoft.com**](mailto:info@jaspersoft.com) or by contacting us by telephone or postal mail at the contact information listed below. 
 
 **Security**  
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our Web site, you can send email us at [info@jaspersoft.com](mailto:info@jaspersoft.com). 
+If you have any questions about security on our Web site, you can send email us at [**info@jaspersoft.com**](mailto:info@jaspersoft.com). 
 
 JasperSoft employees are required to acknowledge that they understand and will strictly abide by our corporate policies with respect to the confidentiality of user personal information. JasperSoft only gives access to databases containing personal information to employees on a need-to-know basis. Passwords are regularly changed pursuant to security protocols. 
 
@@ -111,7 +112,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have any questions about this privacy statement, the practices of our software or Web sites, you may contact: 
 
 **JasperSoft**  
-E-Mail: [info@jaspersoft.com ](mailto:info@jaspersoft.com)  
+E-Mail: [**info@jaspersoft.com**](mailto:info@jaspersoft.com)  
 303 Second Street   
 Suite 450 North   
 San Francisco, CA 94107 
