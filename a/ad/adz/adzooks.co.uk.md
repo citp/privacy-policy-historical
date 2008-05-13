@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the adzooks.co.uk privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025094906id_/http%3A//london.adzooks.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzooks.co.uk privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513193305id_/http%3A//london.adzooks.co.uk/privacy.shtml) for the most accurate reproduction.*
 
 # London - Adzooks.co.uk - Privacy Policy
+
+  
+
 
 #### In relation to all web site services offered by TRINITY MIRROR DIGITAL MEDIA LIMITED, trading as ADZOOKS, on this website 
 
