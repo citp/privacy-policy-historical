@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watkinsonline.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229055807id_/http%3A//www.watkinsonline.com/privacy.cfm%3FgCatalogLocale%3DUsa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watkinsonline.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513122211id_/http%3A//www.watkinsonline.com/privacy.cfm%3FgCatalogLocale%3DUsa%26ECredit%3D323239) for the most accurate reproduction.*
 
 # WatkinsOnline | Privacy Statement
 
