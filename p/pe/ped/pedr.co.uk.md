@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pedr.co.uk privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214032706id_/http%3A//www.pedr.co.uk/textpage.asp%3FPageNo%3D27%26area%3Dmain) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedr.co.uk privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513152609id_/http%3A//www.pedr.co.uk/textpage.asp%3FPageNo%3D27%26area%3Dmain) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Printer Friendly version](https://web.archive.org/web/20071214032706id_/http%3A//www.pedr.co.uk/printpage.asp?PageNo=27&area=main)
+[Printer Friendly version](https://web.archive.org/web/20080513152609id_/http%3A//www.pedr.co.uk/printpage.asp?PageNo=27&area=main)
 
 Our commitment to your privacy
 
