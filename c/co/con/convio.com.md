@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convio.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213195819id_/http%3A//www.convio.com/site/PageServer%3Fpagename%3Dcom_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convio.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513113439id_/http%3A//www.convio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Convio
 
@@ -6,7 +6,7 @@ Registering with us allows you to take advantage of all our unique services as a
 
 Convio, Inc. ("Convio") has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.convio.com and any other site provided by Convio (collectively, the "Site").
 
-In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. Convio reserves the right at any time and without notice to change this Privacy Policy simply by posting such change on our Site. Any such change will be effective immediately upon posting. 
+In order to fully understand your rights we encourage you to read this Privacy Policy. Convio reserves the right at any time and without notice to change this Privacy Policy simply by posting such change on our Site. Any such change will be effective immediately upon posting. 
 
 Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of: 
 
@@ -48,7 +48,7 @@ Our Site is for adults and usage by children is not intended. We make efforts to
 
 ## Use of "Cookies"
 
-Our Site may use cookies to enhance your experience while using our Site. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular Web site and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard. 
+Our Site may use cookies to enhance your experience while using our Site. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. Use of cookies makes Web surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular Web site and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard. 
 
 Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly when you view them. 
 
@@ -61,8 +61,7 @@ All information provided to Convio is transmitted using SSL (Secure Socket Layer
 Convio provides users with the opportunity to opt-out of receiving communications from us at any time. Convio gives users the following options for removing their information from our database to not receive future communications. 
 
   * You can email us at [webmaster@convio.com](mailto:webmaster@convio.com "E-mail webmaster@convio.com"). 
-  * You can click on the "Unsubscribe" link included at the bottom of your email and follow the instructions on the Web page. 
-  * You can [update your profile](http://www.convio.com/site/ConsProfileUser?dispMode=edit "Update your profile"). After entering your User Name and password, you will access your "My Convio" page. From there, you can subscribe or unsubscribe from our email newsletters by clicking on the accept email selection. 
+  * You can click on the "Unsubscribe" link included at the bottom of your email and follow the instructions on the Web page.  
 
 
 
@@ -72,8 +71,7 @@ Our unsubscribe requests are processed immediately.
 
 Convio gives you the following options for changing and modifying information previously provided. Upon your request, we will also remove any other personally identifying information we may retain from our databases. To make any such changes or requests: 
 
-  * Email us at [webmaster@convio.com](mailto:webmaster@convio.com "E-mail webmaster@convio.com"). 
-  * You can [update your profile](http://www.convio.com/site/ConsProfileUser?dispMode=edit "Change or remove your information from our database"). After entering your User Name and password, you will access your "My Convio" page and view, update and/or remove your account information. 
+  * Email us at [webmaster@convio.com](mailto:webmaster@convio.com "E-mail webmaster@convio.com").  
 
 
 
@@ -102,4 +100,4 @@ Austin, TX 78758
 
 888-528-9501 Toll-free Phone 
 
-You can also send an email to: [webmaster@convio.com](mailto:webmaster@convio.com "E-mail webmaster@convio.com").
+You can also send an email to [webmaster@convio.com](mailto:webmaster@convio.com "E-mail webmaster@convio.com").
