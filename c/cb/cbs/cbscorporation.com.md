@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbscorporation.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215042347id_/http%3A//www.cbscorporation.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbscorporation.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513045938id_/http%3A//www.cbscorporation.com/privacy/index.php) for the most accurate reproduction.*
 
 # CBS Corporation
 
