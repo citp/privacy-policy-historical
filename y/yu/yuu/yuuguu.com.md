@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuuguu.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221043246id_/http%3A//www.yuuguu.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuuguu.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513194640id_/http%3A//yuuguu.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy | Yuuguu
 
