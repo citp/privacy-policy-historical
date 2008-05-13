@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beejive.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217035014id_/http%3A//www.beejive.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beejive.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513232634id_/http%3A//www.beejive.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # BeeJive :: JiveTalk mobile messenger - instant messaging to go
 
