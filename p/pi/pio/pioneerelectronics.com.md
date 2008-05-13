@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pioneerelectronics.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212231427id_/http%3A//www.pioneerelectronics.com/pna/v3/pg/top/div/article/0%2C%2C2076_310070091%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneerelectronics.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514014231id_/http%3A//www.pioneerelectronics.com/PUSA/AboutPioneer/Privacy%2BPolicy) for the most accurate reproduction.*
 
-# Pioneer Electronics - Pioneer Electronics (USA) Inc. Privacy Policy
+# Pioneer USA - Privacy Policy
 
-[Home](http://www.pioneerelectronics.com/pna/v3/pg/home/0,,2076_310069575,00.html) >  [About Pioneer](http://www.pioneerelectronics.com/pna/v3/pg/top/article/0,,2076_310069585,00.html) >  Privacy Policy 
+## Pioneer Electronics (USA) Inc. Privacy Policy
 
 We have created this Privacy Statement to explain the privacy practices for the pioneerelectronics.com Web site, and to demonstrate our commitment to your privacy.
 
