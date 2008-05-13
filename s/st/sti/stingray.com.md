@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stingray.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025012041id_/http%3A//www.roguewave.com/aboutus/legal/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stingray.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513100434id_/http%3A//www.roguewave.com/company/privacy-statement.php) for the most accurate reproduction.*
 
-# Privacy Policy | About Rogue Wave Software
+# Rogue Wave Software Privacy Statement
 
 Roguewave.com (this "Site") is operated by Rogue Wave Software ("Rogue Wave," "we," "us," or "our").
 
