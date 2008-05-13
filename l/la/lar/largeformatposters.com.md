@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the largeformatposters.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227033036id_/http%3A//www.largeformatposters.com/Site-Policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the largeformatposters.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513025303id_/http%3A//www.largeformatposters.com/Site-Policies.html) for the most accurate reproduction.*
 
-# Large Format Posters - Trade Shows, Window Graphics, Gloss Posters, Banners and More
+# Large Fomat Posters Printing
 
 **PRIVACY POLICY**
 
