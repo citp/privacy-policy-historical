@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the photodex.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627021712id_/http%3A//www.photodex.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photodex.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513091652id_/http%3A//www.photodex.com/company/privacy.html) for the most accurate reproduction.*
 
 # Photodex Corporation - Photodex Privacy Policy
+
+Photodex Privacy Policy
 
 ### Photodex Corporation protects the information our customers. We do not distribute or resell the personal information of any user.
 
