@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocktrak.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224203603id_/http%3A//www.stocktrak.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocktrak.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513045541id_/http%3A//www.stocktrak.com/privacy.php) for the most accurate reproduction.*
 
 # Stock Investment Guide | Stock Research | Stock Investing Research
 
