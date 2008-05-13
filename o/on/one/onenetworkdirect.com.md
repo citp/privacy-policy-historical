@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onenetworkdirect.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220024138id_/http%3A//corporate.digitalriver.com/store/driv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onenetworkdirect.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513090314id_/http%3A//corporate.digitalriver.com/store/driv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies%23privacy) for the most accurate reproduction.*
 
 # Digital River is the global leader in e-commerce solutions for software and consumer technology.
 
