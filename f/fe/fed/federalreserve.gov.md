@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218113635id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513045808id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
 
 # FRB: Privacy
 
@@ -37,7 +37,7 @@ For the security of our site and to ensure that the site remains available to al
 
 ## How to Contact Us about the Web Site
 
-If you have a question about the way your information is used in connection with this web site or about the Board's privacy policy and information practices, you may send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551, or send a [Privacy Policy Comment](https://web.archive.org/web/20071218113635id_/http%3A//www.federalreserve.gov/feedback.cfm).
+If you have a question about the way your information is used in connection with this web site or about the Board's privacy policy and information practices, you may send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551, or send a [Privacy Policy Comment](https://web.archive.org/web/20080513045808id_/http%3A//www.federalreserve.gov/feedback.cfm).
 
 ## Responsibility
 
@@ -51,9 +51,11 @@ The Board's Chief Privacy Officer is responsible for ensuring the Board's implem
 
 [Office of Inspector General Information Technology Infrastructure Systems (29 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_oig_it.pdf)
 
-[Personal Identity Verification (PIV) Program (36 KB PDF)](https://web.archive.org/web/20071218113635id_/http%3A//www.federalreserve.gov/generalinfo/privacy/privacyimpactpiv.pdf)
+[Personal Identity Verification (PIV) Program (36 KB PDF)](https://web.archive.org/web/20080513045808id_/http%3A//www.federalreserve.gov/generalinfo/privacy/privacyimpactpiv.pdf)
 
 [Supervisory Enforcement Actions and Special Examinations Tracking System (32 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_sease.pdf)
 
-[Web CAESAR System (48 KB PDF)](https://web.archive.org/web/20071218113635id_/http%3A//www.federalreserve.gov/generalinfo/privacy/pia_caesar.pdf)  
+[Visitor Registration System (35 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_visitor.pdf)
+
+[Web CAESAR System (48 KB PDF)](https://web.archive.org/web/20080513045808id_/http%3A//www.federalreserve.gov/generalinfo/privacy/pia_caesar.pdf)  
 
