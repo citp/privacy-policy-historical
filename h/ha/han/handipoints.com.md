@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the handipoints.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013010116id_/http%3A//www.handipoints.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handipoints.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513151350id_/http%3A//www.handipoints.com/privacy.html) for the most accurate reproduction.*
 
 # Handipoints Privacy Policy
+
+[](http://www.icharter.org/cert/privacy/342212.html)
 
 Effective Date
 
@@ -72,7 +74,7 @@ General
 
 Children 
 
-  * Parents can review, edit, and delete information relating to their child’s Handipoints account by logging in to your account and clicking on the word �edit� next to any child’s account. Any questions should be addressed to support@handipoints.com.
+  * Parents can review, edit, and delete information relating to their child’s Handipoints account by logging in to your account and clicking on the word "edit" next to any child’s account. Any questions should be addressed to support@handipoints.com.
   * If a parent chooses not to allow us to further collect or use a child’s information, parents enrolled in Handipoints Family Accounts can delete their child’s account by sending a written request via email to support@handipoints.com.
 
 
