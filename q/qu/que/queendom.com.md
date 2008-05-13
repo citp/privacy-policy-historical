@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queendom.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223053141id_/http%3A//www.queendom.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queendom.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513071224id_/http%3A//www.queendom.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Report
 
@@ -158,7 +158,7 @@ Session ID (cookies) is used to identify whether you already answered a specific
 
 _1.3.6.2  Surveys_
 
-Queendom surveys are, in essence, scientific psychological studies conducted online. While the questions in these surveys are very personal, no PII is collected in these studies. We do not ask for e-mail addresses or names of our participants. Queendom.com collects and analyzes the data from our surveys on an aggregated (collective) basis. 
+Queendom surveys are, in essence, scientific psychological studies conducted online. While the questions in these surveys are very personal, no personally identifiable data (PII) is collected in these studies. We do not ask for e-mail addresses or names of our participants. Queendom.com collects and analyzes the data from our surveys on an aggregated (collective) basis. 
 
 Many of our surveys offer you the possibility to make comments or answer open-ended questions. We publish a selection of such responses in the articles based on the surveys. All comments are posted anonymously. 
 
