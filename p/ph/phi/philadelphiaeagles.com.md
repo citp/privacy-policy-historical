@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philadelphiaeagles.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016043623id_/http%3A//www.philadelphiaeagles.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philadelphiaeagles.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513125802id_/http%3A//www.philadelphiaeagles.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # PhiladelphiaEagles.com and LincolnFinancialField.com Website Privacy Policy - Philadelphia Eagles
 
@@ -154,10 +154,6 @@ Attn: Website Privacy Policy
 
 | 
 
-| Date | Program | Time (ET)  
----|---|---  
-10/16 | The Daily Eagle | 7 p.m.  
-10/17 | Eagles Live! | 11 a.m.  
-10/17 | The Daily Eagle | 7 p.m.  
-10/18 | Eagles Live! | 12 Noon  
-10/18 | Inside The Eagles | 5 p.m.
+| Date |   | Program | Time (ET)  
+---|---|---|---  
+5/19 |  | Eagles Live! | 2 pm
