@@ -1,18 +1,9 @@
-> *The following text is extracted and transformed from the question.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011032827id_/http%3A//www.question.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the question.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513124247id_/http%3A//www.question.com/privacy.php) for the most accurate reproduction.*
 
 # Question.com
 
-|   
----|---  
   
-   
----  
-  |  |    |  **Related Sites and Content**  
-  
-  
-  
-  
-The following policy outlines the types of information that we gather about you and the way that way we use and don't use this information. 
+The following policy outlines the types of information that we gather about you and the way that way we use and don't use this information.
 
 The information that we collect about our visitors falls into three general categories: 
 
@@ -30,7 +21,3 @@ Please also note that as our business grows, we may buy or sell various assets. 
 **Questions on Privacy**
 
 If you have questions or concerns about the children's privacy statement, the privacy practices of the Question.com site, or your dealings with Question.com, please contact us.
-
-  
-© 2004-2007 Question.com. All Rights Reserved.  
-0 ms
