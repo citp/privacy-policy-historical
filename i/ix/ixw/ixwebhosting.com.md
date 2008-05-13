@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixwebhosting.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217043347id_/http%3A//www.ixwebhosting.com/index.php/v2/pages.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixwebhosting.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513222347id_/http%3A//www.ixwebhosting.com/index.php/v2/pages.privacy) for the most accurate reproduction.*
 
 # Privacy Policy: IX Web Hosting,Guarantees,Uptime,Anti-Spam
 
@@ -6,7 +6,7 @@ I. A TRUSTe Privacy Program Member
 
 Ecommerce Corporation (dba IX Web Hosting) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.ixwebhosting.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact the Ecommerce Corporation Customer Service Department by calling 1-800-861-9394, or emailing [info@ecommerce.com](mailto:info@ecommerce.com), or writing to: Ecommerce Corporation, 247 Mitch Lane, Hopkinsville, Kentucky 42240. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at   
+If you have questions or concerns regarding this statement, you should first contact the Ecommerce Corporation Customer Service Department by calling 1-800-861-9394, or emailing [info@ecommerce.com](mailto:info@ecommerce.com), or writing to: Ecommerce Corporation, 1774 Dividend Drive, Columbus, OH 43228. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at   
 <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 [](http://www.ixwebhosting.com/index.php/v2/pages.privacy#top)
@@ -69,9 +69,9 @@ VIII. Special Offers and Updates
 
 Our customers and users will occasionally receive newsletters or e-mails with information on products, services, or special offers. Out of respect for the privacy of our users, Ecommerce gives them the opportunity to opt-out from receiving these types of communications. 
 
-If do not wish to receive our newsletter, promotional communications or any other non-service related communication, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or you may contact us at 1-800-861-9394 or via written mail by sending a letter to 247 Mitch Lane, Hopkinsville, Kentucky 42240, to opt-out. 
+If do not wish to receive our newsletter, promotional communications or any other non-service related communication, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or you may contact us at 1-800-861-9394 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
 
-On some occasions, it may be necessary to send out service-related announcements. In most cases, users may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account. You may deactivate your account by creating a cancellation request ticket in your hosting control panel, or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us at 1-800-861-9394 or via written mail by sending a letter to 247 Mitch Lane, Hopkinsville, Kentucky 42240, to opt-out. 
+On some occasions, it may be necessary to send out service-related announcements. In most cases, users may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account. You may deactivate your account by creating a cancellation request ticket in your hosting control panel, or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us at 1-800-861-9394 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
 
 [](http://www.ixwebhosting.com/index.php/v2/pages.privacy#top)
 
@@ -102,7 +102,7 @@ If you have any questions about security on our Web site, you can send email us 
 
 XI. Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the changes within your user control panel. Alternatively, you may inform us of any changes by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us by telephone at 1-800-861-9394 or via postal mail at 247 Mitch Lane, Hopkinsville, Kentucky, 42240. 
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the changes within your user control panel. Alternatively, you may inform us of any changes by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us by telephone at 1-800-861-9394 or via postal mail at 1774 Dividend Drive, Columbus, OH 43228. 
 
 [](http://www.ixwebhosting.com/index.php/v2/pages.privacy#top)
 
