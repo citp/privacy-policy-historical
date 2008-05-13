@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sudio.com privacy policy that was archived on 2007-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071111235131id_/http%3A//www.sudio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sudio.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513040816id_/http%3A//www.sudio.com/privacy.php) for the most accurate reproduction.*
 
 # Affordable, full service web hosting packages.
 
 |  | 
 
-This statement discloses the privacy practices of Sudio. By using Sudio or by agreeing to the Terms and Conditions in Sudio's [Terms of Service](https://web.archive.org/web/20071111235131id_/http%3A//www.sudio.com/terms.php), you consent and agree, without limitation or qualification, to the collection, use and disclosure of personal information and to the privacy practices set out in the Privacy Policy and to any other privacy or data collection policy which is displayed or is included as a link in any individual Sudio web site. The following is a list of our current Privacy Policy items. We suggest you check back from time-to-time, to see what has been updated. Questions or concerns regarding our use of your information and this statement should be directed to Sudio's [Privacy Coordinator](mailto:abuse@sudio.com).
+This statement discloses the privacy practices of Sudio. By using Sudio or by agreeing to the Terms and Conditions in Sudio's [Terms of Service](https://web.archive.org/web/20080513040816id_/http%3A//www.sudio.com/terms.php), you consent and agree, without limitation or qualification, to the collection, use and disclosure of personal information and to the privacy practices set out in the Privacy Policy and to any other privacy or data collection policy which is displayed or is included as a link in any individual Sudio web site. The following is a list of our current Privacy Policy items. We suggest you check back from time-to-time, to see what has been updated. Questions or concerns regarding our use of your information and this statement should be directed to Sudio's [Privacy Coordinator](mailto:abuse@sudio.com).
 
 Transmission of Personal Data:
 
