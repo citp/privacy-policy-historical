@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountsteel.com privacy policy that was archived on 2007-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071111025209id_/http%3A//discountsteel.com/index.cfm/go/main.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountsteel.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513131348id_/http%3A//www.discountsteel.com/index.cfm/go/main.privacy) for the most accurate reproduction.*
 
 # Discount Steel - The widest selection of steel, aluminum and other metals at discount prices.
 
