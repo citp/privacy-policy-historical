@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the spafinder.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024122856id_/http%3A//www.spafinder.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spafinder.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513150849id_/http%3A//www.spafinder.com/about/privacy.jsp) for the most accurate reproduction.*
 
-# SpaFinder Privacy Policy
+# SpaFinder Privacy Policy at SpaFinder
+
+[Home](https://web.archive.org/index.jsp) > [About Us](https://web.archive.org/about/index.jsp) > Privacy Policy 
 
 SpaFinder Privacy Guaranteed 
 
