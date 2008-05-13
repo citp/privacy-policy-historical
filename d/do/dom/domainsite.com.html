@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the domainsite.com privacy policy that was archived on 2006-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061104002630id_/http%3A//www.domainsite.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the domainsite.com privacy policy that was archived on 2008-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080513023802id_/http%3A//domainsite.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -77,6 +77,13 @@ function selectall_main() {
                 currentform.elements[i].value == "name" ||
                 currentform.elements[i].value == "cn" ||
                 currentform.elements[i].value == "am" ||
+                currentform.elements[i].value == "in" ||
+                currentform.elements[i].value == "mobi" ||
+                currentform.elements[i].value == "mn" ||
+                currentform.elements[i].value == "gs" ||
+                currentform.elements[i].value == "tl" ||
+                currentform.elements[i].value == "nf" ||
+                currentform.elements[i].value == "ki" ||
                 currentform.elements[i].value == "fm"
 
                 )
@@ -89,6 +96,148 @@ function selectall_main() {
     }
 }
 
+function selectInd(tld) {
+    var currentform = window.document.form1;
+    for (i = 0; i < currentform.elements.length;i++) {
+        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
+        if (currentform.elements[i].value == tld)
+        {
+            if(currentform.elements[i].checked == false){
+                currentform.elements[i].checked = true;
+            } else {
+		currentform.elements[i].checked = false;
+	    }
+        }
+        }
+    }
+}
+function unSelectInd(tld) {
+    var currentform = window.document.form1;
+    for (i = 0; i < currentform.elements.length;i++) {
+        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
+        if (currentform.elements[i].value == tld)
+        {
+            if(currentform.elements[i].checked == true){
+                currentform.elements[i].checked = false;
+            }
+        }
+        }
+    }
+}
+
+function selectCom() {
+    var currentform = window.document.form1;
+    for (i = 0; i < currentform.elements.length;i++) {
+        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
+	        if (currentform.elements[i].value == "com")
+        	{
+	            if(currentform.elements[i].checked == false){
+        	        currentform.elements[i].checked = true;
+	            }
+        	}
+        }
+    }
+	this.work(currentform, 'net', false);
+	this.work(currentform, 'org', false);
+	this.work(currentform, 'info', false);
+	this.work(currentform, 'biz', false);
+	this.work(currentform, 'us', false);
+	this.work(currentform, 'mobi', false);
+	this.work(currentform, 'in', false);
+}
+
+function work(currentform, tld, select){
+    for (i = 0; i < currentform.elements.length;i++) {
+        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
+                if (currentform.elements[i].value == tld)
+                {
+                    if(currentform.elements[i].checked != select){
+                        currentform.elements[i].checked = select;
+                    }
+                }
+
+        }
+    }
+}
+
+function selectNetOrg() {
+    var currentform = window.document.form1;
+    for (i = 0; i < currentform.elements.length;i++) {
+        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
+                if (currentform.elements[i].value == "net")
+                {
+                    if(currentform.elements[i].checked == false){
+                        currentform.elements[i].checked = true;
+                    }
+                }
+                if (currentform.elements[i].value == "org")
+                {
+                    if(currentform.elements[i].checked == false){
+                        currentform.elements[i].checked = true;
+                    }
+                }
+        }
+    }
+        //this.work(currentform, 'com', false);
+        this.work(currentform, 'info', false);
+        this.work(currentform, 'biz', false);
+        this.work(currentform, 'us', false);
+        this.work(currentform, 'mobi', false);
+	this.work(currentform, 'in', false);
+}
+
+function selectBulkAll(select) {
+    var currentform = window.document.form1;
+    for (i = 0; i < currentform.elements.length;i++) {
+        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
+                if (currentform.elements[i].value == "com")
+                {
+                    if(currentform.elements[i].checked != select){
+                        currentform.elements[i].checked = select;
+                    } 
+                }
+
+                if (currentform.elements[i].value == "net")
+                {
+                    if(currentform.elements[i].checked != select){
+                        currentform.elements[i].checked = select;
+                    }
+                }
+                if (currentform.elements[i].value == "org")
+                {
+                    if(currentform.elements[i].checked != select){
+                        currentform.elements[i].checked = select;
+                    }
+                }
+                if (currentform.elements[i].value == "info")
+                {
+                    if(currentform.elements[i].checked != select){
+                        currentform.elements[i].checked = select;
+                    }
+                }
+                if (currentform.elements[i].value == "biz")
+                {
+                    if(currentform.elements[i].checked != select){
+                        currentform.elements[i].checked = select;
+                    }
+                }
+                if (currentform.elements[i].value == "us")
+                {
+                    if(currentform.elements[i].checked != select){
+                        currentform.elements[i].checked = select;
+                    }
+                }
+                if (currentform.elements[i].value == "mobi")
+                {
+                    if(currentform.elements[i].checked != select){
+                        currentform.elements[i].checked = select;
+                    }
+                }
+
+
+        }
+    }
+}
 
 function selectall_cnic() {
     var currentform = window.document.form1;
@@ -142,6 +291,13 @@ function unselectall_main() {
                 currentform.elements[i].value == "name" ||
                 currentform.elements[i].value == "cn" ||
                 currentform.elements[i].value == "am" ||
+                currentform.elements[i].value == "mobi" ||
+                currentform.elements[i].value == "in" ||
+                currentform.elements[i].value == "mn" ||
+                currentform.elements[i].value == "gs" ||
+                currentform.elements[i].value == "tl" ||
+                currentform.elements[i].value == "nf" ||
+                currentform.elements[i].value == "ki" ||
                 currentform.elements[i].value == "fm"
 )
                 {
@@ -387,7 +543,7 @@ function unselect_all() {
                     <tbody><tr class="toplinks">
                       <td valign="top" align="right">
                     		      <a target="_top" href="/whois_result.php" class="toplinks"> Whois</a> |
-		      <a target="_top" href="/services.php" class="toplinks"> Products and Services</a> |
+		      <a target="_top" href="/free_services.php" class="toplinks"> Products and Services</a> |
                       <a target="_top" href="/check_our_pricing.php" class="toplinks" border="0">Compare Our Pricing</a> |
                       <a target="_top" href="/user_view_question.php" class="toplinks">Knowledge Base</a> |
                       <a target="_top" href="/aboutus.php" class="toplinks">About Us |</a>
@@ -415,9 +571,7 @@ function unselect_all() {
 <td> | </td>
 <td align="center" valign="middle" nowrap=""><a class="topbar" href="/transfer/index.php"><img src="/images/top_transfer.png" border="0" alt=""></a></td>
 <td> | </td>
-<td align="center" valign="middle" nowrap=""><a class="topbar" href="/web_hosting/info.php"><img src="/images/top_website.png" border="0" alt=""></a></td>
-<td> | </td>
-<td align="center" valign="middle" nowrap=""><a class="topbar" href="/email_services/email_info.php"><img src="/images/top_email.png" border="0" alt=""></a></td>
+<td align="center" valign="middle" nowrap=""><a class="topbar" href="/free_email.php"><img src="/images/top_free_email.png" border="0" alt=""></a></td>
 <td> | </td>
 <td align="center" valign="middle" nowrap=""><a class="topbar" href="/shopping_cart.php"><img src="/images/top_shopping.png" border="0" alt=""></a></td>
 <td> | </td>
@@ -426,6 +580,7 @@ function unselect_all() {
 
 
 </tr>
+
 </tbody></table>
 
 
@@ -724,12 +879,7 @@ function unselect_all() {
             <tr>
                 <td>
 
-		    <font color="#000000" size="7" face="Arial, Helvetica, sans-serif"><strong>$6.99</strong></font>
-		    <br>
-                    <font color="#003333" size="4" face="Arial, Helvetica, sans-serif"><strong>Basic 1 Year Domain 
-Registration</strong><center><hr></center></font>
-
-		    <font color="#000000" size="7" face="Arial, Helvetica, sans-serif"><strong>$7.99</strong></font>
+		    <font color="#000000" size="7" face="Arial, Helvetica, sans-serif"><strong>$7.88</strong></font>
 		    <br>
                     <font color="#003333" size="4" face="Arial, Helvetica, sans-serif"><strong>Standard 1 Year Domain 
 		    Registration with Email Forwarding, Domain Forwarding, and DNS Management Tools</strong></font>
@@ -785,8 +935,7 @@ Registration</strong><center><hr></center></font>
 <a href="http://www.tld.io">ccTLD information</a>
 <br>
 ©2005 Spot Domain LLC, All Rights Reserved.
-(1
-)
+(1)
 </td>
               </tr>
             </tbody></table></td>
@@ -800,9 +949,12 @@ Registration</strong><center><hr></center></font>
 <p class="boxHead">&nbsp;</p>
 
 
-
-
-
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-346134-9";
+urchinTracker();
+</script>
 
 
 
