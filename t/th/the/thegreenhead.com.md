@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreenhead.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214040657id_/http%3A//www.thegreenhead.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenhead.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513024719id_/http%3A//www.thegreenhead.com/privacy/index.php) for the most accurate reproduction.*
 
 # The Green Head - Privacy Policy
 
@@ -45,14 +45,14 @@ We only require a valid email address to leave a comment on pages of the Site. Y
 
 ### USE OF PERSONAL INFORMATION
 
-Personal Information collected or requested by The Green Head will never be given out to a third party in a manner that they can contact you directly. Any information provided to third parties is only in an aggregate form. We may disclose aggregated user statistics in order to describe our services to potential advertisers, partners and other third parties, and for other lawful purposes.
+Personal Information collected or requested by The Green Head will never be given out to a third party in a manner that they can contact you directly. Any information provided to third parties is only in an aggregate form. We may disclose aggregated user statistics in order to describe our services to potential advertisers, partners and other third parties, and for other lawful purposes. 
 
-This Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, on-line auctions, chat rooms, personal ads, or the like, or through other web sites throughout the Internet, different policies may apply. Since The Green Head does not control the privacy policies of third parties, you are subject to the privacy customs and policies, if any, of that third party, and The Green Head shall not be responsible for the use or dissemination of your private information by that third party. Therefore, we encourage you to ask questions before you disclose your personal information to others.
+This Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, on-line auctions, chat rooms, personal ads, or the like, or through other web sites throughout the Internet, different policies may apply. Since The Green Head does not control the privacy policies of third parties, you are subject to the privacy customs and policies, if any, of that third party, and The Green Head shall not be responsible for the use or dissemination of your private information by that third party. Therefore, we encourage you to ask questions before you disclose your personal information to others. 
 
 The Green Head uses reasonable precautions to keep the personal information disclosed to us secure. However, The Green Head is not responsible for any breach of security. If a Site user knowingly provides personal information, such as a name or email address, in a forum, comment message area or other public service, that user should be aware that the information provided can be collected and used by third parties. Such activities are beyond the control of The Green Head.
 
 ### LEGAL DISCLAIMER
 
-The Green Head makes every effort to preserve user privacy; however, we may need to disclose information when required by law.
+The Green Head makes every effort to preserve user privacy; however, we may need to disclose information when required by law. 
 
 The Green Head may periodically update this Privacy Policy. If so, The Green Head will post the updated Privacy Policy on this site. We encourage you to review this Privacy Policy from time to time for any changes. If you have any questions regarding this policy, please [Contact Us](https://web.archive.org/contact/).
