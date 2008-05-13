@@ -1,175 +1,193 @@
-<!--The following is the downloaded HTML source of the adzooks.co.uk privacy policy that was archived on 2007-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071025094906id_/http%3A//london.adzooks.co.uk/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adzooks.co.uk privacy policy that was archived on 2008-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080513193305id_/http%3A//london.adzooks.co.uk/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-	<title>London - Adzooks.co.uk
- - Privacy Policy</title>
-	<link rel="STYLESHEET" type="text/css" href="http://london.adzooks.co.uk/format_public.css">
-	<link rel="SHORTCUT ICON" href="http://london.adzooks.co.uk/favicon.ico">
-	
-	<link rel="search" type="application/opensearchdescription+xml" title="London Adzooks.co.uk - accommodation" href="http://london.adzooks.co.uk/search_plugin.xml">
-	
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta name="robots" content="all">
-	<script type="text/javascript" src="http://london.adzooks.co.uk/whatbrowser.js"></script>
-	
-<script language="JavaScript" type="text/javascript">
-<!--
-	
-	var g_adSenseUnits = new Array();
-	var g_adSensePositions = new Object();
-	
-	function showAdUnit (position) {
-		var index = g_adSensePositions[position];
-		if ((typeof(index) != 'undefined') && (g_adSenseUnits.length > index) && (g_adSenseUnits[index].adContent != '')) {
-			var adUnit = g_adSenseUnits[index];
-	
-			
-			s = '<div class="AdsByGoogle">'  +
-				'<a href="' + google_info.feedback_url + '">Ads by Google</a>' +
-				'</div>' + "\r\n" +
-				'<div class="AdSenseContainer">' + "\r\n";
-				
-			
-			s += adUnit.adContent;
-				
-			
-		    
-		    	if (adUnit.hasAdvertiseLink) {
-				    s += '<div class="AdSenseAdvertiseHere">' +
-						'<a href="https://adwords.google.com/select/OnsiteSignupLandingPage?client=pub-3912838286800298&referringUrl=http://london.adzooks.co.uk/">Advertise on this site</a>' +
-						'</div>' + "\r\n";
-				}
-	    	
-	    	
-	    	s += '</div>' + "\r\n";
-	    	
-			
-		    document.write(s);  	
-	    	
-			
-			document.getElementById(adUnit.containerId).style.display = 'block';	    
-	    }
-	}
-	
-	function createAdUnit(position, adCount, containerId, hasAdvertiseLink) {
-		var adUnit = new Object();
-		adUnit.position = position;
-		adUnit.adCount = adCount;
-		adUnit.containerId = containerId;
-		adUnit.hasAdvertiseLink = hasAdvertiseLink;
-		adUnit.adContent = '';
+					<title>London - Adzooks.co.uk 
 		
+ - Privacy Policy
+					</title>
+			<link rel="STYLESHEET" type="text/css" href="http://london.adzooks.co.uk/format_public.css">
+			<link rel="SHORTCUT ICON" href="http://london.adzooks.co.uk/favicon.ico">
+			
+				<link rel="search" type="application/opensearchdescription+xml" title="London Adzooks.co.uk - accommodation" href="http://london.adzooks.co.uk/search_plugin.xml">
+			
+			<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+			<meta name="robots" content="all">
+			<script type="text/javascript" src="http://london.adzooks.co.uk/whatbrowser.js"></script>
+	
 		
-		g_adSensePositions[position] = g_adSenseUnits.length;		
-		g_adSenseUnits[g_adSenseUnits.length] = adUnit;
-	}
+	
+	<script type="text/javascript">
+	//<![CDATA[
+	
+	
+	var google_adnum = 0;
+	
+	function google_ad_request_done(google_ads)
+	{   
+		var maxAds = Math.min(google_ads.length,g_ads.adCount);
+				
+		if (! maxAds) 
+		{	return;
+		}
 
-	function google_ad_request_done(google_ads) {
-	    
-	    var s = '';
-	    var i;
-	
-	   	
-		if (google_ads.length == 0) {
+		
+		if (g_ads.isAFS)
+		{	var feedbackURL = 'http://services.google.com/feedback/online_hws_feedback';
+		} else
+		{	var feedbackURL = google_info.feedback_url;
+		}
+
+		var adsByGoog = '<div class="AdsByGoogle">';
+		
+		if (g_ads.leadIn)
+		{	adsByGoog += '<b class="AdSenseLeadIn">' + g_ads.leadIn + '</b>';
+		}
+		adsByGoog += '<a class="AbGLnk" href="' + 
+			feedbackURL + '">Ads by Google</a>' +
+			'</div>' + "\r\n";
+
+		var allAds = '';
+		var numAds = 0;
+		for (var i = 0; i < google_ads.length; i++) 
+		{   	
+			if (google_ads[i].type == "image") 
+			{
+		    	allAds += 
+	    		'<a href="' + google_ads[i].url +
+				'" target="_top" title="go to ' + google_ads[i].visible_url +
+				'"><img style="border:none;" src="' + google_ads[i].image_url +
+				'"width="' + google_ads[i].image_width +
+				'"height="' + google_ads[i].image_height + '"/></a>';
+				
+				
+				numAds++;
+				break;
+			} else 
+			{	
+				//global variable google_adnum increased to prevent duplication of ads 
+		
+				google_adnum += 1;			
+								
+		        var baseClass = 'AdSenseAd_' + g_ads.position;
+
+				var adText = '<span class="AdSenseTitle">' + google_ads[i].line1 + '</span><br class="AdSenseTitle"/>';
+				if (google_ads[i].line2)
+				{	adText += '<span class="AdSenseAdText">'  + google_ads[i].line2;
+					if (google_ads[i].line3)
+					{	adText += '&nbsp;' + google_ads[i].line3;
+					}
+					adText += '</span>';
+				}
+				
+				allAds += '<div class="' + baseClass + '" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'; this.className = \'' + baseClass + ' AdSenseHover\'" onmouseout="window.status=\'\'; this.className = \'' + baseClass + '\'" onclick="document.location.href=\'' + google_ads[i].url + '\'"><a style="cursor:pointer;cursor:hand;text-decoration:none">' + "\r\n";				
+				allAds += adText + "\r\n";
+					
+				if (g_ads.position == 'skyscraper')
+				{	allAds += '<br/>';
+				}
+					
+				allAds += '<span class="AdSenseURL">' + 
+					google_ads[i].visible_url + 
+					'</span>' + "\r\n" +
+					'</a></div>' + "\r\n";
+
+				
+				if (numAds > 1 &&  g_ads.position == 'skyscraper' &&  i % 7 == 0)
+				{ 	allAds += adsByGoog;
+				}	
+				numAds++;
+		    }
+			if (numAds >= maxAds)
+			{	break;
+			}
+		}
+		if (numAds==0)
+		{	
 			return;
 		}
 		
-		var j = 0;	
-		var k = 0;	
+		var s = adsByGoog +
+			'<div class="AdSenseContainer">' + "\r\n" + 
+			allAds;			
+   
+   		
+		
+    	if (g_ads.hasAdvertiseLink) 
+		{	s += '<div class="AdSenseAdvertiseHere">' +
+				'<a href="https://adwords.google.com/select/OnsiteSignupLandingPage?client=pub-3912838286800298&referringUrl=http://london.adzooks.co.uk/">Advertise on this site</a>' +
+				'</div>' + "\r\n";
+		}	    	
+		
+  	
+  		s += '</div>' + "\r\n";	    					    	
+		   
+		
+		document.write(s);  	
+		
+		
+		document.getElementById(g_ads.containerId).style.display = 'block';	    
+	}
+	google_afs_request_done = google_ad_request_done; 
+	//]]>
+	</script>
+
+		</head>
+		<body>
 	
+		<div id="header">
+	
+			<div id="bannerad">
 		
-		for (var i = 0; i < google_ads.length; ++i) {					
-			
-			while (k >= g_adSenseUnits[j].adCount) {			
-				
-				k = 0;
-				j ++;
-			};				
+			</div>
 		
-		    	
-			if (google_ads[i].type == "image") {
-		    	g_adSenseUnits[j].adContent = 
-		    		'<a href="' + google_ads[i].url +
-					'" target="_top" title="go to ' + google_ads[i].visible_url +
-					'"><img style="border:none;" src="' + google_ads[i].image_url +
-					'"width="' + google_ads[i].image_width +
-					'"height="' + google_ads[i].image_height + '"/></a>';
-				
-				
-				k = g_adSenseUnits[j].adCount;						
-		
-			} else {
-		        
-		        var baseClass = 'AdSenseAd_' + g_adSenseUnits[j].position;
-				
-				var ad = '<div class="' + baseClass + '" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'; this.className = \'' + baseClass + ' AdSenseHover\'" onmouseout="window.status=\'\'; this.className = \'' + baseClass + '\'" onclick="document.location.href=\'' + google_ads[i].url + '\'"><a style="cursor:pointer;cursor:hand;text-decoration:none">' + "\r\n" +					
-					'<span class="AdSenseTitle">' + google_ads[i].line1 + '</span>' +
-					'<br class="AdSenseTitle"/><span class="AdSenseAdText">'  + google_ads[i].line2 + '&nbsp;' + google_ads[i].line3 + '</span>' + "\r\n";
-					
-				if (g_adSenseUnits[j].position == 'skyscraper') {
-					ad += '<br/>';
+			<div id="topsearch">
+			<script type="text/javascript">
+				function checkSearchForm() {
+					if (document.forms.LPsearch.catid.selectedIndex != "0") {
+						if (document.forms.LPsearch.what.value.length > 2) {
+							document.forms.LPsearch.submit();
+							return true
+						} else {
+							alert ("Please enter at least three letters to search for");
+							return false;
+						}
+					} else {
+						alert("Please select a category");
+						return false;
+					}
 				}
-					
-				ad += '<span style="color:#008000;">' + google_ads[i].visible_url + '</span>' + "\r\n" +
-					'</a></div>' + "\r\n";
-					
-				g_adSenseUnits[j].adContent += ad;
-				
-				k ++;				
-		    }
-		}
-				
-	    return;
-	}	
-  // -->
-</script>
-
-	</head>
-	<body>
-
-	<div id="header">
-	
+			</script>
+			<form name="LPsearch" method="get" action="http://london.adzooks.co.uk/search.cfm" onsubmit="return checkSearchForm()">
+			<input type="text" name="what">
+			<br>
+			<select name="catid">
+			<option value="-1">Select one</option>
 		
-		<div id="topsearch">
+				<option value="84">Accommodation</option>
+			
+				<option value="79">Community</option>
+			
+				<option value="156">Encounters</option>
+			
+				<option value="177">Events</option>
+			
+				<option value="103">For sale</option>
+			
+				<option value="129">Jobs</option>
+			
+				<option value="118">Services</option>
+			
+			</select>
+			<input type="submit" value="Go">
+			<input type="hidden" name="inc" value="1">
+			</form>
+			</div>
 		
-		<script type="text/javascript">
-		function checkSearchForm() {
-		if (document.forms.LPsearch.catid.selectedIndex != "0") {
-		   if (document.forms.LPsearch.what.value.length > 2) {
-		       document.forms.LPsearch.submit();
-		       return true                                   }
-		   else {
-		       alert ("Please enter at least three letters to search for")
-		       return false
-		          }                                           
-		                                                             }                  
-		else {
-		     alert("Please select a category")
-		     return false
-		     }
-		                         }
-		
-		</script>
-		
-		<form name="LPsearch" method="get" action="http://london.adzooks.co.uk/search.cfm" onsubmit="return checkSearchForm()">
-		<input type="text" name="what"><br>
-		<select name="catid">
-		<option value="-1">Select one</option>
-		<option value="84">Accommodation</option><option value="79">Community</option><option value="156">Encounters</option><option value="177">Events</option><option value="103">For sale</option><option value="129">Jobs</option><option value="118">Services</option>
-		</select>
-		<input type="submit" value="Go">	
-		<input type="hidden" name="inc" value="1">
-		</form>	
-		</div>
-		
-<a href="http://london.adzooks.co.uk/"><img src="http://gfx.adzooks.co.uk/v2/logo.gif" alt="Free London classifieds from Adzooks.co.uk - place a free ad, jobs, houses, flats, jobs and cars in London" width="140" height="58" id="logo"></a>
-
-<h2>Free London classifieds. Buy, sell, rent or swap.</h2>
-
-<a href="http://london.adzooks.co.uk/post.cfm"><img src="http://gfx.adzooks.co.uk/v2/b_postafreead.gif" alt="Post a free ad" width="147" height="22" id="postbutton"></a>
-</div>
-	
+			<a href="http://london.adzooks.co.uk/"><img src="http://gfx.adzooks.co.uk/v2/logo.gif" alt="Free London classifieds from Adzooks.co.uk - place a free ad, jobs, houses, flats, jobs and cars in London" width="140" height="58" id="logo"></a>
+			<h2>Free London classifieds. Buy, sell, rent or swap.</h2>
+			<a href="http://london.adzooks.co.uk/post.cfm"><img src="http://gfx.adzooks.co.uk/v2/b_postafreead.gif" alt="Post a free ad" width="147" height="22" id="postbutton"></a>
+			</div>
 		
 		<div id="sidebar">
 		
@@ -188,26 +206,29 @@
 				<a href="http://london.adzooks.co.uk/searches/">Top searches</a>
 				
 				<a href="http://london.adzooks.co.uk/profiles/">Top users</a>
-				<div class="AdminHTML"><div id="aboutus">
-	<h1>About Adzooks</h1>
-	<p>Adzooks is a free classifieds listings site for London where you can post and reply to classified ads for free; buy, sell, swap stuff, find bargains, friends, event listings, classes, accommodation and more, all in the London area. We advise only doing business with people who will meet you face-to-face. Read about potential <a href="http://london.adzooks.co.uk/scam.shtml">scams</a>.</p>
-</div></div>
+				
+		<h2>Useful Stuff</h2>
+					
+			
+				<a href="http://london.adzooks.co.uk/price-comparison">Compare Prices</a>
+			
+				<a href="http://london.adzooks.co.uk/switch-energy-suppliers">Switch Energy Suppliers</a>
+			
+		
 		</div>
 		
-		<div id="content">	
+			<div id="skyad">
 		
-	<div class="catbreadcrumb">
-	<a href="http://london.adzooks.co.uk/">London Adzooks.co.uk</a>
-	</div>
+			</div>
+		
+		<div id="content">
 	<div class="postad">
 <ul>
 			<li><a href="http://london.adzooks.co.uk/post.cfm">Post your free ad</a></li>
-			<li><a href="http://london.adzooks.co.uk/help.shtml">Help</a></li>
-		
+					<li><a href="http://london.adzooks.co.uk/help.shtml">Help</a></li>
+				
 </ul>
-		</div>
-				<div class="GeneralContent">
-			
+		</div><br class="fixbr">
 
 <h1>Privacy policy</h1>
 <h4>In relation to all web site services offered by TRINITY MIRROR DIGITAL MEDIA LIMITED, trading as ADZOOKS, on this website
@@ -322,14 +343,12 @@ receive. </li>
 </ul>
 
 
-				</div>
-			
 	</div>
 	<br clear="all"><div class="footerpostad">
 <ul>
 			<li><a href="http://london.adzooks.co.uk/post.cfm">Post your free ad</a></li>
-			<li><a href="http://london.adzooks.co.uk/help.shtml">Help</a></li>
-		
+					<li><a href="http://london.adzooks.co.uk/help.shtml">Help</a></li>
+				
 </ul>
 		</div><br clear="all"><div class="footer">
 	<div class="SiteLinks">
@@ -452,7 +471,7 @@ receive. </li>
 
 </div>
 
-	<script type="text/javascript" src="http://icsouthlondon.icnetwork.co.uk/webstats.js?rsid=mgntrinitymirroraggregate,tmr-adzook&amp;siteName=london-adzooks&amp;publishingGroup=ADZOOKS&amp;jsrc=1"></script>
+	<script type="text/javascript" src="http://www.icnetwork.co.uk/webstats.js?rsid=tmr-adzook&amp;siteName=london-adzooks&amp;publishingGroup=ADZOOKS&amp;jsrc=1&amp;statsSiteName=Adzooks&amp;Region=CENTRAL"></script>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
