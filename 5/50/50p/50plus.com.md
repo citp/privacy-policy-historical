@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 50plus.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211145324id_/http%3A//www.50plus.com/display.cfm%3FlibraryID%3D109%26cabinetID%3D319%26documentID%3D8773) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50plus.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513115017id_/http%3A//www.50plus.com/AboutUs/About50Plus/index.cfm%3FdocumentID%3D8773) for the most accurate reproduction.*
 
-# 50Plus.com Privacy Policy - 50Plus.com
+# 50Plus.com Privacy Policy
 
 _50plus.com has created this privacy statement in order to demonstrate our firm commitment to the privacy of our visitors and members._
 
@@ -29,3 +29,18 @@ You can unsubscribe from the **50plus.com newsletter** by contacting Fifty-Plus.
 
 **Other**   
 We collect non-personal identification information through the use of "cookie" technology and/or IP address tracking. Non-personal identification information might include the browser you use, the type of computer, the 
+
+**Visitors comments**
+
+| 
+
+**Reply**  
+  
+---|---  
+  
+Sorry, but what is mariburjeka? Jane.  
+**sweet-bh@mail.com**
+
+| 
+
+[Email Me](mailto:sweet-bh@mail.com)
