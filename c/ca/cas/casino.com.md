@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the casino.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217095354id_/http%3A//www.casino.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casino.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513071125id_/http%3A//www.casino.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy of Casino.com
+# Casino.com Privacy policy-security-contact us
 
 Onisac Limited (trading as CASINO.COM) hereinafter as the context may require "ONISAC" "us" "we" or "our") operates this website and is fully committed to recognising and respecting your rights to privacy and to comply with applicable data protection and privacy laws.
 
