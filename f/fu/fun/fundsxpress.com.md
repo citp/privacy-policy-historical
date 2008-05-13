@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundsxpress.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627154117id_/http%3A//www.fundsxpress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundsxpress.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513044257id_/http%3A//www.fundsxpress.com/privacy.html) for the most accurate reproduction.*
 
 # FundsXpress : Privacy Statement
 
