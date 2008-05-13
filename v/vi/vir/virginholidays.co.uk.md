@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the virginholidays.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210230243id_/http%3A//www.virginholidays.co.uk/info/important/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginholidays.co.uk privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513094308id_/http%3A//www.virginholidays.co.uk/info/important/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Policy - - Virgin Holidays
+
+## Data Protection
+
+In order to process your booking and to ensure that your travel arrangements run smoothly and meet your requirements we need to use the information you provide such as name, address, any special needs/dietary requirements etc. We take full responsibility for ensuring that proper security measures are in place to protect your information. We must pass the information on to the relevant suppliers of your travel arrangements such as airlines, hotels, transport companies etc. The information may also be provided to security or credit checking companies, public authorities such as customs/immigration if required by them, or as required by law. Additionally, where your holiday is outside the European Economic Area (EEA), controls on data protection in your destination may not be as strong as the legal requirements in this country.
+
+We may use your information for the purposes set out in our data protection notification with the Office of the Information Commissioner. We may disclose the same to companies in the Virgin group for business purposes and to companies who act as data processors on our behalf. Some of your information may be 'sensitive personal data' such as details of any disabilities, or dietary/religious requirements. (If we cannot pass this information to the relevant suppliers, whether in the EEA or not, we cannot provide your booking). In making this booking, you consent to this information being passed on to the relevant persons. You are responsible for ensuring that other members of your party are aware of our privacy policy.
+
+We would like to hold your information (including any email address), where collected by us , for our own future marketing purposes (for example to inform you of promotional/competition offers, or to send you our brochure). If you do not wish to receive such approaches in future, please inform us as soon as possible.
+
+Where we do collect your personal information, it is stored in our secure databases at a secure address to prevent unauthorised access. Our systems are configured with data encryption or scrambling technologies and industry standard firewalls. When you send information to Virgin over the internet, your data is protected by secure socket layer technology to ensure safe transmission.
+
+You have the right to ask us in writing for a data subject access request form to obtain a copy of the information which we hold about you (for which we may charge a fee). Any request should be addressed to Customer Relations,Virgin Holidays at The Galleria, Station Road, Crawley, West Sussex, RH10 1WW.
+
+If you believe that any of your personal information that is held or being processed by us is incorrect then please write to us immediately as we cannot be responsible for any problems that may arise due to inaccurate information that you have provided us with.
+
+We cannot accept responsibility for any issues concerning your data collected by websites that are not directly under our control. Please also be aware that individual organisations operate their own policies regarding the use and sale of personal information and the use of cookies. If you have a concern regarding the way your personal information will be used on other sites then you are advised to read the relevant privacy statement.
+
+## Privacy Policy
 
 Worried about providing us with information on line?
 
