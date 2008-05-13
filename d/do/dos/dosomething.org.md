@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221130424id_/http%3A//www.dosomething.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513022923id_/http%3A//www.dosomething.org/privacy) for the most accurate reproduction.*
 
 # Do Something | Privacy Statement
 
@@ -117,7 +117,7 @@ Do Something.org is not really for you. But we still care about you, so please c
 
 ## Choice/Opt-Out
 
-Users have the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. To opt-out, please email [help@dosomething.org](mailto:help@dosomething.org).
+Users have the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. To opt-out, please email [unsubscribe@dosomething.org](mailto:unsubscribe@dosomething.org).
 
 ## Correct/Update
 
