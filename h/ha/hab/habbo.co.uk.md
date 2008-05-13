@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the habbo.co.uk privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022035118id_/http%3A//www.habbo.co.uk/footer_pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbo.co.uk privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513144235id_/http%3A//www.habbo.co.uk/papers/privacy) for the most accurate reproduction.*
 
-# Habbo ~ Privacy Policy
+# Habbo ~
 
 Here at Habbo Hotel we want everyone to have a good time, and we promise to keep your hotel as secure and as private as we can. The hotel is a place for you to hang out in and meet new people. We have a few rules that you do need to accept before you can become a member, and you need to read the Privacy Policy all the way through before you can join. By clicking the 'accept' button when you register you are agreeing to us holding and processing your personal information.
 
@@ -19,7 +19,7 @@ We process personal information about you for the purposes of:
 
   * Understanding your needs and improving our offering of information, products and services to you, such as special discounts and deals.
   * Enabling you to send your Habbo Friends emails and SMS without them knowing your contact details.
-  * Administering your account with us and letting you know about things we are doing that might affect you (eg changes to Sulake UK Ltd's procedures, changes to the [Terms and Conditions](https://web.archive.org/footer_pages/terms_and_conditions.html), etc).
+  * Administering your account with us and letting you know about things we are doing that might affect you (eg changes to Sulake UK Ltd's procedures, changes to the [Terms and Conditions](https://web.archive.org/termsAndConditions), etc).
   * Carrying out research (ie scientific, social, economic and market).
   * Maintaining information as a reference tool or general resource.
   * Providing you with personalised information about products and services.  
@@ -28,7 +28,7 @@ We process personal information about you for the purposes of:
 
 
 Chat rooms and message boards  
-We make chat facilities and message boards available to you. Please remember that any information you choose to disclose in these areas may become public information. We would encourage you to exercise caution when deciding to disclose information, and be careful what you reveal to people you don't yet know. Please refer to our [Terms and Conditions](https://web.archive.org/footer_pages/terms_and_conditions.html).
+We make chat facilities and message boards available to you. Please remember that any information you choose to disclose in these areas may become public information. We would encourage you to exercise caution when deciding to disclose information, and be careful what you reveal to people you don't yet know. Please refer to our [Terms and Conditions](https://web.archive.org/termsAndConditions).
 
 Access, update or correct your information  
 If you do not wish to receive HabboHood Happenings (the hotel's newsletter), or information about products and services supplied by Sulake UK Ltd or third parties, do not tick the boxes at the bottom of the registration form. You may change these options anytime by selecting the 'Update your Habbo ID' link on our home page.
@@ -41,7 +41,7 @@ All information you provide us with, and all information contained in your accou
 Children  
 Habbo Hotel is not intended for use by children, especially those under the age of 14. No one under the age of 14 is allowed to provide any personal information or to use our public discussion areas without parental consent.
 
-If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, it is up to you to ensure they abide by our [Terms and Conditions](https://web.archive.org/footer_pages/terms_and_conditions.html).
+If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, it is up to you to ensure they abide by our [Terms and Conditions](https://web.archive.org/termsAndConditions).
 
 If you're worried about your children's activities or their privacy on our sites, we encourage you to email us.
 
@@ -62,4 +62,4 @@ We will not sell, share, or rent your information to others except as set out in
 
 
 Links to third parties  
-Please be aware our Website may have advertisements and links to websites and services that may collect personal information about you. This Privacy Policy does not cover the practices and policies of these third parties. We encourage you to read the policies of all sites you use, as their policies may be materially different from ours. 
+Please be aware our Website may have advertisements and links to websites and services that may collect personal information about you. This Privacy Policy does not cover the practices and policies of these third parties. We encourage you to read the policies of all sites you use, as their policies may be materially different from ours.
