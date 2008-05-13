@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210120428id_/http%3A//realtytimes.com/rtcpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513102559id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
 
-# Realty Times - Real Estate News and Advice
+# Realty Times - Privacy Statement
 
 | 
 
@@ -76,25 +76,25 @@ Real Estate News Network
 [ ](http://www.adobe.com/go/getflashplayer)
 
 **Mortgage Rates**  
-30 Year Fixed: 5.96%  
-15 Year Fixed: 5.65%  
-1 Year Adj: 5.46%  
+30 Year Fixed: 6.05%  
+15 Year Fixed: 5.60%  
+1 Year Adj: 5.29%  
 (U.S. Weekly Averages)  
 
 
 Today's Headlines  
 
 
-  * [Washington Report: Hot Debates on Subprimes and Foreclosures](https://web.archive.org/rtpages/20071210_washingtonreport.htm)
-  * [Don't Bet The Farm On Interest Rates](https://web.archive.org/rtpages/20071210_farmrates.htm)
-  * [Interest Rate Update](https://web.archive.org/rtpages/20071210_ratewatch.htm)
-  * [Market Conditions: Sisters, Oregon](https://web.archive.org/rtpages/20071210_mrktconditions.htm)
-  * [AIA Research Shows Cities Increasingly Have "Green Thumb"](https://web.archive.org/rtpages/20071210_greenthumb.htm)
-  * [Marketing Without Money](https://web.archive.org/rtpages/20071210_marketmoney.htm)
-  * [Ten Ways to Make Your Emails More Appealing: Part II](https://web.archive.org/rtpages/20071210_appealingemails.htm)
-  * [Investor Report: Battle of the Warring Housing Price Indexes](https://web.archive.org/rtpages/20071207_investorreport.htm)
-  * [Hot Market: Bismarck, North Dakota – Safe for Living and Investing](https://web.archive.org/rtpages/20071207_hotmarketbismarck.htm)
-  * [Not Everyone Cheering Federal Bailout For Subprime Borrowers](https://web.archive.org/rtpages/20071207_bailoutborrow.htm)
+  * [Getting The Best Home Price Data](https://web.archive.org/rtpages/20080513_brodreport.htm)
+  * [Condo Trends: Gardening Up on the Roof](https://web.archive.org/rtpages/20080513_condotrends.htm)
+  * [Interest Rate Update](https://web.archive.org/rtpages/20080513_ratewatch.htm)
+  * [Market Conditions: Seattle Puget Sound](https://web.archive.org/rtpages/20080513_mrktconditions_new.htm)
+  * [The Lessons for 2008](https://web.archive.org/rtpages/20080513_lessons.htm)
+  * [Ontario's Greenbelt a World Leader, but Expansion is Controversial](https://web.archive.org/rtpages/20080513_greenbelt.htm)
+  * [Washington Report: Are "Jumbo" Loans Overpriced?](https://web.archive.org/rtpages/20080512_washingtonreport.htm)
+  * [Wild, Wild West: Silicon Valley Price Fall Spreads](https://web.archive.org/rtpages/20080512_wildwildwest.htm)
+  * [Realty Viewpoint: Real-time Housing Index Says Falling Prices Easing](https://web.archive.org/rtpages/20080512_realtyviewpoint.htm)
+  * [Market Conditions: Kansas City Commercial Real Estate](https://web.archive.org/rtpages/20080512_mrktconditions.htm)
 
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\CraigProctorProductions_Sponsor_C&LINK=http://www.hypertracker.com/go/cp/rtsb040601/)   
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\Proquest_Sponsor_C3&LINK=http://www.realestategrowth.com/freedemo.asp?sc=6269)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\Proquest_Sponsor_C5&LINK=http://www.realestategrowth.com/freecourse.asp?sc=6269)   
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\HouseValues_Sponsor_C3&LINK=http://info.housevalues.com/form/1861)
