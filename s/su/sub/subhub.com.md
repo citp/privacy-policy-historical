@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2007-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071031065834id_/http%3A//www.subhub.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513065902id_/http%3A//www.subhub.com/static/privacypolicy) for the most accurate reproduction.*
 
-# SubHub: Start a Subscription or Membership Website - Online Magazine, Online Journal, Online Newsletter
+# SubHub: Start a Subscription Web Site or Membership Website - Online Magazine, Online Journal, Online Newsletter, AdSense Website, Affiliate Website
 
 **END USER PRIVACY AND COOKIE POLICY**
 
@@ -8,7 +8,7 @@ _**Welcome to our Privacy Policy.**_
 
 This document explains what we do with the personal information that you give us. If you have not already done so, please read our User Agreement before reading this Privacy Policy. In general, we use the personal information that we collect from you to allow you to use the services offered by our website including Paid-For Content (the “Service”). This Privacy Policy applies only to our Service and not to any other company, individual, organisation or website that you may reach via a link from our website, except for those companies we mention below. If at any time you have a question about anything contained in this Privacy Policy or a general query on privacy, please 
 
-[contact us](https://web.archive.org/categories/20060516).
+[contact us](https://web.archive.org/contactus).
 
 • Consent  
 • Registration  
