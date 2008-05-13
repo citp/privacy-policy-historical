@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetraffictip.com privacy policy that was archived on 2007-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071122104401id_/http%3A//freetraffictip.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetraffictip.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513211227id_/http%3A//freetraffictip.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » IYWT
 
@@ -26,8 +26,4 @@ Please contact those vendors and others directly if you have any questions about
 
 For any other information email us at staff @ freetraffictip.com.
 
-Topics:
-
-* [](http://freetraffictip.com/tag/free-traffic/feed/rss2)[free traffic](http://freetraffictip.com/tag/free-traffic/)
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+How To Get Unstoppable Traffic? [Go Evergreen](http://www.marlonsanders.com/evergreen/). Read the story of how the owner of this site, ill and preparing to retire, created traffic so powerful that she couldn’t manage to turn it off.
