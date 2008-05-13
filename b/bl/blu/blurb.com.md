@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blurb.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213055644id_/http%3A//www.blurb.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurb.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513213333id_/http%3A//www.blurb.com/corporate/privacy) for the most accurate reproduction.*
 
 # Policies and Legal - Privacy Policy | Blurb
 
@@ -56,7 +56,7 @@ If you provide feedback on any of our products and services to us, we may use su
 **Disclosure of Personal Information**  
 Except as otherwise stated in this Privacy Policy, we do not trade, rent, or share your Personal Information with third parties and we will not disclose financial information unless you ask us to do so. 
 
-Wwe may share your Personal Information with third parties to provide you with the products and services that we offer you through the Website. These third parties are required not to use your Personal Information other than to provide the products and services requested by Blurb and are bound by confidentiality agreements with regard to their use of such information. You expressly consent to the sharing of your Personal Information with our contractors and third party service providers for the sole purpose of providing products and services to you. 
+We may share your Personal Information with third parties to provide you with the products and services that we offer you through the Website. These third parties are required not to use your Personal Information other than to provide the products and services requested by Blurb and are bound by confidentiality agreements with regard to their use of such information. You expressly consent to the sharing of your Personal Information with our contractors and third party service providers for the sole purpose of providing products and services to you. 
 
 We may enter into agreements with Partner Companies pursuant to which we provide the Partner Companies with a URL and a customer registration page co-branded with, or private labeled by, the Partner Companies, and the Partner Companies distributes and promotes the URL to its customers. A Partner Company may want access to Personal Information that we collect from their customers. As a result, if you register on the Website through a Partner Company, we may provide your Personal Information to the Partner Company. Because we do not control the privacy practices of our Partner Companies, you should read and understand their privacy policies. 
 
