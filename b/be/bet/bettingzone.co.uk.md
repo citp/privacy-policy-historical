@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bettingzone.co.uk privacy policy that was archived on 2007-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071129144558id_/http%3A//www.sportinglife.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettingzone.co.uk privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513102445id_/http%3A//www.sportinglife.com/info/privacy.html) for the most accurate reproduction.*
 
-# Sporting Life - Sports News | Football Transfer News, UEFA Cup Scores, Live Cricket Scores, Racing Results. Nedbank Challenge Live,
+# Sporting Life - Sports News | Football Transfer News, Live Football Scores, UEFA Cup final, Racing News and Results
 
   
 **Sporting Life Privacy Policy**
