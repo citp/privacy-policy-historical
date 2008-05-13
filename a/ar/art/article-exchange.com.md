@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the article-exchange.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322210942id_/http%3A//www.article-exchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-exchange.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513210300id_/http%3A//www.article-exchange.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
-# Free Articles - Free Articles For Your Ezine or Website
+# privacy Article-Exchange.com
+
+|    
+
+
+Your 468x60 ad goes here!
+
+Article-Exchange.com Privacy Policy
 
 Article-Exchange.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
@@ -40,8 +47,8 @@ Article-Exchange.com reserves the right to change this policy at any time. Pleas
 
 **Governing law**
 
-This policy and the use of this Site are governed by UK law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Leeds. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+This policy and the use of this Site are governed by Texas law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Austin. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Leeds. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Austin, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
