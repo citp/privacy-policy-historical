@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the diigo.com privacy policy that was archived on 2007-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071222070938id_/http%3A//www.diigo.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diigo.com privacy policy that was archived on 2008-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080513084817id_/http%3A//www.diigo.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,113 +9,80 @@
 <meta name="verify-v1" content="KuNS0V5LrbwWLzl+LManHeSwBMtwPG0fozg//KkL+30=">
 <meta name="verify-v1" content="Ta2y0AJ511Y12ERalbXDL0UHpguLTXyH3nyFFB7tC80=">
 <title></title>
+<link rel="stylesheet" href="/stylesheets/v3/common.css?20080506" type="text/css" media="screen">
+<link rel="stylesheet" href="/stylesheets/v2/help.css?20080506" type="text/css" media="screen">
+<link rel="stylesheet" href="/stylesheets/help_2.css?20080506" type="text/css" media="screen">
+
 <!--[if IE]>
 <link rel="stylesheet" href="/stylesheets/v2/iepatch.css" type="text/css" media="screen" />
 <![endif]-->
-<link rel="stylesheet" href="/stylesheets/v2/common.css?20071005" type="text/css" media="screen">
-<link id="skinLink_blue_0" rel="stylesheet" href="/stylesheets/v2/blue/common.css?20071005" type="text/css" media="screen">
-<script type="text/javascript" src="/javascripts/v2/common.js?20071005"></script>
-<script type="text/javascript" src="/javascripts/v2/prototype_1.5.1.js?20071005"></script>
-<script type="text/javascript" src="/javascripts/v2/effects.js?20071005"></script>
-<script type="text/javascript" src="/javascripts/v2/constants.js?20071005"></script>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-_uacct = "UA-295754-6";
-var _GLOBAL_VAR = new Object();
-_GLOBAL_VAR['skin_index'] = 0;
-_GLOBAL_VAR['skin_name'] = ["green", "blue", "black", "pink", "classic"];
-_GLOBAL_VAR['my_name'] = "";
-   function init_onload() {
-       // quit if this function has already been called
-       if (arguments.callee.done) return;
-       // flag this function so we don't do the same thing twice
-       arguments.callee.done = true;
-       init();
-   };
-
-   /* for Mozilla */
-   if (document.addEventListener) {
-       document.addEventListener("DOMContentLoaded", init_onload, false);
-   }
-   
-   // for Internet Explorer (using conditional comments)
-   /*@cc_on @*/
-   /*@if (@_win32)
-   document.write("<script id=__ie_onload defer src=javascript:void(0)><\/script>");
-   var script = document.getElementById("__ie_onload");
-   script.onreadystatechange = function() {
-    if (this.readyState == "complete") {
-        init_onload(); // call the onload handler
-    }
-   };
-   /*@end @*/
-   /* for other browsers */
-   window.onload = init_onload;
-   window.addOnLoadListener(init_onload);
-   
-   window.addOnLoadListener(urchinTracker);
-   
-   window.addOnLoadListener(initOnMouseUp);
-</script>
-
+<script type="text/javascript" src="http://www.diigo.com/javascripts/lib/prototype_c_1.6.js"></script>
 </head>
 <body>
 <a href="#main" id="skipNav">Skip to main content</a>
 <div id="box">
-<div id="header">
-<div id="shortcut">
-
-<a id="signin_switcher" href="https://secure.diigo.com/sign-in">Sign In</a>
-|<a href="http://www.diigo.com/sign-up/">Join Diigo</a>
-
-
-<span id="skinOptions"></span><!--skinOptions-->
-|<a href="http://www.diigo.com/help/outline">Help</a>
-
-</div><!--shortcut-->
-<a id="logo" href="http://www.diigo.com/"><img id="logoImg" src="/images/v2/blue/diigo_logo_v2.gif" alt="diigo"></a><!--logo-->
-<img class="v2Beta" src="/images/v2/v2_beta.gif" alt="v2 beta">
+	<div id="header">
+    <div id="headerInner">
+        <div id="logo"><a title="Diigo" href="http://www.diigo.com/index"><img src="/images/v3/logo_small.jpg" alt="diigo"></a></div>
+        <ul id="topNav">
+            
+            <li class=""><a class="clickLink" href="http://www.diigo.com/introduce/home"><span>Home</span></a>
+            </li>
+            <li><a href="http://message.diigo.com"><span>Message</span></a></li>
+            <li class="" style="display:none"><a class="clickLink" href="http://www.diigo.com/introduce/friend"><span><nobr>Friends</nobr></span></a>                
+            </li>
+            <li class=""><a class="clickLink" href="http://www.diigo.com/introduce/friend"><span>Friends</span></a>
+            </li><li class="contextMenu " id="topNav_people" onmouseout="TopNav.mouseoutHandler();" onmouseover="TopNav.mouseoverHandler('topNav_people');"><a class="clickLink" href="http://www.diigo.com/people/online"><span><nobr>Meet People<b>▼</b></nobr></span></a>
+                <ul class="subMenu" style="display:none">
+                    <li><a href="http://www.diigo.com/people/online"><span>People Online Now</span></a></li> 
+                    <li><a href="http://www.diigo.com/people/new"><span>New to Diigo</span></a></li>
+                    <li><a href="http://www.diigo.com/people/feature"><span>Featured People</span></a></li>
+                    <li><a href="http://www.diigo.com/people/search"><span>Search People</span></a></li>
+                </ul><!--subMenu-->
+            </li>
+            <li class="contextMenu " id="topNav_community" onmouseout="TopNav.mouseoutHandler();" onmouseover="TopNav.mouseoverHandler('topNav_community');">
+                <a class="clickLink" href="http://groups.diigo.com"><span><nobr>Communities<b>▼</b></nobr></span></a>
+                <ul class="subMenu" style="display:none"> 
+                    <li><a href="http://groups.diigo.com"><span>Groups</span></a></li>          
+                    <li><a href="http://www.diigo.com/community/sites"><span>Site Communities</span></a></li>
+                    <li><a href="http://www.diigo.com/community/tag"><span>Tag Communities</span></a></li>
+				</ul><!--subMenu-->
+            </li>            
+            <li class="contextMenu " id="topNav_discover" onmouseout="TopNav.mouseoutHandler();" onmouseover="TopNav.mouseoverHandler('topNav_discover');"><a class="clickLink" href="http://www.diigo.com/buzz/hot"><span><nobr>Discover<b>▼</b></nobr></span></a>
+                <ul class="subMenu" style="display:none">
+                    <li><a href="http://www.diigo.com/buzz/hot"><span>Hot Bookmarks</span></a></li>
+                    <li><a href="http://www.diigo.com/buzz/justin"><span>Just In</span></a></li>
+                    <li class="sep"><a href="/list/home"><span>Bookmark Lists</span></a></li>
+                </ul><!--subMenu-->
+            </li>
+            
+        </ul><!--topNav-->
+        
+        
+<form id="topSearchForm" autocomplete="off" action="/search" method="get" onsubmit="doTopSearch();return false;">
+<select name="scope">
+<option selected="selected" value="diigo">Diigo</option>
+<option value="people">People</option>
+<option value="groups">Groups</option>
+<option value="web">The Web</option>
+</select>
+<input type="text" size="18" maxlength="255" name="what" value="">
+<input type="submit" value="Search">
+<a onclick="window.external?window.external.AddSearchProvider('http://www.diigo.com/search/open_search') : window.sidebar.addSearchEngine('http://www.diigo.com/search/open_search', 'http://www.diigo.com/favicon.ico', 'Diigo', 'Search'); return false;" href="" class="addOpenSearch" style="color:#ddd;">Add to browser</a>
+</form><!--searchForm-->
+        
+        <ul id="shortcut">
+            
+            <li><a href="https://secure.diigo.com/sign-in?referInfo=http%3A%2F%2Fwww.diigo.com"><span>Sign In</span></a></li>
+            <li><a href="http://www.diigo.com/sign-up?referInfo=http%3A%2F%2Fwww.diigo.com"><span>Join Diigo</span></a></li>
+            
+			
+        </ul><!--shortcut-->
+        
+    </div><!--headerInner-->
 </div><!--header-->
-<div id="siteNav">
-
-<script type="text/javascript">
-_GLOBAL_VAR['keywordTip'] = "Search All Bookmarks...";
-function hideSearchMore() {
-  $("searchMore").style.display = "none";  
-}
-window.addOnMouseUpListener(hideSearchMore);
-</script>
-<div class="easySearchBox">
-<form name="searchForm" onsubmit="doSearch();return false;">
-<input autocomplete="off" type="hidden" class="searchInputScope" id="dSearchScope" maxlength="255" value="All">
-<input autocomplete="off" type="text" onblur="blurKeyword();" onfocus="focusKeyword();" class="searchInputKeyword" id="dSearchKeyword" maxlength="255" value="Search All Bookmarks...">
-<ul id="popupTag" style="display:none;" class="autoUL"></ul>
-<input type="submit" id="searchSubmit" value="by Tag" class="searchBtn">
-<a id="searchMoreLink" href="javascript:void(0)" onclick="switchSearchMoreList();">More »</a>
-<ul id="searchMore" style="display:none;">
-
-<li><a href="javascript:doFSearch('all');">Search <strong>all</strong> by full-text</a></li>
-<li><a href="javascript:doFSearch('ad');">Advanced</a></li>
-</ul><!--searchMore-->
-</form>
-</div><!--easySearchBox-->
-<div id="mainNavOuter">
-<div id="mainNav">
-<ul>
-
-<li><a href="http://www.diigo.com/community"><span>Bookmarks</span></a></li>
-<li><a href="http://groups.diigo.com"><span>Groups</span></a></li>
-<li><a href="http://www.diigo.com/tools"><span>Tools</span></a></li>
-</ul>
-</div><!--main navigation-->
-</div><!--main navigation outer-->
-<div id="mySubNav" class="subNavOuter">
-
-</div><!--subNavOuter-->
-</div><!--siteNav-->
-<link href="/stylesheets/privacy.css?1194369615" media="screen" rel="Stylesheet" type="text/css">
+	<div id="main">
+		<link href="/stylesheets/privacy.css" media="screen" rel="stylesheet" type="text/css">
 <div id="middle">
 
 <div id="content">
@@ -232,58 +199,59 @@ window.addOnMouseUpListener(hideSearchMore);
 
 </div><!--End DivContent-->
 </div><!--End DivMiddle-->
-<div id="footer">
- <ul class="footInfo">
-      <li>
-        <h1>General</h1>
-        <ul>
-          <li>-<a href="/help/about">About</a></li>
-          <li>-<a href="/help/terms">Terms</a></li>
-          <li>-<a href="/help/privacy">Privacy policy</a></li>
-          <li>-<a onclick="report();" href="javascript:void(0);">Report Abuse and Junk</a></li>
-        </ul>
-      </li>
-      <li>
-        <h1>Know Diigo</h1>
-        <ul>
-          <li>-<a href="http://blog.diigo.com">Diigo Blog</a></li>
-          <li>-<a href="http://forum.diigo.com">Diigo User Forum</a></li>
-          <!--<li>-<a href="#">Diigo in press</a></li>-->
-          <li>-<a href="/help/testimonials">Diigo User Testimonials</a></li>
-        </ul>
-      </li>
-      <li>
-        <h1>General Help</h1>
-        <ul>
-          <li>-<a href="/help/flash_tutorial">Flash tutorial</a></li>
-          <li>-<a href="/help/learn_more//">Guided tour</a></li>
-          <!--<li>-<a href="#">Feature Comparisons</a></li>-->
-          <li>-<a href="/help/whatisnew">New features</a></li>
-        </ul>
-      </li>
-      <li>
-        <h1>Quick howto</h1>
-        <ul>
-          <li>-<a href="/help/bookmark/1">How to bookmark</a></li>
-          <li>-<a href="/help/highlight/1">How to highlight</a></li>
-          <li>-<a href="/help/stickynote/1">How to add sticky notes</a></li>
-          <li>-<a href="/help/forward/2">How to share pages with sticky notes</a></li>
-        </ul>
-      </li>
-            <li>
-        <h1>Tools</h1>
-        <ul>
-          <li>-<a href="/tools">Diigo toolbar</a></li>
-          <li>-<a href="/tools/diigolet">Diigolet</a></li>
-          <li>-<a href="/tools/linkrolls">Enhanced Linkroll</a></li>
-          <li>-<a href="/tools/import_favor">Import Favorites</a></li>
-          <li>-<a href="/tools/import_delicious">Import del.icio.us</a></li>
-          <li>-<a href="/tools/export">Export</a></li>
-        </ul>
-      </li>
-    </ul>
-<p class="footCopyright"><span id="copyright">©2005-2007 Diigo</span></p>
-</div><!--footer-->
+		<div style="clear:both"></div>
+	</div><!--main-->
 </div><!--box-->
+<div style="clear:both"></div>
+
+  <div id="footer">
+    <div id="footerInner">
+      <h6>Diigo - Highlight and Share the Web!</h6>
+      <ul id="fLine_1">
+        <li><a href="/about">About Diigo</a>|</li>
+        <li><a target="_blank" href="http://help.diigo.com">Help</a>|</li>
+        <li><a href="http://forum.diigo.com">User Forum</a>|</li>
+        <li><a href="http://blog.diigo.com">Blog</a>|</li>
+        <li><a href="/tools">Tools</a>|</li>
+        <li><a href="/common/contact">Contact</a>|</li>
+        <li><a style="color:#FFB442;font-weight:bold;" target="_blank" href="http://help.diigo.com/What%27s_New">What's New</a></li>
+      </ul>
+      <ul id="fLine_2">
+        <li><a href="/help/terms">Terms of Service</a>|</li>
+        <li><a href="/help/privacy">Privacy</a>|</li>
+        <li><span id="copyright">© Diigo Inc 2008 -- User-posted content, unless source quoted, is licensed under a <a href="http://creativecommons.org/licenses/publicdomain/">Creative Commons Public Domain License</a></span></li>
+      </ul>
+      <div class="clear"></div>
+    </div><!--footerInner-->
+  </div><!--footer-->
+
+<script type="text/javascript" src="/javascripts/lib/diigo_bookmark.js?20080506"></script>
+<script type="text/javascript">
+    function initDiigo() {
+        for(var i=0; i<window.onloadListeners.length;i++) {
+            var func = window.onloadListeners[i];
+            func.call();
+        }
+    }
+        window.onloadListeners = [];
+        window.addOnLoadListener = function(listener) {
+            window.onloadListeners[window.onloadListeners.length] = listener;
+        }
+        var _GLOBAL_VAR = {};
+        _GLOBAL_VAR['my_name'] = "";
+        var D_DOMAIN = ".diigo.com";
+        var BOOKMARK_HOST = "http://www.diigo.com";
+        var GROUP_HOST = "http://groups.diigo.com";
+        var RESOURCE_HOST = "http://resources.diigo.com";
+        var SLIDES_HOST = "http://slides.diigo.com"
+        var MESSAGE_HOST = "http://message.diigo.com"
+        var USER_AVATAR_URI = RESOURCE_HOST+"/images/avatar/user";
+        document.observe("dom:loaded", initDiigo);
+</script>
+
+<script src="http://www.diigo.com/javascripts/lib/astrack.js" type="text/javascript"></script>
+
+
+
 
 </body></html>
