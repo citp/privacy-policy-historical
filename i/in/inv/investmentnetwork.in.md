@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investmentnetwork.in privacy policy that was archived on 2007-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071114110347id_/http%3A//www.investmentnetwork.in/about/18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentnetwork.in privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513202432id_/http%3A//www.investmentnetwork.in/about/18) for the most accurate reproduction.*
 
 # About - Privacy
 
