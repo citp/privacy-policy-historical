@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionfling.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011140451id_/http%3A//www.fashionfling.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionfling.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513215819id_/http%3A//www.fashionfling.com/privacy.php) for the most accurate reproduction.*
 
-# FashionFling Privacy Policy
+# FashionFling: Privacy Policy
 
 We ([http://www.fashionfling.com](http://www.fashionfling.com/)) value and respect our visitors privacy. That is the reason why we included this privacy policy to make sure that your privacy is not being violated. If you have any questions concerning our Privacy Policy, please do not hesitate to ask! 
 
@@ -13,10 +13,6 @@ We **_WILL_** not share, sell, rent, market any of your personal information to 
 **_Stores Privacy Policy_**
 
 All merchants and advertisers have their own privacy policy, and we advise you to review their privacy policy before purchasing or subscribing to anything.
-
-**_Newsletter Subscribers_**
-
-We will not share your email address with anyone. We currently manage our newsletter by Constant Contact. Please, refer to Constant Contact Anti-Spam Privacy Policy at <http://www.constantcontact.com/uidocs/CCSpamPolicy.jsp>. 
 
 **_Children_**
 
