@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the largeformatposters.com privacy policy that was archived on 2007-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071227033036id_/http%3A//www.largeformatposters.com/Site-Policies.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the largeformatposters.com privacy policy that was archived on 2008-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080513025303id_/http%3A//www.largeformatposters.com/Site-Policies.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Large Format Posters - Trade Shows, Window Graphics, Gloss Posters, Banners and More</title>
-<meta name="keywords" content="large format posters, posters printing, vinyl banners, banner printing, canvas printing, trade show poster printing, vinyl signs">
+<title>Large Fomat Posters Printing</title>
+<meta name="keywords" content="Large Fomat Posters, Vinyl Banners, Banner Printing, Canvas Printing, Trade Show Poster Printing, Vinyl Signs">
 <meta name="description" content="At Large Format Posters, you can rely on our professional staff and our state-of-the-art poster printing technology for the best quality poster printing, fast and affordable. Our extensive large format poster printing capabilities includes offset poster p">
 <base href="http://www.largeformatposters.com/">
-<link rel="stylesheet" type="text/css" href="includes/templates/lfp/css/stylesheet.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/lfp/css/styleLfp.css"><link rel="stylesheet" type="text/css" href="includes/templates/lfp/css/stylecampaign.css"><link rel="stylesheet" type="text/css" href="includes/templates/lfp/css/stylesheet.css">
 <script>
 
 		
@@ -44,7 +44,7 @@
 			var uri;
 			var post_data;
 			
-						uri = "http://www.largeformatposters.com";
+			uri = "";
 			if (sajax_request_type == "GET") {
 				if (uri.indexOf("?") == -1) 
 					uri = uri + "?rs=" + escape(func_name);
@@ -212,6 +212,83 @@
 				x_test_call.arguments);
 		}
 		
+				
+		// wrapper for get_price_pack		
+		function x_get_price_pack() { 
+			sajax_do_call("get_price_pack",
+				x_get_price_pack.arguments);
+		}
+		
+				
+		// wrapper for get_price_by_stock		
+		function x_get_price_by_stock() { 
+			sajax_do_call("get_price_by_stock",
+				x_get_price_by_stock.arguments);
+		}
+		
+				
+		// wrapper for get_price_catalogs		
+		function x_get_price_catalogs() { 
+			sajax_do_call("get_price_catalogs",
+				x_get_price_catalogs.arguments);
+		}
+		
+				
+		// wrapper for get_price_by_stock_ver2		
+		function x_get_price_by_stock_ver2() { 
+			sajax_do_call("get_price_by_stock_ver2",
+				x_get_price_by_stock_ver2.arguments);
+		}
+		
+				
+		// wrapper for get_price_pack_ver2		
+		function x_get_price_pack_ver2() { 
+			sajax_do_call("get_price_pack_ver2",
+				x_get_price_pack_ver2.arguments);
+		}
+		
+				
+		// wrapper for call_ups_xml		
+		function x_call_ups_xml() { 
+			sajax_do_call("call_ups_xml",
+				x_call_ups_xml.arguments);
+		}
+		
+				
+		// wrapper for get_ups_xml_methods		
+		function x_get_ups_xml_methods() { 
+			sajax_do_call("get_ups_xml_methods",
+				x_get_ups_xml_methods.arguments);
+		}
+		
+				
+		// wrapper for set_product		
+		function x_set_product() { 
+			sajax_do_call("set_product",
+				x_set_product.arguments);
+		}
+		
+				
+		// wrapper for get_ups_xml_methods_job		
+		function x_get_ups_xml_methods_job() { 
+			sajax_do_call("get_ups_xml_methods_job",
+				x_get_ups_xml_methods_job.arguments);
+		}
+		
+				
+		// wrapper for select_state		
+		function x_select_state() { 
+			sajax_do_call("select_state",
+				x_select_state.arguments);
+		}
+		
+				
+		// wrapper for validate_zip_code		
+		function x_validate_zip_code() { 
+			sajax_do_call("validate_zip_code",
+				x_validate_zip_code.arguments);
+		}
+		
 		
 var DIR_WS_TEMPLATE = 'includes/templates/lfp/';
 var IMG_DIR = '';
@@ -221,6 +298,7 @@ var CURRENT_PAGE = 'privacy_policy';
 var CPATH = '';
 var MARK = '';
 var PRODUCT_ID = '';
+var DISCOUNT_PERCENT = '';
 	var TYPE = '';
 var SEL_SHIPPING = '';
 var PROMO = '';
@@ -230,9 +308,13 @@ var PROMO = '';
 <script src="includes/templates/lfp/jscripts/JSON.js"></script> 
 <script src="includes/templates/lfp/jscripts/misc.js"></script> 
 <script src="includes/templates/lfp/jscripts/site_search.js"></script> 
+<script src="includes/templates/lfp/jscripts/common.js"></script> 
 
 <script language="JavaScript" src="https://seals.networksolutions.com/siteseal/javascript/siteseal.js" type="text/javascript"></script>
-
+<script type="text/javascript">var GB_ROOT_DIR = "http://www.largeformatposters.com/includes/templates/lfp/greybox/";</script>
+<script type="text/javascript" src="includes/templates/lfp/greybox/AJS.js"></script>
+<script type="text/javascript" src="includes/templates/lfp/greybox/AJS_fx.js"></script>
+<script type="text/javascript" src="includes/templates/lfp/greybox/gb_scripts.js"></script>
 <script type="text/javascript" language="JavaScript">
 function MM_preloadImages() { //v3.0
   var d=document; 
@@ -245,317 +327,144 @@ function MM_preloadImages() { //v3.0
 				}
 	}
 }
-</script></head>
+</script><script language="javascript" type="text/javascript">var lpPosY = 100;</script><script language="javascript" src="http://server.iad.liveperson.net/hc/77577663/x.js?cmd=file&amp;file=chatScript3&amp;site=77577663&amp;&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a"> </script></head>
+
+ <!-- Live Person -->
 
  
-<body id="privacypolicy" style="margin:0 0 0 0; padding:0 0 0 0;">
-
-<center>
-<div id="divPage">
-<table align="center" border="0" cellspacing="0" cellpadding="0" width="800">
-  <tbody><tr>
-    <td>
-			<!-- header begins -->
-			<style>
-body {
-	margin:0px;
-	padding:0px;
-}
-body, table {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:12px;
-	color:#000000;
-}
-table, tr, td, th {
-	text-align:left;
-}
-.headerFont {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:11px;
-	font-weight:normal;
-	color:#FFFFFF;
-	text-decoration:none;
-}
-.headerLinks {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:11px;
-	font-weight:bold;
-	color:#FFFFFF;
-	text-decoration:none;
-}
-.headCpfont {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:11px;
-	font-weight:normal;
-	color:#003399;
-	text-decoration:none;
-}
-.headCpmenu {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:11px;
-	font-weight:bold;
-	color:#003399;
-	text-decoration:none;
-}
-.leftMenu {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:11px;
-	font-weight:normal;
-	color:#003399;
-	text-decoration:underline;
-}
-.rightLabel {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:12px;
-	font-weight:bold;
-	color:#003399;
-	text-decoration:none;
-}
-.rightText {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:12px;
-	font-weight:normal;
-	color:#003399;
-	text-decoration:none;
-}
-.rightStext {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:11px;
-	font-weight:normal;
-	color:#003399;
-	text-decoration:none;
-}
-.footerCopyright {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:11px;
-	font-weight:normal;
-	color:#999999;
-	text-decoration:none;
-}
-.dropdownClass {
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:12px;
-	font-weight:normal;
-}
-.productDesc {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:12px;
-	font-weight:normal;
-	color:#0066CC;
-}
-.redLtext {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:12px;
-	font-weight:normal;
-	color:#FF0000;
-	text-decoration:none;
-}
-.redLtext {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:11px;
-	font-weight:normal;
-	color:#FF0000;
-	text-decoration:none;
-}
-.smallVerdana {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:11px;
-	font-weight:normal;
-	color:#000000;
-	text-decoration:none;
-}
-
-</style>
-<form name="custom_proof_home" action="http://www.largeformatposters.com/index.php?main_page=custom_product" enctype="multipart/form-data" method="post">
-<input type="hidden" name="submit_proof" value="">
-</form>
-<script>
-var newwindow = '';
-function popitupImage(url) {
-	newwindow=window.open(url,'htmlname','width=504,height=416,resizable=1,scrollbars=yes');   
-}
-</script>
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-		<tbody><tr>
-		<td width="20%"><a href="http://www.largeformatposters.com"><img src="includes/templates/lfp/images/lfp-logo.gif" width="189" height="72" border="0"></a></td>
-		<td width="80%" valign="top">
-			<table align="right" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td>&nbsp;</td>
-				</tr>
-				<tr>
-					<td><img src="includes/templates/lfp/images/header-callus.gif" width="200" height="36"></td>
-										<td width="20">&nbsp;</td>
-					<td>
-						<table border="0" cellspacing="0" cellpadding="0" width="100%">
-							<tbody><tr>
-								<td><img src="includes/templates/lfp/images/header-gmenu-left.gif" width="15" height="36"></td>
-								<td background="includes/templates/lfp/images/header-gmenu-bg.gif" class="headCpfont"><a href="http://www.largeformatposters.com/indexportal.php?page=orders2" rel="nofollow" class="headCpmenu"><span class="headCpmenu">Job Management</span></a> | <a href="http://www.largeformatposters.com/index.php?main_page=cart_items&amp;cart_type=db" rel="nofollow" class="headCpmenu"><span class="headCpmenu">Shopping Cart</span></a></td>
-								<td><img src="includes/templates/lfp/images/header-gmenu-right.gif" width="15" height="36"></td>
-							</tr>
-						</tbody></table>
-					</td>
-										<td>&nbsp;</td>								
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td background="includes/templates/lfp/images/header-blueline.gif" colspan="2"><img src="includes/templates/lfp/images/header-blueline.gif" width="15" height="6"></td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<table border="0" cellspacing="0" cellpadding="0" width="100%">
-				<tbody><tr>
-					<td><img src="includes/templates/lfp/images/header-menu-left.gif" width="15" height="36"></td>
-					<td background="includes/templates/lfp/images/header-menu-bg.gif" width="99%">
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td class="headerFont">
-									<a href="http://www.largeformatposters.com" class="headerLinks"><span class="headerLinks">Home</span></a> |
-									<a href="http://www.largeformatposters.com/About-Us.html" class="headerLinks"><span class="headerLinks">About Us</span></a> |
-									<a href="http://www.largeformatposters.com/Samples.html" class="headerLinks" rel="nofollow"><span class="headerLinks">Sample Kit</span></a> |
-									<a href="http://www.largeformatposters.com/index.php?main_page=custom_product&amp;proof=pdf_proof" class="headerLinks" rel="nofollow"><span class="headerLinks">Project Review</span></a> |
-									<a href="http://www.largeformatposters.com/Utrade.html" class="headerLinks"><span class="headerLinks" rel="nofollow">Trade Program</span></a> |
-									<a href="http://www.largeformatposters.com/Contact-Us.html" class="headerLinks"><span class="headerLinks">Contact Us</span></a>
-								</td>
-								<td>
-									<table align="right" border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td><img src="includes/templates/lfp/images/q-mark.gif" width="16" height="16"></td>
-											<td>&nbsp;</td>
-											<td><a href="http://www.largeformatposters.com/Help-Center.html" class="headerLinks"><span class="headerLinks">Help Center</span></a></td>
-										</tr>
-									</tbody></table>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-					<td><img src="includes/templates/lfp/images/header-menu-right.gif" width="15" height="36"></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>			<!-- header ends -->
-		</td>
-  </tr>	
-	<tr>
-		<td height="30">&nbsp;</td>
-	</tr>
-	<tr>
-		<td>
-			<table border="0" cellspacing="0" cellpadding="0" width="100%">
-				<tbody><tr>
-										<td valign="top">
-						<!-- left panel begins -->
-						<table align="left" border="0" cellspacing="0" cellpadding="0" width="197">
+<body id="privacypolicy" style="margin:0 0 0 10px; padding:0 0 0 0;">
+<a name="back_to_top"></a>
+<link href="includes/templates/lfp/greybox/gb_styles.css" rel="stylesheet" type="text/css">
+<div>
+<table border="0" cellpadding="0" cellspacing="0" width="1033">
 	<tbody><tr>
-		<td><img src="includes/templates/lfp/images/left-top.gif" width="197" height="17"></td>
-	</tr>
-	<tr>
-		<td background="includes/templates/lfp/images/left-bg.gif"><br>
-			<table align="center" border="0" cellspacing="0" cellpadding="0" width="80%">
+    <td><div align="left">
+			<!-- header begin -->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+		<td>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
-					<td colspan="2"><img src="includes/templates/lfp/images/poster-material.gif" width="99" height="17"></td>
-				</tr>
-				<tr>
-					<td colspan="2" height="7"></td>
-				</tr>
-				<tr>
-					<td width="25"><img src="includes/templates/lfp/images/uv-poster.gif" width="22" height="14"></td>
-					<td><a href="/Artist-Canvas-Posters.html" class="leftMenu">Artist Canvas</a></td>
-				</tr>
-				<tr>
-					<td colspan="2" height="7"></td>
-				</tr>
-				<tr>
-					<td>&nbsp;</td>
-					<td><a href="/High-Gloss-Posters.html" class="leftMenu">High Gloss Paper</a></td>
-				</tr>
-				<tr>
-					<td colspan="2" height="7"></td>
-				</tr>
-				<tr>
-					<td>&nbsp;</td>
-					<td><a href="/Semi-Gloss-Posters.html" class="leftMenu">Semi Gloss Paper</a></td>
-				</tr>
-				<tr>
-					<td colspan="2" height="25">&nbsp;</td>
-				</tr>
-				<tr>
-					<td colspan="2"><img src="includes/templates/lfp/images/banner-materials.gif" width="104" height="17"></td>
-				</tr>
-				<tr>
-					<td colspan="2" height="7"></td>
-				</tr>
-				<tr>
-					<td><img src="includes/templates/lfp/images/uv-poster.gif" width="22" height="14"></td>
-					<td><a href="/Vinyl-Banners-Posters.html" class="leftMenu">Vinyl Banners</a></td>
-				</tr>
-								<tr>
-					<td colspan="2" height="25">&nbsp;</td>
-				</tr>
-				<tr>
-					<td colspan="2"><img src="includes/templates/lfp/images/display-graphics.gif" width="103" height="17"></td>
-				</tr>
-				<tr>
-					<td colspan="2" height="7"></td>
-				</tr>
-				<tr>
-					<td><img src="includes/templates/lfp/images/uv-poster.gif" width="22" height="14"></td>
-					<td><a href="/Adhesive-Vinyl-Posters.html" class="leftMenu">Adhesive Vinyl</a></td>
-				</tr>
-				<tr>
-					<td colspan="2" height="7"></td>
-				</tr>
-				<tr>
-					<td><img src="includes/templates/lfp/images/uv-poster.gif" width="22" height="14"></td>
-					<td><a href="/Window-Signs-Posters.html" class="leftMenu">Window Signs</a></td>
-				</tr>
-				<tr>
-					<td colspan="2" height="25">&nbsp;</td>
-				</tr>
-				<tr>
-					<td colspan="2"><img src="includes/templates/lfp/images/offset-posters.gif" width="94" height="17"></td>
-				</tr>
-				<tr>
-					<td colspan="2" height="7"></td>
-				</tr>
-				<tr>
-					<td><img src="includes/templates/lfp/images/25pt-poster.gif" width="22" height="14"></td>
-					<td><a href="/Gloss-Text-Posters.html" class="leftMenu">100lb Gloss Text</a></td>
-				</tr>
-				<tr>
-					<td colspan="2" height="7"></td>
-				</tr>
-				<tr>
-					<td><img src="includes/templates/lfp/images/25pt-poster.gif" width="22" height="14"></td>
-					<td><a href="/Gloss-Cover-Posters.html" class="leftMenu">100lb Gloss Cover</a></td>
-				</tr>										
-			</tbody></table>
-		<br></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/lfp/images/left-bottom.gif" width="197" height="17"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/lfp/images/uv-25pt.gif" width="170" height="61"></td>
-	</tr>
-</tbody></table>						<!-- left panel ends -->
+					<td width="48%"><a href="http://www.largeformatposters.com"><img src="includes/templates/lfp/images/lfp-logo.gif" width="195" height="76" border="0"></a></td>
+				  <td width="29%" valign="top" align="right"><!--<img src="includes/templates/lfp/images/top-num.gif" width="299" height="44" />-->
+					<img src="includes/templates/lfp/images/top-num.gif" width="299" height="44" border="0" usemap="#Map">
+					<map name="Map" id="Map"><area shape="rect" coords="157,10,278,25" id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/77577663/?cmd=file&amp;file=visitorWantsToChat&amp;site=77577663&amp;byhref=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a" target="chat77577663" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/77577663/?cmd=file&amp;file=visitorWantsToChat&amp;site=77577663&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat77577663','width=475,height=400,resizable=yes');return false;"></map></td>
+				  		
+				  <td width="23%" valign="top">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			        <tbody><tr>
+			        	<td width="0%"><img src="includes/templates/lfp/images/top-cpnav-l.gif" width="9" height="44"></td>
+			          <td width="100%" background="includes/templates/lfp/images/top-cpnav-m.gif" class="cpNav" align="center">
+									<a href="http://www.largeformatposters.com/loginportal.php?accesscheck=indexportal.php%3Fpage%3Dorders2" class="cpNav" rel="nofollow"><strong>Job Portal Login</strong></a> | <a href="http://www.largeformatposters.com/index.php?main_page=cart_items&amp;cart_type=db" rel="nofollow" class="cpNav"><strong>Shopping Cart</strong></a>
+								</td>
+			        	<td width="0%"><img src="includes/templates/lfp/images/top-cpnav-r.gif" width="8" height="44"></td>
+			      	</tr>
+			      </tbody></table>
 					</td>
-					<td width="15">&nbsp;&nbsp;&nbsp;</td>
-										<td valign="top">
-						<!-- bodycode begins -->
-						<style>
-table, tr, td, th {
-	color:#000000;
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:11px;
-	text-align:justify;
-}
-</style>
-<br>
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
+								  </tr>
+			</tbody></table>
+		</td>
+	</tr>
+  <tr>
+    <td background="includes/templates/lfp/images/tnav-m.gif" style="background-position:bottom; background-repeat:repeat-x">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      	<tbody><tr>
+        	<td width="1%" valign="bottom"><a href="index.html"><img src="includes/templates/lfp/images/tnav-l.gif" width="43" height="43" border="0"></a></td>
+        	<td width="85%">
+						<div class="topNav">
+							<a href="/About-Us.html" class="cpNav"><strong>About Us</strong></a> | 
+							<a href="/Samples.html" class="cpNav"><strong>Sample Request</strong></a> | 
+							<a href="/Help-Center.html" class="cpNav"><strong>Help</strong></a> | 
+							<a href="/Contact-Us.html" class="cpNav"><strong>Contact Us</strong></a>
+						</div>
+					</td>
+        	<td width="14%">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+          		<tbody><tr>
+            		<td><a href="/Gallery-Posters.html"><img src="includes/templates/lfp/images/tnav-pg.gif" width="134" height="49" border="0"></a><a href="gallery.html"></a></td>
+            		<td><img src="includes/templates/lfp/images/tnav-space.gif" width="5" height="49"></td>
+            		<td><a href="/index.php?main_page=custom_product&amp;proof=pdf_proof"><img src="includes/templates/lfp/images/tnav-pr.gif" width="138" height="49" border="0"></a></td>
+          		</tr>
+        		</tbody></table>
+					</td>
+      	</tr>
+    	</tbody></table>
+  	</td>
+	</tr>
+</tbody></table>		
+			<!-- header end -->
+		</div></td>
+  </tr>
+	<tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tbody><tr>
+										<td width="20%" valign="top">				
+					<table align="left" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td><img src="includes/templates/lfp/images/lp-top.gif" width="195" height="20"></td>
+	</tr>
+	<tr>
+		<td background="includes/templates/lfp/images/lp-mid.gif" style="padding-left:20px;">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tbody><tr>
+					<td><img src="includes/templates/lfp/images/lp-txt-cat1.gif" width="112" height="16"></td>
+				</tr>
+				<tr>
+					<td class="lpLinks"><a href="/Semi-Gloss-Posters.html" class="lpLinks" rel="nofollow">Semi Gloss</a></td>
+				</tr>
+				<tr>
+					<td class="lpLinks"><a href="/High-Gloss-Posters.html" class="lpLinks" rel="nofollow">High Gloss</a></td>
+				</tr>
+				<tr>
+					<td class="lpLinks"><a href="/Gloss-Offset-Posters.html" class="lpLinks" rel="nofollow">Offset Posters</a> (50+ Qty) </td>
+				</tr>
+				<tr>
+					<td height="25">&nbsp;</td>
+				</tr>
+				<tr>
+					<td><img src="includes/templates/lfp/images/lp-txt-cat2.gif" width="112" height="16"></td>
+				</tr>
+				<tr>
+					<td class="lpLinks"><a href="/Artist-Canvas-Posters.html" class="lpLinks" rel="nofollow">Rolled Canvas</a></td>
+				</tr>
+				<tr>
+					<td height="25">&nbsp;</td>
+				</tr>
+				<tr>
+					<td><img src="includes/templates/lfp/images/lp-txt-cat3.gif" width="112" height="14"></td>
+				</tr>
+				<tr>
+					<td class="lpLinks"><a href="/Vinyl-Banners-Posters.html" class="lpLinks" rel="nofollow">Premium 15mil Vinyl</a></td>
+				</tr>
+				<tr>
+					<td height="25">&nbsp;</td>
+				</tr>
+				<tr>
+					<td><img src="includes/templates/lfp/images/lp-txt-cat4.gif" width="112" height="16"></td>
+				</tr>
+				<tr>
+					<td class="lpLinks"><a href="/Adhesive-Vinyl-Posters.html" class="lpLinks" rel="nofollow">Adhesive Back</a></td>
+				</tr>
+				<tr>
+					<td class="lpLinks"><a href="/Window-Signs-Posters.html" class="lpLinks" rel="nofollow">Window Cling</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="includes/templates/lfp/images/lp-bot.gif" width="195" height="19"></td>
+	</tr>
+</tbody></table>
+					</td>
+					<td width="2%">&nbsp;</td>
+        	<td width="78%" valign="top">
+						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+          		<tbody><tr>
+								<td><table border="0" cellspacing="0" cellpadding="0" width="100%" style="text-align:justify;">
   <tbody><tr>
     <td>
 			<strong>PRIVACY POLICY</strong><br><br>
@@ -625,48 +534,48 @@ table, tr, td, th {
 			Your use of LargeFormatPosters.com constitutes your agreement to this Privacy Policy.<br><br>
 		</td>
 	</tr>
-</tbody></table>						<!-- bodycode ends -->
-					</td>
-				</tr>
+</tbody></table></td>
+							</tr>
+						</tbody></table>
+					</td>					
+									</tr>
 			</tbody></table>
 		</td>
-	</tr>
+  </tr>
 	<tr>
 		<td height="30">&nbsp;</td>
 	</tr>
-	<tr>
-		<td>
-			<!-- footer begins -->
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+		<td><div align="center">	  
+      <!-- footer begin -->
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
-		<td background="includes/templates/lfp/images/footer-bluebg.gif" height="37"><div align="center" class="headerFont"><a class="headerFont" href="http://www.largeformatposters.com"><span class="headerFont">Home</span></a> | <a class="headerFont" href="http://www.largeformatposters.com/sitemap.html"><span class="headerFont">Sitemap</span></a> | <a class="headerFont" href="http://www.largeformatposters.com/Terms.html"><span class="headerFont">Terms &amp; Conditions</span></a> | <a class="headerFont" href="http://www.largeformatposters.com/Site-Policies.html"><span class="headerFont">Privacy Policy</span></a></div></td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-	</tr>
-	<tr>
-		<td><div align="center" class="footerCopyright">Copyright © 2005 Large Format Printing. All Rights Reserved.</div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><a href="http://www.largeformatposters.com"><img src="includes/templates/lfp/images/lfp-footer-logo.gif" width="131" height="50" border="0"></a></div></td>
-	</tr>
-</tbody></table>
-
-					<!-- footer ends -->
+		<td background="includes/templates/lfp/images/foot-m.gif">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tbody><tr>
+					<td width="0%" valign="top"><img src="includes/templates/lfp/images/foot-l.gif" width="13" height="54"></td>
+					<td width="100%" class="cpNav"><div align="center">
+						<a href="http://www.largeformatposters.com" class="cpNav">Home</a> | 
+						<a href="/About-Us.html" class="cpNav">About Us</a> | 
+						<a href="/Site-Policies.html" class="cpNav">Privacy Policy</a> | 
+						<a href="/Terms.html" class="cpNav">Terms of Use</a> | 
+						<a href="/sitemap.html" class="cpNav">Site Map</a>
+					</div></td>
+					<td width="0%" valign="top"><img src="includes/templates/lfp/images/foot-r.gif" width="12" height="54"></td>
+				</tr>
+			</tbody></table>
 		</td>
-	</tr>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="includes/templates/lfp/images/foot-logo.gif" width="152" height="89"></div></td>
+  </tr>
+</tbody></table>		
+			<!-- footer end -->
+		</div></td>
+	</tr>	
 </tbody></table>
 </div>
-<br>
-</center>
 
-
-
-
-
-<!-- BEGIN WebSTAT Activation Code -->
-<script type="text/javascript" language="JavaScript" src="http://hv3.webstat.com/cgi-bin/wsv2.cgi?103817"></script>
-<!-- END WebSTAT Activation Code -->
 
 
 
