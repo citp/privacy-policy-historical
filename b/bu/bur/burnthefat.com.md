@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the burnthefat.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621115632id_/http%3A//www.burnthefat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnthefat.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513191942id_/http%3A//www.burnthefat.com/privacy.html) for the most accurate reproduction.*
 
 # Burn the Fat Feed the Muscle, Fat Loss
 
 Burn The Fat, Feed The Muscle  
 Privacy Policy
 
-Last Updated: August 1st, 2005
+Last Updated: Friday, January 31, 2020 
 
 Burnthefat.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We hate spam as much as you do and we will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
@@ -59,4 +59,4 @@ Burnthefat.com
 C/O Fitness Renaissance, LLC  
 PO Box 5097  
 Hoboken, NJ 07030  
-[Click here to Email us](https://web.archive.org/web/20070621115632id_/http%3A//www.burnthefat.com/?doc=contact)
+[Click here to Email us](https://web.archive.org/web/20080513191942id_/http%3A//www.burnthefat.com/?doc=contact)
