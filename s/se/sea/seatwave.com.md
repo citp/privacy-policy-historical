@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217175713id_/http%3A//www.seatwave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513232105id_/http%3A//www.seatwave.com/privacy-policy) for the most accurate reproduction.*
 
-# Seatwave.com - Concert tickets - West End Theatre tickets - Sports tickets - Football tickets
+# Seatwave.com - Buy or sell concert tickets, sports tickets and theatre tickets
 
 [ ](http://www.truste.org/ivalidate.php?url=www.seatwave.com&sealid=101)
 
 ##  Privacy Policy 
 
-This privacy policy was last updated on 16/03/2007 and is effective as of that date.
+This privacy policy was last updated on 19/02/2008 and is effective as of that date.
 
 Seatwave Limited ("Seatwave", "we", "us" or "our") respects the privacy of every individual who visits this www.seatwave.com web site (the "Site"). This Privacy Policy governs the way in which we use and disclose any personal information (the "Personal Information" that you provide to us whilst visiting the Site. Personal Information includes any information that identifies you or another individual personally, such as your name, address or email address. 
 
@@ -33,7 +33,7 @@ In addition, we use the Personal Information we collect from you and other visit
 
 If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. 
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@seatwave.com](mailto:privacy@seatwave.com). We won't send you any newsletters unless you sign up for our newsletter, in which case we will only send you our newsletter. We offer an opportunity to opt-out of our newsletter in the newsletter itself, or you may contact us by phoning us on 020 7101 5115, emailing us at [privacy@seatwave.com](mailto:privacy@seatwave.com) or writing to us at Seatwave Limited, 29-35 Rathbone Street, London W1T 1AG.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@seatwave.com](mailto:privacy@seatwave.com). We won't send you any newsletters unless you sign up for our newsletter, in which case we will only send you our newsletter. We offer an opportunity to opt-out of our newsletter in the newsletter itself, or you may contact us by phoning us on 020 7101 5199, emailing us at [privacy@seatwave.com](mailto:privacy@seatwave.com) or writing to us at Seatwave Limited, 29-35 Rathbone Street, London W1T 1NJ.
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support at [privacy@seatwave.com](mailto:privacy@seatwave.com) or by contacting us by telephone or postal mail at the contact information listed above.
 
