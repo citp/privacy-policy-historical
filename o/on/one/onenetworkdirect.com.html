@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onenetworkdirect.com privacy policy that was archived on 2007-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071220024138id_/http%3A//corporate.digitalriver.com/store/driv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onenetworkdirect.com privacy policy that was archived on 2008-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080513090314id_/http%3A//corporate.digitalriver.com/store/driv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <!--!esi:include src="/servlet/ControllerServlet?Action=DisplayESIPage&SiteID=driv&StyleID=776800&StyleVersion=41&styleIncludeFile=meta.html"-->
@@ -88,7 +88,7 @@ div#pullquote_banner p.cust_serv_para {
 
 
 
-<!-- REQUEST ID: TIME=1198118498059:NODE=c1a2501:THREAD=24 -->
+<!-- REQUEST ID: TIME=1210694594426:NODE=c1a2601:THREAD=81703 -->
 <title>
       
       
@@ -296,6 +296,24 @@ function onLoad(){
 
 
 
+
+<script type="text/javascript">
+  <!--
+
+  function hideSelect(){
+  var language = document.getElementById("languageBar");
+	if (language.style.display = "block" ){
+  	language.style.display="none";
+	}
+  }
+  function showSelect(){
+  var language = document.getElementById("languageBar");
+  if (language.style.display = "none" ){
+  	language.style.display="block";
+	}
+  }
+-->
+</script>
 <div id="gNav">
   <div id="innerGNav">
     <div id="logoBar">
@@ -304,15 +322,15 @@ function onLoad(){
 	  	  <table width="238" border="0" cellpadding="0" cellspacing="0">
 		  	<tbody><tr>
               <td height="20" colspan="3" align="right" valign="middle"><div id="client_login_wrapper">
-          		<ul id="container">
-            		<li style="z-index: 10;"><a href="#" class="trigger">Client Login</a>
-              			<ul>
-                			<li><a href="https://gc.digitalriver.com">DR | globalCommerce</a></li>
-                			<li><a href="https://www.digitalriver.com/dr/v2/ec_MAIN.Entry23?SP=10145">Atlantic</a></li>
-								<li><a href="https://cm.commerce5.com">Commerce Manager</a></li>
-								<li><a href="https://cp.element5.com">element 5</a></li>
-                		</ul>
-            		</li>
+          		<ul id="container" onmouseover="javascript:hideSelect();" onmouseout="javascript:showSelect();">
+            	  <li><a href="#" class="trigger">Client Login</a>
+              	    <ul>
+                	  <li><a href="https://gc.digitalriver.com">DR | globalCommerce</a></li>
+                	  <li><a href="https://www.digitalriver.com/dr/v2/ec_MAIN.Entry23?SP=10145">Atlantic</a></li>
+					  <li><a href="https://cm.commerce5.com">Commerce Manager</a></li>
+					  <li><a href="https://cp.element5.com">element 5</a></li>
+                	</ul>
+            	  </li>
           		</ul>
         	</div></td>
             </tr>
@@ -328,18 +346,21 @@ function onLoad(){
               <td width="41" align="right" valign="middle"><input type="image" value="submit" src="//drh.img.digitalriver.com/DRHM/Storefront/Site/driv/cm/images/images/button_go.gif" alt="Go"></td>
 			  
             </tr>
-            <!--tr>
-              <td height="20" align="right" valign="middle">Select Your Language:&nbsp;&nbsp;</td>
-              <td colspan="2" align="right" valign="middle"><form action="" method="post" name="language" id="language">
-                  <select name="select2" class="form_select">
+            <tr>
+              <td height="20" align="right" valign="middle">Select Your Language:&nbsp;</td>
+              <td colspan="2" align="right" valign="middle">
+              <div style="z-index:0">
+                <form action="" method="post" name="language" id="language">
+                  <select name="select2" class="form_select" onchange="window.location.href=this.options[this.selectedIndex].value" id="languageBar">
                     <option selected="selected">English</option>
-                    <option>Chinese</option>
-                    <option>Japanese</option>
-                    <option>Korean</option>
-                    <option>German</option>
+                    <!--<option>Chinese</option>-->
+                    <option value="/store/driv/ja_JP/ContentTheme/pbPage.Homepage_ja_JP/sectionName.home">Japanese</option>
+                    <!--<option>Korean</option>
+                    <option>German</option>-->
                   </select>
-              </form></td>
-            </tr-->
+              </form>
+              </div></td>
+            </tr>
           </tbody></table></div>
 	  	<div class="clearit"><!-- --></div>
     </div>
@@ -1020,9 +1041,6 @@ function fcco(){window.setTimeout("fcce();", 100);fcfn();}
 window.onload= null==fcfn ? fcce:fcco;
 </script><script src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/www.drcorporate.com"></script>
 <!--!/esi:include -->
-
-
-
 
 
 
