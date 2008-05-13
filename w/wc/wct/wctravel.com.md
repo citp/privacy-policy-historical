@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wctravel.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011043208id_/http%3A//www.wctravel.com/corp/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wctravel.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513153150id_/http%3A//wctravel.com/corp/privacyStatement.html) for the most accurate reproduction.*
 
 # World Choice Travel - Online Privacy Statement
 
@@ -11,7 +11,7 @@ World Choice Travel provides this Online Privacy Statement to inform you about o
 **What We Collect**
 
 _When making a reservation:_  
-When you make a reservation online or by phone through our customer support center, you will be asked for your name, address, phone number, e-mail address and credit card information. This information is used to contact you for customer service, to guarantee your reservation with our suppliers, and/or to bill you for your purchase. We may also ask you for other personal information, such as your frequent traveler numbers. During the booking process you can choose not to receive our newsletter or travel reminders by unchecking the appropriate boxes on the online form. Thereafter, if you would rather not receive them, please click on the "unsubscribe" link or follow the instructions in each e-mail message. 
+When you make a reservation online or by phone through our customer support center, you will be asked for your name, address, phone number, e-mail address and credit card information. This information is used to contact you for customer service, to guarantee your reservation with our travel suppliers, and/or to bill you for your travel purchase. We may also ask you for other personal information, such as your frequent traveler numbers. During the booking process you can choose not to receive our newsletter or travel reminders by unchecking the appropriate boxes on the online form. Thereafter, if you would rather not receive them, please click on the "unsubscribe" link or follow the instructions in each e-mail message. 
 
 _Third-party vendors:_  
 Some of World Choice Travel's online booking engines are powered by third-party vendors. You should note that these vendors may have privacy policies and practices that differ from those of World Choice Travel. **We strongly encourage you to read the privacy policies of these vendors when using their websites.**
@@ -26,7 +26,7 @@ Please note that with most browsers, a user can set the preferences to show a wa
 
 **Information Sharing**
 
-World Choice Travel will not sell, rent, or lease your personally identifiable information to third parties. Unless we have your permission or are required by law, we will only share the personal data you provide online with other third-party vendors that are acting to complete reservation or subscription services. We do not knowingly permit the site to be used by any person under the age of eighteen and we do not knowingly collect any personal information from children (meaning those younger than thirteen years of age). We will cooperate with law enforcement authorities.
+World Choice Travel will not sell, rent, or lease your personally identifiable information to third parties. Unless we have your permission or are required by law, we will only share the personal data you provide online with other third-party vendors that are acting to complete reservation services. We do not knowingly permit the site to be used by any person under the age of eighteen and we do not knowingly collect any personal information from children (meaning those younger than thirteen years of age). We will cooperate with law enforcement authorities.
 
 **Choice**
 
