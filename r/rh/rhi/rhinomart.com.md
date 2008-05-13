@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhinomart.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102213002id_/http%3A//www.rhinomart.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhinomart.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514004729id_/http%3A//www.rhinomart.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy - Rhino Mart
 
