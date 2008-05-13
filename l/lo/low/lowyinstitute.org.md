@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102105823id_/http%3A//www.lowyinstitute.org/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513153906id_/http%3A//www.lowyinstitute.org/Privacy.asp) for the most accurate reproduction.*
 
 # Lowy Institute - Privacy Statement
-
-Privacy Statement
 
 The Lowy Institute for International Policy is committed to protecting the privacy of visitors to its web site.
 
@@ -33,3 +31,9 @@ This web site will be continually improved and updated. This may change the way 
 
 **Lowy Institute news  
 **If you have previously submitted your email address to receive Lowy Institute news and wish to unsubscribe, please send an email to that effect to [unsubscribe@lowyinstitute.org](mailto:unsubscribe@lowyinstitute.org). 
+
+|  | 
+
+**Email Updates**  
+Receive updates about publications and events from the Lowy Institute via email  
+
