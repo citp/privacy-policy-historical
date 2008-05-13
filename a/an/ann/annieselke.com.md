@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annieselke.com privacy policy that was archived on 2007-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071111031207id_/http%3A//www.annieselke.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annieselke.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513233429id_/http%3A//www.annieselke.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Annie Selke: Privacy Policy
 
