@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affiliatebot.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011153250id_/http%3A//www.affiliatebot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatebot.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514002514id_/http%3A//www.affiliatebot.com/privacy.htm) for the most accurate reproduction.*
 
-# AffiliateBot.com - Privacy Policy
+# AFFILIATE PROGRAMS - Privacy Policy
 
 Welcome to the AffiliateBot.com's Privacy Policy page. AffiliateBot.com have created this Privacy Policy for the protection of AffiliateBot.com's Members ("Merchants and Affiliates"). Please read this privacy policy carefully since by visiting this Web Site (the 'Site') and sharing information in this Site you agree to be bound by the terms and conditions of this Privacy Policy. 
 
@@ -88,6 +88,6 @@ AffiliateBot.com reserves the exclusive right to modify or update this Privacy P
 
 If you have questions or concerns regarding the AffiliateBot.com Privacy Policy, please contact us here. 
 
-Published April 26th, 2006 Copyright Â© 2006, AffiliateBot.com All rights reserved. 
+Published April 26th, 2006 Copyright © 2006, AffiliateBot.com All rights reserved. 
 
 **I HAVE READ THIS AGREEMENT AND AGREE TO ALL OF THE LISTED PROVISIONS CONTAINED HEREIN.**
