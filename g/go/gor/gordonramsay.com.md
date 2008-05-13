@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gordonramsay.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030194114id_/http%3A//www.gordonramsay.com/corporate/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gordonramsay.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513183852id_/http%3A//www.gordonramsay.com/corporate/privacypolicy) for the most accurate reproduction.*
 
 # Gordon Ramsay - Privacy policy
 
