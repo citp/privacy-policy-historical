@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friday-ad.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213182125id_/http%3A//www.friday-ad.co.uk/PrivacyCookiePolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friday-ad.co.uk privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513090930id_/http%3A//www.friday-ad.co.uk/PrivacyCookiePolicy.asp) for the most accurate reproduction.*
 
-# Friday-Ad - PrivacyCookiePolicy
+# Friday-Ad - Privacycookiepolicy
 
 Friday-Ad is committed to protecting your right to privacy as a consumer of our online services.   
 It is our policy to respect the privacy of private communication and the information you provide to us will be held on Friday-Ad computers that are based in the UK. 
