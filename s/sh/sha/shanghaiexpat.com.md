@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the shanghaiexpat.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010031855id_/http%3A//www.shanghaiexpat.com/News-article-sid-175.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shanghaiexpat.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513023441id_/http%3A//www.shanghaiexpat.com/News-article-sid-175.phtml) for the most accurate reproduction.*
 
-# Privacy Policy :: ShanghaiExpat :: Living and Working in Shanghai
+# Privacy Policy - Shanghai Expat - Living and Working in Shanghai
 
-|  |  |   
+| 
+
+|   
 ---  
 |  ****
 
 [](http://www.addthis.com/bookmark.php)  
   
 ---  
-**on Sunday, November 07, 2004 - 06:30 PM CCT - 7302 Reads**  
+**on Sunday, November 07, 2004 - 06:30 PM AST - 9924 Reads**  
   
 ## **Privacy Policy**
 
@@ -57,26 +59,4 @@ This Privacy Policy states ShanghaiExpat.com’s standards for maintenance of Da
 **8\. Contact Information**
 
 If you have any questions about this Policy, please contact a site administrator.
-  
-  
- |   
-**Privacy Policy** | [Login/Create an account](https://web.archive.org/web/20071010031855id_/http%3A//www.shanghaiexpat.com/user.php) | 0 Comments  
----  
-Comments are owned by their poster. We aren't responsible for their content.  
-|   
----  
-  
-1: commando (606)  
-2: stephenylo (558)  
-3: CoffeeHawk_0 (490)  
-4: anita-piet (334)  
-5: tommyboy (320)  
-6: pilot (258)  
-7: RURALREVOLT (250)  
-8: merdy (201)  
-9: UncleFatBloke (170)  
-10: aabbcc (167)
 
-[Show 'em who's boss!](http://www.shanghaiexpat.com/index.php?module=pnFlashGames)
-
-[View more top players...](http://www.shanghaiexpat.com/index.php?module=pnFlashGames&func=viewTopPlayers)
