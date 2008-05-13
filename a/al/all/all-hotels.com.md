@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230071331id_/http%3A//www.all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513142141id_/http%3A//www.all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
 
 # help and info - faq menu page
 
@@ -31,4 +31,4 @@ When the ownership of All-Hotels changes hands (as it has done three times so fa
 This policy may be revised over time as new features are added to the web site. Please check this site for information about revisions to our privacy policy. 
 
 **How to Contact Us**   
-All-Hotels is committed to protecting your privacy. We do not and will not sell or rent your personal information to anyone. If you have any questions about this privacy statement, or would like more information about our company, please [contact us](https://web.archive.org/faq/faqcontact.htm). 
+All-Hotels is committed to protecting your privacy. We do not and will not sell or rent your personal information to anyone. If you have any questions about this privacy statement, or would like more information about our company, please [contact us](https://web.archive.org/xbook/servlet/ContactUsServlet). 
