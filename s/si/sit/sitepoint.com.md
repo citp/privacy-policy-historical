@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2007-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071021032652id_/http%3A//www.sitepoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514100040id_/http%3A//www.sitepoint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ This is a privacy policy for SitePoint Pty Ltd. SitePoint respects your privacy.
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
 
 SitePoint Pty Ltd   
-424 Smith Street   
+48 Cambridge Street   
 Collingwood, Victoria 3066   
 Australia 
 
