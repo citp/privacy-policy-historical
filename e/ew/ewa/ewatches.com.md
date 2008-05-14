@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ewatches.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224202921id_/http%3A//www.ewatches.com/Information/PrivacySecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewatches.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514211152id_/http%3A//www.ewatches.com/Information/PrivacySecurity.html) for the most accurate reproduction.*
 
 # eWatches - Privacy & Security Policies
-
-[](http://www.ewatches.com/Information/ReturnPolicy.html)
 
 eWatches.com Privacy & Security
 
@@ -42,4 +40,4 @@ eWatches.com has implemented a company-wide education and training program about
 
 
 
-If you have any questions about this information or have comments feel free to contact us via [email](mailto:customerservice@ewatches.com) or call us toll free at 1-866-799-2824.
+If you have any questions about this information or have comments feel free to contact [Customer Service](https://web.archive.org/existCustomerInquiryForm.html) or call us toll free at 1-866-558-7985.
