@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarkhoward.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214191611id_/http%3A//clarkhoward.com/inside/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarkhoward.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514020340id_/http%3A//clarkhoward.com/inside/privacy_policy.html) for the most accurate reproduction.*
 
 # clarkhoward.com: About Us
 
