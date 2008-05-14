@@ -1,55 +1,23 @@
-> *The following text is extracted and transformed from the fcclub.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211233016id_/http%3A//fcclub.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcclub.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514234239id_/http%3A//www.fcclub.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Welcome to Fortune Connection Club - Where Fortune Starts!
+# FC Club (Fortune Connection Club) - Where Fortune Starts!::Privacy
 
-Fortune Connection Club (FCClub) on the Web has adopted the privacy practices with respect to personal information in operating the Shanghaitown.cn Website as described in this statement (“Privacy Policy”). Our products and services are offered and are made available subject to the terms and conditions set out in this statement. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. 
+Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.
 
-This Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the User Agreement of Shanghaitown.cn. We endeavor to continuously assess our privacy practices in light of new technologies, business practices and our customers' needs. Our Privacy Policy may therefore be amended from time to time. You should check our Privacy Policy regularly to ensure you are aware of our latest policies.   
-In this Privacy Policy, you will find the answers to the following questions: 
+This privacy policy describes how we collect and use your data. If you have any questions or comments regarding our privacy policy or its enforcement, please feel free to contact administrator.
 
-**What Information Do We Collect?**
+Handshakes is an online social networking community that connects people through their personal networks and allows them to meet others, find jobs, roommates, buy and sell goods, and perform other transactions. Members create their own profiles, and those profiles are then shown to other members of this site.
 
-When you visit the Shanghaitown.cn Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
+Handshakes collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, location, age, etc. We collect this personal information when our users: sign up as a member; make changes to their member profile information; and send e-mail messages. Members may choose to provide additional information beyond their basic profile for their other profile sections. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network. 
 
-**Personal Information You Choose to Provide  
-**  
-**Registration Information.  
-**  
-You will provide us information about yourself, your firm or company, and your practices when you register to be a subscriber of Shanghaitown.cn, register for certain services, or register for email newsletters and alerts. Failure to provide such information may result in our being unable to provide you with our service. You may also provide additional comments on how you see Shanghaitown.cn servicing your needs and interests. You agree that we may store and deal with any information you provide as part of the registration process or in connection with optional contests, surveys or special offers in accordance with this Privacy Policy. 
+Like many other Web sites, Handshakes uses a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive - not on our site. They can help make the Internet experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use Handshakes. Members who disable cookies will not be able to use Handshakes. 
 
-**Email Information.**
+Email address and full name are displayed only when a user invites a friend via email to join the service, when a user requests to add another user to their handshakes list, and when we send notifications to a user related to their use of the service. Except when members invite friends, full names are not shared or displayed with people outside of their Personal Network. Email addresses of Handshakes members are never displayed to other users on the system. Users within a Personal Network communicate on Handshakes with each other through the Handshakes service without disclosing their email addresses.
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
+We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent, unless required by law or to protect your membership. 
 
-**Web Site Use Information  
-**  
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. We, our advertisers and ad serving companies may also use small pieces of code called "web beacons" or "clear gifs" to determine which advertisements and promotions users have seen and how users responded to them. 
+If you use our Invite feature to invite a friend to our service, we will ask you for your friend's email address. We'll automatically send the friend an email inviting them to join your Personal Network, as well as two reminder messages. Handshakes does not sell these email addresses or use them to transmit any communication other than the invitation and reminders to join your personal Network. Handshakes stores this information for the sole purpose of sending this invitation and reminders, and for tracking the success of our Invite functionality.
 
-**How Do We Use the Information That You Provide to Us?**
+The Handshakes site may contain links to other Web sites. Please be aware that Handshakes is not responsible for the privacy practices of other sites our users choose to visit. If our users provide any information directly to parties other than Handshakes, different rules may apply to the use or disclosure of the personal information disclosed. We encourage you to investigate and ask questions before disclosing your personal information to third parties. 
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at [info@fcclub.com](mailto:online@Shanghaitown.cn). 
-
-**What Are Cookies?**
-
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. 
-
-**How Do We Use Information We Collect from Cookies?  
-**  
-As you interact with our Web site, the site uses its cookies to differentiate you from other users in order to tailor the best possible experience for you. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies. 
-
-**Sharing Information with Third Parties  
-**  
-We may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with alliances, partnerships or arrangements, we may also provide certain information to third parties if we have determined that the information will be used in a responsible manner by a responsible third party. For example, some of our partners operate stores or provide services on our site, while others power offerings developed by us for your use. We also use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, our partners and other third parties may have access to your personal information for use in connection with business activities. As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution. 
-
-**Notice of New Services and Changes  
-**  
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [unsubscribe@fcclub.com](mailto:unsubscribe@Shanghaitown.cn). 
-
-Our site contains links to other Internet websites. Since these outside resources are the properties of their respective owners, Shanghaitown.cn is not responsible for the availability of these sites, as well as their practices, policies, or privacy issues of other sites. We hope you to read their specific policies that might relate to your usage. Links are not intended to imply sponsorship, affiliation or endorsement. 
-
-**Personal information disclosure  
-**  
-In general, we will not disclose your personal information to unaffiliated third parties without your express consent, but we reserve the right to disclose your personal information as required by Chinese law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our Web site.   
-There may be other circumstances where we may need to disclose personal information about a user. These are: 
-
-The views expressed are the author's own. Our web assumes no liability.
+Please be aware that whenever members voluntarily disclose personal information online - e.g., message boards, file uploads, events, and classifieds - that information becomes public and can be collected and used by others. By posting personal information online in public forums, members may receive unsolicited messages from other parties.
