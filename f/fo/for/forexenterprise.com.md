@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexenterprise.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213021357id_/http%3A//www.forexenterprise.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexenterprise.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514032905id_/http%3A//www.forexenterprise.com/privacy.htm) for the most accurate reproduction.*
 
 # Forex Enterprise - Make Easy Money Online | Make Money from Home
 
