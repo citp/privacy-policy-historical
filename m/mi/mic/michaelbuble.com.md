@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the michaelbuble.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011010219id_/http%3A//www.warnerbrosrecords.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelbuble.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514160313id_/http%3A//www.warnerbrosrecords.com/privacy.php) for the most accurate reproduction.*
 
 # Warner Bros. Records | Email Privacy Information
 
-Thank you for visiting a Warner Bros. / Reprise Records website, part of Warner Music Group. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [Click here](http://www.wbr.com/cmp/businesses.html) for a list of the Time Warner businesses whose sites are governed by this Privacy Notice. 
+Thank you for visiting a Warner Bros. / Reprise Records website, part of Warner Music Group. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Warner Music Group site. [Click here](http://www.wbr.com/cmp/businesses.html) for a list of the Warner Music Group businesses whose sites are governed by this Privacy Notice. 
 
 ### The Information We Collect
 
-At some Time Warner sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+At some Warner Music Group sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
 
-At some other Time Warner sites, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient?s name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.
+At some other Warner Music Group sites, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient?s name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.
 
 At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
 
@@ -30,23 +30,23 @@ We sometimes use the non-personally identifiable information that we collect to 
 
 We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
 
-Agents and contractors of Time Warner who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Warner.
+Agents and contractors of Warner Music Group who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Warner Music Group.
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
 
-Certain Time Warner sites may disclose personally identifiable information to companies not owned by Time Warner (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [click here.](http://www.wbr.com/cmp/disclose.html)
+Certain Warner Music Group sites may disclose personally identifiable information to companies not owned by Warner Music Group (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [click here.](http://www.wbr.com/cmp/disclose.html)
 
-Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](http://www.wbr.com/cmp/marketing.html) for instructions on how to make your request. Please be sure to include your name and email with your request.
+Warner Music Group may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](http://www.wbr.com/cmp/marketing.html) for instructions on how to make your request. Please be sure to include your name and email with your request.
 
-Finally, Time Warner sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+Finally, Warner Music Group sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
 ### Collection of Information by Third-PartySites and Sponsors
 
 Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-Time Warner sites sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Time Warner has no control over these third parties? use of this information. The Time Warner site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
+Warner Music Group sites sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Warner Music Group has no control over these third parties? use of this information. The Warner Music Group site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-Some Time Warner sites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers, please [click here](http://www.wbr.com/cmp/thirdparty.html).
+Some Warner Music Group sites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers, please [click here](http://www.wbr.com/cmp/thirdparty.html).
 
 ### Cookies
 
@@ -60,14 +60,14 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 ### How You can Access or Correct Information
 
-For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please [click here](http://www.wbr.com/cmp/personal.html).
+For instructions on how you can access the personally identifiable information that this Warner Music Group site has collected about you online, or how to correct factual errors in such information, please [click here](http://www.wbr.com/cmp/personal.html).
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
 ### Special Note for Parents
 
-The site you are visiting is one of the Time Warner general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
+The site you are visiting is one of the Warner Music Group general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
 
 ### How to Contact Us
 
-If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may contact us at [privacy@wmg.com](https://web.archive.org/web/20071011010219id_/http%3A//www.warnerbrosrecords.com/privacy@wmg.com)
+If you have any questions or concerns about the Warner Music Group online policy for this site or its implementation you may contact us at [privacy@wmg.com](https://web.archive.org/web/20080514160313id_/http%3A//www.warnerbrosrecords.com/privacy@wmg.com)
