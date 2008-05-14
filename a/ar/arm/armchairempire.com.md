@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armchairempire.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215023619id_/http%3A//www.armchairempire.com/Miscellaneous/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armchairempire.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514224347id_/http%3A//www.armchairempire.com/Miscellaneous/privacy_statement.htm) for the most accurate reproduction.*
 
 # The Armchair Empire - Privacy Statement
 
