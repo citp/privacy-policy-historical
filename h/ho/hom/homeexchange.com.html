@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homeexchange.com privacy policy that was archived on 2007-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071220213853id_/http%3A//homeexchange.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homeexchange.com privacy policy that was archived on 2008-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080514161845id_/http%3A//homeexchange.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>HomeExchange.com</title>
@@ -18,16 +18,84 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   if (restore) selObj.selectedIndex=0;
 }
 
-function noenter() {
-    return !(window.event && window.event.keyCode == 13);
+String.prototype.trim = function () {
+  return this.replace(/^\s*/, "").replace(/\s*$/, "");
+}
+
+function submittest() {
+  if (window.event && window.event.keyCode == 13) {
+    submitSearch(document.forms['mainsearch'].keywords.value);
+  }
 }
 
 //-->
 </script>
 
 </head>
-<body bgcolor="#EBF1FF" link="#006699" vlink="#003A6A">
-<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="760" align="center">
+<body bgcolor="#ebf1ff" link="#006699" vlink="#003A6A">
+<!--OMNITURE CODE HBX2.5 (Universal)-->
+<!-- Copyright 1997 - 2008. Omniture, Inc. All Rights Reserved.  Omniture is a registered trademark of Omniture, Inc. in the United States, Canada, Japan, and the European Community. -->
+<script language="javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0250u";hbx.gn="ehg-homeexchange.hitbox.com";
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.acct="DM571006DHAZ19EN3";//ACCOUNT NUMBER(S)
+hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
+hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="/privacy.php";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="none";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+hbx.seg="";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmp="";//CAMPAIGN ID
+hbx.cmpn="";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN
+hbx.cpd="";//CAMPAIGN DOMAIN
+
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+hbx.hc2="";//CUSTOM 2
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+
+//INSERT CUSTOM EVENTS
+
+//END EDITABLE SECTION
+
+//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+</script><script language="javascript1.1" src="http://www.homeexchange.com/_js/hbx.js"></script>
+<!--END OMNITURE CODE-->
+
+<input type="text" name="placeHolder" value="test" style="display: none;"><table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="760" align="center">
   <tbody><tr>
    <td><img src="/affinity/_en/images/spacer.gif" width="6" height="4" border="0" alt=""></td>
    <td><img src="/affinity/_en/images/spacer.gif" width="369" height="1" border="0" alt=""></td>
@@ -45,9 +113,10 @@ function noenter() {
    <td rowspan="8" bgcolor="#ffffff"><img src="/affinity/_en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
    <td rowspan="2"><a href="/" target="_top"><img name="index_r2_c2" src="/affinity/homeexchange.com/images/title.gif" width="369" height="54" border="0" alt=""></a></td>
    <td><img name="index_r2_c3" src="/affinity/homeexchange.com/images/index_r2_c3.jpg" width="105" height="32" border="0" alt=""></td>
- <form name="mainsearch" method="POST" action="/" target="_top"></form>
+<form name="mainsearch" method="POST" action="/" target="_top"></form>
+
    <td align="right" valign="bottom" background="/affinity/homeexchange.com/images/bg.jpg">
-         <input class="searchbox" type="text" name="keywords" value="Enter keyword or Home ID" onfocus="if (value=='Enter keyword or Home ID') { value='';}" onblur="if (value=='') { value='Enter keyword or Home ID';}" onkeypress="return noenter()">&nbsp;<input class="searchbutton" type="button" name="searchIt" value="search" onclick="Javascript:submitSearch(document.forms['mainsearch'].keywords.value);">
+         <input class="searchbox" type="text" name="keywords" value="Enter Keyword or Listing ID #" onfocus="if (value=='Enter Keyword or Listing ID #') { value='';}" onblur="if (value=='') { value='Enter Keyword or Listing ID #';}" onkeypress="return submittest()">&nbsp;<input class="searchbutton" type="button" name="searchIt" value="search" onclick="Javascript:submitSearch(document.forms['mainsearch'].keywords.value);">
    <img src="/affinity/_en/images/spacer.gif" width="1" height="3" border="0" alt=""></td>
 
    <td rowspan="8" bgcolor="#ffffff"><img src="/affinity/_en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
@@ -57,10 +126,10 @@ function noenter() {
    <td><img name="index_r3_c3" src="/affinity/homeexchange.com/images/index_r3_c3.jpg" width="105" height="22" border="0" alt=""></td>
    <td align="right" valign="top" background="/affinity/homeexchange.com/images/bg.jpg">
      <span class="white"><font size="1">
-                <a href="https://www.homeexchange.com/login.php" target="_top">member login</a>
+                <a href="https://www.homeexchange.com/login.php" target="_top">sign in</a>
        <font color="#FFFFFF">|</font>
        <a href="/view_listings.php" target="_top">search</a> <font color="#FFFFFF">|</font>
-       <a href="/apps/activekb/contact.php" target="_top">contact</a> <font color="#FFFFFF">|</font>
+       <a href="/apps/activekb/contact.php" target="_top">contact us</a> <font color="#FFFFFF">|</font>
        <a href="http://homeexchange.com/apps/activekb/" target="_top">help</a>
      </font></span>&nbsp;
    </td>
@@ -107,6 +176,7 @@ function noenter() {
                   <img name="index_r4_c2" src="/affinity/homeexchange.com/images/index_r7_c5.jpg" width="1" height="14" border="0" alt="">         <a href="http://homeexchange.com/resources.php" target="_top">RESOURCES</a>
        </td>
        <form name="quicksearchform" method="POST" action="/search.php" target="_top"></form>
+         <input type="hidden" name="source" value="searchbox">
          <input type="hidden" name="keys" value="3">
          <input type="hidden" name="search" value="Find matches">
          <input type="hidden" name="keywords" value="">
@@ -118,7 +188,7 @@ function noenter() {
 	<div style="margin-top:3px;margin-bottom:3px">
          
             <select class="searchbox" name="menu1" onchange="MM_jumpMenu('parent',this,0)">
-               <option>Quick searches</option><option value="/view_listings.php?longterm=1">Long Term</option><option value="/view_listings.php?hosp=1">Hospitality</option><option value="/view_listings.php?maidservice=1">Maid Service</option><option value="/view_listings.php?hcapa=1">Accessibile</option><option value="/view_listings.php?boat=1">Private Boat</option><option value="/view_listings.php?rv=1">RV</option><option value="/view_listings.php?teachers=1">Teachers</option><option value="/view_listings.php?second_home=1">Second Home</option><option value="/view_listings.php?senior=1">Seniors</option><option value="/show.php?feature=1">Slide Show</option><option value="/view_listings.php">View All Listings</option></select>
+               <option>Quick searches</option><option value="/view_listings.php?longterm=1">Long Term</option><option value="/view_listings.php?hosp=1">Hospitality</option><option value="/view_listings.php?maidservice=1">Maid Service</option><option value="/view_listings.php?hcapa=1">Accessibile</option><option value="/view_listings.php?boat=1">Private Boat</option><option value="/view_listings.php?rv=1">RV</option><option value="/view_listings.php?teachers=1">Teachers</option><option value="/view_listings.php?second_home=1">Second Home</option><option value="/view_listings.php?senior=1">Seniors</option><option value="/show.php?feature=1">Slide Show</option><option value="/view_listings.php">View all listings</option></select>
 	</div>
        </td>
      </tr></tbody></table>
@@ -153,6 +223,12 @@ function noenter() {
 <!--
 
 function submitSearch(keywords) {
+    keywords = keywords.trim();
+    if ( (keywords == '') ||
+         (keywords == 'Enter Keyword or Listing ID #') ) {
+        document.location.href = 'view_listings.php';
+        return;
+    }
     if (isNum(keywords)) {
         document.forms['showform'].sendheid.value = keywords;
         document.forms['showform'].submit();
@@ -362,7 +438,7 @@ function isNum(str) {
         </font></p>
         <p align="left"><font face="Verdana, Arial, Helvetica, sans-serif"><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><a name="copyright"></a></font><b>Copyright</b><br>
           T<font size="2">hese materials (including without limitation all text, 
-          images, logos, and design) are <b>Copyright© 2007 HomeExchange.com 
+          images, logos, and design) are <b>Copyright© 2008 HomeExchange.com 
           Inc. All rights reserved</b>. The information presented here may not 
           under any circumstances be resold or redistributed for compensation 
           of any kind. HomeExchange.com may be used for noncommercial individual 
@@ -430,7 +506,7 @@ function isNum(str) {
         <tr>
           <td colspan="3"><table width="100%" border="0" cellpadding="6" cellspacing="0" bordercolor="#FFFFFF">
               <tbody><tr>
-                <td align="right" valign="middle" bgcolor="#666666"> <span class="white">© 2007
+                <td align="right" valign="middle" bgcolor="#666666"> <span class="white">© 2008
                  - All Rights Reserved | <a href="http://homeexchange.com/press/" target="_top">press</a> | <a href="http://homeexchange.com/about.php" target="_top">about us</a> | <a href="http://homeexchange.com/privacy.php" target="_top">privacy</a>&nbsp;</span> </td>
               </tr>
             </tbody></table></td>
