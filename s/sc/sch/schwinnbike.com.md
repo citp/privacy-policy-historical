@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schwinnbike.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213173941id_/http%3A//www.schwinnbike.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwinnbike.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514150825id_/http%3A//www.schwinnbike.com/privacy.php) for the most accurate reproduction.*
 
-# Schwinn Bikes - Privacy
+# Schwinn Bikes - Privacy -
 
 PACIFIC is sensitive to privacy issues on the Internet. We believe that it is important you know how we treat the information about you that we receive via the Site.
 
