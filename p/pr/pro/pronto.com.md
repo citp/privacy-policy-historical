@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the pronto.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015025137id_/http%3A//beta.pronto.com/help/legal/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pronto.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514172705id_/http%3A//www.pronto.com/help/legal/policy.do) for the most accurate reproduction.*
 
 # About Pronto - Privacy Policy
 
 |  | 
 
-privacy policy summary
-
 Last updated July 24, 2007
 
 Consumer Privacy at Pronto.com, an IAC Company
 
-Pronto is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Pronto, HSN, Ticketmaster, Lending Tree, Ask.com, Match.com, Citysearch, Evite, Interval International, ServiceMagic, Entertainment Publications, Gifts.com, Pronto and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, Pronto has revised its Privacy Policy [link to full policy], effective Pronto, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQ's](http://beta.pronto.com/help/legal/policy_faq.do) for details about the changes. Please review both the Consumer Privacy statement and this site's complete privacy policy.
+Pronto is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Pronto, HSN, Ticketmaster, Lending Tree, Ask.com, Match.com, Citysearch, Evite, Interval International, ServiceMagic, Entertainment Publications, Gifts.com, Pronto and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, Pronto has revised its Privacy Policy [link to full policy], effective Pronto, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQ's](http://www.pronto.com/help/legal/policy_faq.do) for details about the changes. Please review both the Consumer Privacy statement and this site's complete privacy policy.
 
 At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Pronto, please click here.
 
@@ -87,7 +85,7 @@ Pronto, Inc.
 555 West 18th Street  
 4th Floor  
 New York, NY 10011  
-[www.pronto.com](http://beta.pronto.com/)  
+[www.pronto.com](http://www.pronto.com/)  
 
 
 © 2007 IAC/InterActiveCorp. All rights reserved. 
@@ -96,7 +94,7 @@ pronto privacy policy – your privacy rights
 
 Last updated July 24, 2007
 
-Pronto respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of [www.pronto.com](http://beta.pronto.com/) or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. 
+Pronto respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of [www.pronto.com](http://www.pronto.com/) or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. 
 
 We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website or our services, you are accepting the practices described in this Privacy Policy. Pronto is a part of the IAC/InterActiveCorp family of businesses [[www.iac.com](http://iac.com/)], which includes HSN, Ticketmaster, LendingTree, RealEstate.com, Ask.com, Citysearch, Evite, Match.com, Interval International, ServiceMagic, Entertainment Publications, IAC/InterActiveCorp, Gifts.com, and many others.
 
@@ -197,7 +195,7 @@ Back to Top »
 
 Profiles
 
-We provide areas on our websites where you can post information about yourself and others and may be able to communicate with others, as well as post reviews of products, retailers, brands, or upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our [Terms of Services](http://beta.pronto.com/help/legal/terms.do). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
+We provide areas on our websites where you can post information about yourself and others and may be able to communicate with others, as well as post reviews of products, retailers, brands, or upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our [Terms of Services](http://www.pronto.com/help/legal/terms.do). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
 
 Children's privacy 
 
