@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airarabia.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011161035id_/http%3A//airarabia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airarabia.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514184536id_/http%3A//www.airarabia.com/privacy-policy.html) for the most accurate reproduction.*
 
-# AirArabia » Privacy Policy
+# air arabia » Privacy Policy
 
 Your right to privacy is respected and at air arabia we want you to feel confident in the knowledge that we take our responsibility to protect your personal data most seriously. We promise that the information you supply will be kept secure and only used for legitimate purposes. Any changes to our privacy policy will be updated on this section of our website.
 
