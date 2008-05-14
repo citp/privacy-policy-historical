@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringtones.net privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223082207id_/http%3A//www.mediabreakaway.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringtones.net privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514023910id_/http%3A//www.mediabreakaway.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -25,7 +25,7 @@ Other occasions when Media Breakaway obtains information from individuals includ
 
 **1.4 Cookies, Web Beacons, and Other Info Collected Using Technology.**  
 Media Breakaway currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database. Additionally, Media Breakaway may use other new and evolving sources of information in the future (together, “Technology Information”).  
-**(a) Cookies.   **A cookie is a small amount of data stored on the hard drive of the individual's computer that allows Media Breakaway to identify the individual with his or her corresponding data that resides in Media Breakaway’s database. You may read more about cookies at http://cookiecentral.com. Individuals who use the Website need to accept cookies in order to use all of the features and functionality of the Website.  
+**(a) Cookies.   **A cookie is a small amount of data stored on the hard drive of the individual's computer that allows Media Breakaway to identify the individual with his or her corresponding data that resides in Media Breakaway’s database. You may read more about cookies at [http://cookiecentral.com](http://www./cookiecentral.com). Individuals who use the Website need to accept cookies in order to use all of the features and functionality of the Website.  
 **(b) Web Beacons.   **A web beacon is programming code that can be used to display an image on a web page (by using an <img src=“x”> programming function -- see http://truste.org for more information), but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows Media Breakaway to track certain web sites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, Media Breakaway might place, with the consent of a Third Party website, a web beacon on the Third Party's website where baseball products are sold. When Joe, an individual listed in Media Breakaway’s database, visits the fishing website, Media Breakaway receives notice by means of the web beacon that Joe visited the baseball site, and Media Breakaway would then update Joe's profile with the information that Joe is interested in baseball. Media Breakaway may thereafter present offers of baseball related products and services to Joe. In addition to using web beacons on web pages, Media Breakaway also uses web beacons in email messages sent to individuals listed in Media Breakaway’s database.  
 **(c) New Technology.   **The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is Media Breakaway’s use of new and evolving technology. As a result, Media Breakaway strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
 
@@ -86,7 +86,7 @@ Media Breakaway may disclose Individual Information to respond to subpoenas, cou
 Media Breakaway may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
 
 **3.5 Access.**  
-Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting contact@mediabreakaway.com. Media Breakaway may also grant advertising clients and email services providers’ access to an individual's email address to verify the origin of the Individual Information collected.
+Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting [contact@mediabreakaway.com](mailto:contact@mediabreakaway.com). Media Breakaway may also grant advertising clients and email services providers’ access to an individual's email address to verify the origin of the Individual Information collected.
 
 **4\. Privacy Practices of Third Parties.**  
 **4.1 Advertiser cookies and web beacons.**  
@@ -103,7 +103,7 @@ Anyone using the Website outside of the United States acknowledges that personal
 **6\. Unsubscribe Procedures.**  
 **6,1** If you wish to discontinue receiving email messages from Media Breakaway, you have several options:
 
-  1. **Unsubscribe from one email list.    **To unsubscribe from a particular list, either (1) send an email to unsubscribe@mediabreakaway.com or (2) follow the instructions in each promotional email message sent by Media Breakaway. 
+  1. **Unsubscribe from one email list.    **To unsubscribe from a particular list, either (1) send an email to [unsubscribe@mediabreakaway.com](mailto:%20unsubscribe@mediabreakaway.com) or (2) follow the instructions in each promotional email message sent by Media Breakaway. 
   2. **Unsubscribe from all of Media Breakaway's email lists.**  
 We reserve the right to add Individual Information to multiple lists maintained by Media Breakaway. To globally unsubscribe from all of Media Breakaway’s lists, send an email to [unsubscribe@mediabreakaway.com](mailto:unsubscribe@mediabreakaway.com). 
 
@@ -113,6 +113,6 @@ We reserve the right to add Individual Information to multiple lists maintained 
 
 
 To unsubscribe from a particular SMS messaging campaign on a cell phone, send “STOP”, “END”, or “QUIT” to the SMS message received by the individual.  In addition, other methods to unsubscribe may be set forth on the website at which the individual signed up for the SMS messaging campaign.    
-**For more information about protecting your privacy, you may wish to visit:[www.ftc.gov](http://www.ftc.gov/).  If you have questions about this policy, please contact us at legalnotices@mediabreakaway.com.**  
+**For more information about protecting your privacy, you may wish to visit:[www.ftc.gov](http://www.ftc.gov/).  If you have questions about this policy, please contact us at [legalnotices@mediabreakaway.com](mailto:%20legalnotices@mediabreakaway.com).**  
 **California** **User Consumer Rights.**   In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.  
 © 2007 Media Breakaway, LLC.
