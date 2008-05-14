@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005094542id_/http%3A//www.philamuseum.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514221112id_/http%3A//www.philamuseum.org/privacy.html) for the most accurate reproduction.*
 
-# Philadelphia Museum of Art
+# Philadelphia Museum of Art - Web Policy : Privacy & Security
 
 **Overview**  
 Thank you for visiting the Philadelphia Museum of Art's (the "Museum's") website and reviewing our privacy policy. The Museum does not collect individually identifiable information about visitors to our website (e.g., name, address, e-mail, etc.) unless you choose to provide that information to us. This privacy policy explains what data we collect and how we use it. 
