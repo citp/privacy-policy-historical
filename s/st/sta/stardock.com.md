@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2007-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070813150522id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514222117id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
 
 # Stardock: Privacy Statement
 
@@ -60,6 +60,12 @@ Our online surveys ask visitors for demographic information (like zip code or ag
 Demographic and profile data is also collected at our site.   
 We use this data in the future to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
+####  Email
+
+Stardock scans the text of e-mail messages in order to filter spam and detect viruses. This process is completely automated and involves no humans. The only exception includes requests by users that Wincustomize support staff access their email messages in order to diagnose problems; when Stardock is required by law to do so; and when we are compelled to view or disclose personal information because we reasonably believe it's necessary in order to protect the rights, property or safety of Stardock, its users and the public.
+
+Stardock only scans e-mail contents to provide you a reliable service. Stardock does not share or reveal e-mail content or personal information with third parties, other than in certain exceptions dictated by the law and common sense.
+
 ####  Assessments (Hardware)
 
 Stardock's TweakVista product, at the request of the user, sends generic information about the computer hardware under analysis to Stardock. This data will not be provided to any third parties and will only be used to provide anonymous high level reports to other customers of TweakVista.
@@ -75,6 +81,8 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 ####  Security
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Credit card information for orders is secured via industry standard 128-bit SSL encryption. 
+
+In addition, our MyColors products may prompt you for additional opt-in decisions during check out through our online store.  These questions will default to opting-out of additional promotional communications from our affiliates, however customers may choose to receive promotional e-mails at their discresion.
 
 ####  Data Quality/Access
 
