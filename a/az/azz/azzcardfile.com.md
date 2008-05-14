@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209173203id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514223906id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
 
 # AZZ Cardfile : Privacy and Security
 
@@ -24,6 +24,10 @@ AZZ Cardfile software is **completely safe** to install on your system. It does 
 
 AZZ Cardfile installation pack and sample collections provided by end users, which are available to download on this Web site, are **checked for viruses** using up to date Norton Antivirus software.
 
+### Cookies
+
+This site does not use cookies. However, cookies may be used by advertising companies whose ads may be displayed on some pages.
+
 ### Links to other Web sites
 
 AZZ Cardfile Web site contains outbound links that we deem beneficial to our users. We represent them here much like they represent themselves online. At the time of publishing they are checked for appropriateness for all ages, absence of subjects like warez, illegal, offensive, discriminating, promoting questionable business schemes and alike. Nevertheless, the contents of these web sites may change, over which we have no control, and it is up to the web surfer to evaluate the content and usefulness of information obtained from other sites.
@@ -41,3 +45,5 @@ AZZ Cardfile Web site contains outbound links that we deem beneficial to our use
 [Ad-aware : multi spyware removal utility](http://www.lavasoftusa.com/)
 
 [Thiefware.com : Learn and protect yourself from ThiefWare technology and software.](http://www.azzcardfile.com/news/thiefware.html)
+
+[Internet Cookies: what is it](http://www.howstuffworks.com/cookie.htm)
