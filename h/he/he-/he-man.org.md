@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the he-man.org privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221031716id_/http%3A//he-man.org/site_sects/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the he-man.org privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514201042id_/http%3A//www.he-man.org/site_sects/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,6 +58,6 @@ Thanks for reading our privacy statement. We hope you have a better understandin
 If you have any questions, please don't hesitate to contact us!
 
 MV Creations  
-1316 Jefferson Street  
-Lynchburg, VA 24504  
+PO Box 1870  
+Richmond, KY 40475, USA  
 [webmaster@mvcreations.com](mailto:webmaster@mvcreations.com)
