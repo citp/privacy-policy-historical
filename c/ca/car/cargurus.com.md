@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cargurus.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215030509id_/http%3A//www.cargurus.com/Cars/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cargurus.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514211815id_/http%3A//www.cargurus.com/Cars/privacyPolicy.html) for the most accurate reproduction.*
 
 # CarGurus.com Privacy Policy - CarGurus
 
