@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the homefinder.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203213231id_/http%3A//www.homescape.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homefinder.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514184500id_/http%3A//www.homescape.com/company/privacy) for the most accurate reproduction.*
 
 # Homescape :: Company :: Privacy Policy
 
-[About Us](http://www.homescape.com/company/about) [Agents & Brokers](http://www.homescape.com/company/post) [Our Network](http://www.homescape.com/company/network) [Press](http://www.homescape.com/company/press) [Terms of Use](http://www.homescape.com/company/terms) [Privacy Policy](http://www.homescape.com/company/privacy) [Careers](http://classifiedventures.com/hrCareers/cv_job_listings.jsp) [Contact Us](http://www.homescape.com/company/contact) | 
+[About Us](http://www.homescape.com/company/about) [Agents & Brokers](http://www.homescape.com/agents-and-brokers) [Our Network](http://www.homescape.com/company/network) [Press](http://www.homescape.com/company/press) [Terms of Use](http://www.homescape.com/company/terms) [Privacy Policy](http://www.homescape.com/company/privacy) [Careers](http://classifiedventures.com/hrCareers/cv_job_listings.jsp) [Contact Us](http://www.homescape.com/company/contact)
+
+| 
 
 Homescape.com respects the privacy of its users. In this document we explain how we use information you supply us via the Homescape.com web site. This privacy policy may be modified in the future. If it is, a new policy will be posted on our web sites.
 
