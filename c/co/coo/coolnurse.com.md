@@ -1,38 +1,32 @@
-> *The following text is extracted and transformed from the coolnurse.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011131752id_/http%3A//www.coolnurse.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolnurse.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514060015id_/http%3A//www.coolnurse.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy | CoolNurse.com
 
-|  | 
+[](https://web.archive.org/)
 
-** Legal Stuff That is Important **
+This Privacy and Information Security Policy ("this Policy") discusses the information that we collect about you when you use our website http://www.CoolNurse.com/ (the "Site") and the software, games and other services we provide on or through the Site (together with the Site, the "Service"). 
 
-> **PRIVACY STATEMENT CHILDREN'S ONLINE PROTECTION AND PRIVACY ACT NOTICE**
-> 
-> **Hello and welcome to Cool Nurse!**   We need to tell you a few things before you read this information. If you are under 13, you can **NOT** agree to giving us your e-mail address or any personal information. You can, of course, surf Cool Nurse without giving us your name or e-mail address, you don't have to have your parents' permission (you might want to talk to them about the site anyway, a lot of parents read Cool Nurse with their teens). Direct Notice to Parents It is Cool Nurse's intention to adhere to the Children's Online Privacy and Protection Act (COPPA). By the way, we never ask for your e-mail address or private information anyway. 
-> 
-> This notice describes our practices of collecting, using, and disclosing personal information from children under 13. Our policies are described below. **Coolnurse.com is not directed toward children under the age of 13!** Your privacy is serious business here at Cool Nurse. We will **NEVER** sell your e-mail address, we turned down many offers since we began this site. We still will NOT do that (Nov. 24, 2005). If you want to help keep us on the web you can shop in any of the stores in the [Mall](https://web.archive.org/web/20071011131752id_/http%3A//www.coolnurse.com/mall.htm). Thank you for your purchases, our commissions are small, but they add up. This site is run by the revenue brought in by our ad banners. Feel free to visit our advertisers.
-> 
-> Please take a couple of minutes to read and understand our privacy policies so that you understand how we treat your personal information.
-> 
-> If you have any questions about this privacy statement, you can contact us via e-mail at [ask_coolnurse@hotmail.com](mailto:ask_coolnurse@hotmail.com)
-> 
-> **ABOUT CHILDREN:** Children under age 13: **Coolnurse.com is NOT directed toward children under the age of 13!** Coolnurse.com prohibits registration by children under the age of 13. Coolnurse.com will not knowingly collect personally identifiable information from children under 13, or let them subscribe to our newsletter.
-> 
-> **More legal stuff** :
-> 
-> **We will do everything in our power to protect your privacy**. This means we will never use your e-mail address or other identifying information from anything that you submit to the site. We will never display your name or part of your name only at your explicit request! 
-> 
-> We will **not** : Sell or disclose your personally identifying information to any third party for any reason. We do **NOT** store cookies or other information on your computer. Depending on your browser's settings, it may store copies of web pages (temporary files) and a list of pages you visited (history). Please refer to your own browser’s documentation for more information about this and other privacy issues. We do **NOT** send you e-mails without your explicit permission.
-> 
-> **Other Third Parties**. Cool Nurse.com will **NOT** share non-personal, aggregate, or summary, information regarding our users with other third parties. 
-> 
-> OTHER COOL NURSE SERVICES: 
-> 
-> Message Board: You must be age 13 or older to use the message board. Although Cool Nurse reserves the right to monitor the Message Board we will not be able to do so all of the time. REMEMBER - DO NOT DISCLOSE PERSONAL INFORMATION ON MESSAGE BOARDS. WHENEVER YOU DO SO, ALL OF THAT INFORMATION CAN BE COLLECTED AND USED BY OTHERS. IF YOU POST PERSONAL INFO IN PUBLIC PLACES, OTHERS MAY SEND YOU UNSOLICITED E-MAIL MESSAGES. BE CAREFUL AND BE SMART WITH YOUR PERSONAL INFORMATION.
-> 
-> You should be aware that when you are on Coolnurse.com, you will have the opportunity to visit, or link to, other sites not operated by Coolnurse.com. These sites, some of whom might be Coolnurse.com advertisers, may collect personally identifiable information about you. Coolnurse.com does not control sites that are operated by others and is not responsible for the information practices of these sites and this privacy statement does not address the information practices of those web sites or advertisers. SECURITY We maintain this site and all associated data with technical, administrative and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification and improper disclosure. However, no computer system or information can ever be fully protected against every possible hazard. But Coolnurse.com is committed to providing reasonable and appropriate security controls to protect our web sites and their information against foreseeable hazards. 
-> 
-> MEDICAL LIABILITY: The material on this web site is provided for educational purposes and is not intended to replace the medical advice of your physician or health care provider. Only medical professionals who examine you can give you medical advice or diagnose your medical problem. We do not intend to create a physician-patient relationship. Your reliance on the information you get from Cool Nurse is solely at your own risk. If you have a specific health question, contact your physician or health care provider. Also note that while Coolnurse.com frequently updates its content, medical information changes rapidly. Therefore, some information may be out of date at times. This site is created and maintained by coolnurse.com. All rights reserved. © April 2000 - 2007, Coolnurse.com  
-> 
-> 
->    [Disclaimer](https://web.archive.org/web/20071011131752id_/http%3A//www.coolnurse.com/disclaimer.htm)    [Contest](https://web.archive.org/web/20071011131752id_/http%3A//www.coolnurse.com/contest.htm)   [Shop](https://web.archive.org/web/20071011131752id_/http%3A//www.coolnurse.com/mall.htm)   [Link to Us](https://web.archive.org/web/20071011131752id_/http%3A//www.coolnurse.com/link_to_us.htm)    [Links](https://web.archive.org/web/20071011131752id_/http%3A//www.coolnurse.com/links.htm)   [Site Map](https://web.archive.org/web/20071011131752id_/http%3A//www.coolnurse.com/site.htm)   [About Us](https://web.archive.org/web/20071011131752id_/http%3A//www.coolnurse.com/whoarewe.htm)   [Videos](https://web.archive.org/web/20071011131752id_/http%3A//www.coolnurse.com/videos.htm)    [Sex Stuff](https://web.archive.org/web/20071011131752id_/http%3A//www.coolnurse.com/sex_stuff.htm)
+**Who We Are. We are Demand Media, Inc. ("CoolNurse," "CoolNurse.com," "Site,""Service," "we," "us," or "our").** CoolNurse.com is a popular place to find information for teens and young adults on sexuality, birth control, fitness and nutrition, mind matters, STDs, substance abuse, suicide, sexual abuse, stress management, depression, crisis hotlines, pregnancy, videos and more. In conducting our business, as further described below, we collect information about the individuals who use the Service.
+
+### This Policy and the Terms of Use.
+
+This Policy is part of and incorporated into the CoolNurse.com [Terms of Use](https://web.archive.org/web/20080514060015id_/http%3A//www.coolnurse.com/terms-of-use.htm) (collectively, the "Terms"). 
+
+**BY PROVIDING PERSONAL INFORMATION OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED IN THE POLICY.**
+
+  1. **_INFORMATION YOU GIVE US._** We collect any information you enter on the Service or give us in any other way (such as through an email, survey, or letter). The information that we collect varies depending upon how you use our Service.
+  2. **_AUTOMATIC INFORMATION COLLECTION._**
+    1. _Cookies._ Like many websites, we use "cookies." Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. We use persistent, identifying cookies to remember your information and to link your activities to you. While you can take steps to warn off, block or disable cookies, if you do, the Service may not function and appear as we have designed it. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. Our cookies collection information such as: 
+      1. the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+      2. the date and time you access the Site and pages you visit;
+      3. your computer's IP address and information about its operating system, platform and the Web browser type and version you use;
+      4. demographic and other non-personally identifiable profile information about you; and
+      5. information to combat fraud or misuse.
+    2. _Pixel Tags._ In our email to your, we use "pixel tags" to determine if your email software or service can display html-formatted email (this helps us optimize the size of our email messages and conserve bandwith).
+    3. _Collection of Information by Third Parties._ Some of the advertisers and other businesses that advertise or place other content our Site use cookies on our Site and may place a cookie on your computer. The content posted by these businesses will be identified as coming from a third party. In addition, we use third party advertising companies to serve ads. These companies (1) use information obtained from your visits to this Site and other sites to serve ads to you and (2) place unique third party cookies on your browser. Also, we use web beacons provided by third party advertising companies to help optimize our advertising. Web beacons enable us to recognize your browser when a cookie has been placed on your computer. Some but not all third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: <http://www.networkadvertising.org/consumer/opt_out.htm>. 
+
+The information collected by third party cookies is subject to the privacy policy of the third party, not CoolNurse.com's privacy policy.
+
+    4. _Promotions, Sweepstakes, and Contests._ From time to time, we may host a promotion, sweepstake, or contest on the Service. 
+
+
