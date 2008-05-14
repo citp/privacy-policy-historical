@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214054924id_/http%3A//www.guttmacher.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514223845id_/http%3A//www.guttmacher.org/about/privacy.html) for the most accurate reproduction.*
 
 # Guttmacher Institute: Privacy Policy
 
