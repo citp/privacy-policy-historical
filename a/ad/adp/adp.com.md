@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212104520id_/http%3A//www.adp.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514210443id_/http%3A//www.adp.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - ADP
 
