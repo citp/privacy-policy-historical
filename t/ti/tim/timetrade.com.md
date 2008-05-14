@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224120820id_/http%3A//www.timetrade.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514175913id_/http%3A//www.timetrade.com/privacy_statement.asp) for the most accurate reproduction.*
 
-# Appointment Scheduling Software, Online Self-Service Reservation Setting System, Event Registration
+# TimeTrade - Privacy Statement
 
   | 
 
