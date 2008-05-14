@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2007-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070816050437id_/http%3A//www.promopeddler.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514024231id_/http%3A//www.promopeddler.com/company/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice @ Promopeddler.com, Online On Time Promotional Products
 
@@ -14,17 +14,4 @@
 > 
 > Your security is our top priority, we have the highest level of secure technology available, our secure server is monitored 24 hours a day by firewalls and a human security specialist. Authorize.net, Inc. is the world's leading provider of internet payment services and secure electronic payment software. Authorize.net's Internet payment service enables merchants to accept payments securely & conveniently over the Internet, using their patented Transact-Secure.
 > 
-> Encryption technology and an internet fraud detection service, powered by a patented neural network solution and proven profiling technology enables Promopeddler.com to provide you with the highest possible security. These focus on handling your information safely so we can focus on providing you with the best possible buying experience! Over 790,000 transactions have been successfully handled using the methods listed with no complaints or problems.
-> 
-> Once you have shared your valued contact information with us, we will communicate with you as necessary for your order via email, postal mail, and phone. We may send you catalogs and free samples from time to time. We may also send you emails throughout the year letting you know of promotions. You may opt out of these emails at any time using the link at the bottom of the email. We don’t like spam any more than you do, and we understand your need to keep your inbox free of clutter. For this reason we limit emails of promotions to just a few times a year. We do however have an opt-in monthly email newsletter that you can join and opt out at any time. You will not be added to this email list unless you specifically ask to be added.
-> 
-> At your request, information will be provided if required by law. You will be notified by e-mail if there is a compromise in our policies or if required by law.
-> 
-> If you have any comments or questions, please contact us at sales@promopeddler.com or 1-800-455-1350. We look forward to hearing from you.
-> 
-> Your business is important to us. We will not do anything to jeopardize the trust you have placed in us. We appreciate your business. We look forward to helping you with all of your Promotional Product needs.
-> 
-> Sincerely,  
->  Monte Baumgartner  
->  President and Co-founder  
->  Promopeddler.com
+> Encryption technology and an internet fraud detection service, powered by a patented neural network solution and proven profiling technology enables Promopeddler.com to provide you with the highest possible security. These focus on handling your information safely so we can fo
