@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jandr.com privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004190627id_/http%3A//www.jr.com/templates/information/privacy.tem) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jandr.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514204618id_/http%3A//www.jr.com/templates/information/privacy.tem) for the most accurate reproduction.*
 
 # JR.com: PRIVACY AND SECURITY
 
