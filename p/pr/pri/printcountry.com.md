@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printcountry.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113124726id_/http%3A//www.printcountry.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printcountry.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514210903id_/http%3A//www.printcountry.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Printer Ink Cartridges from PrintCountry
 
@@ -11,7 +11,7 @@ This policy tells you among other things what information we gather from you, ho
 
 ### Types of Information Collected
 
-In connection with your use of our site, we ask for and may collect a variety of information from and about you in different ways. For example, when you purchase an item from our site, we may ask for and store your information including, but not limited to, your name and/or your business' name, address, email address, billing, shipping, payment information and other identifying contact data. 
+In connection with your use of our site, we ask for and may collect a variety of information from and about you in different ways. For example, when you purchase an item from our site, we may ask for and store your information including, but not limited to, your name and/or your business' name, address, email address, billing, shipping, payment information and other identifying contact data. When you use our printer driver tool, we confirm your email address and send you the link for the selected printer driver (if available) along with recommended products. This collected email will only be used and protected by GBSS, Inc. (parent company of PrintCountry.com), and will not be sold to another company. 
 
 ## Use of Cookies
 
@@ -19,7 +19,7 @@ Our site makes use of cookies when a visitor's Internet browser is set up to acc
 
 ### Use of Information
 
-We use your personal identifying information to identify you as a user of the site and to assist and speed the completion of transactions on the site. We may use your email address to contact you directly regarding services or products that we believe may be of interest to you. We may also associate your personal identifying information with information we collect about your preferences and activities at the site, such as the particular pages you request at the site and purchases or other transactions you effect through the site. We may vary the content you receive in future visits to the site based on your preferences and activities.   
+We use your personal identifying information to identify you as a user of the site and to assist and speed the completion of transactions on the site. We may use your email address to contact you directly regarding services or products that we believe may be of interest to you. We may also associate your personal identifying information with information we collect about your preferences and activities at the site, such as the particular pages you request at the site and purchases or other transactions you effect through the site. We may vary the content you receive in future visits to the site based on your preferences and activities. When you use our printer driver tool, we confirm your email address and send you the link for the selected printer driver (if available) along with recommended products. This collected email will only be used and protected by GBSS, Inc. (parent company of PrintCountry.com), and will not be sold to another company.   
 We may combine your personal identifying information, and information about your preferences and activities, with those of all or a particular group of our users to prepare collective profiles of our users and their activities. For example, we may track the number of our users who view certain pages or use certain features or we may compile the total dollar amount of sales conducted through our site in a particular geographic region. Such information, and other information we derive from individual users' information, allows us to continue to grow and provide you and fellow users with more accurate marketing and advertising of our Web site. 
 
 ### Disclosure of Information
