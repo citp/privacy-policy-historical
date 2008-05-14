@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewishjournal.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229153927id_/http%3A//www.jewishjournal.com/corporate/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishjournal.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514212234id_/http%3A//www.jewishjournal.com/corporate/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # JewishJournal.com
 
