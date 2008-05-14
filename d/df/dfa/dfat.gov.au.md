@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfat.gov.au privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223031112id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfat.gov.au privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514125841id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Department of Foreign Affairs and Trade
 
@@ -8,39 +8,37 @@ Pages on the webservers dfat.gov.au, smartraveller.gov.au, passports.gov.au, for
 
 We collect clickstream data in our logs. These logs are used internally to better develop the site and allow us to report on site activity. They are not used for any other purpose. When you visit this web site, we make a record of your visit and log the following information for statistical purposes:
 
-  * the user's server address, 
-  * the user's top level domain name (for example .com, .gov, .au, .uk etc), 
-  * the date and time of visit to the site, 
-  * the pages accessed and documents downloaded, 
+  * the user's server address,
+  * the user's top level domain name (for example .com, .gov, .au, .uk etc),
+  * the date and time of visit to the site,
+  * the pages accessed and documents downloaded,
 
 
 
-No attempt will be made to identify users or their browsing activities except, in the event of an investigation, in which a law enforcement agency may exercise a warrant to inspect the logs.
+No attempt will be made to identify users or their browsing activities except in the event of an investigation in which a law enforcement agency may exercise a warrant to inspect the logs.
 
 ## Forms
 
 If you use forms on the site to provide information, subscribe to lists, register travel details or purchase publications, the information you provide is not retained on the public web server and will not be used for other purposes.
 
-Information we collect complies with the [Information Privacy Principles](http://www.privacy.gov.au/publications/ipps.html) under the Privacy Act 1988.
+All personal information we collect is collected in compliance with the _Information Privacy Principles_ under the _Privacy Act 1988_.
 
-Your information will only be used for the purpose for which it was provided. We will not add you to other mailing lists unless that is the purpose of the message. We will not use your e-mail address for any other purpose and will not disclose it without your consent. We do not redistribute your information except for the following circumstances:
+Your personal information will only be used for the purpose for which it was provided or in accordance with the _Privacy Act 1988_. We will not add you to other mailing lists unless that is the purpose for which your personal information has been collected. We will not use your e-mail address for any other purpose. We will not disclose your personal information to a third party except in the following circumstances, in accordance with the _Privacy Act 1988_ , where: 
 
-(a) you have consented to use of the information for another purpose;
+  1. you have consented to use of the information for another purpose; 
+  2. we believe on reasonable grounds that use of the information for another purpose is necessary to prevent or lessen a serious and imminent threat to the life or health of the individual concerned or another person; 
+  3. use of the information for that other purpose is required or authorised by or under law; 
+  4. use of the information for that other purpose is reasonably necessary for enforcement of the criminal law or of a law imposing a pecuniary penalty, or for the protection of the public revenue; or 
+  5. the purpose for which the information is used is directly related to the purpose for which the information was obtained.
 
-(b) we believe on reasonable grounds that use of the information for another purpose is necessary to prevent or lessen a serious and imminent threat to the life or health of the individual concerned or another person;
 
-(c) use of the information for that other purpose is required or authorised by or under law;
-
-(d) use of the information for that other purpose is reasonably necessary for enforcement of the criminal law or of a law imposing a pecuniary penalty, or for the protection of the public revenue; or
-
-(e) the purpose for which the information is used is directly related to the purpose for which the information was obtained.
 
 Passport forms are secured using 40 or 128 bit certificates depending on your browser.
 
-## Cookies
+##  Cookies 
 
 A cookie is a small file that is sent to your web browser from a web server and stored on your computer's hard drive. Cookies set by our pages are only valid during the session.
 
-The staff managing these websites are subject to the [_Commonwealth Privacy Act 1988_](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/).
+The staff managing these websites are subject to the Commonwealth [_Commonwealth Privacy Act 1988_](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/).
 
-Updated June 2007
+Updated April 2008
