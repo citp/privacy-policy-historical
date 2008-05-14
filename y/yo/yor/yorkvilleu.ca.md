@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yorkvilleu.ca privacy policy that was archived on 2007-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071123061121id_/http%3A//www.yorkvilleu.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yorkvilleu.ca privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514053123id_/http%3A//yorkvilleu.ca/privacy.php) for the most accurate reproduction.*
 
 # Yorkville University - Privacy Statement
 
