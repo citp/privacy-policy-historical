@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bagborroworsteal.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215185139id_/http%3A//www.bagborroworsteal.com/ui/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagborroworsteal.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514173213id_/http%3A//www.bagborroworsteal.com/ui/privacy) for the most accurate reproduction.*
 
-# Bag Borrow or Steal™ - Borrow or Rent the Latest Authentic Designer Handbags Purses Jewelry and Accessories
+# Bag Borrow or Steal™ - Borrow or Rent the Latest Authentic Designer Handbags Purses Sunglasses Jewelry and Accessories
 
 | 
 
@@ -37,6 +37,8 @@ Our cookies cannot and do not retrieve any other data from your hard drive or pa
 
 We store the information you provide to us and the information we collect electronically in our computer databases. We own, maintain and operate our computer servers containing our databases. Access to our computer servers is controlled by firewalls and security gatekeepers. 
 
+We may also disclose your personally identifiable information as we believe is reasonably necessary to comply with law, regulation or other governmental authority, to determine your credit or enable debt collection or insurance claim processing, or to prevent harm to yourself or others.
+
 **How we use the information we collect.**
 
 We use the personal information about you stored in our member database in various ways. First, the next time you use our service and enter your User ID and Password, we will call up your information from our database to make processing your order faster and easier.
@@ -71,4 +73,5 @@ Your information is password-protected. In order to maintain this protection, we
 
 We want you to enjoy your use of BagBorroworSteal.com's service. If you have any questions, or believe that a violation of this policy may have occurred, please let us know. Our complete contact information is provided on the Contact Us page on our website at www.BagBorrowOrSteal.com. 
 
-©Copyright 2007 BagBorrowOrSteal.com All Rights Reserved 
+Updated 1/17/08  
+©Copyright 2008 BagBorrowOrSteal.com All Rights Reserved
