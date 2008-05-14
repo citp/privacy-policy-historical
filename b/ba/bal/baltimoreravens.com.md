@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the baltimoreravens.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014205048id_/http%3A//www.baltimoreravens.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimoreravens.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514215058id_/http%3A//www.baltimoreravens.com/About/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# Baltimore Ravens
+# Baltimore Ravens | About | Privacy Policy
 
 Revised: February 15, 2006
 
-[ ](http://www.truste.org/ivalidate.php?companyName=National%20Football%20League&sealid=101&ctv_group=Baltimore%20Ravens)
-
-This privacy policy applies to the Baltimore Raven's website located at [www.baltimoreravens.com](http://www.baltimoreravens.com/) and [www.baltimoreravensstore.com](http://www.baltimoreravensstore.com/) (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
-
-The Website is operated by Epic Cycle Interactive on behalf of the Baltimore Ravens (collectively, the "Baltimore Ravens", "we", "our", or "us"). Epic Cycle Interactive does not own any information submitted through this website and cannot use this information for its own purposes.
+[](http://www.truste.org/ivalidate.php?companyName=National%20Football%20League&sealid=101&ctv_group=Baltimore%20Ravens) This privacy policy applies to the Baltimore Raven's website located at [www.baltimoreravens.com](http://www.baltimoreravens.com/) and [www.baltimoreravensstore.com](http://www.baltimoreravensstore.com/) (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
 The Baltimore Ravens is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.baltimoreravens.com and www.baltimoreravensstore.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -34,7 +30,9 @@ Please read the information below to learn more about our data collection polici
 
 
 
-TYPES OF INFORMATION THAT MAY BE COLLECTED
+* * *
+
+### TYPES OF INFORMATION THAT MAY BE COLLECTED
 
 The following are the types of information we may collect:
 
@@ -46,7 +44,9 @@ The following are the types of information we may collect:
 
 Back to the Top
 
-HOW INFORMATION MAY BE COLLECTED
+* * *
+
+### HOW INFORMATION MAY BE COLLECTED
 
 We may collect information from you in several different areas on the Website, including but not limited to those described below:
 
@@ -70,24 +70,28 @@ We may collect information from you in several different areas on the Website, i
 
 Back to the Top
 
-HOW WE USE THE INFORMATION COLLECTED
+* * *
+
+### HOW WE USE THE INFORMATION COLLECTED
 
 As applicable, the information you provide to us may be used to:
 
-  * contact you about the Website;
-  * contact you relating to your membership status;
-  * confirm or fulfill an order you have made;
-  * inform you of a prize you have won;
-  * monitor or improve the use of the Website;
-  * customize the advertising and content you see;
-  * monitor compliance with our terms and conditions of use of the Website; and
+  * contact you about the Website; 
+  * contact you relating to your membership status; 
+  * confirm or fulfill an order you have made; 
+  * inform you of a prize you have won; 
+  * monitor or improve the use of the Website; 
+  * customize the advertising and content you see; 
+  * monitor compliance with our terms and conditions of use of the Website; and 
   * send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
 
 
 
 Back to the Top
 
-WITH WHOM THE INFORMATION MAY BE SHARED
+* * *
+
+### WITH WHOM THE INFORMATION MAY BE SHARED
 
 At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:
 
@@ -107,19 +111,21 @@ When ordering tickets, the consumer will be brought to the TicketMaster website 
 
 Back to the Top
 
-LINKS TO OTHER WEBSITES
+* * *
+
+### LINKS TO OTHER WEBSITES 
 
 You should be aware that when you are on the Website you could be directed to other Websites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Website onto a different Website. This includes links from advertisers, sponsors and marketing partners that may use the Website's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Website, you should consult that Website's privacy policy before providing any personal information.
 
 Back to the Top
 
-SECURITY
+### SECURITY
 
 This Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required.
 
 Back to the Top
 
-A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY
+### A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY
 
 The Website is a general audience Website. We do not currently collect any personal information from children under the age of thirteen on the Website. If in the future, we collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent.
 
@@ -127,19 +133,19 @@ The Internet offers children wonderful educational and entertainment resources. 
 
 Back to the Top
 
-YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE POLICY
+### YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE POLICY
 
 By using this Website, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
 
 Back to the Top
 
-CORRECTING/UPDATING PERSONAL INFORMATION
+### CORRECTING/UPDATING PERSONAL INFORMATION
 
 If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by using the opt out message in an email, or by emailing us at [contactus@ravens.nfl.net](mailto:contactus@ravens.nfl.net). If you create a profile account within [baltimoreravensstore.com](http://baltimoreravensstore.com/) you may access your personally identifiable information within your account page to make changes or delete your profile.
 
 Back to the Top
 
-YOUR CALIFORNIA PRIVACY RIGHTS
+### YOUR CALIFORNIA PRIVACY RIGHTS
 
 A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes.
 
@@ -151,17 +157,15 @@ If you are a California resident and have questions about our compliance with th
 
 Back to the Top
 
-QUESTIONS ABOUT THIS PRIVACY POLICY
+### QUESTIONS ABOUT THIS PRIVACY POLICY
 
 If you have any questions about this privacy policy or the privacy practices of this Website, contact the Ravens at [contactus@ravens.nfl.net](mailto:contactus@ravens.nfl.net).
 
-Questions regarding this statement should be directed to:  
+Questions regarding this statement should be directed to:
+
 Baltimore Ravens  
 Attn: Website Privacy Policy  
 1 Winning Drive  
 Owings Mills, MD 21117
 
 Back to the Top
-
-  
-
