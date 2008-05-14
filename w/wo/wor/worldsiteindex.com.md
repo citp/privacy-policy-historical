@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsiteindex.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014031904id_/http%3A//www.worldsiteindex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsiteindex.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514210642id_/http%3A//www.worldsiteindex.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for World Site Index, a searchable directory of websites organised by subject
 
