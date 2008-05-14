@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the ph-creative.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013143205id_/http%3A//www.ph-creative.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ph-creative.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514090920id_/http%3A//www.ph-creative.com/privacy) for the most accurate reproduction.*
 
 # Liverpool 0151 708 2280, Web Design, E-marketing, Graphic Design, CMS > Privacy
 
 |  | 
 
-Saturday, October 13, 2007
+Wednesday, May 14, 2008
 
 |   
   
 ---|---  
 | 
 
-[Home](http://ph-creative.com/default.aspx)
+[Home](http://www.ph-creative.com/default.aspx)
 
-|  | [Company](http://ph-creative.com/Company) |   
+|  | [Company](http://www.ph-creative.com/Company) |   
 ---|---  
-| [Services](http://ph-creative.com/Services) |   
+| [Services](http://www.ph-creative.com/Services) |   
 ---|---  
-| [Resources](http://ph-creative.com/Resources) |   
+| [Resources](http://www.ph-creative.com/Resources) |   
 ---|---  
-| [News and Events](http://ph-creative.com/News_and_Events) |   
+| [News and Events](http://www.ph-creative.com/News_and_Events) |   
 ---|---  
-| [Contact Us](http://ph-creative.com/Contact_Us) |   
+| [Contact Us](http://www.ph-creative.com/Contact_Us) |   
 ---|---  
    
 | | | |   
@@ -72,5 +72,5 @@ If you have any questions about this privacy statement, the practices of this we
 If no longer wish to receive updates on the products and services that we offer then please send an email from that address with the word ‘unsubscribe’ in the subject.   
   
 ---  
-| [[Site Map](http://ph-creative.com/sitemap)]  [[Privacy Policy](http://ph-creative.com/privacy)]  [[Terms, Conditions and Legal](http://ph-creative.com/legal)]   |  [](http://validator.w3.org/check?uri=referer)  
+| [[Site Map](http://www.ph-creative.com/sitemap)]  [[Privacy Policy](http://www.ph-creative.com/privacy)]  [[Terms, Conditions and Legal](http://www.ph-creative.com/legal)]   |  [](http://validator.w3.org/check?uri=referer)  
 ---|---
