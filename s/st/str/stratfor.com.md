@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215204308id_/http%3A//stratfor.com/about-stratfor/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514211622id_/http%3A//www.stratfor.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Strategic Forecasting
-
-## Privacy Policy
+# Privacy Policy | Stratfor
 
 **Strategic Forecasting, Inc.** , publisher of Stratfor, and its affiliates (hereafter referred to collectively as "Stratfor") are committed to maintaining the privacy of personal information that you provide to us when using Stratfor. This Privacy Policy describes how we treat personal information received about you when you visit Stratfor. We may make content or services from other Web sites including our affiliated or co-branded Web sites available to you from links located on Stratfor. These other Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such Web site to determine how that site protects your privacy. 
 
@@ -26,34 +24,35 @@ We may disclose and use personally identifiable information in special circumsta
 
 ### Additional Information
 
-Cookies: We may employ cookie technology to help visitors and subscribers move faster through our site. When you sign on to our Web site or take advantage of several key features, we may pass cookies to your computer. A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer's memory (Read our Cookie Disclosure Statement for more information on our use of cookies).
+**Cookies:** We may employ cookie technology to help visitors and subscribers move faster through our site. When you sign on to our Web site or take advantage of several key features, we may pass cookies to your computer. A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer's memory (Read our Cookie Disclosure Statement for more information on our use of cookies).
 
-Security: The personally identifiable information we collect about you is stored in limited access servers. We will maintain safeguards to protect the security of these servers and your personally identifiable information.
+**Security:** The personally identifiable information we collect about you is stored in limited access servers. We will maintain safeguards to protect the security of these servers and your personally identifiable information.
 
-Pixels: Stratfor.com uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, [DoubleClick](http://www.doubleclick.com/). These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to [[http://www.doubleclick.net/us/corporate/privacy]](http://www.doubleclick.net/us/corporate/privacy). 
+**Pixels:** Stratfor.com uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to: http://www.doubleclick.net/us/corporate/privacy.
 
-Policy Modifications: We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.
+**Policy Modifications:** We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.
 
 ### Choice/Opt-Out
 
-Stratfor provides its users the opportunity to opt-out of receiving communications from Stratfor and its partners at the point where we request information about the visitor. To remove your information from our database, to not receive future communications or to no longer receive our service, please send and e-mail request to: [service@stratfor.com](mailto:service@stratfor.com).
+Stratfor provides its users the opportunity to opt-out of receiving communications from Stratfor and its partners at the point where we request information about the visitor. To remove your information from our database, to not receive future communications or to no longer receive our service, please send and e-mail request to: service@stratfor.com.
 
 ### Correct/Update
 
 Stratfor gives users the following options for changing and modifying information previously provided.
 
-1\. You can send an e-mail to [service@stratfor.com](mailto:service@stratfor.com)
+You can send an e-mail to service@stratfor.com
 
 ### Comments and Questions
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Attn: Marketing Department  
 Stratfor  
 700 Lavaca Street  
 Suite 900  
 Austin, Texas 78701  
-[service@stratfor.com](mailto:service@stratfor.com)
+service@stratfor.com  
+
 
 If you have any questions, comments, or concerns about this Privacy Statement, please contact us at 877-9STRAT4.
 
