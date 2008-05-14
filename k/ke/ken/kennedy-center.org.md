@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the kennedy-center.org privacy policy that was archived on 2006-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061007205534id_/http%3A//kennedy-center.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kennedy-center.org privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514194642id_/http%3A//www.kennedy-center.org/legal/privacy.html) for the most accurate reproduction.*
 
 # Kennedy Center: Privacy Statement
 
-|    
-
-
-|  | 
+ 
 
 **1\. Information Collection and Use**.
 
@@ -52,17 +49,4 @@ If you have any questions or suggestions, please complete a feedback form or you
 >  Phone: (202)416-8485
 
 
-
-
-[Text-only](https://web.archive.org/text) | [Accessibility](https://web.archive.org/accessibility) | [Site Map](https://web.archive.org/sitemap)  
-[Privacy Statement](https://web.archive.org/legal/privacy.html) | [Copyright/Terms](https://web.archive.org/legal/copyright.html) | [Useful Tools](https://web.archive.org/tools)
-
-  
-[](https://web.archive.org/ "\[Return to the Kennedy Center home page.\]")  
-**The John F. Kennedy Center for the Performing Arts**  
-2700 F Street, NW   
-Washington, DC 20566   
-Tickets and Information: 800-444-1324 or 202-467-4600  
-Administrative Offices: 202-416-8000   
-[Contact Us](https://web.archive.org/contact/)  
 
