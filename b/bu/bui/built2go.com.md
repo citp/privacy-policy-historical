@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the built2go.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110070016id_/http%3A//www.boxedart.com/W3C/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the built2go.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514203410id_/http%3A//www.boxedart.com/W3C/privacy.html) for the most accurate reproduction.*
 
 # 
 
 At Big Resources, Inc. we care about providing you with tools and information to manage and protect your online privacy. We have developed this privacy policy to inform you about what information this web site collects, who may receive that information, what we may do with the information, and how long we keep it. While we have made every attempt to make this policy as clear as possible, if you have any further questions about it, please contact us:
 
 > Big Resources, Inc.  
->  PO Box 140813  
->  Gainesville, FL 32608  
->  email: [csg@bigresources.com](mailto:csg@bigresources.com)  
->  Phone: (775) 490-8702
-> 
-> Hosting Webmaster: [hostmaster@bigresources.com](mailto:hostmaster@bigresources.com)
+>  PO Box 46175  
+>  Tampa, FL 33646  
+>  Support: <https://www.boxedart.com/support/index.php>  
+>  Corporate Headquarters: (775) 490-8702
 
 **Does this website use cookies to keep track of my information?**
 
@@ -46,10 +44,10 @@ Session data expires at the end of a visit. Logged data is reviewed for errors, 
 **Can I review my information?**
 
 Account details can be accessed and modified at the below link:  
-<http://www.boxedart.com/phpshop/members.php?action=detail>
+<https://www.boxedart.com/phpshop/details.php>
 
 **What if I think there are inaccuracies in my information?**
 
-If you believe we are not handling your information in accordance with our privacy policy, please contact our customer service department. Contact information is available at <http://www.boxedart.com/helpdesk/public/ticket_create.php>.
+If you believe we are not handling your information in accordance with our privacy policy, please contact our customer service department. Contact information is available at <https://www.boxedart.com/support/index.php>.
 
 If for some reason we have violated our privacy policy, we will correct the error as soon as you notify us. 
