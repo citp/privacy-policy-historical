@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sumtotalsystems.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010010000id_/http%3A//www.sumtotalsystems.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumtotalsystems.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514023755id_/http%3A//www.sumtotalsystems.com/home/privacy.html) for the most accurate reproduction.*
 
-# Talent Management Solutions, Employee Performance Management Software, Employee Performance Appraisals, LMS
+# Talent Management, Employee Performance Management Software, Performance Appraisals
 
 Effective February 22, 2007
 
@@ -144,5 +144,5 @@ SumTotal Systems adheres to the EU’s Safe Harbor principles.
 
 If you have any questions regarding this Privacy Policy or wish to access or correct your personal information that we collect, please contact us at privacy@sumtotalsystems.com.
 
-©2004 - 2007 SumTotal Systems, Inc. All rights reserved.  
+©2004 - 2008 SumTotal Systems, Inc. All rights reserved.  
 Privacy Policy last updated February 22, 2007. 
