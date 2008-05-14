@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121101825id_/http%3A//www.carters.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514195625id_/http%3A//www.carters.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Carter's
 
@@ -14,5 +14,3 @@ Carter’s, Inc. may use personal information provided by you verbally or in wri
 Carter’s may disclose your personal information as required by law or legal process, and as necessary to protect the property, interests and rights of Carter’s, its affiliates and others. In the event of a sale of some or all of our business, we may disclose, license or sell your personal information to the purchaser. 
 
 If we amend this privacy policy, we will post any such change on our website at www.carters.com. If you have any questions about our privacy policy, please contact Carter’s customer service at 1-888-782-9548. 
-
-**RECALL** – Kolcraft is recalling several models of play yards due to a strangulation hazard posed by the restraint straps attached to the changing table portion of the play yard. This recall involves five models made for Carter's, Carter's Lennon Travelin' Tot, that were sold from 2001 to 2004. Please [click here](http://www.cpsc.gov/cpscpub/prerel/prhtml07/07315.html) for more information.
