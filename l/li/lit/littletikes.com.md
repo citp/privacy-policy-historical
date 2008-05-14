@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the littletikes.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213035539id_/http%3A//www.littletikes.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littletikes.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514180007id_/http%3A//www.littletikes.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Kitchen and Workshop Toddler Toys from Little Tikes
+# Playhouses, Inflatable Bouncers, Picnic Tables, Toddler Toys - Little Tikes
 
 | 
 
