@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stewartmedia.biz privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210071205id_/http%3A//stewartmedia.biz/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stewartmedia.biz privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514022825id_/http%3A//stewartmedia.biz/privacy) for the most accurate reproduction.*
 
-# Privacy - SEO Video | Video Email | Online Marketing Melbourne | SEO Melbourne | Video Streaming | Stew Art Media | Jim Stewart
+# Privacy - SEO Melbourne | Internet Video Marketing | Online Marketing Melbourne | SEO Video | Video Email | Video Streaming | Stew Art Media | Jim Stewart
 
 Stew Art Media values the privacy of our subscribers and we despise spamming on the Internet. Spamming costs the people who receive it time and money. We comply with the National Privacy Principles as set out in the Privacy Act when providing the services here at Stew Art Media 
 
