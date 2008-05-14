@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coremetrics.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210004233id_/http%3A//www.coremetrics.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coremetrics.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514205956id_/http%3A//www.coremetrics.com/company/privacy.php) for the most accurate reproduction.*
 
 # Coremetrics
 
@@ -27,7 +27,7 @@ When our client users access their data via our secure web interface, we collect
 
 As we continue to develop our business, we may sell certain of our assets. In such transactions, visitor information may be one of the transferred assets. Also, in the event that all or substantially all of Coremetrics' assets are acquired in a transaction, our visitor information may be an asset that is reviewed and transferred. Such a transaction will be disclosed per the "Notification of Changes" guidelines below. Also, as with the data we collect on behalf of our clients, we reserve the right to disclose any data we collect at our sites if required by law or valid order of a court or other governmental authority or to protect the health and safety of Coremetrics' employees or the general public.
 
-**Update Your Information.** We provide all visitors to our web site with the opportunity to review, modify and delete any personally identifiable information that has previously been provided. You can send an email to [privacy@coremetrics.com](mailto:privacy@coremetrics.com) , or call us toll free at 877.721.CORE (2673) or in California at 650.762.1400. 
+**Update Your Information.** We provide all visitors to our web site with the opportunity to review, modify and delete any personally identifiable information that has previously been provided. You can send an email to [privacy@coremetrics.com](mailto:privacy@coremetrics.com) , or call us toll free at 877.721.CORE (2673) or in California at 650.762.1400. Coremetrics shall respond to requests from visitors to its website for information on collected personally identifiable information within thirty (30) days.
 
 **Unsubscribe from Our Mailing List.** If you have previously subscribed to Coremetrics' mailing list, you may at any time ask us to remove you from our mailing list by [clicking here](https://web.archive.org/company/unsubscribe.php), or by calling us toll free at 877.721.CORE (2673) or direct at 650.762.1400.
 
