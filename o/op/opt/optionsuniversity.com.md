@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the optionsuniversity.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203052134id_/http%3A//www.options-university.com/Legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionsuniversity.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514212617id_/http%3A//www.optionsuniversity.com/Legal/privacy_policy.htm) for the most accurate reproduction.*
 
-# DISCLAIMER AND TERMS OF USE AGREEMENT
-
-   
+# Privacy Policy | Options University
 
 ** PRIVACY POLICY**
 
@@ -19,7 +17,7 @@ How we collect and store information depends on the page you are visiting, the a
 
 Like most Web sites, OptionsUniversity.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. 
 
-As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.  
+As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.    
  
 
 **What we do with the information we collect**
