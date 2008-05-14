@@ -1,118 +1,105 @@
-> *The following text is extracted and transformed from the seattletimes.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217001447id_/http%3A//seattletimes.nwsource.com/contactus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattletimes.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514183939id_/http%3A//www.seattletimescompany.com/notices/notice2.html) for the most accurate reproduction.*
 
-# The Seattle Times Company: Privacy statement
+# User Notices of The Seattle Times Company: Privacy Statement
 
-Last updated November 2001
+## Privacy Statement
 
-**The Seattle Times Company privacy statement**  
+The following statement explains how the Web sites operated by The Seattle Times Company collect and use your personally identifiable information. These Web sites include: seattletimes.com, NWsource.com, NWjobs.com, NWapartments.com, NWautos.com, NWhomes.com and seattletimescompany.com.
+
+#### The basic principle
+
+We will never intentionally disclose your personally identifiable information to any third party for their use without first receiving your express permission. We will not send you e-mail unless you have requested it or unless it's in the course of a transaction you have initiated. 
+
+#### Free to use
+
+You can access our Web sites and use our services free of charge, but sometimes we will ask you to submit minimal personally identifiable information before accessing them. 
+
+The people who make it possible for us to provide free content to you are our advertisers. To enable advertisers to invest their media dollars appropriately, we target advertising through cookies and other methods (described below) and provide advertisers with a general summary about the demographics of our readership and usage of our sites. We never tell our advertisers your identity unless you expressly give us permission to do so. 
+
+#### When do we collect your personally identifiable information?
+
+You must provide some personally identifiable information in order to use some features of our Web sites. Some examples: 
+
+  * Signing up for e-mail services such as seattletimes.com news alerts, NWsource.com newsletters, and e-mail alerts for various types of classified listings
+  * Participating in online sweepstakes, contests and games
+  * Participating in online forums
+  * Submitting a resume on NWjobs.com
+  * Placing an online classified ad of various types
+  * Creating a profile on NWsource.com Personals
+  * Purchasing items such as event tickets and online photos
+  * Participating in an online survey
 
 
-The following statement discloses the information gathering and dissemination practices for the Web sites of The Seattle Times Company. This statement applies to The Seattle Times Company's family of Web sites and explains data collection and usage at these sites: seattletimes.com, NWsource.com and NWclassifieds.com. 
 
-**Our philosophy**
+#### What personally identifiable information do we collect?
 
-We will never willfully disclose individually identifiable information about our customers to any third party without first receiving that customer's permission. 
+The information we collect for services such as these will vary, but can include your name, address, zip code, gender, user name, password, e-mail address and phone number. We also collect credit card information for purchases. Wherever we collect personally identifiable information, we will make an effort to link to our privacy statement. 
 
-**Collection of personal information**
+#### How do we use your personally identifiable information? 
 
-At some sites, The Seattle Times Company may collect personally identifiable information, such as your name, address, e-mail address and phone number. At other sites, The Seattle Times Company may collect anonymous information such as zip codes and favorites. Information collected at one Seattle Times Company Web site may be shared within The Seattle Times Company family of Web sites. 
+We do not share or provide personally identifiable information we may collect, such as names, e-mail addresses and phone numbers with our advertisers without your express permission. 
 
-The Seattle Times Company has many relationships with third-party content, service and technology providers. When you use these third-party services offered on our sites, personal information you provide may be collected directly by these third parties in order to deliver the services you have requested. 
+Please note that some of our online sweepstakes or contests are sponsored by advertisers. Aggregated, non-personally identifiable data about contest entries are collected and can be shared with these advertisers. In addition, you may choose to provide your personally identifiable information to these advertisers in exchange for the opportunity to receive future communication from them (such as coupons or special offers). If you do not wish to have your personally identifiable information shared or receive such communication, you will be given a clear choice to opt out of having your personally identifiable information sent to the advertiser, or you will be advised not to enter the contest. 
 
-Some information about you is automatically collected via server logs. This information can include your IP address, browser type, domain names, access times and referring URLs. We use this information to administer our Web site, help diagnose problems with our server, and to help identify you as a unique visitor to our site and to gather broad information about your site usage. 
+We will not send you e-mail unless you have requested it, or specifically given us permission to contact you in the future, or unless it's in the course of a transaction you have initiated. 
 
-Information that you disclose about yourself in a public chat room, message board or other public forum will immediately become available to anyone who has access to those public areas. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+When you submit a comment about a story or topic on one of our Web sites, an editor or reporter may contact you for clarification or for permission to use your comments in the newspaper or other publications of The Seattle Times Company.
 
-Our sites contain links to other sites. We are not responsible for the privacy practices or the content of such Web sites and encourage you to read the privacy statements of sites you visit. 
+#### Who else has access to your personally identifiable information?
 
-**Use of your personal information**
+  * Third-party technology providers: In some cases, the service you sign up for is provided by a third-party technology or content provider. When you use these third-party services offered on our sites, personally identifiable information you provide may be collected directly by these third parties solely in order to deliver the services you have requested. These third-party partners may not use or distribute our users' information in any capacity outside of the service for which we contracted and they must comply with our privacy policies. Some examples of third-party technology partners: Adicio, which operates the NWjobs.com online resume database, and WhatCounts, which operates our e-mail systems. 
+  * Transactional partners: In some cases we partner with another company to co-promote their services within our Web sites. Some examples of these are: NWsource Personals, powered by Friendfinder, and seattletimes.com sports games provided by a variety of partners. In these cases, you are transacting directly with the other party, and the personally identifiable information you enter on those services is shared both with that transactional partner and The Seattle Times Company. On those pages requiring personally identifiable information, the transactional partner's brand is clearly visible, and their privacy statement is posted. We encourage you to read it. 
 
-The Seattle Times Company Web sites collect and use your personal information to operate our Web sites and to deliver the services you have requested. We do not share personal information we may collect, such as names, e-mail addresses, and phone numbers, with third parties, unless we disclose that we are doing so at the time you submit your information. The only information we regularly share with third parties, including our advertisers, is aggregate information about site usage and demographics. 
 
-The Seattle Times Company has many relationships with third-party content, service and technology providers. When you use these third-party services offered on our sites, personal information you provide may be collected directly by these third parties in order to deliver the services you have requested. We ask these providers to comply with our privacy practices. 
 
-Additional information specific to individual sites is available by clicking these links: 
+#### How do we use site usage statistics?
 
-**Use of cookies**
+The Seattle Times Company collects some information automatically via server logs and cookies. This information can include your IP address, browser type, domain names, access times and referring URLs. We use this information to prepare for peak usage times and ensure a fast-loading site, to help diagnose problems with our servers and to understand which features of our sites are being used and when. 
 
-Our sites use cookies to track how many times an ad is delivered (impressions) and how many times it is clicked (click-throughs). 
+#### How do we use cookies and web beacons?
 
-Some of our sites also use cookies to help you personalize our sites. When you register with one of our sites, create favorites lists, or other personalization tasks, cookies store your personal information and help recall your information on subsequent visits. 
+A cookie is a small file that stores information in your browser on your computer. The Seattle Times Company places cookies in your browser that contain some of the information you provide when you register with us and when you set up a personalized service such as a "favorites list." We do not store highly sensitive personal information such as your password, e-mail address or credit card number in cookies. Cookies enable us to summarize overall usage patterns for our analysis. In addition, we use cookies to provide personalized services such as saving your favorite automobile ads on NWautos.com. We also use cookies to provide a more useful online experience - such as allowing you to quickly enter a sweepstakes if you're already logged on. And it can allow us to limit users to only one entry for an online poll. 
 
-A cookie is a small file that stores information about your personal preferences, either on your computer (client-side cookie) or on the Web site you're visiting (server-side cookie). Your personal information, such as your account information, is stored in a server-side cookie. Your non-personal information, such as your preferences, is stored in a client-side cookie. 
+A web beacon is an invisible graphic on a web page that is programmed to collect non-personally identifiable information about your use of a given site. Like cookies, web beacons allow The Seattle Times Company and its technology providers to summarize overall usage patterns for our analysis and provide personalized services. We do not share or provide personally identifiable information we may collect, such as names, e-mail addresses and phone numbers with our advertisers without your express permission.
 
-**Children's guidelines**
+We work with third-party advertising companies who may utilize cookies or web beacons to better provide advertisements about goods and services that may be of interest to you. These partners do not have access to or use your name, address, e-mail address, telephone number or other personally identifiable information; they may, however, anonymously track your Web usage across other Web sites in their networks beyond The Seattle Times Company sites. For more information about these advertising companies' privacy policies, including how to opt out from their use of cookies and web beacons to track your use of our sites, see the following: 
 
-Our sites are not intentionally targeted at children under 13, but some educational areas of our sites are targeted to middle-school and high-school age children. We require written parental consent for children under 13 to register or submit personal information on our sites. Contact [webmaster@seattletimes.com](mailto:webmaster@seattletimes.com) for information on how to provide parental consent. 
+  * [Tacoda Privacy Policy](http://www.tacoda.com/notice/privacy_policy.html)
+  * [Advertising.com Privacy Policy](http://www.advertising.com/privacy_policy.php)
 
-  * Children: Be sure to ask your parents for permission before you send any personal information about yourself to us or anyone else over the Internet. 
+
+
+You may opt-out of the cookies delivered by The Seattle Times Company by changing the setting on your browser. Depending on your privacy settings, please be aware that this may disable all cookies delivered to your browser, not just the ones delivered by The Seattle Times Company. 
+
+#### Disclosures Required by Law or for Security and Safety
+
+Regardless of your choices with respect to your information, The Seattle Times Company will disclose personally identifiable information when it believes in good faith that such disclosures are (a) required by law, including, for example, to comply with a court order or subpoena, or (b) will help enforce our terms of use, enforce contest and sweepstakes rules, protect your safety or security and/or protect the safety and security of The Seattle Times Company, our Web sites, our property, or our employees; or (c) to protect the safety or security of third parties. 
+
+#### Children's guidelines
+
+In general, our sites are not intentionally targeted at children under 13, but some educational areas of our sites are targeted to middle-school and high-school age children. We require written parental consent for children under 13 to register or submit personally identifiable information on our sites. Contact [webmaster@seattletimes.com](mailto:webmaster@seattletimes.com) for information on how to provide parental consent. 
+
+  * Children: Be sure to ask your parents for permission before you send any personally identifiable information about yourself to us or anyone else over the Internet.
   * Parents and guardians: We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. 
 
-**Notification of changes**
-
-We retain the right, at our discretion, to change any of these policies in the future. Our current procedures will always be disclosed on this page. 
-
-**Contacting The Seattle Times Company**
-
-If you have any questions about this privacy statement, the practices of our Web sites, or your interactions with these sites, you can contact us at: 
-
-The Seattle Times Company  
-Attn: Privacy  
-133 Minor Ave N  
-Seattle, WA 98109  
-[webmaster@seattletimes.com](mailto:webmaster@seattletimes.com)  
 
 
-**Back to top**
+#### How to correct and update your personally identifiable information 
 
-**seattletimes.com**
+The Seattle Times Company allows you to change your personally identifiable information through the Account Center. After logging in, you may select "Your profile" and update the information there, including e-mail address, user name, password and phone number. 
 
-**Registration** : Site registration is required to use e-mail services on seattletimes.com. When you establish an account, the registration information you provide is collected and stored by The Seattle Times Company. 
+#### Notification of policy changes
 
-When you register with seattletimes.com, we ask you for your name, zip code, country, birth date, gender, household income, e-mail address, and which newspaper subscriptions you have. Your contact information is used to contact you when necessary, to verify your identity if you need assistance with your account, and to enhance your personalized experience on our site. Demographic information is used to develop content and to support marketing for The Seattle Times Company. 
+We retain the right, at our discretion, to change any of these policies in the future. Our current procedures will be disclosed on this page. 
 
-Once you register with seattletimes.com, any contact we may have with you will be at your request. You can update your account information at any time by visiting our registration page. To delete your account, contact [webmaster@seattletimes.com](mailto:webmaster@seattletimes.com). 
+#### How to contact The Seattle Times Company
 
-**Stocks** : When you create a portfolio in our Stock Market section and sign up for e-mail alerts, your e-mail address and zip code are collected by Inlumen, our provider of these services. Your e-mail address is used to contact you when necessary, and your zip code is used to compile aggregate demographics. 
+If you have any questions about this privacy statement, the practices of our Web sites, or to resolve a dispute, you can contact us: 
 
-**Forums** : When you sign up to participate in our online forums, we collect your name, zip code and e-mail address. Your contact information is used to contact you when necessary, and demographic information is used to develop content and support marketing for The Seattle Times Company. 
+  * By e-mail: [webmaster@seattletimes.com](mailto:webmaster@seattletimes.com)
+  * By mail:  
+The Seattle Times Company Online  
+1120 John St.  
+Seattle, WA 98109
 
-**Circulation order form** : When you use our home delivery or vacation stop order forms to start or suspend a newspaper subscription, we collect your name, address, phone number, and e-mail address. Contact information is used for billing, to deliver your order, to contact you about your order when necessary, and to notify you about subscriber benefits or promotions we may offer exclusively to our newspaper subscribers. 
 
-**Contests** : We run contests on our site in which we ask customers for information to contact them, and personal information that we use to compile aggregate information about site usage and demographics. If contests are sponsored by third parties, some or all of the information collected for a contest may be shared with the sponsor(s) or other companies indicated on the entry form. If your information will be shared, we will disclose that we are doing so at the time you submit your information. 
-
-**Surveys** : Our online surveys may ask customers for contact and demographic information. The customer's contact information is used to contact the customer when necessary. Demographic information is used to tailor our customers' experience at our site, showing them content we think they might be interested in, and displaying the content according to their preferences. Survey data is used to develop content and to support marketing for The Seattle Times Company. Unique identifiers may be collected and used to verify a customer's identity. 
-
-**Back to top**
-
-**NWclassifieds.com**
-
-**Classifieds order form** : When you use our online classified order form, we collect your name, address, phone number, and e-mail address. Contact information is used for billing, to process orders, to contact you about your order when necessary, and occasionally to request your feedback regarding the quality of advertising products and services. 
-
-**Jobs e-mail inquiry form** : When you use our jobs e-mail inquiry form to contact potential employers, we collect your name, phone number and resume. Contact and personal information is forwarded to the employer you selected. Compiled aggregate information is used to track site traffic and performance. 
-
-**Autos e-mail inquiry form** : When you use our autos e-mail inquiry form to contact sellers, we collect your name, e-mail address and phone number. Contact information is forwarded to the seller you selected. Compiled aggregate information is used to track site traffic and performance. 
-
-**Back to top**
-
-**NWsource.com**
-
-**Registration** : Site registration is required to use the personalization tools on NWsource.com: My NWsource, E-mail, Calendar, Address Book, and To-Do List. These tools are provided by InfoSpace. When you establish a NWsource account, the registration information you provide is collected and stored by InfoSpace, but we retain control of this information and its dissemination. We will never willfully disclose individually identifiable information about our customers to any third party without first receiving that customer's permission. We may allow InfoSpace to access your information for administrative purposes, such as to send you your password, if you forget it. InfoSpace may not use it in any other way. 
-
-When you register with NWsource, we ask you for your name, address and zip code, country, time zone, birth date, and e-mail address. Your contact information is used to contact you when necessary, to verify your identity if you need assistance with your account, and to enhance your personalized experience on our site. Demographic information is used to develop content and to support marketing for The Seattle Times Company. 
-
-Once you register with NWsource, any contact we may have with you will be at your request. In the near future, we plan to offer e-mail notification services which will allow you to receive e-mail from us about new content, services and products. At that time we will invite you, by e-mail, to sign up for these services. We will continue to not let third parties solicit our members. 
-
-See the NWsource FAQ for information on: 
-
-  * updating or deleting your account information 
-  * changing your password 
-  * updating or removing information listed in NWsource directories 
-
-**Message boards** : You have the option to provide your name and e-mail address when you sign up to use message boards. If you provide your e-mail address and post messages, others will be able to see your e-mail address and respond to you. 
-
-**Contests** : We run contests on our site in which we ask customers for information to contact them, and personal information that we use to compile aggregate information about site usage and demographics. 
-
-**Surveys** : Our online surveys may ask customers for contact and demographic information. The customer's contact information is used to contact the customer when necessary. Demographic information is used to tailor our customers' experience at our site, showing them content we think they might be interested in, and displaying the content according to their preferences. Survey data is used to develop content and to support marketing for The Seattle Times Company. Unique identifiers may be collected and used to verify a customer's identity. 
-
-**Back to top**
