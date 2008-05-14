@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228183621id_/http%3A//www.hancockbank.com/home/home_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514202841id_/http%3A//www.hancockbank.com/home/home_privacy.asp) for the most accurate reproduction.*
 
 # Hancock Bank
 
@@ -8,9 +8,17 @@
 
 
   
+|   | 
+
 **PRIVACY POLICY NOTICE**
 
-For over a century, we have forged customer relationships built on strength, stability, integrity, and service. Hancock Holding Company is made up of a number of affiliated companies including Hancock Bank (Mississippi), Hancock Bank of Louisiana, Hancock Bank of Florida, Hancock Bank of Alabama, Hancock Investment Services, Inc., Hancock Insurance Agency (including, J. Everett Eaves, Inc.), Harrison Finance Company, and Magna Insurance Company (an "Affiliate" or the "Affiliates" or "we", "our" and "us", which will refer to all Affiliates or to a particular Affiliate as is appropriate in the context), that work together in bringing you products and services to meet your financial needs. In choosing our financial products and services, you entrust us with financial information that is personally identifiable to you and not otherwise publicly available ("Confidential Information"). We honor your trust by protecting the privacy and security of Confidential Information that you and others share with us. We believe you should know how we collect, use and safeguard such personal information and what your options are as a valued customer of one of America's strongest, safest full-service financial institutions. This Privacy Policy shall replace and supersede any of our previous privacy notices or policies or other conflicting provisions relating to privacy matters. 
+| 
+
+**3/2008   **  
+  
+---|---|---  
+  
+For over a century, we have forged customer relationships built on strength, stability, integrity, and service. Hancock Holding Company is made up of a number of affiliated companies including Hancock Bank, Hancock Bank of Louisiana, Hancock Bank of Florida, Hancock Bank of Alabama, Hancock Investment Services, Inc., Hancock Insurance Agency (including, Ross-King-Walker and J. Everett Eaves, Inc.), Harrison Finance Company, and Magna Insurance Company (an "Affiliate" or the "Affiliates" or "we", "our" and "us", which will refer to all Affiliates or to a particular Affiliate as is appropriate in the context), that work together in bringing you products and services to meet your financial needs. In choosing our financial products and services, you entrust us with financial information that is personally identifiable to you and not otherwise publicly available ("Confidential Information"). We honor your trust by protecting the privacy and security of Confidential Information that you and others share with us. We believe you should know how we collect, use and safeguard such personal information and what your options are as a valued customer of one of America's strongest, safest full-service financial institutions. This Privacy Policy shall replace and supersede any of our previous privacy notices or policies or other conflicting provisions relating to privacy matters. 
 
 **Collecting And Using Confidential Information To Serve Your Needs  
 **We gather Confidential Information from a variety of sources and use such information in order to: (i) administer our relationships with you; (ii) provide you with efficient customer service; and (iii) help us identify and determine your eligibility for other financial products and services that may be of value to you. We may collect the following Confidential Information about you from the following sources:
@@ -32,49 +40,47 @@ We continually strive to maintain complete and accurate information on you and y
 We primarily share Confidential Information about you so that we may provide you with the financial products and services that you want and expect. In order to protect your privacy, we carefully control our sharing of any such information. We will not disclose any Confidential Information to anyone, except as outlined below or as permitted or required by law. Furthermore, when serving you in a fiduciary capacity, such as a trustee, we often observe limitations on sharing Confidential Information that are stricter than those set forth below. 
 
 **_Sharing Information Within Hancock_**  
-In order to provide you with greater access to financial products and services, we share Confidential Information between the Affiliates within our corporate family, which includes financial service providers such as Hancock Bank (Mississippi), Hancock Bank of Louisiana, Hancock Bank of Florida, Hancock Bank of Alabama, Hancock Investment Services, Inc., Hancock Insurance Agency (including, J.Everett Eaves, Inc.), Harrison Finance Company, and Magna Insurance Company. To this end, we may share amongst these Affiliates all the Confidential Information that we collect as more fully explained in that section titled "Collecting and Using Confidential Information To Service Your Needs." However, you can opt out of our sharing Confidential Information with our Affiliates as discussed in greater detail later in this notice. 
+In order to provide you with greater access to financial products and services, we share Confidential Information between the Affiliates within our corporate family, which includes financial service providers such as Hancock Bank, Hancock Bank of Louisiana, Hancock Bank of Florida, Hancock Bank of Alabama, Hancock Investment Services, Inc., Hancock Insurance Agency (including, Ross-King-Walker and J.Everett Eaves, Inc.), Harrison Finance Company, and Magna Insurance Company. To this end, we may share amongst these Affiliates all the Confidential Information that we collect as more fully explained in that section titled "Collecting and Using Confidential Information To Service Your Needs." However, you can opt-out of our sharing Confidential Information with our Affiliates as discussed in greater detail later in this notice. 
 
 **_Sharing Information Outside Hancock_**  
 We do not sell Confidential Information about you to nonaffiliated third parties. 
 
 However, as do many other financial institutions, we select service companies to perform support services for us - such as marketing assistance, or work on our behalf to provide services to you - such as printing your checks. We also may enter into joint marketing agreements with other financial institutions to make available to you a greater range of financial products and services than we alone can offer. We disclose to such service providers and joint marketers Confidential Information they need in order to render such support services or to jointly market financial services. However, to this end, we may disclose any or all of the information that we collect as described in that section titled "Collecting and Using Confidential Information To Service Your Needs." We carefully choose such service providers and joint marketers and require them to comply with standards of security and confidentiality equal to those set forth in this policy and prohibit them from disclosing or using any Confidential Information solely for their own purposes.
 
-We may also disclose Confidential Information about you to nonaffiliated third parties when permitted or required by law. 
+We may also disclose Confidential Information about you to nonaffiliated third parties when permitted or required by law. We will adhere to the privacy policies and practices described in this notice even in the event that our customer relationship with you is discontinued. 
 
-We will adhere to the privacy policies and practices described in this notice even in the event that our customer relationship with you is discontinued. 
-
-**Your Opportunity To Opt Out Of Our Sharing Certain  
+**Your Opportunity To Opt-Out Of Our Sharing Certain  
 Information With Our Affiliates And Related Marketing  
 Programs Under The Fair Credit Reporting Act**
 
   
-**Information We Can Share With Our Affiliates ( _Unless You Tell Us Not To_ )  
+**Information We Can Share With Our Affiliates And Which Our Affiliates May Use For Marketing To You ( _Unless You Tell Us Not To_ )  
 **Unless you tell us not to, we may share with our other Affiliates in our corporate family certain information about you including: 
 
   * Information we obtain from an application for credit, such as your income and marital status;
   * Information we obtain from a consumer report, such as your credit score or credit history;
   * Information we obtain to verify representations made by you, such as your open lines of credit;
   * Information we obtain from a person regarding employment, credit or other relationship with you, such as your employment history; and
-  * Information related to your transactions or other experiences with us; 
+  * Information related to your transactions or other experiences with us.
 
 
 
-and these other Affiliates may use this information in marketing their financial products and services to you.
+Also, unless you tell us not to, our Affiliates may use this information in marketing their financial products and services to you.
 
 **Shared With Whom**  
-Affiliates within our corporate family that may receive this information include financial service providers such as banks, securities broker-dealers and insurance companies. 
+Affiliates within our corporate family that may receive this information and may use it in marketing financial products and services to you include financial service providers such as banks, securities broker-dealers and insurance companies. 
 
-**How To Tell Us Not To Share This Information With Our Affiliates  
-**If you prefer that we do not share this information with our Affiliates, you may opt out of this sharing, that is, you may direct us not to share this information by calling us toll free at **1-888-416-4502**. Also, you may write us at **Hancock Bank, Attn: Privacy Officer, Post Office Box 4019, Gulfport, MS 39502** and provide us with your name, address and social security number.
+**How To Tell Us Not To Share This Information With Our Affiliates Or Tell Our Affiliates Not To Use It In Marketing  
+**If you prefer that we do not either share this information with our Affiliates, or that our Affiliates not use such information to market their financial products and services to you, you may opt-out of this sharing and marketing, that is, you may direct us not to share this information or use this information in marketing by calling us toll free at **1-888-416-4502**. Also, you may write us at **Hancock Bank, Attn: Privacy Officer, Post Office Box 4019, Gulfport, MS 39502** and provide us with your name, address and social security number.
 
-**Impact of An Opt-Out On Direct Marketing**  
-Your decision to opt-out is also a request not to receive future marketing offers from us by direct mail, telephone, and/or e-mail. Even if you opt-out, you will continue to be contacted as necessary to service your account, be contacted by your account representative, and receive marketing information included with your regular account mailings and statements.
+**Impact Of An Opt-Out On Direct Marketing**  
+Your decision to opt-out of either the sharing of such information or our Affiliates marketing to you using such information will be treated as your request not to receive future marketing offers from us or our Affiliates by direct mail, telephone, and/or e-mail. Even if you opt-out, you will continue to be contacted as necessary to service your account, be contacted by your account representative, and receive marketing information included with your regular account mailings and statements. Furthermore, this opt-out does not apply to sharing of such information or marketing contacts by our Affiliates that you specifically authorize or request.
 
-We will honor your opt-out request within a reasonable time and thereafter will not share this information with our Affiliates. However, when we receive your opt-out request a marketing program may already be underway and you may receive a marketing offer from an Affiliate resulting from information shared prior to Hancock receiving your opt-out request. Note: Your direction to opt out only covers certain information about you that we might otherwise share with our Affiliates. Even if you opt out, we may share other information about you with our Affiliates to the extent permitted by law.  
+We will honor your opt-out request within a reasonable time and thereafter will not share this information with our Affiliates. However, when we receive your opt-out request a marketing program may already be underway and you may receive a marketing offer from an Affiliate resulting from information shared prior to Hancock receiving your opt-out request. Note: Your direction to opt-out only covers certain information about you that we might otherwise share with our Affiliates. Even if you opt-out, we may share other information about you with our Affiliates to the extent permitted by law.  
 
 
 **Joint Customers**   
-If two or more customers jointly obtain a financial product or service from us (joint customers), we treat an opt out instruction by one joint customer as applying to that joint customer only. Each joint customer may make a separate choice but any customer can opt out on behalf of the other joint customers. A customer's opt out (including an opt out made on customer's behalf by a joint customer) will apply to all accounts that he or she maintains with any Affiliate. 
+If two or more customers jointly obtain a financial product or service from us (joint customers), we treat an opt-out instruction by one joint customer as applying to that joint customer only. Each joint customer may make a separate choice but any customer can opt-out on behalf of the other joint customers. A customer's opt-out (including an opt-out made on customer's behalf by a joint customer) will apply to all accounts that he or she maintains with any Affiliate. 
 
 Please note that third parties may obtain information about you from sources other than and independent of us, such as from credit reporting agencies or public documents or records. Mailings and other solicitations based on such information are outside of our control.  
 
@@ -92,20 +98,19 @@ DMA Telephone Preference Service
 P.O. Box 1559   
 Carmel, NY 10512 
 
-This Privacy Policy applies to all affiliated companies within the Hancock Holding Company family unless we provide notice that a separate privacy policy applies to that company. However, should you receive a notice of privacy policy from an Affiliate that differs from this Privacy Policy, the terms of this Privacy Policy will govern over conflicting terms, if any, contained in such other privacy policy.  
+This Privacy Policy applies to all affiliated companies within the Hancock Holding Company, Inc. family unless we provide notice that a separate privacy policy applies to that company. However, should you receive a notice of privacy policy from an Affiliate that differs from this Privacy Policy, the terms of this Privacy Policy will govern over conflicting terms, if any, contained in such other privacy policy.  
 
 
 **Hancock Holding Company Family  
-**Hancock Bank (Mississippi)  
+**Hancock Bank  
 Hancock Bank of Louisiana  
 Hancock Bank of Florida  
 Hancock Bank of Alabama  
 Hancock Investment Services, Inc.  
-Hancock Insurance Agency (Including, J. Everett Eaves, Inc.)  
+Hancock Insurance Agency (Including, Ross-King-Walker and J. Everett Eaves, Inc.)  
 Harrison Finance Company  
-Magna Insurance Company
-
-**3/2006  
+Magna Insurance Company  
+**  
 **
 
 **WEB SITE PRIVACY POLICY NOTICE**
@@ -119,7 +124,7 @@ Hancock Bank does not collect any personal information from anyone who is merely
 Through use of a "Contact Us" feedback form, Hancock Bank invites visitors on its Web sites to send e-mail messages to Hancock Bank so that Hancock Bank may respond to inquiries regarding Hancock Bank or its products or services. Hancock Bank retains copies of these e-mail messages. The information provided by a visitor will only be used to respond to the visitor's inquiry and to provide better customer service. If Hancock Bank thinks that a particular Hancock Bank account or service might apply to you or serve your needs, then Hancock Bank may occasionally contact you at your e-mail address to inform you of the potential benefits and availability of such accounts or services. Unless otherwise stated, all e-mail inquiries initiated from Hancock Bank’s web site by the user are assumed to be non-secured and therefore may be transmitted in the "open" over the Internet. 
 
 **Applications for Products and Services**  
-Through its Web site, Hancock Bank offers opportunities to apply for various products and services online, such as PC banking and brokerage services. Visitors who choose to apply for such products and services provide personal information Hancock Bank needs to process the application. To protect the confidentiality of the information submitted, Hancock Bank uses secure socket layer (SSL) technology. SSL technology establishes a "secure" Internet session and encodes the data submitted to the Hancock Bank Web site, ensuring that the information is accessible only to an authorized Hancock Bank representative and the customer. To support SSL, customers must have an Internet browser that supports state-of-the-art 128-bit "strong" encryption, such as Netscape 2.0 and higher, Microsoft's Internet Explorer 2.0 and higher, and AOL 3.0 (Windows). A customer can tell whether a document comes from a secure server by looking at the location (URL) field. If the URL begins with https:// (instead of http://), the document comes from a secure server. After you have submitted an application online, Hancock Bank recommends that you end your browser session before leaving your computer. 
+Through its Web site, Hancock Bank offers opportunities to apply for various products and services online, such as PC banking and brokerage services. Visitors who choose to apply for such products and services provide personal information Hancock Bank needs to process the application. To protect the confidentiality of the information submitted, Hancock Bank uses secure socket layer (SSL) technology. SSL technology establishes a "secure" Internet session and encodes the data submitted to the Hancock Bank Web site, ensuring that the information is accessible only to an authorized Hancock Bank representative and the customer. To support SSL, customers must have an Internet browser that supports state-of-the-art 128-bit "strong" encryption, such as Netscape 6.1 and higher, Microsoft's Internet Explorer 6.0 and higher, and AOL 3.0 (Windows). A customer can tell whether a document comes from a secure server by looking at the location (URL) field. If the URL begins with https:// (instead of http://), the document comes from a secure server. After you have submitted an application online, Hancock Bank recommends that you end your browser session before leaving your computer. 
 
 ** Protecting Your Bank Online  
 **When you bank online with Hancock Bank, we, along with our third-party service providers who bring these services to you, have access to your information. Information is retained on our system or the system of the appropriate third-party service provider, depending upon what is required to serve your needs. We use state-of-the-art Internet technology, supported by the third-party service providers that we work with, to make online banking secure and to protect your personal information. We also require an I.D. and password to access your accounts. If you do not provide this information, we cannot establish an online banking service for you. You can also help maintain the security of your banking information by not sharing your ID or password with anyone, by changing your password regularly, and by remembering to sign off. 
@@ -131,7 +136,7 @@ Through its Web site, Hancock Bank offers opportunities to apply for various pro
 Hancock Bank offers visitors to its Web site the opportunity to inquire about employment opportunities posted on the Web site. When enabled, applicants may also submit online resumes on the Web site. The information submitted is used solely to evaluate prospective candidates and to communicate regarding an open position. 
 
 **Transactional Services**  
-Within its web-site, Hancock Bank collects personal information necessary to complete transactions or provide data requested by the visitor (for example, account balances and check clearance dates). To protect the confidentiality of the information submitted, Hancock Bank requires that visitors have a browser that supports 128-bit "strong" encryption, i.e., Netscape 2.0 and higher, Microsoft's Internet Explorer 2.0 and higher and AOL 3.0 (Windows). 
+Within its web-site, Hancock Bank collects personal information necessary to complete transactions or provide data requested by the visitor (for example, account balances and check clearance dates). To protect the confidentiality of the information submitted, Hancock Bank requires that visitors have a browser that supports 128-bit "strong" encryption, i.e., Netscape 6.1 and higher, Microsoft's Internet Explorer 6.0 and higher and AOL 3.0 (Windows). 
 
 **Use of Cookies**  
 A cookie is a small piece of information about an Internet session that may be created when a visitor accesses a Web site. Presently, Hancock Bank's Web site uses cookies to facilitate easier navigation within the site and provide a higher level of convenience for the visitor. The cookies used by Hancock Bank... 
@@ -143,7 +148,7 @@ A cookie is a small piece of information about an Internet session that may be c
 
 
 
-* **Except for Online Banking-HandyNet.** Please refer to [Online Banking FAQ](https://web.archive.org/web/20071228183621id_/http%3A//www.hancockbank.com/banking/faq_online.html) for more information regarding the use of Cookies with Online Banking. 
+* **Except for Online Banking-HandyNet.** Please refer to [Online Banking FAQ](https://web.archive.org/web/20080514202841id_/http%3A//www.hancockbank.com/banking/faq_online.html) for more information regarding the use of Cookies with Online Banking. 
 
 ** Use of Information Collected **  
 Hancock Bank uses the information collected from visitors to its Web sites to address the specific needs of those visitors and to provide better customer service, including the provision of the latest information regarding Hancock Bank products. The information collected also is used to provide a record of communications between Hancock Bank and its Web site visitors and to comply with any applicable legal and/or regulatory requirements. 
@@ -157,7 +162,7 @@ Keeping your account information accurate and up-to-date is very important. If y
 **Visitors**  
 Visitors having specific questions regarding any information may e-mail Hancock Bank at [service@hancockbank.com.](mailto:service@hancockbank.com)
 
-|  |    
+|    
   
 ---  
   
@@ -186,4 +191,4 @@ Visitors having specific questions regarding any information may e-mail Hancock 
   
   
   
-[Click Here](https://web.archive.org/web/20071228183621id_/http%3A//www.hancockbank.com/home/ob_poll.asp)
+[Click Here](https://web.archive.org/web/20080514202841id_/http%3A//www.hancockbank.com/home/ob_poll.asp)
