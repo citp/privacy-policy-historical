@@ -1,43 +1,88 @@
-> *The following text is extracted and transformed from the nlbuysell.com privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627020006id_/http%3A//www.nlbuysell.com/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlbuysell.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514021311id_/http%3A//www.nlbuysell.com/privacy.asp) for the most accurate reproduction.*
 
-# NL Buy & Sell Magazine
+# NL Buy & Sell Magazine - Online Edition
 
-    Buy & Sell Magazine has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.nfbuysell.com.
+At the Newfoundland Buy & Sell Online we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by the Newfoundland Buy & Sell Online or its subsidiaries.
 
-    We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
+If you have any questions about this Policy, please feel free to contact us through our [website](https://web.archive.org/web/20080514021311id_/http%3A//www.nlbuysell.com/contactus.asp) or [email](mailto:privacy@nlbuysell.com) us.
 
-    Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
+  
 
-    Our site's registration form requires users to give us contact information (like their name and email address), unique identifiers (like their social security number), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data for other purposes. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
 
-    This site contains links to other sites. www.nfbuysell.com is not responsible for the privacy practices or the content of such Web sites.
+## Information we collect and how we use it:
 
-    Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), unique identifiers (like their social security number), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+We offer a number of services that do not require you to register or provide any personal information to us, such as horoscopes. In order to provide our full range of services, we may collect the following types of information:
 
-    Our online surveys ask visitors for contact information (like their email address), unique identifiers (like their social security number), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected from our users is used to check the users' qualifications and bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+  * Information you provide - When you sign up to purchase the Newfoundland Buy & Sell Online online, we ask you for personal information (such as your name, email address, credit card and an account password). Credit card information is not stored in any location and only used for the purchase of the Newfoundland Buy & Sell Online Online.
+  * User communications - When you send email or other communication to the Newfoundland Buy & Sell Online, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+  * Other sites - This Privacy Policy applies to web sites and services that are owned and operated by the Newfoundland Buy & Sell Online. 
 
-    We run contests on our site in which we ask visitors for contact information (like their email address), unique identifiers (like their social security number), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected from our users is used to check the users' qualifications for registration and bill the user for products and services. Unique identifiers (like social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
 
-    We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies.
 
-**Security**  
-This site     has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+The Newfoundland Buy & Sell Online only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
 
-**Choice/Opt-Out**  
-    Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+  * Providing our products and services to users, including the display of customized content and advertising;
+  * Ensuring the technical functioning of our network; and
+  * Developing new services. 
 
-    This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-    You can call the following telephone number: 1-709-576-3285
 
-**Correct/Update**  
-    This site gives users the following options for changing and modifying information previously provided. Visit [http://www.nfbuysell.com/account.asp](https://web.archive.org/web/20040627020006id_/http%3A//www.nlbuysell.com/default.asp?page=account)
+The Newfoundland Buy & Sell Online processes personal information on our servers in Canada. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our financial institution.
 
-**Contacting the Web Site**  
-    If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   
-        Sheldon Stuckless  
-        Buy And Sell Magazine   
-        P.O. Box 8512, Station A  
-        St. John's, Newfounndland  
-        A1B 3N9  
-        [info@nfwebdevelopment.com](mailto:info@nfwebdevelopment.com)
+  
+
+
+## Choices for personal information
+
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+
+If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent.
+
+You can decline to submit personal information to any of our services, in which case the Newfoundland Buy & Sell Online may not be able to provide those services to you.
+
+  
+
+
+## Information security
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+
+We restrict access to personal information to the Newfoundland Buy & Sell Online employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+  
+
+
+## Data integrity
+
+The Newfoundland Buy & Sell Online processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+
+  
+
+
+## Accessing and updating personal information
+
+When you use the Newfoundland Buy & Sell Online services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information.
+
+  
+
+
+## Enforcement
+
+The Newfoundland Buy & Sell Online regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or the Newfoundland Buy & Sell Online's treatment of personal information by contacting us through this web site or by writing to us at
+
+Privacy Matters  
+c/o The Newfoundland Buy & Sell Online Inc.  
+50 O'Leary Avenue  
+P.O. Box 8512, Station A  
+St. John's, NL  
+A1B 3N9  
+Canada
+
+When we receive formal written complaints at this address, it is the Newfoundland Buy & Sell Online's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between the Newfoundland Buy & Sell Online and an individual.
+
+  
+
+
+## Changes to this policy
+
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Policy will be identified at the top of the page by its effective date.
