@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520182829id_/http%3A//www.metacrawler.com/info.metac/search/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514203748id_/http%3A//www.metacrawler.com/info.metac/search/help/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - MetaCrawler
 
@@ -43,7 +43,7 @@ Though we make every effort to preserve your privacy, we may need to disclose pe
 In the event InfoSpace goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.  
  **Choice/Opt-out**  
    
-We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please email us at [privacy@infospace.com](mailto:privacy@infospace.com)  
+We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please [Contact Us](http://www.metacrawler.com/info.metac/search/help/contact.htm)  
  **Notification of Changes**  
    
 If we decide to change our privacy policy, we will post those changes to this privacy statement in places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use Individually Identifiable Information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days   
@@ -60,4 +60,6 @@ InfoSpace, Inc.
 Bellevue, Washington 98004 USA   
 \+ (1) 425.201.6100 phone   
 \+ (1) 425.201.6150 fax   
-E-mail: [kidsprivacy@infospace.com](mailto:kidsprivacy@infospace.com)
+[Contact Us](http://www.metacrawler.com/info.metac/search/help/contact.htm)
+
+Policy effective Oct 11, 2007 
