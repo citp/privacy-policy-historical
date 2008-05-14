@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the gather.com privacy policy that was archived on 2007-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210061428id_/http%3A//www.gather.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gather.com privacy policy that was archived on 2008-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080514202735id_/http%3A//www.gather.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Privacy Policy | Gather</title>
-	
+
 	
 	<base href="http://www.gather.com/">
 	
-	
+
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta http-equiv="Set-Cookie" content="gathersid=www01;domain=.gather.com;path=/">
+	<meta http-equiv="Set-Cookie" content="gathersid=www07;domain=.gather.com;path=/">
 	<meta name="description" content="Gather is a place to connect with people who share your passions. Let your unique voice shine through the articles, images, reviews, or audio you publish. We'll even compensate you with Gather PointsTM. Rewarded for something you'd do for free -- now that's a pretty good deal.">
 	<meta name="keywords" content="advertising, articles, arts, best blogs, blogging, blogs, books, business, comments, community, connections, content, editorial, education, environment, family, food, gather, gather groups, gather points, gathering, groups, health, humor, ideas, images, media, money, movies, music, networks, news, online, online advertising, people, perspectives, photos, poetry, politics, profile, public radio, reviews, social networking, spirituality, sports, stories, technology, text ads, travel, user content, user-driven">
 	<meta http-equiv="imagetoolbar" content="no">
@@ -28,8 +28,8 @@
 
 	
 
-	<link rel="stylesheet" type="text/css" href="global_andre.css?8602">
-	<link rel="stylesheet" type="text/css" href="header_andre.css?8600">
+	<link rel="stylesheet" type="text/css" href="global_andre.css?">
+	<link rel="stylesheet" type="text/css" href="header_andre.css?">
 
 	<script type="text/javascript" src="js/refcookie.js"></script>
 	<script type="text/javascript">setRefCookie('');</script>
@@ -39,9 +39,13 @@
 	
 
 	<script type="text/javascript" src="js/niftycube.js"></script>
-	
-	<script src="js/prototype150.js" type="text/javascript"></script>
-	
+
+	<!-- <script src="js/prototype150.js" type="text/javascript"></script> -->
+	<script src="js/prototype160.js" type="text/javascript"></script>
+
+	<!-- the gatherAjax Library -->
+	<script src="js/gatherAjax.js" type="text/javascript"></script>
+
 	
 	
 
@@ -51,8 +55,8 @@
 
 	
 
-  <script type="text/javascript" src="js/gather-ads.js.jspf?8600"></script>
-  <script type="text/javascript" src="js/core_andre.js?8801"></script>
+  <script type="text/javascript" src="js/gather-ads.js.jspf?"></script>
+  <script type="text/javascript" src="js/core_andre.js?"></script>
 
 
 
@@ -74,8 +78,8 @@
         <div id="headerBarContent">
           <div id="headerBarRight">
             <div id="siteControls">
-              <div style="float: right;height: 20px;"><a href="register.jsp"><img src="images/header/demille/btn_jointoday.png" alt="" width="144" height="20" style="margin-bottom:-6px;margin-left:12px;" border="0"></a></div>
-              <div style="float: right;height: 20px;padding:2px 10px 0 0;"><a href="faqs.jsp">help</a><span class="linkSeparator" style="margin:0 12px;color:#fdde9a">|</span><a href="login.jsp">member sign in</a></div>
+              <div style="float: right;height: 20px;margin-left:10px"><a href="register.jsp"><img src="images/header/demille/btn_jointoday.png" alt="" width="144" height="20" style="margin-bottom:-6px;margin-left:12px;" border="0"></a></div>
+              <div style="height: 20px;padding:2px 10px 0 0;"><a href="faqs.jsp">help</a><span class="linkSeparator" style="margin:0 8px;color:#fdde9a">|</span><a href="login.jsp">member sign in</a></div>
             </div>
             <div id="notifications"></div>
           </div>
@@ -90,7 +94,7 @@
                         <option value="Video">search video</option>
                         <option value="People">search people</option>
                         <option value="Groups">search groups</option>
-                    </select> for 
+                    </select> for
                 <input id="searchInput" name="keywords" type="text" value="enter search terms here" onfocus="searchState(this);" onkeyup="isEmpty(this);" onblur="searchState(this);"></div>
                 <div id="searchArrowContainer"><input type="image" name="submit" src="images/header/demille/btn_search_arrow.png" width="21" height="16" id="searchArrow"></div>
               </form>
@@ -157,17 +161,12 @@
 
 
 
-    
-
-
-
-
 
     
 
     <div id="navSections">
         <ul>
-            <li><a href="my.jsp">My Gather</a></li><li><a href="articles.jsp?contentType=Articles&amp;filter=recent">Articles</a></li><li><a href="images.jsp?contentType=Images&amp;filter=recent">Images</a></li><li><a href="video.jsp?contentType=Video&amp;filter=recent">Video</a></li><li><a href="viewComments.jsp">Comments</a></li><li><a href="members.jsp?filter=updated">People</a></li><li><a href="viewGroups.jsp?filter=feature" class="last">Groups</a></li>
+            <li><a href="my.action">My Gather</a></li><li><a href="articles.jsp?contentType=Articles&amp;filter=recent">Articles</a></li><li><a href="images.jsp?contentType=Images&amp;filter=recent">Images</a></li><li><a href="video.jsp?contentType=Video&amp;filter=recent">Video</a></li><li><a href="viewComments.jsp">Comments</a></li><li><a href="members.jsp?filter=updated">People</a></li><li><a href="groups.jsp?filter=recent" class="last">Groups</a></li>
         </ul>
     </div>
 
@@ -196,9 +195,6 @@
 		<div style="padding: 0 5px; background-color: #fff">
 		
 		
-
-
-
 		<table border="0" cellpadding="0" cellspacing="0" id="pageTable" width="100%">
 		<tbody><tr>
 
@@ -340,13 +336,13 @@
 
 <div id="footerTop" class="t11">
 	<a href="/">Home</a> |
-	<a href="my.jsp">My Gather</a> |
+	<a href="my.action">My Gather</a> |
 	<a href="articles.jsp?contentType=Articles&amp;filter=recent">Articles</a> |
 	<a href="images.jsp?contentType=Images&amp;filter=recent">Images</a> |
 	<a href="video.jsp?contentType=Video&amp;filter=recent">Video</a> |
 	<a href="viewComments.jsp">Comments</a> |
 	<a href="members.jsp?filter=updated">People</a> |
-	<a href="viewGroups.jsp?filter=feature">Groups</a> |
+	<a href="groups.jsp?filter=recent">Groups</a> |
 	<a href="gInvitePre.jsp">Invite</a> |
 	<a href="publish.jsp">Publish</a> |
 	<a href="viewInbox.jsp">Mail</a>
@@ -359,8 +355,9 @@
 	<a href="privacy.jsp">Privacy</a> |
 	<a href="userTerms.jsp">Terms of Service</a> |
 	<a href="guidelines.jsp">Community Guidelines</a> |
-	<a href="https://advertiser.gather.com/">Advertise on Gather</a><br>
-	Version 9454, "Elvis"; <a href="copyright.jsp">Copyright</a> © 2007 Gather Inc. All rights reserved.
+	<a href="https://advertiser.gather.com/">Advertise on Gather</a> |
+	<a href="viewArticle.jsp?articleId=281474977257596">Gather Community Press</a><br>
+	Version 11141, "Hawthorne"; <a href="copyright.jsp">Copyright</a> © 2008 Gather Inc. All rights reserved.
   
 </div>&nbsp;
 
@@ -375,10 +372,10 @@
   <script type="text/javascript">
     pageLength = 0;
     msie = false;
-    
-    var avgCommentHeight = 55;    
+
+    var avgCommentHeight = 55;
     var numComments = 0;
-        
+
     if (typeof navigator.userAgent != 'undefined' && navigator.userAgent.indexOf('MSIE') != -1) {
       msie = true;
     }
@@ -386,89 +383,120 @@
     if (msie == true && (typeof colBLength == 'undefined' || colBLength == null || colBLength < 1)) {
       
       pageLength = document.body.scrollHeight;
-      
+
       numComments = 0;
 
       
       
 
      pageLength = pageLength + numComments * avgCommentHeight;
-      
+
     }
-    
+
     footColCAdBanner001 = null;
     footColCAdCPC001    = null;
     footColCAdBanner002 = null;
-    
+    footColCAdBanner003 = null;
+    footColCAdBanner004 = null;
+
     footColCAdBanner001 = document.getElementById('colCAdBanner001');
     footColCAdCPC001    = document.getElementById('colCAdCPC001');
     footColCAdBanner002 = document.getElementById('colCAdBanner002');
+    footColCAdBanner003 = document.getElementById('colCAdBanner003');
+    footColCAdBanner004 = document.getElementById('colCAdBanner004');
 
   </script>
-  
-  
+
+
   <div id="adsHolder001">
     <script type="text/javascript">
       
       if (msie == true && (pageLength > 0 && footColCAdBanner001 != null && typeof footColCAdBanner001 != 'undefined')) {
+
+ 	gatherAdFormat = "square-button";
+ 	gatherAdType = "BANNER";
+ 	gatherAdPosition = "1";
+        
+        
+
+        
+
+        show_gather_ad();
+      }
+    </script>
+  </div>
+
+  <div id="adsHolder002">
+    <script type="text/javascript">
+      
+      if (msie == true && (pageLength > 0 && footColCAdBanner002 != null && typeof footColCAdBanner002 != 'undefined')) {
 
  	gatherAdFormat = "wide-skyscraper";
  	gatherAdType = "BANNER";
  	gatherAdPosition = "1";
         
         
-        	
+
         
-        	
+
         show_gather_ad();
       }
     </script>
   </div>
-  
-  
-  <div id="adsHolder002">
+
+  <div id="adsHolder003">
+    <script type="text/javascript">
+      
+      if (msie == true && (pageLength > 0 && footColCAdBanner003 != null && typeof footColCAdBanner003 != 'undefined')) {
+
+ 	gatherAdFormat = "square-button";
+ 	gatherAdType = "BANNER";
+ 	gatherAdPosition = "2";
+        
+        
+
+        
+
+        show_gather_ad();
+      }
+    </script>
+  </div>
+
+  <div id="adsHolder004">
     <script type="text/javascript">
     
     if (msie == true)
     {
     		
               
-      if(pageLength > (264 + 600 + 143 + 300)) 
+      // lenght of header(264) + 2 125 ads + 2 wide skyscrapers + buffer
+      if(pageLength > (264 + 600 + 143 + 300))
       {
       
-      if (footColCAdCPC001 != null && typeof footColCAdCPC001 != 'undefined') {
 
-        gatherAdFormat = "gather-www";
-        gatherAdType = "text";
-        
-        
-        	
-        
-        	
-        show_gather_ad();
-        }
      
       }
       
     }
     </script>
   </div>
-  
-  
-  <div id="adsHolder003">
+
+
+
+  <div id="adsHolder005">
     <script type="text/javascript">
     
-    if (msie == true && (pageLength > (264 + 600 + 143 + 600 + 480))) {
-      if (footColCAdBanner002 != null && typeof footColCAdBanner002 != 'undefined') {
+    if (msie == true && (pageLength > (280 + 125 + 600 + 125 + 600 + 100))) {
+      if (footColCAdBanner004 != null && typeof footColCAdBanner004 != 'undefined') {
 
  	gatherAdFormat = "wide-skyscraper";
  	gatherAdType = "BANNER";
  	gatherAdPosition = "2";
         
         
-        	
+
         
-        	
+
         show_gather_ad();
       }
     }
@@ -479,7 +507,7 @@
 
 
 
-  
+
 </div>
 
 
@@ -511,8 +539,8 @@
 </style>
 <script type="text/javascript">
   function pageTips() {
-    if (typeof $('pageCellB') != 'undefined' && $('pageCellB') != null) {
-      enableTooltips("pageCellB");
+    if (typeof $('pageTable') != 'undefined' && $('pageTable') != null) {
+      enableTooltips("pageTable");
     }
   };
   
@@ -538,7 +566,11 @@ _uacct = "UA-759311-1";_udn="gather.com";urchinTracker();
 
 
 
-
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-f9eIEHI8DewDI";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-f9eIEHI8DewDI" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-f9eIEHI8DewDI.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
 
 
 
