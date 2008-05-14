@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gradschools.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220083731id_/http%3A//www.gradschools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradschools.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514203321id_/http%3A//www.gradschools.com/privacy.html) for the most accurate reproduction.*
 
 # GradSchools.com - Privacy Statement
 
-**EDUCATIONAL DIRECTORIES UNLIMITED WEBSITE PRIVACY POLICY**
+**EducationDynamics WEBSITE PRIVACY POLICY**
 
-Protecting your privacy online is a main concern at Educational Directories Unlimited The following Educational Directories Unlimited privacy policy informs how we respect your privacy and protect any information you may provide us while visiting our site or utilizing any of our services. 
+Protecting your privacy online is a main concern at EducationDynamics The following EducationDynamics privacy policy informs how we respect your privacy and protect any information you may provide us while visiting our site or utilizing any of our services. 
 
-Educational Directories Unlimited (EDU) allows full access to our online information free of charge and without requiring registration. Users may opt to register with Educational Directories Unlimited through our StudentProspector.com service. This service allows prospective students to store profiles on our servers. Profiles can then be submitted to educational institutions as the user chooses. Profiles may also be accessed by educational institutions and related businesses, according to the preferences selected by the user and stored with the profile. 
+EducationDynamics allows full access to our online information free of charge and without requiring registration. Users may opt to register with EducationDynamics through our StudentProspector.com service. This service allows prospective students to store profiles on our servers. Profiles can then be submitted to educational institutions as the user chooses. Profiles may also be accessed by educational institutions and related businesses, according to the preferences selected by the user and stored with the profile. 
 
 **What information is collected**
 
@@ -39,7 +39,7 @@ We have created several options on how your data is handled from which you may c
 
 3) STORE DATA ON OUR SERVER, AND MAKE IT AVAILABLE ONLY TO ACADEMIC INSTITUTIONS: Your profile may be utilized by EDU to service your account and inform you of EDU services. When you choose this option for your profile, your messages and profile information will be sent by email to educational institutions which you choose. Your data will be stored on our server so that you will be able to re-send it to other schools which you choose in the future. You are also able to edit and update your data. Your data may also be reviewed and accessed by other academic institutions which may contact you in an effort to recruit you to attend their institution. 
 
-4) STORE DATA ON OUR SERVER, AND MAKE IT AVAILABLE TO ACADEMIC INSTITUTIONS AND RELATED SERVICE PROVIDERS: Your profile may be utilized by EDU to service your account and inform you of EDU services. When you choose this option for your profile, your messages and profile information will be sent by email to educational institutions which you choose. Your data will be stored on our server so that you will be able to re-send it to other schools which you choose in the future. You are also able to edit and update your data. Your data may also be reviewed and accessed by other academic institutions which may contact you in an effort to recruit you to attend their institution. This option also allows related businesses (i.e. test prep services, loan providers, and other businesses deemed appropriate by Educational Directories Unlimited) to access your profile and to contact you and let you know about their products and services. 
+4) STORE DATA ON OUR SERVER, AND MAKE IT AVAILABLE TO ACADEMIC INSTITUTIONS AND RELATED SERVICE PROVIDERS: Your profile may be utilized by EDU to service your account and inform you of EDU services. When you choose this option for your profile, your messages and profile information will be sent by email to educational institutions which you choose. Your data will be stored on our server so that you will be able to re-send it to other schools which you choose in the future. You are also able to edit and update your data. Your data may also be reviewed and accessed by other academic institutions which may contact you in an effort to recruit you to attend their institution. This option also allows related businesses (i.e. test prep services, loan providers, and other businesses deemed appropriate by EducationDynamics) to access your profile and to contact you and let you know about their products and services. 
 
 **Accessibility of Profiles**
 
@@ -51,7 +51,7 @@ We provide users with 24 hour access to their personal information after it has 
 
  **Children under 16 years of age**
 
-Educational Directories Unlimited does not intend to collect information from children. All profiles stored are for those stating their age to be 16 years or older. 
+EducationDynamics does not intend to collect information from children. All profiles stored are for those stating their age to be 16 years or older. 
 
 **Aggregate Information about our users**
 
@@ -63,7 +63,7 @@ We use cookie technology within our StudentProspector.com site. We use cookies f
 
 **Information protection and security**
 
-When you submit your information to Educational Directories Unlimited, whether it be your name, address, email or phone number, we do our utmost to ensure that information is protected against loss, misuse, alteration, destruction or unauthorized access. Educational Directories Unlimited uses standard encryption tools such as SSL (Secure Socket Layer) to help protect your personal information and to keep information collected secure.
+When you submit your information to EducationDynamics, whether it be your name, address, email or phone number, we do our utmost to ensure that information is protected against loss, misuse, alteration, destruction or unauthorized access. EducationDynamics uses standard encryption tools such as SSL (Secure Socket Layer) to help protect your personal information and to keep information collected secure.
 
 >  _Encryption can be used after your data has left your internal system. Encryption renders your data unreadable using a mathematical formulae known as the key. Your data is turned back into readable form, i.e. deciphered, by applying the correct key._
 
@@ -71,7 +71,7 @@ Due to the nature of this technology, there is always a remote danger of informa
 
 Our system does provide for profiles to be sent via un-encrypted email, and may be susceptible to intercept at this point. 
 
-Employees within Educational Directories Unlimited with access to your information provided are instructed to utilize such information only in adherence to this Privacy Policy. Employees who utilize information for any reason other than the reasons stated within this policy may be subject to reprimand or even legal proceedings.
+Employees within EducationDynamics with access to your information provided are instructed to utilize such information only in adherence to this Privacy Policy. Employees who utilize information for any reason other than the reasons stated within this policy may be subject to reprimand or even legal proceedings.
 
 Third parties which access your data are instructed and agree to utilize such information only in adherence to this Privacy Policy, however EDU is not responsible for the actions of third parties.
 
@@ -81,11 +81,11 @@ Our web sites also contain links to other sites. The privacy policies of linked 
 
 If you would like to contact us for information on any of our services, information on our privacy policy, or for any reason relating to our site, we can be reached at the following:
 
-Contact Name: Educational Directories Unlimited  
-Address: 1350 Edgmont Avenue, Suite 1100, Chester, PA 19013 USA  
+Contact Name: EducationDynamics  
+Address: 1350 Edgmont Avenue, Suite 1200, Chester, PA 19013 USA  
 PH: 1-610-499-9200  
 FAX: 1-610-499-9205  
 E-mail: [privacy@StudentProspector.com ](mailto:privacy@studentprospector.com)   
-URL: [www.EDUdirectories.com ](http://www.edudirectories.com/)
+URL: [www.EducationDynamics.com ](http://www.educationdynamics.com/)
 
-Educational Directories Unlimited reserves the right to modify or supplement this Privacy Policy statement at any time. 
+EducationDynamics reserves the right to modify or supplement this Privacy Policy statement at any time. 
