@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money-zine.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012183213id_/http%3A//www.money-zine.com/About/Information/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money-zine.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514070445id_/http%3A//www.money-zine.com/About/Information/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -10,7 +10,7 @@ At Money-Zine.com, you might vote in polls or otherwise express an opinion, subs
 
 In certain sections of Money-Zine.com, only persons who provide us with the requested personally identifiable information will be able to view content targeted to community members.
 
-We also collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+We also collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows XP or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Verizon).
 
 ### How We Use the Information
 
@@ -37,6 +37,8 @@ Money-Zine.com uses only reputable third party agencies to present or serve the 
 ### Cookies
 
 To enhance your experience with Money-Zine.com, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information.
+
+Money-zine.com uses third-party advertisements to help support the website.  Advertisers (such as Google's Adsense program) may use technology such as cookies and web beacons when they advertise. This can send to these advertisers information including your IP address, ISP, the browser you're using, and in some cases whether you have Flash installed. This information is generally used for geotargeting purposes - for example, showing New York insurance advertisements to someone in New York.  They can also be used to show certain ads based on the pattern of websites you may have visited in the past.
 
 Money-Zine.com uses cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), or save your password in password-protected areas.
 
