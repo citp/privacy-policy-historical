@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alienware.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217210403id_/http%3A//www.alienware.com/sub_pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienware.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514193648id_/http%3A//www.alienware.com/sub_pages/privacy.aspx) for the most accurate reproduction.*
 
 # Alienware: Learn More About Our Privacy Policy
 
