@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myrtlebeachonline.com privacy policy that was archived on 2007-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071114004944id_/http%3A//www.myrtlebeachonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrtlebeachonline.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515012005id_/http%3A//www.myrtlebeachonline.com/privacy) for the most accurate reproduction.*
 
-# MyrtleBeachOnline.com | Privacy Policy
+# News from Myrtle Beach, South Carolina
 
 ##### Effective Date: Jan. 1, 2007.
 
