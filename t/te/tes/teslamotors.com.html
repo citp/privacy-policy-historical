@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teslamotors.com privacy policy that was archived on 2007-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011134645id_/http%3A//www.teslamotors.com/about/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teslamotors.com privacy policy that was archived on 2008-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080514203115id_/http%3A//www.teslamotors.com/about/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- start nav.header1 --><!--
 
@@ -18,6 +18,7 @@
 
 <meta http-equiv="imagetoolbar" content="no">		<meta name="verify-v1" content="6kE8PhxeFadQevRNjZjtxVoI7MYxQ1F3G5VTaxpPZ94=">
 <link rel="stylesheet" type="text/css" media="screen,projection" href="/css/main.css">
+<link rel="stylesheet" type="text/css" media="print" href="/css/print.css">
 
 <link rel="alternate" type="application/rss+xml" title="All Tesla Motors Blogs RSS Feed" href="/display_data/blog_rss_combined.xml">
 <link rel="alternate" type="application/atom+xml" title="All Tesla Motors Blogs Atom Feed" href="/display_data/blog_atom_combined.xml">
@@ -96,7 +97,7 @@ var showGreenPicker = 0;
 	function saveBuyChoices(formname) {
 	   
 		var pars = Form.serialize(formname);
-		var aj = new Ajax.Request('/buy/save_int_colors_choices.php',
+		var aj = new Ajax.Request('/buy/save_buypage_choices.php',
 			{
 				method: 'post',
 				parameters: pars,
@@ -104,7 +105,6 @@ var showGreenPicker = 0;
 			}
 		);
 	}
-	/* broken out from main ajax.request since Safari didn't like it (?!) */
 	var aftersave = function(re) {
 		res = re.responseText;
 		if (res == 't') {
@@ -115,7 +115,7 @@ var showGreenPicker = 0;
 			window.location = url;
 		}
 	}
-
+	
 
 
 function showBuy() {
@@ -322,7 +322,7 @@ function showColorPicker(ycp, sgp) {
 
 	
 										
-		for (i = 1; i < 13; i++) {
+		for (i = 1; i < 14; i++) {
 			var cl = 'colorchip color' + i;
 			if($('local_color').value == i) cl = cl + ' color-select'; 
 			$('color' + i).className = cl;
@@ -332,7 +332,7 @@ function showColorPicker(ycp, sgp) {
 				if(!showGreenPicker) {
 					$('colorpicker').className = 'cpRoundNormal';
 				} else {
-					$('colorpicker').className = 'cpRoundGreen';
+					$('colorpicker').className = 'cpRoundGreen cpSignature100';
 				}
 			
 		
@@ -575,9 +575,28 @@ function showColorPicker(ycp, sgp) {
 			}
 		}
 
+		/* open shop window */
+		function openShop() {
+			
+													
+			var arrayPageSize = getPageSize();
+			var w = arrayPageSize[0];
+			var h = arrayPageSize[1];
+			x = parseInt( (w / 2) - (812 / 2) );		// popup opens to 812 x 856
+			y = parseInt( (h / 2) - (856 / 2) );
+			win = window.open("", "shop", "width=812,height=856,scrollbars=1,status=0,toolbar=0,location=0,menubar=0,directories=0");
+			win.focus();								// bring to front
+			offsetX = self.screenX ? self.screenX : self.screenLeft;
+			offsetY = self.screenY ? self.screenY : self.screenTop;
+			win.moveTo(x + offsetX, y + offsetY);
+			win.location = "http://shop.teslamotors.com";		/* for security reasons, we have to move it before changing location */
+			
+		}
+
 		
 	
-	// --></script>
+	// -->
+	</script>
 
 
 	</head><body>
@@ -602,33 +621,32 @@ function showColorPicker(ycp, sgp) {
 	// -->
 	</script>
 
-<div id="helpnav2">
-	<img src="/images/nav/spacer.gif" style="width: 575px; height: 1px;">
-	<a id="helpnav2-discuss" href="http://www.teslamotors.com/blogs.php"><img src="/images/navrev/nav_top_blog.gif" style="margin-right: 6px; width: 53px; height: 16px; position: relative; "></a>
-	<a id="helpnav2-media" href="http://www.teslamotors.com/media/media_coverage.php"><img src="/images/navrev/nav_top_media.gif" style="margin: 0px 6px; width: 56px; height: 16px; position: relative; "></a>
-	<a id="helpnav2-customercare" href="http://www.teslamotors.com/customer_care/contact_us.php"><img src="/images/navrev/nav_top_contact.gif" style="margin: 0px 6px; width: 75px; height: 16px; position: relative; "></a>
-	<a id="helpnav2-owners" href="&#9;&#9;https://www.teslamotors.com/users/login.php?frompage=https://www.teslamotors.com/owners/yourcar.php&#10;"><img src="/images/navrev/nav_top_owners.gif" style="margin: 0px 6px; width: 67px; height: 16px; position: relative; "></a>
+<ul id="globalnav">
+	<li id="media"><a href="http://www.teslamotors.com/media/media_index.php">Media</a></li>
+	<li id="merchandise"><a href="#" onclick="openShop();">Merchandise</a></li>
+	<li id="blogs"><a href="http://www.teslamotors.com/blogs.php">Blogs</a></li>
+	<li id="contactus"><a href="http://www.teslamotors.com/customer_care/contact_us.php">Contact Us</a></li>
+	<li id="owners"><a href="/users/login.php">Owners</a></li>
 		
-	</div>
+</ul>
 
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 797px;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 797px;" class="mainnav">
 	<tbody><tr valign="top">
-									<td style="width: 777px; height: 92px;"><img src="/images/nav2/nav_logo.gif" style="width: 777px; height: 92px;"></td>
+									<td style="width: 777px; height: 92px;"><img src="/images/nav2/nav_logo.jpg" style="width: 777px; height: 92px;" usemap=""></td>
 		<td colspan="2" style="background: black; min-width: 261px;"> 			<img src="/images/nav/spacer.gif" style="width: 261px; height: 1px;">
 		</td>
 		<td style="width: 30px;" rowspan="999"> 			<img src="/images/nav/spacer.gif" style="width: 1px; height: 1px;">
 		</td>		
 	</tr>
 </tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 797px;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 797px;" class="mainnav">
 	<tbody><tr valign="top" style="height: 41px; vertical-align: top;"> 		 						<td style="width: 777px;"><img src="/images/nav2/nav_main_none.gif" style="width: 777px; height: 41px;" usemap="#nav"></td>
-		<td style="background: url(/images/nav2/nav_main_right_hoz_span.gif) repeat-x;"><img src="/images/nav/spacer.gif" style="width: 171px; height: 41px;"></td>
+		<td style="background: url(/images/nav2/nav_main_right_hoz_span.gif) repeat-x;"><img src="/images/nav/spacer.gif" style="width: 217px; height: 41px;"></td>
 		<td style="width: 19px; background: url(/images/nav2/nav_main_right_corner.gif) no-repeat;"><img src="/images/nav/spacer.gif" style="width: 19px; height: 41px;"></td>
 		<td style="width: 30px;"><img src="/images/nav/spacer.gif" style="width: 1px; height: 1px;"></td>		</tr>
 </tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 797px;">
-	<tbody><tr style="vertical-align: top;">					<td style="height: 100%; width: 42px; background: url(/images/nav2/nav_left_vert_span.gif) repeat-y;">
+	<tbody><tr style="vertical-align: top;">					<td style="height: 100%; width: 42px; background: url(/images/nav2/nav_left_vert_span.gif) repeat-y;" class="mainnav">
 			<table style="width: 42px; height: 100%;" height="100%" cellpadding="0" cellspacing="0"><tbody><tr>    
 				<td height="52" style="background: url(/images/nav2/nav_left.gif) no-repeat; height: 52px;">                         
 					<img src="/images/nav/spacer.gif" style="width: 42px; height: 52px;">
@@ -642,13 +660,13 @@ function showColorPicker(ycp, sgp) {
 						<!-- start main content area -->
 			
 						
-										<table cellpadding="0" cellspacing="0" width="100%">
+										<table cellpadding="0" cellspacing="0" width="100%" class="mainnav">
 					<tbody><tr>
 						<td id="subnavcell">
 													</td>
 					</tr>
 					<tr>
-																									<td id="thirdnav" style="height: 15px; ">
+																									<td id="thirdnav" class="thirdnav" style="height: 15px; ">
 													</td>
 					</tr>
 				</tbody></table>
@@ -772,17 +790,18 @@ function showColorPicker(ycp, sgp) {
 				<td style="width: 11px; background-color: #666;"> 			<img src="/images/nav/spacer.gif" style="width: 11px; height: 1px;">
 		</td>
 	</tr>
-</tbody></table>
-
-<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr height="1">
-		<td width="31"></td><td colspan="2" style="background-color: #666;"></td><td style="width: 30px;"></td>
+		<tr height="1">
+		<td style="border: none; width: 42px;">
+			<table cellpadding="0" cellspacing="0" border="0" height="1" width="42"><tbody><tr><td height="1" width="31"></td>
+			<td width="11" height="1" style="background-color: #666;"></td></tr></tbody></table>
+		</td><td style="min-width: 960px; background-color: #666;"><img src="/images/nav/spacer.gif" width="960" height="1"></td>
+		<td width="11" height="1" style="background-color: #666;"></td>
 	</tr>
 </tbody></table>
 
 <div class="footer">
 	
-<div id="nav">
+<div id="nav" class="hide_for_print">
 
 	<a href="http://www.teslamotors.com/about/terms.php">terms of use</a>
 		
@@ -828,7 +847,7 @@ function showColorPicker(ycp, sgp) {
 	
 	&nbsp;&nbsp;•&nbsp;&nbsp;
 	
-	<a href="http://www.teslamotors.com/media/media_coverage.php">media</a>
+	<a href="http://www.teslamotors.com/media/media_index.php">media</a>
 	
 	<br><br>
 			
@@ -836,9 +855,9 @@ function showColorPicker(ycp, sgp) {
 
  
 <div id="copyright">
-	© 2007 Tesla Motors, Inc. All rights reserved. ‘Tesla Motors’
+	© 2008 Tesla Motors, Inc. All rights reserved. ‘Tesla Motors’
 	and ‘Tesla Roadster’ are trademarks of Tesla Motors, Inc.
-	(version 1-5-0072-228)
+	(version 1-5-0199-229)
 </div></div>
 
 
@@ -863,97 +882,12 @@ function checkSub(x, e) {
 <div id="loginlayer" style=" top: 100px;">
 
 	<form id="loginform" method="post" action="https://www.teslamotors.com/users/login.php">
-
 		
-		<img src="/images/owners/button_bluebg_blue_cancel.gif" style="width: 50px; height: 19px; float: right;" class="makeHand" onclick="javascript: hideLogin();">
-		
-		<div style="padding: 10px;">
-			<p style="color: white; font-size: 150%; margin-top: 0px;">
-				Please Sign In
-			</p>
-	
-			<p style="color: white;">
-				This area is reserved exclusively for Tesla Roadster owners. 
-				It's a private place to keep tabs on your car, connect
-				with other owners, and ultimately manage maintenance.
-			</p>
-
-			<p id="login_bad" style="color: white; display: none;">
-					Sorry, either your password is incorrect or the email address you
-					entered is not in our records as belonging to a car owner. This
-					area is exclusively for those who have purchased a Tesla Motors car.
-			</p>
-			
-			<input type="hidden" name="hf" id="hf">
-			
-			<table cellpadding="0" cellspacing="0" id="cs_form" style="width: 100%;">
-				<tbody><tr>
-					<td id="cs_form_label">
-						email address
-					</td>
-					<td id="cs_form_field">
-						<input type="text" name="user" id="userfield" style="width: 180px;" onkeypress="checkSub(this, event);">
-					</td>
-				</tr>
-				<tr>
-					<td id="cs_form_label">
-						password
-					</td>
-					<td id="cs_form_field">
-						<input type="password" name="pass" id="passfield" style="width: 180px;" onkeypress="checkSub(this, event);">
-					</td>
-				</tr>
-				<tr>
-					<td style="text-align: right; width: auto;">
-						<input type="checkbox" name="keep" style="background-color: #2C3842; color: #2C3842; border: none; width: auto;">
-					</td>
-					<td id="cs_form_field">
-						<div style="margin-left: 10px;">
-							<div>Keep me signed in on this computer.</div>
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td id="cs_form_label"></td>
-					<td id="cs_form_field">
-						<div id="login_hold" style="color: white; display: none; margin-left: 10px; height: 20px;">
-							<img src="/images/nav/progress.gif" style="width: 140px; height: 14px;">
-						</div>
-						<div id="login_buttons" style="display: block; height: 20px;">
-							<img src="/images/nav/button_blue_signin.gif" style="margin-left: 10px; width: 51px; height: 19px; border: none;" class="makeHand" onclick="javascript: submitUserPass();">
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td id="cs_form_label"></td>
-					<td id="cs_form_field">
-						<span style="margin-left: 10px;">
-							<a href="/users/forgot.php">don't know your password?</a>
-						</span>
-					</td>
-				</tr>		
-				<tr>
-					<td id="cs_form_label"></td>
-					<td id="cs_form_field">
-						<span style="margin-left: 10px; margin-bottom: 0px; padding-bottom: 0px;">
-							<a href="#" onclick="$('login_need').style.display = 'block';">need your login address?</a><br>
-							<p id="login_need" style="margin-left: 10px; margin-bottom: 0px; padding-bottom: 0px; color: white; display: none;">
-								To receive or change your login email address, please
-								contact Tesla Motors Member Support at (877) 837-5238, ext. 3.
-							</p>
-						</span>
-					</td>
-				</tr>		
-
-			</tbody></table>
-	
-						<input type="hidden" id="forMakeChanges" name="forMakeChanges" value="0">
-
-		</div>
-
 	</form>
 		
 </div>		
+<div id="faqans"></div>
+
 <div id="dim-overlay" style="display: none;"></div>
 
 
@@ -966,7 +900,6 @@ function checkSub(x, e) {
 	<area shape="rect" coords="291,5,400,35" href="http://www.teslamotors.com/performance/acceleration_and_torque.php">
 	<area shape="rect" coords="401,5,478,35" href="http://www.teslamotors.com/efficiency/how_it_works.php">
 	<area shape="rect" coords="479,5,532,35" href="http://www.teslamotors.com/learn_more/foreign_oil.php">
-	<area shape="rect" coords="577,5,625,35" href="http://www.teslamotors.com/buy/buyPage1.php">
+	<area shape="rect" coords="533,5,603,35" href="http://www.teslamotors.com/buy/resyourcar.php">
 </map>
-
 </body></html>
