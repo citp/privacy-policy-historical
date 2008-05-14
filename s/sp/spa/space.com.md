@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the space.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701225449id_/http%3A//www.imaginova.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the space.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514222634id_/http%3A//www.imaginova.com/privacy) for the most accurate reproduction.*
 
 # Imaginova: About Us: History
 
@@ -8,7 +8,7 @@ Privacy Statement
 
 **
 
-Welcome to the Imaginova Corp. ("Imaginova") web properties, including the web sites Space.com, StarryNight.com, LiveScience.com, Telescope.com, SpaceNews.com, and Imaginova.com (the "Sites") all of which are owned and operated by Imaginova. Imaginova has created this Privacy Statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Sites. This Statement applies only to information collected through the Sites and not to information collected offline or through other web sites owned or operated by Imaginova. 
+Welcome to the Imaginova Corp. ("Imaginova") web properties, which include Space.com, StarryNight.com, LiveScience.com, SpaceNews.com, Aviation.com and Imaginova.com (the "Site(s)") all of which are owned and operated by Imaginova. Imaginova has created this Privacy Statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Sites. This Statement applies only to information collected through the Sites and not to information collected offline or through other web sites owned or operated by Imaginova. 
 
 **
 
@@ -22,7 +22,7 @@ There are two kinds of information web sites can obtain about you: "Anonymous In
 
 Our Sites also use cookies to keep track of your shopping cart and to make sure you do not see the same advertisements repeatedly. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit one or more of our Sites. 
 
-Some of the advertisements appearing on the Sites are delivered by third parties, such as Atlas DMT. and DoubleClick. In the course of serving advertisements to the Sites, Atlas DMT, Inc. and DoubleClick may place or recognize a unique "cookie" in your browser�s cache, and may use anonymous information (including date/time of the banner ad displayed, the ad that was displayed and the IP address of the visitor) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you and to collect statistical information. If you would like to learn more about Atlas DMT�s information gathering practices, or if you would like to "opt-out" of having a unique cookie placed on your hard drive by Atlas DMT, please click _here_. If you would like more information about DoubleClick's information gathering practices, and to know your choices about not having this information used by DoubleClick, please click _here_. 
+Some of the advertisements appearing on the Sites are delivered by third parties, such as Atlas DMT. and DoubleClick. In the course of serving advertisements to the Sites, Atlas DMT, Inc. and DoubleClick may place or recognize a unique "cookie" in your browser's cache, and may use anonymous information (including date/time of the banner ad displayed, the ad that was displayed and the IP address of the visitor) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you and to collect statistical information. If you would like to learn more about Atlas DMT's information gathering practices, or if you would like to "opt-out" of having a unique cookie placed on your hard drive by Atlas DMT, please click _here_. If you would like more information about DoubleClick's information gathering practices, and to know your choices about not having this information used by DoubleClick, please click _here_. 
 
 "Personally Identifiable Information" is any information that personally identifies you, such as your name, email address or your telephone number. Sometimes this personal information is needed when you place an order, subscribe to our email newsletter, or when you contact us. In addition, we may ask you to provide us with personal information on a voluntary basis in certain areas of our Sites. 
 
@@ -36,7 +36,7 @@ Disclosure of Information Through Business Transfers
 
 **
 
-As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information. In such transactions, user information may be among the transferred assets. Similarly, in the event that a portion or substantially all of Imaginova�s assets are sold or transferred to a third party, customer information (including your email address) would likely be one of the transferred business assets.
+As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information. In such transactions, user information may be among the transferred assets. Similarly, in the event that a portion or substantially all of Imaginova's assets are sold or transferred to a third party, customer information (including your email address) would likely be one of the transferred business assets.
 
 **
 
@@ -76,7 +76,7 @@ Correct/Update
 
 **
 
-You have a right to know about the Personally Identifiable Information that Imaginova holds about you, including the right to correct, amend or delete the information that Imaginova has on file if it is incorrect. Users may change or modify such information by emailing [info@hq.space.com](mailto:info@hq.space.com) or by visiting http://www.space.com/php/email/unsubscribe.php.
+You have a right to know about the Personally Identifiable Information that Imaginova holds about you, including the right to correct, amend or delete the information that Imaginova has on file if it is incorrect. Users may change or modify such information by emailing [newthoughts@imaginova.com](mailto:newthoughts@imaginova.com) or by visiting http://www.space.com/php/email/unsubscribe.php.
 
 **
 
@@ -84,7 +84,7 @@ Limitation of Liability
 
 **
 
-IMAGINOVA PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS THESE WEBSITES "AS IS" WITHOUT WARRANTIES OF ANY KIND. YOU ALSO AGREE THAT IMAGINOVA SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON OUR FORUMS, AND THAT YOUR USE OF ANY OF OUR FORUMS AND ANY DOWNLOADING OF MATERIALS FOUND ON OR THROUGH THE IMAGINOVA SITES� FORUMS IS DONE AT YOUR OWN RISK. FURTHER, IMAGINOVA SHALL NOT BE RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING WITOUT LIMITATION, ATLAS DMT. AND/OR DOUBLECLICK. 
+IMAGINOVA PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS THESE WEBSITES "AS IS" WITHOUT WARRANTIES OF ANY KIND. YOU ALSO AGREE THAT IMAGINOVA SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON OUR FORUMS, AND THAT YOUR USE OF ANY OF OUR FORUMS AND ANY DOWNLOADING OF MATERIALS FOUND ON OR THROUGH THE IMAGINOVA SITES' FORUMS IS DONE AT YOUR OWN RISK. FURTHER, IMAGINOVA SHALL NOT BE RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING WITOUT LIMITATION, ATLAS DMT. AND/OR DOUBLECLICK. 
 
 **
 
@@ -110,7 +110,7 @@ Imaginova Corp.
 
 New York, New York 10016
 
-[sysop@hq.space.com](mailto:sysop@hq.space.com)
+[sysadmin@imaginova.com](mailto:sysadmin@imaginova.com)
 
 _
 
