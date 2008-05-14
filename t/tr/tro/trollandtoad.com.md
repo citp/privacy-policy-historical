@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trollandtoad.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231065305id_/http%3A//www.trollandtoad.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trollandtoad.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514151715id_/http%3A//www.trollandtoad.com/privacy.php) for the most accurate reproduction.*
 
 # TrollAndToad.com: Privacy & Security
 
@@ -36,7 +36,7 @@ If you wish to remove yourself as a user, you must e-mail customer support with 
 
 **Choice/Opt-out**
 
-Our users are give the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information when you register. For example, under "[Update My Account Information](https://www.trollandtoad.com/myaccount/user.php)" under the "[My Account](https://www.trollandtoad.com/myaccount/index.php)" tab, you can choose at any time Yes or No to be on our e-mail mailing list. 
+Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information when you register. For example, under "[Update My Account Information](https://www.trollandtoad.com/myaccount/user.php)" under the "[My Account](https://www.trollandtoad.com/myaccount/index.php)" tab, you can choose at any time Yes or No to be on our e-mail mailing list. 
 
 Users of our site will never have any information collected for any outside party.
 
