@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bumbershoot.com privacy policy that was archived on 2007-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070721052931id_/http%3A//bumbershoot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumbershoot.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514160711id_/http%3A//bumbershoot.com/privacy.htm) for the most accurate reproduction.*
 
-# Bumbershoot 2007 | Privacy Policy
+# Bumbershoot 2008 | Privacy Policy
 
 #### Policy:
 
