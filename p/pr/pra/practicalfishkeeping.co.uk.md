@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the practicalfishkeeping.co.uk privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231125425id_/http%3A//www.practicalfishkeeping.co.uk/pfk/pages/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalfishkeeping.co.uk privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514195256id_/http%3A//www.practicalfishkeeping.co.uk/pfk/pages/privacy_statement.php) for the most accurate reproduction.*
 
 # Practical Fishkeeping magazine | Privacy Statement
 
-[home](https://web.archive.org/web/20071231125425id_/http%3A//www.practicalfishkeeping.co.uk/pfk/pages/home.php) » privacy statement 
+[home](https://web.archive.org/web/20080514195256id_/http%3A//www.practicalfishkeeping.co.uk/pfk/pages/home.php) » privacy statement 
 
-The Practical Fishkeeping website and its publisher, Emap Active Ltd., is committed to protecting your privacy and security. We only use the information we collect about you with your consent to process your enquiry or order and to tell you about our services. We will never wilfully disclose personal information about you to any third party, other than to process an order or enquiry, or to send you a competition prize, without first receiving your permission or unless we are under a legal obligation to do so. 
+The Practical Fishkeeping website and its publisher, Bauer Active Ltd., is committed to protecting your privacy and security. We only use the information we collect about you with your consent to process your enquiry or order and to tell you about our services. We will never wilfully disclose personal information about you to any third party, other than to process an order or enquiry, or to send you a competition prize, without first receiving your permission or unless we are under a legal obligation to do so. 
 
 ### Who else will we tell about you?
 
@@ -24,7 +24,7 @@ We welcome your questions, comments or other feedback on this website. Please em
 
 Matt Clarke  
 Practical Fishkeeping editorial  
-Emap  
+Bauer  
 Bushfield House  
 Peterborough  
 Cambridgeshire  
