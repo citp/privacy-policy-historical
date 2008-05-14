@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bbcanada.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225113932id_/http%3A//www.bbcanada.com/bb_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcanada.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514210817id_/http%3A//www.bbcanada.com/bb_privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Bed and Breakfasts Accommodation B&Bs Canada
+# Privacy
 
 **BBCanada.com**  
 **Privacy Policy Statement**
