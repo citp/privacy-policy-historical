@@ -1,20 +1,14 @@
-> *The following text is extracted and transformed from the brainybetty.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110055949id_/http%3A//www.brainybetty.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainybetty.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514220802id_/http%3A//www.brainybetty.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for this site
 
-****
-
-> ****
+> PRIVACY POLICY
 > 
-> **PRIVACY POLICY**
+> This privacy policy was last updated on 9/04/2007. 
 > 
-> This privacy policy was last updated on 6/07/2006. 
+> Brainy Betty, Inc.,  and its  other web holdings [Intellipodcast ](http://www.intellipodcast.com/)and  [LOAlibrary ](http://www.powerpointpodcast.com/)(collectively referred to as ""we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using our respective web sites. This Privacy Policy describes how we treat personal information received about you when you visit the Brainy Betty, Inc. Web Sites. 
 > 
-> Brainy Betty, Inc.,  and its  other web holdings [Carolina Beach Vacation](http://www.carolinabeachvacation.com/), [GolfIndia.net](http://www.golfindia.net/), [Intellipodcast ](http://www.intellipodcast.com/)and [ PowerPointPodcast](http://www.powerpointpodcast.com/)[ ](http://www.powerpointpodcast.com/)(collectively referred to as ""we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using our respective web sites. This Privacy Policy describes how we treat personal information received about you when you visit the Brainy Betty, Inc. Web Sites. 
-> 
-> ****
-> 
-> **Information Collected**
+> Information Collected 
 > 
 > Web Site Usage Information: We automatically collect IP addresses and web site usage information from you when you visit our Web Sites. This information helps us in evaluating how our visitors use and navigate the Web Sites **on an aggregate basis** , including the number and frequency of visitors to each page of the Web Sites, and the length of their visits. 
 > 
@@ -46,9 +40,7 @@
 > 
 > We may make third party content or services from other web sites available to you from links located on the Brainy Betty, Inc. Web Sites. These other web sites are not subject to this Privacy Policy. We recommend that you review the terms of use and privacy policy at each such web site to determine how that site protects your privacy. We are not responsible for the content of those web sites or the actions of third party web site operators. 
 > 
-> ****
-> 
-> **Security**
+> Security 
 > 
 > The personally identifiable information we collect about you is stored in limited access servers. We will maintain reasonable safeguards to protect the security of these servers and your personally identifiable information. 
 > 
@@ -56,7 +48,7 @@
 > 
 > **Exclusions**
 > 
-> Any submissions that you make to any public areas of the Brainy Betty, Inc. Web Sites including but not limited to, chat services, bulletin boards, reviews, (collectively "Public Areas") will be public and will not be subject to this Privacy Policy. We do not control, and are not responsible for, the actions of other users of the Brainy Betty Web Sites with respect to any information you post in Public Areas. In addition, information that you submit to Public Areas may be collected and used by others to send you unsolicited messages and for other purposes. 
+> Any submissions that you make to any public areas of the Brainy Betty, Inc. Web Sites including but not limited to, chat services, bulletin boards, reviews, (collectively "Public Areas") will be public and will not be subject to this Privacy Policy. We do not control, and are not responsible for, the actions of other users of the Brainy Betty Web Sites with respect to any information you post in Public Areas. In addition, information that you submit to Public Areas may be collected and used by others to send you unsolicited messages and for other purposes.
 > 
 > ****
 > 
