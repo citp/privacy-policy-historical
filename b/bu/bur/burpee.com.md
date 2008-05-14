@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the burpee.com privacy policy that was archived on 2007-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070819144145id_/http%3A//www.burpee.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burpee.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514185509id_/http%3A//www.burpee.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - Customer Service - Burpee
 
 | [Burpee Guarantee](https://web.archive.org/category/customer+service/burpee+guarantee.do)  
 ---  
 [About Burpee](https://web.archive.org/category/customer+service/about+burpee.do)  
-[Privacy and Security](https://web.archive.org/category/customer+service/privacy+and+security.do?sortby=newArrivals)  
+[Privacy and Security](https://web.archive.org/category/customer+service/privacy+and+security.do?sortby=default)  
 [Shipping Information](https://web.archive.org/category/customer+service/shipping+information.do)  
 [Contact Us](https://web.archive.org/category/customer+service/contact+us.do)  
 |  | 
