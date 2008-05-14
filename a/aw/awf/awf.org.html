@@ -1,117 +1,98 @@
-<!--The following is the downloaded HTML source of the awf.org privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211081846id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awf.org privacy policy that was archived on 2008-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080514192834id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-us"><head>
-    <title>AWF: Privacy Policy</title>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="Description" content="">
-    <meta name="Keywords" content="">
-    <script type="text/javascript" src="/flash_header/swfobject.js"></script>
-    <script type="text/javascript" src="/mainmenu.js"></script>
-    <script type="text/javascript" src="/misc.js"></script>
-    <script type="text/javascript">
-    function openwin(page) {
-        // for example, to insert the 'rangers' popup into a page, type:
-        // <a href="javascript:openwin(3);">link text</a>
-        var pages = new Array("signup","membership","baobab","rangers","thanks","sustainers");
-        var titles = new Array("AWF E-Newsletter Sign Up","AWF Membership","AWF Baobab Society","AWF E-Rangers","Thank You!","AWF Wildlife Sustainers");
-        var generator = window.open("/popups/"+pages[page]+".php","mywindow","width=500,height=260,location=0,scrollbars=yes");
-        generator.document.title = titles[page];
-        generator.document.close();
-    }
-    
-	function popUp(URL) {
-		day = new Date();
-		id = day.getTime();
-		eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=780,height=500');");
-	}
-    
-    function x_rates(usd_rate) {
-        // get USD value (from checkboxes)
-        var radio = document.getElementById('Donation_Levels').donation;
-        var rlen = radio.length;
-        for (var i = 0; i < rlen; i++) {
-            if (radio[i].checked) {
-                var usd = radio[i].value;
-                break;
-            }
-        }
-        // get conversion rate (one of the flags)
-        var xrate = document.getElementById('Donation_Levels').x_rate;
-        var rlen = xrate.length;
-        for (var j = 0; j < rlen; j++) {
-            if (xrate[j].checked) {
-                var currency_type = xrate[j].value;
-                break;
-            }
-        }
-        var converted = Math.ceil(usd / currency_type);
-        document.getElementById(usd_rate).value = converted;
-        
-        // if donation >= $1000, then send user to Baobab Society form
-        if(usd >= 1000) {
-            document.getElementById('CAMPAIGN_ID').value = '2021';
-        }
-    }
-    function validate(form)
-    {
-        var name = form.yourname;
-        var email = form.friendemail;
-        var message = form.message;
-        var validRegex = /^[^@]+@[^@]+.[a-z]{2,}$/i;
-        if (name.value == "") {
-            form.error.value = "Please enter your name.";
-            return false;
-        }
-        else if (email.value.search(validRegex) == -1) {
-            form.error.value = "Please enter a valid email address.";
-            return false;
-        }
-        else {
-            return true;
-        }
-    }
-    </script>
-    <style type="text/css">
-    @import '/style.css';
-    
-    #submenu {
-      margin: 0;
-      padding: 6px;
-      padding-left: 12px;
-    }
-    #submenu a {
-      color: #7A2226;
-      font:normal 11px 'univers 57 condensed',arial,sans;
-    }
-    #submenu a:hover {
-      color: #514A0C;
-    }
-</style>
-    <script type="text/javascript">
-    <!--
-    
-    function newImage(arg) {
-    	if (document.images) {
-    		rslt = new Image();
-    		rslt.src = arg;
-    		return rslt;
-    	}
-    }
-    
-    function changeImages() {
-    	if (document.images && (preloadFlag == true)) {
-    		for (var i=0; i<changeImages.arguments.length; i+=2) {
-    			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
-    		}
-    	}
-    }
+<title>AWF: Privacy Policy</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="Description" content="">
+<meta name="Keywords" content="">
+<link type="text/css" href="/style.css" rel="stylesheet">
+<link type="text/css" href="/javascript/jquery.tooltip.css" rel="stylesheet">
+<script type="text/javascript" src="/javascript/jquery-1.2.1.pack.js"></script>
+<script type="text/javascript" src="/javascript/jquery.tooltip.pack.js"></script>
+<script type="text/javascript" src="/javascript/jquery.dimensions.js"></script>
+<script type="text/javascript" src="/javascript/swfobject.js"></script>
+<script type="text/javascript" src="/javascript/mainmenu.js"></script>
+<script type="text/javascript" src="/javascript/misc.js"></script>
+<script type="text/javascript">
+function openwin(page) {
+    // for example, to insert the 'rangers' popup into a page, type:
+    // <a href="javascript:openwin(3);">link text</a>
+    var pages = new Array("signup","membership","baobab","rangers","thanks","sustainers");
+    var titles = new Array("AWF E-Newsletter Sign Up","AWF Membership","AWF Baobab Society","AWF E-Rangers","Thank You!","AWF Wildlife Sustainers");
+    var generator = window.open("/popups/"+pages[page]+".php","mywindow","width=500,height=260,location=0,scrollbars=yes");
+    generator.document.title = titles[page];
+    generator.document.close();
+}
 
-    // -->
-    </script>
-    <style type="text/css">
-        @import '/style.css';
-    </style>
+function popUp(URL) {
+	day = new Date();
+	id = day.getTime();
+	eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=780,height=500');");
+}
+
+function x_rates(usd_rate) {
+    // get USD value (from checkboxes)
+    var radio = document.getElementById('Donation_Levels').donation;
+    var rlen = radio.length;
+    for (var i = 0; i < rlen; i++) {
+        if (radio[i].checked) {
+            var usd = radio[i].value;
+            break;
+        }
+    }
+    // get conversion rate (one of the flags)
+    var xrate = document.getElementById('Donation_Levels').x_rate;
+    var rlen = xrate.length;
+    for (var j = 0; j < rlen; j++) {
+        if (xrate[j].checked) {
+            var currency_type = xrate[j].value;
+            break;
+        }
+    }
+    var converted = Math.ceil(usd / currency_type);
+    document.getElementById(usd_rate).value = converted;
+    
+    // if donation >= $1000, then send user to Baobab Society form
+    if(usd >= 1000) {
+        document.getElementById('CAMPAIGN_ID').value = '2021';
+    }
+}
+function validate(form)
+{
+    var name = form.yourname;
+    var email = form.friendemail;
+    var message = form.message;
+    var validRegex = /^[^@]+@[^@]+.[a-z]{2,}$/i;
+    if (name.value == "") {
+        form.error.value = "Please enter your name.";
+        return false;
+    }
+    else if (email.value.search(validRegex) == -1) {
+        form.error.value = "Please enter a valid email address.";
+        return false;
+    }
+    else {
+        return true;
+    }
+}
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+</script>
 </head>
 <body>
     <div id="container">
@@ -170,10 +151,10 @@
             <table width="100%" border="0" cellpadding="0" cellspacing="0">
             <tbody><tr>
               <td class="left">
-                    <img src="/files/3624_file_Elephantshrew_Thomson.JPG" width="544" height="161">    		      </td>
+<img src="/files/3616_file_Buffalo_Haviland.JPG" width="544" height="161">    		      </td>
     		      
         <td class="right" style="width: 210px">
-        As its name suggests, the elephant shrew is the most massive of the shrew family. They can grow to an astonishing one and a half pounds.
+        Outside national parks in East Africa, buffaloes frequently come into conflict with humans. Though still numerous in many parts of East Africa, in some areas buffaloes have been eliminated or greatly reduced in number.
               </td>
             </tr>
             </tbody></table>
@@ -182,23 +163,40 @@
             <table id="mainContent" cellpadding="0" border="0" cellspacing="0" width="750">
                 <tbody><tr>
                     <td id="breadCrumbTD" colspan="2">
-                        <div id="breadCrumb" style="width: 400px">
+
+                        <div style="float:right; width:420px; text-align:right; padding-right:5px">
+                        	<a href="/section/_email"><img src="/images/button_email_page.gif" alt="Email This Page" style="border:0; vertical-align:bottom"></a>
+                        	<a href="javascript:popUp('/section/_footer/_privacy?print=true')"><!--
+							--><img src="/images/button_print.gif" alt="Print This Page" style="border:0; vertical-align:bottom"></a>
+                        	<form method="post" action="/section/enews_signup" style="display:inline">
+                        		<input type="text" onclick="this.value='';" id="email_signup" name="email_signup" value="Sign up for eNewsletter" style="border:1px solid #333; width:165px; padding:0; margin:0" alt="">
+                        		<input type="image" src="/images/button_go.gif" style="vertical-align:middle; padding-bottom:4px">
+                        	</form>
+<script type="text/javascript">
+$(function() {
+	$('#email_signup').Tooltip({ 
+		delay: 0,
+		track: true,
+		showURL: false,
+		showBody: " - ",
+		extraClass: "pretty",
+		fixPNG: true,
+		left: -120
+	});
+});
+</script>
+                        </div>
+
+                        <div id="breadCrumb">
 <a href="/">
     Home</a>
 &gt;
     Privacy Policy                        </div>
-                        <div id="printPage">
-                            <a href="javascript: openwin(0);"><img src="/images/button_enews.gif" width="114" height="21" alt="eNews Sign Up" border="0"></a>
-                            <a href="/section/_email"><img src="/images/button_email_page.gif" alt="Email This Page" width="101" height="21" border="0"></a>
-
-							<a href="javascript:popUp('/section/_footer/_privacy?print=true')"><!--
-							--><img src="/images/button_print.gif" alt="Print This Page" width="101" height="21" border="0"></a>
-                        </div>
                         <div class="clear"></div>
                     </td>
                 </tr>
                 <tr>
-                    <td class="content">   
+                    <td class="content">
                     <!-- START CONTENT -->
                         <table border="0" cellspacing="0" cellpadding="0">
                             <tbody><tr>
@@ -302,4 +300,4 @@ your
     <br><br>
 
 
-</body></html>
+<div id="tooltip" style=""><h3></h3><div class="body"></div><div class="url"></div></div></body></html>
