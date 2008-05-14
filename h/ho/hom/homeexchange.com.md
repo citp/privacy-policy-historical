@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220213853id_/http%3A//homeexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514161845id_/http%3A//homeexchange.com/privacy.php) for the most accurate reproduction.*
 
 # HomeExchange.com
 
@@ -54,7 +54,7 @@ HomeExchange.com is committed to meeting the highest level of standards for our 
 HomeExchange.com reserves the right to amend this statement. We may alter this agreement as needed to adopt additional rules and practices consistent with this statement to conform to the policies or requirements of our countries of service. We may alter this statement as needed for certain products and services and to abide by any local laws or regulations. Please review this statement whenever you visit our Web site in order to obtain the most current version of our policy.
 
 **Copyright**  
-These materials (including without limitation all text, images, logos, and design) are **Copyright© 2007 HomeExchange.com Inc. All rights reserved**. The information presented here may not under any circumstances be resold or redistributed for compensation of any kind. HomeExchange.com may be used for noncommercial individual home exchange purposes only.
+These materials (including without limitation all text, images, logos, and design) are **Copyright© 2008 HomeExchange.com Inc. All rights reserved**. The information presented here may not under any circumstances be resold or redistributed for compensation of any kind. HomeExchange.com may be used for noncommercial individual home exchange purposes only.
 
 The design, format and content of the HomeExchange.com Web site is protected by all applicable national and international copyright and trademark laws. There are no exceptions.
 
