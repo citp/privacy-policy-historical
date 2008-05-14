@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontrack.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211104519id_/http%3A//www.ontrack.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontrack.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514203254id_/http%3A//www.ontrackdatarecovery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ontrack® Data Recovery
 
