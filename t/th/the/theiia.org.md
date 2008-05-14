@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiia.org privacy policy that was archived on 2007-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071122041039id_/http%3A//www.theiia.org/theiia/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiia.org privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514155450id_/http%3A//www.theiia.org/theiia/privacy-policy) for the most accurate reproduction.*
 
 # IIA Privacy Policy - The Institute of Internal Auditors
 
