@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the health24.com privacy policy that was archived on 2007-08-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070809095752id_/http%3A//www.health24.com/about/Privacy_policy/13-700.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the health24.com privacy policy that was archived on 2008-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080515210529id_/http%3A//www.health24.com/about/Privacy_policy/13-700.asp) for the most accurate reproduction.-->
 
 <html xmlns:ie=""><head>
 <title>Health 24 - About</title>
@@ -36,6 +36,29 @@ oHomePage.setHomePage("http://www.health24.com");
 alert ("Thank you for making Health24 your homepage.");
 }
 </script>
+<!-- REVENUE SCIENCE AD TAG CODE -->
+<script type="text/javascript" language="JavaScript" charset="utf-8">
+<!--
+var rsi_segs = [];
+var segs_beg=document.cookie.indexOf('rsi_segs=');
+if(segs_beg>=0){
+segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+if(segs_beg>0){
+var segs_end=document.cookie.indexOf(';',segs_beg);
+if(segs_end==-1)segs_end=document.cookie.length;
+rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+}
+}
+var segLen=20
+var segQS="",segArr=new Array()
+if (rsi_segs.length<segLen){segLen=rsi_segs.length}
+for (var i=0;i<segLen;i++){
+segArr=rsi_segs[i].split("_")
+if (segArr.length>1) segQS+=("rsi"+"="+segArr[1]+";")
+}
+//-->
+</script>
+<!-- END REVENUE SCIENCE AD TAG CODE -->
 <script language="JavaScript" src="http://www.24.com/scripts/portal_ajax.js"></script>
 <script language="JavaScript" src="http://www.24.com/scripts/framework_scripts.js"></script>
 <script>
@@ -53,6 +76,15 @@ function srch24() {
 	return false;
 }
 </script>
+<script language="JavaScript">
+function srchHealth() {
+    redir = "http://search.health24.com/search?s=HLT&ref=HTH&"
+    + "q=" + goFind.search.value
+  	window.location.href = redir
+	return false;
+}
+</script>
+
 
 
 
@@ -75,7 +107,12 @@ function srch24() {
 </style>
 
 <table width="769" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr align="left" valign="top"><td></td></tr>
+<tbody><tr align="left" valign="top"><td>
+
+	<script type="text/javascript" language="javascript" src="' + segQS + ';dcopt=ist"></script>
+
+</td></tr>
+<tr align="right" valign="top"><td><font size="1" color="#727272">Advertisement</font></td></tr>
   <tr>
     <td align="left" valign="top" background="/images/logos/health24_toptile.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
@@ -88,13 +125,14 @@ function srch24() {
           <option value="track_location('24.Dropdown.entertain','http://www.24.com/entertainment',false,true)">Entertainment</option>
           <option value="track_location('24.Dropdown.fin24','http://www.fin24.co.za',false,true)">Fin24</option>
           <option value="track_location('24.Dropdown.food24','http://www.food24.com/Food24/',false,true)">Food24</option>
+          <option value="track_location('24.Dropdown.gotravel24','http://www.gotravel24.com/',false,true)">GoTravel24</option>
 
           <option value="track_location('24.Dropdown.health24','http://www.health24.com/',false,true)">Health24</option>
           <option value="track_location('24.Dropdown.kalahari','http://www.kalahari.net/e-trader/referral.asp?linkid=2124&amp;partnerid=4677',false,true)">Kalahari.net</option>
           <option value="track_location('***','http://mobile.24.com',false,true)">Mobile</option>
           <option value="track_location('24.Dropdown.news24','http://www.news24.com/News24/Home/0,,,00.html',false,true)">News24</option>
           <option value="track_location('24.Dropdown.property24','http://www.property24.com/property24/',false,true)">Property24</option>
-          <option value="track_location('24.Dropdown.sport','http://www.24.com/sport/',false,true)">Sport</option>
+          <option value="track_location('24.Dropdown.sport','http://www.sport24.co.za',false,true)">Sport24</option>
 
           <option value="track_location('24.Dropdown.wheels24','http://www.wheels24.co.za/Wheels24/Home/',false,true)">Wheels24</option>
           <option value="track_location('24.Dropdown.women24','http://www.women24.com/Women24/Display/Index/',false,true)">Women24</option>
@@ -102,11 +140,12 @@ function srch24() {
           <select name="select" type="select" onchange="eval(this.options[this.selectedIndex].value);" class="m24tenBlack" id="Select2">
             <option selected="selected" value="" style="font-weight: bold;">24.com services</option>
             <option value="track_location('24.Dropdown.albums','http://albums.24.com',false,true)">Albums</option>
-            <option value="track_location('24.Dropdown.blogs','http://blogs.24.com',false,true)">Blogs</option>
-
+            <option value="track_location('24.Dropdown.answerit','http://answerit.24.com/',false,true)">Answerit</option>
+	        <option value="track_location('24.Dropdown.blogs','http://blogs.24.com',false,true)">Blogs</option>
             <option value="track_location('24.Dropdown.netads','http://netads.24.com',false,true)">Classifieds</option>
             <option value="track_location('24.Dropdown.mail','http://mail.24.com',false,true)">Mail</option>
             <option value="track_location('24.Dropdown.messenger','http://messenger.24.com',false,true)">Messenger</option>
+            <option value="track_location('24.Dropdown.play','http://play.24.com',false,true)">Play</option>
           </select>         </td>
         <td width="33" valign="top"><img src="/images/logos/health24_curve.gif" width="33" height="33"></td>
         <td width="300" align="center" bgcolor="#FFFFFF" style="border-bottom:#0065a0 solid 1px; padding-bottom:4px"><div class="SearchBar">
@@ -119,7 +158,7 @@ function srch24() {
 				<option value="WORLD">World</option>
 				<option value="NEWS">News</option>
 				<option value="BL">Directories</option>
-				<option value="SHOPPING">Shopping</option>
+				<!--<option value="SHOPPING">Shopping</option>-->
 			</select>
 		</div>
 		<div class="srch_but"><input src="http://www.24.com/portal_content/uploads/24com/common/img/topbar_search.gif" class="srchbut" border="0" height="20" type="image" width="62"></div>
@@ -136,7 +175,7 @@ function srch24() {
       <tbody><tr>
         <td><a href="http://www.health24.com/"><img src="/images/logos/health24_logo.gif" width="222" height="64" border="0"></a></td>
         <td><img src="/images/logos/health24_devider.gif" width="2" height="58"></td>
-		<td style="padding-right:5px; padding-left:5px;"><img src="/images/site/top_pics/main/1942/veggies1_59.jpg" border="0"></td><td class="toppics"><a href="/Pregnancy/Pre_pregnancy/1198-1199-1202,41449.asp"><b>10 food tips for fertility</b></a><br>Difficulty falling pregnant? The solution may be in your grocery cupboard.</td><td width="10" align="center"><img src="/images/logos/health24_devider.gif" width="2" height="58"></td><td style="padding-right:5px; padding-left:5px;"><img src="/images/site/top_pics/main/1942/beauty1_59.jpg" border="0"></td><td class="toppics"><a href="/antiageing/Theories_of_ageing/3685-3688,40638.asp"><b>Looking good</b></a><br>How you look affects your life. The good news is that you can win at this game.</td>        
+			<td style="padding-right:5px; padding-left:5px;"><img src="/images/site/top_pics/main/1942/book2_59.jpg" border="0"></td><td class="toppics"><a href="/Woman/General/711-3633-3634,46403.asp"><b>What we're reading</b></a><br>Check out what we've been reading at Health24. We think you'll like these too.</td><td width="10" align="center"><img src="/images/logos/health24_devider.gif" width="2" height="58"></td><td style="padding-right:5px; padding-left:5px;"><img src="/images/site/top_pics/main/1942/daydream_59.jpg" border="0"></td><td class="toppics"><a href="/news/Teens/1-950,46416.asp"><b>Sexism rife in schools</b></a><br>Teen girls in the US and SA are experiencing sexism in schools. Read these shocking stats.</td>        
   </tr>
 </tbody></table>
 
@@ -147,33 +186,32 @@ function srch24() {
   <td colspan="9"><img src="/images/spacer.gif" width="1" height="1"></td>
  </tr>
  <tr> 
-  <form name="goFind" method="post" action="/search/result.asp"></form>
-   <input type="hidden" name="complete" value="checkbox">
-   <td class="search_corner"><img src="/images/header/search_corner.gif" width="10" height="28"></td>
-   <td class="search_back"><input type="text" name="search" value="" style="font: 11px Arial; background: #EFF3FA; border: 1 inset #000000"></td>
-   <td class="search_back"><img src="/images/spacer.gif" width="5" height="1"></td>
-   <td class="search_back"><button onclick="javascript:void(goFind.submit())" style="width:50; height:18; padding: 0; border: 0; cursor: pointer; cursor: hand;"><img src="/images/buttons/search.gif" width="50" height="18" border="0"></button></td>
-   <td class="search_back"><img src="/images/spacer.gif" width="5" height="1"></td>
-   <td class="search_back"><button onclick="javascript:void(location.href='/search/?adv=' + goFind.search.value)" style="width:67; height:18; padding: 0; border: 0; cursor: pointer; cursor: hand;"><img src="/images/buttons/adsearch.gif" width="67" height="18" border="0"></button></td>
-   <td class="search_back"><img src="/images/spacer.gif" width="9" height="1"></td>
-   <td><img src="/images/spacer.gif" width="1" height="1"></td>
-  
   <td width="80%" align="center" class="search_back2">
   <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
     <tbody><tr> 
-	 <td align="center" class="search_back2">&nbsp;&nbsp;</td>
-	 <td class="search_back2"><img src="/images/header/strips.gif" width="2" height="19"></td>
-	 <td align="center" nowrap="" class="search_back2">&nbsp;&nbsp;<a href="/about/Terms_and_conditions/13-703.asp">TERMS</a>&nbsp;&nbsp;</td>
-	 <td class="search_back2"><img src="/images/header/strips.gif" width="2" height="19"></td>
-	 <td align="center" nowrap="" class="search_back2">&nbsp;&nbsp;<a href="/about/Newsletter/13-697.asp?from=/about/Privacy_policy/13-700.asp" style="color:#FF0000">NEWSLETTER</a>&nbsp;&nbsp;</td>
-	 <td class="search_back2"><img src="/images/header/strips.gif" width="2" height="19"></td>
-	 <td align="center" class="search_back2"><a href="#" onclick="javascript:fnSet();">MAKE HEALTH24 YOUR HOMEPAGE</a>&nbsp;&nbsp;	   <!-- a href="javascript:void(openWindow('/tour/popup.asp','501','297','0'))" style="font: bold 14px">TAKE THE HEALTH24 TOUR!</a //-->	   &nbsp;&nbsp;</td>
+	 <td width="1%" align="center" class="search_back2">&nbsp;&nbsp;</td>
+	 <td width="1%" class="search_back2"><img src="/images/header/strips.gif" width="2" height="19"></td>
+	 <td width="9%" align="center" nowrap="" class="search_back2">&nbsp;&nbsp;<a href="/about/Terms_and_conditions/13-703.asp">TERMS</a>&nbsp;&nbsp;</td>
+	 <td width="1%" class="search_back2"><img src="/images/header/strips.gif" width="2" height="19"></td>
+	 <td width="15%" align="center" nowrap="" class="search_back2">&nbsp;&nbsp;<a href="/tools/dailytip/">GET A DAILY HEALTH TIP</a>&nbsp;&nbsp;</td>
+	 <td width="1%" class="search_back2"><img src="/images/header/strips.gif" width="2" height="19"></td>
+	  <td width="41%"><table width="100%">
+	    <tbody><tr>
+	   <form name="goFind" method="post" action="#" onsubmit="javascript: return srchHealth();"></form>
+  		 <input type="hidden" name="complete" value="checkbox">
+  		  <td width="73%" align="center" class="search_back2" valign="middle">&nbsp;&nbsp;<input type="text" name="search" value="" style="font: 11px Arial; background: #EFF3FA;width:100%"></td>
+ 		  <td width="27%" align="center" class="search_back2" valign="bottom"><input src="/images/_about/topbar_search.gif" class="srchbut" border="0" height="20" type="image" width="62"></td>
+	  
+	  </tr></tbody></table></td>
+	 <td width="3%" class="search_back2"><img src="/images/header/strips.gif" width="2" height="19"></td>
+	 <td width="27%" align="center" class="search_back2"><a href="#" onclick="javascript:fnSet();">MAKE HEALTH24 YOUR HOMEPAGE</a>	   <!-- a href="javascript:void(openWindow('/tour/popup.asp','501','297','0'))" style="font: bold 14px">TAKE THE HEALTH24 TOUR!</a //--></td>
 
 	 <td class="search_back2"><img src="/images/header/strips.gif" width="2" height="19"></td>
 	 <td class="search_back2">&nbsp;&nbsp;</td>
 
 	</tr>
-   </tbody></table></td>
+   </tbody></table>
+</td>
  </tr>
 </tbody></table>
 <table width="769" border="0" cellspacing="0" cellpadding="0">
@@ -209,7 +247,9 @@ function srch24() {
     <td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
     <td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/child/833.asp'">CHILD</td>
     <td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
-    <td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/teens/735.asp'">TEENS</td>
+    <td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/teens/735.asp'">TEEN</td>
+    <td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
+    <td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/medical/Focus_centres/777-2268-3749.asp'">SUN</td>
   </tr>
 </tbody></table>
 <table width="769" border="0" cellspacing="0" cellpadding="0">
@@ -223,7 +263,9 @@ function srch24() {
 	<td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
     <td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/medical/MedsYou/777-786.asp'">MEDS</td>
     <td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
-    <td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/medical/Focus_centres/777-2268-2552.asp'">PET </td>
+    <td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/medical/Condition_centres/777-792-3000.asp'">ORAL</td>
+    <td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
+	<td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/medical/Focus_centres/777-2268-2552.asp'">PET </td>
     <td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
 	<td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/mind/1284.asp'">MIND</td>
     <td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
@@ -231,9 +273,9 @@ function srch24() {
     <td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
 	<td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/videos/'">VIDEOS</td>
     <td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
-    <td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/antiageing/Celebs_/3685-3691.asp'">LIFESTYLE CHALLENGE </td>
+    <td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/antiageing/3685.asp'">ANTI-AGEING</td>
     <td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
-	<td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')"><a href="http://www.medpages.co.za/mpweb/guest_login.php?username=guest@health24.co.za&amp;userpwd=guest" target="_blank"><font style="font: 11px Verdana; color: #FFFFFF; text-decoration: none ">FIND</font></a></td>
+    <td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/antiageing/Celebs_/3685-3691-3766.asp'">CELEBRITIES</td>
     <td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
 	<td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/competitions/'">WIN</td>
     <td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
@@ -242,13 +284,14 @@ function srch24() {
     <td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/experts/979.asp'">EXPERTS</td>
     <td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
     <td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')" onclick="location.href = '/talk/2282.asp'">TALK</td>
+    <td width="1"><img src="/images/spacer.gif" width="1" height="1"></td>
+    <td class="top_nav" align="center" style="cursor: pointer; cursor: hand;" onmouseover="topNav('1')" onmouseout="topNav('0')"><a href="http://www.medpages.co.za/processlogin.php?username=guest@health24.co.za&amp;passphrase=guest" target="_blank"><font style="font: 11px Verdana; color: #FFFFFF; text-decoration: none ">FIND</font></a></td>
   </tr>
 </tbody></table>
 <table width="769" border="0" cellspacing="0" cellpadding="0">
  <tbody><tr> 
   <td align="center" class="top_black" colspan="2"><img src="/images/spacer.gif" width="1" height="2"></td>
  </tr>
-
 </tbody></table>
 <script language="VBScript">
 	function topNav(onoff)
@@ -270,7 +313,9 @@ function srch24() {
 
 <table width="750" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr valign="top"> 
-    <td width="140"><table width="140" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="navhead" height="40" colspan="2"><a href="/about/13.asp">About</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/About_us/13-698.asp">About us</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Contact_us/13-704.asp">Contact us</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Newsletter/13-697.asp">Newsletter sign-up</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Syndication/13-699.asp">Syndication</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Advertising/13-702.asp">Advertising</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Terms_and_conditions/13-703.asp">Terms and conditions</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav_on">&nbsp;</td><td class="nav_on" height="25" width="100%"><a href="/about/Privacy_policy/13-700.asp">Privacy policy</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Content_policy/13-705.asp">Content policy</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Disclaimer/13-701.asp">Disclaimer</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Take_a_tour/13-706.asp">Take a tour</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="navhead" colspan="2"><img src="/images/spacer.gif" width="1" height="4"></td></tr></tbody></table></td>
+    <td width="140"><table width="140" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="navhead" height="40" colspan="2"><a href="/about/13.asp">About</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/About_us/13-698.asp">About us</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Contact_us/13-704.asp">Contact us</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Newsletter/13-697.asp">Newsletter sign-up</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td>
+    <td class="nav" height="25" width="100%"><a href="http://www.health24.com/about/Funding/13-4064.asp">Funding</a></td>
+    </tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Syndication/13-699.asp">Syndication</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Advertising/13-702.asp">Advertising</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Terms_and_conditions/13-703.asp">Terms and conditions</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav_on">&nbsp;</td><td class="nav_on" height="25" width="100%"><a href="/about/Privacy_policy/13-700.asp">Privacy policy</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Content_policy/13-705.asp">Content policy</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Disclaimer/13-701.asp">Disclaimer</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="nav">&nbsp;</td><td class="nav" height="25" width="100%"><a href="/about/Take_a_tour/13-706.asp">Take a tour</a></td></tr><tr><td colspan="2"><img src="/images/spacer.gif" width="1" height="1"></td></tr><tr><td class="navhead" colspan="2"><img src="/images/spacer.gif" width="1" height="4"></td></tr></tbody></table></td>
     <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
     <td width="470"><table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
@@ -298,9 +343,21 @@ and <a class="main_link" href="/about/Content_policy/13-705.asp">editorial &amp;
  <tr> 
   <td align="center">&nbsp;</td>
  </tr>-->
-
+	  
  <tr> 
-  <td align="center"><table cellpadding="0" cellspacing="0" border="0" width="120" bgcolor="#FFCC00">
+  <td align="center"><style type="text/css">
+#newsletterlink
+{
+	color:#FF0000;
+	text-decoration:none;
+	font-weight:bold;
+}
+#newsletterlink:hover
+{
+	text-decoration:underline;
+}
+</style>
+<table cellpadding="0" cellspacing="0" border="0" width="120" bgcolor="#FFCC00">
  <tbody><tr> 
   <td align="center" style="font: 11px Verdana; padding: 2px"><b>Subscribe to...</b></td>
  </tr>
@@ -315,12 +372,6 @@ and <a class="main_link" href="/about/Content_policy/13-705.asp">editorial &amp;
  <tr> 
   <td style="font: 11px Verdana; padding: 2px"><input type="checkbox" name="wtip" value="w" checked="" style="background: ''; border: ''">
 	 <font color="#FF0000">*</font>Weekly tip</td>
- </tr>
- <tr> 
-  <td style="font: 11px Verdana; padding: 2px"><input type="checkbox" name="c" value="1" checked="" style="background: ''; border: ''"> Newsletter</td>
- </tr>
- <tr> 
-  <td style="font: 11px Verdana; padding: 2px"><input type="checkbox" name="c" value="28" checked="" style="background: ''; border: ''"> Special offers</td>
  </tr>
  <tr> 
   <td bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="1" height="1"></td>
@@ -338,6 +389,9 @@ and <a class="main_link" href="/about/Content_policy/13-705.asp">editorial &amp;
   <td align="center" style="padding: 2px"><button onclick="javascript:void(joinH24())" style="width:68; height:18; padding: 0; border: 0; cursor: hand"><img src="/images/buttons/submit2.gif" width="68" height="18" border="0"></button></td>
  </tr>
  <tr> 
+  <td style="font: 11px Verdana; padding: 2px"><span style="font-weight:normal">Want to subscribe to our newsletters?<br><a id="newsletterlink" href="http://www.health24.com/about/Newsletter/13-697.asp?from=/Default.asp">Click here.</a></span></td>
+ </tr>
+ <tr> 
    <td align="center" style="font: 9px Verdana; padding: 2px" class="sml"><font color="#FF0000">*</font>Stand a chance to win <b>R1000</b> every month!</td>
  </tr>
  
@@ -350,8 +404,7 @@ and <a class="main_link" href="/about/Content_policy/13-705.asp">editorial &amp;
 -->
 </td>
  </tr>
-
-
+ 
  <tr> 
   <td align="center">&nbsp;</td>
  </tr>
@@ -388,47 +441,88 @@ and <a class="main_link" href="/about/Content_policy/13-705.asp">editorial &amp;
 			<table width="140" border="0" cellpadding="0" cellspacing="0">
                 <tbody><tr>
                   <td align="center" width="40"><img src="/images/buttons/dialdirect_icon.gif" width="25" height="20"></td>
-                  <td width="140" style="padding-left: 2px;" class="cclink"><a href="http://www.dialdirect.co.za/equote.asp?vdn=5923">Dial Direct Insurance</a></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink"><a href="http://ad.doubleclick.net/clk;197574301;14950480;h?http://www.directquote.co.za/emailquote.asp?vdn=5923">Dial Direct Insurance</a></td>
                 </tr>
                 <tr>
                   <td colspan="2" height="5"></td>
                 </tr>
                 <tr>
                   <td align="center" width="40"><img src="/images/buttons/1life_icon.gif" width="25" height="20"></td>
-                  <td width="140" style="padding-left: 2px;" class="cclink"><a href="http://www.1lifedirect.co.za/equote.asp?VDN=1456">Life Insurance</a></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink"><a href="http://ad.doubleclick.net/clk;197664234;14950480;m?http://www.1lifedirect.co.za/equote.asp?VDN=1453">Life Insurance</a></td>
                 </tr>
                 <tr>
                   <td colspan="2" height="5"></td>
                 </tr>
                 <tr>
                   <td align="center" width="40"><img src="/images/buttons/firstwomen_icon.gif" width="25" height="20"></td>
-                  <td width="140" style="padding-left: 2px;" class="cclink"><a href="http://www.firstforwomen.co.za/equote.asp?VDN=6737">First for Women</a></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink"><a href="http://ad.doubleclick.net/clk;197855385;14950480;v?http://www.firstforwomen.co.za/equote.asp?vdn=6737%20">First for Women</a></td>
                 </tr>
                 <tr>
                   <td colspan="2" height="5"></td>
                 </tr>
+				<tr>
+                  <td align="center" width="40"><img src="/images/buttons/ffw.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink"><a href="http://ad.doubleclick.net/clk;200263634;14950480;w?http://www.firstforwomen.co.za/lifequote.asp?vdn=1777 ">Life Insurance for Women</a></td>
+                </tr>
                 <tr>
+                  <td colspan="2" height="5"></td>
+                </tr>
+                <!--<tr>
                   <td align="center" width="40"><img src="/images/buttons/24com_icon.gif" width="25" height="20"></td>
                   <td width="140" style="padding-left: 2px;" class="cclink"><a href="http://ad.doubleclick.net/clk;73887833;14950480;v?http://netads.24.com/index.php?">Classifieds</a></td>
                 </tr>
                 <tr>
                   <td colspan="2" height="5"></td>
+                </tr> -->
+                <tr>
+                  <td align="center" width="40"><img src="/images/buttons/ab.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink"><a href="http://ad.doubleclick.net/clk;127542116;14950480;z?http://www.aquabimini.com">Anti-ageing water</a></td>
                 </tr>
                 <tr>
-                  <td align="center" width="40"><img src="/images/buttons/medScheme_icon.gif" width="25" height="20"></td>
-                  <td width="140" style="padding-left: 2px;" class="cclink"><a href="http://ad.doubleclick.net/clk;92934751;14950480;o?http://www.medquote.co.za/Optivest.aspx">Med Aid Quotes</a></td>
+                	<td colspan="2" height="5"></td>
                 </tr>
-				<tr>
+                <tr>
+                  <td align="center" width="40" valign="middle"><img src="/images/buttons/nicorette.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink" valign="middle"><a href="http://ad.doubleclick.net/clk;166111717;14949877;t?http://www.nicorette.co.za">Stop smoking!</a></td>
+                </tr>
+                 <tr>
+                	<td colspan="2" height="5"></td>
+                </tr>
+                <tr>
+                  <td align="center" width="40" valign="middle"><img src="/images/buttons/hippo.jpg" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink" valign="middle"><a href="http://ad.doubleclick.net/clk;167551970;14950480;l?http://www.hippo.co.za/?vdn=H5">Compare Quotes</a></td>
+                </tr>
+                <tr>
+                	<td colspan="2" height="5"></td>
+                </tr>
+				 <tr>
+                  <td align="center" width="40" valign="middle"><img src="/images/buttons/scan4health.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink" valign="middle"><a href="http://ad.doubleclick.net/clk;197127880;15787476;b?http://www.scan4health.co.za">Virtual body scan</a></td>
+                </tr>
+                <tr>
                   <td colspan="2" height="5"></td>
                 </tr>
                 <tr>
-                  <td align="center" width="40"><img src="/images/buttons/win.gif" width="25" height="20"></td>
-                  <td width="140" style="padding-left: 2px;" class="cclink"><a href="http://www.health24.com/competitions/">Competitions!</a></td>
+                  <td colspan="2" height="5"></td>
+                </tr>
+				 <tr>
+                  <td align="center" width="40" valign="middle"><img src="/images/buttons/pcmall.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink" valign="middle"><a href="http://pcmall.co.za/subcategories.asp?categoryid=42" target="_blank">HP Notebook Sale</a></td>
                 </tr>
                 <tr>
                   <td colspan="2" height="5"></td>
                 </tr>
-				
+				 <tr>
+                  <td align="center" width="40" valign="middle"><img src="/images/buttons/icon_healthcareAfrica.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink" valign="middle"><a href="http://ad.doubleclick.net/clk;202885412;14950508;d?http://www.healthcareexpansionafrica.com" target="_blank">Healthcare Congress</a></td>
+                </tr>
+				 <tr>
+                  <td colspan="2" height="5"></td>
+                </tr>
+				 <tr>
+                  <td align="center" width="40" valign="middle"><img src="/images/buttons/patrick.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink" valign="middle"><a href="http://www.bioharmony.co.za/event_detail.php?id=168" target="_blank">Patrick Holford tour</a></td>
+                </tr>
                 <tr>
                   <td colspan="2" height="5"></td>
                 </tr>
@@ -436,15 +530,101 @@ and <a class="main_link" href="/about/Content_policy/13-705.asp">editorial &amp;
                   <td colspan="2" height="5"></td>
                 </tr>
               </tbody></table>
-			  </td>
+		    </td>
+          </tr>
+        </tbody></table>
+        <table width="160" cellpadding="0" cellspacing="0" bgcolor="#DDDDDD" style="border-top:1px solid #666666">
+          <tbody><tr>
+            <td bgcolor="#CC0000"><img src="/images/spacer.gif" width="22" height="22"></td>
+            <td class="twelvewhite" bgcolor="#ffffff" width="198"><strong>&nbsp;Health24 links</strong></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="2" align="center"><img src="/images/spacer.gif" height="8" width="100"></td>
+          </tr>
+          <tr valign="top">
+            <td colspan="2">
+			<table width="140" border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                  <td align="center" width="40"><img src="/images/buttons/medScheme_icon.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink"><a href="http://ad.doubleclick.net/clk;193297460;14949877;d?http://quotes.medquote.co.za/Optivest.aspx" target="_blank">Medical Schemes</a></td>
+                </tr>
+                <tr>
+                  <td colspan="2" height="5"></td>
+                </tr>
+                <tr>
+                  <td align="center" width="40"><img src="/images/buttons/win.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink"><a href="http://www.health24.com/competitions/">Click here to win!</a></td>
+                </tr>
+                <tr>
+                  <td colspan="2" height="5"></td>
+                </tr>
+                <tr>
+                  <td align="center" width="40"><img src="/images/buttons/disease.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink"><a href="http://www.health24.com/medical/Condition_centres/777-792.asp">Disease info</a></td>
+                </tr>
+                <tr>
+                  <td colspan="2" height="5"></td>
+                </tr>
+                <tr>
+                  <td align="center" width="40" valign="middle"><img src="/images/buttons/newsletters.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink" valign="middle"><a href="http://www.health24.com/about/Newsletter/13-697.asp">Our newsletters</a></td>
+                </tr>
+                <tr>
+                  <td colspan="2" height="5"></td>
+                </tr>
+                  <tr>
+                  <td align="center" width="40" valign="middle"><img src="/images/buttons/daily_tip.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink" valign="top"><a href="http://www.health24.com/tools/dailytip/">Subscribe to our daily health tip and win R1000!</a></td>
+                </tr>
+                <tr>
+                  <td colspan="2" height="5"></td>
+                </tr>
+                  <tr>
+                  <td align="center" width="40" valign="middle"><img src="/images/buttons/micra.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink" valign="middle"><a href="http://www.health24.com/you_pulse/Articles/3937-3939,41877.asp">Great car deal!</a></td>
+                </tr>
+				 <tr>
+                  <td colspan="2" height="5"></td>
+                </tr>
+				<tr>
+                  <td align="center" width="40" valign="middle"><img src="/images/buttons/clicks.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink" valign="middle"><a href="http://ad.doubleclick.net/clk;198705690;14949877;h?http://www.health24.com/competitions/?action=clicks">Fill in the Flu Survey and WIN</a></td>
+                </tr>
+				<tr>
+                  <td colspan="2" height="5"></td>
+                </tr>
+				<tr>
+                  <td align="center" width="40" valign="middle"><img src="/images/buttons/blog.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink" valign="middle"><a href="http://healthblogs.24.com/">Start your own health blog</a></td>
+                </tr>
+                <!--<tr>
+                  <td colspan="2" height="5"></td>
+                </tr>
+                  <tr>
+                  <td align="center" width="40" valign="middle"><img src="/images/buttons/sex_survey.gif" width="25" height="20"></td>
+                  <td width="140" style="padding-left: 2px;" class="cclink" valign="middle"><a href="http://ad.doubleclick.net/clk;166399797;14950509;d?http://survey.health24.com/sexsurvey2007/">Sex Survey</a></td>
+                </tr> -->
+               <tr><td colspan="2" height="5"></td></tr>
+                <tr>
+                  <td colspan="2" height="5"></td>
+                </tr>
+            </tbody></table>
+		    </td>
           </tr>
         </tbody></table>
         <!-- end sponsored links -->
-        </td>
+      </td>
     </tr>
   </tbody></table>
   <br>
-  <script type="text/javascript" language="javascript" src=""></script>
+  <table><tbody><tr><td>
+   
+	<script type="text/javascript" language="javascript" src="' + segQS + '"></script>
+
+</td></tr>
+  <tr><td align="right"><font size="1" color="#727272">Advertisement</font></td></tr>
+  </tbody></table>
+  <br>
 </div>
 
 <table width="769" border="0" cellpadding="0" cellspacing="0">
@@ -507,15 +687,15 @@ and <a class="main_link" href="/about/Content_policy/13-705.asp">editorial &amp;
   
  <tr> 
     
-  <td align="center" class="sml">© Health24 2000-2007. All rights reserved</td>
+  <td align="center" class="sml">© Health24 2000-2008. All rights reserved</td>
  </tr>
  <tr>
   <td align="center" class="sml"><a href="http://www.opa.org.za" target="_blank"><img src="/images/logos/opa.gif" width="73" height="39" border="0"></a>&nbsp;&nbsp;<a href="http://www.media24digital.com/" target="_blank"><img src="/images/logos/24_health.gif" width="125" height="46" border="0"></a></td>
  </tr>
  <tr>
   <td align="center" class="sml">
-  <a href="http://www.hon.ch/HONcode/Conduct.html?HONConduct564544" target="_blank"><img src="/images/hon_logo.gif" border="0"></a><br>
-We subscribe to the HONcode principles. <a href="http://www.hon.ch/HONcode/Conduct.html?HONConduct564544" target="_blank">Verify here</a></td>
+ <table cellspacing="2" cellpadding="2" border="0"> <tbody><tr><td><script type="text/javascript" src="https://www.hon.ch/HONcode/Sealjs/HONconduct/HONConduct564544.js"> </script> <script type="text/javascript"> print_honcode_logo(4,1); </script></td> <td align="left" style="width:160px; font-size:0.7em">We comply with the <a href="http://www.hon.ch/HONcode/Conduct.html" onclick="window.open(this.href); return false;"> HONcode standard for trustworthy health</a><br>information.<br> <a href="https://www.hon.ch/HONcode/Conduct.html?HONConduct564544" onclick="window.open(this.href); return false;">Verify here</a>. </td> </tr> </tbody></table>  
+ </td>
  </tr>
 </tbody></table>
 </td><td>
@@ -534,11 +714,10 @@ google_color_link = "0000CC";
 google_color_url = "008000";
 google_color_text = "6F6F6F";
 //--></script>
-<div style="position:absolute; left:785px; top:850px;">
+<div style="position:absolute; left:785px; top:1420px;">
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div>
-
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -546,42 +725,29 @@ _uacct = "UA-294533-1";
 urchinTracker();
 </script>
 
-<!-- START NetRatings OPA Measurement V5.1.1 -->
-<!-- COPYRIGHT 2003 NetRatings Limited -->
-<div id="SiteCensus" style="position:absolute; top:20px; left:20px;  z-index:-1; visibility: hidden">
-<script language="JavaScript" type="text/javascript">
-<!--
-var _rsCI="za-media24";
-var _rsCG="0";
-var _rsDT=1;
-var _rsDU=0;
-var _rsDO=0;
-var _rsX6=0;
-var _rsSI=escape(window.location);
-var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
-var _rsRP=escape(document.referrer);
-var _rsND=_rsLP+'//secure-za.imrworldwide.com/';
+<!-- START REVENUE SCIENCE PIXELLING CODE -->
+<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=H07612"></script>
+<script type="text/javascript" language="JavaScript" charset="utf-8">
+DM_tag();
+</script>
+<!-- END REVENUE SCIENCE PIXELLING CODE -->
 
- if (parseInt(navigator.appVersion)>=4)
- {
-     var _rsRD=(new Date()).getTime();
-     var _rsSE=1;    
-     var _rsSV="";
-     var _rsSM=1.0;
-     _rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v51.js"><\/scr'+'ipt>';
- }
- else
- {
-     _rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
- }
- document.write(_rsCL);
-//-->
-</script><script language="JavaScript" type="text/javascript" src="https://secure-za.imrworldwide.com/v51.js"></script>
+
+<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
+<!-- COPYRIGHT 2006 Nielsen//NetRatings -->
+<script type="text/javascript">
+ var _rsCI="za-media24";  /* client ID */ 
+ var _rsCG="0";  /* content group */ 
+ var _rsDN="//secure-za.imrworldwide.com/";  /* data node */ 
+ var _rsCC=0;  /* to turn on whether to check for existing cookie, 0=off 1=on */ 
+ var _rsSE=1;  /* to turn on surveys, 0=off 1=on */ 
+ var _rsSM=1.0;  /* maxumum survey rate, 1.0=100% */ 
+</script>
+<script type="text/javascript" src="//secure-za.imrworldwide.com/v52.js"></script>
 <noscript>
- <img src="http://secure-za.imrworldwide.com/cgi-bin/m?ci=za-media24&cg=0" alt=""/>
+ <img src="http://secure-za.imrworldwide.com/cgi-bin/m?ci=za-media24&amp;cg=0" alt=""/>
 </noscript>
-</div>
-<!-- END NetRatings OPA Measurement V5.1.1 -->
+<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
 
 
 
