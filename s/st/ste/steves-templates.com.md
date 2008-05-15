@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steves-templates.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217062509id_/http%3A//www.steves-templates.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steves-templates.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515205347id_/http%3A//www.steves-templates.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Steve's free website templates
 
@@ -25,4 +25,4 @@ Steves-Templates.com server logs information about visitors, including IP addres
 Limited information is supplied to Steves-Templates.com in the event of a sale. This includes your name, IP Address and website domain name. This information is not sold or distributed to third parties. Credit card payments are processed through [PayPal.com](http://www.paypal.com/). This information is collected solely for PayPal to securely process the order, and is not accessible to Steves-Templates.com
 
   
-All questions and concerns should be directed [here](mailto:Steve@Steves-Templates.com). 
+All questions and concerns should be directed here: 
