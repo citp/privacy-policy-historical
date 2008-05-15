@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616053131id_/http%3A//www.gazetteextra.com/terms.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515101632id_/http%3A//www.gazettextra.com/privacypolicy) for the most accurate reproduction.*
 
-# Terms of Use and Privacy Policy| The Janesville Gazette | Janesville, Wisconsin, USA
+# GazetteXtra
 
-|  **Terms of Use and Privacy Policy** PLEASE READ THESE TERMS OF USE AND PRIVACY POLICY CAREFULLY BEFORE USING GAZETTEEXTRA.COM, JANESVILLEHOMEFRONT.COM OR JANESVILLECLASSIFIEDS.COM. By using one or more of these sites, you signify your assent to these terms of use. If you do not agree to these terms of use, please do not use these sites.
+PLEASE READ THESE TERMS OF USE AND PRIVACY POLICY CAREFULLY BEFORE USING GAZETTEXTRA.COM, JANESVILLEHOMEFRONT.COM OR JANESVILLECLASSIFIEDS.COM. By using one or more of these sites, you signify your assent to these terms of use. If you do not agree to these terms of use, please do not use these sites.
 
 **TERMS OF USE**
 
@@ -49,14 +49,3 @@ The Janesville Gazette, Bliss Communications, Inc., and Bliss New Media are affi
 **Our right to revise this policy**
 
 The Internet is an ever-changing medium. We reserve the right to alter or amend this policy as required by changes in business strategy or developments in technology. If changes are required, we will post the changes before they go into effect. The use of information gathered while the current policy is in effect will be consistent with the current policy, even if we change the policy later.
-
-**Questions or concerns**
-
-Please send your questions and concerns about this policy to:
-
-Grant M. VanderVelden  
-Director of New Media, The Janesville Gazette  
-[grantv@gazetteextra.com](mailto:grantv@gazetteextra.com)
-
-|  |    
-|  | 
