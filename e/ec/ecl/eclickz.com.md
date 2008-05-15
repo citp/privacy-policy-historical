@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eclickz.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227074541id_/http%3A//www.eclickz.com/about/privacy.php/%3Fref%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclickz.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515233052id_/http%3A//www.eclickz.com/about/privacy.php) for the most accurate reproduction.*
 
 # eClickZ - Privacy Policy
 
@@ -7,7 +7,7 @@ Privacy Policy
 **Why We Collect Personal Information**  
 eClickz.com collects personal information to personalize your experience with our site. The more we know about you, the more we can present you with information and features that will interest you. The facts you provide, along with data stored in your personal "cookie," (see below) may also be used to make your online experience faster and more convenient.
 
-We also use user information to measure our success and performance. For example, aggregate information gives us an idea of the number of visitors we attract and how they navigate they site. The information we collect enables us to contact users with offers and advertisements that may appeal to them. At times, we may also use the information we collect to notify members of site updates and to promote special events at eClickz.com.
+We also use user information to measure our success and performance. For example, aggregate information gives us an idea of the number of visitors we attract and how they navigate they site. The information we collect enables us to contact users with offers and advertisements that may appeal to them. At times, we may also use the information we collect to notify members of site updates and to promote special events at eClickZ.com.
 
 **How We Gather Data on eClickz.com Users**  
 We gather information in a number of ways, depending on the section of our site you are using. If you are an advertiser and join our services, we may ask you for contact information. This information is used for account management purposes so we can better suit your needs. Your personal information will never be gathered without your knowledge or understanding.
