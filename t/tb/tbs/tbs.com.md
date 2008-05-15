@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tbs.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024151837id_/http%3A//www.tbs.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbs.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516015302id_/http%3A//www.tbs.com/general/privacy) for the most accurate reproduction.*
 
-# tbs.com - tbs privacy policy
+# tbs privacy policy
 
 |    
 
@@ -87,7 +87,7 @@ E-mail administration
 CNN.com  
 One CNN Center  
 Atlanta, GA 30303  
-e-mail: [privacy.tbssuperstation@turner.com](mailto:privacy.tbssuperstation@turner.com)
+e-mail: [privacy.tbssuperstation@turner.com](mailto:privacy.tbssuperstation@turner.com?subject=TBS:)
 
 * * *
 
@@ -99,7 +99,7 @@ The site you are visiting is one of the our general audience sites. For more inf
 
 How to Contact Us
 
-If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at [privacy.tbssuperstation@turner.com](mailto:privacy.tbssuperstation@turner.com). 
+If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at [privacy.tbssuperstation@turner.com](mailto:privacy.tbssuperstation@turner.com?subject=TBS:). 
 
 * * *
 
