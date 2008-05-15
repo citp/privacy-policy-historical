@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515234332id_/http%3A//www.paydayuk.co.uk/getting-started/privacy-policy.html) for the most accurate reproduction.*
+
+# Payday UK Borrow up to £750, no faxing, no fuss, instantly!
+
+**1** We may as a result of your interaction with the Website hold and process personal information obtained about you when you access the Website and use it for making lending decisions and servicing our relationship with you, for the purposes of fraud prevention and debt collection, to understand your financial needs, to conduct our business and to provide you with better customer services and products from both MEM Consumer Finance Ltd and those of selected third parties, to evaluate the effectiveness of our marketing of the Website and for statistical analysis. We may pass this information to other members of MEM Consumer Finance Ltd or agents, as permitted by law so that they may do the same and they may pass information held by them about you to us so that we may do the same. We will not disclose any such information outside of MEM Consumer Finance Ltd except for fraud prevention purposes and/or if required/obliged by law or Governmental or judicial bodies or agencies or to our regulators under proper authority, or under a strict code of secrecy to sub-contractors or persons acting as our agents or where we have your consent or have previously informed you.
+
+**2** By submitting an application form through this site, you agree that MEM Consumer Finance Limited can contact you from time to time by post, fax, telephone or other electronic means, to tell you about other products and services, offered by ourselves or other carefully selected companies, that we believe would be of interest to you. We may also pass your information to third party financial services companies for the purpose of them telling you about their services or products.
+
+**3** All information submitted in this form is held safely and securely by MEM Consumer Finance Limited in accordance with the Data Protection Act 1998. We require all parties to whom we may pass your information to treat it with the same degree of confidentiality.  
+
+
+**4** If we transfer your information to a service provider or agent in another country we will make sure that the service provider or agent agrees to apply the same levels of protection as we are required to apply to information held and to use your information only for the purpose of providing the service to us.  
+
