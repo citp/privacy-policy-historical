@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insidelacrosse.com privacy policy that was archived on 2007-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071116175533id_/http%3A//www.insidelacrosse.com/page.cfm%3FpageRID%3D6%26news%3Dfdetail%26storyid%3D1648%26archive%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidelacrosse.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515221729id_/http%3A//www.insidelacrosse.com/page.cfm%3FpageRID%3D6%26news%3Dfdetail%26storyid%3D1648%26archive%3Dyes) for the most accurate reproduction.*
 
-# 
+# None
 
 **INSIDE LACROSSE PRIVACY POLICY**
 
