@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nflrush.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220103018id_/http%3A//www.nflrush.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nflrush.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516014201id_/http%3A//www.nflrush.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - NFLRush.com
+# Privacy Policy - NFLRUSH
 
 **Updated as of August 17, 2007**
 
 The NFLRUSH website is new and improved! We have added new games, activities and features to the site for your enjoyment and learning. Our Privacy Policy has been re-written and while it does not substantially differ from our previous Privacy Policy, we encourage you to read and understand it. Your privacy is important to us.
 
-The owners (The National Football League Enterprises, its respective representatives and subsidiaries, on behalf of the National Football League)and producers (Brandissimo!, Inc.), collectively referred to in this Privacy Policy as "we," "us" and "our," of the NFLRUSH website respect your privacy rights and recognize the importance of protecting the Personal Information (as defined below) provided by you and/or your child to the NFL and its representatives and/or subsidiaries.
+The owners (The National Football League Enterprises, its respective representatives and subsidiaries, on behalf of the National Football League) and producers (Brandissimo!, Inc.), collectively referred to in this Privacy Policy as "we," "us" and "our," of the NFLRUSH website respect your privacy rights and recognize the importance of protecting the Personal Information (as defined below) provided by you and/or your child to the NFL and its representatives and/or subsidiaries.
 
 This Privacy Policy describes how we collect, store, and use the Personal Information you provide in conjunction with using NFLRUSH website through telephone or e-mail communications you may have with the NFLRUSH website, its respective representatives and/or subsidiaries.
 
@@ -43,11 +43,11 @@ This Privacy Policy contains the following sections:
 
 
 
-## Children's Online Privacy and Protection Act Compliance
+### Children's Online Privacy and Protection Act Compliance
 
 The Children's Online Privacy and Protection Act of 1998 requires websites that store data from users under thirteen years old to inform parents about data storage policies and obtain parental permissions. Once given, parents may revoke those permissions at any time informing us of their decision. We strictly adhere to these requirements and will make every effort to meet and exceed the requirements mandated by law.
 
-## Consent
+### Consent
 
 By using the NFLRUSH website, or any of the affiliated or associated websites, products and/or services, you acknowledge that you have read this entire Privacy Policy and you consent to the practices described herein with respect to collection, use and disclosure of the Personal Information you and/or your child ("you") provides.
 
@@ -55,9 +55,9 @@ This represents the entire and exclusive Privacy Policy and it supersedes any ea
 
 If, after review, you still have questions about any portion of this Privacy Policy, please contact us using the contact information provided at the bottom of this Privacy Policy.
 
-## Information Collection and Use
+### Information Collection and Use
 
- _Personal Information_  
+_Personal Information_  
 "Personal Information" means information that can identify a specific individual, such as your name, gender, address, phone number, e-mail address, or other contact information, whether at work or at home.
 
 In all cases in which we collect Personal Information, we specifically describe what information is collected in order to provide you with the product, service, or feature you have requested.
@@ -88,7 +88,7 @@ If you participate, you will be required to register with the NFLRUSH website, w
 
 Additionally, during the registration process you may be given the choice to opt-in to receiving additional related communications from the NFLRUSH website, our respective representatives and/or subsidiaries. If you decide to opt-in, we will use the information provided to send you communications described throughout this Privacy Policy. Out of respect for your privacy, we present the option not to receive these types of communications (please see the "Choice and Opt-Out" section of this Privacy Policy) if at any time you decide you do not wish to receive such communications.
 
-## Other Information Collected
+### Other Information Collected
 
 Some information may be collected automatically every time you visit the NFLRUSH website, such as cookies and other identifiable and non-identifiable computer information. In addition, information may be collected from other independent, third-party sources. The NFLRUSH website also collects information about which pages you visit within the website. This site visitation data is generally identified only by a unique URL
 
@@ -99,7 +99,9 @@ A cookie is an alphanumeric identifier (a file) that can be used to transfer dat
 
 The NFLRUSH website uses session ID cookies to make it easier for you to navigate the site. The NFLRUSH website uses persistent cookies to identify and track which sections of the site you most often visit. The NFLRUSH website also uses persistent cookies in areas of the site where you must register, and where you are able to customize the information you see, so that you do not have to enter your preferences more than once. These cookies do not collect Personal Information and we do not combine information collected through cookies with other Personal Information collected to determine your identity, your e-mail address or other personally identifiable information.
 
-By configuring the options in your browser, you may control how cookies are processed by your system. However, if you decline the use of cookies you may not be able to use certain features of the NFLRUSH website, and you may be required to re-enter the information required to use site during new or interrupted browser sessions. Some of our business partners (e.g., advertisers, representatives and/or subsidiaries) may use cookies on the NFLRUSH website. The producers of the NFLRUSH website have no access to or control over these cookies (see "Third Party Advertising" and "Third Party Cookies" below). Accordingly, this Privacy Policy covers the use of cookies by the NFLRUSH website only and does not cover the use of cookies by any Third Parties.
+By configuring the options in your browser, you may control how cookies are processed by your system. However, if you decline the use of cookies you may not be able to use certain features of the NFLRUSH website, and you may be required to re-enter the information required to use site during new or interrupted browser sessions.
+
+Some of our business partners (e.g., advertisers, representatives and/or subsidiaries) may use cookies on the NFLRUSH website. The producers of the NFLRUSH website have no access to or control over these cookies (see "Third Party Advertising" and "Third Party Cookies" below). Accordingly, this Privacy Policy covers the use of cookies by the NFLRUSH website only and does not cover the use of cookies by any Third Parties.
 
 THE NFLRUSH WEBSITE DOES NOT DISCLOSE ITS COOKIES TO THIRD PARTIES EXCEPT AS REQUIRED BY A VALID LEGAL PROCESS SUCH AS: SEARCH WARRANT, SUBPOENA, JURISDICTIONAL STATUTE, OR COURT ORDER.
 
@@ -119,9 +121,9 @@ To improve services and enhance personalization, the NFLRUSH website may periodi
 _Third Party Cookies_  
 Third parties associated with the NFLRUSH website, including our representatives and/or subsidiaries, may place or recognize a unique cookie on your web browser.
 
-## Use of Information
+### Use of Information
 
- _Special Offers and Updates_  
+_Special Offers and Updates_  
 The NFLRUSH website collects information about which sections and features of the site and/or game you visit most often, and we may use this information to send you information about relevant offers, promotions, contests, and sweepstakes which may interest you. Out of respect for your privacy, we present the option not to receive these types of communications (please see the "Choice and Opt-Out" section of this Privacy Policy).
 
 _Service-related Announcements_  
@@ -138,7 +140,7 @@ Based upon the Personal Information you provide, the NFLRUSH website, our respec
 _Preferences_  
 The NFLRUSH website, our representatives and/or subsidiaries store information we collect through cookies, log files, and third party sources to create a profile of your preferences, in order to improve the content of the site for you.
 
-## Information Sharing and Disclosure
+### Information Sharing and Disclosure
 
 The NFLRUSH website, our representatives and/or subsidiaries do not sell or rent any of the information collected to third parties for any purposes, but we may share information with third parties as described below.
 
@@ -152,18 +154,18 @@ _Subsidiaries and Affiliates_
 We may share your information (including, without limitation, personally identifiable information) with our subsidiaries and affiliates.
 
 _Third-Party Ad Serving & Audience and Traffic Measurement Services_  
-The NFLRUSH website may use a third-party "network advertiser" to serve the advertisements on the NFLRUSH website or may use an "audience traffic measurement service" to analyze the traffic on the NFLRUSH website. "Network advertisers" are third parties that display advertisements based on your visits to the NFLRUSH website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products or websites you might be interested in. "Audience and traffic measurement services" allow us to collect anonymous traffic and behavior information from the NFLRUSH website by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the NFLRUSH website cookies, the NFLRUSH website's advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third-party advertisers to show you advertisements or content you might be interested in. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the activities described above. See "Web Beacons and Other Tracking Activity" section above. Other companies' use of their cookies is subject to their own privacy policies, not this one. Please [click here](http://www.networkadvertising.org/consumer/opt_out.asp) in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use. 
+The NFLRUSH website may use a third-party "network advertiser" to serve the advertisements on the NFLRUSH website or may use an "audience traffic measurement service" to analyze the traffic on the NFLRUSH website. "Network advertisers" are third parties that display advertisements based on your visits to the NFLRUSH website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products or websites you might be interested in. "Audience and traffic measurement services" allow us to collect anonymous traffic and behavior information from the NFLRUSH website by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the NFLRUSH website cookies, the NFLRUSH website's advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third-party advertisers to show you advertisements or content you might be interested in. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the activities described above. See "Web Beacons and Other Tracking Activity" section above. Other companies' use of their cookies is subject to their own privacy policies, not this one. Please [click here](http://www.networkadvertising.org/managing/opt_out.asp) in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use. 
 
 _Business Transfers_  
 In the event that all or substantially all of our or the NFLRUSH website's assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer. You will be notified of such a transfer in accordance with the "Changes to the Policy" section below.
 
-## Choice and Opt-Out
+### Choice and Opt-Out
 
 We provide you with the opportunity to opt-in to having your Personal Information used for certain purposes, when you are asked for this information. For example, if you purchase a service or product you must indicate that you wish to receive additional marketing materials from the NFLRUSH website, our representatives and/or subsidiaries, such as e-mails regarding special offers, promotions, and sweepstakes ("opt-in").
 
-If you no longer wish to receive these promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication, or by e-mailing us at < NFLRUSHPrivacy@NFL.com or NFLRUSHSafety@NFL.com>. 
+If you no longer wish to receive these promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication, or by e-mailing us at < [NFLRushPrivacy@NFL.com](mailto:NFLRushPrivacy@nfl.com) or [NFLRushSafety@NFL.com](mailto:NFLRushSafety@nfl.com) >. 
 
-## Links to Other Websites
+### Links to Other Websites
 
 There may be places throughout the NFLRUSH website that may link you to other websites that do not operate under this Privacy Policy. When you click through to these websites, this Privacy Policy no longer applies.
 
@@ -172,13 +174,13 @@ The NFLRUSH website may make chat rooms, forums and message boards available to 
 
 If you decide to post messages in the forums on the NFLRUSH website, you should be aware that any Personal Information submitted there can be read, collected, or used by other users of such forums, and could be used to send you unsolicited messages. We are not responsible for the Personal Information you choose to submit on these forums.
 
-The use of the NFLRUSH website and all forums therein are governed by the [Terms of Use](https://web.archive.org/terms), a copy which is located at , which is hereby incorporated by reference. In the event there exists any inconsistency between this Privacy Policy and the [Terms of Use](https://web.archive.org/terms), regarding the use of information, the terms and conditions of this Privacy Policy shall take precedent.
+The use of the NFLRUSH website and all forums therein are governed by the [Terms of Use](https://web.archive.org/terms), a copy which is located at <http://www.nflrush.com/terms>, which is hereby incorporated by reference. In the event there exists any inconsistency between this Privacy Policy and the [Terms of Use](https://web.archive.org/terms), regarding the use of information, the terms and conditions of this Privacy Policy shall take precedent.
 
 We reserve the right to terminate your membership with the NFLRUSH website in the event you use the NFLRUSH website, including without limitations the forums, in a manner inconsistent with the [Terms of Use](https://web.archive.org/terms).
 
-## Storage and Security of Personal Information
+### Storage and Security of Personal Information
 
- _Storage_  
+_Storage_  
 The NFLRUSH website stores the information we collect on computers located in a controlled, secure facility protected from physical and/or electronic unauthorized access, use, or disclosure.
 
 _Security_  
@@ -186,7 +188,7 @@ We protect the privacy and integrity of the information collected by employing a
 
 Although we follow the procedures set forth above to protect the Personal Information submitted to us, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Thus, while the NFLRUSH website, our representatives and/or subsidiaries strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-If you have any questions about security, please feel free to send us e-mail at NFLRUSHPrivacy@NFL.com or NFLRUSHSafety@NFL.com
+If you have any questions about security, please feel free to send us e-mail at < [NFLRushPrivacy@NFL.com](mailto:NFLRushPrivacy@nfl.com) or [NFLRushSafety@NFL.com](mailto:NFLRushSafety@nfl.com) > .
 
 _Internet Fraud_  
 We have a Zero Tolerance policy for Internet fraud or any attempt to access or acquire customer and/or other information via illegal or surreptitious means. We work with local, national, and international fraud investigation agencies as required and employ a variety of electronic and other means to discourage, detect, and intercept fraudulent activities.
@@ -196,39 +198,39 @@ We will aggressively prosecute to the fullest extent of the law those perpetrato
 _Email Abuse_  
 We have a Zero Tolerance policy for e-mail abuse. Our e-mail and e-mail list administrators take strong measures to ensure that any and all of our mailing lists are NOT used for abusive purposes. Further, our e-mail mailing list administrators maintain an "Ignore List" of e-mail addresses from which all information inquiries are ignored. E-mail addresses are added to the Ignore List when our e-mail mailing list administrators receive abusive or otherwise inappropriate email from listed e-mail addresses.
 
-## Legal Disclaimer
+### Legal Disclaimer
 
 The NFLRUSH website operates "AS IS" and "AS AVAILABLE," without liability of any kind to the NFLRUSH website, our representatives and/or subsidiaries. The NFLRUSH website, our representatives and/or subsidiaries are not responsible for events beyond our direct control.
 
-## Ownership and Assignment
+### Ownership and Assignment
 
 The NFL is the sole owner of the information collected through the use of the NFLRUSH website, including and without limitation, the Personal Information, and as such, the NFLRUSH website, our representatives and/or subsidiaries may transfer or assign any and all of such information to a third party in connection with a merger, acquisition, reorganization, or sale of all or substantially all of NFLRUSH website assets, provided that in such an event the NFLRUSH website, our representatives and/or subsidiaries will provide you with a notice before information is transferred and becomes subject to a different privacy policy. Such notice will provide a description of the changes, and your options with respect to such a change in the Privacy Policy. The NFLRUSH website, our representatives and/or subsidiaries may also transfer or assign such information in connection with a bankruptcy order.
 
-## International Transfer
+### International Transfer
 
 Personal Information collected by the NFLRUSH website, our representatives and/or subsidiaries may be stored and processed in the United States and/or any other country in which the NFL or its affiliates, subsidiaries or agents maintain facilities, and by using other NFL websites, properties, products and/or services, you consent to any such transfer of Personal Information outside of your country.
 
 YOUR CALIFORNIA PRIVACY RIGHTS
 
-California Civil Code Section 1798.83 permits customers of the National Football League who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to NFLRUSHPrivacy@NFL.com or NFLRUSHSafety@NFL.com, or write us at CA Privacy Rights, NFLRUSH.com, 280 Park Avenue, New York, NY 10017.
+California Civil Code Section 1798.83 permits customers of the National Football League who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [NFLRushPrivacy@NFL.com](mailto:NFLRushPrivacy@nfl.com) or [NFLRushSafety@NFL.com](mailto:NFLRushSafety@nfl.com), or write us at CA Privacy Rights, NFLRUSH.com, 280 Park Avenue, New York, NY 10017.
 
-## Changes to this Privacy Policy
+### Changes to this Privacy Policy
 
 We will from time-to-time update this Privacy Policy, each time revising the last updated date at the top of the Privacy Policy and indicate the nature of the revisions within the statement. We will notify customers of material changes to this statement by e-mail or by placing prominent notice within the NFLRUSH website.
 
-## Questions & Comments
+### Questions and Comments
 
 If you have questions or suggestions regarding this Privacy Policy, you should first contact us using the contact information at the bottom of this Privacy Policy, and we will use all reasonable efforts to promptly determine and correct any problem(s).
 
-## Contact Information
+### Contact Information
 
-For technical support regarding use of the NFLRUSH.com site, please contact us at NFLRUSHSupport@NFL.com
+For technical support regarding use of the NFLRUSH.com site, please contact us at [NFLRUSHSupport@NFL.com](mailto:NFLRUSHSupport@NFL.com)
 
-For help regarding NFLRUSH.com safety and/or privacy, please contact us at NFLRUSHPrivacy@NFL.com or NFLRUSHSafety@NFL.com
+For help regarding NFLRUSH.com safety and/or privacy, please contact us at [NFLRushPrivacy@NFL.com](mailto:NFLRushPrivacy@nfl.com) or [NFLRushSafety@NFL.com](mailto:NFLRushSafety@nfl.com)
 
 Additionally, you may write to us at:
 
 NFLRUSH Safety & Privacy  
 Attn: NFL Legal Department  
 280 Park Avenue  
-New York, NY 10017 
+New York, NY 10017
