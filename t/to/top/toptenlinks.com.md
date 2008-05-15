@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenlinks.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610021359id_/http%3A//www.toptenlinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenlinks.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516010428id_/http%3A//www.toptenlinks.com/privacy) for the most accurate reproduction.*
 
 # Top10Links - best web sites in over 1000 categories! Find the top web sites fast!
 
@@ -230,15 +230,15 @@ Top10Links contains links to other web sites on the Internet. Please be aware th
   
 **Security of User Information:**  
   
-Top10Links takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.
+Top10Links takes every precaution to protect our users� information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
 If and when we or one of the payment processing companies we use asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL.
 
-While on a secure page, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just ‘surfing’. To learn more about SSL, click [here](http://www.ssl.com/).
+While on a secure page, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just �surfing�. To learn more about SSL, click [here](http://www.ssl.com/).
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices.
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users� information, not just the sensitive information mentioned above, is restricted in our offices.
 
-Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must reenter their password to regain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. 
+Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must reenter their password to regain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers� information is protected. 
 
 Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. If you have any questions about the security of your personal information at our website, please [contact us](https://web.archive.org/contact-us/help.php).   
   
@@ -246,9 +246,9 @@ Finally, the servers that we store personally identifiable information on are ke
   
 In order for this website to properly fulfill its obligation to our customers, it may be necessary for us to supplement the information we receive with information from 3rd party sources.
 
-For example, to determine if our customers qualify for credit terms, we may use their name and social security number to request a credit report. Once we determine a user’s creditworthiness, this document is destroyed.
+For example, to determine if our customers qualify for credit terms, we may use their name and social security number to request a credit report. Once we determine a user�s creditworthiness, this document is destroyed.
 
-Or in order for Top10Links to enhance its ability to tailor the site to an individual’s preference, we may combine information about the purchasing habits of users with similar information from our partners to create a personalized user profile. When a user makes a purchase from one of our partners, they collect and share that purchase information with us so we can tailor the site to our users’ preferences.   
+Or in order for Top10Links to enhance its ability to tailor the site to an individual�s preference, we may combine information about the purchasing habits of users with similar information from our partners to create a personalized user profile. When a user makes a purchase from one of our partners, they collect and share that purchase information with us so we can tailor the site to our users� preferences.   
   
 **Correct/Update/Delete Policy:**  
   
@@ -323,4 +323,4 @@ Browser version is a number the browser developers assign to their software prog
   
 |  **Featured Site**  
 ---  
-[](https://web.archive.org/go.php?siteid=936143353)
+[](https://web.archive.org/go.php?siteid=967178934)
