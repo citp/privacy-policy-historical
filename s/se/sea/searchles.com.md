@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchles.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223170101id_/http%3A//www.searchles.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchles.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515073553id_/http%3A//www.searchles.com/misc/privacy) for the most accurate reproduction.*
 
 # Searchles
 
@@ -75,4 +75,4 @@ You must be 13 years and older to register to use the Searchles website. As a re
 
 If you decide to visit Searchles website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
 
-Copyright ©2007 Searchles, Inc. All Rights Reserved 
+Copyright ©2008 Searchles, Inc. All Rights Reserved 
