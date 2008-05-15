@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the web-blinds.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223032549id_/http%3A//www.web-blinds.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-blinds.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515222849id_/http%3A//www.web-blinds.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# web-blinds.com : privacy policy
+# web-blinds.com - privacy policy
 
 We are fully committed to protecting your privacy. This statement describes our policy: 
 
