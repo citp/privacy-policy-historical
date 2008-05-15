@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the fansonline.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213223910id_/http%3A//www.fansonline.net/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansonline.net privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515115551id_/http%3A//www.fansonline.net/terms.htm) for the most accurate reproduction.*
 
-# FansOnline.net || The UK's Only Independant Fans Network
+# FansOnline.net || The UK's Only Independent Fans Network
 
-  
 **TERMS OF USE AND PRIVACY POLICY
 
 This website is protected by international Copyright. Copying, duplication or reproduction of content by any means whatsoever is strictly prohibited without the prior written permission of FansOnline.net.
@@ -73,7 +72,6 @@ FansOnline.net is firmly committed to data security. When you place orders, we o
 
 If you have any questions or concerns about our use of your personal information please write to:
 
-Steve Goldby  
 FansOnline.net  
 Suite 4  
 Moray House   
