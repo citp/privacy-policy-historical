@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the wfmynews2.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625044805id_/http%3A//www.wfmynews2.com/insidewfmy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfmynews2.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515052922id_/http%3A//www.digtriad.com/company/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - WFMY News 2
+# digtriad.com | WFMY News 2 | Privacy
 
-Effective Date:  September 1, 2006
+### WFMY News 2 digtriad.com Privacy Policy
 
-The following Privacy Policy governs the online information collection practices of WFMY News 2(“we” or “us”).  Specifically, it outlines the types of information that we gather about you while you are using the WFMY News 2 website (the “Site”), and the ways in which we use this information.  This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail). 
+Effective Date:  October 1, 2007
 
-Please read this Privacy Policy carefully.  By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy and our [Terms of Service](https://web.archive.org/insidewfmy/termofservice.aspx).  Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes.  By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
+The following Privacy Policy governs the online information collection practices of WFMY News 2 and digtriad.com(“we” or “us”).  Specifically, it outlines the types of information that we gather about you while you are using the digtriad.com website (the “Site”), and the ways in which we use this information.  This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail). 
+
+Please read this Privacy Policy carefully.  By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy and our [Terms of Service](https://web.archive.org/company/termofservice.aspx).  Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes.  By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
 Your California Privacy Rights
 
@@ -23,7 +25,7 @@ We may collect and store personal or other information that you voluntarily supp
 
 We also collect and store information that is generated automatically as you navigate online through the Site.  For example, we may collect information about your computer’s connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site.  We also may use a standard feature found in browser software called a “cookie” to enhance your experience with the Site.  Cookies are small files that your web browser places on your hard drive for record-keeping purposes.  By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns.  They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before.  The Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
-We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features and advertising that appear on the Site.  We also may provide your information to third parties, such as service providers, contractors, and advertisers, for a variety of purposes.  Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services.  If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties. 
+We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features and advertising that appear on the Site.  We also may provide your information to third parties, such as service providers, contractors, and advertisers, for a variety of purposes. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services.  If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties. 
 
 Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online – for example on message boards, web logs, through email, or in chat areas – that information can be seen, collected and used by others besides us.  We cannot be responsible for any unauthorized third-party use of such information. 
 
@@ -37,7 +39,7 @@ We are an affiliate of the CareerBuilder online careers service.  Through our c
 
 Likewise, we are an affiliate of the Topix.net online news service, which enables us to provide you with access to Topix.net products and services through a co-branded Topix.net site.  When you provide information through the co-branded Topix.net site, Topix.net may share your information with us and we may use that information in a manner consistent with this Privacy Policy.
 
-Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Terms of Service ](https://web.archive.org/insidewfmy/termofservice.aspx)agreement, or to protect the rights, property or safety of users of the Site or the public.
+Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Terms of Service ](https://web.archive.org/comapny/termofservice.aspx)agreement, or to protect the rights, property or safety of users of the Site or the public.
 
 Please also note that as our business grows, we may buy or sell various assets.  In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
 
@@ -60,7 +62,7 @@ This children’s privacy statement explains our practices with respect to the o
 
 How To Make Changes to Your Information
 
-If you have subscribed to one or more of our email newsletters, you may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by visiting <http://www.wfmy.com/Mail/subscribe.aspx>.
+If you have subscribed to one or more of our email newsletters, you may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by visiting [http://www.digtriad.co/reg_newsletter.aspx](http://www.wfmy.com/Mail/subscribe.aspx)
 
 Questions Regarding Privacy
 
@@ -71,15 +73,6 @@ Broadcast Division
 7950 Jones Branch Drive  
 McLean, VA 22107 
 
-|  |  Advertisement |  Advertisement  
-|  |  Advertisement  
-  
----|---|---  
-  
+|  | 
 
-
-|  |   
----|---|---  
-  
-|   |   
-|   | 
+### Latest Local & State Headlines
