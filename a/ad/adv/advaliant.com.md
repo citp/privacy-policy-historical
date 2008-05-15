@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advaliant.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212113817id_/http%3A//www.advaliant.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advaliant.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516011515id_/http%3A//www.advaliant.com/privacy.html) for the most accurate reproduction.*
 
 # The Advaliant Affiliate Network: AdValiant Opens New Offices In California and Florida
 
@@ -38,4 +38,4 @@ Contact us any time and we'll answer any additional questions you may have. Our 
 
 Updated May 16, 2005.
 
-[Return to our company overview ](https://web.archive.org/web/20071212113817id_/http%3A//www.advaliant.com/company_overview.html)
+[Return to our company overview ](https://web.archive.org/web/20080516011515id_/http%3A//www.advaliant.com/company_overview.html)
