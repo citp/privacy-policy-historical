@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the digtriad.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029055328id_/http%3A//www.digtriad.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digtriad.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515052922id_/http%3A//www.digtriad.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # digtriad.com | WFMY News 2 | Privacy
+
+### WFMY News 2 digtriad.com Privacy Policy
 
 Effective Date:  October 1, 2007
 
@@ -72,3 +74,5 @@ Broadcast Division
 McLean, VA 22107 
 
 |  | 
+
+### Latest Local & State Headlines
