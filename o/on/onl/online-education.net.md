@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2007-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070710073002id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515090458id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
 
 # Online-Education.net - Privacy Statement & Policy
 
@@ -16,12 +16,4 @@ This web site contains links to other sites. Please be aware that we are not res
 
 ### Cookies
 
-This site uses no cookies of any type. Other websites and companies with a theme similar to ours may use cookies on their website. Cookies are often used for advertising purposes. We do not have control or rights over the actions of these cookies. 
-
-### Log Files/Web Traffic Reporting
-
-We use web site traffic reporting services to solely track the search engines on our server and keep the reports for internal use; we do not use these reports to identify individual users except in cases of deliberate misuse of our systems. We do not share our server usage logs with third parties. 
-
-### Registration
-
-In some areas of this site, you will be asked to provide information that will used to follow-up with you on more information about a school, course, or contact form. Your participation is completely optional. The information is only used internally and only provided to the school you wish to Receive information from. 
+This site uses no cookies of any type. Other websites and companies with a theme similar to ours may use cookies on the
