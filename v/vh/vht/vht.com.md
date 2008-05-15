@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vht.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202224743id_/http%3A//www.vht.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vht.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515063206id_/http%3A//www.vht.com/privacy.asp) for the most accurate reproduction.*
 
 # VHT - Real Estate Photography, Virtual Tours, 360 Images, Video Production
 
