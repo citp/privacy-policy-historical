@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawsons.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213134217id_/http%3A//www.dawsons.co.uk/Articles/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawsons.co.uk privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515234142id_/http%3A//www.dawsons.co.uk/Articles/PrivacyPolicy) for the most accurate reproduction.*
 
 # Dawsons.co.uk - Welcome to Dawsons Online, the UK's largest retailer of Orchestral, Rock and Hi-Tech musical instruments and equipment
 
