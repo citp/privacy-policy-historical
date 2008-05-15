@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profilesnitch.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203230313id_/http%3A//www.profilesnitch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profilesnitch.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515223450id_/http%3A//www.profilesnitch.com/privacy.php) for the most accurate reproduction.*
 
 # Myspace Tracker - Profile Tracking by ProfileSnitch.com
 
@@ -8,13 +8,15 @@ This privacy policy covers how we treat personal information that we collect and
 
 **General**
 
+ProfileSnitch.com is a [MySpace Tracker](http://www.profilesnitch.com/about-myspace-trackers.php) site, which records visitor information on your MySpace profile by way of inserting special html codes in your MySpace profile. If you are unclear what a MySpace tracker is, please [follow this link](http://www.profilesnitch.com/about-myspace-trackers.php) for a full, no non-sense explanation. 
+
 We gather user information to provide you with a customized experience on our site. Your user information helps us tailor the content, services, goods and advertising to your current and future needs. For this reason, we may ask you to register or to provide personal information when you post comments, enter a contest, order products, subscribe to a newsletter and/or visit certain areas of our site. If you choose not to register you may not have access to areas that require personal identification. 
 
 If you register with our site or purchase products from us, from time to time we may e-mail you with messages about our services or third party products and services we believe may be of interest to you, such as new products, features, services, special offers and updated information. The newsletters may contain code that enables our database to track your usage of the newsletters, including whether the e-mail was opened and/or what links (if any) were clicked. We will combine that information with other information we have about you and may use that information to improve your site experience and/or provide customized e-mail communications to you. In addition, if you register with our site or purchase products you may automatically receive e-mails confirming your registration and/or purchase and providing you with necessary information relating to the access or use of your registration and/or purchase. With the exception of the e-mails described in the preceding sentence which are necessary to provide customer support and deliver products and services to you, you may opt-out of receiving e-mail from us as described below. 
 
 **Use of Services**
 
-ProfileSnitch.com makes no gauranatees to its tracking service, and by using our service the end user agrees that all liability and risk lies at their own expense. While we strive to offer a quality tracking service, we cannot promise any assurances to uptime, availability, functionality, etc. This is a free service and thusly its obligations to its users should be kept in mind as such. ProfileSnitch is in no way related to or affiliated with Myspace. 
+ProfileSnitch.com makes no gauranatees to its tracking service, and by using our service the end user agrees that all liability and risk lies at their own expense. While we strive to offer a quality tracking service, we make no assurances regarding uptime, availability, functionality, etc. Lifetime and premium monthly membership subscribers agree not to hold ProfileSnitch liable for any amount for failing to provide the service. By using the service, you understand that MySpace may render the service useless by way of blocking ProfileSnitch, or by making modifications to its own system that renders ProfileSnitch's tracking ability useless. By using our service you agree to assume this risk and further agree not to hold ProfileSnitch liable for any stoppages in the service due to MySpace or any other reason. ProfileSnitch is in no way related to or affiliated with Myspace, and is not a sanctioned service of MySpace. 
 
 **Use of Information**
 
@@ -28,7 +30,7 @@ All communication on the Internet takes place between pairs of IP Addresses. Our
 
 Your browser has options to accept, reject, or provide you with notice when a cookie is sent. A “cookie?is a small line of text that is stored with your Web browser for record-keeping purposes and to help us provide better service to you. We use cookies to save your password (in an encrypted format) on your machine so you don't have to re-enter it each time you visit our site. We also use cookies to deliver content specific to your interests and track your downloads and purchases from our site. 
 
-We use companies [Google ( Google.com ), to serve the advertisements on some of our pages. These companies and advertisers may place and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not ours. We may use your information or allow advertisers or companies that serve advertisements access to your information to determine which advertisements you will see. This information may include your demographic information, geographic location, what content you access on our site, how you rate various content, language contained in your comments and other information. 
+We use companies like Google.com, to serve the advertisements on some of our pages. These companies and advertisers may place and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not ours. We may use your information or allow advertisers or companies that serve advertisements access to your information to determine which advertisements you will see. This information may include your demographic information, geographic location, what content you access on our site, how you rate various content, language contained in your comments and other information. 
 
 Our site contains links, including banner and other ads, to other Websites. We are not responsible for the privacy practices or the content of such Websites. Our site may also link to Websites that feature our trademarks and names along with trademarks and names of other companies. You should look at the privacy policy on that co-branded Website, as the co-branded Website may not be under our control. 
 
@@ -72,14 +74,14 @@ We maintain archives of our web logs, database, and other systems and informatio
 
 **Profile**
 
-You are responsible for maintaining the accuracy of your profile by notifying us when you change your address, title, phone number, or e-mail address. If at any time you wish to update your information or stop receiving communication from us, sign in [hyperlink this] and then select ‘update your profile' to change your newsletter preferences. 
+You are responsible for maintaining the accuracy of your profile by notifying us when you change your address, title, phone number, or e-mail address. If at any time you wish to update your information or cancel communication from us, [sign in](http://www.profilesnitch.com/login.php) or [register](http://www.profilesnitch.com/register.php) and then select ['My Account'](http://www.profilesnitch.com/changeid.php) to change your preferences. 
 
 **Contact**
 
-Please address comments or questions regarding this Privacy Policy to us as follows: webmaster@profilesnitch.com. 
+Please address comments or questions regarding this Privacy Policy to us as follows: profilesnitch@tangconsulting.com. 
 
 **Binding Agreement**
 
 Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
 
-Last Revised October 16, 2006 
+Last Revised January 5th, 2008 
