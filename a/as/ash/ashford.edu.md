@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashford.edu privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014010227id_/http%3A//www.ashford.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashford.edu privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516014240id_/http%3A//www.ashford.edu/privacy) for the most accurate reproduction.*
 
 # Ashford University – Privacy Policy
 
@@ -60,4 +60,4 @@ During the education process, you may participate in online education sessions. 
 
 #### Effective Date: March 2, 2005 
 
-[Click here to view our Terms and Conditions of usage ](https://web.archive.org/web/20071014010227id_/http://www.ashford.edu/privacy/terms.php)
+[Click here to view our Terms and Conditions of usage ](https://web.archive.org/web/20080516014240id_/http://www.ashford.edu/privacy/terms.php)
