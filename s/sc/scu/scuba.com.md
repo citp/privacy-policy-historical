@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scuba.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226223838id_/http%3A//www.scuba.com/resources/security_and_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scuba.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515235722id_/http%3A//www.scuba.com/resources/security_and_privacy.asp) for the most accurate reproduction.*
 
 # scuba.com Security and Privacy
 
@@ -86,4 +86,4 @@ Corporate Office: [Scuba.com](http://www.scuba.com/)
   
 Scuba requires professional [scuba diving training and certification](https://web.archive.org/learn2scuba/)   
 Prices subject to change.  
-Copyright © 1996-2007 
+Copyright © 1996-2008 
