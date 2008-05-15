@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016121504id_/http%3A//www.judysbook.com/about/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515145908id_/http%3A//www.judysbook.com/Pages/About/Terms.aspx) for the most accurate reproduction.*
 
 # Judy's Book: Terms of Use
 
