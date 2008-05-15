@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtelepathy.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226224200id_/http%3A//www.dtelepathy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtelepathy.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515225632id_/http%3A//www.dtelepathy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@ The following statement explains our policy regarding the personal information w
 
 From time to time, you will be asked to submit personal information about yourself (eg., your name and email address etc..) in order to receive or use services on our website.
 
-By entering your details in the fields requested, you enable digitaltelepathy.com to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. Our services are designed to give you the information that you want to receive. digitaltelepathy.com will act in accordance with current legislation and aim to meet current Internet best practice.
+By entering your details in the fields requested, you enable dtelepathy.com to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. Our services are designed to give you the information that you want to receive. dtelepathy.com will act in accordance with current legislation and aim to meet current Internet best practice.
 
-During the course of any visit to digitaltelepathy.com, the pages you see, along with something called a cookie, are downloaded to your computer. Most, if not all, websites do this, because cookies allow the website publisher to do useful things like find out whether the computer (and probably its user) has visited the site before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
+During the course of any visit to dtelepathy.com, the pages you see, along with something called a cookie, are downloaded to your computer. Most, if not all, websites do this, because cookies allow the website publisher to do useful things like find out whether the computer (and probably its user) has visited the site before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
 Any information that is supplied by cookies can help us to provide you with a better service and assists us to analyse the profile of our visitors. For example, if on a previous visit you went to, say, the Archive, then we might find this out from your cookie and highlight new information covering your interests on a second visit.
 
