@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wentworthdirect.co.uk privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203153951id_/http%3A//www.wentworthdirect.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wentworthdirect.co.uk privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515032936id_/http%3A//www.wentworthdirect.co.uk/default.aspx%3FID%3D1) for the most accurate reproduction.*
 
-# Wentworth Direct Finance - Privacy Statement
+# Wentworth Direct Finance - UK Unsecured Loans
 
 This Privacy Policy explains the steps we take to ensure information about you is kept secure and confidential.
 
 Please read this Privacy Policy carefully as once you use our website and/or enquiry facility ("Services") you will be regarded as having read and accepted this Privacy Policy. You must not use our website or our Services if you do not accept this Privacy Policy.
 
-The Slice (trading as CUs4) is the data controller in relation to the Services and your personal data. Our registered address is Buckland House, Grovehill Road, Redhill, Surrey RH1 6TW.
+The Slice (trading as 'CUs4', '4Quick' and 'Wentworthdirect.co.uk') is the data controller in relation to the Services and your personal data. Our registered address is 25 Ormside Way, Redhill, Surrey RH1 2LW. Registered under the data protection act with the [ Information Commissioner](http://www.ico.gov.uk/). Registered number Z8414369.
 
 ## The information we collect
 
@@ -14,13 +14,19 @@ We will collect personal information about you which you give to us when you enq
 
 ## Purposes for which we use information about you
 
-> a. We may use your personal information for the following purposes:
+We may use your personal information for the following purposes:
+
+> a. to enable you to access and use the Services; and/or
 > 
-> b. to enable you to access and use the Services; and/or 
+> b. to personalise aspects of our overall service to you; and/or
 > 
-> c. to personalise aspects of our overall service to you; and/or 
+> c. to communicate with you; and/or
 > 
-> d. to communicate with you; and/or e. to process a transaction between you and a third party. 
+> d. to process a transaction between you and a third party.
+
+## Our Right to Contact You
+
+The use of Company web site constitutes an existing business relationship between Company or any of its affiliates with whom Company shares information in accordance with this Privacy Policy. The use of Company web site qualifies as consent to be contacted by, including but not limited to, telephone and email for changes in account status, changes in subscriber agreements, marketing opportunities, privacy policies and/or any other policies or agreements relevant to you or your account.
 
 ## Passing on information about you
 
@@ -29,14 +35,18 @@ Please be aware that once you use our website or our Services, you will be regar
 > a. the Financial Services Authority and/or other regulatory/governing bodies for the purposes of compliance monitoring;
 > 
 > b. other third parties either where necessary for those third parties to provide additional products or services requested by you or with your prior consent.
+> 
+> c. as a condition of extending credit, some lenders you may be matched with may run a credit check from a major credit reporting bureau.
 
 ## Informing you of offers and services which may be of interest
 
-Please also be aware that if you do not tick the opt-out box on the enquiry form, you will be regarded as having given your consent to us providing you with information, offers and services that may be of interest to you. For example, we may e-mail you or send you a text message letting you know how you could save money by switching the products or services you use.
+Please also be aware that if you do tick the opt-in box on the enquiry form, you will be regarded as having given your consent to us providing you with information, offers and services that may be of interest to you. For example, we may e-mail you or send you a text message letting you know how you could save money by switching the products or services you use.
 
-If you do not tick the opt-out box on the enquiry form, you will also be regarded as having given your consent to us disclosing your personal information to the following parties who may also provide you with information, offers and services:
+If you do tick the opt-in box on the enquiry form, you will also be regarded as having given your consent to us disclosing your personal information to the following parties who may also provide you with information, offers and services:
 
-> a. other companies in the CUs4 group of companies; and b. our trusted business partners 
+> a. other companies in the CUs4 group of companies; and/or
+> 
+> b. our trusted business partners
 
 You can ask us to stop passing your information to third parties for marketing purposes at any time, which we will do. Such a request may result in us ceasing to offer the Services to you.
 
@@ -64,15 +74,22 @@ If you do not accept incoming cookies then the performance of our website on you
 
 ## Transferring your information abroad
 
-Information supplied by you to us will only be transferred abroad by us or our agents for the purpose of performing contractual obligations to you, or when you have given your prior consent to such transfer.
+Some lenders may require the information supplied by you to us to be transferred aboard. By ticking the opt-in box you are giving your consent for us to transfer information supplied by you to overseas lenders. Information will only be transferred abroad by us or our agents for the purpose of performing contractual obligations to you, or when you have given your prior consent to such transfer.
 
 ## Your Rights
 
 You have certain rights under the Data Protection Act 1998. For example, we will always let you have a copy of all personal information we have about you should you request it. We may charge you a fee for a copy of such information.
 
-[Home](https://web.archive.org/web/20071203153951id_/http%3A//www.wentworthdirect.co.uk/default.asp)
+If you wish to discontinue receiving email messages from wentworthdirect.co.uk or Cus4 group of companies, you have several options: 
 
-Wentworth Direct Finance, FREEPOST SEA9712, Gravesend, Kent, DA13 0BR. 
+> a. Unsubscribe from one email list. 
+> 
+> To unsubscribe from a particular list, either click on the unsubscribe link within the email you received, enter your email address and click submit or write to Unsubscribe, The Slice, 25 Ormside Way, Redhill, Surrey, RH1 2LW. 
+> 
+> b. Unsubscribe from all of wentworthdirect.co.uk’s email lists. 
+> 
+> We reserve the right to add Individual Information to multiple lists maintained by wentworthdirect.co.uk or Cus4 group of companies. To globally unsubscribe from all of wentworthdirect.co.uk’s lists, send an email to unsubscribeglobal@theslice.co.uk or write to Unsubscribe, The Slice, 25 Ormside Way, Redhill, Surrey, RH1 2LW
 
-£5000 borrowed over 60 months payments would be approx. £116.95 per month. Total repayment would be £7,016.88   
-Typical 15.2% APR. All credit provisionally approved is subject to status and is not available to persons under 18. You are under no obligation by completing the application form. If you do not wish to receive details of other financial services from other carefully selected sources please notify us in writing. 0 to 3.5% brokers fee applies, which will not exceed £49. All applicants who qualify and pass the criteria will be submitted onto our lenders/loan agents. All applicants must be working either employed or self employed. We are licensed credit brokers Consumer Credit Licence No: 469755 
+## Age Limit
+
+Loan applicants have to be at least 18 years of age. Applicants who falsify their age will not be granted a loan and will be subject to criminal proceedings.
