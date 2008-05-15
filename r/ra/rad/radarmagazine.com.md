@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radarmagazine.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225162632id_/http%3A//www.radarmagazine.com/info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radarmagazine.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515195340id_/http%3A//www.radarmagazine.com/info/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Radar Online
 
