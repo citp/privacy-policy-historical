@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hot97.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229033416id_/http%3A//www.hot97.com/info/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hot97.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515203842id_/http%3A//www.hot97.com/info/privacystatement.aspx) for the most accurate reproduction.*
 
 # Hot97: Legal Info
 
