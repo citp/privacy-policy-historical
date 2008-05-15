@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the gulftalent.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229021415id_/http%3A//www.gulftalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulftalent.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515232159id_/http%3A//www.gulftalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
 
 # GulfTalent.com Privacy Policy
 
-**Privacy Policy**  
----  
 **Introduction**  
 GulfTalent is committed to protecting the privacy of your personal data collected at this website. This statement summarizes the policies of this website regarding the collection, use, and transfer of your personal data, and the security measures GulfTalent employs to protect such data.  
 **The Information We Collect**  
