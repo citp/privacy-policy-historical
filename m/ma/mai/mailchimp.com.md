@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213162233id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515231856id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
 
 # MailChimp Privacy Policy
 
@@ -68,7 +68,14 @@ We do not send promotional emails unless you have requested them.
 
 
 
-### G. Children under 13
+### G. Breach of Security Policy
+
+  1. Nobody is safe from hackers these days. MailChimp will notify you as soon as possible if a breach in security results in an unauthorized intrusion into our system which directly or materially affects you or your subscribers, and will subsequently report the corrective action taken in response to the intrusion. 
+  2. It should be noted however, that when you send a campaign, it bounces around the Internet from server to server, and can theoretically be read by prying eyes and nosy techies and government officials. We have no control over the security and privacy of your emails and subscribers after you hit the "Send" button from MailChimp. So if you're sending extremely private information to your recipients, and require absolute secrecy, email is not the way to go. 
+
+
+
+### H. Children under 13
 
   1. We do not knowingly provide accounts, or market to, or solicit information from, children under the age of 13. Our [terms](http://www.mailchimp.com/terms.phtml) stipulate you must be 18 years or older to use the MailChimp system. 
 
@@ -99,4 +106,4 @@ MailChimp is a product of [The Rocket Science Group](http://www.rocketsciencegro
 Atlanta, GA 30318  
 1-866-284-2541
 
-Or email us [here.](https://web.archive.org/web/20071213162233id_/http%3A//www.mailchimp.com/contact.phtml)
+Or email us [here.](https://web.archive.org/web/20080515231856id_/http%3A//www.mailchimp.com/contact.phtml)
