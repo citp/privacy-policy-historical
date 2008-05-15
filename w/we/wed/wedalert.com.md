@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedalert.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025110705id_/http%3A//www.wedalert.com/company_info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedalert.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515092442id_/http%3A//www.wedalert.com/company_info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Wedding Planning for New York, New Jersey, Pennsylvania, Connecticut, Massachusetts, and Florida Weddings. Find a Wedding Hall, Photographer, Photography, Entertainment, Band, DJ, and more for weddings in NY, NJ, CT, PA, or FL.
 
