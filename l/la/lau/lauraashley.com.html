@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lauraashley.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211082509id_/http%3A//www.lauraashley.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lauraashley.com privacy policy that was archived on 2008-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080515223558id_/http%3A//www.lauraashley.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>LAURA ASHLEY
@@ -24,6 +24,8 @@
 
 
 
+
+
 <link rel="stylesheet" href="http://www.lauraashley.com/content/ebiz/lauraashley/resources/css/v4.css" type="text/css" media="all">
 <style type="text/css" media="all">
 @import "http://www.lauraashley.com/content/ebiz/lauraashley/resources/css/styles.css";
@@ -37,55 +39,28 @@
 <body>
 <script language="JavaScript">
 <!--
-	function createCookie(name,value,days) {
-		if (days)
-		{
-			var date = new Date();
-			date.setTime(date.getTime()+(days*24*60*60*1000));
-			var expires = "; expires="+date.toGMTString();
-		}
-		else var expires = "";
-		document.cookie = name+"="+value+expires+"; path=/";
-	}
-	var id_value = "";
-	var siteID_value = "";
-	var urlRedirect = "";
-	var text1 = location.href;
-	var counter = 0;
-	text1 = text1.toLowerCase();
-	if( text1.indexOf("?id=") !=-1 ){
-	createCookie('LANDTIME','2007-12-11/08:25:08',365);
-		var urlRedirect = text1.substr(0,text1.indexOf("?id="));
-		var id_location= text1.indexOf("?id=")+4;
-		var siteid_location= text1.indexOf("&siteid=")+8;
-		var id_value = location.href.substring(id_location,siteid_location-8);
-		var siteID_value = location.href.substr(siteid_location);
-		counter=1;
-	} else if(text1.indexOf("?siteid=") !=-1){
-		createCookie('LANDTIME','2007-12-11/08:25:08',365);
-		var urlRedirect = text1.substr(0,text1.indexOf("?siteid="));
-		var siteid_location= text1.indexOf("?siteid=")+8;
-		var id_location= text1.indexOf("&id=")+4;
-		var siteID_value = location.href.substring(siteid_location,id_location-4);
-		var id_value = location.href.substr(id_location);
-		counter=1;
-		}
-	if (counter==1){
-			if (id_value != "" && id_value !=null) {
-				createCookie ('LINKSHAREID',id_value,365);
-			}
-			if (siteID_value != "" && siteID_value !=null) {
-				createCookie ('LINKSHARESITEID',siteID_value,365);
-			}
-			
-			if (urlRedirect != "" && urlRedirect !=null) {
-				location.href=urlRedirect;
 	
-			} else {
-				location.href="http://www.lauraashley.com";
-			}
+
+var siteID_value = '';
+var logvalue_value = '';
+var sURL = location.href;
+var siteid_string = '';
+sURL = sURL.replace(/siteid=/ig,'siteid=');
+sURL = sURL.replace(/logvalue=/ig,'logvalue=');
+
+siteID_value = grabURL(sURL,'siteid');
+logvalue_value = grabURL(sURL,'logvalue');
+
+	if (siteID_value != "" && siteID_value !=null) {
+		createCookie ('LINKSHARESITEID',siteID_value,365);
 	}
-	-->
+	if (siteID_value != "" && siteID_value !=null) {
+		createCookie('LANDTIME','2008-05-16/06:35:58',365);
+	}
+	if (logvalue_value!= "" && logvalue_value!=null) {
+		createCookie ('DMMESSENGER',logvalue_value,0);
+	}
+		-->
 </script>
 
 
@@ -113,7 +88,7 @@
 					</div>
 				</div>
 				<div>
-				<a href="http://www.lauraashley.com/page/home" title="LAURA ASHLEY"><img src="http://www.lauraashley.com/content/ebiz/lauraashley/resources/images/logo_masthead.gif" border="0" alt="LAURA ASHLEY" title="LAURA ASHLEY"></a>
+				<a href="http://www.lauraashley.com" title="LAURA ASHLEY"><img src="http://www.lauraashley.com/content/ebiz/lauraashley/resources/images/logo_masthead.gif" border="0" alt="LAURA ASHLEY" title="LAURA ASHLEY"></a>
 				</div>
 				<div class="padding_top5">
 					<ul class="navlistheader">
@@ -129,6 +104,7 @@
 						</li>
 						<li>
 							<img src="http://www.lauraashley.com/content/ebiz/lauraashley/resources/images/nav_triangle.gif" border="0" alt="Shopping bag" title="Shopping bag"><a href="http://www.lauraashley.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=lauraashley&amp;log=22" title="Shopping Bag">Shopping bag:</a> <a href="http://www.lauraashley.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=lauraashley&amp;log=22" title="Click to go to Shopping Bag">Items: 0</a> <a href="http://www.lauraashley.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=lauraashley&amp;log=22" class="viewbasketL" title="Click to go to Shopping Bag">Total: £0.00</a>
+
 						</li>
 					</ul>
 				</div>
@@ -217,7 +193,13 @@
 			
 				<div id="crumbTrail">
 
-<a href="http://www.lauraashley.com/page/home" title="HOME">HOME</a>&nbsp;&gt;&nbsp;<span class="menuFontNonSelected">Customer Service</span>
+<a href="http://www.lauraashley.com/page/home" title="HOME">HOME</a>&nbsp;&gt;&nbsp;
+
+	
+
+
+
+
 
 
 </div>
@@ -288,7 +270,7 @@
 
 
 <li>
-	<a href="http://www.lauraashley.com/page/flash_functionality" title="Account Cards" alt="Account Cards">Account Cards</a>
+	<a href="http://www.lauraashley.com/page/accountcards&amp;layout=static" title="Account Cards" alt="Account Cards">Account Cards</a>
 </li>
 
 
@@ -335,6 +317,7 @@
 
 
 </ul>
+
 			
 			
 			
@@ -439,11 +422,97 @@ function validateEmail() {
 				<!-- start footer -->
 			<div id="footer_all">
 				
+					
+
+
+
+
+
+
+
+
+	
+
+
+
+
+<div class="styleoption5">
+	<a href="#" onclick="popup('http://imageware.venda.com/erez3/fsi4/fsi.swf?pages_server=http://imageware.venda.com:80/erez3&amp;pages_dir=lauraashley/spring%5Fsummer%5F08%5Fno%5Finstructs/&amp;cfg=pages_presets/catalog.fsi&amp;MouseModes_Mode2=0','700','650','popup'); return false;" title="VIEW ONLINE CATALOGUE"><img src="http://www.lauraashley.com/content/ebiz/lauraashley/scat/viewonlinecatalogue/ctas_onlinecat.gif" border="0" name="img_body" alt="VIEW ONLINE CATALOGUE"></a>
+	<br class="clear-all">	
+</div>
+
+	
+
+
+
+
+
+
+<div class="styleoption5">
+	<a href="http://www.lauraashley.com/page/accountcards?layout=static" title="ACCOUNT CARD SERVICES"><img src="http://www.lauraashley.com/content/ebiz/lauraashley/scat/accountcardservices/ctas_accountcard.gif" border="0" name="img_body" alt="ACCOUNT CARD SERVICES"></a>
+	<br class="clear-all">	
+</div>
+
+	
+
+
+
+
+
+
+<div class="styleoption5">
+	<a href="/page/quickshop" title="QUICK SHOP CAT CODE"><img src="http://www.lauraashley.com/content/ebiz/lauraashley/scat/quickshop/ctas_quickshop.gif" border="0" name="img_body" alt="QUICK SHOP CAT CODE"></a>
+	<br class="clear-all">	
+</div>
+
+	
+
+
+
+
+
+
+<div class="styleoption5">
+	<a href="/icat/inspirations" title="BROWSE ROOM GALLERY"><img src="http://www.lauraashley.com/content/ebiz/lauraashley/scat/browseroomgallery/ctas_roomsets.gif" border="0" name="img_body" alt="BROWSE ROOM GALLERY"></a>
+	<br class="clear-all">	
+</div>
+
+	
+
+
+
+
+
+
+<div class="styleoption5">
+	<a href="/page/cataloguerequest" title="ORDER A CATALOGUE"><img src="http://www.lauraashley.com/content/ebiz/lauraashley/scat/orderacatalogue/ctas_ordercat.gif" border="0" name="img_body" alt="ORDER A CATALOGUE"></a>
+	<br class="clear-all">	
+</div>
+
+	
+
+
+
+
+
+
+<div class="styleoption5">
+	<a href="/page/storelocator" title="YOUR LOCAL STORE"><img src="http://www.lauraashley.com/content/ebiz/lauraashley/scat/yourlocalstore/ctas_findstore.gif" border="0" name="img_body" alt="YOUR LOCAL STORE"></a>
+	<br class="clear-all">	
+</div>
+
+	
+
+
+
+
+
+				
 				<br class="clear-all">
 				<div id="footer_menu">
 						<ul class="navlistfooter">
 						     <li><a href="http://www.lauraashley.com/page/globalsites" title="Global Sites">Global Sites</a></li>	
-							<li><a href="http://www.lauraashley.com/page/flash_functionality" title="Account Card">Account Card</a></li>
+							<li><a href="http://www.lauraashley.com/page/accountcards&amp;layout=static" title="Account Card">Account Card</a></li>
 							<li><a href="http://www.lauraashley.com/pcat/corporateinfo" title="Corporate Info">Corporate Info</a></li>
 							<li><a href="http://www.lauraashley.com/pcat/aboutus" title="About Us" alt="">About Us</a></li>
 							<li><a href="http://www.lauraashley.com/page/terms" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
@@ -460,7 +529,7 @@ function validateEmail() {
 								<li><a href="http://www.lauraashley.com/page/faqs" title="Help &amp; FAQ's">Help &amp; FAQ's</a></li>
 								<li><a href="http://www.lauraashley.com/page/sitemap" title="Site Map">Site Map</a></li>
 								<li><a href="http://store.lauraashley.com/index.htm" title="Store" target="_blank">Store</a></li>								
-								<li class="t_grey listhide" style="padding:0 5px 0 5px;">Copyright © 2007 Laura Ashley, All rights reserved.</li>
+								<li class="t_grey listhide" style="padding:0 5px 0 5px;">Copyright © 2008 Laura Ashley, All rights reserved.</li>
 							</ul>
 						</div>
 				
@@ -496,6 +565,12 @@ urchinTracker();
 
 
 <!--dynamic tag for shopcart/register workflow-->
+
+
+
+
+<!-- if this is on a non-secure page -->
+<img src="http://leadback.advertising.com/adcedge/lb?site=703223&amp;srvc=1&amp;betr=A3302=[+]LP&amp;betq=4611=[+]381663" width="1" height="1">
 
 
 
