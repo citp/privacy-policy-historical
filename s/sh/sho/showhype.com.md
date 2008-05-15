@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showhype.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224060648id_/http%3A//showhype.com/accounts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showhype.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515044612id_/http%3A//showhype.com/accounts/privacy) for the most accurate reproduction.*
 
 # ShowHype - Privacy Policy
 
