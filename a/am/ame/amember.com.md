@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amember.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011014545id_/http%3A//www.amember.com/p/Main/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amember.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515234403id_/http%3A//www.amember.com/p/Main/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -48,16 +48,7 @@ Please keep in mind that whenever you voluntarily disclose Personal Information 
 
 ### Disclosure to Third Parties
 
-CGI-Central will disclose Personal Information and/or an IP address when required by law or in the good-faith belief that such action is necessary to: 
-
-  1. Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on CGI-Central, 
-  2. Protect and defend the rights or property of CGI-Central and related properties, or visitors to CGI-Central and related properties, 
-  3. Identify persons who may be violating the law, the CGI-Central legal notice, the rights of third parties, or otherwise misusing CGI-Central or its related properties, 
-  4. Fulfill a user's order or request. 
-
-
-
-CGI-Central uses reasonable precautions to keep the information disclosed to us secure. CGI-Central reserves the right to transfer all such information in connection with the sale of all or part of CGI-Central's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users. 
+All information obtained from the customer will be used for the sole purpose of completing the transaction and that none of this information will be sold, rented, leased, or otherwise released to any third party for any reason. 
 
 ### Your Consent to This Agreement
 
