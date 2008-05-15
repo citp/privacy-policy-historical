@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lauraashley.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211082509id_/http%3A//www.lauraashley.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lauraashley.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515223558id_/http%3A//www.lauraashley.com/page/privacy) for the most accurate reproduction.*
 
 # LAURA ASHLEY - Privacy Policy
 
