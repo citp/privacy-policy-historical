@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2007-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070911094432id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516010714id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
-[](https://web.archive.org/web/20070911094432id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20070911094432id_/http%3A//www.w3schools.com/about/default.asp)
+[](https://web.archive.org/web/20080516010714id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20080516010714id_/http%3A//www.w3schools.com/about/default.asp)
 
 * * *
 
@@ -58,23 +58,53 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
-[](https://web.archive.org/web/20070911094432id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20070911094432id_/http%3A//www.w3schools.com/about/default.asp)   
+[](https://web.archive.org/web/20080516010714id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20080516010714id_/http%3A//www.w3schools.com/about/default.asp)   
 
 
 * * *
 
 * * *
 
-## NEW! Altova MissionKit 2007– Save ½ off Intelligent tools for XML developers & software architects
+[ **The Ektron Intranet**](http://www.ektron.com/cms400-web-cms.aspx?id=5748&cpid=BAC-3165&campaignid=3165) lets you do everything you need to do on your corporate intranet and everything you want to do **... all with just one application**.
 
-| |    | 
+| 
 
-The Altova MissionKit 2007 bundles Altova’s application development, data management and modeling tools at 50% off their regular prices. It is available in a variety of configurations tailored to meet the needs of software architects and XML developers. All MissionKits include the world’s leading XML development tools: [Altova XMLSpy](http://www.altova.com/products/xmlspy/xml_editor.html), [MapForce](http://www.altova.com/products/mapforce/data_mapping.html), and [StyleVision](http://www.altova.com/products/stylevision/xslt_stylesheet_designer.html).
-
-[Gear up; download a FREE 30-day trial today!](http://www.altova.com/products/missionkit/software_development_tools.html)  
+**What can you do with the Ektron Intranet?**  
   
----|---|---  
+---  
+| 
+
+| 
+
+Navigate through content, documents, assets, colleagues and workgroups quickly and intuitively with **enterprise search**  
   
+---|---  
+  
+| 
+
+Communicate with friends and colleagues with forums, message boards and corporate blogging using the new **Social Networking Platform**  
+  
+| 
+
+Promote collaboration among coworkers in your organization through project **workspaces** where others can efficiently find information and work together  
+  
+| 
+
+**Personalize** your company profile by bookmarking and organizing favorite content, uploading assets, posting photos, blogging, and more  
+  
+| 
+
+Interact with features like **tagging** , **flagging, wikis** and **ratings** found in the **Web 2.0 Toolbox**  
+  
+| 
+
+Author/edit content, manage navigation, menus, audit trails, workflow and approvals with the best in breed **Content Management**  
+  
+See why there are 20,000+ Ektron integrations worldwide.  
+Request an [**INSTANT DEMO**](http://www.ektron.com/instant_demo.cfm?cpid=BAC-3165&campaignid=3165) or download a [ **FREE TRIAL**](http://www.ektron.com/download.cfm?product_id=363&purchase=0&cpid=BAC-3165&campaignid=3165) today.
+
+* * *
+
 * * *
 
 * * *
