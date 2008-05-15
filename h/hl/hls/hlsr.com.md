@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hlsr.com privacy policy that was archived on 2007-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071104034847id_/http%3A//www.hlsr.com/wn/wn_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hlsr.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515150441id_/http%3A//www.hlsr.com/wn/wn_privacy.aspx) for the most accurate reproduction.*
 
 # Houston Livestock Show And Rodeo™ - Privacy Policy
 
