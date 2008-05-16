@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dataviz.com privacy policy that was archived on 2007-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071009074031id_/http%3A//www.dataviz.com/company/dvzprivacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dataviz.com privacy policy that was archived on 2008-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516110745id_/http%3A//www.dataviz.com/company/dvzprivacy.html) for the most accurate reproduction.-->
 
 <html><head>
 		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
@@ -58,16 +58,25 @@ WM_netscapeCssFixCheckIn()
 .style9 {font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #333333; }
 -->
         </style>
-	</head>
+	
+<script type="text/javascript" src="/ajax/core/prototype.js"></script>
+<script type="text/javascript" src="/ajax/core/suggest.js"></script>
+<script type="text/javascript" src="/ajax/core/engine.js"></script>
+<script type="text/javascript" src="/ajax/core/util.js"></script>
+<script type="text/javascript" src="/ajax/core/settings.js"></script>
+</head>
 
 	<body>
 		
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-1394931-1";
-_udn = "dataviz.com";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1394931-1");
+pageTracker._setDomainName("dataviz.com");
+pageTracker._initData();
+pageTracker._trackPageview();
 </script>
 
 
@@ -142,7 +151,7 @@ urchinTracker();
 	float:left;
 	margin:0;
 	padding:0;
-	margin-left:10px;
+	margin-left:8px;
 	padding-bottom:6px;
 	padding-top:7px;
 	color:#000099;
@@ -185,7 +194,7 @@ urchinTracker();
 	
 	
 	<b>Already Own a DataViz Product?</b>
-<a href="http://www.dataviz.com/customerservice/login/index.html" title="Current Customers Log In"><b>Log In</b></a> <b>or</b> <a href="https://store.dataviz.com/Regi&amp;Add" title="Register Your Product"><b>Register Now</b></a> 
+<a href="http://www.dataviz.com/customerservice/login/index.html" title="Current Customers Log In"><b>Log In</b></a> <b>or</b> <a href="https://store.dataviz.com/Regi&amp;Add" title="Register Your Product"><b>Register Now</b></a>
 	
 	
 	
@@ -236,7 +245,7 @@ urchinTracker();
 	<li>|</li>
 	<li><a href="http://www.dataviz.com/company/directions.html">Directions</a></li>
 	<li>|</li>
-	<li><a href="http://www.dataviz.com/company/employment/index.html">Employment</a></li>
+	<li><a href="http://www.dataviz.com/company/employment/index.html">Careers</a></li>
 	</div>
 	
 	</ul>
@@ -403,7 +412,7 @@ urchinTracker();
       <ul>
         <li class="copy style1 style2">Purchase a product from DataViz</li>
         <li class="copy style1 style2">Register a new product</li>
-        <li class="copy style1 style2">Download a demo of our software</li>
+        <li class="copy style1 style2">Download a trial version of our software</li>
         <li class="copy style1 style2">Sign up for a mailing list or enter
             a contest</li>
         <li class="copy style1 style2">Fill out a survey, or sign onto a page that requires authorization</li>
@@ -508,7 +517,7 @@ urchinTracker();
             may be used for processing orders, personalizing the shopping experience,
             contests, promotions, newsletters, announcements, special offers,
             etc. </p>
-          <p>When you download a demo version of one of our products, we reserve
+          <p>When you download a trial version of one of our products, we reserve
             the right to send a reasonable number of e-mail follow-up messages
             with information regarding purchasing the software.</p>
           <p>From time to time, we partner with companies whose products we believe
@@ -673,61 +682,7 @@ urchinTracker();
   </tr>
  </tbody></table> 
 
-<csscriptdict>
-	<script><!--
-function CSClickReturn () {
-	var bAgent = window.navigator.userAgent; 
-	var bAppName = window.navigator.appName;
-	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
-		return true; // dont follow link
-	else return false; // dont follow link
-}
 
-
-CSStopExecution=false;
-function CSAction(array) {return CSAction2(CSAct, array);}
-function CSAction2(fct, array) { 
-	var result;
-	for (var i=0;i<array.length;i++) {
-		if(CSStopExecution) return false; 
-		var aa = fct[array[i]];
-		if (aa == null) return false;
-		var ta = new Array;
-		for(var j=1;j<aa.length;j++) {
-			if((aa[j]!=null)&&(typeof(aa[j])=="object")&&(aa[j].length==2)){
-				if(aa[j][0]=="VAR"){ta[j]=CSStateArray[aa[j][1]];}
-				else{if(aa[j][0]=="ACT"){ta[j]=CSAction(new Array(new String(aa[j][1])));}
-				else ta[j]=aa[j];}
-			} else ta[j]=aa[j];
-		}			
-		result=aa[0](ta);
-	}
-	return result;
-}
-CSAct = new Object;
-
-function CSOpenWindow(action) {
-	var wf = "";	
-	wf = wf + "width=" + action[3];
-	wf = wf + ",height=" + action[4];
-	wf = wf + ",resizable=" + (action[5] ? "yes" : "no");
-	wf = wf + ",scrollbars=" + (action[6] ? "yes" : "no");
-	wf = wf + ",menubar=" + (action[7] ? "yes" : "no");
-	wf = wf + ",toolbar=" + (action[8] ? "yes" : "no");
-	wf = wf + ",directories=" + (action[9] ? "yes" : "no");
-	wf = wf + ",location=" + (action[10] ? "yes" : "no");
-	wf = wf + ",status=" + (action[11] ? "yes" : "no");		
-	window.open(action[1],action[2],wf);
-}
-
-
-// --></script>
-</csscriptdict>
-<csactiondict>
-	<script><!--
-CSAct[/*CMP*/ 'B976BB4D3'] = new Array(CSOpenWindow,/*URL*/ 'http://intranet.dataviz.com/telesales/salesqualify/index.html','',550,600,true,false,false,false,false,false,false);
-// --></script>
-</csactiondict>
 
 <!-- Table containing Footer  -->
 
@@ -745,31 +700,16 @@ CSAct[/*CMP*/ 'B976BB4D3'] = new Array(CSOpenWindow,/*URL*/ 'http://intranet.dat
 		<li><a href="http://www.dataviz.com/company/legal.html">Legal</a></li>
 		<li><a href="http://www.dataviz.com/search/index.html">Search</a></li>
 		<li><a href="http://www.dataviz.com/sitemap/index.html">Site Map</a></li>
-		<li>©2007 DataViz Inc. All Rights Reserved</li>
+		<li>©2008 DataViz Inc. All Rights Reserved</li>
 	</ul>
 </div>
 	</td>
 	</tr>
 	</tbody></table>
  
-
-	
-	<table width="915" cellpadding="6">
-		
-       <tbody><tr>   <td align="center" valign="top"> 
-   
-   
-       
+    
        
          
-            
-					
-		  
-		  
-		  </td>	</tr>
-	  
-      
-	  </tbody></table>
 
 <!--End Footer -->  
 
