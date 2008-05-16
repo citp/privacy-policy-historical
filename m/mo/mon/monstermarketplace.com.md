@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the monstermarketplace.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226112450id_/http%3A//www.monstermarketplace.com/privacypolicyPage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstermarketplace.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516041629id_/http%3A//www.monstermarketplace.com/privacypolicyPage.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  MonsterMarketplace: Privacy Policy 
+##  MonsterMarketplace®: Privacy Policy 
 
 | **Overview**
 
@@ -24,7 +24,7 @@
   * If you contact MC, we may keep a record of that correspondence and we may collect your email address. 
 
 
-  * MonsterMarketplace may include content and ads from third parties that may perform user activity tracking other than that described herein. 
+  * MonsterMarketplace® may include content and ads from third parties that may perform user activity tracking other than that described herein. 
 
 
   * MC may need to disclose personal information when required by law. 
