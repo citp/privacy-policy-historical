@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030192935id_/http%3A//www.brw.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516093549id_/http%3A//www.brw.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # BRW.com.au - Privacy Policy
 
@@ -17,7 +17,7 @@ This policy sets out how Fairfax uses your personal information and explains:
 
 ## Your privacy is important
 
-This policy applies to all sites that form part of the network of Fairfax Business Media ("FBM") sites which are owned and operated by John Fairfax Publications Pty Limited, a subsidiary of Fairfax Media Limited ("Fairfax"). To view the FBM network of sites and the various offerings please go to [www.afr.com](http://www.afr.com/). This statement sets out Fairfax's policy on managing the personal information that it collects.
+This policy applies to all sites that form part of the network of Fairfax Business Media ("FBM") sites which are owned and operated by Fairfax Media Publications Pty Ltd, a subsidiary of Fairfax Media Publications Pty Ltd ("Fairfax"). To view the FBM network of sites and the various offerings please go to [www.afr.com](http://www.afr.com/). This statement sets out Fairfax's policy on managing the personal information that it collects.
 
 Fairfax is bound by the National Privacy Principles contained in the Commonwealth Privacy Act. However, Fairfax is exempt from complying with the Privacy Act in relation to its journalism activities. Fairfax has publicly committed to complying with the [Australian Press Council](http://www.presscouncil.org.au/) Privacy Standards for the use of personal information in the course of journalism.
 
