@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the viacom.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212162846id_/http%3A//www.viacom.com/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viacom.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516195311id_/http%3A//www.viacom.com/privacypolicy) for the most accurate reproduction.*
 
 # Viacom
-
-PRIVACY POLICY   
-
 
 This web site (the “Web Site”) is provided by Viacom International Inc.  (“Viacom,” “we,” “our” or “us”). This Privacy Policy discloses our information and privacy practices with regard to the Web Site, such as the types of information we may gather from you and how we may use and share that information. Except if specifically stated otherwise, this Privacy Policy applies only to information collected on the Web Site and does not apply to information collected offline or otherwise outside of the Web Site.    
 
 
-Please take a moment to review the terms of this Privacy Policy. By using the Web Site, you agree to accept the terms of this Privacy Policy.  If you do not agree to the terms of this Privacy Policy, please do not use the Web Site.  Please also review the [Terms of Use](http://www.viacom.com/TERMS%20OF%20USE/default.aspx), which governs your use of the Web Site.  Please note that certain features or services discussed in this Privacy Policy may not be offered on the Web Site at any particular time.
+Please take a moment to review the terms of this Privacy Policy. By using the Web Site, you agree to accept the terms of this Privacy Policy.  If you do not agree to the terms of this Privacy Policy, please do not use the Web Site.  Please also review the [Terms of Use,](https://web.archive.org/termsofuse/Pages/default.aspx) which governs your use of the Web Site.  Please note that certain features or services discussed in this Privacy Policy may not be offered on the Web Site at any particular time.
 
 TYPES OF INFORMATION COLLECTED AND HOW IT IS USED
 
