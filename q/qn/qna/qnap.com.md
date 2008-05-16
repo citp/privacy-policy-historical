@@ -1,38 +1,30 @@
-> *The following text is extracted and transformed from the qnap.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429065033id_/http%3A//www.qnap.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnap.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516042055id_/http%3A//www.qnap.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# QNAP Systems Inc.- NAS storage and Surveillance products provider
+# QNAP Systems Inc. (Privacy Policy)- NAS storage and Surveillance products provider
 
-[](https://web.archive.org/web/20070429065033id_/http%3A//www.qnap.com/liveDemo_login.asp)
-
-|  |  | [Home](https://web.archive.org/web/20070429065033id_/http%3A//www.qnap.com/default.htm) > Privacy Policy  
+|  |  |   
 ---  
-|   
+[Home](https://web.archive.org/web/20080516042055id_/http%3A//www.qnap.com/index.asp) > Privacy Policy   
+  
+|  | QNAP Privacy Policy  
 ---  
+  
+QNAP website ( [www.qnap.com](http://www.qnap.com/) ) takes your privacy very seriously! We like you to understand your online privacy rights and the ways we collect, use and protect your personal information. We provide you with "QNAP Privacy Policy" to show you how we protect your privacy and we'll put the clear and obvious link on QNAP website for your easy access to this Privacy Policy.
+
+Please read this privacy policy carefully. When visiting this website, you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our website. If you have any question or suggestion, you could send email to .  
+QNAP website which is owned by ICP Electronics Inc. provides services to our business partners, distributors, integrators, customers. For more information, please go to[ www.qnap.com](http://www.qnap.com/).   
+  
    
-  |  | 
-
-QNAP Privacy Policy  
   
----  
+1\. What This Privacy Policy Covers  
   
-QNAP website ( [www.qnap.com.tw](http://www.qnap.com.tw/) ) takes your privacy very seriously! We like you to understand your online privacy rights and the ways we collect, use and protect your personal information. We provide you with "QNAP Privacy Policy" to show you how we protect your privacy and we'll put the clear and obvious link on QNAP website for your easy access to this Privacy Policy.
-
-Please read this privacy policy carefully. When visiting this website, you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our website. If you have any question or suggestion, you could send email to [marketing@qnap.com.tw](mailto:marketing@qnap.com.tw).  
-QNAP website which is owned by ICP Electronics Inc. provides services to our business partners, distributors, integrators, customers. For more information, please go to[ www.qnap.com.tw](http://www.qnap.com.tw/).   
-  
-  |    
-  | 
-
-**1\. What This Privacy Policy Covers**  
-  
-  |  |   |  This Privacy Policy only applies to QNAP website. It shows how we collect, receive and use your personal information when using our services and how we deal with personal information shared with our business partners.   
+|   |  This Privacy Policy only applies to QNAP website. It shows how we collect, receive and use your personal information when using our services and how we deal with personal information shared with our business partners.   
 ---|---  
-  |    
-  | 
-
-**2\. Policy of Information Collection and Use**  
+   
   
-  |  |   | 
+2\. Policy of Information Collection and Use  
+  
+|   | 
 
 QNAP website collect your personal information based on "Computer-Processed Personal Data Protection Law". QNAP website will collect personal information when you register an account, use products or services, browse, place an order, inquire online, subscribe to a newsletter, request online technical support, or participate in a marketing and promotional offers. 
 
@@ -42,12 +34,11 @@ When you browse or inquire, QNAP website automatically records and keeps informa
 
 Those information mentioned above are for the following purposes: to customize the advertisements and content, fulfill your requests for some products and services, inform you of our special events and new products, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external customers.  
 ---|---  
-  |    
-  | 
-
-**3\. Policy of Personal Information Sharing and Disclosure**  
+   
   
-  |  |   | 
+3\. Policy of Personal Information Sharing and Disclosure  
+  
+|   | 
 
 Information regarding you (such as name, address and phone number), your order, or the products you purchase will not be given, sold, or exchanged to anyone or organizations. After you register on QNAP website as a member, we use the personal information you provide only, within certain limitation in our services, to design services and activities, inform you of online and offline offers, products, services, and updates, customize your shopping processes, or share with our business partners, distributors, integrators, and customers.
 
@@ -84,16 +75,14 @@ In some circumstances below, your personal information may be disclosed to other
 •
 
 | situations involving violations of the "QNAP Terms of Use", or potential damages to QNAP website or related third party.  
-  |    
-  | 
-
-**4\. Policy of e-mail and Advertisement**  
+   
   
-  |  |   | We send you banner advertisements or e-mails indicated, "sent by QNAP" on behalf of your consent in advance. If you do not want to receive such mailing from us, you can easily get ways, instructions, or functions of how to opt-out from the links or attached on the advertisements or e-mails.   
+4\. Policy of e-mail and Advertisement  
+  
+|   | We send you banner advertisements or e-mails indicated, "sent by QNAP" on behalf of your consent in advance. If you do not want to receive such mailing from us, you can easily get ways, instructions, or functions of how to opt-out from the links or attached on the advertisements or e-mails.   
 ---|---  
-  |    
-  |   
-  |  |   | 
+   
+|   | 
 
 For more convenient or personal services and easier personalized interactions, QNAP website will set cookies when you register or login and modify cookies when you logout. We use cookies for statistics of page views and analysis of bowering types to better understand page viewed and improve services. QNAP website shall not use the cookies by any improper or malicious means. 
 
@@ -101,9 +90,9 @@ A cookie is the kind of recognizable short data, which is sent to your browser f
 
 QNAP website may configure and get cookies from your computer. QNAP website allows the companies who post advertisements on our website to access cookies from your computer but other advertisers are not allowed.   
 ---|---  
-  | **(1) Your Choices of Cookies**  
+  | (1) Your Choices of Cookies  
   |   | You can configure your Internet browser to accept all cookies, block all cookies or to receive a warning when a cookie is set. If choosing to block all cookies, you may not use some personal services（such as personalized information）or engage some activities. Even if you won't accept cookies, you can use many services without any cookies involved.  
-  | **(2) How We Use Cookies**  
+  | (2) How We Use Cookies  
   |   |  QNAP website uses cookies in certain ways as below to:  |   | 
 
 •
@@ -125,14 +114,13 @@ QNAP website may configure and get cookies from your computer. QNAP website allo
 •
 
 | conduct research to improve content and services.  
-  | **(3) How QNAP website Co-works With Third Parties about The Cookies they send**  
+  | (3) How QNAP website Co-works With Third Parties about The Cookies they send  
   |   |  QNAP website allows other companies that show advertisements on our pages to set and access cookies in your computer. These companies' use of their cookies is subject to their own privacy policies, not "QNAP Privacy Policy". QNAP website is not responsible for the privacy policy of other websites.  
-  |    
-  | 
-
-**6\. The Ways to Collect and Use Information**  
+   
   
-  |  |   | **(1) IP Address**  
+6\. The Ways to Collect and Use Information  
+  
+|   | (1) IP Address  
 ---|---  
   |   | QNAP website automatically receives and records your IP address which your browser sent us on our server when you login our website. We will store your IP address in our user registration databases.  
 IP addresses may be used for various purposes, including to:  |   | 
@@ -151,7 +139,7 @@ IP addresses may be used for various purposes, including to:  |   |
 •
 
 |  help to identify customers.  
-  | **(2) Information Storage**  
+  | (2) Information Storage  
   |   |  | 
 
 •
@@ -170,12 +158,11 @@ Any personal information that we have copied may keep in backup database for som
 
 | Log Files  
 QNAP website's servers which send your web pages and advertising banners process and store an amount of information in so-called "log files" on a regular time schedule. These log files are used for analysis, research, auditing, and other purposes. Your information is stored in log files of some QNAP website's active server, until the information is transferred to the backup database.   
-  |    
-  | 
-
-**7\. Network Advertisers and Third-Party Ad Servers**  
+   
   
-  |  |   | 
+7\. Network Advertisers and Third-Party Ad Servers  
+  
+|   | 
 
 Most of the advertisements, which are sent to your web browser, are made by QNAP. However, we also allow other companies, called third-party ad servers or ad networks, to provide advertisements on QNAP website. These companies may also send cookies to your computer.
 
@@ -183,12 +170,11 @@ If an advertiser asks QNAP website to show advertisements to certain visitors an
 
 The personal information you disclose to other parties such as network advertisers, third-party ad servers, or other websites from the Internet are protected by their different privacy policies. These privacy policies of different network advertisers or third-party ad servers are not bound to "QNAP Privacy Policy". QNAP website is not responsible for their own privacy policies.   
 ---|---  
-  |    
-  | 
-
-**8\. Confidentiality and Security**  
+   
   
-  |  |   | 
+8\. Confidentiality and Security  
+  
+|   | 
 
 QNAP website always do our best to protect your online privacy and personal information. We limit access to your personal information to our employees who, we reasonably believe, need to do necessary works.
 
@@ -196,38 +182,33 @@ For your confidentiality and security, we use ID and password to secure your per
 
 It is important for you to protect your id, password, or any personal information. Do not disclose your personal information (especially password) to anyone. When finished using our services, please do not forget to logout your account. If you share a computer, whether it's in a public or private setting, be sure to sign off and close your browsers when finished using a shared computer.  
 ---|---  
-  |    
-  | 
-
-**9\. Modify and Terminate Your Personal Information and Account**  
+   
   
-  |  |   | 
+9\. Modify and Terminate Your Personal Information and Account  
+  
+|   | 
 
 You can modify your personal information and account setting and have the rights to opt-in or opt-out special promotion activities and new services at any time.
 
 You also can ask QNAP website to terminate your account any time by contacting with our web master. We will delete your account information from our registration databases as soon as possible.   
 ---|---  
-  |    
-  | 
-
-**10\. Children's Privacy Protection**  
+   
   
-  |  |   | 
+10\. Children's Privacy Protection  
+  
+|   | 
 
 QNAP website will not collect personal information of children on purpose. If finding the personal information, which we collected, belongs to children, we'll delete it immediately. Without parents or guardians' approval, children are not allowed to use any services or do business transactions on QNAP website.  
   
 ---|---  
-  |    
-  | 
-
-**11\. Changes to this Privacy Policy**  
+   
   
-  |  |   | 
+11\. Changes to this Privacy Policy  
+  
+|   | 
 
 We may amend this Privacy Policy at any time if necessary. We will notify you of significant changes in the way we handle your personal information by placing an obvious notice on QNAP website.
 
-If you have any question about QNAP Privacy Policy, please contact with QNAP by email:[marketing@qnap.com.tw](mailto:marketing@qnap.com.tw) or by phone: +886-2-8698-2000  
+If you have any question about QNAP Privacy Policy, please contact with QNAP by email: or by phone: +886-2-8698-2000  
   
----|---  
-  |    
- 
+---|---
