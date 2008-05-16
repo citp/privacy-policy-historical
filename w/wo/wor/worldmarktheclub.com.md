@@ -1,113 +1,149 @@
-> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210143941id_/http%3A//www.worldmarktheclub.com/web/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516044044id_/http%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
-# WorldMark by Trendwest |
+# WorldMark, The Club
 
-Trendwest recognizes the sensitive nature of your personal financial information, and we are committed to protecting your privacy. We have provided the following statement so that you know what types of nonpublic personally identifiable information about you, as a Consumer (loan applicant), Customer (current owner or borrower) or as a Former Customer (former owner or borrower), Trendwest collects and how Trendwest may use, maintain and sometimes share this information with various parties that may or may not be affiliated with Trendwest.
+| Home  
+---  
+Owner Sign In  
+Resort Gallery  
+Inventory Specials  
+Out of Network Offers  
+WorldMark Travel  
+Party Weekends  
+Other Specials  
+Vacation Forum  
+Owner Education  
+Become an Owner  
+Merchandise  
+Contact Us  
+  
+Privacy Policy
+
+Revised: _August 2006_
+
+**Wyndham Vacation Ownership, Inc. ("WVO")** recognizes the importance of protecting the privacy of certain Information collected about the users and visitors ( **"user," "you" or "your"** ) of WVO’s Web site ( **"Web Site"** ). The following privacy and information practices policy discloses and describes what Information WVO may gather about you, how WVO may use such Information, and how you can correct or change such Information ( **"Privacy Policy"** ). This Privacy Policy is designed to give you an understanding about how WVO collects your Information and the uses WVO may make of such Information during the course of WVO’s business and in providing you with access to the information, products and services that may be available at this Web Site.
+
+You should print a copy of this Privacy Policy for your records. Please note, however, that WVO may update and amend this Privacy Policy from time to time as WVO deems necessary in its sole discretion. Certain capitalized terms used in this Privacy Policy may be defined in WVO’s separate [Web Site Terms of Use](https://web.archive.org/legal/terms.shtml).
+
+[Canadian Privacy Policy  
+](https://web.archive.org/legal/canadian_policy.shtml)Click Here for Information on Your California Privacy Rights
+
+**NOTICE TO WVO TIMESHARE OWNERS/FINANCING CUSTOMERS:** You may receive a separate notice regarding "Your Financial Privacy" by mail. If this Web site provides you the ability to access your account online, and you agree to receive annual notices online, WVO will provide you with annual notices through this Web site. Further, if WVO provides you with updated notices online, WVO will require you to acknowledge receipt of the updated notice through this Web site.
 
 Table of Contents 
 
-Why Did I Receive this Policy More than Once? 
+Purpose
 
-Trendwest offers many products and services. You may have received this policy more than once if you purchased a timeshare interest, financed your purchase with Trendwest, or if you took advantage of certain other Trendwest products or services. However, if you prefer to limit Trendwest’s use of your personal information or Consumer Report Information, you only need to return one completed preference form. You may receive other forms or notices based on state of residence. 
+WVO’s purpose in establishing this Privacy Policy is to balance its legitimate business interests in collecting and using its users’ Information with its users’ reasonable expectations of privacy. WVO’s intent is to provide to you certain offers, information, services and discounts that it believes are relevant to your interests. WVO believes that its users will benefit from promotional activity based on certain information employed to market goods and services offered by and through its businesses.
 
-The Kinds of Information We Collect
+Affiliate Web Sites
 
-When you purchase a product or apply for financing through Trendwest, we may collect nonpublic personally identifiable information (“personal information”) from the following sources: 
+This Privacy Policy applies to this Web Site only. Please note that, to the extent that this Web Site permits you to link to other Web sites of WVO’s affiliated or related entities, or its Providers, separate privacy policies may apply to those linked Web sites, which separate privacy policies may contain different terms that are not the same as those terms contained in WVO’s Privacy Policy. **Your access to and use of such linked Web sites through links provided on this Web Site are not governed by this Privacy Policy but, instead, are governed by the privacy policies of those linked Web sites, and WVO disclaims any and all responsibility for your access to and use of such linked Web sites, as well as for any use of the Information that you may provide to, or any Information that may be collected about you at, such linked Web sites.**
 
-| 
+What Information Does WVO Collect? 
 
-| 
+WVO gathers the following three types of Information about its users: (1) data that users provide through optional, voluntary registration on WVO’s Web Site; (2) data that WVO gathers from third party sources or Providers; and (3) data that WVO gathers through aggregated anonymous tracking of use activity and usage trends, mainly by tallying Web pages that are viewed by users throughout this Web Site. You should be assured, however, that WVO will not disclose any of your **Personal Information** (as defined below) to third parties without your consent, except as may otherwise be described in this Privacy Policy or disclosed to you when you submit the Personal Information.
 
-Personal information we receive from you on your application (e.g., name, address, social security number).  
-  
----|---  
-  
-| Personal information about your transactions with us, our affiliates, or others (e.g., account balances, payment histories).  
-  
-| Personal information we receive from a consumer reporting agency or employers (e.g., creditworthiness, credit or employment history).  
-  
-| Personal information provided by other third parties not for the purpose of determining creditworthiness (e.g., for marketing demographics).  
-  
-| Personal information obtained when you visit us online (e.g., from “cookies” or other technology that may be used to remember passwords for you, to track your Web site usage with us, and to provide you with customized services or products).  
-  
-The Use of Personal Information
+How Does WVO Collect Information?
 
-We use your personal information to better serve you. Although we may share your personal information, we limit who receives this information. 
+**Optional Registration:**  
+WVO collects Information by specifically requesting it from you. Generally this occurs when you register at the Web Site or request information or a service. You may elect, at your sole option, whether to provide the requested Information, although you may not be able to use or gain access to certain portions or features of this Web Site if you elect not to provide such Information. Usually, WVO and/or its business partners use your Information to operate the Web Site and to deliver information and services to you. WVO also uses your Information to inform you about other products and/or services available from WVO, its affiliated or related entities, and/or its Providers. 
 
-Sharing Personal Information with Trendwest Companies
+Information from Third Party Sources:
 
-In order to better serve the needs of our Customers, Trendwest may share any or all of the kinds of personal information above within our family of companies. This allows us to provide you with efficient customer service, additional services and new products that may interest you. We may, for example, provide your personal information to Trendwest Travel in order to service your travel needs. 
+WVO may collect information about you from third party sources to supplement the Information otherwise provided by you at this Web Site. This supplemental information allows WVO to verify Information that you have provided to WVO and to enhance WVO’s ability to provide you with information about its businesses, products and services, as further described in WVO’s Web Site Terms. WVO’s agreements with these third party sources typically limit how WVO may use this supplemental information.
 
-If you tell us not to share your personal information within our family of companies, by exercising your opt-out right below, we will not share the following types of information about you: 
+Use of Aggregate Tracking Information: 
 
-| 
+**Use of Internet Protocol ("IP") Addresses.**  
+An IP address is a unique number that is automatically assigned to your computer whenever you are surfing or browsing the Internet so that your computer can be identified by the main computers, known as "Web servers," that "serve up" Web sites and Web pages. This IP address allows WVO to identify and gather general information and data about users, such as the Web pages that users may view. 
 
-Certain information that we obtain about you from your application, such as your income or your asset information.  
-  
----|---  
-  
-| Information we obtain from a consumer report, such as your credit score or credit history.  
-  
-| Information we obtain to verify representations made by you, such as your open lines of credit.  
-  
-| Information we obtain from a person regarding their employment, credit or other relationship with you, such as employment history.  
-  
-The above information is referred to as “Consumer Report Information.” 
+WVO collects IP addresses for the following purposes: (1) helping WVO diagnose and resolve problems with its main computers; (2) administering its systems and this Web Site; (3) reporting aggregated anonymous information to its business partners and Providers; and (4) auditing the use of this Web Site. When users request Web pages from this Web Site, WVO’s Web servers log the user's IP address. WVO does not normally link IP addresses to any Personal Information, which means that a user’s session will be logged, but the user will remain anonymous to WVO. For example, WVO collects and/or tracks the home server domain name, the type of computer, and the type of Web browser used by you to access this Web Site. Such collection and tracking information is gathered by WVO as you navigate through this Web Site and the various Web Site pages, and shall be used by WVO for its business purposes only, as described above in this section.
 
-Please understand that if you opt out of having Consumer Report Information shared, we are still permitted by law to share other information (such as identification, experience or transaction information) within our affiliated family of companies. 
+WVO can, and will, use IP addresses to identify you when WVO feels it is necessary to enforce compliance with its Web Site Terms and/or this Privacy Policy, or to protect its services, Web Site, systems, information, employees, business partners, Providers, users, customers or others.
 
-Sharing Personal Information with Service Providers
+**Use Of Cookies.**  
+WVO may place "cookies" on your web browser. Cookies are small pieces of information or text files that a Web site sends to your computer for record-keeping purposes, which information is stored in a file on your computer’s hard drive. Cookies make Web surfing and browsing easier for you by saving your preferences so that WVO can use the saved information to facilitate your use of, and improve your experience with, this Web Site when you navigate at or return to this Web Site. Cookies, by themselves, do not provide WVO with your individual identity or Personal Information unless you have chosen separately to provide it to WVO. WVO never saves passwords or credit card information in its cookies. The use of cookies is industry-standard and, as such, you will find that most major Web sites use them.
 
-We may share any or all of the kinds of personal information above with companies that work for us in the process of serving you. For example, other companies may assist us in processing transactions, account relationship, or product fulfillment. 
+By showing, tracking or recording how and when users use this Web Site, cookies help WVO see which areas of the Web Site are popular and which are not. Many of WVO’s improvements and updates to the Web Site and enhancements to the user experiences are based on the data and information compiled from these cookies in conjunction with the total number of users of, and Web pages viewed at, this Web Site. This data and information are most easily tracked with cookies.
 
-Sharing Personal Information with Joint Marketing Partners
+Most cookies expire after a defined period of time, or you can delete or disable your cookie file(s) at any time. Most Web browsers are initially set up to accept cookies. You can reset your Web browser to refuse cookies or to indicate when a cookie is being sent. You should note that some parts or features of WVO’s Web Site or services may not function properly or be accessible, or may be considerably slower, if you delete or refuse to accept cookies. For example, without cookies, you will not be able to set certain personalized preferences, and/or may have difficulty completing marketing or other Web Site transactions. 
 
-We may also disclose any of the above personal information, as permitted by law, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. These marketing partners, while not owned by or affiliated with Trendwest, will be subject to joint agreements and will be required to maintain the privacy of any personal information we may provide to them and restrict their use of that information only to the uses set forth in any contractual agreement between Trendwest and them. 
+WVO has two (2) primary uses for cookies. First, WVO uses cookies to identify and specify a user’s preferences. Second, WVO uses cookies to track Web Site usage trends and patterns. This helps WVO to obtain a better understanding of its users’ needs and to improve areas of this Web Site. While both of these uses and related activities are dependent upon the use of cookies, you have the option, as described above, of disabling, deleting or refusing the cookies via your Web browser preferences or similar features.
 
-Sharing of Personal Information with Consumer Reporting Agencies
+In addition, you may occasionally receive cookies from WVO’s business partners or Providers, or when you link to other third party Web sites. WVO does not control these cookies, and disclaims any responsibility relating to the use or receipt of such cookies. You should note that the use of advertising cookies sent by third party Web servers is a standard practice in the Internet industry. 
 
-In accordance with the Fair Credit Reporting Act, we may provide personal information to consumer reporting agencies in the course of determining financial status. 
+WVO may use a third party advertising technology to serve ads when you visit this Web Site. This technology uses information about your visits to this site ( _not_ including your name, address, or other Personal Information) to serve WVO’s ads to you. In the course of delivering WVO advertisements to you, a unique third party cookie may be placed or recognized on your browser. For more information about our third party ad server, cookies, and how to opt out, please [ click here](http://www.doubleclick.net/us/corporate/privacy). 
 
-Sharing of Personal Information with Nonaffiliated Third Parties
+**Use of Pixels.**  
+WVO and its third party ad servers may also use invisible pixels or Web beacons on this Web Site to count how many users visit certain Web pages. Information collected from invisible pixels or Web beacons is used and reported in the aggregate without the use of Personal Information. This information may be used to improve marketing programs and Content, and to target WVO’s Internet advertisements at this Web Site and/or other web sites.
 
-On occasion, Trendwest may share limited personal information to outside companies that may have an interest in providing you with other products and services as permitted by law. These companies are not affiliated with Trendwest, but will be required to maintain the privacy of any personal information we may provide to them and restrict their use of that information only to the uses set forth in any contractual agreement between Trendwest and them. We will not share your account number, Member number or contract number, or any access codes with these nonaffiliated third parties. You may opt out of the sharing of your personal information to these companies as set forth below. 
+With Whom Does WVO Share Information?
 
-As May Be Required by Law
+As a general rule, WVO will not share with or disclose to any third parties any specific personally identifiable information about you that you may submit or provide to WVO via this Web Site ( **"Personal Information"** ), in a manner that connects you with the Personal Information, except (a) as otherwise described in this Privacy Policy, (b) when WVO has your permission, or (c) under special circumstances, such as when WVO believes in good faith that the law requires such disclosure or under the circumstances described below. The following describes some of the ways that your Personal Information may be disclosed:
 
-Trendwest is governed by many Federal, state and local laws. Unless otherwise prohibited by law or our contractual obligations, we may disclose personal information if required to do so by law, court order, or as requested by a governmental or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable.  Situations may include: to perform, maintain or enforce contracts with our customers, to protect rights and properties including those of business affiliates, customers or others, or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing or who may be threatening to cause interference with or damage to our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. 
+**Affiliates:**  
+WVO may share any or all of your Personal Information with and among its affiliated or related entities or family of companies. This is typically done so as to allow such entities and companies to offer to you information about their respective businesses, products and services that they believe may be of interest to you.
 
-Additional Uses
+**Business Partners & Sponsors:**  
+WVO may disclose some or all of your Personal Information to third party business partners or sponsors, as described elsewhere in this Privacy Policy. In the event and to the extent that there are additional uses of your Personal Information by WVO’s business partners or sponsors (which additional uses are not otherwise described in or contemplated by this Policy), any such additional uses will be specifically described to you prior to or at the time such Personal Information is collected or prior to any transfer of such Personal Information to the business partners or sponsors. Many promotions offer opportunities for you to request additional information from such business partners and sponsors. By requesting additional information, you signify your consent to WVO’s transfer of your Personal Information to the applicable business partners or sponsors so that they can respond to or fulfill your request. Although, in many instances, only your e-mail address will be shared with these business sponsors and partners, WVO is not limited to the type of Personal Information that it may disclose, provided that you requested the additional information and that WVO has otherwise complied with this Privacy Policy.
 
-Trendwest may also share your personal information with its attorneys, accountants and auditors when necessary to effect, administer or enforce your account, or in the case of the proposed or actual sale, merger, transfer or exchange of all or part of the business or operating unit. 
+**Third Party & Aggregate Data: **  
+From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt to receive from these third parties information related to such materials or offers, WVO will (with your permission) share your name and e-mail address with such third parties. Under confidentiality agreements, WVO may match Personal Information with data provided by these third parties. Also, from time to time, WVO may share your Personal Information with third parties that WVO feels offer products or services that may be of interest to you. This sharing of Personal Information is subject to confidentiality agreements as well.
 
-Your Preferences
+Also, as described above in this Privacy Policy, WVO may keep track of which portions of the Web Site users are visiting and other user statistics, and aggregate this information to help WVO create a better experience for users of this Web Site. This is all done without knowing your name or other Personal Information, and allows WVO (in addition to other lawful purposes) to describe its users’ preferences, and the types of services in which the users may be interested, to its business partners, advertisers, sponsors and other third parties.
 
-Trendwest believes that you should have a choice regarding the disclosure of your personal information we receive when you seek financial services from us. While certain sharing of personal information within the Trendwest family of companies, to affiliates, to service providers and marketing partners, to credit agencies, and in other instances is necessary to conduct business, we provide you with the opportunity to opt out of the sharing of information to nonaffiliated third parties and of the sharing of certain information to affiliates. 
+**Other:**  
+WVO may also disclose account information in special cases when it has reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Web Site Terms or this Privacy Policy, or may be causing injury to or interference (either intentionally or unintentionally) with any of WVO’s rights or property, other users, or anyone else. WVO may disclose or access account information when it believes in good faith that the law requires it (and/or if compelled to do so by law enforcement or government agencies, or by other legal action), and for administrative and other purposes that it deems necessary to maintain, service, and/or improve this Web Site or its products and services.
 
-_If you prefer that Trendwest not share your personal information with nonaffiliated third parties, or not share your Consumer Report Information within our affiliated family of companies, you may opt out of those disclosures; that is, you may direct us not to make those disclosures (other than disclosures permitted by law)._ If you wish to opt out of disclosures to nonaffiliated third parties or disclosures of Consumer Report Information within our affiliated family of companies, you may complete the attached form and mail it to us at the address listed.
+**Careers with WVO:**  
+This Web Site may provide you the ability to search for job postings and/or submit applications for potential employment opportunities. WVO may use third parties to collect and/or host these types of services or related information. If a third party service provider is used for these purposes, the third party provider is prohibited under agreement from using any Personal Information that you may submit in conjunction with these services for any purpose other than to collect and store such Personal Information on WVO’s behalf. The Personal Information that you submit for these purposes will not be used for any purpose other than to allow you to search for job postings, submit applications, or determine your qualifications for employment with WVO or its affiliated or related entities.
 
-If someone other than you provided personal information to us in the course of obtaining financing, i.e., as a joint borrower, that person may request a separate notice regarding any changes in their preferences. Joint borrowers may opt out for each other.
+**Investor Center:**  
+This Web Site may allow you to subscribe to investor newsletters, press releases, e-mail alerts, and other related communications. The Personal Information that you may provide in conjunction with these subscription services or offerings will be used only for the purpose of providing you with such services or for responding to your subscription requests.
 
-Please allow 30 days for any change in your preferences to become effective. 
+**Children:**  
+**This Web Site is not intended for use by children. WVO does not knowingly solicit or collect Personal Information from children under the age of 13. If you are under the age of 18, you must obtain the consent of your parent or guardian to use this Web Site.**
 
-NOTE FOR RESIDENTS OF VT: Trendwest Resorts, Inc. and WorldMark The Club are not responsible for the content of any off-site pages or any other Web sites linked to or from the sites. Links appearing on the sites are for convenience only and are not an endorsement by Trendwest Resorts, Inc. and WorldMark The Club or our affiliates or their partners of the referenced content, product, service or supplier. Your linking to or from any off-site pages or other Web sites is at your own risk. Trendwest Resorts, Inc. and WorldMark The Club are in no way responsible for examining or evaluating, and they do not warrant the offerings of, off-site pages or any other Web sites linked to or from the sites, nor do we assume any responsibility or liability for the actions, content, products, or services of such pages and Web sites, including, without limitation, terms and conditions. You should carefully review the terms and conditions of all off-site pages and other Web sites that you visit. Third-party Web sites may refer to our sites and even provide hyperlinks to specific pages or functions. We are not responsible for the context in which those referring links are made nor are we responsible for ensuring those links work properly. 
+Opting Out; How Can You Control the Use of Information?
 
-NOTE FOR RESIDENTS OF CA: You do not need to complete the Preference Form. Unless you authorize us to do so by contacting us at the address below, Trendwest will not disclose personal information about you outside our corporate group of affiliated companies. You may receive a separate notice regarding additional rights that your state provides. 
+In the event that you decide that you want to opt out from WVO’s use of any Personal Information that you previously provided to (and/or authorized for use by) WVO, or if any of your Personal Information (such as your zip code or e-mail address) changes, WVO will use reasonable efforts to provide you with a way to correct, update or remove such Personal Information. WVO makes repeated efforts to verify the accuracy of your Personal Information and to correct and update its databases based on the information available to WVO. In the event that you believe that any Personal Information held by WVO is inaccurate or outdated, WVO, upon notification and sufficient time for verification, will take all reasonable steps to correct any inaccuracy or update outdated Personal Information of which it is made aware. WVO also gives you the opportunity to control or opt out from the communications that WVO directs to you. If you wish to update or change your Personal Information or opt out from any use or communication described in this Privacy Policy for any reason, you may notify WVO of such update, change or opt out as follows: 
 
-Privacy Policy Notice and Updates
+By e-mail, [click here](mailto:ownersupport@worldmarktheclub.com)
 
-Trendwest will provide annual notice to you about our privacy policy as long as you maintain a Customer relationship with us, even if you have elected to opt out. If there are any changes to this policy, which may occasionally occur, Trendwest will provide you with notice of those changes and you will be permitted to change your privacy preferences as long as you remain our Customer. 
+By mail, write to:   
+E-Commerce Department — Privacy  
+Wyndham Vacation Ownership, Inc.  
+8427 SouthPark Circle    
+Orlando, Florida 32819 
 
-Former Customers 
+What Happens When You Link to a Third Party Site?
 
-Sensitive information is protected in its transfer as well as its storage. At appropriate points, the sites use a VeriSign SSL (secure socket layer) security certificate to enable encrypted transfer of data. For example, we use encryption whenever financial information is requested of you. Encryption is the process of scrambling data into an unreadable format that is more secure for transmission over the Internet. Encryption takes your data and uses complex mathematical equations called algorithms to scramble the information into an unreadable format called ciphertext. The ciphertext is impossible to read without having a key to unscramble the information to its original form. 
+You should be aware that, when you are on WVO’s Web Site, you may be able to hyperlink, or may be directed, to other third party Web sites that are beyond WVO’s control and/or outside of its services. For example, if you “click” on a banner advertisement or a WVO search result, the “click” may transfer you off of this Web Site and to another unaffiliated Web site. These other Web sites may include sites of advertisers, sponsors, Providers and/or partners that may use WVO’s and/or WVO’s affiliated or related entities’ logos as part of a co-branding agreement. These other Web sites may send their own cookies to, or collect or solicit Information from, users. WVO does not control such third parties or their Web sites, and, therefore, is not responsible for the contents of these Web sites or the hyperlinks or advertising placed on such Web sites. WVO’s inclusion in this Web Site of hyperlinks to these other third party Web sites does not imply any endorsement of the material on such other Web sites or any association with the third party operators. This Privacy Policy does not extend to anything that is inherent in the operation of the Internet and/or that is beyond WVO’s control. 
 
-Security of Your Personal Information
+Please keep in mind that, whenever you give out information over the Internet or Web, or otherwise in on-line environments, (for example, via message boards or forums), such information can be collected and used by people you do not know. While WVO strives to protect users’ information and privacy, WVO cannot guarantee the security of any information you disclose in these environments, and you disclose such information at your own risk.
 
-An important part of maintaining your financial privacy is the use of security systems and policies. Trendwest maintains electronic, physical and procedural safeguards to protect your personal information. Access to your personal information is limited to those persons who need to know that information. We will evaluate new safeguards when necessary. 
+Is Your Information Secure?
 
-Accuracy of Your Personal Information
+The security of all Information associated with users of this Web Site is an important concern to WVO. WVO exercises reasonable care in providing secure transmission of your Information from your computer to WVO’s servers and databases. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while WVO strives to protect your Information, WVO cannot ensure or warrant the security of any Information you transmit to WVO, and you do so at your own risk. Once you complete the transmission of, and WVO receives, your Information, WVO uses industry standard efforts and practices to safeguard the confidentiality of your Personal Information, and uses commercially reasonable efforts to collect and secure such Personal Information consistent with all applicable laws and regulations. WVO takes commercially reasonable efforts to use a variety of different security measures (such as encryption, digital certificates, firewalls and Secure Socket Layers) designed to protect Personal Information from access by unauthorized users both inside and outside of WVO, and to protect against the unauthorized or improper alteration or destruction of such Personal Information. WVO’s communication system, software and database practices have been designed to aid in supporting authenticity, integrity and confidentiality. However, as described above, "perfect security" does not exist on the Internet and, despite these reasonable efforts by WVO to maintain data and Information security, WVO cannot guarantee the security of data or Information. 
 
-Trendwest wants to make sure that we have the most current information on file. We provide you with access to your personal information through periodic statements and online through our Web site, [www.TrendwestResorts.com](http://www.trendwestresorts.com/). If you find that any of your personal information is inaccurate or incomplete, **please advise us via the website listed above or by calling 800-251-8736. PLEASE NOTE THAT REQUESTS TO CHANGE PRIVACY PREFERENCES RELATED TO THIS POLICY MUST BE MADE IN WRITING USING THE FORM ATTACHED BELOW**. 
+YOUR ACCEPTANCE OF THE TERMS OF THIS PRIVACY POLICY
 
-[Go to the Personal Information Form ](https://web.archive.org/web/20041210143941id_/http%3A//www.worldmarktheclub.com/web/policy-print.html)
+The security of all information associated with our Customers is an important concern to us. We exercise care in providing secure transmission of your Information from your computer to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Information, ****neither we nor our Affiliates can ensure or warrant the security of any Information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we use industry standard efforts to safeguard the confidentiality of your Information, such as firewalls and Secure Socket Layers. However, “perfect security” does not exist on the Internet.
+
+YOUR ACCEPTANCE OF THESE TERMS AND POLICY CHANGES
+
+By using this Web Site, you signify your agreement to the terms of WVO’s Internet Privacy Policy. **IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEB SITE.** Your continued use of WVO’s Web Site following the posting of any changes or updates to the terms of this Privacy Policy will signify your acceptance of those changes and updates.
+
+Effective date: This policy was last updated on August 1, 2006.
+
+Your California Privacy Rights
+
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to that customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please write to us at: 
+
+Wyndham Vacation Ownership, Inc.   
+Attn: California Disclosure Information   
+8427 South Park Circle   
+Orlando, Florida 32819 
+
+We will respond to such written requests within 30 days following receipt at the mailing address above. We reserve the right not to respond to requests submitted other than to the address specified above or otherwise exempted by law. **Please note that we are required only to respond to each customer once per calendar year.**
