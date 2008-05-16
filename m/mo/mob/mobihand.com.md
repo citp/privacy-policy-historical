@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobihand.com privacy policy that was archived on 2007-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070808191307id_/http%3A//www.mobihand.com/support.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobihand.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516202655id_/http%3A//www.mobihand.com/support.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Palm OS, Pocket PC, Windows Smartphones, Symbian UIQ and Series 60 Software, Accessories, and Games
+# Palm OS, Pocket PC, Windows Smartphones, Symbian and BlackBerry Software - MobiHand Store Support
 
 **What This Privacy Policy Covers**
 
@@ -39,7 +39,7 @@ We may set and access cookies on your computer. Cookies are small information fi
 
 **Your Ability to Edit and Delete Your Account Information and Preferences**
 
- **General**
+**General**
 
 You can edit your Account Information, including your marketing preferences, at any time. New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
 
@@ -55,6 +55,6 @@ We may update this policy. We will notify you about significant changes in the w
 
 **Questions and Suggestions**
 
-If you have any questions and comments about our Privacy Policy please contact our [customer support](https://web.archive.org/web/20070808191307id_/http%3A//www.mobihand.com/support.asp%3Fpage%3Dprivacy?page=contactsupport). 
+If you have any questions and comments about our Privacy Policy please contact our [customer support](https://web.archive.org/web/20080516202655id_/http%3A//www.mobihand.com/support.asp%3Fpage%3Dprivacy?page=contactsupport). 
 
 Effective Date: November 15,2004 
