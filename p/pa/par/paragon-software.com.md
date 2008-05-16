@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paragon-software.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231131341id_/http%3A//www.paragon-software.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paragon-software.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516091639id_/http%3A//www.paragon-software.com/privacy.htm) for the most accurate reproduction.*
 
 # PARAGON Software Group - Privacy Statement
 
@@ -15,4 +15,4 @@ To insure that you are never charged for software that does not meet your requir
   
    
   
-Copyright © 1994-2007 Paragon Software Group. All rights reserved. | [Terms](http://www.paragon-software.com/terms.htm) | [Privacy Statement](http://www.paragon-software.com/privacy.htm) | [Links](http://www.paragon-software.com/links.htm)
+Copyright © 1994-2008 Paragon Software Group. All rights reserved. | [Terms](http://www.paragon-software.com/terms.htm) | [Privacy Statement](http://www.paragon-software.com/privacy.htm) | [Links](http://www.paragon-software.com/links.htm)
