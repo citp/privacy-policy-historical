@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the maingear.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213003917id_/http%3A//www.maingear.com/privacyinfo.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maingear.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516202859id_/http%3A//www.maingear.com/Reference/Privacy/index.html) for the most accurate reproduction.*
 
-# MAINGEAR: Privacy
+# Maingear PC | Our Privacy Statement.
 
 | 
 
-  
-The MAINGEAR Website ( **[www.maingear.com](https://web.archive.org/index.html)** ) is maintained by MAINGEAR Corporation. Protecting your privacy is important to MAINGEAR, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically. 
+_PRIVACY STATEMENT_
+
+The MAINGEAR Website ( **[www.maingear.com](https://web.archive.org/OLD/index.html)** ) is maintained by MAINGEAR Corporation. Protecting your privacy is important to MAINGEAR, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically. 
 
 •  Scope of the Privacy Policy. This Privacy Policy applies only to the collection and use of information collected online on the MAINGEAR Website. Other websites that may be affiliated with MAINGEAR may have different privacy policies. 
 
