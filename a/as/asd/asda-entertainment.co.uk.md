@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asda-entertainment.co.uk privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231164144id_/http%3A//www.asda-entertainment.co.uk/asda/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asda-entertainment.co.uk privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516211701id_/http%3A//www.asda-entertainment.co.uk/asda/privacy-policy.info) for the most accurate reproduction.*
 
-# Privacy Policy - ASDA-Entertainment.co.uk
+# Asda Entertainment - Privacy Policy
 
 Asda Entertainment , is operated on behalf of ASDA by TheHut.com (Trading) Limited. We are committed to protecting our customers' privacy and are entirely open about our information gathering practices. Please take the time to review this notice which states our privacy policy.
 
@@ -22,4 +22,4 @@ In addition to the company's safeguards, your personal data is protected in the 
 
 It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorized access by other people.
 
-If you have any queries on any aspect of the above policy, please [contact us](https://web.archive.org/web/20071231164144id_/http%3A//www.asda-entertainment.co.uk/asda/contact-us.info)
+If you have any queries on any aspect of the above policy, please [contact us](https://www.asda-entertainment.co.uk/asda/customerQuery.secure?skeletonAccount=true) .
