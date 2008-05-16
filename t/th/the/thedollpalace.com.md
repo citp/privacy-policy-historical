@@ -1,129 +1,95 @@
-> *The following text is extracted and transformed from the thedollpalace.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213003606id_/http%3A//www.thedollpalace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedollpalace.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516040948id_/http%3A//www.thedollpalace.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# The Doll Palace Privacy Statement
 
-This privacy statement covers the site www.thedollpalace.com. Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices.   
+**Introduction**
+
+TheDollPalace.com is committed to providing a fun, entertaining, and safe Web site for people of all ages. We are dedicated to safeguarding any personal information collected online and to helping parents and children learn how to exercise control over personal information while exploring the Internet. Because many of the visitors to this site are children, we take special measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity, and we take efforts to prevent children from posting contact information. This Privacy Policy is intended to explain our privacy practices and inform you as to: 
+
+  * 1\. The kinds of personally identifiable information ("Personal Information") we collect from visitors of the thedollpalace.com (the "Site"). 
+  * 2\. How that information is collected. 
+  * 3\. How we use Personal Information. 
+  * 4\. The circumstances under which we disclose Personal Information to third parties. 
+  * 5\. How you can access, update or delete any Personal Information collected about you by us. 
+  * 6\. The mechanisms we have implemented to protect your Personal Information. 
 
 
-  1. What personally identifiable information TheDollPalace.com collects. 
-  2. What personally identifiable information third parties collect through the Web site. 
-  3. What organization collects the information. 
-  4. How TheDollPalace.com uses the information. 
-  5. With whom TheDollPalace.com may share user information. 
-  6. What choices are available to users regarding collection, use and distribution of the information. 
-  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under TheDollPalace.com control. 
-  8. How users can correct any inaccuracies in the information. 
 
-If users have questions or concerns regarding this statement, they should contact support group using following URL [http://www.thedollpalace.com/helpdesk/](https://web.archive.org/helpdesk/). 
+As we continue to offer our visitors new and different types of content and services, we may modify our practices from time to time. However, we will treat all personal information we collect in accordance with the privacy notice in effect at the time the information is collected. This Privacy Policy is a part of the terms and conditions which are set forth in our Terms of Use Agreement ("Agreement"). Any terms that are not defined in this Privacy Policy shall have the meaning given in the Agreement. 
 
-**Information Collection**
+**The Information We Collect**
 
-**Information Collection**   
-TheDollPalace.com is the sole owner of the information collected on www.thedollpalace.com. WE DO NOT SHARE ANY USER PERSONAL INFORMATION WITH THIRD PARTIES. We do provide general statistics and demographics for our advertisers; however that information is not related to any particular TDP user profile. TheDollPalace.com collects information from our users at several different points on our Web site. 
+At TheDollPalace.com we only collect personal information from registered members. Visitors are required to be 13 years or older to register. During the registration we collect a full name, valid e-mail address and birth date, gender, state/province, zip/postal code, and country; we may collect additional information including Computer Information (see below), and we may ask additional questions regarding personal preferences on a number of topics in friends profile section. For certain enhanced services, we also may collect billing information provided by PayPal. Additionally, when visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such as the type of computer operating system (e.g., Windows XP or Mac OS), the visitor's "IP Address", the web browser (e.g., Netscape, Internet Explorer) being used, information collected through the use of cookies (see below) and information regarding the Internet service provider ("Computer Information"). This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes. 
 
-**Registration**   
-In order to use some of the features of this Web site, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. It is optional for the user to provide valid demographic information, but encouraged so we can provide a more personalized experience on our site. 
+**How We Use the Information**
 
-**Order**   
-All current orders are processed with paypal.com. We do not store any information from your order form except your email address. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date) to paypal.com during the order.This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user. 
+User Profile information including members' pictures and sign-in names are displayed to people in order to facilitate user interaction in the TheDollPalace.com social networking community. Email addresses are used for the purposes of inviting new friends to join TheDollPalace.com, to add users to members' friends' networks, and to send notifications related to the service. Users within a personal network communicate on TheDollPalace.com with each other through the TheDollPalace.com service, without need to disclose their email addresses. Users' full names are never displayed to other members. To facilitate searching and finding friends and acquaintances on the service, TheDollPalace.com allows users to search for other members using gender, age and proximity. 
 
-**Information Use**
+We use visitors' Personal Information for our internal purposes of enabling visitors to enter one of our online contests or sweepstakes, to subscribe to our online newsletter, or to inform visitors of upcoming events and special announcements. Each e-mail contains instructions on how to be removed from the subscription list. 
 
-**Profile**   
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users.A profile is stored information that we keep on individual users that details their viewing preferences.Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site, and to direct pertinent marketing promotions to them.We do not share your profile with other third parties. 
+We also use visitors' Computer Information to track usage, improve the design of the Site, offer products and services, to personalize our visitor's experiences, save visitor's password in password-protected areas, and to ensure visitors are following the site's Agreement. Additionally. In the event that all or substantially all of The Doll Palace Corp's stock and/or assets are transferred or sold to another entity, The Doll Palace Corp. may transfer such information and information collected from parents or guardians to the acquiring entity. 
 
-**Cookies**   
-A cookie is a piece of data stored on the user’s computer tied to information about the user.Usage of a cookie is in no way linked to any personally identifiable information while on our site.We use both session ID cookies and persistent cookies.For the session ID cookie, once users close the browser, the cookie simply terminates.A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. [(Internet Explorer and Netscape Instructions)](https://web.archive.org/web/20071213003606id_/http%3A//www.thedollpalace.com/cookies.php)
+We may disclose information about our visitors, including Personal Information (e.g., registration information, e-mail address, content of Dollmails), as well as Computer Information, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Site and applicable laws, or to protect against misuse or unauthorized use of the Site. We also may disclose user information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of our visitors or others. 
 
-If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site.For example, the user will not be able to participate in any of our posting sections, contests or monthly drawings that take place. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.See the “Profile” section. 
+**Contests and Sweepstakes**
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
+TheDollPalace.com occasionally offers contests and sweepstakes, which may be entered online. Only registered members can participate in contests. All the information collected by TheDollPalace.com is securely maintained and used only for the purpose of conducting and fulfillment of the contest or sweepstakes. Once the contest or sweepstakes if finished, we delete any personal information collected. The information collected in a TheDollPalace.com sweepstakes may be passed to a fulfillment house which may use the information to help run the contest or sweepstakes. Any such fulfillment house may not use the information for other purposes and must agree to maintain the confidentiality of the information. 
 
-**Third Party Advertising**   
-The ads appearing on this Web site are delivered to users directly by The Doll Palace. Internal user information is used to serve ads to users on this site, however this information is not shared with any of our advertisers. We provide advertisers only with general click-through banner statistics. 
+**Collection of Information by Third-Party Sites and Sponsors**
 
-This privacy statement covers the use of cookies by TheDollPalace.com only and does not cover the use of cookies by any advertisers. 
+Our site contains links to other sites, including those of sponsors, advertisers and survey companies. Visitors should consult the other sites' privacy notices, since our Privacy Policy does not cover those sites. The Doll Palace does not share a visitor's e-mail address or other Personal Information with such third parties. 
 
-**Log Files**   
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use.IP addresses, etc. are not linked to personally identifiable information. 
+Please use following links to review privacy policies of our major advertisers and traffic analysis companies: 
 
-**Clear Gifs (Web Beacons/Web Bugs)**   
-We employ and our third party advertising company employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users’ personally identifiable information. 
+  * [Google](http://www.google.com/intl/en_ALL/privacypolicy.html)
+  * [Exponential](http://www.exponential.com/who-we-are/privacy-policy.jsp)
+  * [Value Click Media](http://www.valueclickmedia.com/privacy.shtml)
 
-Clear Gifs can "work with" existing cookies on a computer if they are both from the same Web site or advertising company.That means, for example, that if a person visited “www.companyX.com”, which uses an advertising company's clear gif, the advertising company would match the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. To learn more about our advertising company’s use of clear gifs, please go to [http://www.linkshare.com](http://www.linkshare.com/). 
 
-In addition, we use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients.This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.If users would like to opt-out of these emails, please see the Opt-out section. 
 
-**Communications from the Site**
+**Cookies**
 
-**Special Offers and Updates**   
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections. 
+TheDollPalace.com uses a software technology called "cookies." Cookies are small text files that we and certain third parties place in visitors' computer browsers to store their preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
-**Newsletter**   
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.Out of respect for our users privacy we provide a way to opt-out of these communications.Please see the Choice and Opt-out sections. 
+We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. 
 
-**Service Announcements**   
-On rare occasions it is necessary to send out a strictly service related announcement.For instance, if our service is temporarily suspended for maintenance we might send users an email.Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+We use ads served by third party advertisers to support the site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing gaming ads to someone who frequents gaming sites). 
 
-**Customer Service**   
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes. 
+You may adjust your browser to reject cookies from us or from any other Web site. Please consult the "Help" section of your browser for more information. However, certain areas of our sites can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content. 
 
-**Sharing**
+**Security**
 
-**Legal Disclaimer**   
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
-**Aggregate Information (non-personally identifiable)**   
-We share aggregated demographic information with our partners and advertisers. We use third parties ([www.spylog.com](http://www.spylog.com/), [www.extreme-dm.com](http://www.extreme-dm.com/tracking)) to track and log user activity on the site. These parties can track and provide us with demographic information. This information is not linked to any personally identifiable information. 
+Phishing: Phishing attacks attempt to steal consumers' personal identity data and financial account credentials. "Phishers" use 'spoofed' e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Sensitive Personal Information such as credit card numbers, account usernames, passwords, and social security numbers. WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM SENSITIVE PERSONAL INFORMATION OR YOUR USERNAME OR PASSWORD! If you receive such email communication, please forward it immediately to the Site's Privacy Administrator at privacy@thedollpalace.com and then immediately delete the fraudulent email from your computer. 
 
-**Third Party Advertisers**   
-TheDollPalace.com shares Web site usage information about users with Linkshare Network for the purpose of targeting our Internet banner advertisements on this site and other sites. For example, Linkshare Network uses cookies and clear GIFs on this site, which allow them to recognize a user's cookie when a user visits this site. The information they collect and share through this technology is not personally identifiable.For more information about our third-party advertiser or for choices about not having this anonymous information used please [click here](http://www.linkshare.com/privacy.html). 
+**Additional Information Concerning Children's Privacy**
 
-**These are the instances in which we will share users’ personal information:**   
-We DO NOT Share Personal Information with Third Parties 
+We do not collect Personal Information from visitors who identify themselves as under the age of 13 except where we receive verifiable parental consent. Visitors to our site may participate in many of our offerings and activities without providing any Personal Information. We may collect additional information including Computer Information, gender, state/province, zip/postal code, and country, and we may ask additional questions regarding personal preferences on a number of topics through surveys. As noted above, we will not condition participation in an online activity on the disclosure of more information than is reasonably necessary to participate in the activity. We do not share children's Personal Information with outside third parties not bound by this Privacy Policy. 
 
-**Third Party Intermediaries**   
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. For more information about our third-party intermediaries please [click here](http://www.paypal.com/)
+At TheDollPalace.com, our goal is to help parents ensure that their kids have a safe and fun online experience. That's why we've set up a system by which parents can contact us and request any personal information collected about their child to be deleted, and/or request that there be no further collection or use of their child's information. Please make any such request through this e-mail address: privacy@thedollpalace.com. TheDollPalace.com takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian. 
 
-**Business Transitions**   
-In the event TheDollPalace.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.Users will be notified via email and prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
+If you have any questions about our children's privacy practices, you may call, e-mail, or write to us using the contact information provided below. 
 
-**Choice/Opt-out**
+**Accessing or Correcting Information**
 
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for information. 
+Visitors can change their user information supplied upon registration (except for user name and date of birth) on this page: http://www.thedollpalace.com/my/personal_01.php and following the direction on such page. 
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email.We also offer an opt-out mechanism in the Personal Preferences Section after user logged in. 
+**Contact Us**
 
-Users of our site are always notified when their information is being collected by any outside parties.We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
+If you have any questions, comments, or concerns regarding our privacy policy and/or practices, please contact us at the following e-mail address, address, or telephone number: 
 
-Links
+privacy@thedollpalace.com
 
-This Web site contains links to other sites. Please be aware that we, TheDollPalace.com, are not responsible for the privacy practices of such other sites.We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site 
+Privacy Manager - TheDollPalace.com  
+1673 East 16 Street, PMB 85  
+Brooklyn, NY 11229  
+(646) 233-3321 
 
-Surveys &Contests
+**A Final Note to Parents**
 
-From time-to-time our site requests information from users via surveys or contests.Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users’ personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users’ personally identifiable information for any secondary purposes. 
+The Internet offers a world of opportunity for children. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit The Direct Marketing Association's Get CyberSavvy! program at http://www.cybersavvy.org/cybersavvy/index.html. Get CyberSavvy! helps families learn how information flows online so they can use the Internet in ways that protect their privacy and well-being. It also contains a number of valuable resources to help parents and children be aware of and express their preferences about information that is collected online and how it is used. Your efforts to instill responsible information practices will help steer your children to age-appropriate sites and will go a long way toward ensuring that your children have enriching experiences online. 
 
-Pass-It-On
+**Effective Date, Updates and Acceptance**
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. TheDollPalace.com will automatically send the friend a one-time email inviting them to visit the site. TheDollPalace.com does not store this information. 
-
-Security
-
-This Web site takes every precaution to protect our users’ information.We do everything in our power to protect user-information. All of our users’ information, not just the sensitive information, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk.When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected.Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility. If users have any questions about the security at our Web site, users can contact us using following URL [http://www.thedollpalace.com/helpdesk/](https://web.archive.org/helpdesk/)
-
-**Correcting/Updating/Deleting/Deactivating Personal Information**
-
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can be done at the [Personal Preferences](http://www.thedollpalace.com/my/personal_01.php) section. 
-
-**Notification of Changes**
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
-
-If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
-
-**Contact Information**
-
-If users have any questions or suggestions regarding our privacy policy, please contact us at: 
-
-Web site URL: [http://www.thedollpalace.com/helpdesk/](https://web.archive.org/helpdesk/)
+The privacy policy set out above is effective as of May 15, 2008. Your use of the Site is subject to this Privacy Policy and the Terms of Use Agreement. By using this Site, you are accepting the practices set out in this Privacy Policy and the Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Your continued use of any portion of the Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
