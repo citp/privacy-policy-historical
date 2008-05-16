@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 12frenz.com privacy policy that was archived on 2007-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071113102831id_/http%3A//th.12frenz.com/frenzwap/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12frenz.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517003802id_/http%3A//th.12frenz.com/frenzwap/privacyPolicy.do) for the most accurate reproduction.*
 
-# 12Frenz - Mobile Community
+# 12Frenz Mobile Community
 
 **Protecting your privacy is important to 12Frenz.  Please read the following to learn more about our privacy policy.**
 
