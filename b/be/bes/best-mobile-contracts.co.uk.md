@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the best-mobile-contracts.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213082935id_/http%3A//www.best-mobile-contracts.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-mobile-contracts.co.uk privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516032356id_/http%3A//www.best-mobile-contracts.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Best Mobile Contracts - Privacy Policy
 
-**Privacy policy  
-**   
+  
 **Purposes for which we use information about you**
 
 We may use your personal information for the following purposes: 
