@@ -1,0 +1,289 @@
+<!--The following is the downloaded HTML source of the makefive.com privacy policy that was archived on 2008-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516145201id_/http%3A//www.makefive.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="imagetoolbar" content="no">
+		<title>MakeFive :: You are what you think.</title>
+		<meta name="description" content="MakeFive is a simple way to rank everything Make a list share your thoughts and dig-in to what others are saying!">
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+		<link rel="stylesheet" type="text/css" href="/media/js/jquery/jqModal.css">
+		<link rel="stylesheet" type="text/css" href="/media/css/screen5.css">
+		
+				<link rel="stylesheet" type="text/css" href="/media/css/static.css">		
+			
+			
+				       <!-- <script type="text/javascript" src="/media/js/jquery/jquery.js"></script>-->
+
+		<script type="text/javascript" src="/media/js/jquery/jquery-1.1.3.1.pack.js"></script>
+		
+				
+		<script type="text/javascript" src="/media/js/jquery/jqModal.js"></script>
+		<script type="text/javascript" src="/media/js/flyoutwindow.js"></script>
+		<script type="text/javascript">
+		//<![CDATA[
+		$().ready(function() {
+		  // add modal windows
+		  
+		  $('#friendscontactlist').jqm({modal: true, trigger: '.openFriendsList'});//,closeClass: '.closeFriendRequest'
+		  $('#friendRequestModal').jqm({modal: true, trigger: '.openFriendRequest'});//,closeClass: '.closeFriendRequest'
+		  $('#messageBoxModal').jqm({modal: true, trigger: '.openMessageBox'});		  
+		  $('#loginModal').jqm({modal: true, trigger: '.openLoginModal'});			  	 
+		  $('.jqmClose').mouseover(function(){
+				$(this).addClass('jqmCloseHover');
+		  });
+		  $('.jqmClose').mouseout(function(){
+			$(this).removeClass('jqmCloseHover');
+		  });
+			$("#navTier1 li").append('<div class="cornerTL"></div>');
+			$(".subnav2 .active, .corner1px").append('<div class="cornerTL "></div>');
+			$(".subnav2 .active, .corner1px").append('<div class="cornerTR "></div>');
+			$(".subnav2 .active, .corner1px").append('<div class="cornerBL "></div>');
+			$(".subnav2 .active, .corner1px").append('<div class="cornerBR "></div>');
+			
+			$(".boxd").append('<img class="tl" src="/media/images/corner_boxd_tl.gif" width="3" height="3" alt="" />');
+			$(".boxd").append('<img class="tr" src="/media/images/corner_boxd_tr.gif" width="3" height="3" alt="" />');
+			$(".boxd").append('<img class="bl" src="/media/images/corner_boxd_bl.gif" width="3" height="3" alt="" />');
+			$(".boxd").append('<img class="br" src="/media/images/corner_boxd_br.gif" width="3" height="3" alt="" />');		
+		    
+		    
+			
+		   //$(".shadowbox").wrap("<div class='shadowbox' style='display:none'><div class='zict'><div class='zictl'>&nbsp;</div><div class='zictm'>&nbsp;</div><div class='zictr'>&nbsp;</div><div class='clear'</div></div><div class='zicc'><div class='ziccl'>&nbsp;</div><div class='ziccm'></div><div class='ziccr'>&nbsp;</div><div class='clear'</div></div><div class='zicb'><div class='zicbl'>&nbsp;</div><div class='zicbm'>&nbsp;</div><div class='zicbr'>&nbsp;</div><div class='clear'></div></div></div>");
+		    		    
+		  jQuery.fn.hasClass = function(c) {
+			return this.is('.'+c)
+		  };
+			
+		    
+		});				
+		// workaround Safari 2.0 height issues
+		//if ($.browser.safari) setInterval("$('.br,.bl').css('bottom', '1px');$('.br,.bl').css('bottom', '-2px')", 500);
+		if ($.browser.safari) setInterval("$('.boxStep').css('height', '101%');$('.boxStep').css('height', '100%')", 500);
+		if ($.browser.safari) setInterval("$('.btnBR').css('bottom', '1px');$('.btnBR').css('bottom', '16px')", 500);
+
+
+		//]]>
+		</script>
+	<!--[if IE]>
+	
+	<style type="text/css">
+		#UserHomeForm #userWelcome #team{
+			margin-bottom: -9px;
+		}
+	</style>
+	<![endif]-->
+	<!--[if lt IE 7]>
+	<script type="text/javascript" src="/media/js/jquery/jquery.ifixpng.js"></script>
+	
+	<style type="text/css">
+		img.bl, img.br{
+			bottom: -2px;
+		}
+		/*
+		a.active .cornerTR{
+			right: expression(-this.parentNode.offsetWidth%2+"px");
+		}*/
+		
+		form{
+			background-color: transparent;
+		}
+		
+		.cornerTR{
+			right: expression(-this.parentNode.offsetWidth%2+"px");
+		}
+		
+		.cornerBL, .cornerBR{
+			top: expression((this.parentNode.offsetHeight-1)+"px");
+		}
+		
+		.cornerBR, .tr, .br{
+			right: expression(-this.parentNode.offsetWidth%2+"px");
+			left: auto;
+		}
+		
+		.boxB img.bl, .boxB img.br, .boxStep img.bl, .boxStep img.br{
+			top: expression((this.parentNode.offsetHeight-8)+"px");
+			bottom: auto;
+		}
+		
+		.discussion img.bl, .discussion img.br{
+			top: expression((this.parentNode.offsetHeight-11)+"px");
+			bottom: auto;
+		}
+		
+		.tnLink img.bl, .tnLink img.br{
+			top: expression((this.parentNode.offsetHeight-2)+"px");
+			bottom: auto;
+		}
+
+		.btnBR{
+			top: expression((this.parentNode.offsetHeight-46)+"px");
+			bottom: auto;
+		}
+		
+		.topicListBlock .tl,.topicListBlock .tr{
+			top: -1px;
+		}
+		
+		.topicListBlock .bl,.topicListBlock .br{
+			bottom: -1px;
+		}
+		img .png24, .flyoutwindow img, .flyoutwindow td{ behavior: url(/media/css/iepngfix.htc);}
+				 
+	</style>
+	<![endif]-->
+	</head>
+	<body>
+	<div id="container">
+<form method="post" id="shiftCMSPageForm" action="/privacy">
+<script type="text/javascript" src="/assets/js/_core/qcodo.js"></script>
+<script type="text/javascript" src="/assets/js/_core/logger.js"></script>
+<script type="text/javascript" src="/assets/js/_core/event.js"></script>
+<script type="text/javascript" src="/assets/js/_core/post.js"></script>
+<script type="text/javascript" src="/assets/js/_core/control.js"></script>
+<script type="text/javascript" src="/assets/js/_core/listbox.js"></script>
+<div id="mainNavContainer_ctl" style="display:inline-block;"><div id="mainNavContainer"><div id="topbanner">
+	<div class="float_left">
+	<a id="linkHome" href="/"><img src="/media/images/logo_home.gif" alt="MakeFive" width="175" height="73"></a>
+	</div>
+	<div class="float_right">
+	<a id="contestbanner" href="/contest"><img src="/media/images/contest_banner.jpg" alt="Contest Banner" width="470" height="61"></a>
+		</div>
+	<div class="clear"></div>
+</div>
+<div id="mainNavContainer">
+	<ul id="navTier1">
+        <li class="active"><div class="minwidth"></div><p><a href="/categories">Explore</a></p><div class="cornerTL"></div></li>
+        <li><div class="minwidth"></div><p><a href="/people">People</a></p><div class="cornerTL"></div></li>
+                		<li><div class="minwidth"></div><p><a href="/login">Login</a></p><div class="cornerTL"></div></li>
+				<li><div class="minwidth"></div><p><a href="/contest">Contest</a></p><div class="cornerTL"></div></li>
+		<li class="newtopic"><div class="minwidth"></div><p><a href="/topic_add">New Topic</a></p><div class="cornerTL"></div></li>
+		<li><!-- required for IE7 --><div class="cornerTL"></div></li>
+    </ul>
+	<div class="clear"></div>
+	<div id="tier2Container">
+		<div id="navTier2">
+													<a href="/categories">All</a>
+											<a href="/categories/sports">Sports</a>
+													<a href="/categories/news-business">News &amp; Business</a>
+													<a href="/categories/experiences">Experiences</a>
+													<a href="/categories/entertainment">Entertainment</a>
+													<a href="/categories/debate">Debate</a>
+													<a href="/categories/technology">Technology</a>
+										<div class="cornerTR"></div>
+				
+		</div>
+		<div id="navSearchContainer">
+			<span id="mainSearchInput_ctl"><input type="text" name="mainSearchInput" id="mainSearchInput" value="" onkeydown="if (event.keyCode == 13) {qc.pB('shiftCMSPageForm', 'mainSearchInput', 'QEnterKeyEvent', '');} if (event.keyCode == 13) {return false;}"></span>			<span id="mainSearchButton_ctl"><img name="mainSearchButton" id="mainSearchButton" onclick="qc.pB('shiftCMSPageForm', 'mainSearchButton', 'QClickEvent', ''); return false;" src="/media/images/nav/btn_search.gif"><input type="hidden" name="mainSearchButton_x" id="mainSearchButton_x" value=""><input type="hidden" name="mainSearchButton_y" id="mainSearchButton_y" value=""></span>		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="navShadow"><img src="/media/images/nav/tier2_shadow.gif" alt="" width="930" height="4"></div>	</div>
+<div id="pnlTopMessageBar_ctl" style="display:none;"></div></div></div>    
+    <div id="staticMain" class="static">
+	  <div id="leftCol"><div id="content"><h1>Corporate</h1>
+<p><a href="/about">About MakeFive</a></p>
+<p><a href="/faq">Frequently Asked Questions</a></p>
+<p><a href="/press">Press Room</a></p>
+<p><a href="/journal">The MakeFive Journal</a></p>
+<p><a href="/advertise">Advertise</a></p>
+<p><a href="/jobs">Jobs at MakeFive</a></p>
+<p><a href="/contact">Contact Us</a></p>
+<p>&nbsp;</p>
+<h1>Legal</h1>
+<p><a href="/privacy">Privacy Policy</a></p>
+<p><a href="/terms">Terms of Use</a></p>
+<p>&nbsp;</p>
+<h1>Help Center</h1>
+<p><a href="/help/getting_started">Getting Started</a></p>
+<p><a href="/help/lists">Lists</a></p>
+<p><a href="/help/community">The MakeFive Community</a></p>
+<p><a href="/help/account_and_policies">Accounts and Policies</a></p>
+<p><a href="/help/other">Other</a></p></div><div><img src="http://mfstatic.smashlab.com/media/images/static/nav_cap_bottom.gif" width="220" height="6" alt=""></div></div>
+	  <div id="mainCol">
+	  <div id="sectionHeading"><h1>Privacy Policy</h1></div>
+	  <p><em>Last revision: November 2, 2007</em><br>
+&nbsp;<br>
+MakeFive is a website that allows users to post and discuss opinions with others. You do not need to be registered to search or view site content; however, you must register in order to post, comment and contact Members. Please note that this information may change as MakeFive revises its service or adds/removes features. Any updates to this policy will be posted on this page, noting the date of last revision.</p>
+<p>&nbsp;</p>
+<h1>Information Collection and Use Practices</h1>
+<p>• You can choose the level of access that others have to your profile, including access to your full<br>
+&nbsp;&nbsp; profile, friends list, personal photos and notes; however, all Members, regardless of profile<br>
+&nbsp;&nbsp; settings automatically have a public profile created, which displays User Name, Profile Image<br>
+&nbsp;&nbsp; (if provided), Lists and Selections, and the URL to your Public Profile. This allows others to<br>
+&nbsp;&nbsp; see who is commenting on lists and items. Any comments and content that you post to lists,<br>
+&nbsp;&nbsp; comment areas, and other profiles may be viewable to any site user. We will not display your<br>
+&nbsp;&nbsp; email address to other site users without your consent.<br>
+&nbsp;<br>
+• You post Content on the site at your own risk. Although you can choose the level of access that<br>
+&nbsp;&nbsp; others have to your profile, no security measures are perfect or impenetrable. We cannot<br>
+&nbsp;&nbsp; control the actions of other users; therefore, we cannot and do not guarantee that content you<br>
+&nbsp;&nbsp; post on the site will not be viewed by unauthorized persons. Any improper collection or<br>
+&nbsp;&nbsp; misuse of information provided on MakeFive should be reported to <a href="mailto:privacy@makefive.com">privacy@makefive.com</a><br>
+&nbsp;<br>
+• We may record information about your usage, such as when you use MakeFive, the Lists you<br>
+&nbsp;&nbsp; create and take part in, the contacts you communicate with, as well as any content that you<br>
+&nbsp;&nbsp; post to the website.<br>
+&nbsp;<br>
+• Advertisements shown to you may be related to the information and content associated with<br>
+&nbsp;&nbsp; your profile, such as notes, lists, or the search term you entered. Advertisements that appear<br>
+&nbsp;&nbsp; on MakeFive are sometimes delivered directly to users by third party advertisers who<br>
+&nbsp;&nbsp; automatically receive your IP address when this happens. They may also download cookies to<br>
+&nbsp;&nbsp; your computer to measure the effectiveness of their ads and to personalize advertising<br>
+&nbsp;&nbsp; content. MakeFive does not have access to, or control of, the cookies that may be placed by<br>
+&nbsp;&nbsp; third party advertisers.<br>
+&nbsp;<br>
+• When you enter MakeFive, we collect your browser type and IP address. We also store certain<br>
+&nbsp;&nbsp; information from your browser using cookies.</p>
+<p>&nbsp;</p>
+<h1>Communication Policies</h1>
+<p>• Members can choose whether they wish to receive notes from Friends only, or from all<br>
+&nbsp;&nbsp; registered users; however, any member can send an email to you or ask you to become a<br>
+&nbsp;&nbsp; friend. Should you feel that a user’s correspondence is inappropriate, you may block them<br>
+&nbsp;&nbsp; from contacting you again.<br>
+&nbsp;<br>
+• MakeFive at times contacts members with system information, general updates, and personal&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp; notes regarding service.</p>
+<p>&nbsp;</p>
+<h1>Your ability to Update or Delete Information</h1>
+<p>• You may at any time update your account information or deactivate your account entirely;<br>
+&nbsp;&nbsp; however, any lists and items you have created will remain active, as others may have posted<br>
+&nbsp;&nbsp; to these discussions. Removing them could impede the contributions that others have made<br>
+&nbsp;&nbsp; to these contents.</p>
+<p>&nbsp;</p>
+<h1>Other</h1>
+<p>• When you use MakeFive, you are subject to the MakeFive Terms of Use.<br>
+&nbsp;<br>
+• Please contact us with any questions regarding this Privacy Policy.</p></div>
+  	</div>
+	<div class="clear"></div>
+
+<div style="display: none;">
+	<input type="hidden" name="Qform__FormState" id="Qform__FormState" value="59d0b74bd3659a10afbd8af12f6bd37d">
+	<input type="hidden" name="Qform__FormId" id="Qform__FormId" value="shiftCMSPageForm">
+</div>
+
+<input type="hidden" id="Qform__FormControl" name="Qform__FormControl"><input type="hidden" id="Qform__FormEvent" name="Qform__FormEvent"><input type="hidden" id="Qform__FormParameter" name="Qform__FormParameter"><input type="hidden" id="Qform__FormCallType" name="Qform__FormCallType"><input type="hidden" id="Qform__FormUpdates" name="Qform__FormUpdates"><input type="hidden" id="Qform__FormCheckableControls" name="Qform__FormCheckableControls"></form><script type="text/javascript">qc.registerForm(); qc.imageAssets = "/assets/images"; qc.cssAssets = "/assets/css"; qc.phpAssets = "/assets/php"; qc.jsAssets = "/assets/js"; qc.regCA(new Array("mainNavContainer","mainSearchInput","mainSearchButton","pnlTopMessageBar")); </script>					<div id="footer">
+				<div id="footerLeft">
+					©2007-2008 MakeFive (a division of <a href="http://www.smashlab.com" target="_blank">smashLAB</a>). All rights reserved. You are what you think.
+				</div>
+				<div id="footerRight">
+					<a href="/about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/privacy">Privacy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/terms">Terms</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/contact">Contact</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/help">Help</a>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<img id="shadowBottom" src="/media/images/shadow_bottom.gif" width="974" height="13" alt="">
+		</div>
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+		</script>
+		<script type="text/javascript">
+		_uacct = "UA-2806928-1";
+		urchinTracker();
+		</script>
+	
+</body></html>
