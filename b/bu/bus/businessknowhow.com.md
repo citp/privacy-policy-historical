@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessknowhow.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215202956id_/http%3A//www.businessknowhow.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessknowhow.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516052035id_/http%3A//www.businessknowhow.com/privacy.htm) for the most accurate reproduction.*
 
 # Business Know-How Privacy Statement
 
@@ -24,4 +24,4 @@ We do not sell, rent, loan, trade, or lease the addresses on our list to anyone.
 **Publicly Viewable Business Directory Listings**  
 The National Small Business Resource Directory at http://www.businessknowhow.net, functions like a phone directory listing and has been created for the specific purpose of making certain information such as the business name, phone and type of products sold available to the public. When you enter your business listing in the directory, the information you provide will become public information. We have no control over how it will be used.
 
-For further information, please contact Janet Attard, Attard Communications, Inc., 2364 Middle Country Rd., Centereach, NY 11720 (631)-467-6826 email: [attard@businessknowhow.com](mailto:attard@businessknowhow.com)
+For further information, please contact Janet Attard, Attard Communications, Inc., 99 Mark Tree Road, Suite 302, Centereach, NY 11720 (631)-467-8883. email: [attard@businessknowhow.com](mailto:attard@businessknowhow.com)
