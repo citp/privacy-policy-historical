@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flightcentre.com.au privacy policy that was archived on 2007-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011034029id_/http%3A//www.flightcentre.com.au/aboutus/policies/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flightcentre.com.au privacy policy that was archived on 2008-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516043622id_/http%3A//www.flightcentre.com.au/aboutus/policies/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 		<title>Flight Centre - Privacy Policy</title>
@@ -12,11 +12,65 @@
 		<link href="/theme/master.css" rel="Stylesheet" type="text/css">
 	</head>
 	<body>
-<!-- rel FCAU_r1410 -->
+<!-- rel FCAU_r3147 -->
 <link rel="stylesheet" href="/css/template.css" type="text/css" media="all">
 <link href="/searchpanel/searchpanel.css" rel="stylesheet" type="text/css">
+<style>
+*html #subscribe_area {
+	font-size: 10px;
+	float:right;
+	height: 18px;
+	width: 80%;
+	display: none;
+}
 
-<script type="text/javascript" src="/scripts/flashfix.js"></script>
+#subscribe_area {
+	font-size: 10px;
+	float:right;
+	height: 17px;
+	width: 80%;
+	vertical-align:top;
+	display: none;
+}
+*html .email_textbox {
+	border: 1px solid #CCC;
+	height: 14px;
+	margin: 4px 1px 1px 1px;
+	vertical-align: top;
+	display: none;
+}
+.email_textbox {
+	height: 14px;
+	border: 1px solid #CCC;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin: 3px 0px 3px 0px;
+	display: none;
+}
+*html .button {
+	margin: 3px 0px 0px 0px;
+	padding: 0px;
+	display: none;
+}
+.button {
+	margin: 1px 0px 0px 0px;
+	padding: 0px;
+	display: none;
+}
+*html .text {
+	margin-top:-4px;
+	padding: 0px;
+	display: none;
+}
+
+.text {
+	margin: -4x 0px 3px 0px;
+	padding: -4px 0px 0px 0px;
+	font-size: 11px;
+	display: none;
+}
+</style>
+
 
 
 
@@ -27,29 +81,225 @@
 
 
 <div id="fcHeader">
-		
-			
-			<div id="headerImg"><span class="peekaboo">Flight Centre - Unbeatable - Call 131 131</span></div>
-		
-		<div id="menStrip">
-			<div id="captainbase"><img src="/images/nimages/fc_captain_base.gif" width="107" height="24" alt="" border="0"></div>
-			<div id="newmenu">		
-				<a href="/" id="homeOff" title="Home"><span class="peekaboo">Home</span></a>
-				<a href="/flights/" id="flightsOff" title="Flights"><span class="peekaboo">Flights</span></a>
-				<a href="/hotels/" id="hotelsOff" title="Hotels"><span class="peekaboo">Hotels</span></a>
-				<a href="/cars/" id="carsOff" title="Cars"><span class="peekaboo">Cars</span></a>
-				<a href="/rail/" id="railOff" title="Rail"><span class="peekaboo">Rail</span></a>
-				<a href="/cruises/" id="cruisesOff" title="Cruises"><span class="peekaboo">Cruises</span></a>
-				<a href="/insurance/" id="insuranceOff" title="Insurance"><span class="peekaboo">Insurance</span></a>
-				<a href="/holidays/" id="holidaysOff" title="Holidays"><span class="peekaboo">Holidays</span></a>
-				<a href="/destinations/" id="destinationsOff" title="Destinations"><span class="peekaboo">Destinations</span></a>
-				<a href="/specialist/" id="specialistOff" title="Specialist"><span class="peekaboo">Specialist</span></a>
-				<a href="/contactus/" id="contactusOff" title="Contact"><span class="peekaboo">Contact</span></a> 	
-			</div>
-		</div>
+  
+        <!-- Rest of site -->
+        
+        
+        
+  <div id="headerImg">
+    <!-- <form action="http://streaming.xpedite.com.au/417548/lb_Flight_Centre/lb.asp">
+    <div id="subscribe_area" align="right">
+    <div class="text">Be the first to know about airfares sales & great travel deals <input name="email" size="21" type="text" value="your@emailaddress" class="email_textbox" /> <input alt="Subscribe" title="Subscribe" src="/images/signup.gif" type="image" class="button" /></div>
+    </div>
+    </form> -->
+    
+        <!-- add to favourites -->
+           <script language="JavaScript">
+			function addbookmark()
+				{
+				bookmarkurl="http://www.flightcentre.com.au/"
+				bookmarktitle="Flight Centre - Cheap Flights, Airfares & Holiday Packages"
+				if (document.all)
+				window.external.AddFavorite(bookmarkurl,bookmarktitle)
+				}
+	      </script>
+    <div style="float:right;"><a href="javascript:addbookmark()" style="color:#909090; font-size:10px;">+ Add Flight Centre to My Favourites</a></div>
+    <!-- /add to favourites -->
+    
+    <a href="." class="homelink" alt="Flight Centre - Home">&nbsp;</a><span class="peekaboo">Flight Centre - Unbeatable - Call 131 131</span></div>
+  
+	<script type="text/javascript">
+	function subNav() {
+		navRoot = document.getElementById("menuList");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				for (i2=0; i2<node.childNodes.length; i2++) {
+					node1 = node.childNodes[i2];
+					if (node1.nodeName=="A") {					
+						node1.onmouseover=function() {
+							subNavHideAll();
+							document.getElementById(this.id + "_sub").style.display = "block";
+						}
+					}
+				}
+			}
+		}
+	}
+	function subNavHideAll(){
+		var subNavRoot = document.getElementById("submenu");
+		for (i=0; i<subNavRoot.childNodes.length; i++) {
+			node = subNavRoot.childNodes[i];
+			if (node.nodeName=="UL") {
+				document.getElementById(node.id).style.display = "none";
+			}
+		}			
+	}
+	window.onload=subNav;		
+	</script>
+  <div id="newmenu">
+    <ul id="menuList" class="newmenu">
+      <li><a href="/" id="home" title="Home">Home</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/flights/" id="flights" title="Cheap International &amp; Domestic Flights">Flights</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/hotels/" id="hotels" title="Hotels &amp; Accommodation">Hotels</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/cars/" id="cars" title="Car Hire">Cars</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/holidays/" id="holidays" title="International &amp; Australian Holidays">Holidays</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/cruises/" id="cruises" title="Cruises">Cruises</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/travel-extras/" id="extras" title="Travel Extras">Travel Extras</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/destinations/" id="destinations" title="Destinations">Destination Guides</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/specialist/" id="specialist" title="Specialist">Specialist</a></li>
+      <li class="sep">&nbsp;</li>
+      <li class="last"><a href="/contactus/" id="contact" title="Contact">Contact</a></li>
+    </ul>
+  </div>
+  <div id="submenu">
+    <ul id="home_sub" class="peekaboo">
+      <li><a href="http://catalogues.flightcentre.com.au/cms/portal.aspx?b=1" title="Flight Centre e-Brochures" target="_blank">e-Brochures</a></li>
+      <li class="sep">&nbsp;</li>
+      <!-- <li><a href="/greenpolicy/" title="Flight Centre Green Policy">Green Policy</a></li>
+				<li class="sep">&nbsp;</li>
+				<li><a href="/contactus/storelocator/" title="Flight Centre Store Locator">Store Locator</a></li>
+				<li class="sep">&nbsp;</li> -->
+      <li><a href="/email-newsletter/" title="Subscribe to our email newsletter">Subscribe</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/insurance/" title="Travel Insurance">Insurance</a></li>
+      <!--<li class="sep">&nbsp;</li>
+      <li><a href="/news-room/" title="Newsroom">Newsroom</a></li> -->
+    </ul>
+    <ul id="flights_sub" class="peekaboo">
+      <li><a href="/flights/domestic-airfares/" title="Australia &amp; New Zealand Airfares">Australia/NZ</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/flights/international-airfares/" title="International airfares">International</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/business-class-flights/" title="Business Class Flights | Business Class Flights">Business Class</a></li>
+      <li class="sep">&nbsp;</li>  
+      <li><a href="/first-class-flights/" title="First Class Airfares | First Class Flights">First Class</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/roundtheworld/" title="Round the World">Round the World</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/airportparking/" title="Airport Parking">Airport Parking</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/greenpolicy/" title="Cleaner Climate">Cleaner Climate</a></li>
+    </ul>
+    <ul id="hotels_sub" class="peekaboo">
+      <li><a href="/hotels/" title="Australian Hotels &amp; Accommodation">Australia</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="#" title="International Hotels &amp; Accommodation" onclick="window.open('http://www.octopustravel.com/au/Enter.jsp?siteid=flightau','mywindow','width=760,height=600,left=0,top=100,screenX=0,screenY=100')">International</a></li>
+    </ul>
+    <ul id="cars_sub" class="peekaboo">
+      <li><a href="/cars/" title="Car Hire Australia">Australia</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/cars/holidayautos.jsp" title="International Car Hire">International</a></li>
+    </ul>
+    <ul id="holidays_sub" class="peekaboo">
+      <li><a href="/holidays/hot-holiday-destinations/" title="Search By Destination">Search By Destination</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/holidays/" title="Search By Experience">Search By Experience</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/ski/" title="Ski &amp; Snow Guide">Ski &amp; Snow Guide</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/london/" title="London Guide">London Guide</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/thailand-holidays/thailand-travel.jsp" title="Thailand Guide">Thailand Guide</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/cruise/" title="Cruise Guide">Cruise Guide</a></li>
+     
+      
+      
+    </ul>
+    <ul id="cruises_sub" class="peekaboo">
+      <li><a href="http://flightcentre.cruisefactory.net/custom/specials.php">Specials</a></li>
+	  <li class="sep">&nbsp;</li>
+	  <li><a href="http://flightcentre.cruisefactory.net/cruiselines/index.html">Cruise Lines</a></li>
+	  <li class="sep">&nbsp;</li>
+	  <li><a href="http://flightcentre.cruisefactory.net/cruiseships.html">Cruise Ships</a></li>
+	  <li class="sep">&nbsp;</li>
+	  <li><a href="http://flightcentre.cruisefactory.net/destinations/index.html">Destinations</a></li>
+	  <li class="sep">&nbsp;</li>
+	  <li><a href="http://flightcentre.cruisefactory.net/seasons.html">Cruise Seasons</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/cruise/" title="Cruise Guide">Cruise Guide</a></li>
+      
+    </ul>
+    <ul id="extras_sub" class="peekaboo">
+      <li><a href="/insurance/" title="Insurance">Insurance</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/rail/" title="Rail Passes">Rail Passes</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="http://flightcentre.travelguideuniverse.com.au/" title="Travel Shop" target="_blank">Travel Shop</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/gift-cards/" title="Gift Cards">Gift Cards</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/mobile/intro.jsp" title="Flight CentreMobile Site">Mobile Site</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/rss/" title="Flight Centre RSS Feeds">RSS Feeds</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/igoogle-gadget/" title="Flight Centre iGoogle Gadget">iGoogle</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="http://www.affiliate.viator.com/welcome.jsp?AUID=3647" title="Sightseeing" target="_blank">Sightseeing</a></li>
+      <!--
+      <li class="sep">&nbsp;</li>
+      <li><a href="/toolbar/" title="Flight Centre Browser Toolbar">Toolbar</a></li>-->
+    </ul>
+    <ul id="destinations_sub" class="peekaboo">
+      <li><a href="/destinations/asia.jsp " title="Asia Destination Guides">Asia</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/destinations/southpacific.jsp" title="South Pacific Destination Guides">South Pacific</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/destinations/uk_europe.jsp" title="UK &amp; Europe Destination Guides">UK / Europe</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/destinations/africa.jsp" title="Africa &amp; Middle East Destination Guides">Africa &amp; Middle East</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/destinations/americas.jsp" title="Americas Destination Guides">Americas</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="http://flightcentre.agfg.com.au/" title="Australian Good Food Guide" target="_blank">Australian Good Food Guide</a></li>
+    </ul>
+    <ul id="specialist_sub" class="peekaboo">
+      <li><a href="/groups/" title="Group Travel">Group Travel</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="http://www.fcbt.com.au/" title="Business Travel" target="_blank">Business Travel</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/specialist/" title="Working Holidays">Working Holidays</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/ski/" title="Ski">Ski</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/specialist/" title="Touring">Touring</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/specialist/" title="Adventure">Adventure</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/specialist/" title="Australian Travel">Australian Travel</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/cruise/" title="Cruise Guide">Cruise Guide</a></li>
+      
+    </ul>
+    <ul id="contact_sub" class="peekaboo">
+      <li><a href="/contactus/travelquery/enquiryform.jsp?intcmp=fc00000401" title="General Enquiry">General Enquiry</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/contactus/storelocator/" title="Store Locator">Store Locator</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/contactus/#travel_enquiries" title="Quotes &amp; Bookings">Bookings</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/contactus/#internet_bookings" title="Online Bookings">Online Bookings</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/contactus/#company_enquiries" title="Company Contacts">Company Contacts</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="http://www.mytravelfeedback.com/CPRegister.jsp?cid=43&amp;fid=2333&amp;flashpgcode=PG2000-2001" title="Feedback">Feedback</a></li>
+      <li class="sep">&nbsp;</li>
+      <li><a href="/careers/" title="Recruitment">Recruitment</a></li>
+    </ul>
+  </div>
 </div>
 <div class="clearing">&nbsp;</div>
-<div id="fc_content" align="center">
+<div id="fc_content">
+
 		<table cellspacing="0" cellpadding="8" width="770">
 			<tbody><tr>
 				<td>
@@ -146,67 +396,87 @@
 				</td>
 			</tr>
 		</tbody></table>
-<!-- rel FCAU_r1821 -->
-
+<!-- rel FCAU_r3113 -->
 </div>
+<link href="/css/template.css" rel="stylesheet" type="text/css">
+
+
+
+
+
 <style>
-.hide { display: none; }
+.hide {
+	display: none;
+}
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+#lowprice {
+	width:175px; 
+	height:80px;
+	display:block;
+
+}
+
 </style>
 <div class="clearing">&nbsp;</div>
-		<div id="fcfooter">
-		<div id="footerpromisebg">
-		<div id="redbarcontent">
-		<div id="email">
-				<form action="http://streaming.xpedite.com.au/417548/lb_Flight_Centre/lb.asp">		
-			
-					<div id="name">
-						<img src="/images/nimages/email_newsletter.gif" width="112" height="16" alt="" border="0">
-						<input name="email" size="25" type="text" value="your@emailaddress">
-					</div>
-					<div id="inputs">
-					
-						<input alt="Subscribe" title="Subscribe" src="/images/nimages/subscribe.gif" type="image">
-						<input alt="Update" title="Update" src="/images/nimages/update_details.gif" type="image">
-					</div>
-				</form>
-		  </div>
-			
-			<a href="/conditions.jsp"><img src="/images/nimages/conditions.gif" border="0" id="conditions">
-			</a>
-			
-		</div>
-			
-		<div id="greybarcontent">
-			<div style="float: left;"><strong><a href="http://www.flightcentre.com.au/careers/" title="Careers with Flight Centre Limited">Careers</a> | <a href="/aboutus/" title="About Flight Centre">About</a> | <a href="/contactus/" title="Contact Flight Centre">Contact</a> | <a href="/contactus/feedbackform.jsp" title="Feedback">Feedback</a> | <a href="http://flightcentre-au.custhelp.com" title="Frequently Asked Questions">FAQ</a> | <a href="http://www.flightcentre.com.au/corporate/" title="Flight Centre Limted Corporate Site">Corporate</a> | <a href="/suppliers/" title="Flight Centre Suppliers">Suppliers</a> | <a href="/sitemap.jsp" title="Site map">Site map</a></strong> <br>
-			
-				<a href="/browse/" title="Cheap flights departing Australia">Search Cheap Flights </a> | <a href="/suppliers/qantas.htm" title="Qantas">Qantas</a> | <a href="/suppliers/virgin_blue.htm" title="Virgin Blue">Virgin Blue</a> | <a href="/suppliers/jet_star.htm" title="Jetstar">Jetstar</a> | <a href="http://www5.flightcentre.com.au/1/2/indexc1.html" title="Find Cheap Hotels">Hotels</a> | <a href="/greenpolicy/" title="Cleaner Climate">Cleaner Climate</a><br>
-				<a href="/aboutus/policies/privacy.jsp" title="Privacy">Privacy</a> | <a href="/aboutus/policies/termsofuse.jsp" title="Terms Of Use">Terms of use</a> | <a href="/conditionsBookings.jsp" title="Booking Terms and Conditions">Booking Terms &amp; Conditions</a> | <a href="/goldcoastholidays/goldcoastholidays.jsp?intcmp=fc00000399">Gold Coast Holidays</a><br>
-				<a href="http://www.flightcentre.ca/" title="Flight Centre Canada">Canada</a> | <a href="http://www.flightcentre.co.nz/" title="Flight Centre New Zealand">New Zealand</a> | <a href="http://www.flightcentre.co.za/" title="Flight Centre South Africa">South Africa</a> | <a href="http://www.flightcentre.co.uk/" title="Flight Centre United Kingdom">United Kingdom</a> | <a href="http://www.flightcentre.us/" title="Flight Centre United States">United States</a>
 
-			</div>	
-			
-			<div style="float: right;"><a href="/lowpricepromise/?intcmp=fc00000355" id="lowprice" title="Low Price Promise"><span class="peekaboo">Low Price Promise</span></a></div>
-		</div>
-		
-		<div id="footerconditions" style="clear:both; margin-top: 4px; color:#000000;">
-			<p><img src="/images/nimages/triangle.gif" width="5" height="8" alt="Point" border="0"> Based on Australian registered businesses &amp; websites for travel departing within Australia. Quote must be presented prior to final payment.</p>
-			<p>© Flight Centre Limited trading as Flight Centre   ABN 25 003 377 188   ACN 003 377 188</p>
-			<p>Travel Agent Licence Numbers ACT 18800224, NSW 2TA2719, NT 008, QLD TAG262, SA TTA254, TAS TAS031, VIC 31089, WA 9TA 589</p>
-		</div>
-	</div>	
+<div id="fcfooter">
+  <div id="footerpromisebg">
+    
+    <div id="redbarcontent">
+      <div id="email">
+        <form action="http://streaming.xpedite.com.au/417548/lb_Flight_Centre/lb.asp">
+          <div id="name"> <img src="/images/nimages/email_newsletter.gif" width="112" height="16" alt="" border="0">
+            <input name="email" size="25" type="text" value="your@emailaddress">
+          </div>
+          <div id="inputs">
+            <input alt="Subscribe" title="Subscribe" src="/images/nimages/subscribe.gif" type="image">
+            <input alt="Update" title="Update" src="/images/nimages/update_details.gif" type="image">
+          </div>
+        </form>
+      </div>
+      <a href="/conditions.jsp"><img src="/images/nimages/conditions.gif" border="0" id="conditions"> </a> 
+      </div>
+      
+      
+    <div id="greybarcontent">
+    <div style="float: left;">
+    <strong><a href="/careers/" title="Flight Centre Careers">Careers</a> | <a href="/aboutus/" title="About Flight Centre">About</a> | <a href="/contactus/" title="Contact Flight Centre">Contact</a> | <a href="/contactus/feedbackform.jsp" title="Feedback">Feedback</a> | <a href="http://flightcentre-au.custhelp.com" title="Frequently Asked Questions">FAQ</a> | <a href="http://www.flightcentre.com.au/corporate/" title="Flight Centre Limted Corporate Site">Corporate</a> | <a href="/suppliers/" title="Flight Centre Suppliers">Suppliers</a> | <a href="/sitemap.jsp" title="Site map">Site map</a></strong> <br>
+      <a href="/browse/" title="Cheap flights departing Australia">Cheap Flights </a> | <a href="/suppliers/qantas.htm" title="Qantas">Qantas</a> | <a href="/suppliers/virgin_blue.htm" title="Virgin Blue">Virgin Blue</a> | <a href="/suppliers/jet_star.htm" title="Jetstar">Jetstar</a> | <a href="/suppliers/emirates.htm" title="Emirates">Emirates</a> | <a href="/suppliers/singapore_airlines.htm" title="Singapore Airlines">Singapore Airlines</a> <br>
+      <a href="http://www.flightcentre.com.au/london" title="Travel to London | London flights, London Accommodation &amp; more">London</a> | <a href="/thailand-holidays/thailand-holidays.jsp?regionId=2&amp;subRegionId=159&amp;packageId=-1">Thailand Holidays</a> | <a href="/roundtheworld/" title="Round the World">Round the World</a> | <a href="http://www.flightcentre.com.au/holidays/catalogue/bysearch.jsp?priceHigh=-1&amp;priceLow=-1&amp;minDepDate=16/06/2008&amp;regionId=8&amp;subRegionId=196&amp;packageId=-1&amp;departDate=16/06/2008&amp;price=0&amp;x=14&amp;y=10" title="Fiji">Fiji</a> | 
+      <a href="/goldcoastholidays/goldcoastholidays.jsp?intcmp=fc00000399" title="Cheap Gold Coast Holidays">Gold Coast Holidays</a> | <a href="/holidays/" title="Cheap Holidays">Cheap Holidays</a> <br>
+      <a href="http://www5.flightcentre.com.au/1/2/indexc1.html" title="Find Cheap Hotels">Hotels</a> | <a href="/hotels/" title="Last Minute Accommodation">Last Minute Accommodation</a> | <a href="http://www5.flightcentre.com.au/1/3/index1.html" title="Car Hire">Car Hire</a> | <a href="/insurance/" title="Travel Insurance">Travel Insurance</a> | <a href="/cruise/" title="Cruise">Cruise</a> | <a href="http://catalogues.flightcentre.com.au" title="Catalogues">Catalogues</a> <br>
+      <a href="/aboutus/policies/privacy.jsp" title="Privacy">Privacy</a> | <a href="/aboutus/policies/termsofuse.jsp" title="Terms Of Use">Terms of use</a> | <a href="/conditionsBookings.jsp" title="Booking Terms &amp; Conditions">Booking Terms &amp; Conditions</a> | <a href="/greenpolicy/" title="Cleaner Climate">Cleaner Climate</a> | <a href="http://www5.flightcentre.com.au/1/4/index1.html" title="Find Cheap Holidays">Holidays</a><!--<a href="#" title="Be Inspired">Be Inspired</a>--> <br>
+      <a href="http://www.flightcentre.ca/" title="Flight Centre Canada" target="_blank">Canada</a> | <a href="http://www.flightcentre.co.nz/" title="Flight Centre New Zealand" target="_blank">New Zealand</a> | <a href="http://www.flightcentre.co.za/" title="Flight Centre South Africa" target="_blank">South Africa</a> | <a href="http://www.flightcentre.co.uk/" title="Flight Centre United Kingdom" target="_blank">United Kingdom</a> | <a href="http://www.flightcentre.us/" title="Flight Centre United States" target="_blank">United States</a> | <a href="/international-airline-guide/">International Airline Guide</a> 
+	  <!--<a href="/international-airline-guide/">International Airline Guide</a> -->
+      
+      </div>
+    <div style="float: right;"><a href="/lowpricepromise/?intcmp=fc00000355" id="lowprice" title="Low Price Promise"><span class="peekaboo" style=" height: 20px; width:20px;">Low Price Promise</span></a></div>
+  </div>
+  
+  
+  <div style="clear:both;"></div>
+  
+  <div id="footerconditions" style="clear:both; padding-top: 20px; color:#000000;">
+    <p><img src="/images/nimages/triangle.gif" width="5" height="8" alt="Point" border="0"> Based on Australian registered businesses &amp; websites for travel departing within Australia. Quote must be presented prior to final payment.</p>
+    <p>© Flight Centre Limited trading as Flight Centre   ABN 25 003 377 188   ACN 003 377 188</p>
+    <p>Travel Agent Licence Numbers ACT 18800224, NSW 2TA2719, NT 008, QLD TAG262, SA TTA254, TAS TAS031, VIC 31089, WA 9TA 589</p>
+  </div>
 </div>
-
-
+</div>
 
 <!-- SiteCatalyst code version: G.7.Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com -->
 <script language="JavaScript">
 <!--
 var s_pageName="Privacy Policy"
 var s_channel="Help"
-var s_server="ABNEK152"
+var s_server="ABNEK115"
 -->
 </script>
-<script language="JavaScript" src="/scripts/fc_s_code_remote.js"></script><img name="s_i_fcflightcentreau" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/fcflightcentreau/1/G.7-Pd-R/s02736216971551?[AQB]&amp;ndh=1&amp;t=30/0/2020%207%3A47%3A22%204%200&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20071011034029id_/http%253A//www.flightcentre.com.au/aboutus/policies/privacy.jsp&amp;ch=Help&amp;server=ABNEK152&amp;cc=AUD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript" src="/scripts/fc_s_code_remote.js"></script><img name="s_i_fcflightcentreau" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/fcflightcentreau/1/G.7-Pd-R/s04314013051558?[AQB]&amp;ndh=1&amp;t=24/1/2020%206%3A23%3A44%201%200&amp;cdp=3&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20080516043622id_/http%253A//www.flightcentre.com.au/aboutus/policies/privacy.jsp&amp;ch=Help&amp;server=ABNEK115&amp;cc=AUD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <!-- End SiteCatalyst code version: G.7. -->
 
 	
