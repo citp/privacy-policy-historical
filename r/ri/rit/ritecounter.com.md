@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritecounter.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206181932id_/http%3A//ritecounter.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritecounter.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516035036id_/http%3A//www.ritecounter.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
