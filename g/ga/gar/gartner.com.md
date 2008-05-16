@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gartner.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030191006id_/http%3A//www.gartner.com/pages/story.php.id.2630.s.8.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gartner.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517001356id_/http%3A//www.gartner.com/pages/story.php.id.2630.s.8.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
