@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the magnify.net privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015053234id_/http%3A//www.magnify.net/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnify.net privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516202017id_/http%3A//www.magnify.net/terms/privacy) for the most accurate reproduction.*
 
 # We take your privacy seriously at Magnify.net
 
-Our [full Privacy Policy](https://web.archive.org/web/20071015053234id_/http%3A//www.magnify.net/terms/privacy_details) describes how we treat personal information when you use our service. The following is a "short version" of our privacy practices:
+Our [full Privacy Policy](https://web.archive.org/web/20080516202017id_/http://www.magnify.net/terms/privacy/privacy_details) describes how we treat personal information when you use our service. The following is a "short version" of our privacy practices:
 
 #### Personal information
 
@@ -30,7 +30,7 @@ If you abandon your site for over 90 days we will remove all videos and links fr
 
 #### More information
 
-For more information about our privacy practices, go to our [full privacy policy](https://web.archive.org/web/20071015053234id_/http%3A//www.magnify.net/terms/privacy_details).
+For more information about our privacy practices, go to our [full privacy policy](https://web.archive.org/web/20080516202017id_/http://www.magnify.net/terms/privacy/privacy_details).
 
 Further information about Magnify.net is available in our About or Contact Us pages.
 
@@ -38,8 +38,8 @@ If you have additional questions, please feel free to contact us mediamagnify.ne
 
 ### About Us
 
+### Explore
+
 ### Contact
 
 ### Service Terms
-
-« Privacy Policy 
