@@ -1,15 +1,88 @@
-<!--The following is the downloaded HTML source of the unsubcentral.com privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213004531id_/http%3A//www.unsubcentral.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unsubcentral.com privacy policy that was archived on 2008-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516063759id_/http%3A//www.unsubcentral.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>UnsubCentral - 
 Privacy Policy</title>
+<script src="utility.txt"></script>
+<script type="text/javascript">
+<!--
+
+// function switchDiv()
+//  this function takes the id of a div
+//  and calls the other functions required
+//  to show that div
+//
+function switchDiv(div_id)
+{
+  var style_sheet = getStyleObject(div_id);
+  if (style_sheet)
+  {
+    hideAll();
+    changeObjectVisibility(div_id,"visible");
+  }
+  else 
+  {
+    alert("sorry, this only works in browsers that do Dynamic HTML");
+  }
+}
+
+// function hideAll()
+//  hides a bunch of divs
+//
+function hideAll()
+{
+   changeObjectVisibility("login","hidden");
+   changeObjectVisibility("login2","hidden");
+   changeObjectVisibility("login3","hidden");
+   changeObjectVisibility("login4","hidden");
+
+}
+
+// function getStyleObject(string) -> returns style object
+//  given a string containing the id of an object
+//  the function returns the stylesheet of that object
+//  or false if it can't find a stylesheet.  Handles
+//  cross-browser compatibility issues.
+//
+function getStyleObject(objectId) {
+  // checkW3C DOM, then MSIE 4, then NN 4.
+  //
+  if(document.getElementById && document.getElementById(objectId)) {
+	return document.getElementById(objectId).style;
+   }
+   else if (document.all && document.all(objectId)) {  
+	return document.all(objectId).style;
+   } 
+   else if (document.layers && document.layers[objectId]) { 
+	return document.layers[objectId];
+   } else {
+	return false;
+   }
+}
+
+function changeObjectVisibility(objectId, newVisibility) {
+    // first get a reference to the cross-browser style object 
+    // and make sure the object exists
+    var styleObject = getStyleObject(objectId);
+    if(styleObject) {
+	styleObject.visibility = newVisibility;
+	return true;
+    } else {
+	// we couldn't find the object, so we can't change its visibility
+	return false;
+    }
+}
+// -->
+</script>
+
+
 <script type="text/javascript" src="/includes/swfobject.js"></script>
 <link type="text/css" rel="stylesheet" href="/includes/default.css">
 <script src="/includes/default.js" type="text/javascript"></script>
-<meta name="keywords" content="unsubcentral, can-spam, suppression, opt-out, unsubscribe, email, marketing, security, privacy, list, cleansing, software, service">
+<meta name="keywords" content="Datran Media, UnsubCentral">
 <meta name="author" content="Erik Stark, Sam Eder, John Engler">
-<meta name="description" content="UnsubCentral provides a secure, centralized repository for managing and sharing unsubscribe lists with e-mail list providers. UnsubCentral will help your company comply with the CAN-SPAM Act before your next scheduled mailing.">
+<meta name="description" content="Through UnsubCentral, Inc, Datran Media offers advertisers and affiliates global CAN-SPAM suppression list management solutions.">
 <!-- apogee-search.HitsLink.com/ web tools statistics hit counter code -->
 <script type="text/javascript" id="wa_u" src="https://counter.hitslink.com/track.js"></script>
 <script type="text/javascript">//<![CDATA[
@@ -39,7 +112,7 @@ document.getElementById('wa_u').src=wa_hp+'://counter.hitslink.com/track.js'; //
 			<table cellspacing="0" cellpadding="0" bgcolor="#70778C">
 				<tbody><tr>
 					<td valign="bottom">
-						<a href="/index.php"><img src="/images/unsub-logo.jpg" border="0" alt="Unsub Central"></a></td>
+						<a href="/index.php"><img src="/images/unsub-logo.jpg" border="0" alt="Datran Media, UnsubCentral"></a></td>
 					
 					<td valign="bottom" width="100%" align="right">
 						<table cellpadding="0" cellspacing="0">
@@ -65,7 +138,7 @@ document.getElementById('wa_u').src=wa_hp+'://counter.hitslink.com/track.js'; //
 				<tbody><tr>
 					<td><img src="/images/unsub_header_left.jpg" border="0" width="8" height="73" alt="Unsub Central"></td>
 					<td valign="top" width="100%" align="right" class="headerSection">
-												<img src="/images/unsub_header_privacy.jpg" border="0" alt="Unsub Central">
+												<img src="/images/unsub_header_privacy.jpg" border="0" alt="Datran Media">
 												
 					</td>
 				</tr>
@@ -147,6 +220,8 @@ Austin, TX 78701.</p>
 		</td>
 	</tr>
 </tbody></table>
+
+
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
  </script>
  <script type="text/javascript">
