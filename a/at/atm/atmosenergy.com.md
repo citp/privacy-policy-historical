@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atmosenergy.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213111240id_/http%3A//www.atmosenergy.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atmosenergy.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516040949id_/http%3A//www.atmosenergy.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Atmos Energy
 
@@ -45,6 +45,12 @@ You are not required to register or provide information to us to view much of ou
 Atmos Energy will endeavor to take all steps deemed reasonable by Atmos Energy to keep secure any information we hold about you, and to keep this information accurate and up to date. However, Atmos Energy will not be held responsible for events arising from unauthorized access to your personal information 
 
 Your information is stored on secure servers that are protected in controlled facilities. We require our employees and data processors to respect the confidentiality of any personal information held by Atmos Energy. 
+
+**Third-Party Payment Processing**  
+Atmos Energy uses third parties to process credit card and ATM/debit payments. The information you provide in connection with these payments is securely transmitted to the third party processors, and is not stored by Atmos Energy. 
+
+**Links to Other Sites**  
+The Atmos Energy web site may contain links to other web sites not affiliated with Atmos Energy. Atmos Energy is not responsible for the privacy practices or the content of such web sites and recommends that you carefully read the privacy policies of each site you visit. 
 
 **Viruses**  
 Atmos Energy uses appropriate commercially available anti-virus software to ensure that this Web site does not contain or carry viruses. However, due to the rapidly developing nature of viruses and the Internet, we strongly recommend that you employ similar anti-virus software when accessing Atmos Energy Web sites. Atmos Energy makes no warranty that its Web sites or e-mail correspondences are free from such viruses. 
