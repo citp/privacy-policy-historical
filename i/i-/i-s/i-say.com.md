@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229231949id_/http%3A//i-say.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516113325id_/http%3A//www.i-say.com/privacy.aspx) for the most accurate reproduction.*
 
 # Ipsos i-Say Privacy Policy - For Online Panel Members
 
 ## Ipsos Privacy Statement
 
-_Last revised February 2007_
+_Last revised April 2008_
 
-[](http://www.truste.org/ivalidate.php?url=www.i-say.com&sealid=101)
+[](http://www.truste.org/ivalidate.php?url=www.i-say.com&sealid=111)
 
 The purpose of this Privacy Statement is to inform you about the practices and procedures of Ipsos (as follows, “we” or “us”) in handling Personal Information and to inform you about the Personal Information we collect about you when you participate in one of our surveys. It explains how we use and disclose that information, the choices you have regarding such use and disclosure, and how you may correct that information.
 
@@ -173,7 +173,7 @@ As is true of most Web sites, we gather certain information automatically and st
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
 
-We do not link this automatically-collected data to personally identifiable information, including your email address. We use a third-party tracking service called Itracks that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate, to capture number of clicks by recruitment source in order to compensate vendors.
+We do not link this automatically-collected data to personally identifiable information, including your email address.
 
 **Cookies  
 **A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information, including email address, you submit while on our site. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. This privacy statement covers the use of cookies by www.i-say.com and i-say.ca only and does not cover the use of cookies by any third parties.
@@ -182,4 +182,4 @@ We do not link this automatically-collected data to personally identifiable info
 We do not use any tracking technologies in our email messages.  
 
 
-[](http://www.truste.org/ivalidate.php?url=www.i-say.com&sealid=101)
+[](http://www.truste.org/ivalidate.php?url=www.i-say.com&sealid=111)
