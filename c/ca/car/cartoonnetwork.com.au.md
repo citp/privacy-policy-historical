@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226130034id_/http%3A//www.cartoonnetwork.com.au/jsp/help/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516103922id_/http%3A//www.cartoonnetwork.com.au/jsp/help/privacy/index.jsp) for the most accurate reproduction.*
 
 # Cartoon Network - Help
 
@@ -34,4 +34,4 @@ At _[CartoonNetwork.com.au](http://www.cartoonnetwork.com.au/)_ , we use cookies
 
 As we have taken special precautions to aid in the safety of your child's World Wide Web experience, we ask parents to monitor closely the Internet activities of their children and become educated on the various Internet and software tools available so as to ensure that their child has a fun and satisfying on-line experience. 
 
-© 2007 Turner Entertainment Networks Asia, Inc.
+© 2008 Turner Entertainment Networks Asia, Inc.
