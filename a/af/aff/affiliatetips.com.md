@@ -1,77 +1,35 @@
-> *The following text is extracted and transformed from the affiliatetips.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607111856id_/http%3A//affiliatetips.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatetips.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516092638id_/http%3A//www.affiliatetips.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Affiliate Tips - Affiliate Marketing Tips And Affiliate Program News
+# AffiliateTips.com - Privacy Policy
 
-  | 
+## Privacy Policy
 
-**FREE Affiliate Tips!**  
-  
----  
-  
-Don´t miss out! Subscribe to Affiliate Tips quality newsletter and get the free training course "The Ten Basic Principles of How To Make Money With Affiliate Programs" right now (value $29)  
-  
----  
-  
----  
-  
-|  | **21 FREE Audio JAM sessions from  
-Declan Dunn
+AffiliateTips.com respects your privacy. All information collected at AffiliateTips.com will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to AffiliateTips.com will be held with the utmost care, and will not be used in ways that you have not consented to. 
 
-  
-  
-Part Of:  
-Net Profits: How to Win the Internet Game  
-_  
-"Proven Guerilla Tactics Of the $65,000 Affiliate, the $750,000 Super Affiliate, and the $600,000/6 weks. Performance Network."_
+### Resale or disclosure of information to third parties:
 
-**  
----  
-  
-**  
-** "Declan´s Internet Jam Sessions are way cool. In fact, this is the best free performance marketing training I have ever seen. What I like the most is how Declan explains the key formula of how to make real profits online in such a simple and powerful way. 
+AffiliateTips.com does not sell, rent, trade, loan, or lease any personal information collected at our site, including membership forms or e-mail lists. 
 
-If you are serious about winning the internet game then this **FREE audio training system is something you don´t want to miss**. I highly recommend the Internet Jam Sessions. In my humble opinion... **Declan rules!** "
+### Browser information collected on the Web site:
 
-**Ola Edvardsson, Editor**  
-  
-**Get the FREE audio training system NOW!**  
-   
-  
-|    | **  
-Affiliate Tips Privacy Policy   
-**  
-Affiliatetips.com has created this **privacy statement** in order to demonstrate our **firm commitment to privacy**. The following discloses our information gathering and dissemination practices for this website: affiliatetips.com.
+AffiliateTips.com analyzes the Web site logs to improve the value of the materials available on our site. Our Web site logs are not personally identifiable, and we make no attempt to link them with the individuals who actually browse the site. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
+### Ad Servers:
 
-Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: http://www.google.com/privacy.html 
 
-This site contains links to other sites. Affiliatetips.com is not responsible for the privacy practices or the content of such Web sites.
+### Advertisements:
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+We currently have ads served by an in-house program, which follows these privacy guidelines. 
 
-Our online surveys ask visitors for contact information (like their email address). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+### Use of cookies:
 
-We run contests on our site in which we ask visitors for contact information (like their email address). We use contact data from our contests to send users information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+AffiliateTips.com does use cookies on its Web site, mostly in order to track traffic coming from other Web sites and leaving to other Web sites. We do not use the cookies to attempt to link them with individuals to make any information personally identifiable. 
 
-**Public Forums**  
-Our site makes or will make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+### 3rd party cookies:
 
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All our data is backed up daily and can only be accessed by authorized staff at WWW Marketing Ltd.
+Various advertisers or affiliate merchants on this site may use cookies. Typically it is click stream data so that merchants may ascertain statistical and referral information. However, we do not know specifically what, if any information they may collect. This is beyond our control and we do not accept any liability regarding 3rd party cookies. We therefore refer to respective privacy policies. 
 
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.   
-Affiliatetips gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Send an email to [unsubscribe@affiliatetips.com](mailto:unsubscribe@affiliatetips.com).
+### Updates and changes:
 
-**Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided.   
-email [update@affiliatetips.com](mailto:update@affiliatetips.com)
-
-**Contacting us regarding our privacy policy**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-Ola Edvardsson  
-[editor@affiliatetips.com](mailto:editor@affiliatetips.com)  
-  
-**Copyright 1999-2000.    Ola Edvardsson . All rights reserved. **
+AffiliateTips.com reserves the right to replace its Privacy Policy at any time. We suggest that you regularly check http://www.affiliatetips.com/privacy-policy for updates. Please e-mail [AffiliateTips.com](mailto:info@affiliatetips.com) with questions or comments. 
