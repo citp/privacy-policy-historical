@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dnhour.com privacy policy that was archived on 2007-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070821113100id_/http%3A//www.dnhour.com/policy-en.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnhour.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516192301id_/http%3A//dnhour.com/policy-en.php) for the most accurate reproduction.*
 
-# DNHour.com : Domain Name News Portal. 100% Domainer-Powered Content.
+# Domain News | Domain Name News | 100% Domainer-Powered Content.
 
 ## **PRIVACY POLICY**
 
@@ -91,9 +91,8 @@ We may, from time to time, send you emails regarding our service so that we can 
   
 
 
-Please [contact us](https://web.archive.org/web/20070821113100id_/http%3A//www.dnhour.com/contact.php) if you should have any questions, comments or concerns about this privacy policy. 
-  
+Please [contact us](https://web.archive.org/web/20080516192301id_/http%3A//dnhour.com/contact.php) if you should have any questions, comments or concerns about this privacy policy. 
 
 
-  
+﻿   
 
