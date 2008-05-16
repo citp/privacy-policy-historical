@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuradio.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219205526id_/http%3A//www.accuradio.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuradio.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516093917id_/http%3A//www.accuradio.com/privacypolicy) for the most accurate reproduction.*
 
 # AccuRadio - The Next Generation of Radio
 
@@ -14,6 +14,6 @@ If you have any questions or concerns about the AccuRadio privacy policy for thi
 
 Third party advertising
 
-AccuRadio.com utilizes several advertising services such as Google AdSense, Fastclick, and Advertising.com. These companies may use cookies and automatically collected information about your visits to this and other web sites in order to provide advertisements that may be of interest to you. The information they use is not personally identifiable, and does not contain your name, email address, physical address, or phone number. 
+AccuRadio.com utilizes several advertising services such as Google AdSense, Fastclick, and Advertising.com. These companies may use cookies and automatically collected information about your visits to this and other web sites in order to provide advertisements that may be of interest to you. The information they use is not personally identifiable, and does not contain your name, email address, physical address, or phone number. If you would like more information about this practice and to know your choices about not having this information used by these compaines, click [here.](http://networkadvertising.org/managing/opt_out.asp)
 
 In addition, AccuRadio.com does not condone advertisers who attempt to install spyware or other kinds of malware onto your system, advertisers who make false claims to collect personal information, or advertisers who utilise sound or "browser takeover" methods in the advertisements themselves. Though they will occasionally slip through, rest assured that we do our best to prevent these kinds of advertisements from being displayed on our site. 
