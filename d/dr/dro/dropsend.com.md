@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dropsend.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223165150id_/http%3A//www.dropsend.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropsend.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516084825id_/http%3A//dropsend.com/privacy.php) for the most accurate reproduction.*
 
-# DropSend | Privacy Policy
+# DropSend - Email big files and send big files
 
-* Carson Systems is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK.
+* Carsonified is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK.
 
 The purpose of this statement is to explain to you what personal information we collect and how we may use it.
 
