@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vans.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210235830id_/http%3A//www.vans.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vans.co.uk privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517002404id_/http%3A//www.vans.co.uk/privacy.php) for the most accurate reproduction.*
 
 # VANS UK | PRIVACY POLICY
 
