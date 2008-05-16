@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the ghchealth.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005120240id_/https%3A//www.ghchealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghchealth.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516042926id_/http%3A//www.ghchealth.com/privacy) for the most accurate reproduction.*
 
 # Global Healing Center
+
+[](http://www.ghchealth.com/promos/may2008-2/)  
+
+
+  
+
 
 This privacy notice discloses the privacy practices for www.ghchealth.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
