@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224140322id_/http%3A//www.news-journalonline.com/online/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516042741id_/http%3A//www.news-journalonline.com/online/privacy.htm) for the most accurate reproduction.*
 
-# Community - newsjournalonline.com
+# Help - newsjournalonline.com
+
+Privacy Statement
 
 The News-Journal is committed to bringing you the best possible online experience that we can provide. One important aspect of that experience is ensuring that you are aware of when and how the News-Journal collects information about you and how that information is used. We believe that this policy effectively balances your privacy and our collection of necessary information to enhance our services to you.
 
