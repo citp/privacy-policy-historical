@@ -1,299 +1,683 @@
-<!--The following is the downloaded HTML source of the thesouthern.com privacy policy that was archived on 2005-02-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050204043514id_/http%3A//thesouthern.com/template.php%3Fp%3Dspecial/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thesouthern.com privacy policy that was archived on 2008-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516214537id_/http%3A//www.thesouthern.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>The Southern Illinoisan</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="News, sports, classifieds, and obituaries covering Southern Illinois.">
-<meta name="description" content="southern illinois, news, weather, sports, salukis, siu, southern illinois university, carbondale, marion, murphysboro, harrisburg, mt. vernon">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="/style_netscape.css">
-<link rel="stylesheet" type="text/css" href="/style.css">
-<link rel="alternate stylesheet" type="text/css" media="screen" title="Light Blue" href="/style_blue.css" disabled="">
-<link rel="alternate stylesheet" type="text/css" media="screen" title="Dark Blue" href="/style_dk_blue.css" disabled="">
-<link rel="alternate stylesheet" type="text/css" media="screen" title="Grey" href="/style_grey.css" disabled="">
-<link rel="alternate stylesheet" type="text/css" media="screen" title="Teal" href="/style_teal.css" disabled="">
-<link rel="alternate stylesheet" type="text/css" media="screen" title="Maroon" href="/style_maroon.css" disabled="">
-<link rel="alternate stylesheet" type="text/css" media="screen" title="Sand" href="/style_sand.css" disabled="">
-<link rel="alternate" type="application/rss+xml" title="RSS" href="/rednews/xml/rss.xml">
+<html><head>
+	<title>:: TheSouthern.com - Southern Illinois' Homepage ::</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keyword" content="Lee Enterprises, Southern Illinois, Carbondale classifieds, Marion Classifieds, Carbondale news, Carbondale weather, Carbondale sports, Salukis, Saluki, SIU, southern illinois university, Carbondale, Marion, murphysboro, harrisburg, mt. vernon, herrin, carterville, illinois health, illinois business, sudoku, flipside, SBJ">
+<meta name="description" content="The Southern Illinoisan is Southern Illinois' most widely read newspaper and website, serving over 20 counties in Southern Illinois.">
+	
 
-<script type="text/javascript" language="JavaScript" src="/scripts/site_scripts.php"></script>
+<script src="http://www.thesouthern.com/js/dynamic.js" type="text/javascript"></script>
+<script src="http://www.thesouthern.com/js/tabs.js" type="text/javascript"></script>
+<script src="http://www.thesouthern.com/js/timer.js" type="text/javascript"></script>
+
+<script type="text/javascript" language="JavaScript">
+
+// Toggle visibility of an element
+function toggleVisibility(elementName,state)
+{
+	if(elementName && state && document.getElementById(elementName) && state == 'show')
+	{ document.getElementById(elementName).style.display = 'block'; }
+	else if(elementName && state && document.getElementById(elementName) && state == 'hide')
+	{ document.getElementById(elementName).style.display = 'none'; }
+}
+
+// Set cookie
+function createCookie(name,value,days)
+{
+	if (days)
+	{
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else
+	{ expires = ""; }
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+// Read cookie
+function readCookie(name)
+{
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++)
+	{
+		var c = ca[i];
+		while (c.charAt(0)==' ')
+		{ c = c.substring(1,c.length); }
+		if (c.indexOf(nameEQ) == 0)
+		{ return c.substring(nameEQ.length,c.length); }
+	}
+	return null;
+}
+
+// Controls visibility of drop-down menu for classifieds categories in top search box
+function searchClassified(state)
+{
+	if(state=='true')
+	{ document.searchForm.classDrop.disabled=false; }
+	else{ document.searchForm.classDrop.disabled=true; }
+}
+
+// Style Switcher - Set stylesheet
+function setActiveStyleSheet(title)
+{
+	var i, a, main;
+	for(i=0; (a = document.getElementsByTagName("link")[i]); i++)
+	{
+		if(a.getAttribute("rel").indexOf("style") != -1 && a.getAttribute("title"))
+		{
+			a.disabled = true;
+			if(a.getAttribute("title") == title)
+			{ a.disabled = false; }
+		}
+	}
+}
+
+// Style Switcher - Get current stylesheet
+function getActiveStyleSheet()
+{
+	var i, a;
+	for(i=0; (a = document.getElementsByTagName("link")[i]); i++)
+	{
+		if(a.getAttribute("rel").indexOf("style") != -1 && a.getAttribute("title") && !a.disabled)
+		{ return a.getAttribute("title"); }
+	}
+	return null;
+}
+
+// Style Switcher - Get preferred stylesheet
+function getPreferredStyleSheet()
+{
+	var i, a;
+	for(i=0; (a = document.getElementsByTagName("link")[i]); i++)
+	{
+		if(a.getAttribute("rel").indexOf("style") != -1 && a.getAttribute("rel").indexOf("alt") == -1 && a.getAttribute("title"))
+		{ return a.getAttribute("title"); }
+	}
+	return null;
+}
+
+// Style Switcher - Get style on load
+function pageLoadGetStyle(e) 
+{
+	var cookie = readCookie("style");
+	var title = cookie ? cookie : getPreferredStyleSheet();
+	setActiveStyleSheet(title);
+}
+
+// Style Switcher - Save style on page unload
+function pageUnLoadGetStyle(e) 
+{
+	var title = getActiveStyleSheet();
+	createCookie("style", title, 365);
+}
+
+
+var cookie = readCookie("style");
+var title = cookie ? cookie : getPreferredStyleSheet();
+setActiveStyleSheet(title);
+
+// IE "Make Bookmark" script
+var bookmarkurl="http://www.thesouthern.com";
+var bookmarktitle="The Southern Illinoisan";
+function addbookmark()
+{
+	if(document.all)
+	{ window.external.AddFavorite(bookmarkurl,bookmarktitle) }
+}
+
+function MM_callJS(jsStr)
+{ return eval(jsStr) }
+
+// "Blank search check"
+function checkSearch()
+{
+	if (document.form1.search_text.value=="" || document.form1.search_text.value=="Search...")
+	{ alert("Please enter a search string in the box."); return (false); }
+	else { return (true); }
+}
+
+// Clear default value from search box
+function clearDefault(el)
+{
+	if (el.defaultValue==el.value)
+	{ el.value = ""; }
+}
+
+// Popup window script
+function popUp(URL)
+{
+	day = new Date();
+	id = day.getTime();
+	eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=400,height=350');");
+}
+
+// Popup galleries only
+function popGallery(URL)
+{
+	day = new Date();
+	id = day.getTime();
+	eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=650,height=575');");
+}
+
+
+</script>
+<script language="JavaScript" src="http://www.thesouthern.com/scripts/omniture/s_code.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="/styles.css">
+<link rel="alternate stylesheet" type="text/css" title="large" href="/large.css">
 </head>
 
-<body onload="PreloadRolloverImages('/images/header/tab_pgoneOn.gif','/images/header/tab_locOn.gif','/images/header/tab_sportsOn.gif','/images/header/tab_opiOn.gif','/images/header/tab_outOn.gif','/images/header/tab_busOn.gif','/images/header/tab_lifeOn.gif','/images/header/tab_obitsOn.gif','/images/header/tab_classOn.gif','/images/classicon-autos_top-over.gif','/images/classicon-real_estate_top_over.gif','/images/classicon-jobs_top_over.gif');pageLoadGetStyle();" onunload="pageUnLoadGetStyle();">
-<table width="1" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-<tbody><tr>
-<td align="left" valign="top"><table class="TopBar" width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr align="center">
-<td width="270" align="left" nowrap="" class="MainpageStoryText"><span class="TopBarText" style="padding-left:3px;font:bold 10pt;">GOOD EVENING</span></td>
-<td width="354" align="center" nowrap=""><span class="TopBarText" style="font-size:9pt;">Thursday, February 03, 2005</span></td>
-<td width="144" align="center" nowrap="" class="TopBarText" style="padding:0px 3px 0px 3px;background:#FFCECE;border-left:1px solid #333;"><a class="TopBarText" style="color:#000;" href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=sub_online"><img src="/images/classicon-daily.gif" width="30" height="20" border="0" align="middle" alt="Newspaper">SUBSCRIBE ONLINE</a></td>
-</tr>
-</tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" class="HeaderBG">
-<tbody><tr>
-<td width="185" align="left" valign="middle" nowrap=""><span class="MainpageStoryText"><span class="TopBarText" style="padding-left:0px;font:bold 10pt;">
-<img src="/images/header/03.jpg" alt="" width="142" height="88"></span></span></td>
-<td width="396" align="center" valign="middle"><img style="text-align:right" src="/images/header/logo.gif" alt="TheSouthern.com" width="297" height="64"></td>
-<td width="175" align="center" valign="middle"><table width="100%" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="17" rowspan="2" align="center" valign="middle">
-<a href="http://www.crh.noaa.gov/forecasts/ILZ084.php?warncounty=ILC077&amp;city=Carbondale" target="_blank">
-<img alt="Fog" align="middle" border="0" src="/images/weather/night-hazy.gif"></a>
+<body>
+<table width="980" align="center" id="MainTable">
+	<tbody><tr>
+		<td>
+			<!-- Header -->
+			<div id="Header">
+	<table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<!-- Masthead -->
+			<td height="130" valign="top">
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+						
+						
+				
+				
+				<div id="Header">
+	<table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<!-- Masthead -->
+			<td height="130" valign="top">
+
+<div id="MastHead">
+					<a href="http://www.thesouthern.com">
+					<img src="http://images.townnews.com/thesouthern.com/images/header/05.jpg" border="0" alt="page masthead" width="631" height="130"></a>
+				</div>
 </td>
-<td valign="middle"><a href="http://www.crh.noaa.gov/forecasts/ILZ084.php?warncounty=ILC077&amp;city=Carbondale" target="_blank" class="TopBarText" style="font-size:10pt;">30°F<br> Fog/Mist</a></td>
-</tr>
-<tr>
-<td valign="middle"><a href="http://www.crh.noaa.gov/forecasts/ILZ084.php?warncounty=ILC077&amp;city=Carbondale" target="_blank" class="TopBarText">Forecast...</a> </td>
-</tr>
-</tbody></table>
-<span class="supersmalltext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
-</tr>
-</tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td colspan="6" valign="middle" class="MenuBar">
+			
+					</tr>
+	</tbody></table>
+</div>
+
+			</td>
 
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			<!-- Weather -->
+			<td class="WeatherCell" valign="middle">
+			<style>
+table.qc_obs_table {
+	border-style: solid;  
+	border-color: #bbbbcc;
+	border-width:0;
+    padding: 0;
+    margin: 0;
+}
+
+img.qc_obs_icon {
+	border-style: solid;  
+	border-width: 0;
+	border-color: #ccccdd;
+}
+
+td.qc_obs_temp {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #444455;
+	text-align:left;
+	vertical-align:top;
+	padding:0;
+}
+
+a.severe_link {
+	font-family:  Verdana, Arial,sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: #ee4444;
+	padding:0 0 0 0;
+}
+</style>
+<table class="qc_obs_table" cellspacing="0" border="0" style="margin:0">
 <tbody><tr>
-<td width="10" align="center" nowrap=""><img src="/images/shim.gif" alt="" width="40" height="27"></td>
-<td width="60" align="center" nowrap="" class="MenuBarCell"><a href="/" onmouseover="ImgChangeOn('tab_pgone')" onmouseout="ImgChangeOff('tab_pgone')"><img src="/images/header/tab_pgoneOff.gif" alt="Page One " name="tab_pgone" id="tab_pgone" width="60" height="27" border="0"></a></td>
-<td width="47" align="center" nowrap="" class="MenuBarCell"><a href="/local/" onmouseover="ImgChangeOn('tab_loc')" onmouseout="ImgChangeOff('tab_loc')"><img src="/images/header/tab_locOff.gif" alt=" Local " name="tab_loc" id="tab_loc" width="47" height="27" border="0"></a></td>
-<td width="47" align="center" nowrap="" class="MenuBarCell"><a href="/sports/" onmouseover="ImgChangeOn('tab_sports')" onmouseout="ImgChangeOff('tab_sports')"><img src="/images/header/tab_sportsOff.gif" alt=" Sports " name="tab_sports" id="tab_sports" width="47" height="27" border="0"></a></td>
-<td width="47" align="center" nowrap="" class="MenuBarCell"><a href="/opinions/" onmouseover="ImgChangeOn('tab_opi')" onmouseout="ImgChangeOff('tab_opi')"><img src="/images/header/tab_opiOff.gif" alt=" Opinions and Editorial " name="tab_opi" id="tab_opi" width="47" height="27" border="0"></a></td>
-<td width="60" align="center" nowrap="" class="MenuBarCell"><a href="/outdoors/" onmouseover="ImgChangeOn('tab_out')" onmouseout="ImgChangeOff('tab_out')"><img src="/images/header/tab_outOff.gif" alt=" Outdoors " name="tab_out" id="tab_out" width="60" height="27" border="0"></a></td>
-<td width="60" align="center" nowrap="" class="MenuBarCell"><a href="/business/" onmouseover="ImgChangeOn('tab_bus')" onmouseout="ImgChangeOff('tab_bus')"><img src="/images/header/tab_busOff.gif" alt=" Business " name="tab_bus" id="tab_bus" width="60" height="27" border="0"></a></td>
-<td width="36" align="center" nowrap="" class="MenuBarCell"><a href="/life/" onmouseover="ImgChangeOn('tab_life')" onmouseout="ImgChangeOff('tab_life')"><img src="/images/header/tab_lifeOff.gif" alt=" Life " name="tab_life" id="tab_life" width="36" height="27" border="0"></a></td>
-<td width="36" align="center" nowrap="" class="MenuBarCell"><a href="/obits/" onmouseover="ImgChangeOn('tab_obits')" onmouseout="ImgChangeOff('tab_obits')"><img src="/images/header/tab_obitsOff.gif" alt=" Obits " name="tab_obits" id="tab_obits" width="36" height="27" border="0"></a></td>
-<td width="60" align="center" nowrap="" class="MenuBarCell"><a href="http://classifieds.thesouthern.com" onmouseover="ImgChangeOn('tab_class')" onmouseout="ImgChangeOff('tab_class')"><img src="/images/header/tab_classOff.gif" alt=" Classifieds " name="tab_class" id="tab_class" width="60" height="27" border="0"></a></td>
-<td width="60" align="center" nowrap="" class="MenuBarCell"><a href="/sp_sections/" onmouseover="ImgChangeOn('tab_spsec')" onmouseout="ImgChangeOff('tab_spsec')"><img src="/images/header/tab_spsecOff.gif" alt=" Special Sections " name="tab_spsec" id="tab_spsec" width="60" height="27" border="0"></a></td>
-<td align="center" nowrap="" class="MenuBarCell" style="padding:0px 3px;"><a href="http://jobs.thesouthern.com/" class="TopBarText" onmouseover="ImgChangeOn('ClassiconJobsTop')" onmouseout="ImgChangeOff('ClassiconJobsTop')"><img src="/images/ClassiconJobsTopOff.gif" alt="Employment Classifieds" width="26" height="25" border="0" align="absmiddle" name="ClassiconJobsTop" id="ClassiconJobsTop" style="margin:0px 3px;">Jobs</a><a href="http://localnet.abracat.com/cwstatic/hubs/hub_re.html?lc=news&amp;cp=tfa2_&amp;news=news_sou&amp;APATH=tfa2/" class="TopBarText" onmouseover="ImgChangeOn('ClassiconRealEstateTop')" onmouseout="ImgChangeOff('ClassiconRealEstateTop')"><img src="/images/ClassiconRealEstateTopOff.gif" alt="Real Estate Classifieds" width="24" height="25" border="0" align="absmiddle" name="ClassiconRealEstateTop" id="ClassiconRealEstateTop" style="margin:0px 3px;">Homes</a><a href="http://localnet.abracat.com/cwstatic/hubs/hub_tra.html?lc=news&amp;cp=tfa2_&amp;news=news_sou&amp;APATH=tfa2/" class="TopBarText" onmouseover="ImgChangeOn('ClassiconAutosTop')" onmouseout="ImgChangeOff('ClassiconAutosTop')"><img src="/images/ClassiconAutosTopOff.gif" alt="Auto Classifieds" width="24" height="25" border="0" align="absmiddle" name="ClassiconAutosTop" id="ClassiconAutosTop" style="margin:0px 3px;">Autos</a></td>
-</tr>
+
+<td valign="top"><a href="http://thesouthern.com/weather/" target="_parent"><img src="http://thesouthern.com/images/weather/2.jpg" class="qc_obs_icon" title="Weather Forecast"></a></td>
+
+<td valign="top">
+<table border="0" valign="top" cellspacing="0" cellpadding="0" style="margin:0">
+<tbody><tr><td valign="top" align="left" height="100%" class="qc_obs_temp">54°F</td></tr>
+<tr><td valign="top" align="left&quot;"></td></tr>
 </tbody></table>
 </td>
-</tr>
-</tbody></table></td>
-<td width="7" rowspan="3" class="PageDropShadow"><img alt="" src="/images/shim.gif" width="7" height="100"></td>
-</tr>
-<tr>
-<td align="center" valign="top"><table width="100%" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-<tbody><tr>
-<td width="125" rowspan="2" align="left" valign="top" style="border-right:1px solid #999;">
-<table width="119" border="0" cellpadding="0" cellspacing="0" class="SideBar">
-<tbody><tr>
-<td colspan="2" class="SideBarHeaders"><img src="/images/shim.gif" alt="" width="1" height="14"><span class="SideBarHeadersText">Subscriptions</span></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarRows"><a href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=sub_online" class="SideBarText">Subscribe Online</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarRows"><a href="/template.php?p=subscriber_services/index.php&amp;rb=no" class="SideBarText">Subscriber Services</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarBottoms"><a href="/special/NIE/index.htm" class="SideBarText">Newspapers in Education</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarHeaders"><img alt="" src="/images/shim.gif" width="1" height="14"><a href="http://jobs.thesouthern.com/" class="SideBarHeadersText">Employment</a></td>
-</tr>
-<tr>
-<td align="center" valign="middle" class="SideBarRows" style="border-right:0"><a href="http://jobs.thesouthern.com/" class="SideBarText"><img src="/images/ClassiconJobsTopOff.gif" alt="Employment Classifieds" width="24" height="25" border="0" align="middle"></a></td>
-<td class="SideBarRows" style="border-left:0;"><a href="http://jobs.thesouthern.com/" class="SideBarText">Job Listings</a></td>
-</tr>
-<tr>
-<td class="SideBarRows" colspan="2"><a href="/in-house/carrier/index.html" class="SideBarText">Carrier Information</a></td>
-</tr>
-<tr>
-<td class="SideBarBottoms" colspan="2"><a href="/template.php?p=in-house/HumanResources/index.php" class="SideBarText">Jobs @ The SI</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarHeaders"><img alt="" src="/images/shim.gif" width="1" height="14">News</td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarRows"><a href="http://www.thesouthern.com" class="SideBarText">Page One</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarRows"><a href="/local/" class="SideBarText">Local News</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarRows"><a href="/sports/" class="SideBarText">Sports</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarRows"><a href="/opinions/" class="SideBarText">Opinions</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarRows"><a href="/outdoors/" class="SideBarText">Outdoors</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarRows"><a href="/life/" class="SideBarText">Life</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarRows"><a href="/business/" class="SideBarText">Business</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarBottoms"><a href="/obits/" class="SideBarText">Obituaries</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarHeaders"><img alt="" src="/images/shim.gif" width="1" height="14"><a href="/sp_sections/" class="SideBarHeadersText">Special Sections</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarRows"><a href="/sp_sections/" class="SideBarText">Browse</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarBottoms"><a href="/SI_Life/" class="SideBarText">SI Life </a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarHeaders"><img alt="" src="/images/shim.gif" width="1" height="14"><a href="http://classifieds.thesouthern.com/" class="SideBarHeadersText">Classifieds</a></td>
-</tr>
-<tr>
-<td class="SideBarRows" colspan="2"><a href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=classifieds" class="SideBarText">Place an Ad</a></td>
-</tr>
-<tr>
-<td width="30" align="center" valign="middle" class="SideBarRows" style="border-right:0;"><a href="http://southernillinoisan.abracat.com/c2/index.xml"><img alt="Daily Classifieds" src="/images/classicon-daily.gif" width="30" height="20" border="0" align="middle"></a></td>
-<td width="89" class="SideBarRows" style="border-left:0;"><a href="http://southernillinoisan.abracat.com/c2/index.xml" class="SideBarText">Daily</a></td>
-</tr>
-<tr>
-<td align="center" valign="middle" class="SideBarRows" style="border-right:0;"><a href="http://southernillinoisan.abracat.com/c2/transportation/hub/index.xml"><img src="/images/classicon-autos.gif" alt="Auto Classifieds" width="28" height="20" border="0" align="middle"></a></td>
-<td class="SideBarRows" style="border-left:0;"><a href="http://southernillinoisan.abracat.com/c2/transportation/hub/index.xml" class="SideBarText">Automotive</a></td>
-</tr>
-<tr>
-<td align="center" valign="middle" class="SideBarRows" style="border-right:0;"><a href="http://southernillinoisan.abracat.com/c2/realestate/hub/index.xml"><img src="/images/classicon-real_estate.gif" alt="Real Estate Classifieds" width="19" height="20" border="0" align="middle"></a></td>
-<td class="SideBarRows" style="border-left:0;"><a href="http://southernillinoisan.abracat.com/c2/realestate/hub/index.xml" class="SideBarText">Housing</a></td>
-</tr>
-<tr>
-<td align="center" valign="middle" class="SideBarRows" style="border-right:0;"><a href="http://southernillinoisan.abracat.com/c2/yards/results/index.xml"><img alt="Yard Sales" src="/images/classicon-yard_sales.gif" width="20" height="20" border="0" align="middle"></a></td>
-<td class="SideBarRows" style="border-left:0;"><a href="http://southernillinoisan.abracat.com/c2/yards/results/index.xml" class="SideBarText">Yard Sales</a></td>
-</tr>
-<tr>
-<td align="center" valign="middle" class="SideBarRows" style="border-right:0;"><a href="/template.php?p=auctions/index.php&amp;rb=no"><img alt="Auctions" src="/images/classified_auctions.gif" width="20" height="21" border="0" align="middle"></a></td>
-<td class="SideBarRows" style="border-left:0;"><a href="/template.php?p=auctions/index.php&amp;rb=no" class="SideBarText">Auctions</a></td>
-</tr>
-<tr>
-<td align="center" valign="middle" class="SideBarRows" style="border-right:0;"><a href="http://relationships.thesouthern.com/" target="_blank"><img alt="Personals" src="/images/classicon-personals.gif" width="20" height="17" border="0" align="middle"></a><a href="/in-house/promotions/match.com/match_splash.php" class="SideBarText"></a></td>
-<td class="SideBarRows" style="border-left:0;"><a href="http://relationships.thesouthern.com/" target="_blank" class="SideBarText">Personals</a></td>
-</tr>
-<tr align="center">
-<td colspan="2" class="SideBarRows"><a href="http://www.siwheels4u.com/" class="SideBarText"><img src="/images/logos/wheels_for_you.gif" alt="Wheels for You" width="75" height="40" border="0" align="absmiddle"></a></td>
-</tr>
-<tr>
-<td class="SideBarRows" colspan="2"><a href="/template.php?p=in-house/promotions/hot_classifieds/all_ads.php&amp;rb=no" class="SideBarText"><img src="/images/logos/hot_classifieds-hot.gif" alt="Hot Classifieds" width="40" height="29" border="0" align="absmiddle" style="margin-right:5px;">Classifieds</a></td>
-</tr>
-<tr>
-<td class="SideBarBottoms" colspan="2"><a href="/business_services_directory/TheSouthern.com-Businesses_and_Services_Directory.pdf" class="SideBarText">Business Services Directory (pdf)</a></td>
-</tr>
-<tr>
-<td colspan="2" bgcolor="#CCCCCC" class="SideBarHeaders"><img alt="" src="/images/shim.gif" width="1" height="14">Special</td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarRows"><a href="/template.php?p=in-house/promotions/business_web_directory/business_web_directory.html&amp;rb=no" class="SideBarText">Local Business Web Directory</a></td>
-</tr>
-<tr>
-<td class="SideBarRows" colspan="2"><a href="http://www.accesssi.org" target="_blank" class="SideBarText">Community Resource Directory</a></td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="middle" class="SideBarRows" style="padding-left:0px;"><a href="/games/" class="SideBarText"><img src="/images/logos/SI_gamezone.gif" alt="Gamezone" width="115" height="64" border="0" align="middle"></a></td>
-</tr>
-<tr>
-<td align="center" valign="middle" class="SideBarRows" style="border-right:0px;"><a href="/template.php?p=special/PhotoGallery/index.php&amp;rb=no"><img alt="" src="/images/camera.gif" width="25" height="20" border="0"></a></td>
-<td class="SideBarRows" style="border-left:0;"><a href="/template.php?p=special/PhotoGallery/index.php&amp;rb=no" class="SideBarText">Photo Gallery</a></td>
-</tr>
-<tr>
-<td class="SideBarRows" colspan="2"><a href="http://www.parade.com" target="_blank"><img alt="Parade" src="/images/parade.gif" width="63" height="11" border="0"></a></td>
-</tr>
-<tr>
-<td class="SideBarRows" colspan="2"><a href="http://www.flipsideonline.com" class="SideBarText"><img alt="FLIPSIDE Online" src="/images/flipside.gif" width="63" height="11" border="0" align="middle"> - Your Entertainment Guide</a></td>
-</tr>
-<tr>
-<td class="SideBarBottoms" colspan="2"><a href="http://www.kerasotes.com/Showtimes.aspx?SearchString=62901&amp;TheaterSearch=0" target="_blank" class="SideBarText">Movie Listings</a></td>
-</tr>
-<tr>
-<td class="SideBarHeaders" colspan="2"><img alt="" src="/images/shim.gif" width="1" height="14">Information</td>
-</tr>
-<tr>
-<td class="SideBarRows" colspan="2"><a href="/template.php?p=special/contact.php" class="SideBarText">Contact Us </a></td>
-</tr>
-<tr>
-<td class="SideBarBottoms" colspan="2"><a href="/template.php?p=special/privacy.php" class="SideBarText">Privacy Policy </a></td>
-</tr>
-<tr>
-<td class="SideBarHeaders" colspan="2"><img alt="" src="https://secure.townnews.com/thesouthern.com/images/shim.gif" width="1" height="14"><a href="/template.php?p=in-house/ads/Banners/index.php&amp;rb=no" class="SideBarHeadersText">Advertising Info</a></td>
-</tr>
-<tr>
-<td class="SideBarRows" colspan="2"><a href="/template.php?p=mediakit/page01.php&amp;rb=no" class="SideBarText">Online Media Kit </a></td>
-</tr>
-<tr>
-  <td class="SideBarRows" colspan="2">  <form name="LeftRailAdForm" style="margin:0px;">
-	<select name="LeftRailadpage" onchange="openLeftRailAdPageURL()" size="1" style="width:110px;padding:0px;border:1px solid #000;font:7pt Arial;">
-	<option selected="" value="">Find an Ad</option>
-	<option value="/ads/">Advertising main</option>
-	<option value="" style="background-color:#666;color:#FFF;">Top Stories</option>
-	<option value="/ads/top_story/">&nbsp;&nbsp;&nbsp;&nbsp;In-Story Ad</option>
-	<option value="" style="background-color:#666;color:#FFF;">Local</option>
-	<option value="/ads/local_section/">&nbsp;&nbsp;&nbsp;&nbsp;Section Index Ad</option>
-	<option value="/ads/local_story/">&nbsp;&nbsp;&nbsp;&nbsp;In-Story Ad</option>
-	<option value="" style="background-color:#666;color:#FFF;">Sports</option>
-	<option value="/ads/sports_section/">&nbsp;&nbsp;&nbsp;&nbsp;Section Index Ad</option>
-	<option value="/ads/sports_story/">&nbsp;&nbsp;&nbsp;&nbsp;In-Story Ad</option>
-	<option value="" style="background-color:#666;color:#FFF;">Opinions</option>
-	<option value="/ads/opinions_story/">&nbsp;&nbsp;&nbsp;&nbsp;In-Story Ad</option>
-	<option value="" style="background-color:#666;color:#FFF;">Outdoors</option>
-	<option value="/ads/outdoors_section/">&nbsp;&nbsp;&nbsp;&nbsp;Section Index Ad</option>
-	<option value="/ads/outdoors_story/">&nbsp;&nbsp;&nbsp;&nbsp;In-Story Ad</option>
-	<option value="" style="background-color:#666;color:#FFF;">Business</option>
-	<option value="/ads/business_section/">&nbsp;&nbsp;&nbsp;&nbsp;Section Index Ad</option>
-	<option value="/ads/business_story/">&nbsp;&nbsp;&nbsp;&nbsp;In-Story Ad</option>
-	<option value="" style="background-color:#666;color:#FFF;">Life</option>
-	<option value="/ads/life_section/">&nbsp;&nbsp;&nbsp;&nbsp;Section Index Ad</option>
-	<option value="/ads/life_story/">&nbsp;&nbsp;&nbsp;&nbsp;In-Story Ad</option>
-	<option value="" style="background-color:#666;color:#FFF;">Obituaries</option>
-	<option value="/ads/obits_main/">&nbsp;&nbsp;&nbsp;&nbsp;Section Index Ad</option>
-	<option value="/ads/obits_archive/">&nbsp;&nbsp;&nbsp;&nbsp;Archive Index Ad</option>
-	<option value="" style="background-color:#666;color:#FFF;">Misc.</option>
-	<option value="/ads/ros/">&nbsp;&nbsp;&nbsp;&nbsp;Run-of-site</option>
-	<option value="/ads/expert/">&nbsp;&nbsp;&nbsp;&nbsp;Ask the Expert</option>
-</select>
-</form></td>
-</tr>
-<tr>
-<td class="SideBarRows" colspan="2"><a href="/template.php?p=in-house/ads/class_ratecard/index.php&amp;rb=no" class="SideBarText">Classified Ad Rates</a></td>
-</tr>
-<tr>
-<td class="SideBarBottoms" colspan="2"><a href="/template.php?p=in-house/ads/ratecard/index.php&amp;rb=no" class="SideBarText">Retail Ad Rates</a></td>
-</tr>
-<tr>
-<td colspan="2" style="background:#FFF;">&nbsp;</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="middle" class="SideBarRows" style="border-top:3px solid #003366;"><a href="/rss/"><img alt="RSS" src="/images/xmlicon.gif" width="36" height="14" border="0"></a><br>
-<a href="/rss/" class="SideBarText">Add TheSouthern's Headlines to Your Site</a></td>
-</tr>
-<tr>
-<td class="SideBarRows" colspan="2">
-<div align="center"><span class="SideBarText"><strong>Translate</strong></span></div>
-<div class="SideBarText">
-<a href="/template.php?p=scripts/translation_disclaimer.php&amp;langpair=en|es" class="SideBarText"><img src="/images/flag_es.gif" alt="" width="25" height="17" border="0" align="middle" style="margin:3px 3px 3px 0px;border:1px solid #000;">Spanish</a><br>
-<a href="/template.php?p=scripts/translation_disclaimer.php&amp;langpair=en|de" class="SideBarText"><img src="/images/flag_gr.gif" alt="" width="25" height="17" border="0" align="middle" style="margin:3px 3px 3px 0px;border:1px solid #000;">German</a><br>
-<a href="/template.php?p=scripts/translation_disclaimer.php&amp;langpair=en|fr" class="SideBarText"><img src="/images/flag_fr.gif" alt="" width="25" height="16" border="0" align="middle" style="margin:3px 3px 3px 0px;border:1px solid #000;">French</a><br>
-<a href="/template.php?p=scripts/translation_disclaimer.php&amp;langpair=en|it" class="SideBarText"><img src="/images/flag_it.gif" alt="" width="25" height="16" border="0" align="middle" style="margin:3px 3px 3px 0px;border:1px solid #000;">Italian</a></div>
-<div class="SideBarText" align="center"><a href="http://www.google.com/language_tools" target="_blank" class="SideBarText">Powered by Google</a></div></td>
-</tr>
 
-<tr>
-<td class="SideBarBottoms" colspan="2" align="center">Southern Illinoisan<br>
-(618)351-5000<br>
-1-800-228-0429</td>
 </tr>
 </tbody></table>
-<p>
-<map name="MapMap">
-<area shape="RECT" coords="11,12,27,28" href="http://www.qctimes.com" alt="QCTimes.com">
-<area shape="RECT" coords="63,3,77,17" href="http://www.nwitimes.com" alt="NWITimes.com">
-<area shape="RECT" coords="42,59,65,72" href="http://www.jg-tc.com" alt="Jg-Tc.com">
-<area shape="RECT" coords="36,37,53,49" href="http://www.herald-review.com" alt="HeraldReview.com">
-</map>
-<img alt="Affiliate Map" height="130" src="/images/affiliatemap.gif" width="125" usemap="#MapMap" border="0" style="margin-top:5px;"></p>
-<br></td>
-<td colspan="2" align="left" valign="top" class="mediumtext" style="padding:10px;">
-<p><b>Privacy Policy</b></p>
+
+
+
+			 <span class="font:bold 4pt Geneva, Helvetica;">sponsored by:</span>
+<script type="text/javascript" src="http://adsys.townnews.com/creative/thesouthern.com/weather_tile/static.js"></script>
+			</td>
+
+			<!-- Search -->
+			<td id="TopSearch"><div class="reallysmalltext">FIND IT WITH OUR NEW DIRECTORY!</div>
+<div id="TopSearchBoxExpanded" onmouseout="tn_hide_all();">
+	<div id="TopSearchCloseButton"><a href="javascript:void(0);" onclick="toggleVisibility('TopSearchBoxExpanded','hide');"><img border="0" src="http://images.townnews.com/thesouthern.com/images/close_button.gif"></a></div>
+	<form action="/scripts/top_search.php" name="searchForm" method="post">
+		<input id="TopSearchTextBox" type="text" name="q">
+		<label for="stories"><input type="radio" name="selecturl" id="stories" value="stories" checked="checked" onclick="searchClassified('false');"> Stories</label>
+		<label for="archives"><input type="radio" name="selecturl" id="archives" value="archives" onclick="searchClassified('false');"> Archives</label>
+		<label for="web"><input type="radio" name="selecturl" id="web" value="web" onclick="searchClassified('false');"> Web</label>
+		<select id="classDrop" name="classDrop" disabled="disabled">
+			<option value="jobs">Jobs</option>
+			<option value="cars">Cars</option>
+			<option value="homes">Homes</option>
+		</select>
+		<label id="classLabel" for="classifiedS"><input type="radio" name="selecturl" id="classifiedS" value="classifieds" onclick="searchClassified('true');"> Classifieds</label>
+		<input type="submit" name="submit" id="TopSearchSubmitButton" value="Search">
+	</form>
+</div>
+<div id="TopSearchFakeTextBox" onclick="javascript:toggleVisibility('TopSearchBoxExpanded','show'); document.searchForm.q.focus(); return false;">Click to activate search window!</div>
+<div id="TopSearchAdvSearchLink"><a href="http://www.thesouthern.com/template.php?p=html/searchtest/index.html">Advanced Article Search</a></div>
+<div id="TopSearchAdvSearchLink"><img src="http://thesouthern.com/images/yahoo_search.gif"></div>
+<div class="clear"></div></td>
+		</tr>
+	</tbody></table>
+</div>
+
+			<!-- Nav Bars -->
+			<!-- 
+Optional: Temporarily hide the "tabber" class so it does not "flash"
+on the page as plain HTML. After tabber runs, the class is changed
+to "tabberlive" and it will appear. -->
+<!-- <script type="text/javascript">document.write('<style type="text/css">.tabber{display:none;}<\/style>'); </script> -->
+
+<!-- Tabs -->
+<div id="Nav">
+	<div class="navigacja" id="ddtabs">
+		<!-- Main Tabs -->
+		<div class="leftnav">
+			<ul>
+				<li class="current"><a href="/" onmouseover="expandcontent('sc1', this)"><span>Home</span></a></li>
+				<li><a href="/local/" onmouseover="expandcontent('sc2', this)"><span>Regional</span></a></li>
+				<li><a href="/sports/" onmouseover="expandcontent('sc3', this)"><span>Sports</span></a></li>
+				<li><a href="/opinions/" onmouseover="expandcontent('sc4', this)"><span>Opinions</span></a></li>
+				<li><a href="/lifestyles/" onmouseover="expandcontent('sc5', this)"><span>Lifestyles</span></a></li>
+				<li><a href="/interactive/" onmouseover="expandcontent('sc6', this)"><span>Interactive</span></a></li>
+				<li><a href="http://www.legacy.com/TheSouthern/Obituaries.asp" onmouseover="expandcontent('sc7', this)"><span>Obits/Info</span></a></li>
+				<li class="end"><a href="/archives/" onmouseover="expandcontent('sc8', this)"><span>Archive</span></a></li>
+			</ul>
+		</div>
+	
+		<!-- Classifieds Tabs -->
+		<div class="rightnav">
+			<ul>
+				<li><a href="/hotjobs/" onmouseover="expandcontent('sc9', this)"><span>Jobs</span></a></li>
+				<li><a href="http://www.siautodeals.com/" onmouseover="expandcontent('sc10', this)"><span>Auto</span></a></li>
+				<li><a href="/homes/" onmouseover="expandcontent('sc11', this)"><span>Homes</span></a></li>
+				<li><a href="/subscriber_services/" onmouseover="expandcontent('sc12', this)"><span>Services</span></a></li>
+				<li><a href="/classifieds/" onmouseover="expandcontent('sc13', this)"><span>Classifieds</span></a></li>
+				<li class="subscribe"><a href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=sub_online" onmouseover="expandcontent('sc14', this)"><span>Subscribe</span></a></li>
+			</ul>
+		</div>
+	</div>
+	
+	<!-- Sub Nav -->
+	<div class="submenu">
+		<div id="tabcontentcontainer">
+			<div id="sc1" class="tabcontent">
+				<ul><li class="first"><a href="http://www.thesouthern.com/couponpage/">Coupon Page</a></li>
+					<li><a href="/latest_news/">Latest News</a>
+					</li><li><a href="/front_page/">Front Page</a></li>
+					<li><a href="/weather/">Weather</a></li>
+					<li><a href="/business/">Business</a></li><li><a href="/elections2008/">Elections 2008</a></li>
+					<li><a href="http://images.townnews.com/thesouthern.com/content/current/news_templates/frontpage.pdf" target="_blank">Today's Front Page</a></li>
+					<li class="last"><a href="/contact_us/">Contact Us</a></li>
+				</ul>
+			</div>
+	
+			<div id="sc2" class="tabcontent"> 
+				<ul>
+					<li class="first"><a href="/local/">Local Headlines</a></li>
+					<li><a href="http://www.southernillinoisan.com/closings/?type=Roads">Closing Alerts</a></li>
+					<li><a href="/calendar/">Community Calendar</a></li>
+					<li><a href="http://www.sbj.biz" target="_blank">SBJ</a></li>
+					<li><a href="http://health.thesouthern.com" target="_blank">So. Health Magazine</a></li>
+					<li><a href="http://thesouthern.com/shared-content/phpBB/">SI Forums</a></li>
+					<li><a href="/tv/">TV</a></li>
+					<li class="last"><a href="/movies/">Movies</a></li>
+					
+				</ul>
+			</div>
+	
+			<div id="sc3" class="tabcontent">
+				<ul>
+				<li class="first"><a href="/sports/">Sports Home</a></li>
+					<li><a href="/preps/">Preps</a></li>
+					<li><a href="/prosports/">Pro</a></li>
+					<li><a href="/outdoors/">Outdoors</a></li>
+					<li><a href="/dawgblog/">Dawg Blog</a></li>
+					<li><a href="/minerdetails/">Miners Blog</a></li>
+					<li><a href="/sipreps/">SI Preps Blog</a></li>
+					<li><a href="/sioutdoorsblog/">Outdoors Blog</a></li>
+					<li class="last"><a href="/columnists/">Sports Columnists</a></li>
+				</ul>
+			</div>
+			
+						<div id="sc4" class="tabcontent">
+				<ul>
+					<li class="first"><a href="/opinions/">Opinion Home</a></li>
+					<li><a href="/blogs/">Blogs</a></li>
+					<li><a href="/columnists/">Columnists</a></li>
+					<li><a href="/comments/">Most Commented</a></li>
+					<li><a href="/elections2008/">Elections 2008</a></li>
+					<li><a href="http://www.southernillinoisan.com/template.php?p=html/scripts/letter_to_editor.php">Letter to the Editor</a></li>
+					<li class="last"><a href="http://www.thesouthern.com/shared-content/phpBB/">SI Forums</a></li>
+				</ul>
+			</div>
+	
+			<div id="sc5" class="tabcontent">
+				<ul>
+					<li class="first"><a href="/lifestyles/">Lifestyles Home</a></li>
+					<li><a href="/flipside/">Flipside</a></li>
+					<li><a href="/travel/">Travel</a></li>
+					<li><a href="/bridal/">Bridal</a></li>
+					<li><a href="/celebrate/">Celebrate!</a></li>
+					<li><a href="/churches/">Churches</a></li>
+					<li><a href="/special_sections/">Special Sections</a></li>
+					<li><a href="/mommytalk/">MommyTalk</a></li>
+					<li><a href="/coupons/">Grocery Coupons</a></li>
+					<li class="last"><a href="http://www.gadzoo.com/thesouthern/Pets.aspx">Pets</a></li>
+				</ul>
+			</div>
+			
+						<div id="sc6" class="tabcontent">
+				<ul>
+					<li class="first"><a href="/slideshows/">Slideshows</a></li>
+					<li><a href="/gallery/">Photo Galleries</a></li>
+					<li><a href="/video/">Videos</a></li>
+					<li><a href="/gamezone/">GameZone</a></li>
+					<li><a href="/blogs/">Blogs</a></li>
+					<li><a href="http://www.thesouthern.com/shared-content/phpBB/">SI Forums</a></li>
+					<li class="last"><a href="/rss/">RSS</a></li>
+				</ul>
+			</div>
+			
+	
+			<div id="sc7" class="tabcontent">
+				<ul>
+					<li class="first"><a href="http://www.legacy.com/TheSouthern/Obituaries.asp">Obituary Listings</a></li>
+					<li><a href="http://www.legacy.com/TheSouthern/Obituaries.asp?Page=TributeGateway">Moving Tributes</a></li><li><a href="http://www.legacy.com/TheSouthern/Obituaries.asp?Page=GBGateway">Sign/View Guestbooks</a></li>
+					<li><a href="/soldiers/">Soldier Memorials</a></li>
+					<li><a href="http://www.legacy.com/thesouthern/PetsTributeOrder.asp" target="_blank">Pet Memorials</a></li>
+					<li><a href="/admarket/legal_notices/legals/">Legals</a>
+					</li><li class="last"><a href="http://www.legacy.com/TheSouthern/Obituaries.asp?Page=ObitFinder">National Search</a></li>
+				</ul>
+			</div>
+	
+			<div id="sc8" class="tabcontent">
+				<ul>
+					<li class="first"><a href="/archives/#front_page">Front Page</a></li>
+					<li><a href="/archives/#local">Local</a></li>
+					<li><a href="/archives/#sports">Sports</a></li>
+					<li><a href="/archives/#outdoors">Outdoors</a></li>
+					<li><a href="/archives/#opinions">Opinion</a></li>
+					<li><a href="/archives/#business">Business</a></li>
+					<li><a href="/archives/#lifestyles">Lifestyles</a></li>
+					<li class="last"><a href="/archives/#travel/">Travel</a></li>
+				</ul>
+			</div>
+	
+			<div id="sc9" class="tabcontent">
+				<ul style="float:right">
+					<li class="first"><a href="http://www.thesouthern.com/applyforjobs/">Work at the Southern</a></li>
+					<li><a href="/hotjobs/">Yahoo! Hotjobs</a></li>
+					<li><a href="http://hotjobs.yahoo.com/job-search-g-577767-t-anytime" target="_blank">Local Search</a></li>
+					<li><a href="/carrier/">Become a Southern Carrier</a></li>
+					<li><a href="/postajob/">Post a Job</a></li>
+					<li><a href="/placeanad/">Place an Ad</a></li>
+					<li class="last"><a href="http://hotjobs.yahoo.com/jobseeker/myhj/resume-manager.html">Post Resume</a></li>
+				</ul>
+			</div>
+	
+			<div id="sc10" class="tabcontent">
+				<ul style="float:right">
+					<li class="first"><a href="http://www.siautodeals.com/">Main Page</a></li>
+					<li><a href="http://www.siautodeals.com/dealers.php">Dealer Search</a></li>
+					<li class="last"><a href="http://www.siautodeals.com/">Other Vehicle Types </a></li>
+				</ul>
+			</div>
+	
+<div id="sc11" class="tabcontent">
+				<ul style="float:right"> <li class="first"><a href="http://www.thesouthern.com/homes/">Homes/Condos</a></li><li><a href="http://www.thesouthern.com/admarket/real_estate_rentals/apartments/">Apartments</a></li>
+					<li><a href="http://www.thesouthern.com/admarket/real_estate_rentals/">Rentals</a></li>
+					<li><a href="http://www.thesouthern.com/admarket/real_estate_sales/business_commercial_for_sale/">Business/Commercial For Sale</a></li>
+					<li><a href="http://www.thesouthern.com/admarket/real_estate_rentals/business_commercial/">Business/Commercial For Rent</a></li>
+					<li class="last"><a href="http://www.thesouthern.com/real_estate/">SI Real Estate Book</a></li>
+				</ul>
+			</div>
+	
+			<div id="sc12" class="tabcontent">
+				<ul style="float:right">
+					<li class="first"><a href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=ezpay">EZpay</a></li>
+					<li><a href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=sub_online">Subscribe Online</a></li><li><a href="/edition/">E-edition</a></li>
+<li><a href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=sub_suspension">Vacation Stops/Starts</a></li><a href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=sub_suspension">
+					</a><li><a href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=sub_suspension"></a><a href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=renew">Renew Subscription</a></li>
+					<li><a href="http://www.thesouthern.com/template.php?p=html/searchtest/index.html">Order Articles</a></li>
+										<li><a href="/sales/">Advertise</a></li>
+					<li><a href="/placeanad/">Place an Ad</a></li>
+					<li><a href="/subscriber_services/sundaycopy/">Sunday Locations</a></li>
+					<li class="last"><a href="/subscriber_services/singlecopy">Single Copy Locations</a></li>
+				</ul>
+			</div>
+			<div id="sc13" class="tabcontent">
+				<ul style="float:right">
+					<li class="first"><a href="/admarket/events_and_sales/">Yard Sales</a></li>
+					<li><a href="/auctions/">Auctions</a></li>
+					<li><a href="/admarket/farmers_market/">Farmer's Market</a></li>
+					<li><a href="/template.php?p=html/business_services_directory/index.php">Bus. Services Directory</a></li>
+					<li><a href="http://thesouthern.com/admarket/merchandise_for_sale/">Merchandise</a></li>
+					<li><a href="http://www.thesouthern.com/admarket/general_announcements/">Announcements</a></li>
+					<li class="last"><a href="/placeanad/">Place an Ad</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+		
+			<!-- Alert -->
+			
+		
+			<!-- Top of Page Ads -->
+			
+
+
+
+
+<table width="980" border="0" cellspacing="0" cellpadding="0" id="TopOfPageAds">
+	<tbody><tr>
+		<!-- Business Builder Leaderboard -->
+		<td align="left" valign="TOP"><script language="javascript" src="/shared-content/adsys/creative.js"></script>
+<script language="javascript" src="http://adsys.townnews.com/global/capped.js"></script>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[486] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1200981600) && (nAdsysTime <= 1230789599)) {
+aAd = new Array('+leaderboard', '112112-1201033692', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 486;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1205211600) && (nAdsysTime <= 1221195599)) {
+aAd = new Array('+leaderboard', '118484-1210282095', 'jpg');
+aAd[3] = 'http://www.thesouthern.com/template.php?p=html/in-house/ads/BandJsales/index.inc';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 486;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1208754000) && (nAdsysTime <= 1211518799)) {
+aAd = new Array('+leaderboard', '124973-1209766110', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 486;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'thesouthern.com', aAds, aCampaigns);
+
+// -->
+</script></td>
+		<td align="left" valign="TOP"><img src="http://images.townnews.com/thesouthern.com/images/shim.gif" width="25" height="80">
+		</td>
+		<td valign="TOP" align="CENTER"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[486] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1198735200) && (nAdsysTime <= 1514440799)) {
+aAd = new Array('+promo', '108994-1210775865', 'swf');
+aAd[3] = '239';
+aAd[4] = '89';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.thesouthern.com%2Fgoldenpen';
+aAd[5][1] = 'http%3A%2F%2Fwww.thesouthern.com%2Fgo_green';
+aAd[5][2] = 'http%3A%2F%2Fwww.thesouthern.com%2Felections2008';
+aAd[5][3] = 'http%3A%2F%2Fwww.thesouthern.com%2Ftop20';
+aAd[5][4] = 'http%3A%2F%2Fwww.thesouthern.com%2Fkididol';
+aAd[6] = '%2Bpromo';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 486;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1209186000) && (nAdsysTime <= 1524805199)) {
+aAd = new Array('+promo', '125908-1209270563', 'jpg');
+aAd[3] = 'http://www.thesouthern.com/couponpage';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 486;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1210827600) && (nAdsysTime <= 1526446799)) {
+aAd = new Array('+promo', '128762-1210879980', 'jpg');
+aAd[3] = 'http://www.thesouthern.com/tourismtrivia/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 486;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com', 'thesouthern.com', aAds, aCampaigns);
+
+// -->
+</script></td>
+	</tr>
+</tbody></table>
+
+
+<!-- Page elements that will go in the main body -->
+			
+			<!-- TV -->
+			
+			
+			<!-- Preps -->
+			
+			
+			<!-- Registration -->
+			
+			
+			<!-- Elections 2008 -->
+			
+			
+			<!-- Crossword -->
+			
+			
+			<!-- Sudoku -->
+			
+			
+			<!-- SI Gamezone -->
+			
+			
+			<!-- Comments -->
+			
+			
+			<!-- Business Services Directory -->
+		
+		
+			<!-- Classifieds -->
+			
+			
+			<!-- Sales -->
+			
+			
+			<!-- Columnists -->
+			
+			
+			<!-- Goldenpen -->
+			
+			
+			<!-- Apply for jobs -->
+			
+			
+			<!-- Subscriber Services-->
+			
+			
+			<!-- Single Copy-->
+			
+			
+			<!-- Sunday Copy-->
+			
+			
+			<!-- NIE -->
+			
+
+			<!-- Meet The Southern -->
+			
+			
+			<!-- Hotjobs -->
+			
+			
+			<!-- Contact Us -->
+			
+			
+			<!-- Privacy Policy -->
+			<p><b>Privacy Policy</b></p>
 <p>The Southern Illinoisan Privacy Policy Statement:</p>
 <p>Welcome to the Southern Illinoisan. We believe in your right to know what information is collected during your visit to our web site and how the information is used and safeguarded.</p>
 <p>The information gathered by the Southern Illinoisan website falls into two categories: </p>
@@ -305,50 +689,21 @@
 <ul>
 <li><strong><a href="#donotcall"> Do not call policy</a></strong></li>
 <li><b><a href="#shared">Information Shared With Other Organizations</a></b></li>
+<li><b><a href="#payment">Payment Identification</a></b></li>
+<li><b><a href="#account">Account Registration</a></b></li>
+<li><b><a href="#email">E-mails from us</a></b></li>
 <li><b><a href="#children">Special Attention to Children</a></b></li>
+<li><b><a href="#shared">What We Do With the Information We Gather About You</a></b></li>
 <li><b><a href="#note">A final note</a></b></li>
+<li><b><a href="http://www.omniture.com/optout" target="_blank">Opt-out of cookies on your browser</a></b></li>
 </ul>
 <hr width="100%" size="1">
-<p><b><a name="voluntary">InformationGathered by Voluntary Submission</a></b></p>
-<p>To make use of certain features on our websites (such as free email, personal web pages, chatrooms and other interactive forums) visitors need to register and toprovide certain information as part of the registration or participation
-process. (We may ask, for example, for your name, email address, sex, age,
-and zip code, and we might request information on your interest in sports,
-personal finance, the performing arts, and the like.) </p>
-<p>The information
-you supply will help us to offer you more personalized features, to tailor
-our sites to your interests and make them more useful to you. The more you
-tell us about yourself, the more value we can offer you. Supplying such information
-is entirely voluntary. But if you don't supply the information we need, we
-may be unable to provide you with services we make available to other visitors
-to our sites. Of course, even if you want to remain completely anonymous,
-you're still free to take advantage of the wealth of content available on
-our sites without registration.</p>
-<p><b>&nbsp;</b></p>
-<p><b><a name="automatic">Information
-Automatically Gathered About All Visitors</a></b></p>
-<p>We collect aggregate
-and user-specific information on what pages consumers access or visit. This
-information is used to generate reports that help the Southern Illinoisan
-assess the value of and interest in the various web sites. The information
-we collect is used by us to improve the content of our web page. We can build
-a better site if we know which pages our users are visiting and how often. </p>
-<p>Our web servers
-automatically collect limited information about your computer's connection
-to the Internet, including your IP address but not the e-mail address, when
-you visit our sites. Your IP address does not identify you personally. We
-use this information to deliver our web pages to you upon request, to tailor
-our sites to the interests of our users, and to measure traffic within our
-sites. </p>
-<p>To help make our
-sites more responsive to the needs of our visitors, we may utilize a standard
-feature of browser software, called a "cookie". The cookie doesn't actually
-identify the visitor, just the computer that a visitor uses to access our
-site. A cookie can't read data off your hard drive. Our advertisers or content
-partners may also assign their own cookies to your browser, a process that
-we cannot control. We use cookies to help us tailor our site to your needs,
-to deliver a better, more personalized service. </p>
+<p>Welcome to the web sites of The Southern Illinoisan. We (which includes
+    our parent company, Lee Enterprises, Incorporated) believe in your right
+    to know what information is collected during your visit to our web sites
+and how that information is used and safeguarded. </p>
 <p><b><a name="donotcall"></a></b><strong>Do
-Not Call Policy</strong></p>
+  Not Call Policy</strong></p>
 <p> This newspaper
 uses the telephone as one important way to stay in contact with our customers
 and our potential customers in the community. Because a good relationship
@@ -377,137 +732,523 @@ past 18 months, we may contact you to inform you of a subscription opportunity
 even if your telephone number is on the state or national “do not call” list.
 We like to remind customers as a service that their subscriptions are expiring
 and to offer special advertising opportunities to selected customers. </p>
-<p><b><a name="shared">Information
-Shared With Other Organizations</a></b></p>
-<p>When we present
-information to our advertisers -- to help them understand our audience and
-confirm the value of advertising on our websites -- it is usually in the
-form of aggregated statistics on traffic to various pages within our sites.
-From time to time, we may share information on visitors to our sites with
-those marketing products and services that we believe may be of interest
-to you. This list can include your e-mail address and, other specific information
-(such as your phone number or street address) you may have provided us while
-online.</p>
-<p><b>&nbsp;</b></p>
-<p><b><a name="children">Special
-Attention to Children</a></b></p>
-<p>Children should
-always get permission from their parents before sending any information about
-themselves (such as their names, email addresses, and phone numbers) over
-the Internet, to us or to anyone else. We do not specifically collect information
-about children. We encourage parents to review and share safety tips with
-their children participating in the online experience.</p>
-<p><b>&nbsp;</b></p>
-<p><b><a name="note">A
-final note:</a></b></p>
-<p>The Southern Illinoisan
-is affiliated with other online companies, some of which feature our branding.
-This policy statement does not apply to those companies' web sites; please
-refer to these affiliated sites to obtain information on their privacy policies.
-If you can't find the privacy policy of any of these sites via a link from
-the site's homepage, you should contact the site directly for more information. </p>
-<p>The Web is an
-evolving medium. If we need to change our privacy policy at some point in
-the future, we'll post the changes before they take effect. Of course, our
-use of information gathered while the current policy is in effect will always
-be consistent with the current policy, even if we change that policy later.</p>
+<p>&nbsp;</p>
+<p><b><a name="automatic">Information Automatically Gathered About All Visitors</a></b><br>
+  We collect aggregate and user-specific information on which pages consumers
+    access or visit. This information is used to generate reports that help us
+    assess the value of and interest in the various web sites we provide. We
+    use the information we collect to improve the content of our web pages. We
+    can build a better site if we know which pages our users are visiting, how
+    often they visit and how long they stay on a page.</p>
+<p>Our web servers automatically collect limited information about your computer's
+  connection to the Internet, including your IP address (but not the e-mail address),
+  when you visit our sites. Your IP address does not contain personally identifiable
+  information, nor does it identify you personally. We use this information to
+  deliver our web pages to you upon request, to tailor our sites to the interests
+  of our users, and to measure traffic within our sites. </p>
+<p>To help make our sites more responsive to the needs of our visitors, we may
+  utilize a standard feature of browser software called a "cookie." A
+  cookie is a small piece of computer code that is deposited on your hard drive
+  by our site. Browsers typically recognize when a cookie has been sent to your
+  computer and give you the option to refuse or allow it. A cookie does not actually
+  identify you, just the computer that you are using to access our site. A cookie
+  cannot read data off your hard drive. Our advertisers, content partners and
+  sites that are reached from links on our site may also assign their own cookies
+  to your browser, a process that we cannot control. </p>
+<p>We use cookies to help us tailor our site to your needs so we can deliver
+  a better and more personalized service. It is a cookie, for example, that allows
+  us to deliver to you any personalized information each time you visit a site. </p>
+<p>In addition, we can access cookies later in your current session or in a later
+  session on our site in order to improve your visit to our web site, as in the
+  following examples: </p>
+<p><strong><a name="account">Account Registration</a></strong> <br>
+  If your use of a component of the site requires you to register, a cookie will
+  be used to automatically identify you as a registered user when you are using
+  our site. These cookies are known as persistent cookies and continue on your
+  computer after the initial session in which they are created.</p>
+<p><strong><a name="payment">Payment Identification</a> </strong><br>
+  This cookie allows us to maintain information containing the products (like
+  photo reprints) or services (such as placing a classified advertisement or
+  signing up for home delivery) you are purchasing while you are online. To limit
+  unauthorized access, this cookie, also called a session cookie, expires whenever
+  you exit a browser session.</p>
+<p><b><a name="voluntary">Information Gathered by Voluntary Submission</a></b><br>
+  To make use of certain features on our web sites (such as contests, story comments,
+  letters to the editor, personalized web pages and other interactive forums
+  and blogs) visitors need to register and to provide certain information as
+  part of the registration or participation process. We may ask, for example,
+  for your name, e-mail address, gender, age, and zip code, and we might request
+  information on your interest in sports, personal finance, the performing arts,
+  and the like. </p>
+<p>The information you supply will help us offer you more personalized features,
+  to tailor our sites to your interests and make them more useful to you. The
+  more you tell us about yourself, the more value we can offer you. Supplying
+  such information is entirely voluntary. But if you do not supply the information
+  we need, we may be unable to provide you with services and content we make
+  available to other visitors to our sites. Of course, even if you want to remain
+  completely anonymous, you are still free to take advantage of the wealth of
+  content that is otherwise available, without registration, on our sites.</p>
+<p><b><a name="children">Special Attention to Children</a></b><br>
+  If you are under the age of 13, do not send us any information about yourself
+  such as your name, address or e-mail address. You may only send us personally
+  identifiable information if your parents have verified to us their consent
+  to the collection of the information.<br>
+  Because we are a media company, some of our online services and content may
+  be attractive to children. Because we strive to protect the privacy of all
+  users of our site, including children, we endeavor to comply with the Children’s
+  Online Privacy Protection Act. Our site:</p>
+<p><em><strong>· Includes our contact information.<br>
+· Explains the types of personal information we collect, and how we use
+it.<br>
+· Explains our practices in terms of sharing personal information with
+third parties.<br>
+· Allows parents to consent to the collection and use of their children’s
+personal information, without consenting to disclosure to third parties.<br>
+· Does not condition a child’s participation in an activity on the
+child’s providing more personal information than is reasonably necessary
+for the activity.<br>
+· Allows parents to review their child’s information, have it deleted,
+or refuse to permit any further collection, by contacting us.</strong></em></p>
+<p>We make a special effort to encourage children under the age of 13 to consult
+  with their parents before furnishing any personal data. However, we also believe
+  that parents should supervise their children's online activities and consider
+  using parental control tools available from online services and software manufacturers
+  that help provide a child-friendly online environment. These tools can also
+  prevent children from disclosing their name, address, and other personal information
+  online without parental permission. For additional information about parental
+control tools, please consult http://www.icra.org/_en/parents</p>
+<p><strong><a name="email">E-mails from Us</a> </strong><br>
+  Upon registering with our website, you may begin receiving communications from
+    us. In addition, if you have signed up for any of our automated account services,
+    we will send you transactional e-mails regarding the status of your account,
+    including confirmations, notices of expiration and renewal and other related
+    electronic correspondence. If you have signed up for any of our e-mail newsletters,
+    you may stop receiving them if you follow the "unsubscribe" instructions
+    located near the bottom of each newsletter. We may send you an e-mail inviting
+    you to participate in subscriber or website user surveys. Such surveys greatly
+    help us improve our services and the value of our web sites. Any information
+    you give us in those surveys will not be shared with any third parties except
+    in aggregate form.</p>
+<p><b><a name="shared">What We Do With the Information We Gather About You</a></b><br>
+  We or one of our affiliated companies may perform statistical, marketing and
+    demographic analyses of our delivery subscribers and their subscription patterns.
+    In addition, we may generally inform our advertisers about our subscriber
+    base. When we present information to our advertisers -- to help them understand
+    our audience and confirm the value of advertising on our websites -- it is
+    usually in the form of aggregated statistics on traffic to various pages
+    within our sites. We will not share individual user information with third
+    parties unless the user has specifically approved the release of that information.
+    In some cases, however, we may provide information to legal officials as
+    described in “Compliance with Legal Process” below.</p>
+<p>In some cases, we contract with third parties to provide services on our behalf,
+  including credit-card and bill processing, shipping, e-mail distribution, list
+  processing and analytics or promotions management. We provide these third parties
+  only with the information necessary for them to perform their specific services.
+  These service providers are restricted from using this information in any way
+  other than to provide services to us, and they may not share this information
+  with any one else nor may they resell this data.</p>
+<p><b><a name="note">A final note:</a></b><br>
+  We are affiliated with other online companies, some of which feature our branding;
+    in addition there are numerous links to third parties contained on our site.
+    Our Privacy Policy does not apply to those companies' web sites, so you should
+    refer to each of those sites to obtain information on their privacy policies.
+    If you cannot find the privacy policy on any of these sites once you have
+    arrived at their site via a link from our site, you should contact that site
+directly for more information. </p>
+<p>The web is an evolving medium. If we need to change our Privacy Policy at
+  some point in the future, we will post the changes before they take effect
+  if we believe that the change in the way we use your personal information is
+  significant or material. Of course, our use of information gathered while the
+  current policy is in effect will always be consistent with the current policy,
+  even if we change that policy later.</p>
+<p><em><strong>Last updated on 05/08/2008</strong></em></p>
 <hr width="100%" size="1">
 <p>We welcome your
-comments by e-mail:
-
-<script language="javascript"><!--
-var x1 = "Chris.Edmonds";
-var x2 = "TheSouthern.com";
-document.write("<a href=" + "ma" + "ilto:" + x1 + "@" + x2 + ">Chris.Edmonds@TheSouthern.com</a>")
-//--></script><a href="mailto:Chris.Edmonds@TheSouthern.com">Chris.Edmonds@TheSouthern.com</a>
+comments by e-mail: <a href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=comments">Questions / Comments / Concerns</a>
 </p>
 
+			
+			<!-- Newsletter -->
+			
+			
+			<!-- Weather -->
+			
+			
+			<!-- Calendar -->
+			
+			
+			
+			<!-- Legal Notices -->
+			
+			
+			<!-- Church Directory -->
+			
+			
+			<!-- Rentals -->
+			
+			
+			<!-- Personals -->
+			
+			
+			<!-- Special Sections -->
+			
+			
+			<!-- secure pages -->
+			
+			
+			<!-- Photo Gallery/pictopia -->
+			
+
+			<!-- Yahoo! Web Search -->
+			
+
+			<!-- RSS -->
+			
+			
+			<!-- Archives -->
+			
+			
+			<!-- Slideshows -->
+				
+			
+			<!-- Terms of Use -->
+				
+			
+			<!-- Coupon Page Promotion -->
+				
+			
 
 
-
-</td>
+			
+			
+		</td>
+	</tr>
+	<tr><td id="Footer">
+<br><br>
 	
-<td width="130" rowspan="3" align="left" valign="top" style="border-left:1px solid #000;">
 	
-<table width="130" border="0" cellpadding="0" cellspacing="0" class="SideBar">
-<tbody><tr valign="middle">
-<td width="125" colspan="2" class="SideBarHeaders"><img alt="" src="/images/shim.gif" width="1" height="14"><a href="/archives/" class="SideBarHeadersText">SI Archive</a></td>
-</tr>
-<tr valign="middle">
-<td colspan="2" class="SideBarRows"><a href="/archives/" class="SideBarText">Top Stories Archive</a></td>
-</tr>
-<tr valign="middle">
-<td colspan="2" class="SideBarRows" style="border-bottom:0;"><a href="/template.php?p=search/index.html" class="SideBarText"><img alt="Archives" src="/images/filing_cab.gif" width="17" height="22" border="0" align="middle"> Full Archive Search</a></td>
-</tr>
-<tr align="center" valign="middle">
-<td colspan="2" class="SideBarBottoms"><form name="form1" method="post" action="http://www.newslibrary.com/nlsearch.asp" onsubmit="return checkSearch()">
-<label for="search">Search</label>
-<input onfocus="clearDefault(this)" name="search_text" class="SearchBox" id="search" "="" size="30">
-<input name="action2" type="submit" id="action26" class="SearchButton" value=">>" size="30" align="right">
-<input type="hidden" name="search_mode" value="advanced">
-<input type="hidden" name="date_mode" value="last 6 months">
-<input type="hidden" name="NITEMS" value="25">
-<input type="hidden" name="SORT" value="Newest first">
-<input type="hidden" value="si" name="region">
-<input type="hidden" value="search" name="action2">
-</form>
-<a href="/template.php?p=search/index.html" class="SideBarText">&gt;&gt; Advanced Search</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarHeaders"><img alt="" src="/images/shim.gif" width="1" height="14"><a href="/template.php?p=in-house/promotions/topjobs/all_ads.html" class="SideBarHeadersText">Top Jobs </a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarBottoms"><p><span class="SideBarText">
-<script type="text/javascript" src="/content/topads/topads.js"></script></span></p><center><a class="topads_heading" href="#" onclick="openWindow_70(221698)" ;="">Outside Sales</a><br> <span class="topads_company">PELLA WINDOW &amp; DOOR COMPANY</span><hr class="topads-rule"><center><a class="topads_heading" href="#" onclick="openWindow_70(225191)" ;="">SENIOR LEVEL DATA CLERICAL POSITIONS</a><br> <span class="topads_company">MANUFACTURING PLANT IN PINCKNEYVILLE</span><hr class="topads-rule"><center><a class="topads_heading" href="#" onclick="openWindow_70(207009)" ;="">DRIVERS</a><br> <span class="topads_company">PAM TRANSPORT</span><hr class="topads-rule"><center><a class="topads_heading" href="#" onclick="openWindow_70(229849)" ;="">CHEMIST</a><br> <span class="topads_company">ENVIRONMENTAL LABORATORY</span><hr class="topads-rule"><center><a class="topads_heading" href="#" onclick="openWindow_70(223807)" ;="">Local Truck Drivers</a><br> <span class="topads_company">McDaniel Transportation</span><hr class="topads-rule">
-<p></p>
-<p align="center"><span class="SideBarText"><a href="/template.php?p=in-house/promotions/topjobs/all_ads.html" class="SideBarText">View all</a><br>
-<a href="/template.php?p=in-house/promotions/topjobs/all_ads.html#PlaceAd" class="SideBarText">Place an ad</a></span></p></center></center></center></center></center></td>
-</tr>
-<tr valign="middle">
-<td colspan="2" class="SideBarHeaders"><img alt="" src="/images/shim.gif" width="1" height="14"><a href="/template.php?p=special/contact.php" class="SideBarHeadersText">Contact Us </a></td>
-</tr>
-<tr valign="top">
-<td class="SideBarRows" style="border-right:0;"><a href="/template.php?p=scripts/letter_to_editor.php"><img src="/images/letter.gif" alt="Email the Editor" width="21" height="25" border="0" align="middle"> </a></td>
-<td class="SideBarRows" style="border-left:0;"><a href="/template.php?p=scripts/letter_to_editor.php" class="SideBarText">Send a letter to the editor</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarBottoms"><a href="/template.php?p=scripts/newsletter/index.php" class="SideBarText"><img src="/images/arrow_blue_right.gif" alt="" width="7" height="8" border="0" align="middle"> Subscribe to our FREE E-newsletter</a></td>
-</tr>
-<tr>
-<td colspan="2" class="SideBarHeaders"><img alt="" src="/images/shim.gif" width="1" height="14"><span class="SideBarHeadersText">Advertising</span></td>
-</tr>
-<tr align="center">
-<td colspan="2" class="SideBarRows"><script type="text/javascript"><!--
-google_ad_client = "pub-6600113800879204";
-google_ad_width = 120;
-google_ad_height = 240;
-google_ad_format = "120x240_as";
-google_ad_channel ="";
-google_color_border = "2D5893";
-google_color_bg = "99AACC";
-google_color_link = "000000";
-google_color_url = "000099";
-google_color_text = "003366";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></td>
-</tr>
-</tbody></table>
-<p></p></td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="bottom" nowrap="" bgcolor="#FFFFFF"><table width="100%" cellspacing="0" cellpadding="0" style="border-top:1px solid #CCC;">
-<tbody><tr align="center">
-<td width="50%" style="padding:10px 0px 10px 0px;"><script type="text/javascript" language="javascript" src="http://adsys.townnews.com/creative/thesouthern.com/ros_left/static.js"></script></td>
-<td width="50%" style="padding:10px 0px 10px 0px;"><script type="text/javascript" language="javascript" src="http://adsys.townnews.com/creative/thesouthern.com/ros_right/static.js"></script></td>
-</tr>
-</tbody></table></td>
-</tr>
-</tbody></table></td>
-</tr>
+	<!--Bottom of Page Ads -->
+<div></div>
 
-<tr>
-<td align="left" valign="top"><div class="MenuBar" align="center"><a href="/" class="SideBarText" style="font:bold 12pt;">TheSouthern.com</a></div><div align="center"><a href="/local/" class="MainpageStorytext">Local News</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/sports/" class="MainpageStorytext">Sports</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/opinions/" class="MainpageStorytext">Opinions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/business/" class="MainpageStorytext">Business</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/outdoors/" class="MainpageStorytext">Outdoors</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/life/" class="MainpageStorytext">Life</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://classifieds.thesouthern.com/" class="MainpageStorytext">Classifieds</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/template.php?p=special/contact.php" class="MainpageStorytext">Contact Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/template.php?p=special/privacy.php" class="MainpageStorytext">Privacy Policy</a></div><div class="MainpageStorytext" align="center">All pages &amp; images, copyright © 2005 The Southern Illinoisan, a <a href="http://www.lee.net" class="MainpageStorytext">Lee Enterprises</a> subsidiary</div></td>
-</tr>
+<!-- Site Map -->
+<div><br><table id="BottomSitemap">
+	<tbody><tr><td colspan="9" id="BottomSitemapHeader">Website Index</td></tr>
+	<tr>
+		<td align="left" valign="top">
+			<h3>Home</h3>
+			<a href="/edition/">E-edition</a><br>
+			<a href="/latest_news/">Latest News</a><br>
+			<a href="/front_page/">Front Page</a><br>
+			<a href="/local/">Local News</a><br>
+			<a href="/elections2008/">Elections 2008</a><br>
+			<a href="http://www.thesouthern.com/images/frontpage.pdf" target="_blank">Today's Front Page</a><br><br>
+
+			<h3>Business</h3>
+			<a href="/business/">Headlines</a><br>
+			<a href="http://www.sbj.biz/">SBJ</a><br>
+			<a href="/business/">Stocks</a><br>
+			<a href="/admarket/legal_notices/">Legals</a><br>
+			<a href="/business_services_directory/">Service Directory</a><br>
+		</td>
+
+		<td align="left" valign="top">
+			<h3>Regional</h3>
+			<a href="/local/">Local Stories</a><br>
+			<a href="http://www.southernillinoisan.com/closings/?type=Roads">Closing Alerts</a><br>
+			<a href="/weather/">Weather</a><br>
+			<a href="/contact_us/">Contact Us</a><br>
+			<a href="/tv/">TV Listings</a><br>
+			<a href="/movies/">Movies</a><br>
+			<a href="/calendar/">Calendar</a><br><br>
+			
+			<h3>Interactive</h3>
+			<a href="/blogs/">Blogs</a><br>
+			<a href="http://www.thesouthern.com/shared-content/phpBB/">SI Forums</a><br>
+			<a href="/video/">Videos</a><br>
+			<a href="/slideshows/">Slideshows</a><br>
+			<a href="/gamezone/">GameZone</a><br>
+			<a href="http://www.thesouthern.com/gallery/">Photos</a><br>
+		</td>
+
+		<td align="left" valign="top">
+			<h3>Sports</h3>
+			<a href="/sports/">Headlines</a><br>
+			<a href="/prosports/">Professional</a><br>
+			<a href="/preps/">Preps</a><br>
+			<a href="/columnists/">Columnists</a><br>
+			<a href="http://www.thesouthern.com/dawgblog/">DawgBlog</a><br>
+			<a href="http://www.thesouthern.com/sipreps/">PrepsBlog</a><br>
+			<a href="http://www.thesouthern.com/minerdetails/">Miner's Blog</a><br>
+			<a href="/outdoors/">Outdoors</a><br>
+			<a href="http://www.thesouthern.com/sioutdoorsblog/">SI Outdoor Blog</a><br>
+			<a href="/calendar/">Horse Event Calendar</a><br>
+		</td>
+
+		<td align="left" valign="top" width="100">
+			<h3>Lifestyles</h3>
+			<a href="/lifestyles/">LS Front</a><br>
+			<a href="http://www.flipsideonline.com">Flipside</a><br>
+			<a href="/travel/">Travel</a><br>
+			<a href="http://health.thesouthern.com">Health</a><br>
+			<a href="/celebrate/">Anniversaries</a><br>
+			<a href="/celebrate/">Births</a><br>
+			<a href="/celebrate/">Weddings</a><br>
+			<a href="/celebrate/">Engagements</a><br>
+			<a href="http://www.parade.com" target="_blank">Parade</a><br>
+			<a href="http://www.relishmag.com" target="_blank">Relish</a><br>
+		</td>
+
+		<td align="left" valign="top">
+			<h3>Obituaries</h3>
+			<a href="/obituaries/">Listings</a><br>
+			<a href="http://www.legacy.com/TheSouthern/Obituaries.asp?Page=TributeGateway">Tributes</a><br>
+			<a href="/soldiers/">Soldiers</a><br>
+			<a href="http://www.legacy.com/TheSouthern/Obituaries.asp?Page=ObitFinder">Search</a><br>
+			<a href="http://www.legacy.com/TheSouthern/Obituaries.asp?Page=GBGateway">Guestbooks</a><br>
+			<a href="/pets/">Pets</a><br><br>
+
+			<h3>Other Sections</h3>
+			<a href="/special_sections/">Special Sections</a><br>
+			<a href="/tv/">TV Listings</a><br>
+			<a href="http://www.americanprofile.com/" target="_blank">American Profile</a><br>
+			<a href="/elections2008/">Elections 2008</a><br>
+		</td>
+
+		<td valign="top">
+			<h3>Columns/Opinions</h3>
+			<a href="/opinions/">Voice/Reader</a><br>
+			<a href="/opinions/">Voice/Southern</a><br>
+			<a href="http://www.thesouthern.com/shared-content/phpBB/">SI Forums</a><br>
+			<a href="/columnists/#metro">Gary Metro</a><br>
+			<a href="/columnists/#winkeler">Les Winkeler</a><br>
+			<a href="/columnists/#hefferman">Todd Hefferman</a><br>
+			<a href="/columnists/#page">Clarence Page</a><br>
+			<a href="/columnists/#miklasz">Bernie Miklasz</a><br>
+			<a href="/columnists/#pitts">Leonard Pitts</a><br>
+			<a href="/columnists/#charen">Mona Charen</a><br>
+			<a href="/columnists/#coulter">Ann Coulter</a><br>
+			<a href="/opinions/">Guest Editorials</a><br>
+		</td>
+
+		<td align="left" valign="top">
+			<h3>Classifieds</h3>
+			<a href="http://www.siautodeals.com" target="_blank">SI Auto Deals</a><br>
+			<a href="/homes/">Homes/Condos</a><br>
+			<a href="/rentals/">Rentals</a><br>
+			<a href="/coupons/">Coupons</a><br>
+			<a href="/auctions/">Auctions</a><br>
+			<a href="https://secure.townnews.com/thesouthern.com/onlineclassifieds/signon.php">Place Ad</a><br>
+			<a href="/admarket/events_and_sales/">Yard Sales</a><br>
+			<a href="/personals/">Personals</a><br>
+			<a href="/churches/">Churches</a><br>
+		</td>
+				<td align="left" valign="top">
+			<h3>Services</h3>
+			<a href="/carrier/">Carrier Info</a><br>
+			<a href="http://www.thesouthern.com/hotjobs/" target="_blank">Yahoo! HotJobs</a><br>
+			<a href="http://hotjobs.yahoo.com/jobseeker/myhj/resume-manager.html" target="_blank">Post Resume</a><br>
+			
+			<a href="https://secure.townnews.com/thesouthern.com/onlineclassifieds/signon.php">Place an Ad</a><br>
+			<a href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=ezpay">EZpay</a><br><a href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=sub_online">Subscribe</a><br>
+			<a href="/edition/">E-edition</a><br>
+<a href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=sub_suspension">Vacation Stops/Starts<br>
+					</a><a href="https://secure.townnews.com/shared-content/perform/?domain_name=thesouthern.com&amp;form_template=renew">Renew Subscription</a><br><a href="http://www.thesouthern.com/template.php?p=html/searchtest/index.html">Order Articles</a><br><a href="/sales/">Advertise with Us</a><br><a href="/placeanad/">Place an Ad</a><br><a href="/subscriber_services/sundaycopy/">Sunday Copy</a><br><a href="/subscriber_services/singlecopy">Single Copy</a>
+		</td>
+
+
+		<td align="center" valign="top">
+			<h3>Today's front page</h3><br>
+			<a href="/content/current/news_templates/frontpage.pdf" target="_blank"><img border="0" src="http://images.townnews.com/thesouthern.com/content/current/news_templates/frontpage.pdf.jpg"></a> <br>
+			<a href="/subscriber_services/">Subscribe</a> | <a href="/sales/">Advertise</a>
+<br>			<a href="/edition/">E-edition</a>
+		</td>
+	</tr>
+</tbody></table></div>
+
+<!-- Bottom Links -->
+<div class="BottomSize">
+<div class="BottomLinks"><a href="/contact_us/">Customer Service</a> | 710 N. Illinois Ave., PO Box 2108, Carbondale, IL 62901 | Ph. 618-529-5454 | 800-228-0429</div>
+<div class="BottomLinks">Other <a href="http://www.lee.net" target="_blank">Lee Enterprises</a> Regional Newspapers: <a href="http://www.stltoday.com/" target="_blank">Post-Dispatch</a> | <a href="http://www.pantagraph.com/" target="_blank">The Pantagraph</a> |  <a href="http://www.herald-review.com/" target="_blank">Herald-Review</a> </div>
+<div class="BottomLinks">Copyright © 2008 All rights reserved. | <a href="/privacy_policy">Privacy Policy</a>
+ | <a href="/terms">Terms of Use</a>
+</div><a id="BottomLeeLogo" href="http://www.thesouthern.com"><img alt="Lee Enterprises" src="http://thesouthern.com/images/lee_logo.gif" border="0"></a>
+</div>
+				<!-- TV -->
+			
+			
+			<!-- Cinema-Source -->
+			
+			
+			<!-- Preps -->
+			
+			
+			<!-- Elections 2008 -->
+			
+			
+			<!-- Crossword -->
+			
+			
+			<!-- Sudoku -->
+			
+			
+			<!-- SI Gamezone -->
+			
+			
+			<!-- Business Services Directory -->
+			
+			
+			<!-- Auctions -->
+			
+		
+			<!-- Classifieds -->
+			
+			
+			<!-- Sales -->
+			
+			
+			<!-- Columnists -->
+	
+			
+			<!-- Subscriber Services-->
+			
+			
+			<!-- NIE -->
+			
+			
+			<!-- Hotjobs -->
+			
+			
+			<!-- Contact Us -->
+			
+			
+			<!-- Privacy Policy -->
+			
+<!-- omniturelee extension v1.0.0 -->
+<!-- SiteCatalyst code version: H.7.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="http://www.thesouthern.com/scripts/omniture/s_code.js">
+</script>
+<script language="JavaScript">
+<!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server="Carbondale"
+s.channel="thesouthern.com"
+s.pageType=""
+s.prop1="privacy_policy"
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7=""
+s.prop8=""
+s.prop9=""
+s.prop10=""
+s.prop11=""
+s.prop12=""
+s.prop13=""
+s.prop14="23:45"
+s.prop15="Friday"
+s.prop16=""
+s.prop17=""
+s.prop18=""
+s.prop19=""
+s.prop20=""
+
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+/* Hierarchy Variables */
+s.hier1="Lee Enterprises,Carbondale,thesouthern.com,privacy_policy,,,,"
+s.hier2="Lee Enterprises,privacy_policy,Carbondale,thesouthern.com,,,,"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. -->
+			
+			<!-- Newsletter -->
+			
+			
+			<!-- Weather -->
+			
+			
+			<!-- Calendar -->
+			
+			
+			
+			<!-- Legal Notices -->
+			
+			
+			<!-- Church Directory -->
+			
+			
+			<!-- Rentals -->
+			
+			
+			<!-- Special Sections -->
+			
+			
+			<!-- Photo Gallery/pictopia -->
+			
+
+			<!-- Yahoo! Web Search -->
+			
+
+			<!-- RSS -->
+			
+			
+			<!-- Archives -->
+			
+			
+			<!-- Slideshows -->
+			
+			
+			<!-- Front Page -->
+			
+			
+			<!-- Local -->
+			
+			
+			<!-- Sports -->
+			
+ 
+ 			<!-- Breaking News -->
+			
+			
+			<!-- Business -->
+			
+			
+			<!-- Lifestyles -->
+			
+			
+			<!-- Travel -->
+			
+			
+			<!-- Blogs -->
+			
+			
+			<!-- Interactive -->
+			
+			
+			<!-- front -->
+			
+			
+		</td></tr>
 </tbody></table>
 
 </body></html>
