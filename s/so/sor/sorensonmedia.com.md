@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sorensonmedia.com privacy policy that was archived on 2007-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071117204412id_/http%3A//www.sorensonmedia.com/pages/%3FpageID%3D42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorensonmedia.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516231628id_/http%3A//www.sorensonmedia.com/pages/%3FpageID%3D42) for the most accurate reproduction.*
 
 # Sorenson Media - Legal Policies - Privacy Policy
 
@@ -12,8 +12,8 @@ Sorenson Media will inform you of the following in this privacy policy:
   * What organization is collecting the information; 
   * How the information is used; 
   * With whom the information may be shared; 
-  * What choices are available regarding collection, use and distribution of the information; 
-  * What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control; and, 
+  * What choices are available regarding collection, use, and distribution of the information; 
+  * What kind of security procedures are in place to protect the loss, misuse, or alteration of information under our control; and, 
   * How you can correct any inaccuracies in the information. 
 
 
@@ -24,9 +24,9 @@ Please remember that any information (including information of a financial and/o
 OR ON SORENSON MEDIA'S BEHALF.**
 
 **A. In General**   
-Personally Identifiable Information (PII or Personal Information) is information that can be used to identify or contact you. We collect the Personal Information that you provide to us in two general and distinct ways: (1) when you choose to purchase various services or products offered by Sorenson Media and/or its affiliated business partners, or (2) when you choose to participate in surveys or send e-mails to Sorenson Media. We also collect non-personal information from you and about your use of our Web site, e-mails, special promotions and newsletters that we may send to you, and Web sites of selected sponsors and advertisers. 
+Personally Identifiable Information (PII or Personal Information) is information that can be used to identify or contact you. We collect the Personal Information that you provide to us in two general and distinct ways: (1) when you choose to purchase various services or products offered by Sorenson Media and/or its affiliated business partners, or (2) when you choose to participate in surveys or send e-mails to Sorenson Media. We also collect non-personal information from you and about your use of our Web site, e-mails, special promotions and newsletters that we may send to you, and Web sites of selected sponsors and advertisers. To no longer receive e-mails or other electronic communications from Sorenson Meda, you must elect to opt-out.  
 
-**B. Registration And Other Information.**   
+ **B. Registration And Other Information.**   
 You may view or use our Web site without registering or submitting any Personal Information. In that case, the only information we collect will be non-personal information collected through the use of cookies or web beacons (see details below). 
 
 However, in order to have access to certain products and services available on Sorenson Media's Web site, you are required to complete a registration form and provide other information reasonably necessary for us to provide the products and/or services for you. Some examples of the information we collect in the Registration form are: 
@@ -110,4 +110,4 @@ Privacy as it applies to the Internet is a dynamic, rapidly developing area. The
 
 We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your Personal Information and, therefore, you should also check our posted Privacy Policy for any non-significant changes. Further, if you do not agree to the terms of this Privacy Policy or any revised policy, you should exit the site immediately. 
 
-© 2006 Sorenson Media, Inc. All rights reserved 
+© 2008 Sorenson Media, Inc. All rights reserved 
