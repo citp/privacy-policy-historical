@@ -1,15 +1,26 @@
-> *The following text is extracted and transformed from the che.com privacy policy that was archived on 2005-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051203105039id_/http%3A//www.che.com/privacy/%3Fche_user%3De14f2dd47ca04932be51dd404cef18a6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the che.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516092146id_/http%3A//www.che.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Chemical Engineering.com
+# Chemical Engineering :: Privacy Policy
 
-### Your Privacy Matters To Us
+  
+Search by Region 
 
-Chemical Engineering collects personal information about our users only during registration for the Chemical Week Associates website and from our use of "cookie" technology as you use the services. 
+[White Papers](https://web.archive.org/whitepapers/ "White Papers") [Webcasts](https://web.archive.org/webcasts/ "Webcasts") [Conferences](https://web.archive.org/conferences/ "Conferences") [Current Issue](https://web.archive.org/issues/ "Current Issue") [Jobs](https://web.archive.org/chemploy "Jobs") [ADVERTISE](https://web.archive.org/advertise.html "Advertise with CE") [SUBSCRIBE](https://web.archive.org/subscribe/ "Subscribe to CE") Resources  
+[Events & Announcements](https://web.archive.org/events_and_announcements/) [Surveys](https://web.archive.org/surveys/) [Facts At Your Fingertips](https://web.archive.org/facts/) [Advanced Search](https://web.archive.org/search/) [Buyers' Guide](https://web.archive.org/buyersguide/) [Plant Cost Index](https://web.archive.org/pci/) [Engineering Books](https://web.archive.org/cebooks/) [Editorial Submissions](https://web.archive.org/editorial_submissions.html) Member Services  
+[FREE trial](https://web.archive.org/freetrial.html) [Subscribe](https://web.archive.org/subscribe/) [FAQ](https://web.archive.org/faq.html) Related Websites  
+[Daratech PLANT](http://www.daratechplant.com/) [Chemical Week](http://www.chemweek.com/) [Harriman Chemsult LTD](http://www.harriman.co.uk/) [SRI Consulting](http://www.sriconsulting.com/) [About us](https://web.archive.org/aboutus.html) [Contact us](https://web.archive.org/contactus.html) | 
 
-Chemical Week Associates respects your right to privacy. 
+## Privacy Policy
 
-The data we collect is used in the aggregate to give us demographic information about the entire Chemical Week Associates audience in order to improve the overall service. The personal information you provide allows us to inform you about updates to the service and to notify you of products and services of Chemical Week Associates, its affiliates and third parties that we believe may be of interest to you. 
+Chemical Engineering takes your privacy very seriously. We have developed this privacy policy to protect the information gathered from our site visitors.
 
-Chemcial Week Associates uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information.
+Our web server identifies the domain name and IP address of each visitor to www.che.com, but not the e-mail address. Our log files collect and store domain name information. We also track information, in aggregate, on pages and features that users access.
 
-###### [Back to Homepage](https://web.archive.org/index.php)
+Chemical Engineering does not sell such information to third parties. The information we collect may be used for audits, statistical analysis, product development and advertising sales efforts. We disclose site usage information to third parties only in aggregate.
+
+Subscribers to our online and offline products and services are asked to provide Personally Identifiable Information (name, e-mail address, job title, company). Chemical Engineering does not share this information with third parties. Each issue of our e-newsletters, delivered via e-mail, offer the opportunity to “opt out” of our distribution list.
+
+Chemical Engineering may modify this policy from time to time to reflect legal, technological or other developments. Any such modified policy will appear at this URL.
+
+|    
+
