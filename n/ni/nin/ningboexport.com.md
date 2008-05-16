@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ningboexport.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215025213id_/http%3A//www.ningboexport.com/law.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ningboexport.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516202630id_/http%3A//www.ningboexport.com/law.htm) for the most accurate reproduction.*
 
 # China Online Commodities Fair
 
@@ -67,3 +67,7 @@ You can access, view and edit your Registration Information, Publishing Informat
 10\. Your feedback 
 
 NingboExport welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [service@ningboexport.com](mailto:service@ningboexport.com)
+
+> back
+
+Add.: 3F, 190 Linqiao Road, Ningbo, P.R.C. Post Code: 315000        Tel: 86-574-87317288 Fax: 86-574-87296252 
