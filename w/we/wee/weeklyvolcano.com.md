@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeklyvolcano.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223113112id_/http%3A//www.weeklyvolcano.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklyvolcano.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516232931id_/http%3A//www.weeklyvolcano.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Weekly Volcano, Puget Sound's Arts and Entertainment Authority
 
