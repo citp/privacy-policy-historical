@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tmz.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028085913id_/http%3A//www.tmz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmz.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516032146id_/http%3A//www.tmz.com/privacy) for the most accurate reproduction.*
 
 # TMZ.com
 
 ## Privacy Policy
 
-**UPDATED: July 7, 2004**
+**Last updated: September, 2007**
 
 Thank you for visiting TMZ.com, a Warner Bros. Entertainment Group ("we" or "us") Web site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personal information you submit on Web pages where this policy is posted.
 
@@ -86,4 +86,4 @@ Visitors to this site may participate in many activities without providing any p
 
 From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
-If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: privacy@wb.com or at WB.com, Attn. Chief Privacy Officer, 4000 Warner Blvd., Building 505, Burbank, CA 91522, (818) 977-0018.
+If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: **privacy@wb.com or at WB.com, Attn. Chief Privacy Officer, 4000 Warner Blvd., Building 505, Burbank, CA 91522, (818) 977-0018.**
