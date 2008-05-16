@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumecraze.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214045801id_/http%3A//www.costumecraze.com/_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumecraze.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516085217id_/http%3A//www.costumecraze.com/_privacy.html) for the most accurate reproduction.*
 
 # Costume Craze Privacy Policy
 
@@ -32,6 +32,6 @@ Questions? Comments? We'd love to hear from you!
 
 ## Mailing Address:
 
-�����Costume Craze LLC  
-�����870 W. 410 N.  
-�����Lindon, UT 84042
+Costume Craze, LLC  
+350 West Center Street  
+Pleasant Grove, UT 84062
