@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2007-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070211192540id_/http%3A//stopagingnow.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516175522id_/http%3A//www.stopagingnow.com/customer_service/privacy_and_security) for the most accurate reproduction.*
 
-# Nutrition news, expert health advice best multi vitamins supplements antioxidants
-
-|  | 
-
-Nutritional Information, Advice and Premium Supplements You Can Trust, Based on the Latest Research. 
+# Stop Aging Now Privacy & Security | Learn how Stop Aging Now Protects their clients!
 
 **Security**
 
@@ -28,7 +24,7 @@ We value your trust and the security of your personal and credit card informatio
 
 Electronic mail:   Any mail sent to us, is private, and your address will never be used, or sold to any mailing list. When you visit us or send e-mails to us, you are communicating with us electronically. You hereby consent to receive communications from us electronically when sending any query to us. We will communicate with you by e-mail and you hereby agree that all agreements, notices, disclosures and other communications that we provide to you electronically, satisfy any legal requirement that such communications be in writing. 
 
-Newsletters:  If you however decide to join our FREE newsletter service, newsflash service or our general mailing list, you may do so, and we will also not sell, rent or make available your mailing address to any other party. You are also entitled to request to be unsubscribed from the newsletter by visiting [www.stopagingnow.com/signup](http://www.stopagingnow.com/pages/unsub) and filling out the required form. Please allow 7-10 business days to process your request. 
+Newsletters:  If you however decide to join our FREE newsletter service, newsflash service or our general mailing list, you may do so, and we will also not sell, rent or make available your mailing address to any other party. You are also entitled to request to be unsubscribed from the newsletter by visiting [www.stopagingnow.com]() and filling out the required form. Please allow 7-10 business days to process your request. 
 
 **Copyright**
 
@@ -36,12 +32,11 @@ All content included on this site, such as text, graphics, logos, button icons, 
 
 **License**
 
-Stop Aging Now! Inc. grants you a partial license to access and make personal use of this site and not to download (other than page caching) or modify it, or any portion thereof, except with express written consent of Stop Aging Now! Inc. Stop Aging Now! Inc. forbids that any portion of this site may to be reproduced, duplicated, copied, sold, re-sold, visited, or otherwise exploited for any commercial purpose without express written consent of Stop Aging Now! Inc. To request such permission, please write to: 
+Stop Aging Now Inc. grants you a partial license to access and make personal use of this site and not to download (other than page caching) or modify it, or any portion thereof, except with express written consent of Stop Aging Now! Inc. Stop Aging Now! Inc. forbids that any portion of this site may to be reproduced, duplicated, copied, sold, re-sold, visited, or otherwise exploited for any commercial purpose without express written consent of Stop Aging Now! Inc. To request such permission, please write to: 
 
-Stop Aging Now! Inc.  
-PO Box 5550  
-Key West, FL 33041  
-
+Stop Aging Now Inc.  
+5505 Connecticut Ave NW, #314  
+Washington, DC 20015 
 
 You are also prohibited and forbidden to frame and/or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form). The use of the meta tags or any other "hidden text" utilizing Stop Aging Now! Inc. names or trademarks are prohibited without the express written consent of Stop Aging Now! Inc. Any unauthorized use, or attempted unauthorized use terminates the permission or partial license granted by Stop Aging Now! Inc.
 
