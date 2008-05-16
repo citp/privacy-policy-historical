@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plannedparenthood.org privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224154831id_/http%3A//www.plannedparenthood.org/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plannedparenthood.org privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516052200id_/http%3A//www.plannedparenthood.org/privacy-policy.htm) for the most accurate reproduction.*
 
 # Planned Parenthood - Privacy Policy
 
@@ -50,7 +50,7 @@ We use this information to formulate statistics (possibly with the help of outsi
   
 **Use of Cookies**
 
-Cookies are small text files that are either placed on your computer's hard drive ("persistent cookies") or in your computer's Random Access Memory ("session cookies"). We use both persistent cookies and session cookies on [www.plannedparenthood.org](http://www.plannedparenthood.org/).
+Cookies are small text files that are either placed on your computer's hard drive ("persistent cookies") or in your computer's Random Access Memory ("session cookies"). We use both persistent cookies and session cookies on <http://www.plannedparenthood.org/>.
 
 Session Cookies: We use session cookies to make it easier for you to navigate certain sections of our Web site. If you choose to provide personal information by using an interactive application on our site, such as by joining our e-mail list, or registering with our activist network, or making an online donation to PPFA, we place a session cookie on your computer so that you will be recognized as you move around the Web pages. Unless you opt-in to change these session cookies to persistent cookies (see Persistent Cookies below), the information is only used for the duration of your browser session. For example, if you join our activist network and then navigate through different pages of the Web site, the cookie will maintain the information you entered when you filled out the activist registration page. As you move through the site, any fields requiring information about you that has already been captured will automatically appear. However, once you close your browser window, the session cookie times out. If you open a new browser window and return to our Web site, your personal information fields will not be filled automatically.
 
@@ -109,4 +109,4 @@ Mail: Member Services, PPFA, 434 West 33rd Street, New York, NY 10001
 E-mail: [member.services@ppfa.org](mailto:member.services@ppfa.org)  
 Phone: 1-800-430-4907
 
-© 2005 Planned Parenthood® Federation of America. All rights reserved. Planned Parenthood® and the logo of "nested Ps" are registered trademarks of Planned Parenthood Federation of America, Inc. 
+© 2005 Planned Parenthood® Federation of America. All rights reserved. Planned Parenthood® and the logo of "nested Ps" are registered trademarks of Planned Parenthood Federation of America, Inc.
