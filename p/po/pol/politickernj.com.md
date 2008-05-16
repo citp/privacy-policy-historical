@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politickernj.com privacy policy that was archived on 2007-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071110213417id_/http%3A//politickernj.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politickernj.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516171941id_/http%3A//www.politickernj.com/privacy) for the most accurate reproduction.*
 
 # The PoliticsNJ.com Privacy Policy | Politicker NJ
 
@@ -66,27 +66,5 @@ The Observer Media Group may share aggregated, nonpersonal information, such as 
 
   * We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of the Observer Media Group or our employees or customers.
   * We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfillment providers, who process information or perform services on our behalf.
-  * If you submit personal information on a portion of our site that is operated by a third party, we may share the information you submit with the third party, and the information may be used by that party as permitted under that party's privacy policy. The Observer Media Group and its parent and affiliate companies are not responsible for the third party's actions or policies. Portions of the site operated by third parties normally include a "Powered by" or â€œSponsored byâ€? logo naming the third party, and/or have forms that include links to the third party's privacy policy.
-  * We may transfer personal information from your user record to your subscriber record, if one exists, provided that we also transfer any preferences you have set for how that personal information is used. We may share information with third parties for promotional purposes, as described below.
 
 
-
-**User Published Content**
-
-PoliticsNJ.com makes available to its users tools which allow them to publish content on the PoliticsNJ.com web site, such as (but not limited to) blogs, comments, forums, and interactive tools.Â 
-
-Â·Â Â Â Â Â Â Â Â  PoliticsNJ.com reserves the right to remove or not to publish any individual or individualâ€™s content on the site for any reason without explanation.
-
-Â·Â Â Â Â Â Â Â Â  We reserve the right to, but do not assume the obligation, to restrict or prohibit the use of our site as we see fit whether for legal or other reasons.
-
-Â·Â Â Â Â Â Â Â Â  User published Content remains the intellectual property of the individual user, however by posting Content on our Website, you grant Company a non-exclusive, perpetual, irrevocable, royalty-free, worldwide, fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such Content throughout the world in any media, whether now known or hereafter discovered.Â  In addition, you warrant that all so-called "moral rights" in those materials have been waived.
-
-Â·Â Â Â Â Â Â Â Â  You should be aware that when you disclose personal information such as your name or e-mail address in a forum, blog comment, or other area that is publicly accessible by others, that information can be collected and used by others. The New York Observer is not responsible for any information that you provide in the above areas. 
-
-#### Use of data for promotions, and choices for personal information
-
-Postal addresses will be used to promote products of the Observer Media Group, and may be rented and/or licensed to select outside firms for promotional purposes. Offers for which the postal address data is rented and/or licensed for use are screened and the users are required to target their offers carefully.
-
-When you provide your e-mail address to us, you agree to receive e-mail from the Observer Media Group, and any affiliate operations including joint endeavors with third parties; however, you can unsubscribe from these e-mails at any time simply by clicking the unsubscribe link at the bottom of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.
-
-If the Observer Media Group, PoliticsNJ.com or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
