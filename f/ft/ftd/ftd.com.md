@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ftd.com privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112180720id_/http%3A//www.ftd.com/350/custserv/security.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftd.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516135440id_/http%3A//www.ftd.com/custserv/security.epl) for the most accurate reproduction.*
 
 # Security & Privacy
 
-|  |  Revised October 25th, 2007  |  [](http://www.truste.org/ivalidate.php?url=www.ftd.com&sealid=101)  
+|  |  Revised April 3, 2008  |   
 ---|---  
 Your Security & Privacy Are Important to Us FTD.COM ("FTD," "we" or "us") is committed to protecting our customers' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web site located at, or linked to, the URL: www.FTD.COM. Please read this Privacy Policy ("Policy") carefully to understand how we will use and protect your personal information. We will never share your personal information with anyone except as described in this Policy. 
 
@@ -92,11 +92,5 @@ back to top
 By shopping at our Site or opening an account with FTD, you consent to the use of your Personally Identifiable Information by FTD in the manner specified in this Policy. We, however, have the option to change, modify, or add to the terms and conditions of the Policy at any time. We will inform you of any material changes by posting the revised Policy on our Site 30 days prior to implementing the change. Any customer who does not agree to the revised Policy has the option to opt-out. The Policy will go into effect on the date posted. The new Policy will apply to all current and past users of our Site and will replace any prior policies that are inconsistent. 
 
 Because our Site accepts international orders, if you are located outside of the United States, please be aware that any information you provide will be transferred to the United States. By using our site or providing us with your information, you hereby consent to this transfer. In addition, if you provide data about other individuals (such as gift recipients), you agree that you have obtained consent from each such individual to the submission and processing of such information to the terms of this Policy, including without limitation the transfer of such data to the United States. Although we will collect and use your information only as stated in this Policy, laws generally applicable to the protection of personal data in the United States may not be as stringent as those in some users' home jurisdictions.
-
-back to top
-
-FTD.COM is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.FTD.COM. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact FTD.COM at http://custserv.ftd.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 back to top
