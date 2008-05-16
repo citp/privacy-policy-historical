@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surehits.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024170329id_/http%3A//www.surehits.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surehits.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516044319id_/http%3A//www.surehits.com/privacy.html) for the most accurate reproduction.*
 
 # SureHits - For Insurance and Loans, It's SureHits!
 
@@ -16,6 +16,8 @@ Internet consumer privacy is of paramount importance to SureHits and our adverti
 **Personally Identifiable Information (PII)**
 
 When an Internet consumer clicks on one of Cyberspace Communication Corp.'s placed advertisements, Cyberspace Communication Corp. does not collect any personally identifiable information regarding the consumer who clicked on the ad (e.g. name, address, social security number, e-mail address).
+
+In the course of providing the user a shopping experience, personally identifiable information may be provided to Cyberspace Communications Corp. This information will be temporarily stored for a reasonable length of time for the purposes of fulfilling the shopping experience. The personally identifiable information supplied by the user will not be permanently stored or archived. 
 
 **Non-Personally Identifiable Information (Non-PII)**
 
