@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dodgeforum.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211124926id_/http%3A//www.dodgeforum.com/includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodgeforum.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517004956id_/http%3A//www.dodgeforum.com/includes/privacy.asp) for the most accurate reproduction.*
 
 # Dodge Forum
 
@@ -59,12 +59,6 @@ If you have any questions about this privacy policy, the practices of the DodgeF
 
 [Contact Form](https://web.archive.org/contact/)  
   
-| 
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1563&url=http://www.edgeproducts.com/?utm_source=Dodgeforum.com&utm_medium=Banner&utm_term=Gas&utm_content=468x60&utm_campaign=Gas)  
-  
----|---  
-  
 [Today's Posts](http://www.dodgeforum.com/searchpro.asp?searchfor=today)  
 [Most Active Topics](http://www.dodgeforum.com/searchpro.asp?searchfor=active)  
 [Make A Donation](http://www.dodgeforum.com/contributors/)  
@@ -91,59 +85,67 @@ If you have any questions about this privacy policy, the practices of the DodgeF
 [Dodge Viper](http://www.dodgeforum.com/models/viper/ "Dodge Viper")  
 
 
-| Featured Sponsors  
+  
+|   
 ---  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=20&url=http://www.usspeedonline.com/)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=655&url=http://www.dodgechallenger.com)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1336&url=http://www.weldracing.com)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=872&url=http://www.dodgeforum.com/tire-rack/)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1385&url=http://www.agricover.com/)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1120&url=http://www.hypertracker.com/go/perfoiltech/dodge/)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1335&url=http://www.americanracing.com/06ola/dodgeforums)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1585&url=http://www.buyautotruckaccessories.com)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1468&url=http://www.partsformydodge.com)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=613&url=http://www.verociousmotorsports.com)  
-  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1584&url=http://www.buycarfloormats.com)
+Featured Sponsors  
+|   
+---  
+|  |   
+---  
+|   
+[Advertising Info](https://web.archive.org/contact/?msg=Advertising+Information)
 
-[Dodge body kits, hoods, and lambo doors](http://www.andysautosport.com/)  
+Car of the Month  
+---  
+May 2008  
+[](https://web.archive.org/MemberRides/showRide.asp?ID=311)  
+[2003 Neon SRT-4](https://web.archive.org/MemberRides/showRide.asp?ID=311 "2003 Neon SRT-4")  
   
+Ride of the Month  
+---  
+May 2008  
+[](https://web.archive.org/MemberRides/showRide.asp?ID=306)  
+[2005 3500 QCLB Laramie Sport 5.9L CTD Auto](https://web.archive.org/MemberRides/showRide.asp?ID=306 "2005 3500 QCLB Laramie Sport 5.9L CTD Auto")  
   
-[Advertising Info](https://web.archive.org/contact/?msg=Advertising+Information)  
 
 
+Poll  
+---  
+Now that you've seen the 2008 Dodge Challenger SRT-8, what do you think?  
+| I Love It, Its Perfect  
+| I love the looks, but hate the transmission  
+| I like it, but I want the concept interior  
+| I like it, but I want the exact concept exterior  
+| Its ok, but the concept was far better  
+| Thanks, but I look forward to some changes on the 2009 models.  
+  
+[Poll Results](https://web.archive.org/poll/poll_results.asp?id=75)  
+[Previous Polls](https://web.archive.org/poll/poll_archive.asp)  
+  
 Top 10 Posters  
 ---  
-| [badstratrt](https://web.archive.org/showprofile.asp?memID=2745)| 18867  
+| [dustyloins](https://web.archive.org/showprofile.asp?memID=894)| 20389  
 ---|---  
-[dustyloins](https://web.archive.org/showprofile.asp?memID=894)| 18401  
-[midnight](https://web.archive.org/showprofile.asp?memID=9989)| 14774  
-[vipergts](https://web.archive.org/showprofile.asp?memID=284)| 13793  
-[dodgegirl19](https://web.archive.org/showprofile.asp?memID=289)| 13068  
-[ramfan5.9](https://web.archive.org/showprofile.asp?memID=4465)| 12327  
-[steve05ram36](https://web.archive.org/showprofile.asp?memID=1508)| 10023  
-[nickoman01](https://web.archive.org/showprofile.asp?memID=5543)| 9915  
-[casper](https://web.archive.org/showprofile.asp?memID=5849)| 9598  
-[71roadrunner](https://web.archive.org/showprofile.asp?memID=193)| 9394  
+[badstratrt](https://web.archive.org/showprofile.asp?memID=2745)| 20284  
+[midnight](https://web.archive.org/showprofile.asp?memID=9989)| 16853  
+[vipergts](https://web.archive.org/showprofile.asp?memID=284)| 14303  
+[dodgegirl19](https://web.archive.org/showprofile.asp?memID=289)| 13072  
+[ramfan5.9](https://web.archive.org/showprofile.asp?memID=4465)| 12398  
+[steve05ram36](https://web.archive.org/showprofile.asp?memID=1508)| 11138  
+[nickoman01](https://web.archive.org/showprofile.asp?memID=5543)| 10860  
+[drew](https://web.archive.org/showprofile.asp?memID=7365)| 9991  
+[casper](https://web.archive.org/showprofile.asp?memID=5849)| 9604  
   
 New Vendors  
 ---  
+[ATI ProCharger](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1626&url=http://www.procharger.com)  
+[Motor City Auto Parts](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1613&url=http://www.MotorCityAutoParts.com)  
+[Sonic Electronix](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1605&url=http://www.sonicelectronix.com)  
 [Buy Auto Truck Accessories](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1585&url=http://www.buyautotruckaccessories.com)  
 [Buy Car Floor Mats](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1584&url=http://www.buycarfloormats.com)  
-[Parts For My Dodge](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1468&url=http://www.partsformydodge.com)  
 [Access Roll-Up Cover](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1385&url=http://www.agricover.com/)  
-[American Racing](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1355&url=http://www.americanracing.com)  
-[Edge Products](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1236&url=http://www.edgeproducts.com/)  
 [AMSOIL - Performance Oil Technology](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1234&url=http://www.hypertracker.com/go/perfoiltech/dodge468/)  
-[Andy's Auto Sport](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1214&url=http://www.andysautosport.com)  
 [AMSOIL - Performance Oil Technology](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1120&url=http://www.hypertracker.com/go/perfoiltech/dodge/)  
-[The Tire Rack](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=871&url=http://www.tirerack.com/a.jsp?a=AJ7&url=index.jsp)
+[Royal Purple](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=785&url=http://www.royalpurple.com/)  
+[DodgeChallenger.com](http://www.dodgechallenger.com/)
