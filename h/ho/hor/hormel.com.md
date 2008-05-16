@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hormel.com privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022131509id_/http%3A//www.hormel.com/templates/corporate.asp%3Fcatitemid%3D75%26id%3D88) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hormel.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516093343id_/http%3A//www.hormelfoods.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Knowledge - Hormel Foods
+# Hormel Foods > Privacy Policy
+
+[Home](https://web.archive.org/default.aspx) > Privacy Policy
 
 This Web site is owned and operated by Hormel Foods Corporation. As a visitor to our Web site, we recognize that you may be concerned about any uses that we may make of the information that you may provide to us or that we may be collecting about you. To address your concerns, we have developed this Privacy Policy which is intended to inform you of the guidelines that we follow in this sensitive area. Of course, it may be necessary for us to update our Policy as changes are made in and to our Web site. Therefore, we recommend that you check the Policy from time to time.
 
@@ -12,9 +14,9 @@ Computer tracking of identifiable information or "cookies": Cookies are pieces o
 
 If you are an individual 17 years of age or under, please obtain your parent's or guardian's consent before submitting any information on this web site. If you are 17 years or under, please so indicate when providing any personal identifying information. No information collected from individuals 17 years of age or under is disclosed to any third parties for any purposes, unless we specifically state otherwise.
 
-Please refer to our “Terms of Use” for additional terms and conditions.
+Please refer to our “[Terms of Use](https://web.archive.org/terms.aspx)” for additional terms and conditions.
 
-CONTACTING HORMEL FOODS CORPORATION
+#### CONTACTING HORMEL FOODS CORPORATION
 
 If you have any questions about the Hormel Foods Privacy Policy, please contact us at:
 
@@ -27,4 +29,4 @@ Alternatively, you may call us at 1-800-523-4635, between 8:00 a.m. and 4:00 p.m
 
 We would be happy to answer your questions and to address your concerns.
 
-Last Updated (May 2005)
+Last Updated October, 2007
