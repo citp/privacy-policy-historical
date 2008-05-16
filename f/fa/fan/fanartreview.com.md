@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fanartreview.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407170852id_/http%3A//www.fanartreview.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanartreview.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516083207id_/http%3A//www.fanartreview.com/privacy.jsp) for the most accurate reproduction.*
 
-# fanArtReview.com - post art, art reviews, review art, art contests, art site, paint
+# FanArtReview.com - Post your art, photos, or digital art on this art and photograph sharing site.
 
-Thank you for visiting fanArtReview.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site. 
+Thank you for visiting FanArtReview.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site. 
 
 ###  The Information We Collect
 
@@ -18,13 +18,13 @@ We also may collect certain non-personally identifiable information when you vis
 
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter or notification of a story being posted, or to contact you about your account with us. 
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter or notification of art being posted, or to contact you about your account with us. 
 
 From time to time, we also may use this information to offer our products, programs, or services to you. 
 
 The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. 
 
-If you choose to submit content for publication (e.g., a "story publication online"), we may publish your screen name and other information you have provided to us. 
+If you choose to submit content for publication (e.g., a "art posting online"), we may publish your screen name and other information you have provided to us. 
 
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
 
@@ -42,8 +42,6 @@ Some of our sites contain links to other sites whose information practices may b
 
 The sites covered by this Privacy Notice sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. has no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
 
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
-
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
 
 ###  Cookies 
@@ -60,4 +58,4 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 ###  How to Contact Us 
 
-If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [info@fanartreview.com](https://web.archive.org/web/20050407170852id_/http%3A//www.fanartreview.com/formcontactfanstory.jsp). 
+If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [info@fanartreview.com](https://web.archive.org/web/20080516083207id_/http%3A//www.fanartreview.com/formcontactfanstory.jsp). 
