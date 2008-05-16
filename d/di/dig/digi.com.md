@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digi.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225231847id_/http%3A//www.digi.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digi.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516140231id_/http%3A//www.digi.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy - Digi International
+# Digi International Privacy Policy - Digi International
 
 Digi International endeavors to be as up front as possible about the personal information collected in our site. In an effort to maintain this stance, we provide this privacy statement.
 
