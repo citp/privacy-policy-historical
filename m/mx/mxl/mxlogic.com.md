@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxlogic.com privacy policy that was archived on 2007-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071002201254id_/http%3A//www.mxlogic.com/terms/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxlogic.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516075159id_/http%3A//www.mxlogic.com/terms/privacy.cfm) for the most accurate reproduction.*
 
 # MX Logic
 
@@ -16,5 +16,5 @@ If MX Logic is going to use customer identifiable information in a manner differ
 
 We may disclose customer information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our website.
 
-|   
+|  [ ](http://server.iad.liveperson.net/hc/50844937/?cmd=file&file=visitorWantsToTalk&site=50844937&byhref=1&SESSIONVAR!skill=Default%20Ticket%20Skill&imageUrl=https://www.mxlogic.com/images/clicktocall)  
 ---|---|---
