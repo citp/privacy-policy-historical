@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the intouchweekly.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208140553id_/http%3A//intouchweekly.hollywood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intouchweekly.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516195201id_/http%3A//intouchweekly.hollywood.com/privacy) for the most accurate reproduction.*
 
-# In Touch Weekly
-
-| 
+# Celebrity news and entertainment from In Touch Weekly
 
 We know that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read In Touch's policy so that you understand how we collect and use your personal information. As we update and expand our services, this policy might change, so please check it out from time to time. If you have questions about our privacy policy, please E-mail us at mail@intouchweekly.com.   
 Remember, if you submit any personal information to us via this web site, you agree to the terms of this Policy. 
@@ -52,3 +50,41 @@ If you have any questions about our privacy policy, the practices of this site, 
 >  (201) 569-6699   
 >  or E-mail us at:   
 >  [mail@intouchweekly.com](mailto:mail@intouchweekly.com)
+
+## TOP STORY
+
+  
+Here come the brides! Now that California has declared gay marriage legal, **Ellen DeGeneres** is set to make an honest woman about of longtime girlfriend **Portia de Rossi**.   
+
+
+## TV SCOOPS
+
+**_American Idol_ :  
+"I'm ready to take on the world — so ready!"**  
+"I am a hard worker and always rehearsing and trying to improve. At first I was in a shell, and that kind of separated me from everyone else. I felt I was never at my full potential because of the negative mindset I was in." 
+
+[Read More](http://www.intouchweekly.com/2008/05/american_idolim_ready_to_take.php)
+
+**_Dancing With the Stars_ :  
+Marissa eliminated**  
+"Let me tell you, I have already made Tony promise that after we left, he would teach me another dance because I feel like I want to do one more. I can't wait to get into dance class." 
+
+[Read More](http://www.intouchweekly.com/2008/05/dancing_with_the_starsmarissa.php)
+
+**_Survivor: Fans vs. Favorites_  
+Erik makes the biggest mistake in _Survivor_ history**  
+"It was pretty weird. I thought it was going to be great, but it wasn't. You would think it's every man's dream to be surrounded by a bunch of beautiful, bikini-clad women." 
+
+[Read More](http://www.intouchweekly.com/2008/05/survivor_fans_vs_favoriteserik.php)
+
+**_American Idol_ :  
+"I made it further than I could have imagined."**  
+"I couldn't believe I forgot such a popular line, but somehow it slipped my mind. As of yesterday I wanted to win, and the day before I wanted to win." 
+
+[Read More](http://www.intouchweekly.com/2008/05/american_idoli_made_it_further.php)
+
+**_Dancing With the Stars_ :  
+Mario eliminated**  
+"I have already sent the invite for Len to meet me in the boxing ring, so we are going to settle our problems on the stage. The finale could be a boxing match. But those comments just made me want to work harder.'" 
+
+[Read More](http://www.intouchweekly.com/2008/05/dancing_with_the_starsmario_el.php)
