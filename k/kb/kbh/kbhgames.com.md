@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the kbhgames.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213125847id_/http%3A//kbhgames.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbhgames.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516020317id_/http%3A//kbhgames.com/page/1.html) for the most accurate reproduction.*
 
-# Games, Play Games, Free online Games at Privacy Policy
+# Privacy Policy - Free Online Flash Games
 
+  
 We get asked a lot what our policy is on the games we put up. It's really very simple. We put up games that we find fun and we don't alter them in anyway and we always try to give credit to their creators. That's really important to us. 
 
 If you are a creator and you have a problem with anything, let us know and we will fix it immediately. If that means altering the page to give you more credit or simply taking the game down, we will immediately make this happen for you. We get so many games submitted to us that it's impossible for us to see which ones we can and cannot put up, so please, let us know if you notice a problem. 
