@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fmanet.org privacy policy that was archived on 2007-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070819104352id_/http%3A//www.fmanet.org/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmanet.org privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516040449id_/http%3A//www.fmanet.org/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # Fabricators & Manufacturers Association, International, Internet Privacy Policy
 
