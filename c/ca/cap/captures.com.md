@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the captures.com privacy policy that was archived on 2006-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060325134049id_/http%3A//www.captures.com/privacy_policy/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captures.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516032017id_/http%3A//www.captures.com/privacy_policy.shtml) for the most accurate reproduction.*
 
-# create a web page, create a free web page, create your own web page
+# Create a Web Page, Create a Free Web Page, Create Your Own Web Page
 
 |   
   
