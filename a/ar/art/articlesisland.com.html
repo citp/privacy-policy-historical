@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the articlesisland.com privacy policy that was archived on 2007-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071216135850id_/http%3A//www.articlesisland.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the articlesisland.com privacy policy that was archived on 2008-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516093235id_/http%3A//www.articlesisland.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <meta name="verify-v1" content="Yk7gfZoE03xZTrTeGZ1l3Nl5zUxdmR2XBxT6wPT2qRw=">
+<meta name="verify-v1" content="VFvfH4AM0u9Peec/yLTjMDuUdLPgaB3a6n4xHz4wW/o=">
 <title>Privacy Policy - Articles island</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="Content-Language" content="en-us">
@@ -33,6 +34,102 @@
 <link rel="stylesheet" type="text/css" href="/skins/default/styles.css">
 <link rel="shortcut icon" href="/favicon.ico">
 
+
+<script language="JavaScript1.2">
+
+// Drop-in content box- By Dynamic Drive
+// For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+// This credit MUST stay intact for use
+
+var ie=document.all
+var dom=document.getElementById
+var ns4=document.layers
+var calunits=document.layers? "" : "px"
+
+var bouncelimit=32 //(must be divisible by 8)
+var direction="up"
+
+function initbox(){
+if (!dom&&!ie&&!ns4)
+return
+crossobj=(dom)?document.getElementById("dropin").style : ie? document.all.dropin : document.dropin
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+crossobj.top=scroll_top-250+calunits
+crossobj.visibility=(dom||ie)? "visible" : "show"
+dropstart=setInterval("dropin()",50)
+}
+
+function dropin(){
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+if (parseInt(crossobj.top)<100+scroll_top)
+crossobj.top=parseInt(crossobj.top)+40+calunits
+else{
+clearInterval(dropstart)
+bouncestart=setInterval("bouncein()",50)
+}
+}
+
+function bouncein(){
+crossobj.top=parseInt(crossobj.top)-bouncelimit+calunits
+if (bouncelimit<0)
+bouncelimit+=8
+bouncelimit=bouncelimit*-1
+if (bouncelimit==0){
+clearInterval(bouncestart)
+}
+}
+
+function dismissbox(){
+if (window.bouncestart) clearInterval(bouncestart)
+crossobj.visibility="hidden"
+}
+
+function truebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+
+window.onload=initbox
+
+</script>
+
+<script type="text/javascript">
+
+/***********************************************
+* Tab Content script v2.0- Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice must stay intact for legal use.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+function getposOffset(overlay, offsettype){
+var totaloffset=(offsettype=="left")? overlay.offsetLeft : overlay.offsetTop;
+var parentEl=overlay.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+function overlay(curobj, subobjstr, opt_position){
+if (document.getElementById){
+var subobj=document.getElementById(subobjstr)
+subobj.style.display=(subobj.style.display!="block")? "block" : "none"
+var xpos=getposOffset(curobj, "left")+((typeof opt_position!="undefined" && opt_position.indexOf("right")!=-1)? -(subobj.offsetWidth-curobj.offsetWidth) : 0) 
+var ypos=getposOffset(curobj, "top")+((typeof opt_position!="undefined" && opt_position.indexOf("bottom")!=-1)? curobj.offsetHeight : 0)
+subobj.style.left=xpos+"px"
+subobj.style.top=ypos+"px"
+return false
+}
+else
+return true
+}
+
+function overlayclose(subobj){
+document.getElementById(subobj).style.display="none"
+}
+
+</script>
 
 <script type="text/javascript">
 
@@ -84,7 +181,7 @@ document.getElementById(subobj).style.display="none"
 
 
 
-<table border="0" cellspacing="0" width="1005px">
+<table border="0" cellspacing="0" width="997px">
     <tbody><tr>
       <td style="background-color: rgb(153, 0, 0);" class="title_top_left">
      <div class="quicknavimage">
@@ -92,18 +189,19 @@ document.getElementById(subobj).style.display="none"
           <a href="/"><img src="http://www.articlesisland.com/skins/default/ai.png" alt="Articles island - a directory of quality articles, free quality articles reprint for your web site and email newsletter." title="Articles island"></a>
         </div>
         </div>
+
       </td>
 
 <td style="background-color: rgb(153, 0, 0);" class="title_top_right">
                <div class="quicknav">
-<div class="categorycolumnlatest4">Free Articles Reprint for Your Web Site, Email Newsletter, Blog, Ezine and RSS Feed.<br>Submit Your Articles to Our Article Directory for Massive Exposure.<br>Total Live Articles: 75247&nbsp;&nbsp;Total Categories: 389</div>
+<div class="categorycolumnlatest4">Free Articles Reprint for Your Web Site, Email Newsletter, Blog, Ezine and RSS Feed.<br>Submit Your Articles to Our Article Directory for Massive Exposure.<br>Total Live Articles: 92384&nbsp;&nbsp;Total Categories: 389</div>
         
         </div> <!-- class="quicknav" -->
       </td>
     </tr>
    </tbody></table>
 
-<table border="0" cellspacing="0" width="1005px">
+<table border="0" cellspacing="0" width="997px">
     <tbody><tr>
 <td class="title_bot_left">
 
@@ -113,24 +211,47 @@ document.getElementById(subobj).style.display="none"
     </tbody></table>
 
 
-    <table border="0" cellspacing="0" width="100%">
-      <tbody><tr> <td><br>
+<br><table border="0" cellspacing="0" cellpadding="0" style="margin:0px 5px 0px 6px;" width="984px">
+      <tbody><tr> <td class="authorcolumntop1"><br>
 <form method="get" action="/search/"> 
 <input type="hidden" name="advanced" value="1">
 <input type="hidden" name="searchby" value="0">
 <input type="hidden" name="sortdir" value="1">
-<label><font face="verdana">&nbsp;Enter Your Keyword or Phrase:</font></label><br>&nbsp;<input type="text" name="q" style="font-size:10pt;width:30%"><input type="submit" value="Search Articles"><br>&nbsp;&nbsp;<a class="advancedsearch" href="/search/">Advanced Search</a>
+<label><font face="verdana">&nbsp;Enter Your Keyword or Phrase:</font></label><br>&nbsp;<input type="text" name="q" style="font-size:10pt;width:200px"><input type="submit" style="width:110px" value="Search Articles"><br>&nbsp;&nbsp;<a class="advancedsearch" href="/search/">Advanced Search</a>
 <input type="hidden" name="a" value="search">
 </form>
 
 
         </td>
-      </tr>
 
-      <tr>
+<!-- Block_main_item -->
 
-      </tr>
-    </tbody></table>
+<td class="authorcolumntop">
+<div class="authorphoto">
+<a href="/profile/glinda-mcduffie-4403.html"><img src="/uploads/picture_4403.jpg" style="max-width:64px;width:expression(this.width > 64 ? 64: true)" align="left" width="64px" alt="Articles island Expert Author - Glinda McDuffie" title="Glinda McDuffie"></a>
+</div>
+<div class="navauthorcolumntopphoto">
+<u>Author Name:</u><br><a class="authornamelink" href="/profile/glinda-mcduffie-4403.html">Glinda McDuffie</a><br>
+<u>Country:</u><br>United States<br>
+<u>Member Since:</u><br>3 Mar 2008
+</div>
+</td>
+<td class="authorcolumntop12">
+<div class="authorbiowords">
+An entrepreneur since opening her first business at age 25, Glinda McDuffie has nearly 30 years experience as a successful business person. Now Glinda is focusing her energies on taking her brick-and-mortar experience to the 'net where she will build her next empire.
+</div>
+<div class="biowordright2">
+<a class="redwordmoreauthor" href="/profile/glinda-mcduffie-4403.html">Read More...</a>
+<br>
+</div>
+</td>
+
+
+<!-- /Block_main_item -->
+
+
+</tr>
+</tbody></table>
     <!-- ### top table ends ### -->
 
     <!-- ### main table starts ### -->
@@ -166,8 +287,6 @@ document.getElementById(subobj).style.display="none"
    <!-- Block_secondmenu -->
 <h5><div class="menubartitle1">Useful Site Links</div></h5>
 <ul>
-<li><a class="menubaronly" href="http://www.articlesisland.com/recent-articles/">
-<div class="menubartitle">Recent Articles</div></a></li>
 <li><a class="menubaronly" href="http://www.articlesisland.com/most-viewed-articles/">
 <div class="menubartitle">Most Viewed Articles</div></a></li>
 <li><a class="menubaronly" href="/search/">
@@ -176,6 +295,18 @@ document.getElementById(subobj).style.display="none"
 <div class="menubartitle">Site Map</div></a></li>
 </ul>
 <!-- /Block_secondmenu -->
+
+  </div> <!-- class="inactive" -->
+
+<br>
+
+  <div class="inactive">
+   <!-- Block_Site_Services -->
+<h5><div class="menubartitle1">Site Services</div></h5>
+<ul>
+<li><a class="menubaronly" href="http://www.articlesisland.com/article-writing-service/"><div class="menubartitle">Article Writing Service</div></a></li>
+</ul>
+<!-- /Block_Site_Services -->
 
   </div> <!-- class="inactive" -->
 
@@ -213,54 +344,31 @@ window.sidebar.addPanel(title, url, "")
 
    </div> <!-- class="active" -->
 
-  <div class="adsenselogo">
-    
-      <script type="text/javascript"><!--
-google_ad_client = "pub-3319353940240296";
-google_ad_width = 180;
-google_ad_height = 60;
-google_ad_format = "180x60_as_rimg";
-google_cpa_choice = "CAAQseuWhAIaCLjm_uGf7JMHKL3D93M";
-google_ad_channel = "";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-    
-  </div> <!-- class="adsenselogo" -->
+<!-- Block_main_item_2 -->
+<div class="photoinactive">
+<div class="navbarauthorphoto">
+<a href="/profile/glinda-mcduffie-4403.html"><img src="/uploads/picture_4403.jpg" align="left" style="max-width:64px;width:expression(this.width > 64 ? 64: true)" alt="Articles island Expert Author - Glinda McDuffie" title="Glinda McDuffie"></a>
+</div>
+<div class="authorcolumntopphoto">
+<u>Author Name:</u><br><a class="authornamelink" href="/profile/glinda-mcduffie-4403.html">Glinda McDuffie</a><br>
+<u>Country:</u><br>United States<br>
+<u>Member Since:</u><br>3 Mar 2008
+</div>
+<div class="leftnavauthorbiowords">
+An entrepreneur since opening her first business at age 25, Glinda McDuffie has nearly 30 years experience as a successful business person. Now Glinda is focusing her energies on taking her brick-and-mortar experience to the 'net where she will build her next empire.
+</div>
+<div class="photowordright">
+<a class="redwordmoreauthor" href="/profile/glinda-mcduffie-4403.html">Read More...</a>
+<br>
+</div>
+</div>
 
-<div class="adwordslogo">
 
-<script type="text/javascript"><!--
-google_ad_client = "pub-3319353940240296";
-google_ad_width = 180;
-google_ad_height = 60;
-google_ad_format = "180x60_as_rimg";
-google_cpa_choice = "CAAQoIKlgwIaCC510LAJclD8KPTj6n4";
-google_ad_channel = "";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
 
- </div> <!-- class="adwordslogo" -->
+<!-- /Block_main_item_2 -->
 
-<div class="picasalogo">
 
-<script type="text/javascript"><!--
-google_ad_client = "pub-3319353940240296";
-google_ad_width = 180;
-google_ad_height = 60;
-google_ad_format = "180x60_as_rimg";
-google_cpa_choice = "CAAQkISlgwIaCG4jM3gBGA8VKNjMrIMB";
-google_ad_channel = "";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
- </div> <!-- class="picasalogo" -->
-
-<!-- OPENTRACKER HTML START -->
-<script defer="" src="http://server1.opentracker.net/?site=www.articlesisland.com"></script><noscript><a href="http://www.opentracker.net" target="_blank"><img src="http://img.opentracker.net/?cmd=nojs&site=www.articlesisland.com" alt="web stats" border="0"></a> </noscript>
-<!-- OPENTRACKER HTML END -->
+</div>
 
 <!-- ### navigation box ends ### -->
 
@@ -268,7 +376,7 @@ google_ad_channel = "";
 
     
         <!-- ### content column starts ### -->
-        </div></td><td class="main">
+        </td><td class="main">
         <div class="path">
          <!-- Block_navbar -->
 <div id="printReady2">
@@ -394,11 +502,11 @@ of this site, or your dealings with this Web site, you can contact: <a href="mai
     <!-- ### main table ends ### -->
 
     <!-- ### footer starts ### -->
-<table width="1005px">
+<table width="997px">
  <tbody><tr><td class="footermain2">
     <div class="footer">
 <!-- footer -->
-© 2006 - 2007 <a class="footer2" href="/">Articlesisland.com</a>. All Rights Reserved. Use of our service is protected by our <a class="footer2" href="/privacy_policy.html">Privacy Policy</a> and <a class="footer2" href="/terms_of_service.html">Terms of Service</a>.<br>
+© 2006 - 2008 <a class="footer2" href="/">Articlesisland.com</a>. All Rights Reserved. Use of our service is protected by our <a class="footer2" href="/privacy_policy.html">Privacy Policy</a> and <a class="footer2" href="/terms_of_service.html">Terms of Service</a>.<br>
 <!-- /footer -->
 
 <div class="myfooter">
@@ -415,9 +523,18 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-1fg3kBsujTdSc";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-1fg3kBsujTdSc" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-1fg3kBsujTdSc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
     </div> <!-- class="footer" -->
     </td> <!-- class="footermain2" -->
 
     <!-- ### footer ends ### -->
     </tr></tbody></table>
+
 </body></html>
