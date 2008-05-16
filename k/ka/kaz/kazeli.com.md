@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kazeli.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213025412id_/http%3A//www.kazeli.com/go/signup/dsp_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kazeli.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517014142id_/http%3A//www.kazeli.com/index.cfm/id/58/lang/english/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Kazeli Web Office: Simple CRM, onDemand Website Design and Builder, Online File Storage, Business Network, Synergizing Business: Privacy Policy
 
 **Our Privacy Policy**
 
@@ -52,4 +52,4 @@ Because www.kazeli.com operates globally, we make information we collect availab
 
  **What if I still have questions regarding your Privacy Policy?**
 
-We welcome your comments and questions regarding our Privacy Policy. Please direct all related comments/enquiries to: [privacy@kazeli.com](mailto:info@webbquick.com) and we will be happy to address them.
+We welcome your comments and questions regarding our Privacy Policy. Please direct all related comments/enquiries to: [privacy@kazeli.com](mailto:privacy@kazeli.com) and we will be happy to address them.
