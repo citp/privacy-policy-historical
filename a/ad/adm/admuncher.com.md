@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admuncher.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216050916id_/http%3A//www.admuncher.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admuncher.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516031418id_/http%3A//www.admuncher.com/privacy.shtml) for the most accurate reproduction.*
 
 # Ad Muncher - Privacy Policy
 
@@ -35,4 +35,25 @@ We will never send regular unsolicited emails (eg: newsletters) unless specifica
 Information provided to our staff will not be sold, rented or traded to any third party under any conditions.
 
 **Privacy Policy Changes**  
-Any changes to the privacy policy will be posted here.  If you have any further questions about our privacy practices (or anything else) please feel free to [contact us](https://web.archive.org/web/20071216050916id_/http%3A//www.admuncher.com/contact.shtml). 
+Any changes to the privacy policy will be posted here.  If you have any further questions about our privacy practices (or anything else) please feel free to [contact us](https://web.archive.org/web/20080516031418id_/http%3A//www.admuncher.com/contact.shtml). 
+
+"A must have!"  
+\- FileForum.com
+
+"An absolute must"  
+\- Download.com
+
+"Better than anything else!"  
+\- Yun Xie
+
+"Excellent product, stops unwanted ads every time"  
+\- Brian B
+
+"I have tried many, but Ad-Muncher is king of them all. A really great program"  
+\- Fred Noakes of Ontario, Canada
+
+"I have tried 20+ popup blockers and nothing compares to AdMuncher. I feel this product is indispensable and I've purchased it for 6 friends and relatives"  
+\- FileForum.com
+
+  
+
