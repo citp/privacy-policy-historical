@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213010605id_/http%3A//www.interiordesign.net/staticdoc/95737.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516080817id_/http%3A//interiordesign.net/staticdoc/95737.html) for the most accurate reproduction.*
 
-# Editorial Submissions - Interior Design
+# Subscriber Services - Interior Design
 
 _Last Revised:   November 2007_
 
