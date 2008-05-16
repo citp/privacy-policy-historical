@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the storesupply.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225210540id_/http%3A//www.storesupply.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storesupply.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517011726id_/http%3A//www.storesupply.com/t-privacy.aspx) for the most accurate reproduction.*
 
-# Store Supply Warehouse Privacy Policy
+# Store Supply Warehouse | Retail Store Supplies, Fixtures & Display Cases | Privacy Policy
 
 **Store Supply Warehouse Privacy Policy**
 
