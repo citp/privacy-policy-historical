@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodservicewarehouse.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211135621id_/http%3A//www.foodservicewarehouse.com/HelpCenter/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodservicewarehouse.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516192929id_/http%3A//www.foodservicewarehouse.com/HelpCenter/Privacy.aspx) for the most accurate reproduction.*
 
-# Restaurant Equipment and Supply at FoodService Warehouse
+# Restaurant Supply at FoodServiceWarehouse.com
 
 Information We Collect
 
