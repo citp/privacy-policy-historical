@@ -1,514 +1,861 @@
-<!--The following is the downloaded HTML source of the pella.com privacy policy that was archived on 2007-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214083041id_/http%3A//www.pella.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pella.com privacy policy that was archived on 2008-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516223543id_/http%3A//web.pella.com/Pages/privacypolicy.aspx) for the most accurate reproduction.-->
 
-<html><head><script language="Javascript"><!--
-gVersion="1.0";
-//-->
-</script>
-<script language="Javascript1.1"><!--
-gVersion="1.1";
-//-->
-</script>
-<script language="Javascript1.2"><!--
-gVersion="1.2";
-var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-//-->
-</script>
-<script language="Javascript1.3"><!--
-gVersion="1.3";
-//-->
-</script>
-<script language="Javascript1.4"><!--
-gVersion="1.4";
-//-->
-</script>
-<script language="Javascript1.5"><!--
-gVersion="1.5";
-//-->
-</script>
-<script language="JavaScript"><!--
-var gImages=new Array;
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html __expr-val-dir="ltr" dir="ltr"><head>
 
-var gDomain="statse.webtrendslive.com";
-var gDcsId="dcsrd4lt5pifwz73j0gunulvu_2q8i";
 
-function dcsVar(){
-	var dCurrent=new Date();
-	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-	if (WT.tz==0){
-		WT.tz="0";
+<script language="javascript" type="text/javascript">
+document.domain ='pella.com';
+
+function getObject( obj ) {
+  if ( document.getElementById ) {
+    obj = document.getElementById( obj );
+  } else if ( document.all ) {
+    obj = document.all.item( obj );
+  } else {
+    obj = null;
+  }
+  return obj;
+ }
+function tabresize(ht){
+//var obj1 = window.frames[0].item;
+//var obj2 = window.frames[0].window.frames[0].item;
+
+return;
+var obj1 = getObject('tabframe');
+
+	if(obj1!=null){
+		obj1.style.height = ht + 'px';
+	  }
+
+
+var obj2 = obj1.getObject('innertabframe');
+
+	if(obj2!=null){
+		obj2.style.height = ht + 'px';
+	  }
+
+}
+
+function rtaresize(ht){
+var obj = getObject('rtaframe');
+if(obj!=null){
+	obj.style.height = ht;
+  }
+}
+
+function zoom(){
+	var obj = getObject('mask');
+	if(null!=obj){
+	obj.style.visibility = 'visible';
+	obj.style.height='1800px';
+
 	}
-	WT.bh=dCurrent.getHours();
-	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-	if (typeof(screen)=="object"){
-		WT.cd=screen.colorDepth;
-		WT.sr=screen.width+"x"+screen.height;
+	obj = getObject('zoom');
+	if(null!=obj){
+	obj.style.visibility = 'visible';
 	}
-	if (typeof(navigator.javaEnabled())=="boolean"){
-		WT.jo=navigator.javaEnabled()?"Yes":"No";
+}
+function zipform(){
+	var keysbox = getObject('keys');
+	var keyshdn = getObject('ctl00_zipcode_capturePart1_ctl00_keys_hdn');
+	if(null!=keysbox&&null!=keyshdn){
+		keyshdn.value = keysbox.value;
+	}	
+//	var obj = getObject('mask');
+//	if(null!=obj){
+//	obj.style.visibility = 'visible';
+//	}
+	obj = getObject('zip_form');
+	if(null!=obj){
+	obj.style.visibility = 'visible';
+	obj.style.width='500px';
+	obj.style.height='540px';
+
 	}
-	if (document.title){
-		WT.ti=document.title;
+}
+function unzipform(){
+//	var obj = getObject('mask');
+//	if(null!=obj){
+//	obj.style.visibility = 'hidden';
+//	}
+	obj = getObject('zip_form');
+	if(null!=obj){
+	obj.style.visibility = 'hidden';
+	obj.style.width='0px';
+	obj.style.height='0px';
+
 	}
-	WT.js="Yes";
-	if (typeof(gVersion)!="undefined"){
-		WT.jv=gVersion;
+}
+function unzoom(){
+	var obj = getObject('mask');
+	if(null!=obj){
+	obj.style.visibility = 'hidden';
+	obj.style.height='0px';
 	}
-	WT.sp="";
-	DCS.dcsdat=dCurrent.getTime();
-	DCS.dcssip=window.location.hostname;
-	DCS.dcsuri=window.location.pathname;
-	if (window.location.search){
-		DCS.dcsqry=window.location.search;
-	}
-	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-			DCS.dcsref=window.document.referrer;
-		}
+	obj = getObject('zoom');
+	if(null!=obj){
+	obj.style.visibility = 'hidden';
+//	obj.style.width=0;
+//	obj.style.height=0;
+
 	}
 }
 
-function A(N,V){
-	return "&"+N+"="+dcsEscape(V);
+function scrollpageby(val){
+  window.scrollBy(0,val);
 }
 
-function dcsEscape(S){
-	if (typeof(RE)!="undefined"){
-		var retStr = new String(S);
-		for (R in RE){
-			retStr = retStr.replace(RE[R],R);
-		}
-		return retStr;
-	}
-	else{
-		return escape(S);
-	}
+function scrolltotop(){
+window.scrollTo(0,0);
 }
 
-function dcsCreateImage(dcsSrc){
-	if (document.images){
-		gImages[gIndex]=new Image;
-		gImages[gIndex].src=dcsSrc;
-		gIndex++;
-	}
-	else{
-		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-	}
-}
+function openconfigurator(){
 
-function dcsMeta(){
-	var myDocumentElements;
-	if (document.all){
-		myDocumentElements=document.all.tags("meta");
-	}
-	else if (document.documentElement){
-		myDocumentElements=document.getElementsByTagName("meta");
-	}
-	if (typeof(myDocumentElements)!="undefined"){
-		for (var i=1;i<=myDocumentElements.length;i++){
-			myMeta=myDocumentElements.item(i-1);
-			if (myMeta.name){
-				if (myMeta.name.indexOf('WT.')==0){
-					WT[myMeta.name.substring(3)]=myMeta.content;
-				}
-				else if (myMeta.name.indexOf('DCSext.')==0){
-					DCSext[myMeta.name.substring(7)]=myMeta.content;
-				}
-				else if (myMeta.name.indexOf('DCS.')==0){
-					DCS[myMeta.name.substring(4)]=myMeta.content;
-				}
-			}
-		}
-	}
+window.open("http://www.pella.com/configurator/start.asp", "configurator", "height=546, width=686, left=200, screenX=200, top=100, screenY=100, scrollbars=auto, location=no, menubar=no, resizable=yes, status=no, toolbar=no");
 }
-
-function dcsTag(){
-	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-	for (N in DCS){
-		if (DCS[N]) {
-			P+=A(N,DCS[N]);
-		}
-	}
-	for (N in WT){
-		if (WT[N]) {
-			P+=A("WT."+N,WT[N]);
-		}
-	}
-	for (N in DCSext){
-		if (DCSext[N]) {
-			P+=A(N,DCSext[N]);
-		}
-	}
-	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-		P=P.substring(0,2040)+"&WT.tu=1";
-	}
-	dcsCreateImage(P);
-}
-
-dcsVar();
-dcsMeta();
-dcsTag();
-//-->
 </script>
+	<meta name="GENERATOR" content="Microsoft SharePoint"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><title>
+	
+Privacy Policy
 
-<!-- END OF Data Collection Server TAG -->	
-<!----><title>Pella Windows and Doors - Our Company</title><!--link rel="stylesheet" type="text/css" href="/i_style.css"--><script language="JavaScript">
-	var LearnOver = new Image();
-	LearnOver.src = "/images/nav/Nav_LrnOvr.gif"
+</title><link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/controls.css">
+<link rel="stylesheet" type="text/css" href="/Style%20Library/core_revised.css">
+<link rel="stylesheet" type="text/css" href="/Style%20Library/pellastyles.css">
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/core.css?rev=5msmprmeONfN6lJ3wtbAlA%3D%3D">
+<link rel="stylesheet" type="text/css" href="/Style%20Library/pellastyles.css">
 
-	var LearnOff = new Image();
-	LearnOff.src = "/images/nav/Nav_LrnOff.gif"
+	<!--Styles used for positioning, font and spacing definitions-->
+	<script src="/_layouts/1033/init.js?rev=ck%2BHdHQ8ABQHif7kr%2Bj7iQ%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/core.js?rev=S5dt4K8TJGVTYU9HrW6enw%3D%3D" defer=""></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/non_ie.js?rev=yfNry4hY0Gwa%2FPDNGrqXVg%3D%3D"></script>
 
-	var ProductsOver = new Image();
-	ProductsOver.src = "/images/nav/Nav_PrdOvr.gif"
+	<!--Placeholder for additional overrides-->
+	<link rel="stylesheet" type="text/css" href="/Style%20Library/pellastyles.css"><link rel="stylesheet" type="text/css" href="/Style%20Library/core_revised.css"><meta name="Description" content="Privacy Policy"><meta name="Keywords" content=""><meta name="fb_region" content="|east|west|fl|">
+	<script language="javascript" type="text/javascript" src="/SiteCollectionDocuments/SWFobject.js"></script>
+	<script language="javascript" type="text/javascript" src="/SiteCollectionDocuments/fsrLauncher.js"></script>
+	<script language="javascript" type="text/javascript" src="/SiteCollectionDocuments/fsrInit.js"></script>
+	</head> 
 
-	var ProductsOff = new Image();
-	ProductsOff.src = "/images/nav/Nav_PrdOff.gif"
+<body style="background-color:#686868" link="#993300" vlink="#993300" alink="#993300" onload="javascript:_spBodyOnLoadWrapper();">
+	<form name="aspnetForm" method="post" action="/web/20080516223543id_/http%3A//web.pella.com/Pages/privacypolicy.aspx" id="aspnetForm">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False">
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x339EE23A8F54B8232CFC2E314B5E7918339AA89ED43C1D4239AFAD564338A522B1A9D6D3F24E1AC26C061C765642CD73CC10A2EDDFF309873BD653BD12AC100D,17 May 2008 05:34:42 -0000">
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="">
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="">
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWAgIFD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAgMPZBYMAgUPZBYCAgEPFgIeB1Zpc2libGVoFgJmD2QWBAICD2QWBgIBDxYCHwFoZAIDDxYCHwFoZAIFDxYCHwFoZAIDDw8WAh4JQWNjZXNzS2V5BQEvZGQCCw9kFgICAQ9kFgJmD2QWBGYPDxYCHgRUZXh0BagBPHNjcmlwdCBzcmM9Imh0dHA6Ly93d3cuZ29vZ2xlLWFuYWx5dGljcy5jb20vdXJjaGluLmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij5fdWFjY3QgPSAiVUEtMTM1NTA0OC0xIjt1cmNoaW5UcmFja2VyKCk7PC9zY3JpcHQ+ZGQCAg8WAh8BaGQCDw9kFgICAQ9kFgICAQ88KwANAgAPFgIeC18hRGF0YUJvdW5kZ2QMFCsABgUTMDowLDA6MSwwOjIsMDozLDA6NBQrAAIWEB8DBRBMZWFybiBUaGUgQmFzaWNzHgVWYWx1ZQUQTGVhcm4gVGhlIEJhc2ljcx4LTmF2aWdhdGVVcmwFIy9sZWFybnRoZWJhc2ljcy9QYWdlcy9PdmVydmlldy5hc3B4HgdUb29sVGlwBRBMZWFybiBUaGUgQmFzaWNzHgdFbmFibGVkZx4KU2VsZWN0YWJsZWceCERhdGFQYXRoBQ8vbGVhcm50aGViYXNpY3MeCURhdGFCb3VuZGcUKwAIBRswOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYUKwACFg4fAwUIT3ZlcnZpZXcfBQUIT3ZlcnZpZXcfBgUjL2xlYXJudGhlYmFzaWNzL1BhZ2VzL092ZXJ2aWV3LmFzcHgfCGcfCWcfCgUjL2xlYXJudGhlYmFzaWNzL1BhZ2VzL092ZXJ2aWV3LmFzcHgfC2dkFCsAAhYQHwMFDlByb2plY3QgQmFzaWNzHwUFDlByb2plY3QgQmFzaWNzHwYFMC9sZWFybnRoZWJhc2ljcy9wcm9qZWN0YmFzaWNzL1BhZ2VzL2RlZmF1bHQuYXNweB8HBQ5Qcm9qZWN0IEJhc2ljcx8IZx8JZx8KBR0vbGVhcm50aGViYXNpY3MvcHJvamVjdGJhc2ljcx8LZ2QUKwACFg4fAwURUXVhbGl0eSBNYXRlcmlhbHMfBQURUXVhbGl0eSBNYXRlcmlhbHMfBgU1L2xlYXJudGhlYmFzaWNzL21hdGVyaWFscy9QYWdlcy9RdWFsaXR5TWF0ZXJpYWxzLmFzcHgfCGcfCWcfCgUZL2xlYXJudGhlYmFzaWNzL21hdGVyaWFscx8LZ2QUKwACFhAfAwUUUXVhbGl0eSBDb25zdHJ1Y3Rpb24fBQUUUXVhbGl0eSBDb25zdHJ1Y3Rpb24fBgUuL2xlYXJudGhlYmFzaWNzL1BhZ2VzL1F1YWxpdHlDb25zdHJ1Y3Rpb24uYXNweB8HBRRRdWFsaXR5IENvbnN0cnVjdGlvbh8IZx8JZx8KBS4vbGVhcm50aGViYXNpY3MvUGFnZXMvUXVhbGl0eUNvbnN0cnVjdGlvbi5hc3B4HwtnZBQrAAIWEB8DBRJFbmVyZ3kgUGVyZm9ybWFuY2UfBQUSRW5lcmd5IFBlcmZvcm1hbmNlHwYFNC9sZWFybnRoZWJhc2ljcy9lbmVyZ3lwZXJmb3JtYW5jZS9QYWdlcy9kZWZhdWx0LmFzcHgfBwUSRW5lcmd5IFBlcmZvcm1hbmNlHwhnHwlnHwoFIS9sZWFybnRoZWJhc2ljcy9lbmVyZ3lwZXJmb3JtYW5jZR8LZ2QUKwACFhAfAwUQQ2hvb3NpbmcgQSBTdHlsZR8FBRBDaG9vc2luZyBBIFN0eWxlHwYFOC9sZWFybnRoZWJhc2ljcy9jaG9vc2luZ2FzdHlsZS9QYWdlcy9jaG9vc2luZ2FzdHlsZS5hc3B4HwcFEENob29zaW5nIEEgU3R5bGUfCGcfCWcfCgUeL2xlYXJudGhlYmFzaWNzL2Nob29zaW5nYXN0eWxlHwtnZBQrAAIWEB8DBQhHbG9zc2FyeR8FBQhHbG9zc2FyeR8GBSwvbGVhcm50aGViYXNpY3MvZ2xvc3NhcnkvUGFnZXMvR2xvc3NhcnkuYXNweB8HBQhHbG9zc2FyeR8IZx8JZx8KBRgvbGVhcm50aGViYXNpY3MvZ2xvc3NhcnkfC2dkFCsAAhYQHwMFDE91ciBQcm9kdWN0cx8FBQxPdXIgUHJvZHVjdHMfBgUdL1BST0RVQ1RTL1BhZ2VzL092ZXJ2aWV3LmFzcHgfBwUMT3VyIFByb2R1Y3RzHwhnHwlnHwoFCS9QUk9EVUNUUx8LZxQrAAoFIzA6MCwwOjEsMDoyLDA6MywwOjQsMDo1LDA6NiwwOjcsMDo4FCsAAhYOHwMFCE92ZXJ2aWV3HwUFCE92ZXJ2aWV3HwYFHS9wcm9kdWN0cy9QYWdlcy9PdmVydmlldy5hc3B4HwhnHwlnHwoFHS9wcm9kdWN0cy9QYWdlcy9PdmVydmlldy5hc3B4HwtnZBQrAAIWEB8DBQdXaW5kb3dzHwUFB1dpbmRvd3MfBgUkL3Byb2R1Y3RzL3dpbmRvd3MvUGFnZXMvd2luZG93cy5hc3B4HwcFB1dpbmRvd3MfCGcfCWcfCgURL3Byb2R1Y3RzL3dpbmRvd3MfC2dkFCsAAhYQHwMFBURvb3JzHwUFBURvb3JzHwYFIC9wcm9kdWN0cy9kb29ycy9QYWdlcy9kb29ycy5hc3B4HwcFBURvb3JzHwhnHwlnHwoFDy9wcm9kdWN0cy9kb29ycx8LZ2QUKwACFg4fAwUQV29vZCBFbnRyeSBEb29ycx8FBRBXb29kIEVudHJ5IERvb3JzHwYFIi9wcm9kdWN0cy9QYWdlcy9Xb29kRW50cnlEb29yLmFzcHgfCGcfCWcfCgUiL3Byb2R1Y3RzL1BhZ2VzL1dvb2RFbnRyeURvb3IuYXNweB8LZ2QUKwACFhAfAwUNUGhvdG8gR2FsbGVyeR8FBQ1QaG90byBHYWxsZXJ5HwYFIS9wcm9kdWN0cy9QYWdlcy9QaG90b0dhbGxlcnkuYXNweB8HBQ1QaG90byBHYWxsZXJ5HwhnHwlnHwoFIS9wcm9kdWN0cy9QYWdlcy9QaG90b0dhbGxlcnkuYXNweB8LZ2QUKwACFhAfAwUPVmlkZW8gYW5kIE1lZGlhHwUFD1ZpZGVvIGFuZCBNZWRpYR8GBR0vcHJvZHVjdHMvUGFnZXMvSUJTVmlkZW8uYXNweB8HBQ9WaWRlbyBhbmQgTWVkaWEfCGcfCWcfCgUdL3Byb2R1Y3RzL1BhZ2VzL0lCU1ZpZGVvLmFzcHgfC2dkFCsAAhYQHwMFClByb21vdGlvbnMfBQUKUHJvbW90aW9ucx8GBR8vcHJvZHVjdHMvUGFnZXMvUHJvbW90aW9ucy5hc3B4HwcFClByb21vdGlvbnMfCGcfCWcfCgUfL3Byb2R1Y3RzL1BhZ2VzL1Byb21vdGlvbnMuYXNweB8LZ2QUKwACFg4fAwUUV2FycmFudHkgSW5mb3JtYXRpb24fBQUUV2FycmFudHkgSW5mb3JtYXRpb24fBgUoL3Byb2R1Y3RzL1BhZ2VzL1dhcnJhbnR5SW5mb3JtYXRpb24uYXNweB8IZx8JZx8KBSgvcHJvZHVjdHMvUGFnZXMvV2FycmFudHlJbmZvcm1hdGlvbi5hc3B4HwtnZBQrAAIWDh8DBRZHZXQgdG8gS25vdyBPdXIgQnJhbmRzHwUFFkdldCB0byBLbm93IE91ciBCcmFuZHMfBgUlL1BST0RVQ1RTL0JSQU5EUy9QYWdlcy9vdXJicmFuZHMuYXNweB8IZx8JZx8KBRAvUFJPRFVDVFMvQlJBTkRTHwtnZBQrAAIWEB8DBQxXaGVyZSB0byBCdXkfBQUMV2hlcmUgdG8gQnV5HwYFHy93aGVyZXRvYnV5L1BhZ2VzL092ZXJ2aWV3LmFzcHgfBwUMV2hlcmUgdG8gQnV5HwhnHwlnHwoFCy93aGVyZXRvYnV5HwtnFCsABgUTMDowLDA6MSwwOjIsMDozLDA6NBQrAAIWDh8DBQhPdmVydmlldx8FBQhPdmVydmlldx8GBR8vd2hlcmV0b2J1eS9QYWdlcy9PdmVydmlldy5hc3B4HwhnHwlnHwoFHy93aGVyZXRvYnV5L1BhZ2VzL092ZXJ2aWV3LmFzcHgfC2dkFCsAAhYOHwMFDEZpbmQgYSBTdG9yZR8FBQxGaW5kIGEgU3RvcmUfBgUjL3doZXJldG9idXkvUGFnZXMvU3RvcmVMb2NhdG9yLmFzcHgfCGcfCWcfCgUjL3doZXJldG9idXkvUGFnZXMvU3RvcmVMb2NhdG9yLmFzcHgfC2dkFCsAAhYQHwMFElN0b3JlIERlc2NyaXB0aW9ucx8FBRJTdG9yZSBEZXNjcmlwdGlvbnMfBgUwL3doZXJldG9idXkvc3RvcmVkZXNjcmlwdGlvbnMvUGFnZXMvZGVmYXVsdC5hc3B4HwcFElN0b3JlIERlc2NyaXB0aW9ucx8IZx8JZx8KBR0vd2hlcmV0b2J1eS9zdG9yZWRlc2NyaXB0aW9ucx8LZ2QUKwACFhAfAwUTTG9jYXRlIGEgQ29udHJhY3Rvch8FBRNMb2NhdGUgYSBDb250cmFjdG9yHwYFLC93aGVyZXRvYnV5L2NvbnRyYWN0b3IvUGFnZXMvQ29udHJhY3Rvci5hc3B4HwcFE0xvY2F0ZSBhIENvbnRyYWN0b3IfCGcfCWcfCgUWL3doZXJldG9idXkvY29udHJhY3Rvch8LZ2QUKwACFhAfAwUZSW50ZXJuYXRpb25hbCBEaXN0cmlidXRvch8FBRlJbnRlcm5hdGlvbmFsIERpc3RyaWJ1dG9yHwYFPS93aGVyZXRvYnV5L2ludGVybmF0aW9uYWwvUGFnZXMvSW50ZXJuYXRpb25hbERpc3RyaWJ1dG9yLmFzcHgfBwUZSW50ZXJuYXRpb25hbCBEaXN0cmlidXRvch8IZx8JZx8KBRkvd2hlcmV0b2J1eS9pbnRlcm5hdGlvbmFsHwtnZBQrAAIWEB8DBQ5TdXBwb3J0IENlbnRlch8FBQ5TdXBwb3J0IENlbnRlch8GBSIvc3VwcG9ydGNlbnRlci9QYWdlcy9PdmVydmlldy5hc3B4HwcFDlN1cHBvcnQgQ2VudGVyHwhnHwlnHwoFDi9zdXBwb3J0Y2VudGVyHwtnFCsACQUfMDowLDA6MSwwOjIsMDozLDA6NCwwOjUsMDo2LDA6NxQrAAIWDh8DBQhPdmVydmlldx8FBQhPdmVydmlldx8GBSIvc3VwcG9ydGNlbnRlci9QYWdlcy9PdmVydmlldy5hc3B4HwhnHwlnHwoFIi9zdXBwb3J0Y2VudGVyL1BhZ2VzL092ZXJ2aWV3LmFzcHgfC2dkFCsAAhYQHwMFFlJlcXVlc3QgYSBDb25zdWx0YXRpb24fBQUWUmVxdWVzdCBhIENvbnN1bHRhdGlvbh8GBSYvc3VwcG9ydGNlbnRlci9QYWdlcy9Db25zdWx0YXRpb24uYXNweB8HBR9SZXF1ZXN0IGFuIEluLUhvbWUgQ29uc3VsdGF0aW9uHwhnHwlnHwoFJi9zdXBwb3J0Y2VudGVyL1BhZ2VzL0NvbnN1bHRhdGlvbi5hc3B4HwtnZBQrAAIWEB8DBRJSZXF1ZXN0IExpdGVyYXR1cmUfBQUSUmVxdWVzdCBMaXRlcmF0dXJlHwYFJC9zdXBwb3J0Y2VudGVyL1BhZ2VzL0xpdGVyYXR1cmUuYXNweB8HBRJSZXF1ZXN0IExpdGVyYXR1cmUfCGcfCWcfCgUkL3N1cHBvcnRjZW50ZXIvUGFnZXMvTGl0ZXJhdHVyZS5hc3B4HwtnZBQrAAIWEB8DBRlSZXF1ZXN0IFNlcnZpY2UgYW5kIFBhcnRzHwUFGVJlcXVlc3QgU2VydmljZSBhbmQgUGFydHMfBgU/L3N1cHBvcnRjZW50ZXIvcmVxdWVzdHNlcnZpY2UvUGFnZXMvUmVxdWVzdFNlcnZpY2VhbmRQYXJ0cy5hc3B4HwcFGVJlcXVlc3QgU2VydmljZSBhbmQgUGFydHMfCGcfCWcfCgUdL3N1cHBvcnRjZW50ZXIvcmVxdWVzdHNlcnZpY2UfC2dkFCsAAhYQHwMFCUZpbmFuY2luZx8FBQlGaW5hbmNpbmcfBgUjL3N1cHBvcnRjZW50ZXIvUGFnZXMvRmluYW5jaW5nLmFzcHgfBwUJRmluYW5jaW5nHwhnHwlnHwoFIy9zdXBwb3J0Y2VudGVyL1BhZ2VzL0ZpbmFuY2luZy5hc3B4HwtnZBQrAAIWEB8DBRFJbnN0YWxsYXRpb24gSGVscB8FBRFJbnN0YWxsYXRpb24gSGVscB8GBTcvc3VwcG9ydGNlbnRlci9pbnN0YWxsYXRpb24vUGFnZXMvSW5zdGFsbGF0aW9uSGVscC5hc3B4HwcFEUluc3RhbGxhdGlvbiBIZWxwHwhnHwlnHwoFGy9zdXBwb3J0Y2VudGVyL2luc3RhbGxhdGlvbh8LZ2QUKwACFhAfAwUQTWFpbnRlbmFuY2UgVGlwcx8FBRBNYWludGVuYW5jZSBUaXBzHwYFKS9zdXBwb3J0Y2VudGVyL1BhZ2VzL01haW50ZW5hbmNlVGlwcy5hc3B4HwcFEE1haW50ZW5hbmNlIFRpcHMfCGcfCWcfCgUpL3N1cHBvcnRjZW50ZXIvUGFnZXMvTWFpbnRlbmFuY2VUaXBzLmFzcHgfC2dkFCsAAhYQHwMFCkNvbnRhY3QgVXMfBQUKQ29udGFjdCBVcx8GBSMvc3VwcG9ydGNlbnRlci9QYWdlcy9Db250YWN0VXMuYXNweB8HBQpDb250YWN0IFVzHwhnHwlnHwoFIy9zdXBwb3J0Y2VudGVyL1BhZ2VzL0NvbnRhY3RVcy5hc3B4HwtnZBQrAAIWEB8DBQhBYm91dCBVcx8FBQhBYm91dCBVcx8GBRwvYWJvdXR1cy9QYWdlcy9PdmVydmlldy5hc3B4HwcFCEFib3V0IFVzHwhnHwlnHwoFCC9hYm91dHVzHwtnFCsADAUsMDowLDA6MSwwOjIsMDozLDA6NCwwOjUsMDo2LDA6NywwOjgsMDo5LDA6MTAUKwACFg4fAwUIT3ZlcnZpZXcfBQUIT3ZlcnZpZXcfBgUcL2Fib3V0dXMvUGFnZXMvT3ZlcnZpZXcuYXNweB8IZx8JZx8KBRwvYWJvdXR1cy9QYWdlcy9PdmVydmlldy5hc3B4HwtnZBQrAAIWEB8DBQ9Db21wYW55IFByb2ZpbGUfBQUPQ29tcGFueSBQcm9maWxlHwYFGy9hYm91dHVzL1BhZ2VzL1Byb2ZpbGUuYXNweB8HBQ9Db21wYW55IFByb2ZpbGUfCGcfCWcfCgUbL2Fib3V0dXMvUGFnZXMvUHJvZmlsZS5hc3B4HwtnZBQrAAIWEB8DBR9KLkQuIFBvd2VyIGFuZCBBc3NvY2lhdGVzIEF3YXJkHwUFH0ouRC4gUG93ZXIgYW5kIEFzc29jaWF0ZXMgQXdhcmQfBgUbL2Fib3V0dXMvUGFnZXMvSkRQb3dlci5hc3B4HwcFH0ouRC4gUG93ZXIgYW5kIEFzc29jaWF0ZXMgQXdhcmQfCGcfCWcfCgUbL2Fib3V0dXMvUGFnZXMvSkRQb3dlci5hc3B4HwtnZBQrAAIWEB8DBSJHb3Zlcm5vciYjMzk7cyBFbnZpcm9ubWVudGFsIEF3YXJkHwUFIkdvdmVybm9yJiMzOTtzIEVudmlyb25tZW50YWwgQXdhcmQfBgUeL2Fib3V0dXMvUGFnZXMvZXhjZWxsZW5jZS5hc3B4HwcFLjIwMDcgR292ZXJub3IncyBFbnZpcm9ubWVudGFsIEV4Y2VsbGVuY2UgQXdhcmQfCGcfCWcfCgUeL2Fib3V0dXMvUGFnZXMvZXhjZWxsZW5jZS5hc3B4HwtnZBQrAAIWEB8DBRlFbmVyZ3kgU3RhciBQYXJ0bmVyIEF3YXJkHwUFGUVuZXJneSBTdGFyIFBhcnRuZXIgQXdhcmQfBgUeL2Fib3V0dXMvUGFnZXMvRW5lcmd5U3Rhci5hc3B4HwcFJUVuZXJneSBTdGFyIFBhcnRuZXIgb2YgdGhlIFllYXIgQXdhcmQfCGcfCWcfCgUeL2Fib3V0dXMvUGFnZXMvRW5lcmd5U3Rhci5hc3B4HwtnZBQrAAIWEB8DBQ1QZWxsYSBDYXJlZXJzHwUFDVBlbGxhIENhcmVlcnMfBgUkL2Fib3V0dXMvY2FyZWVycy9QYWdlcy9PdmVydmlldy5hc3B4HwcFDVBlbGxhIENhcmVlcnMfCGcfCWcfCgUQL2Fib3V0dXMvY2FyZWVycx8LZ2QUKwACFhAfAwUVSGlzdG9yeSBvZiBJbm5vdmF0aW9uHwUFFUhpc3Rvcnkgb2YgSW5ub3ZhdGlvbh8GBS8vYWJvdXR1cy9oaXN0b3J5b2Zpbm5vdmF0aW9uL1BhZ2VzL0hpc3RvcnkuYXNweB8HBRVIaXN0b3J5IG9mIElubm92YXRpb24fCGcfCWcfCgUcL2Fib3V0dXMvaGlzdG9yeW9maW5ub3ZhdGlvbh8LZ2QUKwACFg4fAwUXRW52aXJvbm1lbnRhbCBBd2FyZW5lc3MfBQUXRW52aXJvbm1lbnRhbCBBd2FyZW5lc3MfBgUqL2Fib3V0dXMvUGFnZXMvRW52aXJvbm1lbnRhbEF3YXJlbmVzcy5hc3B4HwhnHwlnHwoFKi9hYm91dHVzL1BhZ2VzL0Vudmlyb25tZW50YWxBd2FyZW5lc3MuYXNweB8LZ2QUKwACFhAfAwUPUGVsbGEgUHJlc3Nyb29tHwUFD1BlbGxhIFByZXNzcm9vbR8GBRtodHRwOi8vcHJlc3Nyb29tLnBlbGxhLmNvbS8fCGcfCWcfCgUbaHR0cDovL3ByZXNzcm9vbS5wZWxsYS5jb20vHwtnHgZUYXJnZXQFBl9ibGFua2QUKwACFhAfAwUWQ2xvc2UgdGhlIERvb3Igb24gRmlyZR8FBRZDbG9zZSB0aGUgRG9vciBvbiBGaXJlHwYFIS9hYm91dHVzL2ZpcmUvUGFnZXMvb3ZlcnZpZXcuYXNweB8HBRZDbG9zZSB0aGUgRG9vciBvbiBGaXJlHwhnHwlnHwoFDS9hYm91dHVzL2ZpcmUfC2dkFCsAAhYQHwMFHkV4dHJlbWUgTWFrZW92ZXI6IEhvbWUgRWRpdGlvbh8FBR5FeHRyZW1lIE1ha2VvdmVyOiBIb21lIEVkaXRpb24fBgUjL2Fib3V0dXMvUGFnZXMvRXh0cmVtZU1ha2VvdmVyLmFzcHgfBwUeRXh0cmVtZSBNYWtlb3ZlcjogSG9tZSBFZGl0aW9uHwhnHwlnHwoFIy9hYm91dHVzL1BhZ2VzL0V4dHJlbWVNYWtlb3Zlci5hc3B4HwtnZGQCEQ9kFgwCAw88KwAJAgAPFgQeDU5ldmVyRXhwYW5kZWRkHwRnZAgUKwACBQMwOjAUKwACFg4fAwUOUHJpdmFjeSBQb2xpY3kfBQUOUHJpdmFjeSBQb2xpY3kfBgUZL1BhZ2VzL1ByaXZhY3lQb2xpY3kuYXNweB8HBQ5Qcml2YWN5IFBvbGljeR8KBRkvUGFnZXMvUHJpdmFjeVBvbGljeS5hc3B4HwtnHghTZWxlY3RlZGdkZAIFD2QWAmYPZBYCZg8WAh8DBU08c3R5bGU+PC9zdHlsZT48c2NyaXB0IGxhbmd1YWdlPSJqYXZhc2NyaXB0IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PmQCCw8WAh8ACysEAWQCEQ9kFgJmDw8WAh8BaGRkAhMPZBYCZg8PFgIfAWhkZAIVD2QWAmYPDxYCHwFoZGQCFQ9kFgICAQ9kFgJmDw8WAh8BaGRkAhcPZBYCAgUPZBYCZg8PZBYCHgVjbGFzcwUYbXMtc2J0YWJsZSBtcy1zYnRhYmxlLWV4ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUdY3RsMDAkUGxhY2VIb2xkZXJNYWluJGxfdGl0bGUvBL2VKC1KB5p4XCJqz/tbmlL39g==">
 
-	var FinderOver = new Image();
-	FinderOver.src = "/images/nav/Nav_FndOvr.gif"
+<script> var MSOWebPartPageFormName = 'aspnetForm';</script>
+<script src="/WebResource.axd?d=D03ekc5MvJfzQAcMjT4HWA2&amp;t=633240650433061358" type="text/javascript"></script>
+	
+	<table cellpadding="0" cellspacing="0" style="background-color:white;">
+	<tbody><tr>
+		<td height="100%" class="shadowLeft"></td>
+		<td valign="top">
 
-	var FinderOff = new Image();
-	FinderOff.src = "/images/nav/Nav_FndOff.gif"
-
-	var InstallOver = new Image();
-	InstallOver.src = "/images/nav/Nav_InsOvr.gif"
-
-	var InstallOff = new Image();
-	InstallOff.src = "/images/nav/Nav_InsOff.gif"
-
-	var MaintOver = new Image();
-	MaintOver.src = "/images/nav/Nav_MntOvr.gif"
-
-	var MaintOff = new Image();
-	MaintOff.src = "/images/nav/Nav_MntOff.gif"
-
-</script>
-<script language="JavaScript">
-</script>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-1355048-1";urchinTracker();</script><script type="text/javascript" src="/fsrscripts/fsrLauncher.js"></script><script type="text/javascript" src="/fsrscripts/fsrInit.js"></script></head><body bgcolor="#FFFFFF" text="#333333" link="#006699" vlink="#006699" alink="#006699" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0"><div id="FSRInviteWin" style="position:absolute; left:200px; top:150px; z-index:10000; border:0; visibility:hidden; filter:revealTrans(Duration=0.5, Transition=23);"><iframe id="FSRIframeWin" src="" width="1" height="1"></iframe></div><script type="text/javascript">fsrPoll();</script><script src="/includes/i_nav.js"></script><table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td height="82" valign="top" align="center"><table border="0" width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="25%" height="69"><img src="/images/spacer.gif" height="69" width="1"></td>
-<td height="69">
-<table border="0" width="760" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="100%" rowspan="3" valign="top" align="left" height="69"><a href="/" target="_top"><img border="0" src="/images/nav/Nav_Logo.jpg" width="122" height="69"></a></td>
-<td width="638" colspan="6" valign="top" align="right" height="32" bgcolor="#FFFFFF">
-<script language="JavaScript">
-				var careersOver = new Image();
-				careersOver.src = "/images/nav/search/CarOn.gif"
-				var careersOff = new Image();
-				careersOff.src = "/images/nav/search/CarOff.gif"
-				
-				var serviceOver = new Image();
-				serviceOver.src = "/images/nav/search/CustOn.gif"
-				var serviceOff = new Image();
-				serviceOff.src = "/images/nav/search/CustOff.gif"
-				
-				var professionalOver = new Image();
-				professionalOver.src = "/images/nav/search/BuildOn.gif"
-				var professionalOff = new Image();
-				professionalOff.src = "/images/nav/search/BuildOff.gif"
-				
-				var aboutOver = new Image();
-				aboutOver.src = "/images/nav/search/CompOn.gif"
-				var aboutOff = new Image();
-				aboutOff.src = "/images/nav/search/CompOff.gif"
-				
-			</script><table border="0" cellspacing="0" cellpadding="0">
-			
-
-				<form name="fbsearch" method="GET" action="http://ss208.fusionbot.com/cgi-bin/ss_query" style="margin:0;" id="Form1"></form>
-			
-				
-				<tbody><tr>
-				
-					<td><a href="/professional/default.asp" onmouseover="javascript:handleMouseOver('professional');" onmouseout="javascript:handleMouseOut('professional');" target="_blank"><img src="/images/nav/search/BuildOff.gif" name="professional" width="135" height="32" alt="For the Builder/Architect" border="0"></a></td>
-				
-					<td><a href="/service/default.asp" onmouseover="javascript:handleMouseOver('service');" onmouseout="javascript:handleMouseOut('service');" target="_top"><img src="/images/nav/search/CustOff.gif" name="service" width="114" height="32" alt="Customer Service" border="0"></a></td>
-				
-					<td><a href="/careers/default.asp" onmouseover="javascript:handleMouseOver('careers');" onmouseout="javascript:handleMouseOut('careers');" target="_top"><img src="/images/nav/search/CarOff.gif" name="careers" width="67" height="32" alt="Careers" border="0"></a></td>
-				
-					<td><a href="/about/default.asp" target="_top"><img src="/images/nav/search/CompOn.gif" width="95" height="32" alt="Our Company" border="0"></a></td>
-				
-					<td><img src="/images/nav/search/Search.gif" width="61" height="32" alt="Site Search" border="0"></td>
-					<td><font color="#666666" face="Arial, Verdana, Trebuchet MS" size="-2">
-					<input type="hidden" name="sitenbr" value="156702720" id="Hidden1">
-					<input type="text" name="keys" size="15" id="Text1"></font></td>
-					<td><a href="javascript:document.fbsearch.submit();"><img src="/images/nav/search/Go.gif" width="22" height="32" alt="Go" border="0"></a></td>
-				</tr>
-				
-			</tbody></table></td>
-</tr>
-<tr>
-<td width="638" colspan="6" valign="top" align="right" height="15" bgcolor="#FFFFFF"><img src="/images/spacer.gif" height="15" width="1"></td>
-</tr>
-<tr>
-<td width="1" valign="top" align="left" height="22" bgcolor="#000000"><a href="/learn/default.asp" onmouseover="javascript:handleMouseOver('Learn');" onmouseout="javascript:handleMouseOut('Learn');" target="_top"><img border="0" src="/images/nav/Nav_LrnOff.gif" name="Learn"></a></td>
-<td width="1" valign="top" align="left" height="22" bgcolor="#000000"><a href="/products/default.asp" onmouseover="javascript:handleMouseOver('Products');" onmouseout="javascript:handleMouseOut('Products');" target="_top"><img border="0" src="/images/nav/Nav_PrdOff.gif" name="Products"></a></td>
-<td width="1" valign="top" align="left" height="22" bgcolor="#000000"><a href="/finder/default.asp" onmouseover="javascript:handleMouseOver('Finder');" onmouseout="javascript:handleMouseOut('Finder');" target="_top"><img border="0" src="/images/nav/Nav_FndOff.gif" name="Finder"></a></td>
-<td width="1" valign="top" align="left" height="22" bgcolor="#000000"><a href="/install/default.asp" onmouseover="javascript:handleMouseOver('Install');" onmouseout="javascript:handleMouseOut('Install');" target="_top"><img border="0" src="/images/nav/Nav_InsOff.gif" name="Install"></a></td>
-<td width="1" valign="top" align="left" height="22" bgcolor="#000000"><a href="/maint/default.asp" onmouseover="javascript:handleMouseOver('Maint');" onmouseout="javascript:handleMouseOut('Maint');" target="_top"><img border="0" src="/images/nav/Nav_MntOff.gif" name="Maint"></a></td>
-<td valign="top" align="left" height="22" bgcolor="#000000"><img border="0" src="/images/spacer.gif" width="124" height="22"></td></tr></tbody></table></td>
-<td width="25%" height="69"><img src="/images/spacer.gif" height="69" width="1"></td>
-</tr>
+		<table cellpadding="0" cellspacing="0" width="100%" class="masterContent">
+		<tbody><tr>
+			<td></td>
+			<td><div id="ctl00_MSO_ContentDiv" class="mainContainer"></div></td>
+		</tr>
+		<tr>
+			<td colspan="2" class="authoringRegion">
+							 <span class="siteActionMenu">
+								
+<!-- Begin Action Menu Markup -->
+<table height="100%" class="ms-siteaction" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+					   <td class="ms-siteactionsmenu" id="siteactiontd">
+					   
+					</td>
+	</tr>
 </tbody></table>
-<title>Pella Windows and Doors - Our Company</title>
-<table width="760" cellspacing="0" cellpadding="0" border="0">
+<!-- End Action Menu Markup -->
+
+							</span>
+
+
+					</td>
+			</tr>
+		</tbody></table>
+		</td>
+		</tr>
+		</tbody></table>
+		
+		
+<table width="100%" cellpadding="0" cellspacing="0">
 <tbody><tr>
-    <td rowspan="4" width="20"><img src="/images/spacer.gif" width="20" height="1" alt="Pella"></td>
-    <td colspan="5"><img src="/images/spacer.gif" width="1" height="27" alt="Pella"></td>
-</tr>
-<tr>
-    <td colspan="5"><img src="../images/about/Privacy_ttl.gif" width="145" height="28"></td>
-</tr>
-<tr>
-    <td colspan="5" height="36"><font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-2"><a href="/default.asp">Home</a>&nbsp;&nbsp;&gt;&nbsp;&nbsp;Privacy Policy</font><br><img src="/images/spacer.gif" width="1" height="22" alt="Pella"></td>
-</tr>
-<tr>
-    <td width="86" valign="top">
-		<img src="/images/spacer.gif" width="86" height="1" alt="Pella">
-	</td>
-    <td width="474" valign="top">
-    
-    <font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">Pella Corporation ("Pella," "we," "us," and "our") owns and operates this 
-		website (this "Site").   This Online Privacy Policy (this "Policy") describes our commitment to privacy and reflects the importance 
-		we place on earning and keeping your trust.  <br><br>
+<td style="width:50%"></td>
+<td align="left" valign="top" style="padding-top: 50px;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+    <td align="left" width="122"><a href="/"><img src="/SiteCollectionImages/logo1.gif" alt="Pella" border="0"></a></td>
+    <td style="text-align:right;width:843px; vertical-align:bottom;">
+    <div id="topnav-links" align="right" style="padding-bottom:5px;"> 
+    <table border="0" cellspacing="0" cellpadding="0" id="searchtable">
+<tbody><tr>
+	<td style="padding-right: 15px;"><div id="topnav-callout"><a href="http://pro.pella.com" target="_blank">for the professional</a></div></td>
+	<td style="padding-right: 15px;"><a href="/supportcenter/Pages/ContactUs.aspx">Contact Us</a></td>
+<td align="left" valign="bottom" style="vertical-align:bottom; overflow:hidden;">
 
-		<a href="#policy">Scope Of This Policy</a><br>
-		<a href="#personal">What is "Personal Information"?</a><br>
-		<a href="#consent">Your Consent</a><br>
-		<a href="#choices">Your Choices</a><br>
-		<a href="#changes">This Privacy Policy May Change</a><br>
+<table toplevel="" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:220px">
+	<tbody><tr>
+		<td valign="top"><div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ1" class="ms-WPBody" onlyformepart="true" allowremove="false" allowdelete="false" style="width:220px;height:24px;overflow:auto;"><div id="ctl00_PlaceHolderSearchArea_zipcodesearchPart1" dir="ltr">
+			<span id="ctl00_PlaceHolderSearchArea_zipcodesearchPart1_ctl00_urchintag"><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-1355048-1";urchinTracker();</script></span>
 
-		<a href="#collection">What Information Is Collected on this Site and How Is It Used?</a><br>
-		&nbsp;&nbsp;&nbsp;&nbsp;<a href="#voluntary">Information You Knowingly and Voluntarily Provide</a><br>
-		&nbsp;&nbsp;&nbsp;&nbsp;<a href="#browser">Information Sent to Us by Your Web Browser</a><br>
-		&nbsp;&nbsp;&nbsp;&nbsp;<a href="#cookie">Information Collected By Placing a "Cookie" On Your Computer</a><br>
-		<a href="#share">Does Pella Share My Personal Data?</a><br>
-
-		<a href="#protect">How Does Pella Protect Personal Information?</a><br>
-		<a href="#linked">What About Other Sites That May Be Linked To This Site?</a><br>
-		<a href="#access">Access to Personal Information</a><br>
-		<a href="#retention">Retention of Personal Information</a><br>
-		<a href="#hosting">This Site is Hosted on Servers Located in the United States</a><br>
-		<a href="#law">Governing Law</a><br>
-
-		<a href="#questions">Questions about this Policy or our Data Practices</a><br>
-		</font><br><br>
-		
-		<a name="policy"><font color="#000000" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><b>Scope Of This Policy</b></font></a><br>
-		<font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">Pella has provided this Policy so that you will know what personal information Pella collects through this Site, 
-		how Pella uses this information, the types of third parties with whom Pella may share this information, and some of the choices that are available to you.<br><br>
-		This Policy may be supplemented or amended from time to time by additional privacy notices ("Privacy Notices"), provided at the time we collect 
-		your personal information.  For example, certain pages of this website may contain privacy notices providing more details about the personal information 
-		we collect on those particular pages, why we need that information, and choices you may have about the ways we use that information.  In other cases, 
-		specific Privacy Notices may be required to comply with the privacy laws of one of the countries, provinces, or states in which we do business. </font><br><br>
-
-		<a name="personal"><font color="#000000" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><b>What is "Personal Information"?</b></font></a><br>
-		<font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">As used in this Policy, the term "personal information" means information that identifies you personally, alone or 
-		in combination with other information available to us.  </font><br><br>
-		
-		<a name="consent"><font color="#000000" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><b>Your Consent</b></font></a><br>
-		<font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">By using this Site, you are consenting to the collection, use, disclosure, and transfer of your personal information as 
-		described in this Policy (and any Privacy Notices that apply to you).  If you do not consent to the collection, use, disclosure and transfer of your 
-		personal information as described in this Policy (and any Privacy Notices that apply to you), you may not use this Site.  <u>You may call 800-728-1017 to 
-		request literature, find a local store or request an appointment.  If you have questions about this Policy, or any Privacy Notice, please contact us 
-		via e-mail at <a href="mailto:privacy@pella.com">privacy@pella.com</a></u>.</font><br><br>
-
-		
-		<a name="choices"><font color="#000000" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><b>Your Choices</b></font></a><br>
-		<font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">We respect your right to make choices about the ways we collect, use, and disclose your personal information.  
-		This Policy describes some of your choices.  In most cases, however, we will ask you to indicate your choices at the time and on the page where you 
-		provide your personal information.</font><br><br>
-		
-		<a name="changes"><font color="#000000" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><b>This Privacy Policy May Change</b></font></a><br>
-		<font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">Pella reserves the right to update or modify this Policy and any Privacy Notice, at any time and without prior notice, 
-		by posting the revised version of the Policy or Privacy Notice on this Site.  These changes will only apply to the personal information we collect 
-		after we have posted the revised Policy or Privacy Notice on this Site.  <br><br>
-		
-		Your use of this Site following any such change constitutes your agreement that all information collected from or about you after the revised Policy 
-		is posted will be subject to the terms of the revised Policy.  You may access the current version of this Policy at any time by clicking on the link 
-		marked "Privacy" at the bottom of each page of the public areas of this Site. <br><br>
-		
-		This Policy was last revised on September 7, 2005 and is effective as of that date.</font><br><br>
-
-		
-		<a name="collection"><font color="#000000" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><b>What Information Is Collected on this Site and How Is It Used?</b></font></a><br>
-		<font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">When you access and use this Site, there are three ways we may collect information about you:<br><br>
-		<table cellpadding="0" cellspacing="0" width="100%" border="0" id="Table1">
+<table id="ctl00_PlaceHolderSearchArea_zipcodesearchPart1_ctl00_nocookie" cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr>
-					<td width="15" align="left" valign="top"><a name="voluntary"><font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><i>1.</i></font></a></td>
-					<td align="left" valign="top"><font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><i>Information You Knowingly and Voluntarily Provide</i></font><br></td>
-
-				</tr>
-
-				<tr>
-					<td width="15" align="left" valign="top"><img src="/images/spacer.gif" width="1" height="15" alt="Pella"></td>
-					<td align="left" valign="top"><font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">Pella collects the personal information you knowingly and voluntarily provide when you use this Site, for example, 
-						the information you provide when you request an appointment, request literature or services, or e-mail us with questions or feedback.<br><br>
-		
-						Pella uses the personal information you volunteer through this Site to provide the information and services you request and for any other purpose 
-						we identify to you in a specific Privacy Notice.  For example, we use the information you provide when you request an appointment to make arrangements 
-						for a local Pella expert to contact you to discuss your project.  The information you provide about yourself (for example, whether you are a homeowner 
-						or a builder) and your project helps us determine how to direct your inquiry.  As another example, we use the information you provide when you request 
-						literature to send you information about the products that interest you.  <br><br>
-						
-						When we collect your contact information, we may ask you if you would like to receive news and special offers from us.  If you indicate that you 
-						would like to receive our mailings, we will add your contact information to our mailing lists and, from time to time, we will send you newsletters 
-						or updates, special offers, or other information about programs, services and products we believe would be of interest to you. In addition, if we 
-						provide promotional information or materials to you by email, we will include a link to our "opt-out" page in every email.  <br><br>
-
-						
-						Finally, we may remove the information that identifies specific individuals and study the balance of the information we collect through this Site 
-						to improve our programs and services, to improve the content, functionality, navigation and usability of this Site, to better understand the needs 
-						and interests of our customers and potential customers, and to better market our programs, services and products. </font><br><br>
-
-					</td>
-				</tr>
-				<tr>
-					<td width="15" align="left" valign="top"><a name="browser"><font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><i>2.</i></font></a></td>
-					<td align="left" valign="top"><font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><i>Information Sent to Us by Your Web Browser</i></font><br></td>
-					
-				</tr>
-
-				<tr>
-					<td width="15" align="left" valign="top"><img src="/images/spacer.gif" width="15" height="1" alt="Pella"></td>
-
-					<td align="left" valign="top"><font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">Pella collects information that is sent to us automatically by your web browser.  This information typically 
-						includes the IP address of your Internet service provider, the name of your operating system (such as Windows® or Macintosh®), the name and 
-						version of your browser (such as Netscape® or Internet Explorer®), the date and time of your visit, and the pages you visit.  The information 
-						we receive depends on the settings on your web browser. Please check your browser if you want to learn what information your browser sends or 
-						how to change your settings.<br><br>
-						
-						The information provided by your browser does not identify you personally, and we do not normally link this information to any other information 
-						that would permit us to identify you.  Generally, we use this information to create statistics that help us improve our sites and make them more 
-						compatible with the technology used by our visitors.  However, we may review our server logs for security purposes, for example, to detect 
-						intrusions into our network.  The possibility therefore exists that, in the event of criminal malfeasance, we might share our server logs, 
-						which contain visitors IP addresses, with the appropriate investigative authorities who could use that information to trace and identify individuals. </font><br><br>
-
-					</td>
-				</tr>
-				<tr>
-
-					<td width="15" align="left" valign="top"><a name="cookie"><font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><i>3.</i></font></a></td>
-					<td align="left" valign="top"><a name="cookie"><font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><i>Information Collected By Placing a "Cookie" On Your Computer</i></font></a><br></td>
-				</tr>
-
-				<tr>
-					<td width="15" align="left" valign="top"><img src="/images/spacer.gif" width="1" height="15" alt="Pella"></td>
-					<td align="left" valign="top"><font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">Pella uses "cookies" to "tag" your computer when you visit our Site.  A cookie is a small text file our 
-						Web server offers your browser.  Our cookies contain a randomly generated, unique identification number that lets us identify your computer 
-						each time your visit our Site.  <br><br>
-
-						
-						We use these cookies to collect statistical information about the ways visitors use our site – which pages they visit, which links they use, 
-						and how long they stay on each page.  We analyze this information (known as "clickstream data") in statistical form to better understand our 
-						visitors’ interests and needs and to improve the content and functionality of our sites.  <br><br>
-
-						
-						Our web server recognizes the cookies on your hard drive each time you visit our Site.  Because we recognize your computer, we do not count it 
-						twice.  Also, we can use the number assigned to your computer to link the clickstream data we collect each time you visit our Site.  This 
-						technology helps us determine how many visitors are using our site, how often they return, and how their use of our site may vary over time.<br><br>
-						
-						These cookies do not identify you personally and we do not link "clickstream data" with any information that identifies you personally.<br><br>
-						
-						If you give us your zipcode when you visit our Site, we will place a cookie on your computer’s hard drive that contains your zipcode information.  
-						This cookie does not contain any information that identifies you personally.  As you browse our Site, our web server will recognize your zipcode 
-						and show you products and services available in your area.  This cookie expires automatically after 30 days.<br><br>
-
-						
-						If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer.  You may also 
-						delete our cookies as soon as you leave our Site. Although you are not required to accept our cookies when you visit this Site, you may be unable to 
-						use all of the functionality of the Site if your browser rejects our cookies.</font><br><br>
-					</font></td>
-
+					<td align="left" valign="middle">Search: </td>
+					<td align="left" valign="middle"><input type="text" class="searchinput" name="keys" id="keys"></td>
+					<td align="left" valign="middle"><a href="javascript:zipform()"><img src="/SiteCollectionImages/Gobtn1_off.gif" alt="Go" name="searchgo" id="Img1" onmouseover="document.images['searchgo'].src='/SiteCollectionImages/Gobtn1_hit.gif';" onmouseout="document.images['searchgo'].src='/SiteCollectionImages/Gobtn1_off.gif';" border="0"></a></td>
 				</tr>
 			</tbody></table>
 
-		<a name="share"><font color="#000000" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><b>Does Pella Share My Personal Data? </b></font></a><br>
+		</div></div></td>
+	</tr>
+</tbody></table>
+</td>
+</tr></tbody></table></div></td>
+</tr>
+<tr style="background-color:#FFFFFF;">
+    <td align="left"><div id="mainnav-logo"><a href="/"><img src="/SiteCollectionImages/logo2.gif" border="0" alt="Pella"></a></div></td>
+    <td style="vertical-align:middle; text-align:center;"><div id="mainnav-links" align="center" style="text-align:center;">
+	
+			<center><table class="ms-bannerframe" border="0" cellspacing="0" cellpadding="0" style="text-align:center;">
+		   <tbody><tr>
+			<td class="ms-banner" nowrap="" id="HBN100" align="center" style="text-align:center;">
+				
+	<table id="zz1_TopNavigationMenu" class="menulist" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td><img src="/SiteCollectionImages/spacer.gif" alt=""></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Learn The Basics" id="zz1_TopNavigationMenun0"><table class="menulist" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="menulist" href="/learnthebasics/Pages/Overview.aspx" accesskey="1">Learn The Basics</a></td><td width="0"><img src="/SiteCollectionImages/spacer.gif" alt="" valign="middle"></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td><img src="/SiteCollectionImages/spacer.gif" alt=""></td><td><img src="/SiteCollectionImages/spacer.gif" alt=""></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Our Products" id="zz1_TopNavigationMenun1"><table class="menulist" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="menulist" href="/PRODUCTS/Pages/Overview.aspx">Our Products</a></td><td width="0"><img src="/SiteCollectionImages/spacer.gif" alt="" valign="middle"></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td><img src="/SiteCollectionImages/spacer.gif" alt=""></td><td><img src="/SiteCollectionImages/spacer.gif" alt=""></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Where to Buy" id="zz1_TopNavigationMenun2"><table class="menulist" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="menulist" href="/wheretobuy/Pages/Overview.aspx">Where to Buy</a></td><td width="0"><img src="/SiteCollectionImages/spacer.gif" alt="" valign="middle"></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td><img src="/SiteCollectionImages/spacer.gif" alt=""></td><td><img src="/SiteCollectionImages/spacer.gif" alt=""></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Support Center" id="zz1_TopNavigationMenun3"><table class="menulist" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="menulist" href="/supportcenter/Pages/Overview.aspx">Support Center</a></td><td width="0"><img src="/SiteCollectionImages/spacer.gif" alt="" valign="middle"></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td><img src="/SiteCollectionImages/spacer.gif" alt=""></td><td><img src="/SiteCollectionImages/spacer.gif" alt=""></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="About Us" id="zz1_TopNavigationMenun4"><table class="menulist" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="menulist" href="/aboutus/Pages/Overview.aspx">About Us</a></td><td width="0"><img src="/SiteCollectionImages/spacer.gif" alt="" valign="middle"></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td><img src="/SiteCollectionImages/spacer.gif" alt=""></td>
+	</tr>
+</tbody></table><div id="zz1_TopNavigationMenun0Items" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenun5">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/learnthebasics/Pages/Overview.aspx">Overview</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Project Basics" id="zz1_TopNavigationMenun6">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/learnthebasics/projectbasics/Pages/default.aspx">Project Basics</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenun7">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/learnthebasics/materials/Pages/QualityMaterials.aspx">Quality Materials</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Quality Construction" id="zz1_TopNavigationMenun8">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/learnthebasics/Pages/QualityConstruction.aspx">Quality Construction</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Energy Performance" id="zz1_TopNavigationMenun9">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/learnthebasics/energyperformance/Pages/default.aspx">Energy Performance</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Choosing A Style" id="zz1_TopNavigationMenun10">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/learnthebasics/choosingastyle/Pages/choosingastyle.aspx">Choosing A Style</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Glossary" id="zz1_TopNavigationMenun11">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/learnthebasics/glossary/Pages/Glossary.aspx">Glossary</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="menulistdrop" id="zz1_TopNavigationMenun0ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=k3i6QeyAXmn2EVlHB3P0M5SFx5AIKwq9Xjq4AZHR-hE1&amp;t=633240650433061358" alt="Scroll up">
+	</div><div class="menulistdrop" id="zz1_TopNavigationMenun0ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/SiteCollectionImages/spacer.gif" alt="Scroll down">
+	</div>
+</div><div id="zz1_TopNavigationMenun1Items" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenun12">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/products/Pages/Overview.aspx">Overview</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Windows" id="zz1_TopNavigationMenun13">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/products/windows/Pages/windows.aspx">Windows</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Doors" id="zz1_TopNavigationMenun14">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/products/doors/Pages/doors.aspx">Doors</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenun15">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/products/Pages/WoodEntryDoor.aspx">Wood Entry Doors</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Photo Gallery" id="zz1_TopNavigationMenun16">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/products/Pages/PhotoGallery.aspx">Photo Gallery</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Video and Media" id="zz1_TopNavigationMenun17">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/products/Pages/IBSVideo.aspx">Video and Media</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Promotions" id="zz1_TopNavigationMenun18">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/products/Pages/Promotions.aspx">Promotions</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenun19">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/products/Pages/WarrantyInformation.aspx">Warranty Information</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenun20">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/PRODUCTS/BRANDS/Pages/ourbrands.aspx">Get to Know Our Brands</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="menulistdrop" id="zz1_TopNavigationMenun1ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=k3i6QeyAXmn2EVlHB3P0M5SFx5AIKwq9Xjq4AZHR-hE1&amp;t=633240650433061358" alt="Scroll up">
+	</div><div class="menulistdrop" id="zz1_TopNavigationMenun1ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/SiteCollectionImages/spacer.gif" alt="Scroll down">
+	</div>
+</div><div id="zz1_TopNavigationMenun2Items" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenun21">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/wheretobuy/Pages/Overview.aspx">Overview</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenun22">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/wheretobuy/Pages/StoreLocator.aspx">Find a Store</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Store Descriptions" id="zz1_TopNavigationMenun23">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/wheretobuy/storedescriptions/Pages/default.aspx">Store Descriptions</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Locate a Contractor" id="zz1_TopNavigationMenun24">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/wheretobuy/contractor/Pages/Contractor.aspx">Locate a Contractor</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="International Distributor" id="zz1_TopNavigationMenun25">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/wheretobuy/international/Pages/InternationalDistributor.aspx">International Distributor</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="menulistdrop" id="zz1_TopNavigationMenun2ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=k3i6QeyAXmn2EVlHB3P0M5SFx5AIKwq9Xjq4AZHR-hE1&amp;t=633240650433061358" alt="Scroll up">
+	</div><div class="menulistdrop" id="zz1_TopNavigationMenun2ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/SiteCollectionImages/spacer.gif" alt="Scroll down">
+	</div>
+</div><div id="zz1_TopNavigationMenun3Items" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenun26">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/supportcenter/Pages/Overview.aspx">Overview</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Request an In-Home Consultation" id="zz1_TopNavigationMenun27">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/supportcenter/Pages/Consultation.aspx">Request a Consultation</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Request Literature" id="zz1_TopNavigationMenun28">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/supportcenter/Pages/Literature.aspx">Request Literature</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Request Service and Parts" id="zz1_TopNavigationMenun29">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/supportcenter/requestservice/Pages/RequestServiceandParts.aspx">Request Service and Parts</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Financing" id="zz1_TopNavigationMenun30">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/supportcenter/Pages/Financing.aspx">Financing</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Installation Help" id="zz1_TopNavigationMenun31">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/supportcenter/installation/Pages/InstallationHelp.aspx">Installation Help</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Maintenance Tips" id="zz1_TopNavigationMenun32">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/supportcenter/Pages/MaintenanceTips.aspx">Maintenance Tips</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Contact Us" id="zz1_TopNavigationMenun33">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/supportcenter/Pages/ContactUs.aspx">Contact Us</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="menulistdrop" id="zz1_TopNavigationMenun3ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=k3i6QeyAXmn2EVlHB3P0M5SFx5AIKwq9Xjq4AZHR-hE1&amp;t=633240650433061358" alt="Scroll up">
+	</div><div class="menulistdrop" id="zz1_TopNavigationMenun3ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/SiteCollectionImages/spacer.gif" alt="Scroll down">
+	</div>
+</div><div id="zz1_TopNavigationMenun4Items" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenun34">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/aboutus/Pages/Overview.aspx">Overview</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Company Profile" id="zz1_TopNavigationMenun35">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/aboutus/Pages/Profile.aspx">Company Profile</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="J.D. Power and Associates Award" id="zz1_TopNavigationMenun36">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/aboutus/Pages/JDPower.aspx">J.D. Power and Associates Award</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="2007 Governor's Environmental Excellence Award" id="zz1_TopNavigationMenun37">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/aboutus/Pages/excellence.aspx">Governor's Environmental Award</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Energy Star Partner of the Year Award" id="zz1_TopNavigationMenun38">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/aboutus/Pages/EnergyStar.aspx">Energy Star Partner Award</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Pella Careers" id="zz1_TopNavigationMenun39">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/aboutus/careers/Pages/Overview.aspx">Pella Careers</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="History of Innovation" id="zz1_TopNavigationMenun40">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/aboutus/historyofinnovation/Pages/History.aspx">History of Innovation</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenun41">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/aboutus/Pages/EnvironmentalAwareness.aspx">Environmental Awareness</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenun42">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="http://pressroom.pella.com/" target="_blank">Pella Pressroom</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Close the Door on Fire" id="zz1_TopNavigationMenun43">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/aboutus/fire/Pages/overview.aspx">Close the Door on Fire</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Extreme Makeover: Home Edition" id="zz1_TopNavigationMenun44">
+			<td><table class="menulistdrop" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="menulistdrop" href="/aboutus/Pages/ExtremeMakeover.aspx">Extreme Makeover: Home Edition</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="menulistdrop" id="zz1_TopNavigationMenun4ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=k3i6QeyAXmn2EVlHB3P0M5SFx5AIKwq9Xjq4AZHR-hE1&amp;t=633240650433061358" alt="Scroll up">
+	</div><div class="menulistdrop" id="zz1_TopNavigationMenun4ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/SiteCollectionImages/spacer.gif" alt="Scroll down">
+	</div>
+</div>
 
-		<font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">Pella may share personal information collected through this Site with companies and organizations that perform 
-		services on our behalf, for example, companies that provide support services to us (such as data storage and web hosting services) or that help us 
-		market our products and services (such as third-party e-mail marketing companies).  These third parties are required by contract to use the personal 
-		information we share with them only to perform services on our behalf and to treat your personal information as strictly confidential.  <br><br>
 
+
+
+
+				
+			</td>
+		   </tr>
+		  </tbody></table></center>
 		
-		In addition, Pella may share your personal information with our affiliates and distributors, who may use and disclose that personal information as 
-		we would to help us provide the products, services and information you request.  For example, if you request an appointment, we will find the local 
-		Pella expert nearest you.  That Pella expert may be a Pella employee or the employee of a Pella distributor.  In either case, the Pella expert will 
-		use your personal information to follow-up with you as you requested.  Our distributors are bound by contract to use the personal information they 
-		receive in relation to this Site only as permitted under this Privacy Policy, any applicable Privacy Notices, and applicable privacy laws.  This 
-		means, among other things, that they may use your personal information only for the purposes for which that information was originally collected 
-		or to which you subsequently consent and must take reasonable steps to protect the confidentiality of your personal information.  <br><br>
-		
-		There are other, limited circumstances in which Pella may share or transfer the personal information in our databases to unrelated third parties.  
-		For example, we may provide personal information to a third party to comply with a court order or subpoena; to prevent or investigate a possible crime, 
-		such as fraud or identity theft; to comply with a legal requirement; to protect the rights, property or safety of Pella, our users or others; to 
-		protect your vital interests; or in connection with a corporate sale, purchase, merger, reorganization, liquidation, dissolution or similar event.  
-		If your personal information is transferred to another company that has acquired Pella, one of its affiliates, one of its distributors, or one their 
-		databases, for example, as the result of a sale, merger or reorganization, the acquiring company’s use of your personal information will still be 
-		subject to this privacy policy and the privacy preferences you’ve expressed to us.  </font><br><br>
+    </div></td>
+</tr>
+<tr>
+	<td colspan="2">
+	
+<table width="965" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td style="width:206px; background-color:#f5e343">
+		<img src="/SiteCollectionImages/dropshadow1_f4.gif"><br>
+		<img src="/SiteCollectionImages/logo3_f4.gif"><br>
+		<div style="width:206px; background-color: #e6e6e6; padding-bottom: 0px; border-bottom:1px #ffffff solid; height: 30px;">
+		<h1 style="padding-left:15px; padding-top: 10px; padding-bottom: 0px;">
+<a href="#ctl00_PlaceHolderMain_l_title_SkipLink"><img alt="Skip Navigation Links." src="/WebResource.axd?d=ZmYTw0Ku7KAHC2daQraz5Q2&amp;t=633240650433061358" width="0" height="0" border="0"></a><div id="ctl00_PlaceHolderMain_l_title">
+	<table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td class="nolink" nowrap="nowrap"><a class="nolink" href="/Pages/PrivacyPolicy.aspx" title="Privacy Policy" id="ctl00_PlaceHolderMain_l_titlen0">Privacy Policy</a></td>
+		</tr>
+	</tbody></table>
+</div><a id="ctl00_PlaceHolderMain_l_title_SkipLink"></a></h1><br></div>
+<div id="ctl00_PlaceHolderMain_leftnavPart2">
+	<style></style><script language="javascript" type="text/javascript"></script>
+</div>
+	
 
-		<a name="protect"><font color="#000000" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><b>How Does Pella Protect Personal Information? </b></font></a><br>
-		<font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">Pella takes reasonable precautions to provide a level of security appropriate to the sensitivity of the personal 
-		information we collect.  Although we use reasonable measures to help protect your personal information against unauthorized use or disclosure, we 
-		cannot guarantee the security of information provided over the Internet or stored in our databases and will not be responsible for breaches of security 
-		beyond our reasonable control.</font><br><br>
+	
 
-		<a name="linked"><font color="#000000" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><b>What About Other Websites That May Be Linked to This Site? </b></font></a><br>
-
-		<font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">This Privacy Policy applies only to this Site.  Pella, its affiliates and its distributors operate many different 
-		Web sites for different purposes and in different countries where different laws may apply.  If you visit another Pella website, please take a moment 
-		to review the privacy policy posted on that site to learn what personal information may be collected through that site and how it is processed.<br><br>
-
-		This Site may also contain links to websites that are not operated by Pella. These links are provided for your reference and convenience only and do 
-		not imply any endorsement of the products sold or information provided through these websites, nor any association with their operators.  Pella does 
-		not control these websites and is not responsible for their data practices.  Any information you provide to third parties on their websites is covered 
-		under their privacy and data collection policies and is not covered by this Privacy Policy. We urge you to review the privacy policy posted on any site 
-		you visit before using the site or providing any personal information. </font><br><br>
-
-		<a name="access"><font color="#000000" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><b>Access to Personal Information</b></font></a><br>
-		<font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">If you would like to review, correct and update the personal information you have provided to us through this Site, 
-		please contact us by email at <a href="mailto:privacy@pella.com">privacy@pella.com</a>.  We will respond to your request within the time limit set out by the applicable privacy legislation.  
-		We will use reasonable efforts to comply with your request as required by applicable law.</font><br><br>
-
-		<a name="retention"><font color="#000000" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><b>Retention of Personal Information</b></font></a><br>
-		<font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">Pella retains the personal information collected on this Site as long as necessary to provide the services, products 
-		and information you request or as permitted by applicable law.<br><br>
-		
-		<a name="hosting"><font color="#000000" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><b>This Site Is Hosted on Servers Located in the United States.</b></font><br><br>
-
-		<font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">Pella is a United States corporation.  The servers that support this Site are located in the United States.  While it is in our possession, your 
-		personal information will generally be stored in Pella databases or databases maintained by our third-party service providers on servers and data 
-		storage devices located in the United States.  United States data protection laws may not provide as much protection as the data protection laws in 
-		force in some other countries, however, we will process your personal information in accordance with this Policy no matter where our data is stored.  
-		If you are located in a country outside the United States, by using this Site you consent to the transfer of your personal information to the United 
-		States.  </font><br><br>
-
-		</a><a name="law"><font color="#000000" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><b>Governing Law</b></font></a><br>
-
-		<font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">This Policy shall be governed under the laws of the State of Iowa, United States of America without regard to its 
-		conflicts of law provisions.  </font><br><br>
-
-		<a name="questions"><font color="#000000" face="Arial, Verdana, 'Trebuchet MS'" size="-1"><b>Questions About This Policy or Pella’s Data Practices</b></font></a><br>
-
-		<font color="#333333" face="Arial, Verdana, 'Trebuchet MS'" size="-1">If you have questions or concerns about this Policy, any Privacy Notice, or Pella’s data practices, please contact us 
-		by email at <a href="mailto:privacy@pella.com">privacy@pella.com</a>.</font><br><br>
-
+		</td>
+		<td style="width:759px; background-color:#ffffff; padding-bottom:90px;">
+		<table width="759" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+		<td style="width:422px"><img src="/SiteCollectionImages/dropshadow2_f4.gif">
+		<div style="padding-left:29px; padding-top:9px; ">
+		<div style="visibility:hidden">
 			
-	</font></font></td>
-    <td width="40"><img src="/images/spacer.gif" width="40" height="1" alt="Pella"></td>
-    <td width="140" valign="top">
+</div>
+		<div class="breadcrumb">
+			<span id="ctl00_PlaceHolderMain_siteMapPath"><span><a title="Pella Windows and Doors" class="ms-sitemapdirectional" href="/Pages/default.aspx">Home</a></span><span> &gt; </span><span class="ms-sitemapdirectional">Privacy Policy</span></span></div>
+	<style>
+		A.nolink,A.nolink:link,A.nolink:hover,A.nolink:active,A.nolink:visited{
+		text-decoration:none;
+		color:#000000;
+		
+	}
+ </style>
+		<h2 style="width:440px;">
+		<span id="ctl00_PlaceHolderMain_siteMapPath2"><span><a title="Pella Windows and Doors" class="nolinknocaps" href="/Pages/default.aspx">Home</a></span><span><font color="Gray"> - </font></span><span class="gray"><b>Privacy Policy</b></span></span></h2>
+	<div style="width:440px;">
+
+	<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td id="MSOZoneCell_WebPartWPQ6" valign="top"><table toplevel="" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td valign="top"><div webpartid="df5d6360-e96b-49fa-80de-3110ba36574c" haspers="false" id="WebPartWPQ6" width="100%" class="ms-WPBody" allowdelete="false" style=""><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">Pella Corporation ("Pella," "we," "us," and "our") owns and operates this website (this "Site"). This Online Privacy Policy (this "Policy") describes our commitment to privacy and reflects the importance we place on earning and keeping your trust. <br></font><br><br><a name="policy"><font face="Arial, Verdana, 'Trebuchet MS'" color="#000000" size="-1"><b>Scope Of This Policy</b></font></a><br><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">Pella has provided this Policy so that you will know what personal information Pella collects through this Site, how Pella uses this information, the types of third parties with whom Pella may share this information, and some of the choices that are available to you.<br><br>This Policy may be supplemented or amended from time to time by additional privacy notices ("Privacy Notices"), provided at the time we collect your personal information. For example, certain pages of this website may contain privacy notices providing more details about the personal information we collect on those particular pages, why we need that information, and choices you may have about the ways we use that information. In other cases, specific Privacy Notices may be required to comply with the privacy laws of one of the countries, provinces, or states in which we do business. </font><br><br><a name="personal"><font face="Arial, Verdana, 'Trebuchet MS'" color="#000000" size="-1"><b>What is "Personal Information"?</b></font></a><br><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">As used in this Policy, the term "personal information" means information that identifies you personally, alone or in combination with other information available to us. </font><br><br><a name="consent"><font face="Arial, Verdana, 'Trebuchet MS'" color="#000000" size="-1"><b>Your Consent</b></font></a><br><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">By using this Site, you are consenting to the collection, use, disclosure, and transfer of your personal information as described in this Policy (and any Privacy Notices that apply to you). If you do not consent to the collection, use, disclosure and transfer of your personal information as described in this Policy (and any Privacy Notices that apply to you), you may not use this Site. <u>You may call 800-728-1017 to request literature, find a local store or request an appointment. If you have questions about this Policy, or any Privacy Notice, please contact us via e-mail at <a href="mailto:privacy@pella.com">privacy@pella.com</a></u>.</font><br><br><a name="choices"><font face="Arial, Verdana, 'Trebuchet MS'" color="#000000" size="-1"><b>Your Choices</b></font></a><br><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">We respect your right to make choices about the ways we collect, use, and disclose your personal information. This Policy describes some of your choices. In most cases, however, we will ask you to indicate your choices at the time and on the page where you provide your personal information.</font><br><br><a name="changes"><font face="Arial, Verdana, 'Trebuchet MS'" color="#000000" size="-1"><b>This Privacy Policy May Change</b></font></a><br><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">Pella reserves the right to update or modify this Policy and any Privacy Notice, at any time and without prior notice, by posting the revised version of the Policy or Privacy Notice on this Site. These changes will only apply to the personal information we collect after we have posted the revised Policy or Privacy Notice on this Site. <br><br>Your use of this Site following any such change constitutes your agreement that all information collected from or about you after the revised Policy is posted will be subject to the terms of the revised Policy. You may access the current version of this Policy at any time by clicking on the link marked "Privacy" at the bottom of each page of the public areas of this Site. <br><br>This Policy was last revised on September 7, 2005 and is effective as of that date.</font><br><br><a name="collection"><font face="Arial, Verdana, 'Trebuchet MS'" color="#000000" size="-1"><b>What Information Is Collected on this Site and How Is It Used?</b></font></a><br><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">When you access and use this Site, there are three ways we may collect information about you:<br><br>
+<table id="Table1" cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td valign="top" align="left" width="15"><a name="voluntary"><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1"><i>1.</i></font></a></td>
+<td valign="top" align="left"><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1"><i>Information You Knowingly and Voluntarily Provide</i></font><br></td></tr>
+<tr>
+<td valign="top" align="left" width="15"><img height="15" alt="Pella" src="http://www.pella.com/images/spacer.gif" width="1"></td>
+<td valign="top" align="left"><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">Pella collects the personal information you knowingly and voluntarily provide when you use this Site, for example, the information you provide when you request an appointment, request literature or services, or e-mail us with questions or feedback.<br><br>Pella uses the personal information you volunteer through this Site to provide the information and services you request and for any other purpose we identify to you in a specific Privacy Notice. For example, we use the information you provide when you request an appointment to make arrangements for a local Pella expert to contact you to discuss your project. The information you provide about yourself (for example, whether you are a homeowner or a builder) and your project helps us determine how to direct your inquiry. As another example, we use the information you provide when you request literature to send you information about the products that interest you. <br><br>When we collect your contact information, we may ask you if you would like to receive news and special offers from us. If you indicate that you would like to receive our mailings, we will add your contact information to our mailing lists and, from time to time, we will send you newsletters or updates, special offers, or other information about programs, services and products we believe would be of interest to you. In addition, if we provide promotional information or materials to you by email, we will include a link to our "opt-out" page in every email. <br><br>Finally, we may remove the information that identifies specific individuals and study the balance of the information we collect through this Site to improve our programs and services, to improve the content, functionality, navigation and usability of this Site, to better understand the needs and interests of our customers and potential customers, and to better market our programs, services and products. </font><br><br></td></tr>
+<tr>
+<td valign="top" align="left" width="15"><a name="browser"><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1"><i>2.</i></font></a></td>
+<td valign="top" align="left"><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1"><i>Information Sent to Us by Your Web Browser</i></font><br></td></tr>
+<tr>
+<td valign="top" align="left" width="15"><img height="1" alt="Pella" src="http://www.pella.com/images/spacer.gif" width="15"></td>
+<td valign="top" align="left"><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">Pella collects information that is sent to us automatically by your web browser. This information typically includes the IP address of your Internet service provider, the name of your operating system (such as Windows® or Macintosh®), the name and version of your browser (such as Netscape® or Internet Explorer®), the date and time of your visit, and the pages you visit. The information we receive depends on the settings on your web browser. Please check your browser if you want to learn what information your browser sends or how to change your settings.<br><br>The information provided by your browser does not identify you personally, and we do not normally link this information to any other information that would permit us to identify you. Generally, we use this information to create statistics that help us improve our sites and make them more compatible with the technology used by our visitors. However, we may review our server logs for security purposes, for example, to detect intrusions into our network. The possibility therefore exists that, in the event of criminal malfeasance, we might share our server logs, which contain visitors IP addresses, with the appropriate investigative authorities who could use that information to trace and identify individuals. </font><br><br></td></tr>
+<tr>
+<td valign="top" align="left" width="15"><a name="cookie"><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1"><i>3.</i></font></a></td>
+<td valign="top" align="left"><a name="cookie"><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1"><i>Information Collected By Placing a "Cookie" On Your Computer</i></font></a><br></td></tr>
+<tr>
+<td valign="top" align="left" width="15"><img height="15" alt="Pella" src="http://www.pella.com/images/spacer.gif" width="1"></td>
+<td valign="top" align="left"><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1"><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">Pella uses "cookies" to "tag" your computer when you visit our Site. A cookie is a small text file our Web server offers your browser. Our cookies contain a randomly generated, unique identification number that lets us identify your computer each time your visit our Site. <br><br>We use these cookies to collect statistical information about the ways visitors use our site – which pages they visit, which links they use, and how long they stay on each page. We analyze this information (known as "clickstream data") in statistical form to better understand our visitors’ interests and needs and to improve the content and functionality of our sites. <br><br>Our web server recognizes the cookies on your hard drive each time you visit our Site. Because we recognize your computer, we do not count it twice. Also, we can use the number assigned to your computer to link the clickstream data we collect each time you visit our Site. This technology helps us determine how many visitors are using our site, how often they return, and how their use of our site may vary over time.<br><br>These cookies do not identify you personally and we do not link "clickstream data" with any information that identifies you personally.<br><br>If you give us your zipcode when you visit our Site, we will place a cookie on your computer’s hard drive that contains your zipcode information. This cookie does not contain any information that identifies you personally. As you browse our Site, our web server will recognize your zipcode and show you products and services available in your area. This cookie expires automatically after 30 days.<br><br>If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also delete our cookies as soon as you leave our Site. Although you are not required to accept our cookies when you visit this Site, you may be unable to use all of the functionality of the Site if your browser rejects our cookies.</font><br><br></font></td></tr></tbody></table><a name="share"><font face="Arial, Verdana, 'Trebuchet MS'" color="#000000" size="-1"><b>Does Pella Share My Personal Data? </b></font></a><br><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">Pella may share personal information collected through this Site with companies and organizations that perform services on our behalf, for example, companies that provide support services to us (such as data storage and web hosting services) or that help us market our products and services (such as third-party e-mail marketing companies). These third parties are required by contract to use the personal information we share with them only to perform services on our behalf and to treat your personal information as strictly confidential. <br><br>In addition, Pella may share your personal information with our affiliates and distributors, who may use and disclose that personal information as we would to help us provide the products, services and information you request. For example, if you request an appointment, we will find the local Pella expert nearest you. That Pella expert may be a Pella employee or the employee of a Pella distributor. In either case, the Pella expert will use your personal information to follow-up with you as you requested. Our distributors are bound by contract to use the personal information they receive in relation to this Site only as permitted under this Privacy Policy, any applicable Privacy Notices, and applicable privacy laws. This means, among other things, that they may use your personal information only for the purposes for which that information was originally collected or to which you subsequently consent and must take reasonable steps to protect the confidentiality of your personal information. <br><br>There are other, limited circumstances in which Pella may share or transfer the personal information in our databases to unrelated third parties. For example, we may provide personal information to a third party to comply with a court order or subpoena; to prevent or investigate a possible crime, such as fraud or identity theft; to comply with a legal requirement; to protect the rights, property or safety of Pella, our users or others; to protect your vital interests; or in connection with a corporate sale, purchase, merger, reorganization, liquidation, dissolution or similar event. If your personal information is transferred to another company that has acquired Pella, one of its affiliates, one of its distributors, or one their databases, for example, as the result of a sale, merger or reorganization, the acquiring company’s use of your personal information will still be subject to this privacy policy and the privacy preferences you’ve expressed to us. </font><br><br><a name="protect"><font face="Arial, Verdana, 'Trebuchet MS'" color="#000000" size="-1"><b>How Does Pella Protect Personal Information? </b></font></a><br><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">Pella takes reasonable precautions to provide a level of security appropriate to the sensitivity of the personal information we collect. Although we use reasonable measures to help protect your personal information against unauthorized use or disclosure, we cannot guarantee the security of information provided over the Internet or stored in our databases and will not be responsible for breaches of security beyond our reasonable control.</font><br><br><a name="linked"><font face="Arial, Verdana, 'Trebuchet MS'" color="#000000" size="-1"><b>What About Other Websites That May Be Linked to This Site? </b></font></a><br><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">This Privacy Policy applies only to this Site. Pella, its affiliates and its distributors operate many different Web sites for different purposes and in different countries where different laws may apply. If you visit another Pella website, please take a moment to review the privacy policy posted on that site to learn what personal information may be collected through that site and how it is processed.<br><br>This Site may also contain links to websites that are not operated by Pella. These links are provided for your reference and convenience only and do not imply any endorsement of the products sold or information provided through these websites, nor any association with their operators. Pella does not control these websites and is not responsible for their data practices. Any information you provide to third parties on their websites is covered under their privacy and data collection policies and is not covered by this Privacy Policy. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal information. </font><br><br><a name="access"><font face="Arial, Verdana, 'Trebuchet MS'" color="#000000" size="-1"><b>Access to Personal Information</b></font></a><br><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">If you would like to review, correct and update the personal information you have provided to us through this Site, please contact us by email at <a href="mailto:privacy@pella.com">privacy@pella.com</a>. We will respond to your request within the time limit set out by the applicable privacy legislation. We will use reasonable efforts to comply with your request as required by applicable law.</font><br><br><a name="retention"><font face="Arial, Verdana, 'Trebuchet MS'" color="#000000" size="-1"><b>Retention of Personal Information</b></font></a><br><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">Pella retains the personal information collected on this Site as long as necessary to provide the services, products and information you request or as permitted by applicable law.<br><br><a name="hosting"><font face="Arial, Verdana, 'Trebuchet MS'" color="#000000" size="-1"><b>This Site Is Hosted on Servers Located in the United States.</b></font><br><br><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">Pella is a United States corporation. The servers that support this Site are located in the United States. While it is in our possession, your personal information will generally be stored in Pella databases or databases maintained by our third-party service providers on servers and data storage devices located in the United States. United States data protection laws may not provide as much protection as the data protection laws in force in some other countries, however, we will process your personal information in accordance with this Policy no matter where our data is stored. If you are located in a country outside the United States, by using this Site you consent to the transfer of your personal information to the United States. </font><br><br></a><a name="law"><font face="Arial, Verdana, 'Trebuchet MS'" color="#000000" size="-1"><b>Governing Law</b></font></a><br><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">This Policy shall be governed under the laws of the State of Iowa, United States of America without regard to its conflicts of law provisions. </font><br><br><a name="questions"><font face="Arial, Verdana, 'Trebuchet MS'" color="#000000" size="-1"><b>Questions About This Policy or Pella’s Data Practices</b></font></a><br><font face="Arial, Verdana, 'Trebuchet MS'" color="#333333" size="-1">If you have questions or concerns about this Policy, any Privacy Notice, or Pella’s data practices, please contact us by email at <a href="mailto:privacy@pella.com">privacy@pella.com</a>.</font><br></font></font></div></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table>
+<div style="padding-top:30px;">
+	<table width="440" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td style="padding-right:28px;">
+		</td>
+		<td width="100%">
+		</td>
+	</tr>
+	</tbody></table></div>
+<br><br>
+	</div>
+		</div>		
+	</td><td style="width:237px">
+<div style="background-color:#e5e5e5; width:237">
+		<div style=" border-bottom: solid 2px #ffffff; ">
+			<a href="/supportcenter/pages/consultation.aspx"><img src="/SiteCollectionImages/consult_2ndPg.gif" alt="Request a Consultation" border="0"></a>
+		</div>
+
+		<div style=" border-bottom: solid 2px #ffffff; ">
+			<a href="/supportcenter/pages/literature.aspx"><img src="/SiteCollectionImages/brochure_2ndPg.gif" alt="Request a Brochure" border="0"></a>
+		</div>
+		
+		
+		</div>	
+
+
+
+		<br><br>
+		</td>
+		</tr>
+		</tbody></table> 
+		</td>
+	</tr>
+	</tbody></table>
+
+
+	<div id="footer">
+	<div align="left" style="float:left;">
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td><a href="/supportcenter/Pages/ContactUs.aspx">Contact Us</a></td>
+		<td>|</td>
+		<td><a href="/Pages/privacypolicy.aspx">Privacy Policy</a></td>
+		<td>|</td>
+		<td><a href="http://pro.pella.com/" target="_blank">For the Professional</a></td>
+	</tr>
+	</tbody></table>
+	</div>
+	<div align="right" style="float:right;">
+	<table cellpadding="0" cellspacing="0" border="0" id="Table1">
+	<tbody><tr>
+		<td><a href="/Pages/AllRightsReserved.aspx">© 2008 Pella Corporation</a></td>
+		<td><a href="/Pages/AllRightsReserved.aspx">All Rights Reserved</a></td>
+	</tr>
+	</tbody></table>
+	</div>
+	</div>
 	</td>
 </tr>
 </tbody></table>
-<table border="0" width="760" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%"><p align="right"><img border="0" src="/images/spacer.gif" width="1" height="34"></p></td></tr><tr><td width="100%"><p align="right"><img border="0" src="/images/PEProdMainSmallLogo_img.gif" width="44" height="61"><br><font color="#666666" face="Arial, Verdana, Trebuchet MS" size="-2">©2007 Pella Corporation.&nbsp; <a class="footer" href="/about/legal.asp"><font color="#666666" face="Arial, Verdana, Trebuchet MS" size="-2">All Rights Reserved.</font></a><font color="#666666" face="Arial, Verdana, Trebuchet MS" size="-2">&nbsp; <a class="footer" href="/about/privacy.asp"><font color="#666666" face="Arial, Verdana, Trebuchet MS" size="-2">Privacy Policy.</font></a><br><br></font></font></p></td></tr></tbody></table></td></tr></tbody></table>
+<div id="zip_form" name="zip_form"><table width="403" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+	<td align="right" style="text-align:right;">
+		<div style="padding:16px 20px 0px 0px">
+		<a href="javascript:unzipform();"><img src="/SiteCollectionImages/spacer.gif" width="15" height="14" border="0"></a>
+		</div>
+		</td>
+		</tr>
+	<tr><td align="left" valign="top"><div style="text-align:left; width:300px; margin-left:51px; padding-top: 20px;">
+	Certain Pella products are available are only available in specific parts of the United States. Please enter your zip code to ensure your search results are accurate.
+	<div id="ctl00_zipcode_capturePart1">
+	<div id="ctl00_zipcode_capturePart1_ctl00_formpanel">
+		
+<div style="width:300px; text-align:center; padding-top:10px; padding-left:0px;" align="center">
+<table width="300" border="0">
+<tbody><tr>
+    <td align="center" valign="top"><span id="ctl00_zipcode_capturePart1_ctl00_zip_intro"></span>
+<span id="ctl00_zipcode_capturePart1_ctl00_err" class="err"></span>
+</td>
+</tr>
+<tr>
+    <td align="center" style="text-align:center;">
+<table cellpadding="3" cellspacing="0" style="text-align:center;">
+<tbody><tr>
+<td><input name="ctl00$zipcode_capturePart1$ctl00$zip" type="text" id="ctl00_zipcode_capturePart1_ctl00_zip"><br></td>
+<td><a id="ctl00_zipcode_capturePart1_ctl00_submit_btn" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$zipcode_capturePart1$ctl00$submit_btn", "", true, "", "", false, true))'><img src="/style library/images/Gobtn1_off.gif" alt="Go" name="searchgo" id="Img1" onmouseover="document.images['searchgo'].src='/style%20library/images/Gobtn1_hit.gif';" onmouseout="document.images['searchgo'].src='/style%20library/images/Gobtn1_off.gif';" border="0"></a>
+</td>
+</tr>
+</tbody></table>
+   
+    </td>
+</tr>
+</tbody></table>
+</div>
+
+	</div>
+<div id="ctl00_zipcode_capturePart1_ctl00_thankspanel">
+		
+<br>
+
+	</div>
+
+<input name="ctl00$zipcode_capturePart1$ctl00$keys_hdn" type="hidden" id="ctl00_zipcode_capturePart1_ctl00_keys_hdn">
+</div>
+	</div></td>
+</tr>
+<tr>
+	<td align="center" style="text-align: center;">
+</td>
+</tr>
+</tbody></table>
+</div>
+	<div id="zoom" name="zoom" style="text-align: center;">
+	
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td id="MSOZoneCell_WebPartWPQ5" valign="top"><table toplevel="" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td valign="top"><div webpartid="9e1ad568-58d3-4168-8cc9-0c2c012ef6a0" haspers="false" id="WebPartWPQ5" width="100%" class="ms-WPBody" allowdelete="false" style=""><p><span class="ms-rteCustom-bodytext_sm">Pella Corporation ("Pella," "we," "us," and "our") owns and operates this website (this "Site"). This Online Privacy Policy (this "Policy") describes our commitment to privacy and reflects the importance we place on earning and keeping your trust.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold">Scope Of This Policy<br></span>Pella has provided this Policy so that you will know what personal information Pella collects through this Site, how Pella uses this information, the types of third parties with whom Pella may share this information, and some of the choices that are available to you.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">This Policy may be supplemented or amended from time to time by additional privacy notices ("Privacy Notices"), provided at the time we collect your personal information. For example, certain pages of this website may contain privacy notices providing more details about the personal information we collect on those particular pages, why we need that information, and choices you may have about the ways we use that information. In other cases, specific Privacy Notices may be required to comply with the privacy laws of one of the countries, provinces, or states in which we do business.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold"></span></span>&nbsp;</p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold">What is "Personal Information"?<br></span>As used in this Policy, the term "personal information" means information that identifies you personally, alone or in combination with other information available to us.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold"></span></span>&nbsp;</p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold">Your Consent</span><br>By using this Site, you are consenting to the collection, use, disclosure, and transfer of your personal information as described in this Policy (and any Privacy Notices that apply to you). If you do not consent to the collection, use, disclosure and transfer of your personal information as described in this Policy (and any Privacy Notices that apply to you), you may not use this Site. You may call 800-728-1017 to request literature, find a local store or request an appointment. If you have questions about this Policy, or any Privacy Notice, please contact us via e-mail at <a href="mailto:privacy@pella.com">privacy@pella.com</a>.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold"></span></span>&nbsp;</p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold">Your Choices<br></span>We respect your right to make choices about the ways we collect, use, and disclose your personal information. This Policy describes some of your choices. In most cases, however, we will ask you to indicate your choices at the time and on the page where you provide your personal information.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold"></span></span>&nbsp;</p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold">This Privacy Policy May Change</span><br>Pella reserves the right to update or modify this Policy and any Privacy Notice, at any time and without prior notice, by posting the revised version of the Policy or Privacy Notice on this Site. These changes will only apply to the personal information we collect after we have posted the revised Policy or Privacy Notice on this Site.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">Your use of this Site following any such change constitutes your agreement that all information collected from or about you after the revised Policy is posted will be subject to the terms of the revised Policy. You may access the current version of this Policy at any time by clicking on the link marked "Privacy" at the bottom of each page of the public areas of this Site.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">This Policy was last revised on September 7, 2005 and is effective as of that date.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold"></span></span>&nbsp;</p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold">What Information Is Collected on this Site and How Is It Used?<br></span>When you access and use this Site, there are three ways we may collect information about you</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><em>1. Information You Knowingly and Voluntarily Provide<br></em>Pella &nbsp;Pella collects the personal information you knowingly and voluntarily provide when you use this Site, for example, the information you provide when you request an appointment, request literature or services, or e-mail us with questions or feedback.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">Pella uses the personal information you volunteer through this Site to provide the information and services you request and for any other purpose we identify to you in a specific Privacy Notice. For example, we use the information you provide when you request an appointment to make arrangements for a local Pella expert to contact you to discuss your project. The information you provide about yourself (for example, whether you are a homeowner or a builder) and your project helps us determine how to direct your inquiry. As another example, we use the information you provide when you request literature to send you information about the products that interest you.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">When we collect your contact information, we may ask you if you would like to receive news and special offers from us. If you indicate that you would like to receive our mailings, we will add your contact information to our mailing lists and, from time to time, we will send you newsletters or updates, special offers, or other information about programs, services and products we believe would be of interest to you. In addition, if we provide promotional information or materials to you by email, we will include a link to our "opt-out" page in every email.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">Finally, we may remove the information that identifies specific individuals and study the balance of the information we collect through this Site to improve our programs and services, to improve the content, functionality, navigation and usability of this Site, to better understand the needs and interests of our customers and potential customers, and to better market our programs, services and products.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><em>2. &nbsp;Information Sent to Us by Your Web Browser</em><br>Pella &nbsp;Pella collects information that is sent to us automatically by your web browser. This information typically includes the IP address of your Internet service provider, the name of your operating system (such as Windows® or Macintosh®), the name and version of your browser (such as Netscape® or Internet Explorer®), the date and time of your visit, and the pages you visit. The information we receive depends on the settings on your web browser. Please check your browser if you want to learn what information your browser sends or how to change your settings.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">The information provided by your browser does not identify you personally, and we do not normally link this information to any other information that would permit us to identify you. Generally, we use this information to create statistics that help us improve our sites and make them more compatible with the technology used by our visitors. However, we may review our server logs for security purposes, for example, to detect intrusions into our network. The possibility therefore exists that, in the event of criminal malfeasance, we might share our server logs, which contain visitors IP addresses, with the appropriate investigative authorities who could use that information to trace and identify individuals.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><em>3. &nbsp;Information Collected By Placing a "Cookie" On Your Computer</em><br>Pella &nbsp;Pella uses "cookies" to "tag" your computer when you visit our Site. A cookie is a small text file our Web server offers your browser. Our cookies contain a randomly generated, unique identification number that lets us identify your computer each time your visit our Site.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">We use these cookies to collect statistical information about the ways visitors use our site – which pages they visit, which links they use, and how long they stay on each page. We analyze this information (known as "clickstream data") in statistical form to better understand our visitors’ interests and needs and to improve the content and functionality of our sites.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">Our web server recognizes the cookies on your hard drive each time you visit our Site. Because we recognize your computer, we do not count it twice. Also, we can use the number assigned to your computer to link the clickstream data we collect each time you visit our Site. This technology helps us determine how many visitors are using our site, how often they return, and how their use of our site may vary over time.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">These cookies do not identify you personally and we do not link "clickstream data" with any information that identifies you personally.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">If you give us your zipcode when you visit our Site, we will place a cookie on your computer’s hard drive that contains your zipcode information. This cookie does not contain any information that identifies you personally. As you browse our Site, our web server will recognize your zipcode and show you products and services available in your area. This cookie expires automatically after 30 days.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also delete our cookies as soon as you leave our Site. Although you are not required to accept our cookies when you visit this Site, you may be unable to use all of the functionality of the Site if your browser rejects our cookies.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold"></span></span>&nbsp;</p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold">Does Pella Share My Personal Data?<br></span>Pella may share personal information collected through this Site with companies and organizations that perform services on our behalf, for example, companies that provide support services to us (such as data storage and web hosting services) or that help us market our products and services (such as third-party e-mail marketing companies). These third parties are required by contract to use the personal information we share with them only to perform services on our behalf and to treat your personal information as strictly confidential.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">In addition, Pella may share your personal information with our affiliates and distributors, who may use and disclose that personal information as we would to help us provide the products, services and information you request. For example, if you request an appointment, we will find the local Pella expert nearest you. That Pella expert may be a Pella employee or the employee of a Pella distributor. In either case, the Pella expert will use your personal information to follow-up with you as you requested. Our distributors are bound by contract to use the personal information they receive in relation to this Site only as permitted under this Privacy Policy, any applicable Privacy Notices, and applicable privacy laws. This means, among other things, that they may use your personal information only for the purposes for which that information was originally collected or to which you subsequently consent and must take reasonable steps to protect the confidentiality of your personal information.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">There are other, limited circumstances in which Pella may share or transfer the personal information in our databases to unrelated third parties. For example, we may provide personal information to a third party to comply with a court order or subpoena; to prevent or investigate a possible crime, such as fraud or identity theft; to comply with a legal requirement; to protect the rights, property or safety of Pella, our users or others; to protect your vital interests; or in connection with a corporate sale, purchase, merger, reorganization, liquidation, dissolution or similar event. If your personal information is transferred to another company that has acquired Pella, one of its affiliates, one of its distributors, or one their databases, for example, as the result of a sale, merger or reorganization, the acquiring company’s use of your personal information will still be subject to this privacy policy and the privacy preferences you’ve expressed to us.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold"></span></span>&nbsp;</p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold">How Does Pella Protect Personal Information?</span><br>Pella takes reasonable precautions to provide a level of security appropriate to the sensitivity of the personal information we collect. Although we use reasonable measures to help protect your personal information against unauthorized use or disclosure, we cannot guarantee the security of information provided over the Internet or stored in our databases and will not be responsible for breaches of security beyond our reasonable control.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold"></span></span>&nbsp;</p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold">What About Other Websites That May Be Linked to This Site?<br></span>This Privacy Policy applies only to this Site. Pella, its affiliates and its distributors operate many different Web sites for different purposes and in different countries where different laws may apply. If you visit another Pella website, please take a moment to review the privacy policy posted on that site to learn what personal information may be collected through that site and how it is processed.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm">This Site may also contain links to websites that are not operated by Pella. These links are provided for your reference and convenience only and do not imply any endorsement of the products sold or information provided through these websites, nor any association with their operators. Pella does not control these websites and is not responsible for their data practices. Any information you provide to third parties on their websites is covered under their privacy and data collection policies and is not covered by this Privacy Policy. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal information.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold"></span></span>&nbsp;</p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold">Access to Personal Information<br></span>If you would like to review, correct and update the personal information you have provided to us through this Site, please contact us by email at <a href="mailto:privacy@pella.com">privacy@pella.com</a>.</span><span class="ms-rteCustom-bodytext_sm">&nbsp;We will respond to your request within the time limit set out by the applicable privacy legislation. We will use reasonable efforts to comply with your request as required by applicable law.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold"></span></span>&nbsp;</p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold">Retention of Personal Information</span><br>Pella retains the personal information collected on this Site as long as necessary to provide the services, products and information you request or as permitted by applicable law.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold">This Site Is Hosted on Servers Located in the United States.</span></span></p>
+<p><span class="ms-rteCustom-bodytext_sm">Pella is a United States corporation. The servers that support this Site are located in the United States. While it is in our possession, your personal information will generally be stored in Pella databases or databases maintained by our third-party service providers on servers and data storage devices located in the United States. United States data protection laws may not provide as much protection as the data protection laws in force in some other countries, however, we will process your personal information in accordance with this Policy no matter where our data is stored. If you are located in a country outside the United States, by using this Site you consent to the transfer of your personal information to the United States.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold"></span></span>&nbsp;</p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold">Governing Law<br></span>This Policy shall be governed under the laws of the State of Iowa, United States of America without regard to its conflicts of law provisions.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold"></span></span>&nbsp;</p>
+<p><span class="ms-rteCustom-bodytext_sm"><span class="ms-rteCustom-bodytext_sm_bold">Questions About This Policy or Pella’s Data Practices<br></span>If you have questions or concerns about this Policy, any Privacy Notice, or Pella’s data practices, please contact us by email at <a href="mailto:privacy@pella.com">privacy@pella.com</a>.</span></p>
+<p><span class="ms-rteCustom-bodytext_sm"></span>&nbsp;</p></div></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table>
 
 
+	<br><a href="javascript:unzoom();" onmouseover="document.images['closebtn'].src='/SiteCollectionImages/close_over.gif';" onmouseout="document.images['closebtn'].src='/SiteCollectionImages/close.gif';"><img src="/SiteCollectionImages/close.gif" name="closebtn" border="0"></a><br></div>
+</td>
+<td style="width:50%"></td>
+</tr>
+</tbody></table>
+
+<div id="mask"></div>
+
+		
+
+   <input type="text" name="__spDummyText1" style="display:none;" size="1/">
+   <input type="text" name="__spDummyText2" style="display:none;" size="1/">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALO08LfAgKd857pCAL1mbOeCQKIw4DkDvoF9EncSllKCvlotDwNUtyhwm7a">
+
+<script type="text/javascript">
+<!--
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var zz1_TopNavigationMenu_Data = new Object();
+zz1_TopNavigationMenu_Data.disappearAfter = 500;
+zz1_TopNavigationMenu_Data.horizontalOffset = 0;
+zz1_TopNavigationMenu_Data.verticalOffset = 0;
+zz1_TopNavigationMenu_Data.hoverClass = ' menulistdrop';
+if (typeof(overrideMenu_HoverStatic) == 'function' && typeof(Menu_HoverStatic) == 'function')
+{
+_spBodyOnLoadFunctionNames.push('enableFlyoutsAfterDelay');
+Menu_HoverStatic = overrideMenu_HoverStatic;
+}
+var flyoutsAllowed = false;
+function enableFlyoutsAfterDelay()
+{
+setTimeout('flyoutsAllowed = true;', 50);
+}
+function overrideMenu_HoverStatic(item)
+{
+if (!flyoutsAllowed || (document.readyState != null && document.readyState != 'complete'))
+{
+setTimeout(delayMenu_HoverStatic(item), 50);
+}
+else
+{
+// this code is the default ASP.NET implementation of Menu_HoverStatic
+var node = Menu_HoverRoot(item);
+var data = Menu_GetData(item);
+if (!data) return;
+__disappearAfter = data.disappearAfter;
+Menu_Expand(node, data.horizontalOffset, data.verticalOffset);
+}
+}
+function delayMenu_HoverStatic(item)
+{
+return (function()
+{
+overrideMenu_HoverStatic(item);
+});
+}
+// -->
+</script>
+</form>
+ 
 
 </body></html>
