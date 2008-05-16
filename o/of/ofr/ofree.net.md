@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218065803id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517011533id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at ¤ Only Free
 
@@ -30,23 +30,23 @@ For questions regarding this privacy statement or the practises of this site, pl
   
    
   
-[](https://web.archive.org/go/go.asp?l80ptk4auj)
+**Qualify for a Free $250 Gas Card**
 
-[](https://web.archive.org/holiday.html)
-
-**Free BRITA Riviera Water Pitcher !**
-
-More economical and more eco-friendly than bottled water.
+Now While Supplies Last
 
 **or**  
-[](http://www.addthis.com/feed.php?pub=Faraon&h1=http%3A%2F%2Fwww.ofree.net%2Frss2.xml&t1= "Subscribe using any feed reader!")  
+[](http://feeds.feedburner.com/OnlyFree-NewestFreebiesAndFreeStuff "Subscribe using any feed reader!")  
 to Our  
 [RSS FEED](https://web.archive.org/rss2.xml "Newest Freebies & Free Stuff")  
 and Get Your Newest Free Stuff & Freebies Faster and More Reliably! 
 
-**Free Sample of L'Oreal Colour Juice Sheer Lip Gloss!**
+**Free Sony Vaio Laptop Computer**
 
-Get a Lip Gloss sample now!
+Always on the go?
+
+**Free BRITA Riviera Water Pitcher !**
+
+More economical and more eco-friendly than bottled water.
 
 **Get Harry Potter and the Deathly Hallows - FREE!**
 
