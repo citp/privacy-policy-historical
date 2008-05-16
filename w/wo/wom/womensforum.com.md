@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womensforum.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213164538id_/http%3A//www.womensforum.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womensforum.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516072503id_/http%3A//www.womensforum.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # womensforum : A Community of Women and their Special Interests
 
