@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218230034id_/http%3A//www.desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516051316id_/http%3A//desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
 
 # DesertUSA General Information
 
 **Who We Are**
 
-DesertUSA.com provides information on desert parks, desert animals, desert communities and desert activities in the North American deserts.  DesertUSA.com is managed by Digital West Media, Inc., a San Diego-based multimedia company.
+DesertUSA.com is a monthly Internet-based magazine published by Digital West Media, Inc., a San Diego-based multimedia company which has been in the communications business for more than two decades. Among other services, Digital West Media, Inc. designs and produces information-based products such as software products and commercial Web sites.
 
 ### Our Purpose
 
-DesertUSA's purpose is to provide a tool for discovery -- a web site which entertains educates and explores with our readers, the beauty, life and culture of the North American deserts.
+DesertUSA's purpose is to provide a tool for discovery -- a publication which entertains educates and explores with our readers, the beauty, life and culture of the North American deserts.
 
 To this end, DesertUSA.com contains images, stories, movie and audio clips, virtual reality tours and hard data about, virtually any desert-related topic: plants, animals, geology, cultural and natural history, recreation, parks, cities, travel and people.  
 
@@ -25,7 +25,7 @@ DesertUSA offers advertising opportunities to businesses that would like to prom
 
 
 
-[**Advertising rates and general site information**](https://web.archive.org/web/20071218230034id_/http%3A//www.desertusa.com/ads/du_adrates.html)
+[**Advertising rates and general site information**](https://web.archive.org/web/20080516051316id_/http%3A//desertusa.com/ads/du_adrates.html)
 
 ### 
 
@@ -34,7 +34,7 @@ DesertUSA offers advertising opportunities to businesses that would like to prom
   
 A Resource for Educators and Students
 
-Digital West Media, Inc. grants educators permission to use materials and resources from the DesertUSA Web site in their classrooms, free of charge. Please contact us via e-mail at [Permissions](mailto:jim@desertusa.com?subject=DesertUSA_permissions), or phone us at 760 740 1787 ext. 1# for details.
+Digital West Media, Inc. grants educators permission to use materials and resources from the DesertUSA Web site in their classrooms, free of charge. Please contact us via e-mail at [Permissions](mailto:dusa_feedback@desertusa.com?subject=DesertUSA_permissions), or phone us at 760 740 1787 ext. 1# for details.
 
 **Special news for teachers and schools,** DesertUSA.com online store now accepts purchase orders from schools, libraries and educational districts. Just use the standard order form and select (I would rather fax my order) instead of the submit order button. Next, print out the form and mail or fax it to DesertUSA.com with a copy of your purchase order. Minimum order is $30.00. FAX 760 546 0321
 
@@ -54,11 +54,11 @@ If you would like information about licensing materials from DesertUSA, please c
   
 Submitting Content To DesertUSA.com
 
-If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20071218230034id_/http%3A//www.desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20071218230034id_/http%3A//www.desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
+If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20080516051316id_/http%3A//desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20080516051316id_/http%3A//desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
 
-If you would like to submit a news item for the news blog, [DesertUSAblog.com](http://www.desertusablog.com/), please [click here](https://web.archive.org/web/20071218230034id_/http%3A//www.desertusa.com/who/du_talk.html#news) for more information.
+If you would like to submit a news item for the news blog, [DesertUSAblog.com](http://www.desertusa.com/desertblog), please [click here](https://web.archive.org/web/20080516051316id_/http%3A//desertusa.com/who/du_talk.html#news) for more information.
 
-If you would like to submit and essay or photos for our [Desert Talk](https://web.archive.org/web/20071218230034id_/http%3A//www.desertusa.com/who/du_talk.html) area, please [click here](https://web.archive.org/web/20071218230034id_/http%3A//www.desertusa.com/who/du_talk.html#essay) for more information.
+If you would like to submit and essay or photos for our [Desert Talk](https://web.archive.org/web/20080516051316id_/http%3A//desertusa.com/who/du_talk.html) area, please [click here](https://web.archive.org/web/20080516051316id_/http%3A//desertusa.com/who/du_talk.html#essay) for more information.
 
 ### 
 
@@ -71,7 +71,7 @@ DesertUSA makes every effort to provide accurate, error-free, up-to-date informa
 
 ### Copyright
 
-All photographs, text, illustrations, maps, video, audio and other content in DesertUSA are for personal use only. Do not upload any DesertUSA.com content to any online service or FTP site. All content on the DesertUSA Web site is Copyright 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007 by Digital West Media, Inc and/or **DesertUSA** contributors.
+All photographs, text, illustrations, maps, video, audio and other content in DesertUSA are for personal use only. Do not upload any DesertUSA.com content to any online service or FTP site. All content on the DesertUSA Web site is Copyright 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008 by Digital West Media, Inc and/or **DesertUSA** contributors.
 
 ### DesertUSA.com Privacy Policy
 
@@ -93,19 +93,19 @@ In some cases, you may voluntarily provide personal information by filling out a
 
 DesertUSA.com survey data is used for the sole purpose of identifying the demographics and interests of DesertUSA.com visitors as an aggregate group. This data is used to describe the target audience of DesertUSA.com to potential advertisers. The information is also used to improve the DesertUSA site to better meet the needs of it's target audience. The information is not sold or used for any other purpose.
 
-If you have any additional questions about DesertUSAcom's dedication to consumer privacy, please contact us at feedback@desertusa.com
+If you have any additional questions about DesertUSAcom's dedication to consumer privacy, please [click here](mailto:dusa_feedback@desertusa.com?subject=DesertUSA) to email us.
 
 #### DesertUSA.Com Staff  
   
 | **Publisher:**  
-[Digital West Media Inc.](mailto:jim@dwmi.com?subject=DesertUSA) | **Sales/Marketing Director:  
+[Digital West Media Inc.](mailto:dusa_feedback@desertusa.com?subject=DesertUSA) | **Sales/Marketing Director:  
 **Lynn Bremner  
 ---|---  
 **Copy Editor:  
 **Jay W. Sharp | **Zoology Editor:  
 **Jerrold J. Feldner  
 **Production/Programming:**  
-Kristine Cole | **Webmaster/Programmer:  
+Kristine Bonner | **Webmaster/Programmer:  
 **[Jim F. Bremner](mailto:webmaster@desertusa.com)  
 |   
   
