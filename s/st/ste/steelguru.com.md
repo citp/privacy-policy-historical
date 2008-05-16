@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steelguru.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203051322id_/http%3A//steelguru.com/about_steelguru/read_sg_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelguru.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516220348id_/http%3A//steelguru.com/about_steelguru/read_sg_privacy_policy.html) for the most accurate reproduction.*
 
 # SteelGuru - Privacy Policy
 
