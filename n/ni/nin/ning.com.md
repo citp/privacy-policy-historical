@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ning.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213182450id_/http%3A//www.ning.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ning.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516045659id_/http%3A//www.ning.com/about/privacy.html) for the most accurate reproduction.*
 
 # Ning - Privacy Policy
 
@@ -109,7 +109,7 @@ Users with questions about this Privacy Policy may contact Ning the following wa
 #### Postal
 
 Ning  
-167 Hamilton Avenue, Suite 300  
+735 Emerson Street  
 Palo Alto, CA 94301
 
 **USE OF THE NING SERVICE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY**
