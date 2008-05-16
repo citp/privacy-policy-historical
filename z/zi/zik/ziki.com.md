@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziki.com privacy policy that was archived on 2007-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070530064638id_/http%3A//www.ziki.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziki.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516091356id_/http%3A//www.ziki.com/help/privacy) for the most accurate reproduction.*
 
 # Ziki.com : Be visible
 
