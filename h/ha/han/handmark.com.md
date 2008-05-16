@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the handmark.com privacy policy that was archived on 2007-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070815223405id_/http%3A//www.handmark.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handmark.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516041314id_/http%3A//www.handmark.com/company/privacy.php) for the most accurate reproduction.*
 
-# Handmark - Privacy Notice
+# Handmark | Privacy Notice
 
 Handmark knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Handmark.com, you are accepting the practices described in this Privacy Notice. 
 
-**What Personal Information Does Handmark.com Gather?**
+### What Personal Information Does Handmark.com Gather?
 
 The information we learn from customers helps us personalize and continually improve your shopping experience at Handmark.com. Here are the types of information we gather. 
 
@@ -13,14 +13,14 @@ The information we learn from customers helps us personalize and continually imp
 
 
 
-**What About Cookies?**
+### What About Cookies?
 
   * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personalized product spotlights and storage of items in your Shopping Cart between visits. 
   * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Handmark.com's coolest features, and we recommend that you leave them turned on. 
 
 
 
-**Does Handmark.com Share the Information It Receives?**
+### Does Handmark.com Share the Information It Receives?
 
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Handmark.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
 
@@ -31,19 +31,19 @@ Information about our customers is an important part of our business, and we are
 
 
 
-**How Secure Is Information About Me?**
+### How Secure Is Information About Me?
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
+  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
   * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
 
 
-**Which Information Can I Access?**
+### Which Information Can I Access?
 
 Handmark.com gives you access to a broad range of information about your account and your interactions with Handmark.com for the limited purpose of viewing and, in certain cases, updating that information. 
 
-**What Choices Do I Have?**
+### What Choices Do I Have?
 
   * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Handmark.com features. 
   * You can add or update certain information on pages such as those listed in the "Which Information Can I Access?" section above. When you update information, we usually keep a copy of the prior version for our records. 
@@ -52,11 +52,11 @@ Handmark.com gives you access to a broad range of information about your account
 
 
 
-**Children**
+### Children
 
 Handmark.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Handmark.com only with the involvement of a parent or guardian. 
 
-**Conditions of Use, Notices, and Revisions**
+### Conditions of Use, Notices, and Revisions
 
 If you choose to visit Handmark.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of New Hampshire. If you have any concern about privacy at Handmark.com, please send us a thorough description to support@Handmark.com, and we will try to resolve it. 
 
