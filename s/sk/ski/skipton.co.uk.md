@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019212017id_/http%3A//www.skipton.co.uk/security_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516075827id_/http%3A//www.skipton.co.uk/securityAndPrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Legal notice - Skipton Building Society
+# Important Security and Privacy Policy - Skipton Building Society - mutual matters
 
 Skipton Building Society is committed to protecting your privacy and keeping your personal information secure. This policy does not extend to external websites accessed from this site —including those of other members of the Skipton Building Society Group. Please read the terms and conditions of any other sites separately.
 
@@ -22,13 +22,13 @@ The Data Protection Act 1998 (see [www.dataprotection.gov.uk](http://www.datapro
 
 The principle purpose of collecting personal data from you via this web site is to assist in the efficient running of your accounts or to provide information or services specifically requested by you. When you complete our online enquiry forms, we ask for your contact details and other selected information so that we can deal with your request as efficiently and effectively as possible.
 
-The Act also allows you to find out what information the Society holds about you in return for a small fee. This is known as a "subject access request." If you wish to know what information the Society holds about you, please write to the
+The Act also allows you to find out what information the Society holds about you in return for a small fee. This is known as a "Data Subject Access Request." If you wish to know what information the Society holds about you, please write to the
 
-Data Protection Officer   
+Data Protection Officer  
 The Bailey   
 Skipton Building Society   
 North Yorkshire   
-BD23 1DN 
+BD23 1DN
 
 If any information is inaccurate or incorrect, please inform us and we will correct it.
 
@@ -36,4 +36,27 @@ We provide training for our employees and emphasise the need to keep data confid
 
 Your telephone conversations with the Society may be recorded. This is to help the Society in its continuous attempts to improve customer service and to offer additional security. Calls and electronic communications may also be monitored for reasons of staff training.
 
-The Skipton site currently does not use cookies. Cookies are pieces of information stored by the browser on your computers hard disk when you visit a web site. They can provide general management information about web site traffic patterns, to help monitor and improve internet service. We do monitor use of the website and as part of this process we will log your IP address.This is the unique address your computer has while connected to the internet and consists of a series of numbers. This is not stored in any manner which can identify you and is retained for only a short period of time.
+## Cookies
+
+**What are Cookies?**
+
+Cookies are harmless text files that websites can store on your computer’s hard drive when you visit to allow the website to recognise you when you revisit. 
+
+**Permanent cookies**
+
+These stay on your machine until expiry or deletion. Many are built with automatic deletion dates to help ensure your hard drive doesn’t get overloaded. We use this type of cookie. 
+
+**What we use cookies for**
+
+We use cookies to enable us to gather general management information about web site traffic patterns and to help monitor and improve our internet service.
+
+**We use cookies to:**
+
+  * Gather customer journey information across our sites 
+  * Evaluate our sites advertising and promotional effectiveness (we own the anonymous data collected, which is not shared with anyone). 
+
+
+
+**Changing your cookie settings**
+
+To enable or disable cookies, follow the instructions provided by your browser (usually located within the “Help”, “Tools” or “Edit” facility). Alternatively, an external resource is available at www.allaboutcookies.org/manage-cookies providing specific information about cookies and how to manage them to suit your preferences.
