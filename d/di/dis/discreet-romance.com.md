@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discreet-romance.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618123359id_/http%3A//www.discreet-romance.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discreet-romance.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516215722id_/http%3A//www.discreet-romance.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policies - Discreet Romance Adult Sex Toys Store
 
