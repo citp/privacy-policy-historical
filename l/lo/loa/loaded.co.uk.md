@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loaded.co.uk privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019041153id_/http%3A//www.loaded.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loaded.co.uk privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516233526id_/http%3A//www.loaded.co.uk/privacy) for the most accurate reproduction.*
 
 # Loaded Privacy Policy - Privacy Policy - Loaded.co.uk - The original, sexiest and best men's magazine
 
