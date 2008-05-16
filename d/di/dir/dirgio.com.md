@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dirgio.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229021810id_/http%3A//www.dirgio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirgio.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516182202id_/http%3A//dirgio.com/privacy.php) for the most accurate reproduction.*
 
-# Dirgio - The Dynamic Directory for Surfers, Advertisers and Money Makers
+# Dirgio - Search, Advertise and Make Money Online
 
 **Information collected automatically via the Internet**  
 Dirgio logs http requests to our server. These logs capture computer information, navigation and clickstream data. 
