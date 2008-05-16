@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southbankcentre.co.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225182500id_/http%3A//www.southbankcentre.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southbankcentre.co.uk privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516051023id_/http%3A//www.southbankcentre.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Southbank Centre > Privacy Policy
 
