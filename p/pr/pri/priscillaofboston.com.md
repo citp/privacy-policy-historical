@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the priscillaofboston.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209111512id_/http%3A//www.priscillaofboston.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priscillaofboston.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517101111id_/http%3A//priscillaofboston.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Priscilla of Boston
 
-Effective December 9, 2004 
+Effective June 1, 2007 
 
 * * *
 
@@ -29,7 +29,7 @@ From time to time, we may share anonymous information with our ad agencies in an
   
 **Will we disclose the information collected to outside parties?**
 
-The personally identifiable information we collect online is sent to the Priscilla of Boston salon in your area so the salon can provide you with information regarding special events and offers in your area. Priscilla of Boston may choose to share your personally identifiable information within our family of companies, including The May Department Stores Company, and with other selected retailers, so that you can be provided with offers we believe would be attractive to our customers. If you wish to opt out of these offers, please send an email to [mkent@priscillaofboston.com](mailto:mkent@priscillaofboston.com). 
+The personally identifiable information we collect online is sent to the Priscilla of Boston salon in your area so the salon can provide you with information regarding special events and offers in your area. Priscilla of Boston may choose to share your personally identifiable information within our family of companies and with other selected retailers, so that you can be provided with offers we believe would be attractive to our customers. If you wish to opt out of these offers, please send an email to [mkent@priscillaofboston.com](mailto:mkent@priscillaofboston.com). 
 
 We also may use non-identifying and aggregate information to improve the design of our web site and to share with advertisers. For example, we may tell an advertiser that X-number of individuals visited a certain area on our Web site, or that Y-number of women who filled out our registration form are from the northeast U.S., but we will not disclose anything that could be used to identify those individuals. 
 
