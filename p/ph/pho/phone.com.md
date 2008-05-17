@@ -1,72 +1,94 @@
-> *The following text is extracted and transformed from the phone.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403100208id_/http%3A//www.openwave.com/us/legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phone.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517034729id_/http%3A//www.phone.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Openwave - Legal - Openwave Privacy Policy
+# Privacy Policy | Phone.com
 
-This Privacy Policy statement describes our practices regarding how personal information we collect on the Openwave web site is used and shared with third parties. By visiting the Openwave web site or otherwise submitting your personal information to us, you accept the practices described in this statement. The information that we receive through our web site depends on what you do during your visit, and what service(s) you request. 
+This website is located generally at **www.phone.com** and is the official website for **Phone.com** (the “Site”). This Site is owned and operated by **Phone.com, LLC** (”Phone.com”).
 
-  
-   
-YOU EXPRESSLY CONSENT TO OPENWAVE'S PROCESSING OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY. YOUR PERSONAL INFORMATION MAY BE PROCESSED BY OPENWAVE IN THE COUNTRY WHERE IT WAS COLLECTED AND IN THE UNITED STATES. UNITED STATES LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. 
+Your privacy is very important to us. Because we gather certain types of personally identifiable information (”Personal Information”) from users of our Site, subscribers of our services and for various other operational and business purposes, we feel you should know how we collect, use, disclose, manage, and store the Personal Information that you may voluntarily provide us and the Personal Information that is collected passively through the use of cookies or image tags on our Site. This Privacy Policy is incorporated by reference in the Site’s [General Terms of Use](https://web.archive.org/legal/general-terms), which is binding on all Site users. This Policy applies only to the Personal Information collected by Phone.com via the Site and does not govern any such information collected by its corporate affiliates (”Affiliates”), or any other company, unless specifically stated. 
 
-IF YOU REPRESENT AN ORGANIZATION, YOU WILL ENSURE THAT EACH MEMBER OF YOUR ORGANIZATION (INCLUDING EMPLOYEES AND CONTRACTORS) ABOUT WHOM PERSONAL INFORMATION MAY BE PROVIDED TO OPENWAVE HAS GIVEN HIS OR HER EXPRESS CONSENT TO OPENWAVE'S PROCESSING OF SUCH PERSONAL INFORMATION. 
+**If you do not agree with this Privacy Policy, please do not participate in the online or off-line activities and services that require you to provide your Personal Information. (The type of Personal Information collected is listed below.)** This Policy provides information regarding your choices to either Opt-out or Opt-in when your Personal Information is used for various promotional and marketing purposes by Phone.com, the Site, its corporate affiliates, and/or our advertisers, service providers, sponsors, or promotional partners (collectively, “Advertisers”). 
 
-  
-   
-We may ask you to submit personal information at various places on our web site, including on pages for requesting a service or information, subscribing to a newsletter, placing an order, downloading software, submitting feedback, or participating in a forum or survey. This personal information, which you voluntarily submit, may include your name, address, email address and telephone number, as well as other information about, for example, your interest in Openwave products and services, your employer, and your employment position. 
+### YOUR CALIFORNIA PRIVACY RIGHTS
 
-We use this personal information to contact you or send you information you have requested or that we feel will be of interest to you. We may contact you via phone, email, or postal mail. We generally provide an option for you to choose not to receive these types of communications. However, even if you request not to be contacted by us, we reserve the right to use your contact information if we consider it necessary to send you crucial information about, for example, the product or services you have purchased from us or information about changes to our privacy policy. 
+Residents of the State of California that have an established business relationship with a company that conducts business in California, under a new provision of the California Civil Code, have the right to request from that company a list of all third parties to which the company has disclosed Personal Information about the resident for direct marketing purposes during the preceding year. Alternatively, the law provides that if the company has a privacy policy that gives either an Opt-out or Opt-in choice for use of Personal Information by third parties (such as Advertisers or Affiliates) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. 
 
-  
-   
-We may also collect information automatically about the use of our web site, through, for example, "cookies" or "IP addresses." This information is not collected and stored in a personally identifiable manner, however. This information helps us evaluate and improve our site and is also used for marketing and investment analysis. We may share this information with third parties, but only in aggregate statistical form that includes no personally identifying information. 
+This site qualifies for the alternative option; it has a comprehensive privacy policy and provides you with details on how you may Opt-out or Opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
 
-"Cookies" are small files web sites place on your hard drive that allow sites to identify you. The use of cookies is a common practice on many web sites. For example, if you allow a site to remember your login name or password, the site places a cookie on your computer. Cookies cannot read any other information on your hard drive. We may place cookies on your computer to allow us to identify you. We may use cookies to measure web site traffic, to offer you certain services, or to customize your visit. However, if you do not wish to receive cookies, or want to be notified of when they are placed, your browser may permit you to do so. An "IP address" is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP address probably varies from session to session. 
+If you are a California resident and have an established business relationship with us and want to receive information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). You may contact us in two ways. Send email to Privacy Administrator at [Phone.comDMCAAgent@lsl-law.com](mailto:Phone.comDMCAAgent@lsl-law.com). **Alternatively, you may contact Phone.com at:**
 
-  
-   
-Openwave uses third parties (including contractors and service providers) to help with certain aspects of its operations, which may require disclosure of your personal information to them. For example, Openwave may use a third party to communicate with you (via telephone, email, or letter) about our products or services, to send information to you, to process and collect payment via your credit card (if applicable), to host our web site and related databases, and to perform other work that we may need to outsource. Openwave requires these third parties to use your personal information only as necessary to perform the services they are asked to perform. 
+**Phone.com**  
+123 Newbury Street  
+2nd Floor  
+Boston, MA 02116  
+Attn: Your California Privacy Rights  
+c/o Privacy Administrator
 
-  
-   
-Our web site offers developer forums and message boards. Please be advised that any information posted in these venues will be publicly available. 
+**For requests sent via email, you must put the statement “Your California Privacy Rights” in the subject field of your email. All requests sent via postal mail must be labeled “Your California Privacy Rights” on the envelope or post card and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) _We will not accept requests via the telephone or by facsimile._ We are not responsible for notices that are not labeled or not sent properly, or do not have complete information. 
 
-  
-   
-We may share some or all of your personal information with any current or future "affiliate" (which means a parent company, a subsidiary, joint venture, or other company under a common control with Openwave), in which case we will require the affiliate to honor this privacy policy. If another company acquires Openwave (or a business unit of Openwave that uses your personal information), that company will possess the personal information collected by Openwave and it will assume the rights and obligations regarding your personal information as described in this privacy policy. 
+To all other users of this Site, if you have other questions about this Privacy Policy, please contact our Privacy Administrator at the following email address: [Phone.comDMCAAgent@lsl-law.com](mailto:Phone.comDMCAAgent@lsl-law.com) **or:**
 
-  
-   
-We take reasonable steps to protect the personal information you share with us from unauthorized access or disclosure. However, you should know that no company, including Openwave, can fully eliminate security risks associated with personal information. 
+**Phone.com**  
+123 Newbury Street  
+2nd Floor  
+Boston, MA 02116  
+Attn: Privacy Administrator
 
-Your privacy is very important to us. Due to factors beyond our control, however, we cannot fully ensure that your personal information will not be disclosed to other third parties. For example, we may be legally required to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. 
+### GENERAL PRIVACY GUIDELINES
 
-  
-   
-Our site may link to other sites not controlled by Openwave. We are not responsible for the privacy or security practices of any other web sites. We therefore encourage you to read the privacy policies on those other sites. 
+Unless specified otherwise on the Site, all subscribers and users of the Site must be at least 18 years of age to subscribe to the services presented on the Site requiring submission of Personal Information. This Site is governed by and operated in accordance with the laws of the United States. We make no representation that this Site is operated in accordance with the laws of other nations. By your participation in our Site activities, you certify that you are at least 18 years of age. Please be aware that any Personal Information you transfer to us will be transferred to and processed in the U.S and subject to U.S. law. By using this Site, participating in any Site activities, and/or providing us with your Personal Information, you consent to this transfer of Personal Information to the U.S., and waive any claims that may arise under your own national laws. All users of the Site are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false, fraudulent, or inconsistent with this Privacy Policy. 
 
-  
-   
-We may amend this privacy policy at any time by, in our discretion, either: (1) sending you a notice of the amended policy to the email address you have submitted to us (if applicable), in which case you agree to the amended version if you do not contact us to inform us otherwise, or (2) posting the amended version on our web site, in which case you agree to the amended version if you continue to use the web site. 
+Your continued participation on this Site indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management, processing and storage of your Personal Information as described below. We may from time to time, transfer or merge any Personal Information collected off-line to our online databases or store off-line information in an electronic format. We may also combine Personal Information we collect online with information available from other sources, including information received from our corporate affiliates, Advertisers, or marketing companies. This Privacy Policy covers all such Personal Information and will remain in full force and effect as long as you are a user of the Site. **We reserve the right to revise this Privacy Policy at any time by updating this document without advance notice to you. Such revisions shall be effective to you immediately upon posting. Therefore, we encourage you to check this Privacy Policy often.**
 
-  
-   
-If you have a question or comment about the Openwave site or a request to correct or delete your personal information, please send it to us by using our web site [Feedback form](https://web.archive.org/us/about_openwave/contact_us/web_feedback.htm). We will use commercially reasonable efforts to fulfill your request in a timely manner. However, even if Openwave deletes such personal information from its 'live' database(s), it may still be stored on other databases (including those kept for archival purposes). 
+We use your Personal Information to provide you with the features, services, or goods you request, to respond to billing and/or other such questions related to Phone.com’s services offered through the Site and to notify you about updates and new features that may be of interest to you. (We explain below in the next section what our policy is for the collection, use and disclosure of Personal Information to Advertisers.)
 
-  
-   
-The materials on this site are provided by Openwave Systems Inc. ("Openwave") for informational purposes only. By downloading any material from the site, you agree to our [Terms and Conditions](https://web.archive.org/us/legal/). 
+We may also use your information for hiring, operational and business purposes, to find out how we can improve our services and your use of the Site via surveys or online tracking mechanisms, and to develop new services and features that may be of interest to you. We use aggregate Personal Information to help us to evaluate and modify existing services and features. 
 
-Last modified July 15, 2004
+We will not sell, exchange, rent, lease or otherwise disclose your Personal Information or Sensitive Personal Information to third party marketers that are not associated with Phone.com as operational service providers or Advertisers unless it is necessary to: 1) conform to regulatory and legal requirements or to comply with legal process; 2) to protect the safety and security of our users, employees, or property; 3) to defend the rights of the Site or Phone.com; or 4) to enforce the General Terms of Use Agreement. 
 
-|  |  | | Related Links  
----|---  
-   
-| | [Terms & Conditions](https://web.archive.org/us/legal/index.htm)  
-Read the Terms and Conditions of using the Openwave site.   
-| | [Trademarks](https://web.archive.org/us/legal/trademarks.htm)  
-A listing of Openwave's Trademarks and Service Marks.  
-| | [Contact Us](https://web.archive.org/us/about_openwave/contact_us/index.htm)  
-   
-  
-   
+Notwithstanding the foregoing, however, we may share your Personal Information with our subsidiaries, corporate parents, and Affiliates primarily for business, operational, promotional and marketing purposes. 
 
+It is also necessary that we share your Personal Information and Sensitive Personal Information with our operational service providers, the specialists that provide us with internal support for our operations and activities and/or for Site design, development, hosting and operations including maintenance, management, storage and/or fulfillment of our services and other activities. 
+
+We reserve the right to collect Personal Information using any new technology yet to be developed and to use such technology to provide new services and features to you, as well as for marketing and promotional purposes. 
+
+For purposes of this Privacy Policy, “Personal Information” shall refer to the following: your name, physical address, including city, and state, email address, telephone number, age or date of birth. “Sensitive Personal Information” shall refer to the following: your social security number, driver’s license number or state identification card number, employee identification number, account number, credit or debit card number, with or without any required security code, access code or password that would permit access to an individual’s financial account, mother’s maiden name, passport number, or electronic or digitized signature.
+
+### DISCLOSURE TO ADVERTISERS
+
+We may also use your Personal Information for the marketing of events, products or services of our Advertisers (”Advertiser Promotions”). As we do not currently share Personal Information with our Advertisers, the way in which users may receive information about such Advertiser Promotions would be indirectly via newsletters, email or direct mail from Phone.com. However, depending on the activity and the Advertiser, we may in the future choose to let our Advertisers send you marketing information directly. In such event, with respect to any Personal Information we may collect in connection with a particular Advertiser Promotion via forms and other methods on the Site, the same will provide you with notice (which may be via a link to a revised privacy policy or other terms and conditions) of our intention to share such information with our Advertisers. With respect to previously collected Personal Information we choose to share with Advertisers, you will receive an email notice of our intention to do so. Please be informed that our Advertisers may not have the same privacy policies that we do. Therefore, you will need to tell us if you do _not_ want to receive marketing information directly from our Advertisers. You will need to check the “Opt-out” click boxes that may be included on the registration area for the particular Advertiser Promotion, in the email notice, or alternatively, notify the Site’s Privacy Administrator at [Phone.comDMCAAgent@lsl-law.com](mailto:Phone.comDMCAAgent@lsl-law.com). You will also need to tell us if you do not wish to receive marketing or promotional materials from the Site in the same manner.
+
+We also provide you with an option to “Opt-out” of receiving advertising and promotional email from us in compliance with federal law by installing an Opt-out mechanism directly in any such email messages. You must use the designated method in the email message to notify us of your Opt-out request, as we cannot guarantee that other methods of notification will be effective or timely. Please be aware that we may continue to contact you via email for administrative or informational purposes, including follow-up messages regarding contests you have entered or other transactions you have undertaken. By law, such messages are not considered to be commercial email.
+
+### COOKIES AND IMAGE TAGS
+
+The use of cookies is an industry standard and they are currently used on most websites, including this Site. Cookies are a small text file containing a unique identification number that is transferred from a website server either to your browser or temporary storage of a user’s computer so that the website administrator or a third party operational service provider may identify the computer and passively track the user’s activities on the website. Image tags work in conjunction with cookies and are small image files that may be located on select pages of our Site, or within web-based email newsletters that we may send. (Image tags are also called web beacons, web bugs, clear GIFs or single-pixel GIFs.) Tracking is important because we can better understand what parts of our website are used the most, when to launch new services and how to enhance current offerings. We may share the information we receive from cookies and image tags with third parties and our Advertisers in aggregate form, which means that such information generally does not contain specific Personal Information or Sensitive Personal Information about any one visitor. In short, cookies and image tags collect a user’s Internet protocols and server information. Such data files allow our Site to remember your web browser when you visit our Site and are necessary tools for quick and efficient access to areas of our Site. A cookie will not allow the Site to learn any Personal Information (such as your real name and email address) or Sensitive Personal Information that you have not otherwise disclosed. 
+
+You should be aware that different rules might apply to the collection, use or disclosure of your Personal Information by other third parties in connection with their advertisements, promotions and other websites you encounter on the Internet. The use of cookies and other technology by these third parties is within their control and not ours. Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your Personal Information. _This Privacy Policy does not cover any use of Personal Information that a third party or an Advertiser may collect from you._ We encourage you to investigate and ask questions directly of them in this regard. 
+
+### ADVERTISING, OTHER THIRD PARTY CONTENT AND HYPERLINKS
+
+This Privacy Policy does not cover third party advertising or third party content that may be present on the Site. This Site may provide banner and general advertising from third parties, in addition to other content provided by our Advertisers or operational service providers. Users may from time to time purchase goods or services offered through, or otherwise participate in or send messages concerning such advertising, promotions or third party content offered through the Site. Such correspondence, transactions and agreements are solely between the user and the Advertiser or the third party content provider and do not involve the Site. Also, Advertisers and such third party content providers may not have the same privacy policies that we do and you are encouraged to read their privacy policy first. (Also see our section called “Cookies and Image Tags”)
+
+This Site may provide links to third party websites that could be of interest to our users, including the websites of our Advertisers. Phone.com does not own or control these websites and therefore, is not responsible for the content, business practices, nor operations of such websites. Third party websites linked on this Site may have different privacy policies and business practices than we do. **The presence of a link to a third party website does not constitute or imply our endorsement, recommendation, or sponsorship of the third party content, goods, or services available through, or contained on, the Site. By use of this Site, you have agreed that you will use the hyperlinks to third party sites at your own risk.**
+
+### SECURITY MEASURES
+
+We conduct the collection, management, maintenance and storage of website user information in a secure and commercially reasonable manner using acceptable industry standards of security technology and practices (such as electronic security systems and password protections) to protect against the loss, misuse or alteration of Personal Information. We also request that our operational service providers take such precautions. The www.phone.com website databases are accessible only by authorized personnel. 
+
+However, please note that when users transmit Personal Information over an unsecured Internet connection, the Site is not responsible for the security of that information during the transmission stage as your email or registration could be copied or intercepted by unknown third parties. We use a secured connection only for the collection of Sensitive Personal Information, which is necessary for the purchase of goods or services, but we do not use a secured connection for other types of activities. Therefore, you understand, acknowledge, and agree that you transmit certain Personal Information over this Site at your own risk. 
+
+### CPNI
+
+In the course of providing Services to you, we collect and maintain certain customer proprietary network information (”CPNI”). CPNI includes the types of services you currently purchase, related usage and billing information for those services. Your telephone number, name and address are not CPNI. We value our relationships with our customers and are committed to respecting and protecting your CPNI and to complying with applicable law regarding CPNI. Accordingly, we do not sell, trade or share your CPNI, including your calling records outside of Phone.com’s family of companies, including our Affiliates, or with anyone not authorized to offer our products or services, or to perform functions on our behalf (e.g. operational service providers) except as authorized by you or required by law. Generally, we can use your CPNI to offer additional services to you, and for billing and collections purposes. We can also disclose your CPNI for legal or regulatory reasons, including in response to subpoenas, court orders and the like. We can also use CPNI to investigate fraud and to prevent violation of our policies and agreements with you and unlawful use of our network, services and other customers.
+
+### CHILDREN’S PRIVACY POLICY
+
+Phone.com does not sell products or services for purchase by children. Phone.com does not knowingly solicit or collect Personal Information from children or teenagers under the age of eighteen. If you believe that a minor has disclosed Personal Information to Phone.com, please [click here](mailto:Phone.comDMCAAgent@lsl-law.com) to report this to us.
+
+### REVIEW, UPDATE, CORRECT, OR DELETE PERSONAL INFORMATION OR SENSITIVE PERSONAL INFORMATION
+
+Generally, you may review, update or delete your Personal Information or Sensitive Personal Information collected by the Site. You may also correct factual inaccuracies. Certain types of Personal Information that are necessary to check eligibility, such as birth date or age, cannot be deleted, but may be modified with sufficient verification of the new information. Note that we reserve the right to terminate or delete any membership or entry if we believe the Personal Information submitted was knowingly false or fraudulent.
+
+To review, update or delete your Personal Information or Sensitive Personal Information collected by the Site, please email the Site’s Privacy Administrator at Phone.comDMCAAgent@lsl-law.com or [click here](mailto:Phone.comDMCAAgent@lsl-law.com). To have access to your Personal Information or Sensitive Personal Information, you must provide proof of identification such as full name, street address, city/state and zip code, user ID and password, and/or information about your recent activity on the website. We reserve the right to deny access to any user if we believe there is a question about your identity. And if the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and a contact person for further inquiries. 
+
+This Privacy Policy was last updated on September 18, 2007 and is effective immediately.
