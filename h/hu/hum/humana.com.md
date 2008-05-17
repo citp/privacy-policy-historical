@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humana.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026063637id_/http%3A//www.humana.com/about/privacy/internet_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humana.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517164802id_/http%3A//humana.com/about/privacy/internet_privacy_policy.asp) for the most accurate reproduction.*
 
 # Internet Privacy Statement
 
