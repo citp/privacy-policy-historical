@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastspring.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013183824id_/http%3A//www.fastspring.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastspring.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517114430id_/http%3A//www.fastspring.com/privacy.php) for the most accurate reproduction.*
 
 # FastSpring Privacy Policy - Payment and Merchandising Solutions for Downloadable Software and Services, Software Distribution and Marketing, Software E-Commerce and Payment Processing
 
