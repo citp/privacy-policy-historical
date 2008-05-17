@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criteriongames.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224041242id_/http%3A//www.ea.com/global/legal/privacy_noseal.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criteriongames.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517062822id_/http%3A//www.ea.com/global/legal/privacy_noseal.jsp) for the most accurate reproduction.*
 
 # EA Online Privacy Policy
 
