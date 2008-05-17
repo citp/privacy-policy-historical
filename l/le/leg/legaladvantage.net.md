@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the legaladvantage.net privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025013425id_/http%3A//www.legaladvantage.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legaladvantage.net privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517145048id_/http%3A//legaladvantage.net/privacy.html) for the most accurate reproduction.*
 
 # Legal Advantage -Privacy Policy
-
----  
-| 
 
 Legal Advantage LLC is committed to protecting your privacy and earning your trust. This Privacy Policy describes Legal Advantage LLC 's information gathering and dissemination practices for www.legaladvantage.net ("Web Site").
 
