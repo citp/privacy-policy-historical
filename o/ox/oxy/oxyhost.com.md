@@ -1,0 +1,9 @@
+> *The following text is extracted and transformed from the oxyhost.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517132135id_/http%3A//www.oxyhost.com/privacy.jsp) for the most accurate reproduction.*
+
+# OxyHost - Free Quality Web Hosting - Create your own website today
+
+* * *
+
+### Privacy Policy
+
+Oxyhost.com is owned and operated by Fused Fiber Technologies. This statement is therefore set out to outline how we make use of the information you submit to us during registration. The terms contained on this page and the AUP may be revised from time to time. To protect your interests, we will email every user if a modification occurs in the terms of our policies. When you register to be a member, you will be required to enter your personal information. During registration, you will be asked to provide your fullname, email address, gender, postal code, phone number, and the area of where you are residing. Our purpose in collecting personal information is to identify and keep track of our members as well as to send important updates via your email. We do this to better understand and serve all our members from the information aquirred. This data is compiled, analyzed, and used only by us and your information you have provided will NOT be sold, disclosed, or made accessible by third-parties or by the public. In our role of delivering targeted advertisements, we use advertisement networks as the middleman. In this process, the advertisement network will never have access to individual account information or any personal member information. Although your intellectual freedom is respected, Oxyhost still reserves the right to remove from our servers any obscene, threatening, or illegal content.
