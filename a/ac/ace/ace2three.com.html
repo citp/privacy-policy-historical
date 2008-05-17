@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the ace2three.com privacy policy that was archived on 2007-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071015111526id_/http%3A//www.ace2three.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ace2three.com privacy policy that was archived on 2008-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080517233825id_/http%3A//www.ace2three.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" --><head>
-<title>:: Ace2three.com :: The Ultimate Destination for Gaming:Privacy</title>
+<title>Privacy - 13 card Rummy, Indian Card games,Online Indian Rummy Game</title>
+
 <meta name="resource-type" content="document">
 <meta http-equiv="pragma" content="no-cache">
 <meta name="revisit-after" content="7 days">
 <meta name="classification" content="games">
-<meta name="description" content="ace2three | The Ultimate Destination for Gaming">
+<meta name="description" content="ace2three | The ultimate destination for card games">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <meta name="keywords" content=" ace2three, online games, indian games, online rummy,indian rummy ,13rummy, 13cards, poker, ace23, indian card games, online gaming, casual games, indian traditional games">
 <meta name="robots" content="ALL">
@@ -15,7 +16,6 @@
 <meta name="rating" content="ace2three">
 <meta name="copyright" content="ace2three.com">
 <meta name="author" content="deepak">
-<meta http-equiv="reply-to" content="deepak@headinfotech.com">
 <meta name="language" content="english">
 <meta name="doc-type" content="Web Page">
 <meta name="doc-class" content="Completed">
@@ -48,6 +48,54 @@ function configureValidation(f,alerttype,preCheck){
 .style19 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; }
 -->
 </style>
+<script language="JavaScript" type="text/javascript">
+function newCookie(name,value,days) {
+ var days = 1;   // the number at the left reflects the number of days for the cookie to last
+                 // modify it according to your needs
+ if (days) {
+   var date = new Date();
+   date.setTime(date.getTime()+(days*24*60*60*1000));
+   var expires = "; expires="+date.toGMTString(); }
+   else var expires = "";
+   document.cookie = name+"="+value+expires+"; path=/"; }
+
+function readCookie(name) {
+   var nameSG = name + "=";
+   var nuller = '';
+  if (document.cookie.indexOf(nameSG) == -1)
+    return nuller;
+
+   var ca = document.cookie.split(';');
+  for(var i=0; i<ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0)==' ') c = c.substring(1,c.length);
+  if (c.indexOf(nameSG) == 0) return c.substring(nameSG.length,c.length); }
+    return null; }
+
+function eraseCookie(name) {
+  newCookie(name,"",1); }
+
+function toMem(a) {
+    newCookie('theName', document.s.userid.value);     // add a new cookie as shown at left for every
+    newCookie('theEmail', document.s.pwd.value);   // field you wish to have the script remember
+}
+
+function delMem(a) {
+  eraseCookie('theName');   // make sure to add the eraseCookie function for every field
+  eraseCookie('theEmail');
+
+   document.s.userid.value = '';   // add a line for every field
+   document.s.pwd.value = ''; }
+
+function validate() {
+ mail = document.s.pwd.value;
+  if (document.s.userid.value.length == 0) {
+      alert('Name field is empty!'); return false; }
+
+ return true;
+ }
+
+</script>
 <script language="JavaScript" type="text/JavaScript">
 <!--
 function MM_swapImgRestore() { //v3.0
@@ -78,7 +126,7 @@ function MM_swapImage() { //v3.0
 </head>
 
 <body oncontextmenu="return false;" onload="MM_preloadImages('images/links_02.gif','images/links_04.gif','images/links_06.gif','images/links_10.gif','images/links_11.gif','images/links_12.gif','images/downloadnow2.jpg','images/links_08.gif')">
-<div id="errordiv"></div><table width="720" border="0" align="center" cellpadding="0" cellspacing="0"><form name="form1" method="post" action="Validate.jsp" onsubmit="return configureValidation(this,2)" onreset="confirm(errormsg[99])"></form>
+<div id="errordiv"></div><table width="720" border="0" align="center" cellpadding="0" cellspacing="0"><form name="s" method="post" action="validate.jsp" onsubmit="if (this.checker.checked) toMem(this);return configureValidation(this,2)" onreset="confirm(errormsg[99])"></form>
 
   <tbody><tr>
     <td scope="row"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="tableMain">
@@ -204,12 +252,15 @@ By using our website, you consent to the collection and use of this information 
                                      <td align="center"><input class="checkit" type="password" id="Password" name="pwd">  
                                     </td>
                                   </tr>
+                                   <tr>  <td class="content" align="center">  <input type="checkbox" id="checker" name="checker"> Remember Me
+                           </td>
+                                  </tr>
                                   <tr> 
                                     <td height="5"></td>
                                   </tr>
                                   <tr> 
-                                    <td align="center"><input type="submit" name="submit" value="Submit" class="button"> 
-                                      &nbsp; <input type="reset" name="reset" value="Reset" class="button"></td>
+                                    <td align="center"><input id="submit-btn" type="submit" name="submit" value="Submit" class="button"> 
+                                      &nbsp; <input id="submit-btn" type="reset" name="reset" value="Reset" class="button"></td>
 
 
                                   </tr>
@@ -247,7 +298,7 @@ By using our website, you consent to the collection and use of this information 
           <tr> 
             <td align="center"><a href="privacy.html" class="footercon">Privacy 
               Policy</a> |<a href="disclaimer.html" class="footercon"> Disclaimer</a> 
-              | <a href="copyrights.html" class="footercon">Terms and Conditions</a> | <a href="createadd.html" class="footercon">Advertise with us</a>
+              | <a href="copyrights.html" class="footercon">Terms and Conditions</a> | <a href="aboutus.html" class="footercon">About Us</a> | <a href="createadd.html" class="footercon">Advertise with us</a>
             </td>
           </tr>
         </tbody></table></td>
@@ -257,7 +308,11 @@ By using our website, you consent to the collection and use of this information 
   </tr>
 
 
+<script type="text/javascript" language="javascript">
 
+document.s.userid.value = readCookie("theName");
+document.s.pwd.value = readCookie("theEmail");
+</script>
 </tbody></table>
 
 <!-- InstanceEnd -->
