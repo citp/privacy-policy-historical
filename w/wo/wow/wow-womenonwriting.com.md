@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wow-womenonwriting.com privacy policy that was archived on 2007-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070813121429id_/http%3A//wow-womenonwriting.com/downloads/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow-womenonwriting.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517125558id_/http%3A//www.wow-womenonwriting.com/downloads/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy
 
