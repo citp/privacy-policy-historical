@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coit.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225211340id_/http%3A//www.coit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coit.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517165104id_/http%3A//www.coit.com/privacy.html) for the most accurate reproduction.*
 
-# Carpet Cleaning | Privacy Policy
+# Coit.com - Privacy Policy
 
 Coit Services, Inc. ("Coit") has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. 
 
