@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the stowe.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009050905id_/http%3A//www.stowe.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stowe.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517112717id_/http%3A//stowe.com/home/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stowe Mountain Resort
-
-PRIVACY POLICY   
-
 
 **Stowe Mountain Resort online privacy notice**
 
@@ -42,7 +39,7 @@ We may on occasion combine general site user information we receive online with 
 **Opting out**
 
 The site covered by this Privacy Notice will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. Examples of this information include your email address, postal address, phone number, credit card number, your age, medical information, personal preferences, etc. If you somehow receive something from Stowe Mountain Resort that you believe was unsolicited, simply notify the resort at [marketing@stowe.com](mailto:marketing@stowe.com) to remove your name from the list.  
-**  
+ **  
 Collection of information by third-party sites and sponsors**
 
 Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
@@ -53,7 +50,7 @@ The site covered by this Privacy Notice sometimes may offer content (e.g., conte
 
 To enhance your experience with this site, Stowe.com uses "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering for entry in a contest. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. The cookies that we collect expire when you close your browser. One exception is a “members only” section of the golf area of Stowe.com, where users may store their username and password in a cookie on their machine if they check the box requesting that.
 
-We use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages (e.g., to save your password in password-protected areas). The ultimate goal is providing content that visitors to the site want and making it convenient to access. The service we use for this purpose is called WebTrends Live. For the WebTrends privacy policy, please [click here](http://www.webtrendslive.com/wtl_system/privacy_policy.htm).
+We use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages (e.g., to save your password in password-protected areas). The ultimate goal is providing content that visitors to the site want and making it convenient to access. The service we use for this purpose is called WebTrends Live. For the WebTrends privacy policy, please [click here](http://www.webtrends.com/AboutWebTrends/PrivacyPolicy.aspx?promo=TI_silopriv_FT&WT.svl=ftr_privacy).
 
 **Our commitment to security**
 
