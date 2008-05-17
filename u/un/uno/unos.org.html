@@ -1,7 +1,42 @@
-<!--The following is the downloaded HTML source of the unos.org privacy policy that was archived on 2007-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231150417id_/http%3A//www.unos.org/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unos.org privacy policy that was archived on 2008-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080517054723id_/http%3A//www.unos.org/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head profile="http://www.w3.org/2000/08/w3c-synd/#">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head><script language="javascript" type="text/javascript">
+// Google dependencies.
+var g = '/images/google_hd.gif';
+
+function clearText(el) {
+	if (el.style.backgroundImage.match(g)) { el.style.backgroundImage = ''; return false; }
+	return true;
+}
+function resetText(el) {
+	if (el.value.trim() == '') { el.style.backgroundImage = 'url('+g+')'; el.value=''; return false; }
+	return true;
+}
+
+function searchAll() {
+   var q = document.getElementById("txtSearch").value.trim();
+   if (q == "") {
+	alert("Please enter search criteria");
+	return;
+   }
+   window.location="/search.asp?qu=" + URLEncode(q);
+}
+function searchCollection(fromPage) {
+   var q = document.getElementById("txtSearchCol").value.trim();
+   if (q == "") {
+	alert("Please enter search criteria");
+	return;
+   }
+   window.location="/policiesAndBylaws/searchResults.asp?fromPage=" + fromPage + "&qu=" + URLEncode(q);
+}
+</script>
+
+<!--?xml version="1.0" encoding="us-ascii" ?-->
+
+
+
+
 	<title>United Network for Organ Sharing: Organ Donation and Transplantation</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="MSSmartTagsPreventParsing" content="true">
@@ -21,38 +56,62 @@
 <body onload="handleResize();" onresize="handleResize();">
 <table id="framework" width="100%" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td colspan="2">
+		<td colspan="2" width="100%">
 			<table width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr id="header">
-					<td width="99%"><img id="header1" src="/images/unos_hd1.gif" onclick="window.location.href='/';" style="cursor: hand;" alt="United Network for Organ Sharing: Organ Donation and Transplantation"></td>
-					<td width="1%" style="vertical-align: bottom;"><a target="_new" href="http://store.UNOS.org"><img src="/images/hdnav_unosstore.gif" border="0"></a><a href="/resources/glossary.asp"><img src="/images/hdnav_glossary.gif" border="0"></a><a href="/qa.asp"><img src="/images/hdnav_qa.gif" border="0"></a><a href="/contact.asp"><img src="/images/hdnav_contact.gif" border="0"></a><a href="/search.asp"><img src="/images/hdnav_search.gif" border="0"></a></td>
+					<td width="80%"><img id="header1" src="/images/unos_hd1.gif" onclick="window.location.href='/';" style="cursor: hand;" alt="United Network for Organ Sharing: Organ Donation and Transplantation"></td>
+					<td width="1%" nowrap="" style="vertical-align: bottom;">
+	<table id="headerLinks" border="0" cellpadding="0" cellspacing="0" style="padding:0px;margin:0px;border:0px;">
+	<tbody><tr>
+		<td style="padding-bottom:2px; padding-right:4px;" nowrap="">
+			<a target="_new" href="http://store.UNOS.org"><img src="/images/hdnav_unosstore.gif" border="0"></a>
+			<a href="/resources/glossary.asp"><img src="/images/hdnav_glossary.gif" border="0"></a>
+			<a href="/qa.asp"><img src="/images/hdnav_qa.gif" border="0"></a>
+			<a href="/contact.asp"><img src="/images/hdnav_contact.gif" border="0"></a>
+			<img src="/images/hdnav_search.gif" border="0">
+		</td>
+		<td style="padding-bottom:2px;" nowrap="">
+			<input type="text" id="txtSearch" onkeypress="if(event.keyCode == 13) {searchAll();return false;}" onfocus="if (!clearText(this)) return;" onblur="if (!resetText(this)) return;" style="width:140px; font-size:10px; background-image: url(/images/google_hd.gif); background-repeat: no-repeat; background-position: center left;">
+		</td>
+		<td style="padding-left:1px; padding-right:1px; vertical-align:middle;" nowrap="">
+			<a href="javascript:searchAll()"><img src="/images/butt_go.gif" alt="GO"></a>
+		</td>
+	</tr>
+	</tbody></table>
+	<script language="javascript" type="text/javascript">document.getElementById('txtSearch').value='';</script>
+</td>
 					
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
-	<tr><td colspan="2"><div class="sectionDivider"><img src="/images/blank.gif" width="1" height="1" alt=""></div></td></tr>
-	<tr id="navBar">
-		<td style="vertical-align: top; width: 1%;"><img src="/images/blank.gif" width="160" height="16" alt=""></td>
-		<td style="padding-left: 1px; width: 99%;" nowrap="nowrap"><div style="width: 600px; height: 22px; overflow: hidden;"><a href="/HowYouCanHelp/" onmouseover="showMenu(1, 161);" alt="How You Can Help"><img src="/images/nav_HowYouCanHelp_dim.gif" width="104" height="22" alt="How You Can Help"></a><a href="/whoWeAre/" onmouseover="showMenu(2, 265);" alt="Who We Are"><img src="/images/nav_WhoWeAre_dim.gif" width="86" height="22" alt="Who We Are"></a><a href="/whatWeDo/" onmouseover="showMenu(3, 351);" alt="What We Do"><img src="/images/nav_WhatWeDo_dim.gif" width="87" height="22" alt="What We Do"></a><a href="/news/" onmouseover="showMenu(4, 438);" alt="Newsroom"><img src="/images/nav_Newsroom_dim.gif" width="76" height="22" alt="Newsroom"></a><a href="/resources/" onmouseover="showMenu(5, 514);" alt="Resources"><img src="/images/nav_Resources_dim.gif" width="74" height="22" alt="Resources"></a><a href="/data/" onmouseover="showMenu(6, 588);" alt="Data"><img src="/images/nav_Data_dim.gif" width="47" height="22" alt="Data"></a><a href="/jobMarket/" onmouseover="showMenu(7, 635);" alt="Job Market"><img src="/images/nav_JobMarket_dim.gif" width="80" height="22" alt="Job Market"></a></div></td>
+	<tr>
+		<td colspan="2"><div class="sectionDivider"><img src="/images/blank.gif" width="1" height="1" alt=""></div></td>
 	</tr>
-	<tr><td colspan="2"><div class="sectionDivider"><img src="/images/blank.gif" width="1" height="1" alt=""></div></td></tr>
+	<tr id="navBar">
+		<td style="vertical-align: top; width: 1%;"><img src="/images/blank.gif" width="160px" height="16" alt=""></td>
+		<td style="padding-left:1px; width: 80%; float:left;" nowrap="nowrap"><div style="width: 750px; height: 22px; overflow: hidden;"><a href="/HowYouCanHelp/" onmouseover="showMenu(1, 161);" alt="How You Can Help"><img src="/images/nav_HowYouCanHelp_dim.gif" width="104" height="22" alt="How You Can Help"></a><a href="/whoWeAre/" onmouseover="showMenu(2, 265);" alt="Who We Are"><img src="/images/nav_WhoWeAre_dim.gif" width="86" height="22" alt="Who We Are"></a><a href="/whatWeDo/" onmouseover="showMenu(3, 351);" alt="What We Do"><img src="/images/nav_WhatWeDo_dim.gif" width="87" height="22" alt="What We Do"></a><a href="/news/" onmouseover="showMenu(4, 438);" alt="Newsroom"><img src="/images/nav_Newsroom_dim.gif" width="76" height="22" alt="Newsroom"></a><a href="/resources/" onmouseover="showMenu(5, 514);" alt="Resources"><img src="/images/nav_Resources_dim.gif" width="74" height="22" alt="Resources"></a><a href="/data/" onmouseover="showMenu(6, 588);" alt="Data"><img src="/images/nav_Data_dim.gif" width="47" height="22" alt="Data"></a><a href="/jobMarket/" onmouseover="showMenu(7, 635);" alt="Job Market"><img src="/images/nav_JobMarket_dim.gif" width="80" height="22" alt="Job Market"></a></div></td>
+	</tr>
+	<tr>
+		<td colspan="2"><div class="sectionDivider"><img src="/images/blank.gif" width="1" height="1" alt=""></div></td>
+	</tr>
 	<tr>
 		
-		<td id="menu">
+		<td id="menu" style="padding-bottom:0px;">
 			
-			<div><img src="/images/blank.gif" width="160" height="1" alt=""></div>
+			<img src="/images/blank.gif" width="160px" height="1" alt="">
 		</td>
 		
-		<td style="padding-left: 35px; width: 99%;">
+
+		<td style="float:left; padding-left:35px;padding-top:0px;">
 			
 			<table width="100%" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
-				<td id="banner" background="/images/legal_bg.jpg" style="height: 79px; width: 100%; overflow: hidden;"><img src="/images/privacypolicy_hd.gif" width="151" height="79" alt="Privacy Policy"></td>
+				<td id="banner" background="/images/legal_bg.jpg" style="height: 79px; width: 100%; overflow: hidden;"><img src="/images/privacypolicy_hd.gif" alt="Privacy Policy"></td>
 			</tr>
 			</tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
-				<td id="contentArea" style="padding-left: 0px; height: 174px;"><div id="sizer" style="height: 556px;">
+				<td id="contentArea" style="padding-left:0px; height: 174px;"><div id="sizer" style="height: 556px;">
 		<div id="content1"><div class="mainHead"><span class="contentHeader">General</span></div>
 
 <div class="mainBody">The United Network for Organ Sharing (UNOS) respects the privacy of every individual who visits our Web site. This privacy policy outlines the information UNOS may collect and how we may use that information.<br>
@@ -79,7 +138,7 @@ In some cases, we may automatically (i.e., not via registration) collect technic
 			
 			<table width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td>Copyright © 2007 United Network for Organ Sharing</td>
+					<td>Copyright © 2008 United Network for Organ Sharing</td>
 					<td style="text-align: right;">
 						<a href="/default.asp">Home</a> |
 						<a href="/contact.asp">Contact</a> |
@@ -172,6 +231,7 @@ In some cases, we may automatically (i.e., not via registration) collect technic
 
 <span style="top: 0px; left: 0px; z-index: 100; position: absolute; visibility: hidden;" id="mousetrap"><img id="mousetrapImg" onmouseover="mouseTrap();" src="/images/blank.gif" width="1366" height="758" alt="" border="0"></span>
 <div id="contentControl" style="left: 1287px;"><img src="/images/textsize.gif" style="width:51px; height:14px;" alt="Text Size"><a href="javascript:increaseContent();" alt=""><img src="/images/btn_textsizeplus_dim.gif" width="14" height="14" onmouseover="this.src='/images/btn_textsizeplus_lit.gif';" onmouseout="this.src='/images/btn_textsizeplus_dim.gif';" alt="Increase Font Size"></a><a href="javascript:decreaseContent();" alt=""><img src="/images/btn_textsizeminus_dim.gif" width="14" height="14" onmouseover="this.src='/images/btn_textsizeminus_lit.gif';" onmouseout="this.src='/images/btn_textsizeminus_dim.gif';" alt="Decrease Font Size"></a></div>
+<div id="endPage" style="display:none;"></div>
 
 
 </body></html>
