@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sourcesecurity.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027073836id_/http%3A//www.sourcesecurity.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcesecurity.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517043248id_/http%3A//www.sourcesecurity.com/info/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - SourceSecurity.com, the complete security industry guide
+# Privacy Policy - SourceSecurity.com
 
 This document sets out the privacy policy of Notting Hill Media Limited, of which SourceSecurity.com is a division (“We”/”Us” and “Our”) and explains how We use your personal information (“Your Information”).
 
