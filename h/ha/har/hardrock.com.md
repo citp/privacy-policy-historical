@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216223321id_/http%3A//www.hardrock.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517160057id_/http%3A//www.hardrock.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Hard Rock Information
 
   
-|  [Privacy Policy](https://web.archive.org/web/20071216223321id_/http%3A//www.hardrock.com/privacy/privacy.asp)  
-[Safe Harbor](https://web.archive.org/web/20071216223321id_/http%3A//www.hardrock.com/privacy/safeharbor.asp)  
-[Terms of Use](https://web.archive.org/web/20071216223321id_/http%3A//www.hardrock.com/privacy/terms.asp)   
+|  [Privacy Policy](https://web.archive.org/web/20080517160057id_/http%3A//www.hardrock.com/privacy/privacy.asp)  
+[Safe Harbor](https://web.archive.org/web/20080517160057id_/http%3A//www.hardrock.com/privacy/safeharbor.asp)  
+[Terms of Use](https://web.archive.org/web/20080517160057id_/http%3A//www.hardrock.com/privacy/terms.asp)   
   
 | 
 
@@ -81,14 +81,5 @@ California residents who have provided personal information to Hard Rock may obt
 
 
 |   
-|  [](https://web.archive.org/corporate/)  
-[](https://web.archive.org/corporate/news/)  
-[](https://web.archive.org/corporate/management/)  
-[](https://web.archive.org/corporate/history/)  
-[](https://web.archive.org/corporate/press/default.aspx)  
-[](https://web.archive.org/corporate/careers/)  
-[](https://web.archive.org/corporate/faq/)  
-[](https://web.archive.org/corporate/community/)  
-[](https://web.archive.org/corporate/logos/logos.asp)  
-[](https://web.archive.org/corporate/contactus/)  
-
+|  [  
+](https://web.archive.org/corporate/)
