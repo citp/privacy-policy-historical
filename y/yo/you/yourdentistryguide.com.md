@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdentistryguide.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214170241id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdentistryguide.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517142055id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Consumer Guide to Dentistry
 
@@ -42,5 +42,5 @@ You have the opportunity to access other sites from this website, by clicking on
 
 Back to Top
 
-© 2006-07 [Ceatus Media Group LLC](http://www.ceatus.com/)  
-Consumer Guide to Dentistry is a trademark of Ceatus Media Group. All images and text on this site belong to Ceatus Media Group or respective copyright holders as indicated. Copying or reproducing any text or graphics from this website is strictly prohibited by US and international copyright laws. Please read our [Copyright Infringement Policy.](https://web.archive.org/copyright/)
+© 2006-08 [Ceatus Media Group LLC](http://www.ceatus.com/)  
+Consumer Guide to Dentistry is a registered trademark of Ceatus Media Group. All images and text on this site belong to Ceatus Media Group or respective copyright holders as indicated. Copying or reproducing any text or graphics from this website is strictly prohibited by US and international copyright laws. Please read our [Copyright Infringement Policy.](https://web.archive.org/copyright/)
