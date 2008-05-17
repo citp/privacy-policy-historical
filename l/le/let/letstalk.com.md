@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025055435id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517085700id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
 
 # Privacy & Security
 
 Privacy Policy  
-_Last Updated: 10/2/2007_
+_Last Updated: 11/19/2007_
 
 **Your Privacy Is Not for Sale**  
 Simply put, we do not and will not sell your personally identifiable information to anyone, for any reason. 
@@ -12,7 +12,7 @@ LetsTalk.com is committed to protecting your privacy and providing a secure shop
 
 LetsTalk is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [www.letstalk.com](http://www.letstalk.com/). Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/about/emailsubmit.htm?htId=6) by e-mail. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/about/emailsubmit.htm?htId=6) by e-mail through our online form. [Click here](https://web.archive.org/about/emailsubmit.htm?htId=6) to access it. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the website to resolve users concerns. 
 
   * What kind of information do we collect?  
 We collect information at several stages during your interaction with LetsTalk.com. When you first enter our site, we note your IP address in connection to your shopping cart and to help with administrating the site. As you browse the site, we record your zipcode via a cookie so we can serve more location specific information on your next visit. (Learn more about [cookies](https://web.archive.org/about/security1.htm#cookie)) 
@@ -25,6 +25,8 @@ Not a problem, you may contact [Customer Service](https://web.archive.org/about/
 Your contact and shipping information is given to the carriers providing your wireless service, the manufacturer making the product you purchase, the store you purchased from and Federal Express or UPS. We also work with service providers who provide services, including but not limited to web hosting, order processing and fulfillment, credit card clearance, data analysis, e-mailing and other services of an administrative nature. Your contact information is shared with such third parties exclusively for the purposes of providing such services. We require service providers to agree to use our customer data strictly for the purposes described above and to not use it for their own marketing purposes; however, we cannot be responsible for the privacy policies or practices of such third parties. From time to time, we may present offers to you from trusted third party partners. If you provide us with specific instruction and consent we will provide your information to these third parties. 
 
 LetsTalk.com uses your information to follow-up on your order and to provide you updated information on our company, products and services. Your service provider and manufacturer may also send you similar information. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies will NOT have access to or use any personally identifiable information (including your name, address, email address or telephone number) but will use other non-personal information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp>.
 
 Our site provides the opportunity to opt-in to receive mailings without purchasing from LetsTalk.com. All promotional newsletters have instructions on how to be removed from our mailing list or unsubscribe. Subscribers may also contact us [via email](https://web.archive.org/about/emailsubmit.htm?htId=6). We do not collect email addresses of recipients of newsletters forwarded by LetsTalk.com subscribers. 
 
@@ -41,11 +43,18 @@ We are located at:
 If you have placed an order with us we retain your order information for a minimum of one year. If you wish to change any of that information or request us to delete it, you may contact Customer Service [ by mail](https://web.archive.org/about/contact1.htm#mailing_address) or [email](https://web.archive.org/about/contactletstalk.htm) with your request. It may be necessary for us to retain your customer information for several months for chargeback purposes, should you cancel phone service with a carrier, but in any case we are able to, we will happily update or remove your data from our systems. 
 
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site, or as required by law. 
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our website, or as required by law. 
 
-LetsTalk User Submitted Reviews: We discourage you from entering any personal information and please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. It is not required for you to submit personally identifiable information to enable you to submit a review. 
+**LetsTalk User Submitted Reviews & Blogs:** We discourage you from entering any personal information and please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties of these forums. It is not required for you to submit personally identifiable information to enable you to submit a review and we are not responsible for the personally identifiable information you choose to submit in these forums. 
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days. 
+If you choose to use our Refer a Friend service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site to redeem their credit. LetsTalk stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend must opt-in to the program to participate, and you will not receive a credit unless they purchase a phone. Your friend may contact us [via email](https://web.archive.org/about/emailsubmit.htm?htId=6) to request that we remove this information from our database or they may simply not opt-in to participate in the program. 
+
+**Links to Other Sites**   
+This website contains links to other sites that are not owned or controlled by LetsTalk. Please be aware that we, LetsTalk, are not responsible for the privacy practices of such other sites. Please be aware that some sites may have the look and feel of LetsTalk. 
+
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website. 
+
+If we decide to change the essense of our privacy policy we will post a prominent notice of those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our website for 30 days. 
 
 Security  
 Why shopping with LetsTalk.com is safe.  
@@ -77,19 +86,33 @@ Although LetsTalk cookies cannot harm your computer and do not contain any perso
 How to enable session cookies:  
 (If you do not know your browser version, click on help in your browser menu and then click the About... option) 
 
-Microsoft Internet Explorer 6.0  
+[Microsoft](http://www.letstalk.com/product/browse.htm?pgId=100&tNav=1&paId=2088) Internet Explorer 6.0 and 7.0  
+
 
   * Select Tools -> Internet Options and click on the "Privacy" tab. 
   * In Settings, click on "Advanced". 
   * To edit the default settings (which do allow permanent cookies) check the box that reads "Override Automatic Cookie Handling". 
   * This will allow you to set First & Third Party cookie handling. (For LetsTalk.com you may set any option you want to here, including Blocking Cookies.) 
-  * You must check the box that reads, "Always allow session cookies".
+  * You must check the box that reads, "Always allow session cookies". 
 
-Microsoft Internet Explorer 5.0  
+
+
+[Microsoft](http://www.letstalk.com/product/browse.htm?pgId=100&tNav=1&paId=2088) Internet Explorer 5.0  
 
 
   * Select Tools -> Internet Options and click on the "Security" tab. 
-  * The default selection, "Medium," supports cookies, but you can click on the "Custom Level" button to check. Scroll down until you see the word "Cookies" and verify that the radio button next to "Enable" is selected in both options. 
+  * The default selection, "Medium," supports cookies, but you can click on the "Custom Level" button to check. Scroll down until you see the word "Cookies" and verify that the radio button next to "Enable" is selected in both options.
+
+Mozilla Firefox 1.8  
+
+
+  * Select Tools -> Options and click on "Privacy" in the list on the left. 
+  * Select the "Cookies" tab which will expand the view for Cookies 
+  * Beneath "Allow sites to set cookies" also check the box "for the originating website only" 
+  * You may also change the default setting for Keep Cookies from "until they expire" -> "until I close Firefox". 
+  * Click OK 
+
+
 
 Mozilla Firefox 1.0.6  
 
@@ -98,20 +121,54 @@ Mozilla Firefox 1.0.6
   * Select Cookies '+' which will expand the view for Cookies 
   * Beneath "Allow sites to set cookies" also check the box "for the originating website only" 
   * You may also change the default setting for Keep Cookies from "until they expire" -> "until I close Firefox". 
-  * Click OK
+  * Click OK 
+
+
+
+Netscape 8.1  
+
+
+  * Select Tools -> Options 
+  * In "Options" dialogue box, go to Security and Privacy (right column) and click on the Privacy link. Select Cookies '+' which will expand the view for Cookies 
+  * In "Keep Cookies" drop-down menu -> "until I close Netscape" 
+  * Click OK 
+
+
 
 Netscape 7.0  
 
 
   * Select Edit -> Preferences -> Click Privacy & Security -> Cookies 
   * You must select one of the 3 "Enable Cookies" options (Enable All, Enable for originating web site or Enable based on privacy settings) 
-  * You may then check the box that reads, "Limit maximum lifetime of cookies to: Current Session"
+  * You may then check the box that reads, "Limit maximum lifetime of cookies to: Current Session" 
+
+
 
 Netscape 6.0  
 
 
   * Select Edit -> Preferences -> Click Privacy & Security -> Cookies 
-  * You may select "Enable Cookies for the originating web site only"
+  * You may select "Enable Cookies for the originating web site only" 
+
+
+
+Opera 9.2  
+
+
+  * Select Tools -> Preferences -> and click on the Advanced tab. 
+  * Click Cookies in the left column 
+  * Select radio button "Accept only cookies from the site I visit" 
+  * You may also check the box underneath that says "Delete new cookies when exiting Opera" 
+  * Click OK 
+
+Addtionally, this version of Opera allows you to set different settings for different sites. If you want to set a custom setting for Letstalk that will not override settings that you currently have for other sites: 
+  * Under header "Cookie settings can be adapted to each site" -> Manage Cookies 
+  * Click on "Add..." button -> General tab. In the "Site" filed, type "http://[www.letstalk.com](http://www.letstalk.com/product/browse.htm?pgId=100&tNav=1)". Click on Cookies tab 
+  * Select radio button "Accept only cookies from the site I visit" 
+  * You may also check the box underneath that says "Delete new cookies when exiting Opera" 
+  * Click OK 
+
+
 
 Opera 8.01  
 
@@ -120,13 +177,22 @@ Opera 8.01
   * Click Cookies in the left column 
   * Under Normal cookies set, "Let me decide each time I receive one" 
   * Under Third Party cookies set, "Accept only cookies set to the server itself". 
-  * Click OK
+  * Click OK 
+
+
+
+Safari 2.0  
+
+
+  * Choose Preferences from the Safari menu -> Security. Select Never if you don't want to store any cookies on your computer. This may prevent you from using some websites. 
+  * Click Always to accept and remember all cookies 
+  * Click "Only from sites you navigate to" to prevent storing cookies that come from websites other than those you open. 
+  * To see the cookies you have accepted, click Show Cookies. You can then remove cookies. 
+
+
 
 All other browsers  
 Please consult your documentation or online help files. 
-
-
-
 
 [](https://web.archive.org/about/security1.htm#TOP)
 
