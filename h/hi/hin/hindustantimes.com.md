@@ -1,99 +1,106 @@
-> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218171904id_/http%3A//hindustantimes.com/nonfram/260901/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517134244id_/http%3A//hindustantimes.com/news/specials/privacypolicy/privacypolicy.shtml) for the most accurate reproduction.*
 
-# Hindustantimes.com - Policy
+# Hindustan Times
 
-**_
+|   
+---  
+Privacy Policy  
+  
+The Privacy Policy (hereinafter "the policy") provided below is with respect to our use and protection of any personal information you provide to us through the hindustantimes.com website.
 
-#### Privacy Statement
+HT Media Ltd. is the sole owner of the website www.hindustantimes.com (hereinafter "website"). The Policy is applicable to the website. It may also be applicable generally to our other related websites provided it appears at the footer of the page therein. 
 
-_**
+You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy.  
+  
+  
+Information Collection  
+  
+You can visit/surf our website without providing any personal information. However, if you choose to avail of certain services on our website, you shall be required to provide certain information for the registration and/or access to such services/web pages. Such information may include, without limitation, your name, email address, contact address, mobile/telephone number(s), sex, age, occupation, interests, financial information, content, IP address, standard web log information and such other information as may be required for your interaction with the services.   
+  
+  
+Use  
+  
+If you choose to provide us with the abovementioned information, you consent to the use, transfer and storage of the information so provided by you on our servers. The information provided by you shall not be sold/given/rented to third parties (third parties for this purpose do not include our group / holding / subsidiary companies and or our service partners / associates) for marketing purposes and other related activities without your prior consent. 
 
-Users of this web site, being the hindustantimes.com web site or any other web site amongst its network of web sites (collectively the "hindustantimes Websites") should read the contents hereof forming the Privacy Statement through which the hindustantimes Websites are attempting to define the privacy parameters and use of certain personal information collected from its users online, while such users are accessing and making use of, the various Services available to them on the hindustantimes Websites, such information being your name, home or business address, gender, year of birth, occupation, telephone or fax phone numbers and e-mail address which you agree, in consideration for access to and use of the Services provided on the hindustantimes Websites, to provide as current, complete, and accurate registration information (the "Registration Data") as prompted to do by the Site, and to maintain and update this Registration Data as required to keep it current, complete and accurate. All Registration Data will be utilised by hindustantimes Websites or any of them only in accordance with the discretion exercised by you, the user, at the time of providing the Registration Data. 
+The information provided by you shall be used by us to:
 
-Please be advised that your access and use, of each hindustantimes Website is subject to this Privacy Statement, unless specific Privacy Statements are contained within each hindustantimes Website. If any of the statements, terms, conditions and notices contained in this Privacy Statement conflict with those stated or contained within any other particular hindustantimes Website, then the Privacy Statement contained on such hindustantimes Website shall control the access and use of that specific hindustantimes Website. 
+* Improve our website and enable us to provide you the most user-friendly experience which is safe, smooth and customized;
+* Improve and customize our services, content and other commercial /non \- commercial features on the website;
+* Send you information on our products, services, special deals, promotions;
+* Send you marketing/promotional communications (If you do not wish to receive such marketing/promotional communications from us you may indicate your preferences at the time of registration or by following the instructions provided on the website or by providing instructions to this effect);
+* Send newsletter(s) to you (Provided you subscribe to the same); 
+* Send you service-related announcements on rare occasions when it is necessary to do so; 
+* Provide you the opportunity to participate in contests or surveys on our website (If you participate, we may request certain additional personally identifiable information from you. Moreover, participation in these surveys or contests is shall be completely voluntary and you therefore shall have a choice whether or not to disclose such additional information);
+* Provide customer support and the services you request;
+* Resolve disputes, if any and troubleshooting;
+* Avoid/check illegal and/or potentially prohibited activities and to enforce Agreements ; 
+* Provide service updates and promotional offers related to our services/products. 
+* Comply with any court judgment / decree / order / directive / legal & government authority /applicable law;
+* Investigate potential violations or applicable national & international laws;
+* Investigate deliberate damage to the website/services or its legitimate operation;
+* Detect, prevent, or otherwise address security and/or technical issues; 
+* Protect the rights, property or safety of HTML and/or its Directors, employees and the general public at large; and 
+* Respond to Claims of third parties; 
 
-All capitalised terms used in this Privacy Statement and not specifically defined have the same meaning as given to them in the hindustantimes Websites General Terms of Use. You can go to Terms to cross reference the General Terms of Use that apply to the hindustantimes Websites. 
+The personal information provided by you shall also be disclosed to:
 
-We reserve the right, at our discretion, to make Modifications to this Privacy Statement, at any time, and will make sincere efforts to inform you of such Modifications. Please help us by checking this Privacy Statement periodically for such Modifications. Your continued access to the hindustantimes Websites following the posting of Modifications will mean you accept those Modifications. 
+* The members of our corporate family, affiliates, service providers and third parties under a contract to provide joint services, contents and marketing communications; and 
+* Other third parties to whom you explicitly require us to send the information; 
 
-By your accessing the hindustantimes Websites you agree to respect the privacy of other users on the hindustantimes Websites and maintain the same information given to or accessed by you or in any other manner available to you, as private and confidential unless otherwise agreed. 
+If you choose to use our referral service to tell a friend about our website, we will ask you for your friend's name and email address. We will automatically send your friend an email inviting him or her to visit the website. However, your friend may contact us to request that he does not require such services/content/email or we remove the information related to him from our database.
 
-#### 1\. Registration Data 
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries with respect to our services/content, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
-The Registration Data and such other Personal Information as defined hereinbelow that you may provide us, at your discretion, helps us to create the hindustantimes Websites experience, one which is reasonably suited to your requirements. Furthermore, once you have registered with the hindustantimes Websites you will be provided a hindustantimes ID to enable you to avail of such Services that you may choose. Personal Information for the purpose of this Privacy Statement shall mean such information as shall be provided by you at your discretion, when required or asked for by the hindustantimes Websites other than the Registration Data. In general, addresses (the Internet address of a computer) are logged to track a user's session while the user remains anonymous. We analyse this data for certain trends and statistics, such as which parts of our hindustantimes Websites users are visiting and how long they spend there. In general, we do not link your IP addresses to anything personally identifiable to you. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submitted to us with information from third party sources (third parties for this purpose may include our group / holding / subsidiary companies and or our service partners / associates).
 
-#### 2\. Cookies
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.   
+  
+  
+Cookies  
+  
+We use cookies on the website but do not link the information we store in cookies to any personally identifiable information you submit while on our website. We do not set cookies to store your passwords. If you reject cookies, you will still use our website. 
 
-One of the other ways that hindustantimes Websites may collect personal information is through the use of cookies which we use for several things such as for estimating the number of users that a particular area within the hindustantimes Website attracts, to access your Registration Data once we get to know of your identity and your area of visit or in the case of any shopping sites, to assist the vendors on the website to better understand their audience, their shopping patterns and the kind of pages visited by the users to such vendors' webstore. Some of the other usage's of cookies are to track your status in any event such as a contest hosted by the hindustantimes Websites or by any of their partners or sponsors.
+We have no access to or control over third party cookies and we don't store any cookies and just use the facility of .net framework for page output cache. This privacy statement does not cover the use of cookies by any advertisers.  
+  
+  
+Changing Your Personal Information  
+  
+You can access and modify your personal information by signing on to the website. We will not modify the information provided by you. However, you must update your personal information as soon as such changes are necessitated. 
 
-For your better understanding let us explain what a cookie is. A cookie is a small data file that certain web sites write to your hard drive when you visit them. A cookie is a commonly used tool, and is generally used across the industry to provide useful features for their customers. A cookie file can contain information such as user ID that the particular hindustantimes Website uses to track the pages you have visited. But the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. As part of our efforts to offer and provide customized and personalized services, hindustantimes Websites use cookies to store and sometimes track information about you. Almost all sites on hindustantimes Websites where you are prompted to log-in or that are customized require that you accept cookies. 
+Where you make a public posting, you may not be able to change or remove it nor shall you be able to close your account. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law(s). However, we will retain your personal information from closed accounts to comply with law, Avoid/check illegal and/or potentially prohibited activities and to enforce User Agreements; Comply with any court judgment / decree / order / directive / legal & government authority /applicable law; Investigate potential violations or applicable national & international laws; Investigate deliberate damage to the website/services or its legitimate operation; Detect, prevent, or otherwise address security and/or technical issues; Protect the rights, property or safety of HTML and/or its Directors, employees and the general public at large; Respond to Claims of third parties; and take such other actions as may be permitted by law.   
+  
+  
+Account Protection  
+  
+Your password is the key to your account. You shall be solely responsible for all the activities happening under your username and you shall be solely responsible for keeping your password secure. Do not disclose your password to anyone. If you share your password or your personal information with others, you shall be solely responsible for all actions taken under your username and you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.   
+  
+  
+Business Transaction  
+  
+In the event HT Media Ltd. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. Where your information is transferred you will be notified via email/prominent notice on our website for 30 days of any such change in ownership or control of your personal information.  
+  
+  
+Security  
+  
+The security of your personal information is important to us. When you enter your personal information we treat the data as an asset that must be protected and use tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security nor can we guarantee that third parties shall not unlawfully intercept or access transmissions or private communications, and that other users may abuse or misuse your personal information that you provide. Therefore, although we work hard to protect your information, we do not promise, and you should not expect, that your personal information or private communications will always remain private.   
+  
+  
+Links to Other Sites  
+  
+The website contains links to other sites that are not owned or controlled by HT Media Ltd. Please be aware that we, HT Media Ltd. and/or the website, are not responsible for the privacy practices of such other sites. 
 
-You may exercise your discretion as regards cookies at any time by modifying your browser preferences. By so doing you have the choice of accepting or rejecting cookies (rejection of all cookies will disable you to use those hindustantimes Websites' Services where registration is required for participation), or of being notified when one is set.
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
 
-Third party sponsors, alliance partners of hindustantimes Websites or advertisers may have cookies developed and controlled by them on the hindustantimes Websites. We do not have access to these cookies or any information that they may contain. 
+This privacy statement applies only to information collected by the website or to our other related websites provided it appears at the footer of the page therein. It does not apply to third party advertisements which appear on our websites and we suggest you read the privacy statements of such advertisers.  
+  
+  
+Changes in this Privacy Statement  
+  
+If we decide to change our privacy policy, we will post those changes to this privacy statement and such other places we deem appropriate so that you are updated about the manner we collect information, what information we collect, how we use it and under what circumstances, if any, we disclose it.   
+We reserve the right to modify this privacy statement at any time, so please review it frequently at   
+  
+  
+Contact Us  
+  
+If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.htmedia.in/news/specials/htmedia/contact/index.shtml)  
 
-#### 3\. Our Alliance/Business Partners and Sponsors 
-
-You do understand and appreciate that in order to provide the Services, many of which are free the support of our sponsors and advertisers is indeed critical and invaluable to the hindustantimes Websites We try and put our efforts in providing only such advertisements and content as may be of potential use and particular interest to you. We may conduct this targeting of specific audiences through banner advertisements and/or e-mail, based on the profiles and parameters in respect of the target audience as may be desired by the advertiser. We make our best efforts to disallow the advertisers direct access to your individual account information. hindustantimes Websites may undertake research on your personal profile, areas of interests, and behaviour based on the Registration Data and Personal Information provided by you, and analyse the research on an aggregated basis, which the hindustantimes Websites may share with their advertisers and/ or alliance/business partners.
-
-By accessing the hindustantimes Websites or any of them, you agree and grant the hindustantimes Websites the right to disclose the aggregate Registration Data and Personal Information to third parties in connection with marketing the hindustantimes Websites and Services and that the hindustantimes Websites may themselves choose to use your individual Registration Data and Personal Information to provide targeting of advertisements and other offers of the Services through banner advertisements, e-mails or otherwise. 
-
-#### 4\. Disclosure by the hindustantimes Websites
-
-The hindustantimes Websites will not, in the normal course, disclose your Registration Data or Personal Information, save and except 
-
-(i) with your permission, as exercised by your discretion; or
-
-(ii) when required under law to do so; or 
-
-(iii) when such disclosure is in our opinion, necessary to maintain the operations and servicing of the hindustantimes Websites and systems or improve our Services. 
-
-(iv) when such disclosure is in our opinion necessary, to protect and defend the rights and property of the hindustantimes Websites; or
-
-(v) when such disclosure is in our opinion necessary, to act in an emergency to protect the personal safety of our users or the public. 
-
-(vi) when such disclosure is in our opinion necessary, to identify, contact or bring legal action against someone who may be violating the General Terms of Use of the hindustantimes Websites. 
-
-#### 5\. Optional Use of Information 
-
-Some of the other ways in which we may use your information, if necessary, is for enabling transactions to take place on the hindustantimes Websites that you choose to avail of in a manner due and commercially viable to both yourself and the vendor/merchant whose store/website you may visit and where any third party interaction is required, such as your credit card number and contact information. Please be advised that the hindustantimes Websites have no responsibility or take no liability for the policies regarding privacy and data collection that the vendors/merchants or third parties may have, which are independent of this Privacy Statement. 
-
-Further, we may share your Personal Information with our various alliance/business partners or sponsors. Certain data collected during a hindustantimes Website promotion may be shared with a alliance/business partners or sponsors, in accordance with the discretion exercised by you at the time of registration or when you chose to participate in such promotion. You should be aware that at any time where you are given the opportunity to seek information from alliance/business partners or sponsors, you by the act of so requesting, for such information from our alliance/business partners or sponsors give the hindustantimes Websites permission to transfer your personal information to such alliance/business partners or sponsor so they can service you accordingly. If you do not wish to allow your data to be shared with our various alliance/business partners, sponsors, or third parties that you may interact with, you can choose not to use a particular service or not to participate in certain promotions or contests. 
-
-As stated earlier and as agreed and granted by you the hindustantimes Webster may disclose aggregated user statistics to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
-
-#### 6\. Links
-
-Please be advised that this Privacy Statement does not cover the information practices of those web sites linked to hindustantimes Websites.
-
-hindustantimes Websites are not responsible for the content or the privacy policies of web sites to which its sites are linked in any manner or means. Such links to third party web sites on hindustantimes Websites are provided solely as a convenience to you And these may collect personally identifiable information about you hindustantimes Websites has not reviewed all of such third party sites and does not endorse or make any representations or commitments about or on them, or on any information, software or other products or materials or advertisements found there, or any results/benefits that may be obtained from using them. If you decide to access any of the third party sites linked to hindustantimes Websites, you do so entirely on your own responsibility. This Privacy Statement does not cover the information practices of those web sites linked to hindustantimes Websites. Further, hindustantimes Websites do not control the availability of such third party web sites. Any concerns regarding any such service or resource or third party web site, or any link thereto, should be directed to the particular service or resource. 
-
-#### 7\. Health and Financial Information
-
-It is important to us to keep private any personal financial and health-related information connected with users. Knowing that you use certain services or features may help us to offer you better and more relevant content and advertisements. But we do not make this available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding financial products or health related service usage on hindustantimes Websites are provided in the aggregate only and do not include any personally identifiable information about any individual user. 
-
-Please note that secure socket encryption is utilised for the transmission of credit card numbers when asked for in respect of a transaction. 
-
-**
-
-8\. Security
-
-**
-
-Please remember that protection of your privacy begins with you and you have the sole responsibility therefor. At the bare minimum, in order to avoid others from accessing your personal information and correspondence, you should adhere to the following:
-
-a) do not reveal your password to anyone; 
-
-b) sign out of your hindustantimes Websites account when you are done; 
-
-c) close your browser window when you are done. 
-
-Please read the General Terms of Use pertaining to your undertakings with regard to use of the Services on or through the hindustantimes Websites.
-
-Further, please keep in mind that information that has been voluntarily disclosed on a forum that is accessible to public can be accessed and utilised by others and on account of such access you may receive unsolicited messages from such parties who access such information. Also, please be advised that you should not reveal your password if you should receive any unsolicited email or phone call requiring you to so reveal your password as it is not the practice of hindustantimes Websites to require users to reveal their passwords in such an unsolicited manner. 
-
-Whenever hindustantimes Websites handle personal information as described above hindustantimes Websites use their best efforts, to ensure that such personal information is handled in accordance with the relevant General Terms of Use and this Privacy Statement. 
-
-You understand and acknowledge that transmission of data over the Internet cannot always be completely secure. hindustantimes Websites use their best efforts to protect your personal information but cannot and do not warrant the security of any information, and you must do so at your own risk. The hindustantimes Websites assume no liability for disclosure of data due to, errors in transmission or unauthorised third parties. 
-
-We remind you that this Privacy Statement is subject to Modifications at any time and we will make sincere efforts to inform you of such Modifications. Please help us by checking this Privacy Statement periodically for such Modifications. Your continued access to the hindustantimes Websites following the posting of Modifications will mean you accept those Modifications.
