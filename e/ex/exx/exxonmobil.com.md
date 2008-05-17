@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exxonmobil.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222231503id_/http%3A//www.exxonmobil.com/Global-All/Legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exxonmobil.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518005228id_/http%3A//www.exxonmobil.com/Global-All/Legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
