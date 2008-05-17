@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the rent-acoder.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226013607id_/http%3A//www.rent-acoder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent-acoder.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517111050id_/http%3A//www.rent-acoder.com/rent_a_coder_privacy_policy.php) for the most accurate reproduction.*
 
-# Rent-ACoder.com - Outsource your projects. Web Design and Development, Programming, Freelance programmers, Work from Home, Freelance writers.
+# Rent A Coder - Hire Freelancers - Outsource Projects - Webdesign - Work From Home - Quality Job - Outsource Job - Online Business - Bid For Projects
 
----  
   
+
+
 [Rent-ACoder.com](http://www.rent-acoder.com/) is committed to respecting your right to privacy while using our site. This Privacy Policy contains information regarding our privacy practices for the entire [Rent-ACoder.com](http://www.rent-acoder.com/) site and subsidiary sites. 
 
 Information Collection and Use   
@@ -31,6 +32,3 @@ Security
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. No one can view your account information without your password, which you can change anytime you want. Credit Card information is not an issue since [Rent-ACoder.com](http://www.rent-acoder.com/) uses a third party service for secure credit card transactions. 
 
 The use of our Web Site is solely at their own risk on an "as is", "as available" basis. Information on our Web Site is provided for general purposes only and is not intended to render accounting, tax, consultative, investment, consulting, legal or other professional advice or services, in any form. 
-
-  
-
