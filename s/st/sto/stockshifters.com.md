@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockshifters.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507104448id_/http%3A//www.stockshifters.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockshifters.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517025121id_/http%3A//www.stockshifters.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,11 +7,14 @@
   
 **Summary**
 
-Stockshifters.com is committed to protecting your privacy, and takes its responsibilities regarding the security of information provided to us by customers very seriously. This policy explains how we use any information you provide to us, and how we protect your privacy.
+Stockshifters is committed to protecting your privacy, and takes its responsibilities regarding the security of information provided to us by customers very seriously. This policy explains how we use any information you provide to us, and how we protect your privacy.
 
-In essence, we do not ask you for any more information than would reasonably be asked of any business seeking to carry out transactions with another business, and where this information is provided over the web, we have Verisign certification for the secure parts of our site and for the transfer of information between us, you and the site. 
+  
 
-We particularly draw to your attention this extract from the following detailed policies: Stockshifters.com is a business to business site. Given proper proof both of the identity of the persons representing an organisation, and of their relevant position in the organisation, we undertake to disclose to any organisation the full details of any information we hold about any registrants or transactions undertaken on the organisation's behalf. For this reason, when entering information on behalf of an organisation, including information about yourself as an employee or representative of the organisation, you should be clearly aware that that information could be disclosed, on reasonable demand, to properly accredited representatives of that organisation.   
+
+In essence, we do not ask you for any more information than would reasonably be asked of any business seeking to carry out transactions with another business. 
+
+We particularly draw to your attention this extract from the following detailed policies: Stockshifters is a business to business site. Given proper proof both of the identity of the persons representing an organisation, and of their relevant position in the organisation, we undertake to disclose to any organisation the full details of any information we hold about any registrants or transactions undertaken on the organisation's behalf. For this reason, when entering information on behalf of an organisation, including information about yourself as an employee or representative of the organisation, you should be clearly aware that that information could be disclosed, on reasonable demand, to properly accredited representatives of that organisation.   
   
    
   
@@ -35,7 +38,7 @@ Your feedback is an essential part of how we improve our service, bringing benef
 
 We make every effort to comply with the provisions of the UK Data Protection Acts of 1984 and 1998. We follow strict security procedures in the storage and disclosure of information that you have given us, to prevent unauthorised access. Our security procedures mean that we may request proof of identity before we are able to disclose sensitive information to you.
 
-The Stockshifters.com auction site is a business to business site. Given proper proof both of the identity of the persons representing an organisation, and of their relevant position in the organisation, we undertake to disclose to any organisation the full details of any information we hold about any registrants or transactions undertaken on the organisation's behalf. For this reason, when entering information on behalf of an organisation, including information about yourself as an employee or representative of the organisation, you should be clearly aware that that information will be disclosed on demand to properly accredited representatives of that organisation.   
+The Stockshifters auction site is a business to business site. Given proper proof both of the identity of the persons representing an organisation, and of their relevant position in the organisation, we undertake to disclose to any organisation the full details of any information we hold about any registrants or transactions undertaken on the organisation's behalf. For this reason, when entering information on behalf of an organisation, including information about yourself as an employee or representative of the organisation, you should be clearly aware that that information will be disclosed on demand to properly accredited representatives of that organisation.   
   
   
 **Cookies**
@@ -44,14 +47,14 @@ Cookies are small pieces of information that are stored by your browser on your 
   
 **Disclosure to Third Parties**
 
-Stockshifters.com does not sell, trade, or rent your information to others. We may provide aggregate statistics about our customers, sales, and related site information to reputable surveys or Government departments, but these statistics will include no identifying information.
+Stockshifters does not sell, trade, or rent your information to others. We may provide aggregate statistics about our customers, sales, and related site information to reputable surveys or Government departments, but these statistics will include no identifying information.
 
 The only people to whom we disclose information, that you have given to us, are properly accredited members of your own organisation, as discussed above in the Summary and under Security Facts.   
   
   
 **Your Consent**
 
-In using the Stockshifters.com auction web site, you consent to the collection and use of the information you provide to us by Stockshifters.com, according to the policies set out above.  
+In using the Stockshifters auction web site, you consent to the collection and use of the information you provide to us by Stockshifters, according to the policies set out above.  
   
 **Changes to our Privacy Policy**
 
