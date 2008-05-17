@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the merchantmoms.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213175217id_/http%3A//merchantmoms.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantmoms.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517143839id_/http%3A//merchantmoms.com/pages/privacy.php) for the most accurate reproduction.*
 
 # MerchantMoms.com
-
-## Due to the holidays we will not be accepting any new accounts from December 22, 2007 until January 4, 2007.
-
-  
-
 
 ## Privacy Statement for Merchant Moms
 
@@ -59,7 +54,7 @@ If you are an international User, by registering with Merchant Moms or by using 
 
 Clients who have registered in order to use our services can change or update their account information and preferences by: 
 
-  1. Visiting [your account page](https://web.archive.org/web/20071213175217id_/http%3A//welcome.php) or
+  1. Visiting [your account page](https://web.archive.org/web/20080517143839id_/http%3A//welcome.php) or
   2. [Creating a support ticket via our helpdesk](http://merchantmoms.com/helpdesk.php?subaction=helpdesk). 
 
 
@@ -72,7 +67,7 @@ From time to time we will email client prospects whom we have reason to believe 
 
 We provide subscribers to our email newsletters with the opportunity to opt-out of receiving promotional communications at the point when we request your information. After they have signed up, subscribers can change their preferences regarding promotional communications, can subscribe to and/or unsubscribe from any of our email newsletters, and can modify other registration information previously provided to us by: 
 
-  1. Visiting [your account page](https://web.archive.org/web/20071213175217id_/http%3A//welcome.php) or
+  1. Visiting [your account page](https://web.archive.org/web/20080517143839id_/http%3A//welcome.php) or
   2. Using the link provided at the bottom of any email newsletter we send to you.
 
 
