@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toxicjunction.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213224442id_/http%3A//www.toxicjunction.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toxicjunction.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517131100id_/http%3A//www.toxicjunction.com/privacy.asp) for the most accurate reproduction.*
 
 # About Toxic Junction
 
