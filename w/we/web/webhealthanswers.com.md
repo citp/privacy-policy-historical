@@ -1,39 +1,18 @@
-> *The following text is extracted and transformed from the webhealthanswers.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029215544id_/http%3A//webhealthanswers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhealthanswers.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517023157id_/http%3A//webhealthanswers.com/privacy-policy.html) for the most accurate reproduction.*
 
-# WebHealthAnswers.com :: The Health Knowledge Network - Privacy Policy
+# Privacy Policy
 
-|  |  Main Menu   
----  
-| [Home](http://www.webhealthanswers.com/Home/)  
----  
-[Health Condition Center](http://www.webhealthanswers.com/Health-Condition-Center/)  
-[Health Blog](http://www.webhealthanswers.com/Health-Blog/)  
-[Women Health](http://www.webhealthanswers.com/General/Women-Health-Zone/)  
-[Beauty and Skin](http://www.webhealthanswers.com/General/Beauty-and-Skin-Zone/)  
-[Exercise and Fitness](http://www.webhealthanswers.com/General/Fitness-Zone/)  
-[Food and Nutrition](http://www.webhealthanswers.com/General/Food-and-Nutrition-Zone/)  
-[Sex and Relationships](http://www.webhealthanswers.com/General/Sex-and-Relationships/)  
-[Mens Health](http://www.webhealthanswers.com/General/Mens-Health/)  
-[Baby and Childrens](http://www.webhealthanswers.com/General/Baby-and-Childrens-Zone/)  
-[General Health](http://www.webhealthanswers.com/General/General-Health-Zone/)  
-[Contact Us](http://www.webhealthanswers.com/Contact-Us/)  
-[About Us](http://www.webhealthanswers.com/About-us.html)  
-[Search](http://www.webhealthanswers.com/Search/)  
-[Link Exchange](http://www.webhealthanswers.com/Link-Exchange/)  
-|  Privacy Policy  |  [ ](http://www.webhealthanswers.com/index2.php?option=com_content&do_pdf=1&id=646 "PDF") |  [ ](http://www.webhealthanswers.com/index2.php?option=com_content&task=view&id=646&pop=1&page=0 "Print") |  [ ](http://www.webhealthanswers.com/index2.php?option=com_content&task=emailform&id=646&itemid=99999999 "E-mail")  
----|---|---|---  
-  
- WebHealthAnswers.com ("The Site") has created this privacy statement in order to demonstrate our firm commitment to privacy. This Web site provides health information and resources. We understand that health is a personal and private matter, and we do not want you to have to be concerned about the security or use of any information you provide to us. The following discloses our information gathering and dissemination practices for the Web site, WebHealthAnswers.com.
+WebHealthAnswers.com ("The Site") has created this privacy statement in order to demonstrate our firm commitment to privacy. This Web site provides health information and resources. We understand that health is a personal and private matter, and we do not want you to have to be concerned about the security or use of any information you provide to us. The following discloses our information gathering and dissemination practices for the Web site, WebHealthAnswers.com.
 
-WebHealthAnswers.com does not sell, trade, or rent the personal identifying information of its users to third parties. WebHealthAnswers.com collects no personal identifying information about its users except when specifically and knowingly provided by such users. Many of the services on our site are offered without our collecting any personally identifiable information from you. You can visit WebHealthAnswers.com and view most of our sites content and sections while remaining anonymous. A user's personal identifying information may be used by WebHealthAnswers.com to improve its services to its users. Users who have requested updates may receive information from WebHealthAnswers.com on new health therapies, products and services that may help them better manage their care. Any information received is not an endorsement or opinion of WebHealthAnswers.com regarding any treatment option, product or service. Users who receive a requested update, will always have the ability at any time to opt out of receiving any future information. WebHealthAnswers.com may offer its users online surveys and questionnaires that ask users for opinions and/or other information. Such surveys are completely voluntary. Any information submitted may be shared with other companies on an aggregate basis, but WebHealthAnswers.com will not provide such companies with any information regarding the identity of any individual user. 
+WebHealthAnswers.com does not sell, trade, or rent the personal identifying information of its users to third parties. WebHealthAnswers.com collects no personal identifying information about its users except when specifically and knowingly provided by such users. Many of the services on our site are offered without our collecting any personally identifiable information from you. You can visit WebHealthAnswers.com and view most of our sites content and sections while remaining anonymous. A user's personal identifying information may be used by WebHealthAnswers.com to improve its services to its users. Users who have requested updates may receive information from WebHealthAnswers.com on new health therapies, products and services that may help them better manage their care. Any information received is not an endorsement or opinion of WebHealthAnswers.com regarding any treatment option, product or service. Users who receive a requested update, will always have the ability at any time to opt out of receiving any future information. WebHealthAnswers.com may offer its users online surveys and questionnaires that ask users for opinions and/or other information. Such surveys are completely voluntary. Any information submitted may be shared with other companies on an aggregate basis, but WebHealthAnswers.com will not provide such companies with any information regarding the identity of any individual user.
 
-**Passive Information Collection Practices**
+ **Passive Information Collection Practices**
 
-**Aggregate information:** Users should know that WebHealthAnswers.com may place a "cookie" in the browser files of the user's computer. The cookie does not contain any personal identifying information. The information tracked provides information such as your browser type, the type of operating systems you use, the domain of your Internet service provider, and pages visited on the site. Most web browsers automatically accept cookies, but a user can usually modify their browser to prevent cookies from being accepted. 
+ **Aggregate information:** Users should know that WebHealthAnswers.com may place a "cookie" in the browser files of the user's computer. The cookie does not contain any personal identifying information. The information tracked provides information such as your browser type, the type of operating systems you use, the domain of your Internet service provider, and pages visited on the site. Most web browsers automatically accept cookies, but a user can usually modify their browser to prevent cookies from being accepted.
 
-**IP Addresses:** An IP address is a number automatically assigned to your computer whenever you access the Internet. All computer identification on the Internet is conducted with IP addresses, which allow computers and servers to recognize and communicate with each other. The Company collects IP addresses in order to conduct system administration, report aggregate information to partners, sponsors and advertisers, and to conduct site analysis. To maintain visitor anonymity, the Company does not associate IP addresses with records containing personal information. However, the Company will use IP addresses to identify any visitors who refuse to comply with WebHealthAnswers.com 's rules or Terms and Conditions. 
+ **IP Addresses:** An IP address is a number automatically assigned to your computer whenever you access the Internet. All computer identification on the Internet is conducted with IP addresses, which allow computers and servers to recognize and communicate with each other. The Company collects IP addresses in order to conduct system administration, report aggregate information to partners, sponsors and advertisers, and to conduct site analysis. To maintain visitor anonymity, the Company does not associate IP addresses with records containing personal information. However, the Company will use IP addresses to identify any visitors who refuse to comply with WebHealthAnswers.com 's rules or Terms and Conditions.
 
-**Active Information Collection**
+ **Active Information Collection**
 
  **About Children:** This site is not intended for children under the age of 13. We will not knowingly collect information from site visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Websites.
 
@@ -51,17 +30,8 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 **Contact Information**
 
-Site visitors who have questions about this privacy statement, the privacy practices of this site, or their dealings with this Web site insofar as their privacy and confidentiality are concerned, should contact [admin@WebHealthAnswers.com](mailto:admin@WebHealthAnswers.com) . 
+Site visitors who have questions about this privacy statement, the privacy practices of this site, or their dealings with this Web site insofar as their privacy and confidentiality are concerned, should contact [admin@webhealthanswers.com](mailto:admin@webhealthanswers.com). 
 
 **Changes to This Privacy Policy**
 
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on 2006-2-27.
-
- 
-
-[ Back ] 
-
-  
-|  Who's Online   
----  
-We have 7 guests online 
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on 01-07-2008.
