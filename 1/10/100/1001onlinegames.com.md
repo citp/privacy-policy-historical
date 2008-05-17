@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 1001onlinegames.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229085032id_/http%3A//www.1001onlinegames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001onlinegames.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517044748id_/http%3A//www.1001onlinegames.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - 1001 Online Games
 
-This privacy policy describes how we treat personal information when you visit and/or use 1001OnlineGames.com (also referred to as the site, the website). If you have any questions or concerns regarding this privacy policy, please do not hesitate to [contact us](https://web.archive.org/web/20071229085032id_/http%3A//www.1001onlinegames.com/contact.html).
+This privacy policy describes how we treat personal information when you visit and/or use 1001OnlineGames.com (also referred to as the site, the website). If you have any questions or concerns regarding this privacy policy, please do not hesitate to [contact us](https://web.archive.org/web/20080517044748id_/http%3A//www.1001onlinegames.com/contact.html).
 
 **Automatically logged information**
 
@@ -25,6 +25,7 @@ To serve advertisements on this website, we have teamed up with several advertis
   * <http://www.casalemedia.com/privacy.html>
   * <http://solutions.focalex.com/webgamesprivacy.aspx>
 
+  
 **Games**
 
 The majority of games listed on this website are licensed or used with permission from other, third party websites. We have no control over what data those games may collect. Some games may provide a privacy statement inside the game itself, please read it, if available, before you play a game. We are not responsible for the privacy practices of games we license, or use with permission from third party websites.
@@ -37,4 +38,5 @@ We may present internal links (i.e. links to our own pages) or external links (i
 
 We protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction, through appropriate security measures.
 
+  
  Back to [1001 Online Games](https://web.archive.org/)
