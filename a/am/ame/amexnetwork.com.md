@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amexnetwork.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226012540id_/http%3A//www.amexnetwork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amexnetwork.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517130934id_/http%3A//www.amexnetwork.com/privacy.html) for the most accurate reproduction.*
 
 # The American Express Network > Privacy Policy
 
@@ -34,7 +34,7 @@ You may browse our Website anonymously by choosing not to provide us with any "[
 
 The American Express Network may use "[Web beacons](http://www10.americanexpress.com/sif/cda/component/0,,128685,00.asp#WB)" to present offers on AmexNetwork.com, other sites on which The American Express Network advertises, or in our e-mails. Web beacons, also known as "clear GIFs" (a common format for image files), are invisible files located on webpages that you visit. They are often used in combination with a "cookie" to track navigation of a site. If you visit a page on AmexNetwork.com that contains a Web beacon, it communicates with your computer to determine, among other things, whether you have been to that page before or viewed a particular advertisement. This enables us to enhance e-mail offers and track website usage. We sometimes use entities that performs business operations on behalf of the American Express Network, such as: statement printing, mailing services, data processing, customer servicing, or collections ("[vendors](http://www10.americanexpress.com/sif/cda/component/0,,128685,00.asp#V)") and or merchants with whom we conduct transactions on your behalf, co-marketers, and providers of loyalty campaigns ("[business partners](http://www10.americanexpress.com/sif/cda/component/0,,128685,00.asp#BP)") to manage web beacons and the data they collect; however, Web beacons do not capture your individual e-mail address or any other personal information that you enter on the the American Express Network website. 
 
-Web beacons are sometimes used on AmexNetwork.com webpages where transactions take place. In addition, e-mail offers that we send may contain web beacons to help us record response rates and to assist us in measuring the offer's effectiveness. Is this stating the same thing as the end of the last paragraph?
+Web beacons are sometimes used on AmexNetwork.com webpages where transactions take place. In addition, e-mail offers that we send may contain web beacons to help us record response rates and to assist us in measuring the offer's effectiveness.
 
 Back to top
 
