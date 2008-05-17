@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ace2three.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015111526id_/http%3A//www.ace2three.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ace2three.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517233825id_/http%3A//www.ace2three.com/privacy.html) for the most accurate reproduction.*
 
-# :: Ace2three.com :: The Ultimate Destination for Gaming:Privacy
+# Privacy - 13 card Rummy, Indian Card games,Online Indian Rummy Game
 
 **Your Privacy Is Important**  
 At Ace2Three.com, we provide online skill games for fun and excitement in an accessible,understandable and trust-worthy environment. As part of this we are committed to protecting the privacy of our members and users. The privacy statement explains what information we collect from our members and users, how we use the information, and what choices are available to our users and members.
