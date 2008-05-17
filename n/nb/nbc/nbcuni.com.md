@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcuni.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531133102id_/http%3A//www.nbcuni.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcuni.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517075150id_/http%3A//www.nbcuni.com/Privacy_Policy) for the most accurate reproduction.*
 
 # NBC Universal > Privacy Policy
 
