@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westgroup.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221123557id_/http%3A//west.thomson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westgroup.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517112905id_/http%3A//www.westgroup.com/privacy) for the most accurate reproduction.*
 
 # West - Privacy Policy
 
@@ -23,7 +23,7 @@ Web server logs: When you visit our West Web sites, we may track information to 
 
 
 
-Cookies: Our Web sites use cookies (i.e., small bits of text that our servers place into a file on your computer's hard drive). This is used to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on our Web sites.
+Cookies: Our Web sites use cookies (i.e., small bits of text that our servers place into a file on your computer's hard drive). This is used to save your preferences and login information, and provide personalized functionality. We use third-party advertising technology to provide you with information about our products when you visit this Web site. This technology uses information derived from unique visits and page views on the site to identify product promotions that may be of interest to you. In order to provide you with relevant promotions, a unique third-party cookie or cookies may be placed on your browser. To opt out of this service, please call West Customer Service at 1-800-328-4880. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on our Web sites.
 
 Personal information users give us: On some of our Web sites, visitors can register to purchase products or services, receive personalized content and participate in surveys or contests. When you register, we will ask you for some personal information.
 
@@ -66,12 +66,12 @@ If you view our CLE content, West LegalEdcenter is obligated to pass along your 
 West LegalEdcenter also may provide summary statistics about our customers' interests and preferences, products sold, traffic patterns and related site information to reputable third parties. These statistics do not include personal identification information; they are used only to enhance the design of our Web site and customize new product offerings to our customers. For more information, including the Click-Wrap license agreement, please see the [West LegalEdcenter Terms and Conditions](http://westlegaledcenter.com/misc/terms.jsf) statement.
 
 Public Records, Including Social Security Numbers and Credit Histories  
-Please review the [West Privacy and Public Records Policy Statement](https://web.archive.org/web/20071221123557id_/http://west.thomson.com/privacy/records.aspx) to learn about the kinds of public records West gathers and makes available on Westlaw.com. If you have further questions, please send an e-mail message to [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com).
+Please review the [West Privacy and Public Records Policy Statement](https://web.archive.org/web/20080517112905id_/http%3A//www.westgroup.com/records.aspx) to learn about the kinds of public records West gathers and makes available on Westlaw.com. If you have further questions, please send an e-mail message to [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com).
 
 How We Protect Your Information  
 West uses technical security measures to prevent the loss, misuse and alteration of information under our control.
 
-For example, when we ask customers to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer (SSL) technology. Learn more about [SSL](https://web.archive.org/web/20071221123557id_/http://west.thomson.com/privacy/ssl.aspx).
+For example, when we ask customers to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer (SSL) technology. Learn more about [SSL](https://web.archive.org/web/20080517112905id_/http%3A//www.westgroup.com/ssl.aspx).
 
 Who Has Access to the Information?  
 West will share your personal data in four ways: 
