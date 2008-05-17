@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigsaw.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060211id_/http%3A//www.jigsaw.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsaw.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517172904id_/http%3A//www.jigsaw.com/Privacy.jsp) for the most accurate reproduction.*
 
 # Jigsaw - The Business Contact Marketplace
 
