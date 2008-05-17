@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005101904id_/http%3A//www.grist.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517183147id_/http%3A//www.grist.org/about/privacy) for the most accurate reproduction.*
 
 # Grist | Privacy Policy
 
@@ -119,7 +119,3 @@ _Contact Information_
 If you have questions or concerns regarding this statement, you may contact Grist's privacy officer by email at [grist@grist.org](mailto:%20grist@grist.org), by telephone at 206.876.2020 ext. 202, by fax at 253.423.6487, or by mail at Webmaster, Grist, 710 Second Avenue, Suite 860, Seattle, WA 98104. 
 
 | 
-
-Sign up for **free environmental news** by email.
-
-The Week's Most Popular
