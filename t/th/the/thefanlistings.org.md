@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefanlistings.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210075239id_/http%3A//www.thefanlistings.org/termsofuse.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefanlistings.org privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517144205id_/http%3A//www.thefanlistings.org/termsofuse.php) for the most accurate reproduction.*
 
 # The Fanlistings
 
