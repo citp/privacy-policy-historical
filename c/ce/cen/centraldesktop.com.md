@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centraldesktop.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214113900id_/http%3A//www.centraldesktop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centraldesktop.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517123318id_/http%3A//www.centraldesktop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Central Desktop
 
@@ -35,6 +35,6 @@ Central Desktop stores its servers in a highly secure server environment with 24
 We cannot guarantee the security of your data while it is being transmitted over the Internet and through servers that are out of our control. We strive to protect your personal information but Central Desktop cannot ensure or warrant the security of any information you transmit to our website or services. Any data transmissions you make over the internet are done so at your own risk. Once we receive the data transmission, we make our best efforts to ensure its security and privacy on our systems. 
 
 Further Questions  
-If you have further questions about our Privacy Policy, email us at or via mail at Central Desktop, Inc., 100 North Lake Avenue #205, Pasadena, CA 91101 USA.
+If you have further questions about our Privacy Policy, email us at or via mail at Central Desktop, Inc., 2828 E Foothill Blvd #204, Pasadena, CA 91107 USA.
 
 Last Updated: Aug 2, 2007 1:38pm
