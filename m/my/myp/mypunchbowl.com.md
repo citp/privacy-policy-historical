@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypunchbowl.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211025628id_/http%3A//corp.mypunchbowl.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypunchbowl.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517145032id_/http%3A//www.mypunchbowl.com/corporate/privacy_policy.php) for the most accurate reproduction.*
 
 # Punchbowl Software
 
