@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidhog.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701235718id_/http%3A//www.vidhog.com/privacypolicies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidhog.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517195829id_/http%3A//www.vidhog.com/privacypolicies.php) for the most accurate reproduction.*
 
 # VidHog - Privacy Policy
 
@@ -94,7 +94,7 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 **Date Last Modified:**  
 This Privacy Notice was last modified October 20, 2006.  
 **Contact Information:**  
-Please contact VidHog with any questions or comments about this Privacy Notice using this [contact form](https://web.archive.org/web/20070701235718id_/http%3A//www.vidhog.com/contact.php).
+Please contact VidHog with any questions or comments about this Privacy Notice using this [contact form](https://web.archive.org/web/20080517195829id_/http%3A//www.vidhog.com/contact.php).
 
   
 
