@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lhblogs.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216005358id_/http%3A//www.lohud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lhblogs.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517025332id_/http%3A//www.lohud.com/privacy) for the most accurate reproduction.*
 
-# THE JOURNAL NEWS: LOHUD.COM
+# lohud.com | Westchester, Rockland and Putnam Counties PRIVACY | The Journal News
 
 Effective Date: March 2007
 
-The following Privacy Policy governs the online information collection practices of thejournalnews.com ("we" or "us"). Specifically, it outlines the types of information that we gather about you while you are using the thejournalnews.com website (the "Site"), and the ways in which we use this information. This Privacy Policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+The following Privacy Policy governs the online information collection practices of lohud.com ("we" or "us"). Specifically, it outlines the types of information that we gather about you while you are using the lohud.com website (the "Site"), and the ways in which we use this information. This Privacy Policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy and our [Terms of Service](http://www.thejournalnews.com/terms). Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy and our [Terms of Service](http://www.lohud.com/terms). Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
 ### Your California Privacy Rights
 
@@ -37,7 +37,7 @@ We are an affiliate of the CareerBuilder online careers service. Through our coo
 
 Likewise, we are an affiliate of the Topix.net online news service, which enables us to provide you with access to Topix.net products and services through a co-branded Topix.net site. When you provide information through the co-branded Topix.net site, Topix.net may share your information with us and we may use that information in a manner consistent with this Privacy Policy.
 
-Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Terms of Service](http://www.thejournalnews.com/terms) agreement, or to protect the rights, property or safety of users of the Site or the public.
+Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Terms of Service](http://www.lohud.com/terms) agreement, or to protect the rights, property or safety of users of the Site or the public.
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
 
@@ -54,7 +54,7 @@ This children's privacy statement explains our practices with respect to the onl
 
 ### How To Make Changes to Your Information
 
-If you have subscribed to one or more of our email newsletters, you may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by visiting <http://www.thejournalnews.com/newsletters>.
+If you have subscribed to one or more of our email newsletters, you may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by visiting <http://www.lohud.com/newsletters>.
 
 ### Questions Regarding Privacy
 
