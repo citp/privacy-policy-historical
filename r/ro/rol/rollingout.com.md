@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the rollingout.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630112509id_/http%3A//www.rollingout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollingout.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517203605id_/http%3A//www.rollingout.com/v2/privacy.php) for the most accurate reproduction.*
 
-# RO Privacy
+# rolling out UrbanStyle Weekly v.2.0
 
-rollingout.com Privacy Policy  
-March 15, 2006
+March 15, 2006 
 
 At rollingout.com we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use rollingout.com's services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
-Personal information and other data we collect
+**Personal information and other data we collect**
 
   * rollingout.com collects personal information when you register for a rollingout.com service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other rollingout.com services or third parties to provide a better user experience, including customizing content for you.
   * rollingout.com uses cookies and other technologies to enhance your online experience and to learn about how you use rollingout.com services in order to improve the quality of our services.
@@ -15,8 +14,7 @@ Personal information and other data we collect
 
 
 
-  
-Uses
+**Uses**
 
   * We may use personal information to provide the services you've requested, including services that display customized content and advertising.
   * We may also use personal information for auditing, research and analysis to operate and improve rollingout.com technologies and services.
@@ -28,10 +26,8 @@ Uses
 
 
 
-Your choices
-
+**Your choices**  
 We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. 
 
-  
-More information  
+**More information**  
 If you have additional questions, please contact us any time. 
