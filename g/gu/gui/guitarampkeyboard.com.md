@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarampkeyboard.com privacy policy that was archived on 2006-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061105093008id_/http%3A//www.guitarampkeyboard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarampkeyboard.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517084611id_/http%3A//www.guitarampkeyboard.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -125,6 +125,6 @@ Netscape bundles all cookies into one file on your hard drive. You'll need to fi
 Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie. [Top]
 
 GAK.CO.UK LTD © 2001-2006   
-30 Cheapside,   
+60 Gladstone Place   
 Brighton,   
-BN1 4AG
+BN2 3QD
