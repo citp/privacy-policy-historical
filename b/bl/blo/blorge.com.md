@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blorge.com privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112145153id_/http%3A//www.blorge.com/%3Fpage_id%3D387) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blorge.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517154117id_/http%3A//tech.blorge.com/privacy-statement) for the most accurate reproduction.*
 
-# BLORGE.com » Privacy statement
+# TECH.BLORGE.com
 
 This purpose of this privacy statement is to let you know what information is collected about your visit to this site, and how the information is used.
 
