@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leechvideo.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010072139id_/http%3A//www.leechvideo.com/about/static_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leechvideo.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517023410id_/http%3A//www.leechvideo.com/about/static_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LeechVideo.com - Aggregate,Download and Convert hot videos of YouTube, MySpace Video,Google Video,etc.
 
