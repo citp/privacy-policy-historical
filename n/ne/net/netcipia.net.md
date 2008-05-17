@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the netcipia.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211043024id_/http%3A//www.netcipia.com/xwiki/bin/view/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcipia.net privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517042343id_/http%3A//www.netcipia.com/xwiki/bin/view/Legal/PrivacyPolicy) for the most accurate reproduction.*
 
 # Netcipia - Privacy Policy
+
+* Create an online community for your
+
+customers, partners and colleagues
+
+* Generate **revenues** by selling your
+
+**expertise** online
 
 ## Netcipia Privacy Policy
 
