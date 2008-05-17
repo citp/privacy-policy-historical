@@ -1,10 +1,26 @@
-> *The following text is extracted and transformed from the fonality.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225161733id_/http%3A//www.fonality.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonality.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517093804id_/http%3A//www.fonality.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Fonality
 
-| 
+| | Next Steps  
+---  
+  
+  * [» Free Consultation](http://fonality.com/consultation.html)
+  * [» Free Webinar](http://fonality.com/freewebinar.html)
+  * [» Screenshots](http://fonality.com/pop.cgi?page=screenshots.tt)
+  * [» Case Studies](http://fonality.com/case_studies.html)
+  * [» VoIP Whitepaper](http://fonality.com/whitepaper.cgi)
+  * [» Become a Reseller](http://fonality.com/authorized_reseller.html)
 
-| | []( "Go")  
+  
+Awards  
+Promotion  
+[](http://fonality.com/qwiz.cgi)  
+Phones  
+Partners  
+Newsletter Sign Up  
+  
+| []( "Go")  
 ---|---  
   
 |    
