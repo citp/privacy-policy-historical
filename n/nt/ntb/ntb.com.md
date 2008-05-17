@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ntb.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221220227id_/http%3A//www.ntb.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntb.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517122059id_/http%3A//www.ntb.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Tire Kingdom
+# National Tire and Battery
 
 ****
 
