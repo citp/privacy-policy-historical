@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlandrevenue.gov.uk privacy policy that was archived on 2007-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071106042910id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlandrevenue.gov.uk privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517125925id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
 
 # HM Revenue & Customs: Privacy Policy
 
@@ -20,6 +20,8 @@ An IP address is a number assigned to your computer by your Internet Service Pro
 
 We use your IP address to diagnose problems with our server, report aggregate information, and determine the fastest route for your computer to use in connecting to our site, and to administer and improve the site.
 
+Top
+
 ## Cookies
 
 A cookie is a piece of data stored locally on your computer and contains information about your activities on the Internet. On our website, we use cookies to track users' progress through the site, allowing us to make improvements based on usage data. The information in a cookie does not contain any personally identifiable information you submit to our site.
@@ -36,6 +38,8 @@ Sometimes we tag pages on the site when we are promoting various campaigns. Thes
   * Privacy information about [Atlas](http://www.atlassolutions.com/privacy/general/ " this link will open a page in a new browser window on a non-UK Government website") (this link will open a new window) 
 
 
+
+Top
 
 ##  Monitoring of e-mail
 
@@ -56,6 +60,8 @@ We do not disclose any information you provide via the site to any third parties
   * You give us permission to do so.
 
 
+
+Top
 
 ##  Access to and correction of personal information
 
@@ -81,4 +87,4 @@ We will post details of any changes to our Privacy Policy on the website to help
 
 This Privacy Policy was last updated May 2006.
 
-[Menu ](https://web.archive.org/web/20071106042910id_/http%3A//www.hmrc.gov.uk/spss/cssav.htm)
+Top
