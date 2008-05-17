@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231160337id_/http%3A//www.rsmart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517105718id_/http%3A//www.rsmart.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | rSmart
 
@@ -60,4 +60,4 @@ The rSmart Group hosts links to other sites having privacy policies that may dif
 
 #### Questions?
 
-If you have any questions about this privacy statement and the privacy practices on this site, you may contact us by sending an email to [site_support@rsmart.com](mailto:site_support@rsmart.com). 
+If you have any questions about this privacy statement and the privacy practices on this site, please [contact us](https://web.archive.org/contact "Contact rSmart").
