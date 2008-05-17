@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebay.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211113108id_/http%3A//shop.hbc.com/en_US/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebay.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518012246id_/http%3A//shop.hbc.com/en_US/privacy.html) for the most accurate reproduction.*
 
 # Hbc.com - Privacy Policy
 
@@ -172,7 +172,7 @@ Yes. You can review the personal information we have about you on file by contac
 There are three ways you can obtain our Customer Privacy Brochure: 
 
   * Visit the customer service desks at any of the Hbc family of stores
-  * [Download the PDF version of our Customer Privacy Brochure now](https://web.archive.org/web/20071211113108id_/http%3A//shop.hbc.com/en_US/viewBrochure.html)
+  * [Download the PDF version of our Customer Privacy Brochure now](https://web.archive.org/web/20080518012246id_/http%3A//shop.hbc.com/en_US/viewBrochure.html)
   * Contact our Privacy Office:  
 **Hbc Privacy Office  
 P.O. Box 4135, Station A  
@@ -221,7 +221,7 @@ This website reserves the right to co-operate with local, provincial, national a
 
 ### Cookies
 
-Your web browser places cookie files on your computer's hard drive. This website uses cookies to remember information you gave us so that you don't have to re-enter the information each time you visit this website. Cookies also help us understand which areas of our site are popular by showing us how you and others use our site. For more information about cookies and why they are used, please refer to our [cookies page](https://web.archive.org/web/20071211113108id_/http%3A//shop.hbc.com/en_US/cookies.html). 
+Your web browser places cookie files on your computer's hard drive. This website uses cookies to remember information you gave us so that you don't have to re-enter the information each time you visit this website. Cookies also help us understand which areas of our site are popular by showing us how you and others use our site. For more information about cookies and why they are used, please refer to our [cookies page](https://web.archive.org/web/20080518012246id_/http%3A//shop.hbc.com/en_US/cookies.html). 
 
 ### Web Beacons
 
