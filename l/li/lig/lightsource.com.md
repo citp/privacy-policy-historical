@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lightsource.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209123139id_/http%3A//www.lightsource.com/aboutus/49) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightsource.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517083623id_/http%3A//www.lightsource.com/aboutus/49) for the most accurate reproduction.*
 
-# Lightsource.com - About Us
+# Lightsource.com - About Us - Read Our Story & Mission
 
-**Last Updated:** March 2, 2007
+**Last Updated:** February 26, 2008
 
 This policy informs you of the policies of Salem Communications Corporation and its subsidiary entities (collectively, “Salem”), including without limitation the Salem and radio stations concerning the collection, use and disclosure of personal information from this Salem-related website.  Because we may gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information.  At Salem we understand your privacy is important to you. Even though we may need to collect information about you to provide you with some of our products and services, you may not want us to disclose that information to others.  Accordingly, what follows is a description of how we gather and use information about you (collectively “Your Information”). 
 
@@ -87,15 +87,6 @@ Salem also gathers and analyzes Usage or Log Data including your IP (internet pr
 **Correcting and Updating**  
 You may correct or update your registration data by contacting our member services in the following ways:
 
-  * By mailing us at:
-
-
-
-Salem Web Network  
-Attn: All Pass Registration  
-111 Virginia Street, Suite 500  
-Richmond, Virginia 23219 
-
   * By emailing us at [support@salemwebnetwork.com](mailto:support@salemwebnetwork.com)
   * By faxing us at 804-768-9359
 
@@ -104,15 +95,6 @@ Richmond, Virginia 23219
 **Delete/Deactivate**
 
 To delete or deactivate an account, a user may ask to be removed from our database by contacting our member services in the following ways:
-
-  * By mailing us at:
-
-
-
-Salem Web Network  
-Attn: All Pass Registration  
-111 Virginia Street, Suite 500  
-Richmond, Virginia 23219 
 
   * By emailing us at [support@salemwebnetwork.com](mailto:support@salemwebnetwork.com)
   * By faxing us at 804-205-9651
@@ -133,18 +115,9 @@ From time to time we may enter into a special relationship with another company 
 Also, the nature of some features of our site may require that we share personal information about you with persons or companies outside of the Salem corporate enterprise. For example, this may occur at a feature that enables you, via our site, to ask questions of persons or entities that are not part of the Salem enterprise. By responding to those features of the site, whether by email or direct entry of information on our website, you are consenting to our transferring that information to such persons or entities.
 
 **Children's Privacy**  
-Because the safety of children is very important to us, Salem will not knowingly accept personal information from children under the age of 13 without first obtaining written parental consent.  A parent can give such consent by filling out and signing the [Salem Parental Consent Form](https://web.archive.org/web/20071209123139id_/http://www.lightsource.com/aboutus/49/%3C%=ResolveUrl\(%22~/help/ParentalConsentForm.aspx%22\)%%3E) and returning it to us at the contact point listed below.  If a parent wishes to refuse to permit collection or use of their child's information by Salem, that parent should contact us to request deletion of their child's account.
+Because the safety of children is very important to us, Salem will not knowingly accept personal information from children under the age of 13 without first obtaining written parental consent.  A parent can give such consent by filling out and signing the [Salem Parental Consent Form](https://web.archive.org/web/20080517083623id_/http://lightsource.com/aboutus/49/%3C%=ResolveUrl\(%22~/help/ParentalConsentForm.aspx%22\)%%3E) and returning it to us at the contact point listed below.  If a parent wishes to refuse to permit collection or use of their child's information by Salem, that parent should contact us to request deletion of their child's account.
 
 If you have any questions or comments regarding children’s privacy at Salem or if you would like to submit a signed Parental Consent Form, please contact:
-
-  * By mailing us at:
-
-
-
-Salem Web Network  
-Attn: Children’s Privacy Dept.  
-111 Virginia Street, Suite 500  
-Richmond, Virginia 23219 
 
   * By emailing us at [support@salemwebnetwork.com](mailto:support@salemwebnetwork.com)
   * By faxing us at 804-205-9651
@@ -155,12 +128,7 @@ Richmond, Virginia 23219
 The security and confidentially of Your Information is extremely important to us. Accordingly, we take appropriate security measures to protect against the unauthorized access, alteration, disclosure, or destruction of data. This includes the use of encryption technology to ensure that Your Information is protected. Please understand, however, that despite our best efforts no security measures are perfect or impenetrable.
 
 **Your California Privacy Rights  
-**Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Salem who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@salemwebnetwork.com](mailto:support@salemwebnetwork.com) or write us at: 
-
-Salem Web Network  
-Attn: California Privacy Rights  
-111 Virginia Street, Suite 500  
-Richmond, Virginia 23219 
+**Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Salem who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@salemwebnetwork.com](mailto:support@salemwebnetwork.com). 
 
 **Leased Content**  
 No third-party licensor shall have any liability for the accuracy or completeness of information or services provided thereby via this website or any component thereof or for delays, inaccuracies, omissions, or other defects therein nor for any claims or losses arising therefrom or occasioned thereby, including, without limitation, any lost profits, indirect, special, or consequential damages. Any such third party licensors have exclusive proprietary rights from the information received via the service. Customer, end-user, or visitor, as applicable, shall not use or permit anyone to use the information provided through the service for any unlawful or unauthorized purpose. Customer, end-user, or visitor, as applicable, is not authorized or permitted to furnish such information to any person or firm for reuse or retransmission without prior written approval of the source of such information. Provision of the information on the service is subject to termination in the event that any agreement between a third party licensor and a provider of information distributed through the service is terminated in accordance with its terms. Third party licensor and its subsidiaries, affiliates, information providers and content partners shall have no liability for investment decisions based on the information provided hereby.
@@ -170,16 +138,7 @@ This Policy and the Terms of Use for this website shall be governed by, construe
 
 If any provision of this Policy, or the application thereof to any person or circumstances, is held invalid or for any reason, unenforceable including, but not limited to, the warranty disclaimers and liability limitations, then such provision shall be deemed superseded by a valid, enforceable provision that matches, as closely as possible, the original provision, and the other provisions of this Policy shall remain in full force and effect. The failure of either party to insist upon strict performance of any provision of this Policy shall not be construed as a waiver of any provision or right. Unless expressly provided otherwise, this Policy and the Terms of Use for this website are the entire agreement between you and Salem with respect to the use of this Salem website and shall not be modified except in writing, signed by an authorized representative of Salem.
 
-If you have any questions concerning this Policy, you may send them by email to [scotthunter@salem.cc](mailto:scotthunter@salem.cc). You must send any official correspondence via postal mail to:
-
-  * By mailing us at:
-
-
-
-Salem Web Network  
-Attn: Children’s Privacy Dept.  
-111 Virginia Street, Suite 500  
-Richmond, Virginia 23219 
+If you have any questions concerning this Policy, you may send them by email to [scotthunter@salem.cc](mailto:scotthunter@salem.cc). You must send any official correspondence to:
 
   * By emailing us at [support@salemwebnetwork.com](mailto:support@salemwebnetwork.com)
   * By faxing us at 804-205-9651
