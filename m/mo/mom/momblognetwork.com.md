@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the momblognetwork.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225150648id_/http%3A//www.momblognetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momblognetwork.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517143238id_/http%3A//www.momblognetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mom Blog Network™ – What Moms Are Talking About
+# Privacy Policy | Mom Blog Network – What Moms Are Talking About
 
 ##### At Mom Blog Network, we are committed to maintaining your privacy and trust. This Privacy Policy explains how we collect, protect, use, and share information about you, including on our website, and/or through your membership in Mom Blog Network. We hope this information increases your confidence in Mom Blog Network and enhances your experience on our website. Please see our separate [Terms of Service](http://www.mom%20blog%20network.com/legal) which governs the use of the web site and services located at www.Mom Blog Network.com (the "Site").
 
