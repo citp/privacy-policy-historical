@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the largeanimal.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223152927id_/http%3A//www.largeanimal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the largeanimal.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518012133id_/http%3A//www.largeanimal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Large Animal Games
 
@@ -32,6 +32,10 @@ Large Animal Games does not rent, sell, or share personal information about you 
 
 Large Animal Games may set and access Large Animal Games cookies on your computer. Large Animal Games does not allow other companies to access the cookies we set on your computer. Advertisers or other companies do not have access to Large Animal Games' cookies.
 
+## Children
+
+Our site is not intended for children under 13. We do not knowingly collect information from children under the age of 13. If we receive information from anyone who we later learn is under the age of 13, we destroy the information.
+
 ## Email Newsletter
 
 Our newsletter is strictly run as an "opt-in" newsletter. We never send unsolicited emails. Information gathered during voluntary player registration is restricted to email address. This information is used solely by Large Animal Games and will not be sold to, or used by, any third party. Large Animal Games will only use this information for sending the newsletter about product updates and new releases.
@@ -47,11 +51,3 @@ Large Animal Games reserves the right to amend this policy from time to time. An
 ## Questions and Suggestions
 
 If you have questions or suggestions, please contact us at info@largeanimal.com.
-
-| 
-
-Advertisement
-
-[](https://web.archive.org/games/deluxe/alphaqueue)  
-  
----|---
