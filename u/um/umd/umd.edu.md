@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umd.edu privacy policy that was archived on 2007-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071023083956id_/http%3A//www.nethics.umd.edu/dive-in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umd.edu privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517090100id_/http%3A//www.nethics.umd.edu/dive-in/privacy.html) for the most accurate reproduction.*
 
 # Project Nethics - OIT
 
@@ -6,10 +6,10 @@
 
 | 
 
-This statement pertains exclusively to the collection of personal information on official university web sites. Official university web sites  use the domain names "umd.edu" and "maryland.edu" and are controlled, operated, and maintained by university personnel in connection with university business. All uses of university computing resources, however, are subject to the _Policy on the Acceptable Use of university Information Technology Resources_ available at [http://www.nethics.umd.edu/aup](https://web.archive.org/web/20071023083956id_/http%3A//www.nethics.umd.edu/aup/index.html).   
+This statement pertains exclusively to the collection of personal information on official university web sites. Official university web sites  use the domain names "umd.edu" and "maryland.edu" and are controlled, operated, and maintained by university personnel in connection with university business. All uses of university computing resources, however, are subject to the _Policy on the Acceptable Use of university Information Technology Resources_ available at [http://www.nethics.umd.edu/aup](https://web.archive.org/web/20080517090100id_/http%3A//www.nethics.umd.edu/aup/index.html).   
 
 
-## Collection of Personal Information 
+## Collection of Personal Information
 
 **Generally, the university does not automatically collect the identity of individual users of or visitors to official university web sites.** If you are asked to provide personal information on an official university web site, university policy provides that you should be notified of the following: 
 
