@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the revzilla.com privacy policy that was archived on 2007-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071106022542id_/http%3A//revzilla.com/customer-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revzilla.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517111011id_/http%3A//www.revzilla.com/customer-service-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy from RevZilla Motorsports
+# Privacy Policy - RevZilla Motorsports
 
 **Privacy Policy Statement**  
-This is the web site of Revzilla Motorsports, LLC.
+This is the web site of RevZilla Motorsports, LLC.
 
 Our postal address is  
 122 Arch St, 3rd Fl  
@@ -11,7 +11,7 @@ Philadelphia, PA 19106
 
   
 We can be reached via e-mail at cs@revzilla.com  
-or you can reach us by telephone at 4844107545
+or you can reach us by telephone at 877-792-ZILLA (1-877-792-9455)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
