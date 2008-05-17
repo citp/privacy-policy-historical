@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theunion.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215164256id_/http%3A//www.theunion.com/section/MISC02) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theunion.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517120327id_/http%3A//www.theunion.com/section/MISC02) for the most accurate reproduction.*
 
 # Nevada County Privacy Policy: Our Privacy Policy - TheUnion.com
 
