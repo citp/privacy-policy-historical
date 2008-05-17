@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytonainternationalspeedway.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011233443id_/http%3A//www.daytonainternationalspeedway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytonainternationalspeedway.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517143652id_/http%3A//daytonainternationalspeedway.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Daytona International Speedway
 
@@ -7,7 +7,7 @@
 Privacy Policy
 
   
- **We are always conscious and respectful of your personal privacy.**  
+**We are always conscious and respectful of your personal privacy.**  
 ISC provides this Online Privacy Statement to make you aware of our privacy policy and practices and the way information is collected and used. To make this notice easy to find, it is available on our homepage and from the home page of each subsidiary or division web site.
 
 This Privacy Policy will answer your questions about the kind of information we collect and how we use it. If we change or update our Privacy Policy, we will post those changes here.
@@ -52,7 +52,7 @@ You may elect to refuse cookies. Please refer to your browser Help instructions 
 How does this site support the Children's Online Privacy Protection Rule?  
 
 
-** We do not knowingly collect personally identifiable information from children, but if a child has provided us with personally identifiable information without parental or guardian consent, the parent or guardian should contact us to remove the information and unsubscribe them from any promotional contact opportunities. **
+**We do not knowingly collect personally identifiable information from children, but if a child has provided us with personally identifiable information without parental or guardian consent, the parent or guardian should contact us to remove the information and unsubscribe them from any promotional contact opportunities. **
 
 How do I tell this site that I don't want to be contacted for promotional purposes?
 
@@ -67,11 +67,12 @@ We ask that you keep your information as up-to-date as possible so you may get t
 How Secure Is Information About Me?
 
 **  
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.  
+
 
 By using this site, you signify your assent to our Privacy Policy. If you do not agree to our Privacy Policy, please do not use this site. We reserve the right, at our complete discretion, to change, modify, add, or remove portions of this policy at any time.
 
-Last modified: May 23, 2001
+Last modified: February, 19, 2008
 
 Contact Information for ISC, Subsidiaries or Affiliates  
 Postal address:  
