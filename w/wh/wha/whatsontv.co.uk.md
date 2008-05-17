@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the whatsontv.co.uk privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011075206id_/http%3A//www.whatsontv.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsontv.co.uk privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517145359id_/http%3A//www.whatsontv.co.uk/privacy) for the most accurate reproduction.*
 
-# privacy
+# What's on TV - Top TV listings guide, plus soaps, news, prizes and previews || What's on TV - Top TV listings guide, plus soaps, news, prizes and previews
 
 IPC Media Limited will use the information provided by you in the course of our dealing with you to process your requests and orders and in order to provide a more personalised web-surfing and shopping experience.
 
 We do not collect anonymous information about your use of this website from cookies and by the use of pixel tags. A cookie is a short piece of data, which is sent from a web server to a web browser when that browser visits the server's site. Pixel tags are used to read cookies. This means that you will have to complete your contact details section again if you revisit this site.
 
-We may also share your information with certain reputable third parties in order to fulfil your order or request, or to provide your prize or in order to obtain professional advice. If you would like details of who these companies are, please write to Company Secretariat, Room 0820, King's Reach Tower, Stamford Street, London SE1 9LS.
+We may also share your information with certain reputable third parties in order to fulfil your order or request, or to provide your prize or in order to obtain professional advice. If you would like details of who these companies are, please write to Company Secretariat, Blue Fin Building, 110 Southwark Street, London SE1 0SU.
 
 It is possible that IPC Media could merge or be acquired by another business. If this happens, we may share the information that relates to you. You will be sent notice of such an event.
 
