@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationmaternity.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019023510id_/http%3A//www.destinationmaternity.com/RetailSitesPrivacyPolicy2007.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationmaternity.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517134703id_/http%3A//www.destinationmaternity.com/privacy.asp) for the most accurate reproduction.*
 
 # destinationmaternity.com Privacy Policy
 
@@ -33,7 +33,7 @@ In order to purchase an item from any of the Retail Web Sites[](http://www.desti
 
 We are dedicated to the security of your personal information, and take every commercially reasonable precaution to maintain that protection. To prevent unauthorized access or disclosure, maintain data accuracy, and facilitate the appropriate use of information, we use physical, electronic, and managerial procedures to attempt to protect the personal information we collect online. Encryption tools are used when collecting or transferring sensitive information such as name and addresses. Additional database content is protected either by means of a two key encryption algorithm or behind a firewall using security software. Access to the database is limited to our employees who have a legitimate business need to access the personal information contained therein and our contractors and service providers who we require to keep all information to which they have access completely confidential.
 
-If you have any questions about the security at any of our Retail Sites, please contact us by email at [ci@destinationmaternity.com](https://web.archive.org/web/20071019023510id_/http%3A//www.destinationmaternity.com/ci@destinationmaternity.com)[](mailto:ci@destinationmaternity.com). 
+If you have any questions about the security at any of our Retail Sites, please contact us by email at [ci@destinationmaternity.com](https://web.archive.org/web/20080517134703id_/http%3A//www.destinationmaternity.com/ci@destinationmaternity.com)[](mailto:ci@destinationmaternity.com). 
 
 ## Our Use of Your Personal Information
 
