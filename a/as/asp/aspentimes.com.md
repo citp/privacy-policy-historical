@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspentimes.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225725id_/http%3A//www.aspentimes.com/section/MISC03) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspentimes.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517022911id_/http%3A//www.aspentimes.com/section/MISC03) for the most accurate reproduction.*
 
 # Aspen Times News for Aspen Colorado - Privacy Statement
 
@@ -12,10 +12,10 @@ We respect your privacy and to help us earn your trust, we are sharing with you 
 
 The details of our Privacy Policy follow. If you have any questions or concerns about the information that helps to identify you that are not addressed below, contact us by:
 
-E-Mail [laurac@vailtrail.com](mailto:laurac@vailtrail.com)
+E-Mail [jwilliams@cmnm.org](mailto:jwilliams@cmnm.org)
 
 U.S. Post:  
-ColoradoAlive.com   
+Colorado Mountain News Media  
 P.O. Box 81   
 Vail, Colorado 81645
 
@@ -36,7 +36,7 @@ Colorado Mountain News Media encourages its partners, advertisers and affiliates
 In some cases, we may be providing a service or promotion to you in affiliation with another company. In some of those instances, we may be obliged to share your information with our partner company to facilitate the co-branded service or promotion.
 
 Modifying or Removing Your Information  
-We may use personal information to communicate with you about your registration and customization preferences, our Terms of Service, our Privacy Policy and other services we offer. If you prefer that we do not use your contact information to communicate with you, you may decline during the registration process. You may also request that we remove your or your family's information from our files at any later time by sending an E-mail note to [laurac@vailtrail.com](mailto:laurac@vailtrail.com) or sending a letter to ColoradoAlive.com, P.O. Box 81, Vail, Colorado, 81645.
+We may use personal information to communicate with you about your registration and customization preferences, our Terms of Service, our Privacy Policy and other services we offer. If you prefer that we do not use your contact information to communicate with you, you may decline during the registration process. You may also request that we remove your or your family's information from our files at any later time by sending an E-mail note to [jwilliams@cmnm.org](mailto:jwilliams@cmnm.org) or sending a letter to Colorado Mountain News Media, P.O. Box 81, Vail, Colorado, 81645.
 
 Unauthorized Data Collection  
 You should also be aware that you may voluntarily or inadvertently disclose personal information (e.g. user name, email address or other identifiers) on message boards or in chat sessions. That information can be collected and used by third parties without our knowledge and may result in unsolicited messages from others. Such activities are beyond our control.
