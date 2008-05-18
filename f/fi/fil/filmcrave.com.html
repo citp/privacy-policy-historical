@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the filmcrave.com privacy policy that was archived on 2007-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210030443id_/http%3A//www.filmcrave.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the filmcrave.com privacy policy that was archived on 2008-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080518084558id_/http%3A//www.filmcrave.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -15,13 +15,35 @@
 <center>
 <link rel="stylesheet" type="text/css" media="screen,projection" href="/css/star_rating.css"><table width="977" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
 <script language="JavaScript" src="../js/popup.js"></script>
+<script src="js/star_rating.js"></script>
 
-<script src="/js/star_rating.js"></script>
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+
+sfHover = function() {
+	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+//--><!]]></script>
 <script language="JavaScript">
+
 var xmlHttp
 var xmlHttp2
 var xmlHttp3
+var xmlHttp10
+var xmlHttp11
 var commentlink = "0";
+var ratinglink = "0";
+var movietoadd = "";
 var blntrailer = false;
 
 var mypopup = new PopupWindow("searchdiv");
@@ -31,6 +53,14 @@ mypopup.offsetY=20;
 var deletepopup = new PopupWindow("deletediv");
 deletepopup.offsetX=-138;
 deletepopup.offsetY=18;
+
+var del_rating_popup = new PopupWindow("del_rating_div");
+del_rating_popup.offsetX=-138;
+del_rating_popup.offsetY=18;
+
+var mylistpopup = new PopupWindow("listdiv");
+mylistpopup.offsetX=75;
+mylistpopup.offsetY=250;
 
 var deletelistpopup = new PopupWindow("deletelistdiv");
 deletelistpopup.offsetX=-75;
@@ -116,6 +146,11 @@ function show_delete_review() {
 
 function show_delete_friend() {
   deletefriendpopup.showPopup('deletefriend');
+  return false;
+}
+
+function show_list_popup() {
+  mylistpopup.showPopup('frm_searchbox');
   return false;
 }
 
@@ -207,6 +242,12 @@ function stateChanged_approve_comment()
   }
 }
 
+function show_del_rating(link) {
+  document.getElementById("movie").value = link;
+  del_rating_popup.showPopup('deleterating'+link);
+  return false;
+}
+
 function do_search(myinputbox) {
   if (myinputbox.value == "")
   {
@@ -252,20 +293,105 @@ function do_search_stateChanged()
   }
 }
 
+function showFlashObjects(){
+	var flashObjects = document.getElementsByTagName("object");
+	for (i = 0; i < flashObjects.length; i++) {
+		flashObjects[i].style.visibility = "visible";
+	}
+
+	var flashEmbeds = document.getElementsByTagName("embed");
+	for (i = 0; i < flashEmbeds.length; i++) {
+		flashEmbeds[i].style.visibility = "visible";
+	}
+}
+
+function hideFlashObjects(){
+	var flashObjects = document.getElementsByTagName("object");
+	for (i = 0; i < flashObjects.length; i++) {
+		flashObjects[i].style.visibility = "hidden";
+	}
+
+	var flashEmbeds = document.getElementsByTagName("embed");
+	for (i = 0; i < flashEmbeds.length; i++) {
+		flashEmbeds[i].style.visibility = "hidden";
+	}
+}
+
+function showSelectBoxs(){
+	selects = document.getElementsByTagName("select");
+	for (i = 0; i != selects.length; i++) {
+		selects[i].style.visibility = "visible";
+	}
+}
+
+function hideSelectBoxs(){
+	selects = document.getElementsByTagName("select");
+	for (i = 0; i != selects.length; i++) {
+		selects[i].style.visibility = "hidden";
+	}
+}
+
+function getPageScroll2(){
+
+	var yScroll;
+
+	if (self.pageYOffset) {
+		yScroll = self.pageYOffset;
+	} else if (document.documentElement && document.documentElement.scrollTop){	 // Explorer 6 Strict
+		yScroll = document.documentElement.scrollTop;
+	} else if (document.body) {// all other Explorers
+		yScroll = document.body.scrollTop;
+	}
+
+	arrayPageScroll = new Array('',yScroll) 
+	return arrayPageScroll;
+}
+
+function hideMyListPopup(){
+	mylistpopup.hidePopup();
+	showFlashObjects();
+	showSelectBoxs();
+	document.getElementById('cb_mylists').style.visibility = "hidden";
+	document.getElementById('blockUI').style.display = "none";
+	return false;
+}
+
 function add_to_list(movie_index)
 {
-	xmlHttp2=GetXmlHttpObject()
-
-    if (xmlHttp2==null)
-    {
-      alert ("Your browser does not support AJAX!")
-      return
-    }
-
-    var url="../ajax/add_to_list.php?id="+movie_index+"&sid="+Math.random();
-    xmlHttp2.onreadystatechange= add_to_list_stateChanged;
-    xmlHttp2.open("GET",url,true);
-    xmlHttp2.send(null);
+	var myElement = document.getElementById('rp_lists');
+	if (myElement.value=="0")
+	{
+		movietoadd = movie_index;
+		hideFlashObjects();
+		hideSelectBoxs();
+		var arrayPageScroll = getPageScroll2();
+		var popupTop = arrayPageScroll[1];
+		mylistpopup.offsetY=250+popupTop;
+		document.getElementById('blockUI').style.top = popupTop+'px';
+		document.getElementById('blockUI').style.display = "block";
+		document.getElementById('listcancel').value = "Cancel";
+		document.getElementById('listcancel').style.width = "75px";
+		document.getElementById('listbutton').style.width = "75px";
+		document.getElementById('listbutton').style.visibility = "";
+		document.getElementById('listdiv2').innerHTML = "<strong>You cannot add any movies to your recommendation list. Which list would you like to add this movie to?</strong>";
+		show_list_popup();
+		document.getElementById('cb_mylists').style.visibility = "";
+	}
+	else
+	{
+		xmlHttp2=GetXmlHttpObject()
+	
+		if (xmlHttp2==null)
+		{
+		  alert ("Your browser does not support AJAX!")
+		  return
+		}
+	
+		var url="../ajax/add_to_list.php?id="+movie_index+"&sid="+Math.random();
+		xmlHttp2.onreadystatechange= add_to_list_stateChanged;
+		xmlHttp2.open("GET",url,true);
+		xmlHttp2.send(null);
+	}
     return false;
 }
 
@@ -277,11 +403,44 @@ function add_to_list_stateChanged()
 	{
 	  //h = document.frames('rp_drag').document.body.scrollHeight;
 	  //document.all.rp_drag.style.height = h + 30;
-rp_drag.reloadPage();	}
+	  rp_drag.reloadPage();
+	}
 	else
 	{
 		alert (xmlHttp2.responseText);
 	}
+  }
+}
+
+function add_to_list2()
+{
+	xmlHttp11=GetXmlHttpObject()
+
+    if (xmlHttp11==null)
+    {
+      alert ("Your browser does not support AJAX!")
+      return
+    }
+	var myElement = document.getElementById('cb_mylists');
+    var url="../ajax/add_to_list.php?id="+movietoadd+"&list="+myElement.value+"&sid="+Math.random();
+    xmlHttp11.onreadystatechange= add_to_list2_stateChanged;
+    xmlHttp11.open("GET",url,true);
+    xmlHttp11.send(null);
+	//hideMyListPopup();
+	document.getElementById('listbutton').style.visibility = "hidden";
+	document.getElementById('listbutton').style.width = "10px";
+	document.getElementById('listcancel').value = "OK";
+	document.getElementById('listcancel').style.width = "150px";
+	document.getElementById('listdiv2').innerHTML = "<strong>The movie has been added to your list.</strong>";
+	return false;
+}
+
+function add_to_list2_stateChanged()
+{
+  if (xmlHttp11.readyState==4 || xmlHttp11.readyState=="complete")
+  {
+    var str1=xmlHttp11.responseText;
+	//hideMyListPopup();
   }
 }
 
@@ -300,7 +459,39 @@ function save_star_rating(str)
   xmlHttp.onreadystatechange=save_star_rating_stateChanged;
   xmlHttp.open("GET",url,true);
   xmlHttp.send(null);
+  save_mm_rating(str);
   return false;
+}
+
+function FCDisplayWidget()
+{
+  window.location.href = "/profile_view_lists.php?list=mm";
+}
+
+function save_mm_rating(str)
+{
+  xmlHttp10=GetXmlHttpObject()
+
+  if (xmlHttp10==null)
+  {
+    alert ("Your browser does not support AJAX!")
+    return
+  }
+
+  var url="/ajax/save_mm_rating.php?";
+  url=url+str+"&sid="+Math.random();
+  xmlHttp10.onreadystatechange=save_mm_rating_stateChanged;
+  xmlHttp10.open("GET",url,true);
+  xmlHttp10.send(null);
+  return false;
+}
+
+function save_mm_rating_stateChanged()
+{
+  if (xmlHttp10.readyState==4 || xmlHttp10.readyState=="complete")
+  {
+    var str1=xmlHttp10.responseText;
+  }
 }
 
 function save_star_rating_stateChanged()
@@ -367,6 +558,7 @@ function GetXmlHttpObject()
 function adjust_titles(title_id,max_width,max_ht)
 {
   var i=1;
+  var j=1;
   var blnTrimed=false;
   var blnOK=true;
   while (blnOK==true)
@@ -379,12 +571,14 @@ function adjust_titles(title_id,max_width,max_ht)
 	}
 	else
 	{
-      while (ruler1.offsetWidth > max_width || ruler1.offsetHeight > max_ht)
+	  j=1;
+      while ((ruler1.offsetWidth > max_width || ruler1.offsetHeight > max_ht) && j < 100)
       {
         var str1 = ruler1.innerHTML;
         var len1 = str1.length;
         ruler1.innerHTML = str1.substr(0,(len1-1));
         blnTrimed=true;
+		j=j+1;
       }
       if (blnTrimed==true)
       {
@@ -432,7 +626,7 @@ function change_search(search_type)
     </tr>
     <tr>
       <!-- <td colspan="5"><input name="frm_search" type="text" id="frm_search" size="40" maxlength="80" value="" style="margin-bottom:3px;"/>&nbsp;<input type="submit" name="frm_search2" value="SEARCH" id="frm_search" class="button" /></td> -->
-      <td colspan="5"><input name="frm_searchbox" id="frm_searchbox" type="text" size="56" maxlength="255" style="color:#B8B7B7;" value="Search Movies by Name" autocomplete="off" onfocus="this.value='';this.style.color='#000000';" onkeyup="mypopup.showPopup('frm_searchbox');do_search(this);"></td>
+      <td colspan="5"><input name="frm_searchbox" id="frm_searchbox" type="text" maxlength="255" style="color:#B8B7B7; width:297px;" value="Search Movies by Name" autocomplete="off" onfocus="this.value='';this.style.color='#000000';" onkeyup="mypopup.showPopup('frm_searchbox');do_search(this);"></td>
     </tr>
   
   </tbody></table>
@@ -456,22 +650,22 @@ function change_search(search_type)
 <!-- HTML for when not logged in -->
 <table width="201" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td align="center"><div style="margin-top:7px; margin-right:5px;"><span class="large_white" style="line-height:15px; font-size:12px;">
+    <td align="center" valign="middle"><div style="margin-top:7px; margin-right:5px;"><span class="whitetextbold" style="line-height:15px; font-size:12px;">
 <script language="JavaScript">
 var Quote=new Array()
 
-Quote[0] = "&quot;Have you ever danced with the devil in the pale moonlight?&quot; - Batman (1989)";
-Quote[1] = "&quot;This is my house, I have to defend it.&quot; - Home Alone (1990)";
-Quote[2] = "&quot;If I were the man I was five years ago, I'd take a flamethrower to this place!&quot; - Scent of a Woman (1992)";
-Quote[3] = "&quot;Abashed the Devil stood and felt how awful goodness is.&quot; - The Crow (1994)";
-Quote[4] = "&quot;Were you listening to me, Neo? Or were you looking at the woman in the red dress?&quot; - The Matrix (1999)";
-Quote[5] = "&quot;Jimmy was the kind of guy that rooted for bad guys in the movies.&quot; - Goodfellas (1990)";
-Quote[6] = "&quot;Desperation is a stinky cologne. &quot; - Super Troopers(2001)";
+Quote[0] = "&quot;I’d take Filmcrave over Blockbuster’s application any day.&quot; - Mashable";
+Quote[1] = "&quot;Your favorite movie section all bulked and caffeinated&quot; - JournalStar.com";
+Quote[2] = "&quot;Be a ‘Movie God’ on FilmCrave&quot; - The Tech Brief";
+Quote[3] = "&quot;I'm addicted to it&quot; - Cafe Witness Blog";
+Quote[4] = "&quot;As far as film sites, FilmCrave has got it together&quot; - Killer Starups";
+Quote[5] = "&quot;Best Niche Social Networking Site&quot; - Judge's Choice, Open Web Awards";
+Quote[6] = "&quot;Fit To Be Certified&quot; - Film Stew";
 var Q = Quote.length;
 var whichQuote=Math.round(Math.random()*(Q-1));
 function showQuote(){document.write(Quote[whichQuote]);}
 showQuote();
-</script>"This is my house, I have to defend it." - Home Alone (1990)</span></div></td>
+</script>"Best Niche Social Networking Site" - Judge's Choice, Open Web Awards</span></div></td>
   </tr>
 </tbody></table>
 <!-- END HTML for when not logged in -->
@@ -492,46 +686,98 @@ showQuote();
 					<td></td>
 				  </tr>
 				  <tr>
-					<td>&nbsp;</td>
-					<td width="117" height="20">
-<a href="index.php" target="_self" class="navigation">Home</a></td>
-				  </tr>
-				  <tr>
-					<td></td>
-					<td height="20">
-<a href="reviews.php" target="_self" class="navigation">Movie Reviews</a></td>
-				  </tr>
-				  <tr>
-					<td></td>
-					<td height="20">
-<a href="list_member_movie.php" target="_self" class="navigation">Movie Lists</a></td>
-				  </tr>
-				  <tr>
-					<td></td>
-					<td height="20">
-<a href="coming_soon.php" target="_self" class="navigation">Coming Soon</a></td>
-				  </tr>
-				    <tr>
-					<td></td>
-					<td height="20">
-<a href="box_office.php" target="_self" class="navigation">In Theater</a></td>
-				  </tr>
-				 <!-- <tr>
-					<td></td>
-					<td height="20">
+					<td width="127" valign="top" colspan="2">
+<ul id="nav">
+<li>
+	<a href="index.php" target="_self" class="main_nav">&nbsp;&nbsp;Home</a>	
+	</li>
+<li>
+	<a href="reviews.php" class="main_nav">&nbsp;&nbsp;Movie Reviews</a></li>
+<li>
+		<a href="list_member_movie.php" class="icon" id="lists" onmouseover="document.getElementById('lists').style.color =  '#FFFFFF';" onmouseout="document.getElementById('lists').style.color =  '#000099';">&nbsp;&nbsp;Movie Lists</a>
+		<ul>
+			<li>
+			<a href="list_member_movie.php" class="sublist" onmouseover="document.getElementById('lists').style.color =  '#FFFFFF';" onmouseout="document.getElementById('lists').style.color =  '#000099';">Member Movie Lists</a>
+			</li>
+			<li>
+			<a href="list_top_movie.php" class="sublist" onmouseover="document.getElementById('lists').style.color =  '#FFFFFF';" onmouseout="document.getElementById('lists').style.color =  '#000099';">Top Movie List</a>
+			</li>
+			<li>
+			<a href="list_genre_movie.php" class="sublist_btm" onmouseover="document.getElementById('lists').style.color =  '#FFFFFF';" onmouseout="document.getElementById('lists').style.color =  '#000099';">Top Genre Lists</a>
+			</li>
+	</ul>
+</li>
+<li>
+		<a href="coming_soon.php" class="icon" id="new" onmouseover="document.getElementById('new').style.color =  '#FFFFFF';" onmouseout="document.getElementById('new').style.color =  '#000099';">&nbsp;&nbsp;New Movies</a>
+	
+		<ul>
+			<li>
+			<a href="coming_soon.php" class="sublist" onmouseover="document.getElementById('new').style.color =  '#FFFFFF';" onmouseout="document.getElementById('new').style.color =  '#000099';">Coming Soon</a>
+			</li>
+			<li>
+			<a href="box_office.php" class="sublist" onmouseover="document.getElementById('new').style.color =  '#FFFFFF';" onmouseout="document.getElementById('new').style.color =  '#000099';">In Theater</a>
+			</li>
+			<li>
+			<a href="trailers_new.php" class="sublist" onmouseover="document.getElementById('new').style.color =  '#FFFFFF';" onmouseout="document.getElementById('new').style.color =  '#000099';">New Trailers</a>
+			</li>
+			<li>
+			<a href="trailers_popular.php" class="sublist_btm" onmouseover="document.getElementById('new').style.color =  '#FFFFFF';" onmouseout="document.getElementById('new').style.color =  '#000099';">Popular Trailers</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<a href="dvd_new.php" class="icon" id="dvd" onmouseover="document.getElementById('dvd').style.color =  '#FFFFFF';" onmouseout="document.getElementById('dvd').style.color =  '#000099';">&nbsp;&nbsp;DVD</a>
+	
+		<ul>
+			<li>
+			<a href="dvd_new.php" class="sublist" onmouseover="document.getElementById('dvd').style.color =  '#FFFFFF';" onmouseout="document.getElementById('dvd').style.color =  '#000099';">New to DVD</a>
+			</li>
+			<li>
+			<a href="dvd_coming_soon.php" class="sublist" onmouseover="document.getElementById('dvd').style.color =  '#FFFFFF';" onmouseout="document.getElementById('dvd').style.color =  '#000099';">Coming to DVD</a>
+			</li>
+			<li>
+			<a href="dvd_top.php" class="sublist_btm" onmouseover="document.getElementById('dvd').style.color =  '#FFFFFF';" onmouseout="document.getElementById('dvd').style.color =  '#000099';">Best Selling DVD</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+			<a href="members_new.php" class="icon" id="members" onmouseover="document.getElementById('members').style.color =  '#FFFFFF';" onmouseout="document.getElementById('members').style.color =  '#000099';">&nbsp;&nbsp;Meet Members</a>
+		
+
+		<ul>
+			<li>
+			<a href="members_new.php" class="sublist" onmouseover="document.getElementById('members').style.color =  '#FFFFFF';" onmouseout="document.getElementById('members').style.color =  '#000099';">Meet Members</a>
+			</li>
+			<li>
+			<a href="member_stats.php" class="sublist" onmouseover="document.getElementById('members').style.color =  '#FFFFFF';" onmouseout="document.getElementById('members').style.color =  '#000099';">Member Statistics</a>
+			</li>
+			<li>
+			<a href="search_members.php" class="sublist_btm" onmouseover="document.getElementById('members').style.color =  '#FFFFFF';" onmouseout="document.getElementById('members').style.color =  '#000099';">Find Members</a>
+			</li>
+		</ul>
+	</li>
+	
+	<li>
+					<a href="search_members.php" class="icon" id="find" onmouseover="document.getElementById('find').style.color =  '#FFFFFF';" onmouseout="document.getElementById('find').style.color =  '#000099';">&nbsp;&nbsp;Search</a>
+				<ul>
+			<li>
+			<a href="search_members.php" class="sublist" onmouseover="document.getElementById('find').style.color =  '#FFFFFF';" onmouseout="document.getElementById('find').style.color =  '#000099';">Find Members</a>
+			</li>
+			<li>
+			<a href="search_films.php" class="sublist_btm" onmouseover="document.getElementById('find').style.color =  '#FFFFFF';" onmouseout="document.getElementById('find').style.color =  '#000099';">Find Movies</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+	<a href="sign_up.php" class="main_nav">&nbsp;&nbsp;Sign Up</a>	
+	</li>
+
+</ul>
+
 </td>
-				  </tr>-->
-				  <tr>
-					<td></td>
-					<td height="20">
-<a href="search_films.php" target="_self" class="navigation">Search</a></td>
 				  </tr>
 <!-- START Sign In NEED TO HIDE IF ALREADY SIGNED IN -->
- 					 <tr>
-					<td></td>
-					<td height="20">
-<a href="sign_up.php" target="_self" class="navigation">Sign Up</a></td>
-				  </tr>
+
 				    <tr>
 					<td height="4" colspan="2"></td>
 				  </tr>
@@ -544,11 +790,16 @@ showQuote();
 				  <form action="login.php" name="frm_login" method="post"></form>
 				  <tr>
 					<td></td>
-					<td height="20"><input id="user_name" name="user_name" type="text" size="17" maxlength="100" style="width:100px; color:#FFFFFF;" class="grey" value="username (email)" onfocus="if(this.value=='username (email)'){this.value='';this.style.color='#000000';}"></td>
+					<td height="20">							<input id="user_name" name="user_name" type="text" size="17" maxlength="100" style="width:100px; color:#FFFFFF;" class="grey" value="username (email)" onfocus="if(this.value=='username (email)'){this.value='';this.style.color='#000000';}">
+							</td>
 				  </tr>
 				   <tr>
 					<td></td>
-					<td height="20"><input id="password" name="password" type="password" size="17" maxlength="25" style="width:100px; color:#FFFFFF;" class="login_password" value="" onchange="this.className='grey';this.style.color='#000000';" onfocus="this.className='grey';this.style.color='#000000';"></td>
+					<td height="20">
+						<input id="password" name="password" type="password" size="17" maxlength="25" style="width:100px; color:#FFFFFF;" class="login_password" value="" onchange="this.className='grey';this.style.color='#000000';" onfocus="this.className='grey';this.style.color='#000000';">
+						<br>
+						<input type="checkbox" name="chk_save" value="1" id="chk_save" class="radio"> remember me
+					</td>
 				  </tr>
 				   <tr>
 					<td></td>
@@ -575,6 +826,7 @@ showQuote();
 <!-- End Sign In NEED TO HIDE IF ALREADY SIGNED IN -->
 					<tr>
 					<td colspan="2" align="center" style="padding-top:3px; padding-bottom:3px;">
+					
 					<script type="text/javascript"><!--
    e9 = new Object();
    e9.size = "120x600";
@@ -582,7 +834,6 @@ showQuote();
    e9.noAd = 1;
 //--></script>
 <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/FilmCraveforMovieLovers/ROS/tags.js"></script>
-					
 					
 </td>
 				  </tr>
@@ -600,11 +851,12 @@ showQuote();
 			<tr>
 				<td></td>
 				<td>
-			  <table width="608" border="0" cellspacing="0" cellpadding="0">
-					  <tbody><tr>
-					  <td class="gradientorange" width="408" height="32" valign="top"><span class="large_white">Privacy Policy  (updated 8/15/07)</span></td>
-				      </tr>
-			</tbody></table>
+				<table width="603" border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td height="32" style="border-bottom:#B2B2B2 1px solid; border-top:#B2B2B2 1px solid;background-color:#EBEBEB"><p class="headerNew">Privacy Policy  (updated 8/15/07)</p>
+							</td>
+						</tr>
+				</tbody></table><br>
 			  <table width="608" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
                   <td>
@@ -701,7 +953,15 @@ FilmCrave.com reserves the right to change this privacy policy at any time witho
   </tr>
 </tbody></table>
 </center>
-
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2009361-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
 
 
 </body></html>
