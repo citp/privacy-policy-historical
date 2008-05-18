@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiur.com privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109072934id_/http%3A//www.shiur.com/legal.php%3Fmode%3Dps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiur.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518122315id_/http%3A//www.shiur.com/legal.php%3Fmode%3Dps) for the most accurate reproduction.*
 
 # Shiur | Torah | Shiurim | Torah Audio | Weekly Torah Portion | Shiur.com
 
