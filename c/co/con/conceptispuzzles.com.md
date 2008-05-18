@@ -1,0 +1,21 @@
+> *The following text is extracted and transformed from the conceptispuzzles.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518150635id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/220) for the most accurate reproduction.*
+
+# Info :: Privacy
+
+  * [Home](https://web.archive.org/web/20080518150635id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/index.aspx)
+  * » [Info](https://web.archive.org/web/20080518150635id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/index.aspx?uri=info)
+  * » Privacy
+
+
+
+[ ](https://web.archive.org/web/20080518150635id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/index.aspx?uri=picture/184)
+
+Conceptispuzzles.com is an online logic puzzles community with tens of thousands of registered members and many new ones joining every day. While some people come just for the puzzles, many others seek for a more advanced and social interactive experience. To do so, this website allows you sharing some personal information and preferences with other members.
+
+We never have and never will share, provide, disclose or sell any of our members' personal information to any third party or individual. We get tons of spam and hate it just like you! All personal information will be used strictly for internal demographic analysis, and will be handled by Conceptis' management team only.
+
+The only mandatory information which must be entered when registering is your username, country and email. The username and country will always be public while the email may be public or private depending on your preference. There is more community profile information in the Member profile form which is optional, such as first name, last name, birthday, interests, occupation, and so on. This information, except for the items which you prefer to keep private using the hide option, will become visible in the forums. Other information such as puzzle profile and forum preferences will always remain private.
+
+Some of the information provided in the Member profile form as well as user reviews submitted to the My weekly review contest may be used for our own development and marketing purposes to improve the quality and fun of our puzzles. From time to time we may also share this information with our publishers and puzzle fans, in the form of [news items](https://web.archive.org/web/20080518150635id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/index.aspx?uri=info/news) containing statistical data about puzzling preferences, market trends and so on. All information in such cases will remain strictly anonymous.
+
+It is impossible to provide any advanced user based services nowadays without using Internet cookies. Thus, cookies must be turned on in your browser to register to Conceptis' community. The cookies are used to hold your username, password and viewing options, allowing you to login. For instructions on how to enable your cookies in your browser [see here](http://www.google.com/cookies.html).
