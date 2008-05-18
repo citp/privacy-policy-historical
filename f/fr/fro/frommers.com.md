@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215347id_/http%3A//frommers.com/about/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518091950id_/http%3A//www.frommers.com/about/about_privacy.html) for the most accurate reproduction.*
 
 # Frommer's About Us
 
