@@ -1,97 +1,19 @@
-<!--The following is the downloaded HTML source of the walgreens.com privacy policy that was archived on 2007-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231102211id_/http%3A//www.walgreens.com/help/privacyandsecurity.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the walgreens.com privacy policy that was archived on 2008-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080518094649id_/http%3A//www.walgreens.com/help/privacyandsecurity.jsp%3Ffoot%3Dsecurity) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 
 <link rel="stylesheet" type="text/css" media="all" href="/styles/walgreens.css">
 <title>Walgreens.com | Help | Walgreens.com Online Privacy &amp; Security Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
 <meta name="description" content="Walgreens.com online privacy and security policy">
 <meta name="decorator" content="help_left_crumb_right">
 <meta name="keywords" content="Walgreens, Walgreen Co., Walgreens.com, online, privacy, security, policy">
-<script type="text/javascript">
-<!-- Hide from older browsers
 
-	function popUp(url, winName)
-	{
-		newWin = open(url, winName, 'width=450,height=300,status');
-		newWin.moveTo(200,200)
-		return false;
-	}
-	function popQpon(url, winName)
-	{
-		newWin = open(url, winName, 'width=380,height=460,scrollbars,status');
-		newWin.moveTo(200,200)
-		return false;
-	}
-	function popUp1(url, winName)
-	{
-		newWin = open(url, winName, 'width=450,height=300,status');
-		newWin.moveTo(200,200)
-	}
-	function popSup(url, winName)
-	{
-		newWin = open(url, winName, 'width=600,height=650,status');
-		newWin.moveTo(200,50)
-		return false;
-	}
-	function popInfo(url, winName)
-	{
-		newWin = open(url, winName, 'width=500,height=350,scrollbars,status');
-		newWin.moveTo(150,100)
-		return false;
-	}
-	function popSample(title, imgPath)
-	{
-		var sampleFilePath = '/popups/pop_sample.jsp?title='+escape(title)+'&imgPath='+escape(imgPath);
-		newWin = open(sampleFilePath, 'popSampleWin','width=520,height=420,scrollbars,resizable=yes');
-		newWin.moveTo(100,100)
-		return false;
-	}
-	function popReg(url, winName)
-	{
-		newWin = open(url, winName, 'width=550,height=400,scrollbars,status');
-		newWin.moveTo(150,100)
-		return false;
-	}
-	function popDrug(url, winName)
-	{
-		newWin = open(url, winName, 'width=520,height=415', 'scrollbars,status');
-		newWin.moveTo(150,100)
-		return false;
-	}
-	function closeRemote()
-	{
-		timer = setTimeout('window.close();', 10);
-	}
-	function backRemote()
-	{
-		timer = setTimeout('history.back();', 10);
-	}
 	
-	function thirdParty()
-	{
-	if (xtaOne == "")
-		{
-		newUrl = newUrl
-		}
-	else
-		{
-		if (xtaThree == "")
-			{
-			newUrl = newUrl + "?" + xtaOne + "=" + xtaTwo ;
-			}
-		else
-			{
-			newUrl = newUrl + "?" + xtaOne + "=" + xtaTwo + "&" + xtaThree + "=" + xtaFour ;
-			}
-		}
-	}
-	function superImage(prOd)
-	{
-	supwindow = popSup("/popups/s_image.jsp?id="+prOd);
-	}
-// End Hiding from older browsers -->
-</script>
+	     
+<meta name="decorator" content="help_left_crumb_right">
 </head>
 <body>
 <div align="center">
@@ -103,15 +25,101 @@
 
 	
 
+<script type="text/javascript">
+	function getCookie(name) {
+		var dc = document.cookie;
+		var prefix = name + "=";
+		var begin = dc.indexOf("; " + prefix);
+		if (begin == -1) {
+			begin = dc.indexOf(prefix);
+			if (begin != 0) {
+				return null;
+			}
+		} else {
+			begin += 2;
+		}
+		var end = document.cookie.indexOf(";", begin);
+		if (end == -1) {
+			end = dc.length;
+		}
+		return unescape(dc.substring(begin + prefix.length, end));
+	}
+	
+	function getExternData(name){
+		var value=null;
+		var externData = getCookie("externalizeData");
+		if(externData != null){
+			externData=translateData(externData).split(";");	
+			
+			for(var i=0; value==null && i < externData.length; i++){
+				var data=externData[i].split("=");
+				if(data[0]==name){
+					value = data[1];
+				}
+			}
+		}
+		
+		return value;
+	}
+
+  function translateData(value) {  
+		var keyStr = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
+                
+		var output = "";
+		var chr1, chr2, chr3 = "";
+		var enc1, enc2, enc3, enc4 = "";
+		var i = 0;
+
+		do {
+			enc1 = keyStr.indexOf(value.charAt(i++));
+			enc2 = keyStr.indexOf(value.charAt(i++));
+			enc3 = keyStr.indexOf(value.charAt(i++));
+			enc4 = keyStr.indexOf(value.charAt(i++));
+
+			chr1 = (enc1 << 2) | (enc2 >> 4);
+			chr2 = ((enc2 & 15) << 4) | (enc3 >> 2);
+			chr3 = ((enc3 & 3) << 6) | enc4;
+
+			output = output + String.fromCharCode(chr1);
+
+			if (enc3 != 64) {
+				output = output + String.fromCharCode(chr2);
+			}
+			
+			if (enc4 != 64) {
+				output = output + String.fromCharCode(chr3);
+			}
+
+			chr1 = chr2 = chr3 = "";
+			enc1 = enc2 = enc3 = enc4 = "";
+
+		} while (i < value.length);
+
+		return output;
+	}
+</script>
+
 
 	
 	
 		<div align="center">
-			<iframe src="http://www.walgreens.com/common/navigation/header_iframe.jsp" width="750" height="188" border="0" frameborder="0" marginwidth="0" marginheight="0" align="top" scrolling="NO"></iframe>
+			<iframe src="http://www.walgreens.com/common/navigation/header_iframe.jsp" width="750" height="188" border="0" frameborder="0" marginwidth="0" marginheight="0" align="top" scrolling="NO">Walgreens.com header - requires iframes-capable browser</iframe>		
+			
 		</div>	
 	
 
 
+
+<script type="text/javascript">
+		var combOrder=parseInt(getExternData("combOrder"), 10);
+		var loginStatus=getExternData("loginStatus");
+		if(loginStatus=="true" || combOrder > 0){
+			document.writeln("<iframe src=\"http://www.walgreens.com/common/sessionrefresh.jsp\" width=\"0\" height=\"0\" " +
+												"border=\"0\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" " + 
+												"style=\"display: none; visibility: hidden; width: 0px; height: 0px; padding: 0px; " +
+												"margin: 0px;\">Walgreens.com header - requires iframes-capable browser</iframe>");
+		}
+</script>
 
 
 <table bgcolor="#FFFFFF" width="750" align="center" cellpadding="0" cellspacing="0" border="0">
@@ -478,9 +486,9 @@
 </td>
 	</tr>
 	<tr>
-		<td width="430" align="left" style="border-top: 1px solid #939393;" valign="top"><table cellpadding="12" cellspacing="0" border="0" width="427">
-	<tbody><tr>
-		<td>  
+		<td width="430" align="left" style="border-top: 1px solid #939393;" valign="top"><div class="gutter">
+	
+
   		
 <h1 class="heading3" style="margin:0px; padding-bottom:10px;">WALGREENS.COM ONLINE PRIVACY  &amp; SECURITY POLICY</h1>
 
@@ -493,9 +501,9 @@
 <p class="bodytext" style="margin:0px; padding-bottom:10px;">Walgreens.com gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. To review or make changes to your information, click on "Help" located at the top of the web page. The Help section contains instructions about your account and editing steps for entering new information or changing existing information. This list will change as our web site evolves.</p> 
 <ul class="noindent">
 	<li class="bodytext" style="padding-bottom:3px;"><a href="/youraccount/default.jsp">Your Account</a></li>
-	<li class="bodytext" style="padding-bottom:3px;"><a href="/help/pin.jsp">PIN</a></li>
+	<li class="bodytext" style="padding-bottom:3px;"><a href="/help/pin.jsp">Full Online Pharmacy Registration</a></li>
 	<li class="bodytext" style="padding-bottom:3px;"><a href="/help/orderprescriptions.jsp">Place Prescription Order</a></li>
-	<li class="bodytext" style="padding-bottom:3px;"><a href="/help/pinuse/pinuse1.jsp">Point and Click Refills®</a></li>
+	<li class="bodytext" style="padding-bottom:3px;"><a href="/help/pinuse/pinuse1.jsp">Easy Online Prescription Refills</a></li>
 	<li class="bodytext" style="padding-bottom:3px;"><a href="/help/health_history/default.jsp">Update Health History</a></li>
 	<li class="bodytext" style="padding-bottom:3px;"><a href="/help/autorefill.jsp">Activate Auto Refills</a></li>
 	<li class="bodytext" style="padding-bottom:3px;"><a href="/messaging/psm/psmhome.jsp">Read Confidential Messages</a></li>
@@ -581,7 +589,7 @@ pictures or photo products, sending postal mail and e-mail, removing repetitive 
 		
 <p class="bodytext" style="margin:0px;"><strong>How secure is the information I provided?</strong></p>
 			
-<p class="bodytext" style="margin:0px; padding-bottom:10px;">Walgreens is committed to securing your personal information. We use technology that is designed for use with secure web servers. Prescription drug information resides in a database behind a firewall where it cannot be accessed without proper authorization. Secure Sockets Layer ("SSL") technology encrypts your personal information as well as your prescription health history as it is transmitted over the Internet. You maintain the security of your medical information by keeping your user name, password, <a href="/help/pin.jsp">PIN</a>  and other personal information confidential. In addition, Walgreens customer service representatives will never ask you or call you to request your password.</p> 
+<p class="bodytext" style="margin:0px; padding-bottom:10px;">Walgreens is committed to securing your personal information. We use technology that is designed for use with secure web servers. Prescription drug information resides in a database behind a firewall where it cannot be accessed without proper authorization. Secure Sockets Layer ("SSL") technology encrypts your personal information as well as your prescription health history as it is transmitted over the Internet. You maintain the security of your medical information by keeping your user name, password and other personal information confidential. Walgreens customer service representatives will never request your password.</p> 
 			
 <p class="bodytext" style="margin:0px; padding-bottom:10px;">We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.</p> 
 
@@ -621,9 +629,8 @@ pictures or photo products, sending postal mail and e-mail, removing repetitive 
 </ul>
 		
 <p class="bodytext" style="margin:0px;"><strong>Effective Date:</strong> 07/17/2007</p>
-  		</td>
-	</tr>
-</tbody></table></td>
+
+</div></td>
 		<td align="left" style="border-left: 1px solid #939393;border-right: 1px solid #939393;border-top: 1px solid #939393;" width="150" valign="top">
 
 <div class="gutter" style="width:125px;">
@@ -668,7 +675,232 @@ pictures or photo products, sending postal mail and e-mail, removing repetitive 
 
 	
 <table align="center" width="750" border="0" cellpadding="0" cellspacing="0">
+
+
+	
+	           
 	<tbody><tr>
+		<td colspan="3" style="border-right: 1px solid #939393; border-left: 1px solid #939393; border-top: 1px solid #939393;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var signupURL="";
+</script>
+<script src="/scripts/email-zip_validation.js"></script>
+
+<script type="text/javascript">
+var myHref=location.href;
+//begin emailSignupScript
+var myForm="ribbon3"; //default ribbon
+//monthly newsletter test
+var monthlyArr=new Array('pharmacy', 'library', 'caregiver', 'aarp.walgreens');
+function chkMonthly() {
+	for (var i=0; i<monthlyArr.length; i++) {
+		b=monthlyArr[i];
+		if (myHref.indexOf(b)>-1) {
+			myForm="ribbon1";
+				return;
+		}
+	}
+}	
+//weekly specials test
+function chkWeekly() {
+	if ((myHref.indexOf('rebateclub') >-1) || (myHref.indexOf('emailForm=weeklyad') >-1)) {
+		myForm="ribbon2";
+			return;
+	}
+}	
+//coupons test
+function chkCoupons() {
+	if (myHref.indexOf('emailForm=coupons') >-1) {
+		myForm="ribbon6";
+			return;
+	}
+}	
+//photo test
+function chkPhoto() {
+	if ((myHref.indexOf('qa.snapfish.com') >-1) || (myHref.indexOf('photo.walgreens.com') >-1)) {
+		myForm="ribbon4";
+			return;
+	}
+}	
+//diabetes test
+var diabetesArr=new Array(100947,100595,100136,100133,100132,100596,100137,100919,100135,100598,304070,100597,100089,100689,302650,302648,304759);
+function chkDiab() {
+	if (myHref.indexOf("diabetes")>-1) {
+		myForm="ribbon5";
+	} else {
+		var a;
+		for (var j=0; j<diabetesArr.length; j++) {
+			a="CATID="+diabetesArr[j];
+			if (myHref.indexOf(a)>-1) {
+				myForm="ribbon5";
+					return;
+			}
+		}
+	}
+}
+function sample(sapEmail)
+	{
+	var urlSemail=signupURL+'/emailsignup/signup_main.html'+'?popUp=true&sampleCd='+sapEmail;
+	window.open(urlSemail,'emailSampleWin','width=600,height=500,status,scrollbars');
+	return false;
+	}
+//which email
+var emailKey=new Array();
+emailKey['ribbon1']="1";
+emailKey['ribbon2']="3";
+emailKey['ribbon3']="2,4";
+emailKey['ribbon4']="2,4";
+emailKey['ribbon5']="1,5";
+emailKey['ribbon6']="2,3";
+var textKey=new Array();
+textKey['ribbon1']="Sign up to receive our <a href='javascript:void(0)' onClick='sample(1);' onMouseOver='(window.status=\"Click to see a sample\");return true'>Monthly Health Newsletter</a> by email.";
+textKey['ribbon2']="Sign up to receive our <a href='javascript:void(0)' onClick='sample(3);' onMouseOver='(window.status=\"Click to see a sample\");return true'>Weekly Ad Reminder</a> by email.";
+textKey['ribbon3']="Sign up to receive <a href='javascript:void(0)' onClick='sample(4);' onMouseOver='(window.status=\"Click to see a sample\");return true'>W Photo News and Offers</a>, plus <a href='javascript:void(0)' onClick='sample(2);' onMouseOver='(window.status=\"Click to see a sample\");return true'>Special Offers and Savings</a>, by email.";
+textKey['ribbon4']="Sign up to receive <a href='javascript:void(0)' onClick='sample(4);' onMouseOver='(window.status=\"Click to see a sample\");return true'>W Photo News and Offers</a>, plus <a href='javascript:void(0)' onClick='sample(2);' onMouseOver='(window.status=\"Click to see a sample\");return true'>Special Offers and Savings</a>, by email.";
+textKey['ribbon5']="Sign up to receive our <a href='javascript:void(0)' onClick='sample(1);' onMouseOver='(window.status=\"Click to see a sample\");return true'>Monthly Health Newsletter</a>, plus <a href='javascript:void(0)' onClick='sample(5);' onMouseOver='(window.status=\"Click to see a sample\");return true'>Quarterly Diabetes Newsletter</a>, by email.";
+textKey['ribbon6']="Sign up to receive our <a href='javascript:void(0)' onClick='sample(3);' onMouseOver='(window.status=\"Click to see a sample\");return true'>Weekly Ad Reminder</a>, plus <a href='javascript:void(0)' onClick='sample(2);' onMouseOver='(window.status=\"Click to see a sample\");return true'>Special Offers and Savings</a>, by email.";
+var iconKey=new Array();
+iconKey['ribbon1']="/images/email/email_signup/icon_grey.gif";
+iconKey['ribbon2']="/images/email/email_signup/icon_grey.gif";	
+iconKey['ribbon3']="/images/email/email_signup/icon_grey.gif";
+iconKey['ribbon4']="/images/email/email_signup/icon_blue.gif";
+iconKey['ribbon5']="/images/email/email_signup/icon_grey.gif";
+iconKey['ribbon6']="/images/email/email_signup/icon_grey.gif";
+var bkgKey=new Array();
+bkgKey['ribbon1']="#EBEBEB";
+bkgKey['ribbon2']="#EBEBEB";	
+bkgKey['ribbon3']="#EBEBEB";
+bkgKey['ribbon4']="#E7F3FB";
+bkgKey['ribbon5']="#EBEBEB";
+bkgKey['ribbon6']="#EBEBEB";
+function chkAll() {
+	chkMonthly();
+	chkWeekly();
+	chkCoupons();
+	chkDiab();
+	chkPhoto();
+}
+function startBGcolor() {
+	var myBG=bkgKey[myForm];
+	obj=document.getElementById("emailSignupRibbon");
+	obj.style.backgroundColor=myBG;
+}
+function writeForm() {
+	var sHTML="";
+	sHTML =  '<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr valign="top">';
+	sHTML += '<td width="47" rowspan="2" style="padding-left:10px; padding-bottom:0px;"><img src="'+iconKey[myForm]+'" alt=""></td>';
+	sHTML += '<td width="300" valign="top" align="left" style="padding:0px 10px;" rowspan="2" class="bodytext">'+textKey[myForm]+'</td>';
+	sHTML += '<input type="hidden" name="nextpg" value="confirm_popup">';
+	sHTML += '<input type="hidden" name="errpg" value="confirm_popup">';
+	sHTML += '<input type="hidden" name="optCd" value="'+emailKey[myForm]+'">';
+	sHTML += '<input type="hidden" name="popUp" value="true"/>';
+	sHTML += '<td width="190" style="padding-right:10px; margin:0px;" class="bodytext"><input name="email" id="email" value="Email address" onblur="javascript:getvalue(0);" onfocus="javascript:clearvalue(0)" size="30" maxlength="100" /></td>';
+	sHTML += '<td width="60" class="bodytext"><input name="zip" id="zip" value="ZIP code" onblur="javascript:getvalue(1);" value="" onfocus="javascript:clearvalue(1);" size="10" /></td>';
+	sHTML += '<td valign="top" style="padding-right:10px; padding-left:10px;" class="bodytext"><input type="submit" style="background:url(/images/email/email_signup/btn_signup.gif);width:84px;height:21px;border:none;cursor:pointer" value=" " alt="Sign up" /></td>';
+	sHTML += '</tr><tr>';
+	sHTML += '<td align="left" colspan="3" style="padding-bottom:0px;" class="smalltext bodytextsmall">By signing up, I\'m agreeing to <a href="/help/termsofuse.jsp">Walgreens Terms of Use</a>.</td>';
+	sHTML += '</tr></table>';
+	document.getElementById("emailFormDiv").innerHTML=sHTML;
+	obj2=document.getElementById("emailSignupRibbon");
+	obj2.style.display='block';
+}
+function check_form(frmObj) {
+	var error="";
+	if (frmObj.zip.value=='ZIP code') {
+		frmObj.zip.value="";
+	}
+	var nZip = frmObj.zip.value;
+	var sEmail = frmObj.email.value;
+	var optCd = emailKey[myForm];
+	if ((trim(sEmail).length<1)||(sEmail=="Email address")) {
+		error = "Please enter your <b>email address</b>";
+	}
+	if (error.length<1 && trim(sEmail) != "") {
+		if (!(validateEmail(sEmail))){
+			error =  "<b>Invalid Email Address:</b> We're sorry, the email address you entered appears to be invalid. Please check the address and re-enter it."
+		}
+	}		
+	if (error.length<1 && trim(nZip)!="" ) {
+		if (!(containsDigits(nZip)) || !(numDigits(nZip))){
+			error =  "<b>Invalid Email Address and ZIP Code:</b> We're sorry, the email address and ZIP code you entered appear to be invalid. Please check this information and re-enter it.";
+		}
+	}		
+	if (error.length == 0) {
+		var urlStr=signupURL+'/emailsignup/signup.html?popUp=true&email='+sEmail+'&zip='+nZip+'&optCd='+optCd;
+		window.open(urlStr,'emailSignupWin','width=600,height=500,status,scrollbars');
+		obj=document.getElementById("commentError");
+		obj.style.visibility='hidden';
+		obj.style.display='none';
+		frmObj.reset();
+		return false;
+	} else {
+		frmObj.action='javascript:void(0)';
+		obj=document.getElementById("commentError");
+		obj.innerHTML=error;
+		obj.style.visibility='visible';
+		obj.style.display='block';
+		error="";
+		return false;
+	}
+}
+function clearvalue(nVal) {
+	if (nVal==0)
+	if (document.emailForm.email.value=="Email address")
+		document.emailForm.email.value="";
+	if (nVal==1) {
+    	if (document.emailForm.zip.value=="ZIP code") {
+			document.emailForm.zip.value="";
+		}
+	}
+}
+function getvalue(nVal) {
+    if (nVal==0)
+    if (document.emailForm.email.value=="") {
+    	document.emailForm.email.value="Email address";
+	}
+    if (nVal==1)
+    if (document.emailForm.zip.value=="")
+       document.emailForm.zip.value="ZIP code";
+}
+chkAll();
+</script>
+<form name="emailForm" style="margin:0px;" action="javascript:void(0)" onsubmit="check_form(this)"> 
+<div style="width: 748px; background-color: rgb(235, 235, 235); display: block; padding: 6px 0px;" id="emailSignupRibbon">
+	<div align="center"><div class="rederrorbox" style="display:none; width:674px;" align="left" id="commentError" name="commentError"></div></div>
+	<div id="emailFormDiv" style="width:748px; background-color:#EBEBEB;"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td width="47" rowspan="2" style="padding-left:10px; padding-bottom:0px;"><img src="/images/email/email_signup/icon_grey.gif" alt=""></td><td width="300" valign="top" align="left" style="padding:0px 10px;" rowspan="2" class="bodytext">Sign up to receive <a href="javascript:void(0)" onclick="sample(4);" onmouseover="(window.status=&quot;Click to see a sample&quot;);return true">W Photo News and Offers</a>, plus <a href="javascript:void(0)" onclick="sample(2);" onmouseover="(window.status=&quot;Click to see a sample&quot;);return true">Special Offers and Savings</a>, by email.</td><input type="hidden" name="nextpg" value="confirm_popup"><input type="hidden" name="errpg" value="confirm_popup"><input type="hidden" name="optCd" value="2,4"><input type="hidden" name="popUp" value="true"><td width="190" style="padding-right:10px; margin:0px;" class="bodytext"><input name="email" id="email" value="Email address" onblur="javascript:getvalue(0);" onfocus="javascript:clearvalue(0)" size="30" maxlength="100"></td><td width="60" class="bodytext"><input name="zip" id="zip" value="ZIP code" onblur="javascript:getvalue(1);" onfocus="javascript:clearvalue(1);" size="10"></td><td valign="top" style="padding-right:10px; padding-left:10px;" class="bodytext"><input type="submit" style="background:url(/images/email/email_signup/btn_signup.gif);width:84px;height:21px;border:none;cursor:pointer" value=" " alt="Sign up"></td></tr><tr><td align="left" colspan="3" style="padding-bottom:0px;" class="smalltext bodytextsmall">By signing up, I'm agreeing to <a href="/help/termsofuse.jsp">Walgreens Terms of Use</a>.</td></tr></tbody></table></div>
+</div>
+</form>
+	<noscript>
+		<div align="left" valign="top" style="width:736px; height:54px; background-color:#EBEBEB; padding:6px; margin:0;">
+			<p class="bodytext" style="margin:0"><img src="http://a1061.g.akamai.net/7/1061/5412/home/www.walgreens.com/images/email/email_signup/icon_grey.gif" align="left" alt="Walgreens logo" height="54" hspace="4" width="47"/>
+			<br>
+			<a href="/emailsignup/signup_main.html?optCd=2,4">Sign up to receive W Photo News and Offers, plus Special Offers and Savings, by email.</a></p>
+		</div>
+	</noscript>
+<script type="text/javascript">
+if ((myHref.indexOf('/register/')<0)&&(myHref.indexOf('/checkout/')<0)&&(myHref.indexOf('/emailsignup/')<0)) {
+	startBGcolor();
+	writeForm();
+}
+</script></td>
+	</tr>
+	
+
+	<tr>
 		<td colspan="3" width="750" align="center" bgcolor="#7D89D0" style="padding-top:14px;"><p class="bodytext nopad white" style="margin:0px; color:#FFFFFF;"><strong><a href="/default.jsp" class="reverse white" style="color:#FFFFFF;">Home</a>&nbsp;|&nbsp;<a href="/storelocator/find.jsp" class="reverse white" style="color:#FFFFFF;">Store Locator</a>&nbsp;|&nbsp;<a href="/store/sundayad/default.jsp" class="reverse white" style="color:#FFFFFF;">Weekly Ad</a>&nbsp;|&nbsp;<a href="/help/aboutshipping.jsp" class="reverse white" style="color:#FFFFFF;">Shipping</a>&nbsp;|&nbsp;<a href="/help/aboutorder.jsp#return" class="reverse white" style="color:#FFFFFF;">Returns</a>&nbsp;|&nbsp;<a href="/about/default.jsp" class="reverse white" style="color:#FFFFFF;">Company Info</a>&nbsp;|&nbsp;<a href="/about/careers/default.jsp" class="reverse white" style="color:#FFFFFF;">Careers</a>&nbsp;|&nbsp;<a href="http://vovici.com/wsb.dll/s/13b07g2999f" class="reverse white" style="color:#FFFFFF;" target="_blank">Web Site Survey</a>&nbsp;|&nbsp;<a href="/contactus/default.jsp" class="reverse white" style="color:#FFFFFF;">Contact Us</a>&nbsp;|&nbsp;<a href="/help/default.jsp" class="reverse white" style="color:#FFFFFF;">Help</a></strong></p></td>
 	</tr>
 	<tr>
@@ -677,8 +909,8 @@ pictures or photo products, sending postal mail and e-mail, removing repetitive 
 		<td valign="bottom" align="right" bgcolor="#7D89D0"><img src="http://a1061.g.akamai.net/7/1061/5412/home/www.walgreens.com/images/common/navigation/footer_right_corner.gif" alt="" border="0" height="32" width="116"></td>
 	</tr>
 	<tr>
-		<td colspan="3" bgcolor="#F5EBC9" align="center" style="padding-top:10px;"><p class="bodytext nopad" style="margin:0px;"><a href="/help/noticeprivacypractices.jsp">Notice of Privacy Practices</a>&nbsp;|&nbsp;<a href="/common/termsofuse.jsp">Terms of Use</a>&nbsp;|&nbsp;<a href="/help/privacyandsecurity.jsp">Online Privacy &amp; Security</a></p>
-		<p class="bodytext" style="margin:0px; padding-top:5px;">© Copyright 2007 Walgreen Co.  All rights reserved.</p></td>
+		<td colspan="3" bgcolor="#F5EBC9" align="center" style="padding-top:10px;"><p class="bodytext nopad" style="margin:0px;"><a href="/help/noticeprivacypractices.jsp">Notice of Privacy Practices</a>&nbsp;|&nbsp;<a href="/help/termsofuse.jsp">Terms of Use</a>&nbsp;|&nbsp;<a href="/help/privacyandsecurity.jsp">Online Privacy &amp; Security</a></p>
+		<p class="bodytext" style="margin:0px; padding-top:5px;">© Copyright 2008 Walgreen Co.  All rights reserved.</p></td>
 	</tr>
 </tbody></table>
 
@@ -701,9 +933,9 @@ var s_eVar3='';
 var s_eVar4='' ;
 var s_eVar22='';
 var s_eVar23='';
+var s_eVar31='security';
 
-
-var s_channel = "null";
+var s_channel = "Company | Help";
 var s_campaign="";
 var s_prop4="";
 var t1='';
@@ -746,6 +978,28 @@ else if(document.title != "" && document.title.indexOf("Search Results") >=0)
 
 
 
+
+
+
+
+	
+<script type="text/javascript" src="/scripts/s_code.js"></script>
+<script type="text/javascript"><!--
+var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc(
+'walgrns');if(s_code)document.write(s_code)}else
+document.write('<im'+'g src="http://walgrns.112.2O7.net/b/ss/walgrns/1/G.5--FB/s'+s_tm.getTime()+'?[AQB]'
++'&j=1.0&[AQE]" height="1" width="1" border="0" alt="" />')
+//--></script><script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img
+src="http://walgrns.112.2O7.net/b/ss/walgrns/1/G.5--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!-- DO NOT REMOVE -->
+
+
+
+
+
+	
 
 
 
