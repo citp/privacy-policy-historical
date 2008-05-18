@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reframeit.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014181431id_/http%3A//static.reframeit.com/html/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reframeit.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518033748id_/http%3A//static.reframeit.com/html/privacy) for the most accurate reproduction.*
 
 # Reframe It - Community Created Context
 
