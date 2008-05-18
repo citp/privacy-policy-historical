@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvstoreonline.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223131449id_/http%3A//www.tvstoreonline.com/about.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvstoreonline.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518044353id_/http%3A//www.tvstoreonline.com/about.htm) for the most accurate reproduction.*
 
 # About Our Company
 
@@ -14,7 +14,7 @@ All pages on this site, the design, is Copyright ©Fred Hajjar. All rights reser
 
 All pages on this site, the content, is Copyright © 
 
-_**Your Fantasy Warehouse Inc.**_
+_**Tv Store Online.** _
 
 All rights reserved.
 
