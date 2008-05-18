@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chumby.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024142610id_/http%3A//www.chumby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chumby.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518035526id_/http%3A//www.chumby.com/privacy) for the most accurate reproduction.*
 
 # chumby › privacy policy
 
-Chumby Industries, Inc. (" **Chumby** ", " **us** " or " **we** ") respects the privacy of the visitors to its **Website** , the home page of which is located at http://www.chumby.com (" **Website** "). This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Website and Services. Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Terms of Use for the Chumby Services that you can find here: [http://chumby.com/corporate/terms_of_use](http://www.chumby.com/corporate/terms_of_use)
+Chumby Industries, Inc. (" **Chumby** ", " **us** " or " **we** ") respects the privacy of the visitors to its **Website** , the home page of which is located at http://www.chumby.com (" **Website** "). This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Website and Services. Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Terms of Use for the Chumby Services that you can find here: <http://www.chumby.com/pages/terms>
 
 "Personal Information" is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
 
@@ -114,5 +114,3 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using our Services. Continued use of our Services following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
 Updated: July 2007
-
-Copyright © 2006 - 2007 Chumby Industries. All rights reserved.
