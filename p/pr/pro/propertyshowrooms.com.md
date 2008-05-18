@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the propertyshowrooms.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114161628id_/http%3A//www.propertyshowrooms.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyshowrooms.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518054050id_/http%3A//www.propertyshowrooms.com/privacy_statement.asp) for the most accurate reproduction.*
 
-# Property Showrooms Privacy Statement
+# Propertyshowrooms.com Privacy Statement
 
 Global Prospects S.L operating Propertyshowrooms.com and IPIN is deeply committed to protecting the privacy of Internet users. Accordingly, we strictly adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information.
 
@@ -8,9 +8,13 @@ Global Prospects SL adheres to the confidentiality of each and every client and 
 
 Please read the full privacy policy below.
 
+## Contacting you
+
+By registering your contact details on Propertyshowrooms.com including registration as a member of the International Property Investment Network (IPIN) you agree that we can contact you at anytime via any method using the details submitted to us, you grant us the right to contact you until you notify us not to.
+
 ## Email Marketing
 
-By registering your contact details on Propertyshowrooms.com )including registration as a member of the International Property Investment Network (IPIN)) you agree that we can send you marketing emails to you at any time, these will continue until you notify us to remove you from our mailing list.
+By registering your contact details on Propertyshowrooms.com including registration as a member of the International Property Investment Network (IPIN) you agree that we can send you marketing emails at any time, these will continue until you notify us to remove you from our mailing list.
 
 ## Anti-Spam
 
@@ -22,7 +26,9 @@ Found in every communication sent over the Internet. Using this standard informa
 
 ## Personal Information
 
-In some cases, you may voluntarily provide personal information. For instance, you may provide your address or email address in order to receive further information or create an account. We may collect this information and use this information to respond to your request for the information requested. In order to service your requirements we have to share your contact details with our panel of vetted real estate agents in order for them to contact you and help you find a suitable property. Every one of our vetted agents has agreed to our operating terms and conditions which explicitly states that under no circumstances can they share any of your personal details with any external agents or third parties. www.propertyshowrooms.com will not share your details with any external agents and or third parties.
+In some cases, you may voluntarily provide personal information. For instance, you may provide your address or email address in order to receive further information or create an account. We may collect this information and use this information to respond to your request for the information requested. In order to service your requirements we have to share your contact details with our panel of vetted real estate agents in order for them to contact you and help you find a suitable property. Every one of our vetted agents has agreed to our operating terms and conditions which explicitly states that under no circumstances can they share any of your personal details with any external agents or third parties.
+
+www.propertyshowrooms.com will not share your details with any external agents, third parties who have not been pre-vetted by ourselves.
 
 For more information on the types of personally identifiable information collected by us, please email us at legal@propertyshowrooms.com
 
@@ -44,10 +50,9 @@ If you should have any questions or concerns regarding this Privacy Statement, p
 
 The following information is required by the Electronic Commerce (EC Directive) Regulations 2002.
 
-Service Provided by www.propertyshowrooms.com which is an operational business unit of Global Prospects S.L. 
+Service Provided by www.propertyshowrooms.com which is an operational business unit of Global Prospects S.L.
 
 Global Prospects SL  
 Edificio Beroe, Calle Ramon y Cajal 5  
 Fuengirola/Malaga   
-Spain, 29640  
-
+Spain, 29640
