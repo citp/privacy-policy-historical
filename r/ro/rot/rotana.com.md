@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rotana.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121110837id_/http%3A//www.rotana.com/privacystatement-1-36.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotana.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/privacystatement-1-36.htm) for the most accurate reproduction.*
 
-# Rotana Hotels: Middle East Luxury Hotels : Dubai, Abu Dhabi, Sharjah, Al Ain, UAE: Damascus Syria: Hurghada Sharm El Sheikh Egypt
+# Rotana Hotels: Middle East Luxury Hotels: Luxury Hotels in Dubai, Abu Dhabi, Sharjah, Al Ain, Damascus, Hurghada & Sharm El Sheikh
 
 |   
 ---  
@@ -98,5 +98,7 @@ Rotana Hotels may amend this Privacy Statement from time to time in order to mee
 
 |  |  |   
 ---|---|---|---|---  
-|  | [Privacy Statement](https://web.archive.org/web/20071121110837id_/http%3A//www.rotana.com/privacystatement-1-36.htm) |  | [Site Map](https://web.archive.org/web/20071121110837id_/http%3A//www.rotana.com/sitemap-2.htm) |  | [Terms & Conditions](https://web.archive.org/web/20071121110837id_/http%3A//www.rotana.com/termsconditions-3-38.htm)  
----|---|---|---|---|---
+|  | [Privacy Statement](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/privacystatement-1-36.htm) |  | [Site Map](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/sitemap-2.htm) |  | [Terms & Conditions](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/termsconditions-3-38.htm)  
+---|---|---|---|---|---  
+|  | [This is Rotana](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/history-1-1.htm) | | |  | [Centro by Rotana](http://www.centrobyrotana.com/) | | |  | [Alliances](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/alliances-3-6.htm) | | |  | [Industry Partners](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/partners-4-7.htm) | | |  | [Press Room](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/pressroom-5-8.htm) | | |  | [Image Library](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/imglibrary-6-12.htm) | | |  | [Careers](http://rotanacareers.com/) | | |  | [Contacts](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/contact-8-35.htm) | | |  | [Hotels & Spa Directory](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/hotelsandspa-1.htm) | | |  | [Meeting & Events Directory](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/meetevents-2.htm) | | |  | [Dining & Entertainment](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/dining-3.htm) | | |  | [Our Destinations](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/ourdestination-4.htm) | | |  | [Rewards](https://web.archive.org/web/20080518112821id_/http%3A//www.rotana.com/rewards-5-17.htm)  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
