@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211050046id_/http%3A//www.environment-agency.gov.uk/other/help/196646) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518034209id_/http%3A//www.environment-agency.gov.uk/other/help/196646) for the most accurate reproduction.*
 
 # Environment Agency - Privacy policy
 
@@ -25,7 +25,7 @@ We will only hold personal data on our systems for a strictly limited period of 
 Access to your personal information
 
 You have the right to request a copy of the personal information the Environment Agency holds about you and to have any inaccuracies in that personal information corrected. Please address requests to the National Data Protection Manager or use the on-line enquiry form.  
-[Click here to request a copy of your personal information.](http://www.environment-agency.gov.uk/aboutus/1105530/310151/319911/319954/1340536/)
+[Click here to request a copy of your personal information.](http://www.environment-agency.gov.uk/contactus/standardfeedbackform/)
 
 Direct marketing
 
