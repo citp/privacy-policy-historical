@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crosswalk.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224073239id_/http%3A//www.crosswalk.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosswalk.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518095030id_/http%3A//www.crosswalk.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
-# About Us - Crosswalk.com
+# Crosswalk.com - About Us - Discover our Christian Mission and Faith
 
-[About Us](https://web.archive.org/web/20071224073239id_/http://www.crosswalk.com/aboutUs/) | Privacy Policy | [Terms of Use](https://web.archive.org/web/20071224073239id_/http://www.crosswalk.com/aboutUs/termsofuse/)
+[About Us](https://web.archive.org/web/20080518095030id_/http://www.crosswalk.com/AboutUs/) | Privacy Policy | [Terms of Use](https://web.archive.org/web/20080518095030id_/http://www.crosswalk.com/AboutUs/termsofuse/)
 
 **Privacy Policy**  
 **Last Updated:** March 2, 2007
