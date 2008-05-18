@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630000120id_/http%3A//www.if.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518072633id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
 
-# Privacy policy - Intelligent Finance
+# Privacy - Intelligent Finance
 
-|  The Data Protection Act
+Our Privacy Policy sets out our code of practice for the gathering, storing and sharing of our customers' personal information. 
 
 The Data Protection Act puts obligations on users of personal information and lays down principles for its use. One principle states that information has to be processed fairly and lawfully. This means that you're entitled to know how we intend to use any information you provide, or that we may obtain from other sources eg. credit reference agencies or your employer. You can then decide whether you want us to have that information. 
 
@@ -11,43 +11,48 @@ To provide the highest level of customer service we need accurate customer infor
 Organisations must lodge a notification with the Information Commissioner, describing the purposes for which they process personal information. The details are publicly available from the Commissioner's Office at:
 
 **Wycliffe House,  
-Water Lane,   
-Wilmslow,   
-Cheshire SK9 5AF.   
-Tel: 01625 545 745   
-Fax: 01625 524 510**
+Water Lane,  
+Wilmslow,  
+Cheshire SK9 5AF.  
+Tel: 01625 545 745  
+Fax: 01625 524 510  
+**
 
-Alternatively, see the Commissioner's website at [http://www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/ "www.informationcommissioner.gov.uk").
+Alternatively, see the Commissioner's website at <http://www.ico.gov.uk/>.
 
 A 'cookie' is a small piece of information which a website places into your browser and can retrieve later. It cannot be read by any website other than that which placed the cookie. We use cookies for several reasons. For example, we can store your preferences for certain kinds of information, or keep track of your progress through our site. 
 
 Intelligent Finance uses Microsoft Active Service Pages which need cookies to operate properly. It is important that your browser is set to accept cookies, otherwise you will only be able to access our marketing site.
 
-The way in which you can set your browser to accept or disable cookies varies slightly according to exactly what browser (and operating system) you are currently using.
+## How to set your browser to accept or disable cookies 
 
-Below are full instructions for changing your browser settings to accept or disable cookies
+The way in which you can set your browser to accept or disable cookies varies slightly according to exactly what browser (and operating system) you are currently using. Below are full instructions for changing your browser settings to accept or disable cookies
 
-  1. From the menu bar select **Tools** and then **Internet Options**.
-  2. Select the **Privacy** tab.
-  3. Under **Settings** , click **Advanced** button. 
-  4. Check the box **Override automatic cookie handling** under **Cookies** section in **Advanced Privacy Settings** window.
-  5. Under **First-party Cookies** , select **Accept**.
+##  Windows IE 6 and IE 7 Browsers 
+
+  1. From the menu bar select **Tools** and then **Internet Options**
+  2. Select the **Privacy** tab 
+  3. Under **Settings** , click **Advanced** button 
+  4. Check the box **Override automatic cookie handling** under **Cookies** section in **Advanced Privacy Settings** window
+  5. Under **First-party Cookies** , select **Accept**
   6. Under **Third-party Cookies** , select **Accept**
-  7. Check the box **Always allow session cookies**. 
+  7. Check the box **Always allow session cookies**
   8. Click **OK**
-  9. Click **OK** to exit
+  9. Click **OK** to exit.
 
 
 
-  1. Click **Edit** on the Toolbar.
+##  Netscape 6 & 7 Browsers 
+
+  1. Click **Edit** on the Toolbar
   2. Click **Preferences**
-  3. Click the **Privacy and Security** category; expand the list to show the subcategories. 
+  3. Click the **Privacy and Security** category; expand the list to show the subcategories
   4. Click **Cookies**
-  5. 5\. Three options are displayed. Click the appropriate choice: 
+  5. Three options are displayed. Click the appropriate choice: 
     * Disable cookies 
     * Enable cookies for the originating web site only 
-    * Enable all cookies
-    * If you want to be notified when a web site tries to set a cookie, select "Warn me before accepting a cookie." 
+    * Enable all cookies 
+    * If you want to be notified when a web site tries to set a cookie, select "Warn me before accepting a cookie.". 
 
 
 
@@ -57,18 +62,19 @@ Our main use of your personal information is to look after your plan or to provi
 
 If you apply to us for insurance we will pass your details to the insurer. If you make a claim, any information you give to us or to the insurer may be put on to a register of claims and shared with other insurers to prevent fraudulent claims. A list of the participants is available from the insurer. 
 
-Occasionally, we may contact you by letter, telephone, email or otherwise to inform you about other products and services which may interest you. We try to limit our customer contact programme to acceptable levels, but if you wish to exercise your right to opt out, simply call us on **0845 609 4343** or write to our Head of Regulatory Risk at the following address: 
+Occasionally, we may contact you by letter, telephone, email or otherwise to inform you about other products and services which may interest you. We try to limit our customer contact programme to acceptable levels, but if you wish to exercise your right to opt out, simply call us on **0845 609 4343 ¹** or write to our Head of Regulatory Risk at the following address: 
 
 **Head of Regulatory Risk,  
-Intelligent Finance,   
-1 Baird Road,   
-Kirkton Campus,   
-Livingston,   
-West Lothian, EH54 7AZ**
+Intelligent Finance,  
+1 Baird Road,  
+Kirkton Campus,  
+Livingston,  
+West Lothian, EH54 7AZ  
+**
 
 Remember that by opting out of receiving marketing information you'll not be told of any offers or new products and services which may benefit you. For example, you may not hear about a new savings or mortgage product that offers you a better rate or saves you money.
 
-Unless you have given us your consent, we'll not provide information about you to companies outside our group to use for their own marketing purposes. We disclose information about our customers only with their consent, or if we are required to do so by law. Sometimes we need to give information to our agents and subcontractors so that they can provide a particular service for us. Sometimes these companies may be located abroad in countries that don't have data protection laws. In these circumstances we always ensure that the information is safe and secure. Your information may also be shared by other members of our group to keep their records up to date and administer your relationship with them.
+Unless you have given us your consent, we'll not provide information about you to companies outside our group to use for their own marketing purposes. We disclose information about our customers only with their consent, or if we are required to do so by law. Sometimes we need to give information to our agents and subcontractors so that they can provide a particular service for us. Sometimes these companies may be located abroad in countries that don't have data protection laws. In these circumstances we always ensure that the information is safe and secure. Your information may also be shared by other members of our group to keep their records up to date and administer your relationship with them. 
 
 Occasionally, the Banking Code Standards Board who monitor compliance with the Banking Code, audit a sample of our customer records to assess our compliance with the Code. Whenever this happens, strict confidentiality conditions are always imposed.
 
@@ -76,9 +82,10 @@ Under the Data Protection Act you've the right to have access to information we 
 
 If you don't want to receive unsolicited mail from other companies, you can prevent this by registering with the Mailing Preference Service. In addition the Telephone and Fax Preference Services enable you to object to receiving unsolicited marketing phone calls or faxes from other companies. To register, simply telephone the appropriate number below: 
 
-**Mailing Preference: 0207 291 3310**   
-**Telephone Preference: 0207 291 3320**   
-**Fax Preference: 0207 291 3330**
+**Mailing Preference: 0207 291 3310  
+Telephone Preference: 0207 291 3320  
+Fax Preference: 0207 291 3330  
+**
 
 For more details about all the Preference Services, please see the Direct Marketing Association's website at: <http://www.dma.org.uk/>
 
@@ -94,13 +101,13 @@ You've the right to apply to the credit reference agencies for a copy of your cr
 
 We use Equifax plc, whilst other members of the HBOS Group also use Experian Limited. A third credit reference agency (Call Credit) has recently started up in the UK. Their addresses are as follows:
 
-**Equifax plc, PO Box 1140, Bradford, BD1 5US ([www.uk.equifax.com](http://www.uk.equifax.com/ "www.uk.equifax.com"))**
+**Equifax plc, PO Box 1140, Bradford, BD1 5US ([www.equifax.co.uk](http://www.equifax.co.uk/ "Link opens in a new window - www.equifax.co.uk"))**
 
-**Experian Ltd, Consumer Help Service, PO Box 8000 Nottingham, NG1 5GX ([www.experian.co.uk](http://www.experian.co.uk/ " www.experian.co.uk"))**
+**Experian Ltd, Consumer Help Service, PO Box 8000 Nottingham, NG1 5GX ([www.experian.co.uk](http://www.experian.co.uk/ "Link opens in a new window - www.experian.co.uk"))**
 
-**Call Credit plc, One Park Lane, Leeds, West Yorkshire, LS3 1EP ([www.callcredit .co.uk](http://www.callcredit.co.uk/ "www.callcredit .co.uk"))**
+**Call Credit plc, One Park Lane, Leeds, West Yorkshire, LS3 1EP ([www.callcredit.co.uk](http://www.callcredit.co.uk/ "Link opens in a new window - www.callcredit.co.uk"))**
 
-If you've been refused credit you can get advice from your local Trading Standards Department, Citizens Advice Bureau or Consumer Advice Centre. The Information Commissioner also produces a useful leaflet entitled 'No Credit?'. You can obtain a free copy on the Information Commissioner's website [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/ "www.informationcommissioner.gov.uk") or by telephoning **0870 600 8100**. Comprehensive consumer help information can also be found on the agencies' websites. 
+If you've been refused credit you can get advice from your local Trading Standards Department, Citizens Advice Bureau or Consumer Advice Centre. The Information Commissioner also produces a useful leaflet entitled 'No Credit?'. You can obtain a free copy on the Information Commissioner's website <http://www.ico.gov.uk/> or by telephoning **0870 600 8100 ³**. Comprehensive consumer help information can also be found on the agencies' websites. 
 
 When you apply to us for a credit based product, the details you provide, the information we already have and information from credit reference agencies are used to assess credit risk using a technique known as credit scoring. 
 
@@ -108,20 +115,21 @@ Various factors in all these details help us to assess the risk. A score is give
 
 Back to top
 
-Our systems protect customers and ourselves against fraud and other crime. Customer information can be used to prevent crime and trace those responsible. We may check your details with fraud prevention agencies. 
+Our systems protect customers and ourselves against fraud and other crime. Customer information can be used to prevent crime and trace those responsible. We may check your details with fraud prevention agencies.
 
-  * If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies.
-  * Law enforcement agencies may access and use this information. 
-  * We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when:
-  
-• Checking details on applications for credit and credit related or other   facilities   
-• Managing credit and credit related accounts or facilities   
-• Recovering debt   
-• Checking details on proposals and claims for all types of insurance   
-• Checking details of job applicants and employees 
-  * Please contact us on **0845 609 4343** if you want to receive details of the relevant fraud prevention agencies.
+  * If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies
+  * Law enforcement agencies may access and use this information
+  * We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when: 
+    * Checking details on applications for credit and credit related or other facilities
+    * Managing credit and credit related accounts or facilities 
+    * Recovering debt
+    * Checking details on proposals and claims for all types of insurance
+    * Checking details of job applicants and employees.
+  * Please contact us on **0845 609 4343 ¹** if you want to receive details of the relevant fraud prevention agencies.
 
-We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. 
+
+
+We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
 
 If your relationship with us was 'introduced' by a third party, we will provide them with sufficient information about you to help with their accounting and administration. The introducer may, with your consent, use your details to contact you about his own products and services.
 
@@ -139,4 +147,8 @@ If you apply for insurance or life assurance through us, we may ask you for some
 
 The Intelligent Finance website contains links to sites operated by persons outside the HBOS Group. We are not responsible for the privacy practices, content, or the product and services provided through those sites.
 
-| 
+¹ Calls to 0845 numbers from BT landlines will cost a maximum of 4p per minute. The price of calls from other telephone companies will vary. The call price is correct at September 2007.
+
+³ Calls to 0870 numbers from BT landlines will cost a maximum of 8p per minute. The price of calls from other telephone companies will vary. The call price is correct at September 2007.
+
+Back to top
