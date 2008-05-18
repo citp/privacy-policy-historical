@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propay.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220014228id_/http%3A//propay.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propay.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518094631id_/http%3A//www.propay.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # ProPay: Privacy Policy
 
@@ -13,7 +13,7 @@ ProPay works hard to earn and keep your trust and confidence. This Privacy Polic
 | Print  
 ---|---  
   
-## [](http://www.bbbonline.org/cks.asp?id=203080765432906)[](http://www.truste.org/ivalidate.php?url=www.propay.com&sealid=101)
+## [ ](http://www.bbbonline.org/cks.asp?id=203080765432906)[](http://www.truste.org/ivalidate.php?url=www.propay.com&sealid=101)
 
 ## THIS PRIVACY POLICY APPLIES ONLY TO THOSE  
 PEOPLE LIVING WITHIN THE UNITED STATES OF AMERICA
