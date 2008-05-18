@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the insound.com privacy policy that was archived on 2007-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071118184034id_/http%3A//www.insound.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insound.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518172006id_/http%3A//www.insound.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# Insound.com: Privacy Policy
 
-#### SECURE TRANSACTIONS - CREDIT CARD SAFETY 
+### Huge Poster Sale!
+
+[](http://www.insound.com/noteworthy/promo.php?p=42)
+
+Privacy Policy
+
+  
+
+
+SECURE TRANSACTIONS - CREDIT CARD SAFETY 
 
 INSOUND uses the latest encryption technology to keep your credit card information safe. To further protect this information, we process your credit card number on a server that isn't accessible from the Internet. 
 
@@ -12,21 +21,21 @@ Your order information and purchase history are further protected by a password 
 
 For more information about credit card security or our other payment options, visit the "Placing an Order" section in the Help Desk menu. 
 
-#### INSOUND Privacy Guarantee
+INSOUND Privacy Guarantee
 
-**Your privacy is important.**
+Your privacy is important.
 
   * At INSOUND, we know that your privacy is important to you. It's important to us, too. That's why we want you to know about the personal information we collect, how we use that information and with whom it may be shared.
 
 
 
-**You're always in control.**
+You're always in control.
 
   * The only personal information that we collect is information that you give us when you register and when you purchase. We use that information to service your account and to personalize your experience at INSOUND. We'll never share that information with third parties interested in e-mailing you or send you our own promotional offer e-mails without your consent. 
 
 
 
-**Here's the information we gather:**
+Here's the information we gather:
 
   * When you register at the site, we ask for certain basic information to service your account: name and e-mail address. If you decide to make a purchase, we then ask you for your shipping and billing addresses, phone number and payment information. 
   * You have the option to use certain services, such as the "Send this page to a friend" function, which may require you to provide us with transmittal information for your friends or family. We only use this information to provide the requested service. 
@@ -37,7 +46,7 @@ For more information about credit card security or our other payment options, vi
 
 
 
-**Why your transactions are secure.**
+Why your transactions are secure.
 
   * We use state-of-the-art encryption technology to safeguard your transactions. The technology used is SSL (Secure Socket Layer) which is supported by both the Netscape and Internet Explorer web browsers that are version 3.0 or newer. Your information, including your credit card information, is encrypted and cannot be read as it travels over the Internet. 
   * We never display your full credit card information. 
@@ -46,7 +55,7 @@ For more information about credit card security or our other payment options, vi
 
 
 
-**With whom is information shared?**
+With whom is information shared?
 
   * We may release specific personal information for the following reasons: 
     1. We use outside companies to provide you with the merchandise you purchase, to provide some of the services you use on our site as well as for managing some of our internal operations such as databases, data analysis and e-mails. As a result, these companies do have access to the specific information necessary to provide you with your goods or services, but we require them to keep this information confidential and not to use it for any other reason. 
@@ -54,37 +63,37 @@ For more information about credit card security or our other payment options, vi
 
 
 
-**Aggregate Statistics.**
+Aggregate Statistics.
 
   * From time to time we provide aggregate statistics about our members, site traffic, sales and other site-related information to reputable companies. "Aggregate" is the key word here. You can be assured that we never include information that allows these companies to identify you individually. Of course, if you have registered in an outside customer reward program in which INSOUND is a participating merchant, we will provide your reward program with the necessary information about your purchases so that you can be awarded your points or other rewards. 
 
 
 
-**E-Mail Addresses.**
+E-Mail Addresses.
 
   * We never rent or sell your name and e-mail address to other on-line marketers of products or services without your consent. You make the decisions on how you would like to hear from us and if you are interested in receiving valuable offers from other reputable marketers of products and services. In addition, all promotional email that you receive from INSOUND will always allow you to unsubscribe to future email promotions if you decide to do so at a later date. 
 
 
 
-**Postal Mailing Lists.**
+Postal Mailing Lists.
 
   * We never rent or sell your name, phone number and mailing address to other marketers of products or services without your consent.
 
 
 
-**External Sites**
+External Sites
 
   * INSOUND may run sweepstakes with select companies or place advertisements or other promotional offers from select companies on our website or in our emails. When you choose to participate in these sweepstakes or promotional offers, you may link to these businesses' websites and be asked to give them personal information or we may send over your personal information if you enter it on the INSOUND website. These businesses operate independently from INSOUND. Any personal information that is given to them is at your option and is no longer controlled by our privacy policy. To avoid confusion, we will identify these businesses as independent from INSOUND, if the information entry point is inside of the INSOUND website. We encourage you to read these businesses' privacy policies, if you should have any concerns about how they will care for your personal information. 
 
 
 
-**Children's Online Privacy Protection Act (COPPA).**
+Children's Online Privacy Protection Act (COPPA).
 
   * INSOUND is a website directed to the general public. We do not knowingly collect information from children under 13. 
 
 
 
-**Consent.**
+Consent. 
 
   * By using INSOUND and providing us with your personal information, you are accepting the privacy practices described in this policy statement. 
   * We may update our Privacy Policy from time to time. Please check back here occasionally. You will always find the latest version posted here. Updates to our Privacy Policy that would affect how we treat your personal information will not apply to information collected before we made the update, unless we first obtain your consent. 
@@ -92,7 +101,7 @@ For more information about credit card security or our other payment options, vi
 
 
 
-**Comments.**
+Comments. 
 
   * If you have any questions or comments about our Privacy Policy, please send us an e-mail at [info@Insound.com ](mailto:info@Insound.com)
 
