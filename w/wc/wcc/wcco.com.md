@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcco.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213094537id_/http%3A//wcco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcco.com privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519005826id_/http%3A//wcco.com/privacy) for the most accurate reproduction.*
 
 # wcco.com - Privacy Policy
 
