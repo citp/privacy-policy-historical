@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the funnieststuff.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210135428id_/http%3A//www.funnieststuff.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnieststuff.net privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518092146id_/http%3A//www.funnieststuff.net/privacy.php) for the most accurate reproduction.*
 
 # Daily Email Newsletter - Funniest Video of the Day
 
 ## Information Collection and Use
 
 Funniest Stuff has created this Privacy Policy to demonstrate our firm commitment to your privacy and the protection of your personally identifiable information at the Funniest Stuff's website. To better protect your privacy, we provide this notice explaining our personal information collection and use practices and the choices that you can make concerning the use of your personal information. Funniest Stuff sends all new members a welcome email message to verify and confirm their registration in our network. Funniest Stuff also uses the emails it collects to send daily "Funny Video of the Day" newsletters. Funniest Stuff does not sell or provide the emails it collects to 3rd parties. Funniest Stuff stores its records in the United States of America but may perform some of its data processing outside of the United States of America. We will protect your information no matter where we process or store your data.
+
+You may occasionally receive quality special offers from our online partners, strictly without obligation of course, and only where you have opted in to do so. We will not release your personal information or email address to any other party, unless required to by law or unless you receive Funniest Stuff content via a co-branded "private-label" partnership. In that case, the private-label partner may also receive personal information about you and we encourage you to review that site's privacy policy as well.
 
 ##  Links 
 
