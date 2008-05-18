@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the koodos.com privacy policy that was archived on 2007-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071221074121id_/http%3A//www.koodos.com/scat/faqprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the koodos.com privacy policy that was archived on 2008-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080518042604id_/http%3A//www.koodos.com/scat/faqprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -15,11 +15,39 @@
   <link href="http://www.koodos.com/content/ebiz/koodos/resources/css/gamma/common.css" rel="stylesheet" type="text/css" media="screen">
   <link href="http://www.koodos.com/content/ebiz/koodos/resources/css/delta/checkout.css" rel="stylesheet" type="text/css" media="screen">
   <link href="http://www.koodos.com/content/ebiz/koodos/resources/css/gamma/print.css" rel="stylesheet" type="text/css" media="print">
+  <!-- mark -->
 
+  <script type="text/javascript" src="http://www.koodos.com/content/ebiz/koodos/resources/js/gamma/jsencdec.js"></script>
+  <script type="text/javascript" src="http://www.koodos.com/content/ebiz/koodos/resources/js/gamma/md5.js"></script>
   <script type="text/javascript" src="http://www.koodos.com/content/ebiz/koodos/resources/js/gamma/gamma.js"></script>
   <script type="text/javascript" src="http://www.koodos.com/content/ebiz/koodos/resources/js/gamma/referafriend.js"></script>
   <script type="text/javascript" src="http://www.koodos.com/content/ebiz/koodos/resources/js/delta/checkout.js"></script>
   <script type="text/javascript" src="http://www.koodos.com/content/ebiz/koodos/resources/js/gamma/rewriteurl.js"></script>
+<script type="text/javascript">
+/*
+	// if siteid in URL, store in cookie
+	if( getQueryString( window.location.href , 'siteID' ) != "" ){
+		var linksid = getQueryString( window.location.href , 'siteID' );
+		var curMonth = new Date().getMonth().toString();
+		if( curMonth.length < 2 ){ curMonth = "0" + curMonth; }
+		var curDate = new Date().getDate().toString();
+		if( curDate.length < 2 ){ curDate = "0" + curDate; } 
+		var linkstime = new Date().getFullYear().toString() + curMonth + curDate + "_" + new Date().getHours().toString() + new Date().getMinutes().toString();
+
+		$.cookie( "linksid" , linksid , { expires: 1 , path: '/' } );
+		$.cookie( "linkstime" , linkstime , { expires: 1 , path: '/' } );
+		// if URL, redirect
+		if( getQueryString( window.location.href , 'url' ) != "" ){
+			var url_encoded = getQueryString( window.location.href , 'url' );
+			var url_decoded = Url.decode( url_encoded );
+			self.location = url_decoded;
+		}else{
+			self.location = serverAdd + '/page/home';
+		}
+	}
+*/
+</script>
+
 
 </head>
 <body id="storycat-faqprivacy">
@@ -32,17 +60,21 @@
     <a href="/page/bag_a"><img id="referafriend-ad" src="http://www.koodos.com/content/ebiz/koodos/resources/template-images/Bag_icon.jpg" width="157" height="51" alt=""></a>
 
 
-    <!-- cleared --><!-- START SCANALERT CODE -->
+	<div id="press-quotes">
+          <a href="#">'4* pleasure to buy from'</a>
+          <span id="press-quote-by">Web User</span>
+    	</div>
+
+
+    <!-- START SCANALERT CODE -->
     <a id="hackersafe-logo" target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.koodos.com"><img width="115" height="30" border="0" src="//images.scanalert.com/meter/survey/www.koodos.com/32.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+    <div id="site-tools-notjoebloggs-repos"></div>
     <!-- END SCANALERT CODE -->
     <ul id="site-tools">
       <li id="site-tools-mybasket"><a href="/mybasket"><span>My Basket ( <span class="cart-quantity">0</span> item )</span></a></li>
-      <li id="site-tools-login"><a href="/login"><span>Login</span></a></li>
-      <li id="site-tools-register"><a href="/bin/venda?ex=co_wizr-register&amp;bsref=koodos&amp;step=zipcode&amp;log=2&amp;layout=page"><span>Register</span></a></li>
-      <li id="site-tools-logout" class="hidden"><a href="/page/home&amp;log=4"><span>Logout</span></a></li>
-      <li id="site-tools-myaccount" class="hidden"><a href="/page/myaccount"><span>My Account</span></a></li>
-
+      <li id="site-tools-signup"><a href="#"><span>Sign up for news</span></a></li>
       <li id="site-tools-help"><a href="/scat/faqtop"><span>Help</span></a></li>
+
       <li id="site-tools-search">
         <form action="/bin/venda" id="searchform" method="get">
           <fieldset>
@@ -63,6 +95,8 @@
           </fieldset>
         </form>
       </li>
+      <li id="site-tools-register"><a href="/bin/venda?ex=co_wizr-register&amp;bsref=koodos&amp;step=zipcode&amp;log=2&amp;layout=page"><span>Register</span></a></li>
+      <li id="site-tools-login"><a href="/login"><span>Login</span></a></li>
     </ul>
 
 
@@ -70,11 +104,12 @@
       <li><a href="/icat/womens" id="navigation-women"><span>Women</span></a></li>
       <li><a href="/icat/handbags" id="navigation-handbags"><span>Handbags</span></a></li>
       <li><a href="/icat/jewellery" id="navigation-jewellery"><span>Jewellery</span></a></li>
+      <li><a href="/icat/shoes" id="navigation-shoes"><span>Shoes</span></a></li>
       <li><a href="/icat/mens" id="navigation-mens"><span>Mens</span></a></li>
       <li><a href="/icat/brand" id="navigation-brand"><span>Brand</span></a></li>
       <li><a href="http://www.koodos.com/blog" id="navigation-blog" target="_blank"><span>Blog</span></a></li>
-      <li><a href="/page/style_aw" id="navigation-style"><span>Style</span></a></li>
-      <li><a href="/page/privatesales" id="navigation-private"><span>Private Sales</span></a></li>
+      <li><a href="/page/style_2008" id="navigation-style"><span>Style</span></a></li>
+      <li><a href="/icat/privatesale" id="navigation-private"><span>Private Sales</span></a></li>
     </ul>
 
 
@@ -201,6 +236,7 @@
 
     </div>
 
+<div id="footerwrapper">
     <ul id="bottomnav">
       <li><a href="/page/terms?layout=page" id="bottomnav-tsandcs"><span>Ts &amp; Cs</span></a></li>
       <li><a href="/page/contact?layout=contactpage" id="bottomnav-contactus"><span>Contact Us</span></a></li>
@@ -212,24 +248,22 @@
 
     <ul id="footernav">
       <li><a href="http://www.koodos.com/page/merchants" id="footernav-merchants"><span>Merchants</span></a></li>
-      <li><a href="http://www.koodos.com/page/aboutus" id="footernav-aboutus"><span>About Us</span></a></li>
       <li><a href="http://www.koodos.com/page/careers" id="footernav-careers"><span>Careers</span></a></li>
-      <li><a href="http://www.koodos.com/page/contact_koodos" id="footernav-press-enquiries"><span>Press Enquiries</span></a></li>
-      <li><a href="http://www.koodos.com/page/press_releases" id="footernav-press-releases"><span>Press Releases</span></a></li>
       <li><a href="http://www.koodos.com/page/contact_koodos" id="footernav-contact-koodos"><span>Contact koodos</span></a></li>
+      <li><a href="http://www.koodos.com/page/press_office" id="footernav-press-releases"><span>Press</span></a></li>
     </ul>
 
 
     <p id="footer">
       koodos © 2007-2008. All rights reserved. Version 2.0
       <br>
-      <img id="gwg-logo" src="/content/ebiz/koodos/resources/images/gwgreclogo.gif" width="130" height="56" alt="The Good Web Site Guide: Recommended Site">
+      <span id="gwg-logo-container"><img id="gwg-logo" src="/content/ebiz/koodos/resources/images/gwgreclogo.gif" width="130" height="56" alt="The Good Web Site Guide: Recommended Site"></span>
 <!-- GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. -->
 <script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
 <!-- end GeoTrust Smart Icon tag -->
-      <a href="http://www.venda.com" target="_blank"><img src="/content/ebiz/koodos/resources/images/en_dbdbdb.gif" alt="eCommerce and CRM systems powered by Venda" border="0"></a>
+      <a id="venda-logo-container" ref="http://www.venda.com" target="_blank"><img id="venda-logo" src="/content/ebiz/koodos/resources/images/en_dbdbdb.gif" alt="eCommerce and CRM systems powered by Venda" border="0"></a>
     </p>
-
+</div>
     <div id="micropopup-login" class="micropopup">
       <a class="micropopup-close" href="#" onclick="$(&quot;div#micropopup-login&quot;).slideUp(&quot;slow&quot;); return false;"><span>Close</span></a>
       <p class="error"></p>
@@ -263,6 +297,7 @@
 
 
      <div id="micropopup-basket" class="micropopup">
+       <img id="micropopup-basket-top" src="/content/ebiz/koodos/resources/template-images/delta/basket-top.gif" width="243" height="10" alt="">
        <a class="micropopup-close" href="#" onclick="$(&quot;div#micropopup-basket&quot;).slideUp(&quot;slow&quot;); return false;"><span>Close</span></a>
        <fieldset>
         <a href="http://www.koodos.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=koodos&amp;log=22&amp;layout=categorypage" id="micropopup-basket-checkout"><span>Checkout</span></a>
@@ -275,7 +310,8 @@
           </tr>
 </tbody></table>
        </fieldset>
-	 </div>
+       <img id="micropopup-basket-bottom" src="/content/ebiz/koodos/resources/template-images/delta/basket-bottom.gif" width="243" height="10" alt="">
+     </div>
 
 <!-- if on a secure page use pull in the SSL JS -->
 
@@ -295,6 +331,36 @@ if( $("div#analytics-marker").size() > 0 ){
 }else{
   urchinTracker();
 }
+</script>
+
+     <div id="signupforemails">
+       <a onclick="$('div#signupforemails').slideUp(); return false;" href="#" class="closebutton"><span>Close</span></a>
+       Sign up for news
+       <form action="/bin/venda" id="signupforemailform">
+         <input name="ex" value="tl_user-procmyform" type="hidden">
+         <input name="page" value="signupforemailsthanks" type="hidden">
+         <input name="layout" value="categorypage" type="hidden">
+         <input name="log" value="" type="hidden">
+         <input name="bsref" value="koodos" type="hidden">
+         <input name="emlonly" value="1" type="hidden">
+         <input type="text" name="usemail" value="email">
+	 <button onmousedown="this.parentNode.submit();" type="button" name="signupforemailsubmit" value="Submit">Submit</button>
+       </form>
+     </div>
+
+<script src="https://app.communicatorcorp.com/public/scripts/Conversiontracking.js" type="text/javascript"></script>
+<script type="text/javascript">
+  cc_ClientId = 948;
+  cc_Duration = 2;
+  ProcessInbound();
+</script>
+
+<script type="text/javascript">
+  // if zanpid in URL, store in cookie
+  if( getQueryString( window.location.href , 'zanpid' ) != "" ){
+    var zanpid = getQueryString( window.location.href , 'zanpid' );
+    $.cookie( "zanpid" , zanpid , { expires: 1 , path: '/' } );
+  }
 </script>
 
 
