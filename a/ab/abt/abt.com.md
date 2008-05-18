@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the abt.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212090346id_/http%3A//www.abtelectronics.com/custserv/abtPrivacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abt.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518134102id_/http%3A//www.abt.com/custserv/abtPrivacy.php3) for the most accurate reproduction.*
 
 # Abt - Consumer Electronics Store and Appliance Store | Electronics
 
-|  | [](http://www.abtelectronics.com/) |   
+|  | [](http://www.abt.com/) |   
 ---|---  
   
-[](https://web.archive.org/abtGifts.php3) |   
+[](https://web.archive.org/category/995.html) |   
 ---|---  
   
 Appliances | Audio | TV & Video | Cameras &  
@@ -17,7 +17,7 @@ Electronics | Furniture | Gourmet Shop | Gaming | Other
   
 | 
 
-| [Home](http://www.abtelectronics.com/) > [Customer Service](https://web.archive.org/custserv/abtCustServ.php3) > Privacy Policy   
+| [Home](http://www.abt.com/) > [Customer Service](https://web.archive.org/custserv/abtCustServ.php3) > Privacy Policy   
 ---  
   
 | 
@@ -49,11 +49,11 @@ Glenview, IL 60025
   
 **Please Note:**  
   
-This Privacy Policy does not apply to other Web sites that may be accessible through the AbtElectronics.com site. Our sites contain links to other sites operated by third parties, including but not limited to third party sites that display Abt Electronics trademarks. We encourage you to read the privacy policies of those other sites to learn how they collect and use information about you.   
+This Privacy Policy does not apply to other Web sites that may be accessible through the Abt.com site. Our sites contain links to other sites operated by third parties, including but not limited to third party sites that display Abt Electronics trademarks. We encourage you to read the privacy policies of those other sites to learn how they collect and use information about you.   
   
-[ ](http://www.abtelectronics.com/custserv/abtContact.php3)
+[ ](http://www.abt.com/custserv/abtContact.php3)
 
-[](http://www.abtelectronics.com/blog/)  
+[](http://www.abt.com/blog/)  
   
 |  |   | 
 
@@ -65,13 +65,13 @@ About Abt
 
 | 
 
-Shipping & Returns
+More Info
 
 | 
 
-Newsletter Signup
+Stay Informed
 
-Sign up for the latest information on new products, special offers and savings opportunities.  
+Sign up for the latest information on new products, special offers and savings opportunities at Abt.  
   
 ---|---|---|---|---  
-[](https://www.scanalert.com/RatingVerify?ref=www.abtelectronics.com) [](http://www.abtelectronics.com/abtSecurity.php3) | 
+[](https://www.scanalert.com/RatingVerify?ref=www.abt.com) [](http://www.abt.com/abtSecurity.php3) | 
