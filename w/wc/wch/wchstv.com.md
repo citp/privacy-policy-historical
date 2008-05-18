@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227164555id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518081802id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.wchstv.com
 
   
 |  |  |    
-**Privacy Policy for www.wchstv.com** **General**  
+
+
+Privacy Policy for www.wchstv.com
+
+**General**  
 The following privacy policy describes what information is collected by wchstv.com (the "Website") and how that information is used. This privacy policy is effective as of February 7, 2007 and will remain in effect until such date as the policy may be modified by the Station in its sole and absolute discretion. Any such changes will be posted on the Website. Your use of the Website constitutes your agreement to the privacy policy as in effect at that time.
 
   
