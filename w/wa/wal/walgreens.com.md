@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231102211id_/http%3A//www.walgreens.com/help/privacyandsecurity.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518094649id_/http%3A//www.walgreens.com/help/privacyandsecurity.jsp%3Ffoot%3Dsecurity) for the most accurate reproduction.*
 
 # Walgreens.com | Help | Walgreens.com Online Privacy & Security Policy
 
@@ -11,9 +11,9 @@ To assist you with reading through our privacy policy, we have provided answers 
 Walgreens.com gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. To review or make changes to your information, click on "Help" located at the top of the web page. The Help section contains instructions about your account and editing steps for entering new information or changing existing information. This list will change as our web site evolves.
 
   * [Your Account](https://web.archive.org/youraccount/default.jsp)
-  * [PIN](https://web.archive.org/help/pin.jsp)
+  * [Full Online Pharmacy Registration](https://web.archive.org/help/pin.jsp)
   * [Place Prescription Order](https://web.archive.org/help/orderprescriptions.jsp)
-  * [Point and Click Refills®](https://web.archive.org/help/pinuse/pinuse1.jsp)
+  * [Easy Online Prescription Refills](https://web.archive.org/help/pinuse/pinuse1.jsp)
   * [Update Health History](https://web.archive.org/help/health_history/default.jsp)
   * [Activate Auto Refills](https://web.archive.org/help/autorefill.jsp)
   * [Read Confidential Messages](https://web.archive.org/messaging/psm/psmhome.jsp)
@@ -83,7 +83,7 @@ Most Internet browsers permit you to erase or block cookies. Refer to your brows
 
 **How secure is the information I provided?**
 
-Walgreens is committed to securing your personal information. We use technology that is designed for use with secure web servers. Prescription drug information resides in a database behind a firewall where it cannot be accessed without proper authorization. Secure Sockets Layer ("SSL") technology encrypts your personal information as well as your prescription health history as it is transmitted over the Internet. You maintain the security of your medical information by keeping your user name, password, [PIN](https://web.archive.org/help/pin.jsp) and other personal information confidential. In addition, Walgreens customer service representatives will never ask you or call you to request your password.
+Walgreens is committed to securing your personal information. We use technology that is designed for use with secure web servers. Prescription drug information resides in a database behind a firewall where it cannot be accessed without proper authorization. Secure Sockets Layer ("SSL") technology encrypts your personal information as well as your prescription health history as it is transmitted over the Internet. You maintain the security of your medical information by keeping your user name, password and other personal information confidential. Walgreens customer service representatives will never request your password.
 
 We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
 
@@ -123,3 +123,5 @@ If you choose to visit Walgreens.com, your visit and any dispute over privacy is
 
 
 **Effective Date:** 07/17/2007
+
+| 
