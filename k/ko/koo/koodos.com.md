@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koodos.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221074121id_/http%3A//www.koodos.com/scat/faqprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koodos.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518042604id_/http%3A//www.koodos.com/scat/faqprivacy) for the most accurate reproduction.*
 
 # koodos.com - Privacy / security
 
@@ -42,7 +42,7 @@ Your payment details are held in an encrypted format until we process your order
 
   * ### Our full privacy statement
 
-Our full privacy statement can be read [here](https://web.archive.org/web/20071221074121id_/http%3A//www.koodos.com/page/privacy).
+Our full privacy statement can be read [here](https://web.archive.org/web/20080518042604id_/http%3A//www.koodos.com/page/privacy).
 
 
 
