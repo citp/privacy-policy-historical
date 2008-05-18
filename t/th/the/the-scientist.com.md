@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-scientist.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011061011id_/http%3A//www.the-scientist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-scientist.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518054230id_/http%3A//www.the-scientist.com/privacy) for the most accurate reproduction.*
 
 # None
 
