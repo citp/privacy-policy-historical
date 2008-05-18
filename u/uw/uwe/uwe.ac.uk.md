@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225125809id_/http%3A//www.uwe.ac.uk/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518144600id_/http%3A//www.uwe.ac.uk/info/privacy.shtml) for the most accurate reproduction.*
 
 # Bristol UWE - Privacy Policy
 
-The University of the West of England, Bristol respects the privacy of users of its web site. This Privacy Policy applies to any page from which it is linked. Special terms which apply only to **UWEonline/Blackboard** (the University's virtual learning environment ) are grouped later in this document. Users of **myUWE** should also consult our advice on [Protecting your privacy](http://info.uwe.ac.uk/myuwe/guidance/protectingprivacy.asp).
+The University of the West of England, Bristol respects the privacy of users of its web site. This Privacy Policy applies to any page from which it is linked. Special terms which apply only to **Blackboard** (the University's virtual learning environment ) are grouped later in this document. Users of **myUWE** should also consult our advice on [Protecting your privacy](http://info.uwe.ac.uk/myuwe/guidance/protectingprivacy.asp).
 
 ## Information you supply
 
@@ -16,7 +16,7 @@ You are not personally identifiable as an individual from such information alone
 
 ## Cookies
 
-Please see the University's [Cookie Policy](https://web.archive.org/web/20071225125809id_/http%3A//www.uwe.ac.uk/info/cookiePolicy.shtml). Also, the information (below) on tracking in **UWEonline** , which depends on use of cookies. 
+Please see the University's [Cookie Policy](https://web.archive.org/web/20080518144600id_/http%3A//www.uwe.ac.uk/info/cookiePolicy.shtml). Also, the information (below) on tracking in **Blackboard** , which depends on use of cookies. 
 
 ## Personal disclosures 
 
@@ -26,23 +26,23 @@ Please be aware that information you share via e-mail, discussion forums, or web
 
 If you are aged 16 or under, you should not enter personal information on our web pages without the approval of a parent or guardian. 
 
-## UWEonline
+## Blackboard
 
-UWEonline is a web-based learning environment used by staff and students at the University of the West of England, Bristol. It requires users to "log in" by entering a user ID and password when they wish to access its resources. The following special provisions of our Privacy Policy apply to its use. 
+Blackboard is a web-based learning environment used by staff and students at the University of the West of England, Bristol. It requires users to "log in" by entering a user ID and password when they wish to access its resources. The following special provisions of our Privacy Policy apply to its use. 
 
-## User tracking in UWEonline
+## User tracking in Blackboard 
 
-If you are enrolled in a module which uses UWEonline your use of that site may be logged. Your module leader and system administrators are able to access such information as the number of times you logged onto the site, the pages you visited, and the dates and times that you visited them. Where your tutor intends to use the tracking information created by UWEonline for the purposes of assessment he/she must advise you in advance. You may wish to seek the advice of your tutor if in doubt. 
+If you are enrolled in a module which uses Blackboard your use of that site may be logged. Your module leader and system administrators are able to access such information as the number of times you logged onto the site, the pages you visited, and the dates and times that you visited them. Where your tutor intends to use the tracking information created by Blackboard for the purposes of assessment he/she must advise you in advance. You may wish to seek the advice of your tutor if in doubt. 
 
-Please note that for the purposes of the Data Protection Act 1998 by logging on to UWEonline you consent to the University of the West of England, Bristol holding and processing information relating to your use of that system. This processing takes effect subject to this Privacy Policy and is conducted in accordance with the Data Protection Act. 
+Please note that for the purposes of the Data Protection Act 1998 by logging on to Blackboard you consent to the University of the West of England, Bristol holding and processing information relating to your use of that system. This processing takes effect subject to this Privacy Policy and is conducted in accordance with the Data Protection Act. 
 
 This statement should be read in conjunction with the University's IT Monitoring Statement. 
 
-##  UWEonline and e-mail 
+##  Blackboard and e-mail 
 
-Participation in a UWEonline course or organisation may require you to send and receive e-mail. Your tutor may correspond with you through e-mail and may in addition require you to communicate with fellow students through e-mail. Your email address will also be published if you post to a discussion board within UWEonline. By participating in a UWEonline course or organisation you consent to the publication of your email address within the UWEonline system. UWE Students must not publish another students e-mail address without their express informed consent.
+Participation in a Blackboard course or organisation may require you to send and receive e-mail. Your tutor may correspond with you through e-mail and may in addition require you to communicate with fellow students through e-mail. Your email address will also be published if you post to a discussion board within Blackboard. By participating in a Blackboard course or organisation you consent to the publication of your email address within the Blackboard system. UWE Students must not publish another students e-mail address without their express informed consent.
 
-You should not use the email facility within UWEonline to email _en masse_ to your fellow students, unless this has been expressly authorised by the tutor. You are reminded that the sending of email via UWEonline is governed by the University's Email Policy.   
+You should not use the email facility within Blackboard to email _en masse_ to your fellow students, unless this has been expressly authorised by the tutor. You are reminded that the sending of email via Blackboard is governed by the University's Email Policy.   
 
 
 ## Web Beacons
