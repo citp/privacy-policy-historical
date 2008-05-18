@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midphase.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217073501id_/http%3A//www.midphase.com/html_files/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midphase.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518085650id_/http%3A//www.midphase.com/html_files/privacy_policy.php) for the most accurate reproduction.*
 
 # midPhase - Web Hosting - PHP, Free Domain, 3 Terabytes of Bandwidth, and more...
 
