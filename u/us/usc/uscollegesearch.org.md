@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the uscollegesearch.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216043013id_/http%3A//www.uscollegesearch.org/us_college_search_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscollegesearch.org privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518104835id_/http%3A//www.uscollegesearch.org/us_college_search_privacy_policy.html) for the most accurate reproduction.*
 
 # Colleges and Universities at U.S. College Search
-
-  
-
 
 ### U.S. College Search Privacy Policy & Terms of Use
 
@@ -25,7 +22,7 @@ Aggregate information is automatically provided by your computer and cannot be t
   * date and time of your visits
   * pages viewed and time spent at the web site
   * browser and platform type (e.g., a Netscape browser on a Macintosh platform)
-  * Internet Protocol (IP) address. An IP address is a number that is automatically assigned to your computer on the Internet
+  * Internet Protocol (IP) address. An IP address is a number that is automatically assigned to your computer on the Internet.
 
 
 
@@ -47,7 +44,7 @@ We utilize encryption/security software to safeguard the confidentiality of pers
 
 **Do we comply with legally compelled disclosure of information?**
 
-We may release any private information about you that we possess when we believe release is appropriate to comply with the law, to enforce or apply our Privacy Policy and/or other agreements, or to protect the rights, property or safety of U.S. College Search, the site users, or others.
+We may release any private information about you that we possess when we believe release is appropriate to comply with the law, to enforce or apply our Privacy Policy and/or other agreements, or to protect the rights, property or safety of U.S. College Search, the site users or others.
 
 **What about other sites linked to U.S. College Search?**
 
