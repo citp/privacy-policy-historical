@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229025618id_/http%3A//www.ufs.ac.za/faculties/content.php%3Fid%3D4304%26FCode%3D15%26DCode%3D411) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519144444id_/http%3A//www.ufs.ac.za/legal/privacy.php) for the most accurate reproduction.*
 
-# University of the Free State / Universiteit van die Vrystaat / Yunivesithi Ya Freistata
+# A university of excellence, equity and innovation
 
-|  |  |  |   
+[](https://web.archive.org/index.php) | [](https://web.archive.org/index.php) |  |   
 ---  
-| [Home](https://web.archive.org/index.php) |  | [Contact Us](https://web.archive.org/contact/contact.php) |  | [Site Map](https://web.archive.org/apps/sitemap.php)  
-|   
+| [Home](https://web.archive.org/index.php "Home") |  | [Contact Us](https://web.archive.org/contact/contact.php "Contact Us") |  | [Site Map](https://web.archive.org/apps/sitemap.php "Site Map")  
+|  | [](https://web.archive.org/index.php)  
 ---  
-|  |   
----|---  
-|  |  |  |  [](https://web.archive.org/faculties/index.php?FCode=15&DCode=411&DivCode=0)  
----|---  
 | Privacy Policy   
 ---  
   
@@ -50,7 +46,5 @@ The UFS reserves the right to change, amend or update this policy periodically. 
 
 The UFS welcomes your comments and questions regarding this Privacy Statement, the practices of this website or your dealings with this website. You can contact the UFS webmaster at [webmaster@mail.uovs.ac.za](mailto:webmaster@mail.uovs.ac.za)  
   
-| Headlines  
----  
 |  |   
 ---|---
