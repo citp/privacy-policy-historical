@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the cypress.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409020156id_/http%3A//www.cypress.com/portal/server.pt%3Fspace%3DOpener%26control%3DOpenObject%26cached%3Dtrue%26parentname%3DCommunityPage%26parentid%3D0%26in_hi_ClassID%3D514%26in_hi_userid%3D2%26in_hi_ObjectID%3D389%26in_hi_OpenerMode%3D2%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cypress.com privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519205335id_/http%3A//www.cypress.com/go/footer/privacypolicy) for the most accurate reproduction.*
 
 # Cypress Home
 
-Privacy  
-  
----  
-  
 | Cypress Semiconductor Online Privacy Policy  
 ---  
 Your right to privacy is very important. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. We believe this information should only be used to help us provide you with better service. That's why we have put a policy in place to protect your personal information. Below is a summary of Cypress's online privacy policy.  
@@ -39,41 +35,4 @@ Cypress welcomes comments and questions on this policy. We are dedicated to prot
 
 Questions regarding this statement should be directed to [webmaster@cypress.com](mailto:webmaster@cypress.com?subject=Website%20feeback:%20Privacy).  
   
-   
-  
-| 
-
-| ABOUT CYPRESS |    
----|---  
-  
-| [Corporate Profile](http://www.cypress.com/portal/server.pt?space=Opener&control=OpenObject&cached=true&parentname=CommunityPage&parentid=1&in_hi_ClassID=514&in_hi_userid=2&in_hi_ObjectID=318&in_hi_OpenerMode=2&)  
----|---  
-| [Management Biographies](http://www.cypress.com/portal/server.pt?space=Opener&control=OpenObject&cached=true&parentname=CommunityPage&parentid=1&in_hi_ClassID=514&in_hi_userid=2&in_hi_ObjectID=228&in_hi_OpenerMode=2&)  
-| [Awards](http://www.cypress.com/portal/server.pt?space=Opener&control=OpenObject&cached=true&parentname=CommunityPage&parentid=1&in_hi_ClassID=514&in_hi_userid=2&in_hi_ObjectID=226&in_hi_OpenerMode=2&)  
-  
-RECENT PRESS RELEASES |    
----|---  
-  
-Apr 5, 2007  
-[ T. J. Rodgers, Founder and CEO of Cypress Semiconductor Corp., To Deliver Commencement Address at Menlo College on May 5th  
-](http://www.cypress.com/portal/server.pt?space=CommunityPage&control=SetCommunity&CommunityID=208&PageID=218&DirectoryID=862025)  
----  
-Apr 5, 2007  
-[ Cypress Non-Volatile SRAMs Win 2007 EE Times China ACE Award For Memory Product Of The Year  
-](http://www.cypress.com/portal/server.pt?space=CommunityPage&control=SetCommunity&CommunityID=208&PageID=218&DirectoryID=860872)  
-Apr 4, 2007  
-[ Cypress to Announce Q1 2007 Results on April 26; Host Stockholder Meeting on May 3  
-](http://www.cypress.com/portal/server.pt?space=CommunityPage&control=SetCommunity&CommunityID=208&PageID=218&DirectoryID=860869)  
-»  [ ](http://www.cypress.com/portal/server.pt?space=CommunityPage&cached=true&parentname=CommunityPage&parentid=21&control=SetCommunity&CommunityID=208&PageID=0)  
-  
-CYPRESS IN THE NEWS |    
----|---  
-  
-Apr 4, 2007  
-[Cypress develops two capacitive sensing methods for PSoC](http://www.eeproductcenter.com/showArticle.jhtml?articleID=198701972)  _EE Product Center_  
----  
-Apr 4, 2007  
-[Timing Chip Uses Spread Spectrum To Clip EMI](http://www.eepn.com/Locator/Products/Index.cfm?Ad=1&Ad=1&Ad=1&ArticleID=34569)  _EE Product News_  
-Mar 5, 2007  
-[Cypress Debuts LP Reference Design Kit For Wireless Mice, Keyboards, And Dongles](http://www.wirelessdesignonline.com/content/news/article.asp?docid=f8e16dbc-c2c9-42e3-8919-fc88f80e0548&atc~c=771+s=773+r=001+l=a&VNETCOOKIE=NO)  _Wireless Design Online_  
-» [](http://www.cypress.com/portal/server.pt?space=CommunityPage&control=SetCommunity&CommunityID=208&PageID=359&)
+ 
