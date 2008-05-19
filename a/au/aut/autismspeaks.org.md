@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autismspeaks.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231731id_/http%3A//www.autismspeaks.org/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autismspeaks.org privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519225110id_/http%3A//www.autismspeaks.org/info/privacy.php) for the most accurate reproduction.*
 
 # Autism Speaks, Info, Privacy Policy
 
