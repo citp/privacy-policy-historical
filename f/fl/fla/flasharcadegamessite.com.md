@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flasharcadegamessite.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229033607id_/http%3A//flasharcadegamessite.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flasharcadegamessite.com privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519171444id_/http%3A//www.flasharcadegamessite.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Play flash arcade games - sports,puzzle,shooting,action,arcade flash games
 
