@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhs.co.uk privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206105442id_/http%3A//www.bhs.co.uk/mall/infopageviewer.cfm/bhsstore/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhs.co.uk privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519041802id_/http%3A//www.bhs.co.uk/mall/infopageviewer.cfm/bhsstore/privacy) for the most accurate reproduction.*
 
 # privacy : modern living made easy
 
@@ -36,6 +36,6 @@ The Data Protection Act 1998 gives you the right to access information held abou
 
 ####  How to contact us 
 
-If you have any questions, comments or requests regarding this privacy policy, please feel free to contact us by one of the following ways: by email at [web.feedback@bhs.co.uk](mailto:web.feedback@bhs.co.uk) by telephone on 0845 196 00 00 between the hours of 9am – 5pm, Monday to Saturday 
+If you have any questions, comments or requests regarding this privacy policy, please feel free to contact us by one of the following ways: by email at [bweb@bhs.co.uk](mailto:bweb@bhs.co.uk) by telephone on 0845 196 00 00 between the hours of 9am – 5pm, Monday to Friday 
 
 [childrenswear](http://www.bhs.co.uk/mall/departmentpage.cfm/bhsstore/112276/1/1 "childrenswear")
