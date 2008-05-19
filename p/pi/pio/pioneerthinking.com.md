@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227100858id_/http%3A//www.pioneerthinking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519063808id_/http%3A//www.pioneerthinking.com/privacy.html) for the most accurate reproduction.*
 
-# Pioneer Thinking - Privacy
+# Privacy - Pioneer Thinking
 
 Dear Friend,
 
@@ -48,15 +48,8 @@ We take every precaution to protect our visitors' information. We have security 
 **Questions **
 
 _  
-_ If you have any questions about this privacy statement, please contact:
-_  
-_**Pioneer Thinking**  
-P.O Box 46081  
-Ottawa, Ontario
-Canada
-K1J 9M7
-
-We can be reached via e-mail at [admin@pioneerthinking.com](mailto:admin@pioneerthinking.com)
+_ If you have any questions about this privacy statement, we can be reached via e-mail at [admin@pioneerthinking.com](mailto:admin@pioneerthinking.com)
+ 
 
 **Terms of Use**
 
