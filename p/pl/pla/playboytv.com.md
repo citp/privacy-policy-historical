@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the playboytv.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225084514id_/http%3A//www.playboytv.com/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboytv.com privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519150044id_/http%3A//www.playboytv.com/Privacy-Policy) for the most accurate reproduction.*
 
 # PlayboyTV
 
 **  
-The following “Privacy Policy” is dated as of December 17, 2007 and is incorporated into the Terms of Service found on<http://playboytv.com/Terms+of+Service>. Please review them carefully before accessing any of the “Sites” (defined below).   
+The following “Privacy Policy” is dated as of December 17, 2007 and is incorporated into the Terms of Service found on[http://playboytv.com/Terms-of-Service](https://web.archive.org/Terms-of-Service). Please review them carefully before accessing any of the “Sites” (defined below).   
 **
 
     This Privacy Policy (the "Policy") applies to Playboy Entertainment Group, Inc. and PlayboyTV.com, Inc.'s (collectively, "Playboy") family of websites (the "Sites"). These include PlayboyTV.com, PlayboyOnDemand.com, GetPlayboyTV.com; and any other sites at or on which these Terms of Service appear. It does not apply to other online or offline Playboy sites, products or services.
