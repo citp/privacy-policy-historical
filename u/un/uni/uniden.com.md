@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniden.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609121554id_/http%3A//www.uniden.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniden.com privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519042335id_/http%3A//www.uniden.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Uniden | A World Without Wires
 
