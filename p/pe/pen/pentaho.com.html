@@ -1,9 +1,12 @@
-<!--The following is the downloaded HTML source of the pentaho.com privacy policy that was archived on 2007-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011080720id_/http%3A//community.pentaho.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pentaho.com privacy policy that was archived on 2008-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080520075204id_/http%3A//community.pentaho.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
 <!-- no style, home page -->
+<link rel="alternate" type="application/rss+xml" title="Pentaho Press Releases" href="http://www.pentaho.com/feeds/press">
+<link rel="alternate" type="application/rss+xml" title="Pentaho Highlights" href="http://www.pentaho.com/feeds/highlights">
+<link rel="alternate" type="application/rss+xml" title="Pentaho Training" href="http://www.pentaho.com/feeds/training">
 
 <link rel="shortcut icon" href="http://www.pentaho.com/images/favicon.ico">
 <link rel="stylesheet" type="text/css" href="http://www.pentaho.com/css/styles.css">
@@ -800,10 +803,12 @@ menu2.onactivate = function() { document.getElementById("mtm_products").classNam
 menu2.ondeactivate = function() { document.getElementById("mtm_products").className = ""; };
 menu3.onactivate = function() { document.getElementById("mtm_services").className = "hover"; };
 menu3.ondeactivate = function() { document.getElementById("mtm_services").className = ""; };
-menu4.onactivate = function() { document.getElementById("mtm_developer_zone").className = "hover"; };
-menu4.ondeactivate = function() { document.getElementById("mtm_developer_zone").className = ""; };
-menu5.onactivate = function() { document.getElementById("mtm_about").className = "hover"; };
-menu5.ondeactivate = function() { document.getElementById("mtm_about").className = ""; };
+menu4.onactivate = function() { document.getElementById("mtm_partners").className = "hover"; };
+menu4.ondeactivate = function() { document.getElementById("mtm_partners").className = ""; };
+menu5.onactivate = function() { document.getElementById("mtm_developer_zone").className = "hover"; };
+menu5.ondeactivate = function() { document.getElementById("mtm_developer_zone").className = ""; };
+menu6.onactivate = function() { document.getElementById("mtm_about").className = "hover"; };
+menu6.ondeactivate = function() { document.getElementById("mtm_about").className = ""; };
 document.getElementById("mtm_pro").onmouseover = function() { ms.hideCurrent(); this.className = "hover"; }
 document.getElementById("mtm_pro").onmouseout = function() { this.className = ""; }
 	 	}
@@ -852,7 +857,7 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
 function popUpPartner(URL) {
 day = new Date();
 id = day.getTime();
-eval("page" + id + " = window.open(URL, 'PentahoPartners', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=620,height=475');");
+eval("page" + id + " = window.open(URL, 'PentahoPartners', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=620,height=500');");
 }
 
 function popUpPartner_tech(URL) {
@@ -888,6 +893,12 @@ day = new Date();
 id = day.getTime();
 eval("page" + id + " = window.open(URL, 'trainingdesc', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=550,height=425');");
 }
+function popUpPage(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, 'newwindow', 'toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=1,resizable=1');");
+}
+
 // End -->
 
 /* #################################### */
@@ -897,9 +908,9 @@ eval("page" + id + " = window.open(URL, 'trainingdesc', 'toolbar=0,scrollbars=1,
 /* #################################### */
 
 </script>	
-	<title>Pentaho Community: Privacy</title>
+	<title>Pentaho Commercial Open Source Business Intelligence: Privacy</title>
 </head>
-<body class="bodyMain" onload="initPage()">
+<body class="bodyMain">
 <table class="bodyTable" cellpadding="0" cellspacing="0">
 	<tbody><tr> 
     	<td rowspan="2" class="borderBox1_left">&nbsp;</td>
@@ -912,13 +923,13 @@ eval("page" + id + " = window.open(URL, 'trainingdesc', 'toolbar=0,scrollbars=1,
         		<tbody><tr> 
           			<td><a href="http://www.pentaho.com" title="Pentaho Home"><img align="left" src="http://www.pentaho.com/images/de_logo.png" width="219" height="86" hspace="5" border="0"></a>
 					<!--sphider_noindex-->
-<div class="loginTable" style="padding-top:20px;">
-<form action="http://www.pentaho.com/search/search.php" method="get" id="searchform" name="searchform">
-<div>Search:&nbsp;<input type="text" name="query" id="query" size="20" value="" class="inputbox_search" style="border: 1px solid rgb(149, 162, 44);margin:0px 0px 0px 4px;"></div>
-<input type="hidden" name="type" value="phrase"><input type="hidden" name="results" value="10"><input type="hidden" name="search" value="1">
-<br>Forums:&nbsp;<a href="http://forums.pentaho.org">Login</a> | <a href="http://forums.pentaho.org/register.php">Register</a>
-</form>
-</div>
+	<div class="portalmenu" style="margin-right:10px;"><a href="http://support.pentaho.com">Customer Portal</a> <span class="lightpipe">|</span> <a href="http://partners.pentaho.com">Partner Portal</a> <span class="lightpipe">|</span> <a href="http://forums.pentaho.org">Forum</a> <span class="lightpipe">|</span> <a href="http://www.pentaho.com/contact">Contact Us</a></div>
+	<div class="siteSearchTable" style="margin-right:10px;">
+	<form action="http://www.pentaho.com/search/search.php" method="get" id="searchform" name="searchform">
+	<div>Search:&nbsp;<input type="text" name="query" id="query" size="20" value="" class="inputbox_search" style="border: 1px solid rgb(149, 162, 44);margin:0px 0px 0px 4px;"></div>
+	<input type="hidden" name="type" value="phrase"><input type="hidden" name="results" value="10"><input type="hidden" name="search" value="1">
+	</form>
+	</div>
 <!--/sphider_noindex-->					</td>
         		</tr>
         		<tr> 
@@ -933,12 +944,14 @@ eval("page" + id + " = window.open(URL, 'trainingdesc', 'toolbar=0,scrollbars=1,
 			Products		</a>
 				<a class="" href="http://www.pentaho.com/services" id="mtm_services">
 			Services		</a>
-		<span class="active">			<a class="" href="http://community.pentaho.org/index.php" id="mtm_developer_zone">
+				<a class="" href="http://www.pentaho.com/partners" id="mtm_partners">
+			Partners		</a>
+		<span class="active">			<a class="" href="http://community.pentaho.com/index.php" id="mtm_developer_zone">
 				Community			</a>
-		</span>		<a class="" href="http://www.pentaho.org/about" id="mtm_about">
+		</span>		<a class="" href="http://www.pentaho.com/about" id="mtm_about">
 			About		</a>
 				<a class="" href="http://www.pentaho.com/subscriptions" id="mtm_buy">
-			Get Support		</a>
+			Get a Subscription		</a>
 			</div>
 	<script type="text/javascript" language="javascript">
 		//<![CDATA[
@@ -954,43 +967,55 @@ eval("page" + id + " = window.open(URL, 'trainingdesc', 'toolbar=0,scrollbars=1,
 			menu2.addItem("Data Integration", "http://www.pentaho.com/products/data_integration", "0");
 			menu2.addItem("Data Mining", "http://www.pentaho.com/products/data_mining", "0");
 			menu2.addItem("BI Platform", "http://www.pentaho.com/products/bi_platform", "0");
-			menu2.addItem("Demos", "http://www.pentaho.com/products/demos", "0");
+			menu2.addItem("Demos", "http://www.pentaho.com/products/demos/showNtell.php", "0");
 
 			var menu3 = ms.addMenu(document.getElementById("mtm_services"));
 			menu3.addItem("Support", "http://www.pentaho.com/services/support", "0");
 			menu3.addItem("Training", "http://www.pentaho.com/services/training", "0");
+			menu3.addItem("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FAQ", "http://www.pentaho.com/services/training/faq", "0");
+			menu3.addItem("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Course Catalog", "http://www.pentaho.com/docs/2008_winter_pentaho_training_course_catalog.pdf", "1");
 			menu3.addItem("Consulting", "http://www.pentaho.com/services/consulting", "0");
 			menu3.addItem("ISV/OEM Support", "http://www.pentaho.com/services/isv_oem_support", "0");
 			menu3.addItem("WebEx Event Center", "https://pentaho.webex.com", "1");
-			menu3.addItem("Partners", "http://www.pentaho.com/services/partners", "0");
 
-			var menu4 = ms.addMenu(document.getElementById("mtm_developer_zone"));
-			menu4.addItem("Projects", "http://community.pentaho.org/projectsites", "0");
-			menu4.addItem("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BI Platform", "http://community.pentaho.org/projects/bi_platform", "0");
-			menu4.addItem("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kettle", "http://kettle.pentaho.org", "0");
-			menu4.addItem("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mondrian", "http://mondrian.pentaho.org", "0");
-			menu4.addItem("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pentaho Reporting", "http://reporting.pentaho.org", "0");
-			menu4.addItem("FAQs", "http://community.pentaho.org/faq", "0");
-			menu4.addItem("Roadmap", "http://community.pentaho.org/roadmap", "0");
-			menu4.addItem("Forums", "http://forums.pentaho.org", "0");
-			menu4.addItem("Document Forum", "http://forums.pentaho.org/forumdisplay.php?f=236", "0");
-			menu4.addItem("Newsletter", "http://www.pentaho.org/news/index.php?tab=community|2007", "0");
-			menu4.addItem("Downloads", "http://www.pentaho.org/download", "0");
+			var menu4 = ms.addMenu(document.getElementById("mtm_partners"));
+			menu4.addItem("Technology Partners", "http://www.pentaho.com/partners/technology", "0");
+			menu4.addItem("System Integrators", "http://www.pentaho.com/partners/system_integrators", "0");
+			menu4.addItem("Authorized Resellers", "http://www.pentaho.com/partners/resellers", "0");
+			menu4.addItem("OEM Partners", "http://www.pentaho.com/partners/oems", "0");
+			menu4.addItem("Become a Partner", "http://www.pentaho.com/partners/join_now", "0");
+			menu4.addItem("Partner Portal", "http://wiki.pentaho.org/display/PARTNERS/", "0");
 
-			var menu5 = ms.addMenu(document.getElementById("mtm_about"));
-			menu5.addItem("About Pentaho", "http://www.pentaho.org/about", "0");
-			menu5.addItem("Meet the Team", "http://www.pentaho.org/team", "0");
-			menu5.addItem("News, Blogs, Links", "http://www.pentaho.org/news", "0");
-			menu5.addItem("Events & Webcasts", "http://www.pentaho.org/events", "0");
-			menu5.addItem("Tribal Store", "http://www.cafepress.com/pentaho", "1");
-			menu5.addItem("WebEx Event Center", "https://pentaho.webex.com", "1");
-			menu5.addItem("Careers", "http://www.pentaho.org/careers", "0");
-			menu5.addItem("Contact Us", "http://www.pentaho.org/contact", "0");
+			var menu5 = ms.addMenu(document.getElementById("mtm_developer_zone"));
+			menu5.addItem("Community Home", "http://community.pentaho.com/", "0");
+			menu5.addItem("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BI Platform", "http://community.pentaho.com/projects/bi_platform", "0");
+			menu5.addItem("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kettle", "http://kettle.pentaho.org", "0");
+			menu5.addItem("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mondrian", "http://mondrian.pentaho.org", "0");
+			menu5.addItem("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pentaho Reporting", "http://reporting.pentaho.org", "0");
+			menu5.addItem("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weka", "http://weka.pentaho.org", "0");
+			menu5.addItem("FAQs", "http://community.pentaho.com/faq", "0");
+			menu5.addItem("Roadmap", "http://community.pentaho.com/roadmap", "0");
+			menu5.addItem("Forums", "http://forums.pentaho.org", "0");
+			menu5.addItem("Wiki", "http://wiki.pentaho.org", "0");
+			menu5.addItem("Document Forum", "http://forums.pentaho.org/forumdisplay.php?f=236", "0");
+			menu5.addItem("Newsletter", "http://www.pentaho.com/news/index.php?tab=community|2007", "0");
+			menu5.addItem("Downloads", "http://www.pentaho.com/download", "0");
+
+			var menu6 = ms.addMenu(document.getElementById("mtm_about"));
+			menu6.addItem("About Pentaho", "http://www.pentaho.com/about", "0");
+			menu6.addItem("Customer Successes", "http://www.pentaho.com/about/customers", "0");
+			menu6.addItem("Meet the Team", "http://www.pentaho.com/team", "0");
+			menu6.addItem("News, Blogs, Links", "http://www.pentaho.com/news", "0");
+			menu6.addItem("Events & Webcasts", "http://www.pentaho.com/events", "0");
+			menu6.addItem("Tribal Store", "http://www.cafepress.com/pentaho", "1");
+			menu6.addItem("WebEx Event Center", "https://pentaho.webex.com", "1");
+			menu6.addItem("Careers", "http://www.pentaho.com/careers", "0");
+			menu6.addItem("Contact Us", "http://www.pentaho.com/contact", "0");
 
 			TransMenu.renderAll();
 	  	}
 		//]]>
-	</script><div id="TransMenu0" class="transMenu top" style="width: 200px; height: 230px; visibility: hidden;"><div class="content" style="width: 198px; height: 228px; top: -230px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Product Overview</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Reporting</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Analysis</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spreadsheet Services</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Dashboards</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Data Integration</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Data Mining</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">BI Platform</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Demos</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 226px; width: 193px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 196px; height: 225px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="background" style="width: 196px; height: 226px; background-color: rgb(158, 170, 54);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div></div></div><div id="TransMenu1" class="transMenu top" style="width: 175px; height: 158px; visibility: hidden;"><div class="content" style="width: 173px; height: 156px; top: -158px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Support</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Training</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Consulting</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">ISV/OEM Support</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">WebEx Event Center</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Partners</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 154px; width: 168px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 171px; height: 153px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="background" style="width: 171px; height: 154px; background-color: rgb(158, 170, 54);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div></div></div><div id="TransMenu2" class="transMenu top" style="width: 184px; height: 278px; visibility: hidden;"><div class="content" style="width: 182px; height: 276px; top: -278px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Projects</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BI Platform</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kettle</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mondrian</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pentaho Reporting</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">FAQs</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Roadmap</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Forums</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Document Forum</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Newsletter</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Downloads</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 274px; width: 177px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 180px; height: 273px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="background" style="width: 180px; height: 274px; background-color: rgb(158, 170, 54);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div></div></div><div id="TransMenu3" class="transMenu top" style="width: 175px; height: 206px; visibility: hidden;"><div class="content" style="width: 173px; height: 204px; top: -206px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">About Pentaho</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Meet the Team</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">News, Blogs, Links</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Events &amp; Webcasts</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Tribal Store</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">WebEx Event Center</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Careers</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Contact Us</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 202px; width: 168px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 171px; height: 201px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="background" style="width: 171px; height: 202px; background-color: rgb(158, 170, 54);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div></div></div>
+	</script><div id="TransMenu0" class="transMenu top" style="width: 200px; height: 230px; visibility: hidden;"><div class="content" style="width: 198px; height: 228px; top: -230px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Product Overview</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Reporting</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Analysis</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spreadsheet Services</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Dashboards</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Data Integration</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Data Mining</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">BI Platform</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Demos</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 226px; width: 193px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 196px; height: 225px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="background" style="width: 196px; height: 226px; background-color: rgb(158, 170, 54);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div></div></div><div id="TransMenu1" class="transMenu top" style="width: 175px; height: 182px; visibility: hidden;"><div class="content" style="width: 173px; height: 180px; top: -182px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Support</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Training</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FAQ</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Course Catalog</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Consulting</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">ISV/OEM Support</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">WebEx Event Center</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 178px; width: 168px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 171px; height: 177px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="background" style="width: 171px; height: 178px; background-color: rgb(158, 170, 54);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div></div></div><div id="TransMenu2" class="transMenu top" style="width: 175px; height: 158px; visibility: hidden;"><div class="content" style="width: 173px; height: 156px; top: -158px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Technology Partners</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">System Integrators</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Authorized Resellers</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">OEM Partners</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Become a Partner</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Partner Portal</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 154px; width: 168px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 171px; height: 153px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="background" style="width: 171px; height: 154px; background-color: rgb(158, 170, 54);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div></div></div><div id="TransMenu3" class="transMenu top" style="width: 184px; height: 326px; visibility: hidden;"><div class="content" style="width: 182px; height: 324px; top: -326px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Community Home</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BI Platform</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kettle</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mondrian</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pentaho Reporting</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weka</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">FAQs</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Roadmap</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Forums</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Wiki</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Document Forum</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Newsletter</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Downloads</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 322px; width: 177px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 180px; height: 321px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="background" style="width: 180px; height: 322px; background-color: rgb(158, 170, 54);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div></div></div><div id="TransMenu4" class="transMenu top" style="width: 175px; height: 230px; visibility: hidden;"><div class="content" style="width: 173px; height: 228px; top: -230px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">About Pentaho</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Customer Successes</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Meet the Team</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">News, Blogs, Links</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Events &amp; Webcasts</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Tribal Store</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">WebEx Event Center</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Careers</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:8px;">Contact Us</td><td width="14" style="padding:3px; padding-right:8px;"><img src="http://www.pentaho.com/images/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="http://www.pentaho.com/images/x.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 226px; width: 168px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 171px; height: 225px; background-color: rgb(136, 136, 136);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div><div class="background" style="width: 171px; height: 226px; background-color: rgb(158, 170, 54);"><img src="http://www.pentaho.com/images/x.gif" width="1" height="1"></div></div></div>
 	<div style="width: 150px; height: 140px; visibility: hidden; left: 150px; top: 117px; z-index: 100;" id="TransMenu0" class="transMenu top">
 		<div style="width: 148px; height: 138px; top: -138px;" class="content">
 			<table class="items" border="0" cellpadding="0" cellspacing="0">
@@ -1036,7 +1061,7 @@ eval("page" + id + " = window.open(URL, 'trainingdesc', 'toolbar=0,scrollbars=1,
 			<div style="width: 146px; height: 136px; background-color: rgb(158, 170, 54);" class="background"><img src="http://www.pentaho.com/images/x.gif" height="1" width="1"></div>
 		</div>
 	</div>
-	<div style="width: 164px; height: 119px; visibility: hidden; left: 251px; top: 117px; z-index: 105;" id="TransMenu1" class="transMenu top">
+	<div style="width: 164px; height: 119px; visibility: hidden; left: 251px; top: 117px; z-index: 102;" id="TransMenu1" class="transMenu top">
 		<div style="width: 162px; height: 117px; top: -117px;" class="content">
 			<table class="items" border="0" cellpadding="0" cellspacing="0">
 				<tbody>
@@ -1053,6 +1078,14 @@ eval("page" + id + " = window.open(URL, 'trainingdesc', 'toolbar=0,scrollbars=1,
 				</tr>
 				<tr class="item">
 					<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">Consulting</td>
+					<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
+				</tr>
+				<tr class="item">
+					<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap"></td>
+					<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
+				</tr>
+				<tr class="item">
+					<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap"></td>
 					<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
 				</tr>
 				<tr class="item">
@@ -1073,7 +1106,48 @@ eval("page" + id + " = window.open(URL, 'trainingdesc', 'toolbar=0,scrollbars=1,
 			<div style="width: 160px; height: 115px; background-color: rgb(158, 170, 54);" class="background"><img src="http://www.pentaho.com/images/x.gif" height="1" width="1"></div>
 		</div>
 	</div>
-	<div style="width: 117px; height: 203px; visibility: hidden; left: 350px; top: 117px; z-index: 104;" id="TransMenu2" class="transMenu top">
+	<div style="width: 164px; height: 119px; visibility: hidden; left: 351px; top: 117px; z-index: 105;" id="TransMenu2" class="transMenu top">
+		<div style="width: 162px; height: 117px; top: -117px;" class="content">
+			<table class="items" border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+				<tr>
+					<td colspan="2"><img src="http://www.pentaho.com/images/x.gif" height="5" width="1"></td>
+				</tr>
+				<tr class="item">
+					<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">Technology Partners</td>
+					<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
+				</tr>
+				<tr class="item">
+					<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">System Integrators</td>
+					<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
+				</tr>
+				<tr class="item">
+					<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">Authorized Resellers</td>
+					<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
+				</tr>
+				<tr class="item">
+					<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">OEM Partners</td>
+					<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
+				</tr>
+				<tr class="item">
+					<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">Become a Partner</td>
+					<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
+				</tr>
+				<tr class="item">
+					<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">Partner Portal</td>
+					<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="http://www.pentaho.com/images/x.gif" height="5" width="1"></td>
+				</tr>
+			</tbody>
+		</table>
+			<div style="top: 115px; width: 157px; background-color: rgb(136, 136, 136);" class="shadowBottom"><img src="http://www.pentaho.com/images/x.gif" height="1" width="1"></div>
+			<div style="left: 160px; height: 114px; background-color: rgb(136, 136, 136);" class="shadowRight"><img src="http://www.pentaho.com/images/x.gif" height="1" width="1"></div>
+			<div style="width: 160px; height: 115px; background-color: rgb(158, 170, 54);" class="background"><img src="http://www.pentaho.com/images/x.gif" height="1" width="1"></div>
+		</div>
+	</div>
+	<div style="width: 117px; height: 203px; visibility: hidden; left: 450px; top: 117px; z-index: 104;" id="TransMenu3" class="transMenu top">
 		<div style="width: 115px; height: 201px; top: -201px;" class="content">
 			<table class="items" border="0" cellpadding="0" cellspacing="0">
 				<tbody>
@@ -1081,7 +1155,7 @@ eval("page" + id + " = window.open(URL, 'trainingdesc', 'toolbar=0,scrollbars=1,
 						<td colspan="2"><img src="http://www.pentaho.com/images/x.gif" height="5" width="1"></td>
 					</tr>
 					<tr class="item">
-						<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">Projects</td>
+						<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">Community Home</td>
 						<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
 					</tr>
 					<tr class="item">
@@ -1101,6 +1175,10 @@ eval("page" + id + " = window.open(URL, 'trainingdesc', 'toolbar=0,scrollbars=1,
 						<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
 					</tr>
 					<tr class="item">
+						<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weka</td>
+						<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
+					</tr>
+					<tr class="item">
 						<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">FAQs</td>
 						<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
 					</tr>
@@ -1110,6 +1188,10 @@ eval("page" + id + " = window.open(URL, 'trainingdesc', 'toolbar=0,scrollbars=1,
 					</tr>
 					<tr class="item">
 						<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">Forums</td>
+						<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
+					</tr>
+					<tr class="item">
+						<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">Wiki</td>
 						<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
 					</tr>
 					<tr class="item">
@@ -1134,7 +1216,10 @@ eval("page" + id + " = window.open(URL, 'trainingdesc', 'toolbar=0,scrollbars=1,
 			<div style="width: 113px; height: 199px; background-color: rgb(158, 170, 54);" class="background"><img src="http://www.pentaho.com/images/x.gif" height="1" width="1"></div>
 		</div>
 	</div>
-	<div style="width: 164px; height: 203px; visibility: hidden; left: 490px; top: 117px; z-index: 103;" id="TransMenu3" class="transMenu top">
+	
+	
+	
+	<div style="width: 164px; height: 203px; visibility: hidden; left: 590px; top: 117px; z-index: 103;" id="TransMenu4" class="transMenu top">
 		<div style="width: 162px; height: 201px; top: -201px;" class="content">
 			<table class="items" border="0" cellpadding="0" cellspacing="0">
 				<tbody>
@@ -1143,6 +1228,10 @@ eval("page" + id + " = window.open(URL, 'trainingdesc', 'toolbar=0,scrollbars=1,
 					</tr>
 					<tr class="item">
 						<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">About Pentaho</td>
+						<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
+					</tr>
+					<tr class="item">
+						<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">Customer Successes</td>
 						<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
 					</tr>
 					<tr class="item">
@@ -1171,10 +1260,6 @@ eval("page" + id + " = window.open(URL, 'trainingdesc', 'toolbar=0,scrollbars=1,
 					</tr>
 					<tr class="item">
 						<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap">Contact Us</td>
-						<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
-					</tr>
-					<tr class="item">
-						<td style="padding: 3px 3px 3px 8px;" nowrap="nowrap"></td>
 						<td style="padding: 3px 8px 3px 3px;" width="14"><img src="http://www.pentaho.com/images/x.gif" height="14" width="14"></td>
 					</tr>
 					<tr>
@@ -1304,7 +1389,7 @@ var img = new Image;
 		<h3>UPDATES TO THE PRIVACY STATEMENT</h3>
         
 		<p>To substantively update the Privacy Statement, we will both post the changed version and its effective date on our website 
-		at www.pentaho.org. Concurrently with any substantive change to the Privacy Statement, we will email notice of the change to 
+		at www.pentaho.com. Concurrently with any substantive change to the Privacy Statement, we will email notice of the change to 
 		known users at least 15 days in advance (or such shorter or longer time as mandated by law or any judicial or government body).</p>
         
 		<p>Text last modified on June 1, 2005. Formatting updated on September 21, 2006 (text unchanged).</p>
@@ -1323,11 +1408,11 @@ _______________________________________
 =======================================
 || Pentaho Page Info                 ||
 ||===================================||
-|| Last Modified: 2007-06-13         ||
+|| Last Modified: 2007-11-08         ||
 || Modified By: patrick hart         ||
 || Content Owner: lance walter       ||
 || Change Requested by:              ||
-|| patrick hart - updated html       ||
+|| patrick hart - moved to com       ||
 ||===================================||
 =======================================
 -->
@@ -1346,38 +1431,45 @@ _______________________________________
 	<tbody><tr>
 		<td nowrap="nowrap">
 			<span class="mainlevel_footer">&nbsp;&nbsp;</span>
-				<a href="http://community.pentaho.org/terms" class="mainlevel_footer">
+				<a href="http://community.pentaho.com/terms" class="mainlevel_footer">
 				Terms of Use				</a>
 			<span class="mainlevel_footer">&nbsp;&nbsp;</span>
-				<a href="http://community.pentaho.org/privacy" class="mainlevel_footer">
+				<a href="http://community.pentaho.com/privacy" class="mainlevel_footer">
 				Privacy Statement				</a>
 			<span class="mainlevel_footer">&nbsp;&nbsp;</span>
-				<a href="http://community.pentaho.org/contributor_agreement" class="mainlevel_footer">
+				<a href="http://community.pentaho.com/contributor_agreement" class="mainlevel_footer">
 				Contributor Agreement				</a>
 			<span class="mainlevel_footer">&nbsp;&nbsp;</span>
-				<a href="http://www.pentaho.com/sitemap/sitemap.php" class="mainlevel_footer">
+				<a href="http://www.pentaho.com/sitemap/" class="mainlevel_footer">
 				Site Map				</a>
 			<span class="mainlevel_footer">&nbsp;&nbsp;</span>
 				
 		</td>
 		<td width="100%" align="right">
-			<span class="mainlevel_footer_legals">© 2007, Pentaho Corporation</span>
+			<span class="mainlevel_footer_legals">© 2008, Pentaho Corporation</span>
 		</td>
 	</tr>
 </tbody></table>
+
 <script type="text/javascript" language="javascript" src="http://www.pentaho.com/elqNow/elqCfg.js"></script>
 <script type="text/javascript" language="javascript" src="http://www.pentaho.com/elqNow/elqImg.js"></script>
 
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-		</script>
+<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
+<script type="text/javascript">__sfga();</script>
 		<script type="text/javascript">
-		_uacct = "UA-1507503-3";
-		urchinTracker();
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-1507503-9");
+		pageTracker._initData();
+		pageTracker._trackPageview();
 		</script>
 		<!--/sphider_noindex-->		  	<!--End footer -->
 		</td>
     	
   	</tr>
 </tbody></table>
+<script>initPage();</script>
 
 </body></html>
