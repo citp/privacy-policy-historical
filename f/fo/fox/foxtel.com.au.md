@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxtel.com.au privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227161031id_/http%3A//www.foxtel.com.au/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxtel.com.au privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520083848id_/http%3A//www.foxtel.com.au/privacystatement.htm) for the most accurate reproduction.*
 
 # FOXTEL
 
@@ -6,7 +6,7 @@
 
 NOTE: Capitalised terms in this Privacy Statement have special meanings. Please refer to 
 
-**[**FOXTEL’s Residential Digital Subscription Agreement**](https://web.archive.org/digital_terms.htm) **for more information.**
+**[**FOXTEL’s Residential Digital Subscription Agreement**](http://www.foxtel.com.au/files/residentialagreement.pdf) **for more information.**
 
  **We may collect personal information**
 
@@ -16,7 +16,7 @@ FOXTEL may also collect personal information about you from a third party, such 
 
  **Collection specific to using this website**
 
-FOXTEL also collects information regarding activity on its website, such as the number of visitors to the website, the date and time of those visits, the number of pages viewed and navigation patterns. This information does not personally identify you. It is obtained using 'cookies' which are frequently used by websites to identify users' computers. This information on its own does not identify an individual but it provides FOXTEL with statistics that we can use to analyse and improve our website and the FOXTEL service. This information is collected on FOXTEL's behalf by Red Sheriff, located at [www.redsheriff.com](http://www.redsheriff.com/). 
+FOXTEL also collects information regarding activity on its website, such as the number of visitors to the website, the date and time of those visits, the number of pages viewed and navigation patterns. This information does not personally identify you. It is obtained using 'cookies' which are frequently used by websites to identify users' computers. This information on its own does not identify an individual but it provides FOXTEL with statistics that we can use to analyse and improve our website and the FOXTEL service. This information is collected on FOXTEL's behalf by Red Sheriff, located at <http://www.redsheriff.com/>. 
 
 **How we use your information**
 
@@ -52,8 +52,6 @@ We will provide you with access to most personal information that we have about 
 
 If you think that any personal information we hold about you is not accurate, complete and up-to-date, you may ask us to correct that information.  We will take reasonable steps to correct such personal information unless we disagree with you about whether the information is accurate, complete and up-to-date.
 
- **DIGITAL SUBSCRIBERS ONLY**
-
  **Credit reporting**
 
 The Privacy Act allows us to give a credit reporting agency certain personal information about you.  The information we disclose to a credit reporting agency includes:  
@@ -66,6 +64,6 @@ The Privacy Act allows us to give a credit reporting agency certain personal inf
 
  **If we report your default to a credit reporting agency your credit rating may be affected and you may have difficulty obtaining credit in the future.**
 
-The section on Payments in [FOXTEL’s Residential Digital Subscription Agreement](https://web.archive.org/digital_terms.htm) tells you more about when we will be a credit provider to you.
+The section on Payments in [FOXTEL’s Residential Digital Subscription Agreement](http://www.foxtel.com.au/files/residentialagreement.pdf) tells you more about when we will be a credit provider to you.
 
 You can contact us by writing to us at PO Box 612, Moonee Ponds, Victoria, 3039 or contacting us on 131999.
