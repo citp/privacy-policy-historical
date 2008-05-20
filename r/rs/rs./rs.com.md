@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rs.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011190059id_/http%3A//www.rs.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rs.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520140456id_/http%3A//www.rocketsoftware.com/about/privacy) for the most accurate reproduction.*
 
 # Rocket Software
 
 ## Overview
 
-Rocket Software™, Inc. is committed to protecting your personal information and respecting your privacy.
+Rocket Software™ , Inc. is committed to protecting your personal information and respecting your privacy.
 
 In general, you can visit Rocket Software, Inc. on the Web without telling us who you are or revealing any information about yourself.
 
