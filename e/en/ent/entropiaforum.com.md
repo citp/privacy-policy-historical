@@ -1,29 +1,30 @@
-> *The following text is extracted and transformed from the entropiaforum.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011134309id_/http%3A//www.entropiaforum.com/forums/showthread.php%3Ft%3D36707) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entropiaforum.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520073046id_/http%3A//www.entropiaforum.com/forums/about-entropiaforum/36707-entropiaforum-privacy-policy.html) for the most accurate reproduction.*
 
-# EntropiaForum Privacy Policy - EntropiaForum
+# EntropiaForum Privacy Policy - EntropiaForum.com
 
-EF Owner  
-Administrator
+EntropiaForum Owner/Admin
 
-[](https://web.archive.org/web/20071011134309id_/http%3A//www.entropiaforum.com/forums/member.php?u=9992)
+[](http://www.entropiaforum.com/forums/members/711.html)
 
-Joined: Aug 06
+Posts: 
+
+[2,808](http://www.entropiaforum.com/forums/search.php?do=finduser&u=9992)
+
+Blog Entries: [5](http://www.entropiaforum.com/forums/blogs/711/)
 
 Gender:  Ingame: 
 
 Location: EntropiaForum
 
-Posts: 1,897  
-EFD: 167,094     [Donate](https://web.archive.org/web/20071011134309id_/http%3A//www.entropiaforum.com/forums/vbplaza.php?do=donate&userid=9992)
+EFD: 66,102.85
 
-Fame: 5 
+Reputation: Amazing   
+Fame: 4 
 
-Reputation: Professional   
-Achievements: [2](http://www.entropiaforum.com/forums/search.php?do=process&starteronly=1&searchuser=711&childforums=1&exactname=1&forumchoice\[\]=9)
+Achievements: [2](http://www.entropiaforum.com/forums/search.php?do=process&starteronly=1&searchuser=711&childforums=1&exactname=1&forumchoice\[\]=9)   
+
 
 | 
-
-**EntropiaForum Privacy Policy**
 
 * * *
 
@@ -134,4 +135,4 @@ Please contact EntropiaForum with any questions or comments about this Privacy N
 
 * * *
 
-_Last edited by 711 : 09-03-2006 at 08:47 AM. _
+_Last edited by 711; 09-03-2006 at 08:47. _
