@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50millionpounds.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229034026id_/http%3A//www.statefarm.com/about/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50millionpounds.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520030732id_/http%3A//www.statefarm.com/about/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policies
 
@@ -11,7 +11,7 @@
     * You expressly authorize it.
     * It is permitted or required by law.
     * Your insurance policy contract with us permits us to do so.
-  * We afford prospective and former customers with the same protections as existing customers with respect to the use of personal information.
+  * We afford our prospective and former customers the same protections as existing customers with respect to the use of personal information.
 
 
 
