@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pentaho.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011080720id_/http%3A//community.pentaho.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pentaho.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520075204id_/http%3A//community.pentaho.com/privacy) for the most accurate reproduction.*
 
-# Pentaho Community: Privacy
+# Pentaho Commercial Open Source Business Intelligence: Privacy
 
 Pentaho is committed to protecting the privacy of users of our site. As part of the normal operation of this site, we collect information from you. This Privacy Statement describes the information we collect about you and what may happen to that information.
 
@@ -48,7 +48,7 @@ If Pentaho becomes aware that a user's personal information provided to Pentaho 
 
 ### UPDATES TO THE PRIVACY STATEMENT
 
-To substantively update the Privacy Statement, we will both post the changed version and its effective date on our website at www.pentaho.org. Concurrently with any substantive change to the Privacy Statement, we will email notice of the change to known users at least 15 days in advance (or such shorter or longer time as mandated by law or any judicial or government body).
+To substantively update the Privacy Statement, we will both post the changed version and its effective date on our website at www.pentaho.com. Concurrently with any substantive change to the Privacy Statement, we will email notice of the change to known users at least 15 days in advance (or such shorter or longer time as mandated by law or any judicial or government body).
 
 Text last modified on June 1, 2005. Formatting updated on September 21, 2006 (text unchanged).
 
