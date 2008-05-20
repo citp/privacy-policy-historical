@@ -1,0 +1,429 @@
+<!--The following is the downloaded HTML source of the gunggo.com privacy policy that was archived on 2008-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080520110821id_/http%3A//gunggo.com/PrivacyPolicy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Advertising Network - Privacy Policy
+</title><meta name="keywords" content="Entertainment Advertising Network, Online Advertising, pay per click advertising, content targeted advertising, online marketing, behavioral Targeting, internet marketing, marketing, online, advertising, internet, web, pay per click, ppc, bid, bids, keywords, keyword bids, keyword management, advertising bids,content target, blog advertising"><meta name="description" content="Promote your business with today's most effective online advertising technology, targeted advertising at a cost effective metric of CPC, PPC, CPM or CPV.">   
+    <style type="text/css">
+        body {
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            font-family: Trebuchet MS;                       
+            color: #2a2a2a;            
+        }
+        
+		table#container		
+		{
+			margin: 1em auto;
+			text-align: left;		
+			font-size: 10pt;	
+		}   
+		
+        a.nav:link {color: #FFFFFF; text-decoration: none; }
+        a.nav:visited {color: #FFFFFF; text-decoration: none; }
+        a.nav:hover {color: #FFFFFF; text-decoration: none; }
+        a.nav:active {color: #FFFFFF; text-decoration:none; }  
+        
+        a.footer:link {color: #1294b6; text-decoration: none; }
+        a.footer:visited {color: #1294b6; text-decoration: none; }
+        a.footer:hover {color: #67ae3d; text-decoration: none; }
+        a.footer:active {color: #1294b6; text-decoration: none; }
+
+        .nav_menu_item 
+        {            
+            filter:alpha(opacity=80);
+            opacity: 0.8;
+            -moz-opacity:0.8;   
+            padding: 0px;
+            color: White;   
+            text-align: left;  
+            position: absolute;               
+            font-weight: bold;    
+            z-index: 3;   
+        }
+        
+        .button
+        {
+            background: url('/images/new/btn_bg.gif') no-repeat;
+            border: none;
+            width: 114px;
+            height: 37px;
+            color: White;
+            font-weight: bold;
+            font-family: Trebuchet MS;
+            font-size: em2;           
+        }
+        
+        .color1 
+        {
+            color: #939598;
+        }
+        
+        .flash 
+        {
+            z-index: 0;
+        }
+    </style>   
+    <link href="css/ClientLoginWidget.css" rel="stylesheet" type="text/css"></head>
+<body bgcolor="White">
+<form name="aspnetForm" method="post" action="PrivacyPolicy.htm" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAgIDD2QWAgIDDw8WAh4EVGV4dAUUVHVlc2RheSBNYXkgMjAsIDIwMDhkZGSzGvNQ0a6Crb557g6Lsjy7MKRIkw==">
+
+<table id="container" cellpadding="0px" cellspacing="5px">
+    <tbody><tr>
+        <td colspan="2">
+            <table width="100%" cellpadding="0px" cellspacing="0px">
+                <tbody><tr>
+                    <td>                        
+                        <a id="ctl00_lnkLogo" href="./" style="display:inline-block;"><img src="images/new/header_logo.gif" border="0"></a>
+                    </td>
+                    <td valign="bottom" align="right" style="padding-right:5px">
+                        <span id="clock" style="font-size:xx-large; color: #616262;">&nbsp;</span><br>
+                        <span id="ctl00_lblTime"><b><font color="#939598">Tuesday May 20, 2008</font></b></span>
+                    </td>
+                </tr>
+            </tbody></table>            
+        </td>
+    </tr>
+    <tr>
+        <td width="806px" colspan="2">
+        <script type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.2.3.min.js"></script>
+        <script type="text/javascript" src="http://flesler-plugins.googlecode.com/files/jquery.preload-1.0.7-min.js"></script>     
+        <script type="text/javascript">
+
+            /* check client login */
+            function checkLogin() {
+                if ($("input[name='uid']").val() == "" ||
+                    $("input[name='pwd']").val() == "") {
+                    alert("Please put login and password before proceeding.");
+                    return false;
+                }   
+                return true;      
+            }    
+
+            
+            function updateClock () {
+              var currentTime = new Date ( );
+
+              var currentHours = currentTime.getHours ( );
+              var currentMinutes = currentTime.getMinutes ( );
+              var currentSeconds = currentTime.getSeconds ( );
+
+              // Pad the minutes and seconds with leading zeros, if required
+              currentMinutes = ( currentMinutes < 10 ? "0" : "" ) + currentMinutes;
+              currentSeconds = ( currentSeconds < 10 ? "0" : "" ) + currentSeconds;
+
+              // Choose either "AM" or "PM" as appropriate
+              var timeOfDay = ( currentHours < 12 ) ? "AM" : "PM";
+
+              // Convert the hours component to 12-hour format if needed
+              currentHours = ( currentHours > 12 ) ? currentHours - 12 : currentHours;
+
+              // Convert an hours component of "0" to "12"
+              currentHours = ( currentHours == 0 ) ? 12 : currentHours;
+
+              // Compose the string for display
+              var currentTimeString = currentHours + ":" + currentMinutes + ":" + currentSeconds + " " + timeOfDay;
+
+              // Update the time display
+              document.getElementById("clock").firstChild.nodeValue = currentTimeString;              
+            }            
+                        
+            var time_id_Home, time_id_Services, time_id_Advertisers, time_id_Publishers, hide_time;            
+            
+            function correct_pos(name) {
+                var parent = $("#SubMenu_"+name).parent()           
+                var offset = parent.offset();  
+                var h = parent.height;    
+                
+                // reposition depends on browser
+                if (jQuery.browser.mozilla) {
+                    reduce_left = 2;
+                    reduce_top = 31;
+                } else if (jQuery.browser.msie) {
+                    reduce_left = 2;
+                    reduce_top = 29;                
+                } else if (jQuery.browser.safari ) {
+                    reduce_left = 2;
+                    reduce_top = 31;                
+                }
+  
+                           
+                $("#SubMenu_"+name)
+                    .css("top", (offset.top + 31) + "px")
+                    .css("width", parent.width() + "px");
+                if (name == "Home" ) {                    
+                    $("#SubMenu_"+name).css("left", offset.left+reduce_left)
+                        .css("width", (parent.width()-2) + "px");
+                } else {
+                    $("#SubMenu_"+name).css("left", offset.left);
+                }            
+            }
+            
+            $(window).resize(function() {
+                    correct_pos("Home");
+                    correct_pos("Services");
+                    correct_pos("Advertisers");
+                    correct_pos("Publishers");
+                });
+            
+            $(document).ready(
+                function() {       
+                
+                    updateClock(); 
+                    setInterval('updateClock()', 1000);
+                  
+                    hide_time = "800";
+                    $("#navibar").children() // get all child for navibar
+                        .each( function(i) { 
+                                $(this).hover( 
+                                    /***
+                                     * Set the hover fucntion
+                                     **/
+                                    function () {                                        
+                                        var id = $(this).find("table:last").attr("id");   
+                                        if (! id) return;                                    
+                                        var name = $(id.split("_")).get(1);
+                                        // correct submenu pos to fix table scatching problems
+                                        correct_pos( name );
+//                                        eval("clearTimeout(time_id_"+ name +");");  
+                                        $(this).find("table:last").stop();
+//                                        if ($(this).find("table:last").css("display") == "none")
+                                            $(this).find("table:last").css("display", "");                                     
+                                        $(this).find("table:last").css("opacity", "0.8");
+                                    }, 
+                                    /***
+                                     * Set the mouse out function
+                                     ***/
+                                    function () {
+                                        var id = $(this).find("table:last").attr("id");   
+                                        if (! id) return;                                    
+                                        var name = $(id.split("_")).get(1);
+                                        var str = "clearTimeout(time_id_"+ name +");";
+                                        str += "time_id_"+ name + "=setTimeout('$(\"#" +id+ "\").css(\"display\", \"none\")',"+ hide_time +");"
+//                                        eval(str);
+                                        $("#"+id)
+                                            .animate({opacity: 0}, 800, "", function(){$("#"+id).css("display", "none")});
+                                    }
+                                );
+                        });                    
+                }
+            );            
+            
+            // Try Preloading all images
+            $("img").preload();
+            
+        </script>
+        <!-- NAVI BAR -->
+            <table cellpadding="0" cellspacing="0" style="height:36px; color: #FFF; font-weight: bold;" width="806px">
+                <tbody><tr align="center" id="navibar">
+                    <td style="width:150px">
+                        <a id="ctl00_lnkHome" href="http://www.Gunggo.com"><img src="images/new/btn_navi_home.gif" border="0"></a>                        
+                        <!-- SubMenu -->
+                        <table id="SubMenu_Home" cellpadding="0" cellspacing="0" width="160px" style="display:none" class="nav_menu_item">
+                            <tbody><tr style="background-image:url('/images/new/bg_fill_grey.gif');">
+                                <td colspan="3" style="padding:3px">
+                                <a id="ctl00_lnkCompany" href="Company.htm"><font color="White">Company</font></a>
+                            </td></tr> 
+                            <tr style="background-image:url('/images/new/bg_fill_grey.gif');">
+                                <td colspan="3" style="padding:3px">
+                                <a id="ctl00_lnkNews" href="News.htm"><font color="White">News &amp; Press</font></a>
+                            </td></tr>                             
+                            <tr><td colspan="3" style="background-image:url('/images/new/bg_fill_grey.gif'); padding:3px">
+                                <a id="ctl00_lnkPress" href="Testimonials.htm"><font color="White">Testimonials</font></a></td></tr> 
+                            <tr><td colspan="3" style="background-image:url('/images/new/bg_fill_grey.gif'); padding:3px">
+                                <a id="ctl00_lnkCareer" href="Career.htm"><font color="White">Career</font></a>
+                            </td></tr>
+                            <tr>
+
+                                <td style="height:4px;width: 100%; background: url('/images/new/Navi/grey_drpdwn_bg.gif')"></td>
+
+                            </tr>                          
+                        </tbody></table>                        
+                        <!-- SubMenu -->
+                    </td>
+                    <td style="width:150px">
+                        <a id="ctl00_lnkServices" href="EntertainmentServices.htm"><img src="images/new/btn_navi_services.gif" border="0"></a>
+                        <!-- SubMenu -->
+                        <table id="SubMenu_Services" class="nav_menu_item" style="background-image:url('/images/new/bg_fill_red.gif'); display: none">
+                            <tbody><tr><td>
+                                <a id="ctl00_lnkEntertainment" href="EntertainmentServices.htm"><font color="White">Entertainment</font></a>
+                            </td></tr> 
+                            <tr><td>
+                                <a id="ctl00_lnkGambling" href="GamblingServices.htm"><font color="White">Gambling</font></a>
+                            </td></tr> 
+                            <tr><td>
+                                <a id="ctl00_lnkAdult" href="AdultServices.htm"><font color="White">Adult</font></a>
+                            </td></tr>  
+                            <tr><td>
+                                <a id="ctl00_HyperLink5" href="Technology.htm"><font color="White">Our Technology</font></a>
+                            </td></tr>     
+                            <tr><td>
+                                <a id="ctl00_HyperLink8" href="advertiser/CampaignManagement.htm"><font color="White">Campaign Management</font></a>
+                            </td></tr>                                                       
+                        </tbody></table>                         
+                        <!-- SubMenu -->
+                    </td>
+                    <td style="width:150px">
+                        <a id="ctl00_lnkAdvertisers" href="advertiser/Intro.htm"><img src="images/new/btn_navi_advertisers.gif" border="0"></a>
+                        <!-- SubMenu -->
+                        <table id="SubMenu_Advertisers" class="nav_menu_item" style="background-image:url('/images/new/bg_fill_blue.gif');display: none">
+                            <tbody><tr><td>
+                                <a id="ctl00_lnkAdvIntro" href="advertiser/Intro.htm"><font color="White">Intro</font></a></td></tr> 
+                            <tr><td>
+                                <a id="ctl00_lnkAdFormats" href="advertiser/AdFormats.htm"><font color="White">Ad Formats</font></a></td></tr> 
+                            <tr><td>
+                                <a id="ctl00_lnkAgencySolutions" href="advertiser/AgencySolutions.htm"><font color="White">Agency Solutions</font></a></td></tr>
+                            <tr><td>
+                                <a id="ctl00_HyperLink7" href="advertiser/CampaignManagement.htm"><font color="White">Campaign Management</font></a>
+                            </td></tr>                                       
+                            <tr><td>
+                                <a id="ctl00_HyperLink6" href="Technology.htm"><font color="White">Our Technology</font></a>
+                            </td></tr>                                       
+                            <tr><td>
+                                <a id="ctl00_lnkAdvertiserSignUp" href="advertiser/sign_up.htm"><font color="White">Advertiser SignUp</font></a></td></tr>
+                            <tr><td>
+                                <a id="ctl00_lnkFAQ" href="advertiser/FAQ.htm"><font color="White">FAQ</font></a></td></tr>                              
+                        </tbody></table>                        
+                        <!-- SubMenu -->
+                    </td>
+                    <td style="width:150px">
+                        <a id="ctl00_lnkPublishers" href="publisher/Intro.htm"><img src="images/new/btn_navi_publisher.gif" border="0"></a>                            
+                        <!-- SubMenu -->
+                        <table id="SubMenu_Publishers" class="nav_menu_item" style="background-image:url('/images/new/bg_fill_green.gif');display: none;">
+                            <tbody><tr><td>
+                                <a id="ctl00_lnkPubIntro" href="publisher/Intro.htm"><font color="White">Intro</font></a></td></tr> 
+                            <tr><td>
+                                <a id="ctl00_lnkPubAdFormats" href="publisher/AdFormats.htm"><font color="White">Ad Formats</font></a></td></tr> 
+                            <tr><td>
+                                <a id="ctl00_lnkPublisherSignUp" href="publisher/sign_up.htm"><font color="White">Publisher SignUp</font></a></td></tr>
+                            <tr><td><a id="ctl00_lnkPubFAQ" href="publisher/FAQ.htm"><font color="White">FAQ</font></a></td></tr>        
+                                                             
+                        </tbody></table>                         
+                        <!-- SubMenu -->
+                    </td>    
+                    <td style="width:150px">
+                        <a id="ctl00_lnkContact" href="ContactUs.htm"><img src="images/new/btn_navi_contact.gif" border="0"></a>
+                    </td>                                    
+                </tr>
+            </tbody></table>                                                                              
+        <!-- NAVI BAR -->        
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 800px; height: 600px;" align="center">             
+        <!-- Center Area -->
+            
+<table cellpadding="0" cellspacing="5px">
+    <tbody><tr>
+        <td style="padding: 5px 5px; width:800px; height:300px; border: 0; background-color: #FFFFFF; text-align: left">
+       <font color="#67ae3d"><b>Privacy Policy</b></font><br><br>
+   <font color="#336699"> At Gunggo, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order. We have NO access to any information collected by our Payment Services Providers and you may direct further inquiries here: <br><br>
+PAYPAL: <a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside">http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside </a></font><br><br>
+
+<b><font color="#67ae3d">Cookies<font color="#67ae3d"></font></font></b><font color="#67ae3d"><font color="#67ae3d"><br><br>
+
+<font color="#336699"> All browsers offer "cookies" and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a small text file. It is not a program, or a plug-in. It could not be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like the most and allow content to be customized upon your return, according to prior preferences at that site. They would not gather or hold any personal information. </font><br><br>
+
+<font color="#67ae3d">At Gunggo, We may use cookies to: </font><br><br>
+
+<font color="#336699">Store your password so you don't have to re-enter it each time you visit our sites. <br><br>
+<ul>
+<li>We will not use cookies to identify, monitor or track any personally identifiable information. 
+</li><li>Our cookies do not contain any personally identifiable information about you. 
+</li><li>We do not merge or associate our cookie information with any other visitor's confidential identifiable data obtained by us or from the 3rd parties. You also have flexible choices in respect to cookies. By simply modifying your browser preferences, you have the right to choose whether to accept all cookies, to be notified when a cookie is set or to reject all cookies. For more information on how to modify your browser settings in order to block or filter cookies, please visit <a href="http://www.cookiecentral.com/faq/">http://www.cookiecentral.com/faq/&gt;</a> . </li></ul>
+<br><br>
+
+However, please note that if you reject some or all cookies, your experience at our sites and on other sites throughout the web may not be completed. Some sites require cookies to function, such as those with e-commerce features. In addition, if you disable cookies, you will not be eligible to take advantage of personalized content delivery offered by us or other Internet sites.</font> <br><br>
+
+<font color="#67ae3d"><b>Third Party Cookies At Our Sites</b></font><br><br>
+
+<font color="#336699">While we use cookies in other parts of our Web site, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain. Please contact the Payment Services provider for more information as noted above. </font>
+<br><br>
+<b><font color="#67ae3d">Registration Forms</font></b><br><br>
+
+<font color="#336699">Our site's registration form requires users to provide contact information (such as their name, email, and postal address). This contact information is only used to get in touch with the customer when necessary and is never sold or shared. </font><br><br>
+
+<font color="#67ae3d"><b>External Links</b></font><br><br>
+
+<font color="#336699">This site contains links to other sites. Gunggo is not responsible for the privacy practices or the content of such Web sites once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately if there is a problem with any of our links. <br><br>
+
+                        <script type="text/javascript">
+                            $(function() {
+                                $(".email").each(
+                                    function(i) {
+                                                                                                                       
+                                        // reconstruct Text
+                                        var email = ($(this).html()).split(" ");
+                                        $(this).html(email[0] + email[1] + email[2]);
+                                        
+                                        
+                                        // reconstruct href
+                                        email = ($(this).attr("href")).split(" ");
+                                        $(this).attr("href", email[0] + email[1] + email[2]);                                        
+                                    }
+                                );
+                            });
+                        </script>
+
+<a href="mailto:webmaster @ gunggo.com" class="email">webmaster @ gunggo.com </a><br><br>
+
+<font color="#67ae3d"><b>Contacting the Web Site</b></font><br><br>
+
+<font color="#336699">If you have any questions about this privacy statement, the practices of this site, or concerns about this Web site, please contact: <a href="mailto:webmaster @ gunggo.com" class="email">webmaster @ gunggo.com </a></font>
+
+
+        </font></font></font></td>
+    </tr>
+    </tbody></table>
+     
+
+
+
+     
+        <!-- Center Area -->           
+        </td>
+    </tr>
+    <tr>
+        <td style="width:810px; padding:0px" colspan="2">
+           <!-- Footer -->
+            <table width="100%" cellpadding="0px" cellspacing="0px">
+                <tbody><tr>
+                    <td style="width:132px; height:43px">
+                        <img id="ctl00_imgFooterLogo" src="images/new/footer_logo.jpg" border="0">
+                    </td>
+                    <td style="background-image: url('/images/new/footer_bg.gif'); background-repeat:repeat-x; width: 99%">
+                    </td><td style="width:9px; height:43px">
+                        <img id="ctl00_imgFooterEnd" src="images/new/footer_bg_corner.gif" border="0">
+                    </td>
+                </tr>
+            </tbody></table>                      
+           <!-- Footer -->
+        </td>        
+    </tr>    
+    <tr>
+        <td style="width: 800px" colspan="2">
+            <table width="100%" cellpadding="0px" cellspacing="0px" style="font-size: 9pt">
+                <tbody><tr>
+                    <td style="color: #1294b6">
+                        <a id="ctl00_HyperLink1" class="footer" href="Company.htm">Company</a> | 
+                        <a id="ctl00_HyperLink2" class="footer" href="TermsAndConditions.htm">Terms &amp; Conditions</a> |                         
+                        <a id="ctl00_HyperLink3" class="footer" href="ContactUs.htm">Contact Us</a> | 
+                        <a id="ctl00_HyperLink4" class="footer" href="PrivacyPolicy.htm">Privacy Policy</a>
+                    </td>
+                    <td align="right" class="color1">
+                        Copyright ©&nbsp;
+                    </td>
+                    <td style="padding-top:0px; width: 1%">
+                        <img id="ctl00_imgBottomLogo" src="images/new/gunggo_logo_sm.gif" border="0">
+                    </td>
+                    <td style="width:1%;" nowrap="nowrap" class="color1">&nbsp;2008  Co. Ltd.</td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>    
+</tbody></table>
+</form>
+
+</body></html>
