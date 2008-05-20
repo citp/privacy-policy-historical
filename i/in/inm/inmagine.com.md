@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmagine.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229025210id_/http%3A//www.inmagine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmagine.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520070359id_/http%3A//www.inmagine.com/privacy.php) for the most accurate reproduction.*
 
 # Royalty Free Photos, Stock Photos, Photography and Royalty Free Images at Inmagine
 
