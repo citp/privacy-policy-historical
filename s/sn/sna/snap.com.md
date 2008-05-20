@@ -1,102 +1,76 @@
-> *The following text is extracted and transformed from the snap.com privacy policy that was archived on 1999-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990501192418id_/http%3A//www.snap.com/main/register/problems/0%2C135%2Chome-0%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snap.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520031723id_/http%3A//www.snap.com/about/privacy.php) for the most accurate reproduction.*
 
-# Snap:Help:Topics:Snap Privacy Policy
+# Snap
 
-[](https://www.truste.org/validate/511) **Snap is TRUSTe Certified**
+We are committed to protecting online user privacy. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below. 
 
-This Overall Privacy Statement verifies that Snap is a member of the TRUSTe Program and is in compliance with the TRUSTe privacy principles. This statement discloses the privacy practices for the entire Web Site. 
+This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. Capitalized terms shall have the meaning designated in the Snap Terms of Service located at [http://www.snap.com/about/terms.php](https://web.archive.org/web/20080520031723id_/http%3A//www.snap.com/about/terms.php), unless specifically defined in this Privacy Policy. All references herein to "we" or "us" refer to Snap Technologies, Inc. ("Snap"). All references to the "site" refer to our website located at [http://www.snap.com](http://www.snap.com/). 
 
-**About TRUSTe**  
-When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected; the organization collecting the information; how the information is used, with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information under Snap's control; and how you can correct any inaccuracies in the information. 
+##### Children's Privacy Policy
 
-Questions regarding this statement should be directed to Snap support services by e-mail at [support@snap.com ](mailto:support@snap.com) or by mail at One Beach St., San Francisco, CA 94133. If the Web site has not responded to your inquiry within five business days or your inquiry has not been satisfactorily addressed, please contact TRUSTe [(http://www.truste.org/users/watchdog.html)](http://www.truste.org/users/watchdog.html). To return to the site, please use the "Back" button on your browser.
+Our Site is not directed towards children 13 years of age or under and we do not knowingly collect any information from children 13 years of age or under through the Site. 
 
-**Snap's Privacy Philosophy**
+##### What We Collect and How We Use It
 
-Your privacy on the Internet is important to us. Because we gather certain types of information about Snap users, we want you to understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.
+__Personally Identifiable Information__
 
-**Information that Snap Gathers**
+Although you may generally use our site without providing us with any personally identifiable information, for some site applications or services, we may collect certain types of personally identifiable information, including: name, postal address, e-mail addresses, birth date, and phone number. This type of information is only collected from you voluntarily; we will never gather or store such information without your knowledge and consent. Examples of where we might gather such information from you: when you sign up to receive e-mail updates or newsletters about the site, our products, or services; to allow you to receive automatic mailings for services such as job searches; to allow you to register or update your individual profile on the site; to help personalize the site for you; or to allow you to provide feedback, ask a question, or post on the Snap Blog. In some situations, you will need to provide some or all of the above-described personally identifiable information in order for certain personalized features of the site to function properly (e.g., job search email alerts). 
 
-Snap gathers two types of information about users: 
+When you provide such information for a specific purpose, such as receiving job search email alerts, we will use such information to contact you solely for that purpose, except that we may at times also contact you to provide you with critical site information that impacts the features or services you have requested. 
 
-1) Personal data, provided through voluntary registration.  
-2) Aggregated data, which tracks users as a whole.  
+We do not share personally identifiable information collected at this site with third parties, except for the limited instances noted below. The exceptions are: 
+
+  * We may share your information with our agents who assist us in administering the site and various programs and promotions. They can only use the information to administer our site, services, and products. These agents are required to keep your information private and secure.
+  * If you opt-in (either at the time of providing personally identifiable information, or at a later time) to have us (i) use your information to contact you, or (ii) share your information with our partners for the purpose of receiving information from our partners and other companies.
+  * We may also disclose personally identifiable information if we are required to comply with laws, or if in our good faith judgment, such action is reasonably necessary to comply with legal process, to respond to any claims, or to protect the rights of Snap, its customers and the public.
+  * In the event of an acquisition of all or part of Snap by another company, or in the event that Snap were to sell or dispose of all or a part of the Snap business, the acquirer would have access to the information maintained by Snap, which could include personally identifiable information, subject to applicable law. Similarly, information may be transferred as part of a reorganization or insolvency proceeding.
 
 
-**Personal data** may be requested when you sign up for Snap's personalized services or register for contests, sweepstakes or other promotional programs offered on our service. We ask for this in order to provide you with the best Web experience possible. This information might include member name, password, age, gender, ZIP code and/or country information. Except as described below, it is not disclosed to parties other than Snap and its parent companies in any way that personally identifies you without your prior permission. 
 
-**Aggregated data** , which tracks Snap user activity as a whole rather than on an individual basis, is gathered through several methods. This tracking data follows Snap traffic in general, and is not used to identify you personally. 
+We may on occasion combine information we receive with outside records or site usage information to enhance our consumer profiles for our own marketing and development purposes (in accordance with this Privacy Policy). 
 
-Aggregated tracking information helps us to determine which areas of our site users like and don't like based on traffic to those areas. Snap does not track what you read, but rather how well each page performs overall. This helps us continue to build a better service for you. We may disclose such aggregated information to third parties such as our advertisers and partners. 
+__Cookie/Tracking Technology__
 
-**How Snap Uses Information**
+This site uses cookie and tracking technology. A "Cookie," is a tiny file that your browser places on your computer's hard drive, which acts to identify your computer. Cookie and cookie tracking technology is useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the site. Cookies can also help tailor the site to visitors' needs and help customize the site for visitors. For example, we may use cookies to store your site preferences, usage patterns, and other information so that the site will function better for you on subsequent visits. The site may also use cookies to deliver content specific to your interests and for other similar purposes. Personally identifiable information cannot be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information (as discussed above), cookies may be tied to such information. Aggregated cookie and tracking information may be shared with third parties. If you choose to reject the site's cookies, some areas of the site may not function properly or may not be accessible. 
 
-Snap uses any personal information that's voluntarily given by you in order to enhance your experience, whether to provide interactive or personalized elements on the site or to better prepare future content based on the interests of our users. Snap also uses information that you voluntarily provide in order to send electronic updates and to let you participate in polls and message boards. 
+__Automatically Collected Log Information__
 
-Snap will not disclose any information that personally identifies you to parties other than Snap and its parent companies without your consent. There are exceptions:   
-1) When the purpose and manner of disclosure is clearly defined in advance.  
-2) When we believe in good faith that disclosure is legally required or to protect our rights. 
+In addition to the information discussed above, when you visit the site we collect and store the following information in our logs for each browser request. We may use such information for development and marketing purposes (we will not use IP addresses externally except as set forth above): 
 
-**Contests and Sweepstakes**  
-Snap occasionally offers contests and sweepstakes in which we request certain personal information on a voluntary basis. These contests and sweepstakes are conducted in full accordance with United States federal and state laws. The full rules and all information about such contests are clearly posted during the event, including how information gathered will be used. 
+  * the date and time
+  * the originating IP address
+  * the type of browser and operating system used (if provided by the browser)
+  * the URL of the referring page (if provided by the browser)
+  * the object requested
+  * completion status of the request
+  * pages visited
 
-**Membership Services**  
-To use Snap's membership services -- such as e-mail, My Snap and your personal custom portfolio -- you will be requested to register. During registration, you'll be asked to supply a member name and password, age, gender, zip code and/or country information. Snap shares this data with our service provider(s). For instance, the personal information that you provide to our e-mail service at Snap is shared with that company in order to retrieve your password when necessary. 
+__Information Processing__
 
-This data is considered highly confidential and is used only to retrieve your password when necessary. We use high-level encryption when sending data between Snap and our e-mail provider. 
+We process information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners, provided that we will not reveal such information except in accordance with this privacy policy. 
 
-**Search Terms**  
-As a measure of user interest, we track search terms that are entered into our site. We create aggregrate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively, and allows you to receive advertisements that are most relevant to you. An advertiser will not receive specific information that you clicked their ad unless you voluntarily permit us to do so. 
+##### Demographic Information and Surveys and Polls
 
-**Cookies and Tracking**  
-A cookie is a small data file that Web sites commonly write to your hard drive when you visit them. A cookie file contains information that can identify you anonymously in order to track traffic patterns on our site. The data is encrypted for your added security. Snap uses cookies as a way to measure activity on the site in order to continually improve your experience. 
+We may ask for demographic or profile (age, gender, household, interests, etc.) information in a survey/poll or at registration. This information is used to assist us in tailoring the site, our communications, and our services and products to visitors and consumers. We may share aggregated demographic and survey information, as opposed to individual information, with third parties. You always have the option of not responding to any questionnaire, survey, or poll. 
 
-Cookies also provide you with a level of convenience -- since they "remember" your computer, they enable you to enter Snap sites as a member without having to log on each time, and they allow you to visit member-restricted areas of the site. 
+##### Security, Opting Out, and Access to Information
 
-Cookies don't identify you personally, but rather identify your computer when you visit our site. A cookie can't read data off your hard disk or read cookie files created by other sites. 
+Snap uses commercially reasonable efforts to keep personally identifiable information secure. Only authorized Snap employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information and only to help Snap administer its promotional programs and the site. 
 
-Your browser can be set to warn you before accepting cookies -- in this case, you will receive the warning message with each cookie. You can choose to refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use Snap, but you will need them for customizable areas of the site such as local weather forecasts. Snap does allow users to clear cookies. 
+If you have signed up to receive newsletters and email from us, we will make every effort to have all such communications allow you to opt-out of further such communications. If enabled on the site, you may visit your account settings page to set your opt-in/opt-out settings. In the event that you wish to otherwise modify your settings, you may always contact us at [customerservice@snap.com](mailto:customerservice@snap.com). 
 
-**Electronic Newsletters**  
-Snap offers free, electronic newsletters as a service to our users, based on a voluntary subscription. You will only receive a newsletter if you have requested it during registration to several areas of Snap or directly from our signup form. We do not share newsletter mailing lists with any third parties, including advertisers or partners, unless you voluntarily permit us to do so when you register or sign up. 
+If enabled on the site, you may visit your account settings page to delete your account and/or information. You can also contact us at [customerservice@snap.com](mailto:customerservice@snap.com) to request deletion of your account and/or information. Please note that any information that we have may remain in back-up storage for some period of time after your deletion request. This may be the case even though no information about your account remains in our active user databases. Also please note that log files are not affected by account deletion requests. 
 
-**Snap Shops**  
-Information you provide about yourself during a purchase through a store hosted by Snap is automatically provided to the owner of that store. This includes credit card and personal contact information. Each of these online merchants carry separate privacy and data collection practices from Snap, and Snap does not have any responsibility for their practices. For more information about a policy from a merchant, go to the store's home page and look for the company profile. 
+##### General
 
-**Message Boards or Discussion Areas**  
-Please remember that while Snap does not share any personal information gathered during registration to Snap Message Boards or Discussion Areas, any postings to message boards or discussion areas become public information. Use caution when posting.
+Third party Internet sites accessible through hyperlinks from this site have their own privacy practices, and Snap has no responsibility or liability for these independent practices. Please review their privacy practices for yourself. 
 
-**Snap Content Providers, Advertisers and Partners**
+We reserve the right to amend this Privacy Policy periodically. Any amendments made to this Privacy Policy will be considered effective ten (10) days after the amendments are posted on the site. 
 
-Snap will not provide your personal information to anyone outside of Snap and its parent companies except in the limited circumstances mentioned, and only then with your consent. For instance, the personal information you provide during registration to the Snap Finance center "powered by" Bloomberg will not be shared with anyone outside of Bloomberg. 
+##### Contact Information
 
-However, Snap cannot control the practices of other partners and advertisers. If you have provided personal information to a party or advertiser connected with Snap and have not been informed by Snap as to its purpose, contact them directly by going to their home page and looking for a company profile or information area. 
+If Users have any questions about our services or Privacy Policy, please contact Snap Support, c/o Snap Technologies, Inc., 130 West Union Street, Pasadena, CA 91103 USA. 
 
-It is important to note that Snap contains many links to sites other than Snap, and that those sites may not follow the same privacy policies as Snap. For instance, if you click an ad or a search result on Snap, this will take you away from Snap and to an entirely different site. This includes links from advertisers, content providers and partners who may use Snap's logo and/or style as part of a co-branding agreement. These sites may send their own cookies to you, and as a result, may collect data and ask for personal information that Snap would not. 
+Users may also email [customerservice@snap.com](mailto:customerservice@snap.com) with questions about our Privacy Policy, and info@snap.com with questions about our services. 
 
-**Kids and Privacy**
-
-Snap requests that children under 17 do not submit or post any information to the site without a parent's or guardian's consent. However, we will not request or knowingly collect from a child any information online that can be traced to the child, such as an e-mail address, name, or information about the child's family. 
-
-Unless a parent or guardian consents to such use in advance, Snap will not knowingly use information that a child provides to Snap for any marketing, selling or promotional purposes. 
-
-**Changes to Policy**
-
-Snap reserves the right to change this policy at any time by notifying guests of the existence of a revised privacy policy.
-
-**Opt-Out Policy**
-
-Snap gives you options wherever necessary and practical. Such choices include: 
-
-1\. Opting not to receive our electronic newsletters when registering for a site.   
-2\. Opting not to participate in certain interactive areas, which completely alleviates the need for any information from our users.
-
-**Correct/Update Policy**
-
-Snap offers the ability to correct or change the information collected during your registration. The instructions for doing this can be found in our Help area under "Change Member Settings". You may change this information at any time and as often as necessary. If you're experiencing problems or have any questions about how our services work, contact us at [ support@snap.com](mailto:support@snap.com).
-
-**Delete/Deactivate Policy**
-
-You may unsubscribe to our electronic newsletter at any time via e-mail by following the instructions contained at the end of every newsletter. 
-
-Currently, Snap does not offer a means by which to completely delete personal information established at the time of registration for any site. If you have questions about your information, please contact us at [ support@snap.com](mailto:support@snap.com).
+_Last Update: July 20, 2007_
