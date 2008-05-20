@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121093815id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520131541id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement — EUbusiness.com - business, legal and financial news and information from the European Union
+# Privacy Statement — EUbusiness.com - business, legal and economic news and information from the European Union
 
 EUbusiness.com Privacy Statement
 
@@ -32,9 +32,9 @@ We request information from users on our order forms. Users have to provide cont
 A cookie is a small text file written to a user's hard drive that contains the User ID. The cookies do not contain any personal information about users. The use of cookies is now widespread. The reason we use cookies is to save our users time on the site (so that users do not have to log in with a password more than once); and also so that we can personalise a user's experience of the site. If a user sets up his browser to reject the cookie, he or she may still use the site although functionality will be impaired.
 
 **Advertising**  
-EUbusiness runs advertising for a wide variety of organisations. These adverts are served from our own advertising server, Falk AdSolution, as well as from third-party ad servers managed by the advertiser. Recent third-party ad servers include Vibrant Media. These ad servers may attempt to set cookies (see above) on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of ad delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
+EUbusiness runs advertising for a wide variety of organisations. These adverts are served by our partner, WebAds, as well as from third-party ad servers managed by the advertiser. Recent third-party ad servers include Vibrant Media. These ad servers may attempt to set cookies (see above) on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of ad delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
 
-[**Falk AdSolution Privacy Policy**](http://www.falkag.net/page.php?Id=58)  
+[**WebAds Privacy Policy**](http://www.webads.co.uk/corporate/privacy)  
 [**Vibrant Media Privacy Policy**](http://www.vibrantmedia.com/site/privacy.html)
 
  **Log Files**  
