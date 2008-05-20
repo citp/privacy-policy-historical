@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoserve.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214224727id_/http%3A//search.infoserve.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoserve.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520020139id_/http%3A//search.infoserve.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Infoserve - Privacy Policy
 
