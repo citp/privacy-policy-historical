@@ -1,307 +1,407 @@
-<!--The following is the downloaded HTML source of the snap.com privacy policy that was archived on 1999-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/19990501192418id_/http%3A//www.snap.com/main/register/problems/0%2C135%2Chome-0%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snap.com privacy policy that was archived on 2008-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080520031723id_/http%3A//www.snap.com/about/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
-<title>Snap:Help:Topics:Snap Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Snap</title>
+<link rel="stylesheet" href="/styles/aboutNew.css?version=5.30.1" type="text/css">
+<noscript><meta http-equiv="refresh" content="0; URL=/noscript.php"></noscript>
+<script type="text/javascript" src="/javascript/SnapMaulerIncludes.js?no_session_event=1&amp;version=5.30.1"></script>
+<script type="text/javascript"> var ABOUT_INDEX = true; </script>
+<script type="text/javascript">	var SERVER = "http://www.snap.com"; </script>
+<script type="text/javascript" src="/javascript/cookie.js?no_session_event=1&amp;version=5.30.1"></script>
+<script type="text/javascript" src="/javascript/about.js?text=&amp;no_session_event=1&amp;version=5.30.1"></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Snap.com - The other way to Search. Snap is a new search engine that offers a very different alternative to the Big Search, Text-In, Text-Out, method. Snap is visual. Snap is fast. Snap is Interactive.">
+<meta name="keywords" content="search, search engines, Snap, snap.com, Perfect Market, results, cost per action, visual search, fast browsing, search previews, search alternatives, other ways to search, idealab search">
+<meta name="copyright" content="© 2006 Perfect Market Technologies, Inc.">
 </head>
-<body bgcolor="#ffffff" link="#0000FF" vlink="#666666" text="#333333">
+
+<body>
+<div id="shell">
+	<script>
+  layout = new Object();
+  var session_cookie = Cookies.get('session');
+  var session_values = Get.httpSplitQuery(session_cookie);
+  layout.session_id    = session_values['id'];
+  layout.campaign      = session_values['campaign'];
+  layout.source        = session_values['source'];
+  
+  var user_cookie = Cookies.get('user');
+  var user_values = Get.httpSplitQuery(user_cookie);
+  layout.user_id    = user_values['id'];
+</script>
+<div id="topbar">
+	<div id="logo">
+		<a href="/"><img src="/images/topbar-logo.gif" alt="Snap Shots" title="Snap Shots"></a>
+	</div>
+	<div id="toplinks">
+		<a href="/snapshots_faq.php">Help</a>
+	</div>
+</div>
+
+<div id="top-cap"></div>
+<div id="wrapper">
+
+	<div id="leftNav">
+		<script>
+function nav_mouseover(e) {
+  var li = this.parentNode;
+  if (li.className.indexOf('sub_nav') != -1)
+    return;
+  Element.addClassName(li, 'selected');
+  for (var i = 0; i < nav_listItems.length; i++) {
+    if (nav_listItems[i] == li)
+      break;
+  }
+  if (i == 0)
+    Element.addClassName(li, 'selected_top');
+
+  if (i-1 >= 0 && nav_listItems[i-1].className.indexOf('sub_nav') == -1)
+    Element.addClassName(nav_listItems[i-1], 'beforeSelected');
+  else if (i-2 >= 0)
+    Element.addClassName(nav_listItems[i-2], 'beforeSelected');
+
+  if (!e) var e = window.event
+ // handle event
+ e.cancelBubble = true;
+ if (e.stopPropagation) e.stopPropagation();
+}
+function nav_mouseout(e) {
+  li = this.parentNode;
+  if (li.className.indexOf('sub_nav') != -1)
+    return;
+  Element.removeClassName(li, 'selected');
+  for (var i = 0; i < nav_listItems.length; i++) {
+    if (nav_listItems[i] == li)
+      break;
+  }
+  if (i == 0)
+    Element.removeClassName(li, 'selected_top');
+
+  if (i-1 >= 0 && nav_listItems[i-1].className.indexOf('sub_nav') == -1)
+    Element.removeClassName(nav_listItems[i-1], 'beforeSelected');
+  else if (i-2 >= 0)
+    Element.addClassName(nav_listItems[i-2], 'beforeSelected');
+
+  if (!e) var e = window.event
+ // handle event
+ e.cancelBubble = true;
+ if (e.stopPropagation) e.stopPropagation();
+}
+function nav_menuclick(e) {
+  var menu = this;
+  for (var i = 0; i < nav_listItems.length; i++) {
+    if (nav_listItems[i] == menu)
+      break;
+  }
+
+  var sub_nav = nav_listItems[i+1];
+  toggleSubNav(menu, sub_nav);
+}
+
+function toggleSubNav(menu, sub_nav) {
+//  for (var i = 0; i < menuItems.length; i++) {
+//    var img = menuItems[i].getElementsByTagName('img')[0];
+//    img.src = "http://i.snap.com/images/icon_plus.gif";
+//  }
+//  for (var i = 0; i < subNavs.length; i++) {
+//    subNavs[i].style.display = "none";
+//  }
+
+  var img = menu.getElementsByTagName('img')[0];
+  if (sub_nav.style.display == "none") {
+    img.src = "http://i.snap.com/images/icon_minus.gif";
+    sub_nav.style.display = "";
+  } else {
+    img.src = "http://i.snap.com/images/icon_plus.gif";
+    sub_nav.style.display = "none";
+  }
+}
+var nav_listItems;
+var currentPageIndex = 0;
+var menuItems = new Array();
+var subNavs = new Array();
+
+function isMenu(el) {
+  return (el.className.indexOf('icon') != -1);
+}
+function isSubNav(el) {
+  return (el.className.indexOf('sub_nav') != -1);
+}
+
+var Nav_Rules = {
+  'body': function(el) {
+
+    var nav = document.getElementById('nav');
+    nav_listItems = nav.getElementsByTagName('li');
+    for (var i = 0; i < nav_listItems.length; i++) {
+      if (nav_listItems[i].id == "currentpage")
+        currentPageIndex = i;
+      if (isSubNav(nav_listItems[i]))
+        subNavs.push(nav_listItems[i]);
+      if (isMenu(nav_listItems[i]))
+        menuItems.push(nav_listItems[i]);
+    }
+    if (currentPageIndex-1 >= 0)
+      Element.addClassName(nav_listItems[currentPageIndex-1], "abovepage");
+
+//    for (var i = 0; i < subNavs.length; i++) {
+//      subNavs[i].style.display = "none";
+//    }
+
+    window.onresize = onResize;
+
+    onResize();
+  },
+  '#nav li a': function (el) {
+    Event.observe(el, 'mouseover', nav_mouseover.bind(el), false);
+    Event.observe(el, 'mouseout', nav_mouseout.bind(el), false);
+  },
+  'img.js_plus_minus': function (el) {
+    Event.observe(el, 'click', plus_minus_click.bind(el), false);
+  }
+};
+Behaviour.register(Nav_Rules);
+
+function plus_minus_click(el) {
+  var menu = this.parentNode;
+  var subnav = menu.nextSibling;
+  if (!subnav.style)
+    subnav = subnav.nextSibling.nextSibling.nextSibling;
+  toggleSubNav(menu, subnav);
+}
+
+function adjustMenus() {
+    var nav = document.getElementById('nav');
+    nav_listItems = nav.getElementsByTagName('li');
+    for (var i = 0; i < nav_listItems.length; i++) {
+      if (nav_listItems[i].id == "currentpage")
+        currentPageIndex = i;
+      if (isSubNav(nav_listItems[i]))
+        subNavs.push(nav_listItems[i]);
+      if (isMenu(nav_listItems[i]))
+        menuItems.push(nav_listItems[i]);
+    }
+
+    var currentPage = nav_listItems[currentPageIndex];
+    // if the current page is a menu item
+    if (isMenu(currentPage)) {
+      var menuIndex = 0;
+      for (var i = 0; i < menuItems.length; i++) {
+        if (currentPage == menuItems[i])
+          menuIndex = i;
+      }
+      toggleSubNav(menuItems[menuIndex], subNavs[menuIndex]);
+    } else if (currentPage.parentNode && isSubNav(currentPage.parentNode.parentNode)) {
+      var menuIndex = 0;
+      for (var i = 0; i < subNavs.length; i++) {
+        if (currentPage.parentNode.parentNode == subNavs[i])
+          menuIndex = i;
+      }
+      toggleSubNav(menuItems[menuIndex], subNavs[menuIndex]);
+    }
+
+}
+
+function onResize() {
+    var window_height = window.getHeight();
+    var header_height = Element.getHeight('header');
+    var footer_height = Element.getHeight('footer');
+    var view_height = window_height - header_height - footer_height - 15;
+
+    var appName = navigator.appName;
+    var isIE = false;
+    if (appName && appName.indexOf('Internet Explorer') != -1)
+      isIE = true;
+
+    if (isIE) {
+      Element.setHeight('nav', view_height);
+      Element.setHeight('rightcontent', view_height);
+    } else {
+      Element.setHeight('nav', view_height - 35);
+      Element.setHeight('rightcontent', view_height - 80);
+    }
+}
+
+</script>
+<div id="navTop"></div>
+<div id="nav">
+   <ul>
+    <li><a href="/snapshots_faq.php">Snap Shots Help</a></li>
+    <li class="icon"><img class="js_plus_minus" src="http://i.snap.com/images/icon_plus.gif" width="12" height="12"><a href="index.php">Snap Search Help</a>
+    </li>
+    <!-- sub nav -->
+    <li class="sub_nav" style="display:none">
+     <ul>
+      <li><a href="tips.php">Tips &amp; Tricks</a></li>
+      <li><a href="faqs.php">Snap Search FAQs</a></li>
+      <li class="last"><a href="downloads.php">Downloads</a></li>
+     </ul>
+    </li>
+    <li><a href="feedbk.php" alt="Send Feedback" title="Send Feedback">Feedback</a></li>
+
+    <!-- END sub nav -->
+    <li class="icon"><img class="js_plus_minus" src="http://i.snap.com/images/icon_minus.gif" width="12" height="12"><a href="about.php">About Us</a></li>
+    <!-- sub nav -->
+    <li class="sub_nav" style="">
+     <ul>
+      <li><a href="management.php">Management</a></li>
+      <li><a href="board.php">Board of Directors</a></li>
+      <li><a href="investors.php">Investors</a></li>
+      <li><a href="partners.php">Partners</a></li>
+      <li><a href="news.php">In the News</a></li>
+      <li><a href="careers.php">Careers</a></li>
+      <li><a href="contact.php" title="Contact Us">Contact Us</a></li>
+      <li><a href="http://blog.snap.com" title="Snap Blog" target="_blank">Blog</a></li>
+
+      <li id="currentpage"><a href="privacy.php">Privacy Policy</a></li>
+      <li class="last"><a href="terms.php">Terms and Conditions</a></li>
+     </ul>
+    </li>
+    <!-- END sub nav -->
+
+    <li><a href="keylinks.php" alt="About Snap Keylinks" title="About Snap Keylinks">Keylinks</a></li>
+    <li><a href="/advertisers/">Partners/Advertisers</a></li>
+    <!-- sub nav -->
+<!-- 
+    <li class="sub_nav" style="display:none">
+     <ul>
+      <li><a href="shots.php">Snap Shots&trade;</a></li>
+      <li><a href="snap_on_site2.php">Snap Search Anywhere</a></li>
+
+      <li><a href="/advertisers/">Advertise with Us </a></li>
+     </ul>
+    </li>
+ -->
+    <!-- END sub nav -->
+   </ul>
+</div>
+<div id="navBottom"></div>
+<script>
+adjustMenus();
+</script>
+	</div>
+
+	<div id="content">
+	<h1>Privacy Policy</h1>
+	<p>
+	We are committed to protecting online user privacy. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below.
+	</p>
+
+	<p>
+	This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. Capitalized terms shall have the meaning designated in the Snap Terms of Service located at <a href="terms.php">http://www.snap.com/about/terms.php</a>, unless specifically defined in this Privacy Policy. All references herein to "we" or "us" refer to Snap Technologies, Inc. ("Snap"). All references to the "site" refer to our website located at <a href="http://www.snap.com">http://www.snap.com</a>.
+	</p><h5>Children's Privacy Policy</h5>
+
+	<p>
+	Our Site is not directed towards children 13 years of age or under and we do not knowingly collect any information from children 13 years of age or under through the Site.
+	</p>
+	<h5>What We Collect and How We Use It</h5>
+
+	<p>
+	<u><i>Personally Identifiable Information</i></u>
+	</p>
+	<p>
+	Although you may generally use our site without providing us with any personally identifiable information, for some site applications or services, we may collect certain types of personally identifiable information, including: name, postal address, e-mail addresses, birth date, and phone number. This type of information is only collected from you voluntarily; we will never gather or store such information without your knowledge and consent. Examples of where we might gather such information from you: when you sign up to receive e-mail updates or newsletters about the site, our products, or services; to allow you to receive automatic mailings for services such as job searches; to allow you to register or update your individual profile on the site; to help personalize the site for you; or to allow you to provide feedback, ask a question, or post on the Snap Blog. In some situations, you will need to provide some or all of the above-described personally identifiable information in order for certain personalized features of the site to function properly (e.g., job search email alerts).
+	</p>
+
+	<p>When you provide such information for a specific purpose, such as receiving job search email alerts, we will use such information to contact you solely for that purpose, except that we may at times also contact you to provide you with critical site information that impacts the features or services you have requested.
+	</p>
+
+	<p>We do not share personally identifiable information collected at this site with third parties, except for the limited instances noted below. The exceptions are:
+	</p><ul>
+		<li>We may share your information with our agents who assist us in administering the site and various programs and promotions. They can only use the information to administer our site, services, and products. These agents are required to keep your information private and secure.</li>
+		<li>If you opt-in (either at the time of providing personally identifiable information, or at a later time) to have us (i) use your information to contact you, or (ii) share your information with our partners for the purpose of receiving information from our partners and other companies.</li>
+		<li>We may also disclose personally identifiable information if we are required to comply with laws, or if in our good faith judgment, such action is reasonably necessary to comply with legal process, to respond to any claims, or to protect the rights of Snap, its customers and the public.</li>
+		<li>In the event of an acquisition of all or part of Snap by another company, or in the event that Snap were to sell or dispose of all or a part of the Snap business, the acquirer would have access to the information maintained by Snap, which could include personally identifiable information, subject to applicable law. Similarly, information may be transferred as part of a reorganization or insolvency proceeding.</li>
+	</ul>
+	We may on occasion combine information we receive with outside records or site usage information to enhance our consumer profiles for our own marketing and development purposes (in accordance with this Privacy Policy).
+	<p></p>
+
+	<p>
+	<u><i>Cookie/Tracking Technology</i></u>
+	</p>
+
+	<p>
+	This site uses cookie and tracking technology. A "Cookie," is a tiny file that your browser places on your computer's hard drive, which acts to identify your computer. Cookie and cookie tracking technology is useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the site. Cookies can also help tailor the site to visitors' needs and help customize the site for visitors. For example, we may use cookies to store your site preferences, usage patterns, and other information so that the site will function better for you on subsequent visits. The site may also use cookies to deliver content specific to your interests and for other similar purposes. Personally identifiable information cannot be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information (as discussed above), cookies may be tied to such information. Aggregated cookie and tracking information may be shared with third parties. If you choose to reject the site's cookies, some areas of the site may not function properly or may not be accessible.
+	</p>
+
+	<p>
+	<u><i>Automatically Collected Log Information</i></u>
+	</p>
+
+	<p>
+	In addition to the information discussed above, when you visit the site we collect and store the following information in our logs for each browser request. We may use such information for development and marketing purposes (we will not use IP addresses externally except as set forth above):
+		</p><ul>
+			<li>the date and time</li>
+			<li>the originating IP address</li>
+			<li>the type of browser and operating system used (if provided by the browser)</li>
+			<li>the URL of the referring page (if provided by the browser)</li>
+			<li>the object requested</li>
+			<li>completion status of the request</li>
+			<li>pages visited</li>
+		</ul>
+	<u><i>Information Processing</i></u>
+	<p></p>
+	<p>
+	We process information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners, provided that we will not reveal such information except in accordance with this privacy policy.
+	</p>
+	<h5>Demographic Information and Surveys and Polls</h5>
+
+	<p>
+	We may ask for demographic or profile (age, gender, household, interests, etc.) information in a survey/poll or at registration. This information is used to assist us in tailoring the site, our communications, and our services and products to visitors and consumers. We may share aggregated demographic and survey information, as opposed to individual information, with third parties. You always have the option of not responding to any questionnaire, survey, or poll.
+	</p>
+	<h5>Security, Opting Out, and Access to Information</h5>
+
+	<p>
+	Snap uses commercially reasonable efforts to keep personally identifiable information secure. Only authorized Snap employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information and only to help Snap administer its promotional programs and the site.
+	</p>
+
+	<p>
+	If you have signed up to receive newsletters and email from us, we will make every effort to have all such communications allow you to opt-out of further such communications. If enabled on the site, you may visit your account settings page to set your opt-in/opt-out settings. In the event that you wish to otherwise modify your settings, you may always contact us at <a href="mailto:customerservice@snap.com">customerservice@snap.com</a>.
+	</p>
+
+	<p>
+	If enabled on the site, you may visit your account settings page to delete your account and/or information. You can also contact us at <a href="mailto:customerservice@snap.com">customerservice@snap.com</a> to request deletion of your account and/or information. Please note that any information that we have may remain in back-up storage for some period of time after your deletion request. This may be the case even though no information about your account remains in our active user databases. Also please note that log files are not affected by account deletion requests.
+	</p>
+
+	<h5>General</h5>
+	<p>
+	Third party Internet sites accessible through hyperlinks from this site have their own privacy practices, and Snap has no responsibility or liability for these independent practices. Please review their privacy practices for yourself.
+	</p>
+
+	<p>
+	We reserve the right to amend this Privacy Policy periodically. Any amendments made to this Privacy Policy will be considered effective ten (10) days after the amendments are posted on the site.
+	</p>
+
+	<h5>Contact Information</h5>
+
+	<p>
+	If Users have any questions about our services or Privacy Policy, please contact Snap Support, c/o Snap Technologies, Inc., 130 West Union Street, Pasadena, CA 91103 USA.
+	</p>
+
+	<p>
+	Users may also email <a href="mailto:customerservice@snap.com">customerservice@snap.com</a> with questions about our Privacy Policy, and info@snap.com with questions about our services.
+	</p>
+	<i>Last Update: July 20, 2007</i>
+	<br><br>
+
+</div>
+<div style="clear: both;"></div>
+</div>
+<div id="bottom-cap"></div>
+
+<div id="footer">
+	<div id="logo">
+		<a href="http://snap.com/"><img src="/images/footer-logo.gif" alt="Snap" title="Snap"></a>
+	</div>
+	<div id="footlinks">
+		<a href="http://snap.com/about/about.php">About</a> | <a class="snap_shots" href="http://blog.snap.com/">Blog</a> | <a href="http://snap.com/about/feedbk.php">Feedback</a> | <a href="http://snap.com/about/downloads.php">Download</a> | <a href="http://snap.com/about/privacy.php">Privacy</a> | <a href="http://snap.com/about/terms.php">Terms</a>
+	</div>
+</div></div>
 
 
-<!-- c|net Tue Apr 20 17:53:05 1999  $Revision: 2.29 $  -->
-
-
-<map name="tabs"><area shape="rect" coords="0,0,80,32" href="/main/door/0,1,home-home,00.html"><area shape="rect" coords="200,15,273,32" href="/main/door/0,1,home-home,00.html?st.sn.0.t.fd"><area shape="rect" coords="276,15,348,32" href="/main/local/1,37,home-8,00.html?tag=st.sn.0.t.lc"><area shape="rect" coords="349,15,423,32" href="/LMOID/mysnap/mysnap/0,160,home-0,00.html?st.sn.0.t.ms"></map>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr valign="bottom"><td width="434"><img src="http://images.snap.com/main/images/general/tab_all5.gif" width="434" height="32" usemap="#tabs" border="0"></td><td width="100%" align="right"><font face="Arial,Helvetica" size="-1">
-<span style="color:#0000FF">
-<b>
-<a href="/main/redirect/emailcom/1,294,home-0,00.html?sr=ex.email.bh"><font color="#0000FF">Get Mail!</font></a></b>
-</span>
-</font></td></tr>
-<tr><td bgcolor="#003399" height="8" colspan="2"><spacer type="block" width="1" height="8"></spacer></td></tr></tbody></table>
-
-<table bgcolor="#EEEEEE" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td height="100" align="center"><a href="http://www.snap.com/cgi-acc/acc_clickthru.acc?clickid=00001633d88e178b00000000&amp;adt=banner&amp;edt=home&amp;cat=general&amp;site=SN" target="_top"><img src="http://www.snap.com/Ads/Media/Images/nbc._conan_stamps.banner.gif?u_vid_0_0&amp;ffffffff" alt="Conan Stamps!" border="2" height="60" width="468"><br><center><font face="Verdana, Arial, Helvetica" size="-2">Conan Stamps!</font></center></a></td>
-</tr>
-</tbody></table>
-
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td bgcolor="#003399" height="8" colspan="2"><spacer type="block" width="1" height="8"></spacer></td></tr></tbody></table>
-<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr><td><b><font face="Arial,Helvetica">
-<a href="/main/door/0,1,home-home,00.html"><span style="color:#0000FF">Home</span></a>:&nbsp;<a href="/main/help/index/0,79,home-0,00.html"><span style="color:#0000FF">Help</span></a>:&nbsp;<a href="/main/help/item/0,11,home-8055,00.html"><span style="color:#0000FF">Topics</span></a>:&nbsp;Snap Privacy Policy
-</font></b></td></tr></tbody></table>
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td bgcolor="#003399" height="4" colspan="2"><spacer type="block" width="1" height="4"></spacer></td></tr></tbody></table>
-&nbsp;<br>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr valign="top">
-<td width="40%">
-<table width="100%" cellpadding="4" cellspacing="0" border="0">
-<tbody><tr valign="top"><td width="5%"><font face="Arial,Helvetica" size="-1">•</font></td><td width="95%"><font face="Arial,Helvetica" size="-1"> <a href="#privacy"><b>Snap's Privacy Philosophy</b></a></font></td></tr>
-<tr valign="top"><td><font face="Arial,Helvetica" size="-1">•</font></td><td><font face="Arial,Helvetica" size="-1"> <a href="#info"><b>Information that Snap Gathers</b></a></font></td></tr>
-<tr valign="top"><td><font face="Arial,Helvetica" size="-1">•</font></td><td><font face="Arial,Helvetica" size="-1"> <a href="#use"><b>How Snap Uses Information</b></a></font></td></tr>
-<tr valign="top"><td><font face="Arial,Helvetica" size="-1">•</font></td><td><font face="Arial,Helvetica" size="-1"> <a href="#content"><b>Snap Content Providers, Advertisers and Partners</b></a></font></td></tr>
-<tr valign="top"><td><font face="Arial,Helvetica" size="-1">•</font></td><td><font face="Arial,Helvetica" size="-1"> <a href="#kids"><b>Kids and Privacy</b></a></font></td></tr>
-<tr><td><font face="Arial,Helvetica" size="-1">•</font></td><td><font face="Arial,Helvetica" size="-1"> <a href="#changes"><b>Changes to Policy</b></a></font></td></tr>
-<tr valign="top"><td><font face="Arial,Helvetica" size="-1">•</font></td><td><font face="Arial,Helvetica" size="-1"> <a href="#opt"><b>Opt-Out Policy</b></a></font></td></tr>
-<tr valign="top"><td><font face="Arial,Helvetica" size="-1">•</font></td><td><font face="Arial,Helvetica" size="-1"> <a href="#correct"><b>Correct/Update Policy</b></a></font></td></tr>
-<tr valign="top"><td><font face="Arial,Helvetica" size="-1">•</font></td><td><font face="Arial,Helvetica" size="-1"> <a href="#delete"><b>Delete/Deactivate Policy</b></a></font></td></tr>
-</tbody></table>
-<p>
-<font face="Arial,Helvetica"><b><span style="color:#FF0000">&nbsp;<a href="/main/help/item/0,11,home-8055,00.html"><font color="#FF0000">Help Topics</font></a></span></b></font>&nbsp;<a href="/main/help/item/0,11,home-8055,00.html"><img src="http://images.snap.com/main/images/channels/cp/tutorials/arrowf.gif" width="11" height="11" border="0"></a><br><br></p></td>
-<td rowspan="2">&nbsp;&nbsp;</td>
-<td width="1%" align="center" valign="top">
-<table bgcolor="#003399" width="2" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td width="2" height="520"><spacer type="block" width="2" height="520"></spacer></td></tr></tbody></table></td>
-<td rowspan="2">&nbsp;&nbsp;</td>
-<td valign="top" width="59%">
-
-
-<a href="https://www.truste.org/validate/511"><img src="http://images.snap.com/main/images/general/verify.gif" align="right" height="73" width="91" border="0" alt="TRUSTe: Click to Verify" hspace="10"></a>
-<font face="arial, helvetica"><b> Snap is TRUSTe Certified </b></font><p>
-<font face="arial, helvetica" size="-1">This Overall Privacy Statement verifies that Snap is a member of the TRUSTe Program and is in compliance with the TRUSTe privacy principles.  This
-statement discloses the privacy practices for the entire Web Site.
-</font></p><p><font face="arial, helvetica" size="-1">
-<b>About TRUSTe</b><br>
-When you visit a Web site displaying the TRUSTe trustmark, you can expect
-to be notified of what personally identifiable information of yours is
-collected; the organization collecting the information; how the information
-is used, with whom the information may be shared; what choices are
-available to you regarding collection, use and distribution of the
-information; the kind of security procedures that are in place to protect
-the loss, misuse or alteration of information under Snap's control; and how
-you can correct any inaccuracies in the information.
-</font></p><p><font face="arial, helvetica" size="-1">
-Questions regarding this statement should be directed to Snap support
-services by e-mail at <a href="mailto:support@snap.com">support@snap.com </a> or by mail at One Beach St., San
-Francisco, CA  94133.  If the Web site has not responded to your inquiry
-within five business days or your inquiry has not been satisfactorily
-addressed, please contact TRUSTe <a href="http://www.truste.org/users/watchdog.html">(http://www.truste.org/users/watchdog.html)</a>.
-To return to the site, please use the "Back" button on your browser.</font>
-</p><p>
-<font face="arial, helvetica" size="-1" color="red"><a name="privacy"><b>Snap's Privacy Philosophy</b></a></font>
-</p><p>
-<font face="arial, helvetica" size="-1">Your privacy on the Internet is important to us. Because we gather certain
-types of information about Snap users, we want you to understand the terms
-and conditions surrounding the capture and use of that information. This
-privacy statement discloses what information we gather, how we use it, and
-how to correct or change it.</font>
-</p><p>
-<font face="arial, helvetica" size="-1" color="red"><a name="info"><b>Information that Snap Gathers </b></a></font>
-</p><p>
-<font face="arial, helvetica" size="-1">Snap gathers two types of information about users:  </font></p><p><font face="arial, helvetica" size="-1">
-
-1) Personal data, provided through voluntary registration.<br>
-2) Aggregated data, which tracks users as a whole.<br>
-</font></p><p><font face="arial, helvetica" size="-1">
-<b>Personal data</b> may be requested when you sign up for Snap's personalized
-services or register for contests, sweepstakes or other promotional
-programs offered on our service. We ask for this in order to provide you
-with the best Web experience possible.  This information might include
-member name, password, age, gender, ZIP code and/or country information. 
-Except as described below, it is not disclosed to parties other than Snap
-and its parent companies in any way that personally identifies you without
-your prior permission.  
-</font></p><p><font face="arial, helvetica" size="-1">
-<b>Aggregated data</b>, which tracks Snap user activity as a whole rather than on
-an individual basis, is gathered through several methods.  This tracking
-data follows Snap traffic in general, and is not used to identify you
-personally.
-</font></p><p><font face="arial, helvetica" size="-1">
-Aggregated tracking information helps us to determine which areas of our
-site users like and don't like based on traffic to those areas. Snap does
-not track what you read, but rather how well each page performs overall.
-This helps us continue to build a better service for you. We may disclose
-such aggregated information to third parties such as our advertisers and
-partners. </font>
-</p><p>
-<font face="arial, helvetica" size="-1" color="red"><a name="use"><b>How Snap Uses Information</b></a></font>
-</p><p>
-<font face="arial, helvetica" size="-1">Snap uses any personal information that's voluntarily given by you in order
-to enhance your experience, whether to provide interactive or personalized
-elements on the site or to better prepare future content based on the
-interests of our users. Snap also uses information that you voluntarily
-provide in order to send electronic updates and to let you participate in
-polls and message boards. 
-</font></p><p><font face="arial, helvetica" size="-1">
-Snap will not disclose any information that personally identifies you to
-parties other than Snap and its parent companies without your consent.
-There are exceptions: <br>
-1) When the purpose and manner of disclosure is clearly defined in advance.<br>
-2) When we believe in good faith that disclosure is legally required or to
-protect our rights. 
-</font></p><p><font face="arial, helvetica" size="-1">
-
-<b>Contests and Sweepstakes</b><br>
-Snap occasionally offers contests and sweepstakes in which we request
-certain personal information on a voluntary basis. These contests and
-sweepstakes are conducted in full accordance with United States federal and
-state laws. The full rules and all information about such contests are
-clearly posted during the event, including how information gathered will be
-used.
-</font></p><p><font face="arial, helvetica" size="-1">
-<b>Membership Services</b><br>
-To use Snap's membership services -- such as e-mail, My Snap and your
-personal custom portfolio -- you will be requested to register. During
-registration, you'll be asked to supply a member name and password, age,
-gender, zip code and/or country information. Snap shares this data with our
-service provider(s). For instance, the personal information that you
-provide to our e-mail service at Snap is shared with that company in order
-to retrieve your password when necessary.
-</font></p><p><font face="arial, helvetica" size="-1">
- This data is considered highly confidential and is used only to retrieve
-your password when necessary. We use high-level encryption when sending
-data between Snap and our e-mail provider.
-</font></p><p><font face="arial, helvetica" size="-1">
-<b>Search Terms</b><br>
-As a measure of user interest, we track search terms that are entered into
-our site. We create aggregrate reports on user demographics and traffic
-patterns for advertisers and partners. This allows our advertisers to
-advertise more effectively, and allows you to receive advertisements that
-are most relevant to you. An advertiser will not receive specific
-information that you clicked their ad unless you voluntarily permit us to
-do so. 
-</font></p><p><font face="arial, helvetica" size="-1">
-<b>Cookies and Tracking</b><br>
-A cookie is a small data file that Web sites commonly write to your hard
-drive when you visit them.  A cookie file contains information that can
-identify you anonymously in order to track traffic patterns on our site.
-The data is encrypted for your added security.  Snap uses cookies as a way
-to measure activity on the site in order to continually improve your
-experience. 
-</font></p><p><font face="arial, helvetica" size="-1">
-Cookies also provide you with a level of convenience -- since they
-"remember" your computer, they enable you to enter Snap sites as a member
-without having to log on each time, and they allow you to visit
-member-restricted areas of the site. 
-</font></p><p><font face="arial, helvetica" size="-1">
-Cookies don't identify you personally, but rather identify your computer
-when you visit our site.  A cookie can't read data off your hard disk or
-read cookie files created by other sites.
-</font></p><p><font face="arial, helvetica" size="-1">
-Your browser can be set to warn you before accepting cookies -- in this
-case, you will receive the warning message with each cookie. You can choose
-to refuse cookies by turning them off in your browser. You do not need to
-have cookies turned on to use Snap, but you will need them for customizable
-areas of the site such as local weather forecasts. Snap does allow users to
-clear cookies. 
-</font></p><p><font face="arial, helvetica" size="-1">
-<b>Electronic Newsletters </b><br>
-Snap offers free, electronic newsletters as a service to our users, based
-on a voluntary subscription. You will only receive a newsletter if you have
-requested it during registration to several areas of Snap or directly from
-our signup form. We do not share newsletter mailing lists with any third
-parties, including advertisers or partners, unless you voluntarily permit
-us to do so when you register or sign up. 
-</font></p><p><font face="arial, helvetica" size="-1">
-<b>Snap Shops</b><br>
-Information you provide about yourself during a purchase through a store
-hosted by Snap is automatically provided to the owner of that store. This
-includes credit card and personal contact information. Each of these online
-merchants carry separate privacy and data collection practices from Snap,
-and Snap does not have any responsibility for their practices. For more
-information about a policy from a merchant, go to the store's home page and
-look for the company profile.
-</font></p><p><font face="arial, helvetica" size="-1">
-<b>Message Boards or Discussion Areas </b><br>	
-Please remember that while Snap does not share any personal information
-gathered during registration to Snap Message Boards or Discussion Areas,
-any postings to message boards or discussion areas become public
-information. Use caution when posting.</font>
-</p><p>
-
-<font face="arial, helvetica" size="-1" color="red"><a name="content"><b>Snap Content Providers, Advertisers and Partners</b></a></font>
-</p><p>
-<font face="arial, helvetica" size="-1">Snap will not provide your personal information to anyone outside of Snap
-and its parent companies except in the limited circumstances mentioned, and
-only then with your consent. For instance, the personal information you
-provide during registration to the Snap Finance center "powered by"
-Bloomberg will not be shared with anyone outside of Bloomberg.
-</font></p><p><font face="arial, helvetica" size="-1">
-However, Snap cannot control the practices of other partners and
-advertisers. If you have provided personal information to a party or
-advertiser connected with Snap and have not been informed by Snap as to its
-purpose, contact them directly by going to their home page and looking for
-a company profile or information area. 
-</font></p><p><font face="arial, helvetica" size="-1">
-It is important to note that Snap contains many links to sites other than
-Snap, and that those sites may not follow the same privacy policies as
-Snap. For instance, if you click an ad or a search result on Snap, this
-will take you away from Snap and to an entirely different site. This
-includes links from advertisers, content providers and partners who may use
-Snap's logo and/or style as part of a co-branding agreement. These sites
-may send their own cookies to you, and as a result, may collect data and
-ask for personal information that Snap would not. </font>
-  </p><p>
-<font face="arial, helvetica" size="-1" color="red"><a name="kids"><b>Kids and Privacy</b></a></font>
-</p><p>
-<font face="arial, helvetica" size="-1">
-Snap requests that children under 17 do not submit or post any information
-to the site without a parent's or guardian's consent. However, we will not
-request or knowingly collect from a child any information online that can
-be traced to the child, such as an e-mail address, name, or information
-about the child's family.
-</font></p><p><font face="arial, helvetica" size="-1">
-Unless a parent or guardian consents to such use in advance, Snap will not
-knowingly use information that a child provides to Snap for any marketing,
-selling or promotional purposes. </font>
-</p><p>
-
-<font face="arial, helvetica" size="-1" color="red"><a name="changes"><b>Changes to Policy</b></a></font>
-</p><p>
-<font face="arial, helvetica" size="-1">Snap reserves the right to change this policy at any time by notifying
-guests of the existence of a revised privacy policy.</font>
-</p><p><font face="arial, helvetica" size="-1" color="red"><a name="opt"><b>Opt-Out Policy</b></a></font>
-</p><p>
-<font face="arial, helvetica" size="-1">Snap gives you options wherever necessary and practical. Such choices
-include: 
-</font></p><p><font face="arial, helvetica" size="-1">
-1. Opting not to receive our electronic newsletters when registering for a site. <br>
-2. Opting not to participate in certain interactive areas, which completely
-alleviates the need for any information from our users.</font>
-</p><p>
-<font face="arial, helvetica" size="-1" color="red"><a name="correct"><b>Correct/Update Policy</b></a></font>
-</p><p>
-
-<font face="arial, helvetica" size="-1">Snap offers the ability to correct or change the information collected
-during your registration. The instructions for doing this can be found in
-our Help area under "Change Member Settings". You may change this
-information at any time and as often as necessary. If you're experiencing
-problems or have any questions about how our services work, contact us at <a href="mailto:support@snap.com">
-support@snap.com</a>.</font>  
-</p><p>
-<font face="arial, helvetica" size="-1" color="red"><a name="delete"><b>Delete/Deactivate Policy</b></a></font>
-</p><p>
-
-<font face="arial, helvetica" size="-1">You may unsubscribe to our electronic newsletter at any time via e-mail by
-following the instructions contained at the end of every newsletter. 
-</font></p><p><font face="arial, helvetica" size="-1">
-Currently, Snap does not offer a means by which to completely delete
-personal information established at the time of registration for any site.
-If you have questions about your information, please contact us at <a href="mailto:support@snap.com">
-support@snap.com</a>.</font>
-</p></td>
-</tr>
-</tbody></table>
-
-<p>
-<!-- c|net Sat Apr 24 21:13:13 1999  $Revision: 2.29 $  -->
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td bgcolor="#003399" height="3"><spacer type="block" width="1" height="3"></spacer></td></tr>
-<tr><td><table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr><td><b><font face="Arial, Helvetica" size="-1">
-<a href="/main/door/0,1,home-home,00.html">Home</a> |
-<a href="/search/directory/results/1,61,home-0,00.html">Search</a> |
-<a href="/main/help/index/0,79,home-0,00.html">Help</a> |
-<a href="/main/help/item/0,11,home-7679,00.html">About Snap</a> | <a href="/media/index.html?st.sn.fd.0.mc">Ad Info</a> | <a href="/main/help/item/0,11,home-8073,00.html">Snap Jobs</a></font></b></td></tr></tbody></table>
-</td></tr><tr><td bgcolor="#003399" height="6"><spacer type="block" width="1" height="6"></spacer></td></tr></tbody></table>
-
-</p><p>
-<!-- c|net Fri Mar 12 17:03:28 1999  $Revision: 2.29 $  -->
-
-
-<font face="Arial,Helvetica" size="-2"><a href="/main/copyright/0,72,home-0,00.html">Copyright</a> © 1997-1999 Snap and its content providers. All rights reserved.</font>
 
 
 
-</p></body></html>
+</body></html>
