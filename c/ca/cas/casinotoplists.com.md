@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinotoplists.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121151212id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotoplists.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520231801id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.*
 
 # CasinoToplists Privacy Policy - Secure Online Gambling
 
@@ -13,3 +13,39 @@ All information collected at Casinotoplists.com will be kept strictly confidenti
 
 
 Please contact us at info@casinotoplists.com if you have any questions or comments about our privacy policy.
+
+## Editors Top Pick!
+
+Our gathered online-casino experience counts to more than 12 years. Here we give you our best bonus deals and top tips on how to become a successful player.  
+Linda & Steven
+
+  * 1.
+
+[](https://web.archive.org/goto/europa-casino_a546)
+
+Linda's big favourite
+
+8 /10
+
+  * 2.
+
+[](https://web.archive.org/goto/eurogrand-casino_a546)
+
+Steve's big favourite
+
+8 /10
+
+  * 3.
+
+[](https://web.archive.org/goto/888-casino_a546)
+
+8 /10
+
+  * 4.
+
+[](https://web.archive.org/goto/casino-bellini_a546)
+
+7 /10
+
+
+
