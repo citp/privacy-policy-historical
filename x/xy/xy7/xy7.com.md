@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the xy7.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215045454id_/http%3A//www.xy7.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xy7.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520230333id_/http%3A//xy7.com/privacy.html) for the most accurate reproduction.*
 
-# XY7.com - Converting Clicks into Cash
-
-| 
+# Xy7.com - The Affiliate Authority.
 
 ###  PRIVACY POLICY
 
