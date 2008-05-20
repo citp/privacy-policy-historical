@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the kenoshanews.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415021029id_/http%3A//kenoshanews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenoshanews.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520230856id_/http%3A//www.kenoshanews.com/privacy) for the most accurate reproduction.*
 
 # Kenosha News Online
 
-Privacy Statement
+  
+[](http://kenoshanews.shopmountain.com/Shopping/Shop/digit.aspx)  
+
+
+[](https://web.archive.org/horoscope/)[](https://web.archive.org/homes/property_sales.php)
+
+[](https://web.archive.org/horoscope/)[](https://web.archive.org/horoscope/)[](https://web.archive.org/lottery/)
+
+[](https://web.archive.org/subscriptions/)
+
+|  Privacy Statement
 
 KenoshaCounty.com respects the privacy of its users. In this document we explain how we use information you supply us via the kenoshacounty.com Web site. This privacy policy may be modified in the future. If it is, a new policy will be posted on our web sites. 
 
