@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212072043id_/http%3A//www.toptable.co.uk/feature.cfm%3FfID%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520094801id_/http%3A//www.toptable.com/feature.cfm%3FfID%3D8) for the most accurate reproduction.*
 
 # privacy statement - Online UK and London Restaurants Booking and Guide from toptable.co.uk
 
