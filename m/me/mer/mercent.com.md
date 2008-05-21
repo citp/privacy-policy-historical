@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercent.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211051359id_/http%3A//www.mercent.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercent.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521032047id_/http%3A//www.mercent.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Mercent Corporation - Privacy Policy
 
@@ -25,9 +25,9 @@ Mercent collects performance information by assigning a unique Uniform Resource 
 When you visit a Mercent Web site, Mercent may place one or more cookies on your computer. A cookie is a small text file placed on your computer's hard drive by a Web server. Some cookies are used to assist you with your session on Mercent Web sites. Depending on the cookie, the cookie may expire at the end of your browsing session or may stay on your computer until the expiration date specified in the cookie is in the past. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies can only be accessed or read by the Internet domain (generally a Web site) that placed them. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use certain features of Mercent Web sites that depend on the your Web browser accepting cookies. 
 
   
-**Mercent Readiness Questionnaire**
+**Mercent Request Information Form**
 
-If you fill out the [Mercent Readiness Questionnaire](http://www.mercent.com/questionnaire.aspx), you will enter certain personal information such as name and company name, work address and telephone number, as well as certain demographic and company information, including city, state, country, zip code, Channel information and information systems information. Mercent uses this information to communicate with you. All such information is provided voluntarily by you. Mercent does not sell, rent or lease such information to third parties. Mercent may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from Mercent. 
+If you fill out the [Mercent Request Information Form](http://www.mercent.com/questionnaire.aspx), you will enter certain personal information such as name and company name, work address and telephone number, as well as certain demographic and company information, including city, state, country, zip code, Channel information and information systems information. Mercent uses this information to communicate with you. All such information is provided voluntarily by you. Mercent does not sell, rent or lease such information to third parties. Mercent may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from Mercent. 
 
   
 **No Information from Minors**
