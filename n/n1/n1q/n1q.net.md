@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the n1q.net privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215155224id_/http%3A//www.n1q.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n1q.net privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522011648id_/http%3A//www.n1q.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Number 1 Quality Link Directory - Privacy Policy
 
