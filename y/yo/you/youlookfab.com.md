@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youlookfab.com privacy policy that was archived on 2007-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071122164132id_/http%3A//www.youlookfab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youlookfab.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522004933id_/http%3A//www.youlookfab.com/privacy-policy) for the most accurate reproduction.*
 
 # youlookfab » Privacy Policy
 
@@ -10,23 +10,24 @@ INFORMATION **youlookfab.com** GATHERS AND TRACKS
 
 **youlookfab.com** gathers two types of information about users:
 
-  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:
-  * Information  **youlookfab.com** gathers through aggregated tracking information derived mainly by tallying page views. This information allows us to better tailor our content to readers’ needs and to help our advertisers and sponsors better understand the demographics of our audience. Under no circumstances does **youlookfab.com**  divulge any information about an individual user to a third party.
+  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our forum, to email a friend, and from participation in polls and surveys:
+  * Information **youlookfab.com** gathers through aggregated tracking information derived mainly by tallying page views. This information allows us to better tailor our content to readers’ needs and to help our advertisers and sponsors better understand the demographics of our audience. Under no circumstances does **youlookfab.com** divulge any information about an individual user to a third party.
 
 
 
-**youlookfab.com**  Gathers User Information In The Following Processes:
+**youlookfab.com** Gathers User Information In The Following Processes:
 
 _Optional Voluntary Information_
 
 We offer the following free services, which require some type of voluntary submission of personal information by users:
 
-  1. **Email notifications** :  **youlookfab.com** gathers the email addresses of users who voluntarily subscribe for email notifications of new posts. Users may remove themselves from this mailing list by following the link provided in every notification that points users to the subscription management page.
+  1. **Email notifications** : **youlookfab.com** gathers the email addresses of users who voluntarily subscribe for email notifications of new posts. Users may remove themselves from this mailing list by following the link provided in every notification that points users to the subscription management page.
   2. **Ask Angie** : users can send questions to Angie and this requires that they provide their email address. This information is used only in the case of transmission errors and to provide answers to the user via return email. The information is not used for any other purpose.
-  3. **Comments** : Users may comment on blog posts and when they do so they can provide their email address and the URL of their website. this information may be used by Angie to contact the user, but will not be used for any other purpose.
-  4. **Share this post** : users can choose to electronically forward a post to someone else by clicking “Share this with other people”. The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
+  3. **Comments** : Users may comment on blog posts and when they do so they can provide their email address and the URL of their website. this information may be used by Angie to contact the user, but will not be used for any other purpose.
+  4. **Share this post** : users can choose to electronically forward a post to someone else by clicking “Share this with other people”. The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
   5. **Polling** : We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. **youlookfab.com** may use a system to “tag” users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
   6. **Surveys** : **youlookfab.com** may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
+  7. **Forum** : Users can join the **youlookfab.com** forum and have conversations with other members. They can specify a username (required), website (optional), location (optional), occupation (optional) and interests (optional) in their profile and other users will see this information. They also provide their email address in order to register for the forum, but this email address is _not_ visible to other users.
 
 
 
@@ -50,7 +51,7 @@ USE OF INFORMATION
 
 **youlookfab.com** uses any information voluntarily given by our users to enhance their experience in our site, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
 
-As stated above, we use information that users voluntarily provide in order to send out email notifications and to enable users to participate in polls, surveys, submit comments. We send out email notifications every weekday (except holidays), and may occasionally send a special newsletter. **youlookfab.com** never shares mailing lists with any third parties, including advertisers, sponsors or partners.
+As stated above, we use information that users voluntarily provide in order to send out email notifications and to enable users to participate in polls, surveys, submit comments. We send out email notifications every weekday (except holidays), and may occasionally send a special newsletter. **youlookfab.com** never shares mailing lists with any third parties, including advertisers, sponsors or partners.
 
 When we use tracking information to determine which areas of our sites users like and don’t like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don’t track which terms a particular user enters.
 
@@ -69,6 +70,7 @@ OPT-OUT POLICY
 We give users options wherever necessary and practical. Such choices include:
 
   * Opting not to register to receive our electronic notifications.
+  * Opting not to participate in the forum.
   * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users.
 
 
