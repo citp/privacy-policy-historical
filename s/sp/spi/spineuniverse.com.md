@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spineuniverse.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009170518id_/http%3A//spineuniverse.com/displayarticle.php/article62.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spineuniverse.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521093319id_/http%3A//www.spineuniverse.com/displayarticle.php/article62.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
