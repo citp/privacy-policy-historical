@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the synopsys.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229024347id_/http%3A//www.synopsys.com/snps_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synopsys.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521074204id_/http%3A//www.synopsys.com/snps_privacy.html) for the most accurate reproduction.*
 
 # Synopsys Privacy Policy
 
 Synopsys Privacy Policy
 
-**_Synopsys is committed to protecting your online privacy on our website. The privacy practices described in this Privacy Policy apply to synopsys.com and to all of our websites and wholly owned subsidiary websites, except the Synopsys Open Community User Forums which have their of privacy practices and Terms of Service located at:  
+**_Synopsys is committed to protecting your online privacy on our website. The privacy practices described in this Privacy Policy apply to synopsys.com and to all of our websites and wholly owned subsidiary websites, except the Synopsys Open Community User Forums which have their own privacy practices and Terms of Service located at:  
 [http://synopsysoc.org/forums/ucp.php?mode=terms&sid=02cb91a54ef259b69e520eb7fc2df568](http://synopsysoc.org/forums/ucp.php?mode=terms&sid=02cb91a54ef259b69e520eb7fc2df568)_**
 
 We strive to treat your personal information as safely and securely as reasonably possible. Please read the following privacy policy to better understand how your personal information may be collected and used as you access various areas of our website. 
