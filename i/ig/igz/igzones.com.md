@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the igzones.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213050833id_/http%3A//www.igzones.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igzones.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521031109id_/http%3A//www.igzones.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | International Gaming Zones; Matchmaking for Gaming!
 
-International Gaming Zones is committed to preserving the privacy of all visitors to our website at [](http://www.igzones.com/ "http://www.igzones.com")[http://www.igzones.com](http://www.igzones.com/). Please read the following privacy policy to understand how we use and protect the information that you provide to us.  
+International Gaming Zones is committed to preserving the privacy of all visitors to our website at [http://www.igzones.com](http://www.igzones.com/ "http://www.igzones.com"). Please read the following privacy policy to understand how we use and protect the information that you provide to us.  
 By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy.  
 INFORMATION THAT WE COLLECT FROM YOU  
-When you visit, register on [](http://www.igzones.com/ "http://www.igzones.com")[http://www.igzones.com](http://www.igzones.com/) you may be asked to provide certain information about yourself including your name or contact information. We may also collect information about your usage of our website as well as information about you from messages you post to the website and e-mails or letters you send to us.
+When you visit, register on [http://www.igzones.com](http://www.igzones.com/ "http://www.igzones.com") you may be asked to provide certain information about yourself including your name or contact information. We may also collect information about your usage of our website as well as information about you from messages you post to the website and e-mails or letters you send to us.
 
 DISCLOSURE OF YOUR INFORMATION  
 COOKIES  
