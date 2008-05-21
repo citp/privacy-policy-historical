@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comedycentral.com privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213042625id_/http%3A//www.comedycentral.com/help/privacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comedycentral.com privacy policy that was archived on 2008-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080521124555id_/http%3A//www.comedycentral.com/help/privacy.jhtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -134,7 +134,9 @@ omniCall.partnerSearch=MTVi.reporting.PartnerSearch.get("");
 <script type="text/JavaScript" language="JavaScript" src="/global/reporting/scripts/omni_functions.js"></script>
 
 <link rel="stylesheet" href="/sitewide/styles/global.css" type="text/css">
+<link rel="stylesheet" href="/sitewide/styles/fix_legacy.css" type="text/css">
 <link rel="stylesheet" href="/sitewide/styles/global_nav.css" type="text/css" media="all">
+<link rel="stylesheet" href="/comedycentral/sitewide/styles/hd.css" type="text/css">
 
 <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/sitewide/styles/ie7.css" /><![endif]-->
 
@@ -178,33 +180,53 @@ testWindowLocation();
 
 <!-- Omniture Call -->
 <div style="display:none;">
-<script type="text/javascript" language="javascript" src="/global/reporting/scripts/s_code_remote.js"></script><img name="s_i_viacomedycentralrl" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/viacomedycentralrl/1/G.7-PD-R/s11563298721334?[AQB]&amp;ndh=1&amp;t=24/1/2020%2011%3A56%3A23%201%200&amp;pageName=/help/main/privacy.jhtml&amp;g=https%3A//web.archive.org/web/20071213042625id_/http%253A//www.comedycentral.com/help/privacy.jhtml&amp;ch=help&amp;cc=USD&amp;h1=help/main/privacy.jhtml&amp;c4=0&amp;c21=ALLTRAFFIC%3AComedyCentral&amp;c25=-1&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script type="text/javascript" language="javascript" src="/global/reporting/scripts/s_code_remote.js"></script><img name="s_i_viacomedycentralrl" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/viacomedycentralrl/1/G.7-PD-R/s12308836648797?[AQB]&amp;ndh=1&amp;t=24/1/2020%2011%3A56%3A14%201%200&amp;pageName=/help/main/privacy.jhtml&amp;g=https%3A//web.archive.org/web/20080521124555id_/http%253A//www.comedycentral.com/help/privacy.jhtml&amp;ch=help&amp;cc=USD&amp;h1=help/main/privacy.jhtml&amp;c4=0&amp;c21=ALLTRAFFIC%3AComedyCentral&amp;c25=-1&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 </div>
 
 <!-- this is for motherload reporting style=display:none causes firefox JS errors-->
 <div style="visibility:hidden;width:0px;height:0px"><iframe width="1" frameborder="0" height="1" id="omniFrame" name="omniFrame"></iframe></div>
 <!-- /body_element.jhtml -->
 
-<div style="width:728px;height:90px;" id="bannerAdHolder">
+<div id="hd" style="width:960px;">	
+<a id="cc_logo" href="/index.jhtml">Home</a>
+<div class="top_message" id="top_message">
+<span id="flux_login"></span>
+<span id="logInButtons" style="float:right;width:200px;"></span>
+</div>
 
-<div align="center" style="width:750px;margin-top:4px;">
+<script type="text/javascript">
+if(typeof($)!= "undefined"){
+$("#logInButtons").load("/community/logIn_Buttons.jhtml");
+$("#flux_login").load("/community/logIn_Message.jhtml");
+}else{
+ccHttpRequest("/community/logIn_both.jhtml", "", "doIt(cc_http_request,'top_message')");
+}
+
+function doIt(originalRequest,where){
+document.getElementById(where).innerHTML = originalRequest.responseText;
+}
+</script>
+
+<div style="clear:both"></div>
+
+<div id="headerAd">
+
+<div id="bannerAdHolder">
+
+<div>
 
 <script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
 var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/index;comedycentral=ad;dcopt=ist;dcove=o;pagename=privacy;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';bps='+if_nt_bandwidth+';gateway=help;section_1=main;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';era='+if_nt_era+';bps='+if_nt_bandwidth+';fla='+if_nt_Flash+';u=|comedycentral-ad|dcopt-ist|dcove-o|pagename-privacy|zyg-'+if_nt_zyg+'|span-'+if_nt_span+'|demo-'+if_nt_demo+'|bps-'+if_nt_bandwidth+'|gateway-help|section_1-main|zyg-'+if_nt_zyg+'|span-'+if_nt_span+'|demo-'+if_nt_demo+'|era-'+if_nt_era+'|bps-'+if_nt_bandwidth+'|fla-'+if_nt_Flash+';sz=728x90;tile=1;ord=' + ord + '?"><\/SCR' + 'IPT>';
 document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/index;comedycentral=ad;dcopt=ist;dcove=o;pagename=privacy;zyg=;span=;demo=;bps=;gateway=help;section_1=main;zyg=;span=;demo=;era=;bps=;fla=-1;u=|comedycentral-ad|dcopt-ist|dcove-o|pagename-privacy|zyg-|span-|demo-|bps-|gateway-help|section_1-main|zyg-|span-|demo-|era-|bps-|fla--1;sz=728x90;tile=1;ord=562686617657766500?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/index;comedycentral=ad;dcopt=ist;dcove=o;pagename=privacy;zyg=;span=;demo=;bps=;gateway=help;section_1=main;zyg=;span=;demo=;era=;bps=;fla=-1;u=|comedycentral-ad|dcopt-ist|dcove-o|pagename-privacy|zyg-|span-|demo-|bps-|gateway-help|section_1-main|zyg-|span-|demo-|era-|bps-|fla--1;sz=728x90;tile=1;ord=598004967381501800?"></script>
 
 </div>
 
 </div>
+</div>
+<div style="clear:both"></div>
 
 <div id="popUpError"></div>
-
-<div id="header_textAd"><div align="center">
-
-<div class="header_font"><a href="http://ad.doubleclick.net/clk;132032446;8320611;p?http://www.blackberry.com/select/ask/?CPID=BAC-STQ3BBAsk&amp;cp=BAC-STQ3BBAsk" target="_blank">AD:&nbsp;MO ROCCA asks, why do you love your BlackBerry?</a></div>
-
-</div></div>
 
 <!--<form method="get" action="/search/search_index.jhtml" name="searchComedy" style="margin:0px;">
 <input type="hidden" name="searchtype" value="all">
@@ -238,217 +260,173 @@ document.execCommand("BackgroundImageCache", false, true);
 }catch(e){}
 </script>
 
-<div id="globalNav" style="position:relative;z-index:2;margin:5px 0 10px 0;" name="version_1">	
-
-<!-- version 1.0 -->
-<div xmlns:fo="http://www.w3.org/1999/XSL/Format" id="header"><h1><a href="/index.jhtml">Comedy Central</a></h1><div id="tonights_schedule"><strong class="tonight">tonight:</strong><ul>
-
-<li class="schedule_30" style="background:transparent url(/images/top_nav_icons/south_park.gif) no-repeat 100% 1px;"><em>10:00 PM</em><a href="http://southpark.comedycentral.com">South Park</a></li>
-
-<li class="schedule_30" style="background:transparent url(/images/top_nav_icons/south_park.gif) no-repeat 100% 1px;"><em>10:30 PM</em><a href="http://southpark.comedycentral.com">South Park</a></li>
-
-<li class="schedule_30" style="background:transparent url(/images/top_nav_icons/daily_show.gif) no-repeat 100% 1px;"><em>11:00 PM</em><a href="http://www.thedailyshow.com">The Daily Show <br>with Jon Stewart</a></li>
-
-<li class="schedule_30 schedule_last" style="background:transparent url(/images/top_nav_icons/colbert.gif) no-repeat 100% 1px;"><em>11:30 PM</em><a href="/shows/the_colbert_report/index.jhtml">The <br>Colbert Report</a></li>
-
-</ul><strong class="full"><a href="/tv_schedule/index.jhtml">full schedule</a></strong></div>
-
-<ul id="top_nav">
-
-<li id="TV_Shows">
-<strong><a href="/shows/index.jhtml">TV_Shows</a></strong>
-<ul>	
-<li class="top"><a href="/shows/index.jhtml">TV_Shows Main Page</a></li>
-
-<li class="first"><a href="http://www.thedailyshow.com">The Daily Show with Jon Stewart</a></li>
-
-<li><a href="/shows/the_colbert_report/index.jhtml">The Colbert Report</a></li>
-
-<li><a href="http://southpark.comedycentral.com">South Park</a></li>
-
-<li><a href="http://sarahsilverman.comedycentral.com">Sarah Silverman Program</a></li>
-
-<li><a href="/shows/drawn_together/index.jhtml">Drawn Together</a></li>
-
-<li><a href="/shows/kenny_vs_spenny/index.jhtml">Kenny Vs. Spenny</a></li>
-
-<li><a href="/shows/last_laugh_2007/index.jhtml">Last Laugh '07</a></li>
-
-<li><a href="/shows/dr_katz/index.jhtml">Dr. Katz</a></li>
-
-<li class="last"><a href="/shows/index.jhtml">All Shows</a></li>
-
-</ul></li>
-
-<li id="Videos">
-<strong><a href="/videos/index.jhtml">Videos</a></strong>
-<ul>	
-<li class="top"><a href="/videos/index.jhtml">Videos Main Page</a></li>
-
-<li class="first"><a href="http://www.thedailyshow.com/video/index.jhtml">Latest Daily Show</a></li>
-
-<li><a href="/motherload/?ml_collection=24445">Latest Colbert Report</a></li>
-
-<li><a href="http://www.indecision2008.com/videos.jhtml">Indecision 2008</a></li>
-
-<li><a href="/motherload/?ml_collection=84113">South Park</a></li>
-
-<li><a href="/shows/web_shows/index.jhtml">Web Shows</a></li>
-
-<li><a href="/movies/index.jhtml">Movies</a></li>
-
-<li><a href="http://www.atomfilms.com/index.jsp?s=ecc1">Atom Films</a></li>
-
-<li class="last"><a href="/motherload/?ml_collection=60270">All Videos</a></li>
-
-</ul></li>
-
-<li id="Comedians">
-<strong><a href="/comedians/index.jhtml">Comedians</a></strong>
-<ul>	
-<li class="top"><a href="/comedians/index.jhtml">Comedians Main Page</a></li>
-
-<li class="first"><a href="/shows/comedy_central_presents/index.jhtml">Stand-Up Video</a></li>
-
-<li><a href="/comedians/tours/south_beach_comedy_2008.jhtml">South Beach Comedy<br>Festival</a></li>
-
-<li><a href="/podcasts/index.jhtml">Stand-Up Podcasts</a></li>
-
-<li><a href="/comedians/tours/cclive_regan.jhtml">Get Brian Regan Tour Tickets</a></li>
-
-<li class="last"><a href="/comedians/browse/a/index.jhtml">All Comedians A - Z</a></li>
-
-</ul></li>
-
-<li id="Games">
-<strong><a href="/games/index.jhtml">Games</a></strong>
-<ul>	
-<li class="top"><a href="/games/index.jhtml">Games Main Page</a></li>
-
-<li class="first"><a href="/games/action_arcade/southpark_asskicker.jhtml">South Park: Asskicker</a></li>
-
-<li><a href="/sitewide/game_player/?game=91208">Flavor Flav Roast: <br>Cold Clock'd</a></li>
-
-<li><a href="/games/action_arcade/redneck_games_2.jhtml">Redneck Games 2</a></li>
-
-<li><a href="/sitewide/game_player/index.jhtml?game=84099">South Park <br> Big Wheel Death Rally</a></li>
-
-<li><a href="/games/brainteasers/mencia_madness_2.jhtml">Mencia Madness 2</a></li>
-
-<li><a href="/sitewide/game_player/index.jhtml?game=90518">John McCain:<br>Fire 'Em All</a></li>
-
-<li class="last"><a href="/games/all_games/index.jhtml">All Games</a></li>
-
-</ul></li>
-
-<li id="Jokes">
-<strong><a href="/jokes/index.jhtml">Jokes</a></strong>
-<ul>	
-<li class="top"><a href="/jokes/index.jhtml">Jokes Main Page</a></li>
-
-<li class="first"><a href="http://jokes.comedycentral.com/joke_of_day.aspx">Joke of the Day</a></li>
-
-<li><a href="http://jokes.comedycentral.com/results/index.asp?cat=28">Sexy Jokes</a></li>
-
-<li><a href="http://jokes.comedycentral.com/results/index.asp?cat=14">Blonde Jokes</a></li>
-
-<li><a href="http://jokes.comedycentral.com/results/index.asp?cat=18">Yo Mama Jokes</a></li>
-
-<li><a href="http://jokes.comedycentral.com/random_joke.aspx">Random Joke</a></li>
-
-<li class="last"><a href="/jokes/index.jhtml">All Jokes</a></li>
-
-</ul></li>
-
-<li id="Community">
-<strong><a href="/community/index.jhtml">Community</a></strong>
-<ul>	
-<li class="top"><a href="/community/index.jhtml">Community Main Page</a></li>
-
-<li class="first"><a href="http://sarahsilverman.comedycentral.com/">Sarah Silverman Program Blog</a></li>
-
-<li><a href="http://www.indecision2008.com/blog.jhtml">Indecision 2008 Blog</a></li>
-
-<li><a href="http://ccinsider.comedycentral.com">Comedy Central <br>Insider Blog</a></li>
-
-<li><a href="http://www.addressthemess.com">Address The Mess</a></li>
-
-<li class="last"><a href="/community/index.jhtml">All Community</a></li>
-
-</ul></li>
-
-<li id="Mobile">
-<strong><a href="/mobile/index.jhtml">Mobile</a></strong>
-<ul>	
-<li class="top"><a href="/mobile/index.jhtml">Mobile Main Page</a></li>
-
-<li class="first"><a href="/mobile/property/south_park/index.jhtml">South Park Mobile</a></li>
-
-<li><a href="/mobile/ringtones/mind_of_mencia/index.jhtml">Mencia Ringtones</a></li>
-
-<li><a href="/mobile/video/index.jhtml">Mobile Video</a></li>
-
-<li><a href="/mobile/games/index.jhtml">Mobile Games</a></li>
-
-<li><a href="/mobile/ringtones/index.jhtml">Ringtones</a></li>
-
-<li><a href="/mobile/text_alerts/index.jhtml">Txt Msg Alerts</a></li>
-
-<li class="last"><a href="/mobile/index.jhtml">All Mobile</a></li>
-
-</ul></li>
-
-<li id="Shop">
-<strong><a href="/shop/index.jhtml">Shop</a></strong>
-<ul>	
-<li class="top"><a href="/shop/index.jhtml">Shop Main Page</a></li>
-
-<li class="first"><a href="http://shop.comedycentral.com/The-Sarah-Silverman-Program--The-First-Season-Front-Page_stcVVproductId21031047VVcatId424910VVviewprod.htm">Sarah Silverman Season One DVD</a></li>
-
-<li><a href="http://shop.comedycentral.com/Rough-Around-the-Edges--Live-from-Madison-Square-Garden_stcVVproductId22394980VVviewprod.htm">Dane Cook<br>Rough Around The Edges</a></li>
-
-<li><a href="http://shop.comedycentral.com/South-Park--Towelie-Towel-Shows_stcVVproductId5989097VVcatId426753VVviewprod.htm?campaign1=ccTopNavTowelie">Towelie Towel</a></li>
-
-<li><a href="http://shop.comedycentral.com/Lil--Bush_stcVVcatId481586VVviewcat.htm?campaign1=ccTopNavlilbush">Lil Bush T-Shirts</a></li>
-
-<li><a href="http://shop.comedycentral.com/The-Best-of-Chappelle-s-Show-Uncensored--Top-25-Sketches-Shows_stcVVproductId11214697VVcatId426753VVviewprod.htm?campaign1=ccTopNavChappelleBestOf">Best of Chappelle's Show DVD</a></li>
-
-<li><a href="http://shop.comedycentral.com/Comedians_stcVVcatId426775VVviewcat.htm?campaign1=ccTopNavComedians">Hot Comedians</a></li>
-
-<li class="last"><a href="http://shop.comedycentral.com/">Go to Shop</a></li>
-
-</ul></li>
-
-</ul>
-
-<div id="search">
-<form method="get" action="/search/gsa/index.jhtml" name="searchComedy" onsubmit="return submitSearch()">
-<input value="search comedycentral.com" class="search_field" type="text" id="searchbox" name="searchterm">
-<input type="hidden" name="searchtype" value="all">
-<input type="hidden" name="pagesize" value="3">
-<input type="hidden" name="sorttype" value="default">
-<button type="submit" class="btn_search">submit</button>
-<label for="search">powered by google</label>
+<div id="hd-menu" style="width:960px;">	
+
+<div class="top_menu">
+<div class="daydate">
+<span class="day">Wednesday</span> <span class="date test">May 21</span>	
+</div>
+
+<div class="menu_buttons">
+<a class="first shows" href="/shows/index.jhtml"><span>shows</span></a>
+<a class="videos" href="/funny_videos/index.jhtml"><span>videos</span></a>
+<a class="standup" href="/comedians/index.jhtml"><span>standup</span></a>
+<a class="games" href="/games/index.jhtml"><span>games</span></a>
+<a class="mobile" href="/jokes/index.jhtml"><span>jokes</span></a>
+<a class="shop" href="http://shop.comedycentral.com/?campaign1=comedycentral:ccdotcom:topnav"><span>shop</span></a>	
+</div>
+
+<div class="search">
+<form method="get" action="/search/gsa/index.jhtml" name="searchComedy" onsubmit="return submitSearch(this)">
+
+<div class="searchbox">
+<input onfocus="clearSearch(this)" onblur="blurSearch(this)" type="text" name="searchterm" id="searchterm" class="inputtext" maxlength="256" value="Search comedycentral.com">
+</div>
+<input type="image" class="search_button" value="" src="/comedycentral/sitewide/images/search_OFF.gif" onmouseover="this.src=this.src.replace('OFF','ON')" onmouseout="this.src=this.src.replace('ON','OFF')">
+<img src="/comedycentral/sitewide/images/poweredbygoogle.gif" class="google_icon"> 
+<input type="hidden" name="search_title" value="Search Results">
 </form>
 </div>
+</div>
+
+<script src="/sitewide/scripts/swfobject.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+var soUrl = "/comedycentral/sitewide/header_footer/flash/top_nav_schedule.swf";
+
+soIdIterator+=1;
+
+/* If Target Div ID Is Not specified Make Dynamic One with Iterator */
+var soTargetDivId = "top_schedule";	
+if (soTargetDivId=="") soTargetDivId = "ccSwfObjTarget" + soIdIterator;
+
+/* If Flash Embed ID Is Not specified Make Dynamic One with Iterator */
+var soId = "top_schedule";
+if (soId=="") soId = "ccSwf" + soIdIterator;
+
+/* CHECK IF SWFOBJECT JS SHOULD BE WRITTEN TO PAGE */
+
+document.write('<div id="' + soTargetDivId + '"></div>');
+
+var soUrl = "/comedycentral/sitewide/header_footer/flash/top_nav_schedule.swf";
+var soFlashVars = "episodedata=http://www.comedycentral.com/templates/xml/tv_schedule/new_schedule_xml.jhtml?numDays=1&amp;enableJSURL=true&amp;enableHREF=true";
+var soWidth = "960";
+var soHeight = "43";
+var	soWmode = "transparent";
+var soMinVersion = "8";
+var soBgColor = "#ffffff";
+var	soUseExpressInstall = true;
+var	soFlashQuality = "high";
+var	soExpressInstallRedirectUrl = "";
+var	soWrongFlashVersionRedirectUrl = "";
+var	soDetectKey = "detectFlash";
+var soErrorMessage = "";
+var soAllowFullscreen = "true";
+var soAllowScriptAccess = "always";
+
+// create SWFObject
+var ccSwfObj = new SWFObject(soUrl, soId, soWidth, soHeight, soMinVersion, soBgColor, soUseExpressInstall, soFlashQuality, soExpressInstallRedirectUrl, soWrongFlashVersionRedirectUrl, soDetectKey);
+
+// add wmode param
+ccSwfObj.addParam("wmode", soWmode);
+
+ccSwfObj.addParam("allowFullscreen", soAllowFullscreen);
+ccSwfObj.addParam("allowScriptAccess", soAllowScriptAccess);
+
+// add flash vars
+ccSwfObj.setAttribute("flashVars", soFlashVars);
+
+// add the error message
+ccSwfObj.setAttribute("errorMessage", soErrorMessage);
+
+/* CHECK IF EMBED TYPE SHOULD BE FORCED REGARDLESS OF BROWSER */
+
+/* DEBUG */
+
+// write embed to soTargetDivId
+ccSwfObj.write(soTargetDivId);
+</script><div id="top_schedule"></div>
+
+<noembed>
+
+<a href="/comedycentral/sitewide/header_footer/includes/mencia_performance_enhanced">mencia_performance_enhanced</a><br/>	
+
+<a href="http://www.thedailyshow.com">http://www.thedailyshow.com</a><br/>	
+
+<a href="/colbertreport/index.jhtml">/colbertreport/index.jhtml</a><br/>	
+
+<a href="/shows/mind_of_mencia/index.jhtml">/shows/mind_of_mencia/index.jhtml</a><br/>	
+
+<a href="/shows/mind_of_mencia/index.jhtml">/shows/mind_of_mencia/index.jhtml</a><br/>	
+
+<a href="/shows/mind_of_mencia/index.jhtml">/shows/mind_of_mencia/index.jhtml</a><br/>	
+
+<a href="/shows/mind_of_mencia/index.jhtml">/shows/mind_of_mencia/index.jhtml</a><br/>	
+
+<a href="http://www.thedailyshow.com">http://www.thedailyshow.com</a><br/>	
+
+<a href="/colbertreport/index.jhtml">/colbertreport/index.jhtml</a><br/>	
+
+<a href="http://www.comedycentral.com/comedians/browse/c/dave_chappelle.jhtml">http://www.comedycentral.com/comedians/browse/c/dave_chappelle.jhtml</a><br/>	
+
+<a href="/shows/blue_collar_tv/index.jhtml">/shows/blue_collar_tv/index.jhtml</a><br/>	
+
+<a href="/shows/madtv/index.jhtml">/shows/madtv/index.jhtml</a><br/>	
+
+<a href="/shows/madtv/index.jhtml">/shows/madtv/index.jhtml</a><br/>	
+
+<a href="http://www.thedailyshow.com">http://www.thedailyshow.com</a><br/>	
+
+<a href="/colbertreport/index.jhtml">/colbertreport/index.jhtml</a><br/>	
+
+<a href="/shows/scrubs/index.jhtml">/shows/scrubs/index.jhtml</a><br/>	
+
+<a href="/shows/scrubs/index.jhtml">/shows/scrubs/index.jhtml</a><br/>	
+
+<a href="/shows/madtv/index.jhtml">/shows/madtv/index.jhtml</a><br/>	
+
+<a href="/shows/reno_911/index.jhtml">/shows/reno_911/index.jhtml</a><br/>	
+
+<a href="/shows/scrubs/index.jhtml">/shows/scrubs/index.jhtml</a><br/>	
+
+<a href="/shows/scrubs/index.jhtml">/shows/scrubs/index.jhtml</a><br/>	
+
+<a href="http://www.thedailyshow.com">http://www.thedailyshow.com</a><br/>	
+
+<a href="/colbertreport/index.jhtml">/colbertreport/index.jhtml</a><br/>	
+
+<a href="/shows/futurama/index.jhtml">/shows/futurama/index.jhtml</a><br/>	
+
+<a href="http://www.southparkstudios.com">http://www.southparkstudios.com</a><br/>	
+
+<a href="http://www.southparkstudios.com">http://www.southparkstudios.com</a><br/>	
+
+<a href="/shows/mind_of_mencia/index.jhtml">/shows/mind_of_mencia/index.jhtml</a><br/>	
+
+<a href="http://www.thedailyshow.com">http://www.thedailyshow.com</a><br/>	
+
+<a href="/colbertreport/index.jhtml">/colbertreport/index.jhtml</a><br/>	
+
+</noembed>
 
 </div>
 
-<div id="header_signIn">	
-<div class="header_signIn_pad">
-<div class="signinText"><script language="javascript" type="text/javascript">writeCommunityModule();</script></div>
-</div>
 </div>
 
-</div>
-
-<table width="750" id="container" border="0" cellspacing="0" cellpadding="0">
+<!--<table width="750" id="container" border="0" cellspacing="0" cellpadding="0">-->
+<div align="center">
+<table width="750" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td width="10" style="padding:0px;" bgcolor="#72A5C5"><img src="/sitewide/images/spacer.gif" width="10" alt="" border="0"><br></td>
+<!--<td width="10" style="padding:0px;opacity:0.9;filter:alpha(opacity=90);background-color:#72A5C5;"><img src="/sitewide/images/spacer.gif" width="10" alt="" border="0"><br></td>-->
 <td width="740" align="left" valign="top" class="pageContentBG">
 
-<div width="740" height="7" style="background-color:#72A5C5;"><img src="/help/images/extra_d1_top.gif" width="740" height="7" alt="" border="0"><br></div>
-
+</td>
+</tr>
+</tbody></table>
+<table width="750" id="container" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td>	
 <div style="position:relative;">	
 
 <div id="content_duplex" style="width:574px;"><span class="text">
@@ -578,7 +556,7 @@ Attn: Privacy Administrator</strong></p>
 <script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
 var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/index;comedycentral=ad;pagename=privacy;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';bps='+if_nt_bandwidth+';gateway=help;section_1=main;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';era='+if_nt_era+';bps='+if_nt_bandwidth+';fla='+if_nt_Flash+';u=|comedycentral-ad|pagename-privacy|zyg-'+if_nt_zyg+'|span-'+if_nt_span+'|demo-'+if_nt_demo+'|bps-'+if_nt_bandwidth+'|gateway-help|section_1-main|zyg-'+if_nt_zyg+'|span-'+if_nt_span+'|demo-'+if_nt_demo+'|era-'+if_nt_era+'|bps-'+if_nt_bandwidth+'|fla-'+if_nt_Flash+';sz=160x600;tile=2;ord=' + ord + '?"><\/SCR' + 'IPT>';
 document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/index;comedycentral=ad;pagename=privacy;zyg=;span=;demo=;bps=;gateway=help;section_1=main;zyg=;span=;demo=;era=;bps=;fla=-1;u=|comedycentral-ad|pagename-privacy|zyg-|span-|demo-|bps-|gateway-help|section_1-main|zyg-|span-|demo-|era-|bps-|fla--1;sz=160x600;tile=2;ord=562686617657766500?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/index;comedycentral=ad;pagename=privacy;zyg=;span=;demo=;bps=;gateway=help;section_1=main;zyg=;span=;demo=;era=;bps=;fla=-1;u=|comedycentral-ad|pagename-privacy|zyg-|span-|demo-|bps-|gateway-help|section_1-main|zyg-|span-|demo-|era-|bps-|fla--1;sz=160x600;tile=2;ord=598004967381501800?"></script>
 </div>
 </div>
 </div>
@@ -591,81 +569,69 @@ document.write(ad);
 </tr>
 </tbody></table>
 
-<table border="0" width="750" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top">
-<td width="10"><img src="/sitewide/images/spacer.gif" width="10" alt="" border="0"></td>
-<td width="740" valign="top">
-<img src="/help/images/extra_d1_bottom.gif" width="740" height="7" alt="" border="0" hspace="0" vspace="0" align="top"><br>
-</td>
-</tr>
-</tbody></table>
-
 <script type="text/javascript">
 // DO NOT REMOVE.
 // NOT EVEN WHEN PUSHING LIVE
 var cachingTier = "long_lifers";
 </script>
-<div id="footer">
-<div class="footer_search">
-
-<div style="width:400px;padding:10px 0 0 24px;">
-<form method="get" action="/search/gsa/index.jhtml" name="searchComedyAgain">
-<script type="text/javascript" language="javascript">function submitSearchFooter(){document.searchComedyAgain.submit();}</script>
-<input type="hidden" name="searchtype" value="all">
-<input type="hidden" name="pagesize" value="3">
-<input type="hidden" name="sorttype" value="default">
-<table>
-<tbody><tr align="left" valign="top">
-<td align="left" valign="top"><img src="/images/search/search_cc_footer.jpg" width="166" height="21" hspace="0" vspace="0" border="0" align="bottom"></td>
-<td align="left" valign="top">&nbsp;<input name="searchterm" type="text" value="">&nbsp;<a href="javascript:submitSearchFooter();"><u>Go</u></a></td>
-</tr>
-</tbody></table>
-</form>
-</div>
-</div>
-
-<table border="0" width="750" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="750" colspan="2" align="center">
+<br clear="all">
+<div id="footer_ad">	
+<div id="bottom_banner">
+<div class="ad">
 
 <script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
 var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/btm_banner;comedycentral=ad;dcopt=ist;dcove=o;pagename=privacy;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';bps='+if_nt_bandwidth+';gateway=help;section_1=main;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';era='+if_nt_era+';bps='+if_nt_bandwidth+';fla='+if_nt_Flash+';pos=btm;!category=btm;!category=expand;u=|comedycentral-ad|dcopt-ist|dcove-o|pagename-privacy|zyg-'+if_nt_zyg+'|span-'+if_nt_span+'|demo-'+if_nt_demo+'|bps-'+if_nt_bandwidth+'|gateway-help|section_1-main|zyg-'+if_nt_zyg+'|span-'+if_nt_span+'|demo-'+if_nt_demo+'|era-'+if_nt_era+'|bps-'+if_nt_bandwidth+'|fla-'+if_nt_Flash+'|pos-btm|!category-btm|!category-expand;sz=728x90;tile=3;ord=' + ord + '?"><\/SCR' + 'IPT>';
 document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/btm_banner;comedycentral=ad;dcopt=ist;dcove=o;pagename=privacy;zyg=;span=;demo=;bps=;gateway=help;section_1=main;zyg=;span=;demo=;era=;bps=;fla=-1;pos=btm;!category=btm;!category=expand;u=|comedycentral-ad|dcopt-ist|dcove-o|pagename-privacy|zyg-|span-|demo-|bps-|gateway-help|section_1-main|zyg-|span-|demo-|era-|bps-|fla--1|pos-btm|!category-btm|!category-expand;sz=728x90;tile=3;ord=562686617657766500?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/btm_banner;comedycentral=ad;dcopt=ist;dcove=o;pagename=privacy;zyg=;span=;demo=;bps=;gateway=help;section_1=main;zyg=;span=;demo=;era=;bps=;fla=-1;pos=btm;!category=btm;!category=expand;u=|comedycentral-ad|dcopt-ist|dcove-o|pagename-privacy|zyg-|span-|demo-|bps-|gateway-help|section_1-main|zyg-|span-|demo-|era-|bps-|fla--1|pos-btm|!category-btm|!category-expand;sz=728x90;tile=3;ord=598004967381501800?"></script>
 
-</td>
-</tr> 
+</div>	
+</div>
 
-<tr><td width="750" colspan="2"><img src="/images/spacer.gif" width="750" height="10" border="0"></td></tr>
+<div align="left">
 
-<tr><td width="750" colspan="2"><img src="/images/footer/footer_line.gif" width="750" height="10" border="0"></td></tr>
-<tr align="center" valign="top">
-<td width="10"><img src="/sitewide/images/spacer.gif" width="10" alt="" border="0"></td>
-<td width="740" valign="top">
-<div>
-<div align="center" class="fLinks">	
+<div id="bottom_text_ad"><a href="http://ad.doubleclick.net/clk;197743409;8320611;i?http://www.alltel.com" target="_blank"> AD: My Circle, choose the UNLIMITED plan that fits you best.
+</a></div>
+
+<br clear="all">	
+</div> 
+</div>	
+<!--[if IE]>
+<style type="text/css">
+.bottom_links {margin-top:-40px!important;}
+</style>
+<![endif]-->
+<div id="ft">
+<div class="bottom_menu">
+<img src="/comedycentral/sitewide/images/comedycentral_logo_ft.png" width="81" height="87" style="float:left;position:relative;left:-40px;top:-30px;z-index:10;behavior: url(/comedycentral/sitewide/styles/iepngfix.htc);">
+<div class="search">
+<form method="get" action="/search/gsa/index.jhtml" name="searchComedy" id="s_form">
+<div class="searchbox">
+<input onfocus="clearSearch(this)" onblur="blurSearch(this)" type="text" name="searchterm" id="searchterm" class="inputtext" maxlength="256" value="Search comedycentral.com">
+</div>
+<input type="image" class="search_button" value="" src="/comedycentral/sitewide/images/search_OFF.gif" onmouseover="this.src=this.src.replace('OFF','ON')" onmouseout="this.src=this.src.replace('ON','OFF')">
+<div class="google_icon"></div>
+<input type="hidden" name="search_title" value="Search Results">
+</form>
+</div>
+</div>
+<div class="bottom_links">
+<p>
 <a href="/index.jhtml">Home</a> / 
 <a href="/help/help.jhtml">Help/FAQ</a> / 
-<a href="/help/privacy.jhtml">Privacy Policy - Your California Privacy Rights</a>/ 
-<a href="/help/terms.jhtml">Terms &amp; Conditions</a> /
-<a href="/help/copyrightcompliance.jhtml">Copyright Compliance</a> <br>
+<a href="http://www.newcomedycentral.blogspot.com">Development Blog</a> / 
+<a href="/sitemap.jhtml">Sitemap</a><br>
+<a href="/help/privacy.jhtml">Privacy Policy - Your California Privacy Rights</a> / 
+<a href="/help/terms.jhtml">Terms &amp; Conditions</a> / 
+<a href="/help/copyrightcompliance.jhtml">Copyright Compliance</a><br>
 <a href="http://www.mtvncareers.com">Job Postings</a> / 
-<a href="/mediakit/">Advertising</a> / 
-<a href="/sitemap.jhtml">Sitemap</a>
-<br>	
-Copyright © 1995-2007 Comedy Central. All rights Reserved<br>
-
+<a href="/mediakit/">Advertising</a>
+</p>
+<p>Copyright © 1995-2008 Comedy Central. All rights Reserved<br></p>
 </div>
 
-<img src="/sitewide/images/spacer.gif" width="740" height="40" alt="" border="0"><br>
-</div>
-</td>
-</tr>
-</tbody></table>
+</div>	
 
-<div style="display:none">
-</div>
-
+<div class="footer_adplace">
 </div>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
@@ -685,9 +651,10 @@ si_transaction_amount=1;
 <!-- <script src="/sitewide/scripts/searchIgnite.js" type="text/javascript"></script> -->
 <!-- <noscript><img width=1 height=1 src='http://track.searchignite.com/si/CM/Tracking/AtomicTracking.aspx?siclientid=1838&transactionamount=1&SICustTransType=1051&jscript=0'></noscript> -->
 <!--Search Ignite END conversion tracking script version 3.1.2 -->
-
+<div align="center" class="mtvn_logo"><img src="/images/sitewide/mtvn_logo.jpg"></div>
 
 
 <!-- PAGEOK -->
+</div>
 
 </body></html>
