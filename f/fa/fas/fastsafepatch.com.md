@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastsafepatch.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218145556id_/http%3A//www.fastsafepatch.com/%3Fid%3Dpol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastsafepatch.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521055300id_/http%3A//fastsafepatch.com/%3Fid%3Dpol%26trid%3D0%26advid%3D0) for the most accurate reproduction.*
 
 # Penis enlargement, penis size chart, penis enlargement patches, average penis size
 
@@ -18,6 +18,6 @@ You are required to provide FastSafePatch with accurate and up-to-date informati
 
 FastSafePatch provides refunds within 30 days of the order.
 
-|  |   | [](https://fastsafepatch.com/?id=order)  
+|  |   | [](https://fastsafepatch.com/?id=order&trid=0&advid=0)  
 ---|---  
-[](https://web.archive.org/web/20071218145556id_/http%3A//www.fastsafepatch.com/%3Fid%3Dpol?id=order)
+[](https://web.archive.org/web/20080521055300id_/http%3A//fastsafepatch.com/%3Fid%3Dpol%26trid%3D0%26advid%3D0?id=order&trid=0&advid=0)
