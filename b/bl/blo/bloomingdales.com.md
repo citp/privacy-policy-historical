@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218230807id_/http%3A//www1.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521073324id_/http%3A//www1.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Bloomingdale's - Privacy Policy
 
@@ -6,10 +6,10 @@
 ---|---|---|---|---|---  
 | [](http://www1.bloomingdales.com/customerservice/index.jsp)  
 | | [New to Bloomingdale's](http://www1.bloomingdales.com/customerservice/new.jsp)|   
-| | [My Account](http://www1.bloomingdales.com/myinfo/index.ognc)|   
+| | [My Online Account](http://www1.bloomingdales.com/myinfo/index.ognc)|   
 | | [My Order](https://www.bloomingdales.com/myinfo/status/orders.jsp)|   
 | | [Shipping & Returns](http://www1.bloomingdales.com/customerservice/shipandreturns.jsp)|   
-| | [Contact Us](http://www1.bloomingdales.com/redirect.jsp?http://help.bloomingdales.com/contact/)|   
+| | [Contact Us](http://www1.bloomingdales.com/redirect.jsp?EXTERNAL_FORWARD_URL=http://help.bloomingdales.com/contact/)|   
 | | [Credit Services](http://www1.bloomingdales.com/service/credit/index.ognc)|   
 | | [About Bloomingdale's](http://www1.bloomingdales.com/media/about/index.jsp)|   
 | | [Shopping Services](http://www1.bloomingdales.com/about/shopping/index.jsp)|   
@@ -75,7 +75,7 @@ We collect various types of information depending upon how you use our site.
 
 Coremetrics analyzes the information it collects from bloomingdales.com and returns it to us through a secure web connection. We use the information to help us understand your interests in our web site and how to better serve you. It also helps us provide you with more personalized product offerings. bloomingdales.com does not allow Coremetrics to collect credit card, username or password information.
 
-Coremetrics may only use your personal information to perform services for us. It may not share your personal information with anyone else, or use it for any other purpose, except on an aggregate, non-personal basis (in other words, the information will not be identified with you). Coremetrics is required to maintain all of the information it collects and analyzes securely and in confidence. For more information on Coremetrics privacy policy, [click here.](http://www.coremetrics.com/company/privacy.html)
+Coremetrics may only use your personal information to perform services for us. It may not share your personal information with anyone else, or use it for any other purpose, except on an aggregate, non-personal basis (in other words, the information will not be identified with you). Coremetrics is required to maintain all of the information it collects and analyzes securely and in confidence. For more information on Coremetrics privacy policy, click here.
 
 As a visitor to bloomingdales.com, you may choose to opt-out of Coremetrics' analysis of your browsing and purchasing behavior on our site. You may also choose to continue to benefit from the improved shopping experience that the Coremetrics analysis allows us to provide, but maintain your anonymity. To learn more about the various levels of privacy and confidentiality you can select with respect to Coremetrics on this site and to exercise your opt-out choices, click here.
 
@@ -113,7 +113,7 @@ Back To Top
 
 The information gathered will be shared with the Macy's, Inc. family of companies. We also may share this information with other third parties, including companies with which we have a relationship. For example:
 
-  * WeddingChannel (www.weddingchannel.com) operates the web site where you can access the Bloomingdale's bridal registry or register for your own wedding. When you use that website, both Bloomingdale's and WeddingChannel receive your information.[Click here](http://bloomingdales.weddingchannel.com/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?frmSection=bloomingdales&location=%2Ftemplates%2FBloomingdales%2FHelpPages%2FPrivacyPolicyWC.html&storeGroup=BL) to see the Bloomingdale's WeddingChannel privacy policy.
+  * WeddingChannel (www.weddingchannel.com) operates the web site where you can access the Bloomingdale's bridal registry or register for your own wedding. When you use that website, both Bloomingdale's and WeddingChannel receive your information.Click here to see the Bloomingdale's WeddingChannel privacy policy.
   * bloomingdales.com may enter into a "co-branding" relationship with another website that offers you products or services (e.g., flowers). In those cases, you may link from bloomingdales.com to another site to purchase the item. In that case, both bloomingdales.com and the other web site may receive your information.
   * bloomingdales.com may team with a partner to conduct a sweepstakes or other event (e.g., a live web chat). In those cases, each of the participating web sites may collect or receive personal information from you. 
   * For some of our products, bloomingdales.com may provide you with a link to the supplier of that product so that you may get further information. If you link to the supplier's site, the supplier may collect or receive information about you according to its stated policy.
