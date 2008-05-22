@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the heatworld.com privacy policy that was archived on 2007-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071222023704id_/http%3A//www.heatworld.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heatworld.com privacy policy that was archived on 2008-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080522131547id_/http%3A//www.heatworld.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta name="title" content="Latest celebrity gossip, News and Celeb Pictures | Heat Magazine | Heatworld.com"><meta name="keywords" content="celebrity, celebrity pictures, celebrity news, celebrity gossip, latest celebrity news, celebrity gossip news"><meta name="description" content=" Find the latest celebrity gosssip and entertainment news from heatworld.com - Heat magazine's official website"><title>
 	Latest celebrity gossip, News and Celeb Pictures | Heat Magazine | Heatworld.com
@@ -13,9 +13,23 @@
 			document.write("<meta name='DCSext.revsci.segs' content=\"" +
 			rsinetsegs.join(';') + "\" />"); 
 			//-->
+
+			function showMore( targetId, linkObj ) {
+				if (document.getElementById) {
+					target = document.getElementById( targetId );
+					if (target.style.display == "none" || target.style.display == "") {
+						target.style.display = "block";
+						linkObj.innerHTML = "Hide &gt;";
+					} else {
+						target.style.display = "none";
+						linkObj.innerHTML = "Read more &gt;";
+					}
+				}
+			}
+    
     </script>
 
-    <link rel="shortcut icon" href="favicon.ico"><link rel="stylesheet" type="text/css" href="/css/styles_default.css"><link rel="stylesheet" type="text/css" href="/css/core.css"><link rel="styleSheet" type="text/css" href="/css/masthead.css"><link rel="stylesheet" type="text/css" href="/css/styles_admin.css"><link rel="stylesheet" type="text/css" href="/css/sideStoryLinks.css"><link rel="stylesheet" type="text/css" href="/css/sendToFriend.css"><link rel="stylesheet" type="text/css" href="/css/popOvr.css"><link rel="stylesheet" type="text/css" href="/css/ticker.css">
+    <link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" type="text/css" href="/css/styles_default.css"><link rel="stylesheet" type="text/css" href="/css/core.css"><link rel="styleSheet" type="text/css" href="/css/masthead.css"><link rel="stylesheet" type="text/css" href="/css/styles_admin.css"><link rel="stylesheet" type="text/css" href="/css/sideStoryLinks.css"><link rel="stylesheet" type="text/css" href="/css/sendToFriend.css"><link rel="stylesheet" type="text/css" href="/css/popOvr.css"><link rel="stylesheet" type="text/css" href="/css/ticker.css"><link rel="alternate" media="handheld" href="http://m.heatworld.com">
 
     <script type="text/javascript" src="/inc/popup.js"></script>
 
@@ -42,7 +56,9 @@
             //do ping
             pingLoad();
             //show todays date
-            showTimeDate();          
+            showTimeDate();  
+            // Create cookie to determine that it's a desktop and not mobile browser
+            createCookie('Browser','True',365);
         }
     </script>
 
@@ -74,7 +90,6 @@
                 <div class="header">
                     <div class="headerLeft">
                         <div class="headerAdvert">
-                            
 
 <div class="mpu">
 <script language="javascript" type="text/javascript">
@@ -84,7 +99,7 @@
 				}
 				document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|311|1259766|0|1|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 				//-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|311|1259766|0|1|ADTECH;loc=100;target=_blank;key=;grp=623;misc=1582142134877"></script>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|311|1259766|0|1|ADTECH;loc=100;target=_blank;key=;grp=831;misc=1580401950272"></script>
 
 <noscript>
     <a href="http://adserver.adtech.de/adlink|3.0|311|1259766|0|1|ADTECH;loc=300;key="
@@ -94,17 +109,16 @@
             alt="advert" /></a>
 </noscript>
 </div>
-
-                        </div>
+</div>
                         <div class="headerLogo">
                             <div class="heatLogo">
-<a href="/default.aspx"><img src="/img/masthead/heatworldLogo.gif" width="487" height="100" alt="From thise heat magazine people... heat world"></a></div>
+<a href="/default.aspx"><img src="/img/masthead/heatworldLogo.gif" width="487" height="100" alt="From those heat magazine people... heat world"></a></div>
                             <div class="headerItem">
 </div>
                         </div>
                     </div>
                     <div class="headerFeature">
- <iframe src="http://www.heatworld.com/imageclick.aspx" width="253" height="210" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div>
+<object width="253" height="210"><param name="movie" value="/flash/SATC.swf"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="/flash/SATC.swf" type="application/x-shockwave-flash" width="253" height="210" allowfullscreen="true" allowscriptaccess="always"></object></div>
                 </div>
                 <!-- }}} header -->
                 <div class="topBar">
@@ -115,8 +129,7 @@
                         <div class="justInHeader">
                             <p id="pingupdate"><a href="#">heatworld.com Latest!</a></p>
                         </div>
-                        <div class="justInSoundIcon" id="pingmute">
-                        </div>
+                        <div class="justInSoundIcon" id="pingmute"><a href="javascript:pingMute();"><img src="/img/soundIcon.gif" alt="UnMute Heat World Ping"></a></div>
                         <div id="pingsound">
                         </div>
                     </div>
@@ -155,7 +168,7 @@
                     
                     <!-- }}} backgroundMasthead -->
                     <div class="search">
-                        <form action="/Search.aspx" name="search" id="search">
+                        <form action="/NewSearch.aspx" name="search" id="search">
                             <div>
                                 <input type="text" value="Celebrity search" name="searchTerm" class="text" id="searchTerm" onfocus="if (this.value == 'Celebrity search') this.value = '';">
                             </div>
@@ -173,62 +186,27 @@
 					<li><a href="/channel/Movies" class="">Movies</a></li>
 					<li><a href="/channel/Music" class="">Music</a></li>
 					<li><a href="/channel/TV" class="">TV</a></li>
-					<li><a href="/radio.aspx" class="">Radio</a></li>
 					<li><a href="/channel/heat+Towers" class="">heat Towers</a></li>
-					<li><a href="/channel/Other+Stuff" class="">Other Stuff</a></li>
+					<li><a href="/radio.aspx" class="">heat radio</a></li>
 					<li><a href="/forum/">Forum</a></li>
 					<li><a href="/channel/Competitions" class="">Competitions</a></li>
-					<li id="topNavLastLink"><a href="/Archive.aspx" class="">Archive</a></li>
+					<li><a href="/Archive.aspx" class="">Archive</a></li>
+					<li id="topNavLastLink"><a href="/channel/Other+Stuff" class="">Other Stuff</a></li>
         </ul>
       </div> <!-- }}} topNav -->
 
 
-                <!-- }}} topNav -->
-                <div class="topBarRip">
-                    
-<div class="tickercontainer">
-    <div class="mask">
-        <div id="tickermove">
-            <div class="newsticker" id="ticker01" name="ticker01">
-                
-                        <div><a href="/Article/3759/Big+Brother+Celebrity+Hijack/Big+Brother+%e2%80%93+celebrity+hijackers+revealed!" onmouseover="javascript:toggleTicker(this);" onmouseout="javascript:toggleTicker(this);">Big&nbsp;Brother&nbsp;–&nbsp;celebrity&nbsp;hijackers&nbsp;revealed!</a></div>
-                    
-                        <div><a href="/Article/1588/heat+Towers/Happy+Christmas+from+everyone+at+heat+Towers!" onmouseover="javascript:toggleTicker(this);" onmouseout="javascript:toggleTicker(this);">Happy&nbsp;Christmas&nbsp;from&nbsp;everyone&nbsp;at&nbsp;heat&nbsp;Towers!</a></div>
-                    
-                        <div><a href="/Article/3369/Big+Brother+Celebrity+Hijack/Some+exciting+news+about+Big+Brother%3a+Celebrity+Hijack!" onmouseover="javascript:toggleTicker(this);" onmouseout="javascript:toggleTicker(this);">Some&nbsp;exciting&nbsp;news&nbsp;about&nbsp;Big&nbsp;Brother:&nbsp;Celebrity&nbsp;Hijack!</a></div>
-                    
-                        <div><a href="/Article/3757/Strictly+Come+Dancing/And+the+favourite+to+win+Strictly+is..." onmouseover="javascript:toggleTicker(this);" onmouseout="javascript:toggleTicker(this);">And&nbsp;the&nbsp;favourite&nbsp;to&nbsp;win&nbsp;Strictly&nbsp;is...</a></div>
-                    
-                        <div><a href="/Article/3751/Shipwrecked+/Who+wants+to+see+Louis+from+Shipwrecked+strip" onmouseover="javascript:toggleTicker(this);" onmouseout="javascript:toggleTicker(this);">Who&nbsp;wants&nbsp;to&nbsp;see&nbsp;Louis&nbsp;from&nbsp;Shipwrecked&nbsp;strip?</a></div>
-                    
-            </div>
-            <div class="newsticker" id="ticker02" name="ticker02">
-                
-                        <div><a href="/Article/3759/Big+Brother+Celebrity+Hijack/Big+Brother+%e2%80%93+celebrity+hijackers+revealed!" onmouseover="javascript:toggleTicker(this);" onmouseout="javascript:toggleTicker(this);">Big&nbsp;Brother&nbsp;–&nbsp;celebrity&nbsp;hijackers&nbsp;revealed!</a></div>
-                    
-                        <div><a href="/Article/1588/heat+Towers/Happy+Christmas+from+everyone+at+heat+Towers!" onmouseover="javascript:toggleTicker(this);" onmouseout="javascript:toggleTicker(this);">Happy&nbsp;Christmas&nbsp;from&nbsp;everyone&nbsp;at&nbsp;heat&nbsp;Towers!</a></div>
-                    
-                        <div><a href="/Article/3369/Big+Brother+Celebrity+Hijack/Some+exciting+news+about+Big+Brother%3a+Celebrity+Hijack!" onmouseover="javascript:toggleTicker(this);" onmouseout="javascript:toggleTicker(this);">Some&nbsp;exciting&nbsp;news&nbsp;about&nbsp;Big&nbsp;Brother:&nbsp;Celebrity&nbsp;Hijack!</a></div>
-                    
-                        <div><a href="/Article/3757/Strictly+Come+Dancing/And+the+favourite+to+win+Strictly+is..." onmouseover="javascript:toggleTicker(this);" onmouseout="javascript:toggleTicker(this);">And&nbsp;the&nbsp;favourite&nbsp;to&nbsp;win&nbsp;Strictly&nbsp;is...</a></div>
-                    
-                        <div><a href="/Article/3751/Shipwrecked+/Who+wants+to+see+Louis+from+Shipwrecked+strip" onmouseover="javascript:toggleTicker(this);" onmouseout="javascript:toggleTicker(this);">Who&nbsp;wants&nbsp;to&nbsp;see&nbsp;Louis&nbsp;from&nbsp;Shipwrecked&nbsp;strip?</a></div>
-                    
-            </div>
-        </div>
+<div class="topBarRip">
+    <div class="tickercontainer">
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="988" height="27">
+            <param name="movie" value="/hwticker.swf?image=%2fimg%2fupload%2fcms%2fglobesm.gif&amp;imagelink=http%3a%2f%2fadserver.adtech.de%2f%3fadlink%7c3.0%7c311%7c1072359%7c1%7c16%7cAdId%3d1652142%3bBnId%3d1%3blink%3dhttp%3a%2f%2fad.uk.doubleclick.net%2fclk%3b179389805%3b24230275%3bo">
+            <param name="quality" value="high">
+            <param name="wmode" value="transparent">
+            <embed src="/hwticker.swf?image=%2fimg%2fupload%2fcms%2fglobesm.gif&amp;imagelink=http%3a%2f%2fadserver.adtech.de%2f%3fadlink%7c3.0%7c311%7c1072359%7c1%7c16%7cAdId%3d1652142%3bBnId%3d1%3blink%3dhttp%3a%2f%2fad.uk.doubleclick.net%2fclk%3b179389805%3b24230275%3bo" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent" width="988" height="27">
+        </object>
     </div>
 </div>
-<div id="ctl00_ctlMarquee1_panelShowTicker">
-	
-<script type="text/javascript" language="javascript">
-        initialTicker();
-</script>
 
-</div>
-
-
-
-                </div>
                 <!-- }}} topBarRip -->
                 <!-- }}} Masthead -->
                 <div id="twoColumn" class="contain">
@@ -237,7 +215,7 @@
                         
     <div id="indexPage">
         
-<div class="mainContentPadding"> <style>  h2{  	margin:0px; 	padding:0px; 	color:#CC0000; 	 margin-bottom:10px; font-size:12px; 	font-weight:bold; 	border-bottom:dotted; 	border-width:1px; } </style>    <p><strong>Heat Privacy &amp; Cookie Policy </strong> </p><h2><br>   <strong>Our Commitment To Your Privacy </strong> </h2> <p>Emap Consumer Media Limited (Emap) is responsible for the website www.heatworld.com &nbsp;and   is committed to protecting your privacy and security. </p>  <p>From time to time we may invite you to supply personal information in order   for us to authenticate your identity or to provide you with services (such   as access to our subscriber-only services, our bulletin board, email newsletters   and competitions). In order to deliver such services, we will need to process   and store your personal information and may need to transfer it to the relevant   partner(s), to Emap’s for processing both inside and outside the European   Economic Area (EEA). By submitting your personal information, you consent to   such processing and transfers in connection with such orders, offers or services   and for any other purposes to which you consent at the time you provide the   information or as provided in this privacy policy <em><a href="#whoelse">"Who   Else Will We Provide Your Data To?"</a></em></p> <p>Emap is registered in accordance with and seeks to comply with the UK Data   Protection Act 1998. We follow appropriate security procedures in the storage   and disclosure of personal information so as to prevent unauthorised access   by third parties. We also require those parties to whom we transfer personal   information to comply with the same. However, the Internet is not a totally   secure medium and you acknowledge and agree that Emap shall not be responsible   for any unauthorised use, distribution, damage or destruction of personal data,   except to the extent. We are required to accept such responsibility by the   Data Protection Act 1998.</p> <p>This Policy only applies to the use that we make of data provided to us via   the Internet and email. Other uses may be made of data provided to Emap in   correspondence, by telephone or by other means not detailed in this Policy.   These terms apply in addition to <a href="termsandconditions.aspx">Terms &amp; Conditions   Of Use for the website</a>.</p> <h2><strong>Why We Need To Collect Information From You </strong> </h2> <p>We will notify you as to the types of information we are collecting about   you as well as the uses we intend to make of that information. We may use the   information we collect about you to notify you from time to time about important   new features and changes to our online services or special offers, competitions   or promotions we think you'll find of interest. &nbsp;</p>  <h2><strong>Special Promotions</strong> </h2> <p>Occasionally a third party may sponsor a promotion, offer, competition or   page of the website and you may be asked to provide personal information including   name, email address or home address or to answer questions in order to participate.   In those circumstances we may transfer personal information to those named   third parties that you have explicitly requested to receive information from.   It will be clear at the point of collection who is collecting the personal   information and whose privacy policy will apply.</p> <h2><strong><a name="whoelse" id="whoelse"></a>Who Else Will We Provide Your Data To? </strong> </h2> <p>Subject to what we say below, we will not pass on your personal details to   any third party, including site sponsors or advertisers, without your consent.   In order to provide goods and services to you we may need to provide your data   to our agents and service providers. We may provide aggregate statistics about   our users, sales, traffic patterns and related site information to our third-party   partners (if any), but these statistics will not contain any information about   you from which you could be identified. </p> <p>If you enter any competitions on this website it may be necessary for us to   provide your personal information to the promoters of the competition or to   others that are involved in the organisation of the competition or the prize-giving. </p> <p>Also, we may transfer your personal information to purchasers or subsidiaries   (and potential purchasers or subsidiaries) if Emap acquires, or is acquired   by or merged with, another company. This will enable you, for example, to continue   your relationship with Heat despite a change of ownership. </p> <p>We may also need to provide your data to our subscription and other fulfilment   agents in order to provide goods or services to you. </p> <h2><strong>Content Posted by You</strong>  </h2> <p>Of course, if you post any personal information to any bulletin boards or   forums, this information will immediately be made available to other users   throughout the world who may use it to send you unsolicited communications.   Furthermore, in some circumstances we may display some of your personal information   (such as username and age) when you post material to the website to allow users   to identify each other. At the point of providing personal information, we   will advise you of what information may be displayed to other users. Also,   if you post any content in breach of our <u><a href="termsandconditions.aspx">Terms &amp; Conditions</a></u> Of Use we   may inform any relevant third parties such as your employer, school e-mail/Internet   provider and law enforcement agencies about the content and your behaviour.</p> <h2><strong>Security and possibility of international transfer. </strong> </h2> <p>Please note that countries outside the EEA may not have the same level of   protection as countries within the EEA, but we always demand that those parties   to whom we transfer data adhere to the same security procedures that we follow   ourselves. By submitting your personal information, you consent to such processing   and transfers in connection with such orders, offers or services and for any   other purposes to which you consent at the time you provide the information. </p> <h2><strong>The Use Of 'Cookies' </strong> </h2> <p>In order to enable us to provide you with a personalised browsing experience,   this site uses 'cookie' information collection technology.  "Cookies" are   small pieces of information that are issued to your computer when you enter   a website. Cookies are stored by your browser on your computer's hard drive,   and they can be used for a wide range of purposes, such as identifying your   computer's previous visits to this website, and to ascertain the most popular   features of this website. </p>  <h2><strong>Why Do We Use Cookies?</strong> </h2> <p>Like many other websites, this website uses cookies as they enable us to identify   your computer when you visit this website. For example, cookies can make it   possible for us to identify and automatically log in registered users of certain   services on this website without the need for us to ask users for their registration   details and password each time they visit. We also use cookies to develop a   clearer picture of which parts of this website are the most popular to its   visitors, and your preferences. You are not obliged to accept cookies and you   may amend your browser's settings to prevent it from accepting cookies. <a href="http://www.allaboutcookies.org/manage-cookies/" target="_blank">Click   here</a> for instructions on how to disable cookies. </p>  <p>Please be aware that if you do disable cookies, certain services on this website   may not be available to you and your enjoyment of this website may be impaired. </p> <h2><strong>Links and Third Party Advertising </strong> </h2> <p>Any links on the website may take you to third party sites over which we have   no control. Similarly, advertisements appearing on this website may be posted   by third parties who may use their own cookies and have their own privacy policies.   When linking to another website you should read the privacy policy stated on   that website. This privacy policy covers the use made of cookies and personal   data by Emap and does not cover the use made of cookies and personal data by   any third parties. </p> <h2><strong>Feedback, Comments &amp; Suggestions </strong>  </h2> <p>If you have any queries about Our Privacy Policy or any queries about the   protection of personal information we hold about you, please do not hesitate   to contact us. Our address is heat magazine, emap consumer media, Endeavour   House, 189 Shaftesbury Avenue, London WC2H 8JG or email <a href="mailto:thebigcheese@heatworld.com?subject=Feedback" target="_blank">thebigcheese@heatworld.com </a></p> <p>If you do not agree with this Privacy Policy you should not submit your personal   information on this website. </p> </div>
+<div class="mainContentPadding"> <style>  h2{  	margin:0px; 	padding:0px; 	color:#CC0000; 	 margin-bottom:10px; font-size:12px; 	font-weight:bold; 	border-bottom:dotted; 	border-width:1px; } </style>    <p><strong>Heat Privacy &amp; Cookie Policy </strong> </p><h2><br>   <strong>Our Commitment To Your Privacy </strong> </h2> <p>Bauer  Consumer Media  (Bauer) is responsible for the website www.heatworld.com &nbsp;and   is committed to protecting your privacy and security. </p>  <p>From time to time we may invite you to supply personal information in order   for us to authenticate your identity or to provide you with services (such   as access to our subscriber-only services, our bulletin board, email newsletters   and competitions). In order to deliver such services, we will need to process   and store your personal information and may need to transfer it to the relevant   partner(s), to Bauer’s for processing both inside and outside the European   Economic Area (EEA). By submitting your personal information, you consent to   such processing and transfers in connection with such orders, offers or services   and for any other purposes to which you consent at the time you provide the   information or as provided in this privacy policy <em><a href="#whoelse">"Who   Else Will We Provide Your Data To?"</a></em></p> <p>Bauer is registered in accordance with and seeks to comply with the UK Data   Protection Act 1998. We follow appropriate security procedures in the storage   and disclosure of personal information so as to prevent unauthorised access   by third parties. We also require those parties to whom we transfer personal   information to comply with the same. However, the Internet is not a totally   secure medium and you acknowledge and agree that Bauer shall not be responsible   for any unauthorised use, distribution, damage or destruction of personal data,   except to the extent. We are required to accept such responsibility by the   Data Protection Act 1998.</p> <p>This Policy only applies to the use that we make of data provided to us via   the Internet and email. Other uses may be made of data provided to Bauer in   correspondence, by telephone or by other means not detailed in this Policy.   These terms apply in addition to <a href="termsandconditions.aspx">Terms &amp; Conditions   Of Use for the website</a>.</p> <h2><strong>Why We Need To Collect Information From You </strong> </h2> <p>We will notify you as to the types of information we are collecting about   you as well as the uses we intend to make of that information. We may use the   information we collect about you to notify you from time to time about important   new features and changes to our online services or special offers, competitions   or promotions we think you'll find of interest. &nbsp;</p>  <h2><strong>Special Promotions</strong> </h2> <p>Occasionally a third party may sponsor a promotion, offer, competition or   page of the website and you may be asked to provide personal information including   name, email address or home address or to answer questions in order to participate.   In those circumstances we may transfer personal information to those named   third parties that you have explicitly requested to receive information from.   It will be clear at the point of collection who is collecting the personal   information and whose privacy policy will apply.</p> <h2><strong><a name="whoelse" id="whoelse"></a>Who Else Will We Provide Your Data To? </strong> </h2> <p>Subject to what we say below, we will not pass on your personal details to   any third party, including site sponsors or advertisers, without your consent.   In order to provide goods and services to you we may need to provide your data   to our agents and service providers. We may provide aggregate statistics about   our users, sales, traffic patterns and related site information to our third-party   partners (if any), but these statistics will not contain any information about   you from which you could be identified. </p> <p>If you enter any competitions on this website it may be necessary for us to   provide your personal information to the promoters of the competition or to   others that are involved in the organisation of the competition or the prize-giving. </p> <p>Also, we may transfer your personal information to purchasers or subsidiaries   (and potential purchasers or subsidiaries) if Bauer acquires, or is acquired   by or merged with, another company. This will enable you, for example, to continue   your relationship with Heat despite a change of ownership. </p> <p>We may also need to provide your data to our subscription and other fulfilment   agents in order to provide goods or services to you. </p> <h2><strong>Content Posted by You</strong>  </h2> <p>Of course, if you post any personal information to any bulletin boards or   forums, this information will immediately be made available to other users   throughout the world who may use it to send you unsolicited communications.   Furthermore, in some circumstances we may display some of your personal information   (such as username and age) when you post material to the website to allow users   to identify each other. At the point of providing personal information, we   will advise you of what information may be displayed to other users. Also,   if you post any content in breach of our <u><a href="termsandconditions.aspx">Terms &amp; Conditions</a></u> Of Use we   may inform any relevant third parties such as your employer, school e-mail/Internet   provider and law enforcement agencies about the content and your behaviour.</p> <h2><strong>Security and possibility of international transfer. </strong> </h2> <p>Please note that countries outside the EEA may not have the same level of   protection as countries within the EEA, but we always demand that those parties   to whom we transfer data adhere to the same security procedures that we follow   ourselves. By submitting your personal information, you consent to such processing   and transfers in connection with such orders, offers or services and for any   other purposes to which you consent at the time you provide the information. </p> <h2><strong>The Use Of 'Cookies' </strong> </h2> <p>In order to enable us to provide you with a personalised browsing experience,   this site uses 'cookie' information collection technology.  "Cookies" are   small pieces of information that are issued to your computer when you enter   a website. Cookies are stored by your browser on your computer's hard drive,   and they can be used for a wide range of purposes, such as identifying your   computer's previous visits to this website, and to ascertain the most popular   features of this website. </p>  <h2><strong>Why Do We Use Cookies?</strong> </h2> <p>Like many other websites, this website uses cookies as they enable us to identify   your computer when you visit this website. For example, cookies can make it   possible for us to identify and automatically log in registered users of certain   services on this website without the need for us to ask users for their registration   details and password each time they visit. We also use cookies to develop a   clearer picture of which parts of this website are the most popular to its   visitors, and your preferences. You are not obliged to accept cookies and you   may amend your browser's settings to prevent it from accepting cookies. <a href="http://www.allaboutcookies.org/manage-cookies/" target="_blank">Click   here</a> for instructions on how to disable cookies. </p>  <p>Please be aware that if you do disable cookies, certain services on this website   may not be available to you and your enjoyment of this website may be impaired. </p> <h2><strong>Links and Third Party Advertising </strong> </h2> <p>Any links on the website may take you to third party sites over which we have   no control. Similarly, advertisements appearing on this website may be posted   by third parties who may use their own cookies and have their own privacy policies.   When linking to another website you should read the privacy policy stated on   that website. This privacy policy covers the use made of cookies and personal   data by Bauer and does not cover the use made of cookies and personal data by   any third parties. </p> <h2><strong>Feedback, Comments &amp; Suggestions </strong>  </h2> <p>If you have any queries about Our Privacy Policy or any queries about the   protection of personal information we hold about you, please do not hesitate   to contact us. Our address is heat magazine, Bauer Consumer Media, 21 Holborn Viaduct, London EC1A 2DY or email <a href="mailto:thebigcheese@heatworld.com?subject=Feedback" target="_blank">thebigcheese@heatworld.com </a></p> <p>If you do not agree with this Privacy Policy you should not submit your personal   information on this website. </p> </div>
     </div>
 
                     </div>
@@ -256,7 +234,7 @@
 				}
 				document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|311|1259801|0|168|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 				//-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|311|1259801|0|168|ADTECH;loc=100;target=_blank;key=;grp=623;misc=1582142134960"></script>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|311|1259801|0|168|ADTECH;loc=100;target=_blank;key=;grp=831;misc=1580401950275"></script>
 
 <noscript>
     <a href="http://adserver.adtech.de/adlink|3.0|311|1259801|0|168|ADTECH;loc=300;key="
@@ -276,7 +254,7 @@
 				}
 				document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|311|1259810|0|16|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 				//-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|311|1259810|0|16|ADTECH;loc=100;target=_blank;key=;grp=623;misc=1582142134962"></script>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|311|1259810|0|16|ADTECH;loc=100;target=_blank;key=;grp=831;misc=1580401950276"></script>
 
 <noscript>
     <a href="http://adserver.adtech.de/adlink|3.0|311|1259810|0|16|ADTECH;loc=300;key="
@@ -287,41 +265,8 @@
 </noscript>
 </div>
 
-
-<div class="mpu">
-<script language="javascript" type="text/javascript">
-				<!--
-				if (window.adgroupid == undefined) {
-					window.adgroupid = Math.round(Math.random() * 1000);
-				}
-				document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|311|1259777|0|16|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-				//-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|311|1259777|0|16|ADTECH;loc=100;target=_blank;key=;grp=623;misc=1582142134963"></script>
-
-<noscript>
-    <a href="http://adserver.adtech.de/adlink|3.0|311|1259777|0|16|ADTECH;loc=300;key="
-        target="_blank">
-        <img src="http://adserver.adtech.de/adserv|3.0|311|1259777|0|16|ADTECH;loc=300;key="
-            border="0" width="1" height="1"
-            alt="advert" /></a>
-</noscript>
-</div>
-
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="120" height="180">   <param name="movie" value="http://www.heatworld.com/flash/outnow.swf">   <param name="quality" value="high">   <embed src="http://www.heatworld.com/flash/outnow.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="120" height="180"> </object>
-<script type="text/javascript">
-google_ad_client = "pub-9409927537932857";
-google_ad_width = 120;
-google_ad_height = 600;
-google_ad_format = "120x600_as";
-google_ad_type = "text";
-google_ad_channel = "";
-google_color_border = "e0e0e0";
-google_color_bg = "e0e0e0";
-google_color_link = "000033";
-google_color_text = "000000";
-google_color_url = "940F04";
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="120" height="180">   <param name="movie" value="http://www.heatworld.com/flash/outnow.swf">   <param name="quality" value="high">   <embed src="http://www.heatworld.com/flash/outnow.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="120" height="180"> </object> 
+ 
                         </div>
                         <!-- }}} adSpots -->
                         <div class="contain">
@@ -335,42 +280,42 @@ google_color_url = "940F04";
 	
 									<div class="sslStoryPadding">
 										<div class="sslStoryTripple">
-											<ul><li><a href="/Article/3547/Gethin+Jones/FIRST+picture+of+Gethin+and+Katherine+together!"><img src="/img/upload/83x83/1000024771.jpg" width="83" height="83" alt=""> <span class="linkText">Gethin and Kath – first pic</span></a></li></ul>
+											<ul><li><a href="/Article/5577/James+Corden/The+worlds+going+crazy+for+heat%e2%80%99s+James+Corden+pics!"><img src="/img/upload/83x83/1000039871.jpg" width="83" height="83" alt="The world's going crazy for heat’s James Corden pics!"> <span class="linkText">Corrr! Check out James Corden!</span></a></li></ul>
 										</div><!-- }}} hwStory -->
 									</div><!-- }}} hwStoryPadding -->
 									
 		
 									<div class="sslStoryPadding">
 										<div class="sslStoryTripple">
-											<ul><li><a href="/Article/3487/David+Beckham/This+is+our+favourite+picture+of+the+year+(thank+you+Becks!)"><img src="/img/upload/83x83/1000024463.jpg" width="83" height="83" alt=""> <span class="linkText">Drool, faint, swoon, etc...</span></a></li></ul>
+											<ul><li><a href="/Article/5689/Sex+And+The+City/We+LOVE+this+new+Sex+And+The+City+clip"><img src="/img/upload/83x83/1000040590.jpg" width="83" height="83" alt="We LOVE this new Sex And The City clip"> <span class="linkText">This is classic SATC!</span></a></li></ul>
 										</div><!-- }}} hwStory -->
 									</div><!-- }}} hwStoryPadding -->
 									
 		
 									<div class="sslStoryPadding">
 										<div class="sslStoryTripple">
-											<ul><li><a href="/Article/3557/Jodie+Marsh/Jodie+Marsh+splits+up+with+husband%2c+Matt"><img src="/img/upload/83x83/1000024832.jpg" width="83" height="83" alt=""> <span class="linkText">Jodie and Matt split</span></a></li></ul>
+											<ul><li><a href="/Article/5648/P+Diddy/Watch+P+Diddy+making+a+prat+of+himself"><img src="/img/upload/83x83/1000040332.jpg" width="83" height="83" alt="	 Watch P Diddy making a prat of himself"> <span class="linkText">P Diddy is SO not cool</span></a></li></ul>
 										</div><!-- }}} hwStory -->
 									</div><!-- }}} hwStoryPadding -->
 									
 		
 									<div class="sslStoryPadding">
 										<div class="sslStoryTripple">
-											<ul><li><a href="/Article/3482/Marc+Bannerman/Marc+Bannerman+questioned+by+police"><img src="/img/upload/83x83/1000024440.jpg" width="83" height="83" alt=""> <span class="linkText">Police question Bannerman</span></a></li></ul>
+											<ul><li><a href="/Article/5683/Charley+/Could+Charley+be+any+more+up+herself"><img src="/img/upload/83x83/1000040546.jpg" width="83" height="83" alt=""> <span class="linkText">Do shut up, Charley!</span></a></li></ul>
 										</div><!-- }}} hwStory -->
 									</div><!-- }}} hwStoryPadding -->
 									
 		
 									<div class="sslStoryPadding">
 										<div class="sslStoryTripple">
-											<ul><li><a href="/Article/3455/Sex+And+The+City/Watch+the+FIRST+Sex+And+The+City+Movie+trailer!"><img src="/img/upload/83x83/1000024266.jpg" width="83" height="83" alt=""> <span class="linkText">Scream! It's the SATC trailer!</span></a></li></ul>
+											<ul><li><a href="/Article/5672/Demi+Moore/Guess+who+this+is"><img src="/img/upload/83x83/1000040561.jpg" width="83" height="83" alt=""> <span class="linkText">Who's this little geek?</span></a></li></ul>
 										</div><!-- }}} hwStory -->
 									</div><!-- }}} hwStoryPadding -->
 									
 		
 									<div class="sslStoryPadding">
 										<div class="sslStoryTripple">
-											<ul><li><a href="/Article/3534/Sharon+Osbourne/Read+Sharon+Osbourne%e2%80%99s+fantastically+bitchy+comments+about+Dannii!"><img src="/img/upload/83x83/1000024639.jpg" width="83" height="83" alt=""> <span class="linkText">Shazza lets rip...</span></a></li></ul>
+											<ul><li><a href="/Article/5671/Hot+Men/Ooh%2c+look!+Weve+found+some+hot+men..."><img src="/img/upload/83x83/1000040476.jpg" width="83" height="83" alt=""> <span class="linkText">We've spied some hotties!</span></a></li></ul>
 										</div><!-- }}} hwStory -->
 									</div><!-- }}} hwStoryPadding -->
 									
@@ -388,7 +333,7 @@ google_color_url = "940F04";
 				}
 				document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|311|1259824|0|170|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 				//-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|311|1259824|0|170|ADTECH;loc=100;target=_blank;key=;grp=623;misc=1582142134975"></script>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|311|1259824|0|170|ADTECH;loc=100;target=_blank;key=;grp=831;misc=1580401950287"></script>
 
 <noscript>
     <a href="http://adserver.adtech.de/adlink|3.0|311|1259824|0|170|ADTECH;loc=300;key="
@@ -432,8 +377,9 @@ google_color_url = "940F04";
                 <!-- ### FOOTER -->
                 <div id="footer" class="contain">
                     <div class="footerPadding">
+                        <a style="color: Red; display:block; margin: 0 auto; text-align:center; padding-bottom:5px;" href="CelebrityIndex.aspx">All Celebrities</a>
                         
-<p>Emap London Lifestyle Limited, Registered Office: 40 Bernard Street, London, WC1N 1LW. Registered in England and Wales, no. 842309.</p> 					 					 <p>Copyright 2007 Emap - All rights reserved. All use is subject to our <a href="/TermsAndConditions.aspx" style="color:#0000FF" text-decoration:"underline"=""><u>Terms of Use</u> </a> and <a href="/PrivacyPolicy.aspx" style="color:#0000FF"><u>Privacy Policy</u></a>.</p> 
+<p>Bauer London Lifestyle, Registered Office: 21 Holborn Viaduct, London, EC1A 2DY. Registered in England and Wales, no. 842309.</p> 					 					 <p>Copyright 2008 Bauer - All rights reserved. All use is subject to our <a href="/TermsAndConditions.aspx" style="color:#0000FF" text-decoration:"underline"=""><u>Terms of Use</u> </a> and <a href="/PrivacyPolicy.aspx" style="color:#0000FF"><u>Privacy Policy</u></a>.</p> 
                     </div>
                     <!-- }}} footerPadding -->
                 </div>
@@ -447,7 +393,7 @@ google_color_url = "940F04";
     </div>
     <!-- }}} pageWrap -->
 
-    <script language="javascript" src="/inc/Stats.js" type="text/javascript"></script>
+    <script language="javascript" src="/inc/Stats.js" type="text/javascript"></script><script type="text/javascript" src="https://statse.webtrendslive.com/dcsnpbip510000wcru2ar37lb_7h2i/wtid.js"></script>
     <script language="javascript" src="/inc/loginForm.js" type="text/javascript"></script>
     
     <script type="text/javascript">
