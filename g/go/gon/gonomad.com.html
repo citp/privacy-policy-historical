@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the gonomad.com privacy policy that was archived on 2007-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071228063028id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gonomad.com privacy policy that was archived on 2008-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080522104448id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>GoNOMAD - Cultural, Educational and Adventure Travel</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
 <!--
-	MastheadChannel.ssi - Server Side Include file to be included after <TITLE>...</TITLE> in all GoNOMAD channel pages
+	innermastheadChannel.ssi - Server Side Include file to be included after <TITLE>...</TITLE> in all GoNOMAD channel pages
 -->
 <meta name="author" content="Max" hartshorne="">
 <meta name="rating" content="general">
@@ -16,6 +17,44 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link rev="made" href="mailto:info@gonomad.com">
 <link href="/styles/gonomad.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+TD {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.txtbox {
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:11px;
+	line-height:normal;
+	font-weight:normal;
+	color:#000000;
+	height:16px;
+	width:152px;
+	border:1px #6D9FCA solid;
+	background-color:#E9F2FC;
+}
+.style6 {
+	font-size: 11px;
+	font-weight: bold;
+}
+.style7 {	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.style8 {color: #CCCCCC}
+.txtbox1 {	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:11px;
+	line-height:normal;
+	font-weight:normal;
+	color:#000000;
+	height:16px;
+	width:146px;
+	border:1px #6D9FCA solid;
+	background-color:#E9F2FC;
+}
+-->
+</style>
 <!-- script src="/Scripts/highlightCurrentChannel.js" type="text/javascript"></script -->
 <script type="text/JavaScript">
 <!--
@@ -84,34 +123,76 @@ function MM_swapImage() { //v3.0
 
 //-->
 </script>
+<script language="JavaScript" src="../../regionmenu.js"></script>
+<script language="JavaScript" src="../../menus.js"></script>
+<!--<SCRIPT LANGUAGE="JavaScript" SRC="activitymenu.js"></SCRIPT> -->
+<script language="JavaScript">
+function submitIt() {
+	//Get values from dropdown menus
+	var regionID = document.tripSearch.regions.options[document.tripSearch.regions.selectedIndex].value;
+    var region = document.tripSearch.regions.options[document.tripSearch.regions.selectedIndex].text;
+    var regionClean = region.replace(/ /g, "+");
+
+	var countryID = document.tripSearch.countries.options[document.tripSearch.countries.selectedIndex].value;
+	var country = document.tripSearch.countries.options[document.tripSearch.countries.selectedIndex].text;
+	var countryClean = (country.replace(/^-*/, "")).replace(/ /g, "+");
+
+	var destinationString = "";
+	var searchLink = "";
+
+	// Validate and build the  URL to search result page
+	if ((regionID == "0") && (countryID == "0")) {
+      	searchLink = "http://www.iexplore.com/trip/query_results.jhtml?aff=7103";
+	}
+	else {
+		// Set the destination string
+		if (countryID != "0") {
+			destinationString = "&destination=" + countryClean;
+		}
+		else if (regionID != "0") {
+			destinationString = "&destination=" + regionClean;
+		}
+
+		searchLink = "http://www.iexplore.com/trip/query_results.jhtml?aff=7103" + destinationString;
+	}
+	window.location.href=searchLink;
+}
+</script>
+<!--BEGIN TAN HEADER TAG -->
+<script src="http://www.traveladvertising.com/Live/TanHeader.aspx?PlacementId=6421" language="javascript" type="text/javascript"></script>
+<!-- END TAN HEADER TAG-->
 </head>
 
 <body>
 
 <div id="topAd" align="center">
-<!--  begin ZEDO for channel: GoNomad ROS , publisher: GoNomad.com , Ad Dimension: Super Banner - 728 x 90 -->
-              <script language="JavaScript">
-			    var zflag_nid="355";
-				var zflag_cid="1151";
-				var zflag_sid="58";
-				var zflag_width="728";
-				var zflag_height="90";
-				var zflag_sz="14"; 
-        	  </script>
-              <iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=355;c=1151;s=58;d=14;w=728;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="728" height="90">
-              <script language="JavaScript" src="http://c5.zedo.com/jsc/c5/ff2.js"></script>
-              <noscript>
-                <a href="http://xads.zedo.com/ads2/r?n=355;c=1151;s=58;x=3584;u=j;z=[timestamp]" target="_blank"><img border="0" width="728" height="90" src="http://xads.zedo.com/ads2/x?n=355;c=1151;s=58;x=3584;u=j;z=[timestamp]" alt="Click here"></a>
-              </noscript>
-              </iframe>
-<!--  end ZEDO for channel: GoNomad ROS , publisher: GoNomad.com , Ad Dimension: Super Banner - 728 x 90 -->
+<iframe src="http://www.traveladvertising.com/Live/TanAd.aspx?PlacementId=6454&amp;kw=blank" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="728" height="90"> </iframe>
 </div>
 
 <table id="topBar" width="100%" border="0">
   <tbody><tr>
     <td width="50%" height="82"><a href="/index.html">
 	<img src="/images/gonomad-logo-travel-guide.gif" alt="GoNomad Logo - Travel Articles from Real Travelers, Lowest Airfares, Destination Guides from Around the World. Hotel Rooms, Good Advice" title="GoNomad Logo - Travel Articles from Real Travelers, Lowest Airfares, Destination Guides from Around the World. Hotel Rooms, Good Advice" width="337" height="80" border="0">
-	</a></td>
+	</a></td> 
+	<td width="50%" align="center" valign="middle"></td><td width="50%" align="center" valign="middle">
+<script type="text/javascript">
+<!--
+google_ad_client = "pub-3209754257079578";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "ffffff";
+google_color_bg = "ffffff";
+google_color_link = "003300";
+google_color_text = "003300";
+google_color_url = "000000";
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</td> 
+    
     
   </tr>
 </tbody></table>
@@ -143,54 +224,92 @@ function MM_swapImage() { //v3.0
 	  <a href="mailto:editor@gonomad.com"><img src="/images/gonomad-email-contact-link.gif" alt="Contact GoNOMAD.com via email to get help scheduling your next trip, vacation or adventure." title="Email GoNOMAD" width="25" height="21" border="0" align="absbottom"></a>
 	  <a href="/index.html"><img src="/images/gonomad-home-travel-website.gif" alt="Home link for GoNOMAD.com for great inexpensive hotel rooms, travel guides, state tourism directories, exciting articles about exotic places and good help and advice" title="Home" width="53" height="21" border="0" align="absbottom"></a></td>
   </tr>
-  <tr>
-    <td height="68" align="center" valign="bottom" bgcolor="#ADA97A"><!--  { InfoHub.com -->
-      <script language="JavaScript" src="http://www.infohub.com/inc/tours_and_lodges.js" type="text/JavaScript"></script>
-      <img src="/images/black_stripes_fade2.jpg" width="805" height="8" align="left"><br>
-      <table border="0" cellspacing="0" cellpadding="0">
-        <form id="search" name="search" action="http://www.myaffiliateprogram.com/u/infohub/t.asp" method="GET" onsubmit="return redir(this);"></form>
-          <tbody><tr>
-            <td align="center"><img src="http://gonomad.com/images/search_binoculars.gif" alt="Search!" title="Search!" width="37" height="33" border="0" align="middle"></td>
-            <td align="center"><select name="region" class="formtype" id="region" style="font-size:11px; background-color:F5F5F5;" onchange="SwitchRegion()">
-            </select></td>
-            <td align="center" valign="middle"><div id="subregion_" style="display:none;">
-                <table width="100%" border="0">
-                  <tbody><tr>
-                    <td class="smallBlackBold">&nbsp;AND&nbsp;</td>
-                    <td><select name="loc_id" id="loc" style="font-size:11px; background-color:F5F5F5;">
-                      </select></td>
-                  </tr>
-                </tbody></table>
-            </div></td>
-            <td class="smallBlackBold" align="center">&nbsp;AND&nbsp;</td>
-            <td align="center"><select name="cat_id" class="formtype" id="cat" style="font-size:11px; background-color:F5F5F5;">
-            </select></td>
-            <td align="center"><input name="image" type="image" src="http://www.gonomad.com/images/gogo.gif" width="38" height="26" alt="Search" title="Search" border="0"></td>
-          </tr>
-        
-      </tbody></table>
-      <script language="JavaScript">
-document.onload = InitForm(0, 0, 0, 0, 0, 0, 0);
-
-function redir(f)
-{
-	if (FormValidate())
-	{
-		url = "http://www.myaffiliateprogram.com/u/infohub/t.asp?id=1007&p=scripts/html_cgi/affiliate/?af_type=1&af_id=1007&action=summary";
-		url += "&cat_id=" + f.cat_id.value;
-		url += "&loc_id=" + f.loc_id.value;
-		url += "&region=" + f.region.value;
-		window.location.href = url;
-	}
-
-	return false;
-}
-
-</script>
-      <span class="smallWhiteBold">Order FREE BROCHURES for thousands of exotic tours around the world</span></td>
-  </tr>
+  
 </tbody></table>
 
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td>
+<form name="tripSearch" style="padding-top: 1px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0" ;="">	
+      <tbody><tr>
+        <th width="11%" scope="row"><img src="../../img/find-your-trip.jpg" width="250" height="68"></th>
+        <th width="89%" background="../../img/bg.jpg" scope="row"><table width="100%" height="41" border="0" align="center" cellpadding="0" cellspacing="0">
+            <!--DWLayoutTable-->
+            <tbody><tr>
+              <td width="22" rowspan="2" align="left" valign="middle"><!--DWLayoutEmptyCell-->&nbsp;</td>
+              <td width="152" rowspan="3" align="left" valign="middle"><p><span class="style7">Region: 
+                <select name="regions" class="txtbox" onchange="changeSelects(document.tripSearch.regions.options[document.tripSearch.regions.selectedIndex].value);">
+                  <option>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  </option><option>
+                  </option><option>
+                  </option><option>
+                  </option><option>
+                </option></select>
+              </span>
+              </p></td>
+              <td width="50" height="13"></td>
+              <td width="152" rowspan="3" align="left" valign="middle"><p><span class="style7">Country: 
+                <select name="countries" class="txtbox">
+                  <option value="0">All Countries
+                  </option><option>
+                  </option><option>
+                  </option><option>
+                  </option><option>
+                </option></select>
+              </span>
+              </p></td>
+              <td width="50"></td>
+              <td width="56"></td> 
+              <td width="20" rowspan="3" align="center" valign="middle"><img src="../../img/line.gif"></td>
+              <td width="201"></td>
+              <!--<td width="67" rowspan="3" valign="middle"><div align="left"><span class="style8">Trip Search powered by: </span></div></td>
+              <td width="108" rowspan="3" valign="middle"><img src="../../img/logo.gif" width="96" height="38"></td> -->
+            </tr>
+            <tr>
+              <td rowspan="2" align="center" valign="middle"><img src="../../img/plus.gif" width="35" height="15"></td>
+              <td rowspan="2" align="center" valign="middle"><img src="../../img/equals.gif" width="35" height="15"></td>
+              <td rowspan="2" align="" valign="middle"><p><a href="javascript:submitIt()"><img src="../../img/go.gif" width="47" height="24" border="0"></a><br>
+              </p></td>
+              <td height="42"><droplet src="/droplets/header_ksearch.jhtml"></droplet></td>
+            </tr>
+            <tr>
+              <td height="7"></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td height="3"></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+        </tbody></table></th>
+      </tr>
+  </tbody></table>
+	<!--<p style="margin:0;> -->
+	<script language="JavaScript">
+	window.onLoad=relateRegions(this.regions,0,this.selectedIndex=0);
+	window.onLoad=document.tripSearch.countries.value="0";
+	</script>
+	  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-124119-1";
+urchinTracker();
+</script>
+
+<!--  End google analytics -->
+  
+</form> 
+</td>
+  </tr>
+</tbody></table>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">  
  <tbody><tr><td width="130" height="2304" align="left" valign="top"><table width="128" border="0" cellpadding="2" cellspacing="0">
@@ -272,76 +391,92 @@ subscriberopt
 
 </form>
 <a href="../corp/list.html" onmouseover="changeImages('image15', 'image15on', 'otherImage', 'otherImage15')" onmouseout="changeImages('image15', 'image15off', 'otherImage', 'otherImageDefault')"><img name="image15" src="../images/lnav_list.gif" alt="Get Listed!" width="130" height="21" border="0"></a><font size="-2" face="helvetica,arial"><br>Give your travel business the exposure it deserves. Click here to get listed in GoNOMAD's searchable directory</font><br><br><a href="../specials/specials.html" onmouseover="changeImages('image16', 'image16on', 'otherImage', 'otherImage16')" onmouseout="changeImages('image16', 'image16off', 'otherImage', 'otherImageDefault')"><img name="image16" src="../images/lnav_deals.gif" alt="Travel Deals" width="130" height="21" border="0"></a><font size="-2" face="helvetica,arial"><br>Want to go? Search for international<b> airfare specials, hotel bargains,</b> <b>group tours and car rentals. </b>We update them every 10 minutes, so you're guaranteed to find the lowest prices from the top providers.</font><br><br>
-<a href="http://www.gonomad.com/caravan/caravan.html" onmouseover="changeImages('image12', 'image12on', 'otherImage', 'otherImage12')" onmouseout="changeImages('image12', 'image12off', 'otherImage', 'otherImageDefault')"><img name="image12" src="../images/lnav_caravan.gif" alt="Caravan/Forums" width="130" height="21" border="0"></a><font size="-2" face="helvetica,arial"><br>Travelogues, adventures, misadventures and more from real travelers...</font><br><br><a href="../helps/helps.html" onmouseover="changeImages('image13', 'image13on', 'otherImage', 'otherImage13')" onmouseout="changeImages('image13', 'image13off', 'otherImage', 'otherImageDefault')"><img name="image13" src="../images/lnav_helps.gif" alt="Travel Helps" width="130" height="21" border="0"></a><font size="-2" face="helvetica,arial"><br>Check out sustainable and responsible tourism projects around the world that you can help support</font><br><br><a href="../market/market.html" onmouseover="changeImages('image14', 'image14on', 'otherImage', 'otherImage14')" onmouseout="changeImages('image14', 'image14off', 'otherImage', 'otherImageDefault')"><img name="image14" src="../images/lnav_market.gif" alt="Marketplace" width="130" height="21" border="0"></a><br><font size="-2" face="helvetica,arial">Shop the world for books, world music, travel accessories, handcrafts and more...</font><br><br>
+<a href="http://www.gonomad.com/discussionboard/discussionboard.html" onmouseover="changeImages('image12', 'image12on', 'otherImage', 'otherImage12')" onmouseout="changeImages('image12', 'image12off', 'otherImage', 'otherImageDefault')"><img name="image12" src="../images/lnav_caravan.gif" alt="Caravan/Forums" width="130" height="21" border="0"></a><font size="-2" face="helvetica,arial"><br>Ask travel questions, get answers on our <span style="color: #FF0000;">new </span> Traveler's Forum <a href="../../discussionboard/discussionboard.html">Try it Now</a></font><br><br><a href="../helps/helps.html" onmouseover="changeImages('image13', 'image13on', 'otherImage', 'otherImage13')" onmouseout="changeImages('image13', 'image13off', 'otherImage', 'otherImageDefault')"><img name="image13" src="../images/lnav_helps.gif" alt="Travel Helps" width="130" height="21" border="0"></a><font size="-2" face="helvetica,arial"><br>Check out sustainable and responsible tourism projects around the world that you can help support</font><br><br><a href="../market/market.html" onmouseover="changeImages('image14', 'image14on', 'otherImage', 'otherImage14')" onmouseout="changeImages('image14', 'image14off', 'otherImage', 'otherImageDefault')"><img name="image14" src="../images/lnav_market.gif" alt="Marketplace" width="130" height="21" border="0"></a><br><font size="-2" face="helvetica,arial">Shop the world for books, world music, travel accessories, handcrafts and more...</font><br><br>
 <hr>
 <font size="-2" color="#663300" face="tahoma,verdana,helvetica,arial">Share your travels!<br><a href="../corp/writerguidelines.htm">Click here to submit your stories to us!</a></font><br>
 <br>
 
 <link href="../styles/gonomad.css" rel="stylesheet" type="text/css">
-<table width="130" border="0" cellspacing="0">
+<style type="text/css">
+<!--
+.style26 {
+	font-size: 10;
+	font-weight: bold;
+}
+.style27 {color: #993333}
+.style31 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold; }
+-->
+</style>
+<br><table width="130" border="0" cellspacing="0">
   <tbody><tr>
-    <td align="center">
-	  <div class="lowerLeftSideBox" style="margin-top: 0px"> <a href="http://www.nyttravelshow.com/"><img src="/corp/images/nyttravelshow08.jpg" alt="Visit the New York Times Travel Show in March, 2008." width="125" height="55" border="1"></a><br>
-        <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.nyttravelshow.com/">Meet GoNOMAD Staffers!</a></font><br>
-        <br>
-	  <table width="130">
-	    <tbody><tr>
-	      <td align="center"><a href="http://www.airtreks.com/tools/TripPlannerIntro.cgi?ref=GONOMAD&amp;v=31"><img src="http://www.gonomad.com/banners/transports/airtrek.gif" alt="Airtrek" width="85" height="85" border="0"><br>
-	        </a><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong><a href="http://www.gonomad.com/traveldesk/round-the-world-tickets.html">Around The World<br>
-	          Airline Tickets</a></strong></font></td>
-	      </tr>
-	    </tbody></table>
-	  </div><div class="lowerLeftSideBox">
-	<table width="130">
-		  <tbody><tr>
-			<td align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.gonomad.com/transports/0405/renting_a_car_in_europe.html?aff=gonomad"><img src="http://www.gonomad.com/images/autoeurope_small.gif" alt="rentacar-europe" width="128" height="26" border="0"><br>
-			  Rent a car in Europe:</a> You'll see more,
-			  do more and have a lot more fun!</font></td>
-		  </tr>
-	</tbody></table>
-	</div>
-	
-	<div class="lowerLeftSideBox">
-	<table width="130" border="1" cellpadding="2" cellspacing="2" bgcolor="#FFFF66">
-		  <tbody><tr>
-			<td><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><b><font color="#993300">RESERVE AIRPORT PARKING IN </font></b><br>
-				  <br>
-			  *<a href="http://www.airportparkingreservations.com/airports/seattle/index.shtml?refID=866">SEATTLE</a><br>
-			  *<a href="http://www.airportparkingreservations.com/airports/philadelphia/index.shtml?refID=866&amp;subid=PHL">PHILLY</a><br>
-			  *<a href="http://www.airportparkingreservations.com/airports/oakland/index.shtml?refID=866">OAKLAND</a><br>
-			  *<a href="http://www.airportparkingreservations.com/airports/losangeles/index.shtml?refID=866">LOS ANGELES </a><br>
-			  *<a href="http://www.airportparkingreservations.com/airports/newark/index.shtml?refID=866">NEWARK</a><br>
-			  *<a href="http://www.airportparkingreservations.com/airports/chicago/index.shtml?refID=866">CHICAGO</a><br>
-			  *<a href="http://www.gonomad.com/traveldesk/airportparking.html">OTHER CITIES</a><br>
-			  <br>
-			  Save money, time and support GoNOMAD!</font></td>
-		  </tr>
-	</tbody></table>
-	</div>
-	
-	<div class="lowerLeftSideBox">
-	<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=355;c=1151;s=58;d=8;w=120;h=600" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" width="120" height="600">
-		<script language="JavaScript" type="text/javascript" src="http://c5.zedo.com/jsc/c5/ff2.js"></script>
-		<noscript>
-		<a href="http://xads.zedo.com/ads2/r?n=355;c=1151;s=58;x=2048;u=j;z=[timestamp]"
-	target="_blank"><img border="0" width="120" height="600"
-	src="http://xads.zedo.com/ads2/x?n=355;c=1151;s=58;x=2048;u=j;z=[timestamp]" alt="Click
-	here" /></a>
-		</noscript>
-	</iframe>
-	</div>
-  </td>
+
+    <td align="center"><script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+      <script type="text/javascript">_qacct="p-e1Lwqn2NyP7FA";quantserve();</script>
+      <noscript>
+  <a href="http://www.quantcast.com/p-e1Lwqn2NyP7FA" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-e1Lwqn2NyP7FA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+      </noscript>
+      <!-- End Quantcast tag -->
+      
+      <span class="leftIndented"><a href="http://fusion.google.com/add?feedurl=http%3A//www.gonomad.com/rss/news.xml"><img src="http://buttons.googlesyndication.com/fusion/add.gif" width="104" height="17" border="0" alt="Add to Google"></a></span><br>
+      <br>
+      <script type="text/javascript"><!--
+google_ad_client = "pub-3209754257079578";
+/* 120x240, created 5/21/08 */
+google_ad_slot = "9803804565";
+google_ad_width = 120;
+google_ad_height = 240;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br>
+      <br>
+      <br>
+      
+          
+      <table width="115" align="center">
+        <tbody><tr>
+          <td width="107" align="center"><a href="http://www.airtreks.com/tools/TripPlannerIntro.cgi?ref=GONOMAD&amp;v=31"><img src="http://www.gonomad.com/banners/transports/airtrek.gif" alt="Airtrek" width="85" height="85" border="0"><br>
+            </a><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong><a href="http://www.gonomad.com/traveldesk/round-the-world-tickets.html">Around The World<br>
+          Airline Tickets</a></strong></font></td>
+        </tr>
+      </tbody></table>
+      
+      <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.gonomad.com/transports/0405/renting_a_car_in_europe.html?aff=gonomad"><br>
+    <br>
+    <img src="http://www.gonomad.com/images/autoeurope_small.gif" alt="rentacar-europe" width="128" height="26" border="0"></a></font>
+      <table width="130">
+        <tbody><tr>
+          <td align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.gonomad.com/transports/0405/renting_a_car_in_europe.html?aff=gonomad">            Rent a car in Europe:</a> You'll see more,
+            do more and have a lot more fun!</font></td>
+        </tr>
+      </tbody></table>
+      <br>
+      <table align="center" cellpadding="5">
+        <tbody><tr>
+          <td><a href="http://www.iexplore.com/?aff=7103"><img src="/ssi/images/sphinx.jpg" alt="Take a Tour to Anywhere with this new GoNOMAD tour directory." border="1"></a> <br>
+            <font size="1"><a href="http://www.iexplore.com/?aff=7103"><strong><font face="Verdana, Arial, Helvetica, sans-serif">Find a tour</font></strong></a><font face="Verdana, Arial, Helvetica, sans-serif"> anywhere in our new <a href="http://www.iexplore.com/?aff=7103"><strong>Tours Directory</strong></a> from iExplore!</font></font></td>
+        </tr>
+      </tbody></table>
+      <br>
+      <br>
+      <table width="141" align="center" cellpadding="10">
+        <tbody><tr>
+          <td height="204" bgcolor="#66FFFF"><span class="style31">More value, more room to relax when you rent a <a title="vacation rental homes" href="http://gonomad.zonder.com">vacation <br>
+            home</a>, <a title="vacation rental condos" href="http://gonomad.zonder.com">rental   condo</a>,<br>
+            <a title="cabin rentals" href="http://gonomad.zonder.com">cabin</a> or <a title="cottage rentals" href="http://gonomad.zonder.com">cottage</a>. </span><br>
+            <br>
+            <img src="http://www.gonomad.com/lodgings/images/Vacation-Rentals-by-Zonder.jpg" alt="Vacation Rentals from GoNOMAD!" width="100" height="70" longdesc="http://gonomad.zonder.com"><br>
+            <p class="style2"><strong>Search now for<br>
+            <a title="vacation home rentals" href="http://gonomad.zonder.com">vacation rentals!</a></strong><br>
+          </p></td>
+        </tr>
+      </tbody></table>
+    </td>
   </tr>
 </tbody></table>
 
-<br>
-<br>
-<br>
-<!--  begin ZEDO for channel: GoNomad ROS , publisher: GoNomad.com , Ad Dimension: Skyscraper - 120 x 600 -->
-<script language="JavaScript">
-var zflag_nid="355"; var zflag_cid="1151"; var zflag_sid="58"; var zflag_width="120"; var zflag_height="600"; var zflag_sz="8"; 
-</script>
-<!--  end ZEDO for channel: GoNomad ROS , publisher: GoNomad.com , Ad Dimension: Skyscraper - 120 x 600 -->
+
+
  </td>
  <!-- Spacer column -->
     <td width="10"><img src="../images/shim.gif" width="10" height="1"></td>
@@ -359,19 +494,7 @@ var zflag_nid="355"; var zflag_cid="1151"; var zflag_sid="58"; var zflag_width="
 </i></p></font><p><font size="2" face="trebuchet,verdana,helvetica,arial"><i>Please take the time to review our Privacy Statement to understand what we do to protect you.</i></font>
 <table width="25%" align="left" cellspacing="10">
   <tbody><tr>
-    <td><iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=355;c=1151;s=58;d=&#10;9;w=300;h=250" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="300" height="250">
-      <script language="JavaScript"
-src="http://c5.zedo.com/jsc/c5/ff2.js"></script>
-      <noscript>
-        <a
-href="http://xads.zedo.com/ads2/r?n=355;c=1151;s=58;x=2304;u
-=j;z=[timestamp]" target="_blank"><img border="0"
-width="300" height="250"
-src="http://xads.zedo.com/ads2/x?n=355;c=1151;s=58;x=2304;u=
-j;z=[timestamp]" alt="Click here"></a>
-        </noscript>
-      </iframe>
-      &nbsp;</td>
+    <td><iframe src="http://www.traveladvertising.com/Live/TanAd.aspx?PlacementId=6455&amp;kw=blank" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="300" height="250"> </iframe></td>
   </tr>
 </tbody></table>
 <font size="2" face="trebuchet,verdana,helvetica,arial">
@@ -517,7 +640,7 @@ If you have any further questions or suggestions about this privacy statement, p
 &nbsp;         
 <table width="20" border="0" align="center" cellpadding="5">
   <tbody><tr>
-    <td><iframe src="http://www.get-me-the-money.com/hyaff8l/adel/ifdel_01.asp?fm_mic=prev6pe&amp;fm_datecalc=&amp;wid=f019" id="F019" width="120" height="90" marginwidth="0" marginheight="0" frameborder="NO" scrolling="NO" align="CENTER"></iframe></td>
+    <td><iframe src="http://www.bookingdragon.com/hyaff8l/adel/ifdel_01.asp?fm_mic=prev6pe&amp;fm_datecalc=&amp;wid=f019" id="F019" width="120" height="90" marginwidth="0" marginheight="0" frameborder="NO" scrolling="NO" align="CENTER"></iframe></td>
     </tr>
 </tbody></table>
 <!--  end clickXchange, v2.4 -->
@@ -525,42 +648,72 @@ If you have any further questions or suggestions about this privacy statement, p
        <br>
        
 <link href="../styles/gonomad.css" rel="stylesheet" type="text/css">
-<table width="130" border="0" cellspacing="0">
-  <tbody><tr>
-    <td align="center"><div class="rightSideBox">
-        
-              </div></td>
-          </tr>
-        </tbody></table>
-      
-      <div class="rightSideBox">
-        <table width="130" border="0" align="center" cellpadding="5" cellspacing="0">
-          <tbody><tr>
-            <td id="wecanhelp" width="134" align="left" valign="top" bgcolor="#E3E2D2">
-			    GoNOMAD:<br>wherever you want to go we can help!<br><br>
-                <a target="_blank" href="http://www.gonomad.com/airfares.html">Guaranteed Lowest Airfares</a><br><br>
-                <a href="http://www.gonomad.com/traveldesk/round-the-world-tickets.html">Around the World Airline Tickets</a><br><br>
-                <a href="http://www.gonomad.com/insurance.html">World Nomads Travel Insurance</a><br><br>
-                <a href="http://www.gonomad.com/traveldesk/0505/renting_a_cellphone_while_traveling.html">Rent a Cellphone Abroad</a><br>
-                <br>
-				<a href="http://www.autoeurope.com/car.cfm?aff=GONOMAD">Car Rentals in Europe </a><br><br>
-                <a href="http://www.gonomad.com/traveldesk/airportparking.html">Airport Parking at all Major US Airports</a><br><br>
-                <a target="_blank" href="http://www.bookingwiz.com/default.asp?prod=hotel&amp;mic=prev6pe">Compare and find the Best Hotel Rates</a><br><br>
-                <a target="_blank" href="http://www.bookingwiz.com/default.asp?prod=car&amp;mic=prev6pe">Compare prices for major rental car companies</a><br><br>
+<style type="text/css">
+<!--
+.style26 {color: #993300}
+-->
+</style>
+                               
+                  
+              
+			  
+<div class="rightSideBox">
+                <table width="130" border="0" align="center" cellpadding="5" cellspacing="0">
+                  <tbody><tr>
+                    <td id="wecanhelp" width="134" align="left" valign="top" bgcolor="#E3E2D2"><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GoNOMAD:<br>
+                    wherever you want to go we can help!</font></p>
+                      <p><a target="_blank" href="http://www.gonomad.com/airfares.html">Guaranteed Lowest Airfares</a><br>
+                        <br>
+                        <a href="http://www.gonomad.com/traveldesk/round-the-world-tickets.html">Around the World Airline Tickets</a><br>
+                        <br>
+                        <a href="http://www.gonomad.com/insurance.html">World Nomads Travel Insurance</a><br>
+                        <br>
+                        <a href="http://www.gonomad.com/traveldesk/0505/renting_a_cellphone_while_traveling.html">Rent a Cellphone Abroad</a><br>
+                        <br>
+                        <a href="http://www.autoeurope.com/car.cfm?aff=GONOMAD">Car Rentals in Europe </a><br>
+                        <br>
+                        <font face="Verdana," arial,="Arial," helvetica,="Helvetica," sans-serif="sans-serif" size="1"><strong><a href="http://gonomad.zonder.com">Vacation Rentals</a></strong></font><br>
+                        <br>
+                        <a href="http://www.gonomad.com/traveldesk/airportparking.html">Airport Parking at all Major US Airports</a><br>
+                        <br>
+                        <a target="_blank" href="http://www.bookingwiz.com/default.asp?prod=hotel&amp;mic=prev6pe">Compare and find the Best Hotel Rates</a><br>
+                        <br>
+                        <a target="_blank" href="http://www.bookingwiz.com/default.asp?prod=car&amp;mic=prev6pe">Compare prices for major rental car companies</a><br>
+                        <br>
+                      </p></td>
+                  </tr>
+                </tbody></table>
+               
+</div><script language="" type="text/javascript">
+<!-- 
+google_ad_client = "pub-3209754257079578";
+google_alternate_ad_url = "http://www.gonomad.com/includes/google_adsense.html";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_color_border = "E2E3D3";
+google_color_bg = "E2E3D3";
+google_color_link = "666633";
+google_color_url = "990000";
+google_color_text = "000000";
+//-->
+</script>
+           
+            <div class="rightSideBox">
+			<iframe src="http://www.traveladvertising.com/Live/TanAd.aspx?PlacementId=9663&amp;kw=blank" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="120" height="600"> </iframe>
+                        
+</div>
             </td>
-          </tr>
-        </tbody></table>
-      </div>
-      <div class="rightSideBox">
-        
+        </tr>
+      </tbody></table>
 
-       <br></div></td>
- </tr>
+       <br>
+ 
 <!-- Shim Row -->
-  <tr>
-    <td colspan="5">&nbsp;</td>
-  </tr>
-</tbody></table>
+  
+    &nbsp;
+  
+
 
 
 
@@ -577,6 +730,12 @@ urchinTracker();
 
 
 <link href="../styles/gonomad.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.style26 {color: #FF0000}
+.style28 {color: #FF0000; font-weight: bold; }
+-->
+</style>
 <table width="100%" border="0" cellspacing="0">
   <tbody><tr>
     <td width="98%" align="center" class="footer">
@@ -602,25 +761,26 @@ google_color_text = "000000";
 </tbody></table>
 <br>
       <div id="footerLinks">
-              <p id="tellafriendLink"><a href="http://www.gonomad.com/tell-a-friend/recommend.php">Send this page to a friend</a> &nbsp;<a href="http://digg.com/login"><img src="http://digg.com/img/badges/85x10-digg-link.gif" alt="Digg! This Article" width="85" height="10" border="0"></a>&nbsp;<a href="http://www.gonomad.com/rss/news.xml"><img src="/rss/xml.gif" alt="Subscribe to GoNOMAD's Feed, read stories when they are posted right on your desktop!" width="36" height="14" border="0"><img src="/rss/rss.png" alt="Subscribe to GoNOMAD's Feed, read stories when they are posted right on your desktop!" width="36" height="14" border="0"></a></p>
-        <a href="http://www.gonomad.com">Home</a> | <a href="http://www.gonomad.com/corp/contact.html">Contact Us</a> |  <a href="http://www.gonomad.com/corp/authors.html">GoNOMAD Authors</a> | <a href="http://www.gonomad.com/corp/press_room.html">Press Room</a> | <a href="http://www.gonomad.com/corp/awards.html">Awards</a> | <a href="http://www.gonomad.com/corp/network.html">About The GoNOMAD Network</a> |<a href="http://www.gonomad.com/traveldesk/What_readers_are_saying_about_gonomad.html"> Reader Comments</a><br>
-<br> 
-          | <a href="http://www.gonomad.com/articles.html">Read More Articles</a> <a href="http://www.gonomad.com/insurance.html">| Travel Insurance </a><br>
-  <br>
-          <a href="http://www.gonomad.com/blogs/blogs.html">GoNOMAD Blogs</a> | <a href="http://www.gonomad.com/corp/about.html">About GoNOMAD</a> | <a href="http://www.gonomad.com/corp/privacy.html">Privacy Statement</a> | <a href="http://www.gonomad.com/corp/terms.html">Terms of Use</a>&nbsp; | <a href="http://www.gonomad.com/corp/authors.html">GoNomad Contributors</a> | <a href="http://www.gonomad.com/corp/mediakit.html">GoNOMAD Media Kit</a> | <a href="http://www.gonomadcafe.com">GoNOMAD CAFE</a> <a href="http://www.gonomad.com/traveldesk/round-the-world-tickets.html"><br>
+        <p id="tellafriendLink"><font face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.gonomad.com/tell-a-friend/recommend.php"><font size="1">Send this page to a friend</font></a> <font size="1">&nbsp;<a href="http://digg.com/login"><img src="http://digg.com/img/badges/85x10-digg-link.gif" alt="Digg! This Article" width="85" height="10" border="0"></a> &nbsp;<a href="http://www.gonomad.com/rss/news.xml"><img src="/rss/xml.gif" alt="Subscribe to GoNOMAD's Feed, read stories when they are posted right on your desktop!" width="36" height="14" border="0"><img src="/rss/rss.png" alt="Subscribe to GoNOMAD's Feed, read stories when they are posted right on your desktop!" width="36" height="14" border="0"></a> &nbsp;&nbsp; <a href="http://www.stumbleupon.com/submit?url=http://www.gonomad.com/">Stumble It!</a></font></font></p>
+        <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.gonomad.com">Home</a> | <a href="http://www.gonomad.com/corp/contact.html">Contact Us</a> | <a href="http://www.gonomad.com/corp/authors.html">GoNOMAD Authors</a> | <a href="http://www.gonomad.com/corp/press_room.html">Press Room</a> | <a href="http://www.gonomad.com/corp/awards.html">Awards</a> | <a href="http://www.gonomad.com/corp/network.html">About The GoNOMAD Network</a> |<a href="http://www.gonomad.com/traveldesk/What_readers_are_saying_about_gonomad.html"> Reader Comments</a><br>
+              <br>
+              <a href="http://www.gonomad.com/articles.html">Read More Articles</a> | <a href="http://www.gonomad.com/insurance.html">Travel Insurance </a> | | <a href="http://www.gonomad.com/corp/writerguidelines.html">Writer's Guidelines</a> | <a href="http://www.iexplore.com/?aff=7103" rel="nofollow">Adventure Tours</a> | <a href="http://www.gonomad.com/airfares.html">Buy Airline Tickets</a><br>
+              <br>
+              <a href="http://www.gonomad.com/blogs/blogs.html">GoNOMAD Blogs</a> | <a href="http://www.gonomad.com/corp/about.html">About GoNOMAD</a> | | <a href="http://www.gonomad.com/corp/authors.html">GoNomad Contributors</a> | <a href="http://www.gonomad.com/corp/mediakit.html">GoNOMAD Media Kit</a> | <a href="http://www.gonomadcafe.com">GoNOMAD CAFE</a> <a href="http://www.gonomad.com/traveldesk/round-the-world-tickets.html"><br>
+              <br>
+Around the World Airline Tickets</a> | <a href="http://www.gonomad.com/corp/advertising.html">Advertising Opportunities</a> | <a href="http://www.gonomad.com/corp/contributors.html">GoNOMAD Staff</a> | <a href="http://www.gonomad.com/corp/linktous.html">Link to Us</a> | <a href="http://www.gonomad.com/simplefront.html">Newsletter Back Issues</a> <br>
+|<br>
+<a href="http://www.gonomad.com/traveldesk/airportparking.html">US Canada Airport Parking Reservations</a><strong>&nbsp;&nbsp;|&nbsp;&nbsp;</strong><a href="http://www.gonomad.com/transports/0405/renting_a_car_in_europe.html?aff=gonomad">Car Rentals in Europe</a><strong> &nbsp;|&nbsp;<a href="http://www.airportparkingusa.net">&nbsp;</a></strong><a href="http://www.airportparkingusa.net">Airport Parking USA</a> | <a href="http://www.gonomad.com/sitemap/gonomad-sitemap.html">Sitemap </a>|<a href="http://gonomad.zonder.com"> <span class="style28">NEW</span><span class="style26"><strong>!</strong></span> Vacation Rentals Directory </a><br>
 <br>
-                      Around the World Airline Tickets</a> | <a href="http://www.gonomad.com/corp/advertising.html">Advertising Opportunities</a> | <a href="http://www.gonomad.com/corp/contributors.html">GoNOMAD Staff</a> | <a href="http://www.gonomad.com/corp/linktous.html">Link to Us</a> | <a href="http://www.gonomad.com/simplefront.html">Newsletter Back Issues</a> <br>
-                      |<br>
-                      <strong><a href="http://www.gonomad.com/traveldesk/airportparking.html">US Canada Airport Parking Reservations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.gonomad.com/transports/0405/renting_a_car_in_europe.html?aff=gonomad">Car Rentals in Europe</a> &nbsp;|&nbsp;<a href="http://www.airportparkingusa.net">&nbsp;Airport Parking USA</a></strong> | <a href="http://www.gonomad.com/sitemap/gonomad-sitemap.html">Sitemap </a><br>
-                          <br>
-                          <a href="http://www.teachabroad.com/GONOMAD/gn-search.cfm">Teaching Jobs Abroad Directory</a> | <a href="http://www.languageschoolsguide.com/gonomad/gn-search.cfm" target="_blank">Language Schools Directory</a> | <a href="http://www.volunteerabroad.com/gonomad/gn-search.cfm" target="_blank">Volunteering Programs Directory</a> | <a href="http://www.bookingwiz.com/default.asp?prod=car&amp;mic=prev6pe">Car Rentals</a> | <br>
-                          <a href="http://www.bookingwiz.com/default.asp?prod=hotel&amp;mic=prev6pe">Find Cheap Hotel Rooms </a><br>
-                        <br>
-                          <a href="http://www.gonomad.com/corp/links.html">Useful Travel Links</a> | <a href="http://www.gonomad.com/airfares.html">Buy Airline Tickets </a>| <a href="http://www.aroundtheworldradio.com/archives.html">Listen to Us </a>&nbsp;| <a href="http://gonomad.hotelplanner.com/">Group Hotel Rates </a>&nbsp;| <a href="http://www.parksleepfly.com/index.php?referredby=119">Airport Hotels </a> | <a href="http://www.gonomadcafe.com/webdesign.html">Website Design</a> | <a href="http://www.gonomad.com/corp/writerguidelines.html">Writer's Guidelines</a><a href="http://www.gonomadcafe.com/webdesign.html"> <br>
-                            </a><a href="http://www.parksleepfly.com/index.php?referredby=119"><br>
-                              </a>© Copyright 2007, GoNOMAD. All rights reserved</div>
+<a href="http://www.teachabroad.com/GONOMAD/gn-search.cfm">Teaching Jobs Abroad Directory</a> | <a href="http://www.languageschoolsguide.com/gonomad/gn-search.cfm" target="_blank">Language Schools Directory</a> | <a href="http://www.volunteerabroad.com/gonomad/gn-search.cfm" target="_blank" rel="nofollow">Volunteering Programs Directory</a> | <a href="http://www.bookingwiz.com/default.asp?prod=car&amp;mic=prev6pe">Car Rentals</a> | <br>
+<a href="http://www.bookingwiz.com/default.asp?prod=hotel&amp;mic=prev6pe" rel="nofollow"><br>
+Find Cheap Hotel Rooms</a> | <a href="/traveldesk/travel-radio-segments.html"><strong>Listen to Us: Travel Radio</strong></a><a href="http://www.gonomad.com/traveldesk/0505/renting_a_cellphone_while_traveling.html"> | Rent a cellphone abroad </a><a href="/traveldesk/travel-radio-segments.html"><strong> | </strong></a><a href="http://www.swiftpassportservices.com/gonomad.html"><font color="#FF0000"><strong>NEW!</strong></font> Passports in 24 hrs </a><a href="/traveldesk/travel-radio-segments.html"><strong><br>
+</strong></a><br>
+<a href="http://www.gonomad.com/corp/links.html">Useful Travel Links</a>&nbsp;| <a href="http://www.parksleepfly.com/index.php?referredby=119" rel="nofollow">Airport Hotels </a> | <a href="http://www.gonomadcafe.com/webdesign.html">GoNOMAD Website Design |</a> <a href="http://www.gonomad.com/corp/privacy.html">Privacy Statement</a> |&nbsp;<a href="/corp/terms.html">Terms of Use&nbsp;</a></font><a href="http://www.gonomadcafe.com/webdesign.html"><br>
+          </a><a href="http://www.parksleepfly.com/index.php?referredby=119" rel="nofollow"><br>
+      </a>© Copyright 2008, GoNOMAD. All rights reserved</div>
 
-<div align="center" id="bottomnav">
+      <div align="center" id="bottomnav">
 			<span>
 			<a href="/features/features.html">features</a>|<a href="/destinations/destinations.html">destinations</a>|<a href="/lodgings/lodgings.html">lodgings</a>|<a href="/transports/transports.html">transports</a>|<a href="/tours/tours.html">tours</a>|<a href="/alternatives/alternatives.html">alternatives</a>|<a href="/traveldesk/traveldesk.html">travel desk</a>|<a href="/womens/womensTravel.html">women's travel</a>|<a href="/family/familyTravel.html">family travel</a></span></div> 
 
@@ -633,7 +793,8 @@ google_color_text = "000000";
     </tbody></table></td>
     <td width="1%" align="center" class="footer">&nbsp;</td>
     <td width="1%" align="center" class="footer">&nbsp;</td>
-  </tr>
+  </tr><!--Revenue Science Page Tag - GoNOMAD -->
+<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=G07610&amp;bpid=S0227"></script>
 </tbody></table>
 
 
