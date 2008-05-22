@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketleader.com privacy policy that was archived on 2007-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071122081421id_/http%3A//www.marketleader.com/Terms_privacy.asp%3F%26pid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketleader.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522185628id_/http%3A//www.marketleader.com/Terms_privacy.asp%3F%26pid%3Dfooter) for the most accurate reproduction.*
 
 # Market Leader : Your Personal Marketing Assistant
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20071122081421id_/http%3A//www.marketleader.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20080522185628id_/http%3A//www.marketleader.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
