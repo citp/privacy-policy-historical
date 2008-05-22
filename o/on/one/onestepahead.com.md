@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestepahead.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210074857id_/http%3A//www.onestepahead.com/custserv/custserv.jsp%3FpageName%3DPrivacy_Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestepahead.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522073622id_/http%3A//www.onestepahead.com/custserv/custserv.jsp%3FpageName%3DPrivacy_Security) for the most accurate reproduction.*
 
 # One Step Ahead Baby - Privacy & Security
 
