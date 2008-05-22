@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heatworld.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222023704id_/http%3A//www.heatworld.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heatworld.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522131547id_/http%3A//www.heatworld.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Latest celebrity gossip, News and Celeb Pictures | Heat Magazine | Heatworld.com
 
@@ -7,13 +7,13 @@
 ##   
 **Our Commitment To Your Privacy**
 
-Emap Consumer Media Limited (Emap) is responsible for the website www.heatworld.com  and is committed to protecting your privacy and security. 
+Bauer Consumer Media (Bauer) is responsible for the website www.heatworld.com  and is committed to protecting your privacy and security. 
 
-From time to time we may invite you to supply personal information in order for us to authenticate your identity or to provide you with services (such as access to our subscriber-only services, our bulletin board, email newsletters and competitions). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to Emap’s for processing both inside and outside the European Economic Area (EEA). By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy _"Who Else Will We Provide Your Data To?"_
+From time to time we may invite you to supply personal information in order for us to authenticate your identity or to provide you with services (such as access to our subscriber-only services, our bulletin board, email newsletters and competitions). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to Bauer’s for processing both inside and outside the European Economic Area (EEA). By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy _"Who Else Will We Provide Your Data To?"_
 
-Emap is registered in accordance with and seeks to comply with the UK Data Protection Act 1998. We follow appropriate security procedures in the storage and disclosure of personal information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal information to comply with the same. However, the Internet is not a totally secure medium and you acknowledge and agree that Emap shall not be responsible for any unauthorised use, distribution, damage or destruction of personal data, except to the extent. We are required to accept such responsibility by the Data Protection Act 1998.
+Bauer is registered in accordance with and seeks to comply with the UK Data Protection Act 1998. We follow appropriate security procedures in the storage and disclosure of personal information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal information to comply with the same. However, the Internet is not a totally secure medium and you acknowledge and agree that Bauer shall not be responsible for any unauthorised use, distribution, damage or destruction of personal data, except to the extent. We are required to accept such responsibility by the Data Protection Act 1998.
 
-This Policy only applies to the use that we make of data provided to us via the Internet and email. Other uses may be made of data provided to Emap in correspondence, by telephone or by other means not detailed in this Policy. These terms apply in addition to [Terms & Conditions Of Use for the website](https://web.archive.org/web/20071222023704id_/http%3A//www.heatworld.com/termsandconditions.aspx).
+This Policy only applies to the use that we make of data provided to us via the Internet and email. Other uses may be made of data provided to Bauer in correspondence, by telephone or by other means not detailed in this Policy. These terms apply in addition to [Terms & Conditions Of Use for the website](https://web.archive.org/web/20080522131547id_/http%3A//www.heatworld.com/termsandconditions.aspx).
 
 ## **Why We Need To Collect Information From You**
 
@@ -29,13 +29,13 @@ Subject to what we say below, we will not pass on your personal details to any t
 
 If you enter any competitions on this website it may be necessary for us to provide your personal information to the promoters of the competition or to others that are involved in the organisation of the competition or the prize-giving. 
 
-Also, we may transfer your personal information to purchasers or subsidiaries (and potential purchasers or subsidiaries) if Emap acquires, or is acquired by or merged with, another company. This will enable you, for example, to continue your relationship with Heat despite a change of ownership. 
+Also, we may transfer your personal information to purchasers or subsidiaries (and potential purchasers or subsidiaries) if Bauer acquires, or is acquired by or merged with, another company. This will enable you, for example, to continue your relationship with Heat despite a change of ownership. 
 
 We may also need to provide your data to our subscription and other fulfilment agents in order to provide goods or services to you. 
 
 ## **Content Posted by You**
 
-Of course, if you post any personal information to any bulletin boards or forums, this information will immediately be made available to other users throughout the world who may use it to send you unsolicited communications. Furthermore, in some circumstances we may display some of your personal information (such as username and age) when you post material to the website to allow users to identify each other. At the point of providing personal information, we will advise you of what information may be displayed to other users. Also, if you post any content in breach of our _[Terms& Conditions](https://web.archive.org/web/20071222023704id_/http%3A//www.heatworld.com/termsandconditions.aspx)_ Of Use we may inform any relevant third parties such as your employer, school e-mail/Internet provider and law enforcement agencies about the content and your behaviour.
+Of course, if you post any personal information to any bulletin boards or forums, this information will immediately be made available to other users throughout the world who may use it to send you unsolicited communications. Furthermore, in some circumstances we may display some of your personal information (such as username and age) when you post material to the website to allow users to identify each other. At the point of providing personal information, we will advise you of what information may be displayed to other users. Also, if you post any content in breach of our _[Terms& Conditions](https://web.archive.org/web/20080522131547id_/http%3A//www.heatworld.com/termsandconditions.aspx)_ Of Use we may inform any relevant third parties such as your employer, school e-mail/Internet provider and law enforcement agencies about the content and your behaviour.
 
 ## **Security and possibility of international transfer.**
 
@@ -53,10 +53,10 @@ Please be aware that if you do disable cookies, certain services on this website
 
 ## **Links and Third Party Advertising**
 
-Any links on the website may take you to third party sites over which we have no control. Similarly, advertisements appearing on this website may be posted by third parties who may use their own cookies and have their own privacy policies. When linking to another website you should read the privacy policy stated on that website. This privacy policy covers the use made of cookies and personal data by Emap and does not cover the use made of cookies and personal data by any third parties. 
+Any links on the website may take you to third party sites over which we have no control. Similarly, advertisements appearing on this website may be posted by third parties who may use their own cookies and have their own privacy policies. When linking to another website you should read the privacy policy stated on that website. This privacy policy covers the use made of cookies and personal data by Bauer and does not cover the use made of cookies and personal data by any third parties. 
 
 ## **Feedback, Comments & Suggestions **
 
-If you have any queries about Our Privacy Policy or any queries about the protection of personal information we hold about you, please do not hesitate to contact us. Our address is heat magazine, emap consumer media, Endeavour House, 189 Shaftesbury Avenue, London WC2H 8JG or email [thebigcheese@heatworld.com ](mailto:thebigcheese@heatworld.com?subject=Feedback)
+If you have any queries about Our Privacy Policy or any queries about the protection of personal information we hold about you, please do not hesitate to contact us. Our address is heat magazine, Bauer Consumer Media, 21 Holborn Viaduct, London EC1A 2DY or email [thebigcheese@heatworld.com ](mailto:thebigcheese@heatworld.com?subject=Feedback)
 
 If you do not agree with this Privacy Policy you should not submit your personal information on this website. 
