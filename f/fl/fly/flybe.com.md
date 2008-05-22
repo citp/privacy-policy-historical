@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flybe.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213003510id_/http%3A//www.flybe.com/flightInfo/1privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flybe.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522104839id_/http%3A//www.flybe.com/flightInfo/1privacy.htm) for the most accurate reproduction.*
 
 # Flybe.com - Privacy policy
 
@@ -8,7 +8,7 @@ Flybe aims to provide the highest standards of customer service and to maintain 
 
 We would like to use some of your details so that Flybe and our partners can, from time to time, send you information (by post, phone, e-mail or sms) including offers and updates, that we think may be of interest. Under the Privacy and Electronic Communications Regulations 2003, registering your email address on the Flybe website will be considered as an opt in unless you explicitly select the opt out option during registration. All future emails that you receive from Flybe and our partners will also give you the opportunity to opt out. Flybe may, in exceptional circumstances, use your contact details to give you advance notice of operational issues or external factors that may affect any future travel you have booked with flybe. 
 
-## What information do we collect and use?
+## Information we collect & use
 
 We collect general statistical information about visitors to our website for general reporting and to improve future content.
 
@@ -29,7 +29,7 @@ In providing this information, you are giving your explicit consent for Flybe to
 
 Your sensitive personal data will not be disclosed to any third-parties except to the extent and the purpose that Flybe may be required to do so by any law, legislation, enactment, safety reason, or for the fulfilment of this contract between us in order to satisfy your requirements and that the disclosure is safe. 
 
-## Transfers of data outside of the UK:
+## Transfers of data outside of UK:
 
 We may need to send your data (including sensitive personal data) outside the UK so that we can comply with your requirements or for safety or legal reasons. 
 
