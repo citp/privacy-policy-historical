@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northerntool.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626193315id_/http%3A//www.northerntool.com/custhelp/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerntool.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522021331id_/http%3A//www.northerntool.com/custhelp/privacypolicy.htm%3Fnew1) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Help | Northern Tool + Equipment
 
@@ -20,7 +20,7 @@ NorthernTool.com uses a third-party service provider (Coremetrics) to collect an
 
 ## Opting Out
 
-You may withdraw your personal information from Northern at any time. To withdraw your information [email](http://www.northerntool.com/contactus/), or write us at: 
+You may withdraw your personal information from Northern at any time. To withdraw your information [email](https://web.archive.org/contactus/), or write us at: 
 
 Northern Tool + Equipment  
 Customer Service  
@@ -38,7 +38,7 @@ To learn more about Coremetrics, their privacy policies or how to opt-out of the
 
 NO! Northern will not sell, trade, share or rent your email address to anyone. We believe that your email address is personal and should be kept that way. We use your email address to provide you with better customer service support, and to update you on Northern Internet specials that you have requested. 
 
-If you purchase with us, your name may be exchanged with another company whose products and services may interest you. If you do not want your name exchanged, please let us know by [email](http://www.northerntool.com/contactus/) or call 1-800-222-5381. You can also write us at: 
+If you purchase with us, your name may be exchanged with another company whose products and services may interest you. If you do not want your name exchanged, please let us know by [email](https://web.archive.org/contactus/) or call 1-800-222-5381. You can also write us at: 
 
 Northern Tool + Equipment  
 Customer Service  
