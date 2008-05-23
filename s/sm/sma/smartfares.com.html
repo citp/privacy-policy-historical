@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smartfares.com privacy policy that was archived on 2007-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231053435id_/http%3A//smartfares.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartfares.com privacy policy that was archived on 2008-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080524011942id_/http%3A//www.smartfares.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Discount Airfare and Cheap Tickets | Smartfares</title>
@@ -12,6 +12,26 @@
 
 <body>
 <div id="contain">
+<div id="csphone">
+<script type="text/javascript">
+
+    var now = new Date();
+    var hour = now.getHours()
+	+ now.getTimezoneOffset()/60;
+    var timePic = "";
+    if (hour > 16) {
+        // Hours 18-24 (10:00 AM - Midnight)
+        timePic = "/images/smartfares/phone.gif";
+    } else if (hour < 3) {
+        // Hours 4-2 (10:00 AM - 7:59 PM)
+        timePic = "/images/smartfares/phone.gif";
+    } else {
+        // Hours 12-24 (7:00 PM - 11:59 PM)
+        timePic = "/images/smartfares/phone_no.gif";
+    }
+    document.write("<img src='" + timePic + "' alt=''>");
+  </script><img src="/images/smartfares/phone_no.gif" alt="">
+</div><!--csphone ends-->
 	<div id="header">
 		<strong><a href="/itinerary.asp" id="smartfares">Smartfares</a></strong>
 		<ul id="aux-nav">
@@ -28,6 +48,7 @@
            </ul>
         </li>
         <li><a href="/itineraryhotel.asp" id="nav-hotels"><img src="/images/smartfares/nav-hotels.gif" alt="HOTELS"></a></li>
+<li><a href="/itinerarycar.asp" id="nav-cars"><img src="/images/smartfares/nav-cars.gif" alt="CARS"></a></li>
         </ul>
            
     </div>
