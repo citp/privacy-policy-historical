@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnncreative.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203130521id_/http%3A//www.dnncreative.com/tabid/200/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnncreative.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523123221id_/http%3A//www.dnncreative.com/tabid/200/Default.aspx) for the most accurate reproduction.*
 
 # DNN Creative Magazine Privacy Statement
 
@@ -6,7 +6,7 @@ DNN Creative Magazine for DotNetNuke is committed to protecting your privacy and
 
 ##### Collection of your Personal Information
 
-DNN Creative Magazine for DotNetNuke collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. DNN Creative Magazine for DotNetNuke also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+DNN Creative Magazine for DotNetNuke collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. DNN Creative Magazine for DotNetNuke also collects anonymous demographic information, which is not unique to you, such as your post code, age, gender, preferences, interests and favorites.
 
 There is also information about your computer hardware and software that is automatically collected by DNN Creative Magazine for DotNetNuke. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by DNN Creative Magazine for DotNetNuke for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the DNN Creative Magazine for DotNetNuke Web site.
 
@@ -36,11 +36,19 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 ##### Security of your Personal Information
 
-DNN Creative Magazine for DotNetNuke secures your personal information from unauthorized access, use or disclosure. DNN Creative Magazine for DotNetNuke secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+DNN Creative Magazine for DotNetNuke secures your personal information from unauthorised access, use or disclosure. DNN Creative Magazine for DotNetNuke secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
 ##### Changes to this Statement
 
 DNN Creative Magazine for DotNetNuke will occasionally update this Statement of Privacy to reflect company and customer feedback. DNN Creative Magazine for DotNetNuke encourages you to periodically review this Statement to be informed of how DNN Creative Magazine for DotNetNuke is protecting your information.
+
+##### Updating your Details
+
+If any of the information that you have provided to DNN Creative Magazine for DoNetNuke changes, for example if you change your email address, name or payment details or if you wish to cancel your registration, please let us know the correct details by sending an e-mail to lee@dnncreative.com.
+
+##### Your Consent
+
+By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. Continued use of this website will signify that you agree to any such changes.
 
 ##### Contact Information
 
