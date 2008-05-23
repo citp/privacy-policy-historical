@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the jamfsoftware.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221114152id_/http%3A//www.jamfsoftware.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamfsoftware.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523152115id_/http%3A//www.jamfsoftware.com/company/privacy_policy.php) for the most accurate reproduction.*
 
-# JAMF Privacy Policy
+# JAMF Software : Management Software for Macintosh Professionals
 
 JAMF Software is committed to respecting and protecting your privacy. In order to provide certain services, opportunities, and downloads to you on jamfsoftware.com (the Site), we require that you submit some of your personal information. Please read the following to learn more about our Privacy Policy.
 
-NOTICE  
+## Notice
+
 JAMF Software (We) may collect domain names and aggregate information on what pages you access or view to improve the Site and to determine which pages are being accessed and used. We may also collect information volunteered by you including, but not limited to, e-mail addresses to obtain downloads or requests for services, opportunities, or additional information. This Site contains links to other websites. Please be aware that JAMF Software is not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by this Site.
 
 None of the information volunteered by visitors on the Site will be released outside of our company except to JAMF Software Business Partners, Authorized Resellers, or other JAMF Software Distributors in order to follow-up with you regarding downloads, services, opportunities, or additional requested information.
