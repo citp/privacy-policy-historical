@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorwords.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217005930id_/http%3A//www.investorwords.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorwords.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523121714id_/http%3A//www.investorwords.com/privacypolicy.html) for the most accurate reproduction.*
 
 # InvestorWords.com - Privacy Policy, Disclaimer and Copyright©
 
@@ -23,5 +23,5 @@ Nothing on this site should be construed as an offer or solicitation to buy or s
 **Copyright©**
 
 InvestorWords is located at http://www.investorwords.com  
-Copyrigth©1997-2007 by InvestorGuide.com, Inc. ALL RIGHTS RESERVED.  
+Copyrigth©1997-2008 by InvestorGuide.com, Inc. ALL RIGHTS RESERVED.  
 Reproduction of all or part of this glossary, in any format, without the written consent of WebFinance, Inc. is prohibited. 
