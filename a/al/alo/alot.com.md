@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alot.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214055316id_/http%3A//www.alot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alot.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524000949id_/http%3A//www.alot.com/privacy) for the most accurate reproduction.*
 
 # ALOT Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Here at alot.com we deliver highly relevant search results to our users while maintaining the most professional service standards. This means we are dedicated to treating you with care and respect.
 
-We encourage anyone using [www.alot.com](http://www.alot.com/) (our "Site")to make educated decisions about their online practices. To help you do so, this Privacy Policy details important information that will help answer questions regarding personal privacy in relation to the use of our Site. You should also review our [“Terms of Use”](http://alot.com/terms) before using this Site.
+We encourage anyone using [www.alot.com](http://www.alot.com/) (our "Site") to make educated decisions about their online practices. To help you do so, this Privacy Policy details important information that will help answer questions regarding personal privacy in relation to the use of our Site. You should also review our [“Terms of Use”](http://alot.com/terms) before using this Site.
 
 ### The Information alot.com Collects:
 
