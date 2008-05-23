@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 7art-screensavers.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228053944id_/http%3A//www.7art-screensavers.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7art-screensavers.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523200757id_/http%3A//7art-screensavers.com/privacy.shtml) for the most accurate reproduction.*
 
-# 7art-screensavers - screensavers to rise your spirits!
+# 7art-screensavers - screensavers to raise your spirits!
 
   
 **Collection and Use of your Personal Information**   
