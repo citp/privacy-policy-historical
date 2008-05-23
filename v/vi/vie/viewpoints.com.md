@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viewpoints.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016083540id_/http%3A//www.viewpoints.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewpoints.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523195701id_/http%3A//www.viewpoints.com/privacy_policy) for the most accurate reproduction.*
 
-# privacy policy
+# Privacy Policy at Viewpoints.com
 
 Viewpoints Network, LLC, ("Viewpoints", "us", "we" or "our") is committed to protecting your privacy. This policy ("Privacy Policy") covers how Viewpoints treats personal information that it collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, and phone number.
 
@@ -19,6 +19,8 @@ Viewpoints automatically receives and records information on our server logs fro
 Viewpoints uses information for the following general purposes: to customize the advertising and content you see, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
 _Children_ : Because the Viewpoints Site is not intended for use by anyone under the age of 18, Viewpoints does not knowingly collect any personal information from persons under the age of 18 and will automatically block registration of any person if they indicate they are under the age of 18. If we learn that any user is under the age of 18, we will terminate the account and delete the user's information. Inherent in the Viewpoints service is the responsibility of parents and/or guardians to ensure that their children's privacy is protected.
+
+Viewpoints uses third-party advertising companies to serve ads when you visit our Web site.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp>
 
 ### What We Share
 
@@ -46,7 +48,7 @@ You can edit your **Viewpoints Account Information** , including your **email pr
 
 New types of marketing communications might be added to the Email Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications or they can unsubscribe by following instructions contained in the messages they receive. We reserve the right to send you certain communications relating to the Viewpoints service, such as service announcements and administrative messages that are considered part of your Viewpoints account, without offering you the opportunity to opt out of receiving them.
 
-You can delete your Viewpoints account by visiting our Account Deletion page. However, some information may possibly remain in our archived records after your account has been deleted.
+You can submit a request to delete your Viewpoints account by clicking on the HELP link. There, simply click on CONTACT US. Provide your screen name and email address you registered with and we will disable your account. Some information may possibly remain in our archived records after your account has been deleted.
 
 ### Changes to this Privacy Policy
 
