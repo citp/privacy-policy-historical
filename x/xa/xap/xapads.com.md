@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xapads.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231185309id_/http%3A//www.xapads.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xapads.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523090752id_/http%3A//www.xapads.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Xapads:Biggest Contextual Advertising Network.
 
