@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalcreditreport.com privacy policy that was archived on 2007-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071119084428id_/http%3A//www.nationalcreditreport.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcreditreport.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523100211id_/http%3A//www.nationalcreditreport.com/privacy.cfm) for the most accurate reproduction.*
 
 # Nationalcreditreport.com | Privacy
 
@@ -111,3 +111,6 @@ If you have further questions regarding Nationalcreditreport.com's privacy polic
 Back To Top
 
 Last Updated January 2, 2005
+
+©2008 NationalCreditReport.com. All Rights Reserved. | NationalCreditReport.com is a trademark of NationalCreditReport.com LLC  
+[Website Powered by Colony One Online, Inc.](http://www.colony1.net/ "Website Powered by Colony One Online, Inc.")
