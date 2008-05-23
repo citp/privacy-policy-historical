@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splendicity.com privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103024350id_/http%3A//www.splendicity.com/splendicity-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splendicity.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523103801id_/http%3A//www.splendicity.com/splendicity-privacy-policy) for the most accurate reproduction.*
 
 # Splendicity Privacy Policy : Splendicity
 
@@ -18,5 +18,3 @@ Occasionally, Splendicity or its advertisers may need to place a “cookie” on
 
 **Who do I contact if I have a question or complaint about your privacy issue?**  
 If you want to contact us about Splendicity’s privacy policy, please e-mail teri@splendicity.com. We are always open to suggestions.
-
-[](http://www.technorati.com/tag/) [default](http://www.technorati.com/tag/default)
