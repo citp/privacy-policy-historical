@@ -1,0 +1,449 @@
+<!--The following is the downloaded HTML source of the biguniverse.com privacy policy that was archived on 2008-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080523175948id_/http%3A//www.biguniverse.com/main/privacy) for the most accurate reproduction.-->
+
+<html><head><script></script>
+
+
+
+  
+    <title>Privacy Policy - BigUniverse.com</title>
+    <meta name="description" content="Read best children's picture books online for FREE. Create &amp; publish your own chidren's picture e-book now! Browse &amp; buy from online children's book shops. Read blogs by professional authors."> 
+    <meta name="keywords" content="children, children's, books, online, digital, read, create, publish, write, global awareness, universe, free">
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link href="/stylesheets/biguniverse.css" rel="Stylesheet" type="text/css">
+
+    <link href="http://content.biguniverse.com/themes/default.css" rel="Stylesheet" type="text/css">
+
+<script src="/javascripts/window/prototype.js" type="text/javascript"></script>
+<script src="/javascripts/window/effects.js" type="text/javascript"></script>
+
+<script src="/javascripts/bubooks.js" type="text/javascript"></script>
+<script src="/javascripts/bucommon.js" type="text/javascript"></script>
+<script src="/javascripts/bookmark.js" type="text/javascript"></script>
+
+
+<script language="javascript"> AC_FL_RunContent = 0; </script>
+<script language="javascript"> DetectFlashVer = 0; </script>
+
+<script src="/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+
+<script language="JavaScript" type="text/javascript">
+	var requiredMajorVersion = 8;
+	var requiredMinorVersion = 0;
+	var requiredRevision = 24;
+</script>
+
+<script>
+    var isWin = navigator.appVersion.indexOf('Win') != -1;
+    var isSafari = navigator.appVersion.indexOf('Safari') != -1;
+    var isOpera = navigator.userAgent.indexOf('Opera') != -1;
+    var isMacIE52 = navigator.userAgent.indexOf('MSIE 5.2') != -1 && ! win;
+    var isIE = navigator.userAgent.indexOf('MSIE') != -1;
+</script>
+
+
+<script>
+function addtofavorite(type, id){
+	if(document.getElementById("favorites-content")){
+	  	if (Element.visible('favorites-content')) {
+			new Effect['BlindUp']('favorites-content', {duration: 0.10});
+			document.getElementById("arrowfavorites").src = "/images/buttons/listopen.jpg";
+		}
+		
+	  	new Ajax.Updater('favorites-content', '/member/addfavorite/' + type + '/' + id, {
+	        method:     'post',
+	        onFailure:  function() {Element.classNames('favorites-content').add('failure')},
+	        onComplete: function() {
+				new Effect.ScrollTo('addfavoritepoint',{duration:1.0});
+				new Effect.BlindDown('favorites-content', {duration: 0.50});
+				new Effect.Highlight(document.getElementById("favorite"+type+id), {duration: 2.50});
+			}
+	      });
+		document.getElementById("arrowfavorites").src = "/images/buttons/listclose.jpg";
+	}else{
+		window.location = "/member/signin"
+	}
+}
+  
+function addtowishlist(type,id){
+	if(document.getElementById("wishlist-content")){
+	  	if (Element.visible('wishlist-content')) {
+			new Effect['BlindUp']('wishlist-content', {duration: 0.50});
+			document.getElementById("arrowwishlist").src = "/images/buttons/listopen.jpg";
+		}
+		
+	  	new Ajax.Updater('wishlist-content', '/member/addwishlist/'+type+'/'+id, {
+	        method:     'post',
+	        onFailure:  function() {Element.classNames('wishlist-content').add('failure')},
+	        onComplete: function() {
+				document.getElementById("arrowwishlist").src = "/images/buttons/listclose.jpg";
+				new Effect.ScrollTo('addwishlistpoint',{duration:1.0});
+				new Effect.BlindDown('wishlist-content', {duration: 0.50});
+				new Effect.Highlight(document.getElementById("wishlist"+type+id), {duration: 2.50});
+			}
+	      });
+	}else{
+		window.location = "/member/signin"
+	}
+}
+        
+function showlist(tag, arrowicon, action_list) {
+    if (!(Element.visible(tag))) {
+      new Ajax.Updater(tag, action_list, {
+        method:     'post',
+		onLoading: function(){ document.getElementById("img_"+tag).style.display = "";},
+		onLoaded: function(){ document.getElementById("img_"+tag).style.display = "none";},
+        onFailure:  function() {Element.classNames(tag).add('failure')},
+        onComplete: function() {new Effect.BlindDown(tag, {duration: 0.50}); document.getElementById(arrowicon).src = "/images/buttons/listclose.jpg"; }
+      });
+    } else {
+      new Effect['BlindUp'](tag, {duration: 0.50});
+      document.getElementById(arrowicon).src = "/images/buttons/listopen.jpg";
+    }
+}
+  
+function deleteItem(tag,action_delete){
+  	if(confirm("Are you sure you want to delete the selected item?")){
+		Effect.Puff(tag);
+		new Ajax.Request(action_delete, {
+            method:     'post'
+          });
+	}
+}
+
+</script>
+
+  </head>
+
+
+
+<body>
+<a name="top"></a>
+
+
+<table width="950" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td><div style="margin-top: 3px; margin-bottom: 3px;">
+<table width="95%" border="0" cellpadding="0" align="center">
+	<tbody><tr>
+		<td align="left" width="50%">
+			
+			    <a href="/member/signin?furl=%2Fmain%2Fprivacy"><font color="#FFFFFF">Sign In</font></a> 
+				<span class="bu_tiny">&nbsp;&nbsp;&nbsp;</span>
+				<a href="/member/signup"><img src="/images/buttons/icon-signup.gif" border="0" style="vertical-align: top"> <font color="#FFFFFF">Sign Up!</font></a>
+			     <span class="bu_tiny">&nbsp;&nbsp;&nbsp;</span>
+				<a href="/main/benefits"><img src="/images/icons/smiley.gif" border="0" style="vertical-align: top"> <font color="#FFFFFF">Benefits</font></a>
+			     <span class="bu_tiny">&nbsp;&nbsp;&nbsp;</span>
+				<a href="/main/newslettersubscribe"><img src="/images/buttons/icon-newsletter.jpg" border="0" style="vertical-align: top"> <font color="#FFFFFF">Newsletter</font></a>
+			
+		</td>
+		
+		<td align="right" width="50%">
+			<a href="/main/linktous"><img src="/images/buttons/icon-linktous.gif" border="0" style="vertical-align: top"> <font color="#FFFFFF">Link to Us</font></a>
+
+			<span class="bu_tiny">&nbsp;&nbsp;&nbsp;</span>
+			<a href="/main/tellafriend"><img src="/images/buttons/button-callout-bubble.gif" border="0" style="vertical-align: top"> <font color="#FFFFFF">Tell a Friend</font></a>
+	
+			<span class="bu_tiny">&nbsp;&nbsp;&nbsp;</span>
+			<a href="/main/help"><font color="#FFFFFF">Help</font></a> 
+		</td>
+	</tr>
+</tbody></table>
+</div>
+</td>
+</tr>
+
+<tr>
+  <td>
+  	<!--
+    <a href="/"><img name="websiteheader" src="/images/website-header.gif" width="950" height="100" border="0" vspace="0" alt="Welcome to BigUniverse.com - A world of online children's book."/></a>
+    -->
+	 <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+      <tbody><tr>
+        <td>
+        
+
+<script language="JavaScript" type="text/javascript">
+	<!--
+	if (AC_FL_RunContent == 0 || DetectFlashVer == 0) {
+		alert("This page requires AC_RunActiveContent.js.");
+	} else {
+	
+	    var isSafari = navigator.appVersion.indexOf('Safari') != -1;
+		var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+		if(hasRightVersion || isSafari) {  // if we've detected an acceptable version
+			// embed the flash movie
+			AC_FL_RunContent(
+				'codebase', 'https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,24,0',
+				'width', '950',
+				'height', '140',
+				'src', '/flash/navbar/navigationbuttons',
+				'quality', 'high',
+				'pluginspage', 'https://www.macromedia.com/go/getflashplayer',
+				'align', 'middle',
+				'play', 'true',
+				'loop', 'false',
+				'scale', 'showall',
+				'wmode', 'transparent',
+				'devicefont', 'false',
+				'id', 'navigationbuttons',
+				'bgcolor', '#121922',
+				'name', 'navigationbuttons',
+				'menu', 'false',
+				'allowScriptAccess','sameDomain',
+				'allowFullScreen','false',
+				'movie', '/flash/navbar/navigationbuttons',
+				'base', 'http://www.biguniverse.com',
+				'flashvars', 'homelink=/&readlink=/readchildrensbooks&createlink=/createchildrensbooks&connectlink=/childrensbookblogs&shoplink=/childrensbookshops',
+				'salign', ''
+				); //end AC code
+		} else {  // flash is too old or we can't detect the plugin
+			var alternateContent = '<a href="/"><img name="websiteheader" src="/images/website-header.gif" width="950" height="100" border="0" vspace="0" alt="A World of Online Children&#39;s Picture Books" title="A World of Online Children&#39;s Picture Books" /></a>'
+							    + '<table width="100%" border="0" cellspacing="0" cellpadding="0">'
+							    + '     <tr>'
+							    + '	      <td nowrap>'
+							    + '		      <a href="/"><img src="/images/buttons/navbar-home.jpg" width=155 height=30 border=0 %></a>'
+							    + '		  </td>'
+							    + '	      <td nowrap>'
+							    + '		      <a href="/read"><img src="/images/buttons/navbar-read.jpg" width=160 height=30 border=0></a>'
+							    + '		  </td>'
+							    + '	      <td nowrap>'
+							    + '		      <a href="/create"><img src="/images/buttons/navbar-create.jpg" width=155 height=30 border=0 ></a>'
+							    + '		  </td>'
+							    + '	      <td nowrap>'
+							    + '		      <a href="/learn"><img src="/images/buttons/navbar-learn.jpg" width=160 height=30 border=0></a>'
+							    + '		  </td>'
+							    + '	      <td nowrap>'
+							    + '		      <a href="/connect"><img src="/images/buttons/navbar-connect.jpg" width=160 height=30 border=0></a>'
+							    + '		  </td>'
+							    + '	      <td nowrap>'
+							    + '		      <a href="/shop"><img src="/images/buttons/navbar-shop.jpg" width=160 height=30 border=0></a>'
+							    + '		  </td>'
+							    + '    </tr>'
+							    + ' </table>';			
+			document.write(alternateContent);  // insert non-flash content
+		}
+	}
+	// -->
+</script><embed width="950" height="140" src="/flash/navbar/navigationbuttons.swf" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" align="middle" play="true" loop="false" scale="showall" wmode="transparent" devicefont="false" bgcolor="#121922" name="navigationbuttons" menu="false" allowscriptaccess="sameDomain" allowfullscreen="false" base="http://www.biguniverse.com" flashvars="homelink=/&amp;readlink=/readchildrensbooks&amp;createlink=/createchildrensbooks&amp;connectlink=/childrensbookblogs&amp;shoplink=/childrensbookshops" salign="" type="application/x-shockwave-flash"> 
+<noscript>
+<table width='100%' border="0" cellspacing="0" cellpadding="0">
+     <tr>
+	      <td nowrap>
+		      <a href="/"><img src='/images/buttons/navbar-home.jpg' width=155 height=30 border=0 alt="Click Here To Go To The Home Page" title="Best Children's Picture Books Online - BigUniverse.com"></a>
+		  </td>
+	      <td nowrap>
+		      <a href="/read"><img src='/images/buttons/navbar-read.jpg' width=160 height=30 border=0 alt="Click Here To Read the Best Children's Books Online for FREE" title="Read the Best Children's Books Online for FREE"></a>
+		  </td>
+	      <td nowrap>
+		      <a href="/create"><img src='/images/buttons/navbar-create.jpg' width=155 height=30 border=0 alt="Click Here To Create & Publish Children's Books Online for FREE" title="Create & Publish Children's Books Online for FREE"></a>
+		  </td>
+	      <td nowrap>
+		      <a href="/learn"><img src='/images/buttons/navbar-learn.jpg' width=160 height=30 border=0 alt="Click Here To Learn from the Best Children's Books Online for FREE" title="Learn from the Best Children's Books Online for FREE"></a>
+		  </td>
+	      <td nowrap>
+		      <a href="/connect"><img src='/images/buttons/navbar-connect.jpg' width=160 height=30 border=0 alt="Click Here To Read Blogs About Children's Books" title="Read Blogs About Children's Books"></a>
+		  </td>
+	      <td nowrap>
+		      <a href="/shop"><img src='/images/buttons/navbar-shop.jpg' width=160 height=30 border=0 alt="Click Here To Browse & Buy From Children's Book Shops" title="Browse & Buy From Children's Book Shops"></a>
+		  </td>
+    </tr>
+ </table>
+</noscript>
+
+
+        </td>
+      </tr>
+    </tbody></table>
+  </td>
+  </tr>
+
+
+  
+  <tr class="bu_pagebackground">
+    <td>
+    <table width="100%" border="0" cellspacing="0" cellpadding="20">
+      <tbody><tr>
+        <td valign="top">
+    
+
+<table width="100%" border="0" cellspacing="0" cellpadding="20">
+  <tbody><tr>
+    <td><h1 align="center">BIG UNIVERSE PRIVACY POLICY </h1>
+      <p align="center">Last Updated: February, 2008 </p>
+      <p>Big Universe, Inc. (“Big Universe”, “we” or “us”) takes your privacy seriously. Please read this Privacy Policy (“policy”) to learn about the kinds of personal information we may gather during your visit to the Big Universe website, why we gather such information, how we may use it, and how you can manage your personal information. </p>
+      <p>By visiting the Big Universe website, you are accepting the practices described in this policy.  If you do not agree to the terms of this policy, please exit this website immediately.  We may modify or amend the terms of our policy from time to time in which case we will notify you by either prominently posting a notice of such changes on our website or by directly sending  you a notification. Your continued use of this site after such changes have been made indicate your agreement to comply with the modified policy. Because this policy creates a binding agreement between you and us, we recommend that you bookmark this page and return to it often to ensure you are in compliance therewith. </p>
+      <p>If you have any questions about this policy or don’t see your concerns addressed here, <a href="feedback">please contact us via our online form here</a>. </p>
+      <h2>What This Privacy Policy Covers </h2>
+      <ul>
+        <li> This policy covers how Big Universe treats personal information that Big Universe collects and uses including information related to your past use of Big Universe products and services. Personal information is information about you that is personally identifiable like your email address, birth year, and other information that can be used to identify, locate, or contact you.</li>
+        <li>This policy does not apply to the practices of companies that Big Universe does not own or control, or to people that Big Universe does not employ or manage. </li>
+      </ul>
+      <h2>What Information Is Collected </h2>
+      <ul>
+        <li> Big Universe collects personal information about you when you register with Big Universe, when you use Big Universe products or services, when you visit Big Universe pages or the pages of certain Big Universe partners, and when you enter promotions or sweepstakes.<br>
+        </li>
+        <li>When you register with Big Universe, we ask for information such as your email address, birth year, gender, country of residence, occupation, and personal interests. When you register with Big Universe and sign up for our services, you are not anonymous to us.<br>
+        </li>
+        <li> Big Universe automatically receives and records information on our server logs from your browser, including your IP address, Big Universe cookie information, and the page you request.  For more information about cookies, see the section labeled “Cookies and Spyware” below.<br>
+        </li>
+        <li> Big Universe does not knowingly collect personal information from children under the age of thirteen (13).  If you are under 13 years of age, you may only visit this site with your parents or guardians and you may <em>not</em> send any information about yourself to Big Universe. If you are a parent or guardian that has become aware that your child has provided Big Universe with personal information, then please <a href="feedback">contact Big Universe via our online form here</a>, and Big Universe will purge such information from its files.&nbsp; If Big Universe itself becomes aware that a child under 13 has provided us with personal information, we will purge such information from its files. </li>
+      </ul>
+      <h2>How Information is Used</h2>
+      <ul>
+        <li> General Use.  Big Universe uses information for the following general purposes: to customize the advertising and content you see on our website, to fulfill your requests for products and services, to improve the services offered through this website, to contact you to notify you about new products, special offers, new website features and to conduct research.</li>
+        <li> Use of Aggregate Data.  Big Universe uses non-personal, aggregate data to help it determine how people use parts of its website and who its users are so it can improve its website and ensure it is as appealing as possible for its target audiences.  An example of such non-personal information is the number of users who visited this website during a specific period.</li>
+        <li> Thirty Parties.  Big Universe does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+	        <ul>
+	        <li> Targeted Advertisements.  Big Universe allows third-party ad servers or ad networks to serve targeted advertisements on the Big Universe website. Such advertisers use technology to send, directly to your browser, the advertisements and links that are viewable on the Big Universe website.  When advertisements are served, the advertisers may automatically receive your IP address.  They may also use technologies such as cookies and beacons to measure the effectiveness of their advertisements and to target the advertisements toward specific demographics.  Please keep in mind, however, that if an advertiser asks Big Universe to show an advertisement to a certain audience (for example, women between the ages of 25-45) and you respond to that advertisement, the third-party advertiser may conclude that you fit the description of the audience it is targeting.  The third-party advertiser may also use information regarding your use of the Big Universe web site, such as the number of times you have viewed an ad, to determine which ads to deliver to you. </li>
+	        <li> Aggregate Data.  Big Universe may share aggregate data with its partners and others as it deems appropriate or necessary.</li>
+	        <li> Third-Party Agents.  Big Universe occasionally has third-party agents, subsidiaries, affiliates and partners that perform function on its behalf such as marketing, analytics, credit-card processing, shipping, providing customer service, fraud protection and the like. These entities have access to the personal information as needed to perform their functions and are contractually obligated to maintain the confidentiality and security of that personal information.</li>
+	        <li> Emergency Situations.  Big Universe may also use or disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to applicable law or comply with legal process served on Big Universe or its website; (b) protect and defend Big Universe’s rights or property (including the website), or other users; (c) act under emergency circumstances to protect the personal safety of Big Universe’s staff, its affiliates, agents, users, or the public. </li>
+	        </ul>
+      </li></ul>
+      <h2>Cookies and Spyware </h2>
+      <ul>
+        <li> Big Universe does not use or install spyware or use spyware to retrieve information from your computer.  </li>
+        <li> Like many web sites, however, Big Universe uses “cookies,” which are files stored on  your computer’s hard drive by your browser.  Cookies help Big Universe to identify account holders and to optimize their experience on the Big Universe website.  Most browsers accept cookies automatically but allow you to disable them.  Big Universe recommends that you do not disable cookies to help you take advantage of the full benefits of the Big Universe website.</li>
+        <li> Big Universe lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one.  Big Universe, therefore, recommends that you carefully review the privacy policy for each website that you visit.  Advertisers or other companies do not have access to Big Universe's cookies. </li>
+      </ul>
+      <h2>Your Account Information and Preferences </h2>
+      <ul>
+        <li> You can always edit your Big Universe Account Information to correct or update personal information that you have provided to us.</li>
+        <li>We reserve the right to send you certain communications relating to the Big Universe service, such as service announcements, administrative messages and the Big Universe Newsletter, that are considered part of your Big Universe account, without offering you the opportunity to opt out of receiving them.</li>
+        <li> You can delete your Big Universe account by <a href="feedback">contacting us via our online form here</a>. </li>
+      </ul>
+      <h2>Contests and Sweepstakes </h2>
+      <p>When we run a contest or sweepstake relating to this website, it will be accompanied by a set of rules.  The rules for each contest/sweepstake will specify how the information gathered from you for entry will be used and disclosed, if it is different from as described in this policy. </p>
+      <h2>Public Areas and Chatrooms </h2>
+      <p>Please remember that any information you share in public areas, such as message boards, chatrooms, or feedback sessions become public and, therefore, this policy does not apply to any information you choose to make public.  Please use common sense about what you disclose and post no personal information that you wish to keep private. </p>      </td>
+  </tr>
+</tbody></table>
+
+        </td>
+      </tr>
+    </tbody></table>
+</td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="bottom" nowrap="">
+<br>
+<p align="center" class="bu_small">
+    <a href="/"><font color="#FFFFFF">Home</font></a>
+
+     &nbsp;&nbsp;
+	<a href="/main/about"><font color="#FFFFFF">About</font></a> 
+
+     &nbsp;&nbsp;
+	<a href="/main/feedback"><font color="#FFFFFF">Contact</font></a> 
+
+     &nbsp;&nbsp;
+	<a href="/main/media"><font color="#FFFFFF">Media</font></a> 
+
+     &nbsp;&nbsp;
+    <a href="/shop/pubprograms"><font color="#FFFFFF">Publishers</font></a>
+
+     &nbsp;&nbsp;
+    <a href="/main/advertisers"><font color="#FFFFFF">Advertisers</font></a>
+
+     &nbsp;&nbsp;
+    <a href="/main/terms"><font color="#FFFFFF">Terms of Use</font></a>
+
+     &nbsp;&nbsp;
+    <a href="/main/privacy"><font color="#FFFFFF">Privacy Policy</font></a>
+
+     &nbsp;&nbsp;
+	<a href="/main/sitemap"><font color="#FFFFFF">Site Map</font></a> 
+
+     &nbsp;&nbsp;
+	<a href="/main/help"><font color="#FFFFFF">Help</font></a> 
+	
+	
+</p>
+
+<p align="center">
+<!-- <a href="javascript:launchSiteTour()"><img src="/images/buttons/button-sitetour-box.jpg" alt="Take a tour of the site" title="Click here to launch the site tour now." width="100" hspace="5" height="40" border="0"></a>
+-->
+<a href="/main/tellafriend"><img src="/images/buttons/button-tellafriend-box.jpg" alt="Tell someone about us" title="Click here to tell someone about us." width="100" hspace="5" height="40" border="0"></a>
+
+  
+	  <a href="/main/newslettersubscribe"><img src="/images/buttons/button-newsletter-box.jpg" width="100" height="40" border="0" hspace="5" alt="Stay current with our newsletter?" title="Not subscribed to our newsletter?  Don't miss out."></a>
+  
+  
+	  <a href="/member/signin"><img src="/images/buttons/button-benefits-box.jpg" width="100" height="40" border="0" hspace="5" alt="Benefits of our free membership" title="Not a member?  Click here to find out what you are missing!"></a>
+  
+
+</p>
+
+<p align="center" class="bu_tiny"><font color="#FFFFFF">© 2008 Big Universe Inc. All rights reserved.</font> </p>
+
+<br>
+<div align="center" class="bu_tiny">
+	<table border="0" cellpadding="0" cellspacing="1">
+		<tbody><tr><td>
+		<table border="0" cellpadding="3" cellspacing="0">
+		<tbody><tr align="center">
+			<td nowrap="" colspan="99"><em><font color="#FFFFFF">Bookmark/Share This Site</font></em><br><br></td>
+		</tr>
+	
+		<tr align="center" valign="top" class="bu_tiny">
+			<td width="50">
+				<a href="javascript:bookmark('delicious');"><img src="/images/bookmark/delicious.gif" alt="delicious" border="0"></a><br>
+				<span class="bu_tiny"><a href="javascript:bookmark('delicious');"><font color="#FFFFFF">del.icio.us</font></a></span>
+			</td>	
+			<td width="50">
+				<a href="javascript:bookmark('digg');"><img src="/images/bookmark/digg.gif" alt="digg" border="0"></a><br>
+				<span class="bu_tiny"><a href="javascript:bookmark('digg');"><font color="#FFFFFF">Digg</font></a></span>
+			</td>	
+			<td width="50">
+				<a href="javascript:bookmark('reddit');"><img src="/images/bookmark/reddit.gif" alt="reddit" border="0"></a><br>
+				<span class="bu_tiny"><a href="javascript:bookmark('reddit');"><font color="#FFFFFF">Reddit</font></a></span>
+			</td>	
+			<!--
+			<td width="50">
+				<a href="javascript:bookmark('stumbleupon');"><img src="/images/bookmark/stumbleit.gif" alt="stumbleupon" border="0" /></a><br/>
+				<span class="bu_tiny"><a href="javascript:bookmark('stumbleupon');"><font color="#FFFFFF">StumbleUpon</font></a></span>
+			</td>	
+			-->
+			<td width="50">
+				<a href="javascript:bookmark('google');"><img src="/images/bookmark/google.gif" alt="google" border="0"></a><br>
+				<span class="bu_tiny"><a href="javascript:bookmark('google');"><font color="#FFFFFF">Google</font></a></span>
+			</td>	
+			<td width="50">
+				<a href="javascript:bookmark('yahoo');"><img src="/images/bookmark/yahoo.gif" alt="yahoo" border="0"></a><br>
+				<span class="bu_tiny"><a href="javascript:bookmark('yahoo');"><font color="#FFFFFF">Yahoo</font></a></span>
+			</td>	
+			<td width="50">
+				<a href="javascript:bookmark('facebook');"><img src="/images/bookmark/facebook.gif" alt="facebook" border="0"></a><br>
+				<span class="bu_tiny"><a href="javascript:bookmark('facebook');"><font color="#FFFFFF">Facebook</font></a></span>
+			</td>	
+			<td width="50">
+				<a href="javascript:bookmark('technorati');"><img src="/images/bookmark/technorati.gif" alt="technorati" border="0"></a><br>
+				<span class="bu_tiny"><a href="javascript:bookmark('technorati');"><font color="#FFFFFF">Technorati</font></a></span>
+			</td>	
+		</tr>
+		</tbody></table>
+	</td></tr></tbody></table>
+</div>
+
+    </td>
+  </tr>
+</tbody></table>
+
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2655031-1";
+urchinTracker();
+</script>
+
+
+
+
+
+
+</body></html>
