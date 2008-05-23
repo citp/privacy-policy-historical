@@ -1,57 +1,162 @@
-> *The following text is extracted and transformed from the bluegreenvacations.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417183942id_/http%3A//bluegreenvacations.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluegreenvacations.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523082004id_/http%3A//www.bluegreenvacations.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Bluegreen Vacations - Discount Vacation Packages from Bluegreen Resorts®
 
-**Privacy Statement**
+## Privacy Policy
 
-At bluegreenvacations.com we are well aware of the concerns of many Internet users with regards to on-line privacy and the safeguarding of stored personal information. As such, we have developed this Privacy Statement so that current and future bluegreenoline.com users can feel totally comfortable with our web site, our promotions, and the policies that we have in place to protect the security of their personal information. The following information is meant as a general overview of our current privacy policy. However we want all of our users to know that we are always available to respond to any specific questions or comments regarding this policy, or any function of the bluegreenvacations.com web site. In the paragraphs below, we will cover the following information:   
-1\. What information bluegreenvacations.com requires from users & maintains for promotional purposes   
-2\. What bluegreenvacations.com does with the information provided by users   
-3\. bluegreenvacations.com's policy on the use of "cookies" or other data collection methods   
-4\. Who bluegreenvacations.com shares user information with   
-5\. bluegreenvacations.com's policy for users who request to not have their personal information shared with third parties   
-6\. bluegreenvacations.com's policy on allowing users to correct and/or update stored personal information   
-7\. bluegreenvacations.com's policy on allowing users to delete all stored information from the sites database   
-8\. bluegreenvacations.com's policy regarding collecting and storing personal information provided by minors  
-9\. Safeguarding Public or Shared Information  
-10.Security of Stored Data  
-11.Notification of changes to this privacy policy.   
-12.Contacting us at bluegreenvacations.com 
+The Bluegreen Vacations promotion and web site is sponsored by Bluegreen Vacations Unlimited, Inc., d/b/a Bluegreen Resorts (“Bluegreen Resorts”), a subsidiary of Bluegreen Corporation (www.bluegreencorp.com). At Bluegreen Resorts we recognize that privacy is an important issue, and we understand that you are concerned about the security and privacy of your personal information. In order to demonstrate our commitment to fostering and maintaining strong customer relationships, we have created this Internet Privacy Statement to describe the manner in which we use and protect the information we receive from and about you. This Internet Privacy Statement describes our practices concerning the collecting and use of information gathered from or about our online visitors and registered users. 
 
-1\. Required Information   
-When registering for any of bluegreenvacations.com's promotions, we require you to provide the following information: First name, last name and full mailing address, used to contact you in the event you are selected as a winner of one of our promotions. Current email address, used to contact you with information regarding your bluegreenvacations.com account, to send you updates on the bluegreenvacations.com site, and a secondary means of contact in the event you are selected as a winner of one of our promotions. Birth date, used to verify your eligibility for our promotions, and on an aggregate basis to determine the average age of all bluegreenvacations.com users combined. At registration we also ask for the following optional information: Marital Status, used on an aggregate basis to determine an overall demographic of all bluegreenvacations.com users combined. Occupation, income range & education range, used on an aggregate basis to determine an overall demographic "profile" of all registered users combined. Gender, used to target additional contests, promotions, and on-site advertising based on the gender mix of the majority of bluegreenvacations.com users. Several "check box" questions relating to your vacation & personal interests. This information is combined with all other users to compile demographic information on our users as a group. This information is also used to target money savings offers if you choose to "opt-in" to our mailing list. (Also a check box question)
+### BLUEGREEN’S INTERNET PRIVACY STATEMENT
 
-2\. "Cookies" or other data collection methods  
-"Cookies" are small pieces of data that web sites send to your computer's hard drive to identify that user or their preferences when they return to that site. Cookies do not actually identify a particular user, they identify the computer that was in use when the cookie was sent. Most popular browser versions allow you to either turn off accepting cookies, or to send you a warning before you accept one. Although most users consider cookies harmless, we feel that you certainly have the right to disable them if you wish. At bluegreenvacations.com we do not currently employ any cookies within our site. Some of bluegreenvacations.com's Advertisers & Content Providers do employ cookies bluegreenvacations.com does not have access to these cookies, and has no control over, or access to the information that is collected or how the information is used.
+As a Bluegreen Vacations web site visitor, it is your right to know what information we need to collect, why we need it, how we protect it and how we use it. On our web sites, we collect information that you voluntarily provide in order for us to provide you with services and products, process transactions that you request and provide customer service. We may also use the personal information that we collect for other business purposes such as to better understand customer needs, enhance customer relationships, make appropriate offers or facilitate third party offers that will be of interest to you.
 
-3\. Who bluegreenvacations.com shares user information with   
-bluegreenvacations.com does not share any personal information with third parties unless you have requested to be on our mailing list of special offers & money saving promotions. If you have chosen to join our opt-in mailing list, we will make every effort to only send you information that corresponds to the preferences that you chose when you signed-up. Joining our membership is never required to enter any of our promotions, and you can easily remove yourself from the list at any time.
+  1. Your California Privacy Rights
+  2. The information covered by this Privacy Statement
+  3. The types of information we collect
+  4. How we secure your information
+  5. How we use and share your information
+  6. Requesting to not have your personal information shared with non-affiliated third parties
+  7. Deleting stored information from the Bluegreen database
+  8. Use and participation by minors
+  9. How we safeguard public or shared information
+  10. How we notify you of changes to this Internet Privacy Statement
+  11. Contacting Bluegreen
 
-4\. bluegreenvacations.com's policy for users who request to not have their personal information shared with third parties  
-If you have concerns about us sharing your information with our small "hand picked" group of marketing partners simply click "no" for the answer to that question at sign-up. Any change in bluegreenvacations.com's policy on information sharing would be announced well in advance.
 
-5\. Information collected by independent vendors & service providers  
-bluegreenvacations.com maintains several agreements with third party content and service providers. And in some cases, there are multiple vendors involved in these agreements. Although bluegreenvacations.com makes every effort to select and maintain agreements with only the most professional and honest companies, it is still our opinion that users should take the time to make themselves aware of the privacy policies and terms of service (TOS) agreements of any third party provider that requires the user to submit additional personal information in order to use there service. This recommendation is especially important in the future e-commerce areas of the bluegreenvacations.com web site where credit card information may be required in order to purchase products and services.
 
-6\. bluegreenvacations.com's policy on allowing users to correct and/or update stored personal information  
-Primarily for security purposes we do not currently maintain an "editable" on-line database, however you can always request an update of your personal information by e-mail.
+**1\. Your California Privacy Rights**
+    
 
-7\. bluegreenvacations.com's policy on allowing users to delete all stored information from the sites database. Any user wishing to have their account and all stored information totally deleted from the Bluegreenonline.com system can send an E-mail to our Webmaster at our Contact Us page. Please include the words "delete my account" in the subject line of the message, and a representative will contact you to verify your request. Please note: Once your account, and any related information has been deleted, there is no way for us at bluegreenvacations.com to recover any of this data.
+Effective January 1, 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at:
 
-8\. bluegreenvacations.com's policy regarding collecting and storing personal information provided by minors.  
-As the majority of the bluegreenvacations.com staff have children ourselves, the security of personal information about minors is of utmost importance to us. As such, we feel that children of any age should always consult a parent or guardian before sharing any personal details with any company or individual on the Internet. As all of our promotions require the entrant to be 18 or over, we do not currently knowingly except personal information from minors.
+Bluegreen Vacations  
+Attention: California Privacy Rights Request  
+4960 Conference Way North, Suite 100  
+Boca Raton, Florida 33431 
 
-9\. Safeguarding Public or Shared Information  
-There are currently no areas of the bluegreenvacations.com web site where any type of data would be visible to the public.
+**2\. The information covered by this Privacy Statement**
+    
 
-10\. Security of Stored Data  
-All personal information collected at registration is stored in a secure environment, and is only accessible by bluegreenvacations.coms webmaster. This information is archived only for the functionality of the users account, and to collect broad demographic data on our users as a group.
+This Internet Privacy Statement (Privacy Statement) applies only to the personally identifiable information that is collected on the web sites where this Privacy Statement is posted, and does not apply to any other information collected by Bluegreen Resorts and its parent company and their respective subsidiaries and affiliates (collectively “Bluegreen”) through any other means. [Click here](https://web.archive.org/web/20080523082004id_/http%3A//www.bluegreenvacations.com/terms.aspx) for additional information about the Terms of Use of our web sites.
 
-11\. Notification of changes to this privacy policy. As the bluegreenvacations.com web site continues its beta period, and through the input of our internal testers & user feedback, there is a possibility that we may alter the information that is collected on the bluegreenvacations.com web site. Any change in bluegreenvacations.com's policy on information sharing would be announced well in advance by e-mail as well as being posted on the site. 
+Back to top
 
-12\. Contacting us at bluegreenvacations.com  
-For questions, comments or suggestions about bluegreenvacations.com's privacy policy, or the technical operations of the bluegreenvacations.com web site, please contact our Marketing Department at:
+**3\. The types of information we collect**
+    
 
-Bluegreen® Marketing Department  
-4960 Conference Way North, Suite 100, Boca Raton, FL 33431   
+**A. Information you provide to us**
 
+_i. Requests for Information._ When you request additional information related to our products, services or properties, we will request your name and contact information such as street address, telephone number and email address. We may also request information regarding your vacation preferences including destinations, seasons of interest, accommodations and length of stay, as well as income level and whether you have toured or attended a sales presentation at a Bluegreen property before. Please note that our ability to respond to online requests may depend on the registration and/or licensing requirements of the state in which you reside.
+
+_ii. Purchasing Vacation Packages, Registering Vacation Premiums, Making Reservations._ When you make a reservation, register a vacation premium, or purchase a vacation package, we may request your name, email, telephone number and street address, along with other information to assist with your reservation and stay such as credit card number, date of arrival/departure and room preferences. 
+
+_iii. Sweepstakes and Contests._ From time to time, we may conduct sweepstakes and contests that offer the opportunity to win prizes. Each sweepstakes has its own official rules. As part of entering a sweepstakes, certain personally identifiable information such as name, street address, telephone number, date of birth and email address may be required. The following information may also be requested, although it is optional and does not affect your contest eligibility: (i) marital status, occupation, income range and education; (ii) gender and (iii) "check box" questions relating to your vacation and personal interests. 
+
+_iv. Contacting Us._ When you send us an email from one of our web sites with comments or questions, we may retain information such as the content, your email address, our response and the text of any follow-up questions you may have. This information may also be used to measure how effectively we are able to address customer concerns, to personalize your experience and to improve our products and services. 
+
+_v. Online Surveys._ From time to time, we may conduct online surveys to better understand the effectiveness of our web sites or our performance in providing services. Your participation in these surveys is voluntary. Information collected by us when you participate in a survey may include name, telephone, street address and email address. 
+
+_vi. Electronic Postcards._ Occasionally, we may offer a feature that allows you to send an electronic postcard or otherwise share a message with a friend from our web sites. If you choose to do so, we will ask you for your name and email address, and the recipient's name and email address, along with the text of any message you choose to include. As the sender of this email, your address will be retained. The recipient’s email address will not be retained or used for any other purpose unless they authorize us to do so. 
+
+Back to top
+
+**B. Information we collect using technology**
+    
+
+We use technology to collect information in order to make your experience at our web sites more enjoyable, and so that we can provide you with enhanced products and services. For example, we may automatically track and collect your IP address, domain server, the type of web browser and computer operating system you are using, and we may use web beacons and cookies to: (i) understand the frequency with which you visit our web sites, (ii) track and understand the manner in which you are using our web sites, (iii) customize content to enhance your visit and the services we provide on our web sites, (iv) offer you targeted messages, advertisements and offers, (v) send you targeted emails if you have provided us with your email address, and (vi) if you have registered, to tailor your personal preferences.
+
+Cookies are bits of data that a web site sends to your computer’s web browser and operating system. They are stored on your computer hard drive to identify you or your preferences when you return to that web site. For example, by storing cookies on your hard drive, you'll return to a specific web site with the same settings you used on a previous visit. There are two types of cookies. Temporary cookies are designed to stay on your computer only while you are visiting our web sites. Non-expiring cookies are placed on the hard drive in your computer and allow us to collect information such as: date and time of visits, time spent on the web site, and pages viewed while on the web site. We may place both temporary and non-expiring cookies on your computer. Cookies can also store personally identifiable information such as your name, email address, home or work address, or telephone number. You can choose whether to accept or deny cookies by changing the privacy settings on your web browser. In fact, your browser’s privacy settings can be configured to specify how you want the web browser to handle cookies from individual web sites or all web sites. Please keep in mind that most computers are initially configured to accept cookies. Also note that if you turn cookies off, some of our services may not function properly.
+
+The pages of our web sites contain images (called a "single-pixel gif" or "web beacons") that allow our third party secure provider and us to count page views or to collect other anonymous data. In general, any electronic image viewed as part of a web page, including an ad banner, can act as a web beacon. Web beacons are typically very small, usually 1 by 1 pixel in size, but their presence can be easily seen within Internet Explorer by clicking on “View” and then on “Source.” Web beacons are small in order to minimize both their display and their loading time. Our web beacons do not collect, gather, monitor or share any personal information about our web site visitors; they are merely the technique we use to compile anonymous, aggregated statistics about the usage of our web sites.
+
+For tracking purposes, we use web beacons on our web sites along with other technical methods. We may also use these technical methods in emails that we send to track whether the emails have been opened or if links contained therein have been clicked. We also employ a third party service that collects data remotely through the use of web beacons. This service then returns the completely anonymous data to us as site traffic reports.
+
+Back to top
+
+**C. Information we collect from third parties**
+    
+
+We may supplement, improve and/or enhance personally identifiable information that we collect from you with other information that we obtain from third parties and our affiliates. In addition, we may obtain information about individuals who are not yet our customers or users of our web sites. Moreover, when we associate information that we obtain from third parties or affiliates with personally identifiable information that we have collected under this Privacy Statement, we will treat the acquired information the same as the information that we collected ourselves, and, except as permitted by this Privacy Statement, we will not share the information with third parties. 
+
+Back to top
+
+**4\. How we secure your information**
+    
+
+Bluegreen Resorts uses industry best practices to protect your information and your privacy. For example, we use Secure Sockets Layer (SSL) to present secure pages and to protect your personal information. SSL works by using a private key to encrypt data that's transferred over the SSL connection. Most web browsers, including Internet Explorer, support SSL and many web sites use the protocol to obtain confidential user information. By convention, URLs that require an SSL connection start with https instead of http. You can tell if you are using a secure server by looking at the bottom of your web browser window. For example, in Internet Explorer you will see a lock icon. When the symbol is unbroken or the padlock appears to be in its closed state, the page is encrypted and therefore secure. If you wish to take advantage of the latest encryption standards, be sure you have the latest version of the browser you're using. Be sure to download and use the latest version of a web browser. Beta versions of web browsers are not recommended.
+
+In addition, we use a third party payment gateway service that enables us to authorize, settle and manage credit cards safely and securely via a 128-bit Secure Sockets Layer (SSL) Internet Protocol (IP) connection.
+
+Back to top
+
+**5\. How we use and share your information**
+    
+
+**A. We may share your information with our affiliates**
+
+We may share your information, in whole or in part, with our affiliates, i.e. the companies that are controlled by Bluegreen Corporation, in order to send you promotional materials about our products and services.
+
+**B. We may share your information with third party service providers**
+
+We may share your information, in whole or in part, with the following third party service providers: (i) companies that provide marketing and sales services on our behalf; (ii) companies that process and service your accounts; and (iii) companies that help us protect and secure your information and the confidentiality of our records. Occasionally, we may partner with other companies to provide co-sponsored or co-branded promotions, products and services and may share your information with our co-sponsor. For example, we may co-sponsor a sweepstakes on our site with other companies, or we may provide prizes for sweepstakes sponsored by other companies. If you enter one of these sweepstakes, we may share your information with the co-sponsor or third party sponsor. All of these third party service providers have contractual obligations with us to maintain the confidentiality of your information. Additionally, these third party service providers are only permitted to use your information for the purposes specified by the sweepstakes or promotion as specified by us or our affiliates, or as allowed by law.
+
+**C. We may disclose your information to non-affiliated third parties**
+
+We may disclose your information, in whole or in part, to the following types of non-affiliated third parties: (i) companies with whom we have joint marketing agreements; (ii) non-financial organizations, such as direct marketing companies and consumer reporting agencies; (iii) financial service providers, such as companies engaged in banking, credit card business and consumer finance, and (iv) others, such as non-profit organizations.
+
+**D. Other circumstances in which we may share your information**
+
+We may share your information when you specifically request it or give us permission to do so. We may also share your information when we suspect criminal or fraudulent activity, and when we are required by law such as when we receive a subpoena or a court order. We may also share your information in the event that we sell a particular line of business or function. 
+
+Back to top
+
+**6\. Requesting to not have your personal information shared with non-affiliated third parties**
+    
+
+You may direct us to limit the disclosure of personal information about you that we share with non-affiliated third parties. If you elect this opt-out choice, we will not disclose your information to those non-affiliated third parties set forth in paragraph 4.C., however, we may still disclose your personal information to third parties: (i) that perform marketing services on our behalf; and (ii) as permitted by law, such as to service providers, to protect against fraud, and to protect the security or confidentiality of our records. 
+
+If you wish to exercise your opt-out choice above, please specify your opt-out choice and notify us via U.S. mail at the address below:
+
+Bluegreen Resorts.  
+Attn: Internet Privacy Statement Opt-Out Request  
+4960 Conference Way North, Suite 100  
+Boca Raton , Florida 33431-3311
+
+Please allow approximately 30 to 60 days from our receipt of your Internet Privacy Statement Opt-Out Request for it to become effective. 
+
+Back to top
+
+**7\. Deleting stored information from the Bluegreen database**
+    
+
+If you are not a Bluegreen Owner and wish to have your account and all stored information deleted from our system, email us. Please include the words “delete my account” in the message and a representative will contact you to verify your request. Once your account and any related information has been deleted, it is not possible to recover any of this data. Current Owners are not able to delete their account information. If you would like to remove your email address from your account, you will no longer be able to use the Bluegreen online services. To have your email addressed removed from our database, please contact us at Bluegreen Corporation, 4960 Conference Way North, Boca Raton, FL 33431.
+
+Back to top
+
+**8\. Use and participation by minors**
+    
+
+All of our promotions and web site applications require the entrant and user to be at lease 18 years of age or over, therefore we do not knowingly accept personal information from minors. Children under age 18 should always consult a parent or guardian before sharing any personal details with any company or individual on the Internet.
+
+Back to top
+
+**9\. How we safeguard public or shared information**
+    
+
+At Bluegreen Resorts we will strive to keep all your information up to date, and to guard your privacy by continuously evaluating the enforcement and nature of our policies. There are currently no areas of the Bluegreen Vacations web site where any type of personal data would be visible to the public without first obtaining written permission and appropriate releases prior to use and posting (i.e. prior sweepstakes’ winners, employee or owner testimonials, etc.) 
+
+Back to top
+
+**10\. How we notify you of changes to this Internet Privacy Statement**
+    
+
+If our Internet Privacy Statement changes and you have a valid email address on file with Bluegreen Vacations, we will email you announcing the new Privacy Statement.
+
+Back to top
+
+**11\. Contacting Bluegreen Resorts**
+    
+
+If any of your personal information changes or you identify a mistake in our records, please contact us at the address below and we will update our data right away. Please [email us](https://web.archive.org/web/20080523082004id_/http%3A//www.bluegreenvacations.com/contact.aspx?email=privacy) to communicate any questions or concerns or write to us at Bluegreen Resorts, 4960 Conference Way North, Suite 100, Boca Raton, FL 33431. This Privacy Statement was last updated on April 11, 2006.
+
+Back to top
