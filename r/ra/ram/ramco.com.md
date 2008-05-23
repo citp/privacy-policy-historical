@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramco.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214055250id_/http%3A//www.ramco.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramco.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523152805id_/http%3A//www.ramco.com/privacy.asp) for the most accurate reproduction.*
 
 # Ramco
 
@@ -6,7 +6,7 @@
 ---  
 |   
 ---  
-|  | [Home](https://web.archive.org/web/20071214055250id_/http%3A//www.ramco.com/default.asp) > **Privacy Policy**  
+|  | [Home](https://web.archive.org/web/20080523152805id_/http%3A//www.ramco.com/default.asp) > **Privacy Policy**  
 ---  
 Privacy Policy  
 |   
