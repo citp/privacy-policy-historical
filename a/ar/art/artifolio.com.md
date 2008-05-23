@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the artifolio.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224130039id_/http%3A//help.artifolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artifolio.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523092715id_/http%3A//www.artifolio.com/help/privacy) for the most accurate reproduction.*
 
-# ARTIFOLIO
+# Artifolio - Artwork Gallery, Artist Portfolio and Art Blog Community
 
 Artifolio Privacy Policy 
 
 At Artifolio we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Artifolio Inc. or its subsidiaries or affiliated companies. In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
 
-If you have any questions about this Policy, please feel free to [contact us](http://help.artifolio.com/contact)
+If you have any questions about this Policy, please feel free to [contact us](http://www.artifolio.com/help/contact)
 
 Information we collect and how we use it:
 
@@ -52,7 +52,7 @@ Artifolio only shares personal information with other companies or individuals o
 
 ‧ We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. 
 
-‧ We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms of Service](https://web.archive.org/web/20071224130039id_/http://help.artifolio.com/privacy/help.artifolio.com/terms), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Artifolio, its users or the public as required or permitted by law. 
+‧ We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms of Service](https://web.archive.org/web/20080523092715id_/http://www.artifolio.com/help/privacy/help.artifolio.com/terms), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Artifolio, its users or the public as required or permitted by law. 
 
 If Artifolio becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. 
 
@@ -72,10 +72,10 @@ When you use Artifolio services, we make good faith efforts to provide you with 
 
 Enforcement 
 
-Artifolio regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Artifolio 's treatment of personal information by [contacting us](http://help.artifolio.com/contact) . it is Artifolio's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Artifolio and an individual. 
+Artifolio regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Artifolio 's treatment of personal information by [contacting us](http://www.artifolio.com/help/contact) . it is Artifolio's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Artifolio and an individual. 
 
 Changes to this policy 
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
 
-If you have any additional questions or concerns about this Policy, please feel free to [contact us](http://help.artifolio.com/contact). 
+If you have any additional questions or concerns about this Policy, please feel free to [contact us](http://www.artifolio.com/help/contact). 
