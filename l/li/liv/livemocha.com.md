@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the livemocha.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011230022id_/http%3A//www.livemocha.com/users/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemocha.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524012316id_/http%3A//www.livemocha.com/pages/privacy) for the most accurate reproduction.*
 
-# Livemocha: Learn Languages and Practice with Native Speakers: Users
+# Livemocha: Privacy
 
 Welcome to LiveMocha.com (“Site”), an online service designed to provide language learning content, language learning curriculum, and to facilitate language exchanges and foreign language practice.  LiveMocha.com is owned and operated by LiveMocha, Inc.  LIVEMOCHA, INC is committed to safeguarding your privacy, and this privacy policy explains our data collection, use, and disclosure practices.  If you have specific questions about these practices, please contact us by email at postmaster@LiveMocha.com.
 
 ## 1\. Information Collected   
 
-When you register with LiveMocha.com, you provide us with certain personal information, such as your name, your email address, your spoken and learning languages, your gender, and any other personal or preference information that you provide to us. 
+When you register with LiveMocha.com, you provide us with certain personal information, such as your name, your email address, your spoken and learning languages, your gender, and any other personal or preference information that you enter. 
 
 When you use LiveMocha.com, you may set up your personal profile, form relationships, send messages, perform searches and queries, enroll in events and courses, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
 
