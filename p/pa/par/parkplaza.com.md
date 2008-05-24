@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parkplaza.com privacy policy that was archived on 2007-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071108202908id_/http%3A//www.parkplaza.com/sectiontemplate.do%3Fsidemenu%3Dprivacy.sidemenus%26section%3Dprivacy.home) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkplaza.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524180831id_/http%3A//www.parkplaza.com/sectiontemplate.do%3Fsidemenu%3Dprivacy.sidemenus%26section%3Dprivacy.home) for the most accurate reproduction.*
 
 # Guest Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.parkplaza.com&sealid=102) Carlson Hotels Worldwide Guest Privacy Policy - Effective October 28, 2007
+[](http://www.truste.org/ivalidate.php?url=www.parkplaza.com&sealid=103) Carlson Hotels Worldwide Guest Privacy Policy - Effective October 28, 2007
 
  **Carlson Hotels Worldwide Privacy Promises.** Carlson Hotels Worldwide ("CHW") together with its subsidiaries (collectively, "the CHW Family of Hotels") take your privacy seriously. These are our ten promises to you: 
 
