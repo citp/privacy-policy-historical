@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisnext.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211025944id_/http%3A//www.thisnext.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisnext.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524223124id_/http%3A//www.thisnext.com/company/privacy) for the most accurate reproduction.*
 
 # ThisNext Privacy Policy
 
@@ -22,7 +22,7 @@ We receive and store any information you enter on our Web site or provide to us 
 
 * ThisNext may also add on any page display various metrics such as number of products, number of lists, number of times you have earned feedback or other related metrics. This includes member profile pages, logged-in homepages, and shopcast lists. 
 
-* ThisNext allows other users to browse product picks and shopcast lists that you have created. This information is made available via your member profile (www.ThisNext.com/by/username), on ThisNext badges or on the ThisNext blog. ThisNext may choose to post this data on other site features in the future. 
+* ThisNext allows other users to browse product picks and shopcast lists that you have created. This information is made available via your member profile (www.ThisNext.com/by/screenname), on ThisNext badges or on the ThisNext blog. ThisNext may choose to post this data on other site features in the future. 
 
 * Profile information: ThisNext allows other users to browse your full name, bio and other profile details should you provide this optional information. 
 
