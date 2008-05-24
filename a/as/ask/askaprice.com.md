@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210105400id_/http%3A//www.askaprice.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524064507id_/http%3A//www.askaprice.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Compare car leasing, new cars, insurance & car finance quotes. FREE QUOTES TODAY
 
