@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winbuyer.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210233805id_/http%3A//winbuyer.co.uk/Privacy.aspx%3Fc%3D8000011) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winbuyer.co.uk privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524091507id_/http%3A//winbuyer.co.uk/Privacy.aspx%3Fc%3D8000011) for the most accurate reproduction.*
 
 # Download
 
