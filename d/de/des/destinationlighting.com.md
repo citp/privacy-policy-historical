@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationlighting.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214145052id_/http%3A//www.destinationlighting.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationlighting.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524203556id_/http%3A//www.destinationlighting.com/about/privacy.html) for the most accurate reproduction.*
 
 # Indoor Lighting, Outdoor Lighting and more | Destination Lighting
 
