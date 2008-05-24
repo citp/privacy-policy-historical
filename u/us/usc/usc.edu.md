@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2007-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071126001554id_/http%3A//policies.usc.edu/policies/personalinfo120104.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524212152id_/http%3A//policies.usc.edu/policies/personalinfo120104.pdf) for the most accurate reproduction.*
 
 # 
 
