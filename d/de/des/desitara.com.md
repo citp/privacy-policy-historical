@@ -1,49 +1,46 @@
-> *The following text is extracted and transformed from the desitara.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507074019id_/http%3A//www.connectfilms.com/corporate/termsofuse/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desitara.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524062419id_/http%3A//www.desitara.com/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# connectFilms.com - Privacy Statement
+# Desitara
 
-##### Privacy Statement:
+### Updated as of Apr 22, 2008
 
-ConnectFilms is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the ConnectFilms website and governs data collection and usage. By using the ConnectFilms website, you consent to the data practices described in this statement.
+The [Connectfilms Media LTD Privacy Policy](http://www.desitara.com/staticPage.php?pg=privacy) describes how the company and its subsidiaries treat personal information when you use any Connectfilms Media LTD services, The Desitara and Connectfilms.com privacy policy describes the treatment of personal information when you use any Connectfilms Media LTD services, including all information provided when using the websites www.desitara.com and www.connectfilms.com.
 
-_Collection of your Personal Information:_
+Before you begin using the website please take the time to read through our policies to understand how we treat the information you give us!
 
-ConnectFilms collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. ConnectFilms also collects anonymous demographic information, which is not unique to you, such as your Post code/Pin code/ZIP code, age, gender, preferences, interests and favorites.
+  * **If you would like to perform any of the following actions, you will be required to create a user account:**
+  * Upload a video
+  * Post a comment 
+  * Watch restricted videos
+  * Join a community or a group
+  * Create a network of friends
+  * When you create an account, you will have to provide some personal information - including an email address and a password. Your password will protect your account from unauthorised access. 
 
-There is also information about your computer hardware and software that is automatically collected by ConnectFilms. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by ConnectFilms for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the ConnectFilms Web site.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through ConnectFilms public message boards, this information may be collected and used by others. Note: ConnectFilms does not read any of your private online communications.
 
-ConnectFilms encourages you to review the privacy statements of websites you choose to visit from ConnectFilms so that you can understand how those websites collect, use and share your information. ConnectFilms is not responsible for the privacy statements or other content on websites outside of the ConnectFilms and ConnectFilms family of websites.
+### Usage information:
 
-_Use of your Personal Information:_
+  * If you submit personally identifiable information to us through our websites, we use your personal information to operate, maintain, and provide to you the features and functionality our websites, As you use the various features of the website, some of your activities are recorded, for instance the channels, groups, forums, and favorites you subscribe to, the contacts you communicate with, and the frequency and size of data transfers, as well as information you display or click on (including UI elements, settings, and other information).
+  * If you are logged in, this information would be associated with your account. Clear GIFs (a.k.a. "Web Beacons") may be used in HTML-based emails sent to our users to track which emails are opened by recipients.
+  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
 
-ConnectFilms collects and uses your personal information to operate the ConnectFilms website and deliver the services you have requested. ConnectFilms also uses your personally identifiable information to inform you of other products or services available from ConnectFilms and its affiliates. ConnectFilms may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-ConnectFilms does not sell, rent or lease its customer lists to third parties. ConnectFilms may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, ConnectFilms may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to ConnectFilms, and they are required to maintain the confidentiality of your information.
 
-ConnectFilms does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+### Voluntarily Disclosed Information: 
 
-ConnectFilms keeps track of the websites and pages our customers visit within ConnectFilms, in order to determine what ConnectFilms services are the most popular. This data is used to deliver customized content and advertising within ConnectFilms to customers whose behaviour indicates that they are interested in a particular subject area.
+  * We use cookies, clear gifs, and log file information to: Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and , chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others.
 
-ConnectFilms Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on ConnectFilms or the site; (b) protect and defend the rights or property of ConnectFilms; and, (c) act under exigent circumstances to protect the personal safety of users of ConnectFilms, or the public. 
 
-_Use of Cookies:_
 
-The ConnectFilms website use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+### Your Choices
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize ConnectFilms pages, or register with ConnectFilms site or services, a cookie helps ConnectFilms to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same ConnectFilms Web site, the information you previously provided can be retrieved, so you can easily use the ConnectFilms features that you customized.
+  * What is your information used for?
+  * You may, of course, decline to submit personally identifiable information through the sites, in which case you can still view videos and explore the sites, If you submit personally identifiable information to us through our websites, we use your personal information to operate, maintain, and provide to you the features and functionality our websites, as well as provide you a personalized user experience. The privacy notices of those services govern the use of your personal information associated with them.
+  * Your account name (not your email address) is displayed to other users when you upload videos or send messages and they will be able to view your profile and contact you. 
+  * Any videos that you submit to the websites may be redistributed on the internet and other media channels and may be viewed by the general public.
+  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature which you have the option not to subscribe to.. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major site changes or for customer service purposes).
+  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the site as well to create new features, promotions, improve functionality and services by storing, tracking, and analyzing user preferences and trends.
+  * Cookies, clear gifs, and log file information are used to (a) store information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests. 
+  * N.B: You have the freedom to choose to decline to submit personally identifiable information through the sites, in which case you can still view videos and explore the site, but the site may not be able to provide certain services to you. Some advanced site features may, for authentication purposes, require you to sign up for other services like Checkout or AdSense. The privacy notices of those services govern the use of your personal information associated with them.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the ConnectFilms services or other websites you visit.
 
-_Security of your Personal Information:_
-
-ConnectFilms secures your personal information from unauthorized access, use or disclosure. ConnectFilms secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-Changes to this Statement:
-
-ConnectFilms will occasionally update this Statement of Privacy to reflect company and customer feedback. ConnectFilms encourages you to periodically review this Statement to be informed of how ConnectFilms is protecting your information.
-
-_Contact Information:_
-
-ConnectFilms welcomes your comments regarding this Statement of Privacy. If you believe that ConnectFilms has not adhered to this Statement, please contact [ConnectFilms](https://web.archive.org/web/20070507074019id_/http%3A//www.connectfilms.com/corporate/contact/contactus.aspx). We will use commercially reasonable efforts to promptly determine and remedy the problem.
