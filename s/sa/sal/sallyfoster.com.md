@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the sallyfoster.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211225153id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy_summary.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sallyfoster.com privacy policy that was archived on 2008-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080525200533id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy_summary.jsp) for the most accurate reproduction.*
 
 # 
 
   
-Sally Foster, Inc., a wholly owned subsidiary of Entertainment Publications, Inc. is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Entertainment Publications, HSN, Ticketmaster, Lending Tree, Ask.com, Match.com, Citysearch, Evite, Interval International, Servicemagic, Gifts.com, Pronto and many others.   For a list of all of IAC's businesses, please visit www.iac.com.   In order to help customers clearly understand out data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices.   The following Consumer Privacy statement applies to all IAC businesses.   **In addition, Sally Foster, Inc, has revised its[Privacy Policy](https://web.archive.org/web/20071211225153id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp) effective July 18, 2007, consistent with the IAC privacy commitment and standard privacy policy format.**   Refer to our [FAQs](https://web.archive.org/web/20071211225153id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_FAQ.jsp) for details about the changes.   Please review both the Consumer Privacy statement and this site's complete privacy policy. 
+Sally Foster, Inc., a wholly owned subsidiary of Entertainment Publications, Inc. is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Entertainment Publications, HSN, Ticketmaster, Lending Tree, Ask.com, Match.com, Citysearch, Evite, Interval International, Servicemagic, Gifts.com, Pronto and many others.   For a list of all of IAC's businesses, please visit www.iac.com.   In order to help customers clearly understand out data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices.   The following Consumer Privacy statement applies to all IAC businesses.   **In addition, Sally Foster, Inc, has revised its[Privacy Policy](https://web.archive.org/web/20080525200533id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp) effective July 18, 2007, consistent with the IAC privacy commitment and standard privacy policy format.**   Refer to our [FAQs](https://web.archive.org/web/20080525200533id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_FAQ.jsp) for details about the changes.   Please review both the Consumer Privacy statement and this site's complete privacy policy. 
 
 **Consumer Privacy at Sally Foster, Inc., a wholly owned subsidiary of Entertainment Publications, Inc., an IAC Company**   
   
-At IAC, we respect the privacy of our users and the importance of the information they entrust to us.  We summarize below the basic information policies and practices in place on all IAC websites.   To read the entire Privacy Policy of www.sallyfoster.com please [click here](https://web.archive.org/web/20071211225153id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp). 
+At IAC, we respect the privacy of our users and the importance of the information they entrust to us.  We summarize below the basic information policies and practices in place on all IAC websites.   To read the entire Privacy Policy of www.sallyfoster.com please [click here](https://web.archive.org/web/20080525200533id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp). 
 
-**Information we may collect** [[Read more]](https://web.archive.org/web/20071211225153id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp#we_collect)   
+**Information we may collect** [[Read more]](https://web.archive.org/web/20080525200533id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp#we_collect)   
   
 We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties.   We may combine the personal information that we receive from different sources.   We also may collect other types of information in the following ways when you visit our website: 
 
@@ -19,7 +19,7 @@ We may collect information that can identify you ("personal information"), such 
 
 We do not knowingly collect personal information from children under the age of 13.   Should we ever do so, we will comply with the Children's Online Privacy Protection Act. 
 
-**Information others may collect** [[Read more]](https://web.archive.org/web/20071211225153id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp#others_collect)   
+**Information others may collect** [[Read more]](https://web.archive.org/web/20080525200533id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp#others_collect)   
   
 We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
 
@@ -29,7 +29,7 @@ We may allow third-party advertising companies or ad networks to display adverti
 
 If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide.   We encourage you to use caution in posting personal information. 
 
-**How we may use information we collect** [[Read more]](https://web.archive.org/web/20071211225153id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp#use)   
+**How we may use information we collect** [[Read more]](https://web.archive.org/web/20080525200533id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp#use)   
   
 We may use information to: 
 
@@ -44,7 +44,7 @@ We may use information to:
 
 
 
-**With whom we may share information we collect** [[Read more]](https://web.archive.org/web/20071211225153id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp#share)   
+**With whom we may share information we collect** [[Read more]](https://web.archive.org/web/20080525200533id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp#share)   
   
 We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out.   We may share personal information with: 
 
@@ -55,7 +55,7 @@ We will not share your personal information with others except as indicated belo
 
 We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. 
 
-**Your choices** [[Read more]](https://web.archive.org/web/20071211225153id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp#choices)   
+**Your choices** [[Read more]](https://web.archive.org/web/20080525200533id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp#choices)   
   
 You may choose: 
 
@@ -67,7 +67,7 @@ You may choose:
 
 
 
-**Security** [[Read more]](https://web.archive.org/web/20071211225153id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp#security)   
+**Security** [[Read more]](https://web.archive.org/web/20080525200533id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp#security)   
   
 Security We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. 
 
@@ -77,7 +77,7 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 
 **How to contact us**   
   
-If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/web/20071211225153id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp), or our information practices, please contact us by email or postal mail below:   
+If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/web/20080525200533id_/http%3A//www.sallyfoster.com/sally/footerPages/privacy_policy.jsp), or our information practices, please contact us by email or postal mail below:   
 Privacy Officer  
 Sally Foster, Inc.  
 1414 East Maple Road  
