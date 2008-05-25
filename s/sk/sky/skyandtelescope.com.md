@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyandtelescope.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215185122id_/http%3A//www.skyandtelescope.com/privacy/3304186.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyandtelescope.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526012410id_/http%3A//www.skyandtelescope.com/privacy/3304186.html) for the most accurate reproduction.*
 
 # SkyandTelescope.com - Privacy - Privacy Statement
 
@@ -21,6 +21,8 @@ At SkyandTelescope.com (the "Site"), we respect your personal privacy. We strong
 **Automatic Information**
 
 We collect certain types of information automatically whenever you visit our Site. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; searches you entered. 
+
+Third parties including parties who supply advertising posted on this website, sell advertising for this website, and conduct surveys, and each of their contractors, may collect certain information about you, such as your IP address and information you choose to supply in response to the advertising you view on this site. These third parties may use cookies, scripts, or other technologies to access this information. These third parties may also conduct voluntary user surveys and, if you choose to respond, they will receive additional information you provide, such as behavioral or demographic information. The information collected by third parties will be aggregated and used for advertising and marketing purposes. 
 
 **Cookies**
 
