@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aphrodite1994.com privacy policy that was archived on 2007-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071125171753id_/http%3A//www.aphrodite1994.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aphrodite1994.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526012559id_/http%3A//aphrodite1994.com/privacy.html) for the most accurate reproduction.*
 
-# Aphrodite
+# Buy Exclusive Designer Mens Clothing from Aphrodite Menswear Online. Supplying the latest Designer Mens Clothes since 1994
 
 ### Privacy Statement
 
