@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the investors.com privacy policy that was archived on 2007-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071230064259id_/http%3A//www.investors.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the investors.com privacy policy that was archived on 2008-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080525090516id_/http%3A//www.investors.com/privacy) for the most accurate reproduction.-->
 
 <html><head><script type="text/javascript">
 	<!--
@@ -225,6 +225,9 @@ var section = "";
 
 ord=Math.random()*10000000000000000;
 function OAS_NORMAL_DC(pos) {
+	snippet = '';
+	if(pos.toLowerCase() == 'middle1')
+	{	snippet = '';	}
 	pos = OAS_TranslatePos(pos, "");
 	dcopt = "";
 	//if(tile == 1)
@@ -233,8 +236,8 @@ function OAS_NORMAL_DC(pos) {
 	if(site != "")
 	{
 	//only existing ads
-		document.write('<SCR' + 'IPT language="JavaScript" src="http://ad.doubleclick.net/adj/' + site + ';tile=' + tile + ';' + pos + section + dcopt + 'sz=' + width + 'x' + height + ';ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
-		document.write('<a href="http://ad.doubleclick.net/jump/' + site + ';tile=' + tile + ';' + pos + section + dcopt + 'sz=' + width + 'x' + height + ';ord=' + ord + '?"><img src="px.gif" width="2px" height="1px" /></a>');
+		document.write('<SCR' + 'IPT language="JavaScript" src="http://ad.doubleclick.net/adj/' + site + ';tile=' + tile + ';' + pos + section + dcopt + 'sz=' + width + 'x' + height + snippet + ';ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+		document.write('<a href="http://ad.doubleclick.net/jump/' + site + ';tile=' + tile + ';' + pos + section + dcopt + 'sz=' + width + 'x' + height + snippet +';ord=' + ord + '?"><img src="px.gif" width="2px" height="1px" /></a>');
 		/*document.write('<');
 		document.write('a href="http://ad.doubleclick.net/jump/' + site + ';tile=' + tile + ';' + pos + section + dcopt + 'sz=' + width + 'x' + height + ';ord=' + ord + '?" target="_blank">');
 		document.write('<img src="http://ad.doubleclick.net/ad/' + site + ';tile=' + tile + ';' + pos + 'sz=' + width + 'x' + height + ';ord=' + ord + '?" width="' + width + '" height="' + height + '" border="0" alt="generator alt text">generator alt text<');
@@ -284,7 +287,7 @@ function OAS_NORMAL_DC(pos) {
 				
 					<div style="position: relative; width: 500px; height: 80px; float: left">
 				
-					<img src="http://www.investors.com/images/btnTopNavTabs.gif" width="254" height="22" usemap="#btnTopNavTabsMap" style="position: absolute; bottom: 0px; right: 0px" alt="">
+					<img src="http://www.investors.com/images/btnTopNavTabsTrial.gif" width="254" height="22" usemap="#btnTopNavTabsMap" style="position: absolute; bottom: 0px; right: 0px" alt="">
 				
 		
 			</div>
@@ -292,8 +295,8 @@ function OAS_NORMAL_DC(pos) {
 	</div>
 	
 		<map name="btnTopNavTabsMap" id="topnavtabs">
-		<area shape="rect" alt="Subscribe/Renew" coords="0,0,146,26" href="http://www.investors.com/IBDStore/">
-		<area shape="rect" alt="Free Trial" coords="147,0,257,26" href="http://www.investors.com/offers/freetrialicom.asp">
+		<area shape="rect" alt="Subscribe/Renew" coords="0,0,146,26" href="http://www.investors.com/IBDStore/default.asp?src=AM51LPZ">
+		<area shape="rect" alt="Free Trial" coords="147,0,257,26" href="http://www.investors.com/register/trialdecision.asp?src=A482GGP">
 		</map>
 	
 	<div style="background-color: #fff">
@@ -337,7 +340,7 @@ function OAS_NORMAL_DC(pos) {
 	</tr>
 
 	<tr>
-		<td class="leftnavminor"><a href="http://www.investors.com/dsa/" class="leftnavminor" title="Daily Stock Analysis">Daily Stock Analysis</a>&nbsp;<img src="/images/staNew20x8.gif" alt="NEW!"></td>
+		<td class="leftnavminor"><a href="http://www.investors.com/dsa/" class="leftnavminor" title="Daily Stock Analysis">Daily Stock Analysis</a></td>
 	</tr>
 	<tr>
 		<td class="leftnavminor"><a href="http://www.investors.com/indicesibd.asp" class="leftnavminor" title="IBD® Indexes">IBD<span class="navreg">®</span> Indexes</a></td>
@@ -414,8 +417,10 @@ function OAS_NORMAL_DC(pos) {
 		<td class="leftnavminor"><p style="margin-left: 5px"><a href="http://www.AskIBD.com" class="lnavsmall" title="Search the Ask IBD® Knowledgebase">Search the Ask&nbsp;IBD<span class="navreg" style="vertical-align: baseline">®</span> Knowledgebase</a></p></td>
 	</tr>
 	<tr>
-		<td class="leftnavminor"><a href="http://www.AskIBD.com"><img src="/images/btnAskibd-2005.gif" width="104" height="25" border="0" vspace="10" hspace="5" alt="Ask IBD"></a><br>
-		&nbsp;</td>
+		<td class="leftnavminor"><a href="http://www.AskIBD.com"><img src="/images/btnAskibd-2005.gif" width="104" height="25" border="0" vspace="10" hspace="5" alt="Ask IBD"></a></td>
+	</tr>
+	<tr>
+		<td class="leftnavminor"><p style="margin-left: 5px; margin-top: -3px"><a href="http://www.ibdsubscriber.com" class="lnavsmall" title="Self Service for IBD Print">Self Service for IBD<span class="navreg" style="vertical-align: baseline">®</span> Print</a></p><br></td>
 	</tr>
 
 	<tr>
@@ -431,6 +436,7 @@ function OAS_NORMAL_DC(pos) {
 	<tr>
 		<td class="leftnavplain">
 		<p class="navtightalt"><a href="http://www.investors.com/ibdstore/default.asp?tn=left" class="leftnavplain" title="IBD Store">IBD<span class="navreg">®</span> Store</a></p>
+		<p class="navtightalt"><a href="http://www.investors.com/contact/" class="leftnavplain" title="Contact IBD®">Contact IBD<span class="navreg">®</span></a></p>
 		<p class="navtightalt"><a href="http://www.investors.com/affiliateprogram/default.asp?tn=left" class="leftnavplain" title="Affiliate Program">Affiliate Program</a></p>
 		<p class="navtightalt" style="margin-right: 0px; padding-right: 0px"><a href="http://www.investors.com/licensing/canslim/" class="leftnavplain" title="CAN SLIM® Licensing Opportunities">CAN&nbsp;SLIM<span class="navreg">®</span>&nbsp;Licensing Opportunities</a></p>
 			<p class="navtightalt"><a href="http://www.investors.com/calendar/" class="leftnavplain" title="IBD Calendar">IBD<span class="navreg">®</span> Calendar</a> <img src="/images/staNew20x8.gif" alt="NEW!"></p>
@@ -439,7 +445,6 @@ function OAS_NORMAL_DC(pos) {
 			<p class="navtightalt"><a href="http://www.bankrate.com/ibd" class="leftnavplain" title="Rates and Calculators">Rates &amp;&nbsp;Calculators</a></p>
 			<p class="navtightalt"><a href="http://www.ibdretail.com" class="leftnavplain" title="IBD® Retail Locations">IBD<span class="navreg">®</span> Retail<br>Locations</a></p>
 			<p class="navtightalt"><a href="http://www.investors.com/jobpostingusersite" class="leftnavplain" title="IBD Careers">IBD Careers</a> <img src="/images/staNew20x8.gif" alt="NEW!"></p>
-			<p class="navtightalt"><a href="http://www.investors.com/contact/" class="leftnavplain" title="Contact IBD®">Contact IBD<span class="navreg">®</span></a></p>
 			<p class="navtightalt"><a href="http://www.investors.com/corporatenews/" class="leftnavplain" title="Corporate News">Corporate News</a></p>
 			<p class="navtightalt"><a href="http://www.investors.com/presscenter/" class="leftnavplain" title="About IBD®/Press Info">About IBD<span class="navreg">®</span>/<br>Press Info</a></p>
 		</td>
@@ -454,7 +459,7 @@ function OAS_NORMAL_DC(pos) {
 	</tr>
 
 	<tr>
-		<td align="center"><a href="http://www.investors.com/offers/freetrialicom.asp?src=A482GGP"><img src="/images/staLeftNav2wkFreeAd.gif" width="124" height="142" border="0" vspace="15" hspace="5" alt="Free Trial!"></a></td>
+		<td align="center"><a href="http://www.investors.com/register/trialdecision.asp?src=AM41LPY"><img src="/images/staLeftNav2wkFreeAd.gif" width="124" height="142" border="0" vspace="15" hspace="5" alt="Free Trial!"></a></td>
 	</tr>
 		
 	<tr>
@@ -464,7 +469,7 @@ function OAS_NORMAL_DC(pos) {
 		<a href="http://www.investors.com/classified/business.asp" class="leftnav" title="Classified">Classified</a><br>
 		<a href="http://www.investors.com/ibdadvertising/advertising_reprints.asp" class="leftnav" title="Reprints">Reprints</a><br>
 		<a href="http://www.investors.com/ibdadvertising/" class="leftnav" title="Media Kits">Media Kits</a><br>
-		<a href="http://www.investors.com/ibdadvertising/pdfs/edit_calendar_2008.pdf" class="leftnav" title="Editorial Calendar">Editorial Calendar</a><br>
+		<a href="http://www.investors.com/ibdadvertising/pdfs/EditCalendar2008.pdf" class="leftnav" title="Editorial Calendar">Editorial Calendar</a><br>
 		&nbsp;
 		</div></td>
 	</tr>
@@ -1727,33 +1732,33 @@ function cleanTickerSymbols(s) {
 	</tr>
 	
 	
-	
+
 	<tr>
-		<td colspan="4" style="color: #fff; background-color: #3c1855" class="rightnav"><div style="padding: 5px 1px 3px 5px; font-weight: bold">INVESTING TOOLS</div></td>
+		<td class="rightnav"><img height="1" width="1" src="px.gif" alt=""></td>
+		<td colspan="3" style="text-align: center" class="rightnav"><script type="text/javascript"><!--
+		OAS_AD('x22');
+		//--></script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ibd.pwrtoollogo/;tile=1;sz=135x20;ord=5668788725374734?" type="text/javascript"></script><a href="http://ad.doubleclick.net/jump/ibd.pwrtoollogo/;tile=1;sz=135x20;ord=5668788725374734?"><img src="px.gif" width="2px" height="1px"></a></td>		
+	</tr>
+
+	<tr>
+		<td colspan="4" class="rightnav"><div style="padding: 5px 1px 3px 5px; font-weight: bold">INVESTING TOOLS</div></td>
 	</tr>
 	<form name="forCharts" action="JavaScript:jsfOpenPowerTool(document.forCharts.htmTicker.value,document.forCharts.htmChartValue.value,document.forCharts.htmAdditionalValue.value);" method="post"></form>
 
 	<tr>
-		<td class="rightnav" style="color: #fff; background-color: #3c1855">
+		<td class="rightnav">
 			<input type="hidden" value="1" name="htmChartValue">
 			<input type="hidden" value="" name="htmAdditionalValue">
 			<img height="1" width="3" src="px.gif" alt="">
 		</td>
-		<td colspan="3" class="rtnavticker" style="color: #fff; background-color: #3c1855" nowrap="nowrap">Enter Symbol <img height="1" width="3" src="px.gif" alt=""><input type="text" name="htmTicker" value="" size="5" class="rtnavinput"></td>
+		<td colspan="3" class="rtnavticker" nowrap="nowrap">Enter Symbol <img height="1" width="3" src="px.gif" alt=""><input type="text" name="htmTicker" value="" size="5" class="rtnavinput"></td>
 	</tr>
 	<tr>
-		<td class="rightnav" style="color: #fff; background-color: #3c1855"><img height="1" width="3" src="px.gif" alt=""></td>
-		<td colspan="3" class="rightnav" style="color: #fff; background-color: #3c1855" nowrap="nowrap"><img height="1" width="1" src="px.gif" alt=""><a href="/symbol.asp" class="rtnavlinksm" title="Symbol Lookup"><span style="color: #fff"><u>Symbol lookup</u></span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="JavaScript:popup=window.open('/ibdhelp/help.asp?page=13','help','width=375,height=400,directories=no,status=no,location=no,toolbar=no,scrollbars=yes,resizable=yes,menubar=no,copyhistory=no,alwaysRaised=0,dependent=0');popup.focus()" class="rtnavlinksm" title="Help"><span style="color: #fff"><u>Help</u></span></a><br>
+		<td class="rightnav"><img height="1" width="3" src="px.gif" alt=""></td>
+		<td colspan="3" class="rightnav" nowrap="nowrap"><img height="1" width="1" src="px.gif" alt=""><a href="/symbol.asp" class="rtnavlinksm" title="Symbol Lookup">Symbol lookup</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="JavaScript:popup=window.open('/ibdhelp/help.asp?page=13','help','width=375,height=400,directories=no,status=no,location=no,toolbar=no,scrollbars=yes,resizable=yes,menubar=no,copyhistory=no,alwaysRaised=0,dependent=0');popup.focus()" class="rtnavlinksm" title="Help">Help</a><br>
 			<img height="3" width="1" src="px.gif" alt=""></td>
 	</tr>
-	<tr>
-		<td class="rightnav" style="color: #fff; background-color: #3c1855"><img height="35" width="1" src="px.gif" alt=""></td>
-		<td colspan="3" style="color: #fff; background-color: #3c1855; text-align: center" class="rightnav"><script type="text/javascript"><!--
-		OAS_AD('x22');
-		//--></script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ibd.pwrtoollogo/;tile=1;sz=135x20;ord=1388608449074317.8?" type="text/javascript"></script><a href="http://ad.doubleclick.net/jump/ibd.pwrtoollogo/;tile=1;sz=135x20;ord=1388608449074317.8?"><img src="px.gif" width="2px" height="1px"></a></td>
-		<!-- <a href="http://www.scottrade.com/index.asp?supbid=68972"><img src="http://www.investors.com/images/3rdparty/scott.gif" alt="Scottrade" /></a>-->
-	</tr>
-
+	
 	<tr>
 		<td class="rightnavt"><img height="1" width="1" src="px.gif" alt=""></td>
 		<td class="rightnavt"><a href="#" onclick="JavaScript:document.forCharts.htmChartValue.value=1;document.forCharts.htmAdditionalValue.value='';document.forCharts.submit();"><img src="/images/btnRtNavQuotes.gif" width="18" height="18" vspace="0" hspace="0" alt="Quotes &amp; News"></a></td>
@@ -1926,23 +1931,24 @@ function goSymbolLookup(){
 			
 	<p style="font-size: 11px">Investor's Business Daily, IBD and CAN SLIM and their corresponding logos are registered trademarks of Data Analysis Inc. <br>
 		<a href="http://www.investors.com/terms/?tp=1#copyright" style="font-size: 11px">Copyright and Trademark Notice</a></p>
-	<p style="font-size: 11px">© 2000-2007 Investor's Business Daily, Inc. All rights reserved.<br>
+	<p style="font-size: 11px">© 2000-2008 Investor's Business Daily, Inc. All rights reserved.<br>
 		<a href="http://www.investors.com/privacy/" style="font-size: 11px">Privacy Statement</a> <a href="http://www.investors.com/terms/?tp=1" style="font-size: 11px">Terms and Conditions of Use</a></p>
 	<p style="font-size: 11px">More sites from IBD: <a href="http://www.IBDeditorials.com" style="font-size: 11px">IBDeditorials.com</a></p>
 
 
 		
-			<p style="border-bottom: 1px solid #999; padding-bottom: 5px; font-size: 11px"><a href="http://www.williamoneil.com"><img src="http://www.investors.com/images/staWonLogo2006.gif" width="170" height="23" alt="William O'Neil + Co. Incorporated" style="float: left"></a>© 2007 <a href="http://www.williamoneil.com">William O'Neil + Co. Incorporated</a>.  All Rights Reserved. The William O'Neil + Co. Database and all data contained herein are provided by William O'Neil + Co. Incorporated and are used by IBD under license agreement. Daily Graphs and Daily Graphs Online are trademarks of William O'Neil + Co. Incorporated or its subsidiaries.</p>
+			<p style="border-bottom: 1px solid #999; padding-bottom: 5px; font-size: 11px"><a href="http://www.williamoneil.com"><img src="http://www.investors.com/images/staWonLogo2006.gif" width="170" height="23" alt="William O'Neil + Co. Incorporated" style="float: left"></a>© 2008 <a href="http://www.williamoneil.com">William O'Neil + Co. Incorporated</a>.  All Rights Reserved. The William O'Neil + Co. Database and all data contained herein are provided by William O'Neil + Co. Incorporated and are used by IBD under license agreement. Daily Graphs and Daily Graphs Online are trademarks of William O'Neil + Co. Incorporated or its subsidiaries.</p>
 			
 			<p style="font-size: 11px">This site is powered by Interactive Data Corp. Real Time Services market data. Price and Volume data is delayed 20 minutes unless otherwise noted, is believed accurate but is not warranted or guaranteed by Interactive Data Corp. Real Time Services and is subject to Interactive Data Corp. Real Time Services' terms. All times are Eastern United States.</p>
-			<p style="padding-bottom: 25px; font-size: 11px">*Index pricing and Stocks On The Move data may be delayed more than 20 minutes due to the auto-refresh schedule for these features.</p>
+			<p style="font-size: 11px">The S&amp;P 500 data is the property of Chicago Mercantile Exchange, Inc. and its licensors.  All rights reserved.</p>
+			<p style="padding-bottom: 25px; font-size: 11px">*Stocks On The Move data may be delayed more than 20 minutes due to the auto-refresh schedule for these features.</p>
 		</div>			
-	<a href="http://ibdweb10"><img src="http://www.investors.com/images/px.gif" height="20" width="20" alt="" align="left"></a>
+	<a href="http://ibdweb8"><img src="http://www.investors.com/images/px.gif" height="20" width="20" alt="" align="left"></a>
 	</div>
 </div>
 
 <br>
-<a href="http://ibdweb10"><img src="http://www.investors.com/images/px.gif" height="20" width="20" alt=""></a>
+<a href="http://ibdweb8"><img src="http://www.investors.com/images/px.gif" height="20" width="20" alt=""></a>
 
 <!-- SiteCatalyst code version: H.10.
 Copyright 1997-2007 Omniture, Inc. More info available at
@@ -1952,7 +1958,7 @@ http://www.omniture.com -->
 /* You may give each page an identifying name, server, and channel on the next lines. */
 
 /* ***** Start of variables that apply to all pages ***** */
-s.server="ibdweb10";
+s.server="ibdweb8";
 s.channel="";
 s.prop6="";
 s.prop7="";
