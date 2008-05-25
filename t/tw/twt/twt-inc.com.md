@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twt-inc.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121222339id_/http%3A//twt-inc.com/index.php%3Fl%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twt-inc.com privacy policy that was archived on 2008-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080525130438id_/http%3A//twt-inc.com/index.php%3Fl%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
