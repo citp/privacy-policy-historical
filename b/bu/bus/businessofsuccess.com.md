@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessofsuccess.com privacy policy that was archived on 2007-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070305011846id_/http%3A//www.businessofsuccess.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D31%26Itemid%3D43) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessofsuccess.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526013141id_/http%3A//www.businessofsuccess.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D31%26Itemid%3D43) for the most accurate reproduction.*
 
 # Privacy Policy - Business of Success
 
