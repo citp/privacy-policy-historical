@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mgm.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226114604id_/http%3A//www.mgm.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgm.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526233317id_/http%3A//www.mgm.com/privacy_policy.php) for the most accurate reproduction.*
 
 # MGM.com : Official website of Metro-Goldwyn-Mayer Inc. - Ars Gratia Artis
 
-_Effective Date: July 16th, 2007_
+_Effective Date: February 6th, 2008_
 
 This web site (the "Site") is owned by Metro-Goldwyn-Mayer Studios Inc. or one of its subsidiary or affiliated companies, including Orion Pictures Corporation and United Artists Films Inc. (collectively, "MGM" or "we," "us" or "our"). This Privacy Policy discloses our information and privacy practices with regard to the Site, such as the types of information we may gather from you and other visitors to the Site ("Site Visitors") and how we may use and share that information. Except if specifically stated otherwise, this Privacy Policy applies only to information collected on the Site and does not apply to information collected offline or otherwise outside of the Site. 
 
@@ -50,6 +50,10 @@ We also reserve the right to transfer and disclose information, including your p
 
 MGM reserves the right, and you consent to, the disclosure, transfer and subsequent use of your information, including personal information, to a subsequent owner, co-owner or operator of the Site or the applicable MGM database, or in the event MGM (or any of its affiliated, parent or subsidiary companies) assigns its rights and obligations regarding any of your information to a third party or in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of our assets, or other corporate change.
 
+We may use information about you and your visits to the Site in order to serve advertisements to you on our web pages. We may also use a third party advertising company to serve ads to you. We or our third party advertising companies may note the pages you visit on the Site through the use of web beacons or cookies placed on your computer to manage and target advertisements and for market research analysis. We may share non-personally identifying web site usage information about visitors to the Site with third party advertising companies for the same purposes.
+
+In addition, when you are on this Site, third party advertising companies may be able to place a unique cookie on your computer for the purpose of targeting advertisements to you when you are visiting this or other web sites. These cookies are used to aggregate historical behaviors in order to deliver ads to you that are likely to be more relevant to you based on the types of web sites visited. A third-party advertisers' use of cookies is subject to their own privacy policies, which may differ from this one. We do not have access to cookies set by third parties.
+
 Users who receive the MGM newsletter or other similar e-mails from us regarding MGM properties and who wish to remove themselves from this mailing list can do so by following the link provided in an e-mail received, or by visiting the "unsubscribe" page on the main MGM.com site, located at [www.mgm.com/register/newsletter_unsubscribe.php](http://www.mgm.com/register/newsletter_unsubscribe.php). However, even if you opt-out from receiving the MGM newsletter or similar e-mails from us regarding MGM properties, we reserve the right to send you certain communications relating to our Site, such as service announcements, notices of changes to this Privacy Policy or our [Terms of Use](https://web.archive.org/terms_of_use.php) or similar administrative or transactional messages, without offering you the opportunity to opt-out of receiving them.
 
 Please be aware that when you are on our Site, you could be directed to other sites that are operated by third parties and beyond our control. For example, our Site provides links to third party sites through which you can purchase merchandise, products or services or participate in blogs, message boards or similar Forums. These links may include links from sponsors or partners that use an MGM logo as part of a co-branding agreement. These other third parties may send their own cookies to visitors, collect data or solicit personal information. You acknowledge that we do not monitor or control the information collection or privacy practices of these or any other third parties, and are not responsible for their practices or the content of their web sites. We encourage you to review the privacy policies of such third parties to understand how they collect and use information.
@@ -91,6 +95,6 @@ Parents of Children may at any time review the personal information about their 
 Name: Metro-Goldwyn-Mayer Studios Inc.  
 Address: 10250 Constellation Boulevard, Los Angeles, California 90067-6241  
 Phone: 310-499-3000   
-E-mail Address: [webmaster@mgm.com](mailto:webmaster@mgm.com)
+E-mail Address: [comments@mgm.com](mailto:comments@mgm.com)
 
-© 2007 Metro-Goldwyn-Mayer Studios Inc. 
+© 2008 Metro-Goldwyn-Mayer Studios Inc. 
