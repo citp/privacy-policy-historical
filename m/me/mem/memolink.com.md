@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memolink.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203093110id_/http%3A//www.memolink.com/index.cfm/beacon/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memolink.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526120648id_/http%3A//www.memolink.com/index.cfm/beacon/privacy_policy) for the most accurate reproduction.*
 
 # Memolink Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Memolink » Privacy Policy
 
-|  **Memolink strictly adheres to the Privacy Policy outlined below.**
+|  **Memolink strictly adheres to the Privacy Statement outlined below.**
 
 We will closely guard any personally identifiable information you disclose to us during registration or at any other point during your memolink.com experience. However, information will be shared with a third party if a member requests for that information to be shared. A member may request that this information be shared, by opting in to programs, lists or newsletters or participating in certain offers or promotions that may require information such as, but not limited to, first name, last name, occupation, email address, mailing address, phone number, selected interests or date of birth. Not all offers/programs/lists/opt-ins specify exactly which pieces of information will be shared. Please contact Memolink through [Member Support](http://support.memolink.com/) if you would like more information about which offers/programs/lists/opt-ins require certain pieces of information to be shared. 
 
