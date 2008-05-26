@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sagepub.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226164339id_/http%3A//www.sagepub.com/privacyPolicy.nav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sagepub.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526205741id_/http%3A//www.sagepub.com/privacyPolicy.nav) for the most accurate reproduction.*
 
 # SAGE - the natural home for authors, editors and societies - Privacy Policy
 
