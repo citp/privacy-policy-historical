@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlelookup.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225232448id_/http%3A//www.articlelookup.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlelookup.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526123725id_/http%3A//www.articlelookup.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # Free Articles| privacy ArticleLookup.com
 
