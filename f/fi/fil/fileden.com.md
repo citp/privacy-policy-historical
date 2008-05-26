@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileden.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225142809id_/http%3A//www.fileden.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileden.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527002458id_/http%3A//www.fileden.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Free file hosting and online storage
 
