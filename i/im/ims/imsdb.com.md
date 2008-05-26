@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029235730id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526235155id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Script Database (IMSDb)
 
@@ -20,13 +20,17 @@ Genre
   
   
   
+Save the seals   
+---  
+[](https://web.archive.org/out/helpseals)  
+  
 Latest Comments   
 ---  
-[Pirates of the Caribbean: Dead Man's Chest](https://web.archive.org/Movie%20Scripts/Pirates%20of%20the%20Caribbean:%20Dead%20Man's%20Chest%20Script.html)| 9/10  
-[Pirates of the Caribbean: Dead Man's Chest](https://web.archive.org/Movie%20Scripts/Pirates%20of%20the%20Caribbean:%20Dead%20Man's%20Chest%20Script.html)| 10/10  
-[Ghost Ship](https://web.archive.org/Movie%20Scripts/Ghost%20Ship%20Script.html)| 5/10  
-[Braveheart](https://web.archive.org/Movie%20Scripts/Braveheart%20Script.html)| 10/10  
-[Indiana Jones IV](https://web.archive.org/Movie%20Scripts/Indiana%20Jones%20IV%20Script.html)| 1/10  
+[Platoon](https://web.archive.org/Movie%20Scripts/Platoon%20Script.html)| 10/10  
+[Sixth Sense, The](https://web.archive.org/Movie%20Scripts/Sixth%20Sense,%20The%20Script.html)| 10/10  
+[All About Eve](https://web.archive.org/Movie%20Scripts/All%20About%20Eve%20Script.html)| 10/10  
+[Collateral](https://web.archive.org/Movie%20Scripts/Collateral%20Script.html)| 9/10  
+[Big Fish](https://web.archive.org/Movie%20Scripts/Big%20Fish%20Script.html)| 10/10  
   
 Other sites   
 ---  
@@ -34,16 +38,24 @@ Other sites
 [](http://www.avatarist.com/ "Avatars")  
 [Avatars](http://www.avatarist.com/ "Avatars")
 
-[](http://www.wiisworld.com/ "Wii Reviews")  
-[Wii Reviews](http://www.wiisworld.com/)
+[](http://www.wiisworld.com/ "Wii")  
+[Wii](http://www.wiisworld.com/)
+
+[](http://www.wallpaperist.com/ "Wallpapers")  
+[Wallpapers](http://www.wallpaperist.com/ "Wallpapers")
 
 [](http://www.tonyhawkguide.com/ "Tony Hawk")  
-[Tony Hawk](http://www.tonyhawkguide.com/)  
+[Tony Hawk](http://www.tonyhawkguide.com/)
+
+[](http://www.kororinpa.com/ "Kororinpa")  
+[Kororinpa](http://www.kororinpa.com/)
+
+[](http://www.rateslist.com/ "Exchange Rates")  
+[Exchange Rates](http://www.rateslist.com/)  
+  
 [](https://web.archive.org/ext.php?id=9992)  
-[](https://web.archive.org/ext.php?id=9993)  
 [](https://web.archive.org/ext.php?id=9999)  
 [](https://web.archive.org/ext.php?id=9995)  
-[](https://web.archive.org/ext.php?id=9994)  
 | 
 
 **_Privacy Policy_**  
