@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iata.org privacy policy that was archived on 2007-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071219123627id_/http%3A//www.iata.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iata.org privacy policy that was archived on 2008-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080526073949id_/http%3A//www.iata.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 		<!-- ------------------------- -->
@@ -34,6 +34,7 @@
 		<script language="JavaScript" src="/NR/ContentConnector/CS2000/SiteInterface/common/js/arrow.js" type="text/JavaScript"></script>
 		<script language="JavaScript" src="/NR/ContentConnector/CS2000/SiteInterface/common/js/popup-window.js" type="text/JavaScript"></script>
 		<script language="JavaScript" src="/NR/ContentConnector/CS2000/SiteInterface/common/js/general_scripts.js" type="text/JavaScript"></script>
+		<script language="JavaScript" src="/NR/ContentConnector/CS2000/SiteInterface/common/js/urchin_script.js" type="text/JavaScript"></script>
 
 
 
@@ -232,26 +233,34 @@ function ClickButton(buttonToClick)
 		<li class="first">
 			<a href="/about/" onmouseover="MM_showHideLayers('aboutmenu','','show')" onmouseout="MM_showHideLayers('aboutmenu','','hide')">
 				About Us</a>
-		</li><li>
+		</li>
+		<li>
 			<a href="/membership/" onmouseover="MM_showHideLayers('membermenu','','show')" onmouseout="MM_showHideLayers('membermenu','','hide')">
 				Membership</a>
-		</li><li>
+		</li>
+		<li>
 			<a href="/workgroups/">Work Groups</a>
-		</li><li>
+		</li>
+		<li>
 			<a href="/whatwedo/" onmouseover="MM_showHideLayers('wwdmenu','','show')" onmouseout="MM_showHideLayers('wwdmenu','','hide')">
 				Areas of Activity</a>
-		</li><li>
+		</li>
+		<li>
 			<a href="/ps/" onmouseover="MM_showHideLayers('psmenu','','show')" onmouseout="MM_showHideLayers('psmenu','','hide')">
 				Services &amp; Solutions</a>
-		</li><li>
+		</li>
+		<li>
 			<a href="/events/" onmouseover="javascript:RightContent_PortalSearch1_ddlSearchCategories.style.visibility = 'hidden'; MM_showHideLayers('eventsmenu','','show')" onmouseout="javascript:RightContent_PortalSearch1_ddlSearchCategories.style.visibility = 'visible'; MM_showHideLayers('eventsmenu','','hide')">
 				Events</a>
-		</li><li>
+		</li>
+		<li>
 			<a href="/training/" onmouseover="javascript:RightContent_PortalSearch1_ddlSearchCategories.style.visibility = 'hidden'; MM_showHideLayers('trainingmenu','','show')" onmouseout="javascript:RightContent_PortalSearch1_ddlSearchCategories.style.visibility = 'visible'; MM_showHideLayers('trainingmenu','','hide')">
 				Training</a>
-		</li><li class="last">
+		</li>
+		<li class="last">
 			<a href="/pressroom.htm" onmouseover="javascript:RightContent_PortalSearch1_ddlSearchCategories.style.visibility = 'hidden'; MM_showHideLayers('pressmenu','','show')" onmouseout="javascript:RightContent_PortalSearch1_ddlSearchCategories.style.visibility = 'visible'; MM_showHideLayers('pressmenu','','hide')">
-				Pressroom</a></li>
+				Pressroom</a>
+		</li>
 	</ul>
 </div>
 <div id="SubNavBar">
@@ -379,27 +388,34 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 					<!-- ------------------------- -->
 					<div id="rightcol">
 
-
+<!--<SCRIPT language=JavaScript src="/IATA/Common/js/s_code.js"></SCRIPT>-->
 <script language="javascript">
-function printpr(){
-if(navigator.appName == "Microsoft Internet Explorer"){
-var OLECMDID = 7; 
-/* OLECMDID values: 
-* 6 - print 
-* 7 - print preview 
-* 1 - open window 
-* 4 - Save As 
-*/ 
-var PROMPT = 1; // 2 DONTPROMPTUSER 
-var WebBrowser = '<OBJECT ID="WebBrowser1" WIDTH=0 HEIGHT=0 CLASSID="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"></OBJECT>'; 
-document.body.insertAdjacentHTML('beforeEnd', WebBrowser); 
-WebBrowser1.ExecWB(OLECMDID, PROMPT); 
-WebBrowser1.outerHTML = ""; 
-}else if(navigator.userAgent.indexOf("Firefox")!=-1){
-window.print();
+function displayHTML(printContent) {
+var inf = printContent;
+win = window.open('', 'popup', 'width = 730,scrollbars = yes, toolbar = no, status = no');
+win.document.write('<HTML><HEAD><title>Print Preview</title>');
+win.document.write('<STYLE>');
+win.document.write('a{color:#000000;text-decoration:underline;}');
+win.document.write('#breadcrumbs{display:none;}');
+win.document.write('@media print{.btn{display:none}}');
+win.document.write('.btn{padding: 2px 2px 2px 8px;margin: 0px 0px 0px 0px;height: 20px;font: bold 7.5pt Arial, Helvetica, sans-serif;color: #293746;border: 1px solid #7C95A4;background: url(/NR/ContentConnector/CS2000/SiteInterface/images/2005/btn_bg.gif) #FFFFFF no-repeat;vertical-align: middle;text-align: center;cursor: hand;}');
+win.document.write('</STYLE>');
+win.document.write('</HEAD>');
+win.document.write('<BODY style="font-family:Arial, Helvetica, sans-serif; font-size:12px" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">')
+win.document.write('<IMG SRC="/NR/ContentConnector/CS2000/SiteInterface/images/2005/logo_print.gif"></br>');
+win.document.write('<div align="right">');
+win.document.write('<INPUT class=btn ID="PRINT" type="button" value="Print" ');
+win.document.write('onclick="javascript:location.reload(true);window.print();">&nbsp;&nbsp;');
+win.document.write('<INPUT class=btn ID="PRINT" type="button" value="Close" ');
+win.document.write('onclick="javascript:location.reload(true);window.close();">&nbsp;&nbsp;');
+win.document.write('</div>');
+win.document.write('<div style="margin-bottom:0px; margin-left:7px; margin-right:7px; margin-top:0px;" >');
+win.document.write(inf);
+win.document.write('</div>');
+win.document.write('</BODY>')
+win.document.write('</HTML>')
+//win.document.close();
 }
-}
-
 </script>
 
 <div id="subnavsearch">
@@ -417,7 +433,7 @@ window.print();
 	<option value="workgroups">Work Groups</option>
 
 </select>&nbsp;<input type="submit" name="RightContent:PortalSearch1:Search" value="Go" id="RightContent_PortalSearch1_Search" class="btn"></span></div></span>
-		<div id="rightbuttons"><a class="print" href="javascript:printpr();">Print this page</a></div>
+		<div id="rightbuttons"><a class="print" href="javascript:void(0);" onclick="displayHTML(document.getElementById('content').innerHTML);">Print this page</a></div>
 </div>
 <div class="dotted"></div>
 						<!-- ------------------------- -->
