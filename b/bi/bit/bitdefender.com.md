@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitdefender.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218092151id_/http%3A//www.bitdefender.com/site/view/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitdefender.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527015205id_/http%3A//www.bitdefender.com/site/view/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
