@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rimweb.in privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222173255id_/http%3A//www.rimweb.in/index.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rimweb.in privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526130649id_/http%3A//rimweb.in/index.php%3Fprivacy) for the most accurate reproduction.*
 
 # RIMweb.in :: Reliance Mobile ( Reliance IndiaMobile ) Discussion Forums
 
@@ -18,7 +18,7 @@ Some basic personal information is required in order to register with RIMweb.in:
 
 When you register, you are asked to give demographic information (like birth year, occupation, and gender). We ask you to tell us a little about yourself so we can better understand the types of people who register. This information can also be used to provide you with content that may be of interest to you, and to show you advertisements that are relevant to your demographic information. RIMweb.in uses outside ad companies to display ads on its sites. These ads may contain cookies. While RIMweb.in uses cookies in other parts of its sites, the ad companies also use cookies with the ads displayed, and RIMweb.in may not have access to this information.
 
-## Children’s Online Privacy Protection Act
+## Children's Online Privacy Protection Act
 
 No children under 13 are allowed to participate in RIMweb.in
 
@@ -32,20 +32,24 @@ RIMweb.in uses cookies to customize your experience while using the Forums. A co
 
 ## Private Messages
 
-The purpose of private messages is to allow for discreet conversations between members. Normal forums rules apply to private messages. 
+The purpose of private messages is to allow for discreet conversations between members. Normal forums rules apply to private messages.
 
-If you receive a private message which breaches RIMweb.in forums guidelines, is threatening, abusive or contains illegal content please forward it onto one of the RIMweb.in administrators immediately. Do not reply to the person sending you the private message. 
+If you receive a private message which breaches RIMweb.in forums guidelines, is threatening, abusive or contains illegal content please forward it onto one of the RIMweb.in administrators immediately. Do not reply to the person sending you the private message.
 
-While the name "private messages" gives the suggestion that they are private, they are part of the database & as such accessible to RIMweb.in administrators. So, while they are private, they are not necessarily secret. RIMweb.in has a policy of respecting member's privacy & would never access member's private message unless the following reasons applied: 
+While the name "private messages" gives the suggestion that they are private, they are part of the database & as such accessible to RIMweb.in administrators.
 
-> We have reason to believe that a member is using the PM system to engage in illegal behaviour.   
-> We have reason to believe that a member is using the PM system to slander a person or business, which could result in damage to their reputation.   
-> We have reason to believe that a member is using the PM system to cause harm to others.   
-> We have reason to believe that a member is using the PM system to solicit money from members, such as phishing.   
-> We have reason to believe that a member is using the PM system to spam members.   
-> We have reason to believe that a member is using the PM system to threaten members.   
-> We believe that a person is using the PM system in order to cause damage to RIMweb.in.   
-> We believe that a person is using the PM system for any electronic piracy related activities. 
+So, while they are private, they are not necessarily secret. RIMweb.in has a policy of respecting member's privacy & would never access member's private message unless the following reasons applied:
+
+  * We have reason to believe that a member is using the PM system to engage in illegal behaviour
+  * We have reason to believe that a member is using the PM system to slander a person or business, which could result in damage to their reputation
+  * We have reason to believe that a member is using the PM system to cause harm to others
+  * We have reason to believe that a member is using the PM system to solicit money from members, such as phishing
+  * We have reason to believe that a member is using the PM system to spam members
+  * We have reason to believe that a member is using the PM system to threaten members
+  * We believe that a person is using the PM system in order to cause damage to RIMweb.in
+  * We believe that a person is using the PM system for any electronic piracy related activities
+
+
 
 ## RIMweb.in emails/newsletters
 
