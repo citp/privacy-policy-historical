@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mlmrehab.com privacy policy that was archived on 2006-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060523182432id_/http%3A//mlmrehab.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmrehab.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526095441id_/http%3A//www.mlmrehab.com/privacy.cfm) for the most accurate reproduction.*
 
-# MLM Rehab.com - T1 - Is it Right for You?
+# MLM Rehab.com - The Art of Pricing a T1 Line
 
 Below is a list of the information collected by this website, with it's intended purpose. 
 
