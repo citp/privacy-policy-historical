@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the incomecloner.com privacy policy that was archived on 2007-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071110065654id_/http%3A//incomecloner.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomecloner.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526161206id_/http%3A//www.incomecloner.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for www.ExplosiveCashSystem.com
 
  
-
-**www.thesuccesscloner.com**
-
- **
-
-##  PRIVACY POLICY
-
-****
 
 **PRIVACY POLICY**  
 **\-- IMPORTANT -- PLEASE READ**
@@ -133,10 +125,6 @@ If any matter concerning this purchase shall be brought before a court of law, p
 
 Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).  
 **COPYRIGHT** **AND** **LICENSE  **  
-This "Privacy Policy" is copyrighted © 2003-2006 by Mining Gold Corporation Nevada Processing Center, Inc  (888) 214-3349, and is fully licensed for use by this website.  If you wish to lawfully use this Terms of Use on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information or visit  [legal documents website.](http://www.internet-law-compliance.com/)
-
-**  
+This "Privacy Policy" is copyrighted © 2003-2006 by Mining Gold Corporation Nevada Processing Center, Inc  (888) 214-3349, and is fully licensed for use by this website.  If you wish to lawfully use this Terms of Use on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information or visit  [legal documents website.](http://www.internet-law-compliance.com/)  
   
-© 2007 **www.thesuccesscloner.com** , All rights reserved.
-
- **Ryder Marketing Inc.**
+© 2008 **Ryder Marketing Inc.** , All rights reserved.
