@@ -1,421 +1,187 @@
-<!--The following is the downloaded HTML source of the sircon.com privacy policy that was archived on 2006-07-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060709020553id_/http%3A//www.sircon.com/resources/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sircon.com privacy policy that was archived on 2008-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080526182751id_/http%3A//www.sircon.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Sircon is the leading solution provider of regulatory and compliance automation for insurance carriers, agencies, producers and state regulators.  Sircon manages the entire producer lifecycle to reduce costs, increase revenue opportunities and keep companies in compliance.">
-<meta name="keywords" content="insurance, regulatory, regulator, appointments, terminations, licensing, recruiting, hiring, contracting, producer, carrier, agent, broker, insurance, distributor, agency, Sircon, Innovative IT Solutions, COSMOS, sircon corporation, Innovative IT, renewals">
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="-1">
-<title>Sircon Corporation -- Privacy Statement</title>
-<link href="/css/main.css" rel="stylesheet" type="text/css">
-
-<link rel="SHORTCUT ICON" href="/images/icon.ico">
-
-<script language="JavaScript" type="text/JavaScript">
-/* <![CDATA[ */
-
-// ------------------------------------------
-
-function domFork(elm) { // returns object from id
-  var tElm=document.getElementById?document.getElementById(elm):document.all?document.all[elm]:document.layers[elm];
-  return tElm;
-}
-
-// ------------------------------------------
-
-function stateInfo(state) {
-  var objContainer = domFork("stInfoSwap");
-  if (state != "" && domFork(state)) {
-    //state = state.toLowerCase();
-    objContainer.innerHTML = domFork(state).innerHTML;
-    domFork("stateList").value = state;
-  } else {
-    if (state == "") {state = "zz"}
-    objContainer.innerHTML = "<h4>" + state.toUpperCase() + "</h4><p>The information for <b>" + state.toUpperCase() + "</b> has yet to be included.</p>"
-    domFork("stateList").value = state;
-  }
-}
-
-function viewAllStates(objTog) {
-  var stateBlockArray = domFork("allStates").childNodes;
-  for (var i=0;i<stateBlockArray.length;i++) {
-    //alert(stateBlockArray[i].id);
-    if (objTog.className == "allOff") {
-      stateBlockArray[i].style.visibility = "visible";
-      stateBlockArray[i].style.display = "block";
-    } else {
-      stateBlockArray[i].style.visibility = "hidden";
-      stateBlockArray[i].style.display = "none";
-    }
-  }
-  if (objTog.className == "allOff") {
-    objTog.className = "allOn";
-    objTog.innerHTML = "Hide all state information";
-  } else {
-    objTog.className = "allOff";
-    objTog.innerHTML = "View all state information";
-  }
-}
-
-function toggle(el,targ) {
-  var objTogElm = domFork(targ);
-  var objArrow = el.childNodes[1];
-  if (objTogElm.style.visibility != "visible") {
-    if (el.className == "ld" && domFork("stateSelect")) {
-      domFork("stateSelect").style.visibility = "hidden";
-      //domFork("stateSelect").style.display = "none";
-    }
-    objArrow.src = "images/arrowUpOn.gif"
-    objTogElm.style.visibility = "visible";
-    objTogElm.style.display = "block";
-    el.title = "Click to CLOSE";
-  } else {
-    if (el.className == "ld" && domFork("stateSelect")) {
-      domFork("stateSelect").style.visibility = "visible";
-      //domFork("stateSelect").style.display = "inline";
-    }
-    objArrow.src = "images/arrowDownOff.gif"
-    objTogElm.style.visibility = "hidden";
-    objTogElm.style.display = "none";
-    el.title = "Click to OPEN";
-  }
-}
-
-function viewSub(link,objTargetEl) {
-  var togImg = link.lastChild;
-  var objTogElm = domFork(objTargetEl);
-  if (objTogElm.style.visibility != "visible") {
-    //link.style.backgroundColor = "#ff8c00";
-    objTogElm.style.visibility = "visible";
-    objTogElm.style.display = "block";
-    link.className = "inlineOn";
-    togImg.src = "images/subUp.gif";
-  } else {
-    //link.style.backgroundColor = "#f5deb3";
-    objTogElm.style.visibility = "hidden";
-    objTogElm.style.display = "none";
-    link.className = "inline";
-    togImg.src = "images/subDown.gif";
-  }
-}
-
-function hover(el) {
-  if (el.style.backgroundColor == "#bbccdd" || el.style.backgroundColor == "") {
-    el.style.backgroundColor = "#efefef";
-  } else {
-    el.style.backgroundColor = "#bbccdd";
-  }
-}
-
-// ------------------------------------------
-
-/*]]>*/
-</script>
-<script type="text/javascript">
-<!--
-var time = 3000;
-var numofitems = 7;
-
-//menu constructor
-function menu(allitems,thisitem,startstate){ 
-  callname= "gl"+thisitem;
-  divname="subglobal"+thisitem;  
-  this.numberofmenuitems = 7;
-  this.caller = document.getElementById(callname);
-  this.thediv = document.getElementById(divname);
-  this.thediv.style.visibility = startstate;
-}
-
-//menu methods
-function ehandler(event,theobj){
-  for (var i=1; i<= theobj.numberofmenuitems; i++){
-    var shutdiv =eval( "menuitem"+i+".thediv");
-    shutdiv.style.visibility="hidden";
-  }
-  theobj.thediv.style.visibility="visible";
-}
-				
-function closesubnav(event){
-  if ((event.clientY <70)||(event.clientY > 180)){
-    for (var i=1; i<= numofitems; i++){
-      var shutdiv =eval('menuitem'+i+'.thediv');
-      shutdiv.style.visibility='hidden';
-    }
-  }
-}
-// -->
-</script>
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-}
-MM_reloadPage(true);
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_showHideLayers() { //v6.0
-  var i,p,v,obj,args=MM_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
-    obj.visibility=v; }
-}
-//-->
-</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/sub_about.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Sircon Corporation</title>
+<!-- InstanceEndEditable -->
+<link href="styles_common.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="webControls/cxLinksNew.js"></script>
+<script type="text/javascript" src="webControls/cxLinksMain.js"></script>
+<script type="text/javascript" src="webControls/dwbehaviors.js"></script>
+<script type="text/javascript" src="js/stateinfo.js"></script>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable --><!-- InstanceParam name="submenu /optional" type="boolean" value="false" --><!-- InstanceParam name="featured /optional" type="boolean" value="false" --><!-- InstanceParam name="content after /optional" type="boolean" value="false" --><!-- InstanceParam name="parent /optional" type="boolean" value="false" -->
 
 </head>
 
-<body onmousemove="closesubnav(event);">
-
-<div id="pageedges">
-<div id="page">
-  <div id="header">
-     <style type="text/css">
-<!--
-.style1 {
-	color: #990000;
-	font-weight: bold;
-}
--->
-</style>
-<div id="logo"><img src="/images/header.gif" width="547" height="50"></div>
-<div id="mainnavbar">
-<div id="mainlogin">
-  <div id="loginflash">
-  <div id="loginwindow">
-  	<form name="loginForm" method="post" action="/ComplianceExpress/login.do" id="loginForm">
-	  <div id="logintextdivides"><span class="logintextlabels">Account ID:</span><input name="accountId" type="text" class="logintextinput" value="" size="20" maxlength="9"></div>
-      <div id="logintextdivides"><span class="logintextlabels">Login Name:</span><input name="loginName" type="text" class="logintextinput" value="" size="20" maxlength="24"></div>       
-      <div id="logintextdivides"><span class="logintextlabels">Password:</span><input name="password" type="password" class="logintextinput" value="" size="20" maxlength="16"></div> 
-      <div class="logintextlabels"><a href="#" onclick="MM_showHideLayers('loginwindow','','hide')">close login window</a></div>
-      <input value="Login" border="0" type="submit" class="loginbutton">
-  	</form>
-	<br><br>
-     <span class="logintextlabels"><a href="/producers/workbench.jsp">Apply for a license and more...</a></span>
-	</div>
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="81" height="25">
-      <param name="movie" value="/flash/loginnew.swf">
-	  <param name="menu" value="false">
-      <param name="quality" value="high">
-      <embed src="/flash/loginnew.swf" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="81" height="25">
-    </object>
-</div>
-  <div id="login"><a href="#" onclick="MM_showHideLayers('loginwindow','','show')">Account Login</a></div>
-</div>
-</div>
-
-  </div>
-  <div id="header">
-     <style type="text/css">
-<!--
-.style2 {
-	color: #076396;
-	font-weight: bold;
-}
-.style3 {color: #076396}
--->
-</style>
-<div id="mainnavbar2">
-<div id="mainlinks">
-      <div id="globalNav"> 
-      <a href="/index.jsp" id="gl1" class="glink" onmouseover="ehandler(event,menuitem1);">Home</a><span class="separators"> | </span>
-	  <a href="/services/index.jsp" id="gl2" class="glink" onmouseover="ehandler(event,menuitem2);">Services</a><span class="separators"> | </span>
-	  <a href="/customers/case.jsp" id="gl3" class="glink" onmouseover="ehandler(event,menuitem3);">Customers</a><span class="separators"> | </span>
-	  <a href="/about/corporate.jsp" id="gl4" class="glink" onmouseover="ehandler(event,menuitem4);">About Us</a><span class="separators"> | </span>
-	  <a href="/news/archives.jsp" id="gl5" class="glink" onmouseover="ehandler(event,menuitem5);">News &amp; Events</a><span class="separators"> | </span>
-	  <a href="/partners/index.jsp" id="gl6" class="glink" onmouseover="ehandler(event,menuitem6);">Partners</a><span class="separators"> | </span>
-	  <a href="/contact/customersupport.jsp" id="gl7" class="glink" onmouseover="ehandler(event,menuitem7);">Contact Us</a> 
+<body>
+<a name="top" id="top"></a>
+<div id="bodywrap">
+  <div id="logo_sub"></div>
+  <div id="rightside_sub">
+  	<div id="homelink">
+      <p><a href="index.html">Sircon Home</a></p>
     </div>
-      <div id="subglobal1" class="subglobalNav" style="visibility: hidden;"> 
-
-  </div> 
-  <div id="subglobal2" class="subglobalNav" style="visibility: hidden;"> 
-    <a href="/services/index.jsp">Services Overview</a> | <a href="/services/ComplianceExpress/">Compliance Express</a> | <a href="/services/ProducerExpress/">Producer Express</a> | <a href="/services/ProducerManager/">Producer Manager</a> | <a href="/services/SirconStates/">Sircon for States</a>
-  </div> 
-  <div id="subglobal3" class="subglobalNav" style="visibility: hidden;"> 
-  </div>    
-  <div id="subglobal4" class="subglobalNav" style="visibility: hidden;"> 
-    <a href="/about/corporate.jsp">Corporate Information</a> | <a href="/about/executive.jsp">Executive Bios</a> | <a href="/about/community.jsp">Community Initiatives</a>
-  </div> 
-  <div id="subglobal5" class="subglobalNav" style="visibility: hidden;"> 
-    <a href="/news/archives.jsp">Press Releases</a> | <a href="/news/events.jsp">Events</a> | <a href="/news/articles.jsp">Articles</a> | <a href="/news/webinars/">Webinars</a>
-  </div> 
-  <div id="subglobal6" class="subglobalNav" style="visibility: hidden;"> 
-    <a href="/contact/partnerreferral.jsp">Partner Referral Program</a>
-  </div> 
-  <div id="subglobal7" class="subglobalNav" style="visibility: hidden;"> 
-    <a href="/contact/customersupport.jsp">Customer Support Request</a> | <a href="/contact/">Information Request Form</a> | <a href="/contact/directions.jsp">Directions to Sircon</a>
+    <div id="stateinfo">
+      <h2>State Info Center</h2>
+      <p>Please select a state from the menu to find online services, contacts, web site addresses. </p>
+      <p><!-- #BeginLibraryItem "/Library/inc_statelist.lbi" -->
+                <select id="stateList" name="stateList" class="" onchange="stateInfo(this.value);">
+                  <option value="zz">Select a state</option>
+                  <option value="al">Alabama</option>
+                  <option value="ak">Alaska</option>
+                  <option value="az">Arizona</option>
+                  <option value="ar">Arkansas</option>
+                  <option value="ca">California</option>
+                  <option value="co">Colorado</option>
+                  <option value="ct">Connecticut</option>
+                  <option value="de">Delaware</option>
+                  <option value="dc">D.C.</option>
+                  <option value="fl">Florida</option>
+                  <option value="ga">Georgia</option>
+                  <option value="hi">Hawaii</option>
+                  <option value="id">Idaho</option>
+                  <option value="il">Illinois</option>
+                  <option value="in">Indiana</option>
+                  <option value="ia">Iowa</option>
+                  <option value="ks">Kansas</option>
+                  <option value="ky">Kentucky</option>
+                  <option value="la">Louisiana</option>
+                  <option value="me">Maine</option>
+                  <option value="md">Maryland</option>
+                  <option value="ma">Massachusetts</option>
+                  <option value="mi">Michigan</option>
+                  <option value="mn">Minnesota</option>
+                  <option value="ms">Mississippi</option>
+                  <option value="mo">Missouri</option>
+                  <option value="mt">Montana</option>
+                  <option value="ne">Nebraska</option>
+                  <option value="nv">Nevada</option>
+                  <option value="nh">New Hampshire</option>
+                  <option value="nj">New Jersey</option>
+                  <option value="nm">New Mexico</option>
+                  <option value="ny">New York</option>
+                  <option value="nc">North Carolina</option>
+                  <option value="nd">North Dakota</option>
+                  <option value="oh">Ohio</option>
+                  <option value="ok">Oklahoma</option>
+                  <option value="or">Oregon</option>
+                  <option value="pa">Pennsylvania</option>
+                  <option value="ri">Rhode Island</option>
+                  <option value="sc">South Carolina</option>
+                  <option value="sd">South Dakota</option>
+                  <option value="tn">Tennessee</option>
+                  <option value="tx">Texas</option>
+                  <option value="ut">Utah</option>
+                  <option value="vt">Vermont</option>
+                  <option value="va">Virginia</option>
+                  <option value="wa">Washington</option>
+                  <option value="wv">West Virginia</option>
+                  <option value="wi">Wisconsin</option>
+                  <option value="wy">Wyoming</option>
+                </select>
+		  <!-- #EndLibraryItem --></p>
+    </div>
+    </div>
+  <div id="bodyrules_sub" class="mastabout">
+  	<div id="header">
+	  <ul id="navsection">
+      	<li><a href="about_news.html">News &amp; Events</a></li>
+        <li><a href="about_success.html">Success Stories</a></li>
+    	<li><a href="about_info.html">Company Info</a></li>
+    	<li><a href="about_careers.html">Careers</a></li>
+    	<li><a href="about_contact.html">Contact Sircon</a></li>
+	  </ul>
+      <div id="linksdiv"><ul id="mpLinks" class="navother">
+<li><strong>Quick Start for Agents</strong></li>
+  <li><a href="https://www.sircon.com/ComplianceExpress/LicenseApplications/index.jsp?nonSscrb=Y&amp;sscrbid=9999">Apply for a License</a></li>
+  <li><a href="https://www.sircon.com/ComplianceExpress/LicenseRenewals/index.jsp?nonSscrb=Y&amp;sscrbid=9999">Renew or Reinstate Your License</a></li>
+  <li><a href="https://www.sircon.com/ComplianceExpress/Inquiries/licenseRenewalInquiry.do?action=start&amp;nonSscrb=Y&amp;sscrbid=9999">Check License Renewal Status</a></li>
+  <li><a href="https://www.sircon.com/ComplianceExpress/Inquiries/licenseApplicationInquiry.do?action=start&amp;nonSscrb=Y&amp;sscrbid=9999">Check License Application Status</a></li>
+  <li><a href="https://www.sircon.com/ComplianceExpress/NonSscrbEducation/index.jsp?nonSscrb=Y&amp;sscrbid=9999">Look Up Education Courses/Credits</a></li>
+<li><a href="http://web.archive.org/start_more.html">More Services</a></li>
+<li><a href="http://web.archive.org/start_help.html">Get Help</a></li>
+</ul>
+</div>
+      <script language="javascript">getMainLinks("linksdiv","Quick Start for Agents")</script>
+	  <!--ul class="navother">
+  		<li><strong>Quick Start for Agents</strong></li>
+        <li><a href="javascript:submitLink(0);">Apply for a License</a></li>
+  		<li><a href="javascript:submitLink(1);">Renew Your License</a></li>
+  		<li><a href="javascript:submitLink(3);">Check License Renewal Status</a></li>
+  		<li><a href="javascript:submitLink(4);">Check License Application Status</a></li>
+  		<li><a href="javascript:submitLink(2);">Look Up Education Courses/Credits</a></li>
+	    <li><a href="../start_more.html">More Services</a></li>
+        <li><a href="../start_help.html">Get Help</a></li>
+	  </ul-->
+      <ul class="navother">
+  		<li><strong>Products &amp; Services</strong></li>
+        <li><a href="login/prod_forcarriers.html">For Carriers</a></li>
+        <li><a href="login/prod_foragencies.html">For Agencies and Brokerages</a></li>
+        <li><a href="prod_foragents.html">For Individual Agents</a></li>
+        <li><a href="prod_forstate.html">For State Regulators</a></li>
+        <li><a href="prod_foreducation.html">For Education Providers</a></li>
+        <li><a href="prod_consulting.html">Consulting Services</a></li>
+        <li><a href="start_help_faq.html">Frequently Asked Questions</a></li>
+	  </ul>
+    </div>
+	<div id="content_sub">
+    	<a href="index.html"><img src="images/logo_sub.gif" alt="sircon logo" width="220" height="50" border="0" class="logo_sub"></a>
+   	  <p></p>
+   	    <h1><!-- InstanceBeginEditable name="page title" -->Privacy Policy<!-- InstanceEndEditable --></h1>
+        <!-- InstanceBeginEditable name="Content" -->
+        <p class="highlight">Updated: April 27, 2006</p>
+        <h2>Collection of your  Personal Information</h2>
+        <p>The Site may collect certain information about your  visit, such as the name of the Internet service provider and the Internet  Protocol (IP) address through which you access the Internet; the date and time  you access the Site; the pages that you access while at the Site and the  Internet address of the Web site from which you linked directly to our site.  This information is used to help improve the site, analyze trends and  administer the site. Some of our sites collect information about your hardware  and software in order to provide a requested service. </p>
+        <h2>Use of your Personal  Information</h2>
+        <p>The personal information collected on this Site will be  used to operate the Site and to provide the service(s) or carry out the  transaction(s) you have requested or authorized. In support of these uses,  Sircon may use personal information to provide you with more effective customer  service, to improve the Site and any related Sircon products or services. We  may use your personal information to provide you with important information  about the product or service that you are using, including critical updates and  notifications. Additionally, we may send you information about other Sircon  products and services. Sircon may disclose personal information if required to  do so by law or in the good faith belief that such action is necessary to (a)  conform to the edicts of the law or comply with legal process served on Sircon  or the Site; (b) protect and defend the rights or property of Sircon and our  family of Web Services and Sites; or (c) act in urgent circumstances to protect  the personal safety of Sircon employees or agents, users of Sircon products or  services, or members of the public.</p>
+        <h2>Control of your Personal  Information</h2>
+        <p>Except as otherwise described in this statement, personal  information you provide on the Site will not be shared outside of Sircon and  its controlled subsidiaries and affiliates without your permission. Sircon may  send out periodic e-mails informing you of technical service or security issues  related to a product or service you requested, or confirming you requested a  product or service. In some services offered by Sircon, contact with the  customer is an intrinsic part of the service. You will not be able to choose to  unsubscribe to these mailings, as they are considered an essential part of the  service(s) you have chosen. </p>
+        <h2>Security of your Personal  Information</h2>
+        <p>Sircon is committed to protecting the security of your  personal information. We use a variety of security technologies and procedures  to help protect your personal information from unauthorized access, use, or  disclosure. For example, we store the personal information you provide on  computer servers with limited access that are located in controlled facilities.  Additionally, when we transmit sensitive personal information (such as a credit  card number) over the Internet, we protect it through the use of encryption,  such as the Secure Socket Layer (SSL) protocol. </p>
+        <h2>Use of Cookies</h2>
+        <p>We use cookies on this Site to ensure the integrity of  the registration process and to personalize the Site. A cookie is a small text  file that is placed on your hard disk by a Web page server. Cookies cannot be  used to run programs or deliver viruses to your computer. Cookies are uniquely  assigned to you, and can only be read by a Web server in the domain that issued  the cookie to you. One of the primary purposes of cookies is to provide a  convenience feature to save you time. For example, if you personalize a web  page, or navigate within a site, a cookie helps the site to recall your  specific information on subsequent visits. This simplifies the process of  delivering relevant content, eases site navigation, and so on. When you return  to the Web site, the information you previously provided can be retrieved, so  you can easily use the site's features that you customized. Web beacons, also  known as clear gif technology, or action tags, may be used to assist in  delivering the cookie on our site. This technology is a tool we use to compile  aggregated statistics about Sircon Web site usage, such as how many visitors  clicked on key elements (such as links or graphics) on a Sircon Web page, blog  or a newsletter. We may share aggregated site statistics with partner  companies. You have the ability to accept or decline cookies. Most Web browsers  automatically accept cookies, but you can usually modify your browser setting  to decline cookies if you prefer. If you choose to decline cookies, you may not  be able to fully experience the interactive features of this or other Web sites  you visit. </p>
+        <h2>Enforcement of this  Privacy Statement</h2>
+        <p>If you have questions regarding this statement, you  should contact Sircon and <a href="mailto:info@sircon.com">info@sircon.com</a>. </p>
+        <h2>Changes to this Statement</h2>
+        <p>We may occasionally update this privacy statement. When  we do, we will also revise the "Updated" date at the top of the  privacy statement. We encourage you to periodically review this privacy  statement to stay informed about how we are helping to protect the personal  information we collect. Your continued use of the service constitutes your  agreement to this privacy statement and any updates. </p>
+        <h2>Contact Information</h2>
+        <p>Sircon welcomes your comments regarding this privacy  statement. If you believe that Sircon has not adhered to this privacy  statement, please contact us via <a href="mailto:info@sircon.com">info@sircon.com</a>  or via postal mail at the address provided below, and we will use commercially  reasonable efforts to promptly determine and remedy the problem. </p>
+        <p><strong>Sircon Corporation</strong><br>
+          2112 University Park Drive<br>
+          Okemos, Michigan 48864 </p>
+      <!-- InstanceEndEditable --></div>
+	<div id="clearcontent"></div>
+    <div id="footer">
+	  <p><a href="privacy.html">Privacy Policy</a>  |  <a href="sitemap.html">Site Map</a> | <a href="fcra.html">Fair Credit Reporting Act</a>  | <a href="about_info.html">Company Info</a>   | <a href="about_contact.html">Contact Us</a></p>
+    </div>
   </div>
-  <script type="text/javascript">
-    <!--
-      var menuitem1 = new menu(7,1,"hidden");
-			var menuitem2 = new menu(7,2,"hidden");
-			var menuitem3 = new menu(7,3,"hidden");
-			var menuitem4 = new menu(7,4,"hidden");
-			var menuitem5 = new menu(7,5,"hidden");
-			var menuitem6 = new menu(7,6,"hidden");
-			var menuitem7 = new menu(7,7,"hidden");
-    // -->
-    </script>   
-</div>
-</div>
-		<div id="announcetext">&nbsp;</div>
-		<div id="logintext">Apply for a license and more, <a href="/producers/workbench.jsp">click here!</a></div>
-
+  <div id="sirconlink">
+    <p><a href="login/index.html">Login.sircon &gt;</a></p>
   </div>
-	<div id="mainwrapper">
-			<div id="headlinecontent">
-			<div id="headlinetitle"> 
-Headlines -
-    <script>
-				var mydate=new Date()
-				var year=mydate.getYear()
-				if (year < 1000)
-				year+=1900
-				if (year > 1999)
-				daym=daym-"20"
-				var day=mydate.getDay()
-				var month=mydate.getMonth()+1
-				var daym=mydate.getDate()
-				document.write(month+"/"+daym+"/"+year)
-				</script>1/30/2020
-  </div>
-<div id="headlinetext">
-
-  <a href="/news/5_08_06.jsp"><strong>5.8.06</strong> - Sircon, Thomson Prometric and the Commonwealth of Pennsylvania Team-Up to Deliver Streamlined Licensing...</a><br>
-  <br>
-  <a href="/news/5_05_06.jsp"><strong>5.5.06</strong> - Executive Honored By Marketing &amp; Sales Executives of Detroit...</a><br>
-  <br>
-  <a href="/news/3_27_06.jsp"><strong>3.27.06</strong> - Sircon and Efficient Forms Partner to Build Network for Insurance Industry...</a><br>
-
-
-
-
-  
 </div>
-
-	  		</div>
-			<div id="rightcontent">
-			  <div id="rightcontenttitleback">
-  		    <div id="rightcontenttitle">Privacy Statement </div>
-  		  </div>
-		  <div id="rightcontenttext">
-		    <p>Updated:  April 27, 2006</p>
-		    <h2>Collection of your Personal Information      </h2>
-		    <p>The Site may collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. This information is used to help improve the site, analyze trends and administer the site. Some of our sites collect information about your hardware and software in order to provide a requested service.        </p>
-		    <h2>Use of your Personal Information          </h2>
-		    <p>The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized.
-            
-In support of these uses, Sircon may use personal information to provide you with more effective customer service, to improve the Site and any related Sircon products or services. 
-            
-We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally,  we may send you information about other Sircon products and services.
-            
-Sircon may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Sircon or the Site; (b) protect and defend the rights or property of Sircon and our family of Web Services and Sites; or (c) act in urgent circumstances to protect the personal safety of Sircon employees or agents, users of Sircon products or services, or members of the public.            </p>
-		    <h2>Control of your Personal Information            </h2>
-		    <p>Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Sircon and its controlled subsidiaries and affiliates without your permission. 
-              
-Sircon may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. In some services offered by Sircon, contact with the customer is an intrinsic part of the service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service(s) you have chosen.            </p>
-		    <h2>Security of your Personal Information</h2>
-		    <p> Sircon is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.            </p>
-		    <h2>Use of Cookies            </h2>
-		    <p>We use cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. 
-              One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the Web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized.
-              Web beacons, also known as clear gif technology, or action tags, may be used to assist in delivering the cookie on our site. This technology is a tool we use to compile aggregated statistics about Sircon Web site usage, such as how many visitors clicked on key elements (such as links or graphics) on a Sircon Web page, blog or a newsletter. We may share aggregated site statistics with partner companies.
-              You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Web sites you visit.            </p>
-		    <h2>Enforcement of this Privacy Statement            </h2>
-		    <p>If you have questions regarding this statement, you should contact Sircon and <a href="mailto:info@sircon.com">info@sircon.com</a>.            </p>
-		    <h2>Changes to this Statement            </h2>
-		    <p>We may occasionally update this privacy statement. When we do, we will also revise the "Updated" date at the top of the privacy statement.  We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.            </p>
-		    <h2>Contact Information            </h2>
-		    <p>Sircon welcomes your comments regarding this privacy statement. If you believe that Sircon has not adhered to this privacy statement, please contact us via <a href="mailto:info@sircon.com">info@sircon.com</a> or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.</p>
-		    <p>Sircon Corporation<br> 
-		      2112 University Park Drive
-                      <br>
-              Okemos, Michigan  48864</p>
-            <p></p>
-		    </div>
-			</div>
-
-  		    <div id="leftcontent">
-			  <div id="leftcontenttitleback">
-  		    <div id="leftcontenttitle">2006 Upcoming Events!</div>
-  		  </div>
-		  <div id="leftcontenttext"><img src="/images/graphic_events.gif" alt="Upcoming Events" width="165" height="105" border="0" usemap="#Map">
-            <map name="Map">
-              <area shape="rect" coords="1,2,161,103" href="../news/events.jsp">
-            </map>
+<div id="copyright">
+	<p>©2008 Sircon Corporation  |  2112 University Park Drive  |  Okemos, MI 48864 | 877.876.4430</p>
 </div>
-	  
-			</div>
-
-  		<div id="leftcontent">
-		  		  <div id="leftcontenttitleback">
-  		    <div id="leftcontenttitle">Geico Stamp of Approval!</div>
-  		  </div>
-<div id="leftcontenttext">
-  <a href="../news/articles.jsp"><img src="/images/graphic_states.gif" width="165" height="105" border="0"></a><br>
-  
-</div>
-	  
-		</div>
-	  
-        <div id="filler">&nbsp;</div>
-	</div>
-        <div id="footer">
-		    <a href="/about/corporate.jsp">Company</a> | <a href="/resources/privacy.jsp">Privacy Statement</a> | <a href="/careers/index.jsp">Careers</a> | <a href="/contact/index.jsp">Contact Us</a>
-            <br>
-            <br>
-            © Copyright 2006 Sircon Corporation | 2112 University Park Drive |  Okemos, MI 48864 | <a href="mailto:info@sircon.com">info@sircon.com</a>
-            <script type="text/javascript">
-<!--
-// forces https for all links to Compliance Express
-var nonSecureProtocol = "http://";
-var secureProtocol = "https://";
-var protocolIndex = location.href.indexOf(nonSecureProtocol);
-var domainName = document.domain;
-
-if(domainName == "www.sirconcorp.com" || domainName == "www.innovativeit.com") {
-	domainName = "www.sircon.com";
+<script type="text/javascript">
+if (location.host == "www.sircon.com" || location.host == "login.sircon.com" || location.host == "uat.sircon.com" || location.host == "uatlogin.sircon.com") { 
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 }
-
-if(protocolIndex == 0 && domainName) {
-	var sirconPath = "/ComplianceExpress";
-	var secureLinkPath = secureProtocol + domainName;
-	var forms = document.forms;
-	if(forms != null) {
-		for(var i = 0; i < forms.length; i++) {
-			if(forms[i].action.indexOf(sirconPath) == 0) {
-				forms[i].action = secureLinkPath + forms[i].action;
-			}
-		}
-	}
-	var pageLinks = document.links;
-	if(pageLinks != null) {
-		for(var i = 0; i < pageLinks.length; i++) {
-			var sceIndex = pageLinks[i].href.indexOf(".com" + sirconPath);
-			if(sceIndex >= 0) {
-				pageLinks[i].href = secureLinkPath + pageLinks[i].href.substr(sceIndex+4);
-			}
-		}
-	}
+</script>
+<script type="text/javascript">
+if (location.host == "www.sircon.com" || location.host == "login.sircon.com") { 
+  var pageTracker = _gat._getTracker("UA-4199347-1");
+  pageTracker._initData();
+  pageTracker._trackPageview(); 
 }
-// -->
+if (location.host == "uat.sircon.com" || location.host == "uatlogin.sircon.com") { 
+  var pageTracker = _gat._getTracker("UA-4199382-1");
+  pageTracker._initData();
+  pageTracker._trackPageview();   
+}
 </script>
 
-
-    	</div>
-
-</div>
-</div>
-
-
+<!-- InstanceEnd -->
 </body></html>
