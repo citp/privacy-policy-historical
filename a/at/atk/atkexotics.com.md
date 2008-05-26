@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atkexotics.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223184148id_/http%3A//www.amkingdom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkexotics.com privacy policy that was archived on 2008-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080526040810id_/http%3A//www.amkingdom.com/privacy.html) for the most accurate reproduction.*
 
 # AMKINGDOM Privacy Policy
 
@@ -72,4 +72,4 @@ If you have any questions about this Privacy Policy, or if you otherwise need to
 
 Please send your e-mail to: [support@amkingdom.com](mailto:support@amkingdom.com)
 
-© Kingdom World Wide Web Operations, Inc. (2005) 
+� Kingdom World Wide Web Operations, Inc. (2005) 
