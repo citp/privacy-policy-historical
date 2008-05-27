@@ -1,47 +1,23 @@
-> *The following text is extracted and transformed from the dropshipsites.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207143729id_/http%3A//www.dropshipsites.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshipsites.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527140503id_/http%3A//www.dropshipsites.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Our Privacy Policy - DropshipSites.com
+# Drop Ship Search Engine
 
-This Privacy Policy describes the information we collect from you, what we do with the information, and our information security practices. If you have any questions about our Privacy Policy, please [contact us](http://www.dropshipsites.com/component/option,com_contact/Itemid,3/).
+## Our Privacy Policy
 
-Information  
-When you sign up for our service, we will ask you to provide contact information such as your name, address, telephone numbers, e-mail addresses, and payment information such as credit card number and expiration date. 
+**DropshipSites.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
-We may ask you to complete user surveys, and to provide certain demographic information, such as age, gender, special interests, etc. You do not have to provide this type of information to use our service if you do not want to. 
+**Routine Information Collection**  
+   All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-If you contact us for customer support, we may also ask you for information about your operating system, software and other technical matters. 
+**Cookies and Web Beacons**  
+   Where necessary, DropshipSites.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-When you visit our Web site we will capture your IP Address, time of and duration of visit, and time and duration of the pages on our Web site that you view. We may tie this information to the personally identifiable information we have about you. 
+   Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
-We will also place a cookie that will identify you to us as a repeat visitor or a customer when you visit our Web site. See "What is a Cookie" below. We may tie this cookie to the personally identifiable information we have about you. 
+**Controlling Your Privacy**  
+   Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
-[If we send you an e-mail, we may include a marker that will allow to identify e-mail that is opened and viewed.] 
+If you have any questions or concerns about this privacy policy please contact us for further clarification.
 
-Use of Personally Identifiable Information  
-We will use your personally identifiable information only as follows: 
+  
 
-* For payment purposes and to provide customer support.
-* To announce special offers or provide other information from time to time via e-mail. We may also send e-mail announcing special offers by our third parties, but we will not provide the third parties with your e-mail address or other personally identifiable information. If you do not wish to receive these e-mails, you may opt out of future e-mails at any time by following the instructions included in the e-mail.
-* To improve our service and the marketing of our service. For example, we may use the information we gather from user surveys, demographic data, and web site visits to help us improve or target our Web site and customize your visit.
-
-We will not provide any personally identifiable information about you to any other person other than:
-
-* a law enforcement or regulatory agency at their request
-* a person or company who acquires our business
-* third parties who perform services on our behalf (such as payment processing), subject to the third party agreeing with us that it will keep your personally identifiable information confidential
-* To our subsidiaries and affiliates
-* As otherwise needed to protect or enforce or rights or the rights of others.
-
-_**We absolutely do not transfer or sell your information for inclusion on third party e-mail or other marketing lists.**_
-
-Use of Non-Personally Identifiable Information  
-We may share aggregate statistical data about our customers with third parties, such as advertisers or suppliers. This aggregate statistical data will not identify you personally. 
-
-What is a Cookie  
-A "cookie" is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our web site so that we may customize your visit. 
-
-Security of Your Information  
-We store your personally identifiable information and payment information [describe secure method of storage]. 
-
-Children's Privacy  
-Our service is not available to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13. 
