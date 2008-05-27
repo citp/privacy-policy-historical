@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the setindia.com privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022040339id_/http%3A//www.setindia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setindia.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527054649id_/http%3A//www.setindia.com/privacy.php) for the most accurate reproduction.*
 
-# Setindia.com Entertainment E x t e n d e d
+# :: Sony Entertainment Television ::
 
 **PLEASE READ THIS PRIVACY STATEMENT CAREFULLY BEFORE USING THIS WEB SITE.**
 
