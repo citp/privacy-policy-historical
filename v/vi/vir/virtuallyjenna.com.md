@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the virtuallyjenna.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216105011id_/http%3A//www.virtuallyjenna.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuallyjenna.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527222911id_/http%3A//www.virtuallyjenna.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Virtually Jenna User Aggreement
+# Virtually Jenna Privacy Policy
+
+[](https://web.archive.org/)
 
 Our Privacy Policy was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our users. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
@@ -8,7 +10,7 @@ Our Privacy Policy was developed as an extension of our commitment to combine qu
 When you visit our site you may provide us with two types of information: personal information you actively choose to disclose ('Active Information') and use information collected, in a way not visible to you, on an aggregate anonymous basis as you and others browse our site ('Passive Information').
 
 **No Use of Our Site by Persons Under 18**  
-**_No person under 18 should disclose information on this site._** You may learn more about protecting children's privacy online by visiting [www.icra.org](http://www.icra.org/) or [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy).
+**_No person under 18 should disclose information on this site._** You may learn more about protecting children's privacy online by visiting [www.icra.org](http://www.fosi.org/icra/) or [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy/).
 
 **Active Information You Choose to Provide** In order to gain use of the site (become a 'user'), we require you to disclose the following information:
 
@@ -26,12 +28,12 @@ Our site utilizes a standard technology called 'cookies' to collect information 
 Cookies are a feature of web browser (Internet Explorer, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site. They are small pieces of data that are stored by a user's web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user's transaction on related web pages. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
 
 **How Do We Use the Information Collected?**  
-Broadly speaking, persons we employ directly, or as contractors or agents at our direction use Active Information for purposes of administering our business activities, providing customer services such as support, and making available other products or services we think may be of interest to our users. We may use the Active Information or Passive Information you provide to us to contact you about changes to our site, new services, features or products we offer, or other information we think you shall find valuable. If at any time you do not wish to receive such information, please send us an email at [privacy@virtuallyjenna.com](mailto:privacy@virtuallyjenna.com). 
+Broadly speaking, persons we employ directly, or as contractors or agents at our direction use Active Information for purposes of administering our business activities, providing customer services such as support, and making available other products or services we think may be of interest to our users. We may use the Active Information or Passive Information you provide to us to contact you about changes to our site, new services, features or products we offer, or other information we think you shall find valuable. If at any time you do not wish to receive such information, please send us [an email](mailto:support@virtuallyjenna.com) .
 
 We use Passive Information to gather information about our users and to enhance and design our site to make it easier, faster and friendlier to use. Additionally, cookies help us know information about how many people visit our site, when they visit and how they use our service. We do not connect any of this information to your personal information or email address. However, Passive Information may result in your viewing of particular advertising based on your user habits for your viewing on our site.
 
 **Your Information In Relation to Others We Link To**  
-You may be able to access other websites through our site. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those site’s privacy policies to make sure you agree to them before using such sites. When you choose to perform e-commerce at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
+You may be able to access other websites through our site. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those siteâ€™s privacy policies to make sure you agree to them before using such sites. When you choose to perform e-commerce at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
 
 **Sharing Information with Advertisers or Other Third Parties**  
 We may disclose anonymous information about user habits, characteristics and user patterns, based on aggregate user statistics to advertisers on our site.
@@ -43,7 +45,7 @@ We may be required by law or government agency to disclose both Active and Passi
 We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Active Information and Passive Information. Your postings on this site and other communications you may have with us via email or regular mail may not be secure unless we advise you that security measures are in place prior to your sending information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we request that you do not send or post sensitive information through these means.
 
 **How Can You Choose Not to Receive Information About Products or Services By Us or to Correct, Delete or Access Your Information**  
-If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email to [optoutemail@virtuallyjenna.com](mailto:optoutemail@virtuallyjenna.com).
+If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us [an email](mailto:optoutemail@virtuallyjenna.com) .
 
 **We reserve the right to revise this policy at our discretion. Please check back on this site as this policy may be revised from time to time without notice to you.**  
 
