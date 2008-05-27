@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cntraveler.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212220254id_/http%3A//www.concierge.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cntraveler.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527084814id_/http%3A//www.concierge.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy on Concierge.com
 
