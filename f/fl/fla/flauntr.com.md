@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flauntr.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224153534id_/http%3A//www.flauntr.com/flauntr/login/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flauntr.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527163840id_/http%3A//www.flauntr.com/flauntr/login/privacy.jsp) for the most accurate reproduction.*
 
-# flauntR privacy policy
+# flauntR- Free online photo editor with printing and slideshows
 
 flauntR (“flauntR Inc ”) is committed to protecting your privacy and recognizes that your privacy is important. The following privacy policy discloses our information-gathering and dissemination practices from our website and our flauntR service. By using our website or our flauntR service, you agree to be bound by the terms of this policy.
 
