@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernsun.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216124200id_/http%3A//www.southernsun.com/SSH/VID/823b73de45238010VgnVCM100000f08111acRCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernsun.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527214816id_/http%3A//www.southernsun.com/SSH/VID/823b73de45238010VgnVCM100000f08111acRCRD) for the most accurate reproduction.*
 
 # Privacy Policy | Southern Sun Hotels
 
