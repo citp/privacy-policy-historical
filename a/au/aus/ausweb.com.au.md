@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ausweb.com.au privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221092153id_/http%3A//ausweb.com.au/html/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausweb.com.au privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527130031id_/http%3A//www.ausweb.com.au/helpdesk/index.php%3F_a%3Dknowledgebase%26_j%3Dquestiondetails%26_i%3D177) for the most accurate reproduction.*
 
-# Australian Web hosting - AUSWEB
+# AUSWEB Hosting and Domain Name Support Helpdesk
 
 **AusWeb Privacy Statement**
 
