@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the global-free-classified-ads.com privacy policy that was archived on 2007-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071118195612id_/http%3A//www.global-free-classified-ads.com%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global-free-classified-ads.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527205537id_/http%3A//www.global-free-classified-ads.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Free Classified ads - Place an free Ad. - Classified ads.
-
-This privacy policy discloses the privacy practices for global-free-classified-ads.com.  
-Because global-free-classified-ads.com wants to demonstrate its firm commitment to your privacy, global-free-classified-ads.com has agreed to disclose its information gathering and dissemination practices. 
-
-global-free-classified-ads.com will notify you of: 
 
   * What information is collected from you through the web site; 
 
@@ -28,7 +23,7 @@ MINORS
 global-free-classified-ads.com does not knowingly collect personally identifiable information from children under 13 years of age.
 
 INFORMATION COLLECTION AND USE  
-global-free-classified-ads.com is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. global-free-classified-ads.com collects information from our users at several different points on our web site. global-free-classified-ads.com collects information from users responding to ads regarding their Internet provider; this information may include the user's IP address, host name, country of origin and Internet provider being used. This collected information may be shared with the user placing the ad for the sole purpose of assisting this user in determining the validity and legitimacy of the response. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. We may use information collected to promote other affiliate programs, products, web sites and services. 
+global-free-classified-ads.com is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. global-free-classified-ads.com collects information from our users at several different points on our web site. global-free-classified-ads.com collects information from users responding to ads regarding their Internet provider; this information may include the user's IP address, host name, country of origin and Internet provider being used. This collected information may be shared with the user placing the ad for the sole purpose of assisting this user in determining the validity and legitimacy of the response. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. We may use information collected to promote other affiliate programs, products, [web sites](http://www.global-free-classified-ads.com/resources.html) and services. 
 
 Information about your computer hardware and software is automatically collected by global-free-classified-ads.com and may be shared with third parties whose services are used for traffic analysis purposes. This information includes: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by global-free-classified-ads.com to maintain and improve the quality of the service and to generate statistics regarding use of the global-free-classified-ads.com site.
 
