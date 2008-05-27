@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atafa.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229020353id_/http%3A//www.atafa.com/sports/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atafa.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527093201id_/http%3A//www.atafa.com/sports/privacy.php) for the most accurate reproduction.*
 
-# Atafa sporting goods stores sell sporting equipment wholesale and retail. We offer the best price you can find among sports equipment stores.
+# ATAFA.com: Atafa sporting goods stores sell sporting equipment wholesale and retail. We offer the best price you can find among sports equipment stores.
 
 **www.atafa.com PRIVACY COMMITMENT TO THE PROTECTION OF CUSTOMER INFORMATION**  
 This notice describes our privacy policy. By visiting atafa.com, you are accepting the practices described in this Privacy Notice. 
