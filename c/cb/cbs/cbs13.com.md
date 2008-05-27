@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs13.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216063701id_/http%3A//cbs13.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs13.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527020640id_/http%3A//cbs13.com/privacy) for the most accurate reproduction.*
 
 # cbs13.com - Privacy
 
