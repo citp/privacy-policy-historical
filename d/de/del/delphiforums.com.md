@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215050506id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527223649id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.*
 
 # Delphi Forums: Privacy Policy
 
@@ -54,11 +54,13 @@ Delphi Forums uses cookies to customize your experience while using the Forums. 
   
 Delphi Forums uses third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you (if you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>). Personally identifiable information such as your name, address, email address or telephone number are not shared with advertisers without your permission. We may use personally identifiable information in order to fill in forms on third-party sites we use to present advertising offers. But this information will not be shared and will not be stored by any third parties if you decline these offers.
 
+Among the third-party advertising companies that Delphi Forums uses are Burst Media and Advertising.com. For more information on their privacy policies, please consult the [Burst Media Privacy Statement](http://www.burstmedia.com/isl/index.asp?page=privacy) and the [Advertising.com Privacy Policy](http://www.advertising.com/abt_privacy.php).
+
  -top-  
   
 **Delphi & Non-Delphi Forums **  
   
-Delphi Forums, along with many other companies, relies on Prospero Technologies to host our online communities and related data. Participation in a given company's forums includes the sharing of some of your personal information with both Prospero and the company that operates the forum. You will be warned before your information is shared with the company that operates the forum, and will have the opportunity to decline if desired. Any company with which your information is shared will have it's own privacy policy. 
+Delphi Forums, along with many other companies, relies on Mzinga to host our online communities and related data. Participation in a given company's forums includes the sharing of some of your personal information with both Mzinga and the company that operates the forum. You will be warned before your information is shared with the company that operates the forum, and will have the opportunity to decline if desired. Any company with which your information is shared will have it's own privacy policy. 
 
 As a registered user, you may receive informational email messages from Delphi Forums from time to time. All registered members are required to receive such communications. If you wish to stop these emails, you may terminate your membership at any time. 
 
