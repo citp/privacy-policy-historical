@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jegem.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222043956id_/http%3A//www.jegem.com/1/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jegem.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527094249id_/http%3A//www.jegem.com/1/privacy.aspx) for the most accurate reproduction.*
 
 # JeGem.com - Premier Artisan Gemstone Jewelry
 
