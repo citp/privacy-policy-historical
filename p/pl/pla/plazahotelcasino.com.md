@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102042404id_/http%3A//www.plazahotelcasino.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527094448id_/http%3A//www.plazahotelcasino.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Downtown Las Vegas Hotel & Casino - plazahotelcasino.com
+# Downtown Las Vegas Hotel & Casino - plazahotelcasino.com :: Privacy-Policy
 
-[Home](http://www.plazahotelcasino.com/) > Privacy Policy 
+  
 
-PLAZA HOTEL & CASINO ONLINE PRIVACY POLICY
+
+## PLAZA HOTEL & CASINO ONLINE PRIVACY POLICY
 
 **OUR COMMITMENT TO PRIVACY**  
 Your privacy is extremely important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
