@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the avatarist.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103145912id_/http%3A//www.avatarist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avatarist.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527101936id_/http%3A//www.avatarist.com/privacy) for the most accurate reproduction.*
 
 # Avatarist Privacy Policy
 
-|  | 
-
-## Privacy Policy  
+  
   
 ---  
   
@@ -32,28 +30,3 @@ We do not use cookies on this site.
 
 
 We do not sell, rent, loan, trade or lease the addresses on our list.
-
-|    
-  
-  
-| 
-
-## Best Uploaders  
-  
----  
-[MarcuS](https://web.archive.org/user/MarcuS)| 298  
-[Glass](https://web.archive.org/user/Glass)| 229  
-[Kayla](https://web.archive.org/user/Kayla)| 160  
-[Dahaka](https://web.archive.org/user/Dahaka)| 136  
-[Grrraph](https://web.archive.org/user/Grrraph)| 116  
-  
-  
-
-
-## Upload Avatars  
-  
----  
-Have some cool avatars that we don't? [Submit](https://web.archive.org/submit) them to our site! Your name will be credited next to any avatars that you upload.   
-  
-  
-
