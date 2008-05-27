@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quest.net privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229045644id_/http%3A//www.quest.net/privacy_policy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest.net privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527054526id_/http%3A//quest.net/privacy_policy/en) for the most accurate reproduction.*
 
-# Quest.net | Interactive Marketing - Privacy Policy
+# QuestNet Network Marketing Privacy Policy
 
 QuestNet Ltd is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the QuestNet Ltd Web site and governs data collection and usage. By using the QuestNet Ltd website, you consent to the data practices described in this statement. 
 
