@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the institutionalinvestor.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210224802id_/http%3A//www.institutionalinvestor.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the institutionalinvestor.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527141552id_/http%3A//www.institutionalinvestor.com/Stub.aspx%3FStubID%3D2203) for the most accurate reproduction.*
 
-# Euromoney Institutional Investor- Privacy Policy
+# Insitutional Investor
 
 Euromoney Institutional Investor PLC and Institutional Investor Inc
 
@@ -56,7 +56,7 @@ Please note that we do not collect any personal information from children under 
 
 **Types of Personal Information Held and its Use  
 **  
-At some Sites, Euromoney collects personally identifiable information, such as your name, job title, work and/or home address, and telephone number and email address and comments/information you may input or post. At other Sites, Euromoney may collect demographic information, such as your postcode, age, gender, purchasing preferences and interests. Some Sites may collect a combination of the two types of information. 
+At some Sites, Euromoney collects personally identifiable information, such as your name, job title, work and/or home address, and telephone number and email address and comments/information you may input or post. At other Sites, Euromoney may collect demographic information, such as your postcode, age, gender, purchasing preferences and interests. Some Sites may collect a combination of the two types of information. 
 
 Euromoney collects and uses your personal information to operate its Sites efficiently and to deliver the products and services you have requested. 
 
@@ -109,7 +109,7 @@ Your personal data may also be sold to other companies in the form of lists and 
 
 Euromoney may also disclose your personal data to third parties, including, without limitation, professional advisers, or governmental or State institutions or authorities, where necessary in order to exercise or defend its legal rights or where required by law. 
 
-Please note that the Sites may contain links to external sites and may contain advertisements for, and/or the opportunity for you to purchase products or services from third parties. Please note that this privacy statement does not control the activities of such third parties, and users should consult those third party sites' privacy policies.  If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.advertising.com/Privacy.html>
+Please note that the Sites may contain links to external sites and may contain advertisements for, and/or the opportunity for you to purchase products or services from third parties. Please note that this privacy statement does not control the activities of such third parties, and users should consult those third party sites' privacy policies. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.advertising.com/Privacy.html>
 
 **Transfers outside the EEA** Euromoney may transfer your personal data, for the purposes listed above, to other group companies or other third parties which may be located in countries outside the European Economic Area, whose laws are not recognised by the EU Commission as providing adequate level of protection to personal data. This will include transfers to Institutional Investor, Inc. in the US. **
 
@@ -133,8 +133,8 @@ How to Access, Update and Erase your Personal Information
 If you wish to know whether we are keeping personal data about you, or if you have an enquiry about our privacy policy or your personal information held by Euromoney, in relation to all the Sites whether run by Euromoney Institutional Investor Plc or Institutional Investor Inc., you can contact the Data Protection Officer via: 
 
 • Postal mail to this address : Data Protection Officer, Euromoney Institutional Investor plc, Nestor House, Playhouse Yard, London EC4V 5EX, UK  
-•  Telephone: +44 (0)20 7779 8600   
-•  Email: [dataprotectionofficer@euromoneyplc.com](mailto:dataprotectionofficer@euromoneyplc.com "mailto:dataprotectionofficer@euromoneyplc.com")
+• Telephone: +44 (0)20 7779 8600   
+• Email: [dataprotectionofficer@euromoneyplc.com](mailto:dataprotectionofficer@euromoneyplc.com "mailto:dataprotectionofficer@euromoneyplc.com")
 
 Upon request, we will provide you with a readable copy of the personal data which we keep about you. We may require proof of your identity and may charge a small fee to cover administration and postage. 
 
@@ -260,235 +260,3 @@ Further detail as to the information which is collected at Euromoney.com and Eur
 **General Information** Personal data from the above listed websites which is held by Euromoney. 
 
 Below is a table of personal data collected and the purposes for which it may be used. 
-
-**Data Classes**
-
-| 
-
-   **Advertising, Marketing & Public Relations**
-
-| 
-
-   **Accounts & Records**
-
-| 
-
-   **Administration of Membership Records**
-
-| 
-
-   **Advertising Marketing & Public Relations for others**
-
-| 
-
-   **Education**
-
-| 
-
-   **Information & Databank Administration**
-
-| 
-
-   **Journalism and Media**
-
-| 
-
-   **Research**
-
-| 
-
-   **Trading/sharing in Personal Information**  
-  
----|---|---|---|---|---|---|---|---|---  
-  
-Personal Details
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X  
-  
-Family, Lifestyle and Social Circumstances
-
-| 
-
-X
-
-|  |  | 
-
-X
-
-|  | 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X  
-  
-Education and Training Details
-
-| 
-
-X
-
-|  |  | 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X  
-  
-Employment Details
-
-| 
-
-X
-
-|  |  |  |  | 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X  
-  
-Financial Details
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X  
-  
-Goods or Services Provided
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
-
-| 
-
-X
