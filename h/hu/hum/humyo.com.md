@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the humyo.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223165738id_/http%3A//www.humyo.com/Pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humyo.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527234331id_/http%3A//www.humyo.com/pages/en/online-storage-privacy) for the most accurate reproduction.*
 
 # humyo.com - Privacy Policy
 
 HUMYO.com Ltd. ("HUMYO") is committed to protecting the privacy of its customers, visitors, users, and others who use www.humyo.com or other web sites owned or operated by HUMYO (the "HUMYO Sites").
 
-This Privacy Notice is incorporated into and is subject to the [HUMYO Terms of Use](https://web.archive.org/Pages/TermsOfUse). Your use of the HUMYO Sites and any personal information you provide on the HUMYO Sites remains subject to the terms of this Privacy Policy and the [HUMYO Terms of Use](https://web.archive.org/Pages/TermsOfUse). 
+This Privacy Notice is incorporated into and is subject to the [HUMYO Terms of Use](https://web.archive.org/pages/en/online-storage-terms). Your use of the HUMYO Sites and any personal information you provide on the HUMYO Sites remains subject to the terms of this Privacy Policy and the [HUMYO Terms of Use](https://web.archive.org/pages/en/online-storage-terms). 
 
 #### The Information We Collect 
 
@@ -44,4 +44,4 @@ This Privacy Notice was last modified October 3, 2007.
 
 #### Contact Information 
 
-Should you have any questions or comments about this Privacy Policy, you should [contact us](https://web.archive.org/Pages/Contact). 
+Should you have any questions or comments about this Privacy Policy, you should [contact us](https://web.archive.org/pages/en/contact). 
