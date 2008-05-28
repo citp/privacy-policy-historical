@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vdict.com privacy policy that was archived on 2007-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229070308id_/http%3A//vdict.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vdict.com privacy policy that was archived on 2008-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080528054643id_/http%3A//www.vdict.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -11,25 +11,12 @@
 	<meta name="netinsert" content="0.0.1.8.2.1">
 	<title>VDict.com - Vietnamese Dictionary and Translation » Privacy</title>
 
-	<link href="http://vdict.com/templates/user/style.css" media="screen" rel="stylesheet" type="text/css">
-	<link href="http://vdict.com/templates/user/searchform.css" media="screen" rel="stylesheet" type="text/css">
-	<script language="javascript" src="http://vdict.com/libs/javascript/bsn.AutoSuggest_2.1.3.js"></script>
-	<script language="javascript" src="http://vdict.com/libs/javascript/default.js"></script>
-	<script language="javascript" src="http://vdict.com/libs/javascript/tip.js"></script>
-	<script language="javascript" src="http://vdict.com/libs/javascript/him.js"></script>
-	<script language="javascript" src="http://vdict.com/libs/javascript/VirtualKeyboard.js"></script>
-	<script language="javascript" src="http://vdict.com/libs/javascript/moveObject.js"></script>
-	<script type="text/javascript" src="http://vdict.com/libs/javascript/dropdowntabfiles/dropdowntabs.js"></script>
-	<script language="JavaScript">
-		<!--
-		var dictionaries = "eng2vie_vie2eng_foldoc";
-		// -->
-	</script><script type="text/javascript" src="http://vdict.com/vdict.js"></script>
-	<!-- CSS for Drop Down Tabs Menu #1 -->
-	<link rel="stylesheet" type="text/css" href="http://vdict.com/libs/javascript/dropdowntabfiles/ddcolortabs.css">
 
-</head>
-<body onload="focusOn('word');">
+	<link rel="stylesheet" type="text/css" href="libs/loadstatic/?files=/templates/user/style.css,/templates/user/searchform.css,/libs/javascript/dropdowntabfiles/ddcolortabs.css">
+	<script type="text/javascript" src="libs/loadstatic/?files=/libs/javascript/bsn.AutoSuggest_2.1.3.js,/libs/javascript/default.js,/libs/javascript/tip.js,/libs/javascript/him.js,/libs/javascript/VirtualKeyboard.js,/libs/javascript/moveObject.js,/libs/javascript/dropdowntabfiles/dropdowntabs.js,/libs/javascript/vdict.js"></script></head><body onload="focusOn('word');"><div id="dhtmltooltip"></div><img id="dhtmlpointer" src="libs/javascript/arrow2.gif"><style type="text/css">.keyboard_button{ width: 20px; height: 20px;}</style><div id="addVdictOnYourWeb" style="position: absolute;left: -300px;width: 300px;border: 1px solid black;padding: 2px;background-color: lightyellow;visibility: hidden;z-index: 100;">VDict quick lookup</div>
+
+
+
 <!-- header -->
 <div style="height:90px;">&nbsp;</div>
 <!-- //end header -->
@@ -43,7 +30,6 @@
 		<li><a href="browse.php" title="Tools" rel="dropmenu1_a"><span>Tools</span></a></li>	
 		<li><a href="vdict.php" title="About" rel="dropmenu3_a"><span>About</span></a></li>	
 		<li><a href="faq.php" title="Help" rel="dropmenu4_a"><span>Help</span></a></li>	
-		
 	</ul>
 	<ul class="menunobg">
 		<li><a href="#" onclick="displayPageOption(); return false;" rel="dropmenu5_a" title="Page Option">
@@ -61,12 +47,10 @@
 	<a href="firefox.php">Firefox search plugin</a>
 	<span>For Webmasters</span>
 	<a href="voys.php">VDict on your site</a>
-	<a href="vdictsearchform.php">VDict search form</a>
 </div>
 <div id="dropmenu3_a" class="dropmenudiv_a" style="width: 150px;">
 	<a href="http://www.dotsols.com/company.php">Company information</a>
 	<a href="http://www.dotsols.com/press.php">Press release</a>
-	<a href="http://www.dotsols.com/vdict.php">Advertise with us</a>
 	<a href="privacy.php">Privacy policy</a>
 	<a href="contactus.php">Contact us</a>
 </div>
@@ -134,12 +118,13 @@
 <option label="Computing" value="6">Computing</option>
 <option label="English - English Dict (Wordnet)" value="7">English - English Dict (Wordnet)</option>
 <option label="Chinese - Vietnamese dictionary" value="8">Chinese - Vietnamese dictionary</option>
+<option label="Russian - Vietnamese dictionary" value="9">Russian - Vietnamese dictionary</option>
 
                   
                   
                   </select>
                   <input type="button" onclick="getWord();" name="searchaction" id="searchaction" value="Lookup">
-                  <input type="text" name="word" id="word" value="" onfocus="this.select();">
+                  <input type="text" name="word" id="word" value="" onfocus="this.select();" autocomplete="off">
                 </div>
                 <b class="rbottom"><b class="r4"></b><b class="r3"></b><b class="r2"></b><b class="r1"></b></b> </div></td>
             <td valign="top"><div id="roundedcorner2"><b class="rtop2"><b class="r1"></b><b class="r2"></b><b class="r3"></b><b class="r4"></b></b>
@@ -179,6 +164,22 @@
 </form>
 <div id="screenVirtualKeyboard" style="position:absolute; display:none; top: 195px; left:31px"></div>
 
+
+
+<script language="javascript">
+	var options_xml = {
+		script: function (input) { if (document.getElementById('in_0').checked ) {return "showlist_similarword.php?limit=20&input="+input+"&dict="+document.getElementById('dict').value+"&word="+document.getElementById('word').value; }},
+		shownoresults:false,
+		delay:100,
+		cache:false,
+		timeout:5000,
+		varname:"input"
+	};
+	var as_xml = new bsn.AutoSuggest('word', options_xml);
+</script>
+ 
+
+
 <script language="javascript">function getWord(){vWord=document.getElementById('word').value;vDict=document.getElementById('dict').value;if (document.getElementById('in_0').checked) vIn = 0;if (document.getElementById('in_1').checked) vIn = 1;if (document.getElementById('match_0').checked) vMatch = 0;if (document.getElementById('match_1').checked) vMatch = 1;if (document.getElementById('match_2').checked) vMatch = 2;window.location	=	"http://vdict.com/"+vWord+","+vDict+","+vIn+","+vMatch+".html";}</script>
  <table width="100%" cellpadding="0" cellspacing="0">
 <tbody><tr>
@@ -186,7 +187,7 @@
 	<div style="height:1px; width:500px; clear:both">&nbsp;</div><h2><font color="#990000" face="Arial, Helvetica, sans-serif" class="articlehead">Privacy Policy</font></h2>
 <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Collection of Information</b> </font></p>
 <p><font size="2" face="Arial, Helvetica, sans-serif">VDict does not collect users' personal information on dictionary pages.</font></p>
-<p><font size="2" face="Arial, Helvetica, sans-serif">We do collect personal information in translation service order form. However, only Name and Email address are required fields, all other fields are optional.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">We do collect personal information in translation service order form and community registration page. However, only Name and Email address are required fields, all other fields are optional</font>.</p>
 <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Surveys</b> </font></p>
 <p><font size="2" face="Arial, Helvetica, sans-serif">From time to time Vdict.com conducts voluntary user surveys to improve our services. No personal information is collected in surveys.</font></p>
 <p> <font size="2" face="Arial, Helvetica, sans-serif"><b>Cookies and IP Addresses</b> </font></p>
@@ -199,7 +200,9 @@
 <p><font size="2" face="Arial, Helvetica, sans-serif">IP addresses: IP addressed are used for statistical purposes only. </font></p>
 <p><font size="2" face="Arial, Helvetica, sans-serif"><b>Information Sharing</b> </font></p>
 <p><font size="2" face="Arial, Helvetica, sans-serif">We reserve the rights to share traffic statistics reports with our advertising partners.</font></p>
-<p><font size="2" face="Arial, Helvetica, sans-serif">Otherwise, no other information is shared to any third party unless required by government or law enforcement agents. </font></p>	</td>
+<p><font size="2" face="Arial, Helvetica, sans-serif">Otherwise, no other information is shared to any third party unless required by government or law enforcement agents.</font></p>
+<p><font size="2" face="Arial, Helvetica, sans-serif">We use outside ad companies (for example Google Adsense) to display ads  on our site. These ads may contain cookies and are collected by our ad  companies, and we do not have access to this information. Please check their websites for  respective privacy policies.</font></p>
+	</td>
 	<td bgcolor="#ffffff" align="left" valign="top">
 		<div style="position:absolute; left: 8px; top:1px; width:98%;">
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -210,7 +213,7 @@
 			<td class="theader">
 				<table cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td><a href="index.php"><img src="templates/user/images/logo.gif" border="0"></a></td>
+					<td><a href="index.php"><img src="templates/user/images/logo.gif" alt="Vietnamese Dictionary and Translation. Từ điển và dịch Anh Việt" border="0"></a></td>
 					<td nowrap="nowrap" valign="top" style="padding-left: 50px;">
 					</td>
 				</tr>
@@ -249,9 +252,9 @@ google_ad_format = "250x250_as";
 google_ad_type = "text_image";
 //2007-08-02: vdict
 google_ad_channel = "3208450335";
-google_color_border = "0066CC";
-google_color_bg = "ffCC00";
-google_color_link = "000000";
+google_color_border = "ffCC00";
+google_color_bg = "0066CC";
+google_color_link = "ffffff";
 google_color_text = "444444";
 google_color_url = "444444";
 google_ui_features = "rc:10";
@@ -259,9 +262,8 @@ google_ui_features = "rc:10";
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>	
-	<br>	<br>
-	<div id="DivBanner8" align="center"></div><div class="ja-newscatwrap"></div>
-<br>
+	
+	<br><br>
 
 <font size="2" face="Arial, Helvetica, sans-serif">You can add VDict tools to  iGoogle to search VDict right from your Google homepage:<br>
 </font>
@@ -270,16 +272,8 @@ google_ui_features = "rc:10";
 	<li><font size="2" face="Arial, Helvetica, sans-serif">VDict translation: <a href="http://google.com/ig/adde?moduleurl=http%3A//static.vdict.com/igoogle/vdicttranslation.xml"><img src="http://buttons.googlesyndication.com/fusion/add.gif" width="104" height="17" border="0" alt="Add to Google" align="absmiddle"></a></font></li>
 </ul>
 	</td>
-    <td width="160" align="left" valign="top">
-	<div align="center">
-<script type="text/javascript">
-   e9 = new Object();
-   e9.size = "160x600,120x600";
-   e9.addBlockingCategories="Pop-under,Pop-up,Full-page";
-   e9.noAd = 1;
-</script>
-<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Vdictcom/ROS/tags.js"></script>
-</div>	</td>
+    <td width="160" align="left" valign="top" id="rightmosttd">
+	<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=160X600&amp;cwpid=504485&amp;cwwidth=160&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=19462"></script>	</td>
   </tr>
 
 </tbody></table>	</td>
@@ -291,12 +285,12 @@ google_ui_features = "rc:10";
 	<td width="770">
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="40%" align="center" valign="top" class="footertitle">Powered by</td>
-            <td colspan="3" align="left" valign="top" class="footertitle">Sponsors</td>
+            <td width="40%" align="center" valign="top" class="footertitle">&nbsp;</td>
+            <td colspan="3" align="left" valign="top" class="footertitle">&nbsp;</td>
           </tr>
           <tr>
-            <td width="25%" align="center" valign="top" class="footerlinks"><a href="http://www.dotsols.com"><img src="img/dslogo.gif" border="0"></a></td>
-            <td width="20%" align="left" valign="top" class="footerlinks"><a href="http://www.raovat123.com">Rao vặt 123</a><br></td>
+            <td width="25%" align="center" valign="top" class="footerlinks">&nbsp;</td>
+            <td width="20%" align="left" valign="top" class="footerlinks">&nbsp;</td>
             <td width="20%" align="left" valign="top" class="footerlinks"></td>
             <td width="20%" align="left" valign="top" class="footerlinks"></td>
           </tr>
@@ -312,6 +306,6 @@ google_ui_features = "rc:10";
 _uacct = "UA-377757-1";
 urchinTracker();
 </script>
-<script src="http://cpm.fptnet.com/Advertising4t.aspx"></script>
+<script src="astracker.js" type="text/javascript" charset="utf-8"></script>	
 
 </body></html>
