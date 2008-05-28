@@ -1,54 +1,89 @@
-> *The following text is extracted and transformed from the garnethill.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629230547id_/http%3A//www.garnethill.com/jump.jsp%3FitemID%3D2344%26itemType%3DCATEGORY%26path%3D1%252C2%252C2333%252C2344) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garnethill.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528034654id_/http%3A//www.garnethill.com/jump.jsp%3FitemID%3D2344%26itemType%3DCATEGORY%26path%3D1%252C2%252C2333%252C2344) for the most accurate reproduction.*
 
 # Customer Service - Your Privacy Rights - Garnet Hill
 
-Updated: January 27, 2005
+Your Privacy Rights
 
-At Garnet Hill, we are concerned about privacy issues and have therefore established a policy that respects the privacy and security of your personal information. Garnet Hill recognizes that we must preserve and use customer information responsibly. We always welcome any feedback and questions. For privacy related issues you can contact us:
+Garnet Hill respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmaconsumers.org](http://www.dmaconsumers.org/)
 
-**By mail:**  
-Garnet Hill  
+  
+Garnet Hill is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including: Ask.com, Citysearch, Evite, Gifts.com, HSN, LendingTree, Match.com, RealEstate.com, ServiceMagic, Ticketmaster, and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/).
+
+At IAC, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Garnet Hill, please click [here](https://web.archive.org/jump.jsp?itemID=9609&itemType=CATEGORY&path=1%2C2%2C2333%2C2344%2C9609).
+
+   ([read more](https://web.archive.org/jump.jsp?itemID=9609&itemType=CATEGORY&path=1%2C2%2C2333%2C2344%2C9609#aboutyou))  
+We may collect information that can identify you ("personal information"), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. We also may collect other types of information in the following ways when you visit our website:  
+
+
+  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
+  * We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.
+  * We may use standard Internet tools, such web beacons, which collect information that tracks your use of our website and enables us to customize our services and advertisements.
+
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act. 
+
+   ([read more](https://web.archive.org/jump.jsp?itemID=9609&itemType=CATEGORY&path=1%2C2%2C2333%2C2344%2C9609#thirdparty))  
+We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
+
+  * We do not provide any personal information to these companies.
+  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.
+  * Some of these companies may be members of the Network Advertising Initiative [www.networkadvertising.org](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.
+
+If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information. 
+
+   ([read more](https://web.archive.org/jump.jsp?itemID=9609&itemType=CATEGORY&path=1%2C2%2C2333%2C2344%2C9609#howweuse))  
+We may use information to: 
+
+  * Fulfill your requests for products and services;
+  * Offer products and services that may be of interest to you;
+  * Customize the advertising and content that you see on our website;
+  * Facilitate use of our website;
+  * Manage your account and your preferences;
+  * Analyze use of and improve our website, products and services;
+  * Identify and protect against fraudulent transactions and other misuses of our website;
+  * Enforce our Terms of Use.
+
+
+
+   ([read more](https://web.archive.org/jump.jsp?itemID=9609&itemType=CATEGORY&path=1%2C2%2C2333%2C2344%2C9609#sharedinfo))  
+We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with: 
+
+  * Service providers, such as credit-card payment processors, performing services on our behalf;
+  * Other IAC businesses;
+  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
+  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
+
+We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. 
+
+   ([read more](https://web.archive.org/jump.jsp?itemID=9609&itemType=CATEGORY&path=1%2C2%2C2333%2C2344%2C9609#yourchoices))  
+You may choose: 
+
+  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
+  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address below or by [clicking here to unsubscribe](https://web.archive.org/jump.jsp?itemID=9508&itemType=CATEGORY&path=1%2C2%2C2333%2C9508)
+  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
+  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
+  * Opt-out. If you do not wish to receive mailings from other companies or to have personal information shared with other companies, including other IAC businesses, please contact us by phone, email or mail.
+
+**Our company contact points:**  
+Toll Free: 800.870.3513  
+Email: [customerservice@garnethill.com](mailto:customerservice@garnethill.com)  
+Mail: Garnet Hill  
 Attn: Customer Service  
 231 Main Street  
 Franconia, NH 03580
 
-**By phone:**  
-800.870.3513
-
-**By fax:**  
-888.842.9696
-
-**By email:**  
-[privacyrights@garnethill.com](mailto:privacyrights@garnethill.com)
-
-**Information we collect and how we use it**  
-Garnet Hill, selling under the brand names Garnet Hill and Growing Up with Garnet Hill, collects customer information under the following conditions:
-
-  * an order is placed from our catalogs or web site  
-
-  * an inquiry is made about our products or services  
-
-  * a catalog is requested  
-
-  * a gift package is received  
-
-  * a registration is completed on our web site  
-
-  * a purchase is made at our retail outlet stores  
-
-  * a customer subscribes to our emails
 
 
 
-The information, collected and maintained in a secure database, may include name, billing and shipping addresses, telephone numbers, email addresses, and when necessary, payment information. Garnet Hill may use this information to send you electronic (via email) or printed (via US mail) materials promoting our products, announcing sales, and offering other special, limited-time discounts. Every customer has the option of declining to receive future promotions from Garnet Hill by contacting Customer Service. Email customers can opt out of additional emails from Garnet Hill by unsubscribing on the link that appears on the bottom of every email, or by contacting Customer Service.
+   ([read more](https://web.archive.org/jump.jsp?itemID=9609&itemType=CATEGORY&path=1%2C2%2C2333%2C2344%2C9609#security))  
+We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
 
-Garnet Hill and Growing Up with Garnet Hill occasionally make customers' names and postal addresses available to other carefully selected and screened companies for the purpose of sending our customers relevant and complementary catalog, magazine, and fundraising offers. Individual information shared may consist of name, address and aggregated data including range of dollars spent, date range of transactions, and category of items purchased. We do not share customer telephone numbers, email addresses, or payment information with other companies. You always have the right to choose not to receive information from us or from other companies by simply contacting us by any of the methods noted above.
+  
+We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
 
-Garnet Hill also gathers information from our web site using cookies and pixel tags. Cookies are small pieces of electronic information or data files that are stored by the web browser on the hard drive of a customer's computer. They allow us to retain visitor preferences, registration information, and remember shopping cart selections. Cookies can also be used to collect anonymous data that, when aggregated, allows us to improve the content of the Garnet Hill site, customize and personalize the site presentation for visitors, and generally enhance our customers' shopping experience. Pixel tags are tiny graphic images that are placed on the web site or in an email to help us identify what parts of the web site customers visit, measure the effectiveness of searches, allow us to send you emails in the most readable format, and identify if emails have been opened by recipients. They also help us to summarize traffic volume, click paths, and browser usage on our site. This information is used to make sure that our marketing efforts are effective and that our site provides our customer with the most efficient and usable online experience.
+  
+If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/jump.jsp?itemID=9609&itemType=CATEGORY&path=1%2C2%2C2333%2C2344%2C9609), or our information practices, please contact us by email or postal mail below:
 
-Garnet Hill is a member of the Direct Marketing Association (DMA) and therefore follows the DMA privacy guidelines. For more information on these guidelines or to use the DMA's Mail Preference Service to reduce having your name distributed to other direct marketing companies, you can visit www.dmaconsumers.org.
+**Privacy Contact:**  
+[privacyrights@garnethill.com ](mailto:privacyrights@garnethill.com)
 
-**Security**  
-Garnet Hill protects your online order information by using Secure Sockets Layer (SSL) technology. SSL digitally encrypts your order, making it undecipherable to anyone except Garnet Hill. To take advantage of secure shopping you must have an SSL compatible browser such as Netscape or Internet Explorer. Some browsers and some firewalls do not allow access to secure servers and will therefore limit your shopping experience.
-
-By using our web site, you consent to the collection and use of information by Garnet Hill and Growing Up with Garnet Hill as indicated above unless you notify us otherwise. If we make a change to our policy, we will be sure to post those changes on this page so you can always be aware of the information we collect and how we use it.
+© 2007 IAC/InterActiveCorp. All rights reserved.
