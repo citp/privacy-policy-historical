@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuwie.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230204853id_/http%3A//www.yuwie.com/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuwie.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528150454id_/http%3A//ww1.yuwie.com/policy/privacy.asp) for the most accurate reproduction.*
 
 # Yuwie | Privacy
 
@@ -20,7 +20,7 @@ We may also use a user's email address to send updates, a newsletter or news reg
 
 From time to time, Yuwie.com or a partner, may sponsor a promotion, sweepstake or contest on Yuwie.com. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply. 
 
-You should also be aware that members may reveal other personal information while communicating on other areas of the Yuwie website, such as while participating in discussions on in Yuwic clugs and/or posting information on Yuwie Blogs. This information, in turn, might be viewed by other members or visitors to the Yuwie website who are not members. 
+You should also be aware that members may reveal other personal information while communicating on other areas of the Yuwie website, such as while participating in discussions on in Yuwic clubs and/or posting information on Yuwie Blogs. This information, in turn, might be viewed by other members or visitors to the Yuwie website who are not members. 
 
 Information Collected and Use  
 Yuwie.com collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the Yuwie.com service. Yuwie.com also collects other profile data including but not limited to: personal interests, gender, age, education and occupation in order to assist users in finding and communicating with each other. 
