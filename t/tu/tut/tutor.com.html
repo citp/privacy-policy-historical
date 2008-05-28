@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tutor.com privacy policy that was archived on 2007-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071223014246id_/http%3A//www.tutor.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tutor.com privacy policy that was archived on 2008-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080528101229id_/http%3A//www.tutor.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="robots" content="noodp"><meta name="verify-v1" content="xHkbekn/ednsAU+lmIF2JRTZAuAHUdZy8Udhbn2IOmA="><link rel="stylesheet" type="text/css" href="/styles/reset-fonts-grids.css"><link rel="stylesheet" type="text/css" href="/styles/main.css"><title>
 	Tutor.com - Privacy Policy
@@ -9,6 +9,56 @@
 	<script src="/scripts/custom_prototype_extensions.js" type="text/javascript"></script>
 
 	<script language="JavaScript" src="/scripts/load_demo_movie.js" type="text/javascript"></script>
+	
+	<script language="javascript" type="text/javascript">
+		/* This javascript is responsible for displaying and moving the "More" menu*/
+		function toggleMoreMenuDisplay(event)
+		{
+			/*
+			var NavMoreMenu = document.getElementById("nav_more_link");
+			var MoreMenuDiv = document.getElementById("more_menu");
+			*/
+			
+			//figure out where the MoreLink is in the browser on the page
+			var eleMoreLink = $('nav_more_link');
+			var eleMoreLinkPos = Position.cumulativeOffset(eleMoreLink);
+			
+			var eleMoreMenu = $('more_menu');
+			eleMoreMenu.toggle();
+			
+			if(eleMoreMenu.visible())
+			{
+			eleMoreMenu.setStyle({
+					left: (eleMoreLinkPos[0]-7)+"px",
+					top: (eleMoreLinkPos[1]+19)+"px"
+					});
+			}
+			
+			Event.stop(event);
+		}
+		
+		//Makes sure that the menu doesn't stick in one place if the user decides to resize the browser.
+		window.onresize = function () {
+			var eleMoreLink = $('nav_more_link');
+			var eleMoreLinkPos = Position.cumulativeOffset(eleMoreLink);
+			
+			var eleMoreMenu = $('more_menu');
+			
+			if(eleMoreMenu.visible())
+			{
+			eleMoreMenu.setStyle({
+					left: (eleMoreLinkPos[0]-7)+"px",
+					top: (eleMoreLinkPos[1]+19)+"px"
+					});
+			}
+		}
+		
+		Event.observe(window, 'load', function() {
+			var moreMenuLink = document.getElementById('nav_more_link');
+			moreMenuLink.href="javascript:void(0);";
+			Event.observe(moreMenuLink, 'click', toggleMoreMenuDisplay);
+		});
+	</script>
 	
 	<script type="text/javascript" language="javascript">
 		function popFlashDemo() {
@@ -81,6 +131,13 @@
 			document.getElementById('no_flash8').style.visibility = 'visible';    
 		}  
 	</script>
+   
+    <!-- Meta tag to verify site ownership for Google Webmaster -->   
+    <meta name="verify-v1" content="8aLmG4U/ZsLsWMb9BIqo/7t5akCcdmPSkZmX/MwqQSk=">
+    
+    <!--Enquisite Code-->
+    <script type="text/javascript" src="https://logssl.enquisite.com/log.js?id=b926bc-04mlcg"></script>
+    <!--End Enquisite Code-->
     
 <link rel="stylesheet" type="text/css" href="/styles/consumer.css"></head>
 <body id="ctl00_MasterBody">
@@ -88,7 +145,8 @@
 	</script>
 	<script type="text/javascript">
 	_uacct = "UA-67228-1";
-	_udn="tutor.com";
+	_udn="none";
+	_ulink=1;
 	urchinTracker();
 	</script>
 	
@@ -156,7 +214,7 @@
     <!--END VISUAL SCIENCES CODE-->
 
     <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZAlK4KBZeLB5kyl7/fAXJw/tNGDG">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAw9kFgICAQ9kFgICBQ8PFgIeB1Zpc2libGVoZGRkKwn+gH8oIll0Y33kaP8w7o8chBI=">
 
 
 	<div id="flashdemo_container" class="flashdemo_container" style="visibility: hidden;">
@@ -175,7 +233,8 @@
 				<span id="tutor_logo" title="Tutor.com"><a href="/"><img src="/images/tutor_logo.gif" alt="Tutor.com" border="0"></a></span>
 
 				<ul class="horizontal_list">
-					<li style="background:none;font-weight:normal;">Questions? Call us. <span style="color:#E49D0F;font-weight:bold;">800-411-1970</span></li>
+					<li style="background:none;font-weight:normal;">Questions? <span style="color:#E49D0F;font-weight:bold;">800-411-1970</span> <a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/45853362/?cmd=file&amp;file=visitorWantsToChat&amp;site=45853362&amp;byhref=1&amp;imageUrl=http://www.tutor.com/images/liveperson" target="chat45853362" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/45853362/?cmd=file&amp;file=visitorWantsToChat&amp;site=45853362&amp;imageUrl=http://www.tutor.com/images/liveperson&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat45853362','width=475,height=400,resizable=yes');return false;"><img src="http://server.iad.liveperson.net/hc/45853362/?cmd=repstate&amp;site=45853362&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=http://www.tutor.com/images/liveperson" name="hcIcon" border="0"></a>
+					</li>
 					<li><a href="https://direct.tutor.com/account/default.aspx" id="ctl00_lnkConnect">Connect to a Tutor Now</a></li>
 					<li><a href="/press/default.aspx">Press</a></li>
 					<li><a href="/our_company/default.aspx">Our Company</a></li>
@@ -183,10 +242,14 @@
 				</ul>
 				
 				<div id="brandingLogo">
-					<span id="ctl00_BrandingItem1_lblContent"></span>
+					<span id="ctl00_BrandingItem1_lblContent"><img src="/controls/BrandingItemGetImage.aspx?id=1185" alt="logo"></span>
+					
+					<!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.tutor.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/survey/www.tutor.com/31.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+<!-- END SCANALERT CODE --> 
 				</div>
 								
-				<h2><span id="ctl00_lblSectionName"></span></h2>
+				<h2></h2>
 			</div>
 			
 			<div id="main">
@@ -197,15 +260,27 @@
 							<li id="ctl00_nav_main_subjects"><a href="/subjects/default.aspx">Subjects</a></li>
 							<li id="ctl00_nav_main_pricing"><a href="/pricing/default.aspx">Pricing</a></li>
 							<li id="ctl00_nav_main_our_tutors"><a href="/our_tutors/default.aspx">Our Tutors</a></li>
-							<li id="ctl00_nav_main_newsletter"><a href="https://direct.tutor.com/newsletter/default.aspx" id="ctl00_lnkNewsletter">Free Newsletter</a></li>
+							<li id="ctl00_nav_main_resources"><a href="/resources/default.aspx">Hot Topics</a></li>
 							<li id="ctl00_nav_main_get_started"><a href="https://direct.tutor.com/get_started/default.aspx" id="ctl00_lnkGetStarted">Get Started</a></li>		
 							<li id="ctl00_nav_main_testimonials"><a href="/testimonials/default.aspx">Rave Reviews</a></li>
-							<li>&nbsp;</li>	
-							<li id="ctl00_main_nav_signin" style="margin-left: 40px;"><a href="https://direct.tutor.com/account/default.aspx" id="ctl00_lnkSignIn" style="color: #A33C3D;">Sign In</a></li>		
+							<li>
+								<a id="nav_more_link" href="javascript:void(0);">More <span class="subtext">▼</span></a></li>
+							<li>&nbsp;</li>
+							<li id="ctl00_main_nav_signin" style="margin-left: 30px;"><a href="https://direct.tutor.com/account/default.aspx" id="ctl00_lnkSignIn" style="color: #A33C3D;">Sign In</a>
+							</li>		
 							<li>&nbsp;</li>	
 						</ul>
 					</div>
-					
+					<div id="more_menu" style="position:absolute; display:none; z-index:3;">
+			            <ul>
+				            <li><a href="/libraries">Library Programs</a></li>
+				            <li><a href="/apply">Become a Tutor</a></li>
+				            <li><a href="/educators">Educators</a></li>
+				            <li><a href="http://direct.tutor.com/newsletter/default.aspx">Free Newsletter</a></li>
+				            <li><a href="/isr">Independent Sales<br>Representatives</a></li>
+				            <li><a href="/awards">Awards and Recognition</a></li>
+			            </ul>
+		            </div>
 					<div id="nav_sub">
 					</div>
 				</div> <!-- ends nav -->
@@ -246,6 +321,7 @@
         <h4>We Share Your Personal Information With Those Who Pay For Your Account</h4>
         <p>If your parents and/or your school pay for/subsidize the cost of your tutoring, we may share your Personal Information with them at their request. This includes the content of your tutoring sessions (transcripts) and the written comments you leave in post-session surveys.</p>
         <p>On the other hand, if you pay us for your own account, without the involvement of your parents or your school, we will not share your Personal Information with them.</p>
+        <p>If you use a promotion code at Tutor.com to create an account, or to add minutes to an account, we may let the source of that promotion code know that you used that code.  For example, if you sign up for Tutor.com as part of our tell a friend program, we may let your friend know that you redeemed their tell a friend offer.</p>
         <p>&nbsp;</p>
         
         <h4>We May Share Your Personal Information For Safety Reasons</h4>
@@ -282,19 +358,27 @@
 				<ul class="horizontal_list">
 					<li class="no_left_seperator"><a href="/privacy.aspx" id="privacy_policy">Privacy Policy</a></li>
 					<li><a href="/termsofuse.aspx">Terms of Use</a></li>
+					<li><a href="http://direct.tutor.com/newsletter/default.aspx">Free Newsletter</a></li>
 					<li id="ctl00_liFooterLibraryPrograms"><a href="/libraries/default.aspx">Library Programs</a></li>
 					<li id="ctl00_liFooterBecomeAnOnlineTutor"><a href="/apply/default.aspx">Become an Online Tutor</a></li>
 					<li><a href="/our_company/partners.aspx">Partners and Affiliates</a></li>					
 					<li id="ctl00_liFooterSiteMap"><a href="/our_company/sitemap.aspx">Site Map</a></li>								
-				</ul>		
+				</ul>
+				<ul class="horizontal_list">
+					<li class="no_left_seperator"><a href="/geo/denver-tutoring.aspx" id="A1">Tutoring in Denver</a></li>
+					<li><a href="/geo/los-angeles-tutoring.aspx">Tutoring in Los Angeles</a></li>
+					<li><a href="/geo/minneapolis-tutoring.aspx">Tutoring in Minneapolis</a></li>
+					<li><a href="/geo/new-york-tutoring.aspx">Tutoring in New York City</a></li>
+					<li><a href="/geo/potomac-tutoring.aspx">Tutoring in Potomac</a></li>
+				</ul>
 			</div>
 		</div>
-		<p class="subtext" style="color: #999999; margin-top: 5px;">© 1999-2007 Tutor.com, Inc. All rights reserved.</p>
+		<p class="subtext" style="color: #999999; margin-top: 5px;">© 1999-2008 Tutor.com, Inc. All rights reserved.</p>
     
 
 <script type="text/javascript">
 <!--
-__utmSetVar('Consumer/Visitor');hbx.seg='++3';// -->
+__utmSetVar('Consumer/Visitor');hbx.seg='++3';if ($('brandingLogo').getElementsByTagName('img').length > 0) {var banner_image = $('brandingLogo').getElementsByTagName('img')[0];Event.observe(banner_image, 'click', function(){ window.open('/awards/'); });banner_image.style.cursor = 'pointer';banner_image.setAttribute('alt', '');}// -->
 </script>
 </form><script language="javascript1.1" src="/scripts/hbx.js"></script>
 
