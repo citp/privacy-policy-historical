@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the justfreetemplates.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212005901id_/http%3A//www.spyka.co.uk/static/privacy.sx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfreetemplates.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528060916id_/http%3A//www.spyka.co.uk/static/privacy.sx) for the most accurate reproduction.*
 
 # spyka Web Group | Privacy Policy
 
 ## Privacy Policy
 
-**Last revised: 13th August 2007**
+**Last revised: 08th October 2007**
 
 This policy explains in detail how spyka Web Group (hereinafter "sWG", "us", "we", "our") use any information collected during any visit by you (hereinafter "your", "visitor", "user")
 
 ### Sites covered by this Privacy Policy
 
-This Privacy Policy applies to all spyka Web Group websites and domains including, but not limited to: ahiddenhaven.net, spyka.net, spyka.co.uk, randomquirk.com and spykawebdesign.com.
+This Privacy Policy applies to all spyka Web Group websites and domains including, but not limited to: ahiddenhaven.net, hiddenhaven.co.uk, spyka.net, spyka.co.uk, randomquirk.com, profileartist.net, justfreetemplates.com and spykawebdesign.com.
 
 ### Automatically collected information
 
