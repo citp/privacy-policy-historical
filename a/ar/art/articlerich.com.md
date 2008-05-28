@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlerich.com privacy policy that was archived on 2007-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071107065706id_/http%3A//www.articlerich.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlerich.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528063235id_/http%3A//www.articlerich.com/privacy.php) for the most accurate reproduction.*
 
-# Free Article Directory | Read Free Articles | Submit Articles | Free Author Submission | ArticleRich
+# Free Article Directory | Read Free Articles | Submit Articles | Free Author Submission
 
 ArticleRich.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. **We respect your privacy,  **we will never sell, barter, or rent your email address to any unauthorized third party. 
 
@@ -21,6 +21,8 @@ As we adopt additional technology, we may also gather information through other 
 Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. **We respect your privacy and do not share your information with anyone.**
 
 Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). 
+
+We may also use cookies and/or web beacons to collect data on the content you are viewing to ensure that advertisements are targeted to the content you are viewing.
 
 Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
 
