@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225151447id_/http%3A//www.educause.edu/PrivacyPolicy/1440) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528114515id_/http%3A//www.educause.edu/PrivacyPolicy/1440) for the most accurate reproduction.*
 
-# Privacy Policy | About EDUCAUSE | EDUCAUSE
+# Privacy Policy | EDUCAUSE
 
 ## Use of Personal Information at EDUCAUSE
 
@@ -144,5 +144,3 @@ EDUCAUSE may disclose personal information if we are required to do so to comply
 EDUCAUSE reserves the right to use personal information in its database to identify the source of any inappropriate use of information resources managed by the association, including but not limited to offensive or illegal postings to online discussion lists, collaboration sites, and other communication vehicles; denial of service actions; unauthorized use of online services and network infrastructure; misuse or unauthorized use of the EDUCAUSE name, logo, or other representations of the association; and to protect the personal safety and privacy of our members, online users, and the public under the policies and practices described above. 
 
 Effective date: 9/17/04
-
-Page Last Updated: Friday, August 03, 2007 
