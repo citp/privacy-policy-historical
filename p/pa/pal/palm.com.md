@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palm.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227020916id_/http%3A//www.palm.com/us/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palm.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528205456id_/http%3A//www.palm.com/us/company/privacy.html) for the most accurate reproduction.*
 
 # Palm - Company - Privacy Policy
 
