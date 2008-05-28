@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wand.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113144333id_/http%3A//www.wand.com/english/html/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wand.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528040140id_/http%3A//www.wand.com/core/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
-WAND, Inc. has created this privacy statement in order to demonstrate our firm commitment to the privacy of our customers and users. The following discloses our information gathering and dissemination practices for wand.com and all other applicable WAND Directory Network partner sites.
+WAND, Inc. has created this privacy statement in order to demonstrate our firm commitment to the privacy of our customers and users. The following discloses our information gathering and dissemination practices for WAND.com and all other applicable WAND Directory Network partner sites.
 
 Your IP address is used to help identify and log your session information. We use cookies to deliver content specific to your interests, to save passwords so no re-entry is required each time you visit our site, and for other Web browser related purposes.
 
@@ -30,18 +30,22 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive services from our company.
 
-1\. Send e-mail to [info@wand.com](mailto:info@wand.com) with your request  
-2\. Call the following telephone number: 303-623-1200 x450
+  1. Send e-mail to [info@wandinc.com](mailto:info@wandinc.com) with your request
+  2. Call the following telephone number: 303-623-1200 x450
+
+
 
 **Correct/Update**
 
 This site gives users the following options for changing and modifying information previously provided.
 
-1\. Send e-mail to [info@wand.com](mailto:info@wand.com) with your request  
-2\. Call the following telephone number: 303-623-1200 x450
+  1. Send e-mail to [info@wandinc.com](mailto:info@wandinc.com) with your request
+  2. Call the following telephone number: 303-623-1200 x450
+
+
 
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or any other issues regarding this Web site or WAND, Inc. please contact:
 
-[info@wand.com](mailto:info@wand.com) or call 303-623-1200 x450
+[info@wandinc.com](mailto:info@wandinc.com) or call 303-623-1200 x450
