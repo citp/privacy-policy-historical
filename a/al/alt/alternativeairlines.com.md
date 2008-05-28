@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alternativeairlines.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230100030id_/http%3A//www.alternativeairlines.com/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeairlines.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528195908id_/http%3A//www.alternativeairlines.com/privacy/index.cfm) for the most accurate reproduction.*
 
 # Flights - alternativeairlines.com - Privacy
-
-We have created this privacy statement in order to demonstrate our firm commitment to confidentiality. All information remains with Flightdirectors.com Ltd (trading as "Alternative Airlines") and/or its affiliated company Flight Directors Scheduled Services Ltd and is not passed on to any other company. 
 
 The following discloses the information gathering and dissemination practices for this web site.
 
@@ -22,8 +20,8 @@ You will not receiving mailings from us unless you have at any time registered y
 
 ### Data Quality/Access
 
-This site gives you the option to changing and modifying information previously provided by contacting us using the [feedback form](https://web.archive.org/web/20071230100030id_/http%3A//www.alternativeairlines.com/aa/contactus.cfm).
+This site gives you the option to changing and modifying information previously provided by contacting us using the [feedback form](https://web.archive.org/web/20080528195908id_/http%3A//www.alternativeairlines.com/aa/contactus.cfm).
 
 ### Contacting the Web Site Owners
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us using the [feedback form](https://web.archive.org/web/20071230100030id_/http%3A//www.alternativeairlines.com/aa/contactus.cfm).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us using the [feedback form](https://web.archive.org/web/20080528195908id_/http%3A//www.alternativeairlines.com/aa/contactus.cfm).
