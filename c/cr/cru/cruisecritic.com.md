@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the cruisecritic.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017074611id_/http%3A//www.cruisecritic.com/aboutus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisecritic.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528032150id_/http%3A//www.cruisecritic.com/aboutus/%3FID%3D11) for the most accurate reproduction.*
 
 # Cruise Critic: About Us
 
-  
-Privacy Policy
+Privacy Policy 
 
-The Internet contains a wealth of information and it may also contain personal details about you that you don't want everyone to know. When you go online, sites you visit may be gathering information about you without your knowledge. At Cruise Critic we strive to assist our participants in protecting their privacy while using our web site. 
+  The Internet contains a wealth of information and it may also contain personal details about you that you don't want everyone to know. When you go online, sites you visit may be gathering information about you without your knowledge. At Cruise Critic we strive to assist our participants in protecting their privacy while using our web site. 
 
 We have adopted the following Principles of Privacy, which summarize and clarify that commitment: how we safeguard your privacy and how we treat personal information. We understand that for you to take full advantage of our interactive medium, we must do everything we can to ensure that your privacy is secure. 
 
