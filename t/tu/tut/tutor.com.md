@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutor.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223014246id_/http%3A//www.tutor.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528101229id_/http%3A//www.tutor.com/privacy.aspx) for the most accurate reproduction.*
 
 # Tutor.com - Privacy Policy
 
@@ -40,6 +40,8 @@ Note to parents of children under the age of 13: You are welcome to call us at (
 If your parents and/or your school pay for/subsidize the cost of your tutoring, we may share your Personal Information with them at their request. This includes the content of your tutoring sessions (transcripts) and the written comments you leave in post-session surveys.
 
 On the other hand, if you pay us for your own account, without the involvement of your parents or your school, we will not share your Personal Information with them.
+
+If you use a promotion code at Tutor.com to create an account, or to add minutes to an account, we may let the source of that promotion code know that you used that code. For example, if you sign up for Tutor.com as part of our tell a friend program, we may let your friend know that you redeemed their tell a friend offer.
 
 #### We May Share Your Personal Information For Safety Reasons
 
