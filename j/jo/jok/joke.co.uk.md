@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the joke.co.uk privacy policy that was archived on 2007-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070812020856id_/http%3A//www.joke.co.uk/publish.asp%3Fwhat%3Dprivacy%26page%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joke.co.uk privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528080753id_/http%3A//www.joke.co.uk/publish.asp%3Fwhat%3Dprivacy%26page%3D1) for the most accurate reproduction.*
 
 # FANCY DRESS Costume & HALLOWEEN Costumes - JOKERS' MASQUERADE
 
-You are here: [Home](https://web.archive.org/web/20070812020856id_/http%3A//www.joke.co.uk/default.asp?submit=Home) > Privacy Policy
+You are here: [Home](https://web.archive.org/web/20080528080753id_/http%3A//www.joke.co.uk/default.asp?submit=Home) > Privacy Policy
 
 At Abscissa.Com Limited ("Jokers' Masquerade") we have adopted the following privacy policy as part of our commitment to protect any personal information ("Personal Information") which you may provide to us through this website or by other means. Please note that this privacy policy does not apply to other websites which may be linked through this website. Personal Information which you choose to provide to other websites will be subject to the privacy policies of those websites.
 
