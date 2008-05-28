@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockpickr.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226220400id_/http%3A//stockpickr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockpickr.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528025625id_/http%3A//www.stockpickr.com/privacy) for the most accurate reproduction.*
 
 # Stockpickr! Your Source for Stock Ideas
 
