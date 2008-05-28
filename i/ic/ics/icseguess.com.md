@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the icseguess.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210235016id_/http%3A//www.icseguess.com/pages/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icseguess.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528193428id_/http%3A//www.icseguess.com/pages/privacy_policy.php) for the most accurate reproduction.*
 
 # icse India, icse Board Guess Questions Papers & Results, icse Tutors, Books, Schools India, Indian Educational
 
 Privacy Policy
 
 ICseguess.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and usage practices. For additional information about icseguess.com, please review our Terms of Service.   
-icseguess.com does not sell or rent your personal identification to third parties. icseguess.com does provide your personal identification to selected, affiliated companies to allow them to perform services for members on our behalf. 
+icseguess.com does not sell or rent your personal identification to third parties. icseguess.com does provide your personal identification to selected, affiliated companies to allow them to perform services for members on our behalf.
 
 Personal Messaging
 
@@ -113,4 +113,4 @@ Users who no longer wish to receive our newsletter or promotional materials from
 
 **7\. How to contact icseguess.com?**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us.](https://web.archive.org/web/20071210235016id_/http%3A//www.icseguess.com/pages/contactus.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us.](https://web.archive.org/web/20080528193428id_/http%3A//www.icseguess.com/pages/contactus.php)
