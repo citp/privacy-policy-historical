@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220204715id_/http%3A//www.adready.com/meta/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528170416id_/http%3A//www.adready.com/meta/privacy) for the most accurate reproduction.*
 
-# AdReady — Privacy Policy
+# AdReady | Privacy Policy
 
 ## AdReady Privacy Policy
 
@@ -48,7 +48,7 @@ AdReady uses reasonable procedural and technical safeguards to protect your Pers
 
 ## Administrative Communications and Notice of Security Breaches 
 
-If AdReady learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. AdReady may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the adready.com web site. AdReady may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at privacy@adready.com. 
+If AdReady learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. AdReady may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the adready.com web site. AdReady may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy@adready.com](mailto:privacy@adready.com).
 
 ## International
 
@@ -68,17 +68,17 @@ Consistent with the federal Children's Online Privacy Protection Act of 1998 (CO
 
 ## QUESTIONS RELATING TO OUR PRIVACY POLICY?
 
-If you have questions or concerns about this privacy policy, please e-mail us at: [privacy@adready.com](mailto:privacy@adready.com), 
+If you have questions or concerns about this privacy policy, please e-mail us at: [privacy@adready.com](mailto:privacy@adready.com).
 
 or mail to:  
 Attention: Privacy Officer/Operations   
-936 34th Street, Suite 200   
+936 34th Street, Suite 300   
 Seattle, WA 98103  
 
 
 Policy updated as of February 1, 2007
 
-[Try It Now. It’s Free](https://web.archive.org/signup/standard) — It takes just 2 minutes to set up your account.  
+[Try It Now.](https://web.archive.org/signup/standard) — It takes just 2 minutes to set up your free account.  
 Or give us a call at 866-546-6009 and we'll show you how to “convert eyeballs to sales” with AdReady. 
 
-© 2007 AdReady, Inc. 
+© 2008 AdReady, Inc.
