@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the thrivent.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005162053id_/http%3A//www.thrivent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivent.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528031614id_/http%3A//www.thrivent.com/privacy.html) for the most accurate reproduction.*
 
 # Thrivent Financial for Lutherans
-
-  
-Internet Privacy Policy
 
 Thank you for taking the time to view this policy. Thrivent Financial values your business and is committed to safeguarding the information you provide to us online. We do not share or exchange information gathered on this site with outside organizations who are not performing services for us or on our behalf. Please review this policy to help you better understand our views and practices regarding privacy on our Web site. 
 
@@ -29,11 +26,11 @@ Top of page
 **What information do we gather on our Web site?**  
 When you register for Lutherans Online chat rooms and message boards or other free Lutherans Online services we ask that you provide your name, date of birth, e-mail address, and postal address (including city, state, and ZIP code). 
 
-For added security, to register for access to the Account Access or Members/Chapters areas, you will need to provide the above listed information plus your Social Security number or Thrivent ID, and contract number or birth date. This information, required at initial registration only, is used to identify you as a unique, authorized user. 
+For added security, to register for access to My Accounts or Members/Chapters areas, you will need to provide the above listed information plus your Social Security number or Thrivent ID, and contract number or birth date. This information, required at initial registration only, is used to identify you as a unique, authorized user. 
 
 **Thrivent Financial will never ask you to provide or confirm your personal information through an e-mail unless you have requested such an e-mail or transaction from us. Never respond to an e-mail (especially[unsolicited e-mail](http://www.thrivent.com/phishing.html)) which asks for personal or account information.**
 
-In other sections of our Web site (e.g., the information request form, Financial Analysis Questionnaire, free offers order forms, ThriveQ), we may capture additional information you may supply including personal financial information, telephone number, name of your church, the home city/state of your church, whether or not you are Lutheran, and other personal information in order to fulfill your request. 
+In other sections of our Web site (e.g., information request forms, financial questionnaires, order forms, etc.), we may capture additional information you may supply including personal financial information, telephone number, name of your church, the home city/state of your church, whether or not you are Lutheran, and other personal information in order to fulfill your request. 
 
   
 Top of page
@@ -51,7 +48,7 @@ If you access or service your accounts online using your user ID and password to
 Top of page
 
 **How can you update the personal information you provide online?**  
-Account Access, Members/Chapters and Lutherans Online registration – You can change the information you provided at registration, including your current e-mail address, through your online personal profile. To update your profile: 
+My Accounts, Members/Chapters and Lutherans Online registration – You can change the information you provided at registration, including your current e-mail address, through your online personal profile. To update your profile: 
 
   1. Log in to a secure area, and click on **Manage my Profile**. 
   2. Click the link for the information category you would like to update. 
@@ -67,7 +64,8 @@ ThriveQ registration – You can change the information you provided at registra
 Top of page
 
 **How do we protect your personal information?**  
-We have strict standards of security to safeguard your data. In fact, the physical, electronic and procedural safeguards in place to protect your data often exceed regulatory requirements. The technology we use to protect your data is reviewed often. We improve the process as needed.  
+We have strict standards of security to safeguard your data. In fact, the physical, electronic and procedural safeguards in place to protect your data often exceed regulatory requirements. The technology we use to protect your data is reviewed often. We improve the process as needed. 
+
 Only authorized employees and representatives may access and use data about you. All are trained to safeguard your data. Those who use your data must follow established standards, procedures and laws. Also, Thrivent Financial uses encryption technology when sending or requesting personal information via the Internet. 
 
   
@@ -84,7 +82,9 @@ We use the information we gather about our site visitors in one or more of the f
   * To increase visitor satisfaction in their online experience with Thrivent Financial. 
   * To inform customer service professionals or financial representatives about account access and service requests that will enable us to provide you with better customer service. 
   * To inform you of updates to our Web site (if you request it in your personal profile, during or after registration). 
-  * For marketing purposes to provide you with information about products and services available through Thrivent Financial and/or its affiliated companies that may be of interest to you (if you request it in your personal profile, during or after registration).
+  * To provide you with information about products and services available through Thrivent Financial and/or its affiliated companies that may be of interest to you. You can opt out of receiving this information during or after registering for the site.
+  * To help resolve disputes, if needed.
+  * To provide you with security information to assist you in accessing our Web site.
 
   
 Top of page
@@ -97,7 +97,7 @@ To change your preference for receiving updates to our Web site, you need to upd
   3. Check/uncheck the **Send Me Updates** check box.
   4. Click **Continue** to save your changes. The information in your online personal profile will be updated. 
 
-Notice of any material change to our Internet Privacy Policy will be posted on the thrivent.com home page. 
+
 
   
 Top of page
@@ -109,7 +109,7 @@ To opt out of data sharing and e-mail marketing, call us toll-free at 800-701-38
 
   * Direct us not to share data about you with other financial institutions with which we have joint marketing agreements. We do not share or exchange information gathered on this site with outside organizations who are not performing services for us or on our behalf.  
 
-  * Request we remove your name from some or all of our internal marketing lists. You should know that our regular service mailings may still contain marketing materials.  
+  * Request we remove your name from some or all of our internal marketing lists. You should know that our regular service mailings may still contain marketing materials. If you have opted in to receive electronic service notifications and/or confirmations, you will continue to receive such e-mails.  
 
   * In all states, except California, Minnesota, New Mexico, North Dakota and Vermont, tell us not to share data about you with nonprofit Lutheran organizations. In California, Minnesota, New Mexico, North Dakota and Vermont, we do not share data about you with nonprofit Lutheran organizations.. 
 
@@ -137,7 +137,33 @@ Cookies:
 Top of page
 
 **How can you set or delete your computer’s cookies?**  
-You can set your computer’s browser to opt-out of receiving and storing cookies, however, doing so may limit your access to certain sections of our site. You also can delete cookies stored on your computer’s browser. The process to set or delete cookies differs by browser. See your browser’s Help feature or contact the manufacturer for instructions on how to set/delete your browser’s cookie options. 
+You can set your computer’s browser to opt-out of receiving and storing cookies, however, doing so may limit your access to certain sections of our site. You also can delete cookies stored on your computer’s browser. The process to set or delete cookies differs by browser. See your browser’s Help feature or contact the manufacturer for instructions on how to set/delete your browser’s cookie options. Below are instructions for the more popular browsers. 
+
+> **To delete cookies in Microsoft Internet Explorer:**
+> 
+>   1. Click Tools, then Internet Options.
+>   2. Click the Delete Cookies button (under Temporary Internet Files box) and OK to confirm.
+>   3. Click OK to close the Internet Options box.
+> 
+
+> 
+> **To delete cookies in Firefox 2:**
+> 
+>   1. Click Tools, then Options.
+>   2. Click the Privacy Tab.
+>   3. Click Clear Now (under Private Data)
+>   4. Be sure the Cookies box is checked, then click Clear Private Data Now.
+> 
+
+> 
+> **To delete cookies in Safari 3:**
+> 
+>   1. Click Edit, then Preferences.
+>   2. Click the Security tab.
+>   3. Click the Show Cookies button.
+>   4. Click the Remove All button.
+> 
+
 
   
 Top of page
@@ -155,11 +181,11 @@ Thrivent Financial uses P3P technology. P3P (Platform for Privacy Preferences) a
 Top of page
 
 **Do we use encryption technology?**  
-Several areas on Thrivent Financial's Web site (e.g., Account Access) have been built to handle sensitive or confidential information. These pages utilize an Internet method known as Secure Socket Layers (SSL). With SSL engaged, pages are sent to you in an encrypted (scrambled) format and any information you submit to Thrivent Financial also is encrypted. Encryption is the transformation of data into a form unreadable by anyone who doesn't have the appropriate decryption key. This method of transferring sensitive data is considered the industry standard for the Internet. 
+Several areas on Thrivent Financial's Web site (e.g., My Accounts) have been built to handle sensitive or confidential information. These pages utilize an Internet method known as Secure Socket Layers (SSL). With SSL engaged, pages are sent to you in an encrypted (scrambled) format and any information you submit to Thrivent Financial also is encrypted. Encryption is the transformation of data into a form unreadable by anyone who doesn't have the appropriate decryption key. This method of transferring sensitive data is considered the industry standard for the Internet. 
 
 For added security, close your browser completely when you finish using this site. While online, your browser is using part of your computer's memory. If your broswer is left open, it may be possible for someone using your computer to go back and use this memory to access your information. Closing your browser, clears this memory. You may also want to consider clearing your browser's temporary files. 
 
-For your security, we highly recommend you update your browser to versions that support SSL. Microsoft Internet Explorer, Netscape and Mozilla’s Firefox are three browsers that support these encryption techniques. Internet Explorer displays a lock on the icon bar in the lower right corner while encrypted. Netscape will display a solid key graphic in the lower left corner when the SSL mode is engaged and the connection is encrypted. Firefox will display a lock on the right side of the address bar. If you are not sure if your browser is compatible, check with your service provider. 
+For your security, we highly recommend you update your browser to versions that support SSL. Microsoft Internet Explorer, Mozilla Firefox and Apple Safari are three browsers that support these encryption techniques. A solid lock graphic will display when the SSL mode is engaged and the connection is encrypted. If you are not sure if your browser is compatible, check with your service provider. 
 
 Thrivent Financial has taken steps to make all information you provide to us as secure as possible against unauthorized access and use, alteration, and/or loss. This information is kept in Thrivent Financial's secure database. You should keep in mind, however, that no data transmission over the Internet is 100 percent secure and any information disclosed online can potentially be intercepted and used by unauthorized parties. 
 
@@ -179,10 +205,11 @@ The Thrivent Financial Web site contains links to several other Internet sites. 
 Top of page
 
 **Questions or comments?**  
-If you have questions regarding our Internet Privacy Policy, send an e-mail message to [mail@thrivent.com](mailto:mail@thrivent.com), or send your written request to Thrivent Financial for Lutherans, 4321 N. Ballard Rd., Appleton, WI 54919.   
-Also, if you receive e-mail messages from Thrivent Financial about updates to our Web site and wish to no longer receive these updates, you can unsubscribe from our mailing list following the unsubscribe directions in the e-mail. You also can unsubscribe by updating your personal profile (under Manage My Profile). Notice of any material change to our Internet Privacy Policy is given on the thrivent.com home page. 
+If you have questions regarding our Internet Privacy Policy, send an e-mail message to [mail@thrivent.com](mailto:mail@thrivent.com), or send your written request to Thrivent Financial for Lutherans, 4321 N. Ballard Rd., Appleton, WI 54919. 
 
-Notice of any material change to our Internet Privacy Policy is given will be posted on the thrivent.com home page. 
+Also, if you receive e-mail messages from Thrivent Financial about updates to our Web site and wish to no longer receive these updates, you can unsubscribe from our mailing list following the unsubscribe directions in the e-mail. You also can unsubscribe by updating your personal profile (under Manage My Profile). 
 
-This Internet Privacy Policy and any updates are effective as of Jan 15, 2007.   
+Notice of any material change to our Internet Privacy Policy is given on the thrivent.com home page. 
+
+This Internet Privacy Policy and any updates are effective as of April 7, 2008.   
 Top of page
