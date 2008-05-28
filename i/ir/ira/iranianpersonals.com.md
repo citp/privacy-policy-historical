@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iranianpersonals.com privacy policy that was archived on 2007-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070710170857id_/http%3A//www.iranianpersonals.com/personals/privacy.cfm%3FsiteIDD%3D39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranianpersonals.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528041840id_/http%3A//iranianpersonals.com/personals/privacy.cfm%3FsiteIDD%3D39) for the most accurate reproduction.*
 
-# Iranian Personals - Safe Online Dating and Friendship Site for Iranian Men and Women
+# IranianPersonals.com - Safe Online Dating and Friendship Site for Iranian Men and Women
 
 |  World Singles, LLC ("World Singles") created this privacy policy to demonstrate its commitment to protecting your personal information and informing you on how it is handled. This privacy policy only applies to transactions and activities in which you engage, data gathered on the World Singles Websites (the “Site”) and email communications between World Singles members. It does not apply to any other Website or offline point of contact between World Singles, or any other company and consumers. Please review this privacy policy periodically as World Singles may modify it from time to time. Each time you visit the Site or provide World Singles with information, by doing so you are accepting the practices described in this privacy policy at that time. 
 
