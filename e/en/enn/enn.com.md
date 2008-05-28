@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215171810id_/http%3A//www.enn.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528090858id_/http%3A//www.enn.com/static/privacy_policy) for the most accurate reproduction.*
 
 # ENN: Privacy Policy
+
+[Cookie Recipes](http://www.quaker.co.uk/)  
+Yummy can be healthy! Bake cookies with Quaker Oats for a healthier alternative.
 
 ### Privacy Policy
 
