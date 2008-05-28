@@ -1,23 +1,89 @@
-> *The following text is extracted and transformed from the centerpointenergy.com privacy policy that was archived on 2007-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071106154137id_/http%3A//www.centerpointenergy.com/legal/privacy/1%2C2754%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerpointenergy.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528145923id_/http%3A//centerpointenergy.com/portal/site/CenterPointEnergy/menuitem.2146d2f5f1168cbb62d341b1101ad0a0/%3Fvgnextoid%3Db0d8267f08023110VgnVCM10000001a10d0aRCRD) for the most accurate reproduction.*
 
-# CenterPoint Energy ::
+# CNP - Privacy Policy
 
-This Privacy Policy describes how CenterPoint Energy handles information we learn about you from your visit to our Web site. The information we receive depends on what you do when you visit our site.
+**Our pledge to you  
+**CenterPoint Energy cares about our customers. Protecting your privacy is important, so we take great precautions to safeguard your personal information. Throughout our more than 130-year history, we've built our reputation on delivering safe, dependable service. You can trust us to handle your confidential information responsibly. This document will help you understand more about our policies concerning customer information in the online environment of our Web site. It explains the following:
 
-For each visitor to our Web page, we automatically collect the domain name, IP address, and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+  * **Security -**  How we protect your confidential information.
 
-The information we collect is used to improve the content of our Web page, to customize the content and/or layout of our page for each individual visitor, to notify consumers about updates to our Web site, and to contact consumers for marketing purposes. The information may also be shared with other reputable organizations to help them contact consumers for marketing purposes. CenterPoint Energy reserves the right to transfer aggregated user information to third parties, provided that no personal information relating to any individual user is disclosed. The statements in this paragraph about using Web site visitor information for marketing purposes do not apply to personal data supplied by job seekers who register on the Careers Web site and complete an information profile. Please review our [CNP Careers Privacy Statement](https://web.archive.org/cnp/common/1,3163,111337,00.html) for additional information.
+  * **Privacy -**  The information we collect from you in conducting your business and how we use your information.  
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, and ensure that visitors are not repeatedly sent the same banner ads.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address. From time to time, we make the e-mail addresses of our customers and/or those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by sending us an e-mail at the above address.
 
-If you supply us with additional information on-line (your name, postal address, telephone number, or any other identifying information), you may be contacted by us or by other reputable companies (by mail, e-mail, or telephone) with information on new products and services or upcoming events. If you do not wish to receive such communications, you will be provided an opportunity to "opt-out" of such uses at the time you provide the information to us. Or you can e-mail us at any time and we will remove your name from our contact list at your request.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-This site contains links to other sites. CenterPoint Energy is not responsible for the privacy practices of such other sites.
+**Security - How we protect your personal information and financial transactions**
 
-CenterPoint Energy does not seek to collect personal information about or from minors. However we recognize that special concerns exist whenever children are online. In areas of the CenterPoint Energy Web site that may be of particular interest to children, we will use our best efforts not to collect personal information from those identifying themselves as under age 18. CenterPoint Energy encourages parents to take an active role in their children's use of the Internet and to spend time online with their children. If you believe that your child has submitted personal information to CenterPoint Energy inadvertently, we will delete all such information from our database at your request.
+We take great care with the confidential information you provide us in the course of conducting your business, whether you are making an online account transaction or requesting products and services online.  
 
-(Rev. 04/01/2006)
+
+There are three primary ways we safeguard your information:
+
+  1. **Password and security protection  
+**Access to the secure section of our Web site is limited only to registered users with a valid account number and billing date who log in with a private password and User ID. Personal security questions provide additional protection.
+
+  2. **Electronic encryption  
+**Your account and financial information is stored in and transmitted from our secure, 128-bit encryption environment. For added security, we use Secure Sockets Layer (SSL) technology when transmitting and receiving data through online connections. SSL encrypts or "encodes" your personal information and helps us maintain accuracy, prevent unauthorized access and ensure appropriate use of information. Our system is in full compliance with governing rules established by NACHA (National Automated Clearing House Association, or The Electronic Payments Association) and ACH (Automated Clearing House).
+
+  3. **Procedural safeguards  
+**Online access to your individual account and customer information is restricted to you as the account holder. Limited access is also provided to trained company professionals who service accounts or provide products and services that you have requested online. All individuals who handle sensitive data, whether employees or affiliates, are subject to our strict confidentiality requirements and receive annual training according to our Standards of Conduct and Business Ethics. Integrity, accountability, initiative and respect are among our core values. Our handling of your confidential information also is in full compliance with federal privacy guidelines.
+
+
+
+
+**Privacy - The information you provide us and how we use it**
+
+**Information we collect  
+**CenterPoint Energy gathers from you only the information necessary to provide the services or products you have specifically requested online. This information may include your name, address, telephone number, e-mail address,  
+registered account services, and purchased products or services.
+
+**Your preferences in visiting our Web site  
+**When you visit our Web site, you can do so anonymously. We may collect basic information such as your Internet service provider, computer operating system and browser, as well as the date, time and length of your visit and the pages you view. This information will be used to help us improve our site's usefulness. By understanding more about our customers' preferences, we can continue to improve the content, navigation and function of our Web site. For some requests or account transactions, we will ask for more detailed personal information, such as your name, address and/or telephone number, password and e-mail address (User ID).
+
+**How we use your information  
+**We use the information you provide us only to deliver the products, services, or information you have specifically requested online. We try to respond to all online requests and transactions within one business day. Requests may include access to My Account Online, where you can review your bill, pay it online or change your account information; enrollment in account services such as Online Billing, Automatic Bank Draft, Budget Plan/Average Monthly Billing, No Surprise Bill or Energy Information Online; start/stop/transfer service requests;
+
+We may periodically send you information about new products and services or upcoming events. You may request that we not send you such information by contacting us as noted below. In other cases, we release customer information only when:
+
+  * We have your written authorization
+
+  * We are ordered to produce the records by court subpoena or by written request from a police department, agency or other state department in the course of an official investigation
+
+  * We are asked in writing by a landlord (or property manager) to release information related to their property ownership interest in the property
+
+
+
+
+**Information from minors  
+**To protect the privacy of children under the age of 18 who may visit our Web site, CenterPoint Energy avoids collecting any personal information about or from minors who may visit. We encourage adults to monitor children's use of the Internet. If you believe your child has unintentionally submitted personal information to us, we will gladly delete it at your request.
+
+**Other important information**  
+Regardless of the many precautions we take, CenterPoint Energy recognizes that Internet security can never be fully guaranteed. Our site also contains links to the sites of industry, trade ally or community organizations with which we do business. We provide access only to those sites that we believe will be of value to you, but we are not responsible for their content or privacy practices.
+
+**Changes to our policy  
+**Updates to this online Privacy and Security Statement may be made periodically and will be posted online at this location. Contact us with questions or concerns.
+
+We invite your comments and want to hear from you if you have any questions, problems, or suggestions. We generally will respond to requests or inquiries by the end of the next business day.
+
+_For more contact information, click[ A-Z Directory](https://web.archive.org/vgn-ext-templating/v/index.jsp?vgnextoid=be88267f08023110VgnVCM10000001a10d0aRCRD). To contact us via e-mail, click Contact above._
+
+ Contact us any time:
+
+| 
+
+**Corporate Office, Street Address**
+
+CenterPoint Energy, Inc.  
+1111 Louisiana Street  
+Houston, Texas 77002
+
+| 
+
+**Mailing Address**
+
+CenterPoint Energy, Inc.  
+P.O. Box 4567  
+Houston, Texas 77210-4567  
+  
+---|---
