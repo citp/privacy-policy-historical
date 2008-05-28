@@ -1,126 +1,720 @@
-<!--The following is the downloaded HTML source of the carrental.com privacy policy that was archived on 2001-02-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010207165326id_/http%3A//www.avis.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carrental.com privacy policy that was archived on 2008-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080528143831id_/http%3A//www.carrental.com/globals/pp.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN"><html><head>
-<title>Avis Rent A Car - Privacy Policy</title>
-<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
-<meta http-equiv="Expire" content="now">
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="Mon, 01 Jan 1990 00:00:01 GMT">
-<base href="http://www.avis.com/">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+	<title>CarrentalSupport.com - Privacy Policy</title>
+<link rel="stylesheet" type="text/css" href="/globals/styles.css">
 </head>
 
-<body bgcolor="#FFFFFF" text="#000000" link="#D60021" vlink="#D60021" alink="#0080C0" topmargin="0" leftmargin="0" rightmargin="6" marginheight="0" marginwidth="0">
+<body bgcolor="#2f222b">
+<div align="center">
 
-<table width="99%" border="0" cellspacing="0" cellpadding="0">
 
+<!-- ########## BEGIN HEADER ########## -->
+<table width="975" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td nowrap=""><a href="/"><img src="/images/headers/header_left_avis_logon.gif" width="160" height="85" alt="Avis Rent A Car" border="0" align="LEFT" hspace="0" vspace="0"><img src="/images/headers/header_right_blank.gif" width="440" height="44" alt="" border="0" align="RIGHT" hspace="0" vspace="0" style="position: relative"></a><img src="/images/headers/header_spacer.gif" width="100%" height="44" alt="" border="0" hspace="0" vspace="0"></td>
+	<td colspan="4"><img src="/images/hdr1.gif" width="975" height="49" alt="" border="0" usemap="#imap1"></td>
 </tr>
-
+<tr valign="middle">
+	<td width="13"><img src="/images/hdr2L.gif" width="13" height="31" alt="" border="0"></td>
+	<td width="709" height="31" bgcolor="#1f1122" class="white">
+	
+	&nbsp;&nbsp;<a href="/international/index.php" class="nav">International Deals</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
+	<a href="/one_way/index.php" class="nav">One-Way Deals</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
+	<a href="/last_minute/index.php" class="nav">Last Minute Deals</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
+	<a href="/help/index.php" class="nav">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
+	<a href="/members/index.php" class="nav">Member Login</a>&nbsp;&nbsp;
+	
+	</td>
+	<td width="240" height="31" bgcolor="#1f1122" class="white" align="right">last update: Wednesday - May 28, 2008</td>
+	<td width="13"><img src="/images/hdr2R.gif" width="13" height="31" alt="" border="0"></td>
+</tr>
 <tr>
-<td height="5"></td>
+	<td colspan="4" height="17" bgcolor="#2f222b"><img src="/images/s.gif" width="1" height="17" alt="" border="0"></td>
 </tr>
+</tbody></table><!-- ########## END HEADER ########## -->
 
-<tr valign="TOP">
-<td align="CENTER">
 
-<!-- BEGIN NESTED TABLE -->
 
-<table border="0" cellspacing="0" cellpadding="0">
+
+
+
+
+
+
+<!-- ########## BEGIN BODY ########## -->
+<table width="975" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top">
+	<td width="274">
+	<table width="274" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td colspan="3" width="274" height="44"><img src="/images/reserveHdr.gif" width="274" height="44" alt="" border="0"></td>
+	</tr>
+	<tr valign="top">
+		<td background="/images/resBgL.gif" width="12"><img src="/images/s.gif" width="12" height="1" alt="" border="0"></td>
+		<td width="249" bgcolor="#ffffff"><!-- ########## BEGIN RESERVATION SIDEBAR ########## -->
+		
+		
+<!-- <script type="text/javascript" src="/globals/ajax2.js"></script> -->
+<script language="JAVASCRIPT" src="/globals/dateChange.js"></script>
+<script language="JAVASCRIPT" src="/globals/calPop.js"></script>
+<script language="JAVASCRIPT" src="/globals/formSets.js"></script>
+<script language="javascript" type="text/javascript">
+
+/*
+function checkCity(which)
+{
+var field = document.Form0.pickupLocation;
+document.getElementById("errorMsgpu").innerHTML=""
+
+
+var code = document.Form0.pickupLocation.value;
+var getfile = '/globals/locValidate.php?which=' + which + '&code=' + code;
+//alert(getfile)
+ajax_loadContent('errorMsgpu', getfile);
+if (document.getElementById("errorMsgpu").innerHTML=""){
+return true;
+}else{
+alert("Bad PU")
+return false;
+}
+}
+function checkCityDo(which)
+{
+document.getElementById("errorMsgdo").innerHTML=""
+var code2 = document.Form0.dropoffLocation.value;
+var dook = document.Form0.dook;
+var getfile = '/globals/locValidate.php?which=' + which + '&code=' + code2;
+//alert(getfile)
+ajax_loadContent('errorMsgdo', getfile);
+ajax_loadContent('dook', getfile);
+if (document.Form0.dook.value == ""){
+return true;
+}else{
+alert("Bad DO")
+return false;
+}
+}
+
+*/
+
+function sendPUAlert(){
+alert('Please enter a valid Pick-up Location Code');
+}
+
+function sendDOAlert(){
+alert('Please enter a valid return Location Code');
+}
+
+function createRequestObject() { 
+    var ro; 
+    var browser = navigator.appName; 
+    if(browser == "Microsoft Internet Explorer"){ 
+        ro = new ActiveXObject("Microsoft.XMLHTTP"); 
+    }else{ 
+        ro = new XMLHttpRequest(); 
+    } 
+    return ro; 
+} 
+
+var http = createRequestObject(); 
+
+function checkCity(which){ 
+	var code = document.Form0.pickupLocation.value;
+	if (code.length == 3){
+    var url = '/globals/locValidate.php?which=' + which + '&code=' + code;
+    http.open('get', url); 
+    http.onreadystatechange = handleResponse; 
+    http.send(null); 
+	}
+} 
+
+function handleResponse(errorarea) { 
+    if(http.readyState == 4){ 
+        var response = http.responseText; 
+            if(response == 0){ 
+				var field = document.Form0.pickupLocation;
+				var code = document.Form0.pickupLocation.value;
+				var message = '- ' + code + ' is not a valid pick-up location';
+					document.getElementById('errorMsgpu').innerHTML=message
+					document.getElementById("SubmitArea").innerHTML="<a href=# onclick=sendPUAlert()><img src=/newimages/buttons/searchForAvailableCars.gif border=0></a>"
+                }else{
+					document.getElementById('errorMsgpu').innerHTML=""
+					document.getElementById('errorMsgdo').innerHTML=""
+					document.getElementById("SubmitArea").innerHTML="<a href=javascript:document.Form0.submit();><img src=/newimages/buttons/searchForAvailableCars.gif border=0></a>"
+					
+				
+				}
+            } 
+        } 
+ 
+
+function checkCity2(which){ 
+	var code = document.Form0.dropoffLocation.value;
+	if (code.length == 3){
+    var url = '/globals/locValidate.php?which=' + which + '&code=' + code;
+    http.open('get', url); 
+    http.onreadystatechange = handleResponse2; 
+    http.send(null); 
+	}
+} 
+
+function handleResponse2(errorarea) { 
+    if(http.readyState == 4){ 
+        var response = http.responseText; 
+            if(response == 0){ 
+				var field = document.Form0.dropoffLocation;
+				var code = document.Form0.dropoffLocation.value;
+				var message = '- ' + code + ' is not a valid return location';
+					document.getElementById('errorMsgdo').innerHTML=message
+					document.getElementById("SubmitArea").innerHTML="<a href=# onclick=sendDOAlert()><img src=/newimages/buttons/searchForAvailableCars.gif border=0></a>"
+                }else{
+					document.getElementById('errorMsgdo').innerHTML=""
+					document.getElementById("SubmitArea").innerHTML="<a href=javascript:document.Form0.submit();><img src=/newimages/buttons/searchForAvailableCars.gif border=0></a>"
+				checkCity('pu');
+					
+				
+				}
+            } 
+        } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function validate_pickupLocation()
+{
+ 
+
+ 
+  var field = document.Form0.pickupLocation;
+
+  
+  
+  
+  if (field.value.length == 0)
+     return validator_invalid_field(field, "You must enter a value for Pickup Location Code.");
+
+
+
+
+
+  if (field.value.length < 3)
+     return validator_invalid_field(field, "You must enter at least 3 characters for Pickup Location Code.");
+
+  return true;
+}
+
+function $PopupLink_popup()
+{
+	aWindow = window.open('/globals/airportCodes.html?whichField=pu', 'pickupLocation', 'resizable,scrollbars,height=400,width=575', false);
+	aWindow.focus();
+}
+
+function validate_dropoffLocation()
+{
+  var field = document.Form0.dropoffLocation;
+
+
+
+  if (field.value.length == 0)
+     return true;
+
+
+
+  if (field.value.length < 3)
+     return validator_invalid_field(field, "You must enter at least 3 characters for Return Location Code.");
+
+  return true;
+}
+
+function $PopupLink$0_popup()
+{
+	aWindow = window.open('https://qaservices.avis.com/dcweb/partners/crc/airportCodes.html?whichField=do', 'dropoffLocation', 'resizable,scrollbars,height=400,width=575', false);
+	aWindow.focus();
+}
+
+var pattern_awdNumber = new RegExp("\^\[a\-zA\-Z\]\[0\-9\]\{6\}\$");
+
+function validate_awdNumber()
+{
+    var field = document.Form0.awdNumber;
+
+    if (field.value.length > 0 && !pattern_awdNumber.test(field.value))
+        return validator_invalid_field(field, "Invalid format for Avis AWD Number");
+
+    return true;
+}
+
+function $PopupLink$1_popup()
+{
+	aWindow = window.open('https://qaservices.avis.com/dcweb/partners/crc/whatsThisPopups/awd.html', 'popuplink_window', 'resizable,scrollbars,height=240,width=465', false);
+	aWindow.focus();
+}
+
+var pattern_wizardNumber = new RegExp("\^\[a\-zA\-Z\]\[a\-zA\-Z0\-9\]\{2\}\[0\-9\]\{2\}\[a\-zA\-Z0\-9\]\$");
+
+function validate_wizardNumber()
+{
+    var field = document.Form0.wizNumber;
+
+    if (field.value.length > 0 && !pattern_wizardNumber.test(field.value))
+        return validator_invalid_field(field, "Invalid format for Avis Wizard Number");
+
+    return true;
+}
+
+function $PopupLink$2_popup()
+{
+	aWindow = window.open('https://qaservices.avis.com/dcweb/partners/crc/whatsThisPopups/wizard.html', 'popuplink_window', 'resizable,scrollbars,height=240,width=465', false);
+	aWindow.focus();
+}
+
+var pattern_bcdNumber = new RegExp("\^\[a\-zA\-Z\]\[0\-9\]\{6\}\$");
+
+function validate_bcdNumber()
+{
+    var field = document.Form0.bcdNumber;
+
+    if (field.value.length > 0 && !pattern_bcdNumber.test(field.value))
+        return validator_invalid_field(field, "Invalid format for Budget BCD Number");
+
+    return true;
+}
+
+function $PopupLink$3_popup()
+{
+	aWindow = window.open('https://qaservices.avis.com/dcweb/partners/crc/whatsThisPopups/bcd.html', 'popuplink_window', 'resizable,scrollbars,height=240,width=465', false);
+	aWindow.focus();
+}
+
+var pattern_bcnNumber = new RegExp("\^\[a\-zA\-Z\]\{2\}\[0\-9\]\{3\}\[a\-zA\-Z\]\$");
+
+function validate_bcnNumber()
+{
+    var field = document.Form0.bcnNumber;
+
+    if (field.value.length > 0 && !pattern_bcnNumber.test(field.value))
+        return validator_invalid_field(field, "Invalid format for Budget BCN Number");
+
+    return true;
+}
+
+function $PopupLink$4_popup()
+{
+	aWindow = window.open('https://qaservices.avis.com/dcweb/partners/crc/whatsThisPopups/bcn.html', 'popuplink_window', 'resizable,scrollbars,height=240,width=465', false);
+	aWindow.focus();
+}
+
+
+function validateForm(){
+validate_pickupLocation();
+validate_dropoffLocation();
+validate_wizardNumber();
+validate_awdNumber();
+validate_bcdNumber();
+validate_bcnNumber();
+}
+
+function validator_invalid_field(field, message)
+{
+  field.focus();
+  field.select();
+  
+  window.alert(message);
+  
+  return false;
+}
+
+window.onload = function ()
+{
+document.Form0.pickupLocation.focus();
+document.Form0.pickupLocation.select();
+document.Form0.onsubmit = function ()
+{
+
+  return validate_pickupLocation() &&
+    validate_dropoffLocation() &&
+    validate_awdNumber() &&
+    validate_wizardNumber() &&
+validate_bcdNumber() &&
+validate_bcnNumber();
+}
+}
+</script>
+
+<!-- DATES AND TIMES START -->
+<!-- <script src="/globals/res1.js"></script>	 -->
+<form method="post" name="Form0" action="/globals/rp.php">
+<input type="hidden" name="whatStepToStart" value="2">
+<input type="hidden" name="puok" value="" id="puok">
+<input type="hidden" name="dook" value="" id="dook">
+<input type="hidden" name="avisCoupon" value="" id="avisCoupon">
+<input type="hidden" name="budgetCoupon" value="" id="budgetCoupon">
+
+
+<input type="hidden" name="pid" value="CarRental">		
+		<table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td style="padding-top:10px;" class="resSection">Where</td>
+		</tr>
+		<tr>
+			<td>
+			
+<!-- LOCATIONS BEGIN -->
+
+<table cellspacing="2" cellpadding="0" border="0">
 <tbody><tr>
-<td><img src="/images/pixel.gif" width="35" height="1" alt="" border="0"></td>
+	<td class="resTitle" style="padding-right:25px;">Pick-up Location Code</td>
+</tr>
+<tr valign="middle">
+	<td><input type="text" name="pickupLocation" size="5" value="" maxlength="3"><a href="javascript:$PopupLink_popup();" class="res">Airport Codes</a></td>
+</tr>
+</tbody></table>
+
+
+<!-- LOCATIONS END -->			
+			
+			</td>
+		</tr>
+		<tr>
+			<td style="padding-top:10px;" class="resSection">When</td>
+		</tr>
+		<tr>
+			<td>
+<table cellspacing="2" cellpadding="0" border="0">
+
+<tbody><tr>
+	<td colspan="3" class="resTitle">Pick-up Date and Time</td>
+</tr>
+<tr>
+	<td>
+<select name="pickupMonthSelection" onchange="setDropoffDate()">
+<option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05" selected="">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+<select name="pickupDaySelection" onchange="setDropoffDate()">
+
+		<option value="01">01
+		</option><option value="02">02
+		</option><option value="03">03
+		</option><option value="04">04
+		</option><option value="05">05
+		</option><option value="06">06
+		</option><option value="07">07
+		</option><option value="08">08
+		</option><option value="09">09
+		</option><option value="10">10
+		</option><option value="11">11
+		</option><option value="12">12
+		</option><option value="13">13
+		</option><option value="14">14
+		</option><option value="15">15
+		</option><option value="16">16
+		</option><option value="17">17
+		</option><option value="18">18
+		</option><option value="19">19
+		</option><option value="20">20
+		</option><option value="21">21
+		</option><option value="22">22
+		</option><option value="23">23
+		</option><option value="24">24
+		</option><option value="25">25
+		</option><option value="26">26
+		</option><option value="27">27
+		</option><option value="28">28
+		</option><option value="29" selected="">29
+		</option><option value="30">30
+		</option><option value="31">31</option></select>
+	</td>
+	<td><a href="#" onclick="popupCalendar('0','pickupDaySelection','pickupMonthSelection','en','US',140,120,140,120)"><img src="/images/calendar.gif" width="23" height="19" border="0"></a></td>	
 <td>
-
-<!-- ############################################################################### -->
-<!-- ############ START PAGE CONTENTS - EDIT ITEMS BELOW THIS LINE ONLY ############ -->
-<!-- ############################################################################### -->
-
-<font face="Arial,Helvetica" size="+1"><b>
-
-<!-- START PAGE TITLE -->
-
-Avis Privacy Policy
-
-<!-- END PAGE TITLE -->
-
-</b></font><p>
-<font face="Arial,Helvetica" size="3">
-
-Avis respects your privacy and has created this privacy statement to demonstrate that commitment. The following policy discloses how we gather and use information through our Web site, <a href="http://www.avis.com/">www.avis.com</a>.</font></p><p><font face="Arial,Helvetica" size="3">
-
-All information obtained through the Avis Web site is confidential. Information is requested to make your visit to the Avis Web site more productive and to provide a better Avis car rental experience.</font></p><p><font face="Arial,Helvetica" size="3">
-
-<b>IP Data:</b><br>
-When you enter the Avis Web site, we collect your IP address. The IP address identifies your Internet Service Provider, but does not identify you as an individual. This information allows us to administer our site and diagnose any server problems. Additionally, this information is aggregated to provide broad demographic information, such as the geographic location of visitors and how long they stay on our site.</font></p><p><font face="Arial,Helvetica" size="3">
-
-<b>Cookies:</b><br>
-Cookies are small text files placed on your computer by the Avis Web server. Each cookie contains unique characteristics so that our Web server can later recognize your computer. The Avis Web site uses cookies to make reserving a car faster and easier. Data, such as car, offer, and destination preferences, obtained through cookies is maintained in a secure manner and is used only for internal purposes. Avis does not collect personal information without your knowledge and permission, nor do we sell or rent any site visitor data. You may avoid the use of cookies by electing to "turn off cookies" on your browser settings.</font></p><p><font face="Arial,Helvetica" size="3">
-
-<b>Security:</b><br>
-Credit card information is not required to make a reservation on the Avis Web site. However, any service applications that require personal data such as credit card information are protected by Secure Socket Layer (SSL). SSL is a technology used to encrypt your information during transmission.</font></p><p><font face="Arial,Helvetica" size="3">
-
-<b>Email Usage:</b><br>
-Avis requires your email address in order to make a car rental reservation on our Web site. Your email address is used only to send an email confirmation of your reservation. Your email address is also required on forms requesting information, so that we may respond to you via email. Email addresses are only collected for profile use with your expressed permission. Avis only sends email to consumers who have elected to receive promotions and special offers via email. If you no longer want  to receive promotional email from Avis, please contact us via email at <a href="mailto:optout@avis.com">optout@avis.com</a>.</font></p><p><font face="Arial,Helvetica" size="3">
-
-To be excluded from future post office mailings, please use the Customer Mail Preference form on our site: <a href="http://www.avis.com/talk_to_us/customer_mail_pref.html">www.avis.com/talk_to_us/customer_mail_pref.html</a></font></p><p><font face="Arial,Helvetica" size="3">
-
-The Avis Web site contains links to other sites. Avis is not responsible for the privacy practices or the content of such Web sites.</font></p><p><font face="Arial,Helvetica" size="3">
-
-If you have any questions about this privacy statement or the practices of the Avis Web site, please contact us via email at <a href="mailto:privacy@avis.com">privacy@avis.com</a>.</font></p><p><font face="Arial,Helvetica" size="3">
-
-</font></p><hr size="1" noshade=""><font face="Arial,Helvetica" size="3">
-
-<center><a href="javascript:history.back()"><b>Return to previous page</b></a></center></font><p><font face="Arial,Helvetica" size="3">
-
-<!-- ############################################################################## -->
-<!-- ############ END PAGE CONTENTS -  EDIT ITEMS ABOVE THIS LINE ONLY ############ -->
-<!-- ############################################################################## -->
-
-</font></p></td>
-<td><img src="/images/pixel.gif" width="35" height="1" alt="" border="0"></td>
+<select name="putime"><option value="0000">midnight</option><option value="0015">12:15 AM</option><option value="0030">12:30 AM</option><option value="0045">12:45 AM</option><option value="0100">1:00 AM</option><option value="0115">1:15 AM</option><option value="0130">1:30 AM</option><option value="0145">1:45 AM</option><option value="0200">2:00 AM</option><option value="0215">2:15 AM</option><option value="0230">2:30 AM</option><option value="0245">2:45 AM</option><option value="0300">3:00 AM</option><option value="0315">3:15 AM</option><option value="0330">3:30 AM</option><option value="0345">3:45 AM</option><option value="0400">4:00 AM</option><option value="0415">4:15 AM</option><option value="0430">4:30 AM</option><option value="0445">4:45 AM</option><option value="0500">5:00 AM</option><option value="0515">5:15 AM</option><option value="0530">5:30 AM</option><option value="0545">5:45 AM</option><option value="0600">6:00 AM</option><option value="0615">6:15 AM</option><option value="0630">6:30 AM</option><option value="0645">6:45 AM</option><option value="0700">7:00 AM</option><option value="0715">7:15 AM</option><option value="0730">7:30 AM</option><option value="0745">7:45 AM</option><option value="0800">8:00 AM</option><option value="0815">8:15 AM</option><option value="0830">8:30 AM</option><option value="0845">8:45 AM</option><option value="0900" selected="">9:00 AM</option><option value="0915">9:15 AM</option><option value="0930">9:30 AM</option><option value="0945">9:45 AM</option><option value="1000">10:00 AM</option><option value="1015">10:15 AM</option><option value="1030">10:30 AM</option><option value="1045">10:45 AM</option><option value="1100">11:00 AM</option><option value="1115">11:15 AM</option><option value="1130">11:30 AM</option><option value="1145">11:45 AM</option><option value="1200">noon</option><option value="1215">12:15 PM</option><option value="1230">12:30 PM</option><option value="1245">12:45 PM</option><option value="1300">1:00 PM</option><option value="1315">1:15 PM</option><option value="1330">1:30 PM</option><option value="1345">1:45 PM</option><option value="1400">2:00 PM</option><option value="1415">2:15 PM</option><option value="1430">2:30 PM</option><option value="1445">2:45 PM</option><option value="1500">3:00 PM</option><option value="1515">3:15 PM</option><option value="1530">3:30 PM</option><option value="1545">3:45 PM</option><option value="1600">4:00 PM</option><option value="1615">4:15 PM</option><option value="1630">4:30 PM</option><option value="1645">4:45 PM</option><option value="1700">5:00 PM</option><option value="1715">5:15 PM</option><option value="1730">5:30 PM</option><option value="1745">5:45 PM</option><option value="1800">6:00 PM</option><option value="1815">6:15 PM</option><option value="1830">6:30 PM</option><option value="1845">6:45 PM</option><option value="1900">7:00 PM</option><option value="1915">7:15 PM</option><option value="1930">7:30 PM</option><option value="1945">7:45 PM</option><option value="2000">8:00 PM</option><option value="2015">8:15 PM</option><option value="2030">8:30 PM</option><option value="2045">8:45 PM</option><option value="2100">9:00 PM</option><option value="2115">9:15 PM</option><option value="2130">9:30 PM</option><option value="2145">9:45 PM</option><option value="2200">10:00 PM</option><option value="2215">10:15 PM</option><option value="2230">10:30 PM</option><option value="2245">10:45 PM</option><option value="2300">11:00 PM</option><option value="2315">11:15 PM</option><option value="2330">11:30 PM</option><option value="2345">11:45 PM</option></select>
+	</td>
 </tr>
+
+<tr>
+	<td colspan="3"></td>
+</tr>
+<tr>
+	<td colspan="3" class="resTitle">Drop-off Date and Time</td>
+</tr>
+<tr>
+	<td>
+<select name="dropoffMonthSelection">
+<option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05" selected="">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+<select name="dropoffDaySelection">
+
+		<option value="01">01
+		</option><option value="02">02
+		</option><option value="03">03
+		</option><option value="04">04
+		</option><option value="05">05
+		</option><option value="06">06
+		</option><option value="07">07
+		</option><option value="08">08
+		</option><option value="09">09
+		</option><option value="10">10
+		</option><option value="11">11
+		</option><option value="12">12
+		</option><option value="13">13
+		</option><option value="14">14
+		</option><option value="15">15
+		</option><option value="16">16
+		</option><option value="17">17
+		</option><option value="18">18
+		</option><option value="19">19
+		</option><option value="20">20
+		</option><option value="21">21
+		</option><option value="22">22
+		</option><option value="23">23
+		</option><option value="24">24
+		</option><option value="25">25
+		</option><option value="26">26
+		</option><option value="27">27
+		</option><option value="28">28
+		</option><option value="29">29
+		</option><option value="30" selected="">30
+		</option><option value="31">31</option></select>
+	</td>
+	<td><a href="#" onclick="popupCalendar('0','dropoffDaySelection','dropoffMonthSelection','en','US',140,120,140,120)"><img src="/images/calendar.gif" width="23" height="19" border="0"></a></td><td>
+<select name="doTime"><option value="0000">midnight</option><option value="0015">12:15 AM</option><option value="0030">12:30 AM</option><option value="0045">12:45 AM</option><option value="0100">1:00 AM</option><option value="0115">1:15 AM</option><option value="0130">1:30 AM</option><option value="0145">1:45 AM</option><option value="0200">2:00 AM</option><option value="0215">2:15 AM</option><option value="0230">2:30 AM</option><option value="0245">2:45 AM</option><option value="0300">3:00 AM</option><option value="0315">3:15 AM</option><option value="0330">3:30 AM</option><option value="0345">3:45 AM</option><option value="0400">4:00 AM</option><option value="0415">4:15 AM</option><option value="0430">4:30 AM</option><option value="0445">4:45 AM</option><option value="0500">5:00 AM</option><option value="0515">5:15 AM</option><option value="0530">5:30 AM</option><option value="0545">5:45 AM</option><option value="0600">6:00 AM</option><option value="0615">6:15 AM</option><option value="0630">6:30 AM</option><option value="0645">6:45 AM</option><option value="0700">7:00 AM</option><option value="0715">7:15 AM</option><option value="0730">7:30 AM</option><option value="0745">7:45 AM</option><option value="0800">8:00 AM</option><option value="0815">8:15 AM</option><option value="0830">8:30 AM</option><option value="0845">8:45 AM</option><option value="0900" selected="">9:00 AM</option><option value="0915">9:15 AM</option><option value="0930">9:30 AM</option><option value="0945">9:45 AM</option><option value="1000">10:00 AM</option><option value="1015">10:15 AM</option><option value="1030">10:30 AM</option><option value="1045">10:45 AM</option><option value="1100">11:00 AM</option><option value="1115">11:15 AM</option><option value="1130">11:30 AM</option><option value="1145">11:45 AM</option><option value="1200">noon</option><option value="1215">12:15 PM</option><option value="1230">12:30 PM</option><option value="1245">12:45 PM</option><option value="1300">1:00 PM</option><option value="1315">1:15 PM</option><option value="1330">1:30 PM</option><option value="1345">1:45 PM</option><option value="1400">2:00 PM</option><option value="1415">2:15 PM</option><option value="1430">2:30 PM</option><option value="1445">2:45 PM</option><option value="1500">3:00 PM</option><option value="1515">3:15 PM</option><option value="1530">3:30 PM</option><option value="1545">3:45 PM</option><option value="1600">4:00 PM</option><option value="1615">4:15 PM</option><option value="1630">4:30 PM</option><option value="1645">4:45 PM</option><option value="1700">5:00 PM</option><option value="1715">5:15 PM</option><option value="1730">5:30 PM</option><option value="1745">5:45 PM</option><option value="1800">6:00 PM</option><option value="1815">6:15 PM</option><option value="1830">6:30 PM</option><option value="1845">6:45 PM</option><option value="1900">7:00 PM</option><option value="1915">7:15 PM</option><option value="1930">7:30 PM</option><option value="1945">7:45 PM</option><option value="2000">8:00 PM</option><option value="2015">8:15 PM</option><option value="2030">8:30 PM</option><option value="2045">8:45 PM</option><option value="2100">9:00 PM</option><option value="2115">9:15 PM</option><option value="2130">9:30 PM</option><option value="2145">9:45 PM</option><option value="2200">10:00 PM</option><option value="2215">10:15 PM</option><option value="2230">10:30 PM</option><option value="2245">10:45 PM</option><option value="2300">11:00 PM</option><option value="2315">11:15 PM</option><option value="2330">11:30 PM</option><option value="2345">11:45 PM</option></select>
+	</td>
+	<td>
+</td></tr>
+
 </tbody></table>
 
-<!-- END NESTED TABLE -->
+<!-- DATES AND TIMES END -->
 
-</td>
-</tr>
+			
+			</td>
+		</tr>
 
-<tr>
-<td><img src="/images/pixel.gif" width="1" height="30" alt="" border="0" hspace="0" vspace="0"></td>
-</tr>
-
-<tr valign="TOP">
-<td height="40" align="CENTER" valign="MIDDLE">
-<font face="Arial,Helvetica" size="-1" style="font-size:10pt">
-| <a href="/rates_and_reservations/">Rates &amp; Reservations</a>
-| <a href="/the_fleet/">The Fleet</a>
-| <a href="/rental_locations/">Rental Locations</a>
-| <a href="/avis_deals/">Avis Deals</a>
-| <a href="/programs_and_services/">Programs &amp; Services</a> |<br>
-| <a href="/maps_and_directions/">Maps &amp; Weather</a>
-| <a href="/company/">Corporate Information</a>
-| <a href="/company/employment/">Employment Opportunities</a>
-| <a href="/talk_to_us/">Talk To Us</a>
-| <a href="/">Home</a> |</font><p><font face="Arial,Helvetica" size="-1" style="font-size:10pt">
-© 2001 ARAC Management Services, Inc.</font></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td style="padding-top:10px;" class="resSection">Discounts and Memberships</td>
+		</tr>
+		<tr>
+			<td>
+			
+<table cellspacing="2" cellpadding="0" border="0">
 <tbody><tr>
-<td><img src="/images/pixel.gif" width="10" height="1" alt="" border="0" hspace="0" vspace="0"><font face="Arial,Helvetica" size="1" style="font-size:8pt"><a href="/privacy/" style="text-decoration:none">Privacy Policy</a></font></td>
-<td align="RIGHT"><font face="Arial,Helvetica" size="1" style="font-size:8pt"><a href="/site_map/site_map.html" style="text-decoration:none">Site Map</a></font></td>
+	<td class="resTitle">Avis Wizard #:</td>
+	<td rowspan="4"><img src="/images/s.gif" width="5" height="1" alt=""></td>
+	<td class="resTitle">Budget BCN #:</td>	
+	<td rowspan="4"><img src="/images/s.gif" width="5" height="1" alt=""></td>
+	<td><!-- Coupon #: --></td>
+</tr>
+<tr valign="middle">
+	<td><input type="text" name="wizNumber" maxlength="6" size="10" value=""> <a href="javascript:$PopupLink$2_popup();" class="res">?</a></td>
+	<td><input type="text" name="bcnNumber" maxlength="6" size="10" value=""> <a href="javascript:$PopupLink$4_popup();" class="res">?</a></td>
+	<td><!-- <input type="text" name="couponNumber" maxlength="6" size="10" value=""> <a href="javascript:$PopupLink$4_popup();">?</a> --></td>
+</tr>
+
+<tr>
+	<td class="resTitle">Avis AWD #:</td>
+	<td class="resTitle">Budget BCD #:</td>
+	<td></td>
+</tr>
+<tr valign="middle">
+	<td><input type="text" name="awdNumber" maxlength="7" size="10" value=""> <a href="javascript:$1_popup();" class="res">?</a></td>
+	<td><input type="text" name="bcdNumber" maxlength="7" size="10" value=""> <a href="javascript:$3_popup();" class="res">?</a></td>
+	<td></td>
+</tr>
+
+
+</tbody></table>
+
+			</td>
+		</tr>
+	</tbody></table>
+
+		
+		
+		
+<div align="right" style="padding-top:10px;"><input type="image" src="/images/continue.gif" width="120" height="30" alt="" border="0"></div>
+
+		
+		
+		<!-- ########## END RESERVATION SIDEBAR ########## --></form></td>
+		<td background="/images/resBgR.gif" width="13"><img src="/images/s.gif" width="13" height="1" alt="" border="0"></td>
+	</tr>
+	
+	<tr>
+		<td colspan="3" width="274" height="11"><img src="/images/resFtr.gif" alt="" border="0"></td>
+	</tr>
+	</tbody></table>
+	<br><br>
+	<table width="274" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td colspan="3" width="274" height="43"><img src="/images/dealsHdr.gif" alt="" width="274" height="43" border="0"></td>
+	</tr>
+	<tr valign="top">
+		<td background="/images/resBgL.gif" width="12"><img src="/images/s.gif" width="12" height="1" alt="" border="0"></td>
+		<td width="249" bgcolor="#ffffff"><!-- ########## BEGIN DEALS SIDEBAR ########## -->
+		
+		
+		
+		
+				
+		&nbsp;
+		
+		
+		
+		
+		
+		<div align="right"><a href="#"><img src="/images/go.gif" width="61" height="30" alt="" border="0"></a></div>
+		
+		<!-- ########## END DEALS SIDEBAR ########## --></td>
+		<td background="/images/resBgR.gif" width="13"><img src="/images/s.gif" width="13" height="1" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td colspan="3" width="274" height="11"><img src="/images/dealsFtr.gif" width="274" height="11" alt="" border="0"></td>
+	</tr>
+	</tbody></table>
+	</td>
+	<td width="75"><img src="/images/s.gif" width="75" height="1" alt="" border="0"></td>
+	<td width="626"><table width="626" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td colspan="3" width="626" height="44"><img src="/images/privacyHdr.gif" width="626" height="44" alt="" border="0"></td>
+	</tr>
+	<tr valign="top">
+		<td background="/images/contentBgL.gif" width="10"><img src="/images/s.gif" width="10" height="1" alt="" border="0"></td>
+		<td width="606" bgcolor="#ffffff" class="content"><!-- ########## BEGIN MAIN CONTENT CELL ########## -->
+		
+		
+<p><br>We at <b>Avis Budget Group, Inc.</b>(referred to as <b>"Avis Budget Group," "We," "Us,"</b> or <b>"Our"</b>) recognize the importance of protecting the privacy of certain information collected about the <b>users and visitors</b> of Our Web Site (referred to as <b>"User," "You"</b> or <b>"Your"</b>). This Privacy Policy discloses what information We gather, how We use it, and how to correct or change it. At Avis Budget Group, it is Our intention to give You an understanding about how We collect Your information and the use We make of it in the course of Our business.<br>
+To that end, Avis Budget Group gathers two types of information about You: 1) data that Users provide through optional, voluntary registration on Our Web Site, and 2) data that Avis Budget Group gathers through aggregated tracking, mainly by tallying Web pages that are viewed by Users throughout Our Web Site. <br>
+However, be assured that Avis Budget Group will not disclose Personal Information (as defined herein) to third parties without Your consent, except as may be noted in this Privacy Policy or disclosed to You when the information is submitted.<br><br>
+
+<b>How Does Avis Budget Group Collect Information?</b><br><br>
+
+<b>Optional Registration</b><br><br>
+
+We collect information by specifically requesting it from You. Generally this occurs when You register at the Web Site or request information or a service. Usually, We and Our business partners use Your information to operate the Web Site and to deliver services. Avis Budget Group also uses Your information to inform You about other products and/or services available from Avis Budget Group and Avis Budget Group-affiliates. <br><br>
+
+<b>Use of Tracking</b><br><br>
+
+<b>Use of Internet Protocol ("IP") Addresses:</b> An IP address is a unique number that is automatically assigned to Your computer whenever You are surfing the Internet so that Your computer can be identified by the main computers, known as "Web servers," that "serve up" Web pages. This allows Us to identify and gather general information and data about You, such as the Web pages You view.<br><br>
+
+Avis Budget Group collects your computer's IP (Internet Protocol) address and domain name address, the identity of your Internet service or access provider, the type of web browsing software you use, your computer's operating system, the URL of the web page from which you came to visit our Site and the language you selected for your web browsing software (collectively referred to herein as "clickstream data"). We use these technologies, for example, to identify our users, to help diagnose problems with our server, and to administer and promote our and our affiliates' and business partners' web sites and services.<br>
+We can, and will, use IP addresses to identify You when We feel it is necessary to enforce compliance with Our Web Site Terms of Use or to protect Our service, site, Users, or others.<br><br>
+
+<b>Use Of Cookies</b><br><br>
+
+<b>What are cookies? </b>Cookies are small pieces of information that a Web site sends to Your computer for record-keeping purposes, which information is stored in a file on Your computer's hard drive. Cookies make Web-surfing easier for You by saving Your preferences so that We can use the saved information to facilitate Your use of Our Web Site when You return to the Web Site. Cookies do not tell Us Your individual identity unless You have chosen to provide it to Us. We never save passwords or credit card information in cookies. The use of cookies is an industry standard, and as such, You will find that most major Web sites use them.<br><br>
+
+By showing how and when Users use the Web Site, cookies help Us see which areas of the Web Site are popular and which are not. Many improvements and updates to the Web Site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies.<br>
+Most cookies expire after a defined period of time, or You can delete Your cookie file at any time. Most Web browsers are initially set up to accept cookies. You can reset Your Web browser to refuse cookies or to indicate when a cookie is being sent. However, note that some parts of Avis Budget Group and/or Avis Budget Group-affiliates' services will not function properly or may be considerably slower if You refuse cookies. For example, without cookies, You will not be able to set personalized preferences, and/or may have difficulty completing marketing transactions.<br><br>
+
+Avis Budget Group and/or Avis Budget Group-affiliates have two (2) primary uses for cookies. First, We use them to specify a User's preferences. Second, We use cookies to track Web site usage trends and patterns. This helps Us understand Our Users' needs better and improve areas of Our Web Site. While both of these activities depend on the use of cookies, You have the option of disabling (refusing) the cookies via Your Web browser preferences.<br>
+You may occasionally get cookies from Our business partners. Avis Budget Group and/or Avis Budget Group-affiliates do not control these cookies. The use of advertising cookies sent by such third-party Web servers is standard in the Internet industry.<br><br>
+
+<b>With Whom Does Avis Budget Group Share Information?</b><br><br>
+
+As a general rule, Avis Budget Group will not disclose any specific personal information that You submit to Us about You (<b>"Personal Information"</b>) in a manner that connects You with the Personal Information, except when We have Your permission or under special circumstances, such as when We believe in good faith that the law requires it or under the circumstances described below. The following describes some of the ways that Your Personal Information may be disclosed.<br><br>
+
+<b>Business Partners &amp; Sponsors:</b><br><br>
+
+Avis Budget Group may disclose some or all of Your Personal Information to business partners or sponsors, but this use will be specifically described to You prior to data collection or prior to transferring the data. Many promotions offer opportunities to request additional information from sponsors. By requesting more information, You give Avis Budget Group permission to transfer Your Personal Information to the sponsor so they can fulfill Your request. In many instances, only Your e-mail address will be shared. If more Personal Information will be shared with the promotion's sponsor, You will be notified prior to the transfer.<br><br>
+
+<b>Third Party &amp; Aggregate Data:</b><br><br>
+
+From time to time, You may be offered the opportunity to receive materials or special offers from third parties. If You opt to receive information from these third parties, Avis Budget Group will (with Your permission) share Your name and e-mail address with such third parties. Under confidentiality agreements, Avis Budget Group may match Personal Information with third party data. Also, Avis Budget Group may keep track of what portions of the Web Site Users are visiting and other User statistics, and aggregate this information to help Us create a better experience for Users of Our Web Site. This is all done without knowing Your name or other Personal Information in order to describe Our viewers and services to prospective partners, advertisers, and other third parties, and for other lawful purposes.<br><br>
+
+<b>Other:</b><br><br>
+
+Avis Budget Group may also disclose account information in special cases when We have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Our Terms of Use, or may be causing injury to or interference (either intentionally or unintentionally) with any of Avis Budget Group's rights or property, other Users, or anyone else. Avis Budget Group may disclose or access account information when We believe in good faith that the law requires it and for administrative and other purposes that We deem necessary to maintain, service, and improve Our products and services.<br><br>
+
+<b>How Can You Control the Usage Of Information?</b><br><br>
+
+In case You change Your mind or some personal information changes (such as Your zip code or e-mail address), We will try to provide a way to correct, update or remove the personal information that You give us. We also give You the opportunity to control the communications We direct to You. If a User wishes to update personal information or objects to any usage provided herein for any reason, he/she may contact: Lisa Berardo at (973) 496-3590.<br><br>
+
+<b>What Happens When You Link to a Third Party Site?</b><br><br>
+
+You should be aware that when You are on Avis Budget Group's and/or Avis Budget Group-affiliates' Web Site You can hyperlink, or be directed to, other Web sites that are beyond Our control and/or outside Our service. For example, if You "click" on a banner advertisement or a Avis Budget Group search result, the "click" may transfer You off Our Web Site. These other Web sites may include sites of advertisers, sponsors, and partners that may use Our and/or Avis Budget Group-affiliates' logo as part of a co-branding agreement. These other Web sites may send their own cookies to Users, collect data, or solicit Information.<br> 
+Avis Budget Group and Avis Budget Group-affiliates do not control such Web sites, and, therefore, are not responsible for their contents or the hyperlinks or advertising they choose to place on such Web sites. Avis Budget Group's and/or Avis Budget Group-affiliates' inclusion of hyperlinks to these Web sites do not imply any endorsement of the material on such Web sites or any association with their operators. Our Privacy Policy does not extend to anything that is inherent in the operation of the Internet, which is beyond Avis Budget Group's and/or Avis Budget Group-affiliates' control.<br><br>
+
+Please keep in mind that whenever You give out information on-line (for example, via message boards or forums) that information can be collected and used by people You do not know. While Avis Budget Group and Avis Budget Group-affiliates strive to protect Users' information and privacy, We cannot guarantee the security of any information You disclose on-line, and You disclose such information at Your own risk.<br><br>
+
+<b>Is Information Secure from Others Using the Avis Budget Group Web Site?</b><br><br>
+
+The security of all information associated with Our Users is an important concern to Us. We exercise care in providing secure transmission of Your information from Your computer to Our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while We strive to protect Your information, Avis Budget Group and Avis Budget Group-affiliates can't ensure or warrant the security of any information You transmit to Us or from Our on-line products or services, and You do so at Your own risk. Once We receive Your transmission, Avis Budget Group uses industry standard efforts to safeguard the confidentiality of Your information, such as firewalls and Secure Socket Layers (SSL). However, "perfect security" does not exist on the Internet.<br><br>
+
+<b>YOUR ACCEPTANCE OF THE TERMS OF THIS PRIVACY POLICY</b>
+
+By using Our Web Site, You signify Your agreement to Avis Budget Group's Privacy Policy. <b>IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEB SITE.</b> Your continued use of Avis Budget Group's and/or Avis Budget Group-affiliates' Web sites following the posting of changes to these terms will mean You accept those changes.<br><br>
+
+Effective Date: This policy was last updated on July 13, 2006.</p><br>		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<!-- ########## END MAIN CONTENT CELL ########## --></td>
+		<td background="/images/contentBgR.gif" width="10"><img src="/images/s.gif" width="10" height="1" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td colspan="3" width="626" height="11"><img src="/images/contentFtr.gif" width="626" height="11" alt="" border="0"></td>
+	</tr>
+	</tbody></table></td>
+</tr>
+</tbody></table>
+<!-- ########## END BODY ########## -->
+
+
+
+
+
+
+
+
+
+<!-- ########## BEGIN FOOTER ########## -->
+<table width="975" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td height="15"><img src="images/s.gif" width="1" height="15" alt="" border="0"></td>
+</tr>
+<tr>
+	<td class="footer" align="center">
+	
+
+
+<a href="/globals/pp.php" class="footer">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="/globals/terms.php" class="footer">Terms of Use</a>
+
+<p></p>
+© 2008 Carrental.com	
+	</td>
 </tr>
 </tbody></table>
 
-</td>
-</tr>
+<map name="imap1">
+<area alt="Home" coords="14,13,350,36" href="http://www.carrentalsupport.com/">
+</map><!-- ########## END FOOTER ########## -->
 
-</tbody></table>
+</div>
+
+
+<map name="imap1">
+<area alt="Home" coords="14,13,350,36" href="http://www.carrentalsupport.com/">
+</map>
 
 
 
