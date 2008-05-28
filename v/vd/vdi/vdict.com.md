@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vdict.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229070308id_/http%3A//vdict.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vdict.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528054643id_/http%3A//www.vdict.com/privacy.php) for the most accurate reproduction.*
 
 # VDict.com - Vietnamese Dictionary and Translation » Privacy
 
@@ -8,7 +8,7 @@
 
 VDict does not collect users' personal information on dictionary pages.
 
-We do collect personal information in translation service order form. However, only Name and Email address are required fields, all other fields are optional.
+We do collect personal information in translation service order form and community registration page. However, only Name and Email address are required fields, all other fields are optional.
 
 **Surveys**
 
@@ -34,4 +34,6 @@ IP addresses: IP addressed are used for statistical purposes only.
 
 We reserve the rights to share traffic statistics reports with our advertising partners.
 
-Otherwise, no other information is shared to any third party unless required by government or law enforcement agents. 
+Otherwise, no other information is shared to any third party unless required by government or law enforcement agents.
+
+We use outside ad companies (for example Google Adsense) to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. Please check their websites for respective privacy policies.
