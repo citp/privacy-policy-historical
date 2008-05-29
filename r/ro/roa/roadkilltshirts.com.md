@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadkilltshirts.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201074749id_/http%3A//www.roadkilltshirts.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadkilltshirts.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529232108id_/http%3A//www.roadkilltshirts.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
