@@ -1,66 +1,26 @@
-<!--The following is the downloaded HTML source of the glwiz.com privacy policy that was archived on 2007-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229111809id_/http%3A//glwiz.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the glwiz.com privacy policy that was archived on 2008-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080529162023id_/http%3A//www.glwiz.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1"><meta name="CODE_LANGUAGE" content="C#"><meta name="vs_defaultClientScript" content="JavaScript"><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5"><title>
-	Privacy Page
-</title>
-		<link href="GLipTV.css" type="text/css" rel="stylesheet">
-		<script language="JavaScript" src="GLiptv.js"></script>
-    </head>
-<body background="Images/background1.gif" topmargin="0" marginwidth="0" marginheight="0">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <meta http-equiv="Content-Style-Type" content="text/css"> 
+ <title></title>
+ <meta name="description" content=""> 
+ <meta name="keywords" content="">
+ <meta name="author" content="GLWiz.com">
+ <meta name="copyright" content="GLWiz.com">  
+ <meta http-equiv="creation_date" content="Tuesday, 01 April 2008 23:00:00 GMT">
+ <meta name="robots" content="index, follow">  
+ <link media="screen" href="GLipTV.css" type="text/css" rel="stylesheet">
+ <script language="javascript" type="text/javascript" src="GLipTV.js"></script>
+  <script language="javascript" type="text/javascript" src="include/swfobject.js"></script>
+</head>
+
+<body>
 
 
 
-<script language="javascript" type="text/javascript">
-<!--
-var winPopUp;
-function popUpMediaPlayer(type,category) {
-    var glwiz_uid = document.getElementById("Hidden1");
-    
-    if (glwiz_uid.value == "demo")
-    {
-        alert( "Please sign on or register if you have not registered already.");    
-        return false;
-
-    }
-	//if(window.ActiveXObject)
-	{
-		//alert("explorer");
-        winPopUp = window.open("", "popupWin", "location=0, menubar=0, status=0, scrollbars=0, toolbar=0, width=990, height=580, halign=centre");
-        var frm =   document.getElementById("popUp");        
-        //var frm =  document.forms["popUpForm"];
-        //alert(frm.name)                
-        var typeInput = document.getElementById("Hidden3");      
-        typeInput.value = type; 
-        //alert(typeInput.value);
-        var categoryInput = document.getElementById("Hidden4"); 
-        categoryInput.value = category;
-        frm.submit();
-	}
-	// Mozilla firefox
-	/*else // if(document.implementation && document.implementation.createDocument)
-	{
-		alert("In order to ensure optimum quality and performance, please login using Internet Explorer.");
-	}
-	return false;*/
-	//window.location="MediaCenterPage.aspx";
-}
-function FocusMediaPlayer(type, category)
-{
-    if (winPopUp != null ||(winPopUp == ""))
-        winPopUp.focus();
-    //else
-        popUpMediaPlayer(type, category);
-}
-
-function CloseMediaPlayer()
-{
-    if ( winPopUp != null)
-        winPopUp.window.close();
-}
-
-// -->
-</script>
+<script language="javascript" type="text/javascript" src="popup.js"></script>
 
 <form id="popUp" name="popUpForm" method="post" action="/web/loginMain.asp" target="popupWin">
     <div>
@@ -68,73 +28,18 @@ function CloseMediaPlayer()
         <input id="Hidden1" type="hidden" name="UID" value="demo">&nbsp;        
         <input id="Hidden3" type="hidden" name="TYPE" value="">&nbsp;
         <input id="Hidden4" type="hidden" name="CATEGORY" value="">&nbsp;
+        <input id="Hidden5" type="hidden" name="CHID" value="">&nbsp;
     </div>
 </form>
 
     <form name="form1" method="post" action="Privacy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzA4NjU1MjkxD2QWBAIDDw8WBB4DVUlEBQRkZW1vHgNQV0QFBGlwdHZkZAIFD2QWAgIBDw8WBB8ABQRkZW1vHwEFBGlwdHZkFgICAw8WAh4HVmlzaWJsZWgWAgIDDw8WAh4EVGV4dGUWAh4Hb25jbGljawUTQ2xvc2VNZWRpYVBsYXllcigpO2RkLDiMPHXqoZwqKjFLaeoh4NuUzwo=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY5ODg3MTUzMWRklSdKsqlrHWmu6LlStpEhMhswVJ0=">
 
 	
 
 <link href="GLipTV.css" type="text/css" rel="stylesheet">
 <script language="JavaScript" src="GLiptv.js"></script>
 
-<script type="text/javascript" src="include/swfobject.js"></script>
-<script language="javascript" type="text/javascript">
-<!--
-
-function Button1_onclick() {
-
-}
-
-
-
-// -->
-
-function HomeBanner_OnClick()
-{
-    /*var logout;
-    logout = document.getElementById("myHeader_logout");
-    if (logout == null)
-        window.location.href = "GLPrizLogin.aspx";
-    else
-        FocusMediaPlayer('TV',2);*/
-    window.location.href = "GLWinner.aspx";
-}
-
-function GLPriz_Onclick()
-{
-    var logout;
-    logout = document.getElementById("myHeader_logout");
-
-     if (logout == null)
-        window.location.href="GLRegister.aspx";
-     else
-     {
-        if (document.title == "Invite Page")
-            return;
-        else
-            window.location.href="GLPrizLogin.aspx?status=Registered";
-     }
-    //document.getElementById("tblSoon").style.display = "block";
-    //document.getElementById("Flash_Table").style.display = "none";
-   
-
-}
-function login()
-{
-  if(event.keyCode == 13)
-  {
-    var btn = document.getElementById("myHeader_login");
-    btn.click();
-  }
-}
-</script>
-
-
-
-
-<!-- Start of Hearder Table-->
 <table align="center" style="BACKGROUND-REPEAT: no-repeat" cellspacing="0" cellpadding="0" border="0" bgcolor="#67696d" width="766">
 	<tbody><tr>
 		<td><img alt="" src="Images/spacer.gif" height="20" border="0"></td>
@@ -170,8 +75,15 @@ function login()
 							</tbody></table>
 						</td>
 					</tr>	
-					<tr valign="middle" width="712" align="center">
-						<td><a href="#" onclick="GLPriz_Onclick();"><img src="Images/HomeBanner_Top.jpg" border="0" alt=""></a>
+					<tr width="712">
+						<td><table border="0" cellpadding="0" cellspacing="0" width="712" valign="middle" align="center">
+						        <tbody><tr valign="middle">
+						            <td><img alt="" src="Images/TopBanner_1.jpg" border="0" width="387" height="75" onclick=""></td>
+						            <td><img alt="" src="Images/TopBanner_2.jpg" style=" cursor:pointer;" border="0" width="107" height="75" onclick="window.open('http://www.glprint.com/findproduct.aspx?pname=egreetingcardh');"></td>
+						            <td><img alt="" src="Images/TopBanner_3.jpg" style=" cursor:pointer;" border="0" width="95" height="75" onclick="window.open('include/Calender.pdf');"></td>
+						            <td><img alt="" src="Images/TopBanner_4.jpg" style=" cursor:pointer;" border="0" width="124" height="75" onclick="GLPriz_Onclick();"></td>
+						        </tr>
+						     </tbody></table>
                        </td>
 					</tr>
 					<tr valign="top">
@@ -182,17 +94,16 @@ function login()
 					                    <table border="0" cellpadding="0" cellspacing="0">
 					                        <tbody><tr>
 					                            <td><a href="MediaCenterPage.aspx"></a></td>
-					                            <td style="width: 5px"><!--<img border=0 src="Images/dividedbar.gif" />--></td>
+					                            <td style="width: 5px"></td>
 					                            <td>
-							                        <div id="flashcontent" align="center">
-						                                <img alt="" src="Images/HomeBanner_Animation.gif" height="83" width="470" border="0" usemap="#logobanner">
-						                                 <map name="logobanner">
-                                                        <area shape="rect" coords="0,0,470,83" style="cursor:hand;" onclick="HomeBanner_OnClick();" href="#">
-                                                        <!--<AREA SHAPE="rect" COORDS="216,0,712,75" HREF="afcContest.aspx">-->
-                                                        </map>
+							                        <div id="homeBanner" align="center">
+						                                <img alt="" src="Images/HomeBanner_Animation.gif" height="83" width="470" border="0" style=" cursor:pointer;" usemap="#hbanner">
+						                                    <map name="hbanner">
+                                                                			<area shape="rect" coords="0,0,470,83" onclick="popUpMediaPlayer('VOD',63);">
+                                                            			    </map>
 							                        </div>
                                                 </td>
-					                            <td><!--<img border=0 src="Images/dividedbar.gif" />--></td>
+					                            <td></td>
 					                        </tr>
 					                    </tbody></table>
 					                </td>
@@ -212,13 +123,13 @@ function login()
 						                                <tbody><tr>
 						                                    <td><div id="myHeader_Lblmessage" style="FONT-SIZE: 7pt; FONT-FAMILY: Verdana"></div></td>
 						                                    <td width="10px"></td>
-						                                    <td><input language="javascript" onclick="__doPostBack('myHeader$login','')" name="myHeader$login" type="button" id="myHeader_login" value=" Login " style="FONT-SIZE: 7pt; FONT-FAMILY: Verdana"></td>
+						                                    <td><input onclick="__doPostBack('myHeader$login','')" name="myHeader$login" type="button" id="myHeader_login" value=" Login " style="FONT-SIZE: 7pt; FONT-FAMILY: Verdana"></td>
 						                                </tr>
 						                            </tbody></table>
 						                        </td>
 								            </tr>
 								            <tr style="FONT-SIZE: 7pt; FONT-FAMILY: Verdana">
-									            <td class="GrayBold" align="right" style="FONT-SIZE: 7pt; FONT-FAMILY: Verdana;height: 10px;">New User?<br>Forgot Pass?</td>
+									            <td class="GrayBold" align="right" style="FONT-SIZE: 7pt; FONT-FAMILY: Verdana;height: 10px;"><a href="GLRegister.aspx" style="FONT-SIZE:7pt; FONT-FAMILY:Verdana; color:LightGrey">New User?</a><br><a href="forgotPassword.aspx" style="FONT-SIZE:7pt; FONT-FAMILY:Verdana; color:LightGrey">Forgot Pass?</a></td>
 									            <td class="GrayBold" align="right" style="FONT-SIZE: 7pt; FONT-FAMILY: Verdana;height: 10px"><a href="GLRegister.aspx" style="FONT-SIZE:7pt; FONT-FAMILY:Verdana; color:LightGrey"><b>Register Now</b></a><br>
 									            <a href="forgotPassword.aspx" style="FONT-SIZE:7pt; FONT-FAMILY:Verdana; color:LightGrey"><b>Retrieve Password</b></a></td>
 								            </tr>
@@ -235,7 +146,7 @@ function login()
 		</td>
 	</tr>
 </tbody></table>
-<!-- End of Hearder Table-->
+
 
 
     <table align="center" cellspacing="0" cellpadding="0" border="0" width="766" bgcolor="#67696D">
@@ -304,45 +215,37 @@ function login()
 	</tr>	
 	<tr>
 		<td>
-
-
-
-    <meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
-    <meta name="CODE_LANGUAGE" content="C#">
-    <meta name="vs_defaultClientScript" content="JavaScript">
-    <meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-	<title>Footer Page</title>
-
-
-
-<table align="center" bgcolor="#67696D" width="766">
-<tbody><tr>
-		<td><img alt="" src="Images/spacer.gif" height="5" border="0"></td>
-</tr>	
-<tr>
-	<td>
-<!-- Start of Footer Table-->
-		<table id="Footer_Table" height="60" background="Images/footbg.gif" style="BACKGROUND-REPEAT: no-repeat" align="center" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#67696D" width="725">
-			<tbody><tr>
-				<td colspan="30" rowspan="0" valign="top">
-					<div align="center" class="White" style="MARGIN-TOP: 0.5em"><a href="HomePage.aspx" class="White">Home page</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; <a href="Privacy.aspx" class="White">Privacy Policy</a> &nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; <a href="Terms.aspx" class="White">Terms &amp; Conditions</a></div>
-				</td>
-			</tr>
-		</tbody></table> 
-	</td>
-</tr>
-</tbody></table> 		
-<!-- End of Footer Table-->
-
-
-
-
-</td>
+		    	<table align="center" bgcolor="#67696D" width="766">
+                    <tbody><tr>
+		                    <td><img alt="" src="Images/spacer.gif" height="5" border="0"></td>
+                    </tr>	
+                    <tr>
+	                    <td>
+		                    <table id="Footer_Table" height="60" background="Images/footbg.gif" style="BACKGROUND-REPEAT: no-repeat" align="center" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#67696D" width="725">
+			                    <tbody><tr>
+				                    <td colspan="30" rowspan="0" valign="top">
+					                    <div align="center" class="White" style="MARGIN-TOP: 0.5em"><a href="HomePage.aspx" class="White">Home page</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; <a href="Privacy.aspx" class="White">Privacy Policy</a> &nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; <a href="Terms.aspx" class="White">Terms &amp; Conditions</a></div>
+				                    </td>
+			                    </tr>
+		                    </tbody></table> 
+	                    </td>
+                    </tr>
+                </tbody></table> 
+		</td>
 	</tr>
 </tbody></table>
 	
 
    </form>
+   <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-651909-6");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
 
 
 </body></html>
