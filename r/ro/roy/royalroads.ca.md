@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the royalroads.ca privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201083122id_/http%3A//www.royalroads.ca/about-rru/governance/foipop.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalroads.ca privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529193209id_/http%3A//www.royalroads.ca/about-rru/governance/foipop.htm) for the most accurate reproduction.*
 
-# Freedom of Information and Protection of Privacy
+# Royal Roads University - Freedom of Information and Protection of Privacy
 
 Royal Roads University captures identification data from visitors to our website only for security, statistical and reporting purposes. 
 
@@ -19,3 +19,7 @@ Royal Roads University
 2005 Sooke Road   
 Victoria, B.C. V9B 5Y2   
 Phone: 391-2600 ext. 4129 
+
+  
+©1997-2008  Royal Roads University  
+2005 Sooke Road, Victoria, British Columbia, Canada 
