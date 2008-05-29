@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kabillion.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225125554id_/http%3A//www.kabillion.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabillion.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529041654id_/http%3A//www.kabillion.com/legal/privacy) for the most accurate reproduction.*
 
 # Kabillion.com - Kabillion.com Privacy Policy
 
@@ -35,7 +35,7 @@ Log data is collected on web servers both within Kabillion’ control and under 
 
  **Parental Access**
 
-Kabillion wants to help parents make sure that their children have a safe and fun experience online. That's why Kabillion established a means for parents to review identifiable information collected about their child and to communicate directly with us have any such information deleted or to request that we cease collecting or using their child's information. [You can link to the form from here](https://web.archive.org/web/20071225125554id_/http%3A//signup/consent.en.php). Kabillion takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian.
+Kabillion wants to help parents make sure that their children have a safe and fun experience online. That's why Kabillion established a means for parents to review identifiable information collected about their child and to communicate directly with us have any such information deleted or to request that we cease collecting or using their child's information. [You can link to the form from here](https://web.archive.org/web/20080529041654id_/http%3A//signup/consent.en.php). Kabillion takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian.
 
  **Security**
 
@@ -54,18 +54,15 @@ Protecting your information is important to us. Unfortunately, transmission of d
 
 If you have any questions, comments or concerns regarding Kabillion.com privacy policy and/or practices, please write to us at: 
 
-**Vicky Youn  
+**Kabillion Editor  
 Kabillion LLC.  
 21300 Oxnard Street, Suite 100  
 Woodland Hills, California 91367  
 **  
 Or email us at:  
-[privacypolicy@Kabillion.com](mailto:privacypolicy@Kabillion.com)
-
-Or call this number:  
- **818-999-0062**
+[editor@Kabillion.com](mailto:editor@Kabillion.com)
 
 The Kabillion.com website is primarily intended for domestic viewers and is consequently directed towards residents of the United States.  
 This privacy policy is effective as of May 11, 2005.
 
-[Submission Release](https://web.archive.org/web/20071225125554id_/http%3A//www.kabillion.com/forms/submission_release_form.php)
+[Submission Release](https://web.archive.org/web/20080529041654id_/http%3A//www.kabillion.com/forms/submission_release_form.php)
