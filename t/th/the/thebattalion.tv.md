@@ -1,33 +1,35 @@
-> *The following text is extracted and transformed from the thebattalion.tv privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223043104id_/http%3A//www.thebattalion.tv/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebattalion.tv privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529163233id_/http%3A//www.thebattalion.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Battalion
 
-**TFP Privacy Policy**   
+TFP Privacy Policy  
 (1) How to contact us  
-(2) Collection of Personal Information   
+(2) Collection of Personal Information  
 (3) Collection of Personal Information by Site Partners or Sponsors  
-(4) Collection of Non-Personal Data   
+(4) Collection of Non-Personal Data  
 (5) Collection of information by Third Partys  
 (6) Disclosure of Personal Information  
 (7) Content of Emails  
 (8) How to Discontinue Online Participation  
 (9) How to Change Personal Information  
 (10) Retention of Personal Information  
-(11) Security of the Personal Information Collected   
+(11) Security of the Personal Information Collected  
 (12) Children's Privacy Policy  
 (13) Changes to Our Privacy Policy
 
-We take seriously the collection of personally identifiable information from our viewers and work to protect each visitor's privacy in accordance with the terms of this policy. We use the terms "viewers" and "you" to include any person who accesses this website. Please carefully review our privacy practices below. These privacy practices apply to this website and to our family of TULE FOG PRODUCTIONS LLC Sites. 
+We take seriously the collection of personally identifiable information from our viewers and work to protect each visitor's privacy in accordance with the terms of this policy. We use the terms "viewers" and "you" to include any person who accesses this website. Please carefully review our privacy practices below. These privacy practices apply to this website and to our family of TULE FOG PRODUCTIONS LLC Sites.
 
-(1) How to contact us 
+(1) How to contact us
 
-This website is owned and operated by Tule Fog Productions LLC (referred to herein as "TFP," "We," "Us," or "Our, or The Company ). You may contact us directly if you have any questions about this Privacy Policy. Please contact us at drf@thebattalion.tv 
+This website is owned and operated by Tule Fog Productions LLC (referred to herein as "TFP," "We," "Us," or "Our, or The Company ). You may contact us directly if you have any questions about this Privacy Policy. Please contact us at [drf@thebattalion.tv](mailto:drf@thebattalion.tv)
 
-(2) Collection of Personal Information 
+(2) Collection of Personal Information
 
-We provide various informative and/or entertaining features as part of this website. We may also offer opportunities for website interaction or submissions. To provide these features, we may request and collect certain personally identifiable information from our viewers, including, but not limited to, name, email addresses, birth date and other identifying information (referred to herein as "personal information"). We may use collected personal information to distribute our newsletter; respond to viewer s inquiries or requests; allow online submissions; improve our services; protect the security of our viewers, system, service and/or website; for marketing and/or promotional use; and to survey viewers about various topics, including but not limited to their preferences. The personal information collected through this website may be combined and maintained with information we collect offline. 
+We provide various informative and/or entertaining features as part of this website. We may also offer opportunities for website interaction or submissions. To provide these features, we may request and collect certain personally identifiable information from our viewers, including, but not limited to, name, email addresses, birth date and other identifying information (referred to herein as "personal information"). We may use collected personal information to distribute our newsletter; respond to viewer s inquiries or requests; allow online submissions; improve our services; protect the security of our viewers, system, service and/or website; for marketing and/or promotional use; and to survey viewers about various topics, including but not limited to their preferences. The personal information collected through this website may be combined and maintained with information we collect offline.
 
-(3) Collection of Personal Information by Site Partners or Sponsors Third party partners or sponsors may join with us to offer website features or promotions, such as contests, sweepstakes or special events. For these features, the partner or sponsor of the activity may request and collect your personal information. If you submit personal information in such joint activities, the sponsor or partner may share personal information submitted for the activity with us and/or we may share such information with them. The sponsor or partner may also maintain separate privacy policies governing the collection, use and disclosure of your personal information. Personal information collected in conjunction with such activities may be used for the marketing of additional services, promotions or events. We are not responsible for the collection, use and disclosure practices of third parties.
+(3) Collection of Personal Information by Site Partners or Sponsors 
+
+Third party partners or sponsors may join with us to offer website features or promotions, such as contests, sweepstakes or special events. For these features, the partner or sponsor of the activity may request and collect your personal information. If you submit personal information in such joint activities, the sponsor or partner may share personal information submitted for the activity with us and/or we may share such information with them. The sponsor or partner may also maintain separate privacy policies governing the collection, use and disclosure of your personal information. Personal information collected in conjunction with such activities may be used for the marketing of additional services, promotions or events. We are not responsible for the collection, use and disclosure practices of third parties.
 
 (4) Collection of Non-Personal Data
 
