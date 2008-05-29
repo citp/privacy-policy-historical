@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the cvent.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226050859id_/http%3A//www.cvent.com/assets/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvent.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529093641id_/http%3A//www.cvent.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cvent
 
-[Cvent, Inc.](https://web.archive.org/company/) (sometimes referred to as "Cvent," "we," "us," or "our") takes your privacy seriously. This Privacy Policy discloses our information collection and dissemination practices.
+([Downloadable PDF](http://www.cvent.com/pdf/privacy-policy.pdf))
+
+Cvent, Inc. (sometimes referred to as "Cvent," "we," "us," or "our") takes your privacy seriously. This Privacy Policy discloses our information collection and dissemination practices.
 
 ## Our Service 
 
-Cvent provides visitors to our web site with access to powerful event planning, registration, and event marketing tools. Event planners ("Planners") use our tools to create an online marketing campaign for an event and to register invitees ("Invitees") (Planners and Invitees, collectively "Members"). 
+Cvent provides visitors to our web site with access to powerful event planning, registration, and event marketing tools. Event planners ("Planners") use our tools to create an online marketing campaign for an event and to register invitees ("Invitees") (Planners and Invitees, collectively "Members").
 
-## Privacy Protections and Use of Information 
+## Privacy Protections and Use of Information
 
-We will not disclose or share personally identifiable information collected on our web site with any third party (except as required by law or pursuant to a governmental request). 
+We will not disclose or share personally identifiable information collected on our web site with any third party (except as required by law or pursuant to a governmental request). Cvent never has, and never will, use information collected by our customers via the Cvent system for any purposes other than those specifically designated by our customers themselves.
 
 Aggregate Data. We may share reports with third parties based on aggregated data of our Members ("Aggregated Member Data"). Aggregated Member Data does not include any personally identifiable information about Planners or Invitees. For example, these reports will not include your personal or organization name. Information about Members is aggregated for the purposes of determining successful event benchmarks and other similar activities. 
 
@@ -50,7 +52,7 @@ If at some point in the future, there is a change to our information usage pract
 
 Cvent reserves the right to change this policy, so please check back periodically to review any changes to this policy.
 
-## Contact Us
+## [Contact Us](https://web.archive.org/contact/)
 
 We do everything we can to protect the privacy of our Members. If you have any questions about this Privacy Policy, the practices of this site, or dealings with this site, please contact us at:
 
