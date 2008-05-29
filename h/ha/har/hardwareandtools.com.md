@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the hardwareandtools.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202033333id_/http%3A//www.hardwareandtools.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwareandtools.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529055942id_/http%3A//www.hardwareandtools.com/page/privacy) for the most accurate reproduction.*
 
 # Hardware and Tools Corp. - Privacy Policy
 
-  
-
-
-[](https://www.scanalert.com/RatingVerify?ref=www.hardwareandtools.com)
-
-  
   
   
   
@@ -88,4 +82,6 @@ This policy has been updated as of August 28, 2007
 * * *
 
   |    
+  
+  
 
