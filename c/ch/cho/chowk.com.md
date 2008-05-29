@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chowk.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210204225id_/http%3A//www.chowk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chowk.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530014758id_/http%3A//www.chowk.com/privacy) for the most accurate reproduction.*
 
-# Chowk: Identity Politics Culture and Religion of India Pakistan
+# Chowk: India Pakistan Ideas Identities
 
 Chowk respects your right to the privacy of the personal information you provide us on our Web site. To that end, any personal information you provide to [Chowk.com](http://www.chowk.com/) will be known only to two parties: you and Chowk. The following policy is intended to explain how your personal information will be treated as you make use of our pages and their features. Personal information includes your name, street and e-mail addresses, billing information, click-through activity and any other personal information you may provide here.
 
@@ -37,7 +37,3 @@ Chowk contains links to other sites on the Web and personal home pages. We are n
 **Who can I ask if I have any additional questions?**
 
 If you have any further questions or concerns about Chowk's privacy policies and use of personal information, please send them to [editors@chowk.com](mailto:editors\\@chowk.com)
-
-## Chowk history
-
-Chowk was unveiled in August 1997. It was born out of a spirit of creativity and a refusal to believe that all things useful had already been said and heard. 
