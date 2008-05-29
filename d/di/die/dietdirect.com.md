@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the dietdirect.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630170658id_/http%3A//www.dietdirect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietdirect.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529020009id_/http%3A//www.dietdirect.com/privacy.aspx) for the most accurate reproduction.*
 
 # DietDirect.com - Privacy Policy
 
 ## Privacy Policy
 
-DietDirect.com understands that you are concerned about how your information is used and shared, and we appreciate your trust that we will do so responsibly. Our privacy policy is explained below, and by visiting DietDirect.com you accept our Privacy Notice.
+DietDirect.com understands that you are concerned about how your information is used and shared, and we appreciate your trust that we will do so responsibly. Our privacy policy is explained below. If you have questions or concerns about our policies you should first contact Diet Direct's customer service department at [info@dietdirect.com](mailto:info@dietdirect.com) or 1-800-882-4830.
 
 **Credit Card Safety - Secure Transactions:**
 
-To protect your credit card information, DietDirect.com uses the latest encryption technology. In addition to encryption, we process your credit card number on a server that isn't accessible from the Internet. 
+DietDirect.com is committed to protecting the privacy of your personal information and we offer you this **Secure Shopping Promise:** We guarantee that your order will be transmitted securely and that you will not be liable for any unauthorized charges appearing on your credit card as a result of shopping here. We only use the safest and securest servers and technologies and we back that back that up with Hacker Safe daily testing and certification. To protect the information you send from your computer to the DietDirect.com e-commerce system, this information - including credit card numbers and passwords - is encrypted using Secure Sockets Layer (SSL). Only the systems responsible for processing your order have access to your credit card and billing information. All hardware and software resides in a world-class, high-security data center with access limited to authorized personnel. DietDirect.com continuously reviews its policies and practices to ensure that all customer information remains secure. 
 
-When shopping on DietDirect.com, you can choose to shop in a secure mode using SSL encryption -- the Internet standard for secure transactions. Or, you can telephone or fax your credit card information to us. 
-
+|   |  [](https://www.scanalert.com/RatingVerify?ref=www.dietdirect.com)    
+---|---  
+  
 **Your privacy is important:**
 
 Your privacy is extremely important to us. For this reason, we'd like you to know about the personal information we collect and how that information is used. 
@@ -25,12 +26,9 @@ If you decide to make a purchase, we then ask you for your shipping and billing 
 
 We also keep track of customer purchases, traffic patterns and related site usage inside our website to help us shape our recommendations about products and improve our web page and site design. 
 
-  
-**Why your transactions are secure:**
+DietDirect.com does not share your personal information with any other company, 
 
-We use state-of-the-art encryption technology to safeguard your transactions. The technology used is SSL (Secure Socket Layer) which is supported by both Netscape and Internet Explorer web browsers that are version 3.0 or newer. Your information, including your credit card information, is encrypted and cannot be read as it travels over the Internet. 
-
-DietDirect.com does not share your personal information with any other company, _guaranteed!_
+_guaranteed!_
 
   
 **Consent:**
