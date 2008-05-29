@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222235509id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529142309id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
 
 # BottomLineSecrets.com Web site Privacy Policy
 
@@ -16,21 +16,19 @@ We record certain information about visitors to our Web sites for the purpose of
 
 The information we collect from our Web sites is limited to.
 
-  1. **Use of E-mail addresses of those who communicate with us by E-mail.** Our server does not collect your E-mail address unless you specifically provide it to us or communicate with us via E-mail. We will use your E-mail address to respond to your inquiries or to send you our free e-mail letters and e-promotions, if you request them. We may also use your e-mail address to correspond with you about your account or to send you information about Boardroom, BottomLineSecrets.com, and other Boardroom publications. We do not make your E-mail address available to other organizations for commercial purposes unless we have your consent to do so, or as otherwise described in this Policy.
-
-  2. **Counts and trends regarding what pages people look at on our Web sites.** _Example:_ We can determine which pages on our Web sites are visited most often, and which operating systems (such as Windows 95 or Macintosh OS) and Web browsers (such as Netscape or Internet Explorer) are the most popular. None of this information identifies you personally. We use the information in the aggregate only to improve our Web sites and make them more informative.
-
+  1. **Use of E-mail addresses of those who communicate with us by E-mail.** Our server does not collect your E-mail address unless you specifically provide it to us or communicate with us via E-mail. We will use your E-mail address to respond to your inquiries or to send you our free e-mail letters and e-promotions, if you request them. We may also use your e-mail address to correspond with you about your account or to send you information about Boardroom, BottomLineSecrets.com, and other Boardroom publications. We do not make your E-mail address available to other organizations for commercial purposes unless we have your consent to do so, or as otherwise described in this Policy. 
+  2. **Counts and trends regarding what pages people look at on our Web sites.** _Example:_ We can determine which pages on our Web sites are visited most often, and which operating systems (such as Windows 95 or Macintosh OS) and Web browsers (such as Netscape or Internet Explorer) are the most popular. None of this information identifies you personally. We use the information in the aggregate only to improve our Web sites and make them more informative. 
   3. **Information volunteered by site visitors.** We collect personal information about our customers on customer service forms, subscription forms, surveys, contests and promotions. 
 
 Our agents and vendors, such as database architects and e-mail broadcasters, who have access to our customers’ personally identifying information, are instructed to only use this information in connection with the work they are doing for Boardroom and no for no other purpose. 
 
-Boardroom may disclose information by or about visitors to the Web sites in order to (1) comply with applicable laws, (2) respond to governmental inquiries, (3) comply with valid legal process, and (4) protect the rights or property of Boardroom.
+Boardroom may disclose information by or about visitors to the Web sites in order to (1) comply with applicable laws, (2) respond to governmental inquiries, (3) comply with valid legal process, and (4) protect the rights or property of Boardroom. 
 
   4. **Cookies.** We may use cookies on the Web sites to help make our visitors’ experience more enjoyable and to help us understand how visitors use the Web sites. Cookies are small text files that we place on a user’s computer. Cookies allow us to recognize users when they return to, and navigate through the pages of, the Web sites. Cookies also allow us to measure the number of times a user clicks to articles on our Web sites that are featured in our e-mail letter, as well as the "passalong rate" (that is, when the e-mail is forwarded) and sales of our products advertised in the e-letter. They also allow us to deliver e-mail that is more relevant to each e-mail letter recipient.
 
 Cookies, by themselves, do not tell us the identity of an individual user unless such information is provided by that user. But if you choose to give us this information, it may be linked to the data stored in your cookie.
 
-If for some reason you would prefer not to take advantage of the benefits made possible by cookies, check your browser instructions. Most browsers allow you to reject cookies or to choose which cookies to accept.
+If for some reason you would prefer not to take advantage of the benefits made possible by cookies, check your browser instructions. Most browsers allow you to reject cookies or to choose which cookies to accept. 
 
 
 
