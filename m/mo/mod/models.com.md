@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the models.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011041206id_/http%3A//www.models.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the models.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529043526id_/http%3A//www.models.com/company/privacy.html) for the most accurate reproduction.*
 
 # MODELS.com - Privacy Statement
 
@@ -115,5 +115,3 @@ MODELS.com openly volunteers its practices of collecting information, its target
 
 MODELS.com reserves the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective. Regardless of later updates or changes to our privacy notice, we will never use the information you submit under our current privacy notice in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.  
 This Privacy notice was last updated on January 31st 2001 and is deemed effective as of this date. 
-
-© 1999-2007 MODELS.com, Inc.
