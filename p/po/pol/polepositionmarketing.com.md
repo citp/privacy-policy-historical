@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618021443id_/http%3A//www.polepositionmarketing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529031219id_/http%3A//www.polepositionmarketing.com/privacy.php) for the most accurate reproduction.*
 
 # Pole Position Marketing Privacy Policy
-
-**Privacy**
 
 This privacy policy covers the site http://www.polepositionmarketing.com, http://www.emarketingperformance.com, and http://www.pole-position-directory.com. Because we want to demonstrate our commitment to our users' privacy, we disclose the following information.
 
@@ -58,7 +56,7 @@ Aggregate information is not shared with any third parties.
 
 Pole Position Marketing has physical security in our facilities to protect against the loss, misuse, or alteration of information. Our company does not handle sensitive financial or health related information.
 
-**Correcting/Updating/Deleting/Deactivating Personal Information**
+**Correcting, Updating, Deleting and/or Deactivating Personal Information**
 
 If a user's personally identifiable information changes (such as zip code, phone, email or postal address) they cannot change information we collect. If a user wishes to correct/update information or no longer desires our service, they can notify us of what they desire by contacting us using any of the information in the Contact section of this policy.
 
@@ -73,8 +71,8 @@ The information you submit to us is controlled by the privacy policy in effect a
 **Contact Information**
 
 Using the following information, you can contact us if you have questions about our privacy policy.  
-1281 Terminal Way, #117   
-Reno, NV 89502  
+9472 Mustang Trail Drive  
+Reno, NV 89506  
 USA 
 
 E-mail: info@polepositionmarketing.com 
@@ -84,3 +82,21 @@ E-mail: info@polepositionmarketing.com
 If you think we have not followed our privacy policy in some way, it can be resolved in the following manner.
 
 Pole Position Marketing Customer Service 
+
+  
+
+
+  
+
+
+### Testimonial
+
+After only 7 months with Pole Position Marketing and a very modest budget we almost tripled the number of hits on our website and have had **just over a 100% increase in our sales.** Stoney and his crew are very helpful and professional. Thank you guys for everything. 
+
+[read more  
+stats & testimonials](http://www.polepositionmarketing.com/testimonials.php)
+
+[](http://www.emarketingperformance.com/)  
+Marketing Blog Headlines [Small Business Marketing Unleased - AGAIN!](http://www.emarketingperformance.com/:/2078/search-marketing/small-business-marketing-unleased-again/) [Website Architecture Questions Answered, Part III](http://www.emarketingperformance.com/:/2077/search-marketing/website-architecture-questions-answered-part-iii/) [April 2008 Search Engine Market Share ¦ Nielsen // NetRatings](http://www.emarketingperformance.com/:/2076/search-marketing/april-2008-search-engine-market-share-nielsen-netratings/) [more...](http://www.emarketingperformance.com/)
+
+[](http://www.sherpastore.com/Buyers-Guides-SEO-PPC.html?8907)Featured in the 2007 Buyer's Guide to SEO & PPC Firms.
