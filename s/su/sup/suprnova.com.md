@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suprnova.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225234039id_/http%3A//www.suprnova.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suprnova.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529031241id_/http%3A//www.suprnova.com/privacy.php) for the most accurate reproduction.*
 
 # Suprnova - The Universal Bittorrent Source
 
@@ -27,4 +27,4 @@ All information is stored in a secure database.
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-You can access all your personally identifiable information that we collect online and maintain by contacting [Support](https://web.archive.org/web/20071225234039id_/http%3A//www.suprnova.com/support.php). We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+You can access all your personally identifiable information that we collect online and maintain by contacting [Support](https://web.archive.org/web/20080529031241id_/http%3A//www.suprnova.com/support.php). We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
