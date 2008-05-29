@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harktheherald.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211025157id_/http%3A//www.heraldextra.com/content/view/226808) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harktheherald.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529180136id_/http%3A//www.heraldextra.com/content/view/226808) for the most accurate reproduction.*
 
 # Daily Herald - Privacy Policy
 
