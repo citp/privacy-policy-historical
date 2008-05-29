@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glwiz.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229111809id_/http%3A//glwiz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glwiz.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529162023id_/http%3A//www.glwiz.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Page
+# 
 
 PRIVACY STATEMENT GLWiZ is committed to the highest standards of protection for the personal information and privacy of its customers. As part of this commitment, GLWiZ has adopted a privacy policy in line with the requirements of the Personal Information Protection and Electronic Documents Act. By accessing this website and/or engaging the services of GLWiz, the user expressly consents to the collection, use and/or disclosure of personal information in accordance with the GLWiz Privacy Policy which may be viewed by clicking on the indicated link. 
 
