@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boots.jobs privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214211722id_/http%3A//www.boots.com/microsites/microsite_info_template.jsp%3FcontentId%3D4113%26wblinktype%3DBL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boots.jobs privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529174326id_/http%3A//www.boots.com/microsites/microsite_info_template.jsp%3FcontentId%3D4113%26wblinktype%3DBL) for the most accurate reproduction.*
 
 # Boots.com -
 
