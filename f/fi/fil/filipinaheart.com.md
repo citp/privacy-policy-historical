@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filipinaheart.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227174050id_/http%3A//www.filipinaheart.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipinaheart.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529160953id_/http%3A//www.filipinaheart.com/Privacy.cfm) for the most accurate reproduction.*
 
-# FilipinaHeart.com - Filipina Dating, Singles and Personals
+# FilipinaHeart.com | Privacy Policy
 
 **CUPID MEDIA PTY LTD PRIVACY POLICY**
 
