@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the planetphotoshop.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231015id_/http%3A//www.planetphotoshop.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetphotoshop.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530004409id_/http%3A//www.planetphotoshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Planet Photoshop
 
-This Privacy Policy applies to and is provided on behalf of KW Media Group, Inc. and the KW Media Group family of companies (collectively referred to as "We," "Us," or "Our") and describes Our information gathering practices and policies in connection with this Site. We value your ("User," "You," or "Your") privacy and recognize the sensitivity of Your personal information. We are committed to protecting Your personal information and using it only as appropriate to provide You with the best possible service, products, and opportunities. Use of this Site constitutes consent to Our collection and use of personal data as outlined herein.
+This Privacy Policy applies to and is provided on behalf of KW Media Group, Inc. and the KW Media Group family of companies (collectively referred to as “We,” “Us,” or “Our”) and describes Our information gathering practices and policies in connection with this Site. We value your (”User,” “You,” or “Your”) privacy and recognize the sensitivity of Your personal information. We are committed to protecting Your personal information and using it only as appropriate to provide You with the best possible service, products, and opportunities. Use of this Site constitutes consent to Our collection and use of personal data as outlined herein.
 
 **COLLECTION AND USE OF PERSONAL INFORMATION FROM SITE USERS**
 
@@ -12,17 +12,17 @@ We will not disclose to third parties (that is, people and companies that are no
 
 If Your order, subscription request or other request is processed by a third-party, or if You are provided with bulletin boards and chat rooms and/or email capabilities on this Site, please note that in the event that You voluntarily disclose personally identifiable information in those instances, that information, along with any substantive information disclosed in Your communication or post, can be collected, correlated and used by third parties. This may result in unsolicited messages from third parties. Such activities are beyond Our control, and We encourage You to check the applicable privacy policy of such party when providing personally identifiable information.
 
-For each visitor to this Site, Our server can detect and collect certain information, including the User's domain name and e-mail address, and can identify the Web pages the User visited or accessed. We may use this information in order to measure interest in and use of the various areas of the site.
+For each visitor to this Site, Our server can detect and collect certain information, including the User’s domain name and e-mail address, and can identify the Web pages the User visited or accessed. We may use this information in order to measure interest in and use of the various areas of the site.
 
 We do not knowingly solicit information from children and We do not knowingly market the Site or its services to children. No one under the age of 13 should submit any personal information to Us and/or on the Site.
 
 **OPT-OUT**
 
-You may at any time opt out of having Your personal information used by Us to send You promotional correspondence by contacting Us via e-mail, telephone, or at the address provided in the "Contact Us" section below.
+You may at any time opt out of having Your personal information used by Us to send You promotional correspondence by contacting Us via e-mail, telephone, or at the address provided in the “Contact Us” section below.
 
 **COOKIES**
 
-This Site may use "cookies" to allow You to move more quickly through the Site, particularly in member only and/or restricted areas of the Site. Cookies are small text files a web site can use to recognize repeat Users and facilitate their ongoing access to and use of the site. The majority of web browsers accept cookies, but the "help" menu on Your browser should give You options for preventing, accepting, or receiving notice of new cookies. Please note that cookies may be necessary to enable You to use certain features on this Site.
+This Site may use “cookies” to allow You to move more quickly through the Site, particularly in member only and/or restricted areas of the Site. Cookies are small text files a web site can use to recognize repeat Users and facilitate their ongoing access to and use of the site. The majority of web browsers accept cookies, but the “help” menu on Your browser should give You options for preventing, accepting, or receiving notice of new cookies. Please note that cookies may be necessary to enable You to use certain features on this Site.
 
 **INFORMATION SECURITY AND CONFIDENTIALITY**
 
@@ -30,7 +30,7 @@ We maintain physical, electronic and procedural safeguards to prevent the unauth
 
 **CONTACT US**
 
-This Privacy Policy may be updated periodically and posted on this Site. It applies only to Our online practices and does not encompass other areas of the organization. We reserve the right to change this Policy at any time by posting revisions. By accessing or using the Site, You agree to be bound by all of the Terms of this Privacy Policy as posted at the time of Your access or use. We reserve the right to contact Users of the Site regarding changes to the Terms and Conditions generally, this Privacy Policy specifically, or any other policies or agreements relevant to the Site's Users. If You have any questions about this Policy, You may telephone, email, or write to:
+This Privacy Policy may be updated periodically and posted on this Site. It applies only to Our online practices and does not encompass other areas of the organization. We reserve the right to change this Policy at any time by posting revisions. By accessing or using the Site, You agree to be bound by all of the Terms of this Privacy Policy as posted at the time of Your access or use. We reserve the right to contact Users of the Site regarding changes to the Terms and Conditions generally, this Privacy Policy specifically, or any other policies or agreements relevant to the Site’s Users. If You have any questions about this Policy, You may telephone, email, or write to:
 
 Kristen Kupniewski  
 Executive Assistant  
