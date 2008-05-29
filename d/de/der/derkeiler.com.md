@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derkeiler.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224062427id_/http%3A//www.derkeiler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derkeiler.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529213702id_/http%3A//www.derkeiler.com/privacy) for the most accurate reproduction.*
 
 # Der Keiler: Privacy Policy
 
@@ -35,25 +35,3 @@ As a result of your visit to our site, ad server companies may collect informati
 ### Contact
 
 If you have any questions about this policy feel free to contact us: [privacy@der-keiler.de](mailto:privacy@der-keiler.de)
-
-* * *
-
-## Featured Product
-
-[](http://www.gfi.com/adentry.asp?adv=833&loc=1)   
-**GFI LANguard Network Security Scanner**
-
-**Are hackers finding a way into your network?**  
-Identify and repair network vulnerabilities with the #1 vulnerability scanner. [Download a FREE trial!](http://www.gfi.com/adentry.asp?adv=833&loc=2)
-
-[](http://www.gfi.com/adentry.asp?adv=833&loc=1)GFI LANguard Network Security Scanner is the #1 Windows commercial security scanner as voted by Nmap users for two years running. It is a solution that allows you to **scan, detect, assess and rectify any security vulnerabilities on your network.**
-
-**[Find out more about GFI LANguard](http://www.gfi.com/adentry.asp?adv=833&loc=1) and [download your FREE 30 day trial today!](http://www.gfi.com/adentry.asp?adv=833&loc=2)**
-
-  * [Home Security](http://www.safemart.com/)
-  * [Security cameras](http://www.24-7cctvsecuritycameras.com/)
-  * [Security Systems](http://www.central-alarms.com/)
-  * [Security camera systems](http://www.123cctv.com/)
-  * [Auctions](http://www.superideals.info/)
-
-
