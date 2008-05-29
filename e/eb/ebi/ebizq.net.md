@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226024746id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529213638id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
 
 # The Insider's Guide to Business and IT Agility - ebizQ
 
-ebizQ manages the [ebizQ.net](https://web.archive.org/) Web site and the [ebizQ Integration Conference](https://web.archive.org/). ebizQ is committed to maximizing your experience and respecting your privacy while using these information resources.
+ebizQ manages the [ebizQ.net](https://web.archive.org/) Web site and the [ebizQ Conference](https://web.archive.org/events). ebizQ is committed to maximizing your experience and respecting your privacy while using these information resources.
 
 **Gold Club Registration**
 
@@ -26,7 +26,7 @@ ebizQ&A; is an interactive discussion forum where members of the Gold Club can i
 
 **e-Mail**
 
-ebizQ uses email to communicate with members of the Gold Club. When you register for the Gold Club, you can choose the e-mail messages you would like to receive from us. If at any time you would like to add or subtract an email subscription from your account, or you would like to change the email address where you receive your subscriptions, please visit the [edit profile page](https://web.archive.org/membership/edit_profile.html) to manage your account. You can also send us an email at [support@ebizq.net](mailto:support@ebizq.net). Please allow up to 48 business hours for any changes to take effect.
+ebizQ uses email to communicate with members of the Gold Club. When you register for the Gold Club, you can choose the e-mail messages you would like to receive from us. If at any time you would like to add or subtract an email subscription from your account, or you would like to change the email address where you receive your subscriptions, please visit the [edit profile page](https://web.archive.org/goldclub/edit_profile.php) to manage your account. You can also send us an email at [support@ebizq.net](mailto:support@ebizq.net). Please allow up to 48 business hours for any changes to take effect.
 
 **Cookies**
 
