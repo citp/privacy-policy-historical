@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the made-in-china.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214100323id_/http%3A//www.made-in-china.com/help/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the made-in-china.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529043336id_/http%3A//www.made-in-china.com/help/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Made-in-China.com
 
-### Privacy Policy
+## Privacy Policy
 
 Made-in-China.com makes a firm commitment to protect your privacy. The following policy, as part of [Terms & Conditions](https://web.archive.org/help/terms/) which has to be agreed with by users while visiting our website, provides details of how your information is treated. This policy may be subject to changes without notice. So please check the latest version periodically.
 
