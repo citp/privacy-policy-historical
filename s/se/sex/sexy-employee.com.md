@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexy-employee.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201075413id_/http%3A//www.sexy-employee.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexy-employee.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529192001id_/http%3A//www.sexy-employee.com/privacy.html) for the most accurate reproduction.*
 
 # Sexy-Employee.com - Privacy Policy
 
@@ -21,4 +21,4 @@ In addition to that, we reserve the right to use such personal data as name and 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 **How to Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please send us an email at [info@sexy-employee.com](mailto:info@Sexy-Employee.com)
+Should you have other questions or concerns about these privacy policies, please send us an email at [sexyemployeeteam](mailto:sexyemployeeteam@yahoo.com)
