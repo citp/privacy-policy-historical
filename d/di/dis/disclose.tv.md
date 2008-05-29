@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the disclose.tv privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202160543id_/http%3A//www.disclose.tv/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disclose.tv privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530002911id_/http%3A//www.disclose.tv/action/static/privacy) for the most accurate reproduction.*
 
-# Disclose.tv
+# Secret UFO Alien Videos | Ghost & Paranormal Videos on Disclose.tv
 
 ## Privacy Policy
 
