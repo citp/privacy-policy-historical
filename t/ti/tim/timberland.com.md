@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the timberland.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201071813id_/http%3A//www.timberland.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timberland.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529192951id_/http%3A//www.timberland.com./helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # Timberland® Customer Service
 
   
 |  | 
 
-**At timberland.com, your privacy is our priority.**
+**At www.timberland.com, your privacy is our priority.**
 
 **\- We won't sell, share, trade or rent any of your personal information except with your consent or as described in this Privacy Policy.**
 
 **\- We use various security measures to protect the security and confidentiality of your personal information.**
 
-You value your privacy. And we respect that. When you shop with timberland.com, we need to collect a certain amount of information about you to make shopping easier for you--and for us. We believe that you have a right to know how we use that information and how we keep it secure. So we've answered the most frequently asked questions below.
+You value your privacy. And we respect that. When you shop with www.timberland.com, we need to collect a certain amount of information about you to make shopping easier for you--and for us. We believe that you have a right to know how we use that information and how we keep it secure. So we've answered the most frequently asked questions below.
 
 For questions or concerns, please e-mail us at onlineservice@timberland.com, or contact us at:  
 The Timberland Company  
@@ -78,7 +78,7 @@ We do not sell or ship any items ordered through this website directly to anyone
 
 **How do we use cookies and pixel tags?**
 
-Cookies are small pieces of information stored by your browser on your computer's hard drive. A cookie may contain information such as recognizing you when you return to our website and remembering the items in your Shopping Bag. Most web browsers are set up to accept cookies; you can usually change your browser settings to refuse cookies but you may experience difficulties while shopping online at timberland.com.
+Cookies are small pieces of information stored by your browser on your computer's hard drive. A cookie may contain information such as recognizing you when you return to our website and remembering the items in your Shopping Bag. Most web browsers are set up to accept cookies; you can usually change your browser settings to refuse cookies but you may experience difficulties while shopping online at www.timberland.com.
 
 We also use pixel tags, tiny graphic images, to help us analyze your online shopping patterns, create content designed for your connection speeds, and deliver e-mail in a format you can read.
 
