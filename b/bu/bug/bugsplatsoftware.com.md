@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bugsplatsoftware.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015154547id_/http%3A//www.bugsplatsoftware.com/browse/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugsplatsoftware.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530023138id_/http%3A//www.bugsplatsoftware.com/browse/privacy.php) for the most accurate reproduction.*
 
 # Bugsplat Software - Privacy Policy
 
@@ -60,7 +60,7 @@ Questions and Suggestions
   * If you have questions or suggestions, please contact us by email at [BugSplat](mailto:support@bugsplatsoftware.com) or at:   
 BugSplat LLC  
 Privacy Policy Issues  
-11 Deer Run  
+104 Deer Run  
 Henniker, NH 03242  
 
 
