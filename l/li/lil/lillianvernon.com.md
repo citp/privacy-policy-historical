@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lillianvernon.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201074258id_/http%3A//www.lillianvernon.com/custserv/customer.jsp%3FsectionId%3D144) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lillianvernon.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530104048id_/http%3A//www.lillianvernon.com/custserv/customer.jsp%3FsectionId%3D144) for the most accurate reproduction.*
 
 # Lillian Vernon :: Customer Service
 
@@ -61,6 +61,12 @@ To enhance your experience with the Site, we must use "cookies." Cookies are tex
 We use cookies to understand site usage and to improve the content and offerings on the Site. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to the Site), save your password in password-protected areas, and enable you to use shopping carts on the Site. We also may use cookies to display to you products, programs, or services that you may find of particular interest. We may also use small pieces of code called "web beacons" (also known as "clear gifs" or "pixel tags") to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used in conjunction with cookies that conform to our cookie policy. 
 
 Third parties present on the Site, such as advertisers, may also place cookies on your browser. 
+
+Network Advertising 
+
+We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.acerno.com/privacy.html). 
+
+You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative's website by [clicking here](http://www.networkadvertising.org/). 
 
 Sale of Our Corporation
 
