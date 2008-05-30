@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatschools.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210024525id_/http%3A//www.greatschools.net/about/privacyStatement.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatschools.net privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530051553id_/http%3A//www.greatschools.net/about/privacyStatement.page) for the most accurate reproduction.*
 
 # GreatSchools.net Privacy Statement
 
@@ -17,6 +17,8 @@ GreatSchools Inc. collects information from our users at several different point
 GreatSchools Inc. deposits cookies on users' hard drives. A cookie is a piece of data stored on the user's hard drive containing information about the user. By setting a cookie on our site, a user does not have to log in a password more than once and saves time while on our site. Users who reject the cookie may still use GreatSchools.net, but they may be limited in some areas of our site. 
 
 Cookies can also enable us to track and target the interests of our users to enhance their experience. Some of the information about how our users experience our site, such as page views and specific pages visited, is logged by a third-party marketing company on our behalf, using cookies and Web beacons. Web beacons help us understand information such as what browsers our users have so that we are able to develop our site to best support our users. We control how this data may and may not be used. If you do not want to help us learn how to improve our site, you can "opt out" by clicking here: [http://www.omniture.com/privacy#optout](http://www.omniture.com/privacy/policy#optout). 
+
+GreatSchools is also working with QUANTCAST, a third party that provides new media measurement services that enable advertisers to view audience reports for web sites. QUANTCAST utilizes certain technologies, including your IP address and information from cookies it places on your computer, that aggregate Internet activity to produce these reports and analyses. This activity is observed on a purely anonymous basis, no Personal Data is provided to QUANTCAST by Greatschools and QUANTCAST does not collect or use any Personal Data relating to the individual doing the Internet browsing. For more information about QUANTCAST'S privacy policy, please go to <http://www.quantcast.com/privacy.jsp>
 
 #### Log Files
 
@@ -90,7 +92,7 @@ GreatSchools may offer contests, sweepstakes, and promotions that are sponsored 
 
 GreatSchools may use an advertising server developed by a third party to display ads on our site. Some of these ads may contain cookies that are set by third parties (advertisers, sponsors). We do not have access to these cookies or any information that they contain. The GreatSchools privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on ad serving, please [click here](http://www.doubleclick.com/us/about_doubleclick/privacy/). 
 
-GreatSchools is currently contracted with TACODA, Inc., a third party, to track and analyze anonymous usage and browsing patterns of our users in order to deliver advertisements that are most likely to be of interest to you. TACODA utilizes certain technologies to deliver advertisements and marketing messages to you and to collect anonymous information about your visit to our Web site, including information from cookies it places on your computer and your IP address. All data collected by TACODA on behalf of our Web sites is owned by GreatSchools. For more information about TACODA'S privacy policy, including how to opt out, go to [www.tacoda.com/privacy_policy.html](http://www.tacoda.com/privacy_policy.html). 
+GreatSchools is currently contracted with TACODA, Inc., a third party, to track and analyze anonymous usage and browsing patterns of our users in order to deliver advertisements that are most likely to be of interest to you. TACODA utilizes certain technologies to deliver advertisements and marketing messages to you and to collect anonymous information about your visit to our Web site, including your IP address and information from cookies it places on your computer. All data collected by TACODA on behalf of our Web sites is owned by GreatSchools. For more information about TACODA'S privacy policy, including how to opt out, go to [www.tacoda.com/privacy_policy.html](http://www.tacoda.com/privacy_policy.html). 
 
 #### A Notice About External Links
 
@@ -115,3 +117,5 @@ Protecting the privacy of young children is especially important. For that reaso
 #### Notification Procedures
 
 It is the policy of GreatSchools to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to our customers or Web site users, via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Web site page, www.greatschools.net, as determined by GreatSchools in its sole discretion. Notwithstanding the foregoing, GreatSchools reserves the right to determine the form and means of providing notifications to our customers or Web site users.
+
+Updated April 2, 2008
