@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australianmuseum.net.au privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212215504id_/http%3A//www.australianmuseum.net.au/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianmuseum.net.au privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530055942id_/http%3A//www.australianmuseum.net.au/about/privacy.htm) for the most accurate reproduction.*
 
 # Australian Museum Privacy Statement
 
@@ -20,7 +20,7 @@ The Australian Museum is strongly committed to protecting your privacy while int
 
 The Australian Museum is subject to the NSW Privacy and Personal Information Protection Act (1998). The Museum's Privacy Policy and Management Plan outline how the Museum complies with the Act and the standards outlined in the Act's Information Protection Principles. 
 
-[The Policy and Plan](https://web.archive.org/web/20071212215504id_/http%3A//www.australianmuseum.net.au/about/privacy_management.htm)
+[The Policy and Plan](https://web.archive.org/web/20080530055942id_/http%3A//www.australianmuseum.net.au/about/privacy_management.htm)
 
 The following Web Privacy Statement sets out how the Australian Museum will deal with personal information related to the content and use of its websites. 
 
