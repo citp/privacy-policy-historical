@@ -1,449 +1,606 @@
-<!--The following is the downloaded HTML source of the currentcatalog.com privacy policy that was archived on 2007-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070409104424id_/http%3A//currentcatalog.com/privacypolicy%7EOUID%7E.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the currentcatalog.com privacy policy that was archived on 2008-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080530163839id_/http%3A//www.currentcatalog.com/-Customer%2BService-Privacy%2B%26%2BSecurity.html) for the most accurate reproduction.-->
 
-<html><head><title>Current Privacy Policy</title></head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" alink="#000000" link="#000000" vlink="#000000">
+<html><head><script language="JavaScript">
+    var isNav, isIE;
+    if(parseInt(navigator.appVersion) >= 4) {
+      if(navigator.appName == "Netscape")
+        isNav = true
+      else
+        isIE = true;
+    }
 
+    /* checks while typing*/
+    function maxlengthCheck(txt, evtThis, maxlength){
+      if(txt.value.length >= maxlength){
+        if (isIE)
+          event.keyCode = 0 // IE
+        else
+          return false;  // Netscape
+        maxlengthHack(txt, maxlength);
+        return false;
+      }
+    }
 
+    /* checks for pasted in text, etc*/
+    function maxlengthHack(txt, maxlength){
+      if(txt.value.length >= maxlength){
+        txt.value = txt.value.substring(0,maxlength);
+      }
+    }
+</script>
 
+<script language="JavaScript">
+// Disable edit cell tab.
+   parent.editCell.className    = "tab-button-dis";
+//   parent.parent.frames('toolbarbottom').altButtons.style.display = "none";
 
+function saveForm() {
+    location.replace("/admin/displayeditcell.do?action=save");
+}
 
+   function editCell(ruleID, itemID, slotID, itemType) {
+        parent.editDisplay.className     = "tab-button";
+        if(typeof(parent.displayRules)!="undefined") {
+            parent.displayRules.className = "tab-button";
+        }
+        parent.editCell.className    = "tab-button-on";
 
+        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
+//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
+    }
+</script>
 
 
 
-	<title>
-	
-	</title>
-
-	<meta http-equiv="PRAGMA" content="no-cache">
-	
-	 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	 
-	 
-   <meta name="Title" content="Current One Stop Shop for Cards, Wraps and Gifts">
-   <meta name="keywords" content="greeting cards,birthday cards,note cards,notecards,correspondence,gift wrap,giftwrap,gift wrap accessories,gift bags,giftbags,ribbons,calendars,calendar holders,treat bags,treatbags,vinyl cling,vinylcling,labels,cards,address labels,scrapbooking,kitchen,decor,party favors,kids treats,wind socks,windsocks,stickers,household helpers,organizers,christian,faith,recipe cards,sympathy cards,anniversary cards,christmas,christmas cards,christmas decor,christmas gift wrap,xmas,ornaments,stocking stuffers,candles,easter cards,bunny,egg decorations,valentines,heart,love,halloween,ghost,pumpkin,witch,thanksgiving,fall deco,corncopia,value">
-    <meta name="description" content="Current, Inc. Where staying in touch is affordable and fun!">
-    <link rel="stylesheet" type="text/css" href="CurrentCatalog.css">
 
 
 
 
-<table align="center" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
 
 
-	<img height="1" width="1" src="http://switch.atdmt.com/action/otrcur_currentcataloglandingpage_4">
-	
 
 
-<!--'''''''''''''''''''''''''''''''''''''''new header''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''-->
-<table width="970" border="0" cellpadding="0" cellspacing="0" id="CurrentLogo" bgcolor="AEIEE3">
 
-
-
-	<tbody><tr>
-		<td colspan="2" rowspan="3">
-			<a href="frontpage.asp"><img src="images/TopNav/Header.gif" alt="" border="0"></a>
-			</td>
-			
-		<td rowspan="3" valign="bottom" align="right" id="Header" nowrap="">
-
-
-			<div style="padding-bottom: 8px">Order Toll Free <font id="HeaderBold">1-800-848-2848
-			
-			<a href=" # " onclick="Javascript:helpWin=window.open(&quot;http:uncondguarantee.asp&quot;,&quot;HELP&quot;,&quot;resizable=yes,scrollbars=no,width=365,height=160&quot;);helpWin.focus();setTimeout(&quot;if (helpWin.closed); else helpWin.window.close();&quot;,15000); return false;"><img src="images/TopNav/guarantee-logo.gif" alt="" border="0" valign="bottom"></a>
-			</font></div></td>
-
-	</tr>
-	<tr><td id="Header" align="right" nowrap=""><a href="OrderStatus/orderStatus.aspx" id="Header" style="text-decoration: none">Order Status</a> | <a href="CatalogRequest.asp" id="Header" style="text-decoration: none">Catalog Request</a> | <a href="Faq.asp" id="Header" style="text-decoration: none">Customer Service</a> | </td><td id="HeaderBold" width="43" align="LEFT" nowrap=""> <a href="cart.asp" id="Header" style="text-decoration: none"><img alt="Click to view your cart status or checkout" border="0" src="images/TopNav/cart.gif" align="left"></a></td>
-<td id="Header" nowrap=""><a href="cart.asp" id="Header" style="text-decoration: none">0 Items</a> &nbsp; &nbsp; </td>
-
-</tr>
-	<tr>
-	<td colspan="4" valign="bottom" align="right" nowrap="" id="HeaderBold">
-						
-                  
-						<form action="do_search.asp" method="post" id="Search">
-						
-						<table id="HeaderBold" border="0" cellpadding="0" cellspacing="0" align="right">
-						<tbody><tr>
-				
-						<td> Search &nbsp;</td>	
-                      		 <td><input size="10" type="text" name="s1_value" id="Text1"></td>
-							<td> <input type="image" src="images/topnav/go.gif" align="right" id="Image1" name="Image1"></td><input type="hidden" name="searchFromHeader" value="1" id="Hidden1">
-							
-							</tr><tr>
-							<td></td>
-							<td colspan="3" align="right"><div style="padding-bottom: 8px">
-								April 9, 2007&nbsp; </div></td>
-
-</tr>
-			</tbody></table>
-			</form></td>
-	</tr>
-	<!-------------------------------------------------Top Nav Bar Here------------------------------------------------->
-
-<tr><td style="background: url(TopNavBackground.gif);" colspan="6">
-<table width="100%">
-
-<tbody><tr><td id="TopNavText" align="center"> 
-<a href="frontpage.asp" id="TopNavText" style="text-decoration: none">Home</a>
-</td>
-<td id="TopNavText" align="center"> 
- | 
-</td>
-<td id="TopNavText" align="center"> 
-<a href="quickadd2.asp" id="TopNavText" style="text-decoration: none">Quick Order Form</a>
-</td>
-<td id="TopNavText" align="center"> 
- | 
-</td>
-<td id="TopNavText" align="center"> 
-<a href="product~subCatID~1005.asp" id="TopNavText" style="text-decoration: none">New Arrivals</a>
-</td>
-<td id="TopNavText" align="center"> 
- | 
-</td>
-<td id="TopNavText" align="center"> 
-<a href="product~subCatID~1006.asp" id="TopNavText" style="text-decoration: none">Current Exclusives</a>
-</td>
-<td id="TopNavText" align="center"> 
- | 
-</td>
-<td id="TopNavText" align="center"> 
-<a href="product~subCatID~1010.asp" id="TopNavText" style="text-decoration: none">Best Sellers</a>
-</td>
-<td id="TopNavText" align="center"> 
- | 
-</td>
-<td id="TopNavText" align="center"> 
-<a href="CurrentCorner.asp" id="TopNavText" style="text-decoration: none">Current<sup>®</sup> Corner</a>
-</td>
-
-</tr></tbody></table>
-</td></tr>
-
-<!-------------------------------------------------Top Nav Bar Here------------------------------------------------->			
-
-
-
-
-	
-	
-	
-	<tr></tr>
-	</tbody></table>
-	
-<!-- row 5 -->
-	</td></tr><tr>
-		<td>
-		
-			<table cellpadding="0" cellspacing="0" width="975" bgcolor="#EEDECF" border="0">
-				<tbody><tr>
-					
-					<td valign="top" width="200">
-					
-					<!-- LEFT NAV BAR IS HERE -->
-					
-<br>
-<!--<img border=0 src='images/soc_header_pix/header_5_1.jpg'>-->
-<a style="text-decoration: none" href="http://reg.cheetahmail.com/regp?aid=408764476&amp;n=100&amp;np=101,102|103|||"><img src="Images/TopNav/email-sign-up.gif" border="0" alt="" email="" sign-up=""></a>
-<div id="LeftNavLarge"><a style="text-decoration: none" href="CurrentCorner.asp"><font color="green"><b>My Current Corner</b></font></a></div><nobr><a style="text-decoration: none" href="category~title~Holidays+and+Celebrations+by+Current~subCatID~1080.asp"><div id="LeftNavLarge">Holidays &amp; Celebrations</div></a></nobr><nobr><a style="text-decoration: none" href="category~title~Address+Labels+by+Current~subCatID~144.asp"><div id="LeftNavLarge">Address Labels
-</div></a></nobr><nobr><a style="text-decoration: none" href="category~title~Personal+Checks+by+Current~subCatID~946.asp"><div id="LeftNavLarge">Personal Checks</div></a></nobr><nobr><a style="text-decoration: none" href="category~title~Greeting+Cards+by+Current~subCatID~148.asp"><div id="LeftNavLarge">Greeting Cards</div></a></nobr><nobr><a style="text-decoration: none" href="category~title~Gifts+by+Current~subCatID~145.asp"><div id="LeftNavLarge">Gifts</div></a></nobr><nobr><a style="text-decoration: none" href="category~title~Gift+Wrap+by+Current~subCatID~138.asp"><div id="LeftNavLarge">Gift Wrap</div></a></nobr><nobr><a style="text-decoration: none" href="product~title~Gift+Wrap+Accessories~subCatID~1165.asp"><div id="LeftNavLarge">Gift Wrap Accessories</div></a></nobr><nobr><a style="text-decoration: none" href="category~title~Stationery+by+Current~subCatID~273.asp"><div id="LeftNavLarge">Stationery</div></a></nobr><nobr><a style="text-decoration: none" href="category~title~Personalized+Specialities~subCatID~1153.asp"><div id="LeftNavLarge">Personalized Specialities</div></a></nobr><nobr><a style="text-decoration: none" href="category~title~For+Your+Home+by+Current~subCatID~752.asp"><div id="LeftNavLarge">For Your Home</div></a></nobr><nobr><a style="text-decoration: none" href="category~title~Home+Office+by+Current~subCatID~702.asp"><div id="LeftNavLarge">Home Office</div></a></nobr><nobr><a style="text-decoration: none" href="category~title~Scrapbooking+by+Times+to+Cherish%AE~subCatID~143.asp"><div id="LeftNavLarge">Scrapbooking by<br>&nbsp;   &nbsp;Times to Cherish®</div></a></nobr><nobr><a style="text-decoration: none" href="category~title~Value+Packs~subCatID~139.asp"><div id="LeftNavLarge">Value Packs</div></a></nobr><nobr><a style="text-decoration: none" href="category~title~Sale+by+Current~subCatID~889.asp"><div id="LeftNavLarge"><font color="red"><b>Sale</b></font></div></a></nobr><div align="CENTER"><div id="kicker"><a href="product~subCatID~1176.asp"><img src="images/kicker/Box1-in-left-nav.gif" border="0" alt="PersonalTouchLink"></a><div id="kicker"><a href="product~subCatID~1217.asp"><img src="images/kicker/Box2-in-left-nav.jpg" border="0" alt="InternetSpecialLink"></a></div>
-					<!-- LEFT NAV BAR ENDS HERE -->
-					
-					</div></div></td>
-					
-					<td>&nbsp;</td>
-					
-					<td align="left" valign="top" bgcolor="#FFFFFF" id="MainContent"><div>
-<!-- THIS IS WHERE THE MAIN BODY OF THE PAGE WILL BEGIN TO BE DISPLAYED -->
-
-<font size="2" face="arial" color="#040b99">
-</font><br><br>
-
-<!-- BELOW IS THE BODY CELL INFORMATION -->
-<center>
-
-
-<table><tbody><tr><td> &nbsp; &nbsp; &nbsp; &nbsp; </td><td>
-
-<table border="1" cellpadding="0" cellspacing="0" bordercolor="#"><tbody><tr><td>
-<table border="0" width="500">
-   <tbody><tr><td> </td><td></td><td align="right"></td></tr>
-   <tr>
-      <td colspan="3">
-
-
-<table width="500" border="0">
-  <tbody><tr align="left" valign="top"> 
-    <td> <!-- ImageReady Slices (sidebar.psd) --> 
-     </td>
-                        <td> 
-                          <p><a name="top"></a> </p>
-                          <table width="500" border="0" cellspacing="5" cellpadding="5">
-                            <tbody><tr> 
-                              <td width="208" align="center">
-                                <center>
-                                  <nobr><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a href="#privacypolicy">PRIVACY 
-                                  POLICY</a>&nbsp;|&nbsp;<a href="#rights">YOUR CALIFORNIA PRIVACY RIGHTS</a> </b></font></nobr></center></td></tr>
-
-
-			<tr>
-				<td width="500" align="center">
-					<a href="#security"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>SECURITY</b></font></a> 
-                                
-                              </td>
-                            </tr>
-                    <tr></tr>
-					<tr></tr>
-                          </tbody></table><table width="500" border="0" cellspacing="5" cellpadding="5" height="382">
-                            <tbody><tr valign="top" bgcolor=""> 
-                              <td height="26"> 
-							  
-							
-                                <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a name="privacypolicy"></a><font color="#000000">Privacy 
-                                  Policy</font></b></font></p>
-                              </td>
-                            </tr>
-                            <tr valign="top"> 
-                              <td> 
-                                <p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">At www.CurrentCatalog.com, we respect our customers and understand that you are concerned about privacy, so we have instituted policies intended to protect your personal information. The purpose of this privacy policy is to let you know what kind of information we collect, with whom it may be shared, what choices you have regarding our use of your information, and how you may review and change some of the data you provide to us. </font></p>
-
-                                <p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">As we continue to develop our website and take advantage of technologies to improve the services we offer, this policy likely will change. We will not be notifying you directly but will post the changes here in the Privacy Policy. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy.
-                                  </font></p>
-								  
-                                <p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1"><strong>What Information Do We Collect?</strong><br> 
-
-We collect various types of information depending upon how you use our site. The categories of information we collect are:<br><br> 
-(1) Your first and last name<br>
-(2) A home or other physical address, including street names and <br>
-    name of a city or town.<br>
-(3) Your e-mail address.<br>
-(4) Your telephone number.<br>
-(5) Your credit card number and related information.
-
-                                </font></p><p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1"><strong>Do We Share Your Information?</strong><br>
-
-								  The information gathered may be shared with corporate affiliates of www.CurrentCatalog.com. We also share the information with third parties, including responsible companies with which we have a relationship. For example:<br><br>
-
-Some of our vendors may work closely with us to create a vendor shop within the www.CurrentCatalog.com site or to ship your order directly to you. In certain instances, we may share certain information about you with that vendor (e.g., if you decide to buy their products).<br><br> 
-
-You also may make a purchase from www.CurrentCatalog.com through a link from another website or search engine and may use their express checkout tool to do so. When you do, please be aware that both www.CurrentCatalog.com and that website or search engine will receive your information.<br><br>
-
-In some cases, www.CurrentCatalog.com may enter into a co-branding relationship with another website that offers you products or services that supplement www.CurrentCatalog.com's assortment (e.g., flowers). In those cases, you may link from www.CurrentCatalog.com to another site to purchase the item. In that case, both www.CurrentCatalog.com and the other website may receive your information. <br><br>
-
-We may retain reliable third party companies to provide order fulfillment and customer service on our behalf and they will have access to your information.<br><br>
-
-www.CurrentCatalog.com may team with another website to conduct a sweepstakes or other event (e.g., a live web chat). In those cases, each of the participating websites may collect or receive personal information from you. <br><br>
-
-For some of our products, www.CurrentCatalog.com may provide you with a link to the supplier of that product so that you may get further information. If you link to the supplier's site, the supplier may collect or receive information about you. <br><br>
-
-Like other companies, www.CurrentCatalog.com may use an outside company to place its advertising banners or links on other sites or to permit other companies to place advertising on www.CurrentCatalog.com. In certain cases, the advertiser may collect information on people who click on the banner or link.<br><br>
-
-www.CurrentCatalog.com also may share your personal information with outside companies that perform services for www.CurrentCatalog.com. For example, we retain outside companies (i.e. Experian and Cheetah mail) to manage a database containing certain customer information or to create and distribute an e-mail offering. In those situations, the outside party is performing work for www.CurrentCatalog.com, and www.CurrentCatalog.com takes appropriate steps designed to ensure your information is used only to provide the services requested by www.CurrentCatalog.com, and not for other purposes.<br><br>
-
-Additionally, www.CurrentCatalog.com may share account or other information when we believe it is necessary to comply with law or to protect our interests or property. This may include sharing information with other companies, lawyers, credit bureaus, agents, or government agencies in connection with issues related to fraud, credit, or debt collection.<br><br>
-
-And in the event that some or all of the business assets of www.CurrentCatalog.com are sold or transferred, we generally would transfer the corresponding information about our customers.<br><br>
-
-www.CurrentCatalog.com may share your personal information with unrelated outside companies so that they can directly market their products or services to you if we feel that a company offers products or services that we believe may be of interest. We also may provide you with the opportunity to signup on our website to receive such e-mail offers.<br><br></font></font></p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">
-                               
-	<p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1"><strong>Can I Review and Change My Information?</strong><br>
-		
- 
-                                  If you have questions about your order you may check your order status online by <a href="http://198.12.19.146/pdtrack/ccat/shiptrack.asp">clicking 
-                                  here</a>. <br><br>
-
-If you would like to email our Customer Service Department contact us at <a href="mailto:CurrentCustomerService@currentinc.com">CurrentCustomerService@CurrentInc.com.</a> <br><br>
-
-Questions regarding your charge account can be forwarded to our Customer Service Department at <a href="mailto:CurrentCustomerService@currentinc.com">CurrentCustomerService@CurrentInc.com.</a>
-<br><br></font></p>		
-								  
-	 <p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1"><strong>What About Information About Children?</strong><br> 
-	 
-	 The Children's Online Privacy Protection Act took effect imposes certain requirements on websites directed toward children under 13 that collect information on those children, or on websites that know they are collecting information on children under the age of 13. We want to let you know that it currently is www.CurrentCatalog.com's policy not to collect personal information on any person under 13.</font></p>					  
-						  
-			<p><a name="rights"></a><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1"><strong>Your California Privacy Rights.</strong><br> 
-	 
-	 California Civil Code Section 1798.83 permits individual customers of CurrentCatalog.com who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to CurrentCustomerService@CurrentInc.com or write us: <br><br>
-
-Current<br>
-P.O. Box 35710<br>
-Colorado Springs, CO 80935-3571<br><br>
-
-
-Thank you for shopping with www.CurrentCatalog.com. If you have any questions or comments about this policy, contact us at <a href="mailto:CurrentCustomerService@currentinc.com">CurrentCustomerService@CurrentInc.com</a>
-<br><br>
-</font></p><p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000"><a href="#top">TOP</a></font></font></p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">
-<p>&nbsp;</p>
-                    
-                          <table width="500" border="0" cellspacing="5" cellpadding="5">
-                            <tbody><tr valign="top" bgcolor=""> 
-                              <td> 
-                                <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a name="security"></a><font color="#000000">Security</font></b></font></p>
-                              </td>
-                            </tr>
-                            <tr valign="top"> 
-                              <td> 
-                                <p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">Is 
-                                  a credit card transaction of this type really 
-                                  safe from fraud? The short answer is "Yes." 
-                                  The long answer is... </font></p>
-                                <p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">Most 
-                                  consumers do not realize that security protocols 
-                                  and technologies currently exist to protect 
-                                  them. Most of the reported credit card fraud 
-                                  over the internet has involved people emailing 
-                                  their credit card account numbers to merchants, 
-                                  or web sites accepting credit cards without 
-                                  using any security protocols. </font></p>
-                                <p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">Such 
-                                  potentially insecure methods of data transmission 
-                                  are not used here at Current USA, Inc. We employ 
-                                  the latest in internet security and electronic 
-                                  commerce security:</font></p>
-                                <p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
-                                  <b>Operating System Security.</b> <br>
-                                  The Current USA, Inc. online store operates 
-                                  under the Windows NT operating system. We have 
-                                  employed the strictest security (secure users, 
-                                  groups and passwords) offered by Microsoft¹s 
-                                  high-end operating system. </font></p>
-                                <p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> 
-                                  Database Security.</b> <br>
-                                  Current USA, Inc. gathers customers, products, 
-                                  and orders in databases. Those databases are 
-                                  secured with passwords set up at the table level. 
-                                  Even someone typing on the computer the database 
-                                  is stored on would have to know the database 
-                                  passwords to gain access to the information. 
-                                  </font></p>
-                                <p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>
-                                  Encoded Credit Card Slips.</b> <br>
-                                  Credit card transactions (or slips, as they 
-                                  are known in the banking industry) are encoded 
-                                  using the Secure Electronic Commerce (SET) standard 
-                                  pioneered by Visa and MasterCard. Even if someone 
-                                  were to intercept a transaction, they would 
-                                  not be able to gain access to the information. 
-                                  Credit card transactions are handled in real 
-                                  time between your credit card issuer and our 
-                                  bank. </font></p>
-                                <p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> 
-                                  SSL Server Certificate.</b><br>
-                                  Current USA Inc. uses an SSL server certificate. 
-                                  What¹s a server certificate? A company wanting 
-                                  to do business on the world wide web must prove 
-                                  to a trusted third party, such as VeriSign Inc. 
-                                  or Thawte Consulting, that they really exist 
-                                  and have the right to use a particular domain 
-                                  name (Internet address). An SSL Certificate 
-                                  is then assigned to that business that authenticates 
-                                  their domain. </font></p>
-                                <p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">When 
-                                  a customer uses a modern web browser (such as 
-                                  Netscape Navigator or Microsoft Internet Explorer), 
-                                  the browser can automatically check the business's 
-                                  authenticity. If the browser can't verify that 
-                                  VeriSign or Thawte vouches for the business, 
-                                  it will refuse to start an encrypted session, 
-                                  or at least pop up a window warning the customer 
-                                  that the browser can't determine authenticity. 
-                                  The encryption mechanism used for SSL certificates 
-                                  is so secure, the U.S. government prohibits 
-                                  its export outside the United States. </font></p>
-                                <p><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">So 
-                                  shopping with us at Current USA Inc. really 
-                                  is safe. In fact, it would be much easier for 
-                                  a thief to steal your credit card information 
-                                  from the carbon copy of a receipt than to intercept 
-                                  an online secure transaction at our web site.</font></p>
-								  
-								  
-								   
-<font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">This policy is effective as of July 1, 2004.<br>
-Last revised on February 25, 2005.</font><p></p>								  
-								  
-						  
-				   <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000"><a href="#top">TOP</a></font></p>
-                             
-      				</td></tr></tbody></table>
- 				</font></font></td></tr></tbody></table>
-			</td></tr></tbody></table>
-		</td></tr></tbody></table>
-	</td></tr></tbody></table>
-</td></tr></tbody></table>		
-
-</center>
-<!-- ABOVE IS THE BODY CELL INFORMATION -->
-
-
-
-
-
-
-
-
-
-<!-- This page does not use database connections
-THIS IS WHERE THE MAIN BODY OF THE PAGE WILL STOP -->
-					</div></td>
-				</tr><tr bgcolor="#eedecf">
-					<td align="center" colspan="3" bgcolor="#eedecf">
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr><td>&nbsp;</td></tr>
-							<tr>
-								<td align="center">
-								
-									<!-- trailer lives here -->
-									
-									   <font size="2" face="arial"><font id="footer"><a href="http://currentcatalog.com/frontpage~OUID~.asp" style="text-decoration: none;"><font id="footer">Home</font></a> | <a href="http://currentcatalog.com/product~OUID~.asp" style="text-decoration: none;"><font id="footer">A to Z</font></a> | <a href="http://currentcatalog.com/advancedSearch~OUID~.asp" style="text-decoration: none;"><font id="footer">Search</font></a> | <a href="http://currentcatalog.com/faq~OUID~.asp" style="text-decoration: none;"><font id="footer">Customer Service</font></a> | <a href="http://currentcatalog.com/faq.asp#faqs" style="text-decoration: none;"><font id="footer">FAQ</font></a> | <a href="http://currentcatalog.com/catalogRequest~OUID~.asp" style="text-decoration: none;"><font id="footer">Catalog Request</font></a> | Privacy/Security <br>Privacy Rights | <a href="http://currentcatalog.com/partner~OUID~.asp" style="text-decoration: none;"><font id="footer">Featured Merchants</font></a> | <a href="http://currentcatalog.com/categorytips~OUID~.asp" style="text-decoration: none;"><font id="footer">Tips</font></a> | <a href="http://currentcatalog.com/e-cards/category~OUID~.asp" style="text-decoration: none;"><font id="footer">Greetings</font></a> | <a href="http://currentcatalog.com/siteMap.asp" style="text-decoration: none;"><font id="footer">Site Map</font></a> | <a href="http://reg.cheetahmail.com/regp?aid=408764476&amp;n=100&amp;np=101,102|103|||" style="text-decoration: none;"><font id="footer">Email Sign-Up</font></a> | <a href="OrderStatus/orderStatus.aspx" style="text-decoration: none;"><font id="footer">Order Status</font></a></font><br><br>
-									
-									<!-- end trailer -->
-									  
-								</font></td>
-							</tr>
-
-							<tr><td align="center">
-							<!-- help text droppes here -->
-							
-							</td></tr>
-							
-							<tr><td align="center">
-							
-							<script src="https://seal.verisign.com/getseal?host_name=currentcatalog.com&amp;size=M&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
-							
-							</td></tr>
-							<tr>
-							<td align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#000000">©
-
-2007
- Current USA, Inc.</font></td></tr>
-							
-							
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<!-- Fireclick Netflame Web Analytics - COPYRIGHT 1999-2004 - Please do not modify this code-->
+
+<title>Current Catalog - One Stop Shop for Cards Wraps and Gifts</title>
+<link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
+
+<!--Personalization 1 begin -->
+<link rel="stylesheet" type="text/css" href="/includes/personalization.css" title="style">
+<!--Personalization 1 end -->
+	  
+<script src="/includes/flyopen.js"></script>
+<script src="/includes/rollover.js"></script>
+<script src="/includes/cleartext.js"></script>
 <script language="javascript">
+arImageList = new Array ();
+arSubImageList = new Array ();
+
+function preLoadCatImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           arImageList[loop] = new Image(); 
+           arImageList[loop].src = images_array[loop];
+	}
+}
+function preLoadSubCatImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           arSubImageList[loop] = new Image(); 
+           arSubImageList[loop].src = images_array[loop];
+	}
+}
+function changeCat(frm, thisbox) {
+   var optiontxt = thisbox.options[thisbox.selectedIndex].value;
+   if (optiontxt == "0"){
+        return;
+    }
+    location.href = optiontxt
+    //frm.action = optiontxt;
+    //alert (frm.action);
+    //frm.submit();
+}
+
+</script>
+
+<!-- MilonicDHTML -->
+
+
+
+</head>
+<body class="main" marginwidth="0" marginheight="30" topmargin="30" bottommargin="0" leftmargin="0" rightmargin="0">
+
+<!-- Content Wrap Start -->
+
+<table border="0" width="768" cellpadding="0" cellspacing="0" align="center">
+  <tbody><tr valign="top">
+		<td class="siteborderleft" rowspan="4" width="7"><img src="/images/us/global/globalgraphics/spacer01.gif" width="7" height="1" border="0"></td>
+		<td colspan="5">
+<!--SourceCode:  -->
+
+
+
+<!-- Navheader Start-->
+
+
+<table border="0" width="753" cellpadding="0" cellspacing="0">
+
+
+<tbody><tr><td class="navheaderbg" valign="top"><a href="http://www.currentcatalog.com/home.html"><img src="/images/us/global/globalnav/logo01.gif" border="0" alt="Current Catalog"></a></td>
+	<td class="navheaderbg" align="left"><table border="0" cellspacing="0" cellpadding="0">
+	  <tbody><tr><td>
+		<table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr><td><a href="https://www.currentcatalog.com/account/accountmain.jsp" onmouseover="rollover('top_myaccount','/images/us/global/globalnav/myaccount_on.gif');" onmouseout="rollover('top_myaccount','/images/us/global/globalnav/myaccount_off.gif');"><img src="/images/us/global/globalnav/myaccount_off.gif" border="0" alt="My Account" name="top_myaccount"></a></td>
+				<td><a href="http://www.currentcatalog.com/-Customer+Service.html" onmouseover="rollover('top_customerserv','/images/us/global/globalnav/customerserv_on.gif');" onmouseout="rollover('top_customerserv','/images/us/global/globalnav/customerserv_off.gif');"><img src="/images/us/global/globalnav/customerserv_off.gif" border="0" alt="Customer Service" name="top_customerserv"></a></td>
+				<td><a href="http://www.currentcatalog.com/catalogrequest/catalogrequestmain.jsp" onmouseover="rollover('top_catrequest','/images/us/global/globalnav/catrequest_on.gif');" onmouseout="rollover('top_catrequest','/images/us/global/globalnav/catrequest_off.gif');"><img src="/images/us/global/globalnav/catrequest_off.gif" border="0" alt="Catalog Request" name="top_catrequest"></a></td>
+				<td><a href="http://www.currentcatalog.com/account/orderhistory/orderlisttrackingmain.jsp" onmouseover="rollover('top_orderstatus','/images/us/global/globalnav/orderstatus_on.gif');" onmouseout="rollover('top_orderstatus','/images/us/global/globalnav/orderstatus_off.gif');"><img src="/images/us/global/globalnav/orderstatus_off.gif" border="0" alt="Order Status" name="top_orderstatus"></a></td></tr>
+            </tbody></table></td></tr>
+	  <tr><td><table border="0" cellspacing="0" cellpadding="0" width="357"><tbody><tr><td valign="top" align="left" class="navheaderbg"><img src="/images/us/global/globalnav/phonenumbr.gif" border="0" alt="1-800-848-2848"></td>
+	   <form name="searchForm" action="http://www.currentcatalog.com/shopping/search/advancedsearchmain.jsp" onsubmit="return checkFieldsSearch('searchForm')"></form>
+    	<input type="hidden" name="searchType" value="keyword">
+		<input type="hidden" name="NRS" value="1">
+		<input type="hidden" name="RS" value="1">
+	        	<input type="hidden" name="ASRP" value="1">
+			<td align="center" class="navheaderbg"><input type="text" class="navsearchbox" name="keyword" value=" Keyword or item#" maxlength="30" size="10" onfocus="if(this.value==' Keyword or item#')this.value='';" onfocusout="if(this.value=='')this.value=' Keyword or item#';"></td>
+			<td valign="middle"><input type="Image" name="Search" src="/images/us/global/globalgraphics/search_btn.gif" border="0" alt="Search"></td>
+      		 
+	       <td><img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"></td></tr></tbody></table></td></tr>
+	  <tr><td><table border="0" cellspacing="0" cellpadding="0" width="357"><tbody><tr><td align="left" height="21"><img src="/images/us/global/globalgraphics/spacer02.gif" border="0"></td><td align="right"><span class="navheader"><a href="https://www.currentcatalog.com/basket/basketmain.jsp"><img src="/images/us/global/globalnav/shopbasket_off.gif" border="0">
+			 Shopping Cart: </a>0
+			 items</span> </td><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"></td></tr></tbody></table></td></tr>
+</tbody></table></td></tr>
+<tr>
+	<td colspan="2" class="navheaderbg"><table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr valign="top">
+							  <td><a href="/shopping/catalogquickshop/cqsmain.jsp" onmouseover="rollover('LeftQuick Order Form','/images/us/global/globalnav/globalnav01_on.gif');" onmouseout="rollover('LeftQuick Order Form','/images/us/global/globalnav/globalnav01_off.gif');"><img border="0" name="LeftQuick Order Form" src="/images/us/global/globalnav/globalnav01_off.gif" alt="Quick Order Form"></a></td>
+      				 <td><a href="http://www.currentcatalog.com/-New+Arrivals.html" onmouseover="rollover('LeftNew Arrivals','/images/us/global/globalnav/globalnav02_on.gif');" onmouseout="rollover('LeftNew Arrivals','/images/us/global/globalnav/globalnav02_off.gif');"><img border="0" name="LeftNew Arrivals" src="/images/us/global/globalnav/globalnav02_off.gif" alt="New Arrivals"></a></td>
+      				  <td><a href="http://www.currentcatalog.com/-Current+Exclusives.html" onmouseover="rollover('LeftCurrent Exclusives','/images/us/global/globalnav/globalnav04_on.gif');" onmouseout="rollover('LeftCurrent Exclusives','/images/us/global/globalnav/globalnav04_off.gif');"><img border="0" name="LeftCurrent Exclusives" src="/images/us/global/globalnav/globalnav04_off.gif" alt="Current Exclusives"></a></td>
+      				  <td><a href="http://www.currentcatalog.com/-Customer+Favorites.html" onmouseover="rollover('LeftCustomer Favorites','/images/us/global/globalnav/globalnav03_on.gif');" onmouseout="rollover('LeftCustomer Favorites','/images/us/global/globalnav/globalnav03_off.gif');"><img border="0" name="LeftCustomer Favorites" src="/images/us/global/globalnav/globalnav03_off.gif" alt="Customer Favorites"></a></td>
+      				  
+							  <td><a href="/~Sale.html" onmouseover="rollover('LeftSale!','/images/us/global/globalnav/globalnav05_on.gif');" onmouseout="rollover('LeftSale!','/images/us/global/globalnav/globalnav05_off.gif');"><img border="0" name="LeftSale!" src="/images/us/global/globalnav/globalnav05_off.gif" alt="Sale!"></a></td>
+      				 </tr>
+	</tbody></table></td>
+</tr>
+<!--Producr Groups Nav starts-->
+
+<!-- Navheader End -->
+</tbody></table>
+<script language="javascript">
+var the_topimages = new Array("/images/us/global/globalnav/globalnav01_on.gif",
+"/images/us/global/globalnav/globalnav01_off.gif"
+,"/images/us/global/globalnav/globalnav02_on.gif",
+"/images/us/global/globalnav/globalnav02_off.gif"
+,"/images/us/global/globalnav/globalnav04_on.gif",
+"/images/us/global/globalnav/globalnav04_off.gif"
+,"/images/us/global/globalnav/globalnav03_on.gif",
+"/images/us/global/globalnav/globalnav03_off.gif"
+,"/images/us/global/globalnav/globalnav05_on.gif",
+"/images/us/global/globalnav/globalnav05_off.gif"
+);
+preLoadCatImages(the_topimages);
+function checkFieldsSearch() {
+        var searchtxt=Trim(document.searchForm.keyword.value);
+        if (searchtxt == '')
+	{
+		alert("Please enter keyword or item#.");
+		return false;
+	} else if (searchtxt == ' Keyword or item#') {
+		alert("Please enter keyword or item#.");
+		return false;
+        } else if (searchtxt.length <= 2) {
+		alert("We are sorry, the information you have requested is not available.");
+		return false;
+        } else {
+		return true;
+	}
+}
+function Trim(inString){
+  return LTrim(RTrim(inString));
+}
+
+function LTrim(inString){
+  return inString.replace(/^\s+/,'');
+}
+
+function RTrim(inString){
+  return inString.replace(/\s+$/,'');
+}
+
+</script></td>
+		<td class="siteborderright" rowspan="4" width="7"><img src="/images/us/global/globalgraphics/spacer01.gif" width="7" height="500" border="0"></td>
+   </tr>
+   <tr valign="top"><td class="contentbg"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td>
+	 <td class="navleftborder"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+	 <td colspan="3" class="contentbg"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td>
+   </tr>
+   <tr valign="top">
+   
+        
+		<td width="164" class="navleftbg">
+
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="164">
+
+
+	 	
+			<form action="/subscribemain.jsp" name="email_signup_form" method="post"></form>
+			<tbody><tr><td><table border="0" cellspacing="0" cellpadding="0" width="164">
+			<tbody><tr><td class="clearbg"><img src="/images/us/global/globalgraphics/spacer01.gif" width="11" height="1" border="0"></td>
+			<td>&nbsp;</td>
+			<td class="clearbg">
+			<img src="/images/us/global/globalgraphics/spacer01.gif" width="5" height="1" border="0">			</td>
+			
+			<!--<font color='red' face='arial' size='1'></font>-->
+
+			<td class="clearbg" align="right">
+		
+		
+		
+			 <div style="text-align:left; color:#003399">Sign up for exclusive email promotions and discounts</div>
+			 <div align="left"><input type="text" name="email" id="email" maxlength="50" size="21" value="enter email address" onfocus="if(this.value=='enter email address')this.value='';" onfocusout="if(this.value=='')this.value='enter email address';"></div>
+			 <input type="submit" value="Go" name="emailsignup_submit" alt="Go" align="middle">
+
+		
+			</td><td class="clearbg" align="right"><img src="/images/us/global/globalgraphics/spacer01.gif" width="7" height="1" border="0">			</td>
+			</tr>
+			<tr><td class="clearbg"><img src="/images/us/global/globalgraphics/spacer01.gif" width="11" height="1" border="0"></td>
+			<td colspan="3" class="messageerror"></td></tr>
+			</tbody></table>
+			
+
+</td></tr>
+	
+<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="5" border="0"></td></tr>
+<tr><td valign="top" class="tabledivrule"><img src="/images/us/global/globalgraphics/spacer01.gif" width="164" height="1" border="0"></td></tr>
+					
+
+
+	
+
+<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="5" border="0"></td></tr>
+					
+
+
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Sale.html" onmouseover="rollover('LeftSale','/images/us/local/page_specific/home/left_nav_saleon.gif');" onmouseout="rollover('LeftSale','/images/us/local/page_specific/home/left_nav_sale.gif');"><img border="0" name="LeftSale" src="/images/us/local/page_specific/home/left_nav_sale.gif" alt="Sale"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Scrapbooking+by+Times+to+Cherish.html" onmouseover="rollover('LeftScrapbooking by Times to Cherish','/images/us/local/page_specific/home/left_nav_scrapon.gif');" onmouseout="rollover('LeftScrapbooking by Times to Cherish','/images/us/local/page_specific/home/left_nav_scrap.gif');"><img border="0" name="LeftScrapbooking by Times to Cherish" src="/images/us/local/page_specific/home/left_nav_scrap.gif" alt="Scrapbooking by Times to Cherish"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Current+Kids.html" onmouseover="rollover('LeftCurrent Kids','/images/us/local/page_specific/home/CKlogv2on.gif');" onmouseout="rollover('LeftCurrent Kids','/images/us/local/page_specific/home/CKlogov2.gif');"><img border="0" name="LeftCurrent Kids" src="/images/us/local/page_specific/home/CKlogov2.gif" alt="Current Kids"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Current+Gift+Corner.html" onmouseover="rollover('LeftCurrent Gift Corner','/images/us/local/page_specific/home/left_nav_cgcorneron.gif');" onmouseout="rollover('LeftCurrent Gift Corner','/images/us/local/page_specific/home/left_nav_cgcorner.gif');"><img border="0" name="LeftCurrent Gift Corner" src="/images/us/local/page_specific/home/left_nav_cgcorner.gif" alt="Current Gift Corner"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Holidays+%26%2338+Celebrations.html" onmouseover="rollover('LeftHolidays &amp; Celebrations','/images/us/local/page_specific/home/left_nav_HCon.gif');" onmouseout="rollover('LeftHolidays &amp; Celebrations','/images/us/local/page_specific/home/left_nav_HC.gif');"><img border="0" name="LeftHolidays &amp; Celebrations" src="/images/us/local/page_specific/home/left_nav_HC.gif" alt="Holidays &amp; Celebrations"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Buy+1+Get+1+Free.html" onmouseover="rollover('LeftBuy 1 Get 1 Free','/images/us/local/page_specific/home/left_nav_buyoneon.gif');" onmouseout="rollover('LeftBuy 1 Get 1 Free','/images/us/local/page_specific/home/left_nav_buyone.gif');"><img border="0" name="LeftBuy 1 Get 1 Free" src="/images/us/local/page_specific/home/left_nav_buyone.gif" alt="Buy 1 Get 1 Free"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Address+Labels.html" onmouseover="rollover('LeftAddress Labels','/images/us/local/page_specific/home/left_nav_addresson.gif');" onmouseout="rollover('LeftAddress Labels','/images/us/local/page_specific/home/left_nav_address.gif');"><img border="0" name="LeftAddress Labels" src="/images/us/local/page_specific/home/left_nav_address.gif" alt="Address Labels"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Checks.html" onmouseover="rollover('LeftChecks','/images/us/local/page_specific/home/left_nav_checkson.gif');" onmouseout="rollover('LeftChecks','/images/us/local/page_specific/home/left_nav_checks.gif');"><img border="0" name="LeftChecks" src="/images/us/local/page_specific/home/left_nav_checks.gif" alt="Checks"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Greeting+Cards.html" onmouseover="rollover('LeftGreeting Cards','/images/us/local/page_specific/home/left_nav_greetcardson.gif');" onmouseout="rollover('LeftGreeting Cards','/images/us/local/page_specific/home/left_navLgreetcards.gif');"><img border="0" name="LeftGreeting Cards" src="/images/us/local/page_specific/home/left_navLgreetcards.gif" alt="Greeting Cards"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Gifts.html" onmouseover="rollover('LeftGifts','/images/us/local/page_specific/home/left_nav_giftson.gif');" onmouseout="rollover('LeftGifts','/images/us/local/page_specific/home/left_nav_gifts.gif');"><img border="0" name="LeftGifts" src="/images/us/local/page_specific/home/left_nav_gifts.gif" alt="Gifts"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Gift+Wrap.html" onmouseover="rollover('LeftGift Wrap','/images/us/local/page_specific/home/left_nav_giftwrapon.gif');" onmouseout="rollover('LeftGift Wrap','/images/us/local/page_specific/home/left_nav_giftwrap.gif');"><img border="0" name="LeftGift Wrap" src="/images/us/local/page_specific/home/left_nav_giftwrap.gif" alt="Gift Wrap"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Gift+Wrap+Accessories.html" onmouseover="rollover('LeftGift Wrap Accessories','/images/us/local/page_specific/home/left_nav_grwaccon.gif');" onmouseout="rollover('LeftGift Wrap Accessories','/images/us/local/page_specific/home/left_nav_gwracc.gif');"><img border="0" name="LeftGift Wrap Accessories" src="/images/us/local/page_specific/home/left_nav_gwracc.gif" alt="Gift Wrap Accessories"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Stationery.html" onmouseover="rollover('LeftStationery','/images/us/local/page_specific/home/laft_nav_stationeryon.gif');" onmouseout="rollover('LeftStationery','/images/us/local/page_specific/home/left_nav_stationery.gif');"><img border="0" name="LeftStationery" src="/images/us/local/page_specific/home/left_nav_stationery.gif" alt="Stationery"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Personalized+Specialties.html" onmouseover="rollover('LeftPersonalized Specialties','/images/us/local/page_specific/home/laft_nav_perspecaltieson.gif');" onmouseout="rollover('LeftPersonalized Specialties','/images/us/local/page_specific/home/left_nav_perspecialties.gif');"><img border="0" name="LeftPersonalized Specialties" src="/images/us/local/page_specific/home/left_nav_perspecialties.gif" alt="Personalized Specialties"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~For+Your+Home.html" onmouseover="rollover('LeftFor Your Home','/images/us/local/page_specific/home/left_nav_fyhomeon.gif');" onmouseout="rollover('LeftFor Your Home','/images/us/local/page_specific/home/left_nav_fyhome.gif');"><img border="0" name="LeftFor Your Home" src="/images/us/local/page_specific/home/left_nav_fyhome.gif" alt="For Your Home"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Home+Office.html" onmouseover="rollover('LeftHome Office','/images/us/local/page_specific/home/left_nav_hofficeon.gif');" onmouseout="rollover('LeftHome Office','/images/us/local/page_specific/home/left_nav_hoffice.gif');"><img border="0" name="LeftHome Office" src="/images/us/local/page_specific/home/left_nav_hoffice.gif" alt="Home Office"></a></div></td>
+						</tr>
+
+				
+              
+				
+					
+					
+						<tr> 
+							<td valign="top"><div><a href="http://www.currentcatalog.com/~Value+Packs.html" onmouseover="rollover('LeftValue Packs','/images/us/local/page_specific/home/left_nav_valuepon.gif');" onmouseout="rollover('LeftValue Packs','/images/us/local/page_specific/home/left_nav_valuep.gif');"><img border="0" name="LeftValue Packs" src="/images/us/local/page_specific/home/left_nav_valuep.gif" alt="Value Packs"></a></div></td>
+						</tr>
+
+				
+              
+
+</tbody></table></td>
+	
+		
+		<td class="navleftborder" width="1"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+		<td width="10" class="contentbg"><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+	  	<td width="569" class="contentbg" valign="top">
+     	
+      <div class="breadcrumb"><a href="/home.html">Home</a>&nbsp;&gt;&nbsp;<a href="/-Customer+Service.html">Customer Service</a></div>
+      <div><img src="/images/us/global/globalgraphics/spacer01.gif" width="569" height="10" border="0"></div>
+     
+	  <!-- Content Block Start -->
+
+
+<script language="JavaScript">
+function mySelection() {
+  var index = document.getElementById("subCatdd").selectedIndex;
+  //alert(document.getElementById("subCatdd").options[index].text); 
+  return document.getElementById("subCatdd").options[document.getElementById("subCatdd").selectedIndex].text;
+  
+}
+</script>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="569">
+<form></form>
+<tbody><tr>
+	<td><table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td><img src="/images/us/local/headers/main/customerservice_mhd.gif" border="0" alt="Customer Service"></td>
+		<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+		<td class="default"><select name="subCatdd" onchange="changeCat(this.form,this);return fc_click(document.getElementById('subCatdd').options[document.getElementById('subCatdd').selectedIndex].text,'ad');"><option value="/-Customer+Service-About+Us.html">About Us</option><option value="/-Customer+Service-Check+Information.html">Check Information</option><option value="/-Customer+Service-Contact+Us.html">Contact Us</option><option value="/-Customer+Service-FAQ%27s.html">FAQ's</option><option value="/-Customer+Service-Fundraiser+Program.html">Fundraiser Program</option><option value="/-Customer+Service-Large+Quantity+Discounts.html">Large Quantity Discounts</option><option value="https://www.currentcatalog.com/account/orderhistory/orderlisttrackingmain.jsp">Order Status</option><option value="/-Customer+Service-Privacy+%26+Security.html" selected="">Privacy &amp; Security</option><option value="/-Customer+Service-Shipping+Information.html">Shipping Information</option><option value="/-Customer+Service-Terms+of+Use.html">Terms of Use</option><option value="/-Customer+Service-Unconditional+Guarantee.html">Unconditional Guarantee</option><option value="https://www.currentcatalog.com/account/wishlist/selectwishlistmain.jsp?iContext=0&amp;iMode=1">Wishlist</option></select></td>
+	</tr>
+	</tbody></table></td>
+</tr>
+
+<tr>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="20" border="0"></td>
+</tr>
+<tr>
+	<td class="default"><strong>Privacy &amp; Security</strong><br><br>
+
+<strong>Privacy Policy</strong><br><br>
+
+At www.CurrentCatalog.com, we respect our customers and understand that you are concerned about privacy, so we have instituted policies intended to protect your personal information. The purpose of this privacy policy is to let you know what kind of information we collect, with whom it may be shared, what choices you have regarding our use of your information, and how you may review and change some of the data you provide to us. 
+<br><br>
+As we continue to develop our website and take advantage of technologies to improve the services we offer, this policy likely will change. We will not be notifying you directly but will post the changes here in the Privacy Policy. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. 
+<br><br>
+<strong>What Information Do We Collect?</strong><br>
+We collect various types of information depending upon how you use our site. The categories of information we collect are:
+<br>(1) Your first and last name
+<br>(2) A home or other physical address, including street names and 
+name of a city or town.
+<br>(3) Your email address.
+<br>(4) Your telephone number.
+<br>(5) Your credit card number and related information. 
+
+<br><br><strong>Do We Share Your Information?</strong>
+<br>The information gathered may be shared with corporate affiliates of www.CurrentCatalog.com. We also share the information with third parties, including responsible companies with which we have a relationship. For example:
+
+<br><br>Some of our vendors may work closely with us to create a vendor shop within the www.CurrentCatalog.com site or to ship your order directly to you. In certain instances, we may share certain information about you with that vendor (e.g., if you decide to buy their products).
+
+<br><br>You also may make a purchase from www.CurrentCatalog.com through a link from another website or search engine and may use their express checkout tool to do so. When you do, please be aware that both www.CurrentCatalog.com and that website or search engine will receive your information.
+
+<br><br>In some cases, www.CurrentCatalog.com may enter into a co-branding relationship with another website that offers you products or services that supplement www.CurrentCatalog.com's assortment (e.g., flowers). In those cases, you may link from www.CurrentCatalog.com to another site to purchase the item. In that case, both www.CurrentCatalog.com and the other website may receive your information. 
+
+<br><br>We may retain reliable third party companies to provide order fulfillment and customer service on our behalf and they will have access to your information.
+
+<br><br>www.CurrentCatalog.com may team with another website to conduct a sweepstakes or other event (e.g., a live web chat). In those cases, each of the participating websites may collect or receive personal information from you. 
+
+<br><br>For some of our products, www.CurrentCatalog.com may provide you with a link to the supplier of that product so that you may get further information. If you link to the supplier's site, the supplier may collect or receive information about you. 
+
+<br><br>Like other companies, www.CurrentCatalog.com may use an outside company to place its advertising banners or links on other sites or to permit other companies to place advertising on www.CurrentCatalog.com. In certain cases, the advertiser may collect information on people who click on the banner or link.
+
+<br><br>www.CurrentCatalog.com also may share your personal information with outside companies that perform services for www.CurrentCatalog.com. For example, we retain outside companies (i.e. Experian and Cheetah mail) to manage a database containing certain customer information or to create and distribute an email offering. In those situations, the outside party is performing work for www.CurrentCatalog.com, and www.CurrentCatalog.com takes appropriate steps designed to ensure your information is used only to provide the services requested by www.CurrentCatalog.com, and not for other purposes.
+
+<br><br>Additionally, www.CurrentCatalog.com may share account or other information when we believe it is necessary to comply with law or to protect our interests or property. This may include sharing information with other companies, lawyers, credit bureaus, agents, or government agencies in connection with issues related to fraud, credit, or debt collection.
+
+<br><br>And in the event that some or all of the business assets of www.CurrentCatalog.com are sold or transferred, we generally would transfer the corresponding information about our customers.
+
+<br><br>www.CurrentCatalog.com may share your personal information with unrelated outside companies so that they can directly market their products or services to you if we feel that a company offers products or services that we believe may be of interest. We also may provide you with the opportunity to sign up on our website to receive such email offers.
+
+<br><br><strong>Can I Review and Change My Information?</strong>
+<br>If you have questions about your order you may check your order status online by <a href="account/orderhistory/orderlisttrackingmain.jsp">clicking here</a>. 
+
+<br><br>If you would like to email our Customer Service Department, contact us at <a href="mailto:CurrentCustomerService@CurrentInc.com">CurrentCustomerService@CurrentInc.com</a>. 
+
+<br><br>Questions regarding your charge account can be forwarded to our Customer Service Department at <a href="mailto:CurrentCustomerService@CurrentInc.com">CurrentCustomerService@CurrentInc.com</a>. 
+
+<br><br><strong>What About Information About Children?</strong>
+The Children's Online Privacy Protection Act took effect imposes certain requirements on websites directed toward children under 13 that collect information on those children, or on websites that know they are collecting information on children under the age of 13. We want to let you know that it currently is www.CurrentCatalog.com's policy not to collect personal information on any person under 13.
+
+<br><br><strong>Your California Privacy Rights.</strong>
+<br>California Civil Code Section 1798.83 permits individual customers of CurrentCatalog.com who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to <a href="mailto:CurrentCustomerService@CurrentInc.com">CurrentCustomerService@CurrentInc.com</a> or write us: 
+
+<br><br>Current
+<br>P.O. Box 35710
+<br>Colorado Springs, CO 80935-3571
+
+<br><br>Thank you for shopping with www.CurrentCatalog.com. If you have any questions or comments about this policy, contact us at <a href="mailto:CurrentCustomerService@CurrentInc.com">CurrentCustomerService@CurrentInc.com</a> 
+ 
+<br><br><strong>Security</strong>
+
+<br><br>Is a credit card transaction of this type really safe from fraud? The short answer is "Yes." The long answer is... 
+
+<br><br>Most consumers do not realize that security protocols and technologies currently exist to protect them. Most of the reported credit card fraud over the Internet has involved people emailing their credit card account numbers to merchants, or websites accepting credit cards without using any security protocols. 
+
+<br><br>Such potentially insecure methods of data transmission are not used here at Current USA, Inc. We employ the latest in Internet security and electronic commerce security:
+
+<br><br><strong>Operating System Security. </strong>
+<br><br>The Current USA, Inc. online store operates under the Windows NT operating system. We have employed the strictest security (secure users, groups and passwords) offered by Microsoft©'s high-end operating system. 
+
+<br><br><strong>Database Security.</strong> 
+Current USA, Inc. gathers customers, products, and orders in databases. Those databases are secured with passwords set up at the table level. Even someone typing on the computer the database is stored on would have to know the database passwords to gain access to the information. 
+
+<br><br><strong>Encoded Credit Card Slips. </strong>
+Credit card transactions (or slips, as they are known in the banking industry) are encoded using the Secure Electronic Commerce (SET) standard pioneered by Visa and MasterCard. Even if someone were to intercept a transaction, they would not be able to gain access to the information. Credit card transactions are handled in real time between your credit card issuer and our bank. 
+
+<br><br><strong>SSL Server Certificate.</strong>
+Current USA Inc. uses an SSL server certificate. What's a server certificate? A company wanting to do business on the Worldwide Web must prove to a trusted third party, such as VeriSign Inc. or Thawte Consulting, that they really exist and have the right to use a particular domain name (Internet address). An SSL Certificate is then assigned to that business that authenticates their domain. 
+
+<br><br>When a customer uses a modern web browser (such as Netscape Navigator or Microsoft Internet Explorer), the browser can automatically check the business's authenticity. If the browser can't verify that VeriSign or Thawte vouches for the business, it will refuse to start an encrypted session, or at least pop up a window warning the customer that the browser can't determine authenticity. The encryption mechanism used for SSL certificates is so secure, the U.S. government prohibits its export outside the United States. 
+
+<br><br>So shopping with us at Current USA Inc. really is safe. In fact, it would be much easier for a thief to steal your credit card information from the carbon copy of a receipt than to intercept an online secure transaction at our website.
+<br>This policy is effective as of July 1, 2004.
+<br>Last revised on February 25, 2005.
+
+<br><br>©2006 Current USA, Inc.
+</td>
+</tr>
+</tbody></table>
+
+<!-- Content Block End -->
+	<div><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="20" border="0"></div></td>
+	<td width="10" class="contentbg" rowspan="2"><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="245" border="0"></td>	
+</tr><tr valign="top"><td class="footer2" colspan="5"><img src="/images/us/global/globalgraphics/spacer01.gif" border="0" width="754" height="11"></td></tr>
+<tr valign="bottom">
+	<td></td><td align="center" colspan="5" class="navfooterbg"><table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" border="0" height="10"></td></tr>
+<tr><td nowrap="" class="footer"><a href="http://www.currentcatalog.com/home.html">Home</a><img src="/images/us/global/globalgraphics/spacer01.gif" width="7" height="1" border="0">|<img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"><a href="http://www.currentcatalog.com/shopping/browse/merchants.jsp">Featured Merchants</a><img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0">|<img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"><a href="http://www.currentcatalog.com/-Tips.html">Tips</a><img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0">|<img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"><a href="http://www.currentcatalog.com/-Customer+Service-Contact+Us.html">Contact Us</a><img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0">|<img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"><a href="http://www.currentcatalog.com/-Customer+Service-Privacy+&amp;+Security.html">Privacy &amp; Security</a><img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0">|<img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"><a href="http://www.currentcatalog.com/content/sitemap/sitemapmain.jsp">Site Map</a><img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0">|<img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0">1-800-848-2848</td>    </tr>
+<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" border="0" height="15"></td></tr>
+<tr><td class="footer">© 1998, 2008 Current USA, Inc.</td></tr>
+<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" border="0" height="20"></td></tr>
+
+
+<tr><td><script src="https://seal.verisign.com/getseal?host_name=www.currentcatalog.com&amp;size=M&amp;use_flash=YES&amp;use_transparent=Yes&amp;lang=en"></script></td></tr>
+</tbody></table>
+<!-- Footer End -->
+<!-- MilonicDHTML -->
+<!-- Intelligent Reporting Support -->
+
+
+
+
+
+
+<!-- Intelligent Reporting Support End -->
+<!-- Jatin Added : Fireclick implementation-->
+<!-- Fireclick Netflame -->
+
+<!-- Fireclick Web Analytics - COPYRIGHT 1999-2005 - Please do not modify this code-->
+<script language="javascript">
+<!--
 function handle(){return true;}
 window.onerror=handle;
-var fc_host='currentcatalog.com'; 
+var fc_host='www.currentcatalog.com';
 document.write('<scr'+'ipt '
-+'src="'+((location.protocol=='http:')?'http://a644.g.akamai.net/f/644/67/3h/':'https://a248.e.akamai.net/f/248/67/3h/ssl-')
-+'hints.netflame.cc/service/sc'+'ript/'+fc_host+'"></scr'+'ipt>');
++'src="'+((location.protocol=='http:')?'http:':'https:')
++'//a248.e.akamai.net/f/248/5462/3h/hints.netflame.cc/service/sc'+'ript/'+fc_host+'"></scr'+'ipt>');
 function fcce(){if (typeof(fcnf)!="undefined") fcnf();}
 var fcfn=window.onload;
 function fcco(){window.setTimeout("fcce();", 100);fcfn();}
 window.onload= null==fcfn ? fcce:fcco;
-</script><script src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/currentcatalog.com"></script>
-<!-- Fireclick Netflame Web Analytics COPYRIGHT 1999-2004 - Please do not modify this code-->
+// -->
+</script><script src="https://a248.e.akamai.net/f/248/5462/3h/hints.netflame.cc/service/script/www.currentcatalog.com"></script>
+<!-- Fireclick Web Analytics - COPYRIGHT 1999-2005 - Please do not modify this code-->
+<!-- Fireclick Netflame -->
+</td>	<td></td>
+</tr>	
 
+</tbody></table>	
+<!-- Content Wrap End -->
 
 
 
