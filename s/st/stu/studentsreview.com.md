@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024053644id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530025139id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
 
-# College Reviews: StudentsReview : Over 51800 College Reviews! (3,156 schools reviewed)
+# College Reviews: StudentsReview : Over 60900 College Reviews! (3,156 schools reviewed)
 
   
    **Main**
