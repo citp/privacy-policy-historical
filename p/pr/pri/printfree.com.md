@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printfree.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201083158id_/http%3A//www.printfree.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfree.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530055518id_/http%3A//www.printfree.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,8 @@ to marketers, or anyone else.
 
 The only data we collect are common web access logs,   
 to help us analyze which areas of our site are visited the   
-most, which time of the day is busiest, and other broad information.
+most, which time of the day is busiest, and other broad information.  
+This helps us create useful content for you, our visitors. 
 
 Since we require no memberships, and conduct no monetary   
 transactions on this site, we do not offer secure encrypted pages. 
@@ -30,6 +31,11 @@ do use cookies for the simple purpose of identifying that you did in fact
 click through on an ad from our site, so that we will receive credit for the   
 click through or sale. These aren't the bad privacy invading cookies you   
 read about in the newspaper, and generally automatically expire, and take   
-very little space on your hard drive.
+very little space on your hard drive. 
+
+  To delete cookies, open the Internet Options dialogue under the tools menu.   
+Under browsing history click delete. This will open a dialogue that will enable   
+you to delete Temporary Internet files, cookies, history, form data and more.   
+For more detailed instructions, use the help section for your web browser. 
 
 Thank you for visiting, now you can relax and enjoy this site as it was intended!
