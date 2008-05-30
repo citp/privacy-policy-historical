@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the garden.org privacy policy that was archived on 2007-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070809014646id_/http%3A//www.garden.org/redirect.php%3Fq%3Dhttp%3A//assoc.garden.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garden.org privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530021914id_/http%3A//www.garden.org/redirect.php%3Fq%3Dhttp%3A//assoc.garden.org/privacy) for the most accurate reproduction.*
 
 # National Gardening Association :: About NGA
+
+About NGA
+
+[](http://grow.garden.org/index.php?page=video)
 
 [](https://web.archive.org/login/)
 
