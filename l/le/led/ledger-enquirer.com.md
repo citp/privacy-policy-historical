@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ledger-enquirer.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230021858id_/http%3A//www.ledger-enquirer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledger-enquirer.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530050139id_/http%3A//www.ledger-enquirer.com/privacy) for the most accurate reproduction.*
 
-# Ledger-Enquirer.com | Privacy Policy & Terms of Use
+# Ledger-Enquirer.com | Privacy Policy & Terms of Use |
 
 Effective June 27, 2006
 
@@ -95,3 +95,14 @@ We welcome you to our site. We ask that you review these Terms of Use, which are
 **6\. Modifications/ Termination.** The terms of this agreement will not be modified on an individual basis. You agree that we may modify the terms of this Agreement (or discontinue this site) in our sole discretion, without advance notice, and that your right to access this site is conditioned on an ongoing basis with your compliance with the then-current version of these Terms and Conditions. You should therefore visit this page frequently. 
 
 **7\. Jurisdiction.** This Web site is hosted on servers located in the United States and is intended to be viewed by residents of the United States. In the event of any dispute arising out of or relating to this site, you agree that the exclusive venue for litigating disputes shall be in state or federal court in San Jose, California.
+
+**8\. COPYRIGHTS**  
+If you believe that ledger-enquirer.com or any user of ledger-enquirer.com has infringed your copyright in any material way, please notify our Copyright Agent and provide the following information:  
+1\. An identification of the copyrighted work that you claim has been infringed.   
+2\. An identification of the material on ledger-enquirer.com that you claim is infringing or is subject to infringing activity, with enough detail so that we can locate the material on our site.   
+3\. Your name, address, telephone number and e-mail address.  
+4\. A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent or the law.   
+5\. A statement by you declaring that the above information in your Notice is accurate, made under penalty of perjury, and that you are authorized to act on behalf of the owner of the copyright interest involved.   
+6\. Your physical or electronic signature. 
+
+The Copyright Agent for ledger-enquirer.com is Karole Morgan-Prager, General Counsel, who can be reached at 2100 Q Street, Sacramento, CA 95816 , or at kmorgan-prager@mcclatchy.com or at 916-321-1828
