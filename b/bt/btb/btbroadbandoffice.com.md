@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btbroadbandoffice.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630194153id_/http%3A//www2.btbroadbandoffice.com/adhoc.aspx%3Fid%3D338163) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btbroadbandoffice.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530024212id_/http%3A//www2.btbroadbandoffice.com/adhoc.aspx%3Fid%3D338163) for the most accurate reproduction.*
 
 # Privacy Policy
 
