@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motionbased.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201134208id_/http%3A//www.motionbased.com/misc/view.mb%3Ftile%3Dmisc.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motionbased.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531013051id_/http%3A//www.motionbased.com/misc/view.mb%3Ftile%3Dmisc.privacy) for the most accurate reproduction.*
 
 # MotionBased | General
 
