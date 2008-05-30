@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the fxtrek.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211024042id_/http%3A//www.fxtrek.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxtrek.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530205028id_/http%3A//www.fxtrek.com/Home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy -- FXtrek.com
 
 _**Voluntary Submissions**_  
-FXtrek.com’s registration form asks users to voluntarily provide us with contact information such as street address, e-mail, telephone number, as well as demographic information. The mailing address and credit card numbers are required only for FXtrek subscribers for credit card processing purposes, and NO secondary correspondences will be sent to them via US mail. We use the information to help us improve our services, to provide you with products and services you have requested, and to inform you about additional products or services that may be of interest to you (see the E-mail Communications section). We will not disclose or share the information with any third party without your permission. Users may opt-out of receiving future e-mails (see the choice/opt-out section below). 
+FXtrek.com's registration form asks users to voluntarily provide us with contact information such as street address, e-mail, telephone number, as well as demographic information. The mailing address and credit card numbers are required only for FXtrek subscribers for credit card processing purposes, and NO secondary correspondences will be sent to them via US mail. We use the information to help us improve our services, to provide you with products and services you have requested, and to inform you about additional products or services that may be of interest to you (see the E-mail Communications section). We will not disclose or share the information with any third party without your permission. Users may opt-out of receiving future e-mails (see the choice/opt-out section below). 
 
-Our online surveys ask visitors for financial information and demographic information (like their age, or income level). This information is used on an aggregate basis only. Complying with the recently passed Children’s Online Privacy Protection Act (COPPA), we do not collect personal information for children under 13. For details of COPPA, please visit <http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm> and  
+Our online surveys ask visitors for financial information and demographic information (like their age, or income level). This information is used on an aggregate basis only. Complying with the recently passed Children's Online Privacy Protection Act (COPPA), we do not collect personal information for children under 13. For details of COPPA, please visit <http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm> and  
 <http://www.ftc.gov/opa/1999/9910/childfinal.htm>
 
 _**Cookies**_  
@@ -43,4 +43,4 @@ _**Notification of Change on Privacy Policy**_
 This Privacy Policy might be modified from time to time. In the case that we plan to use the information collected from the user differently from that stated at the time of collection, we will post appropriate notice at our web-site or send e-mails to the affected users, so they will have the opportunity to opt-out. 
 
 _**Contacting the Website**_  
-If you wish to learn more about FXtrek.com’s efforts to protect your privacy, please feel free to send questions and comments to: [info@FXtrek.com](mailto:info@FXtrek.com)
+If you wish to learn more about FXtrek.com's efforts to protect your privacy, please feel free to send questions and comments to: [info@FXtrek.com](mailto:info@FXtrek.com)
