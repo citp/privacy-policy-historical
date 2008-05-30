@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229205335id_/http%3A//www.next.co.uk/Help/WinHelpSC.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530032924id_/http%3A//www.next.co.uk/help/WinHelpSC.asp%3FLID%3D01_99_02) for the most accurate reproduction.*
 
 # NEXT Directory Online : Privacy Policy
 
