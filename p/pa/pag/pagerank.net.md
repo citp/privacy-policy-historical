@@ -1,23 +1,35 @@
-> *The following text is extracted and transformed from the pagerank.net privacy policy that was archived on 2005-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050713010301id_/http%3A//www.pagerank.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagerank.net privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530064115id_/http%3A//www.pagerank.net/privacy-policy) for the most accurate reproduction.*
 
-# PageRank - Privacy Policy
+# PageRank » Privacy Policy
 
-**PageRank** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website: [PageRank.net](http://www.pagerank.net/ "pagerank"). 
+PageRank.net has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website: <http://www.pagerank.net/>.
 
-**Information Logged**  
-We use your IP address to help increase efficiency, diagnose possible problems with our servers, and to administer our Web site. Your IP address is used to gather broad demographic information. 
+ **Information Logged**  
+We use your IP address to help increase efficiency, diagnose possible problems with our servers, and to administer our Web site. Your IP address is used to gather broad demographic information.
 
-**Advertisers**  
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we may use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+ **Third Party Advertising**  
+We may use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-**Personal Information**  
-This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted unless you explicitly input such information when submitting a review. Individual responses are not kept on file, and none of this information is sold to anyone outside the site. At no time is personal information collected without explicit consent. 
+ **Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
-**External Links**  
-This site contains links to other sites. Webmaster Scene is not responsible for the privacy practices or the content of such Web sites. 
+ **Personal Information**  
+This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted unless you explicitly input such information when submitting a review. Individual responses are not kept on file, and none of this information is sold to anyone outside the site. At no time is personal information collected without explicit consent.
 
-**Security**  
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
+ **External Links**  
+This site contains links to other sites. PageRank.net is not responsible for the privacy practices or the content of such Web sites.
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the [webmaster](http://www.pagerank.net/contact.php "contact pagerank").
+ **Security**  
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+
+ **Contacting the Web Site**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the [webmaster](http://www.pagerank.net/contact/ "search engine optimization company").
+
+[](http://www.blackwoodproductions.com/ "Search Engine Marketing")
+
+[](http://www.brickmarketing.com/ "Website Marketing")
+
+[Link Building](http://www.linkbuilderspro.com/ "Link Building") \- Professional link building services. Relevant links will increase your natural search engine rankings.
+
+[](http://www.pagerank.net/ "Search Engine Optimization")  
+Display Your [PageRank](http://www.pagerank.net/display-pagerank/ "PageRank") on Your Website Now!
