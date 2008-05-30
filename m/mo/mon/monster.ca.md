@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monster.ca privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228093708id_/http%3A//about.monster.ca/9936_en-CA_p1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.ca privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530070902id_/http%3A//about.monster.ca/9936_en-CA_p1.asp) for the most accurate reproduction.*
 
 # Monster.ca - Privacy Statement
 
