@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the cesarmillaninc.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016211050id_/http%3A//www.cesarmillaninc.com/products/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesarmillaninc.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531013252id_/http%3A//www.cesarmillaninc.com/contact/privacy.php) for the most accurate reproduction.*
 
 # Cesar Millan - Privacy Policy
 
-CESARMILLANINC.COM  
-Privacy Policy  
 Last Updated: 8/23/2007
 
 CesarMillanInc.com (“the Website”) is controlled and operated by Cesar Millan, Inc. (“CMI”), a privately held company located in Burbank, CA, USA. Your personal privacy is very important to us. By using the Website, you consent to the terms and conditions outlined in this Privacy Policy. 
@@ -23,7 +21,7 @@ CMI also obtains the name and e-mail address as well as other non-personally ide
 
 **_Use and Sharing of Information_**  
 We of course will use your personally identifiable information to charge or debit your accounts in payment for your purchases.  We will forward certain of your personally identifiable information to fulfillment houses, delivery services and other third parties who manufacture, distribute or otherwise provide the products that you purchase from CMI, as needed for the processing or delivery of your orders.  
-We do not currently sell, rent or exchange your personally identifiable information to or with any third parties. 
+We do not sell, rent or exchange your personally identifiable information to or with any third parties. 
 
 **_Non-Personally Identifiable Information_**  
 We may collect, create and share with third parties aggregated demographic and statistical information concerning both our customers and subscribers to our CMI newsletter.  This information does not reveal any personal information that can be identified with any particular customer.
@@ -51,12 +49,11 @@ If you suspect that you may have been a victim of fraud, we highly recommend you
 
 Your online security can be jeopardized as a result of tactics employed by third parties who try to deceive customers of legitimate commercial sites such as ours into revealing their personal information to the perpetrators for the purpose of fraud and theft.  These tactics, often referred to as “physhing,” may occur through two common methods:
 
-  * _False or “spoofed” sites_.  You may receive a fraudulent e-mail directing you to a “new,” fraudulent CMI website, or you may follow a link from a third party site to a “new,” fraudulent CMI website, or you may click on fraudulent entries that may appear from time to time on legitimate search engines.
-  * _Forged or fraudulent e-mail_.  You may receive a fraudulent e-mail that purports to have been sent by CMI or other perfectly legitimate e-commerce sites.  These e-mails seek personally identifiable information from you.  These e-mails often pretend to “update” your account information or claim that there is an amount in dispute or use similar pretexts, all intended to induce you to divulge your personal information, particularly credit card information or your date of birth and social security number (which can be used to create “identity theft”).
+  * _**False or “spoofed” sites**_ **.**   You may receive a fraudulent e-mail directing you to a “new,” fraudulent CMI website, or you may follow a link from a third party site to a “new,” fraudulent CMI website, or you may click on fraudulent entries that may appear from time to time on legitimate search engines.
+  
+
+  * _**Forged or fraudulent e-mail**_ **.**   You may receive a fraudulent e-mail that purports to have been sent by CMI or other perfectly legitimate e-commerce sites.  These e-mails seek personally identifiable information from you.  These e-mails often pretend to “update” your account information or claim that there is an amount in dispute or use similar pretexts, all intended to induce you to divulge your personal information, particularly credit card information or your date of birth and social security number (which can be used to create “identity theft”).
 
 
 
 If you suspect that you have been subjected to any of these kinds of activities, you also should contact the Federal Trade Commission at _[**www.ftc.gov**](http://www.ftc.gov/)_ or phone 1-877-FTC-HELP.
-
-  
-
