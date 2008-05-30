@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kohler.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205170420id_/http%3A//www.kohler.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kohler.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530043949id_/http%3A//www.kohler.com/corp/privacy.html) for the most accurate reproduction.*
 
-# Kohler Co.
+# KOHLER Co. - Privacy Statement
 
-  **Privacy Statement for Kohler Co.**
+##  Privacy Statement 
 
 Kohler has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this Web site ( _http://www.kohler.com_ ). Please note that when you access any external links from _kohler.com_ (including any Kohler subsidiary sites), they may have different privacy policies specific to those sites. We encourage you to read all applicable privacy policies.
 
@@ -12,12 +12,12 @@ When you visit our Web site, you may provide us with two types of information: p
 
 > **_Information You Voluntarily Submit._** We collect and store any information you enter on our Web site, or provide to us in offline contacts we have with you. Information is collected from visitors to the Web site in the following areas: 
 > 
->   * **REGISTRATION FORMS** \- If you register for the Web site, or for specific events, contests and newsletters on various areas of the Web site, we will generally ask you to provide contact information, and preferences regarding the event or material for which you desire to register. You may, however, visit our Web site without registering.
->   * **ORDER FORMS** \- Some areas of the Web site may allow you to order products or services, whether or not for a fee. In connection with these transactions, we collect data necessary to complete the transaction and that is furnished by you. This may include contact information, date of birth, e-mail address, telephone number and your credit card number. We may also collect information about gift recipients so that we can fulfill the gift purchase.
->   * **SURVEYS** \- At times, you may be asked to complete survey questions that appear on the Web site.
->   * **EMPLOYMENT APPLICATIONS** \- You may submit information related to job opportunities with Kohler Co. Please note that you submission of pre-employment information may be further governed by specific provisions that appear on the Job Opportunities section of our Web site.
->   * **DISCUSSION FORUMS** \- We may make chat rooms, forums, message boards, and/or news groups available to our users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
->   * **E-MAIL** \- On several screens of our site, you also have an opportunity to communicate with us by E-mail. You may also choose to provide your e-mail address to receive communications from us or third parties.
+>   * **REGISTRATION FORMS** \- If you register for the Web site, or for specific events, contests and newsletters on various areas of the Web site, we will generally ask you to provide contact information, and preferences regarding the event or material for which you desire to register. You may, however, visit our Web site without registering. 
+>   * **ORDER FORMS** \- Some areas of the Web site may allow you to order products or services, whether or not for a fee. In connection with these transactions, we collect data necessary to complete the transaction and that is furnished by you. This may include contact information, date of birth, e-mail address, telephone number and your credit card number. We may also collect information about gift recipients so that we can fulfill the gift purchase. 
+>   * **SURVEYS** \- At times, you may be asked to complete survey questions that appear on the Web site. 
+>   * **EMPLOYMENT APPLICATIONS** \- You may submit information related to job opportunities with Kohler Co. Please note that you submission of pre-employment information may be further governed by specific provisions that appear on the Job Opportunities section of our Web site. 
+>   * **DISCUSSION FORUMS** \- We may make chat rooms, forums, message boards, and/or news groups available to our users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+>   * **E-MAIL** \- On several screens of our site, you also have an opportunity to communicate with us by E-mail. You may also choose to provide your e-mail address to receive communications from us or third parties. 
 > 
 **_Information Collected and Stored Automatically._** When you browse our Web site, you and your Web browser may also transmit information that we automatically collect. We do log your IP address (the Internet address of your computer), the Web pages you visit and the time of your visit, and other click-stream data. This information may be combined with other personal information you have provided. The only other type of information automatically provided to us is the type of computer, operating system and browser you are using. This information is provided by your browser, which we use to improve the performance of our site. 
 > 
@@ -27,13 +27,15 @@ When you visit our Web site, you may provide us with two types of information: p
 
 We use your personal information to communicate with you if and when necessary in connection with your use of our Web site, to respond to your questions, or to send you material and information you request. We may use your information to:
 
-  * Personalize your site experience and to allow us to deliver the type of content and product information in which you are most interested.
-  * Consider your suggestions
-  * Possibly respond directly to you for clarification
-  * Process your request for materials if you make one
-  * Try to and answer your questions if you ask them
-  * Register you for an event, contest or sweepstakes, if you request it
-  * Provide you with e-mail messages and other information regarding upcoming events, new services and general information about our products and services. (NOTE: You may elect not to receive these communications, either when you initially register at our site, or at any time thereafter. See the section of this Privacy Statement called "Choice/Opt Out.")
+  * Personalize your site experience and to allow us to deliver the type of content and product information in which you are most interested. 
+  * Consider your suggestions 
+  * Possibly respond directly to you for clarification 
+  * Process your request for materials if you make one 
+  * Try to and answer your questions if you ask them 
+  * Register you for an event, contest or sweepstakes, if you request it 
+  * Provide you with e-mail messages and other information regarding upcoming events, new services and general information about our products and services. (NOTE: You may elect not to receive these communications, either when you initially register at our site, or at any time thereafter. See the section of this Privacy Statement called "Choice/Opt Out.") 
+
+
 
 We may also use your Web site information in order to help diagnose problems with our site. We may use all information we collect to analyze statistical use patterns and demographic data (basically, where our visitors come from and what demographic characteristics they have) and to improve our site to better serve our customers. We use your IP address to help diagnose problems with our servers, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. We may also prepare and keep statistical records and other data about you and other users of our site, but we do that in a way that does not identify you or any other user personally. We may hire third parties to help us collect and analyze such data, and we may share such statistical data with third parties. Again, such statistical data will not specifically identify you or any other user. We use this information to help us make our Web site more useful to visitors -- to learn about the number of visitors to our Web site, what part of the Web site they are interested in, how long the use the Web site, and the types of technology our visitors use. 
 
@@ -67,6 +69,8 @@ Kohler Co.
 M/S 019  
 444 Highland Drive  
 Kohler, WI 53044  
+
+
 
 
 
