@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamhsc.edu privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228034157id_/http%3A//www.tamhsc.edu/web/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamhsc.edu privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530132231id_/http%3A//www.tamhsc.edu/web/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Texas A&M Health Science Center
 
@@ -42,8 +42,4 @@ SERVER LOG INFORMATION: The following information may be collected from server l
 
 ## Security Policy
 
-See the [HSC Policy on the Security of Information Resources](https://web.archive.org/web/20071228034157id_/http%3A//www.tamhsc.edu/facultystaff/rules/249999z1.html) for more information.
-
-## Open Records Policy
-
-The Health Science Center is an institution of The Texas A&M University System. As such, it is bound by all of the Policies and Regulations of the A&M System. [Regulation 61.01.02](http://sago.tamu.edu/policy/61-01-02.htm), revised in March 2000, states all procedures and applications of the Texas Open Records Act for all institutions of the A&M System. As this Regulation is comprehensive and instructive in nature regarding the Act, it is unnecessary at this time to duplicate this Regulation in the form of a Rule for the Health Science Center. A link to the A&M System Policies and Regulations website is provided on the Health Science Center's homepage, and this site has a user-friendly search function for key words.
+See the [HSC Policy on the Security of Information Resources](https://web.archive.org/web/20080530132231id_/http%3A//www.tamhsc.edu/facultystaff/rules/249999z1.html) for more information.
