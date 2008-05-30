@@ -1,21 +1,17 @@
-> *The following text is extracted and transformed from the celebrity-sunglasses-finder.com privacy policy that was archived on 2007-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071130132053id_/http%3A//www.celebrity-sunglasses-finder.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrity-sunglasses-finder.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530083029id_/http%3A//www.celebrity-sunglasses-finder.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Celebrity Sunglasses Finder
 
 **  
 CELEBRITY-SUNGLASSES-FINDER.COM  
-**
+** Welcome to Celebrity-Sunglasses-Finder.com (the "Site").
 
-## **PRIVACY POLICY**
-
-Welcome to Celebrity-Sunglasses-Finder.com (the "Site").
-
-We understand that privacy online is important to users of our Site, especially when conducting business.   
+We understand that privacy on-line is important to users of our Site, especially when conducting business.   
 This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without   
 transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Celebrity-Sunglasses-Finder.com (collectively, "Services") ("Authorized Customers").
 
 **"Personally Identifiable Information"**   
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
+Refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
 or demographic information not connected to an identified individual.
 
 **What Personally Identifiable Information is collected?**  
@@ -34,7 +30,7 @@ Personally Identifiable Information about Authorized Customers may be shared wit
 Personally Identifiable Information collected by Celebrity-Sunglasses-Finder.com is securely stored and is not accessible to third parties or employees of Celebrity-Sunglasses-Finder.com except for use as indicated above. 
 
 **What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [csf0909@gmail.com](mailto:csf0909@gmail.com)
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [admin@celebrity-sunglasses-finder.com](mailto:admin@celebrity-sunglasses-finder.com)
 
 **Are Cookies Used on the Site?**  
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
@@ -55,10 +51,10 @@ Disclosure of Personally Identifiable Information to comply with law. We will di
 All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
 
 **How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [csf0909@gmail.com](mailto:csf0909@gmail.com)
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [admin@celebrity-sunglasses-finder.com](mailto:admin@celebrity-sunglasses-finder.com)
 
 **Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [csf0909@gmail.com](mailto:csf0909@gmail.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [admin@celebrity-sunglasses-finder.com](mailto:admin@celebrity-sunglasses-finder.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
 
 **What happens if the Privacy Policy Changes?**  
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
@@ -67,6 +63,6 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
-© 2007 **Celebrity-Sunglasses-Finder.com** , All rights reserved.  
+© 2007-2008 **Celebrity-Sunglasses-Finder.com** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.  
 
