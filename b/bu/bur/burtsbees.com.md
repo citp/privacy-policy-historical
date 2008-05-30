@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225235614id_/http%3A//www.burtsbees.com/webapp/wcs/stores/servlet/UtilityView%3FcontentPageId%3D79%26catalogId%3D10051%26storeId%3D10001%26langId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530105317id_/http%3A//www.burtsbees.com/webapp/wcs/stores/servlet/UtilityView%3FcontentPageId%3D79%26storeId%3D10001%26catalogId%3D10051%26langId%3D-1) for the most accurate reproduction.*
 
 # Privacy & Security - Burt's Bees
 
