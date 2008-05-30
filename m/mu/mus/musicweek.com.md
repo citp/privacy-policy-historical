@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicweek.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201071513id_/http%3A//www.musicweek.com/hybrid.asp%3FtypeCode%3D8%26pubCode%3D1%26navcode%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicweek.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530073304id_/http%3A//www.musicweek.com/hybrid.asp%3FtypeCode%3D8%26pubCode%3D1%26navcode%3D54) for the most accurate reproduction.*
 
 # Music Week
 
