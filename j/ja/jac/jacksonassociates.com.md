@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacksonassociates.com privacy policy that was archived on 2007-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071108234233id_/http%3A//www.jacksonassociates.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonassociates.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530123318id_/http%3A//www.jacksonassociates.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Jackson Associates - Atlanta Marketing Research - Focus Groups
 
