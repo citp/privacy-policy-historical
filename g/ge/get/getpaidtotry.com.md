@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpaidtotry.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217034351id_/http%3A//www.getpaidtotry.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidtotry.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531184016id_/http%3A//www.getpaidtotry.com/privacy.php) for the most accurate reproduction.*
 
 # GetPaidToTry | Privacy Policy
 
