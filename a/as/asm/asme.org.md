@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230141858id_/http%3A//www.asme.org/terms/Privacy_Security_Statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531073820id_/http%3A//www.asme.org/terms/Privacy_Security_Statement.cfm) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Terms
 
-**The American Society of Mechanical Engineers (“ASME,” “we” or “us”) last amended this Privacy and Security Statement on December 22, 2006.**
+**The American Society of Mechanical Engineers (“ASME,” “we” or “us”) last amended this Privacy and Security Statement on April 4, 2008.**
 
 The American Society of Mechanical Engineers has established this web site (“Our Site”) to provide information to the public, facilitate communication among the engineering community, including ASME members, and offer for sale our goods and services.  This privacy and security statement ("Statement") describes how ASME collects and uses information from visitors to Our Site, including ASME members.
 
@@ -77,7 +77,7 @@ Your Data is used for the purposes for which you give it to us and other purpose
 
   * To fulfill your order for membership or goods or services 
   * To solicit new members 
-  * To permit you to participate in ASME Communities of Practice 
+  * To permit you to participate in ASME PeerlinkSM (formerly Communities of Practice) 
   * To facilitate your organizational role for or attendance at an ASME-sponsored conference or other event 
   * To process registrations for events, courses and other ASME activities 
   * To conduct surveys and polls 
@@ -121,9 +121,9 @@ We may disclose and use Your Data in special circumstances where it is necessary
 
 Except as otherwise set forth in this Statement, ASME will not share your email address with any third party other than our Service Providers; we use email addresses for internal purposes and to promote efficient communications between ASME and its members and customers. 
 
-**ASME Communities of Practice**
+**ASME Peerlink (formerly Communities of Practice)**
 
-ASME Communities of Practice (ASME CoP) is an online interactive communications tool that links engineers to resources, news, and solutions and ideas from peers.  Access to the ASME CoP is open to both members and non-members of ASME and is contingent on your registration in this section of Our Site.  As part of the registration process, you will be asked to consent to the Rules and Conditions for ASME CoP, which contain supplemental terms governing your use of ASME CoP and treatment of Your Data.  If you wish to view the ASME CoP Rules and Conditions, please [click here](https://cop.asme.org/COP/Public/Login/UserAgreement.fusion "COP Terms of Use and Conditions").
+ASME Peerlink (formerly Communities of Practice) is an online interactive communications tool that links engineers to resources, news, and solutions and ideas from peers.  Access to the ASME Peerlink (formerly Communities of Practice) is open to both members and non-members of ASME and is contingent on your registration in this section of Our Site.  As part of the registration process, you will be asked to consent to the Rules and Conditions for ASME Peerlink (formerly Communities of Practice), which contain supplemental terms governing your use of ASME Peerlink (formerly Communities of Practice) and treatment of Your Data.  If you wish to view the ASME Peerlink (formerly Communities of Practice) Rules and Conditions, please [click here](http://peerlink.asme.org/COP/Public/Login/UsageAgreement.fusion?DisplayOnly=1 "Peerlink Rules of Use").
 
 **Protection of Children Under Age 13**
 
