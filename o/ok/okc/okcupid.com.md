@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the okcupid.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013020622id_/http%3A//www.okcupid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcupid.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531150823id_/http%3A//www.okcupid.com/privacy) for the most accurate reproduction.*
 
-# OkCupid! Privacy Policy
+# OkCupid.com: Privacy Policy
 
 This policy is effective as of December 13, 2006.
 
@@ -33,19 +33,19 @@ Back to Top
 Back to Top
   4. ## Sharing Your Information with Third Parties
 
-    1. We may share your information with third parties, including companies with which we have a relationship. For example and without limitation: 
+    1. We may share demographic information with third parties, including companies with which we have a relationship. For example and without limitation: 
 
       1. We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as directing and displaying specific advertisements on the Web Site. In connection with these offerings and business operations, our service providers may have access to your personal information for use in connection with these business activities.
 
       2. We may be required to disclose customer information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. Additionally, we may share account or other information when we believe it is necessary to comply with law or to protect our interests or property. This may include sharing information with other companies, lawyers, agents or government agencies.
 
-      3. We may share information with advertisers.
+      3. If the ownership of all or substantially all of the OkCupid business or assets were to change, your user information would likely be transferred to the new owner(s).
 
-      4. If the ownership of all or substantially all of the OkCupid business or assets were to change, your user information would likely be transferred to the new owner(s).
+      4. We may share with, or disclose or sell to, third parties aggregated information which does not reference individually identifiable users.
 
-      5. We may share with, or disclose or sell to, third parties aggregated information which does not reference individually identifiable users.
+    2. We will not sell contact information to third parties.
 
-    2. If you do not want to receive promotional email from OkCupid and/or do not want us to share your information with third parties for marketing purposes, please submit a request by emailing us at [privacy@okcupid.com](mailto:privacy@okcupid.com).. We will make reasonable efforts to implement any choice you make as soon as possible; provided, however, OkCupid reserves the right to send you certain communications relating to the OkCupid service, such as service announcements and administrative messages without offering you the opportunity to opt out of receiving them.
+    3. If you do not want to receive promotional email from OkCupid and/or do not want us to share your information with third parties for marketing purposes, please submit a request by emailing us at [privacy@okcupid.com](mailto:privacy@okcupid.com).. We will make reasonable efforts to implement any choice you make as soon as possible; provided, however, OkCupid reserves the right to send you certain communications relating to the OkCupid service, such as service announcements and administrative messages without offering you the opportunity to opt out of receiving them.
 
 Back to Top
   5. ## Links
