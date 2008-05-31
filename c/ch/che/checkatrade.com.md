@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217064730id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531021010id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Checkatrade : Privacy Policy
 
-Trade Appraisal Line  
 0845 408 4866
 
 [](https://web.archive.org/)
 
 [Home](https://web.archive.org/) | [For  
 Consumers](https://web.archive.org/Consumer/) | [For  
-Trades](https://web.archive.org/Trade/) | [Contact  
-Checkatrade](https://web.archive.org/Contact/) | [**Your experience counts!**  
-Tell us about Tradesmen you would be happy to recommend to others.](https://web.archive.org/Feedback.aspx?a=recommend) | [**Your experience counts!**  
-Warn others if you have encountered rogue Tradesmen.](https://web.archive.org/Feedback.aspx?a=warn)  
+Trades](https://web.archive.org/Trade/) | [More from  
+Checkatrade](https://web.archive.org/Company/) |  | [](https://web.archive.org/Feedback)  
 ---|---|---|---|---|---  
   
 ## Privacy Policy
