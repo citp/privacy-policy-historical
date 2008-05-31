@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyp.org privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201132439id_/http%3A//www.nyp.org/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyp.org privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531090643id_/http%3A//www.nyp.org/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Notice - New York Presbyterian Hospital
 
@@ -6,11 +6,12 @@
 
 This notice describes how medical information about you may be used and disclosed and how you can get access to this information. **_Please review it carefully_**.
 
-##### Effective Date: April 14, 2003
+##### This notice went into effect  
+on April 14, 2003.
 
 #### Who will follow this notice
 
-We may use your medical information for treatment, payment, hospital operations, research or fundraising purposes as described in this notice. All employees of NewYork-Presbyterian Hospital follow these privacy practices. The physicians on our medical staff, who are on the faculty of Columbia University Health Sciences or Weill Medical College of Cornell, will also follow this notice when they work at the hospital.
+We may use your medical information for treatment, payment, hospital operations, research or fundraising purposes as described in this notice. All employees of NewYork-Presbyterian Hospital follow these privacy practices. The physicians on our medical staff, who are on the faculty of Columbia University College of Physicians and Surgeons or Weill Cornell Medical College, will also follow this notice when they work at the hospital.
 
 #### About this notice
 
