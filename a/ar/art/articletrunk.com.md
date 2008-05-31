@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the articletrunk.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212132747id_/http%3A//www.articletrunk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articletrunk.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531175743id_/http%3A//www.articletrunk.com/privacy.php) for the most accurate reproduction.*
 
 # The Article Trunk
 
 **The ARTICLE Trunk**
 
 **Privacy Statement**
-
-Our postal address is located in California  
-We can be reached via a support ticket at:  [Support Desk](http://www.gailmetcalf.com/support/)   
-or you can reach us toll-free at 800.908.8735
 
 This Policy is effective on 2/16/2006
 
