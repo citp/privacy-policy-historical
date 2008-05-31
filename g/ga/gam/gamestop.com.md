@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamestop.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205134235id_/http%3A//www.gamestop.com/gs/help/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestop.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531052848id_/http%3A//www.gamestop.com./gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Gamestop.com - Help Desk
+# Gamestop.com - Buy New and Used Games
 
 Last updated: January 9, 2007
 
@@ -88,7 +88,7 @@ Gamestop.com Customer Service
 625 Westport Parkway  
 Grapevine, TX 76051
 
-  3. 3\. Calling the following telephone number: 1-800-883-8895
+  3. Calling the following telephone number: 1-800-883-8895
 
 
 
@@ -118,4 +118,4 @@ As is the case with any business, our business changes over time, and our privac
 
 **Related Practices and Information**
 
-Terms and Conditions of Use may be found by [clicking here.](https://web.archive.org/gs/help/disclaimer.asp)
+Terms and Conditions of Use may be found by [clicking here.](https://web.archive.org/gs/help/disclaimer.aspx)
