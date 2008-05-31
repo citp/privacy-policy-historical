@@ -1,8 +1,20 @@
-> *The following text is extracted and transformed from the weddepot.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028183242id_/http%3A//www.weddepot.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddepot.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531144925id_/http%3A//www.weddepot.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WedDepot.com
 
+Please read this Privacy Policy (this "Policy") carefully before using WedDepot.com (the "Website"). By accessing, browsing and using the Website, you acknowledge that you have read and understood this Policy. This Policy applies for your use of the Website only; should you follow a link on the Website to another website, you are no longer covered by this Policy. 
+
+**Privacy Policy:**
+
+WedDepot.com reserves the right to make changes to any part of this Policy in its sole discretion, at any time and without prior notice. Continued use of the Website following any such change will constitute acceptance of such changes. 
+
 WedDepot.com respects your privacy. Across our business, around the world, we will only collect, store and use your personal information for defined purposes. We use your information to support and enhance our relationship with you, for example, to process your requests, provide service and support, and share product, service and company news and offerings with you. We do not sell your personal information. We only share your personal data outside the WedDepot.com family of companies with your consent or with companies that help WedDepot.com fulfill its obligations with you, and then only with partners who share WedDepot.com's commitment to protecting your privacy and data. At any time you may contact WedDepot.com with any privacy questions or concerns you may have. You also may ask at any time to see the data you have given us and request correction or deletion. Our goal is to ensure the highest levels of security and confidentiality. 
+
+A SPECIAL NOTE ABOUT PERSONS UNDER AGE 18. Persons under the age of 18 are not eligible to use any services on the Website 
+
+OTHER LIMITATIONS. While WedDepot.com takes reasonable steps to safeguard and to prevent unauthorized access to your information, WedDepot.com cannot be responsible for the acts of those who gain unauthorized access, and WedDepot.com makes no warranty, express, implied, or otherwise, that WedDepot.com will prevent unauthorized access to your private information. IN NO EVENT SHALL WedDepot.com BE LIABLE FOR ANY DAMAGES (WHETHER CONSEQUENTIAL, DIRECT, INCIDENTAL, INDIRECT, PUNITIVE, SPECIAL OR OTHERWISE) ARISING OUT OF, OR IN ANY WAY CONNECTED WITH, A THIRD PARTY'S UNAUTHORIZED ACCESS TO YOUR INFORMATION, REGARDLESS OF WHETHER SUCH DAMAGES ARE BASED ON CONTRACT, STRICT LIABILITY, TORT OR OTHER THEORIES OF LIABILITY, AND ALSO REGARDLESS OF WHETHER WedDepot.com WAS GIVEN ACTUAL OR CONSTRUCTIVE NOTICE THAT DAMAGES WERE POSSIBLE. 
+
+INTERNATIONAL USERS-APPLICABLE LAW. WedDepot.com collects, processes, stores, discloses and disposes of personal information that you submit to us in accordance with applicable United States law. Please note that the personal information you submit to WedDepot.com will be transferred to the United States to be processed by WedDepot.com in order to provide the Website and its services to you or for such other purposes as set forth in this Policy. If you are not a resident of the United States, you acknowledge and agree that WedDepot.com may collect and use your personal information, as discussed in this Policy, outside your resident jurisdiction. In addition, WedDepot.com may store such personal information in the United States, outside your resident jurisdiction. Please be aware that United States law may offer different levels of protection for personal information than may be available in your country. 
 
 **Privacy and Data Security**
 
