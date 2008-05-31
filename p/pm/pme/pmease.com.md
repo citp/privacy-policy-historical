@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmease.com privacy policy that was archived on 2007-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071101000002id_/http%3A//www.pmease.com/PrivacyPolicy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmease.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531121311id_/http%3A//www.pmease.com/PrivacyPolicy.page) for the most accurate reproduction.*
 
 # QuickBuild - automate and manage your builds
 
@@ -7,8 +7,9 @@
    
 |  News  
 ---  
-| July 18, 2007 \- A minor version QuickBuild 1.2.11 has been released to fix a critical bug relating to build schedules. Refer to [release notes](http://quickbuild.pmease.com/publish/175/artifacts/release_notes.txt) for more information.   
+| Apr 11, 2008 \- A minor version QuickBuild 1.2.13 has been released to fix bugs. Refer to [release notes](http://quickbuild.pmease.com/publish/219/artifacts/release_notes.txt) for more information.   
 ---  
+Mar 18, 2008 \- A minor version QuickBuild 1.2.12 has been released to fix bugs. Refer to [release notes](http://quickbuild.pmease.com/publish/214/artifacts/release_notes.txt) for more information.   
 February 28, 2007 \- A minor version QuickBuild 1.2.3 has been released. Refer to [release notes](http://quickbuild.pmease.com/publish/147/artifacts/release_notes.txt) for more information.   
 January 23, 2007 \- QuickBuild 1.2.0 has been released with features like CSharp API, user self-registering, RSS for builds, self-managed build subscription, Rake builder, Visual Studio/Eclipse plugin, windows tray notifier, and many other enhancements. Refer to [release notes](http://quickbuild.pmease.com/publish/138/artifacts/release_notes.txt) for more information.   
 August 31, 2006 \- A major version, QuickBuild 1.1.0, is available with LDAP support, much more powerful and flexible build promotion feature, and many other enhancements. Refer to release notes for more information.   
