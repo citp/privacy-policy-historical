@@ -1,0 +1,725 @@
+<!--The following is the downloaded HTML source of the bakersshoes.com privacy policy that was archived on 2008-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080531090432id_/http%3A//www.bakersshoes.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript">
+// Disable edit cell tab.
+   parent.editCell.className    = "tab-button-dis";
+
+function saveForm() {
+    location.replace("/admin/displayeditcell.do?action=save");
+}
+
+   function editCell(ruleID, itemID, slotID, itemType) {
+        parent.editDisplay.className     = "tab-button";
+        if(typeof(parent.displayRules)!="undefined") {
+            parent.displayRules.className = "tab-button";
+        }
+        parent.editCell.className    = "tab-button-on";
+
+        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
+//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
+    }
+      function clickIt()
+      {
+          if(window.event.srcElement.id != "good") {
+              window.event.returnValue = false;
+           }
+      }
+</script>
+
+<link rel="stylesheet" href="/admin/include/styles/adminbrowser.css" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+    <title>
+      
+        Privacy and Security
+        -  
+      
+        Customer Service
+        
+      
+      - Bakers Footwear 
+    </title>
+  
+
+
+
+    <meta name="description" content="Privacy and Security">
+  
+
+
+
+    <meta name="keywords" content=" ">
+  
+
+        <link rel="stylesheet" type="text/css" href="/p2p/personalization/Personalization.css" title="style">
+        <link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
+        <script src="/includes/common.js"></script>
+        <script src="/includes/flyopen.js"></script>
+        <script src="/includes/rollover.js"></script>
+        <script src="/includes/cleartext.js"></script>
+        
+    </head>
+<body class="main" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<table width="768" border="0" cellpadding="0" cellspacing="0" class="mainLayoutTable">
+
+  <tbody><tr>
+    <td colspan="3" class="navheaderbg">
+      <div><!--TopNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<script>
+  function checkKeyword(keyword, defaultText) {
+    var minKeywordLength = 0;
+    var maxKeywordLength = 0;
+    minKeywordLength += 3;
+    maxKeywordLength += 30;
+    var errMsg = '';
+    //alert("minKeywordLength " + minKeywordLength);
+    var searchTerms = '';
+    searchTerms = keyword.value;
+    //alert("searchTerms.length " + searchTerms.length);
+
+	var invalidSearchTermMessage = 'Search term needed to be re-entered.'; // probably want to change this message! 
+	var invalidChars = /[!?~`%^&*()+={}\[\]|\\:;\"<>/]/; // add all illegal characters here. 
+	var matches_array = searchTerms.match(invalidChars);
+
+    var noSearchTerm = 'Please enter a keyword or item number';
+    var shortSearchTerm = 'Your keyword or item number must be at least 3 characters long';
+
+    if (searchTerms == defaultText) {
+        alert(noSearchTerm);
+        return false;
+    }
+    if (searchTerms == '') {
+        alert(noSearchTerm);
+        return false;
+    } else if ( searchTerms.length < minKeywordLength ) {
+        alert(shortSearchTerm);
+        return false;
+    } else if (matches_array != null) { 
+		// show the user a dialog if illegal characters are found in the keyword. 
+		alert(invalidSearchTermMessage); 
+		return false; 
+    } else {
+      return true;
+    }
+  }
+</script>
+
+<table border="0" width="768" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	<td class="clearbg"><a href="/home.do"><img src="/images/en_US/global/globalnav/logo01.gif" border="0" alt="Bakers "></a></td>
+	<td valign="top" align="right" class="clearbg"><table border="0" cellspacing="0" cellpadding="0">
+	</table></td>
+	<td class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+	
+	<td align="right" class="clearbg">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr><td><div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="6" border="0"></div>
+			</td></tr><tr><td align="right" class="default"><div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<!--Welcome Start-->
+	<table cellpadding="0" cellspacing="0" border="0">
+	  <tbody><tr>	    	    
+		    
+              
+                 	<td class="welcomeText" align="right" nowrap="">
+                    	Welcome to Bakers!
+                     </td>
+				 
+             
+     	  </tr>
+	</tbody></table></div>
+			<div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="7" border="0"></div>
+			</td></tr>
+			<form name="searchForm" action="/p2p/basicSearch.do" onsubmit="return checkKeyword(this.keyword, 'Keyword or Item#');"></form>
+			<tr>
+				<td align="right" valign="top"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
+				<input type="text" name="keyword" value="Keyword or Item#" size="10" maxlength="30" class="navsearchbox" onfocus="if(this.value=='Keyword or Item#')this.value='';">
+				</td><td><input type="Image" name="Search" src="/images/en_US/global/globalgraphics/search_btn.gif" border="0" alt="Search">
+				</td></tr></tbody></table></td>
+			</tr>
+
+			
+			<tr><td colspan="2"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="5" border="0"></td></tr>
+		</tbody></table>
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr><td><a href="/p2p/advancedSearch.do?init=true" onmouseover="rollover('top_sbs','/images/en_US/global/globalnav/shopbysize_on.gif');" onmouseout="rollover('top_sbs','/images/en_US/global/globalnav/shopbysize_off.gif');"><img src="/images/en_US/global/globalnav/shopbysize_off.gif" border="0" alt="shop by size" name="top_sbs"></a>
+				</td>
+				<td><a href="/catalogQuickShop.do" onmouseover="rollover('top_cqs','/images/en_US/global/globalnav/catquickshop_on.gif');" onmouseout="rollover('top_cqs','/images/en_US/global/globalnav/catquickshop_off.gif');"><img src="/images/en_US/global/globalnav/catquickshop_off.gif" border="0" alt="catalog quick shop" name="top_cqs"></a>
+				</td>
+				<td><a href="/basket.do?nav=%2Fcategory%2Fid%2F200%2F202" onmouseover="rollover('top_shopbasket','/images/en_US/global/globalnav/shopbasket_on.gif');" onmouseout="rollover('top_shopbasket','/images/en_US/global/globalnav/shopbasket_off.gif');"><img src="/images/en_US/global/globalnav/shopbasket_off.gif" border="0" alt="shopping bag" name="top_shopbasket"></a>
+				</td>
+				<td><a href="/account.do?method=start" onmouseover="rollover('top_myaccount','/images/en_US/global/globalnav/myaccount_on.gif');" onmouseout="rollover('top_myaccount','/images/en_US/global/globalnav/myaccount_off.gif');"><img src="/images/en_US/global/globalnav/myaccount_off.gif" border="0" alt="my account" name="top_myaccount"></a>
+				</td>
+				<td><a href="/product/b+card/b+card.do" onmouseover="rollover('top_bcard','/images/en_US/global/globalnav/bcard_on.gif');" onmouseout="rollover('top_bcard','/images/en_US/global/globalnav/bcard_off.gif');"><img src="/images/en_US/global/globalnav/bcard_off.gif" border="0" alt="b card" name="top_bcard"></a>
+				</td>
+			</tr>
+			<tr><td><div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="7" border="0"></div></td></tr>
+     	</tbody></table>
+	</td>
+	<td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<!--TopNav End-->
+</div>
+      <div><!--CatNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+<script>
+  var aCatImgs = new Array();
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/newarrivals_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/newarrivals_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav09_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav09_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/dress_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/dress_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/sandals_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/sandals_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/casual_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/casual_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/boots_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/boots_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/accessories_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/accessories_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/shopbybrand_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/shopbybrand_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/sale_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/sale_on.gif";
+  
+  preload(aCatImgs);
+</script>
+
+<!-- milonic menu start -->
+<script type="text/javascript" src="/nav/menu/milonic_src.js"></script>
+<script type="text/javascript">
+<!--
+
+
+
+if(ns4)_d.write("<scr"+"ipt language=JavaScript src=/nav/menu/mmenuns4.js><\/scr"+"ipt>");
+else _d.write("<scr"+"ipt language=JavaScript src=/nav/menu/mmenudom.js><\/scr"+"ipt>");
+ -->
+</script>
+<script type="text/javascript">
+/*
+Milonic DHTML Menu - JavaScript Website Navigation System.
+Copyright 2004 (c) Milonic Solutions Limited. All Rights Reserved.
+Version 5+ Data File structure is the property of Milonic Solutions Ltd and must only be used in Milonic DHTML Products
+This is a commercial software product, please visit http://www.milonic.com/ for more information.
+See http://www.milonic.com/license.php for Commercial License Agreement
+All Copyright statements must always remain in place in all files at all times
+*******  PLEASE NOTE: THIS IS NOT FREE SOFTWARE, IT MUST BE LICENSED FOR ALL USE  *******
+*/
+
+_menuCloseDelay=450   // The time delay for menus to remain visible on mouse out
+_menuOpenDelay=80     // The time delay before menus open on mouse over
+_subOffsetTop=0       // Sub menu top offset
+_subOffsetLeft=-15     // Sub menu left offset
+  horizontalMenuDelay = true;
+
+with(menuStyle=new mm_style()){
+  onclass="menuItemOn";
+  offclass="menuItemOff";
+  bordercolor="#336699";
+  borderstyle="solid";
+  borderwidth=0;
+}
+
+with(menuStyle0=new mm_style()){
+  onclass="menuItemOn";
+  offclass="menuItemOff";
+  onbgcolor="#FFFFFF";
+  offbgcolor="#F4F4F4";
+  bordercolor="#989898";
+  borderstyle="solid";
+  borderwidth="1";
+  separatorsize="1";
+  separatorcolor="#989898";
+  
+
+}
+
+with(milonic=new menuname("Menu9")){style=menuStyle0;aI("text=`Dress`;showmenu=Menu100611;url=/category/bakers+womens+new+arrivals/dress.do;");aI("text=`Sandals`;showmenu=Menu100612;url=/category/bakers+womens+new+arrivals/sandals.do;");aI("text=`Casual`;showmenu=Menu100573;url=/category/bakers+womens+new+arrivals/casual.do;");aI("text=`Ed Hardy Scarves`;showmenu=Menu100572;url=/category/bakers+womens+new+arrivals/ed+hardy+scarves.do;");aI("text=`Handbags`;showmenu=Menu100571;url=/category/bakers+womens+new+arrivals/handbags.do;");}with(milonic=new menuname("Menu23")){style=menuStyle0;aI("text=`Gladiators`;showmenu=Menu103;url=/category/trends/gladiators.do;");aI("text=`Naturals`;showmenu=Menu100;url=/category/trends/naturals.do;");aI("text=`Brights`;showmenu=Menu101;url=/category/trends/brights.do;");aI("text=`Woods`;showmenu=Menu98;url=/category/trends/woods.do;");aI("text=`Ankle Interest`;showmenu=Menu100622;url=/category/trends/ankle+interest.do;");}with(milonic=new menuname("Menu4")){style=menuStyle0;aI("text=`Closed Dress`;showmenu=Menu14;url=/category/bakers+womens+dress+shoes/bakers+womens+dress+closed-toe+shoes.do;");aI("text=`Platforms`;showmenu=Menu100102;url=/category/bakers+womens+dress+shoes/bakers+womens+dress+platform+shoes.do;");aI("text=`Special Occasion`;showmenu=Menu25;url=/category/bakers+womens+dress+shoes/bakers+womens+special+occasion+shoes.do;");aI("text=`Sandals`;showmenu=Menu100615;url=/category/bakers+womens+dress+shoes/bakers+womens+dress+sandals.do;");aI("text=`Career`;showmenu=Menu15;url=/category/bakers+womens+dress+shoes/bakers+womens+career+shoes.do;");aI("text=`Peep Toe`;showmenu=Menu100371;url=/category/bakers+womens+dress+shoes/peep+toe.do;");aI("text=`Round Toe`;showmenu=Menu100373;url=/category/bakers+womens+dress+shoes/round+toe.do;");aI("text=`Pointed Toe`;showmenu=Menu100372;url=/category/bakers+womens+dress+shoes/pointed+toe.do;");}with(milonic=new menuname("Menu7")){style=menuStyle0;aI("text=`Casual`;showmenu=Menu57;url=/category/bakers+womens+sandals/bakers+womens+casual+sandals.do;");aI("text=`Dress`;showmenu=Menu56;url=/category/bakers+womens+sandals/bakers+womens+dress+sandals.do;");aI("text=`Wedges`;showmenu=Menu100581;url=/category/bakers+womens+sandals/wedges.do;");aI("text=`Flats`;showmenu=Menu100602;url=/category/bakers+womens+sandals/flats.do;");}with(milonic=new menuname("Menu5")){style=menuStyle0;aI("text=`Casual Flats $29.99`;showmenu=Menu100641;url=/category/bakers+womens+casual+shoes/casual+flats+%2429.99.do;");aI("text=`Canvas & Sport`;showmenu=Menu36;url=/category/bakers+womens+casual+shoes/bakers+womens+casual+canvas+shoes.do;");aI("text=`Flats & Mocs`;showmenu=Menu35;url=/category/bakers+womens+casual+shoes/bakers+womens+casual+flat+shoes.do;");aI("text=`Tailored`;showmenu=Menu39;url=/category/bakers+womens+casual+shoes/bakers+womens+casual+tailored+shoes.do;");}with(milonic=new menuname("Menu6")){style=menuStyle0;aI("text=`Casual`;showmenu=Menu46;url=/category/bakers+womens+boots/bakers+womens+casual+boots.do;");aI("text=`Tailored`;showmenu=Menu47;url=/category/bakers+womens+boots/bakers+womens+tailored+boots.do;");aI("text=`Dress`;showmenu=Menu48;url=/category/bakers+womens+boots/bakers+womens+dress+boots.do;");aI("text=`Flats`;showmenu=Menu45;url=/category/bakers+womens+boots/bakers+womens+flat+boots.do;");}with(milonic=new menuname("Menu8")){style=menuStyle0;aI("text=`Dressy Handbags`;showmenu=Menu67;url=/category/bakers+womens+accessories/bakers+womens+dressy+handbags.do;");aI("text=`Casual Handbags`;showmenu=Menu100104;url=/category/bakers+womens+accessories/bakers+womens+casual+handbags.do?sortby=ourPicks;");aI("text=`Ed Hardy Accessories`;showmenu=Menu100491;url=/category/bakers+womens+accessories/ed+hardy+accessories.do;");aI("text=`Shoe & Foot Care`;showmenu=Menu64;url=/category/bakers+womens+accessories/bakers+shoe+and+foot+care.do;");}with(milonic=new menuname("Menu21")){style=menuStyle0;aI("text=`Sole Project by Bakers`;showmenu=Menu100444;url=/category/bakers+womens+branded+shoes/sole+project+by+bakers.do;");aI("text=`Baby Phat`;showmenu=Menu84;url=/category/bakers+womens+branded+shoes/bakers+womens+baby+phat+shoes.do;");aI("text=`BCBGirls`;showmenu=Menu82;url=/category/bakers+womens+branded+shoes/bakers+womens+bcbgirls+shoes.do;");aI("text=`Bearpaw`;showmenu=Menu100182;url=/category/bakers+womens+branded+shoes/bearpaw.do;");aI("text=`Betseyville`;showmenu=Menu100443;url=/category/bakers+womens+branded+shoes/betseyville.do;");aI("text=`Blowfish`;showmenu=Menu100502;url=/category/bakers+womens+branded+shoes/blowfish.do;");aI("text=`Chinese Laundry`;showmenu=Menu80;url=/category/bakers+womens+branded+shoes/bakers+womens+chinese+laundry+shoes.do;");aI("text=`Christian Audigier`;showmenu=Menu100482;url=/category/bakers+womens+branded+shoes/christian+audigier.do;");aI("text=`Dereon`;showmenu=Menu100241;url=/category/bakers+womens+branded+shoes/dereon.do;");aI("text=`Ed Hardy`;showmenu=Menu100053;url=/category/bakers+womens+branded+shoes/bakers+womens+ed+hardy+shoes.do;");aI("text=`Elvis`;showmenu=Menu100054;url=/category/bakers+womens+branded+shoes/bakers+womens+elvis+shoes.do;");aI("text=`Guess?`;showmenu=Menu77;url=/category/bakers+womens+branded+shoes/bakers+womens+guess+shoes.do;");aI("text=`Jessica Simpson`;showmenu=Menu100022;url=/category/bakers+womens+branded+shoes/bakers+womens+jessica+simpson+shoes.do;");aI("text=`Naughty Monkey`;showmenu=Menu100023;url=/category/bakers+womens+branded+shoes/naughty+monkey.do;");aI("text=`Playboy`;showmenu=Menu100024;url=/category/bakers+womens+branded+shoes/bakers+womens+playboy+shoes.do;");aI("text=`Red or Dead`;showmenu=Menu100478;url=/category/bakers+womens+branded+shoes/red+or+dead.do;");aI("text=`Rocawear`;showmenu=Menu100029;url=/category/bakers+womens+branded+shoes/bakers+womens+roca+wear+shoes.do;");aI("text=`Rocket Dog`;showmenu=Menu100030;url=/category/bakers+womens+branded+shoes/bakers+womens+rocket+dog+shoes.do;");aI("text=`Smet`;showmenu=Menu100541;url=/category/bakers+womens+branded+shoes/smet.do;");aI("text=`Steve Madden`;showmenu=Menu100031;url=/category/bakers+womens+branded+shoes/bakers+womens+steve+madden+shoes.do;");aI("text=`Volatile`;showmenu=Menu100056;url=/category/bakers+womens+branded+shoes/bakers+womens+volatile+shoes.do;");aI("text=`Wild Pair`;showmenu=Menu100033;url=/category/bakers+womens+branded+shoes/bakers+womens+wild+pair+shoes.do;");}with(milonic=new menuname("Menu22")){style=menuStyle0;aI("text=`Platforms`;showmenu=Menu100631;url=/category/bakers+womens+sale/platforms.do;");aI("text=`$19.99 Sale`;showmenu=Menu100614;url=/category/bakers+womens+sale/%2419.99+sale.do;");aI("text=`$29.99 Sale`;showmenu=Menu100583;url=/category/bakers+womens+sale/%2429.99+sale.do;");aI("text=`Dress`;showmenu=Menu94;url=/category/bakers+womens+sale/bakers+womens+sale+dress+shoes.do;");aI("text=`Sandals`;showmenu=Menu100121;url=/category/bakers+womens+sale/bakers+womens+sale+sandals.do;");aI("text=`Casual`;showmenu=Menu93;url=/category/bakers+womens+sale/bakers+womens+sale+casual+shoes.do;");aI("text=`Boots`;showmenu=Menu92;url=/category/bakers+womens+sale/bakers+womens+sale+boots.do;");aI("text=`Accessories`;showmenu=Menu91;url=/category/bakers+womens+sale/bakers+womens+sale+accessories.do;");}
+drawMenus();
+</script>
+<!-- milonic menu end -->
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+
+
+    
+        <td>
+          <script>
+          with(milonic=new menuname("Main Menu")){
+            style=menuStyle;
+            alwaysvisible=1;
+            orientation="horizontal";
+            position="relative";
+
+          
+              
+                    aI("image=/images/en_US/global/globalnav/newarrivals_off.gif;overimage=/images/en_US/global/globalnav/newarrivals_on.gif;url=/category/bakers+womens+new+arrivals.do;showmenu=Menu9;");
+                  
+          
+              
+                    aI("image=/images/en_US/global/globalnav/globalnav09_off.gif;overimage=/images/en_US/global/globalnav/globalnav09_on.gif;url=/category/trends.do;showmenu=Menu23;");
+                  
+          
+              
+                    aI("image=/images/en_US/global/globalnav/dress_off.gif;overimage=/images/en_US/global/globalnav/dress_on.gif;url=/category/bakers+womens+dress+shoes.do;showmenu=Menu4;");
+                  
+          
+              
+                    aI("image=/images/en_US/global/globalnav/sandals_off.gif;overimage=/images/en_US/global/globalnav/sandals_on.gif;url=/category/bakers+womens+sandals.do;showmenu=Menu7;");
+                  
+          
+              
+                    aI("image=/images/en_US/global/globalnav/casual_off.gif;overimage=/images/en_US/global/globalnav/casual_on.gif;url=/category/bakers+womens+casual+shoes.do;showmenu=Menu5;");
+                  
+          
+              
+                    aI("image=/images/en_US/global/globalnav/boots_off.gif;overimage=/images/en_US/global/globalnav/boots_on.gif;url=/category/bakers+womens+boots.do;showmenu=Menu6;");
+                  
+          
+              
+                    aI("image=/images/en_US/global/globalnav/accessories_off.gif;overimage=/images/en_US/global/globalnav/accessories_on.gif;url=/category/bakers+womens+accessories.do;showmenu=Menu8;");
+                  
+          
+              
+                    aI("image=/images/en_US/global/globalnav/shopbybrand_off.gif;overimage=/images/en_US/global/globalnav/shopbybrand_on.gif;url=/category/bakers+womens+branded+shoes.do;showmenu=Menu21;");
+                  
+          
+              
+                    aI("image=/images/en_US/global/globalnav/sale_off.gif;overimage=/images/en_US/global/globalnav/sale_on.gif;url=/category/bakers+womens+sale.do;showmenu=Menu22;");
+                  
+          
+          }
+          drawMenus();
+          </script>
+        </td>
+      
+
+  </tr>
+</tbody></table>
+<!--CatNav End-->
+</div>
+    </td>
+  </tr>
+
+
+  <tr valign="top">
+    
+    <td width="15" class="borderleft"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="1" border="0"></td>
+    <td width="738">
+      <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="738" height="20" border="0"></div>
+      <div>
+        
+        
+
+
+
+
+        <table border="0" cellpadding="0" cellspacing="0" width="738">
+          <tbody><tr>
+            <td>
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                  <td><a href="/category/customer+service.do"><img src="/images/en_US/local/headers/main/customerservice_mhd.gif" border="0" alt="Customer Service"></a></td>
+                  <td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+<script>
+  function changeCat(frm, thisbox) {
+     var optiontxt = thisbox.options[thisbox.selectedIndex].value;
+     if (optiontxt == "0") return;
+     else location.href = optiontxt
+  }
+</script>
+
+
+<select name="subCatdd" onchange="changeCat(this.form,this)">
+    
+    
+            <option value="/category/customer+service/about+us.do">About Us</option>
+        
+    
+    
+            <option value="/category/customer+service/privacy+and+security.do?sortby=ourPicks" selected="">Privacy and Security</option>
+        
+    
+    
+            <option value="/category/customer+service/returns+and+exchanges.do">Returns and Exchanges</option>
+        
+    
+    
+            <option value="/category/customer+service/ordering+and+payment.do">Ordering and Payment</option>
+        
+    
+    
+            <option value="/category/customer+service/shipping+information.do">Shipping Information</option>
+        
+    
+    
+            <option value="/category/customer+service/faq.do">FAQ</option>
+        
+    
+    
+            <option value="/category/customer+service/contact+us.do">Contact Us</option>
+        
+    
+    
+            <option value="/category/customer+service/terms+of+use.do">Terms of Use</option>
+        
+    
+</select>
+
+</td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr>
+            <td class="headerrule"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+          </tr>
+          <tr>
+            <td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="15" border="0"></td>
+          </tr>
+          <tr valign="top">
+            <td>
+              <div class="default"><b>Bakers Privacy/Policy Statement<br>Most Recently Revised: January 19, 2006<p></p></b><p><b>Privacy Policy Statement</b><br>We respect the privacy of our customers. This privacy policy statement is designed to help you understand what information we gather online and what we do with that information. Because we will continue to implement new technologies on our website to improve the services and features we provide, this policy is subject to change without prior notice. For that reason, we encourage you to review the privacy policy periodically and to make note of the date our policy has most recently been revised. If you have provided personally identifiable information to us by purchasing products online, registering on our site, or becoming a Preferred Customer B Card Member prior to the date above, the terms of the privacy policy in effect on the date you provided that information will apply. Any new personally identifiable information that you provide to us on or after the date above will be subject to the terms of this privacy policy. If you have provided us with your e-mail address when registering or purchasing product online or through your Preferred Customer B Card application, you will be notified by e-mail of any material changes in either the scope of the privacy seal, the language of the privacy notice, or our information practices. If you disagree with the manner in which we intend to use the information you provide to us, you may opt-out of some or all of these uses by following the instructions below. By using our website, you agree to the terms of the privacy policy in effect, at that time.</p><p><b>Information We Gather.</b><br>We collect both personally identifiable and non-personally identifiable information. The non-personally identifiable information is categorized as General Tracking Information and Click Path Tracking, as further described below. Personally identifiable information may be collected through Registration Information, Online Ordering Information, and Preferred Customer B Card Membership application. We use both personally identifiable and non-personally identifiable information collected through this website to learn more about how our visitors use this website and to measure areas of interest. This allows us to build features and functionality that will enhance your experience.</p><p><b>Use of Non-Personally Identifiable Information.</b></p><p><b>General Tracking Information.</b><br> We keep track of the pages visited by each user. Our web server automatically collects some information about you when you request pages from our server, including your IP address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our website by making it more responsive to the needs and preferences of our users. <b>This information does not identify you personally. </b></p><p><b>Click Path Tracking.</b><br> Using cookie technology, we track your click path through our website. Though this information does not identify you personally, we may use it to help customize your visit to our website.</p><p><b>Use of Personally Identifiable Information.</b></p><p><b>Registration Information.</b><br> In order to register on our Bakers website, you must provide your:<br></p><dd><li>First and last name<br><dd><li>E-mail Address<br><dd><li>Zip Code<br><dd><li>Area of interest<br><br>If you choose to register, we will place your name in our mailing list. Once you have registered, we will send you an e-mail confirming your registration on our website, and in the event you forget your password, we will send it to your e-mail address at your request.<p><b><u>If you registered on our website prior to January 19, 2006 the following terms regarding use of Registration Information apply:</u></b><br>Registering allows us to customize your website experience, speed up the shopping process, and offer you savings, such as electronically delivered coupons and newsletters, new product information, new features and services provided on our website, and special offers. In order for us to deliver these newsletters and/or coupons, we may need to pass your name and e-mail address to our service providers who supply us this e-mail service. We also use a third party company to authenticate and validate the Registration Information you provide to us. Your Registration Information is merged with information provided by the third party for our internal marketing purposes. The Registration Information you provide may be combined with marketing research from internal and external sources in order to determine shopping and informational preferences. These service providers are prohibited from using your Registration Information for any purposes other than for Bakers´ internal marketing purposes. You will not receive unsolicited e-mails from other companies as a result of our disclosure of your personally identifiable information to these services providers. You also may limit the information that Bakers sends to you by following the instructions in the "Right to Opt-Out" section below.</p><p><b><u>If you registered on our website on or after January 19, 2006, the following terms regarding use of Registration Information apply:</u></b><br>Registering allows us to customize your website experience, speed up the shopping process, and offer you savings, such as electronically delivered coupons and newsletters, new product information, new features and services provided on our website, and special offers. In order for us to deliver these newsletters and/or coupons, we may need to pass your name and e-mail address to our service providers who supply us this e-mail service. We also use a third party company to authenticate and validate the Registration Information you provide to us. Your Registration Information is merged with information provided by the third party for our internal marketing purposes. The Registration Information you provide may be combined with marketing research from internal and external sources in order to determine shopping and informational preferences. These service providers are prohibited from using your Registration Information for any purposes other than for Bakers´ internal marketing purposes. In addition to marketing research service providers, we may share your Registration Information with our business partners as described below under the heading "Sharing Personally Identifiable Information." You may limit the information that Bakers sends to you by following the instructions in the "Right to Opt-Out" section below. <br></p><p><b>Online Ordering Information.</b><br> If you choose to purchase products from our website, you will need to provide the following information so that we can fulfill your order:<br></p><dd><li>Name<br><dd><li>Contact phone number(s) with Area Code<br><dd><li> Continental US Billing/Shipping Address<br><dd><li>E-mail Address<br><dd><li>Credit Card account information, including expiration date.<p><b><u>If you purchased products through our website prior to January 19, 2006 the following terms regarding use of your Online Ordering Information apply:</u></b><br>We use Online Ordering Information solely for the purpose of fulfilling your order. We do NOT sell any of the personally identifiable information you provide to complete your online order to any third party under any circumstances. We request a contact phone number in case one of our customer service representatives would need to reach you, such as in order to arrange a delivery time. We request your e-mail address because we send a single e-mail message acknowledging receipt of your order. This message does NOT contain your credit card number.</p><p><b><u>If you purchased products through our website on or after January 19, 2006 the following terms regarding use of your Online Ordering Information apply:</u></b><br>We use Online Ordering Information to fulfill your order. We request a contact phone number in case one of our customer service representatives would need to reach you, such as in order to arrange a delivery time. We request your e-mail address because we send a single e-mail message acknowledging receipt of your order. This message does NOT contain your credit card number. In addition to order fulfillment, we may contact you electronically or by mail to offer you savings, such as coupons and newsletters, product catalogs, new product information, new features and services provided on our website, and other special offers. We may include your Online Ordering Information in marketing research studies conducted internally and by third parties in order to determine shopping and informational preferences of our customers. These service providers are prohibited from using your Online Ordering Information for any purposes other than for Bakers´ internal marketing purposes. Under no circumstances will we disclose your credit card information to any third parties. In addition to marketing research service providers, we may also share your Online Ordering Information with our business partners as described below under the heading "Sharing Personally Identifiable Information." You may limit the information that Bakers sends to you by following the instructions in the "Right to Opt-Out" section below.</p><p><b>Preferred Customer B Card Information.</b> If you choose to become a Preferred Customer B Card Member, you must provide your:<br></p><dd><li>First and last name<dd><li> Mailing address<dd><li>E-mail address<dd><li>Phone number<dd><li>Birth date.<p>When you register as a Preferred Customer B Card Member, we enter your Preferred Customer B Card Information to track your purchases so that you will receive your special member discounts. We also use your Preferred Customer B Card Information to reward you with discounts on your birthday. We may contact you electronically or by U.S. mail to offer you savings, such as coupons and newsletters, product catalogs, new product information, new features and services provided on our website, and other special offers. Your Preferred Customer B Card Information may be merged with information provided by third party marketing firms for our internal marketing purposes. The Preferred Customer B Card Information you provide may be combined with marketing research from internal and external sources in order to determine shopping and informational preferences. These service providers are prohibited from using your Preferred Customer B Card Information for any purposes other than for Bakers´ internal marketing purposes. In addition to marketing research service providers, we may share your Preferred Customer B Card Information with our business partners as described below under the heading "Sharing Personally Identifiable Information." You may limit the information that Bakers sends to you by following the instructions in the "Right to Opt-Out" section below.</p><p><b>Sharing Personally Identifiable Information Disclosed on or After January 19, 2006.</b><br>If you provided us with Registration Information, Online Ordering Information, or Preferred Customer B Card Information on or after January 19, 2006, in addition to the above uses, your information may be shared with selected third party product or service providers with whom we partner. By sharing information, our business partners may provide you with written or electronic catalogs and product offers that we believe will be of interest to you. In certain instances you will have an opportunity to limit this sharing at the time the information is collected. You also may limit this sharing by following the instructions in Choice/Opt-out below. We may use your information along with information obtained from our third party business partners. You understand and agree that we cannot control the type or frequency of information sent to you by third parties or the procedures for discontinuing information from third parties. You also may limit this sharing by following the instructions in the "Right to Opt-Out" section below.</p><p><b>Disclosure of Information by Law.</b><br>In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of Bakers, we reserve the right to transfer, sell or assign both personally identifiable and non-personally identifiable information concerning your use of this website to third parties. We may also disclose personally identifiable information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may have breached our Terms and Conditions of Use, or who may be causing injury to or interference with (either intentionally or unintentionally) Bakers´ rights or property, other website users, or anyone else who could be harmed by such activities. We reserve the right to disclose your personally identifiable information to law enforcement personnel and agencies when requested to do so or as required by law. In any of these situations, registered users will be notified by e-mail of our intent to disclose information.</p><p> <br><b>Right to Opt-Out.</b><br>You may opt out from receiving electronic or mailed communications from Bakers and/or from Bakers´ third party business partners by sending an email to: service@bakersshoes.com and specifying which services you would like to opt out from. To cease receiving e-mails from Bakers, place the words, "Unsubscribe from mailing list" in the subject line. To cease receiving mailed communications, place the words, "Unsubscribe from newsletter/coupon list" in the subject line. To cease receiving communications for our business partners, place the words, "Unsubscribe to Partners" in the subject line. Also, please provide your name, address and phone number in the body of the email. If you prefer not to use email, please feel free to call 1-877-746-3932 or send your requests by mail to:<br>Bakers Web Customer Service<br>2815 Scott Avenue<br>St. Louis, MO 63103.<br>Remember to include your name, address and phone number in the request.</p><p><b>Our Customer Pledge:</b><br>Let us assure you:<br></p><dd><li>We will not telemarket to you.<br><dd><li>Your participation is completely voluntary.<br><br><b>We value your business and respect your privacy.</b><p><b>Use of Cookie Technology</b><br>In order to register on or order products from our website, your browser must be set to accept cookies. A cookie is just an entry in a text file or folder on your hard drive. We use cookies when you register on our website so that on subsequent visits to the website we can remember your specified area of interest and any other information you have saved. Cookie Technology allows you to save products to your wish list or how-tos to your favorites. We also use cookies to track the items you place in your shopping basket and continue browsing through other products you select. The only personal information our cookie can contain is information you supply yourself. Our cookies cannot read data off your hard disk. If you would like more technical information about how cookies work, take a look at <a href="http://www.cookiecentral.com"><u><font color="blue">http://www.cookiecentral.com.</font></u></a></p><p><b>Children's Policy</b><br>We do not intend to collect any personally identifiable information from children through our website. Please do not allow children under the age of 16 to provide any personally identifiable information, ask questions or participate in chat rooms related to our website. If we determine that a child under 16 has provided personally identifiable information in violation of this policy, we will delete that information as soon as practical. If you become aware that such information has been provided by your child under 16, please send us an e-mail at service@bakersshoes.com so we can delete this information.</p><p><b>Security Information</b><br>We understand that many consumers are concerned about security on the Internet. The web server here at www.BakersShoes.com is designed for Internet commerce, and employs industry standard methods of protecting the security of information sent over the site. This statement describes the technologies we use and provides additional information about how we handle your credit card information. We want you to be able to shop at the Bakers Footwear Group site with confidence. Of course, if you would rather order products by telephone, you can call us toll free at 1-877-746-3932.</p><p><b>Is the information I send to you secure while it is being sent?</b><br>We strive to protect the security of the information you send to us while it is en route to our site. Every page of the site on which information is exchanged between you and us employs technology, and is a secure and encrypted method of communicating between your browser software and our web server.</p><p><b>Is the information I am sending really going to Bakers?</b><br>Our Web provider for the Web Store is MarketLive. They obtained a digital security certificate for BakersShoes.com. They confirm that we are the recipient of this information, but how the information is handled after it arrives is every bit as important to maintaining security. Once you are finished shopping, your encrypted information is sent to our server.</p><p><b>Security Questions or Comments</b><br>We are committed to providing a secure, friendly site where customers can shop without undue concern over security. When we receive your information, we use commercially reasonable efforts, including the measures described above, to protect the security of your information on our systems. However, no data transmission over the Internet or any wireless network can be guaranteed to be absolutely secure. Therefore, we do not warrant or ensure the security of any information sent to us online. If you have any questions, comments or concerns, please contact us via e-mail at service@bakersShoes.com or toll free at 1-877-746-3932.</p></li></dd></li></dd></li></dd></li></dd></li></dd></li></dd></li></dd></li></dd></li></dd></li></dd></li></dd></li></dd></li></dd></li></dd></li></dd></li></dd></div>
+            </td>
+          </tr>
+        </tbody></table>
+    </div>
+      <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="738" height="15" border="0"></div>
+    </td>
+    <td width="15" class="borderright"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="245" border="0"></td>
+  </tr>
+
+
+  <tr valign="bottom">
+    <td align="center" colspan="3" class="navfooterbg"><!--BottomNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+<table width="768" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td>
+<!--BottomNav first part-->
+	<table width="768" cellpadding="0" cellspacing="0" class="footerborder">
+	
+  <tbody><tr>
+    <td align="center" class="borderbottom">
+       <div>
+	
+
+
+<title>footer_image</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
+<!-- ImageReady Slices (footer_image.gif) -->
+<img src="/images/en_US/global/globalgraphics/GlobalFooterImage/footer_image.gif" width="768" height="30" alt="">
+<!-- End ImageReady Slices -->
+
+ 	
+ 	</div>
+    </td>
+  </tr>
+	<tr>
+	<td class="clearbg" height="33" align="right" valign="middle">
+	   <table border="0" cellspacing="0" cellpadding="0">
+		<form id="emailSignUp" method="post" action="/ancillary/emailsignup.do"></form>
+	       <tbody><tr>
+			<td><img src="/images/en_US/global/globalgraphics/emailsignup.gif" border="0" alt="Email Updates"></td>
+			<td><input name="emailAddress" type="text" value="enter email address" size="12" maxlength="100" class="navemailbox" onfocus="if(this.value=='enter email address')this.value='';" onfocusout="if(this.value=='')this.value='enter email address';"></td>
+			<td><input type="image" name="emailSubmit" src="/images/en_US/global/globalgraphics/emailsignup_btn.gif" border="0" alt="Submit"></td>
+			<td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="1" border="0"></td>
+		</tr>
+		
+	 </tbody></table>
+    </td></tr>
+	<tr><td class="bordertop">
+		<table border="0" cellspacing="0" cellpadding="0" width="768">
+		<tbody><tr><td class="footer2" align="left" valign="middle" height="22"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="16" height="1" border="0">
+			<a href="/ancillary/catalogrequest.do">catalog request</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="28" height="1" border="0"><a href="/storelocator.do">store locations</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="28" height="1" border="0"><a href="/category/customer+service.do">customer service</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="28" height="1" border="0"><a href="/category/customer+service/shipping+information.do">shipping information</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="28" height="1" border="0"><a href="/account/orderTracking.do">order status</a>
+			</td>
+   			<td class="footer2" align="right" valign="middle">©2008 Bakers <img src="/images/en_US/global/globalgraphics/spacer01.gif" width="16" height="1" border="0"></td>
+		</tr>
+		</tbody></table></td>
+</tr>
+</tbody></table>
+<!--BottomNav End--></td>
+  </tr>
+</tbody></table>
+ <!--BottomNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="768">
+	<tbody><tr><td class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="7" border="0"></td></tr>
+		<tr><td class="footer" align="left" valign="middle"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="16" height="1" border="0"><a href="/category/customer+service/about+us.do">About Bakers</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="28" height="1" border="0"><a href="/category/customer+service/contact+us.do">Contact Us</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="28" height="1" border="0"><a href="#" onclick="return flyopen(700,500,'http://jobsearch.bakersshoes.careers.monster.com','Careeres');">Careers</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="28" height="1" border="0"><a href="/category/customer+service/privacy+and+security.do">Privacy &amp; Security</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="28" height="1" border="0">
+			  
+		      <a href="/ancillary/sitemap.do">Site Map</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="28" height="1" border="0">
+			  
+			  <a href="/home.do">Home</a>
+		   </td>
+			<!--Hacker Safe goes here-->
+			<td align="right" valign="middle" class="clearbg">
+			<!-- START STANDARD SCANALERT CODE -->
+			<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.bakersshoes.com"><img border="0" src="//images.scanalert.com/meter/www.bakersshoes.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+			<!-- END STANDARD SCANALERT CODE --> </td>
+		</tr>
+	</tbody></table>
+
+ 
+   
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Omniture Reporting Support -->
+
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript">
+function getId() {
+  return "mlbak5xprod"
+}
+</script>
+<script language="JavaScript" src="/omniture/s_code.js"></script>
+<script language="JavaScript"><!--
+s.pageName='Product Groups/Customer Service/Privacy and Security';
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img
+src="http://marketliveglobaldev.122.2O7.net/b/ss/marketliveglobaldev/1/H.1--NS/0"
+height="1" width="1" border="0" alt="" /></noscript>
+<!-- End, Omniture Reporting Support -->
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+</td></tr></tbody></table></body></html>
