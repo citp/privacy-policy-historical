@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pridenation.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202103526id_/http%3A//www.pridenation.com/pnnpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pridenation.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531162621id_/http%3A//www.pridenation.com/pnnpolicy.htm) for the most accurate reproduction.*
 
 # PrideNation, Gay Lesbian Radio and TV Entertainment
 
