@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vibrantmedia.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224153922id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibrantmedia.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531083236id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
 
 # Vibrant Media - The In-Text Advertising Leader - Privacy Statement
 
@@ -80,9 +80,7 @@ Information provided by you via general e-mail inquiries to Vibrant Media such a
 
 Security: Security for all personally identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Vibrant Media cannot ensure or warrant the security of any information you transmit via the Internet. By transmitting any such information to Vibrant Media, you accept that you do so at your own risk.
 
-TRUSTe: Vibrant Media is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.vibrantmedia.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact [marketing@vibrantmedia.com](mailto:marketing@vibrantmedia.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, please contact [marketing@vibrantmedia.com](mailto:marketing@vibrantmedia.com).
 
 Your Acceptance of These Terms: By using the Website, you accept the policies and restrictions set forth in this Online Privacy Policy. If you do not agree to this policy, please do not use the Website. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
