@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230045937id_/http%3A//www.brinkster.com/AboutUs/PrivacyStatement7-13-04.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531152119id_/http%3A//www.brinkster.com/AboutUs/PrivacyStatement7-13-04.aspx) for the most accurate reproduction.*
 
 # Web Hosting, Free Web Site Builder & Domain Name, Web Hosting Made Easy By Brinkster
 
