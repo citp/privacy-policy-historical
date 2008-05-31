@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the x-cart.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202211756id_/http%3A//www.x-cart.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x-cart.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531102154id_/http%3A//www.x-cart.com/privacy_statement.html) for the most accurate reproduction.*
 
-# Shopping Cart Software & Ecommerce Solutions: X-Cart.
+# Privacy statement
 
 We respect your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy. 
 
