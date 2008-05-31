@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mousebreaker.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201134823id_/http%3A//www.mousebreaker.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mousebreaker.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531052910id_/http%3A//www.mousebreaker.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Mousebreaker Free Online Flash Games - juegos gratis, Gratis spelletjes
+# Mousebreaker Free Online Flash Games - football games and more!
 
 This Privacy Policy sets out the data processing practices carried out through the web by the Mousebreaker website and its owner Mousebreaker Ltd. If you have any requests concerning your personal information or any queries with regard to these practices please contact us at support@mousebreaker.co.uk.
 
