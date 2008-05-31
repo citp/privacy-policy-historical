@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuzara.com privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505192822id_/http%3A//www.tuzara.com/ppolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuzara.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531084705id_/http%3A//tuzara.com/ppolicy.aspx) for the most accurate reproduction.*
 
 # Tuzara.com :: Privacy Policy
 
