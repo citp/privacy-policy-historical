@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201112306id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531110726id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement at Ancestor Search
 
