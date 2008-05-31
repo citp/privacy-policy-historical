@@ -1,51 +1,33 @@
-> *The following text is extracted and transformed from the quickpcsolutions.org privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230070024id_/http%3A//quickpcsolutions.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickpcsolutions.org privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531073016id_/http%3A//www.quickpcsolutions.org/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-| 
-
 ##### PRIVACY POLICY 
 
-QuickPCSolutions.org is committed to protecting the privacy of personal information you may provide to us when using any of our online services. This Privacy Policy describes how we treat information we receive when you transmit data to QuickPCSolutions.org. 
+This privacy policy applies to the use of Quick-PC-Solutions.org. We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
 
-**Information Collection**  
-When you purchase, download trial or evaluation versions, or register RegCure software, we may collect personal information including your name, address, email address, etc. for the purpose of recording the transaction when you engage in activities on our web site or within the RegCure software. When we use a payment processing merchant we ensure that the same strict privacy criteria are in place. We do not (knowingly) collect personal information from persons under the age of eighteen. We also give users the option of receiving useful product information (such as updates, pest alerts and associated product offerings), via opt-in permission based email. We fully ensure your privacy and value your trust. We will never sell, rent, lease, or give your information to a third party unless required to do  so by law. By choosing to enter and submit the requested information when prompted, you are consenting to QuickPCSolutions.org’s collection, use, and disclosure of such information for the purposes as outlined herein. 
+**Log Files and Cookies**
 
-Any information that you post to a chat room, public bulletin or forum is available to all users of that site. QuickPCSolutions.org cannot control, nor is it responsible for the use, disclosure, or dissemination of such information by any third parties.
+This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends. Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. Cookies are very small text files that are stored on personal computers for reference purposes. We do/do not [almost certainly ‘do not’] link the information we store in cookies to any personally indentifiable information you have submitted while on our site. 
 
-**Web Site Usage**   
-We may automatically collect IP addresses and Web site usage information when you access our online services. This information helps us evaluate how our visitors navigate our sites on an aggregate basis, including but not limited to the number and frequency of visitors, length of visits, etc. 
+**Links to Other Websites**
 
-**How Information Is Used When Collected**   
-We may use information collected in the following ways:
+This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site. 
 
-  1. To process, validate and verify purchases. 
-  2. To contact you to reconfirm or verify accuracy of information provided. 
-  3. To register you as a customer. 
-  4. To open and maintain a support account for you. 
-  5. To send email notifications about new, existing, enhanced products or services. 
-  6. To send information on special offers, or to obtain your feedback to help enhance existing features or provide added products and services. 
-  7. To enable us to personalize content, advertising and promotions based on preferences, needs, suggestions, or recommendations. 
-  8. To provide advance notice of termination of a trial period or an opportunity to extend a trial period, or advance notice of expiration of your software license. 
+**Registration and Use of Personal Information**
 
+Registration is not required in order to use or access this website. However, this site may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles. If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent. ] Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels. 
 
+**Security**
 
-We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our service agreements or terms of use (for example protect our intellectual property rights), and your compliance with the applicable End User License Agreement(s) contained within the RegCure software. We may also disclose or use your personal information when we, in good faith, believe that the applicable law may require us to do so. 
+We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore – as is the case with any organization - we are not in a position to guarantee the absolute security of your information. You may submit any questions you may have about our security procedures by emailing us at [webmaster@quick-pc-solutions.org](mailto:webmaster@quick-pc-solutions.org)
 
-**Cookies**   
-We define a cookie as any string of data and information that is automatically stored on your computer upon access to our services. QuickPCSolutions.org employs cookies to assign temporary identification numbers to machines that access our services. This information enables us to deliver faster service capabilities to our customers or to our affiliates and/or other sales partners, prevent denial of service attacks on our systems, detect and prevent fraudulent transactions, and assist with awarding proper sales credit to our partners. All RegCure.com or QuickPCSolutions.org cookies are 1) of limited duration, 2) less than 5KB in length, 3) only visible to RegCure.com or QuickPCSolutions.org, and 4) devoid of any personally identifiable information. Our Cookies are mainly maintained to track our affiliates and/or other sales partners to ensure proper payments for their sales and tracking activities relating to their affiliate relationship with us. 
+**Legal Disclaimer**
 
-**Links**  
-We may offer links from our website to other third party websites which may be hosted by our co-branding partners or by unrelated companies which we think may be of interest to you. Such websites are not governed by this privacy policy and QuickPCSolutions.org makes no representation as to their practices for dealing with your personal information. We recommend that you check the privacy policy of any website at the beginning of your visit.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website. 
 
-**Security**  
-The personally identifiable information we collect about you is stored in limited access servers. We maintain such safeguards to protect security of servers and your personally identifiable information. We retain personally identifiable information only as long as necessary to complete a purchase, provide customer service, or maintain your account with us. 
+**Contact Details:**
 
-**Policy Modifications**  
-We may change this Privacy Policy at any time without notice to you in order to reflect our practices and provide greater protection for your information. Any changes to this Privacy Policy will be posted promptly here, so please check back periodically. 
+If you have any questions or concerns regarding this privacy policy, or you wish to contact us by emaill, our contact information is as follows: [info@quick-pc-solutions.org](mailto:info@quick-pc-solutions.org)
 
-**Acceptance of Terms**  
-By using the QuickPCSolutions.org services, accessing the RegCure.com web site, or purchasing QuickPCSolutions.org products you are consenting to the practices relating to information collection and use that are described in this Privacy Policy
-
-|  
+**This privacy policy was last updated on 5/01/2008.**
