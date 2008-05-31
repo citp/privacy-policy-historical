@@ -1,231 +1,208 @@
-> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231085156id_/http%3A//blog.rapleaf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531044543id_/http%3A//blog.rapleaf.com/privacy) for the most accurate reproduction.*
 
 # Rapleaf: Privacy Policy
 
-Effective date: October 9, 2007
+**Rapleaf Privacy Statement**  
+(Last Updated: March 17, 2008)
 
-**Overview**
+Rapleaf respects your privacy. This Privacy Statement is intended to answer questions you may have related to how we handle personal information. We want to explain what information we collect and what we do with it. We have many controls, systems, and procedures that govern how we handle this information and we want you to know about them. We also want to clarify how this information may be shared with other parties and what choices you have regarding the handling of your information.
 
-Rapleaf takes privacy very seriously. It is our number one priority. We are committed to keeping member and nonmember information safe and secure at any cost.
+Rapleaf is a pioneering information provider that believes in the power of transparency, choice, and control when it comes to personal information online. We view privacy and security as fundamental design requirements in our technologies and services and core to our business practices and operations. We collect and index personal and non-personal information from openly available sources on the web, including forums, review sites, social networks, commerce sites, message boards, and other sites where individuals post information about themselves.
 
-Our wholly-owned subsidiaries and business services are also committed to protecting and respecting privacy rights of clients and their users. This includes every email address about whom we either process information or maintain information within Rapleaf’s databases.
+This Privacy Statement applies to all websites and domains maintained by Rapleaf, including [rapleaf.com](http://www.rapleaf.com/), [blog.rapleaf.com](http://blog.rapleaf.com/), [business.rapleaf.com](http://business.rapleaf.com/), and [upscoop.com](http://www.upscoop.com/).
 
-This Privacy Policy sets out the basis on how, when, and why Rapleaf collects, treats, and uses data from various means and should assist in understanding data security and privacy practices regarding data collection. And note that the practices outlined in this Privacy Policy apply to Rapleaf’s collection of member and client’s data and append on that data set. Please read this policy carefully and review it often because it may change.
+**Contents**
 
-NOTE: Rapleaf does not sell, rent, or lease email addresses to clients or third-party marketers.
+  * Who Should Read This Statement
+  * Personal Information
+  * Uses of Personal Information
+  * Information Sharing and Disclosure
+  * Your Choices and Privacy Preferences
+  * Children’s Privacy
+  * Log Files and Cookies
+  * Security
+  * Business Transitions
+  * Changes to this Statement
+  * Contact Information
 
-**Collection of Registration Information**
 
-Users of our system must complete a registration process. We will collect personally identifiable information during this process that includes email address (name is optional). We use this information to process registrations, contact our users, and to provide our services.
 
-_Usernames_
+**Who Should Read This Statement**
 
-During registration, members have the option of selecting a first and last name that will be publicly tied to their use of our system. We do not share first and last names together with an email address unless someone searches using a specific email address. Searching an email address will display the first and last name of a member if the email is linked to the member’s profile. If a member does not provide a first and last name, then an arbitrary username — which may be the first name and last name — will be used in place of the member’s first and last name.
+The following privacy statement addresses potential questions, concerns, and/or interests of four different types of people or groups:
 
-_Passwords_
+  1. Data Subjects: People with Rapleaf profiles.
+  2. Users: People who visit one of our web sites or use our services.
+  3. Members: People who have signed-up with Rapleaf to manage their online reputations and privacy.
+  4. Customers: Organizations who take advantage of Rapleaf’s services to learn more about their users or consumers.
 
-During registration, members must create a password. Passwords are used to secure member information and the integrity of the system. We only store a one-way encryption of member passwords which means passwords cannot be unencrypted by us. Our login page provides a way for members to obtain access to the system in case they lose or forget their password.
 
-_Optional Reputation Information_
 
-After an account is activated a member can choose to enter additional information, such as other email accounts. This information is completely voluntary and may be used to further establish a member’s reputation.
+A “data subject” is any person with a profile on Rapleaf. Profiles are created when a user, member, or customer provides an email address to us. For example, if you search your own email address in our system, you are both a data subject and a user. If you search a friend’s email address, then he becomes a data subject and you are a user.
 
-**Changing Preferences**
+“Users” are individual users of the Internet who come to Rapleaf and enter an email address into our system or who have made use of Upscoop to find their contacts on various social networking sites.
 
-After signing in, members may access and change their registration information using the secondary navigation above member’s username. Members may change their password, username, name, and any other communication preferences as set by our system. Members may access other information collected and processed about them and adjust the display settings.
+Our “members” are people who have registered with us to use our innovative tools and services to establish trusted relationships with the people with whom they meet and interact, to enhance and control their online reputations, to better connect with friends and business associates, and to control the profiles about themselves that we disclose to others.
 
-**Adding Oneself to Rapleaf**
+Rapleaf’s “customers” are organizations and companies seeking new ways to reach and/or learn more about their own users, subscribers, consumers, etc. We provide our customers with information on our data subjects to gain meaningful insights into their consumers and users for the purpose of improving and/or personalizing their own products and services.
 
-A member cannot automatically be registered with Rapleaf. The only exception to this rule is if a partner site integrates Rapleaf. All members of the partner site may automatically be registered in Rapleaf using the login credentials at the partner site.
+**Personal Information**
 
-Also, a person can be included in the system as a nonmember if searched by another user. Rapleaf may leave an appropriate rating to the nonmember as dictated by our reputation algorithm. NOTE – a nonmember email address searched in Rapleaf does not automatically register that particular email address.
+Rapleaf collects several types of personal and non-personal information either directly from you, as a user or member of our online services, and/or from another user, member, or business customer. These can be described as follows:
 
-**En Masse Information (TrustFuse Service)**
+_Personal Information_
 
-Part of Rapleaf’s business model is to help gather information for our clients and give them an opportunity to give their users a better user experience. The en masse services work as follows:
+We define “personal information” as information that can be used to uniquely identify you or that you may consider sensitive. Most of the information we index comes from openly available sources on the web, including forums, review sites, social networks, commerce sites, message boards, and other sites where individuals post information about themselves. We collect such information when you use or someone with your email address uses our email search service, register and use our service as an individual member, or use our mass lookup service to find your friends on various social networks based on your address book. We may also gather personal information about you from our business customers when they provide us with a list of their users’ email addresses to process.
 
-_Client Expectations_
+The specific types of personal information that we collect include: email addresses, profile URLs, usernames or screen names, first and last names, addresses, and phone numbers. A profile URL is the specific web address to a person’s profile on a social networking site or commerce site, for example.
 
-Rapleaf clients provide email address information on their users for Rapleaf to collect and append data. These email addresses are safeguarded and clients may provide additional security by disclosing only a one-way hash for the email addresses. Additionally, clients are not required to provide any supplemental user data to Rapleaf
+Our systems and database are structured around individual email addresses. Rapleaf’s users, members, and business customers provide email addresses to use our products and services. We hold these email addresses in confidence and do not rent, sell, or lease these email addresses to third parties.
 
-_Types of Information Collected_
+_Non-Personal Information_
 
-_Personally identifiable information (PII)_  
-PII is information that allows Rapleaf to append client data. Rapleaf may collect or maintain the following PII about these users:
+Our definition of “non-personal information” is information related to you but that cannot be used to personally identify you. We obtain non-personal information about you when you provide it to us, either separately or together with your personal information, when you access our site, or when you or another person initiates a search about you via our site. We may also obtain this information from other open web sites or when a business customer provides it to us.
 
--Email address  
--Website username or screen name  
--First and last name  
--Physical address  
--Phone number
+We collect the following types of non-personal information: demographic (e.g., age, gender), psychographic (e.g., interests), and sociographic (e.g., social networking relationships, social networks used). This information also includes non-personal information that we gather as you navigate our website. We log this information when you visit and browse our website. We record details such as browser types, domains, statistics of your visit including page views, and time spent on the website. We use this information to improve our services for you and to our customers.
 
-_Non-PII_  
-Non-PII is information collected by Rapleaf in the normal course of operating its business that does not reveal the specific identity of a client’s user. Types of non-personally identifiable information collected include:
+We do not knowingly collect information about your religion, finance, health, or sexual preference, nor do we knowingly collect information about children. We view these types of information as sensitive and understand they require additional protections under various laws. We encourage you to take extra precautions in posting sensitive personal information via openly available web sites, as this data could be used in ways you may not anticipate or desire. It is your responsibility to review web sites’ privacy policies and set the appropriate profile settings available to you before posting sensitive information online.
 
--Demographic  
--Psychographic/Interests  
--Friend map/network  
--Websites Used  
--Other social web data
+**Uses of Personal Information**
 
-_Source of Information Collected_
+We use personal and non-personal information to provide our services to our users, members, and customers, as described below.  
+_  
+Uses of Information About Data Subjects_
 
-_PII_  
-PII is collected from clients every time clients use the Rapleaf service. The information is then stored in Rapleaf’s secure database. PII is also collected from publicly available sources and indexed from these sources. These sources typically include sites where PII is available to view by the public.
+For people who have a Rapleaf profile but who have not visited our site, searched for someone via our site, nor used Upscoop, your profile page is the result of having been the subject of a search initiated by a Rapleaf user, member, or business customer. We use the personal and non-personal information collected about you as a result of that search to respond to the initial search, as well as to respond to any future searches initiated by via our site.
 
-Also, some PII data in Rapleaf database may be obtained from third-party services or internal, patent-pending algorithms or other mechanisms.
+The value of having a Rapleaf profile is in its ability to aggregate your profiles on disparate web sites and amplify your visibility and accessibility for others online. We seek to promote your good name, enhance other people’s trust in interacting with you, and make it easier for your friends and associates to find you online. We encourage you to consider becoming a member. If, however, you are not interested in maintaining this profile page, then you can opt-out of Rapleaf. (See Your Choices and Privacy Preferences below for more information.)
 
-_Non-PII_  
-Non-PII is collected from clients to supplement email address data, but only at client’s discretion when using the TrustFuse service. This information is also stored in Rapleaf’s secure database.
+_Uses of Information About Users_
 
-Most non-PII information or data is collected from publicly available sources. Such sources include social networking sites, commerce sites, e-tailers, government records, and other popular websites where user profile information is displayed and readily accessible.
+As an individual Internet user, we provide you with (1) a service to search for reputation and other information about people with whom you are communicating, interacting, transacting, or interested in learning about in general, and (2) a service called Upscoop to upload your email address book and find your contacts on major social networking sites and online communities.
 
-_Accuracy of Data_
+By entering an email address into our search box via Rapleaf.com, we use the address to search our system and openly available sources to then provide you with additional personal and nonpersonal information associated with that address. Results may include demographic information (e.g., age, location), sociographic information (e.g., social networking memberships), a Rapleaf reputation score, an email domain reputation, a list of ratings submitted about the person, and an opportunity for you to register as a member and then rate the person. You may choose to use our service to search your own email addresses to see what personal information is openly available about you online and how we may score your reputation. In either case, we store email addresses and associated personal and non-personal information in Rapleaf profile pages displayed as a result of either user-initiated Rapleaf searches or Upscoop to respond to future searches initiated by other Rapleaf users, members, and business customers.
 
-Rapleaf maintains the necessary procedures and does its utmost to ensure the quality and accuracy of the user data in its possession. As such, Rapleaf invites clients to access or update their users’ details as necessary. Rapleaf is committed to providing reasonable and practical access to allow clients the opportunity to identify and correct any inaccurate details we may hold. This can be done by contacting [privacy@rapleaf.com](mailto:privacy@rapleaf.com).
+Upscoop.com is a social network mass lookup utility developed by Rapleaf. By entering your email login credentials within Upscoop, we search major social networks for the email addresses within your address book, and display which of your contacts are members of what social networks. The social networks displayed include the URLs or links to each contact’s social network profile. We do not store your email login credentials. However, we do collect and store email addresses and names of your contacts for use in other Rapleaf services. Additionally, information collected by Rapleaf may also be displayed on Upscoop for given email address book search results.
 
-Also, all clients have the right to access or update user data submitted to Rapleaf by contacting privacy@rapleaf.com
+As a user, we may email you about our services, including special alerts, service-related announcements, offers, awards, surveys, contests, promotions, and updates. You are always given the option to not receive future communications from us by clicking on the unsubscribe link in the footer of any Rapleaf email.
 
-**Collection of Ratings**
+We use non-personal information to track and monitor aggregate usage of our website and for internal analysis, quality control, and improvements to our service. We collect such information by using cookies and other standard web technologies. (See Log Files and Cookies below for more information.)
 
-Historical and statistical information is obtained from ratings submitted by members. The ratings have a qualitative component in the form of comment/feedback, as well as a quantitative component as a score or point value. We will also aggregate historical, statistical, and other reputation information across all member accounts, and we store this information.
+Uses of Information About Members
 
-Ratings are collected, surveyed, evaluated and scored by the system to assess the quality of comment/feedback. Along with our proprietary fraud system, we allow members to challenge comments made about them by emailing Rapleaf. This challenge process promotes the development of the most accurate member reputations.
+As a Rapleaf member who has completed the sign-up process, we use your personal and non-personal information to: (1) respond to search requests made on our site about you; (2) assist you in managing your online reputation; (3) communicate with you from time to time; and (4) track your use of our site.
 
-Our system uses a Rapleaf score/point system as an input to Rapleaf’s scoring algorithms. A point balance will be maintained for each member and nonmember based upon the number and type of ratings on that particular individual. We may also use this information to add, adjust or discontinue certain services or functionality and to enforce our policies and procedures.
+When a user, member, or customer initiates a search via Rapleaf based on your email address, we will display your membership profile. Results will include the specific personal and non-personal information you permit us to display within our system, along with your Rapleaf reputation score, email domain reputation, and the list of ratings submitted about you by your friends and colleagues. This same information is also provided to anyone who clicks on a Rapleaf badge you’ve displayed on your website or blog.
 
-Members and nonmembers may receive ratings from Rapleaf from time to time. These ratings will be based on actions that were performed with respect to the member/nonmember’s account.
+We use your personal information to communicate with you as a member, primarily via your registered email address. We communicate with you in accordance with your preferences and in response to your inquiries, to provide requested services, and to help you manage your account. In addition, you may choose to receive emails when you are rated by others or subscribe to our newsletter. We provide you with ways to unsubscribe from any of the above communications. (See Your Choices and Privacy Preferences below for more information.)
 
-**Collection of Aggregate Information**
+As a member, we may email you about our services, including special alerts, service-related announcements, offers, awards, surveys, contests, promotions, and updates. We opt our members into receiving communications from us. You are always given the option to not receive future communications from us by clicking on the unsubscribe link in the footer of any Rapleaf email.
 
-We aggregate statistical, historical and other similar information about our members and non-members and their use of our system.
+We use non-personal information to track and monitor aggregate usage of our website and for internal analysis, quality control, and improvements to our service. We collect such information by using cookies and other standard web technologies. (See Log Files and Cookies below for more information.)
 
-**Collection of Other Information**
+Information Uses About Customers
 
-We store information that we collect automatically through cookies, clear gifs and/or log files. We use this information to create a profile of our members’ browsing preferences.
+We collect, process, and provide personal and non-personal information to our business customers for use in enhancing their own products and services. Learning more about your interests, values, memberships, activities, and interactions online is increasingly relevant to maintaining the high-quality and personalized experience you value from the organizations, businesses, and technology providers you rely on today.
 
-_Cookies_
+It is important to recognize that all kinds of organizations make use of online tools, sites, and resources to learn about you as an individual (i.e., user, customer, member, employee, merchant, student, voter). Our goal is to make this a cost-effective and practical process for our customers. By utilizing our pioneering and proprietary technology, these companies and organizations are now in a position to better understand their users and provide enhanced services.
 
-Rapleaf uses session ID cookies to enhance the functionality of the service offered to clients and users and to make it easier for users to navigate our system. This cookie expires the browser is closed. We may also use persistent cookies to store members’ email and other information so it does not have to be re-entered when returning to the site. This cookie remains on a user’s hard drive for an extended period of time and can be removed by following directions provided by their Internet browser
+Customers provide us with a list of email addresses to process. We search our database and open network sites for personal and non-personal information associated with these addresses and consolidate the results into profiles that can be used by our customers. Some examples of how our customers make use of our service include:
 
-In addition, Rapleaf will use cookies to indicate the number of computers used by each customer to log-in to the Rapleaf service, to prevent abuse of the system and logins.
+  * Improving communications with their users by crafting more relevant or timely messaging
+  * Enhancing fraud prevention and authentication measures
+  * Modifying their website’s user interface and controls
 
-Persistent cookies also enable us to track and target the interests of our users to enhance the experience and functionality on our site.
 
-Note, if users reject cookies they may still use our system, but their ability to use some areas of our site may be limited.
 
-_Log Files_
+We ensure that information provided, processed, and reported to our customers is done so in a private and secure manner, and we actively work with our customers to ensure compliance with the policies and procedures they have set for privacy and security.
 
-We gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, to administer the site, to track users’ movements around the site, to control fraud, and to gather demographic information about our user base as a whole.
+Information Uses for Ratings Submitted by Members
 
-**Information Uses**
+Historical and statistical information is obtained from ratings submitted by members. The ratings have a qualitative component in the form of comment/feedback, as well as a quantitative component as a score or point value. We aggregate historical, statistical, and other reputation-based information across all member accounts and we display this information in response to searches via Rapleaf.
 
-Rapleaf clients may use PII information of their users to further contact and communication with such users. Client may also use PII data to further append their database for marketing, fraud prevention, and authentication purposes.
+Ratings are collected, surveyed, evaluated and scored within our system to assess the quality of comment/feedback. Our system uses a point system as an input to Rapleaf’s scoring algorithms. A point balance will be maintained for each data subject based upon the number and type of ratings on that particular individual. We may use or modify this information to add, adjust, or discontinue certain services or functionality and to enforce our policies and procedures, as set forth in our [Terms of Service](http://blog.rapleaf.com/tos/).
 
-Clients using non-PII can also append data onto their existing data. Typically non-PII data is used for targeted advertising, improved offerings, and better services.
+Along with a proprietary fraud management system, we allow any data subject to challenge comments made about him/her by emailing Rapleaf. We encourage data subjects who would like more control over their ratings to become Rapleaf members. However, anyone is welcome to email us with comments or corrections, which we will consider making on their behalf. Overall, we believe our challenge process promotes the development of the most accurate reputation information online.
 
-**Wholly Owned Subsidiaries**
+**Information Sharing and Disclosure**
 
-_Upscoop_
+Except as described in this statement, we will not disclose your personal information outside of Rapleaf. We do not sell, rent, or lease email addresses to any outside third parties nor is it in our interests or those of our customers to see these email addresses used inappropriately to contact you.
 
-Rapleaf’s subsidiary product Upscoop is a social network mass lookup utility. With Upscoop, users can enter their email login credentials (applicable to only the major free webmail services), at which point Upscoop’s system will gather a user’s email address book, search all the major social networks for the email addresses within the email address book, and display results showing which address book contact is on what social network. The social networks displayed will be linked to the address book contact’s social network profile.
+Disclosure to Searched Sites
 
-NOTE: Upscoop does not store email login credentials.
+When we search for an email address either provided by a user, member, or business customer, our system first looks in our system to see what information we have associated with that address. For an email address not in our system, we search openly available web sites and create a profile page based on the results of those searches. As a result, web sites we search may cache or store that email address in their servers. Rapleaf assumes no responsibility or liability for the information, collection, and disclosure practices of any of these third party sites.
 
-Information captured via Upscoop may be used to assist Rapleaf’s services. Additionally, information collected by Rapleaf during the course of its business may also be displayed on Upscoop for given email address book search results.
+_Disclosure to Commercial Partners_
 
-**Communicating with Members and Nonmembers**
+We may enter into commercial arrangements to enable partners to provide our service to their users and/or to provide you access to their products and services. As a result, we may share personal and non-personal information with these commercial partners. It is our policy to contractually limit sharing in these instances to only the information required to provide a service, provide notice, and we give you the opportunity to opt-out at any time.
 
-We will typically communicate with our members using their registered email address. We will communicate with members in accordance with their preferences and in response to inquiries, to provide requested services, and to manage their accounts.
+_Disclosure to Service Providers_
 
-_Ratings Emails_
-
-Members may choose to receive emails when rated and may subscribe or unsubscribe at any time by going to: <http://www.rapleaf.com/unsubscribe>
-
-_Newsletters_
-
-Members may choose to receive our email newsletters and may subscribe or unsubscribe at any time by going to: <http://www.rapleaf.com/unsubscribe_newsletter>
-
-_Other Communications_
-
-We may send information to members and nonmembers by email about our services, including special alerts, service-related announcements, offers, awards, surveys, contests, promotions and updates. Members and nonmembers will be given the option not to receive these types of communications by clicking on the unsubscribe link in the footer of any Rapleaf email.
-
-**Third Party Disclosure**
-
-Rapleaf may disclose full user data in Rapleaf’s database to third parties in the following limited circumstances:
-
--Upon receipt of a properly authorized and authenticated governmental request for information  
--In response to a subpoena or a court order  
--To comply with relevant laws  
--In response to an investigation of fraud regarding a specific user, customer, or client  
--If Rapleaf is sold or acquired  
--In an effort to safeguard the person or property of a Rapleaf employee or a third party or client
-
-**Sharing Personally Identifiable Information**
-
-We do not sell, rent, or lease email addresses to partners, clients, third-party marketers, or other third parties.
-
-If need be, we will share PII about our members as follows:
-
-_Service Providers_
-
-We use third parties service providers for network, security, email and hosting services for our system. We will only provide member information that is necessary for third parties to provide their respective services to us. These third parties are prohibited from using PII for any other purposes.
-
-_Legal Requests_
-
-Even though members are relatively anonymous while using our system, the improper or illegal use of our system may jeopardize that anonymity. We reserve the right to disclose PII about our members, as required by law and when we believe that disclosure is necessary to protect our rights or interests, the rights or interests of others and/or to comply with a judicial proceeding, court order, or legal process. All of this is done can be done without a subpoena.
-
-**Standard Privacy Practices**
-
-_Compliance_
-
-Rapleaf works with recognized individuals and industry experts that support consumer privacy. Rapleaf also supports legislation and regulatory efforts to introduce fair and workable guidelines that protect the privacy of consumers.
-
-_Security_
-
-All data provided to and used by Rapleaf is stored on Rapleaf’s secure servers. However, transmission of information via the internet is not completely secure. Although Rapleaf will commit to protecting client’s data, Rapleaf cannot guarantee the security of data transmitted to Rapleaf. Once Rapleaf has received client information, Rapleaf will use strict procedures and security features to try to prevent unauthorized access.
-
-The data that we collect may be transferred to and stored at a destination outside of San Francisco. By submitting user data to Rapleaf, clients consent to the transfer and storage of personal data outside of San Francisco. Rapleaf will take all steps reasonably necessary to ensure that data outside San Francisco is treated securely and in accordance with this Privacy Policy.
-
-_Safe Harbor Agreement_
-
-Rapleaf is committed to abiding by the Safe Harbor Agreement in order to comply with the European Commission’s Directive on Data Protection. This includes:
-
--Regulation by a third-party  
--In-house privacy program  
--In-house verification process  
--Dispute resolution process
-
-_Children’s Online Protection_
-
-Children under the age of 13 are not permitted to use our system. Also, members agree to not rate a child or knowingly use Rapleaf in any way to obtain information about a child.
-
-Rapleaf does not knowingly collect data from or on children. In the event that Rapleaf learns it has collected data from an email address belonging to a child under age 13, Rapleaf will delete that data as quickly as possible from our database. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@rapleaf.com](mailto:privacy@rapleaf.com).
-
-**Other**
+We may use third party service providers for network, security, email, and hosting services for our system. Suppliers and service providers are required by contract to keep confidential the information received on behalf of Rapleaf and may not use it for any purpose other than to carry out the services they are performing for Rapleaf.
 
 _Links to Third Party Sites_
 
-Additionally, the Rapleaf site may from time to time contain links to external third party websites not directly associated with Rapleaf and its wholly-owned subsidiaries. Rapleaf encourages members and clients to review the privacy and security policies of an externally linked websites that may be accessed through the Rapleaf site. Rapleaf assumes no responsibility or liability for the information, collection, and disclosure practices of any sites that a user can access through the Rapleaf site. Please check the privacy policies of external third party websites before you submit any personal data to them.
+We may provide links to third party websites not directly associated with Rapleaf. We do not provide these partnering sites with personal information on our users or members. We encourage you to review the privacy and security policies of any externally linked websites that may be accessed through our sites before you submit any personal information to them. Rapleaf assumes no responsibility or liability for the information, collection, and disclosure practices of any of these third party sites.
 
-_Business Transitions_
+_Disclosure Required By Law_
 
-In the event Rapleaf goes through a business transition, such as a merger, acquisition by another company, or a sale of all or a portion of its assets, member data client’s user data will likely be among the assets transferred to a third party. The third party would then have the right to continue using such information as set forth in this policy. Clients and members will be notified via email and prominent notice on the Rapleaf site for 30 days of any such change in ownership or control of member’s client’s user data.
+Under certain circumstances personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. In the event that we are legally compelled to disclose your personal information to a third party, we will notify you with the contact information you have provided to us in advance unless doing so would violate the law or a court order.
 
-_Legal Nature_
+**Your Choices and Privacy Preferences**
 
-Please note that this Privacy Policy is not intended to create a legally binding agreement between Rapleaf and clients of the Rapleaf services. This policy has been created as a guide to the privacy practices of Rapleaf and is not a contractual document. Rapleaf will act to ensure it complies with the privacy principles contained in this Privacy Policy.
+We are committed to ensuring the quality and accuracy of the personal information maintained by Rapleaf. After signing in as a member, you can access, review, and change your registration information at any time. You may change your password, username, name, and any other communication preferences within our system. You may access other information collected and processed about yourself and adjust the display settings, including subscribing or unsubscribing to any email communications from Rapleaf.
 
-_Changes to Privacy Policy_
+We also provide anyone the opportunity to permanently opt-out of our services. Upon receiving an opt-out request, we will send a confirmation to the email address you enter. You must respond to this email to complete the process. For additional information or to opt-out an email address now, see <http://www.rapleaf.com/opt_out>.
 
-Rapleaf reserves the right to modify this privacy policy as business or technical needs require. Changes to the privacy policy will be posted on this website and the effective date of the policy will be modified to reflect the effective date of the most recent version.
+We provide our business customers with the means to access, review, update, and/or delete information they have submitted to Rapleaf. We ask our business customers to work through their Rapleaf contact to take advantage of any of these mechanisms.
 
-**Opt-Out**
+If you have any questions about your choices and privacy preferences, then we invite you to contact us via email at [privacy@rapleaf.com](mailto:privacy@rapleaf.com).
 
-An individual may request an email address (and information pertaining to this email address) to be permanently removed from Rapleaf’s databases by visiting:
+**Children’s Privacy**
 
-<http://www.rapleaf.com/opt_out>
+We do not knowingly collect personal information about children. Our systems are not designed for the use of children under the age of 13. Also, we ask that our members agree to not rate a child or knowingly use Rapleaf in any way to obtain information about a child. In the event that Rapleaf learns it has collected personal information belonging to someone under age of 13, Rapleaf will delete that information from our database. If you believe that we have any information from or about a child under 13, please contact us at [privacy@rapleaf.com](mailto:privacy@rapleaf.com).
 
-**Contact Us**
+**Log Files and Cookies**
 
-If you have any queries about this Privacy Policy, wish to report a privacy issue, or wish to know more about our complaint handling procedure, please contact [privacy@rapleaf.com](mailto:privacy@rapleaf.com). 
+_Log Files_
+
+We gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. We use this information to analyze trends, to administer the site, to track users’ movements around the site, to control fraud, and to gather demographic information about our user base as a whole.
+
+Cookies
+
+A cookie is a small text file that is stored on your computer when you visit our website or other websites through your computer. We use both session cookies and persistent cookies to make it easier for you to navigate our site, improve security, enhance the functionality of certain features, and improve performance.
+
+Rapleaf uses session cookies to enhance the functionality of our services and make it easier for you to navigate our system. This cookie expires when the browser is closed.
+
+We also create persistent cookies for each member so s/he does not have sign in every time s/he returns to our site. This cookie remains on your hard drive for an extended period of time and can be removed by following directions provided by your Internet browser.
+
+To detect and prevent potential abuse of our system and logins, we use persistent cookies to indicate the number of computers you use to login to Rapleaf. These cookies are also used to personalize your experience with and enhance the functionality on our site.
+
+If you set your browser to reject cookies, then you may still use our system, however your ability to use some areas of our site may be impaired.
+
+**Security**
+
+Rapleaf takes seriously the trust you place in us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of information, Rapleaf uses a range of procedures to safeguard the information we collect.
+
+While there is always some risk of a security compromise, we tightly control access to personal information through technical, physical, and administrative security measures. By contract, we require third parties with whom we share personal information to implement appropriate security measures to maintain the confidentiality of such information.
+
+Please recognize that protecting your personal information and reputation is also your responsibility. We ask you to be responsible for safeguarding your password, secret questions and answers, and other authentication information you use to access our site. You should not disclose your authentication information to any third party and should immediately notify Rapleaf of any unauthorized use of your password. Rapleaf cannot secure personal information that you release on your own.
+
+Despite Rapleaf’s efforts to protect your personal information, there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the Internet will be intercepted.
+
+**Business Transitions**
+
+In the event that Rapleaf goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information and non-personal information will likely be among the assets transferred. You will be notified in advance via email and prominent notice on our website of any such change in ownership or control of your personal information. We will require an acquiring company or merger agreement to uphold the material terms of this privacy statement, including honoring requests for account deletion.
+
+**Changes to this Statement**
+
+This Privacy Statement was last updated March 17, 2008. A notice will be posted as part of this Privacy Statement and on our login pages for 30 days whenever this Privacy Statement is changed in a material way, highlighting both the old and new content in a way that makes the changes easy to understand.
+
+**Contact Information**
+
+If you have questions about this statement, please send e-mail to our privacy administrator at [privacy@rapleaf.com](mailto:privacy@rapleaf.com). You can also contact us at this address if you have a question about our handling of your information:
+
+Privacy Administrator  
+Rapleaf  
+657 Mission Street, Suite 600  
+San Francisco, CA 94105 
