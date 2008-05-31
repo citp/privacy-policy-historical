@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amity.edu privacy policy that was archived on 2007-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071116025755id_/http%3A//www.amity.edu/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amity.edu privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531113052id_/http%3A//www.amity.edu/PrivacyPolicy) for the most accurate reproduction.*
 
 # || Privacy Policy ||
 
