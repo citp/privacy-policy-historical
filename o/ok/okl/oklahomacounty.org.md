@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oklahomacounty.org privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202074702id_/http%3A//www.oklahomacounty.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oklahomacounty.org privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531133738id_/http%3A//www.oklahomacounty.org/privacy.htm) for the most accurate reproduction.*
 
 # Oklahoma County Privacy Policy
 
