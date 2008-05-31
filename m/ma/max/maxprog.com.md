@@ -1,16 +1,11 @@
-> *The following text is extracted and transformed from the maxprog.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202091757id_/http%3A//www.maxprog.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxprog.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531162418id_/http%3A//www.maxprog.com/privacy.html) for the most accurate reproduction.*
 
 # Maxprog | Software development for Macintosh and Windows
 
 | 
 
-** | 
-
-| 
-
 **Privacy Policy of www.maxprog.com (this "Site")**  
   
----|---  
 |   
   
 | 
@@ -85,6 +80,4 @@ No information may be submitted to MAX Programming by persons under the age of 1
   
 | 
 
-MAX Programming may without notice change, modify or withdraw access to this Site, or the content of these pages at any time. The materials presented here are subject to change.  
-  
-**
+MAX Programming may without notice change, modify or withdraw access to this Site, or the content of these pages at any time. The materials presented here are subject to change.
