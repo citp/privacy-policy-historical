@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipjunkie.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218094350id_/http%3A//www.clipjunkie.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipjunkie.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531181051id_/http%3A//www.clipjunkie.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us at ClipJunkie.com
 
