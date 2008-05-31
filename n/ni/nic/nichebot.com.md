@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nichebot.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011043037id_/http%3A//www.nichebot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichebot.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531143237id_/http%3A//www.nichebot.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -74,7 +74,7 @@ Cookies can be used to electronically gather information about you.� Again, it
 
 **HOW INFORMATION MAY BE USED**
 
-The use of information as described below may or may not be how information that is collected is customarily used by this site.� While actual use of any information collected may be used quite conservatively, you must assume that it is not.� You must assume that information collected is shared with other persons or entities for commercial purposes.� While this is uncommon in practice, you must assume that it is as you make your decision whether or not to view or interact with this website.� This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information.� This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with.
+The use of information as described below may or may not be how information that is collected is customarily used by this site.� While actual use of any information collected may be used quite conservatively, you must assume that it is not.� Your information collected is NOT shared with other persons or entities for commercial purposes or any other reason.�  Information, such as your name, address, phone number, email address and buying habits is only used for internal, in-house purposes and will NOT be used for any types of general commercial solicitation by any other persons. Lastly, we hate spam with a passion and would never sell, rent or share ANY of your information to any type of opt-in mailing house or anyone or any entity that could be constituted as sending unsolicited mail.
 
 **INFORMATION THAT IS NOT SHARED**
 
