@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213152345id_/http%3A//www.theregister.co.uk/odds/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531102158id_/http%3A//www.theregister.co.uk/odds/about/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register | The Register
 
 ### The Register is owned and operated by Situation Publishing.
 
 Situation Publishing   
-5th Floor   
-33 Charlotte Street   
+33 Glasshouse Street   
 London   
-W1T 1RR
+W1B 1DG
 
 The Register strongly believes in the importance of keeping readers' personal information personal. It will never use your information for any use beyond that stated or the permissions you give us.
 
@@ -36,11 +35,11 @@ If you encounter any problems with advertising please email [webmaster@theregist
 
 ### Email and Online Forms
 
-Readers who choose to subscribe to our optional headlines-by-email service, or complete any of our online forms, may be asked to supply personal data. If they choose to do so, that information is recorded and used for broad demographic information. If permission is granted, this information may be used to target specific users with occasional emails informing them about commercial services provided by The Register.
+Readers who choose to subscribe to our optional headlines-by-email service, or complete any of our online forms, may be asked to supply personal data. If they choose to do so, that information is recorded and used for broad demographic information, which may be used to target advertising. If permission is granted, this information may be used to target specific users with occasional emails informing them about commercial services provided by The Register.
 
 If permission is granted, this information may be used to send occasional emails containing offers from our partners. This will only ever be provided to readers who have specifically given us permission to use their information in this way.
 
-The Register will never use your data for anything beyond the reason stated and the permissions you grant us. To alter the emails which you receive from us, including unsubscribing from all email communications, please [visit this page](http://forms.theregister.co.uk/register/). Make sure that you enter exactly the same e-mail address as you used to sign up.
+The Register will never use your data for anything beyond the reason stated and the permissions you grant us. To alter the emails which you receive from us, including unsubscribing from all email communications, please [visit this page](http://account.theregister.co.uk/). Make sure that you enter exactly the same e-mail address as you used to sign up.
 
 ### Competitions
 
@@ -68,6 +67,10 @@ If permission is granted, this information may be used to send occasional emails
 
 The Register has partnered with other organisations to provide you with a number of service. All have their own privacy policies, which can be found here :-
 
+### Quantcast
+
+The Register is currently conducting market research in conjunction with Quantcast. [Privacy Policy](http://www.quantcast.com/docs/privacy)
+
 ### WorldPay
 
 WorldPay provide The Register with their credit card processing facilities. [Privacy Policy](http://www.worldpay.com/guarantee/terms.shtml)
@@ -76,9 +79,9 @@ WorldPay provide The Register with their credit card processing facilities. [Pri
 
 Expansys run The Register's Mobile and Wireless store. [Privacy Policy](http://www.expansys.com/terms.asp)
 
-### 5Star Networks
+### CV Library
 
-5Star run The Register's Download and Software sites. [Privacy Policy](http://www.5star-shareware.com/docs/privacy.html)
+CV Library power the Reg Jobs job hunting service. [Privacy Policy](http://www.cv-library.co.uk/privacy.html)
 
 ### Sirenic
 
@@ -90,11 +93,15 @@ Skinkers run The Register's NewsAlerts Service. [Privacy Policy](http://www.skin
 
 ### Rackspace
 
-Rackspace host The Register's websites, and manage the [hosting micro-site](http://www.theregister.co.uk/offers/hosting). [Privacy Policy](http://www.rackspace.co.uk/content/s2/PDFs/Legal/PrivacyStatement60131.pdf?from=5061727964710674)
+Rackspace host The Register's websites. [Privacy Policy](http://www.rackspace.co.uk/content/s2/PDFs/Legal/PrivacyStatement60131.pdf?from=5061727964710674)
 
 ### Data Protection
 
-Anyone who provides The Register with personal information is given the opportunity to manage how that information is used. This includes opting out of any services and restricting the use of that information. You can do that by visiting [this address](http://forms.theregister.co.uk/register/register) or by contacting Philip Mitchell.
+Anyone who provides The Register with personal information is given the opportunity to manage how that information is used. This includes opting out of any services and restricting the use of that information. You can do that by visiting [this address](http://account.theregister.co.uk/register/) or by contacting Philip Mitchell.
+
+### "Reg Jobs" Jobs by Email
+
+Anyone signing up for the "Reg Jobs" Jobs by Email service will be providing their data to both The Register & CV Library. You can cancel or modify your Jobs by Email preferences at any time by visiting [this page](http://jobs.theregister.co.uk/cgi-bin/regcandlogin.cgi) and logging into your account.
 
 ### Accessing your Data
 
@@ -114,10 +121,9 @@ If you wish to contact Situation Publishing regarding any aspect of the Privacy 
 
 The Data Controller   
 Situation Publishing   
-5th Floor   
-33 Charlotte Street   
+33 Glasshouse Street   
 London   
-W1T 1RR
+W1B 1DG
 
 ### By Email
 
