@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 39dollarglasses.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211033607id_/http%3A//www.39dollarglasses.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 39dollarglasses.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531134845id_/http%3A//www.39dollarglasses.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 39dollarglasses.com -- Privacy Policy
 
@@ -9,9 +9,9 @@
 
 **Does your website share information it receives?**
 
-We are committed to protecting your privacy. **We do not sell, trade, or otherwise distribute our customers’ personal information to any third party.** We collect only the minimum amount of information required to complete your order. This includes your shipping and billing information; your contact information (phone number & email address); and your prescription information. If you were referred to us from another website we may share information about the time of and amount of your purchase. No one is given your name, mailing address, phone number, email address, or any identifiable personal information; no personal information about you is given from our website or company. 
+We are committed to protecting your privacy. **We do not sell, trade, or otherwise distribute our customers� personal information to any third party.** We collect only the minimum amount of information required to complete your order. This includes your shipping and billing information; your contact information (phone number & email address); and your prescription information. If you were referred to us from another website we may share information about the time of and amount of your purchase. No one is given your name, mailing address, phone number, email address, or any identifiable personal information; no personal information about you is given from our website or company. 
 
-**E–Mails**
+**E�Mails**
 
 If you provide our website with your e-mail address, you may receive e-mails from us including order confirmation, shipping confirmation for your order(s), and occasional promotions and specials. If you do not want to receive marketing or promotional e-mails from us, a link is provided on any internal marketing email we may send. 
 
