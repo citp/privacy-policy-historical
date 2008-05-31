@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubeautomator.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202074904id_/http%3A//www.tubeautomator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubeautomator.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531065253id_/http%3A//www.tubeautomator.com/privacy.php) for the most accurate reproduction.*
 
 # Tube Automator - Privacy Policy
 
