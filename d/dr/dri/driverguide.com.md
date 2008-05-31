@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226123656id_/http%3A//members.driverguide.com/index.php%3Faction%3Ddoc%26page%3Dhome__docs__privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531070355id_/http%3A//members.driverguide.com/index.php%3Faction%3Ddoc%26page%3Dhome__docs__privacy) for the most accurate reproduction.*
 
 # DriverGuide.com
 
@@ -77,9 +77,7 @@ In the event of a material change to the privacy policy, registered DriverGuide 
 
 ## **9\. How to Contact Us**
 
-If you have questions about this Privacy Policy or anything else about DriverGuide, you can contact us at the following email addresses:
-
-[webmaster5@driverguide.com](mailto:webmaster5@driverguide.com) or [corporate@icentric.com](mailto:corporate@icentric.com)
+If you have questions about this Privacy Policy or anything else about DriverGuide, you can contact us by using our [Feedback Form](http://members.driverguide.com/index.php?action=feedback)
 
 Or by physical mail at:
 
@@ -90,15 +88,12 @@ Los Angeles, CA 90045, USA
 
 (310) 348-8120 
 
-Or by using our [Feedback Form](http://members.driverguide.com/index.php?action=feedback)
-
 ## **10\. Reporting Abuse**
 
-To report email abuse, please use our [Feedback Form](http://members.driverguide.com/index.php?action=feedback)   
-Or by email at: [abuse@DriverGuide.com](mailto:abuse@DriverGuide.com) or [postmaster@DriverGuide.com](mailto:postmaster@DriverGuide.com)
+To report email abuse, please use our [Feedback Form](http://members.driverguide.com/index.php?action=feedback)
 
 Website hosted by RackSpace.com ****
 
 ## **11\. Premium Memberships**
 
-For questions about DriverGuide Premium Memberships, email us at: [order.1@DriverGuide.net](mailto:order.1@DriverGuide.net)
+For questions about DriverGuide Premium Memberships, please use our [Premium Membership Feedback Form](http://members.driverguide.com/index.php?action=feedback&s=1&id=40)
