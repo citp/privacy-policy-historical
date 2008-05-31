@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localendar.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202125650id_/http%3A//localendar.com/calendar/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localendar.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601004023id_/http%3A//www.localendar.com/calendar/privacy) for the most accurate reproduction.*
 
-# localendar.com - Free web calendar hosting and calendar searching
+# Free web calendar hosting and searching - localendar.com
 
 _**Privacy Policy**_
 
