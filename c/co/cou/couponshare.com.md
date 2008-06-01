@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponshare.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210213602id_/http%3A//www.couponshare.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponshare.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602013903id_/http%3A//www.couponshare.com/privacy.asp) for the most accurate reproduction.*
 
 # CouponShare.com Privacy Policy - coupons, coupon codes, bargains, deals, free shipping, online shopping, discounts, online coupons, online discounts.
 
