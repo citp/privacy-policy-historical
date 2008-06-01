@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaman.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518114249id_/http%3A//jaman.com/a/download/%3FtheAction%3Dshow_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaman.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601024227id_/http%3A//www.jaman.com/a/download/%3FtheAction%3Dshow_privacy_policy) for the most accurate reproduction.*
 
 # Jaman - Jaman Privacy Policy
 
@@ -9,18 +9,22 @@ Jaman.com, Inc. ("Jaman") recognizes that its customers, visitors, Members, and 
 Please note that any video, image, or other content posted at the direction of Members onto the Jaman Site becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
 **Newsletters and Mailing Lists**  
-When you sign up for the Jaman service, you are automatically signed up for Jaman's monthly newsletter, "5,4,3,2,1". If you wish to be excluded from these mailings, go to your account page and turn off email notifications. You will be excluded from future mailings. If you have questions about your subscription to the mailing list, please email [support@jaman.com](mailto:support@jaman.com)
+When you sign up for the Jaman service, you are automatically signed up for Jaman's newsletters and special offers targeted for your interests from Jaman.com, . If you wish to be excluded from these promotional mailings from Jaman.com, go to your account page and turn off email notifications. You will be excluded from future mailings. If you have questions about your subscription to the mailing list, please email [support@jaman.com](mailto:support@jaman.com)
 
 **The Information Jaman Collects** **  
 **_Account Information:_ You provide certain personally identifiable information (such as your name, email address, credit card information –including billing address--, and age) to Jaman in order to participate in various activities on the Jaman Site such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or receiving newsletters or other mailing lists.
 
 _Profile:_ You may also elect to provide information about yourself in your profile. Jaman does not require you to fill out a profile in order to participate in the service or community.  Jaman makes no claims about the privacy of publicly available profile information.
 
+Members of the Jaman Community have the ability to post reviews and comments on the Jaman web site which may contain personally identifiable information such as the users' name, if they choose to use their own name as their Jaman community user name. We obtain the users consent to post their name prior to their posting. 
+
 _Cookies Information:_ When you visit the Jaman Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Jaman uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Jaman Site may not function properly if the ability to accept cookies is disabled. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
 _Log File Information:_ When you use the Jaman Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
 _Clear GIFs Information:_ When you use the Jaman Site, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Members anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our Members to track which emails are opened by recipients.
+
+_Online Surveys and Polls:_ Jaman values opinions and comments from members, so we may conduct online surveys. Participation in these surveys is entirely optional. Typically, the information is aggregated and used to make improvements to Jaman and to develop appealing content, features and promotions for members. Survey participants are anonymous unless otherwise stated in the survey.
 
 **The Way Jaman Uses Information**  
 If you submit personally identifiable information to us through the Jaman Site, we use your personal information to operate, maintain, and provide to you the features and functionality of the Jaman Site.
@@ -44,7 +48,7 @@ _Community Involvement:_  If you use groups, reviews, or film blog on this Web 
 
 We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out (for example, our newsletter). We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Jaman Site changes or for customer service purposes).
 
-We will send you service-related announcements on rare occasions when it is necessary to do so.  For instance, if our service is temporarily suspended for maintenance, we might send you an email.  Generally, you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account.
+We will send you account and service-related announcements  from time to time when it is necessary to do so.  For instance, if our service is temporarily suspended for maintenance, we might send you an email.  Generally, you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account.
 
 We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Jaman Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
 
@@ -64,39 +68,26 @@ Jaman stores information about which films you preview in streaming flash format
 
 
 **Your Choices** **  
-** You may, of course, decline to submit personally identifiable information through the Jaman Site, in which case Jaman may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that media files uploaded by Members to the Jaman Site may not be able to be removed and remain subject to our Terms of Use. 
+** You may, of course, decline to submit personally identifiable information through the Jaman Site, in which case Jaman may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. You can also request that your personal information be updated or deleted at any time by e-mailing support@jaman.com. Updates, inaccuracies, and requests for deletion will be responded to within 72 hours. Please note that media files uploaded by Members to the Jaman Site may not be able to be removed and remain subject to our Terms of Use. 
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times. 
 
 Please contact Jaman with any questions or comments about this Privacy Notice, your personal information, your consent, or if you need help with your opt-in or opt-out choices (provided on the website) by emailing [support@jaman.com](mailto:support@jaman.com). 
 
-**Third-party Advertisers, Links to Other Sites** **  
-** Jaman may allow other companies, called third-party ad servers or ad networks, to serve advertisements within the Jaman Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Jaman Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
-
-Jaman does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Jaman to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Jaman Site, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you. 
-
-You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. Jaman's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-
-Currently, Jaman has relationships with the following third-party ad servers or ad networks:
-
-  1. Google, Inc.  
-[http://www.google.com/privacypolicy.html ](http://www.google.com/privacypolicy.html%C2%A0)
-
-
-
-Jaman uses Google to track traffic to the site by sending a JavaScript-related message to Google's servers from every page accessed.  Information collected may include identifiable information such as IP address, general geographic region, and type of computer.  The information that Google collects for tracking purposes is not connected in any way with your Jaman profile or identity.
+**Third-party Companies** **  
+**
 
 Jaman has a relationship with the following third-party mailing list service:
 
-  1. Constant Contact   
-[http://www.constantcontact.com/privacy_guarantee.jsp](http://www.constantcontact.com/privacy_guarantee.jsp)
+  1. ExactTarget  
+[http://email.exacttarget.com/ETWeb/company_blog.aspx?id=82](http://email.exacttarget.com/ETWeb/company_blog.aspx?id=82)
 
 
 
-Jaman uses Constant Contact to collect and store data for the purpose of mailing list management and distribution.  They store, on our behalf, the information you provide (for example, full name, email address, etc) and use it for the express purposes of fulfilling mailing list service to Jaman, in accordance with their terms of service and privacy policy, above.  They will not use your information in ways other than those specified on their privacy policy.  All non-required information (for example, how you heard about Jaman) is for our information only so that we may know more about you.
+Jaman uses ExactTarget to collect and store data for the purpose of mailing list management and distribution.  They store, on our behalf, the information you provide (for example, full name, email address, etc) and use it for the express purposes of fulfilling mailing list service to Jaman, in accordance with their terms of service and privacy policy, above.  They will not use your information in ways other than those specified on their privacy policy.  All non-required information (for example, how you heard about Jaman) is for our information only so that we may know more about you.
 
 **Tell-A-Friend** **  
-** If you choose to use our referral service to tell a friend about our site (or the referral service of Constant Contact, our mailing list provider), we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Jaman stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+** If you choose to use our referral service to tell a friend about our site (or the referral service of ExactTarget, our mailing list provider), we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Jaman stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
 Your friend may contact us at [support@jaman.com](mailto:support@jaman.com) to request that we remove this information from our database.
 
@@ -113,8 +104,11 @@ The security of your personal information is important to us.  When you enter s
 **Our Commitment To Childrens' Privacy**    
 Protecting the privacy of young children is especially important. For that reason, Jaman does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Jaman Site from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, **then please do not use or access the Jaman Site at any time or in any manner**. If Jaman learns that personally identifiable information of persons less than 13 years of age has been collected on the Jaman Site without verified parental consent, then Jaman will take the appropriate steps to delete this information. 
 
+**Safe Harbor**    
+Jaman complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+
 **Special Note to International Members** **  
-** The Jaman Site are hosted in the United States and are intended for and directed to Members in the United States. If you are a User accessing the Jaman Site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Jaman Site, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
+** The Jaman Site are hosted in the United States and are intended for and directed to Members in the United States. If you are a User accessing the Jaman Site from the Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Jaman Site, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
 
 **Business Transitions  
 **In the event Jaman goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.  You will be notified via email or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information. 
@@ -124,11 +118,20 @@ Protecting the privacy of young children is especially important. For that reaso
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-**Date Last Modified:** This Privacy Notice was last modified April 15, 2007.
+**About TRUSTe Verification**  
+Jaman is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site http://www.jaman.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact Jaman Support at support@jaman.com.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
+
+The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this Web site.
+
+**Date Last Modified:** This Privacy Notice was last modified December 3, 2007.
 
 **Contact Information:**  
 Email: [support@jaman.com](mailto:support@jaman.com)  
 Address: 2955 Campus Dr, Suite 250, San Mateo, CA 94403  
 Phone: (650) 525-3500
+
+We will respond to requests to update user information, correct inaccuracies, or request profile/message deletion within 30 days. 
 
 | 
