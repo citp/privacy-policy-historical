@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quamut.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219114633id_/http%3A//www.quamut.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quamut.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601224328id_/http%3A//www.quamut.com/privacy) for the most accurate reproduction.*
 
-# Quamut: How To
+# Quamut: the go to how to
 
 Quamut.com and Quamut Wiki respect your privacy and will do our best to earn and keep your trust. This Privacy Policy identifies how we collect, use and protect the personal information you provide to us when you visit the Quamut.com and Quamut Wiki websites. By using the Quamut.com and Quamut Wiki sites, you agree with the terms and conditions of this Privacy Policy and related [Terms of Service](http://www.quamut.com/terms). 
 
