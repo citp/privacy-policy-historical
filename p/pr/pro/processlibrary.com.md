@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the processlibrary.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203095355id_/http%3A//www.processlibrary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the processlibrary.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601152410id_/http%3A//www.processlibrary.com/privacy) for the most accurate reproduction.*
 
 # ProcessLibrary.com Privacy Policy
 
@@ -53,5 +53,3 @@ When you use ProcessLibrary.com services, we make good faith efforts to provide 
 **Changes to this policy**
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
-
-Copyright © 2007 - Uniblue Systems Ltd. Uniblue Systems Ltd. Privacy Policy
