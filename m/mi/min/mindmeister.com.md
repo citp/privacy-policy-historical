@@ -1,0 +1,17 @@
+> *The following text is extracted and transformed from the mindmeister.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601063230id_/http%3A//www.mindmeister.com/home/privacy) for the most accurate reproduction.*
+
+# Online Mind Mapping - MindMeister
+
+## Privacy Statement
+
+We do not sell, trade, exchange or otherwise make available any personally identifiable information to any other company or organization. We may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site. 
+
+If you share a mind map with other users, they are part of your friend network and can access your name, email and skype information. 
+
+## Intellectual Property
+
+Our Terms and Conditions recognizes your right to retain full intellectual property protection for the digital content you create, including ideas and whole mind maps. Your ideas are yours, you own them. 
+
+## Confidentiality
+
+We will maintain all user created data and information in strict confidence (unless a user wishes to publish it) and we will take the same degree of care to protect that information as we would employ to protect similar information belonging to us. 
