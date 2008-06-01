@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ac-markets.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212053511id_/http%3A//www.ac-markets.com/forex-broker/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ac-markets.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602002245id_/http%3A//www.ac-markets.com/forex-broker/privacy-policy.aspx) for the most accurate reproduction.*
 
-# ACM privacy policy
+# ACM Forex Privacy policy
 
 The user should note that information contained on the ACM website is not intended for broadcast in any one particular country nor does ACM target any specific members of the general public or companies located in any particular country where broadcasting over the internet would be contrary to local law.
 
