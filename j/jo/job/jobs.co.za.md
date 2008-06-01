@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.co.za privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215094325id_/http%3A//www.jobs.co.za/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.co.za privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601235821id_/http%3A//www.jobs.co.za/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Jobs.co.za - Privacy Policy
 
