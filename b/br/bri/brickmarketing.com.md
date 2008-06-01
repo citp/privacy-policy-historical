@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brickmarketing.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201145208id_/http%3A//www.brickmarketing.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickmarketing.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601224017id_/http%3A//www.brickmarketing.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Online Marketing Agency and Internet Marketing Solutions and Services Company
 
@@ -69,3 +69,7 @@ Brick Marketing reserves the right to change this policy at any time. Please che
 This policy and the use of this Site are governed by Massachusetts law. Any claim related to the Site or this policy shall be brought in a federal or state court in Boston, Massachusetts, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of Brick Marketing consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Brick Marketing is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.
+
+## Online Ordering and Refund Policy
+
+All online orders are processed securely by the credit card processing company for Brick Marketing, 2Checkout.com. Any refunds can be done by contacting either Brick Marketing or 2Checkout.com directly.
