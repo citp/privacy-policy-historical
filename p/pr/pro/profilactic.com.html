@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the profilactic.com privacy policy that was archived on 2007-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231210840id_/http%3A//www.profilactic.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the profilactic.com privacy policy that was archived on 2008-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080601090727id_/http%3A//www.profilactic.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Profilactic.com - Privacy Policy</title>
@@ -11,24 +11,27 @@
   
 
 
-<script type="text/javascript" src="../scripts/dojo.js"></script>
+<script language="javascript" src="../scripts/dojo-release-1.1.0/dojo/dojo.js" djconfig="isDebug: false, parseOnLoad: true"></script>
 <script type="text/javascript">
+   dojo.require("dojo.string");
+
    function search() {
-      var search = document.getElementById("search");
+      var search = dojo.byId("search");
       var searchQuery = dojo.string.trim(search.value);
       if(searchQuery.length > 0) {
          location.replace("/searchresult.jspc?searchQuery=" + searchQuery + "&type=people");
       }
-   }
+   }   
 </script>
 
 <div class="header">
-  <div class="logo"><a href="index.jsp" title="Return to the Profilactic home page"><img src="../images/profilactic_logo_new.gif" alt="Profilactic -- preventing an online identity crisis" width="165" height="32" border="0"></a></div>
+  <div class="logo"><a href="index.jsp" title="Return to the Profilactic home page"><img class="logoimg" src="../images/logo_blank.gif" alt="Profilactic -- preventing an online identity crisis" width="165" height="32" border="0"></a></div>
    
   <div class="topnav" align="right">Guest: <a href="signup.jspc" title="Get your free Profilactic membership">Sign up</a> | <a href="login.jspc" title="Log into your Profilactic account">Log in</a></div>
     
   <div class="clear"></div>
 </div>
+
   <div class="full">
     <h1>Privacy Policy</h1>
     <p>Set forth below is a description of how Aggregated Media LLC ("Aggregated Media") collects and uses information that it receives through this Web site (the "Site"). <br>
@@ -74,7 +77,7 @@
     </p><br>
     <br>
   </div>
-  <div class="footer"><div class="footer_l"><a href="index.jsp" title="Profilactic - preventing an online identity crisis"><img src="images/profilactic_footer.gif" alt="copyright Profilactic " width="107" height="29" border="0" align="absmiddle"></a> Preventing an online identity crisis</div><div class="footer_r">© 2006-2007 <a href="http://www.aggregatedmedia.com" title="Visit Aggregated Media" target="_blank">Aggregated Media LLC</a><span id="web"> | <a href="about.jsp">Meet us</a> | <a href="terms.jsp" title="Read our Terms of Use">Terms of Use</a> | <a href="privacy.jsp" title="Read our Privacy Policy">Privacy Policy</a> | <a href="faq.jsp" title="See our Frequently-Asked Questions">FAQ</a> | <a href="http://www.profilactic.com/blog/index.htm" title="Read our Building Profilactic blog">Our Blog</a></span></div><div class="clear"></div></div>
+  <div class="footer"><div class="footer_l"><a href="index.jsp" title="Profilactic - preventing an online identity crisis"><img class="footer_logoimg" src="images/logo_blank.gif" alt="copyright Profilactic " width="107" height="29" border="0" align="absmiddle"></a> <p>Preventing an online identity crisis</p></div><div class="footer_r">© 2006-2008 <a id="copyright" href="http://www.aggregatedmedia.com" title="Visit Aggregated Media" target="_blank">Aggregated Media LLC</a><a id="terms" href="terms.jsp" title="Read our Terms of Use">Terms of Use</a><a id="privacy" href="privacy.jsp" title="Read our Privacy Policy">Privacy Policy</a><a id="blog" href="http://www.profilactic.com/blog/index.htm" title="Read our Building Profilactic blog">Our Blog</a></div><div class="clear"></div></div>
 
   <br>
 </div>
