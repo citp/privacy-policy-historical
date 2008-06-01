@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the midomi.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012194202id_/http%3A//www.midomi.com/index.php%3Faction%3Dmain.privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midomi.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601121939id_/http%3A//www.midomi.com/index.php%3Faction%3Dmain.privacy_notice) for the most accurate reproduction.*
 
-# midomi
+# Be Discovered on midomi! Register Now to Record Your Favorite Songs, Find Songs by Using Your Voice, View Videos, Join Fan Clubs, Share with Friends, and Much More For Free! - midomi.com
 
 Melodis Corporation (referred to herein as "Melodis") values the privacy of our customers, users, members, and others (collectively or individually "Customers") who use www.midomi.com, and any other websites or services owned or operated by Melodis. www.midomi.com is referred to herein as "midomi" and the services operated under midomi are referred to herein as the "midomi Service." This statement governs information you provide to us or that we learn from your use of the midomi Service and tells you how we may collect, use, and in some instances share this information.
 
