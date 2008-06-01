@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the aandesigners.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218113859id_/http%3A//www.aandesigners.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aandesigners.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601181415id_/http%3A//www.aandesigners.com/web-design-privacy-policy) for the most accurate reproduction.*
 
-# Web Design Dubai - Flash Website Dubai, Search Engine Optimization Dubai
+# AAN Designers / Web Design Dubai, Search Engine Optimization Dubai, Flash Website designers, Web Development Dubai
 
 AAN Designers is committed to protecting your privacy, which is why we have adopted this Privacy Policy. This Privacy Policy is intended to describe how your personal information is processed and used, and we will make every effort to ensure that our activities keep within the spirit of this Privacy Policy. You can tour through most of our site without giving us any information that personally identifies you, reveals personal information or allows us to contact you, but sometimes we do need information to respond to your requests. This privacy statement explains the data we collect from you and its use. Please read the complete privacy statement.
 
 Please note that by visiting and using **www.aandesigners.com** , you are accepting the practices described in this Privacy Policy.
 
-**What Information is AAN Designers gathering about its visitors and how is it being used?**   
+ **What Information is AAN Designers gathering about its visitors and how is it being used?**   
 Every computer connected to the Internet is provided with a domain name (e.g. yahoo.com) and an IP Address (e.g. 156.162.13.113). When a visitor requests a page from within the **www.aandesigners.com** website, our Web Servers automatically identify and log the HTTP request that is made to our Web Server. This information reveals nothing personal about you. In fact, very little information is automatically gathered and logged. This information may include:
 
   * The IP address of the site that may have referred you to **www.aandesigners.com**
-  * Your IP address
-  * Operating system that you may be using (e.g. Windows 98)
-  * Version and Make of Browser (e.g. Internet Explorer 5.0)
+  * Your IP address 
+  * Operating system that you may be using (e.g. Windows 98) 
+  * Version and Make of Browser (e.g. Internet Explorer 5.0) 
 
 
 
@@ -39,11 +39,11 @@ In addition, _AAN Designers_ will not send you e-mail that you have not agreed t
 
 * * *
 
-_AAN Designers_ will disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to 1.) conform to the edicts of the law or comply with a legal process served on _AAN Designers_ 2.) Protect and defend the rights or property of _AAN Designers_ , or visitors of **www.aandesigners.com**. 3.) Identify persons who may be violating the law, the legal notice, or the rights of third parties. 4.) Cooperate with the investigations of purported unlawful activities.
+ _AAN Designers_ will disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to 1.) conform to the edicts of the law or comply with a legal process served on _AAN Designers_ 2.) Protect and defend the rights or property of _AAN Designers_ , or visitors of **www.aandesigners.com**. 3.) Identify persons who may be violating the law, the legal notice, or the rights of third parties. 4.) Cooperate with the investigations of purported unlawful activities.
 
-_AAN Designers_ may disclose information to its partners to better expedite the service(s) you may request from _AAN Designers_ (e.g. If you provide information in our comments section of our form that explains what type of voice over talent you would need for a presentation then we may allow our audio production partner review that information). _AAN Designers_ uses reasonable precautions to keep the information disclosed to us secure. We are not responsible for any breach of security or for any actions of any third parties that receive the information. _AAN Designers_ also provides 'links' to a wide variety of other web sites on the Internet. We are not responsible for their Privacy Policies or how those web sites manage information about their users. We strongly recommend you to check with those web sites to determine their privacy policy. This privacy statement applies solely to information collected on **www.aandesigners.com**.
+ _AAN Designers_ may disclose information to its partners to better expedite the service(s) you may request from _AAN Designers_ (e.g. If you provide information in our comments section of our form that explains what type of voice over talent you would need for a presentation then we may allow our audio production partner review that information). _AAN Designers_ uses reasonable precautions to keep the information disclosed to us secure. We are not responsible for any breach of security or for any actions of any third parties that receive the information. _AAN Designers_ also provides 'links' to a wide variety of other web sites on the Internet. We are not responsible for their Privacy Policies or how those web sites manage information about their users. We strongly recommend you to check with those web sites to determine their privacy policy. This privacy statement applies solely to information collected on **www.aandesigners.com**.
 
-**Children's Data**
+ **Children's Data**
 
 * * *
 
@@ -54,4 +54,4 @@ Any changes to this Privacy Policy will be posted on this page so that you are a
 This is not a contract.   
 Copyright © 2005 AAN Designers. All rights reserved.
 
-Revision: Jul 1, 2005
+Revision: Jul 1, 2005 
