@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bakespace.com privacy policy that was archived on 2007-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070118094851id_/http%3A//bakespace.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakespace.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601162928id_/http%3A//www.bakespace.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
-# BakeSpace – Recipe Sharing - Food Tips - Coupons and Social Networking
+# BakeSpace.com - Recipe Swap and Food Social Network
 
 PRIVACY POLICY 
 
