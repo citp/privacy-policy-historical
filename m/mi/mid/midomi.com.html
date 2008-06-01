@@ -1,11 +1,10 @@
-<!--The following is the downloaded HTML source of the midomi.com privacy policy that was archived on 2007-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071012194202id_/http%3A//www.midomi.com/index.php%3Faction%3Dmain.privacy_notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the midomi.com privacy policy that was archived on 2008-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080601121939id_/http%3A//www.midomi.com/index.php%3Faction%3Dmain.privacy_notice) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-            <title>midomi</title>
+            <title>Be Discovered on midomi! Register Now to Record Your Favorite Songs, Find Songs by Using Your Voice, View Videos, Join Fan Clubs, Share with Friends, and Much More For Free! - midomi.com</title>
             <meta name="description" content="midomi.com find and discover music and people. Use your voice to instantly connect to your favorite music, and to a community of people that share your musical interests. Sing your own versions, listen to voices, see pictures, rate singers, send messages, buy music">
             <meta name="keywords" content="Music search, lyrics, community, singing search, voice recognition, name that tune, karaoke online, query by humming, sound recognition, speech recognition, sing, midomi, melodis">
             <meta name="robots" content="index, follow">
@@ -14,56 +13,122 @@
 </noscript>
 
 
-<link rel="stylesheet" type="text/css" href="parsed/combined_72.css">
+<link rel="stylesheet" type="text/css" href="http://static.midomi.com/parsed/combined_134.css">
 <script src="/index.php?action=main.js_messages" type="text/javascript"></script>
-<script src="parsed/combined_79.js" type="text/javascript"></script>
+<script src="http://static.midomi.com/parsed/combined_134.js" type="text/javascript"></script>
 <script type="text/javascript">
+  var voiceSearchResultsUtil = null;
   var flashLoader = new YAHOO.widgets.FlashLoader();
   var playlist = new YAHOO.widgets.Playlist();
+    var searchers = new YAHOO.widgets.VoiceSearchers({baseUrl:'http%3A%2F%2Fwww.midomi.com',staticUrl:'http%3A%2F%2Fstatic.midomi.com',urlPrefix:'',locale:'en_US'});
+  var audioPlayers = new YAHOO.widgets.AudioPlayers({baseUrl:'http://www.midomi.com', staticUrl:''});
 </script>
 </head>
 <body>
-
-
-<div id="doc2" class="yui-t8"> 
-<div id="doc2-inner">
-<div id="bd" class="ytheme-gray">
-  <div id="yui-main">
-    <div id="right_side" class="yui-b">
-      <div id="right_hd"> 
-        <div id="status_message"></div>
-        <a href="index.php"><div id="logo"></div></a>
-        <div id="login_password">
-<form name="playlistForm" id="playlistForm">
-  <input type="hidden" id="playlist_recording_id" name="playlist_recording_id" value="">
+<div id="doc4" class="yui-t4">
+  <div id="doc2-inner"> 
+    <div id="hd">
+      
+<script>
+var searchHelpToggle = new YAHOO.midomi.Toggle('searchHelpControl', 'header-search-help');
+</script>
+<div id="page-header">
+	<a id="header-home-link" href="/" alt="midomi home" title="midomi home"></a>
+    <div id="header-search">
+    	<div id="search-container">
+    		<div id="search-text">
+                  <form action="index.php?action=" method="get" name="search" id="search">
+  <div id="header-" class="textSearchBox ">
+    <input type="hidden" name="action" value="main.text_search"><input type="hidden" name="type" value="text"> 
+    <div class="textSearchArea">
+      <input type="text" id="header-searchTerm" name="searchTerm" autocomplete="off" value="Artist, song, or user">
+    </div>
+    <div class="textSearchButton"><input type="image" src="http://static.midomi.com/images/transparent.gif" onclick="return checkTextSearch('header-');"></div>
+    <nobr class="monsterClear"></nobr>
+  </div>
+<script>
+  var myTextField = new YAHOO.widgets.TextField("header-", "header-searchTerm", "Artist, song, or user");
+  function checkTextSearch(id){
+    var searchTerm = YUD.get(id+"searchTerm").value;
+    if( searchTerm == "Artist, song, or user" || YAHOO.lang.trim(searchTerm) ==''){
+      alert(JS_MSG.translate('Please enter a song or artist to search for.'));return false;
+    }
+    return true;
+  }
+</script>
 </form>
-                    <span><a class="link_text" href="index.php?action=main.register">Register</a></span>
-          <span class="light_separator">|</span>
-          <span id="ovl_forget_password" class="hidden"><a href="index.php?action=main.forgot_password">Forgot password?</a><span class="light_separator">|</span></span>
-          <span id="ovl_login_link"><a class="link_text" onclick="loginFormOverlay.toggle();">Login</a></span>    
-          <div id="login_form_overlay">
-            <div class="right">
-              <table>
-              <tbody><tr>
-              <td>Email: <input type="text" name="email" class="textbox" id="ovl_email"></td>
-              <td>Password: <input type="password" name="password" class="textbox" id="ovl_password"></td>
-              <td>Remember Me <input type="checkbox" name="remember_me" id="ovl_remember_me" value="yes" checked=""></td>
-              <td>&nbsp;<input id="ovl_login_button" type="button" value="Login" onclick="loginFormOverlay.submitForm();"></td>
-              </tr>
-              </tbody></table>
-              <input type="hidden" id="ovl_post_login_url" name="post_login_url" value="%2Findex.php%3Faction%3Dmain.privacy_notice">
-            </div>
-              <input type="hidden" name="rsa_modulus" id="ovl_rsa_modulus" value="C3666ADDA6EF2731420B3D92E7FB676B5E84E67DACBE0C137A438C5705DAB1C75034728F1D4AA039B95C3501236E36B65A77A4745B8B09CBA00C5F2AD7278931">
-              <input type="hidden" name="rsa_exponent" id="ovl_rsa_exponent" value="10001">
-          </div>
+
+    		</div>
+    		<div id="search-sing">
+                  <div id="searchModuleheader" class="flashModule" style="width: 252px;"></div>
+<div id="searchSpaceheader" style="height:24px; width: 252px; margin: 0 0 0 6px;"></div>
+<div class="advancedPermissionsLink hidden" id="advancedPermissionsLinkheader"><a onclick="searchers.doAdvancedPermissionsCheck('searchMovieheader');">Don't want to see this box again?</a></div>
+<script type="text/javascript">
+searchers.load({movieId:'searchMovieheader',moduleId:'searchModuleheader',spaceId:'searchSpaceheader',advancedPermissionsLink:'advancedPermissionsLinkheader',flashVars:{sid:'2oti61pqqqv14n32ntt31lvru1'}});
+</script>    		</div>
+    		<nobr class="monsterClear"></nobr>
+    		<div id="search-footer">
+    			<div class="advanced-search-control-div"><a id="advancedSearchControl">Advanced Voice Search</a></div>
+    			<div><a id="searchHelpControl" class="italic">How does this work?</a></div>
+    		</div>
+                  <div style="position:relative;z-index:3;">
+<div id="header-search-help" class="hidden">
+	<div class="titleBar">
+		<div class="titleBarClose"><a onclick="YAHOO.util.Dom.addClass('header-search-help', 'hidden')"><img src="http://static.midomi.com/images/header/search-help-close.gif"></a></div>
+		Search Help	</div>
+	<div id="help-body" class="largeLineHeight">
+        <div>
+            <b>Singing Search</b>
+            <div class="indent-15">You can find songs with midomi and your own voice.  Forgot the name of a song?  Heard a bit of one on the radio?  All you need is your computer's microphone.</div>
+            <ol>
+                <li>Click the "Singing Search" to start recording your search.                </li><li>Sing or hum your search.  For best results, keep the volume bar in the green, record 10 seconds or more of the tune, and avoid background noise.                </li><li>Click the green arrow to see the results.            </li></ol>
+            <div class="indent-15 italic"><b>For more information, visit our <a href="index.php?action=main.video">introduction</a>.</b><br>If you're having problems, <a href="index.php?action=main.mic_check">test your microphone</a>.</div>
+        </div>
+        <div class="topline_big">
+            <b>Text Search</b>
+            <div class="indent-15">Our text search is a quick way to find songs and people.  You can enter a band's or singer's name, all or part of a song title, and even find other midomi users.  Simply type in the term and press return or click the green arrow.</div>
+        </div>
+	</div>
+</div>
+</div>    	</div>
+    	<div id="label">
+                Find music:
+        </div>
+    </div>
+</div>
+<div id="nav-header">
+	<div id="nav-header-actions">
+          <div id="login_password">
+    <div id="login_initial">
+        <span><a class="link_text" href="index.php?action=main.register">Register</a></span>
+        <span class="light_separator">|</span>
+        <span id="ovl_login_link"><a class="link_text" onclick="loginFormOverlay.toggle();">Login</a></span>
+    </div>
+    <div id="login_form_overlay">
+    <div class="right">
+      <table>
+          <tbody><tr>
+              <td>Email: <input type="text" name="email" class="textbox" id="ovl_email" tabindex="1"></td>
+              <td>Password: <input type="password" name="password" class="textbox" id="ovl_password" tabindex="2"></td>
+              <td>Remember me <input type="checkbox" name="remember_me" id="ovl_remember_me" value="yes" checked="" tabindex="3"></td>
+              <td>&nbsp;<input id="ovl_login_button" type="button" value="Login" onclick="loginFormOverlay.submitForm();" tabindex="4"></td>
+              <td><input type="button" value="Cancel" onclick="loginFormOverlay.toggle();"></td>
+          </tr>
+      </tbody></table>
+      <input type="hidden" id="ovl_post_login_url" name="post_login_url" value="%2Findex.php%3Faction%3Dmain.privacy_notice">
+    </div>
+      <input type="hidden" name="rsa_modulus" id="ovl_rsa_modulus" value="C3666ADDA6EF2731420B3D92E7FB676B5E84E67DACBE0C137A438C5705DAB1C75034728F1D4AA039B95C3501236E36B65A77A4745B8B09CBA00C5F2AD7278931">
+      <input type="hidden" name="rsa_exponent" id="ovl_rsa_exponent" value="10001">
+    </div>
 
     <script>
     var loginFormOverlay;
     var init = function() {
         var args = 
         {
+            loginInitial:'login_initial',
             loginFormBlockId:'login_form_overlay',
-            loginLinkId:'ovl_login_link',
+            loginLinkId:'nav-header',
             emailId:'ovl_email',
             passwordId:'ovl_password',
             rsaModulusId:'ovl_rsa_modulus',
@@ -78,11 +143,77 @@
     };
     YAHOO.util.Event.on(window, 'load', init);
     </script>
-                </div> <!-- login_password -->
-
-      </div> <!-- right_hd -->
-      <div id="right_bd">
-      <div class="container standard-margin" style="margin:5px 10px"><div class="legalStuff">
+        <form name="playlistForm" id="playlistForm">
+          <input type="hidden" id="playlist_recording_id" name="playlist_recording_id" value="">
+        </form>
+        </div> <!-- login_password -->	</div>
+	<div id="nav-header-features">
+          
+<table class="indent-15" height="30">
+	<tbody><tr>
+                <td><a class="navItem rollover " href="index.php?action=main.sing&amp;from=topnav" id="sing_s">Studio</a></td>
+                <td><a class="navItem rollover " href="index.php?action=main.charts&amp;from=topnav" id="charts_s">midomi Stars</a></td><td><a id="charts_nav_menu" href="javascript:void(0)"></a></td>
+                <td><a class="navItem rollover " href="index.php?action=main.hot_artists&amp;from=topnav" id="hotartists_s">Hot Artists</a></td>
+                <td><a class="navItem rollover " href="index.php?action=main.explore&amp;from=topnav" id="explore_s">Explore</a></td><td><a id="explore_nav_menu" href="javascript:void(0)"></a></td>
+	</tr>
+</tbody></table>
+<div class="yui-skin-sam">
+  <div id="chartsmenu" class="yuimenu topNavMenu"> 
+    <div class="bd"> 
+      <ul class="first-of-type"> 
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_u&amp;from=topnav">Up and Coming</a>
+      </li> 
+      <li class="yuimenuitem"> 
+        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_tr&amp;from=topnav">Top Recordings</a> 
+      </li> 
+      <li class="yuimenuitem"> 
+        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_tp&amp;from=topnav">Top Performers</a> 
+      </li> 
+      <li class="yuimenuitem"> 
+        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_mr&amp;from=topnav">Recently Recorded</a> 
+      </li> 
+      <li class="yuimenuitem"> 
+        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_fr&amp;from=topnav">Recently Featured</a> 
+      </li> 
+      <li class="yuimenuitem"> 
+        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_rp&amp;from=topnav">Recently Playlisted</a> 
+      </li> 
+    </ul>             
+  </div> 
+  </div>
+</div> 
+<script type="text/javascript">
+  YAHOO.util.Event.onContentReady("chartsmenu", function () {
+    var oMenu = new YAHOO.widget.Menu("chartsmenu", { context: ["charts_s", "tl", "bl"], top: "10px", maxheight: 350, scrollincrement: 5});
+    oMenu.showEvent.subscribe(function () {
+      this.focus();
+    });
+    oMenu.render();
+    YAHOO.util.Event.addListener("charts_nav_menu", "click", oMenu.show, null, oMenu);    
+  });
+</script>
+<div class="yui-skin-sam"><div id="exploremenu" class="yuimenu topNavMenu"><div class="bd"><ul class="first-of-type"><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;playlist_id=4e2d7b73b9d009a6a8f0f8d74d5d45eb">Recommended</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;skip_rated=off&amp;skip_heard=off&amp;playlist_id=6612a42c1de9276104bdde155d8d8e8b">Up and Coming</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;skip_rated=off&amp;skip_heard=off&amp;playlist_id=4443516c5ee5e5ec4540f9b41851d849">Top Recordings</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;skip_rated=off&amp;skip_heard=off&amp;playlist_id=d70af6bf42e4cd014945029922e1faa8">Recently Featured</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;skip_rated=off&amp;skip_heard=off&amp;playlist_id=4a530cd337053902e9ca547ee6b3f0cd">Recently Playlisted</a></li></ul></div></div></div><script type="text/javascript">
+                YAHOO.util.Event.onContentReady("exploremenu", function () {
+                  var oMenu = new YAHOO.widget.Menu("exploremenu", { context: ["explore_s", "tl", "bl"], top: "10px", maxheight: 350, scrollincrement: 5});
+                  var subMenus = oMenu.getSubmenus();
+                  for(i in subMenus) {
+                    subMenus[i].cfg.setProperty('maxheight', 200);
+                  }
+                  oMenu.showEvent.subscribe(function () {
+                    this.focus();
+                  });
+                  oMenu.render();
+                  YAHOO.util.Event.addListener("explore_nav_menu", "click", oMenu.show, null, oMenu);    
+                });
+                </script>	</div>
+</div>
+<nobr class="monsterClear"></nobr>
+    </div>
+    <div id="bd" class="ytheme-gray">
+      <div id="yui-main">
+        <div class="yui-b">
+          <div class="container standard-margin" style="margin:5px 10px"><div class="legalStuff">
 
 <div class="container_hd">Privacy Notice</div>
     <p style="margin-left: 5" align="justify">Melodis Corporation (referred to herein as "Melodis") 
@@ -369,97 +500,420 @@
 </li>
     </ol>
     
-</div></div>      </div>
-
-    </div>
-  </div>
-  <div class="yui-b" id="left_side"> <!-- left side -->
-    <div id="left_hd">
-</div>
-<div id="left-nav">
-  <div class="text_search">
-    <form action="index.php?action=" method="get" name="search" id="search">
-      <input type="hidden" name="action" value="main.search">
-      <input type="hidden" name="type" value="text">  
-      <div class="text-search-input"><input class="textfield" type="text" id="searchTerm" name="searchTerm" autocomplete="off" value="Search"></div>
-    </form>
-  </div>    
-
-
-<a class="navItem rollover " href="index.php?action=main.sing" id="sing_s">My Studio</a>
-<a class="navItem rollover " href="index.php?action=main.charts" id="charts_s">midomi Stars</a>
-</div>
-
-<div id="voice_search_in_progress_block" class="voice_search_in_progress_block hidden">Searching...</div>
-<div id="voice_search_box" class="voice_search_box">
-  <div id="flash_search" class="flash_search"></div>
-  <div class="voice_img" id="voice_img" onclick="voiceSearch.onClickRecordButton();">Start Voice Search</div>
-  <div id="volume_bar_container" class="volume_bar_container">
-    <div id="volume_bar_text" class="volume_bar_text">RECORDING</div>
-    <div id="volume_bar_line" class="volume_bar_line"></div>
-  <div id="voice_search_controls" class="left hidden voice_search_controls"><a class="bold" onclick="voiceSearch.onClickSubmit();">DONE</a>&nbsp;&nbsp;<a onclick="voiceSearch.onClickCancel();">CANCEL</a></div>
-</div>
-</div>  
-<div id="advanced_permissions_question" class="hidden advanced_permissions_question"><a onclick="voiceSearch.doAdvancedPermissionsCheck();">Don‘t want to see this box again?</a></div>
-<div id="connection_error_block" class="connection_error_block hidden warningColor">
-There appears to be a connection problem. Please check your firewall settings and refresh this page to try again.</div>
-
-<div style="margin:3px 0px 0px 6px;" id="video_demo_link">
-<a href="index.php?action=main.video" class="bold">What is this?</a>
-<div><a href="index.php?action=main.mic_check">Test your microphone.</a></div>
-</div>
-
-<script>
-var left_text_search = new YAHOO.widgets.TextField('searchTerm', "Search");
-var elIds = {voiceImg:"voice_img", voiceSearchBox:"voice_search_box", volumeBarContainer:"volume_bar_container", volumeBarLine:"volume_bar_line", statusMessage:"voice_search_status_message", advancedPermissionsQuestion:"advanced_permissions_question", controls:"voice_search_controls", voiceSearchInProgressBlock:"voice_search_in_progress_block", recordButton:"voice_search_record_button", flashVoiceSearchId:"flash_voice_search", flashContainerId:"flash_search", connectionErrorBlock:"connection_error_block", volumeBarText:"volume_bar_text"};
-var voiceSearch = new YAHOO.widgets.VoiceSearch("","r89n1lbh4cguntr0sjf8n2ttf5", "en_US", elIds);</script>
-      	<div id="left_ad_block">
-	<script type="text/javascript"><!--
+</div></div>        </div>
+      </div>
+      <div class="yui-b">
+                        <div id="left_ad_block">
+   	    <script type="text/javascript"><!--
 google_ad_client = "pub-8187854137171344";
 google_ad_width = 160;
 google_ad_height = 600;
 google_ad_format = "160x600_as";
 google_ad_type = "text_image";
-google_ad_channel = "0098297280+0159305101+9584297694+0038205407+3190561530";
+google_ad_channel = "2686229187+0159305101+2608876419+0038205407+3190561530";
 google_ui_features = "rc:0";
 //-->
-</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>	</div>
-	      </div> <!-- left side -->
-</div>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">_uacct = "UA-277226-4"; urchinTracker();</script>
-<input type="hidden" id="post_id" value="12dd41cd39fd5bc747f2fb7c15fb119b">
-<input type="hidden" name="login_salt" id="login_salt" value="589013403">
+</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>        </div>
+      </div>
+    </div>
+    <script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">var pageTracker = _gat._getTracker("UA-277226-4"); pageTracker._initData(); pageTracker._trackPageview();</script>
+<input type="hidden" id="post_id" value="d1e4fcb10054f65f1238a0188868d853">
+<input type="hidden" id="__urlPrefix" value="">
+<input type="hidden" id="__locale" value="en_US">
+<input type="hidden" name="login_salt" id="login_salt" value="206910718">
 <div id="ft">
-  <div class="footer_right"><span><a href="index.php?action=main.video" class="link_text_light">Video Tour</a> | <a href="index.php?action=main.about_us" class="link_text_light">About Us</a> | <a href="index.php?action=main.redir&amp;url=http%3A%2F%2Fblog.midomi.com%2F" target="_blank" class="link_text_light">Blog</a> | <a href="index.php?action=main.contact_us" class="link_text_light">Contact Us</a> | <a class="link_text_light" href="index.php?action=main.terms_of_use">Terms of Use</a> | <a class="link_text_light" href="index.php?action=main.privacy_notice">Privacy Notice</a> | <a class="link_text_light" href="index.php?action=main.careers">Careers</a> | <a href="index.php?action=main.faq" class="link_text_light">Help</a></span></div>
-</div></div>
-<div id="ft-bottom">
-  <div></div>
+  <div class="footer_right"><span><a href="index.php?action=main.video" class="link_text_light">Video Tour</a> | <a href="index.php?action=main.about_us" class="link_text_light">About Us</a> | <a href="index.php?action=main.redir&amp;url=http%3A%2F%2Fblog.midomi.com%2F" target="_blank" class="link_text_light">Blog</a> | <a href="index.php?action=main.redir&amp;url=http%3A%2F%2Fforum.midomi.com%2F" target="_blank" class="link_text_light">Forum</a> | <a href="index.php?action=main.contact_us" class="link_text_light">Contact Us</a> | <a class="link_text_light" href="index.php?action=main.terms_of_use">Terms of Use</a> | <a class="link_text_light" href="index.php?action=main.privacy_notice">Privacy Notice</a> | <a class="link_text_light" href="index.php?action=main.careers">Careers</a> | <a href="index.php?action=main.faq" class="link_text_light">Help</a></span></div>
+</div>  </div> 
+  <div id="ft-bottom">
+    <div></div>
+  </div>
 </div>
 
-</div>
-
-<div id="language-container">
+<div id="ft-outside">
 
 <div id="language-selection">
   <div class="lang_line">
   <span class="bold gray">midomi.com:&nbsp;</span>
-  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=en&amp;sid=r89n1lbh4cguntr0sjf8n2ttf5">English</a>&nbsp;|&nbsp;
-  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=es&amp;sid=r89n1lbh4cguntr0sjf8n2ttf5">Español</a>&nbsp;|&nbsp;
-  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=fr&amp;sid=r89n1lbh4cguntr0sjf8n2ttf5">Français</a>&nbsp;|&nbsp;
-  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=it&amp;sid=r89n1lbh4cguntr0sjf8n2ttf5">Italiano</a>&nbsp;|&nbsp;
-  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=zh&amp;sid=r89n1lbh4cguntr0sjf8n2ttf5">简体中文</a>
-  &nbsp;&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=en&amp;sid=2oti61pqqqv14n32ntt31lvru1">English</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=es&amp;sid=2oti61pqqqv14n32ntt31lvru1">Español</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=fr&amp;sid=2oti61pqqqv14n32ntt31lvru1">Français</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=it&amp;sid=2oti61pqqqv14n32ntt31lvru1">Italiano</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=de&amp;sid=2oti61pqqqv14n32ntt31lvru1">Deutsch</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=pt&amp;sid=2oti61pqqqv14n32ntt31lvru1">Português</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=pl&amp;sid=2oti61pqqqv14n32ntt31lvru1">Polski</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=zh&amp;sid=2oti61pqqqv14n32ntt31lvru1">简体中文</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=ko&amp;sid=2oti61pqqqv14n32ntt31lvru1">한국어</a>&nbsp;|&nbsp;
   <span class="bold gray">midomi.co.jp:&nbsp;</span>
-  <a href="http://www.midomi.co.jp/index.php?action=main.set_locale&amp;locale=ja&amp;sid=r89n1lbh4cguntr0sjf8n2ttf5">日本語</a>
+  <a href="http://www.midomi.co.jp/index.php?action=main.set_locale&amp;locale=ja&amp;sid=2oti61pqqqv14n32ntt31lvru1">日本語</a>
   </div>  
-</div></div>
-
-<div id="amazonModal" class="modal">
-   <div class="hd"><div class="tl"></div><span>&nbsp;</span><div class="tr"></div></div>
-<div class="bd">Loading...</div>
 </div>
-<script language="javascript" type="text/javascript"></script>
+</div>
+
+<div id="purchaseModal" class="modal">
+   <div class="hd"><div class="tl"></div><span>&nbsp;</span><div class="tr"></div></div>
+<div class="bd" style="border-bottom:2px solid black;">Loading...</div>
+</div>
+<div id="voiceSearchAdvanced" style="visibility: hidden;">
+  <!-- start border -->
+  <div id="voiceSearchAdvanced_lb"><div id="voiceSearchAdvanced_rb">
+  <div id="voiceSearchAdvanced_bb"><div id="voiceSearchAdvanced_blc"><div id="voiceSearchAdvanced_brc">
+  <!-- start content -->
+  <div id="voiceSearchAdvancedContent">
+  <h3>Advanced Voice Search</h3>
+  <div class="search-selector">
+      <a id="advancedLanguagesFilterToggle">Any Language</a>
+      <img src="http://static.midomi.com/images/menu-arrow-blue-off.gif" id="advancedLanguagesFilterImageToggle">
+    </div>
+    <div class="search-selector">
+      <a id="advancedGenresFilterToggle">Any Genre</a>
+      <img src="http://static.midomi.com/images/menu-arrow-blue-off.gif" id="advancedGenresFilterImageToggle">
+    </div>
+    <div id="keywordSearchInput">
+      <input type="text" id="voiceSearchAdvancedText" autocomplete="off" name="searchTerm" value="Artist or Title">
+    </div>
+    <div id="voiceSearchAdvancedButtons1">
+      <div class="lb" id="advanced_search_cancel"><img src="http://static.midomi.com/images/header/advanced-search/icon-x.gif">&nbsp;Cancel</div>
+      <div class="rb" id="advanced_search_start"><img src="http://static.midomi.com/images/header/advanced-search/icon-sound.gif">&nbsp;Start</div>
+    </div>
+    <div id="voiceSearchAdvancedButtons2" class="hidden">
+      <div class="lb" id="advanced_search_stop"><img src="http://static.midomi.com/images/header/advanced-search/icon-x.gif">&nbsp;Stop</div>
+      <div class="rb" id="advanced_search_go"><img src="http://static.midomi.com/images/header/advanced-search/icon-arrow.gif">&nbsp;Search</div>
+    </div>
+  </div>
+  <!-- end content --></div>
+  </div></div></div></div>
+  <!-- end border -->
+</div>
+<div class="yui-skin-sam"><div id="advancedLanguagesFilter" class="yuimenu exploreMenu"><div class="bd"><ul class="first-of-type">
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_4e2d7b73b9d009a6a8f0f8d74d5d45eb_Any Language">Any Language
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_72065904b5ee4968bf69f61a21d5f736_English">English
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_ea5e1ff1dd19a9193475c887b1f028ee_Spanish">Spanish
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_0054b7320215354051659832da952919_Chinese">Chinese
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_5373d60d8c14d1ff434011802ed588b8_Japanese">Japanese
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_6ec3143f14627783e9b0b649830b3466_Arabic">Arabic
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_551923b75e964ab287c4486cb193f861_Bengali">Bengali
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_91610d72c9f95b6cb75656759285f6be_Bulgarian">Bulgarian
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_8805ca65e921f93d561cd24c70d4a951_Catalan">Catalan
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_4443516c5ee5e5ec4540f9b41851d849_Croatian">Croatian
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_6612a42c1de9276104bdde155d8d8e8b_Czech">Czech
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_d70af6bf42e4cd014945029922e1faa8_Danish">Danish
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_4a530cd337053902e9ca547ee6b3f0cd_Dutch">Dutch
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_8d15258234ef9648f15db3110bda50b5_Farsi">Farsi
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_f907be608a67f0cacee3cc0f1b3021bb_Filipino">Filipino
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_dffcc59f26d0ad01d382254fb7766cc5_Finnish">Finnish
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_acb0f5dfbbb0f0e4d11dd6c26238d2ed_French">French
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_0f01d3bb30ece57c002f5b390cdfa500_German">German
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_7348d331f264b3967406f3d5478035a3_Greek">Greek
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_627e7c91f0c6ac4ca6b3fe58151b9c9f_Hebrew">Hebrew
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_92bdbf448d767eba75b80b10e0ffd0d3_Hindi">Hindi
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_bce032afc674ccacea412e782908dfc0_Hungarian">Hungarian
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_e5af648cf2ee3eb37015775ac25e5dfe_Icelandic">Icelandic
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_5dfffa94f001ef4ba81936c80141fc49_Italian">Italian
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_88c6dd420f0f1fe6ecebc02fe70c02b3_Kannada">Kannada
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_d536237613f1c6f0522a01beb6f428b2_Korean">Korean
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_d231e00e66c88792823210d4ee596db6_Malay">Malay
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_070dc255c316c23b6b7323671df495fd_Norwegian">Norwegian
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_d1aa14610f4ab4d7fd473de2a73fed0d_Polish">Polish
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_b3c7f9362184aaebbf5f954be2e46e87_Portuguese">Portuguese
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_c5c34b82ea203033de515be4054bc73f_Punjabi">Punjabi
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_1193fbcab49802151bbd13b065a7a85d_Romanian">Romanian
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_7ba7ffbfc21bde2850c2ecd7b4909574_Russian">Russian
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_4db104cb0a5009dc70ca09b8076fd5fa_Slovak">Slovak
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_9b81f76d84cc12434b7f194961006f52_Slovenian">Slovenian
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_9246802d6d0126ec4a45f4ddd15a2762_Swedish">Swedish
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_7891ce34e4a3bab6f48806e0c814c718_Tamil">Tamil
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_c3d5db0cc4396de301728d1e6980ea67_Telugu">Telugu
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_7479e3e9617d38b826fb09f5329dd1b4_Thai">Thai
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_00e5b396afeeb8f2b365bd03c039d5e3_Turkish">Turkish
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_1b6f1d9f9a6ce7d8cf39ed6bfd3b147e_Ukrainian">Ukrainian
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_b0a39ddf8a210abb7d1e83ff88135fac_Vietnamese">Vietnamese
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_35ae8f56f99c80a2ed9cbdcd37bfd25c_Yiddish">Yiddish
+          </a>
+        </li></ul></div></div></div><div class="yui-skin-sam"><div id="advancedGenresFilter" class="yuimenu exploreMenu"><div class="bd"><ul class="first-of-type">
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_4e2d7b73b9d009a6a8f0f8d74d5d45eb_Any Genre">Any Genre
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_551923b75e964ab287c4486cb193f861_Blues">Blues
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_5dfffa94f001ef4ba81936c80141fc49_Broadway">Broadway
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_0b13420ed90c1dddba7c53766e3c2152_Cajun">Cajun
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_789e789146c447d7b00227f2b6f2e076_Celtic">Celtic
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_92bdbf448d767eba75b80b10e0ffd0d3_Children">Children
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_acb0f5dfbbb0f0e4d11dd6c26238d2ed_Christian/Gospel">Christian/Gospel
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_ea5e1ff1dd19a9193475c887b1f028ee_Classical">Classical
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_b3c7f9362184aaebbf5f954be2e46e87_Comedy">Comedy
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_e5af648cf2ee3eb37015775ac25e5dfe_Country">Country
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_0054b7320215354051659832da952919_Easy Listening">Easy Listening
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_070dc255c316c23b6b7323671df495fd_Electronica">Electronica
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_4443516c5ee5e5ec4540f9b41851d849_Folk">Folk
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_9246802d6d0126ec4a45f4ddd15a2762_Holiday">Holiday
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_dffcc59f26d0ad01d382254fb7766cc5_Jazz">Jazz
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_91610d72c9f95b6cb75656759285f6be_Latin">Latin
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_d70af6bf42e4cd014945029922e1faa8_New Age">New Age
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_f070f7ff385ae0ec54b9e7ad78ae5104_Other">Other
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_72065904b5ee4968bf69f61a21d5f736_Pop">Pop
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_5373d60d8c14d1ff434011802ed588b8_R&amp;B/Urban">R&amp;B/Urban
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_4db104cb0a5009dc70ca09b8076fd5fa_Rap/Hip-Hop">Rap/Hip-Hop
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_0f01d3bb30ece57c002f5b390cdfa500_Reggae">Reggae
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_d536237613f1c6f0522a01beb6f428b2_Rock">Rock
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_627e7c91f0c6ac4ca6b3fe58151b9c9f_Soundtrack">Soundtrack
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_b0a39ddf8a210abb7d1e83ff88135fac_Spoken Word">Spoken Word
+          </a>
+        </li>
+        <li class="yuimenuitem">
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_d231e00e66c88792823210d4ee596db6_World">World
+          </a>
+        </li></ul></div></div></div>
+<script type="text/javascript">
+
+      var advancedLanguagesFilterMenu = new YAHOO.widget.Menu("advancedLanguagesFilter", 
+                                                  {context: ["advancedLanguagesFilterToggle", "tl", "bl"], 
+                                                 maxheight: 350, 
+                                           scrollincrement: 5,
+                                                    zIndex: 2001,
+                                             monitorresize: true,
+                                       constraintoviewport: true});
+      advancedLanguagesFilterMenu.showEvent.subscribe(function () {this.focus();});
+      advancedLanguagesFilterMenu.render();
+      YAHOO.util.Event.addListener("advancedLanguagesFilterToggle", "click", function(e,obj){this.align();this.show();}, advancedLanguagesFilterMenu,true);
+    
+
+      var advancedGenresFilterMenu = new YAHOO.widget.Menu("advancedGenresFilter", 
+                                                  {context: ["advancedGenresFilterToggle", "tl", "bl"], 
+                                                 maxheight: 350, 
+                                           scrollincrement: 5,
+                                                    zIndex: 2001,
+                                             monitorresize: true,
+                                       constraintoviewport: true});
+      advancedGenresFilterMenu.showEvent.subscribe(function () {this.focus();});
+      advancedGenresFilterMenu.render();
+      YAHOO.util.Event.addListener("advancedGenresFilterToggle", "click", function(e,obj){this.align();this.show();}, advancedGenresFilterMenu,true);
+    
+  var advancedSearchTextField = new YAHOO.widgets.TextField("voiceSearchAdvancedContent", "voiceSearchAdvancedText", JS_MSG.translate("Artist or Title")); 
+  var advancedSearch = new YAHOO.widgets.AdvancedSearch({
+            voiceSearchMovieId: 'searchMovieheader',
+            voiceSearchMovieSpaceId: 'searchSpaceheader',
+            advancedSearchDiv: 'voiceSearchAdvanced',
+            languageFilterTextId: 'advancedLanguagesFilterToggle',
+            languageFilterMenu: advancedLanguagesFilterMenu,
+            genreFilterTextId: 'advancedGenresFilterToggle',
+            genreFilterMenu: advancedGenresFilterMenu,
+            keywordFilterId: 'voiceSearchAdvancedText',
+            keywordTextField: advancedSearchTextField,
+            voiceSearchers: searchers
+      });
+  if( voiceSearchResultsUtil!=null ){
+     voiceSearchResultsUtil.onResultsLoad.subscribe(advancedSearch.fixOverlayPosition,advancedSearch,true);      
+  }
+
+advancedLanguagesFilterMenu.clickEvent.subscribe( advancedSearch.handleFilterSelect,advancedSearch,true);
+advancedGenresFilterMenu.clickEvent.subscribe( advancedSearch.handleFilterSelect,advancedSearch,true);
+    
+</script>
+<script language="javascript" type="text/javascript"></script><div id="status_message_container">
+	<div id="status_message" class="hidden"></div>
+</div>
+
+
+
+
 
 </body></html>
