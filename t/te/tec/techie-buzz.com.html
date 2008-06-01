@@ -1,0 +1,842 @@
+<!--The following is the downloaded HTML source of the techie-buzz.com privacy policy that was archived on 2008-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080602014101id_/http%3A//techie-buzz.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" href="http://techie-buzz.com/wp-content/themes/TechieBuzz/style.css" type="text/css" media="screen">
+	<link href="http://techie-buzz.com/style/light.css" rel="StyleSheet" type="text/css" media="screen">
+	<script language="JavaScript" type="text/javascript" src="http://techie-buzz.com/wp-content/themes/TechieBuzz/js/jquery-1.2.1.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="http://techie-buzz.com/wp-content/themes/TechieBuzz/js/jquery.idTabs.pack.js"></script>
+	<link rel="alternate" type="application/rss+xml" title="Techie Buzz RSS" href="http://feeds.feedburner.com/techiebuzz">
+	<link rel="alternate" type="application/atom+xml" title="Techie Buzz Atom" href="http://feeds.feedburner.com/techiebuzz">
+	<link rel="pingback" href="http://techie-buzz.com/xmlrpc.php">
+		<link rel="shortcut icon" href="http://techie-buzz.com/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="http://techie-buzz.com/favicon.ico" type="image/x-icon">
+<title>Privacy Policy | Techie Buzz</title>
+<link rel="stylesheet" href="http://techie-buzz.com/wp-content/plugins/MyAvatars/style.css" type="text/css" media="screen">
+
+<!-- Start Comment Info Tip Plugin -->
+<link type="text/css" rel="stylesheet" href="http://techie-buzz.com/wp-content/plugins/comment-info-tip/comment-info-tip.css">
+<script type="text/javascript" src="http://techie-buzz.com/wp-content/plugins/comment-info-tip/comment-info-tip.js"></script>
+<!-- End Comment Info Tip Plugin -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://techie-buzz.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://techie-buzz.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 2.5.1">
+
+
+<!-- all in one seo pack 1.4.6.8 [1271,1318] -->
+<meta name="description" content="Techie Buzz respects your privacy. Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address">
+<meta name="keywords" content="technology buzz">
+<!-- /all in one seo pack -->
+<script language="javascript" type="text/javascript">
+<!--
+		function collapseThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} else {
+				comment.className += " collapsed";
+			}
+		}
+
+		function expandThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} 
+		}
+		
+		function findBody(el)
+		{
+			var divs = el.getElementsByTagName("div");
+			var ret;
+			for(var i = 0; i < divs.length; ++i) {
+				if(divs.item(i).className.indexOf("body") > -1)
+					return divs.item(i);
+			}
+			return false;
+		}
+	
+		function onAddComment() {
+			//checkDocumentIntegrity();
+			var el = document.getElementById("commentform");
+			// Future release: Check if form is filled correctly and mark the form fields.
+			el.submit();
+		}
+		
+		function moveAddCommentBelow(theId, threadId, collapse)
+		{
+			expandThread( theId );
+			var addComment = document.getElementById("addcomment");
+			if(!addComment)
+			{
+			  	alert("ERROR:\nThreaded Comments can't find the 'addcomment' div.\nThis is probably because you have changed\nthe comments.php file.\nMake sure there is a tag around the form\nthat has the id 'addcomment'"); 
+				return
+			}
+			var comment = document.getElementById(theId);
+			if(collapse)
+			{
+				for(var i = 0; i < comment.childNodes.length; ++i) {
+					var c = comment.childNodes.item(i);
+					if(typeof(c.className) == "string" && c.className.indexOf("collapsed")<0) {
+						c.className += " collapsed";
+					}
+				}
+			}
+			addComment.parentNode.removeChild(addComment);
+
+			comment.appendChild(addComment);
+			if(comment.className.indexOf("alt")>-1) {
+				addComment.className = addComment.className.replace(" alt", "");					
+			} else {
+				addComment.className += " alt";
+			}
+		        var replyId = document.getElementById("comment_reply_ID");
+			if(replyId == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no hidden form field called\n'comment_reply_ID'. This is probably because you\nchanged the comments.php file and forgot\nto include the field. Please take a look\nat the original comments.php and copy the\nform field over.");
+			}
+			replyId.value = threadId;
+			var reRootElement = document.getElementById("reroot");
+			if(reRootElement == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no anchor tag called 'reroot' where\nthe comment form starts.\nPlease compare your comments.php to the original\ncomments.php and copy the reroot anchor tag over.");
+			}
+			reRootElement.style.display = "block";
+			var aTags = comment.getElementsByTagName("A");
+			var anc = aTags.item(0).id;
+			//document.location.href = "#"+anc;
+			document.getElementById("comment").focus();
+		}
+
+		function checkDocumentIntegrity()
+		{
+			str = "";
+			
+			str += checkElement("reroot","div tag");
+			str += checkElement("addcomment", "div tag");
+			str += checkElement("comment_reply_ID", "hidden form field");
+			str += checkElement("content", "div tag");
+			str += checkElement("comment", "textfield");
+			str += checkElement("addcommentanchor", "anchor tag");
+			
+			if(str != "")
+			{
+				str = "Brian's Threaded Comments are missing some of the elements that are required for it to function correctly.\nThis is probably the because you have changed the original comments.php that was included with the plugin.\n\nThese are the errors:\n" + str;
+				str += "\nYou should compare your comments.php with the original comments.php and make sure the required elements have not been removed.";
+
+				alert(str);
+			}
+		}
+               
+		function checkElement(theId, elDesc)
+		{
+			var el = document.getElementById(theId);
+			if(!el)
+			{
+				if(elDesc == null)
+					elDesc = "element";
+				return "- The "+elDesc+" with the ID '" +theId + "' is missing\n"; 
+			}
+			else 
+				return "";
+		}
+		
+		function reRoot()
+		{
+			var addComment = document.getElementById("addcomment");			
+			var reRootElement = document.getElementById("reroot");
+			reRootElement.style.display = "none";
+			var content = document.getElementById("content");
+			addComment.parentNode.removeChild(addComment);
+			content.appendChild(addComment);
+			addComment.className = addComment.className.replace(" alt", "");
+			document.location.href = "#addcommentanchor";
+			document.getElementById("comment").focus();				
+			document.getElementById("comment_reply_ID").value = "0";
+		}			
+		
+		function changeCommentSize(d)
+		{
+			var el = document.getElementById("comment");
+			var height = parseInt(el.style.height);
+			if(!height && el.offsetHeight)
+				height = el.offsetHeight;
+			height += d;
+			if(height < 20) 
+				height = 20;
+			el.style.height = height+"px";
+		}		
+-->
+</script>
+<style type="text/css">
+.comment 
+{
+	position: 				relative;
+	margin:					3px;
+	margin-top:				6px;
+/*	border: 				1px solid #666; */
+	padding:				4px 4px 4px 8px;
+	background-color:		#fff;
+}
+
+.odd
+{
+	background-color: #f8f8f8;
+}
+
+.comment div {
+	position: 				relative;
+}
+
+.comment .comment img
+{
+	margin: 				0px;
+}
+
+.comment .collapseicon 
+{
+	width: 					13px;
+	height: 				13px;
+	overflow:				hidden;
+	background-image: 		url(http://techie-buzz.com/wp-content/plugins/briansthreadedcomments.php?image=subthread-open.png);
+}
+
+.collapsed .collapseicon 
+{
+	background-image: 		url(http://techie-buzz.com/wp-content/plugins/briansthreadedcomments.php?image=subthread.png);
+}
+
+
+.comment .reply {
+	text-align: 			right;
+	font-size: 				80%;
+	padding: 				0px 6px 6px 0px;
+}
+
+.comment
+{
+	border: 	1px solid #ddd;
+	margin-top: 			10px;
+}
+
+input#subscribe
+{
+	width: auto;
+}
+
+.comment .body .content
+{
+	padding:				0px 3px 0px 3px;
+	width: 					100%;	
+	overflow: 				auto; 
+}
+
+.comment .title abbr
+{
+	border: none;
+}
+
+.collapsed .body, .collapsed .comment
+{
+	display:				none;
+}
+/*
+#addcomment small, #addcomment div
+{
+	padding:				3px;
+}
+*/
+#commentform textarea {
+	width: 97%;
+}
+</style>
+<script type="text/javascript" src="http://techie-buzz.com/wp-content/plugins/flv-embed/swfobject.js"></script>
+<style type="text/css">@import "http://techie-buzz.com/wp-content/plugins/technorati-rank/style.css";</style><script type="text/javascript" src="http://techie-buzz.com/wp-content/plugins/wordpress-tweaks/tweaks.php?js=functions"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="http://techie-buzz.com/wp-content/plugins/wordpress-tweaks/tweaks.php?css=footer_count">
+<style type="text/css" media="screen">
+
+/* Begin Contact Form CSS */
+.contactform {
+	position: static;
+	overflow: hidden;
+	width: 95%;
+}
+
+.contactleft {
+	width: 25%;
+	white-space: pre;
+	text-align: right;
+	clear: both;
+	float: left;
+	display: inline;
+	padding: 4px;
+	margin: 5px 0;
+}
+
+.contactright {
+	width: 70%;
+	text-align: left;
+	float: right;
+	display: inline;
+	padding: 4px;
+	margin: 5px 0;
+}
+
+.contacterror {
+	border: 1px solid #ff0000;
+}
+
+.contactsubmit {
+}
+/* End Contact Form CSS */
+
+	</style>
+
+<link rel="stylesheet" href="http://techie-buzz.com/wp-content/plugins/wp-page-numbers/classic/wp-page-numbers.css" type="text/css" media="screen">
+<script type="text/javascript">
+//document.write('<style type="text/css">.tabber{display:none;}<\/style>');
+</script>
+</head>
+
+<body>
+<div id="page">
+<!--[if IE]>
+<div style="background-color:#FFFFCC; border-bottom: 1px solid #FC0; margin: 0 0 5px 0; padding: 4px 0; font-size: 14px; font-weight:bold;">
+<center>
+<font color="red">Your Browser Is Vulnerable To Virus and Trojan Attacks.</font> Techie Buzz Recommends <img src="http://techie-buzz.com/images/fflogo.gif" alt="Firefox" style="vertical-align: text-bottom;" />
+<script type="text/javascript"><!--
+google_ad_client = "pub-2703385610225771";
+google_ad_output = "textlink";
+google_ad_format = "ref_text";
+google_cpa_choice = "CAAQzcLH7QEaCBVcCwmT2PieKLGsuIEBMAA";
+//-->
+
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<!--[endif]---->
+
+<div id="nav">
+	<ul id="menu">
+			<li class="page_item"><a href="http://techie-buzz.com">Home</a></li>
+			<li class="page_item page-item-5000"><a href="http://techie-buzz.com/collections/best-of-utilities-and-services.html" title="Must Have Utilities">Must Have Utilities</a></li>
+			<li class="page_item page-item-154"><a href="http://techie-buzz.com/top-posts" title="Top Posts">Top Posts</a></li>
+<li class="page_item page-item-155"><a href="http://techie-buzz.com/about-us" title="About Us">About Us</a></li>
+<li class="page_item page-item-459"><a href="http://techie-buzz.com/advertise" title="Advertise">Advertise</a></li>
+<li class="page_item page-item-772"><a href="http://techie-buzz.com/ask-us-tip-us" title="Ask Us / Tip Us">Ask Us / Tip Us</a></li>
+<li class="page_item page-item-6000"><a href="http://techie-buzz.com/collections/hall-of-fame-best-of-everything.html" title="Hall Of Fame">Hall Of Fame</a></li><li class="page_item page-item-6000"><a href="http://techie-buzz.com/rotate/r.php?id=45" title="Hall Of Fame" class="libold">Techie Buzz Forums</a></li>
+		</ul>
+
+				<!-- Google CSE Search Box Begins  -->
+<!-- <form action="http://techie-buzz.com/techie-buzz-search-results" name="searchbox_013033487563028461252:hm7i2vsab8u">
+<div id="search">
+  <input type="hidden" name="cx" value="013033487563028461252:hm7i2vsab8u" />
+  <input type="hidden" name="cof" value="FORID:11" />
+  <input type="text" name="q" size="25" />
+  <input name="sa" type="image" src="http://techie-buzz.com/wp-content/themes/TechieBuzz/images/ico-search.gif" value="Search" class="btn"  />
+	</div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_013033487563028461252%3Ahm7i2vsab8u"></script> -->
+<!-- Google CSE Search Box Ends -->
+</div>
+
+	<div id="header">
+		<h1><a href="http://techie-buzz.com" title="Techie Buzz">Techie Buzz. Know Your Technology Head On.</a></h1>
+		<div class="subscr"> <a href="http://techie-buzz.com/rotate/r.php?id=37"><img src="http://techie-buzz.com/wp-content/themes/TechieBuzz/images/btn-rss.gif" alt="RSS"></a>
+			<p>Or would you rather subscribe via <a href="http://techie-buzz.com/rotate/r.php?id=38">E-mail</a>?<br>
+				<a href="http://techie-buzz.com/rotate/r.php?id=37">Click here</a> to subscribe now!</p>
+		</div>
+		<!--/subscr-->
+	</div>
+
+	<div class="topdemarc">
+	</div>
+
+<!-- 	<div class="boxes">
+		<div class="col1">
+			<h2>MOST POPULAR ARTICLES</h2>
+			<ul class="list2">
+						</ul>
+		</div>
+		<div class="col2">
+			<h2>HOW TO</h2>
+			<ul class="list2">
+						</ul>
+		</div>
+
+				<div class="col3">
+			<h2>Advertisments</h2><br /><br />
+
+			</ul>
+		</div>
+	</div> -->
+
+<div id="columns">
+<div class="googleads">
+<script type="text/javascript"><!--
+google_ad_client = "pub-2703385610225771";
+/* Top Links */
+google_ad_slot = "9763222603";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+<div id="centercol">
+	
+	<div class="post" id="post-406">
+		<h2 id="post-406">Privacy Policy</h2>
+			<div class="post-content"><br>
+		<div class="KonaBody">
+<p><b>Techie Buzz respects your privacy.</b></p>
+<p>Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Techie Buzz.</p>
+<p><b>Credit card details</b></p>
+<p>Techie Buzz will never ask for Credit Card details and request that you do not enter it on any of the forms on Techie Buzz.</p>
+<p><b>External Sites.</b></p>
+<p>Techie Buzz is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.</p>
+<p><b>Cookies </b></p>
+<p>A “cookie” is a small data text file that is placed in your browser and allows Techie Buzz to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and Techie Buzz does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.</p>
+<p><b>Visitor Tracking</b></p>
+<p>Techie Buzz makes use of analytical softwares such as Google Analytics and Performancing for statistical purposes. For the purpose of stats your IP (Internet Protocol) Address, browser, screen resolution, operating sysytem are captured. We at Techie Buzz use this information only for statistical purpose and do not share it with any third party.</p>
+<p><b>User Comments</b></p>
+<p>Techie Buzz allows users to comment on the site. However we hold all rights to accept or reject any comments based on our discretion. While commenting on Techie Buzz please refrain from using content that is not suitable.</p>
+<p><b>Remember The Risks Whenever You Use The Internet </b></p>
+<p>While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to Techie Buzz and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through Techie Buzz have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. </p>
+<p>Please contact those vendors and others directly if you have any questions about their privacy policies.</p>
+<p>For any other information email <a href="mailto:admin@techie-buzz.com">webmaster</a></p>
+</div>
+				
+			</div>
+	</div>
+		<script type="text/javascript"><!--
+google_ad_client = "pub-2703385610225771";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_cpa_choice = "CAEaCHBHQKDtAKrmUCBQtwJQtwRQHlDBAlArUKYDUDVQrQJQrgI";
+google_ad_channel = "8349481173";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "132784";
+google_color_text = "000000";
+google_color_url = "132784";
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div id="rightcol">
+			<div class="ads"> 
+<a href="http://techie-buzz.com/rotate/r.php?id=42" style="text-decoration: none;"><img src="http://scripts.chitika.net/eminimalls/logos/125x125.png" border="0" alt="Get Chitika eMiniMalls" title="Get Chitika eMiniMalls"></a><a href="http://techie-buzz.com/rotate/r.php?id=33" target="_blank"><img border="0" src="http://partners.ximmy.com/banners/125125_5.gif" width="125" height="125"></a>
+<a href="http://techie-buzz.com/rotate/r.php?id=28"><img style="border:0" src="http://www.widgetbucks.com/images/referral/Ads-suck-02c.gif" alt="Earn $$ with WidgetBucks!"></a>
+<!-- End CUSTOM WIDGETBUCKS CODE -->
+<a href="http://techie-buzz.com/rotate/r.php?id=31"><img src="http://www.srwww1.com/images/SR/Affiliate/3.jpg" border="0px"></a>
+</div>
+
+<h2>Search Site</h2><br>
+<div>
+				<!-- Google CSE Search Box Begins  -->
+<form action="http://techie-buzz.com/techie-buzz-search-results" name="searchbox_013033487563028461252:hm7i2vsab8u">
+  <input type="hidden" name="cx" value="013033487563028461252:hm7i2vsab8u">
+  <input type="hidden" name="cof" value="FORID:11">
+  <input type="text" name="q" size="30">
+  <input type="submit" name="sa" value="Search">
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_013033487563028461252%3Ahm7i2vsab8u"></script>
+<!-- Google CSE Search Box Ends -->
+</div><br><br>
+
+<h2>Donate for Plugin Expenses</h2>
+			<br>
+			<embed src="http://widget.chipin.com/widget/id/dbdaf416194c7289" flashvars="event_title=Plugin%20Development%20Expenses&amp;event_desc=%0A&amp;color_scheme=blue" type="application/x-shockwave-flash" allowscriptaccess="always" wmode="transparent" width="234" height="60"><br><br>
+
+
+<h2>Grab Your Top Spots</h2><br>
+<div id="ScratchBackWidget">
+<script type="text/javascript" src="http://www.scratchback.com/widget.php?id=26b1b5bf-3a75-2584-25f6-b18d86beb90c"></script>
+</div><br><br>			
+
+<h2>Tag Cloud</h2><br>
+<div>
+<a href="http://techie-buzz.com/tag/announcements" class="tag-link-182" title="6 topics" rel="tag" style="font-size: 9.44pt;">Announcements</a>
+<a href="http://techie-buzz.com/tag/annoyances" class="tag-link-8" title="19 topics" rel="tag" style="font-size: 15.68pt;">Annoyances</a>
+<a href="http://techie-buzz.com/tag/beta-launches" class="tag-link-44" title="5 topics" rel="tag" style="font-size: 8.96pt;">Beta&nbsp;Launches</a>
+<a href="http://techie-buzz.com/tag/collections" class="tag-link-270" title="4 topics" rel="tag" style="font-size: 8.48pt;">Collections</a>
+<a href="http://techie-buzz.com/tag/firefox" class="tag-link-278" title="5 topics" rel="tag" style="font-size: 8.96pt;">firefox</a>
+<a href="http://techie-buzz.com/tag/flashback" class="tag-link-176" title="4 topics" rel="tag" style="font-size: 8.48pt;">Flashback</a>
+<a href="http://techie-buzz.com/tag/free-software" class="tag-link-193" title="6 topics" rel="tag" style="font-size: 9.44pt;">Free&nbsp;Software</a>
+<a href="http://techie-buzz.com/tag/free-softwares" class="tag-link-515" title="4 topics" rel="tag" style="font-size: 8.48pt;">free&nbsp;softwares</a>
+<a href="http://techie-buzz.com/tag/friday-fun" class="tag-link-27" title="5 topics" rel="tag" style="font-size: 8.96pt;">Friday&nbsp;fun</a>
+<a href="http://techie-buzz.com/tag/funny-technology" class="tag-link-7" title="9 topics" rel="tag" style="font-size: 10.88pt;">Funny&nbsp;Technology</a>
+<a href="http://techie-buzz.com/tag/google-adsense" class="tag-link-164" title="3 topics" rel="tag" style="font-size: 8pt;">Google&nbsp;AdSense</a>
+<a href="http://techie-buzz.com/tag/google" class="tag-link-1" title="4 topics" rel="tag" style="font-size: 8.48pt;">Google&nbsp;News</a>
+<a href="http://techie-buzz.com/tag/google-search" class="tag-link-42" title="3 topics" rel="tag" style="font-size: 8pt;">google&nbsp;search</a>
+<a href="http://techie-buzz.com/tag/graphics" class="tag-link-696" title="4 topics" rel="tag" style="font-size: 8.48pt;">Graphics</a>
+<a href="http://techie-buzz.com/tag/greasemonkey" class="tag-link-25" title="3 topics" rel="tag" style="font-size: 8pt;">Greasemonkey</a>
+<a href="http://techie-buzz.com/tag/imaging-tools" class="tag-link-443" title="6 topics" rel="tag" style="font-size: 9.44pt;">Imaging&nbsp;Tools</a>
+<a href="http://techie-buzz.com/tag/keyboard-shortcuts" class="tag-link-185" title="3 topics" rel="tag" style="font-size: 8pt;">keyboard&nbsp;shortcuts</a>
+<a href="http://techie-buzz.com/tag/linux" class="tag-link-284" title="4 topics" rel="tag" style="font-size: 8.48pt;">linux</a>
+<a href="http://techie-buzz.com/tag/messengers" class="tag-link-12" title="5 topics" rel="tag" style="font-size: 8.96pt;">Messengers</a>
+<a href="http://techie-buzz.com/tag/offbeat-news" class="tag-link-29" title="3 topics" rel="tag" style="font-size: 8pt;">Offbeat&nbsp;News</a>
+<a href="http://techie-buzz.com/tag/online-goodies" class="tag-link-13" title="18 topics" rel="tag" style="font-size: 15.2pt;">Online&nbsp;Goodies</a>
+<a href="http://techie-buzz.com/tag/personal" class="tag-link-35" title="15 topics" rel="tag" style="font-size: 13.76pt;">Personal</a>
+<a href="http://techie-buzz.com/tag/productivity" class="tag-link-229" title="4 topics" rel="tag" style="font-size: 8.48pt;">productivity</a>
+<a href="http://techie-buzz.com/tag/quick-tips" class="tag-link-6" title="18 topics" rel="tag" style="font-size: 15.2pt;">Quick&nbsp;Tips</a>
+<a href="http://techie-buzz.com/tag/reader-query" class="tag-link-22" title="3 topics" rel="tag" style="font-size: 8pt;">Reader&nbsp;Query</a>
+<a href="http://techie-buzz.com/tag/reviews" class="tag-link-10" title="24 topics" rel="tag" style="font-size: 18.08pt;">Reviews</a>
+<a href="http://techie-buzz.com/tag/software" class="tag-link-194" title="9 topics" rel="tag" style="font-size: 10.88pt;">Software</a>
+<a href="http://techie-buzz.com/tag/speed-links" class="tag-link-21" title="4 topics" rel="tag" style="font-size: 8.48pt;">Speed&nbsp;Links</a>
+<a href="http://techie-buzz.com/tag/techie-treats" class="tag-link-18" title="13 topics" rel="tag" style="font-size: 12.8pt;">Techie&nbsp;Treats</a>
+<a href="http://techie-buzz.com/tag/the-year-that-was" class="tag-link-177" title="4 topics" rel="tag" style="font-size: 8.48pt;">The&nbsp;Year&nbsp;That&nbsp;Was</a>
+<a href="http://techie-buzz.com/tag/tips-and-tricks" class="tag-link-46" title="16 topics" rel="tag" style="font-size: 14.24pt;">Tips&nbsp;And&nbsp;Tricks</a>
+<a href="http://techie-buzz.com/tag/tools" class="tag-link-82" title="5 topics" rel="tag" style="font-size: 8.96pt;">tools</a>
+<a href="http://techie-buzz.com/tag/top-5" class="tag-link-16" title="4 topics" rel="tag" style="font-size: 8.48pt;">Top&nbsp;5</a>
+<a href="http://techie-buzz.com/tag/tutorials" class="tag-link-5" title="4 topics" rel="tag" style="font-size: 8.48pt;">Tutorials</a>
+<a href="http://techie-buzz.com/tag/twitter" class="tag-link-322" title="7 topics" rel="tag" style="font-size: 9.92pt;">Twitter</a>
+<a href="http://techie-buzz.com/tag/uncategorized" class="tag-link-15" title="16 topics" rel="tag" style="font-size: 14.24pt;">Uncategorized</a>
+<a href="http://techie-buzz.com/tag/useful-stuff" class="tag-link-32" title="17 topics" rel="tag" style="font-size: 14.72pt;">Useful&nbsp;Stuff</a>
+<a href="http://techie-buzz.com/tag/useful-websites" class="tag-link-199" title="11 topics" rel="tag" style="font-size: 11.84pt;">Useful&nbsp;Websites</a>
+<a href="http://techie-buzz.com/tag/utilities" class="tag-link-216" title="25 topics" rel="tag" style="font-size: 18.56pt;">utilities</a>
+<a href="http://techie-buzz.com/tag/web20" class="tag-link-382" title="4 topics" rel="tag" style="font-size: 8.48pt;">Web2.0</a>
+<a href="http://techie-buzz.com/tag/web20-news" class="tag-link-2" title="28 topics" rel="tag" style="font-size: 20pt;">Web2.0&nbsp;News</a>
+<a href="http://techie-buzz.com/tag/web20-releases" class="tag-link-383" title="4 topics" rel="tag" style="font-size: 8.48pt;">Web2.0&nbsp;Releases</a>
+<a href="http://techie-buzz.com/tag/windows-live" class="tag-link-11" title="5 topics" rel="tag" style="font-size: 8.96pt;">Windows&nbsp;Live</a>
+<a href="http://techie-buzz.com/tag/windows-vista" class="tag-link-274" title="6 topics" rel="tag" style="font-size: 9.44pt;">windows&nbsp;vista</a>
+<a href="http://techie-buzz.com/tag/wordpress" class="tag-link-20" title="4 topics" rel="tag" style="font-size: 8.48pt;">WordPress&nbsp;Tips&nbsp;and&nbsp;Tricks</a></div>
+
+	<ul class="idTabs">
+				<li class="active"><a href="#mostpop">MOST POPULAR</a></li>
+				<li><a href="#howto">HOW TO</a></li>
+			</ul>
+			<div class="navbox">
+			<ul class="list1" id="mostpop">
+						</ul>
+			<ul class="list1" id="howto">
+						</ul>
+		</div>
+<h2>Advertisement</h2>
+			<div class="sb-box-content" style="font-size:90%;" align="center"><br>
+			<p align="center">
+			<a target="_blank" href="http://techie-buzz.com/rotate/r.php?id=36"><img src="http://www.shareasale.com/image/globe_share_blue_160.jpg" border="0"></a>
+			<!-- BEGIN RICH-MEDIA Burst Network CODE -->
+<script type="text/javascript" language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+ts=String.fromCharCode(60);
+if (window.self != window.top) {nf=''} else {nf='NF/'};
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad16597a.cgi/v=2.3S/sz=120x600A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad16597a.cgi/v=2.3S/sz=120x600A/13076/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad16597a-map.cgi/ns/v=2.3S/sz=120x600A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad16597a.cgi/ns/v=2.3S/sz=120x600A/" border="0" alt="Click Here" /></a>
+</noscript>
+<!-- END Burst Network CODE -->
+
+</p><br><br>
+			</div>
+		
+		<ul class="idTabs">
+				<li class="active"><a href="#goodreads">GOOD READS</a></li>
+				<li><a href="#categories">CATEGORIES</a></li>
+			</ul>
+			<div class="navbox">
+			<ul class="list1" id="goodreads">
+			<li><a href="http://www.whoismadhur.com/">Madhur Kapoor</a></li>
+<li><a href="http://blogtheinternet.com/">Product Reviews</a></li>
+<li><a href="http://garryconn.com/">Successful Blogging Tips</a></li>
+<li><a href="http://www.shankrila.com" title="A blog where technology meets daily life!">ShanKri-la</a></li>
+<li><a href="http://www.nirmaltv.com/">Life Rocks by Nirmal</a></li>
+<li><a href="http://kylescove.com/">Kyles Cove</a></li>
+<li><a href="http://www.betatalk.info/">Beta Talk</a></li>
+<li><a href="http://trak.in/">India Business Buzz</a></li>
+<li><a href="http://fivepointsome1.blogspot.com">Technova</a></li>
+<li><a href="http://blog.shankarganesh.com/">Shankar Ganesh</a></li>
+			</ul>
+			<ul class="list1" id="categories">
+					<li class="cat-item cat-item-712"><a href="http://techie-buzz.com/category/add-ins" title="View all posts filed under Add-ins">Add-ins</a>
+</li>
+	<li class="cat-item cat-item-518"><a href="http://techie-buzz.com/category/adobe-air" title="View all posts filed under Adobe Air">Adobe Air</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://techie-buzz.com/category/adsense" title="View all posts filed under Adsense">Adsense</a>
+</li>
+	<li class="cat-item cat-item-53"><a href="http://techie-buzz.com/category/blogging-tips" title="View all posts filed under Blogging Tips">Blogging Tips</a>
+</li>
+	<li class="cat-item cat-item-654"><a href="http://techie-buzz.com/category/digsby" title="View all posts filed under Digsby">Digsby</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://techie-buzz.com/category/firefox-news" title="View all posts filed under Firefox News">Firefox News</a>
+</li>
+	<li class="cat-item cat-item-176"><a href="http://techie-buzz.com/category/flashback" title="View all posts filed under Flashback">Flashback</a>
+</li>
+	<li class="cat-item cat-item-512"><a href="http://techie-buzz.com/category/free-licenses" title="View all posts filed under Free Licensed Softwares">Free Licensed Softwares</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://techie-buzz.com/category/friday-fun" title="View all posts filed under Friday fun">Friday fun</a>
+</li>
+	<li class="cat-item cat-item-548"><a href="http://techie-buzz.com/category/gmail" title="View all posts filed under Gmail">Gmail</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://techie-buzz.com/category/google" title="View all posts filed under Google News">Google News</a>
+</li>
+	<li class="cat-item cat-item-210"><a href="http://techie-buzz.com/category/google-talk" title="View all posts filed under Google Talk">Google Talk</a>
+</li>
+	<li class="cat-item cat-item-93"><a href="http://techie-buzz.com/category/great-deals" title="View all posts filed under Great Deals">Great Deals</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://techie-buzz.com/category/how-to" title="View all posts filed under How To">How To</a>
+</li>
+	<li class="cat-item cat-item-410"><a href="http://techie-buzz.com/category/humour" title="View all posts filed under Humour">Humour</a>
+</li>
+	<li class="cat-item cat-item-683"><a href="http://techie-buzz.com/category/image-tools" title="View all posts filed under Image Tools">Image Tools</a>
+</li>
+	<li class="cat-item cat-item-647"><a href="http://techie-buzz.com/category/javascript" title="View all posts filed under Javascript">Javascript</a>
+</li>
+	<li class="cat-item cat-item-413"><a href="http://techie-buzz.com/category/linux-tips" title="View all posts filed under Linux Tips">Linux Tips</a>
+</li>
+	<li class="cat-item cat-item-301"><a href="http://techie-buzz.com/category/roundups" title="View all posts filed under Roundups">Roundups</a>
+</li>
+	<li class="cat-item cat-item-433"><a href="http://techie-buzz.com/category/sidenotes" title="View all posts filed under Sidenotes">Sidenotes</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://techie-buzz.com/category/softwares" title="View all posts filed under Softwares">Softwares</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://techie-buzz.com/category/technology-buzz" title="View all posts filed under Technology Buzz">Technology Buzz</a>
+</li>
+	<li class="cat-item cat-item-549"><a href="http://techie-buzz.com/category/templates" title="View all posts filed under Templates">Templates</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://techie-buzz.com/category/tips-and-tricks" title="View all posts filed under Tips And Tricks">Tips And Tricks</a>
+</li>
+	<li class="cat-item cat-item-322"><a href="http://techie-buzz.com/category/twitter" title="View all posts filed under Twitter">Twitter</a>
+</li>
+	<li class="cat-item cat-item-199"><a href="http://techie-buzz.com/category/useful-websites" title="View all posts filed under Useful Websites">Useful Websites</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://techie-buzz.com/category/utilites" title="View all posts filed under Utilities">Utilities</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://techie-buzz.com/category/wordpress-plugins" title="View all posts filed under WordPress Plugins">WordPress Plugins</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://techie-buzz.com/category/wordpress" title="View all posts filed under WordPress Tips and Tricks">WordPress Tips and Tricks</a>
+</li>
+			</ul>
+			</div>
+			
+			
+			
+
+		<ul class="idTabs">
+				<li class="active"><a href="#goodies">GOODIES FOR YOU</a></li>
+			</ul>
+			<div id="goodies" class="navbox">
+			<ul class="list1">
+						<li><a href="http://techie-buzz.com/rotate/r.php?id=34" target="_blank" id="featured">Get Paid to Social Network</a></li>
+						<li><a href="http://techie-buzz.com/rotate/r.php?id=26" id="featured">Empower Your Browser. Get the Windows Live Toolbar today.</a></li>
+						<li><a href="http://techie-buzz.com/rotate/r.php?id=17" id="featured">Keep your PC trouble-free with Windows Live OneCare</a></li>
+						<li><a href="http://techie-buzz.com/rotate/r.php?id=23" id="featured">Get your site reviewed only for $100!!</a></li>
+						<li><a href="http://techie-buzz.com/rotate/r.php?id=24"><strong>Earn $$ with WidgetBucks</strong></a></li>
+						<li><a href="http://techie-buzz.com/rotate/r.php?id=16" id="featured"><strong>2 GB Free Storage Space with Mozy</strong></a></li>
+						<li><a href="http://techie-buzz.com/rotate/r.php?id=21"><strong>Promote your site. Get $100 in FREE Links</strong></a></li>
+						<li><a href="http://techie-buzz.com/rotate/r.php?id=22">Make money by Selling Ad Space on your site</a></li>
+						
+
+						
+														<li><a href="http://www.charge.com/">Credit Card Processing</a></li>
+														<li> <a href="http://www.finawireless.com/helio/helio-fin.php">helio fin</a> </li><li> <a href="http://www.themssforum.com/">tech help</a> </li><li> <a href="http://www.surfinthespirit.com/">Christian debt consolidation</a> </li><li> <a href="http://www.leadum.com">Database Documentation Tool</a> </li><li> <a href="http://gle.am">Celebrity Gossip</a> </li><li> <a href="http://www.dating.lt">Dating</a> </li><li> <a href="http://www.cashprior.com/cash_advances.php">Business Cash Advance</a> </li><li> <a href="http://www.home-or-garden.com">Great Value at Walmart</a> </li><li> <a href="http://www.webidz.com/">Auctions</a> </li><li> <a href="http://www.therichkids.com/up/makemoney.php?id=2300">Fast, Easy Money - in minutes</a> </li>							<br>
+													<li><a href="http://techie-buzz.com/rotate/r.php?id=18" id="featured">Find Jobs at Techie Buzz</a></li>
+						<li><a href="http://techie-buzz.com/rotate/r.php?id=19" id="featured">Post a Job on Techie Buzz! $15 for  7 days</a></li>
+									<li>
+										<script type="text/javascript"><!--
+						google_ad_client = "pub-2703385610225771";
+						google_ad_output = "textlink";
+						google_ad_format = "ref_text";
+						google_cpa_choice = "CAAQnLirggIaCCVli8jea4_6KOCHu4UBMAA";
+						google_ad_channel = "3582152856";
+						//-->
+						</script>
+						<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+						</script>
+							</li>
+					</ul>
+			</div>
+			
+<h2>Advertisement</h2>
+			<div class="sb-box-content" style="font-size:90%;" align="center"><br>
+			<p align="center">
+			<!-- BEGIN RICH-MEDIA Burst Network CODE -->
+<script type="text/javascript" language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+ts=String.fromCharCode(60);
+if (window.self != window.top) {nf=''} else {nf='NF/'};
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad16597a.cgi/v=2.3S/sz=300x250A/NZ/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad16597a.cgi/v=2.3S/sz=300x250A/NZ/88886/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad16597a-map.cgi/ns/v=2.3S/sz=300x250A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad16597a.cgi/ns/v=2.3S/sz=300x250A/" border="0" alt="Click Here" /></a>
+</noscript>
+<!-- END Burst Network CODE -->
+</p><br><br>
+			</div>
+						
+			<h2>Rankings</h2><br>
+			<div class="sb-box-content" style="font-size:90%;" align="center">
+			<p align="center"><a href="http://www.kineda.com/are-you-an-a-list-bloglebrity/"><img src="http://www.kineda.com/bloglebrity/alist.png" alt="A-List Blogger" border="0"></a> &nbsp; <script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/t/b?url=http%3A%2F%2Ftechie-buzz.com"></script><br>
+				<!-- http://www.douglaskarr.com/projects/technorati-rank -->
+</p><div id="technorati-rank">
+<a id="wptra" href="" title="RSS Feed for Techie Buzz, know your technology head on"></a>
+<a id="wptrb" href="http://www.technorati.com/blogs/http://techie-buzz.com" title="Techie Buzz, know your technology head on: 
+1,235 Links from 904 Blogs"></a>
+<a id="wptrc" href="http://www.technorati.com/faves/?add=http://techie-buzz.com" title="Add Techie Buzz, know your technology head on to my Technorati Favorites"></a>
+<a id="wptrd" href="http://www.technorati.com/wtf" title="Where's the Fire?"></a>
+<div id="wptre">Blog Rank: 3,186</div>
+<a id="wptrf" href="http://www.technorati.com" title="Visit Technorati"></a>
+<a id="wptrg" href="http://www.douglaskarr.com/projects/technorati-rank-plugin" title="Get this WordPress Plugin for your Site!" target="_blank"></a>
+</div>
+<!-- End Technorati Rank Plugin Results -->				<p></p>
+		</div>
+			<br><br>
+			
+			<h2>Drop Your Card</h2><br>
+			<div class="sb-box-content" style="font-size:90%;" align="center">
+			<p align="center">
+			<script src="http://entrecard.s3.amazonaws.com/widget.js?user_id=725&amp;type=standard_250" type="text/javascript" id="ecard_widget"></script>
+			</p>
+			</div>
+						
+
+			
+			<h2>Recent Readers</h2><br>
+			<div class="sb-box-content" style="font-size:90%;" align="center">
+			<p align="center">
+				<script src="http://pub.mybloglog.com/comm2.php?mblID=2007021907163984&amp;c_width=200&amp;c_sn_opt=n&amp;c_rows=5&amp;c_img_size=h&amp;c_heading_text=Recent+Readers&amp;c_color_heading_bg=005A94&amp;c_color_heading=ffffff&amp;c_color_link_bg=E3E3E3&amp;c_color_link=005A94&amp;c_color_bottom_bg=005A94" type="text/javascript"></script><br><br>
+				<a href="http://whos.amung.us/show/7x3h3ymo"><img src="http://whos.amung.us/widget/7x3h3ymo.png" alt="web stats" width="81" height="29" border="0"></a>
+				</p><br>
+			</div>
+			
+			
+
+
+
+	</div>
+
+<div class="fix"></div>
+		<div class="boxes bottom">
+			<div class="col1">
+		
+		<h2>RECENT POSTS</h2>
+		<ul>
+			<li><a href="http://techie-buzz.com/add-ins/set-facebook-status-as-windows-live-messenger-personal-status.html">Set Facebook Status As Windows Live Messenger Personal Status</a></li><li><a href="http://techie-buzz.com/wordpress/happy-birthday-wordpress.html">Happy Birthday WordPress</a></li><li><a href="http://techie-buzz.com/utilites/jink-capture-a-screencast-and-easily-share-with-others.html">Jing | Capture a screencast and easily share with others</a></li><li><a href="http://techie-buzz.com/wordpress-plugins/better-tags-manager-wordpress-plugin-release.html">Better Tags Manager WordPress Plugin Release</a></li><li><a href="http://techie-buzz.com/gmail/search-emails-quickly-with-gmail-search-options.html">Search emails quickly with GMail Search Options</a></li><li><a href="http://techie-buzz.com/image-tools/convert-photos-to-sketches-quickly-and-easily.html">Convert Photos To Sketches Quickly and Easily</a></li><li><a href="http://techie-buzz.com/utilites/keep-track-of-online-signups-with-signup-record-tracker.html">Keep Track of Online Signups with Signup Record Tracker</a></li>		</ul>
+							</div>
+			<!--/col1-->
+			<div class="col2">
+				<h2>TOP COMMENTATORS</h2>
+								<ul>
+					<li><a href="http://www.zulit.com">Betty</a> (4)
+</li>
+<li><a href="http://mp3crown.com">Magie</a> (3)
+</li>
+<li>Carl (2)
+</li>
+<li><a href="http://www.t20cricket.co.in">t20  cricket fan club joi...</a> (2)
+</li>
+<li><a href="http://gammablog.com">Gamma</a> (2)
+</li>
+<li><a href="http://www.troublefixers.com">abhishek</a> (2)
+</li>
+<li><a href="http://www.stumbledcore.uni.cc">hassan</a> (2)
+</li>
+<li><a href="http://mymindleaks.com">maheshexp</a> (1)
+</li>
+				</ul>
+							</div>
+			<!--/col2-->
+			<div class="col3">
+							<h2>SUBSCRIBE</h2>
+				<a href="http://techie-buzz.com/rotate/r.php?id=40" class="rss">Subscribe to Feeds</a><br><br>
+				<a class="mybloglog" href="http://www.mybloglog.com/buzz/community/techiebuzz/">Join MyBlogLog Community</a><br><br>
+			<a href="http://technorati.com/faves?sub=addfavbtn&amp;add=http://www.techie-buzz.com"><img src="http://static.technorati.com/pix/fave/tech-fav-1.png" alt="Add to Technorati Favorites" border="0"></a><br><br>
+		Get the latest updates from Techie Buzz directly in your inbox. Subscribe now.
+		<form action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+	<input style="font-family:arial;font-size:10px;width:120px;" maxlength="128" size="25" name="email" value="Your email address" onclick="if (this.value == 'Your email address') this.value=''">
+	<input type="hidden" value="http://feeds.feedburner.com/~e?ffid=380107" name="url">
+	<input type="hidden" value="Techie buzz" name="title"><input type="hidden" name="loc" value="en_US">
+	<input type="submit" value="Subscribe" class="sb-button">
+</form>
+						</div>
+			<!--/col3-->
+		</div>
+
+
+</div> <!-- end wrapper -->
+<div id="footer">
+<p><a href="http://techie-buzz.com/privacy-policy">Privacy Policy</a> | <a href="http://techie-buzz.com/disclosure">Disclosure</a> | <a href="http://techie-buzz.com/about-us">About Us</a> | <a href="http://techie-buzz.com/contact-us">Contact Us</a> | <a href="http://techie-buzz.com/top-posts" title="Top Posts">Top Posts</a> | <a href="http://techie-buzz.com/archives" title="Archives">Archives</a> | <a href="http://techie-buzz.com/advertise" title="Advertise">Advertise</a> | <a href="http://techie-buzz.com/sitemap">Sitemap</a> | <a href="http://techie-buzz.com/rotate/r.php?id=40" class="rss">Get Rss Feeds</a> | <a href="feed://http://feeds.feedburner.com/techiebuzzcomments" class="rss">Get Comments Feed</a> | <a class="validate" href="http://jigsaw.w3.org/css-validator/validator?uri=http://techie-buzz.com/wp-content/themes/TechieBuzz/style.css" title="Valid CSS 2.0">CSS</a></p>
+<p>Copyright (c) 2006-2008 Techie Buzz. All rights reserved. Design By <a href="http://www.adii.co.za">Adii</a></p><br>
+</div> <!-- end of #footer -->
+
+ <!-- end whole page -->
+
+<!-- Google Analytics Tracking by Google Analyticator: http://cavemonkey50.com/code/google-analyticator/ -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-180945-6");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+<!-- Adding Kontera-->
+<!-- Kontera ContentLink(TM);-->
+<script type="text/javascript">
+var dc_AdLinkColor = '#132784' ;
+var dc_UnitID = 14 ;
+var dc_PublisherID = 13764;
+var dc_adprod = 'ADL' ;
+var dc_single_line='yes';
+var dc_isBoldActive='no';
+</script>
+<script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js"></script>
+<!-- Kontera ContentLink(TM) -->
+    <!-- PERFORMANCING METRICS (http://pmetrics.performancing.com) --> 
+    <script type="text/javascript">
+    function clicky_get_cookie( name ) {
+      var ca = document.cookie.split(';');
+      for( var i in ca ) {
+        if( ca[i].indexOf( name+'=' ) > -1 ) return decodeURIComponent( ca[i].split('=')[1] );
+      }
+      return '';
+    }
+    var clicky_custom_session = { username: clicky_get_cookie( 'comment_author_70b64b7267bf72b617058f891966b043' ) };
+    </script>
+
+    <script type="text/javascript" src="http://pmetrics.performancing.com/279.js"></script>
+    <noscript><p><img alt='Performancing Metrics' src='http://pmetrics.performancing.com/279ns.gif' /></p></noscript>
+    <!-- /PMETRICS -->
+
+<p id="tweaks">This blog has been fine-tuned with 1 <a href="http://wordpress.jdwebdev.com/plugins/tweaks/&#10;">WordPress Tweak</a>.</p>
+<!-- Reinvigorate WordPress Plugin -->
+<script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+re_("fsj99-8h1g7873k8");
+//]]>
+</script>
+<!-- End -->
+
+<script src="http://stats.wordpress.com/e-200823.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'1068335',v:'ext',post:'406'});
+var load_cmc = function(){linktracker_init(1068335,406,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+
+
+
+
+</body></html>
