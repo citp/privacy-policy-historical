@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicalaction.org privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203033859id_/http%3A//practicalaction.org/%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalaction.org privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601120351id_/http%3A//practicalaction.org/%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Practical Action - Practical Action privacy policy
 
@@ -32,15 +32,15 @@ We sometimes ask you for an e-mail address. This will be:
 - to take a campaign action; or  
 - to follow up a feedback form, in order to get a better picture of our audience's needs
 
-If you sign up for an e-newsletter or take a campaign action, the e-mail address you supply will only be used to send you information on Practical Action's work. If you give us your e-mail address when downloading technical information, that address will only be used to follow up that request.
+If you sign up for an e-newsletter or take a campaign action, the e-mail address you supply will only be used to send you information on Practical Action's work. If you give us your e-mail address when downloading technical information, that address will only be used to follow up that request or supply updates on our technical information.
 
 ## Storage of information
 
-The information provided to Practical Action is saved indefinitely and may be stored on one or more databases directly maintained by us.
+With the exception of credit card details, the information provided to Practical Action is saved indefinitely and may be stored on one or more databases directly maintained by us.
 
 ## Online donations
 
-All our online donations are handled through JustGiving's secure servers. Please see [JustGiving's separate privacy policy](http://www.justgiving.com/statements/privacy_policy_popup/affiliate/default.asp?did=%27,%27%27,%27width=510,height=600,scrollbars=yes%27).
+All our online donations go via a secure server. Data sent to and from this server is encrypted to prevent interception. Credit card details are not kept following a transaction. Practical Action's online donations are managed by [Baigent](http://www.baigent.net/).
 
 ## Questions
 
@@ -49,3 +49,5 @@ If you have any questions about Practical Action's privacy policy, please email 
 ## 1998 Data Protection Act
 
 Practical Action holds any details you give us for our own marketing purposes. If you do not wish to receive future information, please write to the data controller at this address: _Data Controller, Practical Action, The Schumacher Centre for Technology & Development, Bourton on Dunsmore, Rugby CV23 9QZ, United Kingdom._ Telephone: +44 (0) 1926 634400, e-mail: [_practicalaction@practicalaction.org.uk_](mailto:practicalaction@practicalaction.org.uk)
+
+[ ](https://www.securitymetrics.com/site_certificate.adp?s=87%2e106%2e140%2e166&i=103637)
