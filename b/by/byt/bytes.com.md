@@ -1,0 +1,49 @@
+> *The following text is extracted and transformed from the bytes.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601195121id_/http%3A//bytes.com/privacy.html) for the most accurate reproduction.*
+
+# Bytes.com - Privacy Policy
+
+|  | 
+
+Bytes.com is an online community that acts as a venue for tech professionals ("User") to share knowledge and network with other tech professionals. 
+
+Our site is committed to providing engaging, informational, and safe online environment for it's users. We are dedicated to safeguarding any personal information collected on-line and helping it's users learn how to exercise control over personal information while exploring the Internet. We take special measures to protect their privacy while on-line. For example, we do not ask to disclose more personal information than is necessary for them to participate in a particular activity, and we take extra effort to prevent users from posting contact information.
+
+To help ensure a rewarding on-line experience for our visitors we provide you with this summary of our information practices.
+
+As we continue to offer our visitors new and different types of content and services, we may modify our practices from time to time. However, we will treat all personal information we collect in accordance with the privacy notice in effect at the time the information is collected.
+
+**INFORMATION WE COLLECT**  
+When visitors come to the site, we automatically collect some non-personally identifiable "computer" information, such as the type of computer operating system (e.g., Windows 95 or Mac OS), the web browser (e.g., Netscape, Internet Explorer) being used, and information regarding the Internet service provider. 
+
+For added functionality, the site requires that users provide essential information such as a email address and unique site identification to create member accounts.
+
+From time to time we offer additional on-line activities such as participating in polls, surveys or sweepstakes -- we may ask users to provide additional information such as address, phone number, zip code and preferences. This information is used to provide additional value added entertainment and at times to grasp a clear picture of demographic statistics. Winners of our contests or sweepstakes are notified by e-mail, and are required to send us by fax or regular mail a form containing their street address. Winners who are minors must have the form signed by a parent in order to receive their prizes.
+
+**USE OF INFORMATION  
+**We use visitors' personal information only for our internal purposes of enabling visitors gaining access to additional site features, to enter one of our on-line contests or sweepstakes, to subscribe to our online newsletter, or to inform users of upcoming events and special announcements. We use the names and e-mail addresses of subscribers to our e-mail newsletter only to send them the newsletter. Each newsletter contains instructions on how to be removed from the subscription list by sending us a return e-mail.
+
+Sometimes we will use agents or contractors to help us provide services to our visitors, such as helping us conduct a sweepstakes and sending prizes to the winners. In these cases, we require the agent or contractor to keep the information confidential and to use it only for the specific services they are performing.
+
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of the site, to personalize our visitors' experience on the site, and to offer products, programs, and services. We also may use this information in the aggregate to analyze site usage, as well as to offer products, programs, or services.
+
+We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+
+We will not use or transfer personally identifiable information in ways that are materially different from the ones described above without also providing parental notification of such practices and obtaining consent for any materially different uses.
+
+**INFORMATION COLLECTED BY THIRD-PARTY SITES AND SPONSORS  
+**This site contains links to other sites, including those of sponsors and advertisers, whose information practices may be different from ours. Sometimes the other sites might conduct contests or sweepstakes that are promoted on this site. Visitors should consult the other sites' privacy notices, since those sites are not covered by our privacy policy and may follow procedures that are different from ours. This site never gives a user's e-mail address to sponsors without permission, however, if you choose to "opt-in" (click on a box to receive a sponsor's information), to register with one of our sponsors, or not to "opt-out" (uncheck a checked box that will provide a sponsor with your information), that means you have allowed this site to give your e-mail address to that sponsor.
+
+**COOKIES  
+**This site uses a software technology called "cookies." Cookies are small text files that we place in visitors' computer browsers to store their preferences. Cookies themselves do not contain any personally identifiable information. Although cookies could enable us to relate a visitor's use of this Web site to personal information that a visitor has provided, such as an e-mail address, we do not use them for this purpose. We do use "cookies" to determine how many visitors we have and how often they visit various sections of the site.
+
+**SECURITY  
+**We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect on-line.
+
+**CONTACT US  
+**If you have any questions, comments, or concerns regarding our privacy policy and/or practices, please contact us using the link to the Contact at privacy@bytes.com .
+
+**THIRD PARTY COOKIES**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.   
+  
+  
+---|---
