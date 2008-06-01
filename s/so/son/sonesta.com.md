@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonesta.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203134149id_/http%3A//www.sonesta.com/Corporate/index.cfm%3Ffa%3Dmisc.PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonesta.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601145306id_/http%3A//www.sonesta.com/Corporate/index.cfm%3Ffa%3Dmisc.PrivacyPolicy) for the most accurate reproduction.*
 
 # Sonesta Hotels, Resorts & Nile Cruises - Sonesta New Orleans, Boston, Miami, St. Maarten, Brazil, Peru, Egypt
 
