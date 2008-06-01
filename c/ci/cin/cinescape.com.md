@@ -1,59 +1,111 @@
-> *The following text is extracted and transformed from the cinescape.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211231132id_/http%3A//www.mania.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinescape.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601031507id_/http%3A//www.mania.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Mania.com
 
-Mania Entertainment LLC takes your privacy seriously. Please read the following to learn more about our privacy policy. 
+**Date:** Friday, October 13, 2006
 
-What this Privacy Policy Covers 
+Mania.com Privacy and Information Security Policy
 
-• This Privacy Policy covers Mania Entertainment's treatment of personally identifiable information that Mania Entertainment collects when you are on the Mania Entertainment site, and when you use Mania Entertainment's services. This policy also covers Mania Entertainment's treatment of any personally identifiable information that Mania Entertainment's business partners share with Mania Entertainment or that Mania Entertainment may collect on a partner's site. 
+ **
 
-• This policy does not apply to the practices of companies that Mania Entertainment does not own or control, or to people that Mania Entertainment does not employ or manage. 
+Effective Date: April 14th, 2008
 
-Information Collection and Use 
+Your privacy is important to Mania (“Mania”, “we” or “us”).  This Privacy and Information Security Policy ("the Policy") discusses the personally identifying information (“PII”) that we collect about you when you use our website http://www.mania.com(the “Site”) and the other services we provide on or through the Site (together with the Site, the “Service”).  This Policy is part of and incorporated into the Mania Terms of Use http://www.mania.com/term-of-service.html (collectively, the “Terms”). 
 
-• Mania Entertainment collects personally identifiable information when you register for a Mania Entertainment account, when you use certain Mania Entertainment products and services, when you visit Mania Entertainment pages, and when you enter promotions or sweepstakes. Mania Entertainment may also receive personally identifiable information from our business partners. 
+Policy highlights:
 
-• When you register with Mania Entertainment, we ask for your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with Mania Entertainment and sign in to our services, you are not anonymous to us. 
+  * We will not collect PII about you through the Service unless you disclose such information to us; 
+  * We will not knowingly disclose PII about you that we collect through the Service to third parties, except under the limited circumstances described in this Policy; and 
+  * We will take reasonable steps to protect the security of the PII we collect from you through the Service. 
 
-• Mania Entertainment also automatically receives and records information on our server logs from your browser including your IP address, Mania Entertainment cookie information and the page you requested. 
 
-• Mania Entertainment uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products. 
 
-Information Sharing and Disclosure 
+These Policy highlights are qualified by full reference to the terms and conditions described below.
 
-• Mania Entertainment may send personally identifiable information about you to other companies or people when: 
+BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED IN THE POLICY.
 
-o We have your consent to share the information; 
+1. **        **_INFORMATION YOU GIVE US_. 
 
-o We need to share your information to provide the product or service you have requested; 
+a.       _The Types of Information Mania Collects_.  We collect any information you enter on the Service or give us in any other way (such as through an email, survey, or letter). The information that we collect varies depending upon how you use our Service.  Our account registration process requires that you provide us with your user name, birthday and email address, and that you create and provide us with a password.  We may also request other information, such as but not limited to, your actual first and last name, gender, and zip code.  You may access and update certain of your personal information or account settings by going to the “Profile” or “My Mania” or a similar tab on the Site. 
 
-o We need to send the information to companies who work on behalf of Mania Entertainment to provide offers on special products or services we consider to be of interest to you; 
+b.       _Information in Public Areas of the Site_.  Please keep in mind that whenever you voluntarily provide information in public areas of the Service, such as the user profile pages or forums, that information can be viewed and possibly used by others.  We therefore advise visitors not to disclose contact information, including phone number, email address, street address or instant messenger address (within these public areas) that they do not wish to share.  We are not responsible for PII you choose to submit in these public areas.  Also, we may highlight content you post to the public areas of the Service such as reviews or comments, such as by featuring your content on the Site’s home page. 
 
-o We respond to subpoenas, court orders or legal process; or 
+c.       _Minors_.  We do not knowingly collect or solicit personal information from anyone under the age of 14 or knowingly allow such persons to register.  If you are under 14, do not attempt to register for our Site or send any information about yourself to us.  We recommend that prospective users between the ages of 14 and 17 ask their parents or other legal guardians for permission before sending any information about themselves to anyone over the Internet.
 
-o We find that your actions on our web sites violate the Mania Entertainment Terms of Use or any of our usage guidelines for specific products or services. 
+2. **        **_AUTOMATIC INFORMATION COLLECTION_.           
 
-Cookies 
+a.       _Cookies_.  Like many websites, we use “cookies.”  Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser.  We use persistent, identifying cookies to remember your information and to link your activities to you.  While you can take steps to warn off, block or disable cookies, if you do, the Service may not function and appear as we have designed it.  Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser.  Our cookies do not collect PII that you provide to us during the registration process, but they do collect other information such as the following:
 
-• Mania Entertainment may set and access Mania Entertainment cookies on your computer. 
+                                             i.      the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
 
-• Mania Entertainment allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Mania Entertainment's cookies. 
+                                           ii.      the date and time you access the Site and pages you visit;
 
-• Mania Entertainment uses web beacons to access our cookies within and outside our network of web sites and in connection with Mania Entertainment products and services. 
+                                          iii.      your computer's IP address and information about its operating system, platform and the Web browser type and version you use;
 
-Your Ability to Edit and Delete Your Account Information and Preferences 
+                                          iv.      demographic and other non-personally identifiable profile information about you; and
 
-• Mania Entertainment gives you the ability to edit your Mania Entertainment Account Information and preferences at any time, including whether you want Mania Entertainment to contact you about specials and new products. You may opt-out of receiving these special offers at www.(fill in url).com. 
+                                            v.      information to combat fraud or misuse.
 
-• You may request deletion of your Mania Entertainment account by visiting our Account Deletion page, verifying your password once more and confirming your choice to terminate the account. Please click here to read about what information may possibly remain in our archived records after your account has been deleted. 
+b.       _Pixel Tags_.  In our email to you, we use “pixel tags” to determine if your email software or service can display html-formatted email (this helps us optimize the size of our email messages and conserve bandwith).
 
-Security 
+c.       _Collection of Information by Third Parties_.  Our Site may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party.  We do not provide any PII to these advertisers, third-party websites, or other businesses, although on occasion we may mutually share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements.  These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Policy but are covered by their respective privacy politices. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology.  For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: http://www.networkadvertising.org/managing/opt_out.asp.     
 
-• Your Mania Entertainment Account Information is password-protected for your privacy and security. 
+d.       _Promotions, Sweepstakes, and Contests_.  From time to time, we may host a promotion, sweepstake, or contest on the Service.  You may be asked to provide personal information or permit the transfer to a third party of your personal information in connection with such promotion, sweepstake or contest.  It will be disclosed at the point of collection or transfer who is collecting or transferring the information and whose privacy statement applies, and it will be your choice whether or not you wish to permit such transfer or collection of personal information to a third party.
 
-• In certain areas Mania Entertainment uses industry-standard SSL-encryption to protect data transmissions. 
+ **3.        **_MANIA’S USE AND RETENTION OF YOUR INFORMATION_. __
 
-Changes to this Privacy Policy 
+a.        _Use of PII_.  We use your PII for purposes such as responding to your requests, monitoring and providing the Service, maintaining your Mania account, providing you with advertising and non-advertising content that we believe would be of interest to you, enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the Terms http://www.mania.com/term-of-service.html.  We also may use your PII to contact you regarding your account, such as to inform you that you have received an email from another Mania member, or to forward user comments to you about the content that you have posted.  We may also email Mania newsletters, and similar communications about the Service.   
 
-• Mania Entertainment may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
+b.       _Opting-Out_.  Subject to the exceptions noted below, at any time, you may modify the types of communications you wish to receive by changing your preferences as part of your profile on the Site.  In addition, in our marketing or promotional e-mails to you, we will include instructions on how to unsubscribe and/or inform us of your preferences if you do not want to receive any marketing or promotional e-mails from us. We reserve the right to send you customary business communications such as acceptance/rejection notices regarding content submissions, general system and administrative messages regarding the Service, address confirmations, and transactional information about your account, and we may not offer you the opportunity to opt-out of receiving such communications so long as you are registered with the Site. 
+
+c.       _Use of Other Information_. We use non-PII about our users for purposes such as measuring the number of visitors to sections of our Site, making the Service more useful to visitors and delivering targeted advertising and non-advertising content.  We use IP addresses to analyze trends, administer the Site, track a user’s movement, and gather broad demographic information for aggregate, non-personally identifiable use.
+
+d.       _Retention of Information_.  We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations.  We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information.  You must keep your own, separate back-up records.
+
+4. **        **_MANIA’S SHARING OF INFORMATION_.  Mania shares information with third parties, but only as described in this Section 4.
+
+a.       _Advertisers and Others_.  We share non-personally identifiable information with advertisers, service providers, and other persons with whom we conduct business. Similarly, these advertisers, service providers, and other persons may share with us non-PII about you that they have independently gathered or acquired.
+
+b.       _Third Party Services_.  We contract with affiliated and non-affiliated third parties to provide services to us or to you on our behalf. Examples include providing marketing assistance, providing customer service, sending Mania emails to you, removing repetitive information from customer lists, and analyzing data. These third parties may have access to your PII for use solely in connection with these authorized business activities.
+
+c.       _Business Transfer_.  As we develop our business, we might sell or buy businesses or their assets, or engage in acquisitions, mergers, restructurings, changes of control, or similar transactions.  In such transactions, customer information generally is one of the transferred business assets, and your PII may be subject to such a transfer.  Also, in the unlikely event of a bankruptcy, customer information may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser.
+
+d.       _Affiliates_.  We may share PII, non-PII and other information with our corporate affiliates. Some of our most significant affiliates are identified on the website of our parent company, [Demand Media, Inc.](http://www.mania.com/shared_files/FCKeditor/Local%20Settings/Temporary%20Internet%20Files/OLK82/Demand%20Media,%20Inc.) [http://www.demandmedia.com](http://www.demandmedia.com/).  Corporate affiliates are those entities that we control, are controlled by us, or are under common control with us and any joint venture in which any of the controlled entities may participate from time to time. Any use of your information by our corporate affiliates is subject to this Policy or another policy no less protective of your privacy.  Conversely, we may obtain information about you from our corporate affiliates or from your visits to other websites that we or our corporate affiliates control. 
+
+e.       _Compliance and Safety_. We may release user information when we believe release is appropriate to:
+
+                                             i.      comply with applicable law, and to respond to legal process, including subpoenas, search warrants and court orders, and to respond to or otherwise address written complaints of copyright infringement;
+
+                                           ii.      make disclosures under programs intended to prevent potential crimes or investigate persons;
+
+                                          iii.      enforce or apply agreements, including the Terms; or
+
+                                          iv.      protect the rights, property, or safety of Mania, our users, or others, including exchanging information with other companies for fraud protection and credit risk reduction.
+
+ **5.        **_INFORMATION SECURITY_
+
+a.       _Your Obligations_.  You must protect against unauthorized access to your password and to your computer. Please sign off when finished using a shared computer. Your emails to us are not necessarily secure against interception so do not include sensitive information in them.  We generally will not ask for passwords in an email and you should assume that if you get such a request, it might be fraudulent. YOU MUST DO WHAT YOU REASONABLY CAN TO ENSURE THE SECURITY OF YOUR PERSONAL INFORMATION.
+
+b.       _Our Security Measures_.  We take reasonable precautions to protect the security of our users’ information.  We have physical, electronic, and managerial procedures to help safeguard, prevent unauthorized access, maintain data security, and correctly use your information.  However, neither people nor security systems are foolproof, including encryption systems.  In addition, people can commit intentional crimes, make mistakes or fail to follow policies.  Therefore, while we use reasonable efforts to protect your PII, we cannot guarantee its absolute security.  If applicable law imposes any non-disclaimable duty to protect your PII, you agree that intentional misconduct will be the standards used to measure our compliance with that duty.
+
+6. **        **_LINKS_. The Service contains links to other sites. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of every web site that collects your personally identifiable information. This Policy applies only to information collected by the Service. 
+
+**7.        **_CONDITIONS OF USE, NOTICES, AND REVISIONS_. 
+
+a.       _Privacy Concerns_.  Your use of the Service and any dispute over privacy is subject to the Terms http://www.mania.com/term-of-service.html If you have any concern about privacy at Mania, please send us a thorough description to info@mania.com, and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 8 below.
+
+b.       _Notice Required by Law_.   In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with Mania at all times. 
+
+c.       _Identity Theft_. If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notice address (see the next section of this Policy) and we will let you know what additional information you must provide to us. After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses.
+
+d.       _Revisions_.  We reserve the right to change our Policy at any time.  Non-material changes and clarifications will take effect immediately.  If we make non-material changes, we will indicate at the top of this page the revised Policy’s new effective date.  If we make material changes, we will notify you by email or through notice on the home page of the Site, and will also indicate so at the top of this page.  The material changes will take effect 30 days after such notice.  We encourage you to refer to this Policy at least every 30 days to check for material changes to this Policy. 
+
+8. **        **_CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY._   For customer service matters (including questions relating to this Policy), you may email us at info@mania.com. To send us alegalnotice, mail it by certified mail (return receipt requested) to: Legal Department,
+
+15801 NE 24th St. Bellevue, WA98008. When we need to contact you, including when we give alegalnotice, we may do so to an email address that we have on file for you or to your Mania email account, or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to your Mania email account or to the non-Mania email address that we have on record for you.   
+
+Mania is a trademark or registered trademark of Demand Media in the and other countries.
+
+Copyright © 2008. Demand Media, Inc.
+
+**
