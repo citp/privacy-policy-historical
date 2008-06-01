@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patsfans.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217210911id_/http%3A//www.patsfans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patsfans.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602014238id_/http%3A//www.patsfans.com/privacy) for the most accurate reproduction.*
 
 # PatsFans.com - Privacy Policy
 
@@ -8,14 +8,9 @@ Thank you for visiting PatsFans.com. We are fans just like you, and we value our
 
 At some areas of the site, you can order products, enter contests, vote in polls, subscribe to services such as online newsletters, e-mail lists, etc, and participate in our messageboard communities. The types of information that may be requested and collected at these pages are: 
 
-Name  
-E-mail Address  
-Address  
-Phone Number  
-Credit Card Information  
+Name E-mail Address Address Phone Number Credit Card Information 
 
-
-We also may collect non-personally identifiable information when you visit our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer) , your I.P. Address, and the address of the website you were referred from. 
+We also may collect non-personally identifiable information when you visit our web pages such as the type of browser you are using (e.g., Mozilla Firefox, Internet Explorer) , your I.P. Address, and the address of the website you were referred from. 
 
 We may also request that you participate occasionally in an anonymous survey, requesting just your sex, age, household income, and other information which is used to put together demographics for our advertisers. The survey will not be able to personally identify you, and simply helps us work with advertisers to design a campaign that will fit the needs of those who visit this site. 
 
@@ -29,48 +24,18 @@ The non-personal information we collect is used to monitor traffic and also allo
 
 **COLLECTION OF INFORMATION BY THIRD-PARTY SITES AND SPONSORS**
 
-PatsFans.com currently has sponsorship agreements with the following companies: 
-
-Covers.com 
-
-PatsFans.com currently has Affiliate agreements with the following Companies: 
-
-Amazon.com  
-Ebay  
-Finish Line, Inc.  
-Sony Style Stores  
-VerizonWireless.com  
-BarnesandNoble.com  
-Adidas America  
-NetFlix.com  
-Lids.com  
-Everlasting Images  
-FootballFanatics.com  
-CafePress.com  
-
-
-We also have partnerships with the following Clear Channel Communications Radio Stations where contests and banner ads may be served from: 
-
-WHEB.com  
-Rock101WGIR.com  
-WQSO.com  
-WVRRFM.com  
-
-
-Some of our pages will contain links to products on the sites listed above, or direct links to the site itself, and there information practices may be different than ours. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Visitors should consult the other sites' privacy notices as we have no control over the information that is submitted to, or collected by, these third parties. 
+Some of our pages will contain links to products to affiliate sites, or direct links to the site itself, and their information practices may be different than ours. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Visitors should consult the other sites' privacy notices as we have no control over the information that is submitted to, or collected by, these third parties. 
 
 **COOKIES**
 
 To enhance your experience with our site, some of our web pages use "cookies." Cookies are text files that are placed in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. 
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. Third parties (usually advertisers) may be also placing and reading cookies on your browser, or using web beacons to collect information, in the course of those ads being served this website. 
+
+Like most standard Web site servers we analyze traffic via log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and similar information. IP addresses, etc. are not linked to personally identifiable information. 
 
 **LEGAL NOTES**
 
 We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. 
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. 
-
-**HOW TO CONTACT US**
-
-If you have any questions or concerns about the PatsFans.com online policy for this site or its implementation you may contact us by [**CONTACTING US**](https://web.archive.org/contact/) and voicing your concerns. 
