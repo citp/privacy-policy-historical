@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nswlotteries.com.au privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219061128id_/http%3A//www.nswlotteries.com.au/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nswlotteries.com.au privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602011232id_/http%3A//www.nswlotteries.com.au/privacypolicy/index.html) for the most accurate reproduction.*
 
 # :: NSW Lotteries ::
 
