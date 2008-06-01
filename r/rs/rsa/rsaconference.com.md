@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsaconference.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227105123id_/http%3A//www.rsaconference.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsaconference.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601103147id_/http%3A//www.rsaconference.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # RSA Conference :: Privacy Policy
 
@@ -57,7 +57,7 @@ We welcome and encourage your [input](mailto:webmaster@rsaconference.com) on thi
 
 From time to time, RSA allows vendors of information security and related products to rent the physical mailing list from the RSA Conference. You may become part of a vendor's database (and subject to its privacy policies) if you respond to its mailing. Often, the vendors are companies who exhibit on the show floor. If your registration badge is read at their booth during the Conference, you may also become part of their database.
 
-If you do not want to receive these mailings, please opt out when you register for the Conference. Or call the RSA marketing department at 1.650.295.7600 or [email your opt-out request](mailto:mveit@rsasecurity.com) and ask that your name be removed from the mailing list. Alternatively, you can fill out the [opt out request form](https://rsasecurity1.rsys1.net/servlet/website/ResponseForm?klHEklH.25VTJhgM.25VThimhNm).
+If you do not want to receive these mailings, please opt out when you register for the Conference. Or call the RSA marketing department at 1.650.295.7600 or [email your opt-out request](mailto:mveit@rsasecurity.com) and ask that your name be removed from the mailing list. Alternatively, you can fill out the [opt out request form](https://info.rsasecurity.com/common/rsac_opt_out.html "opt out request form").
 
 **_Use of Personal Data_**
 
@@ -151,6 +151,6 @@ This privacy policy forms part of our Web Site Terms of Use and as such shall be
 
 If you have any questions about this Privacy Policy or concerns about the way we process your Personal Data, please contact us by e-mailing us at [webmaster@rsaconference.com](mailto:webmaster@rsaconference.com).
 
-**For more information call 1-888-746-9734 or call +1-508-743-0157 from outside the US and Canada or email[info@rsaconference.com](mailto:info@rsaconference.com).**
+**For more information call 1-888-746-9734 or call +1-508-743-0157 from outside the US and Canada or email[webmaster@rsaconference.com](mailto:webmaster@rsaconference.com "webmaster@rsaconference.com").**
 
 © Copyright 2007 RSA, the Security Division of EMC - all rights reserved. Reproduction of this Web Site, in whole or in part, in any form or medium without express written permission from RSA is prohibited.
