@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resourcenation.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210082916id_/http%3A//www.resourcenation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourcenation.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601150103id_/http%3A//www.resourcenation.com/pages/3374/privacy.html) for the most accurate reproduction.*
 
-# Resource Nation - Get Quotes from Quality Vendors
+# Privacy
 
 Last updated on November 19, 2007
 
