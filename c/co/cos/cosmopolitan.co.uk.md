@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the cosmopolitan.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213123731id_/http%3A//www.cosmopolitan.co.uk/index.php%3Fmodule%3Droles%26func%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmopolitan.co.uk privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601183104id_/http%3A//www.cosmopolitan.co.uk/Cosmopolitan_Website_Privacy/v1) for the most accurate reproduction.*
 
-# Cosmopolitan :: Privacy Statement
+# Cosmopolitan :: Cosmopolitan Website Privacy
 
-  
+### 
 
-
-### Introduction
+Introduction
 
 Meanings and definitions used in this Agreement:  
 "Agreement" - means this agreement for users of the Sites;  
