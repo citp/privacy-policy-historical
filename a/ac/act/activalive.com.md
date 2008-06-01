@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the activalive.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229120859id_/http%3A//www.activalive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activalive.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601203504id_/http%3A//www.activalive.com/privacy) for the most accurate reproduction.*
 
 # Live Chat Software, Live Support, Live Help | Activa Live Chat
-
-[ Submit an Inquiry](http://www.activalive.com/contact)
-
-888–4–CHAT–44 (888–424–2844)
-
-## Free Trial
-
-Get full access to Activa Live Chat for 14-days with a [trial sign up](http://www.activalive.com/trial).
-
-## Custom Deployments
-
-Contact our specialists for advanced customizations of Activa Live Chat to accommodate your specific needs and applications.  
-[Submit a Customization Inquiry](http://www.activalive.com/custom)
-
-## Your Image Counts
-
-Activa Live Chat compliments your identity or brand image with the most elegantly designed live chat software on the market.  
-[Seeing is believing »](http://www.activalive.com/features)
 
 Activa Live Chat values your privacy - and ours. We also value poignant, relevant and informative privacy policies, so we'll do our best to keep this one short and sweet.
 
