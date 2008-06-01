@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the indabamusic.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024163700id_/http%3A//www.indabamusic.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indabamusic.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601040658id_/http%3A//www.indabamusic.com/corporate/privacy) for the most accurate reproduction.*
 
 # Indaba Music Privacy Policy - Indaba Music
-
-Indaba Music Privacy Policy
 
 **Collection**   
 You can browse certain areas of the Indaba Music Web Site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information to our servers located in the United States. 
