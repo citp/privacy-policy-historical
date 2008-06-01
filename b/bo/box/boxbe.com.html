@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the boxbe.com privacy policy that was archived on 2007-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071203040747id_/http%3A//www.boxbe.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boxbe.com privacy policy that was archived on 2008-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080601171733id_/http%3A//www.boxbe.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="Content-Language" content="en">
     <meta name="description" content="">
     <meta name="keywords" content="">
@@ -14,6 +14,7 @@
     
     <!-- CSS -->    
     <link rel="stylesheet" href="/style/main.css" type="text/css">
+    <link rel="stylesheet" href="/style/lightbox.css" type="text/css">
     <link rel="stylesheet" href="style/intro.css" type="text/css">
     <!--[if lte IE 7]><link rel="stylesheet" href="/style/lteie7.css" type="text/css" /><![endif]-->
     <!--[if lt IE 7]><link rel="stylesheet" href="/style/ltie7.css" type="text/css" /><![endif]-->
@@ -21,15 +22,9 @@
     <!-- JavaScript -->
     <script type="text/javascript" src="/scripts/prototype.js"></script>
     <script type="text/javascript" src="/scripts/core.js"></script>
+    <script type="text/javascript" src="/scripts/lightbox.js"></script>
+    <script type="text/javascript" src="/scripts/tooltips.js"></script>
     <script type="text/javascript" src="/scripts/ama_functions.js"></script>
-    <script type="text/javascript" src="/scripts/tooltips.js">
-      /***********************************************
-      * Cool DHTML tooltip script II- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
-      * This notice MUST stay intact for legal use
-      * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-      ***********************************************/
-    </script>
-    
     
     <!-- Favicon -->
 		<link rel="icon" href="favicon.ico" type="image/x-icon">
@@ -52,7 +47,8 @@
             <a href="/how-it-works">How It Works</a> |
             <a href="/about">About Us</a> |
             <a href="/help">Help</a> |
-            <a href="http://blog.boxbe.com/">Blog</a>
+			<a href="http://blog.boxbe.com/">Blog</a><!-- |
+			<a class="lbOn" href="/invite.html">Give Boxbe to a Friend</a>-->
           </div><!--extraNav-->
         </div><!--roof-->
         
@@ -188,7 +184,16 @@ used so that we can improve them.</p>
 		  <a href="/jobs">Jobs</a><img class="middot" src="/images/middot.png" alt="">
 		  <a href="/terms">Terms</a><img class="middot" src="/images/middot.png" alt="">
           <a href="/privacy">Privacy</a>
-          <p>©2007 Boxbe, Inc.</p>
+          <p>
+              ©
+              <script type="text/javascript">
+                  // <![CDATA[
+                  var d = new Date();
+                  document.write(d.getFullYear());
+                  // ]]>
+              </script>2020
+              Boxbe, Inc.
+          </p> 
         </div><!--footer-->
         
       </div><!--inWrapper-->
