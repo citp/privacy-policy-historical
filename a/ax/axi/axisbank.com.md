@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axisbank.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231195240id_/http%3A//www.axisbank.com/privacypolicy/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axisbank.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601214231id_/http%3A//www.axisbank.com/privacypolicy/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # Axis Bank - Privacy Policy
 
