@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sonesta.com privacy policy that was archived on 2007-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071203134149id_/http%3A//www.sonesta.com/Corporate/index.cfm%3Ffa%3Dmisc.PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sonesta.com privacy policy that was archived on 2008-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080601145306id_/http%3A//www.sonesta.com/Corporate/index.cfm%3Ffa%3Dmisc.PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
@@ -9,7 +9,7 @@
 	
 	<meta name="keywords" content="Sonesta,Sonesta Hotels,Royal Sonesta,Sonesta Hotel,Sonesta Hotels,royal sonesta hotel cambridge,trump international sonesta,sonesta maho beach resort,royal sonesta hotels,trump international beach resort,royal sonesta new orleans hotel,sonesta nile cruises,sonesta beach resorts,sonesta beach,sonesta resorts">
 	<link rel="stylesheet" media="screen" href="/includes/css/structure.css" type="text/css">
-	<link rel="stylesheet" media="print" href="/includes/css/print.css?11333" type="text/css">
+	<link rel="stylesheet" media="print" href="/includes/css/print.css?81095" type="text/css">
 	<link rel="icon" href="/favicon.ico" type="image/gif">
 	<link rel="alternate" type="application/rss+xml" title="Sonesta RSS Feed" href="/corporate/index.cfm?fa=xml.NewsAndOffers">
 	<link rel="stylesheet" media="all" href="/includes/css/boston.css" type="text/css">
@@ -20,12 +20,12 @@
 <script type="text/javascript" src="/includes/js/scriptaculous/lib/prototype.js"></script>
 <script type="text/javascript" src="/includes/js/scriptaculous/scriptaculous.js"></script>
 <script type="text/javascript" src="/includes/js/MainMenu.js"></script>
-<script type="text/javascript" src="/includes/js/milonic_src.js"></script> 
-<script type="text/javascript" src="/includes/js/mmenudom.js"></script> 
+<script type="text/javascript" src="/includes/js/milonic_src.js"></script>
+<script type="text/javascript" src="/includes/js/mmenudom.js"></script>
 <script type="text/javascript" src="/includes/js/menu_style.js"></script>
 
 <script type="text/javascript">
-	
+
 	function init() {
 		if (TransMenu.isSupported()) {
 			TransMenu.initialize();
@@ -36,7 +36,13 @@
 		oNewWindow = window.open(u,n,f);
 		oNewWindow.moveTo(50,50);
 	}
-	
+
+	//add this function to compensate for casing issues from the CMS
+	function OpenWindow(u,n,f){
+		oNewWindow = window.open(u,n,f);
+		oNewWindow.moveTo(50,50);
+	}
+
 </script>
 <script language="javascript">
 	
@@ -49,201 +55,89 @@
 		aI("text=sitemap;url=http://www.sonesta.com/Corporate/index.cfm?fa=misc.sitemap;");
 		aI("showmenu=sonesta_locations;text=sonesta locations;");
 		
+			aI("showmenu=flag_menu;image=/images/nav/flags/en.gif;");
 		
+
+
 	}
+
 	
 	
 	
 	
 	
+
 	
-	
-		
 		with(milonic=new menuname("sonesta_locations")){
 		style=menuTier2Style3;
 		zindex=20;
-		aI("text=Sonesta Homepage;url=/;");
+		aI("text=Sonesta Homepage;url=index.cfm?fa=c.LocationRedirect&sid=63;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Boston - Cambridge;url=http://www.sonesta.com/Boston;");
+			aI("text=Boston - Cambridge;url=index.cfm?fa=c.LocationRedirect&sid=6&region=united%20states;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Miami - Coconut Grove;url=http://www.sonesta.com/CoconutGrove;");
+			aI("text=Miami - Coconut Grove;url=index.cfm?fa=c.LocationRedirect&sid=55&region=united%20states;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Miami - Sunny Isles - Trump Sonesta;url=http://www.sonesta.com/SunnyIsles;");
+			aI("text=Miami - Sunny Isles - Trump Sonesta;url=index.cfm?fa=c.LocationRedirect&sid=59&region=united%20states;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=New Orleans - Chateau Sonesta;url=http://www.sonesta.com/ChateauNewOrleans;");
+			aI("text=New Orleans - Chateau Sonesta;url=index.cfm?fa=c.LocationRedirect&sid=8&region=united%20states;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=New Orleans - Royal Sonesta;url=http://www.sonesta.com/RoyalNewOrleans;");
+			aI("text=New Orleans - Royal Sonesta;url=index.cfm?fa=c.LocationRedirect&sid=9&region=united%20states;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=St. Maarten - Great Bay;url=http://www.sonesta.com/GreatBay;");
+			aI("text=Orlando - Sonesta Resort Orlando;url=index.cfm?fa=c.LocationRedirect&sid=170&region=united%20states;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=St. Maarten - Maho Beach;url=http://www.sonesta.com/MahoBeach;");
+			aI("text=Brazil - Brasilia;url=index.cfm?fa=c.LocationRedirect&sid=33&region=brazil;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Brazil - São Paulo;url=http://www.sonesta.com/SaoPaulo;");
+			aI("text=Brazil - São Paulo;url=index.cfm?fa=c.LocationRedirect&sid=74&region=brazil;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Brazil - Brasilia;url=http://www.sonesta.com/Brasilia;");
+			aI("text=Costa Rica - Jaco Beach;url=index.cfm?fa=c.LocationRedirect&sid=78&region=costa%20rica;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Egypt - Cairo;url=http://www.sonesta.com/cairo;");
+			aI("text=Egypt - Cairo;url=index.cfm?fa=c.LocationRedirect&sid=13&region=egypt;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Egypt - Luxor;url=http://www.sonesta.com/luxor;");
+			aI("text=Egypt - Hurghada;url=index.cfm?fa=c.LocationRedirect&sid=19&region=egypt;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Egypt - Nile Cruises;url=http://www.sonesta.com/Nilecruises;");
+			aI("text=Egypt - Luxor;url=index.cfm?fa=c.LocationRedirect&sid=14&region=egypt;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Egypt - Port Said;url=http://www.sonesta.com/PortSaid;");
+			aI("text=Egypt - Nile Cruises;url=index.cfm?fa=c.LocationRedirect&sid=500&region=egypt;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Egypt - Sharm El Sheikh - Beach;url=http://www.sonesta.com/SharmResort;");
+			aI("text=Egypt - Port Said;url=index.cfm?fa=c.LocationRedirect&sid=15&region=egypt;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Egypt - Sharm El Sheikh - Club;url=http://www.sonesta.com/SharmClub;");
+			aI("text=Egypt - Sharm El Sheikh - Beach;url=index.cfm?fa=c.LocationRedirect&sid=17&region=egypt;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Egypt - Taba;url=http://www.sonesta.com/Taba;");
+			aI("text=Egypt - Sharm El Sheikh - Club;url=index.cfm?fa=c.LocationRedirect&sid=18&region=egypt;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Peru - Arequipa;url=http://www.sonesta.com/Arequipa;");
+			aI("text=Egypt - Taba;url=index.cfm?fa=c.LocationRedirect&sid=32&region=egypt;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Peru - Cusco;url=http://www.sonesta.com/Cusco;");
+			aI("text=Mexico  - San Carlos - Gran Posada;url=index.cfm?fa=c.LocationRedirect&sid=76&region=mexico;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Peru - Lake Titicaca - Puno;url=http://www.sonesta.com/LakeTiticaca;");
+			aI("text=Peru - Arequipa;url=index.cfm?fa=c.LocationRedirect&sid=69&region=peru;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Peru - Lima - El Olivar;url=http://www.sonesta.com/Lima;");
+			aI("text=Peru - Cusco;url=index.cfm?fa=c.LocationRedirect&sid=22&region=peru;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Peru - Lima - Miraflores;url=http://www.sonesta.com/Miraflores;");
+			aI("text=Peru - Lake Titicaca - Puno;url=index.cfm?fa=c.LocationRedirect&sid=25&region=peru;");
 		
-			
-			
-			
-			
-				
-			
-			aI("text=Peru - Sacred Valley - Yucay;url=http://www.sonesta.com/SacredValley;");
+			aI("text=Peru - Lima - El Olivar;url=index.cfm?fa=c.LocationRedirect&sid=26&region=peru;");
+		
+			aI("text=Peru - Lima - Miraflores;url=index.cfm?fa=c.LocationRedirect&sid=24&region=peru;");
+		
+			aI("text=Peru - Sacred Valley - Yucay;url=index.cfm?fa=c.LocationRedirect&sid=27&region=peru;");
+		
+			aI("text=St. Maarten - Great Bay;url=index.cfm?fa=c.LocationRedirect&sid=72&region=st%2E%20maarten;");
+		
+			aI("text=St. Maarten - Maho Beach;url=index.cfm?fa=c.LocationRedirect&sid=5&region=st%2E%20maarten;");
 		
 		}
-		
-	
-	
+
+
+
+			with(milonic=new menuname("flag_menu")){
+				style=menuTier2Style4;
+				zindex=20;
+				
+					
+					aI("image=/images/nav/flags/es.gif;url=http://espanol.sonesta.com/;");
+					aI("image=/images/nav/flags/pt.gif;url=http://portugues.sonesta.com/;");
+				
+			}
 	
 	
 </script>
@@ -256,7 +150,7 @@
 			<script type="text/javascript" src="/includes/js/yui/build/event/event.js"></script>
 			<script type="text/javascript" src="/includes/js/yui/build/dom/dom.js"></script>
 			<script type="text/javascript" src="/includes/js/yui/build/calendar/calendar.js"></script>
-			<script type="text/javascript" src="/includes/js/dhtmlShim.js"></script> 
+			<script type="text/javascript" src="/includes/js/dhtmlShim.js"></script>
 			<script type="text/javascript">
 			YahooCalendarConfig = {
 				title: 'Select A Date:',
@@ -281,7 +175,7 @@
 					
 					<div id="wireFrame">
 						<div id="logoHolder"><a href="http://www.sonesta.com/Corporate/"><img src="/images/corporate/sonestaLogo.gif" alt=""></a></div>
-						<div id="tabHolder" style="margin-left:84px"><script>drawMenus();</script></div>
+						<div id="tabHolder" style="margin-left:44px"><script>drawMenus();</script></div>
 							
 						<div class="clearLeft clearRight">&nbsp;</div>
 						
@@ -299,24 +193,24 @@
 			
 				
 					
-						aI("showmenu=WhoWeAre;url=http://www.sonesta.com/corporate/index.cfm?fa=whoweare.home;image=/images/nav/en/WhoWeAre.gif;overimage=/images/nav/en/WhoWeAreOn1.gif;pageimage=/images/nav/en/WhoWeAreOn2.gif;");
+						aI("showmenu=WhoWeAre;url=http://www.sonesta.com/Corporate/index.cfm?fa=whoweare.home;image=/images/nav/en/WhoWeAre.gif;overimage=/images/nav/en/WhoWeAreOn1.gif;pageimage=/images/nav/en/WhoWeAreOn2.gif;");
 					
 				
 			
 				
 					
-						aI("showmenu=Meetings;url=http://www.sonesta.com/corporate/index.cfm?fa=meetings.home;image=/images/nav/en/Meetings.gif;overimage=/images/nav/en/MeetingsOn1.gif;pageimage=/images/nav/en/MeetingsOn2.gif;");
+						aI("showmenu=Meetings;url=http://www.sonesta.com/Corporate/index.cfm?fa=meetings.home;image=/images/nav/en/Meetings.gif;overimage=/images/nav/en/MeetingsOn1.gif;pageimage=/images/nav/en/MeetingsOn2.gif;");
 					
 				
 			
 				
 					
-						aI("url=http://www.sonesta.com/corporate/index.cfm?fa=weddingssocialevents.home;image=/images/nav/en/WeddingsSocialEvents.gif;overimage=/images/nav/en/WeddingsSocialEventsOn1.gif;pageimage=/images/nav/en/WeddingsSocialEventsOn2.gif;");
+						aI("url=http://www.sonesta.com/Corporate/index.cfm?fa=weddingssocialevents.home;image=/images/nav/en/WeddingsSocialEvents.gif;overimage=/images/nav/en/WeddingsSocialEventsOn1.gif;pageimage=/images/nav/en/WeddingsSocialEventsOn2.gif;");
 					
 				
 			
 		}
-		
+
 		
 		
 				with(milonic=new menuname("WhoWeAre")){
@@ -326,25 +220,25 @@
 					
 				
 					
-						aI("showmenu=CoreValuesCulture;text=Core Values & Culture;url=http://www.sonesta.com/corporate/index.cfm?fa=corevaluesculture.home;");
+						aI("showmenu=CoreValuesCulture;text=Core Values & Culture;url=http://www.sonesta.com/Corporate/index.cfm?fa=corevaluesculture.home;");
 					
 				
 			
 				
 					
-						aI("showmenu=CompanyHeritage;text=Company Heritage;url=http://www.sonesta.com/corporate/index.cfm?fa=companyheritage.home;");
+						aI("showmenu=CompanyHeritage;text=Company Heritage;url=http://www.sonesta.com/Corporate/index.cfm?fa=companyheritage.home;");
 					
 				
 			
 				
 					
-						aI("text=Hotel Portfolio;url=http://www.sonesta.com/corporate/index.cfm?fa=whoweare.hotelportfolio;");
+						aI("text=Hotel Portfolio;url=http://www.sonesta.com/Corporate/index.cfm?fa=whoweare.hotelportfolio;");
 					
 				
 			
 				
 					
-						aI("text=Recognition;url=http://www.sonesta.com/corporate/index.cfm?fa=whoweare.recognition;");
+						aI("text=Recognition;url=http://www.sonesta.com/Corporate/index.cfm?fa=whoweare.recognition;");
 					
 				
 			
@@ -357,37 +251,37 @@
 					
 				
 					
-						aI("text=Contact Group Sales;url=http://www.sonesta.com/corporate/index.cfm?fa=meetings.contactgroupsales;");
+						aI("text=Contact Group Sales;url=http://www.sonesta.com/Corporate/index.cfm?fa=meetings.contactgroupsales;");
 					
 				
 			
 				
 					
-						aI("text=Group Offers;url=http://www.sonesta.com/corporate/index.cfm?fa=meetings.groupoffers;");
+						aI("text=Group Offers;url=http://www.sonesta.com/Corporate/index.cfm?fa=meetings.groupoffers;");
 					
 				
 			
 				
 					
-						aI("text=Hotel Capacities;url=http://www.sonesta.com/corporate/index.cfm?fa=meetings.hotelcapacities;");
+						aI("text=Hotel Capacities;url=http://www.sonesta.com/Corporate/index.cfm?fa=meetings.hotelcapacities;");
 					
 				
 			
 				
 					
-						aI("text=Group Brochures;url=http://www.sonesta.com/corporate/index.cfm?fa=meetings.ebrochures;");
+						aI("text=Group Brochures;url=http://www.sonesta.com/Corporate/index.cfm?fa=meetings.ebrochures;");
 					
 				
 			
 				
 					
-						aI("text=Planners News;url=http://www.sonesta.com/corporate/index.cfm?fa=meetings.plannersnews;");
+						aI("text=Planners News;url=http://www.sonesta.com/Corporate/index.cfm?fa=meetings.plannersnews;");
 					
 				
 			
 				
 					
-						aI("text=Our Advisors;url=http://www.sonesta.com/corporate/index.cfm?fa=meetings.ouradvisors;");
+						aI("text=Our Advisors;url=http://www.sonesta.com/Corporate/index.cfm?fa=meetings.ouradvisors;");
 					
 				
 			
@@ -400,25 +294,25 @@
 					
 				
 					
-						aI("text=News;url=http://www.sonesta.com/corporate/index.cfm?fa=mediapress.latestnews;");
+						aI("text=News;url=http://www.sonesta.com/Corporate/index.cfm?fa=mediapress.latestnews;");
 					
 				
 			
 				
 					
-						aI("text=Story Ideas;url=http://www.sonesta.com/corporate/index.cfm?fa=mediapress.storyideas;");
+						aI("text=Story Ideas;url=http://www.sonesta.com/Corporate/index.cfm?fa=mediapress.storyideas;");
 					
 				
 			
 				
 					
-						aI("text=Press Kit;url=http://www.sonesta.com/corporate/index.cfm?fa=mediapress.presskit;");
+						aI("text=Press Kit;url=http://www.sonesta.com/Corporate/index.cfm?fa=mediapress.presskit;");
 					
 				
 			
 				
 					
-						aI("text=Download Photos;url=http://www.sonesta.com/corporate/index.cfm?fa=highres.home;");
+						aI("text=Download Photos;url=http://www.sonesta.com/Corporate/index.cfm?fa=highres.home;");
 					
 				
 			
@@ -431,37 +325,31 @@
 					
 				
 					
-						aI("text=S.T.A.R Program;url=http://www.sonesta.com/corporate/index.cfm?fa=travelagents.starprogram;");
+						aI("text=S.T.A.R. Registration;url=http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.starregistration;");
 					
 				
 			
 				
 					
-						aI("text=S.T.A.R. Registration;url=http://www.sonesta.com/corporate/index.cfm?fa=travelagents.starregistration;");
+						aI("text=S.T.A.R. Gift Request;url=http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.stargiftrequestform;");
 					
 				
 			
 				
 					
-						aI("text=S.T.A.R. Gift Request;url=http://www.sonesta.com/corporate/index.cfm?fa=travelagents.stargiftrequestform;");
+						aI("text=Sonesta Contacts;url=http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.representatives;");
 					
 				
 			
 				
 					
-						aI("text=Sonesta Contacts;url=http://www.sonesta.com/corporate/index.cfm?fa=travelagents.representatives;");
+						aI("text=GDS Codes;url=http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.gdscodes;");
 					
 				
 			
 				
 					
-						aI("text=GDS Codes;url=http://www.sonesta.com/corporate/index.cfm?fa=travelagents.gdscodes;");
-					
-				
-			
-				
-					
-						aI("text=Travel Advisory Board;url=http://www.sonesta.com/corporate/index.cfm?fa=travelagents.traveladvisoryboard;");
+						aI("text=Travel Advisory Board;url=http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.traveladvisoryboard;");
 					
 				
 			
@@ -474,19 +362,19 @@
 					
 				
 					
-						aI("text=Investor Information;url=http://www.sonesta.com/corporate/index.cfm?fa=corporate.investorinformation;");
+						aI("text=Investor Information;url=http://www.sonesta.com/Corporate/index.cfm?fa=corporate.investorinformation;");
 					
 				
 			
 				
 					
-						aI("text=Audit Committee;url=http://www.sonesta.com/corporate/index.cfm?fa=corporate.auditcommittee;");
+						aI("text=Audit Committee;url=http://www.sonesta.com/Corporate/index.cfm?fa=corporate.auditcommittee;");
 					
 				
 			
 				
 					
-						aI("text=Whistle Blower Access;url=http://www.sonesta.com/corporate/index.cfm?fa=corporate.whistlebloweraccess;");
+						aI("text=Whistle Blower Access;url=http://www.sonesta.com/Corporate/index.cfm?fa=corporate.whistlebloweraccess;");
 					
 				
 			
@@ -499,13 +387,13 @@
 							
 				
 					
-						aI("text=President's Message;url=http://www.sonesta.com/corporate/index.cfm?fa=corevaluesculture.presidentsmessage;");
+						aI("text=President's Message;url=http://www.sonesta.com/Corporate/index.cfm?fa=corevaluesculture.presidentsmessage;");
 					
 				
 			
 				
 					
-						aI("text=Art Collection;url=http://www.sonesta.com/corporate/index.cfm?fa=corevaluesculture.artcollection;");
+						aI("text=Art Collection;url=http://www.sonesta.com/Corporate/index.cfm?fa=corevaluesculture.artcollection;");
 					
 				
 			
@@ -518,13 +406,13 @@
 							
 				
 					
-						aI("text=Company History;url=http://www.sonesta.com/corporate/index.cfm?fa=companyheritage.history;");
+						aI("text=Company History;url=http://www.sonesta.com/Corporate/index.cfm?fa=companyheritage.history;");
 					
 				
 			
 				
 					
-						aI("text=Timeline;url=http://www.sonesta.com/corporate/index.cfm?fa=companyheritage.timeline;");
+						aI("text=Timeline;url=http://www.sonesta.com/Corporate/index.cfm?fa=companyheritage.timeline;");
 					
 				
 			
@@ -538,10 +426,10 @@
 							<script>drawMenus();</script>
 							
 						</div>
-						
+
 						<div id="subNav">
 							
-							<ul id="submenu-WhoWeAre" class="submenuOff"><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=corevaluesculture.home">core values &amp; culture</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=companyheritage.home">company heritage</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=whoweare.hotelportfolio">hotel portfolio</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=whoweare.recognition">recognition</a></li></ul><ul id="submenu-Meetings" class="submenuOff"><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=meetings.contactgroupsales">contact group sales</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=meetings.groupoffers">group offers</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=meetings.hotelcapacities">hotel capacities</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=meetings.ebrochures">group brochures</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=meetings.plannersnews">planners news</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=meetings.ouradvisors">our advisors</a></li></ul><ul id="submenu-WeddingsSocialEvents" class="submenuOff"></ul><ul id="submenu-SiteMap" class="submenuOff"></ul><ul id="submenu-ContactUs" class="submenuOff"></ul><ul id="submenu-Locations" class="submenuOff"></ul><ul id="submenu-MediaPress" class="submenuOff"><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=mediapress.latestnews">news</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=mediapress.storyideas">story ideas</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=mediapress.presskit">press kit</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=highres.home">download photos</a></li></ul><ul id="submenu-TravelAgents" class="submenuOff"><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=travelagents.starprogram">s.t.a.r program</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=travelagents.starregistration">s.t.a.r. registration</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=travelagents.stargiftrequestform">s.t.a.r. gift request</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=travelagents.representatives">sonesta contacts</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=travelagents.gdscodes">gds codes</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=travelagents.traveladvisoryboard">travel advisory board</a></li></ul><ul id="submenu-Employment" class="submenuOff"></ul><ul id="submenu-WebClub" class="submenuOff"></ul><ul id="submenu-Corporate" class="submenuOff"><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=corporate.investorinformation">investor information</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=corporate.auditcommittee">audit committee</a></li><li class="null"><a href="http://www.sonesta.com/corporate/index.cfm?fa=corporate.whistlebloweraccess">whistle blower access</a></li></ul><ul id="submenu-BuyHotelProducts" class="submenuOff"></ul><ul id="submenu-PrivacyPolicy" class="submenuOff"></ul><ul id="submenu-TermsOfUse" class="submenuOn"></ul>
+							<ul id="submenu-WhoWeAre" class="submenuOff"><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=corevaluesculture.home">core values &amp; culture</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=companyheritage.home">company heritage</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=whoweare.hotelportfolio">hotel portfolio</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=whoweare.recognition">recognition</a></li></ul><ul id="submenu-Meetings" class="submenuOff"><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=meetings.contactgroupsales">contact group sales</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=meetings.groupoffers">group offers</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=meetings.hotelcapacities">hotel capacities</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=meetings.ebrochures">group brochures</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=meetings.plannersnews">planners news</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=meetings.ouradvisors">our advisors</a></li></ul><ul id="submenu-WeddingsSocialEvents" class="submenuOff"></ul><ul id="submenu-SiteMap" class="submenuOff"></ul><ul id="submenu-ContactUs" class="submenuOff"></ul><ul id="submenu-Locations" class="submenuOff"></ul><ul id="submenu-MediaPress" class="submenuOff"><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=mediapress.latestnews">news</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=mediapress.storyideas">story ideas</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=mediapress.presskit">press kit</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=highres.home">download photos</a></li></ul><ul id="submenu-TravelAgents" class="submenuOff"><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.starregistration">s.t.a.r. registration</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.stargiftrequestform">s.t.a.r. gift request</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.representatives">sonesta contacts</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.gdscodes">gds codes</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=travelagents.traveladvisoryboard">travel advisory board</a></li></ul><ul id="submenu-Employment" class="submenuOff"></ul><ul id="submenu-WebClub" class="submenuOff"></ul><ul id="submenu-Corporate" class="submenuOff"><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=corporate.investorinformation">investor information</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=corporate.auditcommittee">audit committee</a></li><li class="null"><a href="http://www.sonesta.com/Corporate/index.cfm?fa=corporate.whistlebloweraccess">whistle blower access</a></li></ul><ul id="submenu-BuyHotelProducts" class="submenuOff"></ul><ul id="submenu-PrivacyPolicy" class="submenuOff"></ul><ul id="submenu-TermsOfUse" class="submenuOn"></ul>
 						</div>
 						
 						<script type="text/javascript">
@@ -596,40 +484,44 @@
 			</script>
 				<form action="index.cfm?fa=misc.reservation" method="post" onsubmit="return Validate(this)">
 				
-				<select name="sid" style="font-size:10px; width:185px;">
+				<select name="sid" id="sid" style="font-size:10px; width:185px;">
 					<option value=""> - Choose A Location - </option>
 				
 					<option value="6">Boston - Cambridge</option>
 				
 					<option value="55">Miami - Coconut Grove</option>
 				
-					<option value="59">Miami - Sunny Isles - Trump Sonesta</option>
+					
 				
 					<option value="8">New Orleans - Chateau Sonesta</option>
 				
 					<option value="9">New Orleans - Royal Sonesta</option>
 				
-					<option value="72">St. Maarten - Great Bay</option>
-				
-					<option value="5">St. Maarten - Maho Beach</option>
-				
-					<option value="74">Brazil - São Paulo</option>
+					
 				
 					<option value="33">Brazil - Brasilia</option>
 				
+					<option value="74">Brazil - São Paulo</option>
+				
+					
+				
 					<option value="13">Egypt - Cairo</option>
+				
+					<option value="19">Egypt - Hurghada</option>
 				
 					<option value="14">Egypt - Luxor</option>
 				
 					
 				
-					
+					<option value="15">Egypt - Port Said</option>
 				
 					<option value="17">Egypt - Sharm El Sheikh - Beach</option>
 				
 					<option value="18">Egypt - Sharm El Sheikh - Club</option>
 				
 					<option value="32">Egypt - Taba</option>
+				
+					
 				
 					<option value="69">Peru - Arequipa</option>
 				
@@ -642,6 +534,10 @@
 					<option value="24">Peru - Lima - Miraflores</option>
 				
 					<option value="27">Peru - Sacred Valley - Yucay</option>
+				
+					<option value="72">St. Maarten - Great Bay</option>
+				
+					<option value="5">St. Maarten - Maho Beach</option>
 				
 				</select>
 				
@@ -724,24 +620,6 @@
 							
 		
 			
-			<option value="12/01/2007">Dec 07</option>
-		
-			
-			<option value="1/01/2008">Jan 08</option>
-		
-			
-			<option value="2/01/2008">Feb 08</option>
-		
-			
-			<option value="3/01/2008">Mar 08</option>
-		
-			
-			<option value="4/01/2008">Apr 08</option>
-		
-			
-			<option value="5/01/2008">May 08</option>
-		
-			
 			<option value="6/01/2008">Jun 08</option>
 		
 			
@@ -797,6 +675,24 @@
 		
 			
 			<option value="12/01/2009">Dec 09</option>
+		
+			
+			<option value="1/01/2010">Jan 10</option>
+		
+			
+			<option value="2/01/2010">Feb 10</option>
+		
+			
+			<option value="3/01/2010">Mar 10</option>
+		
+			
+			<option value="4/01/2010">Apr 10</option>
+		
+			
+			<option value="5/01/2010">May 10</option>
+		
+			
+			<option value="6/01/2010">Jun 10</option>
 		
 		
 							</select>
@@ -896,24 +792,6 @@
 							
 		
 			
-			<option value="12/01/2007">Dec 07</option>
-		
-			
-			<option value="1/01/2008">Jan 08</option>
-		
-			
-			<option value="2/01/2008">Feb 08</option>
-		
-			
-			<option value="3/01/2008">Mar 08</option>
-		
-			
-			<option value="4/01/2008">Apr 08</option>
-		
-			
-			<option value="5/01/2008">May 08</option>
-		
-			
 			<option value="6/01/2008">Jun 08</option>
 		
 			
@@ -970,6 +848,24 @@
 			
 			<option value="12/01/2009">Dec 09</option>
 		
+			
+			<option value="1/01/2010">Jan 10</option>
+		
+			
+			<option value="2/01/2010">Feb 10</option>
+		
+			
+			<option value="3/01/2010">Mar 10</option>
+		
+			
+			<option value="4/01/2010">Apr 10</option>
+		
+			
+			<option value="5/01/2010">May 10</option>
+		
+			
+			<option value="6/01/2010">Jun 10</option>
+		
 		
 							</select>
 						</td>
@@ -1001,6 +897,13 @@
 							Group Code: <input type="text" name="Group" style="font-size:10px; width:70px;">
 						</div>
 						</td>
+					</tr><tr>
+					</tr>
+						<tr><td colspan="4" style="align:left;">
+							
+								<a href="javascript:gotoAmendCancelReservationPage();">Amend or Cancel a Reservation</a>
+							
+						</td>
 					</tr>
 
 				</tbody></table>
@@ -1014,11 +917,23 @@
 	
 				
 			</div>
-			
+		</div>
 		
-			
+		 
+			<div class="promoBlockL" style="margin-top:-3px;">
+				<div class="header">
+					<img src="/images/nav/en/HeaderAirReservations.png">
+				</div>
+				<img src="/images/nav/misc/FlightImage.jpg">
+				<div class="padding">
+					<input type="button" class="submit" name="button" value="check availability &amp; rates" style="width:185px;" onclick="window.open ('http://book.reservations--online.com/pl/SONESTA/reservations.htm', 'reservationWindow')">
+				</div>
+			</div>
 		
-			
+		
+
+		
+
 		
 		<script type="text/javascript">
 		var ignoreNextChange = false;
@@ -1090,7 +1005,7 @@
 					arriveDate = YAHOO.widget.DateMath.add(arriveDate, YAHOO.widget.DateMath.DAY, -1);
 				}
 			}
-			
+
 			// Update Arive Display
 			document.getElementById("arriveDateString").innerHTML = reserveArriveCalendar.cfg.getProperty("WEEKDAYS_LONG")[arriveDate.getDay()];
 			reserveArriveCalendar.select(arriveDate);
@@ -1108,8 +1023,8 @@
 			function () {
 				var config = {};
 				for (var i in YahooCalendarConfig) { config[i] = YahooCalendarConfig[i] }
-				config.mindate = "12/03/2007";
-				config.maxdate = "12/03/2009";
+				config.mindate = "06/01/2008";
+				config.maxdate = "06/01/2010";
 				reserveArriveCalendar = new YAHOO.widget.Calendar("reserveArriveCalendar","reserveArriveCalendarContainer", config );
 				reserveArriveCalendar.render();
 
@@ -1130,13 +1045,23 @@
 				YAHOO.util.Event.addListener(["departDate", "departMonthYear"], "change", function () { onReservationDateChange("depart") });
 				YAHOO.util.Event.addListener(["departDate", "departMonthYear"], "keyup", function () { onReservationDateChange("depart") });
 
-				reserveArriveCalendar.select(new Date(2007, 11, 3));
-				reserveDepartCalendar.select(new Date(2007, 11, 4));
+				reserveArriveCalendar.select(new Date(2008, 5, 1));
+				reserveDepartCalendar.select(new Date(2008, 5, 2));
 			}
 		);
+
+		function gotoAmendCancelReservationPage(){
+			var selectIndex = document.getElementById("sid").selectedIndex;
+			if (selectIndex != 0){
+				location.href = 'index.cfm?fa=misc.reservationAmendCancel&sid=' + document.getElementById("sid")[selectIndex].value;
+			}else{
+				alert("You must first select a location from the 'Choose A Location' drop down box before you can amend or cancel a reservation.");
+				document.getElementById("sid").focus();
+			}
+		}
 		</script>
 		
-		</div>
+
 	
 
 		
@@ -1152,7 +1077,7 @@
 		}
 	}
 </script>
-<div class="promoBlockL">
+<div class="promoBlockL" style="margin-top:-3px;">
 <div class="header">
 	<img src="/images/nav/en/headerWebClub.png">
 </div>
@@ -1220,8 +1145,9 @@ At times our privacy policy may be changed and any updates will be posted to thi
 </div>
 					</div>
 				
-						<div class="clearLeft"></div>
-						<div id="footNotes" style="border:1px solid ##FF0000;">
+						<div class="clearLeft"><br></div>
+
+						<div id="footNotes" style="margin-bottom:-1px;">
 							
 								<script language="javascript">
 										with(milonic=new menuname("Footer Menu")){
@@ -1231,19 +1157,23 @@ At times our privacy policy may be changed and any updates will be posted to thi
 											zindex=20;
 											aI("text=home;url=http://www.sonesta.com/Corporate/;");
 											
-												aI("showmenu=media_footer;text=media;url=index.cfm?fa=mediaPress.home;");
+												
+													aI("showmenu=media_footer;text=media;url=index.cfm?fa=mediaPress.home;");
+												
 												
 													aI("showmenu=employment_footer;text=employment;url=index.cfm?fa=Employment.home;");
 												
-												aI("text=join web club;url=index.cfm?fa=JoinWebClub.home;");
+												
 												
 													aI("showmenu=corporate_footer;text=corporate governance;url=index.cfm?fa=corporate.home;");
 													aI("showmenu=travelAgents_footer;text=travel agents;url=index.cfm?fa=TravelAgentsLogin.home;");
 												
-												aI("text=buy hotel products;url=http://www.sonesta-hotelsathome.com/;");
+												
+													aI("text=buy hotel products;url=http://www.sonesta-hotelsathome.com/;");
+												
 											
 										}
-										
+
 										
 										
 										
@@ -1258,47 +1188,47 @@ At times our privacy policy may be changed and any updates will be posted to thi
 											
 				
 					
-						aI("text=News;url=http://www.sonesta.com/corporate/index.cfm?fa=mediapress.latestnews;");
+						aI("text=News;url=http://www.sonesta.com/Corporate/index.cfm?fa=mediapress.latestnews;");
 					
 				
-				
+			
 										
 											
 				
 					
-						aI("text=Story Ideas;url=http://www.sonesta.com/corporate/index.cfm?fa=mediapress.storyideas;");
+						aI("text=Story Ideas;url=http://www.sonesta.com/Corporate/index.cfm?fa=mediapress.storyideas;");
 					
 				
-				
+			
 										
 											
 				
 					
-						aI("text=Press Kit;url=http://www.sonesta.com/corporate/index.cfm?fa=mediapress.presskit;");
+						aI("text=Press Kit;url=http://www.sonesta.com/Corporate/index.cfm?fa=mediapress.presskit;");
 					
 				
-				
+			
 										
 											
 				
 					
-						aI("text=Download Photos;url=http://www.sonesta.com/corporate/index.cfm?fa=highres.home;");
+						aI("text=Download Photos;url=http://www.sonesta.com/Corporate/index.cfm?fa=highres.home;");
 					
 				
-				
+			
 										
 											}
 										
+
 										
 										
 										
 										
 										
+
+
 										
-										
-										
-										
-										
+
 											
 											
 											
@@ -1313,40 +1243,40 @@ At times our privacy policy may be changed and any updates will be posted to thi
 												
 				
 					
-						aI("text=Investor Information;url=http://www.sonesta.com/corporate/index.cfm?fa=corporate.investorinformation;");
+						aI("text=Investor Information;url=http://www.sonesta.com/Corporate/index.cfm?fa=corporate.investorinformation;");
 					
 				
-					
+			
 											
 												
 				
 					
-						aI("text=Audit Committee;url=http://www.sonesta.com/corporate/index.cfm?fa=corporate.auditcommittee;");
+						aI("text=Audit Committee;url=http://www.sonesta.com/Corporate/index.cfm?fa=corporate.auditcommittee;");
 					
 				
-					
+			
 											
 												
 				
 					
-						aI("text=Whistle Blower Access;url=http://www.sonesta.com/corporate/index.cfm?fa=corporate.whistlebloweraccess;");
+						aI("text=Whistle Blower Access;url=http://www.sonesta.com/Corporate/index.cfm?fa=corporate.whistlebloweraccess;");
 					
 				
-					
+			
 											
 												}
 											
+
+
 											
-											
-											
+
 										
-										
-																		
+
 										drawMenus();
 									</script>
 							
 							
-							
+
 							
 						</div>
 						
@@ -1363,7 +1293,14 @@ At times our privacy policy may be changed and any updates will be posted to thi
 					</div>
 				</td>
 				<td>
-					<div id="footTerms"><font color="#FFFFFF">© Sonesta International Hotels Corporation<br><a href="index.cfm?fa=misc.PrivacyPolicy">Privacy Policy</a> | <a href="index.cfm?fa=misc.TermsOfUse">Terms of Use</a></font>
+					<div id="footTerms">
+						<div style="color:#FFFFFF;padding-left:5px;border:0px solid white;">
+							© Sonesta International Hotels Corporation
+							<br>
+							
+								<a href="index.cfm?fa=misc.PrivacyPolicy">Privacy Policy</a> | <a href="index.cfm?fa=misc.TermsOfUse">Terms of Use</a>
+							
+						</div>
 					</div>
 				</td>
 			</tr>
@@ -1377,13 +1314,14 @@ At times our privacy policy may be changed and any updates will be posted to thi
 
 
 
-  <script type="text/javascript"> 
-  _uacct = "UA-733428-1"; 
-  _uccn = "t"; 
-  _ucsr = "source"; 
-  _ucmd = "medium"; 
-  urchinTracker(); 
+  <script type="text/javascript">
+  _uacct = "UA-733428-1";
+  _uccn = "t";
+  _ucsr = "source";
+  _ucmd = "medium";
+  urchinTracker();
   </script>
+
 
 
 
