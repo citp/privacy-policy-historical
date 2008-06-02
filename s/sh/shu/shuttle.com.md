@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shuttle.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622005811id_/http%3A//us.shuttle.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shuttle.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602181646id_/http%3A//us.shuttle.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Shuttle XPC | PC Made Modern
 
