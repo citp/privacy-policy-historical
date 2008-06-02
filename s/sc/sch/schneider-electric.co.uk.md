@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2007-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071031102822id_/http%3A//www.schneider-electric.co.uk/internet/pws/pws.nsf/luAllByID/267E1E50727B5E22802570DF003E5352%3Fopen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602024639id_/http%3A//www.schneider-electric.co.uk/internet/pws/pws.nsf/luAllByID/267E1E50727B5E22802570DF003E5352) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy - Schneider Electric
 
-Privacy policy 
+Privacy Policy 
 
 My Schneider Electric and www.schneider.co.uk Privacy Policy. 
 
 You acknowledge and agree that Schneider Electric Ltd and our group companies and brands (“we”, “our”, “us) may collect, use and disclose the data collected in the course of our relationship in the manner identified in our Privacy Policy. 
 
-PLEASE NOTE THAT THE PRIVACY POLICY MAY CHANGE FROM TIME TO TIME AND YOU SHOULD CHECK OUR PRIVACY POLICY FREQUENTLY FOR THE MOST CURRENT APPLICABLE TERMS. YOUR USE OF THE SITES IS ALSO SUBJECT TO YOUR ACCEPTANCE OF THE [TERMS OF USE ](https://web.archive.org/internet/pws/pws.nsf/luAllByID/1A166AC3E48D3B6C802570DF004D50C4?open)WHICH YOU MUST READ. 
+PLEASE NOTE THAT THE PRIVACY POLICY MAY CHANGE FROM TIME TO TIME AND YOU SHOULD CHECK OUR PRIVACY POLICY FREQUENTLY FOR THE MOST CURRENT APPLICABLE TERMS. YOUR USE OF THE SITES IS ALSO SUBJECT TO YOUR ACCEPTANCE OF THE [TERMS OF USE ](https://web.archive.org/internet/pws/pws.nsf/luAllByID/1A166AC3E48D3B6C802570DF004D50C4)WHICH YOU MUST READ. 
 
 Information we Collect  
 The information we collect on the www.schneider.co.uk and My Schneider Electric websites ("the Sites") generally falls into the following two categories: Personally Identifiable Information and Non-Personally Identifiable Information.
