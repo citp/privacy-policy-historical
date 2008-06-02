@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithandhawken.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230072116id_/http%3A//www.smithandhawken.com/content/privacy_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithandhawken.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602221022id_/http%3A//www.smithandhawken.com/content/privacy_security.jsp) for the most accurate reproduction.*
 
 # Privacy & Security - Smith & Hawken
 
