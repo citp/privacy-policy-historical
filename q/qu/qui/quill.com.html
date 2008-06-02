@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the quill.com privacy policy that was archived on 2007-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070627074822id_/http%3A//www10.quillcorp.com/Content/Quill/Policy/C_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quill.com privacy policy that was archived on 2008-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 		<title>Quill.com | Quill Respects Your Privacy </title>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 		<link rel="stylesheet" type="text/css" href="/quill_style.css">
+		
 	</head>
 
 	<body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
@@ -12,14 +13,11 @@
 <!--There will be 5 columns across the top1. The Quill Image2. Browse All Products3. CQO/Search4. Login/Status Window5. Cart <<<< This will span 3 rowsThe 3rd row will contain the tabs-->
 <script language="JavaScript">
 <!--
-function searchAssist(ajaxWebService)
+function searchAssist()
 {
 	try
 	{
-		if(ajaxWebService)
 			getAjaxList();
-		else
-			InitQueryCode();
 	}
 	catch(e)
 	{
@@ -38,27 +36,27 @@ function fwLoadMenus() {
 	fw_menu_0.addMenuItem("Quill's Print Shop","location='/Catalog/Browse/SuperCategory.asp?PageType=6&SuperCategoryID=7'");
 	fw_menu_0.fontWeight="bold";
 	fw_menu_0.hideOnMouseOut=true;
-	
+
 	window.fw_menu_1 = new Menu("root",100,16,"Verdana, Arial, Helvetica, sans-serif",9,"#000000","#000000","#ffffff","#33cc99");
 	fw_menu_1.addMenuItem("Sale Items","location='/catalog/promotion/OnSale.asp?promotionID=1'");
 	fw_menu_1.addMenuItem("Closeout Items","location='/catalog/promotion/Closeouts.asp?promotionID=3'");
 	fw_menu_1.addMenuItem("New Items","location='/catalog/promotion/NewItems.asp?promotionID=2'");
 	fw_menu_1.addMenuItem("Free Gifts","location='/specialoffers'");
 	fw_menu_1.addMenuItem("Rebate Center","location='/catalog/rebate/rebatecenter.asp'");
-	
+
 	var pcp ="False"
 	if (pcp == 'True' )
 	{
 		fw_menu_1.addMenuItem("Awards Center","location='/content/iw/promotion/offers/spotlights/W2006/Awards/default.asp?custtype=pcp'");
 	}
-	else  
+	else
 	{
 		fw_menu_1.addMenuItem("Awards Center","location='/content/iw/promotion/offers/spotlights/W2006/Awards/default.asp'");
 	};
-	
-	
-	fw_menu_1.addMenuItem("E-mail Sign-up","location='http://quill.rsc01.net/servlet/website/ResponseForm?jNpsE.3dshIHs_zmHkm_.26tHps'");
-	
+
+
+	fw_menu_1.addMenuItem("E-mail Sign-up","location='/services/EmailSignUp/email_signup.asp'");
+
 	fw_menu_1.fontWeight="bold";
 	fw_menu_1.hideOnMouseOut=true;
 
@@ -66,34 +64,35 @@ function fwLoadMenus() {
 	fw_menu_2.addMenuItem("Manage My Account","location='/account/menuRedirects.asp?action=3'");
 	fw_menu_2.addMenuItem("View Order History/Tracking","location='/account/menuRedirects.asp?action=2'");
 	fw_menu_2.addMenuItem("View My Invoices","location='/account/menuRedirects.asp?action=5'");
-	if("True" == 'True') 
+	if("True" == 'True')
 	{
 	fw_menu_2.addMenuItem("Message Center","location='/account/menuRedirects.asp?action=7'");
 	}
 	fw_menu_2.addMenuItem("My Account Profile","location='/account/menuRedirects.asp?action=3'");
-	
+
 	var nv = "";
-	if(nv != '') 
+	if(nv != '')
 		{
 			fw_menu_2.addMenuItem("Quill Rewards","location='/rewards/landing.asp'");
 		}	fw_menu_2.fontWeight="bold";
-	fw_menu_2.addMenuItem("Make a Return","location='/account/return/return.asp'");	
+	fw_menu_2.addMenuItem("Make a Return","location='/account/menuRedirects.asp?action=9'");
 	fw_menu_2.hideOnMouseOut=true;
 
 	window.fw_menu_3 = new Menu("root",130,16,"Verdana, Arial, Helvetica, sans-serif",9,"#000000","#000000","#ffffff","#33cc99");
-	fw_menu_3.addMenuItem("Returns","location='/account/return/return.asp'");
+	fw_menu_3.addMenuItem("Returns","location='/account/menuRedirects.asp?action=9'");
 	var nv = "0";
-	if(nv != 1) 
+	if(nv != 1)
 		{
 			fw_menu_3.addMenuItem("New Visitor? Register!","location='/account/welcome.asp'");
 		}
 	fw_menu_3.addMenuItem("Rebate Center","location='/Catalog/rebate/rebatecenter.asp'");
-	fw_menu_3.addMenuItem("E-mail Sign-up","location='http://quill.rsc01.net/servlet/website/ResponseForm?jNpsE.3dshIHs_zmHkm_.26tHps'");
+	fw_menu_3.addMenuItem("E-mail Sign-up","location='/services/EmailSignUp/email_signup.asp'");
 	fw_menu_3.addMenuItem("Catalog Request","location='/support/catalog/default.asp?icrf=23041'");
 	fw_menu_3.addMenuItem("About Quill","location='/Content/Quill/About/C_index.asp'");
 	fw_menu_3.addMenuItem("Career Opportunities","location='/Content/Quill/Jobs/C_Jobs_index.asp'");
 	fw_menu_3.addMenuItem("Help","location='/Content/Quill/Help/SiteHelp/'");
-	fw_menu_3.addMenuItem("Contact Us","location='/Content/Quill/CustomerService/ContactUs.asp'");
+	fw_menu_3.addMenuItem("Contact Us","location='/content/iw/support/CustomerService/ContactUs/ContactUs.asp'");
+	fw_menu_3.addMenuItem("View Site Demo","location='/content/iw/adv/2007/06/152/default.asp'");
 	fw_menu_3.fontWeight="bold";
 	fw_menu_3.hideOnMouseOut=true;
 
@@ -104,22 +103,22 @@ function fwLoadMenus() {
 	fw_menu_4.hideOnMouseOut=true;
 
 	window.fw_menu_5 = new Menu("root",160,16,"Verdana, Arial, Helvetica, sans-serif",9,"#000000","#000000","#ffffff","#33cc99");
-	
+
 	fw_menu_5.addMenuItem("Reorder Center","location='/account/settings/ReorderCenter.asp'");
 	fw_menu_5.addMenuItem("View Order History/Tracking","location='/account/menuRedirects.asp?action=2'");
 	fw_menu_5.addMenuItem("My Lists","location='/account/settings/MyList.asp'");
 	fw_menu_5.addMenuItem("Saved&nbsp;Designs/Reorder","location='/account/settings/MyCustomDesigns.asp'");
-	
+
 	var n="";
 	if (n == 'True' ){
 	fw_menu_5.addMenuItem("Rapid Reorder","location='/Account/PurchaseHistory/Top20.asp?ListID=0'");
 	}
-	
-	
-	
+
+
+
 	fw_menu_5.fontWeight="bold";
 	fw_menu_5.hideOnMouseOut=true;
-   
+
   fw_menu_3.writeMenus();
 } // fwLoadMenus()
 
@@ -167,9 +166,9 @@ function fwLoadMenus() {
    </div>
   </div>
 </div>
-<div id="menuLayer3" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 134px; height: 156px;">
-  <div id="menuLite3" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 154px; width: 132px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg3" style="position: absolute; left: 1px; top: 1px; height: 153px; width: 131px; background-color: rgb(85, 85, 85);">
+<div id="menuLayer3" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 134px; height: 173px;">
+  <div id="menuLite3" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 171px; width: 132px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg3" style="position: absolute; left: 1px; top: 1px; height: 170px; width: 131px; background-color: rgb(85, 85, 85);">
 <div id="menuItem20" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText20" style="position:absolute;left:9;top:1;color:#000000;">Returns&nbsp;</div>
 <div id="menuItemHilite20" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">Returns&nbsp;</div></div><div id="menuItem21" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText21" style="position:absolute;left:9;top:1;color:#000000;">New Visitor? Register!&nbsp;</div>
 <div id="menuItemHilite21" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">New Visitor? Register!&nbsp;</div></div><div id="menuItem22" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText22" style="position:absolute;left:9;top:1;color:#000000;">Rebate Center&nbsp;</div>
@@ -179,27 +178,28 @@ function fwLoadMenus() {
 <div id="menuItemHilite25" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">About Quill&nbsp;</div></div><div id="menuItem26" style="position: absolute; left: 0px; top: 102px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText26" style="position:absolute;left:9;top:1;color:#000000;">Career Opportunities&nbsp;</div>
 <div id="menuItemHilite26" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">Career Opportunities&nbsp;</div></div><div id="menuItem27" style="position: absolute; left: 0px; top: 119px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText27" style="position:absolute;left:9;top:1;color:#000000;">Help&nbsp;</div>
 <div id="menuItemHilite27" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">Help&nbsp;</div></div><div id="menuItem28" style="position: absolute; left: 0px; top: 136px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText28" style="position:absolute;left:9;top:1;color:#000000;">Contact Us&nbsp;</div>
-<div id="menuItemHilite28" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">Contact Us&nbsp;</div></div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItemHilite28" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">Contact Us&nbsp;</div></div><div id="menuItem29" style="position: absolute; left: 0px; top: 153px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText29" style="position:absolute;left:9;top:1;color:#000000;">View Site Demo&nbsp;</div>
+<div id="menuItemHilite29" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">View Site Demo&nbsp;</div></div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
 <div id="menuLayer4" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 87px; height: 37px;">
   <div id="menuLite4" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 35px; width: 85px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
 	 <div id="menuFg4" style="position: absolute; left: 1px; top: 1px; height: 34px; width: 84px; background-color: rgb(85, 85, 85);">
-<div id="menuItem29" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 83px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText29" style="position:absolute;left:9;top:1;color:#000000;">Office Living&nbsp;</div>
-<div id="menuItemHilite29" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">Office Living&nbsp;</div></div><div id="menuItem30" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 83px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText30" style="position:absolute;left:9;top:1;color:#000000;">Pen Pal&nbsp;</div>
-<div id="menuItemHilite30" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">Pen Pal&nbsp;</div></div>	  <div id="focusItem4" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItem30" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 83px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText30" style="position:absolute;left:9;top:1;color:#000000;">Office Living&nbsp;</div>
+<div id="menuItemHilite30" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">Office Living&nbsp;</div></div><div id="menuItem31" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 83px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText31" style="position:absolute;left:9;top:1;color:#000000;">Pen Pal&nbsp;</div>
+<div id="menuItemHilite31" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">Pen Pal&nbsp;</div></div>	  <div id="focusItem4" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
 <div id="menuLayer5" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 164px; height: 71px;">
   <div id="menuLite5" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 69px; width: 162px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
 	 <div id="menuFg5" style="position: absolute; left: 1px; top: 1px; height: 68px; width: 161px; background-color: rgb(85, 85, 85);">
-<div id="menuItem31" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 160px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText31" style="position:absolute;left:9;top:1;color:#000000;">Reorder Center&nbsp;</div>
-<div id="menuItemHilite31" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">Reorder Center&nbsp;</div></div><div id="menuItem32" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 160px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText32" style="position:absolute;left:9;top:1;color:#000000;">View Order History/Tracking&nbsp;</div>
-<div id="menuItemHilite32" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">View Order History/Tracking&nbsp;</div></div><div id="menuItem33" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 160px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText33" style="position:absolute;left:9;top:1;color:#000000;">My Lists&nbsp;</div>
-<div id="menuItemHilite33" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">My Lists&nbsp;</div></div><div id="menuItem34" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 160px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText34" style="position:absolute;left:9;top:1;color:#000000;">Saved&nbsp;Designs/Reorder&nbsp;</div>
-<div id="menuItemHilite34" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">Saved&nbsp;Designs/Reorder&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItem32" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 160px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText32" style="position:absolute;left:9;top:1;color:#000000;">Reorder Center&nbsp;</div>
+<div id="menuItemHilite32" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">Reorder Center&nbsp;</div></div><div id="menuItem33" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 160px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText33" style="position:absolute;left:9;top:1;color:#000000;">View Order History/Tracking&nbsp;</div>
+<div id="menuItemHilite33" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">View Order History/Tracking&nbsp;</div></div><div id="menuItem34" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 160px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText34" style="position:absolute;left:9;top:1;color:#000000;">My Lists&nbsp;</div>
+<div id="menuItemHilite34" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">My Lists&nbsp;</div></div><div id="menuItem35" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 9px; width: 160px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText35" style="position:absolute;left:9;top:1;color:#000000;">Saved&nbsp;Designs/Reorder&nbsp;</div>
+<div id="menuItemHilite35" style="position:absolute;left:9;top:1;top:1;color:#000000;visibility:hidden;">Saved&nbsp;Designs/Reorder&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
@@ -207,12 +207,12 @@ function fwLoadMenus() {
 
 <script language="JavaScript1.2" src="/ajax/prototype.js"></script>
 <script language="JavaScript1.2" src="/ajax/ajax.js" defer="true"></script>
+<link rel="styleSheet" type="text/css" href="/Images/products/catalog/Content/AdCSS/adcore_style.css">
+<!-- BEGIN OF ADVATAR -->
 
-<!-- BEGIN OF ADVATAR -->   
 
 <!-- END OF ADVATAR -->
 
-<link rel="styleSheet" type="text/css" href="/Images/products/catalog/Content/AdCSS/adcore_style.css">
 <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff" id="Table1">
 	<tbody><tr>
 		<td colspan="9"><img height="10" src="/images/clear.gif" width="1"></td>
@@ -224,12 +224,11 @@ function fwLoadMenus() {
 			
 <table border="0" cellpadding="0" cellspacing="0" width="165" id="Table5">
 	
-	<tbody><tr>
-		<td><img src="/images/clear.gif" width="5" height="5"></td>
-		<td width="160"><a href="/default.asp"><img border="0" src="/images/products/catalog/content/adimages/logo_small.gif" width="191" height="31" alt="Quill.com"></a></td>
-	</tr>
-	
-
+			<tbody><tr>
+				<td><img src="/images/clear.gif" width="5" height="5"></td>
+				<td width="160"><a href="/default.asp" onclick="s_objectID=&quot;https://web.archive.org/default.asp_1&quot;;return this.s_oc?this.s_oc(e):true"><img border="0" src="/images/products/catalog/content/adimages/logo_small.gif" width="191" height="31" alt="Quill.com"></a></td>
+			</tr>
+		
 </tbody></table>
 
 		</td>
@@ -246,8 +245,9 @@ function fwLoadMenus() {
 	<form action="/catalog/search/Search_Sum.asp" method="get" id="frmSearch" name="frmSearch"></form>
 		<input type="hidden" name="dataqpg" value="1" id="Hidden1"> <input type="hidden" name="PageType" value="2" id="Hidden2">
 		<input type="hidden" name="SearchPageType" value="2" id="Hidden3">
+		<input type="hidden" name="miniSKUSwitch" value="True" id="miniSKUSwitch">
 		<tbody><tr>
-			<td valign="top" nowrap="" align="left"><input type="text" name="Keywords" autocomplete="off" id="Keywords" onclick="javascript:if (this.value==&quot;Search&quot;) this.value=&quot;&quot;" class="searchboxtext" size="20" value="Search" onkeyup="javascript:searchAssist(1);">
+			<td valign="top" nowrap="" align="left"><input type="text" name="Keywords" autocomplete="off" id="Keywords" onclick="javascript:if (this.value==&quot;Search&quot;) this.value=&quot;&quot;" class="searchboxtext" size="20" value="Search" onkeyup="javascript:searchAssist();">
 
 				<input type="image" alt="Go" src="/images/header/go.gif" align="absMiddle" id="image1" name="image1" width="22" height="22"></td>
 		</tr>
@@ -267,7 +267,7 @@ function fwLoadMenus() {
 		<td valign="top" align="left"><img src="/images/clear.gif" width="1" height="5"></td>
 	</tr>
 	<tr>
-		<td valign="top" align="left"><a href="/cart/OrderByCatalog.asp"><img height="13" alt="Catalog Quick Order" src="/images/header/cqo_icon.gif" width="137" border="0"></a></td>
+		<td valign="top" align="left"><a href="/cart/OrderByCatalog.asp" onclick="s_objectID=&quot;https://web.archive.org/cart/OrderByCatalog.asp_1&quot;;return this.s_oc?this.s_oc(e):true"><img height="13" alt="Catalog Quick Order" src="/images/header/cqo_icon.gif" width="137" border="0"></a></td>
 	</tr>
 </tbody></table>
 
@@ -279,14 +279,14 @@ function fwLoadMenus() {
 			</tbody></table>
 		</td>
 		
-		<td width="151" valign="middle" align="center">
-			<!--Column 4-->
-			
+					<td width="151" valign="middle" align="center">
+					<!--Column 4-->
+					
 <table width="140" border="0" cellpadding="0" cellspacing="0" id="Table11">
 	<tbody><tr>
 		<td valign="bottom" align="center">
 			
-			<a href="/account/login/Login.asp?url=%2Fdefault%2Easp">
+			<a href="/account/login/Login.asp?url=%2Fcontent%2Fiw%2Fcatalog%2Fpromotion%2FOnSale%2Easp%3FPromotionID%3D1%26PromoCategoryID%3D88" onclick="s_objectID=&quot;https://web.archive.org/account/login/Login.asp?url=%2Fcontent%2Fiw%2Fcatalog%2Fpromotion%2FOnSal_1&quot;;return this.s_oc?this.s_oc(e):true">
 				<img border="0" src="/images/header/Loginonwhite2.gif" alt="Login" width="65" height="20"></a>
 			
 		</td>
@@ -294,14 +294,12 @@ function fwLoadMenus() {
 	<tr>
 		<td valign="top" align="left">
 		<img src="/images/clear.gif" height="7"><br>
-		<span class="tabcpy">New customer?&nbsp;</span><a class="tabsmlnk" href="/Account/Registration/user_information.asp?iAction=5&amp;sRedirectURL=%2FDefault%2Easp">Get 
+		<span class="tabcpy">New customer?&nbsp;</span><a class="tabsmlnk" href="/Account/Registration/user_information.asp?iAction=5&amp;sRedirectURL=%2FDefault%2Easp" onclick="s_objectID=&quot;https://web.archive.org/Account/Registration/user_information.asp?iAction=5&amp;sRedirectURL=%2FDefau_1&quot;;return this.s_oc?this.s_oc(e):true">Get
 				started</a></td>
 	</tr>
 </tbody></table>
 
-		</td>
-		
-		<td><img src="/images/clear.gif" height="1" width="24"></td>
+		</td><td><img src="/images/clear.gif" height="1" width="24"></td>
 		
 		<td rowspan="5" width="214" valign="top" align="left">
 			
@@ -315,10 +313,10 @@ function fwLoadMenus() {
 							<tbody><tr valign="bottom" align="center">
 								<td>
 								<img src="/images/clear.gif" height="2"><br>
-								<img name="cart" src="/images/header/cart/cart.gif" width="27" height="14" border="0" alt=""> <a href="/cart/default.asp?mode=cart">
-								<img name="shoppingcart" src="/images/header/cart/shoppingcart.gif" width="73" height="14" border="0" alt="View &amp; Edit Cart"></a> 
+								<img name="cart" src="/images/header/cart/cart.gif" width="27" height="14" border="0" alt=""> <a href="/cart/default.asp?mode=cart" onclick="s_objectID=&quot;https://web.archive.org/cart/default.asp?mode=cart_1&quot;;return this.s_oc?this.s_oc(e):true">
+								<img name="shoppingcart" src="/images/header/cart/shoppingcart.gif" width="73" height="14" border="0" alt="View &amp; Edit Cart"></a>
 								<img name="spacer" src="/images/clear.gif" width="10" height="14" border="0">
-								<a href="/Cart/ProcessCart.asp?referrer=moom"><img name="checkout" src="/images/header/cart/checkout.gif" width="49" height="14" border="0" alt="Checkout"></a>
+								<a href="/Cart/ProcessCart.asp?referrer=moom" onclick="s_objectID=&quot;https://web.archive.org/Cart/ProcessCart.asp?referrer=moom_1&quot;;return this.s_oc?this.s_oc(e):true"><img name="checkout" src="/images/header/cart/checkout.gif" width="49" height="14" border="0" alt="Checkout"></a>
 								</td>
 							</tr>
 							<tr valign="top">
@@ -338,10 +336,10 @@ function fwLoadMenus() {
 								<td align="center"><img src="/images/clear.gif" width="1" height="5"></td>
 							</tr>
 							<tr valign="top">
-									<td align="center" class="verdanashippingcounter" valign="top" id="topnavFreightMessage">Spend&nbsp;<span class="verdanashippingcounter_red">only&nbsp;$45.01</span>&nbsp;more, get <br><img src="/images/clear.gif" height="12" width="1"><a href="javascript:;" onclick="window.open('/content/iw/support/CustomerService/help/freefreight.asp', 'Freightt', 'menubar=no,width=660,height=400,toolbar=no,left=100,top=100'); " ;="" class="ipglbhdrbkb"><span class="glbsmlink">Free Delivery</span></a>*&nbsp;(excludes Furniture)</td>
+									<td align="center" class="verdanashippingcounter" valign="top" id="topnavFreightMessage">Spend&nbsp;<span class="verdanashippingcounter_red">only&nbsp;$45.00</span>&nbsp;more, get <br><img src="/images/clear.gif" height="12" width="1"><a href="javascript:;" onclick="s_objectID=&quot;javascript:;_1&quot;;return this.s_oc?this.s_oc(e):true" ;="" class="ipglbhdrbkb"><span class="glbsmlink">free shipping</span></a>*&nbsp;(excludes Furniture)</td>
 							</tr>
-							
-								
+
+
 							<tr valign="top">
 								<td height="5" align="center" class="verdanashippingcounter"></td>
 							</tr>
@@ -364,17 +362,17 @@ function fwLoadMenus() {
 <table border="0" cellpadding="0" cellspacing="0" width="530" id="Table16">
 	<tbody><tr valign="bottom">
 		<td><img src="/images/clear.gif" width="10" height="1"></td>
-		<td><a href="/"><img name="home" src="/images/header/rollover/homeup.gif" width="60" height="19" border="0" alt="Home"></a></td>
+		<td><a href="/" onclick="s_objectID=&quot;https://web.archive.org/_1&quot;;return this.s_oc?this.s_oc(e):true"><img name="home" src="/images/header/rollover/homeup.gif" width="60" height="19" border="0" alt="Home"></a></td>
 		<td bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="19" border="0" alt=""></td>
-		<td><a href="/catalog/promotion/specials.asp" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_1,71,89);"><img name="specials" src="/images/header/rollover/Speciaup.gif" width="64" height="19" border="0" alt="Specials"></a></td>
+		<td><a href="/catalog/promotion/specials.asp" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_1,71,89);" onclick="s_objectID=&quot;https://web.archive.org/catalog/promotion/specials.asp_1&quot;;return this.s_oc?this.s_oc(e):true"><img name="specials" src="/images/header/rollover/Speciaup.gif" width="64" height="19" border="0" alt="Specials"></a></td>
 		<td bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="19" border="0" alt=""></td>
-		<td><a href="/account/menuRedirects.asp?action=3" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_2,136,89);"><img name="myAccount" src="/images/header/rollover/myaccoup.gif" width="87" height="19" border="0" alt="My Account"></a></td>
+		<td><a href="/account/menuRedirects.asp?action=3" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_2,136,89);" onclick="s_objectID=&quot;https://web.archive.org/account/menuRedirects.asp?action=3_1&quot;;return this.s_oc?this.s_oc(e):true"><img name="myAccount" src="/images/header/rollover/myaccoup.gif" width="87" height="19" border="0" alt="My Account"></a></td>
 		<td bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="19" border="0" alt=""></td>
-		<td><a href="/Content/Quill/CustomerService/" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_3,224,89);"><img name="customerService" src="/images/header/rollover/cusserup.gif" width="114" height="19" border="0" alt="Customer Service"></a></td>
+		<td><a href="/Content/Quill/CustomerService/" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_3,224,89);" onclick="s_objectID=&quot;https://web.archive.org/Content/Quill/CustomerService/_1&quot;;return this.s_oc?this.s_oc(e):true"><img name="customerService" src="/images/header/rollover/cusserup.gif" width="114" height="19" border="0" alt="Customer Service"></a></td>
 		<td bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="19" border="0" alt=""></td>
-		<td><a href="/account/settings/ReorderCenter.asp" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_5,339,89);"><img name="reorderTools" src="/images/header/rollover/reocenup.gif" width="103" height="19" border="0" alt="Reorder Center"></a></td>
+		<td><a href="/account/settings/ReorderCenter.asp" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_5,339,89);" onclick="s_objectID=&quot;https://web.archive.org/account/settings/ReorderCenter.asp_1&quot;;return this.s_oc?this.s_oc(e):true"><img name="reorderTools" src="/images/header/rollover/reocenup.gif" width="103" height="19" border="0" alt="Reorder Center"></a></td>
 		<td bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="19" border="0" alt=""></td>
-		<td><a href="/content/iw/catalog/promotion/centers/Office_Insider/default.asp" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_4,443,89);"><img name="officeLiving" src="/images/header/rollover/offlivup.gif" width="87" height="19" border="0" alt="Office Living"></a></td>
+		<td><a href="/content/iw/catalog/promotion/centers/Office_Insider/default.asp" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_4,443,89);" onclick="s_objectID=&quot;https://web.archive.org/content/iw/catalog/promotion/centers/Office_Insider/default.asp_1&quot;;return this.s_oc?this.s_oc(e):true"><img name="officeLiving" src="/images/header/rollover/offlivup.gif" width="87" height="19" border="0" alt="Office Living"></a></td>
 	</tr>
 </tbody></table>
 </td>
@@ -387,24 +385,23 @@ function fwLoadMenus() {
 
     <!-- Start supercat page -->
 <div id="superCat">
-      <a id="a01" href="/content/iw/catalog/browse/supercategory/CLBR.asp?PageType=6&amp;SuperCategoryID=6" title="Cleaning and Breakroom Supplies"><i>Cleaning and Breakroom Supplies</i></a>
-      <a id="a02" href="/content/iw/catalog/browse/supercategory/Digital_Cameras.asp?PageType=6&amp;SuperCategoryID=26" title="Digital Cameras"><i>Digital Cameras</i></a>
-      <a id="a03" href="/content/iw/catalog/browse/supercategory/Filing.asp?PageType=6&amp;SuperCategoryID=27" title="Filing and Storage Supplies"><i>Filing and Storage Supplies</i></a>
-      <a id="a04" href="/content/iw/catalog/browse/supercategory/OfficeFurniture.asp?PageType=6&amp;SuperCategoryID=1" title="Furniture"><i>Furniture</i></a>
-      <a id="a05" href="/catalog/matchmaker/manufacturer.asp" title="Ink and Toner Supplies"><i>Ink and Toner Supplies</i></a>
-      <a id="a06" href="/content/iw/catalog/browse/supercategory/OfficeSupplies.asp?PageType=6&amp;SuperCategoryID=2" title="Office Supplies"><i>Office Supplies</i></a>
-      <a id="a07" href="/catalog/browse/default.asp" title="See All, Site Map"><i>See All, Site Map</i></a>
-      <a id="a08" href="/content/iw/catalog/browse/supercategory/pack_ship.asp?PageType=6&amp;SuperCategoryID=29" title="Packing and Shipping Supplies"><i>Packing and Shipping Supplies</i></a>
-      <a id="a09" href="/content/iw/catalog/browse/supercategory/paper.asp?PageType=6&amp;SuperCategoryID=28" title="Paper"><i>Paper</i></a>
-      <a id="a10" href="/content/iw/catalog/browse/supercategory/Pens_Writing.asp?PageType=6&amp;SuperCategoryID=30" title="Pens and Writing Supplies"><i>Pens and Writing Supplies</i></a>
-      <a id="a11" href="/content/iw/catalog/browse/supercategory/printers.asp?PageType=6&amp;SuperCategoryID=31" title="Printers"><i>Printers</i></a>
-      <a id="a12" href="/content/iw/catalog/browse/supercategory/Print_Shop.asp?PageType=6&amp;SuperCategoryID=7" title="Custom Printing"><i>Custom Printing</i></a>
-      <a id="a13" href="/content/iw/catalog/promotion/centers/schoolcenter/default.asp" title="School Supplies"><i>School Supplies</i></a>
-      <a id="a14" href="/content/iw/catalog/browse/supercategory/Technology.asp?PageType=6&amp;SuperCategoryID=3" title="Technology"><i>Technology</i></a>
+      <a id="a01" href="/content/iw/catalog/browse/supercategory/CLBR.asp?PageType=6&amp;SuperCategoryID=6" title="Cleaning and Breakroom Supplies" onclick="s_objectID=&quot;https://web.archive.org/content/iw/catalog/browse/supercategory/CLBR.asp?PageType=6&amp;SuperCategory_1&quot;;return this.s_oc?this.s_oc(e):true"><i>Cleaning and Breakroom Supplies</i></a>
+      <a id="a02" href="/content/iw/catalog/browse/supercategory/Digital_Cameras.asp?PageType=6&amp;SuperCategoryID=26" title="Digital Cameras" onclick="s_objectID=&quot;https://web.archive.org/content/iw/catalog/browse/supercategory/Digital_Cameras.asp?PageType=6&amp;Su_1&quot;;return this.s_oc?this.s_oc(e):true"><i>Digital Cameras</i></a>
+      <a id="a03" href="/content/iw/catalog/browse/supercategory/Filing.asp?PageType=6&amp;SuperCategoryID=27" title="Filing and Storage Supplies" onclick="s_objectID=&quot;https://web.archive.org/content/iw/catalog/browse/supercategory/Filing.asp?PageType=6&amp;SuperCatego_1&quot;;return this.s_oc?this.s_oc(e):true"><i>Filing and Storage Supplies</i></a>
+      <a id="a04" href="/supcat.asp?wpn=Furniture_supercategory" title="Furniture" onclick="s_objectID=&quot;https://web.archive.org/supcat.asp?wpn=Furniture_supercategory_1&quot;;return this.s_oc?this.s_oc(e):true"><i>Furniture</i></a>
+      <a id="a05" href="/catalog/matchmaker/manufacturer.asp" title="Ink and Toner Supplies" onclick="s_objectID=&quot;https://web.archive.org/catalog/matchmaker/manufacturer.asp_1&quot;;return this.s_oc?this.s_oc(e):true"><i>Ink and Toner Supplies</i></a>
+      <a id="a06" href="/content/iw/catalog/browse/supercategory/OfficeSupplies.asp?PageType=6&amp;SuperCategoryID=2" title="Office Supplies" onclick="s_objectID=&quot;https://web.archive.org/content/iw/catalog/browse/supercategory/OfficeSupplies.asp?PageType=6&amp;Sup_1&quot;;return this.s_oc?this.s_oc(e):true"><i>Office Supplies</i></a>
+      <a id="a07" href="/catalog/browse/default.asp" title="See All, Site Map" onclick="s_objectID=&quot;https://web.archive.org/catalog/browse/default.asp_1&quot;;return this.s_oc?this.s_oc(e):true"><i>See All, Site Map</i></a>
+      <a id="a08" href="/content/iw/catalog/browse/supercategory/pack_ship.asp?PageType=6&amp;SuperCategoryID=29" title="Packing and Shipping Supplies" onclick="s_objectID=&quot;https://web.archive.org/content/iw/catalog/browse/supercategory/pack_ship.asp?PageType=6&amp;SuperCat_1&quot;;return this.s_oc?this.s_oc(e):true"><i>Packing and Shipping Supplies</i></a>
+      <a id="a09" href="/content/iw/catalog/browse/supercategory/paper.asp?PageType=6&amp;SuperCategoryID=28" title="Paper" onclick="s_objectID=&quot;https://web.archive.org/content/iw/catalog/browse/supercategory/paper.asp?PageType=6&amp;SuperCategor_1&quot;;return this.s_oc?this.s_oc(e):true"><i>Paper</i></a>
+      <a id="a10" href="/content/iw/catalog/browse/supercategory/Pens_Writing.asp?PageType=6&amp;SuperCategoryID=30" title="Pens and Writing Supplies" onclick="s_objectID=&quot;https://web.archive.org/content/iw/catalog/browse/supercategory/Pens_Writing.asp?PageType=6&amp;Super_1&quot;;return this.s_oc?this.s_oc(e):true"><i>Pens and Writing Supplies</i></a>
+      <a id="a11" href="/content/iw/catalog/browse/supercategory/printers.asp?PageType=6&amp;SuperCategoryID=31" title="Printers" onclick="s_objectID=&quot;https://web.archive.org/content/iw/catalog/browse/supercategory/printers.asp?PageType=6&amp;SuperCate_1&quot;;return this.s_oc?this.s_oc(e):true"><i>Printers</i></a>
+      <a id="a12" href="/supcat.asp?wpn=Custom_Print_supercategory" title="Custom Printing" onclick="s_objectID=&quot;https://web.archive.org/supcat.asp?wpn=Custom_Print_supercategory_1&quot;;return this.s_oc?this.s_oc(e):true"><i>Custom Printing</i></a>
+      <a id="a13" href="/content/iw/catalog/promotion/centers/schoolcenter/default.asp" title="School Supplies" onclick="s_objectID=&quot;https://web.archive.org/content/iw/catalog/promotion/centers/schoolcenter/default.asp_1&quot;;return this.s_oc?this.s_oc(e):true"><i>School Supplies</i></a>
+      <a id="a14" href="/content/iw/catalog/browse/supercategory/Technology.asp?PageType=6&amp;SuperCategoryID=3" title="Technology" onclick="s_objectID=&quot;https://web.archive.org/content/iw/catalog/browse/supercategory/Technology.asp?PageType=6&amp;SuperCa_1&quot;;return this.s_oc?this.s_oc(e):true"><i>Technology</i></a>
       <div style="clear:both"></div>
     </div>
     <!-- End supercat page -->
-
 </td></tr><tr>
 	<td colspan="2"><img alt="" src="/images/clear.gif" width="181" height="15" border="0"></td>
 </tr>
@@ -432,25 +429,25 @@ function fwLoadMenus() {
 <link rel="stylesheet" href="file:///V|/quill_style.css" type="text/css">
 
 <span class="glbblkcpy"></span>
-<p align="left" class="glbhdrbkb">U.S. Privacy Policy
+<p align="left" class="glbhdrbkb"><b>U.S. Privacy Policy</b>
 </p><p align="left" class="glbblkcpy">At Quill, we value our customers’ trust and respect their privacy. The following includes general information about our privacy policy and applies to all U.S. transactions (through our catalog businesses, or on our internet Web site). </p>
 <p align="left" class="glbblkcpy"><a name="top"></a></p>
-<li> <a href="#personal" class="glblnkmd">Types of personal information we collect </a><br>
-</li><li> <a href="#share" class="glblnkmd">How we use and share personal information </a><br>
-</li><li> <a href="#special" class="glblnkmd">Special information about for Quill.com® shoppers</a><br>
-</li><li> <a href="#preferences" class="glblnkmd">How to let us know about your preferences </a><br>
-</li><li> <a href="#amending" class="glblnkmd">Accessing and amending personal information</a><br>
-</li><li> <a href="#approach" class="glblnkmd">Our approach to security</a><br>
-</li><li> <a href="#changes" class="glblnkmd">Policy changes</a><br>
+<li> <a href="#personal" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_1&quot;;return this.s_oc?this.s_oc(e):true">Types of personal information we collect </a><br>
+</li><li> <a href="#share" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_2&quot;;return this.s_oc?this.s_oc(e):true">How we use and share personal information </a><br>
+</li><li> <a href="#special" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_3&quot;;return this.s_oc?this.s_oc(e):true">Special information about for Quill.com shoppers</a><br>
+</li><li> <a href="#preferences" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_4&quot;;return this.s_oc?this.s_oc(e):true">How to let us know about your preferences </a><br>
+</li><li> <a href="#amending" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_5&quot;;return this.s_oc?this.s_oc(e):true">Accessing and amending personal information</a><br>
+</li><li> <a href="#approach" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_6&quot;;return this.s_oc?this.s_oc(e):true">Our approach to security</a><br>
+</li><li> <a href="#changes" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_7&quot;;return this.s_oc?this.s_oc(e):true">Policy changes</a><br>
 <p>
        
   </p><p><a name="personal" class="glbblkcpyb">Types of personal information we collect</a><span class="glbblkcpy"></span>
   </p><p></p>
-  <a href="#top" class="glblnkmd">Back to top</a><span class="glbblkcpy"><br>We collect and store personal information that you give us when you register on our Web site, complete an application, request a catalog, place an order, enroll in a promotional or rewards program, submit for a rebate, call us, or send us a letter or e-mail. This information may include your name, mailing address, e-mail address, telephone number, fax number, credit card number and expiration date, and other optional demographic information. If you respond to a sweepstakes or contest, we will ask you to verify that you are old enough to participate.    
+  <a href="#top" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_8&quot;;return this.s_oc?this.s_oc(e):true">Back to top</a><span class="glbblkcpy"><br>We collect and store personal information that you give us when you register on our Web site, complete an application, request a catalog, place an order, enroll in a promotional or rewards program, submit for a rebate, call us, or send us a letter or e-mail. This information may include your name, mailing address, e-mail address, telephone number, fax number, credit card number and expiration date, and other optional demographic information. If you respond to a sweepstakes or contest, we will ask you to verify that you are old enough to participate.    
   
   </span>
   <p class="glbblkcpy"><a name="share"></a><span class="glbblkcpyb">How we use and share personal information </span></p>
-    <a href="#top" class="glblnkmd">Back to top </a>   <span class="glbblkcpy"><br>We use the personal information we collect to process your orders, identify you within our systems, contact you if we have questions about your order, notify you about new services or special promotional programs, and submit for rebates. Quill and the sponsoring manufacturer will have access to any rebate information you provide.</span> 
+    <a href="#top" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_9&quot;;return this.s_oc?this.s_oc(e):true">Back to top </a>   <span class="glbblkcpy"><br>We use the personal information we collect to process your orders, identify you within our systems, contact you if we have questions about your order, notify you about new services or special promotional programs, and submit for rebates. Quill and the sponsoring manufacturer will have access to any rebate information you provide.</span> 
       <p></p>
       <span class="glbblkcpy">We share your personal information within the Quill family of businesses and with third parties that perform services for us or on our behalf (for example, credit card companies, financial institutions, shipping companies, printing houses, consultants and advisors, and rebate processors) and when, in our judgment, we believe it is necessary or appropriate to prevent fraud, injury, or harm to persons or property, to protect our rights or the rights of others, to comply with applicable laws and regulations, or as otherwise required by law. We limit the scope of the information provided to third parties, and we allow its use only for the purposes for which it was disclosed. Personal information may be transferred in connection with a business transition, such as a merger, acquisition, insolvency, or asset sale involving any Quill business or asset to which the information pertains. If you shop through our catalog, or via Quill.com®, we may share your name and mailing address (but not your e-mail address or telephone number) for external direct mail campaigns conducted by companies or organizations which offer products or services we believe may be of interest to you. </span> 
 
@@ -459,18 +456,18 @@ function fwLoadMenus() {
     <p align="left"><a name="special"></a></p>
   
   <p align="left" class="glbblkcpyb"> Special information for Quill.com® shoppers</p>
-	<a href="#top" class="glblnkmd">Back to top</a><span class="glbblkcpy"><br>If you shop with us online, we use third-party advertising technology to help us improve our marketing efforts. This technology uses non-personally identifiable information about your visits to Quill.com® and the sites upon which we advertise. We use Coremetrics, a service provider, to assist us with data collection and reporting. As part of that process, a “cookie” may be placed on your computer. Cookies are small data files that are stored on your computer’s hard drive. Coremetrics does not have the right to use the information we provide to them beyond what is necessary to assist us. For more information, including how to opt out, go to <a href="http://www.coremetrics.com/info_eluminate2.html">www.coremetrics.com/info_eluminate2.html</a>.</span>
-	<p><span class="glbblkcpy">We generally do not seek to collect personal information through our Web site from children under age 13. If we conduct an online program that is open to children, personally identifiable information from children under age 13 will be collected and used only with the consent of the child’s parent or guardian, or the child will be able to participate without providing personally identifiable information.</span>
+    <a href="#top" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_10&quot;;return this.s_oc?this.s_oc(e):true">Back to top</a><span class="glbblkcpy"><br>If you shop with us online, we use third-party advertising technology to help us improve our marketing efforts. This technology uses non-personally identifiable information about your visits to Quill.com® and the sites upon which we advertise. We use Coremetrics, a service provider, to assist us with data collection and reporting. As part of that process, a “cookie” may be placed on your computer. Cookies are small data files that are stored on your computer’s hard drive. Coremetrics does not have the right to use the information we provide to them beyond what is necessary to assist us. For more information, including how to opt out, go to <a href="http://www.coremetrics.com/info_eluminate2.html" onclick="s_objectID=&quot;http://www.coremetrics.com/info_eluminate2.html_1&quot;;return this.s_oc?this.s_oc(e):true">www.coremetrics.com/info_eluminate2.html</a>.</span>
+    <p><span class="glbblkcpy">We generally do not seek to collect personal information through our Web site from children under age 13. If we conduct an online program that is open to children, personally identifiable information from children under age 13 will be collected and used only with the consent of the child’s parent or guardian, or the child will be able to participate without providing personally identifiable information.</span>
 
     </p><p><span class="glbblkcpy">For your convenience, our Web site may contain links to the sites of affiliates, manufacturers, and other companies. Please keep in mind that these sites are not under our control and we are not responsible for the privacy practices of the companies that run them. If you shop on one of these sites, we encourage you to locate and familiarize yourself with the applicable privacy policy.</span>
    
- <br>
+<br>
   <span class="glbblkcpy"> </span></p><p align="left"><a name="preferences" class="glbblkcpyb">How to let us know about your preferences </a> </p>
-	<a href="#top" class="glblnkmd">Back to top </a><br>
-	Quill provides customers with marketing and promotional materials via e-mail, mail, telemarketing, and fax. If you’d prefer not to receive these materials, let us know using the instructions included in the following Q &amp; A:
+    <a href="#top" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_11&quot;;return this.s_oc?this.s_oc(e):true">Back to top </a><br>
+    Quill provides customers with marketing and promotional materials via e-mail, mail, telemarketing, and fax. If you’d prefer not to receive these materials, let us know using the instructions included in the following Q &amp; A:
   <p class="glbblkcpy"><span class="glbblkcpyb">Q. How can I contact Quill?</span><br>
   A. You may contact us using any of the following options:  </p><ul>
-    <li>Send us an <a href="/support/contact/CommentsFeedbackSelection.asp" class="glblnkmd">e-mail</a>
+    <li>Send us an <a href="/support/contact/CommentsFeedbackSelection.asp" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/support/contact/CommentsFeedbackSelection.asp_1&quot;;return this.s_oc?this.s_oc(e):true">e-mail</a>
     </li><li>Call us toll-free at 1-800-789-1331
     </li><li>Fax us toll-free at 1-800-789-8955
     </li><li>Write us directly at Quill Marketing Services, 100 Schelter Rd., Lincolnshire, IL 60069 
@@ -481,23 +478,23 @@ function fwLoadMenus() {
     <li>E-mail – Click on the unsubscribe link located in all of our promotional e-mails (Requests to opt out of promotional e-mails will be honored within 10 business days.)
     </li><li>Postal Mail, Fax and Telephone – Call, write, or send an e-mail to Quill, using the contact information provided above
   </li></ul>
- When submitting a request by telephone or mail, please be sure to include all of the contact information you have ever used or provided to Quill even if it is no longer current, including:
- <ul><li>All e-mail addresses
- </li><li>All telephone numbers
- </li><li>All names and addresses, including city, state and zip code</li></ul>
- You may continue to receive direct mail or catalog mailings after you have asked us not to send them. This can occur due to timing delays in updating applicable computer systems or due to incorrect, out of date or duplicate contact information. If that happens to you, call us.
+When submitting a request by telephone or mail, please be sure to include all of the contact information you have ever used or provided to Quill even if it is no longer current, including:
+<ul><li>All e-mail addresses
+</li><li>All telephone numbers
+</li><li>All names and addresses, including city, state and zip code</li></ul>
+You may continue to receive direct mail or catalog mailings after you have asked us not to send them. This can occur due to timing delays in updating applicable computer systems or due to incorrect, out of date or duplicate contact information. If that happens to you, call us.
 <p class="glbblkcpy"><span class="glbblkcpyb">Q. I'd prefer not to have my name and postal mailing address shared with other companies for marketing purposes. What should I do?</span>
 <br>A. If you’d prefer not to have your name and postal mailing address shared with other companies, let us know via e-mail, fax, or letter using the contact information provided above. Please be sure to include your name and postal mailing address as well as specific instructions.
 </p><p align="left"><a name="amending" class="glbblkcpyb">Accessing and amending personal information </a> </p>
-    <a href="#top" class="glblnkmd">Back to top</a><span class="glbblkcpy"><br>It is important that our databases are accurate and current. To review and make any appropriate changes or deletions to information about you, go to Quill.com and log in. Go to “Edit login and contact info.”  
-		  
+    <a href="#top" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_12&quot;;return this.s_oc?this.s_oc(e):true">Back to top</a><span class="glbblkcpy"><br>It is important that our databases are accurate and current. To review and make any appropriate changes or deletions to information about you, go to Quill.com and log in. Go to “Edit login and contact info.”  
+          
     <span class="glbblkcpy">
 <p align="left"><a name="approach" class="glbblkcpyb">Our approach to security </a> </p>
-	      <a href="#top" class="glblnkmd">Back to top</a></span><span class="glbblkcpy"><br>
-	      We maintain reasonable physical, technical, and procedural measures to limit access to personal information to authorized individuals with appropriate purposes. Our Web site is a “Secure Site” recognized by VeriSign, a leading computer network security company. If you believe that someone has improperly used personally identifiable information about you or has made purchases that you did not authorize, please contact us immediately. We are a member of BBBOnline, the online section of the Better Business Bureau, and we will strive to resolve any customer service complaints promptly in accordance with BBB procedures.</span><span class="glbblkcpy"></span>
+          <a href="#top" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_13&quot;;return this.s_oc?this.s_oc(e):true">Back to top</a></span><span class="glbblkcpy"><br>
+          We maintain reasonable physical, technical, and procedural measures to limit access to personal information to authorized individuals with appropriate purposes. Our Web site is a “Secure Site” recognized by VeriSign, a leading computer network security company. If you believe that someone has improperly used personally identifiable information about you or has made purchases that you did not authorize, please contact us immediately. We are a member of BBBOnline, the online section of the Better Business Bureau, and we will strive to resolve any customer service complaints promptly in accordance with BBB procedures.</span><span class="glbblkcpy"></span>
 <p align="left"><a name="changes" class="glbblkcpyb">Policy Changes </a> </p>
-  <p align="left"><a href="#top" class="glblnkmd">Back to top</a><span class="glbblkcpy"><br>
-    Quill may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at <a href="/Content/Quill/Policy/C_privacy.asp">www.quill.com/content/quill/policy/c_privacy.asp</a>. If policy changes materially affect our uses and disclosures of personal information that we have previously collected, we will notify you and, if appropriate, provide an opportunity to prevent us from applying the revised policy to such information.</span></p>
+  <p align="left"><a href="#top" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_14&quot;;return this.s_oc?this.s_oc(e):true">Back to top</a><span class="glbblkcpy"><br>
+    Quill may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at <a href="/Content/Quill/Policy/C_privacy.asp" onclick="s_objectID=&quot;https://web.archive.org/Content/Quill/Policy/C_privacy.asp_1&quot;;return this.s_oc?this.s_oc(e):true">www.quill.com/content/quill/policy/c_privacy.asp</a>. If policy changes materially affect our uses and disclosures of personal information that we have previously collected, we will notify you and, if appropriate, provide an opportunity to prevent us from applying the revised policy to such information.</span></p>
   <p align="left"><span class="glbblkcpy">Effective Date: May 17, 2006</span>
   </p><hr>
       <p> 
@@ -512,7 +509,7 @@ function fwLoadMenus() {
         </tr>
         <tr> 
           <td class="glbblkcpyb">E-mail:</td>
-          <td><a href="/support/contact/CommentsFeedbackSelection.asp" class="glblnkmd">Contact 
+          <td><a href="/support/contact/CommentsFeedbackSelection.asp" class="glblnkmd" onclick="s_objectID=&quot;https://web.archive.org/support/contact/CommentsFeedbackSelection.asp_2&quot;;return this.s_oc?this.s_oc(e):true">Contact 
           Us</a></td>
         </tr>
         <tr> 
@@ -548,7 +545,7 @@ function fwLoadMenus() {
 		</tbody></table>
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="750" id="Table1">
+<img name="s_i_quillcom" height="1" width="1" border="0" alt="" src="https://quill.112.2o7.net/b/ss/quillcom/1/H.9-Pdvu-2/s94578296622726?[AQB]&amp;ndh=1&amp;t=24/1/2020%203%3A58%3A1%201%200&amp;ns=quill&amp;pageName=/content/quill/policy/c_privacy.asp&amp;g=https%3A//web.archive.org/web/20080602182225id_/http%253A//www08.quillcorp.com/Content/Quill/Policy/C_privacy.asp&amp;cc=USD&amp;server=www01.quillcorp.com&amp;v11=browse&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://quill.112.2o7.net/b/ss/quillcom/1/H.9--NS/0" height="1" width="1" border="0" alt=""></a></noscript><table border="0" cellpadding="0" cellspacing="0" width="750" id="Table1">
 	<tbody><tr>
 		<td align="middle"><img height="15" src="/images/clear.gif" width="1"></td>
 	</tr>
@@ -557,7 +554,10 @@ function fwLoadMenus() {
 	
 		
 		<tr bgcolor="#FFFFFF">
-			<td class="bdtxtsmcpy" align="middle" colspan="3"><p>Can't find what you need? <a class="glbsmlink" href="/support/contact/CommentsFeedbackSelection.asp">E-mail us</a> or call 1-800-982-3400</p></td>
+			<td class="bdtxtsmcpy" align="middle" colspan="3"><p>Can't find what you need? <a class="glbsmlink" href="/content/iw/support/CustomerService/ContactUs/ContactUs.asp" onclick="s_objectID=&quot;https://web.archive.org/content/iw/support/CustomerService/ContactUs/ContactUs.asp_1&quot;;return this.s_oc?this.s_oc(e):true">Contact Us</a></p>
+<div>
+<a class="footer" href="/Content/Quill/Policy/C_eeo_intro.asp" onclick="s_objectID=&quot;https://web.archive.org/Content/Quill/Policy/C_eeo_intro.asp_1&quot;;return this.s_oc?this.s_oc(e):true">EEO Statement</a> &nbsp;| &nbsp;<a class="footer" href="/Content/Quill/Policy/C_privacy.asp" onclick="s_objectID=&quot;https://web.archive.org/Content/Quill/Policy/C_privacy.asp_2&quot;;return this.s_oc?this.s_oc(e):true">Privacy &amp; Security</a> &nbsp;| &nbsp;<a class="footer" href="/Content/Quill/Help/SiteHelp/PricingPolicy.asp" onclick="s_objectID=&quot;https://web.archive.org/Content/Quill/Help/SiteHelp/PricingPolicy.asp_1&quot;;return this.s_oc?this.s_oc(e):true">Pricing Policy</a> &nbsp;| &nbsp;<a class="footer" href="/Content/Quill/Policy/C_order_disclaimer.asp" onclick="s_objectID=&quot;https://web.archive.org/Content/Quill/Policy/C_order_disclaimer.asp_1&quot;;return this.s_oc?this.s_oc(e):true">Order Restrictions</a> &nbsp;| &nbsp;<a class="footer" href="/Content/Quill/About/C_index.asp" onclick="s_objectID=&quot;https://web.archive.org/Content/Quill/About/C_index.asp_1&quot;;return this.s_oc?this.s_oc(e):true">About Quill</a> <br> <a class="footer" href="/services/EmailSignUp/email_signup.asp" onclick="s_objectID=&quot;https://web.archive.org/services/EmailSignUp/email_signup.asp_1&quot;;return this.s_oc?this.s_oc(e):true">E-mail Signup</a> &nbsp;| &nbsp;<a class="footer" href="/Content/Quill/Help/SiteHelp/" onclick="s_objectID=&quot;https://web.archive.org/Content/Quill/Help/SiteHelp/_1&quot;;return this.s_oc?this.s_oc(e):true">Help</a> &nbsp;| &nbsp;<a class="footer" href="/content/iw/promotion/newsroom/default.asp" onclick="s_objectID=&quot;https://web.archive.org/content/iw/promotion/newsroom/default.asp_1&quot;;return this.s_oc?this.s_oc(e):true">Newsroom</a> &nbsp;| &nbsp;<a class="footer" href="/catalog/browse/default.asp" onclick="s_objectID=&quot;https://web.archive.org/catalog/browse/default.asp_2&quot;;return this.s_oc?this.s_oc(e):true">Site Map</a> &nbsp;| &nbsp;<a class="footer" href="/content/iw/adv/2007/06/152/default.asp" onclick="s_objectID=&quot;https://web.archive.org/content/iw/adv/2007/06/152/default.asp_1&quot;;return this.s_oc?this.s_oc(e):true">Site Tour</a> &nbsp;| &nbsp;<a class="footer" href="/content/iw/promotion/affiliate/join/default.asp" onclick="s_objectID=&quot;https://web.archive.org/content/iw/promotion/affiliate/join/default.asp_1&quot;;return this.s_oc?this.s_oc(e):true">Affiliate Program</a>
+</div></td>
 			<td width="5"></td>
 		</tr>
 		
@@ -577,302 +577,6 @@ function fwLoadMenus() {
 		
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-			
-			
-				
-				
-
-				
-				<a class="footer" href="/Content/Quill/Policy/C_eeo_intro.asp">EEO&nbsp;Statement</a>
-				
-				
-				
-				
-					
-				
-				
-					
-			
-			
-			
-			
-			
-				
-				
-				&nbsp;|&nbsp;
-				
-				
-				
-								
-			
-		
-			
-			
-				
-				
-
-				
-				<a class="footer" href="/Content/Quill/Policy/C_privacy.asp">Privacy&nbsp;&amp; Security</a>
-				
-				
-				
-				
-					
-				
-				
-					
-			
-			
-			
-			
-			
-				
-				
-				&nbsp;|&nbsp;
-				
-				
-				
-								
-			
-		
-			
-			
-				
-				
-
-				
-				<a class="footer" href="/Content/Quill/Help/SiteHelp/PricingPolicy.asp">Pricing&nbsp;Policy</a>
-				
-				
-				
-				
-					
-				
-				
-					
-			
-			
-			
-			
-			
-				
-				
-				&nbsp;|&nbsp;
-				
-				
-				
-								
-			
-		
-			
-			
-				
-				
-
-				
-				<a class="footer" href="/Content/Quill/Policy/C_order_disclaimer.asp">Order&nbsp;Restrictions</a>
-				
-				
-				
-				
-					
-				
-				
-					
-			
-			
-			
-			
-			
-				
-				
-				&nbsp;|&nbsp;
-				
-				
-				
-								
-			
-		
-			
-			
-				
-				
-
-				
-				<a class="footer" href="/Content/Quill/About/C_index.asp">About&nbsp;Quill</a>
-				
-				
-				
-				
-					<br>
-				
-				
-					
-			
-			
-			
-			
-							
-			
-		
-			
-			
-				
-				
-
-				
-				<a class="footer" href="/services/EmailSignUp/email_signup.asp">E-mail&nbsp;Signup</a>
-				
-				
-				
-				
-					
-				
-				
-					
-			
-			
-			
-			
-			
-				
-				
-				&nbsp;|&nbsp;
-				
-				
-				
-								
-			
-		
-			
-			
-				
-				
-
-				
-				<a class="footer" href="/Content/Quill/Help/SiteHelp/">Help</a>
-				
-				
-				
-				
-					
-				
-				
-					
-			
-			
-			
-			
-			
-				
-				
-				&nbsp;|&nbsp;
-				
-				
-				
-								
-			
-		
-			
-			
-				
-				
-
-				
-				<a class="footer" href="/content/iw/promotion/newsroom/default.asp">Newsroom</a>
-				
-				
-				
-				
-					
-				
-				
-					
-			
-			
-			
-			
-			
-				
-				
-				&nbsp;|&nbsp;
-				
-				
-				
-								
-			
-		
-			
-			
-				
-				
-
-				
-				<a class="footer" href="/catalog/browse/default.asp">Site&nbsp;Map</a>
-				
-				
-				
-				
-					
-				
-				
-					
-			
-			
-			
-			
-			
-				
-				
-				&nbsp;|&nbsp;
-				
-				
-				
-								
-			
-		
-			
-			
-				
-				
-
-				
-				<a class="footer" href="/content/iw/adv/2007/06/152/default.asp">Site&nbsp;Tour</a>
-				
-				
-				
-				
-					
-				
-				
-					
-			
-			
-			
-			
-							
-			
 				
 		
 		</td>
@@ -898,7 +602,7 @@ function fwLoadMenus() {
 								
 								
 								<td valign="middle">
-									<a href="http://www.bbbonline.org/cks.asp?id=654001162"><img src="/images/ReliabilitySeal3.gif" border="0"></a>
+									<a href="http://www.bbbonline.org/cks.asp?id=654001162" onclick="s_objectID=&quot;http://www.bbbonline.org/cks.asp?id=654001162_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="/images/ReliabilitySeal3.gif" border="0"></a>
 								</td>
 								
 								
@@ -914,7 +618,7 @@ function fwLoadMenus() {
 								
 								
 								<td valign="middle">
-									<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--879.html"><img src="http://medals.bizrate.com/medals/dynamic/879_medal.gif" border="0"></a>
+									<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--879.html" onclick="s_objectID=&quot;http://www.bizrate.com/ratings_guide/cust_reviews__mid--879.html_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="http://medals.bizrate.com/medals/dynamic/879_medal.gif" border="0"></a>
 								</td>
 								
 								
@@ -930,7 +634,7 @@ function fwLoadMenus() {
 								
 								
 								<td valign="middle">
-									<a href="/Content/Quill/Jobs/C_Jobs_index.asp"><img src="/images/careersatquill.gif" border="0"></a>
+									<a href="/Content/Quill/Jobs/C_Jobs_index.asp" onclick="s_objectID=&quot;https://web.archive.org/Content/Quill/Jobs/C_Jobs_index.asp_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="/images/careersatquill.gif" border="0"></a>
 								</td>
 								
 								
@@ -964,7 +668,7 @@ function fwLoadMenus() {
 		<tr>
 			<td width="5">
 			</td>
-			<td align="middle"><a class="footer" href="/Content/Quill/Policy/C_Copyright.asp">© Quill Lincolnshire, Inc. 2007, All Rights Reserved.</a></td>
+			<td align="middle"><a class="footer" href="/Content/Quill/Policy/C_Copyright.asp" onclick="s_objectID=&quot;https://web.archive.org/Content/Quill/Policy/C_Copyright.asp_1&quot;;return this.s_oc?this.s_oc(e):true">© Quill Lincolnshire, Inc. 2008, All Rights Reserved.</a></td>
 			<td width="5">
 			</td>
 		</tr>		
@@ -982,49 +686,32 @@ function fwLoadMenus() {
 			
 	
 
+	<!-- BEGIN Omniture SUPPORT -->
 
-	<!-- BEGIN COREMETRICS SUPPORT -->
+<script language="JavaScript" src="/omniture/javascript/quill_s_code.js"></script>
 
-<script language="javascript1.1">
-<!--
-var cmJv="1.1";
-//-->
-</script>
-<script language="javascript1.2">
-<!--
-var cmJv="1.2";
-//-->
-</script>
-<script language="javascript1.3">
-<!--
-var cmJv="1.3";
-//-->
-</script>
-<script language="javascript1.4">
-<!--
-var cmJv="1.4";
-//-->
-</script>
-<script language="javascript1.5">
-<!--
-var cmJv="1.5";
-//-->
+
+<script language="JavaScript">
+        s.pageName = "/content/quill/policy/c_privacy.asp";
 </script>
 
-<script language="javascript1.1" src="/coremetrics/v40/eluminate.txt"></script>
-<script language="javascript1.1" src="/coremetrics/v40/techprops.txt"></script>
-<script language="javascript1.1" src="/coremetrics/cmdatatagutils.txt"></script>
+
+<script language="JavaScript">
+    s.server = "www01.quillcorp.com"
+    s.eVar11 = "browse"
+<!--
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();
+if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
 
 
-		<script language="javascript1.1">
-			cmSetProduction();
-		</script>
 
-		<script language="javascript1.1">
-			cmCreateDefaultPageviewTag();
-		</script>
-	
-<!-- END COREMETRICS SUPPORT -->
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.9. -->
+
 </tbody></table>
 
 
@@ -1035,5 +722,4 @@ var cmJv="1.5";
 <!-- using template_content_moom.asp -->
 
   
- 
 </body></html>
