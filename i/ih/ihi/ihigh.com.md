@@ -1,48 +1,45 @@
-> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425220857id_/http%3A//www.ihigh.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603011936id_/http%3A//www.ihigh.com/privacy.html) for the most accurate reproduction.*
 
-# iHigh.com's Privacy Policy | The iHigh.com Network
+# Privacy Policy | iHigh.com | America's High School Network
 
-This policy covers how iHigh treats personal information that iHigh collects and receives, including information related to your past use of iHigh products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that iHigh does not own or control, or to people that iHigh does not employ or manage. 
+**iHigh.com, Inc. Privacy Policy**
 
-**General Privacy Policy**
+At iHigh.com, Inc., we are committed to safeguarding your privacy online. iHigh.com does not solicit any personally identifiable information from children under the age of 13. Accordingly, children under 13 years old may be restricted from participating in certain activities and transactions on iHigh.com, Inc.
 
-  * iHigh collects personal information when you register on the network, when you use iHigh products or services, when you visit iHigh pages or the pages of certain iHigh partners, and when you enter contests and competitions. iHigh may combine information about you that we have with information we obtain from business partners or other companies. 
+iHigh.com, Inc. works with (and may provide links to) third party sites that offer features described on iHigh.com, Inc. Such third parties may permit children under the age of 13 to register on their sites in accordance with their respective privacy policies. However, iHigh.com, Inc. does not knowingly obtain, retain or use information from anyone who indicates that they are under 13 years old.
 
-  * When you register we ask for information such as your name, email address, birth date, gender, and ZIP code. For some financial products, contest prize delivery, and services we might also ask for your address. When you register with iHigh and sign in to our services, you are not anonymous to us. 
+Please read this Privacy Policy ("Policy") for an explanation of how we will treat your personal information. By using an iHigh.com, Inc. Web Site, you consent to the collection and use of personal information as outlined in this Policy. If you do not agree to this Policy, please do not use our site. If we make any material changes to the Policy, those changes will be posted here so that you are always aware of what personal information is collected, how that information is used, and under what circumstances that information may be disclosed. Since this Policy may change from time to time, you should check back periodically. Your continued use of iHigh.com following the posting of changes to the Policy will signal your acceptance of such changes. If you have any questions or comments regarding this Policy, please contact [Tim Campbell](https://web.archive.org/web/20080603011936id_/http%3A//www.ihigh.com/contact.html) at (859) 514-3843.
 
-  * iHigh automatically receives and records information on our server logs from your browser, including your IP address and the page you request. 
+**1\. What personally identifiable information of yours or third party personally identifiable information is collected from you through the site**  
+As stated above, iHigh.com, Inc. does not solicit any personally identifiable information from children under the age of 13. iHigh.com, Inc. does not collect personally identifiable information through the site unless you provide that information. Information that may be required for certain parts of the Web Site may vary but will typically include your first and last name; address including city, state, zip code and country; complete date of birth; and e-mail address; and, in the case of making purchases, a credit card number and expiration date. You may also be requested to provide a username and password for certain features. iHigh.com, Inc. will maintain all of the personal information submitted by you in secured servers behind corporate firewalls.
 
-  * iHigh uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+**2\. The organization collecting the information**  
+iHigh.com, Inc. is located at 325 West Main Street, Lexington, KY 40507. Please contact [Tim Campbell](https://web.archive.org/web/20080603011936id_/http%3A//www.ihigh.com/contact.html) at (859) 514-3843.
 
-  * iHigh does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+**3\. How the information is used**  
+iHigh.com, Inc. may use information provided at registration or information obtained through third parties as your intention to sign up for one of our contests or offers. The use of information provided at registration or obtained through third parties may also be provided to iHigh.com corporate sponsors if we have so notified you on our site. iHigh.com, Inc. uses "cookie" technology. Cookies are pieces of information transferred to your hard drive for record-keeping purposes. Such technology is an industry standard and is used by most major Web sites. iHigh.com, Inc. will never use cookies to retrieve information from your computer that was not originally sent in a cookie. In order to effectively use the site and some of its features, your browser must accept cookies.
 
+Users should be aware that iHigh.com, Inc. cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for iHigh.com, Inc.. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept cookies; however, users should note that cookies may be necessary to provide the user with certain features available on iHigh.com Web Sites.
 
+iHigh.com, Inc. tracks certain general usage pattern information, including what pages people visit and how long they have been registered users. iHigh.com, Inc. may log users' IP addresses (the group of four numbers separated by periods, such as 123.45.64.89, that identifies a particular host computer) for the purposes of system administration, site tracking and reporting of aggregate usage information to our marketing and product development teams.
 
-    * We provide the information to trusted partners who work on behalf of or with iHigh under confidentiality agreements. These companies may use your personal information to help iHigh communicate with you about offers from iHigh and our marketing partners. However, these companies do not have any independent right to share this information. 
+From time to time, iHigh.com, Inc. may solicit your opinion to determine your preferences and dislikes in order to provide you with a better product. These surveys are always optional to the user and your decision not to participate in a survey will not affect your status as a iHigh.com Web Site user. Should you choose to participate, any information you give us may be used in aggregate form for marketing purposes, and to enhance your overall experience on our site.
 
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
+**4\. With whom the information may be shared**  
+iHigh.com, Inc. will not provide any personally identifiable information about you to other third parties without your consent. iHigh.com, Inc. may, however, provide other third parties with anonymous aggregated information about our users to illustrate trends and patterns. 
 
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of iHigh's terms of use, or as otherwise required by law. 
+**5\. What choices are available to you regarding collection, use and distribution of the information**  
+If you are to be sent further offers as part of a contest entry, you will be clearly notified (such as an SLFC contest). iHigh.com, Inc. will not share your information with any other parties other than those clearly listed when you give us your information. For instance, if SLFC sponsors a contest with iHigh.com, only SLFC and iHigh will collect your information. No other third parties will have access.  
+**  
+6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control**  
+iHigh.com has security measures in place to protect against the loss, misuse and alteration of the information under its control. The servers for iHigh.com, Inc. are stored in a physically secure and climate controlled off-site facility. Beyond the physical protection of the servers, we protect against data loss by regularly backing up data, performing consistency checks with independently recorded log files to prevent tampering, and restricting access to information on our servers via several user authentication technologies. Only those employees needed to carry out the business functions will have access to information on individual iHigh.com customers. We train each such employee with respect to the iHigh.com Privacy Policy, and those violating these policies will be subject to disciplinary action.
 
-  * We transfer information about you if iHigh is acquired by or merged with another company. In this event, iHigh will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+It is important to remember that whatever you transmit or disclose online can be collected and used by others or unlawfully intercepted by third parties. No data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. In addition, we may disclose information to law enforcement or other government officials if we determine such disclosure to be appropriate, or if we are compelled to disclose it by court order or operation of law.
 
-  * iHigh does not provide any personal information to advertisers when you interact with or view an ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet targeting criteria that may be used to display the ad. 
+**NOTE TO PARENTS**  
+It is iHigh.com, Inc.'s policy not to solicit any personally identifiable information from children. All iHigh.com, Inc. online registrants will be required to enter their full name, age, zip code and e-mail address. If iHigh.com, Inc. determines that a person is under the age of 13, based on the information provided during the registration process, that person will not be permitted to register online for our contests or offers in accordance with the Children's Online Privacy Protection Act of 1998. Any personally identifiable information that the child may have attempted to enter during the registration process will not be collected or maintained by iHigh.com. Children who indicate that they are under 13 years old will not be able to make credit card purchases or participate in interactive features on iHigh.com, Inc. that involve the collection and retention of personal information (e.g., entering a sweepstakes).
 
-  * We reserve the right to send you certain communications relating to the iHigh.com service, such as service announcements, and administrative messages, that are considered part of your iHigh account, without offering you the opportunity to opt out of receiving them. 
+iHigh.com, Inc. works with (and may provide links to) third party sites that offer features described on iHigh.com, Inc.. Such third parties may permit children under the age of 13 to register for these features on their sites in accordance with their respective privacy policies. For more information, please review the privacy policies of each respective third party site. iHigh.com does not knowingly obtain, retain or use information from anyone who indicates that they are under 13 years old.  
+LAST UPDATED: April 18, 2008
 
-
-
-  * You can delete your iHigh account by emailing the site administrator at [peter@ihighteam.com](mailto:peter@ihighteam.com)
-
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-
-
-
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-
-
-
-  * iHigh may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to your iHigh Message Center or by placing a prominent notice on our site. 
-
-
-
+Copyright 2008 iHigh.com, Inc. All rights reserved. 
