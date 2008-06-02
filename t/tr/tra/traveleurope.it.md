@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveleurope.it privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224182424id_/http%3A//www.traveleurope.it/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveleurope.it privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602083031id_/http%3A//www.traveleurope.it/policy.html) for the most accurate reproduction.*
 
 # Traveleurope: Privacy policy
 
@@ -6,7 +6,7 @@ By using **Traveleurope** website, you accept the practices described in this Pr
 
 We may update our Privacy Policy from time to time to take account of changing requirements such as changes in technology or legislation, and request that you refer back to this Policy frequently to become aware of any such revisions. In addition, we recommend that you review the privacy policy of any website accessed through the **Traveleurope** website as these sites may be subject to different privacy practices. **Traveleurope** is not responsible for these websites or for the information made available thereon.
 
-## Security and Confidentiality 
+## Security and Confidentiality
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Socket Layers (SSL) technology to ensure the privacy of the information provided to us both in the hotel booking engine and in any other order form. At no time are the customers debit/credit card details transmitted un-encrypted over the Internet. When you make bookings online or access your personal profile you can do so through a secure server. The use of Secure Socket Layer (SSL) technology means that all personal information, such as your credit card number, will be encrypted as it travels from your computer to the **Traveleurope** Online Booking Engine. When received, the information is processed by a secured Payment Gateway. If your browser supports SSL, and if you entered our site via our secure server access, then transmission of any sensitive data will be protected. If your browser does not support SSL, we recommend that you upgrade to the latest version of any browser to enhance the security of further transactions, otherwise the transmission of your personal data may not be protected and **Traveleurope** disclaims any responsibility in this regard. We also operate behind a firewall to ensure there is no unauthorised access to our systems.
 
@@ -34,4 +34,9 @@ We use your personal information to process your booking and to deliver relevant
 
 ## Right of rectification or erasure
 
-You may ask to have your personal data corrected, if inaccurate, or erased if they are no longer needed to provide the purchased booking service, by sending an email to [customer@traveleurope.it](mailto:customer@traveleurope.it)
+You may ask to have your personal data corrected, if inaccurate, or erased if they are no longer needed to provide the purchased booking service, by sending an email to customer@traveleurope.it  
+  
+Book online or call our reservation hotline. Monday-Friday from 9.30 am to 5.30 pm (CET – Central European Time)
+
++44 (0)20.32.39.87.58   
++39 02.45.47.30.26
