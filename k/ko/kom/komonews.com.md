@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the komonews.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210124733id_/http%3A//www.komoradio.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komonews.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603005020id_/http%3A//www.komonews.com/about/privacy) for the most accurate reproduction.*
 
-# KOMO 1000 News Radio - News, Weather and Sports - Seattle, WA Seattle, Washington | KOMOradio Privacy Policy
+# KOMO News - Seattle, Washington | KOMO Privacy Policy
 
-This Privacy Policy governs the use and collection of information that komotv.com its affiliates, partners, advertisers, agents, related companies and service providers (collectively, "we," "our" or the "website") obtain from you while you are visiting our web site (the "Site").     
+Story Published: Sep 29, 2006 at 3:22 PM PDT 
+
+Story Updated: Jan 8, 2008 at 11:29 PM PDT 
+
+This Privacy Policy governs the use and collection of information that komotv.com and komoradio.com its affiliates, partners, advertisers, agents, related companies and service providers (collectively, "we," "our" or the "website") obtain from you while you are visiting our web site (the "Site").     
 In this Privacy Policy, we address the following questions:
 
   * What information do we collect and how is it collected?
@@ -59,7 +63,7 @@ Any information you provide to us is voluntary, and you are not required to shar
 
 _Fisher Interactive Network  
 Opt-Out Department  
-100 Fourth Avenue North, Suite 510  
+140 Fourth Avenue North, Suite 370  
 Seattle, WA  98109_
 
 Please be advised that opting out in any of the ways described above may limit your ability to visit and take advantage of certain services on our Site.  You should also bear in mind that we do not have access to the databases of third parties to whom you may have submitted information through our Site in the past, and you should contact those parties directly if you also wish to opt out of their services and databases.
@@ -78,3 +82,55 @@ This Privacy Policy only applies to this Site, and the use and collection of inf
 
 
 This Privacy Policy is effective as of August 1, 2006.
+
+| 
+
+Current Temp  61 °F 
+
+Mostly Cloudy 
+
+Wind : From the Southwest at 9 MPH 
+
+Humidity : 44 % 
+
+Pressure : 30.04" (1018.0 mb) 
+
+[More Weather](https://web.archive.org/weather)
+
+Everett to Bellevue (I-405)  
+Travel Time: 28 Min  
+Delay Time: 7 Min
+
+[](http://www.komotv.com/home/ondemand/5064776.html "KOMO News Alerts")
+
+Get news alerts delivered to your e-mail or desktop.
+
+[](http://www.komonews.com/home/ondemand/6195101.html "Watch ABC Shows")
+
+Watch ABC shows and news online, free!
+
+[](http://www.komonews.com/home/ondemand/4376531.html "Mobile")
+
+KOMO News on the go for your cell phone or PDA.
+
+[](https://web.archive.org/home/ondemand/video "Video")
+
+The latest news video from KOMO.
+
+[](http://www.komonews.com/home/ondemand/4378116.html "Podcasts")
+
+The latest news and features from KOMO.
+
+[](http://www.komonews.com/home/ondemand/4376216.html "Listen Live")
+
+Listen to KOMO Radio anytime online.
+
+[](http://www.komonews.com/home/ondemand/4378321.html "RSS Feeds")
+
+Get news and updates as soon as they're published.
+
+[](https://web.archive.org/news/radio "Audio Center")
+
+The latest audio from KOMO Radio.
+
+| 
