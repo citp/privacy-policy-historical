@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tbd.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225210035id_/http%3A//www.tbd.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbd.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602093456id_/http%3A//www.tbd.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TeeBeeDee
 
-Last Updated: November 30, 2007
+Last Updated: January 15, 2008
 
 [](http://www.truste.org/ivalidate.php?url=www.tbd.com&sealid=101)
 
@@ -42,11 +42,11 @@ TeeBeeDee uses the TRUSTe trademark and other marks under license from TRUSTe pu
 
 _Registration_
 
-In order to become a TeeBeeDee member, you must first create an account on the TeeBeeDee web site. To create an account you are required to provide the following contact information: user name, email address, country, ZIP/postal code), and choose a password.
+In order to become a TeeBeeDee member, you must first create an account on the TeeBeeDee web site. To create an account you are required to provide the following contact information: user name, email address, country, ZIP/postal code), and choose a password. Please keep in mind that your user name will be publicly available on the site.
 
 _Profile Information_
 
-Once a member, you may provide additional information in the Profile section. Providing additional information beyond what is required at registration is entirely optional, but enables you to better find relevant content from TeeBeeDee and our other members. Examples include hobbies, favorite books and music reviews.
+Once a member, you may provide additional information in the Profile section. Providing additional information beyond what is required at registration is entirely optional, but enables you to better find relevant content from TeeBeeDee and our other members. Examples include hobbies, favorite books and music reviews. Profile information is publicly available on the site.
 
 _Cookies & Log Files_
 
@@ -126,7 +126,7 @@ We may provide third parties with aggregated or anonymous data about our users a
 
 _Discussions_
 
-If you enter a discussion room on TeeBeeDee, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other members of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. We may remove the posting and/or terminate the account of any visitor who submits inappropriate content to our discussions.  
+If you enter into a discussion on TeeBeeDee, you should be aware that your posts are public and any personally identifiable information you submit there can be read, collected, or used by other members, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these discussions. We may remove the posting and/or terminate the account of any visitor who submits inappropriate content to our discussions.  
 _  
 Communications between Members_
 
@@ -158,10 +158,10 @@ If you have questions or comments about this privacy policy, please email us at 
 
 TeeBeeDee Inc.  
 Attn: Privacy Policy Issues  
-121 Second Street Suite 300  
-San Francisco, CA 94105
+268 Bush Street #3241  
+San Francisco, CA 94104
 
 ## Recent Updates.
 
-We have recently updated this document to include information regarding our Find a Friend and Invite a Friend features.  
+We have recently updated this document to include information regarding our Find a Friend and Invite a Friend features, to further clarify that profile information and discussion content is publicly available, and to update our mailing address.  
 
