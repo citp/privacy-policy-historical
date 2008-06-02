@@ -1,0 +1,534 @@
+<!--The following is the downloaded HTML source of the neutralexistence.com privacy policy that was archived on 2008-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080602054226id_/http%3A//www.neutralexistence.com/legal/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="copyright" content="Copyright © 2008  Neutral Existence LLC">
+<meta name="keywords" content=", Neutral Existence, carbon reduction, environment, co2 emissions, Carbon Offsets, Green Building, stop global warming">
+<meta name="Description" content="Do Your Part and help save Earths future by reducing your environmental footprint while saving tens of thousands of dollars in the process. The solution is easy and cheap!">
+<meta name="Revisit-after" content="1 days">
+<meta name="Rating" content="general">
+<meta name="blogcatalog" content="9BC8799180">
+<meta name="Robots" content="All">
+<meta name="Classification" content="Business">
+<link rel="shortcut icon" href="http://images.neutralexistence.com/favicon.ico">
+
+<link rel="stylesheet" type="text/css" media="all" href="http://www.neutralexistence.com/?css=site/NEcss.v.1209424212">
+<style type="text/css" media="screen">@import "http://www.neutralexistence.com/?css=site/NEcss.v.1209424212";</style>
+<link rel="stylesheet" href="http://www.neutralexistence.com/tabstyle.css" type="text/css" media="screen">
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.neutralexistence.com/feeds/rss_2.0/">
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.neutralexistence.com/feeds/atom/">
+
+<title>Privacy Policy | Neutral Existence LLC</title>
+	
+<script type="text/javascript">
+// <![CDATA[
+// ------------------------------------
+//  Edit Comment Box
+// -------------------------------------
+
+function edit_comment(comment_id)
+{
+	var ourBox = document.getElementById('edit_comment_box_'+comment_id);
+	
+	if (ourBox.style.display == 'none')
+		ourBox.style.display = 'block';
+	else
+		ourBox.style.display = 'none';
+}
+
+// ------------------------------------
+//  Handles the AJAX Requests
+// -------------------------------------    
+
+function submit_edited_comment(comment_id)
+{
+	try
+	{
+		XMLHttp = new ActiveXObject("Msxml2.XMLHTTP");
+	}
+	catch (e)
+	{
+		try
+		{
+			XMLHttp = new ActiveXObject("Microsoft.XMLHTTP");
+		}
+		catch (e2)
+		{
+			XMLHttp = null;
+		}
+	}
+	
+	if( ! XMLHttp && typeof XMLHttpRequest != "undefined")
+	{
+		XMLHttp = new XMLHttpRequest();
+	}
+	
+	if ( ! XMLHttp)
+	{
+		alert('Browser Not Support'); return false;
+	}
+	
+	var bleah = document.getElementById('edit_comment_box_'+comment_id);
+	
+	var content = bleah.getElementsByTagName('textarea')[0].value;
+	
+	var data =  "comment_id=" + encodeURIComponent(comment_id) + 
+				"&comment=" + encodeURIComponent(content);
+	
+	XMLHttp.onreadystatechange = function () { result_of_comment_edit(comment_id); }
+	XMLHttp.open("POST", "http://www.neutralexistence.com/site/edit_comment/", true);
+	XMLHttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	XMLHttp.setRequestHeader("Connection", "close");
+	XMLHttp.send(data);
+}
+
+
+function result_of_comment_edit(comment_id)
+{
+	if (XMLHttp.readyState == 4)
+	{
+		document.getElementById('edit_comment_box_'+comment_id).style.display = 'none';
+	
+		if (XMLHttp.status != 200) 
+		{
+			alert("An error was encountered: " + XMLHttp.status);
+			return;
+		}
+		
+		var response = XMLHttp.responseText;
+		
+		if (response == 'null')
+		{
+			alert('Invalid Comment Edit');
+			return;
+		}
+		
+		document.getElementById('comment_box_' + comment_id).innerHTML = response;
+	}
+}
+// ]]>
+</script>	
+	
+
+<script type="text/javascript" src="/js/jquery.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+// toggles the COMMENT_ENTRIES on clicking the noted link
+$('a#comment_entries_toggle').click(function() {
+$('#comment_entries').slideToggle(400);
+return false;
+});
+// toggles the LEAVE_COMMENT on clicking the noted link
+$('a#leave_comment_toggle').click(function() {
+$('#leave_comment').slideToggle(400);
+return false;
+});
+}); // END
+</script>
+
+
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_udn="none";
+_ulink=1;
+_uacct = "UA-488785-6";
+urchinTracker();
+</script>
+</head>
+<body>
+<div id="container">
+
+<div id="header">
+<img id="logo" src="http://images.neutralexistence.com/logo.jpg" alt="Neutral Existence" border="0">
+<a href="http://www.solarpowerfor.us"><img id="banner" src="http://images.neutralexistence.com/solar728_90.gif" alt="Go Solar Now!" height="90" width="728"></a>
+<h1>"Help The Planet, Save Money &amp; Brag About It"</h1>
+ <div id="nav">
+<ul>
+<!-- CSS Tabs -->
+<li><a href="http://www.neutralexistence.com/" title="Home">Home</a></li>
+<li> <a href="http://www.neutralexistence.com/shop/" title="Green Products">Shop</a></li>
+<li> <a href="http://www.neutralexistence.com/blog/" title="Our Blog">NE Blog</a></li>
+<li><a href="http://my.neutralexistence.com" title="Our Community">Community</a></li>
+<li> <a href="http://www.neutralexistence.com/begreen/" title="green your life">Be Green</a></li>
+<li><a href="http://www.neutralexistence.com/resources/" title="helpful resources">Resources</a></li>
+</ul>
+ </div>
+
+<!-- subnav start -->
+<div id="subnav">
+<!-- CSS submenus -->
+<ul>
+
+<li>|</li><li><a href="http://www.neutralexistence.com/legal/copyright-info/">Copyright Info</a></li>
+
+<li>|</li><li id="current"><a href="http://www.neutralexistence.com/legal/privacy-policy/">Privacy Policy</a></li>
+
+<li>|</li><li><a href="http://www.neutralexistence.com/legal/legal-disclaimner/">Legal Disclaimner</a></li>
+
+<li>|</li><li><a href="http://www.neutralexistence.com/legal/terms-of-service/">Terms Of Service</a></li>
+
+</ul>
+</div>
+<!-- subnav end -->
+</div>
+
+<!--main wrapper start-->
+<div id="wrapper">
+<!--main content start-->
+  <div id="content">
+
+<!--far right float wrapper @ 300px start-->
+   <div id="right_wrap">
+    <div class="rimage">
+	<img src="http://images.neutralexistence.com/gavel.gif" alt="law-gavel" boarder="0" height="300" width="300">
+    </div>
+   </div>
+<!--far right float wrapper @ 300px end-->
+
+ 
+
+<h2>Privacy Policy</h2>
+
+<p></p><p>("I" and “we” refers to Neutral Existence LLC and/or its owner, Adam Beazley) 
+</p>
+<p>
+I am committed to keeping all of your personal details safe and secure. My privacy policy strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+</p>
+<p>
+<strong>Collecting Your Personal Information:</strong>
+</p>
+<p>
+I am committed to protecting your privacy. I will only use the information that I collect about you lawfully (in accordance with the Data Protection Act 1998). I will not pass on your details to any third party entities.
+</p>
+<p>
+The type of information I “may” collect about you includes:
+</p>
+<p>
+<i>Your full name 
+<br>
+Your e-mail address 
+<br>
+Your postal address 
+<br>
+Your sex 
+<br>
+Your height 
+<br>
+Your weight 
+<br>
+Your age 
+<br>
+Your personal enery usage</i>
+</p>
+<p>
+Generally, this information is requested when you are joining and or using our free online social network, when you purchase any of my products, or when you subscribe to my newsletters. The information I hold will be accurate and up to date. You can check the information that I hold about you by e-mailing us at: <script type="text/javascript">
+//<![CDATA[
+var l=new Array();
+l[0]='>';l[1]='a';l[2]='/';l[3]='<';l[4]=' 109';l[5]=' 111';l[6]=' 99';l[7]=' 46';l[8]=' 101';l[9]=' 99';l[10]=' 110';l[11]=' 101';l[12]=' 116';l[13]=' 115';l[14]=' 105';l[15]=' 120';l[16]=' 69';l[17]=' 108';l[18]=' 97';l[19]=' 114';l[20]=' 116';l[21]=' 117';l[22]=' 101';l[23]=' 78';l[24]=' 64';l[25]=' 116';l[26]=' 114';l[27]=' 111';l[28]=' 112';l[29]=' 112';l[30]=' 117';l[31]=' 83';l[32]='>';l[33]='\"';l[34]=' 109';l[35]=' 111';l[36]=' 99';l[37]=' 46';l[38]=' 101';l[39]=' 99';l[40]=' 110';l[41]=' 101';l[42]=' 116';l[43]=' 115';l[44]=' 105';l[45]=' 120';l[46]=' 69';l[47]=' 108';l[48]=' 97';l[49]=' 114';l[50]=' 116';l[51]=' 117';l[52]=' 101';l[53]=' 110';l[54]=' 64';l[55]=' 116';l[56]=' 114';l[57]=' 111';l[58]=' 112';l[59]=' 112';l[60]=' 117';l[61]=' 83';l[62]=':';l[63]='o';l[64]='t';l[65]='l';l[66]='i';l[67]='a';l[68]='m';l[69]='\"';l[70]='=';l[71]='f';l[72]='e';l[73]='r';l[74]='h';l[75]='a ';l[76]='<';
+for (var i = l.length-1; i >= 0; i=i-1){ 
+if (l[i].substring(0, 1) == ' ') document.write("&#"+unescape(l[i].substring(1))+";"); 
+else document.write(unescape(l[i]));
+}
+//]]>
+</script><a href="mailto:Support@neutralExistence.com">Support@NeutralExistence.com</a>. If you find any inaccuracies we will delete or correct it promptly.
+</p>
+<p>
+<strong>How I Control Your Personal Information:</strong>
+</p>
+<p>
+I will not use your personal information for any other reason other than to contact you. We do not sell, give away or rent your email address to any third party. If in the future I did for any reason wish to rent, sell or use your email address for any other purpose we will ask you for your express permission first.
+</p>
+<p>
+<strong>How We Use Your Personal Information:</strong>
+</p>
+<p>
+Your personal information is used for four main purposes and they are as follows:
+</p>
+<p>
+1. To send out information, recommendations and resources to you.
+<br>
+2. To provide assistance to you after you have joined our social networking site.
+<br>
+3. To help me create and deliver content most relevant to you.
+<br>
+4. To enlighten you about new products, services, tool, upgrades, special offers and information which I feel may be of use to you. 
+</p>
+<p>
+I will only disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: 
+</p>
+<p>
+(a) Conform to the edicts of the law or comply with legal process served on Neutral Existence;
+<br>
+(b) Protect and defend the rights or property of Neutral Existence;
+<br>
+(c) Act in urgent circumstances to protect the personal safety of users of NeutralExistence.com
+</p>
+<p>
+Adam Beazley, CEO
+<br>
+Neutral Existence LLC
+<br>
+
+</p><p></p>
+
+
+
+
+
+  </div>
+<!--main content end -->
+</div>
+<!--main wrapper end -->
+<!-- ========left sidebar start======== -->
+
+<!--search bar start-->
+<div id="search">
+<form method="post" action="http://www.neutralexistence.com/">
+<div class="hiddenFields">
+<input type="hidden" name="ACT" value="19">
+<input type="hidden" name="XID" value="d02d8c9b1bc3798f1698d1ac1cecf0c5">
+<input type="hidden" name="RP" value="search&amp;#47;results">
+<input type="hidden" name="NRP" value="">
+<input type="hidden" name="RES" value="">
+<input type="hidden" name="status" value="">
+<input type="hidden" name="weblog" value="">
+<input type="hidden" name="search_in" value="everywhere">
+<input type="hidden" name="where" value="all">
+<input type="hidden" name="site_id" value="1">
+</div>
+
+
+<input id="textbox" type="text" name="keywords" value="" size="25" maxlength="100" style="border:1px solid #A15A3F; background-color:#F6EFE1">
+<input value="submit" id="submit" type="image" src="http://images.neutralexistence.com/search.gif">
+<a href="http://www.neutralexistence.com/search/">Advanced Search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.neutralexistence.com/search/donate-search/">Donate Search Proceeds</a>
+</form>
+</div>
+<!--search bar end-->
+
+<!--Join Us side bar start-->
+<div id="side">
+<div id="head"><strong>Join Our Community:</strong></div>
+<ul>
+<li>-Get Expert Advice In Forums &amp; Chatrooms</li>
+<li>-Reduce Emissions &amp; Calculate The Results</li>
+<li>-Earn Green Rankings &amp; Brag To Everone</li>
+<li>-Create a Profile &amp; Advertise Your Business</li>
+<li>-Receive Weekly Green Tips &amp; Save Money</li>
+<li>&nbsp;<a href="http://my.neutralexistence.com/join_us.php">Join The Neutral Existence Community Now!</a></li>
+</ul>
+</div>
+<!--Join Us side bar end-->
+
+<!--Newsletter side bar start-->
+<div id="side">
+<div id="head"><strong>Weekly Eco-Tips:</strong></div>
+<form action="http://www.getresponse.com/cgi-bin/add.cgi" method="post" name="signup">
+<input type="hidden" name="category1" value="neutralexistence">
+<input type="hidden" name="confirmation" value="http://www.NeutralExistence.com/index.php/site/thanks">
+<input type="hidden" name="ref" value="NES">
+<ul><li>
+Subscribe to our weekly CO2 reduction tips; Learn alot, Help alot &amp; Save alot too!
+</li>
+<li>Name: <input id="textbox" type="text" name="category2" value="" size="16" maxlength="100" style="border:1px solid #A15A3F; background-color:#F6EFE1">
+<input value="submit" id="subscribe" type="image" src="http://images.neutralexistence.com/subscribe.gif">
+</li><li>Email: <input id="textbox" type="text" name="category3" value="" size="34" maxlength="100" style="border:1px solid #A15A3F; background-color:#F6EFE1"></li>
+
+</ul></form></div>
+<!--Newsletter side bar end-->
+
+<!--meet members side bar start-->
+<div id="side">
+<div id="head"><strong>Meet Our Members:</strong></div>
+<ul><li>
+<table boarder="0" width="100%">
+		
+<!-- new people printout-->
+  <tbody><tr>
+  <td width="65"><a href="http://my.NeutralExistence.com/view_profile.php?member_id=211"><img alt="Male" src="http://images.neutralexistence.com/male.gif" width="60" border="0"></a></td>
+
+  <td align="left"><div id="user"><a href="http://my.NeutralExistence.com/view_profile.php?member_id=211">Josh</a>		
+		  </div>
+  <br>
+	 
+  Age: <b>19 </b> Gender: <b>Male</b><br>
+  Location: <b>Sewell		,
+		NJ</b><br>
+		  CO<sub>2</sub> Reduction: <b>0&nbsp;lbs.</b>
+  </td></tr>
+  <tr><td colspan="3" valign="top">
+  Rankings: 
+	<img alt="Im Green" src="http://images.neutralexistence.com/Bhand_grass_button.gif" border="0">  </td></tr><tr><td colspan="3"><hr></td></tr>	
+<!-- new people -->
+
+		
+<!-- new people printout-->
+  <tr>
+  <td width="65"><a href="http://my.NeutralExistence.com/view_profile.php?member_id=207"><img alt="Male" src="http://images.neutralexistence.com/male.gif" width="60" border="0"></a></td>
+
+  <td align="left"><div id="user"><a href="http://my.NeutralExistence.com/view_profile.php?member_id=207">Ronak</a>		
+		  </div>
+  <br>
+	 
+  Age: <b>3 </b> Gender: <b>Male</b><br>
+  Location: <b>Raleigh		,
+		NC</b><br>
+		  CO<sub>2</sub> Reduction: <b>0&nbsp;lbs.</b>
+  </td></tr>
+  <tr><td colspan="3" valign="top">
+  Rankings: 
+	<img alt="Im Green" src="http://images.neutralexistence.com/Bhand_grass_button.gif" border="0">  </td></tr><tr><td colspan="3"><hr></td></tr>	
+<!-- new people -->
+
+		
+<!-- new people printout-->
+  <tr>
+  <td width="65"><a href="http://my.NeutralExistence.com/view_profile.php?member_id=234"><img alt="Female" src="http://images.neutralexistence.com/female.gif" width="60" border="0"></a></td>
+
+  <td align="left"><div id="user"><a href="http://my.NeutralExistence.com/view_profile.php?member_id=234">Alyssa</a>		
+		  </div>
+  <br>
+	 
+  Age: <b>3 </b> Gender: <b>Female</b><br>
+  Location: <b>Bowling Green		,
+		KY</b><br>
+		  CO<sub>2</sub> Reduction: <b>0&nbsp;lbs.</b>
+  </td></tr>
+  <tr><td colspan="3" valign="top">
+  Rankings: 
+	<img alt="Im Green" src="http://images.neutralexistence.com/Bhand_grass_button.gif" border="0"><img alt="I Dont Use Gas" src="http://images.neutralexistence.com/Bgas_neuse_button.gif" border="0">  </td></tr><tr><td colspan="3"><hr></td></tr>	
+<!-- new people -->
+
+		</tbody></table>
+</li>	
+</ul>
+<div align="center"><a href="http://my.neutralexistence.com/browse.php">Meet More Members!</a></div>
+</div>
+<!--meet members side bar end-->
+
+<!--member login side bar start-->
+<div id="side">
+<div id="head"><strong>Member Login:</strong></div>
+	<form name="frm" method="post" action="http://my.neutralexistence.com/login1.php">
+	
+<ul>
+<li>E-mail: &nbsp;<input type="text" name="email" size="33" maxlength="255" style="border:1px solid #A15A3F; background-color:#F6EFE1" value=""></li>
+<li>Passwd: <input id="textbox" type="password" name="password" value="" size="20" maxlength="100" style="border:1px solid #A15A3F; background-color:#F6EFE1"><input value="submit" id="subscribe" type="image" src="http://images.neutralexistence.com/login.gif"></li>
+<li><input type="checkbox" name="remember_email" value="on"> Remember Email &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://my.neutralexistence.com/forgot_password.php">Forgot Password?</a></li>
+
+</ul></form></div>
+<!--member login side bar end-->
+
+<!--footer wrapper start-->
+<div id="footer">
+
+<!--footer rounded corners start-->
+<div class="t"><div class="b"><div class="l"><div class="r">
+<div class="bl"><div class="br"><div class="tl"><div class="tr">
+
+<table id="foot_contain"><tbody><tr>
+
+<td width="200px" valign="top">
+<span>ABOUT NEUTRAL EXISTENCE</span>
+<div class="limage"><img src="http://images.neutralexistence.com/contact.gif" alt="About Neutral Existence"></div>
+<p>
+<a href="http://www.neutralexistence.com/about/our-vision/">Our Vision</a><br>
+
+<a href="http://www.neutralexistence.com/about/site-instructions/">Site Instructions</a><br>
+
+<a href="http://www.neutralexistence.com/about/writers-bios/">Writer’s Bios</a><br>
+
+<a href="http://www.neutralexistence.com/about/write-for-us/">Write For Us</a><br>
+
+<a href="http://www.neutralexistence.com/about/contact-us/">Contact Us</a><br>
+
+</p>
+</td>
+<td class="l"></td>
+
+<td width="200px" valign="top">
+<span>SHOP NEUTRAL EXISTENCE</span>
+<div class="limage"><img src="http://images.neutralexistence.com/shop.gif" alt="Shop Neutral Existence"></div>
+<p>
+
+<a href="http://www.neutralexistence.com/shop/home-energy-savers/C30/">Home Energy Savers</a><br>
+
+<a href="http://www.neutralexistence.com/shop/solar-products/C32/">Solar Products</a><br>
+
+<a href="http://www.neutralexistence.com/shop/wind-products/C31/">Wind Products</a><br>
+
+<a href="http://www.neutralexistence.com/shop/water-products/C33/">Water Products</a><br>
+
+<a href="http://www.neutralexistence.com/shop/fuel-savers/C29/">Fuel Savers</a><br>
+
+</p>
+</td>
+<td class="l"></td>
+
+<td width="200px" valign="top">
+<span>STAY CONNECTED W/ US</span>
+<div class="limage"><img src="http://images.neutralexistence.com/rss.gif" alt="Stay Connected"></div>
+<p>
+<a href="http://feeds.feedburner.com/NeutralExistence" title="RSS Feed">RSS Feed</a><br>
+<a href="http://www.neutralexistence.com/feeds/atom/" title="Atom Feed">Atom Feed</a><br>
+
+<a href="http://www.neutralexistence.com/feeds/feeds-by-category/">Feeds By Category</a><br>
+
+<a href="http://www.neutralexistence.com/feeds/feed-directions/">Feed Directions</a><br>
+
+</p>
+</td>
+<td class="l"></td>
+
+<td width="200px" valign="top">
+<span>ADVERTISE W/ US&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<div class="limage"><img src="http://images.neutralexistence.com/advertise.gif" alt="Advertise With Us"></div>
+<p>
+
+<a href="http://www.neutralexistence.com/advertise/tell-a-friend/">Tell A Friend</a><br>
+
+<a href="http://www.neutralexistence.com/advertise/promote-our-site/">Promote Our Site</a><br>
+
+<a href="http://www.neutralexistence.com/advertise/advertise-with-us/">Advertise With Us</a><br>
+
+<a href="http://www.neutralexistence.com/advertise/affiliate-program/">Affiliate Program</a><br>
+
+</p>
+</td>
+<td class="l"></td>
+
+<td width="200px" valign="top">
+<span>LEGAL INFORMATION&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<div class="limage"><img src="http://images.neutralexistence.com/legal.gif" alt="Legal Information"></div>
+<p>
+<a href="http://www.neutralexistence.com/legal/terms-of-service/">Terms Of Service</a><br>
+
+<a href="http://www.neutralexistence.com/legal/legal-disclaimner/">Legal Disclaimner</a><br>
+
+<a href="http://www.neutralexistence.com/legal/privacy-policy/">Privacy Policy</a><br>
+
+<a href="http://www.neutralexistence.com/legal/copyright-info/">Copyright Info</a><br>
+
+</p>
+</td>
+</tr>
+</tbody></table>
+
+</div></div></div></div>
+</div></div></div></div> 
+<!--footer rounded corners end-->
+
+</div>
+<!--footer wrapper end-->
+<div id="copyright">
+<span id="copy">Copyright © 2008, Neutral Existence LLC, all rights reserved.</span><span id="info"><a href="http://www.expressionengine.com/index.php?affiliate=adam" title="ExpressionEngine Content Management System" target="_blank">Powered by ExpressionEngine</a> | <a href="http://www.neutralexistence.com/site/sitemap">Sitemap</a></span>
+<div align="center"><!-- P.1.2.397.1208588298 --><a target="_self" href="http://www.flightfind.co.uk">Flights</a> - <a target="_self" href="http://www.moneyexpert.com/Insurance/Home.aspx">Cheap Car Insurance</a> - <a target="_self" href="http://www.debtbusterloans.com">Loans</a> - <a target="_self" href="http://www.bloomingdesert.com">Phoenix Pools</a></div>
+</div>
+
+<!--main container end-->
+</div>
+
+</body></html>
