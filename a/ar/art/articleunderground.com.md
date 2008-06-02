@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleunderground.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228203329id_/http%3A//www.articleunderground.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleunderground.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602020749id_/http%3A//www.articleunderground.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Article Underground Privacy Policy
 
@@ -35,7 +35,7 @@ Creative Power
 Studio City, CA 91604  
 (310) 734-1574 
 
-Questions??? email: [article@articleunderground.com](mailto:article@articleunderground.com)
+Questions??? email: [articles@articleunderground.com](mailto:articles@articleunderground.com)
 
 Get traffic fast! [Announce Your Search Engines Articles to the world at Announced!](http://www.announced.us/category/search-engines/)
 
