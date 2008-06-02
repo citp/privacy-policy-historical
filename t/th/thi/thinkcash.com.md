@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the thinkcash.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201171836id_/http%3A//www.thinkcash.com/modules/privacypolicy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkcash.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603000745id_/http%3A//www.thinkcash.com/modules/privacypolicy/default.aspx) for the most accurate reproduction.*
 
-# Personal Loans with No Faxing - ThinkCash
+# ThinkCash Privacy Policy
 
 Select State:    
 Please select your state of residence to view the applicable privacy policy.
-
-## ThinkCash Privacy Policy
 
 At ThinkCash your privacy is important to us. This Privacy Policy describes the information we collect and how we use that information and is applicable if you have applied for service with ThinkCash, or if you are a current or former customer. This Privacy Policy is effective as of April 6, 2007. 
 
