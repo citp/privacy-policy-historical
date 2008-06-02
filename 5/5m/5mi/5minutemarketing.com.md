@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 5minutemarketing.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227114426id_/http%3A//www.5minutemarketing.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5minutemarketing.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602172539id_/http%3A//5minutemarketing.com/legal_privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy — 5MinuteMarketing.com - Flyers and postcards for real estate direct mail marketing and advertising
+# Products — 5MinuteMarketing.com - Flyers and postcards for real estate direct mail marketing and advertising
 
 **Privacy Policy**
 
