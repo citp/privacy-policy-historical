@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonepeople.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231235757id_/http%3A//www.phonepeople.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonepeople.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602034054id_/http%3A//www.phonepeople.com/%28S%28aj1wou55jlje5555vtdoiw55%29%29/privacy.aspx) for the most accurate reproduction.*
 
 # PhonePeople.com - Search and Find 800 Numbers
 
