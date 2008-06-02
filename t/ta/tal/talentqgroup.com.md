@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talentqgroup.com privacy policy that was archived on 2007-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070718173718id_/http%3A//www.talentqgroup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentqgroup.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602155416id_/http%3A//www.talentqgroup.com/privacy.aspx) for the most accurate reproduction.*
 
 # Talent Q - Privacy
 
