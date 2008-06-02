@@ -1,0 +1,1086 @@
+<!--The following is the downloaded HTML source of the empoweringparents.com privacy policy that was archived on 2008-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080602093036id_/http%3A//www.empoweringparents.com/privacypolicy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>EmpoweringParents.com</title>
+
+<script type="text/javascript">
+var tags = new Array( 'p' );//'li',,'td','font'
+//var tags = new Array( 'p','span','a','td','font' );//'li',
+var pixelArray =  new Array('13','11','13','15','14','30','40');
+var emArray =  new Array('0.7','0.8','0.9','1.3','2.0','2.5','3');
+var initSize = 1;
+
+function fontSizer(inc,unit) 
+{
+	if (!document.getElementById)
+		return;
+	var size = inc;
+		/*size += inc;
+	if (size < 0 ) 
+	{
+		size = 0;
+	}
+	if (size > 10 )
+	{
+		size = 10;
+	}*/
+	initSize = inc;
+	if(initSize == 1)
+	{	changeTextImg(1);	}
+	else if(initSize == 2)
+	{	changeTextImg(2);	}
+	else if(initSize == 3)
+	{	changeTextImg(3);	}
+	
+	//alert(intSize);
+	getBody = document.getElementsByTagName('body')[0];
+	for (i = 0 ; i < tags.length ; i++ ) 
+	{
+		getallTags = getBody.getElementsByTagName(tags[i]);
+		for (k = 0 ; k < getallTags.length ; k++) 
+			getallTags[k].style.fontSize = (unit=='px') ? pixelArray[initSize]+unit: emArray[initSize]+unit;
+		
+		setCookie("SizeFont",initSize,30);
+	}
+	document.test.submit();
+}
+
+
+
+function changeTextImg(sizId)
+{
+	/*alert("Size ID "+sizId);*/
+	//alert("fontsize image : fontsize"+sizId+".gif");
+	document.getElementById('txtImg').innerHTML = '<span id="txtImg"><img src="images/fontsize'+sizId+'.gif" border="0" usemap="#fontsize"></span>';
+}
+
+
+
+
+function setCookie(c_name,value,expiredays)
+{	
+	var exdate=new Date();
+	exdate.setDate(exdate.getDate()+expiredays);
+	document.cookie=c_name+ "=" +escape(value)+
+	((expiredays==null) ? "" : ";expires="+exdate.toGMTString())
+	//return "Cookie Set";
+}
+
+function getCookie(c_name)
+{
+		var inc = 0;
+	//fontSizer(inc,'px','ol');
+	//alert("inc value : "+inc);
+	
+	unit = 'px';
+	if (!document.getElementById)
+		return;
+		
+	intSize = inc;
+	//alert("intSize value : "+intSize);
+	if(intSize == 1)
+	{	changeTextImg(1);	}
+	else if(intSize == 2)
+	{	changeTextImg(2);	}
+	else if(intSize == 3)
+	{	changeTextImg(3);	}
+	
+	getBody = document.getElementsByTagName('body')[0];
+	for (i = 0 ; i < tags.length ; i++ ) 
+	{
+		getallTags = getBody.getElementsByTagName(tags[i]);
+		for (k = 0 ; k < getallTags.length ; k++) 
+			getallTags[k].style.fontSize = (unit=='px') ? pixelArray[intSize]+unit: emArray[size]+unit;
+	}
+	
+	//return "";
+}
+
+
+function tagShowHide()
+{
+	if(document.getElementById("tagBox").style.display=='')
+	{
+		document.getElementById("tagImg").src='images/b_plus.png';
+		document.getElementById("tagBox").style.display='none';
+	}
+	else
+	{
+		document.getElementById("tagImg").src='images/b_minus.png';
+		document.getElementById("tagBox").style.display='';
+	}
+}
+
+</script>
+<link href="css/style.css" rel="stylesheet" type="text/css"></head>
+
+
+<body>
+<table width="1024" border="0" align="left" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td colspan="3" align="left" valign="top"><script src="scripts/dropin.js"></script>
+
+
+
+
+<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td rowspan="3" align="left" valign="top" class="topheaderimage"><p style="font-size: 13px;">&nbsp;</p></td>
+	<td height="65" align="left" valign="bottom">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="images/ep_logo.jpg" width="276" height="54" hspace="0" vspace="0" border="0" align="bottom">	</td>
+</tr>
+
+<tr>
+	<td align="left" valign="bottom">
+	<form name="GlobalSearch" method="post" action="GlobalSearchResults.php">
+		<table width="20%" border="0" align="right" cellpadding="0" cellspacing="2">
+		<tbody><tr>
+			<td colspan="2" align="left" valign="top" class="globalsearchsection">GLOBAL SEARCH </td>
+		</tr>
+		
+		<tr>
+			<td width="71%" align="left" valign="top">
+				<input name="glblSrch" type="text" size="15">
+			</td>
+			<td width="29%" align="left" valign="middle">
+				<input type="image" src="images/go_button.gif" alt="Submit">
+				<input type="hidden" name="Submit" value="Submit">
+			</td>
+		</tr>
+		</tbody></table>
+		</form>
+	</td>
+</tr>
+
+<tr>
+	<td align="left" valign="bottom">
+	<div id="main_menu">
+		<ul>
+			<li><a href="index.php">Home</a></li>
+			<li><a href="articles.php">Articles</a></li>
+			<li><a href="http://www.empoweringparents.com/blog">Blog</a></li>
+			<li><a href="OneMinuteTransformations.php">Audio</a></li>
+			<li><a href="about.php">About</a></li>
+			<li><a href="contact.php">Contact</a></li>
+			<li><!--<a href="#" onClick="javascript:moveObj('tellafriend');">--><a href="tellafriend.php">Tell A Friend</a></li>
+			<li><!--<a href="#" onClick="javascript:moveObj('tellafriend');">--><a href="https://store.empoweringparents.com">STORE</a></li>
+		</ul>
+	</div>
+	</td>
+</tr>
+</tbody></table>
+<!--Dropin div-->
+<div id="tellafriend">
+<table width="236" border="0" align="center" cellpadding="0" cellspacing="2">
+  <form name="form1" action="tellafriend.php" method="GET"></form>
+    <tbody><tr>
+      <td width="240" height="23" align="right" valign="middle">&nbsp;</td>
+      <td width="28" align="center" valign="bottom"><a href="#"><img src="images/tell_a_friend_close_btn.gif" width="22" height="18" hspace="0" vspace="0" border="0" align="top" onclick="javascript:hideObj('tellafriend');"></a></td>
+    </tr>
+    <tr>
+      <td height="38" colspan="2" align="left" valign="bottom" class="tellafriendcontent">Tell a Friend about Empowering Parents.<br>
+        <span class="tellafriendcontentsmall">Enter your friend's email address:</span></td>
+    </tr>
+    
+    <tr>
+      <td colspan="2" align="left" valign="middle"><input tabindex="1" name="email" value="" size="27" type="text" class="tellafriendinput">
+	  <input name="tellafriend" value="Go" src="images/tell_a_friend_go_btn.gif" type="image">
+       <!-- <a href="tellafriend.html"><img src="images/tell_a_friend_go_btn.gif" width="24" height="14" border="0" /></a>--></td>
+      </tr>
+  
+</tbody></table>
+</div>
+<!--Dropin div ends here--></td>
+  </tr>
+  <tr>
+    <td width="221" align="left" valign="top"><script language="javascript" type="text/javascript">
+function tagShowHide()
+{
+
+	for(n=0; n<50; n++)
+	{
+	var tagname = "tagBox_"+n;
+	if(document.getElementById(tagname).style.display=='')
+	{
+		//document.getElementById("tagImg").src='images/b_plus.png';
+		document.getElementById(tagname).style.display='none';
+	}
+	else
+	{
+		//document.getElementById("tagImg").src='images/b_minus.png';
+		document.getElementById(tagname).style.display='';
+	}
+	}
+}
+</script>
+
+
+<table width="221" border="0" align="left" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td height="88" align="center" valign="middle">
+		<a href="http://www.thetotaltransformation.com/?utm_medium=weblinks&amp;utm_source=ep&amp;utm_content=inside&amp;dsource=ep" target="_blank">
+			<img src="images/ttp.gif" width="161" height="56" hspace="0" vspace="0" border="0" align="middle">
+		</a>
+	</td>
+</tr>
+
+<!--<tr>
+	<td align="left" valign="top" class="dottedunderline">
+		<form action="articles.php" method="get" enctype="multipart/form-data">
+		<table width="90%" border="0" align="center" cellpadding="0" cellspacing="3">
+		<tr>
+			<td colspan="2" align="left" valign="top" class="globalsearchsection">SEARCH RELATED ARTICLES TO:</td>
+		</tr>
+		
+		<tr>
+			<td width="54%" align="left" valign="top">
+				<input name="searchKey" id="searchKey" type="text" value="" />
+			</td>
+			<td width="46%" align="left" valign="middle">
+				<input name="image2" type="image" value="Go!" src="images/go_button.gif" align="absmiddle" />
+			</td>
+		</tr>
+		</table>
+		</form>
+	</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top" class="dottedunderline">&nbsp;</td>
+</tr>-->
+
+<tr>
+	<td align="left" valign="top">
+		<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td colspan="3" align="left" valign="middle" class="subsectioncurveright">
+				<span class="subsectionheading">ARTICLES ABOUT</span>
+			</td>
+		</tr>
+		
+		<tr>
+			<td colspan="3" align="center" valign="top">&nbsp;</td>
+		</tr>
+		
+				<tr>
+			<td width="14%" align="center" valign="top" height="21">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent" height="21">
+				<a class="subcontentboldLink" href="category-Abusive-Behavior.php" target="_parent">&nbsp;Abusive Behavior</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent" height="21">(7)</td>
+		</tr>
+				<tr>
+			<td width="14%" align="center" valign="top" height="21">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent" height="21">
+				<a class="subcontentboldLink" href="category-Acting-Out.php" target="_parent">&nbsp;Acting Out</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent" height="21">(12)</td>
+		</tr>
+				<tr>
+			<td width="14%" align="center" valign="top" height="21">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent" height="21">
+				<a class="subcontentboldLink" href="category-Addiction.php" target="_parent">&nbsp;Addiction</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent" height="21">(3)</td>
+		</tr>
+				<tr>
+			<td width="14%" align="center" valign="top" height="21">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent" height="21">
+				<a class="subcontentboldLink" href="category-Adhd.add.php" target="_parent">&nbsp;Adhd/add</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent" height="21">(9)</td>
+		</tr>
+				<tr>
+			<td width="14%" align="center" valign="top" height="21">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent" height="21">
+				<a class="subcontentboldLink" href="category-Adolescent-Behavior.php" target="_parent">&nbsp;Adolescent Behavior</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent" height="21">(4)</td>
+		</tr>
+				<tr>
+			<td width="14%" align="center" valign="top" height="21">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent" height="21">
+				<a class="subcontentboldLink" href="category-Aggressive-Behavior.php" target="_parent">&nbsp;Aggressive Behavior</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent" height="21">(8)</td>
+		</tr>
+				<tr>
+			<td width="14%" align="center" valign="top" height="21">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent" height="21">
+				<a class="subcontentboldLink" href="category-Alcohol.php" target="_parent">&nbsp;Alcohol</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent" height="21">(3)</td>
+		</tr>
+				<tr>
+			<td width="14%" align="center" valign="top" height="21">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent" height="21">
+				<a class="subcontentboldLink" href="category-Antisocial-Behavior.php" target="_parent">&nbsp;Antisocial Behavior</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent" height="21">(5)</td>
+		</tr>
+				<tr>
+			<td width="14%" align="center" valign="top" height="21">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent" height="21">
+				<a class="subcontentboldLink" href="category-Behavior-Problems.php" target="_parent">&nbsp;Behavior Problems</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent" height="21">(14)</td>
+		</tr>
+				<tr>
+			<td width="14%" align="center" valign="top" height="21">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent" height="21">
+				<a class="subcontentboldLink" href="category-Blended-Families.php" target="_parent">&nbsp;Blended Families</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent" height="21">(5)</td>
+		</tr>
+				<tr>
+			<td width="14%" align="center" valign="top" height="21">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent" height="21">
+				<a class="subcontentboldLink" href="category-Bullying.php" target="_parent">&nbsp;Bullying</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent" height="21">(6)</td>
+		</tr>
+				<tr id="tagBox_0" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Child-Behavior.php" target="_parent">&nbsp;Child Behavior</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(2)</td>
+		</tr>
+				<tr id="tagBox_1" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Childhood-Phases.php" target="_parent">&nbsp;Childhood Phases</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(5)</td>
+		</tr>
+				<tr id="tagBox_2" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Children-5.10.php" target="_parent">&nbsp;Children 5/10</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(6)</td>
+		</tr>
+				<tr id="tagBox_3" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Computers.video-Games.tv.php" target="_parent">&nbsp;Computers/video Games/tv</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(3)</td>
+		</tr>
+				<tr id="tagBox_4" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Consequences.php" target="_parent">&nbsp;Consequences</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(17)</td>
+		</tr>
+				<tr id="tagBox_5" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Coping-Skills.php" target="_parent">&nbsp;Coping Skills</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(8)</td>
+		</tr>
+				<tr id="tagBox_6" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Defiant-Behavior.php" target="_parent">&nbsp;Defiant Behavior</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(4)</td>
+		</tr>
+				<tr id="tagBox_7" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Depression.php" target="_parent">&nbsp;Depression</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(3)</td>
+		</tr>
+				<tr id="tagBox_8" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Disabilities.php" target="_parent">&nbsp;Disabilities</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(1)</td>
+		</tr>
+				<tr id="tagBox_9" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Divorce.php" target="_parent">&nbsp;Divorce</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(3)</td>
+		</tr>
+				<tr id="tagBox_10" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Does-Your-Child-Say-This.php" target="_parent">&nbsp;Does Your Child Say This</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(8)</td>
+		</tr>
+				<tr id="tagBox_11" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Does-Your-Child-Say-This?.php" target="_parent">&nbsp;Does Your Child Say This?</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(8)</td>
+		</tr>
+				<tr id="tagBox_12" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Drug.alcohol-Use.php" target="_parent">&nbsp;Drug/alcohol Use</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(2)</td>
+		</tr>
+				<tr id="tagBox_13" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Eating-Disorders.php" target="_parent">&nbsp;Eating Disorders</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(1)</td>
+		</tr>
+				<tr id="tagBox_14" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Education-System.php" target="_parent">&nbsp;Education System</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(1)</td>
+		</tr>
+				<tr id="tagBox_15" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Effective-Parenting.php" target="_parent">&nbsp;Effective Parenting</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(13)</td>
+		</tr>
+				<tr id="tagBox_16" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Establishing-Structure.php" target="_parent">&nbsp;Establishing Structure</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(8)</td>
+		</tr>
+				<tr id="tagBox_17" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Exspouses.php" target="_parent">&nbsp;Exspouses</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(3)</td>
+		</tr>
+				<tr id="tagBox_18" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Family-Rules.norms.php" target="_parent">&nbsp;Family Rules/norms</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(16)</td>
+		</tr>
+				<tr id="tagBox_19" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Grandparenting.php" target="_parent">&nbsp;Grandparenting</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(1)</td>
+		</tr>
+				<tr id="tagBox_20" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Gut-Check-Series.php" target="_parent">&nbsp;Gut Check Series</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(3)</td>
+		</tr>
+				<tr id="tagBox_21" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Homework.php" target="_parent">&nbsp;Homework</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(3)</td>
+		</tr>
+				<tr id="tagBox_22" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Learning-Disabilities.php" target="_parent">&nbsp;Learning Disabilities</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(1)</td>
+		</tr>
+				<tr id="tagBox_23" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Lying.php" target="_parent">&nbsp;Lying</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(9)</td>
+		</tr>
+				<tr id="tagBox_24" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Managing-Stress.php" target="_parent">&nbsp;Managing Stress</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(2)</td>
+		</tr>
+				<tr id="tagBox_25" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Manipulation.php" target="_parent">&nbsp;Manipulation</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(7)</td>
+		</tr>
+				<tr id="tagBox_26" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Marital-Conflict.php" target="_parent">&nbsp;Marital Conflict</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(6)</td>
+		</tr>
+				<tr id="tagBox_27" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Medication.php" target="_parent">&nbsp;Medication</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(4)</td>
+		</tr>
+				<tr id="tagBox_28" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Motivation.php" target="_parent">&nbsp;Motivation</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(6)</td>
+		</tr>
+				<tr id="tagBox_29" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Negotiating.php" target="_parent">&nbsp;Negotiating</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(2)</td>
+		</tr>
+				<tr id="tagBox_30" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Older-Children.php" target="_parent">&nbsp;Older Children</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(3)</td>
+		</tr>
+				<tr id="tagBox_31" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Oppositional-Defiant-Disorder.php" target="_parent">&nbsp;Oppositional Defiant Disorder</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(1)</td>
+		</tr>
+				<tr id="tagBox_32" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Parenting-Differences.php" target="_parent">&nbsp;Parenting Differences</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(6)</td>
+		</tr>
+				<tr id="tagBox_33" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Personality-Changes.php" target="_parent">&nbsp;Personality Changes</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(1)</td>
+		</tr>
+				<tr id="tagBox_34" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Power-Struggles.php" target="_parent">&nbsp;Power Struggles</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(9)</td>
+		</tr>
+				<tr id="tagBox_35" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Problem.solving.php" target="_parent">&nbsp;Problem/solving</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(13)</td>
+		</tr>
+				<tr id="tagBox_36" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-School.related-Problems.php" target="_parent">&nbsp;School/related Problems</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(14)</td>
+		</tr>
+				<tr id="tagBox_37" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Sibling-Rivalry.php" target="_parent">&nbsp;Sibling Rivalry</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(3)</td>
+		</tr>
+				<tr id="tagBox_38" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Siblings.php" target="_parent">&nbsp;Siblings</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(4)</td>
+		</tr>
+				<tr id="tagBox_39" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Single-Parenting.php" target="_parent">&nbsp;Single Parenting</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(3)</td>
+		</tr>
+				<tr id="tagBox_40" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Stealing-And-Shoplifting.php" target="_parent">&nbsp;Stealing And Shoplifting</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(1)</td>
+		</tr>
+				<tr id="tagBox_41" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Stepparenting.php" target="_parent">&nbsp;Stepparenting</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(5)</td>
+		</tr>
+				<tr id="tagBox_42" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Substance-Abuse.php" target="_parent">&nbsp;Substance Abuse</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(3)</td>
+		</tr>
+				<tr id="tagBox_43" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Teens.php" target="_parent">&nbsp;Teens</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(12)</td>
+		</tr>
+				<tr id="tagBox_44" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Temper-Tantrums.php" target="_parent">&nbsp;Temper Tantrums</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(5)</td>
+		</tr>
+				<tr id="tagBox_45" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Toddlers.php" target="_parent">&nbsp;Toddlers</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(4)</td>
+		</tr>
+				<tr id="tagBox_46" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Tweens.php" target="_parent">&nbsp;Tweens</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(7)</td>
+		</tr>
+				<tr id="tagBox_47" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Verbal-Attack.php" target="_parent">&nbsp;Verbal Attack</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(4)</td>
+		</tr>
+				<tr id="tagBox_48" style="display:none">
+			<td width="14%" align="center" valign="top">
+				<img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage">
+			</td>
+			<td width="70%" align="left" valign="top" class="subcontent">
+				<a class="subcontentboldLink" href="category-Violent-Behavior.php" target="_parent">&nbsp;Violent Behavior</a>
+			</td>
+			<td width="16%" align="left" valign="top" class="subcontent">(7)</td>
+		</tr>
+				<tr>
+			<td colspan="3" align="center" valign="top" class="subcontent"><div align="right" class="viewalldiv"><a href="#" class="innerlinksgreysmall" onclick="javascript:tagShowHide();"><strong>+ View All</strong></a></div></td>
+		</tr>
+		</tbody></table>
+	</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" class="dottedunderline"><table width="96%" border="0" align="center" cellpadding="0" cellspacing="6">
+            <tbody><tr>
+              <td width="100%" colspan="2" align="left" valign="top" class="globalsearchsection">VIEWING OPTIONS:<br>
+                <br>
+                View as <a href="articles.php?opt=list" target="_parent" class="subpagelinks">List</a><br>
+                View by <a href="articles.php?opt=issue" target="_parent" class="subpagelinks">Issue</a></td>
+            </tr>
+            
+        </tbody></table></td>
+      </tr>
+	  
+	   <tr>
+        <td align="center" valign="top" class="dottedunderline" style="padding-top:10px;"><a href="http://empoweringparents.com/Empowering-Parents-News.php#ITEM9"><img src="images/logo.gif" width="70" height="70" border="0"></a><br>
+		<div style="padding-top:10px;"><font class="globalsearchsection"><em>EmpoweringParents.com</em><br>
+		Recognized as One of the<br>
+		    Best Parenting Websites in 2008</font></div></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" style="padding-top:10px;">&nbsp;</td>
+      </tr>
+	   <tr>
+        <td align="center" valign="top" style="padding-top:10px;"><form name="test" method="post" action=""><span id="txtImg"><img src="images/fontsize1.gif" border="0" usemap="#fontsize"></span></form></td>
+      </tr>
+     
+      
+      
+
+    </tbody></table>
+	<map name="fontsize">
+
+<area shape="rect" coords="75,15,91,37" href="#" onclick="fontSizer(1,'px')">
+<area shape="rect" coords="92,15,112,37" href="#" onclick="fontSizer(2,'px')">
+<area shape="rect" coords="112,15,129,37" href="#" onclick="fontSizer(3,'px')">
+
+</map>
+      
+      
+
+  </td>
+    <td align="left" valign="top"><table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="74" colspan="2" align="center" valign="middle" class="subpagecaption">PRIVACY POLICY</td>
+      </tr>
+	   <tr>
+        <td colspan="2" align="left" valign="top" class="content"><span class="headings">Privacy Policy<br>
+          <img src="images/dotted_line.gif" width="437" height="4" class="dottedimagepadding"></span></td>
+      </tr>
+      <tr>
+        <td colspan="2" align="left" valign="top" class="content"><div class="maincontent">
+				
+		<div class="subscriptionBody" style="width:530">			
+		<p class="ptext" style="font-size: 13px;">Legacy Publishing Company<br>
+		  10 Speirs Street<br>
+		  Westbrook, ME  04092<br>
+		  (207) 856-5600<br>
+		  <a href="mailto:service@legacypublishingcompany.com">service@legacypublishingcompany.com</a>
+			</p><p style="font-size: 13px;"><b>Your privacy on EmpoweringParents.com:</b>
+			</p><p style="font-size: 13px;">We want you to feel secure when visiting our site and are committed to maintaining your privacy when doing so. The following provides an overview of how we protect your privacy during your visit.
+			
+			</p><p style="font-size: 13px;"><b>What information do we gather?</b>
+			</p><p style="font-size: 13px;">Information on EmpoweringParents.com is gathered in two ways: (1) indirectly (for example, through our site's technology); and (2) directly (for example, when you provide information on various pages of EmpoweringParents.com). One example of information we collect indirectly is through our Internet access logs. When you access EmpoweringParents.com, your Internet address is automatically collected and is placed in our Internet access logs. We collect information directly from you in a number of ways, some of which we describe in this Privacy Statement. One way is through the use of cookies. Cookies are small files of information which save and retrieve information about your visit to EmpoweringParents.com - for example, how you entered our site, how you navigated through the site, and what information was of interest to you. The cookies we use identify you merely as a number. (If you are uncomfortable regarding cookies use, please keep in mind you can disable cookies on your computer by changing the settings in preferences or options menu in your browser.) We also collect information when you voluntarily submit it to us.
+			
+			</p><p style="font-size: 13px;"><b>How do we use this information?</b>
+			</p><p style="font-size: 13px;">We analyze it to determine what is most effective about our site, to help us identify ways to improve it, and eventually, to determine how we can tailor EmpoweringParents.com to make it more effective. We may also use data for other purposes, which we would describe to you at the point we collect the information.
+			
+			</p><p style="font-size: 13px;"><b>Will we share this with outside parties?</b>
+			</p><p style="font-size: 13px;">We will not sell individual information and will share it only with credit card processing firms in order to complete the sale.
+			
+			</p><p style="font-size: 13px;"><b>What about sensitive personal data?</b>
+			</p><p style="font-size: 13px;">We do not generally seek to collect sensitive personal data through this site.
+			
+			</p><p style="font-size: 13px;"><b>Do we give you access to your information?</b>
+			</p><p style="font-size: 13px;">You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be corrected if it is inaccurate. You can do this by contacting us via our webmaster at webmaster@EmpoweringParents.com.
+			
+			</p><p style="font-size: 13px;"><b>What about data security?</b>
+			</p><p style="font-size: 13px;">We take appropriate steps to maintain the security of your data on EmpoweringParents.com. You should understand that the open nature of the Internet is such that data may flow over networks without security measures and may be accessed and used by people other than those for whom the data is intended. That's it in a nutshell. The short of it is we are interested in maintaining your privacy and creating a valuable resource for you to use. If you have any questions now or during your visit, please contact us via our webmaster at webmaster@EmpoweringParents.com.
+		
+		</p>
+		
+		</div>
+	</div></td>
+      </tr>
+      <tr>
+        <td colspan="2" align="left" valign="top">&nbsp;</td>
+      </tr>
+      <!--<tr>
+        <td colspan="2" align="left" valign="top" class="content"><span class="subpagesubheading">Success Story <br />
+          <span class="headings"><img src="images/dotted_line.gif" width="437" height="4" class="dottedimagepadding" /></span></span></td>
+      </tr>
+       <tr>
+        <td colspan="2" align="left" valign="top" class="content"></td>
+        </tr>
+      <tr>
+        <td colspan="2" align="right" valign="top" class="content"><div align="right"><a href="#" class="innerlinksgrey"><strong>+ View All</strong></a></div></td>
+      </tr>-->
+      
+    </tbody></table></td>
+    <td width="211" align="left" valign="top"><script language="javascript">
+function nullName()
+{
+	if(document.EP_SignUp.first_name.value == "Your Name")
+	{
+		document.EP_SignUp.first_name.value = '';
+	}
+}
+
+function nullEmail()
+{
+	if(document.EP_SignUp.email.value == "Your Email")
+	{
+		document.EP_SignUp.email.value = '';
+	}
+}
+</script>
+
+<table width="211" border="0" align="right" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td height="83" align="center" valign="middle">
+	<a href="http://www.trytotalfocus.com/?utm_medium=weblinks&amp;utm_source=ep&amp;utm_content=home&amp;dsource=ep" target="_blank">
+		<img src="images/total-focus.gif" width="161" height="41" hspace="0" vspace="0" border="0" align="middle"></a>
+	</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top">
+		<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td width="100%" colspan="2" align="left" valign="middle" class="subsectioncurveleft">
+				<span class="subsectionheading">NEWSLETTER SIGNUP</span>
+			</td>
+		</tr>
+		
+		<tr>
+			<td colspan="2" align="left" valign="top" class="subcontent">
+				Enter your email address to receive our weekly newsletter
+			</td>
+		</tr>
+		
+		<tr>
+			<td colspan="2" align="left" valign="top" class="subcontent">
+				<form name="EP_SignUp" method="post" action="subscribe_new.php">
+				<table width="99%" border="0" align="left" cellpadding="0" cellspacing="0">
+				
+				<tbody><tr>
+					<td height="28" align="left" valign="top">
+						<input type="text" name="email" id="email" class="newsletterinput" onclick="nullEmail()" value="Your Email">
+				  </td>
+				</tr>
+				
+				<tr>
+					<td align="right" valign="middle">
+						<input type="image" src="images/newsletter-submit.gif" alt="Submit">
+						<input type="hidden" name="Submit" value="Submit">
+						<!--<img src="images/newsletter-submit.gif" width="58" height="14" hspace="0" vspace="0" border="0" align="middle" />-->				  </td>
+				</tr>
+				<tr>
+					<td align="right" valign="bottom" height="25">
+						<a href="pastNewsletters.php" class="innerlinks">View Email Archive</a>
+					</td>
+				</tr>
+				</tbody></table>
+				</form> 
+			</td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top">&nbsp;</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td colspan="2" align="left" valign="middle" class="subsectioncurveleft"><span class="subsectionheading">LATEST EP NEWS </span> </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" valign="top">&nbsp;</td>
+      </tr>
+            <tr>
+        <td width="12%" height="30" align="center" valign="top"><img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage"> </td>
+        <td width="88%" height="30" align="left" valign="top"><a class="subcontentboldLink" href="http://www.empoweringparents.com/Empowering-Parents-News.php#ITEM9" target="_blank">
+          EmpoweringParents.com Wins Prestigious iParenting Media Award for “Best Products of 2008”        </a> </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" valign="top" height="6"></td>
+      </tr>
+            <tr>
+        <td width="12%" height="30" align="center" valign="top"><img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage"> </td>
+        <td width="88%" height="30" align="left" valign="top"><a class="subcontentboldLink" href="http://www.empoweringparents.com/Empowering-Parents-News.php#ITEM8" target="_blank">
+          New Empowering Parents Blog Provides Weekly Insights for Parents in Crisis        </a> </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" valign="top" height="6"></td>
+      </tr>
+            <tr>
+        <td width="12%" height="30" align="center" valign="top"><img src="images/bullet.gif" width="7" height="7" hspace="0" vspace="0" border="0" align="top" class="pointerimage"> </td>
+        <td width="88%" height="30" align="left" valign="top"><a class="subcontentboldLink" href="http://www.empoweringparents.com/Empowering-Parents-News.php#ITEM5" target="_blank">
+          Empowering Parents: New Online Magazine Gives Parents “Skills They Can Use in a Judgment-free Zone”        </a> </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" valign="top" height="6"></td>
+      </tr>
+            <tr>
+        <td colspan="2" align="right" valign="top"><a href="Empowering-Parents-News.php" class="innerlinks">More...</a> </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" valign="top">&nbsp;</td>
+      </tr>
+    </tbody></table></td>
+</tr>
+
+<tr>
+	<td align="left" valign="top">
+		<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td width="100%" colspan="2" align="left" valign="middle" class="subsectioncurveleft">
+				<span class="subsectionheading">SPONSORED LINKS</span>
+			</td>
+		</tr>
+		
+		<tr>
+			<td height="224" colspan="2" align="center" valign="middle">
+			<a href="https://store.empoweringparents.com/?utm_medium=weblinks&amp;utm_source=ep&amp;utm_content=inside&amp;dsource=ep">
+			<img src="images/G2C-sponsored-link-back-in-stock.jpg" width="198" height="215" hspace="0" vspace="0" border="0" align="middle">
+			</a></td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table></td>
+  </tr>
+  
+  <tr>
+    <td colspan="3" align="left" valign="top"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td align="center" valign="middle">&nbsp;</td>
+</tr>
+
+<tr>
+	<td align="center" valign="middle" class="footer">
+		© 2008 Legacy Publishing Company. All Rights Reserved.<br>
+		<a href="privacypolicy.php" class="footerlink">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../unsubscribe.php" class="footerlink">Unsubscribe Here</a>&nbsp;|&nbsp;&nbsp;<a href="whitelist.php" class="footerlink">Whitelisting EmpoweringParents</a>
+	</td>
+</tr>
+</tbody></table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1547181-1");
+pageTracker._setDomainName("empoweringparents.com");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script></td>
+  </tr>
+</tbody></table>
+
+
+<script language="javascript">
+getCookie('SizeFont');
+</script>
+</body></html>
