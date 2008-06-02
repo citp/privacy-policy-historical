@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the yougov.co.uk privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926105050id_/http%3A//www.yougov.co.uk/Template/privacypolicy.asp%3FjID%3D0%26sID%3D1%26UID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yougov.co.uk privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603012602id_/http%3A//www.yougov.co.uk/extranets/yg/template/privacypolicy.asp) for the most accurate reproduction.*
 
-# YouGov plc - Understanding People
+# Welcome to YouGov
 
-In this YouGov Privacy Policy any defined terms will have the same meanings given to them in the YouGov [Terms and Conditions of Use](https://web.archive.org/Template/termsandconditions.asp?jID=0&sID=2&UID=).
+## Privacy Policy
+
+In this YouGov Privacy Policy any defined terms will have the same meanings given to them in the YouGov [terms and conditions of use](https://web.archive.org/extranets/yg/Template/termsandconditions.asp).
 
 It is YouGov's policy to respect the privacy of its Members. 
 
-YouGov will never edit, share or disclose any personal information about you without your prior consent. In the course of your membership of YouGov, YouGov may acquire personal data and information about you which you have provided in the course of registering with a YouGov Panel or participating in YouGov Activities. This information may include, your name, home address, email address, telephone number and other generic information provided in relation to your participation in specific YouGov Panels or YouGov Activities. This information will be treated in accordance with the Data Protection Act 1998 and also in accordance with the Market Research Society Code of Conduct which can be found at www.mrs.org.uk/standards/guidelines.htm.
+YouGov will never edit, share or disclose any personal information about you without your prior consent. In the course of your membership of YouGov, YouGov may acquire personal data and information about you which you have provided in the course of registering with a YouGov Panel or participating in YouGov Activities. This information may include, your name, home address, email address, telephone number and other generic information provided in relation to your participation in specific YouGov Panels or YouGov Activities. This information will be treated in accordance with the Data Protection Act 1998 and also in accordance with the Market Research Society Code of Conduct which can be found at [www.mrs.org.uk/standards/codeconduct.htm](http://www.mrs.org.uk/standards/codeconduct.htm).
 
-In this regard, YouGov undertakes only to use the data you supply to us according to the following conditions:-
+In this regard, YouGov undertakes only to use the data you supply to us according to the following conditions:
 
   1. We will not rent or sell any data which may personally identify you to any third party.
   2. You will never receive communications from any third party as a result of using the YouGov site, participating in YouGov research activities or becoming a YouGov panel member, unless you specifically opt to do so. 
@@ -33,13 +35,9 @@ In this regard, YouGov undertakes only to use the data you supply to us accordin
     * Changes which may affect your participation in YouGov activities
     * Panel care communications (e.g. account queries and / or complaints)
     * Payment or prize fulfilment
-
-
-
 Besides payment or prize fulfilment, communications will typically take place via email. YouGov will always use this communication method responsibly.
-
-  1. Like many other commercial websites we may use cookies. A cookie is a text file in the browser directory of your computer's hard drive. Any website other than the one that set up the cookie cannot read the cookie. Cookies will enable our website to recognise personally identifiable information you have voluntarily given us and we may use it to present you with custom web pages.
-  2. The Website contains links to other sites and vice versa. This privacy policy applies solely to information protected by YouGov on this Website.
-  3. We may update this privacy policy from time to time. If you have any comments or questions regarding this policy please feel free to contact us via this [link](https://web.archive.org/corporate/contactIntro.asp?zID=1&sID=6).
+  12. Like many other commercial websites we may use cookies. A cookie is a text file in the browser directory of your computer's hard drive. Any website other than the one that set up the cookie cannot read the cookie. Cookies will enable our website to recognise personally identifiable information you have voluntarily given us and we may use it to present you with custom web pages.
+  13. The Website contains links to other sites and vice versa. This privacy policy applies solely to information protected by YouGov on this Website.
+  14. We may update this privacy policy from time to time. 
 
 
