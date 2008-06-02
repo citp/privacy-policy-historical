@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidboards.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209105725id_/http%3A//www.rapidboards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidboards.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603004437id_/http%3A//www.rapidboards.com/privacy.php) for the most accurate reproduction.*
 
 # RapidBoards - Free Invision Power Board (IPB) Forum Hosting - Skin Uploads, Avatar Uploads, and More!
 
