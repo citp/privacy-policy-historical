@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetemperature.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205010925id_/http%3A//www.timetemperature.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetemperature.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602071819id_/http%3A//www.timetemperature.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -26,12 +26,12 @@ We use this information to help us make our site more useful to visitors - to le
 
  **Ad Servers**
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, you IP address, and clickstream information. We have no control over the information collected by such ad servers or how that information is used. For further information, consult the privacy policies of http://linkshare.com.
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, you IP address, and clickstream information. We have no control over the information collected by such ad servers or how that information is used.
 
  **Website Security**    1.For site security purposes and to ensure that this service remains available to all users, this computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.   
    2.Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes.   
    3.Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
 
-**Comments or Questions** If you have any comments or suggestions about the information presented here please [contact](http://www.timetemperature.com/contact.html) us. 
+**Comments or Questions** If you have any comments or suggestions about the information presented here please [contact](http://www.timetemperature.com/contact.html) us.
 
-[Return to Home Page](https://web.archive.org/web/20071205010925id_/http%3A//www.timetemperature.com/index.html)
+[Return to Home Page](https://web.archive.org/web/20080602071819id_/http%3A//www.timetemperature.com/index.html)
