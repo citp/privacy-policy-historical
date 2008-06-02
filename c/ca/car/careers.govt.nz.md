@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017092832id_/http%3A//www.careers.govt.nz/default.aspx%3Fid0%3D29900) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602070832id_/http%3A//www.careers.govt.nz/default.aspx%3Fid0%3D29900) for the most accurate reproduction.*
 
 # Career Services :: General :: Privacy Statement
-
-### Privacy Statement
 
   1. Introduction 
     * Careers Services maintains and hosts this web site, which is located at the URL careers.govt.nz and accessible through other URLs such as kiwicareers.govt.nz, careers.co.nz, kiwicareers.co.nz, and mahikiwi.govt.nz ("Site"). Any reference to "we" or "us" in this Privacy Statement refers to Careers Services.
