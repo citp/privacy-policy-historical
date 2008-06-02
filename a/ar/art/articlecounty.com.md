@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecounty.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211133915id_/http%3A//www.articlecounty.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecounty.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602232932id_/http%3A//www.articlecounty.com/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3Dc768f3f382940586812922320cba8950) for the most accurate reproduction.*
 
 # privacy ArticleCounty.com
 
