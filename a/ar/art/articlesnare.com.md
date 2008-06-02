@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesnare.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209105807id_/http%3A//www.articlesnare.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesnare.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602210615id_/http%3A//www.articlesnare.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
