@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229221036id_/http%3A//www.tsn.ca/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602174110id_/http%3A//www.tsn.ca/help/privacy) for the most accurate reproduction.*
 
-# TSN : HELP - Canada's Sports Leader
+# Help - Privacy Policy
 
-### CTVglobemedia Website Privacy Policy
+## CTVglobemedia Website Privacy Policy
 
 CTVglobemedia respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains CTVglobemedia Inc.'s and its subsidiaries' ("CTVglobemedia") treatment of your personally identifiable information collected in connection with your activities on or related to all CTVglobemedia websites referencing this Privacy Policy (the "CTVglobemedia Sites") and all services made available on the CTVglobemedia Sites (collectively, unless noted otherwise, the "CTVglobemedia Services"). This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information. 
 
@@ -80,7 +80,7 @@ If you decide at any time that you do not want to receive any e-mail materials t
 
 **QUESTIONS, COMMENTS OR SUGGESTIONS?**
 
-If you have questions, comments or suggestions about this Privacy Policy or CTVglobemedia's privacy practices that were not answered here, send us an e-mail. [here](https://web.archive.org/website/email_form.asp?mailto=tech). 
+If you have questions, comments or suggestions about this Privacy Policy or CTVglobemedia's privacy practices that were not answered here, send us an e-mail. [here](mailto:webmaster@tsn.ca?subject=**Feedback%20-%20Privacy%20Policy%20Question). 
 
 **CTVglobemedia USE OF NON-PERSONAL INFORMATION**   
 Non-Personal Information is collected or derived by us in the course of operating the CTVglobemedia Services. For example, our Web servers may automatically collect Non-Personal Information which is provided through your browser or stored on a Cookie or through a Web Beacon when you choose to visit a CTVglobemedia Service. 
