@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quill.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627074822id_/http%3A//www10.quillcorp.com/Content/Quill/Policy/C_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quill.com privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602182225id_/http%3A//www08.quillcorp.com/Content/Quill/Policy/C_privacy.asp) for the most accurate reproduction.*
 
 # Quill.com | Quill Respects Your Privacy
 
 | 
 
-U.S. Privacy Policy 
+**U.S. Privacy Policy**
 
 At Quill, we value our customers’ trust and respect their privacy. The following includes general information about our privacy policy and applies to all U.S. transactions (through our catalog businesses, or on our internet Web site). 
 
@@ -12,7 +12,7 @@ At Quill, we value our customers’ trust and respect their privacy. The followi
 
 * How we use and share personal information   
 
-* Special information about for Quill.com® shoppers  
+* Special information about for Quill.com shoppers  
 
 * How to let us know about your preferences   
 
