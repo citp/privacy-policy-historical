@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204121013id_/http%3A//pdaphonehome.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603065019id_/http%3A//pdaphonehome.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # PDAPhoneHome.com - Privacy Policy
 
@@ -7,15 +7,15 @@
   
 |  **» Current Poll**  
 ---  
-Do you use a screen protector on your i760?  
-Yes  
-No  
+Do you like my Special Edition Burberry i760  
+YES  
+NO  
   
-» [View Poll Results](http://pdaphonehome.com/forums/samsung-sch-i760/poll-547-do-you-use-screen-protector-your-i760.html)
+» [View Poll Results](http://pdaphonehome.com/forums/samsung-sch-i760/poll-569-do-you-like-my-special-edition-burberry-i760.html)
 
-» [Discuss This Poll](http://pdaphonehome.com/forums/newreply.php?t=97374)
+» [Discuss This Poll](http://pdaphonehome.com/forums/newreply.php?t=111357)
 
-» [This Poll Has 11 Replies](http://pdaphonehome.com/forums/samsung-sch-i760/97374-poll-do-you-use-screen-protector-your-i760.html)  
+» [This Poll Has 10 Replies](http://pdaphonehome.com/forums/samsung-sch-i760/111357-what-do-you-guys-think-my-skin.html)  
   
 **» Site Navigation**  
 ---  
@@ -80,15 +80,14 @@ No
 
 » [PDAPhoneHome News Archive](https://web.archive.org/index.php?page=news)  
   
-**» December 2007**  
+**» June 2008**  
 ---  
 S | M | T | W | T | F | S  
-25| 26| 27| 28| 29| 30|  1   
-2  |  3  |  4  |  5  |  6  |  7  |  8   
-9  |  10  |  11  |  12  |  13  |  14  |  15   
-16  |  17  |  18  |  19  |  20  |  21  |  22   
-23  |  24  |  25  |  26  |  27  |  28  |  29   
-30  |  31  | 1| 2| 3| 4| 5  
+1  |  2  |  3  |  4  |  5  |  6  |  7   
+8  |  9  |  10  |  11  |  12  |  13  |  14   
+15  |  16  |  17  |  18  |  19  |  20  |  21   
+22  |  23  |  24  |  25  |  26  |  27  |  28   
+29  |  30  | 1| 2| 3| 4| 5  
   
 **» Advertiser**  
 ---  
@@ -97,28 +96,34 @@ S | M | T | W | T | F | S
   
 **» Today's Birthdays**  
 ---  
-[gchaidez08](http://pdaphonehome.com/forums/members/gchaidez08.html) (57)  
-[wstlkcal1](http://pdaphonehome.com/forums/members/wstlkcal1.html) (53)  
-[laurenkirby](http://pdaphonehome.com/forums/members/laurenkirby.html) (52)  
-[oranian](http://pdaphonehome.com/forums/members/oranian.html) (45)  
-[lynn waring](http://pdaphonehome.com/forums/members/lynn-waring.html) (44)  
-[dyuyeno](http://pdaphonehome.com/forums/members/dyuyeno.html) (41)  
-[DFX](http://pdaphonehome.com/forums/members/dfx.html) (41)  
-[mrvanman](http://pdaphonehome.com/forums/members/mrvanman.html) (38)  
-[javeh2000](http://pdaphonehome.com/forums/members/javeh2000.html) (37)  
-[sistafonfreak](http://pdaphonehome.com/forums/members/sistafonfreak.html) (35)  
-[mezzomsa](http://pdaphonehome.com/forums/members/mezzomsa.html) (34)  
-[Dreamliner](http://pdaphonehome.com/forums/members/dreamliner.html) (34)  
-[tifosiv122](http://pdaphonehome.com/forums/members/tifosiv122.html) (27)  
-[masyrne](http://pdaphonehome.com/forums/members/masyrne.html) (26)  
-[halo1982](http://pdaphonehome.com/forums/members/halo1982.html) (25)  
-[exmorphius](http://pdaphonehome.com/forums/members/exmorphius.html) (23)   
+[Traveling2](http://pdaphonehome.com/forums/members/traveling2.html)  
+[Fuji0664](http://pdaphonehome.com/forums/members/fuji0664.html)  
+[MINERVA](http://pdaphonehome.com/forums/members/minerva.html)  
+[Skyliner](http://pdaphonehome.com/forums/members/skyliner.html)  
+[DJDoctaDawe](http://pdaphonehome.com/forums/members/djdoctadawe.html) (88)  
+[Robin Tuchler](http://pdaphonehome.com/forums/members/robin-tuchler.html) (64)  
+[DSG](http://pdaphonehome.com/forums/members/dsg.html) (61)  
+[LeifEn](http://pdaphonehome.com/forums/members/leifen.html) (57)  
+[jpdsr51](http://pdaphonehome.com/forums/members/jpdsr51.html) (57)  
+[leeh](http://pdaphonehome.com/forums/members/leeh.html) (49)  
+[triyoni](http://pdaphonehome.com/forums/members/triyoni.html) (48)  
+[bostonkarl](http://pdaphonehome.com/forums/members/bostonkarl.html) (46)  
+[95stealthtt](http://pdaphonehome.com/forums/members/95stealthtt.html) (43)  
+[mechintl](http://pdaphonehome.com/forums/members/mechintl.html) (43)  
+[iugalde](http://pdaphonehome.com/forums/members/iugalde.html) (42)  
+[Keen](http://pdaphonehome.com/forums/members/keen.html) (38)  
+[comanch3](http://pdaphonehome.com/forums/members/comanch3.html) (37)  
+[d-dawg](http://pdaphonehome.com/forums/members/d-dawg.html) (36)  
+[sbono13](http://pdaphonehome.com/forums/members/sbono13.html) (35)  
+[ssoggy](http://pdaphonehome.com/forums/members/ssoggy.html) (35)  
+[sdjernes](http://pdaphonehome.com/forums/members/sdjernes.html) (32)  
+[buffy](http://pdaphonehome.com/forums/members/buffy.html) (31)   
   
-**»[Online Users: 923](http://pdaphonehome.com/forums/online.php)**  
+**»[Online Users: 781](http://pdaphonehome.com/forums/online.php)**  
 ---  
-42 members and 881 guests  
-[apadan](http://pdaphonehome.com/forums/members/apadan.html), [bdavid01](http://pdaphonehome.com/forums/members/bdavid01.html), [BWinters](http://pdaphonehome.com/forums/members/bwinters.html), [cougargt](http://pdaphonehome.com/forums/members/cougargt.html), [CurtisZZZ](http://pdaphonehome.com/forums/members/curtiszzz.html), [d2globalinc](http://pdaphonehome.com/forums/members/d2globalinc.html), [Ed_Hunt](http://pdaphonehome.com/forums/members/ed_hunt.html), [evertec](http://pdaphonehome.com/forums/members/evertec.html), [genebopp](http://pdaphonehome.com/forums/members/genebopp.html), [hiker_5208](http://pdaphonehome.com/forums/members/hiker_5208.html), [horrible](http://pdaphonehome.com/forums/members/horrible.html), [jaste](http://pdaphonehome.com/forums/members/jaste.html), [jesco48](http://pdaphonehome.com/forums/members/jesco48.html), [jhalsey205](http://pdaphonehome.com/forums/members/jhalsey205.html), [JLM5151](http://pdaphonehome.com/forums/members/jlm5151.html), [larryg](http://pdaphonehome.com/forums/members/larryg.html), [lesmac](http://pdaphonehome.com/forums/members/lesmac.html), [lynnpreston](http://pdaphonehome.com/forums/members/lynnpreston.html), [Marctronixx](http://pdaphonehome.com/forums/members/marctronixx.html), [Mbmadog](http://pdaphonehome.com/forums/members/mbmadog.html), [mef38](http://pdaphonehome.com/forums/members/mef38.html), [Metalman](http://pdaphonehome.com/forums/members/metalman.html), [misdeismo](http://pdaphonehome.com/forums/members/misdeismo.html), [mlemire](http://pdaphonehome.com/forums/members/mlemire.html), [mqt](http://pdaphonehome.com/forums/members/mqt.html), [Mr. Bingley](http://pdaphonehome.com/forums/members/mr-bingley.html), [nkoom](http://pdaphonehome.com/forums/members/nkoom.html), [ppclover](http://pdaphonehome.com/forums/members/ppclover.html), [ProRef](http://pdaphonehome.com/forums/members/proref.html), [ScooterInWI](http://pdaphonehome.com/forums/members/scooterinwi.html), [Sho Geist](http://pdaphonehome.com/forums/members/sho-geist.html), [shwa311](http://pdaphonehome.com/forums/members/shwa311.html), [sjhpe](http://pdaphonehome.com/forums/members/sjhpe.html), [smgcircle](http://pdaphonehome.com/forums/members/smgcircle.html), [SNKSKNR](http://pdaphonehome.com/forums/members/snksknr.html), [stephen2002](http://pdaphonehome.com/forums/members/stephen2002.html), [Steve1040](http://pdaphonehome.com/forums/members/steve1040.html), [Subvet](http://pdaphonehome.com/forums/members/subvet.html), [temshore](http://pdaphonehome.com/forums/members/temshore.html), [tumbochka](http://pdaphonehome.com/forums/members/tumbochka.html), [usopp1012](http://pdaphonehome.com/forums/members/usopp1012.html), [xKravinx](http://pdaphonehome.com/forums/members/xkravinx.html)  
-Most users ever online was 1979, 11-05-2007 at 02:43 PM.  
+31 members and 750 guests  
+[aflan](http://pdaphonehome.com/forums/members/aflan.html), [apexadam](http://pdaphonehome.com/forums/members/apexadam.html), [Bandersnatch](http://pdaphonehome.com/forums/members/bandersnatch.html), [Curtai](http://pdaphonehome.com/forums/members/curtai.html), [DCallaghan66](http://pdaphonehome.com/forums/members/dcallaghan66.html), [DFA1](http://pdaphonehome.com/forums/members/dfa1.html), [drkstoner](http://pdaphonehome.com/forums/members/drkstoner.html), [Excitable Boy](http://pdaphonehome.com/forums/members/excitable-boy.html), [Fl.BeachBum](http://pdaphonehome.com/forums/members/fl-beachbum.html), [frh](http://pdaphonehome.com/forums/members/frh.html), [gafman](http://pdaphonehome.com/forums/members/gafman.html), [IML726](http://pdaphonehome.com/forums/members/iml726.html), [jbee21](http://pdaphonehome.com/forums/members/jbee21.html), [limmer](http://pdaphonehome.com/forums/members/limmer.html), [Mandrak23](http://pdaphonehome.com/forums/members/mandrak23.html), [meatster](http://pdaphonehome.com/forums/members/meatster.html), [mieoys](http://pdaphonehome.com/forums/members/mieoys.html), [m_kranzler11](http://pdaphonehome.com/forums/members/m_kranzler11.html), [ProOval](http://pdaphonehome.com/forums/members/prooval.html), [RICOTHE1](http://pdaphonehome.com/forums/members/ricothe1.html), [shilas](http://pdaphonehome.com/forums/members/shilas.html), [slidez](http://pdaphonehome.com/forums/members/slidez.html), [snrsuave](http://pdaphonehome.com/forums/members/snrsuave.html), [spridell](http://pdaphonehome.com/forums/members/spridell.html), [stanglifemike](http://pdaphonehome.com/forums/members/stanglifemike.html), [thaibruin](http://pdaphonehome.com/forums/members/thaibruin.html), [theubergeek](http://pdaphonehome.com/forums/members/theubergeek.html), [Toph](http://pdaphonehome.com/forums/members/toph.html), [TRGbhhdavC](http://pdaphonehome.com/forums/members/trgbhhdavc.html), [windfrenzy](http://pdaphonehome.com/forums/members/windfrenzy.html), [wodin](http://pdaphonehome.com/forums/members/wodin.html)  
+Most users ever online was 2605, 03-10-2008 at 03:24 PM.  
   
 **»[Search Forums](http://pdaphonehome.com/forums/search.php)**  
 ---  
