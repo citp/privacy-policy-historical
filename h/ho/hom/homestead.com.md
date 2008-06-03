@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homestead.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223603id_/http%3A//www.homestead.com/%7Esite/Legal/privacy.ffhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestead.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603093150id_/http%3A//www.homestead.com/%7Esite/Legal/privacy.ffhtml) for the most accurate reproduction.*
 
-# Homestead - your web site company
+# Privacy Policy | Homestead
 
 |  |  |   
 ---|---|---  
@@ -8,9 +8,13 @@
 |   
 | 
 
-[](https://www.truste.org/ivalidate.php?url=www.homestead.com)   
-**HOMESTEAD PRIVACY POLICY**   
-Last Updated June 2002 
+[](http://www.truste.org/ivalidate.php?url=www.homestead.com&sealid=101)   
+**HOMESTEAD TECHNOLOGIES, INC.**  
+3425 Edison Way  
+Menlo Park, CA 94025
+
+**PRIVACY POLICY**   
+Last Updated June 25, 2007 
 
 At Homestead, we take your privacy very seriously. Our primary goal in collecting information from you is to provide you with a smooth and customized experience while you use our services. Except as otherwise contemplated in this Privacy Policy, we do not disclose any personally identifiable information about you to any third party without your permission, unless we believe in good faith that we are required to do so by law. We do share aggregated information about our members with third parties, such as advertisers or partners, for marketing and promotional purposes. This document will answer the following privacy concerns: 
 
@@ -20,7 +24,7 @@ At Homestead, we take your privacy very seriously. Our primary goal in collectin
 When you register for any of the Homestead Services (as Services are defined in the Homestead Member Agreement) we ask you how you heard about Homestead. The more information you provide (and the more accurate it is), the better we are able to customize and provide our services to suit your needs and preferences. When you register for one of the Homestead Services, we may ask that you give us non-personal information such as the purpose for which you will be using a web site as well as the name of the person who may have referred you. We also ask that you give us personal information such as your name, email address, zip code, country, gender and birth date. When you register for a subscription-based service, we ask that you provide us with additional information, such as your mailing address, credit card number and credit card expiration date. Finally, when you register for a Homestead account, in addition to the above information, we may also ask that you provide us with a variety of information about your business, which may include (among other things) your company name, billing address, your role in your company, number of years of company's existence, and phone number. 
 
 **Usage Tracking/Hardware/Software/Cookies**   
-While you are on any of our web sites, we automatically track information related to your use of the Homestead Services. This information may include (among other things) files viewed by the user, type of site(s) built, domain name and a user's path through our web sites. There is also information about your computer hardware and software that is automatically collected by Homestead when you are using Homestead's downloadable software. This information can include information such as: your browser type, type of operating system, type of Java virtual machine, Internet connection speed, access times and identification of any software program which has previously caused technical problems with the Homestead product(s). This information will be matched with your personal information. In addition, when you connect to any of our web sites, we will detect your IP address and store a cookie on your computer. An explanation of cookies can be found in #8. 
+While you are on any of our web sites, we automatically track information related to your use of the Homestead Services. This information may include (among other things) files viewed by the user, type of site(s) built, domain name and a user's path through our web sites. There is also information about your computer hardware and software that is automatically collected by Homestead when you are using Homestead's downloadable software. This information can include information such as: your browser type, type of operating system, type of Java virtual machine, Internet connection speed, access times and identification of any software program which has previously caused technical problems with the Homestead product(s). Homestead does not link the information that it collects in cookies to any personally identifiable information that you may submit, while on our site.This information will be matched with your personal information. In addition, when you connect to any of our web sites, we will detect your IP address and store a cookie on your computer. An explanation of cookies can be found in #8. 
 
 **Technical Support/Information**   
 When, as a Homestead Member, you request technical support or information for Homestead Services, we ask you for your personal information and other information necessary to answer your question or resolve your problem. 
@@ -29,16 +33,13 @@ When, as a Homestead Member, you request technical support or information for Ho
 When you enter a contest or promotion sponsored by Homestead and/or our partners, we ask for your contact information so that our partners or we can administer the contest or promotion, and notify winners. 
 
 **E-Commerce Programs**   
-When you sign up for any of our e-commerce programs that are available on some Homestead Services, we ask for your first/last name, mailing address, and e-mail address, as well as your phone number. We need this information in order to administer the program. 
-
-**Discussion Boards**   
-If you choose to post messages on our discussion boards or leave feedback for other members, we may collect such information about you as you choose to disclose. 
+When you sign up for any of our e-commerce programs that are available on some Homestead Services, we ask for your first/last name, mailing address, and email address, as well as your phone number. We need this information in order to administer the program. 
 
 **Surveys/Questionnaires**   
 We occasionally ask Homestead Members or visitors to fill out optional surveys and/or questionnaires. These surveys/questionnaires may ask for demographic information and other information about computer use. 
 
 **Other Information You Give Us**   
-When you visit any of the Homestead web sites, we may collect any information that you enter on any of our web sites or give us in any other way in order to contact you about Homestead Services. Additionally, if you want to learn more about our products or services, we may request that you fill out a form in which we ask for information such as your first/last name, mailing address, email address, as well as your phone number. We only use this information to contact you in order to provide you with information about Homestead products and services, answer any questions that you may have, and/or help you sign up for the Homestead Service of your choice. 
+When you visit the Homestead web site, we may collect any information that you enter on any of our web sites or give us in any other way in order to contact you about Homestead Services. Additionally, if you want to learn more about our products or services, we may request that you fill out a form in which we ask for information such as your first/last name, mailing address, email address, as well as your phone number. We only use this information to contact you in order to provide you with information about Homestead products and services, answer any questions that you may have, and/or help you sign up for the Homestead Service of your choice. 
 
   2. **How does Homestead use my information?** Homestead uses your information on an aggregated basis to do such things as operate our web sites and enhance our web sites. We statistically analyze site usage, including the behavior of our Members, to improve the content, layout, and services of the Homestead web sites, as well as to enhance our marketing and promotional efforts 
 
@@ -58,21 +59,21 @@ The following describes some of the ways your information may be used:
 
     * Any information you provide to us through a form, email, or telephone requesting customer support, or information, is used for that specific situation only or to administer our service to you. 
 
-    * We will occasionally offer sweepstakes or contests on our web site. To participate, you will likely be asked to provide some personal information, such as e-mail address. This information may be shared with sponsors if the sweepstake/contest is co-sponsored by Homestead and a business partner. 
+    * We will occasionally offer sweepstakes or contests on our web site. To participate, you will likely be asked to provide some personal information, such as email address. This information may be shared with sponsors if the sweepstake/contest is co-sponsored by Homestead and a business partner. 
 
     * We also partner with other companies that can help us provide enhanced services to our members. Any information you provide through a registration form for any Service, is used to administer the Service(s). 
 
     * Any information you submit in a survey or questionnaire is used to help us better understand and serve our Members. This research is compiled and analyzed on an aggregated basis; we may share this aggregated data with advertisers or business partners. 
 
-    * The contents of email correspondence to us or postings on our discussion boards may be used for promotional purposes, such as customer testimonials. 
+    * The contents of email correspondence to us may be used for promotional purposes, such as customer testimonials. 
 
-    * o Any information that you enter on any of our web sites and/or any contact information that you provide to Homestead may be used to send you email messages and direct mailings which supply detailed information about Homestead and/or the applicable Homestead Service. We may also use your telephone number to call you in order to discuss the Homestead Services and assist you in signing up if you choose to become a Member. 
+    * Any information that you enter on any of our web sites and/or any contact information that you provide to Homestead may be used to send you email messages and direct mailings which supply detailed information about Homestead and/or the applicable Homestead Service. We may also use your telephone number to call you in order to discuss the Homestead Services and assist you in signing up if you choose to become a Member. 
 
   3. **Does Homestead share member account information?** As a general rule, except as otherwise contemplated in this Privacy Policy, Homestead will not disclose any of your personal information without your permission, except under special circumstances, such as when we believe in good faith that the law requires it. Any information provided by you for the purpose of registering a domain name will become part of the public WHOIS database and you will not be able to opt-out of this directory. 
 
-**Business Partners:** In addition to disclosing personal information to agents who provide services to you on Homestead's behalf, Homestead may disclose your personal information to business partners, but this is specifically described to you prior to data collection or prior to transferring the data. Our business partners have separate privacy and data collection practices. Homestead has no responsibility or liability for these independent policies. For more information regarding the partner or service and their privacy policies, return to that partner's home page and click on their Privacy Policy link. Additionally, Homestead may disclose your personal information to a third party who is a successor in interest, in the event of a merger, reorganization, change of control, acquisition or sale of all or substantially all of Homestead's assets. 
+**Business Partners:** In addition to disclosing personal information to agents who provide services to you on Homestead's behalf, Homestead may disclose your personal information to business partners, but this is specifically described to you prior to data collection or prior to transferring the data. Our business partners have separate privacy and data collection practices. Homestead has no responsibility or liability for these independent policies. For more information regarding the partner or service and their privacy policies, return to that partner's home page and click on their Privacy Policy link. 
 
-**Agent:** We employ other companies and individuals who are subject to confidentiality obligations, to perform functions on our behalf. Examples include, but are not limited to, web site design services, sending postal mail and e-mail, registering a respective domain name, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing customer service, and collecting and processing payments for the Homestead subscription service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+**Agent:** We employ other companies and individuals who are subject to confidentiality obligations, to perform functions on our behalf. Examples include, but are not limited to, web site design services, sending postal mail and email, registering a respective domain name, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing customer service, and collecting and processing payments for the Homestead subscription service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
 
 **Promotions, Sweepstakes/Contests:** Some Homestead promotions, sweepstakes/contests may require that you provide additional information, such as your mailing address, social security number or credit card number. Such information may be shared with a third party if such third party is sponsoring the "event" or if the information is necessary in order to administer the service or process your transaction. 
 
@@ -90,13 +91,17 @@ Homestead makes chat rooms, guest books, discussion boards, and other means of o
 
 Your Homestead account is password-protected so in addition to those partners or agents who may provide you services, only you and those you designate can access it and view the member information relevant to your account. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Remember to log out of your Homestead account and close your browser window when you are done. This ensures that others cannot access your personal information if your computer is accessible to others. 
 
-  6. **How do I opt out of receiving messages from Homestead?** Except as otherwise contemplated in this Privacy Policy, as a Homestead Member, if you do not want to receive messages from Homestead about new features or products, tips on product use, and promotions, you can indicate your preference by clicking the respective box of your choice. You can opt-out of receiving such information by logging into your account and visiting the "Update Profile" section within the "Manage Account" page. If you would ever like to start receiving messages, you can always update your profile accordingly. 
+  6. **How do I opt out of receiving messages from Homestead?** Except as otherwise contemplated in this Privacy Policy, as a paying Homestead Member, if you do not want to receive messages from Homestead about new features or products, tips on product use, and promotions, you can indicate your preference by clicking the respective box of your choice. You can opt-out of receiving such information by logging into your account and visiting the "Update Profile" section within the "Manage Account" page. If you would ever like to start receiving messages, you can always update your profile accordingly. 
+
+If you are using Homestead's free trial service for thirty (30) days and wish to opt-out of receiving promotional messages, you must call our service line at 800-710-1998. A Homestead representative will ask you for your email address at which point you may request to decline the promotional messages. 
 
 Since it is necessary for us to contact you regarding certain matters, you may not opt-out of receiving messages relating to material company announcements or policy changes, or administrative matters relating to your account, like billing, collections, customer support or the like. 
 
 If you have been contacted by Homestead as a result of information you entered on any of our web sites or if you provided your personal information to Homestead for the purposes of receiving more information about a Homestead Service before choosing to sign up as a Member, and you no longer want to be contacted by Homestead, you can click on the "unsubscribe" link at the bottom of any email you receive and Homestead will remove you from the list of those who will be contacted with more information about the Homestead service. 
 
-  7. **How do I update or deactivate my account?** You can control and update your contact information for Homestead Services by logging into your account and visiting the "Update Profile" section within the "Manage Account" page. If you wish to deactivate your Homestead Service, please contact customer support by logging into your account and accessing the customer support phone number within the "Managing My Account" section of Homestead's Help Topics. 
+  7. **How do I update or deactivate my account?** As a paying Homestead Member, you can control and update your contact information for Homestead Services by logging into your account and visiting the "Update Profile" section within the "Manage Account" page. If you wish to deactivate your Homestead Service, please contact customer support by logging into your account and accessing the customer support phone number within the "Managing My Account" section of Homestead's Help Topics. 
+
+Free trial users, may access and update their personal information by calling 800-710-1998. Please provide the customer support representative your email address and identify the information that you wish to access and update. For free trial users who may wish to terminate the account, please call the service number above. 
 
   8. **What are cookies and how does Homestead use them?** Cookies are small pieces of information stored on your hard drive, not on our site. The use of cookies is an industry standard, generally used by most major Web sites to improve their services. Homestead uses cookies because they allow us to store your password without your having to constantly re-enter it. Cookies can also help us track your behavior on our site so that we can tailor our marketing message to better match your needs and interests. Finally, by tracking behavior on our site, cookies allow us to better understand how members use our site, which in turn helps us focus our resources on features that are most popular with our members. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly if you do so. 
 
@@ -108,5 +113,13 @@ If we are going to use your personally identifiable information in a manner diff
 
   10. **Homestead and Children.** Homestead is not intended for use by children under the age of 13. We do not knowingly collect personal information from children. Please do not use Homestead if you are under the age of 13. 
 
+  11. **CEO Blog.** Homestead allows its members to get more involved with the site by offering a blog. Please note that by submitting a blog to this portion of the website, you are authorizing us to post your story on our website. If you include any personally identifiable information in this blog such as your name or hometown, this information may be posted on the website as well. 
 
 
+
+
+Homestead Technologies, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.homestead.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+
+If you have questions or concerns regarding this statement, you should first contact our privacy team at privacy@homesteadsupport.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. 
