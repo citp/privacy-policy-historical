@@ -1,36 +1,39 @@
-> *The following text is extracted and transformed from the jamaicans.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221015021id_/http%3A//www.jamaicans.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaicans.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603041238id_/http%3A//www.jamaicans.com/about/privacy.shtml) for the most accurate reproduction.*
 
-# Jamaicans.com Privacy Policy and Disclaimer (Jamaica)
+# Jamaicans.com Privacy Policy, Copyright and Disclaimer (Jamaica)
 
-**Jamaicans.com Privacy Policy **Jamaicans.com, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.****
+**Jamaicans.com Privacy Policy**  
+Jamaicans.com, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
 
- ** **
-
-**Consumer Information**  
+******Consumer Information******  
 Our computer is not set up to track, collect or distribute personal information about its visitors. It does recognize the home server of visitors, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our sites. This information is used only for internal purposes by Jamaicans.com staff.
 
 In addition, our web sites track information about the visits to our web sites. For example, we compile statistics that show the daily number of visitors to our sites, the daily requests we receive for particular files on our web sites, and what countries those requests come from. These aggregated statistics are used to better provide services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information.
 
-**Data Collection and Opt Out**  
+******Data Collection and Opt Out******  
 Also, if you indicate on our site that you would like to subscribe to a monthly newsletter, your personal information will only be added to the appropriate mailing list requested. In addition, if at any time you change your mind and would like to be removed from any of our mailing lists for which you subscribed, or if you need to correct your personal information, we have provided these options at the bottom of our newsletters. you
 
-**No Release of Information to Third Parties**  
+******No Release of Information to Third Parties******  
 Personal information will not be released to third parties except to further the purpose for which you had provided the information, such as making specific requests for information , or if you request that your email be forwarded. There are no other circumstances under which we will provide or sell personal information to third parties.
 
 Jamaicans.com works with a third party that serves ads to this site.
 
-If you have any additional questions about Jamaicans.com's dedication to consumer privacy, please [contact us](https://web.archive.org/web/20071221015021id_/http%3A//www.jamaicans.com/about/contact.shtml).
+If you have any additional questions about Jamaicans.com's dedication to consumer privacy, please [contact us](https://web.archive.org/web/20080603041238id_/http%3A//www.jamaicans.com/about/contact.shtml).
 
-**Jamaicans.com Disclaimer**
+  
+******Copyright******
 
-**
+  
+No articles, content, audio, music, image, artwork, or graphic may be copied, downloaded, or reproduced in any way for any commercial purpose without expressed written permission of Jamaicans.com. All rights to these articles, content, audio, music, image, artwork, or graphic belong to Jamaicans.com.
 
-**[B]Articles**  
+If you believe that your work has been copied and is accessible on this site in a way that constitutes copyright infringement, you may notify jamaicans.com. Click [here](http://www.jamaicans.com/about/CopyrightInfringement.shtml) for instructions.
+
+******Jamaicans.com Disclaimer******
+
+ ** **Articles****  
 The views and opinions expressed by contributors to Jamaicans.com are strictly those of the author. The views and opinions expressed within content stored on this site do not reflect the views and opinions of Jamaicans.com. We do not take responsibility for the personal opinions expressed.
 
-**
-
-**[B]Jamaicans.com Community Bulletin Board**  
+**Jamaicans.com Community Bulletin Board**  
 Jamaicans.com accept no liability whatsoever for any contributions to the Bulletin Board. All are welcome to post messages to this informal service but usage is at the contributors own risk and liability.
 
 Readers of the Bulletin Board please note that Jamaicans.com accepts no liablity whatsoever for any inaccuracy or injury resulting from actions resulting from posts to the Bulletin Board.
