@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222053612id_/http%3A//www.ebgames.com/gs/sites/eb/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603114458id_/http%3A//www.ebgames.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# EBgames.com - Help Desk
+# EBGames.com - Buy New and Used Games
 
 Last updated: January 9, 2007
 
-EBgames.com is aware of your concerns about use of your personal information. We attempt to use and share personal information that we collect online carefully and sensibly. This notice describes our privacy policy. By visiting EBgames.com, you are accepting the practices described in this privacy notice.
+Gamestop.com is aware of your concerns about use of your personal information. We attempt to use and share personal information that we collect online carefully and sensibly. This notice describes our privacy policy. By visiting Gamestop.com, you are accepting the practices described in this privacy notice.
 
-Our online privacy policy applies only to information that we collect from customers online who visit EBgames.com or the EB Games Mobile Store (collectively, "the website"); it does not apply to any information collected at our retail stores and outlets. This website contains links to other websites. EBgames.com is not responsible for the privacy practices or the content of such other websites.
+Our online privacy policy applies only to information that we collect from customers online who visit Gamestop.com; it does not apply to any information collected at our retail stores and outlets. This website contains links to other websites. Gamestop.com is not responsible for the privacy practices or the content of such other websites.
 
-In this document, the word "computer" means any device used to connect to EBgames.com or the EB Games Mobile Store, including, but not limited to, mobile devices.
+In this document, the word "computer" means any device used to connect to Gamestop.com, including, but not limited to, mobile devices.
 
 **We Gather the Following Personal Information About Customers:**
 
@@ -18,7 +18,7 @@ When you place an order with us, your contact information is used to communicate
 
 We use customer contact information from the account form to customize future shopping for you, to improve our website and stores, and, if you choose, to send you information about our company and to inform you of sales and special offers. If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email.
 
-We obtain information about you when you search, buy, participate in a contest or questionnaire, communicate with customer service, or otherwise contact us or post information on the website. For example, you provide information when you search for a product; place an order through EBgames.com or provide information to update or create your account with us (you may have more than one account if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; create any wish or gift list; participate in any forums or discussion areas or product reviews; or create any alerts or other email notification services we may offer now or in the future. The information collected typically includes your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; content of reviews you may provide; e-mails to us; and any other personal information that you provide to us or post on the website.
+We obtain information about you when you search, buy, participate in a contest or questionnaire, communicate with customer service, or otherwise contact us or post information on the website. For example, you provide information when you search for a product; place an order through Gamestop.com or provide information to update or create your account with us (you may have more than one account if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; create any wish or gift list; participate in any forums or discussion areas or product reviews; or create any alerts or other email notification services we may offer now or in the future. The information collected typically includes your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; content of reviews you may provide; e-mails to us; and any other personal information that you provide to us or post on the website.
 
 **We occasionally run our own email surveys** and we ask visitors for contact, demographic and technical information. We use contact data from our surveys to send users information about our company. This information is also used to contact visitors to learn more about specific problems they might have reported or to give them rewards, if such a reward program is part of the survey. The demographic information is used to learn more about the types of people who visit our site.
 
@@ -26,7 +26,7 @@ We obtain information about you when you search, buy, participate in a contest o
 
 **We allow customers to post reviews** and to allow visitors to communicate information on products. When posting a review, you can optionally display your name, an alias, or remain anonymous. However, if you disclose personally identifiable information in your review, that information is public information and may increase your chance of receiving unsolicited email. You should use discretion when disclosing information on-line.
 
-**Automatic Collection of Information:** If you purchase any products online, or have any other interaction with our website, we will receive and store information that you provide or that is generated by your actions. For example, like many websites, we use "cookies," which are placed on your computer (explained in more detail below), to remember your name and the contents of your shopping cart. This allows you to leave our site, come back later, and still have the contents of your shopping cart intact. It also lets us personalize your experience at EBgames.com, tailoring the content to your interests. A number of companies offer utilities designed to help you visit websites anonymously, but if you use these utilities, it may limit your ability to use personalized features that we offer.
+**Automatic Collection of Information:** If you purchase any products online, or have any other interaction with our website, we will receive and store information that you provide or that is generated by your actions. For example, like many websites, we use "cookies," which are placed on your computer (explained in more detail below), to remember your name and the contents of your shopping cart. This allows you to leave our site, come back later, and still have the contents of your shopping cart intact. It also lets us personalize your experience at Gamestop.com, tailoring the content to your interests. A number of companies offer utilities designed to help you visit websites anonymously, but if you use these utilities, it may limit your ability to use personalized features that we offer.
 
 The information we receive or can determine from your interaction with our website includes your Internet (IP) address; login and password information; e-mail address; web browser type and version; operating system and computer platform; purchase history, which we may aggregate with similar information from other customers; the full Uniform Resource Locator (URL) clickstream to, through, and from our website, including date and time; cookie number; products you viewed or searched for; areas of our website you visited; and the phone number you used to call our toll-free number. We also may log the length of time of your visit and the number of times you visit and purchase from us. We assign you a unique internal identifier to help keep track of your future visits.
 
@@ -40,9 +40,11 @@ Cookies are alphanumeric identifiers that are placed by us on your computer's st
 
 You can stop your computer from storing cookies if you want to. Most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You should look in the "help" area shown on your browser's toolbar. Because cookies allow you to have the benefit of our personalized features, we recommend that you leave them turned on. You MUST have cookies enabled in order to checkout on our website.
 
-**Sharing of Information**
+**Sharing of Information
 
-**Tournaments:** If you register for tournaments on EBgames.com, we may share your registration data with the tournament host and they may use it for internal tracking and analytics. For instance, if you give us your Xbox Live Gamertag for a Microsoft tournament, Microsoft will use that information for internal research. **
+Tournaments: 
+
+**If you register for tournaments on GameStop.com, we may share your registration data with the tournament host and they may use it for internal tracking and analytics. For instance, if you give us your Xbox Live Gamertag for a Microsoft tournament, Microsoft will use that information for internal research. **
 
 Sharing with Third Parties.
 
@@ -54,7 +56,7 @@ Sharing with Third Parties.
 
 **Sale or Acquisition of Business Units.** As we continue to develop our business, we may buy or sell business divisions or companies, we may merge or combine with another company, or our company itself, or all or a significant part of its assets, may be acquired by another company. In such transactions, customer information generally is one of the transferred and shared business assets. The information transferred and shared remains subject to the promises made in any pre-existing privacy notice (unless, of course, the customer has agreed to be subject to new privacy notice terms). 
 
-**Legal Requirements and Protection of EBgames.com and Others.** We may decide to release your account and other personal information if we believe release is appropriate or necessary to comply with the law, to enforce or apply our website terms of use and other agreements, or to protect the rights, property, or safety of EBgames.com, our users, or others. This information may be released or exchanged with other companies and organizations to protect against fraud, or for credit risk reduction. We will cooperate with law enforcement and judicial authorities, and we may provide personally identifiable information to appropriate government authorities upon receipt of a subpoena or court order, or to cooperate with a law enforcement investigation. We will fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We also reserve the right to report to law enforcement agencies activities that we in good faith believe to be illegal. We undertake no obligation or duty to release such information, however, unless we are required to do so under applicable law.
+**Legal Requirements and Protection of Gamestop.com and Others.** We may decide to release your account and other personal information if we believe release is appropriate or necessary to comply with the law, to enforce or apply our website terms of use and other agreements, or to protect the rights, property, or safety of Gamestop.com, our users, or others. This information may be released or exchanged with other companies and organizations to protect against fraud, or for credit risk reduction. We will cooperate with law enforcement and judicial authorities, and we may provide personally identifiable information to appropriate government authorities upon receipt of a subpoena or court order, or to cooperate with a law enforcement investigation. We will fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We also reserve the right to report to law enforcement agencies activities that we in good faith believe to be illegal. We undertake no obligation or duty to release such information, however, unless we are required to do so under applicable law.
 
 **Other Circumstances.** If we want to share personal information other than as permitted or described above, we will notify you, and you may choose to instruct us not to share the information.
 
@@ -62,7 +64,7 @@ Sharing with Third Parties.
 
 **We have several types of third-party relationships.**
 
-  * We offer an affiliate program through a third-party affiliate manager. This program allows other websites to earn money by directing people (through links) to our website. If you sign up as an affiliate, your contact information (website address and related information, email address, mailing and payment addresses, and contact information) is sent to the third-party affiliate manager who activates your affiliate status and pays you based on the sales you generate for EBGames.com. You may apply for this program using an Affiliate Program application. The Affiliate Program area is clearly labeled, and your information is never collected or shared unless you also fill out an Affiliate Program application.
+  * We offer an affiliate program through a third-party affiliate manager. This program allows other websites to earn money by directing people (through links) to our website. If you sign up as an affiliate, your contact information (website address and related information, email address, mailing and payment addresses, and contact information) is sent to the third-party affiliate manager who activates your affiliate status and pays you based on the sales you generate for Gamestop.com. You may apply for this program using an Affiliate Program application. The Affiliate Program area is clearly labeled, and your information is never collected or shared unless you also fill out an Affiliate Program application.
   * We work with business partners to provide you access to their products and services. For example, our website includes a link to www.alienware.com. Any information you supply upon entering the www.alienware.com site is collected by Alienware.
   * We link to third-party surveys. When you complete a purchase, you are often invited to participate in a survey to rate your experience. The survey is conducted by a third party (and is identified as such) who shares all of the survey information with us, including your email address if you specify it in the survey. We use this information to gauge which areas of our service need improving.
   * If you order from us after visiting Sony's Playstation.com web site we will forward your PlayStation Underground registration number to Sony along with any information regarding the products you have purchased.
@@ -79,14 +81,14 @@ To the extent that you use our website, and connect to us through your computer,
 
 If you have purchased from us or created an account, our site provides you the opportunity to review, correct, or update your account information. You can do this by:
 
-  1. Accessing www.ebgames.com and clicking on the "My Account" link.
+  1. Accessing Gamestop.com and clicking on the "My Account" link.
   2. Sending mail to the following postal address:
 
-EBgames.com Customer Service  
+Gamestop.com Customer Service  
 625 Westport Parkway  
 Grapevine, TX 76051
 
-  3. 3\. Calling the following telephone number: 1-800-883-8895
+  3. Calling the following telephone number: 1-800-883-8895
 
 
 
@@ -98,17 +100,17 @@ If, after receiving a non-order related email, you do not want to receive such e
 
 **We May Change These Terms**
 
-Whether or not you have viewed our terms and conditions of use of this website, or this privacy notice, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of EBgames.com. We may update or change our terms of use and this privacy notice at any time and from time to time, as we determine is appropriate. It is your responsibility to review them for changes.
+Whether or not you have viewed our terms and conditions of use of this website, or this privacy notice, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of Gamestop.com. We may update or change our terms of use and this privacy notice at any time and from time to time, as we determine is appropriate. It is your responsibility to review them for changes.
 
 **Use of Our Website by Children**
 
-EBgames.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use EBgames.com only with the involvement of a parent or guardian. 
+Gamestop.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Gamestop.com only with the involvement of a parent or guardian. 
 
 **Terms and Conditions of Use, Notices, and Revisions**
 
 If you choose to visit our website, your visit and any dispute over privacy is subject to this privacy notice and our Terms and Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Pennsylvania. If you have any concerns or questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: 
 
-EBGames.com Customer Service  
+Gamestop.com Customer Service  
 625 Westport Parkway  
 Grapevine, TX 76051
 
@@ -116,8 +118,4 @@ As is the case with any business, our business changes over time, and our privac
 
 **Related Practices and Information**
 
-Terms and Conditions of Use may be found by [clicking here.](https://web.archive.org/web/20071222053612id_/http%3A//www.ebgames.com/gs/sites/eb/help/ConditionsofUse.asp)
-
-**Still Have a Question?**
-
-If you didn't find what you needed here, feel free to contact our customer service center by sending an email to [help@ebgames.com](mailto:help@ebgames.com). Hours of operation: Open Monday - Friday 8:00 a.m. to 9:00 p.m. (CST); Saturday - Sunday 8:00 a.m. to 8:00 p.m. (CST) .
+Terms and Conditions of Use may be found by [clicking here.](https://web.archive.org/gs/help/disclaimer.aspx)
