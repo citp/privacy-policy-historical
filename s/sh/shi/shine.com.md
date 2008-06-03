@@ -1,72 +1,136 @@
-> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2004-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040411221644id_/http%3A//shine.com/shine411_events.cfm%3Fcontent_id%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603150138id_/http%3A//www.shine.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# SHiNE :: SHiNE 411 :: Events
+# Privacy Policy
 
-|    
-|  [](https://web.archive.org/web/20040411221644id_/http%3A//shine.com/shine411.cfm) SHiNE's Privacy Policy 
-
-**Users under the age of 13-years-old:**
-
-We welcome users under the age of 13-years-old and hope that you enjoy the many parts of our site that do not require registration. We do not allow users under the age of 13 to register, in compliance with the Children's Online Privacy Protection Act and we do not knowingly collect personally identifiable information from children under 13. 
-
-**Users over the age of 13-years-old:**
-
-**I. When information is and is not collected**
-
-  * When you register with SHiNE, you will be asked for personal information: Full Name, Gender, Date of Birth, Email Address, School and Zip/Postal Code. You will also be asked to provide a Username, which will be used to identify you on the SHiNE message boards and journals, and a Password, so that only you can use your Username. 
-  * You may choose to "Get Involved" with SHiNE without registering for the site. You will be asked to provide personal information so that we can contact you. 
-  * SHiNE only utilizes information that is voluntarily submitted. SHiNE does not use cookies to track user habits or to gain access to personally identifiable information that you haven't already provided. 
-  * SHiNE also provides a "Send to a Friend" feature, which allows you to forward a message to a friend. The email addresses you enter for your friends are used for this one-time only email, and are not stored. Your friends will not be put on any sort of mailing list. 
-
-**II. The type of information we use**
-
-  * We collect date of birth information to ensure that all of our registered users are at least 13 years old, in compliance with the Children's Online Privacy Protection Act. 
-  * SHiNE collects Zip/Postal Code to identify what locale you are from in order to understand the geographical distribution of the SHiNE community. 
-  * Since SHiNE is a youth-based non-profit organization, we collect School information to identify possible areas for SHiNE activities and clubs. 
-  * We collect E-Mail Addresses to contact SHiNE users (e.g. contest winners). 
-  * On the registration form, you have the opportunity to opt into SHiNE's email mailing list. SHiNE sends out a weekly newsletter, which you may unsubscribe from at any time by sending an email to [_Maxine@shinemail.org_](mailto:Maxine@shinemail.org) with "Unsubscribe" as the header. 
-
-**III. How we use information**  
-When you post a message on the SHiNE Message Boards or Online Journals, only your Username is made available to those who read the posted message. Please consider this when you post. You may reveal your Name, E-mail Address, or other personally identifiable information at your own risk; however, SHiNE does not recommend it. SHiNE does not accept any liability for difficulties that arise from self-disclosure of any personal information. 
-
-We do not sell or market lists of our users or any of our users' personally identifiable information. However, SHiNE may provide aggregate information about our audience to other organizations (e.g. our audience is x% female and x% male.) 
-
-All of the user's database information is processed on the back-end of our site requiring multiple authentication processes to gain access. Employee access to this data is limited to personnel that are responsible for maintaining the database. 
-
-Lastly, SHiNE may choose to disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Use or may be causing injury or interference, intentionally or unintentionally, to SHiNE's rights or property, other SHiNE users, or anyone else that could be harmed by such activities. 
-
-**IV. Partners and Sponsors**  
-SHiNE works with partners and sponsors in order to provide you with a Web site that continually meets your needs. We may develop custom features for some of our partners and sponsors (e.g. contests). In some instances, when you register to use these custom features, your registration information will be shared with partner organizations. However, in every such case, you will be told about the intended sharing of your information prior to registering and you will have the option of not using the service. These relationships fall under two privacy policies, the SHiNE policy and the group or organization policy. It is important to note that the group or organization may abide by standards that differ from those of SHiNE. 
-
-**V. Contests**  
-When we run contests on our site, you may be asked to provide additional information in order to participate. The specific rules for any contest will state how that information may be used to the extent that it is different from this policy. If the contest is produced in partnership with a partner or sponsor, the information may be shared as SHiNE's policy in regard to partners and sponsor allows (above). 
-
-**VI. Links**  
-Users should be aware that when you are on SHiNE, you may be directed other sites as resources or relevant links. SHiNE does its best to refer sites that provide information or services that are helpful to the SHiNE audience. However, we do not control the privacy policies of these external sites, and do not accept any liability from difficulties arising from the use of one of these external links. 
-
-|  |  [](http://www.shine.com/new_contests.cfm)  
   
+The Privacy Policy (hereinafter “the policy”) provided below is with respect to our use and protection of any personal information/data you provide to us through our website. Firefly e-Ventures Limited (FEVL) is the sole owner of the website [_www.shine.com_](http://www.shine.com/) (hereinafter “website”). The Policy is applicable to the website. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy.  |  **1) Information Collection**  
 ---  
-  
-|  [ **Artist Text Message for Charity**  
-  
-Pick up your Cingular wireless handset for the chance to meet hot artists and win concert tickets and autographed phones! ](http://161.58.68.39/artist_bios/artist_home.html) |    
-  
-[](http://www.mtv.com/onair/ffyr/discrimination/)  
-  
-  
-|  [**Fight For Your Rights**  
-  
-SHiNE is proud to be a part of **MTV's "Fight for Your Rights** : Take a Stand Against Discrimination" initiative.](http://www.mtv.com/onair/ffyr/discrimination/) |    
+|    | 
+
+When you visit/surf our website, certain personal information about you such as your IP Address, etc. may be automatically stored with us. However, if you choose to avail of certain services on our website, you shall be required to provide certain personal information for the registration and/or access to such services/web pages. Such information may include, without limitation, your name, email address, contact address, mobile/telephone number(s), sex, age, occupation, interests, credit card information, billing information, financial information, content, IP address, standard web log information, information about your computer hardware and software and such other information as may be required for your interaction with the services and from which your identity is discernible. We may also collect demographic information that is not unique to you such as code, preferences, favorites, etc. Further, sometimes you may be asked to provide descriptive, cultural, preferential and social & life style information.
+
+In addition to the above we may indirectly also collect information about you when you use certain third party services available on our website. We may also collect certain information about the use of our website by you, such as the services you access/use or areas you visit.   
   
   
-|  Start Talkin'! Join the SHiNE Chat every Monday at 4 p.m. and Thursday at 5 p.m. (EST)  |    
+---|---  
+**2) Use**  
+---  
+|    | 
+
+If you choose to provide us with the above mentioned information, you consent to the use, transfer, processing and storage of the information so provided by you on our servers. The information provided by you shall not be given to third parties (third parties for this purpose do not include our group / holding / subsidiary companies and or our service partners / associates) for marketing purposes and other related activities without your prior consent. Though if you choose to make your profile visible, all information pertaining to your profile will be visible to third parties. 
+
+The information provided by you shall be used by us to:  
+  
+---|---  
+  |  2.1 |  Improve our website and enable us to provide you the most user-friendly experience which is safe, smooth and customized;  
+  |  2.2  |  Improve and customize our services, content and other commercial /non – commercial features on the website;  
+  |  2.3 |  Contact you to get your opinion on our current products and services or possible new products and/or services that may be offered by us.  
+  |  2.4 |  Send you information on our products, services, special deals, promotions;  
+  |  2.5 |  Ask you to send feedback on any or all of our services;   
+  |  2.6 |  Send you marketing/promotional communications (If you do not wish to receive such marketing/promotional communications from us you may indicate your preferences at the time of registration or by following the instructions provided on the website or by providing instructions to this effect);  
+  |  2.7 |  Create various surveys and analysis in form of reports;  
+  |  2.8 |  Send newsletter(s) to you (Provided you subscribe to the same)  
+  |  2.9 |  Send you service-related announcements on rare occasions when it is necessary to do so;  
+  |  2.10 |  Provide you the opportunity to participate in contests or surveys on our website (If you participate, we may request certain additional personally identifiable information from you. Moreover, participation in these surveys or contests is shall be completely voluntary and you therefore shall have a choice whether or not to disclose such additional information);   
+  |  2.11 |  Contact you or send you e-mail or other communications regarding updates on our website, new job opportunities, services and additional/new job postings/openings which may be of your interest.  
+  |  2.12 |  Provide customer support and the services you request;  
+  |  2.13 |  Ascertain how many people visit our website, of what kind and what areas they visit on our website;  
+  |  2.14 |  Resolve disputes, if any and troubleshooting;  
+  |  2.15 |  Avoid/check illegal and/or potentially prohibited activities and to enforce Agreements ;   
+  |  2.16 |  Provide service updates and promotional offers related to our services/products.   
+  |  2.17 |  Comply with any court judgment / decree / order / directive / legal & government authority /applicable law;  
+  |  2.18 |  Investigate potential violations or applicable national & international laws;  
+  |  2.19 |  Investigate deliberate damage to the website/services or its legitimate operation;  
+  |  2.20 |  Detect, prevent, or otherwise address security and/or technical issues;   
+  |  2.21 |  Protect the rights, property or safety of HTML and/or its Directors, employees and the general public at large;  
+  |  2.22 |  Respond to Claims of third parties;  
+  |  The personal information provided by you shall also be disclosed to:  
+  |  2.23 |  The members of our corporate family and group, affiliates, service providers and third parties under a contract to provide joint services, contents and marketing communications;   
+  |  2.24 |  Other third parties to whom you explicitly require us to send the information;   
+  |    
+If you consent to receive information about third party (such as employers, recruiters, data aggregators, marketers or others) opportunities, products or services/job opportunities or you make your profile visible we may disclose your information to such third parties for sending you communications via e-mail or otherwise to inform about new opportunities/services/products and new job postings/openings which may be of your interest. Also we might use your personal information to communicate with you and ascertain if you are interested in third party services.
+
+Your information shall be disclosed to our employees/service providers who provide services to us vis-à-vis our website and the services/products therein. These service providers/employees will have access to the information provided by you in order to perform their functions/services efficiently. 
+
+If you choose to use our referral service to tell a friend about our website or refer a job posting/service, we will ask you for your friend’s name and email address. We will automatically send your friend an email inviting him or her to visit the website. However, your friend may contact us to request that he does not require such services/content/email or we remove the information related to him from our database.
+
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries with respect to our services/content, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. We will also send you SMS alerts from time to time to update you on new matched jobs and other updates.
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submitted to us with information from third party sources (third parties for this purpose may include our group / holding / subsidiary companies and or our service partners / associates). We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.   
+  
+**3) Resume Information**  
+---  
+|    |  Based on the profile status selected by you, your resume shall be accessible to potential employers. You can store your resume on our servers and make it searchable by third parties/employers/recruiters. You may only use it for applying online though our website and denying access to others. 
+
+If your profile status is visible, your resume is searchable and you make it non-confidential and visible to all and in such a case anyone can have access to your resume. If you keep your profile status anonymous, you opt to keep the resume confidential and then only those will have access to it to which you have applied for a job/opening. 
+
+We cannot guarantee that third parties shall gain access to your resume neither we are responsible for the use made of the resume by third parties to who you apply or who have access to our database, while your profile status has been made visible by you. In case of making your profile status visible, we are not responsible for the privacy, secrecy or retention of your resume.
+
+You may edit, update and remove your resume at any time but parties who have access to our database (while your resume or profile was visible) may have retained a copy of your resume in their own files. We cannot be held responsible for such retention/storage. You should always remember that once you post your resume on our website with your profile visible, anybody will have access to the same and we do not have any control over such access and use of your resume/information by third parties. In case your profile status is anonymous and you apply for a job on our site, the prospective employer will also be able to retain a copy of your Resume and Profile.  
+  
+---|---  
+**4) Cookies**  
+---  
+|    |  We use "cookies" to help personalize and enhance your online experience and time online. A cookie is a text file that is placed on your computer hard drive by a Web page server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer, and can only be read by a Web server in the domain that issued the cookie to you.
+
+Cookies are used primarily to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Shine pages, or register for services, a cookie helps us to recall your specific information (such as user name, password and preferences). Because of our use of cookies, we can deliver faster and more accurate results and a more personalized & enhanced site experience. Whenever you return to Shine.com, the information you previously provided can be retrieved, so you can easily use the features that you customized. We also use cookies to track click streams and for load balancing.
+
+You may have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on Shine. 
+
+We have no access to or control over third party cookies. This privacy statement does not cover the use of cookies by any advertisers.   
+  
+---|---  
+**5) Changing Your Personal Information**  
+---  
+|    |  You can access and modify your personal information by signing on to the website. We will not modify the information provided by you. However, we recommend that you update your personal information as soon as such changes are necessitated. 
+
+Where you make a public posting, you may not be able to change or remove it nor shall you be able to close your account. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law(s). However, we will retain your personal information from closed accounts to comply with law, Avoid/check illegal and/or potentially prohibited activities and to enforce User Agreements; Comply with any court judgment / decree / order / directive / legal & government authority /applicable law; Investigate potential violations or applicable national & international laws; Investigate deliberate damage to the website/services or its legitimate operation; Detect, prevent, or otherwise address security and/or technical issues; Protect the rights, property or safety of HTML and/or its Directors, employees and the general public at large; Respond to Claims of third parties; and take such other actions as may be permitted by law.   
+  
+---|---  
+**6) Account Protection**  
+---  
+|    |  Your password is the key to your account. You shall be solely responsible for all the activities happening under your username and you shall be solely responsible for keeping your password secure. Do not disclose your password to anyone. If you share your password or your personal information with others, you shall be solely responsible for all actions taken under your username and you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.   
+---|---  
+**7) Business Transaction:**  
+---  
+|    | 
+
+In the event FEVL goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. Where your information is transferred you will be notified via email/prominent notice on our website for 30 days of any such change in ownership or control of your personal information.  
   
   
+---|---  
   
+**8) Security:**  
+---  
+|    | 
+
+The security of your personal information is important to us. When you enter your personal information we treat the data as an asset that must be protected and use tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security nor can we guarantee that third parties shall not unlawfully intercept or access transmissions or private communications, and that other users may abuse or misuse your personal information that you provide. Therefore, although we work hard to protect your information, we do not promise, and you should not expect, that your personal information or private communications will always remain private.   
   
-[](http://www.shine.com/support/)  
+---|---  
   
+**9) Links to Other Sites:**  
+---  
+|    | 
+
+The website contains links to other sites that are not owned or controlled by Firefly e-Ventures Ltd. Please be aware that we, Firefly e-Ventures Ltd. and/or the website, are not responsible for the privacy practices of such other sites.
+
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+
+This privacy statement applies only to information collected by the website or to our other related websites provided it appears at the footer of the page therein. It does not apply to third party advertisements which appear on our websites and we suggest you read the privacy statements of such advertisers.   
   
-[](http://www.upoc.com/shine)  
-[](https://web.archive.org/web/20040411221644id_/http%3A//shine.com/mingle_im.cfm)
+---|---  
+  
+**10) Changes in this Privacy Statement**  
+---  
+|    | 
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement and such other places we deem appropriate so that you are updated about the manner we collect information, what information we collect, how we use it and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently at Shine.com  
+  
+---|---  
+  
+**11) Contact Us**  
+---  
+|    |  If you have any questions or suggestions regarding our privacy policy, please contact us at: [_support@shine.com_](mailto:support@shine.com)  
+---|---
