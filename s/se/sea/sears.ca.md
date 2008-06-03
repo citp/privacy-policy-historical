@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231824id_/http%3A//www.sears.ca%3A80/gp/node/n/16397281%3Fie%3DUTF8%26searsBrand%3Dcore) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603054319id_/http%3A//www.sears.ca/gp/node/n/16397281%3Fie%3DUTF8%26searsBrand%3Dcore) for the most accurate reproduction.*
 
 # yourprivacy
 
