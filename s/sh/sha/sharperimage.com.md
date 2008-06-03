@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharperimage.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014032859id_/http%3A//www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharperimage.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603063513id_/http%3A//www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml) for the most accurate reproduction.*
 
 # The Sharper Image - Privacy & Security
 
@@ -24,7 +24,7 @@ Our postal address is:
 350 The Embarcadero, Sixth Floor  
 San Francisco, CA, 94105-1218**
 
-We can be reached via [**care@web.sharperimage.com**](mailto:care@web.sharperimage.com). Or you can reach us by telephone at **1-800-344-5555** , our customer service line, Monday-Friday 7 am to 5 pm and Saturday 8 am to 2 pm PST.
+We can be reached via our [Customer Service Department](https://web.archive.org/us/en/cust_serv/contactUs.jhtml).
 
 Sharperimage.com is committed to protecting your privacy. In order to complete your order or to satisfy your request for information, you will be asked to provide us with certain personal information. We offer 128-bit SSL encryption, which encrypts your personal and credit card information as it is transferred over the Internet. 
 
@@ -76,13 +76,13 @@ We electronically verify each order with the credit company, returning an order 
 
 **Communications** (top)
 
-> We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either through [email](mailto:care@web.sharperimage.com), postal mail or by phone, please let us know by sending us an [email](mailto:care@web.sharperimage.com) or calling us at 1-800-344-4444. 
+> We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either through email, postal mail or by phone, please let us know by contacting our [Customer Service Department](https://web.archive.org/us/en/cust_serv/contactUs.jhtml). 
 
 **Mailing Lists** (top)
 
-> We occasionally share our customer postal mailing lists with select companies that might interest you. If you prefer that we not share your name, please [click here](mailto:care@web.sharperimage.com) to send us an email to be removed from the list. 
+> We occasionally share our customer postal mailing lists with select companies that might interest you. If you prefer that we not share your name, please contact our [Customer Service Department](https://web.archive.org/us/en/cust_serv/contactUs.jhtml) to be removed from the list. 
 > 
-> Additionally, if you do not want to receive our catalog, please [click here](mailto:care@web.sharperimage.com) to send us an email to be removed from the list. 
+> Additionally, if you do not want to receive our catalog, please contact our [Customer Service Department](https://web.archive.org/us/en/cust_serv/contactUs.jhtml) to be removed from the list. 
 > 
 > When emailing to be removed from a list, please include the following information in the email:  
 >  -FIRST AND LAST NAME  
@@ -106,7 +106,7 @@ We electronically verify each order with the credit company, returning an order 
 > 
 > Click on "No thanks. I would like to unsubscribe from your email list" to unsubscribe. If you are signed in, your email address will auto populate for you. Otherwise you must enter your email address and sign in to unsubscribe. You will be taken to the email options page where you may click submit to unsubscribe. 
 > 
-> Please allow one week for your changes to take place. If you have any questions or concerns you may also contact us by email at [care@web.sharperimage.com](mailto:care@web.sharperimage.com) or by telephone at 1-800-344-5555, Monday-Friday 7 am to 5 pm PT and Saturday 8 am to 2 pm PT. 
+> Please allow one week for your changes to take place. If you have any questions or concerns please contact our [Customer Service Department](https://web.archive.org/us/en/cust_serv/contactUs.jhtml). 
 > 
 > You may also click the unsubscribe link on any special offer email you receive from us and follow the instructions onscreen. 
 
