@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpp.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203154618id_/http%3A//www.wpp.com/WPP/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpp.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603202647id_/http%3A//wpp.com/WPP/Privacy.htm) for the most accurate reproduction.*
 
 # WPP - WPP Internet Privacy Policy
 
@@ -36,4 +36,4 @@ Access and corrections
 Under European data protection law you have a right to request access to personal data which are held about you on payment of a small fee. You also have the right to require any inaccuracies in your information to be corrected free of charge.
 
 Who is responsible for personal information collected on this site?   
-If you have any questions about WPP's privacy policy, please email our [Internet Editor](mailto:editor@wpp.com), who controls the personal data collected on this website.
+If you have any questions about WPP's privacy policy, please email our [Head of Web Services](mailto:editor@wpp.com), who controls the personal data collected on this website.
