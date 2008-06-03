@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solutionsinfini.com privacy policy that was archived on 2007-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071125124957id_/http%3A//www.solutionsinfini.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutionsinfini.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603184638id_/http%3A//www.solutionsinfini.com/privacy.html) for the most accurate reproduction.*
 
 # Solutions Infini, Web Designing Company Bangalore, Bangalore Based Web Designing Company, Offering Web Designing, Logo, Designing, Flash Animation, Search Engine Optimization
 
@@ -12,13 +12,13 @@ We work on various platforms like **php & MySQL, Java, Flash, Swish** etc. We pr
   
 
 
-[Job Openings](https://web.archive.org/web/20071125124957id_/http%3A//www.solutionsinfini.com/job.html)   
-[Portfolio](https://web.archive.org/web/20071125124957id_/http%3A//www.solutionsinfini.com/portfolio.html)  
-[Web Designing](https://web.archive.org/web/20071125124957id_/http%3A//www.solutionsinfini.com/webdesigning.html)  
-[Domain Registration ](https://web.archive.org/web/20071125124957id_/http%3A//www.solutionsinfini.com/domain.html)  
-[Web Hosting](https://web.archive.org/web/20071125124957id_/http%3A//www.solutionsinfini.com/webhosting.html)   
-[Search Engine Optimization](https://web.archive.org/web/20071125124957id_/http%3A//www.solutionsinfini.com/seo.html)  
-[Contact Us](https://web.archive.org/web/20071125124957id_/http%3A//www.solutionsinfini.com/contact.php)
+[Job Openings](https://web.archive.org/web/20080603184638id_/http%3A//www.solutionsinfini.com/job.html)   
+[Portfolio](https://web.archive.org/web/20080603184638id_/http%3A//www.solutionsinfini.com/portfolio.html)  
+[Web Designing](https://web.archive.org/web/20080603184638id_/http%3A//www.solutionsinfini.com/webdesigning.html)  
+[Domain Registration ](https://web.archive.org/web/20080603184638id_/http%3A//www.solutionsinfini.com/domain.html)  
+[Web Hosting](https://web.archive.org/web/20080603184638id_/http%3A//www.solutionsinfini.com/webhosting.html)   
+[Search Engine Optimization](https://web.archive.org/web/20080603184638id_/http%3A//www.solutionsinfini.com/seo.html)  
+[Contact Us](https://web.archive.org/web/20080603184638id_/http%3A//www.solutionsinfini.com/contact.php)
 
 | 
 
