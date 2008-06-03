@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the brookings.edu privacy policy that was archived on 2007-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071008203920id_/http%3A//www.brookings.edu/about/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookings.edu privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604015726id_/http%3A//www.brookings.edu/about/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Brookings Institution Privacy Policy
-
-### Brookings Institution Privacy Policy
-
-_Last Updated: December 12, 2005_
-
-The Brookings Institution values our visitors' private information and understands the need for security and trust surrounding such information. The following policy outlines the ways in which we collect, store, and use personally identifiable information in providing our products and services.
-
-Except for very limited exceptions further described in the remainder of this Privacy Policy, we do not share any personally identifiable information with third parties.
+# Brookings Institution Privacy Policy - Brookings Institution
 
 #### Information Collection & Use
 
@@ -118,7 +110,9 @@ We reserve the right to modify this privacy statement at any time. If we make ma
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
-**The Brookings Institution**  
+**The Brookings Institution**   
 1775 Massachusetts, Ave, NW  
 Washington, DC 20036  
 202-797-6000
+
+ _Last Updated: December 12, 2005_
