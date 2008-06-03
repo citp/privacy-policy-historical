@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigsight.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225225114id_/http%3A//bigsight.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigsight.org privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604013336id_/http%3A//bigsight.org/privacy) for the most accurate reproduction.*
 
-# bigsight - a directory of people doing good work
+# bigsight - world's largest people directory
 
 At bigsight media group, your privacy as a user of our Company Sites is among our top concerns. As we've developed this application over the past six months, we have continually updated and upgraded our Privacy Policy and how it interacts with various iterations of the product. The final Privacy Policy below details the measures taken by the Company to protect your privacy in connection with your use of [_http://www.bigsight.org_](http://www.bigsight.org/) and other sites owned and operated by the Company (henceforth Company Sites). Our Company Sites are built and distributed publicly on the web as public directories of people-specific information. The information included in public profiles is either input by the individual profiled (User Content), by an editor employed by the Company, or by a third party. 
 
@@ -37,7 +37,7 @@ _User-Managed Profile Network_|  _Editor-Managed, Public Directory of Profiles_
 
 _Profile Build:_ At the time of building a public profile, the company asks for full name, e-mail address, birthday, current geographic location, and various other information levels. Once the user has submitted this information, a public profile is created, and may be updated at any time. 
 
-_Editing:_ Anyone may edit a public profile and submit that information for editorial review. At the time of editing, the company asks for any additional or new information. Once this information is submitted, it is sent to the editors for review, and is either accepted, adjusted and accepted, or declined in part or full. At the time of editing we may also collect personally identifiable information to ensure informational integrity.
+_Editing:_ A user may edit his/her profile at any time through a secure login portal. Editors review all new profiles and profile changes, and when appropriate, discuss changes with users. Editors may also, from time to time, make changes to user profiles to ensure consistency, quality, and accuracy; each time a non-superficial change is made to an entry, the user will be informed by an editor. 
 
 _Subscription to Additional Services:_ The Company may occasionally present an additional service or special promotion that requires personal information. This includes but is not limited to a job and project board.
 
