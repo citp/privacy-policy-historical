@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gateway.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215180529id_/http%3A//www.gateway.com/about/legal/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gateway.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604011444id_/http%3A//www.gateway.com/about/legal/security.php) for the most accurate reproduction.*
 
 # Gateway Computers - Privacy & Data Security
 
@@ -33,7 +33,7 @@ If users have questions or concerns regarding this statement, they should call 8
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
   
-If we decide to substantively change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of changes to the information we collect, how we use that information, and under what circumstances, if any, we disclose it. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection, we will notify users by providing 30 days notice on www.gateway.com.
+If we decide to substantively change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of changes to the information we collect, how we use that information, and under what circumstances, if any, we disclose it. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection, we will notify users by providing 30 days' notice on www.gateway.com.
 
   
 We currently use the Secure Sockets Layer (SSL) protocol to safeguard your information, including your credit card number, during online transactions. None of the tens of thousands of people who have made purchases through Gateway's Web site using SSL has reported to us fraudulent use of their credit card as a result of their online order. We believe SSL to be a very safe encryption method, but we are always looking for even more secure encryption methods to safeguard information sent online. Our server will run detection software to help ensure you are using a secure browser and your information is secure when you check out. If our browser determines you are not using a secure browser, a message will appear at checkout.
