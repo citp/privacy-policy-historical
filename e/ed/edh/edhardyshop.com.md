@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edhardyshop.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229013233id_/http%3A//www.edhardyshop.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edhardyshop.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603221744id_/http%3A//www.edhardyshop.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Ed Hardy Vintage Tattoo Wear
+# Official Ed Hardy Store by Christian Audigier - California Lifestyle Fashion Brand.
 
 **Privacy Policy**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20071229013233id_/http%3A//www.edhardyshop.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20080603221744id_/http%3A//www.edhardyshop.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
