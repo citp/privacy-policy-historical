@@ -1,34 +1,93 @@
-> *The following text is extracted and transformed from the territoryahead.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701231147id_/http%3A//www.territoryahead.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D237%26path%3D1%252C2%252C195%252C237) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the territoryahead.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603143345id_/http%3A//www.territoryahead.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D237%26path%3D1%252C2%252C195%252C237) for the most accurate reproduction.*
 
-# The Territory Ahead - Privacy & Security
+# Your Privacy Rights - Customer Service - The Territory Ahead
 
-  
-**We Respect Your Privacy**  
-It is customary for direct marketing companies like The Territory Ahead/Isabella Bird to share customer information (name and address) with other reputable firms for purposes of sending you relevant catalog, magazine, or fundraising offers in the mail. You have the right to choose not to receive such information from other direct marketing firms. Furthermore, you may want to know what information we collect online from customer transactions and how we use it. Our privacy policy below explains our name removal procedure ("opt out"), data collection practices, and other pertinent security information.
+Your Privacy Rights
 
-  
-(Updated October 10, 2005) The Territory Ahead, Inc. sells apparel and accessories under The Territory Ahead and Isabella Bird brand names through its own catalogs, online web sites (territoryahead.com; isabellabird.com), via HSN TV, HSN.com, and our retail stores. We share our customer list (excluding customers of HSN TV, HSN.com, and our retail stores) with carefully screened companies whose products and services may interest you. Individual information shared consists of name and address; aggregate information shared may include range of dollars spent, date range of transaction, and type of clothing purchased (e.g., men’s versus women’s clothing). We do not share customer telephone number or email address with outside companies. Our list is not available for telemarketing.
+The Territory Ahead respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmaconsumers.org](http://www.dmaconsumers.org/)
 
   
-If you do not wish to receive mailings from these other companies with whom we share customer lists, or do not wish to receive our catalogs, please contact us by phone, email, or mail. Provide your exact name and address as it appears on your catalog to ensure accuracy, and indicate your catalog preferences.
+The Territory Ahead is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including: Ask.com, Citysearch, Evite, Gifts.com, HSN, LendingTree, Match.com, RealEstate.com, ServiceMagic, Ticketmaster, and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/).
 
-  
-Transaction information and email addresses We collect only the minimum information necessary to complete your order online; this is the same information required to complete telephone orders — name, billing and shipping address, telephone number, and payment information. We require customer email address for online orders so that we may notify you of your order status or merchandise return status. Additionally, we may send you emails promoting our products, announcing periodic sales, and offering other special limited-time discounts such as free shipping that may be used by online customers.
+At IAC, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of The Territory Ahead, please click [here](https://web.archive.org/jump.jsp?itemID=400&itemType=CATEGORY).
 
-  
-We do not share customer email addresses with other companies for direct marketing purposes. However, if you do not wish to receive promotional mailings from territoryahead.com or isabellabird.com, you will have the option to opt out upon receipt of your next promotional email, or [you can unsubscribe here](https://web.archive.org/subscribemain.jsp?action=0)
+   ([read more](https://web.archive.org/jump.jsp?itemID=400&itemType=CATEGORY#aboutyou))  
+We may collect information that can identify you ("personal information"), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. We also may collect other types of information in the following ways when you visit our website:  
 
-**Our company contact points:  
+
+  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
+  * We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.
+  * We may use standard Internet tools, such web beacons, which collect information that tracks your use of our website and enables us to customize our services and advertisements.
+
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act. 
+
+   ([read more](https://web.archive.org/jump.jsp?itemID=400&itemType=CATEGORY#thirdparty))  
+We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
+
+  * We do not provide any personal information to these companies.
+  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.
+  * Some of these companies may be members of the Network Advertising Initiative [www.networkadvertising.org](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.
+
+If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information. 
+
+   ([read more](https://web.archive.org/jump.jsp?itemID=400&itemType=CATEGORY#howweuse))  
+We may use information to: 
+
+  * Fulfill your requests for products and services;
+  * Offer products and services that may be of interest to you;
+  * Customize the advertising and content that you see on our website;
+  * Facilitate use of our website;
+  * Manage your account and your preferences;
+  * Analyze use of and improve our website, products and services;
+  * Identify and protect against fraudulent transactions and other misuses of our website;
+  * Enforce our Terms of Use.
+
+
+
+   ([read more](https://web.archive.org/jump.jsp?itemID=400&itemType=CATEGORY#sharedinfo))  
+We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with: 
+
+  * Service providers, such as credit-card payment processors, performing services on our behalf;
+  * Other IAC businesses;
+  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
+  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
+
+We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. 
+
+   ([read more](https://web.archive.org/jump.jsp?itemID=400&itemType=CATEGORY#yourchoices))  
+You may choose: 
+
+  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
+  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address below or by [clicking here to unsubscribe](https://web.archive.org/subscribemain.jsp?action=0)
+  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
+  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
+  * Opt-out. If you do not wish to receive mailings from other companies or to have personal information shared with other companies, including other IAC businesses, please contact us by phone, email or mail.
+
+**Our company contact points:**  
 Toll Free: 1-800-737-5754  
-Email: customerservice@territoryahead.com  
+Email: [customerservice@territoryahead.com](mailto:customerservice@territoryahead.com)  
 Mail: The Territory Ahead  
 Attn: Customer Service  
-419 State St  
-Santa Barbara, CA 93101-2304**
+419 State St.  
+Santa Barbara, CA 93101-2304
 
-The Territory Ahead is a member of the Direct Marketing Association (DMA), and follows DMA privacy guidelines. The DMA’s Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmaconsumers.org](http://www.dmaconsumers.org/)
+
+
+
+   ([read more](https://web.archive.org/jump.jsp?itemID=400&itemType=CATEGORY#security))  
+We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
 
   
-A cookie is a small data file that is sent by a web server (in this case, our servers) to your computer. We use cookies to save your shopping cart items for up to two weeks should you leave our site prior to order checkout. Also, we use cookies to activate email promotions such as free shipping and order discounts once you click through to our web site. This enables you to automatically receive the promotion during the online order transaction.
+We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
 
-Pixel tags, or web beacons, are 1 x 1 picture elements that are placed on a web site or in an email to monitor user actions. We use pixel tags in promotional emails to monitor aggregate statistics such as the percentage of promotional emails that get opened, clicked through, etc. Also, we use pixel tags on our site to monitor aggregate traffic volume (visits and visitors) by time of day, to summarize visitor navigation paths on our site (clickstreams), to track visitor ISP domains, and to track types of web browsers visitors use to access our site. This information is used to make it easier to get around our site, shop, checkout, and in general to ensure that our site functions as intended.
+  
+If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/jump.jsp?itemID=400&itemType=CATEGORY), or our information practices, please contact us by email or postal mail below:
+
+**Privacy Contact:**  
+Patricia A. Davis  
+The Territory Ahead  
+419 State St.  
+Santa Barbara, CA 93101-2304  
+[privacy@territoryahead.com](mailto:privacy@territoryahead.com)
+
+© 2007 IAC/InterActiveCorp. All rights reserved.
