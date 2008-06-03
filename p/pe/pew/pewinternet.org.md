@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pewinternet.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213143058id_/http%3A//www.pewinternet.org/about_policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewinternet.org privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604015433id_/http%3A//www.pewinternet.org/about_policies.asp) for the most accurate reproduction.*
 
 # Pew Internet & American Life Project
 
