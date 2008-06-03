@@ -1,0 +1,2066 @@
+<!--The following is the downloaded HTML source of the comparetheinsurance.com privacy policy that was archived on 2008-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080603074512id_/http%3A//comparetheinsurance.com/privacy.php) for the most accurate reproduction.-->
+
+<html><head>
+
+
+
+<title>Privacy Policy of ComparetheInsurance</title>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
+
+<link href="style.css" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+<script src="ppc_AC_RunActiveContent.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript" src="ppc_jquery.js"></script>
+
+
+
+<script type="text/javascript" src="ppc_thickbox.js"></script>
+
+
+
+<script language="JavaScript" src="ppc_validation.js"></script>
+
+
+
+<script language="JavaScript" src="ppc_smoothscroll.js"></script>
+
+
+
+<script language="JavaScript" src="getURLParameter.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+<script>
+
+
+
+function MM_swapImgRestore() { //v3.0
+
+
+
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+
+
+
+}
+
+
+
+
+
+
+
+function MM_preloadImages() { //v3.0
+
+
+
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+
+
+
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+
+
+
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+
+
+
+}
+
+
+
+
+
+
+
+function MM_swapImage() { //v3.0
+
+
+
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+
+
+
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+
+
+
+}
+
+
+
+function getLeadNumber() {
+
+
+
+  var date = new Date();
+
+
+
+  var year = date.getFullYear();
+
+
+
+  var month = "" + (date.getMonth() + 1);
+
+
+
+  var day = "" + date.getDate();
+
+
+
+  var hh = date.getHours();
+
+
+
+  var mm = date.getMinutes();
+
+
+
+  var ss = date.getSeconds();
+
+
+
+  var time = "" + date.getTime();
+
+
+
+  var ms = time.substring(time.length - 3);
+
+
+
+  if (month.length <= 1) {
+
+
+
+    month = "0" + month;
+
+
+
+  }
+
+
+
+  if (day.length <= 1) {
+
+
+
+    day = "0" + day;
+
+
+
+  }
+
+
+
+  if (hh.length <= 1) {
+
+
+
+    hh = "0" + hh;
+
+
+
+  }
+
+
+
+  if (mm.length <= 1) {
+
+
+
+    mm = "0" + mm;
+
+
+
+  }
+
+
+
+  if (ss.length <= 1) {
+
+
+
+    ss = "0" + ss;
+
+
+
+  }
+
+
+
+  var leadnum  = "" + year + month + day + hh + mm + ss + ms;
+
+
+
+  return leadnum;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+function checkAllFields(form)
+
+
+
+{
+
+
+
+   	  //check for required fields from the Personal Information section
+
+
+
+f=0;
+
+
+
+		if (!hasValue (form.a1_ReqFirstName))
+
+
+
+		{
+
+
+
+			form.a1_ReqFirstName.style.backgroundColor="#FF99CC";
+
+
+
+			f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+		  form.a1_ReqFirstName.style.backgroundColor="#FFFFFF";
+
+
+
+		}
+
+
+
+		
+
+
+
+		if (!hasValue (form.a3_ReqLastName))
+
+
+
+		{
+
+
+
+			form.a3_ReqLastName.style.backgroundColor="#FF99CC";
+
+
+
+			f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.a3_ReqLastName.style.backgroundColor="#FFFFFF";
+
+
+
+		}
+
+
+
+		
+
+
+
+		if (!hasValue (form.DayPhone))
+
+
+
+		{
+
+
+
+			form.DayPhone.style.backgroundColor="#FF99CC";
+
+
+
+			f=1;
+
+
+
+		} 
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.DayPhone.style.backgroundColor="#FFFFFF";
+
+
+
+		}
+
+
+
+		
+
+
+
+	   //Email Validation.
+
+
+
+	   var isValidEmailID = false;
+
+
+
+	   if(!hasValue(form.b8_EmailAddress)) {
+
+
+
+			form.b8_EmailAddress.style.backgroundColor="#FF99CC";	   
+
+
+
+			f=1;
+
+
+
+	   }
+
+
+
+	   if(!isEmail(form.b8_EmailAddress)) {
+
+
+
+			form.b8_EmailAddress.style.backgroundColor="#FF99CC";	   
+
+
+
+			f=1;
+
+
+
+	   }
+
+
+
+	   else
+
+
+
+	   {
+
+
+
+			form.b8_EmailAddress.style.backgroundColor="#FFFFFF";	   
+
+
+
+	   }
+
+
+
+		
+
+
+
+		if (!hasValue (form.a6_address_1))
+
+
+
+		{
+
+
+
+			form.a6_address_1.style.backgroundColor="#FF99CC";
+
+
+
+			f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.a6_address_1.style.backgroundColor="#FFFFFF";
+
+
+
+		}
+
+
+
+
+
+
+
+		/*if (!hasValue (form.a7_address_2))
+
+
+
+		{
+
+
+
+			form.a7_address_2.style.backgroundColor="#FF99CC";
+
+
+
+			f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.a7_address_2.style.backgroundColor="#FFFFFF";
+
+
+
+		}*/
+
+
+
+
+
+
+
+		if (!hasValue (form.a8_city))
+
+
+
+		{
+
+
+
+			form.a8_city.style.backgroundColor="#FF99CC";			
+
+
+
+			f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.a8_city.style.backgroundColor="#FFFFFF";
+
+
+
+		}
+
+
+
+		
+
+
+
+		if (!dropdownHasValue (form.a9_state))
+
+
+
+		{
+
+
+
+			form.a9_state.style.backgroundColor="#FF99CC";			
+
+
+
+			f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.a9_state.style.backgroundColor="#FFFFFF";
+
+
+
+		}
+
+
+
+		
+
+
+
+		if(!hasValue (form.a10_zip))
+
+
+
+		{
+
+
+
+			form.a10_zip.style.backgroundColor="#FF99CC";            	
+
+
+
+			f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.a10_zip.style.backgroundColor="#FFFFFF";
+
+
+
+		}
+
+
+
+		
+
+
+
+/*		if(!dropdownHasValue (form.level_income))
+
+
+
+		{
+
+
+
+			form.level_income.style.backgroundColor="#FF99CC";            	
+
+
+
+			f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.level_income.style.backgroundColor="#FFFFFF";
+
+
+
+		}*/
+
+
+
+
+
+
+
+		// Validation gender
+
+
+
+/*		var gender = false; 
+
+
+
+		for (counter = 0; counter < form.b11_gender.length; counter++) {
+
+
+
+		if (form.b11_gender[counter].checked) {
+
+
+
+		   gender = true;
+
+
+
+		   break;
+
+
+
+		}
+
+
+
+		}*/
+
+
+
+/*		if(!gender) {
+
+
+
+		F1.style.background="#FF99CC";	
+
+
+
+		F2.style.background="#FF99CC";	
+
+
+
+		 f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+		F1.style.background="#FFFFFF";	
+
+
+
+		F2.style.background="#FFFFFF";	
+
+
+
+		}*/
+
+
+
+
+
+
+
+
+
+
+
+/*		if(!dropdownHasValue (form.b12_age))
+
+
+
+		{
+
+
+
+			form.b12_age.style.backgroundColor="#FF99CC";            	
+
+
+
+			f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.b12_age.style.backgroundColor="#FFFFFF";
+
+
+
+		}*/
+
+
+
+
+
+
+
+
+
+
+
+/*		if (!validateZip (form.a10_zip))
+
+
+
+		{
+
+
+
+			form.a10_zip.style.backgroundColor="#FF99CC";
+
+
+
+			f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.a10_zip.style.backgroundColor="#FFFFFF";
+
+
+
+		}*/
+
+
+
+		//PolicyOwner Validation.
+
+
+
+		/*var policyowner = false; 
+
+
+
+		for (counter = 0; counter < form.b9_policyowner.length; counter++) {
+
+
+
+		if (form.b9_policyowner[counter].checked) {
+
+
+
+		   policyowner = true;
+
+
+
+		   break;
+
+
+
+		}
+
+
+
+		}
+
+
+
+		if(!policyowner) {
+
+
+
+		R1.style.background="#FF99CC";	
+
+
+
+		R2.style.background="#FF99CC";	
+
+
+
+		 f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+		R1.style.background="#FFFFFF";	
+
+
+
+		R2.style.background="#FFFFFF";	
+
+
+
+		}
+
+
+
+		
+
+
+
+		if(!hasValue(form.b10_policy_number))
+
+
+
+		{
+
+
+
+			form.b10_policy_number.style.backgroundColor="#FF99CC";            	
+
+
+
+			f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.b10_policy_number.style.backgroundColor="#FFFFFF";
+
+
+
+		}*/
+
+
+
+
+
+
+
+/*		if(!dropdownHasValue (form.life_stage))
+
+
+
+		{
+
+
+
+			form.life_stage.style.backgroundColor="#FF99CC";            	
+
+
+
+			f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.life_stage.style.backgroundColor="#FFFFFF";
+
+
+
+		}*/
+
+
+
+
+
+
+
+/*		if(!dropdownHasValue (form.d1_service_type))
+
+
+
+		{
+
+
+
+			form.d1_service_type.style.backgroundColor="#FF99CC";            	
+
+
+
+			f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.d1_service_type.style.backgroundColor="#FFFFFF";
+
+
+
+		}*/
+
+
+
+
+
+
+
+
+
+
+
+	/*	if(!dropdownHasValue (form.seeking))
+
+
+
+		{
+
+
+
+			form.seeking.style.backgroundColor="#FF99CC";            	
+
+
+
+			f=1;
+
+
+
+		}
+
+
+
+		else
+
+
+
+		{
+
+
+
+			form.seeking.style.backgroundColor="#FFFFFF";
+
+
+
+		}*/
+
+
+
+
+
+
+
+
+
+
+
+  if(!f)
+
+
+
+  {
+
+
+
+	  return true;
+
+
+
+  }
+
+
+
+  else
+
+
+
+  {
+
+
+
+	return false;
+
+
+
+  }	  
+
+
+
+    }
+
+
+
+</script>
+
+
+
+
+
+
+
+</head>
+
+
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+
+
+<table width="100%" cellspacing="0" cellpadding="0">
+
+
+
+  <tbody><tr>
+
+
+
+    <td background="images/bgtop.jpg" style="background-repeat: repeat-x;"><table width="970" border="0" align="center" cellpadding="0" cellspacing="0">
+
+
+
+        <tbody><tr>
+
+
+
+          <td width="170" valign="top"><table width="170" border="0" cellspacing="0" cellpadding="0">
+
+
+
+            <tbody><tr>
+
+
+
+              <td><img src="images/clear.gif" width="10" height="340"></td>
+
+
+
+            </tr>
+
+
+
+            <tr>
+
+
+
+              <td><img src="images/leftinslogos.gif" width="150" height="662"></td>
+
+
+
+            </tr>
+
+
+
+            <tr>
+
+
+
+              <td>&nbsp;</td>
+
+
+
+            </tr>
+
+
+
+          </tbody></table></td>
+
+
+
+          <td width="800" valign="top"><table width="800" align="center" cellpadding="0" cellspacing="0">
+
+
+
+      <tbody><tr>
+
+
+
+        <td><table width="100%" cellspacing="0" cellpadding="0">
+
+
+
+            <tbody><tr>
+
+
+
+              <td><img src="images/home_01.jpg" width="200" height="88"></td>
+
+
+
+              <td><img src="images/home_02.jpg" width="200" height="88"></td>
+
+
+
+              <td width="200">&nbsp;</td>
+
+
+
+              <td><img src="images/home_04.jpg" width="200" height="88"></td>
+
+
+
+            </tr>
+
+
+
+        </tbody></table></td>
+
+
+
+      </tr>
+
+
+
+      <tr>
+
+
+
+        <td><table width="100%" cellspacing="0" cellpadding="0">
+
+
+
+            <tbody><tr>
+
+
+
+              <td width="134">&nbsp;</td>
+
+
+
+              <td width="111" background="images/home_06.jpg"><a href="http://www.comparetheinsurance.com" class="top">Life Insurance</a></td>
+
+
+
+              <td width="112" background="images/home_07.jpg"><a href="cover.php" class="top">Type of Cover</a></td>
+
+
+
+              <td width="112" background="images/home_08.jpg"><div align="center"><a href="testimonials.php" class="top">Testimonials</a></div></td>
+
+
+
+              <td width="113" background="images/home_09.jpg"><div align="center"><a href="glossary.php" class="top">Glossary</a></div></td>
+
+
+
+              <td><img src="images/home_10.jpg" width="218" height="23"></td>
+
+
+
+            </tr>
+
+
+
+        </tbody></table></td>
+
+
+
+      </tr>
+
+
+
+      <tr>
+
+
+
+        <td><table width="100%" cellspacing="0" cellpadding="0">
+
+
+
+            <tbody><tr>
+
+
+
+              <td width="582" height="9" bgcolor="#005DAB"></td>
+
+
+
+              <td><img src="images/home_12.jpg" width="218" height="9"></td>
+
+
+
+            </tr>
+
+
+
+        </tbody></table></td>
+
+
+
+      </tr>
+
+
+
+      <tr>
+
+
+
+        <td><table width="100%" cellspacing="0" cellpadding="0">
+
+
+
+            <tbody><tr>
+
+
+
+              <td width="8">&nbsp;</td>
+
+
+
+              <td><img src="images/home_14.jpg" width="110" height="156"></td>
+
+
+
+              <td width="464" valign="bottom" background="images/home_15.jpg"><table width="100%" cellspacing="0" cellpadding="0">
+
+
+
+                  <tbody><tr>
+
+
+
+                    <td width="33" align="center"><table width="100%" cellspacing="0" cellpadding="0">
+
+
+
+                        <tbody><tr>
+
+
+
+                          <td width="60%">&nbsp;</td>
+
+
+
+                          <td><img src="images/buttontop.jpg" width="8" height="12"></td>
+
+
+
+                        </tr>
+
+
+
+                    </tbody></table></td>
+
+
+
+                    <td class="subtxt">We'll help you find the <strong>Best Value</strong> Life Insurance across the US market. </td>
+
+
+
+                  </tr>
+
+
+
+                  <tr>
+
+
+
+                    <td align="center" valign="top"><table width="100%" cellspacing="0" cellpadding="0">
+
+
+
+                        <tbody><tr>
+
+
+
+                          <td height="28" align="center"><table width="100%" cellspacing="0" cellpadding="0">
+
+
+
+                              <tbody><tr>
+
+
+
+                                <td width="60%">&nbsp;</td>
+
+
+
+                                <td><img src="images/buttontop.jpg" width="8" height="12"></td>
+
+
+
+                              </tr>
+
+
+
+                          </tbody></table></td>
+
+
+
+                        </tr>
+
+
+
+                    </tbody></table></td>
+
+
+
+                    <td class="subtxt">We'll compare 100s of Life Insurance Plans to find the Best Life Insurance Plan . We Promise to <strong>Match Any Other Life Cover Quote</strong> You Find ! </td>
+
+
+
+                  </tr>
+
+
+
+                  <tr>
+
+
+
+                    <td align="center"><table width="100%" cellspacing="0" cellpadding="0">
+
+
+
+                        <tbody><tr>
+
+
+
+                          <td width="60%">&nbsp;</td>
+
+
+
+                          <td><img src="images/buttontop.jpg" width="8" height="12"></td>
+
+
+
+                        </tr>
+
+
+
+                    </tbody></table></td>
+
+
+
+                    <td class="subtxt"><strong>FREE</strong> advice. <strong>NO OBLIGATION</strong> Quote. All In One Minute
+                      <script language="javascript" type="text/javascript">var u=document.location.toString();var l=document.location.href;var r=document.referrer;var reg_exp = new RegExp("adwatcher=([0-9]+)", "g");var id = reg_exp.exec(u);if(id!=null){if(isNaN(id[1]*1)=== false)if(typeof(r)!="undefined"){document.write('<img src="http://www.ringtonestracker.com/adwatcher/tracker.php?t='+id[1]+'&ref='+r+'&land='+l+'" style="border:0px;width:1px;height:1px;" />');}}</script> </td>
+
+
+
+                  </tr>
+
+
+
+                  <tr>
+
+
+
+                    <td height="22">&nbsp;</td>
+
+
+
+                    <td>&nbsp;</td>
+
+
+
+                  </tr>
+
+
+
+              </tbody></table></td>
+
+
+
+              <td><img src="images/home_16.jpg" width="218" height="156"></td>
+
+
+
+            </tr>
+
+
+
+        </tbody></table></td>
+
+
+
+      </tr>
+
+
+
+      <tr>
+
+
+
+        <td><table width="100%" cellspacing="0" cellpadding="0">
+
+
+
+            <tbody><tr>
+
+
+
+              <td width="574" height="32" class="head">Looking for Life Insurance or Critical Illness Cover?</td>
+
+
+
+              <td width="224" align="left" valign="top"><img src="images/home_18.jpg" width="218" height="35"></td>
+
+
+
+            </tr>
+
+
+
+        </tbody></table></td>
+
+
+
+      </tr>
+
+
+
+      <tr>
+
+
+
+        <td>
+
+
+
+		<form action="submit.php" method="post" name="contactForm">
+
+
+
+	
+
+		
+
+
+
+		
+
+
+
+		
+
+
+
+		<table border="0" cellpadding="3" cellspacing="0" width="800px">
+
+
+
+		
+
+
+
+                      
+
+
+
+                <tbody>
+
+
+
+				<tr><td colspan="4" class="subhead">Take the first steps towards financial security by completing the form below.<br><br></td></tr>
+
+
+
+				
+
+
+
+				<tr> 
+
+
+
+				  <td width="138" class="subtxt">First Name:<span class="subtxtred">*</span></td>
+
+
+
+                  <td width="216"><div align="left"> 
+
+
+
+                      <label> 
+
+
+
+                      <input name="a1_ReqFirstName" class="form-style" id="FirstName" size="20" tabindex="1" type="text">
+                      </label>
+
+
+
+                    </div></td>
+
+
+
+                  <td width="128" class="subtxt">Last Name:<span class="subtxtred">*</span>                  </td>
+
+
+
+                  <td width="294"><div align="left">
+
+
+
+                    <input name="a3_ReqLastName" class="form-style" id="LastName" size="20" tabindex="2" type="text">
+
+
+
+                  </div></td>
+                </tr>
+
+
+
+                <tr> 
+
+
+
+                  <td class="subtxt" width="138"><div style="float: left;">Phone:<span class="subtxtred">*</span></div></td>
+
+
+
+                  <td class="subtxt"><div align="left"><span style="float: left;"> 
+
+
+
+                      <input name="phonenumber" class="form-style" id="DayPhone" size="20" maxlength="12" tabindex="3" type="text">
+
+
+
+                      <input name="b2_ReqAreaCde" id="b2_ReqAreaCde" type="hidden">
+
+
+
+                      <input name="b3_ReqPhone1" id="b3_ReqPhone1" type="hidden">
+
+
+
+                      <input name="b4_ReqPhone2" id="b4_ReqPhone2" type="hidden">
+
+
+
+                      </span></div></td>
+
+
+
+                  <td class="subtxt" width="128"><div align="left">E-Mail:<span class="subtxtred">*</span></div></td>
+
+
+
+                  <td class="subtxt">
+
+
+
+                  <input name="b8_EmailAddress" class="form-style" id="Email" tabindex="4" type="text" size="20"></td>
+                </tr>
+
+
+
+                <tr> 
+
+
+
+                  <td class="subtxt" width="138">Address :<span class="subtxtred">* </span></td>
+
+
+
+                  <td class="subtxt"><div align="left">
+
+
+
+                    <input name="a6_address_1" class="form-style" id="Address1" tabindex="5" type="text" size="20">
+
+
+
+                  </div></td>
+
+
+
+                  <td class="subtxt" width="128"><div align="left">City:<span class="subtxtred">*</span></div></td>
+
+
+
+                  <td class="subtxt"><div align="left">
+                    <input name="a8_city" class="form-style" id="City" tabindex="7" type="text" size="20">
+                  </div></td>
+                </tr>
+
+
+
+                <tr> 
+
+
+
+                  <td class="subtxt" width="138">State:<span class="subtxtred">*</span></td>
+
+
+
+                  <td class="subtxt"><select name="a9_state" class="form-style" id="State" tabindex="8">
+                    <option value="" selected="selected">-Select-</option>
+                    <option value="AL">Alabama</option>
+                    <option value="AK">Alaska</option>
+                    <option value="AZ">Arizona</option>
+                    <option value="AR">Arkansas</option>
+                    <option value="CA">California</option>
+                    <option value="CO">Colorado</option>
+                    <option value="CT">Connecticut</option>
+                    <option value="DE">Delaware</option>
+                    <option value="DC">District of Columbia</option>
+                    <option value="FL">Florida</option>
+                    <option value="GA">Georgia</option>
+                    <option value="HI">Hawaii</option>
+                    <option value="ID">Idaho</option>
+                    <option value="IL">Illinois</option>
+                    <option value="IN">Indiana</option>
+                    <option value="IA">Iowa</option>
+                    <option value="KS">Kansas</option>
+                    <option value="KY">Kentucky</option>
+                    <option value="LA">Louisiana</option>
+                    <option value="ME">Maine</option>
+                    <option value="MD">Maryland</option>
+                    <option value="MA">Massachusetts</option>
+                    <option value="MI">Michigan</option>
+                    <option value="MN">Minnesota</option>
+                    <option value="MS">Mississippi</option>
+                    <option value="MO">Missouri</option>
+                    <option value="MT">Montana</option>
+                    <option value="NE">Nebraska</option>
+                    <option value="NV">Nevada</option>
+                    <option value="NH">New Hampshire</option>
+                    <option value="NJ">New Jersey</option>
+                    <option value="NM">New Mexico</option>
+                    <option value="NY">New York</option>
+                    <option value="NC">North Carolina</option>
+                    <option value="ND">North Dakota</option>
+                    <option value="OH">Ohio</option>
+                    <option value="OK">Oklahoma</option>
+                    <option value="OR">Oregon</option>
+                    <option value="PA">Pennsylvania</option>
+                    <option value="RI">Rhode Island</option>
+                    <option value="SC">South Carolina</option>
+                    <option value="SD">South Dakota</option>
+                    <option value="TN">Tennessee</option>
+                    <option value="TX">Texas</option>
+                    <option value="UT">Utah</option>
+                    <option value="VT">Vermont</option>
+                    <option value="VA">Virginia</option>
+                    <option value="WA">Washington</option>
+                    <option value="WV">West Virginia</option>
+                    <option value="WI">Wisconsin</option>
+                    <option value="WY">Wyoming</option>
+                  </select></td>
+                  <td class="subtxt" width="128">Zip Code:<span class="subtxtred">* </span></td>
+
+
+
+                  <td class="subtxt"><div align="left">
+                    <input name="a10_zip" class="form-style" id="Zip" size="8" tabindex="9" type="text">
+                  </div></td>
+                </tr>
+
+
+
+
+
+
+
+
+				<!--<tr>
+
+
+
+                  <td colspan="2" class="subtxt" valign="top">Are you a Northwestern Mutual policyowner?<span class="subtxtred">*</span></td>
+
+
+
+                  <td><table cellpadding="0" cellspacing="0" width="68%">
+
+
+
+                    <tr  class="subtxt">
+
+
+
+					<td width="19%" id="R1"><input name="b9_policyowner" value="yes" tabindex="10" type="radio"></td><td width="31%">Yes</td>
+
+
+
+				  <td width="17%" id="R2"><input name="b9_policyowner" value="no" tabindex="11" type="radio"></td><td width="33%" align="right">No</td>
+
+
+
+				  </tr></table></td>
+
+
+
+                </tr>
+
+
+
+                <tr> 
+
+
+
+                  <td colspan="3" class="subtxt" valign="top">If yes, do you know your Northwestern Mutual policy number or representative's name?<span class="subtxtred">*</span>                  </td>
+
+
+
+				  <td>
+
+
+
+                  <input name="b10_policy_number" class="form-style" id="Representative" tabindex="12" size="20" type="text"></td>
+
+
+
+                </tr>-->
+
+
+
+
+
+
+
+                
+                <tr> 
+
+
+
+
+
+
+
+                  <td colspan="3" class="subtxt" align="right">&nbsp;</td>
+
+
+
+                  <td class="subtxt" align="right"><a href="javascript: if(checkAllFields(document.contactForm)) {document.contactForm.submit(); }"><img src="images/button.jpg" alt="Get Started Now!" name="submitImg" id="submitImg2" tabindex="32" border="0" align="left"></a></td>
+                </tr>
+
+
+
+                <tr>
+
+
+
+                  <td colspan="4" class="subtxt"><span class="subtxtred">*</span> <em>Required field</em></td>
+                </tr>
+              </tbody></table>
+
+
+
+		</form>		</td>
+
+
+
+      </tr>
+
+
+
+      <tr>
+
+
+
+        <td><table width="100%" cellspacing="0" cellpadding="0">
+
+
+
+            <tbody><tr>
+
+
+
+              <td width="582" height="60"><table width="100%" cellspacing="0" cellpadding="0">
+
+
+
+                  <tbody><tr>
+
+
+
+                    <td class="footertxt">Based on your criteria CompareTheInsurance will introduce you to a Life Insurance Company<br>
+
+
+
+                      who will be best placed to meet your requirements. We compare hundreds of life insurance plans to find you the best deal within minutes. </td>
+
+
+
+                  </tr>
+
+
+
+              </tbody></table></td>
+
+
+
+              <td width="218" height="60"><table width="100%" cellspacing="0" cellpadding="0">
+
+
+
+                  <tbody><tr>
+
+
+
+                    <td>&nbsp;</td>
+
+
+
+                    <td>&nbsp;</td>
+
+
+
+                  </tr>
+
+
+
+              </tbody></table></td>
+
+
+
+            </tr>
+
+
+
+        </tbody></table></td>
+
+
+
+      </tr>
+
+
+
+
+
+
+
+    </tbody></table>	</td>
+
+
+
+        </tr>
+
+
+
+        
+
+
+
+      </tbody></table>
+
+
+
+	  
+
+
+
+	  
+
+
+
+	  
+
+
+
+	  
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	</td>
+
+
+
+  </tr>
+
+
+
+  <tr>
+
+
+
+    <td height="28" background="images/bgtop.jpg" style="background-repeat: repeat-x;"><table width="100%" cellpadding="0" cellspacing="0" bgcolor="#005BAA">
+
+
+
+      <tbody><tr>
+
+
+
+        <td class="buttomtxt">         <p>We treat your privacy with seriousness and your personal data is kept safely by us when you submit an application for Insurance or investment product. Our team at ComparetheInsurance has taken all the measures necessary to ensure this data is not compromised. <br>
+            <br>
+The Personal Information which you provide to our team will only be used for the Life Insurance and Investment Quote which you applied for and not for any other purposes. The information which you provide to us may be sent to other life insurance companies to allow your quote to be processed, these companies may have different privacy policies and you're encouraged to check their privacy policies as well. <br>
+<br>
+If you do not wish to receive an Insurance or Investment Quote, please do not submit an application through our form as you will be contacted by the relevant life insurance company. If you find your information is inaccurate , please contact us and we will have it edited/removed from our database. </p>
+          <p>Changes to Our Privacy Policy</p>
+          <p>We reserve the right to change our privacy policy. If changes are made, we will post these changes to this Privacy Policy and to other relevant places on our web site so that visitors are aware of the change. We encourage you to check this posted Privacy Policy for updates. Unless you give us permission to do so, or unless law requires us, we do not willfully use or disclose personally identifiable information to third parties, other than as necessary to facilitate the process of obtaining insurance for you.</p>
+          <p>We store information we collect through server log files and/or secure databases. ComparetheINsurance uses the latest server software and encryption technologies to help protect your personal information. Secure Socket Layer (SSL) technology encrypts the information you've provided online as it travels between your computer and IntelliQuote Insurance Services. We recommend that you use a browser that supports SSL, and that you have not disabled the encryption feature in your browser.
+    
+ComparetheInsurance also uses other security procedures and practices, including keyed-entry server rooms and firewalls, to protect your data from unauthorized use or disclosure.</p>
+          <p>Use of Cookies</p>
+          <p>ComparetheInsurance uses cookies to increase the user experience. and to make the site more useful. For more information on my privacy policy , please <a href="contact.php">contact us </a>. </p>          <p>&nbsp;</p>          </td>
+
+
+
+      </tr>
+
+
+
+    </tbody></table></td>
+
+
+
+  </tr>
+
+
+
+  <tr>
+
+
+
+    <td height="32" background="images/bgtop.jpg" style="background-repeat: repeat-x;">&nbsp;</td>
+
+
+
+  </tr>
+
+
+
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
