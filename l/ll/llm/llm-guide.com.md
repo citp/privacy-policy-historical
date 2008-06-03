@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the llm-guide.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223023422id_/http%3A//www.llm-guide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llm-guide.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603115346id_/http%3A//www.llm-guide.com/privacy) for the most accurate reproduction.*
 
 # LLM GUIDE - Privacy
 
