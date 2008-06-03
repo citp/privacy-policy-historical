@@ -1,612 +1,636 @@
-<!--The following is the downloaded HTML source of the ebgames.com privacy policy that was archived on 2007-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071222053612id_/http%3A//www.ebgames.com/gs/sites/eb/help/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebgames.com privacy policy that was archived on 2008-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080603114458id_/http%3A//www.ebgames.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><script language="JavaScript1.2">
-//*---------------------------------------------------
-// submits the signup form on the account.asp page
-//--------------------------------------------------*/
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script language="javascript">
+function IgnoreEnter(e) {
+	var code;
+	if (!e) // IE
+	{ 
+	    var e = window.event;
+	}
+	if (e.keyCode)
+	{
+	    code = e.keyCode;
+	}
+	else if (e.which) // Firefox, Opera
+	{ 
+	    code = e.which;
+	}
 
-function signup(){
-
-	document.signupform.submit();
-	
+	if (code == 13)
+	{
+	    e.cancelBubble=true;
+	    e.returnValue=false;
+	}
 }
 
-//*---------------------------------------------------
-// submits the get order form on ordertracking.asp 
-//--------------------------------------------------*/
-
-
-function getorder(){
-
-	document.orderstatusform.submit();
-	
-}
-
-
-//*----------------------------------------------------------
-// opens a new browser window when an outside link is clicked  
-//-----------------------------------------------------------*/
-
-
-function NewWindow(mypage, myname, w, h, scroll) {
-	var winl = (screen.width - w) / 2;
-	var wint = (screen.height - h) / 2;
-	winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable'
-	win = window.open(mypage, myname, winprops)
-	if (parseInt(navigator.appVersion) >= 4) {
-		 win.window.focus(); }
+function ResetDefault()    
+{    __defaultFired = false;    
 }
 
 </script>
-	
-		
-			<title>EBgames.com - Help Desk</title>
-			
-			<meta name="robots" content="index,follow">
-			
-			
-			<meta name="description" content="EB Games has a huge selection of new and used games at fantastic prices.  Save by trading your old video games at over 4,500 store locations worldwide. Shop online at EBgames.com for popular PS3, PS2, PSP, Wii, DS, Xbox 360, GameCube or PC Games. ">
-			<meta name="keywords" content="babbages, funcoland, software etc, electronics boutique, ebx, buy games, ps3, ps2, psp, wii, ds, xbox 360, gamecube, gba, playstation 3, playstation 2, playstation, nintendo wii, nintendo ds, nintendo, sony, xbox, zune, trade-in, trades, esrb, video games, pc games, used games, used dvds, preowned, hint books, strategy guides, downloads, download games, controllers, consoles, systems, memory cards, hardware, accessories, gameboy, gaming news, news, customer reviews, screenshots, best sellers, coming soon, cheats, hints, previews, reviews, release dates, demos, demo, beta, betas, shooters, role playing, roleplaying, mmo, mmorpg, rts, action, adventure, simulation, puzzles, puzzle, casual, RPG, tournaments, tournament, fighting, strategy, anime, buy dvds, zelda, wow, world of warcraft, halo, mario, final fantasy, gears of war
+<title>
+	EBGames.com - Buy New and Used Games
+</title><link rel="SHORTCUT ICON" href="/common/gui/favicon.ico">
+    <script type="text/JavaScript" src="/javascript/qm.js"></script>
+<link href="../../App_Themes/GameStop/gs.css" type="text/css" rel="stylesheet"><link href="../../App_Themes/GameStop/SearchMenus.css" type="text/css" rel="stylesheet"><meta name="description" content="EBGames has a huge selection of new and used games at fantastic prices.  Save by trading your old video games at over 4,500 store locations worldwide. Shop online at EBGames.com for popular PS 3, PlayStation 3, playstation3, PS3, PS 2, PS2, PlayStation 2, playstation2, PSP, Nintendo Wii, Wii, Nintendo DS, DS, X Box, Xbox360, Xbox 360, Game Cube, GameCube and PC Games."><meta name="keywords" content="gta iv, babbages, funcoland, software etc, electronics boutique, ebx, buy games, ps3, ps2, psp, wii, ds, xbox 360, gamecube, gba, playstation 3, playstation 2, playstation, nintendo wii, nintendo ds, nintendo, sony, xbox, zune, trade-in, trades, esrb, video games, pc games, used games, used dvds, preowned, hint books, strategy guides, downloads, download games, controllers, consoles, systems, memory cards, hardware, accessories, gameboy, gaming news, news, customer reviews, screenshots, best sellers, coming soon, cheats, hints, previews, reviews, release dates, demos, demo, beta, betas, shooters, role playing, roleplaying, mmo, mmorpg, rts, action, adventure, simulation, puzzles, puzzle, casual, RPG, tournaments, tournament, fighting, strategy, anime, buy dvds, zelda, wow, world of warcraft, halo, mario, final fantasy, gears of war,Buy PS3, PS2, PSP, Wii, DS, Xbox 360, Used, PC Games and Consoles"><meta name="WT.seg_1" content="EB">
+<meta name="WT.sp" content="EB">
+<meta name="WT.sv" content="172.20.202.46">
+</head>
+<body onkeypress="IgnoreEnter(event)" bgcolor="ffffff" style="margin-top:0px; margin-left:0px;">
+    <div align="center">
+    <form name="aspnetForm" method="post" action="/gs/help/PrivacyPolicy.aspx" autocomplete="off" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjUzNTk5OTE4D2QWAmYPZBYCAgMPZBYKAgEPZBYmAggPFgIeB1Zpc2libGVoZAIMD2QWAmYPDxYCHghJbWFnZVVybAUcL2NvbW1vbi9ndWkvbmF2X3RvcF93aWliLmdpZmRkAg4PZBYCZg8PFgIfAQUbL2NvbW1vbi9ndWkvbmF2X3RvcF9kc2IuZ2lmZGQCEA9kFgJmDw8WAh8BBRwvY29tbW9uL2d1aS9uYXZfdG9wXzM2MGIuZ2lmZGQCEg9kFgJmDw8WAh8BBRwvY29tbW9uL2d1aS9uYXZfdG9wX3BzM2IuZ2lmZGQCFA9kFgJmDw8WAh8BBRwvY29tbW9uL2d1aS9uYXZfdG9wX3BzMmIuZ2lmZGQCFg9kFgJmDw8WAh8BBRwvY29tbW9uL2d1aS9uYXZfdG9wX3BzcGIuZ2lmZGQCGA9kFgJmDw8WAh8BBRsvY29tbW9uL2d1aS9uYXZfdG9wX3BjYi5naWZkZAIaD2QWAmYPDxYCHwEFIS9jb21tb24vZ3VpL25hdl90b3BfZG93bmxvYWRiLmdpZmRkAhwPZBYCZg8PFgIfAQUfL2NvbW1vbi9ndWkvbmF2X3RvcF9hY3Rpb25iLmdpZmRkAh4PZBYCZg8PFgIfAQUhL2NvbW1vbi9ndWkvbmF2X3RvcF9maWdodGluZ2IuZ2lmZGQCIA9kFgJmDw8WAh8BBSAvY29tbW9uL2d1aS9uYXZfdG9wX3Nob290ZXJiLmdpZmRkAiIPZBYCZg8PFgIfAQUfL2NvbW1vbi9ndWkvbmF2X3RvcF9zcG9ydHNiLmdpZmRkAiQPZBYCZg8PFgIfAQUeL2NvbW1vbi9ndWkvbmF2X3RvcF9zdHJhdGIuZ2lmZGQCJg9kFgJmDw8WAh8BBR8vY29tbW9uL2d1aS9uYXZfdG9wX3B1enpsZWIuZ2lmZGQCKA9kFgJmDw8WAh8BBRwvY29tbW9uL2d1aS9uYXZfdG9wX3JwZ2IuZ2lmZGQCKg9kFgJmDw8WAh8BBRwvY29tbW9uL2d1aS9uYXZfdG9wX3NpbWIuZ2lmZGQCLA9kFgJmDw8WAh8BBR4vY29tbW9uL2d1aS9uYXZfdG9wX211c2ljYi5naWZkZAIuD2QWAmYPDxYCHwEFHS9jb21tb24vZ3VpL25hdl90b3BfdXNlZGIuZ2lmZGQCAw9kFgJmD2QWAmYPFgIeC18hSXRlbUNvdW50AgYWDAIBD2QWAmYPFQFvPGEgaHJlZj0iL2Jyb3dzZS9Qcm9kdWN0TWVyY2guYXNweD9ncm91cGlkPTkzIj48aW1nIHNyYz0iL2dzL2ltYWdlcy8xMjV4MTYwLzEyNXgxNjBfMjAwNDYyLmpwZyIgYm9yZGVyPSIwIj48L2E+ZAIDD2QWAmYPFQFvPGEgaHJlZj0iL2Jyb3dzZS9Qcm9kdWN0TWVyY2guYXNweD9ncm91cGlkPTIzIj48aW1nIHNyYz0iL2dzL2ltYWdlcy8xMjV4MTYwLzEyNXgxNjBfMjAwNDA3LmpwZyIgYm9yZGVyPSIwIj48L2E+ZAIFD2QWAmYPFQFwPGEgaHJlZj0iL2Jyb3dzZS9Qcm9kdWN0TWVyY2guYXNweD9ncm91cGlkPTU2Ij48aW1nIHNyYz0iL2dzL2ltYWdlcy8xMjV4MTYwLzEyNXgxNjBfMjAwMzg4Yi5qcGciIGJvcmRlcj0iMCI+PC9hPmQCBw9kFgJmDxUBbzxhIGhyZWY9Ii9icm93c2UvUHJvZHVjdE1lcmNoLmFzcHg/Z3JvdXBpZD03NiI+PGltZyBzcmM9Ii9ncy9pbWFnZXMvMTI1eDE2MC8xMjV4MTYwXzIwMDQ0MS5qcGciIGJvcmRlcj0iMCI+PC9hPmQCCQ9kFgJmDxUBbzxhIGhyZWY9Ii9icm93c2UvUHJvZHVjdE1lcmNoLmFzcHg/Z3JvdXBpZD03OSI+PGltZyBzcmM9Ii9ncy9pbWFnZXMvMTI1eDE2MC8xMjV4MTYwXzIwMDQ4NC5qcGciIGJvcmRlcj0iMCI+PC9hPmQCCw9kFgJmDxUBbzxhIGhyZWY9Ii9icm93c2UvUHJvZHVjdE1lcmNoLmFzcHg/Z3JvdXBpZD03NSI+PGltZyBzcmM9Ii9ncy9pbWFnZXMvMTI1eDE2MC8xMjV4MTYwXzIwMDMyMC5qcGciIGJvcmRlcj0iMCI+PC9hPmQCBQ9kFgICAQ9kFgICAw8QZA8WFGYCAQICAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEAIRAhICExYUEAUMQWxsIFByb2R1Y3RzBQEwZxAFClVzZWQgR2FtZXMFAjgwZxAFDEJsdS1yYXkgRGlzYwUDMTQyZxAFEkNhcmQgJiBCb2FyZCBHYW1lcwUDMTU0ZxAFA0RWRAUDMTMyZxAFC0VsZWN0cm9uaWNzBQMxNTdnEAUQR2FtZSBCb3kgQWR2YW5jZQUDMTM1ZxAFCUdhbWUgQ3ViZQUDMTQ2ZxAFCU1hY2ludG9zaAUDMTQ5ZxAFC05pbnRlbmRvIERTBQMxMzRnEAUMTmludGVuZG8gV2lpBQMxMzhnEAUCUEMFAzE0MGcQBQtQbGF5c3RhdGlvbgUDMTQ1ZxAFDVBsYXlzdGF0aW9uIDIFAzEzOWcQBQ1QbGF5c3RhdGlvbiAzBQMxNDFnEAUOUFNQIFVNRCBNb3ZpZXMFAzE0NGcQBQhTb255IFBTUAUDMTM2ZxAFE1RveXMgJiBDb2xsZWN0aWJsZXMFAzE1MmcQBQRYYm94BQMxMzdnEAUIWGJveCAzNjAFAzEzM2dkZAIJD2QWAgIBDxYCHgRUZXh0BQQyMDA4ZAILD2QWCAIBDxYCHwMFEnN0YXRzLmdhbWVzdG9wLmNvbWQCAw8WAh8DBR5kY3NpNTgzcnAxMDAwMG9ldmNxejl5NHVzXzZsNmRkAgUPFgIfAwUSc3RhdHMuZ2FtZXN0b3AuY29tZAIHDxYCHwMFHmRjc2k1ODNycDEwMDAwb2V2Y3F6OXk0dXNfNmw2ZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFGGN0bDAwJGNMZWZ0TmF2JGJ0blNlYXJjaAUiY3RsMDAkY0xlZnROYXYkYnRuTmV3c2xldHRlclNpZ251cBKPA1qr8a1oPtrw5poE+tBiPOz8">
 
-,Help Desk">
-
-			
-			<meta name="WT.sv" content="172.20.202.128">
-<meta name="WT.seg_1" content="EBGames">
-<meta name="WT.sp" content="EBGames">
-
-
-			<!--'F000352 - Added the Javascript include files-->
-			<script language="JavaScript1.2">dqm__codebase = "/template/include/" </script>
-			<script language="JavaScript1.2" src="/gs/sites/eb/template/include/gamestop_menu_parms.js"></script>
-			<script language="JavaScript1.2" src="/template/include/gamestop_menu.js"></script>
-			<script language="JavaScript1.2" src="/template/include/dqm_loader.js"></script><script language="JavaScript1.2" src="/template/include/browser_ns.js"></script>
-			<link rel="SHORTCUT ICON" href="/gs/sites/eb/common/images/favicon.ico">
-			
-
-		</head>
-
-		<body bgcolor="ffffff" topmargin="0" leftmargin="0">
-<center>
-		<table cellspacing="0" cellpadding="0" border="0" width="940" id="Table1">
+    <table cellspacing="0" cellpadding="0" border="0" width="950">
 			<tbody><tr>
-				<td width="5" rowspan="2"><img src="/common/images/clear.gif" width="5" height="5" border="0"></td>
-				<td width="780" height="93" valign="top" colspan="3">
-					<script type="text/JavaScript" src="/gs/sites/eb/include/qm.js"></script>
-	<link rel="stylesheet" type="text/css" href="/gs/sites/eb/common/css/gs.css">
-	
-	<table width="780" cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>
-			<td width="250" height="50" rowspan="2"><a href="/default.asp"><img src="/gs/sites/eb/common/images/nav_top_logogs.gif" width="225" height="50" border="0" alt="GameStop"></a></td>
-			<td width="530" colspan="2" height="20" align="right">
-				<a href="/gs/weeklyad/current/"><img src="/gs/sites/eb/common/images/nav_top_weekly.gif" width="63" height="20" alt="Weekly Ad" border="0"></a><a href="http://www.ebgames.com/basket.asp"><img src="/gs/sites/eb/common/images/nav_top_viewcart.gif" width="66" height="20" border="0" alt="View Cart"></a><a href="https://www.ebgames.com/ordertracking.asp"><img src="/gs/sites/eb/common/images/nav_top_tracking.gif" width="94" height="20" border="0" alt="Order Tracking"></a><a href="https://www.ebgames.com/account.asp"><img src="/gs/sites/eb/common/images/nav_top_account.gif" width="76" height="20" border="0" alt="My Account"></a><a href="javascript:LocatorWindow('http://web.sa.mapquest.com/gamestop/?tempset=search')"><img src="/gs/sites/eb/common/images/nav_top_locator.gif" width="88" height="20" border="0" alt="Store Locator"></a><a href="http://www.ebgames.com/gs/help/help_index.asp"><img src="/gs/sites/eb/common/images/nav_top_help.gif" width="33" height="20" border="0" alt="Help"></a>
-			</td>
-		</tr>
-		<tr>
-			<td width="390" height="30"></td>
-			<td width="140" height="30"><img src="/gs/sites/eb/common/images/nav_top_featured.gif" width="140" height="30" border="0" alt="Featured Shops"></td>
-		</tr>
-	</tbody></table>
-	
-	<table width="780" height="33" cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>
-			<td width="780" height="5" colspan="11"><img src="/gs/sites/eb/common/images/nav_top_greycap.gif" width="780" height="5" alt=""></td>
-		</tr>
-		<tr>
-			<td width="5" height="28"><img src="/gs/sites/eb/common/images/nav_top_leftbar.gif" width="5" height="28" alt=""></td>
-			<td width="65"><a href="/default.asp"><img src="/gs/sites/eb/common/images/nav_top_homeb.gif" width="65" height="28" border="0" alt=""></a></td>
-			<td width="111"><a href="/default.asp?sect=1285"><img src="/gs/sites/eb/common/images/nav_top_wiib.gif" width="111" height="28" border="0" alt=""></a></td>
-			<td width="51"><a href="/default.asp?sect=1281"><img src="/gs/sites/eb/common/images/nav_top_dsb.gif" width="51" height="28" border="0" alt=""></a></td>
-			<td width="93"><a href="/default.asp?sect=1275"><img src="/gs/sites/eb/common/images/nav_top_360b.gif" width="93" height="28" border="0" alt=""></a></td>
-			<td width="118"><a href="/default.asp?sect=1284"><img src="/gs/sites/eb/common/images/nav_top_ps3b.gif" width="118" height="28" border="0" alt=""></a></td>
-			<td width="61"><a href="/default.asp?sect=1274"><img src="/gs/sites/eb/common/images/nav_top_ps2b.gif" width="61" height="28" border="0" alt=""></a></td>
-			<td width="57"><a href="/default.asp?sect=1279"><img src="/gs/sites/eb/common/images/nav_top_pspb.gif" width="57" height="28" border="0" alt=""></a></td>
-			<td width="92"><a href="/default.asp?sect=1278"><img src="/gs/sites/eb/common/images/nav_top_pcb.gif" width="92" height="28" border="0" alt=""></a></td>
-			<td width="118"><a href="/default.asp?sect=1286"><img src="/gs/sites/eb/common/images/nav_top_downloadb.gif" width="118" height="28" border="0" alt=""></a></td>
-			<td width="9"><img src="/gs/sites/eb/common/images/nav_top_rightbar.gif" width="9" height="28" alt=""></td>
-		</tr>
-	</tbody></table>
-	<table width="780" height="33" cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>
-			<td width="780" height="5" colspan="12"><img src="/gs/sites/eb/common/images/nav_top_greyspace.gif" width="780" height="5" alt=""></td>
-		</tr>
-		<tr>
-			<td width="5" height="28"><img src="/gs/sites/eb/common/images/nav_top_leftbar.gif" width="5" height="28" alt=""></td>
-			<td width="68"><a href="/default.asp?sect=1296"><img src="/gs/sites/eb/common/images/nav_top_actionb.gif" width="68" height="28" border="0" alt=""></a></td>
-			<td width="82"><a href="/default.asp?sect=1297"><img src="/gs/sites/eb/common/images/nav_top_fightingb.gif" width="82" height="28" border="0" alt=""></a></td>
-			<td width="81"><a href="/default.asp?sect=1298"><img src="/gs/sites/eb/common/images/nav_top_shooterb.gif" width="81" height="28" border="0" alt=""></a></td>
-			<td width="71"><a href="/default.asp?sect=1299"><img src="/gs/sites/eb/common/images/nav_top_sportsb.gif" width="71" height="28" border="0" alt=""></a></td>
-			<td width="83"><a href="/default.asp?sect=1300"><img src="/gs/sites/eb/common/images/nav_top_stratb.gif" width="83" height="28" border="0" alt=""></a></td>
-			<td width="68"><a href="/default.asp?sect=1301"><img src="/gs/sites/eb/common/images/nav_top_puzzleb.gif" width="68" height="28" border="0" alt=""></a></td>
-			<td width="53"><a href="/default.asp?sect=1302"><img src="/gs/sites/eb/common/images/nav_top_rpgb.gif" width="53" height="28" border="0" alt=""></a></td>
-			<td width="96"><a href="/default.asp?sect=1303"><img src="/gs/sites/eb/common/images/nav_top_simb.gif" width="96" height="28" border="0" alt=""></a></td>
-			<td width="113"><a href="/default.asp?sect=1290"><img src="/gs/sites/eb/common/images/nav_top_musicb.gif" width="113" height="28" border="0" alt=""></a></td>
-			<td width="51"><a href="/default.asp?sect=1282"><img src="/gs/sites/eb/common/images/nav_top_usedb.gif" width="51" height="28" border="0" alt=""></a></td>
-			<td width="9"><img src="/gs/sites/eb/common/images/nav_top_rightbar.gif" width="9" height="28" alt=""></td>
-		</tr>
-		<tr>
-			<td width="780" height="5" colspan="12"><img src="/gs/sites/eb/common/images/nav_top_greybottom.gif" width="780" height="5" alt=""></td>
-		</tr>
-	</tbody></table>
-				</td>
-				<td width="20" rowspan="2"><img src="/common/images/clear.gif" width="20" height="20" border="0"></td>
-				<td width="140" height="600" rowspan="2" valign="top"><center>
-<table width="140" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-   <td width="8" background="/common/images/ebrn_left2.gif"><img src="/common/images/clearshim.gif" width="8" height="1" border="0"></td>
-   <td width="143" height="10" valign="middle" align="center"><img src="/common/images/clear.gif" width="10" height="5"></td>
-   <td width="7" background="/common/images/ebrn_right2.gif"><img src="/common/images/clearshim.gif" width="7" height="1" border="0"></td>
-</tr>
-<tr>
-   <td width="8" background="/common/images/ebrn_left2.gif"><img src="/common/images/clearshim.gif" width="8" height="1" border="0"></td>
-   <td width="125" valign="middle" align="center"><a href="/product.asp?product%5Fid=230102"><img src="/gs/images/125x160/125x160_230102.jpg" width="125" height="160" border="0" alt="NIGHTS: Journey of Dreams"></a></td>
-   <td width="7" background="/common/images/ebrn_right2.gif"><img src="/common/images/clearshim.gif" width="7" height="1" border="0"></td>
-</tr>
-<tr>
-   <td width="140" colspan="3" height="15"><img src="/common/images/ebrn_middle.gif" border="0"></td>
-</tr>
-<tr>
-   <td width="8" background="/common/images/ebrn_left2.gif"><img src="/common/images/clearshim.gif" width="8" height="1" border="0"></td>
-   <td width="125" valign="middle" align="center"><a href="/product.asp?product%5fid=270033"><img src="/gs/images/125x160/125x160_646503.jpg" width="125" height="160" border="0" alt="Unreal Tournament III"></a></td>
-   <td width="7" background="/common/images/ebrn_right2.gif"><img src="/common/images/clearshim.gif" width="7" height="1" border="0"></td>
-</tr>
-<tr>
-   <td width="140" colspan="3" height="15"><img src="/common/images/ebrn_middle.gif" border="0"></td>
-</tr>
-<tr>
-   <td width="8" background="/common/images/ebrn_left2.gif"><img src="/common/images/clearshim.gif" width="8" height="1" border="0"></td>
-   <td width="125" valign="middle" align="center"><a href="/productmerch.asp?groupid=699"><img src="/gs/images/125x160/125x160_020285b.jpg" width="125" height="160" border="0" alt="PS3 Page"></a></td>
-   <td width="7" background="/common/images/ebrn_right2.gif"><img src="/common/images/clearshim.gif" width="7" height="1" border="0"></td>
-</tr>
-<tr>
-   <td width="140" colspan="3" height="15"><img src="/common/images/ebrn_middle.gif" border="0"></td>
-</tr>
-<tr>
-   <td width="8" background="/common/images/ebrn_left2.gif"><img src="/common/images/clearshim.gif" width="8" height="1" border="0"></td>
-   <td width="125" valign="middle" align="center"><a href="/productmerch.asp?groupid=886"><img src="/gs/images/125x160/125x160_200357.jpg" width="125" height="160" border="0" alt="MX vs. ATV Untamed"></a></td>
-   <td width="7" background="/common/images/ebrn_right2.gif"><img src="/common/images/clearshim.gif" width="7" height="1" border="0"></td>
-</tr>
-<tr>
-   <td width="140" colspan="3" height="15"><img src="/common/images/ebrn_middle.gif" border="0"></td>
-</tr>
-<tr>
-   <td width="8" background="/common/images/ebrn_left2.gif"><img src="/common/images/clearshim.gif" width="8" height="1" border="0"></td>
-   <td width="125" valign="middle" align="center"><a href="/productmerch.asp?groupid=908"><img src="/gs/images/125x160/125x160_200355.jpg" width="125" height="160" border="0" alt="NCAA March Madness 2008"></a></td>
-   <td width="7" background="/common/images/ebrn_right2.gif"><img src="/common/images/clearshim.gif" width="7" height="1" border="0"></td>
-</tr>
-<tr>
-   <td width="140" colspan="3" height="15"><img src="/common/images/ebrn_middle.gif" border="0"></td>
-</tr>
-<tr>
-   <td width="8" background="/common/images/ebrn_left2.gif"><img src="/common/images/clearshim.gif" width="8" height="1" border="0"></td>
-   <td width="125" valign="middle" align="center"><a href="/gs/zune/zune.asp"><img src="/gs/images/125x160/125x160_080006.jpg" width="125" height="160" border="0" alt="Zune"></a></td>
-   <td width="7" background="/common/images/ebrn_right2.gif"><img src="/common/images/clearshim.gif" width="7" height="1" border="0"></td>
-</tr>
-<tr>
-<td width="140" colspan="3" height="7"><img src="/common/images/ebrn_bottom.gif" border="0"></td>
-</tr>
+				<td width="5" rowspan="2" valign="top"><img src="/common/gui/clearshim.gif" height="5" width="5" border="0"></td>
+				<td width="780" colspan="3">
+<script language="JavaScript">
+	<!-- Start
+						
+	function LocatorWindow(page) {
+	OpenWin = open(page, "CtrlWindow", "toolbar=no,resizable=no,menubar=no,location=no,scrollbars=yes,width=640,height=500");
+	OpenWin.focus();}
+						
+	// End -->
+</script>
+<table width="780" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td width="240" height="50" rowspan="2" align="left"><a href="../../default.aspx"><img src="/common/gui/nav_top_ebpatchlogo.gif" border="0" alt="EB Games"></a></td>
+		<td width="540" colspan="2" height="20" align="right">
+			<a href="/gs/weeklyad/current/default.aspx"><img src="/common/gui/nav_top_weekly.gif" width="63" height="20" alt="Weekly Ad" border="0"></a><a href="../../Orders/Cart.aspx"><img src="/common/gui/nav_top_viewcart.gif" width="66" height="20" border="0" alt="View Cart"></a><a href="/Profiles/WishList.aspx"><img src="/common/gui/nav_top_wishlist.gif" width="62" height="20" border="0" alt="Wish List"></a><a href="../../Profiles/OrderTrackingLogin.aspx"><img src="/common/gui/nav_top_history.gif" width="88" height="20" border="0" alt="Order Tracking"></a><a href="../../Profiles/MyAccount.aspx"><img src="/common/gui/nav_top_account.gif" width="76" height="20" border="0" alt="My Account"></a><a href="javascript:LocatorWindow('http://web.sa.mapquest.com/gamestop/?tempset=search')"><img src="/common/gui/nav_top_locator.gif" width="88" height="20" border="0" alt="Store Locator"></a><a href="/gs/help/default.aspx"><img src="/common/gui/nav_top_help.gif" width="33" height="20" border="0" alt="Help"></a>
+		</td>
+	</tr>
+	<tr>
+		<td width="400" height="30"></td>
+		<td width="140" height="30"><img src="/common/gui/nav_top_featured.gif" width="140" height="30" border="0" alt="Featured Shops"></td>
+	</tr>
 </tbody></table>
-</center></td>
-			</tr>			
+<table width="780" height="33" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td width="780" height="5" colspan="11"><img src="/common/gui/nav_top_greycap.gif" width="780" height="5" alt=""></td>
+	</tr>
+	<tr>
+		<td width="5" height="28"><img src="/common/gui/nav_top_leftbar.gif" width="5" height="28" alt=""></td>
+		<td width="65"><a href="/"><img src="/common/gui/nav_top_homeb.gif" width="65" height="28" border="0" alt=""></a></td>
+		<td width="111"><a href="/wii"><img id="ctl00_cHeader_btnWii" src="/common/gui/nav_top_wiib.gif" alt="Wii" border="0"></a></td>
+		<td width="51"><a href="/ds"><img id="ctl00_cHeader_btnDS" src="/common/gui/nav_top_dsb.gif" alt="Nintendo DS" border="0"></a></td>
+		<td width="93"><a href="/xbox360"><img id="ctl00_cHeader_btn360" src="/common/gui/nav_top_360b.gif" alt="Xbox 360" border="0"></a></td>
+		<td width="118"><a href="/ps3"><img id="ctl00_cHeader_btnPS3" src="/common/gui/nav_top_ps3b.gif" alt="PlayStation 3" border="0"></a></td>
+		<td width="61"><a href="/ps2"><img id="ctl00_cHeader_btnPS2" src="/common/gui/nav_top_ps2b.gif" alt="PlayStation 2" border="0"></a></td>
+		<td width="57"><a href="/psp"><img id="ctl00_cHeader_btnPSP" src="/common/gui/nav_top_pspb.gif" alt="Sony PSP" border="0"></a></td>
+		<td width="92"><a href="/pcgames"><img id="ctl00_cHeader_btnPC" src="/common/gui/nav_top_pcb.gif" alt="PC Games" border="0"></a></td>
+		<td width="118"><a href="/downloadnow"><img id="ctl00_cHeader_btnDownload" src="/common/gui/nav_top_downloadb.gif" alt="Downloads" border="0"></a></td>
+		<td width="9"><img src="/common/gui/nav_top_rightbar.gif" width="9" height="28" alt=""></td>
+	</tr>
+</tbody></table>
+<table width="780" height="33" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td width="780" height="5" colspan="12"><img src="/common/gui/nav_top_greyspace.gif" width="780" height="5" alt=""></td>
+	</tr>
+	<tr>
+		<td width="5" height="28"><img src="/common/gui/nav_top_leftbar.gif" width="5" height="28" alt=""></td>
+		<td width="68"><a href="/action"><img id="ctl00_cHeader_btnAction" src="/common/gui/nav_top_actionb.gif" alt="Action" border="0"></a></td>
+		<td width="82"><a href="/fighting"><img id="ctl00_cHeader_btnFighting" src="/common/gui/nav_top_fightingb.gif" alt="Fighting" border="0"></a></td>
+		<td width="81"><a href="/shooter"><img id="ctl00_cHeader_btnShooter" src="/common/gui/nav_top_shooterb.gif" alt="Shooters" border="0"></a></td>
+		<td width="71"><a href="/sports"><img id="ctl00_cHeader_btnSports" src="/common/gui/nav_top_sportsb.gif" alt="Sports" border="0"></a></td>
+		<td width="83"><a href="/strategy"><img id="ctl00_cHeader_btnStrategy" src="/common/gui/nav_top_stratb.gif" alt="Strategy" border="0"></a></td>
+		<td width="68"><a href="/puzzle"><img id="ctl00_cHeader_btnPuzzle" src="/common/gui/nav_top_puzzleb.gif" alt="Puzzle" border="0"></a></td>
+		<td width="53"><a href="/rpg"><img id="ctl00_cHeader_btnRPG" src="/common/gui/nav_top_rpgb.gif" alt="RPG" border="0"></a></td>
+		<td width="96"><a href="/simulation"><img id="ctl00_cHeader_btnSim" src="/common/gui/nav_top_simb.gif" alt="Simulation" border="0"></a></td>
+		<td width="113"><a href="/musicparty"><img id="ctl00_cHeader_btnMusic" src="/common/gui/nav_top_musicb.gif" alt="Music &amp; Party" border="0"></a></td>
+		<td width="51"><a href="/used"><img id="ctl00_cHeader_btnUSEDPLATFORM" src="/common/gui/nav_top_usedb.gif" alt="Used" border="0"></a></td>
+		<td width="9"><img src="/common/gui/nav_top_rightbar.gif" width="9" height="28" alt=""></td>
+	</tr>
+	<tr>
+		<td width="780" height="5" colspan="12"><img src="/common/gui/nav_top_greybottom.gif" width="780" height="5" alt=""></td>
+	</tr>
+</tbody></table>
+
+	</td>
+				<td width="20" rowspan="2">&nbsp;</td>
+				<td width="145" rowspan="2" valign="top">
+        <center>
+            <table width="145" border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td width="10" background="/common/gui/ebrn_left.gif"><img src="/common/gui/clearshim.gif" width="10" height="1" border="0"></td>
+                    <td width="125" height="10" valign="middle" align="center"><img src="/common/gui/clear.gif" width="10" height="5"></td>
+                    <td width="10" background="/common/gui/ebrn_right.gif"><img src="/common/gui/clearshim.gif" width="10" height="1" border="0"></td>
+                </tr>
+    
+        <tr>
+            <td width="10" background="/common/gui/ebrn_left.gif"><img src="/common/gui/clearshim.gif" width="10" height="1" border="0"></td>
+            <td width="125" valign="middle" align="center"><a href="/browse/ProductMerch.aspx?groupid=93"><img src="/gs/images/125x160/125x160_200462.jpg" border="0"></a></td>
+            <td width="10" background="/common/gui/ebrn_right.gif"><img src="/common/gui/clearshim.gif" width="10" height="1" border="0"></td>
+        </tr>
+    
+        <tr>
+            <td width="145" colspan="3" height="15"><img src="/common/gui/ebrn_middle.gif" border="0"></td>
+        </tr>
+    
+        <tr>
+            <td width="10" background="/common/gui/ebrn_left.gif"><img src="/common/gui/clearshim.gif" width="10" height="1" border="0"></td>
+            <td width="125" valign="middle" align="center"><a href="/browse/ProductMerch.aspx?groupid=23"><img src="/gs/images/125x160/125x160_200407.jpg" border="0"></a></td>
+            <td width="10" background="/common/gui/ebrn_right.gif"><img src="/common/gui/clearshim.gif" width="10" height="1" border="0"></td>
+        </tr>
+    
+        <tr>
+            <td width="145" colspan="3" height="15"><img src="/common/gui/ebrn_middle.gif" border="0"></td>
+        </tr>
+    
+        <tr>
+            <td width="10" background="/common/gui/ebrn_left.gif"><img src="/common/gui/clearshim.gif" width="10" height="1" border="0"></td>
+            <td width="125" valign="middle" align="center"><a href="/browse/ProductMerch.aspx?groupid=56"><img src="/gs/images/125x160/125x160_200388b.jpg" border="0"></a></td>
+            <td width="10" background="/common/gui/ebrn_right.gif"><img src="/common/gui/clearshim.gif" width="10" height="1" border="0"></td>
+        </tr>
+    
+        <tr>
+            <td width="145" colspan="3" height="15"><img src="/common/gui/ebrn_middle.gif" border="0"></td>
+        </tr>
+    
+        <tr>
+            <td width="10" background="/common/gui/ebrn_left.gif"><img src="/common/gui/clearshim.gif" width="10" height="1" border="0"></td>
+            <td width="125" valign="middle" align="center"><a href="/browse/ProductMerch.aspx?groupid=76"><img src="/gs/images/125x160/125x160_200441.jpg" border="0"></a></td>
+            <td width="10" background="/common/gui/ebrn_right.gif"><img src="/common/gui/clearshim.gif" width="10" height="1" border="0"></td>
+        </tr>
+    
+        <tr>
+            <td width="145" colspan="3" height="15"><img src="/common/gui/ebrn_middle.gif" border="0"></td>
+        </tr>
+    
+        <tr>
+            <td width="10" background="/common/gui/ebrn_left.gif"><img src="/common/gui/clearshim.gif" width="10" height="1" border="0"></td>
+            <td width="125" valign="middle" align="center"><a href="/browse/ProductMerch.aspx?groupid=79"><img src="/gs/images/125x160/125x160_200484.jpg" border="0"></a></td>
+            <td width="10" background="/common/gui/ebrn_right.gif"><img src="/common/gui/clearshim.gif" width="10" height="1" border="0"></td>
+        </tr>
+    
+        <tr>
+            <td width="145" colspan="3" height="15"><img src="/common/gui/ebrn_middle.gif" border="0"></td>
+        </tr>
+    
+        <tr>
+            <td width="10" background="/common/gui/ebrn_left.gif"><img src="/common/gui/clearshim.gif" width="10" height="1" border="0"></td>
+            <td width="125" valign="middle" align="center"><a href="/browse/ProductMerch.aspx?groupid=75"><img src="/gs/images/125x160/125x160_200320.jpg" border="0"></a></td>
+            <td width="10" background="/common/gui/ebrn_right.gif"><img src="/common/gui/clearshim.gif" width="10" height="1" border="0"></td>
+        </tr>
+    
+        <tr>
+            <td width="145" colspan="3" height="7"><img src="/common/gui/ebrn_bottom.gif" border="0"></td>
+        </tr>
+        </tbody></table> </center>
+    
+
+</td>
+			</tr>
 			<tr>
-				<td width="140" valign="top" height="507">
-<img src="/common/images/clear.gif" height="15" width="15" border="0"><br>
+				<td width="140" valign="top">
+<img src="/common/gui/clear.gif" height="15" width="15" border="0"><br>
 <table width="140" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td width="140"><img src="/gs/sites/eb/common/images/sfln_header_search.gif" border="0"></td>
+		<td width="140"><img src="/common/gui/sfln_header_search.gif" border="0"></td>
 	</tr>
 	<tr>
 		<td align="center" valign="middle" class="leftnavborder">
+			<div id="ctl00_cLeftNav_searchControlPanel">
+	
 			<table cellspacing="0" cellpadding="0" width="130">
-				<form action="http://www.ebgames.com/search.asp" id="form1" name="form1"></form>
 				<input type="hidden" name="Ntk" value="TitleKeyword">
 				<input type="hidden" name="Ntx" value="mode+matchallpartial">
 				<tbody><tr>
-					<td height="4"><img src="/common/images/clear.gif" height="4" width="130" border="0"></td>
+					<td height="4"><img src="/common/gui/clear.gif" height="4" width="130" border="0"></td>
 				</tr>
 				<tr>
-					<td width="130" align="center"><input type="TEXT" name="Ntt" class="useddrop" style="width:120px; height:15px;"></td>
+					<td width="130" align="center">
+                        <input name="ctl00$cLeftNav$txtKeywords" type="text" id="ctl00_cLeftNav_txtKeywords" class="useddrop" style="width:120px; height:15px;"></td>
 				</tr>
 				<tr>
-					<td height="4"><img src="/common/images/clear.gif" height="4" width="130" border="0"></td>
+					<td height="4"><img src="/common/gui/clear.gif" height="4" width="130" border="0"></td>
 				</tr>
 				
 				<tr>
 					<td width="130" align="center">
-						<select name="N" size="1" class="useddrop" style="width:124px; height:16px;"><option selected="" value="0">All Products</option><option value="80">Used Games</option><option value="142">Blu-ray Disc</option><option value="154">Card Games</option><option value="147">Dreamcast</option><option value="132">DVD</option><option value="157">Electronics</option><option value="148">Game Boy</option><option value="135">Game Boy Adv.</option><option value="146">Game Cube</option><option value="143">HD DVD</option><option value="149">Macintosh</option><option value="151">N-Gage</option><option value="150">Nintendo 64</option><option value="134">Nintendo DS</option><option value="153">None</option><option value="140">PC</option><option value="145">Playstation</option><option value="139">Playstation 2</option><option value="141">Playstation 3</option><option value="136">PSP</option><option value="144">PSP Movies</option><option value="152">Toys</option><option value="138">Wii</option><option value="137">Xbox</option><option value="133">Xbox 360</option></select>
+                        <select name="ctl00$cLeftNav$selPlatforms" id="ctl00_cLeftNav_selPlatforms" class="useddrop" style="width:125px; height:18px;">
+		<option value="0">All Products</option>
+		<option value="80">Used Games</option>
+		<option value="142">Blu-ray Disc</option>
+		<option value="154">Card &amp; Board Games</option>
+		<option value="132">DVD</option>
+		<option value="157">Electronics</option>
+		<option value="135">Game Boy Advance</option>
+		<option value="146">Game Cube</option>
+		<option value="149">Macintosh</option>
+		<option value="134">Nintendo DS</option>
+		<option value="138">Nintendo Wii</option>
+		<option value="140">PC</option>
+		<option value="145">Playstation</option>
+		<option value="139">Playstation 2</option>
+		<option value="141">Playstation 3</option>
+		<option value="144">PSP UMD Movies</option>
+		<option value="136">Sony PSP</option>
+		<option value="152">Toys &amp; Collectibles</option>
+		<option value="137">Xbox</option>
+		<option value="133">Xbox 360</option>
+
+	</select>
 					</td>
 				</tr>
 				<tr>
-					<td height="4"><img src="/common/images/clear.gif" height="4" width="130" border="0"></td>
+					<td height="4"><img src="/common/gui/clear.gif" height="4" width="130" border="0"></td>
 				</tr>
 				<tr>
-					<td width="130" align="center"><input name="find" type="image" value="Search" src="/gs/sites/eb/common/images/sfln_btn_search.gif"></td>
+					<td width="130" align="center">
+                        <input type="image" name="ctl00$cLeftNav$btnSearch" id="ctl00_cLeftNav_btnSearch" src="/common/gui/sfln_btn_search.gif" onclick="ResetDefault;" border="0"></td>
 				</tr>
 				<tr>
-					<td height="4"><img src="/common/images/clear.gif" height="4" width="130" border="0"></td>
+					<td height="4"><img src="/common/gui/clear.gif" height="4" width="130" border="0"></td>
 				</tr>
-				
+			</tbody></table>
+			
+</div>
+		</td>
+	</tr>
+</tbody></table>
+
+
+<img src="/common/gui/clear.gif" height="15" width="15" border="0"><br>
+<table width="140" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td width="140"><img src="/common/gui/sfln_header_platforms.gif" border="0"></td>
+		</tr>
+		<tr>
+			<td align="center" valign="middle" class="leftnavborder">
+				<table cellspacing="0" cellpadding="0" width="130">
+					<tbody><tr>
+						<td height="4"><img src="/common/gui/clear.gif" height="4" width="130" border="0"></td>
+					</tr>
+					<tr>
+						<td width="130" align="left" class="lncopy">
+							<div id="qm1" class="qmmc1" style="zoom: 1; z-index: 11;">
+								<a href="/browse/search.aspx?N=0" style="float: none;">Browse All</a>
+								<a href="/xbox360" style="float: none;">Xbox 360</a>
+								<a href="/browse/search.aspx?N=137" style="float: none;">Xbox</a>
+								<a href="/psp" style="float: none;">Sony PSP</a>
+								<a href="/ps3" style="float: none;">PlayStation 3</a>
+								<a href="/ps2" style="float: none;">PlayStation 2</a>
+								<a href="/pcgames" style="float: none;">PC Games</a>
+								<a href="/downloadnow" style="float: none;">Download Now</a>
+								<a href="/wii" style="float: none;">Nintendo Wii</a>
+								<a href="/browse/search.aspx?N=146" style="float: none;">GameCube</a>
+								<a href="/ds" style="float: none;">Nintendo DS</a>
+								<a href="/browse/search.aspx?N=135" style="float: none;">Nintendo GBA</a>
+								<a href="/browse/search.aspx?N=80" class="qmparent" style="float: none;">Used Games</a>
+									<div style="z-index: 12;">
+										<a href="/browse/search.aspx?N=80+146">GameCube</a>
+										<a href="/browse/search.aspx?N=80+134">Nintendo DS</a>
+										<a href="/browse/search.aspx?N=80+139">PlayStation 2</a>
+										<a href="/browse/search.aspx?N=80+141">PlayStation 3</a>
+										<a href="/browse/search.aspx?N=80+136">PSP</a>
+										<a href="/browse/search.aspx?N=80+144">PSP Movies</a>
+										<a href="/browse/search.aspx?N=80+138">Wii</a>
+										<a href="/browse/search.aspx?N=80+137">Xbox</a>
+										<a href="/browse/search.aspx?N=80+133">Xbox 360</a>
+									</div>
+							</div>
+							<span class="qmclear1">&nbsp;</span>
+						</td>
+					</tr>
+					<tr>
+						<td height="4"><img src="/common/gui/clear.gif" height="4" width="130" border="0"></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+</tbody></table>
+<img src="/common/gui/clear.gif" height="15" width="15" border="0"><br>
+	<table width="140" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td width="140"><img src="/common/gui/sfln_header_giftcards.gif" border="0"></td>
+		</tr>
+		<tr>
+			<td align="center" valign="middle" class="leftnavborder">
+				<table cellspacing="0" cellpadding="0" width="130">
+					<tbody><tr>
+						<td height="4"><img src="/common/gui/clear.gif" height="4" width="130" border="0"></td>
+					</tr>
+					<tr>
+						<td width="130" align="left" class="lncopy">
+							<a href="/Catalog/Gifts.aspx">Buy Gift Cards</a><br>
+							<a href="/profiles/valuelookup.aspx">Check Balance</a><br>
+						</td>
+					</tr>
+					<tr>
+						<td height="4"><img src="/common/gui/clear.gif" height="4" width="130" border="0"></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+<img src="/common/gui/clear.gif" height="15" width="15" border="0"><br>
+<table width="140" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="140"><img src="/common/gui/sfln_header_esrb.gif" border="0"></td>
+	</tr>
+	<tr>
+		<td align="center" valign="middle" class="leftnavborder">
+			<table cellspacing="0" cellpadding="0" width="130">
+				<tbody><tr>
+					<td height="4"><img src="/common/gui/clear.gif" height="4" width="130" border="0"></td>
+				</tr>
+				<tr>
+					<td width="130" align="left" class="lncopy">
+						<a href="/browse/search.aspx?N=51">Everyone</a><br>
+						<a href="/browse/search.aspx?N=56">Everyone 10+</a><br>
+						<a href="/browse/search.aspx?N=52">Teen</a><br>
+						<a href="/browse/search.aspx?N=53">Mature</a><br>
+						<a href="/Ratings">About ESRB Ratings</a>
+					</td>
+				</tr>
+				<tr>
+					<td height="4"><img src="/common/gui/clear.gif" height="4" width="130" border="0"></td>
+				</tr>
 			</tbody></table>
 		</td>
 	</tr>
 </tbody></table>
 
 
-		<img src="/common/images/clear.gif" height="15" width="15" border="0"><br>
-		<table width="140" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td width="140"><img src="/gs/sites/eb/common/images/sfln_header_platforms.gif" border="0"></td>
-			</tr>
-			<tr>
-				<td align="center" valign="middle" class="leftnavborder">
-					<table cellspacing="0" cellpadding="0" width="130">
-						<tbody><tr>
-							<td height="4"><img src="/gs/sites/eb/common/images/clear.gif" height="4" width="130" border="0"></td>
-						</tr>
-						<tr>
-							<td width="130" align="left" class="lncopy">
-								<div id="qmZ0" class="qmmc">
-									<a href="/search.asp?N=0">Browse All</a>
-									<a href="/default.asp?sect=1275">Xbox 360</a>
-									<a href="/search.asp?N=137">Xbox</a>
-									<a href="/default.asp?sect=1279">Sony PSP</a>
-									<a href="/default.asp?sect=1284">PlayStation 3</a>
-									<a href="/default.asp?sect=1274">PlayStation 2</a>
-									<a href="/default.asp?sect=1278">PC Games</a>
-									<a href="/default.asp?sect=1286">Download Now</a>
-									<a href="/default.asp?sect=1285">Nintendo Wii</a>
-									<a href="/search.asp?N=146">GameCube</a>
-									<a href="/default.asp?sect=1281">Nintendo DS</a>
-									<a href="/search.asp?N=135">Nintendo GBA</a>
-									<a href="/default.asp?sect=1282">Used Games</a>
-										<div>
-											<a href="/search.asp?N=80+146">GameCube</a>
-											<a href="/search.asp?N=80+134">Nintendo DS</a>
-											<a href="/search.asp?N=80+139">PlayStation 2</a>
-											<a href="/search.asp?N=80+141">PlayStation 3</a>
-											<a href="/search.asp?N=80+136">PSP</a>
-											<a href="/search.asp?N=80+144">PSP Movies</a>
-											<a href="/search.asp?N=80+138">Wii</a>
-											<a href="/search.asp?N=80+137">Xbox</a>
-											<a href="/search.asp?N=80+133">Xbox 360</a>
-										</div>
-								</div>
-								<span class="qmclear">&nbsp;</span>
-							</td>
-						</tr>
-						<tr>
-							<td height="4"><img src="/common/images/clear.gif" height="4" width="130" border="0"></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-		<img src="/common/images/clear.gif" height="15" width="15" border="0"><br>
-		<table width="140" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td width="140"><img src="/gs/sites/eb/common/images/sfln_header_esrb.gif" border="0"></td>
-			</tr>
-			<tr>
-				<td align="center" valign="middle" class="leftnavborder">
-					<table cellspacing="0" cellpadding="0" width="130">
-						<tbody><tr>
-							<td height="4"><img src="/common/images/clear.gif" height="4" width="130" border="0"></td>
-						</tr>
-						<tr>
-							<td width="130" align="left" class="lncopy">
-								<a href="/search.asp?N=51">Everyone</a><br>
-								<a href="/search.asp?N=56">Everyone 10+</a><br>
-								<a href="/search.asp?N=52">Teen</a><br>
-								<a href="/search.asp?N=53">Mature</a><br>
-								<a href="/ratings.asp">About ESRB Ratings</a>
-							</td>
-						</tr>
-						<tr>
-							<td height="4"><img src="/common/images/clear.gif" height="4" width="130" border="0"></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-		<script type="text/JavaScript">qm_create(0,true,0,500,false)</script>
-		
+	<img src="/common/gui/clear.gif" height="15" width="15" border="0"><br>
+	<table width="140" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td width="140"><img src="/common/gui/sfln_header_newsletter2.gif" border="0"></td>
+		</tr>
+		<tr>
+			<td align="center" valign="middle" class="leftnavborder">
+				<div id="ctl00_cLeftNav_NewsletterSignupControlPanel">
 	
-		<img src="/common/images/clear.gif" height="15" width="15" border="0"><br>
-		<table width="140" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td width="140"><img src="/gs/sites/eb/common/images/sfln_header_newsletter2.gif" border="0"></td>
-			</tr>
-			<form action="/newslettersignup.asp" method="post"></form>
-			<tr>
-				<td align="center" valign="middle" class="leftnavborder">
-					<table width="130" cellspacing="0" cellpadding="0" border="0">
-						<tbody><tr>
-							<td height="4" colspan="2"><img src="/common/images/clear.gif" height="4" width="130" border="0"></td>
-						</tr>
-						<tr>
-							<td width="96" height="23" valign="middle"><input type="text" name="txtEMail" value="Enter your e-mail" class="useddrop" style="width:85px; height:14px;" onfocus="this.value=''"><input type="hidden" name="mode" value="1"></td>
-							<td width="34" height="23" valign="middle"><input type="image" name="" src="/gs/sites/eb/common/images/nl_go2.gif" border="0"><input type="hidden" name="radFormat" value="html">
-						</td></tr>
-						<tr>
-							<td height="4" colspan="2"><img src="/common/images/clear.gif" height="4" width="130" border="0"></td>
-						</tr>
-					</tbody></table>
-					<table width="138" cellspacing="0" cellpadding="0" border="0" style="background-color:#366796">
-						<tbody><tr>
-							<td height="1" colspan="4" bgcolor="#000000"><img src="/common/images/clear.gif" height="1" width="130" border="0"></td>
-						</tr>
-						<tr>
-							<td height="2" colspan="4"><img src="/common/images/clear.gif" height="2" width="130" border="0"></td>
-						</tr>
-						<tr>
-							<td width="3"><img src="/common/images/clear.gif" height="4" width="3" border="0"></td>
-							<td width="130" align="center" valign="middle"><span style="font-family:arial;font-size:10px;color:#ffffff;">Sign up for our weekly ad, exclusive offers and more!</span></td>
-							<td width="3"><img src="/common/images/clear.gif" height="4" width="3" border="0"></td>
-						</tr>
-						<tr>
-							<td height="2" colspan="4"><img src="/common/images/clear.gif" height="2" width="130" border="0"></td>
-						</tr>
-					</tbody></table>	
-				</td>
-			</tr>
-			
-			
-		</tbody></table>
-		<img src="/common/images/clear.gif" height="15" width="15" border="0"><br>
-		<table width="140" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td width="140"><img src="/gs/sites/eb/common/images/sfln_header_specialty.gif" border="0"></td>
-			</tr>
-			<tr>
-				<td align="center" valign="middle" class="leftnavborder">
-					<table cellspacing="0" cellpadding="0" width="130">
-						<tbody><tr>
-							<td height="4"><img src="/common/images/clear.gif" height="4" width="130" border="0"></td>
-						</tr>
-						<tr>
-							<td width="130" align="left" class="lncopy">
-								<a href="/gs/trade-ins/trade-ins.asp">Trade-In Values</a><br>
-								<a href="/search.asp?N=132">DVDs</a><br>
-								<a href="/gs/zune/zune.asp">Zune</a><br>
-								<a href="/default.asp?sect=1293">Kidz Entertainment</a><br>
-								<a href="/gs/sites/eb/alienware/">Alienware</a><br>
-								<a href="/gs/tournaments/eb_tourney.asp">Tournaments</a><br>
-								<a href="/gs/sweepstakes/eb_sweeps.asp">Sweepstakes</a><br>
-							</td>
-						</tr>
-						<tr>
-							<td height="4"><img src="/common/images/clear.gif" height="4" width="130" border="0"></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-		<img src="/common/images/clear.gif" height="15" width="15" border="0"><br>
-		<table width="140" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td width="140"><img src="/gs/sites/eb/common/images/sfln_header_corporate.gif" border="0"></td>
-			</tr>
-			<tr>
-				<td align="center" valign="middle" class="leftnavborder">
-					<table cellspacing="0" cellpadding="0" width="130">
-						<tbody><tr>
-							<td height="4"><img src="/common/images/clear.gif" height="4" width="130" border="0"></td>
-						</tr>
-						<tr>
-							<td width="130" align="left" class="lncopy">
-								<a href="/gs/newinvest/" target="_blank">About Us</a><br>
-								<a href="/gs/sites/eb/help/contact_us.asp">Contact Us</a><br>
-								<a href="http://phx.corporate-ir.net/phoenix.zhtml?c=130125&amp;p=irol-irhome" target="_blank">Investor Relations</a><br>
-								<a href="/gs/newinvest/press.asp" target="_blank">Press Room</a><br>
-								<a href="http://careers.gamestop.com/Careers/" target="_blank">Careers</a><br>
-								<a href="javascript:LocatorWindow('http://web.sa.mapquest.com/gamestop/?tempset=search')">Store Locator &amp; Hours</a><br>
-								
-							</td>
-						</tr>
-						<tr>
-							<td height="4"><img src="/common/images/clear.gif" height="4" width="130" border="0"></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-		<br>
-		<center>
-		<script src="https://seal.verisign.com/getseal?host_name=www.ebgames.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script><br>
-		</center>
-		
-		</td>
-				<td width="20" valign="top"><img src="/common/images/clearshim.gif" border="0" width="20" height="960"></td>
-				<td width="620" valign="top" class="stdcopy"><img src="/common/images/clear.gif" height="15" width="15" border="0">
-
-<!-- Begin Content Area Main Table  -->
-
-			<center>
-			<table width="620" cellspacing="0" cellpadding="0" border="0">
-				<tbody><tr>
-					<td width="620" valign="top" align="center">
-						<table width="620" cellspacing="0" cellpadding="0" border="0">
-							<tbody><tr>
-								<td width="420" valign="middle" align="left"><span class="helpheader">Privacy Statement</span></td>
-								<td width="200" valign="middle" align="right">&nbsp;</td>
-							</tr>
-							<tr>
-								<td width="620" height="3" colspan="2"><img src="/common/images/clear.gif" width="280" height="3"></td>
-							</tr>
-							<tr>
-								<td width="620" height="1" colspan="2" bgcolor="#686868"><img src="/common/images/clear.gif" width="280" height="1"></td>
-							</tr>
-							<tr>
-								<td width="620" height="5" colspan="2"><img src="/common/images/clear.gif" width="280" height="5"></td>
-							</tr>
-						</tbody></table>
-						<br>
-						<table width="620" cellspacing="0" cellpadding="0" border="0">
-							<tbody><tr>
-								<td width="620" valign="top" class="stdcopy">	
-								
-									Last updated: January 9, 2007<br><br> 
-									
-									EBgames.com is aware of your concerns about use of your personal information. We attempt to use and share personal information that we collect online carefully and sensibly. This notice describes our privacy policy. By visiting EBgames.com, you are accepting the practices described in this privacy notice.<br><br>
-									
-									Our online privacy policy applies only to information that we collect from customers online who visit EBgames.com or the EB Games Mobile Store (collectively, "the website"); it does not apply to any information collected at our retail stores and outlets. This website contains links to other websites. EBgames.com is not responsible for the privacy practices or the content of such other websites.<br><br> 
-									
-									In this document, the word "computer" means any device used to connect to EBgames.com or the EB Games Mobile Store, including, but not limited to, mobile devices.<br><br> 
-									
-									<b>We Gather the Following Personal Information About Customers:</b><br><br>
-									
-									<b>Information That You Give Us: </b>We receive and store any information you enter on our website or that you give us in any other way. You can choose not to provide certain information, but this will limit your ability to purchase products offered on the website, or to take advantage of some of our features for website customers.<br><br> 
-									
-									When you place an order with us, your contact information is used to communicate related information, such as order and shipment confirmation, release date changes and requests for more information to facilitate the processing of your order. You may opt-out of these communications by canceling your order.<br><br>
-									
-									We use customer contact information from the account form to customize future shopping for you, to improve our website and stores, and, if you choose, to send you information about our company and to inform you of sales and special offers. If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email.<br><br>
-									
-									We obtain information about you when you search, buy, participate in a contest or questionnaire, communicate with customer service, or otherwise contact us or post information on the website. For example, you provide information when you search for a product; place an order through EBgames.com or provide information to update or create your account with us (you may have more than one account if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; create any wish or gift list; participate in any forums or discussion areas or product reviews; or create any alerts or other email notification services we may offer now or in the future. The information collected typically includes your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; content of reviews you may provide; e-mails to us; and any other personal information that you provide to us or post on the website.<br><br> 
-									
-									<b>We occasionally run our own email surveys</b> and we ask visitors for contact, demographic and technical information. We use contact data from our surveys to send users information about our company. This information is also used to contact visitors to learn more about specific problems they might have reported or to give them rewards, if such a reward program is part of the survey. The demographic information is used to learn more about the types of people who visit our site.<br><br> 
-									
-									<b>We run contests on our site in which we ask visitors for contact information</b> (such as their email address). We use this information to contact the winners. We may share contest information entered on our website with our business and marketing partners.<br><br>
-									
-									<b>We allow customers to post reviews</b> and to allow visitors to communicate information on products. When posting a review, you can optionally display your name, an alias, or remain anonymous.  However, if you disclose personally identifiable information in your review, that information is public information and may increase your chance of receiving unsolicited email. You should use discretion when disclosing information on-line.<br><br>
-									
-									<b>Automatic Collection of Information:</b> If you purchase any products online, or have any other interaction with our website, we will receive and store information that you provide or that is generated by your actions. For example, like many websites, we use "cookies," which are placed on your computer (explained in more detail below), to remember your name and the contents of your shopping cart. This allows you to leave our site, come back later, and still have the contents of your shopping cart intact. It also lets us personalize your experience at EBgames.com, tailoring the content to your interests. A number of companies offer utilities designed to help you visit websites anonymously, but if you use these utilities, it may limit your ability to use personalized features that we offer.<br><br> 
-									
-									The information we receive or can determine from your interaction with our website includes your Internet (IP) address; login and password information; e-mail address; web browser type and version; operating system and computer platform; purchase history, which we may aggregate with similar information from other customers; the full Uniform Resource Locator (URL) clickstream to, through, and from our website, including date and time; cookie number; products you viewed or searched for; areas of our website you visited; and the phone number you used to call our toll-free number. We also may log the length of time of your visit and the number of times you visit and purchase from us. We assign you a unique internal identifier to help keep track of your future visits.<br><br>
-									
-									<b>E-mail Communications:</b> We provide email links on our "Customer Services" page that allow you to contact us directly with any questions or comments you may have. We may receive a confirmation when you open any e-mail that we send to you, if your computer supports such capabilities. If you send us any email, we will retain such email and your email address for response. We also may compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary or duplicate messages to you.<br><br> 
-									
-									<b>Information from Other Sources:</b> If we receive any information about you from other sources, we may add it to our account information. For example, if we receive a list of subscribers to a gaming publication, and we note that you are a subscriber, we may include that information in the account information that we store about you. Other examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records; account information, purchase or redemption information, and page-view information from business partners who operate their own websites or for which we provide any services; search term and search result information from searches conducted through the website; and credit history information from credit bureaus, which we use to help prevent and detect fraud.<br><br>
-									
-									<b>An Explanation of "Cookies"</b><br><br> 
-									Cookies are alphanumeric identifiers that are placed by us on your computer's storage system through your web browser to enable our systems to recognize your browser when you make future visits to our website, and to store certain information (such as items placed in your shopping cart) between visits.<br><br> 
-									
-									You can stop your computer from storing cookies if you want to. Most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You should look in the "help" area shown on your browser's toolbar. Because cookies allow you to have the benefit of our personalized features, we recommend that you leave them turned on.  You MUST have cookies enabled in order to checkout on our website.<br><br>
-									
-									<b>Sharing of Information</b><br><br> 
-									
-									<b>Tournaments: </b>If you register for tournaments on 
-									EBgames.com, we may share your registration data with the tournament host and they may use it for internal tracking and analytics.  For instance, if you give us your Xbox Live Gamertag for a Microsoft tournament, Microsoft will use that information for internal research.
-									
-									<b><br>
-									<br>
-									Sharing with Third Parties.</b> We may share customer information that we collect with third parties. Usually, this information will be shared with a third party that has relationship with us as a business partner or marketing partner. (See information on Third Party Relationships below.) Also, we may use the information that you provide us, or that we collect about you, in connection with the promotion of our products and services and those of our affiliates. It is not our policy to sell or rent lists of our website customers to unaffiliated third parties.<br><br>
-									
-									<b>Sharing with our Contractors.</b> We also may employ other companies and individuals to perform functions on our behalf. Examples include order fulfillment, package delivery, postal mail and e-mail communications, customer lists management, data analysis, marketing assistance, credit card processing, and customer relationship management. These companies and individuals have access to personal information needed to perform their functions, but they are not permitted to use such information for other purposes without our permission.<br><br> 
-									
-									<b>Promotional Offers May be Sent to You.</b> We may send you offers on behalf of our company or other businesses, or permit other businesses that we are working with to send you offers, if we believe that you may be interested in receiving these offers. If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email.<br><br>
-									
-									<b>Sale or Acquisition of Business Units. </b>As we continue to develop our business, we may buy or sell business divisions or companies, we may merge or combine with another company, or our company itself, or all or a significant part of its assets, may be acquired by another company. In such transactions, customer information generally is one of the transferred and shared business assets. The information transferred and shared remains subject to the promises made in any pre-existing privacy notice (unless, of course, the customer has agreed to be subject to new privacy notice terms). <br><br>
-									
-									<b>Legal Requirements and Protection of EBgames.com and Others.</b> We may decide to release your account and other personal information if we believe release is appropriate or necessary to comply with the law, to enforce or apply our website terms of use and other agreements, or to protect the rights, property, or safety of EBgames.com, our users, or others. This information may be released or exchanged with other companies and organizations to protect against fraud, or for credit risk reduction. We will cooperate with law enforcement and judicial authorities, and we may provide personally identifiable information to appropriate government authorities upon receipt of a subpoena or court order, or to cooperate with a law enforcement investigation. We will fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We also reserve the right to report to law enforcement agencies activities that we in good faith believe to be illegal. We undertake no obligation or duty to release such information, however, unless we are required to do so under applicable law.<br><br>
-									
-									<b>Other Circumstances.</b> If we want to share personal information other than as permitted or described above, we will notify you, and you may choose to instruct us not to share the information.<br><br> 
-									
-									<b>Third Party Relationships</b><br><br>
-									
-									<b>We have several types of third-party relationships.</b><ul>
-										<li>We offer an affiliate program through a third-party affiliate manager.  This program allows other websites to earn money by directing people (through links) to our website. If you sign up as an affiliate, your contact information (website address and related information, email address, mailing and payment addresses, and contact information) is sent to the third-party affiliate manager who activates your affiliate status and pays you based on the sales you generate for EBGames.com. You may apply for this program using an Affiliate Program application. The Affiliate Program area is clearly labeled, and your information is never collected or shared unless you also fill out an Affiliate Program application.</li>
-										<li>We work with business partners to provide you access to their products and services. For example, our website includes a link to www.alienware.com. Any information you supply upon entering the www.alienware.com site is collected by Alienware.</li>
-										<li>We link to third-party surveys. When you complete a purchase, you are often invited to participate in a survey to rate your experience. The survey is conducted by a third party (and is identified as such) who shares all of the survey information with us, including your email address if you specify it in the survey. We use this information to gauge which areas of our service need improving.</li>
-										<li>If you order from us after visiting Sony's Playstation.com web site we will forward your PlayStation Underground registration number to Sony along with any information regarding the products you have purchased.</li>
-									</ul>
-									<br><br>
-									
-									<b>Security of Information Stored by Us</b><br><br> 
-									During transmission of information by you to our website, we use Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the first two and last two digits of your credit card number when confirming an order, but we have to transmit the entire credit card number to the credit card processor or company during order processing.<br><br> 
-									
-									To the extent that you use our website, and connect to us through your computer, anyone with access to your computer may be able to access our website and conduct transactions in your name. We have no ability to know who has access to your computer, or to your credit card information, or who you have authorized to use such computer or information. Persons with access to your computer may be able to view any private or stored account information or other information that you have given to us. Accordingly, you are responsible for any transactions that are made in your name by someone who has access to your computer or your credit card number. It is important for you to protect against unauthorized access to any login or password information, and to your computer.<br><br> 
-									
-									<b>You May Access, Change or Modify Your Personal Information</b><br><br>
-									If you have purchased from us or created an account, our site provides you the opportunity to review, correct, or update your account information. You can do this by:<ol>
-										<li>Accessing www.ebgames.com and clicking on the "My Account" link.</li>
-										<li>Sending mail to the following postal address:</li>
-									<center>
-									<table border="0" id="table1">
-										<tbody><tr>
-											<td>EBgames.com Customer Service<br>
-									625 Westport Parkway<br>
-									Grapevine, TX 76051</td>
-										</tr>
-									</tbody></table>
-									</center>
-										<li>3. Calling the following telephone number: 1-800-883-8895</li>
-										</ol>
-										<br><br>
-									
-									<b>Your Right to Choose (Opt-Out)</b><br><br>
-									You always may choose not to provide information. Obviously, if you choose not to provide necessary information, we may not be able to process your orders or inquiries. If we permit you to update any information that we store about you, we may keep a copy of the previous information for our records.<br><br>
-									
-									If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email.
-									
-									<br><br>
-									
-									<b>We May Change These Terms</b><br><br>
-									Whether or not you have viewed our terms and conditions of use of this website, or this privacy notice, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of EBgames.com. We may update or change our terms of use and this privacy notice at any time and from time to time, as we determine is appropriate. It is your responsibility to review them for changes.<br><br> 
-									
-									<b>Use of Our Website by Children
-									</b>
-									<br><br> 
-									
-									EBgames.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use EBgames.com only with the involvement of a parent or guardian. 
-									
-									<br><br> 
-									
-									<b>Terms and Conditions of Use, Notices, and Revisions</b><br><br>
-									If you choose to visit our website, your visit and any dispute over privacy is subject to this privacy notice and our Terms and Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Pennsylvania. If you have any concerns or questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
-									<center>
-									<table border="0" id="table2">
-										<tbody><tr>
-											<td>EBGames.com Customer Service<br>
-									625 Westport Parkway<br>
-									Grapevine, TX 76051</td>
-											</tr>
-										</tbody></table>
-									</center>
-										<br><br>
-									
-									As is the case with any business, our business changes over time, and our privacy notice and the Terms and Conditions of Use also will change. We may e-mail reminders of our notices and conditions. You should frequently check our website to see recent changes to these terms and policies. Unless stated otherwise, our current privacy notice applies to all information that we have about you and your account.<br><br> 
-									
-									<b>Related Practices and Information</b><br><br> 
-									Terms and Conditions of Use may be found by <a href="ConditionsofUse.asp">clicking here.</a><br><br> 
-									<b>Still Have a Question?</b><br><br>
-									
-									If you didn't find what you needed here, feel free to contact our customer service center by sending an email to 
-									<a href="mailto:help@ebgames.com">help@ebgames.com</a>. Hours of operation: Open Monday - Friday 8:00 a.m. to 9:00 p.m. (CST); Saturday - Sunday 8:00 a.m. to 
-									8:00 p.m. (CST) .<br><br>
-										
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		</center>
-			
-
-<!-- End Content Area Main Table -->
-
-
-
-				</td>
-			</tr>
-		</tbody></table>
+				<table width="130" cellspacing="0" cellpadding="0" border="0">
+					<tbody><tr>
+						<td height="4" colspan="2"><img src="/common/gui/clear.gif" height="4" width="130" border="0"></td>
+					</tr>
+					<tr>
+						<td width="96" height="23" valign="middle">
+                            
+                            <input type="text" name="txtNewsletterSignup" class="useddrop" style="width:90px; height:15px;" value="Enter your e-mail" onfocus="this.value=''">
+                                </td>
+						<td width="34" height="23" valign="middle">
+                            <input type="image" name="ctl00$cLeftNav$btnNewsletterSignup" id="ctl00_cLeftNav_btnNewsletterSignup" src="/common/gui/nl_go2.gif" onclick="ResetDefault;WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cLeftNav$btnNewsletterSignup&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../../Marketing/NewsletterSignUp.aspx&quot;, false, false))" border="0">
+					</td></tr>
+					<tr>
+						<td height="4" colspan="2"><img src="/common/gui/clear.gif" height="4" width="130" border="0"></td>
+					</tr>
+				</tbody></table>
+				
+</div>
+				<table width="138" cellspacing="0" cellpadding="0" border="0" style="background:#366796">
+					<tbody><tr>
+						<td height="1" colspan="4" bgcolor="#000000"><img src="/common/gui/clear.gif" height="1" width="130" border="0"></td>
+					</tr>
+					<tr>
+						<td height="2" colspan="4"><img src="/common/gui/clear.gif" height="2" width="130" border="0"></td>
+					</tr>
+					<tr>
+						<td width="3"><img src="/common/gui/clear.gif" height="4" width="3" border="0"></td>
+						<td width="130" align="center" valign="middle"><span style="font-family:arial;font-size:10px;color:#ffffff;">Sign up for our weekly ad, exclusive offers and more!</span></td>
+						<td width="3"><img src="/common/gui/clear.gif" height="4" width="3" border="0"></td>
+					</tr>
+					<tr>
+						<td height="2" colspan="4"><img src="/common/gui/clear.gif" height="2" width="130" border="0"></td>
+					</tr>
+				</tbody></table>	
+			</td>
+		</tr>
+	</tbody></table>
+	<img src="/common/gui/clear.gif" height="15" width="15" border="0"><br>
+	<table width="140" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td width="140"><img src="/common/gui/sfln_header_specialty.gif" border="0"></td>
+		</tr>
+		<tr>
+			<td align="center" valign="middle" class="leftnavborder">
+				<table cellspacing="0" cellpadding="0" width="130">
+					<tbody><tr>
+						<td height="4"><img src="/common/gui/clear.gif" height="4" width="130" border="0"></td>
+					</tr>
+					<tr>
+						<td width="130" align="left" class="lncopy">
+							<a href="/gs/blog/">Blog</a><br>
+							<a href="/gs/gscinema/">GameStop Cinema</a><br>
+							<a href="/gs/specialty/tradeins/">Trade-In Values</a><br>
+							<a href="/gs/alienware/">Alienware</a><br>
+							<a href="/gs/tournaments/">Tournaments</a><br>
+							<a href="/gs/specialty/zune/">Zune</a><br>
+							<a href="/gs/sweepstakes/">Sweepstakes</a><br>
+						</td>
+					</tr>
+					<tr>
+						<td height="4"><img src="/common/gui/clear.gif" height="4" width="130" border="0"></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
 	
+	<br>
+	<script src="https://seal.verisign.com/getseal?host_name=www.ebgames.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script><br>
+	<script type="text/JavaScript">qm_create(1,true,0,500,false)</script></td>
+				<td width="20" valign="top"><img src="/common/gui/clearshim.gif" border="0" width="20" height="960"></td>
+				<td width="620" valign="top" class="stdcopy" align="left"><img src="/common/gui/clear.gif" height="15" width="15" border="0"><br>
+				    
+	
+	<center>
+		<table width="620" height="49" cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr>
+				<td width="620" height="49" valign="top" colspan="3"><img src="/common/gui/header_core_help.gif"></td>
+			</tr>
+		</tbody></table>
+		<br><br>
+		<table width="620" cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr>
+				<td width="420" valign="middle" align="left"><span class="accheader">Privacy Policy</span></td>
+				<td width="200" valign="middle" align="right"><span class="boldcopy"><a href="/gs/help/">Return to Help Center</a></span></td>
+			</tr>
+			<tr>
+				<td width="620" height="3" colspan="2"><img src="/common/images/clear.gif" width="280" height="3"></td>
+			</tr>
+			<tr>
+				<td width="620" height="1" colspan="2" bgcolor="#686868"><img src="/common/images/clear.gif" width="280" height="1"></td>
+			</tr>
+			<tr>
+				<td width="620" height="5" colspan="2"><img src="/common/images/clear.gif" width="280" height="5"></td>
+			</tr>
+		    <tr>
+			    <td width="620" valign="top" colspan="2" class="stdcopy" align="left">
+
+			
+				Last updated: January 9, 2007<br><br> 
+				
+				Gamestop.com is aware of your concerns about use of your personal information. We attempt to use and share personal information that we collect online carefully and sensibly. This notice describes our privacy policy. By visiting 
+				Gamestop.com, you are accepting the practices described in this privacy notice.<br><br>
+				
+				Our online privacy policy applies only to information that we collect from customers online who visit 
+				Gamestop.com; it does not apply to any information collected at our retail stores and outlets. This website contains links to other websites. 
+				Gamestop.com is not responsible for the privacy practices or the content of such other websites.<br><br> 
+				
+				In this document, the word "computer" means any device used to connect to 
+				Gamestop.com, including, but not limited to, mobile devices.<br><br> 
+				
+				<b>We Gather the Following Personal Information About Customers:</b><br><br>
+				
+				<b>Information That You Give Us: </b>We receive and store any information you enter on our website or that you give us in any other way. You can choose not to provide certain information, but this will limit your ability to purchase products offered on the website, or to take advantage of some of our features for website customers.<br><br> 
+				
+				When you place an order with us, your contact information is used to communicate related information, such as order and shipment confirmation, release date changes and requests for more information to facilitate the processing of your order. You may opt-out of these communications by canceling your order.<br><br>
+				
+				We use customer contact information from the account form to customize future shopping for you, to improve our website and stores, and, if you choose, to send you information about our company and to inform you of sales and special offers. If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email.<br><br>
+				
+				We obtain information about you when you search, buy, participate in a contest or questionnaire, communicate with customer service, or otherwise contact us or post information on the website. For example, you provide information when you search for a product; place an order through 
+				Gamestop.com or provide information to update or create your account with us (you may have more than one account if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; create any wish or gift list; participate in any forums or discussion areas or product reviews; or create any alerts or other email notification services we may offer now or in the future. The information collected typically includes your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; content of reviews you may provide; e-mails to us; and any other personal information that you provide to us or post on the website.<br><br> 
+				
+				<b>We occasionally run our own email surveys</b> and we ask visitors for contact, demographic and technical information. We use contact data from our surveys to send users information about our company. This information is also used to contact visitors to learn more about specific problems they might have reported or to give them rewards, if such a reward program is part of the survey. The demographic information is used to learn more about the types of people who visit our site.<br><br> 
+				
+				<b>We run contests on our site in which we ask visitors for contact information</b> (such as their email address). We use this information to contact the winners. We may share contest information entered on our website with our business and marketing partners.<br><br>
+				
+				<b>We allow customers to post reviews</b> and to allow visitors to communicate information on products. When posting a review, you can optionally display your name, an alias, or remain anonymous.  However, if you disclose personally identifiable information in your review, that information is public information and may increase your chance of receiving unsolicited email. You should use discretion when disclosing information on-line.<br><br>
+				
+				<b>Automatic Collection of Information:</b> If you purchase any products online, or have any other interaction with our website, we will receive and store information that you provide or that is generated by your actions. For example, like many websites, we use "cookies," which are placed on your computer (explained in more detail below), to remember your name and the contents of your shopping cart. This allows you to leave our site, come back later, and still have the contents of your shopping cart intact. It also lets us personalize your experience at 
+				Gamestop.com, tailoring the content to your interests. A number of companies offer utilities designed to help you visit websites anonymously, but if you use these utilities, it may limit your ability to use personalized features that we offer.<br><br> 
+				
+				The information we receive or can determine from your interaction with our website includes your Internet (IP) address; login and password information; e-mail address; web browser type and version; operating system and computer platform; purchase history, which we may aggregate with similar information from other customers; the full Uniform Resource Locator (URL) clickstream to, through, and from our website, including date and time; cookie number; products you viewed or searched for; areas of our website you visited; and the phone number you used to call our toll-free number. We also may log the length of time of your visit and the number of times you visit and purchase from us. We assign you a unique internal identifier to help keep track of your future visits.<br><br>
+				
+				<b>E-mail Communications:</b> We provide email links on our "Customer Services" page that allow you to contact us directly with any questions or comments you may have. We may receive a confirmation when you open any e-mail that we send to you, if your computer supports such capabilities. If you send us any email, we will retain such email and your email address for response. We also may compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary or duplicate messages to you.<br><br> 
+				
+				<b>Information from Other Sources:</b> If we receive any information about you from other sources, we may add it to our account information. For example, if we receive a list of subscribers to a gaming publication, and we note that you are a subscriber, we may include that information in the account information that we store about you. Other examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records; account information, purchase or redemption information, and page-view information from business partners who operate their own websites or for which we provide any services; search term and search result information from searches conducted through the website; and credit history information from credit bureaus, which we use to help prevent and detect fraud.<br><br>
+				
+				<b>An Explanation of "Cookies"</b><br><br> 
+				Cookies are alphanumeric identifiers that are placed by us on your computer's storage system through your web browser to enable our systems to recognize your browser when you make future visits to our website, and to store certain information (such as items placed in your shopping cart) between visits.<br><br> 
+				
+				You can stop your computer from storing cookies if you want to. Most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You should look in the "help" area shown on your browser's toolbar. Because cookies allow you to have the benefit of our personalized features, we recommend that you leave them turned on.  You MUST have cookies enabled in order to checkout on our website.<br><br>
+				
+				<b>Sharing of Information<br>
+				<br>
+				Tournaments:
+				</b>If you register for tournaments on GameStop.com, we may share your registration data with the tournament host and they may use it for internal tracking and analytics.  For instance, if you give us your Xbox Live Gamertag for a Microsoft tournament, Microsoft will use that information for internal research.
+				<b><br>
+				<br>
+				Sharing with Third Parties.</b> We may share customer information that we collect with third parties. Usually, this information will be shared with a third party that has relationship with us as a business partner or marketing partner. (See information on Third Party Relationships below.) Also, we may use the information that you provide us, or that we collect about you, in connection with the promotion of our products and services and those of our affiliates. It is not our policy to sell or rent lists of our website customers to unaffiliated third parties.<br><br>
+				
+				<b>Sharing with our Contractors.</b> We also may employ other companies and individuals to perform functions on our behalf. Examples include order fulfillment, package delivery, postal mail and e-mail communications, customer lists management, data analysis, marketing assistance, credit card processing, and customer relationship management. These companies and individuals have access to personal information needed to perform their functions, but they are not permitted to use such information for other purposes without our permission.<br><br> 
+				
+				<b>Promotional Offers May be Sent to You.</b> We may send you offers on behalf of our company or other businesses, or permit other businesses that we are working with to send you offers, if we believe that you may be interested in receiving these offers. If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email.<br><br>
+				
+				<b>Sale or Acquisition of Business Units. </b>As we continue to develop our business, we may buy or sell business divisions or companies, we may merge or combine with another company, or our company itself, or all or a significant part of its assets, may be acquired by another company. In such transactions, customer information generally is one of the transferred and shared business assets. The information transferred and shared remains subject to the promises made in any pre-existing privacy notice (unless, of course, the customer has agreed to be subject to new privacy notice terms). <br><br>
+				
+				<b>Legal Requirements and Protection of 
+				Gamestop.com and Others.</b> We may decide to release your account and other personal information if we believe release is appropriate or necessary to comply with the law, to enforce or apply our website terms of use and other agreements, or to protect the rights, property, or safety of 
+				Gamestop.com, our users, or others. This information may be released or exchanged with other companies and organizations to protect against fraud, or for credit risk reduction. We will cooperate with law enforcement and judicial authorities, and we may provide personally identifiable information to appropriate government authorities upon receipt of a subpoena or court order, or to cooperate with a law enforcement investigation. We will fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We also reserve the right to report to law enforcement agencies activities that we in good faith believe to be illegal. We undertake no obligation or duty to release such information, however, unless we are required to do so under applicable law.<br><br>
+				
+				<b>Other Circumstances.</b> If we want to share personal information other than as permitted or described above, we will notify you, and you may choose to instruct us not to share the information.<br><br> 
+				
+				<b>Third Party Relationships</b><br><br>
+				
+				<b>We have several types of third-party relationships.</b><ul>
+					<li>We offer an affiliate program through a third-party affiliate manager.  This program allows other websites to earn money by directing people (through links) to our website. If you sign up as an affiliate, your contact information (website address and related information, email address, mailing and payment addresses, and contact information) is sent to the third-party affiliate manager who activates your affiliate status and pays you based on the sales you generate for 
+					Gamestop.com. You may apply for this program using an Affiliate Program application. The Affiliate Program area is clearly labeled, and your information is never collected or shared unless you also fill out an Affiliate Program application.</li>
+					<li>We work with business partners to provide you access to their products and services. For example, our website includes a link to www.alienware.com. Any information you supply upon entering the www.alienware.com site is collected by Alienware.</li>
+					<li>We link to third-party surveys. When you complete a purchase, you are often invited to participate in a survey to rate your experience. The survey is conducted by a third party (and is identified as such) who shares all of the survey information with us, including your email address if you specify it in the survey. We use this information to gauge which areas of our service need improving.</li>
+					<li>If you order from us after visiting Sony's Playstation.com web site we will forward your PlayStation Underground registration number to Sony along with any information regarding the products you have purchased.</li>
+				</ul>
+				<br><br>
+				
+				<b>Security of Information Stored by Us</b><br><br> 
+				During transmission of information by you to our website, we use Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the first two and last two digits of your credit card number when confirming an order, but we have to transmit the entire credit card number to the credit card processor or company during order processing.<br><br> 
+				
+				To the extent that you use our website, and connect to us through your computer, anyone with access to your computer may be able to access our website and conduct transactions in your name. We have no ability to know who has access to your computer, or to your credit card information, or who you have authorized to use such computer or information. Persons with access to your computer may be able to view any private or stored account information or other information that you have given to us. Accordingly, you are responsible for any transactions that are made in your name by someone who has access to your computer or your credit card number. It is important for you to protect against unauthorized access to any login or password information, and to your computer.<br><br> 
+				
+				<b>You May Access, Change or Modify Your Personal Information</b><br><br>
+				If you have purchased from us or created an account, our site provides you the opportunity to review, correct, or update your account information. You can do this by:<ol>
+					<li>Accessing Gamestop.com and clicking on the "My Account" link.</li>
+					<li>Sending mail to the following postal address:</li>
+				<center>
+				<table border="0" id="table1">
+					<tbody><tr>
+						<td>Gamestop.com Customer Service<br>
+				625 Westport Parkway<br>
+				Grapevine, TX 76051</td>
+					</tr>
+				</tbody></table>
+				</center>
+					<li>Calling the following telephone number: 1-800-883-8895</li>
+					</ol>
+					<br><br>
+				
+				<b>Your Right to Choose (Opt-Out)</b><br><br>
+				You always may choose not to provide information. Obviously, if you choose not to provide necessary information, we may not be able to process your orders or inquiries. If we permit you to update any information that we store about you, we may keep a copy of the previous information for our records.<br><br>
+				
+				If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email.
+				
+				<br><br>
+				
+				<b>We May Change These Terms</b><br><br>
+				Whether or not you have viewed our terms and conditions of use of this website, or this privacy notice, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of 
+				Gamestop.com. We may update or change our terms of use and this privacy notice at any time and from time to time, as we determine is appropriate. It is your responsibility to review them for changes.<br><br> 
+				
+				<b>Use of Our Website by Children
+				</b>
+				<br><br> 
+				
+				Gamestop.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use 
+				Gamestop.com only with the involvement of a parent or guardian. 
+				
+				<br><br> 
+				
+				<b>Terms and Conditions of Use, Notices, and Revisions</b><br><br>
+				If you choose to visit our website, your visit and any dispute over privacy is subject to this privacy notice and our Terms and Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Pennsylvania. If you have any concerns or questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
+				<center>
+				<table border="0" id="table2">
+					<tbody><tr>
+						<td>Gamestop.com Customer Service<br>
+				625 Westport Parkway<br>
+				Grapevine, TX 76051</td>
+						</tr>
+					</tbody></table>
+				</center>
+					<br><br>
+				
+				As is the case with any business, our business changes over time, and our privacy notice and the Terms and Conditions of Use also will change. We may e-mail reminders of our notices and conditions. You should frequently check our website to see recent changes to these terms and policies. Unless stated otherwise, our current privacy notice applies to all information that we have about you and your account.<br><br> 
+				
+				<b>Related Practices and Information</b><br><br> 
+				Terms and Conditions of Use may be found by <a href="/gs/help/disclaimer.aspx">clicking here.</a><br>
+					
+			</td>
+		</tr>
+	    </tbody></table>
+	</center>
+
+				</td>
+			</tr>				
+		</tbody></table>
+        
+
 <table width="940" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
-		<td width="940" height="30" align="center"><img src="/common/images/clear.gif" width="10" height="30" border="0"></td>
+		<td width="940" height="30" align="center"><img src="/common/gui/clear.gif" width="10" height="30" border="0"></td>
 	</tr>
 	<tr>
-		<td width="940" height="20" valign="top" align="center" class="smallcopy"><a href="/gs/newinvest/" target="_blank">About Us</a> | <a href="/gs/help/contact_us.asp">Contact Us</a> | <a href="/gs/newinvest/press.asp" target="_blank">Press Room</a> | <a href="http://careers.gamestop.com/Careers/" target="_blank">Careers</a> | <a href="javascript:LocatorWindow('http://web.sa.mapquest.com/gamestop/?tempset=search')">Store Locator</a><br></td>
+		<td width="940" height="20" valign="top" align="center" class="stdcopy"><a href="/gs/help/About_Us.aspx" target="_blank">About Us</a> &nbsp;|&nbsp; <a href="http://www.gamestopcorp.com/pressroom.aspx" target="_blank">Corporate</a> &nbsp;|&nbsp; <a href="http://careers.gamestop.com/Careers/" target="_blank">Careers at GameStop</a> &nbsp;|&nbsp; <a href="javascript:LocatorWindow('http://web.sa.mapquest.com/gamestop/?tempset=search')">Store Locations &amp; Hours</a> &nbsp;|&nbsp; <a href="/gs/help/contact_us.aspx">Contact Us</a></td>
 	</tr>
 	<tr>
-		<td width="940" height="20" valign="top" align="center" class="smallcopy"><a href="/newslettersignup.asp">Newsletter Sign-Up</a> | <a href="/gs/affiliate.asp">Affiliate Program</a> | <a href="/gs/help/feedback.asp">Site Suggestions</a> | <a href="/gs/rss/">RSS Feeds</a><br></td>
+		<td width="940" height="5" align="center"><img src="/common/gui/clear.gif" width="8" height="5" border="0"></td>
 	</tr>
 	<tr>
-		<td width="940" height="18" valign="middle" align="center" class="smallcopy">All prices are in U.S. dollars.<br>View our <a href="/gs/help/PrivacyPolicy.asp">Privacy Policy</a> and <a href="/gs/help/disclaimer.asp">Conditions of Use</a><br> © 1999-2007 GameStop</td>
+		<td width="940" height="20" valign="top" align="center" class="stdcopy"><a href="/gs/help/default.aspx">Help</a> &nbsp;|&nbsp; <a href="/gs/help/affiliate.aspx">Become an Affiliate</a> &nbsp;|&nbsp; <a href="/Marketing/NewsletterSignUp.aspx">Newsletter Sign-Up</a> &nbsp;|&nbsp; <a href="/gs/help/feedback.aspx">Site Feedback</a></td>
 	</tr>
-</tbody></table><font face="Arial" color="#ffffff">128</font>
-</center><!-- START OF SDC Advanced Tracking Code -->
+	<tr>
+		<td width="940" height="5" align="center"><img src="/common/gui/clear.gif" width="8" height="5" border="0"></td>
+	</tr>
+	<tr>
+		<td width="940" height="18" valign="middle" align="center" class="smallcopy"><a href="/gs/help/PrivacyPolicy.aspx">Privacy Policy</a> &nbsp;|&nbsp; <a href="/gs/help/disclaimer.aspx">Conditions of Use</a>&nbsp; © 1999-2008 GameStop</td>
+	</tr>
+</tbody></table>
+<script type="text/javascript" src="/gs/flash/noCtA.js"></script>
+
+        
+<!-- START OF SDC Advanced Tracking Code -->
 <!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
 <!-- V7.5 -->
 <!-- $DateTime: 2005/08/25 15:58:46 $ -->
@@ -1009,16 +1033,9 @@ dcsTag();
 <IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://stats.gamestop.com/dcsi583rp10000oevcqz9y4us_6l6d/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
 </noscript>
 <!-- END OF SmartSource Data Collector  TAG -->	
-		<script language="JavaScript">
-			<!-- Start
-								
-			function LocatorWindow(page) {
-			OpenWin = open(page, "CtrlWindow", "toolbar=no,resizable=no,menubar=no,location=no,scrollbars=yes,width=640,height=500");
-			OpenWin.focus();}
-								
-			// End -->
-		</script>
+    
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="92C6BiNE55TAf66UqXnqNGgt-W8OEAGOoATy7oSJsTY1"></form>
+    </div>
 
-		
 
-</body></html>
+<span></span></body></html>
