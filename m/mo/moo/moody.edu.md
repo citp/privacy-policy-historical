@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212082023id_/http%3A//www.moodyministries.net/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604182922id_/http%3A//www.moodyministries.net/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ Links to third party websites on the site are provided solely as a convenience t
 Should you have other questions or concerns about these privacy policies, please contact us:
 
 Web Administrator  
-Email: [webadmin@moody.edu](mailto:webadmin@moody.edu "Web Administrator email")  
+Email: [webmaster@moody.edu](mailto:webmaster@moody.edu "Webmaster email")  
 Moody Bible Institute  
 Web Communications  
 820 N. LaSalle Boulevard  
