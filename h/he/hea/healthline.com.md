@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthline.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225132407id_/http%3A//www.healthline.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthline.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604233424id_/http%3A//www.healthline.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Healthline - Privacy Policy
 
@@ -28,7 +28,7 @@ Some Healthline web pages use web beacons in conjunction with cookies to compile
 
 ### Third-party Media Companies
 
-Healthline uses third-party advertising companies to serve ads when you visit our web site. Our advertising partners' Ad Server may use cookies when you view pages on our site; these cookies collect anonymous (non-PII) information as a way of measuring the effectiveness of advertising sold on Healthline. Our sponsors and advertisers have agreed that they will not collect any personally identifiable information from our site visitors while they are on Healthline. If you click on an advertisement on Healthline and visit a site maintained by one of our sponsors or advertisers, please be aware that we are not responsible for the privacy practices of those sites. You should read the privacy policies of each site you visit to determine what information that site may be collecting about you. 
+Healthline uses third-party advertising companies to serve ads when you visit our web site. Our advertising partners' Ad Server may use cookies when you view pages on our site; these cookies collect anonymous (non-PII) information as a way of measuring the effectiveness of advertising sold on Healthline and to help tailor ads at other web sites you visit. Our sponsors and advertisers have agreed that they will not collect any personally identifiable information from our site visitors while they are on Healthline. If you click on an advertisement on Healthline and visit a site maintained by one of our sponsors or advertisers, please be aware that we are not responsible for the privacy practices of those sites. You should read the privacy policies of each site you visit to determine what information that site may be collecting about you. 
 
 Some Ad Servers allow you to opt out of anonymous data collection through the use of cookies. To do so, you must opt out of such data collection with each individual site. You can opt out of cookies for several Ad Servers by visiting the Network Advertising Initiative gateway opt-out site [ http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp). At that site you can also review the privacy policies of those Ad Servers. 
 
@@ -57,3 +57,7 @@ On occasion, Healthline will make available to potential advertisers and researc
 ### Special Policy With Regards to Information from Children Under Thirteen
 
 In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), Healthline will never knowingly request personally identifiable information from anyone under the age of 13 without parental consent. When we do receive information (with parental consent) from users under the age of 13, we will never voluntarily share their personally identifiable information with third parties, regardless of their stated preference given at registration. 
+
+Effective: Sept 2005
+
+Copyright © 2005 - 2008 Healthline Networks, Inc. All rights reserved.
