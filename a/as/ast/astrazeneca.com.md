@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201225740id_/http%3A//www.astrazeneca.com/node/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604061745id_/http%3A//www.astrazeneca.com/node/Privacy.aspx) for the most accurate reproduction.*
 
 # AstraZeneca International - Privacy policy
 
-This international website is provided by AstraZeneca. You can contact AstraZeneca by sending an email to the [Infomaster at AstraZeneca](http://www.astrazeneca.com/node/emailtriage.aspx). We take the privacy of our website users and the security of their personal information very seriously. For the purposes of data protection law, AstraZeneca UK Limited is the company that controls the processing of your personal data.
+This international website is provided by [AstraZeneca](http://www.astrazeneca.com/javascript:void\(0\); "References to 'AstraZeneca', 'Group', 'we', 'us' and 'our' are references to AstraZeneca PLC and its affiliates."). You can contact AstraZeneca by sending an email to the [Infomaster at AstraZeneca](http://www.astrazeneca.com/node/emailtriage.aspx). We take the privacy of our website users and the security of their personal information very seriously. For the purposes of data protection law, AstraZeneca UK Limited is the company that controls the processing of your personal data.
 
 The purpose of this privacy policy is to set out the principles governing our use of personal information which we may obtain about you. By using this website, or by registering as a user of the services which we provide, you agree to this use. We ask you to read this privacy policy carefully. Any dispute which may arise over privacy will be subject to this policy, the data protection notice (if any) incorporated into this website and the provisions of English law.
 
