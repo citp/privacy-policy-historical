@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secureparking.com.au privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206093902id_/http%3A//www.secureparking.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secureparking.com.au privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604183335id_/http%3A//www.secureparking.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Secure Parking | Privacy Statement
 
@@ -48,8 +48,9 @@ You are entitled to have access to all personal information held by S&K which id
 
 If you would like further information or if you wish to make a complaint about the collection or use of information via this website, please contact the S&K online privacy officer at the following address: 
 
-Name: Chris Mooney
+Name: Neal Smylie  
+
 
 Phone No: (02) 8912 4900
 
-Email address: cmooney@secureparking.com.au
+Email address: nsmylie@secureparking.com.au
