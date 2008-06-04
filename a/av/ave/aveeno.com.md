@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the aveeno.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011100542id_/http%3A//www.aveeno.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aveeno.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604154559id_/http%3A//www.aveeno.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # AVEENO® Skin Care Products
 
-**Privacy Policy**  
-Welcome to the AVEENO website. This site is owned by Johnson & Johnson Consumer Products Company, division of Johnson & Johnson Consumer Companies, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. **
+**PRIVACY POLICY**
 
-Your Consent
+**Welcome**   
+Welcome to the AVEENO.com website. This site is owned by Johnson & Johnson Consumer Products Company, division of Johnson & Johnson Consumer Companies, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site.
 
-**  
-By using this site, you agree to the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. **
+**Your Consent**   
+By using this site, you agree to the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
 
-About Children
-
-**   
+**About Children**   
 This site is not intended for children under the age of 13. We will not knowingly collect personally identifiable information via this site from visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Websites.
 
 **Information You Provide**  
@@ -31,7 +29,15 @@ Session" cookies are temporary bits of information that are used to improve navi
 "Navigational data" (log files, server logs, and clickstream data) are used for system management, to improve the content of the site, market research purposes, and to communicate information to visitors. 
 
 **Use and Disclosure of Information**  
-If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection. We may disclose personally identifiable information you provide via this site to other Johnson & Johnson affiliates worldwide that agree to treat it in accordance with this Privacy Policy and use it for the same purposes. We also may disclose personally identifiable information you provide via this site to third parties that are not Johnson & Johnson affiliates, but only: (i) to contractors we use to support our business (such as fulfillment services, technical support, delivery services, and financial institutions), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; (ii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; or (iii) to respond to law enforcement requests or where required by applicable laws, court orders, or government regulations. The collection, use, and disclosure of information contemplated in this Privacy Policy may involve a transfer of the information to jurisdictions located outside your country of residence that may not have equivalent laws and rules regarding personally identifiable information. In these cases, you will be 
+If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection. We may disclose personally identifiable information you provide via this site to other Johnson & Johnson affiliates worldwide that agree to treat it in accordance with this Privacy Policy and use it for the same purposes. We also may disclose personally identifiable information you provide via this site to third parties that are not Johnson & Johnson affiliates, but only: 
+
+(i) to contractors we use to support our business (such as fulfillment services, technical support, delivery services, and financial institutions), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; 
+
+(ii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; or 
+
+(iii) to respond to law enforcement requests or where required by applicable laws, court orders, or government regulations. 
+
+The collection, use, and disclosure of information contemplated in this Privacy Policy may involve a transfer of the information to jurisdictions located outside your country of residence that may not have equivalent laws and rules regarding personally identifiable information. In these cases, you will be asked to consent to such transfers and disclosures in accordance with this Privacy Policy.
 
 **Access, Correction, and Deletion**  
 To keep personally identifiable information that you provide via this site accurate, current, and complete, please contact us as specified below and we will take appropriate steps to update or correct such information in our possession, or to delete your information from our contact list.
