@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimorecountymd.gov privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228105440id_/http%3A//www.baltimorecountymd.gov/UserGuide/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimorecountymd.gov privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604044541id_/http%3A//www.baltimorecountymd.gov/UserGuide/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Notice
 
