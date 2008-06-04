@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodbarry.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223045137id_/http%3A//goodbarry.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodbarry.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604095855id_/http%3A//www.goodbarry.com/privacypolicy) for the most accurate reproduction.*
 
 # GoodBarry - Privacy Policy
 
@@ -38,9 +38,7 @@ Please also see our Terms of Use, which describes the restrictions, disclaimers,
 
   9. ## General
 
-If you have questions regarding our Privacy Statement, please contact GoodBarry via our [Contact Us page](https://web.archive.org/contactus).
+If you have questions regarding our Privacy Statement, please contact GoodBarry via our [Contact Us page](https://web.archive.org/contact).
 
 
 
-
-Back to top
