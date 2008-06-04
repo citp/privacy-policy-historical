@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jonasbrothersfan.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211105851id_/http%3A//www.jonasbrothersfan.com/Home/tabid/241/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonasbrothersfan.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604094921id_/http%3A//jonasbrothersfan.com/Home/tabid/241/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Jonas Brothers Fan - The #1 Jonas Brothers Fansite
+# Jonas Brothers Fan - The #1 Jonas Brothers & Camp Rock Fansite
 
 Jonas Brothers Fan is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Jonas Brothers Fan Web site and governs data collection and usage. By using the Jonas Brothers Fan website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ Jonas Brothers Fan will occasionally update this Statement of Privacy to reflect
 
 Contact Information
 
-Jonas Brothers Fan welcomes your comments regarding this Statement of Privacy. If you believe that Jonas Brothers Fan has not adhered to this Statement, please contact Jonas Brothers Fan at [jonasbrothersfan@santry.com](mailto:jonasbrothersfan@santry.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Jonas Brothers Fan welcomes your comments regarding this Statement of Privacy. If you believe that Jonas Brothers Fan has not adhered to this Statement, please contact Jonas Brothers Fan at [info@jonasbrothersfan.com](mailto:info@jonasbrothersfan.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
