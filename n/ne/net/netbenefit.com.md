@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netbenefit.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212041313id_/http%3A//www.netbenefit.com/netbenefit/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netbenefit.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604132045id_/http%3A//www.netbenefit.com/netbenefit/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | NetBenefit
 
@@ -21,10 +21,10 @@ d) to whom we disclose it;
 e) how you can access and rectify it. 
   2. We agree not to process your Personal Data other than in accordance with this policy. 
   3. The following words have particular meanings in this policy:  
-"ICANN"| Internet Corporation for Assigned Names and Numbers  
+"ICANN" | Internet Corporation for Assigned Names and Numbers  
 ---|---  
-"Naming Authorities"| (1) ICANN or any equivalent body; and (2) the registries responsible for particular types of domain names  
-"Regulation"| all applicable laws, statutes, regulations, standards or codes of conduct, whether or not compulsory  
+"Naming Authorities" | (1) ICANN or any equivalent body; and (2) the registries responsible for particular types of domain names  
+"Regulation" | all applicable laws, statutes, regulations, standards or codes of conduct, whether or not compulsory  
   4. We may vary this policy as explained in our terms and conditions 
   5. If you have any queries concerning this policy, please write to us at the above address. 
 
