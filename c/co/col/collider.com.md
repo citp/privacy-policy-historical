@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collider.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211150638id_/http%3A//www.collider.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collider.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605012507id_/http%3A//www.collider.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Collider.com - Movie, DVD, Music, Video Game, News, Reviews, Interviews
 
