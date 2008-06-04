@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zsl.org privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213144150id_/http%3A//www.zsl.org/info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zsl.org privacy policy that was archived on 2008-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080604100717id_/http%3A//www.zsl.org/info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head> 
 <title>Privacy Policy - Info -  ZSL</title>
@@ -8,7 +8,7 @@
 <link rel="shortcut icon" href="http://static.zsl.org/static/site/graphics/favicon.ico" type="image/x-icon">
 
 				
-        	    	<meta name="description" content="ZSL - Zoological Society of London">
+        	    	<meta name="description" content="The Zoological Society of London (ZSL) is a charity devoted to the worldwide conservation of animals and their habitats.">
 <meta name="keywords" content="ZSL, Zoological Society of London, london, london zoo, zoo, whipsnade, donate, donations, animals, conservation, donate online, zsl, animal, gorilla, lemur, gorilla, kingdom, animal adoption, adoptions, adopt, shop, gifts, tickets, ticket, buy, prebook, ">
     
 <link rel="alternate" title="RSS Feed of News Stories" href="/news.xml" type="application/rss+xml">
@@ -18,7 +18,7 @@
 <link rel="stylesheet" href="/css/print,ns-0-0-unk.css" type="text/css" media="print">
 
 
-<script type="text/javascript" src="http://static.zsl.org/static/site/javascript/prototype-1-5-0-rc2b.js"></script>
+<script type="text/javascript" src="http://static.zsl.org/static/site/javascript/prototype-1-5-1-1.js"></script>
 <script type="text/javascript" src="/javascript/webkit,ns-0-0-unk.js" defer="defer"></script>
 <script type="text/javascript" src="/javascript/site,ns-0-0-unk.js" defer="defer"></script>
 
@@ -47,7 +47,7 @@ urchinTracker("/info/privacy.html");
 <!-- Start page content -->
 <div class="main">
 
-<div class="col760"><div class="header" style="background:url(http://static.zsl.org/images/originals/zebra-2962.gif) 0px 26px repeat-x;">
+<div class="col760"><div class="header" style="background:url(http://static.zsl.org/images/originals/tiger2-3692.jpg) 0px 26px repeat-x;">
 
 		
 <div class="core-navigation">
@@ -151,11 +151,32 @@ urchinTracker("/info/privacy.html");
 <div class="left-panel"><div class="search">
 <form action="/search.html">
 <p>
-<label class="label" for="q">Search ZSL</label>
+<label id="searchLabel" class="label" for="q">Search ZSL</label>
 <input id="q" name="q" class="text" type="text" value="">
 <input class="submit" type="submit" value="Go" onmouseover="this.className='submit-hover'" onfocus="this.className='submit-hover'" onmouseout="this.className='submit'" onblur="this.className='submit'">
 </p>
 </form>
+
+
+<script type="text/javascript">
+function searchFocus(event) {
+    if($('q').value == 'Search ZSL') {
+    	$('q').value = '';
+    }
+}
+
+function searchBlur(event) {
+    if($('q').value == '') {
+    	$('q').value = 'Search ZSL';
+    }
+}
+
+$('searchLabel').style.display = 'none';
+$('q').value = 'Search ZSL';
+$('q').observe('focus', searchFocus);
+$('q').observe('blur', searchBlur);
+</script>
+
 <span class="clear"></span>
 </div></div>
 
@@ -184,10 +205,30 @@ urchinTracker("/info/privacy.html");
 <p>Keep up to date with the latest ZSL news.</p>
 <form action="/newsletter/subscribe.html">
 <p>
-<label class="label" for="email">Your email</label>
+<label id="yourEmailLabel" class="label" for="email">Your email</label>
 <input id="email" name="email" class="text" type="text" value=""><input class="submit" type="submit" value="sign up" onmouseover="this.className='submit-hover'" onfocus="this.className='submit-hover'" onmouseout="this.className='submit'" onblur="this.className='submit'">
 </p>
 </form>
+<script type="text/javascript">
+function emailFocus(event) {
+    if($('email').value == 'Your Email') {
+    	$('email').value = '';
+    }
+}
+
+function emailBlur(event) {
+    if($('email').value == '') {
+    	$('email').value = 'Your Email';
+    }
+}
+
+$('yourEmailLabel').style.display = 'none';
+$('email').value = 'Your Email';
+$('email').observe('focus', emailFocus);
+$('email').observe('blur', emailBlur);
+</script>
+
+
 <span class="clear"></span>
 </div></div>
 
@@ -197,19 +238,19 @@ urchinTracker("/info/privacy.html");
 	
 	<div class="feature">
 	<p>
+	<a href="/info/support-us/partnership-products/zsl-petplan,532,AR.html">	<img src="http://static.zsl.org/images/width392/petinsurance-2551.gif" width="392" height="83" alt="Pet insurance"></a>
+	</p>
+	</div>
+		<span class="clear"></span>
+		<div class="feature">
+	<p>
+	<a href="http://www.zsl.org/printstore/">	<img src="http://static.zsl.org/images/width392/historic-images8-3186.gif" width="392" height="83" alt="Historic Images"></a>
+	</p>
+	</div>
+		<span class="clear"></span>
+		<div class="feature">
+	<p>
 	<a href="https://www.zsl.org/shop/keeper-for-a-day/keeper-for-a-day/product.html">	<img src="http://static.zsl.org/images/width392/keeperforday-2549.gif" width="392" height="83" alt="Keeper for day"></a>
-	</p>
-	</div>
-		<span class="clear"></span>
-		<div class="feature">
-	<p>
-	<a href="/info/support-us/christmas-gifts/">	<img src="http://static.zsl.org/images/width392/christmas-3273.gif" width="392" height="83" alt="Christmas Gifts"></a>
-	</p>
-	</div>
-		<span class="clear"></span>
-		<div class="feature">
-	<p>
-	<a href="/info/support-us/adopt-an-animal,174,AR.html">	<img src="http://static.zsl.org/images/width392/adoptananimal-2547.gif" width="392" height="83" alt="Adopt an animal"></a>
 	</p>
 	</div>
 	</div>
@@ -226,7 +267,7 @@ urchinTracker("/info/privacy.html");
 
 <p>
 <span class="site-links">
-<strong>© Copyright ZSL 2007</strong> · 
+<strong>© Copyright ZSL 2008</strong> · 
 <a href="/info/legal/content/general-terms,208,AR.html">General terms</a>  · 
 <a href="/info/legal/content/terms-and-conditions,194,AR.html">Shopping terms</a>  · 
 <a href="/info/privacy.html">Privacy</a> · 
@@ -259,7 +300,13 @@ urchinTracker("/info/privacy.html");
 <span class="clear"></span>
 
 </div>
-</div>
+</div><!--Start Crazy Egg-->
+<script type="text/javascript" src="https://cetrk.com/pages/scripts/0007/9617.js"> </script>
+<!--End Crazy Egg-->
 
-
+<script>$$('a.image-link').each(function(link) {
+link.observe('click', function() {
+window.location.href = link.href;
+});
+});</script>
 </body></html>
