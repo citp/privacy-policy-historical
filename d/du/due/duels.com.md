@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duels.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217044202id_/http%3A//www.duels.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duels.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604023754id_/http%3A//www.duels.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Duels
 
@@ -10,9 +10,9 @@ Register
 
 Duels is a Player vs. Player (PVP) Strategy Game:
 
-  * Advance your duelist by battling others in the arena.
+  * Create a unique avatar.
+  * Advance your duelist by battling others.
   * Collect and trade thousands of items.
-  * Customize your avatar's appearance and attributes.
   * **FREE** to play!
   * No download required.
 
