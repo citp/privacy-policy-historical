@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the facinghistory.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216134701id_/http%3A//www.facinghistory.org/campus/reslib.nsf/sub/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facinghistory.org privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604020202id_/http%3A//www.facinghistory.org/legal/privacy) for the most accurate reproduction.*
 
-# Facing History and Ourselves - Privacy Policy
+# Privacy Policy | Facing History and Ourselves
 
-[Home](https://web.archive.org/campus/reslib.nsf/) / [Help](https://web.archive.org/campus/reslib.nsf/pages/help) / Privacy Policy
-
-Privacy Policy
-
-  
 _Facing History and Ourselves National Foundation, Inc will herein be known as Facing History, which includes all of its domains._
 
 Facing History is committed to protecting your privacy. Please read the Facing History Privacy Statement below for details about particular Facing History sites and services that you may use. 
@@ -41,7 +36,7 @@ Personal information collected on this site may be stored and processed in the U
 
 If you choose to send us an e-mail message, we may retain the content of the e-mail, your e-mail address, and our response in order to service your needs. 
 
-You may be placed on our mailing list when you contact us. To remove your name from our mailing list, please send an email to [info@facing.org](mailto:info@facing.org). If you opt out of broadcast emails, Facing History reserves the right to contact you in other ways. 
+You may be placed on our mailing list when you contact us. To remove your name from our mailing list, please send an email to [info@facing.org](https://mail.google.com/mail?view=cm&tf=0&ui=1&to=info@facing.org). If you opt out of broadcast emails, Facing History reserves the right to contact you in other ways. 
 
 **Control of your Personal Information**
 
@@ -55,7 +50,7 @@ Facing History is committed to protecting the security of your personal informat
 
 Facing History is not responsible for the information practices employed by sites linked to or from our web site. In most cases, links to non-Facing History web sites are provided solely as pointers to information on topics that may be useful to the users of Facing History. Since third party web sites may have different privacy policies and/or security standards governing their sites, we advise you to review the privacy policies and terms and conditions of these sites prior to providing any personal information.
 
- **Children's Online Privacy**
+**Children's Online Privacy**
 
 Protecting children on the Internet is very important to us. For that reason, Facing History does not intentionally collect information on our web sites from those we actually know are under 13. Parents can be proactive and limit web site access to their children by installing filtering software. 
 
@@ -75,3 +70,5 @@ Facing History's Privacy Policy
 Brookline, MA 02445  
 617-232-1595  
 800-856-9039 
+
+Email: [info@facing.org](https://mail.google.com/mail?view=cm&tf=0&ui=1&to=info@facing.org). 
