@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oss-usa.net privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221153851id_/http%3A//oss-usa.net/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oss-usa.net privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604203837id_/http%3A//oss-usa.net/information.php%3Finfo_id%3D3%26osCsid%3D6c2c29e11f4ebf678bba2b6eef7e6a6f) for the most accurate reproduction.*
 
 # Online Software Solutions LLC
 
