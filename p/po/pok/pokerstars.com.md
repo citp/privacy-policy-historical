@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerstars.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229114817id_/http%3A//www.pokerstars.com/poker/room/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerstars.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604050158id_/http%3A//www.pokerstars.com/poker/room/privacy) for the most accurate reproduction.*
 
 # Poker Stars - Online Poker Software Privacy Policy
 
@@ -56,11 +56,11 @@ By opening an Account with PokerStars, you agree to the terms of this PRIVACY PO
 9\. Who are we?
 
 Rational Entertainment Enterprises Limited  
-10 Hill Street  
-Douglas IM1 1EF   
-Isle of Man  
+49 Victoria Street  
+Douglas  
+Isle of Man, IM1 2LD  
 
 
-Privacy Policy last revised: 29th August, 2007
+Privacy Policy last revised: 02 June, 2008
 
 [Back to top](http://www.pokerstars.com/poker/room/privacy/#)
