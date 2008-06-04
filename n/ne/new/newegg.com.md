@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219043624id_/http%3A//www.newegg.com/Info/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604135242id_/http%3A//www.newegg.com/Info/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # Newegg.com - Computer Parts, PC Components, Laptop Computers, Digital Cameras and more!
 
@@ -71,7 +71,7 @@ In addition, we may frame or mask another web site so that the look, feel and in
 
 As our business continues to evolve, we may acquire or sell business units or subsidiaries. Customer information is one of the business assets that would be transferred in these types of transactions. In such a situation, your personally identifiable information would only be used in a manner consistent with our pre-existing Privacy Notice. 
 
-We reserve the right to disclose your personally identifiable information i) as required by law, ii) when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site, iii) when we believe that your actions violate applicable laws, iv) when we believe that your actions violate Newegg.com's terms and conditions that you agree to by using, accessing or purchasing from or through [ www.newegg.com](http://www.newegg.com/) (or its affiliated websites), v) when we believe that your actions violate any usage guidelines for specific products or services, vi) when we believe that your actions violate or threaten the rights, property, or safety of our company, our users, or others, or (vii) when you consent to allow your personally identifiable information to be shared or disclosed. 
+Certain manufacturers of products and providers of services sold through Newegg.com may require or request for us to provide to them with your personal information, including for instance, (a) your name and contact information, (b) information about the particular products or services of theirs which you purchased, (c) as well as the prices paid for the purchase of those products or services, for purposes including (i) validating or recording a warranty that applies to your purchase, (ii) providing a discount or credit to you or to Newegg.com, (iii) to provide you with additional information, or (iv) to better understand customer needs and desires. While we endeavor to limit such manufacturers' and providers' use of the information, such limits vary and so you should not assume that any particular limitation exists. If you have a concern about a particular manufacturer or provider receiving such information, please review the items you are considering purchasing and remove them from your order. If you do not wish to have your information shared with such manufacturers or providers, please contact [webmaster@newegg.com](mailto:webmaster@newegg.com). 
 
 Be aware that when you volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms, photo sharing or other forms of public communication and interaction, you are also agreeing to allow certain aspects of your personally identifiable information to be made public. This includes your screen name, any address or personal information or images that you add to your signature or otherwise post to the public, and any content of any such post. 
 
@@ -124,10 +124,10 @@ If we decide to change our Privacy Policy, we will post those changes to this pr
 If you have opted out of receiving communications from Newegg.com, you will still be able to view news of policy changes at [www.newegg.com](http://www.newegg.com/). Otherwise, you may e-mail us at [webmaster@newegg.com](mailto:webmaster@newegg.com) or call us toll free at (800) 390-1119 to ask our customer service department about changes and updates. 
 
 **Last Update**  
-The Privacy Policy contained herein became officially effective 06-12-07. 
+The Privacy Policy contained herein became officially effective 01-16-08.
 
-Newegg.com  
-9997 E. Rose Hills Road,  
-Whittier, CA. 90601 
+Newegg Inc.  
+16839 E. Gale Avenue  
+City of Industry, CA 91745 
 
-(V5.01: 06-12-07)
+(V5.02: 01-16-08)
