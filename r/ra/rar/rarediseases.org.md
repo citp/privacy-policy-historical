@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rarediseases.org privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206155436id_/http%3A//www.rarediseases.org/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rarediseases.org privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604223918id_/http%3A//www.rarediseases.org/info/privacy) for the most accurate reproduction.*
 
 # NORD - National Organization for Rare Disorders, Inc.
 
@@ -28,8 +28,8 @@ We care about the safety and security of your transaction. We use SSL (Secure So
 Our site uses an order form for customers to request information, products, and services. We collect contact information (like e-mail address), and financial information (like account or credit card numbers). Contact information from the order forms is used to ship purchases, and may be used to send information about our organization. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings by sending an e-mail to [orphan@rarediseases.org](mailto:orphan@rarediseases.org) or sending a letter to the following postal address: 
 
 _National Organization for Rare Disorders  
-PO Box 8923  
-New Fairfield, CT 06812-8923_
+PO Box 1968  
+Danbury, CT 06813-1968_
 
 **News Blasts**  
 NORD offers a periodic e-mail service to those who are interested in hearing about the latest news in the rare disease community. These "News Blasts" are strictly opt-in. You will not receive them unless you have voluntary subscribed to the service. If you ever wish to modify your address or unsubscribe, please send an e-mail to [nord@rarediseases.org](mailto:nord@rarediseases.org). 
