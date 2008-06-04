@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prizerebel.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222020325id_/http%3A//www.prizerebel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizerebel.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604122844id_/http%3A//www.prizerebel.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -16,10 +16,10 @@ With respect to cookies: We use cookies to record session information.
 
 If you do not want to receive e-mail from us in the future, please let us know.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click information. 
 
 From time to time, we may use user information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
 
-We reserve the right to send you offers via your given e-mail address. We do not share e-mail adresseses with untrusted parties.
+We do not share your e-mail address or any other personal information with third parties.
