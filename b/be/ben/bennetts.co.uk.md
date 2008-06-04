@@ -1,29 +1,6 @@
-> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221195859id_/http%3A//www.bennetts.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604112935id_/http%3A//www.bennetts.co.uk/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Cheap Motorcycle Insurance & Motorbike Insurance with UK Bike Insurers
-
-## Privacy Policy
-
-  1. Who is the Data Controller?
-  2. Your Rights
-  3. How will we use your data?
-  4. Claims & Underwriting Exchange Register
-  5. Motor Insurance Database
-  6. Insurance Administration, Renewal and Claims Handling
-  7. Marketing and Market Research
-  8. Send to a Friend Option
-  9. Credit Searches
-  10. Sensitive Personal Data
-  11. Use of Cookies
-  12. How can I stop cookies and what effect will this have?
-  13. How secure is the information I give to you?
-  14. Who will process my credit/debit card information?
-  15. UK Residents Only
-  16. Responsibility for Content
-  17. Third Party Websites
-  18. Use of the Website
-  19. Termination
-  20. Law
 
   
 
