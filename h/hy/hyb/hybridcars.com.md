@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the hybridcars.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029161314id_/http%3A//www.hybridcars.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybridcars.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604152257id_/http%3A//www.hybridcars.com/privacy-policy.html) for the most accurate reproduction.*
 
-# HybridCars.com - Privacy Policy
+# Privacy Policy | Hybrid Cars
+
+Published March 2, 2006
 
 Our privacy policy is in plain English and will only take a few moments to read and understand.
 
 ### How You Can Contact Us
 
-We can be reached via e-mail using our [Feedback Form](http://www.hybridcars.com/feedback.html), or by sending mail directly to [info@hybridcars.com](mailto:info@hybridcars.com).
+We can be reached via e-mail using our [Feedback Form](https://web.archive.org/contact/), or by sending mail directly to [info@hybridcars.com](mailto:info@hybridcars.com).
 
 ### Site Tracking
 
@@ -21,7 +23,7 @@ We have a simple web statistics program running that tracks how many times each 
 
 We log your email address in three situations:
 
-Hybrid Cars Newsletter – We keep track of email addresses when people sign up for our newsletter. The email address you enter for the newsletter will never be sold or transferred to any other organization. You have the ability to unsubscribe from the newsletter at any time. The form for subscribing and unsubscribing to the newsletter are available [on this site](http://www.hybridcars.com/newsletter.html) and are included in every email that is sent out.
+Hybrid Cars Newsletter – We keep track of email addresses when people sign up for our newsletter. The email address you enter for the newsletter will never be sold or transferred to any other organization. You have the ability to unsubscribe from the newsletter at any time. The form for subscribing and unsubscribing to the newsletter are available [on this site](https://web.archive.org/web/20080604152257id_/http%3A//www.hybridcars.com/newsletter.html) and are included in every email that is sent out.
 
 Email Page to a Friend - We log each time someone uses this feature to track how many times it is used, by whom, and from what page. We do this to make sure that someone doesn't abuse the feature by sending multiple emails from the site to the same person. The information is discarded monthly and will never be sold or transferred to any other organization.
 
