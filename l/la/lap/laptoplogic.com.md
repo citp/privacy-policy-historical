@@ -1,23 +1,26 @@
-> *The following text is extracted and transformed from the laptoplogic.com privacy policy that was archived on 2005-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051018141505id_/http%3A//www.laptoplogic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptoplogic.com privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604042649id_/http%3A//www.laptoplogic.com/about/privacy) for the most accurate reproduction.*
 
-# Laptop Logic Notebook Laptop Reviews and News
-
-**Privacy Policy**  
-
+# Privacy Policy - LaptopLogic.com
 
 _Last Updated on January 18, 2005_
 
-At LaptopLogic.com, we are committed in protecting your privacy. The following privacy statement discloses the types of information we gather and how we use it. 
+At Laptop Logic™ LLC, LaptopLogic.com, we are committed in protecting your privacy. The following privacy statement discloses the types of information we gather and how we use it. 
 
 **Collecting your Information**  
 Our intention in collecting personal information is to provide you with more interesting and more specialized content and services. We collect personally identifiable information only when you provide it to us, such as when you elect to register in our forum, when you participate in a survey or contest or when you submit comments or a user review. The personally identifiable information is limited to: 
 
   * First and last name 
+
   * Home or business address 
+
   * E-mail address 
+
   * Telephone number 
+
   * Age 
+
   * Gender 
+
 
 
 
@@ -30,21 +33,23 @@ To ensure we are publishing content readers’ need and want, we may elect to co
 
 If you have questions regarding this statement, you should contact [info@laptoplogic.com](mailto:info@laptoplogic.com)
 
-**Use of IP address  
+ **Use of IP address  
 ** IP addresses are only recorded to help administer our web site and to determine which content is most preferred by our readers. IP addresses are not matched with any personally identifiable information unless you have specifically given us personally identifiable information. 
 
 **Use of your information**   
 We use your personal information for the following primary purposes: 
 
   * To help us create content most relevant to you. 
+
   * To help us determine if any modifications need to be made to our website or content. 
+
 
 
 
 **Online Advertising**  
 Certain companies assist us deliver interactive on-line advertising such as banner ads. These companies may collect and use information about our readers to help us better understand the type of advertising that are most relevant and appealing to you. The information is aggregated so it is not identifiable to a specific individual.
 
-**Links to non LaptopLogic Websites**  
+ **Links to non LaptopLogic Websites**  
 LaptopLogic.com may contain links to other Web sites. LaptopLogic.com is not responsible for the privacy practices or the content of those other Web sites. 
 
 **Security of your Personal Information**   
