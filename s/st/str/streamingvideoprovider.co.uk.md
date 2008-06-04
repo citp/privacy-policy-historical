@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamingvideoprovider.co.uk privacy policy that was archived on 2007-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070729052629id_/http%3A//www.streamingvideoprovider.co.uk/index.php%3Fa%3Darticle%26it%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingvideoprovider.co.uk privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604075801id_/http%3A//www.streamingvideoprovider.co.uk/index.php%3Fa%3Darticle%26it%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
