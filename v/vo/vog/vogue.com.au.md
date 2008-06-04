@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vogue.com.au privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214134839id_/http%3A//www.vogue.com.au/general/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vogue.com.au privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605014616id_/http%3A//www.vogue.com.au/general/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy / General / Vogue Australia
 
