@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rarediseases.org privacy policy that was archived on 2007-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071206155436id_/http%3A//www.rarediseases.org/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rarediseases.org privacy policy that was archived on 2008-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080604223918id_/http%3A//www.rarediseases.org/info/privacy) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript" type="text/javascript">
 <!--
@@ -27,13 +27,23 @@ function ckfld(frm) {
 
 fld = frm['allfields'];
 
-if (fld.value.length == 0 || (emptyfld(fld.value) == true)) {
+if ((fld.value.length == 0) || (emptyfld(fld.value) == true)) {
     alert('Search field is empty or has an invalid value!\nPlease enter a valid search term.');
     return false;
     }
 return true;
 }
 
+function validate_form(fm,fmv) {
+    if (fmv == 'icord') {
+	if ((fm['icord_registration_number'].value.length == 0) || (emptyfld(fm['icord_registration_number'].value) == true)) {
+    	    alert('ICORD registration number field is empty or has an invalid value!\nPlease enter a valid ICORD registration number.');
+    	    return false;
+    	}
+    }
+
+return true;
+}
 //-->
 </script>
 <title>NORD - National Organization for Rare Disorders, Inc. </title>
@@ -46,7 +56,7 @@ return true;
 <meta http-equiv="Pragma" content="no-cache">
 <link rel="stylesheet" href="nord_ccs_doc.css">
 
-<script language="JavaScript" src="images/fw_menu.js"></script>
+<script language="JavaScript" src="images/fw_menu.js" type="text/javascript"></script>
 <script language="JavaScript">
 <!--
 function MM_swapImage() { //v3.0
@@ -207,12 +217,12 @@ function MM_findObj(n, d) { //v4.0
 		<tbody><tr> 
 		  <td><a href="/"><img name="interface_idea_r2_c1" src="images/nord_logo.gif" width="176" height="71" border="0" alt="The National Organization for Rare Disorders (NORD)"></a></td>
 		  <td valign="top"> 
-	         <p><img src="images/out_of_the_darkness.gif" width="361" height="71"></p>
+	         <p><img src="images/out_of_the_darkness.gif" width="361" height="71" alt=""></p>
 		  </td>
 		  <td valign="bottom">
-<a href="/login_form" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('interface_idea_r5_c8','','images/interface_idea_r5_c8_f2.gif',1);"><img src="images/interface_idea_r5_c8.gif" border="0"></a><br>
+<a href="/login_form" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('interface_idea_r5_c8','','images/interface_idea_r5_c8_f2.gif',1);"><img src="images/interface_idea_r5_c8.gif" border="0" alt=""></a><br>
 
-<img name="interface_idea_r7_c8" src="images/interface_idea_r7_c8.gif" width="113" height="11" border="0">
+<img name="interface_idea_r7_c8" src="images/interface_idea_r7_c8.gif" width="113" height="11" border="0" alt="">
 </td>
 		</tr>
 	  </tbody></table>
@@ -222,7 +232,7 @@ function MM_findObj(n, d) { //v4.0
 
 <table width="700" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
-	<td><img name="interface_idea_r8_c1" src="images/nord_logo_bottom_shad.gif" width="176" height="29" border="0"><a href="#" onmouseout="MM_swapImgRestore();FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_0,176,91);MM_swapImage('rollover_slices_r8_c2','','images/rollover_slices_r8_c2_f2.gif',1);"><img name="rollover_slices_r8_c2" src="images/rollover_slices_r8_c2.gif" border="0"></a><a href="#" onmouseout="MM_swapImgRestore();FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_1,326,91);MM_swapImage('rollover_slices_r8_c4','','images/rollover_slices_r8_c4_f2.gif',1);"><img name="rollover_slices_r8_c3" src="images/rollover_slices_r8_c3.gif" width="1" height="29" border="0"><img name="rollover_slices_r8_c4" src="images/rollover_slices_r8_c4.gif" border="0"></a><img name="interface_idea_r8_c3" src="images/interface_idea_r8_c3.gif" width="1" height="29" border="0"><a href="#" onmouseout="MM_swapImgRestore();FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_2,442,91);MM_swapImage('rollover_slices_r8_c6','','images/rollover_slices_r8_c6_f2.gif',1);"><img name="rollover_slices_r8_c6" src="images/rollover_slices_r8_c6.gif" border="0"><img name="rollover_slices_r8_c9" src="images/rollover_slices_r8_c9.gif" width="1" height="29" border="0"></a><a href="#" onmouseout="MM_swapImgRestore();FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_3,511,91);MM_swapImage('rollover_slices_r8_c10','','images/rollover_slices_r8_c10_f2.gif',1);"><img name="rollover_slices_r8_c10" src="images/rollover_slices_r8_c10.gif" border="0"></a></td>
+	<td><img name="interface_idea_r8_c1" src="images/nord_logo_bottom_shad.gif" width="176" height="29" border="0" alt=""><a href="#" onmouseout="MM_swapImgRestore();FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_0,176,91);MM_swapImage('rollover_slices_r8_c2','','images/rollover_slices_r8_c2_f2.gif',1);"><img name="rollover_slices_r8_c2" src="images/rollover_slices_r8_c2.gif" border="0" alt=""></a><a href="#" onmouseout="MM_swapImgRestore();FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_1,326,91);MM_swapImage('rollover_slices_r8_c4','','images/rollover_slices_r8_c4_f2.gif',1);"><img name="rollover_slices_r8_c3" src="images/rollover_slices_r8_c3.gif" width="1" height="29" border="0" alt=""><img name="rollover_slices_r8_c4" src="images/rollover_slices_r8_c4.gif" border="0" alt=""></a><img name="interface_idea_r8_c3" src="images/interface_idea_r8_c3.gif" width="1" height="29" border="0" alt=""><a href="#" onmouseout="MM_swapImgRestore();FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_2,442,91);MM_swapImage('rollover_slices_r8_c6','','images/rollover_slices_r8_c6_f2.gif',1);"><img name="rollover_slices_r8_c6" src="images/rollover_slices_r8_c6.gif" border="0" alt=""><img name="rollover_slices_r8_c9" src="images/rollover_slices_r8_c9.gif" width="1" height="29" border="0" alt=""></a><a href="#" onmouseout="MM_swapImgRestore();FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_3,511,91);MM_swapImage('rollover_slices_r8_c10','','images/rollover_slices_r8_c10_f2.gif',1);"><img name="rollover_slices_r8_c10" src="images/rollover_slices_r8_c10.gif" border="0" alt=""></a></td>
   </tr>
 </tbody></table>
 <!--id is: info-->
@@ -238,34 +248,24 @@ function MM_findObj(n, d) { //v4.0
     <tbody><tr> 
      <td width="176" bgcolor="#669999" valign="top"> 
       <table width="174" border="0" cellspacing="8" cellpadding="8">
-		<tbody><tr> 
-		  <td valign="top" class="greenbar_left_bodyCopy"> 
-			<p><span class="greenbar_left_editorial_headlineCopy"><font color="#FFCC99">•</font> 
-			  <a href="/programs/subscriptions" class="greenbar_left_editorial_headlineCopy">Database Subscriptions</a></span><br>
-			  <span class="greenbar_left_editorial_gotoCopy">Many libraries, schools, universities, and hospitals subscribe to NORD's Rare Disease Database for unlimited access to reports on more than 1,150 diseases.</span></p>
+  <tbody><tr> 
+    <td valign="top"> 
+      <p class="greenbar_left_editorial_headlineCopy"><font color="#FFCC99">•</font> <a href="/programs/subscriptions" class="greenbar_left_editorial_headlineCopy">Database Subscriptions</a></p>
+      <p class="greenbar_left_editorial_gotoCopy">Many libraries, schools, universities, and hospitals subscribe to NORD’s Rare Disease Database for unlimited access to reports on more than 1,150 diseases.</p>
+      <p class="greenbar_left_editorial_headlineCopy"><font color="#FFCC99">•</font> <a href="/search/rdblist.html" class="greenbar_left_editorial_headlineCopy">Index of Rare Diseases</a></p>
+      <p class="greenbar_left_editorial_gotoCopy">This is the list of diseases currently covered in the Rare Disease Database.</p>
+      <p class="greenbar_left_editorial_headlineCopy"><font color="#FFCC99">•</font> <a href="/search/rdbsearch.html" class="greenbar_left_editorial_headlineCopy">Rare Disease Database</a></p>
+      <p class="greenbar_left_editorial_gotoCopy">Search this database for reports on more than 1,150 diseases.</p>
 
+<p><a href="http://www.rarediseases.org/search/rdbdetail_abstract.html?disname=Hyperemesis%20Gravidarum%20" class="greenbar_left_editorial_headlineCopy">View sample report</a></p>
 
-<p><span class="greenbar_left_editorial_headlineCopy"><font color="#FFCC99">•</font> </span><a href="/search/rdblist.html" class="greenbar_left_editorial_headlineCopy">Index of Rare Diseases</a><br>
-			  This is the list of diseases currently covered in the Rare Disease Database.<br>
-			</p>
-			<p> <span class="greenbar_left_editorial_headlineCopy"><font color="#FFCC99">•</font> 
-			  <a href="/search/rdbsearch.html" class="greenbar_left_editorial_headlineCopy">Rare Disease Database</a></span><br>
-			  Search this database for reports on more than 1,150 diseases.<br><br>
-
-<a href="http://www.rarediseases.org/search/rdbdetail_abstract.html?disname=Hyperemesis%20Gravidarum%20" class="greenbar_left_editorial_headlineCopy">View sample report</a></p><a href="http://www.rarediseases.org/search/rdbdetail_abstract.html?disname=Hyperemesis%20Gravidarum%20" class="greenbar_left_editorial_headlineCopy">
-
-                        </a><p><a href="http://www.rarediseases.org/search/rdbdetail_abstract.html?disname=Hyperemesis%20Gravidarum%20" class="greenbar_left_editorial_headlineCopy"><span class="greenbar_left_editorial_headlineCopy"><font color="#FFCC99">•</font>
-</span></a><a href="/search/orglist.html" class="greenbar_left_editorial_headlineCopy">Index of Organizations</a><br>
-			  <span class="greenbar_left_editorial_gotoCopy">This is the list of organizations in NORD's Organizational Database.</span></p> 
-
-
-                        <p><span class="greenbar_left_editorial_headlineCopy"><font color="#FFCC99">•</font> 
-<a href="/search/orgsearch.html" class="greenbar_left_editorial_headlineCopy">Organizational Database </a></span><br>
-			  <span class="greenbar_left_editorial_gotoCopy">Read about more than 2,000 patient organizations and other sources of help.</span></p>
-                          
-                      </td>
-		</tr>
-	  </tbody></table>
+      <p class="greenbar_left_editorial_headlineCopy"><font color="#FFCC99">•</font> <a href="/search/orglist.html" class="greenbar_left_editorial_headlineCopy">Index of Organizations</a></p>
+      <p class="greenbar_left_editorial_gotoCopy">This is the list of organizations in NORD’s Organizational Database.</p>
+      <p class="greenbar_left_editorial_headlineCopy"><font color="#FFCC99">•</font> <a href="/search/orgsearch.html" class="greenbar_left_editorial_headlineCopy">Organizational Database</a></p>
+      <p class="greenbar_left_editorial_gotoCopy">Read about more than 2,000 patient organizations and other sources of help.</p>
+    </td>
+  </tr>
+</tbody></table>
 
        <table width="174" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr> 
@@ -330,8 +330,8 @@ We care about the safety and security of your transaction. We use SSL (Secure So
 Our site uses an order form for customers to request information, products, and services. We collect contact information (like e-mail address), and financial information (like account or credit card numbers). Contact information from the order forms is used to ship purchases, and may be used to send information about our organization. The customer's contact information is also used to get in touch with the visitor when necessary.   Users may opt-out of receiving future mailings by sending an e-mail to <a href="mailto:orphan@rarediseases.org">orphan@rarediseases.org</a> or sending a letter to the following postal address:
 
 </p><p><i>National Organization for Rare Disorders<br>
-PO Box 8923<br>
-New Fairfield, CT 06812-8923</i>
+PO Box 1968<br>
+Danbury, CT 06813-1968</i>
 
 </p><p><b>News Blasts</b><br>
 NORD offers a periodic e-mail service to those who are interested in hearing about the latest news in the rare disease community.  These "News Blasts" are strictly opt-in.  You will not receive them unless you have voluntary subscribed to the service.  If you ever wish to modify your address or unsubscribe, please send an e-mail to <a href="mailto:nord@rarediseases.org">nord@rarediseases.org</a>.
@@ -383,19 +383,19 @@ if (is_email == 1) {
 }
 //-->
 </script>
-<table width="178" border="0" cellspacing="0" cellpadding="0" bgcolor="#9999CC">
+<table width="178" border="0" cellspacing="0" cellpadding="8" bgcolor="#9999CC">
   <tbody><tr>
     <td>
 	<form name="signup" action="/email_response" method="post" onsubmit="javascript: return check_email(this);">
-	<center><input type="text" name="email" size="20">
-        <span class="greenbar_left_editorial_headlineCopy"> Enter your e-mail address if you would like to receive "News Blasts" from NORD</span></center> 
-	<center><input type="submit" name="submit" value=" Subscribe " class="main_editorial_bodyCopy"></center>
+	<center><input type="text" name="email" size="20" class="main_editorial_bodyCopy">
+        <p class="greenbar_left_editorial_headlineCopy">Enter your e-mail address if you would like to receive "News Blasts" from NORD</p>
+	<input type="submit" name="submit" value=" Subscribe " class="main_editorial_bodyCopy"></center>
 	</form>	
     </td>
   </tr>
 </tbody></table>
 
-<table width="178" border="0" cellspacing="0" cellpadding="0">
+<table width="178" border="0" cellspacing="0" cellpadding="8">
   <tbody><tr> 
     <td bgcolor="#669999">
       <center><span class="greenbar_left_editorial_headlineCopy">
@@ -406,13 +406,16 @@ if (is_email == 1) {
     </tr>
 </tbody></table>
 
-      <br><a href="/helping/tributegarden/tributegarden_intro"><img src="images/tribgar_intro_image.gif" width="156" height="62" border="0"></a>
-
-<br><span class="section_editorial_body"><font color="#669999"><i>Since 
-1983, working toward the prevention, treatment, and cure of rare 
-"orphan" diseases. </i></font></span><br>
-<span class="main_editorial_bodyCopy"></span><p></p>
-			
+      <table width="178" border="0" cellspacing="0" cellpadding="8">
+  <tbody><tr>
+    <td class="section_editorial_body">
+<p><a href="/helping/tributegarden/tributegarden_intro"><img src="images/tribgar_intro_image.gif" width="156" height="62" border="0"></a>
+</p><center><i>Since 1983, working toward the prevention, treatment, and cure of rare 
+“orphan” diseases. </i></center>
+<p></p>
+    </td>
+  </tr>
+</tbody></table>
     
  
     </td>
