@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelbeat.net privacy policy that was archived on 2007-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071110020554id_/http%3A//www.travelbeat.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelbeat.net privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605161353id_/http%3A//www.travelbeat.net/privacy.html) for the most accurate reproduction.*
 
-# TravelBeat.net: Privacy Policy
+# TravelBeat.net — Privacy Statement
 
 This Privacy Statement is part of Experience Omnimedia's [Terms of Use Agreement](http://www.travelbeat.net/termsofuse.html "TravelBeat.net Terms of Use Agreement") (the "Agreement") and informs you of our practices with respect to the online collection, use, and disclosure of personal information by this Website. Personal information is information that allows us to contact you (such as email address, home address, or telephone number) or other information that, when linked to your name or contact information, allows us to personalize your visit to the Website by providing you with information that suits your interests.
 
