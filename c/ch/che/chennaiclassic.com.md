@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chennaiclassic.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027061933id_/http%3A//www.chennaiclassic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chennaiclassic.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605162434id_/http%3A//www.chennaiclassic.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
@@ -49,6 +49,6 @@ By visiting our web site and providing us with data, you acknowledge and agree t
 ---|---  
   |  |  Web |  www.chennaiclassic.com  
 ---|---  
-Your most reliable resource for Jobs, Cars, plots, ads, Houses, Flats, Builders, Real Estate, Services...
+Your most reliable resource for Jobs, Cars, plots, ads, Houses, Flats, Builders, Chennai Real Estate, Services...
 
 **Chennai Classic - Free Chennai Classifieds - The Number 1 Chennai Classified Ads Portal**
