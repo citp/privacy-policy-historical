@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226230229id_/http%3A//abs.gov.au/websitedbs/d3310114.nsf/Home/Privacy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605153016id_/http%3A//www.abs.gov.au/websitedbs/d3310114.nsf/Home/Privacy%3FOpenDocument) for the most accurate reproduction.*
 
 # ABS Web Site Privacy Statement
 
-This privacy statement relates to the information collected in your use of the ABS website. It does not cover information collected in surveys conducted under the 
-
-[_Census and Statistics Act 1905_](http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200401302?OpenDocument). For information about privacy of survey data, please see [_Survey Participant Information_](http://www.abs.gov.au/websitedbs/d3310114.nsf/Home/Survey+Participant+Information?OpenDocument). ****
+  
+This privacy statement relates to the information collected in your use of the ABS website. It does not cover information collected in surveys conducted under the [_Census and Statistics Act 1905_](http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200401302?OpenDocument). For information about privacy of survey data, please see [_Survey Participant Information_](http://www.abs.gov.au/websitedbs/d3310114.nsf/Home/Survey+Participant+Information?OpenDocument). ****
 
 **Our commitment**
 
@@ -31,7 +30,7 @@ This information is used by the ABS for this purpose only. We do not collect ide
 
 **Personal information**
 
-When accessing specific ABS services (for example, if you are buying ABS products online), you may be required to provide personal information. This information will only be used for the stated purpose, and will not be disclosed without your consent unless the ABS is required by law to do so, for example, to comply with a search warrant or subpoena.
+When accessing specific ABS services <for example, Remote Access Data Laboratory (RADL)>, you may be required to provide personal information. This information will only be used for the stated purpose, and will not be disclosed without your consent unless the ABS is required by law to do so, for example, to comply with a search warrant or subpoena.
 
 **Email addresses**
 
@@ -39,21 +38,15 @@ We will only use your email address for the purpose for which you provided it. I
 
 **Cookies**
 
-_Single session cookies_
-
-To allow you to buy ABS products online, your web browser will need to accept cookies. The cookies we use for this purpose expire when you close your browser or switch off your computer. If you don't want to accept cookies, you may purchase ABS products off line by contacting our 
-
-[_National Information and Referral Service_](http://www.abs.gov.au/websitedbs/d3310114.nsf/Home/Contact+Us?OpenDocument).
-
 _Persistent cookies_
 
-Some ABS online products and services also require your web browser to accept persistent cookies. If you do not or cannot store cookies, it may be possible to acquire versions of these products and services on CD ROM or other media not connected to the Internet. Please contact the 
+Some ABS on-line products and services also require your web browser to accept persistent cookies. If you do not or cannot store cookies, it may be possible to acquire versions of these products and services on CD ROM or other media not connected to the Internet. Please contact the 
 
-[_National Information and Referral Service_](http://www.abs.gov.au/websitedbs/d3310114.nsf/Home/Contact+Us?OpenDocument) for further information.
+[_Australian Bureau of Statistics_](http://www.abs.gov.au/websitedbs/d3310114.nsf/Home/Contact+Us?OpenDocument) (ABS) for further information.
 
 **Other sites**
 
-This site contains links to external web sites, which are not covered by this privacy statement. We recommend that you review the privacy statement of each site you visit.
+This site contains links to external websites, which are not covered by this privacy statement. We recommend that you review the privacy statement of each site you visit.
 
 **Accreditation**
 
@@ -61,6 +54,6 @@ This site is accredited and maintained to Australian Government Internet securit
 
 **Alternatives to the website**
 
-If you prefer not to submit information via the website, you can send it to the 
+If you prefer not to submit information via the website, please contact the 
 
-[_National Information and Referral Service_](http://www.abs.gov.au/websitedbs/d3310114.nsf/Home/Contact+Us?OpenDocument). If you take this approach, please make it clear which part of the website you are responding to.
+[_ABS_](http://www.abs.gov.au/websitedbs/d3310114.nsf/Home/Contact+Us?OpenDocument), for advice on how to proceed. Please record where you are on the website and provide this information to the consultant who accepts your call.
