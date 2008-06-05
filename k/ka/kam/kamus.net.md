@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kamus.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211080443id_/http%3A//kamus.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamus.net privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605171347id_/http%3A//www.kamus.net/privacy.php) for the most accurate reproduction.*
 
 # Kamus.net
 
