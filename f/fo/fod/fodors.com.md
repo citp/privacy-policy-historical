@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203202041id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605135228id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.*
 
 # Fodors.com Privacy Policy
 
@@ -22,7 +22,7 @@ While your personally identifying information is protected as outlined above, we
 
 Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives.
 
-**OPT-OUT PROCEDURES:** If you are a registered user and you no longer wish to receive communications from Fodors, you may opt-out of such communications only by cancelling your Fodors.com registration. To do so, you must delete your account on your profile page. Log in using your screen name and password. Go to your profile page by clicking on "Profile". Toward the bottom of the page, click on "Click here to delete your screen name/account". A confirmation email will be sent to you. To complete the deletion of your account, you must click on the link in the confirmation email within three days or the change will not be made.
+**OPT-OUT PROCEDURES:** If you are a registered user and you no longer wish to receive communications from Fodor�s, you may opt-out of such communications only by cancelling your Fodors.com registration. To do so, you must delete your account on your profile page. Log in using your screen name and password. Go to your profile page by clicking on "Profile". Toward the bottom of the page, click on "Click here to delete your screen name/account". A confirmation email will be sent to you. To complete the deletion of your account, you must click on the link in the confirmation email within three days or the change will not be made.
 
 If at any time you no longer wish to receive our newsletter, you may opt-out by clicking the unsubscribe link at the bottom of the newsletter.
 
