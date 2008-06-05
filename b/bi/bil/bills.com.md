@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bills.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212070127id_/http%3A//www.bills.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bills.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605172849id_/http%3A//www.bills.com/privacypolicy) for the most accurate reproduction.*
 
 # Bills.com Privacy Policy
 
@@ -60,7 +60,7 @@ You will not receive Bills.com email communications unless you submit your email
 
 **Testimonials**
 
-If you submit a testimonial to us, we will ask for your permission to post your testimonial prior to posting on the Web site. We will post your name as given to us in your testimonial. We may post a photo of you or use a stock photo. Please be aware that any personally identifiable information you submit as a testimonial to be posted can be read, collected, or used by the general public, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit to us as a testimonial. If you would like to your testimonial removed at any time, please contact us at [customercare@bills.com](mailto:customercare@bills.com) or [customercare@theeasyloansite.com](https://web.archive.org/web/20071212070127id_/http://www.bills.com/privacypolicy/customercare@theeasyloansite.com).
+If you submit a testimonial to us, we will ask for your permission to post your testimonial prior to posting on the Web site. We will post your name as given to us in your testimonial. We may post a photo of you or use a stock photo. Please be aware that any personally identifiable information you submit as a testimonial to be posted can be read, collected, or used by the general public, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit to us as a testimonial. If you would like to your testimonial removed at any time, please contact us at [customercare@bills.com](mailto:customercare@bills.com) or [customercare@theeasyloansite.com](mailto:customercare@theeasyloansite.com).
 
 **Log Files**
 
@@ -91,7 +91,7 @@ If you do not want us to share your information with our partners, do not submit
 
 **Third Party Links**
 
-This Privacy Policy applies to all information that you provide to Bills.com. However, when you visit websites to which Bills.com provides a link, keep in mind you will be interacting with a third party that operates under its own terms and conditions and/or privacy policies. If you choose to obtain certain services through a third party site, the data collected by the third party is governed by that third party's terms and conditions and/or privacy policy. On www.bills.com only - A third party site will also have its own policy regarding the use of cookies and clear gifs. For example, when you use our Bill Pay service as described in “Masking”, you will be directed to www.billdelivery.com url (masked as www.bills.com. This header explains that you will be entering your information onto a third party site. We encourage you to review the terms and conditions and privacy policies of third parties from whom you request services and share personally identifiable information...
+This Privacy Policy applies to all information that you provide to Bills.com. However, when you visit websites to which Bills.com provides a link, keep in mind you will be interacting with a third party that operates under its own terms and conditions and/or privacy policies. If you choose to obtain certain services through a third party site, the data collected by the third party is governed by that third party's terms and conditions and/or privacy policy. On www.bills.com only - A third party site will also have its own policy regarding the use of cookies and clear gifs. For example, when you use our Bill Pay service as described in “Masking”, you will be directed to www.billdelivery.com url (masked as www.bills.com). This header explains that you will be entering your information onto a third party site. We encourage you to review the terms and conditions and privacy policies of third parties from whom you request services and share personally identifiable information...
 
 **A Special Note about Children's Privacy**
 
@@ -106,7 +106,7 @@ If you want to access or update the personal information you submitted to Bills.
 If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us:  
 FOR www.bills.com :
 
-[customercare@bills.com](https://web.archive.org/web/20071212070127id_/http://www.bills.com/privacypolicy/customercare@bills.com)
+[customercare@bills.com](mailto:customercare@bills.com)
 
 By sending a letter to:  
 Bills.com or TheEasyLoanSite.com to:
