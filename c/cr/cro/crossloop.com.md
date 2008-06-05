@@ -1,103 +1,77 @@
-> *The following text is extracted and transformed from the crossloop.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012214145id_/http%3A//www.crossloop.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossloop.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605175749id_/http%3A//crossloop.com/ipage.htm%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
-# CrossLoop - Simple Secure Screen Sharing
+# CrossLoop - Privacy Policy
 
-CrossLoop respects your privacy. When using our sites, you may get information, access online products and services, communicate with us or link to other Web sites with which we do business. While doing that, you may give us information so that we can provide enhanced products or services to you and to personalize your experience on our website. This online privacy policy describes how we use and protect Individual Identifying Information that you share with us. "Individual Identifying Information" is information that enables us to identify you, such as your email address, name, title and mailing address. 
+This CrossLoop privacy policy (the “ **Privacy Policy** ”) is intended to inform you of the policies and practices of CrossLoop, Inc. (“ **CrossLoop** ”, “ **us** ” or “ **we** ”) regarding the collection, use and disclosure of your Personal Information.  Unless otherwise defined herein, certain capitalized terms shall have the meanings assigned to such terms in the Terms of Use available at [http://www.crossloop.com/ipage.htm?id=termsofservice](https://web.archive.org/ipage.htm?id=termsofservice), which are hereby incorporated by reference.
 
-This policy governs Web-sites owned and operated by CrossLoop, Inc. Our policy does not govern Web-sites of other parties to which we may provide links, because CrossLoop is not responsible, and can not control the privacy practices or content of those sites. To demonstrate our commitment to fair information practices, we have adopted leading communication industry privacy guidelines. 
+**_Certain Definitions_**
 
-We want to give you the comfort and confidence you need to fully participate in our online offerings so that we can better serve your needs. Therefore, here are the principles governing our information practices and other privacy aspects of our Web sites: 
+**“Contact** **Information”** means information that allows someone to identify or contact you, including, for example, your name, address, telephone number, email address.
 
-**A SPECIAL NOTE ABOUT CHILDREN**
+**“Personal Information”** is any information about you that is associated with or linked to your Account Information. 
 
-Children (persons under the age of 18) are not eligible to use the Site unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may only use this Site in conjunction with and under the supervision of your parents or guardians. 
+**“Account Information”** means Personal Information that we collect during your registration for the CrossLoop Services and the creation of your Account profile, which may include your Contact Information, password for your account and password hint question, your screen name (“Screen Name”), your location, and email preferences. Account Information includes Personal Information we receive (if any) from any affiliate of, or entity related to, CrossLoop,  with which you have registered.  We may also ask you to provide additional information on an optional basis in connection with setting up your Account.  For example, once you have established an Account, you may provide additional information about yourself in the “Profile” section to describe your technical skills and professional experience, provide your location and language, and upload a photo of yourself, all of which will be deemed Account Information.  Providing this additional Account Information is optional, but it enables you to better identify yourself and market your technical support services to other users. ****
 
-**INFORMATION COLLECTION AND USE**
+**“Anonymous Information”** means information that is not associated with or linked to your Contact Information; Anonymous Information does not permit the identification of individual persons. 
 
-CrossLoop collects Individual Identifying Information when you register for an CrossLoop account, or use certain CrossLoop products or services, when you visit CrossLoop pages, and when you enter promotions or sweepstakes. CrossLoop may also receive Individual Identifying Information from our business partners. 
+**_User Consent_**  
+By using the CrossLoop Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy.
 
-CrossLoop also automatically receives and records information on our server logs from your browser including your IP address, CrossLoop cookie information and the page you requested. 
+**If you are a User who resides outside of the United States, you understand that your Personal Information may be processed in countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.**
 
-CrossLoop uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products. 
+**_Personal Information You Provide to Us_**  
+When you register to use the CrossLoop Services, we collect your Account Information.  When you leave us feedback, we will collect any information that is contained in your feedback.   When you contact us by sending us an e-mail, fax, or letter, we will collect your address, fax number, or e-mail address and any information contained in the e-mail, fax, or letter you send us.  In addition, we collect transactional information based on your activities on the CrossLoop Services such as providing and receiving technical support and content you generate or that relates to your Account.   For example, we collect the feedback and ratings you provide after using the CrossLoop Services, your stated role or purpose for use of the services, and the number of sessions in which you use the CrossLoop Services.  ****
 
-CrossLoop routinely time-stamps and logs events (like features used, participants, length of sessions.) This data is used for performance tuning and optimization of the CrossLoop services. 
+Your Screen Name is displayed throughout the CrossLoop Services and is therefore available to the public. All of your activity through the CrossLoop Services is traceable to your Screen Name. Other people can see your ratings and associated comments, feedback, technical support expertise, and so on.  We may send notices to other community members regarding suspicious activity and policy violations on our sites and refer to Screen Names in such notices. Therefore, if you associate your name with your Screen Name, the people to whom you have revealed your name will be able to personally identify your activities in connection with the CrossLoop Service. 
 
-**INFORMATION SHARING AND DISCLOSURE**
+**_Personal Information Collected via Technology_**  
+As you use the CrossLoop Services, certain information may also be collected passively, including your Internet protocol address, browser type and language, screen resolution, and operating system. CrossLoop may also store a small text file called a “Cookie” on your computer to store your login information. CrossLoop may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them). 
 
-CrossLoop will not sell or rent your Individual Identifying Information to anyone. 
+An “ **Internet protocol address** ” or “ **IP Address** ” is a number that is automatically assigned to your computer when you use the Internet.  CrossLoop may track the IP addresses used for sessions and store this information for security reasons and for the purpose of identifying any misuse of the CrossLoop Services. ****
 
-CrossLoop will send Individual Identifying Information about you to other companies or people when: 
+**_Use of Information_**  
+We use your Personal Information to provide the CrossLoop Services to you, to respond to requests that you make, to improve the CrossLoop Services, and to better tailor the features, performance and support of the CrossLoop Services.  Without limiting the foregoing, certain of your Personal Information may be included in a CrossLoop Badge (”Badge”), which is a widget and an optional service we provide to help you publish your CrossLoop profile on other sites, blogs and social networks in order to promote yourself and your technical skills.  At your request, we will publish the Personal Information contained in your Badge and distribute the information to third party websites, including blogs and social profiles, and third parties will be able to contact you through a link on your Badge.
 
-We have your consent to share the information; 
+We may use your Personal Information to send you electronic newsletters or promotional e-mails, unless you have requested not to receive such promotional communications from us.  We may also use your Personal Information to send you communications related to the CrossLoop Services.  ****
 
-We need to share your information to provide the product or service you have requested; 
+We may create Anonymous Information records from Personal Information by excluding your Contact Information (which makes the information personally identifiable to you).  We reserve the right to use and disclose Anonymous Information to third parties in our discretion. 
 
-We need to send the information to companies who work on behalf of CrossLoop to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the Individual Identifying Information we provide to them beyond what is necessary to assist us.); 
+**_Spam_**  
+CrossLoop does not tolerate or advocate the sending of any unsolicited commercial emails or spam. You may not add any other user of the CrossLoop Services, even a user who has received technical support from you, to your mailing list (email or physical mail) without that user’s express consent. To report CrossLoop-related spam or spoof emails to CrossLoop, please forward the email to [customersupport@crossloop.com](mailto:customersupport@crossloop.com).  You may not use any communication tools provided through the CrossLoop Services to send spam or otherwise send content that would violate this Privacy Policy or the Agreement. 
 
-We respond to subpoenas, court orders or legal process; or 
+**_Feedback_**  
+If you provide feedback to us, we may use and disclose such feedback for any purpose, provided that, except as expressly contemplated in this Privacy Policy, we do not associate such feedback with your Contact Information.  Notwithstanding the foregoing, (a) if you provide session feedback about your use of the CrossLoop Services, we shall display such feedback on the Website together with your Screen Name and/or photograph, and (b) if another user provides feedback about his experience with you, we shall display that feedback together with your Screen Name and/or photograph.
 
-We find that your actions on our Web sites violate the CrossLoop Terms of Service, or any of our usage guidelines for specific products or services. 
+**_Disclosure of Personal Information_**  
+Except as otherwise stated in this Privacy Policy, we do not trade, rent, or share your Personal Information with third parties, unless you ask or authorize us to do so. 
 
-**USE OF EMAIL TOOLS**
+We may provide your Personal Information to third party service providers who work on behalf of or with us to provide the CrossLoop Services.  However, these service providers do not have any independent right to share this information (except pursuant to a legal requirement such as a subpoena or warrant). 
 
-You may not use the Tell a Friend service or other email services that we offer to send spam or otherwise send content that would violate our Terms of Service. We do not permanently store email messages or the email addresses sent from these tools. 
+We may share some or all of your Personal Information with our Affiliates (“ **Affiliates** ” are parent companies, subsidiaries, joint ventures, or other companies under a common control), in which case we will require our Affiliates to honor this Privacy Policy.  ****
 
-If you send an email using the Tell a Friend service to an email address that is not registered in our community, we do not use that email address for any purpose other than to send your email. We do not rent or sell these email addresses. 
+If our company or our assets related to this Privacy Policy are acquired by another company, that company may possess the Personal Information collected by us and in such case it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
 
-**MAILING LISTS**
+**_Law Enforcement Compliance_**
 
-CrossLoop respects your privacy and will not sell or rent your email address. To unsubscribe to any of our mailing lists, simply send an email to [info@CrossLoop.com](mailto:info@crossloop.com) using the subscribed email address with "UNSUBSCRIBE" in the subject bar. If you wish to change your email address, it may be easier to simply unsubscribe using your current email address and re-subscribe using your new address. 
+We may, and you hereby authorize us to, disclose your Personal Information if required by law, to any enforcement officers acting under the color of law, or if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) to protect or defend the rights, property, or safety of CrossLoop, you, other users, or third parties.
 
-**IP INFORMATION COLLECTION AND USE PRACTICES**
+**_Your Choices Regarding Your Personal Information_**  
+We offer you choices regarding the collection, use and sharing of your Personal Information. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the promotional e-mail you receive or by contacting us directly (please see contact information below).  
+Despite your indicated e-mail preferences, we may send you administrative e-mails regarding the  CrossLoop Services, including, for example, purchase confirmation, account creation confirmation, and notices of updates to our Agreement or Privacy Policy.    
+You may review and/or change any of your Account Information by editing it in your Account page.  You may also change the settings for your Account by editing the information under the settings tab. You may request the termination of your Account and deletion of your Account Information by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).   You may make such termination requests by sending an email request to [customersupport@crossloop.com](mailto:customersupport@crossloop.com), provided that you should send your request using the email account that you have registered for your Account.  When CrossLoop deletes Account Information, it will be deleted from the active database but may remain in CrossLoop’s archives. ****
 
-CrossLoop receives IP addresses from all users because this information is automatically reported by your browser each time you view a Web page. 
+**_Regarding Children_**  
+We do not intentionally gather Personal Information about Users who are under the age of 13.
 
-Your IP address is also stored in our user registration databases when you register with CrossLoop. 
+**_Other Sites and Third Party Information_**  
+Our provision of links to other websites or locations is for your convenience and does not signify our endorsement of such other websites or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites.
 
-When an CrossLoop Web page is requested and viewed, that request is logged on our servers with information including the IP address of the computer that requested the page. 
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are users of the CrossLoop Services or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. CrossLoop does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. 
 
-IP addresses may be used for various purposes, including to: 
+**_Contact Us_**  
+Should you have any questions or concerns regarding this Privacy Policy, please contact us:  [customersupport@crossloop.com](mailto:customersupport@crossloop.com)
 
-Diagnose service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific Web company or ISP. 
+**_Privacy Policy Updates_**  
+This Privacy Policy is subject to revision, and if we make any substantial changes in the way we use or disclose your Personal Information, we will post a notice on this page.  If you object to any such changes, you must cease using the CrossLoop Services. Continued use of the CrossLoop Services following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
-Send the most appropriate advertising based on geographic area or information derived from your IP address. Many IP addresses are commonly associated with Internet service providers, universities, or major corporations in specific regions or localities. Aggregate information derived from IP addresses may also be reported to advertisers. 
-
-Estimate the total number of users visiting CrossLoop from specific countries or regions of the world. 
-
-**COOKIES**
-
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a Web site's computers and stored on your computer's hard drive. 
-
-Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. 
-
-_Choices about cookies  
-_You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) 
-
-If you reject all cookies, you will not be able to use CrossLoop products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. However, many CrossLoop products and services do not require that you accept cookies. 
-
-_CrossLoop’s practices regarding cookies  
-_CrossLoop uses cookies for a number of purposes, including to:   
-\- Access your information when you "sign in," so that we can provide you with customized content.   
-\- Keep track of preferences you specify while you are using CrossLoop's services.   
-\- Display the most appropriate advertising banners, based on your interests and activity on CrossLoop.   
-\- Estimate and report our total audience size and traffic.   
-\- Conduct research to improve CrossLoop's content and services. 
-
-**DATA STORAGE**
-
-_Account Information  
-_When you register with CrossLoop or submit information to CrossLoop, a temporary copy of that information is routinely made to prevent accidental loss of your information through a computer malfunction or human error. 
-
-_Servers  
-_The CrossLoop computers (called "servers") that send you Web pages and advertising banners process and store an enormous amount of information every day. These computer records are called "log files." Log files are used for analysis, research, auditing, and other purposes, as described above. 
-
-_Security_  
-We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption and "firewalls". We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. 
-
-**CHANGES TO THIS PRIVACY POLICY**
-
-If we change any of our privacy policies or practices, we'll post those changes to this policy statement at least 30 days before they take effect. In limited cases, we may be required to disclose certain information to comply with a legal process, such as a court order, subpoena or search warrant. 
-
-**CONTACT US**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can complete a [feedback form](http://www.crossloop.com/contactus.html) or send an email to [info@CrossLoop.com](mailto:info@crossloop.com). 
+This Policy was last updated in November 2007.
