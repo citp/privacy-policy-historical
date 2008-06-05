@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203161433id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605103724id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
 
 # Education Queensland
 
@@ -72,6 +72,6 @@ Your name and address details will not be added to a mailing list, nor will offi
 
 Although every effort will be made, Education Queensland cannot guarantee to reply to emails. Some emails received by the Web Manager may be forwarded to other officers for appropriate action. 
 
-If you have any queries about Education Queenslands [Privacy Plan](https://web.archive.org/information/privacy/plan/) and/or our privacy and security practices please forward an email to the [Administrative Law Unit](mailto:InformationPrivacy@qed.qld.gov.au), Office of Shared Services. 
+If you have any queries about Education Queenslands [Privacy Plan](https://web.archive.org/information/privacy/plan/) and/or our privacy and security practices please forward an email to the [Administrative Law Unit](mailto:InformationPrivacy@deta.qld.gov.au), Office of Shared Services. 
 
 ^ Top of page
