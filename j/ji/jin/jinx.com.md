@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jinx.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213002434id_/http%3A//www.jinx.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinx.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605184736id_/http%3A//www.jinx.com/privacy.aspx) for the most accurate reproduction.*
 
 # J!NX : Privacy Policy
 
@@ -47,6 +47,11 @@ J!NX does not sell, rent, or trade your personal information with others.
 Back to Top
 
   
+You can change your account information at any time by logging in to your account. Once you are signed in, click on "edit account details" to make changes to your account details. To change your saved addresses, you may make these alterations at the bottom of your account page.
+
+Back to Top
+
+  
 By using our Web site, you consent to the collection and use of your personal information by J!NX.com as outlined in this Privacy Policy.
 
 Back to Top
@@ -56,5 +61,4 @@ From time to time, we may change our Privacy Policy. We will post those changes 
 
 Back to Top
 
-  
-
+This version of the Jinx Privacy Policy is effective June 1, 2008.
