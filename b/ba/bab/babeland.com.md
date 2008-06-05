@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babeland.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222100227id_/http%3A//www.babeland.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babeland.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606014253id_/http%3A//www.babeland.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Babeland - Privacy Policy
+# Privacy Policy - Babeland
 
 Toys in Babeland Privacy Policy.
 
