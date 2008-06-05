@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sportingo.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201134443id_/http%3A//www.sportingo.com/privacy_policy/1001%2C1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingo.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605030937id_/http%3A//sportingo.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # - Sportingo
+
+**Privacy Policy**
 
 Last updated: 7 September, 2006
 
@@ -64,4 +66,4 @@ This privacy policy will be governed by and interpreted in accordance with the l
  **COPYRIGHT NOTICE**
 
 All rights reserved. © 2006  
-SportBuzz Limited 
+SportBuzz Limited
