@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourplasticsurgeryguide.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213174159id_/http%3A//www.yourplasticsurgeryguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourplasticsurgeryguide.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605104225id_/http%3A//www.yourplasticsurgeryguide.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement: Consumer Guide to Cosmetic Plastic Surgery
+# Privacy Policy for Consumer Guide to Cosmetic Plastic Surgery
 
 We respect the privacy of visitors to our website. This policy describes how we gather information from our site's visitors and what we do with it.
 
@@ -16,7 +16,7 @@ We use electronic records to compile statistics about how collectively our visit
 
 We use the personally identifiable information we collect for internal purposes such as improving our products and services, and sending you e-mail (at your request only) about topics you have specified.
 
-When we conduct research, we may share this information in aggregate form with our advertisers. For example, while we would never say, "Jen Jones regularly receives Botox treatments," we might tell our advertisers, "29% of our readers regularly receive Botox treatments."
+When we conduct research, we may share this information in aggregate form with our advertisers. For example, while we would never say, "Jen Jones regularly receives Botox treatments," we might tell our advertisers, "29 percent of our readers regularly receive Botox treatments."
 
 When you request information from us, the information you provide may be shared with third parties so that they may fulfill your request.
 
@@ -38,4 +38,4 @@ You must be at least 18 years old to have our permission to use this site. Our p
 
 You have the opportunity to access other sites from this website, by either clicking on a text link or on an advertisement. Please be aware that when you leave this site, you will enter sites outside the control of Ceatus Media Group LLC, and the privacy policies of those sites are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection.
 
-[page updated August 2006]
+[page updated June 2008]
