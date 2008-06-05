@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pureromance.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213211722id_/http%3A//www.pureromance.com/PR_Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pureromance.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605045833id_/http%3A//www.pureromance.com/PR_Privacy.aspx) for the most accurate reproduction.*
 
-# | Pure Romance Fun Party | Not Your Typical Night Out! |
+# Pure Romance: Privacy Policy
 
 **PRIVACY STATEMENT**
 
