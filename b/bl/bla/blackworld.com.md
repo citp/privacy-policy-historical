@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackworld.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012050815id_/http%3A//www.blackworld.com/policystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackworld.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606001030id_/http%3A//www.blackworld.com/policystatement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
