@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216083006id_/http%3A//www.highline.edu/home/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605233439id_/http%3A//www.highline.edu/home/policy/privacy.htm) for the most accurate reproduction.*
 
-# Highline Community College, Des Moines, Washington (Community Colleges)
+# Privacy Policy-Highline Community College, Des Moines, Washington (Community Colleges)
 
 * Introduction
 * Information collected and how it is used
@@ -77,7 +77,7 @@ The information collected is not limited to text characters and may include audi
 
 We use your e-mail to respond appropriately. This may be to respond to you, to address issues you may identify, to further improve our Web site, or to forward the e-mail to another agency for appropriate action.
 
-The use of survey information will be described as part of that survey. Information from other online forms is used for access to on-line student services, participation in instructional activities (such as on-line quizzes or on-line discussions), searches of library and other databases, and other activities as described in the specific application.
+The use of survey information will be described as part of that survey. Information from other on-line forms is used for access to on-line student services, participation in instructional activities (such as on-line quizzes or on-line discussions), searches of library and other databases, and other activities as described in the specific application.
 
 Top of page
 
@@ -280,7 +280,7 @@ To review your personal information, or request correction of your personal info
 >  Des Moines, WA 98198  
 > (206)-878-3710 ext. 3363  
 > Fax: (206)-870-3780   
->  [dfaison@highline.edu](mailto:dfaison@highline.edu)
+>  [kbligh@highline.edu](mailto:kbligh@highline.edu)
 
 To offer comments about Highline Community College's Web site or about the information presented in this Privacy Notice:
 
