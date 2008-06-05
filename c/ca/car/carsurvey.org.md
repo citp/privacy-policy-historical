@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsurvey.org privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221044304id_/http%3A//www.carsurvey.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsurvey.org privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605054437id_/http%3A//www.carsurvey.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Carsurvey.org
 
@@ -6,11 +6,15 @@ Carsurvey.org, is firmly committed to respecting the privacy of our viewers (peo
 
 ## Use of IP Addresses
 
-We use your IP address to help diagnose problems with our server, administer our Web site, and improve the information and services offered.
+We use your IP address to help diagnose problems with our server, administer our web site, and improve the information and services offered.
 
-## Use of Cookies
+## Use of Cookies and Web Beacons
 
-This site does not use cookies, however cookies may be used by companies serving adverts on the site.
+This site uses cookies in the members area. Cookies and web beacons are also used to monitor site usage patterns.
+
+Cookies and web beacons may be used by companies serving adverts on the site.
+
+Cookies can be deleted or blocked through the Privacy preferences of your web browser.
 
 ## Entry Form Information
 
