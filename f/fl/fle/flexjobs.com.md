@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the flexjobs.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210155307id_/http%3A//www.flexjobs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexjobs.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605192010id_/http%3A//www.flexjobs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FlexJobs Privacy Policy
 
-##  Privacy Policy Overview
-
-**Privacy Reminder – Please protect your personal information by never providing social security, credit card or bank account numbers to prospective employers.** Although we do our best to remove any suspicious job postings or employer accounts, for more information on avoiding scams, please read the MSNBC article "[Online job seeker says she was duped into scam](http://www.msnbc.msn.com/id/5424542/)." 
+**Important Reminder – Please protect your personal information by never providing credit card, bank account, or social security numbers numbers to prospective employers.** Although we do our best to remove any suspicious job postings or employer accounts, for more information on avoiding scams, please read the MSNBC article "[Online job seeker says she was duped into scam](http://www.msnbc.msn.com/id/5424542/)." 
 
 FlexJobs is committed to respecting the privacy of our users. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to the FlexJobs website. 
 
-Your data will be stored and processed in the United States. The information we gather on the FlexJobs site may be shared within the FlexJobs-affiliated companies on a worldwide basis in order to deliver the products and services we offer or in order to undertake analysis of our database. 
+This site provides access to third party content and links. You understand and agree that we're only acting as a conduit and that we have no liability related to the third-party, whether arising under the laws of copyright, libel, privacy or obscenity. 
 
 ##  Collection and Use of Information by FlexJobs
 
 In some areas of FlexJobs, we request or may request that you provide personal information, including your name, address, e-mail address, telephone number, contact information, and any other information from which your identity is discernible. In other areas, we may collect demographic information that is not unique to you such as your ZIP code, preferences, gender, interests. Sometimes we collect or may collect a combination of the two types of information. 
 
 We also gather or may gather certain information about your use of FlexJobs, such as what areas you visit and what services you access. Moreover, there is information about your computer hardware and software that is or may be collected by us. This information can include without limitation your IP address, browser type, domain names, access times and referring Web site addresses, but is not linked to your personal information. 
+
+Your data will be stored and processed in the United States. The information we gather on the FlexJobs site may be shared within the FlexJobs-affiliated companies on a worldwide basis in order to deliver the products and services we offer or in order to undertake analysis of our database. 
 
 If you choose to use our referral service to tell a friend about the FlexJobs site or refer a job posting to a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the FlexJobs site to view the job posting. We do not store this information. 
 
@@ -43,7 +43,7 @@ We do not disclose your personal information to third parties, or your combined 
 
 ##  Personal Information on Resumes, Profiles, Cover Letters, and Work Samples
 
-Since FlexJobs is a career site, you can store your profiles, resumes, cover letters, and/or work samples in our database. In doing so, we give you three options regarding the accessibility of your information: 
+Since FlexJobs is a career site, you can store your profiles, resumes, cover letters, and/or work samples in our database. In doing so, we give you two options regarding the accessibility of your information: 
 
   1. You can make your information available only to users registered with FlexJobs. 
   2. You can make your information available to any visitors to our site, including search engines. In doing so, your information is considered part of the public domain.
