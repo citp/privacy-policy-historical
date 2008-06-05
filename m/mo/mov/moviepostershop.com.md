@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviepostershop.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230011522id_/http%3A//www.moviepostershop.com/privacy.php%3FosCsid%3D15023b9398f5d0d27388bf9b9cd77b64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviepostershop.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606004446id_/http%3A//www.moviepostershop.com/privacy.php) for the most accurate reproduction.*
 
 # Movie Poster Shop
 
