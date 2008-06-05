@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223085523id_/http%3A//www.rac.co.uk/web/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605141852id_/http%3A//www.rac.co.uk/web/privacy_policy) for the most accurate reproduction.*
 
 # RAC Privacy policy
 
@@ -64,7 +64,7 @@ In the Data Protection Notice above we refer to the collection of sensitive data
 
 #### How to access your personal information
 
-Please address requests to the Data Protection Compliance Manager, RAC Motoring Services, 8 Surrey Street, Norwich NR1 3NG (Please note that a small fee of £10.00 will be charged for dealing with these requests). If you believe that any of the data we hold about you is incorrect or being misused or want further information you may contact us at the above address.
+Please address requests to the Legislation & Regulation Team ( Data Protection ), NU UK ITS, Level 2, Pitheavlis, Perth, PH2 ONH (Please note that a small fee of £10.00 will be charged for dealing with these requests). If you believe that any of the data we hold about you is incorrect or being misused or want further information you may contact us at the above address.
 
 **Back to top**
 
