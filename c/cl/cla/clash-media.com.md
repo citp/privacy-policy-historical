@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clash-media.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203224626id_/http%3A//www.clash-media.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clash-media.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605092634id_/http%3A//www.clash-media.com/Privacy.html) for the most accurate reproduction.*
 
 # Welcome to Clash-Media!
 
