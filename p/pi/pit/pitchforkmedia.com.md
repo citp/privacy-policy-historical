@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitchforkmedia.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212233939id_/http%3A//pitchforkmedia.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchforkmedia.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605043704id_/http%3A//www.pitchforkmedia.com/page/privacy) for the most accurate reproduction.*
 
 # Pitchfork: Privacy Policy
 
