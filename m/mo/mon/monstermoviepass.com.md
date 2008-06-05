@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstermoviepass.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011112711id_/http%3A//monstermoviepass.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstermoviepass.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605185217id_/http%3A//monstermoviepass.com/info/privacy) for the most accurate reproduction.*
 
 # Monster Movie Pass : privacy policy
 
