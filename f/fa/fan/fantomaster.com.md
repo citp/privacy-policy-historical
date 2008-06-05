@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantomaster.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223200924id_/http%3A//fantomaster.com/index2.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantomaster.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605183322id_/http%3A//fantomaster.com/index2.html%23privacy) for the most accurate reproduction.*
 
-# About fantomaster.com: who we are - our privacy policy - 2007-12-23
+# About fantomaster.com: who we are - our privacy policy - 2008-06-05
 
 ## Our Mission
 
@@ -38,11 +38,9 @@ Corporate Data
 Online since 1999-11-01
 
 fantomaster.com GmbH
-    Zum Konnenbusch 6
-    B-4750 Berg
-    Incorporation No.:
-    H.R.E. 64.659 (Eupen)
-    EU VAT ID/T.V.A.: BE 463.684.942
+    Postfach 19
+    B-4760 Büllingen
+    EU VAT ID/T.V.A.: BE 0463.684.942
      
 Marketing & Sales & Support Dept.
 CEO & CMO
@@ -50,7 +48,7 @@ Ralph Tegtmeier M.A.
     Phone: +32-80-549.247
     Fax: +32-80-549.248
     U.S. #: (650) 557-2088
-    UK   #:  020-3239-8522 – New!
+    UK   #:  020-3239-5569 – New!
     ANZ #:  (02) 8003 4253
     Skype: [**fantomaster_ralph**](callto:fantomaster_ralph)
     E-Mail: 
@@ -114,11 +112,11 @@ This web site meets the guidelines of [TRUSTe's](http://www.truste.org/) Childre
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:
 
 fantomaster.com GmbH
-    Zum Konnenbusch 6
-    B-4750 Berg
+    Postfach 19
+    B-4760 Büllingen
     Belgium
     Phone: +32-80-549.247
-    Fax: +32-80-548.731
+    Fax: +32-80-549.248
 
 U.S. and Canadian clients
 
@@ -130,7 +128,7 @@ Or, call our U.S. numbers directly:
 UK clients
 
 Clients in the UK can also call us directly on our new UK numbers:  
-– 020-3239-8522 (Sales + Marketing)  
+– 020-3239-5569 (Sales + Marketing)  
 – 020-3239-8622 (Tech Support + Development)
 
 Australian and New Zealander clients
