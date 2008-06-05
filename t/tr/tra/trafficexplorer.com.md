@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficexplorer.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229021714id_/http%3A//www.trafficexplorer.com/docs/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficexplorer.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605170242id_/http%3A//www.trafficexplorer.com/docs/pp.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
