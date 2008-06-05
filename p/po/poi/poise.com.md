@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208050301id_/http%3A//www.poise.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605225702id_/http%3A//www.poise.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Bladder Control Protection Products & Information on Overactive Bladder Treatments - POISE®
 
