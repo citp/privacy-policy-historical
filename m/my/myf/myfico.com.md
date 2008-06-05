@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myfico.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221060404id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfico.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605044439id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Posted: August, 2007
+Posted: March, 2008
 
 [](http://www.truste.org/ivalidate.php?url=www.myfico.com&sealid=101)
 
@@ -149,15 +149,15 @@ We want you to be fully informed about how we will use your information and prot
 
 ### Notices
 
-We may send certain legally required notices or disclosures, including notices regarding our privacy policies, to you electronically, and you consent to receiving any such consents or disclosures electronically. It will be your responsibility to ensure that you have the necessary systems to allow you to receive electronic notices and disclosures from us.
+We may send certain legally required notices or disclosures, including notices regarding our privacy policies, to you via E-mail, and you consent to receiving any such consents or disclosures via E-mail. It will be your responsibility to ensure that you have the necessary systems to allow you to receive E-mail notices and disclosures from us.
 
 ### Contacting Us
 
 If you have questions about this Privacy Policy or about our information practices, you can send us your question by clicking on [Contact Us](https://web.archive.org/myfico/ContactUs.asp) (for myFICO.com or fico.org) or [Contact Us](http://www.insurancescore.com/contact.aspx) (for InsuranceScore.com) or send an email to [myfico@mailca.custhelp.com](mailto:myfico@mailca.custhelp.com) or send correspondence to:
 
 Customer Care Team  
-P.O. Box 8428  
-Emeryville, CA 94662 
+200 Smith Ranch Road  
+San Rafael, CA 94903 
 
 This PO Box is owned by Fair Isaac Corporation:
 
@@ -171,6 +171,6 @@ This Privacy Policy applies to individuals using the Web Sites and the Products 
 
 ### TRUSTe Privacy Program
 
-Fair Isaac Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites [www.myfico.com](http://www.myfico.com/), [www.fico.org](http://www.fico.org/), and [www.InsuranceScore.com](http://www.insurancescore.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Fair Isaac Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites [www.myFICO.com](http://www.myfico.com/), [www.fico.org](http://www.fico.org/), and [www.InsuranceScore.com](http://www.insurancescore.com/) Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact our customer care team at [myfico@mailca.custhelp.com](mailto:myfico@mailca.custhelp.com) or 1-800-319-4433. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
