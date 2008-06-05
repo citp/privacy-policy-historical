@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the interclick.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229060240id_/http%3A//interclick.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interclick.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605102346id_/http%3A//www.interclick.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # interCLICK - Privacy Policy
 
-|  | [](https://web.archive.org/web/20071229060240id_/http%3A//interclick.com/login.aspx?logout=1) | [](https://web.archive.org/web/20071229060240id_/http%3A//interclick.com/advertisers.aspx) | [](https://web.archive.org/web/20071229060240id_/http%3A//interclick.com/agencies.aspx) | [](https://web.archive.org/web/20071229060240id_/http%3A//interclick.com/publishers.aspx) | [](https://web.archive.org/web/20071229060240id_/http%3A//interclick.com/contactUs.aspx)  
+|  | [](https://web.archive.org/web/20080605102346id_/http%3A//www.interclick.com/login.aspx?logout=1) | [](https://web.archive.org/web/20080605102346id_/http%3A//www.interclick.com/advertisers.aspx) | [](https://web.archive.org/web/20080605102346id_/http%3A//www.interclick.com/agencies.aspx) | [](https://web.archive.org/web/20080605102346id_/http%3A//www.interclick.com/publishers.aspx) | [](https://web.archive.org/web/20080605102346id_/http%3A//www.interclick.com/contactUs.aspx)  
 ---|---|---|---|---  
   
 * * *
