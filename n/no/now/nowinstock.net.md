@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203070140id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605031504id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NowInStock.net
 
