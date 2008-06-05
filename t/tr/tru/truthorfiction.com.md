@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthorfiction.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229045622id_/http%3A//www.truthorfiction.com/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthorfiction.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605191732id_/http%3A//www.truthorfiction.com/privacynotice.htm) for the most accurate reproduction.*
 
 # User Agreement
 
@@ -8,7 +8,7 @@ TruthOrFiction.com is committed to privacy on the Internet.
 
 2.  TruthOrFiction.com does keep track of general web statistics such as how much web traffic there has been, which pages are the most popular, etc. but does not have any way of collecting information on individual users in terms of name, emails address, location, etc.
 
-3.  TruthOrFiction.com does not make use of "cookies" in any part of our Web site.  There may be advertisers who utilize cookies.
+3.  TruthOrFiction.com does not make use of "cookies" in any part of our website.  There may be advertisers who utilize cookies.
 
 4.  In the cases of personal information that is known, such as email addresses, none of that information will be sold, shared, or given to any third party except in cases of cooperating with law enforcement agencies investigating criminal activity. 
 
