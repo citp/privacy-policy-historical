@@ -1,12 +1,33 @@
-> *The following text is extracted and transformed from the smashboards.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209213459id_/http%3A//smashboards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashboards.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605155012id_/http%3A//smashboards.com/privacy.php) for the most accurate reproduction.*
 
 # Smash World Forums - Privacy Policy
 
+  
+|  **[REGISTER HERE TODAY!](https://web.archive.org/web/20080605155012id_/http%3A//smashboards.com/register.php?)**
+
+Welcome to **Smash Boards** , the world's largest Super Smash Bros. 64, Smash Bros. Melee, and [Smash Bros. Brawl](https://web.archive.org/news/) community! Over 110,000 Smash Bros. fans from around the world have come to discuss these great games in over 4 million posted discussions! 
+
+You are currently viewing our boards as a guest, which gives you the ability to view most discussions and articles. By joining our **FREE** community you will be able to post new topics and reply to threads, communicate privately with other SmashBoards members (PM), sign up for Smash Bros. tournaments, **see fewer forum advertisements** , and access many other special features. Registration is fast, simple and absolutely free, so please, [**join our community today**](https://web.archive.org/web/20080605155012id_/http%3A//smashboards.com/register.php?)! 
+
+If you are looking for basic Super Smash Bros. information, a great place to start may be our [SmashWiki](http://www.smashwiki.com/) or [Smash News](http://smashboards.com/news/). If you have any problems with the registration process or your account login, please contact [support](https://web.archive.org/sendmessage.php).  
+  
+---  
+  
 _Did you know:_  
 When you login, you see less forum advertising?  
-Better yet, [Premium members](https://web.archive.org/web/20071209213459id_/http%3A//smashboards.com/premium.php) see no forum advertising!   
+Better yet, [Premium members](https://web.archive.org/web/20080605155012id_/http%3A//smashboards.com/premium.php) see no forum advertising!   
 
 
+Welcome to the Smash World Forums.  
+---  
+**[REGISTER HERE TODAY!](https://web.archive.org/web/20080605155012id_/http%3A//smashboards.com/register.php?)**
+
+Welcome to **Smash Boards** , the world's largest Super Smash Bros. 64, Smash Bros. Melee, and [Smash Bros. Brawl](https://web.archive.org/news/) community! Over 110,000 Smash Bros. fans from around the world have come to discuss these great games in over 4 million posted discussions! 
+
+You are currently viewing our boards as a guest, which gives you the ability to view most discussions and articles. By joining our **FREE** community you will be able to post new topics and reply to threads, communicate privately with other SmashBoards members (PM), sign up for Smash Bros. tournaments, **see fewer forum advertisements** , and access many other special features. Registration is fast, simple and absolutely free, so please, [**join our community today**](https://web.archive.org/web/20080605155012id_/http%3A//smashboards.com/register.php?)! 
+
+If you are looking for basic Super Smash Bros. information, a great place to start may be our [SmashWiki](http://www.smashwiki.com/) or [Smash News](http://smashboards.com/news/). If you have any problems with the registration process or your account login, please contact [support](https://web.archive.org/sendmessage.php).  
+  
 ### Privacy Policy
 
 Smash World, its advertisers, and its affiliates are committed to protecting the privacy of internet users. Below is information outlining our continued support for the responsible management of consumer information. We respect your privacy and hold your online securty as a high priority. 
@@ -22,7 +43,11 @@ Smash World uses "cookies" to enhance your experience on the web. We cannot use 
 Smash World's forums are directed to children, teenagers, and adults of all ages. Our censor system and crew of moderators tries daily to make sure the content of [Smash Boards](http://smashboards.com/) can be viewed by people of all ages. Due to a new law, COPPA, children age 13 and under will need parental permission before their forum registration is accepted. 
 
 **_Third Party Advertising_**  
-We use some third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you have questions or would like to see the specific privacy policies of our Adverts, please [email Gideon](mailto:gideon@smashboards.com?Subject=Policy_Questions). Our adverts and we reserve the right to change our Privacy Policy at anytime.   
-  
+We use some third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you have questions or would like to see the specific privacy policies of our Adverts, please [email Gideon](mailto:gideon@smashboards.com?Subject=Policy_Questions). Our adverts and we reserve the right to change our Privacy Policy at anytime. 
+
 [](http://topsite.smashboards.com/)  
-All times are GMT -4. The time now is 05:34 PM.
+All times are GMT -4. The time now is 11:50 AM.
+
+  
+  
+
