@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the traveltex.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225235822id_/http%3A//www.traveltex.com/extra/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltex.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605034215id_/http%3A//www.traveltex.com/extra/Privacy.aspx) for the most accurate reproduction.*
 
 # TravelTex - Privacy & Security
 
-#### November, 2006  
+#### May, 2008  
 State of Texas TravelTex Web Site
 
 The following is the privacy policy for this site (all pages starting with www.TravelTex.com):
 
   1. Cookies are used to allow the site to welcome you back to the site should you visit the site again and to set your chosen site parameters as they were on your last visit. Cookies are also used to track the number of visitors to the site. We do not use cookies to collect any information other than just described. Note: A cookie file contains unique information a web site can use to track such things as passwords, lists of pages you've visited, and the date when you last looked at a specific page or to identify your session at a particular web site. We do not use cookies for any of these purposes.
   2. If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails us this information, we will only use the personally-identifiable information to respond to your request and analyze trends. We may redirect your message to another government agency or person who is in a better position to answer your question.
-  3. If you enter any contact information in the Travel Planner for use in travel planning, this information will only be sent to another source such as a travel agency where you specifically request your Travel Planner information to be sent.
-  4. If you enter contact information in the course of ordering items from the site this information will only be sent to those parties requiring it for delivery unless you choose to receive additional Texas travel information. If you choose to receive additional information, your address may occasionally be made available to other Texas travel industry organizations.
-  5. If you have supplied your e-mail address and chosen to receive additional Texas travel information, it may occasionally be used to send you a message about something you have expressed an interest such as an activity or event.
-  6. For site management functions, information is collected for analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings.
+  3. If you enter contact information in the course of ordering items from the site this information will only be sent to those parties requiring it for delivery unless you choose to receive additional Texas travel information. If you choose to receive additional information, your address may occasionally be made available to other Texas travel industry organizations.
+  4. If you have supplied your e-mail address and chosen to receive additional Texas travel information, it may occasionally be used to send you a message about something you have expressed an interest such as an activity or event.
+  5. For site management functions, information is collected for analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings.
 
 
 
