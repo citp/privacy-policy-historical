@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210143944id_/http%3A//www.savings.com/corporate/articles/privacy.pc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605155704id_/http%3A//www.savings.com/corporate/articles/privacy.pc) for the most accurate reproduction.*
 
 # Privacy Policy - www.savings.com
 
@@ -68,7 +68,7 @@ Savings.com does not sell trade or rent your personal information to other peopl
  **Cookies and IP Addresses  
 **
 
-To serve you faster and with better quality, we use "cookies" technology. Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Web site to "personalize" itself for each user. We generally use cookies to reduce the time it takes for pages to load on your computer and to assist with customer tracking. Customer tracking (or "click-stream") data collected by us is used to optimize your experience by learning whether or not you successfully used Savings.com. Cookies are not tied to your personal information. Additionally, we may capture click-stream data on some of our partner's web sites, limited to the activity involved with the completion of offers listed on our web site This information is used to monitor the performance of our partners. We also allow select third-parties to set cookies on our website.  For example, we use a tracking service, Revenue Science, that uses cookies to track non-personally identifiable information about our visitors. This aggregrate visitor usage information collected on Savings.com and used by the Revenue Science network for the purposes of delivering relevant advertising to our audience. Other examples include session cookies when accessing the Blog section of the website. These cookies simply track the session and are not tied to your personal information.We also keep track of Internet Protocol (IP) addresses. An IP Address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.   
+To serve you faster and with better quality, we use "cookies" technology. Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Web site to "personalize" itself for each user. We generally use cookies to reduce the time it takes for pages to load on your computer and to assist with customer tracking. Customer tracking (or "click-stream") data collected by us is used to optimize your experience by learning whether or not you successfully used Savings.com. Cookies are not tied to your personal information. Additionally, we may capture click-stream data on some of our partner's web sites, limited to the activity involved with the completion of offers listed on our web site This information is used to monitor the performance of our partners. We also allow select third-parties to set cookies on our website. For example, we use a tracking service, Revenue Science, that uses cookies to track non-personally identifiable information about our visitors. This aggregrate visitor usage information collected on Savings.com and used by the Revenue Science network for the purposes of delivering relevant advertising to our audience. Other examples include session cookies when accessing the Blog section of the website. These cookies simply track the session and are not tied to your personal information.We also keep track of Internet Protocol (IP) addresses. An IP Address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.   
 
 
 **Clear Gifs  
@@ -84,12 +84,12 @@ The security of your personal information is very important at Savings.com and w
 
 **Opting-Out**
 
-You may register to receive communications from us directly on our website or through a third party. When you subscribe, we will periodically send you a newsletter e-mail featuring special and exclusive offers, promotions and other members-only benefits. If you no longer wish to receive these communications, please let us know by contacting [Customer Care](https://web.archive.org/corporate/customercare.html), or click the [unsubscribe](https://web.archive.org/corporate/unsubscribe.html) link located at the bottom of all emails, or use the [unsubscribe](https://web.archive.org/corporate/unsubscribe.html) link located in the footer of our site, www.savings.com. Our email database is updated continually. However, you may continue to receive email communications from us up to ten business days from the time we receive your unsubscribe request. Please note that Savings.com can only control its own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their email communications.  
+You may register to receive communications from us directly on our website or through a third party. When you subscribe, we will periodically send you a newsletter e-mail featuring special and exclusive offers, promotions and other members-only benefits. If you no longer wish to receive these communications, please let us know by contacting [Customer Care](https://web.archive.org/web/20080605155704id_/http%3A/corporate/customercare.html), or click the [unsubscribe](https://web.archive.org/web/20080605155704id_/http%3A/corporate/unsubscribe.html) link located at the bottom of all emails, or use the [unsubscribe](https://web.archive.org/web/20080605155704id_/http%3A/corporate/unsubscribe.html) link located in the footer of our site, www.savings.com. Our email database is updated continually. However, you may continue to receive email communications from us up to ten business days from the time we receive your unsubscribe request. Please note that Savings.com can only control its own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their email communications.  
 
 
  **Message Boards/Chat Rooms/Blogs**
 
-If you use a message board, chat room, or blog on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in these forums.
+If you use a message board, chat room, or blog on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
  **Third Party Links**
 
@@ -120,7 +120,7 @@ If you have any questions, concerns or suggestions about our Privacy Policy, you
 
 
 Savings.com, Inc  
-Attn: Customer Support629 State Street #249Santa Barbara, CA 93101
+Attn: Customer Support510 State Street #200Santa Barbara, CA 93101 
 
  **Retention of Information  
 **
@@ -147,5 +147,4 @@ This privacy policy is not intended to and does not create any contractual or le
 
 
 **Effective Date October 18th, 2005  
-Last Updated on March 23, 2006  
-**
+Last Updated on May 8, 2008**
