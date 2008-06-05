@@ -1,19 +1,10 @@
-<!--The following is the downloaded HTML source of the hollandbulbfarms.com privacy policy that was archived on 2007-02-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070223160535id_/http%3A//www.hollandbulbfarms.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hollandbulbfarms.com privacy policy that was archived on 2008-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080605150607id_/http%3A//www.hollandbulbfarms.com/privacy.asp) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript">
-var sWOName="";
-var sWOCompany="";
-var sWOEmail="";
-var sWOTelephone="";
-</script>
-
-
-
-	
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Holland Bulb Farms Privacy Policy</title>
 		
-	<meta name="Keywords" content="bulbs, elephant ears, dahlia,holland bulbs, water plants, canna,water lily, summer bulbs, lilies, cannas, holland bulb, water lilies, dahlias, flower spring, calla lilies, gladioli, lily, water garden, tulip bulbs, amaryllis, holland tulips, daffodil, hyacinth, crocus, allium">      
+	<meta name="Keywords" content="bulbs, elephant ears, dahlia,holland bulbs, water plants, canna,water lily, summer bulbs, lilies, cannas, holland bulb, water lilies, dahlias, flower spring, calla lilies, gladioli, lily, water garden, tulip bulbs, amaryllis, holland tulips, daffodil, hyacinth, crocus, allium, Spring Bulbs, Fall Bulbs">      
 	<meta name="robots" content="index, follow">
 	
 	<link rel="stylesheet" href="hbf_styles.css" type="text/css">
@@ -77,14 +68,14 @@ function editaddress(action,defAddrCode,bShipDefault)
 					{
 						if(document.frmCheckout.ishipCode.value < 1)
 						{
-							document.frmEditAddress.action = "http://www.hollandbulbfarms.com/accinfo.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}";
+							document.frmEditAddress.action = "http://www.hollandbulbfarms.com/accinfo.asp";
 						}
 					}
 				}
 			}
 			else
 			{
-				document.frmEditAddress.action = "http://www.hollandbulbfarms.com/accinfo.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}";
+				document.frmEditAddress.action = "http://www.hollandbulbfarms.com/accinfo.asp";
 			}
 		}		
 	}
@@ -138,9 +129,9 @@ if (bIsNotWishListItemInCart == 1 & (document.frmEditAddress.iShipCode.value == 
 }
 
 	if(option==2)
-	document.frmCheckout.action = "https://www.hollandbulbfarms.com/shipping.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}&SSL=1";
+	document.frmCheckout.action = "https://www.hollandbulbfarms.com/shipping.asp?SSL=1";
 	else
-        document.frmCheckout.action = "http://www.hollandbulbfarms.com/shipping.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}";
+        document.frmCheckout.action = "http://www.hollandbulbfarms.com/shipping.asp";
 	document.frmCheckout.submit();
 }
   
@@ -172,7 +163,7 @@ function Validate_Rma(){
 		}
 	}
 	if(document.frmRma.singleinv[1].checked)
-		document.frmRma.action = "http://www.hollandbulbfarms.com/ordlist.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}&rma=rma&bk=si";
+		document.frmRma.action = "http://www.hollandbulbfarms.com/ordlist.asp?rma=rma&bk=si";
 	document.frmRma.submit();
 }
 // End of the function Validate_Rma()
@@ -197,9 +188,9 @@ function Validate_OrdNo(option){
 		return false;
 	}
 	if(option==2)
-		document.frmTrack.action = "https://www.hollandbulbfarms.com/ordstatus.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}&SSL=1";
+		document.frmTrack.action = "https://www.hollandbulbfarms.com/ordstatus.asp?SSL=1";
 	else
-		document.frmTrack.action = "http://www.hollandbulbfarms.com/ordstatus.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}";
+		document.frmTrack.action = "http://www.hollandbulbfarms.com/ordstatus.asp";
  	document.frmTrack.submit();
 }	
 // End of the function Validate_OrdNo()
@@ -214,9 +205,9 @@ function Validate_OrdNo(option){
 
 function multipleorder(option){
 	if(option==2)
-		document.frmMainForm.action = "https://www.hollandbulbfarms.com/ordlist.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}&SSL=1";
+		document.frmMainForm.action = "https://www.hollandbulbfarms.com/ordlist.asp?SSL=1";
 	else
-		document.frmMainForm.action = "http://www.hollandbulbfarms.com/ordlist.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}";
+		document.frmMainForm.action = "http://www.hollandbulbfarms.com/ordlist.asp";
   if(validateSubmitDate('frmMainForm','frommonth','fromday','fromyear','tomonth','today','toyear')==0)
    return false;
  	document.frmMainForm.submit();
@@ -387,9 +378,9 @@ function cardType(type,option,sSource)
 		}
 	}
 	if(option==2)
-		document.frmCardList.action = "https://www.hollandbulbfarms.com/addcard.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}&Source=" + sSource ;
+		document.frmCardList.action = "https://www.hollandbulbfarms.com/addcard.asp?Source=" + sSource ;
 	else
-		document.frmCardList.action = "http://www.hollandbulbfarms.com/addcard.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}&Source="+ sSource ;
+		document.frmCardList.action = "http://www.hollandbulbfarms.com/addcard.asp?Source="+ sSource ;
 	document.frmCardList.submit();
 }
 // End of the function cardType(type,option)
@@ -637,9 +628,9 @@ function validatecard(option,AddressStatus,dDataServerDate)
 	}
 
 	if(option==2)
-		document.frmEditCard.action = "https://www.hollandbulbfarms.com/addcard.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}";
+		document.frmEditCard.action = "https://www.hollandbulbfarms.com/addcard.asp";
 	else
-		document.frmEditCard.action = "http://www.hollandbulbfarms.com/addcard.asp?CartId={832658A2-5B14-EVEREST44AD-B41F-96514500B363}";
+		document.frmEditCard.action = "http://www.hollandbulbfarms.com/addcard.asp";
 	document.frmEditCard.submit();
 }	
 // End of the function validatecard()
@@ -693,49 +684,79 @@ function validateSubmitDate(frmName,FromMonth,FromDay,FromYear,ToMonth,ToDay,ToY
     </style>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head>
 
-	<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('imgs/header/menu_trackOrder_on.gif','imgs/header/menu_helpcenter_on.gif')">
+	<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 	
-
-<link rel="SHORTCUT ICON" href="imgs/hbf_logo.ico">
-
-
-<script type="text/JavaScript">
-<!--
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
-<div id="header" style=" padding-top:6px;">
- <div id="logo_nav" style="background:url(imgs/header/logo_tab_2.jpg) no-repeat ">
-   <a href="http://www.hollandbulbfarms.com/index.asp?url=IND"> 
-   	<img src="imgs/1X1clear.gif" height="56" width="145" border="0" title=""></a>
-   <span style="position:absolute; right:1px; z-index:1; top:28px; "><a href="sweepstakes/" target="_sweepstakes"><img src="imgs/header/sweepstakes_banner.gif" width="520" height="30" border="0" title=""></a></span> 
-   <a href="catalogRequest.asp"><img src="imgs/header/free_cat_anim.gif" width="98" height="19" border="0" title=""></a> </div>
-	
-</div><div style="background:#a2c488"> 
-  <div align="right">
-
-<!--Bottom right space underneath logo-->
-
-
-  </div>
+<link rel="SHORTCUT ICON" href="/imgs/hbf_logo.ico">
+  <link rel="stylesheet" href="dealofweek.css" type="text/css">
+<div style="position:absolute; right:0px;">
+   
+<table width="732" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td colspan="3"><div align="right"><span class="welcome_cart_text">Welcome,
+          
+                <a href="acclogin.asp?url=AL" style="color:#CC0000;">sign in</a> or <a href="accregister.asp?msg=" style="color:#CC0000;">register now!</a>
+              
+   </span>
+  <span class="welcome_cart_text"> &nbsp;
+    |&nbsp; <a href="accinfo.asp?url=AI" style="color:#000000;"> My Account</a> &nbsp;|&nbsp; <a href="ordtrack.asp" style="color:#000000;"> Track Order</a> |&nbsp; <a href="help.asp" style="color:#000000;"> Customer Service</a>&nbsp;</span></div></td>
+      </tr>
+      <tr>
+        <td width="406"><div align="right"></div></td>
+        <td width="232" style="padding-top:3px;"><div align="right"><a href="viewcart.asp?url=VC" style="color:#CC0000;"><span class="welcome_cart_text" style="color:#CC0000;">0 item(s) in your cart&nbsp;&nbsp;$0.00</span></a><span class="welcome_cart_text">&nbsp;&nbsp;</span></div></td>
+        <td width="94" style="padding-top:3px;"><a href="viewcart.asp?url=VC"><img name="cart_r1_c2" src="/imgs/header1_1/viewcart_btn.gif" border="0" id="cart_r1_c2" alt="(click me) You currently have 0 item(s) in your cart for a total of $0.00" title="(click me) You currently have 0 item(s) in your cart for a total of $0.00"></a></td>
+      </tr>
+      <tr>
+        <td colspan="3" style="padding:1px">&nbsp;</td>
+      </tr>
+</tbody></table>
 </div>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-      <tbody>
-      <tr class="header_menubgcolor">
-        <td class="header_menubgcolor" colspan="3" height="25" nowrap="nowrap" valign="center" width="100%">
-		<div id="headerMenu">
-		<script type="text/javascript" src="includes/cnt.js"></script>
-		<table width="100%" cellpadding="0" cellspacing="0" border="0" align="right">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding-top:0px;">
   <tbody><tr>
-    <td width="691" style="padding-left:5px;" align="left"><a href="#" onclick="document.getElementById('shippingStartsDiv').style.display='block'" style="text-decoration:none;"><span style="font-size:16px; color:#FFFFFF; font-weight:bold">Shipping begins in</span> <span style="font-size:18px; color:#FFFFFF; font-weight:bold;" id="cd">6 days 15h 09m 30s</span></a></td>
-    <td width="10%" align="right" nowrap="nowrap" bgcolor="aea971">
+    <td width="13%" rowspan="2" valign="bottom"><div id="newlogo"><a href="index.asp?layout="><img src="/imgs/header1_1/logo_left.gif" width="177" height="70" border="0" title=""></a></div></td>
+    <td width="18%" rowspan="2" align="right" valign="bottom" style="padding-bottom:1px;">
+
+	</td>
+    <td width="43%" height="30" align="center" valign="bottom" style="padding-right:40px;"></td>
+    <td width="20%" rowspan="2" valign="bottom" style="padding-bottom:1px;">&nbsp;</td>
+    <td width="6%" rowspan="2" valign="bottom" style="padding-bottom:1px;">
+<a href="catalogrequest.asp"><img src="/imgs/header/catalogrequest.gif" width="150" height="45" border="0" title=""></a> </td>
+  </tr>
+  <tr>
+    <td height="36" align="center" valign="bottom" style="">
 	
-	<a href="ordtrack.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','imgs/header/menu_trackOrder_on.gif',1)"><img src="imgs/header/menu_trackOrder_off.gif" alt="Track your Order" name="Image3" width="124" height="30" border="0" id="Image3" title="Track your Order"></a><a href="help.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','imgs/header/menu_helpcenter_on.gif',1)"><img src="imgs/header/menu_helpcenter_off.gif" alt="Help " name="Image2" width="131" height="30" border="0" id="Image2" title="Help "></a></td>
-	
-  
+	<table width="22%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td height="36" valign="bottom">
+			
+				  <a href="SpringPlantedBulbs.asp?Cc=SpringPlantBulb&amp;iTpStatus=1&amp;Tp="><img src="/imgs/header1_1/tab_spring_planted_off.gif" width="105" height="36" border="0" alt="Spring Planted Bulbs" align="absbottom" title="Spring Planted Bulbs"></a>
+          		</td>
+        <td valign="bottom">
+          <a href="seeds.asp?cat=Garden-Seeds&amp;Cc=Seeds"><img src="/imgs/header1_1/tab_seeds_an_off.gif" width="55" height="55" border="0" align="absbottom" alt="Garden Seeds" title="Garden Seeds"></a>
+          </td>
+        <td valign="bottom">
+          <a href="BulbCollections.asp?Cc=Collections&amp;Bc=&amp;layout="><img src="/imgs/header1_1/tab_collections_off.gif" width="105" height="36" border="0" alt="Flower Bulb Collections" align="absbottom" title="Flower Bulb Collections"></a>
+          </td>
+        <td valign="bottom">
+           <a href="DiscountFlowerBulbs.asp?Cc=DiscountBulbs&amp;Bc=&amp;layout="><img src="/imgs/header1_1/tab_valuebags_off.gif" width="58" height="36" border="0" alt="Flower Deals of the Week" align="absbottom" title="Flower Deals of the Week"></a>
+		  </td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+<table id="SubCategories" border="0" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td align="center">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="SubCatShadow"></div>
+<div id="addSpace" style="background-color:#bc2f1d;" align="center"></div>
+<table id="SearchTable" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+      
 
 <script language="Javascript">
 function submitMainsearch()
@@ -759,265 +780,242 @@ function submitMainsearch()
 
 
 <!--### SEARCH BOX STARTS HERE ###-->
-    
-	
-			<form name="frmMainsearch" method="get" action="http://www.hollandbulbfarms.com/searchresult.asp" onsubmit="JavaScript:submitMainsearch();return false"></form>
-			<td width="2%" bgcolor="8f8d72" align="right" style="padding-left:8px"><img src="imgs/header/searchbox_text.gif" width="52" height="22" title=""></td>
-    <td width="2%" bgcolor="8f8d72" align="right"><input type="text" name="SearchWord" size="18" style="font-weight:bold; padding-left:2px;" class="content" maxlength="20" value=""></td>
-    <td width="29" bgcolor="8f8d72" align="right" valign="middle"><a href="#" onclick="JavaScript:submitMainsearch();return false"><img src="imgs/1X1clear.gif" width="3" border="0" title=""><img src="imgs/header/submit_go.gif" width="26" height="27" border="0" title=""></a></td>
-    <td width="9" bgcolor="8f8d72" align="right"><img src="imgs/1X1clear.gif" width="4" border="0" title=""></td>
+<form name="frmMainsearch" method="get" action="http://www.hollandbulbfarms.com/searchresult.asp" onsubmit="JavaScript:submitMainsearch();return false"></form>
+			<td width="2%" bgcolor="#585850" align="right"><img src="/imgs/header1_1/search_SearchText.gif" title=""></td>
+    <td width="2%" bgcolor="#585850" align="right"><input type="text" name="SearchWord" size="22" style="font-weight:bold; padding-left:2px;" class="content" maxlength="26" value=""></td>
+    <td width="29" bgcolor="#585850" align="right" valign="middle"><a href="#" onclick="JavaScript:submitMainsearch();return false"><img src="/imgs/header1_1/search_SearchButton.gif" border="0" title=""></a></td>
+    <td width="9" bgcolor="#585850" align="right"></td>
 				<input type="hidden" name="from">
 				<input type="hidden" name="FrmSearchWords">
-                <input type="hidden" name="hidSearchStringType" value="1">
+                <input type="hidden" name="hidSearchStringType" value="2">
 				<input type="hidden" name="layout" value="">
 				
-				
-				
-
+			
 			
 
 
 
-	
+
+
+    <td width="50%" align="right"><strong><a href="http://www.hollandbulbfarms.com/items.asp?Cc=CALLALILIES&amp;Bc=" style="color:#FFFFFF; font-family:Arial, Helvetica, sans-serif"><span style="color:#CC3300;">65% OFF</span> Calla Lily's</a></strong>
+	</td>
+    <td width="40%" valign="middle" align="right" style="padding-right:5px;">
+	  <a href="SpringPlantedBulbs.asp?Cc=FlowerBulbDeals&amp;Bc=&amp;layout=grid"><img src="/imgs/header/dealofweek_anim_small.gif" width="177" height="27" border="0" title=""></a></td>
   </tr>
 </tbody></table>
-
-		</div>
-          <div class="welcome_cart_text" id="Menu_right_options">
-            <div align="right" style="color:000000">  
-<!--### CART CONTENTS TABLE STARTS HERE ###-->
-
-<table border="0" cellpadding="0" cellspacing="0" width="550">
-      <tbody><tr>
-        <td width="15" valign="bottom" bgcolor="#8E8D71"><img name="cart_r1_c1" src="imgs/cart_r1_c1.jpg" width="15" height="22" border="0" id="cart_r1_c1" alt="" title=""></td>
-        <td colspan="3" bgcolor="#8E8D71"><span class="welcome_cart_text">Welcome, 
-		
-		<a href="http://www.hollandbulbfarms.com/acclogin.asp?url=AL" style="color:#FFFFFF">sign in</a>  or <a href="accregister.asp?msg=" style="color:#FFFFFF">register now!</a> </span>
-		
-		&nbsp;|</td>
-        <td width="90" bgcolor="#8E8D71"><a href="http://www.hollandbulbfarms.com/viewcart.asp?url=VC"><img name="cart_r1_c2" src="imgs/cart_viewcart.gif" width="85" height="22" border="0" id="cart_r1_c2" alt="(click me) You currently have 0 item(s) in your cart for a total of $0.00" title="(click me) You currently have 0 item(s) in your cart for a total of $0.00"></a></td>
-        <td width="106" bgcolor="#8E8D71"><a href="http://www.hollandbulbfarms.com/viewcart.asp?url=VC" style="color:#FFFFFF;"><span class="welcome_cart_text">You have 0 item(s)&nbsp;</span></a><span class="welcome_cart_text"> | </span></td>
-        <td width="89" bgcolor="#8E8D71"><a href="http://www.hollandbulbfarms.com/checkout.asp?url=CK"><img name="cart_r1_c2" src="imgs/cart_checkout.gif" width="85" height="22" border="0" id="cart_r1_c2" alt="(click ) You currently have 0 item(s) in your cart for a total of $0.00" title="(click ) You currently have 0 item(s) in your cart for a total of $0.00"></a></td>
-        <!-- <td width="100" bgcolor="#8E8D71">
-		<div align="left">
-		<strong><a href="http://www.hollandbulbfarms.com/viewcart.asp?url=VC" class="podtext style2" style="color:#FFFFFF; font-size:14px; ">
-				$0.00
-		</strong></a></div>
-	</td>-->
-          <td width="70" bgcolor="#8E8D71"><span class="welcome_cart_text"> |&nbsp; <a href="http://www.hollandbulbfarms.com/accinfo.asp?url=AI" style="color:#FFFFFF;" "=""> My Account</a></span></td>
-      </tr>
-</tbody></table>
-
-
-<!--### CART CONTENTS TABLE ENDS HERE ###-->
-</div>
-          </div>
-	    </td>
-      </tr>
-
- <!-- Future Add Space <tr><td height="0">erer</td></tr>-->
- 
- </tbody>
-</table>
-<script type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-//-->
-</script>
-
-		<div id="shippingStartsDiv" style="display:none; position:absolute; width:400px; left: 14px; top: 98px; height: 130px; filter:alpha(opacity=97); -moz-opacity:0.97; opacity: 0.97;">
-		<table cellpadding="0" cellspacing="0" border="0" width="412">
-		<tbody><tr>
-        	<td valign="top" style="BORDER:1px double; BORDER-COLOR:#000000" bgcolor="#CC3300">
-					<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center" bgcolor="#CC3300">
-						 <tbody><tr>
-						<td height="224" class="content">
-						<div align="right" class="style17 style25"><a href="#" class="style18" onclick="document.getElementById('shippingStartsDiv').style.display='none'"><span style="color:#FFFFFF"><strong>Close X</strong></span></a></div>
-						<hr color="#000000">
-						<div class="style20" style=" padding-left:10px; padding-right:10px; padding-bottom:10px;color:#FFFFFF">
-						  <p align="center" style="color:#000000"><strong>Holland Bulb Farms prides itself on our excellent   service and quality of our products. But what our customers really love is our QUICK shipping.&nbsp; Spring 2007 shipments start on   February 26, 2007 and then shipments are packed and processed on a weekly   basis.</strong></p>
-						  <hr color="#000000">
-						  <p><strong>After your order is   placed:</strong></p>
-						  <ul type="disc">
-                            <li><strong>We <u>process</u> it </strong></li>
-						    <li><strong>We <u>package</u> it </strong></li>
-						    <li><strong>We <u>ship</u> it </strong></li>
-					      </ul>
-						  <p><strong>All in 2-3 business days</strong>!!</p>
-						  </div>
-						</td>
-						</tr>
-			  </tbody></table>
-			</td>
-      </tr>
-	</tbody></table>
-</div>
-
+<div class="SubCatShadow"></div>
 <!-- END HEADER -->
 <table cellpadding="0" cellspacing="0" width="100%">
 <tbody>
 <tr>
 
+				 
 		
-    <!-- BEGIN LEFT_NAVIGATION -->
-      <td class="leftnavbody" valign="top" width="150">
-
-    <div class="">
-	  
-		
-      <div style=""></div>
-	  
-		</div>
-	<div style="padding-top:7px; padding-bottom:0px;">
-	<table id="browse_nav" cellspacing="0" cellpadding="0border=0">
-  <tbody>
-    <tr>
-      <td width="201" align="middle" class="links_title"><img src="imgs/storefront/browse_top.gif" alt="" title=""></td>
-    </tr>
-    <tr>
-      <td class="links" valign="top">
-	  
-	  <div style="padding-top:5px; padding-bottom:5px;"><a href="#" onclick="document.CustomSearch.submit(); return false;"><img src="imgs/storefront/browse_newitems.gif" border="0" title=""></a></div>
-	  <img src="imgs/storefront/browse_spring_planting.gif" width="93" height="20" title="">
-	    <ul id="navlist">	
-   
-
-		<li><a href="items.asp?Tp=&amp;iTpStatus=1&amp;Cc=Begonias&amp;layout=">Begonias </a></li>
-
-	<li><a href="items.asp?Tp=&amp;iTpStatus=1&amp;Cc=CallaLilies&amp;layout=">Calla Lilies </a></li>
-
-	<li><a href="items.asp?Tp=&amp;iTpStatus=1&amp;Cc=Cannas&amp;layout=">Cannas</a></li>
-
-	<li><a href="items.asp?Tp=&amp;iTpStatus=1&amp;Cc=Dahlias&amp;layout=">Dahlias </a></li>
-
-	<li><a href="items.asp?Cc=ELEPHANTEARS&amp;layout=">Elephant Ears / Caladiums</a></li>
-
-	<li><a class="featured" href="items.asp?Cc=FRUITS&amp;Bc=&amp;layout=">Fruits</a></li>
-
-	<li><a href="items.asp?Tp=&amp;iTpStatus=1&amp;Cc=GLADIOLI&amp;layout=">Gladiolus </a></li>
-
-	<li><a href="items.asp?Tp=&amp;iTpStatus=1&amp;Cc=Lilies&amp;layout=">Lilies </a></li>
-
-	<li><a class="featured" href="items.asp?Cc=PERENNIALS&amp;Bc=&amp;layout=">Perennials&nbsp;<img src="imgs/cat_sale_small.gif" border="0" title=""></a></li>
-
-	<li><a class="featured" href="items.asp?Cc=VEGETABLES&amp;Bc=&amp;layout=">Vegetables</a></li>
-
-	<li><a class="featured" href="items.asp?Cc=WATERPLANTS&amp;iTpStatus=0&amp;Tp=&amp;Bc=&amp;layout=">Water Plants</a></li>
-	
-	<li><a class="featured" href="items.asp?Cc=SPECIALTY&amp;iTpStatus=0&amp;Tp=&amp;Bc=&amp;layout=">Unusual &amp; Specialty Bulbs</a></li>
-	</ul>
-		
-	  <br>
-	   <img src="imgs/storefront/browse_spring_collections.gif" title="">
-	   <ul id="navlist"><li><a class="featured" href="items.asp?Cc=SYMPHONYOFCOLOR&amp;Bc=&amp;layout=">Symphony of Color</a></li>
-		  <li><a class="featured" href="items.asp?Cc=VALUEBAGSSPRING&amp;Bc=&amp;layout=">Value Bags</a></li>
-		  <li><a class="featured" href="items.asp?Cc=VIBRANTGARDENS&amp;Bc=&amp;layout=">Vibrant Garden Collections</a></li>
-	      </ul>
-		  <br>
-		  
-		  
-		  <div style="padding-bottom:5px; padding-top:4px; padding-left:3px;">
-		  <img src="imgs/storefront/browse_shop_by_color.gif" alt="To Shop By Color click below" title="To Shop By Color click below">
-		  </div>
-		  <div>
-		  <table width="70%" border="0" cellspacing="1" cellpadding="1" align="center" style="padding-bottom:10px;">
-  <tbody><tr>
-    <td><a href="#" onclick="FindByColor('Yellow'); return false;"><img src="imgs/storefront/browse_shpcolorYellow.gif" alt="Click here to view all of our ”Yellow” products." border="0" title="Click here to view all of our ”Yellow” products."></a></td>
-    <td><a href="#" onclick="FindByColor('Pink'); return false;"><img src="imgs/storefront/browse_shpcolorPink.gif" alt="Click here to view all of our ”Pink” products." border="0" title="Click here to view all of our ”Pink” products."></a></td>
-    <td><a href="#" onclick="FindByColor('White'); return false;"><img src="imgs/storefront/browse_shpcolorWhite.gif" alt="Click here to view all of our ”White” products." border="0" title="Click here to view all of our ”White” products."></a></td>
-    <td><a href="#" onclick="FindByColor('Blue'); return false;"><img src="imgs/storefront/browse_shpcolorBlue.gif" alt="Click here to view all of our ”Blue” products." border="0" title="Click here to view all of our ”Blue” products."></a></td>
-  </tr>
-  <tr>
-     <td><a href="#" onclick="FindByColor('Red'); return false;"><img src="imgs/storefront/browse_shpcolorRed.gif" alt="Click here to view all of our ”Red” products." border="0" title="Click here to view all of our ”Red” products."></a></td>
-    <td><a href="#" onclick="FindByColor('Green'); return false;"><img src="imgs/storefront/browse_shpcolorGreen.gif" alt="Click here to view all of our ”Green” products." border="0" title="Click here to view all of our ”Green” products."></a></td>
-    <td><a href="#" onclick="FindByColor('Purple'); return false;"><img src="imgs/storefront/browse_shpcolorPurple.gif" alt="Click here to view all of our ”Purple” products." border="0" title="Click here to view all of our ”Purple” products."></a></td>
-    <td><a href="#" onclick="FindByColor('Orange'); return false;"><img src="imgs/storefront/browse_shpcolorOrange.gif" alt="Click here to view all of our ”Orange” products." border="0" title="Click here to view all of our ”Orange” products."></a></td>
-  </tr>
-</tbody></table>
-
-		  </div>
-		  
-		  <a href="http://www.hollandbulbfarms.com/items.asp?Cc=AMARYL/PWHITE&amp;Bc=&amp;layout=grid"><img src="imgs/storefront/browse_clearance.gif" alt="Limited Quantity Available" width="69" height="22" border="0" title="Limited Quantity Available"></a>
-	
-			 <div style=" padding-bottom:10px; padding-top:10px; BORDER-top:  #999999 1px  dashed; ">
-		  <!-- START WhosOn CODE -->
-		  
 <script type="text/javascript" language="javascript">
 
 function FindByColor(color){
 	document.findbycolor.TxtCUSTCHAR2.value = color
 	document.findbycolor.submit()
 }
+
+function FindBySeason(season){
+	document.findbycolor.TxtCUSTCHAR3.value = season
+	document.findbycolor.submit()
+}
+
+
+function GetLightReq(){
+
+var txtBox = document.getElementById('TxtCUSTCHAR11')
+
+var txtCatName = document.getElementById('CatName')
+
+var chckBoxFull = document.getElementById("FullSun")
+var chckBoxPartial = document.getElementById("PartialSun")
+var chckBoxShade = document.getElementById("Shade")
+
+var itemsSelected = false
+
+txtBox.value = "";
+txtCatName.value = "";
+
+if (chckBoxFull.checked) {
+txtBox.value = txtBox.value + "1"
+itemsSelected = true;
+txtCatName.value = txtCatName.value + "Full Sun - ";
+}
+
+if (chckBoxPartial.checked) {
+txtBox.value = txtBox.value + "2"
+itemsSelected = true;
+txtCatName.value = txtCatName.value + "Partial Sun - ";
+}
+
+if (chckBoxShade.checked) {
+if(chckBoxPartial.checked == false) {
+txtBox.value = txtBox.value + "2"
+}
+txtBox.value = txtBox.value + "3"
+itemsSelected = true;
+txtCatName.value = txtCatName.value + "Shade - ";
+}
+
+if (itemsSelected) {
+}
+
+
+txtCatName.value = txtCatName.value + "Light Requirements";
+document.ClearanceSearch.TxtCUSTLOG1.value = "";
+document.ClearanceSearch.submit()
+
+}
+
+function FindByPrice(txtMin,txtMax){
+	document.findbycolor.txtMin.value = txtMin	
+	document.findbycolor.txtMax.value = txtMax
+	document.findbycolor.submit()
+}
+
+
+function SignupNewsletter(){
+
+var sEmail = document.getElementById('emailadd')
+
+document.newslettersignup.email_address.value = sEmail.value
+document.newslettersignup.submit()
+}
+
 </script>
 
-
-
-<script type="text/javascript" src="whoson_holland_bulb_farms.js"></script><a target="_blank" href="https://hosted6.whoson.com/chat/chatstart.htm?domain=www.hollandbulbfarms.com&amp;lang=en" onclick="javascript:window.open('https://hosted6.whoson.com/chat/chatstart.htm?domain=www.hollandbulbfarms.com&amp;lang=en','new_win','width=484,height=361');return false;"><img border="0" src="https://gateway6.whoson.com/stat.gif?u=&amp;d=www.hollandbulbfarms.com&amp;p='https%3A//web.archive.org/web/20070223160535id_/http%253A//www.hollandbulbfarms.com/privacy.asp'&amp;r=''&amp;response=g" title=""></a><script language="Javascript" src="https://gateway6.whoson.com/invite.js?domain=www.hollandbulbfarms.com"></script>
-	  <!-- END WhosOn CODE -->
-	</div>
-		<br>
-	<br>
-	   
+      
+    <!-- BEGIN LEFT_NAVIGATION -->
+      <td class="leftnavbody" valign="top" width="150" bgcolor="a79c6f" style="border-right:solid 1px #726d5b; border-top:solid 1px #726d5b;">
 	
-	<div align="center"><a href="security.asp?layout="><img src="imgs/storefront/browse_safe_secure.gif" border="0" title=""></a></div>
-	
-	<div id="certificates" align="center" style="padding-top:10px">
-	<div>
-	<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.hollandbulbfarms.com"><img border="0" src="//images.scanalert.com/meter/www.hollandbulbfarms.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" title="HACKER SAFE certified sites prevent over 99.9% of hacker crime."></a>
-	</div>
-	<div style="padding-top:5px;"><script language="JavaScript" src="includes/trustlogo.js"></script>
-	  	<script type="text/javascript">TrustLogo("imgs/credit_card_site.gif", "SC", "none");</script><a href="javascript:if(window.open('https://secure.comodo.net/ttb_searcher/trustlogo?v_querytype=W&amp;v_shortname=SC&amp;v_search=https://web.archive.org/web/20070223160535id_/http%25253A//www.hollandbulbfarms.com/privacy.asp&amp;x=6&amp;y=5','tl_wnd_credentials'+(new Date()).getTime(),'toolbar=0,scrollbars=1,location=1,status=1,menubar=1,resizable=1,width=450,height=500,left=60,top=120')){};tLlB(tLTB);" onmouseover="tLeB(event,'https://secure.comodo.net/ttb_searcher/trustlogo?v_querytype=C&amp;v_shortname=SC&amp;v_search=https://web.archive.org/web/20070223160535id_/http%25253A//www.hollandbulbfarms.com/privacy.asp&amp;x=6&amp;y=5','tl_popupSC')" onmousemove="tLXB(event)" onmouseout="tLTC('tl_popupSC')" ondragstart="return false;"><img src="imgs/credit_card_site.gif" border="0" onmousedown="return tLKB(event,'https://secure.comodo.net/ttb_searcher/trustlogo?v_querytype=W&amp;v_shortname=SC&amp;v_search=https://web.archive.org/web/20070223160535id_/http%25253A//www.hollandbulbfarms.com/privacy.asp&amp;x=6&amp;y=5');" oncontextmenu="return tLLB(event);" title=""></a><!----><div id="tl_popupSC" name="tl_popupSC" style="position:absolute;z-index:0;visibility: hidden;background-color: transparent;overflow:hidden;" onmouseover="tLoB('tl_popupSC')" onmousemove="tLpC('tl_popupSC')" onmouseout="tLpB('tl_popupSC')">&nbsp;</div>
-	</div>
-	<div style="padding-top:5px;">
-	<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.hollandbulbfarms.com&amp;lang=en" target="_blank"><img src="imgs/verisign_services.gif" alt="Payment Services Provided Securely By VeriSign" border="0" title="Payment Services Provided Securely By VeriSign"></a>
-	</div>
-	<div style="padding-top:5px;">
-	<a href="http://www.bbbonline.org/cks.asp?id=10611061589327" target="_blank"><img src="imgs/BBB_alone.gif" border="0" title=""></a> 
-	</div>
-<br>
-</div>
-	
-
-		<p>
-		</p><div style="BORDER-top:  #999999 1px  dashed; BORDER-bottom:  #999999 1px  dashed;  padding-left:6px;">
-	    <img src="imgs/storefront/browse_siteinfo.gif" title=""></div>
-	      <ul id="browse_siteinfo_nav" style="padding-left:5px;">	
-		<li><a href="catalogRequest.asp?layout=">Catalog Sign Up</a></li>
-		<li><a href="contact.asp?layout=">Contact Us</a></li>
-	    <li><a href="help.asp?layout=">Help Center </a><a href="#"></a></li>
-	    <li><a href="accLogin.asp?layout=">Login</a><a href="#"></a></li>
-	    <li><a href="privacy.asp?layout=">Privacy Policy</a></li>
-	    <li><a href="items.asp?Cc=GiftCard&amp;layout=">Buy Gift Certificates</a></li>
-	   </ul>
-		<p></p>  
-
-	    </td>
+	<div style=" background-color:#a79c6f; width:164px">
+    
+	<img src="imgs/header1_1/left_nav_BrowseText.gif" width="164" height="22" title="">	  
+	<table id="browse_na" cellspacing="0" cellpadding="0" border="0" style="padding-left:10px;">
+  <tbody>
+    <tr>
+      <td width="201" align="middle" class="links_title"> </td>
     </tr>
     <tr>
-      <td class="links_title" align="middle"><img src="imgs/storefront/browse_bottom.gif" alt="Shop by Size" title="Shop by Size"></td>
+      <td class="links" valign="top">
+	 	  		 
+	 <div style="padding-bottom:1px; padding-top:6px;">
+		    <img src="imgs/header1_1/left_nav_shopPrice.gif" title="">		  </div>
+	<div style="padding-bottom:10px; padding-top:0px; padding-left:19px; color:#FFFFFF; font-size:12px; font-family:Arial, Helvetica, sans-serif">
+	  <a href="#" onclick="FindByPrice(0,5)" style="color:#FFFFFF">less than $5</a><br>
+	  <a href="#" onclick="FindByPrice(5,10)" style="color:#FFFFFF"> $5 - 10</a> <br>
+	  <a href="#" onclick="FindByPrice(10,15)" style="color:#FFFFFF">$10 - 15</a> <br>
+	  <a href="#" onclick="FindByPrice(15,25)" style="color:#FFFFFF">$15 - 25</a> <br>
+	  <a href="#" onclick="FindByPrice(25,50)" style="color:#FFFFFF">$25 - 50</a> <br>
+	  <a href="#" onclick="FindByPrice(50,999)" style="color:#FFFFFF">more than $50</a><br>
+	</div>
+		  
+
+	   <div style="padding-top:2px; padding-bottom:2px;">
+		    <img src="imgs/header1_1/left_nav_shopBloomSeason.gif" title=""></div>
+			<div style="padding-left:15px;">
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td style="padding-top:2px; padding-bottom:4px;">
+		  <select name="TxtCUSTCHAR3" onchange="FindBySeason(this.value)">
+            <option>Select</option>
+             <option value="Early Summer">Early Summer</option>
+             <option value="May to July">May to July</option>
+            <option value="June to July">June to July</option>
+             <option value="June to August">June to August</option>
+            <option value="June to Frost">June to Frost</option>
+            <option value="July to Frost">July to Frost</option>
+          </select>
+          </td>
+          </tr>
+        
+      </tbody></table>
+	  </div>
+
+
+		  
+		  <div style="padding-top:14px;">
+		    <img src="imgs/header1_1/left_nav_shopColor.gif" alt="To Shop by Color click below." title="To Shop by Color click below.">		  </div>
+		  <div>
+ <table width="75%" border="0" cellspacing="1" cellpadding="1" align="center" style="padding-bottom:10px; padding-left:7px;">
+  <tbody><tr>
+    <td><a href="#" onclick="FindByColor('Yellow'); return false;"><img src="imgs/storefront/browse_shpcolorYellow.gif" alt="View all ”Yellow” flower bulbs." border="0" title="View all ”Yellow” flower bulbs."></a></td>
+    <td><a href="#" onclick="FindByColor('Pink'); return false;"><img src="imgs/storefront/browse_shpcolorPink.gif" alt="View all ”Pink” flower bulbs." border="0" title="View all ”Pink” flower bulbs."></a></td>
+    <td><a href="#" onclick="FindByColor('White'); return false;"><img src="imgs/storefront/browse_shpcolorWhite.gif" alt="View all ”White” flower bulbs." border="0" title="View all ”White” flower bulbs."></a></td>
+    <td><a href="#" onclick="FindByColor('Blue'); return false;"><img src="imgs/storefront/browse_shpcolorBlue.gif" alt="View all ”Blue” flower bulbs." border="0" title="View all ”Blue” flower bulbs."></a></td>
+  </tr>
+  <tr>
+     <td><a href="#" onclick="FindByColor('Red'); return false;"><img src="imgs/storefront/browse_shpcolorRed.gif" alt="View all ”Red” flower bulbs." border="0" title="View all ”Red” flower bulbs."></a></td>
+    <td><a href="#" onclick="FindByColor('Green'); return false;"><img src="imgs/storefront/browse_shpcolorGreen.gif" alt="View all ”Green” flower bulbs." border="0" title="View all ”Green” flower bulbs."></a></td>
+    <td><a href="#" onclick="FindByColor('Purple'); return false;"><img src="imgs/storefront/browse_shpcolorPurple.gif" alt="View all ”Purple” flower bulbs." border="0" title="View all ”Purple” flower bulbs."></a></td>
+    <td><a href="#" onclick="FindByColor('Orange'); return false;"><img src="imgs/storefront/browse_shpcolorOrange.gif" alt="View all ”Orange” flower bulbs." border="0" title="View all ”Orange” flower bulbs."></a></td>
+  </tr>
+</tbody></table>
+		  </div>		  </td>
     </tr>
+    <tr>
+      <td class="links" valign="top">	  
+	   <div style="padding-top:14px; padding-bottom:2px;">
+		    <img src="imgs/header1_1/left_nav_shopSun.gif" alt="Select Light Requirements Below" title="Select Light Requirements Below"></div>
+			<div style="padding-left:15px;">
+	   <table width="108" border="0" cellspacing="0" cellpadding="0" style="padding-top:2px;">
+         <tbody><tr>
+           <td width="38"><div align="center"><a href="custom_search.asp?sCatDesc=Full Sun Flower Bulbs&amp;hidSearchStringType=1&amp;TxtCUSTCHAR11=1&amp;txtMin=&amp;txtMax=&amp;radSort=1"><img src="imgs/header1_1/left_nav_shopSunFull.gif" border="0" title=""></a>
+         
+           </div></td>
+           <td width="38"><div align="center"><a href="custom_search.asp?sCatDesc=Partial Sun Flower Bulbs&amp;hidSearchStringType=1&amp;TxtCUSTCHAR11=12&amp;txtMin=&amp;txtMax=&amp;radSort=1"><img src="imgs/header1_1/left_nav_shopSunHalf.gif" alt="Partial Shade Flower Bulbs" border="0" title="Partial Shade Flower Bulbs"></a>
+            
+           </div></td>
+           <td width="32"><div align="center"><a href="custom_search.asp?sCatDesc=Partial Sun Flower Bulbs&amp;hidSearchStringType=1&amp;TxtCUSTCHAR11=23&amp;txtMin=&amp;txtMax=&amp;radSort=1"><img src="imgs/header1_1/left_nav_shopSunNone.gif" alt="Shade Flower Bulbs" border="0" title="Shade Flower Bulbs"></a>
+           </div></td>
+           </tr>
+         <tr>
+            <td align="center" colspan="3" style="padding-bottom:14px; padding-top:4px;">&nbsp;</td>
+         </tr>
+           
+           
+       </tbody></table>
+	   </div>	   </td>
+    </tr>
+ 
   </tbody>
 </table>
 		</div>
+	  <div style="background-color:a79c6f; width:164px; padding-top:9px;">
+	  <img src="imgs/header1_1/left_nav_newsletter.gif" alt="" title="">
+	  <div style="padding-left:4px; padding-top:1px;" class="CtSmallBold">Sign Up and Save!</div>
+	  <div style="padding-left:4px; font-size:10px;" class="contsmall">Special savings, tips and invite only pricing e-mailed to you.</div>
+	  <div style="padding-left:4px; padding-top:2px; font-size:11px; font-weight:bold; color:#dee3d8">Enter Your E-Mail Address</div>
+	  <div style="padding-left:4px; padding-top:2px;"><input name="emailadd" id="emailadd" type="text" value="" tabindex="49" size="25" maxlength="50" class="smallform"></div>
+	  <div style="padding-left:4px; padding-top:4px; padding-bottom:7px;"><a href="#" onclick="SignupNewsletter(); return false;"> <img src="imgs/header1_1/left_nav_newsletter_submit.gif" alt="Sign up Now" border="0" title="Sign up Now"></a></div>
+	  </div>
+
+	  <div style="background-color:a79c6f; width:164px; padding-top:14px;">
+	   <img src="imgs/header1_1/left_nav_customerservice.gif" alt="" title="">
+	   <div style="padding-left:4px; padding-top:4px; padding-bottom:7px;">
+	<a onclick="javascript:window.open('https://hosted8.whoson.com/chat/chatstart.htm?domain=www.hollandbulbfarms.com','new_win','width=484,height=361');return false;" href="https://hosted8.whoson.com/chat/chatstart.htm?domain=www.hollandbulbfarms.com" target="_blank">
+	   <img src="imgs/header1_1/left_nav_chatphone.gif" border="0" alt="" title="">
+	   </a>
+	   </div>
+	  </div>
+	  
+	  <div style="padding-top:24px;" align="center"><a href="items.asp?Cc=FlowerBulbDeals&amp;Bc=&amp;layout=grid"><img src="imgs/dealofweek/nav_add.gif" border="0" title=""></a></div>
+	  
+	   <div style="padding-top:14px;" align="center"><a href="items.asp?Cc=GiftCard&amp;iTpStatus=0&amp;Tp=&amp;Bc=&amp;layout="><img src="imgs/nav_add_giftcard.gif" border="0" title=""></a></div>
+
+  
 		
-		 <form name="findbycolor" method="post" action="http://www.hollandbulbfarms.com/itemsSort.asp?Tp=&amp;srtColor=t" onsubmit="return false;">
+		
+
+<form method="post" action="http://oi.vresp.com?fid=66740da27e" target="vr_optin_popup" name="newslettersignup" onsubmit="window.open( 'http://www.verticalresponse.com', 'vr_optin_popup', 'scrollbars=yes,width=600,height=450' ); return true;">
+<input name="email_address" type="hidden" value="" tabindex="49" size="25" maxlength="50" class="smallform">
+</form>
+
+		
+		<form name="findbycolor" method="post" action="http://www.hollandbulbfarms.com/itemsSort.asp?Tp=&amp;srtColor=t" onsubmit="return false;">
 		<input type="hidden" name="PageNo">
         <input type="hidden" name="txtCode" value="">
         <input type="hidden" name="txtKey" value="">
@@ -1026,14 +1024,14 @@ function FindByColor(color){
         <input type="hidden" name="selCategory" value="">
         <input type="hidden" name="txtMin" value="">
         <input type="hidden" name="txtMax" value="">
-        <input type="hidden" name="radSort" value="1">
+        <input type="hidden" name="radSort" value="3">
         <input type="hidden" name="sCatDesc" value="All Categories">
         <input type="hidden" name="sManDesc" value="All Manufacturers">
         <input type="hidden" name="sBrandDesc" value="All Brands">
         <input type="hidden" name="txtModel" value="">
 		<input type="hidden" name="TxtCUSTCHAR2" value="">
+		<input type="hidden" name="TxtCUSTCHAR3" value="">
 		<input type="hidden" name="layout" value="">
-		
 		</form>
 		
 		
@@ -1054,7 +1052,8 @@ function FindByColor(color){
 <input type="hidden" name="sBrandDesc" value="All Brands">
 <input type="hidden" name="txtModel" value="">
 <input type="hidden" name="TxtCUSTLOG1" value="T">
-<input type="hidden" name="CatName" value="New Items">
+<input type="hidden" name="CatName" id="CatName" value="Clearance Items">
+<input type="hidden" name="TxtCUSTCHAR11" id="TxtCUSTCHAR11" value="">
 </form>	
 </td>
 
@@ -1134,10 +1133,11 @@ function FindByColor(color){
     <td><div style="background:#FFFFFF; width:168px; padding-top:9px; padding-bottom:9px; padding-right:12px;">
       <div class="smallfootertext" style="padding-left:8px;"><strong><img src="imgs/footer_shopcart.gif" width="15" height="14" title=""><span class="podtext">shop</span></strong>
 	  	<div style="padding-left:5px;">
+		<img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="all_products.asp" class="podtext">view all products</a><br>
 		<img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="items.asp?shopBrandStatus=0&amp;url=IND" class="podtext">view all categories</a><br>
 	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="ship.asp#shippingcharges" class="podtext">shipping and delivery</a><br>
-	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="guarantee.asp" class="podtext">satisfaction gaurantee</a><br>
-	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="viewcart.asp?url=VC" class="podtext">shopping cart</a></div>
+	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="guarantee.asp" class="podtext">satisfaction guarantee</a><br>
+	  	</div>
 	  </div> 
     </div></td>
     <td width="2"></td>
@@ -1158,7 +1158,7 @@ function FindByColor(color){
 	  	<div style="padding-left:5px;">
 		<img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="ordtrack.asp" class="podtext">order tracking</a><br>
 	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="privacy.asp" class="podtext">privacy policy</a><br>
-	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="security.asp" class="podtext">safe shopping gaurantee</a><br>
+	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="security.asp" class="podtext">safe shopping guarantee</a><br>
 	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="ship.asp#Payments" class="podtext">payment methods</a></div>
 	  </div> 
     </div>	</td>
@@ -1167,10 +1167,12 @@ function FindByColor(color){
 		<div style="background:#FFFFFF; width:168px; padding-top:9px; padding-bottom:9px; padding-right:12px;">
       <div class="smallfootertext" style="padding-left:8px; padd"><strong><img src="imgs/footer_questionmark.gif" width="17" height="14" title=""><span class="podtext">learn </span></strong>
 	  	<div style="padding-left:5px;">
-		<img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="learn.asp" class="podtext">our on-line shop</a><br>
+		
 	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="help.asp" class="podtext">faq's</a><br>
 	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="zones.asp" class="podtext">hardiness zone finder </a><br>
-	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="contact.asp?url=CT" class="podtext">contact us</a></div>
+	  	  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="contact.asp?url=CT" class="podtext">contact us</a><br>
+		  <img src="imgs/pod_bullet.gif" width="9" height="6" title=""><a href="/rss/sitemap.html" class="podtext">site map</a>
+		  </div>
 	  </div> 
     </div>	</td>
   </tr>
@@ -1181,7 +1183,7 @@ function FindByColor(color){
 			<img src="imgs/arrow_green.gif" border="0" title="">
 			<strong><span class="podtext">have questions or comments</span></strong>
 		</div>
-		<div id="contactpodTextArea" class="smallfootertext" style="padding-left:20px; padding-top:1px"> you may call <nobr>800-689-BULB (2852)</nobr>, <a href="contact.asp"><strong>contact us</strong></a> , or just give us some <a onclick="window.open('popup_form.asp?msg=2','contactWindow','height=499,width=399,status=yes,toolbar=no,menubar=no,location=no');return false;" href="#"><strong>feedback</strong></a> on or store </div>
+		<div id="contactpodTextArea" class="smallfootertext" style="padding-left:20px; padding-top:1px"> you may call <nobr>800-689-BULB (2852)</nobr>, <a href="contact.asp"><strong>contact us</strong></a> , or just give us some <a onclick="window.open('popup_form.asp?msg=2&amp;url=/privacy.asp?','contactWindow','height=499,width=399,status=yes,toolbar=no,menubar=no,location=no');return false;" href="#"><strong>feedback</strong></a> on our store </div>
 	</div>
 	</td>
     <td></td>
@@ -1208,14 +1210,26 @@ function FindByColor(color){
   </tbody>
 </table>
 <div align="center" style="padding-top:6px; padding-bottom:2px;">
-<table width="100%">
-  <tbody><tr>
-    <td width="425" style="font-size:.6em"><a onclick="window.open('popup_form.asp?msg=1','contactWindow','height=466,width=399,status=yes,toolbar=no,menubar=no,location=no');return false;" href="#">What's wrong with this page? (let us know) </a></td>
-    <td width=""></td>
+  <table width="100%"><tbody><tr><td width="" style="font-size:.6em"><center>
+    <table width="100%">
+      <tbody><tr>
+        <td width="433" style="font-size:.6em"><a onclick="window.open('popup_form.asp?msg=1&amp;url=/privacy.asp?','contactWindow','height=466,width=399,status=yes,toolbar=no,menubar=no,location=no');return false;" href="#">What's wrong with this page? (let us know) </a></td>
+        <td width="732" style="font-size:.7em" align="center">
+		
+   
+        <img src="/imgs/cc_certs.jpg" width="167" height="67" align="middle" title="">&nbsp;&nbsp;
+              <a href="https://www.shopzilla.com/ratings_guide/cust_reviews__mid--155663.html" target="https://www.shopzilla.com"><img src="https://medals.bizrate.com/medals/dynamic/155663_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" border="0" target="_blank" align="middle" title="BizRate Customer Certified (GOLD) Site"></a>
+       &nbsp; &nbsp;
+       <script language="JavaScript" src="includes/trustlogo.js"></script>
+                  <script type="text/javascript">TrustLogo("imgs/commodo85px.gif", "SC", "none");</script><a href="javascript:if(window.open('https://secure.comodo.net/ttb_searcher/trustlogo?v_querytype=W&amp;v_shortname=SC&amp;v_search=https://web.archive.org/web/20080605150607id_/http%25253A//www.hollandbulbfarms.com/privacy.asp&amp;x=6&amp;y=5','tl_wnd_credentials'+(new Date()).getTime(),'toolbar=0,scrollbars=1,location=1,status=1,menubar=1,resizable=1,width=450,height=500,left=60,top=120')){};tLlB(tLTB);" onmouseover="tLeB(event,'https://secure.comodo.net/ttb_searcher/trustlogo?v_querytype=C&amp;v_shortname=SC&amp;v_search=https://web.archive.org/web/20080605150607id_/http%25253A//www.hollandbulbfarms.com/privacy.asp&amp;x=6&amp;y=5','tl_popupSC')" onmousemove="tLXB(event)" onmouseout="tLTC('tl_popupSC')" ondragstart="return false;"><img src="imgs/commodo85px.gif" border="0" onmousedown="return tLKB(event,'https://secure.comodo.net/ttb_searcher/trustlogo?v_querytype=W&amp;v_shortname=SC&amp;v_search=https://web.archive.org/web/20080605150607id_/http%25253A//www.hollandbulbfarms.com/privacy.asp&amp;x=6&amp;y=5');" oncontextmenu="return tLLB(event);" title=""></a><!----><div id="tl_popupSC" name="tl_popupSC" style="position:absolute;z-index:0;visibility: hidden;background-color: transparent;overflow:hidden;" onmouseover="tLoB('tl_popupSC')" onmousemove="tLpC('tl_popupSC')" onmouseout="tLpB('tl_popupSC')">&nbsp;</div>
+       </td>
+        <td width="387"></td>
+        <td width="34">&nbsp;</td>
+      </tr>
+    </tbody></table>
+  </center></td>
 	
-	<td width="276"></td>
-    <td width="34">&nbsp;</td>
-  </tr>
+	</tr>
 </tbody></table>
 </div>
   </form>
@@ -1233,7 +1247,20 @@ _uacct = "UA-648404-3";
 urchinTracker();
 </script>
 
-<!--Everest E-Commerce Advanced Edition : Enterprise version-V3.0720.00000.162.00000.162.00000 ,ASP version-V3.0720.00000.162.00000.162.00000-->
+<!--HitTail Code--><script src="https://16058.hittail.com/mlt.js" type="text/javascript"></script><!--End HitTail Code-->
+
+
+ <!-- START WhosOn CODE -->
+<script type="text/javascript" src="whoson_holland_bulb_farms_trackingonly.js"></script><div id="WhosOn" style="position:absolute;visibility:hidden;"><img src="https://gateway6.whoson.com/stat.gif?u=&amp;d=www.hollandbulbfarms.com&amp;p='https%3A//web.archive.org/web/20080605150607id_/http%253A//www.hollandbulbfarms.com/privacy.asp'&amp;r=''" height="1" width="1"></div><script language="Javascript" src="https://gateway6.whoson.com/invite.js?domain=www.hollandbulbfarms.com"></script>
+	  <!-- END WhosOn CODE -->
+	<!-- MS ADCENTER -->  
+	  <script language="javascript" type="text/javascript" src="https://analytics.live.com/Analytics/msAnalytics.js"></script>
+<script language="javascript" type="text/javascript">
+	msAnalytics.ProfileId = 'C8FD';
+	msAnalytics.TrackPage();
+</script>
+
+
 	
 
 </body></html>
