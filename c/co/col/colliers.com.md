@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colliers.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211102047id_/http%3A//www.colliers.com/Corporate/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colliers.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605181746id_/http%3A//www.colliers.com/Corporate/Privacy) for the most accurate reproduction.*
 
 # Colliers International: Privacy Policy
 
