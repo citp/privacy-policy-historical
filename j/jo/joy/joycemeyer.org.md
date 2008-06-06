@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joycemeyer.org privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224042157id_/http%3A//www.joycemeyer.org/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joycemeyer.org privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607013317id_/http%3A//www.joycemeyer.org/Privacy.htm) for the most accurate reproduction.*
 
 # Joyce Meyer Ministries — Privacy Policy
 
@@ -98,7 +98,10 @@ ____ |
 
   *  
 
-| Email - [info@joycemeyer.org](mailto:info@joycemeyer.org)  
+| 
+
+Email - [info@joycemeyer.org](mailto:info@joycemeyer.org)  
+  
 ---|---|---  
 | 
 
@@ -112,7 +115,9 @@ ____ |
 
   *  
 
-| Phone - 1-800-727-9673 or (636) 349-0303  
+| 
+
+Phone - 1-800-727-9673 or (636) 349-0303  
   
 **Changes to This Privacy Policy**
 
