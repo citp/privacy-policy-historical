@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthome.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204191144id_/http%3A//www.smarthome.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthome.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607013043id_/http%3A//www.smarthome.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Information Use Policy
 
@@ -53,6 +53,8 @@ In order to process your order efficiently or to send you the correspondence you
 **Use of Cookies**
 
 * SMARTHOME.com uses "cookies," small files stored by your browser to store the contents of your shopping basket between visits.   
+
+* We also use cookies for site traffic information, to indicate your account login status as well as remembering your search and navigation preferences.   
 
 * Most web browsers automatically accept cookies, but you can usually change your browser settings to prevent cookies. If you disable cookies on your browser, our shopping basket will not be able to log you in, so please phone your order in at 1-800-SMARTHOME (800-762-7846).
 
