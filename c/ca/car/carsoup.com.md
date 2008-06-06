@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsoup.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612070147id_/http%3A//www.carsoup.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsoup.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606063206id_/http%3A//www.carsoup.com/about/privacy.asp) for the most accurate reproduction.*
 
 # CarSoup - Buy, Research, Sell cars on CarSoup.com. Pricing on new and used vehicles in the Minneapolis - St. Paul area.
 
