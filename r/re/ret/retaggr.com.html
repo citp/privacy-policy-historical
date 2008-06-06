@@ -1,0 +1,359 @@
+<!--The following is the downloaded HTML source of the retaggr.com privacy policy that was archived on 2008-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080607001304id_/http%3A//www.retaggr.com/Home/Privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><title>
+	retaggr - your online presence everywhere
+</title><link rel="shortcut icon" href="/favicon.ico"><link href="/Content/Site.css?css0.58" rel="stylesheet" type="text/css"><!--[if lt IE 7]><link href="/Content/SiteIE.css?css0.58" rel="stylesheet" type="text/css" /><![endif]-->
+    
+    <script language="javascript" type="text/javascript" src="/Script/jquery.all.js?20080604"></script>
+	<script language="javascript" type="text/javascript" src="/Script/common.js?js0.3"></script>
+	<link href="http://blog.retaggr.com/?feed=rss2" title="RSS 2.0" type="application/rss+xml" rel="alternate"><link href="http://blog.retaggr.com/?feed=rss" title="RSS .92" type="text/xml" rel="alternate"><link href="http://blog.retaggr.com/?feed=atom" title="Atom 0.3" type="application/atom+xml" rel="alternate"><meta content="widgets, business card, social card, profiles, identity, image tagging, webmaster tool, blog" name="keywords"><meta content="Aggregate all your online profiles and widgets into one interactive Profile Card that can be embedded anywhere." name="description">
+<script type="text/javascript" language="javascript">
+
+$j(document).ready( function(){
+	
+	
+	
+	$j('#pageErrorMessage button, #pageSuccessMessage button').click( function(){
+		$j('#pageErrorMessage, #pageSuccessMessage').hide();
+	});
+
+	$j('div.round').corner();
+
+	if ($j("#frmMasterLogin").length > 0){
+		$j("#frmMasterLogin").bind("invalid-form.validate", function(e, validator) {
+			var errors = validator.numberOfInvalids();
+			if (errors) {
+				var message = errors == 1
+					? 'You missed 1 field. It has been highlighted below'
+					: 'You missed ' + errors + ' fields.  They have been highlighted below';
+				$j("#divShareNote div.errorMessage span:nth-child(2)").html(message);
+				$j("#divShareNote div.errorMessage").show();
+				return false;
+			} else {
+				$j("#divShareNote div.errorMessage").hide();
+			}
+			return true;
+		}).validate({
+			/*errorClass : 'error', */
+			rules : {
+				email : { 
+					required : true
+				},
+				password : {
+					required: true
+				}
+			}, 
+			messages : {
+				email : {
+					required : '*'
+				},
+				password : {
+					required : '*'
+				}			
+			}
+			,
+			submitHandler: function(form) {
+				$j('#cmdSubmit').hide();
+				$j('#imgLoginWait').show();
+				$j(form).ajaxSubmit({
+					success: function(response, success) {
+						var data = Eval(response);
+						if (data.success) {
+							if (data.redirectUrl == null)
+								window.location.refresh();
+							else
+								window.location = data.redirectUrl;
+						} else {
+							window.location = "/Login?error=" + data.responseCode + "&returnurl=" + escape(window.location);
+						}
+					}
+				});
+				return true;
+			}
+		});
+	}
+});
+</script>
+
+
+
+</head>
+<body>
+<div id="container">
+	
+	
+
+<div class="middle" id="header" style="padding-top:10px;">
+	
+		<div class="loginBox">
+			<form action="/Security/Authenticate" method="post" id="frmMasterLogin">
+				<table class="loginTable">
+				<tbody><tr>
+					<td><label for="userName">Email:</label></td>
+					<td>
+						<input type="text" name="email" style="width:150px">
+					</td>
+					</tr>
+					<tr>
+						<td><label for="password" style="text-align:right">Password:</label> </td>
+						<td>
+						<input type="password" name="password" style="width:150px">
+						</td>
+					</tr>
+					<tr>
+						<td>Remember Me:</td>
+						<td align="right">
+							
+							<div style="float:left">
+								<input type="checkbox" name="rememberMe" value="true">
+							</div>
+							<button type="submit" name="cmdSubmit" id="cmdSubmit">Login</button>
+							<img id="imgLoginWait" style="display:none;margin-right:10px" src="/Content/images/fetching.gif" title="Please wait">
+							<a href="/Login?error=FORGOTPASSWORD">Forgot Password?</a>
+						</td>
+					</tr>
+	
+				</tbody></table>
+			</form>			
+		</div>
+		
+	
+
+	<div style="margin-bottom:10px;display:inline">
+		<a href="/Home"> <img src="/Content/images/retaggrLogo.png" title="Home" width="161" height="45"></a>
+	</div><br>
+
+
+	<div id="tabsAndSearch" style="margin-top:10px;">
+		<div style="float:left">
+			<div class="nav">
+				<ul>
+					<li><a href="/Home">Home</a></li>
+					
+						<li>
+							<b><a href="/Register">Sign up</a></b>
+						</li>
+					
+					
+					<li>
+						<a href="/Home/Search">Find People</a>
+					</li>
+					
+					<li>
+						<a href="/FAQ">FAQ</a>
+					</li>
+					
+				</ul>
+			</div>	
+		</div>	
+	</div>
+
+</div>
+
+<div style="clear:both;height:3px"></div>
+
+<div id="body">
+	<div class="fullStrip clearfix">
+		<div class="middle">
+			
+	<h1>Privacy Policy Statement</h1>
+	Last updated on 05 June 2008
+
+			<div class="clear"></div>
+		</div>
+	</div>
+
+	<div class="middle clearfix">
+		<div id="pageErrorMessage">
+			<div class="message"></div>
+			<button style="width:50px;margin-top:10px">OK</button>
+		</div>
+		<div id="pageSuccessMessage">
+			<div class="message"></div>
+			<button style="width:50px;margin-top:10px">OK</button>
+		</div>            
+
+		
+
+
+<div class="Section1">
+
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">Retaggr.com collects your email address as part of the retaggr
+service. We will never rent or sell your email address. We hate spam as much as
+you do.</span></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">&nbsp;</span></p>
+
+
+<p class="MsoNormal"><b><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">Your Profile Card</span></b></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">The retaggr system allows you to create a “Profile Card”.&nbsp; This
+information will always include your full name, and may also contain any personal
+information that you have entered into retaggr, including (but not limited to) information
+from third party systems that you have allowed retaggr to access, images of
+you, your biography, contact details, and other personal information.</span></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">&nbsp;</span></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">This information will be available, and potentially displayed on
+all retaggr enabled websites, or anywhere where your Profile Card is embedded.</span></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">&nbsp;</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">Information Collection and Use</span></b></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">retaggr will not use the personal information you or other sites
+have provided, for purposes other than display on the retaggr site and other
+retaggr enabled sites.</span></p>
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:-18.0pt"><span style="font-size:11pt;font-family:Symbol;color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">If you have chosen to opt-in to email notifications, you may
+periodically receive emails from retaggr.</span></p>
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:-18.0pt"><span style="font-size:11pt;font-family:Symbol;color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">Others may enter your email address to invite you to join the
+retaggr community. retaggr may use your email address to invite you to join
+retaggr.</span></p>
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:-18.0pt"><span style="font-size:11pt;font-family:Symbol;color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">Others may use a third party communication system to identify
+you.&nbsp; retaggr may use said system to invite you to join retaggr.</span></p>
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:-18.0pt"><span style="font-size:11pt;font-family:Symbol;color:black">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">Others may “tag” you in images.&nbsp; Retaggr may use your email
+address, and/or other third party communication systems, to inform you about
+these tags.</span></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">&nbsp;</span></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">If you wish to change the way information in your retaggr card is
+displayed, you may log in to your retaggr account and adjust your communication
+preferences. </span></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">&nbsp;</span></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">You may completely remove your retaggr card from all retaggr
+enabled sites by terminating your account.</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">Retrieving information from third party accounts</span></b></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">If you choose to allow retaggr to interact with third party
+systems you will be requested to provide login information for this third party
+account. Your password will not be stored on the retaggr servers and will only
+be used for the request. </span></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">Any details retrieved will only be used to automate your use of
+retaggr and will never be shared, sold or rented.</span></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">&nbsp;</span></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+
+<p class="MsoNormal"><b><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">Changes to this Privacy Policy</span></b></p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">retaggr may update this privacy policy at any time and for any reason. 
+If there are major changes to how we handle your personal information, we will send notification to the primary registered email address against your account,
+or by placing an easily accessible notice on our site of such changes. 
+If you do not agree to abide by any changes made in the privacy policy, you may remedy the situation by deleting your account and ceasing to use retaggr in the future. </span></p>
+
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><span style="font-size:11pt;font-family:&quot;Lucida Grande&quot;;
+color:black">We take your privacy seriously and you are always in control to
+decide which of your details should be visible on your public retaggr card. If
+you have any questions regarding our policy, email us at <a href="mailto:privacy@retaggr.com">privacy@retaggr.com</a>.</span></p>
+
+
+
+
+
+</div>
+
+
+
+
+	</div>
+</div>
+
+<div id="footer">
+	<!-- AddThis Button BEGIN -->
+<a href="http://www.addthis.com/bookmark.php" onclick="addthis_url  = 'http://www.retaggr.com'; addthis_title = 'retaggr'; addthis_logo  = 'http://www.retaggr.com/Content/images/retaggrLogo.png'; return addthis_click(this);" target="_blank">
+<img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" border="0" alt="Bookmark and Share" style="vertical-align:baseline"></a> 
+<script type="text/javascript">var addthis_pub = 'niksmit';</script><script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script>  
+<!-- AddThis Button END -->
+<br><br>
+	
+	<b><a href="http://blog.retaggr.com/" target="_blank">blog</a></b>
+	|
+	<b><a href="http://twitter.com/retaggr/" target="_blank">twitter</a></b>
+	|
+	<b><a href="http://blog.retaggr.com/?page_id=2" target="_blank">about us</a></b>
+	|
+	<a href="/Contact">contact</a>
+	|
+	<a href="/FAQ">faq</a>
+	|
+	<a href="/Home/Terms">terms and conditions</a>
+	|
+	<a href="/Home/Privacy">privacy</a>
+	
+	
+
+	<br>
+	<br>
+	Version 1.0.0.28817
+	|
+	copyright © 2008 retaggr | thumbnail images copyright their respective owners
+	
+</div>
+<div style="display:none">
+	<img src="/Content/images/btn-bg2.gif">
+	<img src="/Content/images/btn-bgG2.gif">
+	</div>
+
+</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3187546-4");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+</body></html>
