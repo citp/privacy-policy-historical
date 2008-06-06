@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the historylearningsite.co.uk privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230214732id_/http%3A//www.historylearningsite.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historylearningsite.co.uk privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606093508id_/http%3A//www.historylearningsite.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # ::Privacy::
 
   
+
+
   
 
 
-[Online College and University Degree Guide](https://web.archive.org/web/20071230214732id_/http%3A//www.historylearningsite.co.uk/online-college-degree.htm)
+[Online College and University Degree Guide](https://web.archive.org/web/20080606093508id_/http%3A//www.historylearningsite.co.uk/online-college-degree.htm)
 
   
 | 
@@ -47,4 +49,4 @@ Feel free to contact us any time with any questions you may have regarding our p
 
 |   
   
-© 2000-2007 historylearningsite.co.uk
+© 2000-2008 historylearningsite.co.uk
