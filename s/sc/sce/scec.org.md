@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the scec.org privacy policy that was archived on 2007-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070712222842id_/http%3A//www.scec.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scec.org privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606231650id_/http%3A//www.scec.org/privacy.html) for the most accurate reproduction.*
 
 # SCEC Privacy Policy
+
+  
+SCEC Privacy Policy 
+
+* * *
 
 Thank you for visiting the Southern California Earthquake Center (SCEC) web site. Please note that we collect no personal information about you when you visit our web site unless you choose to provide that information to us.
 
@@ -20,6 +25,7 @@ If you request information or services from SCEC and submit personal information
 
 If you conduct business with SCEC electronically, any information voluntarily submitted as part of that process will be used and protected as explained for the specific function involved.
 
-Policy only pertains to pages beginning with "www.scec.org" or "128.125.23.68". (for example, not www.scign.org or www.relm.org or www.data.scec.org which are maintained by others)
+Policy only pertains to pages beginning with "www.scec.org" or "128.125.230.76". (for example, not www.scign.org or www.relm.org or www.data.scec.org which are maintained by others)
 
-Back
+  
+
