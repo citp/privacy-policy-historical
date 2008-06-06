@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pregnancytoday.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227031254id_/http%3A//www.iparenting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancytoday.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606032343id_/http%3A//www.iparenting.com/privacy.php) for the most accurate reproduction.*
 
-# iParenting - iParenting.com - preconception, pregnancy, baby names, newborns and parenting articles, expert advice and community
+# iParenting.com - preconception, pregnancy, baby names, newborns and parenting articles, expert advice and community- iParenting.com
 
   
 **iParenting Privacy Policy - Effective: 12/3/2007** We are updating our Privacy Policy. This Privacy Policy replaces any prior privacy policy posted on this Web site with respect to all personally identifiable information provided by guests on or after the effective date of this Privacy Policy. In addition, upon a guest’s acceptance of this Privacy Policy, this Privacy Policy will apply to any personally identifiable information provided by the guest prior to the effective date of this Privacy Policy. Please review our new Privacy Policy, which you will find below.
