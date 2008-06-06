@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpacoreg.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230164403id_/http%3A//cpacoreg.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpacoreg.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606065009id_/http%3A//cpacoreg.com/privacy_policy.php) for the most accurate reproduction.*
 
 # CPA Co Reg
 
