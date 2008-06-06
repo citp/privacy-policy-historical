@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creatingkeepsakes.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211101940id_/http%3A//www.creatingkeepsakes.com/privacy.ihtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creatingkeepsakes.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606190529id_/http%3A//www.creatingkeepsakes.com/privacy.ihtml) for the most accurate reproduction.*
 
 # Creating Keepsakes Scrapbook Magazine
 
