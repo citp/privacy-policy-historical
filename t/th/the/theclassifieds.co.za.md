@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theclassifieds.co.za privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214113531id_/http%3A//www.theclassifieds.co.za/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclassifieds.co.za privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606024040id_/http%3A//www.theclassifieds.co.za/content/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ In the course of service provision to the User we may collect certain forms of i
 
 5.1 TheClassifieds may send the User, site and service announcement updates on an irregular basis. Users are not able to unsubscribe from service announcements, which contain important information about our service.
 
-5.2 On occasion TheClassifieds will email newletters to provide the User with information that we think the User will find useful, including information about new products and services. We might also contact the User by email to see if the User is interested in participating in market research regarding TheClassifieds. We may also contact the User by email to respond to customer-service complaints that the User has submitted, to address a problem affecting the User’s use of the service or to verify the User’s account information if the User submits a password request.
+5.2 On occasion TheClassifieds will email newletters to provide the User with information that we think the User will find useful, including information about new products and services. We might also contact the User by email to see if the User is interested in participating in market research regarding TheClassifieds. We may also contact the User by email to respond to customer-service complaints that the User has submitted, to address a problem affecting the User�s use of the service or to verify the User�s account information if the User submits a password request.
 
 ## 6\. Information sharing
 
@@ -78,12 +78,10 @@ It is possible that TheClassifieds and/or any of our assets may be acquired in a
 
 ## 11\. Contact Information
 
-If the User has any questions about this Privacy Statement or about TheClassifieds's information collection practices, please contact us at [info@theclassifieds.co.za](https://web.archive.org/web/20071214113531id_/http%3A//www.theclassifieds.co.za/info@theclassifieds.co.za?Subject=Privacy%20Policy)
+If the User has any questions about this Privacy Statement or about TheClassifieds's information collection practices, please contact us at [info@theclassifieds.co.za](mailto:info@theclassifieds.co.za?Subject=Privacy%20Policy)
 
 ## 12\. Terms
 
 12.1 The terms "The User" and "User" are used interchangeably and refer to all individuals and/or entities accessing this web site for any reason whatsoever.
 
 12.2 The terms "we" and "TheClassifieds" are used interchangeably and refer to TheClassifieds itself and all individuals and/or entities acting directly on behalf of TheClassifieds.
-
-Copyright ©2006, 2007 TheClassifieds, All rights reserved Last updated: 30 Sep 2007
