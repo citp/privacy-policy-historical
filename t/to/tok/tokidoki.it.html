@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tokidoki.it privacy policy that was archived on 2007-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214134413id_/http%3A//shop.tokidoki.it/help_security_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tokidoki.it privacy policy that was archived on 2008-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080606033833id_/http%3A//shop.tokidoki.it/help_security_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"><html><head>
 <title> 
@@ -113,6 +113,42 @@
     </script>
 </head>
 <body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" bgcolor="#FFFFFF" onload="MM_preloadImages('_design/tokidoki/_images/view_all_on.gif')">
+<div id="progress_div" class="progress_div" style="visibility:hidden">
+<div class="progress_image">
+<img src="_design/tokidoki/_images/processing_now.gif" border="0" height="30px" width="30px" alt="">
+</div>
+<div class="progress_label">&nbsp;&nbsp;Progressing now...</div>
+</div>
+<script type="text/javascript" language="javascript">
+          var divProgressingNow = find_object('progress_div');
+          try{
+            divProgressingNow.centralize = function(){
+              var topPosition = 0;
+              var leftPosition = 0;
+              var width = 300;
+              var height = 55;
+              if (screen.availWidth > width) leftPosition = (screen.availWidth - width)/2;
+              if (screen.availHeight > height) topPosition = (screen.availHeight - height)/2;
+              
+              this.style.position = 'absolute';
+              this.style.left = parseInt(leftPosition).toString() + 'px';
+              this.style.top = parseInt(topPosition).toString() + 'px';
+              //this.style.top = 300;
+            };
+            
+            divProgressingNow.display = function(){
+              this.style.visibility = 'visible';
+              this.centralize();
+            }
+            
+            divProgressingNow.hide = function(){
+              this.style.visibility = 'hidden';
+            }
+            
+            //divProgressingNow.centralize();
+          }
+          catch(e){};
+          </script>
 <div id="container">
 <div id="header">
 <h1>tokidoki.it</h1>
@@ -164,6 +200,12 @@
                 <input type="radio" name="server_action" value="unsubscribe">Unsubscribe</p>
 <input type="hidden" name="list" value="damnbrand">
 <input type="hidden" name="msgid" value="_MSGID_">
+<input type="hidden" name="show:city" value="1">
+<input type="hidden" name="description:city" value="City">
+<input type="hidden" name="show:state" value="1">
+<input type="hidden" name="description:state" value="State">
+<input type="hidden" name="show:country" value="1">
+<input type="hidden" name="description:country" value="Country">
 <input type="hidden" name="template" value="+">
 <input type="hidden" name="redirect" value="">
 <input type="hidden" name="sublist" value="12">
@@ -196,7 +238,7 @@
 <a href="http://www.tokidoki.it/press/" target="_top">Press</a>
 </li>
 <li>
-<a id="a_smprojects" onclick="toggle('smprojects',this);" href="javascript:void(0);" target="_top">Projects</a>
+<a id="a_smprojects" onclick="toggle('smprojects',this);" href="javascript:void(0);" target="_top">Stores</a>
 </li>
 <li>
 <a id="a_smcompany" onclick="toggle('smcompany',this);" href="javascript:void(0);" target="_top">Company</a>
@@ -205,10 +247,10 @@
 <a href="http://www.tokidoki.it/contact/" target="_top">Contact</a>
 </li>
 <li>
-<a id="a_smgames" onclick="toggle('smgames',this);" href="javascript:void(0);" target="_top">Games</a>
+<a id="a_smgames" onclick="toggle('smgames',this);" href="javascript:void(0);" target="_top">Fun</a>
 </li>
 <li>
-<a href="http://www.tokidoki.it/screenart/" target="_top">Screenart</a>
+<a href="http://www.tokidoki.it/fakes/" target="_top">fakes</a>
 </li>
 </ul>
 <ul class="main">
@@ -242,7 +284,11 @@
 <div id="submenu">
 <div id="smproducts" style="display:block;">
 <ul>
+<li>&nbsp;<a href="http://shop.tokidoki.it/category.asp?CtgID=3591">apparel</a>
+</li>
 <li>&nbsp;<a href="http://shop.tokidoki.it/category.asp?CtgID=6803">Bags</a>
+</li>
+<li>&nbsp;<a href="http://shop.tokidoki.it/category.asp?CtgID=6914">Cosmetics</a>
 </li>
 <li>&nbsp;<a href="http://shop.tokidoki.it/category.asp?CtgID=3590">hats</a>
 </li>
@@ -250,7 +296,7 @@
 </li>
 <li>&nbsp;<a href="http://shop.tokidoki.it/category.asp?CtgID=3262">posters</a>
 </li>
-<li>&nbsp;<a href="http://shop.tokidoki.it/category.asp?CtgID=3591">shirts</a>
+<li>&nbsp;<a href="http://shop.tokidoki.it/category.asp?CtgID=7453">Shoes</a>
 </li>
 <li>&nbsp;<a href="http://shop.tokidoki.it/category.asp?CtgID=3261">skate decks</a>
 </li>
@@ -260,7 +306,7 @@
 </li>
 <li>&nbsp;<a href="http://shop.tokidoki.it/category.asp?CtgID=3292">UCHIWAS</a>
 </li>
-<li>&nbsp;<a href="http://shop.tokidoki.it/category.asp?CtgID=1">Accesories</a>
+<li>&nbsp;<a href="http://shop.tokidoki.it/category.asp?CtgID=1">Accessories</a>
 </li>
 <li>&nbsp;<a href="http://shop.tokidoki.it/category.asp?CtgID=312">BAMBINO</a>
 </li>
@@ -285,23 +331,26 @@
 <div id="smgames" style="display: none">
 <ul>
 <li>
+<a href="http://www.tokidoki.it/tildeath/" target="_top">'til death do us part</a>
+</li>
+<li>
 <a href="http://www.tokidoki.it/cupido/" target="_top">Ninja Cupido</a>
 </li>
 <li>
 <a href="http://www.tokidoki.it/sushirace/" target="_top">Supaa Sushi Race</a>
+</li>
+<li>
+<a href="http://www.tokidoki.it/screenart" target="_top">screenart</a>
 </li>
 </ul>
 </div>
 <div id="smprojects" style="display: none">
 <ul>
 <li>
-<a href="http://www.tokidoki.it/home/2/" target="_top">+44 Bus</a>
+<a href="http://www.tokidoki.it/storelocator/" target="_top">Stockists</a>
 </li>
 <li>
 <a href="http://www.tokidoki.it/home/3/" target="_top">Milan Store</a>
-</li>
-<li>
-<a href="http://www.tokidoki.it/home/4/" target="_top">Cactus Pups</a>
 </li>
 </ul>
 </div>
@@ -591,79 +640,9 @@
 </p></div>
 <div id="footer">
 <div class="block block1">
-<img src="_design/tokidoki/_images/ext_footer_files/footer_tokidoki.gif" alt="Copyright 2006 Tokidoki.it">
+<img src="_design/tokidoki/_images/ext_footer_files/footer_tokidoki.gif" alt="Copyright 2008 tokidoki LLC.">
 </div>
-<div class="block block2">
-<script language="javascript" type="text/javascript">
-            <!--
-            function ValidateSearch() {
-                if (document.fmSearch.Keywords.value.length > 2) {
-                    document.fmSearch.Action.value = "search";
-                    return(true);
-                }
-                else {
-                    return(false);
-                }
-            }
-            
-            function Search() {
-                if (ValidateSearch()) document.fmSearch.submit();
-            }
-            
-            function AdvancedSearch() {
-                document.fmSearch.Action.value = "";
-                document.fmSearch.submit();
-            }
-            //-->
-            </script>
-<form name="fmSearch" action="http://shop.tokidoki.it/search.asp" method="get" onsubmit="javascript:return(ValidateSearch());">
-<table cellspacing="0" cellpadding="1" border="0">
-<input type="hidden" name="Action" value="search">
-<tbody><tr>
-<td colspan="4" align="left" valign="center">
-<select name="CtgID" style="font-size:10px; width:100px; color: #fff; background:#000">
-<option name="ID" value="">
-					  All products
-				  </option>
-<option value="6803">Bags</option>
-<option value="3590">hats</option>
-<option value="3693">Pins</option>
-<option value="3262">posters</option>
-<option value="3591">shirts</option>
-<option value="3261">skate decks</option>
-<option value="3311">stationery</option>
-<option value="3659">Stickers</option>
-<option value="3292">UCHIWAS</option>
-<option value="1">Accesories</option>
-<option value="312">BAMBINO</option>
-<option value="309">JEWELRY</option>
-<option value="304">TIMING</option>
-<option value="301">TOYS</option>
-</select>
-</td>
-<td valign="center">
-<input type="text" class="text" name="Keywords" size="7" maxlength="25" style="width:65px;">
-</td>
-<td nowrap="nowrap">
-<a class="button" target="_self" href="javascript:Search()">
-                Go »
-              </a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="javascript:AdvancedSearch()">
-              Advanced search »
-            </a>
-<br>
-</td>
-</tr>
-<tr>
-<td><a href="http://shop.tokidoki.it/store_locator.asp">Store locator »</a>
-</td>
-</tr>
-</tbody></table>
-</form>&nbsp;</div>
+<div class="block block3"></div>
 <div class="block block3">
 <h3>
               tokidoki <span>blog</span></h3>
@@ -682,9 +661,7 @@
               </a>
 </p>
 <span>
-<a href="javascript:EmailFriend();">
-                Email to a friend »
-              </a>
+<a href=""></a>
 </span>
 </div>
 <div class="credits">
