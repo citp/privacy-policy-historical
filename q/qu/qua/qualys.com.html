@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qualys.com privacy policy that was archived on 2007-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071218171907id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qualys.com privacy policy that was archived on 2008-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080607012022id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta content="Qualys, Inc. provides on demand vulnerability management solutions to identify and fix network security vulnerabilities and ensure security compliance." name="description">
@@ -8,23 +8,30 @@
     <link href="/favicon.ico" rel="shortcut icon" type="image/x-ico">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <title>Privacy Policy - Qualys</title>
-    <link href="/css/corp.css?h=9" rel="stylesheet" type="text/css">
-    <link href="/css/corp_common.css?h=9" rel="stylesheet" type="text/css">
-    <link href="/css/top_nav.css?h=9" rel="stylesheet" type="text/css">
-    <link href="/css/menu.css?h=9" rel="stylesheet" type="text/css">
-    <link href="/css/corp_menu.css?h=9" rel="stylesheet" type="text/css">
-    <link href="/css/corp_content.css?h=9" rel="stylesheet" type="text/css">
-    <link href="/css/corp_ros.css?h=9" rel="stylesheet" type="text/css">
+    <link href="/css/corp.css?h=18" rel="stylesheet" type="text/css">
+    <link href="/css/corp_common.css?h=18" rel="stylesheet" type="text/css">
+    <link href="/css/top_nav.css?h=18" rel="stylesheet" type="text/css">
+    <link href="/css/prototip.css" rel="stylesheet" type="text/css">
+    <link href="/css/corp_menu.css?h=18" rel="stylesheet" type="text/css">
+    <link href="/css/corp_ros.css?h=18" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="/js/core.js"></script>
     <script type="text/javascript" src="/js/top_nav.js"></script>
     <script type="text/javascript" src="/js/DOMhelp.js"></script>
-    <script type="text/javascript" src="/js/search_box.js"></script>
     <script type="text/javascript" src="/js/prototype.js"></script>
     <script type="text/javascript" src="/js/effects.js"></script>
     <script type="text/javascript" src="/js/slideshow.js"></script>
-    <script type="text/javascript" src="/lib/phpmenu/libjs/layersmenu-browser_detection.js"></script>
-    <script type="text/javascript" src="/lib/phpmenu/libjs/layersmenu-library.js"></script>
-    <script type="text/javascript" src="/lib/phpmenu/libjs/layersmenu.js"></script>
+    <script type="text/javascript" src="/js/scriptaculous.js"></script>
+    <script type="text/javascript" src="/js/prototip.js"></script>
+    <script type="text/javascript" src="/js/menu.js"></script>
+    <script type="text/javascript">
+      function topSearch() {
+      //<![CDATA[
+          var supportClone = $('top_search_box').cloneNode(true);
+          new Tip('top_search', supportClone, { showOn: 'click',  hideOn: { element: 'tip', event: 'mouseout'}, hideAfter: 1.5, effect: 'appear', hook: { tip: 'topRight', target: 'bottomRight'}, offset: { x: 0, y: 4 }, className: 'noclass'});
+      //]]>
+      }
+      document.observe('dom:loaded', topSearch);
+    </script>
   </head>
    
   <body>
@@ -33,16 +40,26 @@
         <div id="logo">
           <a href="/"><img src="/images/home/qualys_logo.gif" border="0" alt="Qualys, Inc." height="83" width="226" title="Qualys, Inc." id="qualys_logo"></a>
           <img src="/images/ods_logo.gif" border="0" alt="On Demand Security" height="83" width="186" title="On Demand Security" id="ods_logo">
-          <a href="#" id="top_search">Search &gt;</a>
-          <div class="hide" id="top_search_box">
-            <form name="" action="http://www.google.com/custom" method="get" target="_blank">
-              <a href="#">Close</a>
-              <input type="text" name="q" value="" style="font-size:9px;width:140px">
-              <input type="image" name="sa" value="Search" width="15" height="15" src="/images/btn_arrow.gif" align="absmiddle">
-              <input type="hidden" name="cof" value="GALT:#C0000;S:http://www.qualys.com/;GL:0;VLC:#777777;AH:center;LH:119;LC:#666666;GFNT:#99999;L:http://www.qualys.com/images/logos/logo_qualys_pr.gif;ALC:#C0000;LW:98;GIMP:#22222;AWFID:70ed898b00ab18e7;">
-              <input type="hidden" name="domains" value="qualys.com">
-              <input type="hidden" name="sitesearch" value="qualys.com">
-            </form>
+          <div id="top_mini_nav">
+            <a href="/">Home</a>
+            &nbsp;|&nbsp;
+            <a href="http://www.qualys.jp/"><img src="/images/jp_flag.gif" border="0" alt="JP Flag" height="11" width="16" title="JP Flag"></a>
+            <a href="http://www.qualys.jp/">Qualys.jp</a>
+            &nbsp;|&nbsp;
+            <a href="/company/contacts/">Contact Us</a>
+            &nbsp;|&nbsp;
+            <a href="javascript:void(0)" id="top_search">Search</a>
+          </div>
+          <div style="display: none;">
+            <div id="top_search_box">
+              <form name="" action="http://www.google.com/custom" method="get" target="_blank">
+                <input type="text" name="q" value="" style="font-size:9px;width:210px">
+                <input type="image" name="sa" value="Search" width="15" height="15" src="/images/btn_arrow.gif" align="absmiddle">
+                <input type="hidden" name="cof" value="GALT:#C0000;S:http://www.qualys.com/;GL:0;VLC:#777777;AH:center;LH:119;LC:#666666;GFNT:#99999;L:http://www.qualys.com/images/logos/logo_qualys_pr.gif;ALC:#C0000;LW:98;GIMP:#22222;AWFID:70ed898b00ab18e7;">
+                <input type="hidden" name="domains" value="qualys.com">
+                <input type="hidden" name="sitesearch" value="qualys.com">
+              </form>
+            </div>
           </div>
         </div>
         <ul id="top_nav">
@@ -61,9 +78,6 @@
                     </li>
                     <li>
                       <a href="/products/risk_compliance/qgexp" name="&amp;lid=//Products//Security Risk &amp; Compliance//QualysGuard Express">QualysGuard Express</a>
-                    </li>
-                    <li>
-                      <a href="/products/risk_compliance/qgcus" name="&amp;lid=//Products//Security Risk &amp; Compliance//QualysGuard @Customer">QualysGuard @Customer</a>
                     </li>
                   </ul>
                 </div>
@@ -195,7 +209,7 @@
                       <a href="/support/training/TCP/" name="&amp;lid=//Support//Product Training//Training Workshops">Training Workshops</a>
                     </li>
                     <li>
-                      <a href="https://qualysevents.webex.com/ec0508l/eventcenter/recording/recordAction.do?theAction=archive&amp;siteurl=qualysevents" name="&amp;lid=//Support//Product Training//Online Library" target="_blank">Online Library</a>
+                      <a href="https://qualysevents.webex.com/ec0600l/eventcenter/recording/recordAction.do?siteurl=qualysevents&amp;theAction=archive" name="&amp;lid=//Support//Product Training//Online Library" target="_blank">Online Library</a>
                     </li>
                   </ul>
                 </div>
@@ -296,32 +310,7 @@
                 </div>
               </li>
               <li>
-                <div class="submenu">
-                  <a href="/company/contacts" name="&amp;lid=//Company//Contacts">Contacts</a>
-                  <ul>
-                    <li>
-                      <a href="/company/contacts/usa" name="&amp;lid=//Company//Contacts//USA &amp; Canada">USA &amp; Canada</a>
-                    </li>
-                    <li>
-                      <a href="/company/contacts/france" name="&amp;lid=//Company//Contacts//France">France</a>
-                    </li>
-                    <li>
-                      <a href="/company/contacts/germany" name="&amp;lid=//Company//Contacts//Germany">Germany</a>
-                    </li>
-                    <li>
-                      <a href="/company/contacts/hong_kong" name="&amp;lid=//Company//Contacts//Hong Kong">Hong Kong</a>
-                    </li>
-                    <li>
-                      <a href="/company/contacts/japan" name="&amp;lid=//Company//Contacts//Japan">Japan</a>
-                    </li>
-                    <li>
-                      <a href="/company/contacts/uk" name="&amp;lid=//Company//Contacts//UK">UK</a>
-                    </li>
-                  </ul>
-                </div>
-              </li>
-              <li>
-                <a href="/company/directions" name="&amp;lid=//Company//HQ Directions">HQ Directions</a>
+                <a href="/company/contacts" name="&amp;lid=//Company//Contacts">Contacts</a>
               </li>
             </ul>
           </li>
@@ -350,247 +339,123 @@
       </div>
       <div id="middle">
         <div id="left">
-          <!-- All Javascript Code used for this menu was developed by Marco Pratesi Copyright (C) 2001-2003 
-	for more information visit http://phplayersmenu.sourceforge.net/ 
-//-->
-<script language="JavaScript" type="text/javascript">
-<!--
-
-menuTopShift = 0;
-menuRightShift = 0;
-menuLeftShift = 0;
-
-var thresholdY = 100;
-var abscissaStep = 140;
-
-toBeHidden = new Array();
-toBeHiddenLeft = new Array();
-toBeHiddenTop = new Array();
-
-listl = ['L9','L10','L16','L24','L27','L34'];
-var numl = listl.length;
-
-father = new Array();
-for (i=1; i<=41; i++) {
-	father["L" + i] = "";
-}
-father_keys = ['L10','L11','L12','L13','L14','L15','L16','L17','L18','L19','L20','L21','L22','L23','L25','L26','L28','L29','L30','L31','L32','L33','L35','L36','L37','L38','L39','L40',];
-father_vals = ['L9','L10','L10','L10','L10','L9','L9','L16','L16','L16','L16','L9','L9','L9','L24','L24','L27','L27','L27','L27','L27','L27','L34','L34','L34','L34','L34','L34',];
-for (i=0; i<father_keys.length; i++) {
-	father[father_keys[i]] = father_vals[i];
-}
-
-lwidth = new Array();
-var lwidthDetected = 0;
-
-function moveLayers() {
-	if (!lwidthDetected) {
-		for (i=0; i<numl; i++) {
-			lwidth[listl[i]] = getOffsetWidth(listl[i]);
-		}
-		lwidthDetected = 1;
-	}
-	if (IE4) {
-		for (i=0; i<numl; i++) {
-			setWidth(listl[i], abscissaStep);
-		}
-	}
-	var mainnavTOP = getOffsetTop('mainnav');
-	var mainnavLEFT = getOffsetLeft('mainnav');
-	var mainnavWIDTH = getOffsetWidth('mainnav');
-	
-	setLeft('L9', mainnavLEFT + mainnavWIDTH - menuRightShift);
-setLeft('L10', mainnavLEFT + mainnavWIDTH - menuRightShift);
-setLeft('L16', mainnavLEFT + mainnavWIDTH - menuRightShift);
-setLeft('L24', mainnavLEFT + mainnavWIDTH - menuRightShift);
-setLeft('L27', mainnavLEFT + mainnavWIDTH - menuRightShift);
-setLeft('L34', mainnavLEFT + mainnavWIDTH - menuRightShift);
-}
-
-back = new Array();
-for (i=1; i<=41; i++) {
-	back["L" + i] = 0;
-}
-
-// -->
-</script>
-<div id="mainnav" onmouseover="clearLMTO()" onmouseout="setLMTO()">
-  <div class="navCellLevel1" id="refL2">
-    <a onmouseover="shutdown();" href="/company">Overview</a>
-  </div>
-  <div class="navCellLevel1" id="refL3">
-    <a onmouseover="shutdown();" href="/company/background">Background</a>
-  </div>
-  <div class="navCellLevel1" id="refL4">
-    <a onmouseover="shutdown();" href="/company/management">Management</a>
-  </div>
-  <div class="navCellLevel1" id="refL5">
-    <a onmouseover="shutdown();" href="/company/board_of_directors">Board of Directors</a>
-  </div>
-  <div class="navCellLevel1" id="refL6">
-    <a onmouseover="shutdown();" href="/company/csoboard">CSO Advisory Board</a>
-  </div>
-  <div class="navCellLevel1" id="refL7">
-    <a onmouseover="shutdown();" href="/company/advisors">Tech Advisors</a>
-  </div>
-  <div class="navCellLevel1" id="refL8">
-    <a onmouseover="shutdown();" href="/company/investors">Investors</a>
-  </div>
-  <div class="navCellLevel1" id="refL9">
-    <a onmouseover="moveLayerX('L9'); moveLayerY('L9') ; LMPopUp('L9', false);" href="/company/newsroom"><img src="/images/arrow_right_grey.gif" border="0" alt="" height="6" width="6" class="fwdarr">Newsroom</a>
-  </div>
-  <div class="navCellLevel1" id="refL24">
-    <a onmouseover="moveLayerX('L24'); moveLayerY('L24') ; LMPopUp('L24', false);" href="/company/events/"><img src="/images/arrow_right_grey.gif" border="0" alt="" height="6" width="6" class="fwdarr">Events</a>
-  </div>
-  <div class="navCellLevel1" id="refL27">
-    <a onmouseover="moveLayerX('L27'); moveLayerY('L27') ; LMPopUp('L27', false);" href="/company/careers"><img src="/images/arrow_right_grey.gif" border="0" alt="" height="6" width="6" class="fwdarr">Careers</a>
-  </div>
-  <div class="navCellLevel1" id="refL34">
-    <a onmouseover="moveLayerX('L34'); moveLayerY('L34') ; LMPopUp('L34', false);" href="/company/contacts"><img src="/images/arrow_right_grey.gif" border="0" alt="" height="6" width="6" class="fwdarr">Contacts</a>
-  </div>
-  <div class="navCellLevel1" id="refL41">
-    <a onmouseover="shutdown();" href="/company/directions">HQ Directions</a>
-  </div>
-</div>
-<div id="L9" class="navSubmenu" onmouseover="clearLMTO()" onmouseout="setLMTO()">
-  <table width="149" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td>
-        <div class="navHiddenCellLevel2" id="refL10">
-          <a onmouseover="moveLayerX('L10'); moveLayerY('L10') ; LMPopUp('L10', false);" href="/company/newsroom/newsreleases"><img src="/images/arrow_right_grey.gif" border="0" alt="" height="6" width="6" class="fwdarr">News Releases</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL15">
-          <a onmouseover="LMPopUp('L9', true);" href="/company/newsroom/alerts">Security Alerts</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL16">
-          <a onmouseover="moveLayerX('L16'); moveLayerY('L16') ; LMPopUp('L16', false);" href="/company/newsroom/mediacoverage"><img src="/images/arrow_right_grey.gif" border="0" alt="" height="6" width="6" class="fwdarr">Media Coverage</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL21">
-          <a onmouseover="LMPopUp('L9', true);" href="/company/newsroom/analystrefs">Analyst References</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL22">
-          <a onmouseover="LMPopUp('L9', true);" href="/customers">Customer References</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL23">
-          <a onmouseover="LMPopUp('L9', true);" href="/company/newsroom/mediacontacts">Media Contacts</a>
-        </div>
-      </td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="L10" class="navSubmenu" onmouseover="clearLMTO()" onmouseout="setLMTO()">
-  <table width="149" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td>
-        <div class="navHiddenCellLevel3" id="refL11">
-          <a onmouseover="LMPopUp('L10', true);" href="/company/newsroom/newsreleases/usa">USA</a>
-        </div>
-        <div class="navHiddenCellLevel3" id="refL12">
-          <a onmouseover="LMPopUp('L10', true);" href="/company/newsroom/newsreleases/france">France</a>
-        </div>
-        <div class="navHiddenCellLevel3" id="refL13">
-          <a onmouseover="LMPopUp('L10', true);" href="/company/newsroom/newsreleases/germany">Germany</a>
-        </div>
-        <div class="navHiddenCellLevel3" id="refL14">
-          <a onmouseover="LMPopUp('L10', true);" href="/company/newsroom/newsreleases/uk">U.K.</a>
-        </div>
-      </td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="L16" class="navSubmenu" onmouseover="clearLMTO()" onmouseout="setLMTO()">
-  <table width="149" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td>
-        <div class="navHiddenCellLevel3" id="refL17">
-          <a onmouseover="LMPopUp('L16', true);" href="/company/newsroom/mediacoverage/usa">USA</a>
-        </div>
-        <div class="navHiddenCellLevel3" id="refL18">
-          <a onmouseover="LMPopUp('L16', true);" href="/company/newsroom/mediacoverage/france">France</a>
-        </div>
-        <div class="navHiddenCellLevel3" id="refL19">
-          <a onmouseover="LMPopUp('L16', true);" href="/company/newsroom/mediacoverage/germany">Germany</a>
-        </div>
-        <div class="navHiddenCellLevel3" id="refL20">
-          <a onmouseover="LMPopUp('L16', true);" href="/company/newsroom/mediacoverage/uk">U.K.</a>
-        </div>
-      </td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="L24" class="navSubmenu" onmouseover="clearLMTO()" onmouseout="setLMTO()">
-  <table width="149" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td>
-        <div class="navHiddenCellLevel2" id="refL25">
-          <a onmouseover="LMPopUp('L24', true);" href="/events/customer_events">Customer Events</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL26">
-          <a onmouseover="LMPopUp('L24', true);" href="/events/local_events">Local Events</a>
-        </div>
-      </td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="L27" class="navSubmenu" onmouseover="clearLMTO()" onmouseout="setLMTO()">
-  <table width="149" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td>
-        <div class="navHiddenCellLevel2" id="refL28">
-          <a onmouseover="LMPopUp('L27', true);" href="/company/careers/administration">Administration</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL29">
-          <a onmouseover="LMPopUp('L27', true);" href="/company/careers/engineering">Engineering</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL30">
-          <a onmouseover="LMPopUp('L27', true);" href="/company/careers/it">IT</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL31">
-          <a onmouseover="LMPopUp('L27', true);" href="/company/careers/marketing">Marketing</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL32">
-          <a onmouseover="LMPopUp('L27', true);" href="/company/careers/sales">Sales</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL33">
-          <a onmouseover="LMPopUp('L27', true);" href="/company/careers/support">Support</a>
-        </div>
-      </td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="L34" class="navSubmenu" onmouseover="clearLMTO()" onmouseout="setLMTO()">
-  <table width="149" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td>
-        <div class="navHiddenCellLevel2" id="refL35">
-          <a onmouseover="LMPopUp('L34', true);" href="/company/contacts/usa">USA &amp; Canada</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL36">
-          <a onmouseover="LMPopUp('L34', true);" href="/company/contacts/france">France</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL37">
-          <a onmouseover="LMPopUp('L34', true);" href="/company/contacts/germany">Germany</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL38">
-          <a onmouseover="LMPopUp('L34', true);" href="/company/contacts/hong_kong">Hong Kong</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL39">
-          <a onmouseover="LMPopUp('L34', true);" href="/company/contacts/japan">Japan</a>
-        </div>
-        <div class="navHiddenCellLevel2" id="refL40">
-          <a onmouseover="LMPopUp('L34', true);" href="/company/contacts/uk">U.K.</a>
-        </div>
-      </td>
-    </tr>
-  </tbody></table>
-</div>
-<script language="JavaScript" type="text/javascript">
-<!--
-loaded = 1;
-// -->
-</script>
-
-
+          <ul id="menu">
+            <li>
+              <a href="/company">Overview</a>
+            </li>
+            <li>
+              <a href="/company/background">Background</a>
+            </li>
+            <li>
+              <a href="/company/management">Management</a>
+            </li>
+            <li>
+              <a href="/company/board_of_directors">Board of Directors</a>
+            </li>
+            <li>
+              <a href="/company/csoboard">CSO Advisory Board</a>
+            </li>
+            <li>
+              <a href="/company/advisors">Tech Advisors</a>
+            </li>
+            <li>
+              <a href="/company/investors">Investors</a>
+            </li>
+            <li>
+              <a href="/company/newsroom" class="arrow_right">Newsroom</a>
+              <ul>
+                <li>
+                  <a href="/company/newsroom/newsreleases" class="arrow_right">News Releases</a>
+                  <ul>
+                    <li>
+                      <a href="/company/newsroom/newsreleases/usa">USA</a>
+                    </li>
+                    <li>
+                      <a href="/company/newsroom/newsreleases/benelux/">Benelux</a>
+                    </li>
+                    <li>
+                      <a href="/company/newsroom/newsreleases/france">France</a>
+                    </li>
+                    <li>
+                      <a href="/company/newsroom/newsreleases/germany">Germany</a>
+                    </li>
+                    <li>
+                      <a href="/company/newsroom/newsreleases/uk">U.K.</a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="/company/newsroom/alerts">Security Alerts</a>
+                </li>
+                <li>
+                  <a href="/company/newsroom/mediacoverage" class="arrow_right">Media Coverage</a>
+                  <ul>
+                    <li>
+                      <a href="/company/newsroom/mediacoverage/usa">USA</a>
+                    </li>
+                    <li>
+                      <a href="/company/newsroom/mediacoverage/benelux/">Benelux</a>
+                    </li>
+                    <li>
+                      <a href="/company/newsroom/mediacoverage/france">France</a>
+                    </li>
+                    <li>
+                      <a href="/company/newsroom/mediacoverage/germany">Germany</a>
+                    </li>
+                    <li>
+                      <a href="/company/newsroom/mediacoverage/uk">U.K.</a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="/company/newsroom/analystrefs">Analyst References</a>
+                </li>
+                <li>
+                  <a href="/customers">Customer References</a>
+                </li>
+                <li>
+                  <a href="/company/newsroom/mediacontacts">Media Contacts</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="/company/events/" class="arrow_right">Events</a>
+              <ul>
+                <li>
+                  <a href="/events/customer_events">Customer Events</a>
+                </li>
+                <li>
+                  <a href="/events/local_events">Local Events</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="/company/careers" class="arrow_right">Careers</a>
+              <ul>
+                <li>
+                  <a href="/company/careers/administration">Administration</a>
+                </li>
+                <li>
+                  <a href="/company/careers/engineering">Engineering</a>
+                </li>
+                <li>
+                  <a href="/company/careers/it">IT</a>
+                </li>
+                <li>
+                  <a href="/company/careers/marketing">Marketing</a>
+                </li>
+                <li>
+                  <a href="/company/careers/sales">Sales</a>
+                </li>
+                <li>
+                  <a href="/company/careers/support">Support</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="/company/contacts">Contacts</a>
+            </li>
+          </ul>
           <p>&nbsp;</p>
           <div class="red_buttons">
             <a href="/forms/trials/qg/?lsid=7037"><img src="/images/buttons/free_14_day_trial.gif" border="0" alt="Free 14 Day Trial" height="25" width="165" title="Free 14 Day Trial"></a>
@@ -598,7 +463,6 @@ loaded = 1;
             <a href="/products/screens/"><img src="/images/buttons/screenshots.gif" border="0" alt="Screenshots" height="25" width="165" title="Screenshots"></a>
           </div>
           <p>&nbsp;</p>
-          
         </div>
         <div id="banner">
           <img src="/images/banners/cb-oracle.png" border="0" alt="Banner" title="QualysGuard helps us to make sure that our network is secure and that our systems, and those of our customers, are hardened as well.">
@@ -613,10 +477,10 @@ loaded = 1;
                   <img src="/images/phone.gif" border="0" alt="Phone" height="13" width="12" title="Phone">
                 </li>
                 <li>
-                  <a href="/company/contacts/contact_form/">Sales Inquiry Form</a>
+                  <a href="/company/contacts/contact_form/">Sales Inquiry Form&nbsp;&gt;</a>
                 </li>
                 <li>
-                  <a href="/company/contacts/">Global Contacts</a>
+                  <a href="/company/contacts/">Global Contacts&nbsp;&gt;</a>
                 </li>
               </ul>
             </div>
@@ -712,7 +576,7 @@ loaded = 1;
           <img src="/images/belt_buckle.jpg" border="0" alt="On Demand Security" height="82" width="207" title="On Demand Security" class="belt_buckle">
         </div>
         <div id="copyright">
-          <p>© 1999 - 2007 Qualys, Inc. All rights reserved.</p>
+          <p>© 1999 - 2008 Qualys, Inc. All rights reserved.</p>
         </div>
       </div>
     </div>
@@ -771,43 +635,9 @@ loaded = 1;
     <script language="javascript1.1" src="/js/hbx_custom.js"></script>
     <script language="javascript1.1" src="/js/hbx.js"></script>
     <!--END WEBSIDESTORY CODE-->
-    <!--Begin Manticore Technology Code-->
-    <!--Copyright 2000-2006, Manticore Technology Corporation.  All rights reserved.  Patent pending.-->
-    <!--Consumer Privacy Statement available at www.ManticoreTechnology.com/ConsumerPrivacy.asp-->
-    <!--www.ManticoreTechnology.com-->
-    <script language="JavaScript">
-    //<!--
-    	var MTC_GROUP="316";
-    	var MTC_ID="3406";
-    	var MTC_Key="8F2997E3-8B57-43FE-9A2A-007147E9C76B";
-    //-->
-    </script>
-    <script language="JavaScript">var MTCjsv;</script>
-    <script language="JavaScript1.0">MTCjsv="1.0";</script>
-    <script language="JavaScript1.1">MTCjsv="1.1";</script>
-    <script language="JavaScript1.2">MTCjsv="1.2";</script>
-    <script language="JavaScript1.3">MTCjsv="1.3";</script>
-    <script language="JavaScript1.4">MTCjsv="1.4";</script>
-    <script language="JavaScript1.5">MTCjsv="1.5";</script>
-    <script language="JavaScript1.6">MTCjsv="1.6";</script>
-    <script language="JavaScript1.7">MTCjsv="1.7";</script>
-    <script language="JavaScript" src="/js/mtcJSAPI.js"></script>
-    <!--Begin Optional Configuration-->
-    <script language="JavaScript">
-    //<!--
-    	//Todo:	Implement site specific functionality here.
-    	//mtcSetServerGroup("");
-    	//mtcSetContentCategory("");
-    //-->
-    </script>
-    <!--End Optional Configuration-->
-    <script language="JavaScript">
-    //<!--
-    	mtcSetVisitorID("");
-        mtcGO();
-    //-->
-    </script>
-    <!--End Manticore Technology Code-->
+    <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
+    <script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=2651&amp;ref2=elqNone&amp;tzo=0&amp;ms=535" border="0" width="1" height="1"></layer>
+    
   
    
 
