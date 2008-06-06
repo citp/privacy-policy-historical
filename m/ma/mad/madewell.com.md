@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madewell.com privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105012110id_/http%3A//www.madewell.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madewell.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606155043id_/http%3A//www.madewell.com/privacy.html) for the most accurate reproduction.*
 
 # Madewell Products Corporation
 
@@ -25,4 +25,4 @@ Madewell Products Corporation may be required by law enforcement or judicial aut
 Madewell Products Corporation takes every step to ensure that your information is treated securely and in accordance with its Privacy Policy. Please be advised, however, that no data transmission over the Internet can be guaranteed secure. As a result, Madewell Products Corporation cannot guarantee the security of any information in transit to it. 
 
 **Information Continuity**
-     Madewell Products Corporation believes strongly in providing you with the ability to access and edit the personal information that you have provided. To update the information you've submitted to Madewell Products Corporation, please [contact us](https://web.archive.org/web/20071105012110id_/http%3A//www.madewell.com/contact.html). 
+     Madewell Products Corporation believes strongly in providing you with the ability to access and edit the personal information that you have provided. To update the information you've submitted to Madewell Products Corporation, please [contact us](https://web.archive.org/web/20080606155043id_/http%3A//www.madewell.com/contact.html). 
