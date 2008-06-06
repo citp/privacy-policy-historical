@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220214710id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606080342id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.*
 
-# Intellicast.com - Privacy Policy
-
-| 
-
-### Privacy Statement
+# Intellicast.com
 
 EFFECTIVE AS OF March 5, 2007 
 
@@ -83,11 +79,8 @@ WSI Interactive, Inc.
 400 Minuteman Rd.  
 Andover, MA 01810 
 
-|    
+| 
+
+[](https://web.archive.org/Video/Default.aspx?assetId=V1630820)  
   
-  
-  
-  
-Intellicast.com: The Authority in Expert Weather  
-Your use of this site constitutes your acceptance of the [Terms of Use](https://web.archive.org/About/Terms.aspx) and [Privacy Policy](https://web.archive.org/About/Privacy.aspx)  
-© 2007 WSI Corporation 
+---|---
