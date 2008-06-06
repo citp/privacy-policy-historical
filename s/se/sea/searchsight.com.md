@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the searchsight.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231307id_/http%3A//searchsight.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchsight.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606084101id_/http%3A//searchsight.com/privacy.htm) for the most accurate reproduction.*
 
 # SearchSight.com Privacy Statement
 
 **SearchSight.com Privacy Statement**  
-Posted August 10, 2006 
+Posted December 20, 2007
 
-SearchSight.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the SearchSight.com Web site. The SearchSight.com Web site is owned and operated by Hostaroo.com
+SearchSight.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the SearchSight.com Web site. The SearchSight.com Web site is owned and operated by TJ Ventures Inc. a Louisville KY based company.
 
-If you have any questions regarding our privacy statement, please feel free to contact us though our [Comments Page.](https://web.archive.org/web/20071210231307id_/http%3A//searchsight.com/comments.htm)
+If you have any questions regarding our privacy statement, please feel free to contact us though our [Comments Page.](https://web.archive.org/web/20080606084101id_/http%3A//searchsight.com/comments.htm)
 
  **Gathering of Information**
 
@@ -17,13 +17,15 @@ SearchSight.com does not collect personally identifying information about any in
 
 Each SearchSight.com search engine listing allows for an email address to be associated with it, which is provided by the person who submits the URL for listing at the time of submission.  SearchSight.com sends a welcome email after the submitted URL has been added or updated in our search engine listings.  Occasionally SearchSight.com sends email notifications to the those who have listings in the SearchSight.com search engine to the associated email addresses.
 
-At any time, a person who has an email address associated with one or more listings may opt to remove their email address from all listings.  This is done [here](https://web.archive.org/web/20071210231307id_/http%3A//searchsight.com/SpecialOffers/dne.htm).  Note:  If a URL is submitted at a future time with a removed email address, the email address will once again receive email notifications for the submitted listing.
+At any time, a person who has an email address associated with one or more listings may opt to remove their email address from all listings.  This is done [here](https://web.archive.org/web/20080606084101id_/http%3A//searchsight.com/SpecialOffers/dne.htm).  Note:  If a URL is submitted at a future time with a removed email address, the email address will once again receive email notifications for the submitted listing.
 
 **Cookies**
 
 A cookie is a data file that certain Web sites write to your computer's hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited. SearchSight.com uses cookies solely to track user traffic patterns throughout the SearchSight.com Web site. We use this data on an anonymous basis and we do not correlate this information with personal data of any user. 
 
 Most Web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. However, if you choose to disable the receipt of cookies from our Web site, you may not be able to use certain features of the site. 
+
+We also use third party advertisements on SearchSight.com to help support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and various browser options you may have installed on your web browser. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited.
 
 **Browser Level Information**
 
@@ -47,11 +49,11 @@ Kids under 13: Do not send any information about yourself to us, including infor
 
 **E-Mail**
 
-SearchSight.com respects the privacy of its users and shall not disclose, distribute or rent its e-mail subscriber newsletter list to any third party, unless we feel such disclosure shall be beneficial to our users.  Users with listings in the SearchSight.com database may change the email associated with their listing at any time by following the procedure outlined in our [Webmaster Frequently Asked Questions](https://web.archive.org/web/20071210231307id_/http%3A//searchsight.com/faqs.htm). 
+SearchSight.com respects the privacy of its users and shall not disclose, distribute or rent its e-mail subscriber newsletter list to any third party, unless we feel such disclosure shall be beneficial to our users.  Users with listings in the SearchSight.com database may change the email associated with their listing at any time by following the procedure outlined in our [Webmaster Frequently Asked Questions](https://web.archive.org/web/20080606084101id_/http%3A//searchsight.com/faqs.htm). 
 
 **How to Contact Us**
 
-If you have any questions regarding our privacy statement, please feel free to contact us though our [Comments Page.](https://web.archive.org/web/20071210231307id_/http%3A//searchsight.com/comments.htm)
+If you have any questions regarding our privacy statement, please feel free to contact us though our [Comments Page.](https://web.archive.org/web/20080606084101id_/http%3A//searchsight.com/comments.htm)
 
 This statement may change from time to time, so please check back periodically. 
 
