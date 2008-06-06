@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the hellointern.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221021156id_/http%3A//www.hellointern.com/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellointern.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607010326id_/http%3A//www.hellointern.com/privacypolicy/privacypolicy.html) for the most accurate reproduction.*
 
-# Hello Intern ... One stop zone for internships and more
+# HelloIntern - One stop shop for Internships,Summer Jobs,Practical Traning and more...
 
-Overview
+**Overview**
 
 At HelloIntern we are committed to provide an easy, and safe environment for students to get internships of their choice, and for organisations to find relevant interns. Protecting their privacy is extremely important to us and is one of our top objectives when designing the website and its infrastructure. We recognize and respect the importance of maintaining the privacy of our customers and look forward to maintaining the trust in our business relationship. We have created this privacy policy to disclose and explain you why we gather customer and member information, what information we collect, how we collect it, what we use the information for and how you can instruct us to limit the use of that information. We have designed our procedures and processes for handling your data with the same high quality care and security that we would expect our own personal data to be handled.
 
 HelloIntern knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. At HelloIntern, we let you retain as much control as possible over your personal information. However, you may not visit and use our site at anytime without telling us who you are or revealing the required information about yourself. This notice describes our privacy policy. By visiting our site, you are accepting the practices described in this Privacy Policy.
 
-1\. What Information do we gather?
+**1.** What Information do we gather?
 
 We collect and store only a very limited amount of data and personal information necessary to process your account and to operate and improve our services. You can be assured that your information is protected. Your individual, and personal data will not be distributed.
 
@@ -41,14 +41,14 @@ Please remember that if you post any of your personal information in public area
 Since we believe that managing your career is a life-long process, we retain indefinitely all the information we gather about you in an effort to make your repeat use with us more efficient, practical, and relevant. Of course, you can correct or update your account profile and resume at any time. Moreover, you can delete your resume from our online database or close your account at any time, in which event we will remove all our copies of your resume and your account profile information except for an archival copy which is not accessible on the internet.
 
   
-2\. Who collects the information?  
-
+**2.** Who collects the information?  
+ 
 
 We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest. Visitors of hellointern who do not have hellointern accounts are not required to log into the website or provide any personal information to view our website. We only collect personal information from users who are not hellointern subscribers when they sign up for a newsletter or otherwise wish to communicate with others on the website. Please note that we have no control over any information that is disclosed publicly. You should exercise caution when disclosing your personal information at places in the website which are accessible to anyone.
 
   
-3\. What are various technical issues you must be aware of?  
-
+**3.** What are various technical issues you must be aware of?  
+ 
 
 **Search Engines** Some search engines and websites not affiliated with hellointern, may cache, archive, or otherwise store hellointern pages. Hellointern does not have control of the information or pages on those websites.
 
@@ -57,8 +57,8 @@ We will collect personally identifiable information about you only as part of a 
 **About Cookies** Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.
 
   
-4\. How do we ensure your security?  
-
+**4.** How do we ensure your security?  
+ 
 
 **Password-Protection** When you create your hellointern account, you choose a private password for yourself. Be sure to keep your password confidential, safe, and secure. If someone knows your password, they have access to your account and your personal information, and you are responsible for their activities. If you feel that your password is no longer private and confidential, be sure to change it, or send a message to hellointern requesting your password be changed. If you feel that an unauthorized person has accessed your account, contact hellointern immediately. To ensure that you have properly logged out of your account, be sure to close your browser, especially on public computers, such as those found in libraries, schools and cyber-cafes.
 
@@ -73,12 +73,12 @@ We will collect personally identifiable information about you only as part of a 
 * Enforce our Terms of Services agreement  
 * Respond to claims that any text, or other material violates the rights of third-parties  
 * Or protect the rights, property, or personal safety of hellointern, its users, or the general public  
-
+ 
 
 No one from hellointern will ever call you and ask for your password. If you are ever contacted by someone claiming to be an employee of hellointern, and the person asks you for your personal billing information or password, do not give them any information; instead, report the incident to us with as much detail as possible, and we will investigate.
 
-5\. How can you correct inaccuracies in the information?  
-
+**5.** How can you correct inaccuracies in the information?  
+ 
 
 You can help hellointern maintain the accuracy of your personal information by:  
 * Notifying us when you change your name, address, phone number, e-mail address, or your newsletter preferences  
@@ -86,8 +86,8 @@ You can help hellointern maintain the accuracy of your personal information by:
 * Contacting us at any time via our Contact Us page  
 If you no longer wish to receive our newsletter, you may opt-out by following the instructions in the newsletter or by sending us your request via our Contact Us page.
 
-6\. How do we handle Changes to this Policy?  
-
+**6.** How do we handle Changes to this Policy?  
+ 
 
 **Notification** As the hellointern website continues to develop, we will add new features, and we may change the type of information we collect or the method by which the information is collected. We will update this privacy policy to reflect any changes, and we will provide you notice of significant changes to the privacy policy by posting notice at hellointern.com and through other methods as appropriate.
 
