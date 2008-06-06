@@ -1,69 +1,96 @@
-> *The following text is extracted and transformed from the travelsmith.com privacy policy that was archived on 2007-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070714185009id_/http%3A//www.travelsmith.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D131%26path%3D1%252C3%252C129%252C131) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsmith.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606233046id_/http%3A//www.travelsmith.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D131%26path%3D1%252C3%252C129%252C131) for the most accurate reproduction.*
 
-# TravelSmith - Your Privacy Rights
+# Customer Service - Your Privacy Rights - TravelSmith
 
-TravelSmith Privacy Policy
+TravelSmith respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmaconsumers.org](http://www.dmaconsumers.org/)
 
-**We are committed to providing a safe and secure shopping experience, and we respect and protect your personal information.** Any information collected at travelsmith.com is used solely for the purpose of improving our services for you. 
+**Consumer Privacy at TravelSmith, an IAC Company.**  
+TravelSmith is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including: Ask.com, Citysearch, Evite, Gifts.com, HSN, LendingTree, Match.com, RealEstate.com, ServiceMagic, Ticketmaster, and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/).
 
-**Collected Information  
-Non-Personally Identifiable Information: **We track and analyze non-personally identifiable information on our site in order to find problems and improve our service. 
+At IAC, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of TravelSmith, please click [here](https://web.archive.org/jump.jsp?itemID=893&itemType=CATEGORY&path=1%2C3%2C129%2C131%2C893).
 
-**Personal Information:** We collect information such as your name, billing and shipping addresses, phone number, email address, and credit-card information in order to process your orders with us. When you set up an online account with us, we request a password to allow you secure access. 
+**Information we may collect**    ([read more](https://web.archive.org/jump.jsp?itemID=893&itemType=CATEGORY&path=1%2C3%2C129%2C131%2C893#aboutyou))  
+We may collect information that can identify you ("personal information"), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. We also may collect other types of information in the following ways when you visit our website: 
 
-We use the information we receive to process and track your orders, send catalogs you have requested and mailings that may be of interest to you, provided you have not requested otherwise, and send order and shipping confirmation e-mails. 
+  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
+  * We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.
+  * We may use standard Internet tools, such web beacons, which collect information that tracks your use of our website and enables us to customize our services and advertisements.
 
-**Protecting Your Information**   
-We use encryption and/or physical, procedural, and electronic security measures to protect against the loss, misuse, and alteration of data used by our system. 
 
-**Email and Phone Privacy**   
-We will never release your email or phone numbers to anyone else. You may join or unsubscribe from TravelSmith emails at any time. 
 
-TravelSmith does not rent or sell email addresses or phone numbers to third parties. 
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.
 
-We will only use your email address to communicate with you about the status of your order, unless you specify that you would like to receive special offers by email. If you sign up for these offers, you can remove your name from our list at any time. 
+**Information others may collect**    ([read more](https://web.archive.org/jump.jsp?itemID=893&itemType=CATEGORY&path=1%2C3%2C129%2C131%2C893#thirdparty))  
+We may allow third-party advertising companies or ad networks to display advertisements on our websites.
 
-We will use your phone number to communicate with you about your order if we are unable to reach you by email. 
+  * We do not provide any personal information to these companies.
+  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.
+  * Some of these companies may be members of the Network Advertising Initiative www.networkadvertising.org, which offers consumers the ability to opt out of ad targeting by all member companies.
 
-**Promotional Emails**   
-If you have requested to receive promotional emails from TravelSmith, we may send you email to offer you our best and most current shopping opportunities, exclusive offers, and web-only sales. If when placing your order or catalog request online, you have already requested not to receive emails, you do not need to send us an additional request. 
 
-We do not send SPAM (unsolicited commercial email) from our systems. If we receive a SPAM complaint about one of our promotional email campaigns, we will communicate this complaint to our email delivery provider. If you receive unwanted, unsolicited email sent via our delivery system or purporting to be sent via our system, please forward a copy of that email with your comments to service@travelsmith.com for review. 
 
-**Unsubscribing from Email**   
-Every email message sent through our system contains a link to a webpage where you can request to stop receiving email from us. You can also send an email to service@travelsmith.com with "No Emails" in the subject line and your name and mailing address in the body of the email. Finally, you can also call 800-950-1600 and request to be taken off of our promotional email list. 
+If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
 
-**Information Supplied To, or Received From, Third Parties**   
-To better serve you and to enhance your shopping experience, we may supplement the information listed above with data that is publicly available and with data we receive from other reputable sources whose privacy policies meet the Direct Marketing Association's requirements. From time to time, we may share our postal mailing list with carefully selected providers of goods and services that may be of interest to you provided you have not requested otherwise (If you prefer not to receive mailings from these providers, you can notify us at any time). Also, on rare occasions, we may disclose specific information upon governmental request in order to assist with fraud protection or investigation. Information is not provided to these agencies or companies for marketing or commercial purposes. 
+**How we may use information we collect**    ([read more](https://web.archive.org/jump.jsp?itemID=893&itemType=CATEGORY&path=1%2C3%2C129%2C131%2C893#howweuse))  
+We may use information to:
 
-TravelSmith does not sell, trade, or rent your email address. 
+  * Fulfill your requests for products and services;
+  * Offer products and services that may be of interest to you;
+  * Customize the advertising and content that you see on our website;
+  * Facilitate use of our website;
+  * Manage your account and your preferences;
+  * Analyze use of and improve our website, products and services;
+  * Identify and protect against fraudulent transactions and other misuses of our website;
+  * Enforce our Terms of Use.
 
-**Use of Cookies**   
-Cookies are small files that are placed on your computer from a web server. We use cookies to keep track of your shopping cart and to customize your shopping experience. We do not use "third-party" cookies (cookies that are placed on your computer by a web server other than the site you are visiting). 
 
-**Unsubscribe from Catalog Mailing List**   
-If you no longer wish to receive our catalog you can send an email to service@travelsmith.com with "No Catalogs" in the subject line and your name and address in the body of the email. You can also call 800-950-1600 and request to be taken off of our catalog mailing list. Because we plan our mailings in advance, it may take several weeks for your request to become effective. 
 
-**Request Mailing Information Not be Shared**   
-From time to time, we may share our postal mailing list with carefully selected providers of goods and services that may be of interest to you provided you have not requested otherwise. If you do not wish to receive these offers, you can send an email to service@travelsmith.com with "Do Not Share" in the subject line and your name and address in the body of the email. You can also call 800-950-1600 and request that your address not be shared. 
+**With whom we may share information we collect**    ([read more](https://web.archive.org/jump.jsp?itemID=893&itemType=CATEGORY&path=1%2C3%2C129%2C131%2C893#sharedinfo))  
+We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
 
-**Children’s Privacy**   
-The TravelSmith website is intended for the use of adults age 18 or older. We do not knowingly collect the personal information of children under the age of 18. 
+  * Service providers, such as credit-card payment processors, performing services on our behalf;
+  * Other IAC businesses;
+  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
+  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
-**Our Print Catalog**   
-Once you purchase an item from our web site, we may send you our print catalog. If you do not wish to receive any catalogs, please send an email to service@travelsmith.com with "No Catalogs" in the subject line and your name and address in the body of the email. 
 
-**In Summary**   
-We are committed to protecting your privacy. We use the information that we collect from you on our web site primarily to improve the content of our web site in order to enhance your overall shopping experience. 
 
-**Your Consent**   
-By using our web site, you consent to the collection and use of this information by TravelSmith. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of how we use the information that we collect, and under what circumstances we disclose it. 
+We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.
 
-Our address is:   
-TravelSmith Outfitters   
-60 Leveroni Court   
-Novato, CA 94949 
+**Your choices**    ([read more](https://web.archive.org/jump.jsp?itemID=893&itemType=CATEGORY&path=1%2C3%2C129%2C131%2C893#yourchoices))  
+You may choose:
 
-We can be reached via email at service@travelsmith.com or by telephone at 800-950-1600. 
+  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
+  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address below or by [clicking here to unsubscribe](https://web.archive.org/subscribemain.jsp?action=0)
+  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
+  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
+  * Opt-out. If you do not wish to receive mailings from other companies or to have personal information shared with other companies, including other IAC businesses, please contact us by phone, email or mail.
 
-Effective September 2006 
+**Our company contact points:**  
+Toll Free: 1-800-950-1600  
+Email: [service@travelsmith.com](mailto:service@travelsmith.com)  
+Mail: TravelSmith  
+Attn: TravelSmith Outfitters  
+60 Leveroni Court,  
+Novato, CA 94949
+
+
+
+
+**Security**    ([read more](https://web.archive.org/jump.jsp?itemType=CATEGORY&itemID=132&path=1%2C3%2C129%2C132))  
+We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
+
+**Changes to our Privacy Policy**  
+We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
+
+**How to contact us**  
+If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/jump.jsp?itemID=893&itemType=CATEGORY&path=1%2C3%2C129%2C131%2C893), or our information practices, please contact us by email or postal mail below:
+
+**Privacy Contact:**  
+Greg Garcia  
+TravelSmith  
+60 Leveroni Court,  
+Novato, CA 94949  
+[privacy@travelsmith.com](mailto:privacy@travelsmith.com)
+
+© 2007 IAC/InterActiveCorp. All rights reserved.
