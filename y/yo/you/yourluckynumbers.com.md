@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourluckynumbers.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624013532id_/http%3A//yourluckynumbers.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourluckynumbers.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606224438id_/http%3A//yourluckynumbers.com/Privacy) for the most accurate reproduction.*
 
 # YourLuckyNumbers.com - Privacy Policy
 
@@ -13,7 +13,7 @@
 
 YourLuckyNumbers is an online media company that brings you strategies to winning the lottery and lottery results. 
 
-We want to help you win the lotto and provide you with the best strategies to optimize your lottery playing . So, we enter into a voluntary relationship with you where we provide you numbers to play , strategies as well as lottery results so you have a system to follow when playing lottery .We also bring to you lottery related offers and tools related to playing the lottery .Our goal is to help you win as much as possible playing local and national lotteries . We Do not sell lottery tickets or in any way affiliated with any lottery. Questions regarding this statement should be directed to YourLuckyNumbers's Privacy Director at YourLuckyNumbers.com 90 Quentin Road , Brooklyn NY 11223, .
+We want to help you win the lotto and provide you with the best strategies to optimize your lottery playing . So, we enter into a voluntary relationship with you where we provide you numbers to play , strategies as well as lottery results so you have a system to follow when playing lottery .We also bring to you lottery related offers and tools related to playing the lottery .Our goal is to help you win as much as possible playing local and national lotteries . We Do not sell lottery tickets or in any way affiliated with any lottery. Questions regarding this statement should be directed to YourLuckyNumbers's Privacy Director at YourLuckyNumbers.com 90 60 E 42nd Street Suite 449 NY NY 10165, .
 
 ## What types of information does YourLuckyNumbers collect?
 
@@ -83,7 +83,7 @@ We do not rent, sell, or share personal information about you with other people 
 
   * YourLuckyNumbers may update this policy. If we decide to change our privacy policy, we will post those changes to this privacy policy Web site, the YourLuckyNumbers Web site, and other places we deem appropriate so our customers are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
   * In the event YourLuckyNumbers materially changes the way it collects or uses personally identifiable information, we will notify users via email or by posting a notice on our Web site for 30 days. Questions and Suggestions
-  * If you have questions or suggestions, please contact us at: YourLuckyNumbers.com Customer Care – Privacy Policy Issues 90 Quentin Road Brooklyn, NY 11223
+  * If you have questions or suggestions, please contact us at: YourLuckyNumbers.com Customer Care – Privacy Policy Issues 60 E 42nd Street Suite 449 NY NY 10165 
 
 
 
