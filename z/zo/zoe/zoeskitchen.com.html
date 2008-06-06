@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zoeskitchen.com privacy policy that was archived on 2007-08-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070826232555id_/http%3A//www.zoeskitchen.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zoeskitchen.com privacy policy that was archived on 2008-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080606061810id_/http%3A//www.zoeskitchen.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Zoës Kitchen</title>
@@ -202,6 +202,11 @@ if(document.images)
     item_IMG_27_off.src = imageDir+"bu_zmail.off.gif"; 
     var item_IMG_27_on  = new Image();
     item_IMG_27_on.src  = imageDir+"bu_zmail.on.gif";
+	
+	var item_IMG_28_off = new Image();
+    item_IMG_28_off.src = imageDir+"bu_team.off.gif"; 
+    var item_IMG_28_on  = new Image();
+    item_IMG_28_on.src  = imageDir+"bu_team.on.gif";
 	}
 
 function over(cellName) 
@@ -235,6 +240,7 @@ function over(cellName)
  		if(cellName == 'button25') {document[cellName].src = item_IMG_25_on.src;}
  		if(cellName == 'button26') {document[cellName].src = item_IMG_26_on.src;}
  		if(cellName == 'button27') {document[cellName].src = item_IMG_27_on.src;}
+		if(cellName == 'button28') {document[cellName].src = item_IMG_28_on.src;}
      
        }
 }
@@ -270,6 +276,7 @@ function out(cellName)
 		if(cellName == 'button25') {document[cellName].src = item_IMG_25_off.src;}
 		if(cellName == 'button26') {document[cellName].src = item_IMG_26_off.src;}
 		if(cellName == 'button27') {document[cellName].src = item_IMG_27_off.src;}
+		if(cellName == 'button28') {document[cellName].src = item_IMG_28_off.src;}
 		
 		       }
 }
@@ -395,7 +402,7 @@ function clickMenu() {
 	<a href="/iForm.asp?id=30" onmouseout="out('button24')" onmouseover="over('button24')"><img src="/graphics/bu_gives.off.gif" width="158" height="26" name="button24" border="0"></a><br>
 	<a href="/photos.asp?id=1" onmouseout="out('button17')" onmouseover="over('button17')"><img src="/graphics/bu_photos.off.gif" width="158" height="26" name="button17" border="0"></a><br>
 	<a href="/getcontent.asp?id=14&amp;section=media" onmouseout="out('button19')" onmouseover="over('button19')"><img src="/graphics/bu_media.off.gif" width="158" height="26" name="button19" border="0"></a><br>
-	<a href="/careers.asp" onmouseout="out('button18')" onmouseover="over('button18')"><img src="/graphics/bu_jobs.off.gif" width="158" height="26" name="button18" border="0"></a><br>
+	<a href="/careers.asp" onmouseout="out('button28')" onmouseover="over('button28')"><img src="/graphics/bu_team.off.gif" width="158" height="26" name="button28" border="0"></a><br>
 	<!-- <a href="/franchises.asp" onmouseout="out('button20')" onmouseover="over('button20')"><img src="/graphics/bu_fran.off.gif" width="158" height="26" name="button20" border="0"></a><br> -->
 	<!--<a href="/franchise/" onmouseout="out('button5')" onmouseover="over('button5')"><img src="/graphics/bu_opportunity.off.gif" width="158" height="26" name="button5" border="0"></a><br>-->
 	<a href="/feedback.asp" onmouseout="out('button10')" onmouseover="over('button10')"><img src="/graphics/bu_talk.off.gif" width="158" height="26" name="button10" border="0"></a><br>
@@ -413,10 +420,11 @@ function clickMenu() {
 
 <script type="text/javascript">
 <!--
+var a_vars,pagename,imedia_url,imedia_client;
 var a_vars = Array();
 var pagename='';
 var imedia_url = "http://stats.infomedia.net/collect.asp";
-var imedia_client = 1274
+var imedia_client = 1274;
 //-->
 </script>
 <script language="javascript" src="http://stats.infomedia.net/collect.js" type="text/javascript"></script>
