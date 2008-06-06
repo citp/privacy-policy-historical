@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokidoki.it privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214134413id_/http%3A//shop.tokidoki.it/help_security_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokidoki.it privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606033833id_/http%3A//shop.tokidoki.it/help_security_privacy.asp) for the most accurate reproduction.*
 
 # tokidoki
 
