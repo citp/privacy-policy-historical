@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatwallet.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011055955id_/http%3A//www.fatwallet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatwallet.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607061613id_/http%3A//www.fatwallet.com/privacy.php) for the most accurate reproduction.*
 
 # Coupons from FatWallet.Com save you money!
 
@@ -6,8 +6,8 @@ This web site is owned and operated by FatWallet.Com, Inc. (FatWallet or we). Fa
 
 For questions or concerns relating to privacy, we can be contacted at:
 
-8900 North 2nd St.  
-Machesney Park, IL 61115
+12533 Wagon Wheel Road  
+Rockton, IL 61072
 
 or through our [Online Support System](https://web.archive.org/support/)  
 or you can reach us by telephone at 815-877-8992, or fax 815-877-8994.
