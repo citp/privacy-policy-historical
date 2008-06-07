@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creativematch.co.uk privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013181655id_/http%3A//www.creativematch.co.uk/front.cfm%3Faction%3Dshowpage%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativematch.co.uk privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607233842id_/http%3A//www.creativematch.co.uk/front.cfm%3Faction%3Dshowpage%26page%3Dprivacy) for the most accurate reproduction.*
 
-# creative services, news, jobs, CVs, training, email marketing
+# creativematch.co.uk | advertising, news, jobs, CVs, email marketing and training.
 
 **Statement of intent**  
 From time to time, you will be asked to submit personal information(e.g. name and email address etc) in order to receive or use services on our website. By entering your details in the fields requested, you enable creativematch to provide you with the services you select. Such information will treated in accordance with this policy.
