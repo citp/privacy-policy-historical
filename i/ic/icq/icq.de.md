@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icq.de privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224142018id_/http%3A//www.icq.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icq.de privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607095633id_/http%3A//www.icq.com/legal/privacy.html) for the most accurate reproduction.*
 
 # The ICQ Privacy Policy - ICQ Terms Of Service - ICQ.com
 
@@ -10,7 +10,7 @@ The following Privacy Policy applies to your use of the ICQ Services (as defined
 
 When you register with and/or use the ICQ Services, you may provide ICQ with, or ICQ may otherwise obtain personally identifiable information (your "ICQ Services Information"). This Privacy Policy explains the information practices that apply to your ICQ Services Information. This Privacy Policy applies only to information ICQ collects about you as a user of the ICQ Services. This policy does not apply to information about you collected by third party Web sites and offerings linked to or otherwise accessible from the ICQ Services. The information collected or obtained by these third parties is subject to their own privacy policies. Additionally, in the event you access a service using the ICQ Services which is co-branded with a third party such third party's privacy policy, in addition to the ICQ Privacy Policy, may also apply. 
 
-Any reference made in this Privacy Policy to ICQ shall be deemed to have been made to ICQ Inc., its subsidiaries, successors, assignees, affiliates as well as any company that controls ICQ Inc., directly or indirectly, and any other subsidiary of that controlling company. 
+Any reference made in this Privacy Policy to ICQ shall be deemed to have been made to ICQ LLC., its subsidiaries, successors, assignees, affiliates as well as any company that controls ICQ LLC., directly or indirectly, and any other subsidiary of that controlling company. 
 
 **Collection of your ICQ Services Information**
 
