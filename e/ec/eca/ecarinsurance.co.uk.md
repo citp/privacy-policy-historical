@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecarinsurance.co.uk privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218153836id_/http%3A//www.ecarinsurance.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecarinsurance.co.uk privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607131911id_/http%3A//www.ecarinsurance.co.uk/privacy.php) for the most accurate reproduction.*
 
 # eCar Insurance - Privacy and Security
 
