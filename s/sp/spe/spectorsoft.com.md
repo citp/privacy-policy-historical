@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623033749id_/http%3A//spectorsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607103001id_/http%3A//www.spectorsoft.com/privacy.html) for the most accurate reproduction.*
 
 # SpectorSoft - Online Privacy Policy
 
-**Last Updated: February 16, 2006**
+**Last Updated: May 13, 2008**
 
 This privacy statement discloses the privacy practices for SpectorSoft Corporation websites including: www.spectorsoft.com, www.spectorcne.com, www.spector360.com, www.spectorpro.com, www.spector.com, www.eblaster.com, www.spectersoft.com, spectorsoft.co.uk, and www.spectorsoft.de.
 
@@ -47,7 +47,7 @@ IP addresses are used by your computer every time you are connected to the Inter
 
 **Sharing of Information**
 
-SpectorSoft will never sell, rent, license, exchange, or share any data about you without your permission except under the following limited circumstances: (i) if SpectorSoft is required to do so by law, or (ii) SpectorSoft has the good faith belief that such action is necessary to conform to applicable laws or comply with legal process served on SpectorSoft, or to protect and defend the rights or property of SpectorSoft or to enforce the [Terms of Use](https://web.archive.org/terms.html)
+SpectorSoft will never sell, rent, license, exchange, or share any data about you without your permission except under the following limited circumstances: (i) if SpectorSoft is required to do so by law, or (ii) SpectorSoft has the good faith belief that such action is necessary to conform to applicable laws or comply with legal process served on SpectorSoft, or to protect and defend the rights or property of SpectorSoft or to enforce the [Terms of Use.](https://web.archive.org/terms.html) (iii) SpectorSoft reserves the right to disclose information to its strategic partners and service providers so that SpectorSoft may enhance the creation, distribution and support of its products.  These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. 
 
 **Tell-A-Friend**
 
