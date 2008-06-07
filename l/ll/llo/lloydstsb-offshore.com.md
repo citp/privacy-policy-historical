@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208181737id_/http%3A//www.lloydstsb-offshore.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607081112id_/http%3A//www.lloydstsb-offshore.com/privacypolicy) for the most accurate reproduction.*
 
 # Lloyds TSB Offshore, Privacy
 
@@ -112,4 +112,4 @@ Any decision made by us in relation to the services provided to you shall be fin
 
 *Lloyds TSB Group means the Lloyds TSB group of companies which includes all companies with the Lloyds TSB name, Cheltenham & Gloucester plc and Scottish Widows plc, and their associated companies.
 
-|   |   
+|   | 
