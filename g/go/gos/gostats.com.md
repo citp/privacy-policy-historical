@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gostats.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205065140id_/http%3A//gostats.com/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gostats.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607034358id_/http%3A//gostats.com/privacy.xml) for the most accurate reproduction.*
 
 # GoStats.com | Privacy Statement
 
