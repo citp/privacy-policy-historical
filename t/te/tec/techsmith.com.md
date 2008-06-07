@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201095751id_/http%3A//www.techsmith.com/company/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607112708id_/http%3A//www.techsmith.com/company/privacy_policy.asp) for the most accurate reproduction.*
 
 # TechSmith Corporation - Privacy Policy
 
@@ -65,4 +65,10 @@ When you download a TechSmith product, TechSmith asks you to provide your e-mail
 
 As our Web site evolves over time or our data handling policies change, we will update this privacy policy. Changes made to this policy will be effective ten days following the posting of the new policy on the Web site. If we make significant changes to our data handling practices, we will make efforts to notify our active customers in other reasonable ways that may include an administrative email or other notice. This privacy policy will be governed by the laws of the United States and the State of Michigan. 
 
-Last Updated: 01/31/2020 11:48:23 
+* * *
+
+### **Security**
+
+TechSmith is committed to security and protecting your privacy. TechSmith promises to quickly work to remedy any vulnerabilities found in our website or software and to alert our customers about any potentially dangerous vulnerabilities. If you have questions about TechSmith's committment to security or concerns about a security issue in one of our products or website, please visit our [security center](https://web.archive.org/security/security.asp). 
+
+Last Updated: 01/31/2020 11:48:24 
