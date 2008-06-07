@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213081925id_/http%3A//www.cartalk.com/menus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607041049id_/http%3A//www.cartalk.com/menus/privacy.html) for the most accurate reproduction.*
 
-# Car Talk: Privacy Policy
+# Car Talk
 
 **Revised January, 2004**
 
@@ -8,7 +8,7 @@ Thank you for visiting the cartalk.com Web site.
 
 "Car Talk" is a registered service mark of Tom and Ray Magliozzi. "cartalk.com" is a production of Dewey, Cheetham and Howe. Contents 2007, Dewey, Cheetham and Howe. 
 
-Our postal address is P.O. Box 3500, Car Talk Plaza, Harvard Square, Cambridge, MA 02238. You may also contact us via [email](https://web.archive.org/web/20071213081925id_/http%3A//www.cartalk.com/menus/email/email.html). 
+Our postal address is P.O. Box 3500, Car Talk Plaza, Harvard Square, Cambridge, MA 02238. You may also contact us via [email](https://web.archive.org/web/20080607041049id_/http%3A//www.cartalk.com/menus/email/email.html). 
 
 **cartalk.com's Privacy Policy**  
 Your privacy on the Internet is important to us. As part of the operations of cartalk.com, we gather certain types of information about cartalk.com users. This Privacy Policy explains the types of information we gather and what we do with it. 
@@ -73,16 +73,12 @@ No transmission of data over the Internet is guaranteed to be completely secured
 
 cartalk.com reserves the right to change this Privacy Policy at any time. Any such changes will be posted online. [Email us](https://web.archive.org/email/email.html) with any questions. 
 
-Cartalk.com is a production of Dewey, Cheetham and Howe. Contents © 2007, Dewey, Cheetham and Howe. 
+| 
 
-CAR TALK, DEWEY, CHEETHAM & HOWE, SHAMELESS COMMERCE, and WARPED DISCS are registered trademarks, and CLICK AND CLACK is a trademark, of Tom and Ray Magliozzi and/or Tappet Brothers Associates d/b/a Dewey, Cheetham & Howe.
+Search Car Talk
 
-  
+Check out [these tips](https://web.archive.org/content/features/fueleconomy/) and fork over fewer dineros at the pump.
 
+A 20-year retrospective, this way. (Warning: Fearfully ugly faces.)
 
-* * *
-
-[](http://www.corsis.com/)|  Hosting for cartalk.com is generously provided by [Corsis Technology Services](http://www.corsis.com/).|   | [](http://e2ma.net/go/183688083/152308/4262355/goto:http://www.myemma.com)| Car Talk's email newsletters are powered by [Emma](http://e2ma.net/go/183688083/152308/4262355/goto:http://www.myemma.com?).  
----|---|---|---|---  
-  
-
+From air filters to oil changes, can you DIY? [Find out](http://www.cars.com/go/advice/cartalk/index.jsp?aff=cartalk).
