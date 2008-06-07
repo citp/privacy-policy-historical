@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fair-exchange.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102103956id_/http%3A//www.fair-exchange.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fair-exchange.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607153441id_/http%3A//www.fair-exchange.com/privacy.aspx) for the most accurate reproduction.*
 
 # Fair Exchange Privacy Policy
 
@@ -13,7 +13,7 @@ PDV is registered in the United Kingdom under the Data Protection Act 1998 (regi
 
 PDV Ltd is a full member of the Direct Marketing Association (DMA).
 
-PDV’s registered office is Monmouth House, 40 Artillery Lane, London, E1 7LS, is registered in England under the Companies Act 2006 under registration number Z720633X. VAT registration number is 761423151
+PDV’s registered office is 32 Farringdon Street, London, EC4A 4HJ, is registered in England under the Companies Act 2006 under registration number Z720633X. VAT registration number is 761423151
 
 We promise our users that we will: 
 
@@ -64,7 +64,7 @@ We hope you will enjoy the communications we send you, but if at any time you ch
 
 
 
-If you prefer you may change your mind by writing to: The Data Protection Compliance Officer, PDV Ltd, FREEPOST, Monmouth House, 40 Artillery Lane, London E1 7LS.
+If you prefer you may change your mind by writing to: The Data Protection Compliance Officer, PDV Ltd, FREEPOST, 32 Farringdon Street, London, EC4A 4HJ.
 
 If we do do not hear otherwise from you, we will assume that the information you provide to us is accurate and up-to-date and we will continue to use the information to send you the communications you have requested.
 
@@ -74,7 +74,7 @@ You have a right under the Data Protection Act 1998 to see what information we h
 
 Our websites provide you with direct access to your personal data which you may update at any time but should you make an application to us in writing, we may ask you to provide us with sufficient information so that we can be sure that you are who you say you are as we cannot act on requests for access to personal data from third parties. We also reserve the right to make a small charge for providing you with the information you are requesting. 
 
-If you would like to proceed with a request to see what data we hold about you, please write to the Data Protection Compliance Officer, PDV Ltd, Monmouth House, 40 Artillery Lane, London E1 7LS..
+If you would like to proceed with a request to see what data we hold about you, please write to the Data Protection Compliance Officer, PDV Ltd, 32 Farringdon Street, London, EC4A 4HJ.
 
 When you give your personal data to PDV Ltd we will process that data in accordance with our responsibilities under the Data Protection Act 1998, and the Privacy and Electronic Communications (EC Directive) 2003 and other legislation if it is relevant.
 
