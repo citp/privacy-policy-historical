@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trustmymechanic.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210085204id_/http%3A//www.trustmymechanic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustmymechanic.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607164353id_/http%3A//www.trustmymechanic.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Statement
 
 **TrustMyMechanic Privacy Statement**
 
