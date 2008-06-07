@@ -1,6 +1,34 @@
-> *The following text is extracted and transformed from the stupidvideos.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210235256id_/http%3A//stupidvideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stupidvideos.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607095833id_/http%3A//www.stupidvideos.com/privacy) for the most accurate reproduction.*
 
 # StupidVideos Privacy Policy
+
+## StupidVideos.com, the one and only destination for great bloopers, pranks, cute animals, adorable babies, family fun, accidents, viral videos, animations, movies, funny photos, militant simians, mermaids and abe lincoln impersonators.
+
+### humor, college, funny, pictures, movies, videos, funny videos, jokes, drunk, girls, boobs, boobies, hotlinks, clips, jokes, pranks, shamings, party, university, school, pics, drugs, signs, svTV, original videos, humour, girls making out, girls kissing, university, school, on demand, vod, comedy, humor, funny videos, morons, retards, idiots
+
+[](https://web.archive.org/)
+
+[](https://web.archive.org/store/)
+
+[](https://web.archive.org/)
+
+[](https://web.archive.org/videos/)
+
+[](https://web.archive.org/flash_games/)
+
+[](https://web.archive.org/pictures/)
+
+[](https://web.archive.org/members/)
+
+[](https://web.archive.org/win/)
+
+[](https://web.archive.org/tv/)
+
+[](https://web.archive.org/upload/)
+
+[](https://web.archive.org/store/)
+
+### STUPIDVIDEOS PRIVACY POLICY
 
 General
     StupidVideos collects personal information when you register with or subscribe to StupidVideos, when you use StupidVideos services, when you visit StupidVideos pages or the pages of certain StupidVideos partners, and when you enter promotions or sweepstakes. StupidVideos may combine information about you that we have with information we obtain from business partners or other companies. 
