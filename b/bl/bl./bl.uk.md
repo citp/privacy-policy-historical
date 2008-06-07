@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bl.uk privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221072955id_/http%3A//www.bl.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bl.uk privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607201506id_/http%3A//www.bl.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for the British Library Website
 
