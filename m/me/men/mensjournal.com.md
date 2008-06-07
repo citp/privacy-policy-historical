@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the mensjournal.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201073855id_/http%3A//www.mensjournal.com/contact/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensjournal.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607132551id_/http%3A//www.mensjournal.com/contact/privacypolicy.html) for the most accurate reproduction.*
 
 # Men's Journal: Copyrights
 
-|  |  |  [](https://web.archive.org/web/20071201073855id_/http%3A//www.mensjournal.com/index.html)  
+|  |  |  [](https://web.archive.org/web/20080607132551id_/http%3A//www.mensjournal.com/index.html)  
   
-[](https://web.archive.org/web/20071201073855id_/http%3A//www.mensjournal.com/adventure/index.html)  
+[](https://web.archive.org/web/20080607132551id_/http%3A//www.mensjournal.com/adventure/index.html)  
   
-[](https://web.archive.org/web/20071201073855id_/http%3A//www.mensjournal.com/toolsToys/index.html)  
+[](https://web.archive.org/web/20080607132551id_/http%3A//www.mensjournal.com/toolsToys/index.html)  
   
-[](https://web.archive.org/web/20071201073855id_/http%3A//www.mensjournal.com/healthFitness/index.html)  
+[](https://web.archive.org/web/20080607132551id_/http%3A//www.mensjournal.com/healthFitness/index.html)  
   
-[](https://web.archive.org/web/20071201073855id_/http%3A//www.mensjournal.com/travelGuide/index.html)  
+[](https://web.archive.org/web/20080607132551id_/http%3A//www.mensjournal.com/travelGuide/index.html)  
   
-[](https://web.archive.org/web/20071201073855id_/http%3A//www.mensjournal.com/toc/index.html)  
+[](https://web.archive.org/web/20080607132551id_/http%3A//www.mensjournal.com/toc/index.html)  
   
-[](https://web.archive.org/web/20071201073855id_/http%3A//www.mensjournal.com/contact/index.html)  
+[](https://web.archive.org/web/20080607132551id_/http%3A//www.mensjournal.com/contact/index.html)  
   
-[](https://web.archive.org/web/20071201073855id_/http%3A//www.mensjournal.com/contact/internships.html)  
+[](https://web.archive.org/web/20080607132551id_/http%3A//www.mensjournal.com/contact/internships.html)  
   
-[](https://web.archive.org/web/20071201073855id_/http%3A//www.mensjournal.com/subscription/subscribenew.html)  
+[](https://web.archive.org/web/20080607132551id_/http%3A//www.mensjournal.com/subscription/subscribenew.html)  
   
-[](https://web.archive.org/web/20071201073855id_/http%3A//www.mensjournal.com/subscription/renew.html)  
+[](https://web.archive.org/web/20080607132551id_/http%3A//www.mensjournal.com/subscription/renew.html)  
   
-[](https://web.archive.org/web/20071201073855id_/http%3A//www.mensjournal.com/subscription/giftsubscriptions.html)  
+[](https://web.archive.org/web/20080607132551id_/http%3A//www.mensjournal.com/subscription/giftsubscriptions.html)  
   
-[](https://web.archive.org/web/20071201073855id_/http%3A//www.mensjournal.com/subscription/customersvc.html)  
+[](https://web.archive.org/web/20080607132551id_/http%3A//www.mensjournal.com/subscription/customersvc.html)  
 |  |  |  | 
 
 **Privacy Policy**
@@ -76,4 +76,4 @@ In the event of a bankruptcy, sale, merger, public offering, or other change in 
 This Privacy Policy was revised on 10/17/06.
 
 Copyright ©2005 by Men's Journal LLC  
-WENNER MEDIA: [RollingStone.com](https://web.archive.org/web/20071201073855id_/http%3A//www.mensjournal.com/http://www.rollingstone.com) | [Us Online](http://usmagazine.com/) | |  |  | 
+WENNER MEDIA: [RollingStone.com](https://web.archive.org/web/20080607132551id_/http%3A//www.mensjournal.com/http://www.rollingstone.com) | [Us Online](http://usmagazine.com/) | |  |  | 
