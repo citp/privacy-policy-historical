@@ -1,0 +1,769 @@
+<!--The following is the downloaded HTML source of the vyoms.com privacy policy that was archived on 2008-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080607155027id_/http%3A//vyoms.com/terms.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>About VYOMS</title>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript1.2" src="/images/javascript.js"></script>
+<script> 
+	function fToggleCheck(oCheckbox){
+		var el,i=0, bWhich = oCheckbox.checked, oForm = oCheckbox.form;
+		while (el = oForm[i++]) if (el.type == 'checkbox') el.checked = bWhich;
+		}
+</script>
+
+
+<link href="http://www.vyoms.com/include/style.css" rel="stylesheet" type="text/css">
+<!-- tooltip -->
+<style type="text/css">
+
+#dhtmltooltip{
+position: absolute;
+left: -300px;
+width: 150px;
+border: 1px solid black;
+padding: 2px;
+background-color: #E8F1D4;
+visibility: hidden;
+z-index: 100;
+}
+
+#dhtmlpointer{
+position:absolute;
+left: -300px;
+z-index: 101;
+visibility: hidden;
+}
+
+</style>
+<!-- tooltip -->
+
+<!-- popup window -->
+<script language="JavaScript" type="text/javascript">
+function popitup(url)
+	{
+		newwindow=window.open(url,'name','scrollbars=no,toolbars=yes,statusbar=yes,height=250,width=500');
+		if (window.focus) {newwindow.focus()}
+		return false;
+	}
+
+</script>
+
+ <script language="JavaScript" type="text/JavaScript">
+
+
+var tabdropdown={
+	disappeardelay: 200, //set delay in miliseconds before menu disappears onmouseout
+	disablemenuclick: false, //when user clicks on a menu item with a drop down menu, disable menu item's link?
+	enableiframeshim: 1, //1 or 0, for true or false
+
+	//No need to edit beyond here////////////////////////
+	dropmenuobj: null, ie: document.all, firefox: document.getElementById&&!document.all, previousmenuitem:null,
+	currentpageurl: window.location.href.replace("http://"+window.location.hostname, "").replace(/^\//, ""), //get 
+
+	getposOffset:function(what, offsettype){
+		var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+		var parentEl=what.offsetParent;
+			while (parentEl!=null){
+				totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+				parentEl=parentEl.offsetParent;
+			}
+		return totaloffset;
+	},
+
+	showhide:function(obj, e, obj2){ //obj refers to drop down menu, obj2 refers to tab menu item mouse is currently over
+		if (this.ie || this.firefox)
+			this.dropmenuobj.style.left=this.dropmenuobj.style.top="-500px"
+		if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover"){
+			if (obj2.parentNode.className.indexOf("default")==-1) //if tab isn't a default selected one
+				obj2.parentNode.className="selected"
+			obj.visibility="visible"
+			}
+		else if (e.type=="click")
+			obj.visibility="hidden"
+	},
+
+	iecompattest:function(){
+		return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+	},
+
+	clearbrowseredge:function(obj, whichedge){
+		var edgeoffset=0
+		if (whichedge=="rightedge"){
+			var windowedge=this.ie && !window.opera? this.standardbody.scrollLeft+this.standardbody.clientWidth-15 : window.pageXOffset+window.innerWidth-15
+			this.dropmenuobj.contentmeasure=this.dropmenuobj.offsetWidth
+		if (windowedge-this.dropmenuobj.x < this.dropmenuobj.contentmeasure)  //move menu to the left?
+			edgeoffset=this.dropmenuobj.contentmeasure-obj.offsetWidth
+		}
+		else{
+			var topedge=this.ie && !window.opera? this.standardbody.scrollTop : window.pageYOffset
+			var windowedge=this.ie && !window.opera? this.standardbody.scrollTop+this.standardbody.clientHeight-15 : window.pageYOffset+window.innerHeight-18
+			this.dropmenuobj.contentmeasure=this.dropmenuobj.offsetHeight
+			if (windowedge-this.dropmenuobj.y < this.dropmenuobj.contentmeasure){ //move up?
+				edgeoffset=this.dropmenuobj.contentmeasure+obj.offsetHeight
+				if ((this.dropmenuobj.y-topedge)<this.dropmenuobj.contentmeasure) //up no good either?
+					edgeoffset=this.dropmenuobj.y+obj.offsetHeight-topedge
+			}
+			this.dropmenuobj.firstlink.style.borderTopWidth=(edgeoffset==0)? 0 : "1px" //Add 1px top border to menu if dropping up
+		}
+		return edgeoffset
+	},
+
+	dropit:function(obj, e, dropmenuID){
+		if (this.dropmenuobj!=null){ //hide previous menu
+			this.dropmenuobj.style.visibility="hidden" //hide menu
+			if (this.previousmenuitem!=null && this.previousmenuitem!=obj){
+				if (this.previousmenuitem.parentNode.className.indexOf("default")==-1) //If the tab isn't a default selected one
+					this.previousmenuitem.parentNode.className=""
+			}
+		}
+		this.clearhidemenu()
+		if (this.ie||this.firefox){
+			obj.onmouseout=function(){tabdropdown.delayhidemenu(obj)}
+			obj.onclick=function(){return !tabdropdown.disablemenuclick} //disable main menu item link onclick?
+			this.dropmenuobj=document.getElementById(dropmenuID)
+			this.dropmenuobj.onmouseover=function(){tabdropdown.clearhidemenu()}
+			this.dropmenuobj.onmouseout=function(e){tabdropdown.dynamichide(e, obj)}
+			this.dropmenuobj.onclick=function(){tabdropdown.delayhidemenu(obj)}
+			this.showhide(this.dropmenuobj.style, e, obj)
+			this.dropmenuobj.x=this.getposOffset(obj, "left")
+			this.dropmenuobj.y=this.getposOffset(obj, "top")
+			this.dropmenuobj.style.left=this.dropmenuobj.x-this.clearbrowseredge(obj, "rightedge")+"px"
+			this.dropmenuobj.style.top=this.dropmenuobj.y-this.clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+1+"px"
+			this.previousmenuitem=obj //remember main menu item mouse moved out from (and into current menu item)
+			this.positionshim() //call iframe shim function
+		}
+	},
+
+	contains_firefox:function(a, b) {
+		while (b.parentNode)
+		if ((b = b.parentNode) == a)
+			return true;
+		return false;
+	},
+
+	dynamichide:function(e, obj2){ //obj2 refers to tab menu item mouse is currently over
+		var evtobj=window.event? window.event : e
+		if (this.ie&&!this.dropmenuobj.contains(evtobj.toElement))
+			this.delayhidemenu(obj2)
+		else if (this.firefox&&e.currentTarget!= evtobj.relatedTarget&& !this.contains_firefox(evtobj.currentTarget, evtobj.relatedTarget))
+			this.delayhidemenu(obj2)
+	},
+
+	delayhidemenu:function(obj2){
+		this.delayhide=setTimeout(function(){tabdropdown.dropmenuobj.style.visibility='hidden'; if (obj2.parentNode.className.indexOf('default')==-1) obj2.parentNode.className=''},this.disappeardelay) //hide menu
+	},
+
+	clearhidemenu:function(){
+		if (this.delayhide!="undefined")
+			clearTimeout(this.delayhide)
+	},
+
+	positionshim:function(){ //display iframe shim function
+		if (this.enableiframeshim && typeof this.shimobject!="undefined"){
+			if (this.dropmenuobj.style.visibility=="visible"){
+				this.shimobject.style.width=this.dropmenuobj.offsetWidth+"px"
+				this.shimobject.style.height=this.dropmenuobj.offsetHeight+"px"
+				this.shimobject.style.left=this.dropmenuobj.style.left
+				this.shimobject.style.top=this.dropmenuobj.style.top
+			}
+		this.shimobject.style.display=(this.dropmenuobj.style.visibility=="visible")? "block" : "none"
+		}
+	},
+
+	hideshim:function(){
+		if (this.enableiframeshim && typeof this.shimobject!="undefined")
+			this.shimobject.style.display='none'
+	},
+
+isSelected:function(menuurl){
+	var menuurl=menuurl.replace("http://"+menuurl.hostname, "").replace(/^\//, "")
+	return (tabdropdown.currentpageurl==menuurl)
+},
+
+	init:function(menuid, dselected){
+		this.standardbody=(document.compatMode=="CSS1Compat")? document.documentElement : document.body //create reference to common "body" across doctypes
+		var menuitems=document.getElementById(menuid).getElementsByTagName("a")
+		for (var i=0; i<menuitems.length; i++){
+			if (menuitems[i].getAttribute("rel")){
+				var relvalue=menuitems[i].getAttribute("rel")
+				document.getElementById(relvalue).firstlink=document.getElementById(relvalue).getElementsByTagName("a")[0]
+				menuitems[i].onmouseover=function(e){
+					var event=typeof e!="undefined"? e : window.event
+					tabdropdown.dropit(this, event, this.getAttribute("rel"))
+				}
+			}
+			if (dselected=="auto" && typeof setalready=="undefined" && this.isSelected(menuitems[i].href)){
+				menuitems[i].parentNode.className+=" selected default"
+				var setalready=true
+			}
+			else if (parseInt(dselected)==i)
+				menuitems[i].parentNode.className+=" selected default"
+		}
+	}
+
+}
+ </script>
+
+
+
+
+<!-- popup window -->
+</head>
+<body>
+
+<!-- tooltip -->
+<script type="text/javascript">
+
+/***********************************************
+* Cool DHTML tooltip script II- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var offsetfromcursorX=12 //Customize x offset of tooltip
+var offsetfromcursorY=10 //Customize y offset of tooltip
+
+var offsetdivfrompointerX=10 //Customize x offset of tooltip DIV relative to pointer image
+var offsetdivfrompointerY=14 //Customize y offset of tooltip DIV relative to pointer image. Tip: Set it to (height_of_pointer_image-1).
+
+document.write('<div id="dhtmltooltip"></div>') //write out tooltip DIV
+document.write('<img id="dhtmlpointer" src="/images/arrow2.gif">') //write out pointer image
+
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+if (ie||ns6)
+var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+var pointerobj=document.all? document.all["dhtmlpointer"] : document.getElementById? document.getElementById("dhtmlpointer") : ""
+
+function ietruebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function ddrivetip(thetext, thewidth, thecolor){
+if (ns6||ie){
+if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+//if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+tipobj.style.backgroundColor='#FFFFC4'
+tipobj.style.fontFamily='verdana'
+tipobj.style.fontSize='8pt'
+tipobj.style.borderColor='#D8D8D8'
+tipobj.innerHTML=thetext
+enabletip=true
+return false
+}
+}
+
+function positiontip(e){
+if (enabletip){
+var nondefaultpos=false
+var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
+var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
+//Find out how close the mouse is to the corner of the window
+var winwidth=ie&&!window.opera? ietruebody().clientWidth : window.innerWidth-20
+var winheight=ie&&!window.opera? ietruebody().clientHeight : window.innerHeight-20
+
+var rightedge=ie&&!window.opera? winwidth-event.clientX-offsetfromcursorX : winwidth-e.clientX-offsetfromcursorX
+var bottomedge=ie&&!window.opera? winheight-event.clientY-offsetfromcursorY : winheight-e.clientY-offsetfromcursorY
+
+var leftedge=(offsetfromcursorX<0)? offsetfromcursorX*(-1) : -1000
+
+//if the horizontal distance isn't enough to accomodate the width of the context menu
+if (rightedge<tipobj.offsetWidth){
+//move the horizontal position of the menu to the left by it's width
+tipobj.style.left=curX-tipobj.offsetWidth+"px"
+nondefaultpos=true
+}
+else if (curX<leftedge)
+tipobj.style.left="5px"
+else{
+//position the horizontal position of the menu where the mouse is positioned
+tipobj.style.left=curX+offsetfromcursorX-offsetdivfrompointerX+"px"
+pointerobj.style.left=curX+offsetfromcursorX+"px"
+}
+
+//same concept with the vertical position
+if (bottomedge<tipobj.offsetHeight){
+tipobj.style.top=curY-tipobj.offsetHeight-offsetfromcursorY+"px"
+nondefaultpos=true
+}
+else{
+tipobj.style.top=curY+offsetfromcursorY+offsetdivfrompointerY+"px"
+pointerobj.style.top=curY+offsetfromcursorY+"px"
+}
+tipobj.style.visibility="visible"
+if (!nondefaultpos)
+pointerobj.style.visibility="visible"
+else
+pointerobj.style.visibility="hidden"
+}
+}
+
+function hideddrivetip(){
+if (ns6||ie){
+enabletip=false
+tipobj.style.visibility="hidden"
+pointerobj.style.visibility="hidden"
+tipobj.style.left="-1000px"
+tipobj.style.backgroundColor=''
+tipobj.style.width=''
+}
+}
+
+document.onmousemove=positiontip
+
+</script><div id="dhtmltooltip"></div><img id="dhtmlpointer" src="/images/arrow2.gif">
+<!-- tooltip -->
+
+ <!--<IFRAME WIDTH="100%" HEIGHT="25" MARGINWIDTH=0 MARGINHEIGHT=0 FRAMEBORDER=0 HSPACE=0 VSPACE=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://www.vyomworld.com/include/special.asp"></IFRAME>-->
+ <br>
+<table width="98%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+    <td width="88%" valign="top">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td valign="top" width="40%"><a href="/"><img src="/images/logo.png" alt="VYOMS" name="VYOMS" border="0" id="VYOMS"></a></td>
+			<form method="get" action="http://www.google.com/custom" target="google_window"></form>
+			<input type="hidden" name="domains" value="vyoms.com;vyomworld.com;jobsassist.com">
+			<input type="hidden" name="sitesearch" value="vyoms.com">
+			<input type="hidden" name="client" value="pub-4686307991865625">
+			<input type="hidden" name="forid" value="1">
+			<input type="hidden" name="channel" value="2685560653">
+			<input type="hidden" name="ie" value="ISO-8859-1">
+			<input type="hidden" name="oe" value="ISO-8859-1">
+			<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:CEFBD8;LBGC:FFFBF0;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:42;LW:106;L:http://www.vyoms.com/images/logo-small.gif;S:http://www.vyoms.com;FORID:1;">
+			<input type="hidden" name="hl" value="en">
+			<td width="250" align="right" valign="top">
+				<embed src="/images/resumesquarrel/resumesquirrelbg.swf" width="500" height="80" alt="VYOMS">
+			</td>
+			 
+		</tr>
+		</tbody></table>		
+		<table width="100%" height="20" border="0" cellpadding="0" cellspacing="0">
+		
+		<tbody><tr>
+			<td bgcolor="#E8F3FF" align="center">
+				</td>
+				<td>
+				
+					<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tbody><tr>
+					<td colspan="3" nowrap="" class="white" align="left">
+						<div id="moonmenu" class="halfmoon">
+						<ul>
+							<li><a href="/" title="HOME"><span>&nbsp;HOME&nbsp;&nbsp;</span></a></li>
+							
+								<li><a href="/candidates/default.asp" title="JOB SEEKERS" rel="dropmenu1_a"><span>&nbsp;JOB SEEKERS&nbsp;&nbsp;</span></a></li>
+								<li><a href="/employers/" title="Employers" target="_blank" rel="dropmenu2_a"><span>&nbsp;EMPLOYERS&nbsp;&nbsp;</span></a></li>
+							
+							<li class=" selected default"><a href="/rss-feeds.asp" title="Get latest RSS/XML job feeds to your desktop!"><span>&nbsp;RSS FEEDS&nbsp;&nbsp;</span></a></li>
+
+							<li><a href="/toolsWidgets.asp" title="TOOLS &amp; WIDGETS"><span>&nbsp;TOOLS &amp; WIDGETS&nbsp;&nbsp;</span></a></li>
+
+							<li><a href="/contactus.asp" title="CONTACT"><span>&nbsp;CONTACT&nbsp;&nbsp;</span></a></li>
+
+							<li><a href="/feedBack.asp" title="FEED BACK"><span>&nbsp;FEED BACK&nbsp;</span></a></li>
+
+							<li><a href="/advertise.asp" title="ADVERTISE"><span>&nbsp;ADVERTISE&nbsp;</span></a> </li>
+						</ul>
+						</div>
+
+						<!--1st drop down menu -->                                                   
+						<div id="dropmenu1_a" class="dropmenudiv_e" align="left">
+						<a href="/candidates/default.asp" title="LogIn">Login</a>
+						<a href="/candidates/register.asp" title="register">Register</a>
+						<!-- <a href="/candidates/register.asp" title="Search Jobs">Search Job</a> -->
+						<a href="/candidates/register.asp" title="Post Resume">Post Resume</a>
+						</div>
+
+						<!--2nd drop down menu -->                                                
+						<div id="dropmenu2_a" class="dropmenudiv_e" style="width: 150px;" align="left">
+						<a href="/employers/" title="LogIn" target="_blank">Login</a>
+						<a href="/employers/register.asp" title="Register" target="_blank">Register</a>
+						</div>
+						
+						<!--1st drop down menu -->                                                   
+						<div id="dropmenu1_c" class="dropmenudiv_e" align="left">
+						<a href="/collegeCampus/default.asp" title="LogIn">Login</a>
+						<a href="/collegeCampus/registerCollege.asp" title="register">Register</a>
+						<a href="/collegeCampus/default.asp" title="Search Students">Search Students</a>
+						</div>
+
+						<script type="text/javascript">
+						//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+						tabdropdown.init("moonmenu", 3)
+						</script>
+					</td>
+				</tr>
+				</tbody></table>
+				</td>
+				<!--<td valign="middle" bgcolor="#E8F3FF" align="right">
+				&nbsp;&nbsp;<a href="/candidates/register.asp" class="subtitle1">Register</a> <font size="1">|</font> <a href="/candidates/" class="subtitle1">Login</a>&nbsp;&nbsp;
+			</td>	-->
+		</tr>
+		
+		</tbody></table> 
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td width="18%" valign="top">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td valign="top">
+				<table width="100%" border="0" cellspacing="0" cellpadding="1">
+				<tbody><tr align="left">
+					<td class="leftMenu"><a href="/candidates/register.asp" class="whitefont" title="Join Vyoms"> &nbsp;&nbsp;&nbsp;&nbsp;JOIN VYOMS</a></td>
+				</tr>
+				<tr align="left">
+					<td class="leftMenu"><a href="/jobs/job-type/details/freshers-jobs-1.asp" class="whitefont" title="Freshers jobs"> &nbsp;&nbsp;&nbsp;&nbsp;FRESHERS JOBS</a></td>
+				</tr>
+				<tr align="left">
+					<td class="leftMenu"><a href="/jobs/job-type/details/walk-ins-4.asp" class="whitefont" title="WALK-INS"> &nbsp;&nbsp;&nbsp;&nbsp;WALK-INS&nbsp;</a></td>
+				</tr>
+				<tr align="left">
+					<td class="leftMenu"><a href="/jobs/job-type/details/government-jobs-6.asp" class="whitefont" title="Govenment Jobs"> &nbsp;&nbsp;&nbsp;&nbsp;GOVERNMENT JOBS</a></td>
+				</tr>
+				<tr align="left">
+					<td class="leftMenu"><a href="/jobs/job-type/details/experienced-jobs-2.asp" class="whitefont" title="Experinced  Jobs"> &nbsp;&nbsp;&nbsp;&nbsp;EXPERIENCED JOBS</a></td>
+				</tr>
+				<tr align="left">
+					<td class="leftMenu"><a href="/rss-feeds.asp" class="whitefont" title="Rss Feeds"> &nbsp;&nbsp;&nbsp;&nbsp;RSS/XML FEEDS&nbsp;</a></td>
+				</tr>
+				<tr align="left">
+					<td class="leftMenu"><a href="/jobs/showmultiplejobs.asp" class="whitefont" title="Browse By Tags"> &nbsp;&nbsp;&nbsp;&nbsp;BROWSE BY TAGS&nbsp;</a></td>
+				</tr>
+				<tr align="left">
+					<td class="leftMenu"><a href="/company-profiles/" class="whitefont" title="Company Profiles"> &nbsp;&nbsp;&nbsp;&nbsp;COMPANY PROFILES</a></td>
+				</tr>
+				<tr align="left">
+					<td class="leftMenu"><a href="/fresher-news/" class="whitefont" title="Freshers News"> &nbsp;&nbsp;&nbsp;&nbsp;FRESHERS NEWS</a></td>
+				</tr>
+				<tr align="left">
+					<td class="leftMenu"><a href="/interview-questions/" class="whitefont" title="Interview Question"> &nbsp;&nbsp;&nbsp;&nbsp;INTERVIEW QUESTIONS</a></td>
+				</tr>
+				<tr align="left">
+					<td class="leftMenu"><a href="/placement-papers/" class="whitefont" title="Placement Papers"> &nbsp;&nbsp;&nbsp;&nbsp;PLACEMENT PAPERS</a></td>
+				</tr>
+				<tr align="left">
+					<td class="leftMenu"><a href="/consultants/" class="whitefont" title="Consultants List"> &nbsp;&nbsp;&nbsp;&nbsp;CONSULTANTS LIST</a></td>
+				</tr>
+				<tr align="left">
+					<td class="leftMenu"><a href="/training-institutes/" class="whitefont" title="Trarining Institutes"> &nbsp;&nbsp;&nbsp;&nbsp;TRAINING INSTITUTES</a></td>
+				</tr>
+				<!--<tr align="left">
+				<td class="leftMenu"><a href="/companies/" class="blue"><img src="/images/icon_b.gif" width="13" height="5" border=0>&nbsp;&nbsp;&nbsp;&nbsp;IT COMPANIES</a></td>
+				</tr>-->
+				<tr align="left">
+					<td class="leftMenu"><a href="/call-centers/" class="whitefont" title="Call Center information"> &nbsp;&nbsp;&nbsp;&nbsp;CALL CENTRE INFORMATION</a></td>
+				</tr>
+				<tr align="left">
+					<td class="leftMenu"><a href="/colleges/" class="whitefont" title="College List"> &nbsp;&nbsp;&nbsp;&nbsp;COLLEGES LIST</a></td>
+				</tr>
+				
+				<tr align="left">
+					<td class="leftMenu"><a href="/articles/" class="whitefont" title="Job Article"> &nbsp;&nbsp;&nbsp;&nbsp;JOB ARTICLES</a></td>
+				</tr>
+				<tr align="left">
+					<td class="leftMenu"><a href="/news/" class="whitefont" title="Latest News">
+					&nbsp;&nbsp;&nbsp;&nbsp;LATEST NEWS</a>
+					</td>
+				</tr>
+				<tr align="left">
+					
+					<td class="leftMenu"><a href="/candidates/default.asp" class="whitefont" title="Resume Submitter">
+					&nbsp;&nbsp;&nbsp;&nbsp;RESUME SUBMITTER</a>
+					</td>
+				</tr>
+				
+				<tr align="left">
+					<td>
+						<table width="100%" bgcolor="#E0E0E0" cellspacing="1" cellpadding="4">
+						<tbody><tr>
+							<td background="/images/vyombar.gif" class="whitefont" align="center"><font size="1">VYOMS TOP EMPLOYERS</font></td>
+						</tr>
+						<tr bgcolor="white" class="subtitle1">
+							<td>
+								Click on the logo to apply.<br><br><center>
+								<a href="/jobs/companies/details/infosys-technologies-ltd--543.asp" target="_blank">
+									<img src="/images/infosys.gif" width="155" height="49" border="0" alt="Infosys Technologies">
+								</a><br><br>
+								<a href="/jobs/companies/details/wipro-425.asp" target="_blank">
+									<img src="/images/wipro.gif" width="155" height="49" border="0" alt="Wipro Technologies">
+								</a><br><br>
+								<a href="/jobs/companies/details/tcs-376.asp" target="_blank">
+									<img src="/images/tata-consultancy.gif" width="155" height="49" border="0" alt="Tata Consultancy Services">
+								</a><br><br>
+								<a href="/jobs/companies/details/accenture-377.asp" target="_blank">
+									<img src="/images/accenture.gif" width="155" height="49" border="0" alt="Accenture">
+								</a><br><br>
+								<a href="/jobs/companies/details/ibm-619.asp" target="_blank">
+									<img src="/images/ibm-logo.gif" width="155" height="49" border="0" alt="IBM">
+								</a><br><br>
+								<a href="/jobs/companies/details/satyam-502.asp" target="_blank">
+									<img src="/images/satyam.gif" width="155" height="49" border="0" alt="Satyam">
+								</a><br><br>
+								<a href="/jobs/companies/details/genpact-599.asp" target="_blank"><img src="/images/genpact.gif" width="155" height="49" border="0" alt="Genpact">
+								</a><br><br>
+								<a href="/jobs/companies/details/cognizant-480.asp" target="
+								_blank"><img src="/images/cognizant.gif" width="155" height="49" border="0" alt="Cognizant Technologies">
+								</a>
+								</center>
+							</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+<table width="99%" align="center" border="0" bgcolor="#E0E0E0" cellspacing="1" cellpadding="4">
+<tbody><tr>
+    <td height="25" align="center" valign="middle" class="whitefont" background="/images/vyombar.gif"><strong>FREE JOBS NEWSLETTER</strong></td>
+</tr>
+<tr>
+    <td valign="top" bgcolor="white">
+		<table width="100%" border="0" cellspacing="0" cellpadding="6" class="blue">
+		<tbody><tr>
+			<td>
+				
+				<center><font color="red">2,81,442 [<a href="http://groups.google.com/group/jobsassist/about" target="_blank">83,141</a> + <a href="http://groups.yahoo.com/group/Vyom-Jobs/" target="_blank">1,98,301</a>] MEMBERS!</font><br>
+				<center>
+<form method="get" action="http://finance.groups.yahoo.com/subscribe/Vyom-Jobs">
+<table cellspacing="0" cellpadding="2" border="0">
+  
+  <tbody><tr>
+    <td>
+      <input type="text" name="user" value="enter email address" size="20">
+    </td>
+	</tr>
+	<tr>
+    <td align="center">
+      <input type="submit" value="Subscribe">
+    </td>
+  </tr>
+  
+  
+</tbody></table>
+</form>
+
+			</center></center></td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+<!--center>
+<script type="text/javascript"	src="http://adserver.vyomworld.com/showad.asp?c=5&w=120&h=600&t=1&border=ABCADB&bg=ABCADB&link=006AA4&url=008000&text=000000">
+</script>
+</center-->
+</td>
+<td valign="top" width="*">
+	<table width="100%" border="0" cellpadding="5" cellspacing="0" bgcolor="#FFFFFF">
+	<tbody><tr>
+		<td valign="top" class="text" width="100%">
+
+			<table width="100%">
+			<tbody><tr>
+				<td class="text">
+					<p align="right">
+					<font class="text"><a href="/jobs/job-type/details/freshers-jobs-1.asp" title="Freshers Jobs"><b>FRESHERS JOBS</b></a> | <a href="/jobs/job-type/details/government-jobs-6.asp" title="Government Jobs"><b>GOVERNMENT JOBS</b></a> | <a href="/jobs/job-type/details/defence-5.asp" title="Defence Jobs"><b>DEFENCE JOBS</b></a> | <a href="/jobs/job-type/details/experienced-jobs-2.asp" title="Experinced Jobs"><b>EXPERIENCED JOBS</b></a> | <a href="/jobs/job-type/details/walk-ins-4.asp" title="Walk Ins"><b>WALK-INS</b></a></font></p>
+				</td>
+			</tr>
+			</tbody></table>
+
+
+<title>Privacy Policy </title>
+
+
+<!-- SiteSearch Google -->
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-4686307991865625";
+//Vyoms-AdLink-Unit
+google_ad_slot = "3979051987";
+google_ad_width = 468;
+google_ad_height = 15;
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<p>
+</p><form method="get" action="http://www.vyoms.com/search.asp" target="_top">
+<table border="0" bgcolor="#ffffff">
+<tbody><tr><td nowrap="nowrap" valign="top" align="left" height="32">
+
+</td>
+<td nowrap="nowrap">
+<input type="hidden" name="domains" value="www.vyoms.com">
+
+<img src="/images/new2.gif" align="absmiddle"> <font color="red" face="verdana" size="2"><b>Search Jobs:</b></font> <input type="text" name="q" size="31" maxlength="255" value="" id="sbi">
+
+<input type="submit" name="sa" value="Google Search" id="sbb">
+<center><font face="verdana" size="1">(For ex: Software Testing Jobs, Java Jobs, .Net Jobs)</font></center>
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td nowrap="nowrap">
+<input type="hidden" name="sitesearch" value="www.vyoms.com" id="ss1">
+<input type="hidden" name="client" value="pub-4686307991865625">
+<input type="hidden" name="forid" value="1">
+<input type="hidden" name="channel" value="2685560653">
+<input type="hidden" name="ie" value="ISO-8859-1">
+<input type="hidden" name="oe" value="ISO-8859-1">
+<input type="hidden" name="flav" value="0000">
+<input type="hidden" name="sig" value="AP9ZhY1lzCasFMLk">
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:11">
+<input type="hidden" name="hl" value="en">
+
+</td></tr></tbody></table>
+</form>
+<!-- SiteSearch Google -->
+</center>
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-4686307991865625";
+//Vyoms-TopBanner-Unit
+google_ad_slot = "4195452515";
+google_ad_width = 468;
+google_ad_height = 60;
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+
+
+<table width="100%">
+<tbody><tr>
+<td class="box_title_parent_1"><font style="font-family: verdana" size="2"><b> Privacy Policy</b> </font></td>
+</tr>
+</tbody></table>
+<table align="center" cellpadding="5" width="90%">
+<tbody><tr>
+	<td>
+		<font style="font-family: verdana" size="2">
+		<p align="justify">
+		Welcome to the Vyom Network, owned and produced by Vyom Technosoft. The Vyom Network is currently one of the most visited hubs on the Internet. The Vyom Network provides leading Web search and navigation, homepage building and Web community services, communications and personalization tools and many more. Integrated, these sites help each individual user locate, retrieve and manage information tailored to his or her personal interests. Unless explicitly stated otherwise, any new Products and Services as defined below, including the addition of new Vyom Network properties shall be subject to these Terms and Conditions.<br><br>
+		onestopmba.com respects your privacy and strives to ensure that any personal information you provide is protected. The following describes our commitment to the privacy of your information, the information we gather, and how that information is used. This site has security measures in place to help protect the loss, misuse, and alteration of the information under our control. The information is stored in a secure operating environment.<br><br></p>
+
+			<p>All Vyoms.com mailing lists are voluntary. We will never add you to an email listing unless you first request it or join a Vyoms.com administered mailing list. Users may opt-out of receiving future mailings at any time. Additionally, any personal information you provide to vyoms.com is used to improve the quality of service we provide, and will not be intentionally misused. To remove yourself from the mailing list please click here.
+			vyoms.com does record and track IP addresses, browser information (such as version, make and model), and referring links (i.e. how you got to the page). This information helps us analyze site traffic patterns and usage as well as improve our product offering and quality of service.
+			This site may contain links to other sites. Although we are very selective in choosing these links, onestopmba.com does not assume any responsibility for or make any warranties about the privacy practices or the content of such Web sites.
+
+			Protecting your privacy is one of our highest priorities, but as with all Web sites, ours may be vulnerable to service interruptions, intentional attacks, or other events that may compromise the security of our site and the information contained therein (including that which you provide). Accordingly, by submitting such information, you acknowledge and agree that vyoms.com is not responsible for any direct or consequential damages that may result from such events.
+
+			If you have any questions about this privacy statement, the practices of this site, or your dealings with the www.vyoms.com Web site,
+
+			please contact us at : <br></p><center> <font color="green">amit[dot]mathur[at]vyom[dot]co[dot]in<br>
+
+			Note : Please replace [at] with @ and [dot] with . in the above email address.</font></center><p></p>
+		</font>
+	</td>
+</tr>
+</tbody></table>
+<br><br>
+
+</td></tr></tbody></table>
+</td>
+	<td width="160px" valign="top">
+		<table width="100%" border="0" cellspacing="1" cellpadding="5" bgcolor="#E0E0E0">
+		<tbody><tr>
+			<td background="/images/vyombar.gif" align="center" valign="center"><font size="1" class="whitefont">SPONSORS</font></td>
+		</tr>
+		<tr>
+			<td bgcolor="white">
+				<script type="text/javascript"><!--
+				google_ad_client = "pub-4686307991865625";
+				//Vyoms-RightBanner-Unit
+				google_ad_slot = "2823425137";
+				google_ad_width = 160;
+				google_ad_height = 600;
+				//--></script>
+				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+				<br>
+				<script type="text/javascript"><!--
+				google_ad_client = "pub-4686307991865625";
+				//Vyoms-RightBottom-Unit
+				google_ad_slot = "8746897237";
+				google_ad_width = 160;
+				google_ad_height = 600;
+				//--></script>
+				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+			</td>
+		</tr>
+	</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+
+<table width="100%" align="center" border="0" cellspacing="1" cellpadding="0" bgcolor="#E0E0E0" background="/images/vyombar.gif">
+<tbody><tr height="25" class="light">    
+	<td valign="middle" width="50%"><font color="white">Copyright © 2001-2008 VYOM Technosoft Pvt Ltd. All Rights Reserved.</font></td>
+	<td valign="middle" width="50%" align="right"><a href="/" class="light"><font color="white">Home</font></a><font color="white"> | <a href="/aboutus.asp" class="light" target="_blank"><font color="white">About Us</font></a><font color="white"> | <a href="/jobs/" class="light"><font color="white">Jobs</font></a><font color="white"> | <a href="/contactus.asp" class="light" target="_blank"><font color="white">Contact Us</font></a><font color="white"> | <a href="/terms.asp" class="light" target="_blank"><font color="white">Privacy Policy</font></a><font color="white">.</font></font></font></font></font></td>
+</tr>
+</tbody></table>
+</td>
+</tr>  
+</tbody></table>
+
+
+<!-- Kontera ContentLink(TM);-->
+<script type="text/javascript">
+var dc_AdLinkColor = 'orange' ;
+var dc_UnitID = 14 ;
+var dc_PublisherID = 10273;
+var dc_adprod = 'ADL' ;
+</script>
+<script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js">
+</script>
+<!-- Kontera ContentLink(TM) -->
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-4686307991865625";
+/* Forex */
+google_ad_slot = "7192677288";
+google_ad_width = 468;
+google_ad_height = 60;
+google_cpa_choice = ""; // on file
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+<center>
+<font class="light"><b>Disclaimer</b>: VYOMS.com has taken all reasonable steps to ensure that information on this site is authentic. Applicants are advised to research bonafides of advertisers independently. VYOMS.com shall not have any  responsibility in this regard.</font>
+<center><font class="blue10">0.0000</font></center>
+<font class="light">
+<a href="http://www.vyomworld.com/placementpapers/index.asp" class="light">Placement Papers</a> | <a href="http://www.vyomworld.com/sms/" class="light">FREE SMS</a> | <a href="http://www.coolinterview.com/type.asp?iType=41" class="light">C++ Interview Questions</a> | <a href="http://www.coolinterview.com/type.asp?iType=40" class="light">C Interview Questions</a><br>
+</font>
+</center>
+
+
+
+<center>
+<script language="javascript"><!--
+ua=navigator.userAgent.toLowerCase(); cd=""; js="1.0"; sr=""; // --></script>
+<script language="javascript1.1"><!--
+js="1.1"; // --></script>
+<script language="javascript1.2"><!--
+js="1.2"; cd=(ua.indexOf("msie")!=-1)?screen.colorDepth:screen.pixelDepth; sr=screen.width+"x"+screen.height; // --></script>
+<script language="javascript1.3"><!--
+js="1.3"; // --></script>
+<script language="javascript1.4"><!--
+js="1.4"; // --></script>
+<script language="javascript"><!--
+re=escape(top.document.referrer);
+args="?cid=18120&style=2&re="+re+"&cd="+cd+"&js="+js+"&sr="+sr;
+document.write("<img src='http://www.tdstats.com/in/"+args+"' border=0>");
+//--></script><img src="http://www.tdstats.com/in/?cid=18120&amp;style=2&amp;re=&amp;cd=24&amp;js=1.4&amp;sr=800x600" border="0">
+</center>
+
+
+</body></html>
