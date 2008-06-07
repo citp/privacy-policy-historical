@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yankeemagazine.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210091822id_/http%3A//www.yankeemagazine.com/contact/aboutyankee/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yankeemagazine.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607212517id_/http%3A//www.yankeemagazine.com/contact/aboutyankee/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Yankee Magazine
 
@@ -9,6 +9,8 @@
 Yankee Publishing Inc. respects your right to privacy. 
 
 We use the information you supply us in different ways. We use your survey responses and feedback e-mail to help us improve the content and experience offered to our Web users. And we use your contact information to interact with you (if that was your intention). 
+
+We invite your online comments to the articles we post on our Web site, and reserve the right to remove any comment at the discretion of the editors.
 
 We will save your contact information to occasionally update you on new offerings about our Web site. If you sign up for our newsletter we will add your name to the subscription list for our e-mail newsletter, which we send out bi-weekly. You can remove your name from this list by following the instructions in the newsletter text. 
 
