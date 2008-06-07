@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ratemydrawings.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213014138id_/http%3A//www.ratemydrawings.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemydrawings.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607064226id_/http%3A//www.ratemydrawings.com/pages/privacy.php) for the most accurate reproduction.*
 
-# Rate My Drawing - draw, and get rated! - - - mixarcade.com - - -
+# RateMyDrawings Privacy Policy
 
 > RateMyDrawings strongly believes in their members right to privacy.
 > 
@@ -10,11 +10,11 @@
 > 
 >   
 >  **Email Address Confidentiality  
->  **RateMyDrawings takes all precautions to ensure your email address is never used or stolen. We will not sell or rent your email address to third parties and will only use your email address for activation of your drawings and RateMyDrawings announcements.
+>  **RateMyDrawings takes all precautions to ensure your email address is never used or stolen. We will not sell or rent your email address to third parties and will only use your email address for registratin on our websites and activation of your drawings and RateMyDrawings announcements.
 > 
 >   
 >  **Information Sharing  
->  **Web user information such as account and profile information is stored securely at our web hosting providers facilities with the highest security implementations. This information along with users email addresses is not share and will not be sold or rented to any third parties.
+>  **Web user information such as account and profile information is stored securely at our web hosting providers facilities with the highest security implementations. We have taken care in choosing hosting facilities that have secure measures, however we are not held accountable for issues outside of our control by these hosting providers. This information along with users email addresses is not shared and will not be sold or rented to any third parties.
 > 
 >   
 >  **Third Party Advertising  
@@ -22,7 +22,7 @@
 > 
 >   
 >  **Ownership of Information  
->  **RateMyDrawings is the sole owner of all data collected by RateMyDrawings on this site.
+>  **RateMyDrawings is the sole owner of all data collected by RateMyDrawings on this site. Ownership of drawings is explained in detail in our website Terms and Conditions. 
 > 
 >   
 >  **Security**  
