@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americommerce.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218172239id_/http%3A//www.americommerce.com/store/pg/27-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americommerce.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607114727id_/http%3A//www.americommerce.com/store/pg/27-Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
