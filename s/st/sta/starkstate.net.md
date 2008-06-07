@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starkstate.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210131427id_/http%3A//www.starkstate.edu/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starkstate.net privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607232447id_/http%3A//www.starkstate.edu/about/privacy.htm) for the most accurate reproduction.*
 
 # Stark State College Privacy Policy Statement
 
