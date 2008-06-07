@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the observepoint.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209120042id_/http%3A//observepoint.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the observepoint.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607064531id_/http%3A//www.observepoint.com/privacy_policy.php) for the most accurate reproduction.*
 
-# ObservePoint
+# ObservePoint - Privacy Policy
 
 Within the Privacy Policy, the operator of this Web site ("Website") will be referred to as "Company", "we" or "us". We are committed to complete permission-based marketing, while safeguarding your privacy online. Please read our privacy policy ("Policy") to understand how your personal information will be treated as submitted on the Website. This Policy also applies to individuals who have agreed to receive email marketing from the Company through opt-in or opt-out registration on another Website. 
 
