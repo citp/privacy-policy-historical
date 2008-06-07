@@ -1,56 +1,43 @@
-> *The following text is extracted and transformed from the computerhistory.org privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224070052id_/http%3A//www.computerhistory.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerhistory.org privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607055540id_/http%3A//www.computerhistory.org/privacy) for the most accurate reproduction.*
 
-# Computer History Museum - Privacy
+# Computer History Museum | Privacy
 
-|  | 
+The Computer History Museum (CHM) is concerned about protecting the privacy of all CHM web site visitors. CHM respects your privacy and your choice not to have your personal information shared with other people. CHM has created this privacy policy in order to demonstrate our firm commitment to protecting your privacy. Please read the following to learn more about our policy. Your use of our web site indicates your acceptance of this Privacy Policy. 
 
-_Privacy Statement for **www.computerhistory.org**_
+## Collection of Information
 
-Computer History Museum has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our current information gathering and dissemination practices for this website: _www.computerhistory.org_.
- 
-We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address may be used to gather general demographic information.
- 
-This site contains links to other websites. Neither Computer History Museum, nor its website, _www.computerhistory.org_ , are responsible for the privacy practices or content of such websites.
- 
- 
-_Security_
- 
-This site has security measures in place to protect against the loss, misuse, or alteration of the information under our control. Attempts to gain access to restricted portions of this site or to this site's technical infrastructure, for whatever purpose, are logged and may prompt commencement of an investigation by system adminstrators, History Center staff, or local, federal (U.S.) or international law-enforcement agencies. Various provisions exist to monitor activities which could be deemed suspicious in terms of network or site security. In cases where such provisions are activated, you should have no expectation of privacy.
- 
- 
- 
- 
-_Children's Guidelines_
- 
-This Web site meets the following guidelines for the protection of the privacy of children. This Web site does:
- 
-1\. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, on-line information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent.
-  
-2\. NOT collect personally-identifiable off-line contact information without prior parental consent.
-  
-3\. NOT distribute to third parties any personally-identifiable information without prior parental consent.
-  
-4\. NOT give the ability to publicly post or otherwise distribute personally-identifiable contact information without prior parental consent.
-  
-5\. NOT entice a child visitor by the prospect of a special game, prize or other method typically attractive to child-age visitors, to divulge more
-information than is needed to participate in the activity
- 
- 
-_Choice/Opt-In, Contacting the Website, Correcting Personal Information:_
- 
-Our site requires users to opt-in to receive communications from us or our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database, for not receiving future communications,
-or for modifying information previously provided:
- 
-1\. You can send e-mail to: [webmaster@computerhistory.org](https://web.archive.org/contact/index.php?email=webmaster)
-2\. You can send regular mail to the following postal address:
- 
-Webmaster
-Computer History Museum
-1401 N Shoreline Blvd.
-Mountain View, CA 94043
-U.S.A
+The Computer History Museum web site does not collect personally identifying data, such as names, addresses, email addresses, and the like, except when voluntarily submitted by web site visitors. Information collected from visitors of the CHM web site is used to make our web site more useful by helping us learn about the number of visitors to our site, the areas they access and the types of technology our visitors use. We do not track or record information about individuals and their visits. We may compile and report aggregate statistics about our web visitors — such as numbers, traffic patterns, and related site information — but these statistics include no personally identifying information.
 
-You can also call the following telephone number: 650.810.1010.
+## Security
 
-|   
----|---|---
+The Computer History Museum (CHM) web site has security measures in place to protect against the loss, misuse, or alteration of the information under our control. Attempts to gain access to restricted portions of this web site or to this web site's technical infrastructure, for whatever purpose, are logged and may prompt commencement of an investigation by CHM staff, or local, federal (U.S.) or international law-enforcement agencies. Various provisions exist to monitor activities which could be deemed suspicious in terms of network or site security. In cases where such provisions are activated, you should have no expectation of privacy. 
+
+## Disclosure of information
+
+The Computer History Museum (CHM) will not disclose or share any personal information you provide to CHM with any other third party without your permission, except if requested to do so in accordance with a court order, subpoena, or similar legal order, and in the event such disclosure is necessary to protect the rights, property, and safety of CHM, its visitors, and other third parties. CHM will not sell, trade, or rent your personal information to others without your permission.
+
+## Third Party Processing
+
+Event reservations, event tickets, other purchases and online donations made through the Computer History Museum (CHM) web site may be processed by third parties contracted by CHM who handle all related ordering, processing, and delivery of the products. The third parties' practices in connection with the ordering, processing, and delivery of products are subject to their own privacy policies.
+
+## Communications Opt-In
+
+The Computer History Museum (CHM) requires visitors to opt-in to receive information from CHM or from our partners or vendors via email. If you choose, you may opt-out from further email communication from CHM. Also you may request to have your contact information updated or amended. CHM provides web site visitors the following options for opting out of future communications: 
+
+As contact lists may be created several weeks in advance, please allow sufficient time for your request to be processed. 
+
+## Links
+
+The Computer History Museum (CHM) web site provides links to other third party web sites, and other, external web sites may provide links to the CHM web site. Third party web sites operate according to their own terms of use and privacy policies. CHM has no control over such third party Web sites, and therefore you acknowledge and agree that CHM is not responsible for the availability of such third party sites, and does not endorse and is not responsible or liable for any content, advertising, products, or other materials on or available from such third party sites. You further acknowledge and agree that CHM will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, advertising, products, or other materials on or available from such sites.
+
+## Children
+
+The Computer History Museum (CHM) web site does not solicit personal information from children. Visitors who are 13 years of age and under must obtain a parent's permission before submitting any personal information to this web site.
+
+## Changes to Our Policy
+
+The Computer History Museum may amend this privacy policy from time to time. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on this page.
+
+## Contact
+
+For questions, inquiries, or correspondence, please contact: 
