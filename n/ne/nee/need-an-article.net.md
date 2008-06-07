@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the need-an-article.net privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225132727id_/http%3A//www.need-an-article.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the need-an-article.net privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607124042id_/http%3A//www.need-an-article.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,9 +7,9 @@ Need-an-article.com is committed to protecting the privacy of our online visitor
 
 In addition, online visitors who wish to purchase a membership through our Web site must provide their name, email address, mailing address, phone number, and credit card number and expiration date. All credit card transactions occur over a secure connection. 
 
-All online visitor data collected by Need-an-article.com is protected against unauthorized access. We will not sell, trade, or give your personal information to other companies or organizations. If need-an-article.com as a whole is sold to another party all user's information collected will remain intact with need-an-article.com
+All online visitor data collected by Need-an-article.com/net is protected against unauthorized access. We will not sell, trade, or give your personal information to other companies or organizations. If need-an-article.com as a whole is sold to another party all user's information collected will remain intact with need-an-article.com/net
 
- **Children’s Privacy**
+**Children’s Privacy**
 
 We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. Need-an-article.com encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
 
@@ -19,4 +19,5 @@ Know the sites your kids are visiting and which sites are appropriate.
 
 Look for Web site privacy policies. Know how your child's information is treated. 
 
-Check out the FTC's site <<http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html>> for more tips on protecting children's privacy online. 
+Check out the FTC's site <<http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html>> for more tips on protecting children's privacy online.  
+
