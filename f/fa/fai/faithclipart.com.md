@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faithclipart.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224104135id_/http%3A//www.faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithclipart.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608010055id_/http%3A//www.faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
   
 FaithClipart.com values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [Contact@FaithClipart.com](mailto:contact@FaithClipart.com). This Privacy Statement describes how FaithClipart.com collects and uses information about you when you use the FaithClipart.com web site ("Site"). 
@@ -53,14 +53,13 @@ If you have any questions or comments about our use of Personal Information, ple
 
 [](https://www.faithclipart.com/fca/register.do)
 
-|   | 
+| 
 
 **All Suggestions, Billing and Site Questions:** [Contact@FaithClipart.com](mailto:contact@faithclipart.com)
 
 **FaithClipart.com**  
 Letters and Arts, Inc.  
-695 Mistletoe Road  
-Suite M11  
+600 Siskiyou Blvd  
 Ashland, Oregon 97520  
   
----|---|---
+---|---
