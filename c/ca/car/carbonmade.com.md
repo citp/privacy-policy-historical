@@ -1,55 +1,43 @@
-> *The following text is extracted and transformed from the carbonmade.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220214432id_/http%3A//www.carbonmade.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonmade.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607164448id_/http%3A//www.carbonmade.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Carbonmade : Privacy Policy
 
-Last Updated: March 29th, 2006
+Last Updated: April 12th, 2008
 
-Privacy is important. This policy applies to all nterface websites, products, services, and content offered by nterface LLC ("nterface") including by not limited to Carbonmade (www.carbonmade.com).
+## Introduction
 
-nterface reserves the right to update and change this Privacy Policy from time to time without notice. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to this Privacy Policy. Continued use of the Service after any such changes shall constitute your consent to such changes. You can review the most current version of the Privacy Policy at any time at: <http://www.carbonmade.com/about/privacypolicy>
+Your ("You" or "Your") privacy concerns are important to Nterface Apps LLC, ("Us", "We" or "Our") and protecting Your privacy and safeguarding Your information is one of Our highest goals. You need to know what information is being collected about You through the Carbonmade website ("Service") and how Your information may be used. To that end, this Privacy Policy explains what information We may collect about You.
 
-## Information we collect and how we use it
+## Collection of Information
 
-  * **Information you provide** \- nterface collects personal information (e.g. name, email, and passwords) when you register for an nterface service or otherwise voluntarily provide such information. For certain services, we may also request credit card and billing information. We may combine personal information from you from other nterface services to provide a better experience.
-  * **Cookies** \- When you use nterface services, we may use one or more cookies to help identify your browser. We use cookies to record current session information.
-  * **Log information** \- nterface services automatically record information when you visit our website or use our products, including the URL, IP address, and the date and time of your request and cookies that may uniquely identify your browser.
-  * **User communications** \- When you send email or other communications to nterface, we retain those communications in order to process inquires, respond to your requests, and improve our services.
+In connection with Your use of the Service, You will provide the majority of the information We collect about You. For example, We may require You to provide certain information, including, but not limited to, Your name, mailing address, e-mail addresses, telephone number and other personally identifiable information. Other information collected by Us may be provided automatically when You access the Service, such as observing Your use of the Service, through the use of cookies (described below) and may be obtained from other sources such as Our business partners.
 
+## No Collection of Children's Personal Information
 
+Our Services are intended for general audiences. We do not knowingly collect any personal information from children under the age of 13. Our Services attempt to block such users from providing personal information. We reserve the right to delete any information We believe to be in violation of this Privacy Policy.
 
-nterface uses collected information for the following general purposes: products and service provisioning, billing, identification and authentication, service improvement, contact, and research. 
+## Use of Information
 
-## Dislosure
+The information We collect enables Us to refine and offer better services to You. We may share the information We collect about You with Our affiliates. An affiliate is a company that We own, control or one that is under common control with Us or Our parent company.
 
-nterface may disclose personally identifiable information under special circumstances, such as to comply with subpoenas, or when your actions violate the Terms of service.
+## Cookies
 
-It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including, without limitation: fraud, situations involiving potential threats to the physical safety of any person, or as otherwise permitted or required by law.
+When You visit the Service, We may place a text file called a "cookie" in the browser directory of Your computer's hard drive. A cookie is a small piece of information that a web-service can store on Your web browser and later retrieve. A cookie enables the Service to recognize You as a prior user, provides the Service with information regarding Your prior use and assists Us in determining what portions of the Service are most appropriate for You. Your Web browser may provide You with the ability to not accept cookies. However, in order to take full advantage of the Service, We recommend that You accept cookies from the Service. 
 
-We may share aggregated non-personal information with third parties. 
+## Disclosure
 
-If nterface becomes involved in a merger or acquisition, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
+We do not sell, license, lease or otherwise disclose Your information to any other parties; except that We may disclose Your information when We believe, in good faith, that disclosure is reasonably necessary to comply with laws, law enforcement or court orders, or to protect the rights, property or safety of another person, including Our own property or rights.
 
-## Your Choices
+## No Liability
 
-  * You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result.
-  * We make good faith efforts to provide you access to your personal information upon request and let you correct such data if it is inaccurate and delete it, when reasonably possible.
+We have made significant investments in protecting and safeguarding Your information. We continuously upgrade and enhance Our security measures as new tools, techniques and technology become available. However, We do not guaranty that any such information will not be misused or disclosed to third parties. We will not have any liability to You for any such misuse or disclosure. If You choose to purchase a product or service offered by another company, any information You share with that company will not be controlled by this Privacy Policy and You do so at Your own risk and We have no liability to You.
 
+## Consent
 
+By using the Service, You consent to the collection and use of Your information as set forth in this Privacy Policy. If We decide to change this Privacy Policy, which We may do at any time without notice to You, We will post those changes on this page. By continuing to use the Service after We have posted the changes, You agree to and accept such changes. You should periodically check the Service for changes to this Privacy Policy.
 
-## Information security
+## Additional Information
 
-We take reasonable precautions to protect against unauthorized access to our unauthorized alteration, disclosure, or destruction of data. These include the use of encryption technology when collecting, transmitting, and storing sensitive data.
+We welcome Your questions, comments and requests for additional information regarding privacy of the Service. You can contact Us by regular mail at Nterface Apps LLC, c/o Carbonmade.
 
-## Minors
-
-In compliance with the Children's Online Privacy Protection Act of 1998, nterface does not willingly collect or use personally identifiable information from anyone under 13 years of age.
-
-## Contact Us
-
-If you have any questions or concerns, please contact us:
-
-nterface, LLC   
-3000 N Sheridan Rd #10E   
-Chicago, IL 60657
-
-Or by email at: [privacy@nterface.com](mailto:privacy@nterface.com)
+You accept and agree to be bound this Privacy Policy and Terms and Conditions of use [http://www.carbonmade.com/about/privacypolicy.](http://www.carbonmade.com/about/privacypolicy)
