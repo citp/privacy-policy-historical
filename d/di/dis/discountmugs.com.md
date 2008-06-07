@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the discountmugs.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212213743id_/http%3A//www.discountmugs.com/usa/support-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountmugs.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608014101id_/http%3A//www.discountmugs.com/us/support-privacy.php) for the most accurate reproduction.*
 
-# Discountmugs - Coffee Mugs, Travel Mugs, Water Bottles, Pens, Glassware, Commemorative Plates, Tiles & Promotional Items
+# Mugs, Coffee Mugs, Shot Glasses, Wine Glasses, Beer Mugs, Champagne Glasses, Wedding Favors, Sports Bottles, Promotional Pens at Discountmugs.com
 
 |    
 ---|---  
+  |    
   
-**Discountmugs Privacy Policy**
+****Discountmugs Privacy Policy****
 
 Discountmugs respects the privacy of anyone who uses a Discountmugs Web site and a Discountmugs online applications (Discountmugs Order Form, Discountmugs Fax Order Form) 
 
@@ -13,13 +14,13 @@ Discountmugs gathers important information from our visitors and customers. We p
 
 Discountmugs.com will, from time-to-time, e-mail members of our e-mail list with special promotions and offers. This will help you take advantage of savings on products that may be of interest to you. If you do not wish to receive promotional e-mails, you can send an e-mail to 
 
-[_customservice_ @Discountmugs.com](mailto:customerservice@discountmugs.com)
+_[unsubscribe@discountmugs.com](mailto:unsubscribe@discountmugs.com) _
 
 and please type "opt out" in the subject line of your e-mail. Removals are usually done within 24 hours. However, to ensure that the unsubscribe process has been completed successfully, please allow two weeks.
 
 Discountmugs provides its service to you subject to the Discountmugs Terms of Service and this Privacy Policy, which shall be deemed part of the Terms of Service. We reserve the right to change this Privacy Policy. If we change it, we will provide notification of the change at least thirty (30) business days before the change takes effect and include directions for how you can respond to the change.
 
-Collected Information  
+**Collected Information**  
 We require people who register to use a Discountmugs online applications (the "Services") to give us contact information. Depending on the services chosen, we ask for contact and account information, such as name, company name, address, phone number, e-mail address, password and the number of users in the organization who will be using the Services, in addition to financial and billing information, such as billing name, address and credit card number. When you express interest in additional information, when you register for the Services, or after you become a user, we may ask for additional personal information, such as title, department name, fax number or additional company information, such as annual revenues, number of employees or industry. You can opt out of providing additional information by not entering it when asked.
 
 Discountmugs does not distribute or share customer e-mail addresses, except as noted in its Terms of Service, or as may be required by law.
@@ -40,20 +41,22 @@ Discountmugs customers use Discountmugs online applications to host data and inf
 
 Discountmugs may also collect certain information from visitors to a Discountmugs Web site and customers of the Services, such as Internet addresses. This information is logged to help diagnose technical problems and to administer the Discountmugs Web site and Services in order to constantly improve quality. We may also track and analyze non-identifying and aggregate usage and volume statistical information from visitors and customers and provide such information to third parties.
 
-Cookies  
+**Cookies**  
 Cookies are files Web browsers place on a computer's hard drive. They are used to help us authenticate clients and provide timesaving shortcuts and preferences. Discountmugs uses a persistent encrypted cookie, if the client requests, to save and retrieve individual authentication information as well as other per-client device preferences. When a visitor follows a link to the Discountmugs Web site from an affiliate or promotion, Discountmugs stores information about that affiliate or promotion in a session cookie. Acceptance of these cookies is optional. Discountmugs issues a mandatory session cookie to each user of the Services only to record encrypted authentication information for the duration of a specific session. If you reject this cookie, access to and usage of the Services will be denied.
 
-Third Party Sites  
+**Third Party Sites**  
 The Discountmugs Web site and online applications contain links to other Web sites. Discountmugs is not responsible for the privacy practices or the content of these other Web sites. Customers and visitors must check the policy statement of these others Web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is your responsibility to keep such information private and confidential.
 
-Security  
+**Security**  
 Discountmugs has security measures in place for the Services to help protect against the loss, misuse and alteration of the data under Discountmugs's control. When the Services are accessed using Netscape Navigator, or Microsoft Internet Explorer versions 4.0 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure data is safe, secure and available only to you. Discountmugs also implements an advanced security method based on dynamic data and encoded session identifications and hosts the Services in a secure server environment using a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, Discountmugs requires unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy and ensure the appropriate use of data.
 
-Opt-Out Policy  
+**Opt-Out Policy**  
 Discountmugs offers you a means to choose how we may use information you provided. If, at any time after registering for information or ordering the Services, you change your mind about receiving information from us or about sharing information with third parties, send us a request specifying your new choice. Send your request to support@discountmugs.com.
 
-Correcting and Updating Your Information  
+**Correcting and Updating Your Information**  
 To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a Discountmugs Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [support@discountmugs.com](mailto:support@Discountmugs.com) or by calling 800-569-1980.
 
-Additional Information  
-Questions regarding this Privacy Policy or the security practices of the Services should be directed to Discountmugs's Security Administrator by e-mailing [support@discountmugs.com](mailto:security@Discountmugs.com)
+  
+**Additional Information**  
+Questions regarding this Privacy Policy or the security practices of the Services should be directed to Discountmugs's Security Administrator by e-mailing [support@discountmugs.com](mailto:security@Discountmugs.com)  
+
