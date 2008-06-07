@@ -1,100 +1,32 @@
-<!--The following is the downloaded HTML source of the connectionsacademy.com privacy policy that was archived on 2007-07-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070719171125id_/http%3A//www.connectionsacademy.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the connectionsacademy.com privacy policy that was archived on 2008-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080607044803id_/http%3A//www.connectionsacademy.com/about/privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Connections Academy
- - Privacy Policy
+<title>
+
 </title>
 
-<meta name="keywords" content="connections academy, school, academy, homeschooling, home schooling, virtual school, virtual, charter, cyberschool, 
-charter school, cyber school, K12, calvert, homeschool, home school, sylvan learning, individualized instruction, 
-Arizona, California, Colorado, Florida, Idaho, Georgia, Minnesota, Ohio, Oregon, Pennsylvania, Wisconsin, Texas, Idaho, Appleton, Inspire">
 
-<meta name="description" content="Provider of virtual public schools with students in Arizona, California, Colorado, Florida, Idaho, Minnesota, Ohio, Oregon, Pennsylvania, and Wisconsin.">
 
 <link href="/_css/main3.css" type="text/css" rel="stylesheet" media="all">
 
+
+
+<link href="/_css/cms.css" type="text/css" rel="stylesheet" media="all">
 <link href="/_css/print.css" type="text/css" rel="stylesheet" media="print">
 
-<!--SERVER: PUBLICWEB2-->
+
+<!--SERVER: PUBLICWEB2(10.2.0.44) -->
 
 
 
-<script type="text/javascript" language="JavaScript">
-function emailScramble(asciiUsername, asciiDomain) {
-	//takes hex and unicode text to make scrambled mail to link; ascii is for reference only
-	//use http://www.mikezilla.com/exp0012.html to get hex and unicode values from ascii text
-	document.write('<a hre'+'f="ma'+'ilto'+':'+ convertToHex(asciiUsername) + convertToHex('@') + convertToHex(asciiDomain) + '">' + convertToUnicode(asciiUsername) + convertToUnicode('@') + convertToUnicode(asciiDomain) + '<\/a>');
-}
+<script type="text/javascript" src="/_includes/utilities/emailScrambler.js"></script>
 
-//thank you http://www.mikezilla.com
-function convertToUnicode(ascii) { 
-  result = ''; 
-  for (i=0; i<ascii.length; i++) 
-    result += '&#' + ascii.charCodeAt(i) + ';'; 
-  return result; 
-} 
 
-//thank you http://www.mikezilla.com
-function convertToHex(ascii) { 
-  var result = ''; 
-  for (i=0;i<ascii.length;i++) 
-    result += "%" + ascii.charCodeAt(i).toString(16).toUpperCase(); 
-  return result; 
-} 
-</script>
-<script type="text/javascript"><!--//--><![CDATA[//><!--
-/*
-startList = function() {
-	var navRoot;
-	var i;
-	var node;
-	if (document.all&&document.getElementById) {
-		navRoot = document.getElementById("navList");
-		for (i=0; i<navRoot.childNodes.length; i++) {
-			node = navRoot.childNodes[i];
-			if (node.nodeName=="LI") {
-				node.onmouseover=function() {
-					this.className+=" over";
-				}
-				node.onmouseout=function() {
-					this.className=this.className.replace(" over", "");
-				}
-			}
-		}
-	}
-	
-}
-window.onload=startList;
-*/
-//--><!]]>
-
-function openWindow(linkURL,linkWindow,windowWidth,windowHeight,windowAttributes) {
-	if (windowWidth == "") windowWidth = 500;
-	if (windowHeight == "") windowHeight = 450;
-	if (linkWindow == "") linkWindow = "newWindow";
-	if (windowAttributes == "") {windowAttributes = ",resizable=yes,toolbar=no,menubar=no,status=no,titlebar=no,scrollbars=yes"} else {windowAttributes = "," + windowAttributes};
-	window.open(linkURL,linkWindow,'width=' + windowWidth + ',height=' + windowHeight + windowAttributes);
-}	
-function openImage(imgURL,linkWindow,pageTitle,windowWidth,windowHeight,windowAttributes) {
-//opens an image into a popup window and allows you to set the browser title text
-	if (windowWidth == "") windowWidth = 500;
-	if (windowHeight == "") windowHeight = 450;
-	if (linkWindow == "") linkWindow = "newWindow";
-	if (windowAttributes == "") {windowAttributes = ",resizable=yes,toolbar=no,menubar=no,status=no,titlebar=no,scrollbars=yes"} else {windowAttributes = "," + windowAttributes};
-    var imgWindow=window.open('',linkWindow,'width=' + windowWidth + ',height=' + windowHeight + windowAttributes);
-	imgWindow.document.writeln('<html><head><title>' + pageTitle + '<\/title>');
-	imgWindow.document.writeln('<\/head><body style="text-align:center;margin:0;padding:5px;">');
-	imgWindow.document.writeln('<img src="' + imgURL + '" alt="' + pageTitle + '"\/>');
-	imgWindow.document.writeln('<\/body><\/html>');
-	imgWindow.document.close();
-	if (navigator.appName.substring(0,8) == "Netscape") imgWindow.focus();
-
-}
-</script>
 <script type="text/javascript" src="/_includes/standardPageFn.js"></script>
 
+<script type="text/javascript" src="/_includes/randomFunctions.asp?schoolCode="></script>
 
 </head>
 
@@ -114,33 +46,28 @@ function openImage(imgURL,linkWindow,pageTitle,windowWidth,windowHeight,windowAt
 						
 			<div id="dropDownLinks">
 				
-	<script type="text/javascript"><!--
-	function openState(thisOption) {
-		var schoolCode = thisOption.options[thisOption.selectedIndex].value;
-		if (schoolCode != '') {
-			window.location.href =  '/state/home.asp?schoolCode=' + schoolCode;
-		}
-	}
-	
-	//--></script>
 	<form name="stateselect" action="/about/privacy.asp" method="get">
-	<select name="schoolCode" onchange="openState(this);" style="width: 297px;">
-		<option value="-1" selected="selected">Find Your School...</option>
+	<select name="schoolCode" onchange="openState(this);" style="width: 314px;">
+		<option value="-1" selected="selected">Check Availability...</option>
 		<option value="ACA">AZ: Arizona Connections Academy</option>
 <option value="CAPOCA">CA: Capistrano Connections Academy</option>
 <option value="CENCA">CA: Central California Connections Academy</option>
-<option value="DCA">CO: Denver Connections Academy</option>
+<option value="COLOCA">CO: Colorado Connections Academy</option>
 <option value="FCA">FL: Florida Connections Academy</option>
 <option value="INSPIRE">ID: INSPIRE, the Idaho Connections Academy</option>
 <option value="INCA">IN: Indiana Connections Academy</option>
+<option value="BCVIP">MD: Baltimore County Virtual Instruction Program</option>
 <option value="MTSMCA">MN: MTS Minnesota Connections Academy</option>
+<option value="MVSP">MS: Mississippi Virtual School Pilot</option>
 <option value="MOVIP">MO: Missouri Virtual Instruction Program</option>
 <option value="NCA">NV: Nevada Connections Academy</option>
 <option value="OCA">OH: Ohio Connections Academy</option>
 <option value="ORCA">OR: Oregon Connections Academy</option>
 <option value="CCA">PA: Commonwealth Connections Academy</option>
+<option value="SCCA">SC: South Carolina Connections Academy</option>
 <option value="WCA">WI: Wisconsin Connections Academy</option>
 
+    <option value="other">Where's my school?</option>
 	</select>
 	<input type="submit" name="GoState" id="GoState" value="Go" class="button" style="display: none;">
 	</form>
@@ -148,27 +75,15 @@ function openImage(imgURL,linkWindow,pageTitle,windowWidth,windowHeight,windowAt
 	//hide the submit button if javascript is enabled
 	document.getElementById('GoState').style.display = 'none';
 	//--></script>&nbsp;
-	<script type="text/javascript"><!--
-	var popup = 0; //
-	function openPage(thisOption) {
-		var link = thisOption.options[thisOption.selectedIndex].value;
-		if (link != '') {
-			if (link.indexOf('LMS_Overview') > -1) {
-				openWindow(link,'','860','550','') 
-			}else {
-				window.location.href = link;
-			}
-		}
-	}
-	//--></script>
+  
 	<form name="quickLinksDropDownForm" action="/about/privacy.asp" method="post">
-	<select name="quickLinksDropDown" onchange="openPage(this);" style="width: 297px;">
+	<select name="quickLinksDropDown" onchange="openPage(this);" style="width: 314px;">
 		<option value="" selected="">Jump to a Page...</option>					
 		<option value="/curriculum/">Curriculum</option>
-		<option value="/curriculum/elementarySchool.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Elementary School (K–5)</option>
-		<option value="/curriculum/middleSchool.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Middle School (6–8)</option>
-		<option value="/curriculum/highSchool.asp">&nbsp;&nbsp;–&nbsp;&nbsp;High School (9–12)</option>
-		<option value="/curriculum/samples_old.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Sample&nbsp;Lessons</option>
+		<option value="/curriculum/elementarySchool.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Elementary School</option>
+		<option value="/curriculum/middleSchool.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Middle School</option>
+		<option value="/curriculum/highSchool.asp">&nbsp;&nbsp;–&nbsp;&nbsp;High School</option>
+		<option value="/curriculum/learningResources.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Curriculum Materials</option>
 		<option value="/curriculum/partners.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Content&nbsp;Partners</option>
 		<option value="/curriculum/customized_gifted.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Gifted &amp; Talented</option>
 		<option value="/ourschool/">Our Program</option>
@@ -188,11 +103,11 @@ function openImage(imgURL,linkWindow,pageTitle,windowWidth,windowHeight,windowAt
 		<option value="/community/parentcontact.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Contact a Parent</option>
 		<option value="/community/testimonials.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Parent Testimonials</option>
 		<option value="/community/meetOurFamilies.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Meet our Families &amp; Teachers</option>
-		<option value="/enroll/">Enroll Now</option>
+		<option value="/enroll/passthroughMap.asp?pageName=enrollment.asp">Enroll Now</option>
 		<option value="/legislators/">School Officials</option>
 		<option value="/legislators/startschool.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Start&nbsp;a&nbsp;School</option>
 		<option value="/legislators/primed.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Is Your District Primed?</option>
-		<option value="/legislators/virtualreport.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Virtual&nbsp;School&nbsp;Report</option>
+		<!--<option value="/legislators/virtualreport.asp">&nbsp;&nbsp;&#8211;&nbsp;&nbsp;Virtual&nbsp;School&nbsp;Report</option>-->
 		<option value="/legislators/bookshelf.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Book&nbsp;Shelf</option>
 		<option value="/legislators/resources.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Resource&nbsp;Center</option>
 		<option value="/store/">School Store</option>
@@ -211,7 +126,7 @@ function openImage(imgURL,linkWindow,pageTitle,windowWidth,windowHeight,windowAt
 
 		<div id="header_main_print">			
 			
-			<img id="headerLogo" src="/_images/logo_CA_orange_print.gif" alt="logo_CA_orange_print.gif" height="66" width="280" border="0">
+			<img id="headerLogoPrint" src="/_images/logo_CA_orange_print.gif" alt="logo_CA_orange_print.gif" height="66" width="280" border="0">
 		</div>
 
 <br>
@@ -234,7 +149,7 @@ function openImage(imgURL,linkWindow,pageTitle,windowWidth,windowHeight,windowAt
 					<a href="/community/">Community</a>
 				</li>
 				<li class="mainNavItem">
-					<a href="/enroll/">Enroll Now</a>
+					<a href="/enroll/passthroughMap.asp?pageName=enrollment.asp">Enroll Now</a>
 				</li>
 				<li class="mainNavItem">
 					<a href="/legislators/">School&nbsp;Officials</a>
@@ -244,96 +159,57 @@ function openImage(imgURL,linkWindow,pageTitle,windowWidth,windowHeight,windowAt
 					<a href="/store/">School&nbsp;Store</a>
 				</li>
 				<li class="activeMainNavItem"><a href="/contact/">Contact&nbsp;Us</a>
-				</li>			
-				<li class="lastItem"><a href="/">Home</a></li>
+        </li><li class="lastItem"><a href="/">Home</a></li>
 			</ul>
 		</div>
 	</div>
-	<br class="clearing">
+	
 	<div id="subnav_about" class="nav_wrap">
 		<div class="nav">
 			<ul id="subnavList" class="mainNav">
 				<li class="mainNav"><a href="/about/">About Us</a></li>
 				<li class="mainNav"><a href="/about/team.asp">Management&nbsp;Team</a></li>
-				<li class="mainNav"><a href="/about/news.asp">News</a></li>
+				<li class="mainNav"><a href="/about/news.asp">Press Releases</a></li>
 				<li class="lastItem"><a href="/about/employment.asp">Careers</a></li>
 
 			</ul>
 		</div>
 	</div>
+
 	
-	<!-- Begin Depreciated menu items -->
-		<!--
-	
-	<div id="subnav_learnmore" class="nav_wrap">
-		<div class="nav">
-			<ul id="subnavList" class="mainNav">
-				<li class="mainNav"><a href="/learnmore/rightprogram.asp" >Is&nbsp;CA&nbsp;Right&nbsp;for&nbsp;You?</a></li>
-				<li class="mainNav"><a href="/demos/LMS_Overview.htm" target="_blank" onclick="openWindow('/demos/LMS_Overview.htm','','700','530','');return false;">View&nbsp;a&nbsp;Demo!</a></li>
-				<li class="mainNav"><a href="/learnmore/tellafriend.asp" >Tell&nbsp;a&nbsp;Friend</a></li>
-				<li class="mainNav"><a href="/learnmore/parentcontact.asp" >Contact&nbsp;a&nbsp;Parent</a></li>
-				<li class="mainNav"><a href="/learnmore/testimonials.asp" >Parent&nbsp;Testimonials</a></li>
-				<li class="mainNav lastItem"><a href="/learnmore/faqs.asp" >FAQs</a></li>
-			</ul>
-		</div>
-	</div>
-	
-	<div id="subnav_contact" class="nav_wrap">
-		<div class="nav">
-			<ul id="subnavList" class="mainNav">
-				<li class="mainNav lastItem"><a href="/contact/requestinfo.asp" >Request&nbsp;Info</a></li>
-			</ul>
-		</div>
-	</div>
-	
-	<!-- End Depreciated menu items -->
-	<br class="clearing">
 	<!-- body //-->
 
 			<div id="content" class="contentbox contact">
 	
 
 <div id="leftContent">
-<h1 class="title">Privacy Policy</h1>
-	<p><em>Last updated: March 20, 2005</em></p>
-		<p>Connections Academy has established this privacy policy to let you know how we collect, use, share, and protect information that we may gather as a result of your visit to www.connectionsacademy.com (the "website"), including those portions of the site relating to schools that use the Connections Academy program.  There is a separate privacy policy for users of the Connections Academy Learning Management System.</p>
-		<h2>Information Collected About all Visitors</h2>
-		<p>Each time you visit our website, it automatically keeps track of your IP address, domain name, the name of the page from which you entered the site, which pages are viewed and for how long.  This information is collected in order to improve the website and for trend analysis.  As with most websites, we may use "cookies" to track usage and to improve your experience.  The cookies do not collect any personally identifiable information and you can also decline cookies.   Further information about cookies is available in the help function of your browser.  No personally identifying information is collected as a result of your use of the website, unless you provide it voluntarily.</p>
-		<h2>Voluntary Personal Information</h2>
-		<p>The site may collect personal information you provide voluntarily, for example by requesting catalogs or seeking additional information. This information is used to fulfill requests for information or stay in contact regarding special promotions, new products and services or upcoming events.  If you do not want to receive information from Connections Academy, you can email us at <script type="text/javascript"><!--
-		emailScramble('unsubscribe','connectionsacademy.com')//--></script><a href="mailto:%75%6E%73%75%62%73%63%72%69%62%65%40%63%6F%6E%6E%65%63%74%69%6F%6E%73%61%63%61%64%65%6D%79%2E%63%6F%6D">unsubscribe@connectionsacademy.com</a> and ask to be removed from our contact list. </p>
-		<h2>Enrolling a Student Using the Website</h2>
-		<p>If you register for a Connections Academy school using the website, information will be collected in order to process your application.  This information will not be maintained on the website, but will be included in the Learning Management System.  Enrollment information is also provided to school districts or other bodies as required by state public school regulations or operating procedures. </p> 
-		<h2>Children Under 13</h2>
-		<p>Except as provided by parents for the purpose of enrolling in a Connections Academy school, the website does not knowingly collect information about children under 13.  We attempt to be in full compliance with the Children's Online Privacy Protection Act (COPPA).</p>  
-		<h2>Links</h2>
-		<p>The website contains links to other websites, message boards or other resources that we provide for your convenience.  These sites are not under our control and we do not endorse them nor are we responsible for their content or their privacy policies.</p>  
-		<h2>Changes</h2>
-		<p>This policy may be changed periodically.  Any changes will be effective as soon as they are posted.</p>  
-	</div> <!-- end of #leftContent -->
-&nbsp;
+<h1 class="title">Privacy Policy</h1><p><em>Last updated: March 20, 2005</em></p><p>Connections Academy has established this privacy policy to let you know how we collect, use, share, and protect information that we may gather as a result of your visit to www.connectionsacademy.com (the "website"), including those portions of the site relating to schools that use the Connections Academy program.  There is a separate privacy policy for users of the Connections Academy Learning Management System.</p><h2>Information Collected About all Visitors</h2><p>Each time you visit our website, it automatically keeps track of your IP address, domain name, the name of the page from which you entered the site, which pages are viewed and for how long.  This information is collected in order to improve the website and for trend analysis.  As with most websites, we may use "cookies" to track usage and to improve your experience.  The cookies do not collect any personally identifiable information and you can also decline cookies.   Further information about cookies is available in the help function of your browser.  No personally identifying information is collected as a result of your use of the website, unless you provide it voluntarily.</p><h2>Voluntary Personal Information</h2><p>The site may collect personal information you provide voluntarily, for example by requesting catalogs or seeking additional information. This information is used to fulfill requests for information or stay in contact regarding special promotions, new products and services or upcoming events.  If you do not want to receive information from Connections Academy, you can email us at <script type="text/javascript"></script> and ask to be removed from our contact list. </p><h2>Enrolling a Student Using the Website</h2><p>If you register for a Connections Academy school using the website, information will be collected in order to process your application.  This information will not be maintained on the website, but will be included in the Learning Management System.  Enrollment information is also provided to school districts or other bodies as required by state public school regulations or operating procedures. </p><h2>Children Under 13</h2><p>Except as provided by parents for the purpose of enrolling in a Connections Academy school, the website does not knowingly collect information about children under 13.  We attempt to be in full compliance with the Children's Online Privacy Protection Act (COPPA).</p><h2>Links</h2><p>The website contains links to other websites, message boards or other resources that we provide for your convenience.  These sites are not under our control and we do not endorse them nor are we responsible for their content or their privacy policies.</p><h2>Changes</h2><p>This policy may be changed periodically.  Any changes will be effective as soon as they are posted.</p>
+</div> <!-- end of #leftContent -->
 
+	
 			<div id="rightContent">
 				
-				<img src="/_images/rightImg_top_4.jpg" height="113" width="148" alt="">
-				<img src="/_images/rightImg_mid_4.jpg" height="132" width="148" alt="">
-				<img src="/_images/rightImg_bottom_4.jpg" height="131" width="148" alt="">
+				<img src="/_images/rightImg_top_5.jpg" height="113" width="148" alt=""><img src="/_images/rightImg_mid_3.jpg" height="132" width="148" alt=""><img src="/_images/rightImg_bottom_7.jpg" height="131" width="148" alt="">
 			</div>		
 		
     <!-- footer //-->
-    	<table width="750" border="0" align="center" cellpadding="0" cellspacing="0" id="footer">
+    	<table width="750" border="0" cellpadding="0" cellspacing="0" id="footer">
           <tbody><tr>
-            <td width="340">1-800-382-6010  1000 Lancaster St., 6th Floor, Baltimore, MD 21202<br>
+            <td width="360">1-800-382-6010  1001 Fleet Street, 5th Floor, Baltimore, MD 21202<br>
+							<a href="/">Home</a>
+							<a href="/contact/">Contact Us</a>
+							<a href="/about/">About Us</a>
               <a href="/about/privacy.asp">Privacy Policy</a>
 							<a href="/about/termsofuse.asp">Terms of Use</a>
-							<a href="/about/">About Us</a>
+							<a href="/sitemap.asp">Site Map</a>
+							<a href="/about/employment.asp">Careers</a>
 							<br>
 						</td>
-            <td rowspan="2" width="171">&nbsp;</td>
+            <td rowspan="2" width="151" class="noprint">&nbsp;</td>
             <td width="239" rowspan="2" valign="top"><img src="/_images/logo_CITA.gif" width="64" height="84" alt="CITA Logo"><img src="/_images/logo_NCEP.gif" width="175" height="84" alt="Logo: National Council of Education Providers"></td>
           </tr>
 		  <tr>
-		  	<td class="copyright">© 2007 Connections Academy, LLC. The Connections Academy name and logo are trademarks of Connections Academy, LLC. Any use of any of these marks without the express written consent of the owner of the mark is strictly prohibited. All rights reserved.</td>
+		  	<td class="copyright">© 2008 Connections Academy®, LLC. The Connections Academy name and logo are trademarks of Connections Academy®, LLC. Any use of any of these marks without the express written consent of the owner of the mark is strictly prohibited. All rights reserved.</td>
 		  </tr>
 		  
       </tbody></table>
@@ -343,6 +219,7 @@ function openImage(imgURL,linkWindow,pageTitle,windowWidth,windowHeight,windowAt
 _uacct = "UA-2096646-1";
 urchinTracker();
 </script>
+
 		</div>
 	</div>
 </div>
