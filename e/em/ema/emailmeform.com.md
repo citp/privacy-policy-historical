@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailmeform.com privacy policy that was archived on 2007-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071124231810id_/http%3A//www.emailmeform.com/v-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailmeform.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607234735id_/http%3A//www.emailmeform.com/v-privacy.html) for the most accurate reproduction.*
 
 # EmailMe Form - Privacy Statement
 
