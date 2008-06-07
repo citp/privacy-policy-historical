@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumersearch.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011111556id_/http%3A//www.consumersearch.com/www/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersearch.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608015221id_/http%3A//www.consumersearch.com/www/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Product Reviews and Reports by Consumer Search - ConsumerSearch.com
 
@@ -22,18 +22,16 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 Choice/Opting Out
 
-Whenever we request information or contact data from the user, we provide the opportunity to opt out of receiving communications from us. No business partners of ours are permitted to contact our users directly at this point. To remove your user information from our database or not receive further communication from our Web site, send e-mail to derekdrew@consumersearch.com.
+Whenever we request information or contact data from the user, we provide the opportunity to opt out of receiving communications from us. No business partners of ours are permitted to contact our users directly at this point. To remove your user information from our database or not receive further communication from our Web site, please use our [feedback form](http://www.consumersearch.com/www/feedback.html#form).
 
 Correct/Update
 
-This site gives users the following options for changing and modifying information previously provided. To correct or update your information, send e-mail to derekdrew@consumersearch.com.
+This site gives users the following options for changing and modifying information previously provided. To correct or update your information, use our [feedback form](http://www.consumersearch.com/www/feedback.html#form).
 
 Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 ConsumerSearch, Inc.  
-Attn: Derek Drew  
-5467 31st Street NW  
-Washington, DC 20015  
-derekdrew@consumersearch.com
+249 West 17th Street  
+New York, NY 10011
