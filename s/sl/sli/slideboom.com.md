@@ -1,0 +1,60 @@
+> *The following text is extracted and transformed from the slideboom.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607073245id_/http%3A//www.slideboom.com/policy) for the most accurate reproduction.*
+
+# Privacy Policy - SlideBoom
+
+We strongly respect your privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the SlideBoom website. SlideBoom provides this Privacy Notice to help you make an informed decision about whether to use or continue using SlideBoom. SlideBoom reserves the right to amend the privacy policy at any time.
+
+This Privacy Notice is incorporated into and is subject to the SlideBoom Terms of Use. Your use of the SlideBoom website and any personal information you provide on SlideBoom remains subject to the terms of this Privacy Notice and our Terms of Use.
+
+We will not give, sell or rent your email address to third parties at time for any reason.
+
+When you register with us, we ask you to provide your name, email address and an account password. We use your email address to occasionally send administrative email messages to you.
+
+You can decide not to submit personal information, in which case we won't be able to make the SlideBoom services available to you.
+
+Children can only use our services under the supervision of their parents/legal guardians and we always suggest minors (under the age of 18) not to submit any personal information to us or use the service. SlideBoom does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the SlideBoom website from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the SlideBoom website at any time or in any manner. If SlideBoom learns that personally identifiable information of persons less than 13 years of age has been collected on the SlideBoom website without verified parental consent, then SlideBoom will take the appropriate steps to delete this information.
+
+When you use the SlideBoom website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, internet protocol (IP) address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+
+When you visit the SlideBoom website, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. SlideBoom uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Your browser may use persistent cookies on subsequent visits to the site. Persistent cookies can be removed by following the directions in your web browser's help file. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when it receives a cookie. However, some features of the SlideBoom website may not function properly if the ability to accept cookies is disabled.
+
+Our privacy policy applies only to the SlideBoom website. SlideBoom contains links to other sites and file downloads from other sites. We do not exercise control over any site that may be linked to from within content on this site. We are not responsible for the privacy practices or content of such web sites.
+
+If you submit personally identifiable information to us through the SlideBoom website, then we may use your personal information to operate, maintain, and provide features and functionality of the SlideBoom website.
+
+Other information, that does not personally identify you as an individual is collected by SlideBoom from the site (such as, by way of example, patterns of use) and is exclusively owned by SlideBoom. SlideBoom can use this information in such manner that SlideBoom, in its sole discretion, deems appropriate.
+
+We may share specific aggregated, non-personal information with third parties, such as the number of users who have registered with us, the volume and pattern of traffic to and within the site, etc. That information will not identify you, the individual, in any way.
+
+Any personal information or video and textual content that you voluntarily disclose online (on discussion boards, in messages and comments, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload files or send messages through the SlideBoom website and other Users can contact you through messages and comments. Any content that you submit to the SlideBoom website may be viewed by the general public.
+
+If at any time in the future, we propose to use personal information for any purpose other than our internal use in maintaining the services, troubleshooting, improving our services, etc., then we will offer you an effective way to opt out of the use of personal information for those other purposes.
+
+We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major SlideBoom site changes or for customer service purposes).
+
+We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. You can also close your account on the SlideBoom website. If you close your SlideBoom account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the SlideBoom Privacy Policy that you have previously agreed to. To request that we close your account and remove your information from the SlideBoom service, please send your request to [support@ispringsolutions.com](mailto:support@ispringsolutions.com). Please send your request using an email account that you have registered with SlideBoom under your name. You will receive a response to requests sent to [support@ispringsolutions.com](mailto:support@ispringsolutions.com) within five business days of our receiving it.
+
+When you send email or other communication to us, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. We won't share any information you send to us in those communications with any third parties.
+
+We use cookies and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit SlideBoom; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+
+SlideBoom uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to SlideBoom and you do so at your own risk. Once we receive your transmission of information, SlideBoom makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+
+If SlideBoom learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. SlideBoom may post a notice on the SlideBoom website if a security breach occurs.
+
+In the event that SlideBoom is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. If we become involved in a merger, acquisition, or any form of sale of some or all of its assets, we will notify Users before personal information is transferred and becomes subject to a different privacy policy. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+
+It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.
+
+Please note that this privacy policy may change from time to time. We will not reduce your rights under this policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including an email notification of policy changes for certain services).
+
+If you have any questions about this policy, please feel free to contact us or to write to us at:
+
+[support@ispringsolutions.com](mailto:support@ispringsolutions.com)
+
+**iSpring Solutions, Inc.**  
+901 N. Pitt St.  
+Suite 325  
+Alexandria, VA 22314 
