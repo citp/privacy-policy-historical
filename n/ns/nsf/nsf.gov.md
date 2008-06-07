@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630053204id_/http%3A//www.nsf.gov/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607044524id_/http%3A//www.nsf.gov/policies/privacy.jsp) for the most accurate reproduction.*
 
 # US NSF - Privacy Policy
 
@@ -22,7 +22,7 @@ We use this information to help us make our site more useful to visitors—to le
 
 If you request information or services from NSF and submit personal information to facilitate response to your request, we use the information provided to respond to your message. Pressing the “submit” button indicates your consent to use the information you provide for this purpose. We will not share the information you give us with another government agency unless your inquiry relates to that agency, or as otherwise provided by law
 
-Users of [MyNSF](https://web.archive.org/mynsf/) fill out a simple form when setting up their MyNSF profile. A MyNSF profile cannot be created without a valid e-mail address. However, NSF makes no attempt to identify individual users or their selections. We do not create individual profiles with the information you provide or collect information for commercial marketing. 
+Subscribers to [National Science Foundation Update](http://service.govdelivery.com/service/multi_subscribe.html?code=USNSF&custom_id=823) fill out a simple form when setting up their accounts. A National Science Foundation Update account cannot be created without a valid e-mail address. However, NSF makes no attempt to identify individual subscribers or their selections. We do not create individual profiles with the information you provide or collect information for commercial marketing. 
 
 Some NSF websites use “session cookies” to facilitate a visitor’s activity within a single session, but these cookies are not written as files to your computer’s hard drive and do not persist after you close your browser. The site does not currently make use of “persistent cookies.” If, in the future, we do start using a “persistent” cookie in order to customize your experience on the website, such a cookie will adhere to our longstanding policy—namely, the cookie will contain no personally identifiable information about you, will not be readable by servers other than [www.nsf.gov](https://web.archive.org/index.jsp), will be totally voluntary, and will be solely for your use.
 
