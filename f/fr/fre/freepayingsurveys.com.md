@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepayingsurveys.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025041223id_/http%3A//www.freepayingsurveys.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepayingsurveys.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607050751id_/http%3A//www.freepayingsurveys.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # FreePayingSurveys Privacy Policy
 
