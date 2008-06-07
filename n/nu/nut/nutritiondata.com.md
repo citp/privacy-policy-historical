@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nutritiondata.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231092935id_/http%3A//www.nutritiondata.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritiondata.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607092346id_/http%3A//www.nutritiondata.com/help/privacy) for the most accurate reproduction.*
 
-# NutritionData Privacy Policy – NutritionData.com
+# Privacy Policy – NutritionData.com
 
 Last Revised **November 27, 2007**
 
