@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the publicjobs.ie privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820154944id_/http%3A//www.publicjobs.ie/en/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicjobs.ie privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607064801id_/http%3A//www.publicjobs.ie/en/site/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement
 
 **Identity**  
 The Public Appointments Service is responsible for recruitment and selection to a wide variety of posts across the public sector. 
@@ -30,7 +30,7 @@ Cookies are not computer programs and do not run on a computer like programs do.
 The procedure for disabling cookies depends on the web browser that you have chosen to use. We have supplied links to the Microsoft and Netscape web sites to provide you with the procedures to follow to view and disable cookies on your PC. 
 
 If you use Internet Explorer, [Cookies on Internet Explorer](http://www.microsoft.com/info/cookies.htm "Internet Explorer")  
-If you use Netscape, [Cookies on Netscape](http://www.netscape.com/legal_notices/cookies.html "Netscape")
+If you use Netscape, [Cookies on Netscape](http://www.microsoft.com/info/cookies.mspx "Netscape")
 
 **IP Addresses**  
 If you visit our site to read or download information, we collect and store the following information: 
