@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sleepys.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221203231id_/http%3A//www.sleepys.com/about/about_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepys.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607125402id_/http%3A//www.sleepys.com/about/about_privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Sleepy's - The Mattress Professional
 
-|   |  |   | 
+|   | 
+
+|   | 
 
 **Welcome to the Sleepy’s Internet site (the “Site”). The Site is owned and operated by Sleepy’s LLC (“Sleepy’s”). This page contains the Sleepy’s Internet Privacy Policy (the “Privacy Policy”). The Site is made available only to those who agree to this Privacy Policy and the Sleepy’s Terms and Conditions of Use into which this Privacy Policy is incorporated by reference. As such, by accessing and using the Site you are agreeing to the terms of this Privacy Policy and the Terms and Conditions of Use. If you do not agree to the terms of this Privacy Policy, you are not authorized to use the Site. Sleepy’s may change this Privacy Policy from time to time, without notice to you, by posting such changes on the Site. By using the Site following any such changes, you agree to be bound by this Privacy Policy as it may have been changed. If you have any questions about this Privacy Policy or your dealings with the Site, please e-mail us at help@sleepys.com or write to us at Sleepy’s, 175 Central Avenue South, Bethpage, New York 11714.**
 
