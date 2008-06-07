@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the connectionsacademy.com privacy policy that was archived on 2007-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070719171125id_/http%3A//www.connectionsacademy.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectionsacademy.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607044803id_/http%3A//www.connectionsacademy.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Connections Academy - Privacy Policy
+# 
 
 _Last updated: March 20, 2005_
 
@@ -12,7 +12,7 @@ Each time you visit our website, it automatically keeps track of your IP address
 
 ## Voluntary Personal Information
 
-The site may collect personal information you provide voluntarily, for example by requesting catalogs or seeking additional information. This information is used to fulfill requests for information or stay in contact regarding special promotions, new products and services or upcoming events. If you do not want to receive information from Connections Academy, you can email us at [unsubscribe@connectionsacademy.com](mailto:%75%6E%73%75%62%73%63%72%69%62%65%40%63%6F%6E%6E%65%63%74%69%6F%6E%73%61%63%61%64%65%6D%79%2E%63%6F%6D) and ask to be removed from our contact list. 
+The site may collect personal information you provide voluntarily, for example by requesting catalogs or seeking additional information. This information is used to fulfill requests for information or stay in contact regarding special promotions, new products and services or upcoming events. If you do not want to receive information from Connections Academy, you can email us at and ask to be removed from our contact list. 
 
 ## Enrolling a Student Using the Website
 
