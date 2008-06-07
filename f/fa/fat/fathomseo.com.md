@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the fathomseo.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215144342id_/http%3A//www.fathomseo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fathomseo.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607104148id_/http%3A//www.fathomseo.com/Privacy.asp) for the most accurate reproduction.*
 
 # Fathom SEO Privacy Policy
-
-  
-Fathom SEO Privacy Policy  
-
-
-* * *
-
-> To view our Terms of Use - [click here](http://www.fathomseo.com/TermsofUse.asp).
 
 Introduction
 
@@ -44,9 +36,6 @@ The Internet is evolving rapidly, as are the ways in which people use the Intern
 
 Contact Our Firm
 
-If you have any questions or concerns regarding our Privacy Policy or any questions about our site, you can send an email to our search engine marketing company at [ info@fathomSEO.com](mailto:info@fathomseo.com).
+If you have any questions or concerns regarding our Privacy Policy or any questions about our site, you can send an email to our search engine marketing company at info@fathomSEO.com.
 
 Last Updated: January 8, 2006
-
-  
-
