@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trackvia.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211080510id_/http%3A//www.trackvia.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackvia.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607115301id_/http%3A//www.trackvia.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Trackvia -- An Online Database for Managing and Sharing Data
-
-Trackvia Privacy Policy
+# Privacy Policy
 
 The following discloses the information gathering and dissemination practices for the services offered by Trackvia, Inc. (the "Services") and for this website. Trackvia reserves the right to amend this Privacy Statement at any time with or without notice. Only the current Privacy Statement is deemed effective, so please review this Privacy Statement periodically. 
 
