@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vendorseek.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212172536id_/http%3A//www.vendorseek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendorseek.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607124621id_/http%3A//www.vendorseek.com/privacy.asp) for the most accurate reproduction.*
 
 # Receive Up-To 5 Free quotes for telemarketing services, fulfillment services and much more
-
-Last Updated 9/1/07
 
 If you have questions or concerns regarding this statement, you should first contact Customer Service in writing to VendorSeek.com, 520 Fellowship Rd, Suite 102, Mt. Laurel, NJ 08054 or via email to [custserv@VendorSeek.com](mailto:custserv@VendorSeek.com).
 
@@ -57,7 +55,7 @@ Cookies are stored only if you select to save your password on the login screen.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
 
-This privacy statement covers the use of cookies by www.VendorSeek.com only and does not cover the use of cookies by any advertisers. You may disable cookies if your browser permits. Please be advised that this may prevent you from accessing certain features of VendorSeek.com. Having trouble while cookies is disabled? Call our Customer Service department at 1-800-446-1073. 
+This privacy statement covers the use of cookies by www.VendorSeek.com only and does not cover the use of cookies by any advertisers. You may disable cookies if your browser permits. Please be advised that this may prevent you from accessing certain features of VendorSeek.com. Having trouble while cookies is disabled? Call our Customer Service department at (800) 446-1073. 
 
 **Log Files:**
 
