@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the warseer.com privacy policy that was archived on 2006-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060830202347id_/http%3A//www.warseer.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warseer.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607231624id_/http%3A//warseer.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement - WarSeer
 
-|   | 
+|  Sidebar Advert   
+---  
+  
+  | 
 
 ## Privacy Statement
 
-nick  12/04/2006 - 08:19
+nick  12/04/2006 - 08:19   
 
   
 
