@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whyville.net privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019035232id_/http%3A//b.whyville.net/smmk/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whyville.net privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608073641id_/http%3A//b.whyville.net/smmk/privacy/statement) for the most accurate reproduction.*
 
 # Whyville Privacy Statement
 
@@ -37,7 +37,7 @@ We routinely collect our users' visit information including pages visited on Why
 
 **Third Parties**
 
-We do not share any personally identifiable information of our users with any third parties, commercial or otherwise. We may, however, comply with requests for personally identifiable information from law enforcement or other governmental agencies, or requested pursuant to subpoena. We may share aggregated statistical data with our sponsors, partners, or the general public. For example, we may announce in a press release that 67% of our users are girls, that 50% of our users are Canadians, or that 85% of the visitors in the last month has participated in a specific game or activity. 
+_We will not sell your contact information or information about your account to any third parties. Personally identifiable information will not be provided in any form to third parties except in cases where such information is required by a service provider for our use for direct communications with you, but such information will be restricted in all cases exclusively to our access and use._1 We may comply with requests for personally identifiable information from law enforcement or other governmental agencies, or requested pursuant to subpoena. We may share aggregated statistical data with our sponsors, partners, or the general public. For example, we may announce in a press release that 67% of our users are girls, that 50% of our users are Canadians, or that 85% of the visitors in the last month has participated in a specific game or activity. 
 
 From time to time, Whyville may collaborate with sponsors and academic researchers to conduct research on Whyville. The research may involve analysis of extracts from the data Whyville routinely collects on users and their activities. The extracts that the sponsors or researchers have access to will not include any personal information of users. If the study seeks to access any further information or participation from Whyvillians, additional permission from a parent or guardian will be required, and the information will be available in Whyville's Whyology Center. 
 
@@ -50,6 +50,12 @@ Numedeon, Inc. Whyville c/o Numedeon, Inc.
 Pasadena, CA 91105   
 Tel: (626) 683-3129  
 Fax: (650) 227-2349 
+
+* * *
+
+**Recent changes to our Privacy Policy**
+
+**1\. These first two sentences of the section entitled "Third Parties" was updated on March 5, 2008 and applies to only accounts registered on or after this date. The previous version, as follows, continues to apply to accounts registered before March 5, 2008: _We do not share any personally identifiable information of our users with any third parties, commercial or otherwise._**
 
 * * *
 
