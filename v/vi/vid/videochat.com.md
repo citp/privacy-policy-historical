@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videochat.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210222101id_/http%3A//videochat.com/privacy.php%3Fservice%3Dgirls%26mp_code%3D0000%26source_code%3Ddefault%26PHPSESSID%3D7037471cba2f27671e780e98aea1a5f1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videochat.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608123214id_/http%3A//www.videochat.com/privacy.php%3Fservice%3Dgirls%26mp_code%3D0000%26source_code%3Ddefault%26PHPSESSID%3D5dfb94436ad9d6274c448b3462c0f851) for the most accurate reproduction.*
 
 # VideoChat.com
 
@@ -53,7 +53,7 @@ Information about our customers is an important part of our business, and we are
 
 VideoChat.com gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves. 
 
-  * [Your Account](https://web.archive.org/my-account/?service=girls&mp_code=0000&source_code=default&PHPSESSID=f200593cd374fb58b6a644e506285e7a)
+  * [Your Account](https://web.archive.org/my-account/?service=girls&mp_code=0000&source_code=default&PHPSESSID=0dfea8c4009030a87f166426cfe5a37e)
 
 
 
