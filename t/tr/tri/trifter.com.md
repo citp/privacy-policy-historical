@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trifter.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210135915id_/http%3A//www.trifter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trifter.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608133407id_/http%3A//www.trifter.com/privacy) for the most accurate reproduction.*
 
 # Trifter :: Privacy
 
