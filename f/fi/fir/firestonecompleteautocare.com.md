@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firestonecompleteautocare.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210074856id_/http%3A//www.firestonecompleteautocare.com/privacy_statement/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firestonecompleteautocare.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608062724id_/http%3A//www.firestonecompleteautocare.com/privacy_statement/index.jsp) for the most accurate reproduction.*
 
-# Firestone Complete Auto Care | privacy statement
+# Firestone Complete Auto Care - Privacy Statement
 
 Firestone Complete Auto Care thanks you for accessing or using this web site (the "Site"). Firestone Complete Auto Care wants to assure you that Firestone Complete Auto Care respects your privacy. Firestone Complete Auto Care knows that trust is the key to any successful business relationship. The following Privacy Policy describes Firestone Complete Auto Care's commitment to protect your personal information.
 
@@ -19,6 +19,8 @@ This Privacy Policy explains how Firestone Complete Auto Care collects, uses and
   * help you quickly find information and services.
   * help Firestone Complete Auto Care create content on this Site that is most relevant to you.
   * alert you to updated information and services offered by Firestone Complete Auto Care.
+
+
 
 **(a) Registration.** To use this Site, or certain portions or features of the Site, you may be required to first complete an online registration form. During registration you will be prompted to provide to Firestone Complete Auto Care certain personal information, including but not limited to your name, address, phone number and e-mail address.
 
@@ -47,4 +49,4 @@ Upon your request, Firestone Complete Auto Care will (a) remove your personal in
 **Updates to This Policy**  
 If Firestone Complete Auto Care decides to change or update this Privacy Policy, Firestone Complete Auto Care will post changes and updates on this Site so that you will always be aware of what information Firestone Complete Auto Care collects, uses and distributes. Firestone Complete Auto Care encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about Firestone Complete Auto Care's Privacy Policy, please use the "Contact Us" section of this Site.
 
-**© 2007 Firestone Complete Auto Care. All rights reserved.**
+**© 2008 Firestone Complete Auto Care. All rights reserved.**
