@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the palmbeachjewelry.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210113927id_/http%3A//www.palmbeachjewelry.com/jump.jsp%3FitemID%3D167%26itemType%3DCATEGORY%26path%3D1%252C3%252C162%252C167) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmbeachjewelry.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608083221id_/http%3A//www.palmbeachjewelry.com/jump.jsp%3FitemID%3D167%26itemType%3DCATEGORY%26path%3D1%252C3%252C162%252C167) for the most accurate reproduction.*
 
-# Customer Service | Privacy Statement | Shop PalmBeach & Save!
+# Customer Service - Privacy Statement - Shop PalmBeach & Save!
 
 At PalmBeach we want to demonstrate our commitment to your privacy, and notify you of the following:
 
@@ -47,7 +47,7 @@ Ultimately, our goal is to provide you with a website that's virtually tailor-ma
 If you do not wish to receive promotional e-mails, newsletters or promotional information from our company, here are your options: 
 
   1. You can e-mail our customer service department at [customerservice@palmbeachjewelry.com](mailto:customerservice@palmbeachjewelry.com).
-  2. You may call our Customer Care Center Monday - Friday 8:00am to 11:00pm and Saturday - Sunday 9:00am to 11:00pm Eastern Time at 1-888-449-5262.
+  2. You may call our Customer Care Center Monday - Friday 8:00am to 11:00pm and Saturday - Sunday 9:00am to 11:00pm Eastern Time at 866-804-3745.
   3. All e-mail promotions sent to you will provide instructions on how to unsubscribe.
 
 If a user's personally identifiable information changes (such as zip code, phone, e-mail, or postal address), or if a user no longer desires our services, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done by e-mailing our Customer Support service at [customerservice@palmbeachjewelry.com](mailto:customerservice@palmbeachjewelry.com)  
