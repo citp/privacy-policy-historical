@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printplace.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210120315id_/http%3A//www.printplace.com/static/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printplace.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608185529id_/http%3A//www.printplace.com/static/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PrintPlace: An online printing company for brochures postcards flyers
 
