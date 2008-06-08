@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nordictrack.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211080141id_/http%3A//www.nordictrack.com/webapp/wcs/stores/servlet/StaticContentView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D12401%26pageTitle%3DPrivacy%2BPolicy%26pageName%3DPrivacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nordictrack.com privacy policy that was archived on 2008-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080608222818id_/http%3A//www.nordictrack.com/webapp/wcs/stores/servlet/StaticContentView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D12401%26pageTitle%3DPrivacy%2BPolicy%26pageName%3DPrivacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>Privacy Policy - NordicTrack</title>
@@ -14,18 +14,14 @@
 	<div id="container">
 		<div id="page">
 			
-		       
+			
+		    
 		       	
 		       	
 		       	
 		        
-	         
-
+	        
 <!-- Start - JSP File name:  style1/CachedHeaderDisplay.jsp -->
-
-
-
-
 
 
 
@@ -113,46 +109,86 @@
 
 
 
+
+
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
 <!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-
-
-	
-	
-		
-		
-	
-
-
-<!-- http://images.nordictrack.com/wcsstore/NordicTrack/images/ -->
-
-
-
-
-
-
-
 
 
 
 
 
 <script language="JavaScript" type="text/javascript" src="/wcsstore/NordicTrack/javascript/scripts.js"></script>
-
+<script src="/wcsstore/NordicTrack/javascript/jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('#topNav li:nth-child(3)').click(function() {
+			$('#country').slideToggle('fast');
+		});
+		
+		$('#close a').click(function() {
+			$('#country').slideUp('fast');
+		});
+	});
+</script>		
 <!-- TOP NAVIGATION -->
-	<div id="header">
+	<div id="header" style="position: relative;">
+	
 		<div id="siteTitle">
 			<a href="http://www.nordictrack.com/webapp/wcs/stores/servlet/TopCategories1_-1_10301_12401"><b>Nordictrack.com</b><span>&nbsp;</span></a>
 		</div>
+
 		<span id="salesPhone"></span>
-		<ul id="topNav">		
-			<li><a href="/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay&amp;langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;updatePrices=1&amp;calculationUsageId=-2&amp;calculationUsageId=-1&amp;orderId=." class="shopCart">SHOPPING CART</a></li>
-			<li><a href="http://www.nordictrackservice.com/">CUSTOMER SERVICE</a></li>
-			<li><a href="http://www.iconservice.com/nordictrack/contact_us.html">CONTACT US</a></li>
-			<li><a href="/webapp/wcs/stores/servlet/SearchView?langId=-1&amp;storeId=10301&amp;catalogId=12401">SEARCH</a></li>
-		</ul>
+
+			<ul id="topNav">		
+				<li><a href="/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay&amp;langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;updatePrices=1&amp;calculationUsageId=-2&amp;calculationUsageId=-1&amp;orderId=." class="shopCart">SHOPPING CART</a></li>
+				<li><a href="/webapp/wcs/stores/servlet/SearchView?langId=-1&amp;storeId=10301&amp;catalogId=12401">SEARCH</a></li>
+				 
+				<li><a href="javascript:void(null);"><img alt="United States Flag" src="http://images.nordictrack.com/wcsstore/NordicTrack/images/flags/us.gif" border="0" style="margin: 0; padding: 0;"> United States <img src="http://images.nordictrack.com/wcsstore/NordicTrack/images/dropdown_indicator_header.gif" alt="Country Dropdown Menu" border="0" name="countrySelection"></a></li>
+			</ul>
+			
+			<div id="country" style="display: none;">
+			
+				<div id="countryHeader" style="font-size: 14px;">SELECT A COUNTRY:</div>
+			
+				<div id="countrySelect" style="font-size: 12px; padding-top: 5px;">
+
+					<div class="flagElement" style="margin: 0 0 6px 0;">					
+						<img alt="Canadian Flag" src="http://images.nordictrack.com/wcsstore/NordicTrack/images/flags/ca.gif" style="margin: 0; padding: 0;">
+						<a href="http://www.nordictrack.ca">Canada</a>
+					</div>
+															
+					<div class="flagElement" style="margin: 0 0 6px 0;">					
+						<img alt="United Kingdom Flag" src="http://images.nordictrack.com/wcsstore/NordicTrack/images/flags/gb.gif" style="margin: 0; padding: 0;">
+						<a href="http://www.nordic-track.co.uk/">United Kingdom</a>
+					</div>
+					
+					<div class="flagElement" style="margin: 0 0 6px 0;">
+						<img alt="US Flag" src="http://images.nordictrack.com/wcsstore/NordicTrack/images/flags/us.gif" style="margin: 0; padding: 0;">
+						<a href="http://www.nordictrack.com">United States</a>
+					</div>
+					
+				</div>
+				
+				<div id="close" style="font-size: 9px;">
+					[ <a href="javascript:void(null);">close</a> ]
+				</div>
+				
+			</div>
+			
 	</div>
+	
 <!-- END TOP NAVIGATION -->
 
 <!-- End - JSP File name:  style1/CachedHeaderDisplay.jsp -->
@@ -160,16 +196,7 @@
 		    
 
 			
-				
-		        
-
-
-
-<!-- Start - JSP File name:  style1/SidebarDisplay.jsp -->
-
-
-
-
+			<!-- Start - JSP File name:  style1/SidebarDisplay.jsp -->
 
 
 
@@ -256,749 +283,1011 @@
 
 
 
+
+
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
 <!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-
-
-	
-	
-		
-		
-	
-
-
-<!-- http://images.nordictrack.com/wcsstore/NordicTrack/images/ -->
-
-
-
-
-
-
-
 
 
 
 <!-- LEFT SIDE NAVIGATION AREA -->
 <div id="leftNavArea">
 
-	
-
-	
-
-	
-
-	
-
 	<img src="http://images.nordictrack.com/wcsstore/NordicTrack/images/subhdr_shop_by_equipment.gif" width="147" height="21" alt="Shop by Equipment" border="0"><br>
 	<ul id="leftNav">
 	
-	
-					
-					
-						
-					
-						
-						
-					
-	
-		
-			
+
 		
 		
-		
-			
-			
-			
-			
 			
 				
-				<li>
-						<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19559_Y">COMMERCIAL GRADE</a>
-				</li>
 			
-			
-			
-		
-		
-	
-	
-					
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-						
-					
-	
 		
 			
 		
-		
-		
-			
-			
-			
-			
 			
 				
-				<li>
-						<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19051_Y">TREADMILLS</a>
-				</li>
 			
+		
 			
 			
 		
-		
-	
-	
-					
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-						
-					
-	
+
 		
 			
 		
 		
 		
-			
-			
-			
-			
 			
 				
-				<li>
-						<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19053_Y">ELLIPTICALS</a>
-				</li>
-			
-			
+										
+					
+						
+						<li>
+							<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19559_Y">COMMERCIAL GRADE</a>
+						</li>
+					
+				
 			
 		
 		
 	
-	
-					
-					
-						
-					
-						
-					
-						
-					
-						
-						
-					
-	
-		
-			
+
 		
 		
-		
-			
-			
-			
-			
 			
 				
-				<li>
-						<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19551_Y">EXERCISE BIKES</a>
-				</li>
-			
-			
 			
 		
-		
-	
-	
-					
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-						
-					
-	
-		
-			
-		
-		
-		
-			
-			
-			
-			
 			
 				
-				<li>
-						<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19552_Y">STRENGTH TRAINING</a>
-				</li>
-			
-			
 			
 		
-		
-	
-	
-					
-					
-						
-					
-						
-					
-						
-						
-					
-	
-		
-			
-		
-		
-		
-			
-			
-			
-			
 			
 				
-				<li>
-						<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19553_Y">INCLINE TRAINERS</a>
-				</li>
-			
-			
 			
 		
-		
-	
-	
-					
-					
-						
-					
-						
-						
-					
-	
-		
-			
-		
-		
-		
-			
-			
-			
-			
 			
 				
-				<li>
-						<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19554_Y">SKI MACHINES</a>
-				</li>
-			
-			
 			
 		
-		
-	
-	
-					
-					
-						
-					
-						
-						
-					
-	
-		
-			
-		
-		
-		
-			
-			
-			
-			
 			
 				
-				<li>
-						<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19555_Y">STAIR STEPPERS</a>
-				</li>
-			
-			
 			
 		
-		
-	
-	
-					
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-						
-					
-	
-		
-			
-		
-		
-		
-			
-			
-			
-			
 			
 				
-				<li>
-						<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19556_Y">ACCESSORIES</a>
-				</li>
-			
-			
 			
 		
-		
-	
-	
-					
-						
-					
-	
-		
-			
-		
-		
-		
-			
-			
-			
-			
 			
 				
-				<li>
-						<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19557_Y">JOGGING STROLLERS</a>
-				</li>
-			
-			
 			
 		
-		
-	
-	
-					
-					
-						
-					
-						
-						
-					
-	
-		
-			
-		
-		
-		
-			
-			
-			
-			
 			
 				
-				<li>
-						<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19560_Y">YOGA &amp; PILATES</a>
-				</li>
-			
-			
 			
 		
-		
-	
-	
-					
-						
-					
-	
-		
-			
-		
-		
-		
-			
-			
-			
-			
 			
 				
-				<li>
-						<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_21053_Y">iFIT WORKOUT CARDS</a>
-				</li>
-			
-			
 			
 		
-		
-	
-	
-					
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-						
-					
-	
-		
-			
-		
-		
-		
-			
-			
-			
-			
 			
 				
-				<li>
-						<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_21058_Y">HOLIDAY SPECIALS</a>
-				</li>
-			
-			
 			
 		
-		
-	
-	
-					
-						
-					
-	
-		
+			
+				
 			
 		
-		
-		
+			
+				
 			
 		
+			
+				
+			
 		
-	
-	
-					
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-						
-					
-	
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
 		
 			
 		
+			
+				
+			
 		
-		
-		
-	
-	
-					
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-						
-					
-	
+			
+				
+			
 		
 			
 		
-		
-		
-		
-	
-	
-					
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-						
-					
-	
+			
 		
 			
 		
-		
-		
-		
-	
-	
-					
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-						
-					
-	
+			
 		
 			
 		
+			
 		
+			
 		
+			
 		
-	
-	
-					
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-						
-					
-	
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+			
+		
+
 		
 			
 		
 		
 		
 			
+				
+										
+					
+						
+						<li>
+							<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19051_Y">TREADMILLS</a>
+						</li>
+					
+				
+			
 		
 		
 	
+
+		
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+			
+		
+
+		
+			
+		
+		
+		
+			
+				
+										
+					
+						
+						<li>
+							<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19053_Y">ELLIPTICALS</a>
+						</li>
+					
+				
+			
+		
+		
 	
-					
+
+		
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+			
+		
+
+		
+			
+		
+		
+		
+			
+				
+										
 					
 						
+						<li>
+							<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19551_Y">EXERCISE BIKES</a>
+						</li>
 					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-						
-					
+				
+			
+		
+		
 	
+
+		
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+			
+		
+
+		
+			
+		
+		
+		
+			
+				
+										
+					
+						
+						<li>
+							<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19552_Y">STRENGTH TRAINING</a>
+						</li>
+					
+				
+			
+		
+		
+	
+
+		
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+			
+		
+
+		
+			
+		
+		
+		
+			
+				
+										
+					
+						
+						<li>
+							<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19553_Y">INCLINE TRAINERS</a>
+						</li>
+					
+				
+			
+		
+		
+	
+
+		
+		
+			
+				
+			
+		
+			
+			
+		
+
+		
+			
+		
+		
+		
+			
+				
+					
+							
+								
+									
+									<li><a href="/webapp/wcs/stores/servlet/Product2_12401_10301_22051_-1_19554">SKI MACHINE</a></li> 
+								
+							
+								
+							
+										
+					
+				
+			
+		
+		
+	
+
+		
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+			
+		
+
+		
+			
+		
+		
+		
+			
+				
+										
+					
+						
+						<li>
+							<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19555_Y">STAIR STEPPERS</a>
+						</li>
+					
+				
+			
+		
+		
+	
+
+		
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+			
+		
+
+		
+			
+		
+		
+		
+			
+				
+										
+					
+						
+						<li>
+							<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19556_Y">ACCESSORIES</a>
+						</li>
+					
+				
+			
+		
+		
+	
+
+		
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+			
+		
+
+		
+			
+		
+		
+		
+			
+				
+										
+					
+						
+						<li>
+							<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_19560_Y">YOGA &amp; PILATES</a>
+						</li>
+					
+				
+			
+		
+		
+	
+
+		
+			
+		
+
+		
+			
+		
+		
+		
+			
+				
+										
+					
+						
+						<li>
+							<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_21053_Y">iFIT WORKOUT CARDS</a>
+						</li>
+					
+				
+			
+		
+		
+	
+
+		
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+			
+		
+
+		
+			
+		
+		
+		
+			
+				
+										
+					
+						
+						<li>
+							<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_21058_Y">WEEKLY SPECIALS</a>
+						</li>
+					
+				
+			
+		
+		
+	
+
+		
+			
+		
+
 		
 			
 		
@@ -1008,56 +1297,300 @@
 		
 		
 	
-	
-					
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-						
-					
-	
+
+		
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+			
+		
+
 		
 			
 		
 		
 		
+		
+	
+
+		
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+			
+		
+
+		
+			
+		
+		
+		
+		
+	
+
+		
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+			
+		
+
+		
+			
+		
+		
+		
+		
+	
+
+		
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+			
+		
+
+		
+			
+		
+		
+		
+		
+	
+
+		
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+			
+		
+
+		
+			
+		
+		
+		
+			
+		
+		
+	
+
+		
+		
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+			
+		
+
+		
+			
+		
+		
+		
+			
+		
+		
+	
+
+		
+		
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+				
+			
+			
+		
+
+		
+			
+		
+		
+		
+			
+		
+		
+	
+
+		
+			
+		
+
+		
+			
+		
+		
+		
+			
+				
+										
+					
+						
+						<li>
+							<a href="/webapp/wcs/stores/servlet/Category2_-1_10301_12401_29452_Y">APPAREL</a>
+						</li>
+					
+				
 			
 		
 		
 	
 	</ul>
+
+	
+
+	
+
+	
+
+	
+
 	<ul id="leftNav2">
-		<li><a href="http://www.nordictrackapparel.com/" target="_new">FITNESS APPAREL</a></li>
+		<!-- <li class="orangebutton"><a href="http://www.nordictrackapparel.com/" target="_new">APPAREL</a></li> -->
 		<li><a href="/webapp/wcs/stores/servlet/OurTechnologyView?langId=-1&amp;storeId=10301&amp;catalogId=12401">TECHNOLOGY</a></li>
 		<li><a href="/webapp/wcs/stores/servlet/StaticContentView?langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;pageTitle=NordicTrack+%3a+Success+Stories&amp;pageName=testimonials.jsp">SUCCESS STORIES</a></li>
 		<li><a href="/webapp/wcs/stores/servlet/SuccessStoriesView?langId=-1&amp;storeId=10301&amp;catalogId=12401">SHARE YOUR STORY</a></li>
+		<li><a href="/webapp/wcs/stores/servlet/FreeGiveawayView?langId=-1&amp;storeId=10301&amp;catalogId=12401">SIGN UP FOR DEALS</a></li>
 	</ul>
 
 
@@ -1070,11 +1603,9 @@
 			
 			
 			
-			
+		
 
-
- 
-<!-- Start- JSP File Name: WARNINGeMarketingSpotDisplay.jsp -->
+<!-- Start- JSP File Name: eMarketingSpotDisplay.jsp -->
 
 
 
@@ -1166,24 +1697,32 @@
 
 
 
+
+
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
 <!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
 
 
 
-	
-	
-		
-	
 
-
-
-
-
-
-
-
-
+<script language="javascript" type="text/javascript">
+function popWindow (choice,myWidth,myHeight,myScrollbars,myTop,myLeft,myMenubar, myResizable) 
+{
+	window.open (choice, null,"width="+myWidth+",height="+myHeight+",scrollbars="+myScrollbars+",top="+myTop+",left="+myLeft+",menubar="+myMenubar+",bgcolor=#ffffff,resizable="+myResizable);
+}
+</script> 
 
 
 
@@ -1213,11 +1752,8 @@
 		
 		
 	
+
 	
-
-
-
-
 
  	
 		
@@ -1235,17 +1771,17 @@
 				<!--
 					- eMarketingSpot
 					- emsName: LeftNavTop
-					- ad copy: FreeShippingLeftNav
+					- ad copy: FreeShipFullPayLeftNav
 				-->
 				
 				
 					
 					
-						<a href="javascript:popWindow('/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=11901&amp;intv_id=13553&amp;storeId=10301&amp;storeId=10301&amp;langId=-1&amp;URL=%2fwcsstore%2fNordicTrack%2fpromotions%2fpromoFreeShipping%2fpromo.html&amp;catalogId=12401','550','365','no','50','50','no','no');">
+						<a href="javascript:popWindow('/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=11901&amp;intv_id=28053&amp;storeId=10301&amp;storeId=10301&amp;langId=-1&amp;URL=%2fwcsstore%2fNordicTrack%2fpromotions%2fpromoFreeShipPayFull%2fpromo.html&amp;catalogId=12401','550','365','no','50','50','no','no');">
 					
 					
 					
-							<img src="/wcsstore/NordicTrack/promotions/promoFreeShipping/free_ship_left.gif" alt="" class="mainPromo" border="0">
+							<img src="/wcsstore/NordicTrack/promotions/promoFreeShipPayFull/free_ship_left.gif" alt="" class="mainPromo" border="0">
 						</a>
 				
 				
@@ -1258,12 +1794,7 @@
 	
 
 
-
-
-
-
-
-<!-- End - JSP File Name: WARNINGeMarketingSpotDisplay.jsp -->
+<!-- End - JSP File Name: eMarketingSpotDisplay.jsp -->
 
 		
 		
@@ -1276,8 +1807,6 @@
 			
 		
 
-
-<!-- THIS COMMENT IS TO PROVE THAT THE ESpot IS BEING RELOADED -->
 <!-- Start- JSP File Name: eMarketingSpotDisplay.jsp -->
 
 
@@ -1370,27 +1899,32 @@
 
 
 
+
+
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
 <!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
 
 
 
-	
-	
-		
-		
-	
 
-
-<!-- http://images.nordictrack.com/wcsstore/NordicTrack/images/ -->
-
-
-
-
-
-
-
-
+<script language="javascript" type="text/javascript">
+function popWindow (choice,myWidth,myHeight,myScrollbars,myTop,myLeft,myMenubar, myResizable) 
+{
+	window.open (choice, null,"width="+myWidth+",height="+myHeight+",scrollbars="+myScrollbars+",top="+myTop+",left="+myLeft+",menubar="+myMenubar+",bgcolor=#ffffff,resizable="+myResizable);
+}
+</script> 
 
 
 
@@ -1424,6 +1958,42 @@
 	
 
  	
+		
+			
+		
+			
+
+			
+
+			
+
+			
+			
+			
+				<!--
+					- eMarketingSpot
+					- emsName: LeftNavMiddle
+					- ad copy: ExerciseHelps
+				-->
+				
+				
+					
+					
+					
+						<a href="/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=11902&amp;intv_id=31051&amp;storeId=10301&amp;storeId=10301&amp;langId=-1&amp;URL=%2fwebapp%2fwcs%2fstores%2fservlet%2fStaticContentView%3flangId%3d-1%26storeId%3d10301%26catalogId%3d12401%26pageTitle%3dYou%2bName%2bIt%2c%2band%2bExercise%2bHelps%2bIt%26pageName%3dExerciseHelps.jsp&amp;catalogId=12401">
+					
+					
+							<img src="/wcsstore/NordicTrack/images/exerciseHelps.gif" alt="exercise helps everything" class="mainPromo" border="0">
+						</a>
+				
+				
+								
+			
+			
+			
+		
+	
+	
 
 
 <!-- End - JSP File Name: eMarketingSpotDisplay.jsp -->
@@ -1439,8 +2009,6 @@
 			
 		
 
-
-<!-- THIS COMMENT IS TO PROVE THAT THE ESpot IS BEING RELOADED -->
 <!-- Start- JSP File Name: eMarketingSpotDisplay.jsp -->
 
 
@@ -1533,27 +2101,32 @@
 
 
 
+
+
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
 <!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
 
 
 
-	
-	
-		
-		
-	
 
-
-<!-- http://images.nordictrack.com/wcsstore/NordicTrack/images/ -->
-
-
-
-
-
-
-
-
+<script language="javascript" type="text/javascript">
+function popWindow (choice,myWidth,myHeight,myScrollbars,myTop,myLeft,myMenubar, myResizable) 
+{
+	window.open (choice, null,"width="+myWidth+",height="+myHeight+",scrollbars="+myScrollbars+",top="+myTop+",left="+myLeft+",menubar="+myMenubar+",bgcolor=#ffffff,resizable="+myResizable);
+}
+</script> 
 
 
 
@@ -1595,13 +2168,14 @@
 	</div>
 
 </div>
+
 <!-- END LEFT SIDE NAVIGATION AREA -->
 <!-- End - JSP File name:  SidebarDisplay.jsp -->
 
-							
-		<!-- RIGHT-SIDE CONTENT AREA -->
+						
+	
+			<!-- RIGHT-SIDE CONTENT AREA -->
 			<div id="contentArea">
-
 			
 				
 				<!-- privacy.jsp -->
@@ -1696,13 +2270,11 @@
 
 
 
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
 
 
 	
 	
+		
 		
 	
 
@@ -1712,7 +2284,7 @@
 
 
 
-
+<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
 
 				<!-- BREADCRUMBS -->
@@ -1723,54 +2295,48 @@
 				</div>
 				<!-- END BREADCRUMBS -->
 				<h1>Privacy Policy</h1>
-				
-				<!-- COPY -->
-				<p>
-					Privacy refers to information that we at ICON Health &amp; Fitness, Inc. ("ICON"), owner of this site, gather about you and the use that we make of it in the course of our business. ICON collects personally identifying information only during contests, sweepstakes and site membership registration. In addition, information is collected in certain portions of the site in which guests specifically and knowingly provide such information along with content submissions, community postings (i.e., chat or bulletin boards), suggestions, or voting. ICON may use such information for editorial and feedback purposes (to the extent that is explained when guests provide the information). In the event ICON plans to post any such information on a site, guests are provided prior notification of such posting and can decline from having such information posted. Information submitted at the time of any form of registration may be used for marketing and promotional purposes by ICON. ICON does not share this information with other companies. If a guest objects to such use for any reason, he/she may stop that use at any time by written request.
-				</p>
-				<p>
-					Pricing valid only within the continental U.S.
-				</p>
-				<p>
-					<b>Use of Cookies</b><br>
-					What are cookies? Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes while at the site. Cookies make Web-surfing easier by saving your passwords, purchases, and preferences for you. The use of cookies is an industry standard, and you'll find cookies at most major Web sites. Cookies help make this site better by showing how and when guests use the site. They do not, however, gather user specific information about persons who use the site. Many content updates and improvements are based on such data as total number of visitors and pages viewed. This statistical information is most easily tracked with cookies. This information is not shared with any third parties whatsoever. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, it is possible that some areas of this site will not function properly if you do so.
-				</p>
-				<p>
-					<b>Copyright</b><br>
-					NordicTrack is a registered trademark of ICON Health &amp; Fitness. Material contained on this site is property of ICON Health &amp; Fitness. Any attempt to duplicate or reprint any text or graphics in any way is expressly prohibited without prior written consent.
-				</p>
-				<p>
-					ICON reserves the right to change this policy at any time by notifying guests of the existence of a new privacy policy. You can send mail with any further questions to us at:
-				</p>
-				
-				<p align="center">
-						ICON Privacy Policy<br>
-						c/o Internet Design Department<br>
-						1500 South 1000 West<br>
-						Logan, Utah 84321<br>
-				</p>
-
+				<div id="infoArea">
+					<!-- COPY -->
+					<p>
+						Privacy refers to information that we at ICON Health &amp; Fitness, Inc. ("ICON"), owner of this site, gather about you and the use that we make of it in the course of our business. ICON collects personally identifying information only during contests, sweepstakes and site membership registration. In addition, information is collected in certain portions of the site in which guests specifically and knowingly provide such information along with content submissions, community postings (i.e., chat or bulletin boards), suggestions, or voting. ICON may use such information for editorial and feedback purposes (to the extent that is explained when guests provide the information). In the event ICON plans to post any such information on a site, guests are provided prior notification of such posting and can decline from having such information posted. Information submitted at the time of any form of registration may be used for marketing and promotional purposes by ICON. ICON does not share this information with other companies. If a guest objects to such use for any reason, he/she may stop that use at any time by written request.
+					</p>
+					<p>
+						Pricing valid only within the continental U.S.
+					</p>
+					<p>
+						<b>Use of Cookies</b><br>
+						What are cookies? Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes while at the site. Cookies make Web-surfing easier by saving your passwords, purchases, and preferences for you. The use of cookies is an industry standard, and you'll find cookies at most major Web sites. Cookies help make this site better by showing how and when guests use the site. They do not, however, gather user specific information about persons who use the site. Many content updates and improvements are based on such data as total number of visitors and pages viewed. This statistical information is most easily tracked with cookies. This information is not shared with any third parties whatsoever. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, it is possible that some areas of this site will not function properly if you do so.
+					</p>
+					<p>
+						<b>Copyright</b><br>
+						NordicTrack is a registered trademark of ICON Health &amp; Fitness. Material contained on this site is property of ICON Health &amp; Fitness. Any attempt to duplicate or reprint any text or graphics in any way is expressly prohibited without prior written consent.
+					</p>
+					<p>
+						ICON reserves the right to change this policy at any time by notifying guests of the existence of a new privacy policy. You can send mail with any further questions to us at:
+					</p>
+					
+					<p align="center">
+							ICON Privacy Policy<br>
+							c/o Internet Design Department<br>
+							1500 South 1000 West<br>
+							Logan, Utah 84321<br>
+					</p>
+				</div>
 <!-- privacy.jsp -->
 
 				
 
 			</div><!-- contentArea -->
 		</div><!-- page -->
-</div><!-- container -->						
+	</div><!-- container -->						
+	
 	 
 	
 	   	
-    	
+		
 	    
 		        	
-	
-
-
-<!-- Start - JSP File name:  style1/CachedFooterDisplay.jsp -->
-
-
-
-
+	<!-- Start - JSP File name:  style1/CachedFooterDisplay.jsp -->
 
 
 
@@ -1858,53 +2424,54 @@
 
 
 
+
+
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
 <!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- FOOTER -->
 	
-	
-		
-		
-	
-
-
-<!-- http://images.nordictrack.com/wcsstore/NordicTrack/images/ -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- FOOTER -->
 	<div id="footer">
-		© 2007 ICON Health &amp; Fitness &nbsp; | &nbsp; <a href="/webapp/wcs/stores/servlet/StaticContentView?langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;pageTitle=Company&amp;pageName=company.jsp">Company</a> &nbsp; | &nbsp; <a href="javascript:popWindow('/wcsstore/NordicTrack/StoreInfoArea/pop_returnpolicy.html','450','450','yes','0','20','no','yes');">Return Policy</a> &nbsp; | &nbsp; <a href="/webapp/wcs/stores/servlet/StaticContentView?langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;pageTitle=Press+Releases&amp;pageName=Press.jsp">Press Releases</a> &nbsp; | &nbsp; <a href="/webapp/wcs/stores/servlet/StaticContentView?langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;pageTitle=Media+Relations&amp;pageName=MediaRelations.jsp">Media Relations</a> &nbsp; | &nbsp; <a href="javascript:popWindow('http://www.iconservice.com/serviceapps/orderQuery.jsp',694,395,'yes',20,20);">Order Status</a> &nbsp;| &nbsp; <a href="/webapp/wcs/stores/servlet/StaticContentView?langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;pageTitle=Privacy+Policy&amp;pageName=Privacy.jsp">Privacy Policy</a> &nbsp; | &nbsp; <a href="/webapp/wcs/stores/servlet/SiteMapView?langId=-1&amp;storeId=10301&amp;catalogId=12401">Site Map</a><br>
-Prices not valid for international sales.
+		<div style="text-align: center; width: 768px; margin: 8px 0;">
+			<a href="/webapp/wcs/stores/servlet/StaticContentView?langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;pageTitle=Company&amp;pageName=company.jsp">Company</a> &nbsp; | &nbsp; <a href="javascript:popWindow('/wcsstore/NordicTrack/StoreInfoArea/pop_returnpolicy.html','450','450','yes','0','20','no','yes');">Return Policy</a> &nbsp; | &nbsp; <a href="/webapp/wcs/stores/servlet/StaticContentView?langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;pageTitle=Press+Releases&amp;pageName=Press.jsp">Press Releases</a> &nbsp; | &nbsp; <a href="/webapp/wcs/stores/servlet/StaticContentView?langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;pageTitle=Media+Relations&amp;pageName=MediaRelations.jsp">Media Relations</a> &nbsp; | &nbsp; <a href="javascript:popWindow('http://www.iconservice.com/serviceapps/orderQuery.jsp',694,395,'yes',20,20);">Order Status</a> &nbsp;| &nbsp; <a href="/webapp/wcs/stores/servlet/StaticContentView?langId=-1&amp;storeId=10301&amp;catalogId=12401&amp;pageTitle=Privacy+Policy&amp;pageName=Privacy.jsp">Privacy Policy</a> &nbsp; | &nbsp; <a href="/webapp/wcs/stores/servlet/SiteMapView?langId=-1&amp;storeId=10301&amp;catalogId=12401">Site Map</a> &nbsp; | &nbsp; <a href="http://www.nordictrackservice.com/">Customer Service</a> &nbsp; | &nbsp; <a href="http://www.iconservice.com/nordictrack/contact_us.html">Contact Us</a>
+		</div>
+		Copyright © 2008 NordicTrack.com. All Rights Reserved.<br>
+		Prices not valid for international sales.
 	</div>
-<!-- END FOOTER -->
+	
+	<!-- END FOOTER -->
 
 <!-- End - JSP File name:  style1/CachedFooterDisplay.jsp -->
-    
+
+	
 
 <!-- end StaticContent.jsp -->
 
