@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011044436id_/http%3A//www.batteries.com/help/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608065925id_/http%3A//www.batteries.com/help/privacy_policy.asp) for the most accurate reproduction.*
 
 # Batteries.com for computer laptop, cellular phone, watch, hearing aid, camera battery savings!
 
   
-Privacy Policy |  [](http://www.truste.org/ivalidate.php?url=www.batteries.com&sealid=101)  
+|  [](http://www.truste.org/ivalidate.php?url=www.batteries.com&sealid=101)  
 ---|---  
   
 batteries.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
@@ -14,6 +14,7 @@ Information Collection and Use
 Signing up for My Power  
 Placing an order with batteries.com  
 Surveys and Contests  
+Live Chat  
 Email Links  
 Cookies  
 Log Files  
@@ -44,6 +45,9 @@ If you use our referral service for informing a friend about our site, we will a
 From time-to-time, we may request information from you through surveys or contests. Participation in these surveys or contests is completely voluntary and the user has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information gathered from contests will be used to notify the winners and award prizes. Demographic information will be used for purposes of monitoring and improving your experience on this site. 
 
 We may co-sponsor some contests on our site with other companies. If you enter one of these contests, our co-sponsor may receive the information collected or may collect the information directly. In such cases, we will tell you who is collecting your information, how our co-sponsor may use the information and how you can contact our co-sponsor. 
+
+**Live Chat**  
+We provide a live chat feature on our web site.This feature collects your name and email address. We use this information solely to communicate with you regarding your inquiry. 
 
 **Email Links**  
 We use email links on our customer feedback page to allow you to contact us directly with any questions or comments you may have. 
@@ -95,9 +99,9 @@ We may disclose personal information when required by law or in the good-faith b
 **To Contact Us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with our Web site, you can contact:   
 Webmaster  
-batteries.com, Inc.  
-6040 West 79th Street  
-Indianapolis, IN 46278-1727  
+Batteries.com  
+111 Congressional Blvd Ste 350  
+Carmel, IN 46032  
 [webmaster@batteries.com](mailto:webmaster@batteries.com)
 
 Last Update: 8/22/2007 
