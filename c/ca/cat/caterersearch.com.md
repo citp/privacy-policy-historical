@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caterersearch.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210230322id_/http%3A//www.caterersearch.com/StaticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterersearch.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608232019id_/http%3A//www.caterersearch.com/StaticPages/privacy.htm) for the most accurate reproduction.*
 
 # CatererSearch
 
@@ -15,9 +15,9 @@ We will use your contact details (your name, job title, telephone and fax number
 
 Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.  If you do not wish to be contacted for this purpose, you may register your preferences on the [registration page.](http://www.reedbusiness.co.uk/dataprotection/)
 
-We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by registering your preference [here](http://www.caterersearch.com/login/login.aspx)
+We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by registering your preference [here](http://www.rbiforms.co.uk/caterer.html)
 
-If you wish to alter any of your registration details please [click here](http://www.caterersearch.com/login/login.aspx)
+If you wish to alter any of your registration details please [click here](http://www.rbiforms.co.uk/caterer.html)
 
  **Voluntary Information**  
 We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve the relevant publication, product or service and may also be disclosed to other companies as specified in the relevant promotion.  
@@ -42,7 +42,7 @@ You have the option to decline cookies, but if you decline you may not be able t
 **We strongly recommend you accept any cookies used by this site.  
 ** **  
 Web Activity Reporting**  
-We use Hitbox analytics software from WebSideStory which requires a cookie in order to gather valuable information about how users navigate around the site. Click here for the [WebSideStory privacy policy](http://www.websidestory.com/privacy/overview.html).
+We use Hitbox analytics software from Omniture which requires a cookie in order to gather valuable information about how users navigate around the site. Click here for the [Omniture privacy policy](http://www.omniture.com/privacy).
 
 **Statistical information**  
 Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information.
@@ -53,9 +53,9 @@ Aggregate statistical information provided by us to our advertisers or others re
  _Privacy information for job seekers_**
 
  **Profile and CV information  
-** Some of our websites offer you the ability to create a profile and upload a CV to our database.  Your profile and CV may be then made available for searching, viewing over the Internet and downloading by our customers. These may be direct recruiters, employment consultants or other organisations.  Customers who request CVs matching your profile to be sent to them may receive your CV and profile via e-mail or CD Rom.  Some of our customers may be located in countries outside the European Economic Area.   
-Your CV can only be viewed by a customer if you have consented to this within the profile section. You can choose to prevent our customers from accessing your personal details, CV or profile.   
-You can also choose to make your personal details and your CV anonymous, while having your profile available to be searched by recruiters.  You can then choose to reveal yourself when you reply. 
+** Some of our websites offer you the ability to create a profile and upload a CV to our database.  Your profile and CV may be then made available for searching, viewing over the Internet and downloading by our customers. These may be direct recruiters, employment consultants or other organisations.  Customers who request CVs matching your profile to be sent to them may receive your CV and profile via email or CD Rom.  Some of our customers may be located in countries outside the European Economic Area.
+
+Your CV can only be viewed by a customer if you have consented to this within the profile section. You can choose to prevent our customers from accessing your personal details, CV or profile. You can also choose to make your personal details and your CV anonymous, while having your profile available to be searched by recruiters.  You can then choose to reveal yourself when you reply. 
 
 IMPORTANT: Your current employer may be one of our customers, or a client of one of our customers. We cannot restrict the customers who will access your CV or profile on our database and cannot be held responsible for any eventuality. 
 
