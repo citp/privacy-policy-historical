@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft-go.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231833id_/http%3A//www.soft-go.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft-go.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608173755id_/http%3A//www.soft-go.com/privacy.html) for the most accurate reproduction.*
 
 # Soft-Go.Com - Privacy Policy
 
@@ -23,16 +23,17 @@
 Weekly Top 10  
 ---  
 1. | [Samsung PC Studio](https://web.archive.org/view/Samsung-PC-Studio_1153.html "Download Samsung PC Studio")  
-2. | [LG Phone Manager](https://web.archive.org/view/LG-Phone-Manager_21689.html "Download LG Phone Manager")  
-3. | [Internet Download Manager](https://web.archive.org/view/Internet-Download-Manager_3804.html "Download Internet Download Manager")  
-4. | [Core Temp Beta](https://web.archive.org/view/Core-Temp-Beta_23956.html "Download Core Temp Beta")  
-5. | [LG Desktop](https://web.archive.org/view/LG-Desktop_25294.html "Download LG Desktop")  
-6. | [WebGoRadio](https://web.archive.org/view/WebGoRadio_27089.html "Download WebGoRadio")  
-7. | [Utorrent](https://web.archive.org/view/Utorrent_126.html "Download Utorrent")  
-8. | [Raxso Drive Magic](https://web.archive.org/view/Raxso-Drive-Magic_24998.html "Download Raxso Drive Magic")  
-9. | [BlueSoleil C](https://web.archive.org/view/BlueSoleil-C_22862.html "Download BlueSoleil C")  
-10. | [Ventrilo Client](https://web.archive.org/view/Ventrilo-Client_1758.html "Download Ventrilo Client")  
+2. | [Raxso Enterprise](https://web.archive.org/view/Raxso-Enterprise_25175.html "Download Raxso Enterprise")  
+3. | [Raxso Drive Magic](https://web.archive.org/view/Raxso-Drive-Magic_24998.html "Download Raxso Drive Magic")  
+4. | [Raxso Columbus](https://web.archive.org/view/Raxso-Columbus_25140.html "Download Raxso Columbus")  
+5. | [Quick Slide Show](https://web.archive.org/view/Quick-Slide-Show_27422.html "Download Quick Slide Show")  
+6. | [AllMedia Grabber](https://web.archive.org/view/AllMedia-Grabber_22489.html "Download AllMedia Grabber")  
+7. | [Internet Download Manager](https://web.archive.org/view/Internet-Download-Manager_3804.html "Download Internet Download Manager")  
+8. | [Global Downloader](https://web.archive.org/view/Global-Downloader_36630.html "Download Global Downloader")  
+9. | [LG Phone Manager](https://web.archive.org/view/LG-Phone-Manager_21689.html "Download LG Phone Manager")  
+10. | [Clean MemXP](https://web.archive.org/view/Clean-MemXP_21424.html "Download Clean MemXP")  
 [](https://web.archive.org/weektop.xml) [](http://www.klipfolio.com/klipinfo/6289 "Weekly Top")  
+[](https://web.archive.org/weeklytop.html)  
 ---  
 |  Privacy Policy:  
 ---  
@@ -54,43 +55,46 @@ Soft-Go.Com accepts no responsibility for the software you are downloading. Same
 Soft-Go.Com is not responsible for any damage, loss caused due to use of the contents on this website.   
 | Business News  
 ---  
-[UBS writes down $10 bln, Singapore injects capital (Reuters) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20071210/bs_nm/ubs_dc)
+[Dow falls 394.64 points on jobless rate, record oil (Reuters) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20080607/bs_nm/markets_stocks_dc)
 
-[](http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20071210/bs_nm/ubs_dc)Reuters - UBS announced a $10 billion writedown and an emergency injection of funds from Singapore and the Middle East that make it as the biggest subprime crisis casualty to date among major European banks.
-
-  
-  
-[MBIA gets $1 bln investment from Warburg Pincus (Reuters) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20071210/bs_nm/mbia_warburg_dc) Reuters - MBIA Inc said on Monday that buyout firm Warburg Pincus has agreed to invest $1 billion in the bond insurance company, bolstering its finances amid concerns about its liquidity.   
-[Pending home sales unexpectedly rise (Reuters) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20071210/bs_nm/usa_economy_housing_dc)
-
-[](http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20071210/bs_nm/usa_economy_housing_dc)Reuters - Pending sales of existing U.S. homes rose modestly in October, bucking Wall Street forecasts, but the decline from a year ago was the third largest on record, a real estate trade group said Monday.
+[](http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20080607/bs_nm/markets_stocks_dc)Reuters - Stocks plunged on Friday, marking the Dow's worst day in 15 months, after the government said the May unemployment rate jumped the most in 22 years and oil prices shot to another record, renewing fears that the U.S. economy faces 1970s-style stagflation.
 
   
   
-[Shareholder law firm sets up subprime legal team (Reuters) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20071210/bs_nm/usa_subprime_law_dc)
+[Oil zooms nearly 9 percent higher to record $139 (Reuters) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20080607/bs_nm/markets_oil_dc)
 
-[](http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20071210/bs_nm/usa_subprime_law_dc)Reuters - A U.S. law firm that focuses on bringing shareholder lawsuits against big corporations has formed a new practice group focused on court cases stemming from the subprime mortgage meltdown.
+[](http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20080607/bs_nm/markets_oil_dc)Reuters - Oil jumped nearly 9 percent to a record $139 a barrel on Friday, extending a two-day rally to more than $16 as the slumping U.S. dollar and mounting tensions between Israel and Iran attracted a stampede of buyers.
 
   
   
-[Blackstone denies speculation of Rio Tinto bid (Reuters) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20071210/bs_nm/blackstone_rio_dc) Reuters - Private equity firm Blackstone Group on Monday denied speculation that it is planning a counterbid for Rio Tinto Ltd/Plc with a consortium believed to include China's sovereign wealth fund.   
-[Pending home sales unexpectedly rise (Reuters) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20071210/bs_nm/usa_economy_housing_dc)
+[Singapore's Unisteel accepts $575 mln KKR bid (Reuters) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20080607/bs_nm/unisteel_kkr_dc)  
+Reuters - Singapore disc drive component maker Unisteel on Saturday said it has agreed to be bought by Kohlberg Kravis Roberts & Co. for $575 million.   
+[Agility could sign $2.5 billion U.S. army deal: report (Reuters) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20080608/bs_nm/agility_deal_dc)  
+Reuters - Kuwait's Agility , the Gulf's biggest logistics provider by market value, is set to sign a $2.5 billion deal with the U.S. army in July, a newspaper reported on Sunday.   
+[Jobless rate leaps to 3-1/2 year high in May (Reuters) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20080606/bs_nm/usa_economy_jobs2_dc)
 
-[](http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20071210/bs_nm/usa_economy_housing_dc)Reuters - Pending sales of existing U.S. homes rose modestly in October, bucking Wall Street forecasts, but the decline from a year ago was the third largest on record, a real estate trade group said Monday.
+[](http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/nm/20080606/bs_nm/usa_economy_jobs2_dc)Reuters - The U.S. unemployment rate surged to 5.5 percent in May, its highest in more than 3-1/2 years, as the barely growing economy lost jobs for the fifth straight month.
+
+  
+  
+[Delta unrest casts shadow on Nigeria and world economy (AFP) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/afp/20080608/bs_afp/nigeriaoilunrest)
+
+[](http://us.rd.yahoo.com/dailynews/rss/business/*http://news.yahoo.com/s/afp/20080608/bs_afp/nigeriaoilunrest)AFP - Unrest in the Niger Delta is becoming a major problem for the Nigerian government but its importance as an oil producer is also helping extend its shadow over the world economy.
 
   
   
 Software News  
 ---  
-[Widget syndicator Clearspring launches ad network (Reuters) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/software/*http://news.yahoo.com/s/nm/20071210/wr_nm/widget_advertising_dc) Reuters - Clearspring Technologies Inc, the leading independent provider of "widget" software for syndicating Web site features or content, said on Monday that it was introducing a network for distributing advertising.   
-[Red Hat offers JBoss Developer Studio IDE (InfoWorld) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/software/*http://news.yahoo.com/s/infoworld/20071210/tc_infoworld/93915) InfoWorld - Red Hat on Monday is shipping JBoss Developer Studio, an Eclipse-based IDE that bundles open source tooling and runtime software so that developers do not need to gather these components themselves.   
-[Microsoft Office Live Workspaces misses the mark (InfoWorld) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/software/*http://news.yahoo.com/s/infoworld/20071210/tc_infoworld/93904) InfoWorld - After an excruciatingly drawn-out development process, Microsoft???s Office Live Workspaces -- the company???s attempt to marry Microsoft Office to the emerging Web services ???cloud??? -- is finally upon us.   
-[LinkedIn courts developers, lands BusinessWeek deal (Reuters) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/software/*http://news.yahoo.com/s/nm/20071210/wr_nm/linkedin_dc)
-
-[](http://us.rd.yahoo.com/dailynews/rss/software/*http://news.yahoo.com/s/nm/20071210/wr_nm/linkedin_dc)Reuters - LinkedIn, an Internet social network for professionals, will open up its service on Monday to outside software developers, starting with BusinessWeek magazine, to transform itself from an online contacts and referral database into an indispensable daily tool for business users.
-
-  
-  
-[Borland to mix ALM, business intelligence (InfoWorld) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/software/*http://news.yahoo.com/s/infoworld/20071210/tc_infoworld/93905) InfoWorld - Borland Software in the mid-2008 timeframe plans to blend business intelligence with application lifecycle management, releasing products that will collect data stored in disparate toolsets for use in reporting metrics in application development projects.   
-[Open Source Group Sues Verizon (PC World) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/software/*http://news.yahoo.com/s/pcworld/20071208/tc_pcworld/140403) PC World - The Software Freedom Law Center has says Verizon violates the copyright of the GNU GPL.   
+[Ending the Hardware/Software Rat Race (PC World) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/software/*http://news.yahoo.com/s/pcworld/20080606/tc_pcworld/146841)  
+PC World - Could Microsoft's decision to extend the sales deadline for Windows XP signal a major strategic shift?   
+[Apple's 3G IPhone Could Bow at Developer Event (PC World) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/software/*http://news.yahoo.com/s/pcworld/20080606/tc_pcworld/146821)  
+PC World - Apple could announce the 3G iPhone and a new software development platform for the phone at next week's developer conference.   
+[Windows XP To Windows 7 A Risky Path, Microsoft Warns (TechWeb) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/software/*http://news.yahoo.com/s/cmp/20080607/tc_cmp/208402585)  
+TechWeb - [InformationWeek](http://us.rd.yahoo.com/dailynews/cmp/tc_cmp/storytext/208402585/27780621/SIG=1315rlgls/*http://www.informationweek.com/;jsessionid=QXQG4V1BHI2JOQSNDLQSKH0CJUNN2JVN?cid=feed-yahoo-news) \- Customers that don't deploy Windows Vista are missing out on proven benefits such as better security, productivity, search, mobility, and manageability, says a Microsoft executive.   
+[Leaked Report Details Secret Ad Software Trials in UK (PC World) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/software/*http://news.yahoo.com/s/pcworld/20080606/tc_pcworld/146793)  
+PC World - A leaked internal report detailing the secret test of a targeted advertising system by BT could fuel further complaints about...   
+[IBM to release enterprise mashup tool (InfoWorld) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/software/*http://news.yahoo.com/s/infoworld/20080606/tc_infoworld/103092)  
+InfoWorld - IBM is getting closer to releasing its mashup technology, with plans to deliver an enterprise-ready software product in the third quarter, and a free trial version hosted on the Web that customers can test out beforehand.   
+[Last call for Windows XP PCs is mid-June (InfoWorld) ](https://web.archive.org/read_n/?rdr=http://us.rd.yahoo.com/dailynews/rss/software/*http://news.yahoo.com/s/infoworld/20080606/tc_infoworld/102991)  
+InfoWorld - It???s last call for consumers to buy PCs pre-loaded with Windows XP.   
 ---
