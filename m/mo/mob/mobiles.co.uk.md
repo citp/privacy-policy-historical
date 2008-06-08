@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210182444id_/http%3A//www.mobiles.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609002332id_/http%3A//www.mobiles.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # our privacy policy. - Best Mobile Phone Deals on Orange, T-Mobile, 3, O2, Virgin
 
@@ -36,5 +36,34 @@ If we intend to transfer your information outside the EEA (European Economic Are
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
 
 If we believe an order has been placed fraudulently, or our online auction system has been abused, then we may share that information with third parties including the Police, credit card companies and any other organisation that may help to track and/or prevent future occurences of fraud or abuse.
+
+Data Protection Policy:
+
+Under the terms of the Data Protection Act you are entitled to see all personal information we hold about you. To submit what is known as a "Subject Access Request" please send us:
+
+  * Your full name and address
+  * Your Carphone Warehouse account number (if known) 
+  * A cheque for £10 (which is our admin charge) made payable to ‘Mobiles.co.uk’ 
+  * A copy of one these proofs of identity: 
+  * Birth certificate 
+  * Passport 
+  * Driver’s licence
+  * Credit or debit card statement 
+  * Utility bill showing the same name and address as you used to order 
+  * Child benefit book 
+  * Pension book 
+
+
+
+Please send to: 
+
+Data Protection Officer   
+Mobiles.co.uk   
+6, Greenhill Crescent  
+Watford   
+WD18 8RF   
+
+
+We will respond in full within 40 days. We recommend using Recorded Delivery so you can check your request has been received.
 
 If you have any questions about privacy, please e-mail [Ben Godber](mailto:ben.godber@mobiles.co.uk?subject=Privacy%20Policy). 
