@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210091744id_/http%3A//www.daviscup.com/about/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608125934id_/http%3A//www.daviscup.com/about/legal.asp) for the most accurate reproduction.*
 
 # Davis Cup - Legal Information
 
@@ -6,9 +6,9 @@ The following provides detail about our Privacy Policy.
 
 We treat your privacy seriously.
 
-_Notice: This policy only applies to websites run by the ITF and not to the companies, individuals, organisations or other websites to which there are links._
+ _Notice: This policy only applies to websites run by the ITF and not to the companies, individuals, organisations or other websites to which there are links._
 
-**Consent**
+ **Consent**
 
 Your use of this web site signifies your consent to us collecting and using personal information about you as specified below in accordance with this Policy. Should we choose to change our Policy for any reason, the changes will be posted here, so that you are always kept informed of how we collect and use your personal information, and when we may disclose it. 
 
@@ -34,15 +34,15 @@ We may use personal information collected about you to let you know about functi
 
 Sometimes (and only in accordance with preferences selected by you) we or our affiliated companies might use the personal information collected about you to let you know about, new goods, services or offers that you might find interesting. If you do not wish to receive such information please email us using our [feedback form](http://www.daviscup.com/feedback.asp?userid=7).
 
-**Traffic Data**
+ **Traffic Data**
 
 We may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you.
 
-**Other Disclosures**
+ **Other Disclosures**
 
 We reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users.
 
-**How Do We Protect Your Information?**
+ **How Do We Protect Your Information?**
 
 We have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the Data Protection Act 1998. This means that sometimes we may ask you for proof of identity before disclosing any personal information to you.
 
