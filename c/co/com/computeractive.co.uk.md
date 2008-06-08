@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the computeractive.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225642id_/http%3A//www.computeractive.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computeractive.co.uk privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608232152id_/http%3A//www.computeractive.co.uk/about/privacy) for the most accurate reproduction.*
 
-# Computeract!ve - About - Policy
+# Computeractive - About - Policy
 
 Introduction
 
