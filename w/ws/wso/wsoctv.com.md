@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsoctv.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210232856id_/http%3A//www.wsoctv.com/station/1919490/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsoctv.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608220934id_/http%3A//www.wsoctv.com/station/1919490/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - WSOC-TV News Story - WSOC Charlotte
 
