@@ -1,21 +1,14 @@
-> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210232539id_/http%3A//heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608232111id_/http%3A//www.heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
 
 # Heavy Harmonies - Privacy Statement
 
 THE Hard Rock and AOR Reference on the Internet!
 
-Bands: 4221     CDS: 9517     Songs: 109329
+Bands: 4399     CDS: 9828     Songs: 112684
 
-  
+[ ](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=donations@heavyharmonies.com&undefined_quantity=1&item_name=HH_10_donation&item_number=hh10&amount=10.00&no_shipping=1&shipping=0.00&no_note=0&currency_code=USD)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=donations@heavyharmonies.com&undefined_quantity=1&item_name=HH_5_donation&item_number=hh5&amount=5.00&no_shipping=1&shipping=0.00&no_note=0&currency_code=USD)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=donations@heavyharmonies.com&undefined_quantity=1&item_name=HH_2_donation&item_number=hh2&amount=2.00&no_shipping=1&shipping=0.00&no_note=0&currency_code=USD)  
+Your ongoing support of Heavy Harmonies is appreciated! 
 
-
-**October 12, 2007 -** For those of you who didn't attend the MelodicRock.Com 10th Anniversary Concert in South Bend, IN on Saturday, you missed a once-in-a-lifetime event. I've posted 300 pictures of the show; check them out [**here**](https://web.archive.org/mrfest2007). _-Dan_
-
-  
-|  |   
----|---|---  
-Your ongoing support of Heavy Harmonies is appreciated!   
-  
 _Last updated October 7, 2005_
 
 The success of Heavy Harmonies depends upon our ability to maintain the trust of our users. Below is information regarding our commitment to protect the privacy of users. 
