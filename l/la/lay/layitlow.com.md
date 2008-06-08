@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layitlow.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624135423id_/http%3A//www.layitlow.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layitlow.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609002148id_/http%3A//www.layitlow.com/privacy.shtml) for the most accurate reproduction.*
 
 # LayItLow.com Privacy Statement
 
@@ -63,7 +63,7 @@ Our websites do not target and are not intended to attract children under the ag
 
 LayItLow.com contains links to other sites. LayItLow.com does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
 
-Our website may contain links to websites operated by other companies. Some of these third-party sites may be co-branded with a LayItLow.com logo, even though they are not operated or maintained by LayItLow.com. Although we choose our business partners carefully, LayItLow.com is not responsible for the privacy practices of web sites operated by third parties that are linked to our site. Once you have left our website, you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you.
+Our website may contain links to websites operated by other companies. Some of these third-party sites may be co-branded with a LayItLow.com logo, even though they are not operated or maintained by LayItLow.com. Although we choose our business partners carefully, LayItLow.com is not responsible for the privacy practices of web sites operated by third parties that are linked to our site. Once you have left our website, you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you. This also applies to advertising which may be displayed to you, check those [third party websites](https://www.google.com/adsense/support/bin/answer.py?answer=94149) to view their individual privacy policies and opt-out information.
 
 ##### Changes to this Privacy Policy
 
@@ -73,4 +73,4 @@ LayItLow.com will amend this policy from time to time. If we make any substantia
 
 If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [support@layitlow.com](mailto:support@layitlow.com).
 
-This document was last updated September 15, 2005
+This document was last updated May 21, 2008
