@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muscleandstrength.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211025817id_/http%3A//www.muscleandstrength.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muscleandstrength.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609014437id_/http%3A//www.muscleandstrength.com/privacy.html) for the most accurate reproduction.*
 
-# Muscle&Strength Privacy Policy » Muscle&Strength.com
+# Muscle&Strength Privacy Policy - MuscleandStrength.com
 
 Mase Media Pty Ltd has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Muscle&Strength.com. 
 
