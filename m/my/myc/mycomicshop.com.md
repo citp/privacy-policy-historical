@@ -1,42 +1,15 @@
-> *The following text is extracted and transformed from the mycomicshop.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211073809id_/http%3A//www.mycomicshop.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycomicshop.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608222507id_/http%3A//www.mycomicshop.com/help/privacy) for the most accurate reproduction.*
 
-# mycomicshop.com
-
-[](https://web.archive.org/)
-
-### Sell/Trade Your Comics
-
-[](https://web.archive.org/webuytrade)
-
-  * We pay top dollar for your comics: cash or mycomicshop credit
-  * Easy, comprehensive online system
-  * Fair, accurate [grading](https://web.archive.org/help/grading)
-
-
-
-We buy from thousands of sellers yearly. Just read the [feedback](https://web.archive.org/help/feedback?section=BT) from our satisfied sellers to see why we're the best place to sell your comics! [List your comics](https://web.archive.org/webuytrade) to find out what we'll pay in cash or trade. 
-
-### Customer Feedback
-
-Our customers say some pretty nice things about us. Read our [feedback](https://web.archive.org/help/feedback). 
-
-### About Us
-
-We've been selling comics since 1961 (our first sale: Fantastic Four #1 at $0.25, see one of [our first ads](https://web.archive.org/aboutus/ourfirstad)) and on the web since 1996. Read a little about [our history](https://web.archive.org/aboutus/history). 
-
-| 
-
-[Comics & Graphic Novels](https://web.archive.org/comics) | [Subscription Service](https://web.archive.org/subscriptionservice) | [Sell & Trade](https://web.archive.org/webuytrade) | [Our Stores](https://web.archive.org/ourstores) | [Contact Us](https://web.archive.org/help)
+# Comic Books - Privacy and Security
 
 mycomicshop.com is committed to providing a secure web site that respects and protects your privacy. This page summarizes our privacy and security policies. We also provide a [complete P3P-compliant policy file](https://web.archive.org/w3c/mycomicshop.p3p) and a [human-readable version](https://web.archive.org/help/privacy_P3P) of that policy file.
 
-| **Cookies** | 
+**Cookies** | 
 
 We use cookies to keep track of your shopping cart and your login. If your browser is not accepting cookies from our site, you will be unable to shop because your shopping cart will appear to be empty each time you try to put something in it. Without cookies, our site has no way to identify you from one page to the next.
 
   
   
----|---  
 **Email Address** | 
 
 We require an email address to place an order. This email address is used only to contact you with information about the status of your order. We will never send you advertisements or other unrequested email. We will **never, ever** give your email address to a spammer or any third party. If you need to update the email address registered at our site, please email [customerservice@mycomicshop.com](mailto:customerservice@mycomicshop.com)
