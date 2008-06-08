@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveonfoods.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211002633id_/http%3A//www.saveonfoods.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveonfoods.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608185444id_/http%3A//saveonfoods.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # privacy
 
@@ -17,7 +17,7 @@ It is important for us at OFG to make you feel as comfortable as possible at our
 **Contact**  
 During your initial visit to our website, we would ask that you indicate whether you want to receive communications from OFG. There is no obligation to receive communications when visiting our website. Occasionally, we may be in touch with you via email, postal mail or telephone to notify you of new services or products available through OFG and to ask you about how satisfied you are with OFG's products and services.
 
-If you have any questions about our privacy statement, the practices of this website, or dealing with OFG, contact us by calling 1.800.242.9229 to voice any concerns to our friendly customer service representatives, or fill in our: **[online customer inquiry form](https://web.archive.org/web/20071211002633id_/http%3A//www.saveonfoods.com/customerservices/contact.htm) **[](https://web.archive.org/web/20071211002633id_/http%3A//www.saveonfoods.com/customerservices/contact.htm)
+If you have any questions about our privacy statement, the practices of this website, or dealing with OFG, contact us by calling 1.800.242.9229 to voice any concerns to our friendly customer service representatives, or fill in our: **[online customer inquiry form](https://web.archive.org/web/20080608185444id_/http%3A//saveonfoods.com/customerservices/contact.htm) **[](https://web.archive.org/web/20080608185444id_/http%3A//saveonfoods.com/customerservices/contact.htm)
 
 **Links**  
 This website provides links to other websites. Please be aware that we are not responsible for the privacy practices of any other websites. We encourage our users to be aware when they leave our website to read the privacy policies of each and every website that collects personal information. This policy statement applies solely to personal information collected by OFG.
@@ -32,7 +32,7 @@ Ultimately, if you are unhappy with our privacy statement or our service as a wh
 
 _**We reserve the right to change this privacy statement from time to time. We will inform you that the statement has been updated, as we will change the effective date of the statement, and make a note on our website's homepage that the statement has been changed.**_
 
-Effective date: July 5, 2006.
+June 1, 2008
 
 * * *
 
@@ -80,7 +80,7 @@ Phone: (604) 881-3668
 Fax: (604) 888-8521   
 Email: _[**don_eng@owfg.com**](mailto:don_eng@owfg.com)_
 
-July 5, 2006
+June 1, 2008
 
 * * *
 
@@ -109,4 +109,4 @@ The Overwaitea Food Group (OFG) respects the privacy of its customers and team m
 **10\. Challenging Compliance** – An individual shall be entitled to challenge concerns they may have with respect to an organization's compliance with the fair information principles contained herein.  
 It is the goal of OFG to honour the fair information principles contained herein through the implementation of practices and procedures relating to personal information, as may be amended from time to time, to fulfill the needs of OFG. 
 
-July 5, 2006
+June 1, 2008
