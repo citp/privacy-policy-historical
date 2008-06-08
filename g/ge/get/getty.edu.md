@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210211001id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608215423id_/http%3A//getty.edu/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement (Getty About Us)
 
@@ -90,10 +90,13 @@ Getty cookies do not track your activity on this site. Getty cookies will not be
 **Links to Other Web Sites**  
 This Web site contains links to other sites that are not owned or controlled by the Getty. We are not responsible for the content or privacy practices of other sites. This privacy statement applies only to this Web site.
 
+**Children Under 13 Years of Age**  
+The Getty's Web site is not specifically dedicated to children and we do not actively solicit information from children. Children age 12 or under are required to obtain permission from a parent or guardian before submitting information to this Web site.
+
 **Changes in This Privacy Statement**  
 We reserve the right to modify this privacy statement at any time. Please visit this page periodically to check our current policy.
 
 **Contact Us**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at [info@getty.edu.](mailto:info@getty.edu)
 
-Effective Date: July 13, 2004
+Effective Date: February 19, 2008
