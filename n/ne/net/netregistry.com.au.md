@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netregistry.com.au privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024193006id_/http%3A//www.netregistry.com.au/customer-service/legals/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netregistry.com.au privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608225717id_/http%3A//www.netregistry.com.au/customer-service/legals/privacy-policy.php) for the most accurate reproduction.*
 
 # Legals || NetRegistry || Privacy Policy
 
@@ -25,8 +25,8 @@ Information about what services you have ordered from NetRegistry:
 
 ## What NetRegistry does with your information
 
-  * We do not your personal information available to third parties, with the obvious exception of third party business partners such as the domain name registries.
-  * We do provide aggregate data to third parties (e.g. "we have 20,000 clients who are SMEs")
+  * We do not your personal information available to third parties, with the obvious exception of third party business partners such as the domain name registries that need to record your details when you register a [domain name](https://web.archive.org/web/20080608225717id_/http%3A//www.netregistry.com.au/domain-name-registration/index.php).
+  * We do provide aggregate data to third parties (e.g. "we have 200,000 clients who are SMEs")
   * We will contact relevant people to communicate billing and technical issues
   * We store website data and email queued on our servers, only for use as back-up data should it be required
   * We may customise our email newsletters and communications to reflect your interest in a particular service
@@ -38,6 +38,6 @@ Information about what services you have ordered from NetRegistry:
 
 ## Email communications
 
-As a customer of NetRegistry you will recieve occasional email communications from NetRegistry that relate to the services we provide to you, and you will have the option to opt-out of all non-essential email and postal mail.
+As a customer of NetRegistry you will receive occasional email communications from NetRegistry that relate to the services we provide to you, and you will have the option to opt-out of all non-essential email and postal mail.
 
 If you have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/customer-service/index.php).
