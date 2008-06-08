@@ -1,149 +1,42 @@
-> *The following text is extracted and transformed from the admarketplace.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admarketplace.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608175439id_/http%3A//www.admarketplace.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# adMarketplace.com: Privacy Policy
 
-#### Find Answers To Your Questions:
+|  |  | 
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+At AdMarketplace, a division of Conducive Corporation, ("AdMarketplace", "we" or "us"), we know our visitors and advertisers (collectively, "you" or "users") value their privacy, and we have created this privacy policy to ensure that you understand our policies and procedures regarding the types of information we collect or that you may provide to us in connection with use of [www.admarketplace.com](http://www.admarketplace.com/) (the "Site") and our AdMarketplace service (the "Service") and how we use such information.
 
-### Privacy Policy
+Personal Information Collection & Usage: AdMarketplace only collects personal information from you when it is voluntarily provided by you. Personal information may include name, title, company, email address, physical address, telephone number, credit card information and similar information which identifies you. We may use this information in a variety of ways. For example, we may use this information so that you may obtain access to advertiser-only portions of the Service and/or to receive AdMarketplace information, products and services. In addition, we may share your personal information with our affiliates, technical consultants, third party auditors and other third parties who make our Site and Service available, enhance its functionality or provide associated services and/or who deal with you in processing your orders and/or deliver the Services or related services. The personal information you provide is considered a company asset and may be included among transferred assets if our company or any of its assets are ever acquired by or transferred to a third party or an affiliate.
 
-**Why A Privacy Policy?**  
+From time to time we may supplement personal information you give us with information from other sources, such as information validating your address. Thus, information we obtain through the Site and Service may be intermingled with and used in conjunction with information obtained through sources other than the Site or Service, including both offline and online sources.
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+Aggregate Information Collection & Usage: We may collect information from you in an aggregate, anonymous form, which means that the information will not contain nor be linked to any personal information. For instance, we may aggregate data based upon the advertisements you upload and deliver through our Service, the Targeting Criteria (described in the [Terms and Conditions](https://web.archive.org/terms.php)) you select, the amount of money you spend on your account and other campaign or user data. AdMarketplace uses this information to measure the use of our Site and Service, to report to our business partners aggregate statistics regarding use of our Service, to improve our Site and Service and for other business purposes.
 
- **This Privacy Policy protects your privacy by:**
+We also reserve the right to access and/or disclose personal information and non-personal information we have gathered, as required by courts or administrative agencies and to the extent required to permit us to investigate suspected fraud, harassment or other violations of any law, rule or regulation, the [Terms and Conditions](https://web.archive.org/terms.php), or the rights of third parties or to investigate any suspected conduct which AdMarketplace deems improper. 
 
- **Informing you about:**
+Clickstream: As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as "clickstream data," can be collected and stored by a web site's server. Clickstream data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Site. We may use clickstream data as a form of aggregate information to anonymously determine how much time users spend on each page of our Site, how users navigate throughout the Site and how we may tailor our web pages to better meet the needs of users. This information may be used to improve our Site and Service or to share with business partners. Any collection or use of clickstream data will be anonymous and aggregate, and will not contain any personal information.
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+Cookies: The Site and Service may use "cookies" to improve our level of service to our you. Cookies are lines of text that are transmitted to your web browser when you click on a web site. Your browser stores the information on your hard drive and when you return to that web site later, the cookie is transmitted back to the server that originally sent it to you. Cookies provide a way for a server to recall a previous request or previous registration, or to keep track of a transaction as it progresses, so that information does not have to be repeated. To be notified when you are about to receive a cookie, you can configure your browser to alert you when a web site is attempting to send you a cookie and at that time you will have the option of refusing the cookie. 
 
+Gifs and Tags:  AdMarketplace, and third-party advertising companies serving ads on our Site or on our behalf, may employ cookies, action tags, clear gifs, web beacons or similar devices to measure advertising effectiveness. Any information collected via such devices is anonymous and will not contain your personal information.
 
+Security Procedures:  The security of your personal information is very important to us. We attempt to provide for the secure transmission of your information by utilizing encryption software. We have put in place reasonable physical, electronic, and managerial procedures to safeguard the information we collect. Only those employees and contractors who need access to your personal information in order to perform their duties are allowed access to your personal information. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and AdMarketplace, AdMarketplace and you or AdMarketplace and any business partners will be free from unauthorized access by third parties such as hackers and your use of the Site and Service demonstrates your assumption of this risk.
 
-**Empowering you to choose:**
+Other Web Sites: This Site may provide links or references to other web sites, including those of our business partners. However, we have no control over or responsibility for the content or practices on third party web sites or transac�tions that occur therein. The privacy policies and [Terms and Conditions](https://web.archive.org/terms.php) governing this Site may differ significantly from the policies of third party web sites. We encourage you to be aware when you leave our Site and you should always read and accept the privacy policies and terms and conditions of such third party web sites before you access these web sites.
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+Reviewing or Changing Your Information:  In order to ensure that the information we maintain is accurate, AdMarketplace gives users the opportunity to change or modify their previously provided information. If you would like to change your information currently in our database, please access your account on the Site. If you are unable to access your account, please contact us at [ support@admarketplace.net ](mailto:support@admarketplace.net). AdMarketplace is not responsible for updating information provided pursuant to this privacy policy to third party lists or databases. 
 
+Protection for Children:  This Site is not intended to collect personal information from children under the age of 13. Where appropriate, we take reasonable measures to inform children not to submit such information to our Site or in response to advertisements. When we become aware that personal information from a child under 13 has been collected without such child's parent or guardian's consent, we will use all reasonable efforts to delete such information from our database.
 
+United States: Our Site and Service are maintained in New York, New York USA. By using the Site or Service, you authorize the export of personal information to the USA and its storage and use as specified above when you provide such information to us. 
 
-**Assuring you that Network Solutions:**
+Changes to policy; Opt-in / Opt-out: This policy applies to our online information collection practices only. We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. When your consent is required for any action under this policy, you agree that we may obtain your consent by an "opt-in" or "opt-out" method, or by other means (such as sending to you an email). However, if at any time in the future we plan to use your personal information in a way that differs from this policy, we will obtain your consent. 
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+By registering to use the Service, you consent to receive information and updates on our products and services. You may opt-out of such communications by sending an email to [ support@admarketplace.net ](mailto:support@admarketplace.net). 
 
+Terms and Conditions: Use of this Site and our Service are governed by the provisions contained in the [ Terms and Conditions](https://web.archive.org/terms.php). Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE.
 
+Contacting Us: If you have any questions about this privacy policy, the practices of this Site or Service or your dealings with us, you can contact us at: [ privacy@admarketplace.net ](mailto:privacy@admarketplace.net). 
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
-
-  
-**Third Party Advertising and Cookies**
-
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
-
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
-
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
-
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
-
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
-
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
-
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
-
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
-
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
-
- **Getting to Know Our Customers**
-
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
-
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
-
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-
-e. Click “SAVE.”
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-
-e. Click “SAVE.” 
-
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+|   
+---|---|---|---
