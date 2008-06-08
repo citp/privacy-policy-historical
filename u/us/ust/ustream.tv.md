@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustream.tv privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629040201id_/http%3A//ustream.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustream.tv privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608144655id_/http%3A//www.ustream.tv/privacy-policy) for the most accurate reproduction.*
 
 # Ustream.tv
 
@@ -78,8 +78,8 @@ This Site is not directed to children under 18. If a parent or guardian becomes 
 If you have any questions about this Privacy Policy, please contact us at [Privacy@Ustream.tv](mailto:privacy@ustream.tv). or at: 
 
 Privacy Matters c/o Ustream.tv  
-17061 Limetree Lane  
-Riverside, CA 92503
+4600 El Camino Real, Suite 213  
+Los Altos, CA 94022
 
   
 
