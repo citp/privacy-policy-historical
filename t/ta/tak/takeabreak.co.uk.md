@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takeabreak.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210074652id_/http%3A//www.takeabreak.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takeabreak.co.uk privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608062436id_/http%3A//www.takeabreak.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Take a Break Magazine
 
@@ -6,7 +6,7 @@
 
 ### This Policy
 
-This Privacy Policy relates to web sites which H Bauer Publishing ('we', and 'us') operates from time to time (together the 'Web Site'). The User Terms which govern use of the Web Site incorporate this Privacy Policy. Click here for more information.
+This Privacy Policy relates to web sites which H Bauer Publishing ('we', and 'us') operates from time to time (together the 'Web Site'). The [User Terms](https://web.archive.org/terms) which govern use of the Web Site incorporate this Privacy Policy. Click here for more information.
 
 ### Information we collect
 
