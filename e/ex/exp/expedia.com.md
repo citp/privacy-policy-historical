@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231100118id_/http%3A//www.expedia.com/daily/service/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608114748id_/http%3A//www.expedia.com/daily/service/privacy.asp) for the most accurate reproduction.*
 
 # Expedia.com Privacy Policy
 
