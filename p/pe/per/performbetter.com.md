@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the performbetter.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617020725id_/http%3A//performbetter.com/catalog/matriarch/switch.asp_Q_PageID_E_41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performbetter.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608185820id_/http%3A//www.performbetter.com/catalog/matriarch/switch.asp_Q_pageid_E_41) for the most accurate reproduction.*
 
 # Perform Better: on-line catalog of plyometric, strength training, speed training, weight lifting and functional training equipment.
 
-  |    
-MF Athletic Privacy Statement, Policies and Procedures
-
- **PRIVACY STATEMENT**  
+**PRIVACY STATEMENT**  
 M-F Athletic Co., Inc. is aware of our customers' need for privacy while ordering on the Internet. It is our intention at M-F Athletic Co., Inc. to make our sites as secure as commercially reasonable, while offering the comfort and convenience of on-line ordering to our customers. However technology is constantly changing, by utilizing our site, you understand and accept any risks that could occur through electronic information sharing through any of our sites, even though advertised as secure. We are making every effort to ensure that our customers have the most private ordering processes available, but we cannot be held responsible for unforeseen or unintended access to our client information.
 
 If you require privacy over and above our secure site structure or have a specific question you would like to ask concerning the extent of privacy afforded by any of our sites, please contact us via email at [mfathletic@mfathletic.com](mailto:mfathletic@mfathletic.com), or call us toll-free at 1-888-556-7464, Monday through Friday, 8:30 a.m. to 6:00 p.m. E.S.T. We will be happy to address any concerns you might have from ordering on-line.
@@ -25,5 +22,3 @@ In the event a product is listed at an incorrect price or with incorrect informa
 
  **COPYRIGHT**  
 All content included on this site, such as text, graphics, logos, button icons, images, video clips, and data compilations is the property of M-F Athletic Co., Inc. or its content suppliers and protected by United States and international copyright laws. The compilation of all content on this site is the exclusive property of M-F Athletic Co., Inc. and protected by U.S. and international copyright laws. All software used on the site is the sole property of MF Athletic Company or those supplying the software.
-
-| 
