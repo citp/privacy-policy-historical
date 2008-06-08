@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kval.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210092701id_/http%3A//www.kval.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kval.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608130240id_/http%3A//www.kval.com/about/privacy) for the most accurate reproduction.*
 
 # KVAL CBS 13 - News, Weather and Sports - Eugene, OR - Eugene, Oregon | KVAL Privacy Policy
 
@@ -60,7 +60,7 @@ Any information you provide to us is voluntary, and you are not required to shar
 
 _Fisher Interactive Network  
 Opt-Out Department  
-100 Fourth Avenue North, Suite 510  
+140 Fourth Avenue North, Suite 370  
 Seattle, WA 98109_
 
 Please be advised that opting out in any of the ways described above may limit your ability to visit and take advantage of certain services on our Site. You should also bear in mind that we do not have access to the databases of third parties to whom you may have submitted information through our Site in the past, and you should contact those parties directly if you also wish to opt out of their services and databases.
