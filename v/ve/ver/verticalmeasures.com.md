@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the verticalmeasures.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211160031id_/http%3A//www.verticalmeasures.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalmeasures.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608175244id_/http%3A//www.verticalmeasures.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Link Building | SEO | Internet Marketing Company | Higher Search Engine Rankings | Link Popularity
+# Link Building | Search Engine Marketing | Higher Search Engine Rankings | Search Engine Optimization Company
 
 Introduction
 
