@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ecb.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210175035id_/http%3A//ecb.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecb.co.uk privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608172134id_/http%3A//www.ecb.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - England and Wales Cricket Board - ECB
-
-## Privacy Policy
 
 ### The England and Wales Cricket Board Limited Privacy Policy
 
@@ -36,8 +34,6 @@ Personal information collected is used for the following purposes:
 ### Cookies and use of casual visitor information
 
 This website uses cookies (messages stored by your web browser) to enable you to properly navigate the site. These cookies are only used for the proper operation of the site. We do not use these cookies to collect personal information. 
-
-Updating and correction. You can revisit your site profile at any time to update and correct any personal information contained in it. If you are unable to change or update your personal information, please e-mail us at [help@ecb.co.uk](mailto:help@ecb.co.uk).
 
 ### Third party sites.
 
