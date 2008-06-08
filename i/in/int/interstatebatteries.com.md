@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interstatebatteries.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/shop_confidence.asp%3Fmscssid%3D03KE6B4APWUL8GGKBQLGAT9XRD1587G2%26js%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interstatebatteries.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608215544id_/http%3A//www.interstatebatteries.com/estore/shop_confidence.asp%3Fmscssid%3D3SU74WKUX3C18PAJA3R4VBA9AVHF4H39) for the most accurate reproduction.*
 
 # Interstate Batteries: Shop With Confidence
 
@@ -14,10 +14,10 @@ When placing an order, Interstate Batteries only requires the minimal amount of 
 
 Other information, such as phone number and fax number, are completely optional, and are only requested to help improve our customer service, and contact you directly if needed. You may also choose to fill out our demographic or customer satisfaction surveys, which are used internally to help us understand our customers better. This information is also optional, and you are in no way obligated to provide this information. 
 
-| [](https://www.scanalert.com/RatingVerify?ref=www.ibsa.com&js=1)  
+| [](https://www.scanalert.com/RatingVerify?ref=www.interstatebatteries.com)  
 ---|---  
   
-Consumers may change their personal information at any time, by logging into our website, and clicking on [Update Your Account Information](http://www.ibsa.com/estore/account.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&js=1) in the [Your Account section](http://www.ibsa.com/estore/your_account.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&js=1).
+Consumers may change their personal information at any time, by logging into our website, and clicking on [Update Your Account Information](http://www.interstatebatteries.com/estore/account.asp?mscssid=JU5T2DS7MEMH8HAJQ1GKMN7RV81PFFV3) in the [Your Account section](http://www.interstatebatteries.com/estore/your_account.asp?mscssid=JU5T2DS7MEMH8HAJQ1GKMN7RV81PFFV3).
 
 Business customers may change their information by contacting Customer Service at 866-842-5468, or sending an email to [CustomerService@InterstateBatteries.com](mailto:%20customerservice@interstatebatteries.com). After verifying your business information, the Customer Service representative can make any changes to your account.
 
