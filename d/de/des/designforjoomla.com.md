@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designforjoomla.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011124549id_/http%3A//designforjoomla.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designforjoomla.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608220556id_/http%3A//designforjoomla.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Joomla Templates, Joomla Extensions for the Joomla CMS - Privacy Policy
 
@@ -26,17 +26,17 @@ We do not sell user list of our users to any third party company for any further
 
 ### Popular D4J Joomla! Templates Club Templates
 
-We are proud to unveil the lastest addition to D4J Joomla! Templates Club. ...
+**Busy_City** is a clean and elegant design. The layout is simple ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/small_studio.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/busy_city.php)  
 ---|---  
   
-Midnight Rainforest is fantastic new addition to the D4J Joomla! Templates Club. Midnight ...
+**Jet 30** is useful for business site with many flexible modules. It can ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/midnight_rainforest.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/flash_web_2.php)  
 ---|---  
   
-**Carbonated** is a modern design added to D4J Joomla! Templates Club. ...
+**City_In_Paint** is a clean, fresh, lovely design that is quick ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/carbonated.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/city_in_paint.php)  
 ---|---
