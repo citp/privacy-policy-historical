@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotnetnuke.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212195212id_/http%3A//www.dotnetnuke.com/Home/tabid/510/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetnuke.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609011715id_/http%3A//www.dotnetnuke.com/Home/tabid/510/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# DotNetNuke > Home
+# DotNetNuke / DNN - Home (4.8.4)
 
 DotNetNuke is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the DotNetNuke Web site and governs data collection and usage. By using the DotNetNuke website, you consent to the data practices described in this statement.
 
