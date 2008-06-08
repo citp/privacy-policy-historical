@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairtrade.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210183452id_/http%3A//www.hairtrade.com/info_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairtrade.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609011032id_/http%3A//www.hairtrade.com/info_privacy.php) for the most accurate reproduction.*
 
 # 100% Human Hair extensions: Hair Weave, Pre-Bonded, and Clip in Hair Extensions online shop
 
