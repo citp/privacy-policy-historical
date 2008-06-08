@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yupptv.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211075826id_/http%3A//www.yupptv.com/Forms/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yupptv.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608222820id_/http%3A//www.yupptv.com/Forms/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # YuppTV Privacy Policy
 
@@ -76,7 +76,7 @@ To protect the Users privacy and security, Global Takeoff takes reasonable steps
 It is clarified that media files uploaded by Users to the Global Takeoff sites and the Services cannot be removed and remain subject to the TOU.  
 The User may contact Global Takeoff with any questions or comments about this Privacy Policy, personal information, User consent, or opt-in or opt-out choices using the contact form.
 
-9\. CHILDREN�S PRIVACY
+9\. CHILDRENS PRIVACY
 
 Global Takeoffs websites are not intentionally designed for or directed at persons less than 18 years of age. Global Takeoff does not knowingly permit any person who is under 18 years of age to register with the Services or to provide any other personally identifying information. Any person under 18 years of age visiting the Global Takeoff sites is prohibited from accessing or using the Services in any manner and at any time. If Global Takeoff becomes aware that any personally identifiable information of persons less than 18 years of age has been collected on the Global Takeoffs sites without verified parental consent, then Global Takeoff will take the appropriate steps to delete any such information.
 
