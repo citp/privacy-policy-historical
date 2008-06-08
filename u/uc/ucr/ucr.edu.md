@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucr.edu privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210161224id_/http%3A//www.ucr.edu/cgi-bin/logs/link.cgi%3Fp%3Dindex%26l%3Dhttp%3A//www.ucr.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucr.edu privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608104359id_/http%3A//www.ucr.edu/cgi-bin/logs/link.cgi%3Fp%3Dindex%26l%3Dhttp%3A//www.ucr.edu/privacy.html) for the most accurate reproduction.*
 
 # UCR: Privacy Policy
 
