@@ -1,8 +1,28 @@
-> *The following text is extracted and transformed from the forplaycatalog.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210160221id_/http%3A//www.forplaycatalog.com/store/util/privacy%3FArgs%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forplaycatalog.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608174038id_/http%3A//www.forplaycatalog.com/store/util/privacy%3FArgs%3D) for the most accurate reproduction.*
 
 # Forplay Catalog - Privacy Policy
 
-|  |  |  |  |  |   
+|  | _Search_  
+  
+---  
+[Advanced search](http://www.forplaycatalog.com/store/util/gift_finder?Args=&sblid=gift_finder)  
+[Sexy Dresses](http://www.forplaycatalog.com/store/Sexy_Dresses?Args=&page_number=1)  
+  
+[Luxe Collection™](http://www.forplaycatalog.com/store/Luxe_Collection__0153_?Args=&page_number=1)  
+  
+[Clubwear](http://www.forplaycatalog.com/store/Clubwear?Args=&page_number=1)  
+  
+[Dancewear](http://www.forplaycatalog.com/store/Dancewear?Args=&page_number=1)  
+  
+[Swimwear](http://www.forplaycatalog.com/store/Swimwear?Args=&page_number=1)  
+  
+[Accessories](http://www.forplaycatalog.com/store/Accessories?Args=&page_number=1)  
+  
+[Sexy Costumes](http://www.forplaycatalog.com/store/Halloween_Costumes?Args=&page_number=1)  
+  
+[Shoes](http://www.forplaycatalog.com/store/Shoes?Args=&page_number=1)  
+  
+|  |  |  |   
 ---|---|---|---  
 |  |  |   
 |  |  | | Forplay Catalog collects client information to make your online shopping experience the best on the Internet. We respect your privacy, and assure you that we will maintain and use this information responsibly.  
