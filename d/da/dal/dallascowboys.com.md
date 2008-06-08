@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallascowboys.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210182224id_/http%3A//dallascowboys.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallascowboys.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608192906id_/http%3A//www.dallascowboys.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # DallasCowboys.com
 
@@ -12,7 +12,7 @@ This privacy policy applies to the Dallas Cowboys’ website located at www.dall
 
 The Website is operated by the Dallas Cowboys. 
 
-Dallas Cowboys is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.dallascowboys.com](http://www.dallascowboys.com/) , [www.cowboysonlineproshop.com](http://www.cowboysonlineproshop.com/) , and [www.dallascowboysweekly.com](http://www.dallascowboysweekly.com/) . Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Dallas Cowboys is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.dallascowboys.com](http://www.dallascowboys.com/) , [www.cowboysonlineproshop.com](http://www.cowboysonlineproshop.com/) , and [www.dallascowboysstar.com](http://www.dallascowboysstar.com/) . Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
 If you have questions or concerns regarding this statement, you should first contact Derek Eagleton at [www.dallascowboys.com/contact_us.cfm?cat=Privacy](http://www.dallascowboys.com/contact_us.cfm?cat=Privacy). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
