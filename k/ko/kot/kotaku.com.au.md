@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kotaku.com.au privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211042513id_/http%3A//www.kotaku.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kotaku.com.au privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608021549id_/http%3A//www.kotaku.com.au/privacy) for the most accurate reproduction.*
 
-# Kotaku Australia, the Gamer's Guide | Blogging games news, gossip, cheats, opinion, design, prediction
+# Privacy Policy | Kotaku Australia
 
-## Privacy Policy
+## [Privacy Policy](http://www.kotaku.com.au/privacy/ "Privacy Policy")
 
-The www.kotaku.com.au website is owned and operated by Allure Media Pty Limited (Allure Media, we, us or our).
+The www.kotaku.com.au website is owned and operated by Allure Media Pty Limited (Allure Media, we, us or our). 
 
 Allure Media is bound by the National Privacy Principles (NPPs) in the Privacy Act 1988 and this Privacy Policy applies to Allure Media and the websites it operates.
 
