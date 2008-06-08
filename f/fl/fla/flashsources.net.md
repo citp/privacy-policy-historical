@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flashsources.net privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229202210id_/http%3A//flashsources.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashsources.net privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609011930id_/http%3A//flashsources.net/privacy) for the most accurate reproduction.*
 
-# A Flash Designer and Developer Resource Site. Free Flash FLA Download. FlashSources.net
+# Privacy | FlashSources.net
 
 |  |   
 ---  
