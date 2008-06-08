@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the aspspider.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210090833id_/http%3A//www.aspspider.com/team/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspspider.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608130359id_/http%3A//www.aspspider.com/team/Privacy.aspx) for the most accurate reproduction.*
 
 # AspSpider Privacy Policy
 
-  
-[Home](http://www.aspspider.com/ "Home") » Privacy Policy AspSpider privacy policy
+[Home](http://www.aspspider.com/ "Home") » Privacy Policy
+
+AspSpider privacy policy
 
 At AspSpider, we know that you care how information about you is stored, used and shared. We do our best to keep your trust by using the information about you carefully and sensibly. This privacy notice explains our privacy policy. By visiting AspSpider, you are accepting this privacy policy and our terms & conditions. 
 
