@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the complianceonline.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211014732id_/http%3A//www.complianceonline.com/cms/cms/Offline/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complianceonline.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608235423id_/http%3A//www.complianceonline.com/cms/cms/Offline/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ComplianceOnline Quality & Compliance Portal
 
-At ComplianceOnline, we are committed to protecting your privacy and to gives you a secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide certain content, services, and products that you request, and this statement of privacy explains data collection and use in those situations. Please read the complete ComplianceOnline privacy statement.
+**Introduction**
+
+ComplianceOnline is a service provided by MetricStream Inc. At ComplianceOnline, we are committed to protecting your privacy and to give you a secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide certain content, services, and products that you request, and this statement of privacy explains data collection and use in those situations. Please read the complete ComplianceOnline privacy statement.
 
 **Collecting Personal Information**
 
@@ -33,3 +35,11 @@ Your personal information is never shared outside the company without your permi
 **Changes to this Statement**
 
 ComplianceOnline will occasionally update this privacy statement. For material changes to this Statement, ComplianceOnline will notify you by placing prominent notices on the Web site.
+
+**Contact**
+
+Queries regarding this privacy statement please contact us at editor@complianceonline.com, or call 650-620-3937 or send mail to ComplianceOnline, 3000 Bridge Parkway ,Redwood Shores, CA 94065
+
+**Last Update**
+
+March 06, 2008
