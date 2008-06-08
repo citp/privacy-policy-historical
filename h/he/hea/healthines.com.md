@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthines.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514203916id_/http%3A//www.healthines.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthines.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608105244id_/http%3A//www.healthines.com/about/privacy.html) for the most accurate reproduction.*
 
 # Healthines - About Us - Privacy Statement
 
