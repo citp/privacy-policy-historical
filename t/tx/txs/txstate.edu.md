@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the txstate.edu privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428093341id_/http%3A//www.txstate.edu/computing/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txstate.edu privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608140307id_/http%3A//www.tr.txstate.edu/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement for System Administration
-
-## Privacy Statement
+# Privacy Statement : Technology Resources : Texas State University
 
 **Texas State University-San Marcos** makes the following statement in regards to information gathering and dissemination practices for its web site: [www.txstate.edu](http://www.txstate.edu/). 
 
@@ -19,7 +17,7 @@ System Administration maintains log files of all access to its site and also mon
 Information such as the following is collected in these files: 
 
 **Hostname:** the hostname and/or IP address of the computer requesting access to the site    
-**User-Agent:** the type of browser, its version, and the operating system of the computer requesting access (e.g., Netscape 4 for Windows, IE 4 for Macintosh, etc.)    
+**User-Agent:** the type of browser, its version, and the operating system of the computer requesting access (e.g., IE 6 for Windows, Safari/Firefox for Macintosh, etc.)    
 **Referer:** the web page the user came from    
 **System date:** the date and time on the server at the time of access    
 **Full request:** the exact request the user made    
@@ -46,6 +44,7 @@ This site has security measures in place to protect from loss, misuse and altera
 
 **VI. Privacy Rights**
 
-Texas State's [Privacy Rights Notice](https://web.archive.org/web/20070428093341id_/http%3A//www.txstate.edu/computing/privacy_rights_notice.htm) describes your rights with respect to the information you supply to Texas State University-San Marcos via any paper or electronic form(s). 
+Texas State's [Privacy Rights Notice](https://web.archive.org/privacy-notice.html) describes your rights with respect to the information you supply to Texas State University-San Marcos via any paper or electronic form(s). 
 
-If there are any questions about this privacy statement, the practices of this site, or dealings with this website, contact [webmaster@txstate.edu](mailto:webmaster@txstate.edu). 
+If there are any questions about this privacy statement, the practices of this site, or dealings with this website, contact [webmaster@txstate.edu](mailto:webmaster@txstate.edu).   
+
