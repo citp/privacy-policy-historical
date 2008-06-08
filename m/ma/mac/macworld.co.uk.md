@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macworld.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210184802id_/http%3A//www.macworld.co.uk/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609002240id_/http%3A//www.macworld.co.uk/about/privacy.cfm) for the most accurate reproduction.*
 
 # Online Privacy Policy - Macworld UK
 
@@ -7,7 +7,7 @@
 Macworld is owned and operated by IDG Communications Limited. Information we collect from users of the sites will be stored by us on computers in the UK and may be used in the following ways:
 
 **IMPORTANT  
-**Please [click here to read our Forum User Rules](https://web.archive.org/web/20071210184802id_/http%3A//www.macworld.co.uk/about/rules.cfm) which we will assume you have read and adhere to if you are a registered user of our Forum.
+**Please [click here to read our Forum User Rules](https://web.archive.org/web/20080609002240id_/http%3A//www.macworld.co.uk/about/rules.cfm) which we will assume you have read and adhere to if you are a registered user of our Forum.
 
 **Contact details**  
 We will use your contact details (your name, job title, telephone and fax number and your email and postal addresses) to provide any services requested by you and also to tell you about important changes to the site and its functionality. These details will be used by us and by businesses within IDG Communications and their associated companies to provide you with information about other services and products and will also be disclosed to third party businesses and advertisers for the same purpose. 
