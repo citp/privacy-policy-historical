@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfredbook.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210181345id_/http%3A//www.sfredbook.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfredbook.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609003654id_/http%3A//www.sfredbook.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement : myredbook
 
@@ -65,6 +65,6 @@ We offer our Members the opportunity to access or modify information provided du
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us at <http://www.myredbook.com/support.aspx> 
 
 myRedBook S.A.  
-An Suja Est 9  
+Anasuya Est #9  
 Revolution Ave  
 Victoria Mahe, Seychelles 601771
