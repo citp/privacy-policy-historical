@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smart-publications.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210155536id_/http%3A//www.smart-publications.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smart-publications.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608134758id_/http%3A//www.smart-publications.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Smart Publications Privacy Policy
 
@@ -44,12 +44,12 @@ Smart Publications' Internet website uses "cookies". Cookies are messages that a
 Smart Publications' privacy policy applies only to its website. Our website may contain links to outside sites. Please be aware that other sites operate under their own privacy policies and that these sites may collect your personal information. Smart Publictions claims no responsibility for the data collection policies of outside websites. 
 
 **Notification of Changes**  
-In the event that Health Freedom Nutrition should change its privacy practices or start using member information in a manner different from that stated at the time of collection, we would notify our customers of the changes, explaining the reasons and allowing them the opportunity to accept the changed policy, or demand exemption from it. 
+In the event that Smart Publications should change its privacy practices or start using member information in a manner different from that stated at the time of collection, we would notify our customers of the changes, explaining the reasons and allowing them the opportunity to accept the changed policy, or demand exemption from it. 
 
 **Contact Us**  
-Please contact us with your questions or concerns about these privacy policies and/or the practices of this web site at: Smart Publications, PO Box 4667, Petaluma, CA 94955, telephone 1-800-976-2783, or contact us [online](https://web.archive.org/web/20071210155536id_/http%3A//www.smart-publications.com/contact/index.php). 
+Please contact us with your questions or concerns about these privacy policies and/or the practices of this web site at: Smart Publications, PO Box 4667, Petaluma, CA 94955, telephone 1-800-976-2783, or contact us [online](https://web.archive.org/web/20080608134758id_/http%3A//www.smart-publications.com/contact/index.php). 
 
-Copyright © 2007 - Smart Publications  
+Copyright © 2008 - Smart Publications  
 POB 4667 - Petaluma, CA 94955  
 1-800-976-2783  
 888-998-6889 (fax) 
@@ -66,9 +66,9 @@ Just type your email address below and click on submit (unsubscribe anytime.)
 Subscribe...to   
 _Smart Publications Health & Wellness Update_  
 the 16-page monthly newsletter.  
-[](https://web.archive.org/web/20071210155536id_/http%3A//www.smart-publications.com/print-terms.php)  
+[](https://web.archive.org/web/20080608134758id_/http%3A//www.smart-publications.com/print-terms.php)  
 and receive the latest information from the world of nutritional medicine.   
-[>> subscribe for free!](https://web.archive.org/web/20071210155536id_/http%3A//www.smart-publications.com/print-terms.php)
+[>> subscribe for free!](https://web.archive.org/web/20080608134758id_/http%3A//www.smart-publications.com/print-terms.php)
 
 Advertisement  
 FREE Catalog   
