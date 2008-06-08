@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bragg.com privacy policy that was archived on 2007-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071110045736id_/http%3A//www.bragg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bragg.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608164735id_/http%3A//www.bragg.com/privacy.html) for the most accurate reproduction.*
 
 # Bragg Live Foods - Bragg Online Privacy Statement
 
