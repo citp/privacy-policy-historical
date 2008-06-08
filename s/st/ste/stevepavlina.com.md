@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221150119id_/http%3A//www.stevepavlina.com/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608182322id_/http%3A//www.stevepavlina.com/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -43,4 +43,4 @@ Sign up for the free _Personal Development Insights_ newsletter, filled with tip
 
 If you enjoy the free information available on this site, you're sure to enjoy the free newsletter as well. Sign up right here: 
 
-Copyright © 2007 by Pavlina LLC, www.StevePavlina.com. All rights reserved. 
+Copyright © 2008 by Pavlina LLC, www.StevePavlina.com. All rights reserved. 
