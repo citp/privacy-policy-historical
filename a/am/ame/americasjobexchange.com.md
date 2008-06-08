@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasjobexchange.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210174138id_/http%3A//www.americasjobexchange.com/common%3Faction%3Dajb_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasjobexchange.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609011813id_/http%3A//www.americasjobexchange.com/common%3Faction%3Dajb_privacy) for the most accurate reproduction.*
 
 # Privacy Jobs at America's Job Exchange
 
