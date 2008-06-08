@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the restaurant.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060913id_/http%3A//www.restaurant.com/privacy.asp%3Fpgn%3Dx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurant.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608235114id_/http%3A//www.restaurant.com/privacy.asp%3Fpgn%3Dx) for the most accurate reproduction.*
 
-# Restaurant.com -- Eat. Drink. Save Money.
+# Restaurant.com - Find deals on neighborhood restaurants. $25 Restaurant Certificates for only $10!
 
 **What information is collected?**  
 Restaurant.com is the sole owner of the information collected on its Website. We will not sell, share or rent this information to others in ways different from what is disclosed in this policy, without first obtaining your consent. 
