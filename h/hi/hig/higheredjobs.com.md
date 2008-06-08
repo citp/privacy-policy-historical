@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210142003id_/http%3A//www.higheredjobs.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609014424id_/http%3A//www.higheredjobs.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - HigherEdJobs.com
 
@@ -29,9 +29,17 @@ C. Resume Center. If you register for a personal My HigherEdJobs account, you wi
 
 D. Other Technical Information/Cookies. We collect an IP address from all visitors to our Web Site.  We use your IP address to help diagnose problems with our server and to administer our Web Site. In addition to information provided by your browser, we use "cookies" for remembering your preferences, maintaining information about whether you are currently logged into our systems, and tracking click streams.  Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies, but if you prefer, you can set your browser to refuse cookies. We do not use cookies to store any personally identifiable information you submit while on our site. If you use My HigherEdJobs and request us to do so, we will use a cookie to help us recall information about your account such as your user name and password. In the event you refuse cookies, however, you may not be able to take advantage of benefits offered by our Web Site.
 
+Some of our business partners (e.g., advertisers, tracking utilities) use cookies on our site. We have no access to or control over these cookies. [See the "Third Party Advertisers" section.]
+
+This privacy statement covers the use of cookies by www.higheredjobs.com only and does not cover the use of cookies by any advertisers. [See the "Third Party Advertisers" section.]
+
 E. Job Postings. Persons, whether as individuals or as employees of a business who use the Employer Section or the Single Posting Pages of the Web Site may be asked for their business email addresses, business address and phone, billing information, and a password. Although there is no cost to Job Seekers for using the services on the Web Site, Job Posters will be charged a fee for requested services.  We use data collected from Job Posters to provide requested services.
 
 F. Payments By Credit Card. We use an outside bank merchant account to verify credit card data so we can bill and account for products sold to Job Posters. This company does not retain, share, store or use credit card data for any other purposes.
+
+G. Third Party Advertisers. The ads appearing on this Web site are delivered to users by third party ad servers. We share Web site usage information about users with reputable third parties for the purpose of targeting our Internet banner advertisements on this site.
+
+Our third party advertisers use cookies, which allow it to recognize a user's cookie when a user visits this site. The information that our ad server collects and shares through this technology is not personally identifiable.
 
 ## DISCLOSURE OF INFORMATION
 
@@ -61,4 +69,4 @@ If, at any time, you have questions or concerns about HigherEdJobs.com's Privacy
 
 THANK YOU FOR USING HIGHEREDJOBS.COM.
 
-Last Updated: 10/31/2007
+Last Updated: 12/11/2007
