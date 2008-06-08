@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccwbo.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231030id_/http%3A//www.iccwbo.org/id987/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccwbo.org privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608233215id_/http%3A//www.iccwbo.org/id987/index.html) for the most accurate reproduction.*
 
 # ICC - The world business organization
 
@@ -11,6 +11,8 @@ No image may be downloaded from this site without prior permission unless specif
 © 2007 Jupiterimages Corporation
 
 © 2007 Vincent Muracciole
+
+© [www.istockphoto.com](http://www.istockphoto.com/ "http://www.istockphoto.com/")
 
 ICC, the ICC logo, CCI, the CCI logo, International Chamber of Commerce, World Business Organization, WBO, International Court of Arbitration, ICC International Court of Arbitration (including Spanish, French, German and Arabic translations), World Chambers Federation, WCF, World Chambers Network, WCN, Incoterms, DC-Pro are all ICC's trademarks, registered in several countries. 
 
