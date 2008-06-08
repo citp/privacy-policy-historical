@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230033753id_/http%3A//www.tnt.tv/title/display/%3Foid%3D6620) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608042650id_/http%3A//www.tnt.tv/title/display/%3Foid%3D6620) for the most accurate reproduction.*
 
-# Privacy Policy
+# TNT - We Know Drama
 
 **PRIVACY POLICY**
 
