@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipnut.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211080751id_/http%3A//tipnut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipnut.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608222942id_/http%3A//tipnut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » TipNut.com
 
@@ -12,7 +12,7 @@ Email subscriptions are managed and delivered by [Feedburner](http://www.feedbur
 
 TipNut.com examines log files to analyze trends, see where visitors go in the site, and gather broad general information. Your IP address may be used to help diagnose problems with the host server and to administer this website. This helps improve TipNut.com to meet visitors interests, and promote it more effectively. TipNut.com does not link IP addresses to any personally identifiable information. For the majority of the site, the IP is simply stored for security purposes, such as a DOS attack. In cases of fraudulent, harmful or illegal activity (hacking, spamming, DOS attacks, etc.), TipNut.com may share this information with authorities. 
 
-TipNut.com may display ads or link to outside advertisers on this site. These ads may contain cookies. Cookie information is stored by the ad company, TipNut.com does not have access to this information. TipNut.com has no control over or access to cookies and tracking methods used by other sites. Cookies are used on TipNut.com for login purposes and may also be used for on site features such as voting, special polls, etc. 
+TipNut.com may display ads or link to outside advertisers on this site. These ads may contain cookies. Cookie information is stored by the ad company, TipNut.com does not have access to this information. TipNut.com has no control over or access to cookies and tracking methods used by other sites. Cookies are used on TipNut.com for login purposes and may also be used for on site features such as voting, special polls, traffic analysis and logging, etc. 
 
 TipNut.com contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites. When you click on links and/or ad banners that take you to third-party web sites, you will be subject to the third parties’ privacy policies. While TipNut.com supports the protection of privacy on the Internet, TipNut.com cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any web site. 
 
