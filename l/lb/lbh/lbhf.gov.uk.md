@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210143516id_/http%3A//www.lbhf.gov.uk/Directory/Links/40888_Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609014915id_/http%3A//www.lbhf.gov.uk/Directory/Links/40888_Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Privacy policy
 
-#### How the Council uses your information
+**How the Council uses your information**
 
 The Council is committed to abiding by the Data Protection Act, as well as people’s rights to confidentiality and respect for privacy.
 
