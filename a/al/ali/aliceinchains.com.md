@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliceinchains.com privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018123438id_/http%3A//www.aliceinchains.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliceinchains.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608053846id_/http%3A//www.aliceinchains.com/privacy.aspx) for the most accurate reproduction.*
 
 # The Official Community of Alice In Chains
 
