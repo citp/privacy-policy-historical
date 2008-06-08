@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terraserver.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210112310id_/http%3A//www.terraserver.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terraserver.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608083055id_/http%3A//www.terraserver.com/privacy.asp) for the most accurate reproduction.*
 
 # TerraServer - The Leader In Online Imagery - Aerial Photos & Satellite Images
 
@@ -18,7 +18,7 @@ This privacy policy covers the site http://www.terraserver.com. Because we want 
 * How users can correct any inaccuracies in the information.   
    
 INFORMATION COLLECTION  
-TerraServer is the sole owner of the information collected on our website. TerraServer collects information at several different points on our website. Information is collected for the purpose of making online purchases of our products and include all of the necessary data needed for describing products and the customer information for delivering our products. The reason we use this information is to complete the e-commerce transactions, contact customers by e-mail or regular mail and to maintain and secure our site. We retain this information for an indeterminate period of time.   
+TerraServer is the sole owner of the information collected on our website. TerraServer collects information at several different points on our website. Information is collected for the purpose of making online purchases of our products and include all of the necessary data needed for describing products and the customer information for delivering our products. The reason we use this information is to complete the e-commerce transactions, contact customers by email or regular mail and to maintain and secure our site. We retain this information for an indeterminate period of time.   
    
 COOKIES  
 A cookie is a piece of data stored on the user's computer tied to information about the user. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. You can set your browser to notify you to either accept or deny the cookie according to the following information. 
