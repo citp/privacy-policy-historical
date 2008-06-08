@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the jott.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219025344id_/http%3A//www.jott.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jott.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608083824id_/http%3A//jott.com/jott/privacy.html) for the most accurate reproduction.*
 
 # Jott™ - Privacy Policy
 
-| 
+**As of February 1st, 2008
 
-Jott Privacy Policy 
-
-**As of August 1st, 2007
-
-At Jott Networks we recognize that privacy is important. This Policy applies to all of the sites and services offered by Jott Networks Inc..
+At Jott Networks we recognize that privacy is important. This Policy applies to all of the sites, downloads and services offered by Jott Networks Inc..
 
 **
 
@@ -16,11 +12,11 @@ At Jott Networks we recognize that privacy is important. This Policy applies to 
 
 In order to provide our full range of services, we may collect the following types of information:
 
-  * **Information you provide -** When you sign up for a Jott account or other Jott service or promotion that requires registration, we ask you for personal information (such as your name, a phone number, email address, and an account password). We may combine the information you submit under your account with information from other Jott services or third parties in order to provide you with a better experience, to display relevant advertising, for product research and development, and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. 
+  * **Information you provide -** When you sign up for a Jott account or other Jott service or promotion that requires registration, we ask you for personal information (such as your name, a phone number, email address, and an account password). We may combine the information you submit under your account with information from other Jott services or third parties in order to provide you with a better experience, to display relevant advertising, for product research and development, and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
   * **Jott.com cookies -** When you visit web pages associated with Jott Services, we may send cookies that identify your browser. We use cookies to improve the quality of our service. If you do not want cookies to be set, you can usually set your browser to prevent this, or to give you the option of setting it. If you choose not to have a cookie saved, please be aware that some Jott Services may not work.
   * **Log information -** When you use Jott Services, our servers automatically record information given by browsers and phone systems, such as browser types, phone numbers, IP addresses, linking paths, etc. We may use this information in order to provide you with a better experience, to display relevant advertising, for product research and development, and to improve the quality of our services.
   * **User created jotts and other communications -** When you create a Jott either by phone, email, sms, instant messaging or otherwise, we may retain that data in order to offer our service, display relevant advertising, process your inquiries, respond to your requests and improve our services.
-  * **Affiliated sites -** We may offer some services in connection with other web sites or third parties. To the extent that we receive data from these 3rd parties, we treat that data in accordance with this privacy policy. These 3rd party sites may have different privacy practices than Jott and we encourage you to read their privacy policies. 
+  * **Affiliated sites -** We may offer some services in connection with other web sites or third parties. To the extent that we receive data from these 3rd parties, we treat that data in accordance with this privacy policy. These 3rd party sites may have different privacy practices than Jott and we encourage you to read their privacy policies.
   * **Other sites -** This Privacy Policy applies to web sites and services that are owned and operated by Jott Networks Inc. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Jott may allow you to interact with other services, including using JottLinks, the Jott API, as well as email. Jott does not control how sites you choose to use with Jott use data you provide. We strongly encourage you to read their privacy policies.
 
 
@@ -49,9 +45,9 @@ Please contact us at the address below for any additional questions about the ma
 
 ## Information security
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. Our security measures include Physical, Technical, Organizational and Administrative safeguards. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-We restrict access to personal information to Jott employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+We restrict access to personal information to Jott employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations, must adhere to very strict information security provisions and processes, and are subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
 To the extent you choose to use downloaded Jott software or services, Jott cannot be responsible for your protection of that data.
 
@@ -67,6 +63,4 @@ Jott regularly reviews its compliance with this Policy. Please feel free to dire
 
 Please note that this Privacy Policy may change from time to time, and those changes will usually be minor. Regardless, we will post any Policy changes on Jott.com. Each version of this Policy will be identified at the top of the page by its effective date.
 
-If you have any additional questions or concerns about this Policy, please feel free to contact us any time at [privacy@jott.com](mailto:privacy@jott.com).  
-  
----|---
+If you have any additional questions or concerns about this Policy, please feel free to contact us any time at [privacy@jott.com](mailto:privacy@jott.com).
