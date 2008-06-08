@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weichertrents.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210235419id_/http%3A//www.weichertrents.com/aboutus/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weichertrents.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608221039id_/http%3A//www.weichertrents.com/aboutus/Privacy.html) for the most accurate reproduction.*
 
-# Weichert Rental Network
+# Weichert Rental Network: About Us: Privacy Policy
 
 **Weichert, Realtors and the affiliated companies of Weichert (“Weichert” or “we”)** recognize the importance of protecting the privacy of certain information collected about our customers and potential customers. This Privacy Policy was created in order to demonstrate our commitment to protecting our customers' privacy.
 
