@@ -1,8 +1,22 @@
-> *The following text is extracted and transformed from the calendarlive.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210113506id_/http%3A//www.calendarlive.com/services/site/cl-privacy%2C0%2C6932976.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendarlive.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608185252id_/http%3A//www.calendarlive.com/services/site/cl-privacy%2C0%2C6932976.story) for the most accurate reproduction.*
 
 # Calendarlive.com Privacy Policy - Los Angeles Times - calendarlive.com
 
-|  |    
+| 
+
+  
+
+
+The Los Angeles Times has replaced Calendarlive with a new and improved local entertainment site: 
+
+TheGuide.Latimes.com
+
+[](http://theguide.latimes.com/)
+
+  
+
+
+  
   
 
 
@@ -67,9 +81,7 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
-If you want other stories on this topic, search the Archives at [latimes.com/archives](http://www.latimes.com/archives).  
+To order a reprint of this article, please [click here](http://www.latimes.com/services/site/la-reprint-request-splash,0,6731163.htmlstory?title=Calendarlive.com%20Privacy%20Policy&byline=&credit=&date=). 
 
-
-|  | 
-
-ADVERTISEMENT
+|   
+---|---|---
