@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the complianceonline.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211014732id_/http%3A//www.complianceonline.com/cms/cms/Offline/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the complianceonline.com privacy policy that was archived on 2008-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080608235423id_/http%3A//www.complianceonline.com/cms/cms/Offline/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head>
         <title>Privacy Policy - ComplianceOnline Quality &amp; Compliance Portal</title>
@@ -16,6 +16,20 @@
   <tbody><tr><td style="padding-left:5px;padding-right:5px;padding-top:5px;">
             
 
+
+
+
+<link href="/images/comp.css" type="text/css" rel="STYLESHEET"> 
+<link href="/images/style.css" type="text/css" rel="STYLESHEET"> 
+<link href="/images/homepage.css" type="text/css" rel="STYLESHEET"> 
+<link href="/images/complianceHome.css" type="text/css" rel="STYLESHEET"> 
+<link rel="Stylesheet" type="text/css" href="/images/compliance.css">
+<link rel="stylesheet" type="text/css" href="/images/store_new.css">
+
+
+<script src="/images/js/track/google/gURL.js" type="text/javascript"></script><script src="https://web.archive.org/web/20100522234246/https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script src="/images/js/track/google/gTrack.js" type="text/javascript"></script> 
+<script language="javascript" type="text/javascript" src="/images/homepage.js"></script>
+<script language="javascript" src="/images/answers.js" type="text/javascript"></script>
 
 
 <style type="text/css">
@@ -62,7 +76,7 @@
 }
 </style>
 
-<script language="javascript" src="/images/answers.js" type="text/javascript"></script>
+
 
 <script>
 
@@ -78,51 +92,20 @@ if(query.length < 1){
            document.getElementById("query").focus();
             return false;
       }  else {
- var searchCat;
- for(var i=0; i<the_form.length; i++)
-      {
-      var temp = the_form.elements[i].type;
-      if((temp == "radio") && (the_form.elements[i].checked)) { 
-      
-	      //alert(the_form.elements[i].value)
-		searchCat = the_form.elements[i].value;
-      }
-      
-    }
-if(searchCat == "complianceonline") {
-     document.getElementById("source").value = "All";
+
+
+     document.getElementById("source").value = "All-Sources";
      document.getElementById("project").value = "Compliance-online-content";
 
- document.getElementById("form3").action="http://search.complianceonline.com/search/cgi-bin/query-meta?input-form=simple&v%3Asources=All&v%3Aproject=Compliance-online-content&query="+query
+ document.getElementById("form3").action="http://search.complianceonline.com/search/cgi-bin/query-meta?&v:project=Compliance-online-content&query="+query
 
 }
-if(searchCat == "store") {
-     document.getElementById("source").value = "COP";
-     document.getElementById("project").value = "Compliance-online-store";
 
- document.getElementById("form3").action="http://search.complianceonline.com/search/cgi-bin/query-meta?input-form=simple&v:sources=COP&v:project=Compliance-online-store&query="+query
-
-}
-if(searchCat == "training") {
-     document.getElementById("source").value = "Training";
-     document.getElementById("project").value = "Compliance-online-training";
-
- document.getElementById("form3").action="http://search.complianceonline.com/search/cgi-bin/query-meta?input-form=simple&v:sources=Training&v:project=Compliance-online-training&query="+query
-
-} 
-if(searchCat == "blogs") {
-     document.getElementById("source").value = "Blogs";
-     document.getElementById("project").value = "Compliance-online-blogs";
-
- document.getElementById("form3").action="http://search.complianceonline.com/search/cgi-bin/query-meta?input-form=simple&v:sources=Blogs&v:project=Compliance-online-blogs&query="+query
-
-} 
-
-  javascript:urchinTracker('Search from Home for '+searchCat); 
+  callTrack('Search from Home for '+searchCat); 
 
  document.getElementById("form3").submit();
  return true;
-}
+
 }
 </script>
 
@@ -168,31 +151,31 @@ else
 				<tbody><tr>
 					<td><img src="/images/training/news_ico.gif" width="25" height="15"></td>
 					<td><img src="/images/lp/webinar/1px_trans.gif" width="5"></td>
-					<td><a href="/cms/cms/offline/news.html" style="text-decoration:none;" onclick="javascript:urchinTracker('News link from Home')"><span class="verdanaSky12Link">News</span></a></td>
+					<td><a href="/cms/cms/offline/news.html" style="text-decoration:none;" onclick="callTrackr('News link from Home')"><span class="verdanaSky12Link">News</span></a></td>
 
 					<td><img src="/images/lp/webinar/1px_trans.gif" width="10"></td>
 
 					<td><img src="/images/training/best_practices_ico.gif" width="23" height="25"></td>
 					<td><img src="/images/lp/webinar/1px_trans.gif" width="5"></td>
-					<td><a href="/cms/cms/offline/library.html" style="text-decoration:none;" onclick="javascript:urchinTracker('Best Practices link from Home')"><span class="verdana12Black" style="color:#0033CC;font-size:12px;">Best Practices</span></a></td>
+					<td><a href="/cms/cms/offline/library.html" style="text-decoration:none;" onclick="callTrack('Best Practices link from Home')"><span class="verdana12Black" style="color:#0033CC;font-size:12px;">Best Practices</span></a></td>
 
 					<td><img src="/images/lp/webinar/1px_trans.gif" width="10"></td>
 
 					<td><img src="/images/training/onlinetraining_ico.gif" width="21" height="23"></td>
 					<td><img src="/images/lp/webinar/1px_trans.gif" width="5"></td>
-					<td><a href="/ecommerce/control/trainingHome" style="text-decoration:none;" onclick="javascript:urchinTracker('Online Training link from Home')"><span class="verdana12Black" style="color:#0033CC;font-size:12px;">Online Training</span></a></td>
+					<td><a href="/ecommerce/control/trainingHome" style="text-decoration:none;" onclick="callTrack('Online Training link from Home')"><span class="verdana12Black" style="color:#0033CC;font-size:12px;">Online Training</span></a></td>
 
 					<td><img src="/images/lp/webinar/1px_trans.gif" width="10"></td>
 
 					<td><img src="/images/training/store_ico.gif" width="21" height="23"></td>
 					<td><img src="/images/lp/webinar/1px_trans.gif" width="5"></td>
-					<td><a href="/ecommerce/control/main" style="text-decoration:none;" onclick="javascript:urchinTracker('Store link from Home')"><span class="verdana12Black" style="color:#0033CC;font-size:12px;">Store</span></a></td>
+					<td><a href="/ecommerce/control/main" style="text-decoration:none;" onclick="callTrack('Store link from Home')"><span class="verdana12Black" style="color:#0033CC;font-size:12px;">Store</span></a></td>
 
 					<td><img src="/images/lp/webinar/1px_trans.gif" width="10"></td>
 
 					<td><img src="/images/training/bulb_icon_03.gif" width="14" height="23"></td>
 					<td><img src="/images/lp/webinar/1px_trans.gif" width="5"></td>
-					<td><a href="/ecommerce/control/answersHome" style="text-decoration:none;" onclick="javascript:urchinTracker('Community link from Home')"><span class="verdana12Black" style="color:#0033CC;font-size:12px;">Answers</span></a></td>
+					<td><a href="/ecommerce/control/answersHome" style="text-decoration:none;" onclick="callTrack('Community link from Home')"><span class="verdana12Black" style="color:#0033CC;font-size:12px;">Answers</span></a></td>
 
 				</tr>
 				</tbody></table>
@@ -223,9 +206,9 @@ else
 			<tbody><tr><td colspan="2" height="1"></td></tr>
 			<tr><td width="6"></td><td class="verdana11BlackTab" height="16">Welcome <b>Guest</b> </td></tr>
 			<tr><td colspan="2" height="5"></td></tr>
-			<tr><td width="6"></td><td class="verdana11BlackTab" height="16">Member <a href="/ecommerce/control/compliancelogin" class="verdanaSkyLink" onclick="javascript:urchinTracker('Sign in link from Home')"><b>Sign In</b></a></td></tr>
+			<tr><td width="6"></td><td class="verdana11BlackTab" height="16">Member <a href="/ecommerce/control/compliancelogin" class="verdanaSkyLink" onclick="callTrack('Sign in link from Home')"><b>Sign In</b></a></td></tr>
 			<tr><td colspan="2" height="1"></td></tr>
-			<tr><td width="5"></td><td class="verdana11BlackTab" height="16">Not a Member? <a href="/ecommerce/control/registration" class="verdanaSkyLink" onclick="javascript:urchinTracker('Sign up link from Home')"><b>FREE Sign Up</b></a></td></tr>
+			<tr><td width="5"></td><td class="verdana11BlackTab" height="16">Not a Member? <a href="/ecommerce/control/registration" class="verdanaSkyLink" onclick="callTrack('Sign up link from Home')"><b>FREE Sign Up</b></a></td></tr>
 			<tr><td colspan="2" height="5"></td></tr>
 			</tbody></table></td></tr>
 			</tbody></table>	
@@ -250,7 +233,7 @@ else
 			<tr><td colspan="2"><img src="/images/lp/webinar/1px_trans.gif" width="1" height="3"></td></tr>
 
 			<tr>
-			<td>&nbsp;<a href="/cms/cms/offline/index.html"><img src="/images/training/co_logo_home.gif" width="175" height1="40" hspace1="8" border="0"></a></td>
+			<td>&nbsp;<a href="/cms/cms/offline/index.html"><img src="/images/training/co_logo_233_44.gif" width="233" height="44" hspace1="8" border="0"></a></td>
 			<td widtha="100%">
 				<table cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" width="100%">
 				<tbody><tr>
@@ -266,11 +249,8 @@ else
 						<table cellpadding="0" cellspacing="0" border="0" width="100%">
 						<form id="form3" method="post" onsubmit="return searchtx()"></form>
 						<tbody><tr>
-							<td colspan="3"><img src="/images/lp/webinar/1px_trans.gif" width="1" height="8"></td>
-							<td colspan="3">
-								<span class="verdana12black" style="color:#000000;font-size:12px;padding-bottom:3px">
-								<input type="radio" name="search" value="complianceonline" checked=""> ComplianceOnline &nbsp;&nbsp;  <input type="radio" name="search" value="store"> Store &nbsp;&nbsp; <input type="radio" name="search" value="training"> Training 
-							</span></td>
+							<td colspan="6"><img src="/images/lp/webinar/1px_trans.gif" width="1" height="5"></td>
+							
 						</tr>
 						<tr>
 							<td><img src="/images/lp/webinar/1px_trans.gif" width="5"></td>
@@ -284,7 +264,7 @@ else
 							</td>
 							<td><img src="/images/lp/webinar/1px_trans.gif" width="5">
 								<input type="hidden" name="input-form" value="simple">
-								<input type="hidden" name="v:sources" id="source" value="CO_Content_DB">
+								<input type="hidden" name="v:sources" id="source" value="All">
 								<input type="hidden" name="v:project" id="project" value="Compliance-online-content"></td>
 						</tr>
 						<tr><td colspan="6"><img src="/images/lp/webinar/1px_trans.gif" width="1" height="5"></td></tr>
@@ -320,7 +300,17 @@ else
 </tbody></table>
 
 
-  <br>
+            
+          
+          <div style="padding-top:5px;padding-bottom:5px;" valign="top">
+          <span><a href="/cms/cms/offline/index.html" style="font-family:verdana;font-size:12px;color:#0033CC;text-decoration:none;">Home</a><span valign="bottom"> &gt; <span style="font-family:verdana;font-size:12px;color:#000000;text-decoration:none;">Privacy policy</span> </span>
+          </span></div>  
+
+       
+    
+ 
+
+           
             <table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td valign="top"><table cellspacing="0" cellpadding="0" border="0" bgcolor="34669C"><tbody><tr><td><img src="https://www.complianceonline.com/images/training/curv_gred_left.gif"></td>
 </tr>
 </tbody></table>
@@ -332,7 +322,8 @@ else
 </td>
 </tr>
 <tr><td valign="top" colspan="3"><table cellspacing="0" width="100%" class="verdana11BlackTab" cellpadding="0" border="0" style="border-left:1px solid #D3D4D4; border-bottom:1px solid #D3D4D4;border-right:1px solid #D3D4D4;"><tbody><tr><td valign="top" width="12"></td>
-<td valign="top" class="verdana12Black" style="padding-right:10px"><table cellspacing="0" cellpadding="0" width="100%" border="0" class="verdana12Black"><tbody><tr><td><p>At ComplianceOnline, we are committed to protecting your privacy and to gives you a secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide certain content, services, and products that you request, and this statement of privacy explains data collection and use in those situations. Please read the complete ComplianceOnline privacy statement.</p>
+<td valign="top" class="verdana12Black" style="padding-right:10px;text-align:left"><table cellspacing="0" cellpadding="0" width="100%" border="0" class="verdana12Black" style="text-align:left"><tbody><tr><td><p><b>Introduction</b></p>
+<p>ComplianceOnline is a service provided by MetricStream Inc. At ComplianceOnline, we are committed to protecting your privacy and to give you a secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide certain content, services, and products that you request, and this statement of privacy explains data collection and use in those situations. Please read the complete ComplianceOnline privacy statement.</p>
 <p><b>Collecting Personal Information</b></p>
 <p>We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are ordering e-mail newsletters, joining a limited-access premium site, or purchasing products or services. Personal information collected by ComplianceOnline often is limited to e-mail address, language, country or location, but may include other information when needed to fulfill your request or order.</p>
 <p>ComplianceOnline may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, ComplianceOnline may ask that you provide us personal information, such as your first and last name, mailing address (including ZIP code), e-mail address, employer, job title and department, telephone and fax numbers, and other personal information.</p>
@@ -348,6 +339,10 @@ else
 <p>Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access.</p>
 <p class="header"><b>Changes to this Statement</b></p>
 <p>ComplianceOnline will occasionally update this privacy statement. For material changes to this Statement, ComplianceOnline will notify you by placing prominent notices on the Web site.</p>
+<p><b>Contact</b></p>
+<p>Queries regarding this privacy statement please contact us at editor@complianceonline.com, or call 650-620-3937 or send mail to ComplianceOnline, 3000 Bridge Parkway ,Redwood Shores, CA 94065</p>
+<p><b>Last Update</b></p>
+<p>March 06, 2008</p>
 </td>
 </tr>
 </tbody></table>
@@ -358,6 +353,7 @@ else
 </tr>
 </tbody></table>
 <br>
+            <!-- cms:include page="../jsptemplates/bottom_links.jsp"/ -->
             <table cellspacing="0" cellpadding="0" width="100%" border="0">
         <tbody>
            <tr>
@@ -365,24 +361,34 @@ else
 	  <tr>
 
          </tr><tr>
-	   <td align="center" bgcolor="#E7EFFF"><img src="/images/complianceonline/1px_trans.gif" width="1" height="5"></td></tr>
+	   <td align="center" bgcolor="#E4E4E4"><img src="/images/complianceonline/1px_trans.gif" width="1" height="2"></td></tr>
         <tr>
         </tr><tr>
           <td class="whiteLight" align="center">
           <br>
-             <a href="/cms/cms/Offline/termsofuse.html">Terms of Use</a> | 
-             <a href="/cms/cms/Offline/privacypolicy.html">Privacy Policy</a> |
-             <a href="/cms/cms/Offline/about.html">About Us</a> | 
-             <a href="mailto:support@complianceonline.com">Support</a> |
-             <a href="mailto:feedback@complianceonline.com">Feedback </a> | 
-             <a href="/ecommerce/control/copartners">Partners</a> |
-             <a href="/cms/cms/Offline/contactus.html">Contact Us</a>
-          </td></tr></tbody>
+             <a href="/cms/cms/Offline/about.html" class="verdanaSky12Link">About Us</a> | 
+             <a href="mailto:support@complianceonline.com" class="verdanaSky12Link">Support</a> |
+             <a href="/cms/cms/Offline/contactus.html" class="verdanaSky12Link">Contact Us</a> |
+             <a href="mailto:feedback@complianceonline.com" class="verdanaSky12Link">Feedback </a> | 
+             <a href="/cms/cms/Offline/termsofuse.html" class="verdanaSky12Link">Terms of Use</a> | 
+             <a href="/cms/cms/Offline/privacypolicy.html" class="verdanaSky12Link">Privacy Policy</a> 
+          </td></tr>
+        <tr>
+          <td align="center" valign="middle" style="font-size: 11px; text-decoration: none;"><br>
+			<table border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td align="right" valign="middle" style="font-size: 11px; text-decoration: none;">Copyright © 2008 ComplianceOnline.com |  </td>
+              <td align="left" valign="middle"><img src="/images/training/metricstream_logo_small.gif" width="123" height="20"></td>
+            </tr>
+          </tbody></table>
+          </td>
+        </tr>
+        </tbody>
 </table>
-
 
   </td>
 </tr>
+
 </tbody></table>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
