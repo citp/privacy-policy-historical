@@ -1,0 +1,623 @@
+<!--The following is the downloaded HTML source of the tobit.com privacy policy that was archived on 2008-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609002244id_/http%3A//club.tobit.com/showArticle.asp%3FnewsID%3DEEC5737A-869B-4B4F-A290-5CCD344FBF47) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="Page-Exit" content="BlendTrans(Duration=0, Transition=0)">
+<!-- 95bb21b86ba9ffc778c3a7c1c52ebc47 -->
+
+<title>Tobit.Software</title>
+
+<script language="javascript" src="https://club.tobit.com/include/alphaAPI.js"></script>
+<script language="javascript" src="https://club.tobit.com/include/domLib.js"></script>
+<script language="javascript" src="https://club.tobit.com/include/domTT.js"></script>
+<script language="javascript" src="https://club.tobit.com/include/domTT_drag.js"></script>
+
+<!-- -->
+
+<link href="/include/imgButtons.css" rel="stylesheet" type="text/css">
+
+<script language="javascript" src="/include/datefunctions.js"></script>
+
+<link href="/include/msgBox.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 6]><style type="text/css">td.msgBoxshadow{display:none;}</style><![endif]-->
+<script language="javascript" src="/include/alert.js"></script>
+
+
+<script language="JavaScript" type="text/javascript">
+var win = null;
+
+var browserHeight = 0;
+var browserWidth  = 0;
+
+var TobitFMwin;
+
+
+function debAlert(msg)
+{
+   
+}
+
+				
+function TobitFM() 
+{
+	if (TobitFMwin && !TobitFMwin.closed) 
+	{
+		document.getElementById("TobitFMIcon").src = "/graphic/Tobit.FM_Icon_off.gif";
+		//TobitFMwin.vis_radio.sendToActionScript();
+	} 
+	else 
+	{
+		//document.getElementById("TobitFMIcon").src = "/graphic/Tobit.FM_Icon_on.gif";
+		TobitFMwin = window.open('/TobitFM.asp','TobitFM','location=no,menubar=no,status=no,toolbar=no,scrollbars=no,resizeable=no,width=480,height=320,top=50,left=50');
+		TobitFMwin.focus();
+	}
+}
+
+function TobitFMOff() 
+{
+	document.getElementById("TobitFMIcon").src = "/graphic/Tobit.FM_Icon_off.gif";
+}
+
+function TobitFMOn() 
+{
+	document.getElementById("TobitFMIcon").src = "/graphic/Tobit.FM_Icon_on.gif";
+}				
+
+function getClientData ()
+{
+   if (document.body.clientWidth)
+      browserWidth = document.body.clientWidth;
+
+   if (document.body.clientHeight)
+      browserHeight = document.body.clientHeight;
+}
+
+function NewWindow(mypage, myname, w, h, scroll) 
+{
+   var winl = (screen.width-w) / 2;
+   var wint = (screen.height-h) / 2;
+   var settings = 'height=' + h + ',';
+   settings += 'width=' + w + ',';
+   settings += 'top=' + wint + ',';
+   settings += 'left=' + winl + ',';
+   settings += 'scrollbars=' + scroll + ',';
+   settings += 'resizable=no';
+
+   win = window.open (mypage, myname, settings); 
+   return win;
+}
+
+function MrdArticle_OpenPicture( ID, picID )
+{
+   var _wnd = window.open( "http://club.tobit.com/imageview.asp?documentid=" + ID + "&pictureid=" + picID, "pictureCollection", 
+                " dependent=yes, height=545, width=470, center=1, status=no, scrollbars=no, reziseable=no, location=no ");
+   if ( _wnd != null && _wnd != "undefined" && _wnd != "null" && _wnd != undefined)
+		_wnd.focus();
+}
+
+defaultStatus = "Tobit Software";
+
+function placeSubMenu ()
+{
+   if (document.getElementById("dsubmenu") && document.getElementById ("activemenupoint"))
+      document.getElementById("dsubmenu").style.left = (document.getElementById ("activemenupoint").offsetLeft + 20) + "px";
+}
+
+var startPos = 10;
+function fadeSubMenu(fadeIn)
+{
+   if (!document.getElementById ("ssubmenu") || document.getElementById ("dsubmenunofade"))
+      return;
+   startPos += 1;
+   document.getElementById("dsubmenu").style.top = startPos + "px";
+   if (startPos < 36)
+      window.setTimeout ("fadeSubMenu(1)", 10);
+}
+
+function openLiveChannel () 
+{
+   var olc_url = '/login/livechannel/livechannel.asp';
+   var olc_winName = 'LiveChannelWindow';
+   var olc_w = 880;
+   var olc_h = 670;
+   LeftPosition = (screen.width) ? (screen.width - olc_w) / 2 : 0;
+   TopPosition = (screen.height) ? (screen.height - olc_h) / 2 : 0;
+   settings ='height=' + olc_h + ',width=' + olc_w + ',top=' + TopPosition + ',left=' + LeftPosition + ',scrollbars=no, location=no, menubar=no';
+   LiveChannelWin = window.open(olc_url, olc_winName, settings);
+   LiveChannelWin.focus();
+}
+
+</script>
+
+
+ <script language="javascript">
+<!--
+function CheckEMail(eMail)
+{
+    eMail = eMail.toLowerCase();
+    
+		if( eMail.length<6 ||                             //minimal zb: a@b.de
+		    eMail.indexOf("@")==-1 ||                     //kein @
+		    eMail.indexOf(".")==-1 ||                     //kein .
+ 		    eMail.indexOf("@")>eMail.lastIndexOf(".") ||  //kein . nach @
+ 		    eMail.lastIndexOf(".")>eMail.length-3 ||      //keine 2 Zeichen nach letztem .
+ 		    eMail.indexOf(".")==0 ||                      //beginnt mit .
+ 		    eMail.indexOf("@")==0 ||                      //beginnt mit @
+ 		    eMail.indexOf(",")!=-1 ||                     //unerlaubtes Zeichen
+ 		    eMail.indexOf(" ")!=-1 ||                     //unerlaubtes Zeichen
+ 		    eMail.indexOf(";")!=-1 ||                     //unerlaubtes Zeichen
+ 		    eMail.indexOf("@@")!=-1                       //doppeltes @
+ 		  )  
+ 		    return false
+ 		 else
+ 		    return true
+}
+-->
+</script><script language="javascript">
+<!--
+function SendToStatusWindow(FormName, width, height)
+{
+    if (!width)
+        width=400;
+    if (!height)
+        height=200;
+           
+    var frm;
+    var left= (screen.width-width)/2;
+    var top = (screen.height-height)/2;
+    var settings = " dependent=yes,"+
+                   " hotkeys=no," +
+                   " menubar=no," +
+                   " locationbar=no," +
+                   " status=no," +
+                   " height=" + height + "," +
+                   " width=" + width + "," +
+                   " top=" + top + "," +
+                   " left=" + left;
+    frm = eval("document.forms." + FormName);
+    frm.target="StatusWindow";
+    //window.open("about:blank", "StatusWindow", settings, true);
+    tmp = window.open("/include/EmptyStatusWin.htm", "StatusWindow", settings, true);        
+    tmp.focus();
+    
+    return true;
+}
+
+function SendURLToStatusWindow(url, width, height)
+{
+    if (!width)
+        width=400;
+    if (!height)
+        height=200;
+           
+    var left= (screen.width-width)/2;
+    var top = (screen.height-height)/2;
+    var settings = " dependent=yes,"+
+                   " hotkeys=no," +
+                   " menubar=no," +
+                   " locationbar=no," +
+                   " status=no," +
+                   " height=" + height + "," +
+                   " width=" + width + "," +
+                   " top=" + top + "," +
+                   " left=" + left;
+    //window.open("about:blank", "StatusWindow", settings, true);
+    tmp = window.open(url, "StatusWindow", settings, true);        
+    tmp.focus();
+    
+    return true;
+}		
+
+//-->
+</script>
+<script language="javascript" src="https://club.tobit.com/include/alphaAPI.js"></script>
+<script language="javascript" src="https://club.tobit.com/include/domLib.js"></script>
+<script language="javascript" src="https://club.tobit.com/include/domTT.js"></script>
+<script language="javascript" src="https://club.tobit.com/include/domTT_drag.js"></script>
+
+   <script language="javascript" type="text/javascript">
+   function OpenVirtualAero ()
+   {
+      document.forms.VirtualAero.PersonID.value = "199-50002";
+      document.forms.VirtualAero.XPwd.value = "";
+      document.VirtualAero.submit();
+   }
+   </script>
+   
+   <meta name="description" content="Tobit Software - Client/Server Messaging and Information Products">
+   <meta name="keywords" content="Tobit, Tobit Software, Unified Messaging, FaxWare, David, E-Mail-Server, Fax-Server, Mail-Server, Web-Server, NetWare, David XL, David, David SL, FaxWare, Fax Ware, Fax-Ware, Fax, Fax-Server, eMail, e-Mail, E-Mail, VoiceMail, Voice Mail, Voice-Mail, VoiceBox, Voice Box, Voice-Box, GroupWare, Group-Ware, Group Ware, Calendaring, Calendar, Task, TaskManagement, Task Management, Task-Management, Adress, AdressManagement, Adress Management, Adress-Management, WebServer, Web Server, Web-Server, Web, WebBox, Web-Box, Web Box, Tobit, Tobit Software, dBoard, d-Board, dBoard2, dBoard 2, dBoard4, dBoard 4, Time:LAN!, Time!LAN:, TimeLan, Time-Lan, Time Lan, RemoteAccess, Remote Access, Remote-Access, PhoneAccess, Phone Access, Phone-Access, WebAccess, Web Access, Web-Access, PDA, PBX, Server, Client, Clients, Novell, Micorsoft, Linux, UnifiedMessaging, Unified Messaging, Unified-Messaging, Messaging, Unified, SmartStart, Smart Start, Smart-Start, Communication, Communications, Telephone, Network, Networks, PC, Computer, Software, leader, marketleader, market leader, cube, easy administration, Windows XP, Windows Server 2003, Windows Server 2000, Windows NT, Windows Server NT">
+   
+   <link href="/include/tobit2007_2.css" rel="stylesheet" type="text/css" media="screen">
+   <link href="/include/tobit2007_2_print.css" rel="stylesheet" type="text/css" media="print">
+
+   <!--[if lte IE 6]>
+   <style type="text/css">
+
+   div#top-shadow
+   {
+	   border-top: 1px solid #fff;
+	   border-right: 1px solid #bbb;
+	   border-left: 1px solid #fff;
+      background-color:White;
+      width:664px;
+	   overflow:hidden;
+   }
+
+   div#about {
+	   position: relative;
+   	top: -334px;
+	   left: 579px;
+	   text-align: center;
+	   margin: 0px;
+	   z-index: 55;
+	   width: 238px;
+	   height: 352px;
+	   background-image: url(/graphic/design2007_mai/content-about_bg.jpg);
+	   background-repeat: no-repeat;
+   }
+
+   div#about-content {
+	   font-family: Tahoma, sans-serif;
+	   font-size: 10px;
+	   color: #6e6e6e;
+	   padding: 30px 15px 10px 35px;
+	   text-align: left;
+	   line-height: 16px;
+	   z-index: 66;
+	   margin: 0px;
+   }
+
+   div#content {
+	   border-right: 1px solid #bbb;
+	   border-left: 1px solid #fff;
+      background-color:White;
+	   padding: 20px 75px 45px 70px;
+	   margin: 0px;
+   }
+   </style>
+   <![endif]-->
+   
+      <link href="/include/tobit2007_mrddefault.css" rel="stylesheet" type="text/css" media="screen">
+      
+      <link rel="alternate" type="application/rss+xml" title="Club Tobit.Software" href="http://rss.tobit.com/rss.asp">
+      
+
+   </head>
+   
+   <body class="mainpages" onload="fadeSubMenu(1);GetSignCount();">
+
+   
+      <div class="topshadow">
+      
+
+<!-- etracker PARAMETER 2.2 -->
+<script type="text/javascript">
+var et_easy     = 0;
+var et_ssl      = 0;
+var et_pagename = "showarticle.asp";
+var et_areas    = "";
+var et_ilevel   = 0;
+</script>
+<!-- etracker PARAMETER END -->
+   <script type="text/javascript">
+   var et_areas    = "MRDArticle/6196";
+   var et_pagename = "/showarticle.asp"
+   </script>
+   <!-- etracker CODE 2.2 -->
+<script type="text/javascript"><!--
+var et_server = "http://www.etracker.de";
+var et_sslserver = "https://www.etracker.de";
+var et_referer=et_server+'/soverview.php?c=1&amp;et=', cex='';
+var et_la = '', et_js = 1, et_pl, et_co, et_iw,  et_sh, et_sw;
+var et_sc = 'na',   et_gp = '',   lt = '<',   et_ih ,  et_up ;
+if( typeof( tt ) == "undefined" || typeof( tt ) == "unknown" )
+{var tt='';} var tv, to,  ts,  et_tmp; function et_eC( param )
+{var et_a = '', et_t = '', et_p = '', et_b='', et_s='',et; var
+et_ref=escape(document.referrer);if(et_js>=1.3){if(typeof(top.
+document)=='object')eval('try{et_ref=escape(top.document.ref'+
+'errer);}catch(e){et_ref="";}');} if(et_ref!='') et_gp+='&am'+
+'p;ref='+et_ref; et_gp +='&amp;swidth='+et_sw+'&amp;sheight='+
+et_sh+'&amp;siwidth='+et_iw+'&amp;siheight='+et_ih+'&amp;sco'+
+'okie='+et_co+'&amp;scolor='+et_sc;if(et_easy)et_gp+='&amp;e'+
+'t_easy=1'; if( et_pl!='' ) et_gp+='&amp;p='+escape(et_pl);if(
+et_areas != '' )et_gp += '&amp;et_areas='+escape(et_areas);if(
+typeof(et_target)== "undefined"||typeof(et_target)=="unknown")
+{et_target = ""; et_tval = "0";  et_tonr = "0"; et_tsale = 0;}
+et_gp+="&amp;"+"et_target="+ escape( tt.length?tt:et_target )+
+"," + ( tv?tv:et_tval ) + "," + ( to?to:et_tonr )+ ","+(ts?ts:
+et_tsale )+","+( typeof( et_cust ) == "number"?et_cust:0 );if(
+typeof( et_lpage )=='undefined' ||typeof(et_lpage)=='unknown')
+et_lpage=''; else et_gp += '&amp;et_lpage='+et_lpage;if(typeof
+(et_se) == 'undefined' || typeof(et_se)=='unknown')et_se='';if
+(et_se!='')et_gp +='&amp;et_se='+et_se;if(typeof( et_trig ) ==
+'undefined'||typeof(et_trig)=='unknown')et_trig='';if( et_trig
+!='' )et_gp+='&amp;et_trig='+et_trig;if(et_pagename!='') et_gp
++='&amp;et_pagename='+escape(et_pagename);if(typeof(et_basket)
+=='string')et_gp += '&amp;et_basket=' + escape(et_basket); if(
+typeof(et_up)=='undefined'||typeof(et_up)=='unknown')et_up='';
+et=document.location.href.split('?'); et_gp += '&amp;et_url='+
+escape( et[0] ); et_gp += '&amp;slang=' +et_la; tc=new Date();
+document.write( lt + "a target='_blank' href='" +  et_referer+
+param+"'>" + lt + "img style='width:1px; height:1px;' border='0' alt='' src='" + ( et_ssl==1?
+et_sslserver  :  et_server ) + "/cnt.php?java=y&amp;tc=" + tc.
+getTime()+ "&amp;et=" +param + "&amp;et_ilevel=" + et_ilevel +
+et_gp  +  et_up  +  "'/>" +  lt  +"/a>"  ) ; }  //--></script>
+<script type="text/javascript">document.write(lt+'script lan'+
+'guage="JavaScript1.3"> var et_js = 1.3;' + lt + '/script>' );
+</script><script language="JavaScript1.3"> var et_js = 1.3;</script><script type="text/javascript"> et_sw = screen.width;
+et_sh = screen.height; et_sc = ( screen.pixelDepth ) ? screen.
+pixelDepth:screen.colorDepth;if(et_js>=1.3){eval('try{et_iw='+
+'top.innerWidth;et_ih=top.innerHeight;}catch(e){et_iw=window'+
+'.innerWidth;et_ih=window.innerHeight;}');}et_co = (navigator.
+cookieEnabled==true?1:(navigator.cookieEnabled==false?2:0));if
+(navigator.language)et_la=navigator.language;else if(navigator
+.userLanguage  )  et_la  =  navigator.userLanguage;  </script>
+<script type="text/javascript"> et_eC( 'Rhx3Vg' );</script><a target="_blank" href="http://www.etracker.de/soverview.php?c=1&amp;et=Rhx3Vg"><img style="width:1px; height:1px;" border="0" alt="" src="http://www.etracker.de/cnt.php?java=y&amp;tc=1580476596216&amp;et=Rhx3Vg&amp;et_ilevel=0&amp;swidth=800&amp;sheight=600&amp;siwidth=1366&amp;siheight=768&amp;scookie=1&amp;scolor=24&amp;p=undefined&amp;et_areas=MRDArticle/6196&amp;et_target=,0,0,0,0&amp;et_pagename=/showarticle.asp&amp;et_url=https%3A//web.archive.org/web/20080609002244id_/http%253A//club.tobit.com/showArticle.asp%253FnewsID%253DEEC5737A-869B-4B4F-A290-5CCD344FBF47&amp;slang=en-US"></a>
+
+<!-- etracker CODE NOSCRIPT -->
+<noscript>
+<p><a href='http://www.etracker.de/soverview.php?c=1&amp;et=Rhx3Vg'>
+<img style='width:1px; height:1px; border: 0px;' alt='' src='http://www.etracker.de/cnt.php?et=Rhx3Vg&amp;java=n
+&amp;et_easy=0&amp;et_pagename=
+&amp;et_areas=&amp;et_ilevel=0&amp;et_target=,,,0
+&amp;et_lpage=&amp;et_trig=&amp;et_se=0&amp;et_cust=0
+&amp;et_basket=&amp;et_url='/></a></p>
+</noscript>
+<!-- etracker CODE END -->
+      </div>
+      <div class="mainmenu">
+      <table cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr>
+         
+   
+   <script language="javascript">
+   function Search()
+   {
+      if (CheckSearch())
+         document.forms.SearchForm.submit()
+   }
+
+   function CheckSearch()
+   {
+      SearchValue = document.forms.SearchForm.SearchValue.value;
+      SearchValue = SearchValue.replace(/(^\s*)|(\s*$)/g, "");
+      document.forms.SearchForm.SearchValue.value = SearchValue
+
+      if ( SearchValue.length < 2)
+         return false;
+      else
+         return true;
+   }
+   </script>
+   
+         
+         <td align="right" width="100%">
+         <!--
+         
+           <a href="javascript:TobitFM()" onFocus="this.blur()"><img src="/graphic/Tobit.FM_Icon_off.gif" id="TobitFMIcon" border="0" style="margin-right: 10px; margin-top: 1px" alt="Tobit.FM" title="Tobit.FM"></a>
+          
+          -->
+          </td>
+            <td><img src="/graphic/design2007/ts.jpg" border="0" style="margin-top: 1px;">
+            
+         </td>
+      </tr></tbody></table>
+      </div>
+      
+   <script language="javascript">
+   var ieFlickerFixTimerGroups = null;
+   function showGroups(_show)
+   {
+      if (ieFlickerFixTimerGroups != null)
+      {
+         clearTimeout (ieFlickerFixTimerGroups);
+         ieFlickerFixTimerGroups = null;
+      }
+
+      var obj = document.getElementById ("GroupsWindow");
+      if (obj)
+      {
+         if (_show == false && window.event)
+            ieFlickerFixTimerGroups = window.setTimeout ("chnageGroupsWindow(false);", 10);
+         else
+            chnageGroupsWindow(_show);
+         if (_show)
+         {
+            obj.style.left = (document.getElementById ("logoutBtn").offsetParent.offsetLeft + (document.getElementById ("logoutBtn").offsetWidth - obj.offsetWidth + 1)) + "px";
+            obj.style.top = (document.getElementById ("logoutBtn").offsetParent.offsetTop + document.getElementById ("logoutBtn").offsetHeight) + "px";
+         }
+      }
+   }
+
+   function chnageGroupsWindow(_show)
+   {
+      document.getElementById ("GroupsWindow").style.display = _show ? "inline" : "none";
+      ieFlickerFixTimerGroups = null;
+   }
+   
+
+   </script>
+   
+   <div class="logoutmenu" style="z-index:1; white-space:nowrap;">
+
+   
+            
+            <script language="javascript">
+            function ChangeLanguage(lang)
+            {
+               location.href="/login/start.asp?SetLanguage=" + lang
+            }
+            
+            var ieFlickerFixTimerLanguage = null;
+            function showLanguageLinkWindow(_show)
+            {
+               if (ieFlickerFixTimerLanguage != null)
+               {
+                  clearTimeout (ieFlickerFixTimerLanguage);
+                  ieFlickerFixTimerLanguage = null;
+               }
+
+               var obj = document.getElementById ("LanguageLinkWindow");
+               if (obj)
+               {
+                  if (_show == false && window.event)
+                     ieFlickerFixTimerLanguage = window.setTimeout ("changeLanguageLinkWindow(false);", 10);
+                  else
+                     changeLanguageLinkWindow(_show);
+                  if (_show)
+                  {
+                     obj.style.left = (document.getElementById ("languageBtn").offsetParent.offsetLeft + (document.getElementById ("languageBtn").offsetLeft + document.getElementById ("languageBtn").offsetWidth - obj.offsetWidth + 1)) + "px";
+                     obj.style.top = (document.getElementById ("languageBtn").offsetParent.offsetTop + document.getElementById ("languageBtn").offsetHeight) + "px";
+                  }
+               }      
+            }
+
+            function changeLanguageLinkWindow(_show)
+            {
+               document.getElementById ("LanguageLinkWindow").style.display = _show ? "inline" : "none";
+               ieFlickerFixTimerLanguage = null;
+            }            
+            
+            </script>
+            
+            <div id="languageBtn" class="logoutbutton2" style="cursor:pointer; position:relative;" onmouseover="showLanguageLinkWindow(true);" onmouseout="showLanguageLinkWindow(false);">
+               
+               <font style="color:black; position:relative; z-index:2;">ENG</font>
+               <font style="color:#C4C4C4; position:absolute; left: 8px; top:6px; z-index:1;">ENG</font>
+            </div>
+            
+         
+      <div id="logoutBtn" onclick="document.location.href='https://club.tobit.com/login/logout.asp';" class="logoutbuttonred" style="color:#000; cursor:pointer; position:relative;">
+         
+         <font style="color:black; position:relative; z-index:2;">Login</font>
+         <font style="color:#FF3347; position:absolute; left: 8px; top:6px; z-index:1;">Login</font>         
+      </div>         
+      </div><div class="PartnerLinkWindow2" id="LanguageLinkWindow" style="padding:8px;" onmouseover="showLanguageLinkWindow(true);" onmouseout="showLanguageLinkWindow(false);"><div style="padding-bottom:2px;"><a href="javascript:ChangeLanguage('ger')"><font style="color:#ffffff;">deutsch</font></a><br><font style="color:#ffffff; font-weight:bold;">english</font></div></div>
+      
+   <div id="outer" align="center">
+   
+   
+     <div id="inner-content" align="center">
+       
+       <div id="top-shadow"><img class="noprint" src="/graphic/design2007_mai/content-top.jpg"></div>
+       <div id="content"> 
+       
+       <p class="title"></p><div id="autorHL"></div><span id="headline"><img border="0" src="/graphic/TextGraphic/mrd/mrdtitle_6196.JPG"></span><p></p>
+       <link rel="stylesheet" href="/include/thickbox.css" type="text/css" media="screen"><script language="javascript">var TB_lang = "eng";</script><script language="javascript" src="/include/jquery.js"></script><script language="javascript" src="/include/thickbox.js"></script>
+    <script>
+    <!--
+    function GetSignCount ()
+    {
+      if (document.getElementById ("SignCount"))
+         document.getElementById ("SignCount").innerHTML = "10.228";
+    }
+    -->
+    </script>
+    
+      <p>
+    
+    </p><div id="MRDText">
+    Protecting your privacy while using our website is very important to us at Tobit.Software. That’s why we attempt to protect your privacy to the best of our ability. The Tobit.Software strategy for protecting privacy rights covers the recording and use of personal data that may be collected when you contact Tobit.Software, for example when you visit our website, obtain products and services from Tobit.Software, apply to work for us, or if you want to become holder of an account at Tobit.NET. Please take a moment to read the following points. They describe which personal data is saved and when, how we use it, and how we protect your privacy.
+
+<p><b>Is personal data always recorded?</b>
+<br>
+Of course you can use our website without disclosing your personal data. As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), clickstream data and date and time information. This information is used to analyze trends, to track users’ movements around the site and for analysis for statistical purposes. Although you could possibly be identified by this information, Tobit.Software does not use it to market directly to the relevant persons. Individual users remain anonymous. If data is passed on to external providers, we ensure by means of technical and organizational measures that the specifications of the data protection act are complied with.</p>
+
+<p>Some of our e-mail messages or newsletters use what is called a “click-through URL” that is linked to content on the Tobit.Software website. When you click one of these URLs, you pass through our web server before reaching the actual destination website. This enables us to determine interest in particular topics so that we can measure the effectiveness of our communications. However, we do not trace or analyze this data further. If you prefer not to be tracked, simply avoid clicking on any text or graphic links in our e-mails.</p>
+
+<p><b>Why do we record your personal data?</b>
+<br>
+Sometimes we need to record your personal data so that we can offer a superior level of customer service. It enables us to give you convenient access to our products and services and to offer you a range of services that is optimally tailored to your requirements. This keeps you posted on any new developments, additions or campaigns that are of interest to you. Furthermore, the data helps us to answer your questions or provide technical support for your software or to support interactive portals such as Tobit.NET, the Tobit.Software Partner Network or the Tobit.Software Site Management.</p>
+
+<p>If you do not want to be informed about Tobit.Software, latest developments, software updates, technical support or product and service information, you can update your personal contact data and settings at any time at <a href="www.tobit.com">www.tobit.com</a>.</p>
+
+<p><b>Which data do we collect?</b>
+<br>
+That depends on the relationship that you want to have with us. As holder of an account at Tobit.NET, you benefit from many interesting services. At any time you will receive up-to-date and tailored information as well as privileges for selected events from and with Tobit.Software. For this reason, when you register with Tobit.NET, Tobit.Software asks you for your name, address, your e-mail address, telephone and fax number, your own homepage and your date of birth. By specifying your bank sort code, your account number or your credit card number, as holder of an account at Tobit.NET you can easily make purchases at any time in the Tobit.Software Online Shop.</p>
+
+<p>What is called Tobit.Software Site Management is part of all software from Tobit.Software. Here you can find out information about your product, download the latest software updates and receive technical support. Tobit.Software Site Management is linked to your Tobit.NET account, giving you an overview of all important information about your software and your interests. Of course, you can also personalize the Site Management in the same way as your Tobit.NET account. In addition to their personal data, corporate customers enter their company data, VAT number or tax number. To ensure you receive fast and easy support for the software you are using, you can also enter your license number for any additional software you are using and contact your retailer. Furthermore, as a member of Tobit.Software Site Management, we give you the option of using additional services that are not included in the standard package. To do this, you only need to enter your account data, bank sort code or credit card number.</p>
+
+<p>If you want to become an authorized partner of Tobit.Software, you can contact us easily via our homepage or of course by telephone. To include you as a member in our Tobit.Software Partner Network, we will ask you for data such as your company name, address, contact data and your company profile. When you are included in the Tobit.Software Partner Network, you will receive your own interactive Partner Portal and you then decide which information you want to give us. We use this information to assist you in purchasing our products and to offer you a fast and valuable service.</p>
+
+<p>Regardless of whether you are holder of an account at Tobit.NET or access the Tobit.Software Site Management or the Partner Portal, your logon data and your personal data can only be accessed by you using your user name and password. To ensure protection, we recommend that you do not disclose your password to anyone else. If you want to change, delete or just check your data, you can do this at any time. Whenever Tobit.Software works with your personal data, we will treat your data confidentially and in agreement with our data protection regulations as nothing is more important to us than protecting your privacy rights.</p>
+
+<p>If you use the forum on the Tobit.Software website or the ShoutBox in ClipInc., you should be aware that any information, comments or questions you share on the forum is visible to other users. Personally identifiable information you submit may be used by other users to send you unsolicited mail. Tobit.Software is not responsible for the personally identifiable information that you choose to submit to the forum.</p>
+
+<p>If you want to become part of our team and want to send us a job application, you can also do this online. To get to know you a bit better, we will ask about your personal interests and your contact data so that we can contact you if necessary. We’re interested in you, not just certificates and grades! All personal information you send us is of course on a voluntary basis. Your application is then sent directly as an e-mail to Tobit.Software and stored. Only HR managers at Tobit.Software have access to this data and they will contact you if they are interested in your application. If your application is unsuccessful, your data will be automatically deleted within 6 months.</p>
+
+<p><b>Is personal data passed on?</b>
+<br>
+We assure you that Tobit.Software will neither sell nor pass on your personal data. However, to ensure we offer you exemplary service, it may be advantageous to make certain personal information about you available to companies who have a strategic partnership with Tobit.Software or who act on behalf of Tobit.Software to provide you with products and services in our name. Obviously, such companies are obligated to protect your data in accordance with the data protection regulations specified by Tobit.Software. Without such information being made available, even delivering the products to you would be extremely difficult.</p>
+
+<p><b>How do we ensure that your data is protected?</b>
+<br>
+Tobit.Software takes technical and organizational security measures to safeguard your personal data against unintentional and unauthorized deletion, modification or loss and unauthorized disclosure or unauthorized access.</p>
+
+<p>The Tobit.Software Online Store and all interactive web portals from Tobit.Software use the HTTPS (HyperText Transfer Protocol Secure) industry standard for encryption on all websites. This ensures the confidentiality of your personal information and all account or credit card details with transactions over the Internet.</p>
+
+<p>You can help us also by taking precautions to protect your personal data online. Change your passwords often, ensure that you use a good anti-virus solution and always use a secure web browser.</p>
+
+<p>Websites, newsletters or products from Tobit.Software sometimes contain links to other websites. These links are used as tips for you so that you can find out more about the subject. Please note that when you click on these links, you access a new website that may contain different data protection regulations. This is why we recommend that you read the security regulations of the relevant site before use. Tobit.Software is not responsible for the content of these websites. If you do not want to run this risk, simply avoid clicking the link.</p>
+
+<p><b>What about cookies?</b>
+<br>
+As is standard practice on many websites, Tobit.Software’s website uses “cookies”. These are IDs that enable us to recognize your computer the next time you visit our site. For example, cookies mean that you don’t have to enter your password each time you want to log into a password-protected portal; your password is saved instead. If you do not want to use this service, please configure your Internet browser in such a way that it deletes cookies from your computer hard drive, it blocks them or else it warns you before a cookie is saved.</p>
+
+<p><b>Questions or comments?</b>
+<br>
+Contact us at any time if you have any questions, comments or concerns about Tobit.Software’s protection of your privacy rights or on data processing. Just click on the “Communication” tab and you will see the "Contact" menu option that you can use to write to us. Tobit.Software takes this issue very seriously and we will be happy to answer your questions.</p>
+
+<p>Tobit.Software is entitled to change at any time – and without prior warning – the Tobit.Software strategy for protecting privacy rights and to change or block access to this site. It is therefore in your interest to check this page from time to time and to inform yourself about any changes.</p>
+
+<p>All rights reserved.</p>
+    </div>
+    <p></p>
+    
+    
+   </div><!--1-->
+   <div id="bottom-shadow"><img class="noprint" src="/graphic/design2007_mai/content-bottom.jpg" height="21" align="absbottom"></div>
+   <div class="noprint" style="margin-top: 10px; position: relative"><img src="/graphic/design2007_mai/content-reflection.jpg" width="668" height="71" border="0"></div>
+   
+   </div></div>
+
+  
+   
+
+   <script language="javascript">
+   function inputFocus() 
+   { 
+      var inputs = document.getElementsByTagName('input'); 
+      for (var i=0; i<inputs.length; i++) 
+      { 
+         if (inputs[i].className.toUpperCase() == "INPUTFLD" || inputs[i].className.toUpperCase() == "INPUTFLDFOCUS")
+         {
+            inputs[i].onfocus = function() {this.className = "inputFldFocus";} 
+            inputs[i].onblur = function() { this.className = "inputFld"; } 
+         }
+         if (inputs[i].className.toUpperCase() == "INPUTFLDRED" || inputs[i].className.toUpperCase() == "INPUTFLDREDFOCUS")
+         {
+            
+            inputs[i].onfocus = function() { this.className = "inputFldRedFocus";} 
+            inputs[i].onblur = function() { this.className = "inputFldRed"; } 
+         }
+         if (inputs[i].className.toUpperCase() == "INPUTFLDREDPASSWORD" || inputs[i].className.toUpperCase() == "INPUTFLDREDPASSWORDFOCUS")
+         {
+            
+            inputs[i].onfocus = function() { this.className = "inputFldRedPasswordFocus";} 
+            inputs[i].onblur = function() { this.className = "inputFldRedPassword"; } 
+         }
+      } 
+
+      var inputs = document.getElementsByTagName('textarea'); 
+      for (var i=0; i<inputs.length; i++) 
+      {
+         inputs[i].onfocus = function() {this.className = "textareaFocus";} 
+         inputs[i].onblur = function() { this.className = ""; } 
+      } 
+   }   
+   
+   inputFocus ();
+   </script>
+   
+   </body></html>
