@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the hbcuconnect.com privacy policy that was archived on 2007-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210124610id_/http%3A//hbcuconnect.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hbcuconnect.com privacy policy that was archived on 2008-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080608081821id_/http%3A//hbcuconnect.com/privacy.shtml) for the most accurate reproduction.-->
 
-<html><head><meta name="KEYWORDS" content="hbcu,black college,black colleges,historically black college,historically black university,black scholarship,black scholarships,black students">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<meta name="KEYWORDS" content="hbcu,black college,black colleges,historically black college,historically black university,black scholarship,black scholarships,black students">
 <meta name="DESCRIPTION" content="The largest online destination for HBCU students, faculty, and
 alumni to connect, interact, and discuss the black college experience.">
 
 <script type="text/javascript" src="/javascript/cookies.js"></script>
 <script type="text/javascript" src="/javascript/subscribe.js"></script>
 <script type="text/javascript" src="/javascript/interstitial.js"></script>
-<script type="text/javascript" src="/javascript/set_banners.js"></script>
 
 <link href="http://HBCUConnect.com/site.css" rel="stylesheet" type="text/css">
 <link rel="StyleSheet" href="http://hbcuconnect.com/core/site.css" type="text/css">
@@ -34,11 +34,14 @@ alumni to connect, interact, and discuss the black college experience.">
 <script>
   function blogpop(targetwindow) {
     functionstr = "window.open('" + targetwindow + "')";
-    setTimeout(functionstr,11000);
+    setTimeout(functionstr,3000);
   }
 </script>
 
 <script language="JavaScript">
+
+var flashVideoPlayer;
+
 function mailit() {
     errors = '';
     if ( document.signin.email.value == '') {
@@ -54,9 +57,41 @@ function mailit() {
         window.open(emailLink,'HBCU','width=400,height=200,menubar=yes,toolbar=no,scrollbars=yes,left=5,top=5,screenX=5,screenY=5');
     }
 }
-</script>
 
-</head><body bgcolor="#f5ecd8" link="#993300" vlink="#771100" alink="#000000" rightmargin="0" bottommargin="0" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+function initialize() {
+           var isIE = navigator.appName.indexOf("Microsoft") != -1;
+           flashVideoPlayer = (isIE) ? window['videoPlayer'] : document['videoPlayer'];
+}
+
+function callFlashPlayVideo(myVideo,myTitle,mySubmitter,myHBCU) {
+           //var comboBox = document.forms['videoForm'].videos;
+           //var video = comboBox.options[comboBox.selectedIndex].value;
+           var myDescription = "";
+           var video = myVideo+".flv";
+           document.getElementById('title').innerHTML = "<b style=\"font-size: 16pt;\">" + myTitle + "</b>";
+           document.getElementById('description').innerHTML = "<b>Submitted By:<br>" + mySubmitter + " (" + myHBCU + ")</b><br>" + myDescription;
+           //updateStatus("____" + video + "____");
+           flashVideoPlayer.playVideo("http://www.hbcuconnect.com/core/images/videos/flvs/" + video);
+}
+
+       function callFlashPlayPauseVideo() {
+           flashVideoPlayer.pauseResume();
+       }
+
+       function updateStatus(message) {
+           document.forms['videoForm'].videoStatus.value += message + "\n";
+       }
+
+       function checkVideoPage() {
+           if (document.URL.indexOf('cid=9') >= 0) {
+              initialize();
+           }
+       }
+
+</script>
+</head>
+
+<body bgcolor="#f5ecd8" link="#993300" vlink="#771100" alink="#000000" rightmargin="0" bottommargin="0" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="checkVideoPage();">
 
 
 
@@ -73,13 +108,28 @@ function mailit() {
         <td align="right" valign="bottom">
 
 		<table cellpadding="0" cellspacing="0"><tbody><tr>
-		<td height="45" valign="middle">
+		<td valign="middle">
 		</td>
 		<td width="10"></td>
 
-		<td height="45" valign="bottom">
-		<iframe src="https://web.archive.org/web/20080206171328/http://hbcuconnect.com/ads/infiniti/logo.html" scrolling="no" frameborder="no" height="65" width="100" name="title_sponsor" id="title_sponsor"></iframe>
-		<script>document.getElementById('title_sponsor').src=ros_title_sponsor;</script>
+		<td valign="right">
+                   <script language="JavaScript" type="text/javascript" src="http://ads.hbcuconnect.com/adx.js"></script>
+                   <script language="JavaScript" type="text/javascript">
+                   <!--
+                      if (!document.phpAds_used) document.phpAds_used = ',';
+                      phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+                      document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+                      document.write ("http://ads.hbcuconnect.com/adjs.php?n=" + phpAds_random);
+                      document.write ("&amp;what=bannerid:415&amp;clientid=158&amp;target=_blank");
+                      document.write ("&amp;exclude=" + document.phpAds_used);
+                      if (document.referrer)
+                         document.write ("&amp;referer=" + escape(document.referrer));
+                      document.write ("'><" + "/script>");
+                  //-->
+                  </script><script language="JavaScript" type="text/javascript" src="http://ads.hbcuconnect.com/adjs.php?n=329855729&amp;what=bannerid:415&amp;clientid=158&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://ads.hbcuconnect.com/adclick.php?n=aac0fbed' target='_blank'>
+                  <img src='http://ads.hbcuconnect.com/adview.php?what=bannerid:415&amp;clientid=158&amp;n=aac0fbed' border='0' alt=''>
+                  </a></noscript>
 		</td>
 		</tr>
 		</tbody></table>
@@ -99,6 +149,7 @@ function mailit() {
         <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/core/cgi-bin/networking/invite.cgi" class="menu_link">Invite</a></td>
         <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/core/cgi-bin/blog.cgi" class="menu_link">Blogs</a></td>
         <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="http://forums.hbcuconnect.com" class="menu_link">Forums</a></td>
+        <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="#" onclick="window.open('/newchat/chat.cgi','HBCUChat','height=600,width=1000,status=false,resizable=yes,location=0,menubar=0,toolbar=0,status=0');" class="menu_link">Chat (Beta)</a></td>
         <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/core/cgi-bin/clubs.cgi" class="menu_link">Clubs</a></td>
         <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/core/cgi-bin/blog.cgi?cid=1" class="menu_link">News</a></td>
         <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/alumnidb/cgi-bin/eventblog.cgi" class="menu_link">Events</a></td>
@@ -108,12 +159,50 @@ function mailit() {
         </tr>
         </tbody></table>
 
-        <table cellspacing="0" cellpadding="4" bgcolor="#fffff0" width="100%" height="120"><tbody><tr><td valign="bottom" align="center">
-        	<!-- --------------------------- THE TOP AD -------------------------- -->
-		<iframe src="https://web.archive.org/web/20080206171328/http://hbcuconnect.com/ads/infiniti/ex728x90.html" scrolling="no" frameborder="no" name="leaderboard" id="leaderboard" width="728" height="90"></iframe>
-		<script>document.getElementById('leaderboard').src=ros_leaderboard;</script>
-		<div width="728"><font style="font-family:verdana;font-size:9">(<a href="/advertise.shtml">Advertise Here</a>)</font></div><font style="font-family:verdana;font-size:9">
-        	<!-- --------------------------- THE TOP AD -------------------------- -->
+        <table cellspacing="0" cellpadding="2" bgcolor="#fffff0" width="100%" height="140"><tbody><tr><td valign="top" align="center">
+        	<!-- --------------------------- SEARCH BOX -------------------------- -->
+		<script>
+		function switchAction() {
+	    	document.quicksearch.action = document.quicksearch.search_type[document.quicksearch.search_type.selectedIndex].value;
+		}
+		function submitsearch() {
+	    	document.quicksearch.action = document.quicksearch.search_type[document.quicksearch.search_type.selectedIndex].value;
+	    	if (!document.quicksearch.action) {
+			alert("Use the dropdown box to select a section of the site to search...");
+	    	} else {
+	    		document.quicksearch.submit();
+	    	}
+		}
+		</script>
+
+		<table style="border:1px solid #dddddd" width="728" bgcolor="#f5ecd8" cellpadding="3">
+		<form name="quicksearch" action="/core/cgi-bin/networking/searchMembers.cgi" id="quicksearch"></form>
+		<input type="hidden" name="processSearch" value="1">
+		<input type="hidden" name="submitSearch" value="Start Search!">
+		<tbody><tr><td align="center" nowrap="">
+		<font style="font-size:15;color:#632100"><b>Search Site For</b></font>&nbsp;
+		<select name="search_type" style="font-size:11;weight:normal" onchange="switchAction()">
+		<option value="/core/cgi-bin/searchBlogs.cgi">Articles
+		</option><option value="/careercenter/cgi-bin/searchJobs.cgi">Jobs
+		</option><option value="/core/cgi-bin/marketplace/search.cgi">Products
+		</option><option value="/core/cgi-bin/networking/searchMembers.cgi" selected="">People
+		</option></select>
+		<input name="keywords" size="55" style="font-size:11" value="Enter keyword, name, company, or title..." onfocus="javascript:this.value='';"> 
+		<input type="button" name="go" value="Go" style="font-size:11" onclick="submitsearch()">
+		</td></tr></tbody></table>
+        	<!-- --------------------------- SEARCH BOX -------------------------- -->
+
+
+        	<!-- --------------------------- THE 728x90 AD -------------------------- -->
+
+		<iframe id="a33a79e1" name="a33a79e1" src="http://ads.hbcuconnect.com/adframe.php?n=a33a79e1&amp;what=zone:4&amp;refresh=120" framespacing="0" frameborder="no" scrolling="no" width="728" height="90"><a href='http://ads.hbcuconnect.com/adclick.php?n=a33a79e1' target='_blank'><img src='http://ads.hbcuconnect.com/adview.php?what=zone:4&amp;n=a33a79e1' border='0' alt=''></a></iframe>
+
+        	<!-- --------------------------- THE 728x90 AD -------------------------- -->
+
+		<div width="728"><font style="font-family:verdana;font-size:9">
+		(<a href="/advertise.shtml">Advertise Here</a>)
+		</font></div><font style="font-family:verdana;font-size:9">
+
         </font></td></tr></tbody></table>
 
 
@@ -126,12 +215,12 @@ function mailit() {
         <!--<td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'"
                 class=top_menu><a href=/chat/ch.php target=_blank class=menu_link>Chatroom</a></td>-->
         <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/cgi-bin/scholarships.cgi" class="menu_link">Scholarships</a></td>
-        <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/core/cgi-bin/members.cgi?edit=1" class="menu_link">My Account</a></td>
+        <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/core/cgi-bin/members.cgi?edit=1" class="menu_link">Edit Profile</a></td>
         <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/core/cgi-bin/memberMain.cgi" class="menu_link">My Home</a></td>
         <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/core/cgi-bin/networking/searchMembers.cgi?me=1" class="menu_link">
 		My Profile</a></td>
         <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/core/cgi-bin/networking/friends.cgi" class="menu_link">My Friends</a></td>
-        <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/core/cgi-bin/networking/messages.cgi" class="menu_link">My Inbox</a></td>
+        <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/core/cgi-bin/memberMain.cgi?mail=1" class="menu_link">My Inbox</a></td>
         <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/contact_us.cgi" class="menu_link">Advertise</a></td>
         <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/contact_us.cgi" class="menu_link">Contact Us</a></td>
         <td onmouseout="this.className='top_menu'" onmouseover="this.className='top_menu_on'" class="top_menu"><a href="/siteLogin.cgi?logout=1" class="menu_link">Logout</a></td>
@@ -197,14 +286,15 @@ function mailit() {
 	
         <td align="center" width="20%" bgcolor="white" valign="top" style="">
 
-        <table bgcolor="c2b9a5" cellspacing="0" cellpadding="1" width="100%"><tbody><tr><td>
-        <table bgcolor="f5ecd8" cellspacing="0" cellpadding="2" width="100%">
-        <tbody><tr><td nowrap=""><font color="632100"><b>
+        <table bgcolor="#c2b9a5" cellspacing="0" cellpadding="1" width="100%"><tbody><tr><td>
+        <table bgcolor="#f5ecd8" cellspacing="0" cellpadding="2" width="100%">
+        <tbody><tr><td nowrap=""><font color="#632100"><b>
 		Member Favorites!</b></font></td></tr>
-        <tr bgcolor="fffffe"><td style="font-size:10"><b>
+        <tr bgcolor="#fffffe"><td style="font-size:10"><b>
 
 		<a href="http://jobs.hbcuconnect.com">JOBS</a> | 
 		<a href="http://forums.hbcuconnect.com">Forums</a> | 
+                <a href="/core/cgi-bin/blog.cgi?cid=58">Profiles In Leadership</a> |
 		<a href="/core/cgi-bin/blog.cgi?cid=17">Polls</a> | 
 		<a href="/core/cgi-bin/blog.cgi?cid=11">Links</a> | 
 		<a href="/hbcuprofiles/cgi-bin/hbcuSearch.cgi">HBCU Profiles</a> | 
@@ -220,16 +310,20 @@ function mailit() {
         </td></tr></tbody></table>
 
 	<table cellpadding="0" cellspacing="0" height="9"><tbody><tr><td></td></tr></tbody></table>
+ 
 
 		<table width="100%" cellspacing="0" cellpadding="0">
-		<tbody><tr><td width="80" align="center" bgcolor="993300"><font color="white"><b>
-		Editor's Pick</b></font></td><td>&nbsp;</td></tr>
+		<tbody><tr><td align="center" bgcolor="993300" width="130"><font color="white"><b>
+		Question of The Day</b></font></td><td>&nbsp;</td></tr>
 		</tbody></table>
 		<table width="100%" cellspacing="0" class="data" cellpadding="3">
-		<tbody><tr><td bgcolor="ffffee"><a href="/homecoming.shtml">HBCU Homecoming Dates!</a></td></tr>
-		<tr><td bgcolor="ffffee"><a href="/classics.shtml">HBCU Football Classics!</a></td></tr>
+		<tbody><tr><td bgcolor="ffffee"><a href="/core/cgi-bin/show_member.cgi?confirm_interview=1035">
+		What is the #1 thing you like about HBCUConnect?</a></td></tr>
+		<!--
+		<tr><td bgcolor=ffffee><a href=/homecoming.shtml>HBCU Homecoming Dates!</a></td></tr>
+		<tr><td bgcolor=ffffee><a href=/classics.shtml>HBCU Football Classics!</a></td></tr>
+		-->
 		</tbody></table>
-
 
 
 
@@ -238,15 +332,19 @@ function mailit() {
 
 	        <table width="168" bgcolor="c2b9a5" cellpadding="1" cellspacing="0"><tbody><tr><td>
         	<table width="100%" bgcolor="f5ecd8" cellpadding="7"><tbody><tr><td>
-        	<!-- --------------------------- THE SIDE AD -------------------------- -->
 
-		<iframe src="https://web.archive.org/web/20080206171328/http://hbcuconnect.com/ads/infiniti/ex160x600.html" scrolling="no" frameborder="no" name="skyscraper" id="skyscraper" width="160" height="600"></iframe>
-		<script>document.getElementById('skyscraper').src=ros_skyscraper;</script>
+
+        	<!-- --------------------------- THE 160x600 AD -------------------------- -->
+
+		<iframe id="a50fad19" name="a50fad19" src="http://ads.hbcuconnect.com/adframe.php?n=a50fad19&amp;what=zone:3&amp;refresh=120" framespacing="0" frameborder="no" scrolling="no" width="160" height="600"><a href='http://ads.hbcuconnect.com/adclick.php?n=a50fad19' target='_blank'><img src='http://ads.hbcuconnect.com/adview.php?what=zone:3&amp;n=a50fad19' border='0' alt=''></a></iframe>
+
+        	<!-- --------------------------- THE 160x600 AD -------------------------- -->
+
 		<center>
 		<font style="font-family:verdana;font-size:9">(<a href="/advertise.shtml">Advertise Here</a>)
 		</font></center><font style="font-family:verdana;font-size:9">
 
-        	<!-- --------------------------- THE SIDE AD -------------------------- -->
+
         	</font></td></tr></tbody></table>
         	</td></tr></tbody></table><br>
 
@@ -282,14 +380,15 @@ function mailit() {
 	<table bgcolor="#f5ecd8" width="100%" cellspacing="0" cellpadding="2">
 	<tbody><tr><td><font color="#632100">&nbsp;<b>Who Just Logged In!?</b></font></td></tr>
 	<tr><td>
-	<iframe name="members" src="http://hbcuconnect.com/whosonline.html" width="100%" height="350" frameborder="no"></iframe>
+	<iframe name="members" src="http://hbcuconnect.com/whosonline.html" width="100%" height="480" frameborder="no"></iframe>
 	</td></tr>
-	<tr><td align="center"><b><font>
-        ·<a href="http://hbcuconnect.com/alumnidb/cgi-bin/members.cgi">Sign Up</a>
-        &nbsp; ·<a href="http://hbcuconnect.com/alumnidb/cgi-bin/quickpicks.cgi">
-	More...</a>
-	</font></b></td></tr></tbody></table>
+	<tr><td align="right">
+        <a href="http://hbcuconnect.com/core/cgi-bin/members.cgi">sign up</a> |
+        <a href="http://hbcuconnect.com/core/cgi-bin/networking/friends.cgi?new_folks=1">more--&gt;</a>
+	&nbsp;
 	</td></tr></tbody></table>
+	</td></tr></tbody></table>
+	<br><br>
 
 
 
@@ -311,7 +410,7 @@ function mailit() {
 
 <center>
 <p>
-  <table cellpadding="5" cellspacing="0" width="99%">
+  </p><table cellpadding="5" cellspacing="0" width="99%">
     <tbody><tr>
       <td> 
         <p><font face="Courier New" size="2">HBCUCONNECT.com is committed to 
@@ -412,7 +511,7 @@ function mailit() {
           </font><font size="2">750-Q Cross Pointe Rd. Columbus, Ohio 43230<br>
         </font></p><p><font size="2"><font face="Courier New" size="2">Email: <a href="/contact_us.cgi">THE STAFF</a></font></font></p><font size="2">
         </font></td></tr></tbody></table>
-</p><hr noshade="" size="1" width="500">
+<hr noshade="" size="1" width="500">
   <font face="Arial" size="-2">Copyright © 2000 . All rights 
   reserved. <a href="terms.html">Terms of Service</a></font> 
 
@@ -447,10 +546,10 @@ function mailit() {
                     </script>
     <form name="siteshare" method="POST" action="http://hbcuconnect.com/cgi-bin/siteshare.cgi"> 
     <input type="hidden" name="emailSubject" value="Check out HBCU CONNECT">
-    <input type="hidden" name="landingPage" value="https://web.archive.org/web/20071210124610id_/http%3A//hbcuconnect.com/privacy.shtml">
+    <input type="hidden" name="landingPage" value="https://web.archive.org/web/20080608081821id_/http%3A//hbcuconnect.com/privacy.shtml">
     <input type="hidden" name="websiteName" value="www.HBCUConnect.com">
     <input type="hidden" name="pageTitle" value="">
-    <input type="hidden" name="thisPage" value="https://web.archive.org/web/20071210124610id_/http%3A//hbcuconnect.com/privacy.shtml">
+    <input type="hidden" name="thisPage" value="https://web.archive.org/web/20080608081821id_/http%3A//hbcuconnect.com/privacy.shtml">
     
       <table height="250" class="data" width="300" align="center" cellpadding="5"><tbody><tr><td align="left">
       <font face="verdana" size="1">
@@ -480,10 +579,15 @@ function mailit() {
 
                 </form></td>
                 <td valign="top" align="center">
-		<iframe src="https://web.archive.org/web/20080206171328/http://hbcuconnect.com/ads/infiniti/ex300x250.html" scrolling="no" frameborder="no" name="mediumrectangle" id="mediumrectangle" width="300" height="250"></iframe>
-		<script>document.getElementById('mediumrectangle').src=ros_mediumrectangle;</script>
+		
+		<!-- --------------------------------- 300x250 AD ------------------------------- -->
+		<iframe id="a43f6747" name="a43f6747" src="http://ads.hbcuconnect.com/adframe.php?n=a43f6747&amp;what=zone:7&amp;refresh=120" framespacing="0" frameborder="no" scrolling="no" width="300" height="250"><a href='http://ads.hbcuconnect.com/adclick.php?n=a43f6747' target='_blank'><img src='http://ads.hbcuconnect.com/adview.php?what=zone:7&amp;n=a43f6747' border='0' alt=''></a></iframe>
+		<!-- --------------------------------- 300x250 AD ------------------------------- -->
 
-    </td></tr></tbody></table>
+
+    		</td></tr></tbody></table>
+    
+    
     
 
 </center></td></tr></tbody></table>
@@ -516,14 +620,17 @@ function mailit() {
 
           <font style="font-size:10">©1999-2007 HBCU CONNECT, LLC. All Rights Reserved.</font>
 	  <br><br>
-	  Also Visit: <a href="http://blacknews.com" style="font-weight:normal" target="_blank">BlackNews.com</a>
+	  Also Visit: <a href="http://blacknews.com" style="font-weight:normal" target="_blank">BlackNews.com</a> | 
+		<a href="http://blackhistory.com">BlackHistory.com</a>
 	  <br><br>
       	</td>
     </tr>
   </tbody></table>
 
+
 <script>
 showUpsell();
 </script>
+
 
 </body></html>
