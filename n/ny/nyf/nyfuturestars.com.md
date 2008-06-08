@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nyfuturestars.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225904id_/http%3A//www.nyfuturestars.com/community/viewtopic.php%3Fp%3D309541) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfuturestars.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608232735id_/http%3A//www.nyfuturestars.com/community/viewtopic.php%3Fp%3D309541) for the most accurate reproduction.*
 
-# NYFS ny mets message boards forums minor league discussion group :: View topic - NYFS Privacy Policy
+# ny mets message boards forums mets minor league baseball discussion group :: View topic - NYFS Privacy Policy
 
 [NYFS](http://www.nyfuturestars.com/) Privacy Policy:
 
@@ -20,4 +20,6 @@ We may also share information with third parties in limited circumstances, inclu
 
 You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result.  
 _________________  
-SUPPORT NYFS: [SPRING TRAINING TICKETS](http://www.stubhub.com/new-york-mets-spring-training-tickets/?ticket_finder=5545) | [Plan For Spring Training 2008!](http://www.onhutchinsonisland.com/) | [Get A New Avatar](http://myphotos.nyfuturestars.com/) | [NYFSBlogs.com](http://www.nyfsblogs.com/) | [Add A Blurb](http://www.nyfuturestars.com/index.php?addblurb)
+PLEASE Take a moment today to install the NYFS/Alexa Toolbar. No advertising or spyware. It anonymously tracks your web usage of NYFS so we can demonstrate our audience to sponsors thru a third party and keep paying the bills. The Alexa bar supports Firefox browsers so everyone can help. It takes 30 seconds, and is a HUGE help to NYFS. 
+
+[Click Here To Install The NYFS Toolbar](http://download.alexa.com/?amzn_id=002-7585541-7511218)
