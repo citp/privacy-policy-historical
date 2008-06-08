@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211000259id_/http%3A//www.thedailymash.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608225745id_/http%3A//www.thedailymash.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # The Daily Mash - Privacy Policy
 
@@ -72,5 +72,5 @@ If you have any comments or questions or wish to withdraw your consent please co
 
 * * *
 
-Did you enjoy this article? Please share it!  
-[](http://reddit.com/submit?url=http://www.thedailymash.co.uk/privacy-policy/&title=Privacy%20Policy "Reddit!")[](http://del.icio.us/post?url=http://www.thedailymash.co.uk/privacy-policy/&title=Privacy%20Policy "Del.icio.us!")[](http://www.google.com/bookmarks/mark?op=add&bkmk=http://www.thedailymash.co.uk/privacy-policy/&title=Privacy%20Policy "Google!")[](https://favorites.live.com/quickadd.aspx?marklet=1&mkt=en-us&top=0&url=http://www.thedailymash.co.uk/privacy-policy/&title=Privacy%20Policy "Live!")[](http://www.facebook.com/share.php?u=http://www.thedailymash.co.uk/privacy-policy/&t=Privacy%20Policy "Facebook!")[](http://slashdot.org/bookmark.pl?url=http://www.thedailymash.co.uk/privacy-policy/&title=Privacy%20Policy "Slashdot!")[](http://technorati.com/faves/?add=http://www.thedailymash.co.uk/privacy-policy/ "Technorati!")[](http://www.stumbleupon.com/submit?url=http://www.thedailymash.co.uk/privacy-policy/&title=Privacy%20Policy "StumbleUpon!")[](http://www.newsvine.com/_tools/seed&save?u=http://www.thedailymash.co.uk/privacy-policy/ "Newsvine!")[](http://www.furl.net/storeIt.jsp?u=http://www.thedailymash.co.uk/privacy-policy/ "Furl!")[](http://blogmarks.net/my/new.php?mini=1&simple=1&url=http://www.thedailymash.co.uk/privacy-policy/&title=Privacy%20Policy "Blogmarks!")[](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.thedailymash.co.uk/privacy-policy/ "Yahoo!")
+  
+
