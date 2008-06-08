@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indoarticles.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210105437id_/http%3A//www.indoarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indoarticles.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608043842id_/http%3A//indoarticles.com/privacy.php) for the most accurate reproduction.*
 
-# Free Article Directory
+# indoarticles.com
 
 IndoArticles.com Privacy Policy  
 [Effective 10th. February, 2006]
