@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the freelanceuk.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210144305id_/http%3A//www.freelanceuk.com/about/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelanceuk.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609015545id_/http%3A//www.freelanceuk.com/about/privacy_statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement :: Freelance UK
 
-**1.** | Freelance UK is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK.
+**1.**
+
+**2.**
+
+| 
+
+Freelance UK is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK.  
+
 
 The purpose of this statement is to explain to you what personal information we collect and how we may use it.  
   
-**2.** | When you register we ask you for your email address and employment sector.   
+  
+****|  When you register we ask you for your email address and employment sector.  
 **3.** | We use your personal information to notify you of changes to the website and to send news letters.
 
 We will only contact you with your consent.  
