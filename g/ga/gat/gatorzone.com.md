@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gatorzone.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231130id_/http%3A//gatorzone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorzone.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609014503id_/http%3A//www.gatorzone.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement @ GatorZone.com
 
 **Privacy Statement**
 
-Gatorzone.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website www.gatorzone.com.
+GatorZone.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website www.gatorzone.com.
 
 **Use of Your IP Address**  
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
@@ -12,8 +12,8 @@ We use your IP address to help diagnose problems with our server, and to adminis
 **Cookies**  
 Our site uses cookies to keep track of your shopping cart.
 
-**Links to Sites Outside Gatorzone.com**  
-This site contains links to other sites outside of Gatorzone.com. Gatorzone.com is not responsible for the privacy practices or the content of such Web sites.
+**Links to Sites Outside GatorZone.com**  
+This site contains links to other sites outside of GatorZone.com. GatorZone.com is not responsible for the privacy practices or the content of such Web sites.
 
 **Surveys and Questionnaires**   
 Online surveys may ask visitors for contact information (like their email address), unique identifiers, and demographic information (like their zip code, age, or income level). Contact data from our surveys to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings. Unique identifiers are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
@@ -40,4 +40,4 @@ ATTN: Gatorzone Email
 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: Webmaster Gatorzone.com 2500 Maitland Center Pkwy., Suite 407 Maitland, FL 32751
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: Webmaster GatorZone.com 2500 Maitland Center Pkwy., Suite 407 Maitland, FL 32751
