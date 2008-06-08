@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsoccer.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210162155id_/http%3A//www.worldsoccer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsoccer.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608093903id_/http%3A//www.worldsoccer.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - World Soccer - The leading authority on international football
 
@@ -29,5 +29,5 @@ All rights reserved.
 
 ### Advertisements
 
-### Poll: Who has been the best player of 2007?  
+### Poll: Who will win Euro 2008?  
 
