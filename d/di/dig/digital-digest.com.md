@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digital-digest.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210123712id_/http%3A//www.digital-digest.com/page.php%3Ffile%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digital-digest.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608173544id_/http%3A//www.digital-digest.com/page.php%3Ffile%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Digest
 
