@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geelongadvertiser.com.au privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210212944id_/http%3A//www.geelongadvertiser.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geelongadvertiser.com.au privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608215059id_/http%3A//www.geelongadvertiser.com.au/privacy) for the most accurate reproduction.*
 
-# The Geelong Advertiser
+# Privacy - The Geelong Advertiser
 
 The **Geelong Advertiser** Pty Ltd (TGA) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
 
