@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytondailynews.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210174010id_/http%3A//www.daytondailynews.com/c/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytondailynews.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609011704id_/http%3A//www.daytondailynews.com/c/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # DaytonDailyNews: Dayton, Ohio, news and information
 
