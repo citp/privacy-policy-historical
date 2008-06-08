@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackitt.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210111637id_/http%3A//www.trackitt.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackitt.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608082751id_/http%3A//www.trackitt.com/privacypolicy) for the most accurate reproduction.*
 
 # trackitt: Privacy Policy
 
@@ -46,4 +46,4 @@ We reserve the right, at our discretion, to update or revise the Privacy Policy 
 
 **QUESTIONS**
 
-If you have any questions about this privacy policy, email your questions to support@trackitt.com. 
+If you have any questions about this privacy policy, email your questions to [support@trackitt.com](mailto:support@trackitt.com). 
