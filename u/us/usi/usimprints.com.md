@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usimprints.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211080528id_/http%3A//www.usimprints.com/help/privacy-policy-5.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usimprints.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608224021id_/http%3A//www.usimprints.com/help/privacy-policy-5.htm) for the most accurate reproduction.*
 
 # Privacy Policy - USimprints - Custom Promotional Items
 
