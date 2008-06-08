@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webanalyticsassociation.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210154855id_/http%3A//www.webanalyticsassociation.org/en/cms/%3F609) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticsassociation.org privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608093314id_/http%3A//www.webanalyticsassociation.org/en/cms/%3F609) for the most accurate reproduction.*
 
 # WAA Privacy and Private Information Collection Policies - Web Analytics Association, About Us
 
@@ -23,11 +23,14 @@ However, some WAA events or services may be co-sponsored or provided in connecti
 If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information through the website. This can also be done by contacting us at:
 
 Web Analytics Association  
-2300 M Street  
-Suite 800  
-Washington DC 20037
+401 Edgewater Place  
+Suite 600  
+Wakefield MA 01880 USA  
+Phone +1-781-876-8933  
+Toll Free +1-800-349-1070  
+Fax +1-781-224-1239
 
-1-800-349-1070 or email us at [info@webanalyticsassociation.org](mailto:info@webanalyticsassociation.org).
+Or email us at [info@webanalyticsassociation.org](mailto:info@webanalyticsassociation.org).
 
 ### ANONYMOUS INFORMATION WE COLLECT
 
@@ -74,8 +77,11 @@ Use of this Web site is governed by the provisions contained in the Legal Discla
 For questions or concerns relating to privacy, we can be contacted at:
 
 Web Analytics Association  
-2300 M Street  
-Suite 800  
-Washington DC 20037
+401 Edgewater Place  
+Suite 600  
+Wakefield MA 01880 USA  
+Phone +1-781-876-8933  
+Toll Free +1-800-349-1070  
+Fax +1-781-224-1239
 
-1-800-349-1070 or email us at [info@webanalyticsassociation.org](mailto:info@webanalyticsassociation.org).
+Or email us at [info@webanalyticsassociation.org](mailto:info@webanalyticsassociation.org).
