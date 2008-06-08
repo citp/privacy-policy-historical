@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartfoundation.org.au privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227163814id_/http%3A//www.heartfoundation.org.au/About_Us/Information_About_Us/Privacy_Policy/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartfoundation.org.au privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608212948id_/http%3A//www.heartfoundation.org.au/About_Us/Information_About_Us/Privacy_Policy/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # About Us - Information about Us - Privacy Policy
 
@@ -8,7 +8,7 @@ Updated: 20 May 2005
 
 Please contact our Privacy Manager if you require any further information regarding our privacy policy. 
 
-The Heart Foundation is Australias leading heart health charity, saving lives through heart health research, community education programs and services to patients. The Heart Foundation is funded almost entirely by public donations and gifts from people's Wills. 
+The Heart Foundation is Australia's leading heart health charity, saving lives through heart health research, community education programs and services to patients. The Heart Foundation is funded almost entirely by public donations and gifts from people's Wills. 
 
 The Heart Foundation was established in 1959 and since then has played a leading role in decreasing the incidence of death from heart disease by almost 70%. Despite this success, heart disease remains the biggest cause of premature death in Australia today and the Heart Foundation works to help all Australians live longer healthier lives. 
 
@@ -50,11 +50,11 @@ How we collect your personal information
 
 We collect your personal information when you provide it to the Heart Foundation in a number of ways including: 
 
-\- through a call to Heartline, our health information service 
+  * through a call to Heartline, our health information service 
+  * by participating in one of the Heart Foundation's many community fundraising and information events 
+  * when you respond to our fundraising mail. 
 
-\- by participating in one of the Heart Foundations many community fundraising and information events 
 
-\- when you respond to our fundraising mail. 
 
 We may also collect your personal information from publicly available sources such as the telephone directory. 
 
@@ -74,7 +74,7 @@ The Heart Foundation will not provide your personal information to any overseas 
 
 Visiting our website 
 
-When you visit our website, you can browse at your leisure. The Heart Foundation does not use "cookies" to track your movements through the information section of our website or your visits to other websites. The Heart Foundation will only place a "cookie" on your computer for (a) the purposes of tracking navigation and/or (b) to track items added to the e-commerce facility when you make an online donation to the Heart Foundation or purchase a Heart Foundation product. Our third party credit card transaction processor, CardGate.net, uses "cookies" for transaction integrity and anti-fraud purposes. This provider is compliant with the National Privacy Principles and will not utilise your details for any activity other than supporting the primary purpose of making a donation to the Heart Foundation or purchasing a Heart Foundation product.
+When you visit our website, you can browse at your leisure. The Heart Foundation does not use "cookies" to track your movements through the information section of our website or your visits to other websites. The Heart Foundation will only place a "cookie" on your computer for (a) the purposes of tracking navigation and/or (b) to track items added to the e-commerce facility when you make an online donation to the Heart Foundation or purchase a Heart Foundation product. Our third party credit card transaction processor, CardGate.net, uses "cookies" for transaction integrity and anti-fraud purposes. This provider is compliant with the National Privacy Principles and will not utilise your details for any activity other than supporting the primary purpose of making a donation to the Heart Foundation or purchasing a Heart Foundation product. 
 
 Cardgate's privacy policy can be accessed here. 
 
@@ -104,4 +104,4 @@ If you would like to access the information that we hold about you, you can writ
 
 If the information that we hold about you is incorrect or not up-to-date, we will update it as soon as possible after you have shown us how and why it is incorrect. 
 
-In the unlikely event that we are unable to provide you with access to your personal information for legal reasons as specified in the Privacy Act, we will provide you with reasons for denying access.
+In the unlikely event that we are unable to provide you with access to your personal information for legal reasons as specified in the Privacy Act, we will provide you with reasons for denying access. 
