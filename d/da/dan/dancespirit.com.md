@@ -1,66 +1,26 @@
-> *The following text is extracted and transformed from the dancespirit.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612083453id_/http%3A//dancespirit.com/%3Fid%3Ddsprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancespirit.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608184615id_/http%3A//www.dancespirit.com/privacy) for the most accurate reproduction.*
 
-# Dance Spirit: Privacy Policy
+# None
 
-Macfadden Performing Arts Media, LLC., is committed to respecting your privacy on our website. The following statement describes how we gather and use information from our visitors. This statement discloses the privacy practices for all Macfadden Performing Arts Media websites, including [dancemedia.com](https://web.archive.org/web/20070612083453id_/http%3A//dancespirit.com/index.php?id=mpamhome) [americancheerleader.com](http://www.americancheerleader.com/ "americancheerleader.com"), [cheerbiznews.com](http://www.cheerbiznews.com/ "www.cheerbiznews.com"), [dancemagazine.com](http://www.dancemagazine.com/ "Opens external link in new window"), [dancespirit.com](http://www.dancespirit.com/ "Opens external link in new window"), [dance-teacher.com](http://www.dance-teacher.com/ "Opens external link in new window"), [pointemagazine.com](http://www.pointemagazine.com/ "Opens external link in new window") and [danceretailernews.com](http://www.danceretailernews.com/ "Opens external link in new window") where you can expect to be notified of: 
+At _Dance Spirit,_ we respect your right to privacy and we understand that users of the __Dance Magazine__ Web site need to be in control of their personal information. "Personal information" includes, but is not limited to, name, address, telephone number, email address and credit card information _Dance Spirit_ does not sell, rent, swap or otherwise disclose any of this information. _  
+Dance Spirit_ adopted this Privacy Policy to inform users of the _Dance Spirit_ Internet site how the site does collect, store and use personal information submitted via the site. 
 
-  * what personally identifiable information of yours or third-party personally identifiable information is collected from you 
-  * who is collecting that information 
-  * how the information is used 
-  * with whom the information may be shared 
-  * the site's choices regarding collection, use and distribution of your information 
-  * the security procedures in place to protect the information from loss, misuse or alteration 
+**1\. Collection of Information**   
+Certain applications on the _Dance Spirit_ Web site may require users to register or to provide personal information in order to make a commerce transaction, to enter a contest, or to subscribe to a newsletter. Such personal information is not shared or sold to third parties. To better understand the needs of our Web site users, we may also request demographic information. Entry of such information is optional and if you choose not to enter such information, you can successfully use these applications. If we request demographic information, we will not share information about you as an individual with any other entity. If we do share demographic information with third parties, we will give them aggregate information only. 
 
+**2\. Mailing Lists**  
+If you provide your email address _Dance Spirit_ may contact you periodically with special offers, updated information and new services. Any emails sent to you by the _Dance Spirit_ offer you the option to be removed from the email mailing list. 
 
+**3\. Information to third parties**  
+_Dance Spirit_ may occasionally present a special contest or promotion on its Web site that is sponsored by another company. To qualify for entry, we may ask you to provide personal information. If we plan to share that information with the sponsor(s), we will provide a statement to that effect. 
 
-Questions regarding this statement should be directed to the Macfadden Performing Arts Media website coordinator by writing to: Macfadden Performing Arts Media Privacy Policy, 110 William St, 23rd Fl, New York, NY 10038. 
+**4\. Financial information**   
+_Dance Spirit_ will protect any personal financial information that you share with us. If you make a purchase online,  we will use your credit card number only to process your payment and will not use it for marketing purposes. For reasons of security, credit card information is not stored on our Web server. We will retain order information for our records, but this information is never shared with third parties. 
 
-#### About Information We Collect
+**5\. Links**  
+Our site includes links to other Web sites whose privacy policies we don't control. Once you leave our servers (you can check where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. _Dance Spirit_ is not responsible for the privacy practices or the content of such Web sites. 
 
-Macfadden Performing Arts Media collects two types of information about our visitors: (1) aggregated (collective) data that tracks visitors as a group, and (2) individual user data that is volunteered. 
+**6\. Children**   
+We do not solicit personal information from children. Sites specifically geared toward children will not request any personal or contact information. 
 
-#### Aggregated Data
-
-Macfadden Performing Arts Media gathers aggregated data to monitor visitor activity on the site as a whole. This data does not identify you personally. Aggregated tracking allows us to monitor traffic on the site to determine which areas of Macfadden Performing Arts Media are most attractive to visitors. This type of information helps us to make improvements and to add new features and services based on visitor interests. We may disclose this aggregated information to third parties such as our advertisers and partners. 
-
-#### Individual User Data 
-
-We request individual user data when you voluntarily register onsite for personalized services, or when you register for contests, sweepstakes, or other promotional programs. For example, we may require you to provide us with certain information such as a user ID, password, e-mail address, or date of birth. Except as explained below, this information will not be disclosed to parties other than Macfadden Performing Arts Media in any way that personally identifies you, without prior notification. 
-
-If you are under 13 years old, under no circumstances should you send us any personally identifying information. 
-
-#### How We Collect Information 
-
-Like most other websites, Macfadden Performing Arts Media's servers automatically track certain information about your activity. This information includes:
-
-  * the browser you are using
-  * your IP address 
-  * the referring URL and all Macfadden Performing Arts Media URLs you visit 
-
-
-
-#### Cookies
-
-We use cookies on certain pages of our site to help us establish traffic patterns on Macfadden Performing Arts Media sites. One way that cookies are used is to allow you to store your user name and password without having to frequently reenter it during a session. Cookies also help us tailor content, special features and marketing messages that match your interests. Cookies are stored on your hard drive, not on Macfadden Performing Arts Media's servers. You are always free to set your browser to decline our cookies and you can delete cookies on your computer. However if you do so, you may find that some areas of our site may not work properly and you will be required to reenter your password more frequently during a session. 
-
-Macfadden Performing Arts Media places advertising on our site that originates from the outside advertiser or its agency. At times, the advertiser may assign a cookie if you click on its banner or ad. Macfadden Performing Arts Media does not control these cookies. Again, cookies are stored on your hard drive, not on Macfadden Performing Arts Media's servers. 
-
-#### How We Use Information We Collect
-
-Except as described below, we do not provide your personally identifiable information to anyone outside of Macfadden Performing Arts Media. However, on certain pages, such as contests, we may collect your volunteered personally identifiable data. We will explicitly tell you that the data you give us will be shared with third parties, such as an advertiser. Such disclosures will override anything to the contrary stated in this policy. 
-
-#### Macfadden Performing Arts Media Content Providers & Advertisers
-
-We do not give your personal information to anyone outside of Macfadden Performing Arts Media except in limited circumstances mentioned above, such as contests, and then only with your consent. However, Macfadden Performing Arts Media sites contain links to other sites and those sites may not follow the same privacy policies as Macfadden Performing Arts Media. For example, when you click on an ad on a Macfadden Performing Arts Media site or purchase a product using links on Macfadden Performing Arts Media Marketplace, this can take you away from our site to the advertiser's site. These links include advertisers, content providers, retailers and business partners who may use the Macfadden Performing Arts Media logo and/or style as part of a co-branding agreement. These sites may send their own cookies to you, and as a result, may collect data and ask for personal information. 
-
-If you have provided personal information to a company or advertiser that is linked to Macfadden Performing Arts Media and have not been informed by Macfadden Performing Arts Media as to how such information will be used, or if you want to understand the privacy practices of such company or advertiser, you should contact that company or advertiser directly. You can do this by going to their website's home page and looking for a company profile or contact information area on the site. 
-
-#### Contests and Other Promotions
-
-To participate in contests and other promotions offered on Macfadden Performing Arts Media sites, you are asked to provide certain personal information on a voluntary basis. The contest rules are prominently posted during the duration of the event, including how data gathered from entrants will be used. All contests are conducted in full accordance with U.S. federal and state laws. 
-
-If you are under 13 years old, under no circumstances should you send us any personally identifying information. 
-
-#### Data Security
-
-Macfadden Performing Arts Media employs industry-standard practices for safeguarding the personal information of our visitors. Database security and web server encryption (Secure Socket Layers) for transactions in our online store are standard practices on Macfadden Performing Arts Media sites.
+  _Dance Spirit_ would like to receive your comments and any questions about this policy. Please address comments or questions regarding _Dance Spirit's_ privacy practices to us on our [Contacts](https://web.archive.org/contact/talk-to-us) page. _Dance Spirit_ may occasionally update this policy. Notice of revisions will be posted here.
