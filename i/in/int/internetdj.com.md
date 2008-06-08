@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210105149id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608075507id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
 
 # Privacy Statement for InternetDJ.com
 
-[](https://web.archive.org/search.php?query=&topic=31)
+[](https://web.archive.org/search.php?query=&topic=43)
 
 InternetDJ is committed to providing quality online activities and information to fans. While we encourage the interactive nature of online media, we strive to ensure the online safety and privacy of our visitors. 
 
 Information Collection Policies We may request personally identifiable information from visitors who choose to participate in certain activities as described below. Our information practices are described below. 
 
 Third Party Advertising  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.maxonline.com/privacy_policy/index.php). 
+This website may utilize certain services provided by DoubleClick, Inc. (DoubleClick). For further information concerning DoubleClick's privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go [here](http://www.doubleclick.com/us/about_doubleclick/privacy/). 
 
 Third Party Cookies  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
@@ -52,15 +52,7 @@ New York, New York 10004
 
 This policy, like the online medium itself, is subject to change. 
 
-### Article Comments
-
-  
- _ **No comments found for this article**_  
-
-
-### Post Your Comment
-
 **You need to be logged in** in order to post your comments. 
 
-[**Click Here**](https://web.archive.org/web/20071210105149id_/http%3A//www.internetdj.com/user.php?action=login) to login or register if you don't have an account.   
+[**Click Here**](https://web.archive.org/web/20080608075507id_/http%3A//www.internetdj.com/user.php?action=login) to login or register if you don't have an account.   
 
