@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eguide.co.th privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210140901id_/http%3A//www.eguide.co.th/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eguide.co.th privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609015849id_/http%3A//www.eguide.co.th/privacy.asp) for the most accurate reproduction.*
 
-# eGuide Thailand (TH) - Asia's Leading Directory
-
- Privacy Policy
+# 
 
 Your privacy is important to us and is taken seriously. This Privacy Statement covers how we at eGuide treat personal information about you that is personally identifiable like your name, address, email address, or phone number. If you have voluntarily provided information and unless otherwise informed by you, we will deem that you have consented to the collection and use of your personally identifiable information as described in this Privacy Statement. 
 
