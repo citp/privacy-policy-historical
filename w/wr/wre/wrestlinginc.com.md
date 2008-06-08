@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211042135id_/http%3A//www.wrestlinginc.com/pages/winc_privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609001430id_/http%3A//www.wrestlinginc.com/pages/winc_privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - WrestlingInc.com
 
-[](https://web.archive.org/pages/winc_home.html) |  | Add WrestlingInc.com  
-to your Favorites! | [](http://www.mmafightline.com/ "Get the latest MMA News at MMAFightLine.com") | Get UFC &  
+[](https://web.archive.org/pages/winc_home.html) | Add  
+WrestlingInc.com  
+to your Favorites! | [](http://www.fightline.com/ "Get the latest MMA News at FightLine.com") | Get UFC &  
 MMA news at  
-[MMAFightLine.com](http://www.mmafightline.com/) | [](http://www.tnawrestling.com/ "Watch TNA Impact! on Spike") |   
----|---|---|---|---  
-| [Home](https://web.archive.org/pages/winc_home.html "Home") |  | [News](https://web.archive.org/news/pro_wrestling_news.shtml "News") |  | [Top Stories](https://web.archive.org/news/pro_wrestling_top_stories.shtml "Top Stories") |  | [WWE News](https://web.archive.org/news/wwe_news.shtml "WWE News") |  | [TNA News](https://web.archive.org/news/tna_news.shtml "TNA News") |  | [Wrestlers](https://web.archive.org/wrestlers/wrestlers.shtml "Wrestlers") |  | [Store](https://web.archive.org/pages/winc_store.shtml "Store") |  | [Contact Us](https://web.archive.org/pages/winc_contact_us.shtml "Contact Us") |  [Email Updates](https://web.archive.org/pages/winc_email_updates.shtml "Email Updates")  |  [RSS Feeds](https://web.archive.org/rss/winc_rss.shtml "RSS Feeds")   | [](https://web.archive.org/rss/winc_rss.shtml "RSS Feeds")  
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-|    
+[FightLine.com](http://www.fightline.com/) | [](http://www.tnawrestling.com/ "Watch TNA Impact! on Spike") |   
+|  |   
+---  
+[](http://www.myreg.net/checkform?force_form=1&form_id=12925)  
   
-|   
+  
+  
 ---  
   
-Who will win the Orton - Y2J match at Armageddon?
+How would you rate _WWE One Night Stand_?
 
- **    Randy Orton  
-   Chris Jericho  
-   Can't Say  
+ **    Good  
+   Average  
+   Poor  
+   Didn't Watch It  
 **   
   
   
@@ -73,9 +75,7 @@ Last updated as of August 29, 2007
 
   
   
-  
-  
 [ Add To Favorites | [Contact Us](https://web.archive.org/pages/winc_contact_us.shtml "Contact Us") | [Recommend Us](https://web.archive.org/pages/winc_recommend_us.shtml "Recommend Us") | [Privacy Policy](https://web.archive.org/pages/winc_privacy_policy.shtml "Privacy Policy") | [Staff](https://web.archive.org/pages/winc_staff.shtml "Staff") | [Email Updates](https://web.archive.org/pages/winc_email_updates.shtml "Email Updates") ]  
-© 2007 [WrestlingInc.com](https://web.archive.org/ "WrestlingInc.com").   All Rights Reserved.  
+© 2008 [WrestlingInc.com](https://web.archive.org/ "WrestlingInc.com").   All Rights Reserved.  
   
 [](https://web.archive.org/rss/winc_rss.shtml "RSS Feeds")
