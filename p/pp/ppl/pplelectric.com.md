@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210140414id_/http%3A//www.pplelectric.com/nav/footer/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608141830id_/http%3A//www.pplelectric.com/nav/footer/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -88,7 +88,7 @@ Please be advised, however, that although PPL has endeavored to create a secure 
 
 **Opt-Out Right**
 
-To the extent possible, PPL offers Users of this Site the ability to avoid the collection of their personal data by "opting-out." For instance, a User can opt out of having their personal information used by PPL for marketing purposes. Users can opt out by checking the appropriate box when the data is collected, or may opt out at any time by writing to PPL, attention: Corporate Internet/Privacy Policy, GENTW4, 2 N. Ninth St., Allentown, Pa., 18101; calling 610-774-5192; or e-mailing us at [privacypolicy@pplweb.com](mailto:privacypolicy@pplweb.com). 
+To the extent possible, PPL offers Users of this Site the ability to avoid the collection of their personal data by "opting-out." For instance, a User can opt out of having their personal information used by PPL for marketing purposes. Users can opt out by checking the appropriate box when the data is collected, or may opt out at any time by writing to PPL, attention: Corporate Internet/Privacy Policy, GENTW4, 2 N. Ninth St., Allentown, Pa., 18101; calling 610-774-6494; or e-mailing us at [privacypolicy@pplweb.com](mailto:privacypolicy@pplweb.com). 
 
 **Access and Ability to Correct Personal Information**
 
@@ -100,7 +100,7 @@ At any time, a User may contact PPL via postal mail, E-mail, or phone to request
 
 • removal of the User's personal data record from PPL's database. 
 
-Users may send their requests by mail to PPL, attention: Corporate Internet/Privacy Policy, GENTW4, 2 N. Ninth St., Allentown, Pa., 18101, or may call 610-774-5192, or may send an e-mail to [privacypolicy@pplweb.com](mailto:privacypolicy@pplweb.com). In the event PPL receives such a request, PPL may require the User to confirm or verify any change to the User's personal record.
+Users may send their requests by mail to PPL, attention: Corporate Internet/Privacy Policy, GENTW4, 2 N. Ninth St., Allentown, Pa., 18101, or may call 610-774-6494, or may send an e-mail to [privacypolicy@pplweb.com](mailto:privacypolicy@pplweb.com). In the event PPL receives such a request, PPL may require the User to confirm or verify any change to the User's personal record.
 
 **Collection of Personal Information from Children**
 
@@ -108,7 +108,7 @@ This Site is not primarily intended for individuals under the age of 18 ("childr
 
 Accordingly, PPL will not knowingly collect or post information from children without parental or guardian consent. Moreover, PPL will not knowingly use any personal data collected from children for any purpose whatsoever, including disclosure to any third-party. 
 
-If a child provides us with personally identifiable information, a parent or guardian of that child may have that information deleted from our records by contacting us at PPL, attention: Corporate Internet/Privacy Policy, GENTW4, 2 N. Ninth St., Allentown, Pa., 18101; calling 610-774-5192; or e-mailing us at [privacypolicy@pplweb.com](mailto:privacypolicy@pplweb.com). 
+If a child provides us with personally identifiable information, a parent or guardian of that child may have that information deleted from our records by contacting us at PPL, attention: Corporate Internet/Privacy Policy, GENTW4, 2 N. Ninth St., Allentown, Pa., 18101; calling 610-774-6494; or e-mailing us at [privacypolicy@pplweb.com](mailto:privacypolicy@pplweb.com). 
 
 **Future Changes**
 
@@ -118,6 +118,6 @@ Last modified: Jan. 4, 2005.
 
 **Questions**
 
-PPL welcomes questions or comments Users may have regarding this Privacy Policy or the use of your personal data. Please send any questions or comments to PPL at attention: Corporate Internet/Privacy Policy, GENTW4, 2 N. Ninth St., Allentown, Pa., 18101, or call 610-774-5192, or send an e-mail to [privacypolicy@pplweb.com](mailto:privacypolicy@pplweb.com). 
+PPL welcomes questions or comments Users may have regarding this Privacy Policy or the use of your personal data. Please send any questions or comments to PPL at attention: Corporate Internet/Privacy Policy, GENTW4, 2 N. Ninth St., Allentown, Pa., 18101, or call 610-774-6494, or send an e-mail to [privacypolicy@pplweb.com](mailto:privacypolicy@pplweb.com). 
 
 | 
