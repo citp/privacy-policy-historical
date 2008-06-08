@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgehound.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210215600id_/http%3A//www.knowledgehound.com/newsltr/nprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgehound.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608220154id_/http%3A//www.knowledgehound.com/newsltr/nprivacy.htm) for the most accurate reproduction.*
 
 # 'One Smart Puppy' Newsletter Privacy Policy
 
@@ -10,7 +10,7 @@ For the convenience and security of our subscribers and our company, Knowledge H
 
 #### Newsletter Subscriber List Information Collection
 
-We collect the information that is requested on the newsletter signup form. We may collect the domain name or IP address of the subscriber as proof of signup in the event that we are accused of sending unsolicited email. We may collect clickstream information, which tells us what you have clicked on. (For our Website Privacy Policy, click [here](https://web.archive.org/web/20071210215600id_/http%3A//www.knowledgehound.com/privacy.htm).) We may collect information volunteered by you in the form of survey information. Newsletters may include information from third party providers for products and services which may be advertised or promoted within the newsletter. The privacy policies of those third-party provider sites govern the method by which they collect and use information.
+We collect the information that is requested on the newsletter signup form. We may collect the domain name or IP address of the subscriber as proof of signup in the event that we are accused of sending unsolicited email. We may collect clickstream information, which tells us what you have clicked on. (For our Website Privacy Policy, click [here](https://web.archive.org/web/20080608220154id_/http%3A//www.knowledgehound.com/privacy.htm).) We may collect information volunteered by you in the form of survey information. Newsletters may include information from third party providers for products and services which may be advertised or promoted within the newsletter. The privacy policies of those third-party provider sites govern the method by which they collect and use information.
 
 #### Use Of Information Collected
 
@@ -32,6 +32,6 @@ In the unlikely event that we decide to use customer information for new, unanti
 
 To report any abuse or violations of this Newsletter Privacy Policy, please send an email to [abuse@mailermailer.com](mailto:abuse@mailermailer.com) and attach an unedited copy of the email message that you feel was sent to you in error or without your permission. Include all header information so that MailerMailer.com can trace origin of the message. Also include any notes or other information that you feel are pertinent.
 
-[Go to the Knowledge Hound sitemap.](https://web.archive.org/web/20071210215600id_/http%3A//www.knowledgehound.com/newsltr/index.htm)
+[Go to the Knowledge Hound sitemap.](https://web.archive.org/web/20080608220154id_/http%3A//www.knowledgehound.com/newsltr/index.htm)
 
-© Copyright 1997-2007 by Knowledge Hound, LLC. All rights reserved.
+© Copyright 1997-2008 by Knowledge Hound, LLC. All rights reserved.
