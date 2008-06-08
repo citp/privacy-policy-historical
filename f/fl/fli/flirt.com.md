@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirt.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025034254id_/http%3A//www.flirt.com/hilfe/datenschutz.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirt.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609012806id_/http%3A//www.flirt.com/hilfe/datenschutz.php) for the most accurate reproduction.*
 
 # FLIRT.com - Online Dating for Cool People
 
@@ -50,15 +50,3 @@ We give you the opportunity to opt-out of certain communications and modify pers
 If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at legal@Flirt.com. You can also send us mail to: Flirt.com, Privacy Department, PO Box 34987, Los Angeles, CA 90034-0987.  
   
 | 
-
-[](https://web.archive.org/vcard/up2nogood04nc/ "up2nogood04nc")
-
-  * North Carolina
-  * Age: 33
-  * Search: 
-
-
-
-[](https://web.archive.org/vcard/hausenheimer/ "hausenheimer")
-
-[](https://web.archive.org/vcard/cutekatty/ "cutekatty")
