@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225133929id_/http%3A//www.lululemon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608044656id_/http%3A//www.lululemon.com/privacy) for the most accurate reproduction.*
 
-# lululemon athletica | privacy policy
+# lululemon athletica | yoga-inspired athletic apparel | privacy policy
 
 ## Your Privacy: Overview
 
-This privacy policy (this "Privacy Policy") tells you about the information that lululemon athletica, inc. ("lululemon," "we," "us" or "our") collects in connection with the operation of its websites, including [www.lululemon.com](http://www.lululemon.com/) and [www.lululemon.ca](http://www.lululemon.ca/) (collectively, the "Site"), how the information is used and how you can access and correct certain information that we may collect. 
+This privacy policy (this "Privacy Policy") tells you about the information that lululemon athletica, inc. ("lululemon," "we," "us" or "our") collects in connection with the operation of its websites, including www.lululemon.com and www.lululemon.ca (collectively, the "Site"), how the information is used and how you can access and correct certain information that we may collect. 
 
 Please note that this Privacy Policy applies only to information collected from you by lululemon via the Site and does not apply to information obtained or disclosed in offline correspondence, at our stores or through other personal contacts with lululemon representatives. Further, the Site may contain links to other entities' websites that are not controlled or operated by lululemon. This Privacy Policy does not apply to such third party websites, and lululemon is not responsible for the content of such third party websites or the privacy practices of such third parties. Therefore, we encourage you to request and review the privacy policies of any third parties upon disclosing your information such parties or visiting such third party websites. 
 
 This Privacy Policy is effective as of September 18, 2007.
 
+This Privacy Policy was last updated April 15, 2008.
+
 ## Collection of Your Information
 
-You can access some areas of the Site without submitting any personally identifiable information. lululemon collects personally identifiable information only if you choose to complete the online forms to contact us, provide design or product feedback or to request information or assistance through the Site. The personally identifiable information that lululemon collects through these portions of the Site includes your name, e mail address, address and telephone number. You represent and warrant that you have the right and authority to provide any information provided by you. lululemon may also collect certain non personally identifiable information in connection with the operation of the Site, including IP addresses, browser or operating system information, data on advertisements or links on which you click, and the websites that you visit before or after you visit the Site. Such information is maintained by lululemon or service providers acting on behalf of lululemon.
+You can access some areas of the Site without submitting any personally identifiable information. lululemon collects personally identifiable information only if you choose to complete the online forms to contact us, complete a profile and/or upload goals, provide design or product feedback or to request information or assistance through the Site. The personally identifiable information that lululemon collects through these portions of the Site includes your name, username, password, e mail address, address and telephone number and any other personally identifiable information that you choose to include in your profile or in your submissions of your goals to us. You represent and warrant that you have the right and authority to provide any information provided by you. lululemon may also collect certain non personally identifiable information in connection with the operation of the Site, including IP addresses, browser or operating system information, data on advertisements or links on which you click, and the websites that you visit before or after you visit the Site. Such information is maintained by lululemon or service providers acting on behalf of lululemon. Other users of the Site will be able to view your profile and goals.
 
 ## Protection of Your Information
 
@@ -36,7 +38,7 @@ Personally identifiable information collected on the Site may be stored and proc
 
 We may disclose your personally identifiable information to our subsidiaries or affiliates and to third party partners whom we occasionally hire to provide services on our behalf, including support services, website services, delivering promotional materials, answering customer questions about our services and new services. lululemon will only provide those third party partners with the personally identifiable information they need to deliver the services to us and/or on our behalf, and they will be contractually prohibited from using that information for any other purpose. In the event that lululemon is involved in a transaction such as a merger, stock purchase or sale, or sale of substantially all of lululemon's assets, your personal information may be transferred to the other party in such transaction.
 
-lululemon reserves the right to disclose your personally identifiable information if required to do so by law or legal process or otherwise requested by any law enforcement officer or agency acting under color of law. In addition, lululemon reserves the right to disclose your personally identifiable information based on the good faith belief that such action is necessary or appropriate to: **(a)** protect and defend the rights or property of lululemon, or **(b)** act in urgent circumstances to protect the safety or security of the public or of users of the lululemon's products and/or the Site.
+lululemon reserves the right to disclose your personally identifiable information if required to do so by law or legal process or otherwise requested by any law enforcement officer or agency acting under color of law. In addition, lululemon reserves the right to disclose your personally identifiable information based on the good faith belief that such action is necessary or appropriate to: (a) protect and defend the rights or property of lululemon, or (b) act in urgent circumstances to protect the safety or security of the public or of users of the lululemon's products and/or the Site.
 
 ## Retention of Your Personally Identifiable Information
 
@@ -44,7 +46,7 @@ The personally identifiable information that you provide will be stored and main
 
 ## Children's Privacy
 
-Although the Site is intended for the use of adults, and is not of likely interest to children, the forms on the Site are capable of collecting online contact information from children who furnish it without prior parental consent or parental notification. lululemon does not intend to collect the personally identifiable information of children under the age of 13. Upon discovery that any such information has been supplied by children, lululemon will disregard and delete such information.
+lululemon recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. This Site is not intended for children under the age of 13. lululemon does not target its services or this Site to children under 13. lululemon does not knowingly collect personally identifiable information from children under the age of 13.
 
 ## Choice and Opt-Out Preferences
 
@@ -60,7 +62,7 @@ By using the Site, you agree to this Privacy Policy. If you do not agree to this
 
 ## Questions or Comments
 
-lululemon welcomes questions and comments about this Privacy Policy. Questions or comments should be directed to, David Negus who oversees lululemon's compliance with privacy requirements at:
+lululemon welcomes questions and comments about this Privacy Policy. Questions or comments should be directed to David Negus who oversees lululemon's compliance with privacy requirements at:
 
 ###### lululemon athletica inc.
 
