@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitesays.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211100306id_/http%3A//www.sitesays.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitesays.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609003659id_/http%3A//www.sitesays.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # SiteSays - Privacy
 
