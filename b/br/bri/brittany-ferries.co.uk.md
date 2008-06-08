@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brittany-ferries.co.uk privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425125045id_/http%3A//www.brittany-ferries.co.uk/index.cfm%3Farticleid%3D29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brittany-ferries.co.uk privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608174110id_/http%3A//www.brittany-ferries.co.uk/helpful-information/security-privacy) for the most accurate reproduction.*
 
-# Brittany Ferries - Security and Privacy - Helpful Information
+# Brittany Ferries - Security and Privacy
 
 Brittany Ferries is strongly committed to conforming to the Data Protection Act (1998) and to protecting your privacy and providing a safe online experience for all our users. This Privacy Policy applies to information collected online throughout Brittany Ferries Web site. 
 
