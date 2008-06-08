@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortgage101.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234203id_/http%3A//mortgage101.com/Privacy.asp%3Fp%3Dmtg101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgage101.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608233604id_/http%3A//www.mortgage101.com/Privacy.asp%3Fp%3Dmtg101) for the most accurate reproduction.*
 
 # Privacy Policy
 
