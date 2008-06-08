@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidehoops.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220133id_/http%3A//www.insidehoops.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidehoops.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608235532id_/http%3A//www.insidehoops.com/privacy.shtml) for the most accurate reproduction.*
 
 # InsideHoops.com - Privacy Policy
 
