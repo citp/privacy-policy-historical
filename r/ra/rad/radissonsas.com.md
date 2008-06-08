@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radissonsas.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210122957id_/http%3A//www.radissonsas.com/cs/Satellite%3Fc%3DPage%26cid%3D1056653208471%26language%3Den%26pagename%3DRadissonSAS%252FPage%252FrsasSimpleArticle) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radissonsas.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608084956id_/http%3A//www.radissonsas.com/cs/Satellite%3Fc%3DPage%26cid%3D1056653208471%26language%3Den%26pagename%3DRadissonSAS%252FPage%252FrsasSimpleArticle) for the most accurate reproduction.*
 
 # Radisson SAS Hotels & Resorts - Privacy Policy
 
