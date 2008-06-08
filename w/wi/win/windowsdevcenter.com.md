@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windowsdevcenter.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211113413id_/http%3A//www.windowsdevcenter.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsdevcenter.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609013542id_/http%3A//www.windowsdevcenter.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
-# ONJava.com -- Privacy Policy
+# O'Reilly Network -- Privacy Policy
 
   
 
