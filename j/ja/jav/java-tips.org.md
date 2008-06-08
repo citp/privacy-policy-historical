@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the java-tips.org privacy policy that was archived on 2007-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071021075835id_/http%3A//www.java-tips.org/site-documentation/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the java-tips.org privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608081813id_/http%3A//www.java-tips.org/site-documentation/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Java Tips - Privacy Policy
 
@@ -23,15 +23,9 @@ Java Network
 |  [Java Forums](http://www.java-forums.org/)  
   
 ---  
-[Java Headlines](http://www.java-headlines.org/)  
-  
-[Java Planet](http://www.planet-java.org/)  
-  
 [Java Tips Blog](http://www.java-tips.org/blog/)  
   
-[Eclipse Blog](http://www.eclipse-blog.org/)  
   
-[NetBeans Blog](http://www.netbeans-blog.org/)  
   
   
 Most Visited Tips   
@@ -63,7 +57,7 @@ Top Rated Tips
 
 Statistics   
 ---  
-| Registered Users: | 768  
+| Registered Users: | 769  
 ---|---  
 Java SE Tips:|  614  
 Java ME Tips:|  201  
@@ -73,21 +67,6 @@ Java Applications:|  298
 Java Libraries:|  209  
 Java Games:|  16  
 Book Reviews: |   
-Tips Network   
----  
-| [Java Tips](http://www.java-tips.org/)  
----  
-[Science Tips](http://www.science-tips.org/)  
-[Biology Tips](http://biology.science-tips.org/)  
-[Chemistry Tips](http://chemistry.science-tips.org/)  
-[Civil Engineering Tips](http://civil-engineering.science-tips.org/)  
-[Computer Engineering Tips](http://computer-engineering.science-tips.org/)  
-[Mathematics Tips](http://mathematics.science-tips.org/)  
-[Medicine Tips](http://medicine.science-tips.org/)  
-[Physics Tips](http://physics.science-tips.org/)  
-[Unix Tips](http://www.unix-tips.org/)  
-  
-  
    
    
   |  |  Privacy Policy  |  [ ](http://www.java-tips.org/index2.php?option=com_content&task=emailform&id=152&itemid=99999999 "E-mail")  
