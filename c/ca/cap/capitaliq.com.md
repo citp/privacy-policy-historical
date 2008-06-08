@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitaliq.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229092559id_/http%3A//capitaliq.com/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitaliq.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608183319id_/http%3A//www.capitaliq.com/main/privacy.asp) for the most accurate reproduction.*
 
 # Capital IQ - Privacy Statement
 
