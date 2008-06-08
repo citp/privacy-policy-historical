@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the travelsignposts.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210121544id_/http%3A//www.travelsignposts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsignposts.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608083511id_/http%3A//www.travelsignposts.com/privacy.php) for the most accurate reproduction.*
 
 # Travel Signposts
 
 ##### 
 
-[ ](http://www.travelsignposts.com/Destination/v/Bulgaria/Balchik/AJP_2425.jpg.html)
+[ ](http://www.travelsignposts.com/Destination/v/ChristmasinEurope/Innsbruck/IMG_0976.jpg.html)
 
-The Botanical Gardens and Queen Marie's Palace, Balchik, Bulgaria 
+Innsbruck, Austria 
 
 | 
 
@@ -17,46 +17,14 @@ Our Privacy Statement  |
 
 ##### 
 
-[ ](http://www.travelsignposts.com/Destination/v/Austria/Salzburg/DSC_0368.jpg.html)
+[ ](http://www.travelsignposts.com/Destination/v/Italy/Rome/RomeToday/IMG264italy.jpg.html)
 
-Salzburg, Austria 
+Rome  
+[Rome - Italy] 
+
+[](http://www.travelsignpostsphoto.com/ebook/index.php)
 
 | 
-
-Travel Resources that will save you time and money  
-  
----  
-  
-[  
-Book a hotel in Europe](http://en.venere.com/?ref=12564 "Book hotels, apartments in Europe at discount rates")  
-Book hotels, apartments at discount rates anywhere in Europe.
-
-[Book a tour](http://www.travelsignposts.com/resources/book-a-tour-online.php)  
-City tours, day trips, special attractions tours, all over Europe.
-
-[Rent a car](http://www.autoeurope.com/aff/travelsignposts)  
-Rent or lease a car or campervan for your Europe tour - and a cellphone!  
-[Australians click here!](http://www.autoeurope.com.au/booking/car.cfm?aff=travelsignposts)
-
-[Book Rail Travel ](http://www.travelsignposts.com/resources/book-europe-rail-travel.php)  
-Europe has great railways. Get great deals on passes and tickets here
-
-[Book Eurostar](http://www.travelsignposts.com/resources/book-eurostar-rail-travel.php)  
-Travel from London to Paris and the Continent by high speed rail underwater!
-
-[Book a European Cruise](http://www.jdoqocy.com/2j102wktqks79H8D8DE7GBB99G9)  
-European cruises from CruiseDirect 
-
-[Book a flight](http://www.travelsignposts.com/resources/book-a-flight-online.php)  
-Use QIXO (US) or Expedia and LastMinute (UK) to search out the cheapest flights on the Net!
-
-[Insure your trip](http://www.insuremytrip.com/p/myquote?pid=5864)  
-Enjoy peace of mind when you know you're insured; get a quote here.
-
-[Buy some luggage](http://www.travelsignposts.com/resources/buy-luggage-online.php)  
-Buy luggage online: cases, carry-ons, daypacks, and all kind of travel gear (US)  
-  
-[](http://www.travelsignpostsphoto.com/ebook/index.php)
 
   
 We respect the privacy of those who visit our web site and those who become subscribers. In accordance with this, we have created this policy in order to demonstrate our privacy commitment to our users:
