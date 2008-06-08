@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnp.sg privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029060244id_/http%3A//www.asiaone.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnp.sg privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608093425id_/http%3A//www.asiaone.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
