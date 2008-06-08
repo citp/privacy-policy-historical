@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pakheaven.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210193309id_/http%3A//www.pakheaven.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakheaven.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609003654id_/http%3A//www.pakheaven.com/privacy.php) for the most accurate reproduction.*
 
-# ...:::PakHeaven.com:::... -- Privacy Policy
+# ...:::PakHeaven.Com:::... -- Privacy Policy
 
-**Privacy Statement Of PakHeaven.com ! A Heaven in Web world!** **  
+**Privacy Statement Of PakHeaven.Com ! Complete entertainment portal !** **  
 ****  
-PakHeaven.com!** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [http://www.pakheaven.com](http://www.pakheaven.com/)
+PakHeaven.Com!** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [http://www.pakheaven.com](http://www.pakheaven.com/)
 
 **Advertisers  
 **We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
@@ -20,11 +20,11 @@ All contents and related material of this website are collected from different w
 **Data Quality / Access  
 **This site gives users the following options for changing and modifying information previously provided: 
 
-  1. You can send email to [info@pakheaven.com](mailto:info@pakheaven.com)
+  1. You can send email to pakheaven@gmail.com 
   2. You can visit the following URL: [http://www.pakheaven.com](http://www.pakheaven.com/)
 
 
 
 **Contacting The Web Site  
 **If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-[info@pakheaven.com](mailto:info@pakheaven.com)
+pakheaven@gmail.com
