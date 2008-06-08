@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifescript.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210174409id_/http%3A//www.lifescript.com/channels/channel.asp%3FGOTO%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifescript.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608135511id_/http%3A//www.lifescript.com/channels/channel.asp%3FGOTO%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Diet & Fitness
 
@@ -14,7 +14,7 @@ Security
 
 This site has security measures in place to protect you from the loss, misuse, or alteration of the information under our control. LifeScript has encrypted the Survey, Personal Vitamin Recommendation, and Order Information sections of this site with a 128-bit Security Certificate from Thawte Consulting, Inc.
 
-Our Internet Web sites collect nonpersonal information from online visitors in order to track the total of number of visitors to the site in aggregate form and identify the type of Internet browser (e.g., Netscape®;, Internet Explorer®) and operating system (e.g., Windows®, Macintosh®, etc.) used by the visitor. This information allows us to continuously improve our Web site. 
+Our Internet Web sites collect nonpersonal information from online visitors in order to track the total of number of visitors to the site in aggregate form and identify the type of Internet browser (e.g., Netscape�;, Internet Explorer�) and operating system (e.g., Windows�, Macintosh�, etc.) used by the visitor. This information allows us to continuously improve our Web site. 
 
 Information that can identify a visitor, such as a name or address, is not collected in this process, nor does LifeScript require disclosure of such information. Information that can identify a visitor is collected only when the visitor provides it voluntarily. 
 
