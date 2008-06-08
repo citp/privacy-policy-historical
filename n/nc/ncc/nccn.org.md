@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nccn.org privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212051247id_/http%3A//www.nccn.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nccn.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609011612id_/http%3A//www.nccn.org/about/privacy.asp) for the most accurate reproduction.*
 
 # NCCN Privacy Policy
 
 ## NCCN Privacy Statement
 
-The National Comprehensive Cancer Network, Inc., (NCCN) is issuing this privacy statement to keep you, our valued user, informed of activities in place to ensure your privacy. This privacy statement covers the site www.nccn.org. If users have questions or concerns regarding this statement, they should first contact Alex Yakovlev, Vice President, Information Systems, by [E-mail](https://web.archive.org/web/20061212051247id_/http%3A//www.nccn.org/about/emailform.asp?ID=3) or telephone (215.690.0258). 
+The National Comprehensive Cancer Network, Inc., (NCCN) is issuing this privacy statement to keep you, our valued user, informed of activities in place to ensure your privacy. This privacy statement covers the site www.nccn.org. If users have questions or concerns regarding this statement, they should contact Alex Yakovlev, Vice President, Information Technology, by [E-mail](https://web.archive.org/web/20080609011612id_/http%3A//www.nccn.org/about/emailform.asp?ID=3) or telephone (215.690.0258). 
 
 ## Information Collection and Use
 
@@ -12,31 +12,27 @@ The National Comprehensive Cancer Network, Inc., (NCCN) is issuing this privacy 
 
 NCCN is the sole owner of the information collected on www.nccn.org. NCCN collects information from our users at several different points on this web site. 
 
-**NCCN Clinical Practice Guidelines in Oncology™ Registration**
+**NCCN Clinical Practice Guidelines in Oncology™ , NCCN Drugs and Biologics Compendium™, and NCCN Chemotherapy Order Templates™ Registration**
 
-NCCN requests information on a voluntary basis from users of its Clinical Practice Guidelines in Oncology™. NCCN uses this information to contact the user about services on our site for which he/she has expressed interest and to advise users about future updates to this site. It is optional for the user to provide demographic information (such as specialty or year of graduation), but encouraged so NCCN can provide a more personalized experience on its site. 
+NCCN requests information from users of its NCCN Clinical Practice Guidelines in Oncology™, NCCN Drugs and Biologics Compendium™, and NCCN Chemotherapy Order Templates™. NCCN uses this information to contact the user about safety updates and/or services on our site for which they have expressed interest and to advise users about future updates to this site. It is optional for the user to provide demographic information (such as specialty or year of graduation), but encouraged so NCCN can provide a more personalized experience on its site. 
 
 **NCCN Conference and Symposia Registration**
 
 NCCN requests information from the user on our annual conference registration form. Here a user must provide contact information (such as name and mailing address) and financial information (such as credit card number, expiration date). This information is used for billing purposes for conference registration fees and/or hotel deposits. If NCCN cannot process an order, this contact information is used to get in touch with the user. NCCN also requests contact information from users registering for regional guidelines symposia. This information is used to confirm registration data. Users do not need to provide financial information to register for regional guidelines symposia.
 
-**NCCN Drugs & Biologics Compendium™ Registration**
+**NCCN Interactive CME Registration**
 
-NCCN does require users of the NCCN Drugs & Biologics Compendium™ to register to access this data on the NCCN site. Required information includes first and last name, username, password and e-mail address. NCCN uses this information to contact the user about services on this site for which he/she has expressed interest and to advise users about future updates to this site. It is optional for the user to provide demographic information (such as specialty or year of graduation), but encouraged so NCCN can provide a more personalized experience on its site. 
-
-**NCCN On-Demand Learning Registration**
-
-NCCN does require visitors to register to use NCCN On-Demand Learning archived presentations. Required information includes first and last name, degree, title, organization, mailing address, username, password and e-mail address. NCCN uses this information to process CE credit, to contact the user about services on this site for which he has expressed interest, and to advise users about future updates to this site. It is optional for the user to provide demographic information (such as specialty or year of graduation), but encouraged so NCCN can provide a more personalized experience on its site. 
+NCCN requires visitors to register to use NCCN Interactive CME archived presentations. Required information includes first and last name, degree, title, organization, mailing address, username, password and e-mail address. NCCN uses this information to process CME credit, to contact the user about services on this site for which he has expressed interest, and to advise users about future updates to this site. It is optional for the user to provide demographic information (such as specialty or year of graduation), but encouraged so NCCN can provide a more personalized experience on its site. 
 
 **Orders for NCCN Resources**
 
-NCCN does require information from users who order NCCN presentations on CD-ROM, NCCN Guidelines resources such as CD-ROMs or Pocket Guides, Treatment Guidelines for Patients, and other NCCN resources. Required information includes first and last name, shipping address, and e-mail address. This information is used to fill requesters’ orders. If NCCN cannot process an order, the information is used to contact the user. 
+NCCN requires information from users who order NCCN informational resources through our on-line ordering system. Required information includes first and last name, shipping address, and e-mail address. This information is used to fill requesters’ orders. If NCCN cannot process an order, the information is used to contact the user. 
 
 **NCCN Online Surveys**
 
 From time-to-time, NCCN may provide you the opportunity participate in surveys on our web site. NCCN does not require information from users to complete these periodic online surveys about NCCN programs, services, and resources. It is optional for the user to provide demographic information (such as specialty or year of graduation), but encouraged so NCCN can enhance its programs, services and resources. 
 
-NCCN uses a third party service provider to conduct these surveys; that company will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice.
+NCCN often uses a third party service provider to conduct these surveys; that company will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice.
 
 **“Refer A Colleague”**
 
@@ -64,9 +60,9 @@ Like most web site servers, NCCN’s uses log files. These include Internet prot
 
 _Special Offers and Updates_
 
-Established users of the NCCN Drugs & Biologics Compendium™ and NCCN On-Demand Learning; NCCN conference and regional guidelines symposia registrants; and users who opt-in while ordering NCCN resources will occasionally receive information on new or updated NCCN programs, services, or resources. Opting in means users have asked to be contacted about NCCN programs, services, and resources. Users may opt-in via business reply mail or e-mail, on conference and symposia registration forms, or while registering to access NCCN services online. 
+Registered NCCN visitors will occasionally receive information on new or updated NCCN programs, services, or resources. Opting in means users have asked to be contacted about NCCN programs, services, and resources. Users may opt-in via business reply mail or e-mail, on conference and symposia registration forms, or while registering to access NCCN services online. 
 
-You may unsubscribe at any time by [contacting us](https://web.archive.org/web/20061212051247id_/http%3A//www.nccn.org/about/emailform.asp?department=marketing).
+You may unsubscribe at any time by [contacting us](https://web.archive.org/web/20080609011612id_/http%3A//www.nccn.org/about/emailform.asp?department=marketing).
 
 **Sharing**
 
@@ -80,7 +76,7 @@ NCCN shares aggregated demographic information with our partners and advertisers
 
 _Third Party Intermediaries_
 
-NCCN uses an outside fulfillment company to process and ship orders for NCCN products; an e-mail broadcast company to send e-mail announcements about NCCN events and resources; a web hosting company to provide online access to NCCN presentations; an online survey vendor to periodically survey groups of NCCN users; and a credit card processing company to bill users for conference registration. These companies do not retain, share, store, or use personally identifiable information for any secondary purposes. Registration for NCCN’s annual conference and regional guidelines symposia consists of a link to a site hosted by Peopleware; to view their Internet Registration Module Security statement, go to <http://www.pware.com/admin/securityStatement.htm>. Registration for NCCN On-Demand Learning consists of a link to a site hosted by e-city interactive; to view this privacy statement, go to [http://nccn.cmeport.com](http://nccn.cmeport.com/). Registration to order NCCN resources online consists of a link to a site hosted by NiceLines Direct Mail; to view this privacy statement, go to <http://pdf.nicelines.com/nccn/web%20privacy%20policy.pdf>. Registration to access NCCN surveys is hosted on a site by Survey Monkey; to view this privacy statement, go to <http://www.surveymonkey.com/>
+NCCN uses an outside fulfillment company to process and ship orders for NCCN products; an e-mail broadcast company to send e-mail announcements about NCCN events and resources; a web hosting company to provide online access to NCCN presentations; an online survey vendor to periodically survey groups of NCCN users; and a credit card processing company to bill users for conference registration. These companies do not retain, share, store, or use personally identifiable information for any secondary purposes. Registration for NCCN’s annual conference and regional guidelines symposia consists of a link to a site hosted by Peopleware; to view their Internet Registration Module Security statement, go to <http://www.pware.com/admin/securityStatement.htm>. Registration for NCCN Interactive Learning consists of links to sites hosted by e-city interactive and Medscape; to view these privacy statements, go to [http://nccn.cmeport.com](http://nccn.cmeport.com/) or <http://www.medscape.com/pjsp/public/privacy.html>. Registration to order NCCN resources online consists of a link to a site hosted by NiceLines Direct Mail; to view this privacy statement, go to <http://pdf.nicelines.com/nccn/web%20privacy%20policy.pdf>. Registration to access NCCN surveys is hosted on a site by Survey Monkey; to view this privacy statement, go to <http://www.surveymonkey.com/>
 
 **Links**
 
@@ -94,7 +90,7 @@ When NCCN’s registration forms ask users to enter sensitive information (such 
 
 While NCCN uses SSL encryption to protect sensitive information online, NCCN also does everything in its power to protect user information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in NCCN offices. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. The servers that store personally identifiable information are in a secure, locked environment. 
 
-If users have any questions about the security at www.nccn.org, they can [send an e-mail](https://web.archive.org/web/20061212051247id_/http%3A//www.nccn.org/about/emailform.asp?ID=4). 
+If users have any questions about the security at www.nccn.org, they can [send an e-mail](https://web.archive.org/web/20080609011612id_/http%3A//www.nccn.org/about/emailform.asp?ID=4). 
 
 #### Supplementation of Information 
 
@@ -106,7 +102,7 @@ NCCN uses PCCharge Pro for credit card processing services to verify a user’s 
 
 #### Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user’s personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a user no longer desires our service, NCCN provides a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done by [E-mailing](https://web.archive.org/web/20061212051247id_/http%3A//www.nccn.org/about/emailform.asp?department=website) our User Support. 
+If a user’s personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a user no longer desires our service, NCCN provides a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done by [E-mailing](https://web.archive.org/web/20080609011612id_/http%3A//www.nccn.org/about/emailform.asp?department=website) our User Support. 
 
 #### Notification of Changes
 
@@ -116,4 +112,4 @@ If, however, NCCN is going to use users’ personally identifiable information i
 
 #### Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20061212051247id_/http%3A//www.nccn.org/about/emailform.asp?department=website). 
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20080609011612id_/http%3A//www.nccn.org/about/emailform.asp?department=website). 
