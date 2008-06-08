@@ -1,67 +1,120 @@
-> *The following text is extracted and transformed from the ford.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223152027id_/http%3A//www.ford.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608221110id_/http%3A//www.ford.com/footer/privacy) for the most accurate reproduction.*
 
 # Privacy - Ford
 
-We want you to get the most out of our Ford Motor Company site and to trust that we make every effort to protect your confidentiality. Personal information is either requested or required on many areas of Ford.com, to verify your identity and ensure that you qualify to use particular sections of the site. The amount and type of information received depends on how you use our site. The information may be stored and used in order to enhance our relationship with you.
+### General Statement
 
-Please take a few minutes to read our complete privacy statement so you can understand how information is used and the specific measures we take to protect your personal information. This page describes the policies of our company regarding any information we receive about you, while visiting Ford.com.
+We respect your privacy and are committed to protecting it. This privacy statement explains our policies and practices regarding on-line customer information. It is through this disclosure that we intend to provide you with a level of comfort and confidence in how we collect, use, and safeguard personal and other information we collect or that you provide through this website, and how you can contact us if you have any questions or concerns. It is our sincere hope that by explaining our data handling practices we will develop a trusting and long-lasting relationship with you.
 
-### Normal Website Usage
+### Information About Our Organization and Website
 
-Visit Ford.com to access company, products, and services information, along with investment and media updates, without telling us who you are or revealing any personal information. The only data we collect and store during normal website usage is typical web server log data. Examples of this type of data are: the name of your Internet service provider, the site that referred you to us, any pages you request, and the time and date of those requests etc.
+This Privacy Statement applies to ford.com, which is owned and maintained by Ford Motor Company, Marketing, Sales and Service Division, 16800 Executive Plaza Drive, Dearborn, MI 48126.
 
-We use this information to generate statistics and measure site activity to benefit Ford.com users. This same information may be shared with third parties in order to provide these services or to analyze, store, or aggregate the information. It may also be shared with other third parties, working with us to improve the services of Ford Motor Company or this website.
+The main business purpose of this website is to provide Ford Motor Company products, and services information, along with investment and media updates.
 
-### Collection of Personally Identifiable Information
+This privacy statement applies to this other site: Autoshows.ford.com, which is owned and maintained by Ford Motor Company, Marketing, Sales and Service Division, 16800 Executive Plaza Drive, Dearborn, MI 48126.
 
-There are instances where Ford Motor Company requests personally identifiable information to provide site visitors with a service. This information, such as name, mailing address, email address, and type of request, is collected and stored in a manner appropriate to the nature of the request, as determined by Ford Motor Company, to fulfill your needs. To reiterate, all information you provide is used to improve the services offered by Ford Motor Company. This information may also be provided to our agencies for use on behalf of Ford Motor Company in accordance with our proscribed privacy statement. However, it is never provided or sold to any other company for that company's independent use.
+### Personally Identifiable Information We Collect From You
 
-During the course of your visit, you may move to other Ford Motor Company websites, including the sites designed specifically for owners, to allow vehicle configuration, or intended to provide information about financing or sites specific to Ford Motor Company products. In addition, this site may provide links to third party sites not controlled by Ford Motor Company, such as those belonging to Ford Motor Company product dealers or third party product review sites. It is recommended that you check the specific privacy statements of any site before providing any personally identifiable information.
+When you visit ford.com we will not collect any personal information about you unless you provide it to us voluntarily. Personal data includes information that is particular to you such as name, street address, telephone number, and e-mail address (and credit card number if you place an order with us). If you opt not to provide us with personal information you can still access our website, however you may be unable to participate in certain promotions or receive product information or have a purchase order fulfilled.
 
-### What are cookies?
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through any ford.com chat room, message board, or other public online forums, this information may be collected and used by others.
 
-A "cookie" is a small line of text that is stored within your browser when you visit a cookie-enabled website. As you browse the Web, cookie-enabled sites will send cookies to your browser, along with pages. Your browser probably has options that will let you control whether the browser accepts cookies, rejects cookies, or notifies you each time a cookie is sent to you.
+### How We Use the Personally Identifiable Information We Collect
 
-If your browser is set to reject cookies, cookie-enabled websites will not recognize you when you return. This provides you with anonymity, but it also makes it very difficult to offer you customized services. It is also less secure than using cookies, because all of your specific data must be sent to the website each time you view a page. Accepting cookies means your private data can stay at the Web server, and the only information transmitted over the Internet is your ID cookie.
+Personally identifiable information collected on ford.com may be used to:
 
-￼ 
-
-If your browser is set to accept cookies, any cookies that are sent to your browser are stored in your computer for a period of time. There are a few different types of cookies. A "session" cookie is stored only in your computer's working memory (RAM) and only lasts for your browsing session. When you close all of your browser's windows, or when you shut down your computer, the session cookie disappears forever. A "permanent" cookie is stored on your computer's hard drive until a specified date, which could be tomorrow, next week, or 10 years from now. Permanent cookies stay on your computer until either:
-
-  1. they expire,
-  2. they are overwritten with newer cookies,
-  3. you manually remove them. 
-
-
-
-### Ford Motor Company's Internet Services 
-
-To use our Internet services, such as Investor Relations tools or Dealer Locator, we also require a certain amount of personally identifying information. That information may be in the form of a name, account number, vehicle identification number, zip code, or personal identification number. We use this information to verify that you are a Ford Motor Company customer or meet the criteria required to process your request. We may also use this information to enhance our understanding of you and improve our services.
-
-### Electronic Mail Containing Personal Information
-
-Website users may decide to send Ford Motor Company personally identifying information via email. We will use this information for the purpose identified in the email message and to enhance our understanding of you in order to improve our services to you.
-
-### Privacy Statement Revisions
-
-A revised privacy statement will only apply to data collected subsequent to its effective date on this version of the web site. Any revisions will be posted at least 7 days prior to its effective date. New versions of this web site may have a new privacy statement effective with its launch.
-
-### Limited License
-
-This site is provided by Ford Motor Company (Ford) and may be used for informational purposes only. By using this site or downloading materials from this site, you agree to abide by the terms and conditions, set forth in this agreement. If you do not agree to abide by these terms and conditions, do not use this site or download materials from this site.
-
-Subject to your continued compliance with the terms and conditions set forth in this agreement, Ford grants you a non-exclusive, non-transferable, limited right to access, use, display, and listen to this site and the information, images, sounds, and text ("materials") thereon. You agree not to interrupt or attempt to interrupt the operation of the site in any way.
-
-Ford authorizes you to view and download the materials at this site only for your personal, non-commercial use. This authorization is not a transfer of title in the materials and copies of the materials and is subject to the following restrictions:
-
-  1. you must retain, on all copies of the materials downloaded, all copyright and other proprietary notices contained in the materials;
-  2. you may not modify the materials in any way or reproduce or publicly display, perform, distribute, or otherwise use them for any public or commercial purpose; 
-  3. you must not transfer the materials to any other person unless you give them notice of, and they agree to accept, the obligations arising under these terms and conditions of use. 
+  * Fulfill a site user request (brochure fulfillment, lead generation, send marketing or promotional materials including e-mails or other information)
+  * Fulfill and deliver an order for goods or services
+  * Respond to your comments or requests for information
+  * To meet a request for or to develop new products or services
+  * To make the user experience more customer-friendly
+  * Contact you if necessary in the course of processing or shipping an order for products or services
+  * Generate site analytics that improve our site layout, content, product offerings and services
+  * To comply with legal requirements
 
 
 
-This site, including all materials, is protected by worldwide copyright laws and treaty provisions, whether or not a copyright notice is present on the materials. You agree to comply with all copyright laws worldwide in your use of this site and to prevent any unauthorized copying of the materials. Except as expressly provided herein, Ford Motor Company does not grant any express or implied right to you under any patents, trademarks, or copyrights.
+### Other (Non-Personally Identifiable) Information We Collect From Site Visitors
 
-### Trademark Notice
+During a normal visit to our site, no personally identifiable information or other information about you is collected. All information on our site is free to browse at your leisure without the need for you to provide us with any information. Ford.com collects other information, non-personally identifiable information from site visitors. This means that we do not track these items on an individual basis that identifies the site visitor, but rather gather and collect this information on an aggregate [or anonymous] basis that includes all site visitors. Non-personal information includes tracking the site pages that are visited or the amount of time spent on our site. Non-personal information also includes information about your browser/system for technical troubleshooting purposes.
 
-All trademarks displayed on this site are subject to the U.S. trademark rights of Ford Motor Company or are used under agreement in the U.S. by Ford Motor Company. These trademarks include, but are not limited to, product brand names-Ford, Lincoln, Mercury, Jaguar, Motorcraft; vehicle model names-Mustang, Taurus, Explorer, F-150, Continental, Villager, Grand Marquis; slogans-What a Luxury Car Should Be, Built Ford Tough; logos and emblems. The unauthorized use of any trademark displayed on this site is strictly prohibited.
+Our primary goal in collecting aggregate information from you is to be able to perform site metrics that allow us to improve the functionality of the website. We need to collect aggregate information in order to track page visits, perform site click-through analysis, review peak site usage times and analyze site layout and design.
+
+We use session and persistent "cookies," session logs, spot light ads/web beacons/GIF/pixel tags/banner ads or links to collect aggregate or other non-personally identifiable information about site visitors. We may also use third party advertising networks that serve ads to collect aggregate or other non-personally identifiable information about site visitors. An explanation for each of these items and how they work is included in the section on "Methods We Use to Collect Information."
+
+### How We Use the Aggregate or Non-Personally Identifiable Information We Collect
+
+Non-Personally identifiable information collected on ford.com may be used to:
+
+  * Compile aggregate and statistical data to help in website design and to identify popular features
+  * Measure site activity to allow us to update our site to better meet user wants and needs
+
+
+
+Ford.com utilizes session log data and non-personal data for the purpose of performing analytics on the users' experience while visiting this site. This analysis:
+
+  * Is performed on an aggregate level and does not identify you or your information personally
+  * Involves the use of a third party vendor acting on behalf of ford.com
+  * Is performed in order to improve our website and the user experience
+  * Includes the use of session and/or persistent cookies to track user movement across this and other Ford Motor Company websites or to track other events within or across this and other Ford Motor Company websites
+  * Any information that is provided to the third party vendor is to be used only for the purpose of performing the analytics and compiling reports of the data. The third party vendor is restricted from using this data in any other way other than to provide these services to Ford Motor Company and they may not share or resell this data
+
+
+
+### Methods We Use to Collect Information
+
+A "cookie" is a small text file that helps us in many ways to make your visit to our website more enjoyable and meaningful to you. They allow us to tailor a website to better match your interests and preferences. There are a couple different types of cookies.
+
+A "session" cookie is stored only in your computer's working memory (RAM) and only lasts for your browsing session. When you close all your browser's windows, or when you shut down your computer, the session cookie disappears forever.
+
+A "persistent" cookie is stored on your computer's hard drive until a specified date, which could be tomorrow, next week, or 10 years from now. Persistent cookies stay on your computer until either a) they expire, b) they are overwritten with newer cookies, c) you manually remove them. Most browsers can be configured not to accept cookies, however, this may prevent you from having access to some site functions or features.
+
+Ford.com may use spot light ads/web beacons/GIF and/or pixel tags which are site instrumentation tools that help us to determine, for instance, whether a page has been viewed or not and, if so, how many times. When you ask us to send you information on a promotion or a newsletter, we may use web beacons to establish how many of the emails are actually opened. In general, any electronic image viewed as part of a web page, including an ad banner, can act as a web beacon. We may use web beacons to collect web usage analytics.
+
+When you visit our website the server housing the pages automatically generates a "session log." We use session logs to help us determine how people travel through our site. In this way, we can structure our pages so that the information most frequently visited is easier to find. By tracking page visits, we can also determine if the information we're providing is being used. The only data gathered is the Internet Protocol (IP) address from which you came (which contains no personal information), the web site that referred you, the pages you visited and the date and time of those visits.
+
+Users may be directed to ford.com via banner ads or site links. Ads or site links that are placed by ford.com use cookies or web beacons to deliver metrics on the effectiveness of the ads or links. They do not collect personal information from the user.
+
+### Sharing Your Information
+
+Personal information that you provide to us in the course of requesting a product or service through this website may be gathered and stored in one or more of our corporate databases and be used for purposes of contacting you for things like promotional offers, marketing programs, or other communications from this website or other Ford Motor Company websites.
+
+We may share personal information that we collect about you with other companies within the Ford Motor Company family of companies or subsidiaries. Our "family of companies" is the group of companies related to us by common control or ownership. We share information within this "family" as a normal part of conducting business and offering products and services to our customers.
+
+Vendors, contractors or partners of ford.com who have access to your personal information in connection with providing services for ford.com are required to keep the information confidential and are not permitted to use this information for any other purpose than to carry out the services they are performing for ford.com.
+
+Site metrics for ford.com may be shared with other Ford Motor Company websites or subsidiaries or affiliates. The information shared will be aggregate data and will not include any of your personally identifiable information.
+
+Ford.com will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Ford Motor Company or the site; (b) protect and defend the rights or property of Ford Motor Company and this site; and, (c) act under exigent circumstances to protect the personal safety of users of Ford Motor Company, its web sites, or the public.
+
+### Security of Your Information
+
+Safeguarding information of visitors to our website is important to us. We use systems, policies and procedures to maintain accuracy of information and to protect information from loss, misuse or alteration.
+
+When you send personal information, such as telephone numbers, to ford.com we use "Secure Socket Layers" or SSL to protect your data. SSL is encryption technology that helps safeguard your personal information against misuse by unauthorized individuals.
+
+Vendors, contractors or partners of ford.com who have access to your personal information in connection with providing services for ford.com are required to keep the information confidential.
+
+Vendors are not permitted to use this information for any other purpose than to carry out the services they are performing for ford.com
+
+### Links to Other Sites
+
+Ford.com provides links to other websites. We encourage you to review the privacy statements of all sites which you visit, including those whose links are provided so that you can understand how those sites collect, use and share your information. Ford.com is not responsible for the privacy statements, content or data handling practices on other websites.
+
+### Children's Privacy
+
+Ford.com does not knowingly intend to collect personal information from children under 13 years of age.
+
+If a child has provided us with personal information a parent or guardian of that child may contact us at Ford Motor Company, Marketing, Sales and Service Division, 16800 Executive Plaza Drive, Dearborn, MI 48126 or producer@ford.com if they want this information deleted from our records. We will then make reasonable efforts to delete the child's information from the database that stores information for ford.com.
+
+### Contacting Us
+
+If you have any questions, comments or concerns about this online privacy statement for ford.com, ford.com privacy practices, or have any questions regarding the contents of this website please contact us at producer@ford.com or Ford.com Privacy, Ford Motor Company, Marketing, Sales and Service Division,16800 Executive Plaza Drive, Dearborn, 4N304 Regent Court Building, MI 48126.
+
+### Privacy Statement Effective Date and Revision Days
+
+Occasionally we may update the privacy statement for ford.com in order to reflect any changes to the website or our privacy practices. If we update this statement, the new statement will be posted to the website ten (10) days prior to the changes taking effect.
+
+The effective date of this privacy statement is May 31, 2008.  
+
