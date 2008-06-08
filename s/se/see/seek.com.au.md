@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2007-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071127100853id_/http%3A//www.seek.com.au/general_id_items/content/privacy.ascx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608114937id_/http%3A//www.seek.com.au/general_id_items/content/privacy.ascx) for the most accurate reproduction.*
 
 # SEEK - Privacy Statement
 
@@ -68,11 +68,18 @@ By applying to a position advertised on SEEK you are requesting that SEEK pass t
 
 Additionally, you have the right to request your personal information direct from Advertisers on SEEK.
 
-  4. ## Email communications from SEEK
+  4. ## Collecting Salary Survey information
+
+  
+As part of providing an independent salary resource for job seekers, SEEK will encourage the public to participate in The Great Australian Salary Survey. Survey responses will be stored and the aggregated data used for general online searching and reporting purposes only. Individual responses will not be personally identifiable. No contact information will be collected. Salary survey responses will be submitted anonymously.
+
+The only contact information that is collected will be in relation to survey respondents registering for the competition prize draw and/or signing up to be notified when the Salary Reports are available. Providing email address information will not be associated with your survey responses and is completely optional.
+
+  5. ## Email communications from SEEK
 
   
 SEEK also provides you with selected information about job seeking and career-related topics in our email newsletter SEEK News Update. This free service is sent to registered users and provides the option of opting out of receiving these by changing your preferences in ‘My Account’. SEEK may also make you aware of additional products and services which form part of your relationship with SEEK. 
-  5. ## Storage & Security of Personal Information
+  6. ## Storage & Security of Personal Information
 
   
 SEEK takes all reasonable steps to ensure the security of our system. SEEK allows you to access your information at any time to keep it accurate and up to date. Any information which we hold for you is stored on secure servers that are protected in controlled facilities. 
@@ -81,30 +88,30 @@ In addition, our employees and the contractors who provide services related to o
 
 You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the SEEK site. Please [notify us immediately](mailto:userhelp@seek.com.au) if there is any unauthorised use of your account by any other Internet user or any other breach of security.
 
-  6. ## Access to Your Information
+  7. ## Access to Your Information
 
   
 As indicated in point 2, unless you become a registered ‘[My Account](https://web.archive.org/myseek/myaccount.ascx)’ user, SEEK does not collect information that identifies you personally. If however, you become a SEEK registered user, you are able to change and update your registered profile at any time. Should you require assistance with updating your account or removing your details from the site, this can be requested by [forwarding an email](mailto:userhelp@seek.com.au) . You can also request your personal information directly from Advertisers who you have applied to on the site. 
-  7. ## SEEK Partners & Advertisers
+  8. ## SEEK Partners & Advertisers
 
   
 SEEK provides links and passes online application to third party sites. The use of your information by these third party sites is not within the control of SEEK and we cannot accept responsibility for the conduct of these companies. Advertisers who place job ads on SEEK are asked to comply with Australian federal privacy policy with regard to their own information handling practices. 
 
 You may also directly contact advertisers to request access to any personal information that you have sent as part of an application.
 
-  8. ## Transborder data flows
+  9. ## Transborder data flows
 
   
 Sometimes, we transfer information to persons outside Australia (e.g. a contractor located in the USA who provides us with services). By giving us your personal information, you consent to such disclosures. In addition, we believe that the recipients of such information are subject to a law, binding scheme or contract which effectively upholds principles for fair handling of the information that are substantially similar to the National Privacy Principles. 
-  9. ## Feedback
+  10. ## Feedback
 
   
 SEEK welcomes ideas and feedback about all aspects of the site. SEEK stores feedback that users send to us. This feedback will be used to administer and refine the service and may be shared with SEEK partners either in aggregate form or with specific identifying characteristics removed. 
-  10. ## Privacy & Site Changes
+  11. ## Privacy & Site Changes
 
   
 From time to time, SEEK may review and update its privacy statement. Revised versions will be updated on the website. 
-  11. ## Contact Us
+  12. ## Contact Us
 
   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with SEEK, you can contact us in the following ways:  |  Email: |  [userhelp@seek.com.au](mailto:userhelp@seek.com.au)  
@@ -112,10 +119,11 @@ If you have any questions about this privacy statement, the practices of this si
 Telephone: |  +61 03 9510 7200  
 Post: |  User Help Desk  
 SEEK Limited  
-Level 3, 3 Wellington Street  
-ST. KILDA VIC 3182  
+Level 6  
+541 St Kilda Road  
+Melbourne VIC 3004  
 Australia  
-  12. ##  More Information About Privacy
+  13. ##  More Information About Privacy
 
   
 For more information about privacy issues in Australia and protecting your privacy, visit the [Australian Federal Privacy Commissioner's](http://www.privacy.gov.au/) website. 
