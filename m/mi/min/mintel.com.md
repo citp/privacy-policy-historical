@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210084936id_/http%3A//www.mintel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608131033id_/http%3A//www.mintel.com/privacy.htm) for the most accurate reproduction.*
 
-# Mintel International Group: Consumer, Media and Market Research
-
-### Privacy Policy for Mintel International Group Ltd
+# Privacy Policy for Mintel International Group Ltd
 
 **Introduction**  
 This policy covers Mintel Intenational Group Ltd use of personal information that Mintel collects when you use mintel.com and related sites 
@@ -58,7 +56,8 @@ Mintel is committed to protecting the security of your personal information. We 
 If users have any questions or suggestions regarding our privacy policy, please contact: 
 
 **The Data Controller:**  
+  
 ---  
-**email:** | [data.controller@mintel.com](mailto:data.controller@mintel.com)  
-**postal address:** | Mintel Group, 18-19 Long Lane, London, EC1A 9PL  
-**website url:** | [www.mintel.com](http://www.mintel.com/)
+email: | [data.controller@mintel.com](mailto:data.controller@mintel.com)  
+postal address: | Mintel Group, 18-19 Long Lane, London, EC1A 9PL  
+website url: | [www.mintel.com](http://www.mintel.com/)
