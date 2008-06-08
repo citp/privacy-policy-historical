@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the loveaccess.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210121442id_/http%3A//www.loveaccess.com/privacy.htm%3Fbrief%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveaccess.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608084147id_/http%3A//www.loveaccess.com/privacy.htm%3Fbrief%3D1) for the most accurate reproduction.*
 
 # Privacy Policy | LoveAccess.com
 
 LoveAccess.com is a product of LifeAccess.com Inc. 
 
 Our postal address is   
-**183 State St, 5th Floor  
-Boston, MA 02109**
+**77 Accord Park Drive Unit C-2  
+Norwell MA 02061**
 
 We can be reached via e-mail at [info@LoveAccess.com](mailto:info@LoveAccess.com)
 
