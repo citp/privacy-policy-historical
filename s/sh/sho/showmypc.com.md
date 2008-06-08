@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the showmypc.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210205138id_/http%3A//showmypc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmypc.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608215649id_/http%3A//showmypc.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ShowMyPC.com - Instant Desktop Sharing and Access Remote PC Free
 
+---  
+  |   | [Home](http://showmypc.com/) |   | [Pro | Business](http://showmypc.com/hosting/hosting-prices.html) |   | [Private Server](http://showmypc.com/enterprise-plan-custom-details.html) |   | [How to use?](http://showmypc.com/how-it-works.html) |   | [FAQ](http://showmypc.com/service/faq/) |   | [Feedback](http://showmypc.com/feedback.html) |   |    
+  
 ## ShowMyPC Privacy Policy
 
 April 15, 2007
@@ -33,4 +36,4 @@ This notice offers highlights of the full ShowMyPC Privacy Policy, which describ
 
 ### More Information
 
-For more information about our privacy practices, or if you have additional questions, please contact support@showmypc.com or go to [Feedback](https://web.archive.org/web/20071210205138id_/http%3A//showmypc.com/ShowMyPCFeedBack.html). 
+For more information about our privacy practices, or if you have additional questions, please contact support@showmypc.com or go to [Feedback](https://web.archive.org/web/20080608215649id_/http%3A//showmypc.com/ShowMyPCFeedBack.html). 
