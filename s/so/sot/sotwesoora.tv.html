@@ -1,0 +1,1316 @@
+<!--The following is the downloaded HTML source of the sotwesoora.tv privacy policy that was archived on 2008-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080608153621id_/http%3A//www.sotwesoora.tv/action/static/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-US" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-Language" content="en-US">
+<meta name="keywords" content="Sotwesoora.tv arabic movies, aflam, egyptian film, comedt, action, drama">
+<meta name="description" content="Sotwesoora.tv: The Egyptian Movie Channel">
+<meta name="Version" content="10590">
+<!-- Disable MSSmartTags -->
+<meta name="MSSmartTagsPreventParsing" content="true">
+<link rel="stylesheet" type="text/css" href="http://www.sotwesoora.tv/members/css/screen_blue.css" media="screen" title="Default">
+<link rel="stylesheet" type="text/css" href="http://www.sotwesoora.tv/css/print.css" media="print">
+<link rel="shortcut icon" href="http://www.sotwesoora.tv/favicon.ico" type="image/x-icon">
+<!-- for link bar -->
+<link rel="Home" href="http://www.sotwesoora.tv/" title="Home page">
+<link rel="Index" href="http://www.sotwesoora.tv/" title="Index">
+<link rel="search" href="#" title="Search this site">
+<link rel="contents" href="#" title="Site map">
+<script type="text/javascript">var siteUserId='0'; var siteUrl='http://www.sotwesoora.tv/';var pageId='staticPage';var status = new Object; </script>
+<script type="text/javascript" src="http://www.sotwesoora.tv/js/lib/cssQuery-p.js"></script>
+<script type="text/javascript" src="http://www.sotwesoora.tv/js/lib/behaviour.js"></script>
+<script type="text/javascript" src="http://www.sotwesoora.tv/js/lib/prototype.js"></script>
+<script type="text/javascript" src="http://www.sotwesoora.tv/js/script.js"></script>
+<script type="text/javascript" src="http://www.sotwesoora.tv/js/online.js"></script>
+<script type="text/javascript" src="http://www.sotwesoora.tv/js/menu.js"></script>
+<script type="text/javascript" src="http://www.sotwesoora.tv/js/lib/scriptaculous.js?load=effects"></script>
+<script type="text/javascript">
+	statusSettingUrl = 'http://www.sotwesoora.tv/action/profile/settings/';
+	logoutUrl = 'http://www.sotwesoora.tv/action/logout/';
+	function blockError(){return true;}
+	window.onerror = blockError;
+</script>
+<script type="text/javascript" src="http://www.sotwesoora.tv/js/memberStatus.js"></script>
+
+<script type="text/javascript">
+
+function changeAction(){
+
+	var obj = document.formCommonSearch;
+
+	var act_url = '';
+
+	if(obj.tags.value=='')
+
+		return false;
+
+	switch (obj.soption.value){
+
+		case 'photos':
+
+			act_url = 'http://www.sotwesoora.tv/action/photolist/photonew/?tags=';
+
+			obj.action = act_url+obj.tags.value;
+
+			return true;
+
+			break;
+
+
+
+		case 'videos':
+
+			act_url = 'http://www.sotwesoora.tv/action/videolist/videonew/?tags=';
+
+			obj.action = act_url+obj.tags.value;
+
+			return true;
+
+			break;
+
+
+
+		case 'articles':
+
+			act_url = 'http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=';
+
+			obj.action = act_url+obj.tags.value;
+
+			return true;
+
+			break;
+
+
+
+		case 'musics':
+
+			act_url = 'http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=';
+
+			obj.action = act_url+obj.tags.value;
+
+			return true;
+
+			break;
+
+
+
+		case 'games':
+
+			act_url = 'http://www.sotwesoora.tv/action/gamelist/gamenew/?tags=';
+
+			obj.action = act_url+obj.tags.value;
+
+			return true;
+
+			break;
+
+
+
+		case 'members':
+
+			act_url = 'http://www.sotwesoora.tv/action/memberslist/?tags=';
+
+			obj.action = act_url + obj.tags.value;
+
+			return true;
+
+
+
+		case 'groups':
+
+			act_url = 'http://www.sotwesoora.tv/action/group/?tags=';
+
+			obj.action = act_url + obj.tags.value;
+
+			return true;
+
+
+
+		default:
+
+			return false;
+
+			break;
+
+	}
+
+}
+
+function changeActionSub(){
+
+	var obj = document.formCommonSearchSub;
+
+	var act_url = '';
+
+	if(obj.tagsSub.value=='')
+
+		return false;
+
+	switch (obj.soptionSub.value){
+
+		case 'photos':
+
+			act_url = 'http://www.sotwesoora.tv/action/photolist/photonew/?tags=';
+
+			obj.action = act_url+obj.tagsSub.value;
+
+			return true;
+
+			break;
+
+
+
+		case 'videos':
+
+			act_url = 'http://www.sotwesoora.tv/action/videolist/videonew/?tags=';
+
+			act_url = act_url+obj.tagsSub.value;
+
+			act_url = act_url+'&cid='+obj.catIdSub.value;
+
+			obj.action = act_url;
+
+			return true;
+
+			break;
+
+
+
+		case 'articles':
+
+			act_url = 'http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=';
+
+			obj.action = act_url+obj.tagsSub.value;
+
+			return true;
+
+			break;
+
+
+
+		case 'musics':
+
+			act_url = 'http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=';
+
+			obj.action = act_url+obj.tagsSub.value;
+
+			return true;
+
+			break;
+
+
+
+		case 'games':
+
+			act_url = 'http://www.sotwesoora.tv/action/gamelist/gamenew/?tags=';
+
+			obj.action = act_url+obj.tagsSub.value;
+
+			return true;
+
+			break;
+
+
+
+		case 'members':
+
+			act_url = 'http://www.sotwesoora.tv/action/memberslist/?tags=';
+
+			act_url = act_url + obj.tagsSub.value;
+
+			obj.action = act_url;
+
+			return true;
+
+
+
+		case 'groups':
+
+			act_url = 'http://www.sotwesoora.tv/action/group/?tags=';
+
+			obj.action = act_url + obj.tagsSub.value;
+
+			return true;
+
+
+
+		default:
+
+			return false;
+
+			break;
+
+	}
+
+}
+
+</script>
+
+<title>Sotwesoora:: شاهد أحدث الأفلام العربية .. The Egyptian Movie Channel</title>
+<script type="text/javascript" src="http://www.sotwesoora.tv/js/navigationBar.js"></script></head>
+
+<body onload="logInUser();" onunload="logOutUser()">
+<script type="text/javascript">
+	onlineTimer = setInterval('logInUser()', 10000);
+	curStatus = '';
+</script>
+<div id="staticPage" class="clsBodyContent">
+<div id="selPageBody">
+<div id="hideScreen" style="z-index: 100; display: none;" class="VeilStyle1c">&nbsp;</div>
+<a href="#" id="alertHyperLink"></a>
+<div id="selAlertbox" class="clsMsgAlert" style="display:none;position:absolute;">
+  <p id="selAlertMessage"></p>
+  <form name="formAlertBox" id="formAlertBox">
+    <input type="button" class="clsSubmitButton" name="selAlertOkButton" id="selAlertOkButton" value="Ok" onclick="return hideAllBlocks();">
+  </form>
+</div>
+<!-- Accessibility Links -->
+<div id="top">
+  <ul>
+    <li><a href="#main">Skip to main content</a></li>
+    <li><a href="#selSubHeader">Skip to Navigation Links</a></li>
+    <li><a href="#footer">Skip to Footer</a></li>
+  </ul>
+</div>
+<!-- Header -->
+<div id="header">
+ <div id="selTopHeaderLinks"><div id="selWelcomeLinks"><div id="selLeftTopHeaderLinks"><div id="selTopHeaderCurve"><div id="selMiddleTopHeaderLinks"><div id="selRightTopHeaderLinks">
+        <ul class="clsTopWelcomeLinks">
+
+          <li><a class="clsActiveLink" href="http://www.sotwesoora.tv/action/index/">Home</a></li>
+          <li class="clsFilterStatusAlert">
+        <span class="clsFilterStatus">Mature Warning: <span id="selContentFilterStatus">
+<a href="http://www.sotwesoora.tv/members/action/profile/settings/">On</a></span></span>
+      </li>
+            
+                              <li class=""><a href="http://www.sotwesoora.tv/action/login/">Log in</a></li>
+                              <li class="clsNoBorder"><a class="" href="http://www.sotwesoora.tv/action/signup/">Sign up</a></li>
+                    
+        </ul>
+      </div></div></div></div> </div></div>
+
+  <div class="clsTopHeader">
+    <h1><a href="http://www.sotwesoora.tv/" title="Browse to homepage">Sotwesoora.tv: The Egyptian Movie Channel</a></h1>
+    <div id="selBanner">
+      <p><script type="text/javascript"><!--
+google_ad_client = "pub-3208769886672496";
+/* 468x60, created 1/31/08 */
+google_ad_slot = "9882367545";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p><p align="center">
+<a target="_blank" href="http://www.coptic-web.net/Entertainment/Coptic%20TV/Rotana%20Cinema.htm">
+<img src="http://www.coptic-web.net/images%202/rotana_cinema.jpg" width="93" height="68" border="0"></a>&nbsp;
+<a target="_blank" href="http://www.coptic-web.net/Entertainment/Coptic%20TV/Rotana%20Zaman.htm">
+<img src="http://www.coptic-web.net/images%202/rotana_zaman.jpg" width="90" height="68" border="0"></a>&nbsp;
+<a target="_blank" href="http://www.coptic-web.net/Entertainment/Coptic%20TV/Almasreya.htm">
+<img border="0" src="http://www.coptic-web.net/images%202/esc0p1.png" width="84" height="68"></a>&nbsp;
+<a target="_blank" href="http://www.coptic-web.net/Entertainment/Coptic%20TV/lbc.htm">
+<img border="0" src="http://www.coptic-web.net/images%202/Copy%20of%20lbctv.jpg" width="107" height="68"></a>&nbsp;
+<a target="_blank" href="http://www.coptic-web.net/Entertainment/Coptic%20TV/MBC-1.htm">
+<img src="http://www.coptic-web.net/images%202/mbc.jpg" width="98" height="58" border="0"></a>
+<br>
+<b><font color="#3366CC" face="Arial" size="2">
+<a target="_blank" href="http://www.coptic-web.net/">
+<span style="text-decoration: none"><font color="#3366CC">
+Watch Arabic TV Channels Live..Click here to watch &gt;&gt;</font></span></a></font></b></p>
+    </div>
+    <div id="selRightHeader">
+	<script language="javascript">
+	function chooseSearchSelect(type)
+		{
+			tag_value=$('tags').value;
+			if(tag_value!='')
+				location = 'http://www.sotwesoora.tv/searchList.php?search_type='+type+'&tags='+tag_value;
+		}
+	</script>
+      <!-- Search Form Begins -->
+      <div id="selFormCommonSearch">
+        <form name="formCommonSearch" id="formCommonSearch" method="post" action="" onsubmit="return changeAction()">
+          <table>
+            <tbody><tr>
+              <td><input type="text" class="clsTextBox clsSearchTextBox" name="tags" id="tags" value="" tabindex="100"></td>
+              <td>
+              <div class="clsSearch">
+              <ul>
+              <li onmouseover="mopen('selMenuSearch')" onmouseout="mclosetime()">
+			  <a onclick="chooseSearchSelect('video');">search</a>
+
+              <div style="visibility: hidden;position: absolute;" id="selMenuSearch" class="clsMenuSearch">
+			  <a class="clssearchactive" onclick="chooseSearchSelect('video');">Videos</a>
+              <a onclick="chooseSearchSelect('photo');">Photos</a>
+              <a onclick="chooseSearchSelect('music');">Audios</a>
+
+              <a onclick="chooseSearchSelect('members');">Members</a>
+              <!--<a onClick="chooseSearchSelect('channel');">Channels</a>-->
+              </div>
+
+			  </li>
+			  </ul>
+
+              </div>
+                </td>
+                <td><p class="clsUpload"><a href="http://www.sotwesoora.tv/members/action/videouploadpopup/">upload</a></p></td>
+            </tr>
+          </tbody></table>
+        </form>
+      </div>
+      <!-- End of Search Form -->
+    </div>
+  </div></div>
+  
+  <!-- selSubHeader -->
+<div id="selNavigation">
+    <div id="selNavigationContent">
+      <div id="selSubHeader">
+        <h3>Sub Navigation Links</h3>
+        <div id="selNav">
+
+          <dl class="clsMenu">
+            <dt id="dtmenu2" onmouseout="montreShowDefault('smenu2');" onmouseover="montre('smenu2');" class="clsSubMenu "><a href="http://www.sotwesoora.tv/action/memberslist/"><span class="clsTabNavLink">Members</span></a></dt>
+            <dd onmouseout="montreShowDefault('smenu2');" class="" style="display:none" id="smenu2" onmouseover="montre('smenu2');">
+			  <ul>
+              			    <li><a href="http://www.sotwesoora.tv/action/memberslist/?browse=maleMostFriends">Male with most Friends</a></li>
+			    <li><a href="http://www.sotwesoora.tv/action/memberslist/?browse=femaleMostFriends">Female with most Friends</a></li>
+			    <li><a href="http://www.sotwesoora.tv/action/memberslist/?browse=maleMostViewed">Most viewed Male</a></li>
+			    <li><a href="http://www.sotwesoora.tv/action/memberslist/?browse=femaleMostViewed">Most viewed Female</a></li>
+			    <li><a href="http://www.sotwesoora.tv/action/memberslist/?browse=recentMembers">Recent Members</a></li>
+			    <li><a href="http://www.sotwesoora.tv/action/memberslist/?browse=onlineMembers">Who's Online</a></li>
+			    <li><a href="http://www.sotwesoora.tv/action/memberslist/?browse=mostActiveUsers">Most active users</a>
+
+
+
+				</li></ul>
+
+			</dd>
+          </dl>
+                    <dl class="clsMenu">
+            <dt onmouseout="montreShowDefault('smenu3');" id="dtmenu3" onmouseover="montre('smenu3');" class="clsSubMenu "><a href="http://www.sotwesoora.tv/action/videolist/videonew/"><span class="clsTabNavLink">Videos</span></a></dt>
+            <dd onmouseout="montreShowDefault('smenu3');" class="" style="display:none" id="smenu3" onmouseover="montre('smenu3');">
+				<ul>
+					<li class=""><a href="http://www.sotwesoora.tv/action/videolist/videonew/">Recently Added</a></li>
+					<!--<li class=""><a href="http://www.sotwesoora.tv/action/videolist/videomostrecentlyviewed/">Recently Viewed</a></li>-->
+					<li class=""><a href="http://www.sotwesoora.tv/action/videolist/videomostviewed/">Most Viewed</a>
+				    </li><li class=""><a href="http://www.sotwesoora.tv/action/videolist/videotoprated/">Top Rated</a></li>
+				    <li class=""><a href="http://www.sotwesoora.tv/action/videolist/videomostdiscussed/">Most Discussed</a>
+				    </li><li class=""><a href="http://www.sotwesoora.tv/action/videolist/videomostfavorite/">Most Favorite</a>
+				    </li><li class=""><a href="http://www.sotwesoora.tv/action/videolist/featuredvideolist/">Featured Videos</a>
+				    </li><li class=""><a href="http://www.sotwesoora.tv/action/videolist/videomostlinked/">Most Linked</a>
+				    </li><li class=""><a href="http://www.sotwesoora.tv/action/videolist/videomostresponded/">Most Responded</a>
+				</li></ul>
+			</dd>
+          </dl>
+                              <dl class="clsMenu">
+            <dt onmouseout="montreShowDefault('smenu4');" id="dtmenu4" onmouseover="montre('smenu4');" class="clsSubMenu "><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/"><span class="clsTabNavLink">Articles</span></a></dt>
+             <dd onmouseout="montreShowDefault('smenu4');" class="" style="display:none" id="smenu4" onmouseover="montre('smenu4');">
+				<ul>
+					<li class=""><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/">Recently Added</a></li>
+					<li class=""><a href="http://www.sotwesoora.tv/action/articlelist/articlemostviewed/">Most Viewed</a>
+					</li><li class=""><a href="http://www.sotwesoora.tv/action/articlelist/articletoprated/">Top Rated</a></li>
+					<li class=""><a href="http://www.sotwesoora.tv/action/articlelist/articlemostdiscussed/">Most Discussed</a>
+					</li><li class=""><a href="http://www.sotwesoora.tv/action/articlelist/articlemostfavorite/">Most Favorite</a>
+				</li></ul>
+
+			</dd>
+          </dl>
+                              <dl class="clsMenu">
+            <dt onmouseout="montreShowDefault('smenu5');" id="dtmenu5" onmouseover="montre('smenu5');" class="clsSubMenu "><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/"><span class="clsTabNavLink">Audio</span></a></dt>
+             <dd onmouseout="montreShowDefault('smenu5');" class="" style="display:none" id="smenu5" onmouseover="montre('smenu5');">
+				<ul>
+					<li class=""><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/">Recently Added</a></li>
+				    <li class=""><a href="http://www.sotwesoora.tv/action/musiclist/musicmostviewed/">Most Viewed</a>
+				    </li><li class=""><a href="http://www.sotwesoora.tv/action/musiclist/musictoprated/">Top Rated</a></li>
+				    <li class=""><a href="http://www.sotwesoora.tv/action/musiclist/musicmostdiscussed/">Most Discussed</a>
+				    </li><li class=""><a href="http://www.sotwesoora.tv/action/musiclist/musicmostfavorite/">Most Favorite</a>
+				</li></ul>
+
+			</dd>
+          </dl>
+                              <dl class="clsMenu">
+            <dt onmouseout="montreShowDefault('smenu6');" id="dtmenu6" onmouseover="montre('smenu6');" class="clsSubMenu "><a href="http://www.sotwesoora.tv/action/photolist/photonew/"><span class="clsTabNavLink">Photos</span></a></dt>
+             <dd onmouseout="montreShowDefault('smenu6');" class="" id="smenu6" style="display:none" onmouseover="montre('smenu6');">
+				<ul>
+				    <li class=""><a href="http://www.sotwesoora.tv/action/photolist/photonew/">Recently Added</a></li>
+				    <li class=""><a href="http://www.sotwesoora.tv/action/photolist/photomostviewed/">Most Viewed</a>
+				    </li><li class=""><a href="http://www.sotwesoora.tv/action/photolist/phototoprated/">Top Rated</a></li>
+				    <li class=""><a href="http://www.sotwesoora.tv/action/photolist/photomostdiscussed/">Most Discussed</a>
+					</li><li class=""><a href="http://www.sotwesoora.tv/action/photolist/photomostfavorite/">Most Favorite</a>
+				</li></ul>
+
+			</dd>
+          </dl>
+                    
+                    <dl class="clsMenu">
+            <dt onmouseout="montreShowDefault('smenu9');" id="dtmenu9" onmouseover="montre('smenu9');" class="clsSubMenu "><a href="http://www.sotwesoora.tv/action/community/"><span class="clsTabNavLink">Community</span></a></dt>
+            <dd onmouseout="montreShowDefault('smenu9');" style="display:none" id="smenu9" class="" onmouseover="montre('smenu9');">
+              <ul>
+                                <li class=""><a href="http://www.sotwesoora.tv/action/group/">Groups</a></li>
+                                                <li class=""><a href="http://www.sotwesoora.tv/action/bulletin/">Bulletin</a></li>
+                
+                                <li class=""><a href="http://www.sotwesoora.tv/action/forums/">Forum</a></li>
+                                                <li class=""><a href="http://www.sotwesoora.tv/action/shoutouts/">Shoutouts</a></li>
+                              </ul>
+            </dd>
+          </dl>
+                              <dl class="clsMenu">
+            <dt onmouseout="montreShowDefault('smenu10');" id="dtmenu10" onmouseover="montre('smenu10');" class="clsSubMenu "><a href="http://www.sotwesoora.tv/action/bloglist/"><span class="clsTabNavLink">Blogs</span></a></dt>
+             <dd onmouseout="montreShowDefault('smenu10');" class="" style="display:none" id="smenu10" onmouseover="montre('smenu10');">
+				<ul>
+				  	<li class=""><a href="http://www.sotwesoora.tv/action/blogcategory/">Blog Categories</a></li>
+				  	<li class=""><a href="http://www.sotwesoora.tv/action/bloglist/?pg=newblog">Recently Added</a></li>
+				  	<li class=""><a href="http://www.sotwesoora.tv/action/bloglist/?pg=mostviewblog">Mostly Viewed</a></li>
+				</ul>
+
+			</dd>
+          </dl>
+                             </div>
+      </div>
+    </div>
+  </div>
+<!--SIDEBAR-->
+<div id="sideBar">
+  <!--SIDEBAR1-->
+  <div class="sideBar1">
+    <div class="clsSideBarLinks" id="selSideBarLogin">
+ <div class="lbmember">
+  <div class="rbmember">
+    <div class="bbmember">
+      <div class="blcmember">
+        <div class="brcmember">
+          <div class="tbmember">
+            <div class="tlcmember">
+              <div class="trcmember">
+  <div class="clsMemberLogin"><h3>Member Login</h3>
+  <form id="formIndexLogin" name="formIndexLogin" method="post" action="http://www.sotwesoora.tv/action/login/">
+    <table>
+      <tbody><tr>
+        <td class="clsFormLabelCellDefault">User Name</td>
+        <td class="clsFormFieldCellDefault"><input type="text" class="clsTextBox" name="user_name" value="" id="user_name" size="10"></td>
+      </tr>
+      <tr>
+        <td class="clsFormLabelCellDefault">Password:</td>
+        <td class="clsFormFieldCellDefault"><input type="password" class="clsPasswordBox" name="password" value="" id="password" size="10"></td>
+      </tr>
+      <tr>
+        <td class="clsFormLabelCellDefault"><input type="checkbox" class="clsCheckRadio" name="remember" id="remember" value="1"> <label for="remember">Remember me</label></td>
+
+        <td class="clsFormFieldCellDefault"><input type="submit" class="clsLoginSubmitButton" name="login_submit" id="login_submit" value="Login">
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" class="clsLoginLinks"><a id="selForgotPwd" href="http://www.sotwesoora.tv/action/forgotpassword/">Forgot Your Password?</a>&nbsp;
+                    <a id="selSignUpLink" href="http://www.sotwesoora.tv/action/signup/">Signup</a>
+                  </td>
+      </tr>
+    </tbody></table>
+  </form></div>
+</div>
+ </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="selVideoPlayer">
+  <p class="clsVideoPlayer">
+    <!--<img src="http://www.sotwesoora.tv/images/screen_white/img1.jpg" width="263" height="220" />-->
+    <script type="text/javascript" src="http://www.sotwesoora.tv/js/swfobject.js"></script>
+  </p><div id="flashcontent2"></div>
+  <script type="text/javascript">
+			var so1 = new SWFObject("http://www.sotwesoora.tv/mini_flvplayer.swf", "flvplayer", "217", "172", "7",  null, true);
+			so1.addParam("allowFullScreen", "true");
+			//so1.addParam("wmode", "transparent");
+			so1.addParam("allowSciptAccess", "always");
+			so1.addVariable("config", "http://www.sotwesoora.tv/action/videominiplayerconfigxmlcode/?pg=smallvideo_165_no_0");
+			so1.write("flashcontent2");
+		</script>
+  <p></p>
+  <!--<p>mini</p>-->
+
+</div>
+<div class="clsSideBarLinks" id="selPhotoChannel">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<span class="clsSideBarLeftClose"></span><p class="clsSideBarLeftTitle">Photo Channels</p>
+</div>
+
+ <div class="clsSideBarRight">
+ <div class="clsSideBarContent">
+  <ul>
+      <li><a href="http://www.sotwesoora.tv/action/photolist/photonew/?cid=5">Egyptian Arabic Stars Photos</a>(26)</li>
+        <li><a href="http://www.sotwesoora.tv/action/photolist/photonew/?cid=4">Funny Photos</a>(18)</li>
+        <li><a href="http://www.sotwesoora.tv/action/photolist/photonew/?cid=1">General Photos</a>(13)</li>
+        <li><a href="http://www.sotwesoora.tv/action/photolist/photonew/?cid=2">Members Photos</a>(5)</li>
+        <li><a href="http://www.sotwesoora.tv/action/photolist/photonew/?cid=3">Movie Poster</a>(32)</li>
+      </ul></div>
+</div></div></div>
+<div class="clsSideBarLinks" id="selPhotoTags">
+<div class="clsSideBar">
+	<div class="clsSideBarLeft">
+		<span class="clsSideBarLeftClose"></span>
+		<p class="clsSideBarLeftTitle">Photo Tags</p>
+	</div>
+ <div class="clsSideBarRight">
+  <div class="clsSideBarContent">
+    <p>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=3adel" style="font-size:12px">3adel</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=3ezz" style="font-size:14px">3ezz</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=3ola" style="font-size:14px">3ola</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=Abdel" style="font-size:18px">Abdel</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=Ahmed" style="font-size:26px">Ahmed</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=Aziz" style="font-size:12px">Aziz</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=Ghada" style="font-size:15px">Ghada</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=Ghanem" style="font-size:14px">Ghanem</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=Haifa" style="font-size:27px">Haifa</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=Helmi" style="font-size:14px">Helmi</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=Khaled" style="font-size:20px">Khaled</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=Menna" style="font-size:14px">Menna</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=Wahbi" style="font-size:28px">Wahbi</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=Zaki" style="font-size:14px">Zaki</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=marwa" style="font-size:15px">marwa</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/photolist/photonew/?tags=shalabi" style="font-size:14px">shalabi</a></span>
+      </p>
+  <p class="clsMoreTags"><a href="http://www.sotwesoora.tv/action/tags/photo/">More &gt;&gt;</a></p>
+  </div></div></div></div>
+<div class="clsSideBarLinks">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<span class="clsSideBarLeftClose"></span><p class="clsSideBarLeftTitle">Video Channels</p>
+</div>
+
+<div class="clsSideBarRight">
+<div class="clsSideBarContent">
+  <ul>
+      <li><a href="http://www.sotwesoora.tv/action/videolist/videonew/?cid=1">Action</a>(46)</li>
+        <li><a href="http://www.sotwesoora.tv/action/videolist/videonew/?cid=15">Classic</a>(23)</li>
+        <li><a href="http://www.sotwesoora.tv/action/videolist/videonew/?cid=2">Comedy</a>(108)</li>
+        <li><a href="http://www.sotwesoora.tv/action/videolist/videonew/?cid=3">Drama</a>(60)</li>
+        <li><a href="http://www.sotwesoora.tv/action/videolist/videonew/?cid=6">Foreign</a>(6)</li>
+        <li><a href="http://www.sotwesoora.tv/action/videolist/videonew/?cid=5">History</a>(9)</li>
+        <li><a href="http://www.sotwesoora.tv/action/videolist/videonew/?cid=7">New Releases</a>(25)</li>
+        <li><a href="http://www.sotwesoora.tv/action/videolist/videonew/?cid=4">Romantic</a>(24)</li>
+        <li><a href="http://www.sotwesoora.tv/action/videolist/videonew/?cid=8">Theater</a>(13)</li>
+      </ul>
+</div></div></div></div>
+<div class="clsSideBarLinks">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<span class="clsSideBarLeftClose"></span>
+<p class="clsSideBarLeftTitle">Video Tags</p>
+</div>
+
+  <div class="clsSideBarRight">
+   <div class="clsSideBarContent">
+    <p>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=........." style="font-size:28px">.........</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=Ahmed" style="font-size:22px">Ahmed</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=Aziz" style="font-size:17px">Aziz</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=Emam" style="font-size:19px">Emam</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=Hasan" style="font-size:13px">Hasan</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=Hosny" style="font-size:14px">Hosny</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=Kamel" style="font-size:13px">Kamel</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=Khaled" style="font-size:12px">Khaled</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=Mahmoud" style="font-size:16px">Mahmoud</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=Mohamed" style="font-size:15px">Mohamed</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=Nour" style="font-size:12px">Nour</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=Ramzi" style="font-size:13px">Ramzi</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=Yousra" style="font-size:13px">Yousra</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=Zaki" style="font-size:15px">Zaki</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=abdel" style="font-size:21px">abdel</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/videolist/videonew/?tags=adel" style="font-size:20px">adel</a></span>
+      </p>
+  <p class="clsMoreTags"><a href="http://www.sotwesoora.tv/action/tags/video/">More &gt;&gt;</a></p>
+  </div></div></div></div>
+<div class="clsSideBarLinks">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<span class="clsSideBarLeftClose"></span><p class="clsSideBarLeftTitle">Article Channels</p>
+</div>
+
+ <div class="clsSideBarRight">
+  <div class="clsSideBarContent">
+  <ul>
+      <li><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?cid=2">Egyptian and Arabic Star News</a>(11)</li>
+        <li><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?cid=1">Egyptian Cinema News</a>(1)</li>
+        <li><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?cid=3">Egyptian stars Biography</a>(7)</li>
+        <li><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?cid=4">General Articles</a>(1)</li>
+      </ul>
+</div></div></div></div>
+<div class="clsSideBarLinks">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<span class="clsSideBarLeftClose"></span>
+<p class="clsSideBarLeftTitle">Article Tags</p>
+</div>
+
+ <div class="clsSideBarRight">
+  <div class="clsSideBarContent">
+    <p>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=3eed" style="font-size:12px">3eed</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=Abdel" style="font-size:12px">Abdel</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=Forex" style="font-size:12px">Forex</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=Hafez" style="font-size:12px">Hafez</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=Halim" style="font-size:12px">Halim</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=SHerif" style="font-size:28px">SHerif</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=abul" style="font-size:12px">abul</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=ahmed" style="font-size:20px">ahmed</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=amro" style="font-size:12px">amro</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=basem" style="font-size:12px">basem</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=basma" style="font-size:12px">basma</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=currency" style="font-size:12px">currency</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=donia" style="font-size:12px">donia</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=elsamra" style="font-size:12px">elsamra</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=elsaqa" style="font-size:12px">elsaqa</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/articlelist/articlenew/?tags=exchange" style="font-size:12px">exchange</a></span>
+      </p>
+  <p class="clsMoreTags"><a href="http://www.sotwesoora.tv/action/tags/article/">More &gt;&gt;</a></p>
+  </div></div></div></div>
+<div class="clsSideBarLinks">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<span class="clsSideBarLeftClose"></span>
+<p class="clsSideBarLeftTitle">Audio Channels</p>
+</div>
+
+  <div class="clsSideBarRight">
+   <div class="clsSideBarContent">
+  <ul>
+      <li><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?cid=6">Egyptian Arabic Instrumental Music</a>(8)</li>
+        <li><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?cid=4">Egyptian Classic Music</a>(6)</li>
+        <li><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?cid=2">Egyptian Music</a>(20)</li>
+        <li><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?cid=3">Gulf Music (khaligi)</a>(1)</li>
+        <li><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?cid=1">Lebanese Music</a>(10)</li>
+        <li><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?cid=5">Magreb Music</a>(0)</li>
+      </ul>
+</div></div></div></div>
+<div class="clsSideBarLinks">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<span class="clsSideBarLeftClose"></span>
+<p class="clsSideBarLeftTitle">Audio Tags</p>
+</div>
+
+<div class="clsSideBarRight">
+<div class="clsSideBarContent">
+    <p>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=3allama" style="font-size:12px">3allama</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=Amro" style="font-size:15px">Amro</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=Diab" style="font-size:12px">Diab</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=ElZoghby" style="font-size:15px">ElZoghby</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=Fouad" style="font-size:18px">Fouad</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=Hafez" style="font-size:12px">Hafez</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=Halim" style="font-size:12px">Halim</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=Hosny" style="font-size:20px">Hosny</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=Khaled" style="font-size:12px">Khaled</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=Khayrat" style="font-size:28px">Khayrat</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=Mohamed" style="font-size:18px">Mohamed</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=Nawal" style="font-size:15px">Nawal</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=Omar" style="font-size:28px">Omar</a></span>
+        <span class="clsTagStyleGrey"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=Sherin" style="font-size:15px">Sherin</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=Tamer" style="font-size:20px">Tamer</a></span>
+        <span class="clsTagStyleOrange"><a href="http://www.sotwesoora.tv/action/musiclist/musicnew/?tags=Umkolthoum" style="font-size:18px">Umkolthoum</a></span>
+      </p>
+  <p class="clsMoreTags"><a href="http://www.sotwesoora.tv/action/tags/music/">More &gt;&gt;</a></p>
+  </div></div> </div></div>
+<div class="clsSideBarLinks">
+<div class="clsSideBar"><div class="clsSideBarLeft">
+<span class="clsSideBarLeftClose"></span>
+<p class="clsSideBarLeftTitle">Recent Blogs</p>
+</div>
+
+ <div class="clsSideBarRight">
+  <div class="clsSideBarContent">
+    <ul>
+        <li><a href="http://www.sotwesoora.tv/action/blogcomment/?blog_id=1">need help</a></li>
+      </ul>
+  <p class="clsMoreTags"><a href="http://www.sotwesoora.tv/action/bloglist/">More &gt;&gt;</a></p>
+  </div></div></div></div>
+<div class="clsSideBarLinks" id="selFeaturedMembers">
+<div class="clsSideBar"><div>
+<p class="clsSideBarLeftTitle">Featured Member</p>
+</div>
+
+ <div class="clsSideBarRight">
+ <div class="clsSideBarContent">
+    <table>
+    <tbody><tr>
+      <td><div class="clsFeaturedMemberImg">
+          <p id="selImageBorder"><a href="http://www.sotwesoora.tv/Dooody/"><img src="http://www.sotwesoora.tv/files/photos/ad61ab143223efbS.jpg" alt="Dooody" title="Dooody"></a></p>
+        </div></td>
+      <td><ul id="selIndexMember">
+          <li class="clsViewMembers"><a href="http://www.sotwesoora.tv/action/viewfriends/Dooody/">Friends&nbsp;:&nbsp;1</a></li>
+                    <li class="clsVideos"><a href="http://www.sotwesoora.tv/action/videolist/uservideolist/?user_id=1964">Videos&nbsp;:&nbsp;0</a></li>
+                              <li class="clsMusics"><a href="http://www.sotwesoora.tv/action/musiclist/usermusiclist/?user_id=1964">Audio&nbsp;:&nbsp;0</a></li>
+                              <li class="clsPhotos"><a href="http://www.sotwesoora.tv/action/photolist/userphotolist/?user_id=1964">Photos&nbsp;:&nbsp;1</a></li>
+                  </ul></td>
+    </tr>
+   <tr>
+	<td colspan="2"><p class="clsFMName">Dooody</p>
+	  <p class="clsFMDet">18/F </p>
+	  <p class="clsFMLocation"></p></td>
+  </tr>
+ </tbody></table>
+  </div></div></div></div>
+  </div>
+  <!--end of SIDEBAR1-->
+    <!--sideBar2-->
+     <div class="sideBar2">
+    <div class="clsRightSideBanners">
+      <p></p><p align="left">
+<!-- BEGIN STANDARD TAG - popunder only - sotwesoora.com: Run-of-site - DO NOT MODIFY -->
+<script type="text/javascript" src="http://adserving.cpxinteractive.com/st?ad_type=pop&amp;ad_size=0x0&amp;section=152860&amp;banned_pop_types=29&amp;pop_times=1&amp;pop_frequency=86400"></script>
+<!-- END TAG -->
+<!-- BEGIN STANDARD TAG - 160 x 600/120 x 600 - sotwesoora.com: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="160" height="600" src="http://adserving.cpxinteractive.com/st?ad_type=iframe&amp;ad_size=160x600,120x600&amp;section=152860"></iframe>
+<!-- END TAG --></p>
+      <p><!-- Begin: AdBrite -->
+<script type="text/javascript">
+   var AdBrite_Title_Color = '6C82B5';
+   var AdBrite_Text_Color = '7F7F7F';
+   var AdBrite_Background_Color = 'FFFFFF';
+   var AdBrite_Border_Color = 'FFFFFF';
+   var AdBrite_URL_Color = '6C82B5';
+</script>
+<script src="http://ads.adbrite.com/mb/text_group.php?sid=401926&amp;zs=3136305f363030" type="text/javascript"></script>
+</p><div><a target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=401926&amp;afsid=1" style="font-weight:bold;font-family:Arial;font-size:13px;">Your Ad Here</a></div>
+<!-- End: AdBrite -->
+<p>
+<!-- BEGIN STANDARD TAG - 120 x 600 - sotwesoora.com: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="120" height="600" src="http://adserving.cpxinteractive.com/st?ad_type=iframe&amp;ad_size=120x600&amp;section=152860"></iframe>
+<!-- END TAG --></p>
+    </div>
+  </div>
+     <!--end of SIDEBAR2-->
+  </div>
+<!--end of SIDEBAR-->
+<!-- Main -->
+<div id="main" class="clsMain clsMainNoBanner  clsHasAdVertisement">
+<div class="clsUserBanner7">
+<script type="text/javascript"><!--
+google_ad_client = "pub-3208769886672496";
+/* 468x15, created 2/5/08 */
+google_ad_slot = "7976466527";
+google_ad_width = 468;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<p>
+			<a target="_blank" href="http://www.matigi.tv/">
+			</a>
+
+</p><table border="0" style="border-collapse: collapse" width="500" id="table1">
+	<tbody><tr>
+		<td width="500" align="center" colspan="2">
+		<div align="center">
+			<table border="0" cellpadding="0" style="border-collapse: collapse" width="100%">
+				<tbody><tr>
+					<td>&nbsp;<embed src="http://www.matigi.tv/flvplayer.swf" flashvars="config=http://www.matigi.tv/action/videoconfigxmlcode/?pg=video_174_0" quality="high" bgcolor="#000000" width="360" height="200" name="flvplayer" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" allowfullscreen="true"></td>
+					<td>
+			<a target="_blank" href="http://www.matigi.tv/">
+<img border="0" src="http://www.sotwesoora.tv/pics/logo.jpg" width="98" height="115"></a></td>
+				</tr>
+			</tbody></table>
+		</div>
+
+</td>
+	</tr>
+	<tr>
+		<td width="100" align="center">
+		<p align="center"><!-- Begin Banner Code --> 
+<script language="JavaScript">
+<!-- 
+random = parseInt(Math.random()*10000)
+banner = '<a href="http://www.copticweb.tv/cgi-bin/search/click2.cgi?grp=26&'
+banner += 'pg=' + random + '" TARGET="_blank">'
+banner += '<img src="http://www.copticweb.tv/cgi-bin/search/click.cgi?grp=26&'
+banner += 'pg=' + random + '" alt="Click Here!" BORDER=0 width="90" height="510"></a>'
+document.write(banner)
+// -->
+</script><a href="http://www.copticweb.tv/cgi-bin/search/click2.cgi?grp=26&amp;pg=9742" target="_blank"><img src="http://www.copticweb.tv/cgi-bin/search/click.cgi?grp=26&amp;pg=9742" alt="Click Here!" border="0" width="90" height="510"></a>
+<noscript>
+<a href="http://www.copticweb.tv/cgi-bin/search/click2.cgi?grp=26&pg=01">
+<img src="http://www.copticweb.tv/cgi-bin/search/click.cgi?grp=26&pg=01"
+alt="Click Here!" BORDER=0 width="90" height="510"></a>
+</noscript>
+<!-- End Banner Code -->
+
+</p></td>
+		<td width="400" align="left"><br>
+	<script type="text/javascript"><!--
+google_ad_client = "pub-3208769886672496";
+/* 300x250, created 1/31/08 */
+google_ad_slot = "5421711753";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+		<p align="left"><script type="text/javascript"><!--
+google_ad_client = "pub-3208769886672496";
+/* 300x250, created 1/31/08 */
+google_ad_slot = "5421711753";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p></td>
+	</tr>
+</tbody></table></div>
+
+<div id="selStaticPage">
+<div id="pagewidth">
+<div class="clearfix" id="wrapper">
+<div class="clearfix" id="twocols">
+<div id="maincol">
+<div id="loose">
+<div id="content">
+<div id="inner">
+<h1>Privacy Policy</h1>
+<p>The use of the Sotwesoora<br>&nbsp;website(s) and/or Sotwesoora<br>&nbsp;software and any Sotwesoora<br>&nbsp;services and products (collectively, the "Website") provided by Sotwesoora<br>&nbsp;Inc. ("Sotwesoora<br>") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the Sotwesoora<br>&nbsp;<a href="http://sotwesoora.tv/sotwestv/members/action/static/toc/">Terms &amp; Conditions</a>. If you do not agree to this Privacy Policy, please do not use the Website.</p>
+<p><b>General</b></p>
+<p>Sotwesoora<br>&nbsp;takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information. </p>
+<p>BY USING, ACCESSING OR DOWNLOADING THE WEBSITE), YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), ALL IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. Sotwesoora<br>&nbsp;reserves the right to amend this Privacy Policy at any time and without notice, and it is your responsibility to review this Privacy Policy for any changes. Your use of the Website following any amendment of this Privacy Policy will signify your assent to and acceptance of its revised terms.</p>
+<p>If you are under the age of 13, you are not eligible to use the Website, and we ask you not to submit any personal information to us. </p>
+<p>Please note that any video, image, or other content posted at the direction of users onto the Sotwesoora<br>&nbsp;website becomes published content and is not considered personally identifiable information subject to this Privacy Policy. <br>Collection of Information Personal Information. Use of certain features of the Website may require submission of certain personal information, including your first and last name, email address, a nickname (or other user ID) and a password. </p>
+<p>Non personally identifiable Information. Sotwesoora<br>&nbsp;may also collect or receive additional non-personally identifiable usage information specifically related to the use of a particular feature or offering on the Website, and responses to the offerings and advertisements presented on the Website.</p>
+<p>Sotwesoora<br>&nbsp;may also collect or receive (in some cases as part of the internet communication protocol) certain non-personally identifiable technical information, when the Website and pages are visited or when a Sotwesoora<br>&nbsp;client is used.</p>
+<p><b>How is the information being used? </b></p>
+<p>The information is used to operate and improve the features, offerings and content presented to you by Sotwesoora<br>, to personalize the content and advertisements provided to you; to fulfill your requests for products, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Website; and to help offer you other products, programs, or services that may be of interest. </p>
+<p>Please note that Sotwesoora<br>&nbsp;may use your personally identifiable information to present offers to you on behalf of business partners and advertisers. However, while Sotwesoora<br>'s business partners and advertisers may receive aggregate data about Sotwesoora<br>&nbsp;users, any personally identifiable information of yours will not be shared with third parties unless you have consented to the sharing of this information. </p>
+<p>Notwithstanding the foregoing, your information may be accessed and disclosed if and as required by legal procedures, as determined by Sotwesoora<br>&nbsp;in good faith. Furthermore, Sotwesoora<br>&nbsp;may transfer personally identifiable information in the event of a transfer of ownership of Sotwesoora<br>&nbsp;or any of its websites or products, in which case the information could become subject to a different privacy policy.</p>
+<p><b>Cookies</b></p>
+<p>Sotwesoora<br>&nbsp;may use cookies or similar technologies to enhance and personalize your experience of the Website, including to operate and improve offerings through the Website; to help authenticate your identity when you visit and transact with the Website; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you. </p>
+<p>Sotwesoora<br>&nbsp;does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Website may be impaired if you decline to accept cookies.</p>
+<p><b><a name="Third_Party_Ad_Servers">Third Party Ad Servers</a></b></p>
+<p>Sotwesoora<br>&nbsp;or its advertisers may use other companies known as third party ad servers to help present advertisements online in connection with the Website. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not Sotwesoora<br>'s. </p>
+<p><b>Security</b></p>
+<p>Sotwesoora<br>&nbsp;has implemented security policies, rules and technical measures to protect and safeguard the personally identifiable information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our personnel that have access to, and are associated with the processing of your personally identifiable information, are obligated to respect the confidentiality of the information.</p>
+<p><b>California Privacy Policy</b></p>
+<p>Sotwesoora<br>'s Privacy Policy is to share personal information only with the owner's informed consent. With your consent, from time-to-time, Sotwesoora<br>&nbsp;may provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know. If you have further inquires regarding Sotwesoora<br>'s information sharing practices, please let us know. </p>
+<p><b>Special Note for Parents</b></p>
+<p>Protecting the privacy of young children is especially important. For that reason, Sotwesoora<br>&nbsp;does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If Sotwesoora<br>&nbsp;learns that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then Sotwesoora<br>&nbsp;will take the appropriate steps to delete this information.</p>
+<p><b>Modification and Deletion of Personally Identifiable Information</b></p>
+<p>Deletion (Opt-Out). In order to delete the personally identifiable information you submitted, notify us at <a href="http://sotwesoora.tv/sotwestv/members/action/contactus/">Contact</a> that you wish to delete your personally identifiable information or any part thereof contained at our databases. </p>
+<p>Modification. If you wish to modify or update your personally identifiable information, use the Website or application interface. If you need help, please contact us at support@Sotwesoora<br>.com <br>Please note that deletion of your personally identifiable information from Sotwesoora<br>'s database will not prevent Sotwesoora<br>&nbsp;from using gathered anonymous information. </p>
+<p>Third Parties' Practices. This Privacy Policy does not cover the information practices exercised by other providers of products or services, advertisers or other web sites, or companies/people that Sotwesoora<br>&nbsp;does not own or control, or does not employ or manage.</p>
+<p><b>Non-U.S. Users</b></p>
+<p>The Website is hosted in the United States. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer.</p></div></div></div></div></div></div></div></div>
+<div class="clsUserBanner4"><p></p><table border="1" style="border-collapse: collapse" width="475" id="table1" bordercolor="#FFFFFF">
+	<tbody><tr>
+		<td width="160">
+		<p align="center"><!-- BEGIN STANDARD TAG - 160 x 600 - sotwesoora.com: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="160" height="600" src="http://adserving.cpxinteractive.com/st?ad_type=iframe&amp;ad_size=160x600&amp;section=152860" name="I1"></iframe>
+<!-- END TAG -->
+		</p></td>
+		<td>
+		<p align="center">&nbsp;<!-- BEGIN STANDARD TAG - 300 x 250 - sotwesoora.com: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="300" height="250" src="http://adserving.cpxinteractive.com/st?ad_type=iframe&amp;ad_size=300x250&amp;section=152860"></iframe>
+<!-- END TAG --><br>
+		<br>
+&nbsp;&nbsp;<!-- BEGIN STANDARD TAG - 234 x 60 - sotwesoora.com: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="234" height="60" src="http://adserving.cpxinteractive.com/st?ad_type=iframe&amp;ad_size=234x60&amp;section=152860"></iframe>
+<!-- END TAG --><br>
+		<br>
+&nbsp;&nbsp;  <!-- BEGIN STANDARD TAG - 300 x 250 - sotwesoora.com: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="300" height="250" src="http://adserving.cpxinteractive.com/st?ad_type=iframe&amp;ad_size=300x250&amp;section=152860"></iframe>
+<!-- END TAG -->  </p></td>
+	</tr>
+</tbody></table><p></p></div>
+
+<!-- Footer begins -->
+
+</div>
+
+<!-- Footer -->
+
+
+
+<div id="footer">
+
+  
+
+  <p><!-- BEGIN STANDARD TAG - 728 x 90 - sotwesoora.com: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="728" height="90" src="http://adserving.cpxinteractive.com/st?ad_type=iframe&amp;ad_size=728x90&amp;section=152860"></iframe>
+<!-- END TAG -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-3208769886672496";
+/* 728x15, created 2/5/08 */
+google_ad_slot = "8517267797";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><!-- BEGIN STANDARD TAG - popunder only - sotwesoora.com: Run-of-site - DO NOT MODIFY -->
+<script type="text/javascript" src="http://adserving.cpxinteractive.com/st?ad_type=pop&amp;ad_size=0x0&amp;section=152860&amp;banned_pop_types=29&amp;pop_times=1&amp;pop_frequency=86400"></script>
+<!-- END TAG -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-4281964-1";
+urchinTracker();
+</script></p>
+
+	
+
+  <script language="javascript">
+
+  function changeSearchAction()
+
+  	{
+
+			var type='video';
+
+			tag_value=$('tags_footer').value;
+
+			if(tag_value!='')
+
+				location = 'http://www.sotwesoora.tv//searchList.php?search_type='+type+'&tags='+tag_value;		
+
+	}
+
+	initShowHideDivs()
+
+	initUserMenus();
+
+  </script>
+
+  <div id="selFooterCommonSearch">
+
+  <form name="searchFooterForm" onsubmit="if(trim($('tags_footer').value)!='') return true; else return false;" id="searchFooterForm" action="http://www.sotwesoora.tv/action/searchlist/" method="get">  
+
+  	<input type="hidden" name="search_type" value="video">
+
+      <table>
+
+        <tbody><tr>
+
+          <td><input type="text" class="clsTextBox clsSearchTextBox" name="tags" id="tags_footer" value="" tabindex="100"></td>
+
+          <td>
+
+		  <!--<input type="button" onClick="changeSearchAction();"  class="clsSearchSubmitButton" name="commonSearchSubmit" id="commonSearchSubmit" value="Search" tabindex="110" />-->
+
+		  <input type="submit" class="clsSearchSubmitButton" name="commonSearchSubmit" id="commonSearchSubmit" value="Search" tabindex="110">
+
+		  </td>
+
+        </tr>
+
+      </tbody></table>
+
+ </form>	  
+
+  </div>
+
+
+
+ 
+
+   <div id="selSubFooter"> <h2><span>Miscellaneous Navigational Links</span></h2></div>
+
+  <div id="subFooter">
+
+  <div id="selAccount">
+
+  <h2>Account</h2>
+
+    <ul>
+
+      <li><a href="http://www.sotwesoora.tv/action/videolist/videonew/">videos</a></li>
+
+      <li><a href="http://www.sotwesoora.tv/action/videoplaylist/">playlist</a></li>
+
+      <!--<li><a href="#">subscription</a></li>-->
+
+      
+
+
+      <li><a href="http://www.sotwesoora.tv/members/action/videolist/myfavoritevideos/">favourites</a></li>
+
+	
+
+
+      <li><a href="http://www.sotwesoora.tv/action/mail/inbox/">inbox</a></li>
+
+	  
+
+      <!--<li><a href="#">more..</a></li>-->
+
+    </ul>
+
+
+
+  <h2>RSS</h2>
+
+
+			<ul>
+
+				
+			    <li class="rss"><a href="http://www.sotwesoora.tv/action/rssvideo/">RSS Video</a></li>
+
+				
+				
+			    <li class="rss"><a href="http://www.sotwesoora.tv/action/rssmusic/">RSS Audio</a></li>
+
+				
+				
+			    <li class="rss"><a href="http://www.sotwesoora.tv/action/rssphoto/">RSS photo</a></li>
+
+				
+
+  </ul></div>
+
+
+
+
+
+  
+
+  <div id="selHelpInfo">
+
+  <h2>HelpInfo</h2>
+
+    <ul>
+
+      <li><!--<a href="http://www.sotwesoora.tv/action/faq/">help center</a>--></li>
+
+
+				<li><a href="http://www.sotwesoora.tv/action/static/copyrightnotices/">copyright notices</a></li>
+
+	  
+
+      <!--<li><a href="#">developer apls</a></li>
+
+      <li><a href="#">copyright notices</a></li>
+
+      <li><a href="#">video toolbox</a></li>
+
+      <li><a href="#">safety tips</a></li>
+
+      <li><a href="#">code of conduct</a></li>-->
+
+    </ul>
+
+  </div>
+
+  <div id="selRayzz">
+
+ <h2>Other</h2>
+
+    <ul>
+
+
+				<li><a href="http://www.sotwesoora.tv/action/static/privacy/">privacy policy</a></li>
+
+
+				<li><a href="http://www.sotwesoora.tv/action/static/toc/">Terms and Condition</a></li>
+
+
+				<li><a href="http://www.sotwesoora.tv/action/static/companyinfo/">company info</a></li>
+
+	 	
+
+      <!--<li><a href="#">company info</a></li>
+
+      <li><a href="#">terms of use</a></li>
+
+      <li><a href="#">press</a></li>
+
+      <li><a href="#">blog</a></li>
+
+      <li><a href="#">test rayzz</a></li>
+
+      <li><a href="#">privacy policy</a></li>
+
+      <li><a href="#">jobs</a></li>-->
+
+      <li><a href="http://www.sotwesoora.tv/action/contactus/">contact</a></li>	  
+
+    </ul>
+
+  </div>
+
+   </div>
+
+  <p>© 2007 Sotwesoora.tv: The Egyptian Movie Channel. All rights reserved.</p>
+
+</div>
+
+</div>
+
+  <p class="clsPoweredByAgriya"><span class="clsPoweredText">Powered By <a href="http://www.sotwesoora.tv/">Sotwesoora.tv</a></span></p>
+
+</div>
+
+
+
+<!--
+<benchmark>
+
+<hr />
+(mysql): SELECT new_mails, total_friends, total_videos, privacy, status_msg_id FROM users WHERE user_id = 0 &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT add_id, source FROM advertisement WHERE post_from='Admin' AND block='user_banner1' AND status='activate' &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT video_id, video_title FROM video as p WHERE p.video_status='Ok' AND (p.user_id = 0 OR p.video_access_type = 'Public') ORDER BY RAND() LIMIT 0,1 &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT P.photo_category_id, COUNT(P.photo_id) AS total_photos FROM photo AS P WHERE P.photo_status='Ok' GROUP BY photo_category_id HAVING total_photos&gt;0 &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT photo_category_id, photo_category_name, photo_category_description, photo_category_status, photo_category_ext, date_added FROM photo_category WHERE photo_category_status = 'Yes' ORDER BY photo_category_name ASC  &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT tag_name, result_count AS search_count FROM tags_photo WHERE result_count&gt;0 ORDER BY result_count DESC, tag_name ASC LIMIT 16 &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT P.video_category_id, COUNT(P.video_id) AS total_videos FROM video AS P WHERE P.video_status='Ok' GROUP BY video_category_id HAVING total_videos&gt;0 &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT video_category_id, video_category_name, video_category_type, video_category_description, video_category_status, video_category_ext, date_added FROM video_category WHERE parent_category_id=0 AND video_category_status = 'Yes' ORDER BY video_category_name ASC  &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT tag_name, result_count AS search_count FROM tags_video WHERE result_count&gt;0 ORDER BY result_count DESC, tag_name ASC LIMIT 16 &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT P.article_category_id, COUNT(P.article_id) AS total_articles FROM article AS P WHERE P.article_status='Ok' GROUP BY article_category_id HAVING total_articles&gt;0 &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT article_category_id, article_category_name, article_category_description, article_category_status, date_added FROM article_category WHERE article_category_status = 'Yes' ORDER BY article_category_name ASC  &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT tag_name, result_count AS search_count FROM tags_article WHERE result_count&gt;0 ORDER BY result_count DESC, tag_name ASC LIMIT 16 &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT P.music_category_id, COUNT(P.music_id) AS total_musics FROM music AS P WHERE P.music_status='Ok' GROUP BY music_category_id HAVING total_musics&gt;0 &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT music_category_id, music_category_name, music_category_description, music_category_status, music_category_ext, date_added FROM music_category WHERE music_category_status = 'Yes' ORDER BY music_category_name ASC  &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT tag_name, result_count AS search_count FROM tags_music WHERE result_count&gt;0 ORDER BY result_count DESC, tag_name ASC LIMIT 16 &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT  blog_id, subject FROM blogs WHERE status='Active' ORDER BY blog_id DESC LIMIT 20 &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT user_id FROM users_featured &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT user_name, first_name, last_name, user_id, total_videos, total_musics, total_photos, total_friends, icon_id, icon_type, sex, age, country, city, relation_status FROM users WHERE user_id = '1964' &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT photo_server_url,photo_ext,l_width,l_height,t_width,t_height,s_width,s_height FROM photo WHERE photo_id='74' AND photo_status!='Deleted' AND photo_status!='Locked' &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT add_id, source FROM advertisement WHERE post_from='Admin' AND block='user_banner2' AND status='activate' &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT add_id, source FROM advertisement WHERE post_from='Admin' AND block='user_banner3' AND status='activate' &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT add_id, source FROM advertisement WHERE post_from='Admin' AND block='user_banner7' AND status='activate' &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT content FROM static_pages WHERE page_name='privacy' AND status='Activate' &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT add_id, source FROM advertisement WHERE post_from='Admin' AND block='user_banner4' AND status='activate' &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT add_id, source FROM advertisement WHERE post_from='Admin' AND block='user_banner5' AND status='activate' &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT page_name, title FROM static_pages WHERE status='Activate' AND display_in='both' AND display_tab='helpinfo'  &nbsp; 
+<hr />
+
+
+<hr />
+(mysql): SELECT page_name, title FROM static_pages WHERE status='Activate' AND display_in='both' AND display_tab='rayzz'  &nbsp; 
+<hr />
+
+</benchmark>
+-->
+
+<!--
+<benchmark>
+  <parsetime>
+    <sec>0.08491</sec>
+  </parsetime>
+</benchmark>
+--><script language="javascript">
+	//from bizreel	
+	if(document.getElementById('selPageBody'))
+	{
+	var a = document.getElementById('selPageBody').getElementsByTagName('a');
+	//var site_url = ;
+	for(var i=0; i<a.length; i++){		
+		clk = a[i].onclick + '';
+		if((clk == 'null') || (clk == 'undefined') || (clk=='')){
+			a[i].onclick = function(){
+				var hurl = this.href;			
+				if(hurl.indexOf('http://www.sotwesoora.tv/')<0)
+					this.target = "_blank";
+			}
+		}
+	}
+	}
+</script>
+</body></html>
