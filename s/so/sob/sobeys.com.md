@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sobeys.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210090417id_/http%3A//www.sobeys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sobeys.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608053020id_/http%3A//www.sobeys.com/privacy) for the most accurate reproduction.*
 
-# Sobeys | Privacy
+# Sobeys | Privacy Policy
 
 Protecting the privacy and confidentiality of your personal information has always been a fundamental principle in our relationship with you. This Privacy Statement tells you how we will ensure the confidentiality and privacy of the information that you entrust us with. 
 
