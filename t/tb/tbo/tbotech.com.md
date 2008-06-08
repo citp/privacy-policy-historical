@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the tbotech.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210080431id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbotech.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608084844id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.*
 
-# privacy policy
+# Privacy policy
 
 ### _Privacy Policy_
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's IP address, but not the e-mail address. 
 
-We collect e-mail address of those who purchase from us and from those who opt-in to our e-mail list. The information we collect is used by us to contact consumers for marketing purposes. If you do not want to receive e-mail from us in the future, please let us know by sending an e-mail to [**remove@tbotech.com**](mailto:remove@tbotech.com). 
+We collect e-mail address of those who purchase from us and from those who opt-in to our e-mail list. The information we collect is used by us to contact consumers for marketing purposes. If you do not want to receive e-mail from us in the future, you simply click the unsubscribe link. 
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart. 
 
-If you supply us with your telephone number we will only contact you if we have questions regarding an order you have placed on-line. 
+Your telephone number we will only be used if we have questions regarding an order you have placed on-line.
 
 **We do _not_ share your information with anyone. This includes your e-mail address.**
 
