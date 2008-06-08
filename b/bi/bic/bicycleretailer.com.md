@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bicycleretailer.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210222834id_/http%3A//www.bicycleretailer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bicycleretailer.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608232412id_/http%3A//www.bicycleretailer.com/privacy.html) for the most accurate reproduction.*
 
 # Bicycle Retailer and Industry News
 
