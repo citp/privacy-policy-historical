@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the skinz.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216180140id_/http%3A//www.skinz.org/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinz.org privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608213407id_/http%3A//www.skinz.org/privacy.phtml) for the most accurate reproduction.*
 
 # 
 
-Skinz.org has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: **www.skinz.org** and network sites. The www.skinz.org site, and network Web sites ("sites") are operated by Skinz.org located in New York. You can reach us with questions regarding this statement via e-mail at [skinz@skinz.org](mailto:skinz@skinz.org). 
+Skinz.org has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: **Cookies/Third Party Cookies**  
+Please be aware that by using this website, any third parties may be placing and reading cookies on your user's browser, or using web beacons to collect information, in the course of ads being served on your website including but not limited to Google Adsense cookies. You can adjust these settings by going into your web browser and changing the cookies settings. In Internet Explorer this is under Tools, Internet Options, Privacy, Advanced and in Mozilla Firefox, it is located in Tools, Options, Privacy, Cookies.
+
+**www.skinz.org** and network sites. The www.skinz.org site, and network Web sites ("sites") are operated by Skinz.org located in New York. You can reach us with questions regarding this statement via e-mail at [pro@prourl.com](mailto:pro@prourl.com). 
 
 Your IP address is used only when you become a member as a backup identification tool for polls and other member services. 
 
@@ -44,7 +47,7 @@ Email [support@skinz.org](mailto:support@skinz.org) to modify your surveys and u
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, you can contact [skinz@skinz.org](mailto:skinz@skinz.org). For other questions regarding the practices of this site, or your dealings with this Web site, contact [support@skinz.org](mailto:support@skinz.org). 
+If you have any questions about this privacy statement, you can contact [pro@prourl.com](mailto:pro@prourl.com). For other questions regarding the practices of this site, or your dealings with this Web site, contact [support@skinz.org](mailto:support@skinz.org). 
 
 At SKINZ.ORG we are committed to providing you information tailored to your individual wants and needs. We also recognize the importance of protecting personally identifiable information relating to you, our users and subscribers. SKINZ.ORG does not collect personally identifying information about individuals, except when specifically and knowingly provided by such individuals. When you enter a contest or other promotional feature, we may request your name, street, and e-mail address to aid in our administration of the contest and to assist in contacting the winners.
 
@@ -90,21 +93,29 @@ Third Party Cookies
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
 
-We welcome your questions and comments about our privacy policy. If you would like to drop us a line, please email skinz@skinz.org.
+We welcome your questions and comments about our privacy policy. If you would like to drop us a line, please email pro@prourl.com.
 
 **_****PICTURES, FILES and ARTWORK DISCLAIMER**** - UPDATED December 7 2005_**
 
-All images contained on skinz.org, that are not original creations of skinz.org, are publicity photos, special permission grants and/or believed to be in the public domain. In the event that there is still a problem or error with copyrighted material, the break of the copyright is unintentional and noncommercial and the material will be removed immediately upon proof.
+All images contained on skinz.org, that are not original creations of skinz.org, are publicity photos, special permission grants and/or believed to be in the public domain. In the event that there is still a problem or error with 
+
+Copyright ed material, the break of the Copyright is unintentional and noncommercial and the material will be removed immediately upon proof.
 
 All images and content found on skinz.org are being used for entertainment, support and/or educational purposes only and fall into one or more of the following four categories:
 
-1\. Original creations of skinz.org and are protected under U.S. copyright law.
+1\. Original creations of skinz.org and are protected under U.S. 
+
+Copyright law.
 
 2\. Publicity Photos: Publicity items include graphics, logos, public relations photos, studio publicity photos, publicity sound clips, publicity movie clips, publicity videos etc., which were originally used for advertising/public relations purposes, and are being used to publicize and promote a celebrity, movie, television program, video, etc. 
 
-3\. Special permission grants: In some cases special permission has been granted from the copyright holder to use a specific image or images (credit is given when requested).
+3\. Special permission grants: In some cases special permission has been granted from the 
 
-4\. Taken from sources believed to be in the public domain. These images, which are widely distributed for free use on various Internet web authoring sites, are freely available on the world wide web and have been compiled from various public media sources or have been submitted by users of the site through e-mail. We ask that images submitted to skinz.org by users are free of copyright or are original images owned and/or created by the individuals submitting the image and, therefore, any image submitted to skinz.org is free of copyright unless otherwise notified. Submission of original material, to skinz.org, explicitly implies permission of the further unrestricted use by skinz.org. It is assumed that all such images are indeed public domain, but since such images are passed around freely between sites, it is not always possible to trace them back to their original source. It is possible for copyrighted material to inadvertently end up on public domain sites. In the event that there is still a problem or error with copyrighted material, the break of the copyright is unintentional and noncommercial and the material will be removed immediately upon proof. If you are the owner of material that appears on skinz.org please send proof to skinz@skinz.org and the material will be removed promptly. However, if you are the owner and would rather credit be given for the material, instead of removal, we will gratefully give the appropriate credit desired.
+Copyright holder to use a specific image or images (credit is given when requested).
+
+4\. Taken from sources believed to be in the public domain. These images, which are widely distributed for free use on various Internet web authoring sites, are freely available on the world wide web and have been compiled from various public media sources or have been submitted by users of the site through e-mail. We ask that images submitted to skinz.org by users are free of 
+
+Copyright or are original images owned and/or created by the individuals submitting the image and, therefore, any image submitted to skinz.org is free of Copyright unless otherwise notified. Submission of original material, to skinz.org, explicitly implies permission of the further unrestricted use by skinz.org. It is assumed that all such images are indeed public domain, but since such images are passed around freely between sites, it is not always possible to trace them back to their original source. It is possible for Copyright ed material to inadvertently end up on public domain sites. In the event that there is still a problem or error with Copyright ed material, the break of the Copyright is unintentional and noncommercial and the material will be removed immediately upon proof. If you are the owner of material that appears on skinz.org please send proof to pro@prourl.com and the material will be removed promptly. However, if you are the owner and would rather credit be given for the material, instead of removal, we will gratefully give the appropriate credit desired.
 
 skinz.org respects the intellectual property of others, and we ask our users to do the same.
 
@@ -116,7 +127,9 @@ Images or content of any kind being used and represented on skinz.org, in no way
 
 skinz.org is in no way affiliated with any of the celebrities on this site. 
 
-All text, logos, symbols, and graphics (unless otherwise stated) are original copyrighted creations of skinz.org and the use of these are not permitted without consent. All wallpapers on this site are free and intended solely for personal computer desktop use only. Usage of wallpapers and/or backgrounds on other websites is prohibited without prior consent. If you are unsure if you can use certain material, feel free to contact us at skinz@skinz.org for permission.
+All text, logos, symbols, and graphics (unless otherwise stated) are original 
+
+Copyright ed creations of skinz.org and the use of these are not permitted without consent. All wallpapers on this site are free and intended solely for personal computer desktop use only. Usage of wallpapers and/or backgrounds on other websites is prohibited without prior consent. If you are unsure if you can use certain material, feel free to contact us at pro@prourl.com for permission.
 
 DISCLAIMER OF LIABILITY:
 
@@ -126,7 +139,7 @@ DISCLAIMER FOR EXTERNAL LINKS:
 
 The appearance of hyperlinks does not constitute endorsement by skinz.org of the linked web sites, or the information, products or services contained therein. skinz.org does not exercise any editorial control over the information you may find at these locations. skinz.org is not responsible for the contents of any off site pages referenced. The user specifically acknowledges that skinz.org is not liable for the defamatory, offensive, or illegal conduct of other users, links, or third parties and that the risk of injury from the foregoing rests entirely with the user.
 
-If there is anything on skinz.org that you have a question about, please feel free to contact us at: skinz@skinz.org.
+If there is anything on skinz.org that you have a question about, please feel free to contact us at: pro@prourl.com.
 
 * No hotlinking or bandwidth theft allowed!
 
