@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the stack.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213211454id_/http%3A//magazine.stack.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stack.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608042405id_/http%3A//magazine.stack.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# STACK Magazine: Privacy Policy
+# STACK Magazine - Exercises, Training, Nutrition, High School Athletes: Privacy Policy
 
 **Privacy Policy**
 
-**STACK, LLC** ("STACK") recognizes that its customers, visitors, Members, and others who use www.stackmag.com and www.stackonline.com or other web sites owned or operated by STACK (the "STACK Websites") (collectively or individually "Members") value their privacy. This Privacy Policy details important information regarding the use and disclosure of Member information collected on the STACK Websites. STACK provides this Privacy Policy to help you make an informed decision about whether to use or continue using the STACK Websites.
+**STACK, LLC** ("STACK") recognizes that its customers, visitors, Members, and others who use magazine.stack.com and www.stackonline.com or other web sites owned or operated by STACK (the "STACK Websites") (collectively or individually "Members") value their privacy. This Privacy Policy details important information regarding the use and disclosure of Member information collected on the STACK Websites. STACK provides this Privacy Policy to help you make an informed decision about whether to use or continue using the STACK Websites.
 
-This Privacy Policy is incorporated into and is subject to the STACK Terms of Use found at <http://www.stackmag.com/TermsOfUse>. Your use of the STACK Websites and any personal information you provide on the STACK Websites remains subject to the terms of this Privacy Policy and our Terms of Use.
+This Privacy Policy is incorporated into and is subject to the STACK Terms of Use found at <http://magazine.stack.com/TermsOfUse>. Your use of the STACK Websites and any personal information you provide on the STACK Websites remains subject to the terms of this Privacy Policy and our Terms of Use.
 
 Please note that any video, image, or other content posted at the direction of Members onto the STACK Websites becomes published content and is not considered personally identifiable information subject to this Privacy Policy.
 
@@ -87,3 +87,6 @@ Members with questions about this Privacy Policy and any of the aforementioned s
 USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.
 
 Effective Date July 1, 2006.
+
+|    
+
