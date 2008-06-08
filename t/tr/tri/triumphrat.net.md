@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the triumphrat.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210113548id_/http%3A//www.triumphrat.net/faq.php%3Ffaq%3Dprivacy%23faq_tratprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triumphrat.net privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608082751id_/http%3A//www.triumphrat.net/faq.php%3Ffaq%3Dprivacy%23faq_tratprivacy) for the most accurate reproduction.*
 
-# TriumphRat.Net - FAQ: TriumphRat.Net Privacy Statement
+# Triumph Forum: Triumph Rat Motorcycle Forums - FAQ: TriumphRat.Net Privacy Statement
 
 The following discloses the information gathering and dissemination practices for TriumphRat.Net: 
 
