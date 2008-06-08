@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060321id_/http%3A//savethechildren.org.uk/en/141.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608064044id_/http%3A//www.savethechildren.org.uk/en/141.htm) for the most accurate reproduction.*
 
 # Save the Children UK Privacy policy
 
@@ -54,7 +54,7 @@ In Internet Explorer, click on Tools, then on Settings, then on the Privacy tab.
 
 In Firefox, click on Tools, then on Options, then on Privacy, then on the Cookies tab. From this menu, you can choose your level of Privacy.
 
-You can find more detailed information on disabling cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+Find more detailed information on disabling cookies from [aboutcookies.org](http://www.aboutcookies.org/default.aspx).
 
 ## Can you gain access to your personal information?
 
@@ -77,5 +77,3 @@ We cannot be held responsible for the privacy of data collected by websites not 
 We reserve the right to amend this privacy statement. You are advised to visit this website section periodically in order to keep up to date with the changes in our privacy policy.
 
 March 2007
-
-* * *
