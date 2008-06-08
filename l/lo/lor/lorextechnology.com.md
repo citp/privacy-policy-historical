@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lorextechnology.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213041724id_/http%3A//www.lorextechnology.com/Default.aspx%3Fall%3Dtrue%26aid%3D265) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorextechnology.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608182138id_/http%3A//www.lorextechnology.com/Default.aspx%3Fall%3Dtrue%26aid%3D265) for the most accurate reproduction.*
 
 # LOREX Technology - Corporate Website
 
