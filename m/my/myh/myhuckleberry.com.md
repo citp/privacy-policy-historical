@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the myhuckleberry.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210190504id_/http%3A//www.myhuckleberry.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhuckleberry.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609015220id_/http%3A//www.myhuckleberry.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # My Huckleberry
 
-copyright & privacy policy
-
-  
-
+|  |  |  |  |   
+---|---|---  
+|  |   
+| 
 
 ### Copyright & Privacy Policy
 
@@ -86,4 +86,7 @@ MyHuckleberry.com, Inc. may send communications, promotional information, and/or
 
 ### Changes to our privacy policy
 
-If we materially change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+If we materially change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. |   
+  
+  
+
