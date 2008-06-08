@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outblush.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211031340id_/http%3A//www.outblush.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outblush.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609003812id_/http%3A//www.outblush.com/privacy) for the most accurate reproduction.*
 
 # Outblush | The Shopping Blog For Women
 
