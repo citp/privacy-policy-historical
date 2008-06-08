@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the manufacturers.com.tw privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231327id_/http%3A//www.manufacturers.com.tw/help/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manufacturers.com.tw privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609014431id_/http%3A//www.manufacturers.com.tw/help/privacy-policy.htm) for the most accurate reproduction.*
 
-# B2BManufactures.com
+# Privacy Policy - B2BManufactures.com
 
-China & Taiwan Trade Manufacturers Directory is your one-stop site for complete trade sources. B2BManufactures.com is an online B2B trading platform with which multi million dollars business transactions go through on daily bases. OEM and ODM orders certainly find their suppliers here. Be efficient and catch your trade leads quickly, [JOIN US RIGHT NOW](https://web.archive.org/help/contact-us.htm)!!
+China & Taiwan Trade Manufacturers Directory is your one-stop site for complete trade sources. B2BManufactures.com is an online B2B trading platform with which multi million dollars business transactions go through on daily bases. OEM and ODM orders certainly find their suppliers here. Be efficient and catch your trade leads quickly, [JOIN US RIGHT NOW](https://web.archive.org/about-us/contact-us.htm)!!
 
 Privacy Policy
 
@@ -13,9 +13,3 @@ G.T. collects personal information from you to provide requested services and en
 G.T. does share aggregated demographic information with our partners and advertisers, in ways that do not directly identify you. G.T. uses outside companies to send mail and ship orders, and process credit card purchases. These companies do not retain, share, store or use your personal information for any other purpose. If you sign up for a G.T. service provided by a third party under contract with us, we will share your name and the minimum information necessary for the third party to provide these services. Manufacture.com.tw additionally will display aggregated portfolio information on the site at no time will we share or display individual portfolio information. 
 
 You will be given the opportunity to 'opt-out' of having your information used for purposes not directly related to this site at the point where we ask for your information, and you will be notified if your information will be used by outside parties. You may contact us to correct or update your personal data. If we change our privacy policy, we will revise our Privacy Statement as your notice. If we intend to use your personal information in a manner different from that which was stated at the time it was collected, we will notify you. You will then have a choice as to whether or not we use your information for this new purpose. 
-
-Company Name : | G.T. Internet Information Co., Ltd.  
----|---  
-Headquarter Address : | 14F, No.130, Chung Te Rd. Sec. 2, Taichung, Taiwan, R.O.C  
-Tel : | \+ 886 (0)4 22360221  
-Fax : | \+ 886 (0)4 22361191
