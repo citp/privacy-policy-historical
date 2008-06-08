@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlslirealtor.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211035548id_/http%3A//www.mlslirealtor.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlslirealtor.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609004140id_/http%3A//www.mlslirealtor.com/privacy.cfm) for the most accurate reproduction.*
 
 # MLSLI.com - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 Please read the following to learn more about our Privacy Policy.  This privacy policy may be updated from time to time so please check back frequently. 
 
-Click [here](http://www.hfhsuffolk.org/) for information on Internet safety and security from the Federal Trade Commission. 
+Click [here](http://www.ftc.gov/) for information on Internet safety and security from the Federal Trade Commission. 
 
 MLSLI.com is committed to your privacy and security and want to provide you with the best possible online experience. To that end, we want you to understand what kinds of information we gather from you, how this information is used and safeguarded, and how you can control its use. 
 
