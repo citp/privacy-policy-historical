@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usf.edu privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210211601id_/http%3A//www.usf.edu/About-USF/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usf.edu privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608123412id_/http%3A//www.usf.edu/About-USF/privacy-policy.asp) for the most accurate reproduction.*
 
 # University of South Florida: About USF - Privacy Policy
 
@@ -14,4 +14,4 @@ If you choose to share information with us - by sending us a message or filling 
 
 Please be aware that as a large University with over 45,000 students, faculty and staff, there are many websites within the USF.edu domain. This policy relates to those websites on which the University conducts its official business. Because we encourage the development and deployment of technology in an environment of academic freedom, we cannot ensure that all websites within the USF.edu domain are in strict compliance with this policy at all times.
 
-If you have other questions about our privacy policy, or have ideas about improving our policies, please feel free to e-mail the or phone us at (813) 974-4014.
+If you have other questions about our privacy policy, or have ideas about improving our policies, please feel free to e-mail the [University Webmaster](mailto:webmaster@admin.usf.edu) or phone us at (813) 974-4014.
