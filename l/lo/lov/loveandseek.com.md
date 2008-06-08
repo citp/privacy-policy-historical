@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveandseek.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210112829id_/http%3A//www.loveandseek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveandseek.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608070736id_/http%3A//www.loveandseek.com/privacy) for the most accurate reproduction.*
 
 # LoveAndSeek.com - The Christian Singles Network
 
@@ -9,6 +9,7 @@ The Christian Singles Network
   
 |   
 ---  
+  Privacy Statement  
 |   
 ---  
    
