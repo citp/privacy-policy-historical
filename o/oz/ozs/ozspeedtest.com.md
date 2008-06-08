@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ozspeedtest.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210080833id_/http%3A//ozspeedtest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozspeedtest.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608144151id_/http%3A//www.ozspeedtest.com/privacy) for the most accurate reproduction.*
 
 # Oz Broadband Speed Test - Privacy Policy
 
-## 18th December 2006
+## 11th February 2008
 
 We understand that your privacy is important. As a result we feel it is in our best interests to be forward with users about what information we collect about you, and what we do with this information. We hope this makes you more comfortable in using our site.
 
@@ -18,7 +18,7 @@ We understand that your privacy is important. As a result we feel it is in our b
 
   * We may use personal your information to improve the content on our site.
   * We use your personal information to customise the content and/or layout of each page.
-  * Your personal information is never shared with anyone under any circumstances.
+  * Your personal information is not shared with anyone except where a law enforcement agency, or other government agency, exercises its legal authority to require access to the information.
   * We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 
