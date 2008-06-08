@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webvisible.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210193055id_/http%3A//www.webvisible.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webvisible.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609010039id_/http%3A//webvisible.com/privacy.asp) for the most accurate reproduction.*
 
 # WebVisible
 
@@ -6,7 +6,7 @@
 
 We at WebVisible, Inc. (“we”, “WebVisible” or “us”) are committed to the responsible use of your personal information and the protection of your privacy.  This privacy policy applies to all the solutions and services on our web site [www.webvisible.com](http://www.webvisible.com/) where we collect information on the web site or via e-mail. 
 
-We strongly encourage you to read this policy carefully.  If you have any questions about our policy or our use of your personal information, please feel free to contact us by sending an email to privacy@webvisible.com or by writing to us at WebVisible, Inc., 5440 Trabuco Rd, Suite 200, Irvine, CA 92620, Attn: Privacy Issues. 
+We strongly encourage you to read this policy carefully.  If you have any questions about our policy or our use of your personal information, please feel free to contact us by sending an email to privacy@webvisible.com or by writing to us at WebVisible, Inc., 121 Innovation Drive, Suite 100, Irvine, CA 92617, Attn: Privacy Issues. 
 
 We may update this policy from time to time to reflect changes in our use of your personal information and/or applicable law.  Any changes made to our policy will be reflected in an updated policy (denoted by an effective date later than the one currently identified above) posted to our web site.  
 
