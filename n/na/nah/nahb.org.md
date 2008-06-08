@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nahb.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211075456id_/http%3A//www.nahb.org/footer_content.aspx%3FfooterContentID%3D64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nahb.org privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608234908id_/http%3A//www.nahb.org/footer_content.aspx%3FfooterContentID%3D64) for the most accurate reproduction.*
 
-# National Association of Home Builders
+# NAHB: PRIVACY STATEMENT
 
 This is the Web site of the National Association of Home Builders. Here is what visitors to our Web site can expect in terms of privacy.
 
