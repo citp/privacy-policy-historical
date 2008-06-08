@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamworklive.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210142528id_/http%3A//www.teamworklive.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamworklive.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608142138id_/http%3A//www.teamworklive.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# TeamWork Live - Privacy Policy
+# Privacy Policy - TeamWork Live
 
 CollectiveSoft takes your privacy seriously. This policy outlines how we treat the information that we collect and receive when you use one of our services, as well as safeguards that we have in place to protect your information.
 
