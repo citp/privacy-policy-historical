@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddingmapper.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030092051id_/http%3A//www.weddingmapper.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingmapper.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609193132id_/http%3A//www.weddingmapper.com/company/policies/privacy) for the most accurate reproduction.*
 
-# Policies - Wedding Mapper
+# Free Personalized and Interactive Wedding Maps, Local Wedding Planning Tools - Wedding Mapper
 
 **Privacy Policy**
 
@@ -95,21 +95,3 @@ By using the Wedding Mapper website, you agree to this privacy policy. This is o
 **8\. LEGAL DISCLAIMER**
 
 The Wedding Mapper website operates AS-IS and AS-AVAILABLE, without liability of any kind. We are not responsible for events beyond our control. This privacy policy is governed by California law, excluding conflicts of law principles.
-
-* * *
-
-Check out great wedding maps from weddings past in the new [planning section](https://web.archive.org/plan)! 
-
-* * *
-
-* * *
-
-Are you a local vendor serving the wedding industry? [Click Here](https://web.archive.org/vendors/intro)
-
-* * *
-
-* * *
-
-Are you a wedding planner? We have bulk packages available. [Read more...](https://web.archive.org/wedding/planners)
-
-* * *
