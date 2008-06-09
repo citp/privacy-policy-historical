@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trailfire.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016115610id_/http%3A//www.trailfire.com/pages/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailfire.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609105741id_/http%3A//www.trailfire.com/pages/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Trailfire Privacy Policy
 
