@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the fbuds.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211155807id_/http%3A//fbuds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbuds.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609194740id_/http%3A//www.fbuds.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
 This site is owned and operated by Sharyland Internet Partners, Inc.. Your privacy and ours on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe. 
 
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
@@ -41,7 +40,7 @@ Sharyland Internet Partners, Inc. sometimes tracks and catalogs the search terms
 
 **Cookies**
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. NipplePlay.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.  
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Fbuds.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.  
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. 
 
 **USE OF INFORMATION**
