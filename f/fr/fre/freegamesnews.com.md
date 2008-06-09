@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freegamesnews.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024144041id_/http%3A//www.freegamesnews.com/en/%3Fpage_id%3D1816) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamesnews.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609052105id_/http%3A//www.freegamesnews.com/en/%3Fpage_id%3D1816) for the most accurate reproduction.*
 
 # Privacy Policy - Walkthrough, comments and more Free Web Games at FreeGamesNews.com
-
-## Sponsors
 
 ## Privacy Policy
 
@@ -38,7 +36,11 @@ Cookies help us create a speedy web experience by remembering your address and e
 
 We do not use cookies to track your movements through our site.
 
-#### More cookie information
+#### Third Party Advertising
+
+We use Adsense and other third-party advertising companies to serve ads when you visit FreeGamesNews.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 #### Links to Other Sites
 
