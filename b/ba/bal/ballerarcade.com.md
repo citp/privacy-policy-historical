@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ballerarcade.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210202338id_/http%3A//www.ballerarcade.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballerarcade.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609060218id_/http%3A//www.ballerarcade.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
 
-# BallerArcade.com - Privacy Policy
+# Racing Games - BallerArcade.com - Privacy Policy
 
 WEB ENTERTAINMENT PRODUCTIONS, INC. PRIVACY POLICY
 
