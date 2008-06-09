@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the redskins.com privacy policy that was archived on 2007-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071025033407id_/http%3A//www.redskins.com/contact/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redskins.com privacy policy that was archived on 2008-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609045358id_/http%3A//www.redskins.com/contact/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Language" content="en-us">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <title>Washington Redskins</title>
 <meta http-equiv="imagetoolbar" content="no">
+<meta name="WT.sp" content="redskins">
 <link href="/includes/redskins.css" rel="stylesheet" type="text/css">
 <script language="JavaScript" src="/includes/validate.js"></script>
 <script language="JavaScript" src="/includes/encUtil.js"></script>
@@ -44,7 +45,7 @@ Function VBGetSwfVer(i)
   on error resume next
   Dim swControl, swVersion
   swVersion = 0
-  
+
   set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
   if (IsObject(swControl)) then
     swVersion = swControl.GetVariable("$version")
@@ -89,49 +90,49 @@ function JSGetSwfVer(i){
 	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
 	// Can't detect in all other cases
 	else {
-		
+
 		flashVer = -1;
 	}
 	return flashVer;
-} 
-// If called with no parameters this function returns a floating point value 
-// which should be the version of the Flash Player or 0.0 
+}
+// If called with no parameters this function returns a floating point value
+// which should be the version of the Flash Player or 0.0
 // ex: Flash Player 7r14 returns 7.14
 // If called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
-function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision) 
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
 {
  	reqVer = parseFloat(reqMajorVer + "." + reqRevision);
-   	// loop backwards through the versions until we find the newest version	
-	for (i=25;i>0;i--) {	
+   	// loop backwards through the versions until we find the newest version
+	for (i=25;i>0;i--) {
 		if (isIE && isWin && !isOpera) {
 			versionStr = VBGetSwfVer(i);
 		} else {
-			versionStr = JSGetSwfVer(i);		
+			versionStr = JSGetSwfVer(i);
 		}
-		if (versionStr == -1 ) { 
+		if (versionStr == -1 ) {
 			return false;
 		} else if (versionStr != 0) {
 			if(isIE && isWin && !isOpera) {
 				tempArray         = versionStr.split(" ");
 				tempString        = tempArray[1];
-				versionArray      = tempString .split(",");				
+				versionArray      = tempString .split(",");
 			} else {
 				versionArray      = versionStr.split(".");
 			}
 			versionMajor      = versionArray[0];
 			versionMinor      = versionArray[1];
 			versionRevision   = versionArray[2];
-			
+
 			versionString     = versionMajor + "." + versionRevision;   // 7.0r24 == 7.24
 			versionNum        = parseFloat(versionString);
         	// is the major.revision >= requested major.revision AND the minor version >= requested minor
 			if ( (versionMajor > reqMajorVer) && (versionNum >= reqVer) ) {
 				return true;
 			} else {
-				return ((versionNum >= reqVer && versionMinor >= reqMinorVer) ? true : false );	
+				return ((versionNum >= reqVer && versionMinor >= reqMinorVer) ? true : false );
 			}
 		}
-	}	
+	}
 	return (reqVer ? false : 0.0);
 }
 // -->
@@ -141,6 +142,9 @@ function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
 
 
 
+
+
+<script type="text/javascript" src="/includes/visualcart.js"></script>
 <script language="JavaScript"><!--
 function calcHeight() {
   var oFrame = document.getElementById('frmInfo');
@@ -159,7 +163,7 @@ function calcHeight() {
 		<div id="site" class=""><!-- // --></div>
 	</div>
 	<div id="searchbtn" class="">
-		<span id="videosearchbtn" class="">Video Search</span> | 
+		<span id="videosearchbtn" class="">Video Search</span> |
 		<span id="navsearchbtn" class="inactive">Redskins.com Search</span>
 	</div>
 	<div id="navsearch" class="">
@@ -190,29 +194,59 @@ function calcHeight() {
 	</div>
 </div>
 <br>
-	
-	<script language="JavaScript">document.write ('<scr' + 'ipt language=JavaScript src=http://63.214.178.49/abm.aspx?z=40><\/scri' + 'pt>');</script><script language="JavaScript" src="http://63.214.178.49/abm.aspx?z=40"></script><br><br>
-    
+
+<div id="storemodulewrap">
+	<div id="storemodule">
+		<h2><span>Redskins Store</span></h2>
+		<div id="yourcart">
+			<p id="vCartItemsTotal">0 items: $0.00</p>
+			<div id="checkout"><a href="http://store.redskins.com/updatecart.asp"><img src="/images/visualcart/checkout.jpg"></a></div>
+		</div>
+        <script language="JavaScript">document.write ('<scr' + 'ipt language=JavaScript src=http://63.214.178.49/abm.aspx?z=40><\/scri' + 'pt>');</script><script language="JavaScript" src="http://63.214.178.49/abm.aspx?z=40"></script>
+        <img src="/images/visualcart/bottom.jpg" class="block">
+	</div>
+</div>
 
 	<script language="JavaScript">document.write ('<scr' + 'ipt language=JavaScript src=http://63.214.178.49/abm.aspx?z=49><\/scri' + 'pt>');</script><script language="JavaScript" src="http://63.214.178.49/abm.aspx?z=49"></script><br><br>
 
-
-
 	<script language="JavaScript">document.write ('<scr' + 'ipt language=JavaScript src=http://63.214.178.49/abm.aspx?z=50><\/scri' + 'pt>');</script><script language="JavaScript" src="http://63.214.178.49/abm.aspx?z=50"></script><br><br>
 
-
 	<script language="JavaScript">document.write ('<scr' + 'ipt language=JavaScript src=http://63.214.178.49/abm.aspx?z=51><\/scri' + 'pt>');</script><script language="JavaScript" src="http://63.214.178.49/abm.aspx?z=51"></script><br><br>
-
 
 	<div id="channels">
 
 	<a href="/news/multimedia.jsp"><img src="/images/r05/multipletvchannels.gif" border="0"></a><br>
 	<br>
 	</div>
-	
+
 	<script language="JavaScript">document.write ('<scr' + 'ipt language=JavaScript src=http://63.214.178.49/abm.aspx?z=74><\/scri' + 'pt>');</script><script language="JavaScript" src="http://63.214.178.49/abm.aspx?z=74"></script><br>
 
 </div>
+
+<script type="text/javascript">
+    // Visual Cart Cookie Settings
+    var CK_VCART_NAME = 'cart';
+    var CK_VCART_DOMAIN = 'redskins.com';
+    var CK_VCART_PATH = '/';
+    var CK_VCART_FLD_ITEMS = 'numitems';
+    var CK_VCART_FLD_TOTAL = 'carttotal';
+    var VCART_DISPLAY_ELEMENT_ID = 'vCartItemsTotal';
+
+    // Set Visual Cart Items From Cookie Values
+    var oVCartCookie = new CookieHandler(CK_VCART_NAME, CK_VCART_DOMAIN, CK_VCART_PATH, false, '');
+    // load cookie
+    if (oVCartCookie.load(document)) {
+        var oItems = oVCartCookie.getFieldValue(CK_VCART_FLD_ITEMS);
+        var oTotal = oVCartCookie.getFieldValue(CK_VCART_FLD_TOTAL);
+        if(oItems > 0 && oTotal > 0 && document.getElementById(VCART_DISPLAY_ELEMENT_ID) != null) {
+            document.getElementById(VCART_DISPLAY_ELEMENT_ID).innerHTML = oItems + ' items: $' + oTotal;
+        }
+    }
+</script>
+
+<script language="javascript">
+  displayVisualCart(10);
+</script>
 
 <table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
@@ -220,7 +254,6 @@ function calcHeight() {
 		<td style="background:url(../images/r05/header-sp-blank.jpg); width:186; height:116;"><script language="JavaScript" src="http://ba-redskins.epiccycle.com/abm.aspx?z=60"></script></td>
 	</tr>
 </tbody></table>
-
 
 <script type="text/javascript" src="/includes/menu.js"></script>
 <script type="text/javascript" src="/includes/posUtil.js"></script>
@@ -232,10 +265,11 @@ function calcHeight() {
 				<td><a href="/news/" onmouseover="MM_swapImgRestore();MM_swapImage('Image2','','/images/r05/nav/nav-newsO.gif',1);showMenu('menuitem2', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-news.gif" border="0" name="Image2"></a></td>
 				<td><a href="/news/multimedia.jsp" onmouseover="MM_swapImgRestore();MM_swapImage('Image3','','/images/r05/nav/nav-multimediaO.gif',1);showMenu('menuitem3', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-multimedia.gif" border="0" name="Image3"></a></td>
 				<td><a href="/cheerleaders/" onmouseover="MM_swapImgRestore();MM_swapImage('Image4','','/images/r05/nav/nav-cheerleadersO.gif',1);showMenu('menuitem4', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-cheerleaders.gif" border="0" name="Image4"></a></td>
-				<td><a href="/community/" onmouseover="MM_swapImgRestore();MM_swapImage('Image5','','/images/r05/nav/nav-communityO.gif',1);showMenu('menuitem5', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-community.gif" border="0" name="Image5"></a></td>
+				<td><a href="/fanzone/" onmouseover="MM_swapImgRestore();MM_swapImage('Image5','','/images/r05/nav/nav-fanzoneO.gif',1);showMenu('menuitem5', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-fanzone.gif" border="0" name="Image5"></a></td>
 				<td><a href="/tickets/" onmouseover="MM_swapImgRestore();MM_swapImage('Image6','','/images/r05/nav/nav-ticketsO.gif',1);showMenu('menuitem6', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-tickets.gif" border="0" name="Image6"></a></td>
-				<td><a href="http://store.redskins.com" onmouseover="MM_swapImgRestore();MM_swapImage('Image7','','/images/r05/nav/nav-shopO.gif',1);showMenu('menuitem7', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-shop.gif" border="0" name="Image7"></a></td>
-				<td><img src="/images/r05/nav/nav-right.gif"></td>
+				<td><a href="/community/" onmouseover="MM_swapImgRestore();MM_swapImage('Image7','','/images/r05/nav/nav-communityO.gif',1);showMenu('menuitem7', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-community.gif" border="0" name="Image7"></a></td>
+				<td><a href="http://store.redskins.com" onmouseover="MM_swapImgRestore();MM_swapImage('Image8','','/images/r05/nav/nav-shopO.gif',1);showMenu('menuitem8', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-shop.gif" border="0" name="Image8"></a></td>
+				<td><img src="/images/r05/nav/nav-right-sm.gif"></td>
 			</tr>
 		</tbody></table>
 		<div id="menuitem1" class="globalDropDown" style="width:160px;z-index:1000;">
@@ -246,6 +280,7 @@ function calcHeight() {
 					<li><a href="/team/schedule.jsp">Schedule</a></li>
 					<li><a href="/team/depthchart.jsp">Depth Chart</a></li>
 					<li><a href="/team/history.jsp">History</a></li>
+				    <li><a href="/tickets/article.jsp?id=32189">Sean Taylor Tribute</a></li>
 				</ul>
 		</div>
 		<div id="menuitem2" class="globalDropDown" style="width:160px;z-index:1000;">
@@ -277,35 +312,44 @@ function calcHeight() {
 					<li><a href="/cheerleaders/juniorredskins.jsp">Junior Redskins</a></li>
 					<li><a href="/cheerleaders/dancecampsclinics.jsp">Dance Camps</a></li>
 				</ul>
-			</div>
+  </div>
 		<div id="menuitem5" class="globalDropDown" style="width:160px;z-index:1000;">
 			<h2>menuitem5</h2>
 				<ul>
-					<li><a href="/community/">Charitable Foundation</a></li>
+				    <li><a href="/fanzone/emailredskins.jsp">Email the Redskins</a></li>
 					<li><a href="http://www.extremeskins.com/portal/">Message Boards</a></li>
-					<li><a href="/fanzone/">Fan Zone</a></li>
-					<li><a href="/news/newsDetail.jsp?id=11492">Health &amp; Wellness</a></li>
 					<li><a href="/fanzone/games.jsp">Games</a></li>
-					<li><a href="/fanzone/emailredskins.jsp">Email the Redskins</a></li>
-					<li><a href="/news/newsDetail.jsp?id=11442">Operation Salute Our Troops</a></li>
-					<li><a href="/tickets/article.jsp?id=27070">Charity Challenge</a></li>
+					<li><a href="/news/newsDetail.jsp?id=12149">Redskins Direct</a></li>
+					<li><a href="/news/newsDetail.jsp?id=8458">Special Offers</a></li>
+					<li><a href="/tickets/article.jsp?id=31565">Widget</a></li>		
 				</ul>
 		</div>
 		<div id="menuitem6" class="globalDropDown" style="width:180px;z-index:1000;">
 			<h2>menuitem6</h2>
 				<ul>
 					<li><a href="/tickets/premiumtickets.jsp">Buy Season Tickets</a></li>
+					<li><a href="https://oss.ticketmaster.com/html/home.htmI?team=redskins&amp;l=EN&amp;STAGE=1">Manage My Season Ticket Account</a></li>
 					<li><a href="/fedexfield/suites.jsp">Suites</a></li>
 					<li><a href="/fedexfield/">FedExField</a></li>
 					<li><a href="/fedexfield/corporatehospitality.jsp">Corporate Hospitality</a></li>
 					<li><a href="http://www.stubhub.com/washington-redskins-tickets/" title="Washington Redskins Tickets" onclick=" this.href=this.href+'?GCID=C12289x254-tixnav&amp;cb=redskins';">StubHub: Buy/Sell Tickets</a></li>
 					<li><a href="/tickets/specialevents.jsp">Year-Round Corporate Events</a></li>
 					<li><a href="/tickets/stadium.jsp">Stadium Diagram</a></li>
-					<li><a href="/tickets/article.jsp?id=19039">Redskins Replay</a></li>
+				    <li><a href="/tickets/article.jsp?id=19039">Redskins Replay</a></li>
 				</ul>
 		</div>
-		<div id="menuitem7" class="globalDropDown" style="width:160px;z-index:1000;border:0;margin:0;padding:0;">
+		<div id="menuitem7" class="globalDropDown" style="width:160px;z-index:1000;">
 			<h2>menuitem7</h2>
+				<ul>
+					<li><a href="/tickets/article.jsp?id=27070">Charity Challenge</a></li>
+					<li><a href="/community/communityprograms.jsp">Community Outreach</a></li>
+					<li><a href="/community">Charitable Foundation</a></li>
+					<li><a href="/community/healthandwellness.jsp">Health &amp; Wellness</a></li>
+					<li><a href="/news/newsDetail.jsp?id=11442">Operation Salute Our Troops</a></li>
+				</ul>
+		</div>
+		<div id="menuitem8" class="globalDropDown" style="width:160px;z-index:1000;border:0;margin:0;padding:0;">
+			<h2>menuitem8</h2>
 		</div>
 	<div style="clear:both"></div>
 </div>
@@ -461,8 +505,8 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 </style>
 <div id="aolNavBar">
 	<ul id="aolnav">
-	  <li id="panel1"><a href="/tickets/article.jsp?id=27322">Fan Video</a>
-		<ul onclick="window.location.href='/tickets/article.jsp?id=27322'">
+	  <li id="panel1"><a href="http://uncutvideo.aol.com/events/Redskins-Fan-Videos" target="_blank">Fan Video</a>
+		<ul onclick="window.open('http://uncutvideo.aol.com/events/Redskins-Fan-Videos')">
 		  <li>
 		  	<img src="../images/common/aol_videos.jpg" alt="Fan Video">
 			<h1>Fan Video</h1>
@@ -524,7 +568,6 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 	</ul>
 </div>
 <img src="/images/r05/nav/nav-btm.gif"><br>
-
 
 <!--<div id="navsearchSP">
 	<form action="/search/" name="frmSearch" method="post" target="_top">
@@ -931,11 +974,11 @@ update your information using the options on this page. <br>
 		</div>
 		<div class="footer">
     
-      Copyright © 2007, Washington Redskins. All Rights Reserved.
+      Copyright © 2008, Washington Redskins. All Rights Reserved.
       <div class="left"></div>
       <div class="center"><a href="http://www.epiccycle.com/" target="_blank" title="Epic Cycle"><img src="/images/common/epicLogo.gif" width="222" height="25" alt="Epic Cycle Logo"></a></div>
       <div class="right"><a href="http://cbs.sportsline.com/" target="_blank"><img src="/images/common/cbsLogo.gif" width="113" height="17" alt="CBS SportsLine"></a></div>
-			<script language="JavaScript" src="/includes/DM_page_tracking.js"></script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://64.158.218.149/dm.gif?v=86&amp;vst=1&amp;id=&amp;url=https%3A//web.archive.org/web/20071025033407id_/http%253A//www.redskins.com/contact/privacy.jsp&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1580374549962" height="1" width="1"></div>
+			<script language="JavaScript" src="/includes/DM_page_tracking.js"></script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://64.158.218.149/dm.gif?v=86&amp;vst=1&amp;id=&amp;url=https%3A//web.archive.org/web/20080609045358id_/http%253A//www.redskins.com/contact/privacy.jsp&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1580374551293" height="1" width="1"></div>
 		</div>
 	
 </body></html>
