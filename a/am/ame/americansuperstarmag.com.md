@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211114849id_/http%3A//www.americansuperstarmag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610010255id_/http%3A//www.americansuperstarmag.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | American Superstar Magazine™ | Celebrity News, Gossip, Interviews, Up-and-Coming Talent
 
@@ -162,11 +162,4 @@ We may automatically track and collect your IP address, domain server, the type 
 Effective Date: August 1, 2005 
 
 |    
-  
----|---|---  
-[Home](http://www.americansuperstarmag.com/index.php) | [About Us](http://www.americansuperstarmag.com/about.php) | [Contact Us](http://www.americansuperstarmag.com/contact.php) | [Advertise With Us](http://www.americansuperstarmag.com/mediasales.php) | [Street Team](http://www.americansuperstarmag.com/street_team.php) | [American Superstar TV](http://www.americansuperstar.tv/) | [American Superstar Store](http://www.americansuperstarclothing.com/)
 
-Use of this site signifies your acceptance of the [Privacy Policy](http://www.americansuperstarmag.com/privacy.php) and [Terms of Use.](http://www.americansuperstarmag.com/terms.php)   
-Copyright © 2006-2007 American Superstar, Inc. All rights reserved.
-
-| 
