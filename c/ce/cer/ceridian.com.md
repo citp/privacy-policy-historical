@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceridian.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211101646id_/http%3A//www.ceridian.com/corp/article/1%2C2868%2C10898-58856%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceridian.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609222324id_/http%3A//www.ceridian.com/corp/article/1%2C2868%2C10898-58856%2C00.html) for the most accurate reproduction.*
 
 # Ceridian Web Site Privacy Statement - Ceridian
 
