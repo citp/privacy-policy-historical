@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lifehacker.com.au privacy policy that was archived on 2007-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070903210035id_/http%3A//www.lifehacker.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifehacker.com.au privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609041940id_/http%3A//www.lifehacker.com.au/privacy) for the most accurate reproduction.*
 
-# Lifehacker Australia | Tech tips to help you at work and play
+# Privacy Policy | Lifehacker Australia
 
-## Privacy Policy
+## [Privacy Policy](http://www.lifehacker.com.au/privacy/ "Privacy Policy")
 
-The www.lifehacker.com.au website is owned and operated by Allure Media Pty Limited (Allure Media, we, us or our).
+The www.lifehacker.com.au website is owned and operated by Allure Media Pty Limited (Allure Media, we, us or our). 
 
 Allure Media is bound by the National Privacy Principles (NPPs) in the Privacy Act 1988 and this Privacy Policy applies to Allure Media and the websites it operates.
 
@@ -103,7 +103,7 @@ This policy was last updated in May 2007.
 
 The National Privacy Principles contained in the Privacy Act 1988 do not apply to "acts done or practices engaged in by a media organisation in the course of journalism", so long as that media organisation is publicly committed to observing standards that deal with privacy in the context of its activities and those standards have been published in writing by the organisation. 
 
-Allure Media acts as a media organisation to the extent that it operates the www.lifehacker.com.au website (Website). These Journalism Privacy Standards (Standards) outline how Allure Media's employees who are engaged in the provision of content for the Website (Journalists) will handle personal information.
+Allure Media acts as a media organisation to the extent that it operates the www.kotaku.com.au website (Website). These Journalism Privacy Standards (Standards) outline how Allure Media's employees who are engaged in the provision of content for the Website (Journalists) will handle personal information.
 
 The objective of these Standards is to balance the right of a person to privacy against the media's right to inform the public about newsworthy matters and other matters of public interest. 
 
