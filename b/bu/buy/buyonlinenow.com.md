@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyonlinenow.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025045946id_/http%3A//www.buyonlinenow.com/information.asp%3Fbdy%3Dprivacysecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyonlinenow.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609084657id_/http%3A//www.buyonlinenow.com/information.asp%3Fbdy%3Dprivacysecurity) for the most accurate reproduction.*
 
 # BuyOnlineNow.com - Online Office Supplies Superstore.
 
