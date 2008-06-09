@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the longwarjournal.org privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026102325id_/http%3A//www.longwarjournal.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longwarjournal.org privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610013004id_/http%3A//www.longwarjournal.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for the The Long War Journal
 
-| 
+Support provided by:
+
+  
+[](http://flygryphon.com/)   
+[](http://www.vss.af/) | 
 
 The Long War Journal sets the following policies for the use of its sites or services: 
 
@@ -29,5 +33,3 @@ LINKS
 This Web site contains links to other sites. Please be aware that The Long War Journal is not responsible for the privacy practices of such other sites. We encourage readers leaving our site to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Links to other Web sites are provided as a convenience. By clicking on them, you will be leaving The Long War Journal's Web site. The Long War Journal does not approve or control these sites and does not guarantee the accuracy of their information. 
 
 | 
-
-[](http://publicmultimedia.org/donate.html)
