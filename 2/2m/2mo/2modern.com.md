@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2modern.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624053027id_/http%3A//www.2modern.com/c.418126/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2modern.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609195204id_/http%3A//www.2modern.com/c.418126/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy, Terms of Use & Security
 
@@ -12,7 +12,7 @@ This Privacy & Security statement explains our policies for the collection and 
 2Modern collects this information in an effort to provide superior customer service, improve the content of our web site and your shopping experience. We may also use this information to notify you about updates to our web site, special offers or upcoming events. If you do not want to receive promotional emails from 2Modern, you can opt out anytime using the link provided in all newsletter emails.  
 **  
 Shopping Experience  
-I**f you order a product from us, 2Modern places your name in our secure/encrypted customer database. 2Modern does not share any customer information with any 3rd parties for any reason except for fulfilling an order. For example, FedEx requires shipping information to deliver merchandise purchased on 2Modern.com.
+**If you order a product from us, 2Modern places your name in our secure/encrypted customer database. 2Modern does not share any customer information with any 3rd parties for any reason except for fulfilling an order. For example, FedEx requires shipping information to deliver merchandise purchased on 2Modern.com.
 
 If you supply us with your telephone number or email address online, you may receive a customer service call regarding an order you placed. 2Modern will only contact you to ensure superior customer service and order delivery. We will not call you for any marketing or promotional purposes.
 
