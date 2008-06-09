@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the arup.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009100418id_/http%3A//www.arup.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arup.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609101627id_/http%3A//www.arup.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy policy | Arup
 
 ## Data storage
 
-We collect the domain and IP address of all visitors to the Arup site. This information does not identify you as an individual, but only the computer that is being used to view the site. The data is used for statistical analysis to help us improve our service to you. We do not link this data with any personal information collected through the site (see data collection and use). We do not use cookies on the Arup website.
+We collect the domain and IP address of all visitors to the Arup site. This information does not identify you as an individual, but only the computer that is being used to view the site. The data is used for statistical analysis to help us improve our service to you. We do not link this data with any personal information collected through the site (see data collection and use). We also use cookies on the Arup website for statistical analysis.
 
 ## Data collection and use
 
