@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondunreal.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210223422id_/http%3A//support.beyondunreal.com/faq.php%3Farticle%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondunreal.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609023921id_/http%3A//support.beyondunreal.com/faq.php%3Farticle%3D7) for the most accurate reproduction.*
 
 # BeyondUnreal's HelpDesk powered by DeskPRO.com
 
