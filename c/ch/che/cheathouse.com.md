@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheathouse.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210212854id_/http%3A//www.cheathouse.com/page.php%3Fid%3Dprivacy%26PHPSESSID%3D2aaa0bb4115fa2da5e428b23bea7a43e) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheathouse.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609163522id_/http%3A//www.cheathouse.com/page.php%3Fid%3Dprivacy%26PHPSESSID%3Da9db25219b00da05284cedf1e54ec4da) for the most accurate reproduction.*
 
 # Free Custom Essay Writing, Student Term & Research Papers Online, Privacy - Cheat House
 
@@ -20,8 +20,7 @@ Centro Empresarial Brasilia
 Brasília – D.F.  
 Brazil 
 
-Phone: +55 61-3202-5023  
-Fax: +55 61-3202-5024  
+Phone: (347) 404-5110  
 privacy@cheathouse.com 
 
 **_What Information Do We Collect?_**
