@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mammothmountain.com privacy policy that was archived on 2007-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071108155322id_/http%3A//www.mammothmountain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mammothmountain.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609200120id_/http%3A//mammothmountain.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mammoth Mountain
 
@@ -123,3 +123,5 @@ Mammoth Lakes, CA 93546
 ## 10\. Limitation of Liability:
 
 To the maximum extent and under no circumstances shall MMSA be liable for any direct, indirect, special, incidental or consequential damages, including, but not limited to, loss of data or profit, arising out of the use, or the inability to use, the materials on this site, whether the result of any violation of this Privacy Policy or any negligent or other wrongful act or omission on the part of MMSA or its agents, employees, or representatives; even if MMSA or an MMSA authorized representative has been advised of the possibility of such damages. This limitation of liability is not intended to assert any claims or defenses which are prohibited by law.
+
+[Mammoth Mountain Ski Area, Mammoth Memories Photo Site, Privacy Policy](https://web.archive.org/web/20080609200120id_/http://www.mammothmountain.com/privacy/privacy_policy_photo_1207.pdf) (55KB)
