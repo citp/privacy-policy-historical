@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotickets.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024190924id_/http%3A//www.gotickets.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotickets.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609212421id_/http%3A//www.gotickets.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GOtickets.com Privacy Policy
 
@@ -44,7 +44,7 @@ We follow generally accepted industry standards to protect the personal informat
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him/her to visit the site. GoTickets.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. He/she may contact us at [Newsletters@GoTickets.com](mailto:Newsletters@GoTickets.com) to request that we remove this information from our database.
 
 **OPT-OUT POLICY**  
-If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in the footer of each newsletter or communication. You may also email us at [Newsletters@GoTickets.com](mailto:Newsletters@GoTickets.com) with the word “Unsubscribe” in the subject line. Please note that any manual requests to be unsubscribed can take up to 10 business days and you may receive communication within this time period. GoTickets follows best practices and guidelines set forth by the Can-Spam Act of 2003.
+If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in the footer of each newsletter or communication. You may also email us at [Newsletters@GoTickets.com](mailto:Newsletters@GoTickets.com) with the word "Unsubscribe" in the subject line. Please note that any manual requests to be unsubscribed can take up to 10 business days and you may receive communication within this time period. GoTickets follows best practices and guidelines set forth by the Can-Spam Act of 2003.
 
 You will not be able to opt-out of emails or communication related to a specific order (confirmation emails). This is for accounting purposes and to ensure that you are receiving the correct product.
 
