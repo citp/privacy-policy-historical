@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the groundreport.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210223412id_/http%3A//www.groundreport.com/content.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groundreport.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609024441id_/http%3A//www.groundreport.com/content.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
-# GroundReport
+# GroundReport - World News, Opinion & Politics from the Ground
 
 **Privacy Policy**
 
