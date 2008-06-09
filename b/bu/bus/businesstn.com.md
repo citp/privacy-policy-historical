@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesstn.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211040232id_/http%3A//businesstn.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesstn.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609091045id_/http%3A//www.businesstn.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Cancellation Policy
 
@@ -41,6 +41,7 @@ _BusinessTN_ reserves the right to revise this policy at any time. Revised July 
 ## BTN Marketplace
 
 |  |    
+  
 
 
 |   
