@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogomonster.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027095413id_/http%3A//www.blogomonster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogomonster.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609160951id_/http%3A//www.blogomonster.com/privacy) for the most accurate reproduction.*
 
 # BlogoMonster.com offers free blog hosting, blog templates and more!
 
