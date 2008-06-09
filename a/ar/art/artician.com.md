@@ -1,0 +1,40 @@
+> *The following text is extracted and transformed from the artician.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609094525id_/http%3A//www.artician.com/privacy) for the most accurate reproduction.*
+
+# Artician Privacy Policy
+
+The Artician Network is owned and operated by Artician LLC, and Artician Web Development Studios.  
+We can be reached via e-mail at  | [View Terms of Use](https://web.archive.org/terms/). 
+
+## Definitions:
+
+The website, this website, us, we, and Artician refers to - Artician, Artician LLC., Artician.com, Artician.net, Artician Network, and Artician Web Development Studios.
+
+You - first person, singular, referring to the person reading these Terms of Use, and accessing the Artician Network.
+
+Users, Visitors - registered members and unregistered visitors on the website.
+
+## Information
+
+We collect e-mail addresses and information of visitors and users of Artician. The information we collect is used to improve the content of Artician for each individual visitor, and used to notify visitors and users about updates to Artician. If you do not want to receive e-mails from us in the future, please let us know by sending us e-mail at 
+
+## With respect to cookies:
+
+We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.
+
+We do not make the e-mail addresses of those who access our site available to other reputable organizations. If you would like more information about how we use your email address, please let us know e-mailing us at 
+
+## With respect to Ad Servers:
+
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads within the Artician Network. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+http://www.adsense.com  
+http://www.adbrite.com/  
+http://www.bidvertiser.net/  
+
+
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site.
+
+## With respect to security:
+
+We have appropriate security measures in place in our physical facilities to protect against the misuse or alteration of information that we have collected from you at our site.
+
+We can be reached via e-mail at 
