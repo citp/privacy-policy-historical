@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penguin.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211103457id_/http%3A//www.penguin.co.uk/static/cs/uk/0/penguin_privacyterms/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguin.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609143442id_/http%3A//www.penguin.co.uk/static/cs/uk/0/penguin_privacyterms/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Penguin Books Ltd
 
@@ -29,7 +29,7 @@ The information we collect and how we use it
 
 When you want to participate in activities on our web site, this is the sort of information we ask for and how we use it:
 
-* When you enter competitions, we ask you for your name and email. If you win, we ask you for your residential address. This is so that we can let you know if you have won anything, send you your prize and let other people (such as other users of our web site, the public and our own employees) know about our competitions and their winners.
+* When you enter competitions, we ask you for your name, email and residential address. If you win, we can let you know if you have won anything, send you your prize and let other people (such as other users of our website, the public and our own employees) know about our competitions and their winners.
 
 * When you send e-postcards, we will ask you for your name and email address so we can let whoever receives the postcard know who sent it and so we can make sure you get a copy (by email) too.
 
