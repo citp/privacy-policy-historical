@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the channelking.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231171625id_/http%3A//www.channelking.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelking.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609235141id_/http%3A//www.channelking.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Free Internet TV - Channel King
-
-[](http://live-tv-net.com/index.asp?aff=001&camp=channelking)
 
 ## Privacy Policy
 
