@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcclatchydc.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211102420id_/http%3A//www.mcclatchydc.com/187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcclatchydc.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609142204id_/http%3A//www.mcclatchydc.com/187) for the most accurate reproduction.*
 
 # McClatchy Washington Bureau | Privacy policy
 
@@ -95,3 +95,5 @@ www.mcclatchydc.com endorses and abides by the privacy principles approved by th
 Offices: www.mcclatchydc.com, One Metro Center, 700 12th Street NW, Washington, DC 20005. E-mail: web@mcclatchydc.com
 
 Effective Date: October 19, 2005
+
+advertisement
