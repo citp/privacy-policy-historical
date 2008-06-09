@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austinchronicle.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026083615id_/http%3A//www.austinchronicle.com/gyrobase/Info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austinchronicle.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609193440id_/http%3A//www.austinchronicle.com/gyrobase/Info/privacy) for the most accurate reproduction.*
 
 # The Austin Chronicle: Privacy
 
