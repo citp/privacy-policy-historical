@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventnet.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017031410id_/http%3A//www.adventnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventnet.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609042313id_/http%3A//www.adventnet.com/privacy.html) for the most accurate reproduction.*
 
 # AdventNet Privacy Policy
 
