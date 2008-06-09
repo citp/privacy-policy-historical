@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the usta.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211215108id_/http%3A//www.usta.com/site_services/custom.sps%3FiType%3D961%26icustompageid%3D1658) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usta.com privacy policy that was archived on 2008-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609101818id_/http%3A//www.usta.com/site_services/custom.sps%3FiType%3D961%26icustompageid%3D1658) for the most accurate reproduction.-->
 
 <html><head>
 <link rel="P3Pv1" href="http://www.usta.com/w3c/p3p.xml">
@@ -11,7 +11,7 @@
 <meta name="title" content="Privacy Statement">
 <meta name="description" content="">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="timestamp" content="12/11/2007 9:49:07 PM">
+<meta name="timestamp" content="6/9/2008 10:15:34 AM">
 <script language="javascript">if (navigator.appName.indexOf("Netscape") != -1 && parseInt(navigator.appVersion) == 4){cssUrl = '/includes/css/stylen.css?a';}else{cssUrl = '/includes/css/style.css?a';}if (parseInt(navigator.appVersion) >=4){document.write('<link rel="stylesheet" hr'+'ef="' + cssUrl + '" type="text/css">');}</script><link rel="stylesheet" href="/includes/css/style.css?a" type="text/css"><noscript><link rel="stylesheet" type="text/css" href="/includes/css/style.css"></noscript>
 <link rel="stylesheet" type="text/css" href="/includes/css/poll.css">
 <script language="javascript" src="/js_script/brow.js?new"></script>
@@ -35,6 +35,18 @@ usta_reloadPage(true);
 
 <script language="JavaScript">var RMA_URL='http://rma.usta.com/publish.sps?syndicatorguid={56E5D9E8-9153-4839-89BD-41911967CF07}&rmasiteinstanceguid={F521D852-9041-489B-9D4E-E5F0FFC5DA2B}&rmapageid=1';</script>
 
+<script language="javascript">
+
+function daviscup() {
+	var hauteur = 600;
+	var largeur = 470;
+        var top=(screen.height-hauteur)/2;
+	var left=(screen.width-largeur)/2;
+        var lien = "http://ls.daviscup.com/dc/2008/wg/qf/launch-efrm.asp?tie=100010171";
+	nFen = open(lien,"DavisCupE","top="+top+",left="+left+",toolbar=no,scrollbars=no,directories=no,menubar=no,width="+largeur+",height="+hauteur);
+}
+
+</script>
 
 
 <script type="text/javascript">
@@ -183,8 +195,111 @@ function launchLS() {
 	var largeur = 460;
   var top=(screen.height-hauteur)/2;
 	var left=(screen.width-largeur)/2;
-  var lien = "http://ls.daviscup.com/fc/2007/wg/sf/launch-efrm.asp?tie=100008903";
+  var lien = "http://ls.daviscup.com/fc/2008/wg/sf/launch-efrm.asp?tie=100010111";
 	nFen = open(lien,"FedCupR1","top="+top+",left="+left+",toolbar=no,scrollbars=no,directories=no,menubar=no,width="+largeur+",height="+hauteur);
+}
+
+</script>
+
+	
+	<script type="text/javascript">
+
+/***********************************************
+* Universal Countdown script- © Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+function cdLocalTime(container, servermode, offsetMinutes, targetdate, debugmode){
+if (!document.getElementById || !document.getElementById(container)) return
+this.container=document.getElementById(container)
+var servertimestring=(servermode=="server-asp")? '<? print date("F d, Y H:i:s", time())?>' : (servermode=="server-ssi")? '<!--#config timefmt="%B %d, %Y %H:%M:%S"--><!--#echo var="DATE_LOCAL" -->' : '6/9/2008 10:15:34 AM'
+this.localtime=this.serverdate=new Date(servertimestring)
+this.targetdate=new Date(targetdate)
+this.debugmode=(typeof debugmode!="undefined")? 1 : 0
+this.timesup=false
+this.localtime.setTime(this.serverdate.getTime()+offsetMinutes*60*1000) //add user offset to server time
+this.updateTime()
+}
+
+cdLocalTime.prototype.updateTime=function(){
+var thisobj=this
+this.localtime.setSeconds(this.localtime.getSeconds()+1)
+setTimeout(function(){thisobj.updateTime()}, 1000) //update time every second
+}
+
+cdLocalTime.prototype.displaycountdown=function(baseunit, functionref){
+this.baseunit=baseunit
+this.formatresults=functionref
+this.showresults()
+}
+
+cdLocalTime.prototype.showresults=function(){
+var thisobj=this
+var debugstring=(this.debugmode)? "<p style=\"background-color: #FCD6D6; color: black; padding: 5px\"><big>Debug Mode on!</big><br /><b>Current Local time:</b> "+this.localtime.toLocaleString()+"<br />Verify this is the correct current local time, in other words, time zone of count down date.<br /><br /><b>Target Time:</b> "+this.targetdate.toLocaleString()+"<br />Verify this is the date/time you wish to count down to (should be a future date).</p>" : ""
+
+var timediff=(this.targetdate-this.localtime)/1000 //difference btw target date and current date, in seconds
+if (timediff<0){ //if time is up
+this.timesup=true
+this.container.innerHTML=debugstring+this.formatresults()
+return
+}
+var oneMinute=60 //minute unit in seconds
+var oneHour=60*60 //hour unit in seconds
+var oneDay=60*60*24 //day unit in seconds
+var dayfield=Math.floor(timediff/oneDay)
+var hourfield=Math.floor((timediff-dayfield*oneDay)/oneHour)
+var minutefield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour)/oneMinute)
+var secondfield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour-minutefield*oneMinute))
+if (this.baseunit=="hours"){ //if base unit is hours, set "hourfield" to be topmost level
+hourfield=dayfield*24+hourfield
+dayfield="n/a"
+}
+else if (this.baseunit=="minutes"){ //if base unit is minutes, set "minutefield" to be topmost level
+minutefield=dayfield*24*60+hourfield*60+minutefield
+dayfield=hourfield="n/a"
+}
+else if (this.baseunit=="seconds"){ //if base unit is seconds, set "secondfield" to be topmost level
+var secondfield=timediff
+dayfield=hourfield=minutefield="n/a"
+}
+this.container.innerHTML=debugstring+this.formatresults(dayfield, hourfield, minutefield, secondfield)
+setTimeout(function(){thisobj.showresults()}, 1000) //update results every second
+}
+
+/////CUSTOM FORMAT OUTPUT FUNCTIONS BELOW//////////////////////////////
+
+//Create your own custom format function to pass into cdLocalTime.displaycountdown()
+//Use arguments[0] to access "Days" left
+//Use arguments[1] to access "Hours" left
+//Use arguments[2] to access "Minutes" left
+//Use arguments[3] to access "Seconds" left
+
+//The values of these arguments may change depending on the "baseunit" parameter of cdLocalTime.displaycountdown()
+//For example, if "baseunit" is set to "hours", arguments[0] becomes meaningless and contains "n/a"
+//For example, if "baseunit" is set to "minutes", arguments[0] and arguments[1] become meaningless etc
+
+//1) Display countdown using plain text
+function formatresults(){
+if (this.timesup==false){//if target date/time not yet met
+var displaystring="<a href='http://www.ticketmaster.com/artist/807197?brand=usopen&camefrom=CFC_USOPEN_USTA_MASTHEAD' target='_blank'><span style='color:#fff;font-size:10px;font-weight:bold;'>"+arguments[0]+" days " +arguments[1]+" hrs "+arguments[2]+" mins "+arguments[3]+" secs</span></a>"
+}
+else{ //else if target date/time met
+var displaystring="<a href='http://www.ticketmaster.com/artist/807197?brand=usopen&camefrom=CFC_USOPEN_USTA_MASTHEAD' target='_blank'><span style='color:#fff;font-size:10px;font-weight:bold;'>Purchase Tickets Now</span></a>"
+}
+return displaystring
+}
+
+//2) Display countdown with a stylish LCD look, and display an alert on target date/time
+function formatresults2(){
+if (this.timesup==false){ //if target date/time not yet met
+var displaystring="<span class='lcdstyle'>"+arguments[0]+" <sup>days</sup> "+arguments[1]+" <sup>hours</sup> "+arguments[2]+" <sup>minutes</sup> "+arguments[3]+" <sup>seconds</sup></span> left until launch time"
+}
+else{ //else if target date/time met
+var displaystring="" //Don't display any text
+alert("Launch time!") //Instead, perform a custom alert
+}
+return displaystring
 }
 
 </script>
@@ -449,9 +564,8 @@ function overlayclose(subobj){
 </map>
 
 <map name="header_map">
-<area shape="rect" coords="464,0,652,108" href="http://www.usta.com/pro_game/davis_cup/default.sps" target="">
-<area shape="rect" coords="463,110,1,0" href="http://www.usta.com" target="">
-
+<area shape="rect" coords="654,-1,471,111" href="http://www.ticketmaster.com/artist/807197?brand=usopen&amp;camefrom=CFC_USOPEN_USTA_MASTHEAD" target="_blank"> <!--original coords for left side coords="654,-1,471,111" -->
+<area shape="rect" coords="2,1,479,105" href="/home/default.sps" target=""> <!--original coords for right side coords="2,1,479,105" -->
 </map>
 
 
@@ -459,17 +573,16 @@ function overlayclose(subobj){
 <table cellspacing="0" cellpadding="0" width="952" border="0">
   <tbody><tr>
     <td width="655">
-    <a href="/home/default.sps"><img src="/pix/newassets/header/header.gif" border="0" width="655" height="112"></a>
-    <!--<img src="/pix/header/header_daviscup_champions.jpg" border="0" WIDTH="655" HEIGHT="112" border="0" usemap="#header_map">-->
-   <!--<SCRIPT Language="JavaScript">if (flashinstalled==2){document.write("<div style='position:absolute; left:0; top:0; width=655 height=113 visibility:visible; z-index:2;'>");		document.write("<OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'");		document.write("codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0'");		document.write(" WIDTH=655 HEIGHT=113>");		document.write("<PARAM NAME=movie VALUE='/pix/header/wimbledon_header.swf?x'><PARAM NAME=quality VALUE=high><param name='wmode' value='transparent'>   <EMBED src='/pix/header/wimbledon_header.swf?x' quality=high bgcolor=#CCCCCC  wmode='transparent' WIDTH=655 HEIGHT=113 TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'></EMBED>");		document.write("</OBJECT>");		document.write("</div>");	}   </SCRIPT><script type="text/javascript" src="/script/ieupdate.js"></script><img src="/pix/header/alt.gif" width="655" height="113" alt="United States Tennis Association" border="0" usemap="#alt"><map name="alt"><area shape="rect" coords="0,0,411,112" href="http://www.usta.com/" target=""><area shape="rect" coords="542,49,652,111" href="http://www.usta.com/pro_game/wimbledon/default.sps" target=""></map>-->
+    <!--<a href="/home/default.sps"><img src="/pix/newassets/header/header.gif" border="0" WIDTH="655" HEIGHT="112" border="0"></a>-->
+    <img src="/pix/newassets/header/header_publiconsale.gif" border="0" width="655" height="112" usemap="#header_map">
+    <!--<SCRIPT Language="JavaScript">if (flashinstalled==2){document.write("<div style='position:absolute; left:0; top:0; width=655 height=113 visibility:visible; z-index:2;'>");		document.write("<OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'");		document.write("codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0'");		document.write(" WIDTH=655 HEIGHT=113>");		document.write("<PARAM NAME=movie VALUE='/pix/header/wimbledon_header.swf?x'><PARAM NAME=quality VALUE=high><param name='wmode' value='transparent'>   <EMBED src='/pix/header/wimbledon_header.swf?x' quality=high bgcolor=#CCCCCC  wmode='transparent' WIDTH=655 HEIGHT=113 TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'></EMBED>");		document.write("</OBJECT>");		document.write("</div>");	}   </SCRIPT><script type="text/javascript" src="/script/ieupdate.js"></script><img src="/pix/header/alt.gif" width="655" height="113" alt="United States Tennis Association" border="0" usemap="#alt"><map name="alt"><area shape="rect" coords="0,0,411,112" href="http://www.usta.com/" target=""><area shape="rect" coords="542,49,652,111" href="http://www.usta.com/pro_game/wimbledon/default.sps" target=""></map>-->
 
-<!--
-<div id="cdcontainer" style="z-index:5;position:absolute;top:90px;left:0px;width:650px;text-align:right;"></div>
+
+<div id="cdcontainer" style="z-index:5;position:absolute;top:90px;left:0px;width:650px;text-align:right;"><a href="http://www.ticketmaster.com/artist/807197?brand=usopen&amp;camefrom=CFC_USOPEN_USTA_MASTHEAD" target="_blank"><span style="color:#fff;font-size:10px;font-weight:bold;">0 days 2 hrs 26 mins 25 secs</span></a></div>
 <script type="text/javascript">
-var launchdate=new cdLocalTime("cdcontainer", "server-php", -302, "November 30, 2007 16:00:00")
+var launchdate=new cdLocalTime("cdcontainer", "server-php", -237, "June 9, 2008 8:45:00")
 launchdate.displaycountdown("days", formatresults)
 </script>
--->
 
 
    </td>
@@ -529,10 +642,36 @@ launchdate.displaycountdown("days", formatresults)
 				<tr><td align="left" valign="top"><a href="/news/fullstory.sps?iType=921&amp;inewsid=325525"><img src="/pix/newassets/devices/tv.gif" border="0" width="200" height="52"></a></td></tr>
 				<tr><td align="left" valign="top"><a href="http://www.ustashop.com/" target="_blank"><img src="/pix/newassets/devices/ustashop.gif" border="0" width="200" height="52"></a></td></tr>
 				<tr><td align="left" valign="top"><a href="/news/fullstory.sps?iType=12371&amp;inewsid=312386"><img src="/pix/newassets/devices/te_foundation.gif" border="0" width="200" height="53"></a></td></tr>
-			</tbody></table>
-			
-			
 
+			</tbody></table>
+			        
+		                <div style="position:absolute"><script language="JavaScript">
+document.write('<table cellpadding=0 cellspacing=0 border=0>');
+document.write('<tr>');
+document.write('<td width=120 class=advert>');
+
+
+document.write('<table cellpadding="0" cellspacing="0" border="0" width="100%">');
+document.write('<tr>');
+document.write('<td><table width="0" border="0" cellspacing="0" cellpadding="0">');
+document.write('<tr>');
+document.write('<td align="middle">');
+document.write('<table align="left" cellpadding="0" cellspacing="0" border="0" width="200"><tr><td valign="top"><a href="http://www.usta.com/photogallery/default_detail.sps?assetid=616057"><img src="http://picsrv.usta.com/?fif=/usta/usta/img_13_22721_5845.jpg&obj=iip,1.0&wid=200&hei=124&rgn=0,0,0,0&cvt=jpeg" border="0" width="200" height="124" alt="" class="assetImageJpg"></a></td></tr><tr><td colspan="2"><img src="/pix/1.gif" width="1" height="1"></td></tr></table>');
+document.write('</td>');
+document.write('</tr>');
+
+
+document.write('</table>');
+document.write('</td>');
+document.write('</tr>');
+document.write('</table>');
+
+
+document.write('</td>');
+document.write('</tr>');
+document.write('</table>');
+</script><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="120" class="advert"><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td><table width="0" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="middle"><table align="left" cellpadding="0" cellspacing="0" border="0" width="200"><tbody><tr><td valign="top"><a href="http://www.usta.com/photogallery/default_detail.sps?assetid=616057"><img src="http://picsrv.usta.com/?fif=/usta/usta/img_13_22721_5845.jpg&amp;obj=iip,1.0&amp;wid=200&amp;hei=124&amp;rgn=0,0,0,0&amp;cvt=jpeg" border="0" width="200" height="124" alt="" class="assetImageJpg"></a></td></tr><tr><td colspan="2"><img src="/pix/1.gif" width="1" height="1"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div>
+                		
 		
 		<div id="seeRedAdvert" style="position:absolute;left:0px;top:446px;"></div>
   		
@@ -680,28 +819,34 @@ function selectActivateSubNavs(strActiveSubNav,strSubNavArray){
 						<table border="0" class="menutable" width="750" cellspacing="0" cellpadding="0"> 
 						<tbody><tr>	
 							<td>
-								<a href="/about_us/organization/default.sps"><img id="aboutus_organization_img" src="/pix/newassets/menu/aboutus_organization_off.gif" border="0" width="87" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_organization',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_organization',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_organization',3,'',event)"></a>
+								<!-- <a href="/about_us/organization/default.sps"><img id="aboutus_organization_img" src="/pix/newassets/menu/aboutus_organization_off.gif" border="0" WIDTH="87" HEIGHT="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_organization',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_organization',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_organization',3,'',event)" ></a> -->
+								<a href="/about_us/organization/default.sps?id=1354"><img id="aboutus_organization_img" src="/pix/newassets/menu/aboutus_organization_off.gif" border="0" width="74" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_organization',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_organization',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_organization',3,'',event)"></a>
+
+
 							</td>
 							<td>
-								<a href="/about_us/ntc/default.sps"><img id="aboutus_ntc_img" src="/pix/newassets/menu/aboutus_ntc_off.gif" border="0" width="130" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_ntc',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_ntc',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_ntc',3,'',event)"></a>
+								<a href="/about_us/ntc/default.sps"><img id="aboutus_ntc_img" src="/pix/newassets/menu/aboutus_ntc_off.gif" border="0" width="126" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_ntc',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_ntc',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_ntc',3,'',event)"></a>
 							</td>
 							<td>
-								<a href="/site_services/custom.sps?iType=961&amp;icustompageid=6107"><img id="aboutus_sections_img" src="/pix/newassets/menu/aboutus_sections_off.gif" border="0" width="58" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_sections',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_sections',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_sections',3,'',event)"></a>
+								<a href="/site_services/custom.sps?iType=961&amp;icustompageid=6107"><img id="aboutus_sections_img" src="/pix/newassets/menu/aboutus_sections_off.gif" border="0" width="54" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_sections',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_sections',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_sections',3,'',event)"></a>
 							</td>
 							<td>
-								<a href="/news/fullstory.sps?iType=12371&amp;inewsid=312386"><img id="aboutus_tef_img" src="/pix/newassets/menu/aboutus_tef_off.gif" border="0" width="175" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_tef',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_tef',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_tef',3,'',event)"></a>
+								<a href="/news/fullstory.sps?iType=12371&amp;inewsid=312386"><img id="aboutus_tef_img" src="/pix/newassets/menu/aboutus_tef_off.gif" border="0" width="172" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_tef',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_tef',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_tef',3,'',event)"></a>
 							</td>
 							<td>
-								<a href="/about_us/custom.sps?iType=12369&amp;icustompageid=17272"><img id="aboutus_rules_img" src="/pix/newassets/menu/aboutus_rules_off.gif" border="0" width="43" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_rules',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_rules',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_rules',3,'',event)"></a>
+								<a href="/about_us/custom.sps?iType=12369&amp;icustompageid=17272"><img id="aboutus_rules_img" src="/pix/newassets/menu/aboutus_rules_off.gif" border="0" width="39" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_rules',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_rules',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_rules',3,'',event)"></a>
 							</td>
 							<td>
-								<a href="http://usta.recruitmax.com/ENG/candidates/" target="_blank"><img id="aboutus_joblistings_img" src="/pix/newassets/menu/aboutus_joblistings_off.gif" border="0" width="76" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_joblistings',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_joblistings',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_joblistings',3,'',event)"></a>
+								<a href="http://usta.recruitmax.com/ENG/candidates/" target="_blank"><img id="aboutus_joblistings_img" src="/pix/newassets/menu/aboutus_joblistings_off.gif" border="0" width="73" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_joblistings',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_joblistings',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_joblistings',3,'',event)"></a>
 							</td>
 							<td>
 								<a href="/communitytennis/fullstory.sps?iNewsid=246733"><img id="aboutus_awards_img" src="/pix/newassets/menu/aboutus_awards_off.gif" border="0" width="101" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_awards',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_awards',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_awards',3,'',event)"></a>
 							</td>
 							<td>
-								<a href="/news/fullstory.sps?iType=7794&amp;inewsid=370458"><img id="aboutus_diversity_img" src="/pix/newassets/menu/aboutus_diversity_off.gif" border="0" width="80" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_diversity',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_diversity',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_diversity',3,'',event)"></a>
+								<a href="/news/fullstory.sps?iType=7794&amp;inewsid=370458"><img id="aboutus_diversity_img" src="/pix/newassets/menu/aboutus_diversity_off.gif" border="0" width="55" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_diversity',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_diversity',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_diversity',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/yearbook/custom.sps?iType=14786&amp;icustompageid=23049"><img id="aboutus_yearbook_img" src="/pix/newassets/menu/aboutus_yearbook_off.gif" border="0" width="56" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_yearbook',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_yearbook',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_yearbook',3,'',event)"></a>
 							</td>
 						</tr>
 					</tbody></table>
@@ -713,10 +858,10 @@ function selectActivateSubNavs(strActiveSubNav,strSubNavArray){
 								<a href="http://www.usopen.org" target="_blank"><img id="progame_usopen_img" src="/pix/newassets/menu/progame_usopen_off.gif" border="0" width="69" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_usopen',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_usopen',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_usopen',3,'',event)"></a>
 							</td>
 							<td>
-								<a href="http://www.usopenseries.com" target="_blank"><img id="progame_openseries_img" src="/pix/newassets/menu/progame_openseries_off.gif" border="0" width="99" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_openseries',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_openseries',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_openseries',3,'',event)"></a>
+								<a href="http://www.usopenseries.com" target="_blank"><img id="progame_openseries_img" src="/pix/newassets/menu/progame_openseries_off.gif" border="0" width="151" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_openseries',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_openseries',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_openseries',3,'',event)"></a>
 							</td>
 							<td>
-								<a href="/pro_game/australianopen/default.sps"><img id="progame_grandslam_img" src="/pix/newassets/menu/progame_grandslam_off.gif" border="0" width="85" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_grandslam',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_grandslam',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_grandslam',3,'',event)"></a>
+								<a href="/pro_game/frenchopen/default.sps"><img id="progame_grandslam_img" src="/pix/newassets/menu/progame_grandslam_off.gif" border="0" width="85" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_grandslam',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_grandslam',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_grandslam',3,'',event)"></a>
 							</td>
 							<td>
 								<a href="/pro_game/davis_cup/default.sps"><img id="progame_daviscup_img" src="/pix/newassets/menu/progame_daviscup_off.gif" border="0" width="70" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_daviscup',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_daviscup',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_daviscup',3,'',event)"></a>
@@ -731,10 +876,11 @@ function selectActivateSubNavs(strActiveSubNav,strSubNavArray){
 								<a href="/olympicspanam/default.sps?iType=13972&amp;icustompageid=20606"><img id="panoly_img" src="/pix/newassets/menu/panoly_off.gif" border="0" width="103" height="27" onmouseover="selectActivateSubNavButton('progame', 'panoly',1,'',event)" onclick="selectActivateSubNavButton('progame', 'panoly',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'panoly',3,'',event)"></a>
 							</td>
 							<td>
-								<a href="/schedule/custom.sps?iType=944&amp;icustompageid=1590"><img id="progame_fullschedule_img" src="/pix/newassets/menu/progame_fullschedule_off.gif" border="0" width="86" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_fullschedule',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_fullschedule',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_fullschedule',3,'',event)"></a>
+								<!--<a href="/schedule/custom.sps?iType=944&amp;icustompageid=1590"><img id="progame_fullschedule_img" src="/pix/newassets/menu/progame_fullschedule_off.gif" border="0" WIDTH="86" HEIGHT="27" onmouseover="selectActivateSubNavButton('progame', 'progame_fullschedule',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_fullschedule',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_fullschedule',3,'',event)" ></a>-->
+								<a href="/protennis/schedule.sps?id=3196&amp;itype=14645"><img id="progame_fullschedule_img" src="/pix/newassets/menu/progame_fullschedule_off.gif" border="0" width="86" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_fullschedule',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_fullschedule',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_fullschedule',3,'',event)"></a>
 							</td>
 							<td>
-								<img src="/pix/newassets/menu/progame_space_01.gif" border="0" width="109" height="27">
+								<img src="/pix/newassets/menu/progame_space_01.gif" border="0" width="57" height="27">
 							</td>
 						</tr>
 					</tbody></table>
@@ -785,25 +931,25 @@ function selectActivateSubNavs(strActiveSubNav,strSubNavArray){
 						<table border="0" class="menutable" width="750" cellspacing="0" cellpadding="0">
 							<tbody><tr>	
 								<td>
-									<img src="/pix/newassets/menu/futurechamps_space_01.gif" border="0" width="12" height="27">
+									<img src="/pix/newassets/menu/futurechamps_space_01.gif" border="0" width="23" height="27">
 								</td>
 								<td>
-									<a href="/futurechampions/custom.sps?icustompageid=17360&amp;itype=12457"><img id="future_aboutus_img" src="/pix/newassets/menu/future_aboutus_off.gif" border="0" width="67" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_aboutus',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_aboutus',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_aboutus',3,'',event)"></a>
+									<a href="/futurechampions/custom.sps?icustompageid=17360&amp;itype=12457"><img id="future_aboutus_img" src="/pix/newassets/menu/future_aboutus_off.gif" border="0" width="58" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_aboutus',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_aboutus',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_aboutus',3,'',event)"></a>
 								</td>
 								<td>
-									<a href="/futurechampions/custom.sps?icustompageid=17361&amp;itype=12457"><img id="future_highper_img" src="/pix/newassets/menu/future_highper_off.gif" border="0" width="110" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_highper',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_highper',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_highper',3,'',event)"></a>
+									<a href="/futurechampions/custom.sps?icustompageid=17361&amp;itype=12457"><img id="future_highper_img" src="/pix/newassets/menu/future_highper_off.gif" border="0" width="101" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_highper',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_highper',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_highper',3,'',event)"></a>
 								</td>
 								<td>
-									<a href="/futurechampions/custom.sps?icustompageid=17363&amp;itype=12457"><img id="future_sports_img" src="/pix/newassets/menu/future_sports_off.gif" border="0" width="88" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_sports',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_sports',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_sports',3,'',event)"></a>
+									<a href="/futurechampions/custom.sps?icustompageid=17363&amp;itype=12457"><img id="future_sports_img" src="/pix/newassets/menu/future_sports_off.gif" border="0" width="79" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_sports',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_sports',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_sports',3,'',event)"></a>
 								</td>
 								<td>
-									<a href="/futurechampions/custom.sps?icustompageid=17364&amp;itype=12457"><img id="future_coaching_img" src="/pix/newassets/menu/future_coaching_off.gif" border="0" width="120" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_coaching',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_coaching',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_coaching',3,'',event)"></a>
+									<a href="/futurechampions/custom.sps?icustompageid=17364&amp;itype=12457"><img id="future_coaching_img" src="/pix/newassets/menu/future_coaching_off.gif" border="0" width="111" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_coaching',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_coaching',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_coaching',3,'',event)"></a>
 								</td>
 								<td>
 									<a href="/academy/default.sps"><img id="academy_img" src="/pix/newassets/menu/academy_off.gif" border="0" onmouseover="selectActivateSubNavButton('futurechamps', 'academy',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'academy',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'academy',3,'',event)"></a>
 								</td>
 								<td>
-									<a href="/futurechampions/custom.sps?icustompageid=17365&amp;itype=12457"><img id="future_comp_img" src="/pix/newassets/menu/future_comp_off.gif" border="0" width="182" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_comp',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_comp',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_comp',3,'',event)"></a>
+									<a href="/futurechampions/custom.sps?icustompageid=17365&amp;itype=12457"><img id="future_comp_img" src="/pix/newassets/menu/future_comp_off.gif" border="0" width="174" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_comp',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_comp',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_comp',3,'',event)"></a>
 								</td>
 								<td>
 									<a href="javascript:openNewWindow('http://www.playerdevelopment.usta.com/pdmediabooks/players.asp','digital_library',885,700)"><img id="vidinstructions_img" src="/pix/newassets/menu/vidinstructions_off.gif" border="0" onmouseover="selectActivateSubNavButton('futurechamps', 'vidinstructions',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'vidinstructions',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'vidinstructions',3,'',event)"></a>
@@ -815,7 +961,7 @@ function selectActivateSubNavs(strActiveSubNav,strSubNavArray){
 						<table border="0" class="menutable" width="750" cellspacing="0" cellpadding="0">
 						<tbody><tr>	
 							<td>
-								<img src="/pix/newassets/menu/playnow_space_01.gif" border="0" width="291" height="27">
+								<img src="/pix/newassets/menu/playnow_space_01.gif" border="0" width="188" height="27">
 							</td>
 							<td>
 								<a href="/team_tennis/custom.sps?iType=3491&amp;icustompageid=5952"><img id="playnow_juniors_img" src="/pix/newassets/menu/playnow_juniors_off.gif" border="0" width="53" height="27" onmouseover="selectActivateSubNavButton('playnow', 'playnow_juniors',1,'',event)" onclick="selectActivateSubNavButton('playnow', 'playnow_juniors',2,'',event)" onmouseout="selectActivateSubNavButton('playnow', 'playnow_juniors',3,'',event)"></a>
@@ -835,6 +981,9 @@ function selectActivateSubNavs(strActiveSubNav,strSubNavArray){
 							<td>
 								<a href="/news/fullstory.sps?iType=946&amp;inewsid=333099"><img id="playnow_adaptive_img" src="/pix/newassets/menu/playnow_adaptive_off.gif" border="0" width="60" height="27" onmouseover="selectActivateSubNavButton('playnow', 'playnow_adaptive',1,'',event)" onclick="selectActivateSubNavButton('playnow', 'playnow_adaptive',2,'',event)" onmouseout="selectActivateSubNavButton('playnow', 'playnow_adaptive',3,'',event)"></a>
 							</td>
+							<td>
+								<a href="http://consumers.quickstarttennis.com/" target="_blank"><img id="playnow_quickstart_img" src="/pix/newassets/menu/playnow_quickstart_off.gif" border="0" width="103" height="27" onmouseover="selectActivateSubNavButton('playnow', 'playnow_quickstart',1,'',event)" onclick="selectActivateSubNavButton('playnow', 'playnow_quickstart',2,'',event)" onmouseout="selectActivateSubNavButton('playnow', 'playnow_quickstart',3,'',event)"></a>
+							</td>	
 							<td>
 								<img src="/pix/newassets/menu/playnow_space_01.gif" border="0" width="54" height="27">
 							</td>
@@ -981,6 +1130,9 @@ function selectActivateSubNavs(strActiveSubNav,strSubNavArray){
 					<td align="left" colspan="2" width="588" valign="top">
 		
 		<!--main content -->
+
+		
+
 			<table width="588" cellspacing="1" cellpadding="0" border="0" bgcolor="ffffff">
 				<tbody><tr>
 					<td align="left" valign="top">
@@ -1019,7 +1171,7 @@ function selectActivateSubNavs(strActiveSubNav,strSubNavArray){
 					
 						<td><img src="/pix/1.gif" width="5" height="1"></td>
 					
-					<td class="normalformcentral" width="100%"><p><strong>Welcome<br></strong><br>Welcome to <a href="http://www.usta.com/">www.usta.com</a>. This site (the “Site”) is owned by the United States Tennis Association (the "USTA"). This Privacy Policy is designed to tell you about our practices regarding collection, use and disclosure of information that we may collect from and about you. Please be sure to read this entire Privacy Policy before using or submitting information to this Site. This Site is intended for use by residents of the United States. </p><p><strong>Your Consent<br></strong><br>By using this Site, you agree with the terms of this Privacy Policy. Whenever you submit information via this Site, you consent to the collection, use and disclosure of that information in accordance with this Privacy Policy, the Terms of Service and any specific provisions of this Site that may be presented at the time information is collected.<br><br><strong>About Children</strong><br><br>The Site is a general audience site.&nbsp; We do not knowingly collect any personal information from children under the age of thirteen on the Site.&nbsp; If in the future, we collect personally identifiable information from children, we will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.).&nbsp; The Internet offers children wonderful educational and entertainment resources.&nbsp; Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience.&nbsp; We encourage you to visit the Direct Marketing Association’s Web site (<a href="http://www.the-dma.org/">www.the-dma.org</a>) and explore the Get CyberSavvy! Program as well as the GetNetWise Web site (<a href="http://www.getnetwise.org/">www.getnetwise.org</a>) to learn more about parental control tools.<br><br><strong>Active Information Collection<br></strong><br>Like many Web sites, this Site actively collects information from its visitors both by asking them specific questions and by permitting them to communicate directly with us via e-mail, feedback forms, chat rooms and so forth. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, e-mail address, phone number and so on).<br><br>Some areas of this Site may require you to submit information in order for you to benefit from the specified features (such as newsletter subscriptions, tips/pointers, order processing and so forth) or to participate in a particular activity (such as sweepstakes or other promotions and so forth). You will be informed at each information collection point what information is required and what information is optional.<br><br><strong>Passive Information Collection</strong><br><br>As you navigate through this Site and/or receive emails in connection with this Site, certain information may be passively collected (that is, gathered without your actively providing the information) using various technologies and means, including, without limitation, those described below:<br><br><strong>Cookies<br></strong><br>As with many Websites, the Site uses standard technology called “cookies,” which are small data files that are transferred to your computer when you allow your browser to accept cookies.&nbsp; Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make using the Site easier for you by saving your passwords, purchases, and preferences.&nbsp; By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies.&nbsp; <br><br>Accepting cookies allows you, among other things, to personalize your experience on the Site.&nbsp; Cookies may also allow the Site to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Site may not provide you with a personalized experience if you have disabled the use of cookies.&nbsp; <br><br><strong>IP Addresses and Automatic Information</strong> <br><br>We may collect IP addresses and/or automatic information for purposes of system administration and to report aggregate information to our advertisers and sponsors.&nbsp; An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address.&nbsp; When you request Web pages from the Site, our computers log your IP address.&nbsp;&nbsp; <br><br>Automatic information is information collected by our computers when you request Web pages from the Site.&nbsp; Automatic information may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such information.&nbsp; When analyzed, this data helps us analyze how visitors arrive at the Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.&nbsp; </p><p><strong>Information From Other Sources<br><br></strong>From time to time we, and/or our operational partners may receive information about you from other sources and add it to the data previously collected about you.<br><br><strong>Use and Disclosure of Information</strong><br><br>Except as otherwise stated, USTA may use information you provide to improve the content of our Site, to customize the display of the Site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for the purposes specified in this Privacy Policy.<br>If you provide personally identifiable information to this Site, we may combine such information with other actively collected information unless specified otherwise at the point of collection on this Site. We may combine personally identifiable information with passively collected information.<br><br>We may disclose your personally identifiable information to third parties located in the United States and/or any other country:<br><br>i.&nbsp;to our affiliates; <br>ii.&nbsp;to our sponsors; <br>iii.&nbsp;to other tennis related organizations; <br>iv.&nbsp;to select companies or organizations which we believe may offer products, services, materials or information of interest to visitors to this Site; <br>v.&nbsp;to third parties we use to support our business (including fulfillment services, technical support, delivery services, chat service providers, email service providers, forum service providers, advertisement sales and management services and financial institutions); <br>vi.&nbsp;in connection with the sale, assignment or other transfer of the business of this Site to which the information relates; or <br>vii.&nbsp;where required by applicable laws, court orders or government regulations.<br>In addition, we will make full use of all information acquired through this Site that is not in personally identifiable form.<br><br><strong>Third-Party Ad Serving &amp; Audience and Traffic Measurement Services</strong><br><br>The Site may use a third party network advertisers to serve the advertisements on the Site or may use a traffic measurement service to analyze the traffic on the Site.&nbsp;&nbsp;&nbsp; Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited.&nbsp; Third-party ad serving enables us to target advertisements to you for products or Web sites you might be interested in.&nbsp; Although advertisers or other companies do not have access to the Site cookies, the Site’s advertisers, sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one.&nbsp;&nbsp; <br><br>Please click here <a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a>] in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use.&nbsp; </p><p><strong>Access and Correction<br></strong><br>To keep your personally identifiable information accurate, current and complete, please contact us as specified below. We will take reasonable steps to update or correct personally identifiable information in our possession that you have previously submitted via this Site.<br><br><strong>Security<br></strong><br>We will take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our Site and to protect such information from loss, misuse and unauthorized access, disclosure, alteration or destruction in accordance with this Privacy Policy and the Terms of Use. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, email sent to or from this Site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, usernames, ID numbers or other special access features on this Site, it is your responsibility to safeguard them.<br><br><strong>Links to Other Web Sites<br></strong><br>You should be aware that when you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site’s logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies.&nbsp; If you visit a Website that is linked to our Site, you should consult that site’s privacy policy before providing any personal information.<br><br><strong>Other Terms<br></strong><br>Your use of this Site is subject to the <a href="http://www.usta.com/site_services/custom.sps?iType=961&amp;icustompageid=1659">Terms of Use</a>. If you choose to use this Site, your visit and any dispute over privacy and data collection is subject to this Privacy Policy and our Terms of Use including limitations on damages and application of the law of the State of New York.<br><br><strong>How to Contact Us<br></strong><br>If you have any questions, comments or concerns about this Privacy Policy or the information practices of this Site, please contact us as follows:<br><br>United States Tennis Association<br>Attention: Advanced Media Dept.<br>70 West Red Oak Lane, White Plains, NY 10604<br>(914) 696-7000<br><a href="mailto:feedback@usta.com">feedback@usta.com</a><br><br><strong>Changes to This Privacy Policy<br></strong><br>If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated: [10/03].</p><p>&nbsp;</p></td>
+					<td class="normalformcentral" width="100%"><p class="MsoNormal"><strong><span>Welcome</span></strong><b><span><br></span></b><span><br>Welcome to <a href="http://www.usta.com/"><u><font color="#08006b">www.usta.com</font></u></a>. This site (the “Site”) is owned by the United States Tennis Association (the "USTA"). This Privacy Policy is designed to tell you about our practices regarding collection, use and disclosure of information that we may collect from and about you. Please be sure to read this entire Privacy Policy before using or submitting information to this Site. This Site is intended for use by residents of the <o:p></o:p></span></p><p><strong><span>Your Consent</span></strong><b><span><br></span></b><span><br>By using this Site, you agree with the terms of this Privacy Policy. Whenever you submit information via this Site, you consent to the collection, use and disclosure of that information in accordance with this Privacy Policy, the Terms of Service and any specific provisions of this Site that may be presented at the time information is collected.<br><br><strong><span>About Children</span></strong><br><br>The Site is a general audience site.&nbsp; We do not knowingly collect any personal information from children under the age of thirteen on the Site.&nbsp; If in the future, we collect personally identifiable information from children, we will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.).&nbsp; The Internet offers children wonderful educational and entertainment resources.&nbsp; Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience.&nbsp; We encourage you to visit the Direct Marketing Association</span><span>’</span><span>s Web site (<a href="http://www.the-dma.org/"><u><font color="#08006b">www.the-dma.org</font></u></a>) and explore the Get CyberSavvy! Program as well as the GetNetWise Web site (<a href="http://www.getnetwise.org/"><u><font color="#08006b">www.getnetwise.org</font></u></a>) to learn more about parental control tools.<br><br><strong><span>Active Information Collection</span></strong><b><br></b><br>Like many Web sites, this Site actively collects information from its visitors both by asking them specific questions and by permitting them to communicate directly with us via e-mail, feedback forms, chat rooms and so forth. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, e-mail address, phone number and so on).<br><br>Some areas of this Site may require you to submit information in order for you to benefit from the specified features (such as newsletter subscriptions, tips/pointers, order processing and so forth) or to participate in a particular activity (such as sweepstakes or other promotions and so forth). You will be informed at each information collection point what information is required and what information is optional.<br><br><strong><span>Passive Information Collection</span></strong><br><br>As you navigate through this Site and/or receive emails in connection with this Site, certain information may be passively collected (that is, gathered without your actively providing the information) using various technologies and means, including, without limitation, those described below:<br><br><strong><span>Cookies</span></strong><b><br></b><br>As with many Websites, the Site uses standard technology called “cookies,” which are small data files that are transferred to your computer when you allow your browser to accept cookies.&nbsp; Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make using the Site easier for you by saving your passwords, purchases, and preferences.&nbsp; By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies.&nbsp;<br><br>Accepting cookies allows you, among other things, to personalize your experience on the Site.&nbsp; Cookies may also allow the Site to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Site may not provide you with a personalized experience if you have disabled the use of cookies.&nbsp;<br><br><strong><span>IP Addresses and Automatic Information</span></strong><br><br>We may collect IP addresses and/or automatic information for purposes of system administration and to report aggregate information to our advertisers and sponsors.&nbsp; An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address.&nbsp; When you request Web pages from the Site, our computers log your IP address.&nbsp;&nbsp;<br><br>Automatic information is information collected by our computers when you request Web pages from the Site.&nbsp; Automatic information may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such information.&nbsp; When analyzed, this data helps us analyze how visitors arrive at the Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.&nbsp;</span><span><o:p></o:p></span></p><p><strong><span>Information From Other Sources</span></strong><b><span><br><br></span></b><span>From time to time we, and/or our operational partners may receive information about you from other sources and add it to the data previously collected about you.<br><br><strong><span>Use and Disclosure of Information</span></strong><br><br>Except as otherwise stated, USTA may use information you provide to improve the content of our Site, to customize the display of the Site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for the purposes specified in this Privacy Policy.<br>If you provide personally identifiable information to this Site, we may combine such information with other actively collected information unless specified otherwise at the point of collection on this Site. We may combine personally identifiable information with passively collected information.<br><br>We may disclose your personally identifiable information to third parties located in the <st1:place w:st="on"><st1:country-region w:st="on">United States</st1:country-region></st1:place> and/or any other country:<br><br>i.&nbsp;to our affiliates;<br>ii.&nbsp;to our sponsors;<br>iii.&nbsp;to other tennis related organizations;<br>iv.&nbsp;to select companies or organizations which we believe may offer products, services, materials or information of interest to visitors to this Site;<br>v.&nbsp;to third parties we use to support our business (including fulfillment services, technical support, delivery services, chat service providers, email service providers, forum service providers, advertisement sales and management services and financial institutions);<br>vi.&nbsp;in connection with the sale, assignment or other transfer of the business of this Site to which the information relates; or<br>vii.&nbsp;where required by applicable laws, court orders or government regulations.<br>In addition, we will make full use of all information acquired through this Site that is not in personally identifiable form.<br><br><strong><span>Third-Party Ad Serving &amp; Audience and Traffic Measurement Services</span></strong><br><br>The Site may use a third party network advertisers to serve the advertisements on the Site or may use a traffic measurement service to analyze the traffic on the Site.&nbsp; Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited.&nbsp; Third-party ad serving enables us to target advertisements to you for products or Web sites you might be interested in.&nbsp; Although advertisers or other companies do not have access to the Site cookies, the Site’s advertisers, sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one.&nbsp;&nbsp;<br><br>Please click here <a href="http://www.networkadvertising.org/optout_nonppii.asp"><u><font color="#08006b">http://www.networkadvertising.org/optout_nonppii.asp</font></u></a> in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use.&nbsp;<o:p></o:p></span></p><p class="MsoNormal"><strong><span>Access and Correction</span></strong><b><span><br></span></b><span><br>To keep your personally identifiable information accurate, current and complete, please contact us as specified below. We will take reasonable steps to update or correct personally identifiable information in our possession that you have previously submitted via this Site.<br><br><strong><span>Security</span></strong><b><br></b><br>We will take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our Site and to protect such information from loss, misuse and unauthorized access, disclosure, alteration or destruction in accordance with this Privacy Policy and the Terms of Use. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, email sent to or from this Site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, usernames, ID numbers or other special access features on this Site, it is your responsibility to safeguard them.<br><br><strong><span>Links to Other Web Sites</span></strong><b><br></b><br>You should be aware that when you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site’s logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies.&nbsp; If you visit a Website that is linked to our Site, you should consult that site’s privacy policy before providing any personal information.<span>&nbsp; </span>Please note that USTA is not responsible for the privacy practices of third parties.<br><br><strong><span>Other Terms</span></strong><b><br></b><br>Your use of this Site is subject to the Terms and Conditions of Use. If you choose to use this Site, your visit and any dispute over privacy and data collection is subject to this Privacy Policy and our Terms and Conditions of Use including limitations on damages and application of the law of the State of <st1:state w:st="on"><st1:place w:st="on">New York</st1:place></st1:state>.<br><br><strong><span>How to Contact Us</span></strong><b><br></b><br>If you have any questions, comments or concerns about this Privacy Policy or the information practices of this Site, please contact us as follows:<br><br>United States Tennis Association<br>Attention: Advanced Media Dept.<br>70 West Red Oak Lane, White Plains, NY 10604<br>(914) 696-7000<br><a href="mailto:feedback@usta.com"><u><font color="#08006b">feedback@usta.com</font></u></a><br><br><o:p></o:p></span></p><p class="MsoNormal"><st1:place w:st="on"><st1:state w:st="on"><b><span>California</span></b></st1:state></st1:place><b><span> Privacy Rights<o:p></o:p></span></b></p><p class="MsoNormal"><b><span><o:p>&nbsp;</o:p></span></b></p><p class="MsoNormal"><span>Pursuant to Section 1798.83 of the California Civil Code, our customers who are <st1:place w:st="on"><st1:state w:st="on">California</st1:state></st1:place> residents have the right to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.<span>&nbsp; </span>To make such a request, please contact the following with such request:<o:p></o:p></span></p><p class="MsoNormal"><span><o:p>&nbsp;</o:p></span></p><p class="MsoNormal"><st1:country-region w:st="on"><span>United States</span></st1:country-region><span> Tennis Association<br>Attention: Advanced Media <st1:place w:st="on"><st1:city w:st="on">Dept.-</st1:city> <st1:state w:st="on">California</st1:state></st1:place> Privacy Compliance<br><st1:street w:st="on"><st1:address w:st="on">70 West Red Oak Lane</st1:address></st1:street><o:p></o:p></span></p><p class="MsoNormal"><span><span>&nbsp;</span><st1:place w:st="on"><st1:city w:st="on">White Plains</st1:city>, <st1:state w:st="on">NY</st1:state> <st1:postalcode w:st="on">10604</st1:postalcode></st1:place><br><a name="ESPN_Question_7"></a><br><strong><span>Changes to This Privacy Policy</span></strong><b><br></b><br>If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on and is effective as of 6/1/08.<o:p></o:p></span></p><p class="MsoNormal"><span><o:p>&nbsp;</o:p></span></p></td>
 					
 						<td><img src="/pix/1.gif" width="5" height="1"></td>
 					
@@ -1121,7 +1273,7 @@ if (ValueLoaded) ValueShowAd();
 <tbody><tr><td>
 		<table cellpadding="0" cellspacing="0" border="0" width="420" align="center">
 			<tbody><tr>
-				<td colspan="3" class="copyright" align="center" style="padding-left:15px;">Copyright © 2007 by United States Tennis Association. All Rights Reserved.</td>
+				<td colspan="3" class="copyright" align="center" style="padding-left:15px;">Copyright © 2008 by United States Tennis Association. All Rights Reserved.</td>
 			</tr>
 			<tr>
 				<td class="copyright" align="center"><a href="/onlinesales/index.html" target="_blank" class="copyright">Online Advertising</a></td>	
