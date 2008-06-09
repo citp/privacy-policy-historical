@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecofriend.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211151453id_/http%3A//www.ecofriend.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecofriend.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609200531id_/http%3A//www.ecofriend.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Ecofriend: Lead a Green Life with this guide to the latest information and reviews on eco-friendly products, alternative energy, solar, wind, wave, bio-fuels, gadgets, biodegradable products, hybrid vehicles, and more...
 
