@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csrwire.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210211502id_/http%3A//www.csrwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csrwire.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609024549id_/http%3A//www.csrwire.com/privacy) for the most accurate reproduction.*
 
 # CSRwire.com - Privacy Policy
 
