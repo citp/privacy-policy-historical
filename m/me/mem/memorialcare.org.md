@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the memorialcare.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211081843id_/http%3A//www.memorialcare.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorialcare.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609024311id_/http%3A//www.memorialcare.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # 
 
-|  | 
+[](http://www.memorialcare.org/stories/fran_smmclh_heart.cfm)
 
-MemorialCare Privacy Statement
+| 
 
 **In order for you to use our services and health information tools, we require certain registration information (as noted on the signup form). The registration information will be transmitted to our partners in part or in whole for the sole purpose of customizing information for your needs. We will keep your information confidential and secure and you can change or delete your registration information at any time. You may also unsubscribe at any time. Please read this privacy policy for more information.  
 **   
@@ -177,3 +177,5 @@ To report any abuse or violations of this Email List Privacy Policy, please send
 
 Last Update: April 28, 2007  
 Copyright © 2007 Memorial Health Services.
+
+MemorialCare Medical Centers are not-for-profit, community-based hospitals located in Southern California in both Los Angeles County and Orange County. Copyright © 1999 - 2008, Memorial Health Services. All rights reserved. 
