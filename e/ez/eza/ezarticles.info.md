@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ezarticles.info privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210223114id_/http%3A//www.ezarticles.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezarticles.info privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609060600id_/http%3A//www.ezarticles.info/privacy.php) for the most accurate reproduction.*
 
-# www.EZArticles.info - EZ Articles Directory
+# Article Directory | Submit Articles | Free Article Marketing
 
 **www.EZ Articles.info  
 **
@@ -62,4 +62,4 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 **Links:**  
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-© 2006 **www.EZ Articles.info** , All rights reserved.
+© 2006, 2007, 2008 **www.EZ Articles.info** , All rights reserved.
