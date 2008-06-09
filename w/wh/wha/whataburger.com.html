@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the whataburger.com privacy policy that was archived on 2007-08-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070826160955id_/http%3A//www.whataburger.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whataburger.com privacy policy that was archived on 2008-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609202425id_/http%3A//www.whataburger.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Whataburger</title>
@@ -30,6 +30,10 @@ function savecheckbox(checkbox) {
 		name = "menuitem";
 	}
 	document.getElementById("checkbox" + checkbox).name = name + "[" + document.getElementById("itemtype").value + "]";
+	var bun = document.getElementById("bun" + checkbox);
+	if (bun) {
+		bun.name = "bun[" + document.getElementById("itemtype").value + "]";
+	}
 
 	/*
 	if (document.getElementById("combodrink" + checkbox) && document.getElementById("combodrinksize" + checkbox)) {
@@ -41,6 +45,16 @@ function savecheckbox(checkbox) {
 	}
 	*/
 	hidetip();
+}
+
+function updateBun(menuitem, dohidetip) {
+	if (dohidetip == undefined) {
+		dohidetip = true;
+	}
+	document.getElementById("bun" + menuitem).value = document.getElementById("bunselect").value;
+	if (dohidetip == true) {
+		hidetip();
+	}
 }
 
 function updateDrink(combo) {
@@ -77,6 +91,9 @@ function updateDrinksize(combo) {
 	}
 }
 </script>
+
+
+
 
 
 <link href="whataburger.css" rel="stylesheet" type="text/css"><table border="0" cellpadding="0" cellspacing="0" width="864">
@@ -131,10 +148,10 @@ function MM_swapImage() { //v3.0
 <table border="0" cellpadding="0" cellspacing="0" width="186">
   <!-- fwtable fwsrc="browse_side.png" fwbase="side_nav.jpg" fwstyle="Dreamweaver" fwdocid = "770030703" fwnested="0" -->
   <tbody><tr>
-    <td><a href="index.php"><img name="logo" src="gfx/side_nav/side_nav_white/logo.jpg" width="186" height="123" border="0" id="logo" alt="logo"></a></td>
+    <td><a href="index.php"><img name="logo" src="gfx/side_nav/side_nav_white/logo.jpg" width="186" height="123" border="0" id="logo" alt="whataburger - just like you like it"></a></td>
   </tr>
   <tr>
-    <td><a href="browse_the_menu.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('browse_btn','','gfx/side_nav/side_nav_white/browse_btn_f2.jpg',1);"><img name="browse_btn" src="gfx/side_nav/side_nav_white/browse_btn.jpg" width="186" height="21" border="0" id="browse_btn" alt="browse menu"></a></td>
+    <td><a href="browse_the_menu.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('browse_btn','','gfx/side_nav/side_nav_white/browse_btn_f2.jpg',1);"><img name="browse_btn" src="gfx/side_nav/side_nav_white/browse_btn.jpg" width="186" height="21" border="0" id="browse_btn" alt="browse the menu"></a></td>
   </tr>
   <tr>
     <td><a href="one_near_you.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('near_btn','','gfx/side_nav/side_nav_white/near_btn_f2.jpg',1);"><img name="near_btn" src="gfx/side_nav/side_nav_white/near_btn.jpg" width="186" height="22" border="0" id="near_btn" alt="one near you"></a></td>
@@ -143,10 +160,10 @@ function MM_swapImage() { //v3.0
     <td><a href="who_we_are.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('who_btn','','gfx/side_nav/side_nav_white/who_btn_f2.jpg',1);"><img name="who_btn" src="gfx/side_nav/side_nav_white/who_btn.jpg" width="186" height="22" border="0" id="who_btn" alt="who we are"></a></td>
   </tr>
   <tr>
-    <td><a href="how_it_all_started.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('how_btn','','gfx/side_nav/side_nav_white/how_btn_f2.jpg',1);"><img name="how_btn" src="gfx/side_nav/side_nav_white/how_btn.jpg" width="186" height="22" border="0" id="how_btn" alt="how it started"></a></td>
+    <td><a href="how_it_all_started.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('how_btn','','gfx/side_nav/side_nav_white/how_btn_f2.jpg',1);"><img name="how_btn" src="gfx/side_nav/side_nav_white/how_btn.jpg" width="186" height="22" border="0" id="how_btn" alt="how it all started"></a></td>
   </tr>
   <tr>
-    <td><a href="news_and_events.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('news_btn','','gfx/side_nav/side_nav_white/news_btn_f2.jpg',1);"><img name="news_btn" src="gfx/side_nav/side_nav_white/news_btn.jpg" width="186" height="22" border="0" id="news_btn" alt="news events"></a></td>
+    <td><a href="news_and_events.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('news_btn','','gfx/side_nav/side_nav_white/news_btn_f2.jpg',1);"><img name="news_btn" src="gfx/side_nav/side_nav_white/news_btn.jpg" width="186" height="22" border="0" id="news_btn" alt="news and events"></a></td>
   </tr>
   <tr>
     <td><a href="join_the_family.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('join_btn','','gfx/side_nav/side_nav_white/join_btn_f2.jpg',1);"><img name="join_btn" src="gfx/side_nav/side_nav_white/join_btn.jpg" width="186" height="22" border="0" id="join_btn" alt="join the family"></a></td>
@@ -161,10 +178,10 @@ function MM_swapImage() { //v3.0
     <td><a href="whatakids.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('whatakids_btn','','gfx/side_nav/side_nav_white/whatakids_btn_f2.jpg',1);"><img name="whatakids_btn" src="gfx/side_nav/side_nav_white/whatakids_btn.jpg" width="186" height="22" border="0" id="whatakids_btn" alt="whatakids"></a></td>
   </tr>
   <tr>
-    <td><a href="whatastore.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('whatastore_btn','','gfx/side_nav/side_nav_white/whatastore_btn_f2.jpg',1);"><img name="whatastore_btn" src="gfx/side_nav/side_nav_white/whatastore_btn.jpg" width="186" height="22" border="0" id="whatastore_btn" alt="whatastore"></a></td>
+    <td><a href="https://www.whataburger.com/whatastore.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('whatastore_btn','','gfx/side_nav/side_nav_white/whatastore_btn_f2.jpg',1);"><img name="whatastore_btn" src="gfx/side_nav/side_nav_white/whatastore_btn.jpg" width="186" height="22" border="0" id="whatastore_btn" alt="whatastore"></a></td>
   </tr>
   <tr>
-    <td><a href="contact_us.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact_btn','','gfx/side_nav/side_nav_white/contact_btn_f2.jpg',1);"><img name="contact_btn" src="gfx/side_nav/side_nav_white/contact_btn.jpg" width="186" height="22" border="0" id="contact_btn" alt="contact"></a></td>
+    <td><a href="contact_us.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact_btn','','gfx/side_nav/side_nav_white/contact_btn_f2.jpg',1);"><img name="contact_btn" src="gfx/side_nav/side_nav_white/contact_btn.jpg" width="186" height="22" border="0" id="contact_btn" alt="contact us"></a></td>
   </tr>
   <tr>
     <td><img name="image_sm" src="gfx/section_gfx/contact_sm.jpg" width="186" height="212" border="0" id="image_sm" alt=""></td>
@@ -250,7 +267,7 @@ function MM_swapImage() { //v3.0
    <td><img src="gfx/spacer.gif" width="1" height="576" border="0" alt=""></td>
   </tr>
   <tr>
-   <td colspan="3" bgcolor="#FBD5BC" class="footer" align="right">© 2007, Whataburger Restaurants LP,  All Rights Reserved.  <a href="terms.php" class="footer">Terms and Conditions</a> | <a href="privacy.php" class="footer">Privacy Policy</a> | <a href="news_subscribe.php" class="footer">Subscribe</a> | <a href="news_unsubscribe.php" class="footer">Unsubscribe</a></td>
+   <td colspan="3" bgcolor="#FBD5BC" class="footer" align="right">© 2008, Whataburger Restaurants LP,  All Rights Reserved.  <a href="terms.php" class="footer">Terms and Conditions</a> | <a href="privacy.php" class="footer">Privacy Policy</a> | <a href="news_subscribe.php" class="footer">Subscribe</a> | <a href="news_unsubscribe.php" class="footer">Unsubscribe</a></td>
    <td><img src="gfx/spacer.gif" width="1" height="18" border="0" alt=""></td>
   </tr>
 </tbody></table>
