@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficbunnies.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027235248id_/http%3A//www.trafficbunnies.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficbunnies.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609052015id_/http%3A//www.trafficbunnies.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Traffic Bunnies Traffic Exchange
 
