@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imb.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024151159id_/http%3A//www.imb.com/externalHost.asp%3Fl%3Dimbcorp%26p%3Ddefault.aspx%3Fpid%3Doc%5CPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imb.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609085020id_/http%3A//www.imb.com/externalHost.asp%3Fl%3Dimbcorp%26p%3Ddefault.aspx%3Fpid%3Doc%5CPrivacyPolicy) for the most accurate reproduction.*
 
 # IndyMac Bank - Our Company : Privacy Policy
 
@@ -60,6 +60,12 @@ We honor our customers' privacy choices. For accounts with multiple customers we
 Your Rights
 
 You have the following rights to restrict the sharing of personal and financial information with our affiliates and outside companies that we do business with. You also have the right to limit our affiliates from marketing their products and services to you based on information that we share with them. Nothing prohibits the sharing of information necessary for us to follow the law, as permitted by law, or to give you the best service on your accounts with us. This includes sending you information about some other products or services.
+
+  
+  
+
+
+You may make your privacy choice(s) at any time. Your choice(s) will remain unless you state otherwise. But, if we do not hear from you we may share some of your information with affiliated companies and other companies with whom we have contracts to provide products and services, and our affiliates may use information that we share to market products or services to you.
 
   
 
