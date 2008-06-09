@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcit.ca privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025031734id_/http%3A//www.bcit.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcit.ca privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609094243id_/http%3A//www.bcit.ca/privacy) for the most accurate reproduction.*
 
 # BCIT : : legal : : your privacy at bcit
 
@@ -41,6 +41,3 @@ BCIT's Web site contains links to third party sites, and BCIT is not responsible
 Some portions of the BCIT Web site may distribute small pieces of information (called "cookies") to Web browsers to assist you when you return to specific areas on the site. If you have concerns about cookies, you can change your Web browser settings not to accept this information, or display warning messages.
 
 When you voluntarily send electronic mail to BCIT or complete an electronic form that includes identifying information about you, BCIT will keep a record of this information so that we can respond to you.
-
-  
-
