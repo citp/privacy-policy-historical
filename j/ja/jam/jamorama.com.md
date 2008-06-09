@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jamorama.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221124424id_/http%3A//rockstarrecipes.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamorama.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609202745id_/http%3A//www.jamorama.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Rock Star Recipes
+# Jamorama | Privacy Policy
 
-Privacy Policy 
+* * *
 
 **Registration**
 
@@ -46,7 +46,7 @@ If you have any questions about the security at our website, please send us an [
 
 **Special Offers**
 
-We may send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and newsletters or other useful communications. Out of respect for the privacy of our users, we present the option to not receive these types of communications and the option to suspend further notifications. Please see our choice and opt-out below.
+We may send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and newsletters or other useful communications. Out of respect for the privacy of our users, we present the option to not receive these types of communications. Please see our choice and opt-out below.
 
 **Site and Service Updates**
 
@@ -74,4 +74,10 @@ For your information, as a parent or legal guardian of a child under 13 years ol
 
 If we decide to change our privacy policy, we will post those changes via the Privacy links on the website so our users are aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. 
 
-Thank you for visiting this Rock Star Recipes Ltd website. 
+Thank you for visiting this Rock Star Recipes Ltd website.   
+
+
+[Learn Guitar - Home](http://www.jamorama.com/) | [About Us](http://www.jamorama.com/about-us.php) | [F.A.Q.](http://www.jamorama.com/faq.html) | [Links](http://www.jamorama.com/learn-guitar-links.php) | [Order Now](http://www.jamorama.com/#ordernow) | [Privacy Policy](http://www.jamorama.com/privacy-policy.php)  
+[Terms of Use](http://www.jamorama.com/terms-of-use.php) | [Site Map](http://www.jamorama.com/jamorama-sitemap.php) | [Affiliates](http://www.jamorama.com/affiliates) | [Learn to Play Guitar Articles](https://web.archive.org/articles/index.php) | [Contact Us](http://www.jamorama.com/contact.html)
+
+All Rights Reserved. Copyright © 2008 Rock Star Recipes
