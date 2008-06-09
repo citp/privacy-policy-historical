@@ -1,51 +1,65 @@
-> *The following text is extracted and transformed from the conns.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conns.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
-[](https://www2.conns.com/credit.php)| [Appliances](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-appliances.html)  
+[](https://www2.conns.com/credit.php)| [Appliances](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-appliances.html)  
 ---  
-[Dishwashers](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-appliances-dishwashers.html)  
-[Freezers](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-appliances-freezers.html)  
-[ Microwaves](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-appliances--microwaves.html)  
-[Air Conditioners](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-appliances-air-conditioners.html)  
-[Health and Fitness](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-appliances-health-and-fitness.html)  
-[Vent Hoods](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-appliances-vent-hoods.html)  
-[Washers](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-appliances-washers.html)  
-[Dryers](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-appliances-dryers.html)  
-[Cooktops](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-appliances-cooktops.html)  
-[Refrigerators](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-appliances-refrigerators.html)  
-[ Small Appliance](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-appliances--small-appliance.html)  
-[Wall Ovens](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-appliances-wall-ovens.html)  
-[Ranges](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-appliances-ranges.html)  
-[Lawn and Garden](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden.html)  
+[Dishwashers](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-appliances-dishwashers.html)  
+[Freezers](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-appliances-freezers.html)  
+[ Microwaves](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-appliances--microwaves.html)  
+[Air Conditioners](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-appliances-air-conditioners.html)  
+[Vent Hoods](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-appliances-vent-hoods.html)  
+[Washers](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-appliances-washers.html)  
+[Dryers](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-appliances-dryers.html)  
+[Cooktops](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-appliances-cooktops.html)  
+[ Small Appliance](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-appliances--small-appliance.html)  
+[Refrigerators](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-appliances-refrigerators.html)  
+[Ranges](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-appliances-ranges.html)  
+[Electronics](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-electronics.html)  
 ---  
-[Blowers](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-blowers.html)  
-[Trimmers](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-trimmers.html)  
-[Chain Saws](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-chain-saws.html)  
-[Pressure Washers](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-pressure-washers.html)  
-[Generators](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-generators.html)  
-[Lawn Accessories](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-lawn-accessories.html)  
-[Grills](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-grills.html)  
-[Misc. Tools](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-misc--tools.html)  
-[Tractors](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-tractors.html)  
-[Lawn Mowers](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-lawn-mowers.html)  
-[](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-brand.html)[](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/shop-by-category.html)
+[GPS](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-electronics-gps.html)  
+[ Phones](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-electronics--phones.html)  
+[Miscellaneous](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-electronics-miscellaneous.html)  
+[Computers](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-electronics-computers.html)  
+[Audio](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-electronics-audio.html)  
+[Televisions](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-electronics-televisions.html)  
+[Cameras & Camcorders](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-electronics-cameras---camcorders.html)  
+[Games & DVD](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-electronics-games---dvd.html)  
+[Health and Fitness](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-appliances-health-and-fitness.html)  
+[Lawn and Garden](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden.html)  
+---  
+[Blowers](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-blowers.html)  
+[Trimmers](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-trimmers.html)  
+[Chainsaws](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-chain-saws.html)  
+[Pressure Washers](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-pressure-washers.html)  
+[Generators](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-generators.html)  
+[Lawn Accessories](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-lawn-accessories.html)  
+[Grills](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-grills.html)  
+[Misc. Tools](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-misc--tools.html)  
+[Tractors](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-tractors.html)  
+[Lawn Mowers](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category-lawn-and-garden-lawn-mowers.html)  
+[](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-brand.html)[](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/shop-by-category.html)
 
-[](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/more-ways-to-shop.html)
+[](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/more-ways-to-shop.html)
 
-[](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/conn-s-service.html)
+[](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/conn-s-service.html)
 
 [Order Parts](http://conns.partsearch.com/)  
 ---  
-[Track Your Order](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/trackorder.html)  
-[Shipping Info](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/conn-s-service-shipping-info.html)  
-[Store Locations](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/conn-s-service-store-locations.html)  
-[Store Hours](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/conn-s-service-store-hours.html)  
-[Conn's Price Guarantee](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/conn-s-service-conn-s-price-guarantee.html)  
-[Conn's Home Delivery](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/conn-s-service-conn-s-home-delivery.html)  
-[Conn's Award Winning Service](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/conn-s-service-conn-s-award-winning-service.html)  
-[Conn's Credit](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/conn-s-service-conn-s-credit.html)  
-[Sign up for the latest deals!](https://web.archive.org/web/20071025070831id_/http%3A//www.conns.com/conn-s-service-sign-up-for-hot-products--hot-deals--big-savings.html)  
+[Track Your Order](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/trackorder.html)  
+[Shipping Info](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/conn-s-service-shipping-info.html)  
+[Store Locations](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/conn-s-service-store-locations.html)  
+[Store Hours](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/conn-s-service-store-hours.html)  
+[Conn's Price Guarantee](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/conn-s-service-conn-s-price-guarantee.html)  
+[Conn's Home Delivery](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/conn-s-service-conn-s-home-delivery.html)  
+[Conn's Award Winning Service](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/conn-s-service-conn-s-award-winning-service.html)  
+[Conn's Credit](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/conn-s-service-conn-s-credit.html)  
+[Sign up for the latest deals!](https://web.archive.org/web/20080609234407id_/http%3A//www.conns.com/conn-s-service-sign-up-for-hot-products--hot-deals--big-savings.html)  
+---  
+  
+| Everthing went very easy,and the merchandise was shipped very fast.   
+_Ralph, Gonzales, LA_|   
+  
 I Recently Viewed:  
 ---  
 As you view more items, they will appear here.  
