@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016064853id_/http%3A//www.diesel-ebooks.com/cgi-bin/category/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609200638id_/http%3A//www.diesel-ebooks.com/cgi-bin/category/privacy) for the most accurate reproduction.*
 
-# Download ebooks at Diesel eBooks
+# download ebook at Diesel eBooks
 
 | Fiction eBooks  
 ---  
-  
 [General Fiction](http://www.diesel-ebooks.com/cgi-bin/category/FIC000001/General-Fiction.html)  
 [Romance](http://www.diesel-ebooks.com/cgi-bin/category/FIC027001/Romance.html)  
 [Erotica](http://www.diesel-ebooks.com/cgi-bin/category/FIC005000/Erotica.html)  
@@ -19,27 +18,188 @@
 [Free eBook downloads](http://www.diesel-ebooks.com/cgi-bin/category/free_download)  
   
   
-Non-Fiction  
+
+
+[](https://web.archive.org/web/20061010212611/https://www.diesel-ebooks.com/cgi-bin/myhistory.cgi)
+
+| 
+
+My Account
+
+|   
+---|---|---  
+  
+| 
+
+My Account
+
+|   
+---|---|---  
+  
+[](https://web.archive.org/web/20061010212611/http://www.diesel-ebooks.com/support/index.php)
+
+| 
+
+Help
+
+|   
+---|---|---  
+  
+| 
+
+Help
+
+|   
+---|---|---  
+  
+[](https://web.archive.org/web/20061010212611/http://www.diesel-ebooks.com/cgi-bin/category.cgi?category=orderinfo)
+
+| 
+
+About
+
+|   
+---|---|---  
+  
+| 
+
+About
+
+|   
+---|---|---  
+  
+[](https://web.archive.org/web/20061010212611/http://www.diesel-ebooks.com/cgi-bin/category.cgi?category=search&query=^newarrival.sql)
+
+| 
+
+New Arrivals
+
+|   
+---|---|---  
+  
+| 
+
+New Arrivals
+
+|   
+---|---|---  
+  
+[](https://web.archive.org/web/20061010212611/http://www.diesel-ebooks.com/cgi-bin/category.cgi?category=search&query=^sale.sql)
+
+Just Reduced
+
+|   
+---|---  
+  
+Just Reduced
+
+|   
+---|---  
+  
+[](https://web.archive.org/web/20061010212611/http://www.diesel-ebooks.com/support/index.php?d=1&Next=Next&pf=t)
+
+Report problem
+
+|   
+---|---  
+  
+Report problem
+
+|   
+---|---  
+  
+[](https://web.archive.org/web/20061010212611/http://www.diesel-ebooks.com/support/index.php?pf=kb)
+
+Knowledgebase/FAQ's
+
+|   
+---|---  
+  
+Knowledgebase/FAQ's
+
+|   
+---|---  
+  
+[](https://web.archive.org/web/20061010212611/http://www.diesel-ebooks.com/support/index.php?pf=tr)
+
+Troubleshooter
+
+|   
+---|---  
+  
+Troubleshooter
+
+|   
+---|---  
+  
+[](https://web.archive.org/web/20061010212611/https://www.diesel-ebooks.com/cgi-bin/myhistory.cgi)
+
+My bookshelf
+
+|   
+---|---  
+  
+My bookshelf
+
+|   
+---|---  
+  
+[](https://web.archive.org/web/20061010212611/https://www.diesel-ebooks.com/cgi-bin/mywishlist.cgi)
+
+My wishlist
+
+|   
+---|---  
+  
+My wishlist
+
+|   
+---|---  
+  
+[](https://web.archive.org/web/20061010212611/https://www.diesel-ebooks.com/cgi-bin/update_info.cgi)
+
+Update my info
+
+|   
+---|---  
+  
+Update my info
+
+|   
+---|---  
+  
 ---  
-[](http://www.diesel-ebooks.com/cgi-bin/category/AAT000001/Art.html) [](http://www.diesel-ebooks.com/cgi-bin/category/BIO000001/Biography.html) [](http://www.diesel-ebooks.com/cgi-bin/category/OCC000001/Body-Mind-&-Spirit.html) [](http://www.diesel-ebooks.com/cgi-bin/category/BUS000001/Business-&-Economics.html) [](http://www.diesel-ebooks.com/cgi-bin/category/COM000001/Computers.html) [](http://www.diesel-ebooks.com/cgi-bin/category/CRA000001/Crafts-Hobbies-&-Home.html) [](http://www.diesel-ebooks.com/cgi-bin/category/EDU000001/Education.html) [](http://www.diesel-ebooks.com/cgi-bin/category/FAM000001/Family-&-Relationships.html) [](http://www.diesel-ebooks.com/cgi-bin/category/HIS000001/History.html) [](http://www.diesel-ebooks.com/cgi-bin/category/HUM000001/Humor.html) [](http://www.diesel-ebooks.com/cgi-bin/category/JNF000001/Childrens-Nonfiction.html) [](http://www.diesel-ebooks.com/cgi-bin/category/LAN000001/Language-Arts.html) [](http://www.diesel-ebooks.com/cgi-bin/category/LAW000001/Law.html) [](http://www.diesel-ebooks.com/cgi-bin/category/MED000001/Medical.html) [](http://www.diesel-ebooks.com/cgi-bin/category/PHI000001/Philosophy.html) [](http://www.diesel-ebooks.com/cgi-bin/category/POL000001/Political-Science.html) [](http://www.diesel-ebooks.com/cgi-bin/category/PSY000000/Psychology-Psychiatry.html) [](http://www.diesel-ebooks.com/cgi-bin/category/REF000001/Reference-&-Study-Aids.html) [](http://www.diesel-ebooks.com/cgi-bin/category/REL000001/Religion.html) [](http://www.diesel-ebooks.com/cgi-bin/category/SCI000001/Science-&-Nature.html) [](http://www.diesel-ebooks.com/cgi-bin/category/SOC000001/Social-Science.html) [](http://www.diesel-ebooks.com/cgi-bin/category/SPO000001/Sports-&-Fitness.html) [](http://www.diesel-ebooks.com/cgi-bin/category/TEC000001/Technology.html) [](http://www.diesel-ebooks.com/cgi-bin/category/TRV000001/Travel.html) [](http://www.diesel-ebooks.com/cgi-bin/category/TRU000001/True-Crime.html)  
+Last Viewed   
+  
+
+
+  
+[ ](http://www.diesel-ebooks.com/cgi-bin/category/testdownload)
+
   
 Download Free  
 eBook Readers  
 ---  
+[Mobipocket Reader](http://www.mobipocket.com/en/DownloadSoft/ProductDetailsReader.asp)   
 [Microsoft MS Reader](http://www.microsoft.com/reader/downloads/default.asp)   
 [Adobe Reader](http://www.adobe.com/products/acrobat/readstep2_allversions.html)   
-[Palm eReader](http://www.ereader.com/product/browse/software)  
+[Palm eReader](http://www.ereader.com/ereader/software/browse.htm)  
 To browse or view on:  
 Pocket PC PDA  
 Palm PDA  
 Handspring PDA  
 Wireless Phone  
 Personal PC   
-  
-_Thanks once again for your fabulously quick reply - I will certainly keep your site bookmarked for future ebook purchases._
+---  
+      Talk To Us  
+If you notice any site errors or have an idea, we'd love to hear it no matter how small. 
 
- **Suzanne Byrne  
-Victoria, Australia**
+[ ](http://survey.constantcontact.com/survey/a07e2aex0q0ffphlh2z/start)  
+  
+_Thank you. A really smooth process to order and download ebooks. And delivered instantly. Perfect._
+
+ **D. Trobisch  
+Maine**
 
   
   
