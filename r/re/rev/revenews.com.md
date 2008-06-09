@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211103309id_/http%3A//www.revenews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609223339id_/http%3A//www.revenews.com/privacy) for the most accurate reproduction.*
 
-# ReveNews: Next-Gen Marketing
+# ReveNews Privacy Policy | ReveNews
 
 ### Information Collection and Use
 
@@ -12,11 +12,11 @@ A cookie is a piece of data stored on the user’s hard drive containing informa
 
 ### Log Files
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use and analysis. IP addresses are not linked to personally identifiable information.
+We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use and analysis. IP addresses are not linked to personally identifiable information.
 
 ### Sharing
 
-We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. Such information enables us to better tailor our content to readers' needs and to help our advertisers better understand the demographics of our audience. Because ReveNews derives its revenue primarily from advertising, providing such aggregated demographic data is essential to keeping our service free to users.
+We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. Such information enables us to better tailor our content to readers’ needs and to help our advertisers better understand the demographics of our audience. Because ReveNews derives its revenue primarily from advertising, providing such aggregated demographic data is essential to keeping our service free to users.
 
 ### Links
 
@@ -24,11 +24,11 @@ This web site contains links to other sites. Please be aware that ReveNews is no
 
 ### Newsletter
 
-If a user wishes to subscribe to our email newsletter, we ask for contact information such as name and email address. We may also ask optional demographic questions. This is not linked to any personal information that can identify any individual person. Such information, in aggregate, enables us to better tailor our content to readers' needs and helps our advertisers better understand the demographics of our audience. Users may have their email addresses removed from the opt-in newsletter subscription at any time by following the instructions printed in the email newsletters.
+If a user wishes to subscribe to our email newsletter, we ask for contact information such as name and email address. We may also ask optional demographic questions. This is not linked to any personal information that can identify any individual person. Such information, in aggregate, enables us to better tailor our content to readers’ needs and helps our advertisers better understand the demographics of our audience. Users may have their email addresses removed from the opt-in newsletter subscription at any time by following the instructions printed in the email newsletters.
 
 ### Security
 
-This website takes precautions to protect our users' information. When users submit sensitive information via the website, their information is protected both online and off-line.
+This website takes precautions to protect our users’ information. When users submit sensitive information via the website, their information is protected both online and off-line.
 
 ### Notification of Changes
 
@@ -36,6 +36,4 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 ### Contact Us
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: feedback@revenews.com
-
-Read ReveNews [Terms Of Use](https://web.archive.org/web/20071211103309id_/http%3A//www.revenews.com/terms.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: feedback@revenews.comRead ReveNews [Terms Of Use](https://web.archive.org/terms).
