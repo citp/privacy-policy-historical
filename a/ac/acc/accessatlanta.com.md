@@ -1,29 +1,18 @@
-> *The following text is extracted and transformed from the accessatlanta.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211101048id_/http%3A//www.accessatlanta.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessatlanta.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609054837id_/http%3A//www.ajc.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
-# Welcome to AccessAtlanta! | AccessAtlanta
+# Welcome to AJC! | ajc.com
 
 LAST UPDATED: March 17, 2006 
 
 We care about your privacy. We will not sell your name or email address to any third party advertisers without your permission. **Please read our privacy policy below for further details.**
 
-AccessAtlanta.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Cox Enterprises, Inc., d/b/a The Atlanta Journal-Constitution ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to our General Manager:
+AJC.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Cox Enterprises, Inc., d/b/a The Atlanta Journal-Constitution ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to:
 
-John Triplett  
-
-
-General Manager Internet Operations  
-
-
-The Atlanta Journal-Constitution  
-
-
+Vice President, Internet Operations  
+The Atlanta Journal-Constitution   
 P.O. Box 4689  
-
-
 Atlanta, Georgia 30302  
-
-
-Email: [gm@ajc.com](mailto:gm@ajc.com)
+[Send E-mail](http://www.ajc.com/services/content/services/help/ajc_feedback.html?no_owrap=true)
 
 **
 
@@ -89,7 +78,7 @@ Back to top ****
 
 **OPTING OUT**
 
-If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email us 
+If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email us at [our optout page for ajc.com communication](http://bridge.caspio.net/dp.asp?AppKey=C6B1C9B2H0C6B1C9B2H0). 
 
 If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an email newsletter or by going back to our site). 
 
