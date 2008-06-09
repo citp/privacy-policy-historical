@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightonadz.biz privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025040758id_/http%3A//rightonadz.biz/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightonadz.biz privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609041949id_/http%3A//rightonadz.biz/privacypolicy.html) for the most accurate reproduction.*
 
 # RightOnAdz.Biz - MAXIMIZE your Revenue with us!
 
@@ -38,7 +38,7 @@ VII. CORRECT; UPDATE
 
 The Company allows its users the option to change or modify information previously provided. This may be done through the following methods:
 
-(1) E-mail the information to [info@rightonadz.biz](sendto:info@rightonadz.biz)  
+(1) E-mail the information to [info@rightonadz.biz](mailto:info@rightonadz.biz)  
 (2) Visit the Customer Service section of the site and follow the appropriate instructions.
 
 Unfortunately, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases.  We will use all reasonable efforts to ensure that your information is removed from or corrected in our records.
@@ -47,7 +47,7 @@ VIII. CHOICE; OPT OUT
 
 You may opt-out of receiving communications from our partners, and from us, by the following means:
 
-(1) Send an e-mail to [support@rightonadz.biz](sendto:support@rightonadz.biz)   
+(1) Send an e-mail to [support@rightonadz.biz](mailto:support@rightonadz.biz)   
 (2) Visit the Customer Service section of the site and follow the appropriate instructions.
 
 We reserve the right to send you certain communications relating to the Company service, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them absent a cancellation of services with the Company.
@@ -58,6 +58,6 @@ This site may make chat rooms, forums, message boards, and/or news groups availa
 
 Contacting us:
 
-If you have any questions about this Policy, the practices of this site, or your dealings with this Website, you can contact us at [support@rightonadz.biz](sendto:support@rightonadz.biz).
+If you have any questions about this Policy, the practices of this site, or your dealings with this Website, you can contact us at [support@rightonadz.biz](mailto:support@rightonadz.biz).
 
 Effective Date: June 2007
