@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fi.edu privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207183216id_/http%3A//www2.fi.edu/shared/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.edu privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609055132id_/http%3A//www2.fi.edu/shared/privacy.php) for the most accurate reproduction.*
 
 # The Franklin Institute
 
