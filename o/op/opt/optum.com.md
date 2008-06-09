@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optum.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609065555id_/http%3A//www.clickcommerce.com/ckcm/Rooms/DisplayPages/LayoutInitial%3FPageID%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optum.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609183259id_/http%3A//www.clickcommerce.com/ckcm/Rooms/DisplayPages/LayoutInitial%3FPageID%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy
 
