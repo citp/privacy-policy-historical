@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delivery.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211073340id_/http%3A//www.acxiomdigital.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delivery.net privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609163746id_/http%3A//www.acxiomdigital.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - Acxiom Digital
 
@@ -8,7 +8,7 @@
 **Scope:**
 
   * This policy applies to information collected on www.acxiomdigital.com. Acxiom Digital is a wholly owned subsidiary of Acxiom Corporation. 
-  * To view our full privacy policy, please click [here](https://web.archive.org/web/20071211073340id_/http%3A//www.acxiomdigital.com/privacy_long.asp).
+  * To view our full privacy policy, please click [here](https://web.archive.org/web/20080609163746id_/http%3A//www.acxiomdigital.com/privacy_long.asp).
 
 | **[](http://www.truste.org/ivalidate.php?url=www.acxiomdigital.com&sealid=101)**  
 ---|---  
@@ -43,4 +43,4 @@
 
 
 
-To view our full privacy policy, please click [here](https://web.archive.org/web/20071211073340id_/http%3A//www.acxiomdigital.com/privacy_long.asp).
+To view our full privacy policy, please click [here](https://web.archive.org/web/20080609163746id_/http%3A//www.acxiomdigital.com/privacy_long.asp).
