@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curling.ca privacy policy that was archived on 2007-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071111083823id_/http%3A//www.curling.ca/about_the_cca/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curling.ca privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609224449id_/http%3A//www.curling.ca/about_the_cca/privacy_policy.asp) for the most accurate reproduction.*
 
 # About the CCA - Privacy Policy
 
