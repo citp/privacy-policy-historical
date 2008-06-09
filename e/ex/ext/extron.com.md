@@ -1,9 +1,26 @@
-> *The following text is extracted and transformed from the extron.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211151430id_/http%3A//www.extron.com/company/article.aspx%3Fid%3Dprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extron.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609204635id_/http%3A//www.extron.com/company/article.aspx%3Fid%3Dprivacystatement) for the most accurate reproduction.*
 
 # Extron Electronics - Extron Electronics Privacy Policy
 
-|   
-|  |  | 
+| 
+
+  
+|  | [Extron Press Room](https://web.archive.org/company/press.aspx)  
+---|---  
+[Tradeshow Schedule](https://web.archive.org/company/tradeshow.aspx)  
+[Extron Institute Schedule](https://web.archive.org/education/edschedule.aspx)  
+[Industry Links](https://web.archive.org/company/industry.aspx)  
+[Association Links](https://web.archive.org/company/associations.aspx)  
+[Career Opportunities](https://web.archive.org/company/employment.aspx)  
+[Business Policies](https://web.archive.org/company/article.aspx?id=policies)  
+  
+  ****  
+  
+  ****  
+  
+
+
+|  | 
 
 Extron Electronics Privacy Policy
 
@@ -42,7 +59,7 @@ Cookies are small text files that Web sites place on your computer's hard drive.
 
 #### Accuracy and Access
 
-We want your personal identification information to remain accurate. If you are registered with Extron, you may contact your Extron Customer Service Representative to confirm or change your information. See [Contact Us](https://web.archive.org/company/contactus.asp). 
+We want your personal identification information to remain accurate. If you are registered with Extron, you may contact your Extron Customer Service Representative to confirm or change your information. See [Contact Us](https://web.archive.org/company/contactus.aspx). 
 
 #### Safeguarding Your Personal Identification Information
 
