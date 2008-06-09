@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amtrak.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211073823id_/http%3A//www.amtrak.com/servlet/ContentServer%3Fpagename%3DAmtrak%252Fam2Copy%252FTitle_Image_Copy_Page%26c%3Dam2Copy%26cid%3D1080772074485) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amtrak.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609163631id_/http%3A//www.amtrak.com/servlet/ContentServer%3Fpagename%3DAmtrak%252Fam2Copy%252FTitle_Image_Copy_Page%26c%3Dam2Copy%26cid%3D1080772074485) for the most accurate reproduction.*
 
 # Amtrak - Help - Privacy Policy
 
@@ -37,12 +37,12 @@ We ask for and collect personal information in the following circumstances:
 1\. When you register on Amtrak.com and create a User Profile  
 When you register on Amtrak.com and create a User Profile, we ask for the following personal information:
 
-  * Name, title
+  * Name
   * Addresses (home, billing)
   * Telephone number
   * E-mail address
   * Favorite departure and arrival points (optional)
-  * User ID and password
+  * Password
   * Preferred passenger discount type
   * AAA, NARP, Student Advantage, ISIC, Veterans Advantage membership numbers (optional)
   * Amtrak Guest Rewards number (optional)
@@ -118,7 +118,7 @@ Each time you visit Amtrak.com, we collect some information automatically about 
 
 Generally, we use cookies to:
 
-  * Remind us of who you are and to access your account information (stored on our secure servers) to deliver to you a better and more personalized service. This cookie is set when you begin the booking process or enter your user ID and password.
+  * Remind us of who you are and to access your account information (stored on our secure servers) to deliver to you a better and more personalized service. This cookie is set when you begin the booking process or enter your login ID and password.
   * Estimate our audience size. Each browser accessing the site is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on your interests and behavior.
   * Measure and track certain traffic patterns, including information like the areas of the site you have visited, and your visiting patterns in the aggregate. We may use this information to better personalize the content, banners, and promotions that you and other users will see on the site.
 
