@@ -1,116 +1,106 @@
-> *The following text is extracted and transformed from the snapfish.co.uk privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024193201id_/http%3A//www.snapfish.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609040220id_/http%3A//www1.snapfish.co.uk/privacy) for the most accurate reproduction.*
 
 # Snapfish: Privacy Policy
 
-This privacy statement covers the Jessops picture house Internet Printing website. The service is operated by Hewlett Packard Ltd. Trading as Snapfish on behalf of Jessops plc. Because this website wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices. 
+Snapfish takes your privacy very seriously. This Privacy Policy describes exactly how Snapfish uses identifiable information regarding our customers, such as name, address, email address or credit card number ( **"Customer Information"** ). Primarily, we collect such information for the purpose of providing you with an outstanding experience on the Snapfish Service. Except as specifically described in this Privacy Policy, Snapfish does not sell, rent or share such Customer Information with third parties. 
 
-  1. What personally identifiable information Jessops collects. 
-  2. What personally identifiable information third parties collect through the website. 
-  3. What organization collects the information. 
-  4. How Jessops uses the information. 
-  5. With whom Jessops may share user information. 
-  6. What choices are available to users regarding collection, use and distribution of the information. 
-  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under Jessops control. 
-  8. How users can correct any inaccuracies in the information. 
-  9. How users can contact us with questions regarding this privacy policy. 
+By using our Service, you consent to the collection and use of information in the manner described below. If we decide to change our privacy practice, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Changes to our policy will be prospective only. Please check this page from time to time for changes to make sure you are aware of our latest privacy practices. 
+
+In this Privacy Policy, you will find the answers to the following questions: 
+
+  * What Customer Information does Snapfish collect?
+  * How does Snapfish use Customer Information?
+  * With whom does Snapfish share Customer Information?
+  * Who sees your photos after they have been posted online?
+  * Does Snapfish use "IP Addresses" and cookies?
+  * What are the safeguards and security procedures in place to protect your information from loss, misuse, or alteration?
+  * How can you update or correct Customer Information?
+  * Other information about privacy
 
 
 
-If users have questions or concerns regarding this statement, they should contact the Jessops Developing and Printing department by email - [dnp@jessops.com](mailto:dnp@jessops.com). We aim to reply to your query within 5 working days of receipt. If users do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact our Customer Care department, [jessops@snapfish.co.uk](mailto:jessops@snapfish.co.uk)
+**What Customer Information does Snapfish collect?**  
+Customer Information is requested whenever you choose to use Snapfish services. The type of Customer Information we request has to do specifically with the type of service you are using. For example: 
 
-**INFORMATION COLLECTION AND USE**
+  * _When you want to upload digital pictures or view others' pictures on the Site,_ we will ask you to provide your first and last name, an email address and a password. 
+  * _When you want to share your pictures with others ( **"Invitees"** ),_ we will ask for email addresses of friends and family you choose to share with. 
+  * _When you complete a purchase from Snapfish,_ we will ask you to provide shipping and billing information so that we can fulfill your request. 
 
-**Information Collection**  
-Along with Snapfish, Jessops is the joint owner of information collected on www.jessops.com and via Jessopsphotos.com. Jessops collects information from our users at several different points on our website. 
+You also give information when you answer survey questions and organize your photos on Snapfish with titles, captions, categories, etc. 
 
-**Order**  
-We request information from the user on our order form. A user must provide contact information (such as name, email, and delivery address) and financial information (such as credit card number, expiry date). This information is used for billing purposes and to fulfil customers' orders. If we have trouble processing an order, the information is used to contact the user. Snapfish handle the payment processing on our behalf. 
+**How does Snapfish use Customer Information?**  
+Our primary goal in collecting your Customer Information is to provide you with a personalized, relevant, user-friendly experience on the Snapfish site. Here are the ways we use Customer Information to enhance this experience: 
 
-**Information Use**  
-We use the following information in order to process your order from our e-commerce site: full name including title, address, telephone or fax numbers, and email address. More details of this can be found in our third party section, below. 
+_Customer Communication:_ **We use Customer Information to communicate with you and we consider this communication to be an integral part of the Snapfish service.** We use your email and mailing address to inform you of site improvements, feature announcements, newsletters, Snapfish promotional offers, and occasional third-party promotional offers that may be of interest to you. Only Snapfish (or agents working on behalf of Snapfish under confidentiality agreements) will send you these direct mailings. This is a key component of "active participation" in the Service (see our Terms and Conditions). If you do not wish to be an active participant, you may always cancel your Snapfish membership, by writing [cancel@snapfish.co.uk](mailto:cancel@snapfish.co.uk?subject=R02:%20Cancel%20my%20account). 
 
-**Cookies**  
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
+_Customer Satisfaction:_ **We use Customer Information to make your Snapfish experience enjoyable.** For example, because we know who you are after you log in, we can present you with the right set of albums in your password-protected account. We also know where to email you to let you know your photos are ready for viewing online. Furthermore, if, for example, we know you have children in your household, we may be able to send you a promotional offer via email for discounted photo trading cards of your kids. 
 
-**We have no third-party cookies on our website, nor do we share the information recorded in them with anyone other than Snapfish as required to fulfil your order.**
+_Customer Convenience:_ **We use Customer Information to provide you with the convenience of easy access to the services you request.** When you choose to use the Snapfish Service for digitization, or for purchasing photo merchandise, we will ask for credit card information and for your mailing address. For a merchandise purchase, we will ask for final confirmation before charging your credit card. We may also collect information during the shopping experience to make purchasing an easier and better experience for you. For example, if you give us permission to keep your billing information, you won't have to fill out the shipping and billing address each and every time you purchase. 
 
-**Third Party Advertising**  
-We do not have ANY third party advertising on our site. 
+Note that one reason we are able to offer you relevant promotions is that we reserve the right to use aggregated, anonymous data about our users as a group. For example, we might tell a prospective advertiser that 500,000 of our members are digital camera users, and then distribute an attractive offer exclusively to those users. Your Customer Information, however, will never be personally identifiable when aggregated for these purposes. 
 
-**Log Files**  
-Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called Webtrends that uses log files to analyze user movement. 
+**With whom does Snapfish share Customer Information?**  
+Snapfish shares Customer Information with third party intermediaries (for example, credit card authorization companies, photo processing labs, merchandise distributors, vendors processing our outbound email communication, etc.) who help us run the Snapfish Service and Site. Your Customer Information is provided to these third parties solely for the purpose of providing you the services you request at the time that you request them. Third party intermediaries do not store, retain, access or otherwise use your Customer Information other than as necessary to provide you with the Snapfish service. 
 
-**COMMUNICATIONS FROM THE SITE**
+**Other than as described in the previous paragraphs, Snapfish will not sell, rent or otherwise share Customer Information with a third party without your knowledge and consent.** If you do not want your Customer Information shared at that time you will always have the option of telling us not to share it. For those purposes, "Snapfish" means Hewlett-Packard Limited and any successors to the assets or business of Hewlett-Packard Limited. 
 
-**Service Announcements**  
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+Advertisers on Snapfish do not have access to your individual account information. Advertisers simply give us an ad and tell us the type of audience they want to reach (for example, digital camera users). Snapfish then displays the ad only to users who meet those criteria. 
 
-**Customer Service**  
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account. We reply via email or phone, in accordance with the users wishes. 
+The one exception to the rule described in this section is the following: if Snapfish is required by law (or to protect its rights or property), we will disclose Customer Information to the extent so required. 
 
-**SHARING**
+**Who sees your photos after they have been posted online?**  
+You, your Invitees and their Invitees can see your albums online. An Invitee is defined as anyone who is invited to the Snapfish site to see an album. Anyone who is invited to see an album online must provide an email address and a password to access the site and view a shared album. When you choose to share your online images with Invitees, those individuals will be able to view your album. If you don't want your Invitees to invite other people to see the album, you can restrict their ability to do so on the album invitation. That will prohibit them from re-sharing the album from within their account on the Snapfish site. However, as with any email, your Invitees could forward the email invitation to others, who will then be able to click on the link to the album within the email, and see the pictures too. 
 
-**Legal Disclaimer**  
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website. 
+Snapfish employees or employees of partner companies that provide services to Snapfish may see your photos while they are developed, scanned or printed. In addition, your photos or personal account information may be seen by Snapfish employees in order to evaluate, validate, or correct problems with your account. 
 
-**Aggregate Information (non-personally identifiable)**  
-We share aggregated demographic information with our partners and advertisers. For example, we may pass details to our suppliers of the number of users looking at/purchasing their products, or the number of click-throughs from their own sites. This is not linked to any personally identifiable information. 
+**Does Snapfish use "IP Addresses" and cookies?**  
+Snapfish uses IP Addresses and Cookies in limited ways, as follows: 
 
-**We DO NOT Share Personal Information with Third Parties, except for the purposes of Credit/Debit card authorisation, and Delivery.**
+_IP Addresses:_ An IP address is literally your computer's address and is a unique identifier, allowing online information to be sent to the right place. We use IP addresses to better understand the customer database. We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information such as geographic distribution of our members. We do not intentionally link your IP address to your personally identifiable information. 
 
-**Third Party Intermediaries**  
-For the purpose of credit/debit card authorisation we will pass your name and address to our Bank. For the purpose of delivering your parcel we will pass your name and address to Parcelforce or another of our parcel carriers. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+_Snapfish Cookies:_ Contrary to popular belief, cookies do not extract private or personal information from your computer's memory. The job of a cookie is to record only information you volunteer to us upon registering or visiting the site. Cookies are tiny files placed onto the hard drive of your computer the first time you visit our Web site that enable our server to recognize or "remember" who you are next time you come back. Snapfish cookies are not tied to personally identifiable information. Currently, Snapfish intends to make only limited use of cookies for the purpose of delivering content and ads specific to your interests. For instance cookies may be used to retain your personal preferences, hold session information for a "shopping cart" or save your password so it doesn't have to be re-entered each time you log in. 
 
-**Service Providers**  
-We partner with a third party company "Snapfish", to provide the "Jessops Photos" Internet Printing Service. When the user signs up for these particular services, we share names, or other contact information that is necessary for the third party to provide these services. If the customer places an order using the "Jessops Photos" service then payment will be taken by Snapfish. Snapfish are not allowed to use personally identifiable information except for the purpose of providing the " Jessops Photos" service. 
+_Advertiser Cookies:_ Snapfish does post third party advertising banners. These ads may contain cookies used primarily to provide data to the advertiser about where visitors are coming from. While we do use cookies in other parts of our Web site as explained above, cookies received with banner ads may or may not be collected or controlled by our company. When you click on a banner ad, you should be aware that the advertiser might be collecting information without the permission of Snapfish. Snapfish works with DoubleClick and 24/7 Real Media, both third party ad serving services, to help serve ads for this site. Snapfish does not control the privacy practices of these services. To find out more about how they manage privacy of information in conjunction with serving ads on this site, please review their privacy policies at [www.doubleclick.net](http://www.doubleclick.net/) (Doubleclick) and [www.247realmedia.com/privacy.html](http://www.247realmedia.com/privacy.html) (24/7 Real Media). 
 
-**Business Transitions**  
-In the event Jessops goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via a prominent notice on our Website for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
+_Advice on Limiting Cookies:_ You always have a choice with respect to cookies. By modifying your browser preferences, you can accept all cookies, be notified when a cookie is set or reject all cookies. If you choose to reject all cookies, you may be unable to use certain Snapfish services. Please consult your browser instructions for information on how to modify your choices about cookies. 
 
-**Choice/Opt-out**  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us but don't want any marketing material can keep their email address off of our lists. 
+**Does Snapfish use Clear Gifs (Web Beacons/Web Bugs)?** We use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) to help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier that are used to track the online movements of Web users. Clear gifs are not tied to users' personally identifiable information. 
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [webmaster@jessops.com](mailto:webmaster@jessops.com) \- PLEASE STATE CLEARLY THAT YOUR REQUEST RELATES TO THE JESSOPS PHOTOS SERVICE. 
+_Affiliate Programs_  
+Snapfish uses clear gifs in combination with cookies to support affiliate programs administered by 3rd party companies. These programs allow other web services to offer special Snapfish deals to their customers. When a customer signs-up for the Snapfish service via an affiliate link on a non-Snapfish web site, we display a clear gif which causes a cookie to be passed to the 3rd party administrator for accounting purposes. 
 
-Users of our site are always notified when their information is being collected by any outside parties, other than Jessops or Snapfish. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
+That means, for example, that if a person visited "www.companyX.com" and from "www.companyX.com" clicked on a "Sign-up for Snapfish" link and completed the Snapfish sign-up process, we would display a clear gif causing a cookie to be transferred to the affiliate program administrator. This cookie contains an ID number that tells the 3rd party administrator that a new user was sent to Snapfish from "www.companyX.com" 
 
-**Links**  
-This website contains links to other sites. Please be aware that we, Jessops, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website. 
+The clear gif and the cookie are not tied to users' personally identifiable information. 
 
-**Surveys & Contests**  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address) and demographic information (such as postcode). Contact information will be used and may be shared with the contest/survey sponsors to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users' personally identifiable information is not shared with third parties unless we give prior notice and choice. 
+_HTML Newsletters_  
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section. 
 
-**Security**  
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, their information is protected both online and off-line. 
+**What are the safeguards and security procedures in place to protect your information from loss, misuse, or alteration?**  
+Your Customer Information on our Service is password-protected. We strongly recommend that you do not give your password to anyone and that you change it every 3 months. You may edit your Snapfish account information by using your Snapfish member name and password. 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. This uses 128 bit encryption, the highest currently commercially available. 
+If you are using a public computer (public library, school computer, etc.) or a shared computer (family computer, roommate's computer, etc.), we strongly recommend that you sign out of your Snapfish account and close your browser before getting up and moving away from the computer. This will prevent others from accessing your account and personal information. Please note that because our company is particularly sensitive to protecting information about children on the Internet, kids under 13 are not eligible to be members of Snapfish. However, we encourage parents to use our service as a family activity with their children and to carefully monitor any Internet activities (including use of the Snapfish services) engaged in by their kids. 
 
-While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'. 
+Snapfish employs SSL - a specialized encryption and security technology -- to protect your Customer Information. We understand that this is especially important when there is an exchange of credit card, billing and password information. In addition, we limit access of Customer Information to only those employees who need it to carry out their jobs. 
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our Web Sales or Dispatch teams) are granted access to personally identifiable information. The servers that store personally identifiable information are in a secure environment, in a locked facility. 
+**Snapfish will never ask you for your password in an unsolicited phone call or in an unsolicited email.**  
+You will only be asked for your member name and password when you initiate the contact and only if the member name and password are necessary to correct a service problem. 
 
-If users have any questions about the security at our website, users can send an email to [webmaster@jessops.com](mailto:webmaster@jessops.com). 
+**How can you update or correct Customer Information?**  
+Customer Information that you provide during registration is available in your Snapfish online account. To edit your Customer Information, you must enter your email address and password to access your account. You may edit your account information at any time. 
 
-**Supplementation of Information**  
-In order for this website to properly fulfil its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources. 
+You can also cancel your Snapfish membership by writing [cancel@snapfish.co.uk](mailto:cancel@snapfish.co.uk?subject=R02:%20Cancel%20my%20account). If you request cancellation of your account, Snapfish may (but is not required to) remove any and all content (photos) or other personal information from the Snapfish site, and your photos may not be accessible to you even if you choose to rejoin or reactivate your account at a later date. Information necessary for the purposes of maintaining business records regarding a cancelled account, including records of credit transactions and account ownership, will be retained in accordance with applicable law. 
 
-**Address Verification**  
-We use AFD software to verify a user's address to gain authorisation for sales charged to their credit/debit card. 
+_Links from the Snapfish Site:_ If you click away from Snapfish to visit the site of any third party advertiser or sponsor, you may be asked for your credit card or other personal information in order to purchase or use products and services offered. These companies have their own privacy and data collection practices. As described above, Snapfish has no responsibility or liability for these independent policies. You should therefore review their privacy policies carefully if you have concerns about how your information may be used. 
 
-**Correcting/Updating/Deleting/Deactivating Personal Information**  
-If a user's personally identifiable information changes (such as postcode, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our Customer Support at webmaster@jessops.com. Or, contact us by telephone or postal mail at the contact information listed at the bottom of this page. 
+_Notification of Change:_ If we are going to use your personally identifiable information in a manner that is materially different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice, we will also email users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
+_Contacting Snapfish:_ If you have any questions about our Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at:
 
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases where we post a notice we will also email users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+Snapfish UK   
+88 Wood Street   
+London   
+EC2V 7QT
 
-**CONTACT INFORMATION**
-
-If users have any questions or suggestions regarding our privacy policy, please contact us at:  
-Phone: 0870 720 0387  
-Fax: 0116 232 6169  
-Email Jessops: [webmaster@jessops.com](mailto:webmaster@jessops.com)  
-Email Snapfish :  
-Postal Address: Jessops Picture House, 98 Scudamore Road,   
-Leicester, LE3 1TZ 
+0870 7200 387   
+[service@snapfish.co.uk](mailto:service@snapfish.co.uk)
