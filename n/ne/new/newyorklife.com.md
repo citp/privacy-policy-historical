@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210232855id_/http%3A//www.newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609020053id_/http%3A//www.newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-
-
 New York Life Online Privacy Policy   
-(Effective as of June, 2005) 
+(Effective as of April, 2008) 
 
 We know that keeping your personal information private is important to you. That's why the New York Life Family of Companies* wants you to know how we protect the information you share with us and the measures we take to safeguard your information. 
 
@@ -46,13 +43,18 @@ New York Life P.O. Box 6916 Cleveland, OH 44101
 
 * The New York Life Family of Companies (also referred to as "the New York Life Family," "we," "our," or "us" throughout this notice) currently includes the following affiliates and funds:  New York Life Insurance Company | New York Life Trust Company  
 ---|---  
-New York Life Insurance and Annuity Corporation | New York Life Trust Company, FSB  
+New York Life Insurance and Annuity Corporation  
 New York Life International, LLC | NYLIFE Distributors LLC  
 New York Life Investment Management LLC | NYLIFE Insurance Company of Arizona  
-Eagle Strategies Corp. | NYLIFE Securities INC.  
+Eagle Strategies Corp. | NYLIFE Securities LLC.  
 Eclipse Funds | NYLIM Service Company LLC  
 MainStay Funds | NYLINK Insurance Agencies  
 MainStay VP Series Fund, Inc. | NYL Executive Benefits LLC  
 NYL Executive Benefits LLC |   
+ICAP Funds, Inc. |   
+Institutional Capital LLC. |   
+McMorgan & Company LLC. |   
+McMorgan Funds |   
+New York Life Retirement Plan Services |   
   
 If you would like more detailed information about this site's privacy practices, please [click here](https://web.archive.org/cda/0,3254,11092,00.html). 
