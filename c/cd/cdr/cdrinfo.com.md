@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210184020id_/http%3A//www.cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609091000id_/http%3A//www.cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
 
 # Privacy Statement for CdrInfo.com
 
@@ -45,8 +45,8 @@ CdrInfo.com is poised into helping all our users preserve their own on-line priv
 
 In any case, CdrInfo.com preserves the right to review by itself any non-open source advertisement code (non-javascript or non-html banners such as "rich media" like flash, shockwave, java, activeX, etc). In case an advertiser chooses not to conform with this peer reviewed, open code practice, CdrInfo.com can, at any time, terminate any related campaign, at no further advertiser notice, at the sole expenses of the offending advertiser and without any single refund!
 
-|  |  [ **Octave  
-CD DVD Duplicators** ](http://www.octave.com/)  
+|  |  [ **DVD Duplicators  
+by Octave** ](http://www.octave.com/ "DVD Duplicators by Octave")  
 ---  
 [ **Primera DVD / CD  
 Duplicators** ](http://www.primera.com/)  
