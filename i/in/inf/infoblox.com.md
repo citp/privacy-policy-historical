@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211053602id_/http%3A//www.infoblox.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609113323id_/http%3A//www.infoblox.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # Infoblox Privacy Statement
 
-|  | 
+|  |  |  | 
 
 Privacy Policy
 
@@ -73,5 +73,3 @@ After logging in to your account, you may access certain information about you f
 
 **QUESTIONS OR CONCERNS  
 **If you have any questions or concerns regarding privacy at Infoblox site, please send us a detailed message to [info@infoblox.com](mailto:info@infoblox.com). We will make every effort to resolve your concerns. 
-
-|  | 
