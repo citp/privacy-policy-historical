@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the famouspoetsandpoems.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211150520id_/http%3A//www.famouspoetsandpoems.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famouspoetsandpoems.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609205856id_/http%3A//famouspoetsandpoems.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Famous Poets and Poems
-
-  
-| 
 
 The FamousPoetsAndPoems.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [FamousPoetsAndPoems.com](http://www.famouspoetsandpoems.com/)
 
@@ -27,5 +24,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [Contact Us](http://www.famouspoetsandpoems.com/contact_us.html)
-
-| 
