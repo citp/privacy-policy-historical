@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinersoftware.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211041714id_/http%3A//www.marinersoftware.com/sitepage.php%3Fpage%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinersoftware.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609091500id_/http%3A//www.marinersoftware.com/sitepage.php%3Fpage%3D6) for the most accurate reproduction.*
 
 # Small Business Mac Software - Mariner Software Privacy Statement
 
@@ -16,7 +16,7 @@ As is the case with many web sites, certain portions of Mariner Software's web s
 
 E-mail Addresses and Their Usage
 
-Mariner Software does not purchase or rent bulk email lists. We do ask that you enter your e-mail address on our download pages before downloading software. You always have the option to not provide your e- mail address; it is not a requirement to download our software. Mariner Software does not sell, trade or rent your email address to others. We ask for your e-mail address so that we may contact you to inform you of updates, special offers, or other software that we think would be of interest to you. When you participate in a contest, promotion or survey, we may ask for your name, address, e-mail address or other information. We know that the members of our e-mail list are very sensitive to receiving spam, or unsolicited email; hence we are very careful about what we send out and to whom.
+Mariner Software does not purchase or rent bulk email lists. We do ask that you enter your e-mail address on our download pages before downloading software. You always have the option to not provide your e-mail address. Mariner Software does not sell, trade or rent your email address to others. We ask for your e-mail address so that we may contact you to inform you of updates, special offers, or other software that we think would be of interest to you. When you participate in a contest, promotion or survey, we may ask for your name, address, e-mail address or other information. We know that the members of our e-mail list are very sensitive to receiving spam, or unsolicited email; hence we are very careful about what we send out and to whom.
 
 Privacy Policies
 
