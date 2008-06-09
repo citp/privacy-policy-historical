@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fccj.edu privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607204232id_/http%3A//fccj.edu/current/stucomputing/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fccj.edu privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609135223id_/http%3A//www.fccj.edu/current/stucomputing/privacypolicy.html) for the most accurate reproduction.*
 
-# student computing services
+# student computing resources
 
 [](https://web.archive.org/index.html) |  | [ Activate Your Account](https://web.archive.org/current/stucomputing/attention.html)  
 ---|---  
@@ -11,7 +11,8 @@
 | [ Privacy Policy](https://web.archive.org/current/stucomputing/privacypolicy.html)  
 | [ Frequently Asked  
  Questions](https://web.archive.org/current/stucomputing/stucomputfaq.html)  
-| [ Student Web E-mail](http://webmail.students.fccj.edu/)  
+| [ Google Apps](https://web.archive.org/current/stucomputing/googleapps.html)  
+| [ Student E-mail](https://artemis.fccj.edu/student/)  
 | [ Wireless Services ](https://web.archive.org/current/stucomputing/wireless.html)  
 | [ Student Web Page  
  Hosting](https://web.archive.org/current/stucomputing/webpagehosting.html)  
