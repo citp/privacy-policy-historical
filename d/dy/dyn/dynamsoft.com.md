@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dynamsoft.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211021445id_/http%3A//www.dynamsoft.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamsoft.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609133137id_/http%3A//www.dynamsoft.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Dynamsoft Corporation
+# Privacy Statement
 
 Updated December 10, 2006 
 
@@ -20,9 +20,19 @@ Dynamsoft website uses cookies. A cookie is a small text file placed on your com
 
 **Correction/Updating Personal Information**
 
-Customers may change their personally identifiable information or draw back their accounts at any time.  We will endeavor to provide a way to correct, update or remove the information. Change requests should be sent to  
+Customers may change their personally identifiable information or draw back their accounts at any time. We will endeavor to provide a way to correct, update or remove the information. Change requests should be sent to  
 
 
 **Policy Updates**
 
 We reserve the right to alter or add to this privacy statement at any time, especially as we add new services to our site. Accordingly, please review this part of our site frequently. 
+
+## Customers
+
+Apple, EMC, 3M, Fujitsu, GE, HP, HR Block, IBM, InfoSys Intel, Olympus, PricewaterhouseCoopers, Samsung, Siemens, Symantec, Philips, Verizon, Unisys   
+[And many more](http://www.dynamsoft.com/Company/Customers.aspx) >
+
+## About Us
+
+We are the leading developer of Version Control software, Bug Tracking software, Issue tracking software, Visual SourceSafe replacement, Source Control software   
+[More](http://www.dynamsoft.com/Company/AboutDynamsoft.aspx) >
