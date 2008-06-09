@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myspacelayoutspy.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211062240id_/http%3A//www.myspacelayoutspy.com/page.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myspacelayoutspy.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609113622id_/http%3A//www.myspacelayoutspy.com/page.php%3Fprivacy) for the most accurate reproduction.*
 
 # MyspaceLayoutSpy.com - Privacy Policies
 
-MyspaceLayoutSpy.com is not owned or affiliated with Myspace.com in any way.
+MyspaceLayoutSpy.com is not owned by or affiliated with Myspace.com in any way.
 
 **Personal Information**  
 MyspaceLayoutSpy.com is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our web site. In order to enhance your experience at our sites we gather certain personal information about you that helps us customize our content to your tastes and preferences. We may ask for your name, e-mail address, zip code, and country. The more information you share with us (and the more accurate it is), the better we are able to enhance and customize your experience on our sites.   
@@ -30,5 +30,4 @@ MyspaceLayoutSpy.com is a not-for-profit resource. All advertising proceeds are 
 **Liability**  
 It is MyspaceLayoutSpy.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, MyspaceLayoutSpy.com will immediately disable and remove layouts in question. 
 
-To report illegal content please: [_Contact Us_](https://web.archive.org/page.php?contact)  
-
+To report illegal content please: [_Contact Us_](https://web.archive.org/page.php?contact)
