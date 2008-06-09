@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2s.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210222247id_/http%3A//www.b2s.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2s.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609060607id_/http%3A//www.b2s.com/privacy.php) for the most accurate reproduction.*
 
 # b2s.com - Manufacturers, suppliers and products from Greater China
 
@@ -12,11 +12,13 @@ b2s.com collects personally identifiable information when you register for a b2s
 
 b2s.com will not sell, rent, give away or loan any of your personally identifiable information to anyone. b2s.com will send personally identifiable information about you to other companies or people when: 
 
-* We have your consent to share the information; 
-* We need to share your information to provide the product or service you have requested; 
-* We need to send the information to companies who work on behalf of b2s.com to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.); 
-* We respond to subpoenas, court orders or legal process; or 
-* We find that your actions on our web sites violate the b2s.com Terms of Service or any of our usage guideline for specific products or services. 
+  * We have your consent to share the information;
+  * We need to share your information to provide the product or service you have requested;
+  * We need to send the information to companies who work on behalf of b2s.com to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.);
+  * We respond to subpoenas, court orders or legal process; or
+  * We find that your actions on our web sites violate the b2s.com Terms of Service or any of our usage guideline for specific products or services.
+
+
 
 **Protection of children's privacy**
 
