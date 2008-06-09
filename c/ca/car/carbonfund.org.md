@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carbonfund.org privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026103050id_/http%3A//www.carbonfund.org/site/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonfund.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609200719id_/http%3A//www.carbonfund.org/site/pages/privacy_policy) for the most accurate reproduction.*
 
-# Carbonfund.org
+# None
 
 The following statement details the [http://www.carbonfund.org](http://www.carbonfund.org/) privacy policy. If you have any questions, please contact us at [info@carbonfund.org](mailto:info@carbonfund.org). 
 
@@ -12,7 +12,7 @@ Online donations are secure. When you make a donation we will collect the follow
 
 Carbonfund.org respects your privacy and will discontinue contacting you at your request, either written or oral. 
 
-Contact us at: Carbonfund.org 10001 Dallas Avenue Silver Spring, MD 20901 USA [info@carbonfund.org](mailto:info@carbonfund.org)
+Contact us at: Carbonfund.org 1320 Fenwick Ave Suite 206 Silver Spring, MD 20910 USA [info@carbonfund.org](mailto:info@carbonfund.org)
 
 We do not share your personal information with any other organization, except for a third-party financial institution to process credit cards. The information sent to them is only to verify credit card numbers and process the order in a secure environment. We do not rent or share our mailing list. If you give a donation via one our partnerships, then your personal information is shared with the sponsoring partner and the third-party financial institution to process the credit card. 
 
@@ -32,6 +32,6 @@ When guests enter our site, our server picks up information used to help us prov
 
 **What if a person has questions about the privacy of this site?**
 
-It is our hope that you enjoy and feel comfortable exploring our web site. If you feel that we are not abiding by our posted privacy policy in any respect, please immediately contact us at: Carbonfund.org 10001 Dallas Avenue Silver Spring, MD 20901 USA [info@carbonfund.org](mailto:info@carbonfund.org)
+It is our hope that you enjoy and feel comfortable exploring our web site. If you feel that we are not abiding by our posted privacy policy in any respect, please immediately contact us via mail at Carbonfund.org 1320 Fenwick Ln, Suite 206, Silver Spring, MD 20910 USA or via email at [info@carbonfund.org](mailto:info@carbonfund.org)
 
 What happens when our privacy policy is updated? We may update our web site or make changes in our procedure, which may require an update to our privacy policy. This change would appear in our posted policy and your continued usage of our site would indicate agreement and compliance with this new policy. 
