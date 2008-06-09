@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the furniturexo.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231701id_/http%3A//www.furniturexo.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturexo.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609132836id_/http%3A//www.furniturexo.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
 
-# Furniture XO
+# Privacy Statement - Furniture XO
 
 **Your Personal Information**
 
@@ -35,9 +35,9 @@ The Company is committed to customer privacy. We use your IP address simply to h
 
 It is Company's policy to keep Personal Information only for so long as needed for such purposes. Except for the Personal Information we need to complete your purchase of products, you may request at any time that Company dispose of any or all Personal Information about you. In addition, at any time you may request (i) that Company correct any such Personal Information; or (ii) that such Personal Information be removed from Company's marketing databases. To make any request described above, either:
 
-send an email to: **marketing@furniturexo.com** or write to:
+send an email to: **admin@furniturexo.com** or write to:
 
- **FurnitureXO  
+ **Furniture XO  
 2801 Grant Avenue  
 Philadelphia, PA 19114  
 USA**
