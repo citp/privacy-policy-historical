@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eros-miami.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011100136id_/http%3A//www.eros-miami.com/php-sys/disclaimers/erosprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eros-miami.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609133006id_/http%3A//www.eros-miami.com/php-sys/disclaimers/erosprivacy.php) for the most accurate reproduction.*
 
 # The Eros Guide
 
