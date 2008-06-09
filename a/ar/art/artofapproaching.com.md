@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artofapproaching.com privacy policy that was archived on 2007-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070715195727id_/http%3A//www.artofapproaching.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofapproaching.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609084722id_/http%3A//www.artofapproaching.com/privacy.html) for the most accurate reproduction.*
 
-# The Art Of Approaching -- Terms and Conditions
+# The Art Of Approaching -- Privacy Statement
 
 > Your privacy is very important to us. We want to make your experience on the Internet as  
 >  enjoyable and rewarding as possible, and we want you to use the Internet's vast array of  
@@ -154,8 +154,8 @@
 >  this policy, our Terms Of Service agreement, and our other policies and agreements at  
 >  any time and in any manner, by updating this posting.
 > 
-> Last updated: August 15, 2006
+> Last updated: February 10, 2008
 
 * * *
 
-Copyright 2006 Bizlancer Inc. 
+Copyright 2008 Bizlancer Inc. 
