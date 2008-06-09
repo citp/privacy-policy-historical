@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mipworld.net privacy policy that was archived on 2007-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070702161847id_/http%3A//www.mipworld.net/index.php%3Fpid%3D77) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mipworld.net privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609050755id_/http%3A//www.mipworld.net/index.php%3Fpid%3D77) for the most accurate reproduction.*
 
 # Privacy Policy - Mip TV
 
