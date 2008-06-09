@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuti.com.my privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012210248id_/http%3A//www.cuti.com.my/link.htm%3Fdoit%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuti.com.my privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609050809id_/http%3A//www.cuti.com.my/link.htm%3Fdoit%3Dprivacy) for the most accurate reproduction.*
 
 # CUTI Malaysia: A travel reservation and information gateway of Malaysia
 
@@ -78,9 +78,10 @@ Users of our site are always notified when their information is being collected 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
 NB Travel Sdn Bhd / Symphonic View Sdn Bhd  
-44B, Lorong Tapah Off Jalan Goh Hock Huat,  
-41400 Klang, Selangor Darul Ehsan, Malaysia.  
+Menara Klang, Block B,  
+No. 43-3, Jalan Nanas, 41400 Klang,  
+Selangor Darul Ehsan, Malaysia.  
 Call : +60.3.3343.2884  
-Fax : +60.3.3344.8087  
+Fax : +60.3.3345.3997  
 or  
 send an email to [support@cuti.com.my](mailto:support@cuti.com.my?subject=term_n_cond)
