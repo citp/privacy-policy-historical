@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acwholesalers.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211063323id_/http%3A//www.acwholesalers.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acwholesalers.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609184459id_/http%3A//www.acwholesalers.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -67,7 +67,7 @@ Terms and Conditions
 
 Please also visit our 
 
-[Terms and Conditions](https://web.archive.org/web/20071211063323id_/http%3A//www.acwholesalers.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+[Terms and Conditions](https://web.archive.org/web/20080609184459id_/http%3A//www.acwholesalers.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
