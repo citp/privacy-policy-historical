@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fiercewireless.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024171545id_/http%3A//www.fiercewireless.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiercewireless.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610001805id_/http%3A//www.fiercewireless.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | FierceMarkets
+# FierceMarkets Privacy Policy
 
 We take our readers' privacy very seriously. We are committed to protecting it. We understand that many of our readers entrust us with their contact information, and **we _never_ sell or give away that information**.
 
