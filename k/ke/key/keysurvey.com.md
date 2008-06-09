@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228212743id_/http%3A//www.keysurvey.com/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609103003id_/http%3A//www.keysurvey.com/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -100,5 +100,5 @@ If you have any questions or comments about our Privacy Policy, please contact u
 **You can also send your request by mail:**
 
 WorldAPP  
-222 Forbes Road,  
+220 Forbes Road,  
 Braintree MA 02184 
