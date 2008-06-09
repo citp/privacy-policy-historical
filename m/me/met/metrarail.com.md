@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrarail.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211051559id_/http%3A//metrarail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrarail.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609163842id_/http%3A//metrarail.com/privacy.html) for the most accurate reproduction.*
 
 # Metra Privacy
 
@@ -22,7 +22,7 @@ Metra provides links to a number of third-party external sites. The inclusion of
 Metra is not responsible or liable for the independent privacy policies of these third party sites. You should consult the privacy policies at these sites to determine how your information may be used.
 
 **Children's Privacy**   
-While we do not direct any of the information on our site specifically to children, we believe that protecting the privacy of children is important, and for that reason it is our intention to never collect or maintain information at our website from children. 
+While we do not direct any of the information on our site specifically to children, we believe that protecting the privacy of children is important, and for that reason it is our intention to never collect or maintain information at our Web site from children. For more information regarding The Children's Online Privacy Protection Act and Rule, click [here](http://www.ftc.gov/ogc/coppa1.htm). 
 
 **Contact Us**   
 Should you have other questions or concerns about this Privacy Policy, please contact the [Webmaster@metrarail.com](mailto:Webmaster@metrarail.com)
