@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnerup.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026053730id_/http%3A//www.partnerup.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerup.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609044618id_/http%3A//www.partnerup.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # PartnerUp - Privacy Policy
 
@@ -52,4 +52,4 @@ If you at any time have any questions, concerns, or suggestions regarding this p
  
 
  **Questions or concerns?**  
-If you at any time have any questions, concerns, or suggestions regarding our privacy policy, please [Contact Us](https://web.archive.org/web/20071026053730id_/http%3A//www.partnerup.com/contact/default.aspx "Contact Us").
+If you at any time have any questions, concerns, or suggestions regarding our privacy policy, please [Contact Us](https://web.archive.org/web/20080609044618id_/http%3A//www.partnerup.com/contact/default.aspx "Contact Us").
