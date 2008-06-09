@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211054208id_/http%3A//out-law.com/page-298) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609113418id_/http%3A//www.out-law.com/page-298) for the most accurate reproduction.*
 
 # Privacy | OUT-LAW.COM
 
@@ -75,7 +75,7 @@ More information about cookies, including how to block them and/or delete them, 
 
 ## Transferring information overseas
 
-Outside the UK, Pinsent Masons has offices in Brussels, Dubai, Hong Kong, and Shanghai. It is possible that your details or information collected may be passed to these offices – but only where we think this may be of benefit to you.
+Outside the UK, Pinsent Masons has offices in Dubai, Hong Kong, Beijing and Shanghai. It is possible that your details or information collected may be passed to these offices – but only where we think this may be of benefit to you.
 
 [Back to top](http://www.out-law.com/page-293#1148)
 
