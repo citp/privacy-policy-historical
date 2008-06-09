@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tstc.edu privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701024939id_/http%3A//www.tstc.edu/priv_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tstc.edu privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610001943id_/http%3A//www.tstc.edu/priv_security.asp) for the most accurate reproduction.*
 
 # Texas State Technical Colleges
 
