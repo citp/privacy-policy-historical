@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xxlmag.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211194041id_/http%3A//www.xxlmag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxlmag.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609222239id_/http%3A//www.xxlmag.com/privacy.php) for the most accurate reproduction.*
 
-# XXLmag.com | Hip-Hop On A Higher Level |Privacy Policy
+# XXLmag.com | Hip-Hop On A Higher Level | Contests
 
 [« BACK TO HOME PAGE](http://www.xxlmag.com/)
 
