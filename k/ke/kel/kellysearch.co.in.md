@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellysearch.co.in privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211003019id_/http%3A//www.kellysearch.co.in/Static/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellysearch.co.in privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609040309id_/http%3A//www.kellysearch.co.in/Static/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Find Indian suppliers with the Kellysearch B2B product search engine
 
