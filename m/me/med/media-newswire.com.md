@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the media-newswire.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211041001id_/http%3A//media-newswire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-newswire.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609091448id_/http%3A//media-newswire.com/privacy.html) for the most accurate reproduction.*
 
 # Media-Newswire.com - Press Release Distribution - PR Agency
 
@@ -31,3 +31,6 @@ This Website may contain links to other sites. Please be aware that we, Media Ne
 
 **Your Consent / Contact Us**  
 By using our website, you consent to the collection and use of this information as outlined in this privacy policy. If users have any questions or suggestions regarding our privacy policy, please contact us. 
+
+**Cookies/Third Party Cookies**  
+Please be aware that by using this website, any third parties may be placing and reading cookies on your user's browser, or using web beacons to collect information, in the course of ads being served on your website including but not limited to Google Adsense cookies. You can adjust these settings by going into your web browser and changing the cookies settings. In Internet Explorer this is under Tools, Internet Options, Privacy, Advanced and in Mozilla Firefox, it is located in Tools, Options, Privacy, Cookies. 
