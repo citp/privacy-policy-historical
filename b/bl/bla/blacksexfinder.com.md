@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024164243id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609094257id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
 # Black Sex - Privacy Policy
 
 | 
+
+[](http://tour1.ghettogaggers.com/track/MTA4MDc5OjE1OjEx/)
+
+[](http://join.bigtitscurvyasses.com/track/NjE5ODo3MToxMw,33/)
 
 |  |  **Information Obtained**
 
@@ -45,6 +49,8 @@ If you have any questions regarding the above Policy Statement, please contact u
 [](https://web.archive.org/register.php)
 
 [](https://web.archive.org/rate.php?go=top&p=0&cat=0)
+
+[](http://www.blackpornpass.com/1037076/5//free/index.html) [](http://join.oyeloca.com/track/MTk3NzoyOjk/)
 
 |   
 ---  
