@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024181345id_/http%3A//www.publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609035826id_/http%3A//www.publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Publix Privacy Policy
 
@@ -10,6 +10,8 @@ Please note that other Publix Web sites may be governed by separate policies. Wh
 Publix and its affiliates are the sole owners of the information collected; except as otherwise provided in this Privacy Policy, we will not sell, share, rent or loan this information to any third party. However, we may use and share aggregated information that does not personally identify you with third parties in order to improve the site for our users.
 
 The Publix [Apron's](http://www.publix.com/aprons) portion of our site collects a minimal amount of required information from those users requesting a reservation for a Publix Apron's Cooking School class and those users opting in to our Cooking School's printed calendar and/or electronic communication distribution list.  This information is strictly used to process the reservation request or to send the user the requested materials and/or e-mails.  None of the required information and/or optional information collected on any Publix Apron's form is used for other purposes than those stated in this policy; however, Publix may use third parties to assist in providing certain services to users.  In the event that Publix utilizes a third party to provide such services, our contract with the third party will include obligations upon the third party to keep all information obtained during such contract confidential and secure.
+
+The [Publix Food & Entertaining](https://web.archive.org/food/Home.do) section of our site offers a My Events area for registered users who wish to save their Event Planning List for one or more events. Registration is not required to use the planning list; however, planning lists will not persist across browser sessions unless they are saved to the My Events area.  The minimal information collected is required to set up the user registration and enable the saved Planning List feature. 
 
 The Publix Web site also collects information from users requesting a free subscription to our Publix Grape® and Publix FamilyStyle® magazines, as well as our monthly Publix Wine Guide e-mail newsletter. This information is strictly used to process and fulfill the subscription request and/or to send the user the requested magazines and/or e-mails and to confirm that the users are of legal age to receive materials relating to wine and alcohol.  In addition, this section requests optional demographic information to use for internal marketing research to better serve Publix customers.
 
@@ -90,6 +92,19 @@ _Contact Apron's Simple Meals Form_
 
 All information in the Contact Apron's Simple Meals form is optional; your submission of this information helps us better serve you. By filling out the e-mail form, you are consenting to receive e-mail or telephone calls from us or our agents. 
 
+[Food & Entertaining](https://web.archive.org/food/Home.do) section:
+
+  * Your e-mail address (required) - to verify your identity on future visits to the site.   
+
+
+  * Your first & last name (required) - to use for personalizing My Events section.  
+
+
+  * Password (required) - to verify your identity on future visits to the site, and to prevent anyone else from using your identity to review or modify your planning list.
+
+
+
+
 [Send Us a Message](https://web.archive.org/contact/SendUsAMessage.do) option under the Contact Us section:
 
   * Your e-mail address - for us to contact you in response to your questions and comments  
@@ -102,7 +117,7 @@ All information in the Contact Apron's Simple Meals form is optional; your submi
 
 
 
-All information in the e-mail form under the Contact Us section to Publix is optional; your submission of this information helps us better serve you. By filling out the e-mail form, you are consenting to receive e-mail or telephone calls from us or our agents.  
+All information in the e-mail form under the Contact Us section to Publix is optional; your submission of this information helps us better serve you. By filling out the e-mail form, you are consenting to receive e-mail or telephone calls from us or our agents.
 
 [Publix Baby Club](http://www.publix.com/babyclub) section:
 
@@ -302,6 +317,11 @@ _Weddings & Special Occasions Contact Form_
 **Other Information  
 **We collect additional information about how you use and access our Web site. This information enables us to improve the site by making it more accessible and easier to navigate. 
 
+**Surveys, Contests and Sweepstakes  
+** From time to time, Publix or its affiliates may conduct online surveys that ask you for demographic data, such as your ZIP code, age or income level. Publix or Publix's agents may also contact you by telephone or e-mail, using your phone number or e-mail address collected when you filled out one of the forms described in the "What is Collected, and How Do We Use It" section of this Policy, with the option to participate in consumer research studies. Participation in any survey or other consumer research is always voluntary. Publix aggregates the responses we receive before using the information to improve the products and services we offer. We do not link your individual responses to your personal information at any time.
+
+Publix may also ask for some personal information, such as names and e-mail addresses, so that we can contact contest or sweepstakes winners and to give you the option to participate in consumer research studies. All of these promotions and surveys follow applicable federal and state laws. We will clearly post the rules and terms of each contest or sweepstakes.  Please note that, from time to time, Publix may retain third party vendors to administer such sweepstakes, games or contests and in such circumstances, those third parties will be required to collect your personal information in order to administer and fulfill the promotion, as well as to contact potential winners.  Please review the Official Rules for such promotions carefully, as the personal information collected during these promotions may be subject to the privacy policies of these third party vendors as well as the Publix Privacy Policy.  In that event, the Official Rules will refer you to the privacy policy of the third party vendors.  Please review those privacy policies as well, because Publix does not have control over the treatment of personal information by such third party vendors.
+
 **Cookies  
 **By use of this site, you consent to our use of cookies. A "cookie" is a piece of data stored on your hard drive containing information about you. Usage of a cookie is in no way linked to any personally identifiable information while on our Web site. Cookies do not contain any registration information that would personally identify you, as all such data is kept behind our firewall. Nor do cookies allow us to track your usage of other Web sites or the Internet in general.  
 
@@ -314,11 +334,6 @@ _Weddings & Special Occasions Contact Form_
 **Security**  
 Publix uses secure connections during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site - specifically, with regard to Publix Preschool Pals and Publix Baby Club, those pages dealing with sign in, registration and membership information. This means that information collected during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site is encrypted before it is sent over the Internet between your computer and Publix computers. The technology used is called Secure Socket Layer (SSL). Through the use of this technology, your information collected during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site is encrypted on your computer, sent through the Internet as jumbled code and decoded on either Publix's secure server or the systems of the third party transacting the credit card sale. You can verify that the connection is secure because you will see a key or a padlock at the bottom of your browser. Another identifier of a secure connection is the URL (or Web site address); the address will change from [http://www.publix.com](http://www.publix.com/) to [https://www.publix.com](https://www.publix.com/) when a secure connection is in place.
 
-**Surveys and Contests  
-**From time to time, Publix or its affiliates may conduct online surveys that ask you for demographic data, such as your ZIP code, age or income level. Publix or Publix's agents may also contact you by telephone or e-mail, using your phone number or e-mail address collected when you filled out one of the forms described in the "What is Collected, and How Do We Use It" section of this Policy, with the option to participate in consumer research studies. Participation in any survey or other consumer research is always voluntary. Publix aggregates the responses we receive before using the information to improve the products and services we offer. We do not link your individual responses to your personal information at any time.
-
-Publix may also ask for some personal information, such as names and e-mail addresses, so that we can contact contest winners and to give you the option to participate in consumer research studies. All of these contests and surveys follow applicable federal and state laws. We will clearly post the rules and terms of each contest.  
-
 **Links**  
 Our site may contain links to other sites. Please be aware that Publix is not responsible for the privacy policies of other sites. We encourage our shoppers to be aware when they leave our Web site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy policy applies solely to the information collected by our Web site.  
 
@@ -326,9 +341,9 @@ Our site may contain links to other sites. Please be aware that Publix is not re
 If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users. We will use information in accordance with the privacy policy under which the information was collected.  
 
 **Contact Us**  
-Please let us know if you have any questions about our Privacy Policy. Simply send us an [e-mail](https://web.archive.org/contact/SendUsAMessage.do).  
+Please let us know if you have any questions about our Privacy Policy. Simply send us an [e-mail](https://web.archive.org/web/20080609035826id_/http%3A/contact/SendUsAMessage.do).  
 
 **COPYRIGHT NOTICE**  
-Copyright© 2006 Publix Asset Management Company. All rights reserved. Any rights not expressly granted herein are reserved.  
+Copyright© 2008 Publix Asset Management Company. All rights reserved. Any rights not expressly granted herein are reserved.  
 
-Last modified: 12/2006
+Last modified: 04/2008
