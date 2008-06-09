@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winhundred.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211214532id_/http%3A//winhundred.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winhundred.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610013301id_/http%3A//winhundred.com/privacy.htm) for the most accurate reproduction.*
 
-# WinHundred LLC. Privacy Policy
+# Free Cash,Free Prizes,Sweepstakes,Lotteries,Free Stuff,Win Cash and Prizes
 
 Revised on 5/23/2006.
 
