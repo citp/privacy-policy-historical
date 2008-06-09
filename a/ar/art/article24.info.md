@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the article24.info privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210205907id_/http%3A//www.article24.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article24.info privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609055016id_/http%3A//www.article24.info/privacy.php) for the most accurate reproduction.*
 
-# articles - Article24.info
+# - article-base.net
 
 Article24.info Privacy Policy
 
