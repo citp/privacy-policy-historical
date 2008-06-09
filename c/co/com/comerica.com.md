@@ -1,153 +1,166 @@
-> *The following text is extracted and transformed from the comerica.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629064603id_/http%3A//comerica.com/vgn-ext-templating/v/index.jsp%3Fvgnextoid%3Dd6b393471c015010VgnVCM1000004502a8c0RCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comerica.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609034732id_/http%3A//www.comerica.com/vgn-ext-templating/v/index.jsp%3Fvgnextoid%3D3dbde08c200fd010VgnVCM100000cd97160aRCRD) for the most accurate reproduction.*
 
 # Privacy - Comerica
 
-|  | 
-
-| Comerica's Privacy Commitment  
----  
-  
-**Effective date:   August 4, 2006**
-
-**Privacy Notice**
-
-**Comerica is committed to protecting your privacy**
-
-Comerica has always placed a high priority on protecting the personal information you provide us. We are proud of the trust our customers have placed in us for more than 150 years. Comerica collects and uses personal information for business purposes and our commitment is to continue to protect your right to privacy, even beyond the laws and regulations that protect you.
-
-This Privacy Notice explains how we fulfill this commitment to you. We also offer you choices about how your information may be shared. You are entitled to receive this notice annually. If you have already opted out of information-sharing, you do not need to re-submit your request. However, you may direct us not to send this Notice to you in the future by checking the designated box on the response form and returning it to us.
-
-This notice applies to individuals who have established a consumer account relationship with Comerica for personal, family and/or household purposes, and is provided to you by the Comerica entity (or entities) with which you do business.
-
-We appreciate the opportunity to serve your financial needs. We pledge to follow the policies, safeguards and guidelines as described in this notice, and to protect the confidentiality of your information. Your relationship is very important to us, and we will take great care to honor these commitments to you. Thank you for choosing Comerica.
-
-Comerica collects:
-
-  * Information that we receive from you on applications, forms, online, or other correspondence, such as your name, address, phone number, email address, assets and income.
-  * Information about your transactions with us, such as account balance, location of transactions, parties to transactions, and payment history.
-  * Information that we receive from others, such as credit reports, or information that you have authorized us to obtain.
-  * Information provided by your browser when you visit our Web sites and your browser interacts with us. For more information about our online practices, please refer to online practices.
+Privacy Notice  
+Online Practices  
 
 
+**Effective date:   April 1, 2008**
 
-In addition, we may collect information about you in compliance with certain laws and regulations.
+**Comerica's Privacy Notice**
 
-**Comerica uses personal information to serve you better**
+  *   *   *   *   *   *   *   *   * 
 
-We use and share information to provide quality service and to offer financial services that may be of value or interest to you. For example, your information enables us to:
+  *   *   *   *   * 
 
-  * Process your transaction requests.
-  * Serve and administer your accounts with efficiency and accuracy.
-  * Provide you with comprehensive, high-quality services to meet your needs now and in the future.
-  * Extend special offers and discounts to you based on our knowledge of your total relationship with us.
-  * Introduce you to companies within the Comerica family that offer specialized products or services which may be of benefit to you.
-  * Improve your online experience.
-  * Protect your accounts against fraud or identity theft.
+  *   *   *   *   *   *   * 
 
+  *   *   *   *   * Others, such as co-applicants and those with whom you have consented to our sharing your information, or when permitted, or required, by law.
 
-
-**Comerica carefully limits information sharing**
-
-The information described above may be shared within the Comerica family and with selected parties outside the Comerica family. This sharing is carefully limited as described in this section.
-
-We may disclose information about you to the following:
-
-  * Members of the Comerica family of companies. You may limit our sharing within the Comerica family of companies as described in the next section.
-  * Financial service providers, such as mortgage bankers, securities broker/dealers, and insurance companies.
-  * Operational service providers, such as check printers, plan administrators, programmers, and data processors.
-  * Financial Joint Marketing Partners, when we have a joint marketing agreement with a financial institution to offer and provide you a particular benefit or service.
-  * Non-Financial Joint Marketing Partners, when we have a joint marketing agreement with a company other than a financial institution (such as a retailer) to offer and provide you a particular benefit or service.
-  * Others, such as co-applicants and those with whom you have consented to our sharing your information, or when permitted, or required, by law.
 
 
 
 We may disclose all the information we collect, as described above, to companies that perform marketing services on our behalf. Information shared with service providers or joint marketing partners is subject to contractual and regulatory protections; the service providers and partners are required to use the information only for the purpose it is provided, and to maintain the information securely.
 
-**Retail customers and consumers have choices**
+**The choices retail customers and consumers have:**
 
-  * You may limit our sharing of your credit information with members of the Comerica family of companies. You may also limit the use of your transaction information for marketing purposes within the Comerica family. By limiting our ability to share such information, you may be asked to provide information you already shared.
-  * You may also limit our sharing of your information with both financial and non-financial joint marketing partners.
+**Reasons we can share your personal information** | **Does Comerica share?** | **Can you limit this sharing?**  
+---|---|---  
+For our everyday business purposes-to process your transactions, maintain your account, and report to credit bureaus | Yes | No  
+For our marketing purposes-to offer our products and services to you | Yes | No  
+For joint marketing with other financial companies | Yes | Yes  
+For our affiliates’ everyday business purposes-information about your transactions and experiences | Yes | No  
+For our affiliates’ everyday business purposes-information about your creditworthiness | Yes | Yes  
+For our affiliates to market to you based upon shared transaction or experience information | Yes | Yes  
+For nonaffiliates to market to you | No | N/A  
+  
+If you have already opted out of information sharing you do not need to re-submit your request. Your choice to limit information sharing and marketing offers will apply until you tell us to change your choices. Each joint account owner may opt-out of information sharing separately. If you wish to limit or opt-out of information sharing, you have the following options:
+
+  * Call us toll free at **866-517-1800** . Your social security number is required to take advantage of the automated system (United States calls only).
+
+  * Complete the secure response form online at **comerica.com/privacyresponse** (see Related Information). Your social security number is required to process your online request.
 
 
 
-Each joint account owner may opt out of information sharing separately by completing the Privacy Notice response form. (See Related Information.)
 
-**State laws may vary**
+**State specific laws**
 
 You may have other privacy protections under state laws; we will comply with all applicable state laws with regard to our information sharing practices.
 
-**New Mexico & Vermont residents only**
+**California residents only**
 
-You do not need to opt-out of information sharing. Per state law, we have automatically opted you out of the sharing of your information with both third parties and members of the Comerica family of companies except as permitted by law.
+California law specifies an alternate form for your privacy choices. You may either opt-out using the separate form titled “Important Privacy Choices for California Consumers”, the secure response form online at: **comerica.com/privacyresponse** (see Related Information), or call our toll-free line at **866-517-1800**.
 
-**Comerica's commitment to you**
+**New Mexico, North Dakota & Vermont residents only**
 
-We value the trust of our customers and will continue to recognize the importance of holding your personal financial information as confidential.
-
-  * We will not sell or share customer information to third party marketers who will offer you their products or services except under a joint marketing agreement.
-  * We will not use medical information to market products, make credit decisions, or make insurance decisions except to complete transactions initiated by you.
-  * We will honor customer requests to opt-out of information sharing and marketing.
-  * We will hold our employees to strict standards of conduct to ensure the confidentiality of customer information.
-  * We will maintain physical, electronic and procedural safeguards to protect your information.
-  * We will use information responsibly.
-  * We will maintain accurate customer information and respond promptly to customer requests to correct information.
-  * We will require companies with which we do business to agree to protect the confidentiality of customer information.
-  * We will continue to adhere to the practices disclosed in this notice for former customers.
+You do not need to opt-out of information sharing. Per state law, we have automatically opted you out of the sharing of your information with both third parties and members of the Comerica family of companies except as permitted by law.  
 
 
+**Protecting yourself from identity theft**  
+Comerica is committed to educating our customers about ways to safeguard their personal information. For more information about reducing the risk of identity theft, visit our Consumer Protection Center (see Related Information) or stop by your local banking center for a copy of our brochure entitled _Protecting Yourself from Identity Theft_. If you suspect you are a victim of identity theft (i.e. you notice unauthorized transactions on your credit card or bank statements), contact Comerica at **877-881-8955** , Monday - Friday, 8 a.m. to 8 p.m. ET.
+
+**Credit report disputes**  
+Comerica may report information regarding your credit accounts with us to consumer reporting agencies. Comerica makes every effort to provide accurate information. However, if you ever need to dispute the accuracy of the information we have reported to a consumer reporting agency, please send your request to the following address:  
+
+
+Comerica Bank  
+Attn: Credit Report Disputes Area  
+P.O. Box 75000  
+Detroit, MI 48275-7240
+
+**Contacting a bank regulator**  
+Comerica Bank is chartered under the laws of the State of Texas and by state law is subject to regulatory oversight by the Texas Department of Banking. Any consumer wishing to file a complaint against Comerica Bank should contact the Texas Department of Banking through one of the means indicated below:
+
+  
+**In Person or U.S. Mail:**  
+Texas Department of Banking  
+2601 North Lamar Boulevard  
+Suite 300  
+Austin, TX 78705-4294  
+
+
+**Telephone Number:  ** 877-276-5554 (toll free)
+
+**Fax Number:  ** 512-475-1313
+
+**E-mail Address:  ** consumer.complaints@banking.state.tx.us
+
+**Website Address:  ** www.banking.state.tx.us
+
+**Reducing direct marketing from other companies**  
+To remove your name from mailing lists:  
+Mail Preference Service  
+Direct Marketing Association  
+P.O. Box 282  
+Carmel, NY 10512  
+Online: www.dmachoice.org
+
+  
+To remove your name from telephone solicitation lists:  
+The Federal Government  
+National Do Not Call Registry  
+Telephone: 888-382-1222  
+Online: www.donotcall.gov
+
+  
+To opt-out of pre-approved offers and marketing lists:  
+Call: 888-567-8688
 
 **The Comerica family includes:**
 
-  * Comerica Bank
-  * Comerica Bank & Trust, National Association
-  * Comerica Securities1
+  * Comerica Bank.
+
+  * Comerica Bank & Trust, National Association.
+
+  * Comerica Securities.1
+
   * Comerica Insurance Services, Inc.2
-  * Comerica Insurance Services of Texas, Incorporated2
-  * Comerica of California Insurance Services2
+
+  * Comerica Insurance Services of Texas, Incorporated.2
+
+  * Comerica of California Insurance Services.2
+
+  * World Asset Management, Inc.
 
 
 
-**Please Note:** Each Comerica entity will continue to contact its individual customers with offers for its own products and services. You will continue to receive marketing messages via your statement, as well as direct marketing solicitations.
+
+Please Note: Each Comerica entity will continue to contact its individual customers with offers for its own products and services. You will continue to receive marketing messages via your statement, as well as direct marketing solicitations.
 
   
-**Online Practices**
+**Security Standards**
 
-Comerica respects your privacy! You can visit our web site and find out about our products and services without giving us any information about yourself. Through our web site, we strive to provide valuable information to you about how we may serve you. Whether you are a valued existing customer or someone shopping for new bank services, we hope our site answers your questions about our products and services, locations, and hours.
+We safeguard any information our customers share with us, according to strict standards of security and confidentiality. View detailed security information  at your convenience. (See Related Information.) We make every effort to keep our customer files complete, up-to-date and accurate. We will tell our customers how and where to notify us about errors, and we will promptly make corrections.
 
-**Use of Information Collected** – While we do not gather information on visitors to our web site, we do collect and store the name of the state you have indicated to us.
+**Customer Information**
 
-**Information about Cookies**
+Information you voluntarily provide to us is subject to different protections. Privacy Notice
 
-Cookies are small pieces of information stored directly on your personal computer. Cookies help web sites to keep track of your preferences and to recognize you as a return visitor. When you return to a web site you have visited before, your browser gives the information stored on the cookie back to the server. Cookies are not known to transmit viruses or otherwise harm your computer.
+**Children’s Privacy Online**
 
-We may use cookies to facilitate online surveys or to track how visitors use our site. We use this information to improve the content, usability and functionality of our web site.  Recording a cookie for such purposes allows us to simplify and personalize your online experience.
+We do not knowingly solicit, collect, or use personal information from children under 13. For information concerning the Children's Online Privacy Protection Act (COPPA), visit the Federal Trade Commission's website at www.ftc.gov.
 
-Any time a cookie is used, it is not shared with anyone and is for Comerica's use only. Comerica does not store confidential, personal identification information in cookies.
+**Information Collection by Companies Linked to Us**
 
-You may choose to set your browser to reject cookies. However, we do not recommend disabling cookies on our website because you may not be able to log in or use basic features on our website such as Comerica Web Banking. For more information see the "Help" information for the browser you are using.
+Our online practices may not apply to information obtained by websites linked to us. We are not responsible for information practices of those sites. We encourage you to review the policies and practices of each of the linked websites you choose to visit.
 
-We recommend you complete your online transactions and log off before surfing to other sites or turning off your personal computer. We also recommend that you do not surf other sites during your online banking session.
+**Changes to Our Privacy Policy**
 
-**Security Standards** – We safeguard any information our customers share with us, according to strict standards of security and confidentiality. View detailed security information  at your convenience. (See Related Information.) We make every effort to keep our customer files complete, up-to-date and accurate. We will tell our customers how and where to notify us about errors, and we will promptly make corrections.
+We reserve the right to change our Privacy Policy by posting changes to our Privacy Policy at this location.
 
-**Customer Information** – Information you voluntarily provide to us is subject to different protections. Privacy Notice
+**Online Practices, Information About Cookies, and Other Use-Tracking Devices**
 
-**Children’s Privacy Online** – We do not knowingly solicit, collect, or use personal information from children under 13. For information concerning the Children's Online Privacy Protection Act (COPPA), visit the Federal Trade Commission's web site at www.ftc.gov.
+Comerica respects your privacy!  Through our website, we strive to provide valuable information to you about how we may serve you.  To facilitate a better online experience, we use cookies and other use-tracking devices.
 
-**Information Collection by Companies Linked to us** – Our online practices may not apply to information obtained by web sites linked to us. We encourage you to review the policies and practices of each of the linked web sites you choose to visit.
+Cookies are small pieces of information stored directly on your personal computer.  Cookies help websites keep track of your preferences and to recognize you as a return visitor.  When you return to a website you have visited before, your browser gives the information stored in the cookie back to the website’s server.  For example, in addition to other information, www.comerica.com may use a cookie to save your zip code location selection so that we can present product and service information that is available in your area.   Additionally, we may use cookies to facilitate online surveys, to track how visitors use our site, or to delivery our products and services to you.  We use this information to improve the content, usability and functionality of our website.   Recording information in a cookie allows us to simplify and personalize your online experience, as well as delivering our products and services to you.
 
-**Changes to our Privacy Policy** – We reserve the right to change our Privacy Policy by posting changes to our Privacy Policy at this location.
+You may choose to set your browser to reject cookies.  However, we do not recommend disabling cookies on our website because you may not be able to log in or use basic features on our website such as Comerica Web Bankingsm.  For more information see the "Help" information for the browser you are using.  IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR INTERNET BROWSER TO REFUSE COOKIES BEFORE ACCESSING OUR SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES.  IF YOU REFUSE COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
 
-Related Information  
----  
-  
-  
-  
-  
----  
-DISCLOSURES:   
+We recommend you complete your online transactions and log off before visiting other sites or turning off your personal computer.  We also recommend that you do not visit other sites during your online banking session.
 
+Comerica may use other use-tracking devices, which may change from time-to-time as technology changes, to help diagnose problems and to administer our website.   We also may track browser types to help us understand our visitors' needs related to our website design.  Comerica may use Web-Becons and other devices on parts of the website.  A Web-Becon, also known as a "Webbug" or “clear-gif,” is a small, graphic image imbedded on a page of the website, included in a Web-based document or an e-mail message that is designed to permit the monitoring of who is visiting a website.   Webbugs are often invisible to you because they may be very small (only 1-by-1 pixel) and/or are made to blend in with the background color of the webpage, document, or e-mail message.   Webbugs are identified with HTML IMG tags in the webpage.  You may use the "view profiles" of the webpage you are viewing on our website to see whether the page is using a Webbugs.
 
-1Comerica Securities is a broker/dealer, member NASD/SIPC, and a subsidiary of Comerica Bank.
+With the assistance of a cookie, Webbugs may collect the IP address of your computer, the URL of the page the Webbugs comes from and the time it was viewed, or other personal information.   For example, Webbugs may add information to a personal profile of what sites a person is visiting and to determine what banner ads to display based on the profile.   Another use of Webbugs is to provide an independent accounting of how many people have visited a particular website and to gather statistics about webbrowser usage at different places on the Internet.
 
-2Comerica Insurance Services, Inc., Comerica Insurance of Texas, Incorporated, and Comerica of California Insurance Services are insurance agencies and affiliates of Comerica Bank.
+Our website may include advertisements for third parties and their products, and those third-party advertisements and websites may include a cookie, Webbugs, or other device of the third party.  Comerica does not have control over the cookies, Webbugs, or other devices used by third parties and does not have access to whatever information they may collect.
