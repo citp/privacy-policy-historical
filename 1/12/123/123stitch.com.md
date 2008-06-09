@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123stitch.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210223917id_/http%3A//www.123stitch.com/cgi-bin/privacy_policy.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123stitch.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609113957id_/http%3A//www.123stitch.com/cgi-bin/privacy_policy.pl) for the most accurate reproduction.*
 
 # Cross Stitch with 1-2-3 Stitch!
 
