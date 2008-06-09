@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpowerplayer.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060854id_/http%3A//mpowerplayer.com/%3Fpage_id%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpowerplayer.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609031714id_/http%3A//www.mpowerplayer.com/%3Fpage_id%3D10) for the most accurate reproduction.*
 
 # mpowerplayer - mobile games » Privacy Policy
 
