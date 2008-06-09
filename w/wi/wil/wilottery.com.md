@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilottery.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211232402id_/http%3A//www.wilottery.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilottery.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609205855id_/http%3A//www.wilottery.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Wisconsin Lottery Web Site Privacy Notice
 
@@ -93,6 +93,3 @@ This information should not be construed in any way as giving business, legal, o
 ## Disclaimer
 
 Wilottery.com has links to other web sites. These include links to web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on Wilottery.com and this Privacy Notice will not apply. When you link to another web site, you are subject to the privacy policy of that new site.
-
-  
-
