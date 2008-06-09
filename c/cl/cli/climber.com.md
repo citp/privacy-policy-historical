@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025033203id_/http%3A//www.climber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609160748id_/http%3A//www.climber.com/privacy) for the most accurate reproduction.*
 
-# Climber Signup
+# Climber.com - Like Dating for Jobs™
 
 At Climber.com, we value your privacy. This privacy policy was created to provide a clear explanation of how your personal information and privacy will be safeguarded.
 
@@ -9,6 +9,9 @@ Climber.com is the sole owner of the information collected on this site. We will
 Since many of the financial services that we offer do require the collection of sensitive information, we want you to understand what types of information we are collecting and what may happen to that information.
 
 If you have any questions about our Privacy Policy, please email us at: privacy@climber.com
+
+  
+
 
 ## 1\. COLLECTION OF INFORMATION
 
@@ -24,6 +27,9 @@ Passive Collection of Information - In addition to the information which you act
 
 Collection of Information from Children - Climber.com abides by federal law and the "Youth Privacy" guidelines set up by the Federal Trade Commission. Therefore, Climber.com will not knowingly collect any personal information from or allow the registration of young people under the age of 13.
 
+  
+
+
 ## 2\. USE OF INFORMATION
 
 Climber.com may use your information you have provided in order to customize our site to your interests and enhance your overall experience at our site. Climber.com tries to recognize you using various methods, including having you log in with your e-mail address and your password. Once Climber.com recognizes you, pages, advertisements and other content is customized for you so that you can see what interests you the most. In addition, as described above, Climber.com utilizes passive information to learn more about how you interact with our site. This passive information may be combined with your other information for purposes such as testing and improving your experience at our site and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners. This aggregate passive information does not contain any personal information which can identify any individual user.
@@ -31,6 +37,9 @@ Climber.com may use your information you have provided in order to customize our
 If you choose to voluntarily provide information such as your Social Security Number, Climber.com may use that information to determine the status of your student loans by utilizing the National Student Loan Database. If you do not know your Social Security Number or do not provide it, Climber.com may also use information such as your name, address or phone number to help locate your Social Security Number for the sole purpose of verifying your eligibility for student loan consolidation.
 
 Contacting You by E-Mail - Climber.com may use your contact information periodically in order to send you e-mail regarding updates at the Climber.com site, such as new Climber.com opportunities and additional listings which may be of interest to you. The frequency of these messages will vary depending upon your demographic interests. In addition, we may send you free informational newsletters or notices relating to topics which may be of special interest to you, including financial aid and financial services. If you voluntarily opt-in to receive offers from specific partners or third parties, you may also receive promotional e-mails from those partners. Out of respect for the privacy of our users, we present the option to opt-out of receiving newsletters and/or commercial e-mails whenever such messages are sent by Climber.com. E-mail messages from third parties are not governed by the opt-out provisions of this Privacy Policy, but all such third parties are strongly encouraged t include opt-out procedures in their messages to you.
+
+  
+
 
 ## 3\. SHARING OF INFORMATION
 
@@ -43,6 +52,9 @@ Pre-Population - Occasionally Climber.com may present opportunities to complete 
 Third Party Service Providers - From time to time, Climber.com may decide that it is more efficient to use third parties to perform specific services, such as sending newsletters to Climber.com's users. If we use a third party to provide specific services (such as sending newsletters to our users on our behalf), then information (such as contact information, applicable demographic information, or account information) may be shared with that party to the extent necessary for the third party to provide these services. These third party service providers are only allowed to use personally identifiable information for the purpose of providing the specific services requested by Climber.com. The third party services covered by this paragraph do not include links to third party sites found on our site, which are governed by a more specific provision (Links to Other Sites) below.
 
 Disclosure to Law Enforcement and Similar Disclosures - While Climber.com strives to protect the personal information of our users, Climber.com will release personal information if required by law or in the good-faith belief that such action is necessary or appropriate.
+
+  
+
 
 ## 4\. OTHER PROVISIONS
 
