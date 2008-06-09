@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wirefly.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225133209id_/http%3A//www.wirefly.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirefly.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609072517id_/http%3A//www.wirefly.com/about/privacy) for the most accurate reproduction.*
 
-# Wirefly.com Privacy Policy
+# Welcome to our Wireless World
 
 **Simply put, we promise that:**
 
@@ -17,6 +17,7 @@ Wirefly will only ask for personal information required to complete your cell ph
   * What Information We Collect and How We Use It
   * Location Information
   * Personally Identifiable Information
+  * Forward-To-A-Friend and Refer-A-Friend
   * Supplementation of Information
   * Sharing of Your Information
   * Sharing of Affiliate Information in the Affiliate Sign-Up Process
@@ -39,20 +40,22 @@ Wirefly will only ask for personal information required to complete your cell ph
   
 We value the relationship we have with our customers and are committed to responsible information-handling practices. We take great care in safeguarding your personal information and exceeding our own internal standards and best practices.
 
-The Wirefly.com wireless store is operated by InPhonic, Inc. (“InPhonic”). We provide this notice explaining our online information practices and the choices you can make about the way your information is used at our site. This privacy statement covers the site www.Wirefly.com.
+The Wirefly.com wireless store is operated by Simplexity, LLC ("Simplexity"). We provide this notice explaining our online information practices and the choices you can make about the way your information is used at our site. This privacy statement covers the site www.Wirefly.com.
 
-TRUSTe: Click to Verify InPhonic is a licensee of the TRUSTe Privacy Program and is authorized to use the TRUSTe trustmark. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity by promoting the use of fair information practices. To demonstrate our commitment to your privacy, we have agreed to have our privacy practices reviewed for compliance with TRUSTe’s established privacy principles and comply with ongoing TRUSTe oversight.
+Simplexity is a licensee of the TRUSTe Privacy Program and is authorized to use the TRUSTe trustmark. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity by promoting the use of fair information practices. To demonstrate our commitment to your privacy, we have agreed to have our privacy practices reviewed for compliance with TRUSTe’s established privacy principles and comply with ongoing TRUSTe oversight.
 
-By displaying the TRUSTe trustmark, InPhonic has agreed to notify you of: 
+By displaying the TRUSTe trustmark, Simplexity has agreed to notify you of: 
 
-* What personally identifiable information is collected from you through the web site
-* How the information is used
-* With whom the information may be shared
-* What choices are available to you regarding collection, use and distribution of the information
-* What security procedures are in place to protect the loss, misuse or alteration of information under InPhonic control.
-* How you can correct or update your information.
+  * \- What personally identifiable information is collected from you through the web site
+  * \- How the information is used
+  * \- With whom the information may be shared
+  * \- What choices are available to you regarding collection, use and distribution of the information
+  * \- What security procedures are in place to protect the loss, misuse or alteration of information under Simplexity control.
+  * \- How you can correct or update your information.
 
-If you have questions or concerns regarding this privacy policy, or complaints arising from our use of your personal information, please contact our Customer Service Department via certified mail to InPhonic, Inc., 1010 Wisconsin Avenue, Suite 600, Washington, DC 20007, or via e-mail at privacypolicy@inphonic.com. If you do not receive acknowledgment of your inquiry, or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the TRUSTe WatchDog Dispute Resolution Process ([ www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)). TRUSTe will then serve as a liaison with InPhonic to resolve your concerns.
+
+
+If you have questions or concerns regarding this privacy policy, or complaints arising from our use of your personal information, please contact our Customer Service Department via certified mail to Simplexity, 11130 Sunrise Valley Dr, Suite 300, Reston, VA 20191, or via e-mail at privacypolicy@simplexity.com. If you do not receive acknowledgment of your inquiry, or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the TRUSTe WatchDog Dispute Resolution Process ([www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)). TRUSTe will then serve as a liaison with Simplexity to resolve your concerns. 
 
 ### What Information We Collect and How We Use It
 
@@ -70,7 +73,11 @@ We only collect ID verification information if it is required by a wireless carr
 
 If you would like to place an order but are reluctant to provide this information online, you may provide it to us by telephone during normal business hours. Telephone agents are available when the Order By Phone button is visible on one of the shopping pages of our site. Simply click on this button to speak to an agent and provide your information over the phone.
 
-We use the contact information you provide to communicate with you, such as to send you order confirmations, respond to your inquires, provide you with important product update, warranty, or safety information. In addition, we use contact information you provide to offer you additional products, programs or services that we believe may be of interest to you, including newsletters from wireoffers.com. You can easily opt out of a newsletter by clicking the unsubscribe link at the bottom of any of these e-mails.
+We use the contact information you provide to communicate with you, such as to send you order confirmations, respond to your inquiries, provide you with important product update, warranty, or safety information. In addition, we use contact information you provide to offer you additional products, programs or services that we believe may be of interest to you, including newsletters from wireoffers.com, an affiliated site. You can easily opt out of a newsletter by clicking the unsubscribe link at the bottom of any of these e-mails. We do not share, sell, rent or trade personally identifiable information with third parties for their promotional purposes, unless you authorize us to do so.
+
+### Forward-To-A-Friend and Refer-A-Friend
+
+If you choose to use our email forwarding functionality or our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend the forwarded email or a one-time email inviting him or her to visit the site, as applicable. We store this information for the sole purpose of forwarding the email or sending the one-time email and tracking the success of our referral program. Your friend may contact us at newsletter@wirefly.com to request that we remove this information from our database.
 
 ### Supplementation of Information
 
@@ -82,7 +89,7 @@ Please be assured that any third parties who have access to the contact informat
 
 To fulfill your requests for products and services, we may need to share some of your personally identifiable information with the wireless provider from which you have requested service. More specifically, when you place an order for a new wireless account, we will share contact and ID verification information required by the wireless carrier to provide you with its services. The wireless provider may use this information for credit approval, service activation, and from time to time, for its own marketing purposes. You should consult the wireless providers' respective privacy policies, as this Notice does not cover their use of your information. Also, your shipping information will be shared with a shipping company such as FedEx, for the purposes of delivering your order.
 
-We work closely with trusted third party business affiliates to provide you with information on products and services that may be of interest to you. We may share the contact information you provide with trusted third parties for the purposes of analyzing it to make your customer experience better or for offering products and services to you. In addition, you can access InPhonic through many third-party co-branded Web sites. For example, if you see a logo on the page that says "Powered by InPhonic," you are on a co-branded page. Whenever you provide contact information on a co-branded page, that data may be shared with the third-party site through which you access InPhonic. We encourage you to read the privacy policies of such third parties, as this Notice does not cover their use of your information.
+We work closely with trusted third party business affiliates to provide you with information on products and services that may be of interest to you. We may share the contact information you provide with trusted third parties for the purposes of analyzing it to make your customer experience better or for offering products and services to you. In addition, you can access Simplexity through many third-party co-branded Web sites. For example, if you see a logo on the page that says "Powered by Simplexity," you are on a co-branded page. Whenever you provide contact information on a co-branded page, that data may be shared with the third-party site through which you access Simplexity. We encourage you to read the privacy policies of such third parties, as this Notice does not cover their use of your information.
 
 ### Sharing of Affiliate Information in the Affiliate Sign-Up Process
 
@@ -90,7 +97,7 @@ Information submitted by potential Affiliates in the Affiliate Sign-Up Process i
 
 ### Third Party Sharing of Information
 
-InPhonic sometimes may offer content (e.g., promotions, affiliations, sponsorships) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity.
+Simplexity sometimes may offer content (e.g., promotions, affiliations, sponsorships) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity.
 
 ### Live Help Function
 
@@ -108,7 +115,7 @@ We may disclose personally identifiable information in response to legal process
 
 ### Choices/Opt Out
 
-If you prefer not to receive marketing information, including emails from us, or wish to fully deactivate your account information from our records if you are no longer an active customer, simply let us know by sending a letter via certified mail to InPhonic, Inc., c/o Privacy Opt Out, 1010 Wisconsin Avenue, Suite 600, Washington, DC 20007 or via e-mail to privacypolicy@inphonic.com Please note that even if you choose to opt out of marketing programs, if you are an active customer we will continue to send you important service-related communications (e.g., order confirmation or product safety information) which is not promotional in nature.
+If you prefer not to receive marketing information, including emails, from us, or wish to fully deactivate your account information from our records if you are no longer an active customer, simply let us know by sending a letter via certified mail to Simplexity, c/o Privacy Opt Out, 11130 Sunrise Valley Dr, Suite 300, Reston, VA 20191 or via e-mail to privacypolicy@simplexity.com. Please note that even if you choose to opt out of marketing programs, if you are an active customer we will continue to send you important service-related communications (e.g., order confirmation or product safety information) which is not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 
 ### Cookies
 
@@ -118,7 +125,7 @@ In addition, some of our business affiliates (e.g., advertisers) use cookies on 
 
 ### Tracking Pixels
 
-This site makes use of a technology designed to enhance your browsing experience. The technology, makes use of a small and transparent Java applet to provide you with a faster browsing experience. In addition, aggregate reporting information is collected and made available to the site owner only. No personal or personally identifiable information is gathered or used for this process.
+This site makes use of a technology designed to enhance your browsing experience. The technology makes use of a small and transparent Java applet to provide you with a faster browsing experience. In addition, aggregate reporting information is collected and made available to the site owner only. No personal or personally identifiable information is gathered or used for this process.
 
 ### Links
 
@@ -132,7 +139,7 @@ All information submitted is protected by our secure server, which automatically
 
 ### Reviewing Your Information
 
-If you would like to review and update or correct the personally identifiable information that we have collected from you online, or if you no longer wish to continue your service with us, simply send your request via certified mail to InPhonic, Inc., 1010 Wisconsin Avenue, Suite 600, Washington, DC 20007. You may also send your request via the Customer Support feedback section in our [customer service center](http://www.whereismyorder.com/). To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+If you would like to review and update or correct the personally identifiable information that we have collected from you online, or if you no longer wish to continue your service with us, simply send your request via certified mail to Simplexity, 11130 Sunrise Valley Dr, Suite 300, Reston, VA 20191. You may also send your request via the Customer Support feedback section in our [customer service center](http://www.whereismyorder.com/). To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
 ### Contact Us
 
@@ -140,12 +147,14 @@ If you have any questions regarding this statement, or would like more informati
 
 ### Updates and Notification of Changes
 
-From time to time, we may update this Privacy Notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this notice so that you always will know what information we collect, how we use it, and to whom we disclose it. If we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 ### Yahoo Privacy Policy
 
-InPhonic, Inc works with Yahoo! to research certain web site usage and activities on our behalf. Yahoo! uses cookies, Web beacons, and/or other monitoring technologies (collectively, “Beacons”) to conduct this research. The information collected through these Beacons is used to find out more about our users, including user demographics and usage patterns, for more accurate reporting and to improve the effectiveness of our marketing. Information recorded through the use of these Beacons is aggregated and then shared with us. No personally identifiable information about you is shared by Yahoo! with InPhonic, Inc as a result of this research. If you prefer that Yahoo! not record information by means of these Beacons on the InPhonic, Inc. web site, visit Yahoo! at [http://privacy.yahoo.com/privacy/us/beacons/details.html to opt out.](http://privacy.yahoo.com/privacy/us/beacons/details.html)
+Simplexity works with Yahoo! to research certain web site usage and activities on our behalf. Yahoo! uses cookies, Web beacons, and/or other monitoring technologies (collectively, “Beacons”) to conduct this research. The information collected through these Beacons is used to find out more about our users, including user demographics and usage patterns, for more accurate reporting and to improve the effectiveness of our marketing. Information recorded through the use of these Beacons is aggregated and then shared with us. No personally identifiable information about you is shared by Yahoo! with Simplexity as a result of this research. If you prefer that Yahoo! not record information by means of these Beacons on the Simplexity web site, visit Yahoo! at [http://privacy.yahoo.com/privacy/us/beacons/details.html to opt out.](http://privacy.yahoo.com/privacy/us/beacons/details.html)
 
 By visiting this web site, you are accepting the practices described in this Privacy Notice.
 
-### Last Updated March 2006
+### Last Updated January 2008
