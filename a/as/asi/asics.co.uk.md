@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asics.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210115556id_/http%3A//www.asics.co.uk/Sitewide/StatementOfPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asics.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609024727id_/http%3A//www.asics.co.uk/Sitewide/StatementOfPrivacy.htm) for the most accurate reproduction.*
 
 # ASICS UK - Statement of Privacy
 
