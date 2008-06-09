@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234613id_/http%3A//www.freecollegescholarships.net/privacy.php%3Fc%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609102239id_/http%3A//www.freecollegescholarships.net/privacy.php%3Fc%3D) for the most accurate reproduction.*
 
 # Free College Scholarships
 
@@ -29,13 +29,13 @@ FreecollegeScholarships.net may occasionally license, share, or otherwise disclo
 
 Additionally, FreecollegeScholarships.net may disclose your information if required to do so by law or in the good faith belief that such action is necessary to: (a) comply with the applicable laws; (b) protect and defend the rights and/or property of FreecollegeScholarships.net and its family of websites; and (c) comply with the valid legal process.
 
-##### We Do Not Collect Information From Children:
-
-The information and services provided by us or our affiliates, sponsors, advertisers, etc. is not intended to be viewed by children (under the age of 18 years old). Our services are also not intended for children under the age of 18 years. If FreecollegeScholarships.net learns of a person who registers on the site who is under the age of 18, we will immediately delete that person's information. 
-
 ##### Registry Compliance:
 
 By submitting your personal and/or financial information on our site, you are hereby granting written permission to us, our affiliated sites, sponsors, etc. for contact information. You are also consenting to receive phone calls from FreecollegeScholarships.net, our affiliates, and our partners for contact via telephone, and thereby, you waive your right to file a claim with the FTC or any other agency in regards to these contacts or calls. 
+
+##### We do not collect Information from Children:
+
+The information and services provided by us are not intended for children under the age of eighteen (18) years old. Additionally, we do not direct our Website to, nor do we knowingly collect any personal information from children under the age of thirteen (13) years old. If FreeCollegeScholarships.net learns of a person who registers on this site who is under the age of thirteen (13) years old, we will immediately delete that person’s information.
 
 ##### Your Opt-Out Rights:
 
