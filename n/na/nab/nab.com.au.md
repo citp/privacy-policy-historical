@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nab.com.au privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211073927id_/http%3A//www.nab.com.au/About_Us/0%2C%2C2692%2C00.html%3FncID%3DZBA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nab.com.au privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609061026id_/http%3A//www.nab.com.au./About_Us/0%2C%2C2692%2C00.html%3FncID%3DZBA) for the most accurate reproduction.*
 
 # NAB - Home Loan - Privacy Policy
 
@@ -155,7 +155,7 @@ For more information about our Privacy Policy, please call 13 22 65 and select t
 
 Download a copy of the [request for access – personal information form (PDF, 229K)](https://web.archive.org/vgnmedia/downld/Personal_Information_Request_For_Access.pdf "request for access – personal information form \(PDF, 229K, opens in new window\)").
 
-Hearing impaired customers with telephone typewriters can contact us on 1300 363 647
+Hearing impaired customers with telephone typewriters can contact us on 13 36 77
 
 For more information about privacy in general, you can visit the Federal Privacy Commissioner’s website
 
