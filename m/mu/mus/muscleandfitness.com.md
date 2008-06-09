@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the muscleandfitness.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607224627id_/http%3A//www.muscleandfitness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muscleandfitness.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609040205id_/http%3A//www.muscleandfitness.com/privacy) for the most accurate reproduction.*
 
-# Muscle and Fitness
+# Nutrition - Muscle and Fitness
 
-  
-Privacy Policy
-
-**Privacy Policy** American Media, Inc.  
+**Privacy Policy**  
+American Media, Inc.  
 Muscle and Fitness Privacy Policy 
 
 Thank you for visiting muscleandfitness.com, a American Media, Inc. ("AMI") site. AMI is committed to providing our visitors with content and services characterized by outstanding quality and customer service. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online.
@@ -38,4 +36,21 @@ We may disclose your personal information when we believe disclosure is (i) requ
 
 **Miscellaneous:** The Internet is an evolving medium. Accordingly, AMI reserves the right to change this Privacy Policy. If we need to change our Privacy Policy at some point in the future, we'll post the changes or an amended Privacy Policy. Your continued use of the site or any of the services offered therein following any such posting will constitute your acceptance of all changes. In addition, by visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and our Visitor Agreement. Please read both carefully before using or registering with any of our sites.
 
-_© 2004 American Media, Inc. All Rights Reserved. Unauthorized Distribution or Reproduction is Forbidden._
+|  |    
+
+
+## M&F newsletter
+
+| 
+
+Get involved: Sign up today and interact with other Muscle & Fitness readers!
+
+» Free Membership  
+» Message Boards  
+» Newsletters  
+» Special Offers  
+  
+---  
+SIGN UP TODAY!  
+Enter Your Email Address  
+
