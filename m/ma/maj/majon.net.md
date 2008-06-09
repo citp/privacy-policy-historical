@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the majon.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210180716id_/http%3A//www.majon.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majon.net privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609030612id_/http%3A//www.majon.net/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Search Engine Marketing
 
-**Majon International Privacy Policy**
+#### **Majon International Privacy Policy**
 
-We respect and are committed to protecting your privacy. Our Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Majon International and its web site network. 
+We respect and are committed to protecting your privacy. Our Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Majon International and its web site network.
 
 **The following discloses our Privacy Policy...** **  
-** What information are you collecting and how are you collecting it?   
+**What information are you collecting and how are you collecting it?  
 Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the Majon International Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our web servers do not automatically record e-mail addresses of the visitors. 
 
 **What are cookies?**  
@@ -24,7 +24,7 @@ If you are purchasing something from an Majon International property, we need to
 
 Certain Majon International properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other Majon International media properties do not use SSL and thereby do not offer a secure coded way to transfer information.
 
-In many instances when Majon International collects personal information, a reasonable effort is made to included a link to this Privacy Policy if applicable. Additionally, our privacy policy link is always available from our main web site at: [http://www.majon.net ](http://www.majon.net%20/)
+In many instances when Majon International collects personal information, a reasonable effort is made to included a link to this Privacy Policy if applicable. Additionally, our privacy policy link is always available from our main web site at: [_http://www.majon.com_](http://www.majon.com/)
 
 **Will you disclose the information you collect to outside third parties?**  
 Majon International will disclose personal information when required by law or in the good-faith belief that such action is necessary to:   
@@ -42,8 +42,7 @@ As an added benefit to the visitors of the Majon International Network of sites,
 The Majon International Network of web sites contains many links to other web sites. Majon International is not responsible for the privacy practices or the content of such web sites. Majon International does not share any of the individual personal information you provide to Majon International with any of the sites to which Majon International links, although Majon International may share aggregate data with such web sites (such as how many people use our web site etc.). 
 
 **Please check with those sites to determine their privacy policy.**  
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.   
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. It is therefore wise to be careful and responsible whenever you're online. 
+Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your personal information. It is therefore wise to be careful and responsible whenever you're online. 
 
 **  
 Your Consent To This Agreement**  
