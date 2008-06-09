@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234038id_/http%3A//outerspace-software.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609133056id_/http%3A//www.outerspace-software.com/privacy.html) for the most accurate reproduction.*
 
-# Outerspace Software: Realtime 3D Video Titling and VJ Effects - Privacy Policy
+# Outerspace Software: Realtime 3D Effects for Video Titling and Narrowcasting - Privacy Policy
 
 Outerspace Software is very concerned about protecting your online privacy. This is our policy about information we collect on our website.
 
