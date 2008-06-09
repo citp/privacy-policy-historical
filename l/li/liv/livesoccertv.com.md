@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livesoccertv.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211114528id_/http%3A//www.livesoccertv.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesoccertv.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609142329id_/http%3A//www.livesoccertv.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Live Soccer TV - Privacy Policy
+# Live Soccer TV
 
 **Personal Data Collected  
 **LiveSoccerTV.com collects personal information during the Forum Registration, Contact Us and other feedback forms. LiveSoccerTV.com may use cookies and tracking links on its site and in e-mails it sends. These are to track the effectiveness of pages and messages. LiveSoccerTV.com never shares your personal information with anyone in any way unless you have given us specific permission to do so. 
@@ -13,3 +13,5 @@
 
 **Third Parties and Unaffiliated Sites  
 **LiveSoccerTV.com uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. LiveSoccerTV.com may also link to a wide variety of other sites. We are not responsible for their privacy policies or how they treat information about their users.
+
+[](http://www.livesoccertv.com/adserver/www/delivery/ck.php?oaparams=2__bannerid=234__zoneid=29__cb=6b600e1ed8__maxdest=http://scripts.affiliatefuture.com/AFClick.asp?affiliateID=37612&merchantID=739&programmeID=3052&mediaID=55577&tracking=&url=)
