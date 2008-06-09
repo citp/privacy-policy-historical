@@ -1,7 +1,20 @@
-> *The following text is extracted and transformed from the acmearticles.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210140445id_/http%3A//www.acmearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acmearticles.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609100400id_/http%3A//www.acmearticles.com/privacy.php) for the most accurate reproduction.*
 
 # ACME Articles | Free Article Directory
 
+| 
+
+Acmearticles.com is for sale. We averaged over 6000 unique visitors per month in 2007 and have been in profit for over a year. Acme Articles is built on Article Dashboard and is very easy to maintain if you have a couple extra hours a week to dedicate. Serious inquiries only please. email forsale @ acmearticles.com to make an offer   
+I will provide 1 year free hosting for the right offer
+
+**Acme Articles provides free article submission for authors promoting a web site and free quality** **content** **for webmasters.**
+
+**Feel free to browse our articles and sign up for an account[ HERE](http://www.acmearticles.com/signup.php) .   
+[Members LOGIN HERE!](http://www.acmearticles.com/login.php)**
+
+***Click here to BOOKMARK Acme Articles!***  
+  
+---  
 ACME Articles Privacy Policy
 
   
@@ -54,4 +67,4 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
-|  ****
+****
