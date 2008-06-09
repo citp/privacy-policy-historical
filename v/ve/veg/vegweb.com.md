@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810010544id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609084737id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
 VegWeb Privacy Policy 
 
-This Website, VegWeb, [vegweb.com](http://vegweb.com/), is owned and produced by VegWeb.com, Inc. Your privacy is very important at VegWeb. We understand that your health and dietary choices are very personal subjects, and we want you to feel as comfortable as possible visiting our web sites and using the services. We urge you to read this Privacy Policy carefully so that you will understand clearly both our commitment to you and your privacy, and how we may collect and use information. We may update this Privacy Policy from time to time, so please check back occasionally. By using the VegWeb.com, Inc. web sites (veggiesunite.com, vegweb.org and vegweb.com), you agree to the terms of this Privacy Policy. If you have any questions about our Privacy Policy, you can [use this form](https://web.archive.org/helpdesk/) to contact us. 
+This Website, VegWeb, [vegweb.com](http://vegweb.com/), is owned and produced by VegWeb.com, Inc. Your privacy is very important at VegWeb. We understand that your health and dietary choices are very personal subjects, and we want you to feel as comfortable as possible visiting our web sites and using the services. We urge you to read this Privacy Policy carefully so that you will understand clearly both our commitment to you and your privacy, and how we may collect and use information. We may update this Privacy Policy from time to time, so please check back occasionally. By using the VegWeb.com, Inc. web sites (veggiesunite.com, vegweb.org and vegweb.com), you agree to the terms of this Privacy Policy. If you have any questions about our Privacy Policy, you can [use this form](http://vegweb.com/index.php?action=contact) to contact us. 
 
 You must be at least 18 years of age in order to participate in any interactives areas of VegWeb. In otherwords, if you are younger than 18, we cannot allow you to use such utilities as VegWeb.com's VegFriends, Chat, Polls, etc.
 
@@ -107,7 +107,7 @@ From time to time we may have links to other websites from our site. We do not c
 **Correction/updating Personal Information:**  
 At any time, you may update your VegWeb member information by editing your Member Profile. After you log into VegWeb, click on the "My Account" link near the top-right of the page, and follow the prompts.
 
-In addition, you may notify us if you wish to cease the use of any of your information by sending a message [with this form](https://web.archive.org/helpdesk/). and we will use reasonable efforts to comply with your request. 
+In addition, you may notify us if you wish to cease the use of any of your information by sending a message [with this form](http://vegweb.com/index.php?action=contact). and we will use reasonable efforts to comply with your request. 
 
 [TOP](https://web.archive.org/misc/privacy.shtml#top)
 
@@ -115,7 +115,7 @@ In addition, you may notify us if you wish to cease the use of any of your infor
 By using our web sites, you consent to the collection and use of your information, as described above, by VegWeb.com, Inc. If we make any changes to our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Any changes to our privacy policy will extend to any and all information we may collect or may have collected, regardless of whether the policy was different at the time the information was collected.
 
 **Please contact us with any questions or comments**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with VegWeb, please contact us by email [with this form](https://web.archive.org/helpdesk/) or use the following address: 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with VegWeb, please contact us by email [with this form](http://vegweb.com/index.php?action=contact) or use the following address: 
 
   
 **VegWeb.com, Inc.**  
@@ -125,6 +125,4 @@ USA
 
 [TOP](https://web.archive.org/misc/privacy.shtml#top)
 
-|  [](http://vegweb.com/phpads/adclick.php?bannerid=563&zoneid=17&source=&dest=http%3A%2F%2Fwww.cosmosveganshoppe.com%2F)
-
-[](http://vegweb.com/phpads/adclick.php?bannerid=740&zoneid=0&source=&dest=http%3A%2F%2Fwww.surveymonkey.com%2Fs.aspx%3Fsm%3D3_2bE83nNbFxSc0rU7wF_2f5zg_3d_3d)
+|  [](http://vegweb.com/ads/www/delivery/ck.php?oaparams=2__bannerid=843__zoneid=17__cb=c3ca68275c__maxdest=http://herbivoreclothing.com/)
