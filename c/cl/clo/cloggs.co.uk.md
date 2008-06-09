@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218142445id_/http%3A//www.cloggs.co.uk/page/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610000115id_/http%3A//www.cloggs.co.uk/page/security) for the most accurate reproduction.*
 
 # Security and Privacy
-
-[Home](http://www.cloggs.co.uk/page/home)
 
 ## Security
 
@@ -11,6 +9,12 @@
 Cloggs.co.uk uses the industry standard secure server software (Secure Socket Layer - 128 bit SSL Global Server Certificate) in association with DataCash and Verisign. Your financial and personal information, including credit card number, name and address, and phone number, are encrypted so that they cannot be viewed while travelling over the internet. All personal information will then be stored on our isolated network, protecting it from any misuse or compromise. Please feel free to click on the Verisign Logo for verification.
 
 **Cloggs never takes payment for ordered goods until those goods are actually shipped or without the express prior consent of the customer.**
+
+### Browser Warnings
+
+Our website is designed to incorporate some sophisticated navigation and internet browsing technology which gives our customers the highest levels of functionality and buying options. In order to do this, it is necessary to use particular internet software languages like Java Script, and therefore if you have disabled certain browser features like Java Script, you will not be able to complete the checkout part of our website. Similarly, if you have activated the very highest levels of security on your browser, this sometimes disables Java Script automatically and inserts warning or dialogue boxes on https or secure web pages. All our information transfer, storage and use is 100% secure and verified by Verisign as per the seal above.
+
+If you want to complete your purchase on Cloggs.co.uk, [click here](https://web.archive.org/page/noscript) to learn how to activate the Java Script settings in your browser. You can always reset them on completion of your transaction. Alternatively, you could place a telephone order with us without having to change your settings, just call +44 (0) 121 237 5510 (or visit our Birmingham Bullring store if you are in the area!). For full details on how to adjust your browser settings to complete your purchase on Cloggs.co.uk, please [click here](https://web.archive.org/page/noscript).
 
 ### Guarantee
 
@@ -64,9 +68,3 @@ This will include using a "cookie" which would be stored on your browser. A "coo
 If you have any questions/comments about privacy, please feel free to contac us.
 
 [Back to Helpdesk Main Menu](http://www.cloggs.co.uk/page/helpdeskwelcome)
-
-[](https://web.archive.org/page/christmasreturns07)  
-  
----  
-  
-## NEWSLETTER
