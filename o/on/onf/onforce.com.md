@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onforce.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026132221id_/http%3A//onforce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onforce.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609200110id_/http%3A//www.onforce.com/privacy) for the most accurate reproduction.*
 
 # OnForce Privacy & Security Policies
 
@@ -42,7 +42,7 @@ OnForce automatically collects your browser type and browser software version to
 
   9. **Provider Profile**
 
-As part of registration, you may set up your Online Office describing your computer experience, rates and qualifications. Some of the information requested in the Online Office registration is mandatory. If you decide to offer your services through OnForce, potential Buyers will look to your Online Office to help them decide whether to make use of your services. 
+As part of registration, you may set up your Provider Command Center describing your computer experience, rates and qualifications. Some of the information requested in the Provider Command Center registration is mandatory. If you decide to offer your services through OnForce, potential Buyers will look to your Provider Command Center to help them decide whether to make use of your services. 
 
   10. **How We Use Registration Information**
 
@@ -90,7 +90,7 @@ This Platform gives the following options for changing and modifying information
 
     3. OnForce retains Personally Identifiable Information and other data in accordance with its data retention policies. 
 
-For other requests, please contact support@onforce.com.
+For other requests, please contact [info@onforce.com](mailto:info@onforce.com) .
 
   20. **Transmittal of Data**
 
