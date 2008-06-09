@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drleonards.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121110243id_/http%3A//www.drleonards.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drleonards.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609210658id_/http%3A//www.drleonards.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Dr. Leonard's America's Leading Online Healthcare Catalog - Privacy Policy
 
