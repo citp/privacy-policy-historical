@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210191008id_/http%3A//www.acherryontop.com/article%3Fa%3D1521) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609020327id_/http%3A//www.acherryontop.com/article%3Fa%3D1521) for the most accurate reproduction.*
 
 # Privacy Statement - A Cherry On Top, Scrapbooking Shoppe
 
