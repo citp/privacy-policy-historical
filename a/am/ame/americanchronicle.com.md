@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americanchronicle.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210213007id_/http%3A//www.americanchronicle.com/notices/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanchronicle.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609024604id_/http%3A//www.americanchronicle.com/notices/privacy.asp) for the most accurate reproduction.*
 
-# American Chronicle: Member Services
+# American Chronicle
 
 Privacy
 
