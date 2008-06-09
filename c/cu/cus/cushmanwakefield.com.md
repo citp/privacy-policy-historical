@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cushmanwakefield.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029114930id_/http%3A//www.cushmanwakefield.com/cwglobal/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cushmanwakefield.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609233232id_/http%3A//www.cushmanwakefield.com/cwglobal/jsp/privacy.jsp%3FCountry%3DGLOBAL%26Language%3DEN) for the most accurate reproduction.*
 
 # Cushman & Wakefield - Global real estate solutions
 
@@ -65,79 +65,3 @@ For quality control and training purposes, we may monitor or record your communi
 ### When and how to contact us
 
 If your personal details change, if you change your mind about any of your marketing preferences or if you have any queries about how we use your information, please let us know by contacting our Mailing Exclusion Team at: [unsubscribe@eur.cushwake.com](mailto:unsubscribe@eur.cushwake.com)
-
-### Canada's Privacy Policy
-
-Our Privacy Policy is based on, and complies with, Canada's _Personal Information Protection and Electronic Documents Act_ ("PIPEDA"), which includes the Ten Privacy Principles outlined in the Canadian Standards Association _Model Code for the Protection of Personal Privacy_. For more information about this legislation, please visit the official Web site of the Privacy Commission of Canada at [http://www.privcom.gc.ca](http://www.privcom.gc.ca/). All of our employees who have access to personal information must adhere to the Privacy Policy and related procedures. To this end, we have appointed a Privacy Officer to ensure compliance by all employees. "Personal Information" means information about an identifiable individual client. This may include without limitation, the individual's name, home address, e-mail address, age, gender, income, personal preferences and other information about his or her family. Personal information does not include the name, title or business address or telephone number of an employee of an organization. 
-
-### The Ten Principles of Privacy
-
-The following ten principles govern our actions as they relate to the use of our clients' personal information:  
-**Principle 1 – Accountability**  
-We are accountable for all personal information in our possession or custody, including personal information disclosed to third parties for purposes of providing services requested by our clients or employees.
-
-**Principle 2 – Identifying Purposes**  
-We will inform our clients of the purposes for which we are collecting any personal information, before or at the time the information is collected.
-
-**Principle 3 – Consent**  
-Our policy is to require our agents to obtain consent from our clients before or when we collect, use or disclose their personal information. A client's consent can be expressed, implied, or given through an authorized representative. A client can withdraw consent at any time, with certain exceptions. We may, however, collect, use or disclose personal information without the client' knowledge or consent in exceptional circumstances where such collection, use or disclosure is permitted or required by law.
-
-**Principle 4 – Limiting Collection  
-**The information collected from the client will be limited to those details necessary for the purposes we have identified to the client. Information will be collected by fair and lawful means.
-
-**Principle 5 – Limiting Use, Disclosure and Retention**  
-Personal information will only be used or disclosed for the purpose for which it was collectedunless the client has otherwise consented, or when it is required or permitted by law. In certain exceptional circumstances, we may have a legal duty or right to disclose personal information without client knowledge or consent with respect to matters that concern the company's or the public's interest.
-
-**Principle 6 – Accuracy**  
-We will keep personal information as accurate, complete and current as necessary to fulfill the identified purposes for which it was collected. Clients may have this information amended where it is found to be inaccurate or incomplete.
-
-**Principle 7 – Safeguarding Personal Information**  
-Personal information is safeguarded using measures appropriate to the sensitivity of the information.
-
-**Principle 8 – Openness**  
-We will make information available to our clients about the policies and procedures we use to manage personal information. Clients have access to this information through our Web site, or through alternate means if requested.
-
-**Principle 9 – Client Access  
-**Upon written request, a client will be informed of the existence, use and disclosure of their personal information, and will be given access to it. We will respond to such requests as efficiently as possible.  If we are prohibited from providing such access we will explain the reasons for the lack of access, except where prohibited by law.
-
-**Principle 10 – Addressing Client Complaints and Suggestions  
-**Clients may challenge C&W LePage's compliance with this Privacy Policy. C&W LePage has policies and procedures to receive, investigate and respond to client's complaints and questions. Clients may contact C&W LePage's Privacy Officer to express any concerns or to request access to their personal information.  The contact information for this individual is provided below. 
-
-### When Can We Disclose Personal Information?
-
-We are obliged to keep clients personal information confidential _except under the following circumstances:_
-
-  * **-When Authorized by the client**
-  * **-When Required by Law**
-  * **-When Permitted by Law**
-
-
-
-### With Whom We May Share Information
-
-  * **Employees**  
-In the course of daily operations, access to sensitive personal information is limited to those employees with a legitimate reason for accessing it. As a condition of their employment, our employees are required to follow all applicable laws and regulations, including this Privacy Policy.  
-Unauthorized use or disclosure of confidential client information by one of our employees is prohibited and may result in disciplinary measures
-  * **Third Party Suppliers  
-**We may engage and coordinate third party suppliers to provide us or our employees with certain services offered through C&W LePage We may use client contact information to conduct an evaluation of our performance on their behalf.  Such suppliers are only given the information that is needed to provide the specific service for which we contract them to provide.  Suppliers are contractually bound to protect the confidentiality of personal information, and they are prohibited from doing anything with this information that we have not authorized them to do. They are required to treat personal information in a manner consistent with our Privacy Policy.
-  * **Sale of Business  
-**We may transfer client's personally identifiable information to a third party in connection with a sale, merger or other disposition (whether of assets, stock or otherwise) of our business.
-
-
-
-### How We Safeguard Information
-
-C&W LePage has extensive controls in place to maintain the security of its information and information systems. Client files are stored according to the sensitivity of the information contained therein. Appropriate controls (such as restricted access) are placed on our computer systems and data processing procedures.  Physical access to areas where personal information is gathered, processed or stored is limited to authorized employees.
-
-### Opting Out
-
-In order to provide clients with our services and products, we may, with their consent, share their personal information with other C&W LePage  affiliates.  Should a client not want to receive promotional materials from or have their personal information shared with these companies please contact C&W LePage at the address, phone number or email address provided below:  
-**Address:** 33 Yonge Street, suite 1000, Toronto, Ontario M5E 1S9  
-**Phone Number:** (416) 359-2751  
-**Email Address:** [privacy@ca.cushwake.com](mailto:privacy@royallepage.com)
-
-### Questions, Concerns and Complaints
-
-For Questions, concerns or complaints about personal information, or about our Privacy Policy, please contact our Privacy Officer using the contact information provide below:  
-**Privacy Officer:** Beth Connor  
-**Contact Information:** (416) 359-2365 or [privacy@ca.cushwake.com](mailto:privacy@royallepage.com)
