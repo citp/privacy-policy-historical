@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swimoutlet.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229080216id_/http%3A//www.swimoutlet.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimoutlet.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609140820id_/http%3A//www.swimoutlet.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # SwimOutlet.com - The Web's Most Popular Swim Shop! men's and women's swimwear, swim gear, swim store
 
@@ -43,7 +43,7 @@ However, non-personally identifiable visitor information may be provided to othe
 
  **How can you opt-out, remove or modify information you have provided to us?**
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. You may also unsubcribe through the "unsubscribe" link in an emailed newsletter. Please note that due to email production schedules you may receive any emails already in production.
 
 To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20071229080216id_/http%3A//www.swimoutlet.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20080609140820id_/http%3A//www.swimoutlet.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
