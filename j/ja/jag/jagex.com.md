@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the jagex.com privacy policy that was archived on 2007-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070819054004id_/http%3A//jagex.com/privacy.ws) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jagex.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610002533id_/http%3A//www.jagex.com/corporate/privacy.ws) for the most accurate reproduction.*
 
-# Jagex Software
+# Jagex Software :: Privacy Policy
 
-Effective Date: 30th April, 2007
+## 
 
-**Privacy Policy**
+**Introduction**
 
-**Introduction**  
-This is the privacy policy of Jagex Limited and any companies within our group (referred to collectively as "Jagex"). It applies to all of our websites / services (referred to collectively as "our websites") on which it appears.
+This is the privacy policy of Jagex Limited and any companies within our group (referred to collectively as "Jagex"). It applies to all of our websites / services (referred to collectively as "our websites") on which it appears. 
 
-We are committed to protecting your privacy and take special measures to ensure the confidentiality of personally identifiable information collected from or about you. This privacy policy explains how we collect, store and use such personally identifiable information. ("Personally identifiable information" is information that identifies you and can be used to contact or locate you in real life, such as your real full name, e-mail address, mobile number, postal address or credit card information.)
+We are committed to protecting your privacy and take special measures to ensure the confidentiality of personally identifiable information collected from or about you. This privacy policy explains how we collect, store and use such personally identifiable information. ("Personally identifiable information" is information that identifies you and can be used to contact or locate you in real life, such as your real full name, e-mail address, mobile number, postal address or credit card information.) 
 
 Please read this policy carefully. Your accepting it in full is a condition of your use of our websites (whether or not you are a subscriber). If you don't agree with this policy, or any part, please don't use our websites. Your using any of our websites is treated as an acceptance of the version of this policy in effect at the time of your use.
 
@@ -30,7 +29,7 @@ If you are under 18, by using our website you are representing that you have per
 
 If we are notified by a parent that their preteen has lied about their age when registering on our websites, we will Terminate the account provided we have confirmation which satisfies us that the reporting person is indeed the parent.
 
-Parents can reach us by emailing .
+Parents can reach us by emailing 
 
 **What personally identifiable information do we collect and store?**  
 No personally identifiable information is collected when you merely access the public areas of our websites or when you play our single player games.
@@ -114,6 +113,6 @@ We will only collect personally identifiable information to the extent we believ
 Note that while we strive to protect all our personally identifiable information, we have all heard of data breaches in well-respected financial and governmental institutions and we cannot ever fully guarantee that such breaches will not happen. We will tell you of any material data breaches which we discover that compromise your personally identifiable information.
 
 **Review, correction and deletion of information from our records**  
-If for data protection purposes you are concerned that the personally identifiable information which we hold about you is not accurate, or should you wish to have your personal information removed from our records, please see our [Data Protection Policy](http://www.jagex.com/dataprotect.ws) (Its terms are incorporated into this document by reference.)
+If for data protection purposes you are concerned that the personally identifiable information which we hold about you is not accurate, or should you wish to have your personal information removed from our records, please see our [Data Protection Policy](https://web.archive.org/web/20080610002533id_/http%3A//www.jagex.com/corporate/dataprotect.ws) (Its terms are incorporated into this document by reference.)
 
 © Jagex Limited 2007
