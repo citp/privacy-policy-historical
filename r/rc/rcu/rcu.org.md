@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcu.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210182621id_/http%3A//www.rcu.org/privacy_policy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcu.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609090952id_/http%3A//www.rcu.org/privacy_policy.phtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -18,7 +18,7 @@ In accordance with the Children’s Online Privacy Protection Act, RCU does not 
   
 We are committed to providing you with competitive products and services to meet your financial needs, which necessitates that we share information about you with our affiliated third party financial service providers, which provide investment, insurance, and auto leasing services. We may also disclose information about you under other circumstances as permitted or required by law. These disclosures typically include information to follow your instructions as you authorize, to conduct the operations of the credit union, or to protect the security of our financial records. 
 
-We have entered into agreements with other companies that provide either services to us or additional financial products for you to consider. Under these arrangements, we may disclose all of the information we collected, as described below, to companies that perform marketing or other services on behalf or other financial institutions with whom we have joint marketing agreements. 
+We have entered into agreements with other companies that provide either services to us or additional financial products for you to consider. Under these arrangements, we may disclose all of the information we collected, as described below, to companies that perform marketing or other services on behalf of other financial institutions with whom we have joint marketing agreements. 
 
 To protect our member’s privacy, we only work with companies that agree to maintain strong confidentiality protections and limit the use of information we provide. We do not permit these companies to sell to other third parties the information we provide.
 
