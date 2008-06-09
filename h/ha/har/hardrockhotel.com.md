@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardrockhotel.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211103315id_/http%3A//www.hardrockhotel.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrockhotel.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609101626id_/http%3A//www.hardrockhotel.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | Hard Rock Hotel and Casino
 
