@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/general/privacy.html) for the most accurate reproduction.*
 
 # VTAC:General Information:VTAC code of privacy and ethics
 
   
-[About MyInfo](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/myinfo/summary.html "About MyInfo")[Applying](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/applying/index.html "Applying") [Courses](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/courses/index.html "Courses") [Entrance Requirements](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/common/entry_req.html "Entrance Requirements") [Forms](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/general/forms.html "Forms") [Institutions](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/institutions/index.html "Institutions") [Publications](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/publications/index.html "Publications") [Reports, Tables and Papers](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/common/reports.html "Reports and Tables") [Samples and Demos](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/general/demos.html "Samples and Demos") [SEAS](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/seas/index.html "SEAS") [STAT/DULSAT](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/stat/index.html "STAT/DULSAT") [What is VTAC?](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/general/about_vtac.html "What is VTAC?") |  | [ ](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/general/print/privacy.html)  
+[About MyInfo](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/myinfo/summary.html "About MyInfo")[Applying](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/applying/index.html "Applying") [Courses](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/courses/index.html "Courses") [Entrance Requirements](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/common/entry_req.html "Entrance Requirements") [Forms](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/general/forms.html "Forms") [Institutions](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/institutions/index.html "Institutions") [Publications](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/publications/index.html "Publications") [Reports, Tables and Papers](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/common/reports.html "Reports and Tables") [Samples and Demos](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/general/demos.html "Samples and Demos") [SEAS](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/seas/index.html "SEAS") [STAT/DULSAT](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/stat/index.html "STAT/DULSAT") [What is VTAC?](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/general/about_vtac.html "What is VTAC?") |  | [ ](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/general/print/privacy.html)  
 
 
 The institutions that participate in VTAC are committed to observing the VTAC Code of Privacy and Ethics. This code is designed to protect the rights of you, the applicant, institutions and the Victorian Tertiary Admissions Centre (VTAC).
@@ -149,23 +149,25 @@ To obtain a copy of the VTAC Privacy Policy or for any other queries relating to
 Regardless of the success of your application, there are no refunds of either VTAC processing or STAT/DULSAT registration fees. 
 
 |   |   
-|  |   
----|---  
-|  | **Mon 3 Dec 9:00am:** December change of preference opens for all applicants |    
+|  |  | **Mon 4 Aug, 9am:** Timely applications open  |    
+---|---|---|---  
 |   
-|  | **Mon 10 Dec 5:00pm:** Change of preference closes for Graduate Entry Teaching preferences  |    
+|  | **Mon 4 Aug, 9am:** SEAS applications open  |    
 |   
-|  | **Fri 14 Dec 5:00pm:** Very late applications close |    
+|  | **Mon 4 Aug, 9am:** STAT/DULSAT registrations (October sitting) open  |    
 |   
-|  | **Mon 17 Dec 7:00am:** VCE results and ENTERs available on the results website |    
+|  | **Tue 30 September, 5pm:** Timely applications close  |    
 |   
-|  | **Mon 24 Dec 12noon:** Change of Preference closes for all undergraduate applicants (excluding International Baccalaureate and WA applicants)  |    
+|  | **Tue 30 September, 6pm:** Late applications open |    
 |   
-|  | **Sat 5 Jan 2008 9:00am:** International Baccalaureate Notional ENTERs available |    
+|  | **Tue 30 September, 5pm:** STAT/DULSAT registrations (October sitting) close  |    
 |   
-|  | **Sun 6 Jan 2008 12noon:** Change of Preference closes for International Baccalaureate and WA applicants |    
+|  | **Thu 9 October, 9am:** October change of preference opens for applicants who have paid all processing fees  |    
 |   
-|  | **[All dates for the 2008 selection cycle](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/common/dates.html)** |    
+|  | **Fri 10 October, 5pm:** SEAS applications close  |    
 |   
-|  | **[Open Days](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/common/opendays.html)** |    
+|  | **Fri 17 October, 5pm:** October change of preference closes  |    
+|   
+| [All dates for the 2009 selection cycle](https://web.archive.org/web/20080610002335id_/http%3A//www.vtac.edu.au/common/dates.html) |    
+|   
 | 
