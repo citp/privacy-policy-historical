@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalgazette.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211201252id_/http%3A//www.journalgazette.net/apps/pbcs.dll/section%3FCategory%3DABOUT06) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalgazette.net privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609192954id_/http%3A//www.journalgazette.net/apps/pbcs.dll/section%3FCategory%3DABOUT06) for the most accurate reproduction.*
 
 # Terms of Use | The Journal Gazette
 
