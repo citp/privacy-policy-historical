@@ -1,16 +1,26 @@
-<!--The following is the downloaded HTML source of the greenfingers.com privacy policy that was archived on 2007-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071025083713id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greenfingers.com privacy policy that was archived on 2008-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609233414id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
 
+<script language="javascript">
+function showNoImage(e)
+{
+  e.src="http://www.greenfingers.com/images/no_image.gif"
+}	
+</script>
+
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Gardening articledisplay UK</title>
+<title>Gardening articledisplay</title>
 
 
-<meta name="description" content="Greenfingers Gardening UK sheds furniture lighting garden water features">
-<meta name="keywords" content="Greenfingers, Gardening, UK garden, sheds, garden furniture, garden ornaments, garden lighting, water features, gardening tools, garden fencing, fences, plants">
+
+<meta name="description" content="Inspiration for your garden including a full range of garden furniture and much much more : Unbeatable Prices and rapid UK delivery from Greenfingers.com, the UK's leading online Gardening store">
+
+
+<meta name="keywords" content="Gardening, garden, UK garden, sheds, garden furniture, garden ornaments, garden lighting, water features, gardening tools, garden fencing, fences, plants">
 
 <script language="JavaScript" type="text/javascript">
 {
@@ -18,8 +28,8 @@ window.defaultStatus="Greenfingers, the helping hand for all your gardening need
 }
 </script>
 
-
-<script type="text/javascript" src="/include/ajax.js.asp"></script>
+<link rel="stylesheet" type="text/css" href="/css/ajax.css.asp" media="screen">
+<script type="text/javascript" src="/include/ajax_nav.js.asp"></script>
 <script type="text/javascript" src="/include/prototype.js.asp"></script>
 <script type="text/javascript" src="/include/cellchange.js"></script>
 <script type="text/javascript" src="/include/flashobject.js"></script>
@@ -66,16 +76,6 @@ function checkSearchForm(frm){
 }
 //-->
 </script>
-
-<script language="JavaScript" type="text/javascript">
-var navVer = navigator.appVersion;
-if(navVer.substr(0,3) >= 4)
-if((navigator.appName=='Netscape') && (parseInt(navigator.appVersion)==4))
-document.write("<"+"script language='JavaScript' type='text/javascript' src='/include/nsmenu.js'><\/script\>");
-else
-document.write("<"+"script language='JavaScript' type='text/javascript' src='/include/iemenu.js'><\/script\>");
-</script><script language="JavaScript" type="text/javascript" src="/include/iemenu.js"></script>
-
 
 <script language="JavaScript">
 	function imageViewer(fileloc) {
@@ -212,6 +212,9 @@ background-color: #9ccd33
 font-size: 10px;
 font-family: Verdana, sans-serif, arial,helvettica;
 }
+.small_text a:link { font-size: 10px; font-family: Verdana, sans-serif, arial,helvettica; }
+.small_text a:visited { font-size: 10px; font-family: Verdana, sans-serif, arial,helvettica; }
+.small_text a:hover { font-size: 10px; font-family: Verdana, sans-serif, arial,helvettica; }
 
 .small_text_green
 {
@@ -224,6 +227,52 @@ font-family: Verdana, sans-serif, arial,helvettica;
 {
 color: #cc0000;
 font-size: 10px;
+font-family: Verdana, sans-serif, arial,helvettica;
+}
+
+.med_text
+{
+font-size: 12px;
+font-family: Verdana, sans-serif, arial,helvettica;
+}
+.med_text a:link { font-size: 12px; font-family: Verdana, sans-serif, arial,helvettica; }
+.med_text a:visited { font-size: 12px; font-family: Verdana, sans-serif, arial,helvettica; }
+.med_text a:hover { font-size: 12px; font-family: Verdana, sans-serif, arial,helvettica; }
+
+.med_text_green
+{
+color: #007900;
+font-size: 12px;
+font-family: Verdana, sans-serif, arial,helvettica;
+}
+
+.med_text_red
+{
+color: #cc0000;
+font-size: 12px;
+font-family: Verdana, sans-serif, arial,helvettica;
+}
+
+.lge_text
+{
+font-size: 14px;
+font-family: Verdana, sans-serif, arial,helvettica;
+}
+.lge_text a:link { font-size: 14px; font-family: Verdana, sans-serif, arial,helvettica; }
+.lge_text a:visited { font-size: 14px; font-family: Verdana, sans-serif, arial,helvettica; }
+.lge_text a:hover { font-size: 14px; font-family: Verdana, sans-serif, arial,helvettica; }
+
+.lge_text_green
+{
+color: #007900;
+font-size: 14px;
+font-family: Verdana, sans-serif, arial,helvettica;
+}
+
+.lge_text_red
+{
+color: #cc0000;
+font-size: 14px;
 font-family: Verdana, sans-serif, arial,helvettica;
 }
 
@@ -414,6 +463,11 @@ h1.white
 	display:none;
 }
 
+.no_display
+{
+	display: none;
+}
+
 </style>
 <script language="JavaScript" type="text/javascript">
 <!--
@@ -504,14 +558,21 @@ function printDate() {
 
 function displayBanner() {
 	var imageArray = new Array();
-	imageArray[0] = "http://ad.doubleclick.net/ad/N4714.GreenFingers/B2456816;sz=468x60;ord=[timestamp]?";
-	imageArray[1] = "http://ad.doubleclick.net/ad/N4714.GreenFingers/B2457071;sz=468x60;ord=[timestamp]?";
-
+	//imageArray[0] = "http://www.greenfingers.com/images/banners/gf_summer_furniture_07.gif";
+	//imageArray[1] = "http://www.greenfingers.com/images/banners/gf_summer_furniture_07.gif";
+	//imageArray[0] = "http://www.greenfingers.com/images/banners/468x60_christmas.gif";
+	//imageArray[1] = "http://www.greenfingers.com/images/banners/468x60_christmas.gif";
+	imageArray[0] = "http://www.greenfingers.com/images/banners/teak_furniture_468x60.gif";
+	imageArray[1] = "http://www.greenfingers.com/images/banners/teak_furniture_468x60.gif";
 
 
 	var linkArray = new Array();
-	linkArray[0] = "ad.doubleclick.net/jump/N4714.GreenFingers/B2456816;sz=468x60;ord=[timestamp]?";
-	linkArray[1] = "ad.doubleclick.net/jump/N4714.GreenFingers/B2457071;sz=468x60;ord=[timestamp]?";
+	//linkArray[0] = "www.greenfingers.com";
+	//linkArray[1] = "www.greenfingers.com";
+	//linkArray[0] = "www.greenfingers.com/superstore/dept.asp?dept_id=19";
+	//linkArray[1] = "www.greenfingers.com/superstore/dept.asp?dept_id=19";
+	linkArray[0] = "www.greenfingers.com/superstore/category.asp?dept_id=200467";
+	linkArray[1] = "www.greenfingers.com/superstore/category.asp?dept_id=200467";
 	
 
 	
@@ -571,30 +632,85 @@ function OpenCertDetails()
 			}
 // -->
 </script>
-<table border="0" cellpadding="0" cellspacing="0" width="760">
+<table border="0" cellpadding="0" cellspacing="0" width="1000">
 <tbody>
 <tr>
-<td colspan="2" height="115">
-<table border="0" cellpadding="0" cellspacing="0" height="115" width="760">
+<td colspan="5" height="115">
+<table border="0" cellpadding="0" cellspacing="0" height="115" width="1000">
 <tbody>
 <tr>
 <td height="94">
-<table border="0" cellpadding="0" cellspacing="0" height="94" width="760" bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0" height="94" width="1000" bgcolor="#ffffff">
 <tbody>
 <tr>
-<td height="94" valign="bottom" width="292" bgcolor="#ffffff"><img height="94" src="/images/nav/newlogo.gif" alt="Greenfingers.com" width="292"></td>
+<td height="94" valign="bottom" width="222" bgcolor="#ffffff"><img height="94" src="/images/nav/gflogo.gif" alt="Greenfingers.com" width="222"></td>
+<td height="94" valign="bottom" width="310" bgcolor="#ffffff">
+		
+	<table border="0" cellpadding="0" cellspacing="0" height="94">
+		<tbody><tr>
+			<td>
+			
+								<table width="300" border="0" cellspacing="0" cellpadding="1">
+									<tbody><tr>
+										<td bgcolor="#007900" width="100%" align="left">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+												<tbody><tr>
+													<td width="8" align="left" valign="top"><img src="images/pixel.gif" height="11" width="8" border="0"></td>
+													<td align="left" width="100%" rowspan="3">
+														
+														<table border="0" cellpadding="0" cellspacing="0" width="100%">
+															<tbody><tr>
+																<td align="left">
+																	<span class="despatch_percent_medium">5,639</span>
+																</td>
+																<td align="center">
+																	<p><span class="small_text">products available <br>to buy</span></p>
+																</td>
+															
+																<td><img src="images/spacer.gif" width="5px" height="58px"></td>
+															
+																<td align="left">
+																	<span class="despatch_percent_medium">81%</span>
+																</td>
+																<td align="center">
+																	<p><span class="small_text">shipped within 5 working <br>days </span><span class="small_text"><a href="/articledisplay.asp?subcategoryid=49">More...</a></span></p>
+																</td>
+															</tr>
+														</tbody></table>
+
+													</td>
+													<td width="8" align="right" valign="top"><img src="images/pixel.gif" height="11" width="8" border="0"></td>
+												</tr>
+												
+												<tr>
+													<td width="8" align="left" valign="top"><img src="images/pixel.gif" height="11" width="8" border="0"></td>
+													<td width="8" align="right" valign="top"><img src="images/pixel.gif" height="11" width="8" border="0"></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+
+			</td>
+		</tr>
+		<tr>
+			<td valign="bottom"><img height="34" src="/images/nav/l_block.gif" alt="Greenfingers.com" width="310"></td>
+		</tr>
+	</tbody></table>
+		
+</td>
 <td height="94" valign="bottom" width="277">
-<table border="0" cellpadding="0" cellspacing="0" height="94" width="468" bgcolor="#c6e39c">
-<tbody>
-<tr>
-<td colspan="6" height="60" bgcolor="#ffffff">
+						<table border="0" cellpadding="0" cellspacing="0" height="94" width="468" bgcolor="#c6e39c">
+							<tbody>
+								<tr>
+									<td colspan="6" height="60" bgcolor="#ffffff">
 	<!-- ********************   Banner Ad Display Start   ****************** -->
 	
 		<script language="JavaScript">
 		<!--
 			displayBanner();
 		//-->
-		</script><a href="http://ad.doubleclick.net/jump/N4714.GreenFingers/B2456816;sz=468x60;ord=[timestamp]?"><img border="0" src="http://ad.doubleclick.net/ad/N4714.GreenFingers/B2456816;sz=468x60;ord=[timestamp]?" width="468" height="60"><br></a>
+		</script><a href="http://www.greenfingers.com/superstore/category.asp?dept_id=200467"><img border="0" src="http://www.greenfingers.com/images/banners/teak_furniture_468x60.gif" width="468" height="60"><br></a>
 		
 		<!--JavaScript General Redirect Tag // Tag for network 565: MediaRun // Website: Green Fingers // Page: ROS // Placement: 468x60 ROS (1102990) // created at: Aug 14, 2006 5:46:38 PM-->
 		<!--<script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|565|1102990|0|1|ADTECH;loc=100;misc=[TIMESTAMP];rdclick="></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|565|1102990|0|1|ADTECH;loc=300;misc=[TIMESTAMP]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|565|1102990|0|1|ADTECH;loc=300;misc=[TIMESTAMP]" border="0" width="468" height="60"></a></noscript>-->
@@ -611,43 +727,36 @@ function OpenCertDetails()
 
 
 	<!-- ***************  Banner Ad Display End  *****************-->
-</td>
+									</td>
+								</tr>
+								<tr valign="bottom">
+									<td colspan="6" height="7" bgcolor="#ffffff"><img height="6" src="/images/nav/topbar.gif" alt="" width="468"></td>
+								</tr>
+								<tr>
+									<td colspan="6" height="28" width="468" align="right">
+										<table border="0" width="100%" cellpadding="0" cellspacing="0">
+											<tbody><tr>
+												<td>
+													<div align="right"><img border="0" height="28" src="/images/nav/phonebasket.gif" alt="" usemap="#nav" width="136"><map name="nav"><area coords="6,1,91,35" href="/articledisplay.asp?subcategoryid=41" shape="RECT"><area coords="111,14,15" shape="circle" href="/superstore/basket.asp"></map></div>
+												</td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</td>
 </tr>
-<tr valign="bottom">
-<td colspan="6" height="7" bgcolor="#ffffff"><img height="6" src="/images/nav/topbar.gif" alt="" width="468"></td></tr>
-<tr>
-<td height="28" valign="bottom" width="40"><img height="28" src="/images/nav/search.gif" alt="Search" width="40"></td>
-<form name="frmSiteNav" action="/siteresults.asp" onsubmit="return checkSearchForm(this);"></form>
-<td align="middle" bgcolor="#c6e39c" width="102">
-	<select name="ct">
-	<!--OPTION value=""  selected>&lt;Pick One&gt;</OPTION -->
-	<option value="superstoreproducts">Catalogue</option>
-	<option value="gardens">Gardens</option>
-	<option value="glossary">Glossary</option>
-	<option value="history">History</option>
-	<option value="articles">Editorial</option>
-	<option value="storefinder">Nurseries</option>
-	<option value="quickplantfinder">Plants</option>
-	<!--OPTION value="superstoreproducts" >Superstore&nbsp;&nbsp;</OPTION -->
-	<option value="superstoreproducts" selected="">Superstore&nbsp;&nbsp;</option>
-	<option value="articles">Workshops</option>
-	</select> 
-</td>
-<td width="27"><img height="28" src="/images/nav/for.gif" alt="" width="27"></td>
-<td bgcolor="#c6e39c" width="120">
-<div align="left"><input name="query" size="8" maxlength="190"> </div></td>
-<td valign="bottom" width="38">
-<div align="center"><input type="image" border="0" height="28" src="/images/nav/go.gif" alt="Go" width="38"></div></td>
-<td width="136">
-                        <div align="right"><img border="0" height="28" src="/images/nav/phonebasket.gif" alt="" usemap="#nav" width="136"><map name="nav"><area coords="6,1,91,35" href="/articledisplay.asp?subcategoryid=41" shape="RECT"><area coords="111,14,15" shape="circle" href="/superstore/basket.asp"></map></div>
-                      </td></tr></tbody></table></td></tr>
-</tbody></table></td></tr>
 <tr valign="top">
-<td height="21">
-
-<table border="0" cellpadding="0" cellspacing="0" height="21" width="760" bgcolor="#007900">
-
-<tbody>
+	<td height="21">
+		
+		<table border="0" cellpadding="0" cellspacing="0" height="21" width="1000" bgcolor="#007900">
+		
+			<tbody>
 
 
 <tr>
@@ -699,7 +808,710 @@ function OpenCertDetails()
 </tbody></table></td></tr></tbody></table></td></tr>
 
 <tr>
-    <td align="center" valign="top" width="570">
+	<td width="200" valign="top" bgcolor="ffffff"> 
+			
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td align="center" valign="middle"><img width="11" height="5" border="0" src="images/pixel.gif"></td>
+	</tr>
+</tbody></table>
+<script language="JavaScript" type="text/javascript">
+<!--
+//DIGI-SIGN POP-UP
+function poper(){			
+	window.open("https://www.digi-sign.com/digi-seal/siteseal.pl?id=AAEBDB0","newWin","scrollbars=no,status=yes,width=400,height=460")
+};
+-->
+</script>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 0px solid #007900">
+	<tbody><tr>
+		<td align="left" valign="middle"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.greenfingers.com"><img width="115" height="30" border="0" src="//images.scanalert.com/meter/www.greenfingers.com/32.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a></td>
+		<td align="right" valign="middle">
+			<a href="javascript:poper();">
+				<img src="https://www.greenfingers.com/superstore/purchase/images/digi_sign_logo.gif" border="0">
+			</a>
+		</td>
+	</tr>
+</tbody></table>
+
+
+					<img src="/images/spacer.gif" height="5px" width="1px" border="0"><br>
+					<table border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" width="200px">
+						<tbody><tr>
+							<td valign="middle" bgcolor="#007900" height="20" align="center" colspan="3" class="newNav">
+
+								<table border="0" cellpadding="0" cellspacing="2" width="100%">
+									<form action="/siteresults.asp" method="post"></form>
+										<input type="hidden" name="ct" value="superstoreproducts">
+									<tbody><tr>
+										<td colspan="2" align="center" class="newNav">Garden Shop</td>
+									</tr>
+									<tr>
+										<td valign="top">
+											<input type="text" name="query" style="width: 136px; height: 21px; border: 1px solid #9ccd33;">
+										</td>
+										<td valign="middle">
+											<input type="image" border="0" src="/images/nav/search_gf.gif" width="46" height="22">
+										</td>
+									</tr>
+									
+								</tbody></table>
+
+							</td>
+						</tr>
+						<tr>
+							<td align="center" valign="bottom" bgcolor="#007900" height="10" width="1"></td>
+							<td>
+								<table border="0" cellspacing="0" cellpadding="2" width="100%" bgcolor="white">
+									<tbody><tr>
+										<td>
+											<table border="0" cellspacing="0" cellpadding="0" width="100%">
+
+												<tbody><tr height="18" id="dept_id_200404_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/category.asp?dept_id=200404" title="May Special Offers" style="font-size: 12px;" onmouseover="overRow('dept_id_200404_row','#9ccd33');" onmouseout="outRow('dept_id_200404_row','#ffffff');">May Special Offers</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200212_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200212" title="Garden Furniture" style="font-size: 12px;" onmouseover="overRow('dept_id_200212_row','#9ccd33');" onmouseout="outRow('dept_id_200212_row','#ffffff');">Garden Furniture</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+
+
+								<tr height="18" id="jh_dept_id_200461_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200461" title="Garden Furniture (All)" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200461_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200461_row','#c9e39c');">Garden Furniture (All)</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_6547_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=6547" title="Wooden Garden Furniture" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_6547_row','#9ccd33');" onmouseout="outRow('jh_dept_id_6547_row','#c9e39c');">Wooden Garden Furniture</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200471_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200471" title="Garden Furniture Sets" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200471_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200471_row','#c9e39c');">Garden Furniture Sets</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_2213_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=2213" title="Garden Tables" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_2213_row','#9ccd33');" onmouseout="outRow('jh_dept_id_2213_row','#c9e39c');">Garden Tables</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200467_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200467" title="Teak Garden Furniture" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200467_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200467_row','#c9e39c');">Teak Garden Furniture</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200445_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200445" title="Modern Garden Furniture" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200445_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200445_row','#c9e39c');">Modern Garden Furniture</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200472_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200472" title="Garden Chairs" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200472_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200472_row','#c9e39c');">Garden Chairs</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_3456_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=3456" title="Patio Furniture" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_3456_row','#9ccd33');" onmouseout="outRow('jh_dept_id_3456_row','#c9e39c');">Patio Furniture</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200302_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200302" title="Garden Benches" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200302_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200302_row','#c9e39c');">Garden Benches</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200446_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200446" title="Metal Garden Furniture" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200446_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200446_row','#c9e39c');">Metal Garden Furniture</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200442_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200442" title="Picnic Tables" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200442_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200442_row','#c9e39c');">Picnic Tables</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200469_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200469" title="All Weather Synthetic Rattan Furniture" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200469_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200469_row','#c9e39c');">All Weather Synthetic Rattan Furniture</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200301_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200301" title="Garden Swing Seats" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200301_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200301_row','#c9e39c');">Garden Swing Seats</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200303_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/dept.asp?dept_id=200303" title="Garden Hammocks" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200303_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200303_row','#c9e39c');">Garden Hammocks</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200440_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200440" title="FSC Wooden Furniture" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200440_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200440_row','#c9e39c');">FSC Wooden Furniture</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200443_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200443" title="Sun Loungers" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200443_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200443_row','#c9e39c');">Sun Loungers</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200470_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200470" title="Nova Garden Furniture" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200470_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200470_row','#c9e39c');">Nova Garden Furniture</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200492_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200492" title="Tree Seats" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200492_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200492_row','#c9e39c');">Tree Seats</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200388_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200388" title="Furniture Covers" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200388_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200388_row','#c9e39c');">Furniture Covers</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200454_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200454" title="Garden Furniture Seat Cushions" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200454_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200454_row','#c9e39c');">Garden Furniture Seat Cushions</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+
+
+								<tr height="18" id="jh_dept_id_200304_row" bgcolor="#c9e39c">
+									
+									<td style="padding-left:16px;" colspan="11" class="deptMenu" height="18">
+										
+											<a href="/superstore/category.asp?dept_id=200304" title="Awnings and Parasols" style="font-size: 11px;" onmouseover="overRow('jh_dept_id_200304_row','#9ccd33');" onmouseout="outRow('jh_dept_id_200304_row','#c9e39c');">Awnings &amp; Parasols</a>
+										
+									</td>
+								</tr>
+								<tr height="1">
+									<td class="mainnavdivide" colspan="11"></td>
+								</tr>
+								
+								
+												<tr height="18" id="dept_id_200481_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200481" title="Garden Plants" style="font-size: 12px;" onmouseover="overRow('dept_id_200481_row','#9ccd33');" onmouseout="outRow('dept_id_200481_row','#ffffff');">Garden Plants</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200334_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200334" title="Garden Storage &amp; Sheds" style="font-size: 12px;" onmouseover="overRow('dept_id_200334_row','#9ccd33');" onmouseout="outRow('dept_id_200334_row','#ffffff');">Garden Storage &amp; Sheds</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200436_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200436" title="Compost Bins" style="font-size: 12px;" onmouseover="overRow('dept_id_200436_row','#9ccd33');" onmouseout="outRow('dept_id_200436_row','#ffffff');">Compost Bins</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200331_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200331" title="Fencing, Edging &amp; Decking" style="font-size: 12px;" onmouseover="overRow('dept_id_200331_row','#9ccd33');" onmouseout="outRow('dept_id_200331_row','#ffffff');">Fencing, Edging &amp; Decking</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_32_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=32" title="Water Butts &amp; Watering" style="font-size: 12px;" onmouseover="overRow('dept_id_32_row','#9ccd33');" onmouseout="outRow('dept_id_32_row','#ffffff');">Water Butts &amp; Watering</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_46_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=46" title="Solar Garden Lighting" style="font-size: 12px;" onmouseover="overRow('dept_id_46_row','#9ccd33');" onmouseout="outRow('dept_id_46_row','#ffffff');">Solar Garden Lighting</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200326_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200326" title="Garden Water Features" style="font-size: 12px;" onmouseover="overRow('dept_id_200326_row','#9ccd33');" onmouseout="outRow('dept_id_200326_row','#ffffff');">Garden Water Features</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200305_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200305" title="Gazebos, Arches, etc." style="font-size: 12px;" onmouseover="overRow('dept_id_200305_row','#9ccd33');" onmouseout="outRow('dept_id_200305_row','#ffffff');">Gazebos, Arches, etc.</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200218_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200218" title="Garden Ornaments" style="font-size: 12px;" onmouseover="overRow('dept_id_200218_row','#9ccd33');" onmouseout="outRow('dept_id_200218_row','#ffffff');">Garden Ornaments</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200310_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200310" title="Barbecues, BBQs, Barbeques" style="font-size: 12px;" onmouseover="overRow('dept_id_200310_row','#9ccd33');" onmouseout="outRow('dept_id_200310_row','#ffffff');">Barbecues, BBQs, Barbeques</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_20029_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=20029" title="Fire Baskets, Chimineas, etc." style="font-size: 12px;" onmouseover="overRow('dept_id_20029_row','#9ccd33');" onmouseout="outRow('dept_id_20029_row','#ffffff');">Fire Baskets, Chimineas, etc.</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200361_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200361" title="Greenhouses" style="font-size: 12px;" onmouseover="overRow('dept_id_200361_row','#9ccd33');" onmouseout="outRow('dept_id_200361_row','#ffffff');">Greenhouses</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_30_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=30" title="Garden Power Tools" style="font-size: 12px;" onmouseover="overRow('dept_id_30_row','#9ccd33');" onmouseout="outRow('dept_id_30_row','#ffffff');">Garden Power Tools</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200339_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200339" title="Garden Hand Tools" style="font-size: 12px;" onmouseover="overRow('dept_id_200339_row','#9ccd33');" onmouseout="outRow('dept_id_200339_row','#ffffff');">Garden Hand Tools</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_2236_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/category.asp?dept_id=2236" title="Weeding Tools" style="font-size: 12px;" onmouseover="overRow('dept_id_2236_row','#9ccd33');" onmouseout="outRow('dept_id_2236_row','#ffffff');">Weeding Tools</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200475_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200475" title="Garden Equipment" style="font-size: 12px;" onmouseover="overRow('dept_id_200475_row','#9ccd33');" onmouseout="outRow('dept_id_200475_row','#ffffff');">Garden Equipment</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200457_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200457" title="Garden Seeds and Bulbs" style="font-size: 12px;" onmouseover="overRow('dept_id_200457_row','#9ccd33');" onmouseout="outRow('dept_id_200457_row','#ffffff');">Garden Seeds &amp; Bulbs</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200319_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200319" title="Garden Games and Fun" style="font-size: 12px;" onmouseover="overRow('dept_id_200319_row','#9ccd33');" onmouseout="outRow('dept_id_200319_row','#ffffff');">Garden Games &amp; Fun</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200363_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200363" title="Boot Racks &amp; Indoor Stuff" style="font-size: 12px;" onmouseover="overRow('dept_id_200363_row','#9ccd33');" onmouseout="outRow('dept_id_200363_row','#ffffff');">Boot Racks &amp; Indoor Stuff</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200375_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200375" title="Pots &amp; Planters" style="font-size: 12px;" onmouseover="overRow('dept_id_200375_row','#9ccd33');" onmouseout="outRow('dept_id_200375_row','#ffffff');">Pots &amp; Planters</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_13_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=13" title="Lawn &amp; Plant Care &amp; Weed Killers" style="font-size: 12px;" onmouseover="overRow('dept_id_13_row','#9ccd33');" onmouseout="outRow('dept_id_13_row','#ffffff');">Lawn &amp; Plant Care &amp; Weed Killers</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200349_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=200349" title="Pest Control" style="font-size: 12px;" onmouseover="overRow('dept_id_200349_row','#9ccd33');" onmouseout="outRow('dept_id_200349_row','#ffffff');">Pest Control</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_20022_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=20022" title="Garden Clothing" style="font-size: 12px;" onmouseover="overRow('dept_id_20022_row','#9ccd33');" onmouseout="outRow('dept_id_20022_row','#ffffff');">Garden Clothing</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_2234_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=2234" title="Wild Bird Food and Other Wildlife" style="font-size: 12px;" onmouseover="overRow('dept_id_2234_row','#9ccd33');" onmouseout="outRow('dept_id_2234_row','#ffffff');">Wild Bird Food &amp; Other Wildlife</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_19_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=19" title="Gardening Gifts" style="font-size: 12px;" onmouseover="overRow('dept_id_19_row','#9ccd33');" onmouseout="outRow('dept_id_19_row','#ffffff');">Gardening Gifts</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_900000_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/dept.asp?dept_id=900000" title="Pet Products" style="font-size: 12px;" onmouseover="overRow('dept_id_900000_row','#9ccd33');" onmouseout="outRow('dept_id_900000_row','#ffffff');">Pet Products</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200353_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/category.asp?dept_id=200353" title="Innovations / New Products" style="font-size: 12px;" onmouseover="overRow('dept_id_200353_row','#9ccd33');" onmouseout="outRow('dept_id_200353_row','#ffffff');">Innovations / New Products</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+												<tr height="18" id="dept_id_200387_row" bgcolor="#ffffff">
+													<td width="10" height="18">&nbsp;</td>
+													<td colspan="10" class="deptMenu" height="18">
+														<a href="/superstore/category.asp?dept_id=200387" title="Clearance: 50% OFF" style="font-size: 12px;" onmouseover="overRow('dept_id_200387_row','#9ccd33');" onmouseout="outRow('dept_id_200387_row','#ffffff');">Clearance: 50% OFF</a>
+													</td>
+												</tr>
+												<tr height="1">
+													<td class="mainnavdivide" colspan="11"></td>
+												</tr>
+
+											</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+								<table border="0" cellspacing="0" cellpadding="0" width="90%" align="center">
+									<tbody><tr>
+										<td><img src="/images/pixel.gif" width="1" height="7" border="0"></td>
+									</tr>
+									<tr>
+										<td><a href="/ipoints.asp"><img src="/images/ipoints_logo_55x28.gif" width="55" height="28" border="0"></a></td>
+										<td align="center">
+											<a href="/ipoints.asp"><font color="#000000"><u>Earn ipoints on all <br>your purchases</u></font></a><font color="#000000">
+										</font></td>
+									</tr>
+									<tr>
+										<td><img src="/images/pixel.gif" width="1" height="7" border="0"></td>
+									</tr>
+								</tbody></table>
+							</td>
+							<td align="center" valign="bottom" bgcolor="#007900" height="10" width="1"></td>
+						</tr>
+						<tr>
+							<td align="center" valign="bottom" bgcolor="#007900" height="1" colspan="3"></td>
+						</tr>
+					</tbody></table>
+	
+	</td>
+	<td><img src="images/spacer.gif" width="5px" height="5px"></td>
+    <td align="center" valign="top" width="590">
     
      <!-- end of top section -->
 
@@ -829,32 +1641,32 @@ function OpenSearchWindow( strType ,strWidth, strHeight, strReference, strKeywor
 								<div id="gf_offers_div"></div>
 
 								<script type="text/javascript">
-									var fo = new FlashObject("/gf_offers.swf", "t_temp", "565", "200", "6", "#ffffff");
-									fo.addVariable("offer_id", "98,99,97,100,96,101,102,95,103");
+									var fo = new FlashObject("/gf_offers.swf", "t_temp", "590", "200", "6", "#ffffff");
+									fo.addVariable("offer_id", "126,127,125,128,129,130,131,132");
 									fo.write("gf_offers_div");
 								</script>
 
 								<noscript>
-   									<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"        codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="565" HEIGHT="200" id="gf_offers" ALIGN="">
-										<PARAM NAME=movie VALUE="/gf_offers.swf?offer_id=98,99,97,100,96,101,102,95,103">
+   									<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"         codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="590" HEIGHT="200" id="gf_offers" ALIGN="">
+										<PARAM NAME=movie VALUE="/gf_offers.swf?offer_id=126,127,125,128,129,130,131,132">
 										<PARAM NAME=quality VALUE=high>
 										<PARAM NAME=bgcolor VALUE=#FFFFFF>
-										<EMBED src="/gf_offers.swf?offer_id=98,99,97,100,96,101,102,95,103" quality=high bgcolor=#FFFFFF  WIDTH="565" HEIGHT="200" NAME="gf_offers" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED>
+										<EMBED src="/gf_offers.swf?offer_id=126,127,125,128,129,130,131,132" quality=high bgcolor=#FFFFFF  WIDTH="590" HEIGHT="200" NAME="gf_offers" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED>
 									</OBJECT>
 								</noscript>
 <!--
 								<script type="text/javascript">
 									var fo = new FlashObject("gf_offers.swf", "t_temp", "478", "200", "6", "#ffffff");
-									fo.addVariable("offer_id", "98,99,97,100,96,101,102,95,103");
+									fo.addVariable("offer_id", "126,127,125,128,129,130,131,132");
 									fo.write("gf_offers_div");
 								</script>
 
 								<noscript>
    									<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"        codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="478" HEIGHT="200" id="gf_offers" ALIGN="">
-										<PARAM NAME=movie VALUE="gf_offers.swf?offer_id=98,99,97,100,96,101,102,95,103">
+										<PARAM NAME=movie VALUE="gf_offers.swf?offer_id=126,127,125,128,129,130,131,132">
 										<PARAM NAME=quality VALUE=high>
 										<PARAM NAME=bgcolor VALUE=#FFFFFF>
-										<EMBED src="gf_offers.swf?offer_id=98,99,97,100,96,101,102,95,103" quality=high bgcolor=#FFFFFF  WIDTH="478" HEIGHT="200" NAME="gf_offers" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED>
+										<EMBED src="gf_offers.swf?offer_id=126,127,125,128,129,130,131,132" quality=high bgcolor=#FFFFFF  WIDTH="478" HEIGHT="200" NAME="gf_offers" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED>
 									</OBJECT>
 								</noscript>
 -->
@@ -974,376 +1786,154 @@ about our privacy policy, please e-mail us at <a href="mailto:customer.services@
 <!-- start of bottom section -->
 
 
+
 </td>
-		<td width="190" valign="top" bgcolor="ffffff"> 
+		<td><img src="/images/pixel.gif" width="5px" height="1px"></td>
+		
+		<td width="200" valign="top" bgcolor="ffffff"> 
+			<img src="/images/spacer.gif" height="5px" width="1px" border="0"><br><table border="0" cellpadding="0" cellspacing="0" width="200" align="center" bgcolor="ffffff" height="100%" valign="top">
 			
-			<img src="/images/spacer.gif" height="5px" width="1px" border="0"><br><table border="0" cellpadding="0" cellspacing="0" width="180" align="center" bgcolor="ffffff" height="100%" valign="top">
-			
-
-</table><table width="190" border="0" cellspacing="0" bgcolor="#c6e39c">
-	<tbody><tr bgcolor="#c6e39c"> 
-		<td bgcolor="#007b00" colspan="2" width="190"><img align="center" height="20" src="/images/nav/sign_up_for_offers.gif" width="176"></td>
-	</tr>
-	<tr>
-		<td align="center"><img src="/images/nav/email_sign_up.gif" width="130" height="20"></td>
-	</tr>
-	
-	<tr>
-		<td bgcolor="#c6e39c" align="center">
-		<form method="post" action="http://www.greenfingers.com/superstore/register.asp" name="">
-			<table border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td><img src="/images/spacer.gif" width="7px" height="2px" border="0"></td>
-					<td align="center"><input type="text" name="shopper_email" size="16" value="Your email address" onclick="javascript: this.value=''" onload="javascript: this.value='Your email address'"></td>
-					<td><img src="/images/spacer.gif" width="7px" height="2px" border="0"></td>
-					<td align="right"><input type="image" onclick="" border="0" src="/images/nav/go_40x25.gif" width="29" height="29" id="image1" name="image1"></td>
-				</tr>
-			</tbody></table>
-			</form>
-		</td>
-	</tr>
-	
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td align="center" valign="middle"><img width="11" height="5" border="0" src="images/pixel.gif"></td>
-	</tr>
-</tbody></table>
-<script language="JavaScript" type="text/javascript">
-<!--
-//DIGI-SIGN POP-UP
-function poper(){			
-	window.open("https://www.digi-sign.com/digi-seal/siteseal.pl?id=5F1F750","newWin","	scrollbars=no,status=yes,width=400,height=460")
-};
--->
-</script>
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 0px solid #007900">
-	<tbody><tr>
-		<td align="left" valign="middle"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.greenfingers.com"><img width="115" height="30" border="0" src="//images.scanalert.com/meter/www.greenfingers.com/32.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a></td>
-		<td align="right" valign="middle">
-			<a href="javascript:poper();">
-				<img src="https://www.greenfingers.com/superstore/purchase/images/digi_sign_logo.gif" border="0">
-			</a>
-		</td>
-	</tr>
-</tbody></table>
-
-					<img src="/images/spacer.gif" height="5px" width="1px" border="0"><br>
-					<table border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" width="190px">
+				
+				</table><table border="0" cellpadding="0" cellspacing="1" bgcolor="#007900" width="200">
+					<tbody><tr>
+						<td class="newNav2" align="center" height="34px">
+							<font color="#ffffff">Subscribe to receive special offers</font>
+						</td>
+					</tr>
+					<tr>
+						<td><img src="http://www.greenfingers.com/images/special_offers_mix.gif" width="198px" height="60px"></td>
+					</tr>
+					<form method="post" action="http://www.greenfingers.com/superstore/register.asp" name="frmSubscribe" id="frmSubscribe"></form>
+					<tr>
+						<td bgcolor="#ffffff" align="center">
+							<table border="0" cellpadding="1" cellspacing="0">
+								<tbody><tr>
+									<td bgcolor="#ffffff" height="10"></td>
+								</tr>
+								<tr>
+									<td><img src="/images/spacer.gif" width="7px" height="2px" border="0"></td>
+									<td align="center"><input type="text" name="shopper_email" size="20" value="Enter your email" onclick="javascript: this.value=''" onload="javascript: this.value='Your email address'"></td>
+									<td><img src="/images/spacer.gif" width="7px" height="2px" border="0"></td>
+									<td align="right"><input type="image" onclick="" border="0" src="/images/nav/go_29x29.gif" width="25" height="25" id="image1" name="image1"></td>
+								</tr>
+								<tr>
+									<td bgcolor="#ffffff" align="center" valign="top" colspan="4">Or Log on <a href="http://www.greenfingers.com/superstore/club-login.asp">here</a></td>
+								</tr>
+								<tr>
+									<td bgcolor="#ffffff" height="5"></td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+					
+				</tbody></table>
+				
+				<img src="/images/spacer.gif" height="5px" width="1px" border="0"><br>
+				
+				<table border="0" cellpadding="0" cellspacing="1" bgcolor="#007900" width="198">
+					<tbody><tr>
+						<td class="newNav2" align="center" height="20px">
+							<a href="/articledisplay.asp?subcategoryid=49" title="Delivery"><font color="#ffffff">Delivery</font></a>
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#ffffff" align="center">
+							<table border="0" cellpadding="1" cellspacing="0">
+								<tbody><tr>
+									<td><a href="http://www.greenfingers.com/articledisplay.asp?subcategoryid=49"><img src="http://www.greenfingers.com/images/nav/free_delivery.gif" border="0"></a></td>
+								</tr>
+								<tr>
+									<td class="newNav2" align="center" height="5px" bgcolor="#ffffff">
+										<a href="/articledisplay.asp?subcategoryid=49" title="Delivery"><font color="#007900"><span style="font-size:11px;"><b>Express Despatch Service Available</b></span></font></a>
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+				
+				<img src="/images/spacer.gif" height="5px" width="1px" border="0"><br>
+				
+				<table border="0" cellpadding="0" cellspacing="1" bgcolor="#007900" width="198">
+					
+					<tbody><tr>
+						<td bgcolor="#ffffff" align="center">
+							<table border="0" cellpadding="1" cellspacing="0">
+								
+								<tbody><tr>
+									<td bgcolor="#ffffff"><img src="http://www.greenfingers.com/images/pp_mix.gif" border="0"></td>
+								</tr>
+								<tr>
+									<td align="center">
+										<font color="#000000"><b>Visit our sister site for <br>fantastic <a href="http://www.petplanet.co.uk">pet supplies</a> offers</b></font>
+									</td>
+								</tr>
+								<tr>
+									<td><img src="/images/spacer.gif" height="5px" width="1px" border="0"></td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+				
+				<img src="/images/spacer.gif" height="5px" width="1px" border="0"><br>
+				
+					<table border="0" cellpadding="0" cellspacing="1" bgcolor="#007900" width="200">
 						<tbody><tr>
-							<td valign="middle" bgcolor="#007900" height="20" align="center" colspan="3" class="newNav">
-								Garden Shop
+							<td class="newNav2" align="center" height="20px">
+								<font color="#ffffff">Phone Orders Welcome</font>
 							</td>
 						</tr>
 						<tr>
-							<td align="center" valign="bottom" bgcolor="#007900" height="10" width="1"></td>
-							<td>
-								<table border="0" cellspacing="0" cellpadding="2" width="100%" bgcolor="white">
+							<td bgcolor="#ffffff" align="center">
+								<table border="0" cellpadding="1" cellspacing="0">
 									<tbody><tr>
-										<td>
-											<table border="0" cellspacing="0" cellpadding="0" width="100%">
-
-												<tbody><tr height="18" id="dept_id_200419_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200419" title="End of Summer Sale" style="font-size: 12px;" onmouseover="overRow('dept_id_200419_row','#9ccd33');" onmouseout="outRow('dept_id_200419_row','#ffffff');">End of Summer Sale</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200404_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/category.asp?dept_id=200404" title="October Special Offers" style="font-size: 12px;" onmouseover="overRow('dept_id_200404_row','#9ccd33');" onmouseout="outRow('dept_id_200404_row','#ffffff');">October Special Offers</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_19_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=19" title="Christmas Gardening Gifts" style="font-size: 12px;" onmouseover="overRow('dept_id_19_row','#9ccd33');" onmouseout="outRow('dept_id_19_row','#ffffff');">Christmas Gardening Gifts</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200212_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200212" title="Garden Furniture" style="font-size: 12px;" onmouseover="overRow('dept_id_200212_row','#9ccd33');" onmouseout="outRow('dept_id_200212_row','#ffffff');">Garden Furniture</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_6547_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/category.asp?dept_id=6547" title="Wooden Garden Furniture" style="font-size: 12px;" onmouseover="overRow('dept_id_6547_row','#9ccd33');" onmouseout="outRow('dept_id_6547_row','#ffffff');">Wooden Garden Furniture</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200436_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200436" title="Compost Bins &amp; Accessories" style="font-size: 12px;" onmouseover="overRow('dept_id_200436_row','#9ccd33');" onmouseout="outRow('dept_id_200436_row','#ffffff');">Compost Bins &amp; Accessories</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200334_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200334" title="Garden Storage &amp; Sheds" style="font-size: 12px;" onmouseover="overRow('dept_id_200334_row','#9ccd33');" onmouseout="outRow('dept_id_200334_row','#ffffff');">Garden Storage &amp; Sheds</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_20029_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=20029" title="Fire Baskets, Chimineas, etc." style="font-size: 12px;" onmouseover="overRow('dept_id_20029_row','#9ccd33');" onmouseout="outRow('dept_id_20029_row','#ffffff');">Fire Baskets, Chimineas, etc.</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_46_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=46" title="Solar Lighting" style="font-size: 12px;" onmouseover="overRow('dept_id_46_row','#9ccd33');" onmouseout="outRow('dept_id_46_row','#ffffff');">Solar Lighting</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200363_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200363" title="Boot Racks &amp; Indoor Stuff" style="font-size: 12px;" onmouseover="overRow('dept_id_200363_row','#9ccd33');" onmouseout="outRow('dept_id_200363_row','#ffffff');">Boot Racks &amp; Indoor Stuff</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_2234_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=2234" title="Wild Bird Food and Other Wildlife" style="font-size: 12px;" onmouseover="overRow('dept_id_2234_row','#9ccd33');" onmouseout="outRow('dept_id_2234_row','#ffffff');">Wild Bird Food &amp; Other Wildlife</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200457_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200457" title="Garden Seeds and Bulbs" style="font-size: 12px;" onmouseover="overRow('dept_id_200457_row','#9ccd33');" onmouseout="outRow('dept_id_200457_row','#ffffff');">Garden Seeds &amp; Bulbs</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_30_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=30" title="Garden Tools &amp; Equipment" style="font-size: 12px;" onmouseover="overRow('dept_id_30_row','#9ccd33');" onmouseout="outRow('dept_id_30_row','#ffffff');">Garden Tools &amp; Equipment</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200305_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200305" title="Gazebos, Arches, etc." style="font-size: 12px;" onmouseover="overRow('dept_id_200305_row','#9ccd33');" onmouseout="outRow('dept_id_200305_row','#ffffff');">Gazebos, Arches, etc.</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200218_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200218" title="Garden Ornaments" style="font-size: 12px;" onmouseover="overRow('dept_id_200218_row','#9ccd33');" onmouseout="outRow('dept_id_200218_row','#ffffff');">Garden Ornaments</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_20022_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=20022" title="Garden Clothing" style="font-size: 12px;" onmouseover="overRow('dept_id_20022_row','#9ccd33');" onmouseout="outRow('dept_id_20022_row','#ffffff');">Garden Clothing</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200326_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200326" title="Garden Water Features" style="font-size: 12px;" onmouseover="overRow('dept_id_200326_row','#9ccd33');" onmouseout="outRow('dept_id_200326_row','#ffffff');">Garden Water Features</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_32_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=32" title="Water Butts &amp; Watering" style="font-size: 12px;" onmouseover="overRow('dept_id_32_row','#9ccd33');" onmouseout="outRow('dept_id_32_row','#ffffff');">Water Butts &amp; Watering</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200349_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200349" title="Pest Control" style="font-size: 12px;" onmouseover="overRow('dept_id_200349_row','#9ccd33');" onmouseout="outRow('dept_id_200349_row','#ffffff');">Pest Control</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_2236_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/category.asp?dept_id=2236" title="Weeding Products" style="font-size: 12px;" onmouseover="overRow('dept_id_2236_row','#9ccd33');" onmouseout="outRow('dept_id_2236_row','#ffffff');">Weeding Products</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200331_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200331" title="Fencing, Edging &amp; Decking" style="font-size: 12px;" onmouseover="overRow('dept_id_200331_row','#9ccd33');" onmouseout="outRow('dept_id_200331_row','#ffffff');">Fencing, Edging &amp; Decking</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200361_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200361" title="Greenhouses" style="font-size: 12px;" onmouseover="overRow('dept_id_200361_row','#9ccd33');" onmouseout="outRow('dept_id_200361_row','#ffffff');">Greenhouses</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200375_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200375" title="Pots &amp; Planters" style="font-size: 12px;" onmouseover="overRow('dept_id_200375_row','#9ccd33');" onmouseout="outRow('dept_id_200375_row','#ffffff');">Pots &amp; Planters</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_13_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=13" title="Plantcare &amp; Lawncare" style="font-size: 12px;" onmouseover="overRow('dept_id_13_row','#9ccd33');" onmouseout="outRow('dept_id_13_row','#ffffff');">Plantcare &amp; Lawncare</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200310_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200310" title="Barbecues, BBQs, Barbeques" style="font-size: 12px;" onmouseover="overRow('dept_id_200310_row','#9ccd33');" onmouseout="outRow('dept_id_200310_row','#ffffff');">Barbecues, BBQs, Barbeques</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200319_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=200319" title="Garden Games and Fun" style="font-size: 12px;" onmouseover="overRow('dept_id_200319_row','#9ccd33');" onmouseout="outRow('dept_id_200319_row','#ffffff');">Garden Games &amp; Fun</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_900000_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/dept.asp?dept_id=900000" title="Pet Products" style="font-size: 12px;" onmouseover="overRow('dept_id_900000_row','#9ccd33');" onmouseout="outRow('dept_id_900000_row','#ffffff');">Pet Products</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200353_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/category.asp?dept_id=200353" title="Innovations / New Products" style="font-size: 12px;" onmouseover="overRow('dept_id_200353_row','#9ccd33');" onmouseout="outRow('dept_id_200353_row','#ffffff');">Innovations / New Products</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-												<tr height="18" id="dept_id_200387_row" bgcolor="#ffffff">
-													<td width="10" height="18">&nbsp;</td>
-													<td colspan="10" class="deptMenu" height="18">
-														<a href="/superstore/category.asp?dept_id=200387" title="Clearance: 50% OFF" style="font-size: 12px;" onmouseover="overRow('dept_id_200387_row','#9ccd33');" onmouseout="outRow('dept_id_200387_row','#ffffff');">Clearance: 50% OFF</a>
-													</td>
-												</tr>
-												<tr height="1">
-													<td class="mainnavdivide" colspan="11"></td>
-												</tr>
-
-											</tbody></table>
+										<td bgcolor="#ffffff" height="5"></td>
+									</tr>
+									<tr>
+										<td align="center">
+											<font color="#000000">Discounts available on bulk orders.<br> To discuss your requirements please call <b>0845 345 0728</b></font>
 										</td>
+									</tr>
+									<tr>
+										<td bgcolor="#ffffff" height="5"></td>
 									</tr>
 								</tbody></table>
 							</td>
-							<td align="center" valign="bottom" bgcolor="#007900" height="10" width="1"></td>
-						</tr>
-						<tr>
-							<td align="center" valign="bottom" bgcolor="#007900" height="1" colspan="3"></td>
 						</tr>
 					</tbody></table>
+					
+					<img src="/images/spacer.gif" height="5px" width="1px" border="0"><br>
+					
+					<table border="0" cellpadding="0" cellspacing="1" bgcolor="#007900" width="200">
+						<tbody><tr>
+							<td align="center" bgcolor="#ffffff">
+								<table border="0" cellpadding="0" cellspacing="0" width="198">
+									<tbody><tr>
+										<td valign="middle" bgcolor="#007900" height="20" align="center" colspan="3" class="newNav">
+											Garden Furniture Star Buy
+										</td>
+									</tr>
+									<tr>
+										<td><img src="images/pixel.gif" border="0" width="5px" height="5px"></td>
+									</tr>
+									<!--<tr>
+										<td align="center"><p>Save <font color="#cc0000"><b>£££'s</b></font> on a range of garden furniture.</td>
+									</tr>-->
+									<tr>
+										<td align="center"><a href="http://www.greenfingers.com/superstore/product.asp?dept_id=200471&amp;pf_id=LK3343D"><img src="http://www.greenfingers.com/images/offer/LK3343D.gif" alt="Special Offers" width="188" border="0" height="150"></a></td>
+									</tr>
+									<tr>
+										<td align="center"><p><a href="http://www.greenfingers.com/superstore/product.asp?dept_id=200471&amp;pf_id=LK3343D">Monterrey Directors Set</a><br><b><font color="#cc0000">Was £179 Now £149</font></b></p><p>New offers added every month! <br><a href="http://www.greenfingers.com/superstore/category.asp?dept_id=200404">Click here to view</a></p></td>
+									</tr>
+									<tr>
+										<td><img src="images/pixel.gif" border="0" width="5px" height="5px"></td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+				</tbody></table>
+				
 
 			</td></tr></tbody></table>
 		
@@ -1351,78 +1941,81 @@ function poper(){
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="760" height="39">
-  <tbody> 
-  <tr> 
-    <td colspan="8">
-      <table width="760" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td width="81" height="30"><a href="javascript:history.go(-1);"><img src="/images/nav/back.gif" width="42" height="16" hspace="5" border="0"></a></td>
-          <td width="436">&nbsp;</td>
-          <td width="53"><div align="right"><a href="#"><img src="/images/nav/top.gif" width="34" height="16" hspace="5" border="0"></a></div></td>
-		  <td width="190" bgcolor="#ffffff">&nbsp;</td></tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="8">
-    <table width="760" border="0" cellspacing="0" cellpadding="0" height="16" bgcolor="#007900"> 
-<tbody><tr> <td width="51" valign="BOTTOM"><div align="CENTER"><img src="/images/nav/bar_l.gif" width="50" height="2"></div></td><td width="82"><div align="CENTER"><a href="/articledisplay.asp?subcategoryid=42" class="footer"><b>About 
-Us</b></a></div></td><td width="84"><div align="CENTER"><a href="/articledisplay.asp?subcategoryid=43" class="footer">Contact 
-Us</a></div></td><td width="103"><div align="CENTER"><a href="/superstore/receipts.asp" class="footer">Your 
-Account</a></div></td><td width="115"><div align="CENTER"><a href="/articledisplay.asp?gfAdSection=HELPINGHANDS&amp;id=1649" class="footer"> 
-Our Guarantee</a></div></td><td width="143"><div align="CENTER"><a href="/articledisplay.asp?subcategoryid=41" class="footer">Customer 
-Services </a></div></td><td width="128"><div align="CENTER"><a href="/superstore/club-login.asp" class="footer">Register/Log-In</a></div></td><td width="54" valign="BOTTOM"><img src="/images/nav/bar_r.gif" width="50" height="2"></td></tr> 
-</tbody></table>
-    </td>
-  </tr>
-  <tr> 
-    <td colspan="8" height="25"> 
-            
-          <div></div><table height="20" cellspacing="0" cellpadding="3" width="775" align="center" border="0">
+<tbody> 
+	<tr> 
+		<td colspan="8">
+			<table width="1000" border="0" cellspacing="0" cellpadding="0">
+			  <tbody><tr> 
+			    <td width="81" height="30"><a href="javascript:history.go(-1);"><img src="/images/nav/back.gif" width="42" height="16" hspace="5" border="0"></a></td>
+			    <td width="1000">&nbsp;</td>
+			    <td width="53"><div align="right"><a href="#"><img src="/images/nav/top.gif" width="34" height="16" hspace="5" border="0"></a></div></td>
+			    <td width="190" bgcolor="#ffffff">&nbsp;</td></tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+	    <td colspan="8">
+			<table width="1000" border="0" cellspacing="0" cellpadding="0" height="16" bgcolor="#007900"> 
+				<tbody><tr>
+					<td width="51" valign="BOTTOM"><div align="CENTER"><img src="/images/nav/bar_l.gif" width="50" height="2"></div></td>
+					<td width="82"><div align="CENTER"><a href="/articledisplay.asp?subcategoryid=42" class="footer"><b>About Us</b></a></div></td>
+					<td width="84"><div align="CENTER"><a href="/articledisplay.asp?subcategoryid=43" class="footer">Contact Us</a></div></td>
+					<td width="103"><div align="CENTER"><a href="/superstore/receipts.asp" class="footer">Your Account</a></div></td>
+					<td width="115"><div align="CENTER"><a href="/articledisplay.asp?gfAdSection=HELPINGHANDS&amp;id=1649" class="footer">Our Guarantee</a></div></td>
+					<td width="143"><div align="CENTER"><a href="/articledisplay.asp?subcategoryid=41" class="footer">Customer Services </a></div></td>
+					<td width="128"><div align="CENTER"><a href="/superstore/club-login.asp" class="footer">Register/Log-In</a></div></td>
+					<td width="54" valign="BOTTOM"><img src="/images/nav/bar_r.gif" width="50" height="2"></td>
+				</tr> 
+			</tbody></table>
+		</td>
+	</tr>
+	<tr> 
+	<td colspan="8" height="25"> 
+		<div></div><table height="20" cellspacing="0" cellpadding="3" width="800" align="center" border="0">
             <tbody> 
-            <tr> 
-               <td width="66"> 
-                <div align="center"><a href="/sitemap.asp"><b>Gardening Content</b></a></div>
-              </td>
-              <td width="66"> 
-                <div align="center"><a href="/gardenbase/askgeorgehome.asp"><b>Ask George</b></a></div>
-              </td>
-              <td width="66"> 
-                <div align="center"><a href="/gardenclub/gardenclub.asp"><b>Garden Club</b></a></div>
-              </td>
-             <td width="66"> 
-                <div align="center"><a href="/articledisplay.asp?subcategoryid=55"><b>Affiliates</b></a></div>
-              </td>
-              <td width="87"> 
-                <div align="center"><a class="homecontent" href="/articledisplay.asp?subcategoryid=57"><b>Privacy Policy</b> 
-                  </a></div>
-              </td>
-              
-              <td width="96"> 
-                <div align="center"><a class="homecontent" href="/articledisplay.asp?subcategoryid=47"><b>Payment Policy</b></a> 
-                </div>
-              </td>
-              <td width="54"> 
-                <div align="center"><a class="homecontent" href="/articledisplay.asp?subcategoryid=44"><b>Security</b></a></div>
-              </td>
-              <td width="128"> 
-                <div align="center"><a class="homecontent" href="/articledisplay.asp?subcategoryid=48"><b>Returns and 
-                  Refunds</b></a></div>
-              </td>
-              <td width="58"> 
-                <div align="center"><a class="homecontent" href="/articledisplay.asp?subcategoryid=49"><b>Delivery</b></a></div>
-              </td>
-              <td width="134"> 
-                <div align="center"><a class="homecontent" href="/articledisplay.asp?subcategoryid=51"><b>Greenfingers 
-                  Appeal</b></a></div>
-              </td>
-              <td width="134"> 
-                <div align="center"><a class="homecontent" href="/gardening_sites.htm"><b>Gardening Sites</b></a></div>
-              </td>
-            </tr>
-            <tr></tr>
+			<tr> 
+				 <td width="66"> 
+				  <div align="center"><a href="/sitemap.asp"><b>Gardening Content</b></a></div>
+				</td>
+				 <!--<td width=66> 
+				   <div align=center><a href="/gardenbase/askgeorgehome.asp"><b>Ask George</b></a></div>
+				 </td>
+				 <td width=66> 
+				   <div align=center><a href="/gardenclub/gardenclub.asp"><b>Garden Club</b></a></div>
+				 </td>-->
+				 <td width="70"> 
+				   <div align="center"><a class="homecontent" href="/superstore/dept.asp?dept_id=200212"><b>Garden Furniture</b></a></div>
+				 </td>
+				<td width="66"> 
+				   <div align="center"><a href="/articledisplay.asp?subcategoryid=55"><b>Affiliates</b></a></div>
+				 </td>
+				 <td width="87"> 
+				   <div align="center"><a class="homecontent" href="/articledisplay.asp?subcategoryid=57"><b>Privacy Policy</b> 
+				     </a></div>
+				 </td>
+				 
+				 <td width="96"> 
+				   <div align="center"><a class="homecontent" href="/articledisplay.asp?subcategoryid=47"><b>Payment Policy</b></a> 
+				   </div>
+				 </td>
+				 <td width="54"> 
+				   <div align="center"><a class="homecontent" href="/articledisplay.asp?subcategoryid=44"><b>Security</b></a></div>
+				 </td>
+				 <td width="128"> 
+				   <div align="center"><a class="homecontent" href="/articledisplay.asp?subcategoryid=48"><b>Returns and Refunds</b></a></div>
+				 </td>
+				 <td width="58"> 
+				   <div align="center"><a class="homecontent" href="/articledisplay.asp?subcategoryid=49"><b>Delivery</b></a></div>
+				 </td>
+				 
+				 <td width="134"> 
+				   <div align="center"><a class="homecontent" href="/gardening_sites.htm"><b>Gardening Sites</b></a></div>
+				 </td>
+			</tr>
+			<tr>
+			</tr>
             </tbody> 
-          </table>
+		</table>
           
           <center>
 
@@ -1459,6 +2052,21 @@ Greenfingers Ltd. 2001</font></a>
 	_uacct = "UA-452070-1";
 	urchinTracker();
 	</script>
+
+	
+	
+	
+	<script src="https://app.communicatorcorp.com/public/scripts/ConversionTracking.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	cc_Duration = 10;
+	ProcessInbound();
+	</script>
+	
+
+
+
+
+
 
 
 
