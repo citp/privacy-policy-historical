@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indigoclothing.com privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103083726id_/http%3A//www.indigoclothing.com/info_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indigoclothing.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609095433id_/http%3A//www.indigoclothing.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Indigo Clothing
+# Privacy Policy | Indigo Clothing | T-shirt Printing - Promotional Clothing - Embroidery
 
 At Indigo Clothing Ltd. we are committed to protecting your privacy. Please read on for more details about our privacy policy.
 
@@ -14,7 +14,7 @@ When you place an order or request a quote we need to know your name, e-mail add
 
 Your telephone number is also collected in case we need to contact you urgently if there is a problem with your order.
 
-We may also use the order details to occasionally notify you about changes to the website, new services and special offers we think you may find useful. You can opt out by visiting the [newsletter section ](http://www.indigoclothing.com/info_newsletter.shtml)of the website or by [contacting us](https://web.archive.org/web/20071103083726id_/http%3A//www.indigoclothing.com/info_contact.shtml).
+We may also use the order details to occasionally notify you about changes to the website, new services and special offers we think you may find useful. You can opt out by [contacting us](https://web.archive.org/contact/).
 
 We do not sell, trade, rent or otherwise pass your personal details to any third party.
 
