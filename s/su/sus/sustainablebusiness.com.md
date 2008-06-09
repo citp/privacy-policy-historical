@@ -1,21 +1,18 @@
-> *The following text is extracted and transformed from the sustainablebusiness.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011173226id_/http%3A//www.sustainablebusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sustainablebusiness.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609084233id_/http%3A//www.sustainablebusiness.com/index.cfm/go/info.privacypolicy) for the most accurate reproduction.*
 
-# Sustainable Business, Green Business, Renewable Energy, Organic & Green Investing, Green Capital
+# SustainableBusiness.com
 
-  
-**Privacy Policy**
+Last Updated: December 2003
 
-**Last Updated: December 2003**
-
-**SustainableBusiness.com is Committed to Protecting Your Privacy**
+## SustainableBusiness.com is Committed to Protecting Your Privacy
 
 We are committed to protecting and respecting your privacy. This Privacy Statement sets out our privacy policy and explains what we do with the personal information that we collect from our users.
 
-If you have any questions or concerns regarding this statement, please contact SustainableBusiness.com at info@sustainablebusiness.com.
+If you have any questions or concerns regarding this statement, please contact SustainableBusiness.com at [info@sustainablebusiness.com](https://web.archive.org/index.cfm/go/info.contactus).
 
 We strive to offer our visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy.
 
-**How we gather information from users.**
+## How we gather information from users.
 
 SustainableBusiness.com collects a limited amount of information about our site visitors, so that we can provide a site that is interesting and useful, as well as provide advertising that is appropriate for our visitors. How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information - your name, email address, and other personal information - when you register for access to portions of our site, sign up for our services, request certain features (e.g., newsletters, news updates and other products) or make a purchase. You may also provide information when you participate in contests, voting and polling activities, message boards and chat rooms and other interactive areas of our site.
 
@@ -23,7 +20,7 @@ If you use our email-to-a-friend service to email one of our articles to a frien
 
 Like most Web sites, we collect IP addresses to help us understand how our audience uses our site, so that we can improve our site and your experience while visiting SustainableBusiness.com. For this reason, if your browser is set up to accept them, we use a feature known as a "cookie." Cookies contain bits of information that Web sites transfer to your computer's hard drive for record keeping purposes. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. Cookies don't tell us who you are, however, only you can do that. You can set your browser to refuse cookies, but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password. And we may not be able to customize the site's features according to your preferences.
 
-**What we do with the information we collect.**
+## What we do with the information we collect.
 
 SustainableBusiness.com collects personal information to provide you with the best and most personalized Web experience possible and to provide our advertisers with an efficient means to reach the right audience.
 
@@ -43,7 +40,7 @@ As we develop our business further, we may sell, buy, or merge with other compan
 
 The quality news and information on SustainableBusiness.com is partiallly supported by advertising revenue and a controlled program of e-mail marketing is an important element of our on-line publishing business. If you do not want to receive such offers and mailings, you can email us at info@sustainablebusiness.com and let us know. We'll remove your name from our lists immediately. Another way is to simply to click the unsubscribe link, which you will find on our email messages.
 
-**Affiliated sites, linked sites and advertisements.**
+## Affiliated sites, linked sites and advertisements.
 
 SustainableBusiness.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to content that is created or hosted by a third party. You may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. SustainableBusiness.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
@@ -55,12 +52,21 @@ While we do our best to protect your personal information, SustainableBusiness.c
 
 Certain areas of our sites are password-protected. Only you have access to these password-protected areas. We recommend that you do not share your passwords with anyone. SustainableBusiness.com will never ask you for your password in an unsolicited phone call or in an unsolicited email. If you are using a computer that others have access to such as one in a computer lab, Internet cafe or public library, always remember to log out and close your browser window when leaving our site.
 
-**Contacting us.**
+## Contacting us.
 
 We can be reached by contacting:
 
-**Changes to this policy.**
+SustainableBusiness.com  
+231 West Pulaski Rd.  
+Huntington Station, NY. 11746
+
+Email: [info@sustainablebusiness.com](https://web.archive.org/index.cfm/go/info.contactus)
+
+## Changes to this policy.
 
 SustainableBusiness.com may make changes to this Privacy Statement at any time, but we'll notify you of any substantive or material change (by way of email) and provide you with the opportunity to opt-out. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.
+
+|   
+---|---
