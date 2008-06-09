@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the messagelabs.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211075625id_/http%3A//www.messagelabs.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messagelabs.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609033848id_/http%3A//www.messagelabs.com/legal/privacy.aspx) for the most accurate reproduction.*
 
-# MessageLabs: Privacy Policy - Leading Anti Spam, Anti Virus, Web Security, Encryption and Archiving Services
+# Privacy Policy
 
 **Version 1.0, Effective October 1, 2005**
 
