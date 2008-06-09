@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the microstrategy.com privacy policy that was archived on 2007-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070919201427id_/http%3A//www.microstrategy.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microstrategy.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609045559id_/http%3A//www.microstrategy.com/Privacy.asp) for the most accurate reproduction.*
 
-# MicroStrategy - Privacy Policy
-
-Privacy Policy
+# Privacy Policy
 
 At MicroStrategy, we intend to give you as much control as possible over your personal information. In general, you can visit MicroStrategy on the Web without telling us who you are or revealing any information about yourself. There are times, however, when we may need information from you, such as your name and contact information. It is our intent to let you know before we collect personal information from you on the Internet.
 
