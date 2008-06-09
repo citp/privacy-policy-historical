@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaos.org privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018035639id_/http%3A//www.aaos.org/about/webpolicies/privpol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaos.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609110249id_/http%3A//www.aaos.org/about/webpolicies/privpol.asp) for the most accurate reproduction.*
 
 # Privacy Policy - AAOS
 
@@ -71,7 +71,7 @@ When AAOS pays an individual or entity for services or goods rendered, an honora
 
 
 
-How will this Personal Information Be Used? 
+**How will this Personal Information Be Used?**
 
   1. Personal information may be used for internal AAOS purposes by authorized AAOS staff. 
   2. Personal information will **_not be released to third parties_** _except_ as noted below: 
@@ -79,8 +79,8 @@ How will this Personal Information Be Used?
     * Upon request, the AAOS may provide the names and postal mailing addresses of its Fellows and Members to state and regional orthopaedic societies for recruitment purposes only. The AAOS shall provide such list only once annually and the state or regional orthopaedic society agrees to use it only once annually. The state or regional orthopaedic society mailing to AAOS Fellows and Members in that state or region is subject to the approval of the AAOS. 
     * Upon request, the AAOS may provide the names and postal mailing addresses of its Fellows and Members to other not-for-profit organizations whose missions are consistent with the mission of the AAOS, upon the review and approval of the Chief Executive Officer.
     * The AAOS makes available the AAOS Membership Directory at no charge on the Internet to AAOS Fellows and Members. A hard copy version of the AAOS Membership Directory is available for purchase to AAOS Fellows and Members This Membership Directory contains the name, postal mailing address, telephone and Fax number, membership status, and year of admittance to the AAOS of AAOS Fellows and Members. Associate Resident Members, Associate Candidate Members and the International Affiliate Members are not included in the AAOS Membership Directory. 
-    * Members of the public, through the AAOS website's _Find an Orthopaedist_ listing, may obtain limited information about the AAOS Fellow or Member, including only the Fellow or Member's name, postal mailing address, and telephone number. In addition, the AAOS Fellow or Member may have or create a personal webpage that will be accessible, if AAOS has the information, from the AAOS website's _Find an Orthopaedist_ listing. 
-    * The Private Membership Directory, accessible to AAOS members, displays the same information as _Find an Orthopaedist_ but also includes E-mail addresses if known.
+    * Members of the public, through the AAOS website's _Find an Orthopaedist_ listing, may obtain limited information about the AAOS Fellow or Member, including only the Fellow or Member's name, postal mailing address, and telephone number. Use of this information to compile mailing lists—for any purpose—is expressly prohibited. In addition, the AAOS Fellow or Member may have or create a personal webpage that will be accessible, if AAOS has the information, from the AAOS website's _Find an Orthopaedist_ listing. 
+    * The Private Membership Directory, accessible to AAOS members, displays the same information as _Find an Orthopaedist_ but also includes E-mail addresses if known. Use of the Private Membership Directory for the use of compiling e-mail distribution lists—for any purpose—by an AAOS member or anyone working on his or her behalf, is expressly prohibited.
     * Annual Meeting registration lists, including the medical registrant’s name and postal mailing address, are available for sale to exhibitors in advance of and after the Annual Meeting. In addition, certain personal information, including the medical registrant’s name, postal mailing address, telephone, hospital affiliation and practice focus, is available at the Annual Meeting to exhibitors through a "lead system" mechanism. 
     * CME course registration lists, including the attendee’s name and postal mailing address, are available at no charge to companies providing educational displays and/or providing equipment (for skills courses) after the AAOS CME course.
     * AAOS may provide the names, postal mailing addresses, and telephone and Fax numbers of AAOS Fellows and Members to third party organizations with whom the AAOS has contracted to provide courses, goods or services. 
@@ -107,4 +107,4 @@ AAOS generally does not disseminate to third parties personal information provid
 
 **Effective Date:**
 
-This policy has been in effect since June 2000, and was most recently revised in December 2006. It will continue in effect until further notice from AAOS. Modifications to this policy shall be posted as the “Privacy Policy” linked to the AAOS homepage. 
+This policy has been in effect since June, 2000, and was most recently revised in January, 2008. It will continue in effect until further notice from AAOS. Modifications to this policy shall be posted as the “Privacy Policy” linked to the AAOS homepage. 
