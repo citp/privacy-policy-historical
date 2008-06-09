@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articleshome.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211115413id_/http%3A//articleshome.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleshome.org privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610010334id_/http%3A//articleshome.org/privacy.php) for the most accurate reproduction.*
 
-# ArticlesHome.org
+# Hacked by mpu_gandring
 
 ArticlesHome.org Privacy Policy
 
@@ -62,4 +62,7 @@ This statement and the policies outlined herein are not intended to and do not c
 
 **  
   
+[](http://www.jazib.com/)  
+[](http://drknee.blogspot.com/)  
+[](http://diabetescorner.blogspot.com/)  
 **
