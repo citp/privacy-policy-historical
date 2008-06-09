@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211043608id_/http%3A//www.nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609091958id_/http%3A//www.nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
 
 # Free UK House Prices - nethouseprices.com
 
@@ -108,3 +108,5 @@ Your personal information will be held and used by us in accordance with UK data
 We may change this privacy policy from time to time. Any change will take effect once the revised privacy policy is available on the Nethouseprices.com home page. 
 
 If you have any queries regarding this privacy policy, please write to us at [Nethouseprices.com](mailto:privacy@nethouseprices.com)
+
+Our advertising partners OTP Media also have a privacy policy which you can view here : <http://www.otpmedia.com/privacy>
