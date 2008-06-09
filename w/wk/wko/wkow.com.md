@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the wkow.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211082123id_/http%3A//wkow.madison.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkow.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609061147id_/http%3A//wkow.madison.com/privacy.php) for the most accurate reproduction.*
 
 # WKOW TV :: Madison, WI
 
 Online Privacy Policy   
-Copyright © 2007 WKOW-TV. All rights reserved. 
+Copyright © 2008 WKOW-TV. All rights reserved. 
 
 WKOW-TV owns and operates wkowtv.com. WKOW-TV may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. This policy applies only to information collected by wkowtv.com and does not impact information collected or used by WKOW-TV, wkowtv.com or their affiliates through other means. 
 
