@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreethings.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211040807id_/http%3A//www.allfreethings.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreethings.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609091233id_/http%3A//www.allfreethings.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # All Free Things Privacy Policy
 
@@ -34,8 +34,8 @@ If you have any questions about our privacy policy, you may contact our webmaste
 [Free Ice Blue Motorola RAZR](http://ab.vcmedia.com/c/s=7622/c=79308/)  
 It's definitely the coolest phone around. Plus it's free. Pretty cool huh? Get your new cell phone today! 
 
-[Get Free Stuff!](http://ab.vcmedia.com/c/s=7622/c=113133/)  
-Everyone has an opinion, so why not get paid for it? Sign-up today for your chance to win free cash, coupons and special gifts. Just click below to get started. 
+[Free Digital Frame](http://ab.vcmedia.com/c/s=7622/c=134665/)  
+Forget photo albums - instead, display all your favorite pictures in a new Philips or Digital Spectrum digital picture frame. 
 
 [Free Plasma TV](http://ab.vcmedia.com/c/s=7622/c=98194/)  
 Make primetime or watching the big game even better. Choose between a Free Philips 42" LCD TV or Panasonic 42" Plasma TV. Don't miss any of the action this season. 
@@ -49,10 +49,8 @@ Circuit City or Best Buy - which is your favorite? Click to answer the question,
 
 There is nothing better than Free-Stuff, and www.Free2Try.com is where the Internet goes for Free Stuff and Trial Offers!
 
-Get back into your skinny jeans by getting 3 free months of Jenny Craig. Join now because the only thing you have to lose is weight!
+Now every woman can have beautiful skin. Rediscover yours by getting $500 worth of Avon Products.
 
+[](http://ab.vcmedia.com/c/s=7622/c=142099/)  
   
-  
-  
-  
-Copyright © 1999 - 2007 - All Rights Reserved | [Privacy Policy](http://www.allfreethings.com/page.php?page=privacy) | [Articles Terms of Use](http://www.allfreethings.com/page.php?page=articles_terms_of_use) | [Link to Us](http://www.allfreethings.com/page.php?page=link_to_us) | [Site Map](http://www.allfreethings.com/sitemap.html)
+Copyright © 1999 - 2008 - All Rights Reserved | [Privacy Policy](http://www.allfreethings.com/page.php?page=privacy) | [Articles Terms of Use](http://www.allfreethings.com/page.php?page=articles_terms_of_use) | [Link to Us](http://www.allfreethings.com/page.php?page=link_to_us) | [Site Map](http://www.allfreethings.com/sitemap.html)
