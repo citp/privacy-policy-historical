@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditchecktotal.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211112555id_/http%3A//www.creditchecktotal.com/Message.aspx%3FPageTypeID%3DPrivacy%26WT.svl%3Dprivacy%26SiteVersionID%3D594%26SiteID%3D100244%26sc%3D667439%26bcd%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditchecktotal.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610004134id_/http%3A//www.creditchecktotal.com/Message.aspx%3FPageTypeID%3DPrivacy%26WT.svl%3Dprivacy%26SiteVersionID%3D594%26SiteID%3D100244%26sc%3D667439%26bcd%3D) for the most accurate reproduction.*
 
 # CreditCheck® Total
 
@@ -8,12 +8,12 @@ Revised: April 26, 2007
 We are sensitive to your privacy concerns, and are committed to letting you know what information is being collected on our Sites, how the information is being used and what choices you have regarding the collection and use of the information. Please take a moment to review this privacy notice and feel free to contact us with any questions at [privacy@consumerinfo.com](mailto:privacy@consumerinfo.com).
 
 **WHAT TYPES OF INFORMATION DO WE COLLECT ABOUT YOU?**  
-The primary reason we collect personal and credit information about you is to provide products and services that you have requested and to enroll you into our membership products. The type of information we collect, and the primary purpose for which it is collected includes: 
+The primary reason we collect personal and credit information about you is to provide products that you have requested and to enroll you into our membership products. The type of information we collect, and the primary purpose for which it is collected includes: 
 
   * Required product registration information such as name, address, Social Security number, and date of birth, is utilized to establish your membership or one-time transaction record and to verify your identity. We require this verification in order to provide you with your personal credit information.
-  * Credit information we receive from credit reporting agencies is utilized to provide you with the products and services we offer.
-  * Billing information, such as credit card number, is required to process the payment for the products and services you order from us.
-  * Other information we collect, such as city of birth and mother's maiden name, is used to verify your identity in the event you forget your login information required for our online services. E-mail addresses are collected and used to send you notifications, special offers and our latest e-newsletter via electronic mail.
+  * Credit information we receive from credit reporting agencies is utilized to provide you with the products we offer.
+  * Billing information, such as credit card number, is required to process the payment for the products you order from us.
+  * Other information we collect, such as city of birth and mother's maiden name, is used to verify your identity in the event you forget your login information required for our online products. E-mail addresses are collected and used to send you notifications, special offers and our latest e-newsletter via electronic mail.
 
 We will also collect certain information arising out of your use of our web site, or augment the data we collect with other information from other online or offline sources. We reserve the right to collect information about you and store it in connection with other online or offline information we may possess or obtain about you. 
 
@@ -24,23 +24,23 @@ Corrections or updates to your information including your email address, phone n
 
 **We do not share information with any non-affiliated third party except:** (1) in select circumstances when a business partner refers you to us and you give us permission to share specific information, such as your name and email address, with that business partner on your order form, or (2) as permitted or required by law, such as inquires by law enforcement or to comply with Federal laws such as the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM Act of 2003) or the Fair and Accurate Credit Transactions Act (FACTA). 
 
-If you choose, we may disclose the information that we collect to our affiliated companies from time to time for marketing purposes and to enhance our products and services to better suit your needs. When identifying methods of improving our products and services or if we think a product may be of interest to you, we may arrange to extend select special offers of goods or services to you either directly or through affiliates. If you would like to opt-out of having your information shared with partners and/or affiliates, please refer to the section labeled "Offering You Choices - Marketing Options," below.
+If you choose, we may disclose the information that we collect to our affiliated companies from time to time for marketing purposes and to enhance our products to better suit your needs. When identifying methods of improving our products or if we think a product may be of interest to you, we may arrange to extend select special offers of goods or services to you either directly or through affiliates. If you would like to opt-out of having your information shared with partners and/or affiliates, please refer to the section labeled "Offering You Choices - Marketing Options," below.
 
 In order to provide the products you have requested, we may disclose the information we collect to companies that perform services on our behalf such as the credit reporting agencies from which we obtain your credit report(s), credit card processors, e-mail communications management firms or call center providers. Our third party service providers are contractually limited to using the information received from ConsumerInfo.com, Inc. solely for the purposes of providing you with the services you requested.
 
-Our Sites may contain links for other offers and services that we feel you may have an interest in. We believe these sites share a similar commitment to consumer privacy and urge you to review their privacy policy when visiting their sites. We cannot, however, be responsible for their privacy practices.
+Our Sites may contain links for other offers that we feel you may have an interest in. We believe these sites share a similar commitment to consumer privacy and urge you to review their privacy policy when visiting their sites. We cannot, however, be responsible for their privacy practices.
 
 **OFFERING YOU CHOICES - MARKETING OPTIONS**  
-You have choices when it comes to learning about new offers or services you can use to help meet your financial management goals. If you do not wish to receive offers of products or services from ConsumerInfo.com, Inc. or its partners or affiliates, here are the methods in which you can opt out: 
+You have choices when it comes to learning about new offers you can use to help meet your financial management goals. If you do not wish to receive offers of products from ConsumerInfo.com, Inc. or its partners or affiliates, here are the methods in which you can opt out: 
 
-  1. New Order Opt-out Option: While placing an order for the purchase of a credit report or monitoring service, you may select to opt out of receiving special offers and newsletters from us and our affiliated companies directly on your order form.
+  1. New Order Opt-out Option: While placing an order for the purchase of a credit report or monitoring product, you may select to opt out of receiving special offers and newsletters from us and our affiliated companies directly on your order form.
   2. Email Opt-out Options: Each marketing e-mail we send includes instructions and an opt-out link. Alternatively, you may opt out by calling our Customer Care Center toll-free at 1-877-481-6826. You may exercise this opt out choice at any time.
   3. Refusing Cookies: Subject to the section below pertaining to cookies and web bugs, you have the ability to prohibit being served an advertisement based on cookie technology. We utilize reputable third-party vendors to serve advertisements. If however, you are not comfortable with cookies, you can adjust the settings within your browser to further prohibit being served a cookie. Please see the browser´s instructions to perform this task. 
 
 The National Advertising Initiative (NAI) has developed an opt-out tool with the express purpose of allowing consumers to "opt-out" of the targeted advertising delivered by its member networks. You can visit the NAI opt-out page and opt-out of this cookie tracking. Please visit: http://www.networkadvertising.org/optout_nonppii.asp for more information. 
 
   4. Partner sharing Opt-out Options: If a business partner refers you to our Site, you may choose not to have your information shared with that partner by opting-out directly on your order form. 
-  5. Affiliate sharing Opt-out Options: While placing an order for the purchase of a credit report or monitoring service, you may select to opt-out of receiving offers from our affiliated companies directly on your order form. Please note that suppressed contact information will not be used for any other purpose other than to ensure compliance with your opt-out request and to comply with the CAN-SPAM Act of 2003 and any other applicable state and/or federal laws regarding your choices when it comes to commercial email marketing.
+  5. Affiliate sharing Opt-out Options: While placing an order for the purchase of a credit report or monitoring product, you may select to opt-out of receiving offers from our affiliated companies directly on your order form. Please note that suppressed contact information will not be used for any other purpose other than to ensure compliance with your opt-out request and to comply with the CAN-SPAM Act of 2003 and any other applicable state and/or federal laws regarding your choices when it comes to commercial email marketing.
 
 
 
