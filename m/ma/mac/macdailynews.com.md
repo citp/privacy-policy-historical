@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macdailynews.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016015001id_/http%3A//macdailynews.com/index.php/weblog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macdailynews.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609160920id_/http%3A//macdailynews.com/index.php/weblog/privacy) for the most accurate reproduction.*
 
-# MacDailyNews - Apple and Mac News - Welcome Home
+# MacDailyNews - Apple and Mac News - Privacy Policy
 
 ###### **Privacy Policy**
 
