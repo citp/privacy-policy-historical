@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genmay.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211144131id_/http%3A//www.genmay.com/donatelegal.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genmay.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610004633id_/http%3A//www.genmay.com/donatelegal.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # General [M]ayhem - Legal Information
 
@@ -90,13 +90,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: 
-
-818 535 0018, or  
-206 384 9059 
-
-Or by email to genmayprivacy (at) mymail (dot) mattcohn (dot) com. 
-
-General Mayhem, LLC  
-19069 Braemore Rd.  
-Northridge, CA 91326
+If you have any questions or suggestions regarding our privacy policy, please contact us. Our contact information is located on our corporate webpage, [CrowdGather.com](http://www.crowdgather.com/). 
