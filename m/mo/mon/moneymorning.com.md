@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneymorning.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211115700id_/http%3A//www.moneymorning.com%3Fpage_id%3D20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymorning.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609142325id_/http%3A//www.moneymorning.com%3Fpage_id%3D20) for the most accurate reproduction.*
 
-# » Privacy Statement Money Morning
+# Privacy Statement
 
 _Money Morning_  takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that _Money Morning_ takes to ensure your privacy and security while giving you the best possible customer service as you use our web sites.
 
