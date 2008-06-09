@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebsitedirectories.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211031055id_/http%3A//www.freewebsitedirectories.com/user.php%3Fact%3Dcontent%26page%3Dprivacy_policy%26PHPSESSID%3D6d863ccf850201b4c51bbb70f4029fb8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebsitedirectories.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610003903id_/http%3A//www.freewebsitedirectories.com/user.php%3Fact%3Dcontent%26page%3Dprivacy_policy%26PHPSESSID%3De0ee752bcf57bad21852c47fe32e0ca4) for the most accurate reproduction.*
 
 # freewebsitedirectories
 
