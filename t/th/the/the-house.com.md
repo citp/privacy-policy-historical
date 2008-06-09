@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-house.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211084237id_/http%3A//helpdesk.the-house.com/index.php%3Fpage%3Dour_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-house.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609054347id_/http%3A//helpdesk.the-house.com/index.php%3Fpage%3Dour_privacy_policy) for the most accurate reproduction.*
 
 # The House Helpdesk - Our Privacy Policy
 
@@ -41,28 +41,26 @@ Only your computer and the server can encrypt and decrypt your information. In t
 
 ### Order by Phone Hours
 
-January - October  
-8AM - 6PM (M-F)  
-9AM - 2PM (Sat.)  
-Closed (Sunday)
-
-November - December  
+October-February  
 8AM - 8PM (M-F)  
-9AM - 5PM (Sat)  
+9AM - 5PM (Sat.)  
 12PM - 4PM (Sun)
 
-### Showroom Hours
-
-March - September  
-10AM - 6PM (M-F)  
+March-September  
+8AM - 7PM (M-F)  
 9AM - 2PM (Sat)  
 Closed (Sun)
 
-October - February   
-10AM -7PM (M-F)  
-9AM - 5PM (Sat)  
-12PM - 4PM (Sun)*
+### Showroom Hours
 
-*Nov. and Dec. only
+October-February  
+10AM - 7PM (M-F)  
+9AM - 5PM (Sat)  
+12PM-4PM (Sun)
+
+March-September   
+10AM -6PM (M-F)  
+9AM - 4PM (Sat)  
+Closed (Sun)
 
 All times based on Central Time Zone (daytime adjusted)
