@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yosemitepark.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011112736id_/http%3A//www.yosemitepark.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yosemitepark.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609192837id_/http%3A//www.yosemitepark.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -10,7 +10,7 @@ DNC Parks & Resorts at Yosemite, Inc. ("Yosemite") values the privacy of its us
 
 2.  Yosemite also collects information about your computer and hardware, including, but not limited to, your IP address, browser type, domain names, access times and identity of referring Internet Websites.
 
-3. Yosemite collects and uses the specified personally identifiable information in order to operate and provide services on [http://www.yosemitepark.com](http://www.yosemitepark.com/).
+3. Yosemite collects and uses the specified personally identifiable information in order to operate and provide services on <http://www.yosemitepark.com/>.
 
 4. Yosemite may use your personal information to create a convenient and easy-to-use online reservation process that includes using "cookies" to track your steps through making an online hotel booking.  DNC Parks & Resorts at Yosemite, Inc. may share transactional information with entities as is necessary to process credit card payment or other purchasing or delivery systems, if applicable.
 
@@ -22,7 +22,7 @@ DNC Parks & Resorts at Yosemite, Inc. ("Yosemite") values the privacy of its us
 
 8. The Yosemite Website contains links to other websites.  Yosemite is not responsible for the privacy practices or content of such websites.  You are advised to consult each website's privacy policy.  Links to other websites should not be construed as sponsorship, endorsement, or approval by Yosemite of other websites.
 
-9. If you do not want Yosemite to use any of the personally identifiable information in the manner set forth in this Privacy Policy, you should email the [Webmaster](mailto:klong@dncinc.com) or call DNC Parks & Resorts at Yosemite at 559-253-5680.
+9. If you do not want Yosemite to use any of the personally identifiable information in the manner set forth in this Privacy Policy, you should email the [Webmaster](mailto:yosecom@dncinc.com) or call DNC Parks & Resorts at Yosemite at (801) 559-4884.
 
 10. If and when we ask for credit card data, it is transferred over a Secured Sockets Layer (SSL) line provided you are using a SSL enabled browser such as Microsoft Internet Explorer or Netscape Navigator.  This ensures that your information is encrypted as it travels through the Internet.  This secure mode is enabled before any such information is transmitted from your computer.  You will know that you are in "secure mode" when the padlock or key icon in the lower right-hand or left-hand corner of the computer screen appears in the locked position.  In addition, when accessing a secure server, the first characters of the site address will change from "http" to "https".
 
@@ -32,7 +32,7 @@ DNC Parks & Resorts at Yosemite, Inc. ("Yosemite") values the privacy of its us
 
 13. Information collected through the Website is considered a trade secret of Yosemite.  As the owner of such information, Yosemite may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of the company or a portion of its assets.
 
-14.  [http://www.yosemitepark.com](http://www.yosemitepark.com/) allows you to update and revise your personal information at any time.  To modify your personally identifiable information, for the email specials, please go to the "Email Updates" function on our Website and update your profile.  If you have utilized features on our Website such as online reservations, "Contact Us", "Request for Proposal", "Testimonials", or “Send [a Web page] to a Friend" please call Delaware North Companies Parks & Resorts at Yosemite at 559-253-5680 to modify your information. You may also contact us by emailing the [Webmaster](mailto:jhodgson@dncinc.com) or at: 
+14.  <http://www.yosemitepark.com/> allows you to update and revise your personal information at any time.  To modify your personally identifiable information, for the email specials, please go to the "Email Updates" function on our Website and update your profile.  If you have utilized features on our Website such as online reservations, "Contact Us", "Request for Proposal", "Testimonials", or “Send [a Web page] to a Friend" please call Delaware North Companies Parks & Resorts at Yosemite at (801) 559-4884 to modify your information. You may also contact us by emailing the [Webmaster](mailto:jhodgson@dncinc.com) or at: 
 
 > > **DNC Parks & Resorts at Yosemite, Inc.  
 > P.O. Box 89  
