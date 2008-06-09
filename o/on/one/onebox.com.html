@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onebox.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211052827id_/http%3A//www.onebox.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onebox.com privacy policy that was archived on 2008-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609165942id_/http%3A//www.onebox.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -14,10 +14,13 @@
 <body>
 <!--// ********* BEGIN HEADER INCLUDE ********* //-->
 
+<div id="OBLogo" style="position: absolute; top: 58px; left: 321px; display: block;">
+	<a target="_self" href="http://www.onebox.com"><img src="../images/clear.gif" height="53" width="187" border="0"></a>
+</div><table align="center" width="798" border="0" cellspacing="0" cellpadding="0" class="header">
 
-<table align="center" width="798" border="0" cellspacing="0" cellpadding="0" class="header">
+
 	<tbody><tr>
-		<td align="right" height="29">
+		<td colspan="10" align="right" height="29">
 		 
 		</td>
 	</tr>
@@ -40,7 +43,7 @@
 									<table width="519" border="0" align="center" cellpadding="0" cellspacing="6" bgcolor="#FFFFFF" class="headerlinks">
 									  <tbody><tr>
 										
-									    <td width="75" align="center" nowrap="nowrap"><a href="http://www.onebox.com">Home</a></td>
+									    <td width="75" align="center" nowrap="nowrap"><a href="http://www.onebox.com"><span id="homelink">Home</span></a></td>
 										
 									    <td width="6" align="center"><span class="divider">|</span></td>
 									    <td width="86" align="center" nowrap="nowrap"><a href="../../../../../products/products_lineup.asp">Products</a></td>
@@ -60,7 +63,42 @@
 			</tbody></table>
 		</td>
 	</tr>
-</tbody></table>	
+</tbody></table>
+
+<script type="text/javascript">
+
+	function getElementPosition(elemID)
+	{
+		var offsetTrail = document.getElementById(elemID);
+		var offsetLeft = 0;
+		var offsetTop = 0;
+		
+		while (offsetTrail)
+		{
+			offsetLeft += offsetTrail.offsetLeft;
+			offsetTop += offsetTrail.offsetTop;
+			offsetTrail = offsetTrail.offsetParent;
+		}
+		
+		return {left:offsetLeft,top:offsetTop};
+	}
+
+	var x, y;
+	var yoffset;
+	x = getElementPosition('homelink').left;
+	y = getElementPosition('homelink').top;
+	
+	
+			yoffset = 18;
+		
+	
+	var LogoElement = document.getElementById('OBLogo');
+
+	
+		LogoElement.style.top = (y - 91 + yoffset) + 'px';
+		LogoElement.style.left = (x - 129) + 'px';
+	
+</script>
 
 <!--// ********* END HEADER INCLUDE ********* //-->
 	<!-- start code for each page her //-->
@@ -178,6 +216,7 @@
 
 <!--// ********* BEGIN FOOTER INCLUDE ********* //-->
 
+
 <table align="center" width="800" border="0" cellspacing="0" cellpadding="0">
    <tbody><tr>
     <td><img src="../../../../../images/onebox/footer.gif" width="800" height="68"></td>
@@ -187,7 +226,7 @@
 		<table border="0" align="center" cellpadding="5" cellspacing="20" class="footer">
 			<tbody><tr>
 				<td align="center" nowrap="nowrap"><a href="../../../../../contact.asp">CONTACT US</a></td> 
-				<td align="center" nowrap="nowrap"><a href="../../../../../affiliate.asp">AFFILIATE PROGRAM</a></td>
+				<!-- <td align="center" nowrap="nowrap"><a href="../../../../../affiliate.asp">AFFILIATE PROGRAM</a></td> -->
 				<td align="center" nowrap="nowrap"><a href="../../../../../resell.asp">WHOLESALE PROGRAM</a></td>
 				<td align="center" nowrap="nowrap"><a href="../../../../../legal.asp" target="blank">LEGAL</a></td>
 				<td align="center" nowrap="nowrap"><a href="../../../../../terms.asp" target="blank">TERMS OF SERVICE</a></td>
@@ -196,11 +235,11 @@
 			</tr>
 		</tbody></table>
 				
-    	<p>Copyright ©1997-2007 j2 Global Communications, Inc.</p>
+    	<p>Copyright ©1997-2008 j2 Global Communications, Inc.</p>
 		<p><img src="../../../images/onebox/logos/j2.gif" alt="j2 Global" width="107" height="69"></p>
 	</td>
   </tr></tbody></table>
-
+  
 <!--// ********* END FOOTER INCLUDE ********* //-->
 
 <!--// ********* First Omniture Include File ********* //-->
