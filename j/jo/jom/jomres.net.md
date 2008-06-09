@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jomres.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211185453id_/http%3A//www.jomres.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D16%26Itemid%3D64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jomres.net privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609165031id_/http%3A//www.jomres.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D16%26Itemid%3D64) for the most accurate reproduction.*
 
 # Jomres - online booking software for Mambo/Joomla, from Woollyinwales IT - Privacy Notice
 
