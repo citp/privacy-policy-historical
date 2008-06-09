@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230151539id_/http%3A//www.pcadvisor.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609234237id_/http%3A//www.pcadvisor.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Site Policy - PC Advisor
 
-This web site ("Site") is owned and operated by IDG Communications Ltd, 99 Gray's Inn Rd, London, WC1X 8TY, United Kingdom, Reg. Co. No. 1197840, VAT No. GB-404696446 ("IDG"). 
+This web site ("Site") is owned and operated by IDG Communications Ltd, 101 Euston Road, London, NW1 2RA, United Kingdom, Reg. Co. No. 1197840, VAT No. GB-404696446 ("IDG"). 
 
 IDG is committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information and the choices you have about how we use your information.
 
