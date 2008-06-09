@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigfitness.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222141108id_/http%3A//bigfitness.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfitness.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609101845id_/http%3A//www.bigfitness.com/privacy-policy.html) for the most accurate reproduction.*
 
 # BigFitness.com Privacy Policy
 
@@ -20,7 +20,8 @@ Big Fitness uses pixels, or transparent GIF files, to help manage online adverti
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 **Promotional Emails**  
-Our site provides users the opportunity to opt-out of receiving promotional email communications from us. If you no longer wish to receive these emails, please enter your email address below: 
+Our site provides users the opportunity to opt-out of receiving promotional email communications from us. If you no longer wish to receive these emails, please enter your email address below:   
+
 
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided. Call the following telephone number: 1-888-292-1807 or email [customerservice@bigfitness.com](mailto:customerservice@bigfitness.com)
