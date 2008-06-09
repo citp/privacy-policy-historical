@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugoto.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209111640id_/http%3A//www.ugoto.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugoto.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609180335id_/http%3A//www.ugoto.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - uGoto.com
 
