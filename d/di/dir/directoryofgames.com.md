@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the directoryofgames.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211100756id_/http%3A//www.directoryofgames.com/main.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofgames.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610004353id_/http%3A//www.directoryofgames.com/main.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Directory of Games - Your source for all your gaming needs.
 
 **_Privacy Policy_**  
 _Last modified on June 17, 2004_
 
-Directory of Games respects your privacy and strives to offer you the best service possible with the most security available to us. Directory of Games requests and uses certain information provided by you to allow a more personalized experience while browsing the site. Below you will find our privacy policy, which outlines the types of information we collect and how it’s used on the site.
+Directory of Games respects your privacy and strives to offer you the best service possible with the most security available to us. Directory of Games requests and uses certain information provided by you to allow a more personalized experience while browsing the site. Below you will find our privacy policy, which outlines the types of information we collect and how it�s used on the site.
 
 **Changes of the Privacy Policy**
 
