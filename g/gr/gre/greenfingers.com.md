@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025083713id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609233414id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
 
-# Gardening articledisplay UK
+# Gardening articledisplay
 
+  
+|  |   
+  
 |   
 ---  
   
@@ -73,8 +76,15 @@ Please read on for more details about our privacy policy.
 ---  
    [Privacy Policy](https://web.archive.org/articledisplay.asp?id=1287) |      |   
   
+|    
   
-
-
+  
+  
+|  Phone Orders Welcome  
+---  
+|   
+---  
+Discounts available on bulk orders.  
+To discuss your requirements please call **0845 345 0728**  
   
 
