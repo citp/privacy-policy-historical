@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeschoolbuyersco-op.org privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224105228id_/http%3A//www.homeschoolbuyersco-op.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolbuyersco-op.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609134751id_/http%3A//www.homeschoolbuyersco-op.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of the Homeschool Buyers Co-op - Homeschool Buyers Co-op
 
@@ -8,13 +8,13 @@ The Homeschool Buyers Co-op (the "Co-op") will not sell, rent, or otherwise make
 The term "personally identifiable information" means any information that may be used to identify you, including, but not limited to, your name, address, email address, Internet Protocol address, phone number, billing information, or other contact information. We collect information from you when you join and if you participate in a group purchase that is managed by the Co-op. Below are the specific details on what, where, when, and why this information is collected and how it is used. 
 
 **Registration**  
-You provide your name and email address when you join the Co-op. We do not share this information with any third parties. 
+You provide your name and email address when you join the Co-op. We do not share this information with any third parties.
 
-**Group Purchases**  
-If you have elected to receive special offers from Co-op suppliers, you may receive special time-limited offers to participate in group purchases. Other members will simultaneously receive the same time-limited offer so that, by purchasing as a group, the participating members may receive volume discounts that are not available to members purchasing individually and separately. Should you choose to participate in one of these group purchases, the Co-op will collect and temporarily maintain your order information on your behalf until the time limit for participating expires. At that time, the Co-op will forward your order information to the Supplier whose product you wish to purchase, and destroy any personally identifiable information associated with your order. The Co-op will not retain any record of any such purchases/
+**Order Information**  
+If you complete an order form on the Co-op website for products offered by the Co-op or its supplier partners, the Co-op will maintain that order information on secure servers on your behalf in order to fulfill the orders, provide customer service, and maintain a history of your transactions viewable, by you, under the "My Orders" tab in your "My Profile." 
 
 **Cookies**  
-Cookies are small text files stored by your browser on your computer when you visit a website. We use cookies to improve our website and make it easier to use. Cookies permit us to recognize you and avoid repetitive requests for the same information. Most browsers will accept cookies until you change your browser settings to refuse them. You may change your browser's settings to refuse our cookies. However, if you do so, you may not be able access certain Co-op service. 
+Cookies are small text files stored by your browser on your computer when you visit a website. We use cookies to improve our website and make it easier to use. Cookies permit us to recognize you and avoid repetitive requests for the same information. Most browsers will accept cookies until you change your browser settings to refuse them. You may change your browser's settings to refuse our cookies. However, if you do so, you may not be able access certain Co-op services. 
 
 **Use of Contractors**  
 We may retain the service of outside contractors to perform services on our behalf (for example, to help provide technical support services or deliver new services). At times, we must disclose relevant personally identifiable information about you to our contractors so they may provide these specific services for us. We require our contractors to keep this information confidential and to only use the information on our behalf. 
