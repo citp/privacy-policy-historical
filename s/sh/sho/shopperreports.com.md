@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopperreports.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231061022id_/http%3A//www.shopperreports.com/Legal/ShopperReports/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopperreports.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609225807id_/http%3A//www.shopperreports.com/Legal/ShopperReports/privacy.htm) for the most accurate reproduction.*
 
 # ShopperReports.com - Privacy Statement
 
