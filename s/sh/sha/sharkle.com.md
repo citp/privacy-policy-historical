@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharkle.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025040337id_/http%3A//www.sharkle.com/Docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharkle.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609095856id_/http%3A//www.sharkle.com/Docs/privacy) for the most accurate reproduction.*
 
 # Sharkle.com - Free Online Video Sharing Community
 
