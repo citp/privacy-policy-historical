@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volvooceanrace.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011062600id_/http%3A//www.volvooceanrace.org/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volvooceanrace.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609182413id_/http%3A//www.volvooceanrace.org/help/privacy.aspx) for the most accurate reproduction.*
 
 # Volvo Ocean Race 2008 - 2009
 
