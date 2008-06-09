@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the windowsmarketplace.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011163300id_/http%3A//www.windowsmarketplace.com/content.aspx%3FctId%3D314) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsmarketplace.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609042059id_/http%3A//www.windowsmarketplace.com/content.aspx%3FctId%3D314) for the most accurate reproduction.*
 
-# Windows Marketplace: Privacy Statement
+# Windows Marketplace: Privacy Policy
 
-    * Windows Marketplace privacy statement 
+  * Windows Marketplace privacy statement 
+
+
 
 last updated: January 2007 
 
@@ -18,9 +20,9 @@ We may collect information about your visit, including the pages you view, the l
 
 Windows Marketplace offers the ability to post reviews of merchandise featured on the Site. As the author of a review, you will be identified by a nickname that you choose. In order to help prevent your personal information from being gathered and used by others for inappropriate or harmful purposes, you should be cautious about including personal information in your nickname or merchandise reviews. 
 
-In some cases, when you click on a link to purchase or download an item listed on the Site, you will be redirected to a different site where the merchandise is available. When you are redirected, you will see the new site's branding, not Windows Marketplace's. Any personal information you provide to such sites will be collected by those sites and governed by those sites' privacy statements. Windows Marketplace does not receive any of that personal information. We receive only aggregate reports from those sites. 
+In some cases, when you click on a link to purchase or download an item listed on the Site, you will be redirected to a different site where the merchandise is available. When you are redirected, you will see the new site's branding (page layout, styles, images, and text), not Windows Marketplace's. Any personal information you provide to such sites will be collected by those sites and governed by those sites' privacy statements. Windows Marketplace does not receive any of that personal information. We receive only aggregate reports from those sites. 
 
-In other cases, when you click on a link to purchase a software download, you may be taken to the Digital Locker download shopping cart. We will share the billing information you provide with the reseller(s) of record for software downloads you are purchasing solely so they can perform the transactions you have requested or authorized. 
+In other cases, when you click on a link to purchase a software download, you may be taken to the digital locker download shopping cart. We will share the billing information you provide with the reseller(s) of record for software downloads you are purchasing solely so that they can perform the transactions you have requested or authorized. 
 
 If you choose to use the Games Advisor feature on this site in order to analyze the gaming performance of your PC, a plug in from Futuremark Corporation will be installed in your browser. This plug in will collect data about your PC system. The data collected is anonymous and will not contain, or be linked to, any personal information. 
 
@@ -28,7 +30,7 @@ Use of your personal information
 
 The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized. 
 
-In support of these uses, Microsoft may use personal information to provide you with more effective customer service, to improve the Site and any related Microsoft merchandise or services, and to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preference or interests. 
+In support of these uses, Microsoft may use personal information to provide you with more effective customer service, to improve the Site and any related Microsoft merchandise or services, to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or to customize the site to your particular preference or interests. 
 
 We may use your personal information to provide you with important information about the merchandise or service that you are using, including critical updates and notifications. 
 
@@ -44,11 +46,11 @@ Except as otherwise described in this statement, personal information you provid
 
 You can access and change the nickname you provided at any time by going to any merchandise listing and clicking on "Write a review." A page will be displayed that includes a link to change your nickname. Click on that link and enter the new nickname you want to use. 
 
-You can access and edit any billing information (such as address or credit card number) you may have elected to save when using the Windows Marketplace download shopping cart by going to [Your Digital Locker](https://digitallocker.windowsmarketplace.com/locker.aspx) and selecting Profile. 
+You can access and edit or delte any billing information (such as address or credit card number) you may have elected to save when using the Windows Marketplace download shopping cart by clicking [Your Digital Locker](https://digitallocker.windowsmarketplace.com/locker.aspx) and selecting Profile. 
 
 You can edit any merchandise reviews that you may have posted by returning to the merchandise listing, signing-in, and clicking on "Write a review." Your previous review will be displayed and you can edit or delete any of the text before resubmitting the review. 
 
-If you have further questions about or concerns about any personal information collected on the Site, please write to us at the e-mail or postal addresses listed at the bottom of this statement. 
+If you have further questions or concerns about any personal information collected on the Site, please write to us at the e-mail or postal addresses listed at the bottom of this statement. 
 
 Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft merchandise or services. 
 
@@ -58,7 +60,7 @@ Microsoft is committed to protecting the security of your personal information. 
 
 Cookies
 
-We use cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. 
+We use cookies on this Site to ensure the integrity of the registration process and to allow personalization of the site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. 
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content and eases site navigation. When you return to the web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized. 
 
@@ -82,6 +84,3 @@ Windows Marketplace
 Microsoft Corporation  
 One Microsoft Way  
 Redmond, WA 98052-6399 
-
-
-
