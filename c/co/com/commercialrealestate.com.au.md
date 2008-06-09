@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the commercialrealestate.com.au privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614154201id_/http%3A//www.commercialrealestate.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercialrealestate.com.au privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609092145id_/http%3A//www.commercialrealestate.com.au/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement - Real Estate Australia
+# Commercial Real Estate.com.au - Real Estate and Property Australia
+
+  *   *   * CRE Internet Services - Privacy Policy
+
+
 
 Thank you for taking the time to learn more about how CRE Internet Services (“CRE”) manages your personal information. 
 
@@ -72,11 +76,11 @@ CRE welcomes your questions and comments regarding this Privacy Policy. If you h
 Attention:   
 CRE Privacy Officer   
 CRE Internet Services   
-43 Railway Rd   
-(PO Box 319)  
-Blackburn  
-Vic 3130
+Level 3, Wharf 7 Pirrama Rd   
+Pyrmont  
+NSW 2009
 
-Telephone: (03) 9877 4544
+**National FreeCall - 1800 999 982**   
+Fax: 02 8596 4638
 
 Email: [info@commercialrealestate.com.au](mailto:info@commercialrealestate.com.au)
