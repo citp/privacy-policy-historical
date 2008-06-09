@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the builtwith.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024170047id_/http%3A//builtwith.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtwith.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609084658id_/http%3A//builtwith.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# BuiltWith.com - Privacy Policy
+# Privacy Policy
 
-### BuiltWith.com Privacy Policy
+Privacy Policy
 
 BuiltWith.com is an Australian internet based service run by Gary Brewer (ABN: 49 610 791 313)
 
@@ -82,3 +82,5 @@ If you have any questions about this privacy policy or our treatment of your per
 PO BOX 290  
 Manly, NSW 1655  
 AUSTRALIA
+
+Back
