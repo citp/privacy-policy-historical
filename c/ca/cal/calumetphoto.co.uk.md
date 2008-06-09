@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calumetphoto.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211103420id_/http%3A//www.calumetphoto.co.uk/ctl%3Fac.ui.pn%3Dcommon.IncSel%26ac.ui.if%3Dtext/privInfo.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calumetphoto.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609143347id_/http%3A//www.calumetphoto.co.uk/ctl%3Fac.ui.pn%3Dcommon.IncSel%26ac.ui.if%3Dtext/privInfo.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - CALUMET
 
