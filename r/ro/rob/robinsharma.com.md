@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the robinsharma.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060305id_/http%3A//www.robinsharma.com/canada_success_coach_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinsharma.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609034207id_/http%3A//www.robinsharma.com/canada_success_coach_privacy.htm) for the most accurate reproduction.*
 
-# Canada Success Coach, Life Coach, Leadership Training, Self Motivation, Life Coach, Robin Sharma
+# Leadership Development, Personal Success | Robin Sharma
 
 We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website. 
 
@@ -43,8 +43,10 @@ If you have any questions, please contact us at:
 
 Robin Sharma - Online Store  
 Sharma Leadership International  
-1 West Pearce Street, Suite #505  
-Richmond Hill, ON Canada L4B 3K3  
-Phone: 1-888-RSHARMA
+92B Scollard St.  
+2nd Floor,  
+Toronto, ON,  
+M5R 1G2,  
+Phone: 1-416-962-7900
 
 eMail: support@robinsharma.com
