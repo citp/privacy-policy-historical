@@ -1,57 +1,48 @@
-> *The following text is extracted and transformed from the skyscraperpage.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607184930id_/http%3A//www.skyscraperpage.com/files/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscraperpage.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609025231id_/http%3A//skyscraperpage.com/site/privacy) for the most accurate reproduction.*
 
-# SkyscraperPage.com Privacy Policy
+# Privacy Policy - SkyscraperPage.com
 
-[](https://web.archive.org/web/20020607184930id_/http%3A//www.skyscraperpage.com/index.php)  
-|    
+SkyscraperPage.com Privacy Policy  
+The SkyscraperPage.com Privacy Policy document governs how SkyscraperPage.com and its parent company, Skyscraper Source Media, deal with personal information willingly submitted to SkyscraperPage.com through account memberships, forum memberships, email and mail correspondence, and information collected by analyzing traffic patters and visitation characteristics of visitors to this website.  SkyscraperPage.com believes in proper handling of personal information and takes every effort to ensure no personal information willingly submitted by visitors is released to 3rd parties or organizations.
+
+ **How SkyscraperPage.com gathers information from users**  
   
----|---  
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided.  For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as the discussion forum or the skyscraper diagram illustrations association, or when you make a purchase from SkyscraperPage.com’s skyscraper poster store.  Like most web sites, SkyscraperPage.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors, such as "cookies" and visitation statistics which help us plan server upgrades, website updates and help fix problems as we study traffic patterns through the site.  As we adopt additional technology, we may also gather information through other means.
+
+All credit card and transactional information collected through a purchase within the SkyscraperPage.com poster store are handled by PayPal, a trusted partner.  For users interested in the privacy policies of PayPal, please visit <https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside>
+
+**What SkyscraperPage.com does with the information collected**  
   
-SkyscraperPage.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.  
+Like other web publishers, SkyscraperPage.com collects information to enhance your visit and deliver more individualized content.  We respect your privacy and do not share your information with any 3rd party or organization.
 
+Our website servers are located within the United States and owned by a Canadian-based company, which comply with all federal state and provincial legislations on privacy.
 
-The Amateur Highrise Photography Page does display personal info. A person who submits photos may have their name and/or email displayed, photo date and description text.  
-
-
-Personal information collected through contests this website holds is used to contact the winner of the contest and to mail the prize to them. The name of the contest winner is announced on this website. Personal info is not used or distributed in any other way.  
-
-
-This site contains links to other sites. SkyscraperPage.com is not responsible for the privacy practices or the content of such websites.  
-
-
-**Cookies**  
-The forum will set the following cookies:  
-
-
-• Member Name: This is so the board can 'remember' your username when using the bulletin board. This cookie is called 'amembernamecookie'.  
-• Password: This is so you don't have to re-tpye in your password everytime you wish to make a post or use any of the member only features on the board. This cookie is called 'apasswordcookie'.  
-• Last Visit Data: So that you can be made aware of any new posts since your last visit, two cookies are stored. One called 'templastvisit', the other 'lastvisit'. These only store data in a numerical format.  
-
-
-**IP address**  
-When you register and when you make a post - your IP address is stored on our server. This protects you as a member and us as a company when identifying that the user who posted is indeed authentic. This information will only be used if you misuse any features on the board or in any dispute. The board administrator is able to ban by IP address.  
-
-
-**Registration Form**  
-The registration process is designed so that you can keep a unique identity. The only required parts to the registration process is the 'Membername' and 'Email address'. There is an option to keep this email address private if you wish. The bulletin board administrator will take all reasonable measures to ensure that any information you provide confidentially is kept confidential. You may change this information at any time by editing your profile.  
-
-
-**Postings**  
-The board administrator(s) cannot be held responsible for the content of posted messages on the forums.  
-
-
-Bulletin Board Security   
-Ikonboard.com being the authors of this Bulletin Board software have taken all reasonable steps to ensure that there is sufficient security in place to stop external misuse of any and all information that you provide.  
-
-
-**How to contact us**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [email us](https://web.archive.org/web/20020607184930id_/http%3A//www.skyscraperpage.com/files/input.php).  
-
-
-* * *
-
-[](https://web.archive.org/web/20020607184930id_/http%3A//www.skyscraperpage.com/index.php)  
-|  © Dylan Leblanc  
-All Rights Reserved  
+ **Google Adsense advertisements**  
   
----|---
+Google's Adsense ads, displayed as 3rd party advertisements on SkyscraperPage.com, may be placing and reading cookies on a visitor's browser, or using web beacons to collect information in the course of ads being served via this website.  To learn more about managing cookies stored in browsers and browser cookie settings, please [click here](http://www.allaboutcookies.org/manage-cookies/) (note: the previous link points to a website not affiliated with SkyscraperPage.com and is linked to for reference purposes only).
+
+ **Children**  
+  
+SkyscraperPage.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law.  If SkyscraperPage.com discovers information may have been collected from a child under 13 in violation of this policy, SkyscraperPage.com will delete that information immediately.  If you believe SkyscraperPage.com has any information from or about anyone under 13, please contact us through the contact information listed below.
+
+ **Contacting SkyscraperPage.com**  
+  
+To contact SkyscraperPage.com through email, please visit the [Contact Us](https://web.archive.org/site/contact/) page.
+
+If you wish to contact us through the mail, please use the following address:
+
+SkyscraperPage.com Privacy Policy  
+c/o Skyscraper Source Media  
+PO Box 8412  
+Victoria BC, V8W 3S1  
+Canada
+
+ **Changes to this Policy**  
+  
+SkyscraperPage.com reserves the right to change this policy at any time.  Please check this page periodically for changes.  Your continued use of SkyscraperPage.com following the posting of changes to these terms will mean you accept those changes.  Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+
+ **Governing Law**  
+  
+This policy and the use of SkyscraperPage.com are governed by the laws of British Columbia, Canada.
+
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
