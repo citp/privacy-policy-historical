@@ -1,7 +1,14 @@
-> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211073721id_/http%3A//www.unitedutilities.com/%3FOBH%3D1854) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609112521id_/http%3A//www.unitedutilities.com/%3FOBH%3D1854) for the most accurate reproduction.*
 
 # United Utilities web site :: Data protection and privacy policy
 
+| Privacy| | | [Home](http://www.unitedutilities.com/ "Link to home page")>[Privacy](http://www.unitedutilities.com/?OBH=1854 "Copyright, data protection and privacy policy")| | | Print page | | Email page  
+---|---|---|---  
+  
+
+| | Data protection and privacy policy  
+---  
+  
 © Copyright 2005 United Utilities PLC
 
 Copyright and trademark
@@ -31,7 +38,9 @@ United Utilities is a group of companies which includes United Utilities PLC, Un
   8. In the course of undertaking the activities specified in this privacy policy we may transfer data outside the European Economic Area to countries which do not have data protection laws or to countries where your privacy and other fundamental rights will not be protected as extensively as in the United Kingdom. If this is the case, we will take steps to ensure that your personal data is given a similar level of protection to that which you have within the United Kingdom.
 
   
+   
+   
+  
+For more information contact...
 
-
-This table contains the Featured Items  
----
+General enquiries : Customer services
