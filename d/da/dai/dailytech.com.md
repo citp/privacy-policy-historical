@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytech.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025034259id_/http%3A//www.dailytech.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytech.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609095533id_/http%3A//www.dailytech.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,17 +27,3 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 **Third Party Cookies**
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
-
-* * *
-
-Most Popular Articles[Largest TV Piracy Site Shut Down, Staff Arrested  
-](https://web.archive.org/Largest+TV+Piracy+Site+Shut+Down+Staff+Arrested/article9338.htm)October 20, 2007, 1:10 PM  
-[Comcast Screws with File-Sharing Traffic  
-](https://web.archive.org/Comcast+Screws+with+FileSharing+Traffic/article9337.htm)October 19, 2007, 8:07 PM  
-[Xbox 360 Beats Wii in September Console Sales  
-](https://web.archive.org/Xbox+360+Beats+Wii+in+September+Console+Sales/article9334.htm)October 19, 2007, 3:00 PM  
-[AMD Records $396 Million USD Net Loss for Q3  
-](https://web.archive.org/AMD+Records+396+Million+USD+Net+Loss+for+Q3/article9327.htm)October 19, 2007, 9:17 AM  
-[Report: Airbus A380 Seen as Possible Replacement for Air Force One  
-](https://web.archive.org/Report+Airbus+A380+Seen+as+Possible+Replacement+for+Air+Force+One/article9335.htm)October 19, 2007, 1:11 PM  
-
