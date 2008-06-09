@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the sees.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025060239id_/http%3A//www.sees.com/seeshtm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sees.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609101958id_/http%3A//www.sees.com/seeshtm/privacy.htm) for the most accurate reproduction.*
 
 # See's Privacy Policy
 
-See's is committed to respecting your privacy. When you choose to provide us with personal information, be assured **See's will never sell or trade this information.**
+**See's Candies Privacy Policy  
+**
 
-We will only require enough information from you to enable us to serve you in a correct and expeditious manner. We also take the steps required to protect the information you share with us, including using SSL technology for encryption and transmittal of your order information (including your credit card information). 
+* * *
 
-See's ordering pages use "cookies" which are small amounts of information sent by a web site to your browser. We use cookies to keep track of your checkout process from page to page. See's only stores an arbitrary number in our cookie. 
+At See's, we respect our customers' privacy which is why it is important to us that you understand how we collect, use and disclose information you share with us. We may collect personal and other types of information from you when you interact with See's, such as when you visit our website, when you purchase See's products and services, when you call our sales or support associates and at other times. This information will be used only in accordance with our [Privacy Policy](https://web.archive.org/web/20080609101958id_/http%3A//www.sees.com/seeshtm/privacypolicy.htm). Our Privacy Policy describes what types of information we collect, how we use the information and for what purposes, to whom we may disclose information, how we protect your information, and your options for managing your information. 
