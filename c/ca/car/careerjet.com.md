@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerjet.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208165859id_/http%3A//www.careerjet.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerjet.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609085414id_/http%3A//www.careerjet.com/about/privacy.html) for the most accurate reproduction.*
 
 # Careerjet Privacy Policy
 
@@ -10,12 +10,12 @@ When you use the Careerjet site, our servers may collect information indirectly 
 
 #### Personal Information You Specifically Provide
 
-You can generally visit our Website without revealing any personally identifiable information about yourself. However, in certain sections of this Website, we may ask you to submit personally identifiable information such as your name, email address, and your CV. Your personally identifiable information will only be used to deliver certain information or services that you have requested, for system administration purposes and also to improve the Website.
+You can generally visit our website without revealing any personally identifiable information about yourself. However, in certain sections of this website, we may ask you to submit personally identifiable information such as your name, email address, and your resume. Your personally identifiable information will only be used to deliver certain information or services that you have requested, for system administration purposes and also to improve the website.
 
 #### Disclosure of Personal Information
 
-We do not disclose personal information to third parties in the normal course of operations, unless you specifically ask the Website to do so, for example when submitting your application to a recruiter through Careerjet or when making your CV searchable to be viewed by recruiters.   
-Under certain circumstances, however, we could be legally obliged to disclose information to the government or other third parties and if Careerjet becomes part of another organization, that organization will possess the personal information collected by Careerjet and it will assume the rights and obligations regarding your personal information as described in this Privacy Policy.
+We do not disclose personal information to third parties in the normal course of operations, unless you specifically ask the website to do so, for example when submitting your application to a recruiter through Careerjet or when making your resume searchable to be viewed by recruiters.  
+Under certain circumstances, however, we could be legally obliged to disclose information to the government or other third parties and if Careerjet becomes part of another oganization, that organization will possess the personal information collected by Careerjet and it will assume the rights and obligations regarding your personal information as described in this Privacy Policy.
 
 #### Security
 
