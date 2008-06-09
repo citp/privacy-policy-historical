@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allegiantair.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013145101id_/http%3A//www.allegiantair.com/aaPrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegiantair.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609094644id_/http%3A//www.allegiantair.com/aaPrivacyPolicy.php) for the most accurate reproduction.*
 
 # Allegiant Air
 
-Allegiant Air is concerned about your right to privacy. When you visit the Allegiant Air web site, you can be assured that any information you share with us will be treated confidentially. The only instances that would require us to disclose Customer information (i.e. - name, address, telephone number, e-mail address, etc.) is under legal subpoena, to verify billing information with the Customer's financial institution, credit card fraud detection or other valid law enforcement requests. 
+Allegiant Air is concerned about your right to privacy. When you visit the Allegiant Air web site, you can be assured that any information you share with us will be treated confidentially. The only instances that would require us to disclose Customer information (i.e. - name, address, telephone number, e-mail address, etc.) is under legal subpoena, to verify billing information with the Customer's financial institution, credit card fraud detection or other valid law enforcement requests. In addition, from time to time, we may market certain third party services through our site. Should you choose to accept an offer from a third party, we will pass your relevant personal information, including your name, postal address and your credit/debit card number, to that third party. 
 
 **E-mail addresses**  
 Email addresses provided by you to Allegiant Air shall not be shared with any third parties. 
