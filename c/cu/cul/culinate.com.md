@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culinate.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211100732id_/http%3A//www.culinate.com/culinate/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culinate.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610004134id_/http%3A//www.culinate.com/culinate/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ That said, we do gather information about you to help personalize and enrich you
 
 ### Information Collection and Use by Culinate
 
-##### Updated January 3, 2007
+##### Updated January 23, 2008
 
 **Visitors typically browse Culinate in one of two ways:**
 
