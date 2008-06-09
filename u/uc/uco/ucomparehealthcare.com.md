@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucomparehealthcare.com privacy policy that was archived on 2007-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071021080838id_/http%3A//www.ucomparehealthcare.com/about_us/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucomparehealthcare.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609090935id_/http%3A//www.ucomparehealthcare.com/about_us/privacy_policy.html) for the most accurate reproduction.*
 
 # UCompareHealthCare - Privacy Policy
 
@@ -31,8 +31,7 @@ We reserve the right to disclose your personal information in aggregate form onl
 If you need to change your Personal information the following will describe the avenues available to the user for this purpose. 
 
   * 1\. email us at: [info@ucomparehealthcare.com](mailto:info@ucomparehealthcare.com), and include your email address, and a note of instruction; or 
-  * 2\. call us at 1-800-989-UCHC 
-  * 3\. write to us at: UCompareHealthCare LLC, Attention Customer Service, P.O. Box 925, Framingham, MA 01701, and include your name, email address and a note of instruction. 
+  * 2\. write to us at: UCompareHealthCare, Attention Customer Service, 4 Mt. Royal Ave. Suite 400, Marlborough, MA 01752, and include your name, email address and a note of instruction. 
 
 
 
@@ -54,10 +53,10 @@ UCompareHealthCare welcomes your comments regarding this Statement of Privacy; p
 
 UCompareHealthCare.com Privacy
 
-UCompareHealthCare, LLC
+UCompareHealthCare  
+4 Mt. Royal Ave.  
+Suite 400  
+Marlborough, MA 01752
 
-P.O.Box 925
-
-Framingham, MA 01701
-
+Privacy Policy updated 11/29/2007  
 Privacy Policy updated 3/27/2007
