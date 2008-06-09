@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govolsxtra.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211155617id_/http%3A//www.govolsxtra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govolsxtra.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609205907id_/http%3A//www.govolsxtra.com/privacy) for the most accurate reproduction.*
 
 # Privacy & User Agreement : News : GoVolsXtra.com
 
