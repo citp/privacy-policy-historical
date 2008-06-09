@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the marketing-interactive.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026095205id_/http%3A//www.marketing-interactive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing-interactive.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609195605id_/http%3A//www.marketing-interactive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Market-interactive.com
 
-Fri, 26-Oct-2007
+Tue, 10-Jun-2008
 
 [](http://www.marketing-interactive.com/subscription)
 
 ## current issue
 
 [](http://www.marketing-interactive.com/magazine_cover/16)
-
-[](http://www.marketing-interactive.com/magazine_cover/17)
 
 | 
 
