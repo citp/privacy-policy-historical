@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accepted.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231027id_/http%3A//www.accepted.com/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accepted.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609101037id_/http%3A//www.accepted.com/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,8 +30,8 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-    * By E-Mail: online support@accepted.com
+* By E-Mail: online support@accepted.com
 
-    * By Phone: 310-815-9553
+* By Phone: 310-815-9553
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
