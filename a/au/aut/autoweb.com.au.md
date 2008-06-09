@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoweb.com.au privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211144627id_/http%3A//autoweb.com.au/cms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoweb.com.au privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609200449id_/http%3A//www.autoweb.com.au/cms/privacy.html) for the most accurate reproduction.*
 
 # AutoWeb - Your Online Guide to Buying and Selling New and Used Cars
 
