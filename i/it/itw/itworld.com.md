@@ -1,71 +1,110 @@
-> *The following text is extracted and transformed from the itworld.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627093028id_/http%3A//www.accelacommunications.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworld.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609100626id_/http%3A//www.itworld.com/privacy) for the most accurate reproduction.*
 
-# Accela Communications - Engage With On-Demand Rich Media
+# ITworld.com - Privacy Policy
 
-Accela Communications, Inc. provides this privacy policy to ensure clear notice and understanding of our information gathering and dissemination practices. We are committed to notify you of the following: 
+**ITWORLD.COM ONLINE PRIVACY POLICY**
 
-  1. What personally identifiable information is collected and how the information is used. 
-  2. With whom collected information may be shared. 
-  3. How you can correct or make changes to this information. 
-  4. What choices are available to you regarding the collection, use, and distribution of collected information. 
-  5. What security procedures are in place to protect the loss, misuse, or alteration of information under Accela Communications' control. 
+The ITworld.com Web site and associated sites is owned by IDG Communications, Inc. and operated and maintained by:
 
-  
-**What information does Accela Communications collect?**  
-Accela Communications collects optional data supplied by visitors through various registration forms, surveys, sweepstakes and contests, as well as information gathered from visitors via our server log. This information allows us to provide a more personalized and robust user experience and allows our vendor customers to better understand and communicate with the audience they are reaching. 
+Computerworld, Inc.  
+One Speen Street  
+Framingham, MA 01701
 
-**How is registration data used?**  
-Accela Communications, Inc. and its customers offer optional information services that require registration. Accela Communications provides some of those services directly while others are provided on behalf of third parties. 
+ITworld.com collects personally identifying information and data about individuals, their company, and the companies demographics ("personally identifying information and data") including (i) when you provide information to ITworld.com, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, newsletters, memberships, RSS Feeds, content delivery via sms text or other technologies, webcasts, White Papers, online seminars, conferences and other communications with ITworld.com, (ii) when you register or sign up on the ITworld.com site or when you register for any other IDG Publishing Network products individually or through "auto register", your information will be known to ITworld.com and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to ITworld.com
 
-**a.** Information that is collected directly on behalf of Accela Communications may be used to send relevant informa-   
-tion about our products and services. Users always have the ability to opt-out of receiving any future mailings. (See the choice/opt-out section below.) This information may also be used to contact users for the administration of prizes and rewards or to respond to customer service requests. 
+Below is the current policy regarding the usage of personally identifying information and data collected by ITworld.com. We reevaluate this policy on an ongoing basis based on feedback from readers. ITworld.com reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website. 
 
-**b.** Accela Communications, Inc. owns and operates the ITworld.com Site Network. By registering as a member of the ITworld.com Site Network, you will be given unrestricted access to a collection of sponsored content. In return for this content access, your registration data may be shared with the sponsor of that content. Information once transmitted to one of these sponsor companies may also be subject to that company's privacy policy. 
+ITworld.com or one of our IDG affiliated companies, or third party partners may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information, except when such information has been supplied by a subscriber or registered user.
 
-**c.** Accela Communications also acts as a service provider to host registration forms which once completed, allow access to information products and services provided by one or more third parties. Information collected via these registration forms will be transmitted to such third parties and may also, or exclusively be subject to those third party's privacy policies. 
+If you have registered with ITworld.com, the information in your "cookie" is used to provide a more personalized experience on our Web site.
 
-**Passively Collected System Information**  
-Accela Communications' webcast application provides a system test that determines whether you can view a webcast from your computer. This test collects information such as platform/operating system, browser type/version, screen resolution, media player information, Internet connection speed and whether Java, JavaScript and cookies are enabled. This information is used to optimize the viewing experience and to troubleshoot webcast viewing problems. 
+For example, in our forums, a cookie allows us to show you which posted messages are new since your last log-in. You may change your forum registration profile information in Computerworld's Community Service Center.
 
-**IP Addresses**  
-Our Web server automatically records a visitor's domain and IP address. We use the IP address to identify server problems and administer our Web site, and to analyze click-stream data to better understand user behavior. 
+If you haven't registered with our site, we may place a cookie on your system to help provide a more personalized experience on ITworld.com. This cookie identifies you as a unique user by means of a tracking ID. However, if you have not registered on our site, we cannot link that user ID with personal identifying information and data about you such as your name or e-mail address.
 
-**What are cookies and how does Accela Communications use them?**  
-Cookies are small files containing information that a Web site uses to track a visit. Both persistent and session cookies are used by Accela Communications. A persistent cookie remains on the user's hard drive for authentication purposes, while a session cookie is temporary and is only used to complete a registration process. (Please refer to your browser's Help function for further information on controlling and setting cookies.) Accela Communications requires session cookies to complete any registration process that we host. 
+Other cookies without personally identifying information and data are used to enable ITworld.com to manage the banner advertisements presented or personalized information to the user.
 
-Accela Communications uses persistent cookies to link visitors to registration information that allows the system to confirm a user's identity and access level to various information products and services. Accela Communica-   
-tions also uses this information to track service selections, deliver specific content, and save passwords to eliminate logging in each time a user visits information products and services that we provide directly or on behalf of third party companies or organizations. A password is encrypted within the persistent cookie and cannot be accessed by outside parties. A visitor may choose to reject a persistent cookie and use their login password each time they visit and/or select a service that requires authentication. 
+Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or, you can use third-party "anonymizer" services to mask information in your cookies, or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered by ITworld.com.
 
-**Log files**  
-Accela Communications records Apache Web server logs in the extended log file format. We use server log data to help administer, analyze and measure access to our information products and services. We sometimes link personally identifiable information to log click-stream data to help better understand user's interests and behaviors. 
+For more information about cookies, head to Computerworld's Cookies QuickStudy.
 
-**Third party ad server**  
-We use third-party advertising companies to serve ads when users visit our web site. These companies may use information (not including name, address, email address or telephone number) about visitors to the Website in order to provide advertisements about goods and services of interest to such visitors. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here ](http://www.doubleclick.com/us/about_doubleclick/privacy/default.asp). 
+The aggregated information we collect is used for a number of purposes including the following :
 
-**Changes to this policy and notification of changes**  
-Accela Communications may occasionally update this Privacy Policy. The privacy policy will include the date that changes were last made to this document in a prominent location. Accela Communications encourages you to periodically review this Policy to be informed of how Accela Communications collects and uses collected information. 
+1\. to improve the content and design of the ITworld.com Web site
 
-**Links**  
-Information products and services provided directly by Accela Communications and/or third party companies or organizations may contain links to other Web sites. Accela Communications is not responsible for the privacy practices or the content of those sites. We encourage our users to be aware of this when they click on any such links and urge them to review the privacy statements of each Web site that collects personally identifiable information. 
+2\. to enable our audit bureau to verify our claims of traffic to the site
 
-**Security**  
-Accela Communications maintains security measures intended to protect the loss, misuse, and alteration of the information we collect. Our security systems include authenticated access to internal databases, audits of procedures, and regular reviews of overall Web security. 
+3\. to help advertisers, potential advertisers or marketers assess the suitability of the site for their ad campaigns
 
-**Choice/Opt-Out**  
-Users may remove their personal information from Accela Communications' database by sending a request via email to privacy@accelacommunications.com. Also, an 'unsubscribe' link is contained in every promotional email that Accela Communications sends. User's may opt-out of any further such email by clicking on this link. 
+4\. as clear GIFs, also known as pixel tags, provided by our ad-serving company to help manage online advertising. These clear GIFS let our ad-serving company recognize a browser's cookie when a user visits our site. The information we collect and share through this technology is not personally identifiable (It does not include your name, address, telephone number or e-mail address). For more information about our ad-serving company or for your choices about not having this anonymous information used, please visit www.doubleclick.net .
 
-**Business Transfers**  
-In the event that Accela Communications is, or substantially all or any portion of its assets are, acquired, collected personally identifiable user information may be one of the assets transferred to a third party.
+5\. ITworld.com has contracted with DoubleClick. to serve all advertising on www.ITworld.com, both on the Web site itself and through its e-mail newsletters. When DoubleClick is serving ads, it recognizes certain types of non-personally identifiable information, such as a user's IP address, browser version or type, operating system, service provider and time zone. DoubleClick also uses cookies to note the general content of the sites that users visit over time in order to serve ads on this site and other sites. Any pages a user calls up on www.itworld.com. aren't connected with personally identifiable information collected either at www.itworld.com or elsewhere. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit www.doubleclick.net/privacy_policy/. We use web metric vendors to gather information to help us understand how users utilize our websites and other electronic products.
 
-**Correct/Update**  
-A user may correct or modify any information previously provided by sending an email to privacy@accelacommunications.com. 
+6\. We may create and use aggregate customer data to understand more about the interests of our customers and may use the data to offer goods and services we believe may be of interest to our customers, on behalf of ITworld.com, its sister IDG companies, or select organizations. 
 
-**If you have questions or concerns regarding this statement,  
-please contact: **  
-Audience Development   
-Accela Communications, Inc.   
-P.O. Box 9107   
-118 Turnpike Road   
-Southborough, MA 01772   
-Phone: 508-303-9700   
-Email: [privacy@accelacommunications.com ](mailto:privacy@accelacommunications.com)
+Postal addresses, and other personally identifying information and data will be used to promote ITworld.com and other IDG companies' products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully.
+
+Residential telephone numbers of ITworld.com subscribers are used by ITworld.com to collect re-qualification data and may be used by ITworld.com, IDG and other IDG companies, affiliates and it's advertisers for promotional purposes. ITworld.com may rent and/or license for use phone numbers to selected outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully.
+
+Mobile telephone numbers that are provided to ITworld.com will be used to provide the products and services you've specifically requested, such as, but not limited to content delivery via sms text or other technologies, and for customer service related to the products and services you've requested. With your express consent, your mobile telephone number may be used to promote other products and services of ITworld.com, as well as the products and services of other IDG companies. Further, your mobile phone number may, with your express consent, be used to promote the products and services of carefully chosen third parties. At any time you may "opt-out" of receiving communications via your mobile phone from ITworld.com, other IDG companies, and third parties, by visiting <http://www.itworld.com/nl/nl_login.html> and clicking on the unsubscribe link or clicking the unsubscribe link of any individual message you may receive. Because many phone companies recycle phone numbers, it is possible for users who purchase a new phone to receive messages that the previous owner had subscribed to or otherwise consented to receive.
+
+Fax numbers of ITworld.com subscribers are used by ITworld.com to collect re-qualification data and may be used for surveys for ITworld.com and third parties. Except as set forth in this policy no fax numbers are rented and/or licensed to outside firms.
+
+E-mail addresses of ITworld.com subscribers are used for re-qualification purposes. These e-mail addresses may also be used to collect feedback by members of our editorial or research team, to promote ITworld.com and IDG products and services, and they may be rented to other firms and/or licensed for promotional purposes. When you provide your email address to us, you agree to receive email from ITworld.com and its sister IDG companies, and the IDG Network. We allow users to "opt-out" of receiving e-mail from outside firms, however, when e-mail information is collected and with each e-mail use of the user's address you can individually "opt-out" of receiving further e-mail from outside firms, ITworld.com, its sister IDG companies and the IDG Network If a user does not choose to "opt-out" at the time the e-mail address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed for use to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully.
+
+Users who later decide they want to change their preferences may do so at <http://www.itworld.com/nl/nl_login.html>.
+
+Personal identifying information submitted on portions of our site developed with outside third parties may be shared with those third parties, and the information will be governed by those parties' privacy policies as well as ITworld.com's. ITworld.com, nor any of its parent companies or any of its subsidiaries or affiliates do not bear any responsibility for any actions or policies of such third parties.
+
+ITworld.com users should be aware that when they disclose personal identifying information (e.g., user name, address, company name, telephone number, demographic information, buying information, other data and E-mail address) in discussion forums, chat rooms or other areas that are publicly accessible by others, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. ITworld.com nor its parent company or any of its subsidiaries or affiliates are not responsible for any information that you provide in the above areas.
+
+In the event that part or all of the ownership of ITworld.com or any of its products are sold or transferred, all lists and data which contains personally identifying information and data including, for example, user name, address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner.
+
+**2\. PRINT SUBSCRIBER AND "AUTO REGISTER" PRIVACY POLICY**
+
+Computerworld collects personally identifying information and data about individuals their company and the company's demographics ('personally identifying information and data") (i) when you provide information to Computerworld, such as when you register or sign up for any of our products such as publications, subscriptions, RSS Feeds, content delivery via sms text or other technologies, web casts, White Papers, online seminars, conferences emails, contests, newsletters, memberships and other communications with Computerworld. (ii) when you register or sign up on the Computerworld site or when you register for any other IDG Publishing Network products individually or through "auto register", your information will be known to Computerworld and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to Computerworld. 
+
+Below is the current policy regarding the usage of personally identifying information and data collected by Computerworld. We reevaluate this policy on an ongoing basis based on feedback from readers. Computerworld reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website.
+
+Subscribers and applicants for Computerworld Print subscriptions are asked to complete a questionnaire with personally identifying information and demographics. The data is used in a number of ways including the following:
+
+1\. to improve the content of Computerworld  
+2\. to notify subscribers about re-qualification and renewal  
+3\. used by us for marketing Computerworld products and services  
+4\. used by our audit bureau to verify cumulative demographic statistics  
+5\. used by Computerworld, IDG, its subsidiaries and its affiliates and IDC for research surveys  
+6\. used by Editorial for consultation with readers
+
+Postal addresses, and other personally identifying information and data will be used to promote Computerworld and IDG products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the names are rented and/or licensed for use and the users are required to target their offers carefully.
+
+Residential telephone numbers of Computerworld print subscribers are used by Computerworld to collect re-qualification data and may be used by Computerworld, IDG, its subsidiaries and affiliates, their advertisers for promotional purposes. Computerworld may rent and/or license for use telephone numbers to selected outside firms for promotional purposes. Offers for which the telephone numbers are rented and/or licensed for use require users to target their offers carefully.
+
+Fax numbers of Computerworld print subscribers are used by Computerworld to collect re-qualification data and may be used for surveys for Computerworld, IDG and its affiliates and third parties. Except as set forth in this policy, no fax numbers are rented and/or licensed to outside firms.
+
+E-mail addresses of Computerworld print subscribers are used for re-qualification purposes. These e-mail addresses may also be used to collect feedback from subscribers by members of our editorial or research team, to promote Computerworld and IDG products and services, and they may be rented and/or licensed to other firms for promotional purposes. When you provide your email address to us, you agree to receive email from Computerworld, its sister IDG companies and the IDG Network. We allow users to "opt-out" of receiving e-mail from outside firms, however, when e-mail information is collected and with each e-mail use of the user's address you can individually "opt-out" of receiving further email from outside firms, Computerworld and its sister IDG companies. If a user does not "opt-out" at the time the e-mail address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully.
+
+In the event that part of all of the ownership of Computerworld or any of its products are sold the all lists and data which contains personally identifing information and data including for example user name, address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner.
+
+Print Subscribers or applicants who do not want their names used in any of the above ways may write and ask to be removed from the promotion list. Requests should be sent to:
+
+Computerworld  
+P.O. Box 3500  
+Northbrook, IL 60065-3500 
+
+**3\. IDG PUBLISHING NETWORK ONLINE REGISTRATION PRIVACY POLICY**
+
+Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website.
+
+**About the IDG Publishing Network**
+
+The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including CIO, CSO, Darwin, InfoWorld, Computerworld, ITworld.com, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes cio.com, csoonline.com, Computerworld.com, ITworld.com, darwinmag.com, infoworld.com, networkworld.com, macworld.com, maccentral.com, pcworld.com and gamepro.com. A complete listing is available at www.idg.com.
+
+To access restricted content on any IDG Publishing Network web site you must be a member of the IDG Publishing Network. To become a member of the IDG Publishing Network, you need to provide certain information about yourself. Any of the IDG Publishing Network sites may use this identifying information for internal analytical and business development purposes and, to send you email. However, other forms of communication, including postal mail, may be directed to you pursuant to the site's specific privacy policy, as may be updated from time to time. 
+
+You can "opt-out" of receiving further email by clicking the appropriate links that appear at the bottom of any email you receive. If you do not want to receive other types of communication, including as applicable, postal mail, from the editor and publisher of the site, please refer to the site's privacy policy for the procedure to follow. 
+
+The IDG Publishing Network is intended for individuals over the age of 13 years old. Personal information may not be provided by anyone under 13 years of age. Further no one under 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition no one under that age of 18 may conduct any transactions for the purposes or purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the IDG Publishing Network.
+
+If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to IDGNetwork@idg.com or write to us at IDG Publishing Network, 3 Post Office Square, Boston, MA 02109.
+
+Last updated: September 14, 2007.
