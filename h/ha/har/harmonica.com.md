@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harmonica.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211061641id_/http%3A//www.harmonica.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonica.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609115026id_/http%3A//harmonica.com/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Harmonica.com - how to play the harmonica - Privacy Policy
+# Privacy Policy-Harmonica.com - how to play the harmonica
 
 * What personally identifiable information of yours (information from which someone may personally identify you) is collected from you through our Web site
 
