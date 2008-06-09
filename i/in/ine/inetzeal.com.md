@@ -1,73 +1,34 @@
-> *The following text is extracted and transformed from the inetzeal.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025041354id_/http%3A//www.inetzeal.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetzeal.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609052446id_/http%3A//www.inetzeal.com/privacy_policy.html) for the most accurate reproduction.*
 
 # iNetZeal.com - Privacy Policy
 
-| 
+## iNetZeal - SEO, Directory Submission and Link Building Company.
 
-    Navigation  
-  
----  
-|  |   
-  
-  [Directory Submission](http://www.directory-submission.inetzeal.com/)
+Achieving good **search engine visibility** has become a necessity for every website today. Hundreds and thousands of businesses compete with one another in order to generate more and more business through their websites. There are many ways by which a website can get high rankings in major search engines. We offer important methods like directory submission, article submission and full **SEO service** with pre-configured **SEO packages** to improve your website's popularity and search engine visibility. 
 
-  [Article Submission](http://www.article-submission.inetzeal.com/)
+### One Way Link Building Within Relevant Content
 
-  [Contextual Link Building](http://www.inetzeal.com/contextual-link-building/)
+### Our Client Testimonials
 
-  [Press Release Service](http://www.inetzeal.com/press-release-service/)
+"the Google ranking for my 5 important keywords had raised A LOT. What I took from iNetZeal was a package service and Manish gave me a sweet discounted price. Now I am going to buy another service from iNetZeal again, hope this works as good as the last one. Especially thank Manish and I would like to recommend this service to people around me"... Allen Lee.
 
-  [Full SEO Services](http://www.inetzeal.com/website-optimization/)
-
-  [Blog Development Service](http://www.inetzeal.com/blog-creation-and-maintenance/)
-
-  [ Testimonials](http://directory-submission.inetzeal.com/testimonials.htm)
-
-  [Inetzeal Blog](http://blog.inetzeal.com/)
-
-  [Contact Us](http://www.inetzeal.com/contact_us.htm)  
-  
- BookMark Us!  
-  
-|  |   
-  
-[](http://www.addthis.com/bookmark.php)
-
- BookMark Us To Your Favorite Social Bookmarking Sites. :)  
-  
-  Testimonials  
-  
-|  |   
-  
-"the Google ranking for my 5 important keywords had raised A LOT. What I took from iNetZeal was a package service and Manish gave me a sweet discounted price. Now I am going to buy another service from iNetZeal again, hope this works as good as the last one. Especially thank Manish and I would like to recommend this service to people around me"... **Allen Lee.**  
-   (Read more comments about our directory submit service  [ here](http://directory-submission.inetzeal.com/testimonials.htm) )  
-  
-| 
-
- iNetZeal Privacy Policy.  
-  
----  
-  
- 
-
-Inetzeal.com Privacy Policy 
+[:: Read More](http://directory-submission.inetzeal.com/testimonials.htm)
 
 Inetzeal reserves the right to alter this policy at any time, in whole or in part. This policy outlines Inetzeal's use of personal information that is collected from visitors when they use a website which is part of the Inetzeal Network - including inetzeal.com any sub-domains of inetzeal.com. 
 
-Use of Cookies 
+## Use of Cookies
 
 A cookie is a short text file that is downloaded to your computer which provides information as to the pages you have visited on our site. This practice is widely used on major websites as a means of profiling website visitors in an attempt to tailor the content that is delivered to them based on their preferences. For example, if you generally visit a particular section of our website, upon visiting our site, it is possible for Inetzeal to make that information more prominent to you throughout. Cookies are used by Inetzeal as a means of improving user-experience on our sites. It is possible to set your browser to reject cookies, however it is also likely that this could alter Inetzeal's ability to provide a seamless user experience. 
 
-Removal Of Pre-Existing Information 
+## Removal Of Pre-Existing Information 
 
 Should you wish to have pre-existing information removed from our records then please contact us using the contact details provided below. Inetzeal aim to respond to all requests of this nature in a timely manner. 
 
-Further Information 
+## Further Information
 
 Should you require further information about Inetzeal's privacy policy, you can write to us, or email us, using the information provided below. 
 
-Info@inetzeal.com  
-5-Second Floor, Diwaliba Chambers, Near ICICI Bank, Mota Bazar, V V Nagar - 388120, India,  
+**info @ inetzeal.com (Remove Spaces)**  
+iNetZeal, Inc., Suite 103, Premier Building, Victoria, Mahe, Seychelles  
 Contact: 001-3203100670  
-  
- 
+
