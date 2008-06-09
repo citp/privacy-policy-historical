@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gawab.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211192342id_/http%3A//www.gawab.com/webfront/main.php%3Fdoc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gawab.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609192038id_/http%3A//www.gawab.com/webfront/main.php%3Fdoc%3Dprivacy) for the most accurate reproduction.*
 
 # Gawab.com 5,038,647 Users Can't Be Wrong!
 
