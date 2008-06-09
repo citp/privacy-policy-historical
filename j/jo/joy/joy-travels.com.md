@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joy-travels.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060406id_/http%3A//www.joy-travels.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joy-travels.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609031812id_/http%3A//www.joy-travels.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# <span class="title">Joy Travels - Privacy Policy</span>
+# Joy Travels - Privacy Policy
 
   
 Joy Travels believes that any customer who books or looks for any services at www.joy-travels.com or www.travelotravel.com as the right to know about the privacy policy that is followed by us. For the trust that you, the client, places in Joy Travels, we value your right to your own privacy.
