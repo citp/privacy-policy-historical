@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwizguide.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017030714id_/http%3A//webwizguide.com/legal/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwizguide.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609040036id_/http%3A//www.webwizguide.com/legal/privacy_statement.asp) for the most accurate reproduction.*
 
 # Web Wiz Data Protection and Privacy Policy
 
@@ -26,7 +26,7 @@ When you buy anything via the site or give us any personal data as indicated abo
 
 Unless we have your express consent we will only disclose personal data to third parties if this is required for the purpose of completing your transaction with us. This is of course subject to the proviso that we may disclose your data to certain permitted third parties, such as members of our own group, our own professional advisers who are bound by confidentiality codes, and when we are legally obliged to disclose your data. 
 
-By becoming a subscriber you consent to receive from us by email our enewsletter and details of other special offers or services which we may think may be of interest to you. 
+By becoming a subscriber you consent to receive from us by email our eNewsletters and details of other special offers or services which we may think may be of interest to you. 
 
 'Web Wiz' retains and uses your personal information to provide you with the remote commerce (including electronic and mobile commerce) experience by providing you with a personalised service and to give you details of offers which we think will be of interest to you and keep you informed of changes to products, services, licenses agreements, terms, conditions, and security updates. We may also use the information to process any transactions you undertake with us and for internal administration and analysis.
 
