@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplepc.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024150907id_/http%3A//peoplepc.com/online/legals.asp%3Flocid%3D1%26pageid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplepc.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609040055id_/http%3A//www.peoplepc.com/online/legals.asp%3Flocid%3D1%26pageid%3D1) for the most accurate reproduction.*
 
 # Privacy and Other Policies — Privacy Policy
 
@@ -120,10 +120,10 @@ PeoplePC recommends that children ask a parent for permission before sending per
 
 **Contacting us.** Please contact us if you have any questions or concerns about your privacy as a PeoplePC Member or on PeoplePC's sites. You can reach PeoplePC via email at [member.services@peoplepc.com](mailto:member.services@peoplepc.com) or via mail at:
 
-PeoplePC, Inc.  
+PeoplePC  
 Attn: Privacy Policy Coordinator  
-P.O. Box 26909  
-San Francisco, CA 94126-0909
+1375 Peachtree St., Level A  
+Atlanta, GA 30309
 
 **8\. Acceptance of These Terms**
 
