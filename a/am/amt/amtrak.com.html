@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amtrak.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211073823id_/http%3A//www.amtrak.com/servlet/ContentServer%3Fpagename%3DAmtrak%252Fam2Copy%252FTitle_Image_Copy_Page%26c%3Dam2Copy%26cid%3D1080772074485) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amtrak.com privacy policy that was archived on 2008-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609163631id_/http%3A//www.amtrak.com/servlet/ContentServer%3Fpagename%3DAmtrak%252Fam2Copy%252FTitle_Image_Copy_Page%26c%3Dam2Copy%26cid%3D1080772074485) for the most accurate reproduction.-->
 
 <html><head>
 <title>Amtrak - Help - Privacy Policy</title>
@@ -13,7 +13,149 @@
 <script language="javascript" type="text/javascript">
 <!--
 // LOGIN
-function buildLoginFrame(){var boolCompliant=isCompliantBrowser();var obj=document.getElementById("loginFrame");var login_href='/servlet/ContentServer?pagename=Amtrak/Login/LoginForm';var logout_href='servlet/ContentServer?pagename=Amtrak/Login/LogoutForm';var framehtml='<html>';framehtml+='<script>document.domain = "amtrak.com"; </script>';framehtml+='<body>';framehtml+='<form id="frameResLogin" method="post" action="https://tickets.amtrak.com/itd/amtrak/CMSLogon">';framehtml+='<input type="text" name="_name">';framehtml+='<input type="password" name="_password">';framehtml+='</form>';framehtml+='</body></html>';if(isSafari==false&&isOpera==false){var doc=null;if(obj!=null){obj.contentDocument;if(doc==undefined||doc==null){doc=obj.contentWindow.document;}}doc.open();doc.write(framehtml);doc.close();}else{var srcRef=(arguments[1]==null)?login_href:logout_href;obj.src=srcRef;}};function execLogon(frm){document.domain="amtrak.com";if(isCompliantBrowser()==true){var loginFrameParent=document.getElementById("loginFrameParent");var loginFrame=document.getElementById("loginFrame");try{if(frm){var objStat=document.getElementById("objStat");if(objStat!=null){loginFrameParent.removeChild(objStat);}}var frameDoc=loginFrame.contentDocument;if(frameDoc==undefined||frameDoc==null){frameDoc=loginFrame.contentWindow.document;}var frameFrm=frameDoc.forms[0];if(frm){frameFrm._name.value=frm._name.value;frameFrm._password.value=frm._password.value;}frameFrm.submit();loginFramePostProcess();}catch(err){frm.submit();}}else{frm.submit();}};function showLoggedIn(){var output='<table BORDER="0" CELLPADDING="1" CELLSPACING="1" WIDTH="160">';output+='<tr><td COLSPAN="2" VALIGN="bottom">';output+='<img SRC="/images/header-loggedin-home.gif" WIDTH="138" HEIGHT="18" ALT="Amtrak.com Options"/>';output+='</td></tr><tr><td CLASS="NavBarWhite" COLSPAN="2" ALIGN="center"><B>';output+=getUserName();output+='</B></td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small">';output+='<a HREF="https://tickets.amtrak.com/itd/amtrak/Profile" CLASS="small">My User Profile</a>';output+='</td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small">';output+='<a HREF="https://tickets.amtrak.com/itd/amtrak/Reservations" CLASS="small">My Reservations</a>';output+='</td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small"><a HREF="https://tickets.amtrak.com/itd/amtrak/Itineraries" CLASS="small">My Saved Plans</a>';output+='</td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small"><a HREF="https://tickets.amtrak.com/itd/amtrak/Tripfolio" CLASS="small">My Tripfolio</a>';output+='</td></tr><tr VALIGN="bottom"><td CLASS="small">';output+='<a HREF="javascript:openWin(\'/servlet/ContentServer?pagename=am2/am2Popup&help=login\', 530, 450);" CLASS="small" TITLE="Help">Help</a>';output+='</td><td CLASS="small" ALIGN="right">';output+='<a HREF="http://tickets.amtrak.com/itd/amtrak/CMSLogOff" CLASS="small">Log Out</a>';output+='</td></tr></table><br>';return output;};function showLoggedOut(argv,pagetype){var output;switch(argv){case "header":output='<form NAME="reslogin" ACTION="https://tickets.amtrak.com/itd/amtrak/CMSLogon" id="reslogin" METHOD="post" onSubmit="return false">';break;case "body":output='<table BORDER="0" CELLPADDING="1" CELLSPACING="1" WIDTH="160">';if(pagetype!=null)output+='<tr><td COLSPAN="2" VALIGN="bottom"><img SRC="/images/header-login-home.gif" WIDTH="138" HEIGHT="18" ALT="Amtrak.com Login"/>';else output+='<tr><td COLSPAN="2" VALIGN="bottom"><img SRC="/images/header-login.gif" WIDTH="156" HEIGHT="19" ALT="Amtrak.com Login"/>';output+='</td></tr><tr><td CLASS="small" ALIGN="right">User ID:</td><td><input TYPE="text" SIZE="10" NAME="_name" MAXLENGTH="20"/></td>';output+='</tr><tr><td CLASS="small" ALIGN="right">Password:</td><td><input TYPE="password" SIZE="10" NAME="_password" MAXLENGTH="20"/></td>';output+='</tr><tr><td COLSPAN="2" CLASS="small" NOWRAP><input type="checkbox" name="_remember">';output+='<a HREF="javascript:openWin(\'/servlet/ContentServer?pagename=am2/am2Popup&ibsref=remembered\', 530, 450);" CLASS="small">Remember my User ID</a>';output+='</td></tr><tr><td COLSPAN="2" HEIGHT="5"></td></tr>';break;case "footer":output='<tr VALIGN="bottom"><td CLASS="small">';output+='<a id="Aregister" HREF="https://tickets.amtrak.com/itd/amtrak/Register" CLASS="small" TITLE="Click here to register.">Register</a>';output+='</td><td CLASS="small" ALIGN="right">';output+='<a HREF="javascript:openWin(\'/servlet/ContentServer?pagename=am2/am2Popup&help=login\', 530, 450);" CLASS="small" TITLE="Help">Help</a>&nbsp;&nbsp;&nbsp;';output+='<input TYPE="image" SRC="/images/button-go2.gif" BORDER="0" ALT="Go" TITLE="Go" onClick="if(checkLoginForm()) execLogon(document.reslogin)"/>';output+='</td></tr><tr><td COLSPAN="2" CLASS="small" NOWRAP>';output+='<a HREF="javascript:openWin(\'http://tickets.amtrak.com/itd/amtrak/ForgottenPassword\', 420, 300);" CLASS="small" TITLE="Click here to request your password.">Forgot ID or Password?</a>';output+='</td></tr></table></form>';}return output;} 	
+function buildLoginFrame(){
+var boolCompliant=isCompliantBrowser();
+var obj=document.getElementById("loginFrame");
+var login_href='/servlet/ContentServer?pagename=Amtrak/Login/LoginForm';
+var logout_href='servlet/ContentServer?pagename=Amtrak/Login/LogoutForm';
+var framehtml='<html>';
+framehtml+='<body>';
+framehtml+='<form id="frameResLogin" method="post" action="https://tickets.amtrak.com/itd/amtrak/CMSLogon">';
+framehtml+='<input type="text" name="_name">';
+framehtml+='<input type="password" name="_password">';
+framehtml+='</form>';framehtml+='</body></html>';
+	if (isSafari == false) {
+		var doc=null;
+		if(obj!=null){
+			obj.contentDocument;
+			if(doc==undefined||doc==null){doc=obj.contentWindow.document;}
+			doc.open();doc.write(framehtml);doc.close();
+ 		}
+	}
+}; // end of buildLoginFrame
+
+function execLogon(frm){
+	
+	if (isCompliantBrowser()==true) {
+		var loginFrameParent=document.getElementById("loginFrameParent");
+		var loginFrame=document.getElementById("loginFrame");
+		try {
+			if (frm) {
+				var objStat=document.getElementById("objStat");
+				if (objStat!=null) { 
+					loginFrameParent.removeChild(objStat);
+				}
+			}
+			var frameDoc=loginFrame.contentDocument;
+			if (frameDoc==undefined||frameDoc==null) {
+				frameDoc=loginFrame.contentWindow.document;
+			}
+			var frameFrm=frameDoc.forms[0];
+			if (frm) {
+				frameFrm._name.value=frm._name.value;
+				frameFrm._password.value=frm._password.value;
+			}
+			frameFrm.submit();
+			loginFramePostProcess();
+		} catch(err) {
+			frm.submit();
+		}
+	} else { 
+		frm.submit();
+	}
+};
+
+function showLoggedIn(){
+	var output='<table BORDER="0" CELLPADDING="1" CELLSPACING="1" WIDTH="160">';
+	output+='<tr><td COLSPAN="2" VALIGN="bottom">';
+	output+='<img SRC="/images/header-loggedin-home.gif" WIDTH="138" HEIGHT="18" ALT="Amtrak.com Options"/>';
+	output+='</td></tr><tr><td CLASS="NavBarWhite" COLSPAN="2" ALIGN="center"><B>';
+	output+=getUserName();
+	output+='</B></td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small">';
+	output+='<a HREF="https://tickets.amtrak.com/itd/amtrak/Profile" CLASS="small">My User Profile</a>';
+	output+='</td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small">';
+	output+='<a HREF="https://tickets.amtrak.com/itd/amtrak/Reservations" CLASS="small">My Reservations</a>';
+	output+='</td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small"><a HREF="https://tickets.amtrak.com/itd/amtrak/Itineraries" CLASS="small">My Saved Plans</a>';
+	output+='</td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small"><a HREF="https://tickets.amtrak.com/itd/amtrak/Tripfolio" CLASS="small">My Tripfolio</a>';
+	output+='</td></tr><tr VALIGN="bottom"><td CLASS="small">';
+	output+='<a HREF="javascript:openWin(\'/servlet/ContentServer?pagename=am2/am2Popup&help=login\', 530, 450);" CLASS="small" TITLE="Help">Help</a>';
+	output+='</td><td CLASS="small" ALIGN="right">';
+	output+='<a HREF="http://tickets.amtrak.com/itd/amtrak/CMSLogOff" CLASS="small">Log Out</a>';
+	output+='</td></tr></table><br>';
+	return output;
+};
+
+function showLoggedOut(argv,pagetype){
+	var output;
+	switch(argv) {
+		case "header":
+			output='<form NAME="reslogin" ACTION="https://tickets.amtrak.com/itd/amtrak/CMSLogon" id="reslogin" METHOD="post" onSubmit="return false">';
+			break;
+
+		case "body":
+			if (pagetype!=null) {
+				img = "header-login-home.gif";
+				imgW = "138";
+				imgH = "18";
+			} else {
+				img = "header-login.gif";
+				imgW = "156";
+				imgH = "19l";
+			}
+			output ='<table BORDER="0" CELLPADDING="1" CELLSPACING="1" WIDTH="160">';
+			output+='<tr>';
+			output+=   '<td COLSPAN="2" VALIGN="bottom"><img SRC="/images/' + img + '" WIDTH="' + imgW + '" HEIGHT="' + imgH + '" ALT="Amtrak.com Login"/>';
+			output+=   '</td>';
+			output+='</tr>';
+			output+='<tr>';
+			output+=   '<td CLASS="small" ALIGN="right">User ID</td>';
+			output+=   '<td><input TYPE="text" SIZE="10" NAME="_name" MAXLENGTH="64"/></td>';
+			output+='</tr>';
+			output+='<tr>';
+			output+=   '<td CLASS="small" ALIGN="right">Password</td>';
+			output+=   '<td><input TYPE="password" SIZE="10" NAME="_password" MAXLENGTH="20"/></td>';
+			output+='</tr>';
+			output+='<tr>';
+			output+=   '<td CLASS="small" NOWRAP COLSPAN="2" VALIGN="middle">';
+			output+=      '<table BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="160">';
+			output+=      '<tr><td STYLE="height: 4px;" colspan="3"></td></tr>';
+			output+=      '<tr>';
+			output+=         '<td CLASS="small" VALIGN="middle" align="right">';
+			output+=            '<input type="checkbox" name="_remember">';
+			output+=         '</td>';
+			output+=         '<td CLASS="small" VALIGN="middle" align="left">';
+			output+=            '<a HREF="javascript:openWin(\'/servlet/ContentServer?pagename=am2/am2Popup&ibsref=remembered\', 530, 450);" CLASS="small">Remember Me</a>';
+			output+=         '</td>';
+			output+=         '<td CLASS="small" align="right">';
+			output+=            '<input TYPE="image" SRC="/images/button-go2.gif" BORDER="0" ALT="Go" TITLE="Go" onClick="if(checkLoginForm()) execLogon(document.reslogin)"/>';
+			output+=        '</td>';
+			output+=      '</tr>';
+			output+=      '</table>';
+			output+=   '</td>';
+			output+='</tr>';
+			output+='<tr><td COLSPAN="2" HEIGHT="5"></td></tr>';
+			break;
+		case "footer":
+			output ='<tr VALIGN="bottom">';
+			output+=  '<td COLSPAN="2" CLASS="small" ALIGN="left" NOWRAP>';
+			output+=    '<a id="Aregister" HREF="https://tickets.amtrak.com/itd/amtrak/Register" CLASS="small" TITLE="Click here to register.">Register</a>';
+			output+=  '</td>';
+			output+='</tr>';
+			output+='<tr>';
+			output+=  '<td COLSPAN="2" CLASS="small" ALIGN="left" NOWRAP>';
+			output+=    '<a HREF="javascript:openWin(\'http://tickets.amtrak.com/itd/amtrak/ForgottenPassword\', 420, 550);" CLASS="small" TITLE="Click here to request your password.">Forgot Password?</a>';
+			output+=  '</td>';
+			output+='<tr>';
+			output+=  '<td COLSPAN="2" CLASS="small" ALIGN="left" NOWRAP>';
+			output+=    '<a HREF="javascript:openWin(\'/servlet/ContentServer?pagename=am2/am2Popup&help=login\', 530, 450);" CLASS="small" TITLE="Help">Help</a>';
+			output+=  '</td>';
+			output+='</tr>';
+			output+='</table></form>';
+			output+='<div id="CMS_leftNav_top" style="position:absolute;"></div>';
+	}
+	return output;
+}
+ 	
 -->
 </script>	
 
@@ -72,7 +214,7 @@ gVersion="1.2";
 
 	var defSiteWiseParams = "&PROFILE=amtrak&WT.cg_n=content&WT.cg_s=Help;Online+Privacy+&amp;+Security;Traveling+With+Amtrak";
 	var iSiteWiseCName = "";
-	var iSiteWiseEDt = "&WT.mc_r=752";
+	var iSiteWiseEDt = "&WT.mc_r=572";
 
 	if(defSiteWiseParams.indexOf("WT.cg_s")==-1){
 		defSiteWiseParams+="&WT.cg_s=Root";
@@ -410,6 +552,8 @@ gVersion="1.2";
 
 
 
+
+
 <table border="0" cellpadding="0" cellspacing="0" width="775">
 <tbody><tr height="400">
 	<td bgcolor="#4A7DB0" align="center" valign="top">
@@ -425,14 +569,48 @@ gVersion="1.2";
 <script language="JavaScript" src="/cookies.js" type="text/javascript"></script>
 <script language="JavaScript1.2">
 <!--
+
 	var boolCompliant = false;
-	try{boolCompliant = isCompliantBrowser();}catch(e){};	
-	if( (getCookie("LoginCookie") == null && getCookie("RememberCookie") == null) || isSafari == true || isOpera == true){
-		if( getCookie("ErrorCookie") == null || isSafari == true || isOpera == true ){
-			showLoginBox();              
-		}
+	
+	try{
+	  boolCompliant = isCompliantBrowser(); 
+	  }
+	  catch(e){};	
+	  
+	
+	
+	
+	
+	if( (getCookie("LoginCookie") != null || getCookie("RememberCookie") != null) && (isSafari == true || isOpera == true || isGecko == true)){
+	
+	   // alert("this should only show for safari and opera");
+	            if( getCookie("ErrorCookie") == null){
+	              
+		     loginFramePostProcess();             
+		    
+			}
+		
+		};
+	if( getCookie("ErrorCookie") != null && (isSafari == true || isOpera == true || isGecko == true)){
+			
+			 //   alert("Error cookie for  safari, firefox and opera");
+			           
+			              
+				     loginFramePostProcess();             
+		   
+	} ;
+	
+	if( getCookie("LoginCookie") == null && getCookie("RememberCookie") == null ){
+	            if( getCookie("ErrorCookie") == null){
+	            //  alert("no error cookie, showLoginBox next");
+		     showLoginBox();              
+		    
+			}
+		// alert ("buildLoginFrame next");
 		buildLoginFrame();
-	}
+		}
+	
+	
 	if( getCookie("ErrorCookie") != null ) WM_killCookie("ErrorCookie", "/", ".amtrak.com");
 -->
 </script>
@@ -454,8 +632,9 @@ gVersion="1.2";
 
 
 
+
 			<table border="0" cellpadding="2" cellspacing="1" width="160">
-		<tbody><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Navigation_Page&amp;c=Page&amp;cid=1081954181602&amp;ssid=262" class="smallwhite">Using the Amtrak Web Site</a></td></tr><tr><td colspan="3" class="smallwhite"><span class="small">Privacy Policy</span>&nbsp;<img src="http://www.amtrak.com/images/arrows.gif" border="0"></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Collection_Page&amp;c=Page&amp;cid=1080080555448&amp;ssid=5801" class="smallwhite">Terms of Transportation</a></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Copy/Simple_Copy_Page&amp;c=am2Copy&amp;cid=1081373672784&amp;ssid=5931" class="smallwhite">Site Terms of Use</a></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Contact_Us_Page&amp;c=Page&amp;cid=1080772074464&amp;ssid=6061" class="smallwhite">Contact Us</a></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Copy/Simple_Copy_Page&amp;c=am2Copy&amp;cid=1081794201487&amp;ssid=284" class="smallwhite">Browser Requirements</a></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Copy/Simple_Copy_Page&amp;c=am2Copy&amp;cid=1081256322108&amp;ssid=6191" class="smallwhite">Search Help</a></td></tr>
+		<tbody><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Copy/Simple_Copy_Page&amp;c=am2Copy&amp;cid=1178294095327&amp;ssid=10912" class="smallwhite">Amtrak.com User Profile Login Changes</a></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Navigation_Page&amp;c=Page&amp;cid=1081954181602&amp;ssid=262" class="smallwhite">Using the Amtrak Web Site</a></td></tr><tr><td colspan="3" class="smallwhite"><span class="small">Privacy Policy</span>&nbsp;<img src="http://www.amtrak.com/images/arrows.gif" border="0"></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Collection_Page&amp;c=Page&amp;cid=1080080555448&amp;ssid=5801" class="smallwhite">Terms of Transportation</a></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Copy/Simple_Copy_Page&amp;c=am2Copy&amp;cid=1081373672784&amp;ssid=5931" class="smallwhite">Site Terms of Use</a></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Contact_Us_Page&amp;c=Page&amp;cid=1080772074464&amp;ssid=6061" class="smallwhite">Contact Us</a></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Copy/Simple_Copy_Page&amp;c=am2Copy&amp;cid=1081794201487&amp;ssid=284" class="smallwhite">Browser Requirements</a></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Copy/Simple_Copy_Page&amp;c=am2Copy&amp;cid=1081256322108&amp;ssid=6191" class="smallwhite">Search Help</a></td></tr>
 			</tbody></table><br>
 		
 
@@ -539,7 +718,7 @@ We ask for and collect personal information in the following circumstances:</p>
 When you register on Amtrak.com and create a User Profile, we ask for the following personal information:</p>
 
 <ul>
-<li>Name, title</li>
+<li>Name</li>
 
 <li>Addresses (home, billing)</li>
 
@@ -549,7 +728,7 @@ When you register on Amtrak.com and create a User Profile, we ask for the follow
 
 <li>Favorite departure and arrival points (optional)</li>
 
-<li>User ID and password</li>
+<li>Password</li>
 
 <li>Preferred passenger discount type</li>
 
@@ -653,7 +832,7 @@ When you request information online, such as brochures, timetables and gift cata
 <p>Generally, we use cookies to:</p>
 
 <ul>
-<li>Remind us of who you are and to access your account information (stored on our secure servers) to deliver to you a better and more personalized service. This cookie is set when you begin the booking process or enter your user ID and password.</li>
+<li>Remind us of who you are and to access your account information (stored on our secure servers) to deliver to you a better and more personalized service. This cookie is set when you begin the booking process or enter your login ID and password.</li>
 
 <li>Estimate our audience size. Each browser accessing the site is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on your interests and behavior.</li>
 
@@ -853,7 +1032,7 @@ By joining the Amtrak Guest Rewards Program, you expressly give us your permissi
 	</tr>
 	<tr>
 		<td colspan="2" align="CENTER" width="100%" style="color: #000000; font-family: Verdana,arial,helvetica,sans-serif; font-size: 10px;">
-			© 2007 National Railroad Passenger Corporation
+			© 2008 National Railroad Passenger Corporation
 		</td>
 	</tr>
 	</tbody></table>
