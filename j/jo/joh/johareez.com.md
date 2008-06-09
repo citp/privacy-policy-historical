@@ -1,26 +1,79 @@
-> *The following text is extracted and transformed from the johareez.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627074528id_/http%3A//www.johareez.com/cgi-bin/ncommerce3/ExecMacro/static/privacy.d2w/report%3Fwl%3D56824214) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johareez.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Johareez Auctions - Privacy Policy
+# Johareez.com :: Privacy Policy
 
+|  |  [](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/index.php) |  | 
+
+[Home](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/index.php) | [Register](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/show_form.php) | [Watch List](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/my-watch-list.php) | [My Account](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/my_account.php) | [Site Map](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/sitemap.php) | [Help](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/help.php) | [Sign In](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/login.php)  
   
+---  
+|  |  |  |  |  | 
+
+[_Advanced Search_](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/advanced_search.php)  
+  
+---|---  
+  
+[About Us](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/about_us.php) |  [Have Products to Sell?](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/product_to_sell.php) |  [Customer Service](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/customer_service.php) |  [Contact Us](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/contact_us.php) |  [Johareez Explained](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/johareez_explained.php)  
+  
+|  |  | 
+
+[Sign In](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/login.php) or [Register](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/show_form.php)  
+  
+---  
+|   
+---  
+|  |    [ **Jewellery**](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/Jewellery-c-1.html)  
+---|---  
+|    [ **New Arrivals**](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/New-Arrivals-c-2.html)  
+|    [ **FREE Shipping**](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/FREE-Shipping-c-3.html)  
+|    [ **7 Minute Auctions**](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/7-Minute-Auctions-c-121.html)  
+|    [ **Best Sellers**](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/Best-Sellers-c-122.html)  
+|    [ **Just Buy It @ Rs.99**](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/Just-Buy-It-@-Rs.99-c-132.html)  
+   
+[ ](http://www.johareez.com/show_form.php)  
+|    
+---  
+|  | 
+
+[ **Re.1 No Reserve Auction**](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/re1nrauctions.php)  
+  
+---|---  
+| 
+
+[ **Just Buy It - Fixed Price**](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/justbuyit.php)  
+  
+| 
+
+[ **Closing Soon - View All**](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/products-listing.php?sort_by=7)  
+  
+| 
+
+[](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/sweepstake.php)  
+  
+---  
+  
+[](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/1')  
+  
+|    
+---  
 Privacy Statement for Johareez.com  
-**(Effective date: 28 August 2006)**   
-[](http://www.truste.org/ivalidate.php?url=www.johareez.com&sealid=101)  
-Johareez.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site, **www.johareez.com**. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact [privacy@johareez.com](mailto:privacy@johareez.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
-
-Our goal is to provide you with the best shopping experience possible. Privacy is very important to us. This Privacy Statement will describe the types of information we collect, how we use your information to improve your shopping experience, the limited circumstances under which we might disclose information you provide us and the security efforts we take to safeguard your information. 
-
-**What Personal Information About Customers Does Johareez.com Gather?**
-
-**Here are the types of information we gather.**
-
+**(Effective date: 28 August 2006)**  
+  | [ ](http://www.truste.org/ivalidate.php?url=www.johareez.com&sealid=101)  
+Johareez.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site, **www.johareez.com**. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
+   
+If you have questions or concerns regarding this statement, you should first contact [privacy@johareez.com](mailto:privacy@johareez.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.  
+   
+Our goal is to provide you with the best shopping experience possible. Privacy is very important to us. This Privacy Statement will describe the types of information we collect, how we use your information to improve your shopping experience, the limited circumstances under which we might disclose information you provide us and the security efforts we take to safeguard your information.   
+   
+**What Personal Information About Customers Does Johareez.com Gather?**  
+   
+**Here are the types of information we gather.**  
+   
 **Information you give us**  
-We receive and store any information you enter on Johareez.com or give us in any other way for our own internal database which is secure and only your payment information is shared with our secure payment gateway provider, Paysignet, through which all online transactions are completed. You provide information to Johareez.com when you register, sign-in, search, purchase products, apply for credit, participate in a contest or questionnaire, sign up for our e-mail newsletters, or communicate with customer service. As a result of those actions, you might supply us with such information as your name, address, and phone number; gender; e-mail address; or people to whom purchases have been shipped (for example, a gift recipient), including address and phone number. 
-
-**More about Cookies**
-
+We receive and store any information you enter on Johareez.com or give us in any other way for our own internal database which is secure and only your payment information is shared with our secure payment gateway provider, Paysignet, through which all online transactions are completed. You provide information to Johareez.com when you register, sign-in, search, purchase products, apply for credit, participate in a contest or questionnaire, sign up for our e-mail newsletters, or communicate with customer service. As a result of those actions, you might supply us with such information as your name, address, and phone number; gender; e-mail address; or people to whom purchases have been shipped (for example, a gift recipient), including address and phone number.   
+   
+**More about Cookies**  
+   
 Johareez.com uses cookies on certain pages to deliver various services and to keep track of your personal preferences. A cookie is small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It functions as your identification card. We also offer certain features that are only available through the use of a cookie. We also use cookies to allow you to enter your password less frequently during a session. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. 
 
 If you do not want information collected through the use of cookies, most browsers contain a function that allows a user to deny the cookie feature. You can also delete cookie files from your computer at your discretion, although in that case you may not be able to use certain features on Johareez.com and you may be required to reenter your password more frequently. Please note that the use of cookies is a necessary part of the Johareez.com technology and is necessary if you wish to access Johareez.com. Disabling the cookie feature on your browser or deleting cookie files from your computer will render you unable to access certain features on Johareez.com. Consequently cookies we serve are tied to the user's information. 
@@ -35,10 +88,11 @@ We use information in the file we maintain about you, and other information we o
 
 If you choose to use our referral service ("Email a Friend") to tell a friend about our site and or any product listing, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Johareez.com does store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-Your friend may contact us at [support@johareez.com](mailto:support@johareez.com) to request that we remove this information from our database. 
-
-**Does Johareez.com Disclose the Information It Receives?**
-
+Your friend may contact us at [support@johareez.com](mailto:support@johareez.com) to request that we remove this information from our database.   
+  
+   
+**Does Johareez.com Disclose the Information It Receives?**  
+   
 As a matter of policy, we do not sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information may be disclosed. 
 
 **Business Partners and Selected Vendors We Do Not Control**  
@@ -57,10 +111,11 @@ As we continue to develop our business, we might buy the online and/or off-line 
 We may disclose information about you to law enforcement or other government officials as we believe necessary in connection with an investigation of illegal activity that may expose you or us to legal liability. In addition, if you have purchased products from us on extended payment terms, it may be necessary for us to file certain information about you with state or local government offices to perfect our security interest in the products so purchased, or to provide certain information about you to collection agencies in the event of non-payment or a payment dispute. 
 
 **Links to and from Other Web Sites**  
-Johareez.com regularly offers links to other Web sites, which may include the Partner Web sites of our business partners or selected vendors. These Web sites have their own policies regarding privacy. In addition, you may have linked to Johareez.com through another site, such as by means of a banner advertisement for Johareez.com on that other site. In such cases, the site you linked from may collect information from people who click on the banner or link. You may want to refer to the privacy policies on those sites to see how they collect and use this information. 
-
-**What Choices Do You Have?**
-
+Johareez.com regularly offers links to other Web sites, which may include the Partner Web sites of our business partners or selected vendors. These Web sites have their own policies regarding privacy. In addition, you may have linked to Johareez.com through another site, such as by means of a banner advertisement for Johareez.com on that other site. In such cases, the site you linked from may collect information from people who click on the banner or link. You may want to refer to the privacy policies on those sites to see how they collect and use this information.   
+  
+   
+**What Choices Do You Have?**  
+   
 You can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of other Johareez.com features. Johareez.com offers the ability to correct or change the information collected through your use of Johareez.com. Instructions are listed in " My Account" area under "Account Details." You can change this information at any time and as often as necessary. If you experience problems or have any questions about our services, contact us. When you update information, we usually keep a copy of the prior version for our records. 
 
 **Electronic Newsletters and E-Mails**   
@@ -77,10 +132,49 @@ If you choose to visit Johareez.com, your visit and any dispute over privacy is 
 
 Johareez.com secure checkout system is powered by Paysignet E-Transactions Pvt. Ltd. ([www.paysignet.com](http://www.paysignet.com/)). In the process of completing checkout on Johareez.com, all the order information such as the order details, contact and shipping information is stored on Johareez.com’s servers. Only after customer places his or her order by clicking on "Place Order" button on the site, then only is the order detail information redirected to the Paysignet secure payment site, www.paysignet.com, where then the customer is provided payment options to choose from to complete his or her payment for the order. The paysignet payment site page is customized by Johareez.com to give the look and feel of the site. All the payment details collected on the payment site page is then collected and stored by Paysignet.com to authorize payments for Johareez.com. Once the payment authorization process has been completed, the customer is redirected back to Johareez.com with a payment confirmation notification. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please email us at [support@johareez.com](mailto:support@johareez.com) or contact us at: 
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please email us at [support@johareez.com](mailto:support@johareez.com) or contact us at:  
+  
+   
 **Johareez.com Auctions Pvt. Ltd.**  
 S-10, Jeevan Vihar  
 New Colony, Jaipur 302001  
 RAJASTHAN (INDIA)  
-Phone: (91-141) 3253500 
+Phone: (91-141) 3253500   
+  
+* * *  
+  
+| 
+
+|   | 
+
+|  Get special offers and discounts -- Sign up for email |  |   
+  
+---|---|---  
+  
+|  |   | **Johareez.com**  
+[About Us](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/about_us.php)  
+[Register / Login](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/login.php)  
+[Contact Us](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/contact_us.php)  
+[Customer Service](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/customer_service.php)  
+[Jobs](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/johareez_jobs.php) | **For Sellers**  
+[Have Products to Sell?](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/product_to_sell.php)  
+Promote Your Auctions  
+Sellers Help | **For Buyers**  
+Pay  
+Track Your Order  
+[Spread the Word ](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/spread_a_word.php)  
+Resource Center | **Need to Know**  
+[Shipping Guarantee](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/protectionguarantee.php)  
+[Announcements](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/announcements.php)  
+[Terms of Service](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/terms_conditions.php)  
+[Privacy Statement](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/privacy_policy.php)  
+[FAQ's](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/faq.php)  
+---|---|---|---|---  
+|  |  | [](http://www.indeas.co.in/) |  | [](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/privacy_policy.php) |  | [](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/isocertification_johareez.php) |  | [](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/protectionguarantee.php)  
+---|---|---|---|---|---|---  
+  
+Use of this website constitutes acceptance of the Johareez.com [User Agreement](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/pdf/johareez_user_agreement.pdf) and [Privacy Statement.](https://web.archive.org/web/20080610004250id_/http%3A//www.johareez.com/privacy_policy.php) Designated trademarks, logos and brands are the property of their respective owners. Copyright © 2008 Johareez.com Auctions Pvt. Ltd. All Rights Reserved.  
+Official Johareez.com Time: Tuesday, 10 June 2008 06:12:51 IST 
+
+|   
+
