@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokeroutpost.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025034250id_/http%3A//www.brokeroutpost.com/loans/w3c/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokeroutpost.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609102746id_/http%3A//www.brokeroutpost.com/loans/w3c/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,13 +9,13 @@ This is a privacy policy for [ http://www.brokeroutpost.com](http://www.brokerou
 Our homepage on the Internet is located at [http://www.brokeroutpost.com](http://www.brokeroutpost.com/)
 
 [ **Broker Outpost LLC**](http://en.wikipedia.org/wiki/Broker_Outpost_LLC)  
-10161 Park Run Drive Suite 100  
-Las Vegas, NV 89145  
+909 North Sepulveda Blvd.  
+11th Floor  
+El Segundo, CA. 90245  
 US
 
 You may contact us by e-mail at [Contact](mailto:broker@brokeroutpost.com?subject=BrokerOutpost%20Inquiry)  
-You may contact us by phone at 702-515-7494  
-You may contact us by fax at 702-515-7495
+You may contact us by phone at 800-835-9127
 
 **Dispute Resolution**  
 Disputes will be handled by our customer service representative.  
