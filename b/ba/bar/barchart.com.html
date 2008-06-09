@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the barchart.com privacy policy that was archived on 2007-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071009134436id_/http%3A//www2.barchart.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the barchart.com privacy policy that was archived on 2008-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609135018id_/http%3A//www2.barchart.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Barchart.com - Privacy Policy</title>
@@ -43,11 +43,32 @@
 			document.write('<link rel="alternate stylesheet" type="text/css" href="http://images.barchart.com/equities/f4.css" title="Small Text" /><link rel="alternate stylesheet" type="text/css" href="http://images.barchart.com/equities/f5.css" title="Large Text" /><link rel="alternate stylesheet" type="text/css" href="http://images.barchart.com/equities/f6.css" title="Larger Text">');	
 		setStyle();
 	</script>
+		<script type="text/javascript" language="javascript">
+		function pltCheckPopUp() {
+			var pNum = 0;
+			var pSite = 'pltPopUpPStocks';
+			var pos = document.cookie.indexOf(pSite);
+			if (pos > -1) {
+				pNum = document.cookie.substring(pos + pSite.length + 1, pos + pSite.length + 2) * 1;
+			}
+
+			if (pNum < 1) {
+				var dToday = new Date();
+				var dExpires = new Date();
+				dExpires.setTime(dToday.getTime() + 2000*60*60*24*1);
+				var cs = pSite + '=' + (pNum + 1) + '; path=/; domain=.barchart.com; expires=' + dExpires.toGMTString();
+				document.cookie = cs;
+				document.write('<' + 'script type="text/javascript" language="javascript" src="http://adserver.barchart.com/adscript.jsx?site=PStocks"' + '><' + '/script' + '>');
+			}
+		}
+
+		pltCheckPopUp();
+		</script><script type="text/javascript" language="javascript" src="http://adserver.barchart.com/adscript.jsx?site=PStocks"></script>	
 </head>
 <body topmargin="0" marginheight="0" marginwidth="0" leftmargin="0" bgcolor="#f4f5f6">
-<table width="100%" cellpadding="2" cellspacing="1" border="0">
+<table width="1122"><tbody><tr><td><table width="100%" cellpadding="2" cellspacing="1" border="0">
 <tbody><tr>
-	<td valign="top" width="150">
+	<td valign="top" width="190">
 <a href="http://www.barchart.com"><img src="http://images.barchart.com/equities/logo4.gif" border="0" alt="Barchart.com Inc. Main Page"></a><br>
 		<table border="0" width="115" cellpadding="0" cellspacing="0">
 <form name="quick" action="http://quote.barchart.com/quick.asp" onsubmit="return setQuickForm(this);"></form>
@@ -58,37 +79,24 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="2" class="bcNTitle"><input value="" type="text" name="sym" size="3" class="bcTextBox" onfocus="document.quick.sym.select();">&nbsp;<input type="submit" value="Go" class="bcNBut"></td>
+<td colspan="2" class="bcNTitle"><input value="" type="text" name="sym" size="7" class="bcTextBox" onfocus="document.quick.sym.select();">&nbsp;<input type="submit" value="Go" class="bcNBut"></td>
 </tr>
 <tr>
 <td class="bcCp">
-<table width="100" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td width="5"></td>
-<td align="center">
-<table width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr height="2">
-<td>
-</td>
+</td></tr><tr>
+<td class="bcCp">
+<input type="RADIO" name="what" value="quote">Quote</td>
+<td class="bcCp">
+<input type="RADIO" name="what" value="chart">Chart</td>
 </tr>
 <tr>
-<td class="bcSmall">Scottrade Special:<br>
-<a href="javascript:openWin('http://www.scottrade.com/?cid=16286');" class="bcScott">Switch to Scottrade</a></td>
+<td class="bcCp">
+<input type="RADIO" name="what" value="opinion">Opinion</td>
+<td class="bcCp">
+<input type="RADIO" name="what" value="profile">Profile</td>
 </tr>
-<tr>
-<td>
-<a href="javascript:openWin('http://www.scottrade.com/?cid=16286');" class="bcScott">Get up to $100 back!</a></td>
-</tr>
-<tr height="2">
-<td>
-</td>
-</tr>
-</tbody></table>
-  </td>
-</tr>
-</tbody></table>
-</td></tr></tbody></table></td>
-	<td align="center" nowrap="nowrap">
+</tbody></table></td>
+	<td align="left" nowrap="nowrap">
 <script language="javascript" type="text/javascript">
 showAdd(728, 90, '728x90-stocks');
 </script><iframe frameborder="no" scrolling="no" width="728" height="90" src="http://adserver.barchart.com/adframe.jsx?site=728x90-stocks&amp;sym="></iframe>
@@ -126,7 +134,7 @@ showAdd(728, 90, '728x90-stocks');
 	<td style="height:4px;" colspan="7" background="http://images.barchart.com/equities/ts2.gif"></td>
 </tr>
 </tbody></table>
-<table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#ffffff">
+<table border="0" cellpadding="0" width="1122" cellspacing="0"><tbody><tr><td><table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#ffffff">
 <tbody><tr>
 <td valign="top" bgcolor="ffffff" class="bcNTxt">
 <table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#ffffff">
@@ -184,21 +192,20 @@ showAdd(728, 90, '728x90-stocks');
   </p></td>
 </tr>
 </tbody></table>
-</td><td width="5"><img src="http://images.barchart.com/equities/ns.gif" width="5" height="1"></td>  </tr></tbody></table><table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff" border="0">  <tbody><tr><td align="right" class="bcNTxt"><a href="#" class="bcCpT">Back to Top</a>&nbsp;</td></tr></tbody></table>
+</td><td valign="top"><div style="width: 130px; padding-top: 100px; text-align: right;"><script language="javascript" src="http://adserver.barchart.com/adscript.jsx?site=120x600-stocks"></script></div></td></tr></tbody></table></td><td width="5"><img src="http://images.barchart.com/equities/ns.gif" width="5" height="1"></td>  </tr></tbody></table><table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff" border="0">  <tbody><tr><td align="right" class="bcNTxt"><a href="#" class="bcCpT">Back to Top</a>&nbsp;</td></tr></tbody></table>
 <script language="JavaScript">  function prw() { var w=window.open('?&printview=Y','new','scrollbars=1,width=800,height=600,left=110,top=35'); w.print(); }</script><center>
 <table border="0" cellpadding="2" cellspacing="1">
-<tbody><tr><td colspan="4" style="background-color: #666666; color: white; font: bold 12px arial; padding: 2px;">&nbsp;&nbsp;Barchart Marketplace</td></tr>
+<tbody><tr><td colspan="3" style="background-color: #666666; color: white; font: bold 12px arial; padding: 2px;">&nbsp;&nbsp;Barchart Marketplace</td></tr>
 <tr>
 <td class="bcCp" width="120" valign="top"><script type="text/javascript" language="javascript" src="http://adserver.barchart.com/adscript.jsx?site=SBBot2"></script></td>
 <td class="bcCp" width="120" valign="top"><script type="text/javascript" language="javascript" src="http://adserver.barchart.com/adscript.jsx?site=SBBot4"></script></td>
-<td class="bcCp" width="120" valign="top"><script type="text/javascript" language="javascript" src="http://adserver.barchart.com/adscript.jsx?site=SBBot5"></script></td>
 <td class="bcCp" width="120" valign="top"><script type="text/javascript" language="javascript" src="http://adserver.barchart.com/adscript.jsx?site=SBBot6"></script></td>
 </tr>
 </tbody></table>
 </center>
 <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff" border="0"><tbody><tr><td>
  <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#cccccc"><tbody><tr><td class="bcsz1"></td></tr></tbody></table>
- <table width="760" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="bcClr1" bgcolor="#eeeeee" width="115" nowrap="">&nbsp;<b>»»</b>&nbsp;<a href="http://www.barchart.com" class="bcCp"><b>Barchart.com</b></a></td><td bgcolor="#e0e0e0" width="17" align="right"><img src="http://images.barchart.com/equities/sugao.gif" width="17" height="17"></td><td class="bcCp" bgcolor="#ffffff" nowrap="">© Copyright 2007, Barchart.com <a href="http://www2.barchart.com/agreement.asp" class="bcCp">User agreement</a> applies.&nbsp;Data provided by <a href="javascript:openWin('http://www.ddfplus.com');" class="bcCp">ddfplus</a> and subject to <a href="http://www2.barchart.com/ddfplus.asp" class="bcCp">terms of use</a> and <a href="http://www2.barchart.com/privacy.asp" class="bcCp">privacy policy</a>.</td></tr></tbody></table>
+ <table width="760" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="bcClr1" bgcolor="#eeeeee" width="115" nowrap="">&nbsp;<b>»»</b>&nbsp;<a href="http://www.barchart.com" class="bcCp"><b>Barchart.com</b></a></td><td bgcolor="#e0e0e0" width="17" align="right"><img src="http://images.barchart.com/equities/sugao.gif" width="17" height="17"></td><td class="bcCp" bgcolor="#ffffff" nowrap="">© Copyright 2008, Barchart.com <a href="http://www2.barchart.com/agreement.asp" class="bcCp">User agreement</a> applies.&nbsp;Data provided by <a href="javascript:openWin('http://www.ddfplus.com');" class="bcCp">ddfplus</a> and subject to <a href="http://www2.barchart.com/ddfplus.asp" class="bcCp">terms of use</a> and <a href="http://www2.barchart.com/privacy.asp" class="bcCp">privacy policy</a>.</td></tr></tbody></table>
  <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#cccccc"><tbody><tr><td class="bcsz1"></td></tr></tbody></table>
 <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="ffffff"><tbody><tr><td style="height:25px; width:3px;"></td><td class="bcClr2" nowrap="">|&nbsp; <a href="http://www2.barchart.com/tools.asp" class="bcBot">Webmaster Tools</a> &nbsp;|&nbsp; <a href="http://www2.barchart.com/advertising.asp" class="bcBot">Advertising</a> &nbsp;|&nbsp; <a href="http://www2.barchart.com/suggbox.asp" class="bcBot">Suggestions Box</a> &nbsp;|&nbsp; <a href="http://www.barchart.com/about/" class="bcBot">About Barchart.com</a> &nbsp;|&nbsp; <a href="http://www2.barchart.com/support" class="bcBot">Support</a> &nbsp;|</td><td class="bcCp" align="right"> Press <b>Ctrl+P</b> to print this page &nbsp;</td></tr></tbody></table>
 </td></tr></tbody></table>
@@ -229,6 +236,6 @@ _qacct="p-cdES9SBgwH30k";quantserve();</script>
 _uacct = "UA-2009749-1";
 urchinTracker();
 </script>
-
+</td></tr></tbody></table>
 
 </body></html>
