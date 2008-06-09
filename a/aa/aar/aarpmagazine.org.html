@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aarpmagazine.org privacy policy that was archived on 2007-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011194533id_/http%3A//www.aarp.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aarpmagazine.org privacy policy that was archived on 2008-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609044814id_/http%3A//www.aarp.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xml:lang="en" lang="en"><head>
 <title>AARP Privacy Policy</title>
@@ -119,45 +119,442 @@ div#rightColumn .rPromoNrtaNav ul li {
 
 <div id="iehackwrap">
 <div id="pageContainer">
-	<div id="header">
-		<div id="globalNav">
-		<div id="languageToggle"><a href="/espanol/">AARP en Español</a></div>
-			<a name="top"></a><a href="/">AARP Home</a> &nbsp;|&nbsp; <a href="/about_aarp/contact/">Contact AARP</a> &nbsp;|&nbsp; <a href="/sitemap/">Site Map</a>
-		</div><!-- /globalNav -->
 
-		<div id="brandingSearch">
-			
-<a class="button" href="/"><img src="http://assets.aarp.org/www.aarp.org_/build/templates/style/aarpLogo.gif" id="logo" alt="AARP: the power to make it better (tm)"></a>
+	<div id="betaHeader">
 
-			<a href="/research/">Policy &amp; Research</a> &nbsp;|&nbsp; <a href="http://www.aarpmagazine.org">AARP The Magazine</a>
-			&nbsp;|&nbsp; <a href="/bulletin/">AARP Bulletin</a>
-			<form id="search" method="get" action="/search_advanced/search_results.html" name="searchform">
-	     <input type="hidden" name="config" value="htdig_www_aarp_org_small">
-			<div>
-			SEARCH
-			<input type="text" size="12" name="words" id="keywords">
-			<input id="go" type="image" src="http://assets.aarp.org/www.aarp.org_/build/templates/style/go.gif" value="GO">
-			</div>
-			</form>
-		</div><!-- /brandingSearch -->
+	<script src="http://assets.aarp.org/aarp.org_/js/lib/scriptaculous/prototype.js" type="text/javascript"></script>
+	<script src="http://assets.aarp.org/aarp.org_/js/lib/scriptaculous/scriptaculous.js?load=effects" type="text/javascript"></script>
+	
+	<script src="http://assets.aarp.org/aarp.org_/js/zecms/header.js" type="text/javascript"></script>
 
-		<div id="topicNav">
-		<ul id="toolbar">
-			<li id="n-msd"><a href="/aarp_benefits/" title="Discounts on Products and Services for AARP Members" class=""><span>Member Services and Discounts</span></a></li>
-			<li id="n-leg"><a href="/issues/" title="Issues and Elections" class=""><span>Issues and Elections</span></a></li>
-			<li id="n-learntech"><a href="/learntech/" title="Technology and Learning" class=""><span>Technology and Learning</span></a></li>
-			<li id="n-health"><a href="/health/" title="Health and Wellness" class=""><span>Health</span></a></li>
-			<li id="n-life"><a href="/families/" title="Family, Home and Legal" class=""><span>Family, Home and Legal</span></a></li>
-			<li id="n-money"><a href="/money/" title="Money and Work" class=""><span>Money and Work</span></a></li>
-			<li id="n-travel"><a href="/travel/" title="Travel" class=""><span>Travel</span></a></li>
-			<li id="n-leisure"><a href="/fun/" title="Fun and Games" class=""><span>Fun and Games</span></a></li>
+	<style type="text/css" media="screen">
+	/*
+	Global Overlays & Dialogs
+	--------------------------  */
+	#overlay {
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 90;
+		width: 100%;
+		height: 500px;
+		background-color: #333333;
+	}
+
+	#dialog {
+		position: absolute;
+		left: 250px;
+		top: 250px;
+		width: 400px;
+		background: #FFFFFF;
+		z-index: 100;
+		text-align: left;
+		border: solid 10px #666;
+		padding: 15px 10px;
+	}
+
+	#dialog h3 {
+		font-size: 14px;
+		color: #9B1D04;
+		font-weight: bold;
+		margin: 0px 0px 5px 0px;
+	}
+
+	#dialog p {
+		font-size: 13px;
+		line-height: 17px;
+		color: #000000;
+		margin: 0px 0px 10px 0px;
+	}
+
+	#dialog p.actions {
+		text-align: center;
+		margin-top: 20px;
+	}
+
+	.systemMessages li {
+		color: #ff0000;
+		font-size: 12px;
+	}
+
+
+	/*
+	Header
+	------  */
+	#betaHeader {
+		position: relative;
+		text-align: left;
+		height: 165px;
+		z-index: 2; /* should go on container*/
+	}
+
+	#betaHeader a, #betaHeader a:link {
+		color: #0570AD;
+		text-decoration: none;
+		padding: 0px;
+	}
+
+	#betaHeader a:visited {
+		color: #5F899F;
+		padding: 0px;
+	}
+
+	#betaHeader a:hover, #betaHeader a:active {
+		color: #B50301;
+		padding: 0px;
+		background-color: transparent;
+	}
+
+	#satellites ul, #satellites li {
+		margin: 0px;
+		padding: 0px;
+	}
+
+	#satellites {
+		margin: 0px 0px 0px 12px;
+	}
+
+	#satellites ul {
+		list-style-type: none;
+	}
+
+	#satellites li {
+		float: left;
+	}
+
+	#satellites li a {
+		display: block;
+		height: 42px;
+		padding: 0px;
+	}
+
+	#satellites li a span {
+		display: none;
+	}
+
+	li#dotOrg a {
+		width: 52px;
+		background-image: url(http://assets.aarp.org/aarp.org_/images/header/hat_dotOrg_770.gif);
+	}
+
+	li#magazine a {
+		width: 109px;
+		background-image: url(http://assets.aarp.org/aarp.org_/images/header/hat_magazine_770.gif);
+	}
+
+	li#bulletin a {
+		width: 80px;
+		background-image: url(http://assets.aarp.org/aarp.org_/images/header/hat_bulletin_770.gif);
+	}
+
+	li#segunda a {
+		width: 134px;
+		background-image: url(http://assets.aarp.org/aarp.org_/images/header/hat_segunda_770.gif);
+	}
+
+	li#benefits a {
+		width: 110px;
+		background-image: url(http://assets.aarp.org/aarp.org_/images/header/hat_benefits_770.gif);
+	}
+
+	li#foundation a {
+		width: 98px;
+		background-image: url(http://assets.aarp.org/aarp.org_/images/header/hat_foundation_770.gif);
+	}
+
+	li#dwf a {
+		width: 97px;
+		background-image: url(http://assets.aarp.org/aarp.org_/images/header/hat_dwf_770.gif);
+	}
+
+	#satellites li a:hover, #satellites li a.active {
+		background-position: 0px -42px;
+		padding: 0px;
+	}
+
+	#textResize {
+		position: absolute;
+		top: 0px;
+		left: 804px;
+	}  
+
+	#textResize img {  
+		display: block;
+		float: left;
+	}
+
+	#textResize a {
+		display: block;
+		float: left;
+		width: 25px;
+		height: 42px;
+	}
+
+	#textResize a#small {
+		background-image: url(http://assets.aarp.org/aarp.org_/build/header/textSize_small_bg.gif);
+	}
+
+	#textResize a#medium {
+		background-image: url(http://assets.aarp.org/aarp.org_/build/header/textSize_medium_bg.gif);
+	}
+
+	#textResize a#large {
+		background-image: url(http://assets.aarp.org/aarp.org_/build/header/textSize_large_bg.gif);
+	}
+
+	#logoLockup {
+		position: absolute;
+		left: 10px;
+		top: 62px;
+	}
+
+	#logoLockup img {
+		border: none;
+	}
+
+	#welcomeAnon {
+		position: absolute;
+		left: 281px;
+		top: 49px;
+	}
+
+	#signUp, #logIn {
+		border: none;
+	}
+
+	#welcomeLoggedIn {
+		position: absolute;
+		left: 281px;
+		top: 49px;
+		width: 459px;
+	}
+
+	#welcomeLabel {
+		font: 21px "Trebuchet MS", Verdana, sans-serif;
+		color: #78766F;
+	}
+
+	#welcomeLabel a:link, #welcomeLabel a:visited,
+	#welcomeLabel a:hover, #welcomeLabel a:active {
+		color: #78766F;
+		text-decoration: none;
+	}
+
+	#welcomeName {
+		font: 21px "Trebuchet MS", Verdana, sans-serif;
+		color: #015CB7;
+	}
+
+	#welcomeName a:link, #welcomeName a:visited,
+	#welcomeName a:hover, #welcomeName a:active {
+		color: #015CB7;
+		text-decoration: none;
+	}
+
+	#loggedInActions {
+		float: right;
+		font: 13px Arial, Verdana, sans-serif;
+	}
+
+	#loggedInActions a:link, #loggedInActions a:visited {
+		color: #015CB7;
+		text-decoration: none;
+	}
+
+	#loggedInActions a:hover, #loggedInActions a:active {
+		text-decoration: underline;
+	}
+
+	#newMessageCount {
+		color: #ee3224;
+	}
+
+	#searchHeader {
+		position: absolute;
+		left: 280px;
+		top: 71px;
+	}
+
+	#searchHeader input#searchTerms {
+		width: 376px;
+		font-family: Arial, Verdana, "MS Trebuchet", sans-serif;
+		padding: 2px;
+		font-size: 15px;
+		color: #949189;
+	}
+
+	#searchHeader input#searchAction {
+		vertical-align: middle;
+		margin-bottom: 5px;
+	}
+
+	#channelNav {
+		position: absolute;
+		top: 120px;
+		left: 8px;
+		width: 750px;
+	}
+
+	#channelNav ul, #channelNav li {
+		margin: 0px;
+		padding: 0px;
+	}
+
+	#channelNav ul {
+		list-style-type: none;
+		margin: 0px;
+		padding: 0px;
+	}
+
+	#channelNav li {
+		float: left;
+	}
+
+	#channelNav li a {
+		display: block;
+		height: 34px;
+		padding: 0px;
+	}
+
+	#channelNav li a span {
+		display: none;
+	}
+
+	#channelNav li a:hover {
+		background-position: 0px -34px;
+		padding: 0px;
+	}
+
+	#channelNav li a.active, #channelNav li a.currentChannel {
+		background-position: 0px -68px;
+		padding: 0px;
+	}
+
+	li#health a {
+		width: 99px;
+		background-image: url(http://assets.aarp.org/aarp.org_/images/header/navChannel_health_770.gif);
+	}
+
+	li#money a {
+		width: 95px;
+		background-image: url(http://assets.aarp.org/aarp.org_/images/header/navChannel_money_770.gif);
+	}
+
+	li#leisure a {
+		width: 104px;
+		background-image: url(http://assets.aarp.org/aarp.org_/images/header/navChannel_leisure_770.gif);
+	}
+
+	li#makeadifference a {
+		width: 116px;
+		background-image: url(http://assets.aarp.org/aarp.org_/images/header/navChannel_contribute_770.gif);
+	}
+
+	li#family a {
+		width: 93px;
+		background-image: url(http://assets.aarp.org/aarp.org_/images/header/navChannel_family_770.gif);
+	}
+
+	li#community a {
+		width: 108px;
+		background-image: url(http://assets.aarp.org/aarp.org_/images/header/navChannel_community_770.gif);
+	}
+
+	li#membership a {
+		width: 135px;
+		background-image: url(http://assets.aarp.org/aarp.org_/images/header/navChannel_membership_770.gif);
+	}
+
+
+	/*
+	Footer
+	------  */
+	#betaFooter {
+		text-align: center;
+		padding-bottom: 20px;
+	}	
+
+	#fTopLinks {
+		padding-top: 30px;
+		font-size: 12px;
+		font-weight: bold;
+	}
+
+	#fBottomLinks {
+		font-size: 12px;
+		padding: 8px 0px;
+	}
+
+	#fCopyright {
+		font-size: 11px;
+		margin-top: 20px;
+		color: #666666;
+	}
+
+	#fCopyright a, #fCopyright a:visited {
+		color: #666666;
+	}
+
+	#fCopyright a:hover {
+		color: #FFFFFF;
+	}
+	</style>
+
+	<div id="satellites">
+		<ul>
+			<li id="dotOrg"><a class="active" href="/"><span>AARP.org</span></a></li>
+			<li id="magazine"><a href="http://www.aarpmagazine.org/"><span>AARP The Magazine</span></a></li>
+			<li id="bulletin"><a href="/bulletin/"><span>AARP Bulletin</span></a></li>
+			<li id="segunda"><a href="http://www.aarpsegundajuventud.org/english/index.html"><span>AARP Segunda Juventud</span></a></li>
+			<li id="benefits"><a href="/aarp_benefits/"><span>Discounts &amp; Services</span></a></li>
+			<li id="foundation"><a href="/about_aarp/aarp_foundation/"><span>AARP Foundation</span></a></li>
+			<li id="dwf"><a href="/issues/dividedwefail/"><span>Divided We Fail</span></a></li>
 		</ul>
-		</div><!-- /topicNav -->	
+	</div><!-- /satellites -->
 
-		<div class="clearer" style="height:3px;"></div>
+	<div id="logoLockup">
+		<a class="button" href="/"><img src="http://assets.aarp.org/aarp.org_/build/header/aarp_logo_beta.gif" width="213" height="44" alt="AARP.org" title="AARP.org"></a>
+	</div>
 
-	</div><!-- /header -->
-        <div id="printHeader"><img src="http://assets.aarp.org/www.aarp.org_/build/templates/style/aarpLogo.gif" width="247" height="60"><br><a href="javascript:history.go(-1);">Back</a> | <a href="javascript:print();">Print</a></div>
+	<div id="welcomeAnon">
+		<img width="276" height="16" alt="Connect with the AARP Community, it's free." src="http://assets.aarp.org/aarp.org_/build/header/welcomeAnon.gif"> 
+		<a href="https://login.aarp.org/community/auth/wamloginhandler.bt" id="loginButtonLink"><img width="53" height="20" alt="Log In" src="http://assets.aarp.org/aarp.org_/images/header/logIn_b17.gif" id="logIn"></a>
+		<a href="https://login.aarp.org/community/register/index.bt" id="signUpButtonLink"><img width="60" height="20" alt="Sign Up" src="http://assets.aarp.org/aarp.org_/images/header/signUp_b17.gif" id="signUp"></a>
+	</div>
+
+	<div id="welcomeLoggedIn" style="display: none;">
+		<div id="loggedInActions"><a href="/community/messages/inbox/">Messages<span id="newMessageCount"></span></a> | <a href="/community/profile/" class="profileLink" id="primaryProfileLink">My Profile</a> | <a href="/community/auth/performLogout.bt">Logout</a></div>
+		<span id="welcomeLabel"><a href="/community/profile/" class="profileLink">Hello, </a></span><span id="welcomeName"><a href="/community/profile/" class="profileLink"><span id="firstName"></span></a></span>
+	</div>
+
+	<div id="searchHeader">
+		<form id="searchAction" action="/community/search.bt" method="get">
+			<input type="text" name="query" value="Enter Search Terms" id="searchTerms">
+			<input type="image" src="http://assets.aarp.org/aarp.org_/images/header/searchAction_b17.gif" id="searchAction" alt="Search">
+		</form>
+	</div>
+
+	<div id="navArea">
+		<div id="channelNav">
+			<ul>
+				<li id="health"><a href="/health/" id="healthTab"><span>Health</span></a></li>
+				<li id="money"><a href="/money/" id="moneyTab"><span>Money</span></a></li>
+				<li id="leisure"><a href="/leisure/" id="leisureTab"><span>Leisure</span></a></li>
+				<li id="makeadifference"><a href="/makeadifference/" id="makeadifferenceTab"><span>Make a Difference</span></a></li>
+				<li id="family"><a href="/family/" id="familyTab"><span>Family</span></a></li>
+				<li id="community"><a href="/onlinecommunity/" id="communityTab"><span>Online Community</span></a></li>
+				<li id="membership"><a href="/membership/" id="membershipTab"><span>Membership</span></a></li>
+			</ul>
+		</div><!-- /channelNav -->
+	</div><!-- /navArea -->
+
+	<script type="text/javascript" charset="utf-8">
+		prepHeader();
+	</script>
+
+	</div><!-- /betaHeader -->
+
+	<div id="printHeader"><img src="http://assets.aarp.org/www.aarp.org_/build/templates/style/aarpLogo.gif" width="247" height="60"><br><a href="javascript:history.go(-1);">Back</a> | <a href="javascript:print();">Print</a></div>
 	
 
 <div id="columnsFloat">
@@ -223,7 +620,7 @@ Lakewood, CA 90712</p>
 
 <p>If you want to take advantage of some of the optional services available on AARP.org, however, we will sometimes request information that allows us to identify you ("personal information"). If you use the online form to join AARP or renew your membership, for example, we will ask for certain information to process your application (name, birth date, phone number, mailing address, e-mail address, e-mail permissions, and credit card number). If you register to receive <a href="/emailnews/">e-mail newsletters</a>, we will ask for your name, address, e-mail address, and birth date (or member number) so that we can send you the newsletters. We may  also ask for personal information when you participate in other  activities or services on AARP.org, such as surveys and  discussion groups.</p>
 
-<p> We also have relationships with certain providers and vendors that we have selected and approved to offer services and benefits on linked sites. On some of these sites, you may be asked to enter personal information in order to take advantage of their services or programs. If you decide to purchase services on the web site of one of our member benefits service providers, the contracted member benefit provider offering the services may ask for your name, member number, address, and e-mail in order to contact you about the services. Examples of sites operated in conjunction with AARP Service Providers include: <a href="http://aarp.scudder.com/">AARP Health Care Options</a> and <a href="http://www.aarppharmacy.com/tpl_default.asp?1">AARP Pharmacy Services</a>. These sites may also have their own unique privacy policies that you should review.</p>
+<p> We also have relationships with certain providers and vendors that we have selected and approved to offer services and benefits on linked sites. On some of these sites, you may be asked to enter personal information in order to take advantage of their services or programs. If you decide to purchase services on the web site of one of our member benefits service providers, the contracted member benefit provider offering the services may ask for your name, member number, address, and e-mail in order to contact you about the services. Examples of sites operated in conjunction with AARP Service Providers include: AARP Health Care Options and <a href="http://www.aarppharmacy.com/tpl_default.asp?1">AARP Pharmacy Services</a>. These sites may also have their own unique privacy policies that you should review.</p>
 
 <p>Again, regardless of whether you are visiting AARP.org or an affiliated site, you do not have to disclose any personal information if you do not want to. You can always decide not to use the optional services that require the submission of such information. The choice is yours. We are only interested in offering you convenient online services that match your interests and needs.</p>
 
@@ -451,11 +848,11 @@ function popWindow(target, winName, width, height, center) {
 	<h3>Advertisement</h3>
 	<p>
 	<script language="JavaScript">
-		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/aarp.dart/about_aarp;sz=160x600;tile=1;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=7260113016241123?"><\/script>');
-	</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/aarp.dart/about_aarp;sz=160x600;tile=1;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=7260113016241123?"></script>
+		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/aarp.dart/about_aarp;sz=160x600;tile=1;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=8172130075885822?"><\/script>');
+	</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/aarp.dart/about_aarp;sz=160x600;tile=1;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=8172130075885822?"></script>
 	<noscript>
-		<a href="http://ad.doubleclick.net/jump/aarp.dart/about_aarp;sz=160x600;tile=1;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=7260113016241123?" target="_blank">
-		<img src="http://ad.doubleclick.net/ad/aarp.dart/about_aarp;sz=160x600;tile=1;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=7260113016241123?" width="160" height="600" border="0" alt=""></a>
+		<a href="http://ad.doubleclick.net/jump/aarp.dart/about_aarp;sz=160x600;tile=1;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=8172130075885822?" target="_blank">
+		<img src="http://ad.doubleclick.net/ad/aarp.dart/about_aarp;sz=160x600;tile=1;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=8172130075885822?" width="160" height="600" border="0" alt=""></a>
 	</noscript>
 	</p>
 	</div>
@@ -506,11 +903,11 @@ function popWindow(target, winName, width, height, center) {
 	<h3>Advertisement</h3>
 	<p>
 	<script language="JavaScript">
-		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/aarp.dart/about_aarp;sz=125x125;tile=2;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=7260113016241123?"><\/script>');
-	</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/aarp.dart/about_aarp;sz=125x125;tile=2;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=7260113016241123?"></script>
+		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/aarp.dart/about_aarp;sz=125x125;tile=2;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=8172130075885822?"><\/script>');
+	</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/aarp.dart/about_aarp;sz=125x125;tile=2;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=8172130075885822?"></script>
 	<noscript>
-		<a href="http://ad.doubleclick.net/jump/aarp.dart/about_aarp;sz=125x125;tile=2;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=7260113016241123?" target="_blank">
-		<img src="http://ad.doubleclick.net/ad/aarp.dart/about_aarp;sz=125x125;tile=2;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=7260113016241123?" width="125" height="125" border="0" alt=""></a>
+		<a href="http://ad.doubleclick.net/jump/aarp.dart/about_aarp;sz=125x125;tile=2;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=8172130075885822?" target="_blank">
+		<img src="http://ad.doubleclick.net/ad/aarp.dart/about_aarp;sz=125x125;tile=2;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=8172130075885822?" width="125" height="125" border="0" alt=""></a>
 	</noscript>
 	</p>
 	</div>
@@ -550,7 +947,7 @@ function popWindow(target, winName, width, height, center) {
 <!-- /threeColumns -->
 <!-- /bodyContainerSlot -->
 
-	<div id="footer">
+	<div id="betaFooter">
 
 		<div>
 	
@@ -558,31 +955,40 @@ function popWindow(target, winName, width, height, center) {
 	<h3>Advertisement</h3>
 	<p>
 	<script language="JavaScript">
-		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/aarp.dart/about_aarp;sz=728x90;tile=3;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=7260113016241123?"><\/script>');
-	</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/aarp.dart/about_aarp;sz=728x90;tile=3;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=7260113016241123?"></script>
+		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/aarp.dart/about_aarp;sz=728x90;tile=3;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=8172130075885822?"><\/script>');
+	</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/aarp.dart/about_aarp;sz=728x90;tile=3;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=8172130075885822?"></script>
 	<noscript>
-		<a href="http://ad.doubleclick.net/jump/aarp.dart/about_aarp;sz=728x90;tile=3;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=7260113016241123?" target="_blank">
-		<img src="http://ad.doubleclick.net/ad/aarp.dart/about_aarp;sz=728x90;tile=3;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=7260113016241123?" width="728" height="90" border="0" alt=""></a>
+		<a href="http://ad.doubleclick.net/jump/aarp.dart/about_aarp;sz=728x90;tile=3;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=8172130075885822?" target="_blank">
+		<img src="http://ad.doubleclick.net/ad/aarp.dart/about_aarp;sz=728x90;tile=3;grab=all;dindx=no;sub=aarp_overview;tert=null;subdr=null;pgid=repository~article~a2002-12-18-privacypolicy;kv=about;kv=overview;ord=8172130075885822?" width="728" height="90" border="0" alt=""></a>
 	</noscript>
 	</p>
 	</div>
 	
 </div>
 
-		<div id="footerContent">
-		<p class="topicLinks">
-		<a href="/aarp_benefits/">Member Discounts and Services</a> | <a href="/issues/">Issues and Elections</a> | <a href="/learntech/">Learning and Technology</a>
-		<a href="/health/">Health</a> | <a href="/families/">Family,&nbsp;Home&nbsp;and&nbsp;Legal</a> | <a href="/money/">Money and Work</a> | <a href="/travel/">Travel</a> | <a href="/fun/">Fun and Games</a>
-		</p>
-		<p class="siteLinks">
-		<a href="/">AARP Home</a> | <a href="/about_aarp/">About AARP</a> | <a href="/privacy.html">AARP Privacy Policy</a> | <a href="/about_aarp/contact/">Contact AARP</a>
-		<br>
-		<a href="http://links.aarp.org/member_footer">AARP Membership</a> | <a href="/mansellupdate">Manage Your Email</a> | <a href="/tools/feeds/rss/add_aarp_headlines_using_rss.html">AARP RSS Feeds</a>
-		<br>
-		<a href="/research/press-center/">For the Press</a> | <a href="/forprofessionals/">For Professionals</a> | <a href="/about_aarp/jobs/">AARP Job Opportunities</a> | <a href="/about_aarp/ad_guide/">Advertise with Us</a>
-		</p>
-		<p class="copyright"><a href="/copyright.html">Copyright 1995–2007, AARP. All rights reserved.</a></p>
-		</div><!-- /footerContent -->
+		<div id="fTopLinks">
+			<a href="/research/press-center/" title="AARP’s Press Center">Press Center</a> |
+			<a href="/aarp_benefits/natl_events/" title="AARP Events">Events</a> |
+			<a href="/research/" title="AARP Policy and Research">Policy &amp; Research</a> |
+			<a href="/about_aarp/nrta/" title="NRTA: AARP’s Educator Community">NRTA</a> |
+			<a href="/tv" title="AARP Television Programming">TV</a> |
+			<a href="http://radioprimetime.org/" title="AARP Radio Programming">Radio</a> |
+			<a href="/states/" title="AARP in Your States">States</a> |
+			<a href="/espanol/" title="AARP en Español">AARP en Español</a>
+		</div>
+		<div id="fBottomLinks">
+			<a href="/about_aarp/" title="About AARP">About AARP</a> |
+			<a href="http://www.aarp.org/aarp/help/" title="Frequently Asked Questions">Help</a> |
+			<a href="/about_aarp/contact/" title="Contact AARP">Contact AARP</a> |
+			<a href="/about_aarp/jobs/" title="Career Opportunities at AARP">Careers</a> |
+			<a href="/aarp/articles/privacypolicy.html" title="AARP’s Privacy Policy">Privacy Policy</a> |
+			<a href="/aarp/articles/terms_of_service.html" title="AARP’s Terms of Service">Terms of Service</a> |
+			<a href="/about_aarp/ad_guide/" title="Advertise with AARP">Advertise with AARP</a> |
+			<a href="/sitemap/" title="Site Map">Site Map</a>
+		</div>
+		<div id="fCopyright">
+			<a href="/aarp/articles/aarp_web_site_copyright_information.html">Copyright 1995–2008, AARP. All rights reserved.</a>
+		</div>
 	</div><!-- /footer -->
 
 </div><!-- /pageContainer -->
