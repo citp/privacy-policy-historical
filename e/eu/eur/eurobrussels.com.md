@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurobrussels.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060510id_/http%3A//www.eurobrussels.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurobrussels.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609113050id_/http%3A//www.eurobrussels.com/privacy_policy.php) for the most accurate reproduction.*
 
 # EuroBrussels.com - Privacy policy
 
@@ -30,15 +30,17 @@ The database and website are protected against unauthorised access to your detai
 
 If you have any queries, concerns or amendments please contact us on [info@eurobrussels.com](mailto:info@eurobrussels.com), or write to us at our registered office at 9 High Drive, London, KT3 3UJ United Kingdom. 
 
-[ ](http://www.eurobrussels.com/count/UBICounter.php)
+[ ](http://www.eurosciencejobs.com/)
+
+[ ](http://www.eurobrussels.com/count/EPOCounter.php)
 
 Subscribe to the free   
 EuroBrussels newsletter.   
-[ Click here ](https://web.archive.org/web/20071211060510id_/http%3A//www.eurobrussels.com/newsletter.php) to join   
+[ Click here ](https://web.archive.org/web/20080609113050id_/http%3A//www.eurobrussels.com/newsletter.php) to join   
 50,000 subscribers 
 
 "Thank you for the easy and professional service you gave us. We had a very good response"   
-[more testimonials](https://web.archive.org/web/20071211060510id_/http%3A//www.eurobrussels.com/testimonials.php). 
+[more testimonials](https://web.archive.org/web/20080609113050id_/http%3A//www.eurobrussels.com/testimonials.php). 
 
 IT, Business, Secretarial,   
 Finance, Accounting, HR?   
@@ -48,4 +50,4 @@ many jobs for international experts
 80,000+ unique   
 visitors monthly   
 50,000 subscribers  
-[Recruit here](https://web.archive.org/web/20071211060510id_/http%3A//www.eurobrussels.com/Brussels_Recruitment.php)
+[Recruit here](https://web.archive.org/web/20080609113050id_/http%3A//www.eurobrussels.com/Brussels_Recruitment.php)
