@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hpu.edu privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211121434id_/http%3A//www.hpu.edu/index.cfm%3Fsection%3Dwelcome5261) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hpu.edu privacy policy that was archived on 2008-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080610012748id_/http%3A//www.hpu.edu/index.cfm%3Fsection%3Dwelcome5261) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -41,7 +41,41 @@ win.focus();
 </script>
 
 
+ 
+    <script type="text/javascript">
+//if the user resizes the window we need to adjust the position of the menu- SECONDARY PAGES
+
+function adjustMenuPosition()
+{
+      var height, width; 
+      if (document.all) { 
+            height = document.body.offsetHeight; 
+            width = document.body.offsetWidth; 
+      } 
+      else { 
+            height = window.innerHeight; 
+            width = window.innerWidth; 
+      } 
+      /* calculate x-position of top-left corner of the menu */
+      x = (width - 790)/2 + 95;
+      if (x<80) {x = 80;}
+      showPermPanel('MainBar',x,87);
+}
+
+window.onresize = function() {
+	adjustMenuPosition();
+}
+	
+window.onload = function() {
+	adjustMenuPosition();
+}
+
+</script>
+  
+  
+
 <link href="dsp_css_1_3.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/display_flash4.js"></script>
 <link rel="SHORTCUT ICON" href="images/favicon.ico">
 <title>HPU Internet Privacy Policy</title><title>HPU-HPU Internet Privacy Policy</title></head>
 
@@ -157,7 +191,7 @@ document.write("<SCR" + "IPT SRC='" + ez_codePath + "ezloader.js'><\/SCR" + "IPT
     <tbody><tr>
       <td width="97" align="left"> <img src="/images/icons_print2_a17369.gif" alt="print page" width="16" height="20" border="0" align="absmiddle"> <a href="/index.cfm?DISPLAYGRAPHICS=NO&amp;section=welcome5261" target="_blank" class="PrintEmail">Print 
         this page</a> </td>
-      <td align="left" width="110"> <img src="/images/icons_email2_a17368.gif" alt="email page" width="19" height="12" border="0" align="absmiddle"> <a href="javascript:pop('index.cfm?action=main.emailPage&amp;URL=http%3A%2F%2Fwww%2Ehpu%2Eedu%2Findex%2Ecfm%3Fsection%3Dwelcome5261','EmailToFriend',400,500,'yes','no')" class="PrintEmail">E-mail 
+      <td align="left" width="110"> <img src="/images/icons_email2_a17368.gif" alt="email page" width="19" height="12" border="0" align="absmiddle"> <a href="javascript:pop('index.cfm?action=main.emailPage&amp;URL=http%3A%2F%2Fwww%2Ehpu%2Eedu%3Fsection%3Dwelcome5261','EmailToFriend',400,500,'yes','no')" class="PrintEmail">E-mail 
           this page</a></td>
       <td width="97"><img src="/images/icons_contact3_a17372.gif" alt="email page" width="28" height="12" border="0" align="absmiddle"><a href=" http://www.hpu.edu/index.cfm?contentid=4626" class="PrintEmail">Contact 
         HPU</a></td>
@@ -258,35 +292,48 @@ document.write("<SCR" + "IPT SRC='" + ez_codePath + "ezloader.js'><\/SCR" + "IPT
   <br>
   
   
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+  
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ?
+"https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost +
+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
 <script type="text/javascript">
-  _uacct="UA-1747218-1";
-  urchinTracker();
+
+var firstTracker = _gat._getTracker("UA-1747218-1");
+firstTracker._initData();
+firstTracker._trackPageview();
+
+
+var secondTracker = _gat._getTracker("UA-3323261-1");
+secondTracker._initData();
+secondTracker._trackPageview();
+
+
+var thirdTracker = _gat._getTracker("UA-3734410-1");
+thirdTracker._initData();
+thirdTracker._trackPageview();
+
+
+var fourthTracker = _gat._getTracker("UA-3734667-1");
+fourthTracker._initData();
+fourthTracker._trackPageview();
+
+
+var fifthTracker = _gat._getTracker("UA-3735042-1");
+fifthTracker._initData();
+fifthTracker._trackPageview();
+
 </script>
 
 
-  
-    <script language="javascript">
-/* Code to detect dimensions of current window */
-if (!ez_NN4) { onresize = function() { location.reload()} }
-var height, width; 
-if (document.all) { 
-	height = document.body.offsetHeight; 
-	width = document.body.offsetWidth; 
-} 
-else { 
-	height = window.innerHeight; 
-	width = window.innerWidth; 
-} 
-/* calculate x-position of top-left corner of the menu */
-x = (width - 790)/2 + 95;
-if (x<80) {x = 80;}
-showPermPanel('MainBar',x,87);
-</script>
+ 
+
   
   
-  
+
 
 <br><br>
 <style>
@@ -298,4 +345,5 @@ showPermPanel('MainBar',x,87);
 	visibility: hidden;
    text-decoration: none;
 }</style>
-<a href="http://www.empowerosity.com" target="_blank" class="xyz" title="Content Management - Hawaii"><font face="Arial,Helvetica,sans-serif" size="1" color="#C0C0C0">Content Management Software by Empowerosity</font></a></body></html>
+<a href="http://www.empowerosity.com" target="_blank" class="xyz" title="Content Management - Hawaii"><font face="Arial,Helvetica,sans-serif" size="1" color="#C0C0C0">Content Management Software by Empowerosity</font></a><br>
+</body></html>
