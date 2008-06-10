@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the vldpersonals.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028083444id_/http%3A//www.vldpersonals.com/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vldpersonals.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610173419id_/http%3A//www.vldpersonals.com/legal/privacy) for the most accurate reproduction.*
 
-# Online Dating Software - Contact Us - Privacy Policy
+# vldPersonals - Online Dating Software - Legal - Privacy policy
 
-## Gathering and Use of Information
+This Privacy Policy governs the manner in which VLD Interactive collects, uses, maintains and discloses information collected from users of the www.vldpersonals.com Web Site (a "User").
 
-VLD Interactive will only collect your personal information when you purchase our products, or when you voluntarily sign-up for a membership account in order to access certain areas of our site, or when you sign-up for our mailing list. Access to our web site is generally unrestricted, and you may browse it anonymously.
+## The information we collect
 
-Information we collect from you will never be sold, rented, or shared with third-parties. However, we may need to share your information with our affiliated companies in order to provide services you have purchased or requested. We will make you aware of such instances.
+VLD Interactive may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. VLD Interactive may also collect information about how Users use our Web Site, for example, by tracking the number of unique views received by the pages of the Web Site, or the domains from which Users originate. We may use "cookies" to track how Users use our Web Site. A cookie is a piece of software that a Web server can store on the Users' PC and use to identify the User should they visit the web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web Site.
 
-## Cookies
+## How we use information
 
-Our website utilizes "cookies". A "cookie" is a small text file that permits us to recognize your browser in order to customize your experience, or permit you to access restricted areas. Cookies do not contain personal information.
+VLD Interactive may use personally identifiable information collected through our Web Site to contact Users regarding products and services offered by VLD Interactive and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users' experience with Web Site and such affiliates, independent contractors and business partners. VLD Interactive may also use information collected through our Web Site for research regarding the effectiveness of the Web Site and the marketing, advertising and sales efforts of VLD Interactive, its trusted affiliates, independent contractors and business partners.
 
-## IP Address
+## Disclosure of Information
 
-Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our Web site.
+Information we collect from you will never be sold, rented, or shared with third-parties. However, we may need to share your information with our trusted affiliates, independent contractors and business partners in order to provide services you have purchased or requested.
 
-## Mailing Lists
+## Mailing lists
 
 As a member of our Web site you may occasionally receive an email newsletter informing you of new products and services. You may choose not to receive further email messages by clicking the "unsubscribe" link at the bottom of the email.
 
