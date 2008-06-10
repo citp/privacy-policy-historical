@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperdollheaven.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213040806id_/http%3A//www.stardoll.com/en/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperdollheaven.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611012446id_/http%3A//www.stardoll.com/en/about/sections.php%3Fsection%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Stardoll - Fame, fashion and friends
 
@@ -22,7 +22,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 ##### Opt-Out and Termination:
 
-We believe that our ability to share your Personal Information with our affiliates, vendors and certain third parties improves our ability to provide services to you. However, if you object to our sharing of your personal information and would like to exercise your rights under the Financial Services Modernization Act and the Fair Reporting Act to limit our use of certain information governed by the mandatory opt-out provisions of those acts (should we ever collect such information and even though we are not governed by those acts), and if you would like to terminate our use of your Personal Information on a going forward basis (except as it relates to prior financial transaction and communications) you can do that by filling in the form below. However, this will result in the termination of your Stardoll user account(s). Please click [here](https://web.archive.org/web/20071213040806id_/http%3A//www.stardoll.com/en/help/optOut.php) and fill in the form. 
+We believe that our ability to share your Personal Information with our affiliates, vendors and certain third parties improves our ability to provide services to you. However, if you object to our sharing of your personal information and would like to exercise your rights under the Financial Services Modernization Act and the Fair Reporting Act to limit our use of certain information governed by the mandatory opt-out provisions of those acts (should we ever collect such information and even though we are not governed by those acts), and if you would like to terminate our use of your Personal Information on a going forward basis (except as it relates to prior financial transaction and communications) you can do that by filling in the form below. However, this will result in the termination of your Stardoll user account(s). Please click [here](https://web.archive.org/web/20080611012446id_/http://www.stardoll.com/en/help/optOut.php) and fill in the form. 
 
 ##### Cookie
 
