@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outspark.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225070329id_/http%3A//www.outspark.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outspark.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610205920id_/http%3A//www.outspark.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Outspark
 
 **OUTSPARK Privacy Policy**
 
