@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achrnews.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212085224id_/http%3A//www.bnpmedia.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achrnews.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610135608id_/http%3A//www.bnpmedia.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - HTML - BNP Media
 
@@ -25,6 +25,7 @@ Attn: Privacy Manager
 Troy, Michigan 48084-3333  
 U.S.A.
 
-E-mail: [privacy@BNPMedia.com](mailto:privacy@BNPMedia.com)
+E-mail: [privacy@BNPMedia.com](mailto:privacy@BNPMedia.com)   
+Fax: (800) 952-6643
 
 If you need assistance in updating the information you have provided to BNP Media or you have questions or comments about these policies, contact BNP Media’s Privacy Manager at [privacy@BNPMedia.com](mailto:privacy@BNPMedia.com). BNP Media will review this privacy policy as needed and may update it periodically. By continued use of BNP Media products, you consent to the collection and use of your information by BNP Media and accept any changes to this policy. 
