@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aplus.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011062911id_/http%3A//www.aplus.com/about/pri.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplus.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610201858id_/http%3A//www.aplus.com/about/pri.asp) for the most accurate reproduction.*
 
-# A+ Auto and Home Insurance Plus: Privacy Policy
+# A+ California Casualty Auto & Home Insurance: Privacy Policy
 
 In this section
 
@@ -50,9 +50,9 @@ Whenever we collect sensitive personally identifiable information on our A+ Web 
 
 **What is our policy about sharing personally identifiable information collected on our A+ Web sites with third parties?**
 
-We do not share, without your permission, personally identifiable information collected on our A+ Web sites about you and other members of your household with [ outside parties](https://web.archive.org/web/20071011062911id_/http%3A//www.aplus.com/about/pri.asp#OutsideParty) who might use the information to market their products or services to you.
+We do not share, without your permission, personally identifiable information collected on our A+ Web sites about you and other members of your household with [ outside parties](https://web.archive.org/web/20080610201858id_/http%3A//www.aplus.com/about/pri.asp#OutsideParty) who might use the information to market their products or services to you.
 
-As a necessary part of our business of providing auto and home insurance, we do share such information with selected [agents](https://web.archive.org/web/20071011062911id_/http%3A//www.aplus.com/about/pri.asp#Agent), [ contractors](https://web.archive.org/web/20071011062911id_/http%3A//www.aplus.com/about/pri.asp#Contractor) and outside parties, including our trade association partners, who provide services that support core functions our company performs in the course of operating our auto and home insurance business, including sales, marketing, underwriting, claims and premium collection. 
+As a necessary part of our business of providing auto and home insurance, we do share such information with selected [agents](https://web.archive.org/web/20080610201858id_/http%3A//www.aplus.com/about/pri.asp#Agent), [ contractors](https://web.archive.org/web/20080610201858id_/http%3A//www.aplus.com/about/pri.asp#Contractor) and outside parties, including our trade association partners, who provide services that support core functions our company performs in the course of operating our auto and home insurance business, including sales, marketing, underwriting, claims and premium collection. 
 
 We will also share information necessary to comply with an order issued by a court or governmental agency of competent jurisdiction.
 
@@ -68,8 +68,6 @@ Exceptions are as follows:
 Only by choosing not to do business with us can this necessary information sharing be avoided. 
 
 **What is our policy about using personally identifiable information collected on our A+ Web sites to market our own auto and home insurance products?**
-
-We do not use your e-mail address, without your permission, to send you sales or marketing e-mails about our own auto and home insurance products. 
 
 With respect to direct mail and telephone marketing, if you do not want information collected on our A+ Web sites to be used by us to market our own auto and home insurance products to you, then you can instruct us to remove you from our marketing lists: 
 
