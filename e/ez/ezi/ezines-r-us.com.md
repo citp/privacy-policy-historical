@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezines-r-us.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011140024id_/http%3A//www.ezines-r-us.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezines-r-us.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610061549id_/http%3A//www.ezines-r-us.com/privacy.php) for the most accurate reproduction.*
 
 # .::Ezines-R-Us Ezine Directory & Ad Placement Services - Increase Your Exposure Today!
 
