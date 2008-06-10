@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210184828id_/http%3A//www.fishbowlinventory.com/company/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610204836id_/http%3A//www.fishbowlinventory.com/company/legal/privacy.php) for the most accurate reproduction.*
 
 # Fishbowl Inventory - Privacy Statement
 
@@ -82,12 +82,10 @@ Give us a ring
 
 [](https://web.archive.org/community/customer_comments.php)
 
-With Fishbowl Inventory we got a quality piece of software, but more importantly, a team of "can do" people who are incredibly competent, positive, and client focused. I really feel that they are invested in helping us to be as successful as possible using the tool that they have developed.  
-[ _BooJee Beads_](https://web.archive.org/community/customer_comments.php#cust21)  
-[ _President_](https://web.archive.org/community/customer_comments.php#cust21)
+Fishbowl Inventory is the perfect solution for inventory control at the right price. The integration with QuickBooks is easy to configure and will save you a lot time with no double entries. Great product and will recommended to anybody that's looking for a QuickBooks integrated inventory solution.  
+[ _Posted on the QuickBooks website_](https://web.archive.org/community/customer_comments.php#cust137)
 
-Fishbowl Inventory is very easy to use. The tool was wisely developed to mirror all of the logical steps in business. My employees have been able to adopt Fishbowl Inventory in their daily routine without a large amount of training.  
-[ _Backyard Adventures_](https://web.archive.org/community/customer_comments.php#cust40)  
-[ _Chris Connors_](https://web.archive.org/community/customer_comments.php#cust40)  
+WOW! Fishbowl is a fantastic inventory control system! It has helped us organize our inventory from sales to purchasing, and it interfaces with our existing QuickBooks software. Kudos to Fishbowl & its staff for going the extra mile to help even those of us who are only "semi-computer literate"!  
+[ _Posted on the QuickBooks website_](https://web.archive.org/community/customer_comments.php#cust135)  
   
 ---|---
