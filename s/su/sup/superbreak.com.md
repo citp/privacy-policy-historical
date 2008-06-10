@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212162709id_/http%3A//www.superbreak.com/info/privacyinfo.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610042547id_/http%3A//www.superbreak.com/info/privacyinfo.htm) for the most accurate reproduction.*
 
 # Superbreak > Hotel Bookings, Reservations & Short Break Holidays
 
@@ -6,13 +6,12 @@
 
 Superbreak is a website owned and operated by Superbreak Mini Holidays Ltd, part of Holidaybreak plc. Superbreak.com is operated from the Superbreak offices at: 
 
-60 Piccadilly York  
-YO1 9WX  
-Tel: 01904 628992  
-Fax: 01904 652592  
+Eboracum Way  
+York  
+YO31 7RE  
+Tel: 0871 221 3366  
+Fax: 0871 221 3377  
 Email: [internet@superbreak.com](mailto:internet@superbreak.com)
-
-If you have a complaint to make, please contact our Customer Relations Manager at the above address. You can email your comments to [cr@superbreak.com](mailto:cr@superbreak.com)
 
 #### Your Information
 
