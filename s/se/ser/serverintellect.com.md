@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227160054id_/http%3A//www.serverintellect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610162730id_/http%3A//www.serverintellect.com/privacy.aspx) for the most accurate reproduction.*
 
 # Server Intellect Privacy Policy
 
@@ -62,8 +62,8 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 
 Server Intellect  
 Privacy Statement Personal  
-12472 Lake Underhill Rd #347  
-Orlando, FL 32828
+189 S Orange Ave Ste 1410  
+Orlando, FL 32801
 
 Server Intellect will use commercially reasonable efforts to promptly respond and resolve any problem or question.
 
