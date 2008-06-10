@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azfcu.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211213914id_/http%3A//www.azfcu.org/index/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azfcu.org privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610094740id_/http%3A//www.azfcu.org/index/privacy.html) for the most accurate reproduction.*
 
 # Arizona Federal - Privacy Policy
 
