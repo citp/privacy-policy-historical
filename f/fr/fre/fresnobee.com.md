@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fresnobee.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210222727id_/http%3A//www.fresnobee.com/104/story/1511.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresnobee.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610071736id_/http%3A//www.fresnobee.com/104/story/1511.html) for the most accurate reproduction.*
 
 # FresnoBee.com: About Us: Privacy Policy
 
@@ -25,7 +25,7 @@ Occasionally, we may disclose personal information in other circumstances, but w
 
 The Fresno Bee is particularly concerned with providing a safe online environment for kids. Therefore, in areas operated by The Fresno Bee that are directed to kids or when we learn that a user is under the age of 13, we will ask for parental consent before collecting additional personal information about the child or allowing the child to use the The Fresno Bee services to provide additional personal information. Parental consent can be provided in two ways:
 
-  1. Send a fax copy of a completed Parental Consent Form, including your signature, to the facsimile number provided on the [Parental Consent Form](https://web.archive.org/web/20071210222727id_/http%3A//www.fresnobee.com/104/story/parental_consent.html) (which will be provided in applicable areas on our site); or 
+  1. Send a fax copy of a completed Parental Consent Form, including your signature, to the facsimile number provided on the [Parental Consent Form](https://web.archive.org/web/20080610071736id_/http%3A//www.fresnobee.com/104/story/parental_consent.html) (which will be provided in applicable areas on our site); or 
   2. Call our toll-free number at the telephone number provided on the Parental Consent Form.
 
 
