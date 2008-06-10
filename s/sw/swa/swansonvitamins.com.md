@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swansonvitamins.com privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805065457id_/http%3A//www.swansonvitamins.com/webapp/wcs/stores/servlet/SHPHtmlPageView%3FstoreId%3D10001%26langId%3D-1%26catalogId%3D10051%26tab%3D4%26htmlInclude%3DSHPaboutus_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swansonvitamins.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610140209id_/http%3A//www.swansonvitamins.com/webapp/wcs/stores/servlet/SHPHtmlPageView3%3FstoreId%3D10001%26langId%3D-1%26catalogId%3D10051%26SourceCode%3DINT999%26tab%3D4%26htmlInclude%3DSHPaboutus_security%26wtN%3D42) for the most accurate reproduction.*
 
-# The History of Swanson Health Products and Swansonvitamins.com, our policies and guarantees
+# Swanson Health Products
 
 Overview   
 VeriSign Certification   
