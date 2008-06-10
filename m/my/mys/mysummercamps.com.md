@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mysummercamps.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212175406id_/http%3A//www.mysummercamps.com/camps/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysummercamps.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610094201id_/http%3A//www.mysummercamps.com/camps/privacy.html) for the most accurate reproduction.*
 
-# Privacy - Summer Camps 2007 - MySummerCamps.com
-
-[Summer Camps](http://www.mysummercamps.com/camps/index.html) : [All About Us](http://www.mysummercamps.com/camps/about_us.html) : [Our Company](http://www.mysummercamps.com/camps/our_company.html) : Privacy Policy 
+# Privacy Policy - Summer Camps 2008 - MySummerCamps.com
 
 Privacy Statement for MySummerCamps.com
 
@@ -59,6 +57,3 @@ Toronto, ON M6A 1J2
 **Facsimile:** 416-850-9908  
 **Toll-Free:** 877-777-7738  
 **Email:**[info@MySummerCamps.com](mailto:info@MySummerCamps.com)
-
-  
-
