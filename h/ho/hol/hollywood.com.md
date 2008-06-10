@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208202310id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610075541id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
 
 # Privacy Statement for Hollywood.com at Hollywood.com
 
@@ -74,3 +74,6 @@ Hollywood.com, Inc.
 Suite 221A   
 Boca Raton, Florida 33431   
 or email us at [membership@boca.hollywood.com](mailto:membership@boca.hollywood.com)
+
+  
+
