@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211155440id_/http%3A//www.binglee.com.au/Page/Privacy%2BPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610072550id_/http%3A//www.binglee.com.au/Page/Privacy%2BPolicy.aspx) for the most accurate reproduction.*
 
-# Bing Lee - Bing Lee Privacy Policy
+# Bing Lee - Privacy Policy
 
 ### Respecting Your Privacy 
 
@@ -10,13 +10,19 @@ The privacy of your personal information has always been important to us at Bing
 
 This Privacy Policy sets out how we manage your personal information. It also describes, in general terms, the types of personal information we hold, for what purposes and also sets out how that information is collected, used, stored and disclosed by us. Our Privacy Policy applies to all your dealings with Bing Lee whether through our stores, franchisees, warehouses or web sites. 
 
+### Security - Online Gift Card Purchase 
+
+We have security procedures in place to protect your personal information. We use the Secure Sockets Layer (SSL), an advanced security protocol that protects your credit card information and ensures secure online ordering. SSL internet connections are encrypted and thus protect all credit card ordering information, including your name, address and credit card number, so it can not be read in transit. We use secure technology, privacy protection controls and restrictions on employee access, to safeguard your personal information. 
+
+Any unwanted hardcopy (printed) personal information is disposed of via a professional security shredding/destruction service. Bing Lee does not accept responsibility for the security of information while it is being transmitted to us over the internet. 
+
 ### Collecting Your Personal Information 
 
 If you acquire or have acquired a product or service from Bing Lee, Bing Lee may collect and hold your personal information for the purposes of:- 
 
   * providing you with the product or service (including assessing any application for credit and identifying you); 
   * managing and administering the supply of our products and/or services to you; and 
-  * protecting, to the extent possible, against any fraud. 
+  * protecting, to the extent possible, against any fraud. 
 
 
 
@@ -47,7 +53,7 @@ Session cookies are temporary and used during your browsing session. They expire
 To permit Bing Lee to recognise you each time your browser visits Bing Lee's web site, it downloads a cookie onto your hard drive. Through the use of this type of cookie, Bing Lee is able to:- 
 
   * recognise your browser each time it visits our web site; and 
-  * track which pages of our web site you visit. 
+  * track which pages of our web site you visit. 
 
 
 
@@ -66,7 +72,7 @@ The parties to whom Bing Lee may disclose your personal information include:
   * organisations involved in our payment system including financial institutions, card merchants and other financial institutions. 
   * your representatives including your accounting, financial and legal advisers. 
   * organisations as required or authorised by law including governmental or regulatory bodies; and 
-  * other persons or organisations where your consent is given. 
+  * other persons or organisations where your consent is given. 
 
 
 
@@ -87,8 +93,8 @@ Bing Lee stores information in many ways including in paper and electronic form.
   * Security measures in relation to our business systems and financial data. 
   * Confidentiality arrangements with our employees and service providers. 
   * Restricting access to your personal information by ensuring that the individual seeking access to that information has satisfied our Privacy Policy and provided sufficient identification in order to justify access to your information. 
-  *  Restricting access to our buildings and other facilities. 
-  * Secure firewalls and server environments for our web sites. 
+  * Restricting access to our buildings and other facilities. 
+  * Secure firewalls and server environments for our web sites. 
 
 
 
@@ -105,7 +111,7 @@ You have the right to deal with Bing Lee anonymously where it is lawful and prac
 Bing Lee will not, without your consent, collect information about you that reveals your racial or ethnic origin, political persuasion, religious or philosophical belief or affiliation, professional or trade association, union membership, health details or particulars of any disability, sexual orientation or criminal background. This is subject to certain exceptions including:- 
 
   * The collection of information as required by law; or 
-  * When the information is required for the purposes of the conduct of any prospective or current legal proceedings. 
+  * When the information is required for the purposes of the conduct of any prospective or current legal proceedings. 
 
 
 
@@ -120,7 +126,7 @@ Bing Lee will give you access to your personal information which we hold about y
   * Granting access being unlawful. 
   * Access prejudicing enforcement activities relating to criminal conduct or other breaches of law. 
   * The existence of a legal dispute or potential legal dispute; and 
-  * Denial of access being required or authorised by law. 
+  * Denial of access being required or authorised by law. 
 
 
 
