@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalcamera-hq.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211191424id_/http%3A//www.digitalcamera-hq.com/digital-cameras/dchq-privacy-policy_guide.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcamera-hq.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610045953id_/http%3A//www.digitalcamera-hq.com./digital-cameras/dchq-privacy-policy_guide.html) for the most accurate reproduction.*
 
-# DCHQ: Privacy Policy - Unbiased reviews, prices, and advice from DigitalCamera-HQ
+# DCHQ: Privacy Policy - Unbiased digital camera reviews, prices, and advice
 
 DigitalAdvisor LLC has provided this privacy policy because we value your right to privacy. This policy describes the types of information DigitalAdvisor LLC's Web site, DigitalCamera-HQ.com, gathers from its users and how that information is used. Please read this policy carefully. If you have questions about this policy, [please submit your query here.](https://web.archive.org/forms/feedback_form.html?site=dchq)
 
