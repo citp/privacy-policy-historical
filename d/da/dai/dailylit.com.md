@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the dailylit.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610175914id_/http%3A//dailylit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailylit.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610110305id_/http%3A//www.dailylit.com/privacy) for the most accurate reproduction.*
 
-# DailyLit: Read books by email and RSS.
+# DailyLit: Privacy Policy
 
 We take the privacy of your personal information very seriously. This Privacy Policy describes how we treat the information we collect when you visit our Web site and/or register to for the DailyLit services. Please read this policy carefully.
 
 ### Your E-mail Address
 
 In order to send you books by email, we need your e-mail address (duh). We do not require any other personal information. We may occasionally send you e-mails that are not part of a book, for instance, to notify you of changes to DailyLit or to suggest other books you might enjoy.
+
+DailyLit does not collect personally identifiable information from children under the age of 13. If you believe that a child has provided DailyLit with personally identifiable information without the consent of his or her parent or guardian, please contact us at [support@dailylit.com](mailto:support@dailylit.com). If DailyLit becomes aware that a child under age 13 has provided us with personally identifiable information, we will delete such information.
 
 DailyLit will never sell, rent or share your e-mail address with any third parties for marketing purposes without your express permission.
 
@@ -16,9 +18,17 @@ We may also disclose your e-mail address as required by law.
 
 To remove your e-mail address from DailyLit, simply click on the "manage all your subscriptions" link included in every email. You will see a list of your subscriptions and an option to remove your email address.
 
+### Billing Information
+
+Subscriptions to certain copyrighted books on DailyLit require payment via credit card. In order to process the payment we need billing information, including your name, credit card number and credit card expiration date. We may also ask for your address and your card security code.
+
+DailyLit will never sell or rent your billing information to third parties. We will not share your billing information with third parties other than for purposes of processing the card transaction.
+
+We may disclose your billing information as required by law.
+
 ### Usage Information and Optional Personal Information
 
-DailyLit keeps track of your subscriptions, including which books you are reading and how far along you are with these. We may also ask you for optional personal information, such as your name, your age, and so on.
+DailyLit keeps track of your subscriptions, including which books you are reading and how far along you are with these. We may also ask you for optional personal information, such as your birthdate, your interests, etc.
 
 DailyLit will never sell, rent or share your usage and optional personal information, with any third parties for marketing purposes without your express permission.
 
@@ -42,4 +52,4 @@ As part of the service, DailyLit may create links allowing you to access third p
 
 ### Changes to this Privacy Policy
 
-DailyLit may update this policy at any time for any reason. If there are any material changes to how we handle personal information we will send a notice to your email address and/or temporarily place a prominent notice on our Web site. 
+DailyLit may update this policy at any time for any reason. If there are any material changes to how we handle personal information we will send a notice to your email address and/or temporarily place a prominent notice on our Web site.
