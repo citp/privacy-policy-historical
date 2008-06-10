@@ -1,195 +1,50 @@
-<!--The following is the downloaded HTML source of the auctiva.com privacy policy that was archived on 2006-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061020113152id_/http%3A//www.auctiva.com/about/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auctiva.com privacy policy that was archived on 2008-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080610141235id_/http%3A//www.auctiva.com/about/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-    <title>Auctiva Privacy</title>
-    <meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
-    <meta name="CODE_LANGUAGE" content="C#">
-    <meta name="vs_defaultClientScript" content="JavaScript">
-    <meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-    <meta name="keywords" content="auction management, auction tool, auction software, auction templates, eBay tool, eBay software, image hosting, templates, scheduling, listing tool, lister, storefront, store, eBay templates, online">
-    <meta name="description" content="eBay auction software providing eBay auction management tools, free templates, free image hosting, online scheduling, and an easy to use one page listing tool.">
-    <link href="../default.css" rel="stylesheet">
-  </head>
-  <body ms_positioning="FlowLayout">
-    <form name="Form1" method="post" action="privacy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDw4NjI0MzQ3MjQ7O2w8ZnRjdHJsX1NpZ25JbjpjYl9SZW1lbWJlck1lO2Z0Y3RybF9TaWduSW46YnRuX1NpZ25Jbjs+PoCeDUsQOoxujoEnoOUGIE8lmAmp">
+  <title>Auctiva Privacy</title>
+  <meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
+  <meta name="CODE_LANGUAGE" content="C#">
+  <meta name="vs_defaultClientScript" content="JavaScript">
+  <meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+  <meta name="keywords" content="auction management, auction tool, auction software, auction templates, eBay tool, eBay software, image hosting, templates, scheduling, listing tool, lister, storefront, store, eBay templates, online">
+  <meta name="description" content="eBay auction software providing eBay auction management tools, free templates, free image hosting, online scheduling, and an easy to use one page listing tool.">
+  <link href="../default.css" rel="stylesheet">
+</head>
+<body ms_positioning="FlowLayout">
+  <form name="Form1" method="post" action="privacy.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTU0NjcyMjQ0NmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFG2Z0Y3RybF9TaWduSW46Y2JfUmVtZW1iZXJNZQUYZnRjdHJsX1NpZ25JbjpidG5fU2lnbkluEVnga3Ma/n0z6tHt4sidU+VkBtE=">
 
-      
+    
 <!-- Begin Main Header -->
-<script type="text/javascript">
 
-var timer;
-
-function subNavRollOver()
-{
-	//make sure we are not about to reset the headers from
-	//rolling out of a previous tab since we are now on the subnav table!
-	if(timer)
-	{
-		window.clearTimeout(timer);
-		timer = null;
-	}
-}
-
-function subNavRollOut()
-{
-  //theoretically we want to immediately reset the headers after the user leaves
-  //the subnav area, however rollover on tables isn't stable and this function
-  //might get called randomly as the user mouses over subnav links, so we should
-  //give them a second to make sure they are not still in the subnav area...
-  if (!timer || timer == null)
-	{
-		timer = window.setTimeout("resetHeaders()", 100);
-	}
-}
-
-function headerRollOver(displayIndex)
-{
-	//make sure we are not about to reset the headers from
-	//rolling out of a previous tab since we are now on a new tab!
-	if(timer)
-	{
-		window.clearTimeout(timer);
-		timer = null;
-	}
-		
-	//dont do anything else if we just hovered over the same tab we are already on
-	if (displayIndex != lastTab)
-	{
-		//set the previous tab as inactive
-		document.getElementById(tabIDs[lastTab]).innerHTML = "<img src='" + baseDomain + headerTabs[tabPosToEnumMap[lastTab]][0] + "' alt='' border='0' />";
-		
-		//mark the new tab as active
-		document.getElementById(tabIDs[displayIndex]).innerHTML = "<img src='" + baseDomain + headerTabs[tabPosToEnumMap[displayIndex]][1] + "' alt='' border='0' />";
-		
-		//save the new tab as our last tab
-		lastTab = displayIndex;
-		
-		//if we are signed in, also display the sub navs for the new tab
-		if (signedIn)
-		{
-			buildSubNavs(displayIndex);
-		}
-	}
-}
-
-function buildSubNavs(index)
-{
-		//remove the previous row..
-	document.getElementById("subnav_table").deleteRow(0);
-	
-	//create new row and insert it
-	var oTR = document.getElementById("subnav_table").insertRow(0);
-
-	var oCell = oTR.insertCell(-1);
-	//allocating 61 pixels for each subnav link
-	oCell.style.width = new String(760 - (61*subnavs[tabPosToEnumMap[index]].length));
-	var txt = document.createTextNode("\u00a0"); //unicode character for &nbsp;
-	oCell.appendChild(txt);
-	for (i = 0; i < subnavs[tabPosToEnumMap[index]].length; i++)
-	{
-		if(i != 0)
-		{	
-			//first add the divider if we are not on the first link
-			//<td width="*" nowrap style="padding-top: 3px"><p class="header-subnav-text"><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span></p></td>
-			oCell = oTR.insertCell(-1);
-			oCell.cssText = "width:*;white-space:nowrap;padding-top:3px";
-			var p = document.createElement("p");
-			p.className = "header-subnav-text";
-			var sp = document.createElement("span");
-			txt = document.createTextNode("\u00a0\u00a0|\u00a0\u00a0"); //unicode characters for &nbsp;
-			sp.appendChild(txt);
-			p.appendChild(sp);
-			oCell.appendChild(p);
-		}
-	
-		//determine if this is the subnav we are currently on or not, because it has a different color
-		var loc = subnavs[tabPosToEnumMap[index]][i].replace(/\[BASEURL\]/g, baseDomain);
-		//we cannot leave these as relative paths because they will be relative to the tab
-		//we are currently on and not the tab they actually belong to!
-		if (loc.indexOf(baseDomain) != 0 && loc.indexOf('javascript') == -1)
-		{
-			loc = baseDomain + loc;
-		}
-		
-		//add the actual navigation link..
-		//<td width="*" nowrap height="21" style="padding-top: 3px"><a class="header-subnav-text" href="[LOCATION]" style="border-width:0px;color:#24478F;">[NAME]</a></td>
-		oCell = oTR.insertCell(-1);
-		oCell.cssText = "width:*;height:21px;white-space:nowrap;padding-top:3px";
-		var a = document.createElement("a");
-		a.className = "header-subnav-text";
-		a.href = loc;
-		a.style.borderWidth = "0px";
-		if (loc == location.href)
-		{
-			a.style.color = "#24478F";
-		}
-		txt = document.createTextNode(subnavNames[tabPosToEnumMap[index]][i]);
-		a.appendChild(txt);
-		oCell.appendChild(a);
-	}
-}
-
-function headerRollOut()
-{
-	//if the user doesn't move the mouse directly from the header to the subnav we should
-	//reset.. so give them a split second to get down there.
-	if (!timer || timer == null)
-	{
-		timer = window.setTimeout("resetHeaders()", 100);
-	}
-}
-
-function resetHeaders()
-{
-	//make sure our timer variable is not hanging around because
-	//we cannot set a new timer as long as this has a value
-	timer = null;
-	
-	//set our current tab as inactive
-	document.getElementById(tabIDs[lastTab]).innerHTML = "<img src='" + baseDomain + headerTabs[tabPosToEnumMap[lastTab]][0] + "' alt='' border='0' />";
-
-	//restore the original tab as active
-	document.getElementById(tabIDs[homeTab]).innerHTML = "<img src='" + baseDomain + headerTabs[tabPosToEnumMap[homeTab]][1] + "' alt='' border='0' />";
-	
-	//set our current tab to the original tab
-	lastTab = homeTab;
-	
-	//if we are signed in, also restore the original sub navs
-	if (signedIn)
-	{
-		buildSubNavs(homeTab);
-	}
-}
-</script>
 <table id="ftctrl_Header_htbl_MainHeader" width="100%" border="0" cellpadding="0" cellspacing="0" class="header-container" background="http://www.auctiva.com/images/bg_header.jpg">
 	<tbody><tr>
 		<td width="*">
 			&nbsp;
 		</td>
-		<td width="760" height="76">
+		<td id="ftctrl_Header_logo_signin_wrap1" width="760" height="76">
 			<!-- Begin Logo Table -->
-			<table width="760" cellpadding="0" cellspacing="0" height="76">
+			<table id="logo_signin_wrap2" width="760" cellpadding="0" cellspacing="0" height="76">
 				<tbody><tr>
 					<td>
-						<a id="ftctrl_Header_lnk_MainLogo" href="http://www.auctiva.com/" target="_top"><img src="http://www.auctiva.com/images/logo.gif" alt="" border="0"></a>
+						<a id="ftctrl_Header_lnk_MainLogo" href="http://www.auctiva.com/" target="_top"><img src="http://www.auctiva.com/images/logo.gif" border="0"></a>
 					</td>
 					<td valign="top" align="right">
 						<table cellspacing="0" cellpadding="0">
 							<tbody><tr>
-								<td rowspan="2" valign="top" style="PADDING-RIGHT: 10px; BACKGROUND-COLOR: #3367cd; width:188px;"><p class="header-subnav-text"><b><img id="ftctrl_Header_img_SignupPointer" src="http://www.auctiva.com/images/pointer.jpg" alt="" border="0" style="MARGIN-BOTTOM: -2px">&nbsp;<a id="ftctrl_Header_lnk_signup" href="http://www.auctiva.com/signup.aspx" target="_top">Sign Up <span style="color: #FFA13C">- 
+								<td rowspan="2" valign="top" style="PADDING-RIGHT: 10px; BACKGROUND-COLOR: #3367cd; width:188px;"><p class="header-subnav-text"><b><img id="ftctrl_Header_img_SignupPointer" src="http://www.auctiva.com/images/pointer.jpg" border="0" style="MARGIN-BOTTOM: -2px">&nbsp;<a id="ftctrl_Header_lnk_signup" href="http://www.auctiva.com/signup.aspx" target="_top">Sign Up <span style="color: #FFA13C">- 
 													FREE!</span></a></b></p>
 								</td>
-								<td rowspan="1" valign="bottom" style="BACKGROUND-COLOR: #609d01"><img id="ftctrl_Header_img_LinkBoxLeft" src="http://www.auctiva.com/images/lnkbox_left.jpg" alt="" border="0"></td>
-								<td rowspan="1" style="BORDER-BOTTOM: #558c00 1px solid; BACKGROUND-COLOR: #609d01; word-spacing:-.6pt; "><p class="header-subnav-text"><a id="ftctrl_Header_lnk_help" href="http://www.auctiva.com/free_auction_software_help/help.aspx" target="_top">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="ftctrl_Header_lnk_signin" href="http://www.auctiva.com/default.aspx" target="_top">Sign In</a></p>
+								<td rowspan="1" valign="bottom" style="BACKGROUND-COLOR: #609d01"><img id="ftctrl_Header_img_LinkBoxLeft" src="http://www.auctiva.com/images/lnkbox_left.jpg" border="0"></td>
+								<td rowspan="1" style="BORDER-BOTTOM: #558c00 1px solid; BACKGROUND-COLOR: #609d01; word-spacing:-.6pt; "><p class="header-subnav-text"><a id="ftctrl_Header_lnk_help" href="http://www.auctiva.com/free-auction-software-help/help.aspx" target="_top">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="ftctrl_Header_lnk_signin" href="http://www.auctiva.com/default.aspx" target="_top">Sign In</a></p>
 								</td>
-								<td rowspan="1" valign="bottom" style="BACKGROUND-COLOR: #609d01"><img id="ftctrl_Header_img_LinkBoxRight" src="http://www.auctiva.com/images/lnkbox_right.jpg" alt="" border="0"></td>
+								<td rowspan="1" valign="bottom" style="BACKGROUND-COLOR: #609d01"><img id="ftctrl_Header_img_LinkBoxRight" src="http://www.auctiva.com/images/lnkbox_right.jpg" border="0"></td>
 							</tr>
 							<tr><td>&nbsp;</td></tr>
 							
 						</tbody></table>
-						<table cellspacing="0" cellpadding="0">
+						<table cellspacing="0" cellpadding="0" border="0">
 							<tbody><tr>
 								<td colspan="4" align="right" valign="bottom" style="PADDING-TOP: 0px">
 									
@@ -200,15 +55,7 @@ function resetHeaders()
 									<a id="ftctrl_Header_lnk_Classes" href="http://www.auctiva.com/help/tutorials.aspx" target="_top" style="text-decoration:none"></a>
 									<!-- it is important that we maintain viewstate for the phonesupport stuff so we don't need to check for visibility every postback-->
 									
-									
-									<iframe id="ftctrl_Header_eventIFrame" width="144" marginwidth="0" frameborder="0" height="30" marginheight="0" style="visibility:hidden;display:none;" scrolling="no" hspace="0" vspace="0" src=""></iframe>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				
-			</tbody></table>
+									</td><td>&nbsp;</td><td></td></tr></tbody></table></td></tr></tbody></table>
 			<!-- End Logo Table -->
 		</td>
 		<td width="*">
@@ -225,15 +72,19 @@ function resetHeaders()
 				<tbody><tr>
 					
 							<td valign="top">
-								<a id="ftctrl_Header_rpt_NavigationTabs__ctl0_lnk_Tab" href="http://www.auctiva.com/default.aspx" target="_top"><img src="http://www.auctiva.com/images/header/tab_home_active.gif" alt="" border="0"></a>
+								<a id="ftctrl_Header_rpt_NavigationTabs__ctl0_lnk_Tab" href="http://www.auctiva.com/default.aspx" target="_top"><img src="http://www.auctiva.com/images/header/tab_home_active.gif" border="0"></a>
 							</td>
 						
 							<td valign="top">
-								<a id="ftctrl_Header_rpt_NavigationTabs__ctl1_lnk_Tab" href="http://www.auctiva.com/free_ebay_sales_tools/products.aspx" target="_top"><img src="http://www.auctiva.com/images/header/tab_products.gif" alt="" border="0"></a>
+								<a id="ftctrl_Header_rpt_NavigationTabs__ctl1_lnk_Tab" href="http://www.auctiva.com/free_ebay_sales_tools/products.aspx" target="_top"><img src="http://www.auctiva.com/images/header/tab_products.gif" border="0"></a>
 							</td>
 						
 							<td valign="top">
-								<a id="ftctrl_Header_rpt_NavigationTabs__ctl2_lnk_Tab" href="http://www.auctiva.com/signup.aspx" target="_top"><img src="http://www.auctiva.com/images/header/tab_signup.gif" alt="" border="0"></a>
+								<a id="ftctrl_Header_rpt_NavigationTabs__ctl2_lnk_Tab" href="http://www.auctiva.com/edu/landing.aspx" target="_top"><img src="http://www.auctiva.com/images/header/tab_education.gif" border="0"></a>
+							</td>
+						
+							<td valign="top">
+								<a id="ftctrl_Header_rpt_NavigationTabs__ctl3_lnk_Tab" href="http://www.auctiva.com/signup.aspx" target="_top"><img src="http://www.auctiva.com/images/header/tab_signup.gif" border="0"></a>
 							</td>
 						
 				</tr>
@@ -244,7 +95,7 @@ function resetHeaders()
 			&nbsp;
 		</td>
 	</tr>
-	<tr>
+	<tr id="ftctrl_Header_green_bottom_bar">
 		<td width="*" style="BORDER-BOTTOM: #5f9d00 1px solid">&nbsp;</td>
 		<td width="760" height="21" style="BORDER-BOTTOM: #5f9d00 1px solid">
 			<!-- Begin Sub-Bar Table -->
@@ -263,13 +114,25 @@ function resetHeaders()
 									<span id="ftctrl_Header_rpt_SubBarTabs__ctl2_lbl_Divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span></p>
 							</td>
 							<td width="*" nowrap="" height="21">
-								<a id="ftctrl_Header_rpt_SubBarTabs__ctl2_lnk_SubNav" class="header-subnav-text" href="aboutus.aspx" target="_top">About Us</a></td>
+								<a id="ftctrl_Header_rpt_SubBarTabs__ctl2_lnk_SubNav" class="header-subnav-text" href="javascript:void(window.open('http://www.auctiva.com/about/pricing.aspx', 'fullsize', 'width=540, height=610'))" target="_top">Pricing</a></td>
 						
 							<td width="*" nowrap=""><p class="header-subnav-text">
 									<span id="ftctrl_Header_rpt_SubBarTabs__ctl3_lbl_Divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span></p>
 							</td>
 							<td width="*" nowrap="" height="21">
-								<a id="ftctrl_Header_rpt_SubBarTabs__ctl3_lnk_SubNav" class="header-subnav-text" href="javascript:void(window.open('http://www.auctiva.com/about/pricing.aspx', 'fullsize', 'width=540, height=610'))" target="_top">Pricing</a></td>
+								<a id="ftctrl_Header_rpt_SubBarTabs__ctl3_lnk_SubNav" class="header-subnav-text" href="aboutus.aspx" target="_top">About Us</a></td>
+						
+							<td width="*" nowrap=""><p class="header-subnav-text">
+									<span id="ftctrl_Header_rpt_SubBarTabs__ctl4_lbl_Divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span></p>
+							</td>
+							<td width="*" nowrap="" height="21">
+								<a id="ftctrl_Header_rpt_SubBarTabs__ctl4_lnk_SubNav" class="header-subnav-text" href="jobs.aspx" target="_top">Careers</a></td>
+						
+							<td width="*" nowrap=""><p class="header-subnav-text">
+									<span id="ftctrl_Header_rpt_SubBarTabs__ctl5_lbl_Divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span></p>
+							</td>
+							<td width="*" nowrap="" height="21">
+								<a id="ftctrl_Header_rpt_SubBarTabs__ctl5_lnk_SubNav" class="header-subnav-text" href="../help/tutorials.aspx" target="_top">Tutorials</a></td>
 						
 							<td></td>
 						
@@ -284,124 +147,173 @@ function resetHeaders()
 <!-- End Main Header -->
 <br>
 
-
     <table cellspacing="0" cellpadding="0" align="center" width="760">
       <tbody><tr>
-        <td valign="top" width="153" style="PADDING-RIGHT: 18px">
+        <td valign="top" width="153" style="padding-right: 18px">
+          
 <table cellspacing="0" cellpadding="0" width="153">
 	<tbody><tr>
-		<td colspan="3"><img id="ftctrl_SignIn_img_BoxTop" src="http://www.auctiva.com/images/signin-top.gif" alt="" border="0"></td>
+		<td colspan="3"><img id="ftctrl_SignIn_img_BoxTop" src="http://www.auctiva.com/images/signin-top.gif" border="0"></td>
 	</tr>
 	<tr id="ftctrl_SignIn_tblrow_SignIn">
-	<td id="ftctrl_SignIn_hcol_BoxTopLeft" background="http://www.auctiva.com/images/green-left.gif" width="10"><img id="ftctrl_SignIn_img_BoxTopLeft" src="http://www.auctiva.com/images/green-left.gif" alt="" border="0"></td>
+	<td id="ftctrl_SignIn_hcol_BoxTopLeft" background="http://www.auctiva.com/images/green-left.gif" width="10"><img id="ftctrl_SignIn_img_BoxTopLeft" src="http://www.auctiva.com/images/green-left.gif" border="0"></td>
 	<td><p class="small-print"><span id="ftctrl_SignIn_lbl_Username">Username:</span><br>
 				<input name="ftctrl_SignIn:txt_Username" type="text" maxlength="64" size="32" id="ftctrl_SignIn_txt_Username" style="width: 131"><span id="ftctrl_SignIn_lbl_js"><script type="text/javascript">document.getElementById('ftctrl_SignIn_txt_Username').focus();</script></span><br>
 				<span id="ftctrl_SignIn_lbl_Password">Password:</span><br>
 				<input name="ftctrl_SignIn:txt_Password" type="password" maxlength="32" size="32" id="ftctrl_SignIn_txt_Password" style="width: 131"><br>
 				<input id="ftctrl_SignIn_cb_RememberMe" type="checkbox" name="ftctrl_SignIn:cb_RememberMe"><label for="ftctrl_SignIn_cb_RememberMe">Remember me</label><br>
-				<input type="image" name="ftctrl_SignIn:btn_SignIn" id="ftctrl_SignIn_btn_SignIn" src="http://www.auctiva.com/images/login-btn.gif" alt="" border="0">
-				<a id="ftctrl_SignIn_lnk_SignUp" href="http://www.auctiva.com/signup.aspx"><img src="http://www.auctiva.com/images/register-btn.gif" alt="" border="0"></a>
+				<input type="image" name="ftctrl_SignIn:btn_SignIn" id="ftctrl_SignIn_btn_SignIn" src="http://www.auctiva.com/images/login-btn.gif" border="0">
+				<a id="ftctrl_SignIn_lnk_SignUp" href="http://www.auctiva.com/signup.aspx"><img src="http://www.auctiva.com/images/register-btn.gif" border="0"></a>
 				<br>
-				<img id="ftctrl_SignIn_img_Dot0" src="http://www.auctiva.com/images/bullet-dots.gif" alt="" border="0">&nbsp;&nbsp;<a id="ftctrl_SignIn_lnk_SecureSignIn" href="http://www.auctiva.com/signin.aspx">Secure Sign In</a>
+				<img id="ftctrl_SignIn_img_Dot0" src="http://www.auctiva.com/images/bullet-dots.gif" border="0">&nbsp;&nbsp;<a id="ftctrl_SignIn_lnk_SecureSignIn" href="http://www.auctiva.com/signin.aspx">Secure Sign In</a>
 				<br>
-				<img id="ftctrl_SignIn_img_Dot1" src="http://www.auctiva.com/images/bullet-dots.gif" alt="" border="0">&nbsp;&nbsp;<a id="ftctrl_SignIn_lnk_ForgotPassword" href="http://www.auctiva.com/recoverpassword.aspx">Forgot Your Password?</a>
+				<img id="ftctrl_SignIn_img_Dot1" src="http://www.auctiva.com/images/bullet-dots.gif" border="0">&nbsp;&nbsp;<a id="ftctrl_SignIn_lnk_ForgotPassword" href="http://www.auctiva.com/recoverpassword.aspx">Forgot Your Password?</a>
 				</p>
 		</td>
-	<td id="ftctrl_SignIn_hcol_BoxTopRight" background="http://www.auctiva.com/images/green-right.gif" width="10"><img id="ftctrl_SignIn_img_BoxTopRight" src="http://www.auctiva.com/images/green-right.gif" alt="" border="0"></td>
+	<td id="ftctrl_SignIn_hcol_BoxTopRight" background="http://www.auctiva.com/images/green-right.gif" width="10"><img id="ftctrl_SignIn_img_BoxTopRight" src="http://www.auctiva.com/images/green-right.gif" border="0"></td>
 </tr>
 
 	
 	<tr>
-		<td colspan="3"><img id="ftctrl_SignIn_img_BoxBottom" src="http://www.auctiva.com/images/green-bottom.gif" alt="" border="0"></td>
+		<td colspan="3"><img id="ftctrl_SignIn_img_BoxBottom" src="http://www.auctiva.com/images/green-bottom.gif" border="0"></td>
 	</tr>
 </tbody></table>
-</td>
+
+        </td>
         <td valign="top">
-<table cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
-  <tbody><tr>
-    <td><img src="../images/orange-tall-left.gif"></td>
-    <td background="../images/orange-tall-top.gif">
-	  <table cellspacing="0" cellpadding="0">
-	    <tbody><tr>
-		  <td width="20" height="20"><img src="../images/orange-solid-left.gif"></td>
-		  <td height="20" style="BACKGROUND-COLOR: #ff9933"><p style="COLOR: #fff"><b>Auctiva Privacy</b></p></td>
-		  <td width="20" height="20"><img src="../images/orange-solid-right.gif"></td>
-		</tr>
-	  </tbody></table>
-	</td>
-    <td><img src="../images/orange-tall-right.gif"></td>
-  </tr>
-  <tr>
-    <td width="10" background="../images/orange-border-left.gif"><img src="../images/orange-border-left.gif"></td>
-    <td style="PADDING-TOP: 15px" width="100%">
-    <!-- box content start -->
-
-<p>This privacy statement discloses the types of information we gather, how we use it and how to correct or change it.</p>
-
-<p><b>Collection of information:</b></p>
-
-<p><u>What personal information we collect-</u><br>
-Auctiva collects personally identifiable information when you register on our site. The information collected may include the following: e-mail, name, IP address, browser information and more. If you sign up for Auctiva’s services, more personal information is collected. This information may include: address, billing address, credit card information and more. Any comments or questions you submit are recorded as well. Also, comments about you as a seller or buyer will be collected and may be viewable by other clients.
-Collection of information takes place at various times while navigating Auctiva’s site and using its software. When entering Auctiva’s site, information may be collected about previous sites the person has viewed. If questions or comments have been submitted via e-mail or a forum on our Web site, personal information is collected as well.</p>
-
-<p><u>Storage of information collected-</u><br>
-All personal information collected is stored in a server at an office of ours. The servers are updated and certified daily by “Hacker Safe” from ScanAlert. “Hacker Safe” tests each system daily to make sure they meet the requirements set forth by the FBI/SANS Internet Security Test.</p>
-
-<p><u>How we use the information collected-</u><br>
-The goal of collecting customer and viewer information is to create a friendlier, smooth, efficient, safe and customized experience while working with Auctiva. Personal information submitted at the time of registration may be used by Auctiva for the marketing and promotion of Auctiva products that we feel may be of interest to you.</p> 
-
-<p><u>To whom we disclose personal information-</u><br>
-We take your privacy seriously. You have the right to limit the use of your e-mail address by Third parties through the “opt-out” process available to all Auctiva members. In addition, all email correspondence sent to you by Auctiva will offer an “unsubscribe” option. If you do not choose to limit the use of your e-mail address, Auctiva will occasionally share this information with carefully selected partner companies whose products and services we feel may be of interest to you.</p>
-
-<p><u>California Law-</u><br>
-Under California law, state residents have the right to request in writing from any business with whom they have a business relationship, (1) a list of categories of personal information, such as name, address email address and the type of services provided to the customer, that a business has disclosed to a third party, if any (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information please email us at <a href="mailto:help@auctiva.com">help@auctiva.com</a> or send a written request to 119 Broadway St., Suite 217, Chico, CA 95928.</p>
-<p>We will respond with thirty (30) days after the receipt of your request. We are only required to provide this information once per calendar year per customer.</p>
-
-<p><u>Other information-</u><br>
-By submitting personal information to us or using our site, you agree that we may collect and use such personal information in accordance with our privacy policy or as permitted by law. If you do not agree with these terms, do not provide any personal information to us. If you refuse or withdraw consent, or do not provide us with any necessary personal information, we may not be able to provide you with service.</p>
-
-<p><b>Removal from our Database</b></p> 
-<p>To request removal from the database, simply file a support request <a href="http://www.auctiva.com/help/requesthelp.aspx">(http://www.auctiva.com/help/requesthelp.aspx)</a> and we will be happy to remove your information immediately. Every e-mail sent to you from Auctiva will also include a link to remove your e-mail address from the mail server.
-If you request that we modify or remove all of your personal information, we will promptly do so, to the extent possible. Once your personal information has been removed you will not be able to use our services unless you re-register.</p>
-
-<p><b>Children:</b></p>
-<p>Auctiva uses reasonable efforts not to collect, use or disclose individually identifiable information from children under the age of 13. The Services are not targeted at children, and children may not register for any of the Services.</p>
-
-<p><b>Privacy and Security while Online:</b></p>
-<p>Auctiva provides a high security environment while Online with the assistance of ScanAlert. "Hacker Safe" by ScanAlert tests and certifies Auctiva’s systems every day to ensure they pass the FBI/SANS Internet Security Test. For more information about ScanAlert’s Hacker Safe program, please visit <a href="http://www.scanalert.com/">ScanAlert</a>.</p>
-
-<p><b>Cookies:</b></p>
-<p>Cookies are small files on the site that help Auctiva customize the site to assist in creating a better experience for you. Most of the cookies are only "session-cookies" and are deleted from your computer when you log off the site. The use of cookies on our site helps make your visit to the site more efficient. Your browser may allow you to turn off cookies on sites, but could slow down your visit to our site. If you turn off the cookies, you may be asked to re-enter your username and password more often. Cookies are not harmful to your computer.</p>
-
-<p><b>Third parties:</b></p>
-<p>Auctiva does have partnerships with companies such as Sellathon. If you do not sign up for these companies products directly on their site, and receive an e-mail from them, do not reply to it. However, if you did sign up for their products directly on their site, you may receive e-mails from them. If you use their products, but signed up through Auctiva's Web site, any e-mails sent about product information or promotions will be filtered through Auctiva's systems and sent out as an Auctiva e-mail. Links to these sites are provided on Auctiva's site and at certain points in the sign up and listing phase of an auction.</p>
-
-<p><b>Changing of personal information:</b></p>
-<p>You may edit your personal information at any time by clicking on the "My Account" tab when you are signed in to Auctiva. All information may be changed including: address, credit card information, billing address, e-mail and more. The new information will be updated in our system and used in the collection of information when visiting Auctiva.</p>
-
-<p><b>Merger or Acquisition:</b></p>
-<p>In the event that Auctiva merges or is acquired by another company, all current information Auctiva has will be shared with the other company. Auctiva will do its best to inform you of the transaction.</p>
-
-<p><b>Questions, comments, concerns:</b></p>
-<p>All questions, comments and concerns can be submitted via e-mail at <a href="mailto:help@auctiva.com">help@auctiva.com</a>. You will receive an answer as soon as possible.</p>
-
-
-
-    <!-- box content end -->
-    </td>
-    <td width="10" background="../images/orange-border-right.gif"><img src="../images/orange-border-right.gif"></td>
-  </tr>
-  <tr>
-    <td width="10"><img src="../images/orange-round-LL.gif"></td>
-    <td background="../images/orange-border-btm.gif"><img src="../images/orange-border-btm.gif"></td>
-    <td width="10"><img src="../images/orange-round-LR.gif"></td>
-  </tr>
-</tbody></table>
+          <table cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+            <tbody><tr>
+              <td>
+                <img src="../images/orange-tall-left.gif"></td>
+              <td background="../images/orange-tall-top.gif">
+                <table cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td width="20" height="20">
+                      <img src="../images/orange-solid-left.gif"></td>
+                    <td height="20" style="background-color: #ff9933">
+                      <p style="color: #fff">
+                        <b>Auctiva Privacy</b></p>
+                    </td>
+                    <td width="20" height="20">
+                      <img src="../images/orange-solid-right.gif"></td>
+                  </tr>
+                </tbody></table>
+              </td>
+              <td>
+                <img src="../images/orange-tall-right.gif"></td>
+            </tr>
+            <tr>
+              <td width="10" background="../images/orange-border-left.gif">
+                <img src="../images/orange-border-left.gif"></td>
+              <td style="padding-top: 15px" width="100%">
+                <!-- box content start -->
+                <p>
+                  This privacy statement discloses the types of information we gather, how we use it and how to correct or change it.</p>
+                  <h3>Collection of information</h3>
+                <p>
+                  <b>What personal information we collect</b><br>
+                  Auctiva collects personally identifiable information when you register on our site. The information collected may include any of
+                  the following: email, name, IP address, browser information, address, billing address. Any
+                  comments or questions you submit are recorded as well. Also, comments about you as a seller or buyer will be collected and
+                  may be viewable by other clients. Collection of information takes place at various times while navigating Auctiva’s site
+                  and using its software. When entering Auctiva’s site, information may be collected about previous sites the person has viewed.
+                  If questions or comments have been submitted via email or a forum on our website, personal information is collected as
+                  well. If you elect to store your credit card information</p>
+                <p>
+                  <b>Storage of information collected</b><br>
+                  All personal information collected, including credit card information, is stored via a secure server. The servers are updated and certified daily
+                  by Hacker Safe from ScanAlert. Hacker Safe tests each system daily to make sure they meet the requirements set forth
+                  by the FBI/SANS Internet Security Test. </p>
+                <p>
+                  <b>How we use the information collected</b><br>
+                  The goal of collecting customer and viewer information is to create a friendlier, smooth, efficient, safe and customized
+                  experience while working with Auctiva. Personal information submitted at the time of registration may be used by Auctiva
+                  for the marketing and promotion of Auctiva products that we feel may be of interest to you. <em>Your credit card information is never shared.</em> </p>
+                <p>
+                  <b>To whom we disclose personal information</b><br>
+                  We take your privacy seriously. You have the right to limit the use of your email address by third parties through the
+                  opt-out process available to all Auctiva members. In addition, all email correspondence sent to you by Auctiva will offer
+                  an unsubscribe option. If you do not choose to limit the use of your email address, Auctiva may occasionally share this
+                  information with carefully selected partner companies whose products and services we feel may be of interest to you. <em>Your credit card information is never shared.</em></p>
+                <p>
+                  <b>California Law</b><br>
+                  Under California law, state residents have the right to request in writing from any business with whom they have a business
+                  relationship, (1) a list of categories of personal information, such as name, address email address and the type of services
+                  provided to the customer, that a business has disclosed to a third party, if any (including affiliates that are separate
+                  legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2)
+                  the names and addresses of all such third parties. To request the above information please email us at <a href="mailto:help@auctiva.com">
+                    help@auctiva.com</a> or send a written request to Auctiva Corporation, 527 Flume St, Chico, CA 95928.</p>
+                <p>
+                  We will respond with thirty (30) days after the receipt of your request. We are only required to provide this information
+                  once per calendar year per customer.</p>
+                <p>
+                  <b>Other information</b><br>
+                  By submitting personal information to us or using our site, you agree that we may collect and use such personal information
+                  in accordance with our privacy policy or as permitted by law. If you do not agree with these terms, do not provide any personal
+                  information to us. If you refuse or withdraw consent, or do not provide us with any necessary personal information, we may
+                  not be able to provide you with service.</p>
+                <p>
+                  <b>Removal from our Database</b><br>
+                  To request removal from the database, simply file a support request <a href="http://www.auctiva.com/help/requesthelp.aspx">
+                    (http://www.auctiva.com/help/requesthelp.aspx)</a> and we will be happy to remove your information immediately. Every
+                  email sent to you from Auctiva will also include a link to remove your email address from the mail server. If you request
+                  that we modify or remove all of your personal information, we will promptly do so, to the extent possible. Once your personal
+                  information has been removed you will not be able to use our services unless you re-register.</p>
+                <p>
+                  <b>Children</b><br>
+                  Auctiva uses reasonable efforts not to collect, use, or disclose individually identifiable information from children under
+                  the age of 13. Our services are not targeted at children, and children may not register for any of our services.</p>
+                <p>
+                  <b>Privacy and Security while online</b><br>
+                  Auctiva provides a high security environment while Online with the assistance of ScanAlert. Hacker Safe by ScanAlert tests
+                  and certifies Auctiva’s systems every day to ensure they pass the FBI/SANS Internet Security Test. For more information
+                  about the ScanAlert Hacker Safe program, please visit <a href="http://www.scanalert.com/">ScanAlert</a>.</p>
+                <p>
+                  <b>Cookies</b><br>
+                  Cookies are small files on the site that help Auctiva customize the site to assist in creating a better experience for you.
+                  Most of the cookies are only "session-cookies" and are deleted from your computer when you log off the site. The use of
+                  cookies on our site helps make your visit to the site more efficient. Your browser may allow you to turn off cookies on
+                  sites, but could slow down your visit to our site. If you turn off the cookies, you may be asked to re-enter your username
+                  and password more often. Cookies are not harmful to your computer.</p>
+                <p>
+                  <b>Third parties</b><br>
+                  Auctiva does have partnerships with companies such as Sellathon. If you do not sign up for a company's products directly
+                  on their site, and receive an email from them, do not reply to it. However, if you did sign up for their products directly
+                  on their site, you may receive emails from them. If you use their products, but signed up through Auctiva's website, any
+                  emails sent about product information or promotions will be filtered through Auctiva's systems and sent out as an Auctiva
+                  email. Links to these sites are provided on Auctiva's site and at certain points in the sign up and listing phase of an
+                  auction.</p>
+                <p>
+                  <b>Changing of personal information</b><br>
+                  You may edit your personal information at any time by clicking on the "My Account" tab when you are signed in to Auctiva.
+                  All information may be changed including: address, credit card information, billing address, email and more. The new information
+                  will be updated in our system and used in the collection of information when visiting Auctiva.</p>
+                <p>
+                  <b>Merger or Acquisition</b><br>
+                  In the event that Auctiva merges or is acquired by another company, all current information Auctiva has will be shared with
+                  the other company. Auctiva will do its best to inform you of the transaction.</p>
+                <p>
+                  <b>Questions, comments, concerns</b><br>
+                  All questions, comments and concerns can be submitted via email at <a href="mailto:help@auctiva.com">help@auctiva.com</a>.
+                  You will receive an answer as soon as possible.</p>
+                <!-- box content end -->
+              </td>
+              <td width="10" background="../images/orange-border-right.gif">
+                <img src="../images/orange-border-right.gif"></td>
+            </tr>
+            <tr>
+              <td width="10">
+                <img src="../images/orange-round-LL.gif"></td>
+              <td background="../images/orange-border-btm.gif">
+                <img src="../images/orange-border-btm.gif"></td>
+              <td width="10">
+                <img src="../images/orange-round-LR.gif"></td>
+            </tr>
+          </tbody></table>
         </td>
       </tr>
     </tbody></table>
-
-      <br><br>
+    <br><br>
 <table cellpadding="0" cellspacing="0" width="100%">
   <tbody><tr>
 	<td valign="bottom" width="100%" colspan="2" bgcolor="#7eb130">
@@ -419,18 +331,20 @@ If you request that we modify or remove all of your personal information, we wil
       <table cellpadding="0" cellspacing="0" align="center" width="760px" bgcolor="#3367cd">
         <tbody><tr>
           <td align="center" style="padding-left:60px">
-            <p class="footer-text"><b><a id="ftctrl_Footer_lnk_about" href="http://download1.auctionposter.com/about/aboutus.aspx" target="_top">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="ftctrl_Footer_lnk_partners" href="http://download1.auctionposter.com/about/partners/partners.aspx" target="_top">Partners</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="ftctrl_Footer_lnk_Pricing" onclick="javascript: window.open('http://download1.auctionposter.com/about/pricing.aspx', 'fullsize', 'width=540, height=610')" href="javascript:void(0);" target="_top">Pricing</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="ftctrl_Footer_lnk_press" href="http://download1.auctionposter.com/about/press.aspx" target="_top">Press</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="ftctrl_Footer_lnk_privacy" href="http://download1.auctionposter.com/about/privacy.aspx" target="_top">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="ftctrl_Footer_lnk_legal" href="http://download1.auctionposter.com/about/legal.aspx" target="_top">Legal</a></b><br>
-              Copyright © 1999-2006 Auctiva.com. All rights reserved.</p>
+            <p class="footer-text"><b><a id="ftctrl_Footer_lnk_about" href="http://www.auctiva.com/about/aboutus.aspx" target="_top">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="ftctrl_Footer_lnk_partners" href="http://www.auctiva.com/about/partners/partners.aspx" target="_top">Partners</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="ftctrl_Footer_lnk_Pricing" onclick="javascript: window.open('http://www.auctiva.com/about/pricing.aspx', 'fullsize', 'width=540, height=610')" href="javascript:void(0);" target="_top">Pricing</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="ftctrl_Footer_lnk_press" href="http://www.auctiva.com/about/press.aspx" target="_top">Press</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="ftctrl_Footer_lnk_privacy" href="http://www.auctiva.com/about/privacy.aspx" target="_top">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="ftctrl_Footer_lnk_legal" href="http://www.auctiva.com/about/legal.aspx" target="_top">Legal</a></b><br>
+              Copyright © 1999-2008 Auctiva.com. All rights reserved.</p>
           </td>
-          <td align="right" style="PADDING-TOP: 5px; PADDING-BOTTOM: 5px"><a id="ftctrl_Footer_lnk_bbb" href="http://www.sacramento.bbb.org/commonreport.html?compid=47000114" target="_blank"><img src="http://download1.auctionposter.com/images/bbb-small.gif" alt="" border="0"></a></td>
+          <td align="right" style="PADDING-TOP: 5px; PADDING-BOTTOM: 5px">
+            <a target="_blank" href="http://www.bbbonline.org/cks.asp?id=102051713135523692"><img title="Click to verify BBB accreditation and to see a BBB report." border="0" src="http://www.auctiva.com/images/bbb-small.gif" alt="Click to verify BBB accreditation and to see a BBB report." oncontextmenu="alert('Use without permission is prohibited. The BBB Accreditation seal is a trademark of the Council of Better Business Bureaus, Inc.'); return false;"></a>
+          </td>
         </tr>
       </tbody></table>
     </td>
   </tr>
 </tbody></table>
 
-
-     </form>
   
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-2218281-1";urchinTracker();</script></form>
+
 
 </body></html>
