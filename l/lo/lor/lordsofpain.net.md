@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lordsofpain.net privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212065716id_/http%3A//www.ugo.com/services/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lordsofpain.net privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610055410id_/http%3A//www.ugo.com/services/about/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | UGO.com
 
