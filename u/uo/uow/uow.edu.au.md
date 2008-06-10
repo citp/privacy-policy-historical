@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the uow.edu.au privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212163807id_/http%3A//www.uow.edu.au/about/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uow.edu.au privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610162332id_/http%3A//www.uow.edu.au/about/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Statement - About the University @ UOW
 
-  |    
----|---  
+   
+---  
   
 ### Our Commitment to Privacy
 
@@ -54,16 +54,6 @@ This section explains our policy regarding any personal information you might su
 
 
 
-### Further Information
-
-For additional or further information or other queries, questions or [complaints](http://www.uow.edu.au/content/groups/public/@web/@fin/@lcu/documents/doc/uow022144.pdf) [pdf - 51kb] in the first instance please contact:
-
-**[The Privacy Officer](mailto:angelata@uow.edu.au)  
-Administration Building (36)  
-Legal Services Unit  
-University of Wollongong  
-Wollongong NSW 2522**
-
 ### For Staff
 
 **Consents & Disclosures**
@@ -72,20 +62,26 @@ If you are staff collecting personal information the following consents and disc
 
   * [General Consent and Disclosure](http://www.uow.edu.au/content/groups/public/@web/@fin/@lcu/documents/doc/uow022145.pdf) [pdf - 40 kb] to be used if this is the first time UOW collects personal information from an individual.
   * [Competition Consent and Disclosure](http://www.uow.edu.au/content/groups/public/@web/@fin/@lcu/documents/doc/uow022146.pdf) [pdf - 22 kb] for use when running a competition where a) contact details used only for purposes of contacting the winner(s) or b) contact details used for contacting winner AND follow up marketing.
-  * Marketing Consent and Disclosure or Other Subsequent Collections. In order to provide a specific consent and disclosure appropriate to your marketing campaign, or collection needs please contact: **
+  * Marketing Consent and Disclosure or Other Subsequent Collections. In order to provide a specific consent and disclosure appropriate to your marketing campaign, or collection needs please contact Legal Services.  
 
-[The Privacy Officer
 
-](mailto:angelata@uow.edu.au)  
+
+
+### Further Information
+
+For additional or further information or other queries, questions or [complaints](http://www.uow.edu.au/content/groups/public/@web/@fin/@lcu/documents/doc/uow022144.pdf) [pdf - 51kb] in the first instance please contact:
+
+**[The Privacy Officer](mailto:privacy_enquiry@uow.edu.au)  
 Administration Building (36)  
-Legal & Commercial Unit  
+Legal Services Unit  
 University of Wollongong  
-Wollongong NSW 2522**
+Wollongong NSW 2522  
+Phone 61+2+4221 4368**
 
 |    
   |    
   
-Last reviewed: 11 October, 2007 
+Last reviewed: 13 May, 2008 
 
 |    
   |  
