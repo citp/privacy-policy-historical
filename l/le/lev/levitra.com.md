@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the levitra.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212112948id_/http%3A//www.levitra.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levitra.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610153858id_/http%3A//www.levitra.com/privacy.html) for the most accurate reproduction.*
 
-# LEVITRA information at LEVITRA
+# Privacy Statement: LEVITRA.com
 
 Privacy Statement
 
@@ -46,7 +46,7 @@ You should keep in mind that no Internet transmission is ever completely secure 
 
 **Security**
 
-BAYER, GSK, and Schering-Plough use reasonable and appropriate physical, technical, and administrative security safeguards, in order to protect your data from coincidental or deliberate manipulation, loss, destruction, or access by unauthorized persons. As part of the collection and processing of personal data, all transferred information will be encrypted to prevent misuse of the data by third parties. Our security procedures are reviewed on a regular basis. 
+BAYER, GSK, and Schering-Plough use reasonable and appropriate physical, technical, and administrative security safeguards in order to protect your data from coincidental or deliberate manipulation, loss, destruction, or access by unauthorized persons. As part of the collection and processing of personal data, all transferred information will be encrypted to prevent misuse of the data by third parties. Our security procedures are reviewed on a regular basis. 
 
 **Personal Information and Children**
 
@@ -60,7 +60,7 @@ This Web site is intended for access and use by U.S. residents only and is subje
 
 **Changes to our Privacy Statement**
 
-From time to time, BAYER, GSK, and Schering-Plough may decide to modify its practices and policies, and we reserve the right to revise this BAYER, GSK, and Schering-Plough Internet Privacy Statement as necessary to disclose such changes in our practices and policies. Any such changes to this BAYER, GSK, and Schering-Plough Internet Privacy Statement will be promptly communicated on this page. Any information that you submit before the change in policy will be used by BAYER, GSK, and Schering-Plough and/or the companies we hire in a manner that is consistent with the BAYER, GSK, and Schering-Plough Internet Privacy Statement in effect at the time you submitted your information. Continued use of our sites after receiving notice of a change in our privacy statement shall indicate your consent to the use of newly-submitted information in accordance with the changed, amended, or updated BAYER, GSK, and Schering-Plough Internet Privacy Statement. 
+From time to time, BAYER, GSK, and Schering-Plough may decide to modify their practices and policies, and we reserve the right to revise this BAYER, GSK, and Schering-Plough Internet Privacy Statement as necessary to disclose such changes in our practices and policies. Any such changes to this BAYER, GSK, and Schering-Plough Internet Privacy Statement will be promptly communicated on this page. Any information that you submit before the change in policy will be used by BAYER, GSK, and Schering-Plough and/or the companies we hire in a manner that is consistent with the BAYER, GSK, and Schering-Plough Internet Privacy Statement in effect at the time you submitted your information. Continued use of our sites after receiving notice of a change in our privacy statement shall indicate your consent to the use of newly-submitted information in accordance with the changed, amended, or updated BAYER, GSK, and Schering-Plough Internet Privacy Statement. 
 
 **Contact Information**
 
