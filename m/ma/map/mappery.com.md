@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mappery.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212123448id_/http%3A//mappery.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mappery.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610171610id_/http%3A//mappery.com/privacy.php) for the most accurate reproduction.*
 
-# mappery - real life map collection
+# real life map collection | mappery
 
 Effective **October 8, 2007**
 
