@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmobileusa.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222085623id_/http%3A//web.virginmobileusa.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobileusa.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611011421id_/http%3A//web.virginmobileusa.com/about/privacy) for the most accurate reproduction.*
 
 # Virgin Mobile: Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Virgin Mobile USA Privacy Policy**
 
-At Virgin Mobile USA, LLC (“Virgin Mobile,” or “we,” “us,” “our”) we understand that privacy is important, and we are strongly committed to protecting the privacy of our customers and visitors to our websites at www.virginmobileusa.com, www.virginmobileusarecycle.com, www.virginmobileinsiders.com, www.virginmobilestash.com, and vmu.m7networks.com (collectively, “our websites”).
+At Virgin Mobile USA, LP (“Virgin Mobile,” or “we,” “us,” “our”) we understand that privacy is important, and we are strongly committed to protecting the privacy of our customers and visitors to our websites at www.virginmobileusa.com, www.virginmobileusarecycle.com, http://studiov.virginmobileusa.com, www.homelessyouthamongus.com and www.regenerationgallery.com (collectively, “our websites”).
 
 The following information is designed to help you better understand the information we gather from our websites, how we handle the information once we gather it, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct the information. Please note that this Privacy Policy applies only to our websites and not to other companies’ or organizations’ services or websites to which we may link, even if they market our products or use the Virgin Mobile name. By visiting these websites or using the services provided there, you accept the practices described in this Privacy Policy. 
 
@@ -40,8 +40,6 @@ It is possible that Virgin Mobile or its partners could be acquired by or merged
 **What Are Your Choices About Your Privacy?**
 
   * If you are a Virgin Mobile customer, you may change the personal information you have elected to share with us. You also have choices in the types of communications you wish to receive from us. When you activated your phone, your notification preferences were set to receive notices about special offers, events and promotions from Virgin Mobile and special offers from our partners. To change these notification settings, or to change any of your personal information, click [here](https://www.virginmobileusa.com/myvirginmobile/home.do) to log in to your Virgin Mobile account and go to the “My Account” page (then select Account Info and then Contact Info).
-  * If you are a Virgin Mobile Insiders member and you wish to change your information, discontinue your use of this service or opt out of receiving communications from Virgin Mobile Insiders, please see the section below entitled "What About Virgin Mobile Insiders?"
-  * If you have a Virgin Mobile Stash card and you wish to change your information or opt out of Virgin Mobile Stash marketing offers and communications, please see the section below entitled "What About Virgin Mobile Stash?"
 
 
 
@@ -58,7 +56,7 @@ Virgin Mobile is concerned about the safety and privacy of children who use the 
 If we become aware that a child under 13 has or has attempted to provide us with personally identifiable information, we will use our best efforts to remove such information from our files. If a parent or guardian becomes aware that his or her child has done this, he or she should contact the following customer care agent to remove this information:
 
 Customer Resolutions  
-Virgin Mobile USA, LLC  
+Virgin Mobile USA, LP  
 2185 North California Blvd.  
 Walnut Creek, California 94596  
 Telephone: (866) 218-8372 (toll-free)  
@@ -99,40 +97,6 @@ Occasionally, sponsors of the Sugar Mama Service will request personally identif
 
 If your Virgin Mobile account is terminated and/or cease using the Sugar Mama Service, the information you provided to Sugar Mama will not be used by Virgin Mobile or Ultramercial for any other purpose.
 
-**What About Virgin Mobile Stash?**  
-The [Virgin Mobile Stash](http://www.virginmobilestash.com/) website is wholly owned by Virgin Mobile and administered by NetSpend, an authorized Independent Sales Organization of Inter National Bank.
-
-_Additional Information We Collect and How We Use Your Information_  
-Upon applying for a Virgin Mobile Stash card, in addition to collecting some of the types of information described above, we may collect additional types of personal information from you, including information about your assets, income and other financial details. If you are approved, we may gather additional information through your subsequent transactions with us. We may also gather some personal information about you from credit or consumer-reporting agencies. We may disclose this information, along with information about your account balance, payment history, parties to transactions and credit card usage to companies that perform marketing services on our behalf or to other financial institutions with which we have a joint marketing agreement. We restrict access to nonpublic information to persons who need to know that information to provide products or services to you.
-
-_Changing Your Information / Opting Out_  
-If you have a Virgin Mobile Stash card and you wish to change your information, you may contact the Virgin Mobile Stash hotline at (866) 55-STASH ((866) 557-8274) 24 hours a day, 7 days a week, or send an email to [help@virginmobilestash.com](mailto:help@virginmobilestash.com).
-
-We provide Virgin Mobile Stash customers with the opportunity to opt out of mail, telephone and online marketing (including from our affiliate marketing partners) upon initial customer contact and subsequently on an annual basis. If you wish to opt-out of Virgin Mobile Stash's and our partner's marketing offers, please contact us at:
-
-Virgin Mobile Stash  
-P.O. Box 2136  
-Austin, Texas 78768-2136  
-Telephone: (866) 557-8274  
-Fax: (512) 473-8711 
-
-**What About Virgin Mobile Insiders?**  
-The [Virgin Mobile Insiders](http://www.virginmobileinsiders.com/) website is wholly owned by Virgin Mobile and administered by Drillteam, a division of Insound, LLC.
-
-_Children's Privacy_  
-Children under 13 are not permitted to register as a Virgin Mobile Insider. For our policy regarding children's privacy, please see the section above entitled “What is Our Policy Towards Children?” If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information through the Virgin Mobile Insiders website, he or she should contact the following customer care agent to remove this information:
-
-Steve Kleinberg  
-Drillteam  
-[www.drillteammedia.com](http://www.drillteammedia.com/)  
-221 West 17th Street, 5th Floor  
-New York, NY 10011  
-Telephone: 212-777-8056 ext. 22  
-Fax: 212-777-2732
-
-_Changing Your Information / Opting Out_  
-If you are a Virgin Mobile Insiders member and you wish to change your information, discontinue your use of this service, or opt out of receiving communications from Virgin Mobile Insiders, this can be done at the “[Your Profile](http://www.virginmobileinsiders.com/index.php?_action=profile)” page or by emailing Virgin Mobile Insiders customer support at [ezra@drillteammedia.com](https://web.archive.org/web/20071222085623id_/http%3A//web.virginmobileusa.com/about/ezra@drillteammedia.com). Users of this website are always notified when their information is being collected by any outside parties. We do this so our customers can make an informed choice as to whether or not they should proceed with services that require an outside party.
-
 **What Law Applies?**  
 Personally identifiable information that is submitted to our websites will be collected, processed, stored, disclosed and disposed of in accordance with applicable U.S. law. If you are a non-U.S. customer, you acknowledge and agree that we may collect and use your personally identifiable information outside your resident jurisdiction. 
 
@@ -142,20 +106,17 @@ In addition, such personally identifiable information may be stored on servers l
 Virgin Mobile may, from time to time, make changes to this policy based on your comments and our need to accurately reflect our legal obligations and our data collection and disclosure practices. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our website(s). By continuing to use our websites and services, you agree to be bound by the latest version of this policy, which may be viewed anytime by clicking on the "Privacy Policy" link at the foot of the Virgin Mobile website and our other websites or by calling 1-888-322-1122.
 
 **Want To Know More?**  
-For questions or concerns about Virgin Mobile or [www.virginmobileusa.com](http://www.virginmobileusa.com/), please contact customer care at [ourteam@virginmobileusa.com](https://web.archive.org/web/20071222085623id_/http%3A//web.virginmobileusa.com/about/ourteam@virginmobileusa.com) or call Virgin Mobile At Your Service at 1-888-322-1122 with any questions. Calls to Virgin Mobile At Your Service may be monitored for quality assurance.
+For questions or concerns about Virgin Mobile or [www.virginmobileusa.com](http://www.virginmobileusa.com/), please contact customer care at [ourteam@virginmobileusa.com](https://web.archive.org/web/20080611011421id_/http%3A//web.virginmobileusa.com/about/ourteam@virginmobileusa.com) or call Virgin Mobile At Your Service at 1-888-322-1122 with any questions. Calls to Virgin Mobile At Your Service may be monitored for quality assurance.
 
-For privacy-related questions about the following services, please contact the customer care provider specified:
+For privacy-related questions about Sugar Mama: send email to [sugarmamaprivacy@ultramercial.com](mailto:sugarmamaprivacy@ultramercial.com). 
 
-  * Sugar Mama: send email to [sugarmamaprivacy@ultramercial.com](mailto:sugarmamaprivacy@ultramercial.com "mailto:sugarmamaprivacy@ultramercial.com").
-  * Players Club: send email to [virginmobile@motricity.com](mailto:virginmobile@motricity.com "mailto:virginmobile@motricity.com") or call 800/746-7646.
-  * Virgin Mobile Stash: send email to [help@virginmobilestash.com](mailto:help@virginmobilestash.com) or call 866/557-8274.
-  * Virgin Mobile Insiders: send email to [ezra@drillteammedia.com](mailto:ezra@drillteammedia.com) or call 212/777-8056 extension 30.
+© 2002-2008 Virgin Mobile USA, LP. All Rights Reserved.
 
+Last Updated: February 2008
 
+| 
 
-© 2002-2007 Virgin Mobile USA, LLC. All Rights Reserved.
-
-Last Updated: July 2007
-
-|   
+**[Need Help?](http://web.virginmobileusa.com/help/)**  
+Got a question? We've got Answers.   
+  
 ---|---
