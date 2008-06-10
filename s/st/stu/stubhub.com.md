@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stubhub.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024142450id_/http%3A//www.stubhub.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stubhub.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610072258id_/http%3A//www.stubhub.com/privacy_policy) for the most accurate reproduction.*
 
-# Tickets at StubHub! Where Fans Buy and Sell Tickets
+# StubHub! Where Fans Buy and Sell Tickets
 
 [](http://www.truste.org/ivalidate.php?url=www.stubhub.com&sealid=101 "TRUSTe: Click to Verify")
 
@@ -50,7 +50,7 @@ If you choose to **buy** or **sell** tickets we will ask you for:
 
 
 _Changing and Updating Personal Information; Choosing Options:_  
-Consumers can change all of their personal account information by going to the My Account page <https://www.stubhub.com/?gSec=account> and clicking the "Edit Account Info" button. You can change your address, telephone number, email address, password, credit card information, as well as your privacy settings. Also on this page we will give you the option to choose if you would like to receive email or written service from StubHub. If you would like to receive these solicitations simply check the appropriate box. You can choose to stop participating at any time simply by changing your preferences on the website, replying to an email's Unsubscribe function, or contacting Customer Service. Please refer to the _Choice and opt-out_ section for more information.
+Consumers can change all of their personal account information by going to the My Account page <https://www.stubhub.com/account> and clicking the "Edit Account Info" button. You can change your address, telephone number, email address, password, credit card information, as well as your privacy settings. Also on this page we will give you the option to choose if you would like to receive email or written service from StubHub. If you would like to receive these solicitations simply check the appropriate box. You can choose to stop participating at any time simply by changing your preferences on the website, replying to an email's Unsubscribe function, or contacting Customer Service. Please refer to the _Choice and opt-out_ section for more information.
 
 _Supplementing Information:_  
 We may obtain information from or about you in other ways. For example, we may verify user information with a service provider, or users may send us information during their contacts with Customer Support.  
