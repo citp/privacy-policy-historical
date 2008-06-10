@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthymen.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213005907id_/http%3A//www.wealthymen.com/privacy.php%3Fprg%3D1%26id%3Dnoadvert) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthymen.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611012453id_/http%3A//www.wealthymen.com/privacy.php%3Fprg%3D1%26id%3Dnoadvert) for the most accurate reproduction.*
 
 # WealthyMen | Privacy Policy
 
@@ -70,4 +70,4 @@ If you have any questions or concerns about this privacy policy, the practices o
   
 |   
 ---  
-| Copyright ©2006 WealthyMen.com, all rights reserved. | [](https://web.archive.org/?prg=1&id=noadvert) | [Webmasters](http://www.greatpersonals.com/) | [Privacy Policy](https://web.archive.org/privacy.php?prg=1&id=noadvert) | [Terms & Conditions](https://web.archive.org/terms.php?prg=1&id=noadvert) | [Help](https://web.archive.org/help.php?prg=1&id=noadvert) |  
+| Copyright ©2008 WealthyMen.com, all rights reserved. | [](https://web.archive.org/?prg=1&id=noadvert) | [Customer Service](http://www.gpnethelp.com/wealthymen) | [Webmasters](http://www.greatpersonals.com/) | [Privacy Policy](https://web.archive.org/privacy.php?prg=1&id=noadvert) | [Terms & Conditions](https://web.archive.org/terms.php?prg=1&id=noadvert) | [Help](https://web.archive.org/help.php?prg=1&id=noadvert) |  
