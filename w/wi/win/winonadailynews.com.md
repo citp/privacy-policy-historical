@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winonadailynews.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212191212id_/http%3A//www.winonadailynews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winonadailynews.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610135326id_/http%3A//www.winonadailynews.com/privacy) for the most accurate reproduction.*
 
-# Winona Daily News - 6.0
+# [component:headline] : Winona Daily News
 
 **Welcome to the web sites of the Winona Daily News,** a media company located in Minnesota. We believe in your right to know what information is collected during your visit to our web sites and how the information is used and safeguarded. 
 
