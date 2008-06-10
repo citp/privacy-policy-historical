@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smilecity.co.nz privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213032721id_/http%3A//smilecity.co.nz/page.asp%3Fgo%3Dprivacy%26u%3D%26c%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilecity.co.nz privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611014611id_/http%3A//www.smilecity.co.nz/page.asp%3Fgo%3Dprivacy%26u%3D%26c%3D) for the most accurate reproduction.*
 
 # Privacy Statement - SmileCity New Zealand
 
@@ -36,15 +36,15 @@ The SmileCity Web site contains links to other Web sites. We are not responsible
 The widely accepted definition of "spam" is unsolicited commercial email, or in other words, email of a commercial nature that the recipient does not want. **SmileCity does not send "spam".** This is because as a SmileCity member, you have the choice to opt-in or opt-out of SmileCity emails.
 
 **How many emails will I receive?**  
-We respect your time and attention. If you request to receive emails, we will never send to you more than seven advertising emails per week. That is a guarantee.
+We respect your time and attention. If you request to receive emails, we will never send to you more than fourteen advertising emails per week. That is a guarantee.
 
 **How can I stop SmileCity from sending me email?**  
 Each email we send to you contains a link at the very bottom allowing you to unsubscribe.
 
-To unsubscribe now, [click here](https://web.archive.org/web/20071213032721id_/http%3A//smilecity.co.nz/earn.asp?go=unsubscribe&u=&c=).
+To unsubscribe now, [click here](https://web.archive.org/web/20080611014611id_/http%3A//www.smilecity.co.nz/earn.asp?go=unsubscribe&u=&c=).
 
-**If you have received unwanted email sent from SmileCity,** or purporting to be sent from SmileCity, please [contact SmileCity](https://web.archive.org/web/20071213032721id_/http%3A//smilecity.co.nz/enquiry.asp?u=&c=).
+**If you have received unwanted email sent from SmileCity,** or purporting to be sent from SmileCity, please [contact SmileCity](https://web.archive.org/web/20080611014611id_/http%3A//www.smilecity.co.nz/enquiry.asp?u=&c=).
 
-**If you have any questions** about the privacy and permission practices of the SmileCity Web site or your dealings with SmileCity Ltd, please [contact SmileCity](https://web.archive.org/web/20071213032721id_/http%3A//smilecity.co.nz/enquiry.asp?u=&c=). We are committed to being of service to you and resolving any issues that may arise.
+**If you have any questions** about the privacy and permission practices of the SmileCity Web site or your dealings with SmileCity Ltd, please [contact SmileCity](https://web.archive.org/web/20080611014611id_/http%3A//www.smilecity.co.nz/enquiry.asp?u=&c=). We are committed to being of service to you and resolving any issues that may arise.
 
-This statement should be read in conjunction with the SmileCity [Terms of Service](https://web.archive.org/web/20071213032721id_/http%3A//smilecity.co.nz/page.asp?go=terms).
+This statement should be read in conjunction with the SmileCity [Terms of Service](https://web.archive.org/web/20080611014611id_/http%3A//www.smilecity.co.nz/page.asp?go=terms).
