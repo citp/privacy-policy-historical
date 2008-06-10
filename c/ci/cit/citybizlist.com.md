@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the citybizlist.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211061732id_/http%3A//www.citybizlist.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citybizlist.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610182844id_/http%3A//www.citybizlist.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # citybizlist: Privacy Policy
 
 ---  
   
 [](http://citybizlist.4jobs.com/)
+
+[](https://web.archive.org/citybizjobs/citybizjobs_baltimore.aspx)
 
 [](http://citybizlist.localconnect.com/search.aspx?keyword=NetGuide&location=Baltimore)[](http://citybiz.smartonline.com/)  
 [](https://web.archive.org/citybizcenter.aspx)[](http://citybizlist.collectivex.com/)
@@ -40,20 +42,10 @@ If the law or a good faith belief that disclosure is justifiable or reasonable, 
 citybizlist welcomes feedback to this document – [feedback@citybizlist.com](mailto:feedback@citybizlist.com)
 
 |   
-[](https://web.archive.org/emailLink.aspx)  
-
-[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=109&layout=multi&id=1264)
-
-[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=108&layout=multi&id=1623)
-
-[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=111&layout=multi&id=813)
-
-[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=112&layout=multi&id=1417)
-
   
 
 
-[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=114&id=1558)
+[](http://69.7.74.86/cgi-bin/adclick.cgi?gid=114&id=1600)
 
   
 
