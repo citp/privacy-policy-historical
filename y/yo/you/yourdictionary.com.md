@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourdictionary.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213182658id_/http%3A//www.yourdictionary.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdictionary.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610055225id_/http%3A//www.yourdictionary.com/about/privacy.html) for the most accurate reproduction.*
 
-# yourDictionary.com•Comprehensive and Authoritative Language Portal
+# yourDictionary.com Privacy Policy
 
 **Purpose**  
 yourDictionary understands the power that the Internet holds for changing people's lives, expanding their horizons and enhancing the ease with which they make use of the Internet. The purpose of our privacy policy is to inform you, as a welcome visitor to yourDictionary, of what kinds of information we may gather about you when you visit yourDictionary, how we may use that information, whether we might disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Our privacy policy and practices are detailed below and we ask you to read them fully. 
@@ -21,9 +21,9 @@ yourDictionary provides certain anonymous statistical information to third parti
 **Registration**  
 You can visit yourDictionary and use many of our services without telling us who you are or revealing any personal information about yourself. The vast majority of our services do not require any form of customer registration. However, we do require registration for the use of a few services. 
 
-We may specifically ask for information about you when you sign up to use a specific service or when you order a product. We will need certain information - such as name, Internet address or screen name, billing address, type of computer, credit card number - in order to provide that service or product to you. We may also use that information to let you know of additional products and services about which you might be interested. In addition, it may be shared with third parties who assist yourDictionary in producing its Web sites or who offer a product or provide a service to our users.
+We may specifically ask for information about you when you sign up to use a specific service or when you order a product. We will need certain information - such as name, Internet address or screen name, billing address, type of computer, credit card number - in order to provide that service or product to you. We may also use that information to let you know of additional products and services about which you might be interested. In addition, it may be shared with third parties who assist yourDictionary in producing its Web sites or who offer a product or provide a service to our users. 
 
-You may choose not to receive such information if you don't want to by letting us know on the registration screen when you sign up for the product or service.
+You may choose not to receive such information if you don't want to by letting us know on the registration screen when you sign up for the product or service. 
 
 **Disclosure**  
 We do not use or disclose any information about your, your visits to yourDictionary, or information that you may give us, such as your name, address, e-mail address or telephone number, income, interests, or occupation to any entity outside yourDictionary. But as we mention above, we may share with our Web site partners aggregated statistical information about the use of the yourDictionary website in general. In short, yourDictionary will never share the information that you provide us during registration with any third parties. 
@@ -33,13 +33,13 @@ During your use of our site and our services, we may collect demographic and pro
 In certain special cases, we may disclose user information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or rights, property or operations or anyone else who could be harmed by such activities. We may also disclose user information when we believe the law requires it, or in response to any legitimate demand by law enforcement authorities in connection with a criminal investigation. 
 
 **Special Attention to Kids**  
-yourDictionary takes even more care to protect the safety and privacy of young people using our services. We do not any collect information specifically about children and believe that children should get their parents' consent before giving out any personal information. We encourage you to participate in your child's experience in cyberspace.
+yourDictionary takes even more care to protect the safety and privacy of young people using our services. We do not any collect information specifically about children and believe that children should get their parents' consent before giving out any personal information. We encourage you to participate in your child's experience in cyberspace. 
 
 **Contests**  
 From time to time, we may run contests on our site in which we ask participants for contact information, such as their e-mail addresses. If you participate in contests, your contact information will be used primarily to reach you in connection with the contests. We may also use the collected contact information to send you information about yourDictionary, our services, as well as offers tailored to your interests by our advertisers and sponsors. You may opt out of receiving such mailings at the time you receive such information. When you register for a service or product at yourDictionary and later chose to discontinue the service or purchase no more products, we will keep your registration information on file in case you wish to opt back in or purchase another product at a later date. We may send you mailings of special offers even if you have not purchased anything recently or are currently unsubscribed from any of our services. In the event that you wish to remove information about yourself completely from our mailing lists, you may send e-mail directly to yourDictionary and we will have all your personal information removed from that company's user database. 
 
 **Credit Card Processing and Safety**  
-Shopping with yourDictionary is absolutely safe—you never have to worry about credit card safety when you are shopping at our site. We guarantee that each purchase you make is protected and safe. If fraudulent charges are ever made, you will not have to pay for them. Your credit card and billing information cannot be read as it travels to our ordering system. To ensure that your information is even more secure, once we receive your credit card information, we do not store it. We currently do not retain any information about your credit card number unless you have chosen automatic renewal for a subscription. In this case, your credit card number is encrypted so that even employees at yourDictionary can only see the final four digits. 
+Shopping with yourDictionary is absolutely safe-you never have to worry about credit card safety when you are shopping at our site. We guarantee that each purchase you make is protected and safe. If fraudulent charges are ever made, you will not have to pay for them. Your credit card and billing information cannot be read as it travels to our ordering system. To ensure that your information is even more secure, once we receive your credit card information, we do not store it. We currently do not retain any information about your credit card number unless you have chosen automatic renewal for a subscription. In this case, your credit card number is encrypted so that even employees at yourDictionary can only see the final four digits. 
 
 Credit card transactions are handled by a third party financial institution, which receives the credit card number and other personal identifying information only to verify the credit card numbers and process transactions. If you feel more comfortable doing so, you are welcome to call in your credit card information (+570-522-9191) and complete your purchase by telephone. You may also send us that information as an attachment to an e-mail, which is safe from prying eyes along the Information Superhighway. 
 
@@ -69,7 +69,7 @@ Only authorized employees have access to the information you provide us. For exa
 Only authorized employees have access to the information you provide us. For example, we impose strict rules on yourDictionary employees who have access either to the databases that store user information or to the servers that host our services. 
 
 **Contacting Us**  
-If you have questions about this privacy policy or the practices of this site, please contact:
+If you have questions about this privacy policy or the practices of this site, please contact: 
 
 LoveToKnow Corp., 
 
@@ -77,6 +77,6 @@ LoveToKnow Corp.,
 
 Burlingame, CA 94010 
 
-E-Mail: admin at lovetoknow.com
+E-Mail: admin at lovetoknow.com 
 
 yourDictionary reserves the right to change this Privacy Policy at any time, with or without notice. All changes will be posted to this page. 
