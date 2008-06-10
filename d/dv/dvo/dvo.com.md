@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvo.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211181947id_/http%3A//www.dvo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvo.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610050358id_/http%3A//www.dvo.com/privacy.html) for the most accurate reproduction.*
 
 # DVO Enterprises Privacy Policy
 
@@ -13,9 +13,9 @@ Steve Van Wie
 
 NEWSLETTER
 
-[• Current Issue](https://web.archive.org/web/20071211181947id_/http%3A//www.dvo.com/homecookn)  
-[• Newsletter Archive](https://web.archive.org/web/20071211181947id_/http%3A//www.dvo.com/newsletterarchive.html)   
-[• Contact Info](https://web.archive.org/web/20071211181947id_/http%3A//www.dvo.com/contact.html)
+[• Current Issue](https://web.archive.org/web/20080610050358id_/http%3A//www.dvo.com/homecookn)  
+[• Newsletter Archive](https://web.archive.org/web/20080610050358id_/http%3A//www.dvo.com/newsletterarchive.html)   
+[• Contact Info](https://web.archive.org/web/20080610050358id_/http%3A//www.dvo.com/contact.html)
 
   
 
