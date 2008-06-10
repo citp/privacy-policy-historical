@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abcactionnews.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211151429id_/http%3A//www.abcactionnews.com/legal/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcactionnews.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610054516id_/http%3A//www.abcactionnews.com/legal/default.aspx) for the most accurate reproduction.*
 
-# Terms & Conditions - Tampa Bay News, Weather, Breaking News and Sports for St. Petersburg, Clearwater, Sarasota - ABC Action News
+# Terms & Conditions | WFTS-TV | First in HD
 
 **PRIVACY POLICY** All materials on this site © 2000 E.W. Scripps Co. or used with permission. All rights reserved. abcactionnews.com ® is a registered trademark of the Company. 
 
