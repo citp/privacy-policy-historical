@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defense.gov privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211193649id_/http%3A//www.defenselink.mil/warning/warn-dl.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defense.gov privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611005538id_/http%3A//www.defenselink.mil/warning/warn-dl.html) for the most accurate reproduction.*
 
 # Privacy Policy - U.S. Department of Defense
 
@@ -12,7 +12,7 @@
 
   3. **Privacy Act Statement** \- If you choose to provide us with personal information – like filling out a Contact Us form with e-mail and/or postal addresses – we only use that information to respond to your message or request. We will only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We never create individual profiles or give it to any private organizations. DefenseLINK never collects information for commercial marketing. While you must provide an e-mail address or postal address for a response other than those generated automatially in response to questions or comments that you may submit, we recommend that you NOT include any other personal information, especially Social Security numbers. The Social Security Administration offers additional guidance on sharing your Social Security number.
 
-  4. For site management, [information is collected](https://web.archive.org/warning/example.html) for statistical purposes. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+  4. For site management, information is collected for statistical purposes. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
   5. For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
