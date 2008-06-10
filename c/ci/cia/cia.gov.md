@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211193043id_/https%3A//www.cia.gov/kids-page/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611011105id_/https%3A//www.cia.gov/kids-page/privacy-statement/index.html) for the most accurate reproduction.*
 
 # Kids' Page Privacy Statement — Central Intelligence Agency
 
@@ -65,11 +65,14 @@ Fax: (703) 482-1739
 
 [[Top of Page](https://web.archive.org/kids-page/privacy-statement/index.html#top)]
 
-Posted: 2007-04-12 08:04  
+Posted: Apr 12, 2007 08:04 AM  
 
 
-Last Updated: 2007-10-25 12:51  
+Last Updated: Oct 25, 2007 12:51 PM  
 
 
-Last Reviewed: 2007-04-19 06:33  
+Last Reviewed: Apr 19, 2007 06:33 AM  
+
+
+  
 
