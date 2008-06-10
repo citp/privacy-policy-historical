@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exchangerate.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211215415id_/http%3A//www.exchangerate.com/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangerate.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610101356id_/http%3A//www.exchangerate.com/privacy_security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
-  |  Wednesday, February 19, 2007    
+  |  Wednesday, February 19, 2008    
 ---|---  
   
 **[Home](https://web.archive.org/) >> Privacy & Security **
@@ -35,7 +35,7 @@ ExchangeRate.com uses various Networks and other third-party advertising compani
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Information shared with "third party" advertisers is usually non-personally-identifiable. 
 
 **Opt out**   
-Visitors may choose not to have their information shared with 3rd party advertisers. For more information please email privacy@exchangerate.com. 
+Visitors may choose not to have their information shared with 3rd party advertisers. For more information please fill the form below. 
 
 **Questions**   
-If you have any questions about the ExchangeRate.com privacy protection policy, you should contact privacy@exchangerate.com. 
+If you have any questions about the ExchangeRate.com privacy protection policy, please fill the form below. 
