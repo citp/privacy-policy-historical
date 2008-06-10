@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the profitlance.com privacy policy that was archived on 2007-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070812134549id_/http%3A//www.profitlance.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitlance.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610130252id_/http%3A//www.profitlance.com/new/privacy.cfm) for the most accurate reproduction.*
 
-# Profit Lance - Multiple Streams Of Income
+# Profit Lance - Privacy Policy
 
-**PRIVACY POLICY**
+|  |  |   
+---|---|---  
+|  |   
+|  |   
+   |  **PRIVACY POLICY**
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. 
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members") - what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
 
 Personal Information Our Company Collects and How It Is Used 
 
