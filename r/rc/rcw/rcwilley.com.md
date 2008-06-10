@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213003047id_/http%3A//www.rcwilley.com/Privacy.soa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611012500id_/http%3A//www.rcwilley.com/Privacy.soa) for the most accurate reproduction.*
 
 # RC Willey Home Furnishings
 
@@ -12,7 +12,7 @@ The personally identifiable information we collect relates to information that y
 
 The non-personally identifiable information we collect relates to the information associated with your computer's interaction with our Web server such as browser types and IP addresses. Such information is typically used in aggregate form. This information allows us to analyze Web site usage and, subsequently, improve our site, your browsing and shopping experience, and our offerings to you. 
 
-R.C. Willey does not exchange, rent, reveal or sell personally identifiable information about its customers to any third parties (other than regulatory authorities and law enforcement officials in accordance with applicable laws). At the same time, we work diligently to protect your information and seek to use the latest web technologies to provide you with a safe and private online experience.
+**R.C. Willey does not exchange, rent, reveal or sell personally identifiable information about its customers to any third parties** (other than regulatory authorities and law enforcement officials in accordance with applicable laws). At the same time, we work diligently to protect your information and seek to use the latest web technologies to provide you with a safe and private online experience.
 
 With regard to your purchases, we utilize your personal information only in an effort to fulfill the sale and delivery of the product or service purchased and to track aggregate information pertaining to sales and marketing. With regard to our Shopper's Club, we utilize your information only in an effort to fulfill the distribution of our Shopper's Club.
 
