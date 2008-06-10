@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golf.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213051056id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/golfmag%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golf.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610164948id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/golfmag%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # Golf Privacy Policy
 
@@ -62,11 +62,11 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 |    
   
 **Privacy Options**  
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/golfmag?offline=yes&referring_url=http://www.golf.com/golf/tours_news/article/0,28136,1689330,00.html?cid=feed-tours_news-20071129-1689330&dnp_source=E). |    
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/golfmag?offline=yes&referring_url=&dnp_source=E). |    
   
-If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/golfmag?online=yes&referring_url=http://www.golf.com/golf/tours_news/article/0,28136,1689330,00.html?cid=feed-tours_news-20071129-1689330&dnp_source=E). 
+If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/golfmag?online=yes&referring_url=&dnp_source=E). 
 
-Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Time Inc. site, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/golfmag?online=yes&referring_url=http://www.golf.com/golf/tours_news/article/0,28136,1689330,00.html?cid=feed-tours_news-20071129-1689330&dnp_source=E). 
+Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Time Inc. site, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/golfmag?online=yes&referring_url=&dnp_source=E). 
 
 Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
@@ -82,11 +82,11 @@ Time Inc. sites may use reputable third parties to present or serve the advertis
 |    
   
 **Cookies**  
-To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
+To enhance your online experience we use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. 
+We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. Similarly, as part of an arrangement with our business partners (including, those who present or serve the advertisements that you see on our web pages) we may also access cookies placed by others and allow others to access certain cookies placed by us. 
 
-We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. 
+We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. For more information regarding cookies, please [click here](http://www.timeinc.net/legal/cookies.html). 
 
 | back to top  
   
@@ -116,4 +116,4 @@ Tampa, Florida 33612-6408
 [http://www.golf.com](http://www.golf.com/)
 
 | back to top  
-|  This Privacy Notice was revised 12/14/2005.
+|  This Privacy Notice was revised 1/18/2007.
