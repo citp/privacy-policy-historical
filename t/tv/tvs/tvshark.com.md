@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvshark.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213025536id_/http%3A//www.tvshark.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvshark.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611011052id_/http%3A//www.tvshark.com/privacy.shtml) for the most accurate reproduction.*
 
 # TV Shark.com - Privacy Policy
 
@@ -19,7 +19,7 @@ TV Shark analyzes website logs to constantly improve the value of the materials 
 Should you need to contact us, please email us at:  
 
 
-[](http://ads15.bpath.com/url.cfm/ID=911&Page=26&Ver=32&Pos=)
+[](http://ads15.bpath.com/url.cfm/ID=911&Page=58&Ver=32&Pos=)
 
   
 © [Copyright](https://web.archive.org/copyright.shtml) TV Shark.com. All rights reserved. | [Privacy Policy](https://web.archive.org/privacy.shtml) | [Feedback](https://web.archive.org/feedback.shtml)
