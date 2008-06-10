@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228225716id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610093012id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Video Game Rentals: Rent or Buy PS3, PS2, PSP, Xbox 360, Xbox, GameCube, DS, Wii, GBA Games
 
@@ -58,6 +58,8 @@ We may also use your personal and demographic information in aggregate for our i
 _GameFly Referrals_
 
 When you use the GameFly Referrals Program (or the "Referral Program"), we may ask you to provide information such as your friends' first names and e-mail addresses and your first name and e-mail address. In return, your friends will be given the opportunity to become a GameFly member with a choice of a free GameFly trial membership or discount pre-paid membership, and will also be given the opportunity to make referrals to their friends. During and after participation in the Referral Program you and/or your friends may receive additional communications from us or our vendors in relation to the Referral Program and you and/or your friends' participation in it. The data collected through the Referral Program is only used for the operation and ongoing maintenance of the Referral Program and will not be distributed to any third parties other than those GameFly vendors that may be helping us in the operation and maintenance of the Referral Program. You and your friends may opt-out of participation in the Referral Program at any time via opt-out links in all communications made to you and your friends through the Referral Program, or by sending an e-mail to [friends_optout@gamefly.com](mailto:friends_optout@gamefly.com). 
+
+If you have any questions, complaints or comments regarding our GameFly Referrals Program, please contact [friends_cs@gamefly.com](mailto:friends_cs@gamefly.com). 
 
 _Buy It Alerts_
 
