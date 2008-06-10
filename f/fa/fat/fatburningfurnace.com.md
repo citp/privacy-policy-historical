@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the fatburningfurnace.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027093731id_/http%3A//www.fatburningfurnace.com/legal_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatburningfurnace.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610060541id_/http%3A//www.fatburningfurnace.com/legal_privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Fast Weight Loss | Lose Weight Fast | Burn Fat Fast | Lose Fat
 
 |   | 
 
-**  
-****  
-PRIVACY POLICY  
+**PRIVACY POLICY  
  **
 
 | Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and profitable as possible and want you to use the services and products we offer with complete confidence. 
@@ -15,7 +13,7 @@ We have created this Privacy Policy to demonstrate our commitment to privacy and
   
 ---  
    
-**Personal Information Zero to Hero Fitness Collects And How It Is Used**  
+** Personal Information Zero to Hero Fitness Collects And How It Is Used**  
    
 **Introduction**      Zero to Hero Fitness collects information in different ways from Visitors and Members who access the various parts of our Services on this or related web sites. We use this information mainly to provide a personalized experience as you use our Products and Services and generally do not share this information with third parties. 
 
@@ -59,16 +57,6 @@ You must be eighteen (18) years of age or over to access this web site. If you a
   
 Last Updated: September 16, 2004   
   
-**   
-**** Copyright © 2007 Zero to Hero Fitness, LLC  
-**1259 Buckboard Circle, South Lyon, MI 48178  
-[Privacy Notice](http://www.fatburningfurnace.com/legal_privacy.php) | [Disclaimer](http://www.fatburningfurnace.com/legal_disclaimer.php) | [Terms of Service](http://www.fatburningfurnace.com/legal_terms.php)    
- 
-
- ****
-
-**[Home](http://www.fatburningfurnace.com/) | [Order](http://www.fatburningfurnace.com/order.php) | [FAQ](http://www.fatburningfurnace.com/faq.php) | [Quotes](http://www.fatburningfurnace.com/reader-quotes.php) | [About](http://www.fatburningfurnace.com/about-rob-poulos.php) | [Contact](http://www.fatburningfurnace.com/contact.php) | [ Resources](http://www.fatburningfurnace.com/resources.php) | [Affiliates](http://www.fatburningfurnace.com/affiliates.php)**
-
-Always consult with your physician and undergo a full examination before beginning any exercise or nutrition program. Proceed with these recommendations at your own risk.  Fast Weight Loss, Lose Weight Fast, Burn Fat Fast, Lose Fat 
+Always consult with your physician and undergo a full examination before beginning any exercise or nutrition program. Proceed with these recommendations at your own risk.  Fast Weight Loss, Lose Weight Fast, Burn Fat Fast, Lose Fat
 
  
