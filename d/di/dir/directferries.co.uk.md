@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directferries.co.uk privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028084032id_/http%3A//www.directferries.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directferries.co.uk privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610150304id_/http%3A//www.directferries.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Direct Ferries Privacy Policy
 
