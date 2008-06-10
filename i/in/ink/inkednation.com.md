@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkednation.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212233702id_/http%3A//www.inkednation.com/s/s.cfm%3Ft%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkednation.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611010010id_/http%3A//www.inkednation.com/s/s.cfm%3Ft%3D9) for the most accurate reproduction.*
 
 # The Worlds Largest Tattoo Community - InkedNation.com
 
