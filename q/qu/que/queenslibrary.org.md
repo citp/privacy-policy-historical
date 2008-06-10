@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queenslibrary.org privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212221944id_/http%3A//www.queenslibrary.org/%3Fpage_id%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queenslibrary.org privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611010239id_/http%3A//www.queenslibrary.org/%3Fpage_id%3D11) for the most accurate reproduction.*
 
 # Queens Library
 
