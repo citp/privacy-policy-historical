@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehomeinsurance.co.uk privacy policy that was archived on 2007-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071124060454id_/http%3A//www.ehomeinsurance.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehomeinsurance.co.uk privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610091453id_/http%3A//www.ehomeinsurance.co.uk/privacy.php) for the most accurate reproduction.*
 
 # eHome Insurance - Privacy and Security
 
