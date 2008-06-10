@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the roadsideamerica.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222023402id_/http%3A//www.roadsideamerica.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadsideamerica.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610024941id_/http%3A//www.roadsideamerica.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Roadside America
-
-  
-
 
 This policy describes how www.RoadsideAmerica.com treats personal information www.RoadsideAmerica.com collects and receives. Personal information is information about you that is personally identifiable, such as your name, address, email address, or phone number, and that is not otherwise publicly available.
 
@@ -67,6 +64,3 @@ PO Box 429
 Middletown, NJ 07748-0429
 
 Effective Date: June 18, 2007
-
-  
-
