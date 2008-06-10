@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectcomfort.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221040737id_/http%3A//www.selectcomfort.com/customercenter/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectcomfort.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610091509id_/http%3A//www.selectcomfort.com/customercenter/privacy.cfm) for the most accurate reproduction.*
 
 # Select Comfort -->Privacy & Security
 
