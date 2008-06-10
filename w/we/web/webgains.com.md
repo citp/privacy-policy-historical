@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webgains.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212234509id_/http%3A//www.webgains.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webgains.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611005931id_/http%3A//www.webgains.com/privacy.html) for the most accurate reproduction.*
 
-# Webgains
+# Affiliate Network - Webgains
 
-## Webgains Privacy Policy>
+## Webgains Privacy Policy
 
 At webgains we constantly strive to better the services that we provide. Within that development process, the protection of data of all kinds is one of the key considerations. This Privacy Policy Document lays out the key elements of how we collect, store and transfer personal data. Webgains is registered under the Data Protection Act 1998 and conforms to the eight principles of good practice.
 
