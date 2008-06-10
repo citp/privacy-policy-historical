@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209173525id_/http%3A//www.endicia.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610113134id_/http%3A//www.endicia.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Endicia Privacy Policy
 
@@ -56,6 +56,20 @@ The primary purpose of this information is to generate valid postage indicia in 
 
 When you use our software to print electronic Delivery or Signature Confirmation or the electronic Express Mail label, we also collect complete return and destination address data, package descriptions, reference IDs, and delivery statuses for each label you print. We maintain this information for your accounting and reporting purposes on your account management section of our web site. 
 
+  7. **When You Provide Us Information to Download Our XML Specifications for PCs or Macs:**  
+When you provide us with information to download our XML Specifications for PCs or Macs, we collect the following information:
+    1. Your name and email address 
+    2. Your organization name, job title, phone number and website URL 
+  
+The information is collected to identify you as an integrator. It may be stored to contact you and provide support to your integration. 
+  8. **When You Provide Us With Information to Download Data about Our Label Server solutions:**  
+When you provide us with information to download data about our Label Server solutions, we collect the following information:
+    1. Your name and email address 
+    2. Your organization name, job title, phone number and website URL 
+    3. Your mailing address 
+    4. Various facts about your current needs and solutions 
+  
+The information is used to electronically enter into a non-disclosure agreement between you and Endicia. It is also collected to identify you as an integrator and may be stored to contact you and provide support to your integration. 
 
 
 
@@ -100,6 +114,3 @@ We may, from time to time, update our privacy policy. If we make changes to our 
 Endicia Internet Postage is now owned by Sanford, L.P. as a result of the purchase of all of its stock on July 1, 2007. Endicia Internet Postage will continue its operations as a separate subsidiary of Sanford, L.P. 
 
 Last updated on July 2, 2007.
-
-Endicia customers have printed over $1 billion  
-in postage and saved over $65 million.
