@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212164243id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610131737id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
 
 # Teen Idols 4 You Privacy Policy
 
@@ -42,10 +42,10 @@ We use this information in order to analyze, manage and improve our Web site so 
 > 
 > **TeenIdols4you.com  
 >  The Galactic Studio  
->  1714 Teakwood Mnr. Suite E  
+>  23 Windstone Drive  
 >  Sherwood, AR 72120  
->  501 436-4166**
+>  501 425-0929**
 
  ****  
   
-|  
+[](http://www.teenhollywood.com/)
