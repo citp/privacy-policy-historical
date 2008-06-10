@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the queerclick.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212164543id_/http%3A//www.queerclick.com/archive/2004/10/our_privacy_pol.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queerclick.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610131731id_/http%3A//queerclick.com/archive/2004/10/our_privacy_pol.php) for the most accurate reproduction.*
 
 # QueerClick — Our Privacy Policy
 
 [« The Disclaimer](http://www.queerclick.com/archive/2004/10/the_disclaimer.php) | [Main](http://www.queerclick.com/) | [Terms Of Use »](http://www.queerclick.com/archive/2004/10/terms_of_use.php)
 
-### See More » [About Us](http://www.queerclick.com/archive/about_us/list.php)
+### See More » [About Us](http://www.queerclick.com/archive/about_us/)
 
 **QueerClick.com Privacy Statement**  
 This statement covers the site [www.QueerClick.com](http://www.queerclick.com/) (QueerClick). Please read this statement carefully before using proceeding to access QueerClick. Your use of QueerClick indicates your agreement to abide by the Terms in effect.
