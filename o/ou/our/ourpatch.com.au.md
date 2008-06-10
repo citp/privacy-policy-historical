@@ -1,47 +1,74 @@
-> *The following text is extracted and transformed from the ourpatch.com.au privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618162413id_/http%3A//www.ourpatch.com.au/Fridge/tabid/107/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourpatch.com.au privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610035230id_/http%3A//www.ourpatch.com.au/australia/pages/privacy-policy) for the most accurate reproduction.*
 
-# OurPatch - Fridge Skin
+# Privacy Policy | Australia | Our Patch
 
-The OurPatch Parent Portal is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the The OurPatch Parent Portal Web site and governs data collection and usage. By using the The OurPatch Parent Portal website, you consent to the data practices described in this statement.
+## We are committed to your privacy
 
-Collection of your Personal Information
+ **REGIONAL MEDIA NETWORKS PTY LIMITED  
+ABN 73 127 723 755  
+PRIVACY POLICY**
 
-The OurPatch Parent Portal collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. The OurPatch Parent Portal also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+Regional Media Networks Pty Limited (OurPatch) respects the privacy of individuals. This policy sets out how Ourpatch collects personal information on, from and in respect of the operation of [www.ourpatch.com.au](https://web.archive.org/web/20080610035230id_/http%3A//) (OurPatch Website). It also describes how OurPatch maintains, uses and discloses personal information and your rights of access and correction.
 
-There is also information about your computer hardware and software that is automatically collected by The OurPatch Parent Portal. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by The OurPatch Parent Portal for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the The OurPatch Parent Portal Web site.
+If you have any questions concerning this privacy policy, please contact our OurPatch Customer Service: 
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through The OurPatch Parent Portal public message boards, this information may be collected and used by others. Note: The OurPatch Parent Portal does not read any of your private online communications.
+Email: [info@ourpatch.com.au](mailto:customerservice@ourpatch.com.au)
 
-The OurPatch Parent Portal encourages you to review the privacy statements of Web sites you choose to link to from The OurPatch Parent Portal so that you can understand how those Web sites collect, use and share your information. The OurPatch Parent Portal is not responsible for the privacy statements or other content on Web sites outside of the The OurPatch Parent Portal and The OurPatch Parent Portal family of Web sites.
+Phone: 1300-OurPatch or 0282565888
 
-Use of your Personal Information
+Post: Customer Service, OurPatch,  Box 103, 272 Victoria Avenue, Chatswood, NSW, 2067
 
-The OurPatch Parent Portal collects and uses your personal information to operate the The OurPatch Parent Portal Web site and deliver the services you have requested. The OurPatch Parent Portal also uses your personally identifiable information to inform you of other products or services available from The OurPatch Parent Portal and its affiliates. The OurPatch Parent Portal may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+ **1.  What personal information does OurPatch collect?**
 
-The OurPatch Parent Portal does not sell, rent or lease its customer lists to third parties. The OurPatch Parent Portal may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, The OurPatch Parent Portal may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to The OurPatch Parent Portal, and they are required to maintain the confidentiality of your information.
+  
+1.1 General  
+OurPatch collects personal information for its business purposes, which are generally detailed on the OurPatch Website.
 
-The OurPatch Parent Portal does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+  
+1.2 Information gathered by website technology  
+1.2.1 The OurPatch Website may use cookies or other technology to make a record of your visit and log your information for statistical and business purposes. Such information includes your server address, domain name, IP address, the date and time of your visit, pages accessed, documents downloaded, previous website visited and the type of browser used. The data collected from cookies helps us to analyse browsing patterns of users in order to improve the content and design of the OurPatch Website and helps us serve you each time you return.  
+1.2.2 If you do not wish information to be gathered on a cookie it is possible to disable the acceptance of cookies by your web browser. If you want to do this and are not sure  how you should contact your ISP.  However, this may affect our ability to track your orders or to recognise you as a registered advertiser, which allows you to access  your account information.  
+1.2.3 The aggregated statistical information collected from cookies technology may be shared with our partners to help them understand how the community uses the site.  Such information does not include your personal data.
 
-The OurPatch Parent Portal keeps track of the Web sites and pages our customers visit within The OurPatch Parent Portal, in order to determine what The OurPatch Parent Portal services are the most popular. This data is used to deliver customized content and advertising within The OurPatch Parent Portal to customers whose behavior indicates that they are interested in a particular subject area.
+  
+1.3 email   
+If you send us an email message we will record your email address. We will only use your email address for the purpose for which it was provided (for example, responding to a query). We will not use your email address for any other purposes (including adding it to any mailing list) without your express approval.
 
-The OurPatch Parent Portal Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on The OurPatch Parent Portal or the site; (b) protect and defend the rights or property of The OurPatch Parent Portal; and, (c) act under exigent circumstances to protect the personal safety of users of The OurPatch Parent Portal, or the public.
+  
+1.4 Referrals  
+1.4.1 You may have the option to use “send to a friend” links about particular products, events or other material on the website. We will only use your friend’s name and email address for the particular purpose for which it was provided by you.  
+1.4.2 We will not use your friend’s email address for any other purposes (including adding it to any mailing list) without their express approval.  
+1.4.3 You or your friend may contact us to remove respective names and emails from our records by contacting Customer Service.
 
-Use of Cookies
+  
+1.5 Forms  
+If we require you to complete an electronic form on the OurPatch Website and, in doing so, it requires you to enter personal information (eg. Registration Form), we will collect that information to allow us to perform the service or provide the facility described. We may also use that information to send you information about our products,  services and promotions. However, you may opt out of receiving marketing information or contact from us by contacting Customer Service. We will not collect personal information that would be unlawful, unnecessary or unrelated to OurPatch’s business.
 
-The The OurPatch Parent Portal Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+  
+1.6 Advertisers  
+1.6.1 If you wish to purchase advertising on the OurPatch Website, you must provide us with certain personal information to allow us to process and/or confirm your details, order and payment.  
+1.6.2 We keep a record of your purchase data for our reporting and accounting purposes. This data may be used for marketing to you by OurPatch. However, if you do not wish to receive such information, please contact us at Customer Service. At no time will your credit card details be released to a third party.    
+1.6.3 OurPatch uses Internet Payment Gateway to provide a secure environment for the authorisation of credit card transactions over the Internet. Confidential information including client credit card details are encrypted the moment they are transmitted from the client’s browser to the banking network using industry standard SSL (Secure Sockets Layer (SSL) technology )128-bit RC4 encryption technology.  
+1.6.4 A client’s credit card details are not stored anywhere on the Internet and the only company who has access to this data is the merchant’s bank. The bank also sends confirmation information via the same encryption technology back to the client’s browser. These secure processes provide clients with peace of mind when purchasing online.  
+1.6.5 If your browser or firewall doesn’t support SSL, you will not be able to connect to the server, which means you won’t be able to mistakenly place an order through an unsecured connection. If you cannot access the secure server for any reason, please place your order by phone at 1300 OurPatch or 02 82655888
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize The OurPatch Parent Portal pages, or register with The OurPatch Parent Portal site or services, a cookie helps The OurPatch Parent Portal to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same The OurPatch Parent Portal Web site, the information you previously provided can be retrieved, so you can easily use the The OurPatch Parent Portal features that you customized.
+  
+2. Use 
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the The OurPatch Parent Portal services or Web sites you visit.
+  
+2.1 Restriction  
+Personal information that you supply to OurPatch will only be used for the purposes for which you have provided it and to assist us to conduct our business.   
+2.2 Consent  
+We may from time to time send you invitations to, or information about, events, competitions, promotions, products or services. We will not send you any of these communications if you have informed us that you do not wish to receive them. If you do not wish to receive such information, please contact us at Customer Service.
 
-Security of your Personal Information
-
-The OurPatch Parent Portal secures your personal information from unauthorized access, use or disclosure. The OurPatch Parent Portal secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-Changes to this Statement
-
-The OurPatch Parent Portal will occasionally update this Statement of Privacy to reflect company and customer feedback. The OurPatch Parent Portal encourages you to periodically review this Statement to be informed of how The OurPatch Parent Portal is protecting your information.
-
-Contact Information
-
-The OurPatch Parent Portal welcomes your comments regarding this Statement of Privacy. If you believe that The OurPatch Parent Portal has not adhered to this Statement, please contact The OurPatch Parent Portal at [patrick.cusack@gmail.com](mailto:patrick.cusack@gmail.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+  
+3. Disclosure  
+3.1 Personal information  
+3.1.1 OurPatch will not disclose your personal information to a third party except in accordance with this privacy policy. OurPatch may from time to time use external service providers or agents who may have access to some personal information we collect. We will use our best endeavours to ensure that these third parties may only access information to the extent necessary for the services OurPatch requires (for example marketing communications or managing databases) and that such providers will be bound by the same standard of confidentiality as contained in this policy.  
+3.1.2 Any personal information provided to us is not sold to third party data compilation services.  
+3.2 Other website links  
+If the OurPatch Website contains a link to another website, we are not responsible for the privacy practices or the content of such other websites. In particular, if you chose to utilise the del.icio.us or Digg it functions available to you on the site, you should be aware that all activity run through these sites is managed their own separate policies.   
+3.3 Security  
+OurPatch takes reasonable measures to keep all personal information secure against loss, unauthorised access, modification, disclosure or other misuse.  
+3.4 Access  
+You may request access to the personal information we hold about you or seek correction of it by contacting Customer Service.
