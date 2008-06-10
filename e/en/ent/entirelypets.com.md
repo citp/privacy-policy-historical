@@ -1,35 +1,11 @@
-> *The following text is extracted and transformed from the entirelypets.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/privacypolicy2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entirelypets.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610043351id_/http%3A//www.entirelypets.com/privacypolicy2.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-| •| [Advantage Flea Control for Dogs](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/advantagedog.html)  
----|---  
-•| [Advantage Flea Control for Cats ](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/advantagecat.html)  
-•| [Frontline Top Spot for Dogs](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/frontlinedog.html)  
-•| [Frontline Top Spot for Cats](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/fronfleandti1.html)  
-•| [Frontline PLUS for Dogs ](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/frontlineplus.html)  
-•| [Frontline PLUS for Cats](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/frontlineplus1.html)  
-•| [Program Flea Control for Dogs](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/progfleconfo.html)  
-•| [Program Flea Control for Cats](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/progfleconfo1.html)  
-•| [K9 Advantix](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/k9advantix.html)  
-•| [Arthritis & Joint Supplements](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/nutsupforjoi.html)  
-•| [Nutritional Supplements](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/nutsup.html)  
-•| [Shampoos & Sprays](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/shampoos.html)  
-•| [Ear & Eye Products](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/earproducts.html)  
-•| [Dental Products](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/dentalproducts.html)  
-•| [Dewormers](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/dewormers.html)  
-•| [Topicals](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/topicals.html)  
-•| [Pet Toys & Treats](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/toysandtreats.html)  
-•| [Heartworm Prevention](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/hearprev.html)  
-•| [Pet Medications](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/medications.html)  
-•| [Pet Supplies](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/petsupplies.html)  
-•| [Vaccines](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/vaccines.html)  
-•| [Pet Food](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/petfood1.html)  
-•| [Horse Products](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/horseproducts.html)  
-•| [Birds and Other Pets](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/birandotpet.html)  
-•| [Pet Boutique](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/petboutique.html)  
-  
-| [](https://web.archive.org/web/20071024193155id_/http%3A//www.entirelypets.com/index.html)
+[](https://www.scanalert.com/RatingVerify?ref=www.entirelypets.com)  
+
+
+| [](https://web.archive.org/web/20080610043351id_/http%3A//www.entirelypets.com/index.html)
 
 EntirelyPets.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: EntirelyPets.com.
 
@@ -76,3 +52,7 @@ If at some point in the future, there is a change to our information usage pract
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact affiliates@entirelypets.com
+
+## Shipping
+
+We offer the [best shipping rates](https://web.archive.org/web/20080610043351id_/http%3A//www.entirelypets.com/shco.html).
