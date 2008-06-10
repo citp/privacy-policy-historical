@@ -1,10 +1,23 @@
-> *The following text is extracted and transformed from the wowktv.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212043210id_/http%3A//www.wboy.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowktv.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610052037id_/http%3A//www.wboy.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.*
 
 # WBOY-TV – News for Clarksburg, Fairmont, Morgantown, West Virginia
 
-|  | 
+| 
 
-[Home](https://web.archive.org/web/20071212043210id_/http%3A//www.wboy.com/index.cfm) > Privacy Policy
+**Polls** |  | 
+
+There are currently no active polls at this time. 
+
+[Click here](https://web.archive.org/web/20080610052037id_/http%3A//www.wboy.com/poll.cfm?func=viewoldpolls) to view other polls on our site and past poll results. 
+
+|   
+---|---|---  
+  
+* * *  
+  
+| 
+
+[Home](https://web.archive.org/web/20080610052037id_/http%3A//www.wboy.com/index.cfm) > Privacy Policy
 
 Privacy Policy
 
@@ -49,6 +62,4 @@ However, once you choose to furnish the site with personally identifiable inform
 If you have any questions or concerns about this Privacy Policy you may contact us at [privacy@wvmh.com](mailto:privacy@wvmh.com) .
 
  **Updates**  
-We may update this privacy policy. Please check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.   
-  
----|---|---
+We may update this privacy policy. Please check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
