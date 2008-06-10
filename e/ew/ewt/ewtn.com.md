@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewtn.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211180749id_/http%3A//www.ewtn.com/general/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewtn.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610050102id_/http%3A//www.ewtn.com/general/privacy_policy.asp) for the most accurate reproduction.*
 
 # EWTN Internet Privacy Policy
 
@@ -47,9 +47,9 @@ If you no longer wish to receive electronic mailings from us, you may opt-out of
 Thank you for visiting our web site. We are available to answer your questions and hear your concerns. For inquiries concerning our information practices and Privacy Policy, you may contact us at: 
 
 > EWTN Global Catholic Network  
->  Attention: Scott Hults  
+>  Attention: Jeff Burson  
 >  5817 Old Leeds Rd.  
 >  Irondale, AL 35210-2164  
->  or e-mail us at [shults@ewtn.com](mailto:shults@ewtn.com)
+>  or e-mail us at [jburson@ewtn.com](mailto:jburson@ewtn.com)
 
 Rev. September 19, 2006
