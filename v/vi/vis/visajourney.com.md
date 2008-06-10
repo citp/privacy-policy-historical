@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visajourney.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213010811id_/http%3A//www.visajourney.com/forums/index.php%3Fautocom%3Dcustom%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visajourney.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610170436id_/http%3A//www.visajourney.com/forums/index.php%3Fautocom%3Dcustom%26page%3Dprivacy) for the most accurate reproduction.*
 
 # VisaJourney.com -> Privacy Policy
 
@@ -14,7 +14,7 @@ Registration**
 In order to use this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide some information (such as demographic information) but encouraged in order that we may provide a more personalized experience on our site. 
 
 **Cookies**  
-A cookie is a piece of data stored on your hard drive containing information about your registration with VisaJourney.com. Usage of a cookie is in no way linked to any personally identifiable information while on this site. Once you close your browser, the cookie simply terminates. By setting a cookie on our site, you do not have to enter a password more than once, thereby saving time while browsing. You are not required to accept cookies to use this site although some features may not be available if you choose not to do so. 
+A cookie is a piece of data stored on your hard drive containing information about your account with VisaJourney.com. Usage of a cookie is in no way linked to any personally identifiable information while on this site. By setting a cookie on our site, you do not have to enter a password more than once, thereby saving time while browsing. You are not required to accept cookies to use this site although some features may not be available if you choose not to do so. In addition our advertisers may use cookies as well. For more information on our advertisers and their privacy policies see the Advertisers section below.
 
 **Log Files**  
 We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. 
@@ -23,7 +23,7 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 Aggregated demographic information may be shared with selected third party advertisers as proof of traffic volume and target audience for the purpose of securing advertising contracts on VisaJourney.com. The information is highly summarized and is in no way linked to individual visitors. 
 
 **Advertising**  
-We use third party advertising companies to serve banners and text ads. Please be aware that we are not responsible for the privacy practices of these companies. We currently use [Commision Junction](http://www.cj.com/) and [Google.com](http://www.google.com/) for limited advertising. You are encouraged to read their privacy policies by following their respective links. 
+We use third party advertising companies to serve banners and text ads. Please be aware that we are not responsible for the privacy practices of these companies. We currently use [Google.com](http://www.google.com/) for limited advertising. You are encouraged to read their privacy policies by following their respective links. 
 
 **Links**  
 This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by VisaJourney.com. 
@@ -45,4 +45,4 @@ Notification of changes to our privacy policy are sent to members by way of emai
 
  _last updated: 2/29/04_ ****  
   
-Custom Pages v2.0.0 © Copyright 2007 Michael Corcoran.
+Custom Pages v2.0.0 © Copyright 2008 Michael Corcoran.
