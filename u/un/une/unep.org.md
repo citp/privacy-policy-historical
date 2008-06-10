@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unep.org privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225130842id_/http%3A//www.unep.org/Documents.Multilingual/Default.asp%3FDocumentID%3D289%26ArticleID%3D3445) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unep.org privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611004014id_/http%3A//www.unep.org/Documents.Multilingual/Default.asp%3FDocumentID%3D289%26ArticleID%3D3445) for the most accurate reproduction.*
 
 # -- Terms and conditions - Privacy - United Nations Environment Programme (UNEP) --
 
