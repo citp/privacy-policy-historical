@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crownrelo.com privacy policy that was archived on 2007-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071129141656id_/http%3A//www.crownrelo.com/web/relo.nsf/privacy.policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownrelo.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610065007id_/http%3A//www.crownrelo.com/web/relo.nsf/privacy.policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,15 +54,13 @@ Suite 2001
 MassMutual Tower  
 38 Gloucester Road  
 Wanchai  
-Hong Kong  | Crown Relocations  
-Suite 201  
-New Images Building  
-5827 Corporate Way  
-West Palm Beach, FL 33407  
-U.S.A.  
-**Phone Number:** | (852) 2876-2623 | (561) 491-0940  
-**Fax Number:** | (852) 2528-0177 | (561) 491-0941  
+Hong Kong  | Crown Worldwide  
+1401 Summit Avenue, Suite 10  
+Plano, TX 75074  
+United States  
+**Phone Number:** | (852) 2876-2623 | (1) 972-422-4288  
+**Fax Number:** | (852) 2528-0177 | (1) 972-881-9176  
 **Email address:** | [cdavispipe@crownworldwide.com](mailto:cdavispipe@crownworldwide.com) | [nakinrinade@crownrelo.com](mailto:nakinrinade@crownrelo.com)  
-**URL:** | www.crownworldwide.com | www.crownrelo.com  
+**URL:** | www.crownworldwide.com | www.crownworldwide.com  
   
 The foregoing polices are effective as of October 1, 2004. CROWN WORLDWIDE GROUP reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
