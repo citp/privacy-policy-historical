@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the randomhistory.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212030949id_/http%3A//www.randomhistory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randomhistory.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611015310id_/http%3A//www.randomhistory.com/privacy.html) for the most accurate reproduction.*
 
 # RandomHistory.com - Privacy Policy
 
 |  |  **Privacy Policy**
 
-At RandomHistory.com, we are committed to protecting your privacy. Therefore, all personally identifiable information we collect from you will be used solely to process your order and improve your experience with the site. We will never sell or rent any of your personal information to a third-party company. By using this site, you signify your agreement to the terms and conditions of the following privacy policy. For your protection, we promise to strictly adhere to the following terms. 
+At RandomHistory.com, we are committed to protecting your privacy. Therefore, all personally identifiable information we collect from you will be used solely to improve your experience with the site. We will never sell or rent any of your personal information to a third-party company. By using this site, you signify your agreement to the terms and conditions of the following privacy policy. For your protection, we promise to strictly adhere to the following terms. 
 
 **Information We Collect**
 
-All personally identifiable information we collect from you is supplied on a voluntary basis. When you choose to commission a history with us, we will need to collect your name, your phone number, and your email address. RandomHistory.com will **not** collect your credit card information. To accept and process payments, we use PayPal, a third-party online payment provider. PayPal utilizes cutting edge encryption technology, including firewalls and Secure Sockets Layer protocol (SSL), to protect your private information. For more details about PayPal, please view the [PayPal Privacy Policy](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside) and [PayPal Security Statement](https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/security-outside). 
+All personally identifiable information we collect from you is supplied on a voluntary basis. When you choose to contact us, we will keep your email address and other personally identifiable information contained within the email completely private. We will use your email address only to reply to your questions, comments, or concerns. 
 
 **Use of Cookies**
 
