@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macmillan.org.uk privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212074900id_/http%3A//www.macmillan.org.uk/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillan.org.uk privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610185119id_/http%3A//www.macmillan.org.uk/Privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy - Cancer Care Charity - Macmillan Cancer Support
 
 This policy is written in accordance with the Data Protection Act 1998. If you have any questions about it please contact our Data Protection Compliance Officer at Macmillan Cancer Support, 89 Albert Embankment, London SE1 7UQ, email [webmanager@macmillan.org.uk](mailto:webmanager@macmillan.org.uk), or telephone 020 7840 7840. 
 
