@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gov.sk.ca privacy policy that was archived on 2007-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214192216id_/http%3A//www.gov.sk.ca/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gov.sk.ca privacy policy that was archived on 2008-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080611015631id_/http%3A//www.gov.sk.ca/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Internet Privacy Policy - Government of Saskatchewan</title>
@@ -14,7 +14,7 @@
 		<meta name="title" content="Privacy">
 <meta name="language" scheme="ISO639-2" content="eng">
 <meta name="date.created" content="November 14, 2006">
-<meta name="date.modified" content="March 20, 2007">
+<meta name="date.modified" content="January 7, 2008">
 <meta name="robots" content="index,follow">
 
     
@@ -49,15 +49,17 @@
 	<div id="LogoSection">
 		<a href="http://www.gov.sk.ca" id="LogoLink"><img border="0" src="/adx/aspx/adxGetMedia.aspx?DocID=1,Documents&amp;MediaID=2047&amp;Filename=GovernmentLogo2.gif" width="185" height="46" alt="Government of Saskatchewan"></a>
 		<div id="DepartmentSection">
+		    <div id="ctl00_Header_plMinistryDropDown">
+	
 			<div id="DepartmentDropdown">
 			    <select onchange="var index=ChooseDepartment.selectedIndex;ChooseDepartment.selectedIndex=0;location=ChooseDepartment.options[index].value;" name="ChooseDepartment">
 				    <option value="">Choose a Ministry</option>
-				    <option value="http://www.aee.gov.sk.ca/">Advanced Education, Employment and Labour</option>
+				    <option value="http://www.aeel.gov.sk.ca/">Advanced Education, Employment and Labour</option>
 <option value="http://www.agriculture.gov.sk.ca/">Agriculture</option>
-<option value="http://www.cps.gov.sk.ca">Corrections, Public Safety and Policing</option>
+<option value="http://www.cpsp.gov.sk.ca">Corrections, Public Safety and Policing</option>
 <option value="http://www.learning.gov.sk.ca/">Education</option>
-<option value="http://www.ir.gov.sk.ca/">Energy and Resources</option>
-<option value="http://www.recd.gov.sk.ca/">Enterprise and Innovation</option>
+<option value="http://www.er.gov.sk.ca/">Energy and Resources</option>
+<option value="http://www.ei.gov.sk.ca/">Enterprise and Innovation</option>
 <option value="http://www.environment.gov.sk.ca">Environment</option>
 <option value="http://www.gov.sk.ca/executive-council/">Executive Council</option>
 <option value="http://www.finance.gov.sk.ca/">Finance</option>
@@ -65,50 +67,54 @@
 <option value="http://www.property.gov.sk.ca/">Government Services</option>
 <option value="http://www.health.gov.sk.ca/">Health</option>
 <option value="http://www.highways.gov.sk.ca/">Highways and Infrastructure</option>
-<option value="http://www.immigration.gov.sk.ca/">Immigration</option>
+<option value="http://www.immigration.gov.sk.ca/">Immigration Services</option>
 <option value="http://www.ito.gov.sk.ca/">Information Technology Office</option>
 <option value="http://www.gov.sk.ca/intergovernmental-affairs/">Intergovernmental Affairs</option>
 <option value="http://www.justice.gov.sk.ca/">Justice and Attorney General</option>
 <option value="http://www.municipal.gov.sk.ca/">Municipal Affairs</option>
-<option value="http://www.gr.gov.sk.ca/">Office of the Provincial Secretary</option>
+<option value="http://www.ops.gov.sk.ca/">Office of the Provincial Secretary</option>
 <option value="http://www.psc.gov.sk.ca/">Public Service Commission (PSC)</option>
 <option value="http://www.cr.gov.sk.ca">Social Services</option>
-<option value="http://www.cyr.gov.sk.ca">Tourism, Parks, Culture, and Sport</option>
+<option value="http://www.tpcs.gov.sk.ca">Tourism, Parks, Culture, and Sport</option>
 
 			    </select>
 			</div>
+			
+</div>
+			<div id="ctl00_Header_plMinistryName">
+	
 			<div id="DepartmentText"><a href="/"></a></div>
+			
+</div>
 		</div>
 		<div class="Clear"></div>
 	</div>
 </form>
 
-<form action="http://search.gov.sk.ca/query.html" style="margin:0px;">
+<form action="/search" style="margin:0px;">
 	<div id="HeaderTopLeft">
 		<div id="SearchText">Quick Search:</div>
 			<ul id="HeaderFunctions">
-				<li><input type="radio" name="qp" value="site:www.gov.sk.ca"><div class="LeftSearchText">This Site</div></li>
-				<li><input type="radio" name="qp" checked="checked" value=""><div class="LeftSearchText">All Government Sites</div></li>
+				<li><input id="qs_this" type="radio" name="c" value="central"><div class="LeftSearchText"><label for="qs_this">This Site</label></div></li>
+				<li><input id="qs_all" type="radio" name="c" checked="checked" value="all"><div class="LeftSearchText"><label for="qs_all">All Government Sites</label></div></li>
 				<li>
-					<input type="text" name="qt" class="SearchTextBox" value="">
-					<input type="hidden" name="col" value="cmsnews">
-					<input type="hidden" name="col" value="govsites">
+					<input type="text" name="q" class="SearchTextBox" value="">					
 					<input type="image" src="/Common/Images/Buttons/SearchButton.jpg" alt="go" class="SearchButton">
 				</li>
-				<li><div class="RightSearchText"><a href="http://search.gov.sk.ca/?ql=a">Advanced Search</a>&nbsp;&nbsp;|</div></li>
-				<li><div class="RightSearchText"><a href="http://search.gov.sk.ca/help/">Help?</a></div></li>
+				<li><div class="RightSearchText"><a href="/search?a=1">Advanced Search</a>&nbsp;&nbsp;|</div></li>
+				<li><div class="RightSearchText"><a href="/search?h=1">Help?</a></div></li>
 			</ul>
 	</div>
 	<div id="HeaderTopRight">
 		<div id="TopDate">
-			<span id="ctl00_Header_TodaysDate">Friday, December 14, 2007</span>
+			<span id="ctl00_Header_TodaysDate">Tuesday, June 10, 2008</span>
 		</div>
 		<div id="BottomRightSection"><a href="http://gtds.gov.sk.ca">Directory</a><span>|</span><a href="/Contact">Contact Us</a></div>
 	</div>
 </form>
                         <div id="HeaderMain">
                             
-                            <table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" class="adxSectionImageTable" align="left"><tbody><tr><td align="center"><img border="0" src="/adx/aspx/adxGetMedia.aspx?DocID=&amp;MediaID=1327&amp;Filename=Central+mother+and+daughter+(small).jpg" width="573" height="100" alt=""></td></tr></tbody></table></td></tr></tbody></table>
+                            <table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" class="adxSectionImageTable" align="left"><tbody><tr><td align="center"><img border="0" src="/adx/aspx/adxGetMedia.aspx?DocID=&amp;MediaID=2577&amp;Filename=Central-Summer-Lilies2(large).jpg" width="573" height="160" alt="Saskatchewan!"></td></tr></tbody></table></td></tr></tbody></table>
                         </div>
                         <div id="HeaderMainRight">
                             <div id="HeaderRightColumnNav" class="Navigation">
@@ -117,13 +123,13 @@
                                 </h2>
                                 <div class="Container"><div class="adxTOCTitle"><a href="/services/residents/">Residents</a></div><div class="adxTOCTitle"><a href="/services/visitors/">Visitors</a></div><div class="adxTOCTitle"><a href="/services/business/">Business</a></div></div>
                             </div>
-                            
+                            <table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" class="adxSectionImageTable" align="left"><tbody><tr><td align="center"><a href="/adx/aspx/adxAdReDirect.aspx?ID=152&amp;URL=%2fpremier%2f"><img border="0" src="/adx/aspx/adxGetMedia.aspx?DocID=&amp;MediaID=1931&amp;Filename=Brad-Wall2.jpg" width="187" height="60" alt="Visit Premier Wall's Website"></a></td></tr></tbody></table></td></tr></tbody></table>
                         </div>
                         <div class="Clear">
                         </div>
                     </div>
 					
-						<div id="NavPath"><div class="adxNavPath"><a href="/">Home</a><span>/</span>Privacy</div></div>
+						<div id="NavPath"><div class="adxNavPath"><a href="/">Home</a><span>/</span><a href="/Default.aspx?DN=65c24e0e-160f-497d-89b2-6b92e80a182a">-</a><span>/</span>Privacy</div></div>
 						<div id="LanguageNav">
 							<table cellspacing="0" cellpadding="0" border="0" width="100%"></table>
 						</div>
@@ -150,17 +156,17 @@
 </div>
 
     <div class="AdSpacer">
+        <div><a href="/adx/aspx/adxAdReDirect.aspx?ID=2&amp;URL=http%3a%2f%2fwww.finance.gov.sk.ca%2fbudget%2f2008-09%2f"><img border="0" align="left" src="/adx/aspx/adxGetMedia.aspx?DocID=&amp;MediaID=2362&amp;Filename=BudgetAd08-09.jpg" width="200" height="60" alt="Budget 2008-09: Ready for Growth"></a></div><div class="Clear"></div>
+    </div>
+
+
+    <div class="AdSpacer">
         <div><a href="/adx/aspx/adxAdReDirect.aspx?ID=14&amp;URL=%2fDefault.aspx%3fDN%3d9a850e37-c5a8-4e33-8697-a0a5dd3cd94c"><img border="0" align="left" src="/adx/aspx/adxGetMedia.aspx?DocID=&amp;MediaID=2057&amp;Filename=Throne+Speech+2007.jpg" width="200" height="60" alt="Throne Speech 2007"></a></div><div class="Clear"></div>
     </div>
 
 
     <div class="AdSpacer">
-        <div><a href="/adx/aspx/adxAdReDirect.aspx?ID=162&amp;URL=%2fDefault.aspx%3fDN%3d3b8b5890-5b6f-4196-a38e-56647630ec8d"><img border="0" align="left" src="/adx/aspx/adxGetMedia.aspx?DocID=&amp;MediaID=2068&amp;Filename=Mid-Year+Financial.jpg" width="200" height="60" alt="Mid-Year Financial Report"></a></div><div class="Clear"></div>
-    </div>
-
-
-    <div class="AdSpacer">
-        <div><a href="/adx/aspx/adxAdReDirect.aspx?ID=44&amp;URL=http%3a%2f%2fwww.saskjobs.ca" target="_blank"><img border="0" align="left" src="/adx/aspx/adxGetMedia.aspx?DocID=&amp;MediaID=1824&amp;Filename=SaskJobs-Logo.jpg" width="200" height="60" alt="Sask Jobs ad"></a></div><div class="Clear"></div>
+        <div><a href="/adx/aspx/adxAdReDirect.aspx?ID=254&amp;URL=http%3a%2f%2fwww.learning.gov.sk.ca%2fproperty-tax-review"><img border="0" align="left" src="/adx/aspx/adxGetMedia.aspx?DocID=&amp;MediaID=2552&amp;Filename=PropertyTaxReview.jpg" width="200" height="60" alt=""></a></div><div class="Clear"></div>
     </div>
 
 
@@ -170,7 +176,7 @@
 
 
     <div class="LeftBottomAd">
-        <div class="HeaderBodyModule"><div class="Header"><div class="Title"><div class="adxAdSubhead">Who knew?</div></div></div></div><div class="SmallBodyFade"></div><div><div class="adxAdCopy">The first bird sanctuary in <place w:st="on"></place>North America was established in 1887 and now forms the Last Mountain Lake National Wildlife Area.</div></div><div class="Clear"></div>
+        <div class="HeaderBodyModule"><div class="Header"><div class="Title"><div class="adxAdSubhead">Did you know?</div></div></div></div><div class="SmallBodyFade"></div><div><div class="adxAdCopy"><p>An additional $10 million - for a total of $17.5 million - is being provided for green initiatives in 2008/09 to help Saskatchewan people, businesses and communities Go Green. </p></div></div><div class="Clear"></div>
     </div>
 
 </div>
@@ -185,7 +191,7 @@
 </div>
 
 <div id="PageContent">
-	<div class="adxSection"><h1>Our Commitment</h1><div class="adxCopy"><p>The Government of Saskatchewan is committed to protecting your privacy. Its entire operations, including this web site, are subject to <em><a href="http://www.publications.gov.sk.ca/details.cfm?p=527&amp;cl=5">The Freedom of Information and Protection of Privacy Act</a></em>. </p><p>&nbsp;</p></div></div>
+	<div class="adxSection"><h1>Our Commitment</h1><div class="adxCopy"><p>The Government of Saskatchewan is committed to protecting your privacy. Its entire operations, including this web site, are subject to <a href="http://www.publications.gov.sk.ca/details.cfm?p=527&amp;cl=5"><em>The Freedom of Information and Protection of Privacy Act</em></a><strong>.</strong> </p><p>&nbsp;</p></div></div>
     
     
     
@@ -227,17 +233,17 @@
                     
 
 <div id="Footer">
-    <table cellpadding="0" cellspacing="0" border="0" width="100%" class=""><tbody><tr><td><nobr><div class="adxTOCTitle"><a href="/">Home</a></div></nobr></td><td class="ItemSpacer">|</td><td><nobr><div class="adxTOCTitle"><a href="/disclaimer/">Disclaimer</a></div></nobr></td><td class="ItemSpacer">|</td><td><nobr><div class="adxTOCTitle"><a href="/privacy/">Privacy</a></div></nobr></td><td class="ItemSpacer">|</td><td><nobr><div class="adxTOCTitle"><a href="/help/">Help</a></div></nobr></td><td class="ItemSpacer">|</td><td><nobr><div class="adxTOCTitle"><a href="/contact/" target="_blank">Feedback</a></div></nobr></td><td class="ItemSpacer">|</td><td><nobr><div class="adxTOCTitle"><a href="/sitemap/">Site Map</a></div></nobr></td><td class="ItemSpacer">|</td><td><nobr><div class="adxTOCTitle"><a href="/copyright/">© Copyright 2007</a></div></nobr></td><td width="100%"></td></tr></tbody></table>
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class=""><tbody><tr><td><nobr><div class="adxTOCTitle"><a href="/">Home</a></div></nobr></td><td class="ItemSpacer">|</td><td><nobr><div class="adxTOCTitle"><a href="/disclaimer/">Disclaimer</a></div></nobr></td><td class="ItemSpacer">|</td><td><nobr><div class="adxTOCTitle"><a href="/privacy/">Privacy</a></div></nobr></td><td class="ItemSpacer">|</td><td><nobr><div class="adxTOCTitle"><a href="/help/">Help</a></div></nobr></td><td class="ItemSpacer">|</td><td><nobr><div class="adxTOCTitle"><a href="/contact/">Feedback</a></div></nobr></td><td class="ItemSpacer">|</td><td><nobr><div class="adxTOCTitle"><a href="/sitemap/">Site Map</a></div></nobr></td><td class="ItemSpacer">|</td><td><nobr><div class="adxTOCTitle"><a href="/copyright/">© Copyright 2008</a></div></nobr></td><td width="100%"></td></tr></tbody></table>
                         </div>
     
                     
 <div id="PrintFooter">
-    <div id="PrintNavPath"><div class="adxNavPath"><a href="/">Home</a><span>/</span>Privacy</div></div>
+    <div id="PrintNavPath"><div class="adxNavPath"><a href="/">Home</a><span>/</span><a href="/Default.aspx?DN=65c24e0e-160f-497d-89b2-6b92e80a182a">-</a><span>/</span>Privacy</div></div>
 </div>
                     
 <div id="PrintFooter">
     <div id="CopyRightInfo">
-       © 2007 Government of Saskatchewan. All rights reserved.
+       © 2008 Government of Saskatchewan. All rights reserved.
     </div>
 </div>
                 </td>
