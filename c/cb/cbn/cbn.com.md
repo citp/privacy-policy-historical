@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227201610id_/http%3A//www.cbn.com/about/privacy_notice.aspx%3FWT.svl%3Dbottommenu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611013059id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.*
 
 # CBN.com Privacy Notice
 
   * [Mission & History](https://web.archive.org/about/index.aspx?WT.svl=menu)
   * [Contact CBN](https://web.archive.org/contact/feedback.aspx?WT.svl=menu)
-  * [Job Opportunities](https://web.archive.org/about/jobs/index.aspx?WT.svl=menu)
+  * [Employment](https://web.archive.org/employment/index.aspx?WT.svl=menu)
   * [Staff Bios](https://web.archive.org/about/bios/index.aspx?WT.svl=menu)
   * [Copyright Info](https://web.archive.org/about/copyright/index.aspx?WT.svl=menu)
   * [Privacy Notice](https://web.archive.org/about/privacy_notice.aspx?WT.svl=menu)
@@ -12,13 +12,7 @@
   * [Set Homepage](https://web.archive.org/about/make_cbn_your_homepage.aspx?WT.svl=menu)
   * [Visit CBN](https://web.archive.org/about/visit/index.aspx?WT.svl=menu)
 
-
-
-[](https://web.archive.org/vod/)
-
-[](https://web.archive.org/community/af/login.aspx)  
-
-
+  
 |    
 
 
@@ -78,6 +72,10 @@ Examples of the information we collect and analyze include the Internet protocol
 Examples of information you can access easily at CBN.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password); payment settings (including credit card information); e-mail notification settings including Alerts and newsletters.
 
   
+
+
+[](http://www.addthis.com/bookmark.php)
+
   
 
 
@@ -90,3 +88,11 @@ Are you facing a difficult situation? **
 A caring friend will be there to pray with you in your time of need.
 
 | 
+
+[](https://web.archive.org/giving/700club/option.asp?o=1&m=giveRightNav1about&WT.svl=RightNav1)
+
+[](https://web.archive.org/spirituallife/BibleStudyAndTheology/Discipleship/Steps_to_Peace_With_God.aspx?WT.svl=right_nav)
+
+[](https://web.archive.org/spirituallife/ChristianCourses/index.aspx?WT.svl=right_nav)
+
+## What Our Partners Are Doing 
