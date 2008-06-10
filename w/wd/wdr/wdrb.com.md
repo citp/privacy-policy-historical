@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdrb.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211040415id_/http%3A//wdrb.dayport.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdrb.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610082904id_/http%3A//wdrb.dayport.com/Privacy) for the most accurate reproduction.*
 
 # WDRB Louisville, FOX 41
 
