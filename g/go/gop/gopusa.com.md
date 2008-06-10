@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopusa.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027150249id_/http%3A//www.gopusa.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopusa.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610161319id_/http%3A//www.gopusa.com/legal/privacy.shtml) for the most accurate reproduction.*
 
 # GOPUSA - Privacy Notice
 
@@ -7,10 +7,21 @@
   Text Size: S   M   L
 
   
+|   
+---  
+  
+[](http://www.gopusa.com/cartoons/)
+
+[**New Cartoons at GOPUSA!!**](http://www.gopusa.com/cartoons/)
+
+Get a daily dose of political wit at GOPUSA. Check out our new cartoon line-up featuring some of the best cartoonists in the country!
+
+[](http://www.gopusa.com/cartoons/)  
+  
   
 
 
-[Printer-Friendly Version](https://web.archive.org/web/20071027150249id_/http%3A//www.gopusa.com/legal/privacyp.shtml)
+[Printer-Friendly Version](https://web.archive.org/web/20080610161319id_/http%3A//www.gopusa.com/legal/privacyp.shtml)
 
 **GOPUSA PRIVACY NOTICE**
 
@@ -60,5 +71,4 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 IF YOU DO NOT ACCEPT THESE TERMS AND CONDITIONS, YOU MAY NOT USE THE GOPUSA SITES. GOPUSA reserves the right to make changes to the GOPUSA Sites and this Agreement at any time without prior notice. This Agreement may not otherwise be amended except in a writing signed by GOPUSA.
 
-|  |  |   
----|---|---|---
+|  | 
