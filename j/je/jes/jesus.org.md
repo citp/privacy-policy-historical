@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jesus.org privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220060815id_/http%3A//www.christianity.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesus.org privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610190229id_/http%3A//www.christianity.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
-# Christianity.com
+# Christianity.com - About Us - Discover our Christian Mission and Faith
 
 [About Us](https://web.archive.org/aboutus/) | Privacy Policy | [Terms of Use](https://web.archive.org/aboutus/TermsOfUse/)
 
