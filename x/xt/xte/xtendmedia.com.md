@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the xtendmedia.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013014302id_/http%3A//www.xtendmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtendmedia.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610122429id_/http%3A//xtendmedia.com/privacy.html) for the most accurate reproduction.*
 
-# XtendMedia - About - Privacy
+# Xtendmedia - Targeting your goals
 
-|   
----  
-  
 | 
 
+  
 Xtend Media, Inc., ("we", "us" or "XTEND MEDIA") has created this Privacy Policy in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering, use and dissemination practices solely for XTEND MEDIA’s Web Site located at www.xtendmedia.com (the "Web Site") BY USING THE WEB SITE, YOU SIGNIFY YOUR ASSENT TO OUR PRIVACY POLICY. 
 
-**This Privacy Policy does not apply to any other web sites, products or services that are provided by or through XTEND MEDIA or its affiliates, including any such web sites, products or services that you may be linked to from this Web Site. You are strongly encouraged to read the privacy policies of each and every web site you visit.**
-
+**This Privacy Policy does not apply to any other web sites, products or services that are provided by or through XTEND MEDIA or its affiliates, including any such web sites, products or services that you may be linked to from this Web Site. You are strongly encouraged to read the privacy policies of each and every web site you visit.**  
 **TYPES OF PERSONAL AND NON-PERSONAL INFORMATION:**
 
 We only collect Personally Identifiable Information ("Personal Information") on this Web Site when you voluntarily provide such information to XTEND MEDIA. Personal Information can be directly associated with a specific person or entity, such as name, title, company name, address, telephone number or email address. 
@@ -57,7 +54,7 @@ If you have any questions about security on our XTEND MEDIA Site, you can email 
 
 We reserve the right to disclose your Personal Information as required by law, when we believe that disclosure is necessary to protect our rights or to comply with a judicial proceeding, court order, or legal process served on XTEND MEDIA. 
 
-**UNITED STATES OF AMERICA:**
+**UNITED STATES OF AMERICA** **:**
 
 Our Web Site is maintained in the United States of America. By using the Web Site, you authorize the export of personal information to the USA and its storage and use as specified in this policy. 
 
@@ -74,7 +71,6 @@ Alternatively, you may contact us online at [info@xtendmedia.com](mailto:info@xt
 
 **EFFECTIVE DATE:**
 
-This privacy policy is effective and was last updated on May 22, 2006 
-
-|   
+This privacy policy is effective and was last updated on May 22, 2006 _  _  
+  
 ---|---
