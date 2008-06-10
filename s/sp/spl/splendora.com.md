@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the splendora.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026002054id_/http%3A//www.splendora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splendora.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610170556id_/http%3A//www.splendora.com/privacy) for the most accurate reproduction.*
 
-# Terms of Service and Privacy Policy | Splendora
+# Terms of Service and Privacy Policy
 
 **Splendora, Inc. Web Site Privacy Policy**
 
