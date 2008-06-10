@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swingingheaven.co.uk privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212163125id_/http%3A//www.swingingheaven.co.uk/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingingheaven.co.uk privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610131230id_/http%3A//www.swingingheaven.co.uk/main/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,6 +57,10 @@ All information you provide to us is stored on our secure servers. Where we have
 **_Data Controller._**
 
 The Data Controller for all personal information collected about subscribers of the site is: N.Griffin, and can be reached by e-mail at [Here](http://www.swingingheaven.co.uk/help-centre/ "Visit our help centre"). The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the Site.
+
+**_Your email address_**
+
+Your email address is only used for site related information, such as notificatications of new private messages and account related notifications, newsletters and special offers. We do not share your email address with any other companies and it will remain completely private throughout your membership with us. If you wish to remove yourself from our email lists then you can simply click the unsubscribe link from one of our emails or send an email ( from the address you have registered with us ) to remove@swingingheaven.co.uk.
 
 **_Your Rights_**
 
