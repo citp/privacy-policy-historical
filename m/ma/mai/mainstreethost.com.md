@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainstreethost.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029155724id_/http%3A//www.mainstreethost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainstreethost.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610143924id_/http%3A//www.mainstreethost.com/privacy.html) for the most accurate reproduction.*
 
 # Internet Marketing strategies, Search Engine Placement
 
@@ -62,7 +62,6 @@ Fax Line: (716) 831-9698
 | ******Las Vegas Office:**   
 4495 W. Hacienda Dr  
 Las Vegas, NV 89118  
-Local Phone: (702) 222-1660  
 Toll Free: (866) 816-2655  
 Fax Line: (702) 222-0852  
 ---|---|---  
