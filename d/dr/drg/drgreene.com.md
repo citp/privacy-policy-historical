@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the drgreene.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026053341id_/http%3A//www.drgreene.com/6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drgreene.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610050152id_/http%3A//www.drgreene.com/6.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+### Privacy Policy
 
 Your privacy concerns are important to DrGreene.com. Our Privacy Policy is designed to protect your Personal Information while providing the services available on our website. You may use the DrGreene.com website without giving us specific Personal Information that identifies you.
 
@@ -17,8 +19,3 @@ In making your decision whether to provide Personal Information, you should be a
 We do not collect any information from children, but if a parent learns that a child has submitted Personal Information to our website the parent should [contact us](http://www.drgreene.com/18.html) and that information will be deleted.
 
 This Privacy Policy should be read in conjunction with the [Terms of Service Agreement](http://www.drgreene.com/7.html).
-
-|  |  |    |   [](http://www.drgreene.org/#)  
----|---  
-  
-
