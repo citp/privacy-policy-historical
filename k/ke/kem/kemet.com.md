@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kemet.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211043941id_/http%3A//www.kemet.com/kemet/web/homepage/kechome.nsf/weben/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemet.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610141709id_/http%3A//www.kemet.com/kemet/web/homepage/kechome.nsf/weben/privacy%2520policy) for the most accurate reproduction.*
 
 # Aluminum, Ceramic and Tantalum World-Class Capacitor Manufacturer - KEMET
 
@@ -21,6 +21,9 @@ Our site also provides users the option to change or modify information previous
 
 **Security**  
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+
+**Profile Removal**  
+We periodically remove individual profiles created on our site with extended periods of inactivity, typically 2 years. 
 
 **Links To Other Sites**  
 This site contains links to other sites; www.kemet.com is not responsible for the privacy practices or the content of such Web sites. 
