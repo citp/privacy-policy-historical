@@ -1,63 +1,156 @@
-> *The following text is extracted and transformed from the skype.net privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605000010id_/http%3A//www.skype.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skype.net privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610023512id_/http%3A//skype.net/go/legal.privacy) for the most accurate reproduction.*
 
-# Skype - Privacy
+# Skype Privacy Statement
 
-### Privacy Policy
+Your privacy is important to Skype. Therefore, Skype is committed to respecting your privacy and the confidentiality of your personal data, traffic data and communications content.
 
-This privacy policy is designed to assist you in understanding how Skype uses and safeguards Information and resources you provide in using Skype Software and Services.
+Skype Software S.à r.l and /or Skype Communications S.à r.l., both incorporated under the laws of Luxembourg, having their registered office at 15, rue Notre Dame, L-2240 Luxembourg, are collecting and processing your personal information under this Privacy Statement.
 
-###### Explanation of Service
+This Privacy Statement is designed to assist you in understanding how Skype uses and safeguards the information you provide in using Skype's peer-to-peer VoIP software, Skype's websites and/or Skype's products.
 
-Skype Software S.A. provides the Skype Software (“Software”) and manages operations of the Skype Services (“Services”). Skype Software is provided to all users for free but some services may require registration in order to function. Other services may require a paid subscription to Skype.
+**CONTENTS**
 
-Through these services, you can register to become a user of the Skype Services and communicate with other Skype users through voice communication, Instant Message (IM) communication and/or other forms of communication. You also have the option of sharing your personal profile with other users of the Skype software. You can also search for other users and add them to your “friend’s list”. You can also approve or disapprove requests from other users who wish to add you to their friend’s list, whereby those users will be able to see your online status. You can also invite others to download Skype software and register as a Skype user. From time to time, new services may be added which improve, modify or extend the functionality of the Skype Services.
+  1. What is Skype and what products does it offer?
+  2. What information does Skype collect?
+  3. How does Skype use this information and for what purpose?
+  4. To whom does Skype transfer your personal information?
+  5. What are cookies and how does Skype use them?
+  6. Information outside Skype's control
+  7. How does Skype protect your personal information?
+  8. Personal Data of Friends
+  9. Contacting You
+  10. Can this Privacy Statement be modified?
+  11. What rights do you have and how can you contact Skype?
+  12. How long is your personal data kept by Skype?
 
-###### Use of Information
 
-SKYPE DOES NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER ANY PERSONAL INFORMATION COLLECTED THROUGH SKYPE SOFTWARE OR SERVICE TO ANY THIRD PARTY OUTSIDE THE SKYPE NETWORK. WE WILL TREAT ANY INFORMATION YOU PROVIDE TO SKYPE AS CONFIDENTIAL INFORMATION AND WILL NOT DISCLOSE IT TO ANY THIRD PARTY OUTSIDE THE SKYPE NETWORK. WE WILL PROVIDE INFORMATION COLLECTED THROUGH THE NETWORK TO OTHER USERS IN THE NETWORK ONLY WITH YOUR EXPLICIT PERMISSION AS GRANTED BY YOU THROUGH APPLICABLE SETTINGS AVAILABLE IN THE SOFTWARE. THIS INFORMATION IS GENERALLY NOT STORED BY SKYPE AT ALL AND IS INSTEAD VOLUNTARILY SHARED BY USERS TO AND FROM OTHER USERS IN THE NETWORK.
 
-What Information Do You Provide to us and How Do We Use it? 
-    When you use the Skype Services and Software you provide three types of Information: (1) Personal Information you actively choose to disclose to Skype Software S.A. (“Active Information”), (2) Usage Information that is provided passively or generated automatically during your use of Skype Software (“Passive Information”) and (3) information that you share or communicate with other Skype Software users (“User Information”).
-    _Active information_ includes information which is required in order for the Software to verify your identity and provide you with the Skype Services. This includes your Skype Name and password. This information is stored centrally by Skype. Active information may also include any billing information you submit only if you decide to purchase Services from Skype. Billing information is stored securely by Skype’s third party billing provider according to local laws and regulations (please see privacy policy at time of purchase). Billing information is only stored in order to comply with local regulations and to provide you with accurate billing information and service.
-    If you choose to invite a friend to join Skype through a menu option in the software, you will be directed to a web page and will have the possibility of adding one or more email addresses in an online form. Any information entered in this form is stored temporarily and is used only for the purposes of automatically generating an email message to these users. The Skype website may also contain feedback forms where feedback can be reported directly to Skype employees. Any and all information which is voluntarily submitted in such feedback forms are used for the purposes of reviewing this feedback and improving the Skype Software and Services. Skype reserves the right to utilize this information for marketing purposes, for instance by displaying selected comments on it’s website or in other communications. If Skype chooses to display a user-submitted comment it will either display it anonymously, stripping away all personally identifiable information, or request permission directly from you before displaying it.
-    _User Information_ may be required by certain Skype Services in order for the Software to function as intended and, if so desired, for other users of Skype Software to communicate with you. User Information includes any information you enter in your User Profile (such as name and email address) and also includes your current online status and your IP number. User Information is NOT stored centrally but is temporarily transmitted to other users in the network if you have chosen to make this information available. As with most other communication software, other users of Skype Software may be able to obtain your IP address.
-    _Passive Information_ is limited to information that is necessary in order to provide you with the desired functionality of the software and may include a session ID token, source and destination addressing information, and the version of the software you are using. Passive information is automatically generated and is not stored centrally, except for anonymously aggregated statistical information used to provide you with better service or statistical information used solely for the purposes of detecting fraud or to block access to Skype Services after the free trial period has ended according to the terms set out in the End User License Agreement.
+**1\. WHAT IS SKYPE AND WHAT PRODUCTS DOES IT OFFER?**
 
-###### No Content of Communications Collected
+Through its websites, Skype Software S.à r.l. offers the Skype software and Skype Communications S.à r.l. offers other Skype products (e.g. SkypeOut, SkypeIn, Skype Pro, SkypePrime, Skypecast, SkypeFind, etc.), which may be extended or changed from time to time.
 
-Skype does not collect any Contents of Communications such as calls or Instant Messages.
+**2\. WHAT INFORMATION DOES SKYPE COLLECT?**
 
-###### No Extraneous System Information Collected
+Skype may gather and process information about you, including (but not limited to) information in the following categories:
 
-No information concerning your computing facilities is collected that is not related to providing Skype Services, including other installed software systems, non-service-related content, or hardware peripherals. No information about your specific computing facilities will be provided to any third party unless required by the Terms of Agreement of a Service with which you’ve registered.
+(a) Identification data (name, address, telephone, email address etc.);
 
-###### No Provision of Information to Third Parties Without Your Permission
+(b) Profile information (e.g. age, sex, country of residence etc.) (THIS DOES NOT INCLUDE YOUR USER PROFILE – please see article 6 of this Privacy Statement);
 
-Skype will not sell, rent, lease or otherwise provide Active Information to any third party unless required by the terms of Agreement of a Service with which you’ve registered.
+(c) Electronic identification data (addresses IP, cookies, etc.);
 
-###### What Resources Do We Use and How Do We Use Them? 
+(d) Banking and payment information (credit card information, account number, etc.);
 
-During the course of using Skype Software, disk space, bandwidth and processing power may be utilized to provide the Skype services to you and to communicate with other Skype users. From time-to-time your computer may become a Supernode. A Supernode is a computer running Skype Software that has been automatically elevated to act as a hub. Supernodes may assist in helping other users to communicate or use the Skype software efficiently. This may include the ability for your computer to help anonymously and securely facilitate communications between other users of the Skype Software who, due to network and firewall constraints, cannot establish direct connections. The system has been designed so that being a Supernode will not interfere with the normal operations of your computer.
+(e) Survey result and usage information;
 
-How Do We Protect Your Data, Information, and Resources?
-    Skype uses industrial strength technology to protect the data on your computer, any information you provide to us, and to protect the use of your computer resources. The data contained in your public profile is protected and can only be shared to other users if you chose to make such information public in the software settings. Passive Information you provide is stored only temporarily on secure databases and only in anonymous aggregate form unless required to provide billing information to Subscribers or to verify the integrity of your identity by Skype software or to comply with local laws or regulations. Your computer resources can not be accessed by any third party through Skype Software.
-Software Installation
-    Skype Software is installed on computers with an installer downloaded from www.skype.com or in combination with other software or web sites. Skype Services may also be provided through other applications that utilize the Skype Software. These applications are required to display the Skype End User License Agreement before the Software is installed. You can uninstall the Skype Software from the standard Windows Control Panel at any time.
-Software Updates
-    The Skype Software contains update functionality. This enables the Software to determine that there is a newer version available, which has improved or new functionality and/or bug fixes. You will be asked for your permission before an update is performed unless you have specifically authorized Skype to automatically update your software without notification. The Software may however update non-program files from time to time without asking the user. These updates are only used to update file indices, configurations and other non-critical objects. These updates only pertains to executable files.
-Children
-    No part of this Software is directed to children. We will never knowingly collect information from users under the age of 13.
-Delete/Deactivation Policy
-    If you wish to delete any personal Information you submitted to Skype Software S.A., you may do so by contacting us at delete@skype.net. We will notify you of our receipt of your request. We will use commercially reasonable efforts to functionally delete all such information (excluding any information necessary in order to detect fraudulent use) from our database within fifteen working days from the date of the receipt of your request. Please note that it may be impossible to delete a user’s entry without some residual Information because of backups and records of deletions. Skype reserves the right not to delete information in order to comply with applicable local laws or regulations.
+(f) Products or services ordered and delivered;
 
-###### Length of Time Data Will Be Stored
+(g) Video and sound recordings;
 
-Unless you request that we delete any of the information you submitted to Skype when you registered for any electronic updates and/or newsletters we may offer, we will store such information for a period of two years or for the period of time stipulated in applicable laws and regulations, whichever is greatest. At the conclusion of that time, all such information will be deleted.
+(h) List of your contacts;
 
-###### Risks and Disclaimers
+(i) Traffic data (data processed for the purpose of the conveyance of communications or the billing thereof, including, but not limited to, the duration of the call, the number calling and the number called, etc.).
 
-Please be careful and responsible whenever you’re online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we strive to protect your personal Information, Skype cannot ensure or warrant the security of any Information you transmit to us except for information specifically covered by Skype’s End User License Agreement or Privacy Policy. The use of Skype Software and Services is done at your own risk.
+**3\. HOW DOES SKYPE USE THIS INFORMATION AND FOR WHAT PURPOSE?**
 
-###### Contact Information
+Our primary purpose in collecting information is to provide you with a safe, smooth, efficient, and customized experience. Skype collects and processes, or has third party service providers acting on Skype’s behalf collecting and processing, personal data relating to you, as permitted or necessary to:
 
-For more Information please [click here to contact us](https://web.archive.org/contact.html).
+• provide communication products, in particular to convey the communications you make by means of the Skype software and/or the Skype products; 
+
+• take, process or deliver orders made via our websites, invoice you or notify you of the status of your order;
+
+• provide other services for you (as described when we collect the information);
+
+• register products that you have purchased with the manufacturer or service provider for warranty or technical support;
+
+• provide you with customer support and troubleshoot problems;
+
+• compare information for accuracy;
+
+• inform you about service updates and faults;
+
+• request feedback or participation in on-line surveys;
+
+• resolve disputes;
+
+• verify your identity;
+
+• customize, measure, and improve Skype software, our products and websites content and layout;
+
+• create an eCommerce ecosystem combining the Skype group entities' services;
+
+• provide and invoice certain joint services with other Skype group entities;
+
+• organise and carry out Skype’s and/or Skype group's marketing or promotional operations/offers, contests, games and similar events; and
+
+• protect your, Skype's and Skype group entities' interests, including in particular to enforce our Terms of Service and fight against fraud, (together, the Purposes).
+
+**4\. TO WHOM DOES SKYPE TRANSFER YOUR PERSONAL INFORMATION?**
+
+Except as provided below, Skype shall not sell, rent, trade or otherwise transfer any personal and/or traffic data or communications content to any third party without your explicit permission, unless it is obliged to do so under applicable laws or by order of the competent authorities.
+
+Skype may share your information with Skype group entities for certain purposes, and in particular insofar as necessary to (1) create an eCommerce ecosystem combining the Skype group entities' services; (2) provide and invoice certain joint services; (3) organise marketing or promotional operations, contests, games and similar events; and (4) fight against fraud.
+
+In order to provide you with Skype products you have requested, Skype may sometimes, if necessary, share your personal and traffic data with carriers, partner service providers and/or agents, for example the PSTN-VoIP gateway provider, distributor of Skype software and/or Skype products and/or the third party banking organization or other providers of payment services. Skype will always require these third parties to take appropriate organizational and technical measures to protect your personal data and traffic data and to observe the relevant legislation. 
+
+Please be informed that, notwithstanding the abovementioned, in the event of a designated authority lawfully requesting Skype or Skype's local partner to retain and provide personal data, communications content and/or traffic data, Skype and/or its local partner will provide all reasonable assistance and information to fulfil this request.
+
+Your information may be stored and processed in any country in which Skype and the Skype group maintain facilities, including outside of the EU. In this regard, or for purposes of sharing or disclosing data in accordance with this article 4, Skype reserves the right to transfer information outside of your country. By using Skype software, Skype's websites or Skype products you consent to any such transfer of information outside of your country. As Skype continues to develop its business, Skype might sell or buy subsidiaries or business units. In such transactions as well as in the event Skype or substantially all of its assets are acquired by a third party, personal information of Skype users will generally be one of the transferred business assets. We reserve the right to include your personal information, collected as an asset, in any such transfer to a third party.
+
+**5\. WHAT ARE COOKIES AND HOW DOES SKYPE USE THEM?**
+
+Cookies are pieces of information that the Skype software may store on your computer's hard drive in order to help web applications to recognize you or your or preferences. Skype's cookies may contain identifying information. Cookies enable Skype to gain information about the use of its websites. This information may be analyzed by third parties on our behalf.
+
+The Help option on the toolbar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please bear in mind that some personalized services may not be available if you choose to disable cookies.
+
+Third Party Cookies
+
+The adverts appearing on our websites are delivered to you by our web advertising partners. Please be aware that these third parties may use cookies to obtain information about your visits to this site, such as number of times you have viewed an advert (but not your name, address, or other personal information), This information is used to serve adverts to you. 
+
+**6\. INFORMATION OUTSIDE SKYPE'S CONTROL**
+
+Your User Profile
+
+Your user profile is the information you decide to make available to the other Skype users. It may include your Skype user name, full name, address, telephone numbers, gender, date of birth, language, “about me” page URL, and any other information that you decide to make available. Skype does not store your user profile centrally on a server and does not have any control over it. In the event you choose to make your user profile available, this information is securely and temporarily transmitted to, and stored on computers of other users in the peer-to-peer network, in an encrypted format. You control your user profile and you can access your user profile from the “File” menu in the Skype software in order to view, correct, complete or remove information. Since your profile is not stored centrally or processed by Skype, Skype does not control it and cannot guarantee that this information will always be available and will not disappear. 
+
+Linked Websites
+
+Skype websites may contain links that will let you leave Skype's website and access another website. Linked websites are not under the control of Skype and it is possible that these websites have a different privacy policy. The Privacy Statement applies solely to personal information that is acquired on the websites or through your use of the Skype software, Skype products and/or your relationship with Skype, so Skype urges you to be careful when you enter any personal information online. Skype accepts no responsibility or liability for these other websites.
+
+**7\. HOW DOES SKYPE PROTECT YOUR PERSONAL INFORMATION?**
+
+Skype and Skype group entities shall take appropriate organizational and technical measures to protect the personal data and traffic data provided to it/them or collected by it/them, and shall not retain it any longer than permitted in order to perform its services or as required under relevant legislation. Your personal and traffic data can only be accessed by authorized employees of Skype or the concerned Skype group entities that need to have access to this data in order to be able to fulfil their given duties. 
+
+Skype shall take appropriate technical measures to protect the confidentiality of the communications content via its Skype software and other Skype products, with due observance of the applicable obligations and exceptions under the relevant legislation.
+
+**8\. PERSONAL DATA OF FRIENDS**
+
+You may be interested in inviting your friends to join Skype. In the event you wish to use Skype's referral service, you will be directed to a webpage and will have the possibility of adding one or more email addresses in an online form. The information entered in this form, will only be used for the purposes of automatically generating an email message to these potential Skype users.
+
+**9\. CONTACTING YOU**
+
+Skype may from time to time ask you to provide information on your experiences which will be used to measure and improve quality. You are at no time in any obligation to provide any of such data. Any and all information which is voluntarily submitted in feedback forms on the website or any survey that you accept to take part in is used for the purposes of reviewing this feedback and improving the Skype software, Skype and Skype group entities' products and websites. Skype also collects information about your usage of the Skype software, the websites and Skype and Skype group entities’ products. Skype reserves the right to utilize this information for marketing purposes, for instance by displaying selected comments on the website or in other communications. Skype may share anonymous and aggregated information with third parties, for example to serve targeted advertising.
+
+Skype may contact you to send you messages about faults and service issues. Further, Skype reserves the right to use email or the Skype software to notify you of any eventual claims related to your use of Skype software, the Skype websites and/or Skype products, including without limitation claims of violation of third party rights.
+
+Skype may also use email or the Skype software to keep you up to date with news about the Skype software and Skype products that you have purchased and/or to inform you about other Skype or Skype group entities' products unless you have opted out of receiving this information. If you do not want to be kept informed in this way, please contact Skype at delete@skype.com.
+
+**10\. CAN THIS PRIVACY STATEMENT BE MODIFIED?**
+
+Skype reserves the right to modify the provisions of this Privacy Statement if deemed necessary. We will inform you of these changes by publishing the revised Privacy Statement at [skype.com/go/privacy](http://www.skype.com/go/privacy). The revised Privacy Statement shall become effective within thirty (30) days of such publishing, unless you expressly accept the revised statement earlier by clicking on the accept button. You agree that the express acceptance by you, or your continued use of the Skype software or Skype products after the notice period of thirty (30) days, shall constitute your acceptance of the Privacy Statement.
+
+**11\. WHAT RIGHTS DO YOU HAVE AND HOW CAN YOU CONTACT SKYPE?**
+
+You have the right to access and, where relevant, to rectify your personal data, provided that your identity can be verified.
+
+If you would like to exercise your right to view, correct, complete or remove your personal data, please contact Skype at delete@skype.com. Within a reasonable period of time and upon verification of your identity and to the extent your request is legitimate, Skype will fulfil your request, provided Skype will not act contrary to applicable legislation by fulfilling your request. 
+
+You may also oppose to the processing by Skype and/or the Skype group of your personal data. However, in this case, Skype and other Skype group entities will not be in a position to provide the Skype products and/or the Skype software and/or certain services offered by other Skype group entities.
+
+You can exercise your right to oppose to the processing detailed in the Privacy Statement by contacting Skype at delete@skype.com. 
+
+**12\. HOW LONG IS YOUR PERSONAL DATA KEPT BY SKYPE?**
+
+Skype and, where relevant, the Skype group entities will retain your information for as long as is necessary to: (1) fulfil any of the Purposes (as defined in article 3 of this Privacy Statement) or (2) comply with applicable legislation, regulatory requests and relevant orders from competent courts.
+
+© Skype – Last revised: September 8, 2007
