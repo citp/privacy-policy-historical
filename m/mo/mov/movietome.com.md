@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movietome.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211093032id_/http%3A//www.cnetnetworks.com/editorial/privacy.html%3Ftag%3Dcnefooter%3Bbottom%3Bprivacy%26om_act%3Dconvert%26om_clk%3DCNEfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietome.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610075502id_/http%3A//www.cnetnetworks.com/editorial/privacy.html%3Ftag%3Dcnefooter%3Bbottom%3Bprivacy%26om_act%3Dconvert%26om_clk%3DCNEfooter) for the most accurate reproduction.*
 
 # CNET Networks - Editorial - Privacy Policy
 
@@ -88,16 +88,14 @@ Free services registration [http://www.bnet.com](http://www.bnet.com/)
 E-mail newsletters <http://nl.com.com/acct_login.jsp?brand=bnet>
 
 **CNET**  
-Account management: <http://reviews.cnet.com/1340-7600-64.html>   
+Account management: <http://reviews.cnet.com/5270-4_92-0-1.html>  
 E-mail newsletters: <http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa>  
-Registration management [e-mail request]: [mailto:privacy@cnet.com](mailto:privacy@cnet.com)  
-Download.com users: <http://download.com.com/1320-20-3.html>  
-Download.com listings: <http://upload.com.com/>  
-Download.com newsletters: <http://nl.download.com/login.sc?brand=download>  
-Internet Services listings: <http://webservices.cnet.com/html/postprocess/contactformIAc.asp>  
-ChannelOnline: <http://channelonline.com/us/>  
+CNET Download.com Account Management: <http://www.download.com/1341-20_4-133.html>  
+CNET Download.com newsletters: <http://nl.download.com/login.sc?brand=download>  
+CNET Download.com listings: <http://upload.com.com/>  
 CNET News.com Account Management: <http://news.com.com/1340-52-34.html>  
-CNET News.com newsletters: [http://nl.com.com/acct_mgmt.sc?brand=news](http://nl.com.com/acct_mgmt.sc?brand=new)
+CNET News.com newsletters: [http://nl.com.com/acct_mgmt.sc?brand=news](http://nl.com.com/acct_mgmt.sc?brand=new)  
+ChannelOnline: <http://channelonline.com/us/>
 
 **GameSpot**  
 Help Center: <http://www.gamespot.com/misc/helpcenter.html>  
@@ -125,9 +123,6 @@ E-mail newsletters: <http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa>
 Account management: <http://techrepublic.com.com/1341-22-20.html>  
 E-mail newsletters: <http://www.techrepublic.com/techmail_promo.jhtml>  
 Registration management: <http://techrepublic.com.com/1320-4-55.html>
-
-**Webshots**  
-Premium Membership: <http://www.webshots.com/MyAccount/MyAccount.fcgi>
 
 **ZDNet**  
 Account management: <http://zdnet.com.com/1340-10-7.html>  
