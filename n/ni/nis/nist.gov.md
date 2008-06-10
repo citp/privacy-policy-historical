@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228222434id_/http%3A//www.nist.gov/public_affairs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610152854id_/http%3A//www.nist.gov/public_affairs/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement/Security Notice/Accessibility Statement
 
-**Privacy Policy | Security Notice | Accessibility Statement | [NIST Privacy Impact Assessments](http://cio.nist.gov/policies/NIST_Privacy_Impact_Assessments_May_2007.pdf)**
+**Privacy Policy | Security Notice | Accessibility Statement | [NIST Privacy Impact Assessments](http://cio.nist.gov/policies/index.htm)**
 
 **Privacy Policy**
 
@@ -43,7 +43,7 @@ Currently, we are using session cookies as part of a Web customer satisfaction s
 
 **Links to other sites:** Our Web site contains links to various other federal agencies and private organizations. Once you link to another site, you are then subject to the privacy policies of the new site. It is always a good idea to read the Privacy Policy of any site you visit.
 
-Your right under the Privacy Act: Information on the Privacy Act can be found on the following web site: [http://www.cftc.gov/foia/foiprivacyact.htm](http://www.nist.gov/cgi-bin/exit_nist.cgi?url=http://www.cftc.gov/foia/foiprivacyact.htm)
+Your right under the Privacy Act: Information on the Privacy Act can be found on the following web site: [http://www.cftc.gov/foi/foiareference/index.htm](http://www.nist.gov/cgi-bin/exit_nist.cgi?url=http://www.cftc.gov/foi/foiareference/index.htm)
 
 **Accessibility:** The National Institute of Standards and Technology is committed to making its web sites accessible to all NIST customers and staff in accordance with provisions of Section 508 of the Rehabilitation Act Amendments of 1998. 
 
