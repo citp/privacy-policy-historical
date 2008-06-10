@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bb-articles.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214082609id_/http%3A//bb-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bb-articles.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610203010id_/http%3A//bb-articles.com/privacy.php) for the most accurate reproduction.*
 
 # BB Articles Directory | Search Find Free Content | Submit Articles | Author Submission
 
