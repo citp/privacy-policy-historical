@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deardoctor.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209165632id_/http%3A//www.deardoctor.com/legal.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deardoctor.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610174445id_/http%3A//www.deardoctor.com/legal.php%23privacy) for the most accurate reproduction.*
 
 # Dear Doctor - Legal Information
 
