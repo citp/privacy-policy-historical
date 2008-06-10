@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the highlights.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012161244id_/http%3A//www.highlights.com/custserv/customerservicemain.jsp%3Fcid%3D225) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlights.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610053712id_/http%3A//www.highlights.com/mt/customer_service/privacy_and_security.jsp) for the most accurate reproduction.*
 
-# Highlights for Children
+# Privacy and Security - Highlights.com
+
+By Age
+
+By Category
+
+Fun for Families
+
+  
+
+
+|  | 
 
 **Highlights for Children's Online Privacy Notice**
 
@@ -10,7 +21,7 @@ For more than 60 years, we at Highlights for Children have developed relationshi
 
 This privacy policy applies only to Highlights.com and its affiliated promotional web sites. This policy does not apply to HighlightsKids.com nor any of our offline promotions. To view the privacy policy for HighlightsKids.com, please click [here.](http://www.highlightskids.com/admin/ps_f_privacyPolicy.asp)
 
-For information pertaining to our offline privacy policy, [please click here](https://web.archive.org/custserv/customerservicemain.jsp?cid=340) or make a request via e-mail at [profile@highlights.com](mailto:profile@highlights.com)
+For information pertaining to our offline privacy policy, [please click here](https://web.archive.org/mt/customer_service/offline_privacy_policy.jsp) or make a request via e-mail at [profile@highlights.com](mailto:profile@highlights.com)
 
 **Contact Us:**
 
@@ -96,3 +107,5 @@ We will release personal information to third parties and organizations when we 
 **Links to Third Party Sites:**
 
 Our web site contains links to third party sites. Highlights for Children is not responsible or liable for the privacy practices or content found on these sites. We suggest you check and fully understand the privacy policy of each site you visit.
+
+| 
