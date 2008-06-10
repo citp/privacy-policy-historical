@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdfcsec.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211231924id_/http%3A//www.hdfcsec.com/Common/Content.aspx%3FArticleID%3D43202b24-b4bd-4b4f-8514-039d59fa7021) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdfcsec.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610045736id_/http%3A//www.hdfcsec.com/Common/Content.aspx%3FArticleID%3D43202b24-b4bd-4b4f-8514-039d59fa7021) for the most accurate reproduction.*
 
 # HDFC Securities
 
@@ -6,10 +6,9 @@
 ---|---  
 |  Did You Know ?  
 ---  
-[Auctions](https://web.archive.org/KnowledgeCenter/Story.aspx?ArticleID=7f7ef82d-2099-4d42-92eb-bd9c6fba86b8)  
-An auction is resorted to when there is a default in delivery by a broker. ...  
+[Settlement](https://web.archive.org/KnowledgeCenter/Story.aspx?ArticleID=9b29c8aa-3730-4932-8038-943f8bda9a42)  
+Once you have bought or sold shares, the transaction is complete only when ...  
  [More](https://web.archive.org/KnowledgeCenter/IntKCGrid.aspx?SubReportID=16adc0ce-a0be-4aad-bab1-22ed22c78c38)  
-  
   
 | 
 
@@ -36,9 +35,6 @@ Please note that this privacy policy does not create any contractual or other le
   
    
 ---  
-  
-[](http://www.giveindia.org/)
-
 |  Copyright © 2007. All rights Reserved. HDFC Securities Limited.  
 Designed & Developed by [Idealake Information Technologies Pvt. Ltd.](http://www.idealake.com/)  
 Content provided by [Capital Market](http://www.capitalmarket.com/).  
