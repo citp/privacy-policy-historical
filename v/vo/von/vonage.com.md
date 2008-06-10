@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vonage.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212192407id_/http%3A//vonage.com/help.php%3Flid%3Dfooter_privacy%26article%3D399%26refer_id%3DWEBPV0706010001W1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610190511id_/http%3A//www.vonage.com/help.php%3Flid%3Dfooter_privacy%26article%3D399%26refer_id%3DWEBPV0706010001W1) for the most accurate reproduction.*
 
 # Privacy Policy - VoIP Internet Phone Support: Vonage – A Better Way to Phone for Less
 
@@ -50,7 +50,7 @@ Subject to certain security requirements, Vonage will do its best to honor reque
 
 ### Children's Privacy Policy
 
-Vonage does not sell products or services for purchase by children. Vonage does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to Vonage, please [click here to report this to us](https://web.archive.org/web/20071212192407id_/http%3A//vonage.com/help.php?article=1217&refer_id=WEBPV0706010001W1).
+Vonage does not sell products or services for purchase by children. Vonage does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to Vonage, please [click here to report this to us](https://web.archive.org/web/20080610190511id_/http%3A//www.vonage.com/help.php?article=1217&refer_id=WEBPV0706010001W1).
 
 ### Vonage Spam Policy
 
@@ -82,7 +82,7 @@ Our service is maintained in the United States of America. By using our services
 
 ### Questions
 
-For common questions and answers regarding our privacy policy or to contact us, [click here ](https://web.archive.org/web/20071212192407id_/http%3A//vonage.com/help.php?article=1217&refer_id=WEBPV0706010001W1)
+For common questions and answers regarding our privacy policy or to contact us, [click here ](https://web.archive.org/web/20080610190511id_/http%3A//www.vonage.com/help.php?article=1217&refer_id=WEBPV0706010001W1)
 
 ### Effective Date
 
@@ -90,8 +90,6 @@ This Privacy Policy was last updated on November 8, 2006.
 
   
 
-
-* * *
 
   *      Did this article answer your question today?Yes No
 
