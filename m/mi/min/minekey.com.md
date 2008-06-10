@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minekey.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027125045id_/http%3A//www.minekey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minekey.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611010205id_/http%3A//www.minekey.com/privacy) for the most accurate reproduction.*
 
 # Recommendation Service for your Blog or Website
 
