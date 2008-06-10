@@ -1,89 +1,45 @@
-> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229060957id_/http%3A//www.flyordie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610034230id_/http%3A//www.flyordie.com./privacy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Statment - FlyOrDie.com
 
-FlyOrDie.com is committed to your privacy and makes every effort to ensure the confidentiality of your personally identifiable information. With this statement we demonstrate our commitment by disclosing our information and privacy practices.  
-If you feel that FlyOrDie.com is not abiding by its posted privacy policy, please write to [privacy@flyordie.com](mailto:privacy@flyordie.com)
+## Privacy Statement
 
-Information Collection and Use
-
-FlyOrDie.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  FlyOrDie.com collects information from our users at several different points on our website.
+[FlyOrDie](http://www.flyordie.com/) is committed to protecting your personal information when you are using FlyOrDie's services. This Privacy Policy relates to our use of any personal information you provide to us through the FlyOrDie.com websites.   
+Any comments about this document, or FlyOrDie's policy, please write to: [privacy@flyordie.com](mailto:privacy@flyordie.com)
 
 Registration
 
-In order to use the multi-player games section of this website the user can optionally register first. Registration is optional, many parts - not all - of these games can be accessed as 'guest' as well (without registration).  During registration a user is required to give their contact information (such as name and email address). This information is used to  
-(a) verify access rights to access-restricted content services and software and to  
-(b) contact the user about the services on our site for which they have expressed interest.
-
-Order
-
-We request information from the user on our order forms. Here a user must provide contact information (like name and address) and optionally financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
-
-Cookies
-
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site.  By setting a cookie on our site, the user would not have to log in more than once to start the multi-player games, thereby saving time while on our site. If a user rejects cookies, they may still use our site.  
-Some of our business partners use cookies on our site (for example, advertisers).  However, we have no access to or control over these cookies.
-
-Third Party Advertising
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (NOT including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
-
-Third Party Cookies
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
-
-Log Files
-
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are linked to personally identifiable information with the only purpose to avoid hacking activities performed against our site.
-
-Sharing
-
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
-
-We use an outside credit card processing company to process credit card payments. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
-
-We partner with third parties to provide specific services.  As part of these services FlyOrDie.com might store information, that was entered via the third party's site, on FlyOrDie.com's site. Information entered via FlyOrDie.com's site and information entered via such third party's site will be kept separate and will not be shared - expcept if information sharing is not mentioned explicitly.  Please be aware that FlyOrDie.com is not responsible for the privacy practices of such third party sites.
-
-Links
-
-This web site contains links to other sites. Please be aware that FlyOrDie.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-Newsletter
-
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
-
-Surveys & Contests
-
-From time-to-time our site requests information from users via surveys or contests.  Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level).  Contact information will be used to notify the winners and award prizes.  Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+Some of FlyOrDie's services are only available after registration. While registering at FlyOrDie.com, user has to provide a user name with password and an email address. Users can provide additional personal information about themselves, and have the choice to make these data public, or only available to FlyOrDie. FlyOrDie uses these data only to create statistics, analyse trends. If you do not wish your information to be used in this way, do not add these information. 
 
 Security
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
+Some of FlyOrDie's services are only available after subscription. During subscription, it might be necessary to provide some personal information. These data (card numbers, etc.) are encrypted and are protected with the best encryption software in the industry - SSL. FlyOrDie does not store credit card data in any form. 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL.  While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about SSL, follow this link. 
+IP addresses
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.  All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, at hosting companies with a high reputation and an expressed commitment to privacy.
+IP addresses are logged. We can use these data for creating statistics, analysing trends, etc. 
 
-If you have any questions about the security at our website, you can send an email to [security@flyordie.com](mailto:security@flyordie.com).
+Chat
 
-Special Offers
+Chat (even private messages) is logged. FlyOrDie can use these logs as described below. 
 
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
+Safeguarding Your Personal Information 
 
-Correction/Updating Personal Information
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. FlyOrDie does not rent, sell, or share these personal information described above about you except when responding to court orders, legal process, or to establish or exercise our legal rights or defend against legal claims. FlyOrDie can also share personal data in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of FlyOrDie's terms of use, or as otherwise required by law. 
 
-If a user's personally identifiable information changes, or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support.
+Cookies
 
-Choice/Opt-out
+We use cookies to passively collect demographic information, personalize your experience on our site and monitor advertisements and other activities. Cookies are small files downloaded to your computer to track movements within web sites. Usage of a cookie is in no way linked to any personally identifiable information while on our site. 
 
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.
+Third party advertisement
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [support@flyordie.com](mailto:support@flyordie.com).
+We also use third party advertisements on FlyOrDie to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited. You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites. 
 
-Users of our site are always notified when their information is being collected by any outside parties.  We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
+Links
 
-Notification of Changes
+This web site contains links to other sites. Please be aware that FlyOrDie is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+Last updated: April 9, 2008 
 
-Last updated: April 2, 2005
+Copyright © 2008 [FlyOrDie.com](http://www.flyordie.com/ "Flyordie Online Games"). All rights reserved.  
+FlyOrDie © is a registered trademark of Solware Ltd.
