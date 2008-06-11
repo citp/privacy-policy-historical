@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the 100percentdesign.co.uk privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213101237id_/http%3A//www.100percentdesign.co.uk/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 100percentdesign.co.uk privacy policy that was archived on 2008-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080611230139id_/http%3A//www.100percentdesign.co.uk/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en-GB"><head>
 		
-	<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
+	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="cache-control" content="no-cache">
 	<meta http-equiv="expires" content="Sun, 28 Dec 1997 09:00:00 GMT">
 	<meta name="language" content="en">
 	
@@ -13,14 +14,13 @@
 	<meta name="verify-v1" content="ooV+/ASp0QvAqpqNNZ8/Y7tRn27J1EuKp21mr4nJT3k=">
 
 		
-<meta name="Description" content="Privacy Pledge How Your Information Is Used Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions ">
-<meta name="Keywords" content="Contemporary Design, Interior Design, Design in London, Design Exhibition in London, office furniture">
+<meta name="Description" content="Privacy Pledge How Your Information Is UsedSince 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions Limited ">
 
 
 	
 		
 			
-				<link rel="stylesheet" type="text/css" href="http://www.100percentdesign.co.uk/css_DESIGN2007.css">
+				<link rel="stylesheet" type="text/css" href="http://www.100percentdesign.co.uk/css_DESIGN2008.css">
 			
 		
 	
@@ -45,7 +45,6 @@
 		else if(document.getElementById)
 		{nav = "ns6";
 		 doc = "document.all";
-		 
 		 brO = "[";
 		 brC = "]";
 		 wdth=".offsetWidth";
@@ -65,7 +64,7 @@
 			/*
 			if (document.all['ImgRotator_'+rotID] != null)
 			{	obj=eval('objArray_'+rotID+'[countRotator_'+rotID+']');
-				document.all['ImgRotatorImg_'+rotID].src='http://www.100percentdesign.co.uk/g/2007/logos/'+obj.imgName;
+				document.all['ImgRotatorImg_'+rotID].src='http://www.100percentdesign.co.uk/g/2008/logos/'+obj.imgName;
 				document.all['ImgRotatorImg_'+rotID].width=obj.imgWidth;
 				document.all['ImgRotatorImg_'+rotID].height=obj.imgHeight;
 				document.all['ImgRotatorImg_'+rotID].alt=obj.imgAlt;
@@ -100,11 +99,6 @@
 					}
 				}
 			}
-		}
-	
-		function OpenCertDetails()
-		{	thewindow=window.open('https://www.thawte.com/cgi/server/certdetails.exe?code=GBREED33', 'thewindow', config='height=400,width=450,toolbar=no,menubar=no,scrollbars=yes,resizable=no,location=no,directories=no,status=yes');
-			thewindow.focus();
 		}
 	
 		function rolloverImage(imgName,state)
@@ -232,10 +226,17 @@
 		
 		xmlHttp=new Array();
 		function callAJAX(UID,URL,readyFunction,varOne)
-		{	var url=URL+'&RNDID='+Math.random();
+		{	var url=URL;
+			if (UID == 0)
+			{	UID=xmlHttp.length+10;
+			}
+			else
+			{	url+='&RNDID='+Math.random();
+			}
 			xmlHttp[UID]=getXMLHttpObject();
 			xmlHttp[UID].onreadystatechange=function()
-			{	if (xmlHttp[UID].readyState==4 && xmlHttp[UID].status == 200)
+			{	//alert(xmlHttp[UID].readyState+' '+xmlHttp[UID].status);
+				if (xmlHttp[UID].readyState==4 && xmlHttp[UID].status == 200)
 				{	AJAXOutput=xmlHttp[UID].responseText;
 					
 					
@@ -246,20 +247,61 @@
 			{	params='';
 				ambersand='';
 				for (i=1; i < URL.length; i++)
-				{	params+=ambersand+encodeURI(URL[i]);
+				{	URL[i]=URL[i].replace('+','%2B');
+					//URL[i]=URL[i].replace('¦','altPipe');
+					params+=ambersand+encodeURI(URL[i]);//URL[i];
 					ambersand='&';
 				}
+				params=params.replace('%0A%5C','¦');
 				xmlHttp[UID].open("POST",URL[0],true);
 				xmlHttp[UID].setRequestHeader("Content-type", "application/x-www-form-urlencoded");
 				xmlHttp[UID].setRequestHeader("Content-length", params);
 				xmlHttp[UID].setRequestHeader("Connection", "close");
 				xmlHttp[UID].send(params);
+				//alert(URL[0]+'&'+params);
 			}
 			else
 			{	xmlHttp[UID].open("GET",encodeURI(url),true);
 				xmlHttp[UID].send(null);
 			}
 		}
+		
+		function formFields2Array(postArray,formname,fieldExclude)
+		{	var theform = document.forms[formname];
+			for(i=0; i < theform.elements.length; i++) 
+			{	if (fieldExclude.indexOf(theform.elements[i].name) == -1)
+				{	fieldValue='';
+					switch (theform.elements[i].tagName) 
+					{	case "INPUT": 
+							switch (theform.elements[i].type) 
+							{	case "text": 
+								case "hidden": 
+									fieldValue= encodeURIComponent(theform.elements[i].value); 
+								break; 
+								case "checkbox": 
+									if (theform.elements[i].checked) 
+									{	fieldValue= theform.elements[i].value; 
+									}
+								break;
+								case "radio": 
+									if (theform.elements[i].checked) 
+									{	fieldValue= theform.elements[i].value; 
+									} 
+							} 
+						break; 
+						case "TEXTAREA": 
+							fieldValue= encodeURIComponent(theform.elements[i].value); 
+						break;
+						case "SELECT": 
+							var sel = theform.elements[i]; 
+							fieldValue= sel.options[sel.selectedIndex].value; 
+						break; 
+					}
+					postArray[postArray.length] = theform.elements[i].name + "=" + fieldValue;
+				}
+			}
+			return postArray; 
+		} 
 	//-->
 	</script>
 
@@ -272,7 +314,7 @@
 		
 		
 <!--
-(c) Copyright 2007 ASP Multimedia Ltd.
+(c) Copyright 2008 ASP Multimedia Ltd.
 SHOWOFF is a product owned by ASP Multimedia Ltd.
 -->
 
@@ -281,327 +323,52 @@ SHOWOFF is a product owned by ASP Multimedia Ltd.
 
 		
 	
-						<script language="javascript" type="text/javascript">
-						<!--
-							/***********************************************
-							* Pausing updown message scroller- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-							* This notice MUST stay intact for legal use
-							* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-							***********************************************/
-						
-							var scrollerdelay='5000' //delay between msg scrolls. 3000=3 seconds.
-							//var scrollerwidth='140px'
-							var scrollerwidth='140'
-							var scrollerheight='60px'
-							
-							var newsFlash_messages=new Array();
-							
-								
-								newsFlash_messages[0]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=39/t=m/goSection=35">May Fair Hotel: 5 Star Sound for a 5 Star Hotel<br><\/a><\/font>';
-							
-								
-								newsFlash_messages[1]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=3/t=m/goSection=35">100% Futures - the next generation<br><br><\/a><\/font>';
-							
-								
-								newsFlash_messages[2]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=36/t=m/goSection=35">Farrow & Ball is delighted to announce its latest wallpaper collection ‘The Ranelagh Papers’<\/a><\/font>';
-							
-								
-								newsFlash_messages[3]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=5/t=m/goSection=35">100% Design London Announces New Brand Architecture New logo, new name...<br><br><\/a><\/font>';
-							
-								
-								newsFlash_messages[4]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=4/t=m/goSection=35">100% Design London announces new creative director<\/a><\/font>';
-							
-								
-								newsFlash_messages[5]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=6/t=m/goSection=35">Leaf™: A New Experience in Lighting Technology from Herman Miller<\/a><\/font>';
-							
-								
-								newsFlash_messages[6]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=37/t=m/goSection=35">Artcoustic Expands Its Speaker Line with Sleek and Contemporary Diablo Sub Panel  <br>Professional Subwoofer  <\/a><\/font>';
-							
-								
-								newsFlash_messages[7]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=7/t=m/goSection=35">SoFar/SoNear: 2007 general overview<\/a><\/font>';
-							
-								
-								newsFlash_messages[8]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=11/t=m/goSection=35">Great Looking Security  <br>For Windows<br><br><\/a><\/font>';
-							
-								
-								newsFlash_messages[9]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=13/t=m/goSection=35">Turnstyle Design - Barrells of Colour<br><br><br><\/a><\/font>';
-							
-								
-								newsFlash_messages[10]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=8/t=m/goSection=35">Turnstyle Designs - Clear Revolution<\/a><\/font>';
-							
-								
-								newsFlash_messages[11]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=9/t=m/goSection=35">Turnstyle Designs - Cocoa and Composites<\/a><\/font>';
-							
-								
-								newsFlash_messages[12]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=12/t=m/goSection=35">Turnstyle Designs - Hide and Chic<\/a><\/font>';
-							
-								
-								newsFlash_messages[13]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=10/t=m/goSection=35">Turnstyle Designs - Solid and Square<\/a><\/font>';
-							
-								
-								newsFlash_messages[14]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=14/t=m/goSection=35">AEON’S SPEIRA PROVIDES THE PERFECT FOCAL POINT FOR ARCHITECTURAL SPACES<\/a><\/font>';
-							
-								
-								newsFlash_messages[15]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=15/t=m/goSection=35">PRESS RELEASE<br><br>Black+Blum launch ‘Ringo’ and ‘Ring-Ring’<\/a><\/font>';
-							
-								
-								newsFlash_messages[16]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=16/t=m/goSection=35">The sustainable circle<\/a><\/font>';
-							
-								
-								newsFlash_messages[17]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=18/t=m/goSection=35">Bathroom specialists, KEUCO, launch their new Edition Atelier range<br>… integrating the bathroom into rest of the home<br><\/a><\/font>';
-							
-								
-								newsFlash_messages[18]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=20/t=m/goSection=35">KEUCO’s PLAN b_free: Beautiful bathrooms for all ages and ability<\/a><\/font>';
-							
-								
-								newsFlash_messages[19]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=17/t=m/goSection=35">TV in the Tub with KEUCO <\/a><\/font>';
-							
-								
-								newsFlash_messages[20]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=19/t=m/goSection=35">Where traditional meets modern day interior design <br>…the new Edition Palais range from one of Europe’s most innovative  bathroom specialists, KEUCO<br><\/a><\/font>';
-							
-								
-								newsFlash_messages[21]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=24/t=m/goSection=35">Hidden Art bring brand new initiatives to 100% Design 2007<\/a><\/font>';
-							
-								
-								newsFlash_messages[22]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=21/t=m/goSection=35">SoFar/SoNear: 100% Design Preview<\/a><\/font>';
-							
-								
-								newsFlash_messages[23]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=23/t=m/goSection=35">PANNELLO collection<\/a><\/font>';
-							
-								
-								newsFlash_messages[24]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=22/t=m/goSection=35">STRIPES collection<\/a><\/font>';
-							
-								
-								newsFlash_messages[25]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=25/t=m/goSection=35">Armourcoat wins Mixology \'New Market Breakthrough\' Award<\/a><\/font>';
-							
-								
-								newsFlash_messages[26]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=27/t=m/goSection=35">New: attractive railing and two-in-one WC solution<br><br>Innovative extras for "Liaison"<\/a><\/font>';
-							
-								
-								newsFlash_messages[27]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=26/t=m/goSection=35">New: Electrical modules, vanity tables, washstands, cabinet modules as well as a series of lighted mirror cabinets<br><br>„emcoasis“ – the second generation<\/a><\/font>';
-							
-								
-								newsFlash_messages[28]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=30/t=m/goSection=35">Natasha Marshall Debuts New Collections at 100% Design 2007<\/a><\/font>';
-							
-								
-								newsFlash_messages[29]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=29/t=m/goSection=35">Shimmering Metallics From Natasha Marshall<\/a><\/font>';
-							
-								
-								newsFlash_messages[30]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=28/t=m/goSection=35">SO WHAT\'S NEXT FOR EBB?<\/a><\/font>';
-							
-								
-								newsFlash_messages[31]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=31/t=m/goSection=35">Exciting LG HI-MACS® products at 100% Design<\/a><\/font>';
-							
-								
-								newsFlash_messages[32]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=33/t=m/goSection=35">Roca - Inspiring and Achievable at 100% Design<\/a><\/font>';
-							
-								
-								newsFlash_messages[33]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=34/t=m/goSection=35">100% design London<br>press release <br>20th – 23rd September 2007, London <\/a><\/font>';
-							
-								
-								newsFlash_messages[34]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=38/t=m/goSection=35">Artcoustic In Harmonic Surroundings at Jebel Golf Resort & Spa in Dubai<\/a><\/font>';
-							
-								
-								newsFlash_messages[35]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=41/t=m/goSection=35">Bathroom Design with a Conscience<\/a><\/font>';
-							
-								
-								newsFlash_messages[36]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=40/t=m/goSection=35">Warehouse Extention<\/a><\/font>';
-							
-								
-								newsFlash_messages[37]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=42/t=m/goSection=35">INNOVATION <br>“Pli” from burg: Solitaire line with natural stars<br><\/a><\/font>';
-							
-								
-								newsFlash_messages[38]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=43/t=m/goSection=35">New Armourcoat Group to be launched at 100% Design<\/a><\/font>';
-							
-								
-								newsFlash_messages[39]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=44/t=m/goSection=35">Florence Broadhurst Rugs by Knots to be launched at 100% Design 2007.<\/a><\/font>';
-							
-								
-								newsFlash_messages[40]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=45/t=m/goSection=35">100% Norway 2007 - Press Release<\/a><\/font>';
-							
-								
-								newsFlash_messages[41]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=46/t=m/goSection=35">A DESIGN WITH \'SOUL\'<\/a><\/font>';
-							
-								
-								newsFlash_messages[42]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=48/t=m/goSection=35">‘KOJAK’ – DESIGNED BY JONATHAN WOOLLEY A MEMBER OF ALLERMUIR’S IN-HOUSE DESIGN TEAM<br><br><\/a><\/font>';
-							
-								
-								newsFlash_messages[43]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=49/t=m/goSection=35">Architectural Ceramics are 100% INNOVATIVE!<\/a><\/font>';
-							
-								
-								newsFlash_messages[44]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=52/t=m/goSection=35">Robert Timmons Furniture<\/a><\/font>';
-							
-								
-								newsFlash_messages[45]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=50/t=m/goSection=35">Setcast bone china collection<\/a><\/font>';
-							
-								
-								newsFlash_messages[46]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=51/t=m/goSection=35">Design With Spicy Multicultural Flavour In Exhibition<br><br>Rodrigo Vairinhos´s Latest Developments In Exhibition At The 100% Design 2007<br><br><\/a><\/font>';
-							
-								
-								newsFlash_messages[47]='<font face="Arial" size=2 class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=32/t=m/goSection=35">Design Initiative is 15 years old at 100% Design<\/a><\/font>';
-							
-						
-							var news=document.all
-							var newsFlash_dom=document.getElementById
-							
-							if (newsFlash_messages.length>2)
-								newsFlash_i=2
-							else
-								newsFlash_i=0
-							
-							function move1(whichlayer)
-							{	tlayer=eval(whichlayer)
-								if (tlayer.top>0&&tlayer.top<=5)
-								{	tlayer.top=0
-									setTimeout("move1(tlayer)",scrollerdelay)
-									setTimeout("move2(document.newsFlash_main.document.newsFlash_second)",scrollerdelay)
-									return
-								}
-								if (tlayer.top>=tlayer.document.height*-1)
-								{	tlayer.top-=5
-									setTimeout("move1(tlayer)",50)
-								}
-								else
-								{	tlayer.top=parseInt(scrollerheight)
-									tlayer.document.write(newsFlash_messages[newsFlash_i])
-									tlayer.document.close()
-									if (newsFlash_i==newsFlash_messages.length-1)
-										newsFlash_i=0
-									else
-										newsFlash_i++
-								}
-							}
-							
-							function move2(whichlayer)
-							{	tlayer2=eval(whichlayer)
-								if (tlayer2.top>0&&tlayer2.top<=5)
-								{	tlayer2.top=0
-									setTimeout("move2(tlayer2)",scrollerdelay)
-									setTimeout("move1(document.newsFlash_main.document.newsFlash_first)",scrollerdelay)
-									return
-								}
-								if (tlayer2.top>=tlayer2.document.height*-1)
-								{	tlayer2.top-=5
-									setTimeout("move2(tlayer2)",50)
-								}
-								else
-								{	tlayer2.top=parseInt(scrollerheight)
-									tlayer2.document.write(newsFlash_messages[newsFlash_i])
-									tlayer2.document.close()
-									if (newsFlash_i==newsFlash_messages.length-1)
-										newsFlash_i=0
-									else
-										newsFlash_i++
-								}
-							}
-							
-							function move3(whichdiv)
-							{	tdiv=eval(whichdiv)
-								if (parseInt(tdiv.style.top)>0&&parseInt(tdiv.style.top)<=5)
-								{	tdiv.style.top=0+"px"
-									setTimeout("move3(tdiv)",scrollerdelay)
-									setTimeout("move4(second2_obj)",scrollerdelay)
-									return
-								}
-								if (parseInt(tdiv.style.top)>=tdiv.offsetHeight*-1)
-								{	tdiv.style.top=parseInt(tdiv.style.top)-5+"px"
-									setTimeout("move3(tdiv)",50)
-								}
-								else
-								{	tdiv.style.top=parseInt(scrollerheight)
-									tdiv.innerHTML=newsFlash_messages[newsFlash_i]
-									if (newsFlash_i==newsFlash_messages.length-1)
-										newsFlash_i=0
-									else
-										newsFlash_i++
-								}
-							}
-							
-							function move4(whichdiv)
-							{	tdiv2=eval(whichdiv)
-								if (parseInt(tdiv2.style.top)>0&&parseInt(tdiv2.style.top)<=5)
-								{	tdiv2.style.top=0+"px"
-									setTimeout("move4(tdiv2)",scrollerdelay)
-									setTimeout("move3(first2_obj)",scrollerdelay)
-									return
-								}
-								if (parseInt(tdiv2.style.top)>=tdiv2.offsetHeight*-1)
-								{	tdiv2.style.top=parseInt(tdiv2.style.top)-5+"px"
-									setTimeout("move4(second2_obj)",50)
-								}
-								else
-								{	tdiv2.style.top=parseInt(scrollerheight)
-									tdiv2.innerHTML=newsFlash_messages[newsFlash_i]
-									if (newsFlash_i==newsFlash_messages.length-1)
-										newsFlash_i=0
-									else
-										newsFlash_i++
-								}
-							}
-							
-							function startscroll()
-							{	if (news||newsFlash_dom)
-								{	first2_obj=news? first2 : document.getElementById("first2")
-									second2_obj=news? second2 : document.getElementById("second2")
-									move3(first2_obj)
-									second2_obj.style.top=scrollerheight
-									second2_obj.style.visibility='visible'
-								}
-								else if (document.layers)
-								{	document.newsFlash_main.visibility='show'
-									move1(document.newsFlash_main.document.newsFlash_first)
-									document.newsFlash_main.document.newsFlash_second.top=parseInt(scrollerheight)+5
-									document.newsFlash_main.document.newsFlash_second.visibility='show'
-								}
-							}
-						// -->
-						</script>
-					
 
-<title>100% Design - Privacy Pledge</title>
+<title>100% Design 2008 - Privacy Pledge</title>
 <script language="javascript" type="text/javascript">
-rolloverImage_0_off=new Image(); rolloverImage_0_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Home_off.gif'; rolloverImage_0_on=new Image(); rolloverImage_0_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Home_on.gif';
-rolloverImage_1_off=new Image(); rolloverImage_1_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_100_Futures_off.gif'; rolloverImage_1_on=new Image(); rolloverImage_1_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_100_Futures_on.gif';
-rolloverImage_2_off=new Image(); rolloverImage_2_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_show_review_2007_off.gif'; rolloverImage_2_on=new Image(); rolloverImage_2_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_show_review_2007_on.gif';
-rolloverImage_3_off=new Image(); rolloverImage_3_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibitor_List_off.gif'; rolloverImage_3_on=new Image(); rolloverImage_3_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibitor_List_on.gif';
-rolloverImage_4_off=new Image(); rolloverImage_4_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibiting_off.gif'; rolloverImage_4_on=new Image(); rolloverImage_4_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibiting_on.gif';
-rolloverImage_5_off=new Image(); rolloverImage_5_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibitor_Zone_off.gif'; rolloverImage_5_on=new Image(); rolloverImage_5_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibitor_Zone_on.gif';
-rolloverImage_6_off=new Image(); rolloverImage_6_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Visiting_off.gif'; rolloverImage_6_on=new Image(); rolloverImage_6_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Visiting_on.gif';
-rolloverImage_7_off=new Image(); rolloverImage_7_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Press_off.gif'; rolloverImage_7_on=new Image(); rolloverImage_7_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Press_on.gif';
-rolloverImage_8_off=new Image(); rolloverImage_8_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Supporters_off.gif'; rolloverImage_8_on=new Image(); rolloverImage_8_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Supporters_on.gif';
-rolloverImage_9_off=new Image(); rolloverImage_9_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Sponsors_off.gif'; rolloverImage_9_on=new Image(); rolloverImage_9_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Sponsors_on.gif';
-rolloverImage_10_off=new Image(); rolloverImage_10_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Travel_and_Hotels_off.gif'; rolloverImage_10_on=new Image(); rolloverImage_10_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Travel_and_Hotels_on.gif';
-rolloverImage_12_off=new Image(); rolloverImage_12_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Italiano_off.gif'; rolloverImage_12_on=new Image(); rolloverImage_12_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Italiano_on.gif';
-rolloverImage_13_off=new Image(); rolloverImage_13_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_En_espanol_off.gif'; rolloverImage_13_on=new Image(); rolloverImage_13_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_En_espanol_on.gif';
-rolloverImage_14_off=new Image(); rolloverImage_14_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_auf_Deutsch_off.gif'; rolloverImage_14_on=new Image(); rolloverImage_14_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_auf_Deutsch_on.gif';
-rolloverImage_15_off=new Image(); rolloverImage_15_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_En_francais_off.gif'; rolloverImage_15_on=new Image(); rolloverImage_15_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_En_francais_on.gif';
-rolloverImage_16_off=new Image(); rolloverImage_16_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Home_off.gif'; rolloverImage_16_on=new Image(); rolloverImage_16_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Home_on.gif';
-rolloverImage_17_off=new Image(); rolloverImage_17_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_100_Futures_off.gif'; rolloverImage_17_on=new Image(); rolloverImage_17_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_100_Futures_on.gif';
-rolloverImage_18_off=new Image(); rolloverImage_18_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_show_review_2007_off.gif'; rolloverImage_18_on=new Image(); rolloverImage_18_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_show_review_2007_on.gif';
-rolloverImage_19_off=new Image(); rolloverImage_19_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibitor_List_off.gif'; rolloverImage_19_on=new Image(); rolloverImage_19_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibitor_List_on.gif';
-rolloverImage_20_off=new Image(); rolloverImage_20_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibiting_off.gif'; rolloverImage_20_on=new Image(); rolloverImage_20_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibiting_on.gif';
-rolloverImage_21_off=new Image(); rolloverImage_21_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibitor_Zone_off.gif'; rolloverImage_21_on=new Image(); rolloverImage_21_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibitor_Zone_on.gif';
-rolloverImage_22_off=new Image(); rolloverImage_22_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Visiting_off.gif'; rolloverImage_22_on=new Image(); rolloverImage_22_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Visiting_on.gif';
-rolloverImage_23_off=new Image(); rolloverImage_23_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Press_off.gif'; rolloverImage_23_on=new Image(); rolloverImage_23_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Press_on.gif';
-rolloverImage_24_off=new Image(); rolloverImage_24_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Supporters_off.gif'; rolloverImage_24_on=new Image(); rolloverImage_24_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Supporters_on.gif';
-rolloverImage_25_off=new Image(); rolloverImage_25_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Sponsors_off.gif'; rolloverImage_25_on=new Image(); rolloverImage_25_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Sponsors_on.gif';
-rolloverImage_26_off=new Image(); rolloverImage_26_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Travel_and_Hotels_off.gif'; rolloverImage_26_on=new Image(); rolloverImage_26_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Travel_and_Hotels_on.gif';
-rolloverImage_28_off=new Image(); rolloverImage_28_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Italiano_off.gif'; rolloverImage_28_on=new Image(); rolloverImage_28_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_Italiano_on.gif';
-rolloverImage_29_off=new Image(); rolloverImage_29_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_En_espanol_off.gif'; rolloverImage_29_on=new Image(); rolloverImage_29_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_En_espanol_on.gif';
-rolloverImage_30_off=new Image(); rolloverImage_30_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_auf_Deutsch_off.gif'; rolloverImage_30_on=new Image(); rolloverImage_30_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_auf_Deutsch_on.gif';
-rolloverImage_31_off=new Image(); rolloverImage_31_off.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_En_francais_off.gif'; rolloverImage_31_on=new Image(); rolloverImage_31_on.src='http://www.100percentdesign.co.uk/g/2007/template/rollover_En_francais_on.gif';
+rolloverImage_1_off=new Image(); rolloverImage_1_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_home_off.gif'; rolloverImage_1_on=new Image(); rolloverImage_1_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_home_on.gif';
+rolloverImage_2_off=new Image(); rolloverImage_2_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Futures_off.gif'; rolloverImage_2_on=new Image(); rolloverImage_2_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Futures_on.gif';
+rolloverImage_3_off=new Image(); rolloverImage_3_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_100_materials_off.gif'; rolloverImage_3_on=new Image(); rolloverImage_3_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_100_materials_on.gif';
+rolloverImage_4_off=new Image(); rolloverImage_4_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_product_gallery_off.gif'; rolloverImage_4_on=new Image(); rolloverImage_4_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_product_gallery_on.gif';
+rolloverImage_5_off=new Image(); rolloverImage_5_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_exhibit_off.gif'; rolloverImage_5_on=new Image(); rolloverImage_5_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_exhibit_on.gif';
+rolloverImage_6_off=new Image(); rolloverImage_6_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_exhibitor_list_off.gif'; rolloverImage_6_on=new Image(); rolloverImage_6_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_exhibitor_list_on.gif';
+rolloverImage_7_off=new Image(); rolloverImage_7_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Exhibitor_Zone_off.gif'; rolloverImage_7_on=new Image(); rolloverImage_7_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Exhibitor_Zone_on.gif';
+rolloverImage_8_off=new Image(); rolloverImage_8_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Competitions_off.gif'; rolloverImage_8_on=new Image(); rolloverImage_8_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Competitions_on.gif';
+rolloverImage_9_off=new Image(); rolloverImage_9_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_visit_off.gif'; rolloverImage_9_on=new Image(); rolloverImage_9_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_visit_on.gif';
+rolloverImage_10_off=new Image(); rolloverImage_10_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_press_off.gif'; rolloverImage_10_on=new Image(); rolloverImage_10_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_press_on.gif';
+rolloverImage_11_off=new Image(); rolloverImage_11_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Hotels_and_Travel_off.gif'; rolloverImage_11_on=new Image(); rolloverImage_11_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Hotels_and_Travel_on.gif';
+rolloverImage_12_off=new Image(); rolloverImage_12_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_100_design_worldwide_off.gif'; rolloverImage_12_on=new Image(); rolloverImage_12_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_100_design_worldwide_on.gif';
+rolloverImage_13_off=new Image(); rolloverImage_13_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_contact_us_off.gif'; rolloverImage_13_on=new Image(); rolloverImage_13_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_contact_us_on.gif';
+rolloverImage_14_off=new Image(); rolloverImage_14_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_100_Detail_off.gif'; rolloverImage_14_over=new Image(); rolloverImage_14_over.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_100_Detail_over.gif';
+rolloverImage_16_off=new Image(); rolloverImage_16_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_100_Detail_off.gif'; rolloverImage_16_over=new Image(); rolloverImage_16_over.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_100_Detail_over.gif';
+rolloverImage_17_off=new Image(); rolloverImage_17_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_home_off.gif'; rolloverImage_17_on=new Image(); rolloverImage_17_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_home_on.gif';
+rolloverImage_18_off=new Image(); rolloverImage_18_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Futures_off.gif'; rolloverImage_18_on=new Image(); rolloverImage_18_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Futures_on.gif';
+rolloverImage_19_off=new Image(); rolloverImage_19_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_100_materials_off.gif'; rolloverImage_19_on=new Image(); rolloverImage_19_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_100_materials_on.gif';
+rolloverImage_20_off=new Image(); rolloverImage_20_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_product_gallery_off.gif'; rolloverImage_20_on=new Image(); rolloverImage_20_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_product_gallery_on.gif';
+rolloverImage_21_off=new Image(); rolloverImage_21_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_exhibit_off.gif'; rolloverImage_21_on=new Image(); rolloverImage_21_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_exhibit_on.gif';
+rolloverImage_22_off=new Image(); rolloverImage_22_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_exhibitor_list_off.gif'; rolloverImage_22_on=new Image(); rolloverImage_22_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_exhibitor_list_on.gif';
+rolloverImage_23_off=new Image(); rolloverImage_23_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Exhibitor_Zone_off.gif'; rolloverImage_23_on=new Image(); rolloverImage_23_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Exhibitor_Zone_on.gif';
+rolloverImage_24_off=new Image(); rolloverImage_24_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Competitions_off.gif'; rolloverImage_24_on=new Image(); rolloverImage_24_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Competitions_on.gif';
+rolloverImage_25_off=new Image(); rolloverImage_25_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_visit_off.gif'; rolloverImage_25_on=new Image(); rolloverImage_25_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_visit_on.gif';
+rolloverImage_26_off=new Image(); rolloverImage_26_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_press_off.gif'; rolloverImage_26_on=new Image(); rolloverImage_26_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_press_on.gif';
+rolloverImage_27_off=new Image(); rolloverImage_27_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Hotels_and_Travel_off.gif'; rolloverImage_27_on=new Image(); rolloverImage_27_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_Hotels_and_Travel_on.gif';
+rolloverImage_28_off=new Image(); rolloverImage_28_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_100_design_worldwide_off.gif'; rolloverImage_28_on=new Image(); rolloverImage_28_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_100_design_worldwide_on.gif';
+rolloverImage_29_off=new Image(); rolloverImage_29_off.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_contact_us_off.gif'; rolloverImage_29_on=new Image(); rolloverImage_29_on.src='http://www.100percentdesign.co.uk/g/2008/template/rollover_contact_us_on.gif';
 </script></head>
 	
 	
-	<body bgcolor="#ffffff">
+	<body bgcolor="#969696">
 
 	
 	
-	<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+	<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-2268845-1";
-urchinTracker();
+var pageTracker = _gat._getTracker("UA-2268845-1");
+pageTracker._initData();
+pageTracker._trackPageview();
 </script>
 <a name="Head"></a>
 
@@ -611,67 +378,81 @@ urchinTracker();
 	<div align="center">
 <table width="1000" border="0" cellspacing="0" cellpadding="0">  
 	<tbody><tr>    
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/template/site_tl.gif" alt="" width="20" height="20"></td>    
-		<td style="background:url(http://www.100percentdesign.co.uk/g/2007/template/site_t.gif);" width="960"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="20" height="20"></td>    
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/template/site_tr.gif" alt="" width="20" height="20"></td>  
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/template/site_tl.gif" alt="" width="20" height="20"></td>    
+		<td style="background:url(http://www.100percentdesign.co.uk/g/2008/template/site_t.gif);" width="960"><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="20" height="20"></td>    
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/template/site_tr.gif" alt="" width="20" height="20"></td>  
 	</tr>  
 	<tr>    
-		<td style="background:url(http://www.100percentdesign.co.uk/g/2007/template/site_l.gif);"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="20" height="20"></td>    
+		<td style="background:url(http://www.100percentdesign.co.uk/g/2008/template/site_l.gif);"><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="20" height="20"></td>    
 		<td>
 			<table width="960" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">  
 				<tbody><tr>  
 					<td colspan="5">
-<table cellpadding="0" cellspacing="0" border="0" width="960" bgcolor="000000">
-	<tbody><tr>
-		<td bgcolor="000000"><img src="http://www.100percentdesign.co.uk/g/2007/template/design07_banner_logo02.gif" width="479" height="125" border="0" alt="100% Design"></td>
+<table cellpadding="0" cellspacing="0" border="0" bgcolor="000000" width="960"> 
+	<tbody><tr>  
+		<td><a href="http://www.100percentdesign.co.uk/page.cfm/NewSection=Yes/GoSection=0"><img src="http://www.100percentdesign.co.uk/g/2008/template/header_left.gif" alt="100% Design 2008" width="495" height="131" border="0"></a></td>  
+		<td><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cabversion=5,0,0,0" width="465" height="131" id="100percen" align="middle">            <param name="allowScriptAccess" value="sameDomain">            <param name="allowFullScreen" value="false">            <param name="movie" value="http://www.100percentdesign.co.uk/files/100percen2.swf"><param name="quality" value="high"><param name="bgcolor" value="000000">        <embed src="http://www.100percentdesign.co.uk/files/100percen2.swf" quality="high" bgcolor="000000" width="465" height="131" name="100percen" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">            </object></td> 
 	</tr>
 </tbody></table> </td>
 				</tr>
 				<tr>  
-					<td colspan="5"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="20" height="10"></td>
+					<td colspan="5">
+<table cellpadding="0" cellspacing="0" border="0" width="960" style="background:url(http://www.100percentdesign.co.uk/g/2008/template/tab_bg.gif) right repeat-x;">
+	<tbody><tr>
+		<td align="left" width="195"><img src="http://www.100percentdesign.co.uk/g/2008/template/tab_left.gif" alt="" width="5" height="26"></td>
+		<td>
+			<table cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr><td style="padding-right:5px;" align="left"><a class="MainMenuSelected" accesskey="2" href="http://www.100percentdesign.co.uk/page.cfm/Link=1/t=m/goSection=1" target="_self"><img src="http://www.100percentdesign.co.uk/g/2008/template/rollover_100_Design_on.gif" alt="100 Design" width="145" height="26" border="0"></a></td>
+<td style="padding-right:5px;" align="left"><a class="MainMenu" accesskey="3" href="http://www.aspcp.com/ShowOff/RX/DETAIL2008/page.cfm/nocache=true/newSection=Yes" target="_self"><img src="http://www.100percentdesign.co.uk/g/2008/template/rollover_100_Detail_off.gif" name="rolloverImage_16" id="rolloverImage_16" onmouseover="rolloverImage('rolloverImage_16','over');" onmouseout="rolloverImage('rolloverImage_16','off');" alt="100 Detail" width="145" height="26" border="0"></a></td>
+
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table></td>
+				</tr>
+				<tr>  
+					<td colspan="5"><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="20" height="10"></td>
 				</tr>  
 				<tr>    
 					<td width="185" valign="top">
-<table width="185" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td height="26" class="MainMenu" colspan="2"><a class="MainMenu" accesskey="2" href="http://www.100percentdesign.co.uk/page.cfm/Link=1/t=m/goSection=1" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_Home_off.gif" name="rolloverImage_0" id="rolloverImage_0" onmouseover="rolloverImage('rolloverImage_0','on');" onmouseout="rolloverImage('rolloverImage_0','off');" height="26" alt="Home" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenu" accesskey="3" href="http://www.100percentdesign.co.uk/page.cfm/Link=208/t=m/goSection=65" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_100_Futures_off.gif" name="rolloverImage_1" id="rolloverImage_1" onmouseover="rolloverImage('rolloverImage_1','on');" onmouseout="rolloverImage('rolloverImage_1','off');" height="26" alt="100% Futures" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenu" accesskey="4" href="http://www.100percentdesign.co.uk/page.cfm/Link=222/t=m/goSection=74" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_show_review_2007_off.gif" name="rolloverImage_2" id="rolloverImage_2" onmouseover="rolloverImage('rolloverImage_2','on');" onmouseout="rolloverImage('rolloverImage_2','off');" height="26" alt="show review 2007" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenu" accesskey="5" href="http://www.100percentdesign.co.uk/page.cfm/Action=ExhibList/t=m/goSection=48" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibitor_List_off.gif" name="rolloverImage_3" id="rolloverImage_3" onmouseover="rolloverImage('rolloverImage_3','on');" onmouseout="rolloverImage('rolloverImage_3','off');" height="26" alt="Exhibitor List" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenu" accesskey="6" href="http://www.100percentdesign.co.uk/page.cfm/Link=8/t=m/goSection=3" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibiting_off.gif" name="rolloverImage_4" id="rolloverImage_4" onmouseover="rolloverImage('rolloverImage_4','on');" onmouseout="rolloverImage('rolloverImage_4','off');" height="26" alt="Exhibiting" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenu" accesskey="7" href="http://www.100percentdesign.co.uk/page.cfm/Action=EZone/t=m/goSection=64" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_Exhibitor_Zone_off.gif" name="rolloverImage_5" id="rolloverImage_5" onmouseover="rolloverImage('rolloverImage_5','on');" onmouseout="rolloverImage('rolloverImage_5','off');" height="26" alt="Exhibitor Zone" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenu" accesskey="8" href="http://www.100percentdesign.co.uk/page.cfm/Link=13/t=m/goSection=5" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_Visiting_off.gif" name="rolloverImage_6" id="rolloverImage_6" onmouseover="rolloverImage('rolloverImage_6','on');" onmouseout="rolloverImage('rolloverImage_6','off');" height="26" alt="Visiting" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenu" accesskey="9" href="http://www.100percentdesign.co.uk/page.cfm/Link=12/t=m/goSection=4" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_Press_off.gif" name="rolloverImage_7" id="rolloverImage_7" onmouseover="rolloverImage('rolloverImage_7','on');" onmouseout="rolloverImage('rolloverImage_7','off');" height="26" alt="Press" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=146/t=m/goSection=72" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_Supporters_off.gif" name="rolloverImage_8" id="rolloverImage_8" onmouseover="rolloverImage('rolloverImage_8','on');" onmouseout="rolloverImage('rolloverImage_8','off');" height="26" alt="Supporter's" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=196/t=m/goSection=73" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_Sponsors_off.gif" name="rolloverImage_9" id="rolloverImage_9" onmouseover="rolloverImage('rolloverImage_9','on');" onmouseout="rolloverImage('rolloverImage_9','off');" height="26" alt="Sponsors" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=10/t=m/goSection=67" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_Travel_and_Hotels_off.gif" name="rolloverImage_10" id="rolloverImage_10" onmouseover="rolloverImage('rolloverImage_10','on');" onmouseout="rolloverImage('rolloverImage_10','off');" height="26" alt="Travel and Hotels" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenuSelected" href="http://www.100percentdesign.co.uk/page.cfm/Action=Team/t=m/goSection=35" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_Contact_Us_on.gif" height="26" alt="Contact Us" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=138/t=m/goSection=58" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_Italiano_off.gif" name="rolloverImage_12" id="rolloverImage_12" onmouseover="rolloverImage('rolloverImage_12','on');" onmouseout="rolloverImage('rolloverImage_12','off');" height="26" alt="Italiano" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=139/t=m/goSection=57" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_En_espanol_off.gif" name="rolloverImage_13" id="rolloverImage_13" onmouseover="rolloverImage('rolloverImage_13','on');" onmouseout="rolloverImage('rolloverImage_13','off');" height="26" alt="En espanol" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=137/t=m/goSection=56" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_auf_Deutsch_off.gif" name="rolloverImage_14" id="rolloverImage_14" onmouseover="rolloverImage('rolloverImage_14','on');" onmouseout="rolloverImage('rolloverImage_14','off');" height="26" alt="auf Deutsch" width="185"></a></td></tr><tr><td height="26" class="MainMenu" colspan="2"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10" border="0" alt=""><br>
-<a class="MainMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=136/t=m/goSection=55" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2007/template/rollover_En_francais_off.gif" name="rolloverImage_15" id="rolloverImage_15" onmouseover="rolloverImage('rolloverImage_15','on');" onmouseout="rolloverImage('rolloverImage_15','off');" height="26" alt="En francais" width="185"></a></td></tr>
-</tbody></table><img alt="" src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" width="1" height="10"><br><!-- ** start of  panel (panel 1 on Left) -->
+<table width="185" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td height="26" class="MainMenu" colspan="2">
+<a class="subMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=1/t=m/goSection=1" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2008/template/rollover_home_off.gif" name="rolloverImage_17" id="rolloverImage_17" onmouseover="rolloverImage('rolloverImage_17','on');" onmouseout="rolloverImage('rolloverImage_17','off');" height="26" alt="home" width="185"></a></td></tr>
+<tr><td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""></td></tr><tr><td height="26" class="MainMenu" colspan="2">
+<a class="subMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=251/t=m/goSection=1" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2008/template/rollover_Futures_off.gif" name="rolloverImage_18" id="rolloverImage_18" onmouseover="rolloverImage('rolloverImage_18','on');" onmouseout="rolloverImage('rolloverImage_18','off');" height="26" alt="Futures" width="185"></a></td></tr>
+<tr><td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""></td></tr><tr><td height="26" class="MainMenu" colspan="2">
+<a class="subMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=290/t=m/goSection=1" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2008/template/rollover_100_materials_off.gif" name="rolloverImage_19" id="rolloverImage_19" onmouseover="rolloverImage('rolloverImage_19','on');" onmouseout="rolloverImage('rolloverImage_19','off');" height="26" alt="100% materials" width="185"></a></td></tr>
+<tr><td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""></td></tr><tr><td height="26" class="MainMenu" colspan="2">
+<a class="subMenu" href="http://www.100percentdesign.co.uk/page.cfm/Action=ExhibitorLibrary/libraryID=1/t=m" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2008/template/rollover_product_gallery_off.gif" name="rolloverImage_20" id="rolloverImage_20" onmouseover="rolloverImage('rolloverImage_20','on');" onmouseout="rolloverImage('rolloverImage_20','off');" height="26" alt="product gallery" width="185"></a></td></tr>
+<tr><td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""></td></tr><tr><td height="26" class="MainMenu" colspan="2">
+<a class="subMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=5/t=m/goSection=1" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2008/template/rollover_exhibit_off.gif" name="rolloverImage_21" id="rolloverImage_21" onmouseover="rolloverImage('rolloverImage_21','on');" onmouseout="rolloverImage('rolloverImage_21','off');" height="26" alt="exhibit" width="185"></a></td></tr>
+<tr><td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""></td></tr><tr><td height="26" class="MainMenu" colspan="2">
+<a class="subMenu" href="http://www.100percentdesign.co.uk/page.cfm/Action=ExhibList/t=m/goSection=1" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2008/template/rollover_exhibitor_list_off.gif" name="rolloverImage_22" id="rolloverImage_22" onmouseover="rolloverImage('rolloverImage_22','on');" onmouseout="rolloverImage('rolloverImage_22','off');" height="26" alt="exhibitor list" width="185"></a></td></tr>
+<tr><td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""></td></tr><tr><td height="26" class="MainMenu" colspan="2">
+<a class="subMenu" href="http://www.100percentdesign.co.uk/page.cfm/Action=EZone/t=m/goSection=1" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2008/template/rollover_Exhibitor_Zone_off.gif" name="rolloverImage_23" id="rolloverImage_23" onmouseover="rolloverImage('rolloverImage_23','on');" onmouseout="rolloverImage('rolloverImage_23','off');" height="26" alt="Exhibitor Zone" width="185"></a></td></tr>
+<tr><td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""></td></tr><tr><td height="26" class="MainMenu" colspan="2">
+<a class="subMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=254/t=m/goSection=1" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2008/template/rollover_Competitions_off.gif" name="rolloverImage_24" id="rolloverImage_24" onmouseover="rolloverImage('rolloverImage_24','on');" onmouseout="rolloverImage('rolloverImage_24','off');" height="26" alt="Competitions" width="185"></a></td></tr>
+<tr><td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""></td></tr><tr><td height="26" class="MainMenu" colspan="2">
+<a class="subMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=250/t=m/goSection=1" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2008/template/rollover_visit_off.gif" name="rolloverImage_25" id="rolloverImage_25" onmouseover="rolloverImage('rolloverImage_25','on');" onmouseout="rolloverImage('rolloverImage_25','off');" height="26" alt="visit" width="185"></a></td></tr>
+<tr><td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""></td></tr><tr><td height="26" class="MainMenu" colspan="2">
+<a class="subMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=12/t=m/goSection=1" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2008/template/rollover_press_off.gif" name="rolloverImage_26" id="rolloverImage_26" onmouseover="rolloverImage('rolloverImage_26','on');" onmouseout="rolloverImage('rolloverImage_26','off');" height="26" alt="press" width="185"></a></td></tr>
+<tr><td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""></td></tr><tr><td height="26" class="MainMenu" colspan="2">
+<a class="subMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=260/t=m/goSection=1" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2008/template/rollover_Hotels_and_Travel_off.gif" name="rolloverImage_27" id="rolloverImage_27" onmouseover="rolloverImage('rolloverImage_27','on');" onmouseout="rolloverImage('rolloverImage_27','off');" height="26" alt="Hotels and Travel" width="185"></a></td></tr>
+<tr><td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""></td></tr><tr><td height="26" class="MainMenu" colspan="2">
+<a class="subMenu" href="http://www.100percentdesign.co.uk/page.cfm/Link=289/t=m/goSection=1" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2008/template/rollover_100_design_worldwide_off.gif" name="rolloverImage_28" id="rolloverImage_28" onmouseover="rolloverImage('rolloverImage_28','on');" onmouseout="rolloverImage('rolloverImage_28','off');" height="26" alt="100% design worldwide" width="185"></a></td></tr>
+<tr><td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""></td></tr><tr><td height="26" class="MainMenu" colspan="2">
+<a class="subMenu" href="http://www.100percentdesign.co.uk/page.cfm/Action=Team/t=m/goSection=1" target="_self"><img border="0" src="http://www.100percentdesign.co.uk/g/2008/template/rollover_contact_us_off.gif" name="rolloverImage_29" id="rolloverImage_29" onmouseover="rolloverImage('rolloverImage_29','on');" onmouseout="rolloverImage('rolloverImage_29','off');" height="26" alt="contact us" width="185"></a></td></tr>
+<tr><td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" width="1" height="10" border="0" alt=""></td></tr>
+</tbody></table><!-- ** start of organised by panel (panel 3069) -->
 <table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
-		<td bgcolor="#4c4c4c"><img scr="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="1"></td>
+		<td bgcolor="3c3c3c"><img scr="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="1"></td>
 	</tr>
 	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="9"></td>
+		<td height="22" class="paneltitle"><font face="" size="2" class="PanelTitle">organised by</font></td>
 	</tr>
 	<tr>
-		<td class="panel"><form action="http://www.100percentdesign.co.uk/page.cfm" method="post" name="search_2212" class="nomargin"><input type="hidden" name="Action" value="Search"><span class="nowrap"><input name="SearchCriteria" type="text" style="width:96; height:20; vertical-align:middle;"><a onclick="javascript:document.search_2212.submit();" style="cursor:hand;" class="Panel"><font face="Arial" size="2" class="Panel"><span style="cursor:hand;">&nbsp;search</span></font></a></span></form></td>
-	</tr>
-	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="20"></td>
-	</tr>
-</tbody></table> <!-- Spacer Break --><!-- ** end of  panel (panel 1 on Left) --><!-- ** start of organised by panel (panel 2 on Left) -->
-<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td bgcolor="#4c4c4c"><img scr="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="1"></td>
-	</tr>
-	<tr>
-		<td height="22" class="paneltitle"><font face="Arial" size="2" class="PanelTitle">organised by</font></td>
-	</tr>
-	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="9"></td>
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="9"></td>
 	</tr>
 	<tr>
 		<td class="panel"><!-- <UDF_formattedPage/> --><table cellspacing="0" cellpadding="5" width="100%" bgcolor="ffffff" border="0">
@@ -681,64 +462,77 @@ urchinTracker();
 </tbody></table></td>
 	</tr>
 	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="20"></td>
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="20"></td>
 	</tr>
-</tbody></table> <!-- Spacer Break --><!-- ** end of organised by panel (panel 2 on Left) --><!-- ** start of  panel (panel 3 on Left) -->
-<table cellpadding="0" cellspacing="0" border="0">
+</tbody></table> <!-- Spacer Break --><!-- ** end of organised by panel (panel 3069) --></td>    
+					<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="10" height="20"></td>          
+					<td valign="top" width="570">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
 	<tbody><tr>
-		<td bgcolor="#4c4c4c"><img scr="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="1"></td>
+		<td bgcolor="#3c3c3c"><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="100%" height="1"></td>
 	</tr>
 	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="9"></td>
+		<td height="20" class="pagetitle">Privacy Pledge</td>
 	</tr>
 	<tr>
-		<td class="panel"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"></font></td>
+		<td bgcolor="#3c3c3c"><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="100%" height="1"></td>
 	</tr>
-	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="20"></td>
-	</tr>
-</tbody></table> <!-- Spacer Break --><!-- ** end of  panel (panel 3 on Left) --></td>    
-					<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="10" height="20"></td>          
-					<td valign="top" width="570"><!-- *** Start of Print Friendly Page *** --> 
+</tbody></table>
+	<!-- *** Start of Print Friendly Page *** -->
 	
-	<a href="http://www.100percentdesign.co.uk/page.cfm/action=search/t=m" accesskey="s"></a> <a href="http://www.100percentdesign.co.uk/page.cfm/action=sitemap/t=m" accesskey="a"></a> <a href="http://www.100percentdesign.co.uk/page.cfm/action=textonlyswitch/t=m" accesskey="t"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="1"></a> <a href="http://www.100percentdesign.co.uk/page.cfm/action=accesskeys/t=m" accesskey="0"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="2"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="3"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="4"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="5"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="6"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="7"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="8"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="9"></a> 
-
-
-	
-
-	
-
-
-
+		
+		<a href="http://www.100percentdesign.co.uk/page.cfm/action=search/t=m" accesskey="s"></a> <a href="http://www.100percentdesign.co.uk/page.cfm/action=sitemap/t=m" accesskey="a"></a> <a href="http://www.100percentdesign.co.uk/page.cfm/action=textonlyswitch/t=m" accesskey="t"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="1"></a> <a href="http://www.100percentdesign.co.uk/page.cfm/action=accesskeys/t=m" accesskey="0"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="2"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="3"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="4"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="5"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="6"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="7"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="8"></a> <a href="http://www.100percentdesign.co.uk/" accesskey="9"></a> 
 
 	
 	
 	
 	
+		
 	
 	
 	
+	
+	
+	
+		
+
+
+
+	
+	
+	
+	
+	
+	
+	
+		
+		
+		
+		
+		
+		
 		
 			
-		
-	
-	
-	
-	
-	
-		
-		
-		
-	
+				
 			
-				
-					
-				
+		
+		
+		
+		
+		
+			
+			
+			
+		
 				
 					
 						
+					
+					
+						
 							
-							
+								
+								
 	
 	
 
@@ -763,9 +557,13 @@ urchinTracker();
 	
 	
 
+
+		
+		
+		
+							
 						
-					
-						
+							
 <!-- ** start of all sheets --> 
 	
 		
@@ -774,16 +572,13 @@ urchinTracker();
 
 
 	
-<!-- ** start of outer sheet HTML --><!-- ** start of sheet 1 (Full) --><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="default"><a class="default" name="Article_45"></a><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td>
+<!-- ** start of outer sheet HTML --><!-- ** start of sheet 1 (Full) --><!-- <UDF_formattedPage/> --><a name="Article_45"></a><table cellspacing="0" cellpadding="0" border="0" class="Align" width="100%"><tbody><tr><td>
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 	<tbody><tr>
-		<td bgcolor="#4c4c4c"><img scr="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="100%" height="1"></td>
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="9"></td>
 	</tr>
 	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="9"></td>
-	</tr>
-	<tr>
-		<td class="panel"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="default"><b>How Your Information Is Used</b><br><br>Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions Limited (RX). Our corporate offices are located at Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom. You can also reach us by telephone on +44 (0) 208 910 7910.<br><br>Our privacy policy is laid out below but if we have contacted you and you no longer wish to receive information from us then first of all we apologise for the inconvenience. To be removed from our database please <a class="default" href="http://www.100percentdesign.co.uk/page.cfm/Action=RXDPAOptOut/ShowForm=Yes/t=m">click here</a> to complete a form that will allow us to amend your record.<br><br><b>Customer Definition</b><br><br>RX defines its customers as follows 
+		<td class="default"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="default"><strong>How Your Information Is Used<br><br></strong>Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions Limited (RX). Our corporate offices are located at Oriel House, 26 The Quadrant, Richmond, Surrey TW9 1DL, United Kingdom. You can also reach us by telephone on +44 (0) 208 910 7910.<br><br>Our privacy policy is laid out below but if we have contacted you and you no longer wish to receive information from us then first of all we apologise for the inconvenience. <br><br><b>Customer Definition</b><br><br>RX defines its customers as follows 
 <ul>
 <li>Trade Show visitors 
 </li><li>Trade Show exhibitors 
@@ -796,10 +591,10 @@ urchinTracker();
 <ul>
 <li>By Sender: RX or third party 
 </li><li>By Show: i.e. World Travel Market 
-</li><li>By Medium: Mail, Phone, Fax, Email (or All) </li></ul><b>Any queries/questions/opt out</b><br><br>If you have any questions or concerns about your customer information or your request to opt-out of communications from RX or its third party partners, please contact our Corporate Headquarters via e-mail <a class="default" href="mailto:rxinfo@reedexpo.co.uk">rxinfo@reedexpo.co.uk</a>, telephone +44 (0) 20 8271 2120, or FAX +44 (0) 20 8910 7823 or by post to Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom<br><br><b>Security</b><br><br>This site utilises a secure server to protect your financial and professional information. Secure server software is used to encrypt the information sent between your Internet browser and our Internet site. This ensures the security of your professional and financial transaction details when using this site. We follow strict security procedures in the storage and disclosure of information you have given to us and may, on occasion, request proof of identity before we disclose any professional information to you.<br><br><b>Cookies</b><br><br>Where a site is password protected it will use Cookies. Cookies are nothing more than a simple text file. They are not executable programs, and consequently it is impossible for a cookie to contain a virus, or any other application. Cookies are also very small, and you run no risk of filling your hard drive with too many cookies.<br><br>The RX cookie that is placed on your computer as a result of you registering on one of our sites contains only your unique reference number that is allocated by the registration process. This consists of a 4-digit number. There is no information in the Cookie that can identify you. The Cookie is only valid when you access the relevant RX site.<br><br><b>E-mail addresses</b><br><br>This site recognises the home servers of visitors, but not their e-mail addresses. Individually identifiable e-mail addresses are not captured or stored unless they are provided. Persons who communicate with RX, and supply us with an e-mail address, [are consenting to/may receive] future communications by e-mail. Persons who do not wish to receive e-mail messages may contact RX and ask to be removed; to do so, send an e-mail to <a class="default" href="mailto:rxinfo@reedexpo.co.uk">rxinfo@reedexpo.co.uk</a> and specify your name, company name and e-mail address. As such, RX supports the customer's right to "opt-out". Persons who request information about RX, and who supply us with their name and address and/or email and/or telephone details will be added to our database to receive the requested information.<br><br><b>Disclaimer</b><br><br>No part of this website may be reproduced or transmitted by any means, electronic, mechanical, (including photocopying), recording or by any information storage and retrieval system, without prior permission from RX, the copyright owners. RX Exhibitions' website is published by Reed Exhibitions Limited.<br><br>This site contains links to external sites. Reed Exhibitions Limited is not responsible for, and has no control over, the content of such sites. Information on this site, or available via hypertext link from this site, is made available without responsibility on the part of Reed Exhibitions Limited.<br><br>Reed Exhibitions Limited disclaims all responsibility and liability (including negligence) in relation to information on or accessible from this site.</font></td>
+</li><li>By Medium: Mail, Phone, Fax, Email (or All) </li></ul><b>Any queries/questions/opt out</b><br><br>If you have any questions or concerns about your customer information or your request to opt-out of communications from RX or its third party partners, please contact our Corporate Headquarters via e-mail <a class="default" href="mailto:unsubscribe@reedexpo.co.uk">unsubscribe@reedexpo.co.uk</a>, by telephone Tel&nbsp; +44 (0) 20 8271 2134 or by post to Information Management, Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom and specify your name, company name and e-mail address.<br><br><b>Security</b><br><br>This site utilises a secure server to protect your financial and professional information. Secure server software is used to encrypt the information sent between your Internet browser and our Internet site. This ensures the security of your professional and financial transaction details when using this site. We follow strict security procedures in the storage and disclosure of information you have given to us and may, on occasion, request proof of identity before we disclose any professional information to you.<br><br><b>Cookies</b><br><br>Where a site is password protected it will use Cookies. Cookies are nothing more than a simple text file. They are not executable programs, and consequently it is impossible for a cookie to contain a virus, or any other application. Cookies are also very small, and you run no risk of filling your hard drive with too many cookies.<br><br>The RX cookie that is placed on your computer as a result of you registering on one of our sites contains only your unique reference number that is allocated by the registration process. This consists of a 4-digit number. There is no information in the Cookie that can identify you. The Cookie is only valid when you access the relevant RX site.<br><br><b>E-mail addresses</b><br><br>This site recognises the home servers of visitors, but not their e-mail addresses. Individually identifiable e-mail addresses are not captured or stored unless they are provided. Persons who communicate with RX, and supply us with an e-mail address, [are consenting to/may receive] future communications by e-mail. Persons who do not wish to receive e-mail messages may contact RX and ask to be removed; to do so, send an e-mail to <a class="default" title="mailto:unsubscribe@reedexpo.co.uk" href="mailto:unsubscribe@reedexpo.co.uk">unsubscribe@reedexpo.co.uk</a> and specify your name, company name and e-mail address. As such, RX supports the customer's right to "opt-out". Persons who request information about RX, and who supply us with their name and address and/or email and/or telephone details will be added to our database to receive the requested information.<br><br><b>Disclaimer</b><br><br>No part of this website may be reproduced or transmitted by any means, electronic, mechanical, (including photocopying), recording or by any information storage and retrieval system, without prior permission from RX, the copyright owners. RX Exhibitions' website is published by Reed Exhibitions Limited.<br><br>This site contains links to external sites. Reed Exhibitions Limited is not responsible for, and has no control over, the content of such sites. Information on this site, or available via hypertext link from this site, is made available without responsibility on the part of Reed Exhibitions Limited.<br><br>Reed Exhibitions Limited disclaims all responsibility and liability (including negligence) in relation to information on or accessible from this site.</font></td>
 	</tr>
 	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="20"></td>
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="20"></td>
 	</tr>
 </tbody></table></td></tr></tbody></table><!-- ** end of sheet 1 (Full) --><!-- ** end of outer sheet HTML -->
 
@@ -810,236 +605,135 @@ urchinTracker();
 
 
 
-						
-						
-						
-						
+							
+							
+							
+							
+							
 						
 					
+					
+					
 				
-				
-				
+			
 			
 		
 		
 	
 	
-<!-- *** End of Print Friendly Page *** --> 
-	<form action="http://www.100percentdesign.co.uk/page.cfm" method="post" name="EmailPageForm">
-		<input type="hidden" name="Action" value="EmailThisPage">
-		<input type="hidden" name="LinkData" value="Link~613~47t~61m">
-	</form>
-
 	
 		
-		
-		
+	
+	
+	<!-- *** End of Print Friendly Page *** -->
+	
+	
+	
+	
 	
 
-	<script language="JavaScript" type="text/javascript">
-	<!--
-		if (screen.width != 0 || screen.height != 0)
-		{	document.write('<div style="display:none;"><img src="http://www.100percentdesign.co.uk/page.cfm/action=ScreenRes/SWidth=' + screen.width + '/SHeight=' + screen.height + '/PersonID=-1/t=b" width="0" height="0" border="0" alt=""><\/div>');
-		}
-	//-->
-	</script><div style="display:none;"><img src="http://www.100percentdesign.co.uk/page.cfm/action=ScreenRes/SWidth=800/SHeight=600/PersonID=-1/t=b" width="0" height="0" border="0" alt=""></div>
-
-
-</font></td>    
-					<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="10" height="20"></td>    
-					<td width="185" valign="top"><!-- ** start of  panel (panel 1 on Right) -->
-<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td bgcolor="#4c4c4c"><img scr="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="1"></td>
-	</tr>
-	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="9"></td>
-	</tr>
-	<tr>
-		<td class="panel"><font face="Arial" size="2" class="Panel"><script language="javascript" type="text/javascript">
-	<!--
-	var divArray_0=new Array();
-	var objArray_0=new Array();
-	var obj={imgName:'banner_detail07_68h.jpg',imgWidth:'150',imgHeight:'46',imgAlt:'100% Detail',imgLink:'http://www.100percentdetail.co.uk',imgTarget:'_blank'};
-	objArray_0[0]=obj;
-	var obj={imgName:'banner_futures07_68h.jpg',imgWidth:'150',imgHeight:'46',imgAlt:'100% Futures',imgLink:'http://www.100percentdesign.co.uk/page.cfm?HyperLink=http://www.100percentdesign.co.uk/page.cfm/Link=167/nocache=true/newSection=Yes',imgTarget:'_blank'};
-	objArray_0[1]=obj;
-	var obj={imgName:'banner_light07_68h.jpg',imgWidth:'150',imgHeight:'46',imgAlt:'100% Light',imgLink:'http://www.100percentlight.co.uk',imgTarget:'_blank'};
-	objArray_0[2]=obj;
-	var obj={imgName:'banner_materials07_68h.jpg',imgWidth:'150',imgHeight:'46',imgAlt:'100% Materials',imgLink:'http://www.100percentdetail.co.uk',imgTarget:'_blank'};
-	objArray_0[3]=obj;
-	for (ii=0; ii < objArray_0.length; ii++)
-	{	eval('var img'+ii+'=new Image(); img'+ii+'.src=\"http://www.100percentdesign.co.uk/g/2007/panels/'+objArray_0[ii].imgName+'\";');
-	var imgTag='<img src=\"'+eval('img'+ii+'.src')+'\" border=0 width='+objArray_0[ii].imgWidth+' height='+objArray_0[ii].imgHeight+' alt=\"'+objArray_0[ii].imgAlt+'\">';
-	if (objArray_0[ii].imgLink != '')
-	{	imgTag='<a href=\"'+objArray_0[ii].imgLink+'\" target=\"'+objArray_0[ii].imgTarget+'\">'+imgTag+'<\/a>';
-	}
-	divArray_0[ii]='<div align=\"center\" name=\"ImgRotatorDIV_0_'+ii+'\" ID=\"ImgRotatorDIV_0_'+ii+'\" style=\"display:none;\">'+imgTag+'<\/div>';
-	}
-	if(nav=='ie4')
-	{	var countRotator_0=3;
-	setInterval('updateRotator(0);',4000);
-	}
-	else if(nav=='ns6')
-	{	var countRotator_0=3;
-	setInterval('updateRotator(0);',4000);
-	}
 	
-	//-->
-	</script><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td height="46" align="center" id="ImgRotator_0"><a href="page.cfm?LinkType=LogoRotator&amp;LinkTarget=http://www.100percentlight.co.uk" target="_blank" id="ImgRotatorHref_0"><img src="http://www.100percentdesign.co.uk/g/2007/panels/banner_light07_68h.jpg" width="150" height="46" alt="100% Light" border="0" id="ImgRotatorImg_0"></a></td></tr></tbody></table></font></td>
-	</tr>
-	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="20"></td>
-	</tr>
-</tbody></table> <!-- Spacer Break --><!-- ** end of  panel (panel 1 on Right) --><!-- ** start of WHAT'S NEW panel (panel 2 on Right) -->
-<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td bgcolor="#4c4c4c"><img scr="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="1"></td>
-	</tr>
-	<tr>
-		<td height="22" class="paneltitle"><font face="Arial" size="2" class="PanelTitle">WHAT'S NEW</font></td>
-	</tr>
-	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="9"></td>
-	</tr>
-	<tr>
-		<td class="panel"><font face="Arial" size="2" class="Panel">
-						<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td>
-						<ilayer id="newsFlash_main">
-							<layer id="newsFlash_first">
-								<script language="JavaScript1.2" type="text/javascript">
-									if (document.layers)
-										document.write(newsFlash_messages[0])
-								</script>
-							</layer>
-							<layer id="newsFlash_second">
-								<script language="JavaScript1.2" type="text/javascript">
-									if (document.layers)
-										document.write(newsFlash_messages[dyndetermine=(newsFlash_messages.length==1)? 0 : 1])
-								</script>
-							</layer>
-						</ilayer>
-						
-						
-						<script language="JavaScript1.2" type="text/javascript">
-							//Newsflash, copyright 2007 ASP Multimedia Ltd.  SHOWOFF is a product owned by ASP Multimedia Ltd
-							if (news||newsFlash_dom)
-							{	document.writeln('<div id="main2" style="position:relative;width:'+scrollerwidth+';height:'+scrollerheight+';overflow:hidden;">')
-								document.writeln('<div style="position:absolute;width:'+scrollerwidth+';height:'+scrollerheight+';clip:rect(0 '+scrollerwidth+' '+scrollerheight+' 0);left:0px;top:0px">')
-								document.writeln('<div id="first2" style="position:absolute;width:'+scrollerwidth+';left:0px;top:1px;">')
-								document.write(newsFlash_messages[0])
-								document.writeln('<\/div>')
-								document.writeln('<div id="second2" style="position:absolute;width:'+scrollerwidth+';left:0px;top:0px;visibility:hidden">')
-								document.write(newsFlash_messages[dyndetermine=(newsFlash_messages.length==1)? 0 : 1])
-								document.writeln('<\/div>')
-								document.writeln('<\/div>')
-								document.writeln('<\/div>')
-							
-								startscroll();
-							
-							}
-						</script><div id="main2" style="position:relative;width:140;height:60px;overflow:hidden;">
-<div style="position:absolute;width:140;height:60px;clip:rect(0 140 60px 0);left:0px;top:0px">
-<div id="first2" style="position: absolute; width: 140px; left: 0px; top: 0px;">
-<font face="Arial" size="2" class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=39/t=m/goSection=35">May Fair Hotel: 5 Star Sound for a 5 Star Hotel<br></a></font></div>
-<div id="second2" style="position: absolute; width: 140px; left: 0px; top: 60px; visibility: visible;">
-<font face="Arial" size="2" class="Panel"><a href="http://www.100percentdesign.co.uk/page.cfm/Action=Press/PressID=3/t=m/goSection=35">100% Futures - the next generation<br><br></a></font></div>
-</div>
-</div>
+	
+	
+		<form action="http://www.100percentdesign.co.uk/page.cfm" method="post" name="EmailPageForm">
+			<input type="hidden" name="Action" value="EmailThisPage">
+			<input type="hidden" name="LinkData" value="Link~613~47t~61m">
+		</form>
+	
+	
+	
+		
+			
+			
+			
+		
+	
+	
+	
+	
+	
+	
+	
+	
 
-						
-						</td></tr></tbody></table>
-					</font></td>
-	</tr>
-	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="20"></td>
-	</tr>
-</tbody></table> <!-- Spacer Break --><!-- ** end of WHAT'S NEW panel (panel 2 on Right) --><!-- ** start of 100% Design, Londonewcastle, idFX Magazine, & the BIDA are launching a competition to find Britain’s Best Emerging Interior Designer panel (panel 3 on Right) -->
+
+				</td>    
+					<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="10" height="20"></td>    
+					<td width="185" valign="top"><!-- ** start of  panel (panel 3193) -->
 <table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
-		<td bgcolor="#4c4c4c"><img scr="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="1"></td>
+		<td bgcolor="3c3c3c"><img scr="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="1"></td>
 	</tr>
 	<tr>
-		<td height="22" class="paneltitle"><font face="Arial" size="2" class="PanelTitle">100% Design, Londonewcastle, idFX Magazine, &amp; the BIDA are launching a competition to find Britain’s Best Emerging Interior Designer</font></td>
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="9"></td>
 	</tr>
 	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="9"></td>
+		<td class="panel"><form action="http://www.100percentdesign.co.uk/page.cfm" method="post" name="search_3193" class="nomargin"><input type="hidden" name="Action" value="Search"><span class="nowrap"><input name="SearchCriteria" type="text" style="width:100; height:20; vertical-align:middle;"><a onclick="javascript:document.search_3193.submit();" style="cursor:hand;" class="Panel"><font face="Arial" size="2" class="Panel"><span style="cursor:hand;">&nbsp;Search</span></font></a></span></form></td>
 	</tr>
 	<tr>
-		<td class="panel"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><a class="Panel" href="http://www.100percentdesign.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.100percentdesign.co.uk/page.cfm/link=193"></a>&nbsp;&nbsp;<img style="width: 136px; height: 235px" height="248" alt="Londonewcastle" src="http://www.100percentdesign.co.uk/g/2007/panels/photo_chair_with_logos.jpg" width="150" border="0"><br>&nbsp;<br><span style="color: black; afont-size: 11pt; afont-family: verdana">To find out details visit <a class="Panel" title="blocked::http://www.londonewcastle.co.uk/competition" target="_blank" href="http://www.100percentdesign.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.londonewcastle.co.uk/competition">www.londonewcastle.co.uk/competition</a> </span></font></td>
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="20"></td>
 	</tr>
-	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="20"></td>
-	</tr>
-</tbody></table> <!-- Spacer Break --><!-- ** end of 100% Design, Londonewcastle, idFX Magazine, & the BIDA are launching a competition to find Britain’s Best Emerging Interior Designer panel (panel 3 on Right) --><!-- ** start of QUICK LINKS panel (panel 4 on Right) -->
+</tbody></table> <!-- Spacer Break --><!-- ** end of  panel (panel 3193) --><!-- ** start of Products Used in Banner panel (panel 3870) -->
 <table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
-		<td bgcolor="#4c4c4c"><img scr="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="1"></td>
+		<td bgcolor="3c3c3c"><img scr="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="1"></td>
 	</tr>
 	<tr>
-		<td height="22" class="paneltitle"><font face="Arial" size="2" class="PanelTitle">QUICK LINKS</font></td>
+		<td height="22" class="paneltitle"><font face="" size="2" class="PanelTitle">Products Used in Banner</font></td>
 	</tr>
 	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="9"></td>
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="9"></td>
 	</tr>
 	<tr>
-		<td class="panel"><font face="Arial" size="2" class="Panel">
-<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.100percentdesign.co.uk/page.cfm/Link=222/t=m" target="_self">Show Review 2007</a></font></td></tr><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.100percentdesign.co.uk/page.cfm/Link=229/t=m" target="_self">Testimonials</a></font></td></tr><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.100percentdesign.co.uk/page.cfm/Action=ExhibList/t=m" target="_self">Exhibitor list</a></font></td></tr><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.100percentdesign.co.uk/page.cfm/Link=8/t=m" target="_self">Apply to exhibit</a></font></td></tr><tr><td bgcolor="#FFFFFF" class="Quicklink"><font face="Arial" size="2" class="Quicklink"><a class="QuickLink" aclass="QuickLink" href="http://www.100percentdesign.co.uk/page.cfm/Action=Form/FormID=3/t=m" target="_self">Interested in visiting?</a></font></td></tr>
-</tbody></table></font></td>
+		<td class="panel"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><strong><a class="Panel" href="http://www.100percentdesign.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.100percentdesign.co.uk/page.cfm/link=288">Click here</a></strong> to view the products used in the 100% Design web banner above</font></td>
 	</tr>
 	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="20"></td>
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="20"></td>
 	</tr>
-</tbody></table> <!-- Spacer Break --><!-- ** end of QUICK LINKS panel (panel 4 on Right) --><!-- ** start of  panel (panel 5 on Right) -->
+</tbody></table> <!-- Spacer Break --><!-- ** end of Products Used in Banner panel (panel 3870) --><!-- ** start of  panel (panel 3341) -->
 <table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
-		<td bgcolor="#4c4c4c"><img scr="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="1"></td>
+		<td bgcolor="3c3c3c"><img scr="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="1"></td>
 	</tr>
 	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="9"></td>
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="9"></td>
 	</tr>
 	<tr>
-		<td class="panel"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><p align="center"><img height="59" alt="Acid Logo" src="http://www.100percentdesign.co.uk/g/2007/panels/logo_acid_125_59_copy.jpg" width="125" border="0"></p></font></td>
+		<td class="panel"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><img height="181" alt="testimonials" src="http://www.100percentdesign.co.uk/g/2008/panels/image_quote_design.gif" width="185" align="middle" border="0"></font></td>
 	</tr>
 	<tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="185" height="20"></td>
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="20"></td>
 	</tr>
-</tbody></table> <!-- Spacer Break --><!-- ** end of  panel (panel 5 on Right) --></td>  
+</tbody></table> <!-- Spacer Break --><!-- ** end of  panel (panel 3341) --><!-- ** start of  panel (panel 3424) --><!-- ** start of Careers panel (panel 3720) -->
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td bgcolor="3c3c3c"><img scr="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="1"></td>
+	</tr>
+	<tr>
+		<td height="22" class="paneltitle"><font face="" size="2" class="PanelTitle">Careers</font></td>
+	</tr>
+	<tr>
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="9"></td>
+	</tr>
+	<tr>
+		<td class="panel"><!-- <UDF_formattedPage/> --><font face="Arial" size="2" class="Panel"><strong>Interested in working&nbsp;on&nbsp;100%&nbsp;Design?&nbsp; View current job opportunities here.</strong><br><strong><a class="Panel" href="http://www.100percentdesign.co.uk/page.cfm?&amp;LinkType=PowerBar__&amp;LinkTarget=http://www.100percentdesign.co.uk/page.cfm/link=284">Find out more&gt;&gt;</a></strong> <br></font></td>
+	</tr>
+	<tr>
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="185" height="20"></td>
+	</tr>
+</tbody></table> <!-- Spacer Break --><!-- ** end of Careers panel (panel 3720) --></td>  
 				</tr>  
 				<tr>  
-					<td colspan="5"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="20" height="10"></td>
+					<td colspan="5"><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="20" height="10"></td>
 				</tr>    
 				<tr>  
-					<td style="background:url(http://www.100percentdesign.co.uk/g/2007/template/background_footer.gif); background-repeat:no-repeat; background-position: bottom left;" colspan="5" bgcolor="#000000" height="26"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><table width="100%" border="0">
-  <tbody><tr> 
-    <td align="center">
-<script type="text/javascript"><!--
-google_ad_client = "pub-7416441022403663";
-google_alternate_color = "FFFFFF";
-google_ad_width = 468;
-google_ad_height = 60;
-google_ad_format = "468x60_as";
-google_ad_type = "text";
-//2007-10-22: 100% Design
-google_ad_channel = "6894255008";
-google_color_border = "000000";
-google_color_bg = "000000";
-google_color_link = "FFFFFF";
-google_color_text = "FFFFFF";
-google_color_url = "FFFFFF";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</td>
-  </tr>
-</tbody></table></td></tr></tbody></table>
+					<td colspan="5" bgcolor="#000000" height="26" style="background:url(http://www.100percentdesign.co.uk/g/2008/template/background_footer.gif); background-repeat:no-repeat; background-position: bottom left;">
 <table cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="10" height="26"></td>
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="10" height="26"></td>
 		<td width="100%">
 			<table cellspacing="0" cellpadding="0" border="0">
-				<tbody><tr><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.100percentdesign.co.uk/page.cfm/Link=2/t=m" target="_self">© 2007 Reed Exhibitions</a> </font></td><td><font face="Arial" size="2" class="Footer">&nbsp;|&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.100percentdesign.co.uk/page.cfm/Action=Team/t=m" target="_self">Contact Us</a>&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"> |&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.100percentdesign.co.uk/page.cfm/Link=3/t=m" target="_self">View The Privacy Policy</a>&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"> |&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.100percentdesign.co.uk/page.cfm/Action=SiteMap/t=m" target="_self">Sitemap</a>&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"> |&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.100percentdesign.co.uk/page.cfm/Link=4/t=m" target="_self">Admission policy</a></font></td>
+				<tbody><tr><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.100percentdesign.co.uk/page.cfm/Link=2/t=m" target="_self">© 2008 Reed Exhibitions</a> </font></td><td><font face="Arial" size="2" class="Footer">&nbsp;|&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.100percentdesign.co.uk/page.cfm/Action=Team/t=m" target="_self">Contact Us</a>&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"> |&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.100percentdesign.co.uk/page.cfm/Link=3/t=m" target="_self">View The Privacy Policy</a>&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"> |&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.100percentdesign.co.uk/page.cfm/Action=SiteMap/t=m" target="_self">Sitemap</a>&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"> |&nbsp;</font></td><td><font face="Arial" size="2" class="Footer"><a class="Footer" href="http://www.100percentdesign.co.uk/page.cfm/Link=4/t=m" target="_self">Admission policy</a></font></td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -1048,12 +742,12 @@ google_color_url = "FFFFFF";
 				</tr>
 			</tbody></table>
 		</td>    
-		<td style="background:url(http://www.100percentdesign.co.uk/g/2007/template/site_r.gif);"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="20" height="20"></td>  
+		<td style="background:url(http://www.100percentdesign.co.uk/g/2008/template/site_r.gif);"><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="20" height="20"></td>  
 	</tr>  
 	<tr>    
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/template/site_bl.gif" alt="" width="20" height="20"></td>    
-		<td style="background:url(http://www.100percentdesign.co.uk/g/2007/template/site_b.gif);" width="960"><img src="http://www.100percentdesign.co.uk/g/2007/g_blank.gif" alt="" width="20" height="20"></td>    
-		<td><img src="http://www.100percentdesign.co.uk/g/2007/template/site_br.gif" alt="" width="20" height="20"></td>  
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/template/site_bl.gif" alt="" width="20" height="20"></td>    
+		<td style="background:url(http://www.100percentdesign.co.uk/g/2008/template/site_b.gif);" width="960"><img src="http://www.100percentdesign.co.uk/g/2008/g_blank.gif" alt="" width="20" height="20"></td>    
+		<td><img src="http://www.100percentdesign.co.uk/g/2008/template/site_br.gif" alt="" width="20" height="20"></td>  
 	</tr>
 </tbody></table></div> </div>
 
@@ -1077,7 +771,19 @@ google_color_url = "FFFFFF";
 
 	
 
-	
+	<!--—begin 1x1 ad2one ad tag ---->
+<script language="JavaScript" type="text/javascript">
+if(typeof(ord)=="undefined"){var ord=Math.floor(Math.random()*10000000000)};
+if(typeof(tile)=="undefined"){var tile=1} else {tile++};
+if(typeof(dcopt)=="undefined"){var dcopt="dcopt=ist;"} else {dcopt=""};
+document.write('<script language="JavaScript" src="https://ad.uk.doubleclick.net/adj/rxad21;' + dcopt + 'tile=' + tile + ';sz=1x1;ord=' + ord +  '?" type="text/javascript"><\/script>');
+</script><script language="JavaScript" src="https://ad.uk.doubleclick.net/adj/rxad21;dcopt=ist;tile=1;sz=1x1;ord=1584694819?" type="text/javascript"></script>
+<noscript>
+<a href="https://ad.uk.doubleclick.net/jump/rxad21;sz=1x1;ord=123456789?" target="_blank">
+<img src="https://ad.uk.doubleclick.net/ad/rxad21;sz=1x1;ord=123456789?" width="1" height="1" border="0" alt="">
+</a>
+</noscript>
+<!-- end ad tag -->
 
 	
 	
