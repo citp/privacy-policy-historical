@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the healthcastle.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218210714id_/http%3A//healthcastle.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcastle.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611223627id_/http%3A//www.healthcastle.com/privacy.shtml) for the most accurate reproduction.*
 
 # Healthcastle.com - Privacy Policy
 
-HealthCastle.com has created this privacy statement in order to demonstrate our commitment to privacy. All information gathered on this site is confidential. We do not share, rent or sell your information to third parties. The following discloses our information gathering and dissemination practices for this web site:
+HealthCastle.com has created this privacy statement in order to demonstrate our commitment to privacy. All information gathered on this site is confidential. We do not share, rent or sell your information to third parties. The following discloses our information gathering and dissemination practices for this web site:  
+
 
 #### Newsletter Registration
 
@@ -14,4 +15,6 @@ Our online e-newsletter asks users to give us contact information (such as name 
 
 Our sponsors and advertisers and their Ad Servers may use cookies when you view pages on our site. They use those cookies to collect non-personal information as a way of measuring the effectiveness of their advertising effort. We do not control these third parties' use of cookies or how they manage the non-personal information they gather through them. However, our sponsors and advertisers have agreed that they will not collect any personally identifiable information from our site visitors. If you click on an advertisement on HealthCastle.com and visit a site maintained by one of our sponsors or advertisers, please be aware that we are not responsible for the privacy practices of those sites. You should read the privacy policies of each site you visit to determine what information that site may be collecting about you.
 
-Policy last updated: October 6, 2006
+If you would like more information about the above practice click here: <http://networkadvertising.org/consumer/opt_out.asp>
+
+Policy last updated: November 1, 2007
