@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210141344id_/http%3A//www.socalgas.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611114839id_/http%3A//www.socalgas.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
   | 
 
-_[Para la versión en español](https://web.archive.org/web/20071210141344id_/http%3A//www.socalgas.com/sp/privacidad.shtml)_
+_[Para la versión en español](https://web.archive.org/web/20080611114839id_/http%3A//www.socalgas.com/sp/privacidad.shtml)_
 
 [_中 文 版_](https://web.archive.org/ch/privacy.shtml)
 
