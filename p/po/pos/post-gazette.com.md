@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the post-gazette.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213024033id_/http%3A//www.post-gazette.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the post-gazette.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611093002id_/http%3A//www.post-gazette.com/privacy.asp) for the most accurate reproduction.*
 
 # Post-Gazette NOW - Privacy Policy
 
