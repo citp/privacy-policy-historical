@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polestar.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212204405id_/http%3A//www.polestar.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polestar.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611064358id_/http%3A//www.polestar.com/home/privacy.php) for the most accurate reproduction.*
 
 # Polestar - Privacy Policy
 
