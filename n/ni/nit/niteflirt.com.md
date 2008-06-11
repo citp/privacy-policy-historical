@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niteflirt.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011171151id_/http%3A//www.niteflirt.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niteflirt.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612002014id_/http%3A//www.niteflirt.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # NiteFlirt: Privacy Policy
 
@@ -59,7 +59,7 @@ If you have an Advisor listing and/or are earning money on Niteflirt, we collect
 
 Niteflirt may collect credit card information when you create an Advisor listing, add money to your Member account or use your credit card to take advantage of special promotions. Niteflirt uses a third party to process credit cards for billing purposes. This third party may store or retain a Member's personally identifiable information. In certain cases, we will also use credit card information to help us verify your identity. We do not charge or bill the credit card when we collect credit card information for identity verification purposes. 
 
-You can review, update and change some of your personally identifiable information—including your email address, telephone number, password and PIN number—by clicking on the Personal Info link on the [My Account](https://web.archive.org/myaccount/default.asp) page. You can review, update or change your address and credit card information by going to the [My Account](https://web.archive.org/myaccount/default.asp) page on the Site, clicking on the link to the Payment Info page, and then clicking on the Credit Card Information link. You may correct, update or delete any of your Niteflirt listings by clicking on the My Listings link on the [My Account](https://web.archive.org/myaccount/default.asp) page. You may also update or correct information by filling out an updated [Customer Support](https://web.archive.org/Help/Support.aspx) form at http://www.Niteflirt.com/Help/Support.aspx or you may write to Niteflirt at Customer Support, Niteflirt, PMB #331, 100 First Street, Suite 100, San Francisco, CA 94105. 
+You can review, update and change some of your personally identifiable information—including your email address, telephone number, password and PIN number—by clicking on the Personal Info link on the [My Account](https://web.archive.org/myaccount/default.asp) page. You can review, update or change your address and credit card information by going to the [My Account](https://web.archive.org/myaccount/default.asp) page on the Site, clicking on the link to the Payment Info page, and then clicking on the Credit Card Information link. You may correct, update or delete any of your Niteflirt listings by clicking on the My Listings link on the [My Account](https://web.archive.org/myaccount/default.asp) page. You may also update or correct information by filling out an updated [Customer Support](https://web.archive.org/Help/Support.aspx) form at http://www.Niteflirt.com/Help/Support.aspx or you may write to Niteflirt at Customer Support, Niteflirt, 182 Howard Street, #827, San Francisco, CA 94105. 
 
 You may also provide Niteflirt with additional profile information (such as experience, affiliations, on-call schedule, etc.) that is displayed publicly on the Site, on your home page or in your listings. Other than the profile information submitted by our Members, and except as noted herein, Niteflirt does not disclose any personally identifying information to other Members without your permission. 
 
@@ -97,8 +97,7 @@ Send us an email — including your Member name and email address — by filling
 Send us mail to the following mailing address:  
 Niteflirt Cancel  
 Niteflirt  
-PMB #331  
-100 First Street, Suite 100  
+182 Howard Street #827  
 San Francisco, CA 94105 
 
 **6\. Notification of Changes.**  
@@ -110,8 +109,7 @@ Email: [privacy@Niteflirt.com](mailto:privacy@niteflirt.com)
 
 Mailing Address:   
 Niteflirt  
-PMB #331  
-100 First Street, Suite 100  
+182 Howard Street #827  
 San Francisco, CA 94105 
 
 |  
