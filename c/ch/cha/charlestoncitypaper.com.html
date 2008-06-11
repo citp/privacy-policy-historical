@@ -1,90 +1,56 @@
-<!--The following is the downloaded HTML source of the charlestoncitypaper.com privacy policy that was archived on 2007-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071027154211id_/http%3A//www.charlestoncitypaper.com/gyrobase/page%3Foid%3D25105) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the charlestoncitypaper.com privacy policy that was archived on 2008-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080611230328id_/http%3A//www.charlestoncitypaper.com/gyrobase/page%3Foid%3D25105) for the most accurate reproduction.-->
 
 <html><head>
-  <title>Charleston City Paper - Charleston</title>
-  <link href="/styles/Charleston20071022.css" rel="stylesheet" type="text/css">
-  <meta name="keywords" content="Charleston City Paper, charleston newspaper | charleston sc | charleston city paper | charleston tourism | charleston events | charleston music | charleston dining | charleston bands | charleston nightlife | charleston venue | charleston news | charleston arts">
-  <meta name="description" content="Charleston SC Newspaper - Arts Entertainment Weekly">
+    <title>Privacy Statement - Charleston City Paper - Charleston</title>
+    <link href="/styles/CharlestonSpring2008.css" rel="stylesheet" type="text/css">
+    <meta name="keywords" content="Charleston City Paper, charleston,south carolina,restaurant,bars,dining,cuisine,southern ,folly,palms,pleasant,ashley,music,news ,arts,bands,shows,events,free classifieds">
+  <meta name="description" content="Food | Music | Events | Arts | News">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-  <script type="text/javascript" src="/scripts/dom.js"></script>
+    <script type="text/javascript" src="/scripts/dom.js"></script>
   <script type="text/javascript" src="/scripts/tabs.js"></script>
-  <script type="text/javascript"><!--
-      // Cover for IE's deficient styles (can't use :hover on a <span>)
-      var ROSpanHoverHack = {
-          backgroundColor: "#fff",
-          highlightColor: "#D5D5D5",
-          lastTab: null
-      };
-      function ROHighlight (e) {
-          dnStopPropagation(e);
-          if (ROSpanHoverHack.lastTab)
-              ROSpanHoverHack.lastTab.style.backgroundColor = null;
-          if (this) {
-              if (! this.ROSelectedTab) {
-                  this.style.backgroundColor = ROSpanHoverHack.highlightColor;
-              }
-              this.style.cursor = "pointer";
-              this.style.pointer = "hand";
-          }
-          ROSpanHoverHack.lastTab = this;
-      }
-      function ROUnHighlight (e) {
-          dnStopPropagation(e);
-          if (ROSpanHoverHack.lastTab)
-              ROSpanHoverHack.lastTab.style.backgroundColor = ROSpanHoverHack.backgroundColor;
-          if (this)
-              this.style.backgroundColor = null;
-      }
-
-      // Set everything up...
-      dnAddEvent(window, "dndomload", function () {
-          // Rollover Menu
-          //
-          // TODO: This needs some code to set tabInitSelected
-          //       to match the section we're in...
-          //
-          dnCreateTabViews({
-              classname: "RollOverView",
-              tabEvent: "mouseover",
-              tabInitSelected: "none",
-              tabSelectedClass: "ROTabSelected",
-              tabUnselectedClass: "ROTabUnselected",
-              showPanelCallback: function (tab) {
-                  this.positionPanelUnderTab(tab, -25);
-              }
-          });
-
-          // Listings Search Box
-          dnCreateTabViews({
-              classname: "LSBtabView",
-              tabSelectedClass: "LSBTabSelected",
-              tabUnselectedClass: "LSBTabUnselected"
-          });
-
-          // Custom Homepage TabBox One
-          dnCreateTabViews({
-              classname: "customOneTabView",
-              tabSelectedClass: "customOneTabSelected",
-              tabUnselectedClass: "customOneTabUnselected"
-          });
-
-          // Cover for IE's deficient styles (can't use :hover on a <span>)
-          var tabIds = [ "tab:LSBEvents", "tab:LSBMusicEvents", "tab:LSBDining", "tab:customOneTabOne", "tab:customOneTabTwo"];
-          for (var i in tabIds) {
-              dnAddEvent($(tabIds[i]), "mouseover", ROHighlight);
-              dnAddEvent($(tabIds[i]), "mouseout", ROUnHighlight);
-              dnAddEvent($(tabIds[i]), "click", ROUnHighlight);
-          }
-      });
+  <script type="text/javascript"> <!--
+    /*@cc_on @*/
+    /*@if (@_jscript)
+    var IE = true;
+    @else @*/
+    var IE = false;
+    /*@end @*/
+    var waitForEvent = IE ? "load" : "dndomload";
+    dnAddEvent(window, waitForEvent, function () {
+      //dnCreateTabViews("topNav", "menu", "menu", "roll");
+      dnCreateTabViews("topNav", "menuSelected", "menu", "roll", "tab:page");
+      dnCreateTabViews("LSBtabView", "tabSelected", "tabUnselected", "click", "tab:LSBEvents");
+    });
   //--></script>
-  </head>
-
-  <body>
- <!-- Targeted Ad Section: Privacy Statement -->
 
   
+  
+  
+  <script type="text/javascript">
+  <!--
+  // ---------------------------------------------------
+  // Cookies
+  // ---------------------------------------------------
+
+  function getCookie(name) {
+    var start = document.cookie.indexOf(name + "=");
+    var len = start + name.length + 1;
+    if ((!start) && (name != document.cookie.substring(0, name.length))) return null;
+    if (start == -1) return null;
+    var end = document.cookie.indexOf( ";", len );
+    if (end == -1) end = document.cookie.length;
+    return unescape(document.cookie.substring(len, end));
+  }
+  // -->
+  </script>
+    </head>
+  
+    <body id="Page">
+  
+ <!-- Targeted Ad Section: Privacy Statement -->
+
  <!-- Begin Header -->
   
   
@@ -97,20 +63,19 @@
   
   
 
-
   <table border="0" cellpadding="0" cellspacing="0" width="100%" id="logoTable">
   <tbody><tr>
   
   
 
   
-    <td class="Logo"><a href="http://www.charlestoncitypaper.com"><img src="/binary/ea61/CPlogoH60.jpg" alt="Charleston City Paper" border="0" height="70" width="205"></a></td>
+    <td class="Logo"><a href="http://www.charlestoncitypaper.com"><img src="/binary/5172/cplogo2008.gif" alt="Charleston City Paper" border="0" height="90" width="229"></a></td>
     <td class="BannerBox" width="100%">
       
-        <iframe id="2bad50lb" name="2bad50lb" src="http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A2" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" align="middle">
-       <b>Source = http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A2</b><br>
-      <a href="http://ads.charlestoncitypaper.com/ads/adclick.php?what=zone%3A2&amp;n=2bad50lb" target="_blank"><img src="http://ads.charlestoncitypaper.com/ads/adview.php?what=zone%3A2&amp;n=2bad50lb" border='0' alt=''></a>
-    </iframe>
+        <iframe id="f466c1lb" name="f466c1lb" src="http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A2" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" align="middle">
+           <b>Source = http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A2</b><br>
+          <a href="http://ads.charlestoncitypaper.com/ads/adclick.php?what=zone%3A2&amp;n=f466c1lb" target="_blank"><img src="http://ads.charlestoncitypaper.com/ads/adview.php?what=zone%3A2&amp;n=f466c1lb" border='0' alt=''></a>
+        </iframe>
       
     </td>
 
@@ -125,29 +90,423 @@
      <script type="text/javascript" src="http://www.charlestoncitypaper.com/mediaplayer/anarchy.js"></script>
   
  
- 
+  
   <table width="100%" cellpadding="0" cellspacing="0" border="0" id="topBar">
-   <tbody><tr>
-    <td width="100%" class="TitleHeader" valign="middle">
-    
-    
-      <form name="f" method="post" action="/gyrobase/Archive" class="SearchForm">
-      <table height="100%" cellpadding="0" cellspacing="0" align="right">
-       <tbody><tr height="100%">
+    <tbody><tr>
+      <td width="100%" class="TitleHeader" valign="middle">
+
         
-         
         
-        <td class="HeaderNavBox"><a href="http://www.ccpblogs.com" title="Charleston Blogs">Blogs</a>&nbsp; &nbsp;<a href="/gyrobase/Section?oid=oid%3A6365" title="Charleston Calendar">Calendar</a>&nbsp; &nbsp;<a href="/gyrobase/Section?oid=oid%3A6364" title="Charleston News">News</a>&nbsp; &nbsp;<a href="/gyrobase/Section?oid=oid%3A6368" title="Charleston Cuisine">Cuisine</a>&nbsp; &nbsp;<a href="/gyrobase/Section?oid=oid%3A6369" title="Charleston Music">Music</a>&nbsp; &nbsp;<a href="/gyrobase/Section?oid=oid%3A6366" title="Charleston Arts">Arts</a>&nbsp; &nbsp;<a href="/gyrobase/Section?oid=oid%3A6367" title="Charleston Screen">Screen</a>&nbsp; &nbsp;<a href="/gyrobase/Section?oid=oid%3A11785" title="Charleston Views">Views</a>&nbsp; &nbsp;<a href="http://www.verican.us/cod6/charleston/classifieds/main" title="Charleston Classifieds">Classifieds</a>&nbsp; &nbsp;<a href="/gyrobase/Page?oid=oid:7187" title="Charleston Diversions">Diversions</a> &nbsp; &nbsp;</td>
-        <td class="SearchCell"><input name="searchPhrase" value="Search..." type="text" class="SearchBox" onfocus="this.value=''"></td>
+          <form name="f" method="post" action="http://www.charlestoncitypaper.com/gyrobase/Archive" class="SearchForm">
+
+            <table cellpadding="0" cellspacing="0" border="0">
+              <tbody><tr>
+                
+                
+                
+                <td class="HeaderNavBox">
+                  <div id="topNavHeader">
+    <div id="topNavContainer">
+      <div id="topNavWrapper" class="topNav">
         
-         <td><img src="/images/spacer.gif" border="0" height="1" width="4"><input alt="" border="0" type="image" src="/binary/d275/gobtn.gif" class="SearchButton" width="18" height="18"><img src="/images/spacer.gif" border="0" height="1" width="4"></td>
+           
+           
+                <div id="tab:spoleto_2008" class="menu">
+                <div id="tabguts:spoleto_2008" class="menuHeader"><a href="/gyrobase/Content?oid=oid%3A45772">Spoleto 2008</a></div>
+            
+            
+            <div id="panel:spoleto_2008" class="menuPanel" style="display:none;">
+              
+                
+                  <div class="subMenuItem"><a href="/gyrobase/Content?oid=oid%3A45772">Schedule and Information</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A45865">Recent reviews</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://spoletobuzz.ccpblogs.com">BLOG: Spoletobuzz</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://spoletopartyblog.ccpblogs.com">BLOG: Spoleto Parties</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://eargasm.ccpblogs.com/">BLOG: Eargasms</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A45591">Comedy</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A45595">Dance</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A45592">Opera</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A45596">Film/Literature</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A45686">Theater</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A45601">Family Fare</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A45602">Jazz, Blues &amp; Roots Music</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A45603">Concert &amp; Choral Music</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A45604">Visual Arts</a></div>
+                
+              
+            </div><!-- #panel -->
+          </div><!-- #tab -->
         
-       </tr>
-      </tbody></table>
-      </form>
-    
-    </td>
-   </tr>
+           
+           
+                <div id="tab:blogs" class="menu">
+                <div id="tabguts:blogs" class="menuHeader"><a href="http://ccpblogs.com">Blogs</a></div>
+            
+            
+            <div id="panel:blogs" class="menuPanel" style="display:none;">
+              
+            </div><!-- #panel -->
+          </div><!-- #tab -->
+        
+           
+           
+                <div id="tab:calendar" class="menu">
+                <div id="tabguts:calendar" class="menuHeader"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?oid=oid%3A6365">Calendar</a></div>
+            
+            
+            <div id="panel:calendar" class="menuPanel" style="display:none;">
+              
+                
+                  <div class="subMenuItem"><a href="/gyrobase/Events?StartDate=All&amp;EventCategory=oid%3A4625">City Picks</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="/gyrobase/MusicEventsDate?StartDate=All&amp;Region=&amp;select2=oid%3A6168&amp;searchPhrase=">Sound Checks</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="/gyrobase/Events">Events Calendar</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="/gyrobase/Events?StartDate=All&amp;EventCategory=oid%3A5616&amp;Region=&amp;searchPhrase=">Cuisine Calendar</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="/gyrobase/Events?StartDate=All&amp;EventCategory=oid:4618">Community Billboard</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A30928">The Scene</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="/gyrobase/Page?oid=oid:7155">Submit an event</a></div>
+                
+              
+            </div><!-- #panel -->
+          </div><!-- #tab -->
+        
+           
+           
+                <div id="tab:news" class="menu">
+                <div id="tabguts:news" class="menuHeader"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?oid=oid%3A6364">News</a></div>
+            
+            
+            <div id="panel:news" class="menuPanel" style="display:none;">
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6326">Features</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6880">News Shorts</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6328">Blotter</a></div>
+                
+              
+            </div><!-- #panel -->
+          </div><!-- #tab -->
+        
+           
+           
+                <div id="tab:cuisine" class="menu">
+                <div id="tabguts:cuisine" class="menuHeader"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?oid=oid%3A6368">Cuisine</a></div>
+            
+            
+            <div id="panel:cuisine" class="menuPanel" style="display:none;">
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6346">Restaurant Reviews</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6345">Features</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="/gyrobase/Section?oid=oid%3A6368">Dish dining guide</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6347">A La Carte</a></div>
+                
+              
+            </div><!-- #panel -->
+          </div><!-- #tab -->
+        
+           
+           
+                <div id="tab:music" class="menu">
+                <div id="tabguts:music" class="menuHeader"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?oid=oid%3A6369">Music</a></div>
+            
+            
+            <div id="panel:music" class="menuPanel" style="display:none;">
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestonmusicdirectory.com">Local Band Directory</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6354">Pulse</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6351">Feedback File</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6350">Features</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A11264">In The Jukebox</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="/gyrobase/Page?oid=oid%3A45852">Submit a music event</a></div>
+                
+              
+            </div><!-- #panel -->
+          </div><!-- #tab -->
+        
+           
+           
+                <div id="tab:arts" class="menu">
+                <div id="tabguts:arts" class="menuHeader"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?oid=oid%3A6366">Arts</a></div>
+            
+            
+            <div id="panel:arts" class="menuPanel" style="display:none;">
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6338">Theatre</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6337">Visual Arts</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6333">Features</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A7690">Classical Corner</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A7269">Unscripted</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6339">Books</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6335">Artifacts</a></div>
+                
+              
+            </div><!-- #panel -->
+          </div><!-- #tab -->
+        
+           
+           
+                <div id="tab:screen" class="menu">
+                <div id="tabguts:screen" class="menuHeader"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?oid=oid%3A6367">Screen</a></div>
+            
+            
+            <div id="panel:screen" class="menuPanel" style="display:none;">
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6340">Film Reviews</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://charlestonfilmtimes.com">Film Times</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A43996">Gorilla Code</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6341">Capsule Reviews</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A8090">Features</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6343">Game On</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A14937">Freeze Frame</a></div>
+                
+              
+            </div><!-- #panel -->
+          </div><!-- #tab -->
+        
+           
+           
+                <div id="tab:views" class="menu">
+                <div id="tabguts:views" class="menuHeader"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?oid=oid%3A11785">Views</a></div>
+            
+            
+            <div id="panel:views" class="menuPanel" style="display:none;">
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6322">Will Moredock</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A32309">Jack Hunter</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6324">D. A. Smith</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A6321">Stegelin's Cartoons</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A35420">Chris Haire</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A27794">Barney Blakeney</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A22875">Guest Columnist</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.charlestoncitypaper.com/gyrobase/Section?category=oid%3A26948">Letters to the Editor</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="/gyrobase/Page?oid=oid:34497">Submit a letter to the editor</a></div>
+                
+              
+            </div><!-- #panel -->
+          </div><!-- #tab -->
+        
+           
+           
+                <div id="tab:classifieds" class="menu">
+                <div id="tabguts:classifieds" class="menuHeader"><a href="http://www.verican.us/cod6/charleston/classifieds/main">Classifieds</a></div>
+            
+            
+            <div id="panel:classifieds" class="menuPanel" style="display:none;">
+              
+                
+                  <div class="subMenuItem"><a href="http://www.verican.us/cod6/adlisting.do?catalog=charleston&amp;list=true&amp;category=1">Automotive</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.verican.us/cod6/adlisting.do?catalog=charleston&amp;list=true&amp;category=6">Boating</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.verican.us/cod6/adlisting.do?catalog=charleston&amp;list=true&amp;category=8">City Pets</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.verican.us/cod6/adlisting.do?catalog=charleston&amp;list=true&amp;category=2">Employment</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.verican.us/cod6/adlisting.do?catalog=charleston&amp;list=true&amp;category=9">Music Exchange</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.verican.us/cod6/adlisting.do?catalog=charleston&amp;list=true&amp;category=4">Real Estate</a></div>
+                
+              
+                
+                  <div class="subMenuItem"><a href="http://www.verican.us/cod6/adlisting.do?catalog=charleston&amp;list=true&amp;category=7">Services</a></div>
+                
+              
+            </div><!-- #panel -->
+          </div><!-- #tab -->
+        
+           
+           
+                <div id="tab:diversions" class="menu">
+                <div id="tabguts:diversions" class="menuHeader"><a href="/gyrobase/Page?oid=oid:7187">Diversions</a></div>
+            
+            
+            <div id="panel:diversions" class="menuPanel" style="display:none;">
+              
+            </div><!-- #panel -->
+          </div><!-- #tab -->
+        
+      </div><!-- #topNavWrapper .topNav -->
+    </div><!-- #topNavContainer -->
+    <div style="clear:both"></div>
+  </div><!-- #topNavHeader --> &nbsp; &nbsp;
+                </td>
+                <td class="SearchCell">
+                  <input name="searchPhrase" value="Search..." type="text" class="SearchBox" onfocus="this.value=''">
+                </td>
+                
+                  <td>
+                    <img src="/images/spacer.gif" border="0" height="1" width="4"><input alt="" border="0" type="image" src="/binary/d275/gobtn.gif" class="SearchButton" width="18" height="18"><img src="/images/spacer.gif" border="0" height="1" width="4">
+                  </td>
+                
+              </tr>
+            </tbody></table>
+
+          </form>
+          
+
+      </td>
+    </tr>
   </tbody></table>
     
   <table border="0" cellpadding="0" cellspacing="0" width="100%" id="mainTable">
@@ -171,130 +530,13 @@
     
       
       
-        
-        
-        
-          
-            <div id="NavHead"><a href="/gyrobase/Page?oid=oid:7185" title="Charleston Advertising Info">Advertising Info</a></div>
-          
-        
-        
-      
-        
-        
-        
-          
-            <div id="NavLink"><a href="/gyrobase/Content?oid=oid%3A24420" title="Charleston Where to Find Us">Where to Find Us</a></div>
-          
-        
-        
-      
-        
-        
-        
-          
-            <div id="NavLink"><a href="/gyrobase/Page?oid=oid:7186" title="Charleston Contact Us">Contact Us</a></div>
-          
-        
-        
-      
-        
-        
-        
-          
-            <div id="NavLink"><a href="http://charleston.selectalternatives.com" title="Charleston Personals">Personals</a></div>
-          
-        
-        
-      
-        
-          
-           <div id="SectionGroupHeader">Special Issues</div>
-          
-        
-        
-        
-          
-            <div id="NavLink"><a href="http://www.charlestondish.com" title="Charleston 2007 DISH Summer Dining Guide">2007 DISH Summer Dining Guide</a></div>
-          
-        
-        
-      
-        
-        
-        
-          
-            <div id="NavLink"><a href="/gyrobase/Section?oid=oid%3A32270" title="Charleston 2007 Fall Arts Preview">2007 Fall Arts Preview</a></div>
-          
-        
-        
-      
-        
-        
-        
-          
-            <div id="NavLink"><a href="http://www.bestofcharleston.net" title="Charleston Best of Charleston">Best of Charleston</a></div>
-          
-        
-        
-      
-        
-          
-           <div id="SectionGroupHeader">Classifieds</div>
-          
-        
-        
-        
-          
-            <div id="NavLink"><a href="http://www.verican.us/cod6/adlisting.do?catalog=charleston&amp;list=true&amp;category=2" title="Charleston Employment">Employment</a></div>
-          
-        
-        
-      
-        
-        
-        
-          
-            <div id="NavLink"><a href="http://www.verican.us/cod6/adlisting.do?catalog=charleston&amp;list=true&amp;category=4" title="Charleston Real Estate">Real Estate</a></div>
-          
-        
-        
-      
-        
-        
-        
-          
-            <div id="NavLink"><a href="http://www.verican.us/cod6/adlisting.do?catalog=charleston&amp;list=true&amp;category=1" title="Charleston Automotive">Automotive</a></div>
-          
-        
-        
-      
-        
-        
-        
-          
-            <div id="NavLink"><a href="http://www.verican.us/cod6/charleston/classifieds/main" title="Charleston Complete listings...">Complete listings...</a></div>
-          
-        
-        
-      
     
   </div>
   
 
   
   
-    <div class="LeftAdBox">
-    <iframe class="LeftAdFrame" id="2bad50lb" name="2bad50lb" src="http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A8" width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" align="middle">
-      <a href="http://ads.charlestoncitypaper.com/ads/adclick.php?what=zone%3A8&amp;n=2bad50lb" target="_blank"><img src="http://ads.charlestoncitypaper.com/ads/adview.php?what=zone%3A8&amp;n=2bad50lb" border='0' alt=''></a>
-    </iframe>
-    </div>
-  
-    <div class="LeftAdBox">
-    <iframe class="LeftAdFrame" id="2bad50lb" name="2bad50lb" src="http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A9" width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" align="middle">
-      <a href="http://ads.charlestoncitypaper.com/ads/adclick.php?what=zone%3A9&amp;n=2bad50lb" target="_blank"><img src="http://ads.charlestoncitypaper.com/ads/adview.php?what=zone%3A9&amp;n=2bad50lb" border='0' alt=''></a>
-    </iframe>
-    </div>
+    
   
 
 
@@ -386,48 +628,1373 @@
 
   <!-- Begin Right Column -->
   <td class="RightCell" align="center" valign="top">
+  
   <div class="RightCellDiv">
     
     
   
     
     
-      <div class="MyAccountBox"><a href="/gyrobase/MyAccount">My Account Settings</a></div>
+      <div class="MyAccountBox">
+    <a href="http://www.charlestoncitypaper.com/gyrobase/MyProfile">My&nbsp;Profile</a> |
+    <a href="http://www.charlestoncitypaper.com/gyrobase/MyAccount">My&nbsp;Settings</a>
+    <script language="JavaScript">
+    <!--
+      var myCookie = getCookie("login");
+      if (myCookie) {
+        document.write('<br><a href="http://www.charlestoncitypaper.com/gyrobase/Logout">Log&nbsp;Out</a>');
+       }
+    // -->
+    </script>
+    </div>
     
+
+   
+   
+     <div class="ListingsSearchRightCol">
+       <div class="LSBtabView" id="LSB">
+    <div class="LSBTabs">
+      <a href="javascript://" onclick="return false;" id="tab:LSBEvents">Events</a>
+      <a href="javascript://" onclick="return false;" id="tab:LSBMusicEvents">Music</a>
+      <a href="javascript://" onclick="return false;" id="tab:LSBDining">Dining</a>
+    </div>
+
+    <table class="LSBContent" id="panel:LSBEvents" style="display:none;" cellpadding="5px">
+    <tbody><tr>
+     
+    <td valign="top">
+      <div class="LSBTitle">Search Events:</div>
+      <form name="EventBrowse" action="http://www.charlestoncitypaper.com/gyrobase/Events.html" method="get">
+    
+    <div class="ListingsBrowseChoice">
+      <select name="StartDate" class="ListingsBrowseMenu">
+        
+          <option value="All">-All Dates-</option>
+        
+        
+          
+             
+            <option value="2008-06-11" selected="">Wed. Jun. 11</option>
+          
+        
+          
+          
+            <option value="2008-06-12">Thu. Jun. 12</option>
+          
+        
+          
+          
+            <option value="2008-06-13">Fri. Jun. 13</option>
+          
+        
+          
+          
+            <option value="2008-06-14">Sat. Jun. 14</option>
+          
+        
+          
+          
+            <option value="2008-06-15">Sun. Jun. 15</option>
+          
+        
+          
+          
+            <option value="2008-06-16">Mon. Jun. 16</option>
+          
+        
+          
+          
+            <option value="2008-06-17">Tue. Jun. 17</option>
+          
+        
+          
+          
+            <option value="2008-06-18">Wed. Jun. 18</option>
+          
+        
+          
+          
+            <option value="2008-06-19">Thu. Jun. 19</option>
+          
+        
+          
+          
+            <option value="2008-06-20">Fri. Jun. 20</option>
+          
+        
+          
+          
+            <option value="2008-06-21">Sat. Jun. 21</option>
+          
+        
+          
+          
+            <option value="2008-06-22">Sun. Jun. 22</option>
+          
+        
+          
+          
+            <option value="2008-06-23">Mon. Jun. 23</option>
+          
+        
+          
+          
+            <option value="2008-06-24">Tue. Jun. 24</option>
+          
+        
+          
+          
+            <option value="2008-06-25">Wed. Jun. 25</option>
+          
+        
+          
+          
+            <option value="2008-06-26">Thu. Jun. 26</option>
+          
+        
+          
+          
+            <option value="2008-06-27">Fri. Jun. 27</option>
+          
+        
+          
+          
+            <option value="2008-06-28">Sat. Jun. 28</option>
+          
+        
+          
+          
+            <option value="2008-06-29">Sun. Jun. 29</option>
+          
+        
+          
+          
+            <option value="2008-06-30">Mon. Jun. 30</option>
+          
+        
+          
+          
+            <option value="2008-07-01">Tue. Jul.  1</option>
+          
+        
+          
+          
+            <option value="2008-07-02">Wed. Jul.  2</option>
+          
+        
+          
+          
+            <option value="2008-07-03">Thu. Jul.  3</option>
+          
+        
+          
+          
+            <option value="2008-07-04">Fri. Jul.  4</option>
+          
+        
+          
+          
+            <option value="2008-07-05">Sat. Jul.  5</option>
+          
+        
+          
+          
+            <option value="2008-07-06">Sun. Jul.  6</option>
+          
+        
+          
+          
+            <option value="2008-07-07">Mon. Jul.  7</option>
+          
+        
+          
+          
+            <option value="2008-07-08">Tue. Jul.  8</option>
+          
+        
+          
+          
+            <option value="2008-07-09">Wed. Jul.  9</option>
+          
+        
+          
+          
+            <option value="2008-07-10">Thu. Jul. 10</option>
+          
+        
+          
+          
+            <option value="2008-07-11">Fri. Jul. 11</option>
+          
+        
+          
+          
+            <option value="2008-07-12">Sat. Jul. 12</option>
+          
+        
+          
+          
+            <option value="2008-07-13">Sun. Jul. 13</option>
+          
+        
+          
+          
+            <option value="2008-07-14">Mon. Jul. 14</option>
+          
+        
+          
+          
+            <option value="2008-07-15">Tue. Jul. 15</option>
+          
+        
+          
+          
+            <option value="2008-07-16">Wed. Jul. 16</option>
+          
+        
+        <option value="All">-All dates-</option>
+      </select>
+    </div>
+
+    
+    <div class="ListingsBrowseChoice">
+      <select name="EventCategory" class="ListingsBrowseMenu">
+           
+          <option value="" selected="">-All Categories-</option>
+        
+        
+          
+            
+              <option value="oid:44415">2008 SPOLETO</option>
+            
+          
+          
+            
+              <option value="oid:44416">&nbsp;&nbsp;Spoleto Festival USA</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:44417">&nbsp;&nbsp;Piccolo Spoleto</option>
+            
+          
+        
+          
+            
+              <option value="oid:4625">CALENDAR</option>
+            
+          
+          
+            
+              <option value="oid:28798">&nbsp;&nbsp;Fourth of July</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4598">&nbsp;&nbsp;Festivals/Events</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:5633">&nbsp;&nbsp;Fright Life</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:20407">&nbsp;&nbsp;Holiday Happenings</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:34135">&nbsp;&nbsp;Oyster Roasts</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:8105">&nbsp;&nbsp;Theater</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4601">&nbsp;&nbsp;Theater Auditions</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4610">&nbsp;&nbsp;Film &amp; Radio</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4603">&nbsp;&nbsp;Comedy</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4602">&nbsp;&nbsp;Concert Music</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4604">&nbsp;&nbsp;Dance</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4605">&nbsp;&nbsp;Visual Arts Openings and Events</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4606">&nbsp;&nbsp;Visual Arts Ongoing</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4607">&nbsp;&nbsp;Visual Arts Call For Entries</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4609">&nbsp;&nbsp;Books</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4613">&nbsp;&nbsp;Family &amp; Kids</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4612">&nbsp;&nbsp;Lectures &amp; Seminars</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4614">&nbsp;&nbsp;Nature &amp; Pets</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4615">&nbsp;&nbsp;Sports</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4617">&nbsp;&nbsp;Wellness</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4608">&nbsp;&nbsp;Museums</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4611">&nbsp;&nbsp;Classes</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:18421">&nbsp;&nbsp;Dance Classes</option>
+            
+          
+        
+          
+            
+              <option value="oid:4618">COMMUNITY BILLBOARD</option>
+            
+          
+          
+            
+              <option value="oid:4619">&nbsp;&nbsp;Politics &amp; Govt.</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4620">&nbsp;&nbsp;Volunteers</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4621">&nbsp;&nbsp;Support Groups</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4622">&nbsp;&nbsp;Clubs &amp; Organizations</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4623">&nbsp;&nbsp;Seniors</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4624">&nbsp;&nbsp;Gay &amp; Lesbian</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:4616">&nbsp;&nbsp;Recreation</option>
+            
+          
+        
+          
+            
+              <option value="oid:5616">CUISINE</option>
+            
+          
+          
+            
+              <option value="oid:5619">&nbsp;&nbsp;Foodie Events</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:5618">&nbsp;&nbsp;Wine Dinners</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:5617">&nbsp;&nbsp;Wine Tastings</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:27222">&nbsp;&nbsp;Beer Dinner</option>
+            
+          
+        
+          
+          
+            
+              <option value="oid:5630">&nbsp;&nbsp;Cooking Classes</option>
+            
+          
+        
+      </select>
+    </div>
+
+    
+    <div class="ListingsBrowseChoice">
+      <select name="Region" class="ListingsBrowseMenu">
+           
+          <option value="" selected="">-All Regions-</option>
+        
+        
+          
+            <option value="oid:5727">Awendaw</option>
+          
+        
+          
+            <option value="oid:4423">Daniel Island</option>
+          
+        
+          
+            <option value="oid:4424">Downtown</option>
+          
+        
+          
+            <option value="oid:4437">Edisto</option>
+          
+        
+          
+            <option value="oid:4427">Folly Beach</option>
+          
+        
+          
+            <option value="oid:4428">Goose Creek</option>
+          
+        
+          
+            <option value="oid:4434">Isle of Palms</option>
+          
+        
+          
+            <option value="oid:4429">James Island</option>
+          
+        
+          
+            <option value="oid:4430">Johns Island</option>
+          
+        
+          
+            <option value="oid:4433">Kiawah</option>
+          
+        
+          
+            <option value="oid:5719">Ladson</option>
+          
+        
+          
+            <option value="oid:19566">McClellanville</option>
+          
+        
+          
+            <option value="oid:5014">Moncks Corner</option>
+          
+        
+          
+            <option value="oid:4425">Mt. Pleasant</option>
+          
+        
+          
+            <option value="oid:4431">North Charleston</option>
+          
+        
+          
+            <option value="oid:4432">Seabrook Island</option>
+          
+        
+          
+            <option value="oid:4436">Sullivan's Island</option>
+          
+        
+          
+            <option value="oid:4435">Summerville</option>
+          
+        
+          
+            <option value="oid:5625">Wadmalaw</option>
+          
+        
+          
+            <option value="oid:6834">Walterboro</option>
+          
+        
+          
+            <option value="oid:4426">West Ashley</option>
+          
+        
+      </select>
+    </div>
+
+    
+    <div class="ListingsBrowseChoice">
+      <input name="searchPhrase" value="Keyword" type="text" size="14" onfocus="this.value=''">
+      <input type="Submit" value="Go">
+    </div></form>
+    </td>
+    </tr>
+    </tbody></table>
+
+    <table class="LSBContent" id="panel:LSBMusicEvents" style="display:none;" cellpadding="5px">
+    <tbody><tr>
+       
+    <td valign="top">
+      <div class="LSBTitle">Search Music:</div>
+      <form name="MusicBrowse" action="http://www.charlestoncitypaper.com/gyrobase/MusicEventsDate.html" method="get">
+    
+    <div class="ListingsBrowseChoice">
+      <select name="StartDate" class="ListingsBrowseMenu">
+        
+          <option value="All">-All Dates-</option>
+        
+        
+          
+             
+            <option value="2008-06-11" selected="">Wed. Jun. 11</option>
+          
+        
+          
+          
+            <option value="2008-06-12">Thu. Jun. 12</option>
+          
+        
+          
+          
+            <option value="2008-06-13">Fri. Jun. 13</option>
+          
+        
+          
+          
+            <option value="2008-06-14">Sat. Jun. 14</option>
+          
+        
+          
+          
+            <option value="2008-06-15">Sun. Jun. 15</option>
+          
+        
+          
+          
+            <option value="2008-06-16">Mon. Jun. 16</option>
+          
+        
+          
+          
+            <option value="2008-06-17">Tue. Jun. 17</option>
+          
+        
+          
+          
+            <option value="2008-06-18">Wed. Jun. 18</option>
+          
+        
+          
+          
+            <option value="2008-06-19">Thu. Jun. 19</option>
+          
+        
+          
+          
+            <option value="2008-06-20">Fri. Jun. 20</option>
+          
+        
+          
+          
+            <option value="2008-06-21">Sat. Jun. 21</option>
+          
+        
+          
+          
+            <option value="2008-06-22">Sun. Jun. 22</option>
+          
+        
+          
+          
+            <option value="2008-06-23">Mon. Jun. 23</option>
+          
+        
+          
+          
+            <option value="2008-06-24">Tue. Jun. 24</option>
+          
+        
+          
+          
+            <option value="2008-06-25">Wed. Jun. 25</option>
+          
+        
+          
+          
+            <option value="2008-06-26">Thu. Jun. 26</option>
+          
+        
+          
+          
+            <option value="2008-06-27">Fri. Jun. 27</option>
+          
+        
+          
+          
+            <option value="2008-06-28">Sat. Jun. 28</option>
+          
+        
+          
+          
+            <option value="2008-06-29">Sun. Jun. 29</option>
+          
+        
+          
+          
+            <option value="2008-06-30">Mon. Jun. 30</option>
+          
+        
+          
+          
+            <option value="2008-07-01">Tue. Jul.  1</option>
+          
+        
+          
+          
+            <option value="2008-07-02">Wed. Jul.  2</option>
+          
+        
+          
+          
+            <option value="2008-07-03">Thu. Jul.  3</option>
+          
+        
+          
+          
+            <option value="2008-07-04">Fri. Jul.  4</option>
+          
+        
+          
+          
+            <option value="2008-07-05">Sat. Jul.  5</option>
+          
+        
+          
+          
+            <option value="2008-07-06">Sun. Jul.  6</option>
+          
+        
+          
+          
+            <option value="2008-07-07">Mon. Jul.  7</option>
+          
+        
+          
+          
+            <option value="2008-07-08">Tue. Jul.  8</option>
+          
+        
+          
+          
+            <option value="2008-07-09">Wed. Jul.  9</option>
+          
+        
+          
+          
+            <option value="2008-07-10">Thu. Jul. 10</option>
+          
+        
+          
+          
+            <option value="2008-07-11">Fri. Jul. 11</option>
+          
+        
+          
+          
+            <option value="2008-07-12">Sat. Jul. 12</option>
+          
+        
+          
+          
+            <option value="2008-07-13">Sun. Jul. 13</option>
+          
+        
+          
+          
+            <option value="2008-07-14">Mon. Jul. 14</option>
+          
+        
+          
+          
+            <option value="2008-07-15">Tue. Jul. 15</option>
+          
+        
+          
+          
+            <option value="2008-07-16">Wed. Jul. 16</option>
+          
+        
+        <option value="All">-All Dates-</option>
+      </select>
+    </div>
+
+    
+    <div class="ListingsBrowseChoice">
+      <select name="MusicCategory" class="ListingsBrowseMenu">
+           
+          <option value="" selected="">-All Categories-</option>
+        
+        
+          
+            <option value="oid:6715">Karaoke / Open Mic</option>
+          
+        
+          
+            <option value="oid:6168">Music</option>
+          
+        
+      </select>
+    </div>
+
+    
+    <div class="ListingsBrowseChoice">
+      <select name="Region" class="ListingsBrowseMenu">
+           
+          <option value="" selected="">-All Regions-</option>
+        
+        
+          
+            <option value="oid:5727">Awendaw</option>
+          
+        
+          
+            <option value="oid:4423">Daniel Island</option>
+          
+        
+          
+            <option value="oid:4424">Downtown</option>
+          
+        
+          
+            <option value="oid:4437">Edisto</option>
+          
+        
+          
+            <option value="oid:4427">Folly Beach</option>
+          
+        
+          
+            <option value="oid:4428">Goose Creek</option>
+          
+        
+          
+            <option value="oid:4434">Isle of Palms</option>
+          
+        
+          
+            <option value="oid:4429">James Island</option>
+          
+        
+          
+            <option value="oid:4430">Johns Island</option>
+          
+        
+          
+            <option value="oid:4433">Kiawah</option>
+          
+        
+          
+            <option value="oid:5719">Ladson</option>
+          
+        
+          
+            <option value="oid:19566">McClellanville</option>
+          
+        
+          
+            <option value="oid:5014">Moncks Corner</option>
+          
+        
+          
+            <option value="oid:4425">Mt. Pleasant</option>
+          
+        
+          
+            <option value="oid:4431">North Charleston</option>
+          
+        
+          
+            <option value="oid:4432">Seabrook Island</option>
+          
+        
+          
+            <option value="oid:4436">Sullivan's Island</option>
+          
+        
+          
+            <option value="oid:4435">Summerville</option>
+          
+        
+          
+            <option value="oid:5625">Wadmalaw</option>
+          
+        
+          
+            <option value="oid:6834">Walterboro</option>
+          
+        
+          
+            <option value="oid:4426">West Ashley</option>
+          
+        
+      </select>
+    </div>
+
+    
+    <div class="ListingsBrowseChoice">
+      <input name="searchPhrase" value="Keyword" type="text" size="14" onfocus="this.value=''">
+      <input type="Submit" value="Go">
+    </div></form>
+    </td>
+    </tr>
+    </tbody></table>
+
+    <table class="LSBContent" id="panel:LSBDining" style="display:none;" cellpadding="5px">
+    <tbody><tr>
+    <td valign="top">
+      <div class="LSBTitle">Search Dining:</div>
+      <form name="DiningBrowse" action="http://www.charlestoncitypaper.com/gyrobase/Dining.html" method="get">
+
+    
+    <div class="ListingsBrowseChoice">
+    
+      <select name="DiningCategory" class="ListingsBrowseMenu">
+           
+          <option value="" selected="">-All Categories-</option>
+        
+        
+          
+            <option value="oid:39405">American</option>
+          
+        
+          
+            <option value="oid:39406">Bagels</option>
+          
+        
+          
+            <option value="oid:4441">Bakeries</option>
+          
+        
+          
+            <option value="oid:4442">Barbecue</option>
+          
+        
+          
+            <option value="oid:4443">Bars/Taverns</option>
+          
+        
+          
+            <option value="oid:39407">Breakfast</option>
+          
+        
+          
+            <option value="oid:4445">Caribbean/Cuban</option>
+          
+        
+          
+            <option value="oid:23847">Caterers</option>
+          
+        
+          
+            <option value="oid:39409">Chinese</option>
+          
+        
+          
+            <option value="oid:4444">Coffee/Tea Shops</option>
+          
+        
+          
+            <option value="oid:39408">Delis/Cafés</option>
+          
+        
+          
+            <option value="oid:39410">English/Irish</option>
+          
+        
+          
+            <option value="oid:4446">French</option>
+          
+        
+          
+            <option value="oid:39411">Fusion/Eclectic</option>
+          
+        
+          
+            <option value="oid:4449">Gourmet Groceries</option>
+          
+        
+          
+            <option value="oid:4448">Greek</option>
+          
+        
+          
+            <option value="oid:39651">Hot Dog Joints</option>
+          
+        
+          
+            <option value="oid:37370">Indian</option>
+          
+        
+          
+            <option value="oid:4450">Italian</option>
+          
+        
+          
+            <option value="oid:39436">Mediterranean</option>
+          
+        
+          
+            <option value="oid:4451">Mexican</option>
+          
+        
+          
+            <option value="oid:39412">Modern</option>
+          
+        
+          
+            <option value="oid:4453">Pizza</option>
+          
+        
+          
+            <option value="oid:4454">Seafood</option>
+          
+        
+          
+            <option value="oid:37711">Soul Food</option>
+          
+        
+          
+            <option value="oid:4455">Southern</option>
+          
+        
+          
+            <option value="oid:4456">Steakhouse</option>
+          
+        
+          
+            <option value="oid:39413">Sushi/Japanese/Korean</option>
+          
+        
+          
+            <option value="oid:4457">Tapas</option>
+          
+        
+          
+            <option value="oid:39414">Thai/Vietnamese</option>
+          
+        
+          
+            <option value="oid:4458">Vegetarian/Organic</option>
+          
+        
+          
+            <option value="oid:30774">Wine Bar</option>
+          
+        
+      </select>
+    </div>
+
 
     
     
-  
+      <div class="ListingsBrowseChoice">
+        <select name="Extras" class="ListingsBrowseMenu">
+             
+            <option value="" selected="">-All Features-</option>
+          
+          
+            
+              <option value="oid:4494">Outdoor Dining</option>
+            
+          
+            
+              <option value="oid:4662">Sunday Brunch</option>
+            
+          
+            
+              <option value="oid:4663">Lunch</option>
+            
+          
+            
+              <option value="oid:4664">Dinner</option>
+            
+          
+            
+              <option value="oid:4665">Breakfast</option>
+            
+          
+            
+              <option value="oid:4666">Late Night</option>
+            
+          
+            
+              <option value="oid:4667">Delivery</option>
+            
+          
+            
+              <option value="oid:4830">Live Music</option>
+            
+          
+            
+              <option value="oid:4876">Waterfront</option>
+            
+          
+            
+              <option value="oid:4877">Best of Charleston winner</option>
+            
+          
+            
+              <option value="oid:5259">Valet Parking</option>
+            
+          
+            
+              <option value="oid:5260">Parking</option>
+            
+          
+            
+              <option value="oid:9110">Non-Smoking</option>
+            
+          
+            
+              <option value="oid:15286">Catering</option>
+            
+          
+            
+              <option value="oid:35561">Free Wifi</option>
+            
+          
+        </select>
+      </div>
+    
+
+    
+    <div class="ListingsBrowseChoice">
+      <select name="Region" class="ListingsBrowseMenu">
+           
+          <option value="" selected="">-All Regions-</option>
+        
+        
+            
+              <option value="oid:5727">Awendaw</option>
+            
+        
+            
+              <option value="oid:4423">Daniel Island</option>
+            
+        
+            
+              <option value="oid:4424">Downtown</option>
+            
+        
+            
+              <option value="oid:4437">Edisto</option>
+            
+        
+            
+              <option value="oid:4427">Folly Beach</option>
+            
+        
+            
+              <option value="oid:4428">Goose Creek</option>
+            
+        
+            
+              <option value="oid:4434">Isle of Palms</option>
+            
+        
+            
+              <option value="oid:4429">James Island</option>
+            
+        
+            
+              <option value="oid:4430">Johns Island</option>
+            
+        
+            
+              <option value="oid:4433">Kiawah</option>
+            
+        
+            
+              <option value="oid:5719">Ladson</option>
+            
+        
+            
+              <option value="oid:19566">McClellanville</option>
+            
+        
+            
+              <option value="oid:5014">Moncks Corner</option>
+            
+        
+            
+              <option value="oid:4425">Mt. Pleasant</option>
+            
+        
+            
+              <option value="oid:4431">North Charleston</option>
+            
+        
+            
+              <option value="oid:4432">Seabrook Island</option>
+            
+        
+            
+              <option value="oid:4436">Sullivan's Island</option>
+            
+        
+            
+              <option value="oid:4435">Summerville</option>
+            
+        
+            
+              <option value="oid:5625">Wadmalaw</option>
+            
+        
+            
+              <option value="oid:6834">Walterboro</option>
+            
+        
+            
+              <option value="oid:4426">West Ashley</option>
+            
+        
+      </select>
+     </div>
+
+    
+    <div class="ListingsBrowseChoice">
+      <input name="searchPhrase" value="Keyword" type="text" size="14" onfocus="this.value=''">
+      <input type="Submit" value="Go">
+    </div></form>
+    </td>
+    </tr>
+    </tbody></table>
+  </div>
+     </div>
+   
+
     
      
        <div class="RightAdBox">
-    <iframe class="RightAdFrame" id="2bad50lb" name="2bad50lb" src="http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A3" width="160" height="200" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" align="middle">
-      <a href="http://ads.charlestoncitypaper.com/ads/adclick.php?what=zone%3A3&amp;n=2bad50lb" target="_blank"><img src="http://ads.charlestoncitypaper.com/ads/adview.php?what=zone%3A3&amp;n=2bad50lb" border='0' alt=''></a>
-    </iframe>
-    </div>
-  
-    <div class="RightAdBox">
-    <iframe class="RightAdFrame" id="2bad50lb" name="2bad50lb" src="http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A4" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" align="middle">
-      <a href="http://ads.charlestoncitypaper.com/ads/adclick.php?what=zone%3A4&amp;n=2bad50lb" target="_blank"><img src="http://ads.charlestoncitypaper.com/ads/adview.php?what=zone%3A4&amp;n=2bad50lb" border='0' alt=''></a>
-    </iframe>
-    </div>
-  
-    <div class="RightAdBox">
-    <iframe class="RightAdFrame" id="2bad50lb" name="2bad50lb" src="http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A6" width="160" height="160" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" align="middle">
-      <a href="http://ads.charlestoncitypaper.com/ads/adclick.php?what=zone%3A6&amp;n=2bad50lb" target="_blank"><img src="http://ads.charlestoncitypaper.com/ads/adview.php?what=zone%3A6&amp;n=2bad50lb" border='0' alt=''></a>
-    </iframe>
-    </div>
-  
-    <div class="RightAdBox">
-    <iframe class="RightAdFrame" id="2bad50lb" name="2bad50lb" src="http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A5" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" align="middle">
-      <a href="http://ads.charlestoncitypaper.com/ads/adclick.php?what=zone%3A5&amp;n=2bad50lb" target="_blank"><img src="http://ads.charlestoncitypaper.com/ads/adview.php?what=zone%3A5&amp;n=2bad50lb" border='0' alt=''></a>
-    </iframe>
+      
+        
+        <iframe class="RightAdFrame" id="f466c1lb" name="f466c1lb" src="http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A13" width="300" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" align="middle">
+          <a href="http://ads.charlestoncitypaper.com/ads/adclick.php?what=zone%3A13&amp;n=f466c1lb" target="_blank"><img src="http://ads.charlestoncitypaper.com/ads/adview.php?what=zone%3A13&amp;n=f466c1lb" border='0' alt=''></a>
+        </iframe>
+      
     </div>
      
    </div>
-  </td>
-  <!-- End Right Column -->
+   
+   <!-- Begin Right Column One -->
+  
+  <div class="RightCellOneDiv">
+    
+    
+  
+    
+    
 
+   
+   
+
+    
+    
+  
+    
+     
+       <div class="RightOneAdBox">
+      
+        
+        <iframe class="RightOneAdFrame" id="f466c1lb" name="f466c1lb" src="http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A3" width="160" height="200" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" align="middle">
+          <a href="http://ads.charlestoncitypaper.com/ads/adclick.php?what=zone%3A3&amp;n=f466c1lb" target="_blank"><img src="http://ads.charlestoncitypaper.com/ads/adview.php?what=zone%3A3&amp;n=f466c1lb" border='0' alt=''></a>
+        </iframe>
+      
+    </div>
+  
+    <div class="RightOneAdBox">
+      
+        
+        <iframe class="RightOneAdFrame" id="f466c1lb" name="f466c1lb" src="http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A4" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" align="middle">
+          <a href="http://ads.charlestoncitypaper.com/ads/adclick.php?what=zone%3A4&amp;n=f466c1lb" target="_blank"><img src="http://ads.charlestoncitypaper.com/ads/adview.php?what=zone%3A4&amp;n=f466c1lb" border='0' alt=''></a>
+        </iframe>
+      
+    </div>
+  
+    <div class="RightOneAdBox">
+      
+        
+        <iframe class="RightOneAdFrame" id="f466c1lb" name="f466c1lb" src="http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A5" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" align="middle">
+          <a href="http://ads.charlestoncitypaper.com/ads/adclick.php?what=zone%3A5&amp;n=f466c1lb" target="_blank"><img src="http://ads.charlestoncitypaper.com/ads/adview.php?what=zone%3A5&amp;n=f466c1lb" border='0' alt=''></a>
+        </iframe>
+      
+    </div>
+     
+   </div>
+  <!-- End Right Column One-->
+
+  <!-- Begin Right Column Two -->
+  
+  <div class="RightCellTwoDiv">
+    
+    
+  
+    
+    
+
+   
+   
+
+    
+    
+  
+    
+     
+       <div class="RightTwoAdBox">
+      
+        
+        <iframe class="RightTwoAdFrame" id="f466c1lb" name="f466c1lb" src="http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A8" width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" align="middle">
+          <a href="http://ads.charlestoncitypaper.com/ads/adclick.php?what=zone%3A8&amp;n=f466c1lb" target="_blank"><img src="http://ads.charlestoncitypaper.com/ads/adview.php?what=zone%3A8&amp;n=f466c1lb" border='0' alt=''></a>
+        </iframe>
+      
+    </div>
+  
+    <div class="RightTwoAdBox">
+      
+        
+        <iframe class="RightTwoAdFrame" id="f466c1lb" name="f466c1lb" src="http://ads.charlestoncitypaper.com/ads/adframe.php?what=zone%3A9" width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" align="middle">
+          <a href="http://ads.charlestoncitypaper.com/ads/adclick.php?what=zone%3A9&amp;n=f466c1lb" target="_blank"><img src="http://ads.charlestoncitypaper.com/ads/adview.php?what=zone%3A9&amp;n=f466c1lb" border='0' alt=''></a>
+        </iframe>
+      
+    </div>
+     
+   </div>
+  <!-- End Right Column #2 -->
+
+  <!-- Begin Bottom of Right Column  -->
+  
+  <div class="RightCellBottomDiv">
+    
+     
+       
+     
+  </div> <!-- End Bottom Right Col -->
+
+
+  </td>  <!-- End Whole Right Column -->
   </tr>
   <tr>
 
@@ -442,17 +2009,19 @@
   </div>
 
   
+    <div class="FooterNavBox"><a href="http://www.charlestoncitypaper.com/gyrobase/Page?oid=oid:7186">CONTACT US</a> • <a href="http://www.charlestoncitypaper.com/gyrobase/Content?oid=oid%3A24420">WHERE TO FIND COPIES</a> • <a href="http://www.charlestoncitypaper.com/gyrobase/Page?oid=oid:7185">ADVERTISING INFO</a></div>
+  
 
   <div class="CopyrightBox">
   <span class="copyright">
     
     Powered by <a href="http://www.desert.net/" target="_blank">Gyrosite</a>
     
- © Copyright 2007,
+ © Copyright 2008,
   <a href="http://www.charlestoncitypaper.com">Charleston City Paper</a>
 
  
-   &nbsp;&nbsp;<a href="/gyrobase/Syndication"><img src="/images/rss.gif" alt="RSS" width="36" height="14" border="0" align="top"></a>
+   &nbsp;&nbsp;<a href="http://www.charlestoncitypaper.com/gyrobase/Syndication"><img src="/images/rss.gif" alt="RSS" width="36" height="14" border="0" align="top"></a>
   
   </span></div>
      </td>
@@ -473,7 +2042,18 @@
     </script>
   
 
+  <!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-62vCixfRK5kes";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-62vCixfRK5kes" target="_blank"><img
+src="http://pixel.quantserve.com/pixel/p-62vCixfRK5kes.gif"
+style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
   
-  
+    
+    
 
 </body></html>
