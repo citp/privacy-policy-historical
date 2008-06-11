@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iblog.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214024406id_/http%3A//www.iblog.com/home.php%3Fop%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iblog.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611222229id_/http%3A//www.iblog.com/home.php%3Fop%3DPrivacy) for the most accurate reproduction.*
 
 # I Blog, therefore I am - Get a free Blog, Blogging Services at iBlog.com
 
