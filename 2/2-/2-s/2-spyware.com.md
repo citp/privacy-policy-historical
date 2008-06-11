@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-spyware.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213032811id_/http%3A//www.2-spyware.com/articles/documents/20.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-spyware.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611124116id_/http%3A//www.2-spyware.com/articles/documents/20.html) for the most accurate reproduction.*
 
 # Privacy Policy - spyware news
 
@@ -12,4 +12,4 @@ Note that we can disclose your aggregate information to third parties, but only 
 
 The security and confidentiality of your information is extremely important to us. We ensure implemented technical, administrative, and physical security measures to protect your information from unauthorized access and improper use. But note that despite our best efforts, no security measures are perfect or impenetrable.
 
-This entry was posted on Sunday, February 13th, 2005 at 9:11 am and is filed under [Articles](http://www.2-spyware.com/news/category12.html "View all posts in Articles"), [Documents](http://www.2-spyware.com/news/category13.html "View all posts in Documents"). You can leave a response, or [trackback](http://www.2-spyware.com/news/wp-trackback.php?p=173) from your own site. 
+This entry was posted on Sunday, February 13th, 2005 at 9:11 am and is filed under [Articles](http://www.2-spyware.com/news/postcategory/articles "View all posts in Articles"), [Documents](http://www.2-spyware.com/news/postcategory/articles/documents "View all posts in Documents"). You can leave a response, or [trackback](http://www.2-spyware.com/news/post173.html/trackback) from your own site. 
