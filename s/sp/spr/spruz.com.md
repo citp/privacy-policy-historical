@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spruz.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211233916id_/http%3A//spruz.com/main.asp%3Fpage%3Dcsm%26cmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spruz.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611061836id_/http%3A//www.spruz.com/main.asp%3Fpage%3Dcsm%26cmd%3Dprivacy) for the most accurate reproduction.*
 
-# Spruz - Create a Free Website, Website Community, Free Blog Website, Unlimited Webpages
+# Spruz - Make a Free Website , Free Community Websites. Website Building
 
 **PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY**
 
