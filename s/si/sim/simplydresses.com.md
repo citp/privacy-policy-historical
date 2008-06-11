@@ -1,23 +1,57 @@
-> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225110641id_/http%3A//www.simplydresses.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611074531id_/http%3A//www.simplydresses.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
 
 # Prom Dresses Homecoming Dresses Prom Gowns Shoes Special Occasion Dresses and Accessories from Simplydresses.com
 
-For questions, please contact our returns department via email at [returns@Simplydresses.com](mailto:returns@Simplydresses.com). All return requests must be through email for your safety and security. 
+[**Return and Exchange Policy**](http://www.simplydresses.com/info/policies.cfm#return)  
+[**Telephone Orders**](http://www.simplydresses.com/info/policies.cfm#telephone)  
+[**Fax Orders**](http://www.simplydresses.com/info/policies.cfm#fax)  
+[**Money Orders**](http://www.simplydresses.com/info/policies.cfm#mo)  
+[**Delivery Times**](http://www.simplydresses.com/info/policies.cfm#delivery)  
+[**Shipping**](http://www.simplydresses.com/info/policies.cfm#shipping)  
+[**Low Price Guarantee**](http://www.simplydresses.com/info/policies.cfm#lowpriceguarantee)  
+[**Payment Methods**](http://www.simplydresses.com/info/policies.cfm#payment)  
+[**Security**](http://www.simplydresses.com/info/policies.cfm#security)  
+[**Privacy policy**](http://www.simplydresses.com/info/policies.cfm#privacypolicy)  
+[**Cookies**](http://www.simplydresses.com/info/policies.cfm#cookies)  
 
-\- top of page -
+
+**Return and Exchange policy**
+
+If for any reason you are not completely satisfied with your purchase you may return your merchandise for store credit less shipping costs and restocking fees. You must contact us within 5 days of receiving your order for a return authorization number.
+
+Exceptions:  
+Final Sale – No Returns: There are no returns, exchanges or cancellations on any sale merchandise. 
+
+Important note: There are no returns, exchanges or cancellations on custom made, final sales, or sale merchandise. Stay up tape, lingerie, cosmetics, and visors will not be accepted for return.
+
+Please Note: Any returns or exchanges postmarked after 5 days of your receipt date and/or missing a return authorization number will be returned to you at your shipping expense. The goods must be returned in original condition. We have 100% inspection on merchandise leaving the warehouse. Returns are inspected upon receipt. Items must not have been worn, washed, altered and have all originals tags attached and in original packaging. Items with snags, rips, make-up stains, odors (i.e. cigarette smoke) or other damages will result in the item being returned to you. If you do not accept the item being returned to you, we will charge you 50% of the value of the item, plus shipping charges, as a restocking fee. Store credit is valid for one year after issue date.
+
+Restocking Fees: There is a 10% restocking fee for all single dress returns and exchanges. Returns of two or more dresses have restocking fees as followed: 
+
+two dresses - 20%  
+three dresses - 25%  
+four dresses - 30%  
+five or more dresses - 40%  
+
+
+There is a 20% restocking fee for all non dress returns and exchanges. 
+
+For questions, please email us at [returns@simplydresses.com](mailto:returns@simplydresses.com), do not call for a return authorization. All requests must be done by emailing [returns@simplydresses.com](mailto:returns@simplydresses.com)
+
+[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
 
   
 **Telephone Orders**
 
 For customers not wishing to place their order online you may email your phone number to [Support@Simplydresses.com.](mailto:support@Simplydresses.com) Please include an appropriate time to contact you and your time zone or state where you are calling from. One of our service representatives will contact you to take your order information within 24 hours. Or you can call us at our toll free number 1-302-449-1500 between 10 AM and 5 PM EST Monday through Friday.
 
-\- top of page -
+[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
 
 **Fax orders**
 
 Customers may fax their order information by printing the [form linked here](http://simplydresses.com/pdfs/fax_form.pdf) and faxing to 302-449-1490. We will enter your information and you will receive an email confirmation of your order. 
 
-\- top of page -
+[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
 
 **Money Orders**
 
@@ -27,7 +61,7 @@ Simply Dresses
 7 Crenshaw Ct.  
 Middletown DE 19709
 
-\- top of page -
+[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
 
 **Delivery Times**
 
@@ -37,11 +71,11 @@ All orders of in stock merchandise placed before 9 AM EST will be shipped the sa
 
 Please allow 6 additional weeks for customized dresses, and 5 days for dying handbags and shoes.
 
-\- top of page -
+[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
 
 **Shipping**
 
-\- top of page -
+[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
 
 **Low Price Guarantee**
 
@@ -49,7 +83,7 @@ If you find a lower price on any item we carry online, we will beat it +2%. If y
 
 Exceptions: Advertised price must be online and we must be able to see it! This does not apply to any item marked ‘sale’ (clearance, special, etc), or auctions. 
 
-\- top of page -
+[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
 
 **Payment Methods**
 
@@ -62,7 +96,7 @@ Middletown DE 19709
 
 Please include your name, phone number, email address, shipping address, style number, size and color.
 
-\- top of page -
+[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
 
 **Security**
 
@@ -74,7 +108,7 @@ In the unlikely event of fraudulent use, you must notify your credit card provid
 
 Tax Information Applicable state and local sales tax will be added to all orders shipped to New York addresses. Sales tax will not be charged on shipments to recipients outside New York. 
 
-\- top of page -
+[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
 
 **PRIVACY POLICY**
 
@@ -92,13 +126,13 @@ Additionally, Simplydresses.com logs your Internet Protocol Address (IP). An IP 
 
 Your information is secure with Simplydresses.com! Protecting your order information is a priority. Promgirl.com makes every effort to protect your online order information using Secure Sockets Layer (SSL) technology. 
 
-SSL encrypts your order information to avoid the decoding of that information by anyone other than [Simplydresses.com](https://web.archive.org/web/20071225110641id_/http%3A//www.simplydresses.com/info/www.simplydresses.com). To check the security of your connection, look at the lower left-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active. You can also double check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https". 
+SSL encrypts your order information to avoid the decoding of that information by anyone other than [Simplydresses.com](http://www.simplydresses.com/info/www.simplydresses.com). To check the security of your connection, look at the lower left-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active. You can also double check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https". 
 
 Some versions of firewalls don't permit communication through secure servers. In that case, you will be unable to connect to the server (and you won't have to worry about placing an order through an unsecured connection). 
 
 If you cannot access a secure server for any reason, please feel free to use our offline order form available upon check out, or place your order by phone. 
 
-\- top of page -
+[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
 
 **Cookies, what are they? How and why we use them.**
 
@@ -108,7 +142,7 @@ Simplydresses.com uses cookies to identify returning registrants to the site so 
 
 Although most browsers automatically accept cookies, you can usually change your browser to prevent cookies or notify you whenever you are sent a cookie. This gives you the option to decide whether or not to accept it. 
 
-\- top of page -
+[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
 
 ******************
 
