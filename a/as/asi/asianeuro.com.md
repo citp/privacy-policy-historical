@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asianeuro.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230173806id_/http%3A//www.asianeuro.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianeuro.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611172254id_/http%3A//www.asianeuro.com/Privacy.cfm) for the most accurate reproduction.*
 
-# AsianEuro.com - Asian Dating, Asian Singles, Asian Personals, Asian Marriage
+# AsianEuro.com | Privacy Policy
 
 **CUPID MEDIA PTY LTD PRIVACY POLICY**
 
