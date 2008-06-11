@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redlands.edu privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024165228id_/http%3A//www.redlands.edu/x14087.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redlands.edu privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611100850id_/http%3A//www.redlands.edu/x14087.xml) for the most accurate reproduction.*
 
 # University of Redlands - Privacy Policy
 
