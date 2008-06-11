@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cwjobs.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213015812id_/http%3A//www.cwjobs.co.uk/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwjobs.co.uk privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611103346id_/http%3A//www.cwjobs.co.uk/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy policy - CWJobs.co.uk
+# CWJobs.co.uk
 
 At CWJobs.co.uk we make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the site. 
 
@@ -38,9 +38,9 @@ You have the option to decline or accept these cookies, but if you decline you w
 
 **We strongly recommend you accept cookies.**
 
-Accept cookies        Decline cookies 
+[Accept cookies](https://web.archive.org/)       [Decline cookies](https://web.archive.org/)
 
-In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: [Adtech](http://www.adtech.info/en/cookie_opt-out.html), [Emediate](http://www.emediate.dk/privacy.html) and [Dartmail](http://www.doubleclick.com/us/about_doubleclick/privacy/). 
+In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: [Adtech](http://www.adtech.info/en/cookie_opt-out.html), [Atlas](http://www.atlassolutions.com/privacy.aspx), [Emediate](http://www.emediate.dk/privacy.html), [Webtrends](https://ondemand.webtrends.com/privacypolicy.asp) and [Epsilon](http://www.epsilon.com/privacy.html). 
 
 **Statistical information**   
 We provide aggregate statistical information about site visitors and users to recruiters (such as the number of CVs on the database, or the number of visitors to the site) and for other lawful purposes. We provide this information to customers, advertisers, suppliers and other reputable third parties. This will not include any information that enables them to identify individuals. 
