@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animal-world.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211133106id_/http%3A//animal-world.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animal-world.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611155536id_/http%3A//animal-world.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -96,7 +96,8 @@ At the user's option, we will collect the following data:
 This data will be used for the following purposes:
 
   * Completion and support of the current activity.
-  * Contacting visitors for marketing of services or products. The user must **opt-in** to this usage.
+  * Contacting visitors for marketing of services or products. The user  
+must **opt-in** to this usage.
 
 
 
@@ -124,10 +125,8 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 ## Compact Policy Summary
 
 The compact policy which corresponds to this policy is: 
-    
-    
-        CP="IDC CURa ADMa DEVa PSAa PSDa CONi OUR NOR IND PHY ONL UNI COM NAV INT"
-    
+
+CP="IDC CURa ADMa DEVa PSAa PSDa CONi OUR NOR IND PHY ONL UNI COM NAV INT" 
 
 The following table explains the meaning of each field in the compact policy. 
 
