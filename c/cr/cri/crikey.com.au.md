@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crikey.com.au privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213220459id_/http%3A//www.crikey.com.au/About/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crikey.com.au privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611225311id_/http%3A//www.crikey.com.au/About/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-Crikey’s daily email and the website, www.crikey.com.au are published by Private Media Pty Ltd (ABN 11 102 933 362), which employs staff and manages subscriber databases and accounting services for Blimey Holdings Pty Ltd, its vehicle for ownership of the Crikey business. In this privacy policy Private Media Partners is referred to as “Crikey”.
+Crikey’s daily email and the website, www.crikey.com.au are published by Private Media Pty Ltd (ABN 11 102 933 362), which employs staff and manages subscriber databases and accounting services for Blimey Holdings Pty Ltd, its vehicle for ownership of the Crikey business. In this privacy policy Private Media Pty Ltd is referred to as “Crikey”.
 
  **Privacy Policy Purpose**
 
@@ -22,11 +22,11 @@ Crikey will provide, where possible, access for providers of personal informatio
 
 The Office Manager
 
-Private Media Partners
+Private Media Pty Ltd
 
-PO Box 1380
+Level 7, 22 William St
 
-Collingwood VIC 3066
+Melbourne, VIC, 3000
 
 Reasonable steps will be taken to correct the information so that it is accurate, complete and up to date.
 
@@ -40,11 +40,11 @@ Queries regarding privacy complaints and disputes should be addressed to:
 
 The Office Manager
 
-Private Media Partners
+Private Media Pty Ltd
 
-PO Box 1380
+Level 7, 22 William St 
 
-Collingwood VIC 3066
+Melbourne, VIC, 3000   
 
 Crikey will investigate all complaints.
 
