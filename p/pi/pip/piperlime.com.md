@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the piperlime.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013163901id_/http%3A//www.piperlime.com/customerService/info.do%3Fcid%3D4227) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piperlime.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611145449id_/http%3A//www.piperlime.com/customerService/info.do%3Fcid%3D4227) for the most accurate reproduction.*
 
-# piperlime.com: Privacy policy
+# Privacy policy | Piperlime
 
 **What kind of information does Gap Inc. collect?**
 
@@ -60,7 +60,9 @@ Gap Inc. and our brands, Gap, Banana Republic, Old Navy, and Piperlime, want to 
 
 Please be sure to include your full name and the email address you used when you registered with or made a purchase from the Gap Inc. brand. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your email request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Gap Inc.
 
-If you change your mind, you can start receiving promotional communications from us again by logging into your online account and changing your preferences, by signing up when you visit our websites or our stores or when you enter a sweepstakes or contest, or by contacting customer service. Please note that when you make an online purchase from us, we will continue to confirm your order status and shipment by email. We may also need to contact you via telephone, email or postal mail with questions or information regarding your order.
+If you change your mind, you can start receiving promotional communications from us again by logging into your online account and changing your preferences, by signing up when you visit our websites or our stores or when you enter a sweepstakes or contest, or by contacting customer service. 
+
+_Please note_ that when you make an online purchase from us, we will continue to confirm your order status and shipment by email. We may also need to contact you via telephone, email or postal mail with questions or information regarding your order.
 
 Back to top
 
@@ -72,7 +74,7 @@ Back to top
 
 **How does Gap Inc. use cookies?**
 
-Our websites use "cookies," which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.
+Our websites use "cookies", which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.
 
 For example, we may use cookies to enable you to use certain website features, remember the items in your shopping cart, store your preferences, recognize you when you return to our website, track your orders, and monitor and maintain information about your use of our websites. Cookies may also be used to collect transaction information needed by a scrip or loyalty program to which you have authorized us to provide your personal information. (See the section entitled, "Does Gap Inc. share my information?", above.)
 
@@ -101,7 +103,7 @@ We do our best to provide you with a safe and convenient shopping experience. We
 
 When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to "https."
 
-If for any reason you cannot access the secure server, or if you're not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled, "How do I contact you?", below. Customer Services representatives at each of our brands are available 24 hours a day, seven days a week, and will be happy to assist you.
+If for any reason you cannot access the secure server, or if you're not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled, "How do I contact you?", below. Customer Services representatives at each of our brands will be happy to assist you.
 
 Back to top
 
