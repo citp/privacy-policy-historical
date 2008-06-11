@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the my-proxy.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025045748id_/http%3A//www.my-proxy.com/com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-proxy.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612000539id_/http%3A//www.my-proxy.com/com/privacy.php) for the most accurate reproduction.*
 
-# My-Proxy - Privacy Policy
+# Privacy Policy - My-Proxy
 
 ### Privacy Policy
 
-[Home](http://www.my-proxy.com/index.php) » Privacy Policy
+[My-Proxy](http://www.my-proxy.com/) » Privacy Policy
 
 ## My-Proxy Privacy Policy
 
