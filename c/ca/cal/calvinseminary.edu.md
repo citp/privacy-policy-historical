@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calvinseminary.edu privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213051210id_/http%3A//www.calvinseminary.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calvinseminary.edu privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611122706id_/http%3A//www.calvinseminary.edu/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -63,4 +63,4 @@ We do not collect or maintain information at our Site from those we know are und
 
 When you use a link to go from this Site to a web site operated by a third party, this Privacy Policy is no longer in effect. We are not responsible for the privacy practices employed by third party web sites linked to or from our Site, nor for the information or content contained therein.
 
-Questions regarding this Privacy Policy, our practices, or your dealings with this Site should be directed to our Information Technology Office at 1-616-957-6111 or send an email inquiry to [semit@calvinseminary.edu](mailto:semit@calvinseminary.edu). 
+Questions regarding this Privacy Policy, our practices, or your dealings with this Site should be directed to our Information Technology Office at 1-616-957-6111 or [via email inquiry](https://web.archive.org/it/contact/?category=20 "Contact"). 
