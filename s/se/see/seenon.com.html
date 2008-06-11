@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the seenon.com privacy policy that was archived on 2007-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011125141id_/http%3A//www.seenon.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seenon.com privacy policy that was archived on 2008-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080611144728id_/http%3A//www.seenon.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>SeenON! Privacy Page</title>
 
     <meta http-equiv="content-type" content="text/html;charset=utf-8">
@@ -9,19 +9,50 @@
     <meta name="description" content="SeenON! is your one stop resource for products seen on your favorite TV shows, movies, celebrities and sports stars. From celebrity fashions, on set furniture, cool electronics to fave travel spots and music, SeenON! is the authority on products seen on screen.">
     <meta name="revisit-after" content="1 day">
 	
-	<link href="/css/seenonstyle_main.css" rel="stylesheet" type="text/css">
-	<link href="/css/seenonstyle_gen.css" rel="stylesheet" type="text/css">
-	<link href="/css/seenonstyle.css" rel="stylesheet" type="text/css">
-    		
-	<script src="/js/scriptaculous/prototype.js" type="text/javascript"></script>
-	<script src="/js/scriptaculous/effects.js" type="text/javascript"></script>
-	<script src="/js/scriptaculous/dragdrop.js" type="text/javascript"></script>
-	<script src="/js/scriptaculous/controls.js" type="text/javascript"></script>
+	<link href="/css/meebus.css" rel="stylesheet" type="text/css">
+	<link href="/css/main.css" rel="stylesheet" type="text/css">
+	<link href="/css/general.css" rel="stylesheet" type="text/css">
+	<link href="/css/all.css" rel="stylesheet" type="text/css">
 
-	<script type="text/javascript" src="/js/swfobject.js"></script>
-	<script type="text/javascript" src="/js/addn.js"></script>
-
+	<script type="text/javascript" src="/js/mootools.js"></script>
+	
 	<script type="text/javascript">
+	
+		window.addEvent('domready', function(){
+		
+			var mySlide = new Fx.Slide('loginFold');
+			
+			mySlide.hide();
+			$('loginFold').setStyle('display', 'block');
+			 
+			$('slidein').addEvent('click', function(e){
+				e = new Event(e);
+				mySlide.toggle();
+				e.stop();
+			});
+			 
+			$('slideout').addEvent('click', function(e){
+				e = new Event(e);
+				mySlide.toggle();
+				e.stop();
+			});
+			
+			if ($('slidetoo')) {
+				$('slidetoo').addEvent('click', function(e){
+					e = new Event(e);
+					mySlide.toggle();
+					e.stop();
+				});
+			}
+			
+		});
+	</script>
+	
+	<script type="text/javascript" src="/js/addn.js"></script>
+	<script type="text/javascript" src="/js/swfobject.js"></script>
+	<script type="text/javascript">
+
+	
 		window.name = "main";
             	var querryString = location.search;
             	if(querryString.search("shopisode=true") != -1) {
@@ -47,17 +78,26 @@
 				win.window.focus();
 			}
 		}
-
-
-
 	</script>
-	
 
-    </head>
+</head>
 
 <body>
+	<script type="text/javascript">
+		var WRInitTime=(new Date()).getTime();
+	</script>
 
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-3474441-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script> 
 
+	
 <script type="text/javascript">
 // HBX 2.0
 var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
@@ -107,47 +147,46 @@ hbx.pec="";//ERROR CODES
 
 
 </script><script type="text/javascript" src="/js/hbx.js"></script>
-
-	<div id="container">
-		
-        		<div id="mainHeader">
-
-			<div id="mainSignIn">			<a href="https://www.seenon.com/account/login/%252Fprivacy%252F" onclick="new Effect.SlideDown(document.getElementById('loginWindow'));return false;" class="rdd1" title="Log in to SeenON!">Log in</a> | <a href="https://www.seenon.com/win/diamonds/" title="Register Now">Register Now</a>			</div>
-			<div id="loginWindow" style="display:none;">
-				<form method="post" action="https://www.seenon.com/account/login/%252Fprivacy%252F">
-				<table>
-					<tbody><tr>
-						<td class="redd bld size13">Username</td>
-						<td style="text-align:right;"><input type="text" name="username" size="30" maxlength="48" value="">
-
-						</td>
-					</tr>
-					<tr>
-						<td class="redd bld size13">Password</td>
-						<td style="text-align:right;"><input type="password" name="password" size="30" maxlength="24">
-						
-						</td>
-					</tr>
-				</tbody></table>
-				<table>
-					<tbody><tr>
-						<td style="text-align:left;">Remember Me
-						<input type="checkbox" name="remember_login" value="1" class="basic">
-						
-						</td>
-						<td style="text-align:right;"><input type="image" src="/img/altSubmit.gif" style="width:96px;height:17px;"></td>
-					</tr>
-					<tr>
-						<td colspan="2"><a href="https://www.seenon.com/account/retrieve">forgot password?</a></td>
-					</tr>
-					<tr>
-						<td colspan="2" style="text-align:center;"><a href="#" onclick="document.getElementById('loginWindow').style.display='none';return false;" class="size10"><strong>CLOSE</strong></a>	</td>
-					</tr>
-				</tbody></table>
-				</form>
-						</div>
-
-
+<div id="badHead"><!-- begin ZEDO for channel: SeenON! , publisher: SeenON! , Ad Dimension: Super Banner - 728 x 90 -->
+<iframe src="http://d3.zedo.com/jsc/d3/ff2.html?n=813;c=1;s=1;d=14;w=728;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="728" height="90">
+</iframe>
+<!-- end ZEDO for channel: SeenON! , publisher: SeenON! , Ad Dimension: Super Banner - 728 x 90 -->
+</div>
+	<div id="mainBody">
+		<div id="headCham">
+			<a href="http://www.seenon.com/television//" title="" style="display:block;float:left;width:680px;height:63px;"></a>
+			<div id="nnDiv">
+				<ul id="netNav">
+					<li><a href="#" onclick="return false;"><img src="/img/network/all/selectShow.gif" alt="Select your show here" style="width:198px;margin-top:17px;"></a><br>
+						<ul>
+							<li class="opener">&nbsp;</li>
+							<li class="closer">&nbsp;</li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+			<a href="/" title="SeenON!" style="display:block;float:right;width:100px;height:63px;"></a>
+			<div class="clean"></div>
+		</div>
+		<div id="head">
+			<a href="/" title="SeenON!"><img src="/img/all/logo.gif" alt="SeenON!" style="position:absolute;top:8px;left:13px;"></a>
+			<div id="headRight">
+							<a href="#" id="slidein" onclick="return false;" title="Log in to SeenON!">Log in</a> | <a href="http://www.seenon.com/win/lost/" title="Register Now">Register Now</a>
+								<div id="loginFold">
+					<form method="post" action="http://www.seenon.com/account/login/%252Fprivacy%252F">
+					<div class="sptL redd bld size13">Username</div>
+					<div class="sptR"><input type="text" name="username" size="30" maxlength="48" value="" style="width:150px;"></div>
+					<div class="clean"></div>
+					<div class="sptL redd bld size13">Password</div>
+					<div class="sptR"><input type="password" name="password" size="30" maxlength="24" style="width:150px;"></div>
+					<div class="redd bld size13" style="clear:both;text-align:right;padding:2px 0px;">Remember Me <input type="checkbox" name="remember_login" value="1" class="basic"></div>
+					<div class="redd bld size13"><input type="image" src="/img/altSubmit.gif" style="width:96px;height:17px;"></div>
+					<div style="clear:both;text-align:right;"><a href="http://www.seenon.com/account/retrieve" class="size10 bld">forgot password?</a></div>
+					<div style="text-align:center;"><a id="slideout" href="#" onclick="return false;" class="size10 bld">CLOSE</a></div>
+					</form>
+				</div>
+				</div>
+			
 			<script type="text/javascript">
 				topping = function() {
 					var sfEls = document.getElementById("topnav").getElementsByTagName("LI");
@@ -163,255 +202,293 @@ hbx.pec="";//ERROR CODES
 				if (window.attachEvent) window.attachEvent("onload", topping);
 			</script>
 
-			<table cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td style="width:125px;"><a href="http://www.seenon.com/"><img src="/img/logo.jpg" alt="SeenON!" style="width:125px;height:95px;"></a></td>
-					<td style="width:449px;">
-						<ul id="topnav">
-							<li><a href="/television/" title="TV" class="tv" style="font-size:0px;line-height:0px;">TV</a>
-								<ul class="shortSub">
-									<li class="shortSub"><a href="#" onclick="return false;" title="ABC" class="shortSub">ABC</a>
-										<ul>
-											<li style="border-top:1px solid #d55f73;"><a href="http://www.seenon.com/television/abc/dancing-with-the-stars/" title="Dancing with the Stars">Dancing with the Stars</a></li>
-											<li><a href="/television/abc/desperate-housewives/" title="Desperate Housewives">Desperate Housewives</a></li>
-											<li><a href="/television/abc/greys-anatomy/" title="Grey's Anatomy">Grey's Anatomy</a></li>
-											<li><a href="/television/abc/ugly-betty/" title="Ugly Betty">Ugly Betty</a></li>
-											<li><a href="/television/abc/the-view/" title="The View">The View</a></li>
-											<li><a href="/television/abc/" title="More on ABC" style="background-image:none;">More...</a></li>
-											<li style="background:none;border:none;line-height:3px;height:3px;width:160px;"><table cellpadding="0" cellspacing="0" style="width:160px;height:3px;line-height:3px;">
-													<tbody><tr>
-														<td style="width:3px;"><img src="/img/topnav/navBotL.gif" alt="SeenON!"></td>
-														<td style="width:184px;background:#ffffff url(/img/topnav/navBotBG.gif) repeat-x bottom left;"></td>
-														<td style="width:3px;"><img src="/img/topnav/navBotR.gif" alt="SeenON!"></td>
-													</tr>
-												</tbody></table></li>
-										</ul>
-									</li>
-									<li class="shortSub"><a href="/television/nbc/" title="NBC" class="shortSub">NBC</a>
-										<ul style="top:27px;">
-											<li style="border-top:1px solid #d55f73;"><a href="http://www.seenon.com/television/nbc/the-biggest-loser/" title="The Biggest Loser">The Biggest Loser</a></li>
-											<li><a href="/television/nbc/deal-no-deal/" title="Deal or No Deal">Deal or No Deal</a></li>
-											<li><a href="/television/nbc/las-vegas/" title="Las Vegas">Las Vegas</a></li>
-											<li><a href="/television/nbc/the-office/" title="The Office">The Office</a></li>
-											<li><a href="/television/nbc/" title="More on NBC" style="background-image:none;">More...</a></li>
-											<li style="background:none;border:none;line-height:3px;height:3px;width:160px;"><table cellpadding="0" cellspacing="0" style="width:160px;height:3px;line-height:3px;">
-													<tbody><tr>
-														<td style="width:3px;"><img src="/img/topnav/navBotL.gif" alt="SeenON!"></td>
-														<td style="width:184px;background:#ffffff url(/img/topnav/navBotBG.gif) repeat-x bottom left;"></td>
-														<td style="width:3px;"><img src="/img/topnav/navBotR.gif" alt="SeenON!"></td>
-													</tr>
-												</tbody></table></li>
-										</ul>
-									</li>
-									<li class="shortSub"><a href="/television/mtv/" title="MTV" class="shortSub">MTV</a>
-										<ul style="top:54px;">
-											<li style="border-top:1px solid #d55f73;"><a href="/television/mtv/the-real-world/" title="The Real World">The Real World</a></li>
-											<li><a href="/television/mtv/newport-harbor/" title="Newport Harbor">Newport Harbor</a></li>
-											<li><a href="/television/mtv/the-hills/" title="The Hills">The Hills</a></li>
-											<li><a href="/television/mtv/laguna-beach/" title="Laguna Beach">Laguna Beach</a></li>
-											<li><a href="/television/mtv/my-super-sweet-16/" title="My Super Sweet 16" style="background-image:none;">My Super Sweet 16</a></li>
-											<li style="background:none;border:none;line-height:3px;height:3px;width:160px;"><table cellpadding="0" cellspacing="0" style="width:160px;height:3px;line-height:3px;">
-													<tbody><tr>
-														<td style="width:3px;"><img src="/img/topnav/navBotL.gif" alt="SeenON!"></td>
-														<td style="width:184px;background:#ffffff url(/img/topnav/navBotBG.gif) repeat-x bottom left;"></td>
-														<td style="width:3px;"><img src="/img/topnav/navBotR.gif" alt="SeenON!"></td>
-													</tr>
-												</tbody></table></li>
-										</ul>
-									</li>
-									<li class="shortSub"><a href="/television/soapnet/" onclick="return false;" title="HGTV" class="shortSub">HGTV<img src="/img/topnav/new.gif" alt="New!" style="margin-top:-2px;"></a>
-										<ul style="top:81px;">
-											<li style="border-top:1px solid #d55f73;"><a href="http://www.seenon.com/television/hgtv/divine-design/" title="Divine Design" style="background-image:none;">Divine Design</a></li>
-											<li style="background:none;border:none;line-height:3px;height:3px;width:160px;"><table cellpadding="0" cellspacing="0" style="width:160px;height:3px;line-height:3px;">
-													<tbody><tr>
-														<td style="width:3px;"><img src="/img/topnav/navBotL.gif" alt="SeenON!"></td>
-														<td style="width:184px;background:#ffffff url(/img/topnav/navBotBG.gif) repeat-x bottom left;"></td>
-														<td style="width:3px;"><img src="/img/topnav/navBotR.gif" alt="SeenON!"></td>
-													</tr>
-												</tbody></table></li>
-										</ul>
-									</li>
-									<li class="shortSub"><a href="#" title="Style" class="shortSub">Style</a>
-										<ul style="top:108px;">
-											<li style="border-top:1px solid #d55f73;"><a href="http://www.seenon.com/television/style/clean-house/" title="Clean House">Clean House</a></li>
-											<li><a href="/television/style/dress-my-nest/" title="Dress My Nest">Dress My Nest</a></li>
-											<li><a href="/television/style/how-do-i-look/" title="How Do I Look?">How Do I Look?</a></li>
-											<li><a href="/television/style/my-celebrity-home/" title="My Celebrity Home">My Celebrity Home</a></li>
-											<li><a href="/television/style/style-her-famous/" title="Style Her Famous" style="background-image:none;">Style Her Famous</a></li>
-											<li style="background:none;border:none;line-height:3px;height:3px;width:160px;"><table cellpadding="0" cellspacing="0" style="width:160px;height:3px;line-height:3px;">
-													<tbody><tr>
-														<td style="width:3px;"><img src="/img/topnav/navBotL.gif" alt="SeenON!"></td>
-														<td style="width:184px;background:#ffffff url(/img/topnav/navBotBG.gif) repeat-x bottom left;"></td>
-														<td style="width:3px;"><img src="/img/topnav/navBotR.gif" alt="SeenON!"></td>
-													</tr>
-												</tbody></table></li>
-										</ul>
-									</li>
-									<li class="shortSub"><a href="/television/tv-guide/" onclick="return false;" title="TV Guide" class="shortSub">TV Guide</a>
-										<ul style="top:135px;">
-											<li style="border-top:1px solid #d55f73;"><a href="http://www.seenon.com/television/tv-guide/the-fashion-team/" title="The Fashion Team" style="background-image:none;">The Fashion Team</a></li>
-											<li style="background:none;border:none;line-height:3px;height:3px;width:160px;"><table cellpadding="0" cellspacing="0" style="width:160px;height:3px;line-height:3px;">
-													<tbody><tr>
-														<td style="width:3px;"><img src="/img/topnav/navBotL.gif" alt="SeenON!"></td>
-														<td style="width:184px;background:#ffffff url(/img/topnav/navBotBG.gif) repeat-x bottom left;"></td>
-														<td style="width:3px;"><img src="/img/topnav/navBotR.gif" alt="SeenON!"></td>
-													</tr>
-												</tbody></table></li>
-										</ul>
-									</li>
-									<li class="shortSub"><a href="/television/soapnet/" onclick="return false;" title="SOAPnet" class="shortSub">SOAPnet</a>
-										<ul style="top:162px;">
-											<li style="border-top:1px solid #d55f73;"><a href="http://www.seenon.com/television/soapnet/the-fashionista-diaries/" title="The Fashionista Diaries" style="background-image:none;">The Fashionista Diaries</a></li>
-											<li style="background:none;border:none;line-height:3px;height:3px;width:160px;"><table cellpadding="0" cellspacing="0" style="width:160px;height:3px;line-height:3px;">
-													<tbody><tr>
-														<td style="width:3px;"><img src="/img/topnav/navBotL.gif" alt="SeenON!"></td>
-														<td style="width:184px;background:#ffffff url(/img/topnav/navBotBG.gif) repeat-x bottom left;"></td>
-														<td style="width:3px;"><img src="/img/topnav/navBotR.gif" alt="SeenON!"></td>
-													</tr>
-												</tbody></table></li>
-										</ul>
-									</li>
-									<li class="shortSub"><a href="/television/" title="More in Television" class="shortSub" style="background-image:none;">More...</a></li>
-									<li style="background:none;border:none;line-height:3px;height:3px;width:105px;"><table cellpadding="0" cellspacing="0" style="width:105px;height:3px;line-height:3px;">
-											<tbody><tr>
-												<td style="width:3px;"><img src="/img/topnav/navBotL.gif" alt="SeenON!"></td>
-												<td style="width:99px;background:#ffffff url(/img/topnav/navBotBG.gif) repeat-x bottom left;"></td>
-												<td style="width:3px;"><img src="/img/topnav/navBotR.gif" alt="SeenON!"></td>
-											</tr>
-										</tbody></table></li>
-								</ul>
-							</li>
-							<li><a href="/celebrities/" title="Celebrity Style" class="celeb_style" style="font-size:0px;line-height:0px;">CELEB STYLE</a>
-								<ul>
-									<li><a href="/celebrities/shoe-trends/" title="Shoe Trends">Shoe Trends</a></li>
-									<li><a href="/celebrities/nordstrom-fall-trends/" title="Nordstrom Fall Trends">Nordstrom Fall Trends</a></li>
-									<li><a href="/celebrities/juicy-fall-trends/" title="Juicy Fall Trends">Juicy Fall Trends</a></li>
-									<li><a href="/celebrities/jessica-simpson" title="Jessica Simpson">Jessica Simpson</a></li>
-									<li><a href="http://www.seenon.com/television/more/entertainment-tonight/" title="Paris Hilton">Paris Hilton</a></li>
-									<li><a href="/celebrities/" title="Celeb Swag">Celeb Swag</a></li>
-									<li><a href="/celebrities/handbags/" title="Handbags">Handbags</a></li>
-									<li><a href="/celebrities/jeans" title="Jeans">Jeans</a></li>
-									<li><a href="/celebrities/shoes/" title="Shoes">Shoes</a></li>
-									<li><a href="/celebrities/sunglasses/" title="Sunglasses">Sunglasses</a></li>
-									<li><a href="/celebrities/tops/" title="Tops">Tops</a></li>
-									<li><a href="/celebrities/" title="More Celebrity Style" style="background-image:none;">More...</a></li>
-									<li style="background:none;border:none;line-height:3px;height:3px;width:160px;"><table cellpadding="0" cellspacing="0" style="width:160px;height:3px;line-height:3px;">
-											<tbody><tr>
-												<td style="width:3px;"><img src="/img/topnav/navBotL.gif" alt="SeenON!"></td>
-												<td style="width:154px;background:#ffffff url(/img/topnav/navBotBG.gif) repeat-x bottom left;"></td>
-												<td style="width:3px;"><img src="/img/topnav/navBotR.gif" alt="SeenON!"></td>
-											</tr>
-										</tbody></table></li>
-								</ul>
-							</li>
-							<li><a href="#" onclick="return false;" title="Film" class="film" style="font-size:0px;line-height:0px;">FILM</a>
-								<ul>
-									<li><a href="/film/halloween/" title="Halloween">Halloween</a></li>
-									<li><a href="/film/the-nanny-diaries/" title="The Nanny Diaries">The Nanny Diaries</a></li>
-									<li><a href="/film/license-to-wed/" title="License to Wed">License to Wed</a></li>
-									<li><a href="/film/fantastic-4/" title="Fantastic 4: Rise of the Silver Surfer">Fantastic 4</a></li>
-									<li><a href="/film/sicko/" title="SiCKO" style="background-image:none;">SiCKO</a></li>
-									<li style="background:none;border:none;line-height:3px;height:3px;width:160px;"><table cellpadding="0" cellspacing="0" style="width:160px;height:3px;line-height:3px;">
-											<tbody><tr>
-												<td style="width:3px;"><img src="/img/topnav/navBotL.gif" alt="SeenON!"></td>
-												<td style="width:154px;background:#ffffff url(/img/topnav/navBotBG.gif) repeat-x bottom left;"></td>
-												<td style="width:3px;"><img src="/img/topnav/navBotR.gif" alt="SeenON!"></td>
-											</tr>
-										</tbody></table></li>
-								</ul>
-							</li>
-							<li><a href="/music/" title="Music" class="music" style="font-size:0px;line-height:0px;">MUSIC</a>
-								<ul>
-									<li><a href="/music/pussycat-dolls/" title="Pussycat Dolls">Pussycat Dolls</a></li>
-									<li><a href="/music/" title="More in Music" style="background-image:none;">More...</a></li>
-									<li style="background:none;border:none;line-height:3px;height:3px;width:160px;"><table cellpadding="0" cellspacing="0" style="width:160px;height:3px;line-height:3px;">
-											<tbody><tr>
-												<td style="width:3px;"><img src="/img/topnav/navBotL.gif" alt="SeenON!"></td>
-												<td style="width:154px;background:#ffffff url(/img/topnav/navBotBG.gif) repeat-x bottom left;"></td>
-												<td style="width:3px;"><img src="/img/topnav/navBotR.gif" alt="SeenON!"></td>
-											</tr>
-										</tbody></table></li>
-								</ul>
-							</li>
-							<li><a href="#" title="Products" onclick="return false;" class="products" style="font-size:0px;line-height:0px;">PRODUCTS</a>
-								<ul>
-									<li><a href="/accessories/" title="Accessories">Accessories</a></li>
-									<li><a href="/apparel/" title="Apparel">Apparel</a></li>
-									<li><a href="/auto/" title="Auto">Auto</a></li>
-									<li><a href="/books-and-dvds/" title="Books &amp; DVDs">Books &amp; DVDs</a></li>
-									<li><a href="/electronics/" title="Electronics">Electronics</a></li>
-									<li><a href="/food-and-beverage/" title="Food &amp; Beverage">Food &amp; Beverage</a></li>
-									<li><a href="/health-and-beauty/" title="Health &amp; Beauty">Health &amp; Beauty</a></li>
-									<li><a href="/home-and-leisure/" title="Home &amp; Leisure">Home &amp; Leisure</a></li>
-									<li><a href="/music/" title="Music">Music</a></li>
-									<li><a href="/travel/" title="Travel" style="background-image:none;">Travel</a></li>
-									<li style="background:none;border:none;line-height:3px;height:3px;width:160px;"><table cellpadding="0" cellspacing="0" style="width:160px;height:3px;line-height:3px;">
-											<tbody><tr>
-												<td style="width:3px;"><img src="/img/topnav/navBotL.gif" alt="SeenON!"></td>
-												<td style="width:154px;background:#ffffff url(/img/topnav/navBotBG.gif) repeat-x bottom left;"></td>
-												<td style="width:3px;"><img src="/img/topnav/navBotR.gif" alt="SeenON!"></td>
-											</tr>
-										</tbody></table></li>
-								</ul>
-							</li>
-							<li><a href="/photos/" title="Photos" class="photos" style="font-size:0px;line-height:0px;">PHOTOS</a>
-							</li>
-							<li><a href="/video/" title="Videos" class="videos" style="font-size:0px;line-height:0px;">VIDEOS</a>
-							</li>
-							<li><a href="/blog/" title="Blog" class="blog" style="font-size:0px;line-height:0px;">BLOG</a></li>
-						</ul>
-					</td>
-					<td style="width:326px;"></td>
-				</tr>
-			</tbody></table>
-			<img src="/img/tagline.gif" alt="The definitive source for celebrity fashion and products seen on your favorite TV shows and movies." style="position:absolute;top:63px;left:125px;">
-
+			<ul id="topnav">
+				<li><a href="/television/" title="TV" class="tv slip">TV</a>
+					<ul>
+						<li><a href="/television/abc/" title="ABC"><img src="/img/all/topnav/logoABC.gif" alt="ABC" class="logos">ABC</a>
+							<ul>
+								<li><a href="/television/abc/all-my-children/" title="All My Children">All My Children</a></li>
+								<li><a href="/television/abc/boston-legal/" title="Boston Legal">Boston Legal</a></li>
+								<li><a href="/television/abc/dancing-with-the-stars/" title="Dancing with the Stars">Dancing with the Stars</a></li>
+								<li><a href="/television/abc/desperate-housewives/" title="Desperate Housewives">Desperate Housewives</a></li>
+								<li><a href="/television/abc/em-home-edition/" title="EM: Home Edition">EM: Home Edition</a></li>
+								<li><a href="/television/abc/general-hospital/" title="General Hospital">General Hospital</a></li>
+								<li><a href="/television/abc/greys-anatomy/" title="Grey's Anatomy">Grey's Anatomy</a></li>
+								<li><a href="/television/abc/jimmy-kimmel-live/" title="Jimmy Kimmel Live">Jimmy Kimmel Live</a></li>
+								<li><a href="/television/abc/lost/" title="Lost">Lost</a></li>
+								<li><a href="/television/abc/one-life-to-live/" title="One Life to Live">One Life to Live</a></li>
+								<li><a href="/television/abc/the-view/" title="The View">The View</a></li>
+								<li><a href="/television/abc/ugly-betty/" title="Ugly Betty">Ugly Betty</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="/television/abc-family/" title="ABC Family"><img src="/img/all/topnav/logoABCFamily.gif" alt="ABC Family" class="logos">ABC Family</a>
+							<ul style="top:36px;">
+								<li class="topper"><a href="/television/abc-family/greek/" title="Greek">Greek</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="/television/bravo/" title="Bravo"><img src="/img/all/topnav/logoBravo.gif" alt="Bravo" class="logos">BRAVO</a>
+							<ul style="top:72px;">
+								<li class="topper"><a href="/television/bravo/queer-eye/" title="Queer Eye">Queer Eye</a></li>
+								<li class="topper"><a href="/television/bravo/real-housewives-nyc/" title="Real Housewives NYC">Real Housewives NYC</a></li>
+								<li class="topper"><a href="/television/bravo/real-housewives/" title="Real Housewives OC">Real Housewives OC</a></li>
+								<li class="topper"><a href="/television/bravo/tim-gunns-guide-to-style/" title="Tim Gunn's Guide to Style">Tim Gunn's Guide...</a></li>
+								<li class="topper"><a href="/television/bravo/top-chef/" title="Top Chef">Top Chef</a></li>
+								<li class="topper"><a href="/television/bravo/top-design/" title="Top Design">Top Design</a></li>
+								<li class="topper"><a href="/television/bravo/work-out/" title="Work Out">Work Out</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="/television/cbs/" title="CBS"><img src="/img/all/topnav/logoCBS.gif" alt="CBS" class="logos">CBS</a>
+							<ul style="top:108px;">
+								<li class="topper"><a href="/television/cbs/the-amazing-race/" title="The Amazing Race">The Amazing Race</a></li>
+								<li><a href="/television/cbs/csi/" title="CSI">CSI</a></li>
+								<li><a href="/television/cbs/csi-miami/" title="CSI: Miami">CSI: Miami</a></li>
+								<li><a href="/television/cbs/ghost-whisperer/" title="Ghost Whisperer">Ghost Whisperer</a></li>
+								<li><a href="/television/cbs/how-i-met-your-mother/" title="How I Met Your Mother">How I Met Your Mother</a></li>
+								<li><a href="/television/cbs/survivor/" title="Survivor">Survivor</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" title="E!" onclick="return false;"><img src="/img/all/topnav/logoE.gif" alt="E!" class="logos">E!</a>
+							<ul style="top:144px;">
+								<li class="topper"><a href="/television/e/the-girls-next-door/" title="The Girls Next Door">The Girls Next Door</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" title="FOX" onclick="return false;"><img src="/img/all/topnav/logoFox.gif" alt="FOX" class="logos">FOX</a>
+							<ul style="top:180px;">
+								<li class="topper"><a href="/television/fox/american-idol/" title="American Idol">American Idol</a></li>
+								<li><a href="/television/fox/the-simpsons/" title="The Simpsons">The Simpsons</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" title="HGTV" onclick="return false;"><img src="/img/all/topnav/logoHGTV.gif" alt="HGTV" class="logos">HGTV</a>
+							<ul style="top:216px;">
+								<li class="topper"><a href="/television/hgtv/divine-design/" title="Divine Design">Divine Design</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="/television/mtv/the-hills/" title="MTV"><img src="/img/all/topnav/logoMTV.gif" alt="MTV" class="logos">MTV</a>
+							<ul style="top:252px;">
+								<li class="topper"><a href="/television/mtv/my-super-sweet-16/" title="My Super Sweet 16">My Super Sweet 16</a></li>
+								<li><a href="/television/mtv/newport-harbor/" title="Newport Harbor">Newport Harbor</a></li>
+								<li><a href="/television/mtv/the-hills/" title="The Hills">The Hills</a></li>
+								<li><a href="/television/mtv/the-real-world/" title="The Real World">The Real World</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="/television/nbc/" title="NBC"><img src="/img/all/topnav/logoNBC.gif" alt="NBC" class="logos">NBC</a>
+							<ul>
+								<li><a href="/television/nbc/the-apprentice/" title="The Apprentice">The Apprentice</a></li>
+								<li><a href="/television/nbc/the-biggest-loser/" title="The Biggest Loser">The Biggest Loser</a></li>
+								<li><a href="/television/nbc/carson-daly/" title="Carson Daly">Carson Daly</a></li>
+								<li><a href="/television/nbc/deal-no-deal/" title="Deal or No Deal">Deal or No Deal</a></li>
+								<li><a href="/television/nbc/er/" title="ER">ER</a></li>
+								<li><a href="/television/nbc/friday-night-lights/" title="Friday Night Lights">Friday Night Lights</a></li>
+								<li><a href="/television/nbc/friends/" title="Friends">Friends</a></li>
+								<li><a href="/television/nbc/heroes/" title="Heroes">Heroes</a></li>
+								<li><a href="/television/nbc/las-vegas/" title="Las Vegas">Las Vegas</a></li>
+								<li><a href="/television/nbc/late-night/" title="Late Night with Conan O'Brien">Late Night</a></li>
+								<li><a href="/television/nbc/law-and-order/" title="Law &amp; Order">Law &amp; Order</a></li>
+								<li><a href="/television/nbc/lipstick-jungle/" title="Lipstick Jungle">Lipstick Jungle</a></li>
+								<li><a href="/television/nbc/martha/" title="Martha">Martha</a></li>
+								<li><a href="/television/nbc/my-name-is-earl/" title="My Name is Earl">My Name is Earl</a></li>
+								<li><a href="/television/nbc/the-office/" title="The Office">The Office</a></li>
+								<li><a href="/television/nbc/passions/" title="Passions">Passions</a></li>
+								<li><a href="/television/nbc/saturday-night-live/" title="Saturday Night Live">Saturday Night Live</a></li>
+								<li><a href="/television/nbc/scrubs/" title="Scrubs">Scrubs</a></li>
+								<li><a href="/television/nbc/seinfeld/" title="Seinfeld">Seinfeld</a></li>
+								<li><a href="/television/nbc/today-show/" title="Today Show">Today Show</a></li>
+								<li><a href="/television/nbc/the-tonight-show/" title="The Tonight Show">The Tonight Show</a></li>
+								<li><a href="/television/nbc/the-west-wing/" title="The West Wing">The West Wing</a></li>
+								<li><a href="/television/nbc/will-and-grace/" title="Will &amp; Grace">Will &amp; Grace</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" title="SciFi" onclick="return false;"><img src="/img/all/topnav/logoScifi.gif" alt="SciFi" class="logos">SCIFI</a>
+							<ul style="top:324px;">
+								<li class="topper"><a href="/television/scifi/battlestar-galactica/" title="Battlestar Galactica">Battlestar Galactica</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" title="SOAPnet" onclick="return false;"><img src="/img/all/topnav/logoSOAP.gif" alt="SOAPnet" class="logos">SOAPnet</a>
+							<ul style="top:360px;">
+								<li class="topper"><a href="/television/soapnet/the-fashionista-diaries/" title="The Fashionista Diaries">The Fashionista Diaries</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" title="Spike" onclick="return false;"><img src="/img/all/topnav/logoSpike.gif" alt="Spike" class="logos">SPIKE</a>
+							<ul style="top:396px;">
+								<li class="topper"><a href="/television/spike/ufc/" title="UFC">UFC</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" title="Style" onclick="return false;"><img src="/img/all/topnav/logoSTYLE.gif" alt="Style" class="logos">Style</a>
+							<ul style="top:432px;">
+								<li class="topper"><a href="/television/style/clean-house/" title="Clean House">Clean House</a></li>
+								<li><a href="/television/style/dress-my-nest/" title="Dress My Nest">Dress My Nest</a></li>
+								<li><a href="/television/style/how-do-i-look/" title="How Do I Look?">How Do I Look?</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" title="TV Guide" onclick="return false;"><img src="/img/all/topnav/logoTVG.gif" alt="TV Guide" class="logos">TV GUIDE</a>
+							<ul style="top:468px;">
+								<li class="topper"><a href="/television/tv-guide/the-fashion-team/" title="The Fashion Team">The Fashion Team</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" title="USA" onclick="return false;"><img src="/img/all/topnav/logoUSA.gif" alt="USA" class="logos">USA</a>
+							<ul style="top:504px;">
+								<li class="topper"><a href="/television/usa/monk/" title="Monk">Monk</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" onclick="return false;" title="MORE" class="othB">MORE</a>
+							<ul style="top:540px;">
+								<li class="topper"><a href="/television/cbs/charmed/" title="Charmed">Charmed</a></li>
+								<li><a href="/television/more/entertainment-tonight/" title="Entertainment Tonight">Entertainment Tonight</a></li>
+								<li><a href="/television/project-runway/" title="Project Runway">Project Runway</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li class="bottom">&nbsp;</li>
+					</ul>
+				</li>
+				<li><a href="/film/sex-the-city/" title="Movies" class="movies slip">MOVIES</a>
+					<ul>
+						<li><a href="/film/sex-the-city/" title="Sex and the City" class="othC">Sex and the City</a></li>
+						<li><a href="/film/the-nanny-diaries/" title="The Nanny Diaries" class="othC">The Nanny Diaries</a></li>
+						<li><a href="/film/license-to-wed/" title="License to Wed" class="othC">License to Wed</a></li>
+						<li class="bottom">&nbsp;</li>
+					</ul>
+				</li>
+				<li><a href="/music/" title="Music" class="music slip">MUSIC</a>
+					<ul>
+						<li><a href="#" title="ABC" onclick="return false;"><img src="/img/all/topnav/logoABC.gif" alt="ABC" class="logos">ABC</a>
+							<ul>
+								<li><a href="/music/dancing-with-the-stars/" title="Dancing with the Stars">Dancing with the Stars</a></li>
+								<li><a href="/music/greys-anatomy/" title="Grey's Anatomy">Grey's Anatomy</a></li>
+								<li><a href="/music/jimmy-kimmel-live/" title="Jimmy Kimmel Live!">Jimmy Kimmel Live!</a></li>
+								<li><a href="/music/the-view/" title="The View">The View</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" title="MTV" onclick="return false;"><img src="/img/all/topnav/logoMTV.gif" alt="MTV" class="logos">MTV</a>
+							<ul style="top:36px;">
+								<li class="topper"><a href="/music/laguna-beach/" title="Laguna Beach">Laguna Beach</a></li>
+								<li><a href="/music/the-hills/" title="The Hills">The Hills</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" title="NBC" onclick="return false;"><img src="/img/all/topnav/logoNBC.gif" alt="NBC" class="logos">NBC</a>
+							<ul style="top:72px;">
+								<li class="topper"><a href="/music/carson-daly/" title="Carson Daly">Carson Daly</a></li>
+								<li><a href="/music/las-vegas/" title="Last Vegas">Las Vegas</a></li>
+								<li><a href="/music/late-night/" title="Late Night">Late Night</a></li>
+								<li><a href="/music/lipstick-jungle/" title="Lipstick Jungle">Lipstick Jungle</a></li>
+								<li><a href="/music/the-tonight-show/" title="The Tonight Show">The Tonight Show</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li class="bottom">&nbsp;</li>
+					</ul>
+				</li>
+				<li><a href="#" title="Products" onclick="return false;" class="products slip">PRODUCTS</a>
+					<ul>
+						<li><a href="/accessories/" title="Accessories" class="othC">Accessories</a></li>
+						<li><a href="/apparel/" title="Apparel" class="othC">Apparel</a></li>
+						<li><a href="/books-and-dvds/" title="Books &amp; DVDs" class="othC">Books &amp; DVDs</a></li>
+						<li><a href="/electronics/" title="Electronics" class="othC">Electronics</a></li>
+						<li><a href="/health-and-beauty/" title="Health &amp; Beauty" class="othC">Health &amp; Beauty</a></li>
+						<li><a href="/home-and-leisure/" title="Home &amp; Leisure" class="othC">Home &amp; Leisure</a></li>
+						<li class="bottom">&nbsp;</li>
+					</ul>
+				</li>
+				<li><a href="/celebrities/spring-trends-2008/photo/" title="Celebrities" class="celebs slip">CELEBRITIES</a>
+					<ul>
+						<li><a href="#" onclick="return false;" title="Events" class="othA">Events</a>
+							<ul>
+								<li class="topper"><a href="/celebrities/photo/oscars-2008/" title="2008 Oscars">2008 Oscars</a></li>
+								<li><a href="/celebrities/celebrity-charities/" title="Celeb Charities">Celeb Charities</a></li>
+								<li><a href="/celebrities/country-music-awards/" title="Country Music Awards">Country Music Awards</a></li>
+								<li><a href="/celebrities/grammy-awards/" title="Grammy Awards">Grammy Awards</a></li>
+								<li><a href="/celebrities/mtv-movie-awards/" title="MTV Movie Awards">MTV Movie Awards</a></li>
+								<li><a href="/celebrities/sundance-film-festival/" title="Sundance Film Festival">Sundance Film Festival</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" onclick="return false;" title="Looks" class="othA">Looks</a>
+							<ul style="top:36px;">
+								<li class="topper"><a href="/celebrities/jessica-simpson/" title="Jessica Simpson">Jessica Simpson</a></li>
+								<li><a href="/celebrities/photo/miley-cyrus-fashionista-on-the-rise/" title="Miley Cyrus">Miley Cyrus</a></li>
+								<li><a href="http://shop.seenon.com/index.php?v=sso-paris-hilton" title="Paris Hilton">Paris Hilton</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" onclick="return false;" title="Products" class="othA">Products</a>
+							<ul style="top:72px;">
+								<li class="topper"><a href="/celebrities/handbags/" title="Handbags">Handbags</a></li>
+								<li><a href="/celebrities/shoes/" title="Shoes">Shoes</a></li>
+								<li><a href="/celebrities/sunglasses/" title="Sunglasses">Sunglasses</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li><a href="#" onclick="return false;" title="Trends" class="othA">Trends</a>
+							<ul style="top:108px;">
+								<li class="topper"><a href="/celebrities/spring-trends-2008/photo/" title="Spring Trends 2008">Spring Trends 2008</a></li>
+								<li><a href="/celebrities/celebrity-denim-trend-alert/" title="Celebrity Denim">Celebrity Denim</a></li>
+								<li class="closer">&nbsp;</li>
+							</ul>
+						</li>
+						<li class="bottom">&nbsp;</li>
+					</ul>
+				</li>
+				<li><a href="#" onclick="return false;" class="midling slip"></a></li>
+				<li><a href="/celebrities/photo/" title="Photos" class="photos slip">PHOTOS</a></li>
+				<li><a href="/video/" title="Videos" class="videos slip">VIDEOS</a></li>
+				<li><a href="/shoptalk/" title="Community" class="community slip">COMMUNITY</a></li>
+				<li><a href="/blog/" title="Blog" class="blog slip">BLOG</a></li>
+			</ul>		</div>
+		<div class="clean"></div>
+		<div id="subHead">
+			<div style="float:left;width:545px;line-height:0px;"><img src="/img/all/tagline.gif" style="line-height:0px;" alt="Shop the products seen on celebrities, television, and movies."></div>
+			<div style="float:right;width:435px;background-color:#ffffff;">
+				<form method="post" action="/search/">
+				<div id="searchBar"><img src="/img/all/searchLeft.gif" alt="Search" style="float:left;margin-bottom:5px;"><input type="text" name="terms" id="terbs" style="width:213px;height:15px;padding:2px;float:left;border-top:1px solid #cccccc;border-bottom:1px solid #cccccc;border-left:0px;border-right:0px;margin-bottom:5px;"><input type="image" src="/img/all/searchRight.gif" alt="Search" style="float:left;border:0px;margin-bottom:5px;"></div>
+				</form>
+			</div>
+		</div>		<div id="breadcrumb"><a href="/">Home</a> &gt; Privacy</div>		<div style="background-color:#ffffff;">
+			<div style="float:left;width:170px;padding:20px 20px 20px 20px;text-align:right;">
+				<span class="bld size12">
+				<a class="gry2" href="/about/">ABOUT US</a><br>
+				<a class="gry2" href="/management/">MANAGEMENT TEAM</a><br>
+				<a class="gry2" href="/careers/">CAREERS</a><br>
+				<a class="gry2" href="/press/">PRESS</a><br>
+				<a class="gry2" href="/contact/us/">CONTACT US</a><br>
+				<a class="redd" href="/privacy/">PRIVACY POLICY</a><br>
+				<a class="gry2" href="/faq/">FAQ</a>
+				</span>
+			</div>
+			<div style="float:left;width:520px;padding:20px 210px 20px 0px;font-size:11px;">
+				SeenON! is committed to protecting your privacy and ensuring that all customer information be kept strictly confidential. As a condition to using the Service, you agree to the terms of the SeenON!™ Privacy Policy as it may be updated from time to time. SeenON! will not sell, trade, or disclose your personal information to any third parties. Under no circumstances will personal information be shared with any third party without your permission. If you have opted in to receive email notifications, SeenON! may send you notices about products &amp; services, promotions, or contests from SeenON! or our promotional partners. SeenON!™ understands that privacy is important to you. You do, however, agree that SeenON!™ may monitor, edit or disclose your personal information, including the content of your emails, if required to do so in order to comply with any valid legal process or governmental request (such as a search warrant, subpoena, statute, or court order), or as otherwise provided in these Terms of Use and the SeenON!™ Privacy Policy. Personal information collected by SeenON!™ may be stored and processed in the United States or any other country in which parent company Delivery Agent, Inc. or its agents maintain facilities. By using SeenON!™, you consent to any such transfer of information outside of your country. We recognize that we must maintain and use customer information responsibly and are committed to doing so.
+			<br>&nbsp;<br>
+			<br>&nbsp;<br>			</div>
+			<div class="clean"></div>
 		</div>
-		<div id="catBodyAlt">
-
-      			<table cellpadding="0" cellspacing="0">
-      				<tbody><tr>
-      					<td style="width:558px;padding:0px 5px;"><div id="breadcrumb"><a href="/">Home</a> &gt; Privacy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/account/login/" class="bld size11 blck" style="text-decoration:underline;">Get the SeenON! Newsletter</a></div><h1 class="redd">PRIVACY POLICY</h1></td>
-						<td style="width:332px;">							<img src="/img/searchHead.jpg" alt="Search SeenON!" style="width:326px;height:95px;position:absolute;top:0px;right:0px;"> 
-<div id="homeExploreShort">
-							<form method="post" action="/search/">
-							<table cellpadding="2" cellspacing="0">
-								<tbody><tr>
-									<td class="redd size11" style="text-align:right;width:26%;vertical-align:middle;padding-top:10px;"><b>SEARCH</b></td>
-									<td style="width:50%;vertical-align:middle;padding-top:10px;"><input type="text" maxlength="48" id="terbs" name="terms" style="width:200px;" autocomplete="off"><br><div style="position:absolute;z-index:8;"><div id="suggestionBox" class="long" style="position: relative; display: none;"></div></div>
-
-										<script type="text/javascript">
-											new Ajax.Autocompleter('terbs', 'suggestionBox', '/api/autocomplete/', {});
-										</script>
-
-									</td>
-									<td style="width:24%;vertical-align:middle;padding-top:10px;"><input type="image" src="/img/searchGo.gif" style="border:0px;width:18px;"></td>
-								</tr>
-							</tbody></table>
-							</form>
-						</div></td>
-      				</tr>
-      				<tr>
-      					<td colspan="2" style="width:900px;">
-							<div style="width:900px;height:26px;background-image:url('/img/altTop.gif');line-height:26px;"></div>
-							<div style="width:759px;padding-left:59px;padding-right:80px;border-left:2px solid #b7b7b7;background:#ffffff url('/img/support_BodyBG.gif') repeat-y top left;">
-								SeenON! is committed to protecting your privacy and ensuring that all customer information be kept strictly confidential. As a condition to using the Service, you agree to the terms of the SeenON!™ Privacy Policy as it may be updated from time to time. SeenON! will not sell, trade, or disclose your personal information to any third parties. Under no circumstances will personal information be shared with any third party without your permission. If you have opted in to receive email notifications, SeenON! may send you notices about products &amp; services, promotions, or contests from SeenON! or our promotional partners. SeenON!™ understands that privacy is important to you. You do, however, agree that SeenON!™ may monitor, edit or disclose your personal information, including the content of your emails, if required to do so in order to comply with any valid legal process or governmental request (such as a search warrant, subpoena, statute, or court order), or as otherwise provided in these Terms of Use and the SeenON!™ Privacy Policy. Personal information collected by SeenON!™ may be stored and processed in the United States or any other country in which parent company Delivery Agent, Inc. or its agents maintain facilities. By using SeenON!™, you consent to any such transfer of information outside of your country. We recognize that we must maintain and use customer information responsibly and are committed to doing so.
-								<br>&nbsp;<br>
-							</div>
-							<div style="width:900px;height:111px;background-image:url('/img/support_FooterBG.gif');"></div>
-      					</td>
-      				</tr>
-      			</tbody></table>
-				
-				<div id="altLower"></div>
-		
 		</div>
-		
-		<div id="mainFooter">
-						<div style="width:400px;float:left;" class="glde size10"><a href="http://www.seenon.com/help/" class="glde size10">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.seenon.com/contact/us/" class="glde size10">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.seenon.com/privacy/" class="glde size10">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.seenon.com/about/" class="glde size10">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.seenon.com/account/agencies/" class="glde size10">Agencies</a></div>
-						<div style="width:400px;float:right;text-align:right;" class="glde size10">No celebrity endorsement implied | Some images courtesy of <a href="http://www.iceposter.com" target="_blank">Ice Poster</a></div>
-						<div style="width:800px;float:left;" class="glde size10"><br>Powered by <a href="http://www.deliveryagent.com/" target="_blank">Delivery Agent</a>, Inc., © 2007 All Rights Reserved. SeenON!™ is a registered trademark of Delivery Agent, Inc.</div>
-					</div>	
-	</div>
+		<div id="footerCham"></div>
+		<div id="footer">
+			<div style="width:467px;float:left;" class="whtt size10"><a href="http://www.seenon.com/faq/" class="whtt size10">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.seenon.com/contact/us/" class="whtt size10">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.seenon.com/privacy/" class="whtt size10">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.seenon.com/about/" class="whtt size10">About Us</a></div>
+			<div style="width:467px;float:right;text-align:right;" class="whtt size10">No celebrity endorsement implied | Some images courtesy of <a href="http://www.wireimage.com" target="_blank" class="whtt">WireImage</a></div>
+			<br>&nbsp;<br>Powered by <a href="http://www.deliveryagent.com/" target="_blank" class="whtt">Delivery Agent</a>, Inc., © 2008 All Rights Reserved. SeenON!™ is a registered trademark of Delivery Agent, Inc.
+		</div>
+	<div id="ClickTale" style="display: none;"></div>
+	<script src="http://s.clicktale.net/WRa.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		if(typeof ClickTale=='function') ClickTale(8329,0.0089);
+	</script>
+
 
 </body></html>
