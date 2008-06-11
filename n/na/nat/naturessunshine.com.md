@@ -1,32 +1,28 @@
-> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218055339id_/http%3A//www.naturessunshine.com/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612012140id_/http%3A//www.naturessunshine.com/us/general/privacy.aspx) for the most accurate reproduction.*
 
-# Nature's Sunshine | Terms of Use
-
-Privacy Policy of Nature’s Sunshine Products, Inc. 
-
-Effective: April 1, 2005 
+# Nature's Sunshine - Privacy Statement
 
 **Introduction: Our Commitment to Privacy**  
-Nature’s Sunshine Products, Inc. ("Nature’s Sunshine") is committed to protecting the privacy and security of our customers and those who visit our Website. To better protect your privacy, we provide this Privacy Policy to explain our practices regarding the information we collect when you visit naturessunshine.com. This Policy applies only to naturessunshine.com and is directed to U.S. residents. 
+Nature’s Sunshine Products, Inc. ("Nature’s Sunshine") is committed to protecting the privacy and security of our customers and those who visit our Website. To better protect your privacy, we provide this Privacy Policy to explain our practices regarding the information we collect when you visit www.naturessunshine.com. This Policy applies only to www.naturessunshine.com and is directed to U.S. residents. 
 
 Please read this Privacy Policy so that you understand how we may collect and use information you provide, because, by using our Web site, you agree to the terms of this Policy. Please view this page periodically. Although we may make changes to this Policy, our fundamental commitment to privacy protection will not change. 
 
 **Information We Collect**  
-Visitors may use our Web site without registering or submitting any personal information. In this case, we may collect non-personal information as explained below. 
+Visitors may use our website without registering or submitting any personal information. In this case, we may collect non-personal information as explained below. 
 
-When visiting our Web site to order products, make requests, check your account, register to become a member or register to receive materials, we will ask you to provide specific personal information. Personal information means individually identifiable information from or about an individual consumer including name, home address or physical address, including street name and name of city or town, telephone number, email address, and credit card information. This information is voluntarily provided on your part. It allows us to fulfill your order and otherwise operate our business. 
+When visiting our website to order products, make requests, check your account, register to become a member or register to receive materials, we will ask you to provide specific personal information. Personal information means individually identifiable information from or about an individual consumer, including name, home address or physical address, including street name and name of city or town, telephone number, email address and credit card information. This information is voluntarily provided on your part. It allows us to fulfill your order and otherwise operate our business. 
 
-  * **Information You Volunteer.** We only collect personal information that you specifically volunteer while using our services. Your personal information is confidential and will not be provided to others, except as explained in Our Use and Disclosure of Information section. You may always choose not to provide information.
-  * **Information We Collect Automatically.** We do not automatically collect personal information. To enhance your visit to our Website, we use "cookies," a standard feature of browser software used by most Websites. Cookies are small data files automatically stored on your computer that assist us in serving you. In general, cookies do not contain any personally identifiable information unless you specifically supply the information. We use cookies to store information such as temporary session identification numbers and your Nature’s Sunshine account number—if you choose to establish an account and you log in on the log-in page. We do not use cookies to store personal information nor do we link non-personal information stored in cookies with personal data about specific individuals. Nature’s Sunshine does not collect information about you from other sources, such as public records or private organizations.
+  * **Information You Volunteer.** We only collect personal information that you specifically volunteer while using our services. Your personal information is confidential and will not be provided to others except as explained in Our Use and Disclosure of Information section. You may always choose not to provide information.
+  * **Information We Collect Automatically.** We do not automatically collect personal information. To enhance your visit to our Website, we use "cookies," a standard feature of browser software used by most Websites. Cookies are small data files automatically stored on your computer that assist us in serving you. In general, cookies do not contain any personally identifiable information unless you specifically supply the information. We use cookies to store information such as temporary session identification numbers and your Nature’s Sunshine account number—if you choose to establish an account and you log in on the log-in page. We do not use cookies to store personal information, nor do we link non-personal information stored in cookies with personal data about specific individuals. Nature’s Sunshine does not collect information about you from other sources, such as public records or private organizations.
 
 
 
 **Our Use and Disclosure of Information**
 
-  * As explained above, we use the information we collect on our site to enhance your overall experience while visiting the site, and to assist you in placing an order.
+  * As explained above, we use the information we collect on our site to enhance your overall experience while visiting the site and to assist you in placing an order.
   * Nature’s Sunshine is a direct sales organization that distributes products through a network of Members, Distributors and Managers ("representatives"). When placing an order through a representative, your order may be processed by the representative receiving credit for your order. In that case, personal information to process your order will be shared with your representative. We may provide information on a customer to one of our representatives who may offer further assistance. Each customer may choose how to place an order and may choose not to be contacted when placing an order.
-  * A Member who recruits a new Member is considered a Sponsor, and Nature’s Sunshine provides confidential reports containing customer information to both the Member and his or her Sponsor, to preserve the integrity of our compensation plan. Each customer may request that his/her email address not be given to his/her representative’s Sponsor by checking the appropriate box on the "Account Maintenance" screen or by contacting Customer Service at 1-800-223-8225. All representatives must abide by this Privacy Policy and must not share confidential information except in connection with their Nature’s Sunshine business.
-  * We do not collect or use personal information for any purposes outside of customer service, Web site administration, online shopping and company communications. We will always obtain your consent before using personal information for any other purpose.
+  * A Member who recruits a new Member is considered a Sponsor, and Nature’s Sunshine provides confidential reports containing customer information to both the Member and his or her Sponsor to preserve the integrity of our compensation plan. Each customer may request that his/her email address not be given to his/her representative’s Sponsor by checking the appropriate box on the "Account Maintenance" screen or by contacting Customer Service at 1-800-223-8225. All representatives must abide by this Privacy Policy and must not share confidential information except in connection with their Nature’s Sunshine business.
+  * We do not collect or use personal information for any purposes outside of customer service, website administration, online shopping and company communications. We will always obtain your consent before using personal information for any other purpose.
   * Nature’s Sunshine does not sell, trade or rent your personal information to any outside parties. We value our customers’ privacy and will not jeopardize our relationship with customers by selling their information to solicitors.
 
 
@@ -50,7 +46,7 @@ Our Website may contain links to other sites that are not controlled or operated
 To ensure that the information we have is accurate and current, we provide opportunities for you to review and correct your personal information through our Website and via the telephone. To make any changes to your information, please use any of the following methods: 
 
   * Log in to the Nature’s Sunshine Website, click on "Member Services" or "My Account," and then click on "Account Maintenance" under the "Account Tools" section.
-  * Go to the following link [http://www.naturessunshine.com/members/myaccount/accountmaint.asp](https://web.archive.org/members/myaccount/accountmaint.asp), and you will be required to log in.
+  * Go to the following link [www.naturessunshine.com/us/members/myaccount/accountmaint.aspx](https://web.archive.org/web/20080612012140id_/http%3A//www.naturessunshine.com/us/members/myaccount/accountmaint.aspx), and you will be required to log in.
   * Contact Customer Service at 1-800-223-8225 to have a representative make changes to your account.
 
 
@@ -62,6 +58,6 @@ Nature's Sunshine Products, Inc.
 75 East 1700 South  
 Provo, UT 84606  
 1-800-223-8225 or 1-800-327-8459 (hearing impaired)  
-[questions@natr.com](mailto:questions@natr.com)  
-Please summarize the nature of your question in the subject line if you send an email.  
+[questions@natr.com](mailto:questions@natr.com)
 
+Please summarize the nature of your question in the subject line if you send an email.
