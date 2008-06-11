@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gasbuddy.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/gb_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gasbuddy.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611111846id_/http%3A//gasbuddy.com/gb_privacy.aspx) for the most accurate reproduction.*
 
 # GasBuddy Privacy
 
 |  |  [](http://www.gasbuddy.com/) |  |   
 ---  
- [Sign Up To Join The Fight Against High Gas Prices!](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/Registration.aspx)  
+ [Sign Up To Join The Fight Against High Gas Prices!](https://web.archive.org/web/20080611111846id_/http%3A//gasbuddy.com/Registration.aspx)  
 [Free Classifieds at SuperAds.com](http://www.superads.com/) |    
-| [](http://www.gasbuddy.com/)| [](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/gb_retail_price_chart.aspx?time=24)| [](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/GB_Map_Gas_Prices.aspx)| [](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/gb_gastemperaturemap.aspx)| [](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/GB_Mobile_Instructions.aspx)| [](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/gb_fuel_save.aspx)| [](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/gb_contact.aspx)| [](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/gb_media_ideas.aspx)  
+| [](http://www.gasbuddy.com/)| [](https://web.archive.org/web/20080611111846id_/http%3A//gasbuddy.com/gb_retail_price_chart.aspx?time=24)| [](https://web.archive.org/web/20080611111846id_/http%3A//gasbuddy.com/GB_Map_Gas_Prices.aspx)| [](https://web.archive.org/web/20080611111846id_/http%3A//gasbuddy.com/gb_gastemperaturemap.aspx)| [](https://web.archive.org/web/20080611111846id_/http%3A//gasbuddy.com/GB_Mobile_Instructions.aspx)| [](https://web.archive.org/web/20080611111846id_/http%3A//gasbuddy.com/gb_fuel_save.aspx)| [](https://web.archive.org/web/20080611111846id_/http%3A//gasbuddy.com/gb_contact.aspx)| [](https://web.archive.org/web/20080611111846id_/http%3A//gasbuddy.com/gb_media_ideas.aspx)  
 ---|---|---|---|---|---|---|---  
   
   
