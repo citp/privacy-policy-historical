@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the myaccess.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213011844id_/http%3A//www.vantagelearning.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myaccess.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611054236id_/http%3A//www.vantagelearning.com/privacy.html) for the most accurate reproduction.*
 
-# English Writing Improvement, Online Assessment - Vantage Learning
+# Corporate - Privacy Policy :: Vantage Learning
+
+Login to: 
+
+Vantage Learning  
+110 Terry Drive, Suite 100  
+Newtown, PA 18940
+
+800.230.2213 
+
+215.579.8391 
+
+[](http://www.mccanntesting.com/professional/measured_success/work.html#cSkills)
 
 **Personal Information**
 
