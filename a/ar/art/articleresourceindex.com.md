@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleresourceindex.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213045056id_/http%3A//www.articleresourceindex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleresourceindex.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611172758id_/http%3A//www.articleresourceindex.com/privacy.php) for the most accurate reproduction.*
 
 # The Web's Complete Article Resource Directory - Article Resource Index
 
@@ -68,5 +68,3 @@ This statement and the policies outlined herein are not intended to and do not c
 
 [Unique Article Wizard](http://www.uniquearticlewizard.com/amember/go.php?r=778&i=l0) \- Submit your Article, have it "Made Unique" hundreds of times and sent to thousands of Directories! It's Like a Backlink Tidalwave!!  
 
-
-[](http://directleads.com/z/31305/CD1507/&dp=361748)
