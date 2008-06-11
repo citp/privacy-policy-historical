@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025051216id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611063919id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
 
-# Walt Disney World Theme Park Guides including Disney theme park
+# DIS - Privacy Policy
 
-**Privacy Policy**
-
-It is important that our site visitors understand that any information you provide to us during the course of your visit to our site is NEVER sold or provided to any third party for any reason.  The information collected is used ONLY for it's intended purpose.
+t is important that our site visitors understand that any information you provide to us during the course of your visit to our site is NEVER sold or provided to any third party for any reason.  The information collected is used ONLY for it's intended purpose.
 
 1\. What Personally Identifiable Information of yours is collected   
 2\. What organization is collecting the information   
@@ -23,7 +21,7 @@ the website from which you linked directly to our site.    The only time perso
 
 **
 
-The information that you provide to us is collected and maintained by Werner Technologies, Inc., 12179 S. Apopka Vineland Rd, Suite 523, Orlando, Florida 32836 **
+The information that you provide to us is collected and maintained by Werner Technologies, LLC., 12179 S. Apopka Vineland Rd, Suite 523, Orlando, Florida 32836 **
 
 3.   How is the information used:
 
@@ -49,9 +47,7 @@ The only areas that require entry of any personal data are listed above.  You h
 
 When you register to post on our discussion forums, you are given the option to display your email address for other site visitors to see.  If you opt to do that, we have no control over what mail you may receive as a result.  At that point, the information is considered 'published' with your permission.  You can still use our discussion forums and NOT display your email address by selecting that option during the registration process.
 
-Also, when you sign up for a particular advertisers services (via the site), that advertiser may use your email address to provide you with information on their services. 
-
- **
+Also, when you sign up for a particular advertisers services (via the site), that advertiser may use your email address to provide you with information on their services.  **
 
 7\. COPA Compliance:
 
@@ -62,8 +58,7 @@ In compliance with the **Children's Online Privacy Act** , we affirm the followi
 **Contact Information:**
 
 Peter Werner, President  
-Werner Technologies, Inc.
-
+Werner Technologies, LLC.  
 424 E. Central Blvd 324  
 Orlando, Fl 32801  
 [webmaster@wdwinfo.com](mailto:webmaster@wdwinfo.com)
