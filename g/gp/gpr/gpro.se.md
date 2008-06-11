@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpro.se privacy policy that was archived on 2007-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071114023448id_/http%3A//www.gpro.se/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpro.se privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611144918id_/http%3A//www.gpro.se/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Grand Prix Racing Online - Privacy policy
 
