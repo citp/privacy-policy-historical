@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011092949id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611030126id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
 
 # uShip - The Online Shipping and Moving Marketplace - Privacy Policy
 
@@ -18,7 +18,7 @@ By accepting the Privacy Policy and the User Agreement in registration, you expr
 
 ## Information Collection & Use
 
-In order to use this Site, you must first complete the registration form and create a user name and password. During the registration process, you are required to give contact information such as name, address, phone number and email address. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose.
+In order to use this Site, you must first complete the registration form and create a username and password. During the registration process, you are required to give contact information such as name, address, phone number and email address. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose.
 
 In general, you can browse the Site without providing us with any of personal information about yourself. Once you agree to provide us with personal information, you are no longer anonymous to us. If you choose to use our services, we may require you to provide contact and identity information, billing information and other personal information as indicated on the forms throughout the Site. Where possible, we indicate which fields are required and which are optional. You always have the option to not provide information by choosing not to use a particular service or feature.
 
@@ -40,7 +40,7 @@ If you choose to use our referral service to tell a friend about the Site, we wi
 
 ## Uses of Your Information
 
-We use your personal information, including your email address, to facilitate the services you request. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; help promote safe matching; collect fees owed; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User IDs or aliases. We may compare and review your personal information for errors, omissions and for accuracy.
+We use your personal information, including your email address, to facilitate the services you request. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; help promote safe matching; collect fees owed; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple usernames or aliases. We may compare and review your personal information for errors, omissions and for accuracy.
 
 You agree that we may use personal information, including your email address, about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site. Communications from the Site.
 
@@ -121,8 +121,8 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have any questions or suggestions regarding our privacy policy and email practices, please contact us at: [service@uShip.com](mailto:service@uShip.com). 
 
 uShip, Inc.  
-1300 Guadalupe St.  
-Suite 206  
-Austin, TX 78701
+3601 S. Congress Avenue  
+Suite C104  
+Austin, TX 78704
 
-_Last Revised Date: October 21, 2005_
+_Last Revised Date: February 20, 2008_
