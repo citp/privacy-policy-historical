@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourlads.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214082927id_/http%3A//ourlads.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourlads.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611232526id_/http%3A//ourlads.com/privacy.cfm) for the most accurate reproduction.*
 
 # 2008 NFL Draft - 2008 NFL Mock Draft from Ourlads Scouting Services
 
