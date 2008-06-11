@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyestat.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212085558id_/http%3A//www.dyestat.com/%3Fpg%3Dprivacy%26PHPSESSID%3D6c55edfce51f1e307641d48f2317567c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyestat.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611135414id_/http%3A//www.dyestat.com/%3Fpg%3Dprivacy%26PHPSESSID%3Dfb379ce99f29546e6783f469e5bbda63) for the most accurate reproduction.*
 
 # The DyeStat Privacy Policy | DyeStat.com
 
