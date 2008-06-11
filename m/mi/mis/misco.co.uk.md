@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2007-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070704033206id_/http%3A//www.misco.co.uk/content/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611060712id_/http%3A//www.misco.co.uk/content/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy, statement - Misco.co.uk
 
@@ -14,7 +14,7 @@ Northants
 NN8 6GS  
 
 
-You can [email us](mailto:custservice@misco.co.uk "Email Customer Service") or telephone us on **0870 720 8730**. 
+You can [email us](mailto:custservice@misco.co.uk "Email Customer Service") or telephone us on **0800 294 4515**. 
 
 **Privacy Policy Statement**
 
@@ -61,7 +61,7 @@ This site contains links to other sites. Misco is not responsible for the privac
 You can change your preferences in [My Account.](https://www.misco.co.uk/secure/orderlogin.asp?PG=1 "My Account")  
 You can send an email to [custservice@misco.co.uk](mailto:custservice@misco.co.uk "Email Customer Services")  
 You can send mail to the following postal address: Misco, Darby Close, Park Farm Industrial Estate, Wellingborough, Northants, NN8 6GS  
-You can call: 0870 720 8730
+You can call: 0800 294 4515
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact: [custservice@misco.co.uk](mailto:custservice@misco.co.uk "Email Customer Services")
 
@@ -73,7 +73,7 @@ A cookie is a text-only string of information that a website transfers to the co
 
 These are temporary cookies that remain in the memory of your browser until you leave the site.
 
-**Persistent cookies**
+ **Persistent cookies**
 
 These remain in the cookie folder or file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you. Find out more about [cookies](http://www.allaboutcookies.org/cookies/ "All about cookies"). 
 
