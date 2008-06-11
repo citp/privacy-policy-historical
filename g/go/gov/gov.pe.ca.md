@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.pe.ca privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213013454id_/http%3A//www.gov.pe.ca/copyright/index.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.pe.ca privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611135151id_/http%3A//www.gov.pe.ca/copyright/index.php3) for the most accurate reproduction.*
 
 # Prince Edward Island: Copyright and Privacy Policy
 
@@ -21,7 +21,7 @@ From time to time, the Government of Prince Edward Island may invite you to ente
 
 For more information, please visit [Freedom of Information and Protection of Privacy](https://web.archive.org/foipp/index.php3).
 
-Tourism PEI uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to [Double Click](http://www.doubleclick.net/us/corporate/privacy).
+Tourism PEI uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners, DoubleClick and 24/7 Real Media. These files enable DoubleClick and/or 24/7 Real Media to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick and/or 24/7 Real Media. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick or 24/7 Real Media, including information about how to opt out of these technologies, go to Double Click or 24/7 Real Media. 
 
 The government of Prince Edward Island makes no warranties, guarantees or representations about any external website it references, and it will assume no responsibility or liability for any loss or damage sustained due to any inaccuracy or misinformation found at such an external website.
 
