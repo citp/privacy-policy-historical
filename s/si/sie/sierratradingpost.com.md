@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206120532id_/http%3A//www.sierratradingpost.com/lp2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611233749id_/http%3A//www.sierratradingpost.com/lp2/privacy.html) for the most accurate reproduction.*
 
 # Sierra Trading Post: privacy
 
