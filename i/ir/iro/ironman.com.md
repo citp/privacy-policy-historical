@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ironman.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226163450id_/http%3A//www.ironman.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironman.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611074842id_/http%3A//www.ironman.com/corporate/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - IRONMAN.com
+# Privacy Policy » IRONMAN.com
 
 At Ironman.com, we are committed to safeguarding your privacy online. We want to assure our users that Ironman.com will not willfully disclose any specific individual information about you to any third party unless you give us your express permission to do so. 
 
