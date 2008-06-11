@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the automart.com privacy policy that was archived on 2007-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071230030603id_/http%3A//www.automart.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the automart.com privacy policy that was archived on 2008-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080611074140id_/http%3A//www.automart.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"><html><head>
 	<title> Privacy Policy</title>
 
 	<meta name="description" content="">
 	<meta name="keywords" content="">
-	<meta name="copyright" content="Copyright © 2007 Cox Enterprises, Inc.">
+	<meta name="copyright" content="Copyright © 2008 Cox Enterprises, Inc.">
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 	<meta name="ROBOTS" content="ALL">
 	<meta http-equiv="cache-control" content="no-cache">
@@ -37,6 +37,20 @@
 	  var url=document.redirect.selection.value
 	  document.location.href=url
 	}
+
+	function check_zip( field_id, div_id )
+	{
+		field_obj	= getObject( field_id );
+		div_obj		= getObject( div_id );
+
+		if( isNaN( field_obj.value ) || field_obj.value.length != 5 )
+		{
+			div_obj.innerHTML = "Please insert a Zip to research.<br /><a class='modal_url' href='http://www.automart.com/'>Return to AutoMart.com Home</a>";
+			return false;
+		} else {
+			return true;
+		}
+	}
 </script>
 
 <script language="Javascript">
@@ -54,15 +68,16 @@
 	// -->
 </script>
 
-  <script language="javascript" type="text/javascript" src="http://js.automart.com/js-static-wide/design/agonyx/navjava.js"></script>
+  <script language="javascript" type="text/javascript" src="http://js.AutoMart.com/js-static-wide/design/agonyx/navjava.js"></script>
 
 	
-<link rel="stylesheet" href="http://css.automart.com/css-static-wide/design/agonyx/cssv2.css" type="text/css">
-<!--<link rel="stylesheet" href="http://css.automart.com/css-static-wide/design/agonyx/graylight.css" type="text/css">-->
-<link rel="stylesheet" href="http://css.automart.com/css-static-wide/design/agonyx/graylight_186.css" type="text/css">
+<link rel="stylesheet" href="http://css.AutoMart.com/css-static-wide/design/agonyx/cssv2.css" type="text/css">
+<!--<link rel="stylesheet" href="http://css.AutoMart.com/css-static-wide/design/agonyx/graylight.css" type="text/css">-->
+<link rel="stylesheet" href="http://css.AutoMart.com/css-static-wide/design/agonyx/graylight_186.css" type="text/css">
+<link rel="stylesheet" href="http://css.AutoMart.com/css-static-wide/design/agonyx/lightbox.css" type="text/css">
 
-<!--	<link rel="stylesheet" href="http://css.automart.com/css-static-wide/design/agonyx/csspart2.css" type="text/css">-->
-		<link rel="stylesheet" href="http://css.automart.com/css-static-wide/design/agonyx/autoblue/privacypolicy.css" type="text/css">
+<!--	<link rel="stylesheet" href="http://css.AutoMart.com/css-static-wide/design/agonyx/csspart2.css" type="text/css">-->
+		<link rel="stylesheet" href="http://css.AutoMart.com/css-static-wide/design/agonyx/autoblue/privacypolicy.css" type="text/css">
 	
 <script language="JavaScript" type="text/javascript">
 	<!-- Yahoo! Search Marketing
@@ -72,27 +87,259 @@
 	"?aid=" + ysm_accountid + "></SCR" + "IPT>");
 	// -->
 </script><script language="JavaScript" type="text/javascript" src="//srv2.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=13BR3005V2OLDQTUK32NI5UCEEG"></script>
+<script>
+var arVersion = navigator.appVersion.split("MSIE")
+var version = parseFloat(arVersion[1])
+
+function fixPNG(myImage) 
+{
+    if ((version >= 5.5) && (version < 7) && (document.body.filters)) 
+    {
+       var imgID = (myImage.id) ? "id='" + myImage.id + "' " : ""
+	   var imgClass = (myImage.className) ? "class='" + myImage.className + "' " : ""
+	   var imgTitle = (myImage.title) ? 
+		             "title='" + myImage.title  + "' " : "title='" + myImage.alt + "' "
+	   var imgStyle = "display:inline-block;" + myImage.style.cssText
+	   var strNewHTML = "<span " + imgID + imgClass + imgTitle
+                  + " style=\"" + "width:" + myImage.width 
+                  + "px; height:" + myImage.height 
+                  + "px;" + imgStyle + ";"
+                  + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+                  + "(src=\'" + myImage.src + "\', sizingMethod='scale');\"></span>"
+	   myImage.outerHTML = strNewHTML	  
+    }
+}
+</script>
 </head>
 
 <body id="body" onload=""><a name="top"></a>
-<div class="fL100"><div align="center"><div class="body-content"> <!--START CENTERED CONTENT-->
 
-<script src="http://js.automart.com/js-static-wide/design/agonyx/mm_reloadpage.js" language="JavaScript" type="text/javascript"></script>
-<script src="http://js.automart.com/js-static-wide/design/agonyx/mm_findobj.js" language="JavaScript" type="text/javascript"></script>
+<div class="fL100"><div align="center"><div class="body-content"> <!--START CENTERED CONTENT-->
+	
+<script src="http://js.AutoMart.com/js-static-wide/design/agonyx/mm_reloadpage.js" language="JavaScript" type="text/javascript"></script>
+<script src="http://js.AutoMart.com/js-static-wide/design/agonyx/mm_findobj.js" language="JavaScript" type="text/javascript"></script>
 
 <div id="header">
 	<div id="mainheader">
-					<script language="JavaScript" type="text/javascript">
-			navsession = 0;
-			env_url = "http://www.automart.com";
-			colorpath = "http://images.automart.com/imgs/design/ag/agonyx/autoblue/";
-			flashnav = "http://images.automart.com/imgs/design/ag/agonyx/autoblue/flash/head-logo.swf";
-			quotes = "\'";
-			curpage = "privacypolicy";
-			account = "";
-			</script>
-			<script src="http://js.automart.com/js-static-wide/design/agonyx/navtempl-ff.js" language="JavaScript" type="text/javascript"></script>
+				
+<map name="map">
+	<area target="_parent" coords="0,0,125,85" href="http://www.automart.com/home.php" shape="rect">
+</map>
+<map name="nav">
+	<area coords="66,0,111,24" onmouseover="P7_autoShowHide(0,'dd-home')" shape="rect">
+	<area coords="112,0,186,24" onmouseover="P7_autoShowHide(0,'dd-usedcars')" shape="rect">
+	<area coords="187,0,257,24" onmouseover="P7_autoShowHide(0,'dd-newcars')" shape="rect">
+	<area coords="258,0,342,24" onmouseover="P7_autoShowHide(0,'dd-dealers')" shape="rect">
+	<area coords="343,0,390,24" onmouseover="P7_autoShowHide(0,'dd-tools')" shape="rect">
+	<area coords="391,0,461,24" onmouseover="P7_autoShowHide(0,'dd-financing')" shape="rect">
+	<area coords="462,0,533,24" onmouseover="P7_autoShowHide(0,'dd-insurance')" shape="rect">
+	<area coords="534,0,601,24" onmouseover="P7_autoShowHide(0,'dd-aboutus')" shape="rect">
+	<area coords="602,0,664,24" onmouseover="P7_autoShowHide(0,'dd-espanol')" shape="rect">
+</map>
+	
+<div class="am-navigation">
+	<div class="navlogo">
+		<img class="button" usemap="#map" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-bg-logo-01.jpg">
+	</div>
+	<div class="navheader">
+		<div class="nav-top">
+			<div class="fL">&nbsp;</div>
+					<div class="myAMlogin">
+				<div class="myAMlogin_txt1">
+					<div class="url_row">
+						<a class="myAMlogin_url" href="http://www.automart.com/urlclickcounter.php/pageval-myautomart_loginclicks/url-http://www.automart.com/myautologin.php" target="_self">MyAM Sign In</a> | <a class="myAMlogin_url" href="http://www.automart.com/imt_welcome.php" target="_self">Dealer Login</a>
+					</div>
+					<div class="url_row">
+						<a class="myAMlogin_url" href="http://www.automart.com/registration.php" target="_self">Join Today!</a> | <a class="myAMlogin_url" href="http://www.automart.com/registration.php" target="_self">Member Benefits</a>
+					</div>
+				</div>
 			</div>
+			
+		</div> <!-- end nav-top -->
+			
+		<div class="nav-tab-placement">
+			<div>
+				<img class="button" usemap="#nav" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/spacer.gif" width="635" height="24">
+			</div>		
+					<div id="dd-home">
+				<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-nav_home/url-http://www.automart.com/" class="leftddbox-home"></a>
+				<div class="ddBox">
+					<div id="subnav" class="subnav-home">
+						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_home_subnav/url-http://www.automart.com/">
+							Go to the AutoMart.com Home Page
+						</a>
+					</div>
+				</div>
+				<div class="rightddbox"></div>
+			</div>
+				
+					<div id="dd-usedcars">
+<!--				<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-nav_usedcars/url-http://www.automart.com/searchentry.php" class="leftddbox-usedcars"></a>-->
+				<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-nav_usedcars/url-http://www.automart.com/vehiclesearch.php" class="leftddbox-usedcars"></a>
+				<div class="ddBox">
+					<div id="subnav" class="subnav-usedcars">
+						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_searchused/url-http://www.automart.com/vehiclesearch.php">
+							Search Used Cars
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_searchcertified/url-http://www.automart.com/certifiedsearchform.php">
+							Search Certified Pre-Owned Cars
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_browse/url-http://www.automart.com/browse.php">
+							Browse All Cars
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_search_adv/url-http://www.automart.com/vehiclesearch_adv">
+							Advanced Search
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_search_fuelefficient/url-http://www.automart.com/fuel-efficient-cars.php">
+							<span class="green">Search Fuel-Efficient Cars</span>
+						</a>
+					</div>
+				</div>
+				<div class="rightddbox"></div>
+			</div>
+				
+					<div id="dd-newcars">
+<!--				<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-nav_newcars/url-http://www.automart.com/searchentry.php" class="leftddbox-newcars"></a>-->
+				<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-nav_newcars/url-http://www.automart.com/newcarresearchcenter" class="leftddbox-newcars"></a>
+				<div class="ddBox">
+					<div id="subnav" class="subnav-newcars">
+						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_searchnew/url-http://www.automart.com/newcarsearch.php">
+							Search New Cars
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_getresearch/url-http://www.automart.com/newcarresearchcenter">
+							Research New Cars
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_pricequote/url-http://www.automart.com/newcarquote_landing.php">
+							Get a Quick Price Quote
+						</a>
+					</div>
+				</div>
+				<div class="rightddbox"></div>
+			</div>
+				
+					<div id="dd-dealers">
+<!--				<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-nav_dealers/url-http://www.automart.com/searchentry.php" class="leftddbox-dealers"></a>-->
+				<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-dealers/url-http://www.automart.com/dealersearchform.php" class="leftddbox-dealers"></a>
+				<div class="ddBox">
+					<div id="subnav" class="subnav-dealers">
+						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_searchdealers/url-http://www.automart.com/dealersearchform.php">
+							Find a Car Dealer
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_browsedealers/url-http://www.automart.com/browsedealers.php">
+							Browse All Car Dealers
+						</a>
+					</div>
+				</div>
+				<div class="rightddbox"></div>
+			</div>
+				
+					<div id="dd-tools">
+				<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-nav_tools/url-http://www.automart.com/services_tools.php" class="leftddbox-tools"></a>
+				<div class="ddBox">
+					<div id="subnav" class="subnav-tools">
+						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_myautomart/url-http://www.automart.com/myautologin.php">
+							My AutoMart
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_paymentcalculator/url-http://www.automart.com/calculator.php">
+							Payment Calculator
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_warranty/url-http://www.automart.com/auto_warranty.php">
+							Auto Warranties
+						</a>
+												<!--<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_marketcomparison/url-http://www.automart.com/car_shipping_price_market_comparison_landing">
+							Compare Markets & Shipping
+						</a>-->
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_pricechecker/url-http://www.automart.com/pricechecker.php">
+							Price Checker
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_uship/url-http://www.automart.com/autotransport.php">
+							Auto Transport
+						</a>
+												<!--<a href="javascript:void(0);" onclick="autnavrsa();">
+							Auto Club
+						</a>-->
+					</div>
+				</div>
+				<div class="rightddbox"></div>
+			</div>
+				
+					<div id="dd-financing">
+				<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-nav_financing/url-http://www.automart.com/financecenter.php" class="leftddbox-financing"></a>
+				<div class="ddBox">
+					<div id="subnav" class="subnav-financing" style="width:500px;margin-left:170px;"> <!-- TEMP Style until we add Browse Credit to Find Credit page -->
+						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_carloans/url-http://www.automart.com/financecenter.php">
+							Car Loans
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_credithelp/url-http://www.automart.com/creditsearchform.php">
+							Find Credit Help
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_browsecredithelp/url-http://www.automart.com/browsecredit.php">
+							Browse All Credit Offers
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_lease/url-http://www.automart.com/carlease.php">
+							Car Lease
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_freecreditreport/url-http://www.automart.com/freecreditreport/navigation">
+							Free Credit Report
+						</a>
+					</div>
+				</div>
+				<div class="rightddbox"></div>
+			</div>
+				
+					<div id="dd-insurance">
+				<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-nav_insurance/url-http://www.automart.com/insurancecenter.php" class="leftddbox-insurance"></a>
+				<div class="ddBox">
+					<div id="subnav" class="subnav-insurance">
+						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_getinsurance/url-http://www.automart.com/insurancecenter.php">Auto Insurance Quotes and Helpful Tips</a>
+					</div>
+				</div>
+				<div class="rightddbox"></div>
+			</div>
+				
+					<div id="dd-aboutus">
+				<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-nav_aboutus/url-http://www.automart.com/aboutussite.php" class="leftddbox-aboutus"></a>
+				<div class="ddBox">
+					<div id="subnav" class="subnav-aboutus">
+						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_aboutus/url-http://www.automart.com/aboutussite.php">
+							About Our Company
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_pressrelease/url-http://www.automart.com/pressroom.php">
+							Press Room
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_partnerships/url-http://www.automart.com/partnerships.php">
+							Our Partnerships
+						</a>
+						<div class="nav-div-place"><img class="nav-divider" src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/nav-divider-01.png"></div>						<a target="_parent" href="http://www.automart.com/urlclickcounter/pageval-subnav_advertise/url-http://www.automart.com/advertise.php">
+							Advertise with AutoMart
+						</a>
+					</div>
+				</div>
+				<div class="rightddbox"></div>
+			</div>
+						
+					<div id="dd-espanol">
+				<a target="_blank" href="http://www.automart.com/urlclickcounter/pageval-nav_espanol/url-http://www.automercado.com/?LNX=AMARTHMPG" class="leftddbox-espanol"></a>
+				<div class="ddBox">
+					<div id="subnav" class="subnav-espanol">
+						<a target="_blank" href="http://www.automart.com/urlclickcounter/pageval-subnav_espanol/url-http://www.automercado.com/?LNX=AMARTHMPG">
+							Buscar en Español
+						</a>
+					</div>
+				</div>
+				<div class="rightddbox"></div>
+			</div>
+						
+		</div> <!-- end nav-tab-placement -->
+	</div> <!-- end navheader -->
+</div> <!-- end am-navigation -->
+
+<!--<script>
+	function autnavrsa(){
+		window.open('http://www.automart.com/urlclickcounter/pageval-subnav_autoclub/url-http://www.allstatemotorclub.com/promo/web/autnavrsa','autnavrsa','status=yes,resizable=yes,toolbar=yes,menubar=yes,location=yes,scrollbars=yes,address=yes,directories=yes,top=0,left=290,height=800,width=732');
+		return false;
+	}
+</script>-->	</div>
 </div>
 <noscript>
 	<div style="padding-left:12px;padding-right:10px;margin-top:50px;">
@@ -112,7 +359,7 @@
 						› <span class="breadcrumbs-current">Privacy Policy</span>
 					
 </div>
-<!--</div>-->		<div id="content2">
+<!--</div>-->			<div id="content2">
 			
 <div><div class="pp-body">
 	<div class="pp-links">
@@ -129,10 +376,10 @@
 		<a name="1"><strong>I. What information is collected?</strong></a>
 		<ul>
 			<li><strong>Personal Information:</strong><br>
-			We require personal contact information and property information from our members. The required information is used to effectively and accurately create, maintain, and display Auto Mart.com's classified services. The required property information varies with each site of the Auto Mart.com network depending on the industry and its relevant data.</li><br>
+			We require personal contact information and property information from our members. The required information is used to effectively and accurately create, maintain, and display AutoMart.com's classified services. The required property information varies with each site of the AutoMart.com network depending on the industry and its relevant data.</li><br>
 			<li><strong>Cookies:</strong><br>
 			Some sites in the AutoMart.com network utilize cookies in order to provide members and merchants with a more personalized experience by remembering who you are when you revisit the site. Cookies also track visitor activity and traffic patterns among the sites so that we can identify users' interests and behavior. With this information, we can improve existing user services and develop new products appropriate for our audience.</li><br>
-			<li><strong>Third-Party Ad Companies:</strong><br>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a class="mainLinkTextSm" href="http://www.advertising.com/Privacy.html" target="_blank"><strong>CLICK HERE</strong></a>.<br>
+			<li><strong>Third-Party Ad Companies:</strong><br>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a class="mainLinkTextSm" href="http://www.networkadvertising.org/consumer/opt_out.asp" target="_blank"><strong>CLICK HERE</strong></a>.<br>
 			<a href="#top"><strong>back to the top</strong></a></li>
 		</ul>
 	</div>
@@ -177,13 +424,9 @@
 		<a name="6"><strong>VI. Questions</strong></a>
 		<ul>
 			<li>If you have further questions that were not addressed in the above privacy policy, please contact Customer Service at 1-866-703-4080 or e-mail <a class="mainLinkTextSm" href="mailto:eMediaService@automart.com">eMediaService@automart.com</a>.<br>
-			<a href="#top"><strong>back to the top</strong></a></li>
+			<a href="#top"><strong>back to the top</strong></a></li> 
 		</ul>
 	</div>
-</div>
-<div class="pp-right">
-	<div class="pp-right-title">Privacy Policy</div>
-	<div class="pp-right-bottom"></div>
 </div></div>
 
 		</div>
@@ -215,7 +458,7 @@
 			AutoMart.com's exclusive resource section offers comparative vehicle pricing, loan payment calculators and tips to help you find your next vehicle. 
 		</div>
 		<div class="footer-info4">
-			<a target="_parent" class="navfooterInfo" href="http://www.automart.com/dealersearchform.php" title="Find a Dealer">Find an Auto Dealer</a>.<br>
+			<a target="_parent" class="navfooterInfo" href="http://www.automart.com/dealersearchform.php" title="Find a Dealer">Car Dealers</a>.<br>
 			Search for new and used car dealers across the country. There are currently over 15,000 dealers online. Search by zip code, make and dealer name.
 		</div>
 		<div class="footer-info5">
@@ -229,38 +472,44 @@
 	</div> <!--end navfooter-info-->
 	
 	<div class="navfooter-links">
-		<a target="_parent" class="navfooterLink" href="http://www.automart.com/myauto-session.php">My AutoMart</a><span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span><a class="navfooterLink" href="http://carcorner.typepad.com/?CMP=AFC-Blog" target="_blank">AutoMart.com Blog</a><span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span><a class="navfooterLink" href="http://www.automart.com/aboutussite.php">About AutoMart.com</a><span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span><a target="_parent" class="navfooterLink" href="http://www.automart.com/contactform.php">Contact AutoMart.com</a><span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span><a class="navfooterLink" href="http://www.coxenterprises.com/coxcareer/index.asp?Vermenu=career_opp" target="_blank">Careers</a><span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span><a class="navfooterLink" href="/">Home</a><span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span><a target="_parent" class="navfooterLink" href="http://www.automart.com/loginentry">Log In</a><span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span><a target="_parent" class="navfooterLink" href="http://www.automart.com/sitemap_alpha.php">Site Map</a><span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span><a target="_parent" class="navfooterLink" href="/pressroom.php">Press Room</a><span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span><a class="navfooterLink" href="http://www.dominiondistribution.net" target="_blank">Dominion Distribution</a><span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span><a class="navfooterLink" href="/feedback" onclick="return feedback_popup();">Feedback</a>
+		<a target="_parent" class="navfooterLink" href="http://www.automart.com/">Home</a>
+		<span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span>		<a target="_parent" class="navfooterLink" href="http://www.automart.com/registration.php">My AutoMart</a>
+		<span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span>		<a class="navfooterLink" href="http://www.automart.com/aboutussite.php">About Us</a>
+		<span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span>		<a target="_parent" class="navfooterLink" href="http://www.automart.com/contactform.php">Contact Us</a>
+		<span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span>		<a class="navfooterLink" href="http://carcorner.typepad.com/?CMP=AFC-Blog" target="_blank">Blog</a>
+		<span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span>		<a class="navfooterLink" href="http://www.coxenterprises.com/coxcareer/index.asp?Vermenu=career_opp" target="_blank">Careers</a>
+		<span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span>		<a target="_parent" class="navfooterLink" href="http://www.automart.com/sitemap_alpha.php">Site Map</a>
+		<span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span>		<a target="_parent" class="navfooterLink" href="/pressroom.php">Press Room</a>
+		<span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span>		<a class="navfooterLink" href="http://www.dominiondistribution.net" target="_blank">Dominion Distribution</a>
+		<span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span>		<a target="_parent" class="navfooterLink" href="http://www.automart.com/advertise.php">Advertise</a>
+		<span class="navdivider"><img src="http://images.automart.com/imgs/design/ag/agonyx/autoblue/footer-nav-divider-01.png" class="footerdivider"></span>		<a target="_parent" class="navfooterLink" href="http://www.automart.com/imt_welcome.php">Dealer Login</a>
 	</div> <!--end navfooter-links-->
 	<div class="navfooter-copy">
-		<div class="footer-copy1">Copyright © 2007 Cox Auto Trader, Inc. All Rights Reserved. This document is strictly for informational, non-commercial purposes.</div>
+		<div class="footer-copy1">Copyright © 2008 Cox Auto Trader, Inc. All Rights Reserved. This document is strictly for informational, non-commercial purposes.</div>
 		<div class="footer-copy2">Prices do not include government fees and taxes, any finance charges, any dealer document preparation charge and any emission testing charge.</div>
 	</div> <!--end navfooter-copy-->
 	<div class="navfooter-policy">
-		<a target="_parent" class="navfooterPolicy" href="http://www.automart.com/privacypolicy/">Privacy Policy</a> | <a target="_parent" class="navfooterPolicy" href="http://www.automart.com/fraudpreventiontips.php">Fraud Prevention Tips</a> | <a target="_parent" class="navfooterPolicy" href="http://www.automart.com/visitorsagreement.php">Visitor Agreement</a> | <a target="_parent" class="navfooterPolicy" href="http://www.automart.com/securitycenter">Security Center</a> 
+		<a target="_parent" class="navfooterPolicy" href="http://www.automart.com/privacypolicy/">Privacy Policy</a> | <a target="_parent" class="navfooterPolicy" href="http://www.automart.com/fraudpreventiontips.php">Fraud Prevention Tips</a> | <a target="_parent" class="navfooterPolicy" href="http://www.automart.com/visitorsagreement.php">Visitor Agreement</a> | <a target="_parent" class="navfooterPolicy" href="http://www.automart.com/securitycenter">Security Center</a> | <a class="navfooterPolicy" href="http://ww2.collectorcartrader.com/" target="_blank">Collector Car Trader</a>
 	</div> <!--end navfooter-policy-->
-</div>
-	</div>
+</div>	</div>
 </div></div></div> <!--END CENTERED CONTENT-->
 
 
 <script src="http://js.revsci.net/gateway/gw.js?csid=H06572"></script>
 <script>
-
-var segQS = rsinetsegs.length > 0 ? "segs=" + rsinetsegs[0] : "";
-for (var i = 1; i < rsinetsegs.length; i++)
-segQS += ("&segs=" + rsinetsegs[i]);
-document.cookie="segQS="+segQS+"; path=/";
-
-DM_addToLoc("sid", "automart");
-DM_addToLoc("make", "");
-DM_addToLoc("model", "");
-DM_addToLoc("type", "");
-DM_addToLoc("category", "");
-DM_addToLoc("zip", "");
-DM_tag(); 
+	var segQS = rsinetsegs.length > 0 ? "segs=" + rsinetsegs[0] : "";
+	for (var i = 1; i < rsinetsegs.length; i++)
+	segQS += ("&segs=" + rsinetsegs[i]);
+	document.cookie="segQS="+segQS+"; path=/";
+	
+	DM_addToLoc("sid", "automart");
+	DM_addToLoc("make", "");
+	DM_addToLoc("model", "");
+	DM_addToLoc("type", "");
+	DM_addToLoc("category", "");
+	DM_addToLoc("zip", "");
+	DM_tag(); 
 </script>
-
-
 
 <div class="ad-dot-com"><img src="http://servedby.advertising.com/burl/site=722702/mnum=1516/logs=0/bins=1/ctxt=,,," width="1" height="1" border="0"></div>
 
@@ -274,17 +523,20 @@ DM_tag();
 <!--Ad Detail for MapIt ::: Does NOT exist on our site-->
 
 
+<!--//Revenue Science Page Tag – AutoMart; Dated 02.08.08; david.carriger@automart.com-->
+	<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=G07610&amp;bpid=S0233"></script>
+<!--/********************************END:::Revenue Science Page Tag********************************************/-->
+
+
 	<div class="specmedia">
-		<!-- Catch-all for all other pages not covered by the above -->
-		<!-- Search 1x1 Tag 2007-08-14 -->
+		<!-- Catch-all for all other pages not covered by the above ::: 1x1 Tag 03.10.08 -->
 		<script>
-			document.write("<scr"+"ipt src='http://afe.specificclick.net?l=1901638856&sz=1x1&wr=j&t=j&u="+escape(document.location)+"&r="+escape(document.referrer)+"'></scri"+"pt>");
-		</script><script src="http://afe.specificclick.net?l=1901638856&amp;sz=1x1&amp;wr=j&amp;t=j&amp;u=https%3A//web.archive.org/web/20071230030603id_/http%3A//www.automart.com/privacypolicy/&amp;r="></script>
+			document.write("<scr"+"ipt src='http://afe.specificclick.net?l=153978856&sz=1x1&wr=j&t=j&u="+escape(document.location)+"&r="+escape(document.referrer)+"'></scri"+"pt>");
+		</script><script src="http://afe.specificclick.net?l=153978856&amp;sz=1x1&amp;wr=j&amp;t=j&amp;u=https%3A//web.archive.org/web/20080611074140id_/http%253A//www.automart.com/privacypolicy&amp;r="></script>
 		<noscript>
-			<A HREF="[default_href]"> <IMG SRC="[default_img_src]" WIDTH=1 HEIGHT=1 border=0 ALT=""></IMG></A>
+			<A HREF="[default_href]"><IMG SRC="[default_img_src]" WIDTH=1 HEIGHT=1 border=0 ALT=""></IMG></A>
 		</noscript>
 	</div>
-
 
 <div class="outside_the_box">
 	<script language="JavaScript">
@@ -298,22 +550,10 @@ DM_tag();
 <script type="text/javascript">
 	_uacct = "UA-1284457-1";
 	urchinTracker();
-</script>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
 	_uacct = "UA-1284488-1";
 	urchinTracker();
-</script>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
 	_uacct = "UA-1302414-1";
 	urchinTracker();
-</script>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
 	_uacct = "UA-164862-1";
 	urchinTracker();
 </script>
@@ -522,7 +762,7 @@ function dcsAdv(){
 <!-- V8.0 -->
 <!-- $DateTime: 2006/04/07 16:45:14 $ -->
 <script type="text/javascript"><!--
-var gDomain="sdc.traderonline.com";
+var gDomain="sdc.traderpub.net";
 var gDcsId="dcscfmy3210000st9p28ufwzj_5k1q";
 
 if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
@@ -722,7 +962,7 @@ function dcsTag(){
 		P=P.substring(0,2040)+"&WT.tu=1";
 	}
 	dcsCreateImage(P);
-}
+} 
 
 function dcsJV(){
 	var agt=navigator.userAgent.toLowerCase();
@@ -768,7 +1008,7 @@ dcsTag();
 </script>
 
 <noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://sdc.traderonline.com/dcscfmy3210000st9p28ufwzj_5k1q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.0">
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://sdc.traderpub.net/dcscfmy3210000st9p28ufwzj_5k1q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.0">
 </noscript>
 <!-- END OF SmartSource Data Collector  TAG -->
 
@@ -834,6 +1074,6 @@ dcsTag();
 
 			//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
 		</script>
-		<script language="javascript1.1" defer="" src="http://js.automart.com/js-static-wide/design/agonyx/hbx.js"></script>
+		<script language="javascript1.1" defer="" src="http://js.AutoMart.com/js-static-wide/design/agonyx/hbx.js"></script>
 		<!--END WEBSIDESTORY CODE-->
 </body></html>
