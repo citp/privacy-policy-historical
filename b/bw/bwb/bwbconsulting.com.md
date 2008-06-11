@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bwbconsulting.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213105609id_/http%3A//www.bwbconsulting.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bwbconsulting.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611174815id_/http%3A//www.bwbconsulting.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
