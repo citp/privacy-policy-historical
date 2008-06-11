@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the davedraper.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213103952id_/http%3A//www.davedraper.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davedraper.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611201228id_/http%3A//www.davedraper.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IronOnline Privacy Policy
 
-[](http://davedraper.com/)
+[ ](http://davedraper.com/)
 
 Before you get distracted by all the great options you're about to find here, please sign up for Dave's free weekly newsletter so he can continue to encourage and motivate you toward your fitness goals. 
 
