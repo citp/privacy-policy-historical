@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullguard.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213024723id_/http%3A//www.bullguard.com/about/privacy-policy.aspx%3F_s_peprm%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullguard.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611123118id_/http%3A//www.bullguard.com/about/privacy-policy.aspx%3F_s_peprm%3Dfooter) for the most accurate reproduction.*
 
 # BullGuard - Privacy Policy
 
