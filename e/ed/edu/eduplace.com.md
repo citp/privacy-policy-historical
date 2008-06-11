@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214143045id_/http%3A//www.hmco.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611131253id_/http%3A//www.hmco.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Houghton Mifflin Privacy Policy
 
@@ -23,12 +23,12 @@ Involvement of parents: In accordance with the provisions of the Children's Onli
 How to get in touch with Houghton Mifflin: The following list has the names, addresses, and phone numbers of the individuals operating websites for the various divisions and subsidiaries of Houghton Mifflin Company.
 
 Division: Corporate  
-Name: Cheryl Cramer Toto  
-Title: Vice President, Market Strategy  
-Address: 222 Berkeley Street, 5th Floor  
-Boston, MA 02116-3764  
-Telephone Number: 617-351-5199  
-E-mail Address: [cheryl_cramer@hmco.com](mailto:cheryl_cramer@hmco.com)
+Name: Rick Blake  
+Title: Senior Vice President, Communications and Government Relations  
+Address: 6277 Sea Harbor Drive  
+Orlando, FL 32887  
+Telephone Number: 773-360-7106  
+E-mail Address: [ richard.blake@harcourt.com](mailto:richard.blake@harcourt.com)
 
 Division: School  
 Name: Richard Lena  
@@ -68,12 +68,5 @@ Title: Webmaster
 Address: 222 Berkeley Street, 9th Floor  
 Boston, MA 02116-3764  
 E-mail Address: [trade_webmaster@hmco.com](mailto:trade_webmaster@hmco.com)
-
-Division: College  
-Name: College Webmaster  
-Title: Director of Web Initiatives  
-Address: 222 Berkeley Street  
-Boston, MA 02116  
-E-mail Address: [college_webmaster@hmco.com](mailto:college_webmaster@hmco.com)
 
 Riverside Publishing Company and Cognitive Concepts, Inc. are wholly owned subsidiaries of Houghton Mifflin Company.
