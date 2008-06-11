@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the apnicommunity.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225180103id_/http%3A//www.apnicommunity.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnicommunity.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611103708id_/http%3A//www.apnicommunity.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Indian Television and Bollywood Forum - Watch Online & Discuss - Privacy Policy
 
-|  **Be part of the most happening Indian/Pakistani forum!** |  [BBuzz!](http://bbuzz.apnicommunity.com/) |  [Gallery](http://gallery.apnicommunity.com/index.php) |   [Music](https://web.archive.org/web/20071225180103id_/http%3A//www.apnicommunity.com/music-forum/) |    [Desi Videos](http://www.muft.tv/) |    [Movies](http://www.apnicommunity.com/bollywood-forum/)|    [Friends](http://www.dostipoint.com/)  
----|---|---|---|---|---|---|---  
+Join the most happening Desi Social Network and Make friends!  |  |   
+---|---|---  
   
   
 
@@ -13,17 +13,7 @@
 |   
 ---|---  
   
-
-
-[Contact Us](http://www.apnicommunity.com/sendmessage.php)
-
-[Advertise](http://www.apnicommunity.com/sendmessage.php)
-
-[Privacy Policy](http://www.apnicommunity.com/privacy_policy.php)
-
-[Disclaimer](http://www.apnicommunity.com/disclaimer.php)
-
-|  apniCommunity care about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By registering to apniCommunity.com you are accepting the practices outlined in this Privacy Policy. 
+|  |  apniCommunity care about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By registering to apniCommunity.com you are accepting the practices outlined in this Privacy Policy. 
 
   * We will never sell your personal information, or use it for any other purpose other than logging in/out, demographics for our knowledge, and any voluntary feature of the site.
   * We use cookies with minimal information in them. 
@@ -50,10 +40,9 @@ The Federal Trade Commission’s Children Online Privacy Protection Act of 1998 
   
 ---|---|---  
   
-  
+All times are GMT -5. The time now is 05:37 AM.
 
-
-All times are GMT -5. The time now is 01:01 PM. 
+[ ](http://feeds.feedburner.com/apniCommunity) Subscribe to Indian Television & Bollywood Forum | [ ](http://add.my.yahoo.com/rss?url=http://feeds.feedburner.com/apniCommunity)  [ ](http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://feeds.feedburner.com/apniCommunity)  [ ](http://feeds.my.aol.com/add.jsp?url=http://feeds.feedburner.com/apniCommunity)  [ ](http://www.netvibes.com/subscribe.php?url=http://feeds.feedburner.com/apniCommunity) [ ](http://my.msn.com/addtomymsn.armx?id=rss&ut=http://feeds.feedburner.com/apniCommunity)  [ ](http://fusion.google.com/add?feedurl=http://feeds.feedburner.com/apniCommunity)
 
   
 
