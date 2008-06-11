@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nancysnotions.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217195340id_/http%3A//www.nancysnotions.com/NNVia/viaShellPage.jsp%3FreadPage%3Dhttp%3A//www.nancysnotions.com/NNVia/CustomPages/secureprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nancysnotions.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611142223id_/http%3A//www.nancysnotions.com/NNVia/viaShellPage.jsp%3FreadPage%3Dhttp%3A//www.nancysnotions.com/NNVia/CustomPages/secureprivacy.htm) for the most accurate reproduction.*
 
 # Nancy's Notions
 
