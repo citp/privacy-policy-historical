@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petatv.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216222853id_/http%3A//www.peta.org/priv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petatv.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611183839id_/http%3A//www.peta.org/priv.asp) for the most accurate reproduction.*
 
 # People for the Ethical Treatment of Animals (PETA): Your Privacy
 
