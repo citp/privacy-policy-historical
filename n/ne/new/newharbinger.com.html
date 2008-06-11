@@ -1,0 +1,1975 @@
+<!--The following is the downloaded HTML source of the newharbinger.com privacy policy that was archived on 2008-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080611071714id_/http%3A//www.newharbinger.com/client/client_pages/privacyterms.cfm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+
+
+
+<link href="/client/client_css/client_styles.css" rel="stylesheet" type="text/css">
+<link href="/client/client_css/site_styles.css" rel="stylesheet" type="text/css">
+
+
+
+<script src="/__utm.js" type="text/javascript"></script>
+
+
+<meta http-equiv="Pragma" content="no-cache">
+
+
+
+
+
+
+
+ 
+ 
+
+
+<script language="JavaScript">
+/*
+   name - name of the cookie
+   value - value of the cookie
+   [expires] - expiration date of the cookie
+     (defaults to end of current session)
+   [path] - path for which the cookie is valid
+     (defaults to path of calling document)
+   [domain] - domain for which the cookie is valid
+     (defaults to domain of calling document)
+   [secure] - Boolean value indicating if the cookie transmission requires
+     a secure transmission
+   * an argument defaults when it is assigned null as a placeholder
+   * a null placeholder is not required for trailing omitted arguments
+*/
+
+function Get_Cookie( name ) {
+	
+	var start = document.cookie.indexOf( name + "=" );
+	var len = start + name.length + 1;
+	if ( ( !start ) && ( name != document.cookie.substring( 0, name.length ) ) )
+	{
+		return null;
+	}
+	if ( start == -1 ) return null;
+	var end = document.cookie.indexOf( ";", len );
+	if ( end == -1 ) end = document.cookie.length;
+	return unescape( document.cookie.substring( len, end ) );
+}
+// this deletes the cookie when called
+function Delete_Cookie( name, path, domain ) {
+	if(document.search.IsSearchFilterOn == "0"){
+		return false;
+	}else{
+		name = name.toUpperCase();
+		
+		if ( Get_Cookie( name ) ) document.cookie = name + "=" +
+				( ( path ) ? ";path=" + path : "") +
+				( ( domain ) ? ";domain=" + domain : "" ) +
+				";expires=Thu, 01-Jan-1970 00:00:01 GMT";
+	}		
+}
+
+function Set_Cookie( name, value, expires, path, domain, secure ) {
+	if(document.search.IsSearchFilterOn.value == 0){
+		return false;
+	}else{
+		name = name.toUpperCase();
+		// set time, it's in milliseconds
+		var today = new Date();
+		today.setTime( today.getTime() );
+	
+		// if the expires variable is set, make the correct expires time, the
+		// current script below will set it for x number of days, to make it
+		// for hours, delete * 24, for minutes, delete * 60 * 24
+		if ( expires )
+		{
+			expires = expires * 1000 * 60 * 60 * 24;
+		}
+		var expires_date = new Date( today.getTime() + (expires) );
+	
+		document.cookie = name + "=" +escape( value ) +
+			( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) + 
+			( ( path ) ? ";path=" + path : "" ) + 
+			( ( domain ) ? ";domain=" + domain : "" ) +
+			( ( secure ) ? ";secure" : "" );
+	}
+}
+</script>
+
+
+
+
+<meta name="keywords" content="add keyword here for default if a custom set is not created">
+<meta name="robots" content="ALL">
+<meta name="distribution" content="Global">
+<meta name="dc.title" content="">
+<meta name="dc.description" content="">
+<meta name="dc.date" content="">
+<meta name="dc.type" content="e">
+<meta name="dc.format" content="HTML">
+<meta name="dc.identifier" content="http://www.newharbinger.com">
+<meta name="dc.language" content="en-us">
+<meta name="dc.coverage" content="Global"> 
+
+<script type="text/javascript"></script><script type="text/javascript" src="/jslib/PowerWeb.js"></script><script type="text/javascript">
+var args = new Object();
+args.popup = 'toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=yes,width=169,height=20';
+args.popupSub = 'toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=yes,width=185,height=20';
+PowerWeb = new PW( args );
+</script></head>
+
+
+<body bgcolor="">
+
+
+
+<noscript>
+	<div align="center" class="productAttributesTitle"><font color="#CC0000"><p> You must have javascript enabled to utilize the functionality of this website. If you have set your security settings to high, please reduce to medium</p></font></div>
+</noscript>
+
+<div id="headersec">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td rowspan="2"><a href="http://www.newharbinger.com"><img src="/client/client_images/template/top_left.gif" width="69" height="95" border="0"></a></td>
+    <td><a href="http://www.newharbinger.com"><img src="/client/client_images/template/top_mid.gif" alt="New Harbinger Publications, Inc. www.newharbinger.com 800.748.6273" width="368" height="63" border="0"></a></td>
+    <td rowspan="3"><img src="/client/client_images/template/spacer.gif" width="55" height="10"></td>
+    <td rowspan="3" align="right">
+		<table border="0" cellspacing="0" cellpadding="0">
+		  <tbody><tr>
+			<td>
+				<div align="right" class="shoppingcart">
+				
+					No items in cart
+				
+				&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.newharbinger.com/usermanagement/usercenter.cfm">Your Account/Login</a>				
+			</div>			</td>
+		  </tr>
+		  <tr>
+			<td valign="bottom"><img src="/client/client_images/template/tagline.gif" alt="The best psychology and self-help books since 1973, with real tools for real change." width="281" height="60"></td>
+		  </tr>
+		</tbody></table>	</td>
+  </tr>
+  
+	
+	
+	<tr>
+    <td><img src="/client/client_images/template/top_mid2.gif" width="368" height="32"></td>
+  </tr>
+	<tr>
+    <td><img src="/client/client_images/template/top_left2.gif" width="69" height="22"></td>
+    <td>
+	<a href="http://www.newharbinger.com/client/client_pages/optinform.cfm" onmouseover="image12.src='/client/client_images/template/signup_box_ov.gif';" onmouseout="image12.src='/client/client_images/template/signup_box.gif';">
+<img name="image12" src="/client/client_images/template/signup_box.gif" width="373" height="22" border="0"></a>
+	
+	</td>
+  </tr>
+  <tr>
+    <td colspan="4"><img src="/client/client_images/template/hz_greenline.gif" width="773" height="8"></td>
+  </tr>
+  <tr>
+    <td colspan="4"><table border="0" cellspacing="0" cellpadding="0">
+  
+        
+        <tbody><tr><td colspan="4"><a href="http://www.newharbinger.com/" onmouseover="image1.src='/client/client_images/template/bt_home_ov.gif';" onmouseout="image1.src='/client/client_images/template/bt_home.gif';">
+<img name="image1" src="/client/client_images/template/bt_home.gif" alt="Home" border="0" width="48" height="49"></a></td>
+
+
+        <td><a href="http://www.newharbinger.com/client/client_pages/aboutus.cfm" onmouseover="image2.src='/client/client_images/template/bt_about_ov.gif';" onmouseout="image2.src='/client/client_images/template/bt_about.gif';">
+<img name="image2" src="/client/client_images/template/bt_about.gif" alt="About New Harbinger" border="0"></a></td>
+
+        <td><a href="http://www.newharbinger.com/client/client_pages/authors.cfm" onmouseover="image3.src='/client/client_images/template/bt_about2_ov.gif';" onmouseout="image3.src='/client/client_images/template/bt_about2.gif';">
+<img name="image3" src="/client/client_images/template/bt_about2.gif" alt="About NH Authors" border="0"></a></td>
+
+        <td><a href="http://www.newharbinger.com/client/client_pages/publishing.cfm" onmouseover="image4.src='/client/client_images/template/bt_forauthors_ov.gif';" onmouseout="image4.src='/client/client_images/template/bt_forauthors.gif';">
+<img name="image4" src="/client/client_images/template/bt_forauthors.gif" alt="For Authors" border="0"></a></td>
+
+        <td><a href="http://www.newharbinger.com/client/client_pages/ordering.cfm" onmouseover="image5.src='/client/client_images/template/bt_ordering_ov.gif';" onmouseout="image5.src='/client/client_images/template/bt_ordering.gif';">
+<img name="image5" src="/client/client_images/template/bt_ordering.gif" alt="Ordering Information" border="0"></a></td>
+
+        <td><a href="http://www.newharbinger.com/client/client_pages/pressroom.cfm" onmouseover="image6.src='/client/client_images/template/bt_media_ov.gif';" onmouseout="image6.src='/client/client_images/template/bt_media.gif';">
+<img name="image6" src="/client/client_images/template/bt_media.gif" alt="Media Information" border="0"></a></td>
+
+        <td><a href="http://www.newharbinger.com/client/client_pages/professionals.cfm" onmouseover="image7.src='/client/client_images/template/bt_prof_ov.gif';" onmouseout="image7.src='/client/client_images/template/bt_prof.gif';">
+<img name="image7" src="/client/client_images/template/bt_prof.gif" alt="For Professionals" border="0"></a></td>
+
+        <td><a href="http://www.newharbinger.com/client/client_pages/contacts.cfm" onmouseover="image8.src='/client/client_images/template/bt_contact_ov.gif';" onmouseout="image8.src='/client/client_images/template/bt_contact.gif';">
+<img name="image8" src="/client/client_images/template/bt_contact.gif" alt="Contact Us" border="0"></a></td>
+
+		<td><a href="http://www.newharbinger.com/client/client_pages/library.cfm" onmouseover="image9.src='/client/client_images/template/bt_lib_ov.gif';" onmouseout="image9.src='/client/client_images/template/bt_lib.gif';">
+<img name="image9" src="/client/client_images/template/bt_lib.gif" alt="Contact Us" border="0"></a></td>
+       
+		<td><a href="http://www.newharbinger.com/client/client_pages/optinformbookalert.cfm" onmouseover="image10.src='/client/client_images/template/bt_bookalert_ov.gif';" onmouseout="image10.src='/client/client_images/template/bt_bookalert.gif';">
+<img name="image10" src="/client/client_images/template/bt_bookalert.gif" alt="BookAlert" border="0"></a></td>
+
+        <td><a href="http://www.newharbinger.com/client/client_pages/jobs.cfm" onmouseover="image11.src='/client/client_images/template/bt_jobs_ov.gif';" onmouseout="image11.src='/client/client_images/template/bt_jobs.gif';">
+<img name="image11" src="/client/client_images/template/bt_jobs.gif" alt="Jobs" border="0"></a></td>
+      </tr>
+    </tbody></table>	</td>
+	</tr><tr>
+	  <td colspan="4"><img src="/client/client_images/template/bottom12.gif" width="67" height="8"></td>
+	</tr>
+  
+</tbody></table>
+</div>
+
+
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="10" bgcolor="#FFFFFF"><img src="/client/client_images/template/spacer.gif" width="8" height="10"></td>
+		<td width="170" bgcolor="#FAF0BD" valign="top">
+		<table width="170" border="0" cellspacing="0" cellpadding="0">
+        	<tbody><tr>
+        		<td align="center"><img src="/client/client_images/template/spacer.gif" height="10" width="20"></td>
+       		</tr>
+        	<tr>
+        		<td align="center">
+					<table border="0" cellspacing="0" cellpadding="2">
+						<form action="/searchproducts.cfm" method="post" name="search" id="search"></form>
+						<tbody><tr>
+							<td colspan="2" class="larger"><strong>Search:</strong></td>
+						  </tr>
+						<tr>
+							<td width="90">
+								<input name="productformat" value="default" type="hidden">
+								<input name="purchase_rent" value="default" type="hidden">
+								<input type="hidden" name="SearchFlag" value="True">
+								<input type="hidden" name="searchtype" value="ProdColFullSearch">
+            					<input name="keywords_ATTRIBUTES" type="hidden" value="type=SEARCHVERITY~required=1">
+								<input name="keywords" size="15" class="searchbox" style="width:120">
+							</td>
+							<td width="28"><input name="Search" type="image" id="submit" src="/client/client_images/template/goImage1.gif" alt="Go Search" width="21" height="21" border="0"></td>
+						  </tr>
+						<tr>
+							<td colspan="2" class="larger">
+											
+								
+								<select name="keywordtype" class="searchbox" style="width:120">
+									<option value="bykeyword">By Keyword</option>
+									
+										<option value="byproductcode">By Product Code</option>		
+									
+										<option value="byisbn">By ISBN (use dashes)</option>
+									
+										<option value="ByTitle">By Title</option>		
+									
+										<option value="ByAuthor">By Author</option>		
+									
+								</select>
+								
+							</td>
+							
+                		</tr>
+						
+                	</tbody></table>
+				</td>
+       		</tr>
+        	<tr>
+					<td align="right"><img src="/client/client_images/template/spacer.gif" width="143" height="8"></td>
+			</tr>
+			<tr>
+        		<td align="right"><a href="/client/client_pages/bestsellers.cfm"><img src="/client/client_images/template/bestsellers.gif" alt="best sellers mental health" width="143" height="32" border="0"></a></td>
+       		</tr>
+        	<tr>
+        		<td align="right"><a href="/showproducts.cfm?CrossCatID=2"><img src="/client/client_images/template/newreleases.gif" alt="new releases in mental health books" width="143" height="30" vspace="5" border="0"></a></td>
+       		</tr>
+        	<tr>
+        		<td align="right"><img src="/client/client_images/template/bookcat2.gif" alt="books by new harbinger" width="136" height="25" border="0"></td>
+       		</tr>
+        	<tr>
+        		<td class="redline">
+						<div class="leftnav">
+						
+							<div id="browse" style="height:483;">
+								
+
+
+
+
+
+
+
+
+
+
+
+</div></div></td><td width="100%" height="50%" align="center" nowrap="">
+<script type="text/javascript">
+
+function Go(){return}
+
+</script>
+<script type="text/javascript" src="/client/client_jslib/menu_var.js"></script>
+<script type="text/javascript" src="/client/client_jslib/menu_com.js"></script>
+<noscript>Your browser does not support script</noscript>
+<script>
+
+var NoOffFirstLineMenus=23;
+
+		
+	
+			
+			
+			
+		
+			
+Menu1=new Array("Anxiety","/catalog.cfm?CatPos=1","",6,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu1_1=new Array("General Anxiety","/catalog.cfm?step=1&CatPos=2","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu1_2=new Array("Agoraphobia","/catalog.cfm?step=1&CatPos=3","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu1_3=new Array("Obsessive-Compulsive Disorder","/catalog.cfm?step=1&CatPos=4","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu1_4=new Array("Panic Disorder","/catalog.cfm?step=1&CatPos=5","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu1_5=new Array("Social Anxiety Disorder","/catalog.cfm?step=1&CatPos=6","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu1_6=new Array("Specific Phobias","/catalog.cfm?step=1&CatPos=7","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu2=new Array("Anger Management","/catalog.cfm?CatPos=8","",3,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu2_1=new Array("Self-Care Anger Management","/catalog.cfm?step=1&CatPos=9","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu2_2=new Array("Victims of Anger","/catalog.cfm?step=1&CatPos=10","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu2_3=new Array("Professional Guides","/catalog.cfm?step=1&CatPos=11","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu3=new Array("Audio Programs","/catalog.cfm?CatPos=12","",9,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu3_1=new Array("Cognitive Control Series","/catalog.cfm?step=1&CatPos=13","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu3_2=new Array("Couple Skills Series","/catalog.cfm?step=1&CatPos=14","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu3_3=new Array("General Audio Programs","/catalog.cfm?step=1&CatPos=15","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu3_4=new Array("Hypnosis Series","/catalog.cfm?step=1&CatPos=16","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu3_5=new Array("Messages Skills Series","/catalog.cfm?step=1&CatPos=17","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu3_6=new Array("Daily Relaxer Series","/catalog.cfm?step=1&CatPos=18","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu3_7=new Array("RS Workbook Series","/catalog.cfm?step=1&CatPos=19","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu3_8=new Array("Time Out from Stress Series","/catalog.cfm?step=1&CatPos=20","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu3_9=new Array("Visualization Series","/catalog.cfm?step=1&CatPos=21","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu4=new Array("Career and Business","/catalog.cfm?CatPos=22","",0,20,169);
+					
+		
+
+			
+			
+			
+		
+			
+Menu5=new Array("Depression and Mood Disorders","/catalog.cfm?CatPos=23","",4,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu5_1=new Array("General Depression","/catalog.cfm?step=1&CatPos=24","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu5_2=new Array("Bipolar and Cyclothymia","/catalog.cfm?step=1&CatPos=25","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu5_3=new Array("Depression in Children","/catalog.cfm?step=1&CatPos=26","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu5_4=new Array("Alternative Therapies","/catalog.cfm?step=1&CatPos=27","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu6=new Array("Gift Books","/catalog.cfm?CatPos=138","",2,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu6_1=new Array("General","/catalog.cfm?step=1&CatPos=150","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu6_2=new Array("Spa","/catalog.cfm?step=1&CatPos=151","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu7=new Array("Health and Wellness","/catalog.cfm?CatPos=28","",3,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu7_1=new Array("General Health","/catalog.cfm?step=1&CatPos=29","",3,20,185);
+									
+										
+										
+											
+											
+	         
+		
+												
+Menu7_1_1=new Array("Diet and Exercise","/catalog.cfm?CatPos=30","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu7_1_2=new Array("Epidemiology","/catalog.cfm?CatPos=31","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu7_1_3=new Array("Prevention and Wellness","/catalog.cfm?CatPos=32","",0,20,185);
+										
+									
+						
+					
+							
+				
+							
+							
+	         
+		
+							
+Menu7_2=new Array("Medical Conditions","/catalog.cfm?step=1&CatPos=33","",9,20,185);
+									
+										
+										
+											
+											
+	         
+		
+												
+Menu7_2_1=new Array("Alzheimer's and Parkinson's","/catalog.cfm?CatPos=34","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu7_2_2=new Array("Cancer","/catalog.cfm?CatPos=35","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu7_2_3=new Array("Cardiac Health","/catalog.cfm?CatPos=36","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu7_2_4=new Array("Digestive and Urinary Problems","/catalog.cfm?CatPos=37","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu7_2_5=new Array("Fibromyalgia - Chronic Illness","/catalog.cfm?CatPos=38","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu7_2_6=new Array("Medications","/catalog.cfm?CatPos=39","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu7_2_7=new Array("Other Specific Conditions","/catalog.cfm?CatPos=40","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu7_2_8=new Array("Pain Control","/catalog.cfm?CatPos=41","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu7_2_9=new Array("RSI and Joint Problems","/catalog.cfm?CatPos=42","",0,20,185);
+										
+									
+						
+					
+							
+				
+							
+							
+	         
+		
+							
+Menu7_3=new Array("Women's Health","/catalog.cfm?step=1&CatPos=43","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu8=new Array("Memoirs","/catalog.cfm?CatPos=140","",0,20,169);
+					
+		
+
+			
+			
+			
+		
+			
+Menu9=new Array("Other Psychological Problems","/catalog.cfm?CatPos=44","",8,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu9_1=new Array("Addiction and Recovery","/catalog.cfm?step=1&CatPos=45","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu9_2=new Array("Obsessive-Compulsive Disorder","/catalog.cfm?step=1&CatPos=46","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu9_3=new Array("Trauma and Abuse","/catalog.cfm?step=1&CatPos=47","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu9_4=new Array("Eating and Body Image Disorders","/catalog.cfm?step=1&CatPos=48","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu9_5=new Array("ADD and Learning Disorders","/catalog.cfm?step=1&CatPos=49","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu9_6=new Array("Borderline Personality Disorder","/catalog.cfm?step=1&CatPos=50","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu9_7=new Array("Personality Disorders and DID","/catalog.cfm?step=1&CatPos=51","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu9_8=new Array("Impulse-Control Disorders","/catalog.cfm?step=1&CatPos=52","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu10=new Array("Other Life Problems","/catalog.cfm?CatPos=53","",4,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu10_1=new Array("Addiction and Recovery","/catalog.cfm?step=1&CatPos=54","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu10_2=new Array("Emotional Regulation","/catalog.cfm?step=1&CatPos=55","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu10_3=new Array("Impulse-Control Problems","/catalog.cfm?step=1&CatPos=56","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu10_4=new Array("Grief Recovery","/catalog.cfm?step=1&CatPos=57","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu11=new Array("Personal Growth","/catalog.cfm?CatPos=58","",7,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu11_1=new Array("Better Living","/catalog.cfm?step=1&CatPos=59","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu11_2=new Array("Personal Direction","/catalog.cfm?step=1&CatPos=60","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu11_3=new Array("Focus and Memory","/catalog.cfm?step=1&CatPos=61","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu11_4=new Array("Hypnosis","/catalog.cfm?step=1&CatPos=62","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu11_5=new Array("Personal Effectiveness","/catalog.cfm?step=1&CatPos=63","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu11_6=new Array("Personal Growth for Women","/catalog.cfm?step=1&CatPos=64","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu11_7=new Array("Spirituality and Philosophy","/catalog.cfm?step=1&CatPos=65","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu12=new Array("Self-Esteem","/catalog.cfm?CatPos=66","",2,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu12_1=new Array("General Self-Esteem","/catalog.cfm?step=1&CatPos=67","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu12_2=new Array("Perfectionism","/catalog.cfm?step=1&CatPos=68","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu13=new Array("Families","/catalog.cfm?CatPos=69","",6,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu13_1=new Array("Parenting Skills","/catalog.cfm?step=1&CatPos=70","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu13_2=new Array("Family Relationships","/catalog.cfm?step=1&CatPos=71","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu13_3=new Array("Pregnancy and Childcare","/catalog.cfm?step=1&CatPos=72","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu13_4=new Array("Special Needs","/catalog.cfm?step=1&CatPos=73","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu13_5=new Array("Alternative Families","/catalog.cfm?step=1&CatPos=74","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu13_6=new Array("Aging","/catalog.cfm?step=1&CatPos=158","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu14=new Array("Books for Professionals","/catalog.cfm?CatPos=75","",7,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu14_1=new Array("Anger Management","/catalog.cfm?step=1&CatPos=76","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu14_2=new Array("Anxiety Disorders","/catalog.cfm?step=1&CatPos=77","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu14_3=new Array("Cognitive Techniques Videos","/catalog.cfm?step=1&CatPos=78","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu14_4=new Array("Mood Disorders","/catalog.cfm?step=1&CatPos=79","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu14_5=new Array("Psychotic Disorders","/catalog.cfm?step=1&CatPos=80","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu14_6=new Array("Therapy for Children","/catalog.cfm?step=1&CatPos=81","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu14_7=new Array("Clinical Practice--Pharmacology","/catalog.cfm?step=1&CatPos=82","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu15=new Array("Relationships","/catalog.cfm?CatPos=83","",5,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu15_1=new Array("Divorce","/catalog.cfm?step=1&CatPos=84","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu15_2=new Array("Interpersonal Skills","/catalog.cfm?step=1&CatPos=85","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu15_3=new Array("Intimate Relationships","/catalog.cfm?step=1&CatPos=86","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu15_4=new Array("Sexuality","/catalog.cfm?step=1&CatPos=87","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu15_5=new Array("Weddings and Marriage","/catalog.cfm?step=1&CatPos=88","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu16=new Array("Stress","/catalog.cfm?CatPos=89","",2,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu16_1=new Array("Books on Stress","/catalog.cfm?step=1&CatPos=90","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu16_2=new Array("Audio Series","/catalog.cfm?step=1&CatPos=91","",4,20,185);
+									
+										
+										
+											
+											
+	         
+		
+												
+Menu16_2_1=new Array("Daily Relaxer Series","/catalog.cfm?CatPos=92","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu16_2_2=new Array("Other Relaxation Audio","/catalog.cfm?CatPos=93","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu16_2_3=new Array("RS Workbook Series","/catalog.cfm?CatPos=94","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu16_2_4=new Array("Time Out from Stress Series","/catalog.cfm?CatPos=95","",0,20,185);
+										
+									
+						
+					
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu17=new Array("Support for Family and Friends","/catalog.cfm?CatPos=96","",7,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu17_1=new Array("Families","/catalog.cfm?step=1&CatPos=97","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu17_2=new Array("Divorce","/catalog.cfm?step=1&CatPos=153","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu17_3=new Array("Teen Self-Help","/catalog.cfm?step=1&CatPos=154","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu17_4=new Array("Health","/catalog.cfm?step=1&CatPos=98","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu17_5=new Array("Life Problems","/catalog.cfm?step=1&CatPos=99","",3,20,185);
+									
+										
+										
+											
+											
+	         
+		
+												
+Menu17_5_1=new Array("Aging","/catalog.cfm?CatPos=159","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu17_5_2=new Array("Anger Management","/catalog.cfm?CatPos=100","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu17_5_3=new Array("Grief Recovery","/catalog.cfm?CatPos=101","",0,20,185);
+										
+									
+						
+					
+							
+				
+							
+							
+	         
+		
+							
+Menu17_6=new Array("Psychological Problems","/catalog.cfm?step=1&CatPos=102","",8,20,185);
+									
+										
+										
+											
+											
+	         
+		
+												
+Menu17_6_1=new Array("ADD and Learning Disorders","/catalog.cfm?CatPos=103","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu17_6_2=new Array("Addiction and Recovery","/catalog.cfm?CatPos=104","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu17_6_3=new Array("Anxiety","/catalog.cfm?CatPos=105","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu17_6_4=new Array("Borderline Personality","/catalog.cfm?CatPos=106","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu17_6_5=new Array("Eating-Body Image","/catalog.cfm?CatPos=107","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu17_6_6=new Array("Mood Disorders","/catalog.cfm?CatPos=109","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu17_6_7=new Array("Personality Disorders","/catalog.cfm?CatPos=110","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu17_6_8=new Array("Trauma and Abuse","/catalog.cfm?CatPos=111","",0,20,185);
+										
+									
+						
+					
+							
+				
+							
+							
+	         
+		
+							
+Menu17_7=new Array("Relationships","/catalog.cfm?step=1&CatPos=112","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu18=new Array("Transformation","/catalog.cfm?CatPos=152","",0,20,169);
+					
+		
+
+			
+			
+			
+		
+			
+Menu19=new Array("Therapeutic Methods","/catalog.cfm?CatPos=113","",6,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu19_1=new Array("ACT","/catalog.cfm?step=1&CatPos=114","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu19_2=new Array("DBT","/catalog.cfm?step=1&CatPos=115","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu19_3=new Array("Coping with","/catalog.cfm?step=1&CatPos=149","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu19_4=new Array("Mindfulness-Based Approaches","/catalog.cfm?step=1&CatPos=116","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu19_5=new Array("Self-Help Workbook","/catalog.cfm?step=1&CatPos=117","",4,20,185);
+									
+										
+										
+											
+											
+	         
+		
+												
+Menu19_5_1=new Array("Health","/catalog.cfm?CatPos=118","",0,20,185);
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu19_5_2=new Array("Life Problems","/catalog.cfm?CatPos=119","",6,20,185);
+										
+											
+											
+												
+												
+	         
+		
+Menu19_5_2_1=new Array("Anger Management","/catalog.cfm?CatPos=120","",0,20,185);
+									
+		
+											
+											
+												
+												
+	         
+		
+Menu19_5_2_2=new Array("Emotional Regulation","/catalog.cfm?CatPos=121","",0,20,185);
+									
+		
+											
+											
+												
+												
+	         
+		
+Menu19_5_2_3=new Array("Grief Recovery","/catalog.cfm?CatPos=122","",0,20,185);
+									
+		
+											
+											
+												
+												
+	         
+		
+Menu19_5_2_4=new Array("Personal Growth","/catalog.cfm?CatPos=123","",0,20,185);
+									
+		
+											
+											
+												
+												
+	         
+		
+Menu19_5_2_5=new Array("Self-Esteem","/catalog.cfm?CatPos=124","",0,20,185);
+									
+		
+											
+											
+												
+												
+	         
+		
+Menu19_5_2_6=new Array("Stress","/catalog.cfm?CatPos=125","",0,20,185);
+									
+		
+											
+											
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu19_5_3=new Array("Psychological Problems","/catalog.cfm?CatPos=126","",8,20,185);
+										
+											
+											
+												
+												
+	         
+		
+Menu19_5_3_1=new Array("ADD-Learning Disorders","/catalog.cfm?CatPos=127","",0,20,185);
+									
+		
+											
+											
+												
+												
+	         
+		
+Menu19_5_3_2=new Array("Addiction-Recovery","/catalog.cfm?CatPos=128","",0,20,185);
+									
+		
+											
+											
+												
+												
+	         
+		
+Menu19_5_3_3=new Array("Anxiety","/catalog.cfm?CatPos=129","",0,20,185);
+									
+		
+											
+											
+												
+												
+	         
+		
+Menu19_5_3_4=new Array("Borderline Personality","/catalog.cfm?CatPos=137","",0,20,185);
+									
+		
+											
+											
+												
+												
+	         
+		
+Menu19_5_3_5=new Array("Depression-Mood Disorders","/catalog.cfm?CatPos=130","",0,20,185);
+									
+		
+											
+											
+												
+												
+	         
+		
+Menu19_5_3_6=new Array("Impulse Control","/catalog.cfm?CatPos=132","",0,20,185);
+									
+		
+											
+											
+												
+												
+	         
+		
+Menu19_5_3_7=new Array("Psychotic Disorder","/catalog.cfm?CatPos=133","",0,20,185);
+									
+		
+											
+											
+												
+												
+	         
+		
+Menu19_5_3_8=new Array("Trauma and Abuse","/catalog.cfm?CatPos=134","",0,20,185);
+									
+		
+											
+											
+										
+									
+						
+											
+											
+	         
+		
+												
+Menu19_5_4=new Array("Relationships","/catalog.cfm?CatPos=135","",0,20,185);
+										
+									
+						
+					
+							
+				
+							
+							
+	         
+		
+							
+Menu19_6=new Array("Simple Solutions","/catalog.cfm?step=1&CatPos=136","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu20=new Array("Reference","/catalog.cfm?CatPos=139","",0,20,169);
+					
+		
+
+			
+			
+			
+		
+			
+Menu21=new Array("Context Press","/catalog.cfm?CatPos=141","",7,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu21_1=new Array("Behavior Analysis","/catalog.cfm?step=1&CatPos=142","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu21_2=new Array("Contextual Psychology","/catalog.cfm?step=1&CatPos=143","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu21_3=new Array("Clinical Practice","/catalog.cfm?step=1&CatPos=144","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu21_4=new Array("Social and Cultural Psychology","/catalog.cfm?step=1&CatPos=145","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu21_5=new Array("Language and Cognition","/catalog.cfm?step=1&CatPos=146","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu21_6=new Array("Organizational Psychology","/catalog.cfm?step=1&CatPos=147","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu21_7=new Array("Experimental Methods","/catalog.cfm?step=1&CatPos=148","",0,20,185);
+									
+							
+				
+			
+		
+
+			
+			
+			
+		
+			
+Menu22=new Array("Instant Help Books","/catalog.cfm?CatPos=155","",2,20,169);
+					
+						
+						
+							
+							
+	         
+		
+							
+Menu22_1=new Array("Parenting","/catalog.cfm?step=1&CatPos=156","",0,20,185);
+									
+							
+				
+							
+							
+	         
+		
+							
+Menu22_2=new Array("Teen Self-Help","/catalog.cfm?step=1&CatPos=157","",0,20,185);
+									
+							
+				
+			
+		
+
+
+																
+				
+		Menu23=new Array("<b>New Releases</b>","/showproducts.cfm?Step=1&CrossCatID=2","",0,20,169);						
+
+</script>
+</td>
+
+							 
+						
+					
+				
+       		</tr>
+				<tr>
+					<td align="right"><img src="/client/client_images/template/spacer.gif" width="143" height="8"></td>
+				</tr>
+				<tr>
+					<td>
+					<div class="leftnavSub">
+						<a href="/client/client_pages/contacts.cfm">Contact Us</a>
+						<a href="/client/client_pages/formcatrequest.cfm">Request Catalog</a>
+						<a href="/client/client_pages/colleges.cfm">Academic Adoptions</a>
+						<a href="/client/client_pages/resourceNewHarbinger.cfm">Resources</a>
+						<a href="/client/client_pages/phonefax.cfm#Shipping">Shipping Info</a>
+						<a href="/client/client_pages/formsurvey.cfm">Customer Feedback</a>
+						<a href="/client/client_pages/ordering.cfm">How to Order</a>
+						<a href="/basket/shoppingcart.cfm"><img src="/client/client_images/template/lilcart.gif" width="21" height="14" border="0" align="absbottom">View Cart</a>
+						
+						<a href="/client/client_pages/faq.cfm">FAQ</a>
+					</div>
+					</td>
+				</tr>
+       	  </tbody></table> </td>
+		<td valign="top" class="dynamicarea" width="95%">
+			
+			
+
+<title>New Harbinger Privacy Policy</title>
+
+<style type="text/css">
+<!--
+@import url("../client_css/client_styles.css");
+.style2 {font-size: 16px}
+-->
+</style>
+<span class="advertisement style2"><font face="Verdana, Arial, Helvetica, sans-serif"><strong>Privacy Policy</strong></font></span>
+<div align="left">
+  <table border="0" cellpadding="0" width="488">
+    <tbody><tr>
+      <td width="484" class="larger"><p align="left">New Harbinger is committed to observing your right to privacy and the security of your personal    information. <br>
+          </p>
+        <p align="left">We always welcome your questions and feedback. For privacy-related issues,    please contact our <u><a href="mailto:webmaster@newharbinger.com">web manager.</a></u><br>
+          <br>
+          By entering and using newharbinger.com, you are consenting to and agreeing    to be bound by the following terms and conditions. If you disagree with any    of these terms and conditions, please exit the site.<br>
+          </p>
+        <p align="left"><strong>Your Information </strong><br>
+          We may collect information including name, address, telephone number, email    address and credit card information when you:</p>
+        <ul type="disc">
+            <li>Place an order from         our on the phone, via fax, or on our Web site</li>
+          <li>Request a catalog</li>
+          <li>Create an account at         newharbinger.com</li>
+          <li>Subscribe to our Email         Newsletters, book alerts or other email notifications</li>
+          <li>Are referred to us by         related web sites, conferences, or New Harbinger authors</li>
+          <li>Participate in a         marketing survey, promotion or event</li>
+          <li>Sign up for book         alerts </li>
+        </ul>
+        <p>We use our best efforts to maintain your data in a secure database. <br>
+          We gather information about how visitors navigate through our Web site by    using data gathered with "cookies" and/or other online tools. <br>
+          <strong><br>
+          Cookies </strong><br>
+          A cookie is a small data file that is stored by your Web browser on your    computer. Cookies enable you to place an order on our Web site. <br>
+          For example, cookies are used to </p>
+        <ul type="disc">
+            <li>Store items are in         your Shopping Bag</li>
+          <li>Recognize you when you         return to newharbinger.com</li>
+          <li>Study how our         customers navigate through our Web site and which products they request         in site searches</li>
+        </ul>
+        <p><strong>Using Information We Collect</strong><br>
+          &nbsp;New Harbinger Publications aims to    provide you with the best possible shopping experience. To fulfill your    orders, we collect information that allows us to:</p>
+        <ul type="disc">
+            <li>Process and track your         order</li>
+          <li>Contact you about the         status of an order</li>
+          <li>Send you catalogs or         promotional offers we believe will be of interest to you</li>
+          <li>Send you an email         eNewsletter or other email</li>
+          <li>Identify your topic         preferences</li>
+          <li>Enhance our         publication decisions</li>
+        </ul>
+        <p><strong>Information and Your Privacy Rights</strong><br>
+          We do not share our database of user email addresses.<br>
+          We do rent our list of physical    mailing addresses from time to time to companies with products and service    similar to those of New Harbinger Publications, Inc.. If you would prefer us    to not rent your address, you may opt out of this program by emailing <u>customer    service</u> or calling them at 800-748-6273.<br>
+          <strong><br>
+          Your Choices</strong><br>
+          We offer choices about the types of information you receive from us. If you    state at the time of your order that you prefer not to receive emails from us    about topics that may relate to former purchases, we will not do so. <br>
+          <strong><br>
+          How We Use Email</strong><br>
+          When you provide us your email address, we may send you emails necessary to    process your order, respond to a request, provide customer service, or    promote products or services. <br>
+          We wish to send promotional emails only to those persons who wish to    receive them. If you receive emails that you do not wish to continue    receiving, there will always be an unsubscribe option.<br>
+          <strong><br>
+          Updating or Reviewing Your Information</strong><br>
+          To update your customer information (name, address, telephone number and    email address), please email <u><a href="mailto:customerservice@newharbinger.com.">customerservice@newharbinger.com</a></u><a href="mailto:customerservice@newharbinger.com.">.</a><br>
+          <strong><br>
+          Security</strong> <br>
+          We do not provide your information to outside companies except as provided    above. except as provided above.<br>
+          When you make a purchase, request a catalog or create an account on our    Web site, your transactional information is transmitted in a safe, encrypted    format. <br>
+          <br>
+          All orders placed at the New Harbinger website are&nbsp; executed via our secure credit card    processing. The Entrust Secured Site-Seal on newharbinger.com enables Secure    Sockets Layer (SSL) protocol to secure communications between Web browsers    and the Web site.<br>
+          <strong><br>
+          Questions or Comments?</strong><br>
+      For questions, contact our <u><a href="mailto:webmaster@newharbinger.com.">webmanager</a></u>.</p></td>
+    </tr>
+  </tbody></table>
+  <p>&nbsp;</p>
+  <blockquote>
+    <p class="style17 style14"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><br> 
+      </font></p>
+  </blockquote>
+</div>
+<p align="left" class="advertisement">&nbsp;</p>
+</td><td width="136" valign="top">&nbsp;</td>
+<td width="136" valign="top">
+
+
+</td>
+	</tr>
+</tbody></table>
+<style type="text/css">
+<!--
+.style3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: smaller;
+}
+.style4 {color: #000000}
+-->
+</style>
+
+<link href="client_css/client_styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+a:link {
+	color: #CC3300;
+}
+a:visited {
+	color: #336633;
+}
+a:hover {
+	color: #339966;
+}
+a:active {
+	color: #993300;
+}
+-->
+</style><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="115"><img src="/client/client_images/template/bottom12.gif" width="67" height="33"></td>
+	  <td width="665" align="center" class="topnav"><a href="http://www.newharbinger.com"><u>home</u></a>&nbsp;-<a href="/client/client_pages/aboutus.cfm">&nbsp;<u>about us</u></a>&nbsp;-&nbsp;<a href="/client/client_pages/authors.cfm"><u>about NH author</u>s</a>&nbsp;-&nbsp;<a href="/client/client_pages/publishing.cfm"><u>for authors</u></a>&nbsp;-&nbsp;<a href="/client/client_pages/contacts.cfm"><u>contact us</u></a>&nbsp;-&nbsp;<a href="/client/client_pages/ordering.cfm"><u>ordering</u></a>&nbsp;-<u>&nbsp;<a href="/client/client_pages/pressroom.cfm">media room</a></u> -<br>
+        <a href="/client/client_pages/optinformbookalert.cfm"><u>book alerts</u></a> - &nbsp;<a href="/client/client_pages/professionals.cfm"><u>professionals</u></a>&nbsp;-&nbsp;<a href="/client/client_pages/faq.cfm"><u>faqs</u></a>&nbsp;-&nbsp;<a href="/client/client_pages/jobs.cfm"><u>jobs</u></a>&nbsp;-&nbsp;<a href="/client/client_pages/privacyterms.cfm"><u>privacy</u></a>&nbsp;-&nbsp;<a href="/problem/index.cfm?page=%2Fclient%2Fclient%5Fpages%2Fprivacyterms%2Ecfm&amp;host=www%2Enewharbinger%2Ecom&amp;referrer=&amp;useragent=ia%5Farchiver"><u>report problems</u></a> </td>
+	    <td align="center" class="topnav">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="115" background="/client/client_images/template/bottom11BG.gif"><img src="/client/client_images/template/bottom11.gif" width="115" height="40"></td>
+	  <td align="right" valign="top" background="/client/client_images/template/bottom11BG.gif"><div align="right"><img src="/client/client_images/template/bottom2.gif" alt="self-help psychology " width="293" height="32" hspace="5"></div></td>
+	    <td align="right" valign="top" background="/client/client_images/template/bottom11BG.gif">&nbsp;</td>
+	</tr>
+	<tr valign="middle">
+	  <td colspan="3" class="fineprint"><div align="center" class="style4">
+	    <div align="left">
+	      <p align="center"><span class="larger">Copyright by New Harbinger Publications, 2004, All Rights Reserved.</span> <span class="larger"><u><a href="/client/client_pages/disclaimer.cfm">Disclaimer</a><img src="/client/client_images/NHstatic_images/spacer.gif" width="50" height="20"><br>
+	      </u></span><span class="larger">Phone: (800) 748-6273 Fax: (510) </span><span class="larger">652-5472</span></p>
+        </div>
+	  </div></td>
+	</tr>
+</tbody></table>
+
+
+
+<div style="position: absolute; visibility: visible; background-color: rgb(213, 198, 162); width: 171px; height: 462px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 101; top: 362px; left: 9px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Anxiety<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Anger Management<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Audio Programs<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Career and Business</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">Depression and Mood Disorders<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 101px;">Gift Books<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 121px;">Health and Wellness<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 141px;">Memoirs</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 161px;">Other Psychological Problems<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 181px;">Other Life Problems<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 201px;">Personal Growth<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 221px;">Self-Esteem<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 241px;">Families<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 261px;">Books for Professionals<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 281px;">Relationships<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 301px;">Stress<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 321px;">Support for Family and Friends<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 341px;">Transformation</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 361px;">Therapeutic Methods<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 381px;">Reference</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 401px;">Context Press<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 166px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 421px;">Instant Help Books<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 162px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 169px; height: 20px; left: 1px; top: 441px;"><b>New Releases</b></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 122px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">General Anxiety</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Agoraphobia</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Obsessive-Compulsive Disorder</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Panic Disorder</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">Social Anxiety Disorder</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 101px;">Specific Phobias</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 62px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Self-Care Anger Management</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Victims of Anger</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Professional Guides</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 182px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Cognitive Control Series</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Couple Skills Series</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">General Audio Programs</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Hypnosis Series</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">Messages Skills Series</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 101px;">Daily Relaxer Series</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 121px;">RS Workbook Series</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 141px;">Time Out from Stress Series</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 161px;">Visualization Series</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 82px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">General Depression</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Bipolar and Cyclothymia</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Depression in Children</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Alternative Therapies</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 42px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">General</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Spa</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 62px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">General Health<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 178px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Medical Conditions<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 178px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Women's Health</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 62px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Diet and Exercise</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Epidemiology</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Prevention and Wellness</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 182px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Alzheimer's and Parkinson's</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Cancer</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Cardiac Health</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Digestive and Urinary Problems</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">Fibromyalgia - Chronic Illness</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 101px;">Medications</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 121px;">Other Specific Conditions</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 141px;">Pain Control</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 161px;">RSI and Joint Problems</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 162px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Addiction and Recovery</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Obsessive-Compulsive Disorder</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Trauma and Abuse</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Eating and Body Image Disorders</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">ADD and Learning Disorders</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 101px;">Borderline Personality Disorder</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 121px;">Personality Disorders and DID</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 141px;">Impulse-Control Disorders</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 82px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Addiction and Recovery</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Emotional Regulation</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Impulse-Control Problems</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Grief Recovery</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 142px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Better Living</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Personal Direction</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Focus and Memory</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Hypnosis</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">Personal Effectiveness</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 101px;">Personal Growth for Women</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 121px;">Spirituality and Philosophy</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 42px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">General Self-Esteem</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Perfectionism</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 122px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Parenting Skills</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Family Relationships</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Pregnancy and Childcare</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Special Needs</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">Alternative Families</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 101px;">Aging</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 142px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Anger Management</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Anxiety Disorders</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Cognitive Techniques Videos</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Mood Disorders</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">Psychotic Disorders</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 101px;">Therapy for Children</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 121px;">Clinical Practice--Pharmacology</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 102px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Divorce</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Interpersonal Skills</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Intimate Relationships</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Sexuality</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">Weddings and Marriage</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 42px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Books on Stress</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Audio Series<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 178px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 82px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Daily Relaxer Series</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Other Relaxation Audio</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">RS Workbook Series</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Time Out from Stress Series</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 142px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Families</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Divorce</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Teen Self-Help</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Health</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">Life Problems<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 178px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 101px;">Psychological Problems<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 178px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 121px;">Relationships</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 62px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Aging</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Anger Management</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Grief Recovery</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 162px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">ADD and Learning Disorders</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Addiction and Recovery</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Anxiety</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Borderline Personality</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">Eating-Body Image</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 101px;">Mood Disorders</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 121px;">Personality Disorders</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 141px;">Trauma and Abuse</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 122px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">ACT</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">DBT</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Coping with</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Mindfulness-Based Approaches</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">Self-Help Workbook<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 178px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 101px;">Simple Solutions</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 82px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Health</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Life Problems<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 178px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Psychological Problems<img src="/client/cartimages/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 178px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Relationships</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 122px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 104; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Anger Management</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Emotional Regulation</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Grief Recovery</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Personal Growth</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">Self-Esteem</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 101px;">Stress</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 162px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 104; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">ADD-Learning Disorders</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Addiction-Recovery</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Anxiety</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Borderline Personality</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">Depression-Mood Disorders</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 101px;">Impulse Control</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 121px;">Psychotic Disorder</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 141px;">Trauma and Abuse</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 142px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Behavior Analysis</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Contextual Psychology</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 41px;">Clinical Practice</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 61px;">Social and Cultural Psychology</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 81px;">Language and Cognition</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 101px;">Organizational Psychology</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 121px;">Experimental Methods</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(213, 198, 162); width: 187px; height: 42px; font-family: arial, helvetica, technical; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Parenting</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(85, 41, 14); background-color: rgb(250, 240, 189); text-align: left; width: 182px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 21px;">Teen Self-Help</div></div></body></html>
