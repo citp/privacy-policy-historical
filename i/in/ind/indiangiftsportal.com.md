@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiangiftsportal.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026024557id_/http%3A//www.indiangiftsportal.com/myshop/help-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiangiftsportal.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611041856id_/http%3A//www.indiangiftsportal.com/myshop/help-privacy-policy.php) for the most accurate reproduction.*
 
 # Indian Gifts Portal
 
@@ -6,7 +6,7 @@ _**Indian Gifts Portal** is committed to safeguarding your privacy online_. We r
 
 When you order, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order. This will used only for the service you have sought and would not be under any circumstances passed on fo any other commercial purpose. Indian Gifts Portal will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it. 
 
-Although we track the total number of visitors to each of sites in an aggregate form to allow us to update an improve our sites, personally identifiable informatio is not extracted in this process. Any cookie technology (where our servers deposit special codes on a visitor's computer) will only be used to track non-personal information such as type of browser,operating system, and domain names to improve our visitor's online experience. 
+Although we track the total number of visitors to each of sites in an aggregate form to allow us to update an improve our sites, personally identifiable information is not extracted in this process. Any cookie technology (where our servers deposit special codes on a visitor's computer) will only be used to track non-personal information such as type of browser,operating system, and domain names to improve our visitor's online experience. 
 
 **How does Indian Gifts Portal protect customer information?**
 
