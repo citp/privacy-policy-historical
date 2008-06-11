@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asipartner.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011145222id_/http%3A//asipartner.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asipartner.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611144513id_/http%3A//www.asipartner.com/Privacy.htm) for the most accurate reproduction.*
 
 # ASI - Intelligent Distribution
 
