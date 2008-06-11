@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the proshares.com privacy policy that was archived on 2007-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071227110905id_/http%3A//www.proshares.com/1769146.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proshares.com privacy policy that was archived on 2008-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080612011448id_/http%3A//www.proshares.com/1769146.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -9,7 +9,7 @@
 						<meta name="verify-v1" content="9zQfukr7b6nYzLdcMfL692wFEY1s1C6EyI3jc8jNR/Q="> 
 			<meta name="y_key" content="397951c22336827f"> 
 			<meta name="Description" content="Introducing ProShares, the first ETFs that let you get short exposure or magnified exposure to major indexes. Exchange Traded Funds ... Chapter 2, from ProFunds Group.">
-			<meta name="Keywords" content="Help - Privacy Policy (Hubpage), $currentFund.ticker, .$currentFund.keywords">
+			<meta name="Keywords" content="ProShares, ProShare, short ETFs, china bubble, pro share, proshares.com, ProFunds, funds, ETF, ETF trading, S&amp;P 500, QQQ, Dow Jones, DJIA, leverage, shorting, bear, bull, ETF investing, exchange traded, index fund, portfolio management, advisor, financial professional, individual investor, financial services, asset allocation, core satellite,tactical rotation ">
 			<meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8">
 			<meta name="robots" content="index, follow">
 						
@@ -22,7 +22,107 @@
 			
 
 			
+						<script type="text/javascript">
 
+//////////////////////////////////////////////////////////////////
+// qTip - CSS Tool Tips - by Craig Erskine
+// http://qrayg.com
+//
+// Multi-tag support by James Crooke
+// http://www.cj-design.com
+//
+// Inspired by code from Travis Beckham
+// http://www.squidfingers.com | http://www.podlob.com
+//////////////////////////////////////////////////////////////////
+
+var qTipTag = "a"; //Which tag do you want to qTip-ize? Keep it lowercase!//
+var qTipX = 0; //This is qTip's X offset//
+var qTipY = 15; //This is qTip's Y offset//
+
+//There's No need to edit anything below this line//
+tooltip = {
+  name : "qTip",
+  offsetX : qTipX,
+  offsetY : qTipY,
+  tip : null
+}
+
+tooltip.init = function () {
+	var tipNameSpaceURI = "http://www.w3.org/1999/xhtml";
+	if(!tipContainerID){ var tipContainerID = "qTip";}
+	var tipContainer = document.getElementById(tipContainerID);
+
+	if(!tipContainer) {
+	  tipContainer = document.createElementNS ? document.createElementNS(tipNameSpaceURI, "div") : document.createElement("div");
+		tipContainer.setAttribute("id", tipContainerID);
+	  document.getElementsByTagName("body").item(0).appendChild(tipContainer);
+	}
+
+	if (!document.getElementById) return;
+	this.tip = document.getElementById (this.name);
+	if (this.tip) document.onmousemove = function (evt) {tooltip.move (evt)};
+
+	var a, sTitle, elements;
+	
+	var elementList = qTipTag.split(",");
+	for(var j = 0; j < elementList.length; j++)
+	{	
+		elements = document.getElementsByTagName(elementList[j]);
+		if(elements)
+		{
+			for (var i = 0; i < elements.length; i ++)
+			{
+				a = elements[i];
+				sTitle = a.getAttribute("title");				
+				if(sTitle)
+				{
+					a.setAttribute("tiptitle", sTitle);
+					a.removeAttribute("title");
+					a.removeAttribute("alt");
+					a.onmouseover = function() {tooltip.show(this.getAttribute('tiptitle'))};
+					a.onmouseout = function() {tooltip.hide()};
+				}
+			}
+		}
+	}
+}
+
+tooltip.move = function (evt) {
+	var x=0, y=0;
+	if (document.all) {//IE
+		x = (document.documentElement && document.documentElement.scrollLeft) ? document.documentElement.scrollLeft : document.body.scrollLeft;
+		y = (document.documentElement && document.documentElement.scrollTop) ? document.documentElement.scrollTop : document.body.scrollTop;
+		x += window.event.clientX;
+		y += window.event.clientY;
+		
+	} else {//Good Browsers
+		x = evt.pageX;
+		y = evt.pageY;
+	}
+	this.tip.style.left = (x + this.offsetX) + "px";
+	this.tip.style.top = (y + this.offsetY) + "px";
+}
+
+tooltip.show = function (text) {
+	if (!this.tip) return;
+	this.tip.innerHTML = text;
+	this.tip.style.display = "block";
+}
+
+tooltip.hide = function () {
+	if (!this.tip) return;
+	this.tip.innerHTML = "";
+	this.tip.style.display = "none";
+}
+
+window.onload = function () {
+	tooltip.init ();
+}
+
+</script>
+
+			
+			<link rel="stylesheet" href="http://www.proshares.com/includes/popup.css" type="text/css">
 
 
 	<script language="JavaScript">
@@ -117,7 +217,7 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=1769146";_qc+="&7=87921";_qc+="&18="+escape(Math.random());_qc+="&100="+a.href;_qc+="&101="+escape(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=1769146&7=87921&18=0.5799487641972069">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=1769146&7=87921&18=0.13301954795624904">
 </noscript>
 
 
@@ -135,8 +235,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
           					<ul>
           						<li><a href="/">Home</a></li>
           						<li><a href="/help/contact">Contact Us</a></li>
-          						<li><a href="/help">Help Center</a></li>
-          						<li><a href="/updates">Get News Updates</a></li>
+          						          						<li><a href="/updates">Get News Updates</a></li>
           						<li><a href="http://www.profunds.com" target="_blank">ProFunds.com</a></li>
           						</ul>
           					</div>
@@ -150,7 +249,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
      		<!-- necessary non-breaking space to fix CSS height issue without stating pixel height -->&nbsp;
      	</div>     	
   
-     	<img src="http://media.proshares.com/designimages/logo_test_01.gif" width="800" height="83" alt="ProShares, ETFs Chapter Two" title="ProShares, ETFs Chapter Two" border="0" usemap="#Map">
+     	<img src="http://media.proshares.com/designimages/logo_test_01.gif" width="800" height="83" alt="ProShares ETFs - ETFs with Short or Leveraged Exposure to  Market and Sector Indexes" title="ProShares ETFs - ETFs with Short or Leveraged Exposure to  Market and Sector Indexes" border="0" usemap="#Map">
      	<map name="Map" id="Map"><area shape="rect" coords="6,12,272,80" href="/" target="_top" alt="Proshares.com"></map>
 
 <!--
@@ -173,9 +272,10 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
  		
 					<div id="twoColumn">		     
 				
-		<div id="Sidebar">
+		
+<div id="Sidebar">
 										                         <div class="SidebarFeature">
-               <div class="SidebarFeatureTitle">Contact ProFunds</div>
+               <div class="SidebarFeatureTitle">Contact ProShares</div>
                <div class="SidebarFeatureContent"><p>Please contact ProShares client Services at 
 <nobr>
 866-PRO-5125
@@ -226,6 +326,7 @@ or email us at <a href="mailto:info@proshares.com">info@proshares.com</a></p></d
 
 
 		<h1>Notice of Privacy Policy</h1>		<hr>
+
 			 
 		
 
@@ -233,6 +334,8 @@ or email us at <a href="mailto:info@proshares.com">info@proshares.com</a></p></d
 							<div class="h7">ProFunds, Access One Trust, ProShares, ProFund Advisors, LLC and ProShare Advisors LLC</div>
 						<div class="spacer">&nbsp;</div>
 		
+
+
 		<em></em>
 <h3>Our commitment to you</h3>
 <br>ProFunds, Access One Trust, ProShares Trust, ProFund Advisors LLC and ProShare Advisors LLC ("The Funds") are committed to respecting the privacy of personal information you entrust to us in the course of doing business.<br><br>
@@ -297,4 +400,6 @@ urchinTracker();
 
 
 
-</body></html>
+
+
+<div id="qTip"></div></body></html>
