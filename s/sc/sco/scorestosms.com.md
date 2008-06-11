@@ -1,0 +1,79 @@
+> *The following text is extracted and transformed from the scorestosms.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611030600id_/http%3A//www.scorestosms.com/privacy.html) for the most accurate reproduction.*
+
+# Privacy Policy
+
+**ScoresToSMS.com Privacy Policy**
+
+ScoresToSMS.com will not offer any information about you to any third-party company unless we receive your prior consent.   
+So that we can provide you with the most efficient and enhanced service, we request information about you. Since your privacy as a participant in ScoresToSMS.com is a priority to us, we have provided this detailed policy statement about our privacy and information dissemination practices. 
+
+* * *
+
+  
+**What This Privacy Policy Covers**
+
+This policy covers how ScoresToSMS.com treats personal information that ScoresToSMS.com collects and receives, including information related to your past use of ScoresToSMS.com products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+
+Please be aware that this site contains links to other sites. ScoresToSMS.com cannot be held responsible for the privacy practices or content of such web sites. This policy does not apply to the practices of companies that ScoresToSMS.com does not own or control, or to people that ScoresToSMS.com does not employ or manage. 
+
+Questions regarding this statement should be directed to the ScoresToSMS.com Member Services team at [support@scorestosms.com](mailto:support@scorestosms.com?subject=Privacy%20Policy)
+
+* * *
+
+  
+**Information Collection and Use**
+
+Information on general usage, and any optional personal details you provide to us will be used to provide you with enhanced features. 
+
+When you register we ask for information such as your name, email address, zip code. Once you register with ScoresToSMS.com and sign in to our services, you are not anonymous to us. 
+
+When you use ScoresToSMS.com products and services, even if you do not register, ScoresToSMS.com collects information about your transactions with us. ScoresToSMS.com automatically receives and records information on our server logs from your product or service usage including your IP address and your search request. 
+
+ScoresToSMS.com uses information for the following general purposes: to customize the content and advertising you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+
+* * *
+
+  
+**Information Sharing and Disclosure**
+
+ScoresToSMS.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:   
+\- We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, violations of ScoresToSMS.com's terms of use, or as otherwise required by law.   
+\- We will transfer information about you if ScoresToSMS.com is acquired by or merged with another company. In this event, ScoresToSMS.com will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+
+ScoresToSMS.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+
+* * *
+
+  
+**Cookies**
+
+ScoresToSMS.com may set and access ScoresToSMS.com cookies on your computer. ScoresToSMS.com lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to ScoresToSMS.com's cookies. 
+
+* * *
+
+  
+**Preferences and Delete Your Account Information**
+
+We reserve the right to send you certain communications relating to the ScoresToSMS.com service, such as service announcements, administrative messages, and promotional and advertising that are considered part of your ScoresToSMS.com account, without offering you the opportunity to opt-out of receiving them. 
+
+* * *
+
+  
+**Confidentiality and Security**
+
+We limit the access to personal information about you to our employees, who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.   
+We have physical, electronic, and procedural safeguards that comply with the regulations to protect personal information about you. 
+
+* * *
+
+  
+**Changes to this Privacy Policy**
+
+ScoresToSMS.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your ScoresToSMS.com account or by placing a prominent notice on our web site. 
+
+* * *
+
+  
+**Registered Trade Marks**
+
+      ScoresToSMS® is a registered trade mark of ITStandard Net LTD, Stara Zagora, Bulgaria. 
