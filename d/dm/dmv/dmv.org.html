@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dmv.org privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213033520id_/http%3A//www.dmv.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dmv.org privacy policy that was archived on 2008-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080611105347id_/http%3A//www.dmv.org/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - DMV.ORG</title>
@@ -16,20 +16,22 @@
 @import url(templates/includes/css/style.css);
 /*]]>*/
 </style>
-
 <script type="text/javascript" src="templates/includes/js/global.js"></script>
 <script type="text/javascript" src="templates/includes/js/formcheck.js"></script>
 <script type="text/javascript">
 <!--
+	var rootUrl = 'http://www.dmv.org/';
 	var pgType = '0';
 	var destLink = 'privacy.php';
 	/* begin quick links */
-		var arrQLinksId = new Array( '84','91','45','31','91','59','105','58','43','86','116','93','47' );
+		var arrQLinksId = new Array( '/car-insurance.php','/reports-records.php','/drivers-ed.php','/drivers-license.php','/reports-records.php','/publications.php','/automotive-law/find-attorneys.php','/locations-&-hours.php','/practice-tests.php','/traffic-schools.php','/recalls.php','/vehicle-history.php','/vehicle-registration.php' );
 		var arrQLinksName = new Array( 'Auto Insurance','Background Checks','Drivers Education','Drivers License & ID','Driving Records','Forms & Publications','Lawyers','Location & Hours','Practice Tests','Traffic Schools','Vehicle & Tire Recalls','Vehicle History Reports','Vehicle Registration' );
 	/* end quick links */
+	var s_account = 'dmvorg';
+	var transID = '209.234.171.39-804497b3715bc83d42506253e1b3c3f9';
+	var serverIP = '192.168.1.38';
 //-->
 </script>
-
 </head>
 <body>
 	<!-- begin page wrapper div -->
@@ -42,7 +44,7 @@
 				<!-- mozilla float table right. used table to make tell friend and boomkmark icon middle aligned with text --><div align="right">
 				<table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td class="pad-1"><a href="http://www.dmv.org/site-map.php">Site Map</a> | <a href="http://www.dmv.org/advertising.php">Advertise</a> | <a href="http://www.dmv.org/about-us.php">About Us</a> | <a href="http://www.dmv.org/help/">Help Center</a> | <a href="http://www.dmv.org/visitor-agreement.php">Terms of Use</a></td>
+    <td class="pad-1"><a href="http://www.dmv.org/site-map.php">Site Map</a> | <a href="http://www.dmv.org/about-us/advertising.php">Advertise</a> | <a href="http://www.dmv.org/about-us/">About Us</a> | <a href="http://www.dmv.org/help/">Help Center</a> | <a href="http://www.dmv.org/visitor-agreement.php">Terms of Use</a></td>
     <td><a href="javascript:dmvtellafriend();"><img src="templates/includes/img/btn_tellfriend_off.jpg" alt="Tell a Friend" border="0"></a></td>
     <td class="pad-2"><a href="javascript:dmvtellafriend();"><strong>Tell a Friend</strong></a></td>
     <td><a href="javascript:bookmarksite();"><img src="templates/includes/img/btn_bookmark_off.jpg" alt="Bookmark Site" border="0"></a></td>
@@ -133,15 +135,15 @@
   <form name="frmsearch" id="frmsearchPrimary" method="get" onsubmit="javascript:return doSearch(this.id);" action="">
     <table border="0" cellspacing="0" cellpadding="0" class="srch">
       <tbody><tr>
-        <td class="states" id="selectstatestd">&nbsp;<select name="state_id" id="stateselect"><option value="0">Choose Your State</option><option value="1">Alabama</option><option value="2">Alaska</option><option value="3">Arizona</option><option value="4">Arkansas</option><option value="5">California</option><option value="6">Colorado</option><option value="7">Connecticut</option><option value="8">Delaware</option><option value="9">Florida</option><option value="10">Georgia</option><option value="11">Hawaii</option><option value="12">Idaho</option><option value="13">Illinois</option><option value="14">Indiana</option><option value="15">Iowa</option><option value="16">Kansas</option><option value="17">Kentucky</option><option value="18">Louisiana</option><option value="19">Maine</option><option value="20">Maryland</option><option value="21">Massachusetts</option><option value="22">Michigan</option><option value="23">Minnesota</option><option value="24">Mississippi</option><option value="25">Missouri</option><option value="26">Montana</option><option value="27">Nebraska</option><option value="28">Nevada</option><option value="29">New Hampshire</option><option value="30">New Jersey</option><option value="31">New Mexico</option><option value="32">New York</option><option value="33">North Carolina</option><option value="34">North Dakota</option><option value="35">Ohio</option><option value="36">Oklahoma</option><option value="37">Oregon</option><option value="38">Pennsylvania</option><option value="39">Rhode Island</option><option value="40">South Carolina</option><option value="41">South Dakota</option><option value="42">Tennessee</option><option value="43">Texas</option><option value="44">Utah</option><option value="45">Vermont</option><option value="46">Virginia</option><option value="47">Washington</option><option value="48">West Virginia</option><option value="49">Wisconsin</option><option value="50">Wyoming</option><option value="51">Washington DC</option></select></td>
-        <td class="select" id="selectquicklinkstd">&nbsp;<select name="quick_links" id="quick_links"><option value="">Quick Links</option><option value="84">Auto Insurance</option><option value="91">Background Checks</option><option value="45">Drivers Education</option><option value="31">Drivers License &amp; ID</option><option value="91">Driving Records</option><option value="59">Forms &amp; Publications</option><option value="105">Lawyers</option><option value="58">Location &amp; Hours</option><option value="43">Practice Tests</option><option value="86">Traffic Schools</option><option value="116">Vehicle &amp; Tire Recalls</option><option value="93">Vehicle History Reports</option><option value="47">Vehicle Registration</option></select></td>
+        <td class="states" id="selectstatestd">&nbsp;</td>
+        <td class="select" id="selectquicklinkstd">&nbsp;</td>
         <td class="srh">
           <label for="w">Search</label>
-          <input type="text" name="w" id="w" class="sm">
+          <input type="text" name="w" id="w" class="sm" onclick="javascript:clearSearchTermError(this.id);">
           <input type="hidden" name="tz" id="tz_id" value="">
           <input type="hidden" name="state" id="state_id" value="">
           <input type="hidden" name="section" id="section_id" value="Privacy Policy">
-          <input type="image" name="searchDmv" src="/images/btn_hdr_go_off.jpg" alt="Go" class="go" onclick="this.src='/images/btn_hdr_go_on.jpg';">
+          <input type="image" name="searchDmv" id="searchDmv_id" src="/images/btn_hdr_go_off.jpg" alt="Go" class="go" onmousedown="this.src='/images/btn_hdr_go_on.jpg';" onmouseup="this.src='/images/btn_hdr_go_off.jpg';">
         </td>
       </tr>
     </tbody></table>
@@ -177,7 +179,7 @@
 <!-- module header --><h2 class="mod-resources-hdr">Featured Resources</h2>
 				<div class="mod-resources">
 					<!-- begin featured resources link list --><ul class="vert-1">
-							<li><a href="http://www.dmv.org/car-insurance.php" target="_top">Auto Insurance</a></li><li><a href="http://www.dmv.org/reports-records.php" target="_top">Background Checks</a></li><li><a href="http://www.dmv.org/drivers-ed.php" target="_top">Drivers Education</a></li><li><a href="http://www.dmv.org/drivers-license.php" target="_top">Drivers License &amp; ID</a></li><li><a href="http://www.dmv.org/reports-records.php" target="_top">Driving Records</a></li><li><a href="http://www.dmv.org/publications.php" target="_top">Forms &amp; Publications</a></li><li><a href="http://www.dmv.org/automotive-law/find-attorneys.php" target="_top">Lawyers</a></li><li><a href="http://www.dmv.org/locations-&amp;-hours.php" target="_top">Location &amp; Hours</a></li><li><a href="http://www.dmv.org/practice-tests.php" target="_top">Practice Tests</a></li><li><a href="http://www.dmv.org/traffic-schools.php" target="_top">Traffic Schools</a></li><li><a href="http://www.dmv.org/recalls.php" target="_top">Vehicle &amp; Tire Recalls</a></li><li><a href="http://www.dmv.org/vehicle-history.php" target="_top">Vehicle History Reports</a></li><li><a href="http://www.dmv.org/vehicle-registration.php" target="_top">Vehicle Registration</a></li>
+							<li><a href="/car-insurance.php" onclick="l_st(this)" target="_top">Auto Insurance</a></li><li><a href="/reports-records.php" onclick="l_st(this)" target="_top">Background Checks</a></li><li><a href="/drivers-ed.php" onclick="l_st(this)" target="_top">Drivers Education</a></li><li><a href="/drivers-license.php" onclick="l_st(this)" target="_top">Drivers License &amp; ID</a></li><li><a href="/reports-records.php" onclick="l_st(this)" target="_top">Driving Records</a></li><li><a href="/publications.php" onclick="l_st(this)" target="_top">Forms &amp; Publications</a></li><li><a href="/free-credit-report.php" onclick="l_st(this)" target="_top">Free Credit Report</a></li><li><a href="/automotive-law/find-attorneys.php" onclick="l_st(this)" target="_top">Lawyers</a></li><li><a href="/locations-&amp;-hours.php" onclick="l_st(this)" target="_top">Locations &amp; Hours</a></li><li><a href="/practice-tests.php" onclick="l_st(this)" target="_top">Practice Tests</a></li><li><a href="/traffic-schools.php" onclick="l_st(this)" target="_top">Traffic Schools</a></li><li><a href="/recalls.php" onclick="l_st(this)" target="_top">Vehicle &amp; Tire Recalls</a></li><li><a href="/vehicle-history.php" onclick="l_st(this)" target="_top">Vehicle History Reports</a></li><li><a href="/vehicle-registration.php" onclick="l_st(this)" target="_top">Vehicle Registration</a></li>
 						</ul>	<!-- end featured resources link list -->
 
 				<img src="templates/includes/img/resources_bott.gif" alt="" class="mod-resources-cv-bt"></div>
@@ -192,16 +194,16 @@
 				<!-- begin left sub nav menu -->
 				<div class="subnav"><div class="subnav-hdr"><img src="templates/includes/img/subnav_top.gif" alt="" width="180" height="6" class="cv-top">
 				<!-- begin left sub nav content to shown -->	
-				  <div class="subnav-hdr-info"><a href="http://www.dmv.org/dmv-guide.php" target="_top">DMV Guide</a></div>
+				  <div class="subnav-hdr-info"><a href="/dmv-guide.php" onclick="l_st(this)" target="_top">DMV Guide</a></div>
 				</div>
 				<!-- begin sub nav link list --><ul class="vert-1">
 							<!-- begin sub nav header link list -->
-							<li><a href="http://www.dmv.org/drivers-license.php" target="_top">Drivers License &amp; ID</a></li><li><a href="http://www.dmv.org/first-time-drivers.php" target="_top">First Time Drivers</a></li><li><a href="http://www.dmv.org/vehicle-registration.php" target="_top">Registration &amp; Titling</a></li><li><a href="http://www.dmv.org/driving-records.php" target="_top">Driving Records</a></li><li><a href="http://www.dmv.org/locations-&amp;-hours.php" target="_top">Locations &amp; Hours</a></li><li><a href="http://www.dmv.org/publications.php" target="_top">Forms &amp; Publications</a></li><li><a href="http://www.dmv.org/new-to-your-state.php" target="_top">New to Your State?</a></li><li><a href="http://www.dmv.org/motorcycles.php" target="_top">Motorcycles</a></li><li><a href="http://www.dmv.org/commercial-license.php" target="_top">Commercial Drivers</a></li><li><a href="http://www.dmv.org/safety-&amp;-statistics.php" target="_top">Safety &amp; Statistics</a></li><li><a href="http://www.dmv.org/car-dealers.php" target="_top">Dealers &amp; Auto Industry</a></li><li><a href="http://www.dmv.org/other-dmv-info.php" target="_top">Other DMV Information</a></li><li><a href="http://www.dmv.org/car-insurance.php" target="_top">Car Insurance</a></li><li><a href="http://www.dmv.org/tickets-driving-schools.php" target="_top">Tickets &amp; Driving Schools</a></li>
+							<li><a href="/drivers-license.php" onclick="l_st(this)" target="_top">Drivers License &amp; ID</a></li><li><a href="/first-time-drivers.php" onclick="l_st(this)" target="_top">First Time Drivers</a></li><li><a href="/vehicle-registration.php" onclick="l_st(this)" target="_top">Registration &amp; Titling</a></li><li><a href="/driving-records.php" onclick="l_st(this)" target="_top">Driving Records</a></li><li><a href="/locations-&amp;-hours.php" onclick="l_st(this)" target="_top">Locations &amp; Hours</a></li><li><a href="/publications.php" onclick="l_st(this)" target="_top">Forms &amp; Publications</a></li><li><a href="/motorcycles.php" onclick="l_st(this)" target="_top">Motorcycles</a></li><li><a href="/commercial-license.php" onclick="l_st(this)" target="_top">Commercial Drivers</a></li><li><a href="/safety-&amp;-statistics.php" onclick="l_st(this)" target="_top">Safety &amp; Statistics</a></li><li><a href="/car-dealers.php" onclick="l_st(this)" target="_top">Dealers &amp; Auto Industry</a></li><li><a href="/other-dmv-info.php" onclick="l_st(this)" target="_top">Other DMV Information</a></li><li><a href="/car-insurance.php" onclick="l_st(this)" target="_top">Car Insurance</a></li><li><a href="/tickets-driving-schools.php" onclick="l_st(this)" target="_top">Tickets &amp; Driving Schools</a></li><li><a href="/relocation/" onclick="l_st(this)" target="_top">Relocation Guide</a></li><li><a href="/driving-abroad/" onclick="l_st(this)" target="_top">Driving Abroad</a></li>
 							<!-- end sub nav header link list --> 
 						</ul>
 						
 					<div class="subnav-hdr">
-				  <div class="subnav-hdr-info"><a href="http://www.dmv.org/car-insurance.php" target="_top">Insurance Center </a></div>
+				  <div class="subnav-hdr-info"><a href="/car-insurance.php" onclick="l_st(this)" target="_top">Insurance Center </a></div>
 					<div class="subnav-hdr-sep"><img src="templates/includes/img/spcr.gif" alt="" width="180" height="4" class="cv-top"></div>
 					</div>
 					<!-- end subnavigation hdr div -->
@@ -211,91 +213,91 @@
 				
 						
 					<div class="subnav-hdr">
-				  <div class="subnav-hdr-info"><a href="http://www.dmv.org/tickets-driving-schools.php" target="_top">Tickets &amp; Driving Schools </a></div>
-					<div class="subnav-hdr-sep"><img src="templates/includes/img/spcr.gif" alt="" width="180" height="4" class="cv-top"></div>
-					</div>
-					<!-- end subnavigation hdr div -->
-				  
-				  <!-- begin subnavigation link list -->
-						<ul class="vert-1">
-							<li><a href="http://www.dmv.org/drivers-ed.php" target="_top">Drivers Education</a></li><li><a href="http://www.dmv.org/traffic-schools.php" target="_top">Traffic Schools</a></li><li><a href="http://www.dmv.org/practice-tests.php" target="_top">Practice Tests</a></li><li><a href="http://www.dmv.org/defensive-driving.php" target="_top">Defensive Driving</a></li><li><a href="http://www.dmv.org/suspended-license.php" target="_top">Suspended License</a></li><li><a href="http://www.dmv.org/traffic-tickets.php" target="_top">Traffic Tickets</a></li><li><a href="http://www.dmv.org/paying-tickets.php" target="_top">Paying Your Traffic Ticket</a></li><li><a href="http://www.dmv.org/point-system.php" target="_top">DMV Point System</a></li><li><a href="http://www.dmv.org/driver-handbook.php" target="_top">Driver Handbook</a></li><li><a href="http://www.dmv.org/traffic-ticket-attorneys.php" target="_top">Traffic Ticket Attorneys</a></li>
-						</ul>
-				
-						
-					<div class="subnav-hdr">
-				  <div class="subnav-hdr-info"><a href="http://www.dmv.org/reports-records.php" target="_top">Reports &amp; Records </a></div>
+				  <div class="subnav-hdr-info"><a href="/tickets-driving-schools.php" onclick="l_st(this)" target="_top">Tickets &amp; Driving Schools </a></div>
 					<div class="subnav-hdr-sep"><img src="templates/includes/img/spcr.gif" alt="" width="180" height="4" class="cv-top"></div>
 					</div>
 					<!-- end subnavigation hdr div -->
 				  
 				  <!-- begin subnavigation link list -->
 						<ul class="vert-1">
-							<li><a href="http://www.dmv.org/driving-records.php" target="_top">Driving Records</a></li><li><a href="http://www.dmv.org/vehicle-history.php" target="_top">Vehicle History Reports</a></li><li><a href="http://www.dmv.org/criminal-records.php" target="_top">Criminal Records</a></li><li><a href="http://www.dmv.org/background-checks.php" target="_top">Background Checks</a></li><li><a href="http://www.dmv.org/free-credit-report.php" target="_top">Free Credit Report</a></li>
+							<li><a href="/drivers-ed.php" onclick="l_st(this)" target="_top">Drivers Education</a></li><li><a href="/traffic-schools.php" onclick="l_st(this)" target="_top">Traffic Schools</a></li><li><a href="/practice-tests.php" onclick="l_st(this)" target="_top">Practice Tests</a></li><li><a href="/defensive-driving.php" onclick="l_st(this)" target="_top">Defensive Driving</a></li><li><a href="/suspended-license.php" onclick="l_st(this)" target="_top">Suspended License</a></li><li><a href="/traffic-tickets.php" onclick="l_st(this)" target="_top">Traffic Tickets</a></li><li><a href="/paying-tickets.php" onclick="l_st(this)" target="_top">Paying Your Traffic Ticket</a></li><li><a href="/point-system.php" onclick="l_st(this)" target="_top">DMV Point System</a></li><li><a href="/driver-handbook.php" onclick="l_st(this)" target="_top">Driver Handbook</a></li><li><a href="/traffic-ticket-attorneys.php" onclick="l_st(this)" target="_top">Traffic Ticket Attorneys</a></li>
 						</ul>
 				
 						
 					<div class="subnav-hdr">
-				  <div class="subnav-hdr-info"><a href="http://www.dmv.org/autos/" target="_top">Buying &amp; Selling </a></div>
+				  <div class="subnav-hdr-info"><a href="/reports-records.php" onclick="l_st(this)" target="_top">Reports &amp; Records </a></div>
 					<div class="subnav-hdr-sep"><img src="templates/includes/img/spcr.gif" alt="" width="180" height="4" class="cv-top"></div>
 					</div>
 					<!-- end subnavigation hdr div -->
 				  
 				  <!-- begin subnavigation link list -->
 						<ul class="vert-1">
-							<li><a href="http://www.dmv.org/autos/buying-new-cars.php" target="_top">Guide to Buying a New Car</a></li><li><a href="http://www.dmv.org/autos/buying-used-cars.php" target="_top">Guide to Buying a Used Car</a></li><li><a href="http://www.dmv.org/autos/selling-your-car.php" target="_top">Guide to Selling Your Car</a></li><li><a href="http://www.dmv.org/autos/extended-warranty.php" target="_top">Auto Warranty</a></li><li><a href="http://www.dmv.org/autos/auto-loans.php" target="_top">Auto Loans</a></li><li><a href="http://www.dmv.org/state-regulations.php" target="_top">State Regulations</a></li>
+							<li><a href="/driving-records.php" onclick="l_st(this)" target="_top">Driving Records</a></li><li><a href="/vehicle-history.php" onclick="l_st(this)" target="_top">Vehicle History Reports</a></li><li><a href="/criminal-records.php" onclick="l_st(this)" target="_top">Criminal Records</a></li><li><a href="/background-checks.php" onclick="l_st(this)" target="_top">Background Checks</a></li><li><a href="/free-credit-report.php" onclick="l_st(this)" target="_top">Free Credit Report</a></li><li><a href="/court-records/" onclick="l_st(this)" target="_top">Court Records</a></li><li><a href="/vital-records/" onclick="l_st(this)" target="_top">Vital Records</a></li>
 						</ul>
 				
 						
 					<div class="subnav-hdr">
-				  <div class="subnav-hdr-info"><a href="http://www.dmv.org/automotive-law/" target="_top">Laws &amp; Attorneys </a></div>
+				  <div class="subnav-hdr-info"><a href="/autos/" onclick="l_st(this)" target="_top">Buying &amp; Selling </a></div>
 					<div class="subnav-hdr-sep"><img src="templates/includes/img/spcr.gif" alt="" width="180" height="4" class="cv-top"></div>
 					</div>
 					<!-- end subnavigation hdr div -->
 				  
 				  <!-- begin subnavigation link list -->
 						<ul class="vert-1">
-							<li><a href="http://www.dmv.org/automotive-law/find-attorneys.php" target="_top">Find Attorneys</a></li><li><a href="http://www.dmv.org/automotive-law/lemon-law.php" target="_top">Lemon Law</a></li><li><a href="http://www.dmv.org/automotive-law/dui.php" target="_top">DUI &amp; DWI</a></li><li><a href="http://www.dmv.org/automotive-law/personal-injury.php" target="_top">Personal Injury</a></li><li><a href="http://www.dmv.org/automotive-law/vehicle-code.php" target="_top">Vehicle Code</a></li><li><a href="http://www.dmv.org/driver-handbook.php" target="_top">Driver Handbook</a></li>
+							<li><a href="/autos/buying-new-cars.php" onclick="l_st(this)" target="_top">Guide to Buying a New Car</a></li><li><a href="/autos/buying-used-cars.php" onclick="l_st(this)" target="_top">Guide to Buying a Used Car</a></li><li><a href="/autos/selling-your-car.php" onclick="l_st(this)" target="_top">Guide to Selling Your Car</a></li><li><a href="/autos/donating-car.php" onclick="l_st(this)" target="_top">Donating a Car</a></li><li><a href="/autos/extended-warranty.php" onclick="l_st(this)" target="_top">Auto Warranty</a></li><li><a href="/autos/auto-loans.php" onclick="l_st(this)" target="_top">Auto Loans</a></li><li><a href="/state-regulations.php" onclick="l_st(this)" target="_top">State Regulations</a></li><li><a href="/buying-and-selling-faqs.php" onclick="l_st(this)" target="_top">Buying and Selling FAQs</a></li>
 						</ul>
 				
 						
 					<div class="subnav-hdr">
-				  <div class="subnav-hdr-info"><a href="http://www.dmv.org/news-alerts.php" target="_top">News &amp; Alerts </a></div>
+				  <div class="subnav-hdr-info"><a href="/automotive-law/" onclick="l_st(this)" target="_top">Laws &amp; Attorneys </a></div>
 					<div class="subnav-hdr-sep"><img src="templates/includes/img/spcr.gif" alt="" width="180" height="4" class="cv-top"></div>
 					</div>
 					<!-- end subnavigation hdr div -->
 				  
 				  <!-- begin subnavigation link list -->
 						<ul class="vert-1">
-							<li><a href="http://www.dmv.org/breaking-news.php" target="_top">Breaking News</a></li><li><a href="http://www.dmv.org/recalls.php" target="_top">Recalls</a></li><li><a href="http://www.dmv.org/stolen-vehicles.php" target="_top">Stolen Vehicles</a></li><li><a href="http://www.dmv.org/traffic-alerts.php" target="_top">Traffic Alerts</a></li><li><a href="http://www.dmv.org/weather.php" target="_top">Weather</a></li>
+							<li><a href="/automotive-law/find-attorneys.php" onclick="l_st(this)" target="_top">Find Attorneys</a></li><li><a href="/automotive-law/lemon-law.php" onclick="l_st(this)" target="_top">Lemon Law</a></li><li><a href="/automotive-law/dui.php" onclick="l_st(this)" target="_top">DUI &amp; DWI</a></li><li><a href="/automotive-law/personal-injury.php" onclick="l_st(this)" target="_top">Personal Injury</a></li><li><a href="/automotive-law/vehicle-code.php" onclick="l_st(this)" target="_top">Vehicle Code</a></li><li><a href="/driver-handbook.php" onclick="l_st(this)" target="_top">Driver Handbook</a></li>
 						</ul>
 				
 						
 					<div class="subnav-hdr">
-				  <div class="subnav-hdr-info"><a href="http://www.dmv.org/how-to-guides/" target="_top">How To Guides </a></div>
+				  <div class="subnav-hdr-info"><a href="/news-alerts.php" onclick="l_st(this)" target="_top">News &amp; Alerts </a></div>
 					<div class="subnav-hdr-sep"><img src="templates/includes/img/spcr.gif" alt="" width="180" height="4" class="cv-top"></div>
 					</div>
 					<!-- end subnavigation hdr div -->
 				  
 				  <!-- begin subnavigation link list -->
 						<ul class="vert-1">
-							<li><a href="http://www.dmv.org/how-to-guides/buying-selling.php" target="_top">Buying &amp; Selling</a></li><li><a href="http://www.dmv.org/how-to-guides/vehicle-maintenance.php" target="_top">Vehicle Maintenance</a></li><li><a href="http://www.dmv.org/how-to-guides/safety-and-driving.php" target="_top">Safety &amp; Driving</a></li><li><a href="http://www.dmv.org/how-to-guides/car-basics.php" target="_top">Car Basics</a></li><li><a href="http://www.dmv.org/how-to-guides/equipment-technology.php" target="_top">Equipment &amp; Technology</a></li><li><a href="http://www.dmv.org/how-to-guides/other-vehicles.php" target="_top">Motorcycles &amp; Other Vehicles</a></li><li><a href="http://www.dmv.org/how-to-guides/alternative-vehicles.php" target="_top">Alternative Vehicles</a></li><li><a href="http://www.dmv.org/how-to-guides/travel.php" target="_top">Travel &amp; Recreation</a></li>
+							<li><a href="/breaking-news.php" onclick="l_st(this)" target="_top">Breaking News</a></li><li><a href="/recalls.php" onclick="l_st(this)" target="_top">Recalls</a></li><li><a href="/stolen-vehicles.php" onclick="l_st(this)" target="_top">Stolen Vehicles</a></li><li><a href="/traffic-alerts.php" onclick="l_st(this)" target="_top">Traffic Alerts</a></li><li><a href="/news-alerts/511.php" onclick="l_st(this)" target="_top">511 Traffic Systems</a></li><li><a href="/weather.php" onclick="l_st(this)" target="_top">Weather</a></li><li><a href="/news-alerts/real-id.php" onclick="l_st(this)" target="_top">REAL ID</a></li><li><a href="/news-alerts/enhanced-driver-license.php" onclick="l_st(this)" target="_top">Enhanced Driver License</a></li><li><a href="/news-alerts/identity-theft.php" onclick="l_st(this)" target="_top">Identity Theft</a></li>
 						</ul>
 				
 						
 					<div class="subnav-hdr">
-				  <div class="subnav-hdr-info"><a href="http://www.dmv.org/fun-stuff/" target="_top">Fun Stuff </a></div>
+				  <div class="subnav-hdr-info"><a href="/how-to-guides/" onclick="l_st(this)" target="_top">How To Guides </a></div>
 					<div class="subnav-hdr-sep"><img src="templates/includes/img/spcr.gif" alt="" width="180" height="4" class="cv-top"></div>
 					</div>
 					<!-- end subnavigation hdr div -->
 				  
 				  <!-- begin subnavigation link list -->
 						<ul class="vert-1">
-							<li><a href="http://www.dmv.org/fun-stuff/trivia.php" target="_top">Trivia</a></li><li><a href="http://www.dmv.org/fun-stuff/humor.php" target="_top">Humor</a></li><li><a href="http://www.dmv.org/fun-stuff/games.php" target="_top">Games</a></li><li><a href="http://www.dmv.org/fun-stuff/audio-video.php" target="_top">Vehicle Audio &amp; Video</a></li><li><a href="http://www.dmv.org/fun-stuff/racing-world.php" target="_top">The Racing World</a></li><li><a href="http://www.dmv.org/fun-stuff/groups.php" target="_top">Groups &amp; Gatherings</a></li><li><a href="http://www.dmv.org/fun-stuff/links.php" target="_top">Links We Like</a></li>
+							<li><a href="/how-to-guides/buying-selling.php" onclick="l_st(this)" target="_top">Buying &amp; Selling</a></li><li><a href="/how-to-guides/vehicle-maintenance.php" onclick="l_st(this)" target="_top">Vehicle Maintenance</a></li><li><a href="/how-to-guides/safety-and-driving.php" onclick="l_st(this)" target="_top">Safety &amp; Driving</a></li><li><a href="/how-to-guides/car-basics.php" onclick="l_st(this)" target="_top">Car Basics</a></li><li><a href="/how-to-guides/equipment-technology.php" onclick="l_st(this)" target="_top">Equipment &amp; Technology</a></li><li><a href="/how-to-guides/other-vehicles.php" onclick="l_st(this)" target="_top">Motorcycles &amp; Other Vehicles</a></li><li><a href="/how-to-guides/alternative-vehicles.php" onclick="l_st(this)" target="_top">Alternative Vehicles</a></li><li><a href="/how-to-guides/travel.php" onclick="l_st(this)" target="_top">Travel &amp; Recreation</a></li>
 						</ul>
 				
 						
 					<div class="subnav-hdr">
-				  <div class="subnav-hdr-info"><a href="http://www.dmv.org/community/" target="_top">Community </a></div>
+				  <div class="subnav-hdr-info"><a href="/fun-stuff/" onclick="l_st(this)" target="_top">Fun Stuff </a></div>
+					<div class="subnav-hdr-sep"><img src="templates/includes/img/spcr.gif" alt="" width="180" height="4" class="cv-top"></div>
+					</div>
+					<!-- end subnavigation hdr div -->
+				  
+				  <!-- begin subnavigation link list -->
+						<ul class="vert-1">
+							<li><a href="/fun-stuff/trivia.php" onclick="l_st(this)" target="_top">Trivia</a></li><li><a href="/fun-stuff/humor.php" onclick="l_st(this)" target="_top">Humor</a></li><li><a href="/fun-stuff/games.php" onclick="l_st(this)" target="_top">Games</a></li><li><a href="/fun-stuff/audio-video.php" onclick="l_st(this)" target="_top">Vehicle Audio &amp; Video</a></li><li><a href="/fun-stuff/racing-world.php" onclick="l_st(this)" target="_top">The Racing World</a></li><li><a href="/fun-stuff/groups.php" onclick="l_st(this)" target="_top">Groups &amp; Gatherings</a></li><li><a href="/fun-stuff/links.php" onclick="l_st(this)" target="_top">Links We Like</a></li>
+						</ul>
+				
+						
+					<div class="subnav-hdr">
+				  <div class="subnav-hdr-info"><a href="/community/" onclick="l_st(this)" target="_top">Community </a></div>
 					<div class="subnav-hdr-sep"><img src="templates/includes/img/spcr.gif" alt="" width="180" height="4" class="cv-top"></div>
 					</div>
 					<!-- end subnavigation hdr div -->
@@ -319,27 +321,25 @@
 	<div style="background: #fff; text-align: left; width:98%;">
 		
 				<div class="mod-state-hdr-wide">
-					<div class="mod-info-3b-no-hr"><strong>THIS SITE IS NOT OWNED OR OPERATED BY, NOR AFFILIATED WITH, ANY FEDERAL, STATE, COUNTY, OR CITY GOVERNMENT, OR ANY DEPARTMENT, BUREAU, DIVISION, OR AGENCY OF ANY OF THE FOREGOING (COLLECTIVELY, THE "GOVERNMENT").</strong>
-<br><br>
-DMV.ORG (the "Site") created this Privacy Policy website (this "Policy"), to demonstrate our commitment to respecting the privacy of visitors to our Site and to providing an appropriate level of protection and management of their personally identifiable information in our possession. This Site is a privately owned, for-profit web site owned by eDriver, Inc., and is not owned, operated, or affiliated with any government agency.  This Site was created to provide access to information and resources for needs related to the state motor vehicle departments.  This Policy will inform you of the categories of personally identifiable information we collect, and categories of third parties with whom the information may be shared. The phrases "personally identifiable information" and "personal information" mean any information that permits you to be contacted physically or online such as your first and last name, physical address, email address, telephone number, or other identifying information maintained in combination with any of the foregoing.  This Policy is applicable only to this Site, and not to any other websites that you may be able to access from this Site, each of which may collect data and use that data in a manner that materially differs from this Policy.  This Site and this Policy are subject to the <a href="http://www.dmv.org/visitor-agreement.php" target="_top" class="mid-link">Terms of Use</a> agreement which governs your use of this Site.<h2>
-Collecting Information about You and Use of Cookies</h2>You may visit our Site without revealing any of your personal information.  If you wish to contact us through email, you will be requested to provide personal information including your full name and email address.  Similarly, if you are interested in advertising on this Site you will also be requested to provide personal information including but not limited to your full name, email address, telephone number, company name and company title.  Any such personal information will not be stored on or be accessible via this Site and will not be shared with third parties.  Also when you visit the Site, we may collect the following types of anonymous information:
-We may automatically track and collect the internet domain address, IP address, domain server, type of computer and type of web browser used to visit our Site. That type of information (often referred to as traffic data) will remain anonymous and is not considered personal information unless you voluntarily tell us personally identifiable information and it is combined with the traffic data. Traffic data helps us analyze how the Site is used, demographic data and improving your experience on the Site.<p></p>
-
-Like many websites, we use computer "cookies," which are small amounts of data that we transfer to your computer's hard drive through your web browser. We collect the information in the cookie when you visit the Site. The cookies enable our systems to recognize you, provide features to you, track your visits and/or analyze your use of the Site. You may be able to set your browser to reject cookies or to ask you whether to accept a particular cookie. There are also third party utilities designed to help you visit Web sites anonymously. If as a result of your settings we cannot recognize you, we will not be able to provide you with a personalized experience at our Site.  In addition, this Site along with other advertisers or service providers, may use "clear gifs" or "web beacons."  These are small transparent graphic images that are useful in determining how visitors to this Site respond to various advertisements.  <p></p>
-
-We may share anonymous traffic data and results of analysis of traffic data that does not include any personal information with advertisers, retailers and other third party service providers.<h2>
-Links to Other Sites</h2>This Site contains links to other Internet websites.  If you use these links, you will leave this Site. These third party websites may include, but are not limited to, advertisers, retailers and service providers.  In addition, these third party websites may display trademarks, trade names and other forms of intellectual property that we may own.  However, although certain third party websites may appear to be part of this Site, this Site does not necessarily own or operate any of these third party websites and are not responsible for the privacy policies, practices or contents of such websites.  Examples of such third party website links include, but are not limited to, websites that offer driving courses, drivers education, driving records, criminal records and background checks, motor vehicle records, or other personal or public records, and products and services of third party advertisers, such as auto insurance.  These third party websites may collect personally identifiable information that may include your name, email, credit card number and expiration date, CVV number, mailing address, telephone number, social security number, birth date, driver's license number, and other financial information.  Please refer to the privacy policies of such third party websites for information on what kinds of personally identifiable information such websites collect and their respective privacy practices, terms, and conditions.  We do not warrant or make any representations about any such websites, or any information, software or other products or materials found therein, or any results that may be obtained from using such websites. If you decide to access any of the third party sites linked to this Site, your access, use of or interaction with such other websites is entirely at you own risk.<h2>
-Children</h2>This Site is a general audience site.  This Site does not direct any of its content at children under 13 years of age.  This Site understands and is committed to respecting the privacy of children online.<h2>
-Updates and Changes to Privacy Policy; Effective Date.</h2>We reserve the right, at any time and without notice, to add to, change, update or modify this Policy, simply by posting such change, update or modification on the Site.  Any such change, update or modification will be effective immediately upon posting on the Site. Information we gather is subject to the Policy in effect at the time of use.  It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.  If you have any other questions about the Site, or this Policy, <a href="http://www.dmv.org/privacy-policy-contact.php" target="_top" class="mid-link">please send us an email</a>, and we will try to respond in a reasonable timeframe.  The effective date of this Policy is May 7, 2007.<p></p>
-
+					<div class="mod-info-3b-no-hr"><p><strong>THIS SITE IS NOT OWNED OR OPERATED BY, NOR AFFILIATED WITH, ANY FEDERAL, STATE, COUNTY, OR CITY GOVERNMENT, OR ANY DEPARTMENT, BUREAU, DIVISION, OR AGENCY OF ANY OF THE FOREGOING (COLLECTIVELY, THE "GOVERNMENT").</strong></p><br><p>DMV.ORG (the "Site") created this Privacy Policy website (this "Policy"), to demonstrate our commitment to respecting the privacy of visitors to our Site and to providing an appropriate level of protection and management of their personally identifiable information in our possession. This Site is a privately owned, for-profit web site owned by eDriver, Inc., and is not owned, operated, or affiliated with any government agency.  This Site was created to provide access to information and resources for needs related to the state motor vehicle departments.</p><p>This Policy will inform you of the categories of personally identifiable information we collect, and categories of third parties with whom the information may be shared. The phrases "personally identifiable information" and "personal information" mean any information that permits you to be contacted physically or online such as your first and last name, physical address, email address, telephone number, or other identifying information maintained in combination with any of the foregoing.  This Policy is applicable only to this Site, and not to any other websites that you may be able to access from this Site, each of which may collect data and use that data in a manner that materially differs from this Policy.  This Site and this Policy are subject to the <a href="/visitor-agreement.php" class="mid-link">Terms of Use</a> agreement which governs your use of this Site.</p>
+<h2>Collecting Information about You and Use of Cookies</h2>
+<p>You may visit our Site without revealing any of your personal information.  If you wish to contact us through email, you will be requested to provide personal information including your full name and email address.  Similarly, if you are interested in advertising on this Site you will also be requested to provide personal information including but not limited to your full name, email address, telephone number, company name and company title.  Any such personal information will not be stored on or be accessible via this Site and will not be shared with third parties.  Also when you visit the Site, we may collect the following types of anonymous information:<br>We may automatically track and collect the internet domain address, IP address, domain server, type of computer and type of web browser used to visit our Site. That type of information (often referred to as traffic data) will remain anonymous and is not considered personal information unless you voluntarily tell us personally identifiable information and it is combined with the traffic data. Traffic data helps us analyze how the Site is used, demographic data and improving your experience on the Site.</p><p>Like many websites, we use computer "cookies," which are small amounts of data that we transfer to your computer's hard drive through your web browser. We collect the information in the cookie when you visit the Site. The cookies enable our systems to recognize you, provide features to you, track your visits and/or analyze your use of the Site. You may be able to set your browser to reject cookies or to ask you whether to accept a particular cookie. There are also third party utilities designed to help you visit Web sites anonymously. If as a result of your settings we cannot recognize you, we will not be able to provide you with a personalized experience at our Site.  In addition, this Site along with other advertisers or service providers, may use "clear gifs" or "web beacons."  These are small transparent graphic images that are useful in determining how visitors to this Site respond to various advertisements.</p><p>We may share anonymous traffic data and results of analysis of traffic data that does not include any personal information with advertisers, retailers and other third party service providers.</p>
+<h2>Links to Other Sites</h2>
+<p>This Site contains links to other Internet websites.  If you use these links, you will leave this Site. These third party websites may include, but are not limited to, advertisers, retailers and service providers.  In addition, these third party websites may display trademarks, trade names and other forms of intellectual property that we may own.  However, although certain third party websites may appear to be part of this Site, this Site does not necessarily own or operate any of these third party websites and are not responsible for the privacy policies, practices or contents of such websites.  Examples of such third party website links include, but are not limited to, websites that offer driving courses, drivers education, driving records, criminal records and background checks, motor vehicle records, or other personal or public records, and products and services of third party advertisers, such as auto insurance.  These third party websites may collect personally identifiable information that may include your name, email, credit card number and expiration date, CVV number, mailing address, telephone number, social security number, birth date, driver's license number, and other financial information.  Please refer to the privacy policies of such third party websites for information on what kinds of personally identifiable information such websites collect and their respective privacy practices, terms, and conditions.  We do not warrant or make any representations about any such websites, or any information, software or other products or materials found therein, or any results that may be obtained from using such websites. If you decide to access any of the third party sites linked to this Site, your access, use of or interaction with such other websites is entirely at you own risk.</p>
+<h2>Children</h2>
+<p>This Site is a general audience site.  This Site does not direct any of its content at children under 13 years of age.  This Site understands and is committed to respecting the privacy of children online.</p>
+<h2>Updates and Changes to Privacy Policy; Effective Date.</h2>
+<p>We reserve the right, at any time and without notice, to add to, change, update or modify this Policy, simply by posting such change, update or modification on the Site.  Any such change, update or modification will be effective immediately upon posting on the Site. Information we gather is subject to the Policy in effect at the time of use.  It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.  If you have any other questions about the Site, or this Policy, <a href="/privacy-policy-contact.php" class="mid-link">please send us an email</a>, and we will try to respond in a reasonable timeframe.  The effective date of this Policy is May 7, 2007.</p>
 <div class="mainad_design9_Middlefull_hr"><img src="/images/spcr.gif" height="1"></div>
-<div class="mod-info-1a">
-<div align="left"><h3>Access Our State Guides</h3></div>
 
+<div class="mod-info-1a">
+<div align="left"><h3 class="h3tag">Access Our State Guides</h3></div>
 <table class="mod-info-1a">
-  <tbody><tr>
-    <td class="ct" width="20%"><p><a href="http://www.dmv.org/ak-alaska/department-motor-vehicles.php">Alaska</a></p><p>
-<a href="http://www.dmv.org/al-alabama/department-motor-vehicles.php">Alabama</a></p>
+<tbody><tr>
+<td class="ct" width="20%">
+
+<p><a href="http://www.dmv.org/ak-alaska/department-motor-vehicles.php">Alaska</a></p>
+<p><a href="http://www.dmv.org/al-alabama/department-motor-vehicles.php">Alabama</a></p>
 <p><a href="http://www.dmv.org/ar-arkansas/department-motor-vehicles.php">Arkansas</a></p>
 <p><a href="http://www.dmv.org/az-arizona/department-motor-vehicles.php">Arizona</a></p>
 <p><a href="http://www.dmv.org/ca-california/department-motor-vehicles.php">California</a></p>
@@ -354,26 +354,33 @@ Updates and Changes to Privacy Policy; Effective Date.</h2>We reserve the right,
 <p><a href="http://www.dmv.org/il-illinois/department-motor-vehicles.php">Illinois</a></p>
 <p><a href="http://www.dmv.org/in-indiana/department-motor-vehicles.php">Indiana</a></p>
 <p><a href="http://www.dmv.org/ks-kansas/department-motor-vehicles.php">Kansas</a></p>
-<p><a href="http://www.dmv.org/ky-kentucky/department-motor-vehicles.php">Kentucky</a></p></td>
-<td class="ct" width="20%"><p>
-<a href="http://www.dmv.org/la-louisiana/department-motor-vehicles.php">Louisiana</a></p>
+<p><a href="http://www.dmv.org/ky-kentucky/department-motor-vehicles.php">Kentucky</a></p>
+
+</td>
+<td class="ct" width="20%">
+
+<p><a href="http://www.dmv.org/la-louisiana/department-motor-vehicles.php">Louisiana</a></p>
 <p><a href="http://www.dmv.org/me-maine/department-motor-vehicles.php">Maine</a></p>
 <p><a href="http://www.dmv.org/md-maryland/department-motor-vehicles.php">Maryland</a></p>
-<p><a href="http://www.dmv.org/ma-massachusetts/department-motor-vehicles.php">Massachusetts</a></p><p><a href="http://www.dmv.org/mi-michigan/department-motor-vehicles.php">Michigan</a></p><p>
-<a href="http://www.dmv.org/mn-minnesota/department-motor-vehicles.php">Minnesota</a></p>
+<p><a href="http://www.dmv.org/ma-massachusetts/department-motor-vehicles.php">Massachusetts</a></p>
+
+<p><a href="http://www.dmv.org/mi-michigan/department-motor-vehicles.php">Michigan</a></p>
+<p><a href="http://www.dmv.org/mn-minnesota/department-motor-vehicles.php">Minnesota</a></p>
 <p><a href="http://www.dmv.org/ms-mississippi/department-motor-vehicles.php">Mississippi</a></p>
 <p><a href="http://www.dmv.org/mo-missouri/department-motor-vehicles.php">Missouri</a></p>
 <p><a href="http://www.dmv.org/mt-montana/department-motor-vehicles.php">Montana</a></p>
 <p><a href="http://www.dmv.org/nc-north-carolina/department-motor-vehicles.php">North Carolina</a></p>
-<p><a href="http://www.dmv.org/nd-north-dakota/department-motor-vehicles.php">North Dakota</a></p><p><a href="http://www.dmv.org/ne-nebraska/department-motor-vehicles.php">Nebraska</a></p><p>
-<a href="http://www.dmv.org/nh-new-hampshire/department-motor-vehicles.php">New Hampshire</a></p>
+<p><a href="http://www.dmv.org/nd-north-dakota/department-motor-vehicles.php">North Dakota</a></p>
+
+<p><a href="http://www.dmv.org/ne-nebraska/department-motor-vehicles.php">Nebraska</a></p>
+<p><a href="http://www.dmv.org/nh-new-hampshire/department-motor-vehicles.php">New Hampshire</a></p>
 <p><a href="http://www.dmv.org/nj-new-jersey/department-motor-vehicles.php">New Jersey</a></p>
 <p><a href="http://www.dmv.org/nm-new-mexico/department-motor-vehicles.php">New Mexico</a></p>
 <p><a href="http://www.dmv.org/nv-nevada/department-motor-vehicles.php">Nevada</a></p>
-<p><a href="http://www.dmv.org/ny-new-york/department-motor-vehicles.php">New York</a></p>
-</td>
+<p><a href="http://www.dmv.org/ny-new-york/department-motor-vehicles.php">New York</a></p><br>
 
-    <td class="ct" width="20%">
+</td>
+<td class="ct" width="20%">
 <p><a href="http://www.dmv.org/oh-ohio/department-motor-vehicles.php">Ohio</a></p>
 <p><a href="http://www.dmv.org/ok-oklahoma/department-motor-vehicles.php">Oklahoma</a></p>
 <p><a href="http://www.dmv.org/or-oregon/department-motor-vehicles.php">Oregon</a></p>
@@ -390,13 +397,12 @@ Updates and Changes to Privacy Policy; Effective Date.</h2>We reserve the right,
 <p><a href="http://www.dmv.org/washington-dc/department-motor-vehicles.php">Washington DC</a></p>
 <p><a href="http://www.dmv.org/wi-wisconsin/department-motor-vehicles.php">Wisconsin</a></p>
 <p><a href="http://www.dmv.org/wv-west-virginia/department-motor-vehicles.php">West Virginia</a></p>
-<p><a href="http://www.dmv.org/wy-wyoming/department-motor-vehicles.php">Wyoming</a></p>	</td>
+<p><a href="http://www.dmv.org/wy-wyoming/department-motor-vehicles.php">Wyoming</a></p>
 
-  </tr>
+</td>
+</tr>
 </tbody></table>
-</div><p></p>
-
-</div>
+</div></div>
 				</div>
 		
 <!-- end page wrapper div -->
@@ -404,7 +410,23 @@ Updates and Changes to Privacy Policy; Effective Date.</h2>We reserve the right,
 
 </div>
 <br clear="all">
-</div>
+<div class="washelpfulouterbox">
+		<div class="washelpfulsuggestionsbox">
+			<div class="washelpfulquestion">
+				Is this page helpful to you?
+			</div>
+			<div class="washelpfulcssnav">
+				<a href="#was-it-helpful" onclick="javascript:helpfulpopUp('/pages/suggestions_popup.php?navId=10&amp;stateId=&amp;suggestionTypeId=1&amp;title=Privacy+Policy',450)" title="This Article is Helpful" style="text-decoration: none;">
+					Helpful
+				</a>
+			</div>
+			<div class="washelpfulcssnav2">
+				<a href="#was-it-helpful" onclick="javascript:helpfulpopUp('/pages/suggestions_popup.php?navId=10&amp;stateId=&amp;suggestionTypeId=2&amp;title=Privacy+Policy',570)" title="This Article is Not Helpful" style="text-decoration: none;">
+					Not Helpful
+				</a>
+			</div>
+		</div>
+</div></div>
 				
 		<div class="sep-1"> </div>
 </div>
@@ -415,31 +437,45 @@ Updates and Changes to Privacy Policy; Effective Date.</h2>We reserve the right,
 			
 			<div id="ftr-copy">
 			<p>
-			<strong>© 1999-2007, DMV.ORG. All Rights Reserved</strong><br>
-            <a href="http://www.dmv.org/">Home</a> | <a href="http://www.dmv.org/advertising.php">Advertising</a> | <a href="http://www.dmv.org/about-us.php">About Us</a> | <a href="/help/">Help Center</a> | <a href="http://www.dmv.org/visitor-agreement.php">Visitor Agreement</a> | <a href="http://www.dmv.org/privacy.php">Privacy Policy</a> | <a href="http://www.dmv.org/help/">Contact Us</a> | <a href="http://www.dmv.org/link-to-us.php">Link to Us</a> | <a href="http://search.dmv.org/">Search</a> | <a href="http://www.dmv.org/change-state.php">Change State</a></p>
+			<strong>© 1999-2008, DMV.ORG. All Rights Reserved</strong><br>
+            <a href="http://www.dmv.org/">Home</a> | <a href="http://www.dmv.org/about-us/advertising.php">Advertising</a> | <a href="http://www.dmv.org/about-us/">About Us</a> | <a href="/help/">Help Center</a> | <a href="http://www.dmv.org/visitor-agreement.php">Visitor Agreement</a> | <a href="http://www.dmv.org/privacy.php">Privacy Policy</a> | <a href="http://www.dmv.org/help/">Contact Us</a> | <a href="http://www.dmv.org/link-to-us.php">Link to Us</a> | <a href="http://search.dmv.org/">Search</a> | <a href="http://www.dmv.org/change-state.php">Change State</a></p>
 		<p>
 		<strong>***Please note that DMV.ORG is not owned, operated, or affiliated with any government agency.***
 </strong><br>
-DMV.ORG (the Site) is a privately owned, for-profit corporation owned by eDriver, Inc. The Site specifically disclaims any and all connection with any state bureau, division, or Department of Motor Vehicles, or any state or federal government agency. DMV.ORG does its best to get the correct information for each Department of Motor Vehicles on its site but does not claim responsibility for the accuracy of the information displayed herein. It is not complete or certified information. Additionally, the Site expressly disclaims any and all liability for third party links or resources on the Site and any claims of negligence arising from same. For complete and accurate information, please consult your local Department of Motor Vehicles office.
+DMV.ORG (the Site) is a privately owned, for-profit web site owned by eDriver, Inc. The Site specifically disclaims any and all connection with any state bureau, division, or Department of Motor Vehicles, or any state or federal government agency. DMV.ORG does its best to get the correct information for each state motor vehicle department on its site but does not claim responsibility for the accuracy of the information displayed herein. It is not complete or certified information. Additionally, the Site expressly disclaims any and all liability for third party links or resources on the Site and any claims of negligence arising from same. For official information, please consult your state motor vehicle department.
 </p>
 </div>
 	  </div>
 <!--end footer div-->
 <!-- end page wrapper div -->
-<script language="JavaScript" src="/s_code.js"></script>
-<script language="JavaScript"><!--
-s.pageName="PRIVACY POLICY";
-s.server="192.168.1.143";
+<script language="JavaScript" type="text/javascript" src="/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName="NON-STATE PRIVACY POLICY";
+s.eVar9=s.server="192.168.1.38";
 s.prop1="NO-STATE";
 s.prop2="PRIVACY POLICY";
-s.campaign="deleted";
+s.prop10="N - 16";
+s.eVar11=s.prop11="BOTTOM NAVIGATION";
+s.eVar12=s.prop12="PRIVACY POLICY";
+s.eVar13=s.prop13="PRIVACY POLICY";
+s.eVar14=s.pageName;
+s.eVar21=s.prop21="US";
+s.eVar22=s.prop22="NO-STATE";
+
+s.channel="BOTTOM NAVIGATION";
+s.events="event1";
+s.products="";
+s.campaign="";
+
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript"><!--
+<script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://dmvorg.112.2O7.net/b/ss/dmvorg/1/H.9--NS/0"
+src="http://dmvorg.112.2O7.net/b/ss/dmvorg/1/H.15.1--NS/0"
 height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.15.1. -->
+
 </div>
 
 </body></html>
