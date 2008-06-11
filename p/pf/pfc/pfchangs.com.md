@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pfchangs.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209215244id_/http%3A//www.pfcb.com/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfchangs.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611103325id_/http%3A//www.pfcb.com/privacyPolicy.htm) for the most accurate reproduction.*
 
 # 
 
 **Privacy Policy**
 
-Effective Date: July 14, 2006 ****
+Date Last Modified: April 24, 2008 ****
 
 We respect and value your privacy.  This Privacy Policy describes the information we collect from you when you visit our Website (“Website”), how we use that information, and under what circumstances we disclose it.  It will also give you more information about how to manage the personal information that you provide to us through the Website.  This Privacy Policy applies only to information you provide to us on-line while visiting or using our Website.  It does not apply to information we have obtained or may obtain offline through other traditional means.  The Privacy Policy should be read in conjunction with the Terms of Use located on the Website.
 
@@ -78,9 +78,11 @@ a.      User Information is subject to disclosure in response to judicial o
 
 b.      User Information is subject to disclosure to protect PFCCB’s rights or property, protect its legitimate business interests, to enforce the provisions of our Privacy Statement and Terms of Use, and/or to prevent harm to you or others;
 
-c.      User Information may be disclosed to process credit card transactions.  In this case these transactions are handled by established third party banking, processing agents and distribution institutions.  They receive the information needed to verify and authorize your credit card or other payment information and to process your order.  In addition, PFCCB may disclose User Information to third parties to verify the authenticity of any financial transaction involving PFCCB or its subsidiaries.
+c.      User Information may be disclosed to carefully selected third-party service providers in order to provide services to you, such as to fulfill gift card orders (U.S. Postal Service, Canada Post, or other delivery companies we or you select); provide customer service; send marketing communications; maintain our customer loyalty program and other programs; monitor Website activity; conduct surveys; maintain our customer database; send regular mail and e-mail; and administer drawings and/or contests. We will share your User Information with our carefully selected third-party services providers on a confidential basis. These service providers are prohibited from using your User Information for any purpose other than providing PFCCB services.
 
-d.      User Information may be disclosed and transferred if PFCCB or its business is sold or offered for sale to another company or person(s), if a petition for relief under the United States Bankruptcy Laws is filed by or against PFCCB, or if PFCCB becomes subject to an order of appointment of a trustee or receiver.
+d.      User Information may be disclosed to process credit card transactions.  In this case these transactions are handled by established third party banking, processing agents and distribution institutions.  They receive the information needed to verify and authorize your credit card or other payment information and to process your order.  In addition, PFCCB may disclose User Information to third parties to verify the authenticity of any financial transaction involving PFCCB or its subsidiaries.
+
+e.      User Information may be disclosed and transferred if PFCCB or its business is sold or offered for sale to another company or person(s), if a petition for relief under the United States Bankruptcy Laws is filed by or against PFCCB, or if PFCCB becomes subject to an order of appointment of a trustee or receiver. 
 
 5.                  Linking to Third-Party Websites.
 
@@ -114,7 +116,7 @@ If at any time you believe PFCCB has not adhered to the policies and principles 
 
 9.                  Changes to Privacy Policies.
 
-This privacy statement was last modified on June 30, 2006.  Our Privacy Policy is subject to change from time to time, so we suggest that you review the current Privacy Policy at the start of each visit to the Website.  Unless we clearly express otherwise, we will use information in accordance with the Privacy Policy under which the information was collected.  YOU ARE HEREBY ADVISED THAT YOUR CONTINUED USE OF OUR WEBSITE CONSTITUTES YOUR ACCEPTANCE OF ANY AMENDMENTS TO AND THE MOST RECENT VERSION OF THIS PRIVACY STATEMENT.
+Our Privacy Policy is subject to change from time to time, so we suggest that you review the current Privacy Policy at the start of each visit to the Website.  Unless we clearly express otherwise, we will use information in accordance with the Privacy Policy under which the information was collected.  YOU ARE HEREBY ADVISED THAT YOUR CONTINUED USE OF OUR WEBSITE CONSTITUTES YOUR ACCEPTANCE OF ANY AMENDMENTS TO AND THE MOST RECENT VERSION OF THIS PRIVACY STATEMENT.
 
 10.             Questions or Comments.
 
