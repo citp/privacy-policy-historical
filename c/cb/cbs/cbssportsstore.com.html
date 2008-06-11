@@ -1,180 +1,70 @@
-<!--The following is the downloaded HTML source of the cbssportsstore.com privacy policy that was archived on 2007-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071024183508id_/http%3A//www.cbssportsstore.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cbssportsstore.com privacy policy that was archived on 2008-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080611223948id_/http%3A//www.cbssportsstore.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.-->
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
 	
 	<title>CBSSportsStore.com Helpdesk</title>
-	<script language="Javascript">
-function trimString (str) {
-  while (str.charAt(0) == ' ')
-    str = str.substring(1);
-  while (str.charAt(str.length - 1) == ' ')
-    str = str.substring(0, str.length - 1);
-  return str;
-}
+	
+
+<link rel="stylesheet" href="http://SPLN.imageg.net/css/spln.css">
+<script type="text/javascript" src="http://SPLN.imageg.net/js/Df.js"></script>
+<script type="text/javascript" src="http://SPLN.imageg.net/js/Df.Dropnav.js"></script>
+<script type="text/javascript" src="http://SPLN.imageg.net/js/Df.Slider.js"></script>
+<script type="text/javascript" src="http://SPLN.imageg.net/js/Df.Reflection.js"></script>
+<script type="text/javascript" src="http://SPLN.imageg.net/js/Df.Tip.js"></script>
+<script type="text/javascript" src="http://SPLN.imageg.net/js/spln.js"></script>
 
 
-function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
-{
- var email = trimString(document.emailForm.emailAddress.value);
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://SPLN.imageg.net/css/iehacks.css" />
+<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://SPLN.imageg.net/css/ie6hacks.css" />
+<![endif]-->
 
-    if (!validEmail(email))
-	{
-        alert('Please enter a valid e-mail address.');
-        return false;
-    }
-	if(type == 1)
-	{
-        document.emailForm.submit();
+
+	<!--[if lte IE 7]>
+	<script type="text/javascript">
+	var cartNs = {};
+
+	/**
+	 * Relies on prototype.js v1.5+
+	 */
+	cartNs.styleIe6 = function() {
+		var e = $$("img[src=\"../images/hd/nav_arrow.gif\"]");
+		for (var i = 0; i < e.length; i++) {
+			e[i].style.display = "none";
+		}
+	};
+
+	cartNs.events = {};
+	cartNs.events.observe = function(element, type, action) {
+		if (element.addEventListener) {
+			//check if the browser supports the addEventListener method
+			element.addEventListener(type, action, false);
+		} else {
+			//otherwise use the attachEvent method
+			element.attachEvent('on' + type, action);
+		}
 	}
-}
-
-function validEmail(email)
-{
-    var vAtSym    = email.indexOf('@')
-    var vPeriod   = email.lastIndexOf('.')
-    var vSpace    = email.indexOf(' ')
-    var vLength   = email.length - 1   // Array is from 0 to length-1
-
-    if (vAtSym < 1 ||                     // '@' cannot be in first position
-    	vPeriod <= vAtSym + 1 ||          // Must be atleast one valid char btwn '@' and '.'
-    	vPeriod == vLength  ||            // Must be atleast one valid char after '.'
-    	vSpace  != -1)                    // No empty spaces permitted
-	{
-        return false;
-    }
-	return true;
-}
-
-
-
-
-
-function showCustomPopUp(thisUrl,thisName,theseParams)
-{
-	remote = open(thisUrl, thisName, theseParams);
-}
-
-
-//	verisign POP-UP WINDOW
-function popUp(url)
-{
-	sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
-	self.name = "mainWin";
-}
-
-function jump(url)
-{
-	if (url != "" && url != null)
-	{
-		self.location.href = url;
-	}
-}
-</script>
-
-	<link rel="stylesheet" type="text/css" href="../include/store.css">
-	<style>
-	.hdSubNav{font-family:verdana;color:#000247;text-decoration:none;font-family:verdana,geneva;font-size:11px;font-weight:bold;background-color:#FFFFF;}
-	</style>
+	cartNs.events.observe(window, 'load', cartNs.styleIe6);
+	</script>
+	<![endif]-->
 </head>
-	<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<body>
+
+<div class="mainWrapper">
+<div class="mainFrame" id="helpDeskPage">
 	<a name="pageTop()"><!-- --></a>
 	
+<div id="headerFrame">
+	<div id="header">
+		<div id="headerLogo"><a href="/">CBS Sports Store</a></div>
+	</div>
+</div>
 
-
-	<div style="display:none">Thank you for visiting CBS Sportsline. If you need assistance with shopping on our site, please call us at 866-690-2381 and a customer care representative will be happy to assist you. Please inform the Customer Service representative that you require assistance.</div>
-	<table cellpadding="0" cellspacing="0" border="0" width="768">
-     <tbody><tr>
-         <td width="250"><img src="http://SPLN.imageg.net/images/logo_top_rebrand_081806.gif" border="0" usemap="#logoTop"></td>
-		 <td width="100%" align="right" bgcolor="#1A3299" valign="top" rowspan="2" style="background-image: url(http://SPLN.imageg.net/images/backBlue.gif);"><img src="http://SPLN.imageg.net/images/pixel.gif" width="1" height="4"><br><a href="http://cbs.sportsline.com/" class="headlink">CBSSports.com</a>&nbsp;&nbsp;<a href="../home/index.jsp?clickid=header_home_txt" class="headlink">Home</a>&nbsp;&nbsp;<a href="https://www.cbssportsstore.com/coreg/index.jsp?step=register&amp;clickid=header_myAccount_txt" class="headlink">My Account</a>&nbsp;&nbsp;<a href="https://www.cbssportsstore.com/coreg/index.jsp?step=ot&amp;clickid=header_track_txt" class="headlink">Track My Order</a>&nbsp;&nbsp;<a href="/helpdesk/index.jsp?clickid=header_help_txt" class="headlink">Help</a>&nbsp;&nbsp;<a href="/cart/index.jsp?clickid=header_cart_txt" class="headlink">Cart</a> <span class="headlink2">(0 items)</span><img src="http://SPLN.imageg.net/images/pixel.gif" width="15" height="1"><br>
-		 <img src="http://SPLN.imageg.net/images/pixel.gif" width="1" height="13"><br><span style="font-face:verdana, geneva; font-weight:bold; font-size:11px; color:white;">BROWSE THE STORE:</span>&nbsp;
-		 <form style="margin:0px;display:inline;"><select name="url" onchange="jump(this.options[selectedIndex].value)" style="style:verdana,geneva;font-size:9px;color:#02024C;background:#ECECEC;width:135px;Height:17px;font-family:verdana;font-weight:normal;"><option>Browse the Store</option><option value="">- - - - - - - - - - - - -</option><option value="/home/index.jsp?clickid=header_homeDrop_txt">Home</option><option value="/giftCenter/index.jsp?categoryId=1171176&amp;clickid=header_giftCenterDrop_txt">Gift Center</option><option value="/helpdesk/index.jsp?clickid=header_helpdeskDrop_txt">Help Desk</option><option value="/outlet/index.jsp?categoryId=1169133&amp;clickid=header_outletDrop_txt">Outlet</option><option value="">- - - - - - - - - - - - -</option><option value="">- - - - - - - - - - - - -</option><option value="/category/index.jsp?categoryId=711608&amp;clickid=header_departmentsDrop_txt">Baseball / Softball</option><option value="/category/index.jsp?categoryId=711651&amp;clickid=header_departmentsDrop_txt">Basketball</option><option value="/category/index.jsp?categoryId=713364&amp;clickid=header_departmentsDrop_txt">Camping/Hiking</option><option value="/category/index.jsp?categoryId=713103&amp;clickid=header_departmentsDrop_txt">Cycling</option><option value="/category/index.jsp?categoryId=711652&amp;clickid=header_departmentsDrop_txt">Football</option><option value="/category/index.jsp?categoryId=714659&amp;clickid=header_departmentsDrop_txt">Golf</option><option value="/category/index.jsp?categoryId=714770&amp;clickid=header_departmentsDrop_txt">Tennis</option><option value="/category/index.jsp?categoryId=863840&amp;clickid=header_departmentsDrop_txt">Water Recreation</option><option value="/category/index.jsp?categoryId=1424642&amp;clickid=header_departmentsDrop_txt">See All Sports</option>
-	
-
-	</select></form><img src="http://SPLN.imageg.net/images/pixel.gif" width="15" height="1"></td>
-     </tr>
-	 <tr>
-         <td width="250"><img src="http://SPLN.imageg.net/images/logo_bottom_rebrand_081806.gif" border="0" usemap="#logoBottom"></td>	 
-	 </tr>
-</tbody></table>
-
-
-	 <table cellpadding="0" cellspacing="0" border="0" width="768">
-     <tbody><tr>
-         <td valign="top" width="151" height="21"><img src="http://SPLN.imageg.net/images/top_nav_rebrand.gif" width="151" height="21"></td>
-		 <td width="617" rowspan="3" valign="top">
-
-
-
-
-
-<table cellpadding="0" cellspacing="0" border="0">
-     <tbody><tr>
-	 	 <td width="4" valign="top"><img src="http://SPLN.imageg.net/images/top_rebrand.jpg"></td>
-         <td width="149" height="24" bgcolor="#D6D6D6" valign="top"><a href="/shop/index.jsp?categoryId=1398493"><img src="http://SPLN.imageg.net/images/NBA_shop_cat.jpg" border="0"></a><br>
-		 							<table cellpadding="0" cellspacing="0" border="0" bgcolor="#D6D6D6">
-									     <tbody><tr>
-									         <td rowspan="2" width="7" height="25" valign="bottom"><img src="http://SPLN.imageg.net/images/cornerleft_cat.jpg"></td>
-											 <td><form name="sform" action="" style="margin:0px;display:inline;"><select style="style:verdana,geneva;font-size:9px;color:#02024C;background:#ECECEC;width:135px;Height:17px;font-family:verdana;font-weight:normal;" onchange="jump(this.options[selectedIndex].value)"><option selected="">NBA teams</option><option value="/family/index.jsp?categoryId=2195463">2007 NBA All-Star Game</option><option value="/category/index.jsp?categoryId=1421532">Atlanta Hawks</option><option value="/category/index.jsp?categoryId=1421533">Boston Celtics</option><option value="/category/index.jsp?categoryId=1421534">Charlotte Bobcats</option><option value="/category/index.jsp?categoryId=1421535">Chicago Bulls</option><option value="/category/index.jsp?categoryId=1421536">Cleveland Cavaliers</option><option value="/category/index.jsp?categoryId=1421538">Dallas Mavericks</option><option value="/category/index.jsp?categoryId=1421539">Denver Nuggets</option><option value="/category/index.jsp?categoryId=1421540">Detroit Pistons</option><option value="/category/index.jsp?categoryId=1421541">Golden State Warriors</option><option value="/category/index.jsp?categoryId=1421542">Houston Rockets</option><option value="/category/index.jsp?categoryId=1421543">Indiana Pacers</option><option value="/category/index.jsp?categoryId=1421545">Los Angeles Clippers</option><option value="/category/index.jsp?categoryId=1421546">Los Angeles Lakers</option><option value="/category/index.jsp?categoryId=1421547">Memphis Grizzlies</option><option value="/category/index.jsp?categoryId=1421548">Miami Heat</option><option value="/category/index.jsp?categoryId=1421549">Milwaukee Bucks</option><option value="/category/index.jsp?categoryId=1421551">Minnesota Timberwolves</option><option value="/category/index.jsp?categoryId=1421552">New Jersey Nets</option><option value="/category/index.jsp?categoryId=1421553">New Orleans Hornets</option><option value="/category/index.jsp?categoryId=1421554">New York Knicks</option><option value="/category/index.jsp?categoryId=1421555">Orlando Magic</option><option value="/category/index.jsp?categoryId=1421557">Philadelphia 76ers</option><option value="/category/index.jsp?categoryId=1421558">Phoenix Suns</option><option value="/category/index.jsp?categoryId=1421563">Portland Trail Blazers</option><option value="/category/index.jsp?categoryId=1421564">Sacramento Kings</option><option value="/category/index.jsp?categoryId=1421565">San Antonio Spurs</option><option value="/category/index.jsp?categoryId=1421566">Seattle Sonics</option><option value="/category/index.jsp?categoryId=1421567">Toronto Raptors</option><option value="/category/index.jsp?categoryId=1421568">Utah Jazz</option><option value="/category/index.jsp?categoryId=1421569">Washington Wizards</option><option value="/category/index.jsp?categoryId=1398478">WNBA</option></select></form></td>
-									     </tr>
-										 <tr>
-										 	 <td height="4" valign="bottom"><img src="http://SPLN.imageg.net/images/bottom.jpg"></td>
-										 </tr>
-									</tbody></table></td>
-		 <td bgcolor="#FFFFFF" width="4" valign="top"><img src="http://SPLN.imageg.net/images/top2.jpg" width="4" height="8"></td>
-		 <td width="149" height="24" bgcolor="#D6D6D6" valign="top"><a href="/category/index.jsp?categoryId=716563"><img src="http://SPLN.imageg.net/images/NFL_shop_cat.jpg" border="0"></a><br>
-		 							<table cellpadding="0" cellspacing="0" border="0" bgcolor="#D6D6D6">
-									     <tbody><tr>
-									         <td rowspan="2" width="7" height="25" valign="bottom"><img src="http://SPLN.imageg.net/images/cornerleft_cat.jpg"></td>
-											 <td><form name="aform" action="" style="margin:0px;display:inline;"><select style="style:verdana,genevafont-size:9px;color:#02024C;background:#ECECEC;width:135px;Height:17px;font-family:verdana;font-weight:normal;" onchange="jump(this.options[selectedIndex].value)"><option selected="">NFL teams</option><option value="/category/index.jsp?categoryId=716599">Arizona Cardinals</option><option value="/category/index.jsp?categoryId=716634">Atlanta Falcons</option><option value="/category/index.jsp?categoryId=716684">Baltimore Ravens</option><option value="/category/index.jsp?categoryId=716579">Buffalo Bills</option><option value="/category/index.jsp?categoryId=716664">Carolina Panthers</option><option value="/category/index.jsp?categoryId=716569">Chicago Bears </option><option value="/category/index.jsp?categoryId=716574">Cincinnati Bengals</option><option value="/category/index.jsp?categoryId=716589">Cleveland Browns</option><option value="/category/index.jsp?categoryId=716619">Dallas Cowboys</option><option value="/category/index.jsp?categoryId=716584">Denver Broncos</option><option value="/category/index.jsp?categoryId=716654">Detroit Lions</option><option value="/category/index.jsp?categoryId=716659">Green Bay Packers</option><option value="/category/index.jsp?categoryId=716709">Houston Texans</option><option value="/category/index.jsp?categoryId=716614">Indianapolis Colts</option><option value="/category/index.jsp?categoryId=716644">Jacksonville Jaguars</option><option value="/category/index.jsp?categoryId=716609">Kansas City Chiefs</option><option value="/category/index.jsp?categoryId=716624">Miami Dolphins</option><option value="/category/index.jsp?categoryId=716719">Minnesota Vikings</option><option value="/category/index.jsp?categoryId=716669">New England Patriots</option><option value="/category/index.jsp?categoryId=716694">New Orleans Saints</option><option value="/category/index.jsp?categoryId=716639">New York Giants</option><option value="/category/index.jsp?categoryId=716649">New York Jets</option><option value="/category/index.jsp?categoryId=716674">Oakland Raiders</option><option value="/category/index.jsp?categoryId=716629">Philadelphia Eagles</option><option value="/category/index.jsp?categoryId=716704">Pittsburgh Steelers</option><option value="/category/index.jsp?categoryId=716604">San Diego Chargers</option><option value="/category/index.jsp?categoryId=716564">San Francisco 49ers</option><option value="/category/index.jsp?categoryId=716699">Seattle Seahawks</option><option value="/category/index.jsp?categoryId=716679">St. Louis Rams</option><option value="/category/index.jsp?categoryId=716594">Tampa Bay Buccaneers</option><option value="/category/index.jsp?categoryId=716714">Tennessee Titans</option><option value="/category/index.jsp?categoryId=716689">Washington Redskins</option><option value="/category/index.jsp?categoryId=717274">Tailgater Essentials</option><option value="/category/index.jsp?categoryId=1387430">NFL Bobble Head Dolls</option><option value="/family/index.jsp?categoryId=717837">NFL Videos/DVDs</option><option value="/category/index.jsp?categoryId=717838">NFL Memorabilia</option><option value="/category/index.jsp?categoryId=767416">NFL Trading Cards</option><option value="/category/index.jsp?categoryId=2123654">Super Bowl XL</option><option value="/family/index.jsp?categoryId=2473736">Super Bowl XLI</option><option value="/category/index.jsp?categoryId=2672701">Hall of Fame</option><option value="/category/index.jsp?categoryId=2917195">Super Bowl XLII</option></select></form></td>
-									     </tr>
-										 <tr>
-										 	 <td height="4" valign="bottom"><img src="http://SPLN.imageg.net/images/bottom.jpg"></td>
-										 </tr>
-									</tbody></table></td>
-		 <td bgcolor="#FFFFFF" width="4" valign="top"><img src="http://SPLN.imageg.net/images/top2.jpg" width="4" height="8"></td>
-		 <td width="149" height="24" bgcolor="#D6D6D6" valign="top"><a href="/category/index.jsp?categoryId=715323"><img src="http://SPLN.imageg.net/images/MLB_shop_cat.jpg" border="0"></a><br>
-		 							<table cellpadding="0" cellspacing="0" border="0" bgcolor="#D6D6D6">
-									     <tbody><tr>
-									         <td rowspan="2" width="7" height="25" valign="bottom"><img src="http://SPLN.imageg.net/images/cornerleft_cat.jpg"></td>
-											 <td><form name="bform" action="" style="margin:0px;display:inline;"><select style="style:verdana,genevafont-size:9px;color:#02024C;background:#ECECEC;width:135px;Height:17px;font-family:verdana;font-weight:normal;" onchange="jump(this.options[selectedIndex].value)"><option selected="">MLB teams</option><option value="/category/index.jsp?categoryId=1452342">Arizona Diamondbacks</option><option value="/category/index.jsp?categoryId=1452343">Atlanta Braves</option><option value="/category/index.jsp?categoryId=1452344">Baltimore Orioles</option><option value="/category/index.jsp?categoryId=1452345">Boston Red Sox</option><option value="/category/index.jsp?categoryId=1452346">Chicago Cubs</option><option value="/category/index.jsp?categoryId=1452347">Chicago White Sox</option><option value="/category/index.jsp?categoryId=1452348">Cincinnati Reds</option><option value="/category/index.jsp?categoryId=1452349">Cleveland Indians</option><option value="/category/index.jsp?categoryId=1452350">Colorado Rockies</option><option value="/category/index.jsp?categoryId=1452351">Detroit Tigers</option><option value="/category/index.jsp?categoryId=1452352">Florida Marlins</option><option value="/category/index.jsp?categoryId=1452353">Houston Astros</option><option value="/category/index.jsp?categoryId=1452354">Kansas City Royals</option><option value="/category/index.jsp?categoryId=1452341">Los Angeles Angels of Anaheim</option><option value="/category/index.jsp?categoryId=1452355">Los Angeles Dodgers</option><option value="/category/index.jsp?categoryId=1452356">Milwaukee Brewers</option><option value="/category/index.jsp?categoryId=1452357">Minnesota Twins</option><option value="/category/index.jsp?categoryId=1452358">Montreal Expos</option><option value="/category/index.jsp?categoryId=1452359">New York Mets</option><option value="/category/index.jsp?categoryId=1452360">New York Yankees</option><option value="/category/index.jsp?categoryId=1452361">Oakland Athletics</option><option value="/category/index.jsp?categoryId=1452362">Philadelphia Phillies</option><option value="/category/index.jsp?categoryId=1452363">Pittsburgh Pirates</option><option value="/category/index.jsp?categoryId=1452364">San Diego Padres</option><option value="/category/index.jsp?categoryId=1452365">San Francisco Giants</option><option value="/category/index.jsp?categoryId=1452366">Seattle Mariners</option><option value="/category/index.jsp?categoryId=1452367">St. Louis Cardinals</option><option value="/category/index.jsp?categoryId=1452368">Tampa Bay Devil Rays</option><option value="/category/index.jsp?categoryId=1452369">Texas Rangers</option><option value="/category/index.jsp?categoryId=1452370">Toronto Blue Jays</option><option value="/category/index.jsp?categoryId=1895815">Washington Nationals</option><option value="/category/index.jsp?categoryId=2194484">World Baseball Classic</option><option value="/category/index.jsp?categoryId=717873">MLB Cooperstown Collection</option><option value="/family/index.jsp?categoryId=1387455">MLB Bobble Head Dolls</option><option value="/category/index.jsp?categoryId=1452627">MLB Trading Cards</option><option value="/category/index.jsp?categoryId=1452626">MLB Memorabilia</option><option value="/family/index.jsp?categoryId=717854">MLB Videos/DVDs</option></select></form></td>
-									     </tr>
-										 <tr>
-										 	 <td height="4" valign="bottom"><img src="http://SPLN.imageg.net/images/bottom.jpg"></td>
-										 </tr>
-									</tbody></table></td>
-		 <td bgcolor="#FFFFFF" width="4" valign="top"><img src="http://SPLN.imageg.net/images/top2.jpg" width="4" height="8"></td>
-		 <td width="149" height="24" bgcolor="#D6D6D6" valign="top"><a href="/category/index.jsp?categoryId=715787"><img src="http://SPLN.imageg.net/images/NCAA_shop_cat.jpg" border="0"></a><br>
-		 							<table cellpadding="0" cellspacing="0" border="0" bgcolor="#D6D6D6">
-									     <tbody><tr>
-									         <td rowspan="2" width="7" height="25" valign="bottom"><img src="http://SPLN.imageg.net/images/cornerleft_cat.jpg"></td>
-											 <td><form name="cform" action="" style="margin:0px;display:inline;"><select style="style:verdana,genevafont-size:9px;color:#02024C;background:#ECECEC;width:135px;Height:17px;font-family:verdana;font-weight:normal;" onchange="jump(this.options[selectedIndex].value)"><option selected="">NCAA teams</option><option value="/family/index.jsp?categoryId=2644993">March Madness 2007</option><option value="/category/index.jsp?categoryId=715788">Air Force Falcons</option><option value="/category/index.jsp?categoryId=715793">Alabama Crimson Tide</option><option value="/family/index.jsp?categoryId=715803">Appalachian State Mountaineers</option><option value="/category/index.jsp?categoryId=715808">Arizona Wildcats</option><option value="/category/index.jsp?categoryId=715813">Arizona State Sun Devils</option><option value="/category/index.jsp?categoryId=715818">Arkansas Razorbacks</option><option value="/family/index.jsp?categoryId=715823">Arkansas State Indians</option><option value="/family/index.jsp?categoryId=1887814">Army Black Knights</option><option value="/category/index.jsp?categoryId=715828">Auburn Tigers</option><option value="/family/index.jsp?categoryId=715833">Ball State Cardinals</option><option value="/family/index.jsp?categoryId=715838">Baylor Bears</option><option value="/family/index.jsp?categoryId=715843">Boise State Broncos</option><option value="/category/index.jsp?categoryId=715848">Boston College Eagles</option><option value="/family/index.jsp?categoryId=715858">Bowling Green Falcons</option><option value="/family/index.jsp?categoryId=715868">Brigham Young Cougars</option><option value="/family/index.jsp?categoryId=1302478">Butler Bulldogs</option><option value="/family/index.jsp?categoryId=1346356">Cal St. Fullerton Titans</option><option value="/category/index.jsp?categoryId=715878">California Golden Bears</option><option value="/family/index.jsp?categoryId=715883">Central Fla. Golden Knights</option><option value="/family/index.jsp?categoryId=715888">Central Michigan Chippewas</option><option value="/category/index.jsp?categoryId=715898">Cincinnati Bearcats</option><option value="/category/index.jsp?categoryId=715903">Clemson Tigers</option><option value="/category/index.jsp?categoryId=715908">Colorado Buffaloes</option><option value="/family/index.jsp?categoryId=715913">Colorado State Rams</option><option value="/category/index.jsp?categoryId=715918">Connecticut Huskies</option><option value="/family/index.jsp?categoryId=715928">Dayton Flyers</option><option value="/category/index.jsp?categoryId=715943">Duke Blue Devils</option><option value="/family/index.jsp?categoryId=715953">East Carolina Pirates</option><option value="/category/index.jsp?categoryId=715963">Florida Gators</option><option value="/category/index.jsp?categoryId=715978">Florida State Seminoles</option><option value="/family/index.jsp?categoryId=715988">Fresno State Bulldogs</option><option value="/category/index.jsp?categoryId=716003">Georgetown Hoyas</option><option value="/category/index.jsp?categoryId=716008">Georgia Bulldogs</option><option value="/category/index.jsp?categoryId=716018">Georgia Tech Yellow Jackets</option><option value="/family/index.jsp?categoryId=716023">Gonzaga Bulldogs</option><option value="/family/index.jsp?categoryId=716033">Hawaii Rainbows</option><option value="/family/index.jsp?categoryId=716043">Idaho Vandals</option><option value="/category/index.jsp?categoryId=716053">Illinois Fighting Illini</option><option value="/family/index.jsp?categoryId=716058">Illinois State Redbirds</option><option value="/category/index.jsp?categoryId=716063">Indiana Hoosiers</option><option value="/category/index.jsp?categoryId=716068">Iowa Hawkeyes</option><option value="/category/index.jsp?categoryId=716073">Iowa State Cyclones</option><option value="/category/index.jsp?categoryId=716083">Kansas Jayhawks</option><option value="/category/index.jsp?categoryId=716088">Kansas State Wildcats</option><option value="/category/index.jsp?categoryId=716093">Kentucky Wildcats</option><option value="/category/index.jsp?categoryId=716103">LSU Tigers</option><option value="/category/index.jsp?categoryId=716108">Louisville Cardinals</option><option value="/family/index.jsp?categoryId=716113">Maine Black Bears</option><option value="/family/index.jsp?categoryId=716118">Marquette Golden Eagles</option><option value="/family/index.jsp?categoryId=716123">Marshall Thundering Herd</option><option value="/category/index.jsp?categoryId=716128">Maryland Terrapins</option><option value="/family/index.jsp?categoryId=716133">Massachusetts Minutemen</option><option value="/family/index.jsp?categoryId=716138">Memphis Tigers</option><option value="/category/index.jsp?categoryId=716143">Miami Hurricanes</option><option value="/family/index.jsp?categoryId=716148">Miami, Oh Redhawks</option><option value="/category/index.jsp?categoryId=716153">Michigan Wolverines</option><option value="/category/index.jsp?categoryId=716158">Michigan State Spartans</option><option value="/category/index.jsp?categoryId=716163">Minnesota Golden Gophers</option><option value="/category/index.jsp?categoryId=716168">Mississippi Rebels</option><option value="/category/index.jsp?categoryId=716173">Mississippi State Bulldogs</option><option value="/category/index.jsp?categoryId=716178">Missouri Tigers</option><option value="/family/index.jsp?categoryId=716183">Montana Grizzlies</option><option value="/family/index.jsp?categoryId=1802389">Navy Midshipmen</option><option value="/category/index.jsp?categoryId=716188">Nebraska Cornhuskers</option><option value="/family/index.jsp?categoryId=716203">New Mexico Lobos</option><option value="/family/index.jsp?categoryId=716208">New Mexico State Aggies</option><option value="/category/index.jsp?categoryId=716218">North Carolina Tar Heels</option><option value="/category/index.jsp?categoryId=716223">North Carolina State Wolfpack</option><option value="/family/index.jsp?categoryId=1372412">North Dakota Souix</option><option value="/family/index.jsp?categoryId=716243">Northwestern Wildcats</option><option value="/category/index.jsp?categoryId=716248">Notre Dame Fighting Irish</option><option value="/family/index.jsp?categoryId=716253">Ohio Bobcats</option><option value="/category/index.jsp?categoryId=716258">Ohio State Buckeyes</option><option value="/category/index.jsp?categoryId=716263">Oklahoma Sooners</option><option value="/category/index.jsp?categoryId=716268">Oklahoma State Cowboys</option><option value="/category/index.jsp?categoryId=716278">Oregon Ducks</option><option value="/category/index.jsp?categoryId=716283">Oregon State Beavers</option><option value="/category/index.jsp?categoryId=716293">Penn State Nittany Lions</option><option value="/category/index.jsp?categoryId=716298">Pittsburgh Panthers</option><option value="/category/index.jsp?categoryId=716313">Purdue Boilermakers</option><option value="/family/index.jsp?categoryId=2636584">Richmond Spiders</option><option value="/family/index.jsp?categoryId=716333">Rutgers Scarlet Knights</option><option value="/family/index.jsp?categoryId=716338">San Diego State Aztecs</option><option value="/family/index.jsp?categoryId=716348">San Jose State Spartans</option><option value="/family/index.jsp?categoryId=716353">Seton Hall Pirates </option><option value="/category/index.jsp?categoryId=716358">South Carolina Gamecocks</option><option value="/family/index.jsp?categoryId=716363">South Florida Bulls</option><option value="/family/index.jsp?categoryId=716368">Southern Miss Golden Eagles</option><option value="/category/index.jsp?categoryId=716393">Stanford Cardinal</option><option value="/category/index.jsp?categoryId=716398">Syracuse Orange </option><option value="/family/index.jsp?categoryId=716403">Temple Owls</option><option value="/category/index.jsp?categoryId=716408">Tennessee Volunteers</option><option value="/category/index.jsp?categoryId=716413">Texas Longhorns</option><option value="/category/index.jsp?categoryId=716418">Texas A&amp;M Aggies</option><option value="/family/index.jsp?categoryId=716423">Texas Christian Horned Frogs</option><option value="/category/index.jsp?categoryId=716433">Texas Tech Red Raiders</option><option value="/family/index.jsp?categoryId=716438">Tulane Green Wave</option><option value="/category/index.jsp?categoryId=716448">UCLA Bruins</option><option value="/family/index.jsp?categoryId=716453">Unlv Runnin Rebels</option><option value="/category/index.jsp?categoryId=716458">USC Trojans</option><option value="/category/index.jsp?categoryId=716468">Utah Utes</option><option value="/family/index.jsp?categoryId=716483">Vanderbilt Commodores</option><option value="/category/index.jsp?categoryId=716488">Villanova Wildcats</option><option value="/category/index.jsp?categoryId=716493">Virginia Cavaliers</option><option value="/category/index.jsp?categoryId=716503">Virginia Tech Hokies</option><option value="/category/index.jsp?categoryId=716508">Wake Forest Demon Deacons</option><option value="/category/index.jsp?categoryId=716513">Washington Huskies</option><option value="/category/index.jsp?categoryId=716518">Washington State Cougars</option><option value="/category/index.jsp?categoryId=716523">West Virginia Mountaineers</option><option value="/family/index.jsp?categoryId=1372418">Western Michigan Broncos</option><option value="/family/index.jsp?categoryId=716528">Wichita State Shockers</option><option value="/category/index.jsp?categoryId=716538">Wisconsin Badgers</option><option value="/family/index.jsp?categoryId=716543">Wright State Raiders</option><option value="/family/index.jsp?categoryId=716548">Wyoming Cowboys</option><option value="/family/index.jsp?categoryId=716553">Xavier Musketeers</option><option value="/family/index.jsp?categoryId=2018894">College World Series</option><option value="/family/index.jsp?categoryId=1971574">March Madness 2005</option><option value="/family/index.jsp?categoryId=2208721">March Madness 2006</option></select></form></td>
-									     </tr>
-										 <tr>
-										 	 <td height="4" valign="bottom"><img src="http://SPLN.imageg.net/images/bottom.jpg"></td>
-										 </tr>
-									</tbody></table></td>
-		 <td bgcolor="#FFFFFF" width="5" valign="top"><img src="http://SPLN.imageg.net/images/top2.jpg" width="5" height="8"></td>
-     </tr>
-</tbody></table>
-</td>
-     </tr>
-	<tr>
-	 	<td bgcolor="#D6D6D6" height="30" valign="center"><form name="search" action="/search/controller.jsp" method="get" style="margin:0px;display:inline;">&nbsp;&nbsp;<input name="kw" class="pagetext" size="8">&nbsp;&nbsp;<input type="image" src="http://SPLN.imageg.net/images/search.jpg" border="0" align="absmiddle" cache=""></form></td>
-	 </tr>
-	 <tr>
-	 	<td height="2" bgcolor="#A6A6A6"><img src="http://SPLN.imageg.net/images/sline.gif" width="151" height="2"></td>
-	 </tr>
-</tbody></table>
-
-<map name="logoTop">
-<area shape="RECT" coords="11,3,250,42" href="http://cbs.sportsline.com" alt="CBSSports.com">
-</map>
-<map name="logoBottom">
-<area shape="RECT" coords="12,0,116,23" href="../home/index.jsp?clickid=header_home_img" alt="CBSSportsStore.com">
-</map>
-
+	<div id="fullContent">
 		<br><br><table width="768" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
 			<td colspan="2" height="23" width="100%" bgcolor="#FFFFFF" class="breadcrumb">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/home/index.jsp" class="breadcrumb">Home</a> | <a href="/helpdesk/index.jsp" class="breadcrumb">Help Desk</a></td>
@@ -192,7 +82,7 @@ function jump(url)
 		</tr>
 		<tr bgcolor="#ffffff">	
 			<td valign="top" bgcolor="#ffffff">
-				<table width="95%" cellpadding="4" cellspacing="0" border="0" align="center">
+				<table width="95%" cellpadding="4" cellspacing="0" border="0" style="margin-left:5px;">
 				<tbody><tr>
 					<td>  
 
@@ -234,6 +124,21 @@ function jump(url)
 								
 										
 								<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="hd_pagelink">Terms &amp; Conditions</a>
+								 
+					</td>
+				</tr>
+							
+				<tr>
+					<td><img src="../images/pixel.gif" width="5"></td>
+				</tr>
+				
+						
+				<tr>
+					<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td>
+					<td valign="top">
+								
+										
+								<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=warranty" class="hd_pagelink">Service Plan</a>
 								 
 					</td>
 				</tr>
@@ -408,28 +313,1692 @@ If you choose to modify your personal information, you may do so by clicking on 
 	
 	
 	</tr></tbody></table>
-  <style>
-.footer {font-size: 10px;color: #020147;text-decoration: underline;}
-.footer2 {font-size: 9px;color: #000000;text-decoration: none;}
-</style>
-<div style="padding-top:10px;"></div>
-<table cellpadding="0" cellspacing="0" border="0" width="768" height="36">
-<tbody><tr>
- <td width="150" height="42" bgcolor="#d2d2d2"><img src="http://SPLN.imageg.net/images/pixel.gif" width="150" height="1"></td>
-<td width="618" bgcolor="#d2d2d2" colspan="2">
- <a class="footer" href="/groupsales/index.jsp?clickid=footer_groupSales_txt">Group Sales</a>&nbsp;&nbsp;<a class="footer" href="/affiliate/index.jsp?clickid=footer_affiliate_txt">Affiliate Program</a>&nbsp;&nbsp;<a class="footer" href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footer_privacy_txt">Privacy Policy</a>&nbsp;&nbsp;<a class="footer" href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms&amp;clickid=footer_terms_txt">Terms &amp; Conditions</a>&nbsp;&nbsp;<a class="footer" href="/sitemap/index.jsp?clickid=footer_sitemap_txt">Site Map</a>
+	</div>
+	
+
+
+
+
+
+
+
+
+
+
+<!--You are running on secprd2_ws_33_6-->
+
+
+
+
+
+
+<link rel="stylesheet" href="http://SPLN.imageg.net/css/spln.css">
+<script type="text/javascript" src="http://SPLN.imageg.net/js/Df.js"></script>
+<script type="text/javascript" src="http://SPLN.imageg.net/js/Df.Dropnav.js"></script>
+<script type="text/javascript" src="http://SPLN.imageg.net/js/Df.Slider.js"></script>
+<script type="text/javascript" src="http://SPLN.imageg.net/js/Df.Reflection.js"></script>
+<script type="text/javascript" src="http://SPLN.imageg.net/js/Df.Tip.js"></script>
+<script type="text/javascript" src="http://SPLN.imageg.net/js/spln.js"></script>
+
+
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://SPLN.imageg.net/css/iehacks.css" />
+<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://SPLN.imageg.net/css/ie6hacks.css" />
+<![endif]-->
+
+	
+
+	<div id="navFrame">
+	<div id="nav">
+		<div id="utilityNav">
+			<ul>
+				<li id="cbsSportsLink" class="first"><a href="http://cbs.sportsline.com/">CBSSPORTS.COM</a></li>
+				<li id="helpLink"><a href="/helpdesk/index.jsp?clickid=header_help_txt">HELP 1.866.690.2381</a></li>
+				<li id="fantasyGearLink"><a href="/shop/index.jsp?categoryId=2184056&amp;sr=1&amp;origkw=2184056">Fantasy Gear</a></li>
+				<li id="cbsSportsGearLink"><a href="/family/index.jsp?categoryId=2611829&amp;clickid=header_cbs_sports_txt">CBS Sports Gear</a></li>
+				<li id="giftsLink"><a href="/giftCenter/index.jsp?clickid=header_gift_txt&amp;categoryId=1867109">Gift Center</a></li>
+				<li id="outletLink"><a href="/outlet/index.jsp?clickid=header_gift_txt&amp;categoryId=1169133">Outlet</a></li>
+				<li id="searchBox">
+<form id="searchForm" name="search" action="/search/controller.jsp" method="get">
+				<input name="kw" id="kw" type="text" class="headerSearch"><a href="javascript:spln.main.submitSearch();">Search</a></form></li>
+			</ul>
+		</div>
+		<div id="accountLinks">
+			<ul>
+				<li class="first" id="emailLink"><a href="">Sign Up For Emails</a></li>
+				<li id="myAccountLink"><a href="https://www.cbssportsstore.com/coreg/index.jsp?step=register&amp;clickid=header_myAccount_txt">My Account</a></li>
+				<li id="cartLink"><a href="/cart/index.jsp?clickid=header_cart_txt">(0 items)</a></li>
+			</ul>
+		</div>
+		<div id="mainNavBG"></div>
+		<div id="mainNavWrapper">
+			<ul id="mainNav">
+
+
+				<li id="nflLink" class="first">
+									<a href="/category/index.jsp?categoryId=716563" class="mainLink">NFL</a>
+					<div class="drop">
+					<div class="dropHeadWrapper"><div class="dropHead"></div></div>
+					<div class="dropMainWrapper"><div class="dropMain">
+					<ul>
+
+
+	
+		
+		
+<li class="listItem1"><h4>AFC</h4>
+	<ul>
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716684">Baltimore Ravens</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716579">Buffalo Bills</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716574">Cincinnati Bengals</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716589">Cleveland Browns</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716584">Denver Broncos</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716709">Houston Texans</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716614">Indianapolis Colts</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716644">Jacksonville Jaguars</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716609">Kansas City Chiefs</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716624">Miami Dolphins</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716669">New England Patriots</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716649">New York Jets</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716674">Oakland Raiders</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716704">Pittsburgh Steelers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716604">San Diego Chargers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716714">Tennessee Titans</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+		
+		
+<li class="listItem2"><h4>NFC</h4>
+	<ul>
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716599">Arizona Cardinals</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716634">Atlanta Falcons</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716664">Carolina Panthers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716569">Chicago Bears </a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716619">Dallas Cowboys</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716654">Detroit Lions</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716659">Green Bay Packers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716719">Minnesota Vikings</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716694">New Orleans Saints</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716639">New York Giants</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716629">Philadelphia Eagles</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716564">San Francisco 49ers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716699">Seattle Seahawks</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716679">St. Louis Rams</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716594">Tampa Bay Buccaneers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716563&amp;categoryId=716689">Washington Redskins</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+
+
+					</ul>
+					</div></div>
+					<div class="dropFootWrapper"><div class="dropFoot"><a href="/category/index.jsp?categoryId=716563">See all NFL</a></div></div>
+					</div>
+				</li>
+
+				<li id="mlbLink">
+									<a href="/category/index.jsp?categoryId=715323" class="mainLink">MLB</a>
+					<div class="drop">
+					<div class="dropHeadWrapper"><div class="dropHead"></div></div>
+					<div class="dropMainWrapper"><div class="dropMain">
+					<ul>
+
+
+	
+		
+		
+<li class="listItem1"><h4>American League</h4>
+	<ul>
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452341">Anaheim Angels</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452344">Baltimore Orioles</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452345">Boston Red Sox</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452347">Chicago White Sox</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452349">Cleveland Indians</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452351">Detroit Tigers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452354">Kansas City Royals</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452357">Minnesota Twins</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452360">New York Yankees</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452361">Oakland Athletics</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452366">Seattle Mariners</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452368">Tampa Bay Rays</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452369">Texas Rangers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452370">Toronto Blue Jays</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+		
+		
+<li class="listItem2"><h4>National League</h4>
+	<ul>
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452342">Arizona Diamondbacks</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452343">Atlanta Braves</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452346">Chicago Cubs</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452348">Cincinnati Reds</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452350">Colorado Rockies</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452352">Florida Marlins</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452353">Houston Astros</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452355">Los Angeles Dodgers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452356">Milwaukee Brewers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452359">New York Mets</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452362">Philadelphia Phillies</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452363">Pittsburgh Pirates</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452364">San Diego Padres</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452365">San Francisco Giants</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1452367">St. Louis Cardinals</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715323&amp;categoryId=1895815">Washington Nationals</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+
+
+					</ul>
+					</div></div>
+					<div class="dropFootWrapper"><div class="dropFoot"><a href="/category/index.jsp?categoryId=715323">See all MLB</a></div></div>
+					</div>
+				</li>
+
+
+				<li id="nbaLink">
+									<a href="/category/index.jsp?categoryId=1398475" class="mainLink">NBA</a>
+					<div class="drop">
+					<div class="dropHeadWrapper"><div class="dropHead"></div></div>
+					<div class="dropMainWrapper"><div class="dropMain">
+					<ul>
+
+
+	
+		
+		
+<li class="listItem1"><h4>Eastern Conference</h4>
+	<ul>
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421532">Atlanta Hawks</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421533">Boston Celtics</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421534">Charlotte Bobcats</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421535">Chicago Bulls</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421536">Cleveland Cavaliers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421540">Detroit Pistons</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421543">Indiana Pacers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421548">Miami Heat</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421549">Milwaukee Bucks</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421552">New Jersey Nets</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421554">New York Knicks</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421555">Orlando Magic</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421557">Philadelphia 76ers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421567">Toronto Raptors</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421569">Washington Wizards</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+		
+		
+<li class="listItem2"><h4>Western Conference</h4>
+	<ul>
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421538">Dallas Mavericks</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421539">Denver Nuggets</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421541">Golden State Warriors</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421542">Houston Rockets</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421545">Los Angeles Clippers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421546">Los Angeles Lakers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421547">Memphis Grizzlies</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421551">Minnesota Timberwolves</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421553">New Orleans Hornets</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421558">Phoenix Suns</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421563">Portland Trail Blazers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421564">Sacramento Kings</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421565">San Antonio Spurs</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421566">Seattle Sonics</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=1398475&amp;categoryId=1421568">Utah Jazz</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+
+
+					</ul>
+					</div></div>
+					<div class="dropFootWrapper"><div class="dropFoot"><a href="/category/index.jsp?categoryId=1398475">See all NBA</a></div></div>
+					</div>
+				</li>
+
+
+				<li id="nhlLink">
+									<a href="/category/index.jsp?categoryId=716724" class="mainLink">NHL</a>
+					<div class="drop">
+					<div class="dropHeadWrapper"><div class="dropHead"></div></div>
+					<div class="dropMainWrapper"><div class="dropMain">
+					<ul>
+
+
+	
+		
+		
+<li class="listItem1"><h4>Eastern Conference</h4>
+	<ul>
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920288">Atlanta Thrashers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920289">Boston Bruins</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920290">Buffalo Sabres</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920292">Carolina Hurricanes</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920299">Florida Panthers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920303">Montreal Canadiens</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920305">New Jersey Devils</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920307">New York Islanders</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920308">New York Rangers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920309">Ottawa Senators</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920310">Philadelphia Flyers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920312">Pittsburgh Penguins</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920315">Tampa Bay Lightning</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920316">Toronto Maple Leafs</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920318">Washington Capitals</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+		
+		
+<li class="listItem2"><h4>Western Conference</h4>
+	<ul>
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920287">Anaheim Ducks</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920291">Calgary Flames</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920293">Chicago Blackhawks</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920294">Colorado Avalanche</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920295">Columbus Blue Jackets</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920296">Dallas Stars</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920297">Detroit Red Wings</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920298">Edmonton Oilers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920300">Los Angeles Kings</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920301">Minnesota Wild </a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920304">Nashville Predators</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920311">Phoenix Coyotes</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920313">San Jose Sharks</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920314">St. Louis Blues</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=716724&amp;categoryId=1920317">Vancouver Canucks</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+
+
+					</ul>
+					</div></div>
+					<div class="dropFootWrapper"><div class="dropFoot"><a href="/category/index.jsp?categoryId=716724">See all NHL</a></div></div>
+					</div>
+				</li>
+
+
+
+
+				<li id="ncaaLink">
+									<a href="/category/index.jsp?categoryId=715787" class="mainLink">NCAA</a>
+					<div class="drop">
+					<div class="dropHeadWrapper"><div class="dropHead"></div></div>
+					<div class="dropMainWrapper"><div class="dropMain">
+					<ul>
+
+
+	
+		
+		
+<li class="listItem1"><h4>Top Teams</h4>
+	<ul>
+	
+		
+	<li><a href="/family/index.jsp?cp=715787&amp;categoryId=3056505">Kansas Jayhawks Championship Gear</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=715793">Alabama Crimson Tide</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=715828">Auburn Tigers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=715903">Clemson Tigers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=715963">Florida Gators</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=715978">Florida State Seminoles</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716008">Georgia Bulldogs</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716053">Illinois Fighting Illini</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716068">Iowa Hawkeyes</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716093">Kentucky Wildcats</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716103">LSU Tigers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716108">Louisville Cardinals</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716128">Maryland Terrapins</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716143">Miami Hurricanes</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716153">Michigan Wolverines</a>
+	</li>
+	
+</ul><ul>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716188">Nebraska Cornhuskers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716223">North Carolina State Wolfpack</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716218">North Carolina Tar Heels</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716248">Notre Dame Fighting Irish</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716258">Ohio State Buckeyes</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716263">Oklahoma Sooners</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716293">Penn State Nittany Lions</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716358">South Carolina Gamecocks</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716408">Tennessee Volunteers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716418">Texas A&amp;M Aggies</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716413">Texas Longhorns</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716448">UCLA Bruins</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716458">USC Trojans</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716503">Virginia Tech Hokies</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715787&amp;categoryId=716523">West Virginia Mountaineers</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+
+
+					</ul>
+					</div></div>
+					<div class="dropFootWrapper"><div class="dropFoot"><a href="/category/index.jsp?categoryId=715787">See all NCAA</a></div></div>
+					</div>
+				</li>
+
+
+
+				<li id="nascarLink">
+									<a href="/category/index.jsp?categoryId=715535" class="mainLink">NASCAR</a>
+					<div class="drop">
+					<div class="dropHeadWrapper"><div class="dropHead"></div></div>
+					<div class="dropMainWrapper"><div class="dropMain">
+					<ul>
+
+
+	
+		
+		
+<li class="listItem1"><h4>Top Drivers</h4>
+	<ul>
+	
+		
+	<li><a href="/family/index.jsp?cp=715535&amp;categoryId=715541">Bobby Labonte</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=1875561">Carl Edwards</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=715535&amp;categoryId=1247794">Casey Mears</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=2009514">Clint Bowyer</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=715546">Dale Earnhardt</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=715551">Dale Earnhardt, Jr</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=715535&amp;categoryId=715591">Dale Jarrett</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=715535&amp;categoryId=1301158">Dave Blaney</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=2571634">David Gilliland</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=2169325">Denny Hamlin</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=1247815">Elliot Sadler</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=1247779">Greg Biffle</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=1247793">Jamie McMurray</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=833880">Jeff Burton</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=715561">Jeff Gordon</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=1209883">Jimmie Johnson</a>
+	</li>
+	
+</ul><ul>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=2559375">Juan Pablo Montoya</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=1688833">Kasey Kahne</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=726272">Kevin Harvick</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=1219689">Kurt Busch</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=1344420">Kyle Busch</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=715535&amp;categoryId=715606">Mark Martin</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=1688835">Martin Truex, Jr.</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=832685">Matt Kenseth</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=791140">Michael Waltrip</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=715535&amp;categoryId=715611">Rickey Rudd</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=1247810">Robby Gordon</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=1225405">Ryan Newman</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=715535&amp;categoryId=715621">Tony Stewart</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+
+
+					</ul>
+					</div></div>
+					<div class="dropFootWrapper"><div class="dropFoot"><a href="/category/index.jsp?categoryId=715535">See all NASCAR</a></div></div>
+					</div>
+				</li>
+
+
+
+				<li id="moreLeaguesLink" class="last">
+									<a href="/category/index.jsp?categoryId=2949021" class="mainLink">Other Leagues</a>
+					<div class="drop">
+					<div class="dropHeadWrapper"><div class="dropHead"></div></div>
+					<div class="dropMainWrapper"><div class="dropMain">
+					<ul>
+
+
+	
+		
+		
+<li class="listItem1"><h4>MLS</h4>
+	<ul>
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=715495">Chicago Fire </a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=715490">D.C. United</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=2645130">Houston Dynamo</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=715505">Los Angeles Galaxy</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=2949021&amp;categoryId=1377236">See All</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+		
+		
+<li class="listItem2"><h4>WNBA</h4>
+	<ul>
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=716926">Detroit Shock</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=716936">Los Angeles Sparks</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=716891">New York Liberty</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=716901">Phoenix Mercury</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=2949021&amp;categoryId=716875">See All</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+		
+		
+<li class="listItem3"><h4>World Soccer</h4>
+	<ul>
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=761540">Argentina</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=761525">Bayern Munich</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=717251">Manchester United</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=761510">Real Madrid</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=2949021&amp;categoryId=715474">See All</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+		
+		
+<li class="listItem4"><h4>Minor League Baseball</h4>
+	<ul>
+	
+		
+	<li><a href="/category/index.jsp?cp=2949021&amp;categoryId=1998160">Brooklyn Cyclones</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=2949021&amp;categoryId=2174051">Buffalo Bisons</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=2949021&amp;categoryId=2166080">Las Vegas 51s</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=2949021&amp;categoryId=2166084">Scranton/W-B Yankees</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=2949021&amp;categoryId=2014376">See All</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+		
+		
+<li class="listItem5"><h4>Olympics</h4>
+	<ul>
+	
+		
+	<li><a href="/category/index.jsp?cp=2949021&amp;categoryId=1304472">Beijing Olympics</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=2949021&amp;categoryId=3105583">Torino Olympics</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+		
+		
+<li class="listItem6"><h4>WWE</h4>
+	<ul>
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=1889062">WWE Photos</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=1779628">WWE Trading Cards</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+	
+		
+		
+<li class="listItem7"><h4>Tailgating Essentials</h4>
+	<ul>
+	
+		
+	<li><a href="/category/index.jsp?cp=2949021&amp;categoryId=714752">Canopies / Screen Rooms</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=2949021&amp;categoryId=713382">Coolers /  Warmers</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=2949021&amp;categoryId=1870035">Grills</a>
+	</li>
+	
+	
+		
+	<li><a href="/family/index.jsp?cp=2949021&amp;categoryId=712685">Furniture - Stadium/Ground Seats</a>
+	</li>
+	
+	
+		
+	<li><a href="/category/index.jsp?cp=2949021&amp;categoryId=717274">See All</a>
+	</li>
+	
+	
+	</ul>
+</li>
+	
+
+
+					</ul>
+					</div></div>
+					<div class="dropFootWrapper"><div class="dropFoot"><a href="/category/index.jsp?categoryId=2949021">See all Other Leagues</a></div></div>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div id="sgNavWrapper">
+
+			<ul id="sgNav">
+
+
+				<li id="teamSportsLink">
+									<a href="/category/index.jsp?categoryId=2962834" class="mainLink">See All Team Sports</a>
+					<div class="drop">
+					<div class="dropHeadWrapper"><div class="dropHead"></div></div>
+					<div class="dropMainWrapper"><div class="dropMain">
+						<ul>
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962834&amp;categoryId=711608">Baseball </a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962834&amp;categoryId=711651">Basketball</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962834&amp;categoryId=711652">Football</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962834&amp;categoryId=711662">Hockey</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962834&amp;categoryId=711658">Lacrosse</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962834&amp;categoryId=711653">Soccer</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962834&amp;categoryId=711654">Softball</a>
+						</li>
+							
+						
+						
+						
+						
+						</ul>
+					</div></div>
+					<div class="dropFootWrapper"><div class="dropFoot"><a href="/category/index.jsp?categoryId=2962834">See All Team Sports</a></div></div>
+					</div>
+				</li>
+
+
+				<li id="golfAndRaquetLink">
+									<a href="/category/index.jsp?categoryId=2949023" class="mainLink">See All Golf &amp; Racquet</a>
+					<div class="drop">
+					<div class="dropHeadWrapper"><div class="dropHead"></div></div>
+					<div class="dropMainWrapper"><div class="dropMain">
+						<ul>
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2949023&amp;categoryId=714659">Golf</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2949023&amp;categoryId=714770">Tennis</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2949023&amp;categoryId=714773">Badminton</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/family/index.jsp?cp=2949023&amp;categoryId=714774">Paddleball</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2949023&amp;categoryId=1247310">Racquetball</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2949023&amp;categoryId=714772">Squash</a>
+						</li>
+							
+						
+						
+						</ul>
+					</div></div>
+					<div class="dropFootWrapper"><div class="dropFoot"><a href="/category/index.jsp?categoryId=2949023">See All Golf &amp; Racquet</a></div></div>
+					</div>
+				</li>
+
+				<li id="fitnessAndRecreationLink">
+									<a href="/category/index.jsp?categoryId=2962846" class="mainLink">See All Fitness &amp; Recreation</a>
+					<div class="drop">
+					<div class="dropHeadWrapper"><div class="dropHead"></div></div>
+					<div class="dropMainWrapper"><div class="dropMain">
+						<ul>
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962846&amp;categoryId=2962851">Action Sports</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962846&amp;categoryId=713103">Cycling</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962846&amp;categoryId=991053">Electronics</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962846&amp;categoryId=2962852">Exercise Equipment</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962846&amp;categoryId=2962853">Indoor Games</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962846&amp;categoryId=2962856">Outdoors</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962846&amp;categoryId=702279">Running</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962846&amp;categoryId=2962855">Winter Recreation</a>
+						</li>
+							
+						
+						
+						
+						
+						</ul>
+					</div></div>
+					<div class="dropFootWrapper"><div class="dropFoot"><a href="/category/index.jsp?categoryId=2962846">See All Fitness &amp; Recreation</a></div></div>
+					</div>
+				</li>
+
+
+				<li id="apparelAndFootwareLink">
+									<a href="/category/index.jsp?categoryId=2962847" class="mainLink">See All Apparel &amp; Footwear</a>
+					<div class="drop">
+					<div class="dropHeadWrapper"><div class="dropHead"></div></div>
+					<div class="dropMainWrapper"><div class="dropMain">
+						<ul>
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962847&amp;categoryId=2962860">Footwear</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962847&amp;categoryId=2962861">Apparel</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962847&amp;categoryId=1333609">Backpacks</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962847&amp;categoryId=710551">Sunglasses</a>
+						</li>
+							
+						
+						
+						
+							
+						<li><a href="/category/index.jsp?cp=2962847&amp;categoryId=710605">Watches</a>
+						</li>
+							
+						
+						
+						
+						
+						</ul>
+					</div></div>
+					<div class="dropFootWrapper"><div class="dropFoot"><a href="/category/index.jsp?categoryId=2962847">See All Apparel &amp; Footwear</a></div></div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div> </div>
+	<div id="footer">
+	<div id="footerTop">
+	
+	<span style="display:none;"><a href="http://oas.imageg.net/O/a/s/CBSSportsStore.com/helpdesk/index.jsp/1530046279/Bottom2/default/empty.gif/61633135303730393438353035343330" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/default/empty.gif" width="2" height="2" alt="" border="0"></a></span>
+	</div>
+	<div id="footerBottom">
+		<ul>
+			<li id="groupSalesLink"><a href="/groupsales/index.jsp?clickid=footer_groupSales_txt">Group Sales</a></li>
+			<li id="affiliateLink"><a href="/affiliate/index.jsp?clickid=footer_affiliate_txt">Affiliate Program</a></li>
+			<li id="trackOrderLink"><a href="https://www.cbssportsstore.com/coreg/index.jsp?step=ot&amp;clickid=footer_track_txt">Track My Order</a></li>
+			<li id="privacyPolicyLink"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footer_privacy_txt">Privacy Policy</a></li>
+			<li id="termsLink"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms&amp;clickid=footer_terms_txt">Terms &amp; Conditions</a></li>
+			<li id="siteMapLink"><a href="/sitemap/index.jsp?clickid=footer_sitemap_txt">Site Map</a></li>
  
-     &nbsp;&nbsp;<a class="footer" href="/pwr/product-reviews/c/index.html">Product Reviews</a>
+			<li id="productReviewsLink"><a href="/pwr/product-reviews/c/index.html">Product Reviews</a></li>
   
- &nbsp;&nbsp;<a class="footer" href="/helpdesk/index.jsp?clickid=footer_help_txt">Help</a>
-</td>
-  </tr>
-<tr>
-    <td width="150" height="42"><img src="http://SPLN.imageg.net/images/pixel.gif" width="150" height="1"></td>
-      <td align="center" class="footer2" width="100%">Copyright©1993 - 2006 CBS Sports, Inc. All rights reserved.<br> CBS "eye device" is a registered trademark of CBS Broadcasting, Inc.</td>
-      <td width="150" height="42"><img src="http://SPLN.imageg.net/images/pixel.gif" width="150" height="1"></td>
-</tr>
- </tbody></table>
+			<li id="helpLink"><a href="/helpdesk/index.jsp?clickid=footer_help_txt">Help</a></li>
+		</ul>
+	</div>
+</div>
 
 
 
@@ -437,19 +2006,24 @@ If you choose to modify your personal information, you may do so by clicking on 
 
 
 
-<!--You are running on secprd_ws_03_6-->
+
+
+
+
+
+
+<!--You are running on secprd2_ws_33_6-->
+
+
+
+
+
 
 
 
 
 
 	
-	<!-- No Tracking Pixel defined via allTrackingPixelFile -->
-	
-	
-
-
-	
 	
 
 
@@ -457,34 +2031,32 @@ If you choose to modify your personal information, you may do so by clicking on 
 
 
 
-<!--You are running on secprd_ws_03_6-->
+
+
+
+<!--You are running on secprd2_ws_33_6-->
 
 
 
 
 <!-- // End of code of PMO 52759 -->
 
+         
+         
 
 <script language="JavaScript">
-
-/* Non-commerce Variables */
-
 var s_account='cbsmvpcom';
-
-var s_server = 'www.cbssportsstore.com';
-var s_pageName = 'Customer Assistance - Customer Assitance Landing Page';
-var s_eVar20 = '';
-var s_hier1 = '';
-var s_events = '';
-var s_channel = 'Home';
-var s_eVar19 = '29858716933';
+var s_server='www.cbssportsstore.com';
+var s_pageName='Customer Assistance - Customer Assitance Landing Page';
+var s_hier1='';
+var s_channel='Home';
+var s_eVar19='48053727053';
 </script>
-
 <script language="JavaScript" src="http://SPLN.imageg.net/include/omniture.js"></script>
 <!-- End SiteCatalyst code version: G.9. -->
 
 
-
+       
 	
 
 
@@ -493,6 +2065,20 @@ var s_eVar19 = '29858716933';
 
 
 
+
+
+
+<!-- Start of SearchMarketing.com Natural Pixel Tag: Please do not remove-->
+<script language="JavaScript"><!--
+{
+	document.write("<img src=http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=147&x=" +escape(document.referrer) +  " width=1 height=1>");
+}
+//-->
+</script><img src="http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=147&amp;x=" width="1" height="1">
+<!-- End SearchMarketing.com Natural Pixel Tag -->
+
+</div>
+</div>
 
 
 </body></html>
