@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bt.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212104427id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteArea%3Dpan) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bt.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611061434id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteArea%3Dpan) for the most accurate reproduction.*
 
 # BT.com | Privacy Policy
 
@@ -23,7 +23,7 @@ When do we use cookies?
 How do you disable cookies?   
 Are third party sites covered by this policy?   
    
-[ ](https://web.archive.org/btPortal/?pageid=framework_search&search_portlet_id=Advancesearch_page&searchType=1&siteArea=btb.mya&pageid=pan_privacy_policy&siteArea=pan "back")  
+[ ](http://www.bt.com/index.jsp "back")  
    
 BT Websites Privacy and Security Policy   
    
@@ -216,9 +216,10 @@ Return to top
 #### When do we use cookies?  
   
    
-A "cookie" is a text file which is allocated by our server to your personal computer (PC) when you visit our website. If you want to know more about cookies please go to which explains how cookies work and how you can manage their use. We use "cookies" to collect information from visitors to our websites and registered customers.  
+A "cookie" is a text file which is allocated by our server to your personal computer (PC) when you visit our website. If you want to know more about cookies please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/) which explains how cookies work and how you can manage their use. We use "cookies" to collect information from visitors to our websites and registered customers.  
 Our servers use two different types of cookies. The first type is known as a "session-based" cookie and is allocated to your PC only for the duration of your visit to our website. It helps you to move around the website faster. This cookie automatically expires when you close down your browser.  
 The second type of cookie known as a "persistent" cookie is allocated to your PC only if you agree by selecting the "Remember me" function. This cookie, if chosen, will remain on your PC for a period of time.  
+This cookie allows us to:  
 This cookie allows us to:   
    
   
