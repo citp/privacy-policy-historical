@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reflexstock.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213083255id_/http%3A//www.reflexstock.com/index.cfm%3Fid%3D258) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflexstock.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611061215id_/http%3A//www.reflexstock.com/index.cfm%3Fid%3D258) for the most accurate reproduction.*
 
-# Reflex Stock Royalty Free , Rights Managed stock Photography , Photos and Images
+# Stock Photography: Premium Royalty Free Photos And Rights Managed Images, Illustrations And Vector Art | Reflexstock.com
 
 **Privacy Policy Statement:**
 
