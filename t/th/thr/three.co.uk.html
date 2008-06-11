@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the three.co.uk privacy policy that was archived on 2007-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071031124839id_/http%3A//three.co.uk/personal/help_support_/privacy_policy.omp%3Fcid%3D1124179743355) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the three.co.uk privacy policy that was archived on 2008-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080611233705id_/http%3A//www.three.co.uk/personal/help_support_/privacy_policy.omp%3Fcid%3D1124179743355) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 
@@ -17,42 +17,59 @@
 		<title>3 - Privacy Policy</title>	
 	
 
+<link rel="apple-touch-icon" href="/threefiles/images/apple_icon.png">
 <script language="JavaScript1.2" type="text/javascript">
-
 function loadPage(URL) {
     if (URL != "" ) {
         if (URL == "divide" ) {reset();} else { document.location.href = URL;}
     }
     return false;
 }
-
 function doSubmit(hrefArg){
     document.location.href = hrefArg;
 }
-
-
-
-
 function init() {
 	if(document.getElementById("searchButton"))
+		{
 		
 			
 			
 				document.getElementById("searchButton").innerHTML = "<a id=\"buttonSearch\" href=\"javascript:document.leftBarSearch.submit();\">Search<\/a>";
 			
 		
+		}
+		var li_item;
+		var b_os = navigator.platform;
+		var b_ua =navigator.userAgent;
+			if (b_ua.indexOf("Safari")>0 || b_os.indexOf("MacPPC")>0){ 
+			var thenav = document.getElementById("row1_lead");
+			var footerLinks = document.getElementById("footerNavigation");
+		    li_item = document.getElementById("refme");
+			thenav.style.width="11px";
+			footerLinks.style.fontSize="10px";
+			li_item.style.padding="0 0 0 4px";
+			}
+		if ( b_os.indexOf("Mac")>-1 && b_ua.indexOf("Safari")<0){ 
+			li_item = document.getElementById("refme");
+			li_item.style.padding="0 0 0 48px";
+			}
+		if (document.getElementById("clickRAF")){
+			document.getElementById("clickRAF").onclick= function(){
+			urchinTracker('/clicks/features/home/feature3-recommendafriend');
+			window.location = "http://three.co.uk/friends"; 
+			}
+		}
 }
-
-
 </script>
 <!-- General -->
 <script src="/threefiles/js/fixedline.js" type="text/javascript"></script>
 <!-- Rollovers -->
 <script src="/threefiles/js/3utils.js" type="text/javascript"></script>
 
-
 	
 
+
+	
 
 
 	
@@ -69,31 +86,24 @@ function init() {
 <script type="text/javascript" src="/threefiles/js/portal/AC_OETags.js"></script>
 <script type="text/javascript" src="/threefiles/js/ufo.js"></script>
 
-
 			
 <script src="/threefiles/js/3preload_custTemplate.js" type="text/javascript"></script>
 			
 
 <script src="/threefiles/js/3preload_portalGeneral.js" type="text/javascript"></script>
 
-
 <script src="/threefiles/js/3preload_custArea.js" type="text/javascript"></script>
-
 
 
 	
 	    	
 <link media="screen" href="/threefiles/css/threecust06.css" type="text/css" rel="stylesheet">
-<!-- <link media="print" href="/threefiles/css/threecust06.css" type="text/css" rel="stylesheet"> -->
 	    	
 		 
 	
 
-
 <link rel="stylesheet" type="text/css" href="/threefiles/css/portalStyles_1024.css" media="screen">
-
 <link rel="stylesheet" type="text/css" href="/threefiles/css/portalStylesFeatures.css" media="screen">
-
 
 	
 <link href="/threefiles/css/termsandconditionsstyles.css" type="text/css" rel="stylesheet" media="screen">
@@ -105,6 +115,16 @@ function init() {
 
 	
 <link href="/threefiles/css/detailPageNew_1024.css" type="text/css" rel="stylesheet" media="screen">
+	
+
+
+	
+
+
+	
+
+
+
 	
 
 
@@ -130,7 +150,10 @@ function init() {
 <link rel="SHORTCUT ICON" href="/threefiles/images/favicon.ico">
 </head>
 <body onload="init();">
+
+
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
 <script type="text/javascript">_uacct = "UA-1012119-1";</script>
 <a href="#thecontent" class="altcontenthide">skip navigation</a>
 <a name="m_navig" id="m_navig"></a>
@@ -148,9 +171,7 @@ function init() {
 			
 		</div>
 		
-				
-
-<div id="navigation">
+	<div id="navigation">
 		<div id="navig_row1">
 			<ul>
 				
@@ -183,11 +204,20 @@ function init() {
 										
 										
 											
-																
-														
-													<li id="row1_lead" style="width: 11px;"></li>
-														<li><a href="/personal/index.omp" title="3 : Home page" id="home_link">Home</a></li>										
 												
+                                                
+                                                
+                                                    
+                                                        				
+                                                
+                                                
+                                                				
+                                                        		
+                                                            <li id="row1_lead" style="width: 11px;"></li>
+                                                                <li><a href="/personal/index.omp" title="3 : Home page" id="home_link">Home</a></li>										
+                                                        
+                                                   
+														
 											
 													
 									
@@ -229,7 +259,7 @@ function init() {
 					
 					
 						
-							<li><a href="http://threestore.three.co.uk/default.aspx?ID=1201" onclick="javascript:urchinTracker('/outgoing/topnav/customer/threestore_co_uk');" title="3Store: Our latest offers on mobiles and great value priceplans">Store</a></li>
+							<li><a href="http://threestore.three.co.uk/default.aspx?ID=1201" onclick="javascript:urchinTracker('/outgoing/topnav/customer/threestore_co_uk');" title="3Store: Our latest offers on mobiles and great value priceplans">3Store ™</a></li>
 							
 						
 					
@@ -238,8 +268,11 @@ function init() {
 					
 					
 						
+                    
 					
+						
 					
+                    
 						
 					
 					
@@ -286,12 +319,13 @@ function init() {
 						
 						
 					
+                    
+						
+						
 					
 						
 							
-					
-						
-					
+		
 					
 						
 					
@@ -330,16 +364,21 @@ function init() {
 
 										
 											
-												
-	
-												
-													<li><a href="/personal/price_plans_/index.omp" title="3 Pay Monthly : Get the information on our latest selection of talk and text plans">Pay&nbsp;Monthly</a></li>										
-												
-																			
+												                                              
+                                                
+                                                
+                                                    
+                                                        
+
+                                                        
+                                                            <li><a href="/personal/price_plans_/index.omp" title="3 Pay Monthly : Get the information on our latest selection of talk and text plans">Pay&nbsp;Monthly</a></li>										
+	                                                       
+                                                    								
 											
+                                                
+																													
 										
-																	
-									
+																								
 								
 															
 						
@@ -378,10 +417,17 @@ function init() {
 											
 								
 													
+                                                
+                                               								
+                                                    
+                                        
+                                                        	
 
+                                                        
+                                                            <li><a href="/personal/price_plans_/pay_as_you_go_/index.omp" title="Pay As You Go : has changed - calls from 5p per minute">Pay As You Go</a></li>										
+                                                        
 												
-													<li><a href="/personal/price_plans_/pay_as_you_go_/index.omp" title="Pay As You Go : has changed - calls from 5p per minute">Pay As You Go</a></li>										
-												
+                                             	   																											
 												
 																																						
 										
@@ -397,7 +443,7 @@ function init() {
 
 	
 				<li class="topdivide"></li>
-				
+			<!--	
 
 
 
@@ -428,7 +474,8 @@ function init() {
 														
 
 														
-															<li><a target="_blank" href="/xseries/index.omp" onclick="window.open(this.href,'xseries','menubar=yes,location=no,toolbar=yes,resizable=yes,location=yes,scrollbars=yes,status=yes,width=980,height=650','yes','auto');return false;" title="3 X-Series : broadband for your mobile">3 X-Series</a></li>			
+															<li><a target="_blank" href="/xseries/index.omp"
+						onclick="window.open(this.href,'xseries','menubar=yes,location=no,toolbar=yes,resizable=yes,location=yes,scrollbars=yes,status=yes,width=980,height=650','yes','auto');return false;" title="3 X-Series : broadband for your mobile">3 X-Series</a></li>			
 														
 														
 												
@@ -446,9 +493,9 @@ function init() {
 	
 
 
-	
-				<li class="topdivide"></li>
-				
+	-->
+		
+        		
 
 
 
@@ -479,8 +526,62 @@ function init() {
 	
 
 																																								
-																<li><a href="/personal/products_services_/index.omp" title="Products &amp; services : Great content from 3">Products &amp; Services</a></li>										
+																<li><a href="/personal/products_services_/mobile_broadband_/index.omp" title="3 Mobile Broadband : Broadband now mobile">Mobile Broadband</a></li>										
 															
+																					
+														
+																			
+																
+																	
+										
+								
+								
+						
+					
+								
+			
+	
+
+
+        		<li class="topdivide"></li>
+           
+				
+
+
+
+
+
+
+	
+		
+					
+										
+					
+						
+							
+							
+								
+									
+									
+										
+											
+											
+											
+												
+													
+													
+													
+														
+																
+                                                           	
+                                                                
+                                                                    	
+                                                                    																									
+                                                                        <li><a href="/personal/products_services_/index.omp" title="Products &amp; services : Great content from 3">Products &amp; Services</a></li>										
+                                                                    
+                                                                    
+                                                               							
+                                                            	
 																					
 														
 																			
@@ -525,8 +626,14 @@ function init() {
 																
 
 															
-																<li><a href="/business/index.omp" title="3 : business services">3 for Business</a></li>				
-																
+                                                                
+                                                                    	
+
+                                                                    
+                                                                        <li><a href="/business/index.omp" title="3 : business services">3 for Business</a></li>				
+                                                	                	
+                                                               						
+															
 																			
 													
 																	
@@ -562,7 +669,7 @@ function init() {
 	
 
 	
-				<li class="topdivide end"></li>
+				<li class="topdivide end" id="refme" style="padding: 0px 0px 0px 4px;"></li>
 				<li class="top_final"></li>		
 		</ul>
 		</div>
@@ -585,15 +692,20 @@ function init() {
 			
 			
 				
-		
 			
 			
 				
 
 			
-			
+            
+            
 				
 			
+			
+            
+            
+				
+        
 			
 		
 		
@@ -626,7 +738,7 @@ function init() {
 					
 					
 
-					<li><a href="/personal/customer_/three_help_/ask_three.omp" onclick="openWin('/personal/customer_/three_help_/ask_three.omp','ask3','780','590','yes','yes'); return false;" title="FAQs">Got a question?</a></li>
+					<li><a href="/personal/help_support_/got_a_question.omp" title="FAQs">Got a question?</a></li>
 
 					
 				
@@ -642,7 +754,7 @@ function init() {
 					
 		
 					
-					<li><a href="/personal/help_support_/store_locator_/index.omp" onclick="javascript:urchinTracker('/clicks/secondarynav/store_locator');" title="store locator - discover where you can buy 3">Store locator</a></li>
+					<li><a href="/personal/help_support_/store_locator_/index.omp" onclick="urchinTracker('/clicks/secondarynav/store_locator');" title="store locator - discover where you can buy 3">Store locator</a></li>
 					
 				
 	
@@ -666,11 +778,29 @@ function init() {
 					
 					
 
-					<li class="last"><a href="/personal/help_support_/my_three.omp" title="manage your account online at My3">My3</a></li>
+					<li><a href="/personal/help_support_/my_three.omp" title="manage your account online at My3">My3</a></li>
 
 					
 				
+               
+              <!--  	
+					
+					
+
+					<li class="last"><a href="/personal/help_support_/my_three.omp"  title="manage your account online at My3">My3</a></li>
+
+					
 				
+                -->
+         	    
+					
+					
+
+					<li class="last"><a href="/personal/help_support_/mobile_recycling_/index.omp" title="mobile recycling">Mobile recycling</a></li>
+
+					
+				
+			
 						
 						
 					
@@ -709,9 +839,15 @@ function init() {
 												
 													
 														
-			
-														
-															<a href="https://my3.three.co.uk/mylogin//login?service=https%3A%2F%2Fmy3.three.co.uk%2Fmyaccount%2Findex.do" title="log in to My3: manage your account and check your mobile usage." id="my3loginLink">Log in to My3 <img src="/threefiles/images/portal/arrow_alt.gif" alt=">>" id="my3loginArrow"></a>																
+                                                        
+                                                        
+                                                            
+                                                                
+                                                        
+                                                                
+                                                                    <a href="https://my3.three.co.uk/mylogin//login?service=https%3A%2F%2Fmy3.three.co.uk%2Fmyaccount%2Findex.do" title="log in to My3: manage your account and check your mobile usage." id="my3loginLink">Log in to My3 <img src="/threefiles/images/portal/arrow_alt.gif" alt=">>" id="my3loginArrow"></a>																
+                                                                
+                                                        										
 														
 																						
 												
@@ -736,11 +872,8 @@ function init() {
 		</div>
 	</div>
 </div> <!-- #header -->
-
 </div>
-
 <div class="clear"></div>
-
 <div id="content">
 		<div class="padd">
 			<a name="thecontent" id="thecontent"></a>
@@ -782,7 +915,7 @@ function init() {
 	<ul id="terms_nav">
 		<li><a href="/personal/help_support_/terms_conditions.omp?cid=1121263960241" title="site terms and conditions of use"><img src="/threefiles/images/portal/customer/terms/nav_site.gif" alt="site terms"></a></li>
 		<li><a href="/personal/help_support_/terms_conditions.omp?cid=1164989896406" title="Terms and conditions for 3 services"><img src="/threefiles/images/portal/customer/terms/nav_3services.gif" alt="terms for 3 services"></a></li>
-		<li><a href="/personal/customer_/privacy_policy.omp?cid=1124179743355" title="Privacy policy for three.co.uk"><img src="/threefiles/images/portal/customer/terms/nav_privacy.gif" alt="Privacy policy"></a></li>
+		<li><a href="/personal/help_support_/privacy_policy.omp?cid=1124179743355" title="Privacy policy for three.co.uk"><img src="/threefiles/images/portal/customer/terms/nav_privacy.gif" alt="Privacy policy"></a></li>
 		<li><a href="/personal/help_support_/terms_conditions.omp?cid=1164989896409" title="terms and conditions for Promotional offers"><img src="/threefiles/images/portal/customer/terms/nav_propositions.gif" alt="propositions"></a></li>
 		<li><a href="/personal/help_support_/terms_conditions.omp?cid=1131124202008" title="Terms and conditions for Price plan Add-ons"><img src="/threefiles/images/portal/customer/terms/nav_addons.gif" alt="Add-ons"></a></li>
 		<li><a href="/personal/help_support_/terms_conditions.omp?cid=1164280670507" title="Competition terms and conditions"><img src="/threefiles/images/portal/customer/terms/nav_competition.gif" alt="competition"></a></li>
@@ -792,37 +925,41 @@ function init() {
 		  <select class="termsSelect" style="width:147px;" onchange="loadPage('/personal/help_support_/terms_conditions.omp?cid='+this.options[this.selectedIndex].value);return false;" name="cid">
 			<option>Select &gt; &gt;</option>
 				
-						<option value="1186416794774">24-7 Football</option>
-				
-						<option value="1166691311039">3 Like Home</option>
+						<option value="1190901758177">Mix &amp; Match</option>
 				
 						<option value="1131124202008">Add-ons</option>
 				
-						<option value="1131124207894">Dialtunes Promotion</option>
-				
-						<option value="1147184212984">First Cut</option>
-				
-						<option value="1146151223400">Kink Kommunity</option>
-				
-						<option value="1190901758177">Mix &amp; Match</option>
-				
-						<option value="1130245535522">Mobi TV</option>
-				
 						<option value="1187800248881">Mobile broadband</option>
+				
+						<option value="1166691311039">3 Like Home</option>
 				
 						<option value="1176726871065">Pay As You Go</option>
 				
-						<option value="1173883050018">PayForIT</option>
+						<option value="1181126383651">Recommend a mate</option>
 				
-						<option value="1193312792557">Sandisk Memory Card Promotion</option>
+						<option value="1205159837899">Existing Customer Offers</option>
 				
-						<option value="1128010467006">See Me TV</option>
+						<option value="1207660804534">Business Offers</option>
 				
-						<option value="1157979955637">Student Offer</option>
+						<option value="1179841780523">X-Series</option>
+				
+						<option value="1131124207894">Dialtunes Promotion</option>
+				
+						<option value="1130245535522">Mobi TV</option>
 				
 						<option value="1189176121861">Tesco promotion</option>
 				
-						<option value="1179841780523">X-Series</option>
+						<option value="1128010467006">See Me TV</option>
+				
+						<option value="1193312792557">SanDisk Memory Card Promotion</option>
+				
+						<option value="1173883050018">PayForIT</option>
+				
+						<option value="1186416794774">24-7 Football</option>
+				
+						<option value="1194022568165">3 Skypephone Prize Draw</option>
+				
+						<option value="1212135239765">Coldplay Competition</option>
 				
 		  </select>
 		  <noscript>
@@ -944,17 +1081,22 @@ if(typeof sIFR == "function"){
 
 			
 				
-				
+				  
 			
-			<div class="clear"></div>
+          	<div class="clear"></div>
 			<a href="#m_navig" class="altcontenthide">main navigation</a>
 			<a name="footerlinks" id="footerlinks"></a>
-	
 		</div>
-		
-		<div id="footerNavigation" style="font-size: 10px;">
+		 <div id="footerNavigation" style="font-size: 10px;">
 			<ul>
-				
+            	
+
+
+
+
+
+
+
 				
 					
 					
@@ -973,21 +1115,29 @@ if(typeof sIFR == "function"){
 													
 												
 													
-
-																																						
-														<li><a href="/indexcompany.omp">Company site</a></li>
-														<li><a target="_blank" href="http://www.three.com">Global sites</a></li>
-														<li><a href="/careers/index.omp">Careers</a></li>
-														
-														<li><a href="/personal/help_support_/terms_conditions.omp?cid=1121263960241">Terms &amp; Conditions</a></li>
-														<li><a href="/personal/help_support_/privacy_policy.omp?cid=1124179743355">Privacy policy</a></li>
-														<li><a href="/personal/sitemap.omp">Site map</a></li>
-														<li><a href="/personal/accessibility.omp">Accessibility</a></li>
-														<li><a href="/personal/help_support_/contact_us_/index.omp">Contact us</a></li>	
-														<li class="last"><a href="/personal/help_support_/network_coverage_/index.omp">Network Coverage</a></li>																		
-													
+                                                    
+                                                    
+                                                    		
+                                                        
+                                                            
+    
+                                                            																									
+                                                                <li><a href="/indexcompany.omp">Company site</a></li>
+                                                                <li><a target="_blank" href="http://www.three.com">Global sites</a></li>
+                                                                <li><a href="/careers/index.omp">Careers</a></li>
+                                                                <li><a href="/personal/help_support_/terms_conditions.omp?cid=1121263960241">Terms &amp; Conditions</a></li>
+                                                                <li><a href="/personal/help_support_/privacy_policy.omp?cid=1124179743355">Privacy policy</a></li>
+                                                                <li><a href="/personal/sitemap.omp">Site map</a></li>
+                                                                <li><a href="/personal/accessibility.omp">Accessibility</a></li>
+                                                                <li><a href="/personal/help_support_/contact_us_/index.omp">Contact us</a></li>	
+                                                                <li><a href="/personal/help_support_/network_coverage_/index.omp">Network Coverage</a></li>																		
+                                                                <li><a href="/customer/linkdocument.omp?cid=1089021441077" target="_blank">Price Guide</a></li>																		
+                                                                <li class="last"><a href="/personal/help_support_/store_locator_/index.omp">Store Locator </a></li>																		
+                                                            
+                                                      	
+													 
 												
-											
+											 
 										
 									
 								
@@ -995,41 +1145,23 @@ if(typeof sIFR == "function"){
 						
 					
 				
+
+
+
+	
 			</ul>
 			<div class="clear"></div>
 				
 	
 				© Hutchison 3G UK Limited 2002 -
-				2007
+				2008
 
 			</div>
 			<div class="clear"></div>
-
 	</div>
-
-
 	<div id="footerContent"></div>
 	</div>
-</div>
-
-<script type="text/javascript" language="javascript">
-		// safari nav fix - move to onload function
-		var b_ua =navigator.userAgent;
-			if (b_ua.indexOf("Safari")>0){ 
-			var thenav = document.getElementById("row1_lead");
-			var footerLinks = document.getElementById("footerNavigation");
-		
-			thenav.style.width="11px";
-			footerLinks.style.fontSize="10px";
-		
-			}
-	
-</script>
-		
-<script type="text/javascript">urchinTracker();</script>
-
-
-
+</div><script type="text/javascript">urchinTracker();</script>	
 
 
 
