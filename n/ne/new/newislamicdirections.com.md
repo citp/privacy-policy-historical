@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newislamicdirections.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012192100id_/http%3A//www.newislamicdirections.com/nid/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newislamicdirections.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611124115id_/http%3A//www.newislamicdirections.com/nid/privacy) for the most accurate reproduction.*
 
-# New Islamic Directions
+# Privacy
 
 Privacy
 
