@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the myyogaonline.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024234924id_/http%3A//www.myyogaonline.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myyogaonline.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611232755id_/http%3A//www.myyogaonline.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+| 
 
 |   
 ---  
@@ -18,50 +20,50 @@ Members will be advised regarding any changes to this policy. If you have any qu
 |   
 ---  
   
-  * [SAMPLE VIDEO](https://web.archive.org/web/20071024234924id_/http%3A//www.myyogaonline.com/samplevideo.html)
+  * [SAMPLE VIDEO](http://www.myyogaonline.com/samplevideo.html)
 
   
   
-  * [SITE TOUR](https://web.archive.org/web/20071024234924id_/http%3A//www.myyogaonline.com/sitetour.html)
+  * [SITE TOUR](http://www.myyogaonline.com/sitetour.html)
 
   
   
-  * [JOIN NOW](https://web.archive.org/web/20071024234924id_/http%3A//www.myyogaonline.com/packages.html)
+  * [JOIN NOW](http://www.myyogaonline.com/packages.html)
 
   
   
-  * [INVITE A FRIEND](https://web.archive.org/web/20071024234924id_/http%3A//www.myyogaonline.com/referafriend.html)
+  * [INVITE A FRIEND](http://www.myyogaonline.com/referafriend.html)
 
   
   
-  * [BEGINNER YOGA](https://web.archive.org/web/20071024234924id_/http%3A//www.myyogaonline.com/yoga_classes_online_6.html)
+  * [BEGINNER YOGA](http://www.myyogaonline.com/yoga_classes_online_6.html)
 
   
   
-  * [YOGA CLASSES](https://web.archive.org/web/20071024234924id_/http%3A//www.myyogaonline.com/yoga_classes_online_2.html)
+  * [YOGA CLASSES](http://www.myyogaonline.com/yoga_classes_online_2.html)
 
   
   
-  * [PILATES](https://web.archive.org/web/20071024234924id_/http%3A//www.myyogaonline.com/yoga_classes_online_3.html)
+  * [PILATES](http://www.myyogaonline.com/yoga_classes_online_3.html)
 
   
   
-  * [YOGA AT WORK](https://web.archive.org/web/20071024234924id_/http%3A//www.myyogaonline.com/yoga_classes_online_5.html)
+  * [YOGA AT WORK](http://www.myyogaonline.com/yoga_classes_online_5.html)
 
   
   
-  * [MEDITATION](https://web.archive.org/web/20071024234924id_/http%3A//www.myyogaonline.com/yoga_classes_online_4.html)
+  * [MEDITATION](http://www.myyogaonline.com/yoga_classes_online_4.html)
 
   
   
-  * [SHORT YOGA FLOWS](https://web.archive.org/web/20071024234924id_/http%3A//www.myyogaonline.com/yoga_classes_online_1.html)
+  * [MIND BODY TV](http://www.myyogaonline.com/yoga_classes_online_1.html)
 
   
   
-  * [CHAKRAS](https://web.archive.org/web/20071024234924id_/http%3A//www.myyogaonline.com/chakrachart.html)
+  * [CHAKRAS](http://www.myyogaonline.com/chakrachart.html)
 
   
   
-  * [YOGA BLOG](https://web.archive.org/web/20071024234924id_/http%3A//www.myyogaonline.com/blog)
+  * [YOGA BLOG](http://www.myyogaonline.com/blog/)
 
 
