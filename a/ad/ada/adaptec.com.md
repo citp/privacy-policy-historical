@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the adaptec.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213021954id_/http%3A//www.adaptec.com/en-US/_footer/privacy_link.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaptec.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611121718id_/http%3A//www.adaptec.com/en-US/_footer/privacy_link.htm) for the most accurate reproduction.*
 
 # Adaptec - Privacy Policy
 
-|  |    
-[ ](https://web.archive.org/en-US/company/about/privacy_policy.htm)  
----|---  
-  
 Last updated on September 1, 2007 (V4.4)
 
 Adaptec, Inc. (“Adaptec”) wants you, our customers and visitors to [www.adaptec.com](http://www.adaptec.com/) and all of our other Web sites, to know how information about you is used. Our privacy policy is set out below and describes our information gathering and usage practices. Please read Adaptec's Terms of Use for our Web site(s). By visiting our Web site(s) you agree to accept the [Terms of Use](https://web.archive.org/en-US/company/legal/_legalinfo/legal_terms.htm) and this Privacy Policy.
@@ -44,36 +40,40 @@ Australia
 t: 612-9503-1555   
 f: 612-9503-1500  
 [edwin_chong@adaptec.com](mailto:edwin_chong@adaptec.com)  
-[Demetri@adaptec.com](mailto:Demetri@adaptec.com)
+[demetri@adaptec.com](mailto:Demetri@adaptec.com)
 
 This policy discloses our information gathering and usage practices for the following Web sites:
 
-[www.adaptec.com](http://www.adaptec.com/) |  [www.adaptec-europe.com](http://www.adaptec-europe.com/)  
+|  [www.adaptec.com](http://www.adaptec.com/) |  [www.adaptec-kit.com](http://www.adaptec-kit.com/)  
 ---|---  
- [www.adaptecstore.com](http://www.adaptecstore.com/service.asp) |  [www.adaptecconnect.com](http://www.adaptecconnect.com/)  
+ [www.adaptecstore.com](http://www.adaptecstore.com/service.asp) |  [secure.adaptec.co.jp/press](https://secure.adaptec.co.jp/press/)  
+[www.adaptecconnect.com](http://www.adaptecconnect.com/) |  [www.snapserver.com](http://www.snapserver.com/)  
+[www.myadaptec.com](http://www.myadaptec.com/) |  [www.snapsolutions.com](http://www.snapsolutions.com/)  
+[www.adaptec-kit.com](http://www.adaptec-kit.com/) |  [www.icp-vortex.com](http://www.icp-vortex.com/index.html)  
+ [www.adaptec.com.au](http://www.adaptec.com.au/) |  [www.vortex.de](http://www.vortex.de/)  
+[www.adaptec.co.jp](http://www.adaptec.co.jp/) |  [www.icp-raid.com](http://www.icp-raid.com/)  
 [www.adaptec.co.uk](http://www.adaptec.co.uk/) |  [www.adaptec.fr](http://www.adaptec.fr/)  
-[www.adaptec.de](http://www.adaptec.de/) | [ www.adaptec.ru](http://www.adaptec.ru/)  
-[www.myadaptec.com](http://www.myadaptec.com/) |  [www.myadaptec.com](http://www.myadaptec.com/)  
-   
+[www.adaptec.de](http://www.adaptec.de/) |  [www.adaptec.com.cn](http://www.adaptec.com.cn/)  
+[www.adaptec.co.kr](http://www.adaptec.co.kr/) |  [www.adaptec.ru](http://www.adaptec.ru/)  
   
 Contents:  
 
 
-Product Registration   
-"A.S.K. Us" or Online Support Request   
-Sweepstakes, Contests & Promotions   
-Online Store & Electronic Software  
-Adaptec Connect, Adaptec Platinum and Adaptec Europe Partner Program  
-Online Surveys  
-Sharing Information with Other Companies  
-Message Boards  
-Notifications of Changes  
-Unsubscribing/Opt-Out  
-Correcting or Updating your Personal Info  
-Information We Automatically Collect  
-Privacy and Children  
-Security  
-Contact Us
+[Product Registration](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#prod)   
+["A.S.K. Us" or Online Support Request](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#prod)   
+[Sweepstakes, Contests & Promotions](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#promo)   
+[Online Store](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#store) & [Electronic Software](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#store)  
+[ Adaptec Connect, Adaptec Platinum and Adaptec Europe Partner Program](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#connect)  
+[ Online Surveys](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#survey)  
+[ Sharing Information with Other Companies](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#share)  
+[ Message Boards](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#messb)  
+[ Notifications of Changes](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#noc)  
+[ Unsubscribing/Opt-Out](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#unsub)  
+[ Correcting or Updating your Personal Info](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#Access)  
+[ Information We Automatically Collect](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#auto)  
+[ Privacy and Children](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#priv)  
+[ Security](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#secur)  
+[ Contact Us](https://web.archive.org/en-US/company/legal/_legalinfo/legal_privacy.htm#contact)
 
 Product Registration and Online Support Request "A.S.K. Us"  
 
@@ -104,7 +104,7 @@ Our online surveys ask visitors for contact information (like not be used for fu
 Sharing Information with Other Companies and Individuals  
 
 
-Adaptec reserves the right to share customer data with Adaptec's subsidiaries, affiliates, contractors, service vendors, advisors, accountants, auditors and temporary employees but only for the purpose of fulfilling its legitimate business interests as described in this Privacy Policy. Additionally, Adaptec reserves the right to transfer customer data to other entities as part of business transactions such as, but not limited to, spin-offs, acquisitions, mergers, reorganizations or liquidations. With your permission, Adaptec may share your information with some of our valued partners. Please see the opt-in box on our Product Registration form. If you check that box, Adaptec may allow partners to contact you via email or direct mail with products or services that we think might be of interest to our customers. Additionally, upon registering select products, you may be asked during the registration process if we may share your registration history with a specific partner or Original Equipment Manufacturer (OEM) who has either bundled an Adaptec product with theirs or their product with ours. We recommend you agree to this, so that you can receive important updates from the manufacturer of this bundled product. However, we suggest you review their Privacy Policy, as their practices may differ from ours. While Adaptec strives to ensure that all of these third parties protect the information in a manner at least as protective as our policy, we are not responsible for their practices.
+Adaptec reserves the right to share customer data with Adaptec's subsidiaries, affiliates, contractors, service vendors, advisors, accountants, auditors and temporary employees but only for the purpose of fulfilling its legitimate business interests as described in this Privacy Policy. Additionally, Adaptec reserves the right to transfer customer data to other entities as part of business transactions such as, but not limited to, spin-offs, acquisitions, mergers, reorganizations or liquidations. With your permission, Adaptec may share your information with its subsidiaries, affiliates and some of our valued partners. Please see the opt-in box on our Product Registration form. If you check that box, Adaptec may allow its subsidiaries, affiliates and partners to contact you via email or direct mail with products or services that we think might be of interest to our customers. Additionally, upon registering select products, you may be asked during the registration process if we may share your registration history with a specific partner or Original Equipment Manufacturer (OEM) who has either bundled an Adaptec product with theirs or their product with ours. We recommend you agree to this, so that you can receive important updates from the manufacturer of this bundled product. However, we suggest you review their Privacy Policy, as their practices may differ from ours. While Adaptec strives to ensure that all of these third parties protect the information in a manner at least as protective as our policy, we are not responsible for their practices.
 
 User Information may be made available to or at the direction of legal and regulatory authorities (including tax authorities) if required by the public authorities as well as to Adaptec's professional advisers subject to professional obligations for data confidentiality.
 
