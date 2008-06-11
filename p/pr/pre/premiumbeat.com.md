@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the premiumbeat.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213025447id_/http%3A//www.premiumbeat.com./privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumbeat.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611103341id_/http%3A//www.premiumbeat.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  | [English Version](https://web.archive.org/web/20071213025447id_/http://www.premiumbeat.com/privacy_policy/index.php) | [Version Française](https://web.archive.org/web/20071213025447id_/http://www.premiumbeat.com/privacy_policy/index_fr.php)
+|  | [English Version](https://web.archive.org/web/20080611103341id_/http://www.premiumbeat.com/privacy_policy/index.php) | [Version Française](https://web.archive.org/web/20080611103341id_/http://www.premiumbeat.com/privacy_policy/index_fr.php)
 
 We, at [premiumbeat.com](http://www.premiumbeat.com/), fully understand and respect your online privacy and have taken the necessary steps to protect your personal information.
 
