@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amerisave.com privacy policy that was archived on 2007-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229081703id_/http%3A//www.amerisave.com/aboutus/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amerisave.com privacy policy that was archived on 2008-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080611090849id_/http%3A//www.amerisave.com/aboutus/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -33,25 +33,16 @@
 <script type="text/JavaScript">_ajaxConfig = {"_cfscriptLocation":"", "_jsscriptFolder":"/resources/common/ajax"};</script>
 <script type="text/JavaScript" src="/resources/common/ajax/ajax.js"></script><script language="javascript" type="text/javascript" src="/resources/common/ajax/engine.js"></script><script language="javascript" type="text/javascript" src="/resources/common/ajax/util.js"></script><script language="javascript" type="text/javascript" src="/resources/common/ajax/wddx.js"></script>
 
+
 <script type="text/javascript">
-	var __ajax = true;
 	if (top != window)
 	{
-		__ajax = false;
 		top.location.replace('http://www.amerisave.com/section/index.cfm?section=aboutus&page=privacy');
 	}
-	
-		if (__ajax && areCookiesEnabled())
-		{
-			DWREngine._execute('/resources/ajax/ajaxAMC.cfc', null, 'qualifyClick', "16139227", qualifyClickResult);
-		}
-
-		function qualifyClickResult(r)
-		{
-			// Do nothing
-		}
-	
 </script>
+
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
 
 </head>
 
@@ -74,12 +65,12 @@ s.channel="aboutus"
 s.pageType=""
 s.prop1="aboutus:privacy"
 s.prop2="UNKNOWN"
-s.prop3="12917127"
+s.prop3="15410045"
 s.prop6="0:aboutus:privacy"
 /* E-commerce Variables */
 s.campaign=""
 s.events=""
-s.eVar1=""
+s.eVar1="0"
 s.eVar7=""
 //s.eVar8=""
 
@@ -112,7 +103,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
     <td><a href="/purchase.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ImageNav1','','/images/tabs/tab_purchase_roll.gif',1)"><img src="/images/tabs/tab_purchase.gif" name="ImageNav1" width="155" height="33" border="0" alt="Home Purchase"></a></td>
     <td><a href="/refinance.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ImageNav2','','/images/tabs/tab_refinance_roll.gif',1)"><img src="/images/tabs/tab_refinance.gif" name="ImageNav2" width="147" height="33" border="0" alt="Refinance"></a></td>
     <td><a href="/purchase/home_rewards.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ImageNav3','','/images/tabs/tab_home_rewards_roll.gif',1)"><img src="/images/tabs/tab_home_rewards.gif" name="ImageNav3" width="146" height="33" border="0" alt="Home Rewards"></a></td>
-    <td><a href="/resourcecenter" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ImageNav4','','/images/tabs/tab_calculators_roll.gif',1)"><img src="/images/tabs/tab_calculators.gif" name="ImageNav4" width="94" height="33" border="0" alt="Calculators"></a></td>
+    <td><a href="/resourcecenter.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ImageNav4','','/images/tabs/tab_calculators_roll.gif',1)"><img src="/images/tabs/tab_calculators.gif" name="ImageNav4" width="94" height="33" border="0" alt="Calculators"></a></td>
     <td><a href="/returningcustomers/index.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ImageNav5','','/images/tabs/tab_login_roll.gif',1)"><img src="/images/tabs/tab_login.gif" name="ImageNav5" width="94" height="33" border="0" alt="Login"></a></td>
     <td><a href="/aboutus.cfm"><img src="/images/tabs/tab_about_us_sel.gif" name="ImageNav6" width="93" height="33" border="0" alt="About Us"></a></td>
     <td><img src="/images/tabs/tab_nothing.gif" name="ImageNav7" width="57" height="33" border="0" alt=""></td>
@@ -241,6 +232,10 @@ Explorer becomes locked.<br><br><br>
 
 
 <span class="topicheaders">Contact</span><br><br>
+By submitting your name, email address and phone number anywhere on Amerisave.com you will receive
+phone calls and emails regarding your interest in Amerisave.  We also partner with companies such as
+LowerMyBills and LendingTree.  If Amerisave receives your information through such third party
+brokers, you will receive phone and email correspondence regarding your interest in a mortgage.
 Amerisave will contact you via email and phone during your loan process as needed to complete your
 loan. We may also contact you in the future to provide information regarding other financial or
 consumer products that we feel may interest you. You may opt-out of any correspondence which is not
@@ -252,11 +247,10 @@ with Amerisave.<br><br><br>
 
 <span class="topicheaders">Our Contact Information</span><br><br>
 
-Amerisave<br>
-3525 Piedmont Road<br>
-6 Piedmont Center<br>
-Suite 710<br>
-Atlanta, Georgia 30305<br><br>
+Amerisave Mortgage Corporation<br>
+One Capital City Plaza<br>
+3350 Peachtree Rd, Suite 1000<br>
+Atlanta, GA 30326<br><br>
 
 </p></td></tr>
 </tbody></table>
@@ -273,9 +267,96 @@ Atlanta, Georgia 30305<br><br>
     </tr>
     <tr>
       <td align="center"> 
+
+<script>
+var doMoveFocusToCounty = false;
+var selectedCounty = "";
+function loadCounties(doMoveFocus, selectCounty)
+{
+	doMoveFocusToCounty = doMoveFocus;
+	selectedCounty = selectCounty;
+	var countyPick = document.getElementById("tCounty");
+	countyPick.style.visibility = "hidden";
+
+	var statePick = document.getElementById("tState");
+	if (statePick.selectedIndex >= 1)
+	{
+		//document.getElementById("loadingMsg").style.display = "block";
+		//showWaitMsg("Processing. . .");
+		var stateCode = statePick.options[statePick.selectedIndex].value;
+		DWREngine._execute("/resources/ajax/ajaxAMC.cfc", null, 'loadFhaCounties', stateCode, loadCountiesResponse);
+	}
+	else
+	{
+		//alert("Please select a state for which to load counties.");
+		statePick.focus();
+		document.getElementById('countyList').style.display = 'none';
+	}
+}
+
+function loadCountiesResponse(resp)
+{
+	var countyPick = document.getElementById("tCounty");
+
+	countyPick.options.length = 0;
+
+	var county;
+	var option;
+	var countyIndex = 0;
+
+	option = document.createElement("option");
+	option.value = "";
+	option.text = "-- Select property county --";
+	countyPick.options[countyPick.options.length] = option;
+
+	var rows = resp.getRowCount();
+	for (var i = 0; i < rows; i++)
+	{
+		county = resp.tcounty[i];
+		option = document.createElement("option");
+		option.value = county;
+		option.text = county;
+		countyPick.options[countyPick.options.length] = option;
+		if (county == selectedCounty)
+		{
+			countyIndex = countyPick.options.length - 1;
+		}
+	}
+
+	countyPick.selectedIndex = countyIndex;
+
+	document.getElementById('countyList').style.display = 'block';
+	//document.getElementById("loadingMsg").style.display = "none";
+
+	countyPick.style.visibility = "visible";
+	if (doMoveFocusToCounty)
+	{
+		countyPick.focus();
+	}
+	//hideWaitMsg();
+	//loadFhaLimit();
+}
+function myOnload()
+{
+	var statePick = document.getElementById("tState");
+	if (statePick && statePick.selectedIndex >= 1)
+	{
+		var currentCounty = "";
+		
+		currentCounty = "";
+		
+		//loadCounties(false, currentCounty);
+	}
+	//else
+	//	docuemnt.getElementById('countyList').style.display = 'none';
+}
+</script>
+
+
+
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
 <table id="rateSearchControl" border="0" cellpadding="0" cellspacing="0" style="display:none;">
-<form name="rateSearchForm" method="post" action="/index.cfm" onsubmit="document.rateSearchForm.action = document.location.href;"></form>
+<form name="rateSearchForm" method="post" action="https://web.archive.org/web/20080611090849id_/http%3A//www.amerisave.com/aboutus/privacy.cfm"></form>
 <input type="hidden" name="bDoSearch" value="true">
 <input type="hidden" name="om_epn" value="privacy">
 <input type="hidden" name="om_ech" value="aboutus">
@@ -293,18 +374,18 @@ Atlanta, Georgia 30305<br><br>
 				<tbody><tr>
 					<td class="s9pxGrayB" nowrap="" style="padding: 3px;"><span id="LoanAmountLabel">Loan Amount</span>:</td>
 					
-					<td align="right" nowrap="" style="padding: 3px;">$<input id="nLoanAmount" name="nLoanAmount" maxlength="9" size="8" value=""><span onmouseover="doTooltip(event,'How much do you want to borrow? Example: 150,000 (You can borrow up to 100% of the purchase price of your home. You will find better interest rates at 95%, 90%, and 80%&nbsp;progressively.)')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span><img src="/images/spacer.gif" width="25" height="1" alt=""></td>
+					<td align="right" nowrap="" style="padding: 3px;">$<input id="nLoanAmount" name="nLoanAmount" maxlength="9" size="8" value=""><span onmouseover="doTooltip(event,'How much do you want to borrow? Example: 150,000 (You can borrow up to 100% of the purchase price of your home. You will find better interest rates at 95%, 90%, and 80%&nbsp;progressively.)','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span><img src="/images/spacer.gif" width="25" height="1" alt=""></td>
 				</tr>
 					
 				<tr>
 					<td class="s9pxGrayB" nowrap="" style="padding: 3px;">Property Value:</td>
-					<td align="right" nowrap="" style="padding: 3px;">$<input name="nPropertyAmount" maxlength="9" size="8" value=""><span onmouseover="doTooltip(event,'Example: 175,000. This is the purchase price of your property or your best estimate at the appraised value of the property')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span><img src="/images/spacer.gif" width="25" height="1" alt=""></td>
+					<td align="right" nowrap="" style="padding: 3px;">$<input name="nPropertyAmount" maxlength="9" size="8" value=""><span onmouseover="doTooltip(event,'Example: 175,000. This is the purchase price of your property or your best estimate at the appraised value of the property','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span><img src="/images/spacer.gif" width="25" height="1" alt=""></td>
 				</tr>
 			</tbody></table>
 			<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 				<tbody><tr>
-					<td style="padding: 3px;"><select name="tState" style="width: 179px; font-family: verdana, arial; font-size: 10px; ">
-						<option value="">-- Select property state --</option>
+					<td nowrap="" style="padding:3px;"><select name="tState" id="tState" onchange="loadCounties(true);" style="width: 179px; font-family: verdana, arial; font-size: 10px; ">
+							<option value="">-- Select property state --</option>
 						
 						<option value="AL">Alabama</option>
 						
@@ -327,6 +408,8 @@ Atlanta, Georgia 30305<br><br>
 						<option value="FL">Florida</option>
 						
 						<option value="GA">Georgia</option>
+						
+						<option value="HI">Hawaii</option>
 						
 						<option value="ID">Idaho</option>
 						
@@ -406,46 +489,44 @@ Atlanta, Georgia 30305<br><br>
 						
 						<option value="WY">Wyoming</option>
 						
-					</select>
-					</td>
-					<td><span onmouseover="doTooltip(event,'Specify the state where the property is located.')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
+					</select><span onmouseover="doTooltip(event,'Specify the state where the property is located.','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
 				</tr>
+			</tbody></table>
+			<table id="countyList" width="100%" border="0" cellpadding="0" cellspacing="0" style="display:none;" align="center">
+				<tbody><tr>
+					<td nowrap="" style="padding:3px;"><select name="tCounty" id="tCounty" style="width: 179px; font-family: verdana, arial; font-size: 10px; ">
+						<option value="" selected="">-- Select property county --</option>
+						
+					</select><span onmouseover="doTooltip(event,'Specify the county where the property is located.','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+
 				
-				<tr>
-					<td style="padding: 3px;">
+				<tbody><tr>
+					<td nowrap="" style="padding:3px;">
 					<select onchange="rsExpandForm(true);" name="tLoanPurp" id="loanPurpSelect" style="width: 179px; font-family: verdana, arial; font-size: 10px; ">
-						<option value="">-- Select loan type --</option>
+							<option value="">-- Select loan type --</option>
 						<option value="REFI">Refinance, no cash out</option>
 						<option value="CASHOUT">Refinance, take cash out</option>
 						<option value="PURC">Purchase, found a home</option>
 						<option value="PRE">Purchase, still looking</option>
 						<option value="HELOC">Home Equity Loan</option>
-						<option value="COMMERCIAL">Commercial Loan</option>
-					</select>
-					</td>
-					<td><span onmouseover="doTooltip(event,'Selecting &quot;Refinance, take cash out&quot; may increase your rate.  If you want some extra cash to pay the closing costs on your new loan, this would NOT be considered receiving extra cash.')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
+						
+					</select><span onmouseover="doTooltip(event,'Selecting &quot;Refinance, take cash out&quot; may increase your rate.  If you want some extra cash to pay the closing costs on your new loan, this would NOT be considered receiving extra cash.','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
 				</tr>
 			</tbody></table>
-			<table id="helocQuestions" width="100%" border="0" cellpadding="0" cellspacing="0" style="display:none;">
+			<table id="helocQuestions" border="0" cellpadding="0" cellspacing="0" style="display:none;">
 				<tbody><tr>
-					<td colspan="3"><img src="/images/spacer.gif" width="25" height="5" alt=""></td>
-				</tr>
-				<tr>
-					<td class="s9pxGrayB" nowrap="" style="padding: 3px;">First Mortgage Balance:</td>
-						<td valign="middle" style="padding-right:3px;">
-							$<input id="nExistingLoanBalance" name="nExistingLoanBalance" maxlength="9" size="7" value="">
-					</td>
-					<td><span onmouseover="doTooltip(event,'The current balance on your first mortgage.')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
-				</tr>
-				<tr>
-					<td colspan="3"><img src="/images/spacer.gif" width="25" height="5" alt=""></td>
+					<td class="s9pxGrayB" nowrap="" style="padding-top:3px;padding-bottom:3px;padding-left:3px;padding-right:2px;">First Mortgage Balance:</td>
+					<td valign="middle" nowrap="">$<input id="nExistingLoanBalance" name="nExistingLoanBalance" maxlength="9" size="7" value=""><span onmouseover="doTooltip(event,'The current balance on your first mortgage.','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
 				</tr>
 			</tbody></table>
 
 				
 					<table id="HeardAboutAmerisave" width="100%" border="0" cellpadding="0" cellspacing="0">
 						<tbody><tr>
-							<td valign="middle" style="padding:3px; width:1%;">
+							<td valign="middle" style="padding:3px;">
 								<select onchange="rsExpandForm();" name="tReferredBy" id="tReferredBy" style="width: 179px; font-family: verdana, arial; font-size: 10px; ">
 									<option value="" selected="">Heard about us from... </option>
 									<option value="Friend/Family">Friend/Family</option>
@@ -455,18 +536,16 @@ Atlanta, Georgia 30305<br><br>
 									<option value="AM Radio">AM Radio</option>
 									<option value="Satellite Radio">Satellite Radio</option>
 									<option value="TV">Television</option>
-								</select>
-							</td>
-							<td style="width:99%;"><span onmouseover="doTooltip(event,'Specify how you heard about Amerisave.')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
+								</select><span onmouseover="doTooltip(event,'Specify how you heard about Amerisave.','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
 						</tr>
 					</tbody></table>
 					<table id="radioStation" width="100%" border="0" cellpadding="0" cellspacing="0" style="display:none;">
 						<tbody><tr>
-							<td valign="middle" class="s9pxGrayB" style="padding:3px; width:1%;">
+							<td valign="middle" class="s9pxGrayB" style="padding:3px;">
 								<span class="s9pxGrayB">Radio Station Name or Number:</span><br>
 								<input type="text" maxlength="100" name="tRadioStationName" style="width:179px;" value="">
 							</td>
-							<td style="width:99%;"><span onmouseover="doTooltip(event,'Specify the radio station where you heard about Amerisave. e.g. WNNX or 99.7')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
+							<td><span onmouseover="doTooltip(event,'Specify the radio station where you heard about Amerisave. e.g. WNNX or 99.7','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
 						</tr>
 					</tbody></table>
 				
@@ -474,56 +553,52 @@ Atlanta, Georgia 30305<br><br>
 			<table id="contactQuestions" style="display:none;" width="100%" border="0" cellpadding="0" cellspacing="0">
 				
 				<tbody><tr>
-					<td valign="middle" style="padding: 3px;"><select name="nNotify" id="notifySelect" style="width: 179px; font-family: verdana, arial; font-size: 10px; " onchange="rsExpandForm(true);">
+					<td valign="middle" nowrap="" style="padding:3px;"><select name="nNotify" id="notifySelect" style="width: 179px; font-family: verdana, arial; font-size: 10px; " onchange="rsExpandForm(true);">
 						<option value="" selected="">Select rate notification</option>
 						<option value="1">Email me when rates drop</option>
 						<option value="0">Do not email me</option>
-					</select>
-					</td>
-					<td><span onmouseover="doTooltip(event,'Amerisave can automatically sign you up for Rate Watch, a program which notifies you via email when rates drop below todays current pricing.')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
+					</select><span onmouseover="doTooltip(event,'Amerisave can automatically sign you up for Rate Watch, a program which notifies you via email when rates drop below todays current pricing.','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
 				</tr>
 			</tbody></table>
 			
 			<table id="goButton" style="display:block;" width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-
 					<td style="padding: 3px;"><a href="javascript:void(0)" onclick="rsExpandForm(false, true);"><img src="/images/redesign/btn_getrates.gif" border="0" alt="Get Rates"></a></td>
 				</tr>
 			</tbody></table>
 
 			<table id="propUseType" style="display:none;" width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td valign="middle" style="padding: 3px;"><select name="tNoIncomeDoc" style="width: 179px; font-family: verdana, arial; font-size: 10px; ">
-			 
-					<option value="FULL" selected="">I will document my income</option>
-					<option value="STATEDINCOME">I will state my income</option>
-			 
-					</select><span onmouseover="doTooltip(event,'Selecting &quot;I will state my income&quot; may increase your rate.  If you are self-employed, or do not have good tax records you may choose to apply for a &quot;Stated Income&quot; loan program. &quot;Stated Income&quot; loans typically require a higher down payment and better credit.')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
+					<td valign="middle" nowrap="" style="padding:3px;"><select name="tNoIncomeDoc" style="width: 179px; font-family: verdana, arial; font-size: 10px; ">
+					
+						<option value="FULL" selected="">I will document my income</option>
+						<option value="STATEDINCOME">I will state my income</option>
+					
+						</select><span onmouseover="doTooltip(event,'Selecting &quot;I will state my income&quot; may increase your rate.  If you are self-employed, or do not have good tax records you may choose to apply for a &quot;Stated Income&quot; loan program. &quot;Stated Income&quot; loans typically require a higher down payment and better credit.','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
 				</tr>
 			
 				<tr>
-					<td colspan="3" valign="middle" style="padding: 3px;"><select name="tPropertyUse" style="width: 160px; font-family: verdana, arial; font-size: 10px; ">
+					<td valign="middle" nowrap="" style="padding:3px;"><select name="tPropertyUse" style="width: 160px; font-family: verdana, arial; font-size: 10px; ">
 						<option value="HOME" selected="">Primary Residence</option>
 						<option value="INVESTMENT">Investment Property</option>
 						<option value="2ndHOME">Second Home</option>
-					</select><span onmouseover="doTooltip(event,'For tax purposes you can own up to two properties, one must be designated as your &quot;Primary Residence,&quot; the other as a &quot;Second Home&quot; sometimes referred to as a &quot;Vacation Home&quot;. Any additional properties must be classified as &quot;Investment Properties&quot;.')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
+						</select><span onmouseover="doTooltip(event,'For tax purposes you can own up to two properties, one must be designated as your &quot;Primary Residence,&quot; the other as a &quot;Second Home&quot; sometimes referred to as a &quot;Vacation Home&quot;. Any additional properties must be classified as &quot;Investment Properties&quot;.','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
 				</tr>
 				<tr>
-					<td valign="middle" style="padding: 3px;"><select name="tPropertyType" id="propertyTypeSelect" style="width: 160px; font-family: verdana, arial; font-size: 10px; " onchange="rsExpandForm();">
+					<td valign="middle" nowrap="" style="padding:3px;"><select name="tPropertyType" id="propertyTypeSelect" style="width: 160px; font-family: verdana, arial; font-size: 10px; " onchange="rsExpandForm();">
 						<option value="SINGLE" selected="">House / Townhouse</option>
 
 						<option value="CONDO">Condo</option>
 						<option value="2UNIT">2 Unit Building</option>
 						<option value="3UNIT">3 Unit Building</option>
 						<option value="4UNIT">4 Unit Building</option>
-						
-					</select><span onmouseover="doTooltip(event,'Specify the type of property.  Currently, Amerisave does not finance manufactured houses.')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
+						</select><span onmouseover="doTooltip(event,'Specify the type of property.  Currently, Amerisave does not finance manufactured houses.','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
 				</tr>
 			</tbody></table>
-			<table id="numFloors" style="display:none;" width="100%" border="0" cellpadding="0" cellspacing="0">
+			<table id="numFloors" style="display:none;" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td width="100" class="s9pxGrayB" style="padding: 3px;">How many stories<br>are in the building?</td>
-					<td align="right" nowrap="" style="padding: 3px;"><input name="nNumberOfFloors" maxlength="3" size="8" value="1"><span onmouseover="doTooltip(event,'You must indicate the number of floors in the building if the property is a &quot;Condo&quot;.')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
+					<td class="s9pxGrayB" style="padding-top:3px;padding-bottom:3px;padding-left:3px;padding-right:6px;">How many stories<br>are in the building?</td>
+					<td nowrap="" style="padding: 3px;"><input name="nNumberOfFloors" maxlength="3" size="8" value="1"><span onmouseover="doTooltip(event,'You must indicate the number of floors in the building if the property is a &quot;Condo&quot;.','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
 				</tr>
 			</tbody></table>
 			
@@ -532,20 +607,20 @@ Atlanta, Georgia 30305<br><br>
 
 			<table id="creditEscrowIncome" style="display:none;" width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td valign="middle" style="padding: 3px;"><select name="nCreditScore" style="width: 160px; font-family: verdana, arial; font-size: 10px; ">
+					<td valign="middle" nowrap="" style="padding:3px;"><select name="nCreditScore" style="width: 160px; font-family: verdana, arial; font-size: 10px; ">
 						<option value="720" selected="">Excellent credit</option>
-						<option value="650">Good credit</option>
+						<option value="680">Good credit</option>
 						<option value="620">Less than perfect credit</option>
-					</select><span onmouseover="doTooltip(event,'Specify your current credit rating. Excellent credit assumes a FICO score of 720 or higher. Good credit assumes a score of 621 - 719. Less than perfect credit assumes a score of 620 or less.')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
+					</select><span onmouseover="doTooltip(event,'Specify your current credit rating. Excellent credit assumes a FICO score of 720 or higher. Good credit assumes a score of 621 - 719. Less than perfect credit assumes a score of 620 or less.','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
 				</tr>
 			</tbody></table>
 			
 			<table id="creditWaiveEscrow" style="display:none;" width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td valign="middle" style="padding: 3px;"><select name="nWaiveEscrows" style="width: 160px; font-family: verdana, arial; font-size: 10px; ">
+					<td valign="middle" nowrap="" style="padding:3px;"><select name="nWaiveEscrows" style="width: 160px; font-family: verdana, arial; font-size: 10px; ">
 						<option value="0" selected="">Do not waive escrows</option>
 						<option value="1">Waive escrows</option>
-					</select><span onmouseover="doTooltip(event,'Selecting &quot;Waive escrows&quot; may increase your rate. Most people choose to include insurance and taxes in their monthly payment. If you want to pay insurance and taxes directly, you would want to waive escrows.')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
+					</select><span onmouseover="doTooltip(event,'Selecting &quot;Waive escrows&quot; may increase your rate. Most people choose to include insurance and taxes in their monthly payment. If you want to pay insurance and taxes directly, you would want to waive escrows.','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
 				</tr>
 			</tbody></table>
 			<table id="second" style="display:none;" width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -578,7 +653,7 @@ Atlanta, Georgia 30305<br><br>
 			</tbody></table>
 			<table id="secondAmount" style="display:none;" width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td class="s9pxGrayB" style="padding: 3px;"><span id="secondAmountLabel"></span><br><span id="secondBalanceLimitLabel"></span></td>
+					<td class="s9pxGrayB" nowrap="" style="padding:3px;"><span id="secondAmountLabel"></span><br><span id="secondBalanceLimitLabel"></span></td>
 					<td align="right" valign="middle" nowrap="">$<input id="n2ndAmount" name="n2NDAmount" maxlength="9" size="8" value="" style="padding: 3px;"><img src="/images/spacer.gif" width="25" height="1" alt=""></td>
 				</tr>
 			</tbody></table>
@@ -596,7 +671,7 @@ Atlanta, Georgia 30305<br><br>
 			</tbody></table>
 			<table id="searchButton" style="display:none;" width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td style="padding: 3px;"><input type="image" src="/images/redesign/btn_searchnow.gif" alt="Get Rates"></td>
+					<td style="padding: 3px;"><input type="image" src="/images/redesign/btn_searchnow.gif" alt="Get Rates" onclick="fnSubmit();return false;"></td>
 				</tr>
 			</tbody></table>
 			</td>
@@ -650,13 +725,52 @@ Please go to your browser's help files to learn how to accept first-party cookie
 	</tr>
 </tbody></table>
 <script language="JavaScript" type="text/JavaScript">
-	if (areCookiesEnabled())
+	document.forms['rateSearchForm'].action = document.location.href.replace(/\?.*/i, "");
+	if (document.forms['rateSearchForm'].action == "http://www.amerisave.com"
+		|| document.forms['rateSearchForm'].action == "http://www.amerisave.com/")
 	{
-		document.getElementById("rateSearchControl").style.display = "block";
+		document.forms['rateSearchForm'].action = "http://www.amerisave.com/index.cfm"
 	}
+	if (document.forms['rateSearchForm'].action.search(/.+mortgageprofessor\/.*/i) == 0)
+	{
+		document.forms['rateSearchForm'].action = "index.cfm?mortprof=1"
+	}
+	
+		var submitted = false;
+		var fnSubmit = function()
+		{
+			if (!submitted)
+			{
+				document.forms['rateSearchForm'].submit();
+				submitted = true;
+			}
+		}
+		if (areCookiesEnabled())
+		{
+			document.getElementById("rateSearchControl").style.display = "block";
+		}
+		else
+		{
+			document.getElementById("cookiesError").style.display = "block";
+		}
+	
+</script>
+
+
+<script language="JavaScript" type="text/javascript">
+	if (typeof window.addEventListener != "undefined")
+		window.addEventListener("load", myOnload, false);
+	else if (typeof window.attachEvent != "undefined" )
+		window.attachEvent("onload", myOnload);
 	else
 	{
-		document.getElementById("cookiesError").style.display = "block";
+		if (window.onload != null)
+		{
+			var oldOnload = window.onload;
+			window.onload = function (e) { oldOnload( e ); myOnload(); };
+		}
+		else
+			window.onload = myOnload;
 	}
 </script>
 </td>
@@ -711,7 +825,7 @@ Please go to your browser's help files to learn how to accept first-party cookie
 		
 		<span class="s11pxGray">Other Services from Amerisave:</span>
 		<a href="/homeequity.cfm" class="text">Home Equity Loans</a> |
-		<a href="http://www.commercialdirectloans.com/partner.do?id=690&amp;affiliate=FOOTER" class="text">Commercial Loans</a> |
+
 		<a href="/resourcecenter/resourcecenter_marketcommentary.cfm" class="text">Weekly Market News</a> |
 		
 		<a href="http://learningcenter.amerisave.com?mcID=amna03" class="text">Learning Center</a>
@@ -722,7 +836,7 @@ Please go to your browser's help files to learn how to accept first-party cookie
 		<a href="/returningcustomers/index.cfm" class="text">Customer Login</a>
 		<br>
 		<br>
-		<span class="s9pxGray"> © 2003 - 2007 Amerisave Mortgage. All Rights Reserved.</span> |
+		<span class="s9pxGray"> © 2003 - 2008 Amerisave Mortgage. All Rights Reserved.</span> |
 		<a href="/aboutus/privacy.cfm" class="text">Privacy Policy</a> |
 		<a href="/aboutus/security.cfm" class="text">Security</a> |
 		<a href="/aboutus/licensing.cfm" class="text">Licensing</a> |
@@ -733,5 +847,5 @@ Please go to your browser's help files to learn how to accept first-party cookie
 </div>
 
  
-<div align="center"><font size="-1" color="666666">Your visitor ID: 12917127</font></div>
+<div align="center"><font size="-1" color="666666">Your visitor ID: 15410045</font></div>
 </body></html>
