@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paylesscar.com privacy policy that was archived on 2007-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070727233750id_/http%3A//paylesscarrental.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylesscar.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611034019id_/http%3A//www.paylesscarrental.com/privacy.asp) for the most accurate reproduction.*
 
-# PaylessCarRental.com - Privacy Policy
+# Discount Rental Cars: Payless Car Rental
 
 **PLEASE NOTE:** This privacy policy pertains to PaylessCarRental.com and any sub-directory below it. **
 
@@ -20,7 +20,7 @@ We collect customer data in two ways:
 > 
 > **2) When signing up for a Payless promotion or program.** The information you send will only be used for Payless Car Rental promotions, contests, newsletters, and upcoming events/offers. We will never transmit this information to a third party without your express permission. 
 > 
-> If, after signing up for a Payless contest or promotion, you no longer wish to participate, you may Opt-Out of all future mailings from Payless Car Rental System, Inc. [Click here](https://web.archive.org/web/20070727233750id_/http%3A//paylesscarrental.com/customercare-marketingoptout.asp) to visit the Opt-Out page.
+> If, after signing up for a Payless contest or promotion, you no longer wish to participate, you may Opt-Out of all future mailings from Payless Car Rental System, Inc. [Click here](https://web.archive.org/web/20080611034019id_/http%3A//www.paylesscarrental.com/customercare-marketingoptout.asp) to visit the Opt-Out page.
 > 
 > Secondly, you may notify us using the “Option Provision” method below, which is a non-electronic version of our Opt-Out system. You may send us a Notification of Removal letter in which, when received by Payless Corporate, we will manually remove your personal information from our promotion database.
 > 
