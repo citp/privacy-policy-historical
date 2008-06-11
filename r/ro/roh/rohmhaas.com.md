@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rohmhaas.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230023608id_/http%3A//www.rohmhaas.com/wcm/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohmhaas.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611181957id_/http%3A//rohmhaas.com/wcm/privacy.page) for the most accurate reproduction.*
 
 # Rohm and Haas Privacy Statement
 
