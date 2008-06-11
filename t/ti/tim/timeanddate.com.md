@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011021707id_/http%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612000942id_/http%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement for www.timeanddate.com
+# Privacy Statement for timeanddate.com
 
 www.timeanddate.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.timeanddate.com. 
 
@@ -17,6 +17,8 @@ We use outside ad companies to display ads on our site. These ads may contain co
 ### Third-party Privacy Policies
 
 www.timeanddate.com works with Burst Media as a third party that serves ads to this site. For information about their policy, please go to [Burst Media's Privacy policy](http://www.burstmedia.com/release/privacy.asp). 
+
+We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at <http://www.valueclickmedia.com/member_privacy.shtml>
 
 ## Contacting the Web Site
 
