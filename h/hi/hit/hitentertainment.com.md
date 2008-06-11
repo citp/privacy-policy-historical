@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitentertainment.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226181551id_/http%3A//www.hitentertainment.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitentertainment.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611123807id_/http%3A//www.hitentertainment.com/privacy.html) for the most accurate reproduction.*
 
 # HiT Entertainment Limited - Privacy Policy
 
