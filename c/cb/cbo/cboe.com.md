@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cboe.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011105804id_/http%3A//www.cboe.com/UserAdmin/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cboe.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611232645id_/http%3A//www.cboe.com/UserAdmin/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # CBOE - Privacy Statement
 
@@ -52,9 +52,11 @@ CBOE reserves the right to disclose user information in special cases, when we h
 
 ### Services Providers
 
-CBOE has selected the Sonar Network, a business unit of DoubleClick, Inc., as an ad-serving/sales agent for the Website. Please review the [Sonar Network Privacy Statement](http://www.doubleclick.net/us/corporate/privacy/default.aspx) for information about the Sonar Network?s data use policy and security measures as they relate to advertising. 
+CBOE has selected the Sonar Network, a business unit of DoubleClick, Inc., as an ad-serving/sales agent for the Website. Please review the [Sonar Network Privacy Statement](http://www.doubleclick.net/us/corporate/privacy/default.aspx) for information about the Sonar Network's data use policy and security measures as they relate to advertising. 
 
-CBOE has selected Trader's Library to provide certain web services for online seminar registration, fulfillment, credit card transactions and other services. Please review the Trader?s Library Privacy Statement here for information about the Trader?s Library data use policy and security measures 
+CBOE has selected Trader's Library to provide certain web services for online seminar registration, fulfillment, credit card transactions and other services. Please review the Trader's Library Privacy Statement here for information about the Trader's Library data use policy and security measures 
+
+Click [here](http://www.nielsen-netratings.com/privacy/sitecensus.htm) to learn more about how we use a third party service to collect and use information on this website. 
 
 ### Contact Information
 
