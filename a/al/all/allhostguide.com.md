@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allhostguide.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212131405id_/http%3A//www.allhostguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhostguide.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611022808id_/http%3A//www.allhostguide.com/privacy.html) for the most accurate reproduction.*
 
 # AllHostGuide.com Privacy Policy
 
@@ -15,8 +15,10 @@ We collect only the e-mail addresses of those who communicate with us via e-mail
 
 The information we collect is used for internal review, used to improve the content of our Web page and used to notify consumers about updates to our Web site, but never shared with other organizations for commercial purposes. All orders are processed via Amazon.com, so any information you provide to Amazon.com is covered under their respective privacy policy.
 
-**Cookies**  
+**Cookies and/or Web Beacons**  
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends and record referring sites.
+
+Third-party cookies and/or web beacons are used to collect data in the ad serving process.
 
 **E-mail**  
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, or writing to us at the above address.
