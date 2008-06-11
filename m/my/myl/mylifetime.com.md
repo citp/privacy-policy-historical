@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the mylifetime.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203021640id_/http%3A//mylifetime.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylifetime.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611142453id_/http%3A//www.mylifetime.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myLifetime.com
 
-_Updated on November 23, 2007_
+_Updated on March 5, 2008_
 
 Web Site Administrator: The Lifetime web site, http://www.mylifetime.com, is the consumer web site of Lifetime Entertainment Services, 309 West 49th Street, New York, NY 10019 ("Lifetime"). We can be reached via [online customer service](https://web.archive.org/feedback/index.php) or by telephone at 212-424-7122 (Viewer Relations).
+
+This Privacy Policy describes how we handle your personal information for our services on www.mylifetime.com. This Policy also governs, and will appear in the footer of, other web sites owned and operated by Lifetime.
 
 #### Collection and Use of Personally Identifiable Information Generally:
 
