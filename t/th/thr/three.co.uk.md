@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the three.co.uk privacy policy that was archived on 2007-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071031124839id_/http%3A//three.co.uk/personal/help_support_/privacy_policy.omp%3Fcid%3D1124179743355) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.co.uk privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611233705id_/http%3A//www.three.co.uk/personal/help_support_/privacy_policy.omp%3Fcid%3D1124179743355) for the most accurate reproduction.*
 
 # 3 - Privacy Policy
 
