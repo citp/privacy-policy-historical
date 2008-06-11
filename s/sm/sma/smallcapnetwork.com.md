@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the smallcapnetwork.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211181857id_/http%3A//www.smallcapnetwork.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallcapnetwork.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611133537id_/http%3A//www.smallcapnetwork.com/privacy_policy) for the most accurate reproduction.*
 
 # Small Cap Network Privacy Policy
 
-| [Dow](https://web.archive.org/ticker_tour/quotes/ticker/DJI/) | 13732.56 | +5.53 | (+0.04%)  
----|---|---|---  
-[Nasdaq](https://web.archive.org/ticker_tour/quotes/ticker/COMP/) | 2728.34 | +9.39 | (+0.35%)  
-[Russell 2K](https://web.archive.org/ticker_tour/quotes/ticker/RUT/) | 792.25 | +1.05 | (+0.13%)  
-[S&P 500](https://web.archive.org/ticker_tour/quotes/ticker/SPX/) | 1517.52 | +1.56 | (+0.10%)  
-[S&P 100](https://web.archive.org/ticker_tour/quotes/ticker/OEX/) | 708.52 | +2.18 | (+0.31%)  
-Quotes are delayed 20 minutes.  
-  
-[**Free Annual Reports**](http://smallcapnetwork.ar.wilink.com/)
+[](https://web.archive.org/vtok/)
+
+Quotes are delayed 20 minutes.
+
+[**Free Annual Reports**](http://smallcapnetwork.ar.wilink.com/) | 
 
 **Your privacy is very important to us. We want to make your experience with the Small Cap Network as enjoyable and rewarding as possible, and we want you to visit our website with complete confidence.**
 
@@ -89,29 +85,29 @@ Small Cap Network reserves the right to revise, amend, or modify this policy and
 
 [](https://web.archive.org/spicy_pickle/)
 
-Tue, Dec 11, 2007 @ 06:27 am
+Wed, Jun 4, 2008 @ 12:13 pm
 
-Today’s the big day…or at least another big day. On Tuesday we’ll hear from Ben Bernanke and Co. about the latest Fed Funds rate decision, which most of the market expects to be a 25 basis point reduction. I tend to agree. What I and the rest of the world still can’t seem to decide is [...]  
-
-
-Tue, Dec 11, 2007 @ 06:15 am
-
-Smart Energy Solutions has been ‘fishing’ for a little over a year now, and they’ve really started to catch some pretty nice ones too.  For perspective, in 2006, revenues of $1.8 million easily topped 2005’s total of $151K. As nice as those bigger fish were though, I have to say I think the company just [...]  
+Did you see it? Did you see where our bulletin board stock pick SpongeTech Delivery Systems (SPNG) touched new multi-month highs today? OK, you probably didn’t. Visually, it’s almost imperceptible on a chart. The stock hadn’t traded above 4.9 cents in months, though it had reached that high a handful of times in recent weeks. Today [...]  
 
 
-Fri, Dec 7, 2007 @ 01:54 pm
+Wed, May 28, 2008 @ 10:53 am
 
-Back in October, I used the Small Cap Network site as a platform as something a little more op-ed than I usually write. The subject was the growing reliance on small biotech outfits that large pharmaceutical companies were experiencing. It was an interesting reality if I say so myself (how modest of me), and I think it was accented today by a similar article [...]  
+There are two things that immediately come to mind about our Tenet Healthcare (THC) stock pick (so far). The first is, it’s been profitable. The second thing is, it’s been one wild ride. The ups and downs have been wide enough to make a sailor seasick. Good news though….I think one more good runup like [...]  
 
 
-Fri, Dec 7, 2007 @ 09:54 am
+Tue, May 27, 2008 @ 01:16 pm
 
-It's been less than a month since we picked Tenet Healthcare (NYSE: THC), but we're already up 41% on the trading idea. More importantly, however, it appears as if we've broken above a temporary ceiling. Maybe now we can proceed all the way up to our target gain of 88%. Just to recap, we became interested...
+An e-mail we received today reminded me to remind all of you that we invite any and all inquiries. Our focus is small cap stocks, but if there’s a burning question all of our readers can learn from, send ‘em on. You can send us an e-mail, but if it’s just as easy, you’re always [...]  
 
-Tue, Dec 4, 2007 @ 05:17 am
 
-Good news from Spongetech Delivery Systems Inc. (OTCBB: SPNG) this morning, and perhaps some even better news about a potential short-covering rally for the stock. More on that in a second. First up, Spongetech's trademark has officially been approved by the U.S Patent and Trademark Office. The company...
+Mon, Jun 9, 2008 @ 04:20 pm
 
-Fri, Nov 30, 2007 @ 04:21 am
+In my morning comments I mentioned a blaring disparity among the indices. The S&P 500 and the Dow Jones Industrial Average both looked like they were fighting an uphill battle, while the NASDAQ and the Russell 2000 seemed to be holding up relatively well. After seeing today's action - which was pretty...
 
-I love the end of the year. It's usually a great time for stocks, and particularly strong for small caps. I think December of 2007 could be even better than usual for small caps, thanks to a healthy pullback in November. If it was also around this time of year I found a company with a market cap about...
+Thu, Jun 5, 2008 @ 07:20 am
+
+In a blog entry yesterday I was explaining why I felt SpongeTech Delivery Systems (OTCBB: SPNG) was on the verge of a breakout. The resistance at the 4.9 cent level has been under attack for some time now, and the attack has been getting stronger (on higher volume). In fact, SPNG hit 5 cents yesterday...
+
+Tue, Jun 3, 2008 @ 06:40 am
+
+Last week when I was singing the praises of Voyant's RocketStream, I had a feeling it was something big. A technology that actually makes the internet work up to 200 times faster? No wonder Nielson Mobile wanted it! With somebody else is embedding the very same technology into their own software (less...
