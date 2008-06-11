@@ -1,90 +1,114 @@
-> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192726id_/http%3A//carsales.com.au/pls/carsales/%21cs_content.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611141336id_/http%3A//www.carsales.com.au/carsales-info/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy : carsales.com.au
-
-carsales.com.au Ltd. provides the following privacy statement: 
-
-This privacy policy does not apply to parties that may be linked or associated with our website. Those website owners are responsible for the privacy of the information they collect and should be contacted directly for details of their privacy policies. 
-
-**What information does carsales.com.au Ltd. collect?**  
-carsales.com.au Limited records information from persons who visit websites operated by carsales.com.au*(see end of this page) and or create an online advertisement, complete online forms, complete surveys or send us emails. This information is collected for business purposes. The types of information we keep on record will depend on the advertisement that you create, or the type of form or survey you complete or the product or service you request. Generally we keep a record of the following types of information about you: 
-
-Cookies may be used to store visitors' preferences and to record session information. 
-
-When you visit carsales.com.au, the following information is recorded for statistical purposes: 
-
-**Note:** Some information disclosed to carsales.com.au is passed on to other organisations or individuals so that they can help with browser inquiries; details are described below. Other than what is described below, carsales.com.au will not pass on or sell information that relates to, or can be used to identify any individuals. 
-
-**How does carsales.com.au Ltd. use the information collected?**  
-All information disclosed to carsales.com.au Ltd may be accessed by authorised carsales.com.au Ltd. Staff who may access your information to fulfil your request. 
-
-**Advertisers**
-
-If you are an advertiser on www.carsales.com.au your information is held confidentially in a secure (see security) database. Some of your information will be published in your advertisement, in accordance with your instructions and for the period during which your advertisement is active. Your information is only accessible for alterations by you in your capacity as advertiser or by approved carsales.com.au staff. It is the advertiser's responsibility to ensure that their details on the carsales.com.au website are current and correct. 
-
-Security & Scam Alert: Do not provide your log in details to anyone in response to email or phone requests. [Click here](http://www.carsales.com.au/pls/carsales/!cs_content.private_hints#virusorscam) for more information. 
-
-**Browsers**
-
-**Privately Advertised Used Car Enquiries**  
-If you have submitted your details to inquire about a privately advertised used car, the information may be accessed and reviewed by our authorised carsales staff and is passed onto the advertiser of the vehicle. If you do not wish for your information to be passed on, please do not complete our online inquiry forms. 
-
-**Licensed Dealers Advertised Cars**  
-When completing an online form to inquire about a new or used car for sale from a licensed car dealership, the information provided may be accessed and reviewed by our authorised carsales staff and may be passed on to the licensed car dealer or other parties, (i.e. used cars: the owner of the vehicle; new cars: the nearest dealer(s) or other parties to suit your needs). The information that you provide is given to the licensed dealer or other parties to allow them to contact you in relation to the supply of information, testing and sale of the vehicle. The licensed car dealer or other parties are required to follow their own privacy guidelines with your information once received from carsales.com.au Ltd. If you do not wish for your information to be passed on, please do not complete our online inquiry forms. 
-
-carsales.com.au Ltd may undertake a survey to determine your use and satisfaction in relation to your inquiry. 
-
-**Finance and Insurance Enquiries**  
-When you enquire about finance or insurance, you will be asked to submit certain information. This information may be accessed and reviewed by authorised carsales.com.au Ltd. staff and may in addition be passed onto finance or insurance professionals from a third party organisation. This process is designed to assist you in obtaining information and services related to finance, insurance and other products to suit your requirements. If you do not wish for your information to be used in this way, please do not complete our online Finance or Insurance enquiry forms. 
-
-carsales.com.au Ltd may undertake surveys to determine your use and satisfaction in relation to your inquiry. 
-
-**Vehicle Inspections**  
-When you enquire about Vehicle Inspections, you will be asked to submit certain information. This information may be accessed and reviewed by authorised carsales.com.au Ltd. staff and may in addition be passed onto a third party organisation so that they can assist with your enquiry. This process is designed to assist you in obtaining products or services to suit your requirements. If you do not wish for your information to be used in this way, please do not complete our online Vehicle Inspection forms. 
-
-carsales.com.au may undertake surveys to determine your use and satisfaction in relation to your inquiry. 
-
-**Other Online Forms:**  
-When completing online forms for: 
-
-  * **News and special offers from carsales.com.au Ltd.** , you will be contacted by carsales.com.au via email with newsletters and details of special offers as per your request. You can opt out from this service at any time by following the instructions included in the newsletter or special offers sent to you or by clicking on the "contact us" link at the bottom of this page.
-  * **Auto Alerts** , you will be contacted by carsales via email updating you on the latest vehicles as per your request.
-  * **Email a Friend** , the details of the vehicle selected will be forwarded to the email addresses you supply to carsales.com.au.
+# Privacy Policy - carsales.com.au
 
   
-All information received from browsers is stored in a secure (see security) format for carsales.com.au's own use. 
+**About this Policy**  
+This policy sets out how carsales.com.au Limited (carsales) collects, uses and discloses your personal information.
 
-If you send us an email we will use your personal information to respond to your request. 
+If you disclose personal information to third parties this policy will not apply and you will be subject to the privacy policy of that third party.
 
-**SMS Messages**  
-We do not purchase or sell lists of mobile phone numbers. 
+By accessing or using carsales services, including the carsales Network you agree to the use and disclosure of your personal information in the manner described in this policy.
 
-**Can I access my personal information that I have previously given to carsales.com.au Limited?**  
-Yes you can. You can request access to all of your personal information held in the secure carsales.com.au Ltd. database. We endeavour to ensure your information is true and correct at all times. Upon request, we can make adjustments and update your details to reflect correct data. 
+Words defined in the carsales Terms and Conditions of Use have the same meaning in this Privacy Policy.
 
-To send a request, please [click here](https://web.archive.org/web/20061205192726id_/http%3A//carsales.com.au/pls/carsales/!cs_content.contact) to contact us. Your request will be processed within 7 working days, depending on the nature of the request. There is no fee to access this information. 
+**Carsales and privacy**  
+carsales.com.au is bound by the Privacy Act (1988).
 
-**Security**  
-In addition to the above assurances, any information held by carsales and related individuals is held secure in a manner designed to protect information from internal and external access by anyone other than specifically authorised carsales staff. 
+**What personal information is collected**  
+carsales collects personal information that it considers necessary for it, or its related bodies corporate to provide the range of services they offer.
 
-**Changes to the carsales.com.au Ltd. Privacy Statement**  
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to "[opt out](mailto:privacyofficer@carsales.com.au?Subject=Privacy%20Opt%20Out)"(1) of these uses. If you are concerned about how your information is used, you should check back at our website periodically or contact us at the contact points at the base of this statement. 
+Personal information collected by carsales may include:
 
-**Contact Information**  
-Contact details for carsales.com.au Ltd. are as follows:
+  * your name, address and contact details
+  * bank account and credit account details
+  * user ID's and passwords
+  * the services provided to you
+  * records of communications with carsales including records using Communications Services
+
+
+
+**How is personal information collected**  
+carsales collects personal information in a number of ways, including:
+
+  * directly from you when you provide information directly to carsales in person, by phone or in writing (whether electronic or otherwise)
+  * directly from you when you communicate with carsales or any other person using carsales Communications Services
+  * from third parties such as:
+    * carsales related companies; resellers of carsales services and service providers to carsales
+    * operators of linked or served web sites, applications and advertising on the carsales network
+  * from organisations identified or described under the heading "How is personal information disclosed"
+
+
+
+**How is personal information used**  
+Your personal Information may used for the following purposes:
+
+  * to provide the services requested by you
+  * to manage those services including, customer service and billing
+  * to research, develop and improve carsales services
+  * to conduct surveys to determine use and satisfaction with carsales services
+  * to generate statistics in relation to the carsales Network
+  * to promote and market special offers and other services to you  
+
+    * If you do not want to receive these please let us know by clicking on the "contact us" link at the bottom of this page and advising us that you would like to "opt out". In addition, if we email you we will include a way for you to "opt out" of receiving further emails.
+  * for purposes connected with the operation of the carsales Network
+
+
+
+**How is personal information disclosed**  
+carsales may disclose personal information to individuals and organisations other than carsales. The organisations to which we may disclose personal information include:
+
+  * carsales staff and carsales bodies corporate
+  * the public if you advertise with carsales or use publicly available Communications Services
+  * individuals and organisations that advertise with carsales if you submit an enquiry with carsales. Depending on your enquiry these may include:
+    * private advertisers
+    * licensed car dealers
+    * car brokers
+    * operators of Linked Sites
+    * financial service providers
+    * insurance service providers
+    * vehicle inspection service providers
+      * If you do not want carsales to disclose your personal information to these individuals and organisations do not submit enquires
+  * outsourced service providers who assist carsales to provide its services including:
+    * information technology providers
+    * marketing and market research advisers
+    * professional advisers
+  * resellers of carsales services
+  * organisations involved in a sale/transfer of carsales assets, business or shares
+  * government and regulatory authorities as required by law
+
+
+
+**How to access your personal information**  
+You generally have a right to access your personal Information. If you wish to access your personal information please [Click here](https://web.archive.org/carsales-info/contact-carsales.aspx) or on the "contact us" link at the bottom of this page. Please remember to provide as much detail as you can as this will help us to find the information. There is no charge for this service.
+
+**What if you don't provide personal information?**  
+If you choose not to provide personal information when requested, carsales may not be able to provide you with the full range of carsales services.
+
+**carsales Network, Linked Sites and personal information**  
+When you visit a website or use an application on the Carsales Network, carsales records anonymous information such as IP address, time, date, referring URL, pages accessed and documents downloaded type of browser and operating system.
+
+Cookies may be used by carsales to help carsales provide you with the full range of services it offers, remember your preferences, measure and analyse usage of the carsales Network and for security. You may adjust your Internet browser to disable cookies. If you cookies are disabled carsales may not be able to provide you with the full range of carsales services.
+
+Cookies may collect and store your personal information. This policy applies to personal information collected via cookies.
+
+The carsales Network may include links to third party web sites, co branded web sites and applications and advertising served to the carsales Network by third parties (Linked Sites). Companies who operate Linked Sites may collect personal Information through the use of cookies and otherwise. Carsales is not responsible for Linked Sites and recommends you read the privacy policy of Linked Sites before disclosing your personal information.
+
+**What if I have a problem?**  
+If you have a problem, complaint, want to change your personal information or just wish to enquire about privacy please contact us.
 
 Location: | 77 Atherton Road, Oakleigh VIC 3166  
 ---|---  
-Postal Address:    | Locked Bag 3333, Oakleigh VIC 3166  
+Postal Address: | Locked Bag 3333, Oakleigh VIC 3166  
 Phone: | +61 (03) 9093 8600 (Business Hours EST)  
 Contact: | Patricia Chalmers  
-Email: | [Click here](https://web.archive.org/web/20061205192726id_/http%3A//carsales.com.au/pls/carsales/!cs_content.contact) to contact us  
+Email: | [Click here](https://web.archive.org/carsales-info/contact-carsales.aspx) to contact us by email  
   
-We will try our best to answer any queries as quickly as possible.
-
-1 | "OPT OUT" is the description of a link on an email which when clicked enables the customer to request that their data no longer be included for this use.  
----|---  
   
-*carsales.com.au Ltd operates websites including [www.carsales.com.au](http://www.carsales.com.au/), [www.bikesales.com.au](http://www.bikesales.com.au/), [www.quicksales.com.au](http://www.quicksales.com.au/), [www.uniquecarsales.com.au](http://www.uniquecarsales.com.au/), [www.autogate.com.au](http://www.autogate.com.au/) and pages on other websites that may publish our content. 
+**How this policy changes**  
+This policy may change over time. All changes will be published on this website.
 
-**Return to Top**
+**About security and personal Information**  
+carsales takes reasonable steps to protect personal information collected from misuse, loss, unauthorised access, modifications or disclosure.
+
+_Version 2.0 (July 2007)_
