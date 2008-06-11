@@ -1,85 +1,6 @@
-> *The following text is extracted and transformed from the dealsonwheels.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213013657id_/http%3A//www.dealsonwheels.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsonwheels.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611232833id_/http%3A//www.dealsonwheels.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-|  [DEALS ON WHEELS](http://www.dealsonwheels.com/)  
----  
-[Home](http://www.dealsonwheels.com/)  
-[Sell Your Vehicle](https://secure2.dealsonwheels.com/sellit/sell-step-1.aspx)  
-[Subscriptions](http://www.dealsonwheels.com/subscriptions/)  
-[Search New Listings](https://web.archive.org/web/20071213013657id_/http%3A//www.dealsonwheels.com/new/)  
-[Auctions and Events](https://web.archive.org/web/20071213013657id_/http%3A//www.dealsonwheels.com/events/)  
-[Contact Us](http://www.dealsonwheels.com/contactus/)  
-[About Us](http://www.dealsonwheels.com/aboutus/)  
-   
-SEARCH BY DEALERS  
-[Vehicle Dealers](http://www.dealsonwheels.com/dealers/)  
-[Truck Dealers](http://www.dealsonwheels.com/truckdealers/)  
-[Repairable Dealers](http://www.dealsonwheels.com/repairable/)  
-[Motorcycle / ATV / Watercraft](http://www.dealsonwheels.com/motorcycles/)  
-[Trailer Dealers](http://www.dealsonwheels.com/trailers/)  
-[Parts Dealers](http://www.dealsonwheels.com/parts/)  
-[Catalogs](http://www.dealsonwheels.com/catalog/)  
-  
-* * *  
-  
-[Performance Parts](http://www.dealsonwheels.com/partsandaccessories/performance.aspx)  
-[Parts and Accessories](http://www.dealsonwheels.com/partsandaccessories/)  
-   
-SEARCH BY CATEGORY  
-[Advanced Search](http://www.dealsonwheels.com/search/)  
-[Search by Era](http://www.dealsonwheels.com/erasearch/)  
-[Street Rods / Hot Rods / Customs](http://www.dealsonwheels.com/category/Default.aspx?searchtype=streetrod-hotrod)  
-[Project Vehicles](http://www.dealsonwheels.com/category/Default.aspx?searchtype=project)  
-[Replica / Kit Cars](http://www.dealsonwheels.com/category/Default.aspx?searchtype=replica-kit)  
-[Special Interest Vehicles](http://www.dealsonwheels.com/category/Default.aspx?searchtype=specialinterest)  
-[Custom Sport Tuners](http://www.dealsonwheels.com/category/Default.aspx?searchtype=customizedcompact)  
-[Auction Vehicles](http://www.dealsonwheels.com/category/Default.aspx?searchtype=auction)  
-  
-* * *  
-  
-[Cars](http://www.dealsonwheels.com/category/Default.aspx?cat=1)  
-[SUVs / Jeeps](http://www.dealsonwheels.com/category/Default.aspx?cat=2)  
-[Vans](http://www.dealsonwheels.com/category/Default.aspx?cat=3)  
-[Trucks](http://www.dealsonwheels.com/category/Default.aspx?cat=4)  
-[Race Cars](http://www.dealsonwheels.com/category/Default.aspx?cat=6)  
-[Limousines](http://www.dealsonwheels.com/category/Default.aspx?cat=7)  
-[Motorcycles](http://www.dealsonwheels.com/category/Default.aspx?cat=8)  
-[ATVs / Snowmobiles](http://www.dealsonwheels.com/category/Default.aspx?cat=9)  
-[RVs / Campers](http://www.dealsonwheels.com/category/Default.aspx?cat=10)  
-[Watercraft](http://www.dealsonwheels.com/category/Default.aspx?cat=11)  
-[Trailers](http://www.dealsonwheels.com/category/Default.aspx?cat=12)  
-[Parts](http://www.dealsonwheels.com/category/Default.aspx?cat=13)  
-[Wanted](http://www.dealsonwheels.com/category/Default.aspx?cat=14)  
-[Miscellaneous](http://www.dealsonwheels.com/category/Default.aspx?cat=15)  
-   
-POPULAR SEARCHES  
-**[Chevrolet Camaro](http://www.dealsonwheels.com/browse/Chevrolet_Camaro.aspx)**  
-**[Ford Mustang](http://www.dealsonwheels.com/browse/Ford_Mustang.aspx)**  
-**[Chevrolet Corvette](http://www.dealsonwheels.com/browse/Chevrolet_Corvette.aspx)**  
-**[Chevrolet Chevelle](http://www.dealsonwheels.com/browse/Chevrolet_Chevelle.aspx)**  
-**[Dodge Charger](http://www.dealsonwheels.com/browse/Dodge_Charger.aspx)**  
-**[Dodge Challenger](http://www.dealsonwheels.com/browse/Dodge_Challenger.aspx)**  
-**[Chevrolet Impala](http://www.dealsonwheels.com/browse/Chevrolet_Impala.aspx)**  
-**[Pontiac Trans Am](http://www.dealsonwheels.com/browse/Pontiac_Trans_Am.aspx)**  
-**[Pontiac GTO](http://www.dealsonwheels.com/browse/Pontiac_GTO.aspx)**  
-**[Pontiac Firebird](http://www.dealsonwheels.com/browse/Pontiac_Firebird.aspx)**  
-**[Chevrolet Nova](http://www.dealsonwheels.com/browse/Chevrolet_Nova.aspx)**  
-**[Plymouth Barracuda](http://www.dealsonwheels.com/browse/Plymouth_Barracuda.aspx)**  
-**[Chevrolet El Camino](http://www.dealsonwheels.com/browse/Chevrolet_El_Camino.aspx)**  
-**[Chevrolet Monte Carlo](http://www.dealsonwheels.com/browse/Chevrolet_Monte_Carlo.aspx)**  
-**[Ford Thunderbird](http://www.dealsonwheels.com/browse/Ford_Thunderbird.aspx)**  
-   
-BUYING RESOURCES  
-[Financing](http://www.dealsonwheels.com/financing/)  
-[Inspections](http://www.dealsonwheels.com/inspections/)  
-[Insurance](http://www.dealsonwheels.com/insurance/)  
-[Parts Dealers](http://www.dealsonwheels.com/parts/)  
-[Transport](http://www.dealsonwheels.com/transport/)  
-[Tires and Wheels](http://www.dealsonwheels.com/wheels/)  
-  
- 
 
 **Privacy Policy for DealsOnWheels.com, a division of Cox Auto Trader, Inc.**
 
@@ -154,11 +75,5 @@ back to the top
 
 
 
-|    
-[](http://www.dealsonwheels.com/common/url.aspx?cd=4635)
+  
 
-[](http://www.dealsonwheels.com/common/url.aspx?cd=4683)
-
-[](http://www.dealsonwheels.com/common/url.aspx?cd=4637)
-
-[](https://web.archive.org/web/20071213013657id_/http%3A//www.dealsonwheels.com/partsandaccessories/performance.aspx)
