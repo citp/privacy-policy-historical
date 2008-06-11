@@ -1,69 +1,69 @@
-> *The following text is extracted and transformed from the trovix.com privacy policy that was archived on 2007-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070923021619id_/http%3A//www.trovix.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trovix.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611074935id_/http%3A//www.trovix.com/about/privacy.jsp) for the most accurate reproduction.*
 
-# Trovix, Inc. - Privacy Policy
+# Trovix - Privacy Policy
 
-Trovix respects the privacy of our customers. As part of this commitment the following privacy statement highlights our policies as they pertain to protecting our customers' information. If you object to any or all of this Privacy Statement you should not use the site.
+Trovix respects your privacy and provides this notice to explain our approach to protecting your privacy. This Policy applies to the Trovix Service ('Service'), as provided on our website at trovix.com. If you object to any or all of this Privacy Policy, you should not provide your information.
 
-**Definitions**
+If you choose to purchase advertising on the site, or use other advanced features, you will be advised at that time of how any additional information you provide will be handled.
 
-"Trovix Sites" - the Trovix service at recruit.trovix.com and corporate web site [www.trovix.com](http://www.trovix.com/). "Company" - A company who has subscribed to the Trovix service. "Customer" - A user of the Trovix service who is acting on behalf of a Company. "Agreement" - The legal document signed which is the basis for the Company subscription to Trovix (Beta Agreement or Service Level Agreement)
+This Privacy Policy is effective as of **November 1, 2007**. ****
 
-**Information Collection**
+**Information we collect and how we use it**
 
-As part of the use of the Trovix Sites, Customers can upload job requisitions, resumes, and other data to the Trovix Sites. In addition Trovix collects certain information about the Company and Customers who use the service. Job requisitions, resumes, and other information uploaded to the Trovix Sites by Customers is owned by the Company. Personal information that is collected as part of the registration process is owned by Trovix.
+As you use the Service, we may collect the following types of information:
 
-**Information Usage**
+  * • **Information provided by you –** You may choose to give us personal information through forms on the web page or document uploads. If you choose to purchase products or services through our site, you may give us credit card information or other payment and account information, which will be stored in encrypted form on secure servers.
+  * • **Cookies –** Cookies are small text files which are used to uniquely identify your browser. Like most websites, Trovix uses cookies to understand your usage of our site and improve the quality of our service. The cookies we use are encrypted and do not contain any information about you. You may disable cookies in your browser, but our Service may not function properly if you do this.
+  * • **Browsing history –** When you use the Service, some of your browsing history will automatically be identified in our servers, such as the information about the browser and other equipment you use to access the service, the IP address used for the current session, and links you click on while visiting our site. Additionally, referring sites may pass us information about how you got to our site. We may also store the history of changes to your profile, of purchases from Trovix, and of information exchanges through the Service.
 
-The personal information collected by Trovix is used to set up the Trovix service for the Company and its Customers. In addition it may be used to ensure the delivery of excellent service, aid in the resolution of technical issues, and allow Trovix to update Customers with regards to new features and services.
 
-**Disclosure to Third Parties**
 
-Trovix will maintain the confidentiality of our Customer's information submitted to the site. This information will only be disclosed to third parties (such as partners or vendors) as follows: 1. If required by law 2. As stated in the Agreement. 3. As stated on Trovix Sites when the information was collected. (For example as stated in the user agreement and privacy statement at the time registration information is collected.) 4. As aggregate information not associated with an individual Customer, Company, or resume 5. In the event a payment processor is used to process payments (in this case the processor will not store the data). 6. In the event Trovix is acquired, merged or other change of control or liquidated.
+We use this information to help us provide, personalize and improve our Service. We may also use aggregated or anonymized information to describe our user base in marketing and sales materials, provided this information cannot be used to identify you. We may also use this information to select which advertisements to display to you. In this manner it may be accessed by our employees or contractors we work with.
 
-**Data Collection**
+We will use your information and documents as described above. If we need to use it in any other way, we will contact you, and you may then give or withhold your consent.
 
-**Registration:** Trovix collects information such as name, company name, address, phone number and email address from the Trovix Customers. The purpose of collecting this information is to grant access to the Trovix Sites as well as allowing Trovix to contact Customers as described in Information Usage. This information can be viewed and modified at any time on the site.
+**Disclosure to third parties**
 
-**Job Description:** Customers submit information describing employment openings to the Trovix Sites on behalf of the Company. Customers can only view Job Descriptions belonging to their respective Companies. The information provided remains the property of the Company.
+If you choose to post or publish information or send information to third parties through the Service, we will do so on your behalf. Trovix does not otherwise rent or sell any of your information to third parties except when we have your specific permission. These third parties may have a different privacy policy than Trovix, so we encourage you to review their privacy policies prior to sharing your information if you have concerns.
 
-**Resumes:** Resumes are entered into the Trovix system from time to time. This data may be sent via email or uploaded directly to the Trovix Sites. Customers are only permitted to view resumes that belong to their respective Companies. Resumes remain the property of the Company whose Customer sent them to the Trovix Sites.
+As a rule, we will not give away information or documents or browsing history that personally identify you, except when we have your permission. However, in some situations we may need to disclose information to third parties:
 
-**Resume Searches:** Trovix allows for advanced searches to be conducted on resumes. Searches can use key words, job descriptions or both. Job descriptions are stored in the system when they are created. Key word searches are stored in the system in aggregate with no identifying information. Trovix uses this information, in aggregate only, to constantly enhance the quality of search results by enhancing the Trovix knowledge base. This information is the property of Trovix.
+  1. 1\. If required by law, or to comply with subpoenas or court orders, or to defend against legal claims, or to exercise or establish our legal rights;
+  2. 2\. If we believe it is necessary to protect our users against illegal activities or suspected fraud, or to prevent such activities, in situations involving potential threats to the physical safety of a person, or in cases involving violations of Trovix’s [Terms of Use](https://web.archive.org/web/20080611074935id_/http%3A//www.trovix.com/about/terms.jsp);
+  3. 3\. As stated on the Trovix site when the information was collected.
+  4. 4\. Trovix may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. Trovix will notify you before transferring your information to a new entity as part of a merger, acquisition, reorganization or sale of some or all of its assets if the new entity's processing of your information will materially differ from that set forth in this Privacy Policy.
 
-**Resume Rating:** Customers are able to provide feedback on the results of searches in order for the system to learn Customer individual preferences. The Customer preference information is stored in the system for the sole purpose of enhancing the quality of the search. Customers can modify this information on the Trovix Sites. Trovix maintains a log of this information for the proper operation of the service. This information is owned by the Customer's respective Company.
 
-**Attribute Profiles:** The resume rating process creates a profile of a Customer's preferences used to enhance the quality of the search results. This data is stored in the system and is used solely for improving the quality of the search results. This information is owned by the Customer's respective Company.
 
-**Incoming email:** Users may send Trovix email during their use of the Trovix Sites. These email messages are processed and then may either be destroyed or kept for future reference. This information is owned by Trovix.
+**Aggregate information**
 
-**Log Analysis**
+We may aggregate anonymous user data including browsing history in order to understand usage patterns of the Service and improve our Service. We may also use this aggregated data in publicly describing our Service or may share it with third parties. Such aggregated data does not contain any information that can be used to identify individual users.
 
-The Trovix Sites run on Web Servers which collect information such as IP addresses, URLs and other information specific to the browser used to access the Trovix Sites. This information is used to administer the Trovix Sites, trouble shoot technical issues and analyze aggregate traffic trends. This information is not associated with an individual Customer.
+**Trovix communications with you**
 
-**Cookies**
+We will communicate with our users through email and our website. We may contact you with news and updates, opportunities, and other information relevant to the Service and your usage of it. We may also send you some promotional information unless you opted out of receiving such emails.
 
-Cookies are small amounts of data that web sites can send to a user's browser. This data is then sent to the site with every user request. There are two types of Cookies, session based or persistent.
+You may opt out of receiving communications from us at any time. All of our emails will have an unsubscribe link, and registered users can also opt out of communications while on the site. We reserve the right to send you certain administrative messages regarding the use of your account.
 
-Session based Cookies are set by the site and expire when the user leaves the site. Trovix uses these Cookies to track the login status of users. These cookies are encrypted and contain no personal user information. Customers who disable Cookies in their browser will be able to browse the Trovix Sites but will not be able to log in and use the service.
+**Third party sites**
 
-Persistent Cookies are those that can be set by a Web Site and remain on the Customer machine even after leaving the Trovix Sites. Trovix Sites do not use Persistent Cookies.
+Trovix may include links to other sites. These sites have their own privacy policies which users are encouraged to read. Trovix is not responsible for the privacy policies of these sites nor the use of information submitted on those sites.
 
-**Third Party Sites**
+**Accessing and modifying your information**
 
-Trovix Sites may include links to other sites. These sites have their own privacy policies which users are encouraged to read. Trovix is not responsible for the privacy policies of these sites nor the use of information submitted on those sites.
+Users can view, correct, update, or delete any personal information submitted to the Service at any time by logging in to their accounts. Any deleted information becomes immediately unavailable for use within the Trovix website; however, deleted information may remain in back-up storage for some period of time after deletion. We also have no control over any previous disclosures to third parties that you had authorized us to make.
 
 **Security**
 
-Trovix knows that information Customers submit to the Trovix Sites is confidential in nature. As such, Trovix uses industry standard security measures to safeguard Company and Customer information against loss, misuse and alteration while under the Trovix's control. These measures include 128 bit SSL encryption of all web traffic between the Trovix web servers and the user browser and requiring unique user names and passwords to access the Trovix Sites. Trovix Sites use security systems including firewalls and are hosted in a secure location with restricted access to the physical computers that run the Trovix Sites. Questions about security should be forwarded to Trovix through the "Feedback" link.
+Trovix knows that information and documents you submit to the Service may be confidential in nature. Trovix uses industry standard security measures to safeguard your information and documents against loss, misuse, and alteration while under Trovix’s control.
 
-**Opt Out Policy**
+The Trovix site uses security systems including firewalls and is hosted in a secure location with restricted access to the physical computers that run the Trovix site.
 
-Customers can indicate their desire to stop receiving email messages from Trovix by contacting Trovix through the "Feedback" link and indicating their e-mail and user name. Trovix may also, at times, send emails to users offering them to opt in to different communications from Trovix.
+**Notification of changes**
 
-**Correct or Update Information**
+Trovix may need to update this Privacy Policy from time to time. If so, we will post the updated Privacy Policy on our website located at [trovix.com](https://web.archive.org/web/20080611074935id_/http%3A//www.trovix.com/about/privacy.jsp). We may send you an email so that you are aware of updates of the policy. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this site will be subject to the then-current Privacy Policy.
 
-Customers can correct or update any personal information submitted to the Trovix Sites at any time by contacting Trovix through the "Feedback" link.
+**Questions and comments**
 
-**Notification of Changes**
-
-Should Trovix change its privacy policy it will communicate these changes by posting the new statement on the Trovix Sites. Customers will have 30 days from the date of posting to notify Trovix if they do not accept the changes. In this case the Customer information will be treated in accordance with the privacy policy in effect at the time the information was collected.
+If you have any questions or concerns regarding this Privacy Policy, please email us at:  
+. 
