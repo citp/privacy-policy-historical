@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almanacnews.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014040530id_/http%3A//www.almanacnews.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almanacnews.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611031022id_/http%3A//www.almanacnews.com/privacy.php) for the most accurate reproduction.*
 
 # Almanac: Privacy Policy
 
