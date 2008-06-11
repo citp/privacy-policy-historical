@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ononesoftware.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230183434id_/http%3A//www.ononesoftware.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ononesoftware.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611092547id_/http%3A//www.ononesoftware.com/privacy.php) for the most accurate reproduction.*
 
-# onOne Software - Privacy Policy
-
-## Privacy Policy
+# onOne Software - Privcay Policy
 
 ### Your Information
 
@@ -16,15 +14,9 @@ onOne Software will send notifications regarding product updates and technical s
 
 If you do not want onOne Software or onOne Software representatives to contact you, you may "opt-out" at any time. You may "opt-out" by contacting onOne Software's Customer Service Department or by following the instructions included in the email correspondence.
 
-  
-
-
 ### Our Web Site and Cookies
 
 onOne Software's website utilizes visitor log files or cookies as well as hosted tracking with our website. The information collected with visitor cookies and through the hosted tracking is used to gain a better understanding of which sections of our site are most important to our users as well as identify possible navigation issues. This allows us to enhance your user experience in the future. The data collected from these visitor cookies and hosted tracking does not collect any personally identifiable information and is used in aggregate form only.
-
-  
-
 
 ### Protecting Your Personal Information
 
@@ -35,6 +27,3 @@ At times, onOne Software may hire other companies to provide limited services on
 onOne Software may occasionally present a special contest or promotion sponsored by another company. You may be asked to provide personal information in order to quality for this contest or promotion. If your personal information will be shared with the sponsor(s), you will be notified prior to your submission of personal information.
 
 Finally, while we will make every effort to preserve the privacy of our users, at times we may be required by law to disclose personal information.
-
-|  |   
----|---|---
