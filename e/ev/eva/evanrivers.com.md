@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evanrivers.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221105308id_/http%3A//pp.evanrivers.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evanrivers.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611195626id_/http%3A//pp.evanrivers.com) for the most accurate reproduction.*
 
 # EvanRivers - Privacy Policy
 
