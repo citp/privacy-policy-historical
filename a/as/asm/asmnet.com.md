@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asmnet.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230233505id_/http%3A//www.asmnet.com/command/privacy_showHome.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmnet.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611160956id_/http%3A//www.asmnet.com/command/privacy_showHome.cfm) for the most accurate reproduction.*
 
 # [advantage sales & marketing]
 
 |  |  |  |   
 ---  
-| [](https://web.archive.org/web/20071230233505id_/http%3A//www.asmnet.com/command/about_showHome.cfm) |  | [](https://web.archive.org/web/20071230233505id_/http%3A//www.asmnet.com/command/services_showHome.cfm) |  | [](https://web.archive.org/web/20071230233505id_/http%3A//www.asmnet.com/command/classes_showHome.cfm) |  | [](https://web.archive.org/web/20071230233505id_/http%3A//www.asmnet.com/command/marketing_showHome.cfm) |  | [](https://web.archive.org/web/20071230233505id_/http%3A//www.asmnet.com/command/biz_showHome.cfm) |  | [](https://web.archive.org/web/20071230233505id_/http%3A//www.asmnet.com/command/international_showHome.cfm) |  | [](https://web.archive.org/web/20071230233505id_/http%3A//www.asmnet.com/command/join_showHome.cfm) |  | [](https://web.archive.org/web/20071230233505id_/http%3A//www.asmnet.com/command/contact_showHome.cfm) |  | [](https://web.archive.org/web/20071230233505id_/http%3A//www.asmnet.com/command/locations_state.cfm) |   
+| [](https://web.archive.org/web/20080611160956id_/http%3A//www.asmnet.com/command/about_showHome.cfm) |  | [](https://web.archive.org/web/20080611160956id_/http%3A//www.asmnet.com/command/services_showHome.cfm) |  | [](https://web.archive.org/web/20080611160956id_/http%3A//www.asmnet.com/command/classes_showHome.cfm) |  | [](https://web.archive.org/web/20080611160956id_/http%3A//www.asmnet.com/command/marketing_showHome.cfm) |  | [](https://web.archive.org/web/20080611160956id_/http%3A//www.asmnet.com/command/biz_showHome.cfm) |  | [](https://web.archive.org/web/20080611160956id_/http%3A//www.asmnet.com/command/international_showHome.cfm) |  | [](https://web.archive.org/web/20080611160956id_/http%3A//www.asmnet.com/command/join_showHome.cfm) |  | [](https://web.archive.org/web/20080611160956id_/http%3A//www.asmnet.com/command/contact_showHome.cfm) |  | [](https://web.archive.org/web/20080611160956id_/http%3A//www.asmnet.com/command/locations_state.cfm) |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |    
 |  |   
@@ -137,4 +137,4 @@ Fax: (949) 797-9112
 
   
 |  |   
-©2007 Advantage Sales and Marketing, LLC | [Privacy Policy](http://www.asmnet.com/command/privacy_showHome.cfm) | [Terms of Use](http://www.asmnet.com/command/terms_showHome.cfm) | all rights reserved
+©2008 Advantage Sales and Marketing, LLC | [Privacy Policy](http://www.asmnet.com/command/privacy_showHome.cfm) | [Terms of Use](http://www.asmnet.com/command/terms_showHome.cfm) | all rights reserved
