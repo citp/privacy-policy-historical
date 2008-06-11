@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213164646id_/http%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612013500id_/http%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
 
 # AllAboutVision.com Privacy Policy
 
@@ -16,5 +16,5 @@ We use electronic records to compile statistics about how collectively our visit
 
 We use the personally identifiable information we collect for internal purposes such as improving our products and services, sending you e-mail (at your request only) about topics you have specified, to show you the categories of banner ads in which you are most likely to be interested and learning about our users' needs.
 
-We may share this information in aggregate form with our advertisers. For example, while we would never say, "Jen Jones wears contact lenses," we might tell our advertisers, "29% of our newsletter readers wear contact lenses."  
+We may share this information in aggregate form with our advertisers. For example, while we would never say, "Jen Jones wears contact lenses," we might tell our advertisers, "29 percent of our newsletter readers wear contact lenses."  
  
