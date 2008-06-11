@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indulekha.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013223826id_/http%3A//indulekha.com/about/2005/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indulekha.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611141700id_/http%3A//indulekha.com/about/2005/11/privacy-policy.html) for the most accurate reproduction.*
 
 # INDULEKHA» about us: PRIVACY POLICY
 
@@ -17,7 +17,7 @@ Indulekha allows users to opt-out of receiving communications from us. To unsubs
 
 5\. Indulekha reserves the right to provide aggregate demographic information of its user base to advertisers and others so as to attract pertinent advertisers to advertise on Indulekha. We do not share personal information of individual users with advertisers.
 
-6\. You will be able to send emails to others through the Indulekha. For example, you may post a comment on an article. Or you may send some pages to another one. In these instances, these emails or comment posts will list your name and email address in the header of the message. The recipients of these emails initiated by you/ readers of the comments will get to know your name and email address. Indulekha is not responsible for how these recipients use this information.
+6\. You will be able to send emails to others through Indulekha. For example, you may post a comment on an article. Or you may send some pages to another one. In these instances, these emails or comment posts will list your name and email address in the header of the message. The recipients of these emails initiated by you/ readers of the comments will get to know your name and email address. Indulekha is not responsible for how these recipients use this information.
 
 7\. Information provided by you via general email inquiries to Indulekha such as your email address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties.
 
