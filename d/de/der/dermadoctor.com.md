@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the dermadoctor.com privacy policy that was archived on 2000-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000607044436id_/http%3A//www.dermadoctor.com/privacystatement.asp%3FSID%3D13666) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dermadoctor.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611203743id_/http%3A//www.dermadoctor.com/privacystatement.asp%3FWID%3D%257BA4C2D466%252DFB4C%252D4985%252DBEE0%252D209AC1EFC40C%257D) for the most accurate reproduction.*
 
 # DERMAdoctor.com
 
-DERMAdoctor has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: DERMAdoctor. 
+DERMAdoctor has created this privacy statement in order to demonstrate our firm commitment to privacy. DERMAdoctor will not give out, share or sell your personal information to anyone at anytime. The following discloses our information gathering and dissemination practices for this website: DERMAdoctor.  
+
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
@@ -22,7 +23,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 **Choice/Opt-Out**
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+This site gives users the ability to opt out from our database to no longer receive future communication such as our newsletter. The user may also change personal information such as his/her email address at this location. To do so, go to your "[My Account](http://www.dermadoctor.com/myaccountemail.asp?WID=%7B15BBC63A%2DBF3C%2D4060%2DB6E2%2D78F7224FA450%7D)" settings or [click here](http://www.dermadoctor.com/myaccountemail.asp?WID=%7B15BBC63A%2DBF3C%2D4060%2DB6E2%2D78F7224FA450%7D). 
 
 You can send email to [info@dermadoctor.com](mailto:info@dermadoctor.com)
 
@@ -36,8 +37,7 @@ email [info@dermadoctor.com](mailto:info@dermadoctor.com)
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-Audrey Kunin, M.D.   
-DERMAdoctor   
-425 Washington, Suite 111   
-Kansas City, Mo. 64105  
-[info@dermadoctor.com](mailto:info@dermadoctor.com)
+DERMAdoctor, Inc.   
+310 W. 19th Terrace  
+Kansas City, Mo. 64108  
+[service@dermadoctor.com](mailto:service@dermadoctor.com)
