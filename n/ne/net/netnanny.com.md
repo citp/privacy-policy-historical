@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017043014id_/http%3A//www.netnanny.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612000852id_/http%3A//www.netnanny.com/support/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Net Nanny Parental Controls
 
@@ -35,4 +35,7 @@ This Privacy Statement is subject to change at any time, at the discretion of Co
 ContentWatch Corporate Office:  
 2369 West Orton Circle  
 Salt Lake City, Utah 84119 USA  
+
+
+  
 
