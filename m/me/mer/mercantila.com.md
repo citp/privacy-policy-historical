@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercantila.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213193530id_/http%3A//www.mercantila.com/content/notices/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercantila.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611225148id_/http%3A//www.mercantila.com/content/notices/privacy_notice) for the most accurate reproduction.*
 
 # Mercantila | Privacy Notice
 
@@ -14,7 +14,7 @@ You may interact with our site in one of two ways: contacting us by email or pla
 
 We also log certain non-personal information when you visit Mercantila, such as the type of browser (e.g., Netscape, Internet Explorer) used, the type of operating system (e.g., Windows XP, Mac OSX) used, and the domain of your Internet service provider (e.g., Earthlink, AOL, MSN). We log this information using ‘cookies,’ which are small data text files that Web sites store on your computer’s hard drive if your Web browser permits. Cookies, which can later be retrieved to identify you to Mercantila, make your use of our site easier, allow you to retrieve earlier shopping carts, and help us to maintain a secure site. **For your safety, you will be unable to shop on our site if your browser is not set to accept cookies**. 
 
-We only use or disclose to third parties the information you provide about yourself to fulfill an order, to enroll you in our or third party services you have requested, or to respond to your inquiries. 
+We only use or disclose to third parties the information you provide about yourself to fulfill an order, to enroll you in services you have requested, to respond to your inquiries, to request your feedback/review of your order experience or product, or to offer you related products or services. We do not rent or sell customer data. 
 
 We use the non-personal information we collect to analyze the overall traffic on our site. This analysis helps us make site design changes to improve your experience. 
 
