@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the ftp-anime.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011081605id_/http%3A//www.ftp-anime.com/page.php%3F19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftp-anime.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611141942id_/http%3A//www.ftp-anime.com/page/privacy-policy) for the most accurate reproduction.*
 
 # FTP-Anime: Privacy Policy
 
-rjd22, Wednesday 08 November 2006 - 18:48:22
-
-  
 Privacy Policy:  
 The following webpage outlines FTP-Anime.com's collection and use of personal information from it's users. FTP-Anime.com values the privacy of our members and users, we will never share any personal information of anyone who logs on to FTP-Anime.com with any 3rd Parties (meaning anyone outside of the FTP-Anime.com staff). This includes your e-mail address, name, and location. Upon logging on to FTP-Anime.com such things as your IP address and hostname are logged for statistical and security reasons.
 
@@ -28,4 +25,6 @@ Third Party websites may collect information from users of FTP-Anime.com, this i
 Website Policy Changes:  
 FTP-Anime.com reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regaurding this policy, or any other policy you may send them to us at admin+@+ftp-anime.com. If the policy stated something at the time you made a transaction that was not carried out until the poilicy changed, your transaction will go by the policy at the time and date you made it.
 
-By continuing to access FTP-Anime.com and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of FTP-Anime.com, and are also in agreeance with our Disclaimer and Terms of Use
+By continuing to access FTP-Anime.com and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of FTP-Anime.com, and are also in agreeance with our Disclaimer and Terms of Use 
+
+**You need to log in with a registered account to view the downloads.**
