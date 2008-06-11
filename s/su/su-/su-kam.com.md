@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the su-kam.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210174916id_/http%3A//su-kam.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the su-kam.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611184955id_/http%3A//www.su-kam.com/privacy_policy.html) for the most accurate reproduction.*
 
 # >>> SU-KAM <<< Leading manufacturer of Power Products in India, Only Power back up company manufacturing world class UPS, Home UPS, Online UPS, Inverters, Batteries, Battery Chargers, Solar Products
 
