@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208142537id_/http%3A//threadless.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611073653id_/http%3A//www.threadless.com/privacypolicy) for the most accurate reproduction.*
 
 # Threadless T-Shirts - Designer Clothing Submissions - Tees, Tshirts and T shirts!
 
@@ -91,15 +91,15 @@ privacypolicy@threadless.com
 
 [](http://www.threadless.com/news)
 
-_Update:_ Dec 06, '07
+_Update:_ Jun 09, '08
 
 |  |  [](http://www.threadless.com/interviews)
 
-_Update:_ Mike Mitchell
+_Update:_ Jason Bergsieker
 
 |  |  [](http://www.threadless.com/sightings)
 
-Threadspotting every Monday!
+Threadspotting every Friday!
 
 |  |  [](http://www.threadless.com/gift)
 
