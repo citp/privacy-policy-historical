@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the isabellaoliver.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028182901id_/http%3A//www.isabellaoliver.com/io/Shop%3Fdsp%3D80800) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isabellaoliver.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612010243id_/http%3A//www.isabellaoliver.com/maternity-clothes/privacy-policy.html) for the most accurate reproduction.*
 
-# Isabella Oliver Maternity Wear - for pregnant women who love clothes
+# Isabella Oliver Maternity Clothing: Maternity wear for pregnant women who love clothes
 
-1.866.614.9387 Toll Free  
-Personal Assistance 24/7  
-
+1.800.961.4963 (Toll Free US only)  
+1.800.662.0594 (Toll Free Canada only)  
+Personal Assistance 24/7 
 
 ### what we collect and why
 
@@ -12,7 +12,7 @@ When you shop with Isabella Oliver, there are different ways we gather informati
 
 * When you register with us, we ask for information such as your name, e-mail address, delivery address, contact details and, if you place an order, your credit card details. We keep a record of this information. All this is necessary for us to recognise you as a registered customer and to fulfil the orders you place with us.   
 * We keep a record of your purchases with us, this means we can send you the most relevant offers. It also means we can deal a lot quicker with any problems you may experience with your order.   
-* We keep a record of any e-mail correspondence you send us. This helps us keep track any problems or concerns you've had with our products or services. 
+* We keep a record of any e-mail correspondence you send us. This helps us keep track of any problems or concerns you've had with our products or services. 
 
 ### cookies
 
@@ -33,7 +33,7 @@ All the information we collect via our website or through correspondence with yo
 * Letting you know about offers from other companies, but only with your permission.   
 * Assessing your request for delivery of goods and services from us where we may make enquiries about you including searching your records held by organisations like Equifax and credit reference agencies. At all times where we use or disclose your information it will remain secure. 
 
-### there are only four circumstances where we may share some of your data with others:
+There are only four circumstances where we may share some of your data with others:
 
 * With agents (including credit reference agencies, credit card clearing agencies, fraud prevention and detection agencies) that we use to process the orders you place with us or who assist us in the service we provide to you. In these instances, we provide them with only the information they need to perform their function.   
 * In the unlikely event that our business assets are ever sold to or purchased by another company. (Our data records are part of our business).   
@@ -59,7 +59,7 @@ NW5 1LB
 
 * If you do not wish to receive offers from companies whose products we think may interest you by post, please email [mailingoptout@IsabellaOliver.com](mailto:mailingoptout@IsabellaOliver.com)  
 * If you would like us to send you offers from other companies that we think may interest you by email please email [optin@IsabellaOliver.com](mailto:optin@IsabellaOliver.com).   
-* If you do not wish to receive any further email messages from us (and I quite understand if you don't, but remember that if you unsubscribe we will not be able to send you Sale details before anyone else) please email [unsubscribe@IsabellaOliver.com](mailto:unsubscribe@IsabellaOliver.com)   
+* If you do not wish to receive any further email messages from us (and we quite understand if you don't, but remember that if you unsubscribe we will not be able to send you sale details before anyone else) please email [unsubscribe@IsabellaOliver.com](mailto:unsubscribe@IsabellaOliver.com)   
 * If you do not wish to be contacted by Isabella Oliver at all please email [goodbye@IsabellaOliver.com](mailto:goodbye@IsabellaOliver.com)
 
 ### website security
@@ -74,6 +74,6 @@ This encryption makes it virtually impossible for unauthorised parties to read a
 
 The encryption technique we use is the highest standard available for e-commerce and certified by VeriSign, the world's most respected certification body for Internet firms. 
 
-If you have questions regarding our credit card security policies, please call us on 1.866.614.9387.
+If you have questions regarding our credit card security policies, please call us on 1.800.961.4963.
 
 If you are still not convinced about the safety of shopping online, but would like to enjoy the quality of Isabella Oliver maternity wear, please call us on the number above and place your order over the phone. We are open 24 hours a day, 7 days a week.
