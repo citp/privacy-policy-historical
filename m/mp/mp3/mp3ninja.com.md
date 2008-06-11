@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3ninja.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212043959id_/http%3A//www.mp3ninja.com/index/faq/category3/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3ninja.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611074052id_/http%3A//www.mp3ninja.com/index/faq/category3/6) for the most accurate reproduction.*
 
 # Download MP3 Hits, Download Free MP3s and Legal MP3 Music, Full MP3 Albums Downloads - mp3ninja.com
 
@@ -19,4 +19,4 @@ In order to pay for Site Services, user provides information on the method of pa
 
 All details of your methods of payments are UNAVAILABLE to the Site Administration.
 
-All products and services, displayed in the Internet-shop www.mp3ninja.com, are accepted for payment via VISA and Mastercard credit cards by "ITC" and "ASSIST". For security purposes, the card numbers are not kept by the company. 
+All products and services, displayed in the Internet-shop www.mp3ninja.com, are accepted for payment via VISA and Mastercard credit cards by "ITC" . For security purposes, the card numbers are not kept by the company. 
