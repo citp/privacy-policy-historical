@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the vcuhealth.org privacy policy that was archived on 2007-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071113134927id_/http%3A//www.vcuhealth.org/webprivatenew.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcuhealth.org privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611233414id_/http%3A//www.vcuhealth.org%3Fid%3D204%26sid%3D1) for the most accurate reproduction.*
 
-# 
-
-  
-**Web Privacy Statement**  
-
+# Web Privacy Statement - Virginia Commonwealth University Health System
 
 The following discloses the information gathering and dissemination practices of official Virginia Commonwealth University Health System (VCUHS) web pages (defined as an Institutional Web Page in the [**VCU Web Publishing Guidelines**](http://www.vcu.edu/guidelines/)) and is in accordance with the following statement. 
 
@@ -22,7 +18,7 @@ When you visit the VCU Health System web site we collect the following non-perso
   * Date and Time 
   * Pages visited 
   * Type of browser used 
-  * Referring web page, if present
+  * Referring web page, if present 
 
 
 
