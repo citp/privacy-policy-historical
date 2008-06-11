@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the lehigh.edu privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213013525id_/http%3A//www3.lehigh.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehigh.edu privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611043924id_/http%3A//www3.lehigh.edu/privacy.asp) for the most accurate reproduction.*
 
 # Lehigh University: Privacy Policy
 
-"After being a screwed-up kid and a show-off in high school, I found myself being deeply at home at Lehigh."
+"Running was everything for me and my teammates while we were in college."
 
-\- Joe Morgenstern '53
+\- Mickey Yardis '77  
+Hometown: Chappaqua, NY
 
-[Read More](https://web.archive.org/about/spotlight5.asp)
+[Read More](https://web.archive.org/about/spotlight4.asp)
 
      
 
