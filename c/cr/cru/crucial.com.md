@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206155646id_/http%3A//www.crucial.com/store/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611144103id_/http%3A//www.crucial.com/store/privacy.aspx) for the most accurate reproduction.*
 
 # Memory upgrades from Crucial.com - Crucial's Privacy Policy
 
