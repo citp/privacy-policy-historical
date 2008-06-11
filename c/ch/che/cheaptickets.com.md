@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheaptickets.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011104904id_/http%3A//www.cheaptickets.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaptickets.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611232923id_/http%3A//www.cheaptickets.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
 
 # CheapTickets: Privacy Policy
 
@@ -340,7 +340,7 @@ _Changes to the Privacy Policy_
 >  CheapTickets LLC  
 >  500 West Madison Street, Suite 1000, Chicago, IL 60661  
 > Telephone:| 888-922-8849 (within the United States)  
->  615-874-4304 (Outside the United States).   
+>  312-596-5794 (Outside the United States).   
   
   
 
