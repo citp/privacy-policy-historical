@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeriagames.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209174930id_/http%3A//www.aeriagames.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeriagames.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611195136id_/http%3A//www.aeriagames.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Aeria Games
 
