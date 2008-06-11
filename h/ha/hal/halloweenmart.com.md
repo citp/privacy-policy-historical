@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the halloweenmart.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212091953id_/http%3A//www.halloweenmart.com/wecs.php%3Fstore%3Dhalloweenmar%26content%3Dsecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweenmart.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611135723id_/http%3A//www.halloweenmart.com/wecs.php%3Fstore%3Dhalloweenmar%26content%3Dsecurity.html) for the most accurate reproduction.*
 
-# Sound Effects, Special Effects, Scary Sounds, Halloween Books, Halloween Videos
+# Halloween Costumes, Pirate, Sexy, and Plus Size Halloween Costumes for Adult, Children, Toddlers and Special Events, Halloween Props and Accessories at HalloweenMart.com.
 
 _  
 **HalloweenMart.com Security Policies**_
