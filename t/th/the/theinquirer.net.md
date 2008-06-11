@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinquirer.net privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214072700id_/http%3A//www.theinquirer.net/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinquirer.net privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612013724id_/http%3A//www.theinquirer.net/static/privacy-policy) for the most accurate reproduction.*
 
 # The INQUIRER - microprocessors, servers, memory, PCs, graphics, networking, storage
 
