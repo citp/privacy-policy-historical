@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iomoio.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019084141id_/http%3A//www.iomoio.com/help/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iomoio.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611141957id_/http%3A//www.iomoio.com/help/3) for the most accurate reproduction.*
 
-# mp3 download
+# Mp3 Music Downloads Store
 
 This Privacy Policy explains how the web site Iomoio.com collects and stores your personal information, when you are using our services. Before proceeding with your registration process on this web site you must:
 
