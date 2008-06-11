@@ -1,0 +1,280 @@
+<!--The following is the downloaded HTML source of the tabscout.com privacy policy that was archived on 2008-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080612013313id_/http%3A//www.tabscout.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+        <title> Tabs For Guitar, Guitar Pro, Powertab, Bass, Drums Tablatures and Chords</title>
+	<meta name="keywords" content="tabs for guitar, tabs guitar, tabs, guitar pro, powertab, guitar tab, ">
+	<meta name="description" content="Sizable tabs for guitar, bass, drums, blues, chords,guitar pro and power tab tabs library. Ultimate guitar tablature search engine.">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="cache-control" content="no-cache, must-revalidate">
+	<meta http-equiv="cache" content="no store">
+	<meta name="Distribution" content="Global">
+	<meta name="publisher" content="AK">
+	<meta name="content-language" content="english">
+	<meta name="Robots" content="all">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link href="/stylesheet.css" rel="stylesheet" type="text/css" media="all">
+	<link href="/star.css" rel="stylesheet" type="text/css" media="all">
+	<link href="/comments/style.css" rel="stylesheet" type="text/css" media="all">
+
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	function ValidateSubmit(thisform,element) {
+		var q = thisform.elements[element].value;
+		if( q.length < 3 ) {
+			alert(element+" have to be minimum 3 characters.");
+			return false;
+		} else {
+			return true;
+		}
+	}
+	function toggleSearch() {
+		var style = document.getElementById('advancedbox').style;
+		var sw = document.getElementById('advancedswitch');
+		style.display = style.display? "":"block";
+		if( sw.innerHTML == "Simple Search" ) {
+			sw.innerHTML = "Advanced Search";
+		} else {
+			sw.innerHTML = "Simple Search";
+		}
+	}
+	function toggleLyrics() {
+		var style = document.getElementById('lyrics').style;
+		var sw = document.getElementById('lyricsswitch');
+		style.display = style.display? "":"block";
+		if( sw.innerHTML == "Hide" ) {
+			sw.innerHTML = "Show";
+		} else {
+			sw.innerHTML = "Hide";
+		}
+	}
+	function toggleTip(tip) {
+		var elem = document.getElementById('searchtip');
+		elem.innerHTML = tip;
+		elem.style.display = elem.style.display? "":"block";
+	}
+	function bookmark_us(url, title){
+		if (window.sidebar) // firefox
+			window.sidebar.addPanel(title, url, "");
+		else if(window.opera && window.print){ // opera
+			var elem = document.createElement('a');
+			elem.setAttribute('href',url);
+			elem.setAttribute('title',title);
+			elem.setAttribute('rel','sidebar');
+			elem.click();
+		} else if(document.all)// ie
+			window.external.AddFavorite(url, title);
+	}
+
+	function validate_required(field,alerttxt)
+	{
+		with (field)
+		{
+			if (value==null||value=="")
+				{alert(alerttxt);return false}
+			else {return true}
+		}
+	}
+	function validate_form(thisform) {
+		with (thisform)
+		{
+			if (validate_required(name,"Name must be filled out!")==false)
+				{name.focus();return false}
+			if (validate_required(email,"Email must be filled out!")==false)
+				{email.focus();return false}
+			if (validate_required(subject,"Subject must be filled out!")==false)
+				{subject.focus();return false}
+			if (validate_required(message,"No message?")==false)
+				{message.focus();return false}
+		}
+	}
+	/* ]]> */
+	</script>
+</head>
+<body>
+<div id="wrapper" align="center">
+<div id="header">
+<table cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td id="logo" class="logo">
+		<a title="TabScout HomePage" href="http://www.tabscout.com/">
+			<img alt="TabScout Logo" src="/img/Logo.png" border="0">
+		</a>
+	</td>
+	<td class="logoadd">indexing 257329 guitar tabs</td>
+	<td class="menu">
+		<a id="searchtab" href="/">Home</a>
+		<a id="linkstab" href="/links/">Links</a>
+		<a id="contacttab" href="/contact/">Contact</a>
+		<a id="logintab" href="/login">Log In</a>		<a id="registertab" href="/register">Register</a>
+	</td>
+</tr>
+</tbody></table>
+</div>
+<div id="searchbox" align="left">
+	<form action="/?" name="comments" onsubmit="return ValidateSubmit(this,'query');">
+		<table class="search">
+			<tbody><tr>
+				<td colspan="2" style="height:20px;"></td>
+			</tr>
+			<tr>
+				<td nowrap="" colspan="2" style="padding-left:20px;">
+					<input type="hidden" name="a" value="search">
+					<input class="submitInput" type="text" size="40" name="query" value="">
+					<input class="submitButton" type="submit" name="submit" value="Search">
+				</td>
+				<td>
+					<div id="searchtip"></div>
+				</td>
+			</tr>
+		</tbody></table>
+		<table>
+			<tbody><tr>
+			<td style="padding: 0 0 0 20px;width:110px;">
+				<a id="advancedswitch" href="javascript:toggleSearch();">Advanced Search</a>
+			</td>
+			<td nowrap="" style="padding-left:70px;vertical-align:bottom;">
+								<input type="checkbox" name="c_song" value="1" checked="">Song
+				<input type="checkbox" name="c_artist" value="1" checked="">Artist
+			</td>
+			</tr>
+		</tbody></table>
+		<table align="right">
+			<tbody><tr><td class="quicklinks">
+				<a title="Browse by Artist/Band name" href="/sbyband/"> Browse by Artist </a> |
+				<a title="Recently added guitar tabs" href="/recent/"> Recent </a> |
+				<a title="Top 100 guitar tabs" href="/commons/"> Top 100 tabs </a> |
+				<a title="Top 100 bands and artists" href="/popular_bands/"> Top 100 bands</a> 
+			</td></tr>
+		</tbody></table>
+	</form>
+
+	<table width="100%">
+		<tbody><tr><td>
+		<div id="advancedbox" align="left">
+			<form action="/?" method="get" onsubmit="return ValidateSubmit(this);">
+			<table class="advanced_search">
+			<tbody><tr><td>
+				<input type="hidden" name="a" value="search">
+				<input type="hidden" name="mode" value="1">
+				Find results containing word:</td>
+				<td><input class="submitInput" type="text" size="40" name="query" value=""></td>
+			</tr>
+			<tr>
+			<td valign="top">In fields:</td>
+				 <td><table class="checkboxes">
+				 	<tbody><tr>
+						<td>Title</td><td><input type="checkbox" name="title" checked=""></td>
+						<td>Album</td><td><input type="checkbox" name="album" checked=""></td>
+						<td>Subtitle</td><td><input type="checkbox" name="subtitle"></td>
+					</tr>
+				 	<tr>
+				 		<td>Song Author</td><td><input type="checkbox" name="song_author" checked=""></td>
+						<td>Tab Author</td><td><input type="checkbox" name="piece_author"></td>
+				 		<td>Interpreter</td><td><input type="checkbox" name="interpret" checked=""></td>
+					</tr>
+				 	<tr>
+						<td>Notice &amp; Lyrics</td><td><input type="checkbox" name="notice"></td>
+				 	    	<td></td><td></td>
+					</tr>
+				 </tbody></table></td>
+			</tr>
+			<tr>
+			<td valign="top">File Types:</td>
+				 <td><table class="checkboxes">
+				 	<tbody><tr>
+						<td>Guitar Pro</td><td><input type="checkbox" name="filetype_gp" checked=""></td>
+						<td>Power Tab</td><td><input type="checkbox" name="filetype_ptb" checked=""></td>
+					</tr>
+				 </tbody></table></td>
+			</tr>
+			<tr><td><input class="submitButton" type="submit" name="submit" value="Advanced Search"></td><td><a href="#" onclick="window.open('/advanced_search_help.html','newwin', 'height=550, width=550,toolbar=no,menubar=no,scrollbars=yes');">More info</a></td></tr>
+			</tbody></table>
+			</form>
+		</div>
+		</td></tr>
+	</tbody></table>
+</div>
+<div id="mainbox">
+<table class="tos" align="center">
+<tbody><tr><td><pre>
+<center><h2>Privacy Policy</h2></center>
+<b>Your Privacy</b><br><br>
+
+TabScout.com is committed to protecting your privacy.
+TabScout.com does not sell, trade or rent your personal information to other companies.
+TabScout.com will not collect any personal information about you except when you specifically
+and knowingly provide such information.<br><br>
+
+By using our Web site, you consent to the collection and use of this information by TabScout.com.
+If we decide to change our privacy policy, we will post the changes on this page so that you are
+always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+Currently, TabScout.com may provide aggregate statistics about our traffic patterns, and related 
+site information to reputable third-party vendors, but these statistics will include no personal
+identifying information.<br><br>
+
+<b>Modification of Privacy Policy</b><br><br>
+
+TabScout.com reserves the right, at any time, to modify, alter or update the Privacy Policy and you
+agree to be bound by such modifications, alterations or updates.
+</pre></td></tr>
+</tbody></table>
+</div>
+
+<div id="bottombox">
+	<table align="center" style="text-align:center;width:100%;">
+
+
+	<tbody><tr><td style="border-top: 1px solid #EDEDED;border-bottom: 1px solid #EDEDED;">
+	Partners:
+	<a onclick="javascript:urchinTracker('/og/lyricscout.com');" title="Online Song Lyrics Archive" href="http://www.lyricscout.com/">LyricScout.com</a>
+	/
+	<a onclick="javascript:urchinTracker('/og/clip-scout.com');" title="Clip-Scout - Funny, Sports, Fights, Celebrity Video Clips" href="http://www.clip-scout.com/">Clip-Scout.com</a>
+	/
+	<a onclick="javascript:urchinTracker('/og/tvshowman.com');" title="TV Show and TV Series torrents" href="http://www.tvshowman.com/">TVShowman.com</a>
+	/
+	<a onclick="javascript:urchinTracker('/og/guitartricks.com');" title="Guitar Lessons" href="http://www.guitartricks.com/">Guitar Lessons</a>
+	/
+	<a onclick="javascript:urchinTracker('/og/musicianwar.com');" title="Music Competition" href="http://www.musicianwar.com/">Music Competition</a>
+	/
+	<a onclick="javascript:urchinTracker('/og/pianotricks.com');" title="Piano Lessons" href="http://www.pianotricks.com/">Piano Lessons</a>
+	/
+	<a href="/msg/Partner Request/">Your link here</a>
+	</td></tr>
+
+	<tr><td>
+	<a href="/whatisguitarpro/" title="What is guitar-pro">What is Guitar Pro</a>
+	- <a href="/whatistab/" title="What is tablature">What is Tab</a><br>
+	<a href="/tos/" title="Terms of Use">Terms of Service</a>
+	- <a href="/privacy" title="Privacy Policy">Privacy Policy</a>
+	- <a href="/dmca" title="Content Removal">Content Removal</a>
+	- <a href="/about" title="About Us">About Us</a>	
+	</td></tr>
+
+	<tr><td>
+	<a href="http://jigsaw.w3.org/css-validator/check/referer"><img src="/img/css-valid.png" alt="[Valid CSS]" title="Validate my RCC"></a>
+	|
+	<a href="http://validator.w3.org/check?uri=referer"><img src="/img/html-valid.png" alt="[Valid XHTML]" title="Validate my XHTML"></a>
+	</td></tr>
+	<tr><td>
+	©2007-2008 TabScout.com
+	</td></tr>
+	<tr><td>
+	<h1 style="font-size:11px;font-weight:normal;color:#9c9c9c;">
+		TabScout is guitarpro and power tab comprehensive search engine. 
+		You can find interesting tabs for guitar, guitar riffs, acoustic guitar, classical guitar, electric guitar, bass guitar tablatures and guitar chords as well as drum tabs.
+		These can help you as guitar lessons to learn how to play guitar.
+	</h1></td></tr>
+	</tbody></table>
+</div>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1166034-5";
+urchinTracker();
+</script>
+
+
+</body></html>
