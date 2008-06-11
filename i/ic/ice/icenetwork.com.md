@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icenetwork.com privacy policy that was archived on 2007-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070828052843id_/http%3A//www.icenetwork.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icenetwork.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611101519id_/http%3A//web.icenetwork.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # icenetwork.com: Help: Privacy Policy
 
