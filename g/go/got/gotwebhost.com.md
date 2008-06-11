@@ -1,49 +1,8 @@
-> *The following text is extracted and transformed from the gotwebhost.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028162014id_/http%3A//www.gotwebhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotwebhost.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611030811id_/http%3A//www.gotwebhost.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Got Web Host
 
-Includes uses of  
-5 different nameservers
-
-[](https://web.archive.org/web/20071028162014id_/http%3A//www.gotwebhost.com/web_hosting.html)
-
-  * 2000 Mb Storage
-  * 5 Class C IP's
-  * PHP, MySQL
-  * 20GB Bandwidth
-
-
-
-[$79.00/Month](https://web.archive.org/web/20071028162014id_/http%3A//www.gotwebhost.com/web_hosting.html)
-
-Great first dedicated server. Pentium 4 2.4 or better. 
-
-[](https://web.archive.org/web/20071028162014id_/http%3A//www.gotwebhost.com/dedicated-servers.html)
-
-  * 80 GB hard drive
-  * 2 IP
-  * PHP, MySQL
-  * 700GB Bandwidth
-
-
-
-[$149.00/Month](https://web.archive.org/web/20071028162014id_/http%3A//www.gotwebhost.com/dedicated-servers.html)
-
-Make your own  
-private nameservers.
-
-[](https://web.archive.org/web/20071028162014id_/http%3A//www.gotwebhost.com/hosting.html)
-
-  * 40 GB HD
-  * 48 IP's - 8 subnets
-  * PHP, MySQL
-  * 200GB Bandwidth
-
-
-
-[$249.00/Month](https://web.archive.org/web/20071028162014id_/http%3A//www.gotwebhost.com/hosting.html)
-
-### SEO HOST  |  Call Toll Free: 888-467-8532
+### Privacy Policy of GotWebHost.com/Synergy DTI Inc. Toll Free: 888-467-8532
 
 **Privacy Policy**  
 Got Web Host is committed to respecting and protecting the privacy of visitors as well as our actual customers. You can visit us on the web without identifying yourself or revealing any personal information. For customers, once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with Got Web Host.
