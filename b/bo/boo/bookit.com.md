@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookit.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218170254id_/http%3A//www.bookit.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookit.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611150132id_/http%3A//www.bookit.com/privacy_policy.php) for the most accurate reproduction.*
 
 # BookIt.com™ Book Online: You know what to do.™
 
@@ -23,5 +23,5 @@ For our guests, privacy is of the utmost concern. With the rise in identity thef
 **Questions or Suggestions**  
 \- If you have questions or suggestions, please write to **[CustomerCare@BookIt.com](mailto:customercare@BookIt.com)**  
   
-©2007 BookIt.com®.   
+©2008 BookIt.com®.   
 Privacy Policy above is for all BookIt.com® generated sites. 
