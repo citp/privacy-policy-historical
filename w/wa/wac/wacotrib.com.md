@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wacotrib.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011150607id_/http%3A//www.wacotrib.com/services/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wacotrib.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611051833id_/http%3A//www.wacotrib.com/services/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Welcome to wacotrib!
 
@@ -105,5 +105,3 @@ A final note: The Web is an evolving medium. If we need to change our privacy po
 Back to top
 
 * * *
-
-### Sponsored Links
