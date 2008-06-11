@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roverradio.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213112031id_/http%3A//www.roverradio.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D58%26Itemid%3D112) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roverradio.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611071012id_/http%3A//www.roverradio.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D58%26Itemid%3D112) for the most accurate reproduction.*
 
 # Rover's Morning Glory - Privacy Policy
 
