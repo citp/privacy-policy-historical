@@ -1,28 +1,9 @@
-> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2007-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071120152231id_/http%3A//www.ganeshaspeaks.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611140524id_/http%3A//www.ganeshaspeaks.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Free Astrology, Free Horoscope by GaneshaSpeaks.com
 
-|  |   
+|  |  |   
 ---  
-|  | Testimonials |   
----|---|---  
-|  | 
-
-I must say that this site delivers the fastest and the most accurate readings
-
-Richard Wells  
-Chicago, USA  
-  
----  
-  
-* * *  
-  
-I have used many free and paid services of ganeshaspeaks and i am very happy with the results. They have positively affected my life
-
-Surinder Kaur  
-Ludhiana, India  
-  
-|  |   
   
 |  |  |   
 ---|---|---  
@@ -53,11 +34,11 @@ You can change and update the personal information you previously provided. This
 2\. Change the relevant information  
 Unfortunately, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from our records. If you have chosen to receive your Daily or Weekly Horoscope by e-mail, you can at any time cancel this sending a mail on contact@ganeshaspeaks.com with the subject line as "Unsubscribe".   
 **Delete profile**  
-You can delete your profile at any time by clicking on the "deleteâ€ link.   
+You can delete your profile at any time by clicking on the "delete" link.   
 **Contacting us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at [contact@ganeshaspeaks.com](mailto:contact@ganeshaspeaks.com).  
   
-[home](https://web.archive.org/web/20071120152231id_/http%3A//www.ganeshaspeaks.com/)  
+[home](https://web.archive.org/web/20080611140524id_/http%3A//www.ganeshaspeaks.com/)  
   
 |  |   
   
