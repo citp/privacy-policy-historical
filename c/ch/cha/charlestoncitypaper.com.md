@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the charlestoncitypaper.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027154211id_/http%3A//www.charlestoncitypaper.com/gyrobase/page%3Foid%3D25105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlestoncitypaper.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611230328id_/http%3A//www.charlestoncitypaper.com/gyrobase/page%3Foid%3D25105) for the most accurate reproduction.*
 
-# Charleston City Paper - Charleston
+# Privacy Statement - Charleston City Paper - Charleston
 
 | 
 
