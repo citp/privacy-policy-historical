@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the prfriend.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216235234id_/http%3A//www.prfriend.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prfriend.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611051810id_/http%3A//www.prfriend.com/privacy) for the most accurate reproduction.*
 
-# prfriend.com
+# prfriend.com » Privacy Policy
 
-## Privacy Policy
+This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters, all members or affiliates and all customers. It sets out how PRfriend uses and protects any information that you provide when you use this website.
+
+### How to Contact Us:
+
+We can be contacted at <http://www.prfriend.com/contact/>
 
 ### Overview
 
@@ -11,27 +15,36 @@ PRfriend knows that you care how information about you is used and shared, and w
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully.  
 We collect certain information to provide you with the best possible service.  
 We will not e-mail you unless you have given us your consent or in reply to a specific request from you.  
-We may use technology to track the patterns of behaviour of visitors to our site.  
+We use technology to track the patterns of behaviour of visitors to our site and cookies to record session information.
 
+Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 ### More Detailed Information
 
-**What Personal Information does PRfriend gather?**  
-The information we learn helps us to improve the site. Here are the types of information we gather.  
-_Information You Give Us:_  
-We receive and store any information you enter on our Web site or give us in any other way.  
-You can choose not to provide certain information, but then you might not be able to take advantage of particular services.  
-_Automatic Information:_  
-We receive and store certain types of general information whenever you interact with our site. This information is used to analyse viewing figures, pages viewed etc.
+#### Volunteered Information
 
-**E-mail Communications:**  
-You will only receive Email from us if you communicate with us or give us permission to do so.
+We collect information volunteered by the consumer, such as survey information and/or site registrations.
 
-**Does PRfriend Share the Information It Receives?**  
+#### Product Order Information
+
+All product orders are carried out on Ultracart’s Secure Server and subject to their Privacy Policy - <http://www.ultracart.com/privacy.html>
+
+#### E-mail Communications:
+
+You will only receive Email from us if you communicate with us or give us permission to do so. If you sign up for our newsletter, you can cancel at any time and a cancellation link is provided on each message sent out.
+
+#### Does PRfriend Share the Information It Receives?
+
 We do not share information with any other bodies.
 
-**Queries**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can [contact](http://www.prfriend.com/contact/) PRfriend for clarification.
+#### Links to other websites
 
-Plus, if you subscribe right now, you will get my email course on how to get free publicity in 7 days just for signing up. All you need to do is enter your first name and primary email address in the form above and click Enter.  
-PRIVACY POLICY: I never sell, rent, trade or loan any information about my subscribers to anyone, for any reason whatsoever. I assure you that your privacy is respected and well protected. 
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+#### Future Privacy Policy Changes
+
+If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use these new purposes only for data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+
+#### Queries
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can [contact](http://www.prfriend.com/contact/) PRfriend for clarification.
