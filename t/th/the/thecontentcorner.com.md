@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecontentcorner.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429013916id_/http%3A//www.thecontentcorner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontentcorner.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611063553id_/http%3A//www.thecontentcorner.com/privacy.php) for the most accurate reproduction.*
 
 # Articles for Content @ The Content Corner
 
@@ -38,8 +38,8 @@ The Content Corner provides every user with the opportunity to easily opt-out of
   * [**email**](https://web.archive.org/contacts.php)
   * **Postal Mail:**  
 The Content Corner  
-P.O. Box 42  
-New Springfield, OH 44443  
+423 S Sedona Dr  
+West Fargo, ND 58078  
 United States  
 
 
@@ -49,34 +49,39 @@ If you have any questions about this privacy statement, the practices of this we
 
 | 
 
-  
-[ ](http://www.learnsocialbookmarking.com/)
+[ ](http://jbolte1976.salespagetactics.com/) **Sales Page Tactics Vol I**
 
-**Learn Social Bookmarking** \- Insider Secrets to getting more traffic and sales fast!
-
-  
-[ ](http://articlespeedwriting.com/?a_aid=mmurtha)
-
-**Article Speed Writing \- **
-
-** Learn a specific formula to write high quality article content quickly and easily.**  
-
+Experienced PHP/JavaScript Tutor Solves 19 Of Your Most Frustrating Direct Response Sales Page Hang-Ups! 
 
   
 
-* **Recommended Links**  
-Want a permenant text link?[ **Order NOW!**](http://www.thesubjectindex.thecontentcorner.com/)
 
-  
-[ ](http://tinyurl.com/suy23)
+[ ](http://jbolte1976.salespagetactics.com/volume2) **Sales Page Tactics Vol 2**
 
-Learn the 
-
-**"Seven Golden Rules"** that will **PROTECT** your legitimate opt-in e-mail against bogus spam complaints.
+Programming Madman Opens His Secret Vault Of PHP and JavaScript Weapons, Proven To Explode Sales And Profits... Even A Dummy Could Implement!
 
   
 
-* **[Quantum-Seek.com](http://www.quantum-seek.com/)** **Quantum Seek -  
+
+  
+[ ](http://jbolte1976.salespagetactics.com/volume3) **Sales Page Tactics Vol 3**
+
+California Web Programmer Reveals 9 'Hidden Code' Strategies You Can Start Using Today To Multiply The Profits From ALL Your Online Sales Letters
+
+  
+
+
+  
+**Recommended Links**
+
+[](http://www.quickregister.net/)
+
+  
+**Other Article Directories:**   
+
+
+  
+**[Quantum-Seek.com](http://www.quantum-seek.com/)** **Quantum Seek -  
 A Quantum Leap In  
 Specialty Information Searches!**
 
@@ -85,9 +90,6 @@ Specialty Information Searches!**
 
 [**Facts and Info 4U**](http://www.factsandinfo4u.com/)  
 Gardening, landscaping, foods and drink, games, home improvements, metals, and more!
-
-[**Home Security Systems**](http://www.ezhomesecurityinfo.com/)  
-Learn more about security systems for your home or office.
 
 [**Buy Gold Online**](http://www.goldinfo4u.com/)  
 Gold Bars, Gold Bullion, White Gold and More!
@@ -101,23 +103,11 @@ Internet marketing News and Reviews, SE News, Niche News, Beginners Basics, and 
 [**Internet Marketing Tips**](http://www.internetmarketingtips4u.com/)  
 Internet marketing tips about sales, advertising, scams, strategies, basics and more!
 
-[**The Wicker Den**](http://www.wickerden.com/)  
-Indoor and outdoor wicker furniture, wicker storage basket, wicker dog crates and more!
-
-[**Gourmet Chocolates**](http://www.thecontentcorner.com/gourmet-chocolate/)  
-Gourmet Chocolate, Hershey Chocolate, chocolate gift baskets and more!
-
 [**Best HD TV Info**](http://www.besthdtvinfo.com/)  
 For all of your HD TV needs and more!
 
 [**Telemetry News**](http://www.telemetrynews.com/)  
 Telemetry Equipment, Telemetry Receivers, Telemetry Transmitters and more!
-
-[**Carpet Cleaning Info**](http://www.bestcarpetcleaninginfo.com/)  
-Carpet cleaning tips, carpet cleaning stains, dry carpet cleaning and more!
-
-[**Special Diets**](http://www.thecontentcorner.com/specialdiets/)  
-Learn how to eat the right foods to help fight acid reflux, diabetes, diverticulitis, gout, high cholesterol and more!
 
 [**Culinary Arts News**](http://www.culinaryartsnews.com/)  
 Learn the latest Culinary Arts news and how you can become a world renown Chef and more!
