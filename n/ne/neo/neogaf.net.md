@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the neogaf.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213024204id_/http%3A//www.neogaf.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D14%26Itemid%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neogaf.net privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611113548id_/http%3A//www.neogaf.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D14%26Itemid%3D36) for the most accurate reproduction.*
 
 # NeoGAF - Privacy Policy
 
-### Welcome to the NeoGAF Community  
-  
-Welcome to NeoGAF, the preeminent video game industry discussion community.  If you're new here, please take the time to [register](https://web.archive.org/web/20071213024204id_/http%3A//www.neogaf.com/forum/register.php) for the forum as this will grant you posting access and is of course free.  If you'd like to look around first, feel free to [browse the forum](https://web.archive.org/web/20071213024204id_/http%3A//www.neogaf.com/forum/) at your leisure.  Have fun.
-
-| 
-
-|  Written by Tyler Malka      
----  
+Written by Tyler Malka      
 Friday, 31 March 2006   
 NeoGAF respects your privacy. This document explains our policy relating to the personal data that is received by us. 
 
