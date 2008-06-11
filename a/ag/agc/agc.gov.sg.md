@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agc.gov.sg privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625022845id_/http%3A//www.agc.gov.sg/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agc.gov.sg privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611162748id_/http%3A//www.agc.gov.sg/privacy/index.html) for the most accurate reproduction.*
 
 # AGC – Privacy Statement
 
@@ -18,4 +18,6 @@
 
 Last updated on 
 
-2 November, 2006
+10 April, 2008
+
+© 2005 Government of Singapore
