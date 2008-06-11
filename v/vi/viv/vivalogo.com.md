@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivalogo.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212100914id_/http%3A//www.vivalogo.com/logo-design-pages/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivalogo.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611031108id_/http%3A//www.vivalogo.com/logo-design-pages/privacy-policy.htm) for the most accurate reproduction.*
 
 # Logo Design by Vivalogo - Privacy Policy
 
