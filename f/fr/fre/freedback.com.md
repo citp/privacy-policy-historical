@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the freedback.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213041011id_/http%3A//www.freedback.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedback.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611234631id_/http%3A//www.freedback.com/privacy_policy.php) for the most accurate reproduction.*
 
 # HTML forms can be as simple as "Copy and Paste"
 
 ### Privacy Policy
 
-Wondermill Webworks Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for all Webmasters.org sites run by note.com LLC, including this website: Freedback.com. 
+[Wondermill Webworks Inc.](http://www.wondermill.com/) (Freedback's parent company) has created this privacy statement in order to disclose our information gathering and dissemination practices for the Freedback form procesing service. 
 
-**Policies for Webmasters (Website Owners) Using our services:**  
+**Policies for Webmasters (Clients) Using our services:**  
 Our sites' registration forms requires Webmasters  to give us contact information (like their name and email address) and demographic information (like their zipcode, country or language). We use contact information from the registration form to send the Webmaster "Service Mailings", from us only, which include legal notices, new features and valuable tips, as well as promotions about our company and our partners. The Webmaster's contact information is also used to contact them when necessary. Demographic and profile data is also collected at our site. We use this data to tailor the Webmaster's experience, and that of Web Visitors coming to our site through the Webmasters' site, showing the Webmaster and the Web Visitors content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
 
-Webmasters who sign up for our Affiliate Program provide additional data about their legal entities to effectuate payment of revenue earned through the program. 
-
-As noted above, our Service Mailings include periodic notices to our member Webmasters regarding new features, legal notices, and valuable tips. Because the Service Mailings are the only method of sending legal notices to member Webmasters, a Webmaster cannot unsubscribe from Service Mailings without terminating his/her use of our service. 
+As noted above, our Service Mailings include periodic notices to our member Webmasters regarding new features and legal notices. Because the Service Mailings are the only method of sending legal notices to member Webmasters, a Webmaster cannot unsubscribe from Service Mailings without terminating his/her use of our service. 
 
 **Policies for Web Visitors (Surfers) Using our Service**  
 most Web Visitors come to our site after they have filled out submission forms on the sites operated by member Webmasters participating in our service. We pass all data that a Web Visitor enters to the Webmaster of the site on which the submission form is located. At the same time, we bring the Web Visitor to our website where we can present them with advertising on our response page. If the advertising on our site contains a submission form we may autopopulate this form with data extracted from the previous form submission on the member Webmaster's site. We do not disclose data to advertisers without your permission - your name, email address and information is sent ONLY to the webmaster who's form you filled out. 
