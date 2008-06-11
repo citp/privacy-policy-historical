@@ -1,15 +1,20 @@
-<!--The following is the downloaded HTML source of the amfam.com privacy policy that was archived on 2007-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214061638id_/http%3A//www.amfam.com/company/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amfam.com privacy policy that was archived on 2008-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080612013703id_/http%3A//www.amfam.com/company/legal/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Privacy Policy</title>
+<meta name="keywords" content="">
+<meta name="description" content="company, privacy policy, legal">
 <style type="text/css">
   @import url("../../site_files/css/amfam_noleft.css");
 </style>
 <script type="text/javascript" src="../../site_files/js/common.js"></script>
 <script type="text/javascript" src="../../site_files/js/layerPopups.js"></script>
 <script type="text/javascript" src="../../site_files/js/helpPopup.js"></script>
+<script type="text/javascript">
+var omnTitle="Company:Legal:Privacy Policy";
+</script>
 </head>
 <body id="company" style="font-size: 100%;">
 <a name="top"></a>
@@ -68,6 +73,12 @@ http://www.omniture.com -->
 </div>
 </noscript>
 
+<!-- System Error -->
+<div class="system_notice">
+<span>Online Billing will be unavailable from 4:00 p.m. (Central Time) Thursday, June 12, 2008 through Saturday, June 14, 2008 due to Online Billing enhancements.  We apologize for any inconvenience and look forward to your future visit!</span>
+</div>
+<!-- /System Error -->
+
 
 	<!-- Header -->
 	<div id="header">
@@ -100,8 +111,99 @@ http://www.omniture.com -->
 				<li>
 				<script language="JavaScript"> displayLogInLogoutLink(); </script><a href="https://secure4.amfam.com/MyAccount/login/">Login</a>
 		 		</li>
-				<li><a href="http://www.amfam.com/espanol/default.asp" title="Español">Español</a></li>
-				<li><a href="http://www.amfam.com/company/careers/default.asp" title="Careers">Careers</a></li>
+<!-- Motionpoint Link Start -->
+<li><a mporgnav="" href="http://www.amfamlatino.com/enes/" onclick="return switchLanguage();
+function switchLanguage() {
+	oh=new Array();tsd=new Array();
+	tsh='www.amfamlatino.com';
+	oh[0]='web.amfam.com';tsd[0]='/enes/sdweb/';
+	oh[1]='amfam.ensera.com';tsd[1]='/enes/densera/'; 
+	oh[2]='www.sgcnetwork.com';tsd[2]='/enes/dsgcnetwork/';
+            oh[3]='secure4.amfam.com';tsd[3]='/enes/sdsecure4/';
+	oh[4]='www.amfam.com';tsd[4]='/enes/';
+	idx=location.href.indexOf(tsh);
+	var chost = null;
+	if(idx==-1){
+		for (i=0;i<oh.length;i++){ 
+			idx=location.href.indexOf(oh[i]);
+			if(idx>-1) break;
+		}
+		idx=idx+oh[i].length;hname=tsh+tsd[i];
+		tsh=hname;
+		pidx=oh[i].lastIndexOf('.',oh[i].lastIndexOf('.')-1);
+		if (pidx==-1) pidx=0;
+		chost=oh[i].substring(pidx);
+	}else{
+		for (i=0;i<tsd.length;i++){ 
+			idx=location.href.indexOf(tsd[i]);
+			if(idx>-1) break;
+		}
+		idx=idx+tsd[i].length;hname=oh[i];
+	}
+	path=location.href.substring(idx);
+	hend=hname.charAt(hname.length-1);pstart=path.charAt(0);
+	if(hend=='/' &amp;&amp; pstart=='/')path=path.substring(path.indexOf('/')+1);
+	if(hend!='/' &amp;&amp; pstart!='/')path='/'+path;
+	var scookieStr = null;
+	if (hname == tsh) {
+		var secookie = 'mpsessionestablished';
+		if (!isCookie(secookie)) {
+			scookieStr = document.cookie;
+			setCookie(secookie,'true','/',chost);
+		}
+	} else {
+		idx = path.indexOf('mpactionid=');
+		if (idx>0)
+			path = path.substring(0,idx-1);
+		idx=path.indexOf(';mp_params=');
+		if (idx>0) {
+			var qryString = path.substring(idx+11);
+			idx = path.indexOf('?');
+			if (idx > 0) {
+				path = path.substring(0,idx);
+				if (qryString != null)
+					path = path+'?'+qryString;
+			}
+		}
+	}
+	if (scookieStr == null) {
+		location.href=location.protocol+'//'+hname+path;
+	} else {
+		var qryString = 'mpactionid=56';
+		idx = path.indexOf('?');
+		if (idx > 0) {
+			qryString = path.substring(idx+1)+'&amp;'+qryString;
+			path = path.substring(0,idx);
+		}
+		postCookies(location.protocol+'//'+hname+path+'?'+qryString, scookieStr)
+	}
+	return false;
+}
+function postCookies(url, scookieStr) {
+	cform=document.createElement('form'); 
+	document.body.appendChild(cform);
+	cform.method='POST'; 
+	cform.action=url;
+	cinput=document.createElement('input');
+	cinput.type='hidden';
+	cinput.name='scookies';
+	cinput.value=scookieStr;
+	cform.appendChild(cinput);
+	cform.submit();
+}
+function isCookie(name) { 
+	return (document.cookie.indexOf(name+'=') > -1); 
+} 
+function setCookie(name,value,path,domain) {
+	var setcookie = name+'='+escape(value);
+	if (path != null) setcookie = setcookie+'; path=' + path;
+	if (domain != null)	setcookie = setcookie+'; domain=' + domain;
+	document.cookie = setcookie;
+}
+">En Español</a></li>
+<!-- Motionpoint Link End -->				
+
+<li><a href="http://www.amfam.com/company/careers/default.asp" title="Careers">Careers</a></li>
 				<li><a href="http://www.amfam.com/customer/contact.asp" title="Contact Us">Contact Us</a></li>
 				<li><a href="http://www.amfam.com/sitemap.asp" title="Site Map">Site Map</a></li>
 			</ul>
@@ -185,16 +287,16 @@ http://www.omniture.com -->
           <li>When necessary, we review and revise our Privacy Policies to protect personal customer information.</li>
         </ol>
 <a name="securitypolicy" id="securitypolicy"></a><h2>Security Policy</h2>
-<p>To help ensure the security of personal and financial information that you submit through this Web site, we use security software to encrypt the information during its transmission. We only allow information to be submitted for transmission if your browser is compatible with our security software. If your browser is not compatible, you will receive a message indicating your transaction cannot be completed because of the security risk.</p>
+<p>To help ensure the security of personal and financial information that you submit through this Website, we use security software to encrypt the information during its transmission. We only allow information to be submitted for transmission if your browser is compatible with our security software. If your browser is not compatible, you will receive a message indicating your transaction cannot be completed because of the security risk.</p>
 <p>American Family Insurance uses a secure server and security protocol to safeguard any information you provide. The secure server implements the Secure Socket Layer (SSL) protocol to interact with you when you provide personal information. This  technology sends your data through an encrypted tunnel via 128-bit encryption so a third party cannot read the information while in transit. All personal information stored by American Family Insurance is housed securely.</p>
 <p>We also use JavaScript, so please enable JavaScript in your browser. We only utilize JavaScript to create more dynamic and user-friendly pages.</p>
 <p>Email messages are not secure. Our security software does not encrypt email messages. Unencrypted email messages traveling through the Internet are potentially subject to viewing, alteration and copying by others</p>
 
         <h2><a name="cookie" id="cookie"></a>Web Cookie Policy</h2>
         <p><strong>What Are “Web Cookies”? </strong><br>
-          Web cookies are small computer   files that a Web site places on an Internet user's computer that are designed to   store basic information. As a general rule, cookies help Web site operators   serve their users better and more quickly. There are two types of cookies:   session and persistent. Session cookies exist only during an Internet user's   online session. They do not collect information from a user's computer, and they   typically store information only in the form of session identification. Session   cookies are erased from a user's computer when the user closes the browser   software. Persistent cookies remain on a user's computer after the browser has   been closed, and are stored on a user's hard drive until they expire or until   the user deletes the cookie. Persistent cookies are used to collect identifying   information about a user, such as Web surfing behavior or user preferences for a   specific Website. </p>
+          Web cookies are small computer   files that a Website places on an Internet user's computer that are designed to   store basic information. As a general rule, cookies help Website operators   serve their users better and more quickly. There are two types of cookies:   session and persistent. Session cookies exist only during an Internet user's   online session. They do not collect information from a user's computer, and they   typically store information only in the form of session identification. Session   cookies are erased from a user's computer when the user closes the browser   software. Persistent cookies remain on a user's computer after the browser has   been closed, and are stored on a user's hard drive until they expire or until   the user deletes the cookie. Persistent cookies are used to collect identifying   information about a user, such as Web surfing behavior or user preferences for a   specific Website. </p>
         <p><strong>How We Use Web Cookies </strong><br>
-          When you interact with the   American Family Insurance Website, we strive to make that experience easy and   meaningful. Our Web server uses both session and persistent cookies to improve   your interaction with the Web site, and to help us improve user experience. We   use cookies to measure behavior on this Web site for usability purposes and to   save choices made on some pages. The cookies used on this Web site do not   identify you personally. Unless you choose to identify yourself voluntarily,   they merely recognize your browser. You may choose to identify yourself to us by   requesting a quote, by requesting more information on a product or service, or   by completing one of several forms on the Web site used for contacting us.   Otherwise you remain anonymous. Users who disable their Web browsers'   ability to accept cookies can still be able to browse this Web site; however,   we encourage you to accept cookies (which can be set through your browser   settings) so that we may take further strides in making this Web site easier for   you to use. </p>
+          When you interact with the   American Family Insurance Website, we strive to make that experience easy and   meaningful. Our Web server uses both session and persistent cookies to improve   your interaction with the Website, and to help us improve user experience. We   use cookies to measure behavior on this Website for usability purposes and to   save choices made on some pages. The cookies used on this Website do not   identify you personally. Unless you choose to identify yourself voluntarily,   they merely recognize your browser. You may choose to identify yourself to us by   requesting a quote, by requesting more information on a product or service, or   by completing one of several forms on the Website used for contacting us.   Otherwise you remain anonymous. Users who disable their Web browsers'   ability to accept cookies can still be able to browse this Website; however,   we encourage you to accept cookies (which can be set through your browser   settings) so that we may take further strides in making this Website easier for   you to use. </p>
         <h2><a name="health" id="health"></a>Health Information Privacy Notice (for health insurance   policyholders)</h2>
         <p>We understand the personal nature of your medical information and are   committed to protecting it. If you have a health insurance policy from American Family Insurance Group, we provide you the following <a href="/pdf/insurance/health/21872.pdf" target="_blank">Notice of Privacy Practices for Health Information</a><span class="superscript">1</span>.</p>
 <p class="footnote"><span class="superscript">1</span>Please note that you will need <a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">Adobe   Acrobat Reader</a> to open this PDF file. American Family Insurance is not   liable for any direct or indirect technical or system issues or consequences   from your use of third-party technologies or programs accessible through our   site. If you need assistance with Adobe Acrobat Reader, please go to <a href="http://www.adobe.com/support/main.html" target="_blank">Adobe's Customer Support</a> page.</p>
@@ -219,16 +321,18 @@ function ShowPopupSurvey(){
 </script>
 <!-- FOOTER -->
 <div id="footer_wrapper">
-	<div id="security"><script src="https://seal.verisign.com/getseal?host_name=web.amfam.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+	<div id="security">
 
+<script language="JavaScript" src="https://web.amfam.com/site_files/js/getverisignsealimage.js"></script>
 </div>
 	<div id="footer">
+
 		<ul>
 			<li><a href="http://www.amfam.com/company/identification.asp" class="first_link" title="Company Identification">Company Identification</a></li>
 			<li><a href="http://www.amfam.com/company/legal/privacy.asp" title="Privacy and Web Cookie Policy">Privacy and Security Policy</a></li>
 			<li><a href="http://www.amfam.com/company/legal/legal.asp" title="Legal Notice">Legal Notice</a></li>
 		</ul>
-		<div>©2007 American Family Insurance. All Rights Reserved.</div><p></p>
+		<div>©2007-2008 American Family Insurance. All Rights Reserved.</div><p></p>
 	</div>
 	<div id="web_feedback"><a href="#" onclick="ShowPopupSurvey();return false;"><img src="https://web.amfam.com/site_files/images/amfam/footer/webfeedback_logo.gif" width="96" height="70" alt="Web Feedback"></a></div>
 </div>
@@ -242,7 +346,14 @@ s.channel="Company"
 <script language="JavaScript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
-s.pageName=document.title
+var omnTitle=omnTitle
+if (omnTitle=="") {
+omnTitle=document.title
+}
+if (typeof omnTitle=="undefined"){
+omnTitle=document.title
+}
+s.pageName=omnTitle
 s.server=""
 s.pageType=""
 s.prop1=""
@@ -250,13 +361,12 @@ s.prop2=""
 s.prop3=""
 s.prop4=""
 s.prop5=""
+s.prop7=""
 s.prop9="english"
-s.prop10=document.title
+s.prop10=omnTitle
 /* E-commerce Variables */
 s.campaign=""
-s.events=""
-s.products=""
-
+s.eVar27=""
 
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
