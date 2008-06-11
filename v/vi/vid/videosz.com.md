@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videosz.com privacy policy that was archived on 2007-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071008235246id_/http%3A//www.videosz.com/legal.php%3Fs%3D0%7C0%26lg%3Dus%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosz.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611224655id_/http%3A//www.videosz.com/legal.php%3Fs%3D0%7C0%7C0%26lg%3Dus%26pg%3Dprivacy) for the most accurate reproduction.*
 
 # VideosZ.com
 
@@ -68,4 +68,4 @@ If we decide to use your personally identifiable information in a manner materia
 
 If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please contact us by sending an e-mail. Please provide us with your password, user name and account number so we can service you quicker.
 
-For www.videosz.com and its related sites, please [contact us](https://web.archive.org/support.php?s=0|0&lg=us&pg=contact). 
+For www.videosz.com and its related sites, please [contact us](https://web.archive.org/support.php?s=0|0|0&lg=us&pg=contact). 
