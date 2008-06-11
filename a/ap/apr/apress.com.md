@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apress.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213022337id_/http%3A//www.apress.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apress.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611093001id_/http%3A//www.apress.com/info/privacypolicy) for the most accurate reproduction.*
 
 # APRESS.COM | Books for Professionals, by Professionals ...
 
