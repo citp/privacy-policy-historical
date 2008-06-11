@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011084224id_/http%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611062244id_/http%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.*
 
-# podOmatic Podcast Portal: Create, Find, Share Podcasts!
+# podOmatic - Create, Find, Share Podcasts!
 
 ### **podOmatic Privacy Policy**
 
@@ -28,9 +28,9 @@ podOmatic is not designed for children under age 13. We recommend that children 
 **General**  
 
 
-  * You can edit your [podOmatic User Information](https://web.archive.org/user),
+  * You can edit your [podOmatic User Information](http://www.podomatic.com/user),
   * We reserve the right to send you certain communications relating to the podOmatic service, such as service announcements, administrative messages and the podOmatic Newsletter or podMail, that are considered part of your podOmatic account, without offering you the opportunity to opt-out of receiving them. 
-  * You can delete your podOmatic account by visiting our [Account Deletion](https://web.archive.org/user/delete) page.
+  * You can delete your podOmatic account by visiting our [Account Deletion](http://www.podomatic.com/user/delete) page.
 
 
 
