@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the insideview.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011034753id_/http%3A//www.insideview.com/sub-co-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideview.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611224427id_/http%3A//www.insideview.com/cat-privacy.html) for the most accurate reproduction.*
 
-# InsideView - We Think. You Sell. Sales Intelligence Evolved.
+# InsideView - Privacy, It's Important to All of Us
 
-InsideView Privacy Policy
-
-Your privacy is very important to InsideView. This Privacy Policy was prepared because we believe you should know as much as possible about InsideView’s practices. It describes the information we collect about you and what may happen to that information, as well as our Security measures.
+Your privacy is very important to InsideView™. This Privacy Policy was prepared because we believe you should know as much as possible about InsideView’s practices. It describes the information we collect about you and what may happen to that information, as well as our Security measures.
 
 This document is merely a disclosure of our current practices. It is not a contract and does not create any legal rights or obligations for any party. We reserve the right to revise this Privacy Policy at any time and at our discretion.
 
@@ -17,6 +15,8 @@ Our Disclosure of Your Information
 Account Cancellation Procedures  
 Notification of Changes to our Privacy Policy  
 Effectiveness
+
+* * *
 
 **1\. Security  
 **InsideView has security measures in place to protect the loss, misuse, and alteration of the information under our control. We have taken measures to protect user information once it is received by the InsideView Web site (the "Site"), including but not limited to the following: limited and controlled access by employees, servers and data stored in a secured location, security software and hardware (such as firewalls, encryption, Secure Socket Layers) where appropriate and cost effective.
