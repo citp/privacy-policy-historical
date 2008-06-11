@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213025737id_/http%3A//www.rocklandtrust.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611161356id_/http%3A//www.rocklandtrust.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Welcome to Rockland Trust
 
@@ -117,6 +117,6 @@ DMA Telephone Preference Service
 P.O.Box 9014  
 Farmingdale, NY 11735-9014 
 
-For more information visit: [www.the-dma.org](https://web.archive.org/web/20071213025737id_/http%3A//www.rocklandtrust.com/pop/Disclaimer.aspx?url=http://www.the-dma.org/).
+For more information visit: [www.the-dma.org](https://web.archive.org/web/20080611161356id_/http%3A//www.rocklandtrust.com/pop/Disclaimer.aspx?url=http://www.the-dma.org/).
 
 :: Top of the page ::
