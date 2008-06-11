@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611053938id_/http%3A//www.youtele.com/policy.php) for the most accurate reproduction.*
 
 # Broadband from YOU Telecom: Leading Hi Speed Broadband Internet Service provider in India.Super Fast Connection.
 
@@ -6,15 +6,15 @@
 ---|---|---|---|---  
   |  | Homeuser  
 ---  
-[Tariff Plans](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/homeuser_plans.php)  
-[My Account](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/myaccount.php)  
-[Find a Dealer ](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/find_dealer.php)  
-[New Connection Via SMS](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/newsms.php)  
-[Apply For New Connection](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/form.php)  
+[Tariff Plans](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/homeuser_plans.php)  
+[My Account](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/myaccount.php)  
+[Find a Dealer ](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/find_dealer.php)  
+[New Connection Via SMS](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/newsms.php)  
+[Apply For New Connection](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/form.php)  
 [Locate Your Drop Box](http://www.skyfin.com/Boxloc.aspx)  
-[YOU Call ](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/youcallplans.php)  
-[Fair Access Policy](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/benchmark.php)  
-[ Check Availiablity ](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/feasiblity1.php)  
+[YOU Call ](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/youcallplans.php)  
+[Fair Access Policy](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/benchmark.php)  
+[ Check Availiablity ](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/feasiblity1.php)  
 [Explanation of Bill](http://www.youtele.com/webhelp/explan_bill.htm)  
    
    
