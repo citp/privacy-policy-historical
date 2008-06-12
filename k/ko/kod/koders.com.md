@@ -1,77 +1,74 @@
-> *The following text is extracted and transformed from the koders.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214024705id_/http%3A//www.koders.com/corp/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koders.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612184102id_/http%3A//www.koders.com/corp/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Koders Privacy Policy
 
-_Version 9/04/2007_
+At Black Duck Software we respect your right to privacy. We understand that as a visitor to one our web sites (www.blackducksoftware.com and www.koders.com) (each a "Web Site"), you prefer to control your own personal information preferences. For this reason, we may ask you to register or provide personal information and preferences when you visit certain areas of our Web Sites, download free software, upload software for our search engine, request information, register for events, register new products, subscribe to company newsletters, or use our message forums. 
 
-At Koders, we strive to develop innovative services to better serve our users. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use Koders's services, as well as some of the steps we take to safeguard it. 
+We will guard the personal information you share with us to ensure that the content and services we provide on our Web Sites are always tailored to your current, designated preferences. 
 
-The following principles apply to the personally identifying information we ask for and that you provide. "Personally identifying information" is information that individually identifies you, such as your name, physical address or email address. You can find more details about the data we collect on particular services by clicking the links on the side of this page. 
+When you provide Black Duck Software with your name, email address, mailing address, or telephone number, and you don't "opt out", we may use this information to alert you to company news, new services and other company and product information. We don't sell any user-provided information to third parties.
 
-### Data Collection
+If you don't want Black Duck Software or Black Duck Software representatives to contact you, you may "opt-out" of this preference at any time, whether you're online or contacting Black Duck Software directly. You'll always have the flexibility to opt back in at any time based on previous information or newly updated information. See the "How to update your personal information" section for further information. 
 
-  * Koders search and some other services do not require any personally identifying information. 
-  * Koders collects limited non-personally identifying information your browser makes available whenever you visit a website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services. 
-  * Some of our services require you to register for an account. Koders asks you for some personal information in order to create an account (typically your name, email address and a password for your account) and we will use that information to provide the service. For certain services, we may request credit card or other payment information which we maintain in encrypted form on secure servers. 
-  * When we require personally identifying information, we will inform you about the types of information we collect and how we use it. We hope this will help you make an informed decision about sharing your personal information with us. 
+### Collecting other personal information
 
+When you browse our Web Sites, you can do so anonymously. Generally, we don't collect personal information when you browse - not even your email address. However, your browser automatically tells us the type of computer and operating system you're using. 
 
+Like most standard web servers, our Web Sites use log files and cookies. A "cookie" is a small line of text that is stored with your Web browser for record-keeping purposes and helps Black Duck Software provide better service to you. Your browser has an option to accept, reject or provide you with notice when a cookie is sent. 
 
-### Cookies
+As you visit our Web Sites, a cookie follows as you navigate the site, collecting information including internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, number of clicks, and similar information. This information is used to analyze trends, administer the site, track users' overall movements, and gather broad demographic information for aggregate use only, to help us understand what users are seeking on our Web Sites. We may share this information with third parties for the purpose of processing and trend analysis. IP addresses are not linked to personally identifiable information, and personal information about you is not collected or shared as a result of this process. 
 
-  * Upon your first visit to Koders, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. Koders does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Koders features or services may not function properly without cookies. 
+For certain Web Site functions, such as the purchase of a product or service or create an account for using our message forums,, we may request certain personally identifiable information from you. You must provide contact information (such as name, email, and address) and, where applicable, financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. We do not retain credit card data without your express authorization.
 
+### How we protect your personal information
 
+When you enter sensitive information (such as a credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the sensitive information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-### Plugins
+Black Duck Software will always protect the personal information that you share with us. Black Duck Software stores information internally in a controlled, secure environment. We occasionally hire other companies to provide limited services on our behalf, including sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose. 
 
-  * The Koders IDE Plugins include features that may transmit data between your desktop PC and Koders.com. Any information transmitted in this manner will be subject to the same privacy policies as data exchanged between a web browser and Koders.com. If you do not wish to exchange data with Koders.com, you should uninstall the Koders Plugins from your computer(s). 
+If Black Duck Software requests general demographic information, this information is limited to reporting purposes only; users remain anonymous. Phone numbers, e-mail addresses, and postal addresses are never shared for demographic reports with outside entities. Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law when we believe in good faith that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on one of our Web Sites. 
 
+### How to update your personal information
 
+You can help Black Duck Software maintain the accuracy of your personal information by notifying us when you change your name, address, title, phone number, e-mail address or your content preferences. If at any time you wish to update your information or preferences, or you prefer to stop receiving communication from Black Duck Software, feel free to contact us at any time.
 
-### Pro/Enterprise Editions
+### Black Duck Software Privacy Contacts
 
-  * Koders Pro and Enterprise Editions DO NOT send or receive any information about indexed code. The security of your index is controlled by the security of system and network it is a part of. At no time will Koders be able to access your source code or index. Access to a Pro/Enterprise index is under the control of the index and system administrators. Users are required to login and authenticate via a secure socket web service to www.koders.com to control subscriptions and verify identity. These transactions allow users to create accounts, login and check team subscription status. 
+**POSTAL MAIL:**
 
+Black Duck Software, Inc.
 
+Attn: Privacy
 
-### Information Sharing
+265 Winter Street
 
-  * We do not rent or sell your personally identifying information to other companies or individuals, unless we have your consent. We may share such information in any of the following limited circumstances: 
-    * We have your consent. 
-    * We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures. 
-    * We conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of Koders, its users or the public. 
-  * If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent. 
-  * We may store and process personal information collected on our site in the United States or any other country in which Koders Inc. or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country. 
-  * In the event of a transfer of ownership of Koders Inc., such as acquisition by or merger with another company, we will provide notice before any personally identifying information is transferred and becomes subject to a different privacy policy. 
-  * We may share aggregated information with others. Examples of this include the number of users who searched for "Xml Persistence" or how many users clicked on a particular advertisement. 
+Waltham, MA 02451  
 
 
+USA
 
-### Information Security
+Tel: +1 781.891.5100 
 
-  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. 
-  * We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services. 
-
-
-
-### Updating Your Information
-
-  * We provide mechanisms for updating and correcting your personally identifying information for many of our services. For more information, please see the help pages for each service. 
+  
+  
 
 
+If you change your e-mail or postal address, please contact Black Duck Software. In order to make the appropriate corrections, please include both your old and new address.
 
 ### Links
 
-  * The sites displayed as search results or linked to by Koders's services are developed by people over whom Koders exercises no control. These other sites may place their own cookies on your computer, collect data or solicit personal information. 
-  * Koders may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of Koders's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results. 
+Our Web Sites may contain links to other web sites. Black Duck Software assumes no responsibility for the content or the privacy policies and practices of such web sites. Black Duck Software encourages you to read the privacy statements of these linked sites; their privacy practices may differ from ours.
 
+### Notification of Changes
 
+If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-### Changes To This Policy
+If we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their accounts, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes to our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web Sites notifying users of the change. In some cases where we post a notice we will also email users who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. Prior versions of this Privacy Policy will be kept in an archive for you to view. 
+### Business Transitions
 
-If you have any additional questions, please feel free to contact us any time at [info@koders.com](mailto:info@koders.com). 
+If Black Duck Software undergoes a business transition such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. If as a result of the business transition, users' personally identifiable information will be used in a manner different from that stated at the time of collection, they will be given choice consistent with our notification of changes section. 
+
+_Effective Date 4/25/08_
