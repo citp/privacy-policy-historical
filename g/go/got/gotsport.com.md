@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gotsport.com privacy policy that was archived on 2007-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070902061946id_/http%3A//www.gotsport.com/asp/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotsport.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612151241id_/http%3A//www.gotsport.com/asp/help/privacy.asp) for the most accurate reproduction.*
 
 # GotSport | Help | Privacy Statement
 
-GotSoccer Privacy Policy
+GotSoccer Privacy Policy & User Agreement
 
-January 1, 2006
+September 12, 2007
 
 At GotSoccer we recognize that privacy is important. This Policy applies to all of the 
 
@@ -59,6 +59,10 @@ GotSoccer processes personal information only for the purposes for which it was 
 Accessing and updating personal information
 
 When you use GotSoccer services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services. 
+
+Suggestions, Feedback & Software Development
+
+Here at GotSoccer we are continually improving our products as well as designing and building new ones. We gladly take into consideration all requests and feedback from our users to deliver the best products on the market, and then to continually refine them to be even better. GotSoccer may recieve requests for features that are already in development but have not yet been announced, or recieve feedback on existing systems and make adjustments to them. Due to the quantity and variety of feedback and requests that we recieve, it is not possible to credit these to individuals. All suggestions or ideas sent to GotSoccer become the intellectual property of GotSoccer, LLC. 
 
 Enforcement
 
