@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the jasminejade.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214094258id_/http%3A//www.jasminejade.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasminejade.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612110658id_/http%3A//www.jasminejade.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Now In: Privacy Policy
-
-  
+Now In: Privacy Policy   
 
 
 PRIVACY policy
