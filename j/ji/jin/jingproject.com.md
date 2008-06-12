@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jingproject.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216185324id_/http%3A//jingproject.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jingproject.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612034818id_/http%3A//www.jingproject.com/privacy.asp) for the most accurate reproduction.*
 
 # Jing Project: Visual communication starts here
 
