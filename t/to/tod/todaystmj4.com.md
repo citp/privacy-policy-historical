@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaystmj4.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017071229id_/http%3A//www.todaystmj4.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaystmj4.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612151926id_/http%3A//www.todaystmj4.com/about/privacy) for the most accurate reproduction.*
 
 # Today's TMJ4 - Milwaukee, Wisconsin News, Weather, Sports, WTMJ | WTMJ Privacy Policy
 
