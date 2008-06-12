@@ -1,45 +1,64 @@
-> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013034930id_/http%3A//www.oneupweb.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612104608id_/http%3A//www.oneupweb.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Oneupweb :: Professional Search Engine Marketing Company: Privacy Policy
+# Oneupweb Privacy Policy | Integrated Online Marketing Leader
 
-## Oneupweb® respects the privacy of its users
+(Print)
 
-Our goal is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, we sometimes collect information during your visits to understand what differentiates you from each of our millions of other users.
+EFFECTIVE DATE: November 5, 2007
 
-In order to demonstrate our commitment to your privacy, we have prepared this statement disclosing the privacy practices for the entire Oneupweb® site. Additional terms and conditions, if any, regarding the collection and use of your information may also be provided to you before you sign up for a particular service.
+**Oneupweb Respects the Privacy of Its Users**
 
-Here, you will learn what personally identifiable information of yours is collected, how and when we might use your information, how we protect your information, who has access to your information, and how you can correct any inaccuracies in the information.
+Please read this Privacy Policy carefully. Here, you will learn what personally identifiable information is collected by Oneupweb (“we” or “us”), how and when we might use website visitors’ (“you” or “your”) information, how we protect your information and how you can correct any inaccuracies in the information. By visiting and using OneUpWeb.com (“website”), you indicate your acceptance of this Privacy Policy, and the collection, management and use of your personal information as described below. 
 
-## What Information is Collected
+Because the internet is an evolving technology, we may make changes to our Privacy Policy from time to time. We reserve the right to revise this policy at any time by updating this posting without advance notice to you. These revisions are effective immediately upon posting. Therefore, we encourage you to check this Privacy Policy periodically. 
 
-Oneupweb® collects certain information from and about its users in three ways — directly from the user and from our Web server logs. User-Supplied Information: When you submit a form we may ask you for your name, e–mail address, and some other personal information. The more accurate information you volunteer, the better we are able to customize your Oneupweb® experience.
+**What Information is Collected**
 
-## Log Information
+ _Voluntarily submitted information_  
+When you submit a form requesting our research papers, studies, newsletters, other resources and/or requesting some information or correspondence, we sometimes ask you for your name, company name, email address, postal address, phone and/or other personal information. Voluntarily submitted information may be subject to additional terms and restrictions agreed upon at the time the information was submitted. Oneupweb collects and stores all voluntarily submitted information. 
 
-When you visit an Internet Web site, you disclose certain information about yourself, such as your Internet [Protocol] (IP) address, the time of your visit, and the referring location (e.g., the Site or page that offered a link to a Oneupweb® page). Oneupweb®, like many other sites, records this basic information about visits to its site. You should remember that whenever you voluntarily disclose personal information online, your information can be collected and used by others. Although Oneupweb® tries to protect your personal information, Oneupweb® cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. You are also solely responsible for maintaining the secrecy of any passwords you set up and/or any account information.
+_Information from our web server logs_  
+When you visit an internet website, you disclose certain information about yourself, such as your internet protocol (IP) address, the time of your visit and the referring location (e.g., the website or page that offered a link to a Oneupweb page). Information that can potentially be collected when you visit our website includes, but is not limited to: IP address, referring location and operating system information and various browser details. Oneupweb collects and stores all information automatically generated as you navigate our website. 
 
-## How and When Information is Used
+**How and When Information is Used**
 
-We use information in different ways, depending on the type of information: User–supplied information: This information is used for purposes such as personalization and verification. Web Server Logs: This information helps us identify which areas of our site are of interest to our visitors. Oneupweb® also collects the Internet [Protocol] (IP) addresses of its visitors for the purposes of system administration.
+Oneupweb does not make your personal information available to any third parties without your permission. When you provide us with personal information, Oneupweb may use that information in one or more of the following ways:
 
-## How We Protect Your Information
+  * For system administration and to improve our website and content;
+  * To contact you for informational, marketing or promotional purposes;
+  * When we believe in good faith that release is appropriate to comply with law, to enforce our Terms of Use agreement or to protect the rights, property or safety of users of this website or the public.
 
-The privacy and protection of your personal information is vitally important to us. Oneupweb® does not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective partners regarding your Oneupweb® usage are provided in the aggregate only and do not include any personally identifiable information about any individual user.
 
-Your access to some services and content is password protected. We recommend that you do not divulge your password to anyone. Oneupweb® will never ask you for your password in an unsolicited phone call or in an unsolicited e–mail. You should not disclose your user name and password to others.
 
-In addition, if applicable, you should remember to sign out of your Oneupweb® account or service at the end of each session. You may also wish to close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
+Oneupweb does not make your personal information available to third parties without your permission, although certain non-personally-identifiable user information may be provided in aggregate to third parties. Oneupweb’s use of information that is voluntarily submitted will be limited to the terms stated at the time the information was submitted. If you do not wish to be contacted by us in the future, please let us know by emailing us at [info@oneupweb.com](mailto:info@oneupweb.com). Please include “Do Not Contact” in the subject line of your email message. You may also submit your request in writing to: 
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, despite our efforts to protect your personal information, Oneupweb® cannot ensure or warrant the security of any information you transmit to us, or to or from our online products or services. You transmit all such information at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems.
+Oneupweb  
+Attn: Privacy Policy Administrator  
+13561 S. West Bayshore Drive  
+Suite 3000  
+Traverse City, MI 49684  
 
-## Who Has Access to the Information
 
-Except as described, Oneupweb® will not willfully disclose any individually identifiable information about its users to any third party without first receiving that user's permission. Oneupweb® may disclose personal information when we believe in good faith that the law requires it or to protect the rights or property of Oneupweb®. When you are at the Oneupweb® site and asked for personal information, you share that information with Oneupweb® alone.
+**How We Protect Your Information**
 
-We welcome any questions or comments you have about the Oneupweb® site.
+Oneupweb has appropriate security measures in place to protect against the loss, misuse or alteration of information and we make a reasonable effort to protect the security of your personally-identifiable information. However, we cannot warrant or ensure the security of any information you disclose online and all submissions of information on our website are made at your own risk.
 
-Oneupweb® 13561 S West Bayshore Drive Suite 3000 Traverse City, MI 49684 Ph: 231.922.9977 Fax: 231.922.9966
+**How Can I Correct Inaccuracies In My Information?**
 
-### Canine Security
+You may request to correct inaccuracies in your contact information. To submit corrections to your contact information please email us at [info@oneupweb.com](mailto:info@oneupweb.com). Please include “Contact Information Correction” in the subject line of your email message. You may also submit your corrections in writing to:
 
-We’d like to tell you that Fritter is the keeper of our database like that other famous dog that keeps the secret baked beans recipe. But honestly, she’s too busy making sure the UPS guy knows his place to be bothered.
+Oneupweb  
+Attn: Privacy Policy Administrator  
+13561 S. West Bayshore Drive  
+Suite 3000  
+Traverse City, MI 49684  
+
+
+**What If I Have Questions?**
+
+If you have any questions, concerns or feel that Oneupweb is not following its stated Privacy Policy, you may contact us at [info@oneupweb.com](mailto:info@oneupweb.com). Please include “Privacy Policy Inquiries” in the subject line of your email message. 
+
+  
+
+
+[top]
