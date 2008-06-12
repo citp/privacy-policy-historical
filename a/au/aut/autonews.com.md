@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autonews.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213044304id_/http%3A//www.autonews.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autonews.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612083926id_/http%3A//www.autonews.com/article/20051012/STATIC/310120002) for the most accurate reproduction.*
 
-# Automotive News: today
+# Automotive News -- In-depth coverage of the automotive industry with special features for subscribers
 
 Automotivenews.com is the Web site of Automotive News, a publication of the Automotive News Group, a business unit of Crain Communications Inc. Our postal address is 1155 Gratiot Ave., Detroit, MI 48207. We can be reached by e-mail at autonews@crain.com or by telephone at 313-446-6000. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
 
