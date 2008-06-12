@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edgarcayce.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213214255id_/http%3A//www.edgarcayce.org/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgarcayce.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612120913id_/http%3A//www.edgarcayce.org/policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-[](https://web.archive.org/web/20071213214255id_/http%3A//www.edgarcayce.org/\(\))Privacy Policy Statement
+[](https://web.archive.org/web/20080612120913id_/http%3A//www.edgarcayce.org/\(\))Privacy Policy Statement
 
 Our address is
 
