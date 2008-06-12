@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the famouswhy.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211081337id_/http%3A//www.famouswhy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famouswhy.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612090717id_/http%3A//www.famouswhy.com/privacy_policy) for the most accurate reproduction.*
 
-# FamousWhy.com - Famous People, Famous Regions, a Lot of Articles and Free Software Downloads
+# Famous People, Famous Regions, a Lot of Articles and Free Software Downloads
 
 08 March, 2007
 
