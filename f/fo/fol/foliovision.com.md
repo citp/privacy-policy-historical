@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the foliovision.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213210610id_/http%3A//foliovision.com/registration/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foliovision.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612021533id_/http%3A//foliovision.com/registration/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This is the web site of **Foliovision s.r.o.**.  
+Privacy policy for the web site of **Foliovision s.r.o.**.
 
+Our postal address is:
 
-Our postal address is   
-**Grosslingova 63  
-Bratislava, 81109**  
-Slovakia
+> **Foliovision s.r.o.  
+>  Grosslingova 63  
+>  Bratislava, 81109  
+>  Slovakia**
 
-We can be reached via e-mail at " + "")  
-or you can reach us by telephone at +1 416 352 5026  
-
+We can be reached via e-mail at info - at - foliovision dot com  
+or you can reach us by telephone at +1 416 352 5026
 
 Collection and use of visitor information:
 
@@ -32,6 +32,6 @@ If you supply us with your postal address on-line you may receive periodic maili
 
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-With respect to security we take great care to make sure that your information remains private.
+With respect to security we take great care to make sure that your information remains private. We hate spam too. Perhaps even more than you - we get a lot of it for ourselves and on behalf of our clients.
 
-If you feel that this site is not following its stated information policy, please contact us at the above addresses or phone number.
+**If you feel that this site is not following its stated information policy, please contact us at the above addresses or phone number.**
