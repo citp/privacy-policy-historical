@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213081026id_/http%3A//www.quickheal.co.in/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612201615id_/http%3A//www.quickheal.co.in/privacy-policy.asp) for the most accurate reproduction.*
 
 # Quick Heal
 
-| › | [About Us ](https://web.archive.org/web/20071213081026id_/http%3A//www.quickheal.co.in/about.asp)  
+| › | [About Us ](https://web.archive.org/web/20080612201615id_/http%3A//www.quickheal.co.in/about.asp)  
 ---|---  
 |   
-› | [Contact](https://web.archive.org/web/20071213081026id_/http%3A//www.quickheal.co.in/contact.asp)  
+› | [Contact](https://web.archive.org/web/20080612201615id_/http%3A//www.quickheal.co.in/contact.asp)  
 |   
-› | [Sitemap ](https://web.archive.org/web/20071213081026id_/http%3A//www.quickheal.co.in/sitemap.asp)  
+› | [Sitemap ](https://web.archive.org/web/20080612201615id_/http%3A//www.quickheal.co.in/sitemap.asp)  
 |   
   |    
   | 
 
   
-The following statement discloses Cat Computer Services Pvt. Ltd.’s privacy policies for its web site. We do update our policy periodically without notice so please check occasionally for any changes.
+The following statement discloses Quick Heal Technologies (P) Ltd.’s privacy policies for its web site. We do update our policy periodically without notice so please check occasionally for any changes.
 
 What information we gather
 
-We at Cat Computer Services Pvt. Ltd. respect your desire to protect personal information. This page reveals what sort of information we may ask you for, and in what situations.
+We at Quick Heal Technologies (P) Ltd. respect your desire to protect personal information. This page reveals what sort of information we may ask you for, and in what situations.
 
 We request personal information when you place an order, register a product, request a service, request for a trial copy of our software, correspond with us or engage in certain other activities on our website. For example:
 
@@ -44,15 +44,15 @@ Security
 
 We have taken security measures, consistent with international information practices, to protect your personal information. These measures include technical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration, or destruction. Credit card information is transmitted using secure socket layer (SSL) encryption.
 
-The personal information that you have provided to us may be transferred to other Cat Computer Service’s offices around the world. Also, in certain countries our outside contractors might undertake the collection, transferring, storage and processing of your information.
+The personal information that you have provided to us may be transferred to other Quick Heal Technologies’s offices around the world. Also, in certain countries our outside contractors might undertake the collection, transferring, storage and processing of your information.
 
 Statistical information
 
-We may track domain names, IP addresses, and browser types from people who visit our site. We use this information to produce traffic statistics for the Cat Computer Services Pvt. Ltd. sites. Such information is not co-related with any personal information.
+We may track domain names, IP addresses, and browser types from people who visit our site. We use this information to produce traffic statistics for the Quick Heal Technologies (P) Ltd. sites. Such information is not co-related with any personal information.
 
 Privacy policy of other companies
 
-The Cat Computer Services Pvt. Ltd. sites contain links to site of companies with whom we have a relationship. Cat Computer Services Pvt. Ltd. is not responsible for the privacy practices of its business partners. We encourage you to read their privacy statements, as they may differ from ours.
+The Quick Heal Technologies (P) Ltd. sites contain links to site of companies with whom we have a relationship. Quick Heal Technologies (P) Ltd. is not responsible for the privacy practices of its business partners. We encourage you to read their privacy statements, as they may differ from ours.
 
 Contact information
 
@@ -65,7 +65,7 @@ Global Support Centre
 |   |    
 ---|---|---  
  | Company   
-| :  |  Cat Computer Services Pvt. Ltd.  
+| :  |  Quick Heal Technologies (P) Ltd.  
   
  | Address  
 | :  |  Office No. 201, Sunrise Apartment,   
@@ -81,6 +81,8 @@ Global Support Centre
 | :  |  India  
  |  Phone  
 | :  |  +91-020-65223883/65223892/64004453  
+ |  Toll Free Number  
+| :  |  1800-233-3733 (For Indian Users having BSNL/MTNL/Reliance landline connection.)  
  |  Fax  
 | :  |  +91-020-25663632  
  |  Email  
