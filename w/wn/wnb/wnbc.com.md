@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wnbc.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011041243id_/http%3A//www.wnbc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnbc.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612061219id_/http%3A//www.wnbc.com/privacy) for the most accurate reproduction.*
 
 # Online Privacy Statement - Privacy News Story - WNBC | New York
 
@@ -34,9 +34,9 @@ The ads appearing on this Web site are delivered to you by DoubleClick, our Web 
 
  **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
 
- **Use of Information Collected by Our Site**
+**Use of Information Collected by Our Site**
 
 Our site uses both the personal and aggregated information collected for multiple purposes. The information is used to improve the content of the site, to customize the content and/or layout of the site for each individual user and to notify users about updates to the site or promotional offers or opportunities that we believe will be of interest to you.
 
