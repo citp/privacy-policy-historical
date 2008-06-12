@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fasteasytraffic.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214030654id_/http%3A//www.fasteasytraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasteasytraffic.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612102408id_/http%3A//www.fasteasytraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Fast Easy Traffic .Com- Traffic Delivery, Website Promotion
 
