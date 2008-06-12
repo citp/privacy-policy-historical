@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the michiganbusiness.us privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028163511id_/http%3A//www.michiganbusiness.us/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganbusiness.us privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612142646id_/http%3A//www.michiganbusiness.us/privacypolicy.php) for the most accurate reproduction.*
 
 # Michigan Business Privacy Policy and External Link Disclaimer
 
-_Last Updated:   May 17, 2007._
+_Last Updated:   March 31, 2008._
 
-The Michigan Business Directory (www.michiganbusiness.us) website is owned and managed by Nicayla Enterprises, Inc. (NEI).  NEI knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and responsibly. This notice describes our privacy policy. **By visiting MichiganBusiness.us -   you are accepting the practices described in this Privacy Notice.**
+The Michigan Business Directory ( [www.michiganbusiness.us](http://www.michiganbusiness.us/) ) website is owned and managed by Nicayla Enterprises, Inc. (NEI).  NEI knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and responsibly. This notice describes our privacy policy. **By visiting MichiganBusiness.us -   you are accepting the practices described in this Privacy Notice.**
 
 **What data do we collect automatically and why?**
 
@@ -28,15 +28,17 @@ From our payment operator we only receive registration related information, we h
 
 Technical information obtained while we provide support may be used to train personnel and to create documentation, knowledge base, FAQs and other support materials. No personal information of yours will be published. 
 
-NEI offers online services such as our "[Pay Per Lead Program](https://web.archive.org/web/20071028163511id_/http%3A//www.michiganbusiness.us/index.php?nic=enhanced#pay)". Some online services require you enter personal identifying information. Any information collected by online services we offer is not disclosed to third parties unless explicitly stated, and it is not used for any purposes not directly related to the functions of the application.
+NEI offers online services such as our "[Pay Per Lead Program](https://web.archive.org/web/20080612142646id_/http%3A//www.michiganbusiness.us/index.php?nic=enhanced#pay)". Some online services require you enter personal identifying information. Any information collected by online services we offer is not disclosed to third parties unless explicitly stated, and it is not used for any purposes not directly related to the functions of the application.
 
 **Newsletter Subscription**
 
-You may be interested in receiving notifications about new services.  We don't send more than one [email newsletter](https://web.archive.org/web/20071028163511id_/http%3A//www.michiganbusiness.us/showcompany.php?id=12277) per month.  Unsubscribe instructions are provided at the bottom of each message. Removal requests are processed immediately upon reception.
+You may be interested in receiving notifications about new services.  We don't send more than one [email newsletter](https://web.archive.org/web/20080612142646id_/http%3A//www.michiganbusiness.us/showcompany.php?id=12277) per month.  Unsubscribe instructions are provided at the bottom of each message. Removal requests are processed immediately upon reception.
 
 **What About Cookies?**
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide additional online features.  NEI does not use cookies on the MichiganBusiness.us website. 
+  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide additional online features.  NEI does not use cookies on the MichiganBusiness.us website. 
+
+  * Some links in on MichiganBusiness.us Web site(s) point to documents and sites which are not located within the internet domains that we manage, therefore they may use cookies. 
 
 
 
