@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usagreencardlottery.org privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223101841id_/http%3A//www.usagreencardlottery.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagreencardlottery.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612151514id_/http%3A//www.usagreencardlottery.org/privacypolicy.html) for the most accurate reproduction.*
 
 # WIN A GREEN CARD - APPLY FOR LOTTERY TODAY
 
@@ -6,7 +6,7 @@
 
 Privacy Policy
 
-Thank you for visiting the privacy policy page USAGREENCARDLOTTERY.ORG (the "Site"). USAGREENCARDLOTTERY.ORG takes privacy seriously, and wants you to feel comfortable using the Site. This page describes our online privacy policy ("Privacy Policy"). By visiting the Site, you are accepting the practices described in this Privacy Policy, as well as our terms of use. By applying for promotional offers, providing information to us, or otherwise using the Site in any way, you are further indicating your acceptance of this Privacy Policy and our terms of use. If you do not agree to this Privacy Policy or our terms of use, please do not use or visit this Site, and do not disclose any information to us. This Privacy Policy does not apply to other online or offline USAGREENCARDLOTTERY.ORG sites, products or services. .
+Thank you for visiting the privacy policy for US GREEN CARD SERVICES and its site USAGREENCARDLOTTERY.ORG (the "Site"). US GREEN CARD SERVICES takes privacy seriously, and wants you to feel comfortable using the Site. This page describes our online privacy policy ("Privacy Policy"). By visiting the Site, you are accepting the practices described in this Privacy Policy, as well as our terms of use. By applying for promotional offers, providing information to us, or otherwise using the Site in any way, you are further indicating your acceptance of this Privacy Policy and our terms of use. If you do not agree to this Privacy Policy or our terms of use, please do not use or visit this Site, and do not disclose any information to us. This Privacy Policy does not apply to other online or offline US GREEN CARD SERVICES sites, products or services. .
 
 Changes to Privacy Policy 
 
@@ -14,11 +14,11 @@ If we change this Privacy Policy, we will notify you by posting the revised priv
 
 Collection of Personal Information 
 
-Each time you provide information to take advantage of a promotional offer, enter to win a contest, send us an email, or otherwise transmit information via the Site, USAGREENCARDLOTTERY.ORG may obtain and collect personally identifiable information including (but not limited to) your name, email address, mailing address, and telephone number. You may also provide us with information that, when combined with personally identifiable information, provides us with a better idea of who you are, such as your gender, birthday, marital status, and education level (collectively with the personally identifiable information, "personal information"). If you choose to use our services, we may require you to provide information as indicated on the forms throughout the Site. 
+Each time you provide information to take advantage of a promotional offer, enter to win a contest, send us an email, or otherwise transmit information via the Site, US GREEN CARD SERVICES may obtain and collect personally identifiable information including (but not limited to) your name, email address, mailing address, and telephone number. You may also provide us with information that, when combined with personally identifiable information, provides us with a better idea of who you are, such as your gender, birthday, marital status, and education level (collectively with the personally identifiable information, "personal information"). If you choose to use our services, we may require you to provide information as indicated on the forms throughout the Site. 
 
 Use of Personal Information 
 
-USAGREENCARDLOTTERY.ORG may always use and share with others your personal information: 
+US GREEN CARD SERVICES may always use and share with others your personal information: 
 
   * to enable us to generally respond to you, or to process, validate and verify requests and/or purchase orders; 
 
@@ -35,17 +35,17 @@ USAGREENCARDLOTTERY.ORG may always use and share with others your personal infor
 
 
 
-USAGREENCARDLOTTERY.ORG may also use personal information for any marketing and survey purpose on behalf of itself and its affiliates and subsidiaries. USAGREENCARDLOTTERY.ORG may disclose personal information to third party agents and independent contractors that help us conduct our marketing and survey efforts. Further, USAGREENCARDLOTTERY.ORG may disclose personal information to other companies in connection with marketing efforts including but not limited to direct marketing, which may have no relationship to USAGREENCARDLOTTERY.ORG. Finally, if USAGREENCARDLOTTERY.ORG or any of its assets are acquired by or merged with another entity, member information will be one of the transferred assets. 
+US GREEN CARD SERVICES may also use personal information for any marketing and survey purpose on behalf of itself and its affiliates and subsidiaries. US GREEN CARD SERVICES may disclose personal information to third party agents and independent contractors that help us conduct our marketing and survey efforts. Further, US GREEN CARD SERVICES may disclose personal information to other companies in connection with marketing efforts including but not limited to direct marketing, which may have no relationship to US GREEN CARD SERVICES. Finally, if US GREEN CARD SERVICES or any of its assets are acquired by or merged with another entity, member information will be one of the transferred assets. 
 
-Additionally, USAGREENCARDLOTTERY.ORG will use or disclose your personal information under the following circumstances: (1) in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; (2) in the event you violate or breach an agreement with USAGREENCARDLOTTERY.ORG; (3) we believe you will harm the property or rights of USAGREENCARDLOTTERY.ORG or those of USAGREENCARDLOTTERY.ORG's other customers, (4) we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of USAGREENCARDLOTTERY.ORG's terms of use, or as otherwise required by law, or (5) personal information may also be shared with or sold to any successor to, or purchaser of, part or all of the assets of USAGREENCARDLOTTERY.ORG. 
+Additionally, US GREEN CARD SERVICES will use or disclose your personal information under the following circumstances: (1) in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; (2) in the event you violate or breach an agreement with US GREEN CARD SERVICES; (3) we believe you will harm the property or rights of US GREEN CARD SERVICES or those of US GREEN CARD SERVICES's other customers, (4) we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of US GREEN CARD SERVICES's terms of use, or as otherwise required by law, or (5) personal information may also be shared with or sold to any successor to, or purchaser of, part or all of the assets of US GREEN CARD SERVICES. 
 
 Opting-Out 
 
-USAGREENCARDLOTTERY.ORG members are automatically opted-in to receive USAGREENCARDLOTTERY.ORG newsletters and offer e-mails at the time of enrollment. You may opt-out by visiting the unsubscribe page. 
+US GREEN CARD SERVICES members are automatically opted-in to receive US GREEN CARD SERVICES newsletters and offer e-mails at the time of enrollment. You may opt-out by visiting the unsubscribe page. 
 
 Canceling Membership 
 
-You may cancel your USAGREENCARDLOTTERY.ORG membership at any time by visiting the unsubscribe page. If you decide to cancel your membership and later wish to re-enroll, you will not receive credit gifts earned using your previous account. USAGREENCARDLOTTERY.ORG reserves the right to terminate or suspend any account at any time with or without notice. USAGREENCARDLOTTERY.ORG does not tolerate any abuse, harassment, or fraudulent activity aimed towards other members or USAGREENCARDLOTTERY.ORG. 
+You may cancel your US GREEN CARD SERVICES membership at any time by visiting the unsubscribe page. If you decide to cancel your membership and later wish to re-enroll, you will not receive credit gifts earned using your previous account. US GREEN CARD SERVICES reserves the right to terminate or suspend any account at any time with or without notice. US GREEN CARD SERVICES does not tolerate any abuse, harassment, or fraudulent activity aimed towards other members or US GREEN CARD SERVICES. 
 
 Cookies 
 
@@ -57,21 +57,21 @@ We automatically track certain information based upon your behavior on the Site.
 
 Computer Profiles 
 
-USAGREENCARDLOTTERY.ORG may also collect and accumulate other anonymous data which will help us understand and analyze the Internet experience of our visitors. For instance, USAGREENCARDLOTTERY.ORG may accumulate visitor data relating to referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. Unless you provide us with personally identifiable information, we will not use such visitor data to identify you. 
+US GREEN CARD SERVICES may also collect and accumulate other anonymous data which will help us understand and analyze the Internet experience of our visitors. For instance, US GREEN CARD SERVICES may accumulate visitor data relating to referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. Unless you provide us with personally identifiable information, we will not use such visitor data to identify you. 
 
 Links and Companies providing Offers 
 
-This Privacy Policy applies only to the Site. The Site contains links that direct you to websites owned and operated by other companies. In particular, when you take advantage of a promotional offer, you will be directed to the web sites of our marketing partners that will also collect your personal information, such as credit card companies. USAGREENCARDLOTTERY.ORG does not control, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites, which may employ cookies and/or collect personal information. In addition, USAGREENCARDLOTTERY.ORG will not and cannot censor or edit the content of any third party site. Please be sure to read the privacy policy of each third party website that you visit. 
+This Privacy Policy applies only to the Site. The Site contains links that direct you to websites owned and operated by other companies. In particular, when you take advantage of a promotional offer, you will be directed to the web sites of our marketing partners that will also collect your personal information, such as credit card companies. US GREEN CARD SERVICES does not control, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites, which may employ cookies and/or collect personal information. In addition, US GREEN CARD SERVICES will not and cannot censor or edit the content of any third party site. Please be sure to read the privacy policy of each third party website that you visit. 
 
 Adult Supervision 
 
 Persons under the age of 18 are not eligible to use this Site unsupervised and we ask that minors do not submit any personal information to us. Persons under the age of 18 may only use this Site in conjunction with and under the supervision of their parents or guardians. 
 
-USAGREENCARDLOTTERY.ORG does not knowingly collect contact or personal information from persons under the age of 13. This Site is not intended to solicit information of any kind from children under the age of 13. It is possible that by fraud or deception we may receive information pertaining to children under the age of 13. 
+US GREEN CARD SERVICES does not knowingly collect contact or personal information from persons under the age of 13. This Site is not intended to solicit information of any kind from children under the age of 13. It is possible that by fraud or deception we may receive information pertaining to children under the age of 13. 
 
 Location of Data and Security 
 
-Your information may be stored and processed in the United States or any other country in which USAGREENCARDLOTTERY.ORG or its affiliates, subsidiaries or agents maintain facilities, and by using this Site, you consent to any such transfer of information outside of your country. 
+Your information may be stored and processed in the United States or any other country in which US GREEN CARD SERVICES or its affiliates, subsidiaries or agents maintain facilities, and by using this Site, you consent to any such transfer of information outside of your country. 
 
 We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption, and "firewalls." We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, perfect security does not exist on the Internet. 
 
