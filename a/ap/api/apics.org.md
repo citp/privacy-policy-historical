@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apics.org privacy policy that was archived on 2006-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060927021645id_/http%3A//www.apics.org/About/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apics.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612151040id_/http%3A//www.apics.org/About/privacy.htm) for the most accurate reproduction.*
 
 # APICS - Online Privacy Policy
 
@@ -24,4 +24,4 @@ When you request information or items related to the APICS CPIM and CIRM program
 
 APICS never rents or sells e-mail addresses to outside parties. Occasionally, you may wish to receive information or communication from an APICS client. In that instance, you will be asked for permission to share your e-mail address.
 
-After you create an online account with APICS, you will occasionally receive information about APICS products, services, and educational offerings that relate to your areas of interest unless you choose to opt-out. If you have questions or concerns about APICS’ online policy or wish to be removed from any APICS list, please contact APICS Customer Support at [service@apicshq.org](mailto:service@apicshq.org) or by telephone at (800) 444-2742 or (703) 354-8851.
+After you create an online account with APICS, you will occasionally receive information about APICS products, services, and educational offerings that relate to your areas of interest unless you choose to opt-out. If you have questions or concerns about APICS’ online policy or wish to be removed from any APICS list, please contact APICS Customer Support at [service@apics.org](mailto:service@apics.org) or by telephone at (800) 444-2742 or (703) 354-8851.
