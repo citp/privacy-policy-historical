@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cl-p.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029054047id_/http%3A//www.cl-p.com/siteinfo/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cl-p.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612062828id_/http%3A//www.cl-p.com/siteinfo/privacystatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
