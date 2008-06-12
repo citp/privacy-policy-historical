@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carfax.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229234021id_/http%3A//www.carfax.com/cfm/ofprivacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carfax.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612091606id_/http%3A//www.carfax.com/cfm/ofprivacy.cfm) for the most accurate reproduction.*
 
 # CARFAX Privacy Policy
 
@@ -26,7 +26,6 @@ How does CARFAX protect customer information?
 What about Cookies?  
 Will CARFAX disclose the information it collects to outside parties?  
 How does CARFAX allow customers to update or change the information it collects?  
-CARFAX Safe Teen Drivers Program  
 Privacy update policy  
 Contact Information  
 Your consent.**
@@ -67,28 +66,12 @@ You may update or change the information pertaining to your account by contactin
 
 To signup for our Hot Listings emails, we collect your email address. This email subscription will expire in 90 days. To unsubscribe from Hot Listings emails, click on the "Unsubscribe" link at the bottom of the **Hot Listings** email or you can [click here](http://carfax.custhelp.com/cgi-bin/carfax.cfg/php/enduser/ask.php?) to contact us. 
 
-**CARFAX Safe Teen Drivers Newsletter**  
-(back to top)  
-To [signup](https://web.archive.org/teen_driving/teen_safety_home.cfm) for our newsletter, we collect your email address. If you no longer wish to receive our newsletter or CARFAX mailings, please reply to the e-mail and simply type **REMOVE** in the subject line or you can [unsubscribe here](https://web.archive.org/web/20051229234021id_/http%3A//www.carfax.com/cfm/unsubscribe.cfm).
-
 **CARFAX Tell a Friend Program**  
 If a user elects to use [Tell A Friend](http://www.carfax.com/cfm/tell_a_friend_form.cfm?partner=TAF_2) service for informing a friend about our site, we ask them for the friend's name and email address. CARFAX will automatically send the friend a one-time email inviting them to visit the site. The information is used for the sole purpose of sending this one-time email. CARFAX does not store this information.
 
 **Privacy update policy**  
 (back to top)  
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change our privacy policy, we will post those changes to this privacy statement on [http://www.carfax.com.](https://web.archive.org/index.cfm) If we make material changes to this policy, we will notify you by means of a notice on [http://www.carfax.com](https://web.archive.org/index.cfm) 30 days prior to implementation.
-
-**Contact Information**  
-(back to top)  
-If you have any questions or suggestions regarding our privacy policy, please contact us by visiting our [Help Center](http://www.carfax.com/help) and submitting a question or writing to us at:
-
-Consumer Affairs  
-CARFAX, Inc.  
-10304 Eaton Place  
-Suite 500  
-Fairfax, VA 22030
-
-Please include your name, mailing address, email address and VIN along with your inquiry. 
 
 **Your consent**  
 (back to top)  
