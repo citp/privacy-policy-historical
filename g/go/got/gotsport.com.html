@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gotsport.com privacy policy that was archived on 2007-09-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070902061946id_/http%3A//www.gotsport.com/asp/help/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gotsport.com privacy policy that was archived on 2008-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080612151241id_/http%3A//www.gotsport.com/asp/help/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>GotSport | Help | Privacy Statement</title>
@@ -20,12 +20,98 @@
     }
     
 </script>
+<script language="javascript">
+function hex2num(hex) {
+ if(hex.charAt(0) == "#") { 
+  hex = hex.slice(1);
+ }
+ hex = hex.toUpperCase();
+ var hex_alphabets = "0123456789ABCDEF";
+ var value = new Array(3);
+ var k = 0;
+ var int1,int2;
+ for(var i=0;i<6;i+=2) {
+  int1 = hex_alphabets.indexOf(hex.charAt(i));
+  int2 = hex_alphabets.indexOf(hex.charAt(i+1));
+  value[k] = (int1 * 16) + int2;
+  k++;
+ }
+ return(value);
+}
+
+function num2hex(triplet) {
+ var hex_alphabets = "0123456789ABCDEF";
+ var hex = "#";
+ var int1,int2;
+ for(var i=0;i<3;i++) {
+  int1 = triplet[i] / 16;
+  int2 = triplet[i] % 16;
+
+  hex += hex_alphabets.charAt(int1) + hex_alphabets.charAt(int2);
+ }
+ return(hex);
+}
+
+function fadeColor(id,start_hex,stop_hex,difference,delay,color_background) {
+ if(!difference) difference = 20;
+ if(!delay) delay = 100;
+ if(!start_hex) start_hex = "#FFFFFF";
+ if(!stop_hex) stop_hex = "#000000";
+ if(!color_background) color_background = "c";
+ 
+ var ele = document.getElementById(id);
+ if(!ele) return;
+ var start= hex2num(start_hex);
+ var stop = hex2num(stop_hex);
+ 
+ for(var i=0;i<3;i++) {
+  start[i] = Number(start[i]);
+  stop[i] = Number(stop[i]);
+ }
+
+ for(var i=0;i<3;i++) {
+  if (start[i] < stop[i]) {
+   start[i] += difference;
+   if(start[i] > stop[i]) start[i] = stop[i];
+  }
+  else if(start[i] > stop[i]) {
+   start[i] -= difference;
+   if(start[i] < stop[i]) start[i] = stop[i];
+  }
+ }
+
+ var color = "rgb("+start[0]+","+start[1]+","+start[2]+")";
+ if(color_background == "b") {
+  ele.style.backgroundColor = color;
+ } else {
+  ele.style.color = color;
+ }
+
+ if((start[0] == stop[0]) && (start[1] == stop[1]) && (start[2] == stop[2])) return;
+
+ start_hex = num2hex(start);
+ window.setTimeout("fadeColor('"+id+"','"+start_hex+"','"+stop_hex+"',"+difference+","+delay+",'"+color_background+"')",delay);
+}
+
+    function init(){
+        fadeColor("FadeTopUI","#FFFFFF","#263658",10,25,'b');
+        fadeColor("FadeTopUI_B","#FFFFFF","#263658",10,25,'b');
+        window.setTimeout(init_footer,300)
+    }
+    
+    function init_footer(){
+        fadeColor("FadeFooter","#FFFFFF","#666666",10,25,'b');
+    }
+    
+    
+
+</script>
 </head>
 <body>
     <table cellpadding="0" cellspacing="0" bgcolor="" width="100%">
         <tbody><tr>
             <td height="54"><img src="/images/logos/gotsoccer07blueshiny.gif"></td>
-            <td><img src="/images/transparent.gif" width="4"></td>
+            <td><img src="/images/transparent.gif" width="1"></td>
             <td nowrap="" valign="bottom" width="99%">
             
                 <table cellpadding="0" cellspacing="0" width="100%">
@@ -64,9 +150,9 @@
     <tbody><tr>
         <td>
         
-<font class="PageHeading">GotSoccer Privacy Policy</font><br>
+<font class="PageHeading">GotSoccer Privacy Policy &amp; User Agreement</font><br>
 <br>
-January 1, 2006<br>
+September 12, 2007<br>
 <br>
 At GotSoccer we recognize that privacy is important. This Policy applies to all of the <u>products, services and websites</u> offered by GotSoccer LLC. or its subsidiaries or affiliated companies (collectively, GotSoccer's "services"). 
 GotSoccer adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
@@ -143,6 +229,13 @@ GotSoccer processes personal information only for the purposes for which it was 
 When you use GotSoccer services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services. 
 <br>
 <br>
+
+<font class="SubHeading">Suggestions, Feedback &amp; Software Development</font><br>
+<br>
+Here at GotSoccer we are continually improving our products as well as designing and building new ones. We gladly take into consideration all requests and feedback from our users to deliver the best products on the market, and then to continually refine them to be even better. GotSoccer may recieve requests for features that are already in development but have not yet been announced, or recieve feedback on existing systems and make adjustments to them. Due to the quantity and variety of feedback and requests that we recieve, it is not possible to credit these to individuals. All suggestions or ideas sent to GotSoccer become the intellectual property of GotSoccer, LLC. 
+<br>
+<br>
+
 <font class="SubHeading">Enforcement</font><br>
 <br>
 GotSoccer regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or GotSoccer's treatment of personal information by <a href="/asp/help/contact.asp">contacting us</a> through this web site or by writing to us at GotSoccer, LLC., 2000 Strand Street, Neptune Beach, FL 32266, USA. When we receive formal written complaints at this address, it is GotSoccer's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between GotSoccer and an individual. 
@@ -167,6 +260,7 @@ If you have any additional questions or concerns about this Policy, please feel 
     <table width="100%">
         <tbody><tr>
             <td align="right">
+            
             <table width="300" cellpadding="0" cellspacing="0">
                 <tbody><tr bgcolor="#3B5489">
                     <td align="left"><img src="/images/ui/cornerCHOPtopLeft.gif"></td>
@@ -180,9 +274,10 @@ If you have any additional questions or concerns about this Policy, please feel 
                     <td align="left" colspan="6"><img src="/images/transparent.gif" width="10" height="4"></td>
                 </tr>
                 <tr bgcolor="#FFFFFF">
-                    <td align="left" colspan="6"><font style="font-size: 7pt;" color="#666666">©2007 GotSoccer, LLC</font></td>
+                    <td align="left" colspan="6"><font style="font-size: 7pt;" color="#666666">©2008 GotSoccer, LLC</font></td>
                 </tr>
             </tbody></table>
+            
             </td>
         </tr>
     </tbody></table>
