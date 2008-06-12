@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a1-webmarks.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011121659id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1-webmarks.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612065549id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html) for the most accurate reproduction.*
 
 # A1-Webmarks - Privacy Policy
 
@@ -16,6 +16,8 @@ Q-Success only collects data that is not personally identifiable by us, unless e
 
 We do employ cookies to identify users after sign-up and login. We do not employ cookies for any other purpose. A cookie is a small text file that our web server places on a user’s computer hard drive to store some information. The site can be used without accepting cookies, but major functionalities cannot be accessed in that case.
 
+We use Google Adsense as advertising service. Google uses cookies and similar techniques to collect data in the ad serving process. However, Google has no access to private data you provide on this site.
+
 ## Information Usage
 
 The information collected by Q-Success is used to monitor this site's performance and to find ways to improve it. The information we collect will not be used to create customer profiles based on browsing history. We will not supplement information collected at our web site with data from other sources. Email addresses disclosed by users for sign-up are not used by Q-Success for other purposes and are not divulged to any third party.
@@ -26,7 +28,7 @@ All information in the User profile other than email address and password is pub
 
 We offer links to other web sites. Please note: When you click on links to other web sites, we encourage you to read their privacy policies. Their standards may differ from ours.
 
-If our policy on information collection or uses changes, we will advise you by putting a note on the site's home page for at least one month. If you have any further questions about privacy, please contact us by sending an email to: [office@a1-webmarks.com](mailto:office@a1-webmarks.com).
+If you have any further questions about privacy, please contact us by sending an email to: [office@a1-webmarks.com](mailto:office@a1-webmarks.com).
 
   
-[Terms of Use](https://web.archive.org/web/20071011121659id_/http%3A//www.a1-webmarks.com/terms_of_use_en.html)   [Privacy Policy](https://web.archive.org/web/20071011121659id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html)   [Feedback](https://web.archive.org/web/20071011121659id_/http%3A//www.a1-webmarks.com/feedback_en.html)Copyright © 2006-2007 Q-Success
+[Terms of Use](https://web.archive.org/web/20080612065549id_/http%3A//www.a1-webmarks.com/terms_of_use_en.html)   [Privacy Policy](https://web.archive.org/web/20080612065549id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html)   [Feedback](https://web.archive.org/web/20080612065549id_/http%3A//www.a1-webmarks.com/feedback_en.html)Copyright © 2006-2008 Q-Success
