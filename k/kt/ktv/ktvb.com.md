@@ -1,29 +1,27 @@
-> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011145253id_/http%3A//www.ktvb.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613010751id_/http%3A//www.ktvb.com/registration/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | KTVB.COM | Boise, Idaho News, Weather, Sports, Video, Traffic & Events
 
 ### Privacy Policy
 
-**Updated as of July 18, 2007 and effective as of August 18, 2007**
-
-To view the current Privacy Policy, [click here](https://web.archive.org/sharedcontent/includes/registration/privacy-old.html)
+**Effective as of August 18, 2007**
 
 www.ktvb.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Belo Corp. and its affiliated companies (collectively, "Belo", "we" or "us") through your use of www.ktvb.com (the "Site"). This Privacy Policy does not apply to any information you may provide to us offline or through any means other than this Site. For example, this Privacy Policy does not apply to information you provide when you subscribe by postal mail or telephone to one of our newspapers or to information that you provide to us at a live event or when you respond by postal mail or telephone to a survey or an invitation to enter a sweepstakes. These examples are not meant to be exhaustive, and this Privacy Policy does not apply to many other instances in which we may collect information from you offline. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this Site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our [Terms of Service](https://web.archive.org/registration/terms.html). Understanding that Internet technologies are rapidly evolving, we reserve the right to make changes to this Privacy Policy at any time. Any such changes will be promptly posted on this page, with an updated "effective date" posted at the beginning and/or end of this policy.
 
 This Privacy Policy explains the following: 
 
-  * [What types of information we collect](https://web.archive.org/web/20071011145253id_/http%3A//www.ktvb.com/registration/infotypes)
-  * [What cookies and beacons are and why we use them](https://web.archive.org/web/20071011145253id_/http%3A//www.ktvb.com/registration/cookies)
-  * [How we use your personal information](https://web.archive.org/web/20071011145253id_/http%3A//www.ktvb.com/registration/personal)
-  *   * [Who is the party collecting your personal information](https://web.archive.org/web/20071011145253id_/http%3A//www.ktvb.com/registration/collecting)
-  * [How you can opt-out of sharing your personal information or receiving our promotional communications](https://web.archive.org/web/20071011145253id_/http%3A//www.ktvb.com/registration/optout)
-  * [How you can update your personal information or registration information](https://web.archive.org/web/20071011145253id_/http%3A//www.ktvb.com/registration/update)
-  * [What safeguards we put in place to protect your personal information](https://web.archive.org/web/20071011145253id_/http%3A//www.ktvb.com/registration/safeguards)
-  * [What you need to know about third-party sites and advertising](https://web.archive.org/web/20071011145253id_/http%3A//www.ktvb.com/registration/advertising)
-  * [Whether we knowingly collect personal information of children under 13](https://web.archive.org/web/20071011145253id_/http%3A//www.ktvb.com/registration/children)
-  * [How you can contact us](https://web.archive.org/web/20071011145253id_/http%3A//www.ktvb.com/registration/contact)
-  * [What you should know about "phishing"](https://web.archive.org/web/20071011145253id_/http%3A//www.ktvb.com/registration/phishing)
-  * [When this privacy policy is effective and how changes to the privacy policy are posted](https://web.archive.org/web/20071011145253id_/http%3A//www.ktvb.com/registration/changes)
+  * [What types of information we collect](https://web.archive.org/web/20080613010751id_/http%3A//www.ktvb.com/registration/infotypes)
+  * [What cookies and beacons are and why we use them](https://web.archive.org/web/20080613010751id_/http%3A//www.ktvb.com/registration/cookies)
+  * [How we use your personal information](https://web.archive.org/web/20080613010751id_/http%3A//www.ktvb.com/registration/personal)
+  *   * [Who is the party collecting your personal information](https://web.archive.org/web/20080613010751id_/http%3A//www.ktvb.com/registration/collecting)
+  * [How you can opt-out of sharing your personal information or receiving our promotional communications](https://web.archive.org/web/20080613010751id_/http%3A//www.ktvb.com/registration/optout)
+  * [How you can update your personal information or registration information](https://web.archive.org/web/20080613010751id_/http%3A//www.ktvb.com/registration/update)
+  * [What safeguards we put in place to protect your personal information](https://web.archive.org/web/20080613010751id_/http%3A//www.ktvb.com/registration/safeguards)
+  * [What you need to know about third-party sites and advertising](https://web.archive.org/web/20080613010751id_/http%3A//www.ktvb.com/registration/advertising)
+  * [Whether we knowingly collect personal information of children under 13](https://web.archive.org/web/20080613010751id_/http%3A//www.ktvb.com/registration/children)
+  * [How you can contact us](https://web.archive.org/web/20080613010751id_/http%3A//www.ktvb.com/registration/contact)
+  * [What you should know about "phishing"](https://web.archive.org/web/20080613010751id_/http%3A//www.ktvb.com/registration/phishing)
+  * [When this privacy policy is effective and how changes to the privacy policy are posted](https://web.archive.org/web/20080613010751id_/http%3A//www.ktvb.com/registration/changes)
 
 
 
@@ -71,25 +69,25 @@ We have today, and will in the future have, arrangements with third-party vendor
 Much of the information we collect is in the form of aggregated statistics, such as the traffic generated by visits on various pages within our Site, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally. We may use such aggregated information and disclose it to third parties as we see fit. 
 
 **Other Disclosures**  
-We reserve the right to release Personal Information about our visitors when release is appropriate to comply with law, to enforce our [Terms of Service](https://web.archive.org/registration/terms/), or to protect the rights, property or safety of visitors to our Site, the public, our customers, or of Belo. As our business grows, we may buy or sell various assets. In the unlikely event that Belo, or the bulk of our assets relating to this Site, is acquired by another company, Personal Information about our visitors would be among the transferred assets. If you choose to unsubscribe from a specific advertiser's email program in response to an email message that we deliver, we will share your email address and opt-out instructions with the relevant advertiser to ensure that your email privacy preferences are honored. Similarly, if we ask a third-party company to send email offers for Belo products and services to its customers, we will share with that company a list of email addresses collected from visitors of our Site who have opted-out of our email program to ensure that their privacy preferences are honored. 
+We reserve the right to release Personal Information about our visitors when release is appropriate to comply with law, to enforce our [Terms of Service](https://web.archive.org/registration/terms/), or to protect the rights, property or safety of visitors to our Site, the public, our customers, or of A.H. Belo. As our business grows, we may buy or sell various assets. In the unlikely event that A.H. Belo, or the bulk of our assets relating to this Site, is acquired by another company, Personal Information about our visitors would be among the transferred assets. If you choose to unsubscribe from a specific advertiser's email program in response to an email message that we deliver, we will share your email address and opt-out instructions with the relevant advertiser to ensure that your email privacy preferences are honored. Similarly, if we ask a third-party company to send email offers for Belo products and services to its customers, we will share with that company a list of email addresses collected from visitors of our Site who have opted-out of our email program to ensure that their privacy preferences are honored. 
 
 ### Who is the Party Collecting Your Personal Information?
 
 This Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, on-line auctions, chat rooms, forums, personal ads, interactive areas on the Site that allow you to submit and post your own content (such as stories, blogs, photos and videos), or the like, through third-party services or promotions offered on or through the Site, or through other websites throughout the Internet, different policies will apply and Belo will not be responsible for the use or dissemination of such information. The Site may offer message boards, chat rooms or other forums or interactive areas you can use to communicate with other computer users or Site visitors or to submit and post your own content. If you disclose personal information in one of these forums, this information can be viewed, collected, and used by others. Belo is not responsible for the use of information you disclose in these forums. We encourage you to consult the forum rules and the [Terms of Service](https://web.archive.org/registration/terms/) regarding the policies and procedures that apply to that portion of the Site.
 
-Our Site may operate as part of a larger group of sites and may carry co-branded pages. In addition, other third-party sites may use the Site's name, Belo's name, or the name of one of Belo's affiliated companies. Since Belo does not control the privacy policies of third parties, you are subject to the privacy policies, if any, of such third parties, and Belo shall not be responsible for the use or dissemination of your private information by such parties. Therefore, we encourage you to ask questions and review those parties' privacy policies before you disclose your Personal Information to others.
+Our Site may operate as part of a larger group of sites and may carry co-branded pages. In addition, other third-party sites may use the Site's name, A.H. Belo's name, or the name of one of A.H. Belo's affiliated companies. Since Belo does not control the privacy policies of third parties, you are subject to the privacy policies, if any, of such third parties, and Belo shall not be responsible for the use or dissemination of your private information by such parties. Therefore, we encourage you to ask questions and review those parties' privacy policies before you disclose your Personal Information to others.
 
 ### How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?
 
 We respect your privacy and ability to choose whether to share information with us and third parties. You may choose to "opt-out" of sharing Personal Information in several ways. When choosing to use certain features or services on the Site, you can choose whether to share optional Personal Information in connection with the feature or service. If you receive email, phone or mail communications from us that you prefer not to receive, you may opt-out from receiving these communications by modifying the contact options in your registration profile. You may change your contact options at any time by following the process described in "How Can You Update Your Personal or Registration Information," below.
 
-In addition to opting-out by managing your contact preference options, you may opt-out from receiving e-mail communications from any Site service by sending your request to [helpcenter@belointeractive.com](mailto:helpcenter@belointeractive.com), or by sending postal mail to:  
+In addition to opting-out by managing your contact preference options, you may opt-out from receiving e-mail communications from any Site service by sending your request to [Customer Service](https://web.archive.org/customerservice/HelpCenter.do), or by sending postal mail to:  
 Belo Interactive Media  
 Attn: Opt-Out Request  
 900 Jackson Street, Suite 400  
 Dallas, TX 75202
 
-Please note that changing the contact preference options described above will not affect your receipt of any wireless short text communications you may have registered to receive. To unsubscribe from wireless short text communications delivered to your wireless device(s) such as a cell phone, please send your "opt-out" request, including the wireless number or wireless address you wish to remove from our list, to [helpcenter@belointeractive.com](mailto:helpcenter@belointeractive.com), or by sending postal mail to:  
+Please note that changing the contact preference options described above will not affect your receipt of any wireless short text communications you may have registered to receive. To unsubscribe from wireless short text communications delivered to your wireless device(s) such as a cell phone, please send your "opt-out" request, including the wireless number or wireless address you wish to remove from our list, to [Customer Service](https://web.archive.org/customerservice/HelpCenter.do), or by sending postal mail to:  
 Belo Interactive Media  
 Attn: Opt-Out Request  
 900 Jackson Street, Suite 400  
@@ -130,7 +128,7 @@ Children should always get permission from their parents before sending any info
 
 ### How Do You Contact Us?
 
-If you have any questions or comments about our Privacy Policy, please e-mail us at [helpcenter@belointeractive.com](mailto:helpcenter@belointeractive.com).
+If you have any questions or comments about our Privacy Policy, please contact [Customer Service](https://web.archive.org/customerservice/HelpCenter.do).
 
 ### What we do NOT do: a warning about "phishing."
 
