@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213195757id_/http%3A//www.solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612031646id_/http%3A//www.solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
 
 # Solo-E.com Privacy Policy
 
@@ -28,10 +28,10 @@ Solo-Entrepreneur.com respects each individual's right to personal privacy. We c
 
 This statement, which details how we gather and disseminate information, has been drafted in an effort to demonstrate our strong commitment to YOUR privacy.
 
-Solo-Entrepreneur.com, Inc. is the sole owner of the information collected on www.solo-e.com. Solo-Entrepreneur.com collects information from our users to pay for their membership, for our newsletter list, to post their information in our directory, to send information to friends about the site, and in our discussion forums. 
+Solo-Entrepreneur.com, Inc. is the sole owner of the information collected on www.solo-e.com. Solo-Entrepreneur.com collects information from users to add them to our newsletter list, to post their information in our directory, and to send information to friends about the site. 
 
   
-Service signup and user interaction areas may require members to supply contact information, such as name, e-mail address, billing address and phone number. We use this information solely to process payments, perform the services offered via the site and to be able to contact you regarding administration of those services. 
+Service signup and user interaction areas may require users to supply contact information, such as name, e-mail address, billing address and phone number. We use this information solely to process payments, perform the services offered via the site and to be able to contact you regarding administration of those services. 
 
 The contact information you provide is used solely to validate your interest and to provide you with the information you require. None of the information you submit will ever be sold to or shared with a third party. 
 
@@ -50,7 +50,7 @@ The privacy rights conferred by this Privacy Policy inure to the benefit of the 
 
   
   
-Cookies are currently used to manage login information and access to protected areas of the site (such as the Experts-Only section and your individual information in the directory).
+Cookies are currently used to manage login information and access to protected areas of the site (such as the Experts-Only section and users' individual information in the directory).
 
 This privacy policy covers the use of cookies by Solo-E only and does not cover the use of cookies by any links or advertisers.
 
@@ -62,7 +62,7 @@ Like most standard Web site servers, we use log files. This includes internet pr
 **Communications from the Site**
 
   
-When you subscribe to our newsletter you are giving us permission to send you commercial email, including promotional material from third parties. (If you are not receiving the emails you requested from Solo-E.com, please visit our [FAQs](http://www.solo-e.com/FAQ/faq.shtml) for possible solutions.)
+When you subscribe to our newsletter you are giving us permission to send you commercial email, including promotional material from third parties. (If you are not receiving the emails you requested from Solo-E.com, please visit our [FAQs](http://www.solo-e.com/news/faqs.shtml) for possible solutions.)
 
   
 Solo-E does NOT share email addresses or any personally identifiable information including site usage information with third party advertisers.
@@ -78,20 +78,20 @@ This Web site contains links to other sites. Please be aware that we, Solo-Entre
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and e-mail address. Solo-E.com will automatically send the friend a one-time e-mail inviting them to visit the site. Solo-E.com temporarily stores this information for the sole purpose of sending this one-time e-mail and tracking the success of our referral program. This information is not retained and will not be used for any subsequent programs offered by Solo-Entrepreneur.com, Inc. 
 
   
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, in the directory or on the blog - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
+Please keep in mind that whenever you voluntarily disclose personal information online - for example on our comments area, through e-mail, in the directory or on the blog - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
 
-All members shall be responsible for any messages posted in the Solo-E.com forums or the Solo-E blog as well as be responsible for any consequences of messages transmitted. Solo-E.com reserves the right to remove any message that violate guidelines set forth on the site. If necessary, Solo-E.com has the right to remove and/or deny access to areas of the site to anyone who violates those guidelines. 
+All users shall be responsible for any messages posted in the Solo-E.com comments areas or the Solo-E blog as well as be responsible for any consequences of messages transmitted. Solo-E.com reserves the right to remove any message that violate guidelines set forth on the site. If necessary, Solo-E.com has the right to remove and/or deny access to areas of the site to anyone who violates those guidelines. 
 
-In submitting messages, members grant Solo-E.com a royalty-free, non-exclusive right and license to use, reproduce, edit, publish, distribute, and display the content of messages (in their entirety or partial) on the site or within other methods of communication. Therefore, we also allow others to access, view, and respond to messages.   
+In submitting messages, users grant Solo-E.com a royalty-free, non-exclusive right and license to use, reproduce, edit, publish, distribute, and display the content of messages (in their entirety or partial) on the site or within other methods of communication. Therefore, we also allow others to access, view, and respond to messages.   
 
 
   
-Members are solely responsible for maintaining the privacy of their personal information and password. Members will be responsible for all uses of their account and should ensure that unauthorized use is avoided by all reasonable means. In the event of unauthorized use, a member should [contact Solo-E.com immediately](http://www.solo-e.com/mainfiles/feedback.shtml).
+Users are solely responsible for maintaining the privacy of their personal information and password (where applicable). Users will be responsible for all uses of their account and should ensure that unauthorized use is avoided by all reasonable means. In the event of unauthorized use, a user should [contact Solo-E.com immediately](http://www.solo-e.com/mainfiles/feedback.shtml).
 
   
 This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and offline.
 
-If users have any questions about the security at our Web site, users can send an e-mail to [security@solo-e.com](mailto:security@solo-e.com) .
+If users have any questions about the security at our Web site, users can send an e-mail to [abuse@solo-e.com](mailto:abuse@solo-e.com) .
 
   
 If users have any questions or suggestions regarding our privacy policy, please [contact us](http://www.solo-e.com/mainfiles/feedback.shtml).
