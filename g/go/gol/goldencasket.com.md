@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldencasket.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529021224id_/http%3A//www.goldencasket.com/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldencasket.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612061035id_/http%3A//goldencasket.com/site/privacy.asp) for the most accurate reproduction.*
 
 # Golden Casket
 
@@ -21,7 +21,10 @@ Policy Guidelines
 Golden Casket Lottery Corporation Limited ABN 27 078 785 449 provides lottery products and services to Queenslanders. Under Australian laws your rights to privacy are protected. Golden Casket is bound by the National Privacy Principles contained in the Privacy Act 1988. These National Privacy Principles set out principles for the management of personal information. They are intended to protect the confidentiality of your personal information. We respect an individual’s right to privacy and we take the protection of your personal information seriously. 
 
 **What is personal information?**   
-Personal information is any information about you that identifies you or by which your identity can be reasonably determined. What personal information we collect The personal information that Golden Casket collects about you could include your: 
+Personal information is any information about you that identifies you or by which your identity can be reasonably determined. 
+
+**What personal information we collect**   
+The personal information that Golden Casket collects about you could include your: 
 
   * Name
   * Date of Birth
