@@ -1,26 +1,33 @@
-> *The following text is extracted and transformed from the construction.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613052929id_/http%3A//construction.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the construction.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612151727id_/http%3A//www.construction.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # McGraw-Hill Construction Privacy Notice
 
-When you register on one of our web sites, your e-mail address is added to the electronic mailing list of the business unit you were visiting so that, from time to time, we can send you information or newsletters about news, new features, additions and changes to our web site. If you provided us with any additional information while you were ordering a product, we will use this information to help us fulfill your order. Occasionally, McGraw-Hill Construction shares data collected about subscribers with other units within the family of The McGraw-Hill Companies and carefully screened companies outside The McGraw-Hill Companies, whose products or services we feel may be of interest to you.
+When you register on one of our web sites, your personal contact information provided on the registration form (including your name, e-mail address, and fax **)** is added to an electronic mailing list so that we can fulfill your order and, from time to time, send you product information or news about changes to our web site. In addition, McGraw-Hill Construction shares this data collected about subscribers with:
 
-If you are a subscriber to the Dodge Digital Plans and Specs service, we may furnish your name and address to applicable project owners and architects so that they can monitor their intellectual property rights in the applicable plans and specifications.
+  * Other units within the family of The McGraw-Hill Companies; 
+  * Companies outside The McGraw-Hill Companies whose products or services we feel may be of interest to you;
+  * Applicable project owners and architects so that they can monitor use of  their intellectual property rights in the applicable plans and specifications **;   **
+  * Product manufacturers in order for the manufacturers to follow-up on your requests; and
+  * Other businesses in the form of a listing in a directory published by McGraw-Hill Construction that includes your contact information.  Directories of this nature are used by other firms to conduct marketing activities.
+  * by other firms to conduct marketing activities. 
 
-If you download 3-Part specifications, Illustrations, Tables, CAD Library drawings or PDF catalogs from sweets.com, Network for products.com or products.construction.com, we will furnish your contact information provided during the registration process to the product manufacturer in order for the manufacturer to follow-up on your request.
 
-We use "cookies" only to help you navigate the site. We do not gather any information on you from any cookies, nor can we gather or change any information on your computer from our cookies. In order to change these cookie preferences, you must change your browser's preferences to disable cookies or delete cookies. Please note that disabling cookies for some services may affect the ability to use that service. Security information is specific to each browser and operating system. Please check with your browser's specific company for more information. Some examples of how to change your browser's preferences are as follows: In Internet Explorer (versions 6 and up), this option is listed under Tools > Internet Options > Privacy. The setting has to be set to Block All Cookies; In Netscape (versions 7 and up), this option is listed under Edit > Preferences > Privacy & Security > Cookies. The Disable Cookies button should be checked. 
 
-If you gave us your credit card number, it will be used one time only to fulfill one order. We do not keep or store credit card information. The exception is for subscribers who have submitted credit card numbers for ongoing monthly subscriptions. 
+We use "cookies" to customize our visitor's experience to the site. We do not use cookies, however, to collect any personally-identifiable information. In order to change these cookie preferences, you must change your browser's preferences to disable cookies or delete cookies. Please note that disabling cookies for some services may affect the ability to use that service. Security information is specific to each browser and operating system. Please check with your browser's specific company for more information. Some examples of how to change your browser's preferences are as follows: In Internet Explorer (versions 6 and up), this option is listed under Tools > Internet Options > Privacy. The setting has to be set to Block All Cookies.  In Netscape (versions 7 and up), this option is listed under Edit > Preferences > Privacy & Security > Cookies. The Disable Cookies button should be checked. 
 
-This information will be maintained in a secure database in the United States and accessed only by authorized employees. 
+Advertisers may also use cookies in order to serve ads on our website.  In the course of serving these advertisements, the third-party advertisers may place or recognize a unique permanent or session "cookie" on your browser. These third-party ad servers may also collect and use personally identifiable information about your visits to this and other web sites in order to present advertisements that may be of interest to you. If you would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-If you do not wish to have your name shared as previously described, wish to review the accuracy of the information you've provided or have any questions about our privacy practices, please send us a note with your name, address and account number to: 
+If you gave us your credit card number, it will be used one time only to fulfill each order. We do not keep or store credit card information. The exception is for subscribers who have submitted credit card numbers for ongoing monthly subscriptions. 
 
-**Amy Sidelinger**  
-Privacy Officer  
-McGraw-Hill Construction  
-148 Princeton-Hightstown Rd  
-Hightstown, NJ 08520  
-[Construction_Privacy_Policy@mcgraw-hill.com](mailto:Construction_Privacy_Policy@mcgraw-hill.com)
+Your information will be maintained in a secure database in the United States and the database will be accessed only by authorized employees. 
 
-Please be assured that we take your concerns about privacy quite seriously, and we intend to take every reasonable effort to protect your privacy. To that end, The McGraw-Hill Companies has developed a comprehensive privacy policy. For more information about The McGraw-Hill Companies' Customer Privacy Policy, see [www.mcgraw-hill.com/privacy.html](http://www.mcgraw-hill.com/privacy.html). For a complete listing of The McGraw-Hill Companies' premium brands, visit our Web site at [http://www.mcgraw-hill.com](http://www.mcgraw-hill.com/). 
+If you do not wish to have your name shared as previously described, if you **** wish to review the accuracy of the information you've provided or if you have any questions about our privacy practices, please send us a note with your name, address and account number to: ****
+
+> **Amy Sidelinger**  
+>  Privacy Officer  
+>  McGraw-Hill Construction  
+>  148 Princeton-Hightstown Rd  
+>  Hightstown, NJ 08520  
+>  [Construction_Privacy_Policy@mcgraw-hill.com](mailto:Construction_Privacy_Policy@mcgraw-hill.com)
+
+Please be assured that we take your concerns about privacy quite seriously, and we intend to take every reasonable effort to protect your privacy. To that end, The McGraw-Hill Companies has developed a comprehensive privacy policy. For more information about The McGraw-Hill Companies' Customer Privacy Policy, see [www.mcgraw-hill.com/privacy.html](http://www.mcgraw-hill.com/privacy.html). For a complete listing of The McGraw-Hill Companies' premium brands, visit our Web site at [http://www.mcgraw-hill.com](http://www.mcgraw-hill.com/).
