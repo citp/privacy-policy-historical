@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2007-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071111203659id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612101955id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electronic Frontier Foundation
-
-## About EFF's Search Function
-
-EFF uses Google for search functionality on [www.eff.org](http://www.eff.org/ "www.eff.org"). To protect your privacy, EFF proxies search requests to Google with a special CGI script on our server, thus hiding your IP address and your Google cookie (if any) from Google's servers. 
 
 The Electronic Frontier Foundation (EFF) is committed to protecting the privacy of visitors to our website, as well as our members and activists. EFF has established this Privacy Policy to explain what information we collect through this website and how it is used. 
 
@@ -40,6 +36,10 @@ We may run surveys, contests, or similar activities through this site. Such info
 
 We look at technical information to diagnose problems with our server and to administer the eff.org site. 
 
+## About EFF's Search Function
+
+EFF uses Google for search functionality on [www.eff.org](http://www.eff.org/ "www.eff.org"). To protect your privacy, EFF proxies search requests to Google with a special CGI script on our server, thus hiding your IP address and your Google cookie (if any) from Google's servers. 
+
 ## Third-Party Service Providers
 
 Portions of the eff.org site (shop.eff.org, secure.eff.org, and action.eff.org) are operated by a third-party grassroots campaign service provider ("Provider"), which is currently Convio. Provider may place cookies on your computer in order to store information, such as items placed in your shopping cart in the EFF Shop, or storing your account login when using the Action Center. Provider logs standard technical information, such as the numerical Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. 
@@ -74,4 +74,4 @@ EFF employs industry standard security measures to protect the loss, misuse, and
 
 Although we make good faith efforts to store information collected by EFF in a secure operating environment, we cannot guarantee complete security. Information collected by EFF will be maintained for a length of time appropriate to our needs. However, we generally do not retain credit card information unless you choose to have us make automatic monthly withdrawals from your account for your donation. 
 
-_Updated Oct. 6, 2005_
+_Updated Feb. 26, 2007_
