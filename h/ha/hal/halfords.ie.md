@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halfords.ie privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011190117id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/product_storeId_10001_catalogId_10651_langId_-1_partNumber_ST_378) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfords.ie privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612073836id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/product_storeId_10001_catalogId_10651_langId_-1_partNumber_ST_378) for the most accurate reproduction.*
 
 # Halfords Advice Centre -
 
