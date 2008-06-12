@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickindia.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011042847id_/http%3A//www.clickindia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickindia.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612062850id_/http%3A//www.clickindia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,4 +46,4 @@ Users of this Site may contact ClickIndia to modify or correct any of their pers
 
 **Contact Us**
 
-If you have any questions about this Privacy Statement, our privacy practices in connection with this Site, or our collection, use, disclosure, or retention of your personal information in connection with this Site, please contact us at info@clickindia.com.
+If you have any questions about this Privacy Statement, our privacy practices in connection with this Site, or our collection, use, disclosure, or retention of your personal information in connection with this Site, please contact us at info [at] clickindia.com.
