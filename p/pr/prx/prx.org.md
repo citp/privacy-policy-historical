@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prx.org privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012054841id_/http%3A//wiki.prx.org/display/HELP/PRX%2BPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prx.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612055323id_/http%3A//wiki.prx.org/display/HELP/PRX%2BPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # PRX Privacy Policy - Help - The Public Radio Exchange
 
@@ -36,7 +36,7 @@ Except as specifically permitted by this privacy policy or your User Agreement y
 
 ### Removal or Correction of Personally Identifiable Information
 
-You may also "Unsubscribe" from the site by emailing [help@prx.org](mailto:help@prx.org "Send mail to help@prx.org") with the subject "unsubscribe" and your username in the message. We will email you back as soon as your account has been disabled. This will have the effect of concealing the information that you provided upon registration from users of the site, other than administrators. If you "unsubscribe," you will lose access to the parts of the site for which you must provide such Personally Identifiable Information in order to gain access.
+You may also "Unsubscribe" from the site by emailing [help@prx.org](mailto:help@prx.org) with the subject "unsubscribe" and your username in the message. We will email you back as soon as your account has been disabled. This will have the effect of concealing the information that you provided upon registration from users of the site, other than administrators. If you "unsubscribe," you will lose access to the parts of the site for which you must provide such Personally Identifiable Information in order to gain access.
 
 If your Personally Identifiable Information is edited by you, we will not make any attempt to apply your edit to backup copies that we may have of the information, and in the event that it is necessary for us to restore our database from a backup, it is possible that your edit would be lost and the information previous to your edit would be restored. In such an event, we might not be able to determine that this had happened. Your recourse in such a case is to edit the information again.
 
