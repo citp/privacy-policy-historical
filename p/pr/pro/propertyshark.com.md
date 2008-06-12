@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the propertyshark.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214013114id_/http%3A//propertyshark.com/mason/text/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyshark.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612164304id_/http%3A//www.propertyshark.com/mason/text/privacy_policy.html) for the most accurate reproduction.*
 
-# PropertyShark text
+# PropertyShark - Privacy Policy
 
 **PropertyShark.com Privacy Policy**
 
-This policy describes the types of information PropertyShark.com gathers from its users of the PropertyShark.com network of Web sites and how that information is used. Please read this policy carefully before you provide us with any personal information. If you have questions about this policy, please email us at [support@propertyresearchpartners.com](mailto:support@propertyresearchpartners.com). 
+This policy describes the types of information PropertyShark.com gathers from its users of the PropertyShark.com network of Web sites and how that information is used. Please read this policy carefully before you provide us with any personal information. If you have questions about this policy, please email us at [support@propertyshark.com](mailto:support@propertyshark.com). 
 
 **Information We Collect**
 
@@ -29,7 +29,7 @@ We use the information we collect to:
 
 
 
-You may opt-out by contacting us at our customer service line or by sending an email to [privacy@propertyresearchpartners.com](mailto:support@propertyresearchpartners.com). We may also use the information you provide to allow us to contact you for administrative purposes; for example, to tell you about changes to our privacy policy.
+You may opt-out by contacting us at our customer service line or by sending an email to [privacy@propertyresearchpartners.com](mailto:support@propertyshark.com). We may also use the information you provide to allow us to contact you for administrative purposes; for example, to tell you about changes to our privacy policy.
 
 **Disclosure of Information**
 
