@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatwickairport.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214111213id_/http%3A//www.gatwickairport.com/portal/page/LGW%255EMisc%255EPrivacy%2BStatement/9ca16d35771a2010VgnVCM100000147e120a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatwickairport.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612160824id_/http%3A//www.gatwickairport.com/portal/page/LGW%255EMisc%255EPrivacy%2BStatement/9ca16d35771a2010VgnVCM100000147e120a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
 
 # BAA Gatwick: Privacy Statement
 
