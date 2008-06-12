@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027092444id_/http%3A//www.bostonmagazine.com/ADVERTISING/Bmag_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612194610id_/http%3A//www.bostonmagazine.com/ADVERTISING/Bmag_Privacy) for the most accurate reproduction.*
 
 # Boston Privacy Policy - Advertising - Boston Magazine
 
@@ -58,3 +58,5 @@ We may post hyperlinks to the Web sites of third-party advertisers, service prov
 **Children's Online Privacy**
 
 Consistent with the Children's Online Privacy Protection Act ("COPPA"), this Site is not intended for use by anyone under the age of 13. Boston Magazine does not knowingly collect personal information from children through this Site, or any of its Web sites. If you are a parent with concerns about children's privacy issues in conjunction with the use of this Site, please contact us at [rbertsche@plgt.com](mailto:rbertsche@plgt.com).
+
+[Terms & Conditions](https://web.archive.org/images/uploads/photos/shell/134_shellfile.pdf)
