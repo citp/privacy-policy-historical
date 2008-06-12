@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212052250id_/http%3A//www.keen.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612094107id_/http%3A//www.keen.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Keen: Privacy Policy
 
@@ -57,7 +57,7 @@ You will, however, always receive administrative emails from Keen that are relat
 
 If you have an Advisor listing and/or are earning money on Keen, we collect additional information from you so we can process and remit to you your Advisor fees and/or verify your personal and/or listing information. We collect your mailing address to remit payments, and we collect your Social Security number and/or Federal Tax ID number to prepare Form 1099s if necessary and to help us verify your identity. Members who are not United States taxpayers will not be asked for their Social Security numbers or Federal Tax ID numbers, though they may need to report income to their local tax authority and may be required to provide equivalent evidence of their identity. 
 
-Keen may collect credit card information when you create an Advisor listing, add money to your Member account or use your credit card to take advantage of special promotions. Keen uses a third party to process credit cards for billing purposes. This third party may store or retain a Member's personally identifiable information. In certain cases, we will also use credit card information to help us verify your identity. We do not charge or bill the credit card when we collect credit card information for identity verification purposes. You can review, update and change some of your personally identifiable information—including your email address, telephone number, password and PIN number—by clicking on the Personal Info link on the [My Account](https://web.archive.org/myaccount/default.asp) page. You can review, update or change your address and credit card information by going to the [My Account](https://web.archive.org/myaccount/default.asp) page on the Site, clicking on the link to the Payment Info page, and then clicking on the Credit Card Information link. You may correct, update or delete any of your Keen listings by clicking on the My Listings link on the [My Account page](https://web.archive.org/myaccount/default.asp). You may also update or correct information by filling out an updated [Customer Support](https://web.archive.org/Help/Support.aspx) form at [http://www.keen.com/Help/Support.aspx](https://web.archive.org/Help/Support.aspx) or you may write to Keen at Customer Support, Keen, PMB #331, 100 First Street, Suite 100, San Francisco, CA 94105. 
+Keen may collect credit card information when you create an Advisor listing, add money to your Member account or use your credit card to take advantage of special promotions. Keen uses a third party to process credit cards for billing purposes. This third party may store or retain a Member's personally identifiable information. In certain cases, we will also use credit card information to help us verify your identity. We do not charge or bill the credit card when we collect credit card information for identity verification purposes. You can review, update and change some of your personally identifiable information—including your email address, telephone number, password and PIN number—by clicking on the Personal Info link on the [My Account](https://web.archive.org/myaccount/default.asp) page. You can review, update or change your address and credit card information by going to the [My Account](https://web.archive.org/myaccount/default.asp) page on the Site, clicking on the link to the Payment Info page, and then clicking on the Credit Card Information link. You may correct, update or delete any of your Keen listings by clicking on the My Listings link on the [My Account page](https://web.archive.org/myaccount/default.asp). You may also update or correct information by filling out an updated [Customer Support](https://web.archive.org/Help/Support.aspx) form at [http://www.keen.com/Help/Support.aspx](https://web.archive.org/Help/Support.aspx) or you may write to Keen at Customer Support, Keen, 182 Howard Street, #826, San Francisco, CA 94105. 
 
 You may also provide Keen with additional profile information (such as experience, affiliations, on-call schedule, etc.) that is displayed publicly on the Site, on your home page or in your listings. Other than the profile information submitted by our Members, and except as noted herein, Keen does not disclose any personally identifying information to other Members without your permission. 
 
@@ -97,8 +97,7 @@ Send us an email — including your Member name and email address — by filling
 Send us mail to the following address:  
 Keen Cancel  
 Keen  
-PMB #331  
-100 First Street, Suite 100  
+182 Howard Street #826  
 San Francisco, CA 94105 
 
 **6\. Notification of Changes.**  
@@ -110,8 +109,7 @@ Email: [privacy@keen.com](mailto:privacy@keen.com)
 
 Mailing Address:   
 Keen  
-PMB #331  
-100 First Street, Suite 100  
+182 Howard Street #826  
 San Francisco, CA 94105 
 
 |  
