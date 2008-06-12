@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardofstudies.nsw.edu.au privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011074107id_/http%3A//boardofstudies.nsw.edu.au/administration/privacy_plan.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardofstudies.nsw.edu.au privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612064554id_/http%3A//www.boardofstudies.nsw.edu.au/administration/privacy_plan.html) for the most accurate reproduction.*
 
 # - Board of Studies NSW
 
@@ -7,32 +7,23 @@
 
 
   1. Introduction
-
   2. The Privacy and Personal Information Protection Act
-
   3. Specific Issues Relevant to the Office
-
   4. Implementation the Privacy Management plan
-
   5. Internal Review Process
-
   6. Dissemination of policies and procedures
-
   7. Disclosure of personal Information outside NSW
 
 
 
-
-## 1. Introduction
+## 1\. Introduction
 
 The _Privacy and Personal Information Protection Act 1998_ , ( _the Act_ ) provides the people of NSW with enforceable rights in relation to the ways in which public sector agencies collect, store, use and disclose personal information. The Office of the Board of Studies is committed to complying with _the Act._ Accordingly, all personal information collected now or in the future will be administered in accordance with _the Act_.
 
 The purpose of this management plan is to 
 
   * Identify personal information collected by the Office of the Board of Studies, and
-
   * Identify the policies and strategies that the Office of the Board of Studies will use to ensure compliance with _the Act_
-
 
 
 
@@ -46,9 +37,9 @@ Back to top
 
 * * *
 
-## 2. The Privacy and Personal Information Protection Act
+## 2\. The Privacy and Personal Information Protection Act
 
-### 2.1  Personal Information
+### 2.1 Personal Information
 
 _The Act_ defines personal information as:
 
@@ -58,28 +49,22 @@ Information or an opinion (including information or an opinion forming part of a
 
 _
 
-Personal information does not include.
+Personal information does not include:
 
   * Information contained in a publicly available publication 
-
   * Information about an individual’s suitability for public sector employment 
-
   * Information about people who have been dead for more than 30 years 
-
   * A number of exceptions relating to law enforcement investigations 
 
-  * Personal information held by the Office of the Board of Studies includes:
+
+
+Personal information held by the Office of the Board of Studies includes:
 
   * Employee data.
-
   * Student data, in relation to candidates for the School Certificate and Higher School Certificate examinations;
-
   * Teaching personnel employed by registered non-government schools;
-
   * Applicants for home schooling; and
-
   * Administrative records.
-
 
 
 
@@ -218,11 +203,8 @@ If a public sector agency believes that the information protection principles ar
 Privacy Codes of Practice allow an agency to modify one or more of the information protection principles. Codes of Practice can be made in relation to one of three things:
 
   * A particular type of personal information (s. 29(5)(a))
-
   * A particular organisation or type of organisation (s. 29(5)(b))
-
   * For a type of activity (s. 29(5)(c))
-
 
 
 
@@ -246,7 +228,6 @@ The Regulations may make provision for or with respect to the extent to which th
 
 
 
-
 **
 
 S.102 (Education Act 1990) Functions of the Board 
@@ -254,13 +235,9 @@ S.102 (Education Act 1990) Functions of the Board
 **
 
   * to prepare and distribute to schools information relating to the courses of study for candidates for the recognised certificates, and information relating to eligibility to be granted those certificates; 
-
   * to make such arrangements as may be necessary for the conduct of examinations or other forms of assessment for candidates for the recognised certificates and to regulate the conduct of those examinations or other forms of assessment and the recording of candidates’ achievements in them; 
-
   * to prepare and distribute to schools information relating to the conduct of examinations and other forms of assessment for candidates for the recognised certificates; 
-
   * (v)special arrangements for students with disabilities, including the approval of special courses of study, the modification of requirements for the grant of the recognised certificates and the grant of special records of achievement; 
-
 
 
 
@@ -273,24 +250,19 @@ The Education Regulation 1996 at clause 5, inter alia, states
 **
 
   1. This clause applies to the following results:
-
   2. results of School Certificate and Higher School Certificate examinations and related assessments,
-
   3. Results to which this clause applies must not be publicly revealed if the results relating to particular students are revealed.
-
   4. Results relating to a particular student may however be revealed as follows:
-
   5. to the student or to anyone with the student’s consent,
-
   6. to the student’s parents,
-
   7. to the principal of a school at which the student is enrolled or at which the student was previously enrolled,
-
   8. in the case of results of School Certificate or Higher School Certificate examinations and related assessments-by or with the approval of the Board of Studies, by way of the publication of the results of students who the Board considers have achieved outstanding results.
 
 
 
 Back to top
+
+* * *
 
 ## 3. Specific Issues Relevant to the Office
 
@@ -401,39 +373,29 @@ In addition to _the Act_ , the Office is subject to other legislation and Govern
 Legislation that has an impact on the handling of personal information includes:
 
   * Education Act 1990 and Regulation 1996
-
   * Freedom of Information Act 1989 
-
   * ICAC Act 1988
-
   * Protected Disclosures Act 1994 
-
   * State Records Act 1998 
-
 
 
 
 The following policies and procedures support compliance with _the Act_ :
 
   * NSW Government Personnel Handbook issued by the Public Sector Management Office, Premier’s Department;
-
   * Privacy Code of Practice for the NSW Public Sector Workforce Profile, Premier’s Department;
-
   * State Records Authority of NSW, Government Recordkeeping Manual;
-
   * Freedom of Information Procedure Manual (issued by Premier’s Department)
-
   * **Office of the Board of Studies Code of Conduct** This code of conduct establishes standards of professional behaviour expected of staff of the Office. The code was developed to assist all officers in clarifying their professional and ethical responsibilities in executing their duties, thereby encouraging public confidence in the work of the Board and its Office.
-
   * **Use of Office Communications Devices Policy** This policy statement sets out the principles underpinning the use of Office communication devices. The policy covers the responsibilities of all staff in relation to economy, personal use, record keeping, security and privacy, and unlawful use.
-
   * **Records Management Policy** The policy provides a basis for the effective management of the records generated by the Office, which in turn are assets of New South Wales. The policy is designed to inform staff about their responsibilities in relation to the creation, control, management, preservation and disposal of official records in all mediums. 
-
   * **Security of Electronic Information Systems Policy** The Office holds a considerable amount of data in its various computer systems, much of which is confidential and sensitive. This Policy, and its accompanying procedures and materials address all aspects of security relating to the Office’s systems. It sets out the principles held by the Office regarding security, identifies responsibilities of staff, and outlines the Office’s procedures in a wide range of areas.
 
 
 
 Back to top
+
+* * *
 
 ## 4.  Implementation the Privacy Management plan
 
@@ -447,27 +409,18 @@ Personnel records are maintained by the Human Resources Unit in both paper file 
 
   * **Personnel records (casual staff)**  
 including seasonal clerical staff, examination markers, presiding officers and supervisors and committee members, name and address details, bank account details and tax file numbers. The applicants provide all information. Applications for membership on committees or as examiners/markers require the endorsement of the School Principal/Director. Applicants are aware of this requirement, and that the Office will not accept the application without such endorsement. The original application form is retained, as is an electronic record. 
-
   * **Student records**  
 60% of student records are submitted on-line by schools, negating the need to retain paper records within the Office for those students. Schools submitting information on-line, retain the paper records. All data is held on the Office’s exam system in electronic form. Information held includes name, home address (for HSC candidates only), date of birth, school attended, and ethnicity and disability data. During the life of a record, assessment data and examination mark data are added to the record. Additional information provided to the Office in terms of Special Provisions (collected from the student and where applicable treating doctors, with the knowledge of the student) and Illness/Misadventure appeals are also held where an application for these provisions is made. 
-
   * Students undertaking practical examinations and /or languages are also required to provide a passport sized photograph for identification purposes. These photo ID’s are provided to the practical examiner, and to the presiding officer for languages examinations. At the completion of the examinations, the photographs are destroyed by either the school principal, or this Office if they are returned.
-
   * Data in relation to School Certificate, year 11 and Higher School Certificate candidates is retained indefinitely (with the exception of home addresses). Candidates are able to apply for a replacement certificate at any time on a fee for service basis. HSC students are able to undertake the HSC through a pathways program over a five (5) year period.
-
   * All personal information is collected directly from the student. In some instances, such as N awards, the signature of the student’s parent or guardian is also required.
-
   * Details of students undertaking distinction courses are held on a separate data base within the Planning and Development Branch. 
-
   * **Home schooling**  
 Information regarding applications and approvals for home schooling are maintained in both paper files and on a database. Information included in the data base is provided by the parent and/or guardian of children who will be home schooled. The Education Act 1990 requires that children who are being home schooled are registered between the age of six (6) and fifteen (15). 
-
   * **Teaching personnel employed by registered non-government schools**  
 Schools seeking registration, or renewal of their registration are required to provide evidence that the teachers within the school, or the persons providing supervision to teachers within the school, possess relevant teacher qualifications. Mandatory information is limited to names and qualifications. In some instances additional personal information is also provided. This information is retained on the school registration file, and is not released without the consent of the persons named. 
-
   * **Administration records**  
 The Client Services Unit, Information Services Branch maintains a mailing list for all schools, other key contacts in public sector agencies, professional bodies, research and community groups, similar organisations and business groups who receive a copy of all the Office’s publications. 
-
 
 
 
@@ -548,21 +501,13 @@ Collection
 The collection of personal information is limited to the necessary information to allow the employment and/or payment of:
 
   * Casual/seasonal staff within the Office
-
   * Casual clerical marking centre staff;
-
   * Presiding Officers and supervisors;
-
   * Examination markers;
-
   * Curriculum and syllabus committee members;
-
   * Curriculum writers;
-
   * Examination Committees;
-
   * Authorised persons for home schooling
-
 
 
 
@@ -616,15 +561,9 @@ Disclosure
 
 Personal information is not released without the authority of the applicant/employee in accordance with the guidelines provided in the Personnel Handbook issued by the Premier’s Department. Information is not disclosed for any other purpose than that for which it was provided without the consent of the applicant/employee.
 
-**
-
 #### 4.2.3 Student data
 
-** **
-
 Collection
-
-**
 
 The collection of student data enables the Office to carry out its functions under the Education Act 1990 in relation to the award of the School Certificate, preliminary year 11 and the Higher School Certificate
 
@@ -673,21 +612,14 @@ Disclosure
 Examination candidate details and results are released to:
 
   * the student
-
   * the school principal
 
 
-
   * the Department of Education and Training
-
   * the Catholic Education Office (results of affiliated schools) 
-
   * Universities Admission Centre 
-
   * Technical Committee on Scaling
-
   * the Association of Independent Schools (results of affiliated schools)
-
 
 
 
@@ -787,27 +719,21 @@ Mailing list information is collected to enable the Office to distribute news an
 
 Contact details for members of the Board and its Committees is used to support the administration of meetings. Private contact details of the Board and its Committee members are collected to enable them to be contacted in urgent cases or emergencies.
 
-**
-
-Storage security and disposal of personal information
-
-**
+**Storage security and disposal of personal information**
 
 The mailing list database is restricted to authorised persons **,** and can only be amended by authorised persons, usually upon request. The information is kept as long as it is relevant, is updated when necessary and deleted when no longer required.
 
-Contact details of the Board and its **** Committees are held securely **** and are only accessible to the President of the Board, the General Manager and the Board Secretary.
+Contact details of the Board and its Committees are held securely and are only accessible to the President of the Board, the General Manager and the Board Secretary.
 
-**
-
-Disclosure
-
-**
+**Disclosure**
 
 School mailing lists/data bases can be purchased from the Office, provided that the information to be dispatched is education related. Evidence of the information to be dispatched is required prior to the mailing list being made available.
 
 Personal details of private individuals purchasing products from the Office is not retained on the database. Once the purchase has been processed, the system automatically deletes the record. 
 
 Back to top
+
+* * *
 
 ## 5. Internal Review Process
 
@@ -818,15 +744,10 @@ If an individual has a complaint about the conduct of the Office of the Board of
 Under section 53 (3) of the Privacy and Personal Information Protection Act, an application for an internal review must:
 
   * Be in writing
-
   * Be addressed to the Office of the Board of Studies
-
   * Specify an address in Australia to which a notice can be sent
-
   * Be lodged with the Office within six (6) months (or such later date as the office may allow) from the time the applicant first became aware of the conduct the subject of the application, and
-
   * Comply with such other requirements as may be prescribed by the regulations to the Act.
-
 
 
 
@@ -839,24 +760,17 @@ The review will be completed as soon as is reasonably practicable in the circums
 As a result of the review the Office may:
 
   * Take no further action on the matter; or
-
   * Make a formal apology to the applicant; and/or
-
   * Take such remedial action as thought appropriate; and/or provide undertakings that the conduct will not occur again; and/or
-
   * Implement administrative measures to ensure that the conduct will not occur again.
-
 
 
 
 The Office is required to:
 
   * Notify the NSW Privacy Commissioner of an application for an internal review
-
   * Provide reports to the Privacy Commissioner on the progress of the internal review
-
   * Inform the Privacy Commissioner of the findings of the review and of the action taken by the Office in relation to the matter
-
 
 
 
@@ -867,20 +781,24 @@ If requested by the Office, the Privacy Commissioner may undertake the review.
 The Office will acknowledge the receipt of an application and write to an applicant within 14 days after completing the review and advise the applicant of:
 
   * The findings of the review and the reasons for those findings
-
   * Action proposed to be taken and the reasons for taking that action, and
-
   * The right of the applicant to have the findings, and the Office’s proposed action, reviewed by the Administrative Decisions Tribunal in NSW.
 
 
 
 Back to top
 
+* * *
+
+## 6\. Dissemination of policies and procedures
+
 The Office’s Privacy Plan is available to all staff via the Office’s Administrative {Policies and Procedures intranet facility. The plan will be communicated to staff generally via the General Manager’s weekly bulletin through the Office’s induction program for new staff through the identification and training of staff with special responsibilities for handling personal information ie information processing staff and client contact officers
 
 All contracts or arrangements for the engagement of services involving material subject to the _Privacy and Personal Information Protection Act_ will include an indemnification clause and a confidentiality clause _._ For this purpose, reference can be made to the office’s model contract for the engagement of contractors and consultants. Such contracts should also contain a monitoring and audit of the performance of the service providor in relation to privacy and any other performance criteria that may be required.
 
 All documents issued or administered by the office are managed in compliance with the State records Act 1998.
+
+* * *
 
 ## 7\. Disclosure of personal Information outside NSW 
 
@@ -889,10 +807,7 @@ Section 19 of _the Act_ in part, places restrictions on disclosures of personal 
 Exemptions to section 19 apply. Exemptions which may apply to the Office include, but are not limited to:
 
   * where the disclosure is reasonably necessary in order to investigate an offence where there are reasonable grounds to believe an offence has been committed or may be committed
-
   * where an agency is lawfully authorised or required not to comply or non-compliance is otherwise permitted or reasonably contemplated under any Act or law
-
   * where the individual expressly consents
-
 
 
