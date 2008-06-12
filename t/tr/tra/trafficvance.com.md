@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the trafficvance.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016110118id_/http%3A//www.trafficvance.com/privacy.tv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficvance.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612071452id_/http%3A//www.trafficvance.com/index.php%3Fpage%3Dpublic.PrivacyPolicy) for the most accurate reproduction.*
 
-# Trafficvance :: Advanced Display & Text Link Traffic
+# Trafficvance :: Advanced Display & Text Link Traffic | Privacy Policy
+
+| 
 
 Trafficvance Privacy Policy
 
@@ -62,3 +64,5 @@ Members of the Site who disagree with any provision of this Policy must immediat
 
 Changes to this Policy  
 Trafficvance may, from time to time, amend this Policy, in whole or part, in its sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised policy on the Site. Depending on the nature of the change, Trafficvance may announce the change (1) on the home page of the Site, or (2) provide such notice via e-mail to Members. By continuing to use the Site following any changes or by remaining a Member, you will be deemed to have agreed to such changes. Presented by Trafficvance.
+
+| 
