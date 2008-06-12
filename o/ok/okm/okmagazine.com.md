@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the okmagazine.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214011658id_/http%3A//www.okmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okmagazine.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612133817id_/http%3A//www.okmagazine.com/privacy) for the most accurate reproduction.*
 
 # OK! Magazine - Privacy
 
-| 
-
 ## PRIVACY POLICY
 
-This Privacy Policy discloses the privacy practices for okmagazine.com. For the purposes of this Privacy Policy, unless otherwise noted, all references to �OK!� include okmagazine.com and Northern & Shell North America Limited. Capitalized terms not defined herein shall have the meaning assigned to them in the okmagazine.com Terms and Conditions of Use. 
+This Privacy Policy discloses the privacy practices for okmagazine.com. For the purposes of this Privacy Policy, unless otherwise noted, all references to "OK!" include okmagazine.com and Northern & Shell North America Limited. Capitalized terms not defined herein shall have the meaning assigned to them in the okmagazine.com Terms and Conditions of Use. 
 
 OK! is committed to your right to privacy and will use your data only as set forth in our Privacy Policy below. Please read this information carefully. By using the Site you agree to our collecting and using your personal information as described below. 
 
@@ -58,7 +56,7 @@ OK! logs non-personally-identifiable information, including IP address, profile 
 
 Non-personally-identifiable data is used to manage the website, track usage and improve the website services. This information may be shared with third-parties, for purposes including providing more relevant services and advertisements to members. User IP addresses are also recorded for security and monitoring purposes. 
 
-You may also be issued with a Cookie or other tracking device from our advertisers. Advertisers� use of Cookies is subject to their own privacy policies, which may differ from the OK! Privacy Policy. 
+You may also be issued with a Cookie or other tracking device from our advertisers. Advertisers' use of Cookies is subject to their own privacy policies, which may differ from the OK! Privacy Policy. 
 
 Other Uses 
 
@@ -66,7 +64,7 @@ Except as otherwise described in this Privacy Policy, OK! will not disclose pers
 
 OK! reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of OK! or substantially all of its assets to that successor in interest. 
 
-Children�s Guidelines 
+Children's Guidelines 
 
 OK! does not knowingly collect or store any information, even in aggregate, about children under the age of 13. 
 
@@ -86,7 +84,7 @@ You may prevent My OK! email invitations and other messages from being sent to a
 
 How Is My Information Protected? 
 
-Users� accounts are secured by user-created passwords. OK! takes precautions to ensure that user account information is kept private. We use reasonable measures to protect user information that is stored within our database. 
+Users' accounts are secured by user-created passwords. OK! takes precautions to ensure that user account information is kept private. We use reasonable measures to protect user information that is stored within our database. 
 
 PLEASE NOTE THAT OK! CANNOT GUARANTEE THE SECURITY OF YOUR ACCOUNT INFORMATION. UNAUTHORIZED ENTRY OR USE, HARDWARE OR SOFTWARE FAILURE, AND OTHER FACTORS MAY COMPROMISE THE SECURITY OF MEMBER INFORMATION AT ANY TIME. 
 
@@ -97,28 +95,3 @@ From time to time we may make changes to our Privacy Policy. If we make changes,
 Any Queries? 
 
 If you have any queries or concerns about privacy on the Site, please contact us at: privacy@okmagazine.com or Privacy Policy Manager, OK! Magazine, Northern & Shell North America Limited, 475 Fifth Avenue, New York, NY 10017, USA. 
-
-|  |  [](https://web.archive.org/pixandvids/)
-
-[](http://www.okmagazine.com/trivia/)
-
-[](https://web.archive.org/myok/register/)
-
-#####  [Get your own  
-MYOK! space,   
-It's FREE to join.](https://web.archive.org/myok/register/)
-
-• Create your own profile • 
-
-Comment on Stories • Question the Editors • Plus lots more! 
-
-  1. PHOTOS [Hot Shots!](https://web.archive.org/pixandvids/gallery/1365/1/Hot-Shots!)
-  2. PHOTOS [Unwedded Parental Bliss](https://web.archive.org/pixandvids/gallery/3241/1/Unwedded-Parental-Bliss)
-  3. PHOTOS [Evolution of Jessica Alba](https://web.archive.org/pixandvids/gallery/3240/1/Evolution-of-Jessica-Alba)
-  4. PHOTOS [OK! Exclusive: Howie Dorough's Wedding!](https://web.archive.org/pixandvids/gallery/3232/1/OK!-Exclusive:-Howie-Dorough's-Wedding!)
-  5. NEWS [Britney's Friends Hold Secret Meeting](https://web.archive.org/news/view/3267/Britney's-Friends-Hold-Secret-Meeting)
-
-
-
-|   
----|---|---|---|---
