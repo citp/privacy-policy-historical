@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rent-a-list.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011042958id_/http%3A//www.rent-a-list.com/s/privacy.cgi/rent-a-list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent-a-list.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612063608id_/http%3A//www.rent-a-list.com/s/privacy.cgi/rent-a-list) for the most accurate reproduction.*
 
 # Email Marketing and lead generation. business opportunity leads, mlm leads.
 
-> Rent-A-List has created this privacy statement in order to demonstrate our firm commitment to our visitors' and members' privacy. The following discloses our information gathering and dissemination practices for this website: Rent-A-List and our network of other websites: Hits4Pay.com, multiplestreammktg.com, and FreeWeeklyLotto.com.
+> Rent-A-List has created this privacy statement in order to demonstrate our firm commitment to our visitors' and members' privacy. The following discloses our information gathering and dissemination practices for this website: Rent-A-List and our network of other websites.
 > 
 > **Logging**  
 >  We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
@@ -34,9 +34,10 @@
 >   1. You can login to your Advertiser Area and click on "Delete Account"
 >   2. You can send email to support(at)rent-a-list.com
 >   3. You can send mail to the following postal address:  
->  Multiple Stream Media  
->  34 Vans Terrace, Lake Katrine, NY 12449.
->   4. You can call the following telephone number: 845.336.0196
+>  Multiple Stream Media LLC  
+>  603 Old Stage Road, Main Bldg.  
+>  Saugerties, NY 12477
+>   4. You can call the following telephone number: 845.247.2565
 > 
 
 > 
@@ -46,8 +47,10 @@
 >   1. You can login to your Advertiser Area and click on "Edit Account"
 >   2. You can send email to support(at)rent-a-list.com
 >   3. You can send mail to the following postal address:  
->  Multiple Stream, 34 Vans Terrace, Lake Katrine, NY 12449.
->   4. You can call the following telephone number: 845.336.0196
+>  Multiple Stream Media LLC  
+>  603 Old Stage Road, Main Bldg.  
+>  Saugerties, NY 12477
+>   4. You can call the following telephone number: 845.247.2565
 > 
 
 > 
@@ -57,7 +60,10 @@
 > **Contacting the Web Site**  
 >  If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 > 
-> Multiple Stream Media, LLC  
->  34 Vans Terrace, Lake Katrine, NY 12449.  
->  support(at)rent-a-list.com  
->  845.336.0196   845.336.0197
+> Multiple Stream Media LLC  
+>  603 Old Stage Road, Main Bldg.  
+>  Saugerties, NY 12477
+> 
+> Tel: (845) 247 2565   
+>  (845) 247 2567  
+>  Fax: (845) 247 2569
