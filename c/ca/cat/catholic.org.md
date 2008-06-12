@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholic.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214153158id_/http%3A//www.catholic.org/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholic.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612143933id_/http%3A//www.catholic.org/about/privacy.php) for the most accurate reproduction.*
 
 # Catholic Online - About
 
@@ -82,7 +82,7 @@ We may occasionally update this privacy statement. When we do, we will also revi
 
 ### Contact Information 
 
-Catholic Online welcomes your comments regarding this privacy statement. If you believe that Catholic Online has not adhered to this privacy statement, please contact [colirf@catholic.org ](mailto:colirf@catholic.org) or via postal mail at the address provided below, and we will use reasonable efforts to promptly determine and remedy the problem. 
+Catholic Online welcomes your comments regarding this privacy statement. If you believe that Catholic Online has not adhered to this privacy statement, please contact [customerservice@catholic.org ](mailto:customerservice@catholic.org) or via postal mail at the address provided below, and we will use reasonable efforts to promptly determine and remedy the problem. 
 
 Catholic Online 
 
