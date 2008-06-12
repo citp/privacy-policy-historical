@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betonmarkets.com privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105071408id_/http%3A//koel1.betonmarkets.com//e/c_template/o_cgi/q_w/l_CR/a_l/l_GB/a_filecode/l_privacy_.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betonmarkets.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612104001id_/http%3A//koel3.betonmarkets.com//d//c_template.cgi%3Fw%3DMLT%26l%3DGB%26filecode%3Dprivacy) for the most accurate reproduction.*
 
 # BetOnMarkets.com - The World of Financial Trading
 
@@ -18,11 +18,17 @@ Please note that our website generates log files that record the IP addresses of
 
 Please note that you may update your personal information at any time by logging into the "Settings" section of your account. It is your responsibility to ensure that BetOnMarkets is promptly and continually informed of any change in your personal information.
 
-## Security
+## Security Statement
 
-We protect your account information. That's why you have to enter a unique LoginID and Password each time you want to access your account information. In addition, you can use the LogOut button located in the site to securely exit your account without closing your browser. Your Password should never be shared with anyone. Key login forms situated throughout the website are protected by SSL (Secure Sockets Layer) encryption, which guarantees that information submitted from your browser to our server arrives unaltered and intercepted by no third party. Your password is stored on our server in an encrypted format that even BetOnMarkets staff may not decrypt. Therefore, in the event that you lose your password, we have no means by which to retrieve it, and therefore you must properly authenticate yourself to us so that we may issue a new password to you.
+We are committed to making sure your personal data and transactions are secure:
 
-Credit card details are submitted directly into the Visa/Mastercard network via SSL encryption in accordance with bank policy.
+  * Your password and login ID are unique and passwords are encrypted so that not even BetOnMarkets.com staff can read them. This is the reason why we cannot retrieve your password and have to issue you with a new one to your email address if you cannot recall it.
+  * We maintain customer balances in cash or cash equivalent. We ensure that 100% of each customer's balance is available for immediate withdrawal, subject to verification.
+  * All credit card details are submitted directly to the Visa/Mastercard network using the latest SSL encryption technology, in accordance with bank policies.
+  * Our information security policies are based on industry best practices in access control and business continuity.
+  * We use identity verification services and real-time fraud detection measures to help protect you from unauthorized access to your account. We also monitor account activity for signs of unusual activity that might indicate fraud and work with collection agencies and law-enforcement agencies to address fraud issues.
+
+
 
 ## Cookies
 
