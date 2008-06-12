@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucks.ca privacy policy that was archived on 2007-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070813223216id_/http%3A//www.starbucks.ca/en-ca/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.ca privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612071604id_/http%3A//www.starbucks.ca/en-ca/privacypolicy.htm) for the most accurate reproduction.*
 
 # English - privacypolicy
 
