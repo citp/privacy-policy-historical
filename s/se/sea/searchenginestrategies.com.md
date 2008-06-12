@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchenginestrategies.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223132027id_/http%3A//www.incisivemedia.com/public/showPage.html%3Fpage%3D11526) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginestrategies.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612050524id_/http%3A//www.incisivemedia.com/public/showPage.html%3Fpage%3D11526) for the most accurate reproduction.*
 
 # Incisive Media - Privacy Policy
 
