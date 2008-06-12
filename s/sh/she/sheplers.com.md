@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheplers.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222111412id_/http%3A//www.sheplers.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheplers.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612035212id_/http%3A//www.sheplers.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy & Security Statement
 
