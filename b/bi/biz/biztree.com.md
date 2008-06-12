@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biztree.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219094149id_/http%3A//www.biztree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biztree.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612075236id_/http%3A//www.biztree.com/Privacy) for the most accurate reproduction.*
 
 # BizTree - Privacy Policy
 
