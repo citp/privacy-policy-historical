@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colostate.edu privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203225452id_/http%3A//welcome.colostate.edu/index.asp%3Furl%3Dinfo_csu-privacy_pol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colostate.edu privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612152938id_/http%3A//www.colostate.edu/info-privacy.aspx) for the most accurate reproduction.*
 
-# Colorado State University
+# Privacy Policy of Colorado State University - Fort Collins
 
 ## Commitment to Individual Privacy
 
