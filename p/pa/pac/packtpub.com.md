@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packtpub.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024115528id_/http%3A//www.packtpub.com/article/packtpubcom_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packtpub.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612070303id_/http%3A//www.packtpub.com/article/packtpubcom_privacy_policy) for the most accurate reproduction.*
 
 # PacktPub.com Privacy Policy
 
@@ -8,6 +8,21 @@
 PacktPub.com Privacy Policy
 
 > _Updated 25 Feb 2004_
+
+**Security of your Personal Information**  
+PacktPub.com is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. When we transmit sensitive information over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+
+**Use of your Personal Information**  
+We use your personal information for the following purposes: 
+
+  * To deliver goods to you that you ordered directly from us 
+  * To deliver electronic services, such as newsletters or downloads that you request 
+  * To help us create and publish content most relevant to you. 
+  * To alert you to amendments, corrections, special offers, updated information and other new services from Packt Publishing, if you so request. 
+  * To allow you access to limited-entry areas of our site as appropriate. 
+
+  
+At this point we do not merge usage information with registration information to create personalized content on our web sites. However we may choose to do that in the future, in which case we will offer you the option to opt out of this service. 
 
 This policy applies to all web sites and email services provided by Packt Publishing. By using these web sites you consent to the general terms and conditions of usage and to the terms of this privacy policy. 
 
@@ -30,18 +45,4 @@ Control of your Personal Information When you register, or otherwise give us per
 **Collection of your Personal Information**  
 We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, we request this information when you are registering before ordering products from Packtpub.com, downloading or viewing limited-access content, entering a contest, ordering email newsletters. In each circumstance we try to limit the information we request to the minimum required to deliver the service to you. We also use various standard technologies such as cookies to track user activity on our sites. 
 
-**Security of your Personal Information**  
-PacktPub.com is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. When we transmit sensitive information over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
-
-**Use of your Personal Information**  
-We use your personal information for the following purposes: 
-
-  * To deliver goods to you that you ordered directly from us 
-  * To deliver electronic services, such as newsletters or downloads that you request 
-  * To help us create and publish content most relevant to you. 
-  * To alert you to amendments, corrections, special offers, updated information and other new services from Packt Publishing, if you so request. 
-  * To allow you access to limited-entry areas of our site as appropriate. 
-
-  
-At this point we do not merge usage information with registration information to create personalized content on our web sites. However we may choose to do that in the future, in which case we will offer you the option to opt out of this service.   
 |   |  
