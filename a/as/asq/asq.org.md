@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asq.org privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223094300id_/http%3A//www.asq.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asq.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612055905id_/http%3A//www.asq.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ASQ
 
