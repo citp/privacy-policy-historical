@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macdevcenter.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214181437id_/http%3A//www.macdevcenter.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macdevcenter.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612151921id_/http%3A//macdevcenter.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
 # O'Reilly Network -- Privacy Policy
 
