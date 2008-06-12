@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the leancuisine.com privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022041104id_/http%3A//www.leancuisine.com/Index/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leancuisine.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613011115id_/http%3A//www.leancuisine.com/Index/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# LEAN CUISINE® - DO SOMETHING GOOD FOR YOURSELF®
+# LEAN CUISINE® Nestlé USA Privacy Policy
 
 Effective Date: 10/25/2006  
-Last Updated On: 9/19/2007
+Last Updated On: 6/2/2008
 
 Thank you for visiting a Nestlé USA (“Nestlé USA,” “we,” or “our”) website. The following is a description of how we collect, store, and use the personal information you provide us through any of the websites operated by Nestlé USA, including the one you are currently visiting (“Nestlé USA Privacy Policy” or “Privacy Policy”). We have also voluntarily undertaken privacy certification with TRUSTe, which requires that we meet established online information collection and use practices.
 
@@ -220,7 +220,7 @@ If you have any questions, complaints, or comments regarding this Privacy Policy
 Nestlé USA Office of Consumer Services  
 800 N. Brand Blvd.  
 Glendale, CA 91203  
-Contact Us  
+[Contact Us](mailto:nestleconsumerservice@casupport.com)  
 1-800-225-2270 
 
 Nestlé USA is a licensee of the TRUSTe Privacy Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. 
