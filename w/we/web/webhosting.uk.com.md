@@ -1,38 +1,21 @@
-> *The following text is extracted and transformed from the webhosting.uk.com privacy policy that was archived on 2006-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060412104718id_/http%3A//webhosting.uk.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhosting.uk.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612101443id_/http%3A//www.webhosting.uk.com/web-hosting-uk-privacy.php) for the most accurate reproduction.*
 
-# Welcome To Webhosting.uk.com :: UK Hosting Services
+# Privacy Policy - Data Security - Information - Money Back Guarantee
 
-| 
+1\. At the time of sign-up, we ask you to provide us with your exact postal address, telephone  number & fax number.  We use this information to contact you after the sign-up & confirm the hosting order received on your account. This is a part of our fraud-prevention process wherein we call customers & check for the legitimacy of the order received. These details are also required to be put in when we register a domain name for you or while placing a transfer request for a domain name under your name. The whois information for your domain also shows the same details which you filled in when signing up with us (unless stated otherwise). Providing a mailing (postal) address while registering domains is mandatory .
 
-This Privacy Policy governs the manner in which webhosting.uk.com collects, uses, stores, archives, and discloses information collected from users of this Website. Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.   
-  
----  
-**The Information We Collect:**  
-  
-This notice applies to all information collected or submitted on the webhosting.uk.com website. On some pages you can order products, make requests, and register to receive materials. We may ask for personal information such as your name, company name, address, phone number, e-mail address, and credit card information.   
-  
-**The Way We Use This Information:**  
-  
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.   
-  
-We use return email addresses to answer the email we receive. We will use information stored in our database about you to provide support. Email addresses and other data collected in support requests are not shared with outside parties unless you have consented as such to help us provide you with technical support. Webhosting.uk.com may email promotional offers to webhosting.uk.com customers from outside vendors, partners, or suppliers.   
-  
-Webhosting.uk.com uses aggregated, anonymous data for research regarding the effectiveness of webhosting.uk.com's marketing, advertising, and sales efforts. Webhosting.uk.com does not use such anonymous information for any other purpose.   
-Finally, webhosting.uk.com does not share or use customer information in ways unrelated to this policy without providing customers an opportunity to opt-out or otherwise prohibit such unrelated use.  
-**Our Commitment To Data Security:**  
-  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.   
-  
-**Our Commitment To Children's Privacy:**  
-  
-Protecting the privacy of minors is important to webhosting.uk.com. Therefore, webhosting.uk.com never collects or maintains information our website from customers under the age of 18, and no part of our website is structured to attract anyone under the age of 18.   
-  
-**How You Can Access Or Correct Your Information:**  
-  
-You can correct factual errors in your personal information by sending us a request with sufficient evidence and instructions. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. We reserve the right to disclose aggregated, anonymous data to investors and potential partners.   
-  
-**How To Contact Us:**  
-  
-Should you have questions or concerns about our privacy policy, please email your concern to [privacy@webhosting.uk.com](mailto:privacy@webhosting.uk.com)  
-  
- 
+2\. We ask you to provide us with your email address. This is done to remain in contact with you at all times. All our invoices, support ticket replies & other communications are all done through emails. This email address is to be used when requesting for any service which requires the user to be authenticated. We also send you emails informing about the upgradation in services, networks & other information which we deem to be necessary to be sent to our clients. This also is the same email address which is used as the admin contact email address while registering or transferring your domain name. 
+
+3\. We also use web cookies. These cookies are parcels of text sent by a server to a web browser and then sent back unchanged by the browser each time it accesses that server. These are also used for authenticating, tracking, and maintaining specific information about users, such as site preferences, browser preferences & general web browsing behaviour. These also help us to identify you as our customer. However if you change your browser settings, these would be of no use at all. 
+
+1\. We do not provide the information collected from our customers to any external source under any circumstances. However, being a reputed hosting company servicing thousands of clients, Webhosting.uk.com has some social responsibilities also to take care of. As & when a government authorized law-keeping agency or a goverment department approaches us to seek information about a client, we have to lend our help. It is our responsibility as a law abiding company.
+
+2\. Your data is accessible only to the staff of Webhosting.uk.com & the management. Nobody else is privy to the same.  We have physical  as well as electronic processes to secure the information we have for you. There also exist managerial procedures which have to be fulfilled to be able to access your contact information collected.
+
+3\. Everytime we have to make a change or remove the information we have for you, all the required steps are taken to establish your identity as the account holder before proceeding ahead. 
+
+4\. We use SSL (Secure Socket Layer) encryption to ensure security of the information we have for you. We also impart necessary training to our  personnel who have access to the databases with your information to guarantee appropriate handling of data.
+
+You are welcome to inform us in case you think this privacy policy has been violated. You may email us at feedback@webhosting.uk.com. Appropriate remedial action will be taken in 24 hours time.
+
+**Webhosting.uk.com would always safeguard the information collected from you. No compromises would be ever made in this regard.**
