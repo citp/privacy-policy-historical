@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211150346id_/http%3A//www.fool.co.uk/help/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612115155id_/http%3A//www.fool.co.uk/help/privacystatement.aspx) for the most accurate reproduction.*
 
 # The Motley Fool UK: Privacy and Cookie Statement
 
@@ -12,7 +12,7 @@ The Motley Fool Limited takes the issue of privacy very seriously and we are com
   * **Optional Services:** We may also ask for additional information when providing special, personalised services. If you don't want to give us the information requested, you certainly don't have to, but you will not be able to take advantage of such offerings. For example, we can't track your personal stock portfolio unless you input the stocks you own or fulfill a product order unless you provide us with your mailing address. On occasion, we may also ask you for other personal information in connection with surveys, sweepstakes or other promotional offers running on our site but again, your participation in these features are purely voluntary.
   * **Information We Automatically Track:** While on our site, we automatically log certain information about how you're using our site. This information may include the URL that you just came from, your IP address and the pages you visit while on our site.
 
-If your browser is set up to accept them, we also use a feature known as a "[cookie](https://web.archive.org/community/login/cookies.htm)." Cookies contain bits of information that Web sites transfer to your computer's hard drive for record keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site such as ours.
+If your browser is set up to accept them, we also use a feature known as a "[cookie](https://web.archive.org/web/20080612115155id_/http%3A//www.fool.co.uk/help/cookies.aspx)." Cookies contain bits of information that Web sites transfer to your computer's hard drive for record keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site such as ours.
 
 The Motley Fool may place a pixel on pages on our site, or those of our advertisers and partners. This enables us to record in our server logs that a specific user id has visited a particular page. This data allows us to analyse and determine our audience's behavioural characteristics, which helps us to optimise our site, advertisement placement, and marketing focus. Only anonymous, non-Personally Identifiable Information is collected, and it cannot, by itself or in combination, be tracked to a specific individual.
 
@@ -51,12 +51,7 @@ The Motley Fool does not give, rent, lend or sell individual information to any 
   * **Third Party Service Providers:** We may employ the services of third party providers to aid us in certain aspects of our operations (such as the distribution of our email products or conducting a survey for us). Depending on the services performed, some of these providers may be provided with user information. These contractors would be subject to confidentiality agreements which limit their use and disclosure of all information they obtain through their relationship with The Fool to Fool-related business only, consistent with this policy.
   * **Legal Requests:** The Motley Fool may disclose your personally identifiable information to protect the rights and property of The Fool as well as to comply with any applicable law or valid legal process. This includes, but is not limited to: 
     * Requests by Government Agencies. We will disclose any information we have in our possession to law enforcement or government officials in response to any inquiry or investigation or if in our sole discretion, we believe it is necessary or appropriate in connection with any investigation or activity that is or may be illegal or may expose us or you to legal liability.
-    * In compliance with the Data Protection Act. Pursuant to the Data Protection Act of 1998, The Fool will disclose your information: 
-      * Where the disclosure is required by or under any enactment, rule of law or by the order of a court.
-      * Where the disclosure is necessary: 
-        * For the purpose of, or in connection with, any legal proceedings (including prospective legal proceedings);
-        * For the purpose of obtaining legal advice; or
-        * For the purpose of establishing, exercising or defending legal rights.
+    * Disclosures we are legally required or entitled to make under any enactment, rule of law or by the order of a court.
 
 
 
