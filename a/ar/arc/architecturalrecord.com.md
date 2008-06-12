@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturalrecord.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019025353id_/http%3A//www.construction.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturalrecord.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612151727id_/http%3A//www.construction.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # McGraw-Hill Construction Privacy Notice
 
@@ -9,10 +9,13 @@ When you register on one of our web sites, your personal contact information pro
   * Applicable project owners and architects so that they can monitor use of  their intellectual property rights in the applicable plans and specifications **;   **
   * Product manufacturers in order for the manufacturers to follow-up on your requests; and
   * Other businesses in the form of a listing in a directory published by McGraw-Hill Construction that includes your contact information.  Directories of this nature are used by other firms to conduct marketing activities.
+  * by other firms to conduct marketing activities. 
 
 
 
-We use "cookies" to help you navigate the site. We do not gather any information on you from any cookies, nor can we gather or change any information on your computer from our cookies. In order to change these cookie preferences, you must change your browser's preferences to disable cookies or delete cookies. Please note that disabling cookies for some services may affect the ability to use that service. Security information is specific to each browser and operating system. Please check with your browser's specific company for more information. Some examples of how to change your browser's preferences are as follows: In Internet Explorer (versions 6 and up), this option is listed under Tools > Internet Options > Privacy. The setting has to be set to Block All Cookies.  In Netscape (versions 7 and up), this option is listed under Edit > Preferences > Privacy & Security > Cookies. The Disable Cookies button should be checked. 
+We use "cookies" to customize our visitor's experience to the site. We do not use cookies, however, to collect any personally-identifiable information. In order to change these cookie preferences, you must change your browser's preferences to disable cookies or delete cookies. Please note that disabling cookies for some services may affect the ability to use that service. Security information is specific to each browser and operating system. Please check with your browser's specific company for more information. Some examples of how to change your browser's preferences are as follows: In Internet Explorer (versions 6 and up), this option is listed under Tools > Internet Options > Privacy. The setting has to be set to Block All Cookies.  In Netscape (versions 7 and up), this option is listed under Edit > Preferences > Privacy & Security > Cookies. The Disable Cookies button should be checked. 
+
+Advertisers may also use cookies in order to serve ads on our website.  In the course of serving these advertisements, the third-party advertisers may place or recognize a unique permanent or session "cookie" on your browser. These third-party ad servers may also collect and use personally identifiable information about your visits to this and other web sites in order to present advertisements that may be of interest to you. If you would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
 
 If you gave us your credit card number, it will be used one time only to fulfill each order. We do not keep or store credit card information. The exception is for subscribers who have submitted credit card numbers for ongoing monthly subscriptions. 
 
