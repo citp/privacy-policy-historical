@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the browsercam.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630202906id_/http%3A//www.browsercam.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browsercam.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612065057id_/http%3A//www.browsercam.com/Privacy.aspx) for the most accurate reproduction.*
 
-# BrowserCam : Privacy
+# : Privacy
 
 | 
 
 Our Privacy Policy
 
-> Our privacy policy is simple: We won't sell your name to anyone. We won't share any capture data with anyone.
+> Our privacy policy is simple: We don't rent out our list.
 > 
 > We cookie you for session management only. If you click "remember me", the cookie is persistent. Otherwise it goes away when you close your browser.   
   
