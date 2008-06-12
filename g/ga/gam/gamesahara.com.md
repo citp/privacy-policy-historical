@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesahara.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213090029id_/http%3A//www.gamesahara.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesahara.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612195025id_/http%3A//www.gamesahara.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
 
 # GameSahara.com - Privacy Policy
 
