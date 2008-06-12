@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usa.gov privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203202226id_/http%3A//www.usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usa.gov privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612130412id_/http%3A//www.usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
 
 # Privacy and Security: USA.gov
 
