@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011075840id_/http%3A//tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612065227id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
 
 # The Tennis Recruiting Network
 
@@ -106,4 +106,4 @@ Security Department
 TennisRecruiting.net   
 P. O. Box 71912   
 Marietta, GA 30007-1912   
-[webmaster@TennisRecruiting.net](mailto:webmaster@tennisrecruiting.net)
+[webmaster@TennisRecruiting.net](mailto:webmaster@TennisRecruiting.net)
