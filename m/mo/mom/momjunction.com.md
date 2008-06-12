@@ -1,19 +1,6 @@
-> *The following text is extracted and transformed from the momjunction.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214005020id_/http%3A//www.momjunction.com/members/privacyPolicy.aspx%3Fm%3DM%26p%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momjunction.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612170029id_/http%3A//www.momjunction.com/members/privacyPolicy.aspx%3Fm%3DM%26p%3D1) for the most accurate reproduction.*
 
-# – MomJunction Privacy Policy
-
-[ ](https://web.archive.org/members/aboutus.aspx)  
-[ ](https://web.archive.org/members/management.aspx)  
-[ ](https://web.archive.org/members/momadvisors.aspx)  
-[ ](https://web.archive.org/members/advertise.aspx)  
-[ ](https://web.archive.org/members/FAQ.aspx)  
-[ ](https://web.archive.org/members/careers.aspx)  
-[ ](https://web.archive.org/members/news.aspx)  
-[ ](https://web.archive.org/members/termsofuse.aspx)  
-  
-[ ](mailto:support@momjunction.com)  
-[ ](https://web.archive.org/members/homepage.aspx)  
-
+# Support Groups, Parenting Tips & Advice from Moms. – MomJunction Privacy Policy
 
 | 
 
