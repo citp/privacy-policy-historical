@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gv.com.sg privacy policy that was archived on 2007-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071212062043id_/http%3A//www.gv.com.sg/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gv.com.sg privacy policy that was archived on 2008-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080612045148id_/http%3A//www.gv.com.sg/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
@@ -36,11 +36,32 @@ body {
         -->
     </style>
     <script>
+	     // read cookies using javascript , added by weetat on 13 Mar 2008
+		 // for caching issue
+	    function readCookie(name)
+		{
+		 var cookieValue = "";
+		 var search = name + "=";
+		 if(document.cookie.length > 0)
+	     { 
+          offset = document.cookie.indexOf(search);
+
+          if (offset != -1)
+          { 
+			offset += search.length;
+			  end = document.cookie.indexOf(";", offset);
+			  if (end == -1) end = document.cookie.length;
+			  cookieValue = unescape(document.cookie.substring(offset, end))
+			}
+		 }
+		return cookieValue;
+		}
+
         function show_gvmcMessage(){
-          var gvmc_msg = $('gvmc_msg');
+		  var gvmc_msg = $('gvmc_msg');
           var gvmc_msg2 = $('gvmc_msg2');
           
-          var crmExist_hdr = false;
+          var crmExist_hdr=readCookie('gvcrm_cookies')
           if(crmExist_hdr){
            gvmc_msg.style.display="block";
            gvmc_msg2.style.display="none";
@@ -53,31 +74,7 @@ body {
     </script>
 </head>
 <body onload="javascript:show_gvmcMessage();">
-<!--infobar-->
-<style type="text/css">
-    #infobar a, #infobar a:link, #infobar a:visited, #infobar a:active
-    {
-    position: absolute;
-    display: block;
-    float: left;
-    /*width:100%;*/
-    clear: both;
-    color: InfoText;
-    background: InfoBackground;
-    padding: 5px 10px 5px 10px;
-    text-decoration: none;
-    cursor: default;
-    font-family: message-box, Verdana, Arial, Helvetica, sans-serif;
-    font-size: 7pt;
-    }
-    #infobar a:hover
-    {
-    color: HighlightText;
-    background: Highlight;
-    }
-</style>
-<!--<div id="infobar" align="left"><a href="/admin/">Please click here to access the Admin Tool!</a></div>-->
-<!--infobar-->
+
 <table width="980" border="0" align="center" cellpadding="0" cellspacing="0">
     <tbody><tr>
         <td>
@@ -506,8 +503,9 @@ errorFunction: reportError2
                             <tr>
                                 <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="246" height="205">
                                         <param name="movie" value="http://media.gv.com.sg/Booking/movies/images/gvcombox_side.swf">
+                                        <param name="allowScriptAccess" value="always">
                                         <param name="quality" value="high">
-                                        <embed src="http://media.gv.com.sg/Booking/movies/images/gvcombox_side.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="246" height="205">
+                                        <embed src="http://media.gv.com.sg/Booking/movies/images/gvcombox_side.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="246" height="205" allowscriptaccess="always">
                                 </object></td>
                             </tr>
                     </tbody></table></td>
@@ -518,7 +516,7 @@ errorFunction: reportError2
                                  
 
 <td width="585" class="mediumsmall">
-    Golden Village Movie Club members enjoy Priority Seat Selection every Wednesday, between 6 to 9pm. <br>Look out for first week titles with the popcorn icon, <a href="http://www.gv.com.sg/movieclub/login.jsp" class="textlink">login</a> and buy your tickets!<!--Communication message-->
+    GV Gift cards are now available online and at all GV Box Offices! Get it now at an affordable price of $28!<br>Buy your gift cards  <a href="http://www.gv.com.sg/giftcards.jsp" class="textlink">HERE</a><!--Communication message-->
 </td>
 
 
@@ -528,8 +526,9 @@ errorFunction: reportError2
                             <tr>
                                 <td colspan="3"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="728" height="90">
                                         <param name="movie" value="http://media.gv.com.sg/Booking/movies/images/gvcombox_home.swf">
+                                        <param name="allowScriptAccess" value="always">
                                         <param name="quality" value="high">
-                                        <embed src="http://media.gv.com.sg/Booking/movies/images/gvcombox_home.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="728" height="90">
+                                        <embed src="http://media.gv.com.sg/Booking/movies/images/gvcombox_home.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="728" height="90" allowscriptaccess="always">
                                 </object></td>
                             </tr>
                             <tr>
@@ -671,11 +670,14 @@ errorFunction: reportError2
   </tr>
   <tr>
     <td bgcolor="#d7d7d7" class="footer"><div align="center"><br>
-      © 2007 Golden Village Multiplex Pte Ltd. All rights reserved. <br>
+      © 2008 Golden Village Multiplex Pte Ltd. All rights reserved. <br>
+       <img align="left" src="http://media.gv.com.sg/movies/images/nielson.jpg" border="0">
+      <a href="http://www.cxrus.com/home.php">
+      <img align="right" src="http://media.gv.com.sg/movies/images/poweredbyCxrus3.gif" border="0"></a>
       No part of this website may be reproduced in any form without our written permission. We may take all necessary legal actions against users <br>
     who infringe or repeatedly infringe our copyrights or other intellectual property rights. <br>
 
-<!--Page generated in 0.0603922 seconds -->
+<!--Page generated in 0.00960837 seconds -->
     <br>
     </div></td>
   </tr>
@@ -685,7 +687,13 @@ errorFunction: reportError2
 <script language="JavaScript" type="text/javascript">
 <!--
 	var _rsCI="sg-goldenvillage";
-	var _rsCG="bkseatparticulars";
+	var _rsCG="null";
+
+	if(_rsCG=="null")
+	{
+	 _rsCG = "miscellaneous";
+	}
+
 	var _rsDT=0; // to turn on whether to get the document title, 1=on
 	var _rsDU=1; // to turn on or off the applet, 1=on
 	var _rsDO=0; // to turn on debug output to the console, 1=on, only works if _rsDU=1
