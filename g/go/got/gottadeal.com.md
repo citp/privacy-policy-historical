@@ -1,46 +1,74 @@
-> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214115632id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612155907id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GottaDeal.com
 
-**GENERAL**   
-By accessing this site, you agree that you have read and understand the OlsonNet, LLC (OlsonNet, GottaDeal, GottaDeal.com, we, our, us, etc.) privacy statement (Statement) which describes how we use your personal information, and what options you have to update or request the deletion or correction of information submitted to us via www.gottadeal.com (Site). If you do not agree with the terms and conditions of this Statement, please do not use the Site. 
+**Privacy Policy Table of Contents:**
 
-**INFORMATION WE COLLECT & WHY**   
-Personal Information Submitted By You. We collect Personal Information you provide to us for purposes of (a) signing up for our "Daily Deal Update"; (b) filling out and submitting one of our online surveys; (c) participating in one of our contests; and (d) your general use of the Site such as your participation in one of our online Forums. 
+  * Our Commitment To Privacy
+  * The Information We Collect
+  * How We Use Information
+  * Our Commitment To Data Security
+  * About Information Posted on Forum
+  * How To Access Or Correct Your Information
+  * How To Contact Us
 
-Automatic Transactional Information. Certain Non-personal Information may be collected automatically as part of your use of this Site, as well as from your transactions with us and our affiliates or nonaffiliated third parties. This Non-personal Information is used to improve the overall Site operations, functionality and appearance. Non-personal Information may include your IP address, web browser type, domain name and the time or date upon which you visited the Site. 
 
-**HOW WE USE THE INFORMATION COLLECTED**   
-Personal Information is used by GottaDeal for the purpose for which it was submitted. For example, if you submit your email address and other information required to subscribe to our Daily Deal Update, we will use that Personal Information to send you our Daily Deal Update. Please see below for your Choice/Opt Out options. 
 
-We use your IP address to help diagnose problems with our server, and to administer the Site. 
+**Our Commitment To Privacy**
 
-If a user elects to use our "E-Mail This Deal" service for informing a friend about a deal on our Site, we ask them for the friend's name and email address. We will automatically send the friend a one-time email inviting them to visit the Site, both email addresses are not stored. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-**DISCLOSURE OF INFORMATION TO THIRD PARTIES**   
-Demographic and aggregate Information may be shared by us with third party advertisers. Aggregate Information contains no personal identifiers. 
+**The Information We Collect**
 
-GottaDeal makes every reasonable effort to preserve user privacy. However we reserve the right to disclose Personal Information when required or permitted by law and we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on us. 
+This notice applies to all information collected or submitted on the GottaDeal.com website. On some pages, you can send messages to us, register for the forum and register to receive materials via e-mail or traditional mail. The types of personal information collected at these pages are: Name, Address, E-Mail Address, Phone Number, etc... 
 
-**SALE OR TRANSFER OF INFORMATION**   
-In the event of a sale, merger, liquidation, dissolution, or transfer of part of the business, trade or assets of GottaDeal, all Information collected about you via this Site may be sold, assigned, or transferred to the party acquiring all or substantially all of the equity or assets or business of GottaDeal. Subject to your election to opt out as described below, by using this Site, you consent to the sale and transfer of your information as described in this paragraph. 
+**The Way We Use Information**
 
-**THIRD PARTIES; LINKS**   
-Linking. This Statement applies only to http://www.gottadeal.com. This Site may include links to the web sites of both our affiliated and non-affiliated entities (Other Sites), including access to content, products and services of such affiliated and non-affiliated entities. Whenever you choose to access Other Sites or non-GottaDeal content via this Site, a separate browser window will launch and you will leave this Site. We urge you to familiarize yourself with the individual privacy and other terms for each linked site prior to submitting your Personal Information. 
+We use the information you provide about yourself to conduct normal site business only. We do not share this information with outside parties unless explicity stated or agreed to by you. 
 
-**OTHER TERMS**   
-Your use of our Site is subject to and contingent upon your agreement with our Terms of Use, which are hereby incorporated by reference. 
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-**NOTIFICATION OF CHANGES**   
-Users will be notified of changes to this Statement by a notice posted on the Site within ten business days prior to the changes taking effect. Any material change in how Personal Information is collected or used by GottaDeal or the third parties referenced in this Statement will cause a notice to be posted. An email will also be sent to registered newsletter readers when a change is made, giving them the opportunity to opt-out. 
+You can register with our website if you would like to receive our Daily Deal Update deal alert e-mails. Information you submit on our website will not be used for this purpose unless you fill out the registration form for this service. 
 
-**CONSENT**   
-By using this Site, you consent to the use, storage and disclosure of your Information by us in the manner described in this Statement. We reserve the right to make changes to this Statement from time to time and will alert you to such changes via the Notification procedure described in the preceding paragraph. 
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an affiliate partner that X number of individuals visited a certain area on our website, or that Y number visitors clicked on a specific link, or that Z number of visitors are subscribed to our mailing list, but we would not disclose anything that could be used to identify those individuals. 
 
-**CHOICE/OPT-OUT**   
-Our Site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request Information from you. 
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
-In addition, to request that we remove you from our database or stop sending you future communications, you can visit our mailing list page. 
+**Our Commitment To Data Security**
 
-**CORRECT/UPDATE**   
-Users may submit requests to GottaDeal for changing, deleting, and modifying Personal Information previously submitted, by sending an email to this address: gottadeal at gottadeal dot com. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+**About Information Posted on Forum**
+
+Should you choose to register for the forum and create posts, be aware that anything you post could be viewable to any site visitor, and you are consenting to any or all of this information being used for other site purposes. By posting you agree to not hold the site responsible for any unauthorized use of this information by an outside visitor. 
+
+**How You Can Access Or Correct Your Information**
+
+You can access all your personally identifiable information that we collect online and maintain by contacting us, or if on the forum, by examining your user profile and options. We use this procedure to better safeguard your information. 
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+
+**How To Contact Us**
+
+Should you have other questions or concerns about these privacy policies, please call us at (414) 375-2359 or contact us using the form available here on the site. 
+
+|   |  |   | 
+
+**GottaDeal Forums**
+
+[](http://forums.gottadeal.com/ "Visit the GottaDeal.com Forums")
+
+**161,339** Members  
+ **99,884** Threads  
+ **1,195,294** Posts  
+ **352** Users Online
+
+[ **Enter the Forums**](http://forums.gottadeal.com/)
+
+[](http://forums.gottadeal.com/showthread.php?t=106091 "Win Great Prizes") We're giving away a TomTom GPS, Sony PS2 and $75 gift certificate!   
+[Find out how to win!](http://forums.gottadeal.com/showthread.php?t=106091) [](http://www.gottadeal.com/DailyDealUpdate "Subscribe to Daily Deal Update") Get the latest deals   
+e-mailed to you daily! [Click here](http://www.gottadeal.com/DailyDealUpdate) to sign up!  [](http://www.gottadeal.mobi/ "Visit GottaDeal.mobi") Browse the site on your mobile device. Check out our new [mobile version](http://www.gottadeal.mobi/).  [](http://www.bettercreditcard.com/ "Visit BetterCreditCard.com") Check out this [new list](http://www.bettercreditcard.com/) of our highly recommended "hot deal-friendly" cards.  [](http://digg.com/submit?phase=2&url=http://www.gottadeal.com&title=GottaDeal.com "Digg") [](http://del.icio.us/post?v=4&noui&jump=close&url=http://www.gottadeal.com&title=GottaDeal.com "del.icio.us") [](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http://www.gottadeal.com&title=GottaDeal.com "Google") [](http://www.stumbleupon.com/submit?url=http://www.gottadeal.com&title=GottaDeal.com "StumbleUpon") [](http://myweb.yahoo.com/myresults/bookmarklet?t=GottaDeal.com&u=http://www.gottadeal.com&ei=UTF "Yahoo!") [](https://favorites.live.com/quickadd.aspx?marklet=17&mkt=en-us&top=0&url=http://www.gottadeal.com&title=GottaDeal.com "Microsoft Live")  
+[](http://slashdot.org/bookmark.pl?url=http://www.gottadeal.com&title=GottaDeal.com "Slashdot") [](http://cgi.fark.com/cgi/fark/submit.pl?new_url=http://www.gottadeal.com&title=GottaDeal.com "Fark") [](http://blogmarks.net/my/new.php?mini=1&simple=1&url=http://www.gottadeal.com&title=GottaDeal.com "Blogmarks") [](http://technorati.com/faves/?add=http://www.gottadeal.com&title=GottaDeal.com "Technorati") [](http://www.netscape.com/submit/?U=http://www.gottadeal.com&T=GottaDeal.com "Netscape") [](http://www.facebook.com/share.php?u=http://www.gottadeal.com&t=GottaDeal.com "Facebook")  
+---|---|---|---|---
