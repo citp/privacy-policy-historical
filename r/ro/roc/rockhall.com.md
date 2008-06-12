@@ -1,59 +1,146 @@
-> *The following text is extracted and transformed from the rockhall.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011050856id_/http%3A//www.rockhall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockhall.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612061154id_/http%3A//www.rockhall.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## THE ROCK AND ROLL HALL OF FAME AND MUSEUM, INC.
+## Rock and Roll Hall of Fame + Museum
 
-**Last Updated: April 18, 2006**
+## Privacy Policy
 
-Welcome to The Rock and Roll Hall of Fame and Museum, Inc. web site (Site).  **By accessing and using the Site you agree to this Privacy Policy and the Museum’s[Terms of Use.](https://web.archive.org/terms)** The Museum reserves the right to update or change this Privacy Policy at any time and for any reason, without notice.  By continuing to use the Site, you agree to be bound by any such revisions and should therefore periodically visit and print the latest version of this Privacy Policy for your records.  For your information, the date of the last update to this Privacy Policy is posted at the top of this page. 
+Thank you for visiting The Rock and Roll Hall of Fame and Museum, Inc. (the “Museum") website.  This Privacy Policy is intended to describe how the Museum handles information that you provide or that we learn about the individuals who visit our websites or contact us by mail, email or telephone or in person, or who provide us with information through any other means.  We recommend that you carefully review this policy before providing us with any information.  By accessing and using this site you agree to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms "Terms of Use"). 
 
-## 1.  COLLECTION OF VISITOR INFORMATION
+This Privacy Policy only applies to information collected by The Rock and Roll Hall of Fame and Museum, Inc., the websites the Museum operates under the domain located at [www.rockhall.com](http://www.rockhall.com/ "www.rockhall.com"), and other physical or online locations where the Museum may collect information.  This privacy policy does not apply to any information collected at or associated with the Hall of Fame induction process, any annexes or off-site or traveling exhibits, the online store located at [www.rockhallstore.com](http://www.rockhallstore.com/ "www.rockhallstore.com"), or the Museum Shop located at the Rock and Roll Hall of Fame and Museum. 
 
-**What Personal Information the Museum Collects.   The Museum does not collect any personally identifiable information from you unless you voluntarily choose to disclose such information.** Personally Identifiable information may include a visitor’s name, e-mail address, postal address, phone number, credit card number, birth date etc. (Personal Information) The Museum MAY, **now or in the future,** specifically request Personal Information when you: (1) apply to become a Museum Member; (2) request to receive our weekly Museum Newsletter; (3) purchase items from the Museum’s on-line Store; (4) register for Classes or Events; (5) submit a resume for Employment; (6) purchase Tickets; (7) make a Contribution and/or (8) participate in a Contest, respond to a Survey or send the Museum an unsolicited e-mail. 
+## What Information does the Museum Collect and How is it Used? 
 
-**How the Museum Uses Personal Information.** If you voluntarily provide Personal Information to us, the Museum may use it to fulfill memberships, subscriptions, and product orders and to answer questions.  We may also use Personal Information to let you know about upcoming programs, events and exhibits about which you may be interested.  In addition, the Museum may use Personal Information to compile aggregate information about the Site to enhance our visitors’ experience on the Site. 
+This section is intended to provide you with explanation regarding what information the Museum may collect from or about individuals who visit our websites or contact us by mail, e-mail, telephone or in person, or who provide us with information through any other means, and how that information may be used. 
 
-**Persons Under 18.   This Site is intended for use by persons of all ages.** The Museum does not, however, use Personal Information from persons under the age of 18. 
+**Personal Information**   
+The Museum will only collect Personal Information that you voluntarily provide to us or our service providers.  The Personal Information we may collect includes, among other things, your name, mailing address, telephone number, email address (which may be required, for example, for a transaction) or date of birth (this kind of information would be voluntary on your part, but would assist the Museum in understanding the demographics of persons interested in Museum services).  You may be requested to provide Personal Information when you choose to engage in the following activities:   
 
-## 2.  OPT-IN/OPT-OUT
 
-The Museum will not use your Personal Information unless you voluntarily provide it to us and **OPT-IN** to receive communications from the Museum.  The Museum will only share Personal Information with our sponsors and partners if you again Opt-In to receive information from them.  In addition, each e-mail that the Museum sends to visitors includes an opportunity to Opt-Out of receiving future unsolicited e-mails from the Museum. The Museum at the present time does not provide data to direct marketers. Museum reserves the right to change that practice. If you Opt-In to receive information from our sponsors and partners, that action may in future result in your Personal Information being provided to direct marketers. 
+  * purchase a membership;
+  * purchase a product or service; 
+  * request information; 
+  * make a donation; 
+  * participate in a survey; 
+  * register for educational programs, activities, or ticket packages; 
+  * enter into a contest or sweepstakes; 
+  * apply for employment, internship or other volunteer opportunities; 
+  * subscribe to one of our newsletters; or
+  * participate in other activities offered by the Museum that require your Personal Information. 
 
-## 3.  WHO HAS ACCESS TO VISITOR INFORMATION
 
-**Museum Store Purchases.** Purchases from the Museum’s online store are processed and shipped by Shamrock Enterprises, and not by the Museum.  Therefore, any information you disclose to that company in making a purchase is not immediately covered by the Museum’s Privacy Policy, and the Museum does not control that company’s privacy practices, except as provided below. The information you supply in connection with your purchase is, however, forwarded to the Museum and is then subject to the terms of this privacy policy. 
 
-**Museum Service Providers.** Sometimes third party service providers (such as Shamrock, above) are retained or utilized by the Museum and may have access to our visitor’s Personal Information.  In some cases such third parties may have been requested to maintain the confidentiality of, and not use, Personal Information for any purposes other than providing services to the Museum, but the Museum has no means to police the activities of those service providers with their use of information disclosed to them. 
+Once you provide your Personal Information, we may use it for purposes including, but not limited to: 
 
-## 4.  COOKIES AND IP ADDRESSES
+  * managing our membership program; 
+  * fulfilling requests for products, services, group ticket sales, facility rental, or other information; 
+  * tracking and confirming orders; 
+  * providing customer services; 
+  * administering sweepstakes, promotions, or surveys; 
+  * improving the effectiveness of our website, our marketing endeavors and our services and offers; 
+  * conducting research and analysis; 
+  * notifying you about exhibits, events or activities we believe to be of interest to you; 
+  * informing you about membership, development, or sponsorship activities; 
+  * offering new products, services, sales, or other promotional events; 
+  * allowing our licensees to offer you products or services which may be of interest to you, some of the proceeds of which may support the Museum; or
+  * performing other business activities as needed. 
 
-**Cookies.** Cookies are small text files or pieces of information that a web site transfers to an individual’s hard drive for record-keeping purposes.  The cookie assigns you an ID, which allows the host to recognize you when you return to that Site.  This helps the host understand which areas of the Site are most popular and enables the host to enhance the Site. The Museum currently does not utilize cookies, but may do so in the future. 
 
-**How can I disable cookies?** Site visitors usually have the option of disabling cookies via their browser preferences.  Most browsers are initially set up to accept cookies.  Normally you can reset your browser to refuse all cookies or indicate when a cookie is being sent.  However, some parts of Site may not function properly or may be considerably slower if you refuse cookies. 
 
-**Use of IP Addresses.** An Internet Protocol (IP) address is a number that is automatically assigned to your computer whenever you are surfing the Web.  When visitors request pages from the Site, our servers log the guests’ IP addresses.  We do not normally link IP addresses to anything personally identifiable, which means the visitor remains anonymous to us.  The Museum collects IP addresses for the purposes of system administration and to audit the frequency of use of this Site. 
+**Purchase Information**   
+In addition to Personal Information, you may be requested to provide Purchase Information, including your credit card information, billing and/or shipping information, when you seek to engage in the following activities online, over the telephone, or in person:   
 
-## 5.  LINKS TO OTHER WEB SITES
 
-During your visit to this Site, you may come across links that will take you to third party web sites.  These third party web sites are not subject to the Museum’s Privacy Policy. Therefore, we encourage you to review the privacy policies of these web sites before you disclose your Personal Information to these other parties. 
+  * purchase a membership; 
+  * purchase a product or service; 
+  * purchase tickets to visit the Museum or for other events offered by the Museum; 
+  * make a donation; 
+  * register for educational programs, activities, group ticket sales, facility rentals, or package promotions offered in conjunction with other local businesses; or
+  * participate in other activities offered by the Museum that require your Purchase Information. 
 
-## 6.  SECURITY
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure.  The Museum strives to protect your Personal Information but cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.  **The Museum is not liable for disclosures of Personal Information due to errors in transmission or unauthorized acts of third parties.** However, once we receive Personal Information, we do our best to ensure its security by making reasonable efforts to protect the information. 
 
-## 7.  DISCLOSURE POLICY
+Your credit card information will be used only as needed to process your transaction and will not be stored in our systems after your transaction is complete.  So that we can track and service your order, we will retain your other Purchase Information, but not your credit card information, for our records.  This information generally is deleted after one year. 
 
-The Museum must, in some circumstances, disclose Personal Information and any use patterns in response to a valid legal request, which may include, but is not limited to, a subpoena, search warrant or court order.  The Museum may disclose Personal Information or visitor usage patterns to protect the security of the Site, safeguard our visitors, take precautions against liability or for any other reasons the Museum deems appropriate in its sole discretion. 
+**Children**   
+The Museum does not knowingly collect any information from children under 13 years old through its website. However, the Museum may collect an email address in order to respond to one-time requests from children submitted online.  If the parent or guardian of a child under 13 believes that the child has provided us with any information, the parent or guardian of that child should contact us if they want this information deleted from our files.  If the Museum obtains knowledge that it has information about a child under 13 in retrievable form in its files, we will delete that information from our existing files. In addition, anyone under 18 years old should seek his or her parent’s or guardian’s permission prior to using or disclosing any information on this site. 
 
-## 8.  HOW TO CHANGE/UPDATE PERSONAL INFORMATION
+**Non-Personal Information**   
+The Museum may collect Non-Personal Information about the visitors to our website.  Non-Personal Information includes anonymous information collected through use of technologies such as “cookies,” “spotlight tags” and “web beacons.” In using these technologies, we may collect your Internet Protocol (IP) address, your browser type and version, operating system and platform, and the full Uniform Resource Locators (URL) clickstream to and from our website (including date and time).  We do not use persistent “cookies” or tracking mechanisms that collect Personal Information on our sites.  The information collected by the use of these technologies is anonymous and is not linked with the Personal Information you provide to the Museum. 
 
-If you provide Personal Information and want to change or delete it please contact us at:  [webmaster@rockhall.org](mailto:webmaster@rockhall.org), or by phone at: 216.781.7625.  The Museum will make reasonable efforts to make the changes you requested but it is not always possible to modify database information.  In addition, if your Personal Information has been provided to third parties, the Museum will not be able to make changes to it.  Further, such information is never completely removed from our database due to technical constraints and the fact that we back up our systems.  Therefore, you should not expect that all of your Personal Information would be removed from our database in response to your request. 
+Non-Personal Information may be used to help diagnose problems with our server, to administer our website, and to perform statistical analyses that are used internally to measure interest in various areas of our site and to help determine the usefulness of various products and services.  Using Non-Personal Information we may also compile and provide aggregate statistics about the use of our website, our visitors, customers, sales, traffic patterns, and related site information to third parties.  These statistics will not include any Personal Information. 
 
-## 9.  HOW TO CONTACT THE MUSEUM
+## With Whom Do We Share Your Information? 
 
-If you have any questions about this Privacy Policy or the practices of this Site, send an e-mail to our Web Master ([webmaster@rockhall.org](mailto:webmaster@rockhall.org)), or contact us by telephone at 216.781.7625, or by regular mail to The Rock and Roll Hall of Fame and Museum, Inc., One Key Plaza, Cleveland Ohio 44114. 
+**Personal Information and Purchase Information**   
+The Museum may share Personal Information, including Purchase Information, with certain third parties such as our agents, service providers and other representatives acting on our behalf for limited purposes.  For example, we may share Personal Information with third parties to perform services on our behalf such as:   
 
-**California Residents.** As of January 1, 2005, California Civil Code Section 1798.83 permits visitors of this Site who are residents of California to request certain information regarding disclosure of their Personal Information to third parties for direct marketing purposes.  To make such a request, please send an e-mail to our web master at the e-mail, phone or postal address posted above. 
 
-**PLEASE Remember that your use of this Site is always subject to THIS PRIVACY POLICY AND our Terms of Use.   Please take a moment to read the Terms of Use.**
+  * delivering packages;
+  * registration for and participation in educational programs; 
+  * order fulfillment; 
+  * maintaining our membership program; 
+  * conducting research and analysis; 
+  * processing credit card payments; 
+  * offering you products or services which may be of interest to you, some of the proceeds of which may support the Museum; 
+  * sending Museum marketing communications; or
+  * conducting other business activities as needed. 
+
+
+
+The third parties with whom we conduct business are authorized to use your information only to perform the service for which they are hired. They are required to abide by the terms of our Privacy Policy including taking reasonable measures to ensure your personal information is secure. 
+
+**Promotional Packages and Educational Programs**   
+When you register for a promotional package (for example, a ticket package that offers you admission to the Rock and Roll Hall of Fame and to the Pro Football Hall of Fame for one price) or educational program (for example, a seminar for which teachers can obtain credit through an academic institution), your personal information, including your purchase information, may be shared with the businesses or educational institutions identified by name in the promotional package or educational program materials.  This is required to complete your reservation or registration in the promotional package or educational program.  While we strive to affiliate ourselves only with businesses and educational institutions that share our high standards and respect for privacy, we cannot be responsible for the content or privacy practices employed by these third parties.  For this reason, we encourage you to review the privacy policies of those third parties before disclosing any personal information to or through them. 
+
+**Nonprofit Cultural Institutions**   
+We reserve the right to share your Personal Information, but not your Purchase Information, with other nonprofit cultural institutions in the greater Cleveland area.  If you do not want to have your information used in this way, you may send an e-mail message containing your name and postal address to [donotshare@RockHall.org](mailto:donotshare@RockHall.org). 
+
+In the event that the Museum enters into a business transition, such as a merger with or an acquisition by another company, or a sale of a portion of or all of its assets, your Personal Information may be among the assets that are transferred or disclosed in connection with such a transaction. 
+
+From time to time, we may be required to share Personal Information in response to a valid court order, subpoena, government investigation, or as otherwise required by law.  We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may share certain Personal Information when we believe that such release is reasonably necessary to protect the rights, property and safety of others and ourselves. 
+
+## How do I inform the Museum of my Preferences? 
+
+**Marketing Communications**   
+If you no longer wish to receive marketing communications from or related to the Museum, let us know by using whichever of the following methods is appropriate under the circumstances:   
+
+
+  * Follow the directions on the e-mail or direct mail communication you receive from us; 
+  * Call 216-781-ROCK (7625) with your request and current contact information; 
+  * Send an e-mail with your request and current contact information to: [PrivacyManager@rockhall.org](mailto:PrivacyManager@rockhall.org); or 
+  * Send a letter with your request and current contact information to: 
+
+
+
+The Rock and Roll Hall of Fame and Museum, Inc.   
+c/o General Counsel’s Office   
+1100 Rock and Roll Boulevard   
+Cleveland, Ohio 44114-1022 
+
+If you send an e-mail or letter request, please be sure to include your full name, address, phone number and e-mail address, as well as the specific changes you would like to make. This will ensure we correctly identify you in our systems and accurately process your request. 
+
+The Museum will take the appropriate steps to modify your preferences with respect to our marketing communications. Due to production, mailing and system timelines, it may take some time to process your request.  Until your requested change takes effect, you may still receive communications from us.  If you send us your request by regular mail, please allow extra time for us to receive your notice. 
+
+Please note: Although you may have opted not to receive communications, you may still receive business-related communications such as order confirmations, product recall notices, membership information, or other organization-related communications. 
+
+## Links to Third Party Websites
+
+Our website may contain “links” to other websites. We try to link only to sites that share our high standards and respect for privacy.  However, we cannot be responsible for the content or privacy practices employed by other sites.  For this reason, we encourage you to review the privacy policies of these websites before disclosing any personal information to or through them. 
+
+## Consent and Modifications to Privacy Policy
+
+By providing information to the Museum, you signify your consent to this Privacy Policy.  If you do not agree to this Privacy Policy or the [Terms of Use](https://web.archive.org/terms "Terms of Use"), please do not use our website or provide your information to us. 
+
+The Museum reserves the right, at our discretion, to change, modify, add or remove portions of this Privacy Policy at any time and will update this page to reflect the date of the last update.  Please check this page periodically for changes.  Your continued use of our services following the posting of changes to these terms will mean you accept those changes.  **The last update took place in March 2008.**
+
+## Contact Us: Questions, Updating, Correcting and Changing Your Information
+
+The Museum is committed to undertaking measures that protect the confidentiality and security of the information you provide us.  If you have questions or concerns regarding your privacy, or would like to be removed from our mailing lists, update your information, or change your preferences about the information you receive from us, please contact the Museum directly. Click here to [email us](mailto:privacymanager@rockhall.org), call us at 216-781-ROCK (7625) or use the postal address below. 
+
+The Rock and Roll Hall of Fame and Museum, Inc.   
+c/o General Counsel’s Office   
+1100 Rock and Roll Boulevard   
+Cleveland, Ohio 44114-1022   
+
