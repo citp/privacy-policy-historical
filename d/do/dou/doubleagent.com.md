@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleagent.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026214401id_/http%3A//www.doubleagent.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleagent.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612065938id_/http%3A//www.doubleagent.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Double Agent
 
