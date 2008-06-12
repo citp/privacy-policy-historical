@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mylaps.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213000507id_/http%3A//www.amb-it.com/-i-5.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylaps.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612031258id_/http%3A//www.amb-it.com/-i-5.html) for the most accurate reproduction.*
 
-# Privat - AMB Identification and Timing
+# Privacy - AMB Identification and Timing
 
 **AMB Privacy Policy for the Internet**  
 AMB believes strongly in protecting the privacy of the personally identifiable information you share with us, and respecting the permission you give us to use that information. (Personally identifiable information is information that can identify you by, for example, your name, address, telephone number or e-mail address.) We also believe it is important to disclose how we will use your information, and to give you choices about how it will be used. 
