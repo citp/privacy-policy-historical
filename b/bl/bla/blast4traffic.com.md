@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blast4traffic.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213024739id_/http%3A//www.blast4traffic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blast4traffic.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612194554id_/http%3A//www.blast4traffic.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Blast4Traffic™ Privacy Policy
 
 **Blast4Traffic.com** recognizes the importance of protecting the privacy of personal information about our customers. Personal information includes all of the personally identifying information that is provided to Blast4Traffic.com. Blast4Traffic.com is sensitive to these privacy interests and believes that protecting valuable personal/financial information is one of Blast4Traffic.com's most significant responsibilities.
 
