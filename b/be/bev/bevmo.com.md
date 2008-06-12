@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the bevmo.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025044153id_/http%3A//www.bevmo.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bevmo.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612131435id_/http%3A//www.bevmo.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Beverages & More Privacy and Security Policy
 
 **Disclosure of Personal Information:**
 
 BevMo.com is committed to keeping your personal information strictly confidential. When we collect your personal information (i.e. name, address, e-mail, telephone number, and credit card information) it is in an effort to improve your shopping experience and to notify you about our products, services, answer inquiries, and promotional information. It is our policy not to disclose any of your personal information at any time, unless you tell us to do so. We do not sell, trade or rent your personal information to third parties. From time to time, we'll share aggregated (collective) information about our members as a group, or generate aggregate reports and market research for business partners. These reports will not identify individual members. 
-
-We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Action Tags and cookies provided by our marketing company on this site. The information we collect helps us learn things like what kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this web-site analysis tool by clicking here <http://optout.bevmo.rpts.net/cgi-bin/rpts/optout.pl>
 
 **Opting Out:**
 
