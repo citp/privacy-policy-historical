@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orbitz.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227081904id_/http%3A//www.orbitz.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitz.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612021825id_/http%3A//www.orbitz.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
 
 # Orbitz: Privacy Policy
 
@@ -346,7 +346,7 @@ _Changes to the Privacy Policy_
 >  Orbitz LLC  
 >  500 West Madison Street, Suite 1000, Chicago, IL 60661  
 > Telephone:|  888-656-4546 (within the United States)  
->  701-280-5683 (Outside the United States).   
+>  312-416-0018 (Outside the United States).   
   
   
 
