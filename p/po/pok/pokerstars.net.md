@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pokerstars.net privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212235501id_/http%3A//www.pokerstars.net/poker/room/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerstars.net privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612044823id_/http%3A//www.pokerstars.net/poker/room/terms/privacy) for the most accurate reproduction.*
 
-# PokerStars About Us Page - About Poker Stars
+# Player Security - Free Poker Download - PokerStars
 
 Your privacy on the Internet is very important to PokerStars.net. We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy playing poker online at PokerStars.net, by safeguarding it utilizing the best in class software and hardware architecture, techniques, methods and procedures. 
 
@@ -44,10 +44,11 @@ We may send you a temporary cookie when you visit [www.PokerStars.net](http://ww
 By opening an Account with [PokerStars.net](http://www.pokerstars.net/) you agree to the terms of this PRIVACY POLICY. We may occasionally update this Privacy Policy and encourage you to periodically review it. If we change our privacy policy we will post the changes on this page.  Your continued use of the [PokerStars.net](http://www.pokerstars.net/) services constitutes your agreement to this Privacy Policy and any updates. Our terms of service, see [www.pokerstars.net/poker/room/terms/](http://www.pokerstars.net/poker/room/terms/), take precedence over any conflicting provision of this Privacy Policy. 
 
 **8\. Who are we?**  
-Rational Poker School Limited  
-10 Hill Street   
-Douglas IM1 1EF  
-Isle of Man  
+Rational Poker School Limited,  
+49 Victoria Street,   
+Douglas,   
+Isle of Man,   
+IM1 2LD.   
 
 
 Privacy Policy last revised: 29th August, 2007 
