@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crockpot.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409004332id_/http%3A//www.crockpot.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crockpot.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612152539id_/http%3A//www.crock-pot.com/privacy.aspx) for the most accurate reproduction.*
 
-# Welcome To Crockpot.com
+# Welcome To Crock-Pot.com
 
 1\. General  
 Jarden Consumer Solutions respects the privacy of every individual who visits our Corporate or Divisional websites or responds to our guestbooks, contests, or interactive advertisements. This Privacy statement outlines the information Jarden Consumer Solutions will collect and how we will use that information. This Statement will inform you what to do if you do not want your personal information to be shared or divulged when you visit a Jarden Consumer Solutions website or respond to our advertising.2\. Personally - Identifiable Information  
