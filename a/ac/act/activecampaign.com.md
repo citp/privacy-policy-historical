@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activecampaign.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011025852id_/http%3A//www.activecampaign.com/sales_faq/index.php%3Farticle%3D1013) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activecampaign.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612062141id_/http%3A//www.activecampaign.com/sales_faq/index.php%3Farticle%3D1013) for the most accurate reproduction.*
 
 # Privacy Policy - Pre-Sales
 
