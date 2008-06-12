@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taxslayerpro.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214095425id_/http%3A//www.taxslayerpro.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayerpro.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612162745id_/http%3A//www.taxslayerpro.com/privacy.aspx) for the most accurate reproduction.*
 
-# TaxSlayer Pro
+# TaxSlayer Pro | Gain The Preparer’s Edge – Professional, Complete and Affordable Income Tax Preparation Software
 
 Purchasing our Products  
 The purpose of this site is to market and sell our software. As a result, you may have to provide us your personal information and/or email address. We do not share or disseminate this information to other vendors or clients. This information is kept in strictest, secure, confidence. If you choose to purchase our products online, you will be asked for personal information as well as your credit card number. The forms requesting this information are on a secure server. All steps are taken to safeguard your information. 
@@ -25,7 +25,7 @@ We take every step available to safeguard customer information. All forms accept
 
 TaxSlayer's electronic filing process is different than most in the fact that you download our software and install it on your personal PC. Once you have completed the return on your personal PC, you are asked to transmit the return to TaxSlayer's secure website. The tax return file is encrypted to avoid any unwanted detection. Immediately after the files are transmitted to TaxSlayer's website, they are moved to a different location providing less likelihood of unwanted intervention. They are again moved a third time to begin processing. All acknowledgements are handled by e-mail with only general information given. Acknowledgements can also be retrieved via our website again without general information provided. (Example: IRS accepted or rejected, acceptance date, etc.) Confidential information such as refund amounts, names, addresses, and account numbers are not displayed or e-mailed. 
 
-We strive to keep our customer information as accurate and complete as we can. If you believe any of the information about you is not accurate, please let us know. 
+We strive to keep our customer information as accurate and complete as we can. If you believe any of the information about you is not accurate, please let us know.
 
 Other Information  
 The Privacy Policy applies to products and services of TaxSlayer®. We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. The examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive. 
