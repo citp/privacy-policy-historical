@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the 49ers.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011041522id_/http%3A//www.49ers.com/privacy/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 49ers.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612144510id_/http%3A//www.49ers.com/privacy/privacy_policy.php) for the most accurate reproduction.*
 
 # Official Site of the San Francisco 49ers -
 
 San Francisco 49ers Website Privacy Policy
 
-Revised policy updated as of September 2007\. 
+Revised policy updated as of March 2008. 
 
-[](http://www.truste.org/ivalidate.php?companyName=National%20Football%20League&sealid=102&ctv_group=49ers)This privacy policy applies to San Francisco 49ers’ website located at [sf49ers.com](http://www.sf49ers.com/) and [49ers.com](http://www.49ers.com/)  (the “Website”). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
+[](http://www.truste.org/ivalidate.php?companyName=National%20Football%20League&sealid=102&ctv_group=49ers)This privacy policy applies to San Francisco 49ers’ websites located at [sf49ers.com](http://sf49ers.com/)  and [49ers.com](http://49ers.com/) and [www.49ersfaithful.net](http://www.49ersfaithful.net/)  the “Website”). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
 The Website is operated by J&A Partners on behalf of the San Francisco 49ers. J&A does not own any information submitted through this website and cannot use this information for its own purposes. 
 
-The San Francisco 49ers is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.49ers.com](http://www.49ers.com/) and [http://www.sf49ers.com](http://www.sf49ers.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+The San Francisco 49ers is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.49ers.com](http://www.49ers.com/), [http://www.sf49ers.com](http://www.sf49ers.com/)  and [http://www.49ersfaithful.net](http://www.49ersfaithful.net/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact our Privacy Policy Coordinator at 49ersweb@niners.nfl.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php](https://www.truste.org/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact our Privacy Policy Coordinator at [49ersweb@niners.nfl.com](mailto:49ersweb@niners.nfl.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.   
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. 
@@ -37,7 +37,7 @@ Please read the information below to learn more about our data collection polici
 TYPES OF INFORMATION THAT MAY BE COLLECTED 
 
 The following are the types of information we may collect:   
-Information You Provide Us: In the course of using the website, we may ask you to provide us with certain information, including contact information such as your name, address, email, zip code, phone number, unique identifiers such as your user ID, user password, demographic information such as your date of birth, age, or gender, and financial information such as your credit card number or similar information. 
+Information You Provide Us: In the course of using the website, we may ask you to provide us with certain information, including contact information such as your name, address, email, zip code, phone number, unique identifiers such as your user ID, user password, demographic information such as your date of birth, age, or gender, and financial information such as your credit card number or similar information. On our member fan networking site set up for the Faithful ([49ersfaithful.net](http://49ersfaithful.net/)) we also ask for other information regarding your personal interests such as hobbies, occupation, favorites, etc. When sending an email to a friend from our site we will ask you for your friend’s name and email address. 
 
 Site Usage Information: We may receive and store certain types of internet usage information whenever you visit the Website, such as your IP address. See “IP Addresses and Click Stream Data” section below for further information on this topic. 
 
@@ -49,7 +49,10 @@ We may collect information from you in several different areas on the Website, i
 
 Registration: You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. 
 
-Newsletters and Website Emails: We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website or in the newsletter or by emailing to [eblitz@niners.nfl.com](http://mailto:eblitz@niners.nfl.com/). 
+Tell-A-Friend   
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. The Website does not store this information as its sole purpose is to send this as a one-time email. 
+
+Newsletters and Website Emails: We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website or in the newsletter or by emailing to [eblitz@niners.nfl.com](mailto:eblitz@niners.nfl.com)
 
 Contests or Sweepstakes: We periodically operate contests and sweepstakes through the Website that may require registration or the submission of personal information. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes, (see the rules of each contest for details about how your personal information will be used). We may also ask your permission to allow us to publicly post some of your information on the Website, such as on a winner’s page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Website, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we do not collect your information and we have no control over the information collected from you. Accordingly, we urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating. 
 
@@ -65,24 +68,22 @@ Transaction Information: If you conduct a financial transaction with our Website
 
 HOW WE USE THE INFORMATION COLLECTED 
 
-As applicable, the information you provide to us may be used to: 
-
-  * contact you about the Website; 
-  * contact you relating to your membership status; 
-  * confirm or fulfill an order you have made; 
-  * inform you of a prize you have won; 
-  * monitor or improve the use of the Website; 
-  * customize the advertising and content you see; 
-  * monitor compliance with our terms and conditions of use of the Website; and 
-  * send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties. 
-
+As applicable, the information you provide to us may be used to:   
+• contact you about the Website;   
+• contact you relating to your membership status;   
+• confirm or fulfill an order you have made;   
+• inform you of a prize you have won;   
+• monitor or improve the use of the Website;   
+• customize the advertising and content you see;   
+• monitor compliance with our terms and conditions of use of the Website; and   
+• send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.   
 WITH WHOM THE INFORMATION MAY BE SHARED 
 
 At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared: 
 
-Agents: We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include web developing, web hosting, software management, fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, sending text messages to your phone, providing marketing assistance, processing credit card payments, provide interactive services and functions and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products. 
+Agents: We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include web developing, web hosting, software management, fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, sending text messages to your phone, providing marketing assistance, processing credit card payments, provide interactive services and functions and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products. 
 
-[MBNA](http://image.applyonlinenow.com/us/49ers-mx2k/mx2k.html), [Sign Up 4](http://signup4.com/), [GSI](http://www.shop49ers.com/), [RazorGator](http://49ers.razorgator.com/) and [Ticket Master](http://www.ticketmaster.com/) are powered by these individual companies and their privacy policies apply to all information collected. Some of these sites may have the look and feel of the 49ers, but you are actually entering your information on these third party sites. 
+[4INFO](http://www.4info.net/logon.jsp?tag=fr_49ers_com), [MBNA](http://image.applyonlinenow.com/us/49ers-mx2k/mx2k.html), [Sign Up 4,](http://signup4.com/) [GSI](http://www.shop49ers.com/home/), [RazorGator ](http://www.razorgator.com/49ers/)and [Ticket Master](http://www.ticketmaster.com/) are powered by these individual companies and their privacy policies apply to all information collected. Some of these sites may have the look and feel of the 49ers, but you are actually entering your information on these third party sites. 
 
 Aggregate Information: We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information. 
 
@@ -94,11 +95,13 @@ Business Transfers: In the event that all or substantially all of our assets are
 
 Administrative or Legal Process: Your personal information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights, or protect the rights of other users of this website. 
 
-CHAT ROOMS, FORUMS, AND MESSAGE BOARDS 
+CHAT ROOMS, FORUMS, BLOGS AND MESSAGE BOARDS 
 
 The Website may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. 
 
 Also, please note that any Club administrators for our Booster Club Directory may access their posted information to either edit or have de-listed by contacting Teri Ramos at the San Francisco 49ers, 408/562-4949. 
+
+The 49ers Faithful site is mainly a member social networking site that allows you to create a profile. If a member chooses to create a profile, the general public will be allowed to view your profile, and your username will also be included in the “Find Faithful Fans” search directory. You will have the opportunity to click shown or hidden on your other personal information outside of your username. Clicking shown will display the item in your public profile page and can be used as a search field in the directory. Clicking hidden will remove the item from your public profile page and will not be used as a search field in the directory. 
 
 LINKS TO OTHER WEBSITES 
 
@@ -106,13 +109,13 @@ You should be aware that when you are on the Website you could be directed to ot
 
 SECURITY 
 
-This Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required. 
+This Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. In certain instances, your sensitive personally identifiable information (such as credit card number)is transferred to our computers utilizing SSL encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required. 
 
 A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY 
 
 The Website is a general audience Website. We do not currently collect any personal information from children under the age of thirteen on the Website. If in the future, we collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent. 
 
-The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the Direct Marketing Association's Web Website (www.the-dma.org) and explore the Get CyberSavvy! Program as well as the GetNetWise Website (www.getnetwise.org) to learn more about parental control tools. 
+The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the Direct Marketing Association's Web Website ([www.the-dma.org](http://www.the-dma.org/)) and explore the Get CyberSavvy! Program as well as the GetNetWise Website ([www.getnetwise.org](http://www.getnetwise.org/)) to learn more about parental control tools. 
 
 YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE POLICY 
 
@@ -120,25 +123,4 @@ By using this Website, you signify your agreement to the terms of our privacy po
 
 CORRECTING/UPDATING PERSONAL INFORMATION 
 
-If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by using an opt out message in an email, or by emailing us at [49ersweb@niners.nfl.com](http://mailto:49ersweb@niners.nfl.com/). We will respond to your request within 10-20 business days. 
-
-YOUR CALIFORNIA PRIVACY RIGHTS 
-
-A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business’s privacy practices if it shares information with other companies for those companies’ direct marketing purposes. 
-
-As explained in this privacy policy, whenever you agree to let us collect personal information about you, we will always provide you with an option to prevent this information from being shared for non-administrative purposes with third parties. You can exercise this option at any time by following the steps outlined above. 
-
-Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information. 
-
-If you are a California resident and have questions about our compliance with this law, please send an email to [49ersweb@niners.nfl.com](http://mailto:49ersweb@niners.nfl.com/) or write to us at San Francisco 49ers, Website CA Privacy Rights, 4949 Centennial Blvd, Santa Clara, CA 95054. 
-
-QUESTIONS ABOUT THIS PRIVACY POLICY 
-
-If you have any questions about this privacy policy or the privacy practices of this Website, contact [49ersweb@niners.nfl.com](http://mailto:49ersweb@niners.nfl.com/)
-
-Questions regarding this statement should be directed to: 
-
-San Francisco 49ers  
-Attn: Website Privacy Policy  
-4949 Centennial Blvd  
-Santa Clara, CA 95054 
+If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by using an opt out message in an email, or by emailing us at [49ersweb@niners.nfl.com](mailto:49ersweb@niners.nfl.com). We will respond to your request within 10-20 business days. 
