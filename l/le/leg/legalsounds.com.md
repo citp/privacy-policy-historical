@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalsounds.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220002602id_/http%3A//www.legalsounds.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalsounds.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612173403id_/http%3A//www.legalsounds.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy mp3 download
 
@@ -35,4 +35,4 @@ If we are going to use your personal information differently from that stated at
 The LegalSounds.com Customer Privacy Policy is subject to change at any time. We ask you to review the privacy policy regularly for any changes. 
 
 Last updated April 28th, 2005  
-© Copyright 2005 Legalmedia. All rights reserved.
+© Copyright 2005 Legalmedia. All rights reserved. 
