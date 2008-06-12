@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011043119id_/http%3A//www.acop.com/PrivacyPolicy.aspx%3FL%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612062847id_/http%3A//www.acop.com/PrivacyPolicy.aspx%3FL%3D1) for the most accurate reproduction.*
 
 # Paid online surveys for money and free online paid opinion surveys - American Consumer Opinion
 
@@ -164,7 +164,7 @@ Arlington, Texas 76011
 Phone numbers:  
 Toll-free, 1-800-262-5974  
 International, 1-817-640-6166  
-Email: [aparks@acop.com](mailto:aparks@acop.com)
+Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?subject=Question%20Regarding%20ACOP%20Privacy%20Policy)
 
 For more information about Internet privacy and the privacy guidelines we follow: 
 
@@ -178,7 +178,7 @@ Back to top
 
 If you believe we have violated our stated Privacy Policy with respect to personal information you have entrusted to us, you have several options: 
 
-  * We urge you to contact our [Internet Operations Department](mailto:aparks@acop.com) so we may investigate your complaint.
+  * We urge you to contact our [Internet Operations Department](mailto:privacy@decisionanalyst.com?subject=Question%20Regarding%20ACOP%20Privacy%20Policy) so we may investigate your complaint.
   * You may also file a complaint with the [ Council of American Survey Research Organizations (CASRO)](http://www.casro.org/), 3 Upper Devon, Port Jefferson, New York 11777.
 
 
