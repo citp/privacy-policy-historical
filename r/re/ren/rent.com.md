@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211095027id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612174011id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
 
 # Rent.com: Privacy Policy
 
@@ -8,15 +8,13 @@ Company Information
 
 Help
 
-Reward Card
-
 Contact Us
+
+Security Center
 
 Legal
 
 Rent.com Privacy Policy
-
-Security Center
 
 | 
 
@@ -25,7 +23,7 @@ Rent.com is a technology platform owned and operated by Viva Group, Inc. The ren
   1. Scope. This privacy policy describes how we handle your personal information for our services available on Rent.com and on other related sites where this policy is posted. By accepting the Privacy Policy and the Terms of Use in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy, including its transfer to and storage on our servers in the United States. 
   2. Collection. While you can browse some sections of the website without being a registered user, certain activities (such as viewing property contact information and advertising a property) do require registration. Once you give us your personal information, you are not anonymous to us. In most cases, the information we hold about you is collected on the Rent.com website, but we may also collect information from private-label, co-branded and affiliate websites. Depending on the services used, we may collect and store the following personal information:
     * contact information such as name, email address, address and telephone number;
-    * move-in date and demographic information such as gender, age, marital status, occupation, and other personal and lifestyle information (for example, if you respond to an optional survey request or use our roommate service); 
+    * move-in date and demographic information such as gender, age, marital status, occupation, and other personal and lifestyle information (for example, if you respond to an optional survey request); 
     * financial information such as credit card or bank account numbers;
     * guest card information, lease terms, lease parties and other transactional information; and
     * information based on your activities on the website, such as search information, computer sign-on data, statistics on page views, traffic to, from and within the website, ad data, and IP address and standard web log information.
@@ -34,7 +32,7 @@ Rent.com is a technology platform owned and operated by Viva Group, Inc. The ren
 
   3. Use. Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may use your personal information to:
     * Provide the services and customer support you request, including confirming emails related to the website services, reminders and transactions.
-    * Provide the ability to communicate with Renters, Lessors and Roommates.
+    * Provide the ability to communicate with Renters and Lessors.
     * Resolve disputes, collect fees and troubleshoot problems.
     * Customize your experience and otherwise measure and improve our services and the website's content and layout.
     * Tell you about targeted marketing, service updates, and promotional offers based on your communication preferences. (If we use your personal information to market to you, you will be able to opt-out of such uses; see �Choice/Opt-Out� below.)
@@ -53,7 +51,7 @@ Rent.com is a technology platform owned and operated by Viva Group, Inc. The ren
 We may also disclose personal information if permitted to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders or other legal process.
 
   5. Lead Responder. When a Renter contacts a Lessor through the website (by clicking on the "contact now") button or by calling the website-issued telephone number of the Lessor, e.g., (866) 829-1234 ext. 1212 using a telephone, we will collect the Renter's telephone number and other information related to the communication. If the Lessor communicates with the Renter by dialing that telephone number or by email, we will collect information related to that communication. If the communication is by telephone, we will collect information related to the call, including its duration, but we will not collect the content of the telephone call. If the communication is by email, we will collect the content of the email in addition to other information related to the email. We may share these communications (or logs thereof) with Lessors so they can manage their communications with Renters. Without limiting any other provisions of this Policy, you expressly agree that we may use this data ("impression data") to enforce our rights to collect fees payable by the Lessors. 
-  6. Third Parties. Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are Renters, Lessors, Roommates or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. Rent.com does not control the privacy policies of third parties. We encourage you to ask questions before you disclose your personal information to others. 
+  6. Third Parties. Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are Renters and Lessors or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. Rent.com does not control the privacy policies of third parties. We encourage you to ask questions before you disclose your personal information to others. 
 
 Our website links to other websites that may collect personal information about you. Rent.com is not responsible for the privacy practices or the content of those linked websites.
 
