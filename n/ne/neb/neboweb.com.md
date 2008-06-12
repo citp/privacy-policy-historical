@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neboweb.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211053824id_/http%3A//www.neboweb.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neboweb.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613015605id_/http%3A//www.neboweb.com/privacy-statement.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,4 +8,4 @@ NeboWeb respects each individual user's right to privacy. NeboWeb may collect pe
 
 NeboWeb will not allow companies and organizations to rent or purchase our lists. 
 
-For more information about NeboWeb please call 1-888-NeboWeb or [contact us](https://web.archive.org/web/20071211053824id_/http%3A//www.neboweb.com/contact-us.php). 
+For more information about NeboWeb please call 1-888-NeboWeb or [contact us](https://web.archive.org/web/20080613015605id_/http%3A//www.neboweb.com/contact-us.php). 
