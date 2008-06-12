@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spicevod.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213224422id_/http%3A//spicevod.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D17982) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicevod.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612152015id_/http%3A//www.spicevod.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D17982) for the most accurate reproduction.*
 
 # Spice Video On Demand
 
