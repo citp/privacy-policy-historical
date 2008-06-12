@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flylady.net privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209120455id_/http%3A//www.flylady.net/pages/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flylady.net privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612222754id_/http%3A//www.flylady.net/pages/Privacy.asp) for the most accurate reproduction.*
 
 # FlyLady.net: Privacy Policy
 
@@ -42,11 +42,6 @@
 > 
 > Copyright 2001, 2002, 2003 FlyLady and Company, Inc.
 > 
-> [Back](javascript:history.back\(\))
-
-  
-
-
-* * *  
+> [Back](javascript:history.back\(\))  
   
 ---|---
