@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flvplayer4free.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024153111id_/http%3A//www.flvplayer4free.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvplayer4free.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613004900id_/http%3A//www.flvplayer4free.com/privacy.htm) for the most accurate reproduction.*
 
-# head-title
+# FLV player Privacy
 
 FLVPlayer4Free has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
