@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digicert.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011051100id_/http%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digicert.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612150238id_/http%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.*
 
-# SSL Certificate Security - DigiCert Privacy Policy
+# DigiCert SSL Certificate Authority | Security | Privacy Policy
 
 DigiCert Privacy Policy  
   
@@ -14,7 +14,8 @@ The following is the official privacy policy of digicert.com. The purpose of thi
 If you have questions about this privacy statement, please send them to us by email to privacy@digicert.com or write to us at the following address:
 
 DigiCert, Inc.  
-333 South 520 West  
+355 South 520 West  
+Canopy Building II, Suite 200  
 Lindon, Utah 84042
 
 If you experience technical difficulties, please contact our web-administrator at [admin@digicert.com](mailto:admin@digicert.com)  
@@ -69,7 +70,8 @@ If ssl order and/or account details have changed, DigiCert will require that you
 In the unlikely event that you could not log into your account (gain access) to submit a change request, you would alternatively contact us by sending an email to admin@digicert.com or by mailing a written request to the following address:
 
 DigiCert, Inc.  
-333 South 520 West  
+355 South 520 West  
+Canopy Building II, Suite 200  
 Lindon, Utah 84042
 
 Sub-User Creation & Account Access  
@@ -107,17 +109,15 @@ Contact US
 DigiCert can be contacted at the following:
 
 DigiCert, Inc.  
-333 South 520 West  
+355 South 520 West  
 Lindon, Utah 84042
 
-Toll Free: 1-800-635-8951 (US & Canada)  
-Direct: 1-801-805-1620  
-Fax Tool Free: 1-866-842-0223 (US & Canada)  
+Toll Free: 1-800-896-7973 (US & Canada)  
+Direct: 1-801-877-2100  
+Fax Toll Free: 1-866-842-0223 (US & Canada)  
 Fax Direct: 801-705-0481
 
 Email: support@digicert.com
-
-Web: www.digicert.com
 
 Effective Date of Privacy Policy  
 Effective Date: 08/15/2005  
