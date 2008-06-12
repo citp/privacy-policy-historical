@@ -1,56 +1,39 @@
-> *The following text is extracted and transformed from the unsw.edu.au privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214214242id_/http%3A//www.unsw.edu.au/gen/pad/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unsw.edu.au privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613015011id_/http%3A//www.unsw.edu.au/gen/pad/privacy.html) for the most accurate reproduction.*
 
 # UNSW: The University of New South Wales - Sydney Australia
 
-  | 
+Personal information collected at the University of New South Wales ("UNSW") through UNSW websites is handled in accordance with the Privacy and Personal Information Protection Act 1998 (NSW) ("the Act"). This UNSW Websites Privacy Statement describes the ways in which UNSW deals with personal information and other data collected through UNSW websites. 
 
-### Privacy Statement
+What is Personal Information?  
+Personal Information is defined in the Act as being information or an opinion about an individual whose identity is apparent or can reasonably be ascertained from that information or opinion. Personal Information includes, for example, names, addresses, telephone numbers, email addresses, dates of birth and passport numbers. 
 
-  
-  
----|---  
-  | 
+There are circumstances in which, under the Act, information about an individual is not considered to be Personal Information, including: 
 
-The purpose of this statement is to let users of this web site know what information is collected about them when they visit this site, how this information is used and if it is disclosed.
+_Personal Information provided by you_
 
-Information collected.  
-The information collected during each visit is aggregated with similar logged information and published in reports in order for UNSW to identify patterns of usage of the site. This will assist us in improving the Service of the UNSW site and the services offered on it.
+UNSW has a number of privacy statements setting out how personal information is handled by the University. These include the [Student Privacy Code of Practice](https://my.unsw.edu.au/student/privacy.html), the [Human Resources Privacy Statement](http://www.hr.unsw.edu.au/employee/privacy.html) and other statements or policies that UNSW may approve from time to time. 
 
-UNSW will not disclose or publish information that identifies individual machines, or potentially identifies sub-groupings of addresses, without consent or otherwise in accordance with the New South Wales [ Privacy and Personal Information Protection Act 1988.](http://www.austlii.edu.au/au/legis/nsw/consol_act/papipa1998464/)
+UNSW provides feedback facilities on its websites to allow users to provide input into the future development of its websites and comment on the provision of services. Users must provide UNSW with a name and email address for the purpose of receiving a reply to their feedback. This information will only be used for the purpose for which it was provided and your name and email address will not be added to any mailing list by UNSW. 
 
-Cookies are not used from the UNSW site to collect information.
+Information that you disclose in online forums or other interactive media is considered by UNSW and the common law to be public information and may therefore not be subject to protection under the Act. 
 
-Exceptions to the rule.
+_Automatic collection of personal information_
 
-UNSW will collect, use and disclose more extensive information than stated above in the following circumstances: 
+UNSW may collect personal information and other data from you through the use of a Cookie or other automated means including server logs. A Cookie is a packet of data that a website puts on your computer's hard disk to identify you as a visitor to that website. The information collected by UNSW through Cookies and other means may include: your server address; your domain name; your IP address; the date and time of your visit; the pages accessed and documents downloaded; the previous site visited; the type of browser you used. You may choose to disallow Cookies through your web browser settings.
 
-  * unauthorised attempts to access files which are not published UNSW pages;
-  * unauthorised tampering or interference with files published on the UNSW site;
-  * unauthorised attempts to index the contents of the UNSW site by other sites;
-  * attempts to intercept messages of other users of the UNSW site; 
-  * communications which are defamatory, abusive, vilify individuals or groups or which give rise to a suspicion that an offence is being committed; and 
-  * attempts to otherwise compromise the security of the web server, breach the laws of the State of New South Wales or Commonwealth of Australia, or interfere with the enjoyment of the UNSW site by other users. 
+Personal information provided by you to UNSW will be used by UNSW for the primary purpose for which you provided it and for other secondary purposes directly related to that primary purpose. The University is not responsible for the privacy practices of web sites external to UNSW. 
 
-UNSW reserves the right to make disclosures to relevant authorities where the use of the UNSW site raises a suspicion that an offence is being, or has been, committed. In the event of an investigation, UNSW will provide access to data to any law enforcement agency that may exercise a warrant to inspect our logs. 
+The information that is automatically collected during each visit to a UNSW website is aggregated by UNSW with similar logged information. This aggregated information may be published by UNSW in internal reports to assist UNSW identify patterns of website usage and to improve and maintain the service of UNSW websites and any services offered. Aggregated information does not identify individual users and does not include personal information. 
 
-Security of information stored.   
-Information collected is stored in an appropriately secure format and held by UNSW for archival purposes. When the information is no longer required for the purposes for which it was collected it is deleted. 
+UNSW will not otherwise disclose your personal information without your consent unless otherwise authorised by law. UNSW may disclose personal information to a third party if the disclosure is necessary to prevent or lessen a serious and imminent threat to the life or health of you or another person. 
 
-Information provided in Feedback.  
-UNSW provides feedback facilities on the UNSW site to allow users to provide input into the future development of the site and to comment on the provision of service by the Office. The provision of personal details on feedback is optional. Users may provide personal details for the purpose of receiving a reply to their feedback. This information will only be used for the purpose for which it was provided. We will not add your email address or name to any mailing list. UNSW may publish aggregated information about feedback on the site, to the extent that it does not identify or cannot be used to identify individual users. 
+Personal information collected through UNSW websites which is no longer required by UNSW and which need not be retained by law will be destroyed.
 
-Access to information within the Department.  
-UNSW captures this information on its own computers. Access to the raw data is restricted to a limited number of officers in UNSW for the purpose of analysis and to report on the success of UNSW in meeting UNSW's communication and access objectives. The officers who can access this data are the members of the Division of Information Services Team of the University of New South Wales. If you would like to access information held about you by UNSW please contact PAD.  
-Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time. The amended policy will be posted to this site and will operate from the time it is posted.   
+You have a right to access your personal information held by UNSW. You can also request amendment to that information if you believe that it is incorrect or make complaints about the information handling practices of UNSW or breaches of your privacy by UNSW. 
 
+Access and amendment requests, complaints and other privacy enquiries should be directed to: 
 
-|   
-  | 
-
-[ Privacy Policy](https://web.archive.org/gen/pad/privacy.html) [ Copyright and Disclaimer](https://web.archive.org/gen/pad/copyright.html) [ Accessibility](https://web.archive.org/gen/ced/accessibility.html) [ Site Feedback](https://web.archive.org/webfeedback.html) [ Sitemap](https://web.archive.org/sitemap.html)  
-  
-  | 
-
-UNSW Sydney NSW 2052 Australia   
-Authorised by Marketing Services Manager   
-
+UNSW Privacy Officer  
+Email: [privacy@unsw.edu.au](mailto:privacy@unsw.edu.au)  
+Web: [www.privacy.unsw.edu.au](http://www.privacy.unsw.edu.au/)  
+Telephone: (02) 9385 2860
