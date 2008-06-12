@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the countryinns.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228073430id_/http%3A//www.countryinns.com/sectiontemplate.do%3Fsidemenu%3Dprivacy.sidemenus%26section%3Dprivacy.home) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryinns.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612022710id_/http%3A//www.countryinns.com/sectiontemplate.do%3Fsidemenu%3Dprivacy.sidemenus%26section%3Dprivacy.home) for the most accurate reproduction.*
 
 # Guest Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.countryinns.com&sealid=102) Carlson Hotels Worldwide Guest Privacy Policy - Effective October 28, 2007 
+[](http://www.truste.org/ivalidate.php?url=www.countryinns.com&sealid=103) Carlson Hotels Worldwide Guest Privacy Policy - Effective October 28, 2007 
 
 **Carlson Hotels Worldwide Privacy Promises.**  
 Carlson Hotels Worldwide ("CHW") together with its subsidiaries (collectively, "the CHW Family of Hotels") take your privacy seriously. These are our ten promises to you: 
