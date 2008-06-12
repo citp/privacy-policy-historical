@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gunslot.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010224937id_/http%3A//www.gunslot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunslot.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612125840id_/http%3A//www.gunslot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Guns Lot
 
-You are here: [Home](https://web.archive.org/) > **Privacy Policy**
+You are currently viewing our site as a guest which gives you limited access to view most discussions, videos and photo galleries. By joining our free community you will have access to post topics, communicate privately with other users, upload videos and photos in your own photo album and access many other special features. Registration is fast, simple and absolutely free so please, [join our community today!](https://web.archive.org/user/register)
 
 This policy statement discloses the discreet privacy practices of MarvQuin LLC's official Web site www.GunsLot.com. As a company, we want to build user confidence and long term trust on the Internet by promoting the use of quality and fair information practices. GunsLot.com demonstrates this lifetime commitment to full privacy by consistently disclosing our information and collection practices. This includes notification of the following types: 
 
