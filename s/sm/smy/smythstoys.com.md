@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smythstoys.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213164137id_/http%3A//www.smythstoys.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smythstoys.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612082557id_/http%3A//www.smythstoys.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# Top Online Toy Store in London and Northern Ireland, Games & Toys Online from Smyths Superstores
+# Top Toy Store in UK & Ireland, for Games, Outdoor & Toys Online from Smyths Superstores
 
 **Privacy & Security Policy**  
 This privacy statement is provided by Smyths Toys and its subsidiaries (referred to as 'us', 'our', or 'we' in the statement) for the information of visitors (referred to as 'you' or 'your' in the statement) to our website. 
