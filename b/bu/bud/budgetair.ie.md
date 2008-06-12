@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the budgetair.ie privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212080938id_/http%3A//budgetair.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetair.ie privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612092948id_/http%3A//www.budgetair.ie/privacy-policy) for the most accurate reproduction.*
 
-# Budget Travel - Privacy & Cookies
+# Privacy Information from Ireland’s No1 provider of Last Minute Holidays, All Inclusive Holiday & Cheap Holidays, Budget Travel
 
 #### Booking Online
 
