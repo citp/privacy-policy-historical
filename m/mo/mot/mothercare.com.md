@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213173442id_/http%3A//www.mothercare.com%3A80/gp/node/n/49726031%3Fie%3DUTF8%26mcb%3Dcore) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612181713id_/http%3A//www.mothercare.com%3A80/gp/node/n/49726031%3Fie%3DUTF8%26mcb%3Dcore) for the most accurate reproduction.*
 
 # privacy policy - other pages : mothercare
 
@@ -88,7 +88,8 @@ A cookie is a piece of text which asks permission to be placed on your computer'
 
 We use cookies to simplify the shopping processes and we also use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our web site in order to tailor it to customer needs. Refusal of a cookie will prevent you from using the mothercare.com site. To use mothercare.com, cookies need to be enabled. You can change your Internet Settings to 'enable cookies'.
 
-Overall, cookies help us provide you with a better web site, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. We know that some people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. You may set your web browser (Microsoft internet explorer or Netscape navigator) to notify you of cookie placement requests or decline cookies completely. You can delete the files that contain cookies - those files are stored as part of your internet browser.
+Overall, cookies help us provide you with a better web site, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. We know that some people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. You may set your web browser (Microsoft internet explorer or Netscape navigator) to notify you of cookie placement requests or decline cookies completely. You can delete the files that contain cookies - those files are stored as part of your internet browser.  
+ 
 
   
 
