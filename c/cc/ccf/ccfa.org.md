@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccfa.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213203027id_/http%3A//www.ccfa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccfa.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612144006id_/http%3A//www.ccfa.org/privacy) for the most accurate reproduction.*
 
 # CCFA.org: Privacy
 
@@ -6,13 +6,13 @@ The Crohn's & Colitis web sites are sponsored by the Crohn's & Colitis Foundatio
 
 ### What information do we collect and how do we use it?
 
-You may browse our web sites without identifying yourself or providing any personally identifiable information about yourself.  When you interact with us through your computer, however, we do record certain non-identifying site usage data, such as the number of visits to web site pages. 
+You may browse our web sites without identifying yourself or providing any personally identifiable information about yourself. When you interact with us through your computer, however, we do record certain non-identifying site usage data, such as the number of visits to web site pages. 
 
 If you elect to donate, register for an event or sign up for email newsletters, you will be asked to provide personal information that may include items such as name, address, city, state, zip, phone number and email address. 
 
-We may use this information to communicate with you by e-mail or post from time to time. _CCFA keeps all names, addresses, and all other personal information supplied by participants of the Crohn's & Colitis Web Site strictly confidential_. Please keep in mind, however, that whenever you voluntarily disclose personal information online, e.g. on message boards, through e-mail, or in chat areas, that information may be collected and used by others. 
+We may use this information to communicate with you by e-mail or post from time to time. _CCFA keeps all names, addresses, and all other personal information supplied by participants of the Crohn's & Colitis web site strictly confidential_. Please keep in mind, however, that whenever you voluntarily disclose personal information online, e.g. on message boards, through e-mail, or in chat areas, that information may be collected and used by others. 
 
-Some parts of our web sites may also use 'cookies,' which are alphanumeric identifiers that are transferred to your computer through your web browser.  You may configure your browser to accept all cookies, reject all cookies or notify you when a cookie is sent.  
+Some parts of our web sites may also use 'cookies,' which are alphanumeric identifiers that are transferred to your computer through your web browser. You may configure your browser to accept all cookies, reject all cookies or notify you when a cookie is sent.  
 
 However if cookies are rejected, some pages on our web sites may not function properly.
 
@@ -22,15 +22,15 @@ For disclosure of demographic information (e.g., rental or exchange of donor lis
 
 ### What security do we provide to protect your personal information?
 
-CCFA uses multiple electronic and administrative safeguards to protect your information from unauthorized access, such as firewall technologies and SSL security (described below).  Access to your account information is protected via system passwords which are changed periodically.  Despite use of these safeguards, we cannot guarantee and do not represent that your information will always be secure from unauthorized access.
+CCFA uses multiple electronic and administrative safeguards to protect your information from unauthorized access, such as firewall technologies and SSL security (described below). Access to your account information is protected via system passwords which are changed periodically. Despite use of these safeguards, we cannot guarantee and do not represent that your information will always be secure from unauthorized access.
 
 ### Do we provide a secure environment for online transactions?
 
-All credit card information collected via online transactions are processed with Secure Socket Layer (SSL) security, an established protocol for transmitting information via the Internet which uses server authentication and data encryption to ensure that your data is safe, secure and available only to authorized staff of  CCFA. 
+All credit card information collected via online transactions are processed with Secure Socket Layer (SSL) security, an established protocol for transmitting information via the Internet which uses server authentication and data encryption to ensure that your data is safe, secure and available only to authorized staff of CCFA. 
 
 ### How can you contact us to review or correct your personal information?
 
-You may view or edit your personal profile by logging in to our web sites at [http://www.ccfa.org](https://web.archive.org/) or [http://www.ccfaprofessionals.org](http://www.ccfaprofessionals.org/).  You can also view a history of your online transactions or subscribe to our enewsletter.  In addition, you may contact us by email at [info@ccfa.org](mailto:info@ccfa.org) or by phone at 800-932-2423 to review your personal information.
+You may view or edit your personal profile by logging in to our web site at [http://www.ccfa.org,](https://web.archive.org/) where you can also view a history of your online transactions or subscribe to our enewsletter. In addition, you may also email us at [info@ccfa.org](mailto:info@ccfa.org) or call us at 800-932-2423 to review your personal information.
 
 ### Disclaimer on information provided on CCFA web sites
 
@@ -38,12 +38,13 @@ All articles and messages that appear in our web sites, including notes from phy
 
 CCFA makes every effort to provide accurate and up-to-date information. However, **CCFA exppressly disclaims all responsibility and liability arising from your use of or reliance on this website or for the information contained herein as a reference source, and for any advice or other guidance or information provided by any health care provider contributing to this site.**  
 
-Except where otherwise noted, all information on CCFA's web sites, including its design and organization, is copyrighted by the Crohn's & Colitis Foundation of America, Inc. This material is for personal use only. Permission to otherwise reprint or electronically reproduce any document in whole or in part is expressly prohibited, unless prior written consent is obtained from CCFA.  
+Except where otherwise noted, all information on CCFA's web sites, including its design and organization, is copyrighted by the Crohn's & Colitis Foundation of America, Inc. This material is for personal use only. Permission to otherwise reprint or electronically reproduce any document in whole or in part is expressly prohibited, unless prior written consent is obtained from CCFA.  
 
-CCFA's web sites also contain information copyrighted and owned by entities and individuals other than CCFA. This information is for personal use only. Permission to otherwise reprint or electronically reproduce any document in whole or in part is expressly prohibited, unless prior written consent is obtained from the owner.  
+CCFA's web sites also contain information copyrighted and owned by entities and individuals other than CCFA. This information is for personal use only. Permission to otherwise reprint or electronically reproduce any document in whole or in part is expressly prohibited, unless prior written consent is obtained from the owner.  
 
 CCFA's web sites also contain third party information. Whenever possible, such information is marked with the name of the source and does not necessarily represent the opinion of CCFA. We do not take any responsibility whatsoever for such third party information. 
 
-CCFA's web sites also contain links to other Internet sites. CCFA does not necessarily endorse the views expressed in the Internet sites to which it provides links, nor is the organization responsible for the information they contain. The content of these linked sites are the sole responsibility of such sites and their contributing authors. CCFA does not intend links to other sites to be referrals or endorsements of the linked entities, but rather provides such links for convenience only. 
+CCFA's web sites also contain links to other Internet sites. CCFA does not necessarily endorse the views expressed in the Internet sites to which it provides links, nor is the organization responsible for the information they contain. The content of these linked sites are the sole responsibility of such sites and their contributing authors. CCFA does not intend links to other sites to be referrals or endorsements of the linked entities, but rather provides such links for convenience only. 
 
- _Updated May 15, 2007_  
+_updated 5/20/08  
+_
