@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yolike.com privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222221205id_/http%3A//www.yolike.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yolike.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612071457id_/http%3A//www.yolike.com/privacy.html) for the most accurate reproduction.*
 
-# yolike.com - Movies Music Radio Stars Photos Forums TV Bollywood Hollywood Songs Mobile & more
+# YoLike.com - Movies Music Radio Stars Photos Forums TV Bollywood Hollywood Songs Mobile & more
+
+##  Privacy Policy Statement
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
