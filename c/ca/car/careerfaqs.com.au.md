@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2007-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071120065022id_/http%3A//www.careerfaqs.com.au/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612095149id_/http%3A//www.careerfaqs.com.au/privacy.shtml) for the most accurate reproduction.*
 
 # Career FAQs - Privacy and policies
 
@@ -58,7 +58,7 @@ Career FAQs takes measures to ensure that the personal information you have prov
 
 ## Shipping Policy
 
-All customer web purchases will be posted within 2 working days of receipt of order or you will be contacted via email with a revised delivery time.
+All customer web purchases will be posted within 2 working days of receipt of order or you will be contacted via email with a revised delivery time. The only possible exception to this will be over the Christmas – New Year period in which Career FAQs’ offices will be closed for the holiday period.
 
 Orders to be delivered within Australia, once packed, should be received within 5-7 days.
 
@@ -72,19 +72,20 @@ If you order multiple items and they are not all in stock, we will advise you of
 
 ### Shipping outside Australia:
 
-Overseas rates for delivery anywhere in the world are available upon emailed request to [info@careerfaqs.com.au](mailto:info@careerfaqs.com.au). Please indicate your preferred delivery method and we will contact you via email with delivery pricing and times.
+All rates based on shipping destination and weight as quoted through the Career FAQs website.
 
 ## Refund Policy
 
-Career FAQs will refund or replace books purchased from our web site provided they are returned within 14 days, are in good order, and are accompanied by our official receipt/tax invoice.
+Career FAQs does not accept refunds or replace books purchased from our web site unless the books are faulty or damaged prior to delivery  and only if the damaged book(s) is accompanied by our official receipt/tax invoice.
 
-When returning goods to Career FAQs, we only cover the cost of freight for goods that are faulty or damaged prior to delivery. Freight costs for all other returns will be at the expense of the purchaser.
+When returning faulty or damaged goods, Career FAQs will cover reasonable freight costs. 
 
-Returns can be sent to:  
+Returns can be sent to:
+
 Career FAQs Pty Ltd  
-c/o TL Distribution Pty Ltd  
-15–23 Helles Avenue  
-Moorebank NSW 2170  
+Suite 76, The Hub   
+89 - 97 Jones Street  
+Ultimo NSW 2007   
 Australia
 
 ## SSL Security and Data Encryption
