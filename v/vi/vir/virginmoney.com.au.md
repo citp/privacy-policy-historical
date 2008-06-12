@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmoney.com.au privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527123516id_/http%3A//virginmoney.com.au/money/privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmoney.com.au privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612165812id_/http%3A//virginmoney.com.au/money/privacy_and_security) for the most accurate reproduction.*
 
 # Privacy and security
 
@@ -10,6 +10,7 @@ What do you do with information about me?
 Do you ever send me advertising materials?   
 What if I don't want you to send me advertising materials?   
 Do you ever use my information for any other reason, or give my information to other companies?   
+Online links to Third Party and Co-Branded sites   
 Do you use cookies on your website?   
 Can I get access to my information or change or delete it?   
 What if I have a complaint about privacy?   
@@ -68,6 +69,11 @@ We may sometimes need to share your information with other companies to deliver 
 We also work with a range of service providers to help us run other aspects of our business efficiently. These include mail houses, IT consultants, and other financial services companies that we partner with to provide our products. While we share your information with them, these partners are not able to disclose it to others or use it for their own purposes.
 
 We might also use your information or share it with other businesses if you give us your consent, if it's required by law or if we believe it's necessary to give you the service you expect.
+
+**Online links to Third Party and Co-Branded sites**   
+Virgin Money may establish relationships with business partners that allow visitors to our website to link directly to sites operated by these partners. Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner.
+
+We are not responsible for the content or practices of websites operated by third parties that are linked to our website. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by us of the content, policies or practices of those third party sites. Once you have left our website via such a link, you should check the applicable privacy of the third party site.
 
 **Do you use cookies on your website?**   
 Our website is designed to make it easy for you to find out about our products, to apply for them and to manage your money. To do this we use cookies, which are pieces of information that a website transfers to your computer's memory or hard disk for record keeping purposes.
