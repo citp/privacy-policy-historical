@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gastateparks.org privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218082912id_/http%3A//www.gastateparks.org/net/content/item.aspx%3Fs%3D6966.0.1.5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gastateparks.org privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612054108id_/http%3A//www.gastateparks.org/net/content/item.aspx%3Fs%3D6966.0.1.5) for the most accurate reproduction.*
 
 # Georgia State Parks & Historic Sites
 
