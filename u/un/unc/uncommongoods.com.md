@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uncommongoods.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214182758id_/http%3A//www.uncommongoods.com/help/help.jsp%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncommongoods.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613092935id_/http%3A//www.uncommongoods.com/help/help.jsp%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
 # UncommonGoods | Help
 
@@ -42,6 +42,8 @@ A cookie is a feature of your Internet Web browser, and most browsers are config
 
 We use cookies to let us know whether you have visited UncommonGoods previously; to provide relevant, personalized content; and to help us continue to improve site navigation, design, and content. 
 
+You can read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative's website by clicking [here](http://www.networkadvertising.org/). 
+
 **Contests/Surveys**  
 We may occasionally hold contests or post surveys on our site. Participation in contests and surveys is entirely optional. We may ask contest or survey participants for personal contact information, such as e-mail address, name, address, or telephone number which we may use to send participants information related to the contest or survey. We will not sell, rent, or share your e-mail address or phone with anyone. We may make your mailing address available to carefully screened companies whose products or services might interest you. If you have participated in contests or surveys in the past, but no longer wish to receive related information, you can opt out of receiving these future communications (see opt out instructions below). 
 
@@ -53,13 +55,13 @@ If you decide you no longer wish to receive communications from us, you can opt 
 At the bottom of every e-mail we send out is a line that reads: If you prefer not to receive e-mails from us, please e-mail us at [remove@uncommongoods.com.](mailto:remove@uncommongoods.com) Clicking on the link displays a mail form that has 'please remove' in the subject line. If you hit the send button, your name will be automatically removed from our e-mail list. 
   * **Calling customer service**
   
-If you prefer to speak to us live, please call us at 888-365-0056. UncommonGoods is open 24 hours a day, 7 days a week until Christmas. If you don't reach us, please leave us a message with your name and telephone number. We will respond to e-mail and voice mail promptly. 
+If you prefer to speak to us live, please call us at 888-365-0056. UncommonGoods is open 8 AM - 2 AM EST, 7 days a week. If you don't reach us, please leave us a message with your name and telephone number. We will respond to e-mail and voice mail promptly. 
   * **Sending a note to:**  
 UncommonGoods  
 Customer Service  
-303 West 10th Street  
-2nd Floor  
-New York, NY 10014  
-888-365-0056 
+140 58th Street  
+Building B Suite 5A  
+Brooklyn, NY 11220  
+888.365.0056
 
 
