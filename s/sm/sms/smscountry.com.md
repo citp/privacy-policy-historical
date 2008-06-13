@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smscountry.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211063656id_/http%3A//www.smscountry.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smscountry.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613051033id_/http%3A//www.smscountry.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy & Anti - Spam policy to send SMS through SMScountry
 
-## Privacy And Anti Spam Policy
+### Privacy And Anti Spam Policy
 
 At SMSCountry, we respect and take steps to protect the privacy of our Users. We strive to make our site a safe environment for all who visit our website and use SMSCountry services. We are committed to providing you the best possible online experience as well as the best products and services. This policy addresses our practices with respect to our website, but does not address the practices of any website we link to (including the merchants and content providers we link to). This policy is incorporated into, and subject to the terms of, our Terms and Conditions.
 
@@ -12,9 +12,9 @@ The User can change/update any of his/her personal information by simply going t
 
 Any information/content that is sent to SMSCountry for sms text messaging and/or storage purposes will remain the property of the User. SMSCountry will at no time collect or redistribute this information without obtaining your consent, except where legally required by law to do so. This has particular reference to any database, numbers and/or recipient details that you may deliver to us, or store on our databases.
 
-We take credit card fraud seriously in order to insure our customers the best possible protection of their credit card information. We log and track all IP addresses and use them to trace any fraudulent transactions. We report any fraud attempts to the related local/international organization. 
+We take credit card fraud seriously in order to insure our customers the best possible protection of their credit card information. We log and track all IP addresses and use them to trace any fraudulent transactions. We report any fraud attempts to the related local/international organization.
 
-We do not retain credit card details in our system or database. All credit card details are processed by our financial institutions (paypal, ccavenues, mashreqbank.com) in a secure environment. 
+We do not retain credit card details in our system or database. All credit card details are processed by our financial institutions (paypal, ccavenues, mashreqbank.com) in a secure environment.
 
 To discourage fraud, we do not list all the ways we check credit cards for authenticity here. In some instances, we go out of our way to make sure that the person placing the order is indeed the person authorized to use the credit card account.
 
@@ -26,14 +26,34 @@ It is vital that SMSCountry receives from you the permission and valid rights to
 
 SMSCountry does not send any unwanted advertising sms text messages. However, we may, in the future, develop and introduce a program whereby we may send advertising sms text messages to cell phones. However, this would strictly be an opt-in service and the messages would be sent to Users who give us their explicit acceptance of this opt-in service. Users will also have the option to unsubscribe from the service at any stage.
 
-**_ANTI SPAM POLICY_**
+##### Anti Spam Policy
 
-Any registered User of SMSCountry can send sms text messages to his/her friends, family, colleagues, clients, contacts etc using the SMSCountry Interface. These interface conditions of use strictly forbid spamming to cell phone Users. We have several software filters to block spam messages. However, we cannot guarantee that spamming will not ever occur. Please let us know (email to [contactus@smscountry.com]()) the details of the message like content of message, time of delivery, sender name or number etc so that we can immediately check and block the user responsible for the same.
+Any registered User of SMSCountry can send sms text messages to his/her friends, family, colleagues, clients, contacts etc using the SMSCountry Interface. These interface conditions of use strictly forbid spamming to cell phone Users. We have several software filters to block spam messages. However, we cannot guarantee that spamming will not ever occur. Please let us know (email to contactus@smscountry.com) the details of the message like content of message, time of delivery, sender name or number etc so that we can immediately check and block the user responsible for the same.
 
-**LIMITS ON OUR ABILITIES**
+##### Limits on our Abilities
 
 Although your privacy is our top priority, due to the existing statutory, legal and technical environment, we are unable to ensure that personally identifiable information of our Users will not be disclosed to third parties in ways that are not described in this policy. Additionally, we may (and here you give us authorization to) disclose any private information about you to private entities, law enforcement or other government officials, which we may believe to be necessary at our sole discretion or appropriate to address or to resolve inquiries or problems. We undertake that this will not be done for commercial purposes or for our personal gain.
 
-If you have any further questions about our privacy and anti-spam policy or about its implementation, please email us at [contactus@smscountry.com]()
+If you have any further questions about our privacy and anti-spam policy or about its implementation, please email us at contactus@smscountry.com
 
 You hereby acknowledge that the acceptance of this privacy policy is a condition to your use of our products and services and that you agree to be bound by all of our Terms and Conditions.
+
+The inbox feature allows you to receive all the reply's by your recipients into your SMSCountry Inbox facilitating a two way communication process.
+
+[ _more >>_](https://web.archive.org/web/20080613051033id_/http%3A//www.smscountry.com/inbox-sms.asp)
+
+With this application you can easily send SMS to multiple recipients from your mail account, to any mobile phone across the globe. 
+
+[_more >>_](https://web.archive.org/web/20080613051033id_/http%3A//www.smscountry.com/Email2SMS.asp)
+
+Mobile2Many feature enables you to send SMS to your Phonebook contacts without the need to visit our website. 
+
+[_more >>_](https://web.archive.org/web/20080613051033id_/http%3A//www.smscountry.com/hand-2-many.asp)
+
+This feature allows you to send SMS Text as email (SMS text email). Just send an SMS to our gateway number 56767666 with the recipient's email address as the first word of the SMS 
+
+[_more >>_](https://web.archive.org/web/20080613051033id_/http%3A//www.smscountry.com/sms2email.asp)
+
+Get free from the job of remembering each and every occasion, It will be our job to remind you through SMS about anything at any date and at any time you want.
+
+[ _more >>_](https://web.archive.org/web/20080613051033id_/http%3A//www.smscountry.com/remainder-sms.asp)
