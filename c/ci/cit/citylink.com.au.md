@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the citylink.com.au privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215000139id_/http%3A//www.citylink.com.au/137.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citylink.com.au privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613180836id_/http%3A//www.citylink.com.au/137.jsp) for the most accurate reproduction.*
 
 # Privacy statement
 
 **Privacy protection**  
-CityLink respects your right to privacy and is committed to privacy protection. This commitment is set out in our Privacy Code. The Privacy Code provides a set of policies that regulate the way that CityLink collects, uses and handles your personal information. The Code also provides background information about these issues. This page provides a brief summary about your privacy as a CityLink customer and the way that CityLink collects, uses and handles your personal information. If you are interested in these issues, you can read more in the Privacy Code.  
+CityLink respects your right to privacy and is committed to privacy protection. This commitment is set out in our Privacy Code. The Privacy Code provides a set of policies that regulate the way that CityLink collects, uses and handles your personal information. The Code also provides background information about these issues. This page provides a brief summary about your privacy as a CityLink customer and the way that CityLink collects, uses and handles your personal information. If you are interested in these issues, you can read more in the [Privacy Code](https://web.archive.org/files/Privacy_Code_Dec_02.pdf).  
 Alternatively, if you want to ask us anything in particular about how we protect your privacy, you can contact us by emailing [assist@citylink.com.au](mailto:assist@citylink.com.au) or by calling 13 26 29. 
 
   
