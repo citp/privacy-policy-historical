@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trustedchoice.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211122709id_/http%3A//www.iiaba.net/eprise/main/CB_Website/Affiliated/NationalAssociation/IIAA/privacy%3FContentPreference%3DNA%26ActiveTab%3DNA%26ActiveState%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedchoice.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613143704id_/http%3A//www.iiaba.net/eprise/main/CB_Website/Affiliated/NationalAssociation/IIAA/privacy%3FContentPreference%3DNA%26ActiveTab%3DNA%26ActiveState%3D0) for the most accurate reproduction.*
 
 # Independent Insurance Agents & Brokers of America
 
-| 
+|  | 
 
 **Independent Insurance Agents & Brokers of America, Inc.** **Privacy Policy Notice  
   
@@ -50,4 +50,5 @@ IIABA reserves the right to and may change this Policy at any time and the chang
 
 * * * * *
 
-| 
+|   
+---|---|---
