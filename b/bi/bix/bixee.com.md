@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bixee.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208220804id_/http%3A//www.bixee.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bixee.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613145525id_/http%3A//www.bixee.com/help/privacy) for the most accurate reproduction.*
 
 # Jobs in India, Mumbai jobs, Delhi jobs, Bangalore jobs, Chennai jobs, Hyderabad jobs, Pune jobs - Bixee.com
 
