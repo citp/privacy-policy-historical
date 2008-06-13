@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firstclassarticles.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214174812id_/http%3A//www.firstclassarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstclassarticles.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613200254id_/http%3A//www.firstclassarticles.com/privacy.php) for the most accurate reproduction.*
 
-# : Article Submission Directory - Free Articles and Free Web Content
+# Article Submission Directory - Free Articles and Free Web Content
 
 We value the privacy of our Authors/Publisher, we will not disclose any personal information to any vendor, partner or outside agency. This includes your e-mail address, name, and location.
 
