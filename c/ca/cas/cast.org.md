@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cast.org privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215035459id_/http%3A//www.cast.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cast.org privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614010329id_/http%3A//www.cast.org/site/privacy.html) for the most accurate reproduction.*
 
 # CAST: Privacy Policy
 
@@ -16,13 +16,9 @@ Our server will not automatically record your name or e-mail address. Your e-mai
 
 Those who register as members of the National UDL Consortium receive at least one email newsletter after they register. To opt out, reply to the email with "unsubscribe" in the subject line.
 
-#### Purchasing Services or Products
+#### Products, Services, Forums, Message Boards, etc.
 
-When purchasing products or services on this site, you may be required to provide data such as your name, mailing address, phone number, email address, and credit card/financial information. This information is needed to verify your identity and to complete financial transactions. We may use your telephone number or email address to contact you if we have trouble processing your order. We will never use your telephone number for sales or marketing purposes. 
-
-#### Online Forums, Message/Bulletin Boards, etc.
-
-Any user who posts information on message boards or other such venues on this site does so for public communication and understands that such information will be publicly available. Users who post information in this manner cannot expect privacy or confidentiality regarding such information. 
+Some online tools available through this site require users to register using a partial name and email address. CAST does not collect information that can be used to identify individuals. CAST uses email addresses for password reminders/retrieval only. Some applications gives users the option to subscribe to CAST newsletters when they register; those newsletters will be sent only to email addresses provided by the users themselves. When registering for professional development services, you may be required to provide data such as your name, mailing address, phone number, email address, and credit card/financial information. This information is needed to verify your identity and to complete financial transactions. We may use your telephone number or email address to contact you if we have trouble processing your order. We will never use your telephone number for sales or marketing purposes. Any user who posts information on message boards or other such venues on this site does so for public communication and understands that such information will be publicly available. Users who post information in this manner cannot expect privacy or confidentiality regarding such information. 
 
 #### External sites
 
