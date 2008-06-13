@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kiewit.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214170114id_/http%3A//www.kiewit.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiewit.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613205718id_/http%3A//www.kiewit.com/info/privacy.html) for the most accurate reproduction.*
 
 # Kiewit - Privacy Policy
 
-Peter Kiewit Sons’, Inc. and its subsidiaries ("Kiewit") own and operate a number of Internet domains, including but not limited to this Website (the "Website"). This statement describes Kiewit’s Website privacy policies.
+Peter Kiewit Sons', Inc. and its subsidiaries ("Kiewit") own and operate a number of Internet domains, including but not limited to this Website (the "Website"). This statement describes Kiewit's Website privacy policies.
 
 #### Privacy Philosophy
 
@@ -30,7 +30,7 @@ The data you provide is collected by Kiewit. Some areas of our Website read data
 
 Below is a description of some of the uses of the information that we collect and how our users benefit from these actions:
 
-We try to pay attention to what our users use and do not use on our Website, and we modify our content appropriately. Many of the pages in our Website collect Anonymous Profile Information. The creation of an anonymous profile allows Kiewit to identify the information that users find most useful. We may use these anonymous profiles to improve our Website’s content and format, and our company’s services. This is essential to our ability to provide high quality content to you.
+We try to pay attention to what our users use and do not use on our Website, and we modify our content appropriately. Many of the pages in our Website collect Anonymous Profile Information. The creation of an anonymous profile allows Kiewit to identify the information that users find most useful. We may use these anonymous profiles to improve our Website's content and format, and our company's services. This is essential to our ability to provide high quality content to you.
 
 #### How will the Personally Identifiable Information be used?
 
@@ -44,7 +44,7 @@ In addition to the uses described in this section, Kiewit will use the Personall
 
 #### What information will we distribute?
 
-Kiewit’s policy is to retain Personally Identifiable Information you submit to us, only for our use and that of our affiliated companies. We do not sell your Personally Identifiable Information to third parties. But although we use industry standard hardware and software designed to protect your privacy, we cannot guaranteeâ€”and you should not expectâ€”that the Personally Identifiable Information you submit to us will always remain confidential
+Kiewit's policy is to retain Personally Identifiable Information you submit to us, only for our use and that of our affiliated companies. We do not sell your Personally Identifiable Information to third parties. But although we use industry standard hardware and software designed to protect your privacy, we cannot guaranteeâ€”and you should not expectâ€”that the Personally Identifiable Information you submit to us will always remain confidential
 
 If a feature of our Website requires that you register with our Website, you will be required to choose a user name and a password You are responsible for protecting the confidentiality of both. Should you allow another to access our Website through your user name and password, Kiewit will assume that you are accessing our Website and you will be responsible for all actions taken in your name. By using our Website, you accept responsibility for all activity undertaken in your name.
 
@@ -54,13 +54,13 @@ This privacy statement applies solely to information collected by the Kiewit Web
 
 #### What choices are available regarding collection, use, and distribution of the information?
 
-We encourage you to share information only with those websites that provide true value to you in exchange for your information and that commit to privacy practices that are acceptable to you. We believe that Kiewit’s websites provide such value, but it is ultimately your choice to share Personally Identifiable Information with Kiewit.
+We encourage you to share information only with those websites that provide true value to you in exchange for your information and that commit to privacy practices that are acceptable to you. We believe that Kiewit's websites provide such value, but it is ultimately your choice to share Personally Identifiable Information with Kiewit.
 
 While Kiewit does not sell any Personally Identifiable Information you submit to our Website to any other parties, Kiewit reserves the right to use such information for any lawful purpose, including but not limited to recruiting, marketing, performance monitoring and statistical analysis.
 
 Kiewit reserves the right to update this policy. When we do, we will place a notice on our Website.
 
-Kiewit also reserves the right to send registration confirmations, Service Alerts and similar messages to our users to inform them of specific changes that may impact their ability to use our Website, regardless of such users’ e-mail contact opt-in status. Kiewit retains these rights because we may need the right to contact you as a matter of law or regarding matters that may be important to you.
+Kiewit also reserves the right to send registration confirmations, Service Alerts and similar messages to our users to inform them of specific changes that may impact their ability to use our Website, regardless of such users' e-mail contact opt-in status. Kiewit retains these rights because we may need the right to contact you as a matter of law or regarding matters that may be important to you.
 
 Questions regarding this Privacy Policy should be submitted via e-mail to [webmaster@kiewit.com](mailto:webmaster@kiewit.com) If we have not responded to your inquiry in a timely manner or your inquiry has not been satisfactorily addressed, please contact us at 402-342-2052, and request to speak with the Director of the Corporate Business Development Department. Our mailing address is: ______________ Kiewit Plaza, Omaha, Nebraska 68131.
 
