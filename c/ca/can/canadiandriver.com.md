@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadiandriver.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214015026id_/http%3A//www.canadiandriver.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadiandriver.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613194401id_/http%3A//www.canadiandriver.com/privacy.htm) for the most accurate reproduction.*
 
 # CanadianDriver: Privacy Policy
 
