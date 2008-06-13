@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpages.co.in privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215124311id_/http%3A//www.yellowpages.co.in/menu_content.php%3Fcontent_id%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.co.in privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613090727id_/http%3A//www.yellowpages.co.in/menu_content.php%3Fcontent_id%3D12) for the most accurate reproduction.*
 
 # INFOMEDIA Yellow Pages
 
