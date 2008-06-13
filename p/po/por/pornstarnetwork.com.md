@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornstarnetwork.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210140722id_/http%3A//members.pornstarnetwork.com/Display/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornstarnetwork.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613033559id_/http%3A//members.pornstarnetwork.com/Display/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
