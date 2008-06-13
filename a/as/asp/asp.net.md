@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asp.net privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221092047id_/http%3A//www.asp.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asp.net privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614000230id_/http%3A//www.asp.net/privacy) for the most accurate reproduction.*
 
 # Privacy Statement : The Official Microsoft ASP.NET Site
 
@@ -34,7 +34,7 @@ Please be aware that this privacy statement and any choices you make on the Site
 
 ### Access to Your Personal Information
 
-Customer information is collected by Telligent, a Microsoft vendor. It is stored at Telligent, plus sent back to Microsoft. You can review and edit the personal information you provided at this Site by editing your profile. You can also send email to [client_aspnetweb_feedback@telligentsystems.com](mailto:client_aspnetweb_feedback@telligentsystems.com) or to the postal address listed at the bottom of the privacy page.
+Customer information is collected by Telligent, a Microsoft vendor. It is stored at Telligent, plus sent back to Microsoft. You can review and edit the personal information you provided at this Site by editing your profile. You can also send email to or to the postal address listed at the bottom of the privacy page.
 
 ### Security of Your Personal Information
 
@@ -54,7 +54,7 @@ We may occasionally update this privacy statement. When we do, we will also revi
 
 ### Contact Information
 
-Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us by e-mail at [client_aspnetweb_feedback@telligentsystems.com](mailto:client_aspnetweb_feedback@telligentsystems.com) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
+Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us by e-mail at or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 Telligent Systems  
 17950 Preston Road  
