@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flock.com privacy policy that was archived on 2007-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071120145817id_/http%3A//flock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flock.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613211447id_/http%3A//www.flock.com/privacy) for the most accurate reproduction.*
 
-# Flock Privacy Policy | Flock
+# Flock Browser - Flock Privacy Policy | Flock
 
 ## Flock Privacy Policy
 
