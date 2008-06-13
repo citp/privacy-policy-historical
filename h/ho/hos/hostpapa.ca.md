@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostpapa.ca privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011082315id_/http%3A//hostpapa.ca/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostpapa.ca privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613075721id_/http%3A//hostpapa.ca/Privacy.shtml) for the most accurate reproduction.*
 
-# Host Papa - Canada's Web Hosting Provider
+# HostPapa - Canada's Web Hosting Provider
 
 Statement of Privacy Policy   
 We at [HostPapa.ca](https://web.archive.org/) ("HostPapa") are committed to providing both clients and end-users with the utmost in privacy and security. We abide by all industry guidelines and consistently monitor our management and operating methods in order to maintain our valued reputation and integrity. This is our promise to our site visitors. 
