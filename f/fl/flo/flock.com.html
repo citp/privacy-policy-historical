@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the flock.com privacy policy that was archived on 2007-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071120145817id_/http%3A//flock.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flock.com privacy policy that was archived on 2008-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080613211447id_/http%3A//www.flock.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Flock Privacy Policy | Flock</title>
+<script language="JavaScript" type="text/javascript" src="/sites/all/themes/flock/js/www2.js"></script>
+<script src="/sites/all/themes/flock/js/download.js?version=05292008" type="text/javascript"> </script>
+<title>Flock Browser - Flock Privacy Policy | Flock</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<script type="text/javascript">
 var xajaxRequestUri="/index.php";
@@ -26,129 +28,23 @@ function xajax_tellafriend_check_trans(){return xajax.call("tellafriend_check_tr
 window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Javascript file could not be included. Perhaps the URL is incorrect?\nURL: /sites/all/modules/xajax/inc/xajax_js/xajax.js'); } }, 6000);
 	</script>
 
-<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon">
 
 
-<link href="/sites/all/themes/flock/css/www2.css" rel="stylesheet" type="text/css">
+<link href="/sites/all/themes/flock/css/www2.css?version=05292008" rel="stylesheet" type="text/css">
 
-<script language="JavaScript" type="text/javascript" src="/sites/all/themes/flock/js/www2.js"></script>
-
-
-
-<script type="text/javascript">
-
-var flock_version = '1.0.1';
-var flock_advertised_version = '1.0';
-//if(document.location.href.match(/stage/)){
-//  flock_version = '1.0';
-//}
-var flock_platform;
-var flock_product_name;
-var flock_download_link;
-var flock_platform_name = 'Windows';
-
-flock_product_name = 'flock-' + flock_version;
-
-var gPlatform = PLATFORM_WINDOWS;
-
-var PLATFORM_OTHER    = 0;
-var PLATFORM_WINDOWS  = 1;
-var PLATFORM_LINUX    = 2;
-var PLATFORM_MACOSX   = 3;
-var PLATFORM_MAC      = 4;
-var PLATFORM_MACOSX_PPC = 5;
-
-if (navigator.platform.indexOf("Win32") != -1)
-  gPlatform = PLATFORM_WINDOWS;
-else if (navigator.platform.indexOf("Linux") != -1)
-  gPlatform = PLATFORM_LINUX;
-else if (navigator.userAgent.indexOf("Mac OS X") != -1)
-  gPlatform = PLATFORM_MACOSX;
-else if (navigator.userAgent.indexOf("MSIE 5.2") != -1)
-  gPlatform = PLATFORM_MACOSX;
-else if (navigator.platform.indexOf("Mac") != -1)
-  gPlatform = PLATFORM_MAC;
-else
-  gPlatform = PLATFORM_OTHER;
+<script language="JavaScript" type="text/javascript" src="/sites/all/themes/flock/js/ui_sub.js"></script>
 
 
-platform = getPlatformName (gPlatform) ;
 
-if (platform == 'Linux i686') {
-    flock_platform = 'linux';
-    flock_platform_name = 'Linux';
-}
-else if (platform == 'Mac OS X') {
-    flock_platform = 'mac';
-    flock_platform_name = 'Mac';
-}
-else {
-    flock_platform = 'win';
-    flock_platform_name = 'Windows';
-}
-
-//Override platform
-if(document.location.search.match(/platform=win/)){
-  flock_platform = 'win';  
-}
-if(document.location.search.match(/platform=mac/)){
-  flock_platform = 'mac';  
-}
-if(document.location.search.match(/platform=linux/)){
-  flock_platform = 'linux';  
-}
-
-//Some photobucket-specific stuff.
-if(document.location.search.match(/utm_source=photobucket/)){
-     if(flock_platform != 'linux'){
-        //flock_product_name += '-photobucket';
-        flock_product_name = 'flock-0.9.1.4-photobucket';
-    }
-}
-//Some piczo-specific stuff.
-if(document.location.search.match(/utm_source=piczo/) || document.location.search.match(/utm_content=piczo/)){
-     if(flock_platform != 'linux'){
-        flock_product_name = 'flock-1.0.1-piczo';
-    }
-}
-
-//Some RC3-specific stuff
-if(document.location.search.match(/utm_source=rc3/)){
-     //if(flock_platform != 'linux'){
-        flock_product_name = 'flock-1.0rc3';
-    //}
-}
-flock_download_link = 'http://downloads.flock.com/index.php?os=' + flock_platform + '&product=' + flock_product_name;
-
-var query_string = document.location.search.substr(1);
-if(query_string != ''){
-    query_string = '&' + query_string;
-}
-
-flock_download_link += query_string;
-
-
-function getPlatformName(aPlatform) {
-  if (aPlatform == PLATFORM_WINDOWS)
-    return "Windows";
-  if (aPlatform == PLATFORM_LINUX)
-    return "Linux i686";
-  if (aPlatform == PLATFORM_MACOSX)
-    return "Mac OS X";
-  if (aPlatform == PLATFORM_MACOSX_PPC)
-    return "Mac OS X PowerPC";
-  return "Unknown";
-}
-
-</script>	
 <style type="text/css">
 	div.moduleCenter p{
 		padding-bottom: 22px;
 	}
 </style>
+<link rel="shortcut icon" href="/misc/favicon.ico">
 </head>
 
-<body onload=" campaignTracker.init();">
+<body onload="">
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
@@ -163,52 +59,39 @@ if(document.location.href.indexOf('stage.flock') == -1){
 
 }
 
-function inst(key, ref){
-                if(ref){
-                click_ref = ref;
-        }
-
-                key = key.replace(/no_nav_click/, click_ref);
-
-        var path = 'V3/' + key; 
-        //alert(path);
-        urchinTracker(path);
-}
-
 </script>
-<script src="/sites/all/themes/flock/js/download.js" type="text/javascript"> </script>
 <script type="text/javascript">
 	var orangebanner_url = 'http://' + base_url + '/get-ready-to-flock?utm_source=flock&utm_medium=www&utm_content=orangebanner&utm_campaign=www2';
 </script>
 <div class="container"><div class="starTrail"><img alt="" src="/images/template/starTrail.gif" width="103" height="180"></div>
 <!-- LOGO AND DOWNLOAD -->
 <div id="header" class="clearfix">
-	<div id="logo" class="logo"><a href="http://www.flock.com/"><img src="/images/template/logo.gif" alt="Flock Home" name="flock" width="351" height="85" border="0" id="flock" longdesc="#"></a></div>
+	<div id="logo" class="logo"><a href="http://www.flock.com/" title="Flock the Social Web Browser"><img src="/images/template/logo.gif" alt="Flock Home" name="flock" width="351" height="85" border="0" id="flock" longdesc="#"></a></div>
 	<div id="downloadWrapper">
-		<div id="download_meta"><a class="download" href="/release-notes/">Release Notes</a> • <a class="download" href="/versions">Other Systems &amp; Languages</a></div>
-			<div class="freeDownload"><img src="/images/template/downLoadBtn_free.gif" alt="free" width="50" height="50"></div>
-		<div id="download_content" style="cursor: hand; cursor: pointer" onclick="return download.init(flock_download_link, _interstitial)">
-			<img src="/images/template/downLoadBtn_txt.gif" alt="download" width="199" height="22"><br>
+		<div id="download_meta"><a class="download" href="/versions" title="Download Flock for other operating systems and languages"><img src="/images/flags.gif" alt="Download Flock for other operating systems and languages"> Other Systems &amp; Languages</a></div>
+			<div class="freeDownload"><img src="/images/template/downLoadBtn_free.gif" alt="Flock is Free!" width="50" height="50"></div>
+		<div id="download_content" style="cursor: hand; cursor: pointer" onclick="return download.init(flock_download_link, _interstitial)" title="Download Flock, The Social Web Browser!">
+			<img src="/images/template/downLoadBtn_txt.gif" width="199" height="22" alt="Download Flock, The Social Web Browser!"><br>
 			<script type="text/javascript">
 			document.writeln('<span>Download ' + flock_advertised_version + ' for ' + flock_platform_name + '</span>');
-			</script><span>Download 1.0 for Linux</span>
-
+			</script>
 			<noscript>
-				<!--<a href="http://downloads.flock.com/index.php?product=flock-1.0.1&os=win">Download 1.0 for Windows</a>-->
-				<a href="http://www.flock.com/get-ready-to-flock">Download 1.0 for Windows</a>
+				<!--<a href="http://downloads.flock.com/index.php?product=flock-1.2.1&os=win">Download 1.2 for Windows</a>-->
+				<a href="http://www.flock.com/get-ready-to-flock">Download 1.2 for Windows</a>
 			</noscript>
 		</div> <!-- end download_content div -->
 	</div> <!-- end downloadWrapper div -->
 	<div class="clear"> </div> 
 </div> <!-- end header div -->
 <!-- NAVIGATION -->
+<div style="clear: both;">
 <script type="text/javascript">
 	document.writeln('<img src="/images/template/spacer.gif" width="23" /><img src="/images/template/nav2/nav_endCapLft.jpg" width="18" height="34" /><a id="nav_home" href="http://' + base_url + '/" onmouseover="toggle_nav(this.id, \'on\')" onmouseout="toggle_nav(this.id, \'off\')"><img id="nav_home_img" src="/images/template/nav_home.gif" alt="home" width="160" height="34" border="0" /></a><a id="nav_community" href="http://' + base_url + '/community" onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu1, \'202px\'); toggle_nav(this.id, \'on\')" onMouseout="toggle_nav(this.id, \'off\'); delayhidemenu()"><img id="nav_community_img" src="/images/template/nav_community.gif" alt="community" width="204" height="34" border="0" /></a><a id="nav_extensions" href="http://extensions.flock.com/addons" onMouseover="toggle_nav(this.id, \'on\');" onMouseout="toggle_nav(this.id, \'off\')"><img id="nav_extensions_img" src="/images/template/nav_extensions.gif" alt="extensions" width="200" height="34" border="0" /></a><a id="nav_support" href="http://' + base_url + '/support" onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu2, \'182px\'); toggle_nav(this.id, \'on\')" onMouseout="toggle_nav(this.id, \'off\'); delayhidemenu()"><img id="nav_support_img" src="/images/template/nav_support.gif" alt="support" width="184" height="34" border="0" /></a><a id="nav_about" href="http://' + base_url + '/about" onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu3, \'198px\'); toggle_nav(this.id, \'on\')" onMouseout="toggle_nav(this.id, \'off\'); delayhidemenu()"><img id="nav_about_img" src="/images/template/nav_about.gif" alt="about us" width="189" height="34" border="0" /></a><img src="/images/template/nav2/nav_endCapRght.jpg" width="17" height="34" /><br />');
 </script>
 <noscript>
 <img src="/images/template/spacer.gif" width="23" /><img src="/images/template/nav2/nav_endCapLft.jpg" width="18" height="34" /><a id="nav_home" href="http://www.flock.com/" onmouseover="toggle_nav(this.id, 'on')" onmouseout="toggle_nav(this.id, 'off')"><img id="nav_home_img" src="/images/template/nav_home.gif" alt="home" width="160" height="34" border="0" /></a><a id="nav_community" href="http://www.flock.com/community" onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu1, '202px'); toggle_nav(this.id, 'on')" onMouseout="toggle_nav(this.id, 'off'); delayhidemenu()"><img id="nav_community_img" src="/images/template/nav_community.gif" alt="community" width="204" height="34" border="0" /></a><a id="nav_extensions" href="http://extensions.flock.com/addons" onMouseover="toggle_nav(this.id, 'on');" onMouseout="toggle_nav(this.id, 'off')"><img id="nav_extensions_img" src="/images/template/nav_extensions.gif" alt="extensions" width="200" height="34" border="0" /></a><a id="nav_support" href="http://www.flock.com/support" onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu2, '182px'); toggle_nav(this.id, 'on')" onMouseout="toggle_nav(this.id, 'off'); delayhidemenu()"><img id="nav_support_img" src="/images/template/nav_support.gif" alt="support" width="184" height="34" border="0" /></a><a id="nav_about" href="http://www.flock.com/about" onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu3, '198px'); toggle_nav(this.id, 'on')" onMouseout="toggle_nav(this.id, 'off'); delayhidemenu()"><img id="nav_about_img" src="/images/template/nav_about.gif" alt="about us" width="189" height="34" border="0" /></a><img src="/images/template/nav2/nav_endCapRght.jpg" width="17" height="34" /><br />
 </noscript>
-
+</div>
 
 <!-- BODY CONTAINER -->
 <table width="1006" border="0" cellpadding="0" cellspacing="0">
@@ -326,11 +209,11 @@ If Live Search results within the Flock search box are enabled, then we will sen
 		<!-- RIGHT MODULES -->
 						<td width="278" valign="top">
 			<div id="block-block-30" class="moduleRight clear-block block block-block">
-	<div><img src="/header/Contact Us" alt="Contact Us" width="278" height="38"></div>
+	<div><img src="/header/Contact" alt="Contact" width="278" height="38"></div>
 	<div class="rt_mod_centerBkgd">
 		<div class="rt_mod_centerContent">
 			<!--<div class="modColumn">-->
-			<a href="/contact">What's a relationship without good communication? Contact us.</a>			<!--</div>-->
+			<a href="/feedback">What's a relationship without good communication? Contact us.</a>			<!--</div>-->
   		</div>
 		<div><img src="/images/modules/rightWell/rghtMod_btm.jpg"></div>
 	</div>
@@ -340,11 +223,11 @@ If Live Search results within the Flock search box are enabled, then we will sen
 	<div class="rt_mod_centerBkgd">
 		<div class="rt_mod_centerContent">
 			<!--<div class="modColumn">-->
-			<a target="_blank" href="http://cultofmac.com/?p=1383">Flock 1.0 Public Beta is the Best Mac OS X Browser</a><br><br>
-<a target="_blank" href="http://techcrunch20.com/2007/presenter.php?presenter=2">Flock CEO Shawn Hardin presents at TechCrunch40</a><br><br>
-<a target="_blank" href="http://www.download.com/Flock/3000-2356_4-10568239.html?tag=toprated#editorsreview">Flock comes together</a><br><br>
-<a target="_blank" href="http://blogs.pcworld.com/techlog/archives/005768.html">I Have a New Favorite Web Browser: Flock</a><br><br>
-<a target="_blank" href="http://jp.blognation.com/2007/10/21/flock-10-is-fantastic-wow/">Flock 1.0 Is Fantastic. Wow!</a><br><br>
+			<a target="_blank" href="http://news.cnet.com/8301-10784_3-9950303-7.html">Flock draws $15 million for social browsing</a><br><br>
+<a target="_blank" href="http://www.businessweek.com/technology/content/may2008/tc20080515_372632.htm">Where Portals and Social Networks Collide</a><br><br>
+<a target="_blank" href="http://www.technologyreview.com/Infotech/20727/">Flocking Together on the Web</a><br><br>
+<a target="_blank" href="http://www.centernetworks.com/alltop-flock-green-browser-partnership">For Alltop, It's All Good Being Green</a><br><br>
+<a target="_blank" href="http://www.download.com/8301-2007_4-9928464-12.html">Featured Freeware: Flock</a><br><br>
 
 <a href="/press">More News</a>			<!--</div>-->
   		</div>
@@ -369,16 +252,21 @@ If Live Search results within the Flock search box are enabled, then we will sen
   <tbody><tr>
 	<td id="home_footer_td" class="bodyBottom">
 				<img src="/images/template/body_btm.gif" width="1006" height="128"><br>
-				<p style="margin-top: 45px;"><a href="/">Home</a><img alt="" src="/images/template/spacer.gif" width="5">|<img alt="" src="/images/template/spacer.gif" width="5"><a href="/community">Community</a><img alt="" src="/images/template/spacer.gif" width="5">|<img alt="" src="/images/template/spacer.gif" width="5"><a href="http://extensions.flock.com/addons">Extensions</a><img alt="" src="/images/template/spacer.gif" width="5">|<img alt="" src="/images/template/spacer.gif" width="5"><a href="/support">Support</a><img alt="" src="/images/template/spacer.gif" width="5">|<img alt="" src="/images/template/spacer.gif" width="5"><a href="/about">About Us</a><br>
+				<p style="margin-top: 45px;"><a href="/" title="Flock the Social Web Browser Homepage">Home</a><img alt="" src="/images/template/spacer.gif" width="5">|<img alt="" src="/images/template/spacer.gif" width="5"><a href="/community" title="Where folks who love Flock and folks who make Flock hang out.">Community</a><img alt="" src="/images/template/spacer.gif" width="5">|<img alt="" src="/images/template/spacer.gif" width="5"><a href="http://extensions.flock.com/addons" title="Extend Flock's Web Browser capabilities">Extensions</a><img alt="" src="/images/template/spacer.gif" width="5">|<img alt="" src="/images/template/spacer.gif" width="5"><a href="/support" title="Flock web browser support pages">Support</a><img alt="" src="/images/template/spacer.gif" width="5">|<img alt="" src="/images/template/spacer.gif" width="5"><a href="/about" title="Information About Flock the Social Web Browser">About Us</a><br>
 		<img alt="" src="/images/template/footer_linebrk.gif" width="357" height="15"><br>
-  		<a href="/get-ready-to-flock" onclick="return download.init(flock_download_link, this.href);">DOWNLOAD FLOCK</a><img alt="" src="/images/template/spacer.gif" width="60" height="5"><a href="http://developer.flock.com">Developer Resources</a></p>
-		Send love and postcards to 100 View Street, Suite 100, Mountain View CA 94041, USA.<br>
+  		<a href="/get-ready-to-flock" title="Download Flock, the Social Web Browser!" onclick="return download.init(flock_download_link, this.href);">DOWNLOAD FLOCK</a><img alt="" src="/images/template/spacer.gif" width="60" height="5"><a href="http://developer.flock.com" title="Take a look at our resources for developers">Developer Resources</a></p>
+		Send love and postcards to 805 Veterans Blvd., Suite 307, Redwood City, CA 94063, USA.<br>
 		Copyright © Flock, Inc. All Rights Reserved except as noted in the Extensions, Community and Blog sections.
 	</td>
   </tr>
 </tbody></table>
 </div>
 
+<script type="text/javascript">campaignTracker.init();</script>
+ <script type="text/javascript" src="http://stats.flock.com/v2/stats.js"></script>
+        <script type="text/javascript">
+                fl_track();
+        </script>
 
 
 </body></html>
