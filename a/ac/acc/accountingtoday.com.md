@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the accountingtoday.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624014617id_/http%3A//www.webcpa.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingtoday.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613223040id_/http%3A//www.webcpa.com/share/privacy_policy.cfm) for the most accurate reproduction.*
 
-# WebCPA | Tools and Resources for the Electronic Accountant - An Investcorp and SourceMedia Publication
+# WebCPA - Privacy Policy
+
+#### PRIVACY POLICY
 
 This Privacy Policy covers WebCPA's treatment of personally identifiable information we collect when you are on the WebCPA (AMG) site and when you use our services. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies AMG does not own or control, or to individuals AMG does not employ or manage, including operators of sites to which you may link from the AMG Web site. 
 
@@ -8,7 +10,7 @@ This Privacy Policy covers WebCPA's treatment of personally identifiable informa
 The only personally identifiable information we collect about you is that which you choose to share with us in registration or when responding to offers from AMG or from our business partners. We also collect information about aggregate site usage. The statistics we gather about unique visits, repeat visits and page views are all based on IP addresses, and are not associated with your personal information. 
 
 **Why do we ask for personal information about you?**  
-Our goal at AMG is to provide you with comprehensive news and data relevant to the accounting and tax profession. Some of this proprietary information is restricted to subscribers only and requires registration and password protection. To support this personalization, we need to be able to identify your account from session to session. This requires that you provide us with some information about yourself. Your user name, password and e-mail address allow us to differentiate you from other users and to maintain your personalized access to our electronic products. They also allow us to contact you about developments and new products on the site. 
+Our goal at AMG is to provide you with comprehensive news and data relevant to securities industry operations, processing and technology worldwide. Some of this proprietary information is restricted to paid subscribers only and requires registration and password protection. To support this personalization, we need to be able to identify your account from session to session. This requires that you provide us with some information about yourself. Your user name, password and e-mail address allow us to differentiate you from other users and to maintain your personalized access to our electronic products. They also allow us to contact you about developments and new products on the site. 
 
 Other information that we ask you to share allows us to improve the site and develop the electronic products to meet your professional needs. Aggregate demographic information about our users is valuable to our advertisers, as it provides them with some important, yet anonymous information about potential customers. Without advertising support, we could not keep the site open for your use. 
 
