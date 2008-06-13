@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carjunky.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211151057id_/http%3A//www.carjunky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carjunky.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613201020id_/http%3A//www.carjunky.com/privacy) for the most accurate reproduction.*
 
 # CarJunky.com - Privacy Statement
 
@@ -12,7 +12,7 @@
 
 **
 
-To make a unique place where carjunky's can come and find any automotive site there looking for. To communicate with other junky's about information on racing, repairing, upgrading, and restoring their vehicles. 
+To make a unique place where any carjunky / carjunkie can come and find any automotive site their looking for. To communicate with other carjunkies about information on racing, repairing, upgrading, restoring their vehicles and any other car related topic. 
 
 ## Privacy Statement
 
