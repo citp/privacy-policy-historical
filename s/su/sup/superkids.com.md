@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superkids.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211083854id_/http%3A//www.superkids.com/aweb/pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superkids.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613071532id_/http%3A//www.superkids.com/aweb/pages/privacy.shtml) for the most accurate reproduction.*
 
 # SuperKids Privacy Policy.
 
