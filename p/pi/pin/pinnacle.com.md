@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinnacle.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216052755id_/http%3A//www.pinnacle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnacle.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613221246id_/http%3A//www.pinnacle.com/privacy) for the most accurate reproduction.*
 
 # PDSi | Privacy Policy
 
