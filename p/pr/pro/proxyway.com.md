@@ -1,11 +1,16 @@
-> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215180804id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613214802id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |  [](http://www.proxyway.com/www/free-proxy-software/proxy-server-software-new.html)  
 ---  
-|  |  **Saturday, December 15, 2007**   
-Latest Release [ProxyWay Extra 4.7](http://www.proxyway.com/www/downloads/download_proxyway_extra.html) \- October 20, 2007  
+|  |  **Friday, June 13, 2008**   
+COMING SOON!  
+[PROXYWAY EVOLUTION - v.5.0!](http://www.proxywayevolution.com/)
+
+Latest Release
+
+[ProxyWay Extra 4.7](http://www.proxyway.com/www/downloads/download_proxyway_extra.html) \- October 20, 2007  
 [ProxyWay Pro 4.7](http://www.proxyway.com/www/downloads/download_proxyway_pro.html) \- October 20, 2007  
 [ProxyWay 4.7](http://www.proxyway.com/www/downloads/download_proxyway.html) \- October 20, 2007 **New Features**
 * NEW! To simlify the process of ProxyWay configuration added 'ProxyWay Auto Configuration' option. Using this option you don't need to download proxy lists, check proxies, create services and configure browser settings manually. Proxy Way will do it for you. The only one thing you should do is start surfing.  
@@ -73,24 +78,26 @@ Latest Release [ProxyWay Extra 4.7](http://www.proxyway.com/www/downloads/downlo
 |  | 
 
 Do you know ...  
-... Your [computer tracks](http://www.proxyway.com/www/free-internet-eraser/track-eraser.html) everything you are doing while using the computer or [surfing the Internet](http://www.proxyway.com/www/free-internet-eraser/internet-eraser-software.html)  
-... Your online and offline activities are not private as [surfing tracks](http://www.proxyway.com/www/free-internet-cleaner/free-internet-history-cleaner.html), downloaded files and some identifying data is stored on your computer.  
-... Some tracks of computer and [Internet activity](http://www.proxyway.com/www/erase-history-eraser.html) can't be removed manually without special tracks eraser software.  
+... Your [computer tracks](http://www.proxyway.com/www/free-internet-eraser/track-eraser.html) everything you are doing while using the [computer](http://www.cleanhistory.org/) or [surfing the Internet](http://www.proxyway.com/www/free-internet-eraser/internet-eraser-software.html)  
+... Your online and offline activities are not private as [surfing tracks](http://www.proxyway.com/www/free-internet-cleaner/free-internet-history-cleaner.html), [cache](http://www.clear-cache-cleaner.com/), downloaded files and some identifying data is stored on your computer.  
+... Some [tracks of computer](http://www.clear-history.org/) and [Internet activity](http://www.proxyway.com/www/erase-history-eraser.html) can't be removed manually without special [tracks eraser](http://www.freeinternethistoryeraser.com/) software.  
 If you don't protect your information, your surfing habits and private information could be tracked and stolen. You may compromise your privacy and even become a victim of identify theft.  
-[Privacy eraser software](http://www.proxyway.com/www/free-internet-eraser/privacy-eraser.html) will keep your private information by [deleting information](http://www.proxyway.com/www/delete-internet-history.html) that is collected on your computer while surf the web: a [history of the web sites you have visited](http://www.proxyway.com/www/free-internet-eraser/free-history-eraser.html), [images and movies you have seen](http://www.proxyway.com/www/free-internet-cleaner/cache-cleaner.html), files you downloaded, documents and files you have just opened, cookies that web sites store on your computer, emails, passwords and user IDs you use to access various accounts over the web, your credit card number and other confidential information.
+[Privacy eraser](http://www.proxyway.com/www/free-internet-eraser/privacy-eraser.html) [software](http://www.historycleaner.netl/) will keep your private information by [deleting information](http://www.proxyway.com/www/delete-internet-history.html) that is collected on your computer while surf the web: a [history](http://www.proxyway.com/www/free-internet-eraser/free-history-eraser.html) of the [web sites you have visited](http://www.erase-history.net/), [images and movies you have seen](http://www.proxyway.com/www/free-internet-cleaner/cache-cleaner.html), files you downloaded, documents and files you have just opened, [cookies](http://www.deletecookiesnow.com/) that [web sites](http://www.deletehistoryfree.com/) store on your computer, emails, passwords and user IDs you use to access various accounts over the web, your credit card number and other [confidential information](http://www.eraseallhistory.com/).
 
-[Read more](http://www.proxyway.com/www/free-internet-eraser/web-eraser.html) |   
+|   
 ---|---|---  
 [](http://www.proxyway.com/www/recommended.html)  
-|  |  [2Privacy.com](http://www.proxyway.com/cgi-bin/out.pl?to=235) \- Information about on-line privacy, security, viruses. FREE tests to check IP address, get detailed IP Whois information, determine IP or Domain geographic location.
+|  |  [2 Privacy.com](http://www.proxyway.com/cgi-bin/out.pl?to=235) \- Information about on-line privacy, security, viruses. FREE tests to check IP address, get detailed IP Whois information, determine IP or Domain geographic location.
 
-[ClearAllHistory](http://www.proxyway.com/cgi-bin/out.pl?to=188) \- deletes Internet surfing and other computer activity tracks from your PC
+[Clear All History](http://www.proxyway.com/cgi-bin/out.pl?to=188) \- deletes Internet surfing and other computer activity tracks from your PC
 
-[EncryptionAndDecryption](http://www.proxyway.com/cgi-bin/out.pl?to=189) \- text and file encryption software for personal and professional security. Safely send emails and store sensitive information on your PC
+[Encryption And Decryption](http://www.proxyway.com/cgi-bin/out.pl?to=189) \- text and file encryption software for personal and professional security. Safely send emails and store sensitive information on your PC
 
 [My Password Generator](http://www.proxyway.com/cgi-bin/out.pl?to=190) \- advanced password generator software
 
-[FreewareDownload.org](http://www.freewaredownload.org/) \- your source of free tools
+[Freeware Download.org](http://www.freewaredownload.org/) \- your source of free tools
+
+[Delete Files Permanently](http://www.proxyway.com/cgi-bin/out.pl?to=191) \- advanced shredder
 
 |   
 ---|---|---  
@@ -187,9 +194,20 @@ or ProxyWay   [On-line Help](http://www.proxyway.com/www/anonymous-web-browsin
 |  |   
 |  |   
 ---  
-|  • Why do I need this anonymous web surfing software?
+|  • How can I turn on/turn off proxy settings in Mozilla 1.7?
 
-Internet is full of potential risk to your privacy and security. Every time you surf the web you leave traces of your Internet activity that can reveal your real-life identity. Any web resource you access can gather and record usage information about you such as your IP address, location, time of day, browser type, browser language, software configuration, operating system you are using, web pages last visited and other information that you might want to keep confidential. Using this information hackers, identity thieves, spammers and other people who want to get access to your personal information can monitor your browsing habits and activities, spy upon you, steal personal information and exploit security holes in your system to cause damage to your computer. It is possible to restrict accessing any information or provide customized content to specific IP.  
-ProxyWay Pro is multifunctional anonymous proxy surfing software which you can use together with a wide variety of web applications (web browsers, Instant Messengers, Internet Relay Chat (IRC), etc.). ProxyWay Pro provides an extended proxy management system: proxy finder, proxy checker, proxy manager. Using ProxyWay Pro you can: hide IP address, change computer information, block potentially harm code, remove traces of computer and Internet activity, block popups and ads.   
+To turn on proxy settings:  
+1\. Select Edit => Preferences.  
+2\. Select the Advanced to open sub-menu.  
+3\. Select the Proxies item.  
+4\. In fields "Address" and "port" type proxy IP and proxy port.  
+5\. Click OK
+
+To turn off proxy settings:  
+1\. Select Edit => Preferences.  
+2\. Select the Advanced to open sub-menu.  
+3\. Select the Proxies item.  
+4\. Select the Direct Connection to the Internet.  
+5\. Click OK   
   
 |  | 
