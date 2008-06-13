@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212073124id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614004105id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Vivid Seats
+
+| 
 
 Vivid Seats, LTD "Vivid Seats" Privacy Policy 
 
@@ -29,7 +31,7 @@ The amount and type of information we collect from you depends on your activitie
 
 
   
-**When you create an[Account](http://www.vividseats.com/account/loginForm.shtml) on our Web site**
+**When you create an[Account](https://web.archive.org/web/20080614004105id_/http%3A//www.vividseats.com/account/loginForm.shtml) on our Web site**
 
   * We collect your user name, password, e-mail address, secret question, and answer to your secret question to protect your Account. We use your secret question and answer to identify you as the account user if you have forgotten your password. You can help us ensure your privacy by not sharing your user name or password. 
 
@@ -75,4 +77,6 @@ We use 128-bit encryption technology and Secure Socket Layers ("SSL") in all are
 In addition, your personal and account information and transaction history are kept behind our firewall on separate servers. All transaction information is processed under encrypted channels, although you may choose unencrypted processing. 
 
 **How can I give you feedback or contact you?**  
-You can reach us by email at info [at] vividseats.com or you can call us toll-free at 866-848-8499. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
+You can reach us by email at info [at] vividseats.com or you can call us toll-free at 866-848-8499. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.  
+  
+---|---
