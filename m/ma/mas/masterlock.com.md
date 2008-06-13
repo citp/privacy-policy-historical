@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027145129id_/http%3A//www.masterlock.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613152851id_/http%3A//www.masterlock.com/privacy.shtml) for the most accurate reproduction.*
 
 # Master Lock: About Us
 
@@ -54,18 +54,18 @@ to learn more about how to enable and disable Cookies.
 **We reserve the right to change or update this policy at any time by posting a notice that we are changing our privacy policy or by sending an e-mail message to previously registered visitors.**
 
 **_What To Do If You Have Questions Or Concerns About Your Information, Or If You Need To Contact Us_**  
-If you need information or have any questions or concerns about this Privacy Policy or our use of your Personal Information, or wish to review all of your Personal Information, you may contact our Director of E-Commerce Solutions & Data via e-mail at masterlock@mlock.com, or via mail at Master Lock Company LLC, World Headquarters, 137 W Forest Hill Avenue, PO Box 927, Oak Creek, WI 53154 or via phone at 800-308-9244.
+If you need information or have any questions or concerns about this Privacy Policy or our use of your Personal Information, or wish to review all of your Personal Information, you may contact our Director of E-Commerce Solutions & Data via e-mail at masterlock@mlock.com, or via mail at Master Lock Company LLC, World Headquarters, 137 W Forest Hill Avenue, PO Box 927, Oak Creek, WI 53154 or via phone at 800-464-2088.
 
 **This policy is effective as of March 1, 2007**
 
-[Terms of Use](https://web.archive.org/web/20071027145129id_/http%3A//www.masterlock.com/legal.shtml)
+[Terms of Use](https://web.archive.org/web/20080613152851id_/http%3A//www.masterlock.com/legal.shtml)
 
 Master Lock Company LLC  
 World Headquarters  
 137 W Forest Hill Avenue  
 PO Box 927  
 Oak Creek, WI 53154  
-800-308-9244
+800-464-2088
 
 ©2007 Master Lock Company LLC. All rights reserved.   
   
