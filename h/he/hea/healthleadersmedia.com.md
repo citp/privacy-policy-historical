@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the healthleadersmedia.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012000259id_/http%3A//www.healthleadersmedia.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthleadersmedia.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613094427id_/http%3A//www.healthleadersmedia.com/privacy-policy.cfm) for the most accurate reproduction.*
 
-# HealthLeadersMedia - Privacy Policy
-
-**HealthLeadersMedia Privacy Policy**
+# Privacy Policy - www.healthleadersmedia.com
 
   1. **General**
 
@@ -45,7 +43,7 @@ _HealthLeadersMedia_ is not directed to individuals under 13 years of age, and _
 
   7. **Cookies**
 
-"Cookies" are electronic files stored on your hard drive. Cookies cannot read data off your hard drive; they store identification information about you. _HealthLeadersMedia_ , like the operators of many other Web sites, uses the cookies to identify you when you visit _HealthLeadersMedia_. _HealthLeadersMedia_ may also use the cookie to recognize you to help ensure the security of confidential information. _HealthLeadersMedia_ uses the information from cookies to personalize services and determine the amount and type of traffic at _HealthLeadersMedia.com_. Cookies also provide us with information about your "clickstream"—the way that you navigate through _HealthLeadersMedia_ so that we can better design _HealthLeadersMedia.com_ for your use. 
+"Cookies" are electronic files stored on your hard drive. Cookies cannot read data off your hard drive; they store identification information about you. _HealthLeadersMedia_ , like the operators of many other Web sites, uses the cookies to identify you when you visit _HealthLeadersMedia_. _HealthLeadersMedia_ may also use the cookie to recognize you to help ensure the security of confidential information. _HealthLeadersMedia_ uses the information from cookies to personalize services and determine the amount and type of traffic at _HealthLeadersMedia.com_. Cookies also provide us with information about your "clickstream"-the way that you navigate through _HealthLeadersMedia_ so that we can better design _HealthLeadersMedia.com_ for your use. 
 
 Most browsers allow you to disable or delete your cookies. _HealthLeadersMedia_ would prefer to provide you with personalized services through cookies since not all services may be available to those who disable or delete cookies. 
 
@@ -59,7 +57,7 @@ The importance of security of all personally identifiable information associated
 
   10. **Your Privacy Rights (CA Residents)**
 
-Under California’s "Shine the Light" law, CA residents have the right to request the names and addresses of any external companies with which HCPro has shared their customer information over the past year. If you are a CA resident and wish to make a request, please contact [customerservice@healthleadersmedia.com](mailto:customerservice@healthleadersmedia.com). You will receive a response within 30 days, as granted under the law. 
+Under California's "Shine the Light" law, CA residents have the right to request the names and addresses of any external companies with which HCPro has shared their customer information over the past year. If you are a CA resident and wish to make a request, please contact [customerservice@healthleadersmedia.com](mailto:customerservice@healthleadersmedia.com). You will receive a response within 30 days, as granted under the law. 
 
   11. **Your Acceptance of These Terms**
 
@@ -70,6 +68,4 @@ By using _HealthLeadersMedia.com_ , you signify your assent to the _HealthLeader
 If you have questions or concerns regarding this Privacy Policy, you should contact _HealthLeadersMedia's_ Customer Service Department by telephone at 877/727-1728 or e-mail via [customerservice@healthleadersmedia.com](mailto:customerservice@hcpro.com?subject=HealthLeadersMedia%20Privacy%20Policy). 
 
 
-|  | 
 
-[](https://web.archive.org/view_features.cfm)
