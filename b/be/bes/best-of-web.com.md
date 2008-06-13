@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the best-of-web.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214215718id_/http%3A//www.best-of-web.com/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-of-web.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613165007id_/http%3A//www.best-of-web.com/privacy_statement.shtml) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-All visitors to this website retain complete anonymity. We do not collect any personal information, such as your name, address, phone number, or email address unless you choose to subscribe to a mailing list, in which case all personal information is freely contributed by you, the visitor. 
+You are not required to register to use this site and therefore we do not collect any personal information such as your name, address, phone number, or email address. 
 
-We do note details such as the server you are logged onto, the geographic location of the ISP you use, the type of browser you use, and your IP address. This information is obtained solely for the purpose of measuring site traffic so that we can tell which pages are most poular and how visitors are moving about the site. 
+Cookies may be used to track visits over multiple sessions and to provide content more suited to your preferences. 
 
-This web site does not use cookies. 
+We may record details such as your IP address and referring URL. 
+
+We do not share or sell any information we collect. 
