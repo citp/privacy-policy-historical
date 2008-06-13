@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelocal.se privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215073544id_/http%3A//www.thelocal.se/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocal.se privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613124224id_/http%3A//www.thelocal.se/privacy.php) for the most accurate reproduction.*
 
 # The Local - Privacy Policy
 
@@ -24,13 +24,27 @@ You can delete all cookies on your computer via your web browser, as well as swi
 
 **Back to[registration](https://web.archive.org/members/register.php).**
 
+[](https://web.archive.org/summer/)
+
 Poll
 
-Do you agree with the decision to castrate the lion on the crest of the Nordic Battlegroup?
+Does a passionate kiss between a mother and her young son constitute [sexual assault](https://web.archive.org/12380/)?
 
 Highlights
 
-[](https://web.archive.org/9411/)
+[](https://web.archive.org/12370/highlight)
+
+[](https://web.archive.org/goTo.php?ID=237) [](https://web.archive.org/goTo.php?ID=307)
+
+Latest news from The Local in Germany
+
+  * 13/06 [Cheating scandal forces 28,000 Berlin students to retake exam »](http://www.thelocal.de/12471/20080613/)
+  * 13/06 [Berlin aims to fight piracy on the high seas »](http://www.thelocal.de/12467/20080613/)
+  * 13/06 [Munich celebrates 850th anniversary »](http://www.thelocal.de/12463/20080613/)
+  * 13/06 [German football reporter makes bomb threat to delay plane »](http://www.thelocal.de/12461/20080613/)
+  * 13/06 [Merkel hits the road for German education offensive »](http://www.thelocal.de/12459/20080613/)
+
+
 
 Blog
 
@@ -80,3 +94,9 @@ Merry monarchist or a rowdy republican, royalty makes good reading.
 The Local's guide to the fabulous world of Swedish celebrity.
 
 
+
+Subway
+
+[](https://web.archive.org/subway/map.html)
+
+Stockholm's subway as you've never seen it before - in hilariously literal English translation.
