@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qvcuk.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212163626id_/http%3A//www.qvcuk.com/ukqic/qvcapp.aspx/app.html/params.file.%257CPrivacystate%2Chtml/walk.html.%257CCor_uk_PrivStat%2Chtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvcuk.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613210046id_/http%3A//www.qvcuk.com/ukqic/qvcapp.aspx/app.html/params.file.%257CPrivacystate%2Chtml/walk.html.%257CCor_uk_PrivStat%2Chtml%3Fcm_re%3DCS-_-PrivacyStatement-_-PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy statement
 
