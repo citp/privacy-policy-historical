@@ -1,22 +1,25 @@
-> *The following text is extracted and transformed from the anheuser-busch.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012184252id_/http%3A//www.anheuser-busch.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anheuser-busch.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614000410id_/http%3A//www.anheuser-busch.com/Privacy.html) for the most accurate reproduction.*
 
-# Anheuser-Busch Companies
+# Anheuser-Busch - Privacy Policy
 
-> This is how we will handle information we learn about you from your visit to our web site. 
-> 
-> We may ask you for your name, age, street address, city, state, zip code, e-mail address, comments, suggestions or other information. Also, your domain name will be automatically recognized when you visit our site.
-> 
-> Our purpose in gathering this personal information is so that we can send you requested information about our company. Your comments and suggestions also will be used by us to improve our web site. If you do not want to be contacted for these purposes or if you would like to obtain a copy of the personal information gathered by this web site or to correct or delete such information from our web site's database, you can always send us an e-mail to the following address: [  
->  dialbud@anheuser-busch.com](mailto:dialbud@anheuser-busch.com) or you can write to us at:
->
->> Anheuser-Busch Companies, Inc.,   
->  One Busch Place  
->  St. Louis, MO 63118. 
-> 
-> By using this site, you signify your assent to our Privacy Policy. If you do not agree to our Privacy Policy, please do not use this site. We reserve the right, at our complete discretion, to change, modify, add, or remove portions of this policy at any time. Please check back periodically for any changes we may make to the policy. Your continued use of the Anheuser-Busch corporate web site following the posting of changes to these terms will mean you accept those changes. 
-> 
-> We want to be very clear: We do not obtain personal information about you other than that which you choose to provide, and we will not sell, rent, trade or otherwise disclose the personal information you provide to anyone outside of the Anheuser-Busch family of companies and their advertising and promotional agencies and consultants. 
-> 
-> Thank-you for visiting our site.
->
->>  
+THIS PRIVACY POLICY IS DESIGNED TO INFORM YOU ABOUT THE INFORMATION WE AT ANHEUSER-BUSCH COMPANIES COLLECT AT THIS WEBSITE, WHY WE COLLECT SUCH INFORMATION, AND HOW WE WILL HANDLE INFORMATION WE LEARN ABOUT YOU FROM YOUR VISIT TO OUR WEBSITE. YOUR USE OF THIS SITE SIGNIFIES YOUR ASSENT TO OUR PRIVACY POLICY. IF YOU DO NOT AGREE TO OUR PRIVACY POLICY, PLEASE DO NOT USE THIS SITE. 
+
+WE RESERVE THE RIGHT, AT OUR COMPLETE DISCRETION, TO CHANGE, MODIFY, ADD, OR REMOVE PORTIONS OF THIS POLICY AT ANY TIME; HOWEVER, WE WILL NOT RETROACTIVELY CHANGE HOW WE SHARE YOUR PERSONAL INFORMATION WITHOUT YOUR CONSENT. PLEASE CHECK BACK PERIODICALLY FOR ANY CHANGES WE MAY MAKE TO THE POLICY, AS YOUR CONTINUED USE OF THIS SITE FOLLOWING THE POSTING OF CHANGES TO THESE TERMS WILL MEAN YOU ACCEPT THESE CHANGES. WE URGE YOU TO READ THE COMPLETE PRIVACY POLICY BELOW, AS WELL AS OUR TERMS AND CONDITIONS. PLEASE NOTE THAT DIFFERENT WEBSITES OPERATED BY MEMBERS OF THE ANHEUSER-BUSCH FAMILY OF COMPANIES MAY BE SUBJECT TO DIFFERENT PRIVACY POLICIES. PLEASE CHECK THE PRIVACY POLICY OF EACH SITE. 
+
+**Information We Collect**
+
+We may ask you for your name, age, street address, city, state, zip code, e-mail address, comments, suggestions or other information relating to our site, our products or services, or the Company. Other specific types of information may be requested in a given situation. Also, your domain name will be automatically recognized when you visit our site. Our purpose in gathering this personal information is so that we can send you requested information about our Company or to otherwise fulfill your specific requests or needs. Your comments and suggestions also will be used by us to improve our web site. If you no longer wish to receive contacts from this site, if you would like to obtain a copy of the personal information gathered by this web site, or if you would like to correct or delete such information from our website's database, you can always send us an e-mail with your concern or question by visiting our CONTACT US section of this website. 
+
+**Other Information We Collect**
+
+Cookies may be used on this site. A "cookie" is a small file that we save on your computer’s hard drive that contains non-personal information. Our cookies help to give you faster access to pages you have already visited, allow you to personalize your pages, and help you to participate in activities or events on the site. They also assist us in customizing our offerings to you. If you leave the site and then return, cookies will tell us what things you have already collected so that you do not have to start all over again. Cookies store multi-page data entry until data is submitted to a database (i.e., in connection with an extensive poll or survey), and prevent further participation in a poll or survey by a particular browser. Cookies do not contain any personal information about a specific user, and we do not use cookies or other non-consensual methods to take personally identifiable or online contact information about you off of your computer. We do not use cookies for direct marketing or promotional purposes, and cookies are not used at this site to collect information specifically about you for sharing with third parties. We also use other technology, called clear GIFs, to provide us with other important anonymous information, such as when an e-mail has been opened. 
+
+**Sharing of Personal Information**
+
+We want to be very clear: We do not obtain personal information about you at this site other than that which you choose to provide, and we will not sell, rent, trade or otherwise disclose the personal information you provide us to anyone outside of the Anheuser-Busch family of companies or their advertising and promotional agencies and consultants for their commercial marketing purposes, except in those specific instances where you expressly give us permission to do so. Notwithstanding the foregoing, we reserve the right to collect, use, and disclose any information, including but not limited to, personally identifiable information, we may deem necessary, in our sole discretion, to comply with any law, regulation, legal request, or government request. Without assuming any obligation to do so, we also reserve the right to collect and share any information we deem necessary to investigate or take action in connection with suspected fraud, illegal activities, possible harm to persons or property, or as otherwise required or permitted by law. 
+
+**Special Notice to California Residents**
+
+Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an e-mail to budcentral@anheuser-busch.com, including the phrase “California Privacy Request” in the subject line, and provide us with your name, address, and e-mail address. We will respond to you within thirty days of receiving such a request. Thank you for visiting our site.
+
+_Effective Date: This policy was last updated on November 30, 2007._
