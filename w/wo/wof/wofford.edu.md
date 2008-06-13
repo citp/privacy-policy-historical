@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the wofford.edu privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212183843id_/http%3A//www.wofford.edu/info/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wofford.edu privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613164939id_/http%3A//www.wofford.edu/info/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Wofford College - Privacy Policy
+
+* * *
+
+Printer-Friendly Version | Font Size: M \- L \- XL | Email To A Friend | Report a Problem With This Page 
 
 Privacy Policy
 
