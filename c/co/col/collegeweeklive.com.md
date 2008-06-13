@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegeweeklive.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214225914id_/http%3A//www.collegeweeklive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeweeklive.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613131136id_/http%3A//www.collegeweeklive.com/privacy.html) for the most accurate reproduction.*
 
-# College Planning Resource
+# CollegeWeekLive - The Virtual College Fair - Privacy Policy
 
 CollegeWeekLive takes your privacy very seriously. In plain English, here is what we affirm:
 
@@ -33,9 +33,9 @@ You may receive reminders and marketing messages prior to the event. You may opt
 
 **_During the Event_**
 
-We will not display your personal information at any time prior to the CollegWeekLive event.  During the CollegeWeekLive event, you will have control over what personal information is displayed to other users based on your personal preferences. 
+We will not display your personal information at any time prior to the CollegeWeekLive event.  During the CollegeWeekLive event, you will have control over what personal information is displayed to other users based on your personal preferences. 
 
-During CollegeWeekLive, colleges whose booths you visit will receive your registration information so that they may contact you at a future time.  If you tell us to stop doing this, we will stop. Your registration information will not be passed onto speakers whose sessions you attend.
+During CollegeWeekLive, colleges whose booths you visit will receive your registration information so that they may contact you at a future time.  Additionally, third party advertisers may sponsor booths and/or keynote presentations. Registration information may be passed onto these third party advertisers when a user visits these sponsored areas so that they may contact you in the future. If you tell us to stop doing this, we will stop. Your registration information will not be passed onto speakers whose sessions you attend.
 
 We will use the information you provide to personalize your experience. We will contact you from time to time via email and we will use your email address for security reasons to confirm that you are who you say you are. You can control the types and frequencies of certain emails you receive.
 
@@ -49,7 +49,7 @@ We may contact you via email after the event to receive feedback about your expe
 
 **_Outside of the Event (Third Party Advertisers)_**
 
-You may "opt out" of receiving promotional materials at any time after the event by logging into your account and changing the setting under your personal preferences. We may use your personal information to send you promotional materials, and share your information with advertisers and other third parties so that these third parties can send you targeted promotional materials. These promotional materials include communications that directly promote the use of Web sites or the purchase of products or services. These third parties may set cookies. You may "opt out" of receiving thee promotional materials at any time. 
+You may "opt out" of receiving promotional materials at any time after the event by logging into your account and changing the setting under your personal preferences. We may use your personal information to send you promotional materials, and share your information with advertisers and other third parties so that these third parties can send you targeted promotional materials. These promotional materials include communications that directly promote the use of Web sites or the purchase of products or services. These third parties may set cookies. You may "opt out" of receiving these promotional materials at any time. 
 
 When sharing your information with third parties we attempt to select only reputable companies that offer high quality products and services.
 
@@ -87,7 +87,7 @@ From time to time we may update this Privacy Policy and will post a notice of an
 
 **Contact**
 
-If you have any questions about this privacy statement, the practices of this website or your dealings with this website, you can contact us via the [Contact Us](https://web.archive.org/web/20071214225914id_/http%3A//www.collegeweeklive.com/contact.html) page, or by writing to:
+If you have any questions about this privacy statement, the practices of this website or your dealings with this website, you can contact us via the [Contact Us](https://web.archive.org/web/20080613131136id_/http%3A//www.collegeweeklive.com/contact.html) page, or by writing to:
 
   
 | 
