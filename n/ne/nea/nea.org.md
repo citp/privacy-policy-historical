@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nea.org privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627164641id_/http%3A//www.nea.org/aboutnea/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nea.org privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613092456id_/http%3A//nea.org/aboutnea/privacy.html) for the most accurate reproduction.*
 
-# NEA: Privacy Policy and Information Security Program
+# NEA: Privacy Policy
 
 ## NEA Privacy Policy
 
@@ -12,23 +12,24 @@ The National Education Association ("NEA") values the trust and privacy of its m
 
 As used in this Privacy Policy, the following terms have the meanings indicated below:
 
-  1. The term "we" or "us" means NEA.  
+The term "we" or "us" means NEA.  
  
-  2. The term "you" means a current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA product or service (e.g. a person who has purchased a book from the NEA Professional Library or a person who subscribes to an NEA-produced electronic newsletter).  
+
+  1. The term "you" means a current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA product or service (e.g. a person who has purchased a book from the NEA Professional Library or a person who subscribes to an NEA-produced electronic newsletter).  
  
-  3. The term "personal information" means any piece of information that on its own can specifically identify a current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA product or service. This would include, but is not limited to, full name, postal address, e-mail address, social security number, or financial information.  
+  2. The term "personal information" means any piece of information that on its own can specifically identify a current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA product or service. This would include, but is not limited to, full name, postal address, e-mail address, social security number, or financial information.  
  
-  4. The term "NEA website" means NEA's external website located at: nea.org and any future websites that we may develop.  
+  3. The term "NEA website" means NEA's external website located at: nea.org and any future websites that we may develop.  
  
-  5. The term "NEA Intranet" means NEA's internal, private, and secured website for local leaders and staff.  
+  4. The term "NEA Intranet" means NEA's internal, private, and secured website for local leaders and staff.  
  
-  6. The term "NEA-related organizations" means NEA's Member Benefits Corporation, NEA Member Insurance Trust, NEA Foundation, NEA Health Information Network, and any other entity created by NEA.  
+  5. The term "NEA-related organizations" means NEA's Member Benefits Corporation, NEA Member Insurance Trust, NEA Foundation, NEA Health Information Network, and any other entity created by NEA.  
  
-  7. The term "third party" means a legal entity that is separate and independent from NEA, its state and local affiliates, or any NEA-related organization.  
+  6. The term "third party" means a legal entity that is separate and independent from NEA, its state and local affiliates, or any NEA-related organization.  
  
-  8. The term "cookie" means a small file that is placed on your computer that allows a website to store, and sometimes track, information about how you use that website.  
+  7. The term "cookie" means a small file that is placed on your computer that allows a website to store, and sometimes track, information about how you use that website.  
  
-  9. The term "discussion forum" means an asynchronous website component that enables users to exchange ideas by posting questions and answers on relevant subjects. Discussion forums are also commonly referred to as "discussion groups," "discussion boards," "message boards," "bulletin boards," and "online forums."
+  8. The term "discussion forum" means an asynchronous website component that enables users to exchange ideas by posting questions and answers on relevant subjects. Discussion forums are also commonly referred to as "discussion groups," "discussion boards," "message boards," "bulletin boards," and "online forums."
 
 
 
@@ -113,136 +114,3 @@ This Privacy Policy is effective April 3, 2007. We retain the right to amend or 
 #### XI. Contact Us
 
 If you have any questions regarding this Privacy Policy, you can contact NEA at [www-registration@list.nea.org](mailto:www-registration@list.nea.org).
-
-### NEA Information Security Program
-
-#### I. Introduction
-
-The National Education Association ("NEA") values the trust and privacy of its members and other supporters and, as a result, strives to ensure that appropriate safeguards are implemented to protect the security and confidentiality of any personal information collected. This Information Security Program ("IS Program") sets forth NEA's administrative, technical, and physical safeguards designed to: (1) insure the security and confidentiality of any personal information collected; (2) protect against any anticipated threats or hazards to the security or integrity of such information; and (3) protect against unauthorized access to or use of such information.
-
-#### II. Definitions
-
-As used in this IS Program, the following terms have the meanings indicated below:
-
-  1. The term "personal information" or "PI" means any piece of information that on its own can specifically identify a current or former NEA member or other person who has provided personal information to NEA in connection with obtaining an NEA product or service. This would include, but is not limited to, a member's full name, postal address, e-mail address, social security number, or financial information.  
- 
-  2. The term "Information Security Program Coordinator" or "ISP Coordinator" means the person who is responsible for effectively implementing the IS Program.  
- 
-  3. The term "Information Security Program Committee" or "ISP Committee" means the committee that is responsible for assisting the ISP Coordinator in his or her responsibilities. The ISP Committee consists of NEA Staff from the following NEA Departments: NEA Enterprise Technology Services, NEA Financial and Membership Services, NEA Office of the Chief Financial Officer, and NEA Office of General Counsel.  
- 
-  4. The term "Department Directors" means the directors of NEA Departments, and the individuals who perform counterpart functions in NEA administrative units that are not classified as NEA Departments.  
- 
-  5. The term "NEA website" means NEA's external website located at: nea.org and any future websites that we may develop.  
- 
-  6. The term "NEA Intranet" means NEA's internal, private, and secured website for local leaders and staff.  
- 
-  7. The term "Membership system" means the NEA Individuals and Affiliates database that contains the PI of former and current NEA members.  
- 
-  8. The term "third party" means a legal entity that is separate and independent from NEA, its state and local affiliates, or any NEA-related organization.  
- 
-  9. The term "NEA-related organizations" means NEA's Member Benefits Corporation, NEA Member Insurance Trust, NEA Foundation, NEA Health Information Network, and any other entity created by NEA.  
- 
-  10. The term "strong passwords" means a sufficiently complex combination of miscellaneous characters that authenticates the identity of a user.
-
-
-
-#### III. Program Elements
-
-  1. Designation and Responsibilities of the Information Security Program Coordinator and Information Security Program Committee  
- 
-    1. The Information Security Program Coordinator ("ISP Coordinator") is responsible for assuring that this IS Program is effectively implemented. The ISP Coordinator is Thang Nguyen, who may be contacted at one of the following addresses: NEA Office of the Chief Financial Officer, 1201 16th Street, NW, Washington, DC 20036 or tnguyen@nea.org. Any questions regarding the implementation of this IS Program should be directed to the ISP Coordinator.  
- 
-    2. The Information Security Program Committee ("ISP Committee") is responsible for assisting the ISP Coordinator in his or her responsibilities. The ISP Committee shall consist of NEA staff from the following Departments:  
- 
-      1. NEA Enterprise Technology Services  
- 
-      2. NEA Financial and Membership Services  
- 
-      3. NEA Office of the Chief Financial Officer  
- 
-      4. NEA Office of the General Counsel  
- 
-    3. The ISP Coordinator shall convene meetings of the ISP Committee as appropriate and necessary.  
- 
-    4. The ISP Coordinator, in consultation with the ISP Committee, shall be responsible for the following:  
- 
-      1. Coordinating with the Department Directors to identify and assess risks to PI in each relevant area of NEA's operation — including employee training and management, information systems, and detecting and managing system failures;  
- 
-      2. Coordinating with the Department Directors on the effectiveness of the safeguards set forth in this IS Program and the design, implementation, and monitoring of any additional safeguards that are necessary to control any future identified risks to PI; and,  
- 
-      3. Conducting periodic evaluations of and adjustments to this IS Program.  
- 
-  2. Risk Identification and Assessment  
-NEA shall, on a periodic basis, identify and assess external and internal risks to the security, confidentiality, and integrity of the PI that it collects and uses. The ISP Coordinator, in consultation with the ISP Committee, shall coordinate with the Department Directors to identify and assess such risks in each relevant area of NEA's operation, including employee training and management, information systems, and detecting and managing system.  
- 
-  3. Design, Implementation, and Monitoring of Safeguards  
- 
-    1. To avoid reasonably foreseeable external and internal risks to the security, confidentiality, and integrity of PI, NEA has in place the following safeguards:  
- 
-      1. Employee Training and Management  
- 
-        1. NEA uses appropriate screening before hiring NEA staff who will have access to PI.  
- 
-        2. NEA limits access to PI to NEA staff who have a legitimate business reason to see it.  
- 
-        3. NEA prohibits NEA staff from sharing user ID and passwords.  
- 
-        4. NEA takes appropriate steps to prevent former NEA staff from accessing PI by deactivating their passwords and user names.  
- 
-      2. Information Systems  
- 
-        1. NEA employs a combination of electronic badges and intelligent keys to secure access to NEA offices.  
- 
-        2. NEA restricts access to databases containing PI to authorized users at NEA and its state and local affiliates, and those users have access only to the PI relevant to their assignments.  
- 
-        3. NEA shall take appropriate steps to ensure that electronic files containing PI are securely sent to and from NEA.  
- 
-        4. NEA provides users of the NEA website or NEA Intranet with a secure connection to transmit all PI, including social security numbers.  
- 
-        5. NEA provides users of the Membership system at NEA and its state and local affiliates a secure connection for Internet access to that system.  
- 
-        6. NEA shall not require users of the NEA website or NEA Intranet to log on using a social security number.  
- 
-        7. NEA shall not print member social security numbers on any identification cards or badges; nor shall member social security numbers appear on any documents mailed to members.  
- 
-        8. NEA shall take appropriate steps to destroy documents containing PI in a secure way, such as shredding, erasing, or otherwise modifying the PI in those documents to make it unreadable or undecipherable, in accordance with the NEA Document Retention Policy.  
- 
-      3. Detecting and Managing Systems  
-NEA shall take appropriate steps to secure its networks, including use of firewalls, virus protection, virtual private networks, intrusion detection systems, and ID and password verifications.  
- 
-    2. In addition to the above outlined safeguards, NEA plans to implement the following safeguards by the end of fiscal year 2006-07:  
- 
-      1. Employee Training and Management  
- 
-        1. NEA shall increase NEA staff awareness regarding security and privacy of PI by disseminating the NEA Privacy Policy and NEA Information Security Program and other appropriate materials on this issue.  
- 
-        2. NEA shall implement a policy for NEA staff on confidentiality and security standards for handling PI.  
- 
-        3. NEA shall use password-activated screen-savers to lock NEA staff computers after a period of inactivity.  
- 
-      2. Information Systems  
- 
-        1. NEA shall encrypt member social security numbers in all databases.  
- 
-        2. NEA shall research the feasibility of encrypting all PI in portable and mobile devices.  
- 
-        3. NEA shall implement a strong password policy.  
- 
-        4. NEA shall give users of the Membership system at NEA and its state and local affiliates the option of suppressing the display of social security numbers on user computer screens and in reports.  
- 
-      3. Detecting and Managing Systems  
-NEA shall develop a security breach response protocol, including a sample notification letter, in the event of a potential security breach. In the interim, NEA Staff shall notify their Department Directors or the ISP Coordinator if a security breach occurs.  
- 
-    3. The ISP Coordinator, in consultation with the ISP Committee, shall coordinate with the Department Directors on the effectiveness of the safeguards set forth in this IS Program and the design, implementation, and monitoring of any additional safeguards that are necessary to control any future identified risks to PI.  
- 
-  4. Oversight of Third Parties  
-NEA requires that the NEA Executive Director approve all requests to share PI with a third party. To the extent that the NEA Executive Director approves such a request, NEA requires that all third parties receiving PI must sign a confidentiality agreement and must be capable of maintaining appropriate safeguards for all PI received from NEA.   
- 
-  5. Periodic Evaluation and Adjustment of Program  
-The ISP Coordinator, in consultation with the ISP Committee, is responsible for periodically evaluating and adjusting the IS Program based on the risk identification and assessment activities undertaken pursuant to Section III(B) of this IS Program.
-
-
-
-#### IV. Effective Date and Amendments to the Program
-
-This IS Program is effective April 3, 2007. NEA retains the right to amend or otherwise update this IS Program at any time for any reason.
