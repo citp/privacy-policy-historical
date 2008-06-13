@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vikings.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214124707id_/http%3A//www.vikings.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikings.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613124502id_/http%3A//www.vikings.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Vikings : PrivacyPolicy
 
@@ -13,11 +13,9 @@ The Website is operated by the Minnesota Vikings.
 
 The Minnesota Vikings is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.vikings.com](http://www.vikings.com/) and [www.minnesotavikings.com](http://www.minnesotavikings.com/) . Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact 
+If you have questions or concerns regarding this statement, you should first contact Ryan Cardinal
 
-Ben Maurer
-
-at 952-828-6500. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+at 952-918-8502. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.   
 Please read the information below to learn more about our data collection policies and practices.
