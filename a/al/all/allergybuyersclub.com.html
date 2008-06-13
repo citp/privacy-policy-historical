@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allergybuyersclub.com privacy policy that was archived on 2007-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071214203328id_/http%3A//www.allergybuyersclub.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allergybuyersclub.com privacy policy that was archived on 2008-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080613120125id_/http%3A//www.allergybuyersclub.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!-- InstanceBegin template="/Templates/MainContent.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="meta-tags" --> 
@@ -86,129 +86,9 @@ hbx.pec="";//ERROR CODES
 </script><script language="javascript1.1" src="http://www.allergybuyersclub.com/wss/hbx.js"></script>
 <!--END WEBSIDESTORY CODE-->
 
-		<!-- Load Proficient Routines BEGIN -->
-		<script language="JavaScript" type="text/javascript" src="http://www.allergybuyersclub.com/includes/proficient_helpers.js"></script>
-		<!-- Load Proficient Routines END -->
-
-		<!-- ABC Config Include BEGIN -->
-		<script type="text/javascript">
-
-	var STORE_OPEN = 8;		// Opening time
-	var STORE_CLOSE = 18;	// Closing time
-	var WEEK_START = 1;		// Monday
-	var WEEK_END = 6;		// Friday
-
-	var GMT_OFFSET = 5;		// 5 hour differential to Waltham, MA
-
-function abc_openForBusiness()
-	{
-	// What date and time at the customer's browser?
-	var custDate = new Date();
-	var custDay = custDate.getDay();
-	var custHour = custDate.getHours();
-	
-	// How far are they from GMT?
-	var custTZOffset = custDate.getTimezoneOffset() / 60; //Hours between cust and GMT time
-	
-	// What time is it in Waltham MA (and what day)??
-	var abcHour = (custHour -  custTZOffset) + GMT_OFFSET; // Waltham is 5 hours behind GMT
-	var abcDay = custDay;
-
-	// What days and hours are phone sales folks available?
-	// Is the store open?
-	if(((abcHour >= STORE_OPEN) && (abcHour <= STORE_CLOSE)) 
-			&& ((abcDay >= WEEK_START) && (abcDay <= WEEK_END)))
-		{
-		return true;
-		}
-	else
-		{
-		return false;
-		}
-	}
-
-
-function replaceLpButtonWithBc() {
-
-	var lpButton = findLPButton();
-
-	if(lpButton)
-		{
-		var parentNode = lpButton.parentNode;
-
-		parentNode.removeChild(lpButton);
-		
-		var newAnchor = document.createElement('a');
-
-		var newImage = document.createElement('img');
-
-
-		 if(abc_openForBusiness())
-			{
-			newImage.src='http://images.allergybuyersclub.com/img/reponline.gif';
-
-			newImage.border=0;
-
-//			newAnchor.href="https://livechat.boldchat.com/aid/3719977315198506948/bc.chat?cwdid=3516876387242559526&amp;wdid=1598794641776111569";
-
-			newAnchor.target="_blank";
-
-			newAnchor.onclick=function(){this.newWindow = window.open('https://livechat.boldchat.com/aid/3719977315198506948/bc.chat?cwdid=3516876387242559526&amp;wdid=1598794641776111569&amp;url=' + escape(document.location.href + appendBCPriority()), 'Chat', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=480,height=320');this.newWindow.focus();this.newWindow.opener=window;return false;};
-			}
-		else
-			{
-			newImage.src='http://images.allergybuyersclub.com/img/OnePixel.jpg';
-			}
-
-		newAnchor.onmouseover=null;
-
-		newAnchor.appendChild(newImage);
-
-		parentNode.appendChild(newAnchor);
-		}
-}
-
-function appendBCPriority()
-{
-	var priorityArg = document.location.href.indexOf("?")==-1 ? "?" : "&";
-
-	priorityArg = priorityArg  + 'bcPriority=';
-
-	priorityArg = priorityArg + this.priority;
-
-	return priorityArg;
-}
-
-function findLPButton()
-{
-	var lpLink = null;
-
-	var links=document.getElementsByTagName('a');
-
-	for (var index = 0; index < links.length; index++)
-		{
-		if (links[index].getAttribute('target') == 'chat54137116')
-			{
-			lpLink = links[index];
-			break;
-			}
-		}
-	return lpLink;
-}
-
-<!-- Boldchat Live Chat Button HTML v1.10 (Type=Web,ChatButton=Allergybuyers,ChatWindow=Allergybuyers,Website=ABC-sales,Department=- None -) -->
-
-</script>
-
-		<!-- ABC Config Include END -->
-
-		<!-- ABC Specific LP Config BEGIN -->
-		<!-- intentionally blank -->
-		<!-- ABC Specific LP Config END -->
-
 <script language="javascript" src="http://www.allergybuyersclub.com/includes/proficient_helpers.js" type="text/javascript"></script>
 
-<script language="javascript" src="http://www.allergybuyersclub.com/includes/proficient_helpers.js" type="text/javascript"></script>
+<script language="javascript" src="http://www.allergybuyersclub.com/includes/utils.js" type="text/javascript"></script>
 <script language="JavaScript">
 <!-- Begin
 function popUpShip(URL) {
@@ -235,324 +115,329 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
 <link href="http://www.allergybuyersclub.com/includes/includes.css" rel="stylesheet" type="text/css">
 <link href="/includes/includes.css" rel="stylesheet" type="text/css">
 <link rel="Shortcut Icon" href="/favicon.ico">
+<style type="text/css">
+<!--
+.style3 {color: #666666}
+-->
+</style>
 </head>
 <body>
 <table width="777" border="0" align="left" cellpadding="0" cellspacing="0">
 <tbody><tr> 
-      <td colspan="2"> 
-      	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr> 
-						<td width="44%" align="left" valign="middle">
-					      <a href="/index.html"><img src="http://images.allergybuyersclub.com/img/logo-abc-top.jpg" width="348" height="45" border="0"></a><br>
-			          <br></td>
-					  <td>
-					  <table border="0" cellpadding="0">
-                          <tbody><tr>
-                            <td width="139">
-<!-- LP Button BEGIN -->
-     <!-- intentionally blank -->
-<!-- LP Button END -->
-                        	</td>
-                            <td><a href="http://www.sleepbuyersclub.com/"><img src="http://images.allergybuyersclub.com/img/shop-sbc.jpg" width="126" height="65" vspace="2" border="0" align="left"></a></td>
-                            <td><a onclick="MyWindow=window.open('http://www.allergybuyersclub.com/popup-hours.html','MyWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=350,height=300'); return false;" href="http://www.allergybuyersclub.com/popup-hours.html"><img src="http://images.allergybuyersclub.com/img/checkout-help-vphone.jpg" width="139" height="65" border="0" align="right"></a></td>
-                          </tr>
-                        </tbody></table></td>
-				    </tr>
-        </tbody></table>
-      </td>
-  </tr>
-  <tr align="left" valign="middle" bgcolor="#73348F"> 
-   	<td height="25" colspan="2">
-	<table width="100%" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-	<td height="30" valign="middle">
-      <img src="http://images.allergybuyersclub.com/img/nav-abc-top-left.gif" width="318" height="19" border="0" usemap="#Map2"> 
-	  <map name="Map2">
-  <area shape="rect" coords="-11,-21,92,22" href="http://www.allergybuyersclubshopping.com/" alt="Shopping">
-  <area shape="rect" coords="100,-6,165,24" href="http://www.allergybuyersclub.com/learning-center.html" alt="Learn">
-  <area shape="rect" coords="174,1,392,24" href="http://www.allergybuyersclubshopping.com/info.html" alt="Customer Service">
-</map>     </td>
-	  <td height="29" align="left"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td colspan="2" align="left" valign="middle"><!-- START headerpage.vm - AllergyBuyersClub.com - All rights reserved. -->
+<script type="text/javascript">
+//Contents for menu drops
+var menuAirPurifiers=new Array();
+menuAirPurifiers[0]='<a href="http://www.allergybuyersclubshopping.com/airpurifiers.html">See all...</a>';
+menuAirPurifiers[1]='<a href="http://www.allergybuyersclubshopping.com/hepa-air-cleaners.html">Air Cleaners</a>';
+menuAirPurifiers[2]='<a href="http://www.allergybuyersclubshopping.com/allergy-multi-purpose-air-purifiers.html">Allergy Air Purifiers</a>';
+menuAirPurifiers[3]='<a href="http://www.allergybuyersclubshopping.com/mold-control-air-purifiers.html">Mold Air Purifiers</a>';
+menuAirPurifiers[4]='<a href="http://www.allergybuyersclubshopping.com/smoke-air-purifiers.html">Smoke Air Purifiers</a>';
+menuAirPurifiers[5]='<a href="http://www.allergybuyersclubshopping.com/portable-air-purifiers.html">Portable Air Purifiers</a>';
+menuAirPurifiers[6]='<a href="http://www.allergybuyersclubshopping.com/central-air-purifiers.html">Whole House Air Purifiers</a>';
+menuAirPurifiers[7]='<a href="http://www.allergybuyersclubshopping.com/air-purifier-replacement-filters.html">Replacement Filters</a>';
+menuAirPurifiers[8]='<a href="http://www.allergybuyersclub.com/compare-air.html">Compare Air Purifiers</a>';
+
+var menuBedding=new Array();
+menuBedding[0]='<a href="http://www.allergybuyersclubshopping.com/beds-bedding.html">See all...</a>';
+menuBedding[1]='<a href="http://www.allergybuyersclubshopping.com/baby.html#babybedding">Baby Bedding</a>';
+menuBedding[2]='<a href="http://www.allergybuyersclubshopping.com/blanandthrow.html">Blankets</a>';
+menuBedding[3]='<a href="http://www.allergybuyersclubshopping.com/comforters.html">Comforters</a>';
+menuBedding[4]='<a href="http://www.allergybuyersclubshopping.com/coverlets-quilts.html">Coverlets</a>';
+menuBedding[5]='<a href="http://www.allergybuyersclubshopping.com/dusen2.html">Dust Mite Covers</a>';
+menuBedding[6]='<a href="http://www.allergybuyersclubshopping.com/duvet-covers-sleep-sacks.html">Duvet Covers</a>';
+menuBedding[7]='<a href="http://www.allergybuyersclubshopping.com/mattress-bedsets.html">Mattresses</a>';
+menuBedding[8]='<a href="http://www.allergybuyersclubshopping.com/mattresspads.html">Mattress Pads</a>';
+menuBedding[9]='<a href="http://www.allergybuyersclubshopping.com/pillows.html">Pillows</a>';
+menuBedding[10]='<a href="http://www.allergybuyersclubshopping.com/pillowcases-covers-shams.html">Pillow Cases</a>';
+menuBedding[11]='<a href="http://www.allergybuyersclubshopping.com/sheetsets.html">Sheet Sets</a>';
+menuBedding[12]='<a href="http://www.allergybuyersclubshopping.com/duvet-covers-sleep-sacks.html">Sleep Sacks</a>';
+menuBedding[13]='<a href="http://www.allergybuyersclubshopping.com/beds-bedding.html#comparebedding">Compare Bedding</a>';
+
+var menuDehumidifiers=new Array();
+menuDehumidifiers[0]='<a href="http://www.allergybuyersclubshopping.com/dehumidifiers-home-industrial.html">See all...</a>';
+menuDehumidifiers[1]='<a href="http://www.allergybuyersclubshopping.com/basement-dehumidifiers.html">Basement Dehumidifiers</a>';
+menuDehumidifiers[2]='<a href="http://www.allergybuyersclubshopping.com/commercial-dehumidifiers.html">Commercial Dehumidifiers</a>';
+menuDehumidifiers[3]='<a href="http://www.allergybuyersclub.com/crawl-space-dehumidifiers.html">Crawl Space Dehumidifiers</a>';
+menuDehumidifiers[4]='<a href="http://www.allergybuyersclub.com/whole-house-dehumidifiers.html">Whole House Dehumidifiers</a>';
+menuDehumidifiers[5]='<a href="http://www.allergybuyersclub.com/compare-dehumidifiers.html">Compare Dehumidifiers</a>';
+
+var menuFurniture=new Array();
+menuFurniture[0]='<a href="http://www.allergybuyersclubshopping.com/bedfur.html">See all...</a>';
+menuFurniture[1]='<a href="http://www.allergybuyersclubshopping.com/bedroomfurniture-bedsets.html">Bedroom Sets</a>';
+menuFurniture[2]='<a href="http://www.allergybuyersclubshopping.com/pacrimbedsnewcategory.html">Beds</a>';
+menuFurniture[3]='<a href="http://www.allergybuyersclubshopping.com/dining-room-furniture.html">Dining Room Sets</a>';
+menuFurniture[4]='<a href="http://www.allergybuyersclubshopping.com/fu-night-stands.html">Night Stands</a>';
+menuFurniture[5]='<a href="http://www.allergybuyersclubshopping.com/fu-dressers.html">Dressers</a>';
+menuFurniture[6]='<a href="http://www.allergybuyersclubshopping.com/fu-childrens-beds.html">Bunk Beds</a>';
+menuFurniture[7]='<a href="http://www.allergybuyersclubshopping.com/fu-desks.html">Desks</a>';
+
+var menuHumidifiers=new Array();
+menuHumidifiers[0]='<a href="http://www.allergybuyersclubshopping.com/warm-cool-mist-humidifiers.html">See all...</a>';
+menuHumidifiers[1]='<a href="http://www.allergybuyersclubshopping.com/cool-mist-humidifiers.html">Air Washer Humidifiers</a>';
+menuHumidifiers[2]='<a href="http://www.allergybuyersclubshopping.com/cool-mist-humidifiers.html">Cool Mist Humidifiers</a>';
+menuHumidifiers[3]='<a href="http://www.allergybuyersclubshopping.com/small-portable-humidifiers.html ">Portable Humidifiers</a>';
+menuHumidifiers[4]='<a href="http://www.allergybuyersclubshopping.com/ultrasonic-humidifiers.html">Ultrasonic Humidifiers</a>';
+menuHumidifiers[5]='<a href="http://www.allergybuyersclubshopping.com/warm-mist-humidifiers.html">Warm Mist Humidifiers</a>';
+menuHumidifiers[6]='<a href="http://www.allergybuyersclub.com/compare-humid.html">Compare Humidifiers</a>';
+
+var menuLighting=new Array();
+menuLighting[0]='<a href="http://www.allergybuyersclubshopping.com/lighting.html">See all...</a>';
+menuLighting[1]='<a href="http://www.allergybuyersclubshopping.com/lighting.html">Natural Lighting</a>';
+menuLighting[2]='<a href="http://www.allergybuyersclubshopping.com/full-spectrum-desk-and-floor-lamps.html">Full Spectrum Lamps</a>';
+menuLighting[3]='<a href="http://www.allergybuyersclubshopping.com/light-therapy-light-boxes.html">Light Therapy Boxes</a>';
+menuLighting[4]='<a href="http://www.allergybuyersclubshopping.com/light-bulbs.html">Light Bulbs</a>';
+menuLighting[5]='<a href="http://www.allergybuyersclub.com/compare-full-spectrum-lighting.html">Compare Lighting</a>';
+
+var menuSteamCleaners=new Array();
+menuSteamCleaners[0]='<a href="http://www.allergybuyersclubshopping.com/vapor-steam-cleaners.html">See all...</a>';
+menuSteamCleaners[1]='<a href="http://www.allergybuyersclubshopping.com/vapor-steam-cleaners.html">Vapor Steam Cleaners</a>';
+menuSteamCleaners[2]='<a href="http://www.allergybuyersclubshopping.com/commercial-steam-cleaners.html">Commercial Steam Cleaners</a>';
+menuSteamCleaners[3]='<a href="http://www.allergybuyersclub.com/compare-vps.html">Compare Steam Cleaners</a>';
+
+var menuVacuumCleaners=new Array();
+menuVacuumCleaners[0]='<a href="http://www.allergybuyersclubshopping.com/vacuumcleaners.html">See all...</a>';
+menuVacuumCleaners[1]='<a href="http://www.allergybuyersclubshopping.com/canister-vacuum-cleaners.html">Canister Vacuums</a>';
+menuVacuumCleaners[2]='<a href="http://www.allergybuyersclubshopping.com/upright-vacuum-cleaners.html">Upright Vacuums</a>';
+menuVacuumCleaners[3]='<a href="http://www.allergybuyersclubshopping.com/vacuumcleaners.html#handheldcordlessvacuumcleaners">Handheld / Cordless</a>';
+menuVacuumCleaners[4]='<a href="http://www.allergybuyersclubshopping.com/vacuum-cleaner-bags-filters.html">Vacuum Bags</a>';
+menuVacuumCleaners[5]='<a href="http://www.allergybuyersclub.com/compare-vac.html">Compare Vacuum Cleaners</a>';
+
+var menuWaterFilters=new Array();
+menuWaterFilters[0]='<a href="http://www.allergybuyersclubshopping.com/waterpurifiers.html">See all...</a>';
+menuWaterFilters[1]='<a href="http://www.allergybuyersclubshopping.com/showerfilters-showerheads.html">Shower Filters</a>';
+menuWaterFilters[2]='<a href="http://www.allergybuyersclubshopping.com/waterpurifiers.html">Water Purifiers</a>';
+menuWaterFilters[3]='<a href="http://www.allergybuyersclub.com/compare-water-filters.html">Compare Water Filters</a>';
+</script>
+
+<table width="810" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <form method="get" action="http://allergy-info.allergybuyersclub.com/search"></form>
-    <td valign="top"><input name="w" onfocus="if(this.defaultValue==this.value) this.value='';" class="searchBox" value="keyword or item search" size="25">
-      <input type="image" value="Search" src="http://images.allergybuyersclub.com/img/go.gif" alt="search" width="10" height="9" border="0">    </td>
- 
+    <!-- td colspan="3"><div align="right"></div></td -->
   </tr>
+  <tr>
+    <td width="50%" rowspan="2"><a href="http://www.allergybuyersclub.com/"><img src="http://images.allergybuyersclub.com/img/logo-abc-1.jpg" alt="allergybuyersclub.com" width="351" height="46" border="0" longdesc="http://www.allergybuyersclub.com/"></a></td>
+    <td width="12%" align="right" valign="bottom" rowspan="2">
+
+<!-- Chat Button Include BEGIN -->
+<!-- Boldchat Live Chat Button HTML v1.10 (Type=Web,ChatButton=Allergybuyers,ChatWindow=Allergybuyers,Website=ABC Sites,Department=Sales) -->
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td align="center"><a href="http://livechat.boldchat.com/aid/3719977315198506948/bc.chat?cwdid=3516876387242559526&amp;wdid=2198943928860323452&amp;rdid=658946770154497120" target="_blank" onclick="this.newWindow = window.open('http://livechat.boldchat.com/aid/3719977315198506948/bc.chat?cwdid=3516876387242559526&amp;wdid=2198943928860323452&amp;rdid=658946770154497120&amp;url=' + escape(document.location.href), 'Chat', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');this.newWindow.focus();this.newWindow.opener=window;return false;"><img alt="Live chat by Boldchat" src="http://cbi.boldchat.com/aid/3719977315198506948/bc.cbi?cbdid=2831469232164276623&amp;wdid=2198943928860323452&amp;rdid=658946770154497120" border="0"></a></td></tr>
 </tbody></table>
-      </td>
-      <td height="30" valign="middle"><img src="http://images.allergybuyersclub.com/img/nav-abc-top-right.gif" width="205" height="19" border="0" usemap="#Map3">
-        <map name="Map3">
-          <area shape="rect" coords="-34,-18,47,20" href="http://www.allergybuyersclub.com/" alt="Home">
-          <area shape="rect" coords="54,-24,135,29" href="http://shop.allergybuyersclub.com/Merchant2/merchant.mvc?Screen=BASK" alt="View Cart">
-          <area shape="rect" coords="139,-1,215,55" href="https://shop.allergybuyersclub.com/Merchant2/merchant.mvc?Screen=OINF&amp;Order=1" alt="Checkout">
-        </map>
-        <map name="Map3Map">
-        <area shape="rect" coords="541,-17,611,8" href="https://shop.allergybuyersclub.com/Merchant2/merchant.mvc?Screen=OINF&amp;Order=1">
-      </map>
-	  </td>
-	</tr>
-	<tr align="left" valign="middle">
-	  <td colspan="3" bgcolor="#FFFFFF">
-	  <!-- START SCANALERT CODE -->
-	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td>
-<!-- START SCANALERT CODE -->
-<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.allergybuyersclubshopping.com"><img src="//images.scanalert.com/meter/www.allergybuyersclubshopping.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." width="115" height="32" vspace="2" border="0" align="absmiddle" oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-<!-- END SCANALERT CODE -->
-				</td>
-                <td align="right" class="bold"><a href="javascript:popUpShip('http://www.allergybuyersclub.com/shippingpopup-sm.html')">FREE
-  SHIPPING over $150</a>*&nbsp;&nbsp;<a href="http://www.allergybuyersclubshopping.com/cgi-bin/catalog-request.pl">Request
-  a Catalog</a>&nbsp;&nbsp;<a href="http://www.allergybuyersclub.com/aboutus.html">Why
-  Buy From Us?</a>&nbsp;&nbsp;<a href="http://www.allergybuyersclub.com/membership.html">Exclusive
-  Offers</a>&nbsp;&nbsp;<a onclick="MyWindow=window.open('http://www.allergybuyersclub.com/popup-hours.html','MyWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=350,height=300'); return false;" href="http://www.allergybuyersclub.com/popup-hours.html">Store
-  Hours</a></td>
-              </tr>
-            </tbody></table>            <!-- END SCANALERT CODE --></td>
-	</tr>
-  </tbody></table>
+<!-- /Boldchat Live Chat Button HTML v1.10 -->
+<!-- Chat Button Include END -->
+
+</td>
+    <td width="16%"><div align="right"><a href="http://shop.allergybuyersclub.com/mm5/merchant.mvc?Screen=BASK"><img src="http://images.allergybuyersclub.com/img/nav-08-view-cart.gif" alt="View Cart" width="79" height="19" border="0"></a><a href="https://shop.allergybuyersclub.com/mm5/merchant.mvc?Screen=OINF&amp;Order=1"><img src="http://images.allergybuyersclub.com/img/nav-08-checkout.gif" alt="Check Out" width="68" height="19" border="0"></a></div></td>
+</tr>
+<tr>
+    <td colspan="2" valign="bottom" align="right">
+    <form style="{ margin: 0; padding: 0; }" method="get" action="http://allergy-info.allergybuyersclub.com/search">
+	<input name="w" onfocus="if(this.defaultValue==this.value) this.value='';" class="searchBox" value="keyword/item search" size="20">
+	<input type="hidden" name="ts" value="v2"><input type="image" value="Search" src="http://images.allergybuyersclub.com/img/nav-08-search-go.gif" width="8" height="17" alt="Search" border="0">    
+  </form>
   </td>
   </tr>
-   
-   <tr> 
-    <td width="160" valign="top" bgcolor="#E4E4E4">     <table width="160" cellspacing="0">
+  <tr>
+    <td colspan="4" align="left" valign="top"><div align="left">
+<img src="http://images.allergybuyersclub.com/img/nav-08-top-bar.gif" alt="" width="794" height="44" border="0" usemap="#HeaderNavMap"></div></td>
+  </tr>
+  <tr>
+    <td colspan="4"><div align="left">
+<img src="http://images.allergybuyersclub.com/img/nav-08-spacer.gif" width="135" height="21" border="0">
+<a style="text-decoration: none;" href="http://www.allergybuyersclubshopping.com/airpurifiers.html" onmouseover="dropdownmenu(this, event, menuAirPurifiers, '150px')" onmouseout="delayhidemenu()">
+<img src="http://images.allergybuyersclub.com/img/nav-08-airpurifiers.gif" width="68" height="21" border="0">
+</a>
+<a style="text-decoration: none;" href="http://www.allergybuyersclubshopping.com/beds-bedding.html" onmouseover="dropdownmenu(this, event, menuBedding, '150px')" onmouseout="delayhidemenu()">
+<img src="http://images.allergybuyersclub.com/img/nav-08-bedding.gif" width="50" height="21" border="0">
+</a>
+<a style="text-decoration: none;" href="http://www.allergybuyersclubshopping.com/dehumidifiers-home-industrial.html" onmouseover="dropdownmenu(this, event, menuDehumidifiers, '200px')" onmouseout="delayhidemenu()">
+<img src="http://images.allergybuyersclub.com/img/nav-08-dehumidifiers.gif" alt="Dehumidifiers" width="80" height="21" border="0">
+</a>
+<a style="text-decoration: none;" href="http://www.allergybuyersclubshopping.com/bedfur.html" onmouseover="dropdownmenu(this, event, menuFurniture, '150px')" onmouseout="delayhidemenu()">
+<img src="http://images.allergybuyersclub.com/img/nav-08-furniture.gif" width="56" height="21" border="0">
+</a>
+<a style="text-decoration: none;" href="http://www.allergybuyersclubshopping.com/warm-cool-mist-humidifiers.html" onmouseover="dropdownmenu(this, event, menuHumidifiers, '150px')" onmouseout="delayhidemenu()">
+<img src="http://images.allergybuyersclub.com/img/nav-08-humidifiers.gif" width="68" height="21" border="0">
+</a>
+<a style="text-decoration: none;" href="http://www.allergybuyersclubshopping.com/lighting.html" onmouseover="dropdownmenu(this, event, menuLighting, '150px')" onmouseout="delayhidemenu()">
+<img src="http://images.allergybuyersclub.com/img/nav-08-lighting.gif" width="53" height="21" border="0">
+</a>
+<a style="text-decoration: none;" href="http://www.allergybuyersclubshopping.com/vapor-steam-cleaners.html" onmouseover="dropdownmenu(this, event, menuSteamCleaners, '200px')" onmouseout="delayhidemenu()">
+<img src="http://images.allergybuyersclub.com/img/nav-08-steam-cleaners.gif" width="87" height="21" border="0">
+</a>
+<a style="text-decoration: none;" href="http://www.allergybuyersclubshopping.com/vacuumcleaners.html" onmouseover="dropdownmenu(this, event, menuVacuumCleaners, '200px')" onmouseout="delayhidemenu()">
+<img src="http://images.allergybuyersclub.com/img/nav-08-vacuum-cleaners.gif" width="95" height="21" border="0">
+</a>
+<a style="text-decoration: none;" href="http://www.allergybuyersclubshopping.com/waterpurifiers.html" onmouseover="dropdownmenu(this, event, menuWaterFilters, '150px')" onmouseout="delayhidemenu()">
+<img src="http://images.allergybuyersclub.com/img/nav-08-water-filters.gif" width="71" height="21" border="0">
+</a></div>
+     </td>
+  </tr>
+</tbody></table>
+
+<map name="HeaderNavMap" id="HeaderNavMap">
+    <area shape="rect" coords="137,17,177,45" href="http://www.allergybuyersclubshopping.com/">
+    <area shape="rect" coords="179,18,220,45" href="http://www.allergybuyersclub.com/learning-center.html">
+    <area shape="rect" coords="222,18,257,53" href="http://livechat.boldchat.com/aid/3719977315198506948/bc.chat?cwdid=3516876387242559526&amp;wdid=2198943928860323452&amp;rdid=658946770154497120">
+    <area shape="rect" coords="259,17,357,72" href="http://www.allergybuyersclubshopping.com/info.html">
+    <area shape="rect" coords="360,17,392,59" href="http://www.allergybuyersclub.com/special-offers.html">
+    <area shape="rect" coords="398,18,451,67" href="http://www.allergybuyersclubshopping.com/cgi-bin/catalog-request.pl">
+    <area shape="rect" coords="452,17,523,49" href="javascript:popUpShip('http://www.allergybuyersclub.com/popup-hours.html')">
+    <area shape="rect" coords="525,19,613,97" href="http://www.allergybuyersclub.com/special-offers.html">
+    <area shape="rect" coords="615,19,809,104" href="javascript:popUpShip('http://www.allergybuyersclub.com/shippingpopup-sm.html')">
+    <area shape="rect" coords="3,17,132,94" href="javascript:popUpShip('http://www.allergybuyersclub.com/popup-hours.html')">
+</map>
+
+<!-- END headerpage.vm -->
+     </td>
+</tr>
+<tr> 
+    <td width="162" valign="top"><!-- START leftnavpage.vm - AllergyBuyersClub.com - all rights reserved -->
+<table width="131" cellspacing="0" cellpadding="0">
+<tbody><tr>
+        <td align="center" valign="top">
+		<!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=shop.allergybuyersclub.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/shop.allergybuyersclub.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+<!-- END SCANALERT CODE --> 
+		        </td>
+		      </tr>
+		      <tr>
+		        <td width="100%" align="center" valign="top">
+		<table width="131" cellpadding="0" cellspacing="0">
       <tbody><tr>
-        <td align="left" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#9999CC">
-            <tbody><tr>
-              <td valign="top" bgcolor="#E4E4E4"><font color="#000000">&nbsp;<span class="emphasis-bold">Shopping</span></font></td>
-            </tr>
-            <tr>
-              <td valign="top" bgcolor="#E4E4E4" class="navlinks">&nbsp;<a href="http://www.allergybuyersclub.com/special-offers.html">On Sale Now</a><br>
-                &nbsp;<a href="http://www.allergybuyersclubshopping.com/whatsnewatabc.html">NEW Items</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclub.com/christmas-gifts.html">Gift Items</a><br>
-                  &nbsp;<a rel="nofollow" href="http://shop.allergybuyersclub.com/Merchant2/merchant.mvc?Screen=CTGY&amp;Store_Code=ABC&amp;Category_Code=DEMO-CLEAR-STEAM&amp;ladydemo&amp;l=body">Clearance</a><br>
-&nbsp;<a rel="nofollow" href="http://allergy-info.allergybuyersclub.com/">Top Searches</a><br>
-            <br>
-&nbsp;<img src="http://images.allergybuyersclub.com/img/logo_exmkover-icon.gif" width="24" height="11" border="0" align="absmiddle">&nbsp;&nbsp;<a href="http://www.allergybuyersclub.com/extreme-makeover-home-edition.html">Extreme Makeover Home Edition Products</a><br>
-            <br>
-              </td>
-            </tr>
-          </tbody></table>
-            <table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolor="#9999CC">
-              <tbody><tr>
-                <td height="16" valign="top" bgcolor="#E4E4E4" class="emphasis-bold">&nbsp;Appliances</td>
-              </tr>
-              <tr>
-                <td valign="top" bgcolor="#E4E4E4" class="navlinks">&nbsp;<a href="http://www.allergybuyersclubshopping.com/airpurifiers.html">Air Cleaners</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/aircon1.html">Air Conditioners</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/airpurifiers.html">Air Purifiers</a><br>
-&nbsp;&nbsp;·&nbsp;<a href="http://www.allergybuyersclubshopping.com/air-purifier-replacement-filters.html">Replacement Filters</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/dehumidifiers-home-industrial.html">Dehumidifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/furnacefilters.html">Furnace Filters</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/warm-cool-mist-humidifiers.html">Humidifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/medical-supplies.html">Medical Supplies</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/lighting.html">Natural Lighting</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/sinus-care.html">Sinus Care</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/showerfilters-showerheads.html">Shower Filters</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/vapor-steam-cleaners.html">Steam Cleaners</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/testkits.html">Test Kits</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/vacuumcleaners.html">Vacuum Cleaners</a><br>
-&nbsp;&nbsp;·&nbsp;<a href="http://www.allergybuyersclubshopping.com/vacuum-cleaner-bags-filters.html">Vacuum Bags - Filters</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/waterpurifiers.html">Water Filters</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/waterpurifiers.html">Water Purifiers</a><br>
-&nbsp; </td>
-              </tr>
-            </tbody></table>
-            <table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolor="#9999CC">
-              <tbody><tr>
-                <td height="16" valign="top" bgcolor="#E4E4E4">&nbsp;<span class="emphasis-bold">Home Goods</span></td>
-              </tr>
-              <tr>
-                <td valign="top" bgcolor="#E4E4E4" class="navlinks">&nbsp;<a href="http://www.allergybuyersclubshopping.com/beds-bedding.html">Luxury Bedding</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/baby.html">Baby Nursery</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/dusen2.html">Bath</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/bedfur.html">Bedroom Furniture</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/blanandthrow.html">Blankets</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/cleansup.html">Cleaning Supplies</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/comforters.html">Comforters</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/coverlets-quilts.html">Coverlets</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/dusen2.html">Dust Mite Covers</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/duvet-covers-sleep-sacks.html">Duvet Covers</a><br>
-                  <nobr> &nbsp;<a href="http://www.allergybuyersclubshopping.com/bedfur.html">Furniture - Bunk Beds</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/mattress-bedsets.html">Mattresses<br>
-                    </a> &nbsp;<a href="http://www.allergybuyersclubshopping.com/mattresspads.html">Mattress Pads</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/pillows.html">Pillows</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/pillowcases-covers-shams.html">Pillow Cases</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/rugs.html">Rugs</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/sheetsets.html">Sheet Sets</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/duvet-covers-sleep-sacks.html">Sleep Sacks</a><br>
-                  &nbsp;<a href="http://www.allergybuyersclubshopping.com/bath-towels.html">Towels</a><br>
-                &nbsp; </nobr></td>
-              </tr>
-              
-              
-              <tr>
-                <td align="center" valign="top" bgcolor="#E4E4E4" class="navlinks"><p><a href="http://www.sleepbuyersclub.com/"><img src="http://images.allergybuyersclub.com/img/shop-sbc2.jpg" width="126" height="65" border="0"></a><br>
-                        <br>
-                </p></td>
-              </tr>
-            </tbody></table>
-            <table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolor="#9999CC">
-              <tbody><tr>
-                <td width="157" height="16" valign="top" bgcolor="#E4E4E4" class="tsmall"><font color="#000000">&nbsp;<span class="emphasis-bold">Shop by Comparison<br>
-&nbsp;Charts</span></font></td>
-              </tr>
-              <tr>
-                <td valign="top" bgcolor="#E4E4E4" class="navlinks">&nbsp;<a href="http://www.allergybuyersclub.com/compare-air.html">Air Cleaners</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/compare-air-conditioners.html">Air Conditioners</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/compare-comforters.html">Comforters</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/compare-dehumidifiers.html">Dehumidifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/compare-dust-encasings.html">Dust Mite Covers</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/compare-humid.html">Humidifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/ap-iqair-comparison.html">IQAir Air Purifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/compare-full-spectrum-lighting.html">Full Spectrum Lighting</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/compare-furnace-filters.html">Furnace Filters</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/compare-mattress-pads.html">Mattress Pads</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/compare-pillows.html">Pillows</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/compare-royal-pedic.html">Royal Pedic Beds</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/compare-sheet-sets.html">Sheet Sets</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/compare-vps.html">Steam Cleaners</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/compare-vac.html">Vacuum Cleaners</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/compare-water-filters.html">Water Purifiers</a><br>
-&nbsp; </td>
-              </tr>
-            </tbody></table>
-            <table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolor="#9999CC" align="center">
-              <tbody><tr>
-                <td height="16" valign="top" bgcolor="#E4E4E4">&nbsp;<span class="emphasis-bold">Shop By Allergy</span>
-              </td></tr>
-              <tr>
-                <td valign="top" bgcolor="#E4E4E4" class="navlinks">&nbsp;<a href="http://www.allergybuyersclub.com/solution-cat.html">Cat Allergies</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/solution-dust-mite.html">Dust Mite Allergies</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/solution-mold.html">Mold Allergies</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/solution-pollen.html">Pollen Allergies</a><br>
-&nbsp; </td>
-              </tr>
-            </tbody></table>
-            <table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolor="#9999CC">
-              <tbody><tr>
-                <td height="16" valign="top" bgcolor="#E4E4E4">&nbsp;<span class="emphasis-bold">Shop By Brand</span></td>
-              </tr>
-              <tr>
-                <td valign="top" bgcolor="#E4E4E4" class="navlinks">&nbsp;<a href="http://www.allergybuyersclubshopping.com/air-o-swiss-humidifiers.html">Air O Swiss Humidifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/airfree-air-sterilizers.html">Airfree Air Sterilizers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/allerair-air-purifiers.html">Allerair Air Purifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/amaircare-air-purifiers.html">Amaircare Air Purifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/austin-air-purifiers.html">Austin Air Purifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/blueair-air-purifiers.html">Blueair Air Purifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/bosch-vacuum-cleaners.html">Bosch Vacuum Cleaners</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/clarifier-air-purifiers.html">Clarifier Air Purifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/comfortaire-dehumidifiers.html">Comfort Aire Dehumidifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/delonghi-dehumidifiers.html">Delonghi Dehumidifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/ebac-dehumidifiers.html">Ebac Dehumidifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/electrolux-vacuum-cleaners.html">Electrolux Vacuums</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/euphoria-bedding.html">Euphoria Bedding</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/eureka-vacuum-cleaners.html">Eureka Vacuum Cleaners</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/hamilton-beach-air-purifiers.html">Hamilton Beach</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/hunter-air-purifiers.html">Hunter Air Purifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/iqair-air-purifiers.html">IQAir Air Purifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/ladybug-steam-cleaners.html">Ladybug Steam Cleaners</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/miele-vacuum-cleaners.html">Miele Vacuum Cleaners</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/santa-fe-dehumidifiers.html">Santa Fe Dehumidifiers</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/sebo-vacuum-cleaners.html">Sebo Vacuum Cleaners</a><br>
-&nbsp; </td>
-              </tr>
-            </tbody></table>
-            <table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#9999CC">
-              <tbody><tr>
-                <td width="141" height="16" valign="top" bgcolor="#E4E4E4">&nbsp;<span class="emphasis-bold">Browse Our <br>
-&nbsp;Information</span></td>
-              </tr>
-              <tr>
-                <td valign="top" bgcolor="#E4E4E4" class="navlinks">&nbsp;<a href="http://www.allergybuyersclub.com/acr_index.shtml">Allergy Consumer</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/acr_index.shtml">Review</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/allergy-center.html">Allergy Relief</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/asthma-center.html">Asthma Control</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/flood-water-damage.html">Flood Damage</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/healthy_home.shtml">Healthy Home Center</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/learning-center.html">Learning Center</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/mold-center.html">Mold Removal</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/sinus_center.shtml">Sinus Problems</a><br>
-&nbsp; </td>
-              </tr>
-            </tbody></table>
-            <table width="100%" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td height="16" bgcolor="#E4E4E4">&nbsp;<span class="emphasis-bold">Solution Guides</span></td>
-              </tr>
-              <tr>
-                <td bgcolor="#E4E4E4" class="navlinks">&nbsp;<a href="http://www.allergybuyersclub.com/solution-virus.html">Virus Protection</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/solution-dust-mite.html">Dust Mite Allergies</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/solution-mold.html">Mold Removal</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/solution-cat.html">Cat Allergies</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/solution-pollen.html">Pollen</a>, <a href="http://www.allergybuyersclub.com/solution-pollen.html">Hay Fever</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/solution-flood.html">Flood</a></td>
-              </tr>
-            </tbody></table>
-            <table width="100%" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td height="16" bgcolor="#E4E4E4">&nbsp;<span class="emphasis-bold">Allergy Consumer</span> &nbsp;<span class="emphasis-bold">Review Archive</span></td>
-              </tr>
-              <tr>
-                <td bgcolor="#E4E4E4" class="navlinks">&nbsp;<a href="http://www.allergyconsumerreview.com/air-purifiers-guide.html">Air Purifiers</a><br>
-&nbsp;<a href="http://www.allergyconsumerreview.com/comforters-guide.html">Comforters</a><br>
-&nbsp;<a href="http://www.allergyconsumerreview.com/dehumidifiers-guide.html">Dehumidifiers</a><br>
-&nbsp;<a href="http://www.allergyconsumerreview.com/humidifiers-guide.html">Humidifiers</a><br>
-&nbsp;<a href="http://www.allergyconsumerreview.com/mattress-pads-guide.html">Mattress Pads</a><br>
-&nbsp;<a href="http://www.allergyconsumerreview.com/pillows-guide.html">Pillows</a><br>
-&nbsp;<a href="http://www.allergyconsumerreview.com/steam-cleaners-guide.html">Steam Cleaners</a><br>
-&nbsp;<a href="http://www.allergyconsumerreview.com/vacuum-cleaners-guide.html">Vacuum Cleaners</a><br>
-            <br>
-                </td>
-              </tr>
-              <tr>
-                <td bgcolor="#E4E4E4" class="navlinks">&nbsp;<span class="emphasis-bold">Shop By Sleep Problem<br>
-&nbsp;at SleepBuyersClub</span></td>
-              </tr>
-              <tr>
-                <td bgcolor="#E4E4E4" class="navlinks">&nbsp;<a href="http://www.sleepbuyersclub.com/arthritis.html">Arthritis</a><br>
-&nbsp;<a href="http://www.sleepbuyersclub.com/back-pain.html">Back Pain</a><br>
-&nbsp;<a href="http://www.sleepbuyersclub.com/insomnia.html">Insomnia</a><br>
-&nbsp;<a href="http://www.sleepbuyersclub.com/fibromyalgia.html">Fibromyalgia</a><br>
-&nbsp;<a href="http://www.sleepbuyersclub.com/restless-legs-syndrome.html">Restless Legs Syndrome</a><br>
-&nbsp;<a href="http://www.sleepbuyersclub.com/snoring.html">Snoring</a><br>
-&nbsp;<a href="http://www.sleepbuyersclub.com/stress.html">Stress and Sleep</a><br></td>
-              </tr>
-            </tbody></table>
-            <table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolor="#9999CC">
-              <tbody><tr>
-                <td height="16" valign="top" bgcolor="#E4E4E4">&nbsp;<span class="emphasis-bold">Programs</span></td>
-              </tr>
-              <tr>
-                <td valign="top" bgcolor="#E4E4E4" class="navlinks">&nbsp;<a href="http://www.allergybuyersclub.com/af/index.html">Affiliate Program</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/allergist-support-center.html">Patient Literature<br>
-</a>&nbsp;<a href="http://www.allergybuyersclub.com/allergist-support-center.html">Program</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/pdf/medical-certificate-2.pdf">Medical Reimbursement</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/pdf/medical-certificate-2.pdf">Form</a><br>
-&nbsp;<a href="http://www.briefcounseling.com/">Partner Sites</a><br>
-&nbsp;<a href="http://www.allergybuyersclub.com/press/">Press/Media</a><br>
-&nbsp; </td>
-              </tr>
-            </tbody></table>
-            <table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolor="#9999CC">
-              <tbody><tr>
-                <td height="16" valign="top" bgcolor="#E4E4E4">&nbsp;<span class="emphasis-bold">Customer Service</span></td>
-              </tr>
-              <tr>
-                <td valign="top" bgcolor="#E4E4E4" class="navlinks">&nbsp;<a href="http://www.allergybuyersclub.com/sitemap.html">Site Map</a><br>
-&nbsp;<a rel="nofollow" href="http://www.allergybuyersclubshopping.com/contactus.html">Contact Us</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/info.html">FAQ</a><br>
-&nbsp;<a rel="nofollow" href="http://www.allergybuyersclub.com/privacy.html">Privacy Policy</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/returnpolicy.html">Returns</a><br>
-&nbsp;<a rel="nofollow" href="http://www.allergybuyersclubshopping.com/shippingpopup.html">Shipping</a><br>
-&nbsp;<a rel="nofollow" href="http://shop.allergybuyersclub.com/Merchant2/merchant.mvc?Screen=BASK">Your Shopping Cart</a><br>
-&nbsp;<a href="http://www.allergybuyersclubshopping.com/carpetcleaners1.html">Carpet Cleaners</a></td>
-              </tr>
-          </tbody></table></td>
+        <td height="6" align="left" valign="top" background="http://images.allergybuyersclub.com/img/leftnavhead-round-corners.gif"></td>
       </tr>
-    </tbody></table></td>
-     <td width="617" align="left" valign="top"> 
+      <tr>
+        <td align="left" valign="top" class="leftNavTable">
+<p>
+  <span class="leftNavSectionHead">Shopping</span><br>
+  <a onmouseover="floatNav('brandNav'); return false"><span class="leftNavHover">Shop by Brand</span></a> <img src="http://images.allergybuyersclub.com/img/leftnav-arrow.gif" width="5" height="9" border="0"><br>
+  <a href="http://www.allergybuyersclub.com/christmas-gifts.html">Gift Ideas</a><br>
+  <a href="http://www.allergybuyersclub.com/special-offers.html">On Sale Now</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/whatsnewatabc.html">New Products</a><br>
+  <a onmouseover="floatNav('compareNav'); return false"><span class="leftNavHover">Compare Products </span></a> <img src="http://images.allergybuyersclub.com/img/leftnav-arrow.gif" alt="" width="5" height="9" border="0"></p>
+<p><span class="leftNavSectionHead">
+<a href="http://www.allergybuyersclubshopping.com/airpurifiers.html">Air Purifiers</a></span><br>
+  <a href="http://www.allergybuyersclubshopping.com/hepa-air-cleaners.html">Air Cleaners</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/allergy-multi-purpose-air-purifiers.html">Allergy Air Purifiers</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/mold-control-air-purifiers.html">Mold  Air Purifiers</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/smoke-air-purifiers.html">Smoke Air Purifiers</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/portable-air-purifiers.html">Portable Air Purifiers</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/central-air-purifiers.html">Whole House Air Purifiers</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/air-purifier-replacement-filters.html"> Replacement Filters</a></p>
+<p>
+<span class="leftNavSectionHead"><a href="http://www.allergybuyersclubshopping.com/aircon1.html">Air Conditioners</a></span><br>
+  <a href="http://www.allergybuyersclubshopping.com/aircon1.html#commercialairconditionersportableairconditioners">Commercial Air Conditioners</a><a href="http://www.allergybuyersclubshopping.com/aircon1.html#portableairconditionerssmallofficehomeairconditioners"><br>
+  Home Air Conditioners</a><a href="http://www.allergybuyersclubshopping.com/aircon1.html#portableairconditionerssmallofficehomeairconditioners"><br>
+  Portable Air Conditioners</a></p>
+<p>
+<span class="leftNavSectionHead"><a href="http://www.allergybuyersclubshopping.com/beds-bedding.html">Bedding</a> and <a href="http://www.allergybuyersclubshopping.com/bath.html">Bath</a></span><br>
+  <a href="http://www.allergybuyersclubshopping.com/baby.html#babybedding">Baby Bedding</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/bath-towels.html">Bath Towels</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/blanandthrow.html">Blankets</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/comforters.html">Comforters</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/coverlets-quilts.html">Coverlets</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/dusen2.html">Dust Mite Covers</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/duvet-covers-sleep-sacks.html">Duvet Covers</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/mattress-bedsets.html">Mattresses</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/mattresspads.html">Mattress Pads</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/pillows.html">Pillows</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/pillowcases-covers-shams.html">Pillow Cases</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/rugs.html">Rugs</a><br>
+    <a href="http://www.allergybuyersclubshopping.com/sheetsets.html">Sheet Sets</a><br>
+    <a href="http://www.allergybuyersclubshopping.com/duvet-covers-sleep-sacks.html">Sleep Sacks</a></p>
+<p>
+<span class="leftNavSectionHead">Cleaning</span><br>
+  <a href="http://www.allergybuyersclubshopping.com/carpetcleaners1.html">Carpet Cleaners</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/cleansup.html">Cleaning Supplies</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/floor-cleaners.html">Floor Cleaners</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/vacuumcleaners.html">Vacuum Cleaners</a></p>
+<p>
+<span class="leftNavSectionHead"><a href="http://www.allergybuyersclubshopping.com/dehumidifiers-home-industrial.html">Dehumidifiers</a></span><br>
+  <a href="http://www.allergybuyersclubshopping.com/basement-dehumidifiers.html">Basement Dehumidifiers</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/commercial-dehumidifiers.html">Commercial Dehumidifiers</a><br>
+  <a href="http://www.allergybuyersclub.com/crawl-space-dehumidifiers.html">Crawl Space Dehumidifiers</a><br>
+  <a href="http://www.allergybuyersclub.com/whole-house-dehumidifiers.html">Whole House Dehumidifiers</a>  </p>
+<p><span class="leftNavSectionHead"><a href="http://www.allergybuyersclubshopping.com/furnacefilters.html">Furnace Filters</a></span></p>
+<p>
+  <a href="http://www.allergybuyersclubshopping.com/bedfur.html"><span class="leftNavSectionHead">Furniture</span></a></p>
+<p>
+<span class="leftNavSectionHead"><a href="http://www.allergybuyersclubshopping.com/warm-cool-mist-humidifiers.html">Humidifiers</a></span><br>
+  <a href="http://www.allergybuyersclubshopping.com/air-washer-humidifiers.html">Air Washer Humidifiers</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/cool-mist-humidifiers.html">Cool Mist Humidifiers</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/small-portable-humidifiers.html">Small Portable Humidifiers</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/ultrasonic-humidifiers.html">Ultrasonic Humidifiers</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/warm-mist-humidifiers.html">Warm Mist Humidifiers</a></p>
+<p>
+<span class="leftNavSectionHead"><a href="http://www.allergybuyersclubshopping.com/lighting.html">Natural Lighting</a></span><br>
+  <a href="http://www.allergybuyersclubshopping.com/full-spectrum-desk-and-floor-lamps.html">Full Spectrum Lamps</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/light-therapy-light-boxes.html">Light Therapy Boxes</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/light-bulbs.html">  Light Bulbs</a></p>
+<p>
+  <a href="http://www.allergybuyersclubshopping.com/sinus-care.html"><span class="leftNavSectionHead">Sinus Care</span></a></p>
+<p>
+<span class="leftNavSectionHead"><a href="http://www.allergybuyersclubshopping.com/vapor-steam-cleaners.html">Steam Cleaners</a></span><br>
+  <a href="http://www.allergybuyersclubshopping.com/vapor-steam-cleaners.html">Vapor Steam Cleaners</a><a href="http://www.allergybuyersclubshopping.com/commercial-steam-cleaners.html"><br>
+  Commercial Steam Cleaners</a><br>
+</p>
+<p>
+<a href="http://www.allergybuyersclubshopping.com/testkits.html"><span class="leftNavSectionHead">Test Kits</span></a></p>
+<p>
+<span class="leftNavSectionHead"><a href="http://www.allergybuyersclubshopping.com/vacuumcleaners.html">Vacuum Cleaners</a></span><br>
+  <a href="http://www.allergybuyersclubshopping.com/canister-vacuum-cleaners.html">Canister Vacuums</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/upright-vacuum-cleaners.html">Upright Vacuums</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/vacuumcleaners.html#handheldcordlessvacuumcleaners">Handheld / Cordless</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/vacuum-cleaner-bags-filters.html">Vacuum Bags</a></p>
+<p>
+<span class="leftNavSectionHead"><a href="http://www.allergybuyersclubshopping.com/waterpurifiers.html">Water Filters</a></span><br>
+  <a href="http://www.allergybuyersclubshopping.com/showerfilters-showerheads.html">Shower Filters</a><br>
+  <a href="http://www.allergybuyersclubshopping.com/waterpurifiers.html">Water Purifiers</a></p>
+<p>
+<span class="leftNavSectionHead">Shop By Problem</span><br>
+  <a href="http://www.allergybuyersclub.com/solution-pollen.html">Allergy Relief</a><br>
+  <a href="http://www.allergybuyersclub.com/solution-cat.html">Cat Allergies</a><br>
+  <a href="http://www.allergybuyersclub.com/solution-dust-mite.html">Dust Mite Allergies</a><br>
+  <a href="http://www.allergybuyersclub.com/solution-flood.html">Flood Damage</a><br>
+  <a title="http://www.allergybuyersclub.com/solution-mold.html" href="http://www.allergybuyersclub.com/solution-mold.html">Mold   Removal</a><br>
+  <a href="http://www.allergybuyersclub.com/solution-pollen.html">Pollen</a> / <a href="http://www.allergybuyersclub.com/solution-pollen.html">Hay Fever</a><br>
+<a href="http://www.allergybuyersclub.com/solution-virus.html">Virus Protection</a></p>
+<p>
+  <a href="http://shop.allergybuyersclub.com/mm5/merchant.mvc?Screen=CTGY&amp;Store_Code=ABC&amp;Category_Code=DEMO-CLEAR-STEAM&amp;ladydemo&amp;l=body"><span class="leftNavSectionHead">Clearance Center</span></a><br>
+</p>
+<p>
+<span class="leftNavSectionHead">Information</span><br>
+  <a href="http://forum.allergyconsumerreview.com/">Allergy Consumer Review</a><br>
+  <a href="http://www.allergybuyersclub.com/learning-center.html">Learning Center</a></p>
+<p>
+<span class="leftNavSectionHead">Programs</span><br>
+<a href="http://www.allergybuyersclub.com/af/index.html">Affiliates</a><br>
+<a href="http://www.allergybuyersclub.com/pdf/medical-certificate-2.pdf">Medical Reimbursment</a><br>
+  <a href="http://www.allergybuyersclub.com/allergist-support-center.html">Patient Literature</a><br>
+  <a href="http://www.allergybuyersclub.com/partners/index.html">Partner Sites</a><br>
+  <a href="http://www.allergybuyersclub.com/press/">Press/Media</a><br>
+</p>
+<p>
+<span class="leftNavSectionHead">Customer Service</span><br>
+<a href="http://www.allergybuyersclub.com/aboutus.html">About Us</a><br>
+<a href="http://www.allergybuyersclubshopping.com/contactus.html">Contact Us</a><br>
+<a href="http://myinfo.allergybuyersclub.com">Order Status</a><br>
+<a href="http://www.allergybuyersclubshopping.com/info.html"> FAQ</a><br>
+<a href="http://www.allergybuyersclubshopping.com/returnpolicy.html">Returns</a><br>
+<a href="http://www.allergybuyersclubshopping.com/shippingpopup.html">Shipping Policy</a><br>
+<a href="http://shop.allergybuyersclub.com/mm5/merchant.mvc?Screen=BASK">Shopping Cart</a><br>
+<a href="http://www.allergybuyersclub.com/aboutus.html">Why Buy From Us?</a></p>
+<p>
+<span class="leftNavSectionHead">Our Sites</span><br>
+  <a href="http://www.greenandmore.com">GreenandMore.com</a><br>
+  <a href="http://www.sleepbuyersclub.com">SleepBuyersClub.com</a></p></td>
+		</tr>
+	</tbody></table>
+</td>
+<td width="5">&nbsp;</td>
+		</tr>
+	</tbody></table>
+<!-- END leftnavpage.vm --></td>
+     <td width="1628" align="left" valign="top"> 
       <table width="100%" border="0" cellspacing="0" cellpadding="3">
         <tbody><tr>
           <td width="74%" valign="top"><!-- InstanceBeginEditable name="Body" --> 
@@ -583,8 +468,8 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
                                 please <a href="contact.html">contact us</a>  with
                                 your request.</font></span></p>
                             <p><span class="title"><b>Navigational History/Cookies</b></span><br>
-                                <span class="tsmall"><font color="#666666">ABC/SBC use aggregate information from demographic surveys and traffic patterns to customize our site. State-of-the-art comparison technology allows us to use this information to make recommendations based on previous traffic patterns and purchases. ABC/SBC use information only on an aggregate level and does not track information about individuals. Aggregate information may be shared with partners of ABC/SBC to plan advertising promotions and offer enhanced web customer service. We do not share any individual information. In addition, ABC/SBC only uses cookies to help provide our visitors with a better experience on our site. A cookie is a small piece of information that web sites use to remember information about users. ABC/SBC<font color="#666666"> </font> use two types of cookies to recognize our members and remember shopping list items: (1) transient cookies provide continuity from page to page and store information such as your shopping list to simplify checkout but not personally identifying information; (2) persistent cookies identify members after their first visit and remain on the hard drive of a PC to allow a user to enter our site without having to log in on every visit. You can disable your cookies at any time through your browser options.</font></span></p>
-                          </div>
+                                <span class="tsmall"><font color="#666666">ABC/SBC use aggregate information from demographic surveys and traffic patterns to customize our site. State-of-the-art comparison technology allows us to use this information to make recommendations based on previous traffic patterns and purchases. ABC/SBC does use a third-party service provider to serve ads on our behalf and may collect anonymous information about your visits to our web site and your interaction with our products. No personally identifiable information is collected or used in this process. If you would like more information and to know your choices about not having this information used, please <a href="http://www.imiclk.com/optout.html">click here</a>.  In addition, ABC/SBC uses cookies to help provide our visitors with a better experience on our site. A cookie is a small piece of information that web sites use to remember information about users. ABC/SBC use two types of cookies to recognize our members and remember shopping list items: (1) transient cookies provide continuity from page to page and store information such as your shopping list to simplify checkout but not personally identifying information; (2) persistent cookies identify members after their first visit and remain on the hard drive of a PC to allow a user to enter our site without having to log in on every visit. You can disable your cookies at any time through your browser options.</font></span></p>
+                        </div>
                         <p><b class="title">Email Mailing List </b><br>
                             <span class="tsmall"><font color="#666666">For those of you who opted in to join our email program and/or the Sleep Buyers Club, we do not make our email list available to other companies. We publish an email newsletter once or twice a month full of informational articles about allergy control, indoor air quality, and our latest allergy control product research. We also make you aware of this month's new or featured products in our online store. We let you know about any money saving "member's specials" in our store or pass along any free offers that manufacturers want to offer to our membership. There is an "opt out" website link at the bottom of each newsletter if you decide that you do not want to receive any further issues. </font></span>
                           </p><p><b class="title">Order Security </b><br>
@@ -604,17 +489,6 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
           <td valign="top"> <!-- InstanceBeginEditable name="right-column" -->
             <table width="160" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
-                <td align="center" valign="top"><p><br>
-        <br>
-                </p></td>
-              </tr>
-              <tr>
-                <td bgcolor="C7D5CF"><div align="center" class="tsmall">Featured Offer </div></td>
-              </tr>
-              <tr>
-                <td align="center"><a onclick="appendVID(this);" href="http://www.allergybuyersclub.com/special-offers.html"><img src="http://images.allergybuyersclub.com/img/bar-offer-newsite.jpg" width="160" height="111" border="0"></a><br></td>
-              </tr>
-              <tr>
                 <td bgcolor="C7D5CF"><div align="center" class="tsmall">FREE Membership</div></td>
               </tr>
               <tr>
@@ -622,10 +496,10 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
 <link rel="stylesheet" href="/includes/includes.css" type="text/css">
 <table border="1" width="155" cellpadding="0" cellspacing="0" bordercolor="#C7D5CF" bgcolor="#FFFFCC" align="center">
         <tbody><tr>
-          <form name="EasySignUp" action="http://www.allergybuyersclub.com/cgi-bin/FormMail.pl" method="post"></form>
+          <form name="EasySignUp" action="http://cts.dundee.net/subscribe/subscribe.tml" method="POST"></form>
             <td><table border="0" cellpadding="2" width="150" cellspacing="0" bgcolor="#F4F2FF">
                 <tbody><tr align="center">
-                  <td width="100%" colspan="2"><img src="http://images.allergybuyersclub.com/img/joinfree.gif" width="160" height="26"></td>
+                  <td width="100" colspan="2"><img src="http://images.allergybuyersclub.com/img/joinfree.gif" width="160" height="26"></td>
                 </tr>
                 <tr valign="top" bgcolor="#F4F2FF">
                   <td colspan="2" align="right"><div align="left">
@@ -641,26 +515,40 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
                    
                     </div></td>
                 </tr>
-                <tr bgcolor="#F4F2FF">
-                  <td align="right"><font size="1" face="Tahoma"> Name:&nbsp;</font></td>
-                  <td><input name="realname" size="12" maxlength="25">
-                  </td>
-                </tr>
-                <tr bgcolor="#F4F2FF">
-                  <td align="right"><font size="1" face="Tahoma">&nbsp;Email:&nbsp;</font></td>
-                  <td><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2">
-                    <input name="email" size="12" maxlength="50">
-                  </font>
-				  <input type="hidden" name="subject" value="subscribe">
-<input type="hidden" name="body_text" value="subscribe">
-<input type="hidden" name="recipient" value="subscribe-allergy-consumer-review@lyris.dundee.net">
-<input type="hidden" name="redirect" value="http://www.allergybuyersclub.com/subscribe-thanks.html"></td>
-                </tr>
-                <tr valign="center" align="center" bordercolor="#CCCCFF" bgcolor="#F4F2FF">
-                  <td align="right" valign="middle"><div align="center"><a onclick="MyWindow=window.open('http://www.allergybuyersclub.com/popup-membership.html','MyWindow','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=400,height=500'); return false;" href="http://www.allergybuyersclub.com/popup-membership.html"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1">More&nbsp;Info </font></a></div></td>
-                  <td><input type="image" border="0" name="JoinNow" src="http://images.allergybuyersclub.com/img/join-button2.gif" alt="Newsletter Join Now, to get more info on HEPA air purifiers HEPA vacuum ">
-                 </td>
-                </tr>
+                <tr>
+            <td align="right"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">              Email address:             </font></td>
+            <td>
+                <input type="text" name="email" value="" size="12" maxlength="50">            </td>
+        </tr>
+    <tr>
+        <td align="right">          <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><i>(optional)</i> Your Name:         </font></td>
+        <td>
+            <input type="text" name="name" value="" size="12" maxlength="30">        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="right">        
+            <font size="1">&nbsp;</font>        </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+              <font size="1" face="Verdana, Arial, Helvetica, sans-serif">
+<input type="checkbox" name="list" value="allergy-buyers-club" checked="">
+AllergyBuyersClub.com <br>
+News &amp; Specials<br>
+              <input type="checkbox" name="list" value="green-and-more" checked="">
+              GreenandMore.com <br>
+              News &amp; Specials              </font>  
+  <input type="hidden" name="Comment_" value="website signup">
+  <input type="hidden" name="demographics" value="Comment_">
+  <input type="hidden" name="confirm" value="one">
+  <input type="hidden" name="showconfirm" value="F">
+  <input type="hidden" name="url" value="http://www.allergybuyersclub.com/subscribe-thanks.html"></td>
+        </tr>
+        <tr>
+          <td><div align="center"><a onclick="MyWindow=window.open('http://www.allergybuyersclub.com/popup-membership.html','MyWindow','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=400,height=500'); return false;" href="http://www.allergybuyersclub.com/popup-membership.html"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1">More&nbsp;Info </font></a></div></td>
+          <td><input type="image" border="0" height="19" width="73" title="subscribe" alt="subscribe" src="http://cts.dundee.net/img/english/button_subscribe.gif" name="subscribe" align="left"></td>
+        </tr>
+                
             </tbody></table></td>
           
        </tr>
@@ -704,60 +592,140 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
           <!-- InstanceEndEditable --></td>
         </tr>
       </tbody></table>
-     <p>&nbsp;</p></td>
-  </tr>
+  </td></tr>
    <tr align="center" valign="middle">
-     <td colspan="2" align="left"><div align="left"><a href="http://www.allergybuyersclub.com/aboutus.html"><img src="http://images.allergybuyersclub.com/img/worry-free.jpg" width="126" height="59" border="0"></a>
-             <!-- START SCANALERT CODE -->
-             <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.allergybuyersclub.com"><img src="//images.scanalert.com/meter/www.allergybuyersclub.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." width="115" height="32" vspace="2" border="0" align="absmiddle" oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-             <!-- END SCANALERT CODE -->
-             <a href="http://www.allergybuyersclub.com/aboutus.html"><img src="http://images.allergybuyersclub.com/img/abc-bottom-icons.jpg" width="442" height="43" border="0" align="absmiddle"></a> </div></td>
-   </tr>
-   <tr align="center">
-     <td colspan="2"><p class="navlinks"><br>
-© 2001-2007 AllergyBuyersClub.com&nbsp;&nbsp; All Rights Reserved.<br>
-Information presented at AllergyBuyersClub.com is for educational purposes only, and is not a substitute for 
-        medical advice or treatment. Use of this online service is subject to the <a href="http://www.allergybuyersclubshopping.com/terandcon.html">disclaimer</a> and the <a href="http://www.allergybuyersclubshopping.com/terandcon.html">terms and conditions</a>.<br> 
-        *&nbsp;Certain conditions apply for free shipping. Does not apply to furniture or whole house air purifiers that are noted.</p>
-   <p class="navlinks"><a href="http://www.allergybuyersclub.com/contact.html">Contact Us</a>&nbsp;-&nbsp;<a href="http://www.allergybuyersclub.com/aboutus.html">About Us</a>&nbsp;-&nbsp;<a href="http://www.allergybuyersclub.com/privacy.html">Privacy Policy</a>&nbsp;-&nbsp;<a href="http://www.allergybuyersclubshopping.com/shippingpopup.html">Shipping</a>&nbsp;-&nbsp;<a href="/info.html">Customer&nbsp;Service</a>&nbsp;-&nbsp;<a href="http://www.allergybuyersclub.com/af/index.html">Affiliate&nbsp;Programs</a><br>
-             <br>
-             <img src="http://images.allergybuyersclub.com/img/lock.gif" width="14" height="17" align="absmiddle"> 100% Secure Online Transactions Verified by Authorize.net<br>
-          </p></td>
+     <td colspan="2" align="left"><!-- BEGIN footerpage.vm - AllergyBuyersClub.com - All rights reserved -->
+<style type="text/css">
+<!--
+.style3 {color: #666666}
+.style4 {color: #333333}
+-->
+</style>
+
+<table width="100%">
+<tbody><tr align="center" valign="middle">
+     <td colspan="2" align="left"><div align="center"><br>
+       &nbsp;&nbsp;<a href="http://www.allergybuyersclub.com/aboutus.html"><img src="http://images.allergybuyersclub.com/img/worry-free.gif" width="92" height="43" border="0"></a>&nbsp;&nbsp;&nbsp;
+        <!-- START SCANALERT CODE -->
+           <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.allergybuyersclub.com" rel="nofollow"><img src="//images.scanalert.com/meter/www.allergybuyersclub.com/12.gif" width="115" height="32" vspace="2" border="0" align="absmiddle" oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+        <!-- END SCANALERT CODE -->
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.allergybuyersclub.com/aboutus.html"><img src="http://images.allergybuyersclub.com/img/abc-bottom-icons.jpg" width="442" height="43" border="0" align="absmiddle"></a>
+    </div></td>
+  </tr>
+  <tr align="center"> 
+    <td colspan="2"><p class="navlinks style3"><br>
+        © 2008 AllergyBuyersClub.com&nbsp;&nbsp; 
+            All Rights Reserved.&nbsp;&nbsp;&nbsp;<br>
+
+            Information presented at AllergyBuyersClub.com is for educational 
+            purposes only, and is not a substitute for <br>
+            medical advice or treatment. Use of this online service is subject 
+            to the <a href="http://www.allergybuyersclubshopping.com/terandcon.html">disclaimer</a> 
+            and the <a href="http://www.allergybuyersclubshopping.com/terandcon.html">terms 
+              and conditions</a>. <br>
+            *&nbsp;Certain conditions apply for free shipping. Does not apply
+              to furniture or whole house air purifiers that are noted. </p>
+      <p class="navlinks"><a href="http://www.allergybuyersclub.com/contact.html">Contact 
+            Us</a>&nbsp;-&nbsp;<a href="http://www.allergybuyersclub.com/aboutus.html">About 
+            Us</a>&nbsp;-&nbsp;<a href="http://www.allergybuyersclub.com/privacy.html">Privacy 
+            Policy</a>&nbsp;-&nbsp;<a href="http://www.allergybuyersclubshopping.com/shippingpopup.html">Shipping</a>&nbsp;-&nbsp;<a href="/info.html">Customer&nbsp;Service</a>&nbsp;-&nbsp;<a href="http://www.allergybuyersclub.com/af/index.html">Affiliate&nbsp;Programs</a> 
+            &nbsp;<br>
+
+            <br>
+            <img src="http://images.allergybuyersclub.com/img/lock.gif" width="14" height="17" align="absmiddle"> 
+            <span class="style4">100% Secure Online Transactions Verified by Authorize.net</span><br>
+  </p></td></tr>
+  </tbody></table>
+<!-- END footerpage.vm --></td>
    </tr>
 </tbody></table>
-
-<!-- Proficient System, Inc. Release 4.0G START -->
-<script src="http://www.allergybuyersclub.com/includes/proficient.js" type="text/javascript"></script>
-<!-- Proficient System, Inc. Release 4.0G END -->
-
-		<!-- LP Base Include BEGIN -->
-		<!-- /Boldchat Live Chat Button HTML v1.10 -->
-
-<!-- REPLACE with actual code from configured ruleset and chat window def -->
-
-
-<!-- Boldchat Visitor Monitor HTML v1.30 (Website=ABC Sites,ChatWindow=Allergybuyers,ChatInvitation=Allergybuyers/Sleepbuyers) -->
-<script language="JavaScript" type="text/javascript"><!--
-document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://vms.boldchat.com/aid/3719977315198506948/bc.vms/vms.js?vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=&amp;url=' + escape(document.location.href + appendBCPriority()) + '&amp;referrer=' + escape(document.referrer) + '&amp;cidid=932149254836592955&amp;wdid=2198943928860323452&amp;cwdid=3516876387242559526&amp;cp=https&amp;cw=640&amp;ch=480"></scr' + 'ipt>');
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://vms.boldchat.com/aid/3719977315198506948/bc.vms/vms.js?vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=&amp;url=https%3A//web.archive.org/web/20071214203328id_/http%253A//www.allergybuyersclub.com/privacy.html%3FbcPriority%3Dundefined&amp;referrer=&amp;cidid=932149254836592955&amp;wdid=2198943928860323452&amp;cwdid=3516876387242559526&amp;cp=https&amp;cw=640&amp;ch=480"></script>
-<noscript>
-<a href="http://www.boldchat.com" title="Live Chat Software" target="_blank"><img alt="Live Chat Software" src="http://vms.boldchat.com/aid/3719977315198506948/bc.vmi?vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=" border="0" width="1" height="1"></a>
-</noscript>
-<!-- /Boldchat Visitor Monitor HTML v1.30 -->
-
-<!-- implementMonitor(); -->
-
-<!-- Force the update to the DOM object to reflect BC button -->
-
-<script language="JavaScript" type="text/javascript">
-
-	replaceLpButtonWithBc();
-
-</script>
-
-		<!-- LP Base Include END -->
-
+<br clear="all"><br>
+<table width="100%" border="0" cellspacing="4" cellpadding="4">
+  <tbody><tr>
+    <td align="left"><!-- BEGIN brandNavPage.vm - AllergyBuyersClub.com - All rights reserved -->
+<table width="533" border="0" cellspacing="5" cellpadding="2" class="leftNavTable" id="brandNav">
+  <tbody><tr>
+    <td colspan="2"><span class="leftNavSectionHead">Shop by Brand</span></td>
+    <td id="closeBox" align="right" valign="top">&nbsp;</td>
+  </tr>
+  <tr>
+        <td colspan="3"><hr height="1"></td>
+  </tr>
+  <tr>
+    <td width="31%" valign="top">
+<nobr><a href="http://www.allergybuyersclubshopping.com/air-o-swiss-humidifiers.html">Air O Swiss Humidifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/airfree-air-sterilizers.html">AirFree Air Sterilizers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/allerair-air-purifiers.html">Allerair Air Purifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/amaircare-air-purifiers.html">Amaircare Air Purifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/austin-air-purifiers.html">Austinair Air Purifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/blueair-air-purifiers.html">Blueair Air Purifiers </a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/bosch-vacuum-cleaners.html">Bosch Vacuum Cleaners</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/clarifier-air-purifiers.html">Clarifier Air Purifiers</a></nobr>
+     </td>
+    <td width="36%" valign="top">
+<nobr><a href="http://www.allergybuyersclubshopping.com/comfortaire-dehumidifiers.html">Comfortaire Dehumidifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/delonghi-dehumidifiers.html">Delonghi Dehumidifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/ebac-dehumidifiers.html">Ebac Dehumidifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/electrolux-vacuum-cleaners.html">Electrolux Vacuum Cleaners</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/euphoria-bedding.html.html">Euphoria Bedding</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/eureka-vacuum-cleaners.html">Eureka Vacuum Cleaners</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/hamilton-beach-air-purifiers.html">Hamilton Beach Air Purifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/hunter-air-purifiers.html">Hunter Air Purifiers</a></nobr>
+    </td>
+    <td width="33%" valign="top"><nobr><a href="http://www.allergybuyersclubshopping.com/iqair-air-purifiers.html">IQAir Air Purifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/ladybug-steam-cleaners.html">Ladybug Steam Cleaners </a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/miele-vacuum-cleaners.html">Miele Vacuum Cleaners</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/plasmawave-air-purifiers.html">Plasmawave Air Purifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/royal-pedic-mattresses.html">Royal Pedic Mattresses</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/santa-fe-dehumidifiers.html">SanteFe Dehumidifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/sebo-vacuum-cleaners.html">Sebo Vacuum Cleaners </a></nobr><br>
+<nobr><a href="http://www.allergybuyersclubshopping.com/vaporjet-steam-cleaners.html">VaporJet Steam Cleaners</a></nobr>
+  </td>
+  </tr>
+</tbody></table>
+<!-- END brandNavPage.vm -->
+</td>
+  </tr>
+  <tr>
+    <td align="left"><!-- BEGIN compareNavPage.vm - AllergyBuyersClub.com - All rights reserved -->
+<table width="533" border="0" cellspacing="5" cellpadding="2" class="leftNavTable" id="compareNav">
+  <tbody><tr>
+    <td colspan="2" align="left"><span class="leftNavSectionHead">Shop by Comparison</span></td>
+    <td id="closeBox" align="right" valign="top">&nbsp;</td>
+  </tr>
+  <tr>
+        <td colspan="3"><hr height="1"></td>
+  </tr>
+  <tr>
+    <td width="31%" valign="top">
+<nobr><a href="http://www.allergybuyersclub.com/compare-air.html">Air Cleaners</a></nobr><br> 
+<nobr><a href="http://www.allergybuyersclub.com/compare-air.html">Air Purifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclub.com/compare-air-conditioners.html">Air Conditioners</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclub.com/compare-comforters.html">Comforters</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclub.com/compare-dehumidifiers.html">Dehumidifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclub.com/compare-dust-encasings.html">Dust Mite Covers</a></nobr>
+    </td>
+    <td width="35%" valign="top">
+<nobr><a href="http://www.allergybuyersclub.com/compare-humid.html">Humidifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclub.com/ap-iqair-comparison.html">IQAir Air Purifiers</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclub.com/compare-full-spectrum-lighting.html">Full Spectrum Lighting</a><br>
+</nobr><nobr><a href="http://www.allergybuyersclub.com/compare-furnace-filters.html">Furnace Filters</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclub.com/compare-mattress-pads.html">Mattress Pads</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclub.com/compare-pillows.html">Pillows</a></nobr><br>
+    </td>
+    <td width="34%" valign="top">
+<nobr><a href="http://www.allergybuyersclub.com/compare-royal-pedic.html">Royal Pedic Beds</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclub.com/compare-sheet-sets.html">Sheet Sets</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclub.com/compare-vps.html">Steam Cleaners</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclub.com/compare-vac.html">Vacuum Cleaners</a></nobr><br>
+<nobr><a href="http://www.allergybuyersclub.com/compare-water-filters.html">Water Purifiers</a></nobr>
+     </td>
+  </tr>
+</tbody></table>
+<!-- END compareNavPage.vm -->
+</td>
+  </tr>
+</tbody></table>
 
 <!-- TemplateEnd --><!-- InstanceEnd -->
 </body></html>
