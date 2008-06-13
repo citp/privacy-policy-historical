@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the article-buzz.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215021342id_/http%3A//www.article-buzz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-buzz.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613200140id_/http%3A//www.article-buzz.com/privacy.php) for the most accurate reproduction.*
 
-# Article-Buzz Directory | Content Articles for Reprint | Free Article Submission | RSS Feeds
+# Article Directory | Content Articles for Reprint | Free Article Submission | RSS Feeds
 
 ## Article-Buzz.com Privacy Policy
 
@@ -61,15 +61,3 @@ We can be reached by e-mailing us via this "MailTo" Link [admin@Article-Buzz.com
 Article-Buzz.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-| 
-
-Navigation
-
-Tools and Resources
-
-Information
-
-Featured Articles
-
-Article-Buzz News
