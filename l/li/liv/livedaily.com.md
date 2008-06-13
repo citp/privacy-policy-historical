@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214182604id_/http%3A//www.livedaily.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613125447id_/http%3A//www.livedaily.com/privacy.html) for the most accurate reproduction.*
 
 # America's Concert Source >> LiveDaily
 
@@ -89,20 +89,10 @@ legal@ticketmaster.com**
 
 © IAC/InterActiveCorp. All rights reserved. 
 
-  * [LiveDaily News Break, December 13: Miley Cyrus, Dierks Bentley, Josh Groban and more (iTunes)](http://blogs.livedaily.com/index.php/podnewsbreakmp3/comments/1370/livedaily_news_break_december_13_miley_cyrus_dierks_bentley_josh_groban_and.html)  
-Today's edition features news and tour information about Miley Cyrus, Dierks Bentley, Paul Potts and Ike Turner. We'll also check out which albums made the Top 5 on this week's album chart. 
+[](http://www.livedaily.com/blog/2139.html)
 
-[mp3 version](http://media.livedaily.com/podcast/newsbreak/ldnewsbreak-mp3-20071213.mp3 "LiveDaily newsbreak mp3") | [iTunes version](http://media.livedaily.com/podcast/newsbreak/ldnewsbreak-itunes-20071213.m4a "LiveDaily newsbreak M4A") | [Subscribe at iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=260996210 "Subscribe at iTunes")
+Today's LiveDaily News Break Podcast features news and tour information about Trisha Yearwood, Warrant, Journey and Pearl Jam. We'll also... [continued](http://www.livedaily.com/blog/2139.html)
 
-  * [LiveDaily News Break, December 12: Lenny Kravitz, Marilyn Manson, Wu-Tang Clan and more](http://blogs.livedaily.com/index.php/podnewsbreakmp3/comments/1364/livedaily_news_break_december_12_lenny_kravitz_marilyn_manson_wu_tang_clan.html)  
-Today's edition features news and tour information about Lenny Kravitz, Jill Scott, Wu-Tang Clan, Henry Rollins and Marilyn Manson. 
+[](http://www.livedaily.com/blog/2138.html)
 
-[mp3 version](http://media.livedaily.com/podcast/newsbreak/ldnewsbreak-mp3-20071212.mp3 "LiveDaily newsbreak mp3") | [iTunes version](http://media.livedaily.com/podcast/newsbreak/ldnewsbreak-itunes-20071212.m4a "LiveDaily newsbreak M4A") | [Subscribe at iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=260996210 "Subscribe at iTunes")
-
-  * [LiveDaily News Break, December 11: Van Halen, B.B. King, The Mars Volta and more](http://blogs.livedaily.com/index.php/podnewsbreakmp3/comments/1356/livedaily_news_break_december_11_van_halen_bb_king_the_mars_volta_and_more.html)  
-Today's edition features news and tour information about Van Halen, B.B. King, The Mars Volta, Dolly Parton, Pink Floyd and more. 
-
-[mp3 version](http://media.livedaily.com/podcast/newsbreak/ldnewsbreak-mp3-20071211.mp3 "LiveDaily newsbreak mp3") | [iTunes version](http://media.livedaily.com/podcast/newsbreak/ldnewsbreak-itunes-20071211.m4a "LiveDaily newsbreak M4A") | [Subscribe at iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=260996210 "Subscribe at iTunes")
-
-
-
+Today's Song of the Day is by Serena Ryder. Her featured cut is "Weak In The Knees," which appears on... [continued](http://www.livedaily.com/blog/2138.html)
