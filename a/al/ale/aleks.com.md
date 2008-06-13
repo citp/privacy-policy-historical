@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214142654id_/http%3A//www.aleks.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613101356id_/http%3A//www.aleks.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**ALEKS Privacy Statement** (Last Updated 8/10/2006)  
+**ALEKS Privacy Statement** (Last Updated 5/20/2008)  
 
 
 This privacy statement discloses the privacy practices of ALEKS Corporation ("ALEKS") for our website: [www.aleks.com](http://www.aleks.com/) (the "ALEKS Website"). 
@@ -48,13 +48,13 @@ If you have any questions of any kind or feel that we are not abiding by our po
 
 **Sharing**
 
-> **Personally Identifiable Information:** ALEKS does **not** share personally identifiable information with third parties except for the limited situations described below. 
+> **Personally Identifiable Information:** ALEKS does **not** disclose or share personally identifiable information with third parties except for purposes of credit card processing as described below. 
 
-> **Credit Card Processing:** We use an outside credit card processing company to bill users for our services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
+> **Credit Card Processing:** We use an outside credit card processing company to bill users and parents or guardians of child users for our services. ALEKS Corporation does not retain, share, store or use personally identifiable information for any secondary purposes.
 > 
-> **Third Party Partners:** In the future, it is possible that ALEKS will provide additional services, or will partner with another party to provide specific services to the users of the ALEKS Website. In that event, such parties will not be allowed to use personally identifiable information except for the purpose of providing these services. In addition we will obtain verifiable parental consent as described below before any personally identifiable information pertaining to a child under the age of 13 is shared with a third party partner. 
+> **Third Party Partners:** In the future, it is possible that ALEKS will provide additional services, or will partner with another party to provide specific services to the users of the ALEKS Website. In that event, such parties will not be allowed to use personally identifiable information except for the purpose of providing these services. In addition we will not disclose or share personally identifiable information pertaining to a child under the age of 13 until we have obtained verifiable parental consent to do so. 
 > 
-> **Non-Personally Identifiable Information:** ALEKS reserves the right to disclose to third parties non personally identifiable information about our users and their use of the ALEKS Website and related services. For example, ALEKS may disclose aggregate data about the overall patterns or demographics of the users of the ALEKS Website to third parties. 
+> **Non-Personally Identifiable Information:** ALEKS reserves the right to disclose to third parties **non** personally identifiable information about our users and their use of the ALEKS Website and related services. For example, ALEKS may disclose aggregate data about the overall patterns or demographics of the users of the ALEKS Website to third parties. 
 
 **Links**
 
@@ -86,13 +86,13 @@ If you have any questions of any kind or feel that we are not abiding by our po
 
  **Security**
 
-> As part of the registration process, users are assigned a login name as described above (see "Registration" above) and an anonymous password. ALEKS will use the login name and password to identify the user on all subsequent visits to the K-12 Site. It is the user's responsibility to keep his or her password confidential. 
+> As part of the registration process, users are assigned a login name as described above (see "Registration" above) and an anonymous password. ALEKS will use the login name and password to identify the user on all subsequent visits to the ALEKS Website. It is the user's responsibility to keep his or her password confidential. 
 > 
 > ALEKS takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. 
 > 
 > When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - Secure Socket Layer ("SSL") protocol. To use this protection technology, you need to have an SSL-capable browser, such as Netscape Navigator 4.5 or higher or Microsoft Internet Explorer 4.5 or higher. While on a secure page, such as our billing information form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. 
 > 
-> While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
+> While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 > 
 > If you have any questions about the security at our website, you can send an email to [security@aleks.com](mailto:security@aleks.com?subject=ecurity). 
 
@@ -120,7 +120,7 @@ If you have any questions of any kind or feel that we are not abiding by our po
 
 > We will not knowingly collect online contact information from a child under age 13 without prior verifiable parental consent or direct parental notification of the nature and intended use of this information, which shall include an opportunity for the parent to prevent use of the information and participation in the activity. Where prior verifiable parental consent is not obtained, online contact information shall only be used to directly respond to the child's request and shall not be used to re-contact the child for other purposes. 
 > 
-> Except as described below under "Privacy Policies that Apply Only to Children from Kindergarten through 12th Grade Using ALEKS through their School," children under 13 years old may use ALEKS only if the child's parent or guardian has paid for such use with such parent or guardian's credit card; such payment is verifiable parental consent. Children under 13 years old are not permitted to use any ALEKS "guest" or "free trial" features, because we are unable to obtain verifiable parental consent for their use of such features. 
+> Except as described below under "Privacy Policies that Apply Only to Children from Kindergarten through 12th Grade Using ALEKS through their School," children under 13 years old may use ALEKS only if the child's parent or guardian has paid for such use with such parent or guardian's credit card; such payment is verifiable parental consent. Children under 13 years old are not permitted to use ALEKS without the parent or guardian's credit card payment unless the child's parent or guardian has provided another form of legally acceptable verifiable parental consent. 
 > 
 > We will not collect personally identifiable information from children under 13 without prior verifiable parental consent. We will not distribute to third parties any personally identifiable information collected from a child under 13 without prior verifiable parental consent. We will not give the ability to children under 13 to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent, and will make best efforts to prohibit a child from posting any such information. We will not entice a child under 13 by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in such activity.
 
