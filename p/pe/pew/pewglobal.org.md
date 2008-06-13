@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pewglobal.org privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026033425id_/http%3A//pewglobal.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewglobal.org privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613173624id_/http%3A//pewglobal.org/about/privacy) for the most accurate reproduction.*
 
 # Pew Global Attitudes Project: Privacy Policy
 
