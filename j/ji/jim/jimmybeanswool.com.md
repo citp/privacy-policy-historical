@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the jimmybeanswool.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215071905id_/http%3A//www.jimmybeanswool.com/secure-html/onlineec/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimmybeanswool.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613141808id_/http%3A//www.jimmybeanswool.com/secure-html/onlineec/privacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Jimmy Beans Wool
 
+|   
+  
 | jimmy beans wool privacy policy  
 ---  
 Jimmy Beans Wool takes your privacy seriously. Please read the following to learn about our privacy policy.  
@@ -31,7 +33,7 @@ Information Sharing and Disclosure
   
 Your Ability to Edit and Delete Your Account Information and Preferences   
 :: You can edit your personal information any time by making updates to your account profile. These changes are effective on the site immediately.   
-:: You can request that we delete your personal information by sending us an email request to [info@jimmybeanswool.com](mailto:info@jimmybeanswool.com). Please include your name and order number, if the order number is available.   
+:: You can request that we delete your personal information by sending us an email request to [info@JimmyBeansWool.com](mailto:info@JimmyBeansWool.com). Please include your name and order number, if the order number is available.   
 Confidentiality and Security   
 :: We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
 
@@ -40,4 +42,17 @@ Confidentiality and Security
 Changes to this Privacy Policy   
 :: Jimmy Beans Wool may update this policy. We will notify you about significant changes in the way we treat personal information by placing a notice on our site.   
 Questions and Suggestions   
-:: If you have questions or suggestions, please email us at [info@jimmybeanswool.com](mailto:info@jimmybeanswool.com)
+:: If you have questions or suggestions, please email us at [info@JimmyBeansWool.com](mailto:info@JimmyBeansWool.com)  
+  
+[](https://www.scanalert.com/RatingVerify?ref=www.jimmybeanswool.com) [](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.JIMMYBEANSWOOL.COM&lang=en)  [](http://www.bbbonline.org/cks.asp?id=10501261120744794)  [](http://usa.visa.com/)  [](http://www.mastercardmerchant.com/)  [](http://www.shopzilla.com/ratings_guide/cust_reviews__mid--184816.html)  
+---  
+   
+5000 smithridge drive #A11 :: reno, nv 89502  
+phone :: (775)827-YARN (9276)  
+toll free :: (877)JBW-KNIT (529-5648)  
+fax :: (801)740-7563  
+   
+Everything knitting including [yarn](http://www.jimmybeanswool.com/secure-html/onlineec/yarnsHome.asp), [needles](http://www.jimmybeanswool.com/secure-html/onlineec/needlesHome.asp), [kits](http://www.jimmybeanswool.com/secure-html/onlineec/kitsHome.asp), [sale yarn](http://www.jimmybeanswool.com/secure-html/onlineec/saleHome.asp), [free knitting patterns](http://www.jimmybeanswool.com/freeKnittingPatternScarvesToThrowMonth6.asp), and more!  
+  
+Endless Possibilities® is a registered trademark of jimmy beans wool  
+copyright 2003 - 2008 jimmy beans wool
