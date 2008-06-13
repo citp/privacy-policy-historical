@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokia.com.my privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211083253id_/http%3A//www.nokia.com.my/A4501036) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokia.com.my privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613171105id_/http%3A//www.nokia.com.my/A4501036) for the most accurate reproduction.*
 
 # Nokia Malaysia - Privacy policy - Default footer and common elements
 
@@ -69,6 +69,6 @@ Nokia may from time to time change this Policy or change, modify or withdraw acc
 
 **How to Contact Nokia:**
 
-To update your personal data or elect to opt-out of marketing communications from Nokia, please email [ apac.onlineteam@nokia.com](https://web.archive.org/web/20071211083253id_/http%3A//www.nokia.com.my/apac.onlineteam@nokia.com).
+To update your personal data or elect to opt-out of marketing communications from Nokia, please email [ apac.onlineteam@nokia.com](https://web.archive.org/web/20080613171105id_/http%3A//www.nokia.com.my/apac.onlineteam@nokia.com).
 
 © Copyright Nokia 2005. All Rights Reserved. Read our [ legal notice](https://web.archive.org/A4501035).
