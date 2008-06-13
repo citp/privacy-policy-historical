@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701185345id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613163158id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
 
 # FARK.com: Frequently Asked Questions: Legal Stuff
 
 > ### Fark Frequently Asked Questions (FAQ): Legal Stuff
 > 
-> [Back to top of FAQ](https://web.archive.org/web/20070701185345id_/http%3A//www.fark.com/farq/index.shtml)  
+> [Back to top of FAQ](https://web.archive.org/web/20080613163158id_/http%3A//www.fark.com/farq/index.shtml)  
 > 
 > 
->   * [ Legal Stuff](https://web.archive.org/web/20070701185345id_/http%3A//www.fark.com/farq/legal.shtml#Legal_Stuff)
->     * [ Fark's Legal and Privacy Statement](https://web.archive.org/web/20070701185345id_/http%3A//www.fark.com/farq/legal.shtml#Fark.27s_Legal_and_Privacy_Statement)
+>   * [ Legal Stuff](https://web.archive.org/web/20080613163158id_/http%3A//www.fark.com/farq/legal.shtml#Legal_Stuff)
+>     * [ Fark's Legal and Privacy Statement](https://web.archive.org/web/20080613163158id_/http%3A//www.fark.com/farq/legal.shtml#Fark.27s_Legal_and_Privacy_Statement)
 > 
 
 > 
