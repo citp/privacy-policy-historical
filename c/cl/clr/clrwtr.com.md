@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clrwtr.com privacy policy that was archived on 2007-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070816052046id_/http%3A//www.clrwtr.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clrwtr.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613091410id_/http%3A//www.clrwtr.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Clearwater Tech | Privacy Policy
 
