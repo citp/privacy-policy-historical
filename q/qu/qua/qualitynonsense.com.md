@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the qualitynonsense.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211092227id_/http%3A//www.qualitynonsense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitynonsense.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613081637id_/http%3A//www.qualitynonsense.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: Quality Nonsense
-
-### [Privacy Policy](http://www.qualitynonsense.com/privacy-policy/)
+# Privacy Policy
 
 This privacy policy explains what Quality Nonsense Ltd does with any data collected.
 
@@ -15,7 +13,3 @@ We may request data such as contact information, email address and demographic d
 This site contains links to other websites. Quality Nonsenes Ltd is not responsible for the content or privacy practices of these sites.
 
 Got questions about this privacy policy? Please [get in touch](http://qualitynonsense.com/contact).
-
-No comments yet.
-
-Sorry, the comment form is closed at this time.
