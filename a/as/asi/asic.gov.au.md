@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214221600id_/http%3A//www.asic.gov.au/asic/asic.nsf/byheadline/Privacy%3FopenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614011146id_/http%3A//www.asic.gov.au/asic/asic.nsf/byheadline/Privacy%3FopenDocument) for the most accurate reproduction.*
 
 # Australian Securities and Investments Commission - Privacy
 
@@ -13,7 +13,7 @@ When you browse our website, our service provider logs the following information
 
 We will not try to identify users or their browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider's logs.
 
-Our website is cookie-free. However, where we use an external survey provider that provider could use cookies on their website. If this is the case you will be directed to information on the provider's website explaining the use of cookies.
+Cookies are small pieces of information exchanged between your web browser and a website server. From time to time we may use cookies on our website to help us carry out online surveys. Where we use an external survey provider, that provider could use cookies on their website. If this is the case you will be directed to information on the provider's website explaining the use of cookies.
 
 We will only record your e-mail address if you send us an email message containing your email address or supply your email address as part of your contact details on an on-line application. It will not be automatically added to a mailing list. 
 
@@ -62,4 +62,4 @@ Read our privacy statements for the [Australian Financial Services Licence Appli
 
 We welcome your [feedback](mailto:feedback@asic.gov.au) about this Privacy Statement and about our site's design and practices.
 
-ASIC Website: Printed 12/15/2007 
+ASIC Website: Printed 06/14/2008 
