@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227151711id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613143829id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
 
-# Yohoho! Puzzle Pirates: Three Rings Privacy Policy
+# Puzzle Pirates: Three Rings Privacy Policy
 
 ## Contents
 
@@ -54,8 +54,6 @@ Three Rings may set and access Three Rings cookies on your computer.
 
 If you provide us with your e-mail address, we may send you e-mail from time to time. All e-mails from Three Rings will be strictly 'opt-out' communications, and will include a URL or email address where you can unsubscribe from future mailings. 
 
-You can delete your Three Rings account by visiting our Account Deletion page. 
-
 ## Confidentiality and Security
 
 Your Three Rings Account Information is password-protected. 
@@ -70,4 +68,4 @@ Three Rings may update this policy. We will notify you about significant changes
 
 ## Questions and Suggestions
 
-If you have questions or suggestions, please email us at [support@threerings.net](mailto:support@threerings.net "mailto:support@threerings.net"). 
+If you have questions or suggestions, please email us using the [Puzzle Pirates Support form](http://www.puzzlepirates.com/support "http://www.puzzlepirates.com/support"). 
