@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketlawyer.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225163736id_/http%3A//www.rocketlawyer.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketlawyer.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613021614id_/http%3A//www.rocketlawyer.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Rocket Lawyer Privacy Policy
 
@@ -15,7 +15,7 @@ This Statement of Privacy applies to the RocketLawyer.com website and governs da
   
 ### Collection of your Personal Information  
   
-Acendi Interactive Company may collect personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Acendi Interactive Company may also collect anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. 
+Acendi Interactive Company may collect personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Acendi Interactive Company may also collect anonymous demographic information, which is not unique to you, such as your Postal Code, age, gender, preferences, interests and favorites. 
 
 Information about your computer hardware and software also may be automatically collected by RocketLawyer.com. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by Acendi Interactive Company for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the RocketLawyer.com website. 
 
