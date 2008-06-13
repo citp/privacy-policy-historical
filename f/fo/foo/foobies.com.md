@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the foobies.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609145812id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foobies.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613163158id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
 
 # FARK.com: Frequently Asked Questions: Legal Stuff
 
 > ### Fark Frequently Asked Questions (FAQ): Legal Stuff
 > 
-> [Back to top of FAQ](https://web.archive.org/web/20070609145812id_/http%3A//www.fark.com/farq/index.shtml)  
+> [Back to top of FAQ](https://web.archive.org/web/20080613163158id_/http%3A//www.fark.com/farq/index.shtml)  
 > 
 > 
->   * [ Legal Stuff](https://web.archive.org/web/20070609145812id_/http%3A//www.fark.com/farq/legal.shtml#Legal_Stuff)
->     * [ Fark's Legal and Privacy Statement](https://web.archive.org/web/20070609145812id_/http%3A//www.fark.com/farq/legal.shtml#Fark.27s_Legal_and_Privacy_Statement)
+>   * [ Legal Stuff](https://web.archive.org/web/20080613163158id_/http%3A//www.fark.com/farq/legal.shtml#Legal_Stuff)
+>     * [ Fark's Legal and Privacy Statement](https://web.archive.org/web/20080613163158id_/http%3A//www.fark.com/farq/legal.shtml#Fark.27s_Legal_and_Privacy_Statement)
 > 
 
 > 
@@ -50,13 +50,13 @@
 > 
 
 > 
-> We will only use your personal information in the ways specified when it was collected. We will not subsequently change the way in which we use your personal information, unless you consent to the new usage. 
+> We will only use your personal information in the ways specified when it was collected. We will not subsequently change the way in which we use your personal information unless you consent to the new usage. 
 > 
 > **Security measures**
 > 
 > We protect the personal information you share with us. 
 > 
-> Authorized third party agents may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties, unless you have granted us permission to do so. 
+> Authorized third party agents may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties unless you have granted us permission to do so. 
 > 
 > **Data Retention**
 > 
