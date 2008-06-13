@@ -1,6 +1,25 @@
-> *The following text is extracted and transformed from the restek.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214203040id_/http%3A//www.restek.com/about_privpol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restek.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613190825id_/http%3A//www.restek.com/about_privpol.asp) for the most accurate reproduction.*
 
 # Restek -- Privacy Policy
+
+## CONTACT RESTEK
+
+Restek Corporation   
+110 Benner Circle  
+Bellefonte, PA, 16823  
+tel 814 353 1300  
+fax 814 353 1309
+
+webmaster@restek.com 
+
+This policy applies to the Web sites:  
+[http://www.restek.com](http://www.restek.com/)  
+[http://www.restekcorp.com](http://www.restek.com/)  
+[http://www.restekcoatings.com](http://www.restekcoatings.com/)  
+[http://www.silcosteel.com](http://www.restekcoatings.com/)  
+("our Web sites")
+
+It explains the types of user information that we collect, how it is used, who uses it, and what our site visitors can control in this process. 
 
 **What is collected:**  
 Our Web server automatically recognizes and records certain information about users, including domain name, geographic location, computer operating system, Web browser, and aggregate information about pages accessed. We collect information volunteered by users, such as name, telephone number, mailing address, and e-mail address. We use this information to provide more efficient service and improve the content and organization of our Web site. 
@@ -16,7 +35,7 @@ The information we collect is used to improve our Web sites and to contact consu
 
 If you provide your e-mail address to us, you may receive e-mail from us relating to new products and services or upcoming events. Also, technical assistance may be provided via e-mail, and surveys and questionnaires that help us offer better products and services in the future. You can request that we do not send e-mail to you. 
 
-As a service, Restek publishes and distributes free technical literature in both print and electronic forms. Customers who wish to do so can subscribe to our [eLiterature service](https://web.archive.org/web/20071214203040id_/http%3A//www.restek.com/subscriber.asp) by completing a brief survey. 
+As a service, Restek publishes and distributes free technical literature in both print and electronic forms. Customers who wish to do so can subscribe to our [eLiterature service](https://web.archive.org/web/20080613190825id_/http%3A//www.restek.com/subscriber.asp) by completing a brief survey. 
 
 If you supply us with your telephone number online, you may receive telephone contact from us for order confirmation or technical assistance. Also, you may receive telephone contact from us with information regarding new products and services or upcoming events. You can request that we do not call you. 
 
