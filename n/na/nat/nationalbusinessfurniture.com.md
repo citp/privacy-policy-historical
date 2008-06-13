@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalbusinessfurniture.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214203741id_/http%3A//www.nationalbusinessfurniture.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalbusinessfurniture.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614005851id_/http%3A//www.nationalbusinessfurniture.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Security Policy at National Business Furniture
 
@@ -17,6 +17,10 @@ If you enter your credit card information to purchase chairs from NBF.com, that 
 We protect our databases using numerous physical, technical and procedural measures and restrict access to your information by unauthorized persons. Our information systems are preserved behind a software firewall to separate them from access by other networks connected to the Internet. All information transmitted through NBF.com is maintained on our secure server. Secure Sockets Layer (SSL) technology is the electronic commerce standard for securing information as it is sent over the Internet. SSL technology is formulated to encrypt your information, and thus prevent an unauthorized party from viewing and downloading this material. Your web browser should display a web address with an "https" prefix, signifying that the SSL technology is functioning when using specific portions of our site (such as the checkout process). 
 
 You can click on the VeriSign logo below to verify that our SSL Certificate is valid. 
+
+     
+
+[ ](https://www.scanalert.com/RatingVerify?ref=www.nationalbusinessfurniture.com)
 
 NBF.com has been able to grow and expand its product line with its direct marketing efforts. In order to reach customers who would benefit from our products we do rent other companies' customer lists and, in turn, we occasionally rent our customer list to carefully selected companies. Information shared in this process consists only of company name and address. **NBF.com does not rent or sell email addresses or phone numbers.** Your email address and phone number will only be used for order confirmations, to communicate about your order and for the company's email newsletters. We appreciate your business and want to keep you as a valued customer of NBF.com. If you would prefer we not share your information with other companies, please [email us](https://web.archive.org/ContactUs.aspx) (please allow 4 – 6 weeks for this process). If you would like to opt-out of receiving our email newsletters, please [email us](https://web.archive.org/ContactUs.aspx). 
 
