@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcpo.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215082425id_/http%3A//www.wcpo.com/legal/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcpo.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613063350id_/http%3A//www.wcpo.com/legal/default.aspx) for the most accurate reproduction.*
 
 # Terms & Conditions - Cincinnati breaking news, weather radar, traffic from 9News | Channel 9 WCPO.com
 
