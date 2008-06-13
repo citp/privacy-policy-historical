@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229160838id_/http%3A//www.appliedlanguage.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613230757id_/http%3A//www.appliedlanguage.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Translation Services Company - Language Translation Agency
 
