@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slideshare.net privacy policy that was archived on 2007-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071222075924id_/http%3A//www.slideshare.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideshare.net privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613121339id_/http%3A//www.slideshare.net/privacy) for the most accurate reproduction.*
 
-# SlideShare » About (share powerpoint presentations online, slideshows, slide shows, download presentations, widgets, MySpace codes)
+# SlideShare » Privacy Policy (SlideShare is the best place to share powerpoint presentations)
 
 SlideShare Privacy Policy
 
@@ -34,11 +34,11 @@ If you have any questions about this policy, please feel free to [contact us](ht
 
 **Jonathan Boutelle** ,   
 Principal, Uzanto Consulting LLC,   
-655 W. Evelyn Ave,   
-Mountain View CA 94041,   
-email: jon@uzanto.com   
-Telephone: 650-564-0000   
-Fax: 877-801-8097 
+**SlideShare Inc.**  
+739 Bryant Street,   
+San Francisco, CA 94107,   
+Phone: 415 777 5770   
+Fax: 415 789 4358 
 
   
 
