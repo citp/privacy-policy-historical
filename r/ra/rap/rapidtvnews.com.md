@@ -1,16 +1,31 @@
-> *The following text is extracted and transformed from the rapidtvnews.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024175239id_/http%3A//rapidtvnews.com/link.asp%3Fsmenu%3D115%26twindow%3DDefault%26mad%3DNo%26pform%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidtvnews.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613212503id_/http%3A//rapidtvnews.com/index.php/privacy-policy.html) for the most accurate reproduction.*
 
-# Rapid TV News, Chris Forrester Editor, Telecoms, DTT, Mobile, Interactive Industry News
+# Privacy Policy - Rapid TV News
 
-Rapid TV News Privacy Policy  
+****Adrienne Pitman, on 06-12-2007
 
+Statement: Effective from 15 February 2007 
 
-Statement: Effective from 15 February 2007 When using the Rapid TV News website data may be collect about you and how you use the website. Data maybe collected as follows: 1 – Members section, entering competitions, sursveys, voting, promotions, if you register for Rapid TV News updates, apply for jobs or email Rapid TV News you will supply information about yourself. The information supplied you will have to agree too, if you choose not to share the information with Rapid TV News you may not be able to access all sections of the website. 2 – Rapid TV News may collect information about your use of our website anonymously by using cookies. Cookies are small text/data files which will be sent to your browser. In most cases browsers accept cookies; though they can be deleted, so that you do not receive any cookies in the future. Any information that may be collected from cookies will usually not be cross referenced with other information supplied. 3 – Internet Protocol (IP) addresses of visitors to our website will be automatically logged on a server. IP addresses maybe used to observe visits to our website and/or assist with resolving any technical problems that the Rapid TV News website experience. 4 - Rapid TV News will not disclose the information supplied to third parties Without prior consent. On all pages where personal data is collected, specific details on the use of this information will be provided. You can also request not to receive marketing information from Rapid TV News. 5 - Data Protection The purpose and principles for collating data is to ensure good use of and allow Rapid TV News to improve the website. The data may be retained for administrative, security and/or legal reasons. You have the right to access your information held by Rapid TV News and, where necessary, to have it amended. For more details, please contact: Administration, Rapid TV News (Data Protection), Church Studios, 50 Church Road, London NW10 9PY or email admin@RapidTVNews.com 6 - Chatrooms and Forums Rapid TV News website provides chatrooms and forums. As such these services are open public arenas available for public discussions. Any personal information supplied by you during these discussions is widely accessible. Rapid TV News is not responsible for the content posted by you when using these services. 7 - Links to other websites This website contains links to other sites that are completely unrelated to Rapid TV News. This privacy policy does not apply to these sites nor are Rapid TV News responsible for the content and practices of these websites. 8 - Under 16 Age Prior to providing any details or information if you are under 16 permission of a parent/guardian has to be obtained. Without this consent you are not permitted to provide Rapid TV News with any personal details. 9 - Changes to our privacy policy This privacy policy statement may be subject to change at any time, so you may wish to check it each time you visit our website. 
+When using the _Rapid TV News_ website data maybe collected about you and how you use the website. Data may be collected as follows: 
 
-[](https://web.archive.org/web/20071024045734id_/http://rapidtvnews.com/email_this_story.asp?smenu=115&sdetail=&wpage=1)   [](https://web.archive.org/web/20071024045734id_/http://rapidtvnews.com/print_this_story.asp?smenu=115&sdetail=)  
+1 - Members section, entering competitions, surveys, voting, promotions. If you register for _Rapid TV News_ updates or email _Rapid TV News_ you will supply information about yourself. The information supplied you will have to agree to. If you choose not to share the information with _Rapid TV News_ you may not be able to access all sections of the website. 
+
+2 - _Rapid TV News_ may collect information about your use of our website anonymously by using cookies. Cookies are small text/data files, which will be sent to your browser. In most cases browsers accept cookies. They can be deleted, so that you do not receive any cookies in the future. Any information that may be collected from cookies will usually not be cross-referenced with other information supplied. 
+
+3 - Internet Protocol (IP) addresses of visitors to our website will be automatically logged on a server. IP addresses may be used to observe visits to our website and/or assist with resolving any technical problems that the _Rapid TV News_ website experiences. 
+
+4 - _Rapid TV News_ will not disclose the information supplied to third parties without prior consent. On all pages, where personal data is collected, specific details on the use of this information will be provided. You can also request not to receive marketing information from _Rapid TV News_. 
+
+5 - Data Protection. The purpose and principles for collating data is to ensure good use of and allow _Rapid TV News_ to improve the website. The data may be retained for administrative, security and/or legal reasons. You have the right to access your information held by _Rapid TV News_ and, where necessary, to have it amended. For more details, please contact: Administration, Rapid TV News (Data Protection), Church Studios, 50 Church Road, London NW10 9PY or email [admin@RapidTVNews.com.](mailto:admin@RapidTVNews.com.) 
+
+6 - Chat rooms and Forums: _Rapid TV News_ website provides chat rooms and forums. As such these services are open public arenas available for public discussions. Any personal information supplied by you during these discussions is widely accessible. _Rapid TV News_ is not responsible for the content posted by you when using these services. 
+
+7 - Links to other websites. This web site contains links to other sites that are completely unrelated to Rapid TV News. This privacy policy does not apply to these sites nor is _Rapid TV News_ responsible for the content and practices of these websites. 
+
+8 - Under 16 Age:   Prior to providing any details or information: If you are under 16 permission of a parent/guardian has to be obtained. Without this consent you are not permitted to provide _Rapid TV News_ with any personal details. 
+
+9 - Changes to our privacy policy This privacy policy statement may be subject to change at any time, so you may wish to check it each time you visit our website.    
+
   
----  
- **  more** . . . **Privacy Policy**  
-[ Rapid TV News Privacy Policy](https://web.archive.org/web/20071024045734id_/http://rapidtvnews.com/link.asp?smenu=115&twindow=Default&sdetail=476&mad=No&wpage=1&skeyword=&sidate=)  
-[ Rapid TV News Privacy Policy](https://web.archive.org/web/20071024045734id_/http://rapidtvnews.com/link.asp?smenu=115&twindow=Default&sdetail=475&mad=No&wpage=1&skeyword=&sidate=)  
+  
 
