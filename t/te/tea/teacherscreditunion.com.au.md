@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacherscreditunion.com.au privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215205736id_/http%3A//www.teacherscreditunion.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherscreditunion.com.au privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613220916id_/http%3A//www.teacherscreditunion.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Teachers Credit Union's Privacy Policy
 
@@ -50,7 +50,7 @@ We may need to source information about you from a third party; for example, a c
 
 We may provide you with information from time to time about new products and services available to you from NSW Teachers Credit Union, or other businesses with whom we have a relationship. 
 
-Your consent to our providing this information to you will be implied unless you notify us that you do not wish to receive this information. You may do this by completing the [Request Not to Receive Marketing Information](https://web.archive.org/pdf/167i.pdf) or by contacting us and advising that you do not wish to receive marketing information.
+Your consent to our providing this information to you will be implied unless you notify us that you do not wish to receive this information. You may do this by contacting us and advising that you do not wish to receive marketing information.
 
 ##### Information we are required to send to you
 
