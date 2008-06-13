@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooksongold.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028151911id_/http%3A//www.cooksongold.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksongold.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613165817id_/http%3A//www.cooksongold.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # Security & Privacy - Cooksongold.com
 
