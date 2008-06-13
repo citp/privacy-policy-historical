@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediatraffic.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227203859id_/http%3A//mediatraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediatraffic.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614011744id_/http%3A//www.mediatraffic.com/privacy.php) for the most accurate reproduction.*
 
 # Media Traffic
 
@@ -62,11 +62,11 @@ While we use SSL encryption to protect sensitive information online, protect all
 
 By using the mediatraffic.com Web site, you consent to the collection, storage, and dissemination of personal data as described above. We will post any changes to our privacy policy on this page so you can readily review the most current policy. mediatraffic.com reserves the right to e-mail you regarding changes to our privacy policy or any other matters mediatraffic.com considers necessary for the administration of the site.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the change on our member information page [or by emailing our Customer Support at EMAIL ADDRESS] or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the change on our member information page [or by [Contacting Us](http://mediatraffic.com/contact.php)] or by contacting us by telephone or postal mail at the contact information listed below.
 
 ## 7\. How to Contact Us
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page, by emailing our Customer Support at support@mediatraffic.com or by using the following contact information:
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by sending us a message on our [Contact Us](http://mediatraffic.com/contact.php) form or by using the following contact information:
 
 Media Traffic Agency  
 3300 Cote Vertu Suite 406  
