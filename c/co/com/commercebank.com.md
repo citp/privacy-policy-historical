@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213064330id_/http%3A//www.commercebank.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613082129id_/http%3A//www.commercebank.com/privacy.asp) for the most accurate reproduction.*
 
-# Commerce Bank | Serving Missouri, Kansas, Illinois and Oklahoma
+# Commerce Bank | Serving Missouri, Kansas, Illinois, Oklahoma and Colorado
 
-[](https://web.archive.org/rd.asp?loc=/privacy.asp&id=ad_careers&url=15&pop=n)
-
-| 
-
+| [](http://www.commercebank.com/about/careers/careers.asp)  
+---  
+   
+[](http://www.commercebank.com/about/privacy/default.asp)  
+  
 Protecting your privacy is important to Commerce and to our employees. We want you to understand what information we collect and how we use it. In order to provide our customers with a broad range of financial products and services as effectively and conveniently as possible, we use technology to manage and maintain customer information. This policy serves as a standard for all Commerce employees for collection, use, retention, and security of nonpublic personal information. 
 
 **WHAT INFORMATION WE COLLECT**
@@ -88,8 +89,6 @@ _HOW TO TELL US NOT TO SHARE THIS INFORMATION WITH OUR AFFILIATES_
 > CBI Insurance Company
 > 
 > CBI Leasing, Inc.
-> 
-> Mid-America Financial Corp.
 
 **IF YOU CEASE TO BE OUR CUSTOMER**
 
