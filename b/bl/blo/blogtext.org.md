@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogtext.org privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214011013id_/http%3A//www.blogtext.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtext.org privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613172745id_/http%3A//www.blogtext.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,4 +17,4 @@ With respect to cookies: We use cookies to store visitors’ preferences.
 
 Concerning Ad Servers: Blogtext makes use of Google Adsense technology to create specific text ads that relate to the context of the given blog page. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click stream information. For further information, consult the privacy policies of: <http://www.google.com/privacy.html>
 
-With respect to security: We have appropriate security measures in place at our physical facilities to protect against the loss, misuse, or alteration of any and all information that we collect and maintain.
+With respect to security: We have appropriate security measures in place at our physical facilities to protect against the loss, misuse, or alteration of any and all information that we collect and maintain. 
