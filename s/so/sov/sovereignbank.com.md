@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sovereignbank.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214232136id_/http%3A//www.sovereignbank.com/companyinfo/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignbank.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613034145id_/http%3A//www.sovereignbank.com/companyinfo/privacy_policy.asp) for the most accurate reproduction.*
 
-# Sovereign Bank | Sovereign Bancorp, Inc. Privacy Policy
+# Sovereign Bancorp, Inc. Privacy Policy | Sovereign Bank
 
 |  |  [Privacy Policy](https://web.archive.org/companyinfo/privacy_policy.asp "Privacy Policy") |   
 ---|---|---  
@@ -15,7 +15,7 @@ Effective September 30, 2007
 **About Sovereign Bancorp, Inc.**  
 This Privacy Statement is effective September 30, 2007, and takes the place of any previous privacy policies issued by Sovereign Bancorp, Inc., or any of its affiliates/subsidiaries or divisions.
 
-Sovereign Bancorp, Inc.’s affiliates/subsidiaries include, but are not limited to:
+Sovereign Bancorp, Inc.'s affiliates/subsidiaries include, but are not limited to:
 
   * Sovereign Bank®—divisions of Sovereign Bank include, but are not limited to: Nantucket Bank, Bank of Martha’s Vineyard, and SI Bank & Trust
   * Sovereign Agency, LLC
@@ -26,7 +26,7 @@ Sovereign Bancorp, Inc.’s affiliates/subsidiaries include, but are not limited
 
 
 
-The terms “we,” “our” and “us” in this Privacy Statement refer to Sovereign and/or its banking and other affiliates/subsidiaries.  
+The terms "we," "our" and "us" in this Privacy Statement refer to Sovereign and/or its banking and other affiliates/subsidiaries.  
   
 |  |   
 ---|---|---  
@@ -47,12 +47,12 @@ The types of personal information we collect and share depend on the product or 
 
 When you close your account, we continue to share information about you according to our policies.
 
-NOTE: We may disclose all the kinds of information described in this section to companies we hire to perform marketing services on our behalf, or to other financial institutions with which we have joint marketing agreements, such as insurance companies and brokerage firms. We refer to these companies as “marketing partners.” Please note that, should you decide to take advantage of such an offer from one of our marketing partners, you will become a customer of our marketing partner for that product offering, and will be covered by our marketing partner’s privacy policy.
+NOTE: We may disclose all the kinds of information described in this section to companies we hire to perform marketing services on our behalf, or to other financial institutions with which we have joint marketing agreements, such as insurance companies and brokerage firms. We refer to these companies as "marketing partners." Please note that, should you decide to take advantage of such an offer from one of our marketing partners, you will become a customer of our marketing partner for that product offering, and will be covered by our marketing partner's privacy policy.
 
 **How?**  
-All financial companies need to share customers’ personal information to run their everyday business—to process transactions, maintain customer accounts, and report to credit bureaus. In the section below, we list reasons financial companies can share their customers’ personal information; the information Sovereign chooses to share; and whether you can limit this sharing.
+All financial companies need to share customers' personal information to run their everyday business—to process transactions, maintain customer accounts, and report to credit bureaus. In the section below, we list reasons financial companies can share their customers' personal information; the information Sovereign chooses to share; and whether you can limit this sharing.
 
-NOTE: If you select Sovereign’s Wealth Management Division to act as a trustee or a fiduciary, information about your trust account(s) is safeguarded, even within our own family of companies. This information is kept completely confidential, and we will not share it for marketing or solicitation purposes without your specific consent.
+NOTE: If you select Sovereign's Wealth Management Division to act as a trustee or a fiduciary, information about your trust account(s) is safeguarded, even within our own family of companies. This information is kept completely confidential, and we will not share it for marketing or solicitation purposes without your specific consent.
 
 | 
 
@@ -98,7 +98,7 @@ Yes
 
 No*  
   
-For our affiliates’ everyday business purposes—information about your transactions and experiences
+For our affiliates' everyday business purposes—information about your transactions and experiences
 
 | 
 
@@ -108,7 +108,7 @@ Yes
 
 No  
   
-For our affiliates’ everyday business purposes—information about your creditworthiness
+For our affiliates' everyday business purposes—information about your creditworthiness
 
 | 
 
@@ -118,7 +118,7 @@ Yes
 
 Yes  
   
-For nonaffiliates to market non-financial institutions’ products or services to you
+For nonaffiliates to market non-financial institutions' products or services to you
 
 | 
 
@@ -156,7 +156,7 @@ We collect your personal information, for example, when you:
 
 We also collect your personal information from others, such as credit bureaus, affiliates, or other companies. For online banking customers, we may use cookies, which are pieces of data that help web sites recognize return visitors, to personalize and enrich your online visits with us and to collect site visitation statistics. Sovereign or its service providers may also use tracer technology, which are third-party cookies. If you are uncomfortable with our use of cookie technology, you can set your browser to refuse cookies. However, some of our services depend on cookies and you may not be able to use those services by refusing cookies.
 
-**Why can’t I limit all sharing?**  
+**Why can't I limit all sharing?**  
 Federal law gives you the right to limit sharing only for:
 
   * Affiliates to market to you
