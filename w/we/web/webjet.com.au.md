@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230035703id_/http%3A//webjet.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613140548id_/http%3A//www.webjet.com.au/about/privacy) for the most accurate reproduction.*
 
 # Webjet Travel - Online airfares at cost price for all airlines - Webjet.com.au
 
@@ -27,8 +27,6 @@ SSL is a protocol that provides communications privacy, authentication and messa
 Note, only those pages that require you to insert private information are secured.
 
 To make a Websure claim, [click here](mailto:%20mtyrrell@safetrade.com.au) to email SafeTrade and ensure you indicate your booking date and booking reference number.
-
- ****
 
 This privacy policy statement has been made in accordance with amendments to the Federal Government Privacy Amendment (Private Sector) Act 2000 (New Privacy Laws) which took effect from 21 December 2001. Webjet has consulted with and engaged the services of Gadens Lawyers in assisting us in this process.
 
