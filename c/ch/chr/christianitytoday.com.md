@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216224921id_/http%3A//www.christianitytoday.com/dispatch.html%3Fcode%3Dnavigation%26url%3D/help/features/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613024625id_/http%3A//www.christianitytoday.com/dispatch.html%3Fcode%3Dnavigation%26url%3D/help/features/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Help & Info
 
@@ -66,7 +66,7 @@ CTI offers free services such as "e-mail this page" and e-cards. We collect the 
 Other Entities  
 Companies that are independent from CTI operate many of the online areas that you may visit via links from ChristianityToday.com. Although CTI will seek to require that these independent companies (e.g., information and paid subscription service providers, advertisers, merchants, and contest or sweepstakes sponsors) adhere to our strong privacy principles, CTI does not bear responsibility for their policies or actions. Please read their unique site privacy policies.
 
-Certain CTI Internet services are co-branded (such as ChurchSiteCreator.com) and offered in conjunction with another company. If you register to use such services, both CTI and the other company may receive the information you provide.
+Certain CTI Internet services and websites are co-branded (such as [ChurchSiteCreator.com](http://churchsitecreator.com/templates/cuscti/default.asp?id=27256) and [Faith in the Workplace](https://web.archive.org/workplace/)) and offered in conjunction with another company. If you register to use such services or subscribe to their e-mail newsletter, both CTI and the other company may receive the information you provide.
 
 Many CTI online stores are hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you access one of these stores through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
 
