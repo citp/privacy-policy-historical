@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214225735id_/http%3A//www.spirithalloween.com/index.cfm/fuseaction/content.page/nodeID/638347c3-8b32-4640-bee8-0776629b6ae4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613100345id_/http%3A//www.spirithalloween.com/index.cfm/fuseaction/content.page/nodeID/638347c3-8b32-4640-bee8-0776629b6ae4) for the most accurate reproduction.*
 
 # Privacy Policy at Spirit Halloween
 
@@ -17,6 +17,8 @@ _General_
   * When you register for Spirit, we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. When you register with Spirit and sign in to our services, you are not anonymous to us. 
   * Spirit collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
   * Spirit uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+  * _Spirit_ _has arranged with  PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the  collection of customer product reviews on products sold by Spirit. When you submit a product review to Spirit, you  are also subject to PowerReviews' terms of use and privacy policies (see   _<http://www.buzzillions.com/public/legal/index_en_US.html)>_.  Accordingly, you should review those policies prior to submitting a review.   Also, reviews you submit may be posted on both _[http://www.Buzzillions.com](http://www.buzzillions.com/ "http://www.buzzillions.com/")_  and our site._
+
 
 
 
