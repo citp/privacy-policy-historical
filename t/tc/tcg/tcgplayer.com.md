@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215104431id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613135816id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
 
 # TCGplayer.com: Tradable and Collectible Game Player
 
@@ -101,14 +101,41 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-[Submit@TCGplayer.com](mailto:submit@TCGplayer.com) All original content herein is Copyright 2000-2006 **Ascension Gaming Network, Inc.**  
+[Submit@TCGplayer.com](mailto:submit@TCGplayer.com) All original content herein is Copyright 2000-2008 **Ascension Gaming Network, Inc.**  
 No portion of this web site may be used in any way without expressed written consent.  
 All rights reserved.  
 [Privacy Policy](https://web.archive.org/privacy.asp)  
 
 
-|  |  | LATEST DREAMBLADE ARTICLE  
+|  | 
+
+  
+| LATEST WoW TCG ARTICLE  
 ---  
+  
+|  **[Gingerbread Eclipse](http://wow.tcgplayer.com/db/article.asp?ID=2385)**  
+---  
+  
+Before the sun sets over SotB, I want to take a last stab at a priest build that was always right there in front of everybody but never made it in the way other archetypes did.   
+  
+LATEST YGO ARTICLE  
+---  
+  
+|  **[Reclaiming the Gold](http://yugioh.tcgplayer.com/db/article.asp?ID=2023)**  
+---  
+  
+With the release of Light of Destruction, a new Tier One deck emerge in the form of Lightsworn, and with the added playability of the Gladiator Beast deck, it's time to take a fresh look at Dark Armed Dragon.   
+  
+LATEST DREAMBLADE ARTICLE  
+---  
+LATEST VS ARTICLE  
+---  
+  
+|  **[The Source: JSA #16](http://vs.tcgplayer.com/db/article.asp?ID=2472)**  
+---  
+  
+Justice Society of America is without a doubt one of the best titles flying off DC’s production line. Seriously, JSA and JLA have been far better reads over the course of the past two years than 52, Countdown to Final Crisis or any other major cross title release.   
+  
 LATEST SPOILS ARTICLE  
 ---  
   
