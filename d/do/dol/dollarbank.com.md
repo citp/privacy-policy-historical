@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the dollarbank.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214130838id_/http%3A//dollarbank.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarbank.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614003052id_/http%3A//www.dollarbank.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Dollar Bank: Online banking in Pittsburgh and Cleveland
 
-Dollar Bank Privacy Policy Disclosure
+  
+|    
 
-Effective 07/01/2007
+
+Dollar Bank Privacy Policy Disclosure
 
 At Dollar Bank, we take seriously our obligation to keep your information confidential. Dollar Bank will not sell or otherwise release customer information to third parties for their marketing purposes. You do not have to sign anything to get this protection. You get it automatically by being a customer of Dollar Bank.
 
@@ -27,4 +29,6 @@ On our website (dollarbank.com) we obtain information from visitors only through
 
 We hope you can see how much we care about protecting your privacy. This policy has not been significantly altered from its introduction in 2001, and material changes made in the future will be highlighted for you. If you have any questions regarding the use of your customer information, please contact us at 1-800-242-1616.
 
-[](https://web.archive.org/web/20071214130838id_/http%3A//dollarbank.com/ContactUs.html)
+[](https://web.archive.org/web/20080614003052id_/http%3A//www.dollarbank.com/ContactUs.html)
+
+Back to top
