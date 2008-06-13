@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarwinds.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215085622id_/http%3A//www.solarwinds.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarwinds.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613115032id_/http%3A//www.solarwinds.com/privacy.aspx) for the most accurate reproduction.*
 
 # Solarwinds - Privacy Policy
 
@@ -9,11 +9,11 @@ The use of this SolarWinds Website is conditioned upon the User's acceptance of 
   1. Data Collection  
 User should be aware that portions of this Website contain functions for collecting the User's personal information including User's name and email address as well as User's accessing history of this Website. SolarWinds may also collect and track non-personally identifiable information about User including User's IP address, the type of browser User employs, and the referrer ID.
   2. Entry by User  
-Certain areas of this Website will require entry by the User of certain personal information as indicated above. SolarWinds requires that the actual User input such information and that such information be the most recent available. In addition, User may request that SolarWinds modify or delete User's registered information by sending an email to [webmaster@solarwinds.net](mailto:webmaster@solarwinds.net) with the words "UPDATE USER INFORMATION" in the subject line.
+Certain areas of this Website will require entry by the User of certain personal information as indicated above. SolarWinds requires that the actual User input such information and that such information be the most recent available. In addition, User may request that SolarWinds modify or delete User's registered information by sending an email to [webmaster@solarwinds.com](mailto:webmaster@solarwinds.com) with the words "UPDATE USER INFORMATION" in the subject line.
   3. Use of User Information  
 SolarWinds reserves the right to compile, save, use within the scope of SolarWinds' activities, and analyze any and all User data (registration data, use history, etc.). SolarWinds intends to use such User data for internal purposes only, including without limitation for the purposes of responding to User's requests for information and for contacting User. SolarWinds may provide aggregated statistics about users (including User) to third parties, but such information will be aggregated so that it does not identify a particular individual or company, including User.
   4. Choice/Opt Out  
-SolarWinds may periodically send User information regarding SolarWinds, its products and services. If User has been receiving such information and does not wish to continue receiving such information, please contact SolarWinds at [webmaster@solarwinds.net](mailto:webmaster@solarwinds.net) and let SolarWinds know that User no longer wishes to receive such information. Alternatively, you can simply reply to an email from SolarWinds and type "REMOVE" in the subject line.
+SolarWinds may periodically send User information regarding SolarWinds, its products and services. If User has been receiving such information and does not wish to continue receiving such information, please contact SolarWinds at [webmaster@solarwinds.com](mailto:webmaster@solarwinds.com) and let SolarWinds know that User no longer wishes to receive such information. Alternatively, you can simply reply to an email from SolarWinds and type "REMOVE" in the subject line.
   5. Disclosure of User Information  
 SolarWinds will, to the extent possible, control User information, and, except as otherwise set forth herein, not disclose such User information to third parties. However, in the event disclosure of any User information by SolarWinds is required by law, SolarWinds may disclose such User information without the consent of User.
   6. Cookies  
@@ -28,5 +28,5 @@ This Privacy Policy and the Terms of Use of the Website constitute the complete 
 
 
 
-Copyright 2006 SolarWinds.net, Inc. All Rights Reserved.  
+Copyright 2006 SolarWinds, Inc. All Rights Reserved.  
 Last Updated 10/31/2006 
