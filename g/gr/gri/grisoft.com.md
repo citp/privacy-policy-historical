@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the grisoft.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220213538id_/http%3A//www.grisoft.com/doc/privacy/us/crp/0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grisoft.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613220149id_/http%3A//www.grisoft.com/ww.privacy) for the most accurate reproduction.*
 
 # AVG Anti-Virus and Internet Security - Privacy Policy
 
-**This Privacy Policy applies to all personally identifiable information obtained from or about the registered users (end user data), and related to or arising from the use of the GRISOFT websites. These websites are maintained by GRISOFT s.r.o. in Brno, the Czech Republic. GRISOFT s.r.o. is also the data collector. End user data may be considered personal information pursuant to the Czech Act no. 101/2000 Coll., on the protection of personal information, as amended (hereinafter the "Act"). GRISOFT fully complies with the Act and expends the maximum effort to protect such personal information.**
+_Please be informed that as of January 21st, 2008 Grisoft, s.r.o.'s corporate name has changed to AVG Technologies CZ, s.r.o. This is a name change only: all links, references, legal, contractual and privacy obligations of Grisoft, s.r.o. will remain unchanged._
 
-GRISOFT, as a security software producer, understands your desire to protect personal information and is committed to its protection. We respect your right to privacy and we have provided you this Privacy Policy to inform you how your personal information will be collected, tracked, stored, used, and protected, and to give you choices as to what personal information you wish to share with us. 
+**This Privacy Policy applies to all personally identifiable information obtained from or about the registered users (end user data), and related to or arising from the use of the AVG Technologies websites. These websites are maintained by AVG Technologies CZ, s.r.o. in Brno, the Czech Republic. AVG Technologies CZ, s.r.o. is also the data collector. End user data may be considered personal information pursuant to the Czech Act no. 101/2000 Coll., on the protection of personal information, as amended (hereinafter the "Act"). AVG Technologies fully complies with the Act and expends the maximum effort to protect such personal information.**
 
-## What Information Does GRISOFT Collect and Track?
+AVG Technologies, as a security software producer, understands your desire to protect personal information and is committed to its protection. We respect your right to privacy and we have provided you this Privacy Policy to inform you how your personal information will be collected, tracked, stored, used, and protected, and to give you choices as to what personal information you wish to share with us.
+
+## What Information Does AVG Technologies Collect and Track?
+
+  
+
 
 ### Information Collected and Stored Automatically
 
@@ -20,7 +25,7 @@ If you submit an order on-line with us, we ask you for information necessary to 
 
 If you request technical support on-line, we ask you for information necessary to complete the transaction, such as your name address and information about your computer hardware, software (including your License Number), and the nature of the problem you are experiencing.
 
-If you wish to create a user account, we ask you for information necessary to keep you informed about GRISOFT products and services with regard to your needs, such as your e-mail address.
+If you wish to create a user account, we ask you for information necessary to keep you informed about AVG Technologies products and services with regard to your needs, such as your e-mail address.
 
 If you wish to register a product, we ask you for information necessary to respond to your future queries and to provide support, such as your name, surname, e-mail address, and country.
 
@@ -30,7 +35,7 @@ You decide whether to proceed with any activity that requests personal informati
 
 We use personal information in the following ways and for the following limited purposes:
 
-  * To provide you with information about virus alerts, product upgrades, new products, services, research on future product ideas or improvements, to send newsletters, informative e-mails or other information which has the nature of business announcements. GRISOFT reserves the right to use customers' contact information to send them information it deems important for the full utilization of its products and services. Every registered customer may choose not to receive such information from GRISOFT by simply replying to any message to that effect (with the exception of messages which are necessary for the functionality of our products and services);
+  * To provide you with information about virus alerts, product upgrades, new products, services, research on future product ideas or improvements, to send newsletters, informative e-mails or other information which has the nature of business announcements. AVG Technologies reserves the right to use customers' contact information to send them information it deems important for the full utilization of its products and services. Every registered customer may choose not to receive such information from AVG Technologies by simply replying to any message to that effect (with the exception of messages which are necessary for the functionality of our products and services);
   * To assist us in creating content that is relevant to you; 
   * To provide you with special offers that may be of interest to you; 
   * To assist us in creating better, customized products and services to meet your needs; 
@@ -41,11 +46,11 @@ We use personal information in the following ways and for the following limited 
 
 
 
-GRISOFT, including our offices (subsidiaries and affiliates) abroad to which your personal data are made accessible, retain the personal information collected through GRISOFT website, including your personal information that you submit through a registration process, for as long as you are registered at any GRISOFT website through a user account or are a user of GRISOFT products, and for a reasonable time thereafter, unless and until you have recalled your consent with the processing of your personal information. 
+AVG Technologies, including our offices (subsidiaries and affiliates) abroad to which your personal data are made accessible, retain the personal information collected through AVG Technologies website, including your personal information that you submit through a registration process, for as long as you are registered at any AVG Technologies website through a user account or are a user of AVG Technologies products, and for a reasonable time thereafter, unless and until you have recalled your consent with the processing of your personal information. 
 
 ## Security
 
-We have taken security measures, consistent with international information practices, to protect your personal information. These measures include technical and procedural steps and measures to protect your personal information from misuse, unauthorized access or disclosure, loss, alteration, or destruction. All information you provide to us is stored on our secure servers. Credit card information is transmitted using secure socket layer (SSL) encryption. We use industry-standard encryption to enhance the security of data transmissions and have implemented commercially available technologies to guard against unauthorized access to any personal information that is stored electronically by GRISOFT. We restrict access to personal information about you to those GRISOFT employees who need to know the information for the purposes described in this Privacy Policy. 
+We have taken security measures, consistent with international information practices, to protect your personal information. These measures include technical and procedural steps and measures to protect your personal information from misuse, unauthorized access or disclosure, loss, alteration, or destruction. All information you provide to us is stored on our secure servers. Credit card information is transmitted using secure socket layer (SSL) encryption. We use industry-standard encryption to enhance the security of data transmissions and have implemented commercially available technologies to guard against unauthorized access to any personal information that is stored electronically by AVG Technologies. We restrict access to personal information about you to those AVG Technologies employees who need to know the information for the purposes described in this Privacy Policy.
 
 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. If you share a computer with anyone, always log out before leaving a website or service to protect access to your information from subsequent users.
 
@@ -53,65 +58,66 @@ Unfortunately, no transmission of information over the internet can be guarantee
 
 ## With Whom Do We Share Your Information?
 
-Except as described in this Privacy Policy, we will not disclose users’ personal information outside of GRISOFT and its controlled subsidiaries and affiliates without your consent. GRISOFT will expend the maximum effort to protect users' personal information against misuse and will refrain from disclosing it to third parties. 
+Except as described in this Privacy Policy, we will not disclose users’ personal information outside of AVG Technologies and its controlled subsidiaries and affiliates without your consent. AVG Technologies will expend the maximum effort to protect users' personal information against misuse and will refrain from disclosing it to third parties. 
 
-Through some GRISOFT websites, by selecting a region (language) option, you may be asked to share your personal information, such as your e-mail contact, with selected local GRISOFT partners, such as distributors (the full list of which is available at our local websites) so that they can contact you, on our behalf, about GRISOFT products, services or offers that we believe are important to you or your business and to provide you a local technical and customer support. We encourage you to read our partners' privacy policies before providing your personal information.
+Through some AVG Technologies websites, by selecting a region (language) option, you may be asked to share your personal information, such as your e-mail contact, with selected local AVG Technologies partners, such as distributors (the full list of which is available at our local websites) so that they can contact you, on our behalf, about AVG Technologies products, services or offers that we believe are important to you or your business and to provide you a local technical and customer support. We encourage you to read our partners' privacy policies before providing your personal information.
 
-GRISOFT retains the services of outside contractors to provide limited services on our behalf us, such as shipping products or handling order processing, processing transactions (including credit card transactions), or performing statistical analysis of our services. It may be necessary to share user personal information with these contractors in order to allow them to provide their services. You have the right not to provide the requested information, but in such case you may not be able to receive these services. Those contractors will be permitted to obtain only the personal information they need to deliver the service and we require that they keep the personal information of our customers secure and confidential and comply with the Act. We also require that these contractors use our customers' personal information only on behalf of GRISOFT and do not disclose them to third parties or use them for any other purpose.
+AVG Technologies retains the services of outside contractors to provide limited services on our behalf us, such as shipping products or handling order processing, processing transactions (including credit card transactions), or performing statistical analysis of our services. It may be necessary to share user personal information with these contractors in order to allow them to provide their services. You have the right not to provide the requested information, but in such case you may not be able to receive these services. Those contractors will be permitted to obtain only the personal information they need to deliver the service and we require that they keep the personal information of our customers secure and confidential and comply with the Act. We also require that these contractors use our customers' personal information only on behalf of AVG Technologies and do not disclose them to third parties or use them for any other purpose.
 
-Please be advised that in certain instances it may be necessary for GRISOFT to disclose your personal information if we believe such action is necessary to:  
-(a) comply with law or legal process served on GRISOFT;  
-(b) protect and defend the rights, property or legitimate interests of GRISOFT (including the enforcement of our agreements); or  
-(c) act in urgent circumstances to protect the personal safety of users of GRISOFT services or members of the public. 
+Please be advised that in certain instances it may be necessary for AVG Technologies to disclose your personal information if we believe such action is necessary to:  
+(a) comply with law or legal process served on AVG Technologies;  
+(b) protect and defend the rights, property or legitimate interests of AVG Technologies (including the enforcement of our agreements); or  
+(c) act in urgent circumstances to protect the personal safety of users of AVG Technologies services or members of the public.
 
-### Other Offices of GRISOFT 
+### Other Offices of AVG Technologies 
 
-Since GRISOFT is a global company, we provide information on GRISOFT products users to our worldwide offices (subsidiaries and affiliates) which are listed at [www.grisoft.com/doc/contacts](http://www.grisoft.com/doc/contacts/us/crp/0). The personal information that you have provided to us may be made accessible to these GRISOFT offices for marketing and customer relationship management purposes. Also, in certain countries our outside contractors might undertake the collection, transferring, storage and processing of your information. By using a GRISOFT website, product or service, you consent to any such disclosure to and use of personal information that you have provided, by GRISOFT worldwide offices. 
+Since AVG Technologies is a global company, we provide information on AVG Technologies products users to our worldwide offices (subsidiaries and affiliates) which are listed at [www.grisoft.com/doc/contacts](http://www.grisoft.com/ww.contacts). The personal information that you have provided to us may be made accessible to these AVG Technologies offices for marketing and customer relationship management purposes. Also, in certain countries our outside contractors might undertake the collection, transferring, storage and processing of your information. By using an AVG Technologies website, product or service, you consent to any such disclosure to and use of personal information that you have provided, by AVG Technologies worldwide offices. 
 
 ## How Can You Correct Inaccuracies in the Information?
 
+  
+
+
 ### Registration 
 
-We strive to process only accurate personal information and make a sincere effort to respond to your requests to update or correct your personal information. If you believe that GRISOFT does not have your current personal information, you can update it by contacting GRISOFT Sales Team at [http://www.grisoft.com/doc/support-sales-form](http://www.grisoft.com/doc/support-sales-form/us/crp/0)
+We strive to process only accurate personal information and make a sincere effort to respond to your requests to update or correct your personal information. If you believe that AVG Technologies does not have your current personal information, you can update it by contacting AVG Technologies Sales Team at [http://www.grisoft.com/doc/support-sales-form](http://www.grisoft.com/ww.support-sales-form-direct)
 
-Please be advised that in accordance with the Act, every user (customer) who has provided personal information to GRISOFT may ask GRISOFT to advise of the scope of information GRISOFT processes about him or her, the purpose and nature of the processing and the recipients of the information.
+Please be advised that in accordance with the Act, every user (customer) who has provided personal information to AVG Technologies may ask AVG Technologies to advise of the scope of information AVG Technologies processes about him or her, the purpose and nature of the processing and the recipients of the information.
 
 ## AVG Update Bulletin and Other E-mail Communications 
 
-If you do not wish to continue receiving our e-mail newsletters, bulletins, or other information from GRISOFT, you can at any time unsubscribe them in the subject line of your e-mail or contact us at [http://www.grisoft.com/doc/support-sales-form](http://www.grisoft.com/doc/support-sales-form/us/crp/0). Please be aware that our e-mails may include important or useful information about your product, including information about your License Number or the status of your orders or accounts, and that we do not allow our customers to opt out of communication that is required for the functionality of our products and services.
+If you do not wish to continue receiving our e-mail newsletters, bulletins, or other information from AVG Technologies, you can at any time unsubscribe them in the subject line of your e-mail or contact us at [http://www.grisoft.com/doc/support-sales-form](http://www.grisoft.com/ww.support-sales-form-direct). Please be aware that our e-mails may include important or useful information about your product, including information about your License Number or the status of your orders or accounts, and that we do not allow our customers to opt out of communication that is required for the functionality of our products and services.
 
 ## Cookies
 
-GRISOFT may use cookies from time to time. A cookie is a unique text file that a website can send to your browser software. Cookies enable a website to tailor information presented to you based on your browsing preferences. GRISOFT may use cookies to personalize your pages at our Service & Support website, or to remember you when you register for products or services. If you do not want GRISOFT to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use some of the products and/or services at our website.
+AVG Technologies may use cookies from time to time. A cookie is a unique text file that a website can send to your browser software. Cookies enable a website to tailor information presented to you based on your browsing preferences. AVG Technologies may use cookies to personalize your pages at our Service & Support website, or to remember you when you register for products or services. If you do not want AVG Technologies to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use some of the products and/or services at our website.
 
-GRISOFT may also use cookies to track your visit to our website. While our web servers may automatically log your IP address, this information does not identify you and you remain anonymous.We do not correlate this information with your personal information.
+AVG Technologies may also use cookies to track your visit to our website. While our web servers may automatically log your IP address, this information does not identify you and you remain anonymous. We do not correlate this information with your personal information.
 
 ## Links to other companies 
 
-From time to time, GRISOFT websites may contain links to and from websites of our partner networks, advertisers or other third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies before you submit any personal data to these websites.
+From time to time, AVG Technologies websites may contain links to and from websites of our partner networks, advertisers or other third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies before you submit any personal data to these websites.
 
 ## Co-branded websites
 
-We also link to co-branded websites that are maintained by GRISOFT and one or more of our business partners. An example of a co-branded website is GRISOFT’s e-shop. When you submit information to one of our co-branded websites, you may be submitting it to both GRISOFT and our business partners and the privacy policies of these co-branded websites may differ from this Privacy Policy. We encourage you to read the privacy policies on any co-branded website to which you link, and we disclaim any liability for the data processing activities of our business partners which will act as independent data processing controllers.
+We also link to co-branded websites that are maintained by AVG Technologies and one or more of our business partners. An example of a co-branded website is AVG Technologies’s e-shop. When you submit information to one of our co-branded websites, you may be submitting it to both AVG Technologies and our business partners and the privacy policies of these co-branded websites may differ from this Privacy Policy. We encourage you to read the privacy policies on any co-branded website to which you link, and we disclaim any liability for the data processing activities of our business partners which will act as independent data processing controllers.
 
 ## Discussion Groups and Forums
 
-Please remember that information you submit in a discussion group or forum at any GRISOFT website will be deemed public information and is not confidential. There is a risk in such communication venues that various information and data can be collected and used by others. Please be careful and responsible when you are on-line.
+Please remember that information you submit in a discussion group or forum at any AVG Technologies website will be deemed public information and is not confidential. There is a risk in such communication venues that various information and data can be collected and used by others. Please be careful and responsible when you are on-line.
 
 ## Changes of Privacy Policy
 
 We reserve the right to amend or update this Privacy Policy from time to time without notice, in particular in response to changes in applicable data protection and privacy legislation. Please check this Privacy Policy periodically to inform yourself of any changes. All updates will be published at this website.
 
-In the event there is a major change to GRISOFT's privacy practices, a prominent notice will be posted on our website prior to its implementation. If the change involves the use of your personal information, the notice will contain instructions on how you can opt out of such use.
+In the event there is a major change to the AVG Technologies privacy practices, a prominent notice will be posted on our website prior to its implementation. If the change involves the use of your personal information, the notice will contain instructions on how you can opt out of such use.
 
 ## Language
 
-This Privacy Policy was originally prepared in the English language. Although GRISOFT may provide one or more translations for your convenience, the English version will control in the case of any conflict or discrepancy.
+This Privacy Policy was originally prepared in the English language. Although AVG Technologies may provide one or more translations for your convenience, the English version will control in the case of any conflict or discrepancy.
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our Privacy Policy, please contacts us at [http://www.grisoft.com/doc/support-sales-form](http://www.grisoft.com/doc/support-sales-form/us/crp/0)
+If you have any questions or suggestions regarding our Privacy Policy, please contacts us at [http://www.grisoft.com/doc/support-sales-form](http://www.grisoft.com/ww.support-sales-form-direct)
 
-Version: 1.0 Date: 11/09/07
-
-* * *
+Version: 1.1 Date: 2008-02-05
