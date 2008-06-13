@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the veracode.com privacy policy that was archived on 2007-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213222104id_/http%3A//www.veracode.com/content/view/46/56) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the veracode.com privacy policy that was archived on 2008-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080613155522id_/http%3A//www.veracode.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Privacy Policy&nbsp;-&nbsp;Veracode</title>
+<title>Privacy Policy</title>
 <meta name="description" content="Veracode is the industrys first provider of automated, on-demand application security solutions. Created by a world-class team of application security experts from @stake, Guardent, ISS, VeriSign and Symantec, the company delivers services to identify software flaws introduced through coding errors or malicious intent.">
 <meta name="keywords" content="Veracode">
 <meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2006 Open Source Matters. All rights reserved.">
@@ -11,53 +11,10 @@
 	<link rel="shortcut icon" href="http://www.veracode.com/images/favicon.ico">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <script type="text/javascript" language="javascript" src="http://www.veracode.com/templates/jh_veracode/js/swfobject.js"></script>
-<script language="javascript1.2">
-
-// uncompress a query string into an object so you can do server-side like stuff in javascript.
-
-function objectFromQueryString(query) {
- var params = new Object();
- var pairs = query.split("&");
- for (var i = 0; i < pairs.length; i++) {
- var pos = pairs[i].indexOf('=');
- if (pos == -1) continue;
- var argname =pairs[i].substring(0,pos);
- var value = pairs[i].substring(pos + 1);
- params[argname] = unescape(value);
- }
-return params;
-}
-
-function GetCookie (name) {  
-var arg = name + "=";  
-var alen = arg.length;  
-var clen = document.cookie.length;  
-var i = 0;  
-while (i < clen) {    
-var j = i + alen;    
-if (document.cookie.substring(i, j) == arg)      
-return getCookieVal (j);    
-i = document.cookie.indexOf(" ", i) + 1;    
-if (i == 0) break;   
-}  
-return null;
-}
-
-function getCookieVal(offset) {
-var endstr = document.cookie.indexOf (";", offset);
-if (endstr == -1)
-endstr = document.cookie.length;
-return unescape(document.cookie.substring(offset, endstr));
-}
-
-
-a = objectFromQueryString(location.search.substring(1));
-if (a["thankyou"]=="yes") {
-  document.write ('Thank you for registering. Please click on the document title to download a PDF.');
-}
-</script>
+<script type="text/javascript" language="javascript" src="http://www.veracode.com/templates/jh_veracode/js/cookies.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.veracode.com/templates/jh_veracode/js/gen_validatorv2.js"></script>
 <link href="http://www.veracode.com/templates/jh_veracode/css/template_css.css" rel="stylesheet" type="text/css">
-<link href="http://www.veracode.com/templates/jh_veracode/css/veracodeCSS.css" rel="stylesheet" type="text/css">
+<link href="http://www.veracode.com/templates/jh_veracode/css/veracodecss.css" rel="stylesheet" type="text/css">
 <link href="http://www.veracode.com/templates/jh_veracode/css/indexStyle.css" rel="stylesheet" type="text/css">
 <!--[if lte IE 6]> 
 <style type="text/css"> 
@@ -66,12 +23,15 @@ if (a["thankyou"]=="yes") {
 }
 </style><![endif]-->
 <script language="JavaScript" src="http://www.landingpg.com/lp-tracking/lp.js"></script>
+<script src="images/js/swfobject.js" type="text/javascript"></script>
 </head>
 <body id="subPage2Col" class="">
 <a name="top" id="top"></a>
 <div id="container">
+
+
   <div id="header">
-    <div id="search" style="float: right; margin-top: 35px; padding-right: 10px;">
+    <div id="search">
       <form action="index.php" method="get">
         <input type="hidden" value="view" name="task">
         <input type="hidden" value="com_search" name="option">
@@ -80,18 +40,20 @@ if (a["thankyou"]=="yes") {
         <input name="searchword" id="searchword" type="searchform">
         <input type="submit" value="Search">
       </form>
+    <a href="about/contact-us.html"><img src="/images/contact-us.gif" alt="Contact Us"></a>
     </div>
     <a href="index.php"><img src="http://www.veracode.com/templates/jh_veracode/images/veracode.logo.gif" alt="Veracode" name="logo" id="logo"></a>
-    <ul id="menu">
-      <li><a href="/solutions" id="solutions">Solutions</a></li>
-      <li><a href="/ratings" id="ratings">Ratings</a></li>
-      <li><a href="/resources" id="resources">Resources</a></li>
-      <li><a href="/partners" id="partners">Partners</a></li>
-      <li><a href="/newsevents" id="news">News</a></li>
-      <li style="width:124px;"><a href="/about" id="about">About</a></li>
+    <ul id="menu_new">
+      <li><a href="/solutions" id="solutions_new">Solutions</a></li>
+      <li><a href="/ratings" id="ratings_new">Ratings</a></li>
+      <li><a href="/resources" id="resources_new">Resources</a></li>
+      <li><a href="/customers" id="customers_new">Customers</a></li>
+      <li><a href="/partners" id="partners_new">Partners</a></li>
+      <li><a href="/newsevents" id="news_new">News</a></li>
+      <li><a href="/about" id="about_new">About</a></li>
     </ul>
   </div>
-    <div id="content">
+    <div id="content" style="padding-top: 0px; background: #FFFFFF;">
         <div id="leftColumn">
       		<div class="module">
 			<div>
@@ -103,27 +65,23 @@ if (a["thankyou"]=="yes") {
 		</div>
 		    </div>
         <div id="rightColumn">
-      				<table class="contentpaneopen">
-			<tbody><tr>
-								<td class="contentheading" width="100%">
-					Privacy Policy									</td>
-							</tr>
-			</tbody></table>
-			
+
+      	
 		<table class="contentpaneopen">
 				<tbody><tr>
 			<td valign="top" colspan="2">
 				<div id="columnContent">
+<div class="contentheading3">Privacy Policy</div>
 Veracode respects your right to privacy and your right to limit information exchanges to only those you initiate, if you so desire. We do acquire certain personal information from private individuals in the course of business. We use this information to better serve you and facilitate your use of our Web site. Veracode may also acquire a private individual's personal information from registration forms or email messages to us. The Veracode Web server also records visitor IP addresses and domain names for reporting and site usage analysis. This information is reported internally and then purged when required. If you supply Veracode with your email address, postal address or phone number through our site you may receive promotional or informational communications from Veracode. If you prefer not to receive communications from Veracode or if you have any questions about how we use the information you provide, please contact us at 
  <script language="JavaScript" type="text/javascript">
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy62692 = 'w&#101;bm&#97;st&#101;r' + '&#64;';
- addy62692 = addy62692 + 'v&#101;r&#97;c&#111;d&#101;' + '&#46;' + 'c&#111;m';
- var addy_text62692 = 'w&#101;bm&#97;st&#101;r' + '&#64;' + 'v&#101;r&#97;c&#111;d&#101;' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy62692 + '\'>' );
- document.write( addy_text62692 );
+ var addy4491 = 'w&#101;bm&#97;st&#101;r' + '&#64;';
+ addy4491 = addy4491 + 'v&#101;r&#97;c&#111;d&#101;' + '&#46;' + 'c&#111;m';
+ var addy_text4491 = 'w&#101;bm&#97;st&#101;r' + '&#64;' + 'v&#101;r&#97;c&#111;d&#101;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy4491 + '\'>' );
+ document.write( addy_text4491 );
  document.write( '<\/a>' );
  //-->\n </script><a href="mailto:webmaster@veracode.com">webmaster@veracode.com</a><script language="JavaScript" type="text/javascript">
  <!--
@@ -145,11 +103,15 @@ Veracode respects your right to privacy and your right to limit information exch
 
 		<span class="article_seperator">&nbsp;</span>
 
-		      
+		      <div class="cleaner">&nbsp;</div>
+
+
       <div class="cleaner">&nbsp;</div>
+
+            <div class="cleaner">&nbsp;</div>
+
     </div>
     <div class="cleaner">&nbsp;</div>
-  </div>
     <div id="footer">
     <div id="innerfooter">
       <div id="copy">
@@ -157,7 +119,7 @@ Veracode respects your right to privacy and your right to limit information exch
 			<div>
 				<div>
 					<div>
-						© 2007 Veracode, Inc. | 4 Van de Graaff Drive, Burlington, MA 01803 (781) 425-6040
+						© 2006-2008 Veracode, Inc. | 4 Van de Graaff Drive, Burlington, MA 01803 (781) 425-6040
 <script type="text/javascript" src="http://www.google-analytics.com/urchin.js">
 </script>
 <script type="text/javascript">
@@ -178,9 +140,14 @@ urchinTracker();</script>
 			</div>
 		</div>
 		      </div>
+      <div class="cleaner">&nbsp;</div>
+        <div id="bottext">
+        	</div>
+       </div>
     </div>
   </div>
 </div>
+<!-- End of SEO code -->
 <!-- Start of HubSpot Logging Code  -->
 <script type="text/javascript" language="javascript">
 var hs_portalid=351; 
