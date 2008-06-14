@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsj.net privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215110129id_/http%3A//online.wsj.com/public/page/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsj.net privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614085336id_/http%3A//online.wsj.com/public/page/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - WSJ.com
 
@@ -51,6 +51,28 @@ We may disclose and use personally identifiable information in special circumsta
 
 * * *
 
+**CAREERS/CAREERJOURNAL on WSJ.com:**
+
+Our Careers/Career Journal section on WSJ.com ("Careers") offers a collection of third party services, such as career counseling, reference checks, recruiter databases and other services, through links located on our site. Some of these third-party services, including those found in the Marketplace section of CareerJournal, are co-branded and have the CareerJournal logo. These services, even when co-branded, have separate privacy practices and you should carefully review the privacy policies published on the service providers' web sites. 
+
+Careers offers you the opportunity to create a resume and store it on our resume database. When you store your resume on our system, you can choose one of the following options: 
+
+  * You can store your resume in our database, and not allow it to be searchable by employers or recruiters. If you choose this option, your resume will not be available to employers unless you ask us to provide it.
+  * You can hide your contact information, but allow your resume to be searchable and viewable by employers or recruiters. Should you elect not to share your contact information with employers, but to allow your resume to be searchable, we will forward responses from interested recruiters or employers to you. 
+  * You can allow your resume, including your name and contact information, to be searchable and viewable by employers or recruiters.
+
+
+
+IF YOU ELECT TO MAKE YOUR RESUME VIEWABLE BY EMPLOYERS, ALL INFORMATION (INCLUDING PERSONALLY IDENTIFIABLE INFORMATION) THAT YOU INCLUDE IN YOUR RESUME MAY BE VIEWED BY RECRUITERS AND EMPLOYERS. YOU SHOULD NOT ENTER ANY INFORMATION IN THE BODY OF YOUR RESUME THAT YOU WISH TO REMAIN CONFIDENTIAL. 
+
+We do not screen the credentials of employers or recruiters before allowing them to conduct searches in our database. Dow Jones is not responsible for the retention, use or privacy practices of that employer or recruiter after it has received your information. 
+
+You may remove your resume from our searchable database at any time. However, third parties who accessed the database or obtained a copy of your resume may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use or privacy of resumes in these instances. 
+
+Careers offers you the opportunity to sign up for job search alerts. If you would like to review, change or delete your resume or job search alert, you can do so by signing in to that portion of our web site and following directions to edit. 
+
+* * *
+
 **THIRD PARTY AND CORPORATE SUBSCRIPTIONS**
 
 If your access to the Services is provided by your employer or a third party, we may notify your employer or that third party when you access the Services. In doing so, we may reveal limited amounts of your personally identifiable information such as your name or email address. In some cases, your employer or the third party providing your access may provide us with limited amounts of personal information about you to facilitate your access to the Services and so that we may identify you when providing it with user and usage information. 
@@ -77,7 +99,7 @@ If you subscribe to the Services, you may occasionally receive email messages ab
 
 **YOUR ABILITY TO CHOOSE**
 
-We offer you the opportunity to choose whether to receive certain communications from us at the time you give us your personally identifiable information. If you subscribe to The Wall Street Journal Online, you may update your communication preferences by visiting our [E-Mail Center](http://wsj.com/email/). You are always able to update your communication preferences by contacting Customer Service at [onlinejournal@wsj.com](mailto:onlinejournal@wsj.com), or [onlinesupport@barrons.com](https://web.archive.org/web/20071215110129id_/http%3A//online.wsj.com/public/page/onlinesupport@barrons.com), or by calling us at 1-800-369-2834. 
+We offer you the opportunity to choose whether to receive certain communications from us at the time you give us your personally identifiable information. If you subscribe to The Wall Street Journal Online, you may update your communication preferences by visiting our [E-Mail Center](http://wsj.com/email/). You are always able to update your communication preferences by contacting Customer Service at [onlinejournal@wsj.com](mailto:onlinejournal@wsj.com), or [onlinesupport@barrons.com](https://web.archive.org/web/20080614085336id_/http%3A//online.wsj.com/public/page/onlinesupport@barrons.com), or by calling us at 1-800-369-2834. 
 
 You may decline to receive "Advantage" messages as set out above. 
 
@@ -129,7 +151,7 @@ Your information may be stored and processed in the United States or any other c
 
 If you have any questions, comments or concerns about our Privacy Policy, you may contact us at **[onlinejournal@wsj.com](mailto:onlinejournal@wsj.com)** or **[onlinesupport@barrons.com](mailto:onlinesupport@barrons.com)**. 
 
-This policy was last updated on Jan 30, 2007.   
+This policy was last updated on Jan 23, 2008.   
 
 
 | 
