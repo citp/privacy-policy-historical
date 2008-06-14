@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idt.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216034910id_/http%3A//www.idt.com%3Fid%3D101%26source%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idt.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614080239id_/http%3A//www.idt.com%3Fid%3D101%26source%3Dfooter) for the most accurate reproduction.*
 
 # Integrated Device Technology
 
