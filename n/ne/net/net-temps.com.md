@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the net-temps.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215194653id_/http%3A//www.net-temps.com/about/index.htm%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net-temps.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614092136id_/http%3A//www.net-temps.com/about/index.htm%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
 # About Net-Temps
 
@@ -71,6 +71,21 @@ We may disclose personal information when required by law or in the good-faith b
 
 **Resume Posting**  
 When you post your resume, you have the option of suppressing your contact information. You also have the ability of making the resume active or non-active. An active resume will be accessible to all employers and recruiters who pay for access to our resume database product. We use our best efforts to grant access to this database only to paying employers, recruiters, hiring managers, headhunters, and human resource professionals, but cannot guarantee that other parties will not, without our consent, gain access to this database. You may remove your resume from our searchable database by deleting the resume or by making it inactive. However, employers and recruiters who have paid for access to the database, and other parties who have otherwise gained access to the database, may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes in these instances, or for the use or privacy of resumes by any of such parties while resumes are in the database.
+
+**Privacy Protection Tips**  
+Net-Temps recommends that you follow these guidelines when applying to a job or posting a resume online: 
+
+  * Never include your social security number.
+  
+
+  * Never disclose personally identifying information such as marital status or physical descriptions like eye color or weight when it does not relate to the job.
+  
+
+  * Do not put down any financial information including bank accounts or credit cards.
+  
+
+  * Use caution when communicating with employers outside of the country.
+  
 
 **Change/Modify Job Seeker Profile and Resume Information**  
 This site gives job seeker users options for changing and modifying information previously provided. Login to your Job Seekers Desktop at <http://my.net-temps.com/login.html> and select 'My Profile' to modify account information. To edit specific resume information, select 'Access Resumes'.
