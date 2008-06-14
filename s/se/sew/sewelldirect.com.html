@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sewelldirect.com privacy policy that was archived on 2007-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071027030319id_/http%3A//sewelldirect.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sewelldirect.com privacy policy that was archived on 2008-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080614034100id_/http%3A//sewelldirect.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_masterHeader"><title>
 	Privacy Policy
@@ -16,15 +16,87 @@
         resizeSpecsFloat();
     }
     function resizeSpecsFloat() {}
-    function init() {}
+    function ajaxSightmaxRequest(url, action) {
+        var xmlHttp;
+        try
+        {
+            // Firefox, Opera 8.0+, Safari
+            xmlHttp=new XMLHttpRequest();
+        }
+        catch (e)
+        {
+            // Internet Explorer
+            try
+            {
+                xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+            }
+            catch (e)
+            {
+                try
+                {
+                    xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+                }
+                catch (e)
+                {
+                    //alert("We're sorry, but your browser does not support this feature.");
+                    return false;
+                }
+            }
+        }
+
+        if (action == 0)
+        {
+            xmlHttp.onreadystatechange=function()
+            {
+	            if(xmlHttp.readyState==4)
+                {
+	                if (xmlHttp.status==200)
+	                {
+		                try
+		                {
+		                    if (xmlHttp.getResponseHeader("Content-length") == "5004")
+		                    {
+	                            document.getElementById("imgLiveSupport").src = "/siteimages/layout/supportOn.jpg";
+	                        }
+	                        else
+	                        {
+	                            document.getElementById("imgLiveSupport").src = "/siteimages/layout/supportOff.jpg";
+	                        }
+	                    } 
+	                    catch(e) {document.getElementById("imgLiveSupport").src = "/siteimages/layout/supportOff.jpg";}
+	                }
+                }
+            }
+        }
+        else if (action == 1)
+        {
+            xmlHttp.onreadystatechange=function()
+	        {
+  	            if(xmlHttp.readyState==4)
+                {
+                    if (xmlHttp.status==200)
+                    {
+	                    //document.write(xmlHttp.responseText);
+	                    //var e = document.createElement("script");
+	                    //e.innerHTML = xmlHttp.responseText;
+	                    //e.type="text/javascript";
+	                    //document.getElementsByTagName("head")[0].appendChild(e);
+                    }
+                }
+            }
+        }
+        xmlHttp.open("GET",url,true);
+        xmlHttp.send(null);
+    }    
+    function init() { ajaxSightmaxRequest("/SightMaxAgentInterface/chat.smgif?accountID=1&amp;siteID=1&amp;queueID=7", 0); }
     </script>
-    <link rel="stylesheet" href="/css/googleCheckout.css" type="text/css" media="screen">
     <script type="text/javascript" src="/javascript/site.js"></script>
     <!--[if !IE 7]>
     <script type="text/javascript" language="javascript">
         function init() {
             window.onresize = resizeContainingBlock;
             resizeContainingBlock();
+            ajaxSightmaxRequest("/SightMaxAgentInterface/chat.smgif?accountID=1&siteID=1&queueID=7", 0);
         }
         
         function resizeContainingBlock() {
@@ -51,6 +123,7 @@
         function init() {
             window.onresize = resizeContainingBlock;
             resizeContainingBlock();
+            ajaxSightmaxRequest("/SightMaxAgentInterface/chat.smgif?accountID=1&siteID=1&queueID=7", 0);
         }
         
         function resizeContainingBlock() {
@@ -92,8 +165,15 @@
         </script>
         <![endif]-->
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="revisit-after" content="7 days"><meta name="robots" content="all"><meta name="keywords" content=""><meta name="description" content=""></head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="robots" content="all"><meta name="keywords" content=""><meta name="description" content=""></head>
 <body onload="javascript: init();">
+    <div id="modalBackground" class="modalBackground"></div>
+    
+    <div id="sightMaxPanel" class="modalPopup" style="width: 400px">
+                <div style="float:right; margin-top: 2px; margin-right: 2px"><a href="javascript: hideModalPopup('sightMaxPanel')"><img src="/siteimages/layout/ajax/closeWindowBlue.gif" alt="Close"></a></div>
+                <div id="sightMaxPopupHeader" class="modalPopupHeader"><strong>Please choose a department to chat with</strong></div>
+                <div id="sightMaxContent"></div>
+    </div>
     
     <div class="absolute" id="shoppingCart">
         <a href="/cart.aspx"><img src="/siteimages/layout/cart.jpg" alt="" style="vertical-align: middle">
@@ -104,24 +184,28 @@
     <div id="mainContainer">
         <div id="centerArea">
         <div id="categories">
-            <table class="categoryTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="categoryHeader">Categories</td></tr><tr style="height: 5px"><td><!-- --></td></tr><tr><td onclick="javascript: location.href='/Accessories'"><a href="/Accessories">Accessories</a></td></tr><tr><td onclick="javascript: location.href='/Audio'"><a href="/Audio">Audio</a></td></tr><tr><td onclick="javascript: location.href='/BagsandCases'"><a href="/BagsandCases">Bags and Cases</a></td></tr><tr><td onclick="javascript: location.href='/Baluns'"><a href="/Baluns">Baluns</a></td></tr><tr><td onclick="javascript: location.href='/Bluetooth'"><a href="/Bluetooth">Bluetooth</a></td></tr><tr><td onclick="javascript: location.href='/Displays'"><a href="/Displays">Displays</a></td></tr><tr><td onclick="javascript: location.href='/DVI'"><a href="/DVI">DVI</a></td></tr><tr><td onclick="javascript: location.href='/Eco-FriendlyProducts'"><a href="/Eco-FriendlyProducts">Eco-Friendly Products</a></td></tr><tr><td onclick="javascript: location.href='/ExpressCard'"><a href="/ExpressCard">ExpressCard</a></td></tr><tr><td onclick="javascript: location.href='/FiberOptics'"><a href="/FiberOptics">Fiber Optics</a></td></tr><tr><td onclick="javascript: location.href='/FileTransfer'"><a href="/FileTransfer">File Transfer</a></td></tr><tr><td onclick="javascript: location.href='/FireWire'"><a href="/FireWire">FireWire</a></td></tr><tr><td onclick="javascript: location.href='/Gaming'"><a href="/Gaming">Gaming</a></td></tr><tr><td onclick="javascript: location.href='/GPIB'"><a href="/GPIB">GPIB</a></td></tr><tr><td onclick="javascript: location.href='/GPS'"><a href="/GPS">GPS</a></td></tr><tr><td onclick="javascript: location.href='/HDMI'"><a href="/HDMI">HDMI</a></td></tr><tr><td onclick="javascript: location.href='/iPhoneAccessories'"><a href="/iPhoneAccessories">iPhone Accessories</a></td></tr><tr><td onclick="javascript: location.href='/iPodAccessories'"><a href="/iPodAccessories">iPod Accessories</a></td></tr><tr><td onclick="javascript: location.href='/KVM'"><a href="/KVM">KVM</a></td></tr><tr><td onclick="javascript: location.href='/MiceKeyboards'"><a href="/MiceKeyboards">Mice &amp; Keyboards</a></td></tr><tr><td onclick="javascript: location.href='/Networking'"><a href="/Networking">Networking</a></td></tr><tr><td onclick="javascript: location.href='/Other'"><a href="/Other">Other</a></td></tr><tr><td onclick="javascript: location.href='/Parallel'"><a href="/Parallel">Parallel</a></td></tr><tr><td onclick="javascript: location.href='/PCIPCMCIA'"><a href="/PCIPCMCIA">PCI/PCMCIA</a></td></tr><tr><td onclick="javascript: location.href='/Power'"><a href="/Power">Power</a></td></tr><tr><td onclick="javascript: location.href='/ProAudio'"><a href="/ProAudio">Pro Audio</a></td></tr><tr><td onclick="javascript: location.href='/SCSI'"><a href="/SCSI">SCSI</a></td></tr><tr><td onclick="javascript: location.href='/SDIOCFIO'"><a href="/SDIOCFIO">SDIO/CFIO</a></td></tr><tr><td onclick="javascript: location.href='/Security'"><a href="/Security">Security</a></td></tr><tr><td onclick="javascript: location.href='/Serial'"><a href="/Serial">Serial</a></td></tr><tr><td onclick="javascript: location.href='/SerialATA'"><a href="/SerialATA">Serial ATA</a></td></tr><tr><td onclick="javascript: location.href='/Software'"><a href="/Software">Software</a></td></tr><tr><td onclick="javascript: location.href='/Storage'"><a href="/Storage">Storage</a></td></tr><tr><td onclick="javascript: location.href='/USB'"><a href="/USB">USB</a></td></tr><tr><td onclick="javascript: location.href='/VGA'"><a href="/VGA">VGA</a></td></tr><tr><td onclick="javascript: location.href='/Video'"><a href="/Video">Video</a></td></tr><tr><td onclick="javascript: location.href='/VideoCards'"><a href="/VideoCards">Video Cards</a></td></tr><tr><td onclick="javascript: location.href='/VoIP'"><a href="/VoIP">VoIP</a></td></tr></tbody></table><table class="categoryTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="categoryHeader">Manufacturers</td></tr><tr style="height: 5px"><td><!-- --></td></tr><tr><td onclick="javascript: location.href='/AccellCables'"><a href="/AccellCables">Accell Cables</a></td></tr><tr><td onclick="javascript: location.href='/Advantek'"><a href="/Advantek">Advantek</a></td></tr><tr><td onclick="javascript: location.href='/AITech'"><a href="/AITech">AITech</a></td></tr><tr><td onclick="javascript: location.href='/AudioAuthority'"><a href="/AudioAuthority">Audio Authority</a></td></tr><tr><td onclick="javascript: location.href='/Audio-Technica'"><a href="/Audio-Technica">Audio-Technica</a></td></tr><tr><td onclick="javascript: location.href='/AuzenTechInc'"><a href="/AuzenTechInc">AuzenTech Inc</a></td></tr><tr><td onclick="javascript: location.href='/BuiltNY'"><a href="/BuiltNY">Built NY</a></td></tr><tr><td onclick="javascript: location.href='/CCrane'"><a href="/CCrane">C Crane</a></td></tr><tr><td onclick="javascript: location.href='/CablesUnlimitedZiplinq'"><a href="/CablesUnlimitedZiplinq">Cables Unlimited / Ziplinq</a></td></tr><tr><td onclick="javascript: location.href='/Danpex'"><a href="/Danpex">Danpex</a></td></tr><tr><td onclick="javascript: location.href='/DuelSystems'"><a href="/DuelSystems">Duel Systems</a></td></tr><tr><td onclick="javascript: location.href='/DVDO'"><a href="/DVDO">DVDO</a></td></tr><tr><td onclick="javascript: location.href='/Dynapower'"><a href="/Dynapower">Dynapower</a></td></tr><tr><td onclick="javascript: location.href='/Epiphan'"><a href="/Epiphan">Epiphan</a></td></tr><tr><td onclick="javascript: location.href='/FibroLAN'"><a href="/FibroLAN">FibroLAN</a></td></tr><tr><td onclick="javascript: location.href='/Gefen'"><a href="/Gefen">Gefen</a></td></tr><tr><td onclick="javascript: location.href='/H2oAudio'"><a href="/H2oAudio">H2o Audio</a></td></tr><tr><td onclick="javascript: location.href='/HighSierra'"><a href="/HighSierra">High Sierra</a></td></tr><tr><td onclick="javascript: location.href='/ICPDAS'"><a href="/ICPDAS">ICP DAS</a></td></tr><tr><td onclick="javascript: location.href='/Intelix'"><a href="/Intelix">Intelix</a></td></tr><tr><td onclick="javascript: location.href='/Intellinet'"><a href="/Intellinet">Intellinet</a></td></tr><tr><td onclick="javascript: location.href='/K2Mounts'"><a href="/K2Mounts">K2 Mounts</a></td></tr><tr><td onclick="javascript: location.href='/KendallHoward'"><a href="/KendallHoward">Kendall Howard</a></td></tr><tr><td onclick="javascript: location.href='/KeyDigital'"><a href="/KeyDigital">Key Digital</a></td></tr><tr><td onclick="javascript: location.href='/Linkskey'"><a href="/Linkskey">Linkskey</a></td></tr><tr><td onclick="javascript: location.href='/Matrox'"><a href="/Matrox">Matrox</a></td></tr><tr><td onclick="javascript: location.href='/M-Audio'"><a href="/M-Audio">M-Audio</a></td></tr><tr><td onclick="javascript: location.href='/Mayflash'"><a href="/Mayflash">Mayflash</a></td></tr><tr><td onclick="javascript: location.href='/Monster'"><a href="/Monster">Monster</a></td></tr><tr><td onclick="javascript: location.href='/Norco'"><a href="/Norco">Norco</a></td></tr><tr><td onclick="javascript: location.href='/Opti-UPS'"><a href="/Opti-UPS">Opti-UPS</a></td></tr><tr><td onclick="javascript: location.href='/OtterBox'"><a href="/OtterBox">OtterBox</a></td></tr><tr><td onclick="javascript: location.href='/PlanetWavesDAddario'"><a href="/PlanetWavesDAddario">Planet Waves / D'Addario</a></td></tr><tr><td onclick="javascript: location.href='/PureLinkDtrovision'"><a href="/PureLinkDtrovision">PureLink / Dtrovision</a></td></tr><tr><td onclick="javascript: location.href='/Quatech'"><a href="/Quatech">Quatech</a></td></tr><tr><td onclick="javascript: location.href='/RoseElectronics'"><a href="/RoseElectronics">Rose Electronics</a></td></tr><tr><td onclick="javascript: location.href='/Scosche'"><a href="/Scosche">Scosche</a></td></tr><tr><td onclick="javascript: location.href='/SmartAVI'"><a href="/SmartAVI">SmartAVI</a></td></tr><tr><td onclick="javascript: location.href='/STMBags'"><a href="/STMBags">STM Bags</a></td></tr><tr><td onclick="javascript: location.href='/Taperwire'"><a href="/Taperwire">Taperwire</a></td></tr><tr><td onclick="javascript: location.href='/TARALabs'"><a href="/TARALabs">TARA Labs</a></td></tr><tr><td onclick="javascript: location.href='/Timbuk2'"><a href="/Timbuk2">Timbuk2</a></td></tr><tr><td onclick="javascript: location.href='/Vantora'"><a href="/Vantora">Vantora</a></td></tr><tr><td onclick="javascript: location.href='/VideoStorm'"><a href="/VideoStorm">Video Storm</a></td></tr><tr><td onclick="javascript: location.href='/Xenarc'"><a href="/Xenarc">Xenarc</a></td></tr><tr><td onclick="javascript: location.href='/Zap'"><a href="/Zap">Zap!</a></td></tr><tr><td onclick="javascript: location.href='/Ziotek'"><a href="/Ziotek">Ziotek</a></td></tr></tbody></table>
+            <div class="leftBarArea">
+            <div class="categoryHeader"><div id="categoryToggle" class="expandToggle"><a href="javascript: hideCategories()"><img src="/siteimages/layout/ajax/collapse_blue.jpg" alt="Collapse"></a></div>Categories</div><div id="topCategoryExplain" style="display: none; text-align: right"><a href="javascript: showCategories()">Show Categories</a></div><div id="topCategories"><table class="categoryTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr style="height: 5px"><td><!-- --></td></tr><tr><td onclick="javascript: location.href='/AudioVideo'"><a href="/AudioVideo">Audio/Video</a></td></tr><tr><td onclick="javascript: location.href='/BagsandCases'"><a href="/BagsandCases">Bags and Cases</a></td></tr><tr><td onclick="javascript: location.href='/CablesandAdapters'"><a href="/CablesandAdapters">Cables and Adapters</a></td></tr><tr><td onclick="javascript: location.href='/Cameras'"><a href="/Cameras">Cameras</a></td></tr><tr><td onclick="javascript: location.href='/CarElectronics'"><a href="/CarElectronics">Car Electronics</a></td></tr><tr><td onclick="javascript: location.href='/Communication'"><a href="/Communication">Communication</a></td></tr><tr><td onclick="javascript: location.href='/ComponentsPeripherals'"><a href="/ComponentsPeripherals">Components/Peripherals</a></td></tr><tr><td onclick="javascript: location.href='/ComputerSystems'"><a href="/ComputerSystems">Computer Systems</a></td></tr><tr><td onclick="javascript: location.href='/Displays'"><a href="/Displays">Displays</a></td></tr><tr><td onclick="javascript: location.href='/ConsumerElectronics'"><a href="/ConsumerElectronics">Electronics</a></td></tr><tr><td onclick="javascript: location.href='/Networking'"><a href="/Networking">Networking</a></td></tr><tr><td onclick="javascript: location.href='/OfficeMachines'"><a href="/OfficeMachines">Office Machines</a></td></tr><tr><td onclick="javascript: location.href='/PowerDevices'"><a href="/PowerDevices">Power Devices</a></td></tr><tr><td onclick="javascript: location.href='/Printers'"><a href="/Printers">Printers</a></td></tr><tr><td onclick="javascript: location.href='/Software'"><a href="/Software">Software</a></td></tr><tr><td onclick="javascript: location.href='/Storage'"><a href="/Storage">Storage</a></td></tr></tbody></table></div>
             <img src="/siteimages/layout/topLeftCategoryTable.gif" style="position: absolute; top: -1px; left: -1px" alt="">
             <img src="/siteimages/layout/bottomLeftCategoryTable.gif" style="position: absolute; bottom: -8px; left: -1px; z-index: 7" alt="">
             <div class="topCategoryShadow"><img src="/siteimages/layout/topLeftCategoryShadow.gif" alt="" style="position:absolute; top: 0px"></div>
             <div class="bottomCategoryShadow"><!-- --></div>
+            </div>
+            
+            <div class="leftBarAd" style="margin-top: 30px"><a href="/whyBuyFromSewell.aspx"><img src="/siteimages/banners/whybuy.jpg" alt="Why buy from Sewell?"></a></div>
+            
         </div>
-        
          <div id="rightBar">
             
             <img src="/siteimages/layout/csr.jpg" alt=""><br>
             <!-- Chat tag for Account Sewell Direct (ID: 1), Site Sewell Direct (ID: 1), Queue Support (ID: 3)  -->
 
-<a href="javascript: openURL2('/popups/liveSupport.html', 500)" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;">
-			<img src="http://sightmax.sewelldirect.com/SightMaxAgentInterface/chat.smgif?accountID=1&amp;siteID=1&amp;queueID=7" alt="Click to chat with a Sewell Direct representative" width="125" height="43"></a>
+<a href="javascript: showSightMax()">
+			<img id="imgLiveSupport" src="/siteimages/layout/supporton.jpg" alt="Click to chat with a Sewell Direct representative" width="125" height="43"></a>
 
 
 	<!-- Monitor tag for Account Sewell Direct (ID: 1), Site Sewell Direct (ID: 1), Queue Support (ID: 3) -->
-	<script type="text/javascript" src="http://sightmax.sewelldirect.com/SightMaxAgentInterface/Monitor.smjs?accountID=1&amp;siteID=1&amp;queueID=7"></script>
+<!--	<script type="text/javascript" src="http://sightmax.sewelldirect.com/SightMaxAgentInterface/Monitor.smjs?accountID=1&amp;siteID=1&amp;queueID=7"></script>  -->
 
 
 
@@ -129,10 +213,13 @@
 <!--
 	<img src="/siteimages/layout/supportoff.jpg" alt="Live Support Offline" width="125" height="43" />
 -->
-<a href="/fastLynx3.aspx"><img src="/siteimages/layout/smallFastLynx.jpg" alt="FastLynx"></a><br>
+            <div id="feedbackArea">
+            <a href="javascript: ajaxPopup('websiteFeedbackPopup', 'Website Feedback', 400, '/ajax/websiteFeedbackForm.aspx?sessionId=13583638&amp;feedbackUrl=/privacy.aspx')" style="vertical-align: middle">
+            <img src="/siteimages/websiteFeedback.jpg" alt="Website Feedback">
+            </a>
+            </div>
+            
 <p style="font-size: small">Try our award- winning software <br><a class="blueLink" href="/fastLynx3.aspx">FastLynx 3.3</a></p>
-<a href="javascript: openURL3('/connectors.swf', 600, 500)"><img src="/siteimages/banners/videowiz.jpg" alt="Video Connector Wizard"></a><br>
-<a href="/BagsandCases"><img src="/siteimages/banners/bagsCases.jpg" alt="Bags and Cases from Sewell Direct!"></a>
         </div>
          
          <div id="mainContent">
@@ -163,24 +250,33 @@
         </div>
         
         <div id="footer">
+            <div id="mfgCategories">
+                <table cellpadding="2" cellspacing="2" style="margin: 0 auto; margin-bottom: 10px">
+                    <thead>
+                        <tr>
+                            <th colspan="4" style="text-align: center">Featured Manufacturers</th>
+                        </tr>
+                    </thead>
+                    <tbody style="vertical-align: top">
+                        <tr><td style="width: 160px"><a href="/CablesUnlimited">Cables Unlimited</a><br><a href="/Epiphan">Epiphan</a><br><a href="/Gefen">Gefen</a><br><a href="/Intellinet">Intellinet</a><br></td><td style="width: 160px"><a href="/Linkskey">Linkskey</a><br><a href="/LinXcel">LinXcel</a><br><a href="/Manhattan">Manhattan</a><br><a href="/Matrox">Matrox</a><br><a href="/MayFlash">MayFlash</a><br></td><td style="width: 160px"><a href="/OtterBox">OtterBox</a><br><a href="/PlanetWaves">Planet Waves</a><br><a href="/Quatech">Quatech</a><br><a href="/Synaps">Synaps</a><br></td><td style="width: 100px"><a href="/USASpec">USA Spec</a><br><a href="/Vantora">Vantora</a><br><a href="/VR3">VR3</a><br><a href="/VTBook">VTBook</a><br><a href="/ZipLinq">Zip-Linq</a><br></td></tr>
+                        <tr>
+                            <td colspan="4" style="text-align: center"><a href="/brands.aspx">See More</a></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
             <div id="bottomTextNav">
-                <a href="/">Home</a> - <a href="/privacy.aspx">Privacy Policy</a> - <a href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=2047988">Affiliates</a> - <a href="/returns.aspx">Return Policy</a> - <a href="/employment.aspx">Employment</a> - <a href="/aboutus.aspx">About Us</a>  - <a href="/promotions.aspx">Promotions</a> - <a href="/resellerProgram.aspx">Reseller Program</a>
+                <a href="/">Home</a> - <a href="/privacy.aspx">Privacy Policy</a> - <a href="/returns.aspx">Return Policy</a> - <a href="/employment.aspx">Employment</a> - <a href="/aboutus.aspx">About Us</a>  - <a href="/promotions.aspx">Promotions</a> - <a href="/resellerProgram.aspx">Reseller Program</a> - <a href="/contactUs.aspx">Contact Us</a>
             </div><br>
             <div id="logos">
-                <div style="float: right">
-                <script type="text/javascript" src="https://checkout.google.com/seller/accept/j.js"></script>
-                <script type="text/javascript">showMark(3);</script>
-                <noscript><div><img src="https://checkout.google.com/seller/accept/images/sc.gif" width="72" height="73" alt="Google Checkout Acceptance Mark" /></div></noscript>
-                </div>
                 
                 <a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--101355.html"><img src="http://medals.bizrate.com/medals/dynamic/101355_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73"></a>
                 
                 <a href="http://www.bbbonline.org/cks.asp?id=10409087274246549"><img src="/siteimages/layout/ReliabilitySeal4.gif" alt="BBB Online Reliability Program"></a>
-                <img src="/siteimages/layout/creditCards.gif" alt="We accept Visa, Mastercard, American Express, and DiscoverCard">
-                <img src="/siteimages/layout/paypal.gif" alt="We accept Paypal">
+                <img src="/siteimages/layout/paymentMethods.gif" alt="We accept Visa, Mastercard, American Express, DiscoverCard, Paypal, and Google Checkout">
             </div>
             <br>
-                <i>Great service, fast delivery, low shipping rates.</i>  Copyright © 2007   Sewell Development Corporation
+                <i>Great service, fast delivery, low shipping rates.</i>  Copyright © 2008   Sewell Development Corporation
         </div>
    </div>
    
@@ -202,22 +298,39 @@
             <form id="Form1" action="/search.aspx" method="get">
                 <table><tbody><tr><td><input style="margin-right: 5px; width: 205px" type="text" id="searchTerm" name="searchTerm" value=""></td><td><input type="image" src="/siteimages/layout/search.jpg" id="SearchSubmit" alt="Search"></td></tr></tbody></table>
             </form>
+            <!-- Google CSE Search Box Begins  -->
+            <!--
+            <form action="http://test.sewelldirect.com/search.aspx" id="searchbox_014518573727544478833:rlu7q-kskp8">
+              <input type="hidden" name="cx" value="014518573727544478833:rlu7q-kskp8" />
+              <input type="hidden" name="cof" value="FORID:11" />
+              <table>
+                <tr>
+                    <td><input type="text" name="q" style="margin-right: 5px; width: 205px" /></td>
+                    <td><input type="image" src="/siteimages/layout/search.jpg" name="sa" alt="Search" /></td>
+                </tr>
+              </table>
+            </form>
+            <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_014518573727544478833%3Arlu7q-kskp8&lang=en"></script>
+            -->
+            <!-- Google CSE Search Box Ends -->
     </div>
 
    <div class="absolute" id="topShadow"><!-- --></div>
    
    <div class="absolute" id="navigationBar">
         <div class="absolute" id="navigationTabs">
-            <a href="/support.aspx"><img src="/siteimages/layout/navtabs/supportTab.jpg" alt="Support"></a> 
-            <a href="http://forum.sewelldirect.com" onclick="window.open(this.href); return false" onkeypress="window.open(this.href); return false"><img src="/siteimages/layout/navtabs/forumTab.jpg" alt="Forum"></a>
-            <a href="/contactUs.aspx"><img src="/siteimages/layout/navtabs/contactTab.jpg" alt="Contact Us"></a>
-            <a href="/login.aspx"><img src="/siteimages/layout/navtabs/loginTab.jpg" alt="Login"></a>
-            <img src="/siteimages/layout/tabDivider.jpg" alt="">
+            <img src="/siteimages/layout/tabDivider.jpg" alt="" class="dividerImage"> <a href="/support.aspx">Support</a>
+            <img src="/siteimages/layout/tabDivider.jpg" alt="" class="dividerImage"> <a href="http://forum.sewelldirect.com" onclick="window.open(this.href); return false" onkeypress="window.open(this.href); return false">Forum</a>
+            <img src="/siteimages/layout/tabDivider.jpg" alt="" class="dividerImage"> <a href="/contactUs.aspx">Contact Us</a>
+            <img src="/siteimages/layout/tabDivider.jpg" alt="" class="dividerImage"> <a href="/login.aspx">Login</a>
+            <img src="/siteimages/layout/tabDivider.jpg" alt="" class="dividerImage">
         </div>
         <div class="absolute" id="navigationTabsSecondary">
-            <a href="/Clearance"><img src="/siteimages/layout/navtabs/clearanceTab.jpg" alt="Clearance Store"></a>
-            <a href="/WeeklySpecials"><img src="/siteimages/layout/navtabs/weeklySpecialsTab.jpg" alt="Weekly Specials"></a>            
-            <img src="/siteimages/layout/navtabs/tabDividerWhite.jpg" alt="">
+            <img src="/siteimages/layout/navtabs/tabDividerWhite.jpg" alt="" class="dividerImage"> <a href="/Clearance">Clearance Store</a>
+            <img src="/siteimages/layout/navtabs/tabDividerWhite.jpg" alt="" class="dividerImage"> <a href="/WeeklySpecials">Weekly Specials</a>            
+            <img src="/siteimages/layout/navtabs/tabDividerWhite.jpg" alt="" class="dividerImage"> <a href="/pressReleases.aspx">Press Releases</a>
+            <img src="/siteimages/layout/navtabs/tabDividerWhite.jpg" alt="" class="dividerImage"> <a href="javascript: ajaxPopup('acceptPoPopup', 'Sewell Direct Purchase Orders', 400, '/ajax/acceptPos.aspx?sessionId=13583638')" style="vertical-align: middle"><img id="poImage" class="dividerImage" src="/siteimages/acceptPos.gif" alt="We Accept Purchase Orders"></a>
+            <img src="/siteimages/layout/navtabs/tabDividerWhite.jpg" alt="" class="dividerImage">
         </div>
     </div>
     
@@ -228,6 +341,9 @@
     </div>
     
     <div class="absolute" id="topAds"><img src="/siteimages/banners/freeShippingBlue.jpg" alt="Free Shipping for all orders over $100!"></div>
+    
+    
+    <script type="text/javascript" src="http://log.enquisite.com/log.js?id=b1f22d-dd2jd45"></script>
     
     <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
     <script type="text/javascript">
