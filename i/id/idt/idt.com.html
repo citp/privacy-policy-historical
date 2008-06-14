@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the idt.com privacy policy that was archived on 2007-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071216034910id_/http%3A//www.idt.com%3Fid%3D101%26source%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the idt.com privacy policy that was archived on 2008-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080614080239id_/http%3A//www.idt.com%3Fid%3D101%26source%3Dfooter) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+
 		<title>Integrated Device Technology
 		</title>
 		
@@ -22,11 +24,59 @@
 			//-->
 		</script>
 		<script type="text/javascript" src="/ui/js/rssPopup.js"></script>
-	<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
-<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+		<script type="text/javascript" src="/green/ui/yahoo-dom-event.js"></script>
+		<script type="text/javascript" src="/green/ui/get-min.js"></script>
+		<script type="text/javascript" src="/green/ui/connection-min.js"></script>
+		<script type="text/javascript" src="/green/ui/animation-min.js"></script>
+		<script type="text/javascript" src="/green/ui/autocomplete-min.js"></script>
+	
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['headerPartSearchInput']=true;
+</script>
 <script type="text/javascript">
 <!--
-    function  _CF_checkCFForm_1(_CF_this)
+    _CF_checkCFForm_1 = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element search required check
+        if( !_CF_hasValue(_CF_this['search'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "search", _CF_this['search'].value, "Please enter a keyword or part number in order to search.");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['q']=true;
+</script>
+<script type="text/javascript">
+<!--
+    _CF_checkCFForm_2 = function(_CF_this)
     {
         //reset on submit
         _CF_error_exists = false;
@@ -62,51 +112,93 @@
 //-->
 </script>
 </head>
-
+	
 	<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 		<div id="container">
 			<div class="bars"><img src="/images/global/margin.gif" width="994" height="5" alt=""></div>
 			<div class="bars"><img src="/images/head/corner-l.gif" alt="" width="10" height="8"><img src="/images/head/spacer-b.gif" width="974" height="8" alt=""><img src="/images/head/corner-r.gif" alt="" width="10" height="8"></div>
 
-			<div id="header">
-				<div class="fL"><a href="../?source=header"><img src="/images/head/logo.gif" alt="IDT" width="110" height="53" id="logo"></a></div>
+			<div id="header" style="z-index:8000;">
+				<div style="position:absolute; top:0px; left:20px; "><a href="../?source=header"><img src="/images/head/logo.gif" alt="IDT" width="110" height="53" id="logo"></a></div>
 				
 
-				<div class="fL" style="position:relative; left:300px;bottom:1px;">
-					<div class="fL" id="lang_nav"><a href="http://www.idt.com" id="eng"></a>  <a href="http://www.idt.com/china/" id="cna"></a>  <a href="http://www.idt.com/japan/" id="jpn"></a></div>
+				<div style="position:absolute; top:-2px; left:320px; ">
+					<div class="fL" id="lang_nav"><a href="http://www.idt.com" name="&amp;lid=langeng" id="eng"></a>  <a href="http://www.idt.com/china/" name="&amp;lid=langcna" id="cna"></a>  <a href="http://www.idt.com/japan/" name="&amp;lid=langjpn" id="jpn"></a></div>
 				</div>
 				
-				<div class="fLS" style="position:relative;top:14px;">
+				
+				<div style="position:absolute; top:9px; right:250px; z-index:8001;">
+					
+					<form name="CFForm_1" id="CFForm_1" action="/index.cfm?id=101&amp;source=footer" method="get" onsubmit="return _CF_checkCFForm_1(this)">
+							<input type="hidden" name="fuseaction" value="search">
+							<input type="hidden" name="app" value="search">
+							<input type="hidden" name="searchtype" value="partNumber">
+							<input type="hidden" name="source" value="header_search">
+									<div id="headerPartSearchAutoComplete" style="float:left;" class="yui-ac">
+							<input name="search" type="text" value="Search by Part Number" size="25" class="form yui-ac-input" id="headerPartSearchInput" onmouseout="if (this.value == '') { this.value='Search by Part Number'; }" onfocus="if (this.value == 'Search by Part Number') { this.value=''; }" autocomplete="off">
+										<div id="headerPartSearchInputContainer" class="yui-ac-container"><div class="yui-ac-content" style="display: none;"><div class="yui-ac-hd" style="display: none;"></div><div class="yui-ac-bd"><ul><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li></ul></div><div class="yui-ac-ft" style="display: none;"></div></div></div>
+									</div>
+						<a href="" name="&amp;lid=PartSearchGo"></a><input class="searchspacing" type="image" src="/images/head/button_go.gif" onclick=" var searchVal = document.getElementById('headerPartSearchInput').value; if (!searchVal || (searchVal == 'Search by Part Number')) { return false; }; _hbLink('PartSearchGo');">
+						
+
+									<script type="text/javascript">
+									 var schema = ['Record', 'Key', 'Value'];
+									 var hdrPartDataSrc = new YAHOO.widget.DS_XHR("/green/query/qry_getPartsToSuggest.cfm", schema);
+									 hdrPartDataSrc.responseType = YAHOO.widget.DS_XHR.TYPE_XML;
+									 hdrPartDataSrc.scriptQueryAppend = "hide_invalid=1"
+									 var hdrPartAutoComp = new YAHOO.widget.AutoComplete("headerPartSearchInput","headerPartSearchInputContainer", hdrPartDataSrc);
+									 hdrPartAutoComp.queryDelay = .3;
+									 hdrPartAutoComp.prehighlightClassName = "yui-ac-prehighlight";
+									 hdrPartAutoComp.typeAhead = false;
+									 hdrPartAutoComp.useShadow = true;
+									 hdrPartAutoComp.forceSelection = false;
+									 hdrPartAutoComp.autoHighlight = true;
+									 //hdrPartAutoComp.useIFrame = true;
+									 hdrPartAutoComp.formatResult = function(oResultItem, sQuery) {
+									 	var sId = oResultItem[0];
+									 	var sTitle = oResultItem[1];
+									 	
+									 	return sTitle;
+									 }
+									</script>
+					</form>
+
+				</div>
+				
+				<div style="position:absolute; top:9px; right:20px;">
 
 					
-					<form name="CFForm_1" action="http://search.idt.com/search" method="get" onsubmit="return _CF_checkCFForm_1(this)">
-						<input type="hidden" name="searchType" value="Keyword">
+					<form name="CFForm_2" id="CFForm_2" action="/index.cfm?id=101&amp;source=footer" method="get" onsubmit="return _CF_checkCFForm_2(this)">
+					
+						<input type="hidden" name="app" value="search">
+						<input type="hidden" name="searchType" value="keyword">
+						<input type="hidden" name="search" value="">
 						
-							<input type="hidden" name="userID" value="12453873">
+							<input type="hidden" name="userID" value="16581995">
 							<input type="hidden" name="entqr" value="0">
-							<input type="hidden" name="output" value="xml_no_dtd">
+							<input type="hidden" name="output" value="xml">
 							<input type="hidden" name="sort" value="date%3AD%3AS%3Ad1">
 							<input type="hidden" name="client" value="default_frontend">
 							<input type="hidden" name="ud" value="1">
 							<input type="hidden" name="oe" value="UTF-8">
 							<input type="hidden" name="ie" value="UTF-8">
-							<input type="hidden" name="proxystylesheet" value="default_frontend">
+							
 							<input type="hidden" name="site" value="default_collection">
-							<input name="q" id="q" type="text" value="Search Entire Site" class="form" onfocus="this.value='';"> 
-						<a href="" name="&amp;lid=GoogleMiniSearchGo"></a><input type="image" src="/images/head/button_go.gif" onclick="_hbLink('GoogleMiniSearchGo')">
+							<input name="q" id="q" type="text" value="Search Site by keyword" class="form" size="25" onfocus="this.value='';" onmouseout="if (this.value == '') { this.value='Search Site by keyword'; }"> 
+						<a href="" name="&amp;lid=GoogleMiniSearchGo"></a><input type="image" class="searchspacing" src="/images/head/button_go.gif" onclick="_hbLink('GoogleMiniSearchGo')">
 					</form>
 
 					
-					<br><font color="white" style="font-size:10px;"><a href="/?id=8&amp;source=header">Contact IDT</a> &nbsp;|&nbsp; <a href="/?id=3243&amp;source=header">Investors</a> &nbsp;|&nbsp; <a href="/?id=9&amp;source=header">Press</a></font>
 				</div>
 				<div class="fL" style="margin-top:5px;"></div>
 			</div>
 
 			
 <div id="topnav">
-	<div class="fL"><img src="/images/head/spacer-b.gif" width="487" height="23"></div>
-				<div class="fL"><a href="/?id=5&amp;source=home_navBar" onmouseover="dropdownmenu(this, event, menu1, '180px')" onmouseout="delayhidemenu()"><img src="images/nav/06_about_new-o.gif" alt="About IDT" width="104" height="23" class="imgover"></a></div>
+		<div class="fL info">
+		<div style="position:absolute; top:7px; left:310px;"><font color="white" style="font-size:10px;"><a href="/?id=8&amp;source=header">Contact IDT</a> &nbsp;|&nbsp; <a href="/?id=3243&amp;source=header">Investors</a> &nbsp;|&nbsp; <a href="/?id=9&amp;source=header">Press</a></font></div>
+	</div>				<div class="fL"><a href="/?id=5&amp;source=home_navBar" onmouseover="dropdownmenu(this, event, menu1, '180px')" onmouseout="delayhidemenu()"><img src="images/nav/06_about_new-o.gif" alt="About IDT" width="104" height="23" class="imgover"></a></div>
 				<div class="fL"><a href="/?catID=1&amp;source=home_navBar" onmouseover="dropdownmenu(this, event, menu2, '180px')" onmouseout="delayhidemenu()"><img src="images/nav/03_products.gif" alt="Products" width="97" height="23" class="imgover"></a></div>
 				<div class="fL"><a href="/?id=94&amp;source=home_navBar" onmouseover="dropdownmenu(this, event, menu3, '180px')" onmouseout="delayhidemenu()"><img src="images/nav/02_innovating.gif" alt="Applications" width="122" height="23" class="imgover"></a></div>
 				<div class="fL"><a href="/?id=6&amp;source=home_navBar" onmouseover="dropdownmenu(this, event, menu4, '180px')" onmouseout="delayhidemenu()"><img src="images/nav/05_support_new.gif" alt="Getting Support" width="91" height="23" class="imgover"></a></div>
@@ -120,12 +212,6 @@
 
 				&nbsp;<br>
 			
-
-
-
-
-
-
 
 
 
@@ -227,11 +313,17 @@
 	</div>
 </div>
 
+
+
+
+
+
+
         <div class="bars" style="clear:both;">
                 <div id="footer">
                         <div class="foothr"><img src="/images/foot/spacer-hr.gif" width="994" height="1"></div>
                         <div class="footlnk"><a href="/?source=footer">Home</a> &nbsp;|&nbsp; <a href="/?app=siteMap&amp;source=footer">Site Map</a> &nbsp;|&nbsp; <a href="/?id=101&amp;source=footer" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu7, '150px')" onmouseout="delayhidemenu()">Legal</a> &nbsp;|&nbsp; <a href="/?id=11&amp;source=footer">Careers</a> &nbsp;|&nbsp; <a href="/?id=8&amp;source=footer">Contact Us</a> &nbsp;|&nbsp;   <a href="/?app=register&amp;source=footer" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu8, '200px')" onmouseout="delayhidemenu()">Quality</a> &nbsp;|&nbsp; <a href="/rss.cfm?id=101" onclick="return show_hide_box(this,180,150,'1px solid');"><img src="/ui/images/rssButton.gif" alt="Click here to receive this page as an RSS feed" border="0"></a> <a href="##" onclick="window.open('/ui/whatIs_RSS.cfm','WhatIs_RSS','width=520,height=350,left=200,top=200,scrollbars=1');">What is this?</a> &nbsp;</div>
-                        Use of this website signifies your agreement to the <a href="/?id=101&amp;source=footer">acceptable use and privacy policy</a>. Copyright 1997-2007 Integrated Device Technology, Inc. <a href="/?id=7&amp;source=footer">All Rights Reserved.</a>
+                        Use of this website signifies your agreement to the <a href="/?id=101&amp;source=footer">acceptable use and privacy policy</a>. Copyright © 1997-2008 Integrated Device Technology, Inc. <a href="/?id=7&amp;source=footer">All Rights Reserved.</a>
                 </div>
                 <div class="bars"><img src="/images/foot/corner-l.gif" width="10" height="8"><img src="/images/foot/spacer-g.gif" width="974" height="8"><img src="/images/foot/corner-r.gif" width="10" height="8"></div>
                 <div class="bars"><img src="/images/global/margin.gif" width="994" height="5"></div>
@@ -247,7 +339,6 @@ var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-integrateddevicetech.hitbo
 
 //BEGIN EDITABLE SECTION
 //CONFIGURATION VARIABLES
-//hbx.acct="DM561228EIDE96EN3";//ACCOUNT NUMBER(S)
 hbx.acct="DM561228EIDE96EN3";//ACCOUNT NUMBER(S)
 hbx.pn="Privacy and Security Policy";//PAGE NAME(S)
 hbx.mlc="/About IDT";//MULTI-LEVEL CONTENT CATEGORY
