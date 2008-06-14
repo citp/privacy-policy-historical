@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2007-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070820101201id_/http%3A//www.readersdigest.com.au/content/21086) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614081424id_/http%3A//www.readersdigest.com.au/content/21086) for the most accurate reproduction.*
 
 # Reader's Digest Australia: Reader's Digest PRIVACY POLICY
 
@@ -29,12 +29,18 @@ We are happy to provide you with details of information held about you on our cu
 You and your privacy  
 If you have any questions regarding any matters related to your privacy, or if you believe there has been a breach of your privacy, please contact us on:
 
-  * **Mailing Address:**  
+  *  **Mailing Address:**
+
+Australia:-  
 The Privacy Office, Reader's Digest (Australia) Pty Limited,  
 GPO Box 4353, Sydney NSW 2001
+
+New Zealand :-  
+The Privacy Office, Reader's Digest  
+PO Box 90 489, Auckland 1030
+
   *  **Email:**  
-privacy@au.readersdigest.com
-  *  **Our privacy Hotline:**  
-1300 133 176 
+privacy@au.readersdigest.com  
+
 
 
