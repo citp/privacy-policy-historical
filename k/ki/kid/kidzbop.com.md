@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230213838id_/http%3A//www.kidzbop.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614213141id_/http%3A//www.kidzbop.com/home/privacy) for the most accurate reproduction.*
 
 # Kidz Bop
 
