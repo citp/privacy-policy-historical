@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiologyinfo.org privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216095444id_/http%3A//www.radiologyinfo.org/en/about/index.cfm%3Fpg%3Dabt_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiologyinfo.org privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614093452id_/http%3A//www.radiologyinfo.org/en/about/index.cfm%3Fpg%3Dabt_privacy) for the most accurate reproduction.*
 
 # About RadiologyInfo
 
