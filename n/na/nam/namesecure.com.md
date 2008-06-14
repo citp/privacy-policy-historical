@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the namesecure.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115020539id_/https%3A//www.namesecure.com/pages/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namesecure.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614070718id_/http%3A//www.namesecure.com/pages/privacy-policy.jhtml) for the most accurate reproduction.*
 
 # Domain name privacy policy for NameSecure | NameSecure
+
+[**_NameSecure_**](https://web.archive.org/pages/home.jhtml) >> Privacy Policy 
 
 Updated November 3, 2003
 
