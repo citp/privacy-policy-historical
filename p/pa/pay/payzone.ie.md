@@ -1,148 +1,51 @@
-> *The following text is extracted and transformed from the payzone.ie privacy policy that was archived on 2007-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071118173807id_/http%3A//www.payzone.ie/alphyra/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payzone.ie privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614220051id_/http%3A//www.payzone.ie/pages/privacy-policy.php) for the most accurate reproduction.*
 
-# alphyra - Site - Privacy Policy
+# Payzone - Privacy Policy
 
-## **1.INTRODUCTION **
+Payzone plc (hereinafter referred to as "Payzone" "us" "we" or "our") is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit [www.payzoneplc.com](http://www.payzoneplc.com/) ("Site") without disclosing any personally identifiable information about yourself.   
+We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information. 
 
-## **2.SECTIONS **
+For the purposes of this Privacy Policy Statement "Payzone" means Payzone plc and any company or other entity within the group. 
 
-2.1 What personal data we need   
-2.2 Why we collect personal data   
-2.3 How we collect personal data   
-2.4 Your preferences   
-2.5 When we disclose personal data   
-2.6 Security of collected data   
-2.7 Cookies & Web Beacons   
-2.8 Right of Access to your Personal Data   
-2.9 Right of Rectification or erasure   
-2.10 Links to other sites   
-2.11 Industry Standards   
-2.12 Contacting Us   
-2.13 Last Updated
+You should read this notice in conjunction with the Terms and Conditions of use for the Site. 
 
-## **1\. Introduction**
+**Personal Information Collection**
 
-Protecting your privacy is important to the alphyra. This statement discloses information practices, including what type of data we may collect and hold, how it is used and with whom the data is shared. It also explains how you can contact us if you have any queries or concerns about your personal information. 
+We endeavour to collect and use your personal information only with your knowledge and consent and typically when you use services, make customer enquiries, register for information or other services, or when you respond to communications from us (such as questionnaires or surveys). 
 
-This Privacy Statement is applicable to data collected by alphyra . In order to help you understand how we will use the data you provide, the following guidelines have been created. 
+The type of personal information we may collect could include, for example, your name and postal address, date of birth, gender, telephone and fax numbers, email address, and lifestyle and other information collected on registration or through surveys. If you choose to provide us with personal information it will be used in support of the intended purposes stated at the time at which it was collected, and subject to any preferences indicated to you. 
 
-## **2\. Sections**
+You acknowledge that by providing data to us, you consent to the processing of your data in accordance with this Privacy Policy Statement. 
 
-### **2.1 What personal data we need**
+**Access to your Information**
 
-In general, you can visit our website on the Internet without telling us who you are and without providing any personal data. There are times, however, where not providing the minimum necessary data as indicated in the relevant data entry sections and other pages in the relevant website, may result in our inability to provide you with information that has been specifically requested. 
+You can write to us at any time to obtain details of the personal information we may hold about you.* 
 
-### **2.2 Why we collect personal data**
+The Data Protection Manager  
+Payzone plc   
+Payzone House  
+4 Heather Road  
+Sandyford Industrial Estate  
+Dublin 18  
+Republic of Ireland
 
-Personal Data means any data related to a person that allows that person to be identified such as your name, age, telephone number, e-mail and mailing address ("Personal Data"). We would like to collect, maintain and use your Personal Data to: 
+Please quote your name and address. We would be grateful if you could also provide brief details of what information you want a copy (this helps us to more readily locate your data). 
 
-  * Fulfil our obligations under any registration contract and any other contract between you and alphyra. 
-  * Ask your opinions on our services and conduct surveys 
-  * Facilitate and process your searches and requests for information on our services 
-  * Provide you with the latest information, including events in which you may be interested 
-  * Improve our services for you 
+We will take all reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you.   
+*we may charge Euro15.00 to cover the administration costs involved.   
+****
 
+**Information Security**
 
+Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Intranet. Payzone cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.   
+Privacy Support  
+Payzone reserves the right to amend or modify this Privacy Policy Statement at any time and in response to changes in applicable data protection and privacy legislation.   
+If you have any enquiry about Payzone's data protection and privacy policy or practices, please write to:
 
-We will use your Personal Data only for the purposes outlined above, and they will be subject to stringent policies and terms on Personal Data use and protection. 
-
-### **2.3 How we collect personal data**
-
-We collect data about you in several ways. For example, we might ask for your contact information when you correspond with us etc. 
-
-Here are some of the most typical examples of how we collect your personal data. 
-
-  * When you fill out an enquiry form online, we will keep a record of your name, address data, query, etc 
-
-
-
-### **2.4 Your preferences**
-
-The personal data we collect may be stored in different databases. We make every effort to take into account the various preferences you may have expressed over time in order to process your data in a consistent way. If for any reason you receive incorrect data, please contact us to rectify the situation. 
-
-### **2.5 When we disclose personal data**
-
-We will not disclose Personal Data to third parties ("3Ps"), without your consent, except in the following cases: 
-
-Personal Data may be disclosed to sub-contracting 3Ps to enable the performance of contracts you are party to, alphyra may use other companies to perform functions on its behalf, such as delivering packages, sending postal mail and e-mails, providing marketing assistance and providing customer services. Such companies will have access to personal data needed to perform these functions, but may not use it for any other purpose and are required to process the data in accordance with applicable law. 
-
-Personal Data may be disclosed to 3Ps to enable compliance with legal obligations to which alphyra is subject. If Personal Data is disclosed to 3Ps to enable them to provide services for, on behalf of, or under our direction, then we will take measures to ensure that the 3Ps comply with our own privacy policy, and that such recipients: 
-
-  * Do not use the Personal Data for any other purposes than those permitted 
-  * Obtain and process Personal Data only on condition that they protect that Personal Data from unauthorised use and adopt and comply with similarly stringent policies and terms on Personal Data protection and use 
-  * Comply strictly with applicable laws 
-
-
-
-Anonymous or generic data (including "generic" statistics) from which you cannot be identified are excluded from use, processing, disclosure, transmission and other Personal Data use restrictions. 
-
-### **2.6 Security of collected data**
-
-We intend to protect your Personal Data and to maintain its quality. We will use all reasonable efforts to take all appropriate technical and organisational measures and precautions to keep Personal Data secure and protected from unauthorised access, use or alteration and unlawful destruction. Measures include using Secure Sockets Layer (SSL) encryption when collecting or transferring sensitive data, such as credit card details. SSL encryption is designed to make the data unreadable by anyone but us. 
-
-How we protect your data 
-
-  * We limit access to your Personal Data. Only those employees who need to come into contact with that data, to provide products and services to you, will do so. 
-  * We have physical, electronic, and procedural safeguards that comply with regulations to protect your Personal Data 
-  * We allow for your account data to be password protected 
-
-
-
-### **2.7 Cookies& Web Beacons **
-
-We employ an industry-wide technology called "cookies". These are small pieces of data that are placed on your hard disk drive when you access our website or a certain part of our website. Cookies help us understand which parts of our website are the most popular, where our Visitors are going, and how much time they spend there. 
-
-We use cookies to study traffic patterns on our site in order to improve website performance, to customise the user experience, and to better match the users' interests and preferences. For example, we keeps track of the domains from which people visit, and also measures visitor activity on our website. However, these tracking records are performed and maintained in ways that keep the data non-identifiable. 
-
-If you do not wish to accept cookies, they can be disabled by referring to your browser manufacturer's instructions. Please refer to your browser instructions or help screen to learn more about these functions. For example, in Internet Explorer, you can go to the Tools/Internet options/Security and Privacy Tabs to adapt the browser to your expectations. 
-
-Web beacons, also known as single pixel or clear gif technology, or action tags, may be used on our site. This technology shows us which visitors clicked on key elements (such as links or graphics) on one of our Web pages or emails. When you ask us to send you information on a promotion or a newsletter, we may use web beacons to establish which emails are actually opened. We use this information in order to optimise our content and services. 
-
-These Web beacons usually work in conjunction with cookies. If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies. In Microsoft Outlook 2003 or similar, downloading of pictures can be turned off on a site-by-site basis. 
-
-### **2.8 Right of Access to your Personal Data**
-
-You have the right to access your Personal Data, and to rectify or delete inaccuracies in your Personal Data, and to object to the processing of your Personal Data. 
-
-If you would like to view your Personal Data stored in our database, contact us at the address given in section 2.12 below by e-mail, fax, phone or letter. For privacy protection reasons, you will be asked to provide some proof of identification On demand, you can receive an explanation regarding the processing of your Personal Data and also obtain confirmation that all relevant parties have been notified of your request(s) for information, for alteration or for deletion, as appropriate. We will do our best to comply with such requests. 
-
-If you would like to unsubscribe from an email sent to you, please contact us at the address give in section 2.12 below by e-mail, fax, phone or letter. 
-
-### **2.9 Right of Rectification or erasure**
-
-Under the Data Protection Act, 1988 & 2003 (Amendment), you have the right to have your personal data corrected, if inaccurate, or erased, if there is not a legitimate reason for retaining the data. A Request for Rectification or Erasure should be made in writing, by letter or email, signed and accompanied by a copy of a current identification document (e.g. passport, driving license) to us by any of the contact methods mentioned in section 2.12. 
-
-### **2.10 Links to other sites**
-
-Some website pages may contain links to other websites that are not operated by us. We do not share your Personal Data with those websites. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites and expressly disclaims all liability associated with your use of such other sites and the content found there. 
-
-### **2.11 Industry Standards**
-
-alphyra Privacy Policy has been established in accordance with the Data Protection Acts 1988 & 2003 along with the Statutory Instrument Number 535 of 2003 European Communities (Electronic Communications Networks and Services) (Data Protection and Privacy) Regulations 2003 ("SI 535/2003") 
-
-### **2.12 Contacting Us**
-
-If you need further assistance or would like to make a comment, please e-mail [info@alphyra.com ](mailto:info@alphyra.com) or contact us at the following address: 
-
-alphyra group ltd,  
-4 Heather Road,  
-Sandyford Industrial Estate,   
-Dublin 18,   
-Ireland
-
-**Our Phone Number**
-
-01 – 207 6000 
-
-**Our Fax Number**
-
-01 – 207 6039
-
-### **2.13 Last Updated**
-
-This Privacy Statement was last updated on the 19th of November 2005 
-
-  * print this page
-  * [email this link](mailto:?subject=Privacy%20Policy%20-%20Alphyra&body=I%20thought%20you%20might%20like%20to%20see%20this%20page%20on%20alphyra,%20found%20at:%20http://www.alphyra.com/index.php/site/privacy_policy)
-
-
+The Data Protection Manager  
+Payzone plc   
+Payzone House  
+4 Heather Road  
+Sandyford Industrial Estate  
+Dublin 18  
+Republic of Ireland
