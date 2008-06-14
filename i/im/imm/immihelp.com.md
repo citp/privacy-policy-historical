@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the immihelp.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216220048id_/http%3A//www.immihelp.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immihelp.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615011204id_/http%3A//www.immihelp.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Immihelp Privacy Policy
 
 |   Popular  
   
 ---  
- [Medical Insurance](http://www.buyamericaninsurance.com/?affiliateid=immihelp)  
+ [Medical Insurance](http://www.buyamericaninsurance.com/)  
  [Directory](https://web.archive.org/directory/)  
  [Discussion Forums](https://web.archive.org/forum/)  
  [Fillable Forms](https://web.archive.org/forms/)  
@@ -18,7 +18,7 @@
 ---  
  [Extend Visitor Visa](https://web.archive.org/visas/extend.html)  
  [H1B, H4 Visa](https://web.archive.org/visas/h1b/)  
- [Student Visa(F, J, M)](https://web.archive.org/visas/student/)  
+ [Student Visa(F, J, M)](https://web.archive.org/visas/studentvisa/)  
  [Visitor Visa](https://web.archive.org/visas/visitor/)  
      [More...](https://web.archive.org/visas/)  
   
