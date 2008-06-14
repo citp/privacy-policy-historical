@@ -1,31 +1,47 @@
-> *The following text is extracted and transformed from the tredosoft.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014062100id_/http%3A//tredosoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tredosoft.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614041816id_/http%3A//tredosoft.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TredoSoft
 
-Submitted by [Yousif](https://web.archive.org/user/1 "View user profile.") on Tue, 02/05/2006 - 1:40pm.
+We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as “Data” below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control.
 
-**Privacy Policy**
+Please take time to read our [Terms of Use](https://web.archive.org/TOS).
 
-Effective 2nd May 2006
+    1. **Collection of Data**
 
-Our basic policy is that we don't care who you are, but we keep track of what you do with our machines, and you will be responsible for anything you ask us to publish on your behalf. 
+Our registration process requires only a valid e-mail address and a unique user ID and password. Providing us with other information is at your option. Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site. Like many web sites, we may also automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how advertising may be served on this site (if at all) is set forth below.
 
-## Forms and comments 
+    2. **Use of Data**
 
-This web site makes a reasonable effort to refrain from disclosing information submitted via forms (e.g. in comments and feedback). We cannot guarantee that accidents won't happen. If you are concerned about privacy and are unwilling to take the risk, simply do not provide your information. Private information is never a requirement for services provided here. 
+We may use Data to customize and improve your user experience on this site. We will make efforts so that your Data will not be provided to third parties unless (i) provided for otherwise in this Privacy Policy; (ii) we obtain your consent, such as when you choose to opt-in or opt-out to the sharing of Data; (iii) a service provided on our site requires the interaction with or is provided by a third party, by way of example an Application Service Provider; (iv) pursuant to legal process or law enforcement; (v) we find that your use of this site violates our this Policy, Terms of Service, other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property; or (vi) this site is purchased by a third party whereby that third party will be able to use the Data in the same manner as we can as set forth in this Policy. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites.
 
-## Browsing
+    3. **Cookies**
 
-The mere act of viewing pages on this site will not cause private information about you to be recorded. We do, however, record your IP address, the date and time your browse each page, and the URL of the page. We normally do not make this information available to the public - it is collected to provide statistical information about server usage, and to plan for future capacity. We may occasionally use "cookies" to temporarily identify your session in order to improve the quality of service we provide, but such cookie use will not cause any personal information about you to be disclosed to us. 
+Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.
 
-## EMail
+You can click here to find out more information about your options including from the following companies that may serve advertising on our site:
 
-No email addresses used either in contacting us or posting comments will be disclosed to any third party without your prior consent. 
+[ [Google AdSense](https://google.com/adsense) ] 
+    4. **Children**
 
-## Advertisements
+We do not allow persons who are aged twelve (12) or younger to become members of this site. For more information, please contact our [Webmaster](https://web.archive.org/feedback).
 
-Advertisements apprearing on this site will have their own privacy policies provided by the agent of the advertisement. For Google Adsense ads see [Google's Full privacy policy](http://www.google.com/privacypolicy.html)
+    5. **Editing or Deleting Your Account Information**
 
-## Other
+We provide you with the ability to edit the information in your user account information that you provided to us in registration by using your personal page configuration area. You may request deletion of your user account by contacting our [Webmaster](https://web.archive.org/feedback).
 
-Send us an email via [our feedback form](https://web.archive.org/feedback) if you have further questions about this policy.
+Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted.
+
+    6. **Changes to this Privacy Policy**
+
+We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings.
+
+    7. **NO GUARANTEES**
+
+While this Privacy Policy states our standards for maintenance of Data and we will make efforts to meet them, we are not in a position to guarantee these standards. There may be factors beyond our control that may result in disclosure of data. As a consequence, we disclaim any warranties or representations relating to maintenance or nondisclosure of Data.
+
+    8. **Contact Information**
+
+If you have any questions about this Policy or our web site, please feel free to contact our [Webmaster](https://web.archive.org/feedback).
+
+
+
