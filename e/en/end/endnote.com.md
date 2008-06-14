@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the endnote.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216230308id_/http%3A//www.endnote.com/enprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endnote.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614201536id_/http%3A//www.endnote.com/enprivacy.asp) for the most accurate reproduction.*
 
 # EndNote - Privacy Policy
 
-Last updated September 7, 2004
+Thomson Reuters knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy. 
 
-Thomson Scientific knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy. 
+This Privacy Statement relates solely to the online information collection and use practices of our Web site located at www.endnote.com (this "Web Site"). We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.. 
 
-The following details apply to any personal information provided or gathered by Thomson Scientific and its associated businesses (Thomson ISI; Thomson ResearchSoft; Thomson Derwent Information Ltd; Thomson Current Drugs; Thomson Wila-Derwent; and Thomson Delphion). 
-
-Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please [contact the webmaster](https://web.archive.org/web/20071216230308id_/http%3A//www.endnote.com/enwebmaster.asp).
+Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please [contact the webmaster](https://web.archive.org/web/20080614201536id_/http%3A//www.endnote.com/enwebmaster.asp).
 
 **WHAT INFORMATION ABOUT YOU DO WE COLLECT?**
 
 When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services.
 
-In addition to providing us with information through the Web site you may also provide us with personally identifiable information that you knowing choose to disclose when registering interest in Thomson Scientific products and/or services.
+In addition to providing us with information through the Web site you may also provide us with personally identifiable information that you knowing choose to disclose when registering interest in Thomson Reuters products and/or services.
 
 **Personally Identifiable Information You Choose to Provide.**
 
-We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in one of out Thomson Scientific newsletters, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications and marketing programs.
+We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in one of our Thomson Reuters newsletters, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications and marketing programs.
 
   
 **Non-Personally Identifiable Information We Collect.**
@@ -29,7 +27,7 @@ You can, of course, disable cookies on your computer by indicating this in the p
 
 **HOW DO WE USE THE INFORMATION WE COLLECT?**
 
-We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive such information from us, please [contact the webmaster](https://web.archive.org/web/20071216230308id_/http%3A//www.endnote.com/enwebmaster.asp).
+We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive such information from us, please [contact the webmaster](https://web.archive.org/web/20080614201536id_/http%3A//www.endnote.com/enwebmaster.asp).
 
 We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer.
 
@@ -45,8 +43,8 @@ We take reasonable steps to maintain the security of the personally identifiable
 
 **CONSENT TO TRANSFER**
 
-Thomson Scientific Web Sites are operated in the United States, United Kingdom and Japan. Please be aware that Thomson Scientific is a global organisation with offices located all over the world and thus information you provide to us may be transferred to these locations. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
+Thomson Reuters Web Sites are operated in the United States, United Kingdom and Japan. Please be aware that Thomson Reuters is a global organisation with offices located all over the world and thus information you provide to us may be transferred to these locations. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
 **LINKS**
 
-This Web Site may contain links to third party sites as well as to other sites owned and/or operated by Thomson Scientific and The Thomson Corporation. Please be aware that Thomson Scientific is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.
+This Web Site may contain links to third party sites as well as to other sites owned and/or operated by Thomson Reuters. Please also be aware that the privacy policies of other Thomson Reuters sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.
