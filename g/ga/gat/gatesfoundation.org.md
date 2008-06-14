@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gatesfoundation.org privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226165922id_/http%3A//www.gatesfoundation.org/AboutUs/Policies/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatesfoundation.org privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614145733id_/http%3A//gatesfoundation.org/AboutUs/Policies/Privacy) for the most accurate reproduction.*
 
 # Privacy - Bill & Melinda Gates Foundation
 
-|  Privacy Policy and Copyright
+|  Privacy Policy
 
  **Gatesfoundation.org Privacy and Information Security Policy ("Privacy Policy" or "Policy")**
 
@@ -10,9 +10,9 @@
 
 [](https://web.archive.org/AboutUs/Policies/Privacy/default.htm?version=print)    
 
-Effective Date: December 17, 2007
+Effective Date: May 7, 2008
 
-Welcome. This Policy is designed to help you understand generally how Gatesfoundation.org (the "Site") collects personally identifying information about you and how it uses and discloses that personal information. Gatesfoundation.org is a Web site of the Bill & Melinda Gates Foundation (the "Foundation," "we," "us" etc.), a charitable trust existing under the laws of the State of Washington, U.S.A. You may contact us at our Address For Legal Notices below. This Policy applies to information that personally identifies you (other than publicly available information) ("personal information") collected on Gatesfoundation.org.
+Welcome. This Policy is designed to help you understand generally how Gatesfoundation.org (the "Site") collects personally identifying information about you and how it uses and discloses that personal information. Gatesfoundation.org is a Web site of the Bill & Melinda Gates Foundation (the "Foundation," "we," "us" etc.), a charitable trust existing under the laws of the State of Washington, U.S.A. You may contact us at our Address For Legal Notices below. This Policy applies to information that personally identifies you (other than publicly available information) ("personal information") collected on Gatesfoundation.org or any additional Foundation Web properties or third-party sites managed by the Bill & Melinda Gates Foundation.
 
 **USE OF OUR SITE OR PROVISION OF ANY PERSONAL INFORMATION CONSTITUTES AGREEMENT TO THIS POLICY.    DO NOT USE THE SITE OR PROVIDE INFORMATION (OR ALLOW OTHERS TO DO SO ON YOUR BEHALF) IF YOU (AND YOUR PRINCIPAL IF YOU ARE ACTING AS AGENT) DO NOT AGREE WITH ALL OF THE TERMS OF USE INCLUDING THIS POLICY AND ANY APPLICABLE SUPPLEMENTAL PRIVACY POLICY.**
 
