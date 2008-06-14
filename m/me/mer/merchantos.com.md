@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the merchantos.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210135051id_/http%3A//www.merchantos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantos.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614022948id_/http%3A//www.merchantos.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Point Of Sale Software by MerchantOS
+# Privacy
 
 Our postal address is  
 359 N. 17th St.  
@@ -30,4 +30,4 @@ Consumers can have this information corrected by calling us at the above telepho
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
