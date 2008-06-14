@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swagelok.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216145545id_/http%3A//www.swagelok.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swagelok.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614152220id_/http%3A//www.swagelok.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # SWAGELOK.COM® PRIVACY POLICY
 
@@ -79,4 +79,4 @@ I HAVE READ AND UNDERSTAND THIS PRIVACY POLICY AND SITE TERMS AND CONDITIONS AND
   
 |  [ ](http://www.swagelok.com/distributors/locate_dist.aspx)  
 ---  
-Find your Sales and Service Center 
+Find a Sales & Service Center 
