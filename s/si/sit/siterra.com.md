@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siterra.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210110025id_/http%3A//www.siterra.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siterra.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614232136id_/http%3A//www.siterra.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # Siterra : Company : Privacy Policy
 
