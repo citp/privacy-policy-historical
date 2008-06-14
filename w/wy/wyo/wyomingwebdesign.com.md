@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyomingwebdesign.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216215226id_/http%3A//www.wyomingwebdesign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyomingwebdesign.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614233650id_/http%3A//www.wyomingwebdesign.com/privacy.html) for the most accurate reproduction.*
 
 # Wyoming Webdesign Privacy Policy
 
@@ -33,8 +33,7 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 [google.com](http://www.google.com/intl/en/privacy.html)  
 [boxedart.com](http://www.boxedart.com/cgi-bin/affiliates/clickthru.cgi?id=wyweb)  
-[templatemonster.com](http://store.templatemonster.com/?aff=wyweb)  
-[cj.com](http://www.cj.com/privacy.jsp)
+[templatemonster.com](http://store.templatemonster.com/?aff=wyweb)
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically.
 
