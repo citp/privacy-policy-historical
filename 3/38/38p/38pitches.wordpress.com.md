@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 38pitches.wordpress.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216025958id_/http%3A//38pitches.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 38pitches.wordpress.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614092722id_/http%3A//38pitches.com/privacy) for the most accurate reproduction.*
 
 # Privacy « 38 Pitches
 
@@ -85,7 +85,7 @@ If you have additional questions or comments of any kind, if you see anything on
 5 Clock Tower Place  
 Maynard, Massachusetts 01754  
 Attn: Customer Care - Privacy Issues  
-(978) 310-5100  
+(97  310-5100  
 [info@38studios.com](mailto:info@38pitches.com)
 
 Copyright © 2007. 38pitches.com. All Rights Reserved.
