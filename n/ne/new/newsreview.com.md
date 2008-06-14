@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsreview.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214101003id_/http%3A//www.newsreview.com/sacramento/ViewPage%3Foid%3D39096) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsreview.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614022846id_/http%3A//www.newsreview.com/sacramento/ViewPage%3Foid%3D39096) for the most accurate reproduction.*
 
 # Privacy Policy
 
