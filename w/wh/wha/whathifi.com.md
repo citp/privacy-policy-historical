@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whathifi.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216222149id_/http%3A//whathifi.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whathifi.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614093127id_/http%3A//whathifi.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - What Hi-Fi? Sound and Vision
 
