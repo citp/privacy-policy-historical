@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newhorizons.com privacy policy that was archived on 2007-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071215195353id_/http%3A//www.newhorizons.com/content/terms.aspx%3Fid%3D307) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newhorizons.com privacy policy that was archived on 2008-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080614094134id_/http%3A//www.newhorizons.com/content/terms.aspx%3Fid%3D307) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.01 transitional//en" "http://www.w3.org/tr/html4/loose.dtd"><html><head>
 		<title>Privacy Policy</title><meta name="ROBOTS" content="INDEX, FOLLOW">
@@ -12,14 +12,13 @@
 		<link href="menu.css" media="screen" type="text/css" rel="stylesheet">
 		<link href="menuLeft.css" media="screen" type="text/css" rel="stylesheet">
 		<link href="news.css" media="screen" type="text/css" rel="stylesheet">
-		<link href="navigationBar.css" media="screen" type="text/css" rel="stylesheet">
 		<link href="rt.css" media="screen" type="text/css" rel="stylesheet">
 		<link href="style.css" media="all" type="text/css" rel="stylesheet">
-		<link href="TopMenuStyle.css" media="screen" type="text/css" rel="stylesheet">
         <link href="TopMenuPrint.css" media="print" type="text/css" rel="stylesheet">
+		<link href="TopMenuStyle.css" media="screen" type="text/css" rel="stylesheet">
 		<link href="terms.css" media="all" type="text/css" rel="stylesheet">
-		<script src="clientScripts.js" language="javascript"></script>
-
+		<script type="text/javascript" language="javascript" src="clientScripts.js"></script>
+		<script type="text/javascript" language="javascript" src="/content/swfobject.js"></script>
 
         <!--[if IE]>
         <style type="text/css" media="screen">
@@ -55,7 +54,10 @@
 	<img src="images/header_logo.gif" border="0">
 	</a>
 </div>
-<div id="searchTools">
+<div id="searchTools" style="padding:0;margin-top:-35px;">
+<div style="text-align:right;padding-right:2px; margin-bottom:25px;clear:right;">
+	<a href="javascript:ShowAccountModal('http://www.newhorizons.com/LocalWeb/');">My Account</a> | <a href="/LocalWeb/cart/Cart.aspx">View Cart</a>
+</div>
 	<div id="coursesSearchTool">
 		<form method="get" action="catalogSearch.aspx">
 		Search Courses: 
@@ -88,10 +90,8 @@
 </div></div>
 					<div id="menu2"> <!-- style="Z-INDEX:101"-->
 					
-<table cellspacing="0" cellpadding="0" border="0" width="100%">
-<tbody>
-<tr>
-<td id="globalNavCell">
+
+<div id="globalNavCell">
 <div id="globalNav">
 <ul class="bsSol">
 <li>
@@ -442,11 +442,8 @@
       <li>
         <a href="/content/about.aspx?id=121">Conducts and Ethics</a>
       </li>
-      <li>
-        <a href="/content/about.aspx?id=123">Governance Committee</a>
-      </li>
       <li class="last">
-        <a href="http://www.ethicspoint.com/en/default.asp">Ethics Hotline</a>
+        <a href="/content/about.aspx?id=123">Governance Committee</a>
       </li>
     </ul>
   </li>
@@ -460,7 +457,7 @@
 		<li><a href="/content/about.aspx?id=1104">Investment</a></li>
 		<li><a href="/content/about.aspx?id=1106">FAQ</a></li>
 		<li><a href="/content/about.aspx?id=1108">Steps to Own a New Horizons Franchise</a></li>
-		<li><a href="/content/aboutfranchise.aspx">Request for Consideration</a></li>
+		<li class="last"><a href="/content/aboutfranchise.aspx">Request for Consideration</a></li>
 	</ul>
   </li>
   <li class="last">
@@ -470,10 +467,9 @@
 </li>
 </ul>
 </div>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+
+
 <!--[if IE 7]>
 <script type="text/javascript">
 var i;
@@ -483,7 +479,7 @@ for(i = 0; i< navmenus.length; i++) {
 }
 </script>
 <![endif]-->
-				    </div>
+				    </div>					
 					<div id="mainContent">
 						<div id="topImages">
 							<span id="businessSolutionsImage"></span>
@@ -499,11 +495,13 @@ for(i = 0; i< navmenus.length; i++) {
     <div class="title">Learning Resources</div>
     <ul><li><a href="/content/courseCatalog.aspx">Course Catalog</a></li><li><a href="/content/studentsLogin.aspx?id=424">Learning Port</a></li><li><a href="/content/casestudies.aspx?id=436">Case Studies</a></li><li><a href="/content/student.aspx?id=37">Webinars</a></li><li><a href="http://www.newhorizonsetips.com/">Tips and Tricks</a></li><li><a href="/content/elevate.aspx?id=1074">Newsletter</a></li><li><a href="/content/student.aspx?id=42&amp;sub=2&amp;did=42">Student Resources</a></li></ul>
 </div>
-							<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
-<p></p>
-<p><a href="/content/landingThankyou.aspx?id=1138" target="_self"><img title="MSAM_Sponsor_Button_sm" height="100" alt="MSAM_Sponsor_Button_sm" src="/uploadedImages/MSAM-sponsor-button10-sm.jpg" width="160" border="0">&nbsp;</a>&nbsp;<!-- --></p>
+							<div id="banner"></div><script type="text/javascript"><!--
+// <![CDATA[
+var so = new SWFObject("/uploadedFiles/AdBanner.swf", "Promotion", "160", "240", "8", "transparent");
+so.addParam("wmode", "transparent");
+so.write("banner");
+//</span>>
+//--></script>
 						</div>
 						<div id="content">
                             <div class="menuHeader">Privacy Policy</div>
@@ -513,52 +511,57 @@ for(i = 0; i< navmenus.length; i++) {
 							
 							
 	<div id="pageBody__pageTemplate_placeHolder_contentText">
-	<h1>Privacy Policy for New Horizons Computer Learning Centers, Inc. Websites<br>
-(Effective 4/27/06)</h1>
+	<h1>Privacy Policy for New Horizons Computer Learning Centers, Inc.<br>
+(Effective April 29, 2008)</h1>
+<p>This statement discloses the privacy practices for the New Horizons Computer Learning Centers, Inc. websites and informs you about:&nbsp;</p>
+<p>- what personally identifiable information is collected;</p>
+<p>- what organization is collecting the information;</p>
+<p>- how the information is used and disclosed to third parties;</p>
+<p>- what choices are available to you regarding collection, use, distribution, and correction of the information; and</p>
+<p>- what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company’s control.</p>
+<p>“Personal information” is information that would allow someone to identify or contact you, including, for example, your full name, address, telephone number or email address.</p>
+<p>This Privacy Policy is incorporated into and subject to the terms of our Terms of Use at <a title="blocked::http://www.newhorizons.com/termsofuse" href="/termsofuse">http://www.newhorizons.com/termsofuse</a> and you agree to be bound by its terms and conditions.&nbsp; This policy only addresses our activities from our servers.&nbsp; Other sites (including those that we link to and third party sites or services which we co-brand, such as email) may have their own policies, which we do not control, and thus are not addressed by this policy.</p>
 <h2>Introduction</h2>
-<p>To provide you with the best possible service, New Horizons from time to time may ask for personal information. You may update or access your personal information you provide for your profile on the <a href="http://www.newhorizons.com/">www.newhorizons.com</a>, &nbsp;<a href="http://my.newhorizons.com/">my.newhorizons.com</a>&nbsp;(the "Integrated Learning Manager Website"), and&nbsp;<a href="http://www.nhenglish.com/">www.nhenglish.com</a>&nbsp;(the "New Horizons English Learning Centers Website"), (collectively "NH Website") yourself any time. This can be done by logging on to any NH Website and selecting either "Edit Your Profile", "Change my Profile" or "Edit Your User Information." For security measures, in order to protect your information, you must first enter your user name and password before you can make any changes to your user profile. When you update your user profile, your new information will update our records that day.</p>
-<p>This policy is to make you aware as to what type of information is gathered and tracked, what the information is for, and with whom the information is shared.</p>
-<p>Attention: <a href="http://www.newhorizons.com/">www.newhorizons.com</a>is the main home page to New Horizons Computer Learning Centers, Inc., which has the general privacy policy for the NH Website. To create easy entry to our privacy policy, this policy illustrates possible customer information throughout the <a href="http://www.newhorizons.com/">www.newhorizons.com</a>Website. It is possible that not all personal information outlined in this policy will be used, but we want you to be aware of our policy and understand our procedures.</p>
+<p>To provide you with the best possible service, New Horizons from time to time may ask for personal information. You may update or access the personal information you provide for your profile at any time on <a href="/"><u>www.newhorizons.com</u></a> and <a href="http://www.nhenglish.com/">www.nhenglish.com</a> (the "New Horizons English Learning Centers Website"), (collectively, with the E-Tips site (defined below), the "NH Website"). This can be done by logging on to any NH Website and selecting either "Edit Your Profile", "Change my Profile" or "Edit Your User Information." For security measures, in order to protect your information, you must first enter your user name and password before you can make any changes to your user profile. When you update your user profile, your new information will update our records that day.</p>
+<p>This policy is to make you aware as to who is collecting the information, what type of information is gathered and tracked, what the information is for, and with whom the information is shared.</p>
+<p>Attention: <a href="/"><u>www.newhorizons.com</u></a> is the main home page to New Horizons Computer Learning Centers, Inc., which has the general privacy policy for the NH Website. This policy illustrates customer information that could be collected throughout the <a href="/"><u>www.newhorizons.com</u></a> Website. It is possible that not all personal information outlined in this policy will be used, but we want you to be aware of our policy and understand our procedures.</p>
 <h2>Information Gathered and How it is Used</h2>
-<p>There are areas in which you can browse on the NH Website without giving us personal information. However, there are certain elective areas of the NH Website, where, prior to entry, you will be asked for personal information to correspond with you, provide service and support, present a more personalized experience as you navigate the sites, process your orders, or supply you with requested information. The NH Website may ask for the following information: user's first and last name, email address, mailing address, phone number and center location preference when collecting information through the registration process (or new member registration form) which allows access to the NH Website. The site also provides the ability to request information and this Information Request Form will also ask for personal information from you. The information you provide through the Information Request Form is shared with the Affiliate or Franchise center, (collectively "Network Members"), the user has specified to engage in transactions or provide future services. We require that the Network Members agree to abide by the restrictions on use and disclosure of personal information set out in this Privacy Policy. If you submit Personal Information in response to a Career Opportunity, please be advised that your personal information will be distributed within the company so that the hiring manager can contact you and potentially discuss an employment opportunity with you.</p>
-<p>In order to access the Integrated Learning Manager Website you can simply register through <a href="http://www.newhorizons.com/">www.newhorizons.com</a>. The Integrated Learning Manager Web Site will require contact from Network Members only when training is purchased and access to that training is granted through the Integrated Learning Manager Web Site as the training portal. Information submitted to New Horizons will be used to create a uniquely identifiable account for tracking your learning activities.</p>
-<p>If you take advantage of the "Live Help" feature used on any of the sites, please be advised that this feature is managed and provided by a third party contractor. This one on one technical help provided as a courtesy to New Horizons customers. If you take advantage of the opportunity, a Liveperson will gather your user name to facilitate the service, but will not disclose your user name to others.</p>
-<p>If you wish to receive information on how to become a New Horizons Franchisee, New Horizons will collect your name, address, email address, what territory you are interested in, time frame on when you would like to invest in your own business, and how you heard about us from the Franchise Information Registration Form on the NH Website. The purpose for collecting this information is to enable our sales teams to respond to your inquiries with a better understanding of what type of training you are interested in purchasing.</p>
-<p>If you register with <a href="http://www.newhorizonsetips.com/">http://www.newhorizonsetips.com</a>(the "E-Tips site"), you will receive weekly information via e-mail which is based on four different categories, depending upon the preferences you select. In addition, you may elect to receive promotional offers from New Horizons and from other third parties.</p>
-<p>If you seek information as an investor, you will actually be linking to a third party site which looks and feels like an New Horizons site but is not. It is designed this way to facilitate and provide easy navigation. You will be entering any information in this site on the Sharebuilder site, please check their privacy policy for more information on how your Personal Information imputed on this site will or can be used. <a href="http://www.sharebuilder.com/sharebuilder/Home/Privacy.asp">http://www.sharebuilder.com/sharebuilder/Home/Privacy.asp</a>
-</p>
+<p>There are areas in which you can browse on the NH Website without giving us personal information.&nbsp; There are, however, certain elective areas of the NH Website, where, prior to entry, you will be asked for personal information.&nbsp; This information will be used by New Horizons to correspond with you, provide service and support, present a more personalized experience as you navigate the sites, process your orders, or supply you with requested information. The NH Website may ask for the following information when collecting information through the registration process (or new member registration form) that allows access to the NH Website: user's first and last name, email address, mailing address, phone number and center location preference. The NH Website also provides the ability to request information and an Information Request Form will also ask for personal information from you. The information you provide through the Information Request Form is shared with the Affiliate or Franchise center, (collectively "Network Members"), the user has specified to engage in transactions or provide future services. We contractually require that the Network Members agree to abide by the restrictions on use and disclosure of personal information set out in this Privacy Policy. If you submit Personal Information in response to a Career Opportunity, please be advised that your personal information will be distributed within the company so that the hiring manager can contact you and potentially discuss an employment opportunity with you.</p>
+<p>If you take advantage of the "Live Help" feature used on any of the sites, please be advised that this feature is managed and provided by a third party contractor. This one on one technical help provided as a courtesy to New Horizons customers. If you take advantage of the opportunity, a live person will gather your user name to facilitate the service, but will be contractually prohibited from disclosing your user name to others.</p>
+<p>If you wish to receive information on how to become a New Horizons Franchisee, New Horizons will collect from the Franchise Information Registration Form on the NH Website your name, address, email address, what territory you are interested in, time frame on when you would like to invest in your own business, and how you heard about us. The purpose for collecting this information is to enable our sales teams to respond to your inquiries with a better understanding of what type of training you are interested in purchasing.</p>
+<p>If you register with <a href="http://www.newhorizonsetips.com/"><u>http://www.newhorizonsetips.com</u></a> (the "E-Tips site"), you will receive weekly information via e-mail which is based on four different categories, depending upon the preferences you select. In addition, you may elect to receive promotional offers from New Horizons and from other third parties.</p>
+<p>If you seek investor relations information, you will be linking to a third party site which looks and feels like a New Horizons site but is not. It is designed this way to facilitate and provide easy navigation. For this site, you will actually be entering information on a site owned by Thomson.&nbsp; Please check the applicable privacy policy on the Thomson website for more information on how your Personal Information entered on their site will or can be used. <a title="http://www.thomson.com/content/footer/privacy_statement" href="http://www.thomson.com/content/footer/privacy_statement">http://www.thomson.com/content/footer/privacy_statement</a></p>
 <h2>With Whom New Horizons Shares Information</h2>
-<p>Unless New Horizons has your permission or is required by law, New Horizons will not sell, rent, lease or otherwise provide your personal information to others from ways different than stated in this privacy statement.</p>
-<p>New Horizons is the host of the Integrated Learning Manager Website and will not give any of your information you provided on the Integrated Learning Manager Website to a third party outside of the Network Members. The information will only be used to provide you with the services requested.</p>
+<p>Except as specified herein or unless New Horizons has your permission or is required by law, New Horizons will not sell, rent, lease or otherwise provide your personal information to others from ways different than stated in this privacy statement.</p>
 <p>Please remember that when you submit information to a discussion group or some other public forum, the information submitted will be deemed public information and will not be considered confidential.</p>
-<p>When you give us personal information for the E-Tips site, it is compiled on our behalf by a third party who does not sell it or transfer it to anyone else. Instead, it is used to provide you with promotional offers from either New Horizons or third parties, but only at your direction.</p>
+<p>When you give us personal information for the E-Tips site, it is compiled on our behalf by a third party who has been contractually obligated not sell it or transfer it to anyone else. Instead, it is used to provide you with promotional offers from either New Horizons or third parties, but only at your direction.</p>
+<p>As a general practice, we do not provide your personally identifiable information to third parties.&nbsp; So, for example, we do not sell your email address or your name and personal demographic information to mass marketers.&nbsp; However, by registering your profile on the NH Website, you may receive emails automatically generated from the NH Website that are directly related to your activity on the NH Website and are not used for marketing materials and purposes.&nbsp; Further, on particular pages where we ask for your personally identifiable information, we may explicitly tell you that the data we are collecting on that page will be shared with third parties, in which case those disclosures shall override anything to the contrary in this policy.&nbsp; We will not share your information with a third party who does not contractually agree to maintain the confidentiality of that information using reasonable security measures.</p>
+<p>In some situations, we share your personally identifiable information with third parties who provide services to our site in order to enhance the functionality available to you on our web site, and to provide you with information on new products and services.&nbsp; Further, in some cases, we use your personally identifiable information to provide information to you, such as to send newsletters to you that you request or to personalize the site in accordance with your requests.</p>
 <h2>Cookies and Other Technologies</h2>
 <p>The NH Website may collect anonymous information from your communication connection itself, which consists of network routing, equipment information like browser type, date, and time. Our system will also search your computer to see if there are "cookies" previously set by the NH Website. A cookie is a piece of data stored on the user's computer tied to information about the user.</p>
 <p>The data we collect from "Cookie" technology on our site contains no personal information and is used in the aggregate to improve our services, product offerings and Website content.</p>
 <p>We also use cookies to keep track of your personalization options so that we can deliver content specific to your interests each time you visit us. These cookies are not tied to your personal information.</p>
-<p>We do not offer an opt-out on our site for cookies, however browsers do provide you with information and control over cookies. You are not able to disable the cookie feature on this site.</p>
-<p>WebTrends is used to let New Horizons know the number of hits we have to our Websites while it also helps us to analyze Website traffic. See "Public Forums."</p>
-<h2>Communications from the Site</h2>
-<p>By registering your profile on the Integrated Learning Manager Website through&nbsp;<a href="http://my.newhorizons.com/">my.newhorizons.com</a>&nbsp;you will receive emails automatically generated from the Integrated Learning Manager Web Site, which are directly related to your activity on the Integrated Learning Manager Website and are not used for marketing materials and purposes. If you chose not to receive emails or communication from the Integrated learning Manager, you will not be able to participate in the service.</p>
+<p>We do not offer an opt-out on our site for cookies, however browsers do provide you with information and control over cookies. Although you are not able to disable the cookie feature on this site, you are always free to decline our cookies if your browser permits, but some parts of the NH Website may not work properly if you do.</p>
 <h2>Choice/Opt-out</h2>
-<p>If you decide to submit an Information Request Form, you will occasionally receive information on products, services, or special deals through announcement messages or newsletters. If you do not wish to receive our marketing materials and promotion communications, you may opt-out when submitting your personal information by sending us an email at <a href="mailto:webmaster@newhorizons.com">webmaster@newhorizons.com</a>. If you chose to opt out please be advised that you will not be able to access the Integrated Learning Manager.</p>
+<p>If you decide to submit an Information Request Form, you will occasionally receive information on products, services, or special deals through announcement messages or newsletters. If you do not wish to receive our marketing materials and promotion communications, you may opt-out when submitting your personal information by sending us an email at <a href="mailto:webmaster@newhorizons.com">webmaster@newhorizons.com</a>. If you chose to opt out please be advised that you will not be able to access the NH Website.</p>
+<h2>Compliance with US-EU Safe Harbor Privacy Principles.</h2>
+<p>To the extent that the NH Website is used to collect, process or store personal data belonging to individuals located in, or employed by entities located in, the European Union (“EU Parties”), our handling of that data adheres to the US-EU Safe Harbor Principles (“Safe Harbor”).&nbsp; Although we use reasonable efforts to verify the accuracy of data submitted by users of the NH Website, users are expected to update their personal information by going to <a href="/"><u>http://www.newhorizons.com</u></a> when necessary to ensure that their personal data is accurate, complete and current.&nbsp; We are committed to cooperating with data protection authorities located in Europe to resolve and remedy any disputes that arise regarding data connected to individuals located in (or employed by entities located in) Europe.</p>
 <h2>Links</h2>
-<p>We occasionally place links to relevant, outside resources within the NH Website. Be aware New Horizons is not responsible for the privacy practices or the content of such other sites. If you do not want your information to be used, do not click on the links. Third party links include learning centers outside the United States on the NH Website.</p>
-<p>On the <a href="http://www.newhorizons.com/">http://www.newhorizons.com</a>website, under "Company," the investor relations and career centers, and under "Student Resources", the Exam Prep and Learning Port, are hosted by a third party. New Horizons is not responsible for the privacy practices of these third parties.</p>
+<p>We occasionally place links to relevant, outside resources within the NH Website. Be aware New Horizons is not responsible for the privacy practices or the content of such other sites. We encourage you to investigate and ask questions before disclosing information to third parties.&nbsp; If you do not want your information to be used, do not share your information with those sites. Third party links include learning centers outside the United States on the NH Website.</p>
+<p>On the <a href="/"><u>http://www.newhorizons.com</u></a> website, under "Company," the investor relations and career centers, and under "Student Resources", the Exam Prep and Learning Port, are hosted by a third party. New Horizons is not responsible for the privacy practices of these third parties.</p>
 <h2>Security</h2>
 <p>Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, all employees are kept up-to-date on our security and privacy practices.</p>
+<p>We have established and maintain reasonable security procedures to protect the confidentiality, security and integrity of your personally identifiable information.&nbsp; “Perfect security,” however, does not exist on the Internet.&nbsp; Although your privacy is very important to us, due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties.&nbsp; For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications.&nbsp; Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.</p>
 <h2>Legal Disclaimer</h2>
 <p>We reserve the right to disclose your personally identifiable information as required by a court of competent jurisdiction and/or when we believe that disclosure is necessary to protect our rights and/or comply with any judicial proceeding, court order.</p>
 <h2>Public Forum</h2>
-<p>The community forums hosted in the Integrated Learning Manager Website are monitored by New Horizons and visible to the Network Members. Any information you place on these message boards is public information. New Horizons may, in its sole discretion, delete any inappropriate postings. The community forum is an added benefit for you to communicate with others on specific technical topics. New Horizons is not responsible for the content of the postings in these forums, but will monitor the forums and reserves the right to manage content as set out in the Integrated Learning Manager Website Terms and Conditions, above.</p>
-<p>The community forum on&nbsp;<a href="http://onlineanytime.newhorizons.com/">onlineanytime.newhorizons.com</a>&nbsp;is hosted by Element K and branded New Horizons. Please note that any information you place on these message boards is public information. New Horizons may, in its sole discretion, delete any inappropriate postings. The community forum is an added benefit for you to communicate with others on specific technical topics. New Horizons does not reply to the postings.</p>
+<p>The community forums hosted in the NH Website are monitored by New Horizons and visible to the Network Members. Any information you place on these message boards is public information. New Horizons may, in its sole discretion, delete any inappropriate postings. The community forum is an added benefit for you to communicate with others on specific technical topics. New Horizons is not responsible for the content of the postings in these forums, but reserves the right to manage content as set out in the NH Website Terms of Use.</p>
+<p>The community forum on <a href="http://learning.newhorizons.com/">http://learning.newhorizons.com</a> is hosted by Element K and branded New Horizons. Please note that any information you place on these message boards is public information. New Horizons may, in its sole discretion, delete any inappropriate postings. The community forum is an added benefit for you to communicate with others on specific technical topics. New Horizons does not reply to the postings.</p>
 <h2>Policy Updates</h2>
-<p>We may update this policy from time to time, to ensure we are using, collecting, and provide information in the same manner that is disclosed. If we decide to use personal information in a manner different than disclosed, we will promptly post any material changes on our NH home page 30 days before implementing them, thus providing you an opportunity to opt-out, if you determine that you are no longer interested in allowing access to your personal information.</p>
+<p>We may update this policy from time to time, to ensure we are using, collecting, and providing information in the same manner that is disclosed. If we decide to use personal information in a manner different than disclosed, we will use reasonable efforts to post any material changes on our NH home page thirty (30) days before implementing them, thus providing you an opportunity to opt-out, if you determine that you are no longer interested in allowing access to your personal information.</p>
 <h2>Contact Information</h2>
 <p>Questions or suggestions regarding this statement, the practices of this site, or any experience while visiting this Website should be directed to:</p>
-<p>
-<a href="mailto:privacy.policy@newhorizons.com">privacy.policy@newhorizons.com</a>
-</p>
+<p><a href="mailto:privacy.policy@newhorizons.com">privacy.policy@newhorizons.com</a>&nbsp;</p>
 <p>or</p>
 <p>Privacy Liaison<br>
 New Horizons Computer Learning Centers Inc.,<br>
@@ -569,7 +572,7 @@ Anaheim, CA 92806</p>
 						</div>
 						<div id="newsBar">
 						    
-							<p><a href="/content/learning.aspx?id=1128"><img title="Gold CPLS Button" alt="Gold CPLS Button" src="/uploadedImages/largest_nh_web.jpg" border="0"></a>&nbsp;</p>
+							<p><a href="/content/learning.aspx?id=1128&amp;msCert=1"><img title="Gold CPLS Button" alt="Gold CPLS Button" src="/uploadedImages/largest_nh_web.jpg" border="0"></a>&nbsp;</p>
 <p><a href="/content/about.aspx?id=118" target="_self"><img height="42" alt="Franchising Information" src="/uploadedImages/Franchising Information button.gif" width="150" border="0"></a><!--img height="50" alt="Xbox Image" src="/uploadedImages/xboxImage.gif" width="136" border="0" /--></p>
 						</div>
 					</div>
@@ -623,14 +626,16 @@ Anaheim, CA 92806</p>
 			</div>
 			<div id="rightSection"></div>
 		</div>
-		<div id="copyright"><p align="center">Copyright © 2007 New Horizons Worldwide, Inc. All rights reserved.</p></div>
-
-
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-        </script>	        
+		<div id="copyright"><p align="center">Copyright © 2008 New Horizons Worldwide, Inc. All rights reserved.</p></div>
+		
         <script type="text/javascript">
-            _uacct = "UA-891295-1";
-            urchinTracker();
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+        <script type="text/javascript">
+        var pageTracker = _gat._getTracker("UA-891295-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
         </script>
 	
 
