@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the more.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215232944id_/http%3A//www.more.com/more/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the more.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614095507id_/http%3A//www.more.com/more/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dyes) for the most accurate reproduction.*
 
-# More.com
+# More.com - MORE Magazine
 
   * Online Privacy Policy
-  * [Offline Privacy Policy](https://secure.meredith.com/privacy/policy.html)
+  * [Offline Privacy Policy](http://www.more.com/more/file.jsp?item=/privacy/policy)
   * [Visitor Agreement](http://more.com/more/file.jsp?item=/legal/terms)
   * Your California Privacy Rights
   * Meredith Corporation "Shine the Light" Customer Notice
@@ -12,7 +12,7 @@
 
 ## ONLINE PRIVACY POLICY
 
-Welcome to our website! More.com is a service provided by Meredith Corporation ("Meredith," "we" or "us"). Since 1902, Meredith has been committed to providing our customers with products and services characterized by outstanding quality, customer service and value. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online. Please [click here](https://secure.meredith.com/privacy/policy.html) to see our Offline Privacy Policy.
+Welcome to our website! More.com is a service provided by Meredith Corporation ("Meredith," "we" or "us"). Since 1902, Meredith has been committed to providing our customers with products and services characterized by outstanding quality, customer service and value. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online. Please [click here](http://www.more.com/more/file.jsp?item=/privacy/policy) to see our Offline Privacy Policy.
 
 By visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Online Privacy Policy and our [Visitor Agreement](http://more.com/more/file.jsp?item=/legal/terms). Please take a few minutes to read them before using or registering with any of our sites.
 
@@ -30,7 +30,7 @@ Please read this Online Privacy Policy carefully so that you understand our priv
 
 
 
-If you have questions about this Online Privacy Policy, please contact us at [privacy@meredith.com](mailto:privacy@meredith.com).   
+If you have questions about this Online Privacy Policy, please contact us at [privacy@meredith.com](mailto:privacy@meredith.com).  
 
 
 Return to top 
