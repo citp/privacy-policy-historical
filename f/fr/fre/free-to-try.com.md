@@ -1,19 +1,25 @@
-> *The following text is extracted and transformed from the free-to-try.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215190509id_/http%3A//www.free-to-try.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-to-try.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614113423id_/http%3A//www.free-to-try.com/privacy.php) for the most accurate reproduction.*
 
 # Free-To-Try.com - Privacy Statement
 
 **Information Collection and Use**
 
-Free-To-Try.com respects the privacy of visitors to any Website owned and operated by the network. When a visitor requests pages from Free-To-Try.com site, our Web servers automatically recognize the browser's domain name, and IP address. We collect the domain names and IP addresses in order to aggregate information on the pages users access or visit. This information is collected solely for statistical purposes and is not used to identify individuals.
+When a visitor requests pages from Free-To-Try.com site, our Web Server automatically recognizes Browser Name and Version, User OS, User IP address, Path etc. This information is collected solely for statistical purposes and is not used to identify individuals.
 
 **Cookies**
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. 
+A "cookie" is a small piece of information that is sent by a web server to be stored on a web browser cache in plain text format, so that it can later be read back from that browser when this visitor returns to that web server. This becomes useful for keeping you logged in your personal account unless you log out, tracking your travel over a particular site, remembering user preferences etc. Cookies cannot be used to retrieve personal data from your hard drive, install a virus, get your email address, or steal sensitive information about who you are. You do not need to have cookies turned on to navigate through our site.  
+We use cookies for the following purposes: 
 
-Currently we do not use cookies on public pages of Free-To-Try.com site. But we use an outside ad company to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+  * Keeping count of return visits;
+  * Tracking downloads with affiliate partnership support to receive our affiliate commission if user decides to purchase the software later, after downloading and trying it;
+
+
+
+We allow other companies that are presenting advertisements on Free-To-Try.com site to use tracking technologies. We do not give any personally identifiable information to them as part of this relationship. Our advertisers' use of tracking technology is subject to their own privacy policies, and we do not have any access to this information.
 
 **Links to Other Resources**
 
-Free-To-Try.com web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website. 
+Free-To-Try.com web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
 
-If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20071215190509id_/http%3A//www.free-to-try.com/contact.php).
+If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20080614113423id_/http%3A//www.free-to-try.com/contact.php).
