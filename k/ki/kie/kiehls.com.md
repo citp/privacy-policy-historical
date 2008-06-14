@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiehls.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216011707id_/http%3A//www.kiehls.com/_us/_en/customerservice/privacypolicy.aspx%3FTopicCode%3DCustService%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiehls.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614093625id_/http%3A//www.kiehls.com/_us/_en/customerservice/privacypolicy.aspx%3FTopicCode%3DCustService%26) for the most accurate reproduction.*
 
 # Kiehl's | Privacy Policy
 
@@ -53,7 +53,7 @@ kiehls.com does not provide personally identifiable information to unaffiliated 
 
 **Children's Privacy**
 
-This website is directed toward and designed for use by persons aged 13 or older. kiehls.com will not approve applications of, or establish or maintain accounts or memberships for, any child whom kiehls.com knows to be under the age of 13. kiehls.com does not solicit or knowingly collect personally identifiable information from children under the age of 13. If kiehls.com nevertheless discovers that it has received personally identifiable information from an individual who indicates that he or she is, or whom Kiehl's otherwise has reason to believe is, under the age of 13, kiehls.com will delete such information from its systems. Additionally, a child's parent or legal guardian may request that the child's information be corrected or deleted from kiehls.com's files by contacting us at customerservice@kiehls.com. 
+This website is directed toward and designed for use by persons aged 13 or older. kiehls.com will not approve applications of, or establish or maintain accounts or memberships for, any child whom kiehls.com knows to be under the age of 13. kiehls.com does not solicit or knowingly collect personally identifiable information from children under the age of 13. If kiehls.com nevertheless discovers that it has received personally identifiable information from an individual who indicates that he or she is, or whom Kiehl's otherwise has reason to believe is, under the age of 13, kiehls.com will delete such information from its systems. Additionally, a child's parent or legal guardian may request that the child's information be corrected or deleted from kiehls.com's files by using our [Contact Us Form](https://web.archive.org/web/20080614093625id_/http%3A//www.kiehls.com/_us/_en/customerservice/contactus.aspx?). 
 
 **"Cookies" and Advertisers**
 
