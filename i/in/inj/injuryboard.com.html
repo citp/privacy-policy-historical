@@ -1,864 +1,265 @@
-<!--The following is the downloaded HTML source of the injuryboard.com privacy policy that was archived on 2002-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020610082735id_/http%3A//www.injuryboard.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the injuryboard.com privacy policy that was archived on 2008-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080614155207id_/http%3A//www.injuryboard.com/legal.aspx%23privacy) for the most accurate reproduction.-->
 
-<html><head></head><body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" bottommargin="0" background="images/background.gif" link="#1a3a5c"><map name="topbar">
-<area shape="RECT" coords="513,50,575,67" href="index.cfm">
-<area shape="RECT" coords="583,50,681,67" href="profile.cfm">
-<area shape="RECT" coords="687,51,746,67" href="help.cfm">
-<area shape="RECT" coords="0,0,326,66" href="index.cfm">
-</map>
-
-<map name="tabs">
-<area shape="RECT" coords="176,19,292,39" href="injuries.cfm">
-<area shape="RECT" coords="329,19,443,39" href="causes.cfm">
-<area shape="RECT" coords="574,5,752,29" href="about.cfm">
-</map>
-
-
-
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="Generator" content="PhotoImpact">
-<meta name="PhotoImpact Document" content="\\Server\C\Clients\InjuryBoard\Source Images\layout.ufo">
-<script language="javascript">
- var ns,ie;
-bname = navigator.appName;
-ver = navigator.appVersion;
-int_ver = parseInt(ver);
-if (bname.indexOf("Netscape") >= 0 && int_ver >= 4) ns = 1;
-if (bname.indexOf("Microsoft Internet Explorer") >=0 && int_ver >= 4) ie = 1;
-if (ns)
-{var csstype='nn';}
-else if (ie)
-{var csstype='ie';}
-if (csstype)
-{
-
-	document.write('<link rel=stylesheet type="text/css" ')
-	document.write('href=/style/')
-	document.write(csstype + '.css>')
-
-//var css_code = "<link rel=stylesheet type='text/css'href=/style/" + csstype + ".css>";document.write(css_code);
-}
-
-</script><link rel="stylesheet" type="text/css" href="/style/nn.css">
-<script language="javascript">
-
-//INJURY FUNCTIONS
-//User selected first injury, so now display list of associated second level injurieslvlOneInjury.cfm?varFrom=LevelOneInjury
-function jsfGoToRefreshedFirstLevelInjuryPage(){
-	window.document.frmInjuries.action = "lvlOneInjury.cfm?SelectedInjuryOne=#injury1id";
-	window.document.frmInjuries.submit();
-}
-
-//User has selected second level injury as well...move them to the next page
-function jsfGoToSecondLevelInjuryPage(){
-	window.document.frmInjuries.action = "lvlTwoInjury.cfm?varFrom=LevelOneInjury";
-	window.document.frmInjuries.submit();
-}
-
-//User has selected third level injury as well...move them to the next page
-function jsfGoToThirdLevelInjuryPage(){
-	window.document.frmInjuries.action = "lvlThreeInjury.cfm?varFrom=LevelTwoInjury";
-	window.document.frmInjuries.submit();
-}
-
-//User has selected fourth level injury...move them to the next page
-function jsfGoToFourthLevelInjuryPage(){
-	window.document.frmInjuries.action = "lvlFourInjury.cfm?varFrom=LevelThreeInjury";
-	window.document.frmInjuries.submit();
-}
-
-//User has selected fifth level injury...move them to the next page
-function jsfGoToFifthLevelInjuryPage(){
-	window.document.frmInjuries.action = "lvlFiveInjury.cfm?varFrom=LevelFourInjury";
-	window.document.frmInjuries.submit();
-}
-
-//User selected FAQ link on first injury page, so now display FAQ page
-function jsfGoToFAQInjuryPage(level){
-	if (level == 'one'){
-		window.document.frmInjuries.action = "FAQ.cfm?varFrom=LevelOneInjury";
-	}
-	else if (level == 'two'){
-		window.document.frmInjuries.action = "FAQ.cfm?varFrom=LevelTwoInjury";
-	}
-	else if (level == 'three'){
-			window.document.frmInjuries.action = "FAQ.cfm?varFrom=LevelThreeInjury";
-	}
-	else if (level == 'four'){
-				window.document.frmInjuries.action = "FAQ.cfm?varFrom=LevelFourInjury";
-	}
-	else if (level == 'five'){
-					window.document.frmInjuries.action = "FAQ.cfm?varFrom=LevelFiveInjury";
-	}
-	window.document.frmInjuries.submit();
-}
-
-//User selected Headline & News link on first injury page, so now display Headline and News page
-function jsfGoToHeadlineNewsInjuryPage(level){
-	if (level == 'one'){
-		window.document.frmInjuries.action = "HeadlineNews.cfm?varFrom=LevelOneInjury";
-	}
-	else if (level == 'two'){
-		window.document.frmInjuries.action = "HeadlineNews.cfm?varFrom=LevelTwoInjury";
-	}
-	else if (level == 'three'){
-			window.document.frmInjuries.action = "HeadlineNews.cfm?varFrom=LevelThreeInjury";
-	}
-	else if (level == 'four'){
-				window.document.frmInjuries.action = "HeadlineNews.cfm?varFrom=LevelFourInjury";
-	}
-	else if (level == 'five'){
-					window.document.frmInjuries.action = "HeadlineNews.cfm?varFrom=LevelFiveInjury";
-	}
-	window.document.frmInjuries.submit();
-}
-
-//User selected Govt Reports link on first injury page, so now display Govt Reports page
-function jsfGoToGovtReportsInjuryPage(level){
-	if (level == 'one'){
-		window.document.frmInjuries.action = "GovtReports.cfm?varFrom=LevelOneInjury";
-	}
-	else if (level == 'two'){
-		window.document.frmInjuries.action = "GovtReports.cfm?varFrom=LevelTwoInjury";
-	}
-	else if (level == 'three'){
-			window.document.frmInjuries.action = "GovtReports.cfm?varFrom=LevelThreeInjury";
-	}
-	else if (level == 'four'){
-				window.document.frmInjuries.action = "GovtReports.cfm?varFrom=LevelFourInjury";
-	}
-	else if (level == 'five'){
-					window.document.frmInjuries.action = "GovtReports.cfm?varFrom=LevelFiveInjury";
-	}
-	window.document.frmInjuries.submit();
-}
-
-//User selected Headline & News article link on first injury page, so now display Headline and News article page
-function jsfGoToHeadlineNewsArticleInjuryPage(level,news){
-	if (level == 'one'){
-		window.document.frmInjuries.action = "HeadlineNewsArticle.cfm?varFrom=LevelOneInjury&Article="+news;
-	}
-	else if (level == 'two'){
-		window.document.frmInjuries.action = "HeadlineNewsArticle.cfm?varFrom=LevelTwoInjury&Article="+news;
-	}
-	else if (level == 'three'){
-		window.document.frmInjuries.action = "HeadlineNewsArticle.cfm?varFrom=LevelThreeInjury&Article="+news;
-	}
-	else if (level == 'four'){
-		window.document.frmInjuries.action = "HeadlineNewsArticle.cfm?varFrom=LevelFourInjury&Article="+news;
-	}
-	else if (level == 'five'){
-		window.document.frmInjuries.action = "HeadlineNewsArticle.cfm?varFrom=LevelFiveInjury&Article="+news;
-	}
-	window.document.frmInjuries.submit();
-}
-
-//User selected Govt Reports article link on first injury page, so now display Govt Reports article page
-function jsfGoToGovtReportsArticleInjuryPage(level,article){
-	if (level == 'one'){
-		window.document.frmInjuries.action = "GovtReportsArticle.cfm?varFrom=LevelOneInjury&Article="+article;
-	}
-	else if (level == 'two'){
-		window.document.frmInjuries.action = "GovtReportsArticle.cfm?varFrom=LevelTwoInjury&Article="+article;
-	}
-	else if (level == 'three'){
-		window.document.frmInjuries.action = "GovtReportsArticle.cfm?varFrom=LevelThreeInjury&Article="+article;
-	}
-	else if (level == 'four'){
-		window.document.frmInjuries.action = "GovtReportsArticle.cfm?varFrom=LevelFourInjury&Article="+article;
-	}
-	else if (level == 'five'){
-		window.document.frmInjuries.action = "GovtReportsArticle.cfm?varFrom=LevelFiveInjury&Article="+article;
-	}
-	window.document.frmInjuries.submit();
-}
-
-//CAUSE FUNCTIONS
-//User selected first cause, so now display list of associated second level causeslvlOneCause.cfm?varFrom=LevelOneCause
-function jsfGoToRefreshedFirstLevelCausePage(){
-	window.document.frmCauses.action = "lvlOneCause.cfm?varFrom=LevelOneCause";
-	window.document.frmCauses.submit();
-}
-
-//User has selected second level cause as well...move them to the next page
-function jsfGoToSecondLevelCausePage(){
-	window.document.frmCauses.action = "lvlTwoCause.cfm?varFrom=LevelOneCause";
-	window.document.frmCauses.submit();
-}
-
-//User has selected third level cause as well...move them to the next page
-function jsfGoToThirdLevelCausePage(){
-	window.document.frmCauses.action = "lvlThreeCause.cfm?varFrom=LevelTwoCause";
-	window.document.frmCauses.submit();
-}
-
-//User has selected fourth level cause...move them to the next page
-function jsfGoToFourthLevelCausePage(){
-	window.document.frmCauses.action = "lvlFourCause.cfm?varFrom=LevelThreeCause";
-	window.document.frmCauses.submit();
-}
-
-//User has selected fifth level cause...move them to the next page
-function jsfGoToFifthLevelCausePage(){
-	window.document.frmCauses.action = "lvlFiveCause.cfm?varFrom=LevelFourCause";
-	window.document.frmCauses.submit();
-}
-
-//User selected FAQ link on first cause page, so now display FAQ page
-function jsfGoToFAQCausePage(level){
-	if (level == 'one'){
-		window.document.frmCauses.action = "causeFAQ.cfm?varFrom=LevelOneCause";
-	}
-	else if (level == 'two'){
-		window.document.frmCauses.action = "causeFAQ.cfm?varFrom=LevelTwoCause";
-	}
-	else if (level == 'three'){
-			window.document.frmCauses.action = "causeFAQ.cfm?varFrom=LevelThreeCause";
-	}
-	else if (level == 'four'){
-				window.document.frmCauses.action = "causeFAQ.cfm?varFrom=LevelFourCause";
-	}
-	else if (level == 'five'){
-					window.document.frmCauses.action = "causeFAQ.cfm?varFrom=LevelFiveCause";
-	}
-	window.document.frmCauses.submit();
-}
-
-//User selected Headline & News link on first cause page, so now display Headline and News page
-function jsfGoToHeadlineNewsCausePage(level){
-	if (level == 'one'){
-		window.document.frmCauses.action = "causeHeadlineNews.cfm?varFrom=LevelOneCause";
-	}
-	else if (level == 'two'){
-		window.document.frmCauses.action = "causeHeadlineNews.cfm?varFrom=LevelTwoCause";
-	}
-	else if (level == 'three'){
-			window.document.frmCauses.action = "causeHeadlineNews.cfm?varFrom=LevelThreeCause";
-	}
-	else if (level == 'four'){
-				window.document.frmCauses.action = "causeHeadlineNews.cfm?varFrom=LevelFourCause";
-	}
-	else if (level == 'five'){
-					window.document.frmCauses.action = "causeHeadlineNews.cfm?varFrom=LevelFiveCause";
-	}
-	window.document.frmCauses.submit();
-}
-
-//User selected Govt Reports link on first cause page, so now display Govt Reports page
-function jsfGoToGovtReportsCausePage(level){
-	if (level == 'one'){
-		window.document.frmCauses.action = "causeGovtReports.cfm?varFrom=LevelOneCause";
-	}
-	else if (level == 'two'){
-		window.document.frmCauses.action = "causeGovtReports.cfm?varFrom=LevelTwoCause";
-	}
-	else if (level == 'three'){
-			window.document.frmCauses.action = "causeGovtReports.cfm?varFrom=LevelThreeCause";
-	}
-	else if (level == 'four'){
-				window.document.frmCauses.action = "causeGovtReports.cfm?varFrom=LevelFourCause";
-	}
-	else if (level == 'five'){
-					window.document.frmCauses.action = "causeGovtReports.cfm?varFrom=LevelFiveCause";
-	}
-	window.document.frmCauses.submit();
-}
-
-//User selected Headline & News article link on first cause page, so now display Headline and News article page
-function jsfGoToHeadlineNewsArticleCausePage(level,news){
-	if (level == 'one'){
-		window.document.frmCauses.action = "causeHeadlineNewsArticle.cfm?varFrom=LevelOneCause&Article="+news;
-	}
-	else if (level == 'two'){
-		window.document.frmCauses.action = "causeHeadlineNewsArticle.cfm?varFrom=LevelTwoCause&Article="+news;
-	}
-	else if (level == 'three'){
-			window.document.frmCauses.action = "causeHeadlineNewsArticle.cfm?varFrom=LevelThreeCause&Article="+news;
-	}
-	else if (level == 'four'){
-				window.document.frmCauses.action = "causeHeadlineNewsArticle.cfm?varFrom=LevelFourCause&Article="+news;
-	}
-	else if (level == 'five'){
-					window.document.frmCauses.action = "causeHeadlineNewsArticle.cfm?varFrom=LevelFiveCause&Article="+news;
-	}
-	window.document.frmCauses.submit();
-}
-
-//User selected Govt Reports article link on first cause page, so now display Govt Reports article page
-function jsfGoToGovtReportsArticleCausePage(level,article){
-	if (level == 'one'){
-		window.document.frmCauses.action = "causeGovtReportsArticle.cfm?varFrom=LevelOneCause&Article="+article;
-	}
-	else if (level == 'two'){
-		window.document.frmCauses.action = "causeGovtReportsArticle.cfm?varFrom=LevelTwoCause&Article="+article;
-	}
-	else if (level == 'three'){
-			window.document.frmCauses.action = "causeGovtReportsArticle.cfm?varFrom=LevelThreeCause&Article="+article;
-	}
-	else if (level == 'four'){
-				window.document.frmCauses.action = "causeGovtReportsArticle.cfm?varFrom=LevelFourCause&Article="+article;
-	}
-	else if (level == 'five'){
-					window.document.frmCauses.action = "causeGovtReportsArticle.cfm?varFrom=LevelFiveCause&Article="+article;
-	}
-	window.document.frmCauses.submit();
-}
-
-//GENERIC FUNCTIONS (IRRELEVANT WHETHER CAUSE OR INJURY PAGE)
-
-//User selected an article link from search results page, so now display that article page
-function jsfGoToSpecificArticlePage(ID){
-	window.document.location = "specificArticleFromSiteSearch.cfm?Article="+ID;
-}
-
-function goBack()
-{
-	window.document.location = history.back();
-}
-
-function jsfGoToInjuryFromSearchResultsPage(level,ID){
-	if (level == 'one'){
-		window.document.location = "lvlOneInjury.cfm?varFrom=SearchResults&Injury1ID="+ID;
-	}
-	else if (level == 'two'){
-		window.document.location = "lvlTwoInjury.cfm?varFrom=SearchResults&Injury2ID="+ID;
-	}
-	else if (level == 'three'){
-		window.document.location = "lvlThreeInjury.cfm?varFrom=SearchResults&Injury3ID="+ID;
-	}
-	else if (level == 'four'){
-		window.document.location = "lvlFourInjury.cfm?varFrom=SearchResults&Injury4ID="+ID;
-	}
-	else if (level == 'five'){
-		window.document.location = "lvlFiveInjury.cfm?varFrom=SearchResults&Injury5ID="+ID;
-	}
-}
-
-function jsfGoToCauseFromSearchResultsPage(level,ID){
-	if (level == 'one'){
-		window.document.location = "lvlOneCause.cfm?varFrom=SearchResults&Cause1ID="+ID;
-	}
-	else if (level == 'two'){
-		window.document.location = "lvlTwoCause.cfm?varFrom=SearchResults&Cause2ID="+ID;
-	}
-	else if (level == 'three'){
-		window.document.location = "lvlThreeCause.cfm?varFrom=SearchResults&Cause3ID="+ID;
-	}
-	else if (level == 'four'){
-		window.document.location = "lvlFourCause.cfm?varFrom=SearchResults&Cause4ID="+ID;
-	}
-	else if (level == 'five'){
-		window.document.location = "lvlFiveCause.cfm?varFrom=SearchResults&Cause5ID="+ID;
-	}
-}
-
-function jsfMoveToMoreRelatedPage(type,level,levelOneID,ID){
-	if (type == 'injury'){
-		if (level == 'one'){
-			window.document.location = "RelatedCauseInjury.cfm?type=injury&level=one&levelOneID="+levelOneID+"&ID="+ID;
-		}
-		else if (level == 'two'){
-			window.document.location = "RelatedCauseInjury.cfm?type=injury&level=two&levelOneID="+levelOneID+"&ID="+ID;
-		}
-		else if (level == 'three'){
-			window.document.location = "RelatedCauseInjury.cfm?type=injury&level=three&levelOneID="+levelOneID+"&ID="+ID;
-		}
-		else if (level == 'four'){
-			window.document.location = "RelatedCauseInjury.cfm?type=injury&level=four&levelOneID="+levelOneID+"&ID="+ID;
-		}
-		else if (level == 'five'){
-			window.document.location = "RelatedCauseInjury.cfm?type=injury&level=five&levelOneID="+levelOneID+"&ID="+ID;
-		}
-	}
-	else if (type == 'cause'){
-		if (level == 'one'){
-			window.document.location = "RelatedCauseInjury.cfm?type=cause&level=one&levelOneID="+levelOneID+"&ID="+ID;
-		}
-		else if (level == 'two'){
-			window.document.location = "RelatedCauseInjury.cfm?type=cause&level=two&levelOneID="+levelOneID+"&ID="+ID;
-		}
-		else if (level == 'three'){
-			window.document.location = "RelatedCauseInjury.cfm?type=cause&level=three&levelOneID="+levelOneID+"&ID="+ID;
-		}
-		else if (level == 'four'){
-			window.document.location = "RelatedCauseInjury.cfm?type=cause&level=four&&levelOneID="+levelOneID+"&ID="+ID;
-		}
-		else if (level == 'five'){
-			window.document.location = "RelatedCauseInjury.cfm?type=cause&level=five&&levelOneID="+levelOneID+"&ID="+ID;
-		}	
-	}
-}
-
-
-</script>
-<title>Privacy Statement - Injuryboard.com</title>
-
-<meta name="description" content="A comprehensive consumer-oriented site dedicated to helping the injured understand the possible causes of their injuries and subsequent legal rights.">
-
-<meta name="keywords" content="injuries, injury causes, recalls, warnings, news, law, attorney, lawyer,  InjuryBoard, personal injury, lawyer, recall, injuryboard, attorneys, lawyers, law, legal, medical, causes, news, recall, lawsuit, government reports, accident, liability, attorney, negligent, defective products, negligence, disease, medical conditions, liability, negligence, doctor, diseases, lawsuit, information, lawsuits, recalls, cancer, tort law, tort, firms, firm">
-
-
-<script language="JAVASCRIPT" type="text/javascript">
-
-<!--
-
-function  _CF_checkCFForm_1(_CF_this)
-
-    {
-
-    return true;
-
-    }
-
-
-//-->
-
-</script>
-
-
-
-
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><link rel="SHORTCUT ICON" href="/favicon.ico"><link href="/Styles/Styles.css" type="text/css" rel="stylesheet"><link rel="alternate" type="application/rss+xml" title="InjuryBoard.com National News" href="http://feeds.injuryboard.com/IBnationalnews">
+    <!--[if IE 6]>
+        <link href="/Styles/styles-ie.css" type="text/css" rel="stylesheet" />
+    <![endif]-->
+    <!--[if IE 7]>
+        <link href="/Styles/styles-ie7.css" type="text/css" rel="stylesheet" />
+    <![endif]-->
+    <script type="text/javascript" src="/JavaScript/javascript-functions.js"></script>
+    <meta name="Keywords" content="personal injury, lawyer, attorney, legal, privacy, disclaimer, terms of use"><meta name="Description" content="InjuryBoard.com aims to be your most trusted guide to personal injury legal and medical information on the Internet. In order to earn your trust, we at InjuryBoard.com would like to inform you of our policies and procedures as they relate to your privacy."></head>
+<body>
     
-	
-	    
-			
+        <div id="wrapper">
+        
+      <form name="aspnetForm" method="post" action="/legal.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="ctl00_ToolkitScriptManager1_HiddenField" id="ctl00_ToolkitScriptManager1_HiddenField" value="">
 
-<table cellpadding="0" cellspacing="0" border="0" width="760">
-        <tbody><tr>
-            <td colspan="7"><img src="images/topbar.gif" width="760" height="68" usemap="#topbar" border="0"></td>
-        </tr>
-        <tr>
-            <td colspan="7"><img src="images/tabs.gif" width="760" height="40" usemap="#tabs" border="0"></td>
-        </tr>
-        <tr>
-			<td rowspan="3" width="8"><img src="images/space.gif" width="8" height="1" alt="" border="0"></td>
-<td rowspan="3" width="147" valign="top">
-			<table border="0" width="143" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	<td colspan="5"><table height="8" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td></td></tr></tbody></table></td>
-	</tr>
-	<tr>
-	<td bgcolor="#CCCC99" background="images/nav_top.gif" colspan="5"><table height="5" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td></td></tr></tbody></table></td>
-	</tr>
-	<tr>
-	<td bgcolor="#FFCC00" rowspan="3" nowrap=""><br></td>
-	<td bgcolor="#CCCC99" colspan="3" class="navhead" width="141" align="center">
-	<font color="#000000"><b>SITE SEARCH</b></font></td>
-	<td bgcolor="#FFCC00" rowspan="3" nowrap=""><br></td>
-	</tr>
-	<tr>
-	<td bgcolor="#FFCC00" colspan="3" nowrap=""><img src="images/space.gif" height="1" width="141"></td>
-	</tr>
-	<tr>
-	<form target="_top" method="post" action="search2.dbm"></form>
-	<td bgcolor="#FFE794" align="center" valign="middle" colspan="3">
-	<font size="1" face="arial,sans-serif">
+</div>
 
-	<input size="10" name="criteria">
-	<input type="image" src="images/go.gif" value="Go">
-	</font></td>
-	</tr>
+
+<script src="/ScriptResource.axd?d=wJTFdYIRrPFw95Dn5_grhjqQWgOTOvo-e7_P9pN08dQtjNwcA7Qw8uGp802Wrr1mqlYXsD-S0wnRGIDNqtySYWyvLvMG7mnv9yT-vYRoIe01&amp;t=633163110875572426" type="text/javascript"></script>
+        
+            <div id="page_wrapper">
+                
+
+
+                <!-- header starts here -->
+                <div id="header_wrapper"><a href="http://www.injuryboard.com"><img src="/images/injuryboard-logo.jpg" alt="InjuryBoard.com" class="headerLogo"></a>
+
+                    <div id="login_wrapper"><a href="http://www.injuryboard.com/CommunitySignIn.aspx?ref=http%3a%2f%2fwww.injuryboard.com%2flegal.aspx">Sign In</a>&nbsp;|&nbsp;<a href="http://www.injuryboard.com/membership.aspx">Register</a></div>
+
+                 <div id="header_elements">
+                    
+
+<div id="search_box">
+     <label id="searchtxt" for="keyword"> </label>
+     <div id="ctl00__MainPageHeader1__SearchBar1_panel1">
 	
-	<tr>
-	<td bgcolor="#ffcc00" background="images/nav_bottom.gif" colspan="5" height="5"><table height="5" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td></td></tr></tbody></table></td>
-	</tr>
-	</tbody></table>
-	
-<!-- # # # # # NAVIGATE # # # # # -->
-	<table border="0" width="143" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	<td colspan="5"><table height="8" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td></td></tr></tbody></table></td>
-	</tr>
-	<tr>
-	<td colspan="5" bgcolor="#CCCC99" background="images/nav_top.gif"><table cellspacing="0" cellpadding="0" height="5" border="0"><tbody><tr><td></td></tr></tbody></table></td>
-	</tr>
-	<tr>
-	<td bgcolor="#FFCC00" rowspan="3" nowrap=""><br></td>
-	<td bgcolor="#CCCC99" colspan="3" class="navhead" width="141" align="center"><font color="#000000"><b>SITE CONTENTS</b></font></td>
-	<td bgcolor="#FFCC00" rowspan="3" nowrap=""><br></td>
-	</tr>
-	<tr>
-	<td bgcolor="#FFCC00" nowrap="" colspan="3"><img src="images/space.gif" height="1" width="141"></td>
-	</tr>
-	<tr>
-	<td bgcolor="#FFE794" width="6" nowrap=""><br></td>
-	<td>
-	<span class="navl">
-<!-- BEGIN MAIN REFS -->
-	<table bgcolor="#FFE794" border="0" width="134" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	<td width="10" nowrap="" height="6"></td>
-	<td width="10" nowrap=""></td>
-	<td width="109"></td>
-	</tr>
+     <div id="searchinput">
+		 <input name="ctl00$_MainPageHeader1$_SearchBar1$keyword" type="text" value="Enter Keyword(s)" id="ctl00__MainPageHeader1__SearchBar1_keyword" onblur="clickrecall(this,'Enter Keyword(s)')" onclick="clickclear(this, 'Enter Keyword(s)')">
+     </div>
+     <input type="submit" name="ctl00$_MainPageHeader1$_SearchBar1$searchgo" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$_MainPageHeader1$_SearchBar1$searchgo&quot;, &quot;&quot;, true, &quot;SearchGrp&quot;, &quot;&quot;, false, false))" id="ctl00__MainPageHeader1__SearchBar1_searchgo" class="searchgo">
+     
+     
+</div>
+</div>
+                      <div id="nav_wrapper">
+                        <ul id="nav">
+                            <li id="ho"><a href="http://www.injuryboard.com/">Home</a>&nbsp;|&nbsp;</li>
+                            <li id="nn"><a href="http://www.injuryboard.com/national-news/">National News</a>&nbsp;|&nbsp;</li>
+                            <li id="rn"><a href="http://www.injuryboard.com/regional-blogs/">Regional Blogs</a>&nbsp;|&nbsp;</li> 
+<!--                            <li id="rn"><a href="http://blogs.injuryboard.com/">Regional News</a>&nbsp;|&nbsp</li> -->
+                            <li id="hc"><a href="http://www.injuryboard.com/help-center/">Help Centers</a>&nbsp;|&nbsp;</li>
+                            <li id="fo"><a href="http://www.injuryboard.com/forums.aspx">Forums</a>&nbsp;|&nbsp;</li>
+                            <li id="ib"><a href="http://www.injuryboard.com/video/">Video</a>                                
+                            </li>
+                        </ul>
+                      </div>
+                   </div>
+                </div>
+                <!-- header ends here -->
+                
+<div id="welcome_wrapper">
+<div class="boxContent">
+<strong>Welcome</strong> to the community dedicated to personal safety, injury prevention and recovery. <a href="http://www.injuryboard.com/about.aspx">[What is InjuryBoard?]</a>
+<br><br>
+June is Home Safety Month – Visit <a href="http://www.mysafehome.org" target="_blank">MySafeHome.org</a> to learn more.
+</div>
+
+<div id="welcome_close">
+<input type="image" name="ctl00$_Module_WelcomeWrapper1$CloseButton" id="ctl00__Module_WelcomeWrapper1_CloseButton" src="/Images/welcome-x.gif" style="border-width:0px;">
+</div>
+  
+</div>
+
+                <div id="main_wrapper">
+                            
+
+<div id="contentcolumn_wrapper">
+    <div id="maincontent_wrapper">
+        <div class="boxContent">
+        <h1>InjuryBoard.com Legal Information</h1>
+            <div id="ctl00_ContentPlaceHolder1_ContentBlock1">
+	<a class="bookmark" id="privacy" title="privacy" name="privacy"></a><h3>Privacy Statement</h3>
+<br><p>InjuryBoard.com aims to be your most trusted guide to personal injury legal and medical information on the Internet. In order to earn your trust, we at InjuryBoard.com would like to inform you of our policies and procedures as they relate to your privacy.</p>
+<p>First and foremost, InjuryBoard.com and its management are intimately aware of, and have the utmost respect for, your privacy. The confidential nature of your communications with InjuryBoard.com and our&nbsp;member firms will always be respected.</p>
+<p>Since InjuryBoard.com is not a lawyer referral service nor a law firm, employees and managers of InjuryBoard.com will not evaluate the merits of your case. Rather, we will forward your inquiry to an InjuryBoard.com&nbsp;member firm.</p>
+<p>As is true of all licensed attorneys, a duty of confidentiality governs attorneys associated with InjuryBoard.com. State bar associations from around the United States enforce this duty of confidentiality. The duty of confidentiality prohibits attorneys from revealing your confidential information to others. The American Bar Association defines the duty of confidentiality as follows:</p>
+<p><u>Rule 1.6 Confidentiality of Information</u><br>
+(a) A lawyer shall not reveal information relating to representation of a client unless the client consents after consultation, except for disclosures that are impliedly authorized in order to carry out the representation, and except as stated in paragraph (b).</p>
+<p>(b) A lawyer may reveal such information to the extent the lawyer reasonably believes necessary:</p>
+<div id="subsection"><p>(1) to prevent the client from committing a criminal act that the lawyer believes is likely to result in imminent death or substantial bodily harm; or</p>
+<p>(2) to establish a claim or defense on behalf of the lawyer in a controversy between the lawyer and the client, to establish a defense to a criminal charge or civil claim against the lawyer based upon conduct in which the client was involved, or to respond to allegations in any proceeding concerning the lawyer's representation of a client.</p>
+</div><p>Since InjuryBoard.com is neither a lawyer referral service nor a law firm, we are not subject to the duty of confidentiality. However, as stated above, we will not reveal any of your private or confidential communications or other information to any outside source (except for InjuryBoard.com&nbsp;member law firms and attorneys affiliated with members of InjuryBoard.com) without your explicit permission.</p>
+<p>There are two basic ways that InjuryBoard.com may learn more about you. The first way, and perhaps most important, is through information that you supply to us through the free "Ask an Attorney" feature or by signing up for our Newsletter. Again, as described above, we will not reveal or sell any of the information that you voluntarily supply through these features to any entity unaffiliated with InjuryBoard.com or our attorney members.</p>
+<p>We may also collect certain general information through the use of "cookies," which are an integral part of browser technology and are used extensively throughout the Internet. Cookies allow InjuryBoard.com to customize our site to more adequately reflect your needs and preferences. Cookies simply associate a particular computer with certain characteristics. They do not gather personal or confidential information. For instance, a cookie will never know your name, address, telephone number, social security number, or any other similar information.</p>
+<p>While we respect and honor your privacy, InjuryBoard.com reserves the right to alter this privacy policy without notice.</p>
+<br><a class="bookmark" id="disclaimer" title="disclaimer" name="disclaimer"></a><h3>Disclaimer</h3>
+<br><p>InjuryBoard.com is the leading personal injury legal site for consumers. However, InjuryBoard.com is neither a law firm nor a legal referral service nor a doctor's office. As such, this site should not be used as a substitute for an attorney's advice or a medical doctor's diagnosis.</p>
+<p>InjuryBoard.com provides extensive legal, health, injury and medical information. However, we cannot provide specific medical or legal advice. Instead, the information we provide is general in nature.</p>
+<p>If you are concerned with a specific medical condition, we urge you to seek a doctor's advice. We cannot provide such medical advice to you. Additionally, if you have a specific legal problem, we encourage you to contact an attorney. As laws vary from state to state and are constantly changing, only a licensed attorney can provide you with specific legal advice.</p>
+<p>Each section of the InjuryBoard.com site has a link that allows you to contact one of our&nbsp;member firms free of charge. By contacting a&nbsp;member firm, you have not entered into an attorney/client relationship. Such a relationship can only be established after both parties have signed a written document. Should you enter into an attorney/client relationship with an InjuryBoard.com&nbsp;member firm, InjuryBoard.com does not receive any portion of the attorneys' or law firms' fees.</p>
+<p>InjuryBoard.com is not responsible for the actions and/or inactions of our&nbsp;member firms, nor can we guarantee your satisfaction. Furthermore, we do not necessarily recommend that you retain the services of our&nbsp;member firms. Certain state bar associations may consider an InjuryBoard.com membership to be a form of advertising. The hiring of a lawyer is an important decision that should not be based solely on advertisement. Such a decision should only be made after the review and careful consideration of a firm's experience and qualifications.</p>
+<p>While we make every reasonable effort to provide useful, timely and accurate information, we cannot guarantee the correctness of this information, nor can we guarantee that we carry information on every conceivable injury subject. In addition, while we closely monitor government initiated product recalls, we may from time to time be unaware of certain recalls and safety alerts.</p>
+<br><a class="bookmark" id="terms" title="terms" name="terms"></a><h3>Terms of Use</h3>
+<br><p>InjuryBoard.com is the property of Claris Law, LLC. Copying, distributing or otherwise using the information contained on the site is prohibited, except as provided in the <a href="/TermsOfUse.aspx">Terms &amp; Conditions for Republication, Retransmission, and Reproduction of InjuryBoard.com Material</a>. By using InjuryBoard.com, you agree that under no circumstances will InjuryBoard.com, Claris Law, LLC, its affiliates, or any lawyer or law firm participating in this site be responsible for (1) any information contained on, in or omitted from the site, (2) any person's reliance on any such information, whether or not the information is correct, current or complete, (3) the consequences of any action you or any other person takes or fails to take, whether or not based on information provided by, or as a result of, the use of the site. InjuryBoard.com, Claris Law, LLC, or its affiliates also have no responsibility for (4) any person's satisfaction with any lawyer or law firm, whether relating to the lawyer's or law firm's competence, diligence, or otherwise (5) the results of any advice given by, or representation from, any lawyer or law firm, or (6) the failure or refusal of any lawyer or law firm to respond to you or consult with you.</p>
+<p></p>
+</div>
+        </div>                                                                                                                
+    </div>
+</div>
+<div id="right_wrapper">
+    
+<a href="http://ask.injuryboard.com/"><img id="ctl00_ContentPlaceHolder1_ContactUsFlashModule_Image1" src="/Images/contact-orange.jpg" style="border-width:0px;"></a> 
+    <div id="ctl00_ContentPlaceHolder1_AskAnAttorneyMiniFormModule_PanelAskAnAttorney">
 	 
-		
-		<tr>
-		<td valign="top" class="navl">•</td>
-		<td colspan="2"><a href="index.cfm" target="_top">Home</a></td>
-		</tr>
-		  
-		
-		<tr>
-		<td valign="top" class="navl">•</td>
-		<td colspan="2"><a href="injuries.cfm" target="_top">Injuries</a></td>
-		</tr>
-		  
-		
-		<tr>
-		<td valign="top" class="navl">•</td>
-		<td colspan="2"><a href="causes.cfm" target="_top">Causes of Injuries</a></td>
-		</tr>
-		 		  
-		
-		<tr>
-		<td valign="top" class="navl">•</td>
-		<td colspan="2"><a href="recalls.cfm" target="_top">Recalls</a></td>
-		</tr> 
-		  
-		
-		<tr>
-		<td valign="top" class="navl">•</td>
-		<td colspan="2"><a href="news_library.cfm" target="_top">News Library</a></td>
-		</tr>
-		
-		
-		<tr>
-		<td valign="top" class="navl">•</td>
-		<td colspan="2"><a href="the_law.cfm" target="_top">Know the Law</a></td>
-		</tr>
-		  
-		
-		
-		
-				
-		<tr>
-		<td valign="top" class="navl">•</td>
-		<td colspan="2"><a href="intake.cfm" target="_top">Ask an Attorney</a></td>
-		</tr>
-		
-		
-		<tr>
-		<td valign="top" class="navl">•</td>
-		<td colspan="2"><a href="contact.cfm" target="_top">Contact</a></td>
-		</tr>	
-		
-		<tr>
-		<td valign="top" class="navl">•</td>
-		<td colspan="2"><a href="about.cfm" target="_top">About InjuryBoard</a></td>
-		</tr>	
-			
-		<tr>
-		<td colspan="3"><img src="images/line.gif" height="1" width="129" vspace="7"></td>
-		</tr>  
-	</tbody></table>
-<!-- END MAIN REFS -->
-	</span>
-<!-- BEGIN UTIL REFS -->
-	<table bgcolor="#FFE794" border="0" width="134" cellspacing="0" cellpadding="0">
-	    
-		<tbody><tr>
-		<td class="navSY" valign="top">•</td>
-		<td colspan="2" class="navSY"><a href="attorneys.cfm" target="_top">Sponsoring Firms</a></td>
-		</tr>
-		
-		<tr>
-		<td class="navSY" valign="top">•</td>
-		<td colspan="2" class="navSY"><a href="privacy.cfm" target="_top">Privacy Statement</a></td>
-		</tr>
-		
-		<tr>
-		<td class="navSY" valign="top">•</td>
-		<td colspan="2" class="navSY"><a href="disclaimers.cfm" target="_top">Disclaimer</a></td>
-		</tr>
-	
-		
-	
-		<tr>
-		<td class="navSY" valign="top">•</td>
-		<td colspan="2" class="navSY"><a href="terms.cfm" target="_top">Terms of Use</a></td>
-		</tr>
-		
-		
-		
-		
-	 </tbody></table>
-<!-- END UTIL REFS -->
+<div id="miniaskform_wrapper">
 
- </td>
-	<td nowrap=""><br></td>
-	</tr>
-	<tr>
-	<td bgcolor="#FFCC00" colspan="5" height="5" background="images/nav_bottom.gif"><table height="5" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td></td></tr></tbody></table></td>
-	</tr>
-	</tbody></table>
-	
-	<table border="0" width="143" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	<td colspan="5"><table height="8" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td></td></tr></tbody></table></td>
-	</tr>
-	<tr>
-	<td bgcolor="#CCCC99" background="images/nav_top.gif" colspan="5"><table height="5" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td></td></tr></tbody></table></td>
-	</tr>
-	<tr>
-	<td bgcolor="#FFCC00" rowspan="3" nowrap=""><br></td>
-	<td bgcolor="#CCCC99" colspan="3" class="navhead" width="141" align="center">
-	<font color="#000000"><b>NEWSLETTER</b></font></td>
-	<td bgcolor="#FFCC00" rowspan="3" nowrap=""><br></td>
-	</tr>
-	<tr>
-	<td bgcolor="#FFCC00" colspan="3" nowrap=""><img src="images/space.gif" height="1" width="141"></td>
-	</tr>
-	<tr>
-	<form name="CFForm_1" action="profile2.cfm" method="POST" onsubmit="return _CF_checkCFForm_1(this)"></form>
-	<td bgcolor="#FFE794" valign="middle" colspan="3">
-	<font size="1" face="arial,sans-serif">
-	Receive email alerts about defective or dangerous products to help protect your family and friends.<br>
-	<div align="center"><input size="10" name="email" value="your email"><input type="HIDDEN" name="customerid" value="6072">
-	<input type="image" src="images/go.gif" value="Go"></div>
-	</font></td>
-	</tr>
-	
-	<tr>
-	<td bgcolor="#ffcc00" background="images/nav_bottom.gif" colspan="5" height="5"><table height="5" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td></td></tr></tbody></table></td>
-	</tr>
-	</tbody></table>
-	
-	<!-- Begin did-it.com tracking+ code. Generated on 2001-10-22-->
+                <div class="contactform_mini">
+                    
+                    <div class="contactformleft_mini">
+                        <div class="contactlabel_mini">
+                            <label for="name">First Name</label>
+                        </div>
+                        <div class="contactelement_mini">
+                            <input name="ctl00$ContentPlaceHolder1$AskAnAttorneyMiniFormModule$TextBoxFirstName" type="text" id="ctl00_ContentPlaceHolder1_AskAnAttorneyMiniFormModule_TextBoxFirstName" class="FormElements">
+                            
+                        </div>
+                        <div class="contactlabel_mini">
+                            <label for="name">Last Name</label>
+                        </div>
+                        <div class="contactelement_mini">
+                            <input name="ctl00$ContentPlaceHolder1$AskAnAttorneyMiniFormModule$TextBoxLastName" type="text" id="ctl00_ContentPlaceHolder1_AskAnAttorneyMiniFormModule_TextBoxLastName" class="FormElements">
+                            
+                        </div>
+                        <div class="contactlabel_mini">
+                            <label for="email">Email</label>
+                        </div>
+                        <div class="contactelement_mini">
+                            <input name="ctl00$ContentPlaceHolder1$AskAnAttorneyMiniFormModule$TextBoxEmail" type="text" id="ctl00_ContentPlaceHolder1_AskAnAttorneyMiniFormModule_TextBoxEmail" class="FormElements">
+                            
+                            
+                        </div>
+                        <div class="contactlabel_mini">
+                            <label for="phone">Phone </label>
+                        </div>
+                        <div class="contactelement_mini">
+                            <input name="ctl00$ContentPlaceHolder1$AskAnAttorneyMiniFormModule$TextBoxPhone" type="text" id="ctl00_ContentPlaceHolder1_AskAnAttorneyMiniFormModule_TextBoxPhone" class="FormElements">
+                            
+                          </div>
+                        <div class="contactlabel_mini">
+                            <label for="zip">Zip Code</label>
+                        </div>
+                        <div class="contactelement_mini">
+                            <input name="ctl00$ContentPlaceHolder1$AskAnAttorneyMiniFormModule$TextBoxZipCode" type="text" maxlength="5" id="ctl00_ContentPlaceHolder1_AskAnAttorneyMiniFormModule_TextBoxZipCode" class="FormElements">
+                            
+                        </div>
+                        <!-- contactformleft div end -->
+                    </div>
+                    <div class="contactformright_mini">
+                        <div class="questionlabel_mini">
+                            <label for="question">Type your questions or comments for an Attorney below:</label>
+                        </div>
+                        <div class="questionelement_mini">
+                            <textarea name="ctl00$ContentPlaceHolder1$AskAnAttorneyMiniFormModule$TextBoxQuestion" rows="10" cols="38" id="ctl00_ContentPlaceHolder1_AskAnAttorneyMiniFormModule_TextBoxQuestion" class="FormElementQuestion"></textarea>
+                            
+                            <div style="padding: 5px 5px 0px 0px; float: right">
+                                <input type="image" name="ctl00$ContentPlaceHolder1$AskAnAttorneyMiniFormModule$ImageButtonSubmit" id="ctl00_ContentPlaceHolder1_AskAnAttorneyMiniFormModule_ImageButtonSubmit" src="/Images/submit-blue2.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$AskAnAttorneyMiniFormModule$ImageButtonSubmit&quot;, &quot;&quot;, true, &quot;AskAnAttorney&quot;, &quot;&quot;, false, false))" style="border-width:0px;">
+                            </div>
+                        </div>
+                        <!-- contactformright div end -->
+                    </div>
+
+                         <div class="contactform-disclaimer_mini">
+                            <div class="bbb_logo_mini">
+                                <a href="http://www.bbbonline.org/cks.asp?id=1061207921123">
+                                <img src="/images/bbbseal.gif" alt="Better Business Bureau Reliability Program" width="50"></a>
+                            </div>
+                            <img src="/images/100confidential.gif" alt="100% Private, 100% Confidential"><br>
+                        Your question will be referred to an attorney near you. If your question is of a legal nature, then by submitting this form you agree you are not forming a formal attorney / client relationship.
+                        <div class="clear_mini">
+                        </div>
+                <!-- contactform-disclaimer div end -->
+                        </div>
+
+                    <!-- contactform div end -->
+                </div>
+                <!-- columnspan-contactform div end -->
+            </div>
+
+
+</div> 
+
+</div>
+
+
+                </div>
+                
+                
+<!-- footer Starts here -->
+   <div id="footer_wrapper">
+     <div id="footerDescription"> 
+       <img src="/images/ib-logo-footer.gif" alt="InjuryBoard.com - 109 N. Brush St. #350 Tampa FL 33602" class="floatLeft"><strong>Who We Are</strong><br>InjuryBoard is a growing community of attorneys, media professionals, safety industry experts, and local activists committed to making a difference by helping families stay safe and avoid injury, and helping those who are injured get the assistance they need to move on with their lives after an accident. <a href="http://www.injuryboard.com/about.aspx" title="Learn More">Learn More</a> 
+      </div>
+                      
+        <a href="http://www.injuryboard.com">Home</a> | 
+        <a href="http://www.injuryboard.com/national-news/">National News</a> | 
+        <a href="http://www.injuryboard.com/regional-blogs/">Regional Blogs</a> |  
+<!--        <a href="http://blogs.injuryboard.com/">Regional News</a> |  -->
+        <a href="http://www.injuryboard.com/help-center/">Help Centers</a> | 
+        <a href="http://www.injuryboard.com/forums.aspx">Forums</a> | 
+        <a href="http://www.injuryboard.com/video/">Video</a> | 
+        <a href="http://firms.injuryboard.com">Lawyers</a> |
+        <a href="http://firms.injuryboard.com/FirmsEnrollmentForm.aspx">Membership Opportunities</a> |  
+        <a href="http://www.injuryboard.com/about.aspx">About Us</a> | 
+        <a href="http://www.injuryboard.com/legal.aspx#privacy">Privacy Policy</a> | 
+        <a href="http://www.injuryboard.com/legal.aspx#terms">Terms of Use</a> | 
+        <a href="http://www.injuryboard.com/legal.aspx#disclaimer">Disclaimer</a><br>
+        <div id="footer_copyright">
+            © 2002 - 2008 <a href="http://www.clarislaw.com/"><img src="/images/clarislaw.gif" alt="Claris Law"></a>  All rights reserved
+        </div>
+    </div>
+<!-- footer Ends here --> 
+                 
+            </div>
+           
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="o6CeFE8uA6sO/feVq0zUyKwp+nOgP63AyZ/JcRsaOdfPyyUsVrrhjAn9yyyiN04e24c8S7NkgZDl3X2yKKG4kP+fytS6NLftSB2TEGkOkUWRRuALvfINsy5KGv+qs2O9">
+</div>
+
+<script type="text/javascript">
+<!--
+Sys.Application.initialize();
+// -->
+</script>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="kw013il1IML28kQUzpZ2PkRsvHPJuRLit8WsLD6GmF76TUIy4RNC8I/m8alQVqDW20hDdSnMTaBSZAhrjWpkp+MZrc3MRn4QXdqG3lP9AJdaf3p7JpmFmJzk5uA2Zd6nTCqqp4KKem9lBNI+hJutMKVAkL01gcVByx6waQpFs6rom9D6wEqc/PcPhF8H0TJfenEuGAzR163wVebvKXStgGAOCZcEKA3gmsewuf/vYwd4JeuIQTzN+PkTh9YhsLBQ"></form>
+            </div>
+        <!-- IndexTools Customization Code -->
 <script language="Javascript">
-// DId-it.com click tracking code
-r = escape(document.referrer);
-p = r.replace(/\//g,"%2F");
-j = p.replace(/%/g,"~");
-document.write('<img src=http://track.did-it.com/e/3bd46c74efb07/' + j + ' border=0 width=0 height=0>');
-</script><img src="http://track.did-it.com/e/3bd46c74efb07/" border="0" width="0" height="0">
-<!-- End did-it.com tracking+ code -->
-			</td>
-			
-			
+var DOCUMENTGROUP='';
+</script>
+<!-- End of Customization Code -->
+<!-- IndexTools Code v4.00 - All rights reserved -->
+<script language="javascript1.1" src="http://www.injuryboard.com/indextools.js"></script>
+<noscript><img src="http://stats.indextools.com/p.pl?a=10002013006438&js=no" width="1" height="1"></noscript><!--//-->
+<!-- End of IndexTools Code -->
 
-            <td width="10"><img src="images/left_spacer1.gif" width="10" height="66"></td>
-            <td width="63"><img src="images/injury_guy.gif" width="63" height="66" alt="Injured?  Learn more about your injury here."></td>	
-					
-
-
-			<form name="frmInjuries" method="get" action="lvlOneinjury.cfm"></form>	
-            <td width="366" bgcolor="#FEEA9E">
-	<font face="Arial" size="-1">&nbsp;&nbsp;&nbsp;&nbsp;What Injury would you like to learn more about?<br></font>
-	&nbsp;&nbsp;&nbsp;&nbsp;<select name="selectedinjuryone">
-	<option value="0">Please select an injury</option>
-	
-	<option value="2">Blood Disorders</option>
-	
-	<option value="4">Bone, Joint &amp; Muscle Disorders</option>
-	
-	<option value="7">Cancer</option>
-	
-	<option value="8">Children's Health Matters</option>
-	
-	<option value="9">Digestive Disorders</option>
-	
-	<option value="10">Ear, Nose, &amp; Throat Disorders</option>
-	
-	<option value="21">Emotional Problems</option>
-	
-	<option value="11">Eye Disorders</option>
-	
-	<option value="5">Head, Spinal Cord, Brain &amp; Nerve Disorders</option>
-	
-	<option value="13">Heart Problems</option>
-	
-	<option value="14">Hormonal Disorders</option>
-	
-	<option value="15">Immune Disorders</option>
-	
-	<option value="16">Infections</option>
-	
-	<option value="17">Kidney &amp; Urinary Tract Disorders</option>
-	
-	<option value="18">Liver &amp; Gallbladder Disorders</option>
-	
-	<option value="28">Loss of Limb</option>
-	
-	<option value="19">Lung and Airway Disorders</option>
-	
-	<option value="20">Men's Health Matters</option>
-	
-	<option value="22">Mouth &amp; Dental Disorders</option>
-	
-	<option value="23">Nutritional &amp; Metabolism Disorders</option>
-	
-	<option value="26">Poisoning &amp; Overdose</option>
-	
-	<option value="24">Skin Disorders</option>
-	
-	<option value="25">Women's Health Matters</option>
-	
-	</select>
-
-	
-	<input type="image" src="images/go.gif" valign="top">
-			</td>
-			
-		
-
-			
-            <td width="9"><img src="images/right_spacer1.gif" width="9" height="66"></td>
-            <td width="157" rowspan="2"><a href="intake.cfm"><img src="images/ask_button.gif" width="157" height="74" alt="Ask an Attorney - Free of Charge" border="0"></a></td>
-        </tr>
-        <tr>
-            <td><img src="images/spacer1.gif" width="10" height="8"></td>
-            <td colspan="2"><img src="images/spacer2.gif" width="429" height="8"></td>
-            <td><img src="images/spacer3.gif" width="9" height="8"></td>			
-        </tr>
-        <tr>
-            <td><img src="images/space.gif" width="10" height="365"></td>
-            <td colspan="2" valign="top">			
-
-
-<table cellpadding="1" cellspacing="0" border="0" width="429">
-
-	<tbody><tr><td align="left"><font face="Arial" size="-2"><a href="index.cfm">Home</a> &gt;</font></td></tr>
-
-	<tr><td><img src="images/space.gif" width="1" height="2" alt="legal and medical news and resources" border="0"></td></tr>
-	
-	<tr>
-		<td width="429" bgcolor="#32669a" colspan="2"><font face="tahoma" size="-1" color="white">&nbsp;<b>Privacy Statement</b></font></td>
-	</tr>
-	
-	<tr><td><img src="images/space.gif" width="1" height="8" alt="know your legal rights" border="0"></td></tr>
-	
-	<tr><td>
-
-<font face="Arial" size="-1">
-
-InjuryBoard.com aims to be your most trusted guide to personal injury legal and medical information on the Internet.  In order to earn your trust, we at InjuryBoard.com would like to inform you of our policies and procedures as they relate to your privacy.
-<p>
-First and foremost, InjuryBoard.com and its management are intimately aware of, and have the utmost respect for your privacy.  The confidential nature of your communications with InjuryBoard.com and our sponsoring firms will always be respected. 
-</p><p>
-Since InjuryBoard.com is not a lawyer referral service, nor a law firm, employees and managers of InjuryBoard.com will not evaluate the merits of your case.  Rather, your inquiry will be forwarded to an InjuryBoard.com sponsoring firm.  
-</p><p>
-As is true of all licensed attorneys, a duty of confidentiality governs attorneys associated with InjuryBoard.com.  State Bar associations from around the United States enforce this duty of confidentiality.  The duty of confidentiality prohibits attorneys from revealing your confidential information to others.  The American Bar Association defines the duty of confidentiality as follows:
-</p><p>
-</p><div align="center"><u>Rule 1.6 Confidentiality of Information</u></div>
-<p>
-(a) A lawyer shall not reveal information relating to representation of a client unless the client consents after consultation, except for disclosures that are impliedly authorized in order to carry out the representation, and except as stated in paragraph (b).
-</p><p>
-(b) A lawyer may reveal such information to the extent the lawyer reasonably believes necessary:
-</p><p>
-</p><ul>
-(1) to prevent the client from committing a criminal act that the lawyer believes is likely to result in imminent death or substantial bodily harm; or
-<p>
-(2) to establish a claim or defense on behalf of the lawyer in a controversy between the lawyer and the client, to establish a defense to a criminal charge or civil claim against the lawyer based upon conduct in which the client was involved, or to respond to allegations in any proceeding concerning the lawyer's representation of a client.
-</p></ul>   
-Since InjuryBoard.com is neither a lawyer referral service nor a law firm, we are not subject to the duty of confidentiality.  However, as stated above, we will not reveal any of your private or confidential communications or other information to any outside source without your explicit permission.
-<p>
-There are two basic ways that InjuryBoard.com may learn more about you.  The first way, and perhaps most important, is through information that you supply to us through the free "Ask an Attorney" feature, the "Recall Profiler" feature, or by signing up for our Newsletter.  Again, as described above, none of the information that you voluntarily supply thru these features will be revealed or sold to any entity unaffiliated with InjuryBoard.com.  The only people or entities who have access to this information are InjuryBoard.com and/or our sponsoring law firms.
-</p><p>
-We may also collect certain general information through the use of "cookies," which are an integral part of browser technology and are used extensively throughout the Internet.  Cookies allow InjuryBoard.com to customize our site to more adequately reflect your needs and preferences.  Cookies simply associate a particular computer with certain characteristics.  They do not gather personal or confidential information.  For instance, a cookie will never know your name, address, telephone number, social security number, or any other similar information.
-</p><p>
-While we respect and honor your privacy, InjuryBoard.com reserves the right to alter this privacy policy without notice.
-
-</p></font><p><font face="Arial" size="-1">
+        <span id="ctl00_AnalyticsTracker1"></span>
  
-</font>
-</p></td></tr>		
-</tbody></table>	
-	
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			</td>
-            <td><img src="images/space.gif" width="9" height="365"></td>
-			
-			
-
-
-
-
-<td valign="top">
-				<span class="navl">
-				 <table cellpadding="0" cellspacing="0" border="0" width="153">
-				 	<tbody><tr>
-						<td bgcolor="#CCCC99" colspan="2"><font face="tahoma" size="-1" color="#1a3a5c">&nbsp;&nbsp;<b>Recent News</b></font></td>
-					</tr>
-					
-					<tr><td><img src="images/space.gif" width="1" height="8" alt="" border="0"></td></tr>
-					
-					<tr>
-						<td width="15" valign="top"><font face="Arial" size="-1" color="#1a3a5c"><b>&gt;</b></font></td>
-						<td width="138"><a href="article1.cfm">Cold Medications May Cause Stroke</a><br>
-						<font face="Arial" size="-1" color="#1a3a5c">Doctors warn about PPA</font></td>
-					</tr>
-					
-					<tr><td><img src="images/space.gif" width="1" height="8" alt="" border="0"></td></tr>
-					
-					<tr>
-						<td width="15" valign="top"><font face="Arial" size="-1" color="#1a3a5c"><b>&gt;</b></font></td>
-						<td width="138"><a href="article2.cfm">Drug Review Process Unethical?</a><br>
-						<font face="Arial" size="-1" color="#1a3a5c">The FDA may be intimidating line researchers</font></td>
-					</tr>
-					
-					<tr><td><img src="images/space.gif" width="1" height="8" alt="" border="0"></td></tr>
-					
-					<tr>
-						<td width="15" valign="top"><font face="Arial" size="-1" color="#1a3a5c"><b>&gt;</b></font></td>
-						<td width="138"><a href="article3.cfm">Concerns About Medical Errors</a><br>
-						<font face="Arial" size="-1" color="#1a3a5c">Healthcare provider errors worry many</font></td>
-					</tr>
-					
-					<tr><td><img src="images/space.gif" width="1" height="8" alt="" border="0"></td></tr>
-					
-					<tr>
-						<td width="15" valign="top"><font face="Arial" size="-1" color="#1a3a5c"><b>&gt;</b></font></td>
-						<td width="138"><a href="article4.cfm">Delays &amp; Ground Accidents Rise</a><br>
-						<font face="Arial" size="-1" color="#1a3a5c">The Department of Transportation issued its annual air travel report</font></td>
-					</tr>
-				 </tbody></table>
-				 </span><p>
-				 
-				 </p><div align="center"><!-- Start of EZPoll Code v1.5- brought to you by MyComputer.com
-www.mycomputer.com -- Do NOT alter this code! -->
-<script language="Javascript">
-var zcode = " "
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4416194-1");
+pageTracker._initData();
+pageTracker._trackPageview();
 </script>
-<script src="http://ezpolls.mycomputer.com/ezpoll.html?u=clarislaw&amp;p=1">
-</script>
-<script language="Javascript">
-document.write(zcode)
-</script> 
-<!-- End of EZPoll Code --></div>
-
-			</td>
-  </tr>
-	</tbody></table>
-
-<table cellpadding="0" cellspacing="0" border="0" width="760">
-        <tbody><tr>
-            <td colspan="3"><img src="images/bottom_spacer1.gif" width="760" height="8"></td>
-        </tr>
-        <tr>
-			<td width="6" align="left"><img src="images/bottom_left.gif" width="6" height="16" alt="" border="0"></td>
-            <td width="748" bgcolor="#FEEA9E"><div align="center"><font face="Arial" size="-1">All contents copyright © 2002 - Patent Pending - <a href="http://www.clarislaw.com">Claris Law, Inc.</a></font></div></td>
-			<td width="6" align="right"><img src="images/bottom_right.gif" width="6" height="16" alt="" border="0"></td>
-        </tr>
-        <tr>
-            <td colspan="3"><img src="images/bottom_spacer2.gif" width="760" height="25"></td>
-        </tr>
-    </tbody></table>
-
-
 
 
 </body></html>
