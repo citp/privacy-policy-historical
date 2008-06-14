@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the soundike.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011092903id_/http%3A//www.soundike.com/help.php%3Fp%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundike.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615010206id_/http%3A//www.soundike.com/help3.html) for the most accurate reproduction.*
 
-# soundike.com
-
-## Privacy Policy
+# Soundike.com Help
 
 This Privacy Policy explains how the web site soundike.com collects and stores your personal information, when you are using our services. Before proceeding with your registration process on this web site you must:
 
@@ -16,23 +14,23 @@ Administration of the web site has a right to make changes/additions to this Pri
 
 Careful attitude towards confidential information of our users is a cornerstone underlying work of soundike.com project. Ability to prevent outflow and wrongful use of the important information in the Internet-environment, in which the information extends most easily, is the base for high reputation of the Internet-project.
 
-### Personal Information
+Personal Information
 
 soundike.com collects personal information so that we can improve our services, to organize effective interaction with our visitors, to organize effective technical support, to inform our users about news and updates, and also to track downloaded files so that we can pay royalties to the Rightholders.
 
 Administration guarantees, that all the personal information that you provide will never be disclosed to the 3rd parties without your agreement, except in the cases described in term 4 of this Privacy Policy.
 
-### Financial Information
+Financial Information
 
 When paying for services provided by us, users transfer the information about payment means (the information on credit cards, etc.) to the companies, engaged for processing of these payments. Transfer of such information is carried out through safe SSL connection on sites of such companies and data about payment means are not accessible to us.
 
-### Other Technical Information
+Other Technical Information
 
 Service soundike.com in its work operates with IP-addresses of the visitors and cookies on their personal computers. It is a standard practice necessary for effective work of a dynamical resource, prevention of technical problems and for protection of financial operations. Besides cookies are necessary for identification of the user, and if you disable them, work with the site can be essentially complicated.
 
-### Exemption from Liability
+Exemption from Liability
 
-soundike.com can disclose your Personal Information only in cases stipulated by the Laws of Russian Federation.
+soundike.com can disclose your Personal Information only in cases stipulated by the Laws of Kazahstan.
 
 soundike.com can contain links to the web sites of 3rd parties. soundike.com doesn't take any responsibility for functioning and the resources of those sites, and also the possible damage caused by working with them.
 
