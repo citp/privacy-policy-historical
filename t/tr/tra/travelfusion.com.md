@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the travelfusion.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228121713id_/http%3A//www.travelfusion.com/images/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelfusion.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615014501id_/http%3A//www.travelfusion.com/info/privacypolicy.html) for the most accurate reproduction.*
 
 # TravelFusion
-
-**TRAVELfusion Privacy Policy**
 
 TRAVELfusion takes the privacy of its customers very seriously. Please read this Privacy Statement, which sets out our Privacy Policy. The Privacy Policy sets out the terms which govern the collection, retention and processing of your personal information which we receive when you use www.TRAVELfusion.com, localised TRAVELfusion web sites and the TRAVELfusion white labels (collectively, 'Site'). If our Privacy Policy changes, we will let you know the date of the latest update at the bottom of this page. 
 
