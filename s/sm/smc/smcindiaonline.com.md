@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smcindiaonline.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215214754id_/http%3A//smcindiaonline.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smcindiaonline.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614045223id_/http%3A//www.smcindiaonline.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# Welcome to SMC Global
+# India Dalal Street, Indian Share Business
 
 | 
 
