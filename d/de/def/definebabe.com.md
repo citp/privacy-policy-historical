@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the definebabe.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216031659id_/http%3A//definebabe.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definebabe.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614063222id_/http%3A//www.definebabe.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: DefineBabe
 
 This is the web site of Rich Media SoIutions Inc.
 
-We can be reached via e-mail at [admin@definebabe.com](mailto:admin@definebabe.com).
+We can be reached via e-mail at .
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
