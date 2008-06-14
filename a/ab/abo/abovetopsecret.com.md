@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abovetopsecret.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211030541id_/http%3A//www.abovetopsecret.com/forum/thread233728/pg1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abovetopsecret.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614205947id_/http%3A//www.abovetopsecret.com/forum/thread233728/pg1) for the most accurate reproduction.*
 
 # Updated AboveTopSecret.com Privacy Policy, page 1
 
@@ -26,7 +26,24 @@ Finally, we never use or share the personally identifiable information provided 
 
 From time to time data cookies will be set by various portions of the application code that runs the forums, features, games, and other specialty items running on our web servers. At no time is any personally identifying information (other than site username) ever stored in these cookies. The cookies are used to provide our application with page-to-page awareness of your user status and/or access privileges. Most of these cookies expire within days, however, some may expire in moths or years. 
 
-Advertising networks that serve advertising on AboveTopSecret.com may write their own cookies for the purposes of determining advertising frequency and relevance. We have performed reasonable diligence on all advertising networks authorized to serve ads on our websites to ensure that their data cookies are for this purpose and nothing more. 
+**Third Party Data Cookies:**
+
+Advertising networks that serve advertising on AboveTopSecret.com may write their own cookies for the purposes of determining advertising frequency and relevance. We have performed reasonable diligence on all advertising networks authorized to serve ads on our websites to ensure that their data cookies are for this purpose and nothing more. Many of the providers serving display ads on AboveTopSecret.com provide users with the ability to opt-out of these third-party cookies. Below is a list of the networks which may, from time to time, deliver ads to our users (many may only occasionally deliver ads):   
+[DoubleClick](http://www.doubleclick.com/)   
+[Mediaplex](http://www.mediaplex.com/)   
+[Eyeblaster](http://www.eyeblaster.com/)   
+[Eyewonder](http://www.eyewonder.com/)   
+[Interpolls](http://www.interpolls.com/)   
+[PointRoll](http://www.pointroll.com/)   
+[Unicast](http://www.unicast.com/)   
+[Safecount](http://www.safecount.net/)   
+[Factor TG](http://www.factortg.com/)   
+[TribalFusion](http://www.tribalfusion.com/)   
+[Casale Media](http://www.casalemedia.com/)   
+[Specific Media](http://www.specificmedia.com/)   
+[Value Click Media](http://www.valueclick.com/)   
+[24/7 Real Media](http://www.247realmedia.com/)   
+[Pulse 360](http://www.pulse360.com/)
 
 **Data Mining:**
 
@@ -40,12 +57,22 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
+**Our Commitment Communication Privacy:**
+
+Members are provided with a private messaging system (U2U service) as part of their account privileges. Every reasonable effort is made to ensure the private messaging system is maintained in a secure fashion so as to ensure the privacy of any and all messages sent between members. Staff and/or owners will not observe the content or flow of any private messaging unless explicit reports of Terms & Conditions violations are received. The private messages may be subject to run-time content filtering (such as vulgarities) that is used to filter the content of thread posts. 
+
 **How You Can Access Or Correct Your Information**
 
 You can access all your profile information that we collect online and maintain by AboveTopSecret.com. We use this procedure to better safeguard your information. Use the "[Member Center](http://www.abovetopsecret.com/forum/memcenter.php)" link in the top of the discussion board menu-bar. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
+**Our Commitment To Accuracy:**
+
+From time to time, members may post controversial material for which demands of proof or other evidentiary corroboration may be requested. At such time as this becomes required, your privacy, and that of your source, will be guaranteed by the ownership of AboveTopSecret.com via a legally binding non-disclosure agreement (NDA). At no time will you ever be required to reveal information to any one on staff, and any cooperation is purely voluntary and limited to on of the site principals: Bill Irvine, Mark Allin, or Simon Gray. 
+
 **How To Contact Us:**
 
 Should you have other questions or concerns about these privacy policies, please send us an email using our [Contact Form](http://www.abovetopsecret.com/forum/contact.php). 
+
+[edit on 3-1-2008 by SkepticOverlord] 
