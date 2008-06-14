@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fora.tv privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216114219id_/http%3A//www.fora.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fora.tv privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614164213id_/http%3A//fora.tv/privacy.php) for the most accurate reproduction.*
 
-# FORA.tv - The World is Thinking
+# FORA.tv - Privacy Policy
 
 Effective February 9, 2007 
 
