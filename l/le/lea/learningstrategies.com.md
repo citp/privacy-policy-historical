@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211032954id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614060735id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
 
 # Learning Strategies Corporation Privacy Policy
 
@@ -19,7 +19,10 @@ We use the information we collect to measure the number of visitors to the diffe
 
 If you identify yourself by sending an email or ordering from our site: 
 
-You may decide to send us personally identifying information, for example, in an email or an order. Each time you do so, we will use this information to better serve you. Occasionally you may receive product announcements or tips on getting more benefit from our products-these may come via the mail or email and may come from us or directly from the author or publisher of the program. At any time, you can tell us not to initiate contact with you in this manner. 
+You may decide to send us personally identifying information, for example, in an email or an order. Each time you do so, we will use this information to better serve you. Occasionally you may receive product announcements or tips on getting more benefit from our products-these may come via the mail or email and may come from us or directly from the author or publisher of the program you purchased from us. At any time, you can tell us not to initiate contact with you in this manner.   
+
+
+Every time you purchase a product on our web site you will receive order acknowledgment emails, and if applicable, product fulfillment emails. If the product you purchase is a teleseminar or other event, you will receive event details via email.
 
 We want to be very clear: We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us. 
 
