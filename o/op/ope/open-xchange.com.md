@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the open-xchange.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213071808id_/http%3A//www.open-xchange.com/footer/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the open-xchange.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614192505id_/http%3A//www.open-xchange.com/footer/privacy_policy.html) for the most accurate reproduction.*
 
 # Open-Xchange : Privacy Policy
 
