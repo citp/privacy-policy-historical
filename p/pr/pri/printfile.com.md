@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213141119id_/http%3A//www.printfile.com/index.asp%3FPageAction%3DCustom%26ID%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614023908id_/http%3A//www.printfile.com/index.asp%3FPageAction%3DCustom%26ID%3D4) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,6 +24,8 @@ Print File, Inc. cautions visitors to its websites that no network, including th
 
 **Links to Third Party Sites:**  
 The PrintFile.com website may include links to other web sites that are not under our control. These other web sites have their own policies regarding privacy. You should review those policies before visiting those websites.
+
+Discount Codes and Gift Certificates do not apply to Blurb photo books.
 
 **Policy Changes:**  
 This policy is subject to change. If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our website.
