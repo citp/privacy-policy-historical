@@ -1,86 +1,58 @@
-> *The following text is extracted and transformed from the click2mail.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015085209id_/http%3A//click2mail.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2mail.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614165955id_/http%3A//www.click2mail.com/privacy_policy) for the most accurate reproduction.*
 
-# Click2Mail™ - Making Mail Easy : Privacy
+# Click to Mail - Privacy Policy
 
-## Privacy Statement
+Click2Mail's Privacy Policy
 
-Click2Mail's privacy policy tells you about our information practices when you provide personal information to us, whether collected online or offline, or when you visit us online to browse, obtain information, or conduct a transaction. Personal information may include your name, email, mailing and/or business address, phone numbers, or other information that identifies you personally. We do not require you to register or provide personal information to visit our website. 
+Privacy Policy
 
-Key aspects of our privacy policy include: 
+Your privacy is very important to us. Click2Mail maintains strict customer information privacy policies and uses state of the art technologies to safeguard customer information and communications from unauthorized intrusions. Click2Mail has put in place the following Privacy Policy to protect customer information. Except as specifically modified in a Customer Agreement, this policy covers Click2Mail and its corporate affiliates, and applies to all customer information that Click2Mail obtains when a customer registers for or uses a Click2Mail online service, including visiting a Click2Mail owned and controlled web site ("Click2Mail Web Site"). 
 
-  * We do not sell or rent your personal information to outside parties.
-  * We do not market other products or services to you without your consent.
-  * We do not use web analysis tools (e.g., cookies) to identify you personally without your express consent.
+Customer Information
 
+Online privacy concerns focus on the protection of "customer information" which a customer reasonably expects to be kept private. "Customer information" is information which can be associated with a specific individual or entity, including, for example, a customer's name, address, telephone number, e-mail address, and information about online activities that are directly linked to them. As is common practice, we collect customer information, such as name, address, telephone number, and a variety of other information in the course of billing and providing marketing and mailing services to a customer.
 
+Information collected and stored automatically
 
-**Notice of our privacy practices**
+In the course of using our Web site and Internet services, we also automatically track certain information about your visit. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address. We use this information in the normal operation of the site and we may disclose this information only on an aggregated basis. We do not use this information to identify you personally without your express consent. See information regarding cookie usage below.
 
-**The following describes the ways we collect information from you, and the protections that apply to your information.**
+Click2Mail protects online customer information as follows:
 
-Click2Mail collects personal information from you and from your transactions with us. We use information we collect to provide you certain products and services, and if needed to respond to your inquiries or requests for information. We occasionally collect data about you from financial entities to perform verification services and from commercial sources. We do this, for example, to prepopulate data fields in call centers to facilitate transactions, or to market products to consumers who have agreed to receive such messages. 
+Collection and Use  
+Click2Mail will collect and use customer information for billing purposes, to anticipate and resolve problems with your service, or to create products and services that better meet your needs. This means that Click2Mail may use your customer information, but we will not disclose your customer information to third parties who want to market products to you. Click2Mail may contact you from time to time by means of e-mail, postal mail or by other available means regarding the service you are registered for. 
 
-**Privacy Act Rights**
+Disclosure  
+Except as provided in this policy, Click2Mail will not sell, trade, rent or disclose to third parties any customer information derived from the registration for or use of a Click2Mail online service -- including customer names and addresses -- without the consent of the customer except as required by subpoena, search warrant, or other legal process or in the case of imminent physical harm to the customer or others. When Click2Mail uses other agents, contractors or companies to perform services on its behalf, Click2Mail will ensure that such agents, contractors or companies protect your customer information consistent with this Policy.
 
-Click2Mail follows the privacy requirements of the Privacy Act, which protects your personal information that we maintain in what is called a system of records. A system of records is a file, database, or program from which personal information is retrieved by name or other personal identifier. In other words, the Privacy Act applies when we use your personal information to know who you are and to interact with you - such as when you provide information to request a product or service, register on www.click2mail.com, or submit an inquiry or complaint. The Privacy Act provides comprehensive protections for your personal information. This includes how information is collected, used, disclosed, stored, and discarded. 
+Access  
+You may review any of your personal information we have collected from you by contacting us at the address below. Click2Mail will correct or delete any inaccurate information upon your request.
 
-When we collect and maintain personal information from you offline, a Privacy Act notice will be provided. The following is your Privacy Act notice for personal information collected online: 
+Security  
+Click2Mail has implemented technology and security features and strict policy guidelines to safeguard the privacy of your customer information from unauthorized access or improper use, and we will continue to enhance our security procedures as new technology becomes available.
 
-Privacy Act notice: Your information will be used to provide you requested products, services, or information. Collection is authorized by 39 USC 401, 403, & 404\. Providing the information is voluntary, but if not provided, we may not process your transaction. We do not disclose your information to third parties without your consent, except to facilitate the transaction, to act on your behalf or request, or as legally required. This includes the following limited circumstances: to a congressional office on your behalf; to financial entities regarding financial transaction issues; to entities, including law enforcement, as required by law or in legal proceedings; to domestic and international customs relating to outgoing international mail pursuant to federal law and agreements; and to contractors and other entities aiding us to fulfill the service (service providers). 
+E-mail and Postal Mail Contents  
+Click2Mail will not read or disclose to third parties private postal or electronic communications that are transmitted using Click2Mail services except as required to operate the service or as otherwise authorized by law.
 
-**Information Collected from Emails and Online Forms**
+We consider your mailing lists and documents to be your private information. All document and list files you submit will be used solely for the production of your mailings. Electronic information submitted by you is securely stored only for the time specified in our Terms of Service after such time data is purged from our system.
 
-Many of our programs and websites allow you to send us an email. We will use the information you provide to respond to your inquiry, provide information, or to fill your order for postal products and services in which you have expressed an interest. 
+Data Center and Production Center Security  
+Click2Mail's physical facilities are very secure. Access to our data center is limited by electronic badge entry and only selected employees are granted access. Our data center and all production facilities are also secured and monitored with surveillance cameras. Access to production areas is restricted to selected employees with security badges. When Click2Mail uses other contractors or companies to perform services on its behalf, we will ensure that such agents, contractors or companies protect your information consistent with this Policy.
 
-Remember that email may not necessarily be secure against interception. If your email communication is very sensitive, or includes information such as your bank account, charge card, or social security number, you should send it by mail unless the Web site indicates the particular site is secured. 
+Improper Conduct  
+Click2Mail may also use customer information to investigate and help prevent potentially unlawful activity or activity that threatens the network or otherwise violates the customer agreement for that service.
 
-**Information Collected and Stored Automatically**
+Third Party Collectors of Information  
+Our policy addresses the use and disclosure of information we collect from you. To the extent that you disclose your information on other third party sites, different rules may apply to their use or disclosure of the personal information. In the case of dealers and resellers of Click2Mail services or Click2Mail co-branded services, we exercise commercially reasonable efforts to cause such persons to honor the provisions of this privacy policy, but we cannot be held responsible if they fail to do so. We encourage you to read the privacy policies of all third parties to which you disclose your personal information..
 
-We automatically collect certain information about your visit to www.click2mail.com. We limit the data collected to meet specific business needs and to fully protect your privacy. We thus may know what path(s) you took on www.click2mail.com, but we don't know who you are. We do not use this information to identify you personally without your express consent. 
+Cookies  
+Like most Web sites, Click2Mail sometimes makes use of session "cookies." Cookies are files written to a user's hard disk and read by server programs to inform a Web site if the user has previously visited that site. We use cookies to continually enhance your Click2Mail experience.
 
-We automatically collect and store the following information about your visit: 
+Changes to Click2Mail's Privacy Policy 
 
-  * General log information--Internet domain (for example, "xcompany.com" or "yourschool.edu"); Internet Protocol (IP) address; operating system; the browser used to access our Web site; the date and time you access our site; and the pages that you visited. We use the information to help us make www.click2mail.com more useful to visitors. We use it to learn about how locations on our site are being used, what information is of most and least interest, and to ensure www.click2mail.com can interface with the types of technology our visitors use. We also use the information to tell us of any possible site performance problems.
-  * Referral and statistical information where we have links or ad banners to or from www.click2mail.com. Such data may include aggregate data such as the number of click-throughs that occurred. It may also include specific data, such as whether you are a repeat visitor; whether you visited a page with a banner on it or clicked on an ad banner and then used our site (for instance, to register or make a purchase); the value, date and time of any sale; and the identity of the site which you linked to or from www.click2mail.com. We collect this information to know which links and banners are effective. For example, this allows us to determine which ads may be of most interest and to help us control how many times a specific ad is displayed.
+We may make changes to this policy from time to time. You can review the most current version of our Privacy Policy at any time at   
+<https://mailingonline.click2mail.com/PrivacyPolicy.aspx>.
 
+Comments or Concerns
 
-
-This explains _**what**_ information is collected automatically. For information about _**how**_ the data are collected, click below on our policy on cookies and other Web analysis tools. 
-
-**Choice**
-
-Click2Mail believes in permission-based marketing. We do not sell, rent, or otherwise provide your personal information to outside marketers. You will only receive marketing about products and services of Click2Mail or its partners, other than products and services you already receive or are registered for, under the following conditions. 
-
-  * If you are a consumer, we use an opt-in standard. If you have provided personal information to register for or purchase a product or service, we will not use that information to contact you in the future about another product or service unless you have provided express consent.
-  * If you are a business, we use an opt-out standard. We assume you are interested in other products and services that could aid you in your business, and so we will provide information to you unless you tell us you do not want to receive it.
-
-
-
-Consumers may opt-in, and businesses may opt-out, when they register on www.click2mail.com and create a customer profile. These preferences in the profile can be changed at any time. Please contact the privacy office at the addresses below with any questions about your preferences. 
-
-**Security**
-
-In those instances where we secure your personal information in transit to us and upon receipt, Click2Mail uses the industry standard encryption software, Secured Socket Layer (SSL). The URL in your browser will change to "HTTPS" instead of "HTTP" when this security feature is invoked. Your browser may also display a lock symbol on its bottom task bar line to indicate this secure transmission is in place. 
-
-For site security purposes and to ensure that this service remains available to all users, Click2Mail employs software programs to monitor network traffic in order to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits other than those uses identified in this policy. Unauthorized modification or misuse of information stored in this system will be investigated and may result in criminal prosecution. 
-
-**Service Providers**
-
-Click2Mail enters into relationships with service providers in order to provide the highest quality product or service. Service providers may include an entity that provides assistance for the program, such as a call center; a provider of advertising services; or a partner for the program. Click2Mail holds service providers to the same rigorous standards of privacy that apply to Click2Mail, including being made subject to the Privacy Act and Click2Mail privacy policies. Service providers that have access to personal information are also subject to security review. 
-
-**Access**
-
-If you have provided personal information to us, you may request to review the information that we have maintained. Please contact the program office that provided you the product or service, the office that handled your inquiry, or the privacy office at the addresses below. We will correct or delete any inaccurate information upon your request. 
-
-**Inquiries**
-
-We would like to hear from you if you have any questions or complaints regarding our privacy policy or use of your information. 
-
-Please contact us at [privacy@click2mail.com](mailto:privacy@click2mail.com), or mail us at: 
-
-> Click2Mail  
->  PO Box 25033  
->  Arlington, VA 22202-8933  
-> 
-
-We will investigate and respond to your inquiry. Your inquiry will be treated confidentially and will be protected under the Privacy Act. 
+If you have any comments or concerns about our Privacy Policy you may contact us at   
+[webmaster@Click2Mail.com.](mailto:webmaster@Click2Mail.com).
