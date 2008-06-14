@@ -1,76 +1,68 @@
-> *The following text is extracted and transformed from the go-optic.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203142646id_/http%3A//www.go-optic.com/new/storeinfo3.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-optic.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614032458id_/http%3A//www.go-optic.com/new/storeinfo3.asp) for the most accurate reproduction.*
 
 # [Go-Optic] Store Policies & Customer Privacy
 
-Go-Optic.com values its customers and respects their privacy. We do NOT disclose, sell, rent, or loan any information about you to any third party. We collect customer information to be able to process your order as well as improve your shopping experience and to communicate with you about our products, services, contests, surveys, and promotions. Go-Optic.com recognizes that it must maintain and use customer information responsibly.  
+| Store Policies:  
+---  
+1.) Go-Optic.com (a SM of Eye Trends USA, Inc.) reserves the right to refuse service to anyone.
 
+2.) After an order has successfully been placed with our company, cancellation of an item (or items) in your order may result in a cancellation fee, which is 10% of the cancelled items price. Shipping fee's will be excluded in this fee and cancellation of back-ordered Items will not be subject to cancellation fee's.
 
-This policy describes the personal information we collect about you, why we collect it, and how we use it. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, please contact one of our Customer Service Representatives by calling us at Go-Optic.com (1-877-634-2020) or writing us at 3422 Old Capital Trail #718, Wilmington, DE 19808
+3.) Cancellation of lenses, lens coatings & tints (for glasses) may result in a cancellation fee of 30% on the lenses, the glasses will hold the same cancellation fee as in Section 2 (listed above). This cancellation fee will help us cover any non-recoverable expenses which have already been incurred.
 
-If our information practices change in the future, we will notify you by posting the policy changes directly to this Web page. We will post any such change before we use any of your information in any way other than as explicitly stated above.
+4.) Customers that order prescription eyeglasses that are full rim-less (lens drilling and mounting necessary) will be responsible an additional charge of $20 for drilling & mounting. The drilling & mounting fee is sometimes included, and is displayed that it is being included, in the lens price when selecting a lens type for your full rimless glasses, however this is not always guaranteed. We will contact the customer and confirm if there is a price change of this sort, before we continue processing their order.
 
-**What kind of information does Go-Optic.com collect?**  
-We collect information (such as your name, e-mail address, mailing address, eyeglass and/or contact lens prescription, phone number, credit card numbers, and the name and phone number of your eye care provider) that you provide when you place an order, register with us or participate in a contest, survey, or promotion. We also maintain a record of your historical purchases that are placed through the phone, mail, fax, e-mail, and over the Internet. Because all of our information systems are fully integrated, when you place an order with Go-Optic.com your customer information is available to you through any channel through which you may choose to contact us (phone, postal mail, fax, Internet, or e-mail.)
+5.) Your credit card will not be charged any funds over your grand total order amount, unless we have received your confirmation to allow us to charge of any additional funds if necessary. Otherwise your order can be cancelled without being charged any cancellation fee.
 
-**How does Go-Optic.com use my information?**  
-When you make a purchase from Go-Optic.com, we use your information to process your order. We will also send you an e-mail to confirm your order, and we may need to contact you via phone, mail, or e-mail if we have any questions regarding your order. From time to time, we may send you e-mail's to help us learn more about your shopping preferences so that we may better serve you in the future. In addition we may use that information to help us better improve our site design and your shopping experience. 
+6.) International customer orders will be responsible for all customs fee's, tax's or any other fee's associated with the delivery of their ordered merchandise.
 
-To better serve you, we combine information that you give us over the phone, mail, fax, e-mail, surveys, and over the Internet. This information is combined so that we may enhance and personalize your shopping experience, and to communicate with you by phone, e-mail, or postal mail about our products, services, contests, surveys, and promotions that may be of interest to you.
+7.) All back-ordered items will be kept on order unless the customer has requested for it to be canceled. There will be no cancellation fee's on items which are on back-order.
 
-**Does Go-Optic.com share my information with third parties?**  
-Unlike some of our competitors, we do not share your personal information with any third or outside party. We do not disclose, sell, rent, or loan any information about you to any third parties.
+8.) Back-order dates are estimated and may change (sooner or later) due to the availability of the product provided by the designated manufacturer(s) and/or distributor(s).
 
-Please note: On all orders placed, Go-Optic.com does attempt to verify or obtain an eyeglass and/or contact lens prescription from an eye care provider that you designate. This information is held under the same strict confidentially standards as described above. 
+9.) All prescription eyeglass/contact lens orders will be processed according to the information we have been provided by the patient's doctor. Go-Optic.com (a SM of Eye Trends USA, Inc.) cannot alter a patient's prescription under any circumstance.
 
-**How do I access my information? How do I update my information?**  
-If you have chosen to Create an Account with our company. You will be able to view and update your current information by logging in to your current customer account at go-optic.com. You can also call us during our normal business hours, 877-634-2020, and one of our representatives will be happy to help you after they have verified you are the correct customer of the related order.
+10.) Go-Optic.com (a SM of Eye Trends USA, Inc.) and/or it's business partners reserves the right to call the eye care provider(s) referred to in the order to confirm the prescription or any other information that is necessary to process a prescription order, and we may also request a copy of your prescription for our records. 
 
-**How do I remove my information from e-mail or postal mailing lists?**  
-Our Mailing List System has Real-time Subscription and UN-Subscription Features that allows the customer to Add or Remove themselves from our Mailing List at any time our website is accessible by the customer/visitor.
+11.) All trademarks, product names, and company names and logos appearing on this web site are the property of their respective owners. This is a private web site not endorsed or affiliated with these companies. Information provided is believed to be accurate but not guaranteed.
 
-**How does Go-Optic.com protect children's privacy?**  
-Like you, we at Go-Optic.com are concerned about the safety of children when they use the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never request personally identifiable information from anyone under the age of 13.
+12.) Each shipping address update/redirection request will be an additional fee, which is the customers responsibility, of $10 which helps cover the FedEx rate expense for this type of request.
 
-If we become aware that a subscriber is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information from our files.
+13.) Due to certain frame styles and/or prescriptions, Custom lenses can require additional expenses due to the additional materials or labor used to fill custom lens requests. After the lab reviews the order, we will inform you if any other lens related fee's, such as Oversize Fee, Custom Lens Surfacing Fee, Prism Fee, etc. will be needed to fill your lens request. You will be notified to confirm the additional fee prior to us proceeding with your order. If you choose not to confirm the additional fee, your lens order can be cancelled with-out being charged cancellation fee's. Not all lens requests are guaranteed. If we feel that we are unable to provide accurate,properly functioning and fitting lens requests, then we have the right to reject a lens order. 
 
-**What about links to other Internet sites and services?**  
-Go-Optic.com may maintain links to other sites that are not under our control. These Web sites have their own policies regarding privacy, which you should review before visiting them. We have no responsibility for linked Web sites and provide these links solely for the convenience and information of our customers. 
+14.) The Seg. Height (vertical measurement) of the lens is calculated by a formula which is for bi-focal, tri-focal and progressive lens requests. If a Seg. Height measurement is available that you would like for us to use, then you can provide this information in the 'Comments Section' of your order during check-out, and we will process this for you accordingly. However, please ensure that if you are providing a Seg. Height measurement, then it must be the same measurement used for the same exact eyeglass frames (same size as well) that you're purchasing from us, since the Seg. Height measurement is dependant on the frame size. If a Seg. height measurement is not provided by the customer or their eye care provider(s), then we will use our in-house formula for making the progressive lenses in your order. Our in-house formula is accurate in most cases, but is not guaranteed. We do suggest that this information is provided to ensure the accuracy of your bi-focal/tri-focal/progressive lens, however if this information is not provided, then we do not accept any responsibility of you having to adapt to the lens with this measurement. The Seg Height is not a required part of an eyeglass prescription, this information is to be provided by the customer [or their eye care provider(s)] as an additional request in their lens order. 
 
-**Cookies:**  
-What are cookies? How does Go-Optic.com use cookies on its site?
+15.) Eyeglass frames purchased with-out additional lenses may come with the lenses that are sold this way from the vendor. This means that there may be a brand logo or any other engraving and/or marking(s) on the lenses which the manufacturer includes on them. Most eyeglass frames are intended to be used for prescription reasons, which means the lenses are usually meant to be replaced. We do offer plano lenses which can be made for these types of frames. These options can be seen on the lenses pricing page, under 'Non-Prescription/Plano' lenses.   
+  
+| Customer Privacy:  
+---  
+**1\. INTRODUCTION.** EYE TRENDS USA, INC., the owner of [GO-OPTIC.COM](http://go-optic.com/) (“us,” “we,” or “Company”), is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (“the Site”). We created this Website Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. 
 
-A cookie is a small file that Web sites often store on your computer's hard drive when you visit their sites. A cookie may contain information that is used to track the pages of the sites you've visited.
+**2\. INFORMATION COLLECTION PRACTICES**
 
-We use cookies in order to improve your shopping experience. When you visit the Go-Optic.com Web site, your cookie helps us keep track of your order as you shop at our site. If you are a registered customer, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. If you register with or order from us, we also use cookies to monitor and maintain information about your use of our Web site in a manner that identifies you as a customer. This information helps us serve you better by improving our site design, as well as our products, services, contests, surveys, and promotions.
+2.1. TYPES OF INFORMATION COLLECTED 
 
-You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order or enable you to make a purchase from our site. Nor will we be able to recognize you as a registered user to allow you access to your account information.
+(a) TRAFFIC DATA COLLECTED. We automatically track and collect the following categories of information when you visit our Site: (1) IP addresses; (2) domain servers; (3) types of computers accessing the Site; and (4) types of web browsers used to access the Site (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you, but is helpful for marketing purposes or for improving your experience on the Site. We also use “cookies” to customize content specific to your interests, to ensure that you do not see the same advertisement repeatedly, and to store your password so you do not have to re-enter it each time you visit the Site. 
 
-To enable cookies on your browser:
+(b) PERSONAL INFORMATION COLLECTED. In order for you to purchase products that we offer via the Site, we require you to provide us with certain information that personally identifies you (“Personal Information”). Personal Information includes the following categories of information: (1) Contact Data (such as your name, mailing address, telephone number and e-mail address); (2) Financial Data (such as your account or credit card number); (3) Demographic Data (such as your zip code, date of birth, and income) and (4) Medical Information (such as your prescription information and your prescribing doctor’s name and contact information). If you communicate with us by e-mail, telephone, facsimile or otherwise complete online forms, surveys, or contest entries, any information provided in such communication may be collected as Personal Information. 
 
-AOL 5.0:  
-Select "Preferences"  
-Click on "WWW"  
-Select the "Security" tab  
-Click on "Custom Level"  
-Scroll down to "Cookies"  
-Select "Enable" 
+2.2. USES OF INFORMATION COLLECTED 
 
-Netscape Navigator/Communicator:  
-Select "Preferences"from the "Edit" menu  
-Select "Advanced" from the left hand menu  
-Select "Accept All Cookies"  
-Click "OK" 
+(a) COMPANY USE OF INFORMATION. We use Contact Data to send you information about our company or our products or services, or promotional material from some of our partners, or to contact you when necessary. We use your Financial Data to verify your qualifications for certain products or services and to bill you for products and services. We use your Demographic Data to customize and tailor your experience on the Site, displaying content that we think you might be interested in and according to your preferences. We use your Medical Information to provide you with the appropriate products and services and to contact your doctor if we have any questions. 
 
-Internet Explorer 5.0 for PC:  
-Select "Internet Options" from the "Tools" menu  
-Click the "Security" tab  
-Click "Custom Level" at the bottom of the window  
-Scroll down to "Cookies"  
-Select "Always accept cookies"  
-Click "OK" 
+(b) SHARING OF PERSONAL INFORMATION. We share certain categories of information we collect from you in the ways described in this Privacy Policy. We share Demographic Data with advertisers and other third parties only on an aggregate (i.e., non-personally-identifiable) basis. We also share Contact Data, Financial Data and Medical Information with our business partners who assist us by performing core services (such as billing, fulfillment of your order, or data storage and security) related to our operation of the Site and the delivery of goods and services. Those business partners have all agreed to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will only use your Contact Data and other Personal Information to carry out their specific business obligations to Company. In addition, we maintain a procedure for you to review and request changes to your Personal Information; this procedure is described in Section 3.1, below. 
 
-Internet Explorer 5.0 for Mac:  
-Select "Preferences" from the "Edit" menu  
-Select "Receiving Files"  
-Select the option "Never ask" under "When receiving cookies"  
-Click "OK" 
+(c) USER CHOICE REGARDING COLLECTION, USE, AND DISTRIBUTION OF PERSONAL INFORMATION. You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those portions of the Site that require your Personal Information. 
+
+**3\. CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION.**
+
+Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our Terms of Service. We provide you with the capability to transmit you Personal Information via secured and encrypted channels if you use a similarly equipped web browser. 
+
+3.1. USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION. We maintain a procedure in order to help you confirm that your Personal Information remains correct and up-to-date. At any time, you may visit your personal profile by logging into your [GO-OPTIC.COM](http://go-optic.com/) account or you can also call us during our normal business hours at 877-634-2020 and one of our representatives will be happy to help update and/or access your information. Through your personal profile you may: (a) review and update your Personal Information that we have already collected; (b) choose whether or not you wish us to send you information about our company, or promotional material from some of our partners; and/or (c) choose whether or not you wish for us to share your Personal Information with third parties. 
+
+3.2. LOST OR STOLEN INFORMATION. You must promptly notify us if your credit card, user name, or password is lost, stolen, or used without permission. In such an event, we will remove that credit card number, user name, or password from your account and update our records accordingly. 
+
+3.3. PUBLIC INFORMATION. The Site contains links to other websites. We are not responsible for the privacy practices or the content of such websites. 
+
+**4\. UPDATES AND CHANGES TO PRIVACY POLICY.**   
+We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. 
