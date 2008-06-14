@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2007-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070729214720id_/http%3A//www.vanquis.co.uk/home/About_us/Privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614204101id_/http%3A//www.vanquis.co.uk/home/About_us/Privacy_statement.aspx) for the most accurate reproduction.*
 
 # Privacy statement
 
 **4  June 2006**
 
-This policy sets out how we use and protect any personal information that you give us when you use this website. If you have any questions about this policy or do not agree with it, please contact our customer services department at Vanquis card, Customer Services, PO Box 399, Chatham, ME4 4WQ or on 0870 850 7755 before using this website. Full details are available when you apply and in the Vanquis Card terms and conditions.
+This policy sets out how we use and protect any personal information that you give us when you use this website. If you have any questions about this policy or do not agree with it, please contact our customer services department at Vanquis Card, Customer Services, PO Box 399, Chatham, ME4 4WQ or on 0870 850 7755 before using this website. Full details are available when you apply and in the Vanquis Card terms and conditions.
 
 We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. “We/our/us” refer to Vanquis Bank Limited (Company number 02558509) whose registered office is at Colonnade, Sunbridge Road, Bradford, West Yorkshire is a member of the Provident Financial group (the Group).
 
@@ -47,7 +47,7 @@ Direct marketing
 
 We would like to provide you with information about products and services which we think you may find interesting. We may send you such information by post, email, telephone or mobile text and/or messaging service (SMS) unless you have registered with the appropriate Preference Service. When you provide us with information, you will be given the option to let us know that you do not want your information used for direct marketing purposes. If you request this option, we will not send you any direct marketing.
 
-You can change you mind at any time by contacting Vanquis card, Customer Service, PO Box 399, Chatham, ME4 4WQ.
+You can change you mind at any time by contacting Vanquis Card, Customer Service, PO Box 399, Chatham, ME4 4WQ.
 
 **You have a legal right to prevent your information being used for direct marketing purposes.**
 
@@ -59,7 +59,7 @@ We would also like to provide you with the information above by email. However, 
 
 If the reason you have given us personal information is to receive email information from us, we will continue to provide this information by email unless you ask us not to do so.
 
-Otherwise, when you provide us with personal information, we will ask you whether or not you are happy for us to send you this kind of information by email.If you decide at any time that you no longer wish to receive marketing emails from us, please write to us at Vanquis card, Customer Service, PO Box 399, Chatham, ME4 4WQ.
+Otherwise, when you provide us with personal information, we will ask you whether or not you are happy for us to send you this kind of information by email.If you decide at any time that you no longer wish to receive marketing emails from us, please write to us at Vanquis Card, Customer Service, PO Box 399, Chatham, ME4 4WQ.
 
 Back to top
 
@@ -105,7 +105,7 @@ Back to top
 
 How to get copies of or amend the information we have collected
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998 if you apply in writing. You are also entitled to request that any inaccurate information be amended or deleted. **You have a legal right to this information.** A small fee will be payable. If you would like a copy of the information held on you please write to Vanquis card, Customer Services, PO Box 399, Chatham, ME4 4WQ.
+You may request details of personal information which we hold about you under the Data Protection Act 1998 if you apply in writing. You are also entitled to request that any inaccurate information be amended or deleted. **You have a legal right to this information.** A small fee will be payable. If you would like a copy of the information held on you please write to Vanquis Card, Customer Services, PO Box 399, Chatham, ME4 4WQ.
 
 If you think any information we have about you is incorrect or incomplete, please write to us. We will correct or update any information as soon as possible.
 
@@ -127,6 +127,6 @@ Cookies
 
 We use cookies for certain areas of our website. Cookies are files that store information on your hard drive or browser that means that our website can recognise that you have visited our website before. They make it easier for you to maintain your preferences on the website, and by seeing how you use the website, we can tailor the website around your preferences and measure usability of the website. You can, should you choose, disable the cookies from your browser and delete all cookies currently stored on your computer. On Microsoft Internet Explorer, this can be done by selecting ‘Tools/Internet Options’ and reviewing your privacy settings or selecting ‘delete cookies’. You can find out how to do this for your particular browser by clicking ‘help’ on your browser’s menu or by visiting http://www.allaboutcookies.org/manage-cookies/. No information obtained from the cookie will be used by us for marketing purposes.
 
-If you have any queries or concerns regarding our Privacy Policy, please contact Vanquis card, Customer Services, PO Box 399, Chatham, ME4 4WQ.
+If you have any queries or concerns regarding our Privacy Policy, please contact Vanquis Card, Customer Services, PO Box 399, Chatham, ME4 4WQ.
 
 Back to top
