@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myshopkart.net privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214122203id_/http%3A//www.myshopkart.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshopkart.net privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614195815id_/http%3A//www.myshopkart.net/privacy.php) for the most accurate reproduction.*
 
 # My Shop Kart
 
