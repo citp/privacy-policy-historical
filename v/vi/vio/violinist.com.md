@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216142858id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614144644id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
 
 # Violinist.com privacy policy
 
-Violinist.com accepts articles, blogs, wikis and comments from Internet users who register with the site. If you choose to register with the site, you will be asked to submit some personal information, including your name, place of residence and e-mail address. Violinist.com collects this information in order to verify the identity of individuals submitting information to the site.
+|  Violinist.com accepts articles, blogs, wikis and comments from Internet users who register with the site. If you choose to register with the site, you will be asked to submit some personal information, including your name, place of residence and e-mail address. Violinist.com collects this information in order to verify the identity of individuals submitting information to the site.
 
 In addition, when you submit a comment or article to the site, Violinist.com will collect and record the IP address of the machine through which you accessed the Internet when you submitted the comment. (An IP address is a unique number assigned to each computer hooked up to the Internet. It is not your e-mail address. In fact, if you are connecting through a dial-up account, the IP address recorded will be that of a computer at your Internet Service Provider, and not your personal computer. Nevertheless, be aware that your ISP may track user logins, and thereby be able to identify you based on an IP number and time of day, if asked.)
 
@@ -12,4 +12,6 @@ Several pages on Violinist.com will attempt to set "cookies" in your browser. Co
 
 Information collected by Violinist.com becomes the property of Violinist.com, and may be transferred along with the other assets of Violinist.com to any subsequent owners of the site. Violinist.com is private property and its owners reserve the right to remove from the site any user and/or his or her information at any time.
 
-Violinist.com participates in the associates programs of Amazon.com and other online retailers. When a user follows a link from Violinist.com to one of these retailers' sites, he or she leaves the Violinist.com website, and the terms of this privacy policy no longer apply.
+Violinist.com participates in the associates programs of Amazon.com and other online retailers. When a user follows a link from Violinist.com to one of these retailers' sites, he or she leaves the Violinist.com website, and the terms of this privacy policy no longer apply.  
+  
+---|---
