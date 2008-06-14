@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsmliberty.net privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216035358id_/http%3A//www.gsmliberty.net/shop/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmliberty.net privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614080254id_/http%3A//www.gsmliberty.net/shop/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice - GSM Liberty
 
@@ -6,12 +6,13 @@
 ---  
 [My Account](http://www.gsmliberty.net/shop/account.php)  
 [Contact Us](http://www.gsmliberty.net/shop/contact_us.php)  
-[Resellers](http://www.gsmliberty.net/shop/reseller_login.php)  
+[Resellers](http://www.gsmliberty.net/reseller/)  
 [Support Center](http://support.gsmliberty.net/)  
-[FAQs](http://support.gsmliberty.net/?_a=knowledgebase)  
+[**Our Blog ******](http://blog.gsmliberty.net/) ** **  
+****  
 ---  
   
-[](http://www.gsmliberty.net/shop/sony-ericsson-power-unlock-clip-p-91.html)  
+[](http://www.gsmliberty.net/shop/lg-turbo-unlocker-p-90.html)  
   
 | 
 
@@ -24,19 +25,18 @@
   [Memory Cards](http://www.gsmliberty.net/shop/memory-cards-c-28_32.html)  
   [Data Cables](http://www.gsmliberty.net/shop/data-cables-c-27.html) (53)  
   [Firmware/Flash Upgrades](http://www.gsmliberty.net/shop/firmwareflash-upgrades-c-24.html) (107)  
-  [Mobile Phones](http://www.gsmliberty.net/shop/mobile-phones-c-29.html) (33)  
-  [Unlock](http://www.gsmliberty.net/shop/unlock-c-21.html) (930)  
+  [Mobile Phones](http://www.gsmliberty.net/shop/mobile-phones-c-29.html) (37)  
+  [Unlock](http://www.gsmliberty.net/shop/unlock-c-21.html) (1318)  
   [On-Site Unlock](http://www.gsmliberty.net/shop/onsite-unlock-c-21_23.html) (5)  
-  [Remote unlock](http://www.gsmliberty.net/shop/remote-unlock-c-21_22.html) (925)  
-  [Unlock Hardware](http://www.gsmliberty.net/shop/unlock-hardware-c-26.html) (39)  
-  [Phone Software Downloads](http://www.soft4gsm.com/?affiliate=1104)
+  [Remote unlock](http://www.gsmliberty.net/shop/remote-unlock-c-21_22.html) (1313)  
+  [Unlock Hardware](http://www.gsmliberty.net/shop/unlock-hardware-c-26.html) (39)
 
   [ **Free Nokia Unlock Codes**](http://www.gsmliberty.net/shop/nokia_unlock.php)  
   
 ---  
    
   
-[](http://www.gsmliberty.net/shop/nbox-multi-platform-unlockingflashrepair-clip-p-147.html)  
+[](http://www.gsmliberty.net/shop/instant-motorola-v3-razr-unlock-p-69.html)  
   
 | 
 
@@ -45,7 +45,7 @@
 |   
 ---|---  
   
-[](http://www.gsmliberty.net/shop/lg-turbo-unlocker-p-90.html)  
+[](http://www.gsmliberty.net/shop/blackberry-unlimited-unlock-clip-p-1232.html)  
   
 | 
 
@@ -54,28 +54,28 @@
 ---  
 | 
 
-[](http://www.gsmliberty.net/shop/motorola-w220-unlocked-p-1536.html)  
-[**Motorola W220 Unlocked**](http://www.gsmliberty.net/shop/motorola-w220-unlocked-p-1536.html)
+[](http://www.gsmliberty.net/shop/motorola-rokr-e2-imei-unlock-codes-p-1989.html)  
+[**Motorola Rokr E2 IMEI Unlock Codes**](http://www.gsmliberty.net/shop/motorola-rokr-e2-imei-unlock-codes-p-1989.html)
 
-* [Samsung G800 Unlocked](http://www.gsmliberty.net/shop/samsung-g800-unlocked-p-1535.html)
-* [Nokia N81 Unlocked 8GB](http://www.gsmliberty.net/shop/nokia-n81-unlocked-8gb-p-1534.html)
-* [BlackBerry Curve 8310 Unlocked](http://www.gsmliberty.net/shop/blackberry-curve-8310-unlocked-p-1533.html)
-* [Sony Ericsson P1i Unlocked](http://www.gsmliberty.net/shop/sony-ericsson-p1i-unlocked-p-1532.html)
-* [Nokia N82 Unlocked](http://www.gsmliberty.net/shop/nokia-n82-unlocked-p-1531.html)
-* [HTC Touch Dual Unlocked](http://www.gsmliberty.net/shop/htc-touch-dual-unlocked-p-1530.html)
-* [Nokia 6500 Classic Unlocked](http://www.gsmliberty.net/shop/nokia-6500-classic-unlocked-p-1529.html)
-* [Sony Ericsson K850i Unlocked](http://www.gsmliberty.net/shop/sony-ericsson-k850i-unlocked-p-1528.html)
-* [Sony Ericsson DB2020 CID52 Unlock](http://www.gsmliberty.net/shop/sony-ericsson-db2020-cid52-unlock-p-1527.html)
-* [Samsung E250 Unlocked](http://www.gsmliberty.net/shop/samsung-e250-unlocked-p-1526.html)
-* [Samsung U700 Unlocked](http://www.gsmliberty.net/shop/samsung-u700-unlocked-p-1525.html)
-* [Unlocked Apple iPhone](http://www.gsmliberty.net/shop/unlocked-apple-iphone-p-1524.html)
-* [DOPOD D600 Instant Remote Unlock](http://www.gsmliberty.net/shop/dopod-d600-instant-remote-unlock-p-1523.html)
-* [HTC P3400 GENE Instant Remote Unlock](http://www.gsmliberty.net/shop/htc-p3400-gene-instant-remote-unlock-p-1522.html)
-* [AT&T Tilt Instant Remote Unlock](http://www.gsmliberty.net/shop/att-tilt-instant-remote-unlock-p-1521.html)
-* [T-mobile Vario III Instant Remote Unlock](http://www.gsmliberty.net/shop/tmobile-vario-iii-instant-remote-unlock-p-1520.html)
-* [HTC P4550 Kaiser TyTN II Instant Unlock](http://www.gsmliberty.net/shop/htc-p4550-kaiser-tytn-ii-instant-unlock-p-1519.html)
-* [FIDO IMEI Unlock Codes](http://www.gsmliberty.net/shop/fido-imei-unlock-codes-p-1518.html)
-* [Rogers IMEI Unlock Codes](http://www.gsmliberty.net/shop/rogers-imei-unlock-codes-p-1517.html)  
+* [Motorola V191 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-v191-imei-unlock-codes-p-1988.html)
+* [Motorola V195 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-v195-imei-unlock-codes-p-1987.html)
+* [Motorola W220 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-w220-imei-unlock-codes-p-1986.html)
+* [Motorola Motofone F3 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-motofone-f3-imei-unlock-codes-p-1985.html)
+* [Motorola W209 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-w209-imei-unlock-codes-p-1984.html)
+* [Motorola W208 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-w208-imei-unlock-codes-p-1983.html)
+* [Motorola W208 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-w208-imei-unlock-codes-p-1982.html)
+* [Motorola W209 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-w209-imei-unlock-codes-p-1981.html)
+* [Motorola W375 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-w375-imei-unlock-codes-p-1980.html)
+* [Motorola Kazr k1 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-kazr-k1-imei-unlock-codes-p-1979.html)
+* [Motorola Razr V3xx IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-razr-v3xx-imei-unlock-codes-p-1978.html)
+* [Motorola Rizr Z3 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-rizr-z3-imei-unlock-codes-p-1977.html)
+* [Motorola Razr Maxx V6 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-razr-maxx-v6-imei-unlock-codes-p-1976.html)
+* [Motorola SLVR L7e IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-slvr-l7e-imei-unlock-codes-p-1975.html)
+* [Motorola ROKR E6 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-rokr-e6-imei-unlock-codes-p-1974.html)
+* [Motorola ROKR Z6 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-rokr-z6-imei-unlock-codes-p-1973.html)
+* [Motorola W205 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-w205-imei-unlock-codes-p-1972.html)
+* [Motorola W215 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-w215-imei-unlock-codes-p-1971.html)
+* [Motorola W510 IMEI Unlock Codes](http://www.gsmliberty.net/shop/motorola-w510-imei-unlock-codes-p-1970.html)  
 ---  
    
 |  | 
@@ -115,25 +115,25 @@ All this informattion is collected to help complete your order ONLY it will neve
   
 ---  
   
-|  |  [Sony Ericsson K750i Instant Remote Unlock](http://www.gsmliberty.net/shop/sony-ericsson-k750i-instant-remote-unlock-pri-664.html?reviews_id=367)  
+|  |  [Palm One Treo 650 Instant Remote Unlock !](http://www.gsmliberty.net/shop/palm-one-treo-650-instant-remote-unlock-pri-70.html?reviews_id=413)  
 ---  
   
-[](http://www.gsmliberty.net/shop/sony-ericsson-k750i-instant-remote-unlock-pri-664.html?reviews_id=367)
+[](http://www.gsmliberty.net/shop/palm-one-treo-650-instant-remote-unlock-pri-70.html?reviews_id=413)
 
-| I got the cable this day, just followed the instruction and [..  
-READ MORE](http://www.gsmliberty.net/shop/sony-ericsson-k750i-instant-remote-unlock-pri-664.html?reviews_id=367)  
+| This really does work. I was a bit skeptical at first, but a [..  
+READ MORE](http://www.gsmliberty.net/shop/palm-one-treo-650-instant-remote-unlock-pri-70.html?reviews_id=413)  
 **Review:** |   
-[RIM BlackBerry 7290 Unlock](http://www.gsmliberty.net/shop/rim-blackberry-7290-unlock-pri-593.html?reviews_id=360)  
+[RIM BlackBerry 7290 Unlock](http://www.gsmliberty.net/shop/rim-blackberry-7290-unlock-pri-593.html?reviews_id=518)  
 ---  
   
-[](http://www.gsmliberty.net/shop/rim-blackberry-7290-unlock-pri-593.html?reviews_id=360)
+[](http://www.gsmliberty.net/shop/rim-blackberry-7290-unlock-pri-593.html?reviews_id=518)
 
-| 8700c One try and BIM!!! Nice work and thanks! Took exactly [..  
-READ MORE](http://www.gsmliberty.net/shop/rim-blackberry-7290-unlock-pri-593.html?reviews_id=360)  
+| This was the first time I remotely unlock my Blackberry 8700 [..  
+READ MORE](http://www.gsmliberty.net/shop/rim-blackberry-7290-unlock-pri-593.html?reviews_id=518)  
 **Review:** |   
   |    
   
-[](http://www.gsmliberty.net/shop/sharp-v903sh-instant-unlock-p-92.html)  
+[](http://www.gsmliberty.net/shop/motorola-mpx220-instant-remote-unlock-p-52.html)  
   
 | 
 
@@ -141,25 +141,25 @@ READ MORE](http://www.gsmliberty.net/shop/rim-blackberry-7290-unlock-pri-593.htm
   
 ---  
   
-[](http://www.gsmliberty.net/shop/instant-motorola-v3-razr-unlock-p-69.html)  
-[**Instant Motorola V3 Razr Unlock**](http://www.gsmliberty.net/shop/instant-motorola-v3-razr-unlock-p-69.html)
+[](http://www.gsmliberty.net/shop/mda-touch-plus-instant-unlock-p-1540.html)  
+[**MDA Touch Plus Instant Unlock**](http://www.gsmliberty.net/shop/mda-touch-plus-instant-unlock-p-1540.html)
 
+* [Instant Motorola V3 Razr Unlock](http://www.gsmliberty.net/shop/instant-motorola-v3-razr-unlock-p-69.html)
 * [Palm One Treo 650 Instant Remote Unlock !](http://www.gsmliberty.net/shop/palm-one-treo-650-instant-remote-unlock-p-70.html)
 * [Instant Motorola V600 Remote Unlock](http://www.gsmliberty.net/shop/instant-motorola-v600-remote-unlock-p-43.html)
 * [T-Mobile Dash Unlock](http://www.gsmliberty.net/shop/tmobile-dash-unlock-p-1313.html)
 * [T-Mobile BlackBerry 8100 Pearl IMEI Unlock](http://www.gsmliberty.net/shop/tmobile-blackberry-8100-pearl-imei-unlock-p-1263.html)
 * [Cingular Unlock Codes](http://www.gsmliberty.net/shop/cingular-unlock-codes-p-1240.html)
+* [Sony Ericsson K800i Instant Remote Unlock](http://www.gsmliberty.net/shop/sony-ericsson-k800i-instant-remote-unlock-p-668.html)
 * [Sony Ericsson W810i Instant Remote Unlock](http://www.gsmliberty.net/shop/sony-ericsson-w810i-instant-remote-unlock-p-761.html)
 * [RIM BlackBerry 7290 Unlock](http://www.gsmliberty.net/shop/rim-blackberry-7290-unlock-p-593.html)
 * [Instant Motorola Mpx200 Unlock](http://www.gsmliberty.net/shop/instant-motorola-mpx200-unlock-p-41.html)
-* [Instant Motorola V551 Remote Unlock](http://www.gsmliberty.net/shop/instant-motorola-v551-remote-unlock-p-71.html)
-* [Motorola MPx220 Instant Remote Unlock](http://www.gsmliberty.net/shop/motorola-mpx220-instant-remote-unlock-p-52.html)
-* [Sony Ericsson K800i Instant Remote Unlock](http://www.gsmliberty.net/shop/sony-ericsson-k800i-instant-remote-unlock-p-668.html)
 * [Palm Treo 750 Unlock](http://www.gsmliberty.net/shop/palm-treo-750-unlock-p-1283.html)
 * [Cingular Black Jack Unlock](http://www.gsmliberty.net/shop/cingular-black-jack-unlock-p-1358.html)
+* [Instant Motorola V551 Remote Unlock](http://www.gsmliberty.net/shop/instant-motorola-v551-remote-unlock-p-71.html)
+* [Motorola MPx220 Instant Remote Unlock](http://www.gsmliberty.net/shop/motorola-mpx220-instant-remote-unlock-p-52.html)
 * [RIM Blackberry 8700c Unlock](http://www.gsmliberty.net/shop/rim-blackberry-8700c-unlock-p-134.html)
 * [Motorola IMEI Remote Unlock](http://www.gsmliberty.net/shop/motorola-imei-remote-unlock-p-29.html)
-* [Sony Ericsson Cruiser Cable](http://www.gsmliberty.net/shop/sony-ericsson-cruiser-cable-p-1235.html)
 * [Sony Ericsson W300i Instant Remote Unlock](http://www.gsmliberty.net/shop/sony-ericsson-w300i-instant-remote-unlock-p-748.html)
-* [AudioVOX SMT5600 Instant unlock!](http://www.gsmliberty.net/shop/audiovox-smt5600-instant-unlock-p-54.html)
-* [Nokia Remote Unlock](http://www.gsmliberty.net/shop/nokia-remote-unlock-p-28.html)
+* [Sony Ericsson Cruiser Cable](http://www.gsmliberty.net/shop/sony-ericsson-cruiser-cable-p-1235.html)
+* [Sony Ericsson W580 Instant Remote Unlock](http://www.gsmliberty.net/shop/sony-ericsson-w580-instant-remote-unlock-p-1506.html)
