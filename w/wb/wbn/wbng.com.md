@@ -1,112 +1,89 @@
-> *The following text is extracted and transformed from the wbng.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607215557id_/http%3A//wbng.com/now/story/0%2C1597%2C53940-409%2C00.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbng.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615004700id_/http%3A//www.wbng.com/inside/privacy) for the most accurate reproduction.*
 
-# CBS.com--CBS.com Privacy Statement
+# WBNG-TV Binghamton, NY | WBNG Privacy Policy
 
-**(CBS)**  We take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the cbs.com Privacy Coordinator by email at [privacy@cbs.com](mailto:privacy@cbs.com). You may also send inquiries by mail to: 
+At WBNG-TV, we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. This Privacy Policy applies to those websites that are part of WBNG-TV.
 
-**Privacy Coordinator  
-CBS.com (555/13)   
-524 West 57th Street   
-New York, New York 10019**
+Please read this Privacy Policy carefully. This Privacy Policy may change from time to time, so please check back often. If you have any questions or comments regarding this Privacy Policy, please contact us at  [wbng@wbngtv.com](mailto:wbng@wbngtv.com).
 
-We reserve the right to change our policy from time to time as we deem appropriate in our sole discretion. 
+**Collection of Personal Information**
 
-**KINDS OF INFORMATION**   
-There are two kinds of information Web sites can obtain about you: AGGREGATE INFORMATION: Aggregate Information is anonymous data that Web sites use to diagnose problems on the sites' servers, administer the sites, and to help improve the quality of the Web pages. It may be your domain name (i.e. "XYZ.com") or your IP address. PERSONALLY IDENTIFIABLE INFORMATION: Personally Identifiable Information is any information that personally identifies you. It can be your first and last name, your email address, your home address, or your telephone number. Sometimes this personal information is needed when you order products online or subscribe to an email newsletter. Other times, web sites collect this information to help target advertising and marketing. 
+You do not need to provide any information that identifies you ("personal information") to use a WBNG-TV site or to obtain information from most of the features of a WBNG-TV site. In general, you can visit our websites without telling us who you are or revealing any personal information.
 
-We collect Aggregate Information - such as your IP address (a number that's automatically assigned to your computer whenever you're surfing the Internet), browser type (e.g., Netscape or Internet Explorer), and domain (e.g., "XYZ.com"). We do this in the background so it does not interrupt your cruising speed. We use this information to help diagnose problems with our servers, to administer our site, and to gather broad demographic information. We share Aggregate Information with third parties for advertising and promotional purposes. None of this information is connected with Personally Identifiable Information. So, when you enter our site, you are anonymous and will remain that way unless you choose otherwise. 
+However, if you want to use certain online services, you may be asked to provide some personal information, such as your name, mailing address or e-mail address. We also may ask you to choose a user name and password and provide that information when accessing certain online features. If you do not want to give us any personal information, you can always decide not to use the services. The choice is yours. We are only interested in offering you convenient online services that match your interests and needs.
 
-**COOKIES**
+Some examples of when we may request personal information include the following:
 
-We use [cookies](https://web.archive.org/now/story/0,1597,31142-409,00.shtml) to remember your zip code so that you can maintain a customized view of CBS.com showing your city's CBS-TV affiliate Web site. We may also use cookies when we conduct polls, surveys, chat rooms and contests to limit multiple responses and registrations. 
+**WBNG  Desktop News.** You can register to receive notifications from WBNG-TV sites about issues of personal interest, such as local weather and news information. In order to provide you with these e-mail notifications, we may ask you to provide certain personal information, such as your name and e-mail address.
 
-We will never use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. We do not use information transferred through cookies for any promotional or marketing purposes. 
+**Polls.** Many WBNG-TV sites offer polling areas, which provide users with an opportunity to vote on local and national issues of concern. When you choose to participate in a poll, we may ask you to provide your name and e-mail address. This information helps us ensure the accuracy of our polling data.
 
-You may occasionally get cookies from our advertisers and our vendors. We do not control these cookies, and these cookies are not subject to our privacy policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry. 
+**Surveys.** WBNG-TV sites also may allow users to complete surveys about products or services offered by WBNG-TV or other companies. These surveys may ask for your name and e-mail address, and/or other information, such as your gender and income level. This information helps us understand our survey results.
 
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the polls, surveys, contest, and game areas, will not function properly if you do so. 
+**Contests/Trivia.** WBNG-TV sites also afford users many opportunities to play contests or trivia games. When you enter into a contest, trivia game or any other promotional item, we may ask for your name, password information and address (physical and electronic) so that we can contact you if you win. Sometimes we may require you to provide additional information, such as your gender and income level. Of course, if you do not want to provide such information, you do not need to participate in the online activity.
 
-**SURVEYS AND REGISTRATION FORMS**
+**Purchases.** Some WBNG-TV sites enable users to purchase products. When you purchase products, we may request your name, address, telephone number and credit card information. This information allows us to send you the items you ordered, to process payment information, and to respond to product and billing questions.
 
-Sometimes CBS.com posts surveys and registration forms in which we ask for Personally Identifiable Information. Here are some ways we might use that information: 
+**Chat/Message Boards.** WBNG-TV sites also may offer users the chance to participate in public forums, such as chat rooms, message boards and/or news groups. When you choose to participate in any of these forums, we may request your name, password information and address (physical and electronic). This information helps us respond to questions or concerns about use of these public areas.
 
-To send you information about CBS and this Web site   
-To give to our content partners, who may send you promotional material   
-To give to our advertisers, who may send you information about their products and services 
+**Comments/Questions.** You may send us comments or questions about your use of the WBNG-TV site. You need not identify yourself to send a comment or question, but we may collect your e-mail address so that we can send you a response. If you choose to provide other personal information in your comment or question, we may keep it in our correspondence files.
 
-The choice is yours - you do not have to answer surveys or register for newsletters or service. If you choose to answer the survey or complete the registration, we will tell you on the survey or registration form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates. 
+The above list contains some of the instances when the WBNG-TV website may collect your personal information. Please note that many of our websites may offer additional online features and services and may ask you to provide some personal information before permitting you to access those areas. This Privacy Policy governs the collection of any personal information you provide to a WBNG-TV site that is part of WBNG-TV.
 
-**CONTESTS AND SWEEPSTAKES**
+**Use and Disclosure of Personal Information**
 
-From time to time CBS.com runs contests and sweepstakes in which we ask for Personally   
-Identifiable Information such as your name, email address or telephone number. That's so we can let you know if you win. Sometimes we request additional Personally Identifiable Information such as your age, gender, and income level. And once in a while - though not often - we require this additional information in exchange for allowing you to enter the contest. Here are some of the ways we might use the information that we collect: 
+The WBNG-TV website uses your personal information for three general purposes. First, we use the information to provide you with the services you request and to respond to billing and/or other questions related to such service offerings. Second, we use the information to understand your use of our websites and to notify you about updates to one of our sites or to send you marketing materials or promotional offers that may be of interest. Third, we may use this information in aggregate form to help us evaluate and modify existing services and to help us develop additional services that are likely to be of interest to our users.
 
-  
+We may share your personal information with unaffiliated third parties in limited instances. For example, we may share your personal information with unaffiliated third parties as is necessary to process or collect payments, or service registered-user accounts. We also may hire third-party technology providers to host the WBNG-TV websites and to store your personal information.
 
-  * To notify you if you are a winner
-  
+We may also share aggregate, non-personal information about website usage with unaffiliated third parties, including, but not limited to, government agencies, advertisers and the media (i.e., __% of WBNG-TV website users are female, __% of users have visited certain sections, etc.). This aggregate information does not contain any personal information about our users.
 
-  * To send you information about CBS and our site
-  
+Finally, we may be required to disclose personal information by law or legal process, to protect and defend the rights or property of a WBNG-TV site, or to protect the personal safety of users to one of our sites. We also reserve the right to contact appropriate authorities when activities that are illegal or violate our policies are taking place on the WBNG-TV website.
 
-  * To give to content partners, who may send you promotional email
-  
+Except under the limited circumstances described above, we will not disclose any of your personal information to unaffiliated third parties.
 
-  * To give to advertisers, who may send you emails about their products and services
+**How We Protect Personal Information**
 
-  
-We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with third parties unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates. 
+We take reasonable measures to protect the privacy, accuracy, and reliability of any information you choose to provide and to protect such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. Only authorized employees are permitted to access personal information, and they only may do so for permitted business functions. Any employee who violates our privacy access policies will be subject to disciplinary action and/or termination.
 
-If you win one of our contests or sweepstakes, we will not publish your name, hometown, or other Personally Identifiable Information on the Site unless you give us your permission. 
+**Accessing or Deleting Your Personal Information**
 
-**OPT OUT**
+If you have submitted personal information through a WBNG-TV website and you would like to access that information, please send an e-mail to [wbng@wbngtv.com](mailto:wbng@wbngtv.com). We will use reasonable efforts to supply you with this information and to correct any factual inaccuracies that you identify. Upon your request, we also will remove your personal information from our databases.
 
-If we ask you for Personally Identifiable Information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don't want us to share the information or if you don't want to receive promotional and/or marketing information about products, services, and offerings from CBS.com and/or any third parties. Let us know and we will use your name and address only to tell you if you win a contest. 
+**Collection, Use and Disclosure of Non-Personal Information**
 
-**SUBPOENAS AND LAW ENFORCEMENT AGENCIES**
+In some cases, a WBNG-TV site may collect information about you that is not personally identifiable, as described below. Internet Protocol Addresses An Internet Protocol (IP) address is a number automatically assigned to your computer whenever you access the Internet. This number does not identify your name, e-mail address or other personal information. If you request pages from any WBNG-TV website, that site's server will enter your IP address into a log.
 
-We reserve the right to cooperate with government and law enforcement agencies engaged in investigations of activities that are, or are believed to be, illegal. Further, we may share your Personally Identifiable Information with such agencies if we believe that a crime or any act that endangers the health and safety of others may have been or may be committed. We may also share your Personally Identifiable Information in response to an appropriate subpoena. 
+To maintain user anonymity, WBNG-TV does not associate IP addresses with records containing personal information. We also do not permit IP addresses to be associated and viewed with posts to chat rooms and bulletin boards. We store IP addresses for a period of time to help us to identify anyone who refuses to comply with our in-house rules or terms of service, and to identify visitors who threaten our service, site, customers or others. We also will use this information to measure site traffic for purposes of system administration and for our sponsors. This aggregate data also helps us to understand how people are using the website and helps us improve your online experience.
 
-**COMMUNITY AND PUBLIC AREAS**
+**Cookies**
 
-Information posted to message boards or chat areas is available to the general public. Please use caution when posting any such information. Users under the age of 18 should be particularly careful not to provide any personally identifying information while using chat rooms or message boards. We reserve the right to, but are not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. Please see our Terms of Service for additional information. 
+WBNG-TV sites also automatically gather certain non-personal information through the use of "cookies". "Cookies" are small text files that recognize repeat visitors, facilitate ongoing access to some sites, and allow sites to understand how and when pages are visited and by how many people. We use cookies primarily to make improvements and updates based on which areas are popular and which are not. We also use cookies to ensure the accuracy of our polling data. Except for personal information voluntarily provided by you (i.e., during any registration process), we do not use information transferred through cookies for promotional or marketing purposes, and that information is not shared with third parties.
 
-**FEEDBACK AND EMAIL**
+Our advertisers may occasionally place cookies on your computer, which is standard in the Internet industry. Please note that WBNG-TV does not control these cookies, and these cookies are not subject to this Privacy Policy.
 
-On every page at CBS.com there is a link to a "feedback" email form so you can comment, complaint, make suggestions, and ask questions. Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way. We may also track your browser type and referring URL to better diagnose technical issues you may be having. We do not share this information with third parties and we will use it only to answer your correspondence. 
+**Safeguarding Children’s Privacy**
 
-**CBS-TV AFFILIATES**   
-CBS.com has a unique relationship with some of our CBS Television affiliates. If you are interested in local information, we will give you the option to choose a local affiliate or enter a zip code. We asked for this information so that your view of the site could be "branded" to your local CBS Television affiliate, or to any other CBS-Television affiliate you choose. You'll see their logo at the top of your screen. 
+WBNG-TV sites will not knowingly collect personal information or any other identifying data from children under 13 years of age without first obtaining verifiable consent from a parent or legal guardian. Requests for parental consent will explain how we collect, use, and disclose children's personal information, and will include an opportunity for parents to prevent use of their children's information, as well as to prevent their children from participating in features which involve the collection of personal information. Should a child whom we know to be under 13 send personal information to a WBNG-TV site without first obtaining parental consent, the site will immediately delete that information from its database.
 
-Some of our affiliates provide their own content, such as local news stories. This content may be mixed with the content we produce. And some affiliates sell ads or run contests that will appear on their branded sites only. 
+We will not use, distribute or disclose any child's personal information to third parties without prior parental consent. If, at any time, a parent withdraws his or her consent to our use or maintenance of personal information collected from his or her child, we will promptly remove such information from our database. In addition, we will not require children under 13 years of age to disclose more personal information than is necessary in order to participate in any online feature or service.
 
-We are not responsible for content or contests posted by our affiliates or for the use of any information that an affiliate may collect. 
+**External Links**
 
-We use reasonable efforts to require that all content on our site conforms to our privacy policy. But we do not control, and we are not responsible for, the content or privacy policies of our affiliates. 
+WBNG-TV sites may provide links to various websites. When you click on one of these links, you will be transferred from a WBNG-TV website and connected to the website of the organization or company that you selected. Even if an affiliation exists between WBNG-TV, and a third-party website, WBNG-TV exercises no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a website that is linked to a WBNG-TV site, you should consult that site's Privacy Policy before providing those sites with any of your personal information.
 
-**LINKS TO OTHER SITES**
+**Terms, Changes and Questions**
 
-When you visit our site, you may be directed to other sites outside our service. For example, if you click on a banner advertisement, you will leave our site. This includes links to sites operated by advertisers, sponsors and partners that may use our logo as part of an agreement with us. These other sites may send their own cookies to users, collect data, or solicit personal information. These other sites are not subject to our privacy policy and we are not responsible for the privacy policies for these other sites, nor for the use of any information that these sites may collect. 
+By using a WBNG-TV website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, please do not use or disclose any personal information through one of our sites.
 
-**CBS STORE**
+If we decide to change this Privacy Policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.
 
-The CBS Store uses a third-party fulfillment house to accept orders for CBS products purchased online. Names, street addresses, and financial information are required to complete these orders, and may also be used to contact customers about their orders or for billing questions when necessary. However, neither CBS nor the fulfillment house shares this information with third parties. 
+If you have any questions or comments about this policy or our use of personal information, you may send an e-mail to  [wbng@wbngtv.com](mailto:wbng@wbngtv.com) or send a letter to the following address:
 
-**DELETING OR MODIFYING YOUR INFORMATION**
+> WBNG-TV 12  
+> 560 Columbia Dr.  
+> Johnson City, NY 13790
+> 
+> We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information.
 
-If you've given us Personally Identifiable Information in the past and then have second thoughts or want to update it, here are your choices: 
-
-Email to [privacy@cbs.com](mailto:privacy@cbs.com). 
-
-Regular mail to: 
-
-**Privacy Coordinator  
-CBS.com (555/13)   
-524 West 57th Street   
-New York, New York 10019**
-
-Although it is not always possible to remove or modify information in the databases, we will make reasonable efforts to do so. If you've given us information for one of those third parties we mentioned above and we've already passed it on, we cannot delete or change the information. 
-
-**SECURITY OF PRIVATE INFORMATION**
-
-Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at [CBS.com](https://web.archive.org/now/section/0,1636,100-409,00.shtml), to protect your information from theft, misuse and alteration. 
+Copyright © 2008 WBNG-TV. All rights reserved. 
