@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rubios.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616143353id_/http%3A//rubios.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubios.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614042932id_/http%3A//www.rubios.com/privacy.html) for the most accurate reproduction.*
 
-# Rubio's
+# Mexican Restaurant | Rubio's | Privacy Policy
 
 ## Our Commitment to Privacy
 
@@ -36,7 +36,7 @@ On part of our site, we may use cookies to store and track information about you
 
 Our goal is to provide you with a site that best meets your needs, wants and interests. Therefore, we primarily use the information we've collected to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services.
 
-The email addresses that we collect are used by us to contact consumers for marketing purposes and are not shared with other organizations for commercial purposes whatsoever. 
+The email addresses that we collect are used by us to contact consumers for marketing purposes and are not shared with other organizations for commercial purposes whatsoever.
 
 If you placed a gift card order, we use your personal information to ship your order
 
@@ -44,13 +44,13 @@ If you placed a gift card order, we use your personal information to ship your o
 
 Rubio's takes your online privacy very seriously. As such, we employ policies, procedures meant to prevent others from illegal and/or unauthorized access to the personal information you provide to us.
 
-Access to your information is controlled by strict internal procedures. 
+Access to your information is controlled by strict internal procedures.
 
 ## Children under 13
 
 We do not knowingly collect or use personal information from children under 13 without the proper consent from their parents. However, in the case a child has provided us with personal information without parental or guardian consent, the parent or guardian should contact us immediately to remove their information.
 
-For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC website: www.ftc.gov.
+For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC website: [www.ftc.gov](http://www.ftc.gov/).
 
 ## Policy Updates
 
@@ -67,5 +67,5 @@ Rubio's Fresh Mexican Grill.
 1902 Wright Place, Suite #300  
 Carlsbad, CA 92008
 
-We may also be reached via [e-mail](http://www.hilahmedia.com/hde/rubios.htm)  
+We may also be reached via [e-mail](https://web.archive.org/web/20080614042932id_/http%3A//www.rubios.com/contactus.html)  
 Or, you may reach us by telephone, toll-free at 1-800-354-4199
