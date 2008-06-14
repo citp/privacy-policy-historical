@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aim.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629011650id_/http%3A//www.aim.com/tos/privacy_policy.adp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aim.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614155242id_/http%3A//aim.com/tos/privacy_policy.adp%3Fadp%3D0) for the most accurate reproduction.*
 
 # AIM Privacy Policy
 
