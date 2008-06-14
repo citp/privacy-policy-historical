@@ -1,7 +1,17 @@
-> *The following text is extracted and transformed from the wcbs880.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215194740id_/http%3A//www.wcbs880.com/pages/2135.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcbs880.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614062907id_/http%3A//www.wcbs880.com/pages/2135.php) for the most accurate reproduction.*
 
 # WCBS NEWSRADIO 880 - Privacy Policy / Your California Privacy Rights
 
+| 
+
+[](http://www.wcbs880.com/)
+
+|   
+---|---  
+  
+|  Posted: Sunday, 26 November 2006 3:02PMPrivacy Policy / Your California Privacy Rights  
+---  
+  
 Unless specified otherwise on the Site, users must be at least 18 years of age and a legal resident of the United States before participation in any activity that requires the submission of Personal Information.  By your participation in our Site activities, you certify that you are at least 18 years of age.  All users of the Site are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false or fraudulent.  
 
 If you do not agree with this Privacy Policy, please do not participate in the Site’s activities or services that require you to provide your Personal Information.  (The type of Personal Information is listed below.) Your continued participation indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, maintenance, management and storage of your Personal Information as described below.  This Privacy Policy will remain in full force and effect as long as you are a user of the Site.  We reserve the right to revise this policy at any time by updating this posting without advance notice to you.  Such revisions shall be effective to you as a user of the Site immediately upon posting.  Therefore, we encourage you to check this Privacy Policy often.  
@@ -90,4 +100,7 @@ New York, NY 10019
 Attn: Privacy Administrator
 
 This Privacy Policy was last updated on November 26, 2006.   
-TM & © 2006 CBS Radio Inc. and its relevant subsidiaries. CBS RADIO & EYE Logo TM & © 2006 CBS Broadcasting Inc. used under license. All Rights Reserved.
+TM & © 2006 CBS Radio Inc. and its relevant subsidiaries. CBS RADIO & EYE Logo TM & © 2006 CBS Broadcasting Inc. used under license. All Rights Reserved.  
+  
+  
+
