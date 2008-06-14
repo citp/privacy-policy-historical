@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the apexwebgaming.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226170324id_/http%3A//apexwebgaming.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexwebgaming.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615015038id_/http%3A//apexwebgaming.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy: Apex Web Gaming
-
-PRIVACY POLICY
+# Privacy Policy - Apex Web Gaming
 
 _This statement was last updated July 15, 2005._
 
@@ -18,6 +16,8 @@ We use your personal information for two primary purposes:
 
   * To make the site easier for you to use by not making you enter your personal information more than once. 
   * To help us create and deliver content most relevant to you. 
+
+
 
 Apex Web Gaming will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Apex Web Gaming or the site; (b) protect and defend the rights or property of Apex Web Gaming, and, (c) act in urgent circumstances to protect the personal safety of users of Apex Web Gaming, its Web site, or the public.
 
