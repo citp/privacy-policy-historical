@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyplayers.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213065704id_/http%3A//www.fantasyplayers.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyplayers.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614190220id_/http%3A//www.fantasyplayers.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,5 +79,18 @@ The Sites may contain links to other web sites that we do not control or maintai
 |    
 | 
 
-[](https://web.archive.org/includes/outsideLink.asp?url=http%3A%2F%2Fwww%2Erotonation%2Ecom)  
+Wayback Machine
 
+Search the history of over 406 billion [web pages](https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/) on the Internet. 
+
+[](https://archive.org/web/)
+
+## Hrm.
+
+The Wayback Machine has not archived that URL.
+
+## This page is available on the web!
+
+Help make the Wayback Machine more complete!
+
+Click here to search for all archived pages under [http://http:/includes/ajax/](https://web.archive.org/web/*/http://http:/includes/ajax/*). 
