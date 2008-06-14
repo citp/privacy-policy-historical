@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igt.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215234142id_/http%3A//www.igt.com/Reference/Legal.asp%3Fpid%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igt.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614054136id_/http%3A//www.igt.com/Reference/Legal.asp%3Fpid%3D11) for the most accurate reproduction.*
 
 # IGT - Privacy Policy
 
@@ -58,8 +58,7 @@ This Privacy Policy is subject to the terms of the applicable IGT [Terms and Con
 
 The operator of this Site is 
 
-IGT  
-Corporate Headquarters  
+IGT Reno  
 9295 Prototype Drive  
 Reno, NV 89521-8986  
 United States   
