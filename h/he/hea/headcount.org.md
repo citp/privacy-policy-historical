@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the headcount.org privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022061508id_/http%3A//headcount.org/images/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headcount.org privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614031236id_/http%3A//www.headcount.org/privacy.asp) for the most accurate reproduction.*
 
-# HeadCount | Downloads
+# HeadCount
 
-HeadCount is committed to protecting the privacy of Internet users. HeadCount uses strict security measures to protect against the loss, misuse and alteration of data. 
+HeadCount is committed to protecting the privacy of Internet users. HeadCount uses strict security measures to protect against the loss, misuse and alteration of data.   
+
 
 ### User Information
 
@@ -10,7 +11,7 @@ In some cases on HeadCount you may provide voluntary information for mailing lis
 
 ###  HeadCount's Volunteer Effort
 
-HeadCount is run by volunteers. By agreeing to be a volunteer you agree to enter certain information. Some of this information is required and some is voluntary. Your volunteer information can be edited at any time. You reserve the right to terminate your volunteer status with HeadCount at any time. 
+HeadCount it run by volunteers. By agreeing to be a volunteer you agree to enter certain information. Some of this information is required and some is voluntary. Your volunteer information can be edited at any time. You reserve the right to terminate your volunteer status with HeadCount at any time. 
 
 ###  HeadCount Voter Registration
 
@@ -24,4 +25,4 @@ We take all reasonable steps to protect personal information and we use technolo
 
 Notwithstanding anything else stated in this Privacy Policy, HeadCount reserves the right to disclose your information if required to do so by law or in the good-faith belief that such action is reasonably necessary to (1) comply with legal process, (2) respond to any claims against it, or (3) protect the rights, property or personal safety of HeadCount, our users or the public. 
 
-If you have any questions or comments about our use of personal information, please contact us at [info@headcount.org](mailto:info@headcount.org). We will respond with speed to any issues regarding your privacy. 
+If you have any questions or comments about our use of personal information, please contact us at [info@headcount.org](mailto:info@headcount.org). We will respond with speed to any issues regarding your privacy.
