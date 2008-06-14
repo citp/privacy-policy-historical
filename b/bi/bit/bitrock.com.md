@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitrock.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227070726id_/http%3A//bitrock.com/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrock.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615010246id_/http%3A//bitrock.com/about_privacy.html) for the most accurate reproduction.*
 
 # BitRock :: About Us :: Privacy
 
@@ -11,6 +11,8 @@ This page explains BitRock's policy (the "Privacy Policy") regarding the collect
 ### Information Collection and Use
 
 BitRock Incorporated is the sole owner of the information collected on this site. We will not sell, share, or rent this information to third parties without your explicit permission.
+
+Recent versions of InstallBuilder include an auto-update capability. when InstallBuilder checks for updates, it will transmit information such as operating system type and InstallBuilder version, in order to determine if a newer version is available. Automatic update checking can be disabled at any time by the user.
 
 ### Registration
 
