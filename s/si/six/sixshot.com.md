@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the sixshot.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225134816id_/http%3A//www.sixshot.com/about/912) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixshot.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614185153id_/http%3A//www.sixshot.com/about/912) for the most accurate reproduction.*
 
 # TERMS AND CONDITIONS OF USE :: Hip-Hop Review
 
 | 
 
-| [NEWS](https://web.archive.org/web/20071225134816id_/http://www.sixshot.com/news/) | [INTERVIEWS](https://web.archive.org/web/20071225134816id_/http://www.sixshot.com/interviews/) | [ALBUMS](https://web.archive.org/web/20071225134816id_/http://www.sixshot.com/albums/) | [SPECIALS](https://web.archive.org/web/20071225134816id_/http://www.sixshot.com/) | [BLOGS](https://web.archive.org/web/20071225134816id_/http://www.sixshot.com/section.asp?id=3)  
+| [NEWS](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/news/) | [INTERVIEWS](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/interviews/) | [ALBUMS](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/albums/) | [SPECIALS](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/) | [BLOGS](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/columns.asp)  
 ---|---|---|---|---  
   
 * * *
 
-Posted: 11/7/2002 1:37:02 AM by [ bab](http://community.sixshot.com/bab)
+Posted: 11/7/2002 4:37:02 AM by [ bab](http://community.sixshot.com/bab)
 
 This site is a database of information of Hip-Hop related content. While every effort has been made to ensure the accuracy of the displayed information, Sixshot GmbH gives no warranty as to the accuracy of contained information.
 
@@ -40,11 +40,11 @@ Your Acceptance of These Terms:** By using Sixshot GmbH, you signify your accept
 Last updated June 28th, 2004
 
   
-Peep the **[review archive](https://web.archive.org/web/20071225134816id_/http://www.sixshot.com/section.asp?id=3)**
+Peep the **[review archive](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/section.asp?id=3)**
 
-**Send** this Story [**to a Friend**](https://web.archive.org/web/20071225134816id_/http://www.sixshot.com/mailto.asp?id=912)  
+**Send** this Story [**to a Friend**](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/mailto.asp?id=912)  
   
-[ **Print**](https://web.archive.org/web/20071225134816id_/http://www.sixshot.com/print.asp?id=912) this article [ ](https://web.archive.org/web/20071225134816id_/http://www.sixshot.com/print.asp?id=912)
+[ **Print**](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/print.asp?id=912) this article [ ](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/print.asp?id=912)
 
 * * *  
   
