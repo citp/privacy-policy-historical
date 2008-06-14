@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusionmails.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216055225id_/http%3A//www.fusionmails.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusionmails.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614092036id_/http%3A//www.fusionmails.com/pages/privacy.php) for the most accurate reproduction.*
 
 # FusionMails
 
@@ -28,6 +28,3 @@ We do not collect online contact information without prior parental consent or p
 
 Fusionmails gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with Fusionmails, you can [Contact Us](https://web.archive.org/pages/contact.php).   
 
-
-[   
-](http://www.spare-dollars.com/)
