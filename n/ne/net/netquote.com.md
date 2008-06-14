@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the netquote.com privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217092738id_/http%3A//netquote.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netquote.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615000930id_/http%3A//www.netquote.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
-# NetQuote | Privacy Policy
+# Privacy Policy | NetQuote
 
-NetQuote Privacy Policy    
+  
 
 
-The following privacy statement discloses the privacy practices for NetQuote.  
+The following privacy statement discloses  
+the privacy practices for NetQuote.  
 Last revised: _May 8, 2007_
 
 **NetQuote** , Inc.   
@@ -40,7 +41,7 @@ What We Want You to Know
 
 NetQuote is the leading online marketplace connecting consumers with insurance agents to compete for their business across a variety of insurance policy types.  NetQuote has been in business since 1989.  NetQuote is not an insurance agency and does not provide quotes directly to consumers.  Rather, NetQuote is a free matching service that instantly connects you with our nationwide network of quality insurance agents. 
 
-After you submit your quote request via our web site, NetQuote immediately matches you to local and national agents who can meet your insurance needs.  We create this connection by emailing you the list of matching agents and their contact information as well as passing your information to the agents.  Your matching agents will use the information you provided in your quote request to run your quote and contact you with the details.  Sometimes, NetQuote does not have a matching agent based on your location and insurance needs.  In this event, your information may be passed to one of our partner copmanies to ensure that you receive as many competitive quotes as possible. 
+After you submit your quote request via our web site, NetQuote immediately matches you to local and national agents who can meet your insurance needs.  We create this connection by emailing you the list of matching agents and their contact information as well as passing your information to the agents.  Your matching agents will use the information you provided in your quote request to run your quote and contact you with the details.  Sometimes, NetQuote does not have a matching agent based on your location and insurance needs.  In this event, your information may be passed to one of our partner companies to ensure that you receive as many competitive quotes as possible. 
 
 NetQuote does not charge a fee to use our service.  NetQuote is paid a fee by the insurance agents who purchase leads through our service. 
 
@@ -202,10 +203,6 @@ If you decide to purchase insurance from one of the insurance agents matched to 
 
 NetQuote is not an insurance agency.  We are a free matching service that instantly connects you with our nationwide network of quality insurance agents.  After you submit your quote request via our web site, NetQuote immediately matches you to local agents and sends your information to them.  This process happens instantly; therefore, there is not an opportunity for you to edit your original information after it’s been submitted.  We recommend that you communicate the needed changes directly to the agents with whom you were matched.  You can find your agent(s) contact information in the email we sent you to confirm your quote request.  This will ensure your updates are made and that the agent uses the most accurate information available to process your quote.
 
-**System records**
-
-All personal information provided to NetQuote in a quote request will be removed from our production database after 60 days.
-
 6\.  Policies applicable to restricted areas within the site
 
 Certain areas of NetQuote.com, such as areas only available to our agent network, may have additional or different terms and conditions than those addressed in this policy.  If you access any of these areas, you should consult the privacy policies posted in those areas.
@@ -218,16 +215,16 @@ We may, at our sole discretion, revise this policy at any time in a manner consi
 
 By filling out the forms and providing information about yourself on this and the following pages, you acknowledge and agree that:
 
-  * you have read, understand and agree to NetQuote’s Privacy Policy, and NetQuote may send you electronically (via email or otherwise) any notices with respect to the Privacy Policy
+  * You have read, understand and agree to NetQuote’s Privacy Policy, and NetQuote may send you electronically (via email or otherwise) any notices with respect to the Privacy Policy
   
 
-  * NetQuote may provide the information you submit to third parties for the purposes of providing you information and quotes about insurance, that such third parties may contact you by the email addresses, physical address or phone numbers that you provide, and that such third parties may use your information to gather additional information about you, such as insurance or credit scores
+  * NetQuote may provide the information you submit to third parties for the purposes of providing you information and quotes about insurance, that such third parties may contact you by the email addresses, physical address or phone numbers that you provide, and that such third parties may use your information to gather additional information about you, such as insurance or credit scores.
   
 
-  * NetQuote may contact you using the information you provide
+  * NetQuote may contact you using the information you provide.
   
 
-  * you are an actual person, you have the right to provide the information you submit, and the information you submit is accurate, complete and truthful   
-If you do not agree to the terms of this Privacy Notice and the Privacy Policy, then do not enter your information and do not continue with this process and do not provide you information to NetQuote, in which case NetQuote will not be able to have any quotes or information for insurance provided to you.
+  * You are an actual person, you have the right to provide the information you submit, and the information you submit is accurate, complete and truthful.   
+If you do not agree to the terms of this Privacy Notice and the Privacy Policy, then do not enter your information and do not continue with this process and do not provide your information to NetQuote, in which case NetQuote will not be able to have any quotes or information for insurance provided to you.
 
 
