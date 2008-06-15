@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahlanlive.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011200815id_/http%3A//www.ahlanlive.com/index.php%3Foption%3Dcom_advertise%26view%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahlanlive.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615165511id_/http%3A//www.ahlanlive.com/index.php%3Foption%3Dcom_advertise%26view%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
