@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the wnem.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028174007id_/http%3A//www.wnem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnem.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616014055id_/http%3A//www.wnem.com/privacy) for the most accurate reproduction.*
 
-# WNEM - Privacy
+# WNEM.com - Privacy
 
+**Internet Broadcasting Systems Private Policy:**  
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.wnem.com](http://www.wnem.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means.
 
 **Information Collection and Use**  
@@ -17,7 +18,7 @@ We collect information from website visitors who must register for certain servi
 The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
 
 **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
 
 **Linking and Framing**  
 This site contains links to other sites. This site is not responsible for the privacy practices or the content of such websites. Occasionally when linking to another site, you may still see our site's logo or frame. This is to provide you with a seamless experience when visiting our website. In these cases you are no longer on wnem.com and are now on a different website whose information collection practices may differ from ours. The privacy policy of the site you are on will govern how information collected from you is used.
@@ -47,11 +48,11 @@ If you have any questions about this privacy statement, the practices of this si
 
 Security Administrator  
 Internet Broadcasting Systems  
-1333 Northland Drive  
-Mendota Heights, MN 55120  
+355 Randolph St.  
+Aaint Paul, MN 55102  
 [security@ibsys.com](mailto:security@ibsys.com)
 
  **Changes to This Policy**  
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days. 
 
-Last Revised 11/03
+Last Revised 02/08
