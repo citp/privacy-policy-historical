@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the avbuyer.com privacy policy that was archived on 2007-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070812215204id_/http%3A//www.avbuyer.com/Privacy/Default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avbuyer.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615165652id_/http%3A//www.avbuyer.com/Privacy/Default.asp) for the most accurate reproduction.*
 
 # AvBuyer.com - Privicy
 
 ## AvBuyer.com: Privacy Policy 
 
-[](http://www.avbuyer.com/MainRedirect.asp?lt=11&aid=0&Id=3233&go=www.expo.aero)  
-[](http://www.avbuyer.com/MainRedirect.asp?lt=11&aid=0&Id=3993&go=www.proair-aviation.com/intro.htm)  
-[](http://www.avbuyer.com/MainRedirect.asp?lt=11&aid=0&Id=3992&go=www.hamptonroadsexecutiveairport.com)  
+[](http://www.avbuyer.com/MainRedirect.asp?lt=11&aid=0&Id=3233&go=www.expo.aero/london/)  
+[](http://www.avbuyer.com/MainRedirect.asp?lt=11&aid=0&Id=0&go=www.eac2008.com)  
+[](http://www.avbuyer.com/MainRedirect.asp?lt=11&aid=0&Id=3114&go=http://www.tri-jets.com)  
 
 
 ### **** Avbuyer.com is committed to protecting your right to privacy as a user of our online service. Please read this information carefully as by using this site, you indicate your acceptance of AvBuyer’s online privacy policy. 
