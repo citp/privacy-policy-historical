@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the okidata.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228041406id_/http%3A//www.okidata.com./mkt/html/nf/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okidata.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615150721id_/http%3A//okidata.com/mkt/html/nf/PrivacyStatement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 Policy Effective Beginning: March 15, 1999  
-Last Updated: November 29, 2007 
+Last Updated: March 25, 2008 
 
 Privacy Policy Statement
 
@@ -13,6 +13,7 @@ OKI Data offers various opportunities for visitors to provide information on its
 
   1. The first is information necessary to complete a transaction or purchase (such as name, address, phone number, email address and credit card information). 
   2. The second type is optional information to help OKI Data understand the needs and desires of its customers, and in return for which OKI Data may provide the user the opportunity to enter contests and drawings, complete surveys, and/or receive promotional offers or special notifications, among other things. (This may include such information as company size, revenue, purchasing needs, opinions, purchase intentions or history, etc.). 
+  3. The third type of information is required of registered participants posting information on the Oki Printing Solutions Support Forum where selected servicing dealers may exchange information about Oki Data products and services. Dealer personnel participating must provide their full name, title, password, company name, company phone number, service manager name, and service manager phone number as a condition of acceptance; final review and approval of all registrations is reserved by Oki Data. This information is viewable by other registered forum participants and Oki Data personnel. Participants may provide content for the forum. Oki Data will monitor all submissions to the forum and will exercise complete editorial control over all content, which may be then posted in its entirety, in an edited version, or not at all. Participants may also send private emails to other participants including Oki Data personnel. The terms and conditions of the forum are reviewed and accepted prior to participation.
 
 
 
@@ -65,7 +66,7 @@ Like most standard Web sites, we also use log files. This includes internet prot
 
 Further questions regarding our privacy policy may be sent to [ webmaster@okidata.com](mailto:webmaster@okidata.com). 
 
-© Copyright, 2007 Oki Data Americas, Inc., a subsidiary of OKI Data Corporation 
+© Copyright, 2008 Oki Data Americas, Inc., a subsidiary of OKI Data Corporation 
 
 Oki Data Americas, Inc.  
 2000 Bishops Gate Blvd.  
