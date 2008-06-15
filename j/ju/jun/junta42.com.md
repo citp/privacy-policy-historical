@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junta42.com privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022144020id_/http%3A//www.junta42.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junta42.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615165322id_/http%3A//www.junta42.com/about/privacy) for the most accurate reproduction.*
 
 # Junta42 | Site Usage
 
