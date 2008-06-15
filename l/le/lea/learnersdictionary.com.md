@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnersdictionary.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024193138id_/http%3A//www.learnersdictionary.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnersdictionary.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615234600id_/http%3A//www.learnersdictionary.com/privacy.htm) for the most accurate reproduction.*
 
 # Merriam-Webster's LearnersDictionary.com
 
