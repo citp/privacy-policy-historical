@@ -1,75 +1,130 @@
-> *The following text is extracted and transformed from the ulead.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306233356id_/http%3A//www.ulead.com/aboutulead/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulead.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615163247id_/http%3A//www.ulead.com/aboutulead/privacy.htm) for the most accurate reproduction.*
 
 # Multimedia Software Developer: About Ulead Systems - Online Privacy Statement
 
-Information Collection and Use   
-Ulead is the sole owner of the information collected on this Web site. Any information collected from our users will not be sold, shared, or rented to others in ways different from what is disclosed in this statement.
+Corel recognizes that our customers value their right to privacy and want to be assured that any personal information that they provide to us will be used in accordance with their wishes. Corel is committed to ensuring that you are fully informed as to how your personal information will be used and that it will be kept secure.
 
-Ulead Member and Product Registration   
-To become a Ulead member or register a product, a user must first successfully complete a registration form with information such as name, e-mail address and product serial number. This data is used to provide information about the services on our site for which the user has expressed an interest. It is optional for the user to give demographic information (such as gender, address or occupation), but encouraged, so that we can provide a more tailored experience on our site. To confirm registration, we send all new members and product registrants a welcoming e-mail.
-
-Online Purchases  
-
-
-We use an outside company, element 5, to ship orders and process credit cards. This company does not retain, share, store or use personally identifiable information for any secondary purposes.  
-
-
-On our order form, a user is asked to provide contact information (e.g. name and address) and payment information (e.g. credit card number, expiration date). This information is used for billing purposes, to fill customer's orders and, if the customer chooses, may be used for future promotional offers. If we have trouble processing an order, this contact information will be used to get in touch with the user. 
-
-Cookies   
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in NO WAY linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates.
-
-Cookies provide a more tailored and convenient experience for users. For instance, by setting a cookie on our site, the user would not have to login more than once, thereby saving time. Cookies can also enable us to track and target the interests of our users to further enhance the experience on our site. Rejecting a cookie will limit users to some areas of our site.  
+  1. What information do we collect?
+  2. Purposes for which we Use Information
+  3. Sharing of Information with Third Parties
+  4. Security
+  5. Cookies
+  6. Links
+  7. Chat Rooms and Newsgroups
+  8. Children
+  9. Access, Modification and Accuracy of Information
+  10. Retention and Storage of Information
+  11. Changes to Privacy Policy
+  12. Business Transfers
+  13. Acceptance of Terms
+  14. Contact us
 
 
-Log Files   
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-Sharing   
-We will ONLY share aggregated demographic information with our partners and advertisers. This is NOT linked to any personal information that can identify any individual person.
+1\. **What information do we collect?**  
+Corel may collect personal information from you relating both to your identity and personal preferences as well as our products. Corel will endeavor only to collect such information as is necessary for the stated purpose for which we are collecting the information. For example if you purchase a Corel product, we will require your name and address so that we can send the product to you and your credit card details to obtain payment. Wherever possible Corel will provide you with clear information as to the type of information, we wish to collect and how we want to use it. You will be given a clear option to agree or not agree to such information being collected. If we require further information, we will clearly set out the information we wish to collect and the purposes for which we are collecting it.
 
-As mentioned above, an outside company called Element 5 processes online orders. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
+There are a number of different ways that we may collect personal information from you. At the time of collection we will set out clearly the information that we are collecting and the purposes for which we will use it. Ways we collect personal information include:
 
-Sometimes we partner with another party to provide specific services. When the user signs up for these specific services, we will share ONLY information that is necessary for the third party to provide these specific services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+**Communications from you**  
+You may email or write to us providing your name and contact details and any other personal information contained in your message.
 
-Links  
-This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+**Customer Support**  
+You may telephone or email us in respect of technical assistance you require in respect of our products or information that you would like to receive relating to our products.
 
-Newsletters  
-If a user wishes to subscribe to our News Flash or Product Updates, we only ask for the user's e-mail address.
+**E-mail/Direct mail campaigns**  
+From time to time we may contact you directly by mail, email or telephone informing you about upgrades, new products, promotions or special offers that you may be interested in.
 
-Surveys & Contests   
-From time-to-time our site will request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary, and, therefore, the user has the choice of whether or not to disclose such information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+**Newsletters**  
+We may send out newsletters to our customers providing them with articles and information which we believe may be of interest to them.
 
-Trial Downloads   
-Many Ulead products have trial software available for downloading. During the trial download process, the user has a choice to opt-in or -out of certain options. For example, these may include the option to receive occasional Ulead product news and special offers via e-mail. 
+**Registration of Products**  
+Upon registration of a Corel product you will be asked to provide certain information so that we can record you as an owner of Corel product to help us in providing you with service and information.
 
-After a user downloads a software trial, only two follow-up e-mails will be sent. The first to confirm the trial download and the second to remind the user the end of the trial is nearing. There will be no subsequent mailings related to the download, unless you choose to sign up for them.
+**Purchases**  
+If you wish to purchase Corel Products from our eStore TM or over the telephone we will require sufficient information to complete the purchase including your credit card details, your contact details and an address for shipping.
 
-Security   
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, your information is protected both online and off-line.
+**Resumes**  
+Career opportunities within Corel may be posted on our website to allow you apply directly online and submit your resume.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is protected with the best encryption software in the industry: Secure Sockets Layer (SSL). While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape® Navigator and Microsoft® Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just 'surfing'. To learn more about SSL, follow this link [http://www.verisign.com/site/ssl.html ](http://www.verisign.com/site/ssl.html)
+**Surveys**  
+From time to time we may conduct surveys in respect of our products and services. Participation is completely optional.
 
-At Ulead, we also do everything in our power to protect user information off-line. All of our users' information remains confidential in our offices. Only a selected number of employees who need the information to perform a specific job (e.g. a customer service representative) are granted access to personally identifiable information. These employees must also use password-protected screen-savers when they leave their desk. Furthermore, ALL employees are kept up to date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy and what they can do to ensure our customers' information is protected. Finally, the servers on which we store personally identifiable information are kept in a secure environment, behind locked doors.
+**Aggregate Information**  
+Whenever you enter our website, our web server automatically collects and aggregates information in respect or your visit. This information includes URLs or domains of referring websites, browser type, operating system, the pages that you access and the date and time of your visit. In general this aggregate information will not identify you personally. If we do correlate such information to you, we will treat it in accordance with this policy. 
 
-If you have any questions about the security at our Web site, you can send an e-mail to Ulead.
+2\. **Purposes for which we Use Information**
 
-Special Offers   
-Due to their request, established members will occasionally receive information about products, services, special deals, and a News Flash. Out of respect for the privacy of our users, we provide the option to discontinue these types of communications. For more details, please see the Choice/Opt-out paragraph below. 
+Our objective is to inform you before or at the time of collection as to the information we are collecting and the purposes for which we wish to use such information. We will seek your clear consent to your information being used for the stated purposes and will only collect such information as is reasonably necessary to achieve those purposes. Corel will clearly inform you as to information that it requires to proceed with the stated purpose and information that is merely optional. If you choose not to provide required information Corel may not be able to comply with your request or provide certain services.
 
-Modifying/Updating Personal Information  
-If a user's personally identifiable information changes (such as the postal code) or if a user no longer desires our service, we provide a way to correct, update or remove that user's personal data. This is done at the member information page.
+**Product Registration**  
+Information you provide upon registration will be used to keep a record of your product and will assist in providing assistance if you contact our customer support service. We will also use this information to inform you of any upgrades, new products or promotions that may be of interest to you.
 
-Choice/Opt-out  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. These types of options may include receiving product specific news, 3rd party contact, or even adding your e-mail address to a contest list. 
+**Product Purchases**  
+When you purchase products from our E store or directly from our Customer Services department will use your information to process payment and ship the product to you.
 
-Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by modifing your mailing status [here](https://web.archive.org/web/20050306233356id_/http%3A//www.ulead.com/aboutulead/subscribe.htm). 
+**Information in respect of Corel Products**  
+It is important for us to receive feedback from our customers in respect of our products and any features they would like to see in future products. We will contact you to ask you about our products and also to inform you of upgrades, promotions and new products that you may be interested in.
 
-Users who no longer wish to receive promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the e-mail.
+**Internal Analysis**  
+We may use the information you provide us with for our own internal statistical and analytical purposes, to evaluate and profile customers including customer preferences and purchasing trends which we may use for marketing purposes and in respect of operations and development.
 
-Notification of Changes   
-If we decide to change our privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+**Updating information**  
+We may contact you to ensure that the information we have in our records is still correct and to add additional information to complete your profile. 
 
-|    
----|---
+3\. **Sharing of Information with Third Parties**
+
+We may share the information that you have provided to us with subsidiaries and affiliated companies of Corel Corporation. Such affiliated companies will also comply with the terms of this policy.
+
+In an effort to offer our customers the maximum benefit of Corel's strategic and co-branding partnerships, we also undertake co-marketing agreements with third parties who offer similar products or services or who may collect your personal information, identifiable or non-identifiable, in order to provide certain online services to you. Corel may share profile information with its co-branding partners in order to better personalize the content, banners and promotions that you and other users will see on our sites. Advertising partners or other online services partners of Corel may use their own cookies.  
+As a registered Corel customer, you will have the option of receiving news and special offers from third parties. You will have the option of declining such communications when you provide us with you information or at any other time.
+
+**Legal Disclaimer:** Although we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+
+4\. **Security**  
+We use commercially reasonable efforts to ensure that your information is stored and maintained in a secure environment. We have implemented procedures to ensure that your information is only made available to such designated staff as necessary to carry out the stated purposes that we have communicated to you.
+
+**Encryption**  
+Orders received by the Corel eStore, including credit card information is encrypted using Secure Sockets Layer (SSL) Protocol for browsers that support 128 bit encryption. This technology ensures that your information is secure as it is sent over the Internet to our server.
+
+**.Net Passport**  
+Our website and certain of our products permit you to sign in using the information contained in your .Net Passport profile. We will only have access to such information as you have authorized in your profile. Your password provides access to your information and you should take steps to ensure that you do not disclose your passport to any third parties. 
+
+5\. **Cookies**  
+We may make use of "cookies" on our website. A cookie is a small text file that can be placed and stored on your computer's hard disc when you visit a website for record keeping purposes. A cookie itself is not designed or intended to read any information from a user's computer (other than the contents of the cookie); rather, it is an identifier used by the Web site that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same server to identify the computer and subsequently to customize, monitor, or regulate the use of a site based on information stored on the host server. Therefore, cookies only identify the user's computer to the Web site which may correlate other information, including personally identifying information, with the cookie.
+
+We use cookies to allow us to automate access and the data entry functions of our website such as to correlate online ordering information for purchases you may make while at the website (if any), tailor our website to your preferences or interests, or customize promotions or marketing. In addition, cookies allow us to track use of our website to determine those areas which are useful or popular and those that are not thereby enabling us to improve and update our website effectively.
+
+Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. If you are not sure how to do this or whether you have this option you should consult the documentation that accompanied your web browser. You should be aware that if you elect not to accept cookies, some parts of the website may not function properly or permit access. 
+
+6\. **Links**  
+We may offer links from our website to other websites which may be hosted by our co-branding partners or by unrelated companies which we think may be of interest to you. Such websites are not governed by this privacy policy and Corel makes no representation as to their practices for dealing with your personal information. We recommend that you check the privacy policy of any website at the beginning of your visit. 
+
+7\. **Chat Rooms and Newsgroups**  
+Corel's website may have chat rooms, newsgroups, or other forums which permit individuals to interact online. Any information you transmit online in such forums will be made public and Corel cannot control nor is it responsible for the use any third parties may make of such information. 
+
+8\. **Children**  
+This site is a general audience site which is neither designed nor intended to collect personal information from children who are under the age of 13. In order to ensure compliance with the provisions of the Children's Online Privacy Protection Act children under the age of 13 should not provide any personal information to this site. We ask that parents supervise their children while online. 
+
+9\. **Access, Modification and Accuracy of Information**  
+We take reasonable steps to ensure that the information that we receive from you is accurate and kept up to date. You have the right to access your information to verify the information that we have collected in respect of you. You also have the right to request that your information be modified or deleted, including any changes to any consents that you may have given in respect of us contacting you relating to information that you receive from us. You may also ask at any time that your preferences as to the type of communications that you receive from us are modified in order to stop receiving them or to be added to our mailing list. We will endeavor to deal with all such requests for access and modifications in a timely manner. We will not be able to comply with requests in respect of information that we may have archived as part our business operations. Please send any requests for access to or modifications or deletions of information relating to you to the e-mail address set forth in Section 14 below.  
+In the event that your product contains a message center, and it is not a Free, OEM or trial version, you may elect not to receive any in-product marketing information through the message center only by altering your message preferences in the product. 
+
+10\. **Retention and Storage of Information**  
+We will retain your information for a reasonable time to permit us to use it for the purposes that we have communicated to you. When information is no longer required, we will ensure that all such data is removed from our database.
+
+We may use the services of third party companies to physically collect and store your information on our behalf. Any such companies will have to comply with the terms of this policy. 
+
+11\. **Changes to Privacy Policy**  
+We may change the terms of this privacy policy from time to time in order to reflect our practices and provide greater protection for your information. Any change to this policy will be clearly displayed on this website. Any changes to this policy will not have retrospective effect. Information collected by us will be dealt within accordance with the provisions of our policy which were in effect at the time of collection. 
+
+12\. **Business Transfers**  
+The information that is collected by Corel is considered to be an asset. In the event that Corel, any affiliated company, division or portions of its assets are acquired by another company, such information may be one of the transferred assets. We will take reasonable steps to place a notification of such a transfer on our website. 
+
+13\. **Acceptance of Terms**  
+By using our services, accessing our website or purchasing our products you are consenting to the practices relating to information collection and use that are described in this policy.
+
+14\. **Contact us**  
+Any requests for access to your information, modification of your information or questions in respect of this policy should be sent to the following email address [privacy@corel.com](mailto:privacy@corel.com). 
+
+Last Updated: August 2006
