@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secsports.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216233846id_/http%3A//www.secsports.com/index.php%3Fs%3D%26change_well_id%3D2%26url_article_id%3D5921) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secsports.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615160926id_/http%3A//www.secsports.com/index.php%3Fs%3D%26change_well_id%3D2%26url_article_id%3D5921) for the most accurate reproduction.*
 
 # www.secsports.com - SECSports.com Privacy Policy
 
