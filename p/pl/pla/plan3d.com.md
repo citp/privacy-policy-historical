@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the plan3d.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206015600id_/http%3A//www.plan3d.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan3d.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616010722id_/http%3A//www.plan3d.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
 **Licensee of TRUSTe Privacy Program**  
-Plan3D is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site www.plan3D.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Plan3D is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site www.plan3D.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
 [](http://www.truste.org/ivalidate.php?url=www.plan3D.com&sealid=101)If you have questions or concerns regarding this statement, you should first contact Michael Gariepy at support@plan3D.com.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [TRUSTe WATCHDOG LINK](http://www.truste.org/consumers/watchdog_complaint.php).  TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
