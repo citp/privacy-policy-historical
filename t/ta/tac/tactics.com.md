@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tactics.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203004504id_/http%3A//www.tactics.com/info/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tactics.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615030105id_/http%3A//www.tactics.com/info/security-privacy) for the most accurate reproduction.*
 
 # Security & Privacy
 
-Tactics uses 128-bit Secure Sockets Layer (SSL) encryption technology to prevent third parties from reading the information you enter during our online Checkout process. We have chosen Thawte® as our SSL digital certificate provider to offer you the most secure certificate services available. 
+Tactics uses 128-bit Secure Sockets Layer (SSL) encryption technology to prevent third parties from reading the information you enter during our online Checkout process. We have chosen Verisign® as our SSL digital certificate provider to offer you the most secure certificate services available. 
 
 To ensure your online transaction is secure during the Checkout process, make sure the gold key icon appears connected in the lower left corner for Netscape 3.0 browsers or that the padlock icon appears in the lower right corner for all Internet Explorer or Netscape 4.0+ browsers. 
 
