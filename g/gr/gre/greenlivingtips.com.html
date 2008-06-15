@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the greenlivingtips.com privacy policy that was archived on 2007-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071027144429id_/http%3A//www.greenlivingtips.com/pages/Privacy-statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greenlivingtips.com privacy policy that was archived on 2008-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080616013325id_/http%3A//www.greenlivingtips.com/pages/Privacy-statement.html) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -48,13 +48,14 @@
 				
 
 					<td class="Menu">
-			| <a href="/">Home - Tip Categories</a>
+			| <a href="/">Home - articles</a>
 			| <a href="/blogs/">Green news blog</a> 
+			| <a href="/pages/Buy-green.html">Green shopping</a> 
 			| <a href="/pages/About-Green-Living-Tips.html">About</a> 
 			| <a href="/pages/Feeds.html">Feeds</a>
                     	| <a href="/pages/Site-Map.html">Site Map</a>
 			| <a href="/search/advanced">Search</a>
-			 | <a href="/pages/Contact-Us.html">Contact Us</a>
+			 | <a href="/pages/Contact-Us.html">Contact</a>
 					<br><br>Earth friendly advice for a greener planet. Reducing costs, consumption &amp; impact on the environment!
 
 					
@@ -263,31 +264,22 @@
 
 		<td class="Heading">
 
-			&nbsp;
+			Official Sponsor
+
 		</td>
 
 	</tr>
 
+
+
+
+
 <tr>
 
 		<td style="padding:5px  5px  5px  5px ; ">
-<script type="text/javascript"><!--
-google_ad_client = "pub-0338296021848851";
-google_ad_width = 120;
-google_ad_height = 600;
-google_ad_format = "120x600_as";
-google_ad_type = "text";
-google_ad_channel = "";
-google_color_border = "F4FAD6";
-google_color_bg = "F4FAD6";
-google_color_link = "717D45";
-google_color_text = "000000";
-google_color_url = "717D45";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
+<center>
+<a href="http://www.energymatters.com.au" target="_blank"><img border="0" src="/images/wind-solar-energy-120x600.gif" alt="Renewable energy - solar power, wind and hot water" width="120" height="600"></a>
+</center>
 		</td>
 
 	</tr>
@@ -327,6 +319,7 @@ google_color_url = "717D45";
 				<a href="/pages/Contact-Us.html">Contact</a><br>
 				<a href="/blogs/">Green blog</a><br>
 				<a href="/">Home/tip categories</a><br>
+				<a href="/pages/Buy-green.html">Green shopping</a><br>
 				<a href="/recform.htm" target="page" onclick="window.open('','page','toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=550,height=410,left=50,top=50,titlebar=yes')">Tell a friend</a><br>
 				<a href="/search/advanced">Search</a><br>
 				<img src="/images/rss-web-feed-small.gif">&nbsp;<a href="/pages/Feeds.html">Feeds</a><br>
@@ -334,17 +327,59 @@ google_color_url = "717D45";
 
 				
  </p><div align="center">
-                      <a name="newsletter"></a><form action="/cgi-bin/dada/mail.cgi" method="get">
-<input type="hidden" name="list" value="glt">
-<input type="hidden" name="f" value="subscribe">
-Free green living tips newsletter - Subscribe!<br>
-<a href="/pages/Tree-planting-program.html" style="border:0"> <img alt="Subscribe to our newsletter and we'll plant a tree!" src="/images/planting-trees.jpg" border="0" width="115" height="60"></a><br>
-<input type="text" name="email" value="email address" size="16" onfocus="this.value='';" maxlength="1024" class="formfield">
- <br>
-<input type="submit" value="Submit" class="formbutton"><br>
+<form style="margin:0px;" method="post" action="http://www.ttbconnect.com/form.php?form=3" id="frmSS3" onsubmit="return CheckForm3(this);">
+<input type="hidden" value="subscribe" name="f">Free green living tips
+newsletter - Subscribe!<br>
+<a style="BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px" href="http://www.greenlivingtips.com/pages/Tree-planting-program.html"><img alt="Subscribe to our newsletter and we'll plant a tree!" src="/images/planting-trees.jpg" border="0" width="115" height="60"><br>
+</a><img src="/spacer.gif" width="1" height="1" border="0"><br>
+<input type="text" name="CustomFields[1]" id="CustomFields_1_3" value="first name" onfocus="this.value='';" class="formfield" size="16">
+<br><img src="/spacer.gif" width="1" height="1" border="0"><br>
+<input type="text" name="email" value="email address" onfocus="this.value='';" class="formfield" size="16">
+<br><img src="/spacer.gif" width="1" height="1" border="0"><br>
+<input type="hidden" name="format" value="h"><input type="submit" value="Submit" class="formbutton">
+<br>
 We care about your privacy; we don't spam
-</form>
-</div>
+  </form>
+  <script language="javascript">
+
+			function CheckMultiple3(frm, name) {
+				for (var i=0; i < frm.length; i++)
+				{
+					fldObj = frm.elements[i];
+					fldId = fldObj.id;
+					if (fldId) {
+						var fieldnamecheck=fldObj.id.indexOf(name);
+						if (fieldnamecheck != -1) {
+							if (fldObj.checked) {
+								return true;
+							}
+						}
+					}
+				}
+				return false;
+			}
+		function CheckForm3(f) {
+			if (f.email.value == "") {
+				alert("Please enter your email address.");
+				f.email.focus();
+				return false;
+			}
+		
+			var fname = "CustomFields_1_3";
+			var fld = document.getElementById(fname);
+			if (fld.value == "") {
+				alert("Please enter a value for field First name");
+				fld.focus();
+				return false;
+			}
+		
+				return true;
+			};
+		
+</script>
+
+  </div>
+
 <div align="center">
   <center>
   <table border="0" cellpadding="2" cellspacing="0">
@@ -481,6 +516,34 @@ We care about your privacy; we don't spam
 
 							<li>
 
+								<a href="http://www.greenlivingtips.com/articles/154/1/30-baking-soda-tips.html">
+
+									30 baking soda tips
+
+								</a>
+
+							</li>
+
+						
+
+
+
+							<li>
+
+								<a href="http://www.greenlivingtips.com/articles/136/1/24-handy-lemon-tips.html">
+
+									24 handy lemon tips
+
+								</a>
+
+							</li>
+
+						
+
+
+
+							<li>
+
 								<a href="http://www.greenlivingtips.com/articles/73/1/White-sugar-vs-raw-sugar.html">
 
 									White sugar vs raw sugar
@@ -509,37 +572,9 @@ We care about your privacy; we don't spam
 
 							<li>
 
-								<a href="http://www.greenlivingtips.com/articles/52/1/Shampoo-and-the-planet.html">
+								<a href="http://www.greenlivingtips.com/articles/119/1/Versatile-vinegar-tips.html">
 
-									Shampoo and the planet
-
-								</a>
-
-							</li>
-
-						
-
-
-
-							<li>
-
-								<a href="http://www.greenlivingtips.com/articles/125/1/Air-conditioning-and-keeping-cool-indoors.html">
-
-									Air conditioning and keeping cool indoors
-
-								</a>
-
-							</li>
-
-						
-
-
-
-							<li>
-
-								<a href="http://www.greenlivingtips.com/articles/51/1/Kitchen-sponges.html">
-
-									Kitchen sponges
+									Versatile vinegar tips
 
 								</a>
 
@@ -565,9 +600,9 @@ We care about your privacy; we don't spam
 
 							<li>
 
-								<a href="http://www.greenlivingtips.com/articles/44/1/Gas-saving-tips.html">
+								<a href="http://www.greenlivingtips.com/articles/168/1/Uses-for-olive-oil.html">
 
-									Gas saving tips
+									Uses for olive oil
 
 								</a>
 
@@ -653,18 +688,21 @@ environmental news items!</font>
             <p align="center"><a href="http://www.carbonify.com/offset/tree-planting.htm" target="_blank"><img border="0" src="/images/carbon-offset-carbonify.jpg" alt="Help offset your carbon dioxide emissions with Carbonify.com"><br>
             </a>&nbsp;<br>
 			Copyright (c)
-			2007
+			2008
 			Green living tips
 			. All rights reserved. Made in South Australia!<br>
             	<a href="/pages/About-Green-Living-Tips.html"><font color="#FFFFFF">About us</font></a> 
+		| <a href="/pages/advertising-and-sponsorship.html"><font color="#FFFFFF">Sponsorship</font></a>
+		| <a href="/pages/media-and-press.html"><font color="#FFFFFF">Media</font></a>
 		| <a href="/"><font color="#FFFFFF">Home</font></a>
             	| <a href="/pages/Site-Map.html"><font color="#FFFFFF">Site Map</font></a>
 		|  <a href="/search/advanced"><font color="#FFFFFF">Search</font></a>
 		| <a href="/pages/Contact-Us.html"><font color="#FFFFFF">Contact Us</font></a>&nbsp; |&nbsp; <a href="/pages/Privacy-statement.html"><font color="#FFFFFF">Privacy</font></a>&nbsp;
 		| <a href="/pages/Article-reproduction-guidelines.html"><font color="#FFFFFF">Article Reproduction Guidelines</font></a>
-		| <a href="/pages/Terms-of-use.html"><font color="#FFFFFF">Terms</font></a><br>
-			&nbsp;</p>
-        </td>
+		| <a href="/pages/Terms-of-use.html"><font color="#FFFFFF">Terms</font></a><br><br>
+<font color="#FFFFFF">Green Living Tips is <a href="/blogs/246/Thank-you-Energy-Matters.html"><font color="#FFFFFF">Sponsored by Energy Matters Australia</font></a><br>
+			&nbsp;</font></p><font color="#FFFFFF">
+        </font></td>
 	</tr>
 </tbody></table>
 
