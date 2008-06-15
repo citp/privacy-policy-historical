@@ -1,62 +1,34 @@
-> *The following text is extracted and transformed from the buyitsellit.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606183504id_/http%3A//www.buyitsellit.com/bisi/privacy_policy.vhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyitsellit.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615134914id_/http%3A//www.buyitsellit.com/privacy.html) for the most accurate reproduction.*
 
-# BuyItSellIt.com: Privacy Policy
+# buyitsellit - Free Online eCommerce Store Builder
 
-|  BuyItSellIt.com Privacy Policy
+**WHAT PERSONAL INFORMATION DOES BUYITSELLIT COLLECT AND WHY?**
 
-BuyItSellIt.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: BuyItSellIt.com. 
+****To provide you with the best service possible a Seller, we collect some or all of the following information:
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your user session and to gather broad demographic information. 
-
-Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. 
-
-When necessary, customer information can also be shared with parties to assist in contact related to transactions arranged within BuyItSellIt.com's marketplace. 
-
-Our site uses an order form for customers to request information, products, and services. We collect visitor's financial information (like their account or credit card numbers). Financial information that is collected is used to check the users' qualifications and bill the user for products and services.
-
-Our online surveys ask visitors for financial information (like their account or credit card numbers) and demographic information (like their zip code, age, or income level). Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
-
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
-
-## Public Forums
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-## Security
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
-
-## Children's Guidelines
-
-According to the answers that you have chosen, your Web site meets the guidelines of TRUSTe's Children's program.
-
-  1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
-  2. NOT collect personally identifiable offline contact information without prior parental consent
-  3. NOT distribute to third parties any personally identifiable information with out prior parental consent
-  4. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent
-  5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
+  * your name
+  * e-mail address
+  * telephone number
+  * shipping/mailing address
 
 
 
-## Choice/Opt-Out
+When you use BuyItSellIt's services we track your activity on our website. Your personal information is used to identify you in our system allowing BuyItSellIt to interact with eBay on your behalf. We also track your Internet Protocol (IP) address, domain name (if applicable), browser type, and request.cookies duration. BuyItSellIt uses this information to administer the site and to further improve our service to you. 
 
-Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor.
+If you elect to receive emails updates from BuyItSellIt, you will periodically receive e-mails from us updating you of significant events taking place at BuyItSellIt. You can always unsubscribe from this list by following the "unsubscribe" instructions provided in the e-mail correspondences.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+****WITH WHOM DOES BUYITSELLIT SHARE YOUR INFORMATION?****
 
-  1. You can send email to [webmaster@buyitsellit.com](mailto:webmaster@buyitsellit.com)
+Please note that BuyItSellIt has links to other web sites. When you click on one of these links, you leave BuyItSellIt and go to another web site. We encourage you to read the privacy statements of these sites, to which we link, as their privacy policy may differ from ours.
 
+****WHAT ARE "COOKIES" AND HOW ARE THEY USED?****
 
+A "cookie" is a small amount of data sent to your browser from a web server and stored on your computer's hard drive. Your browser must allow cookies in order for you to use the BuyItSellIt service. We use cookies to hold information, such as a login ID, so you don't need to re-enter information each time you utilize a BuyItSellIt service during a request.cookies. We also use cookies to provide customized and personalized services to you. Should you choose to set your browser to reject cookies, you will render it nearly impossible to use sites that set and use cookies, including BuyItSellIt.
 
-## Correct/Update
+****HOW CAN I REVIEW AND CHANGE MY INFORMATION AND CANCEL MY BUYITSELLIT ACCOUNT?****
 
-This site gives users the following options for changing and modifying information previously provided. 
+You can edit and change your information in your BuyItSellIt account, including your password, at any time in the "preferences" section of the BuyItSellIt website. Should you forget your password, BuyItSellIt can send it to you immediately via e-mail, at your request. To cancel your account, please submit a ticket from the support section
 
-  1. email [webmaster@buyitsellit.com](mailto:webmaster@buyitsellit.com)' 
+****HOW I WILL KNOW ABOUT CHANGES TO BUYITSELLIT'S PRIVACY POLICY****
 
-
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us via the contact us link at the top of any page on our site.  |  |  |  |  |   
----
+If we decide to change our privacy policy, we will post those changes on the "Start Page" of our site so that our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we shall notify users by way of this posting. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
