@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prosportsdaily.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225131642id_/http%3A//www.prosportsdaily.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosportsdaily.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615140040id_/http%3A//www.prosportsdaily.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
+Privacy Policy - We respect the importance of your privacy.
 
 SportsDirect Inc. Privacy Policy applies to Personal Information of non-employee Persons who interact with SportsDirect Inc. that is collected , used or disclosed SportsDirect Inc. 
 
@@ -104,8 +104,6 @@ Covers.com
 Wagerline.com   
 BullySports.com   
 Pokerfan.com 
-
-The SportsDirect Inc. Privacy Policy in Detail 
 
 **Definitions**
 
