@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialectpayments.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215082922id_/http%3A//www.dialectpayments.com/www/149/1001127/displayarticle/1001697.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialectpayments.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615124426id_/http%3A//www.dialectpayments.com/www/149/1001127/displayarticle/1001697.html) for the most accurate reproduction.*
 
 # Dialect Payments - Privacy Policy
 
