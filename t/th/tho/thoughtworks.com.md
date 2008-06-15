@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoughtworks.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210133600id_/http%3A//thoughtworks.com/homepage/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtworks.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615113354id_/http%3A//www.thoughtworks.com/homepage/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - committed to protecting your privacy - ThoughtWorks
 
@@ -58,7 +58,8 @@ If you have any questions now or during your visit regarding this Online Privacy
 
 
 ThoughtWorks, Inc.   
-200 East Randolph, 25th Floor  
+200 E Randolph St  
+25th Floor  
 Chicago, Illinois 60601  
 USA  
 Attention: Privacy Officer
