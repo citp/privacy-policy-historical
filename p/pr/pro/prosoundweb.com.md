@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the prosoundweb.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060823id_/http%3A//www.prosoundweb.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosoundweb.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615140352id_/http%3A//www.prosoundweb.com/index.php/about/privacy) for the most accurate reproduction.*
 
 # Huge Universe, Inc./ProSoundWeb.com Privacy Policy
-
-## Privacy Statement for Huge Universe Web Sites, including [ProSoundWeb.com](http://www.prosoundweb.com/), [LiveSoundInt.com](http://www.livesoundint.com/), and [the ProSoundWeb Forums](http://www.prosoundweb.com/forums/)
 
 Huge Universe, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our websites: ProSoundWeb.com, LiveSoundInt.com, ChurchSoundMagazine.com, srforums.prosoundweb.com, recforums.prosoundweb.com, marsh.prosoundweb.com, networkforums.prosoundweb.com, and Live-Audio.com and any and all subsidiary sites, hereafter referred to as "our site" or "this site." 
 
@@ -47,8 +45,8 @@ Our site gives users the following options for changing and modifying informatio
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 Privacy Administrator  
-Huge Universe, Inc   
-169 Beulah Street  
-San Francisco, CA 94117  
+EH Publishing  
+111 Speen Street, Suite 200  
+Framingham, MA 01701  
 USA  
 Send e-mail to [the Webmaster.](mailto:webmaster@hugeuniverse.com?subject=About%20Huge%20Universe%20privacy%20policy)
