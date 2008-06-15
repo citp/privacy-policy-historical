@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2007-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070830045025id_/http%3A//www.acma.gov.au/WEB/STANDARD/1001/pc%3DPC_2830) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615154614id_/http%3A//www.acma.gov.au/WEB/STANDARD/1001/pc%3DPC_2830) for the most accurate reproduction.*
 
 # ACMA - Privacy notice
 
