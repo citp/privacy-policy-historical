@@ -1,22 +1,8 @@
-> *The following text is extracted and transformed from the downloadpass.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025031339id_/http%3A//www.downloadpass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpass.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616013139id_/http%3A//www.downloadpass.com/privacy.html) for the most accurate reproduction.*
 
 # HOH Limited Privacy Policy Statement
 
 **PRIVACY POLICY STATEMENT**
-
-This website (the "Site") is operated by **HOH Limited and PV Empowerm S.L., Spain**
-
-Our postal address is:  
-12 Dervis Street,  
-Palais D'Ivoir Building,  
-1066 -Nicosia,  
-Cyprus
-
-Empowerm:  
-C/ San Miguel, 30 3ºL  
-07002 Palma de Mallorca (España) 
-
-We can be reached via e-mail at [privacy@hohsupport.com](mailto:privacy@hohsupport.com)
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscribers and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site.
 
@@ -53,7 +39,7 @@ _**There may be occasions when a subscriber will be presented with special offer
 "OPT-OUT" -- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
 **_"OPT-OUT" Revocation Procedure.  
-_**The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by emailing [remove@hohsupport.com](mailto:remove@hohsupport.com), and entering in the exact email address to be "Opted-Out".
+_**The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by emailing , and entering in the exact email address to be "Opted-Out".
 
 **_Terms and Conditions of Membership.  
 _**Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers. 
