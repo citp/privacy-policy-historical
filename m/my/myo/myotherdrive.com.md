@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myotherdrive.com privacy policy that was archived on 2007-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070303220621id_/http%3A//www.myotherdrive.com/actions/viewPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myotherdrive.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615161128id_/http%3A//www.myotherdrive.com/actions/viewPrivacy) for the most accurate reproduction.*
 
 # MyOtherDrive.com: Privacy Statement
 
