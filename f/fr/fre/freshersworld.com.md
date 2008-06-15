@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freshersworld.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225131854id_/http%3A//www.freshersworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshersworld.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616002322id_/http%3A//www.freshersworld.com/privacy.htm) for the most accurate reproduction.*
 
-# Freshersworld.com :: A Complete Portal for Fresh Engineers.
+# Freshersworld.com ™ :: Privacy Policy
 
   
 Freshersworld.com, (FW) is committed to safeguarding your privacy online. We will use our best efforts to ensure that the information you submit to us remains private. Please read the following policy to understand how your personal information will be treated. This policy may change from time to time so please check back periodically. 
