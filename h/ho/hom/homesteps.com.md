@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesteps.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211003934id_/http%3A//www.homesteps.com/private_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesteps.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615144053id_/http%3A//www.homesteps.com/private_policy.html) for the most accurate reproduction.*
 
 # Home Steps , A Freddie Mac Unit: Private Policy
 
